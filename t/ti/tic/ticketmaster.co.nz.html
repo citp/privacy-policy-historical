@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ticketmaster.co.nz privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605011919id_/http%3A//www.ticketmaster.co.nz/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.co.nz privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204093146id_/http%3A//www.ticketmaster.co.nz/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>Ticketmaster - Help</title>
 
 <meta name="description" content="Find and buy tickets: concerts, sports, arts, theater, theatre, broadway shows, family events at Ticketmaster.com">
@@ -14,15 +14,16 @@
 <meta name="expires" content="never">
 <meta name="distribution" content="global">
 <meta name="robots" content="index">
-<link rel="icon" href="http://www.ticketmaster.co.nz/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.ticketmaster.co.nz/favicon.ico" type="image/x-icon">
-
-<meta name="google-site-verification" content="n25aNLg_eWBTWk30Wl-vzDdZXXosnD0sqNiA_RANBOo">
+<link rel="icon" href="http://www.ticketmaster.co.nz/favicon-rebrand.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.ticketmaster.co.nz/favicon-rebrand.ico" type="image/x-icon">
 
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/tmjs.js" type="text/javascript"></script>
+<!-- ClickStream MetaTags - End -->
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/prototype.js"></script>
+
+<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/tmjs.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/prototype.js"></script>
 
 <script type="text/javascript"><!--
 var tm_omn_account="tm-NZprod";
@@ -37,6 +38,8 @@ tm_omni_temp.set('omnAID','');
 tm_omni_temp.set('omnEID','');
 tm_omni_temp.set('omnMID','TM_NZ: ' + market_id);
 
+
+
 var omniCustomClick = Class.create({
   initialize: function(initialData) {
     this.data = Object.extend({}, initialData);
@@ -48,37 +51,56 @@ var omniCustomClick = Class.create({
       });
        switch(newPage){
          case true:
-           tm_omn.t();
+                 tm_omn.t();
+                 tm_omn.getPreviousValue(tm_omn.pageName,'gpv','');
          break;
          case false:
            tm_omn.tl(true,'o',clickLink);
          break;
       }
+        if(tm_omni_temp.get('location_path')){
+           if(newWindow == true){
+               window.open(tm_omni_temp.get('location_path'),'_blank');
+           }else{
+               self.location.replace(tm_omni_temp.get('location_path'));
+           }
+            return false;
+            tm_omni_temp.unset('location_path');
+        }
         return true;
   },
-  module_link: function(clickmod){
+  module_link: function(clickmod,inclusiveLink){
          this.data = Object.extend({},{
                     linkTrackVars: 'events,eVar13,prop14,eVar14',
                   linkTrackEvents: 'event13',
                            events: 'event13',
-                           prop14: 'TM_NZ: ' + clickmod ,
+                           prop14: 'TM_NZ: ' + clickmod,
+                           eVar14: 'TM_NZ: ' + clickmod,
                            eVar13: 'TM_NZ: ' + clickmod
                   },
                  clickLink = clickmod,
                    newPage = false
                   );
+      if(inclusiveLink){
+         this.data.prop14 = "";
+         this.data.linkTrackVars = this.data.linkTrackVars.gsub(/,prop14,eVar14/,"");
+       }
       this.handleClick();
      },
-  navigation_link: function(clicklink,np){
-         if(!np) np= false;
+  navigation_link: function(clicklink,np,nav_url,newWin){
+         if(!np){np= false;}
+         if(newWin != false){newWin = true;}
          this.data = Object.extend({},{
                    linkTrackVars: 'prop14,eVar14',
                    linkTrackEvents: 'event27',
-                          prop14: 'TM_NZ: ' + clicklink
+                          prop14: 'TM_NZ: ' + clicklink,
+                          eVar14: 'TM_NZ: ' + clicklink
                   },
                  clickLink = clicklink,
-                   newPage = np
+                   newPage = np,
+                newWindow  = newWin
                   );
+      tm_omni_temp.set('location_path',nav_url);
       this.handleClick();
      },
  trackomni_favoriteshare: function(lTV,lTE,clicklink){
@@ -90,7 +112,8 @@ var omniCustomClick = Class.create({
          this.data = Object.extend({},{
                    linkTrackVars: 'prop14,eVar14,' + lTV.join(','),
                  linkTrackEvents: lTE.join(','),
-                          prop14: 'TM_NZ: ' + clicklink
+                          prop14: 'TM_NZ: ' + clicklink,
+                          eVar14: 'TM_NZ: ' + clicklink
                   },
                  clickLink = clicklink,
                    newPage = false
@@ -120,13 +143,20 @@ TMDebug = {
 </script>
 <!-- TM_CUSTOM_SCRIPT -->
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/builder.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/effects.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/dragdrop.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/controls.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/slider.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/carousel.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/prototype/tm/popup.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/builder.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/effects.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/controls.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/slider.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/carousel.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/tm/popup.js"></script>
+
+
+
+
+
+
+<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/global.js" type="text/javascript"></script>
 
 
 
@@ -142,15 +172,17 @@ TMDebug = {
 
 
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/global.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/base64.js"></script>
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/base64.js"></script>
-
-<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/unicode.js"></script>
+<script language="JavaScript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/unicode.js"></script>
 
 
         
 <script type="text/javascript" language="javascript">
+    <!--
+    document.domain = "ticketmaster.co.nz";
+    //-->
+</script><script type="text/javascript" language="javascript">
     var extraWT = new Array();
 </script><script language="JavaScript">
 
@@ -227,7 +259,7 @@ function aolcsscheck(){
 }
 
 function grabUrl() {
-   var ticketPath = "http://media.ticketmaster.com/en-nz/img/sys/exchange/"
+   var ticketPath = "http://media.ticketmaster.com/tm/en-nz/img/sys/exchange/"
    TMObject(mName).SetVariable("serverUrl", ticketPath);
 
    var tmPath = "http://www.ticketmaster.co.nz/"
@@ -244,7 +276,7 @@ function grabUrl() {
 var location_text = 'Enter City or Postcode';
 location_text = location_text.replace(reg_ex,replaceItem);
 
-var page_context_uri = "6gpfVwicoW07FInYUwCv5sVORMeTKI6Nn_EpUzgdKM9FJ3SFGKV3-N222n1ZzQKzpBXO";
+var page_context_uri = "PpZbL6asFJX28FYRNCYUivEIPV3juDH7ATOfUfeJ7L64kuq5azeqI8OkOySWPuP_KqrSDhN3SspaZnOwdBHTWgOIRJ10nummrQ";
 
 
         new CookieTree( '_E' ).remove( 'did' );
@@ -259,108 +291,92 @@ var page_context_uri = "6gpfVwicoW07FInYUwCv5sVORMeTKI6Nn_EpUzgdKM9FJ3SFGKV3-N22
 
 <!--b4 dc--><!--after dc-->
 
-    <link href="http://media.ticketmaster.com/en-nz/css/4d3ebf96316f30634cad6e2cb2797e7f/legacy.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.com/en-nz/css/4d3ebf96316f30634cad6e2cb2797e7f/default.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-nz/css/ea37cf12bc41ad89c8bba341a5a66065/tm/legacy.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-nz/css/ea37cf12bc41ad89c8bba341a5a66065/tm/default.css" rel="stylesheet" type="text/css">
 
 
 
     
 
 
+    
+
+    <link href="http://media.ticketmaster.com/en-nz/css/ea37cf12bc41ad89c8bba341a5a66065/tm/carousel.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-nz/css/ea37cf12bc41ad89c8bba341a5a66065/tm/langoverlay_en-nz.css" rel="stylesheet" type="text/css">
 
 
     
 
-    <link href="http://media.ticketmaster.com/en-nz/css/4d3ebf96316f30634cad6e2cb2797e7f/carousel.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.com/en-nz/css/4d3ebf96316f30634cad6e2cb2797e7f/langoverlay_en-nz.css" rel="stylesheet" type="text/css">
-
 
     
- 
-        <script type="text/javascript"><!--
-                var major_cat_cookie = GetCookie("MAJOR_CATEGORY");
-    var css_link_href = "http://media.ticketmaster.com/en-nz/css/4d3ebf96316f30634cad6e2cb2797e7f/cat_" + major_cat_cookie + ".css";
-
-    var major_cat_cookie_style = "\n<li" + "nk href='" + css_link_href + "' rel='stylesheet' type='text/css' />\n";
-                      if(major_cat_cookie){
-              document.write( major_cat_cookie_style );
-              }
-        //-->
-        </script>
-
 
         <!--[if IE 6]>
         <style>
-            .lidExpand_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_sm_left.png'); }
-            .lidExpand_Lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_lg_left.png'); }
-            .lidRt_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_sm_right.png'); }
-            .lidRt_lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_lg_right.png'); }
-            #logoBox {
-            background-image: none;
-            filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/tmLogo.png');
-            }
+            .lidExpand_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_sm_left.png'); }
+            .lidExpand_Lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_lg_left.png'); }
+            .lidRt_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_sm_right.png'); }
+            .lidRt_lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_lg_right.png'); }
             .less #change_location {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/locboxbg_wt.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/locboxbg_wt.png');
             }
             .less #location_button {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/locboxbg_wt_rt.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/locboxbg_wt_rt.png');
             }
             #locBoxTop {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/locationbox_top.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/locationbox_top.png');
             }
             #locBoxMid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/locationbox_mid.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/locationbox_mid.png');
             }
             #locBoxBot {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/locationbox_bot.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/locationbox_bot.png');
             }
             #colLeft .lid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_left.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_left.png');
             }
             .wrap-myTM .lid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid-mytm.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid-mytm.png');
             }
             #seeEvents .lid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/wrap_top_search.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/wrap_top_search.png');
             }
             #leftCol #seeEvents .lid {
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/wrap_top_search_rt.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/wrap_top_search_rt.png');
             }
             .lid-cat .roundBot {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_browse_bot.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_browse_bot.png');
             }
             .lid-cat .roundTop {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/corners/lid_browse_top.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/corners/lid_browse_top.png');
             }
             .dropdown {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/shad_box.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/shad_box.png');
             }
             .dropdownSm {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-nz/img/sys/1000/shad_box_sm.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/shad_box_sm.png');
             }
             span.dots {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/attraction/cal_dot.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/attraction/cal_dot.png');
             }
 
-            #footerBottom a#bottomLogo { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/logoBottom.png'); }
-            #twitterIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/logoTwit.png'); }
-            #facebookIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-nz/img/sys/1000/logoFB.png'); }
+            #footerBottom a#bottomLogo { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/logoBottom.png'); }
+            #twitterIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/logoTwit.png'); }
+            #facebookIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-nz/img/sys/1000/logoFB.png'); }
 
         </style>
-
     <![endif]-->
 
 
@@ -372,6 +388,9 @@ var page_context_uri = "6gpfVwicoW07FInYUwCv5sVORMeTKI6Nn_EpUzgdKM9FJ3SFGKV3-N22
     he\ight: auto;
     zoom: 1;
 }
+            #locBox { zoom:1;
+                filter:progid:DXImageTransform.Microsoft.Shadow(color='#000000',direction='120',strength='5');
+             }
 </style>
 <![endif]-->
 <!--[if IE]>
@@ -383,13 +402,16 @@ var page_context_uri = "6gpfVwicoW07FInYUwCv5sVORMeTKI6Nn_EpUzgdKM9FJ3SFGKV3-N22
 
 
 
+
 </head>
 <body id="body">
+
 <noscript>
     <div style="baCkground-color:#FFF3D2; border-bottom:1px solid #E4D199; margin-bottom:15px; padding:10px;" align="center">
     You must set your browser to <a href="http://www.ticketmaster.co.nz/h/cookies.html">accept cookies</a> and to <a href="http://www.ticketmaster.co.nz/h/javascript.html">enable Javascript</a> in order to access certain functions of this site, including the purchase of tickets.
     </div>
 </noscript>
+
 
 
 <script language="JavaScript">
@@ -434,13 +456,8 @@ function buildLink( myFlag ) {
      }
 }
 </script>
-<div class="color-alt" id="topNavLinks">
-    <div class="frame">
-        <div class="mgRt10">                                    <a class="withBar" href="https://www.ticketmaster.co.nz/member?tm_link=tm_ql_1">My Ticketmaster</a>                                    <a class="withBar" href="http://www.ticketmaster.co.nz/h/stateselectoutlets.html?tm_link=tm_ql_2">Outlet Locations</a>                                    <a href="http://www.ticketmaster.co.nz/h/help.html?tm_link=tm_ql_3">Help</a>                    </div>
-    </div>
-</div>
-        <div id="topMain">
-            <div class="frame"><h2 class="hideContent">Ticketmaster  page</h2>                <a id="logoBox" href="http://www.ticketmaster.co.nz/section?tm_link=tm_logo" title="Ticketmaster Logo"></a><script language="javascript">
+        <div id="topMain"><div id="topLinks">                                    <a href="https://www.ticketmaster.co.nz/member?tm_link=tm_ql_1">My Ticketmaster</a>                                    <a href="http://www.ticketmaster.co.nz/h/stateselectoutlets.html?tm_link=tm_ql_2">Outlet Locations</a>                                    <a class="last" href="http://www.ticketmaster.co.nz/h/help.html?tm_link=tm_ql_3">Help</a>            </div>
+<h2 class="hideContent">Ticketmaster  page</h2>                <a id="logoBox" href="http://www.ticketmaster.co.nz/section?tm_link=tm_logo" title="Ticketmaster Logo"></a><script language="javascript">
     var reg_ex = new RegExp("&eacute;","g");
     var replaceItem = '\u00E9';
 
@@ -455,25 +472,25 @@ function verifySearchString(form) {
         return false;
     }
     if (typeof(edp) != "undefined" && edp.active_mode == 'isc' && edp.isc.cart.items.length) {
-        return edp.isc.cart.leaving_isc_dialog.on_form_submit_attempt(edp.isc.cart, form);
+        return edp.isc.cart.leaving_isc_dialog.on_form_submit_attempt(form);
     }
 }
 </script>
-<div id="searchBox">
-    <div class="searchWrap">
+<div id="topSearch">
         <form name="main_search" action="http://www.ticketmaster.co.nz/search" onsubmit="return verifySearchString(this);">
             <input type="hidden" name="tm_link" value="tm_header_search">
             <table border="0" cellpadding="0" cellspacing="5">
                 <tbody><tr>
                                         <td><label for="q" class="hideContent">Search Ticketmaster by Artist, Team, or Venue</label><input type="text" name="q" title="Enter search term" value="Enter Artist, Team, or Venue" class="text" maxlength="80" onfocus="if(this.value == search_text)this.value=''; this.style.color='#333';" onblur="if(this.value == ''){this.value=search_text; this.style.color='#898989'; }; ">&nbsp;</td>
-                    <td><input type="image" name="search" alt="Enter search term" src="http://media.ticketmaster.com/en-nz/img/sys/1000/blank.gif" class="search" title="Enter search term">
+                    <td><label for="search" class="hideContent">Enter search term</label><input type="image" name="search" alt="Enter search term" src="http://media.ticketmaster.com/tm/en-nz/img/sys/1000/blank.gif" class="search" title="Enter search term">
                     </td>
                 </tr>    
             </tbody></table>
         </form>
-    </div>
-</div>    <div id="locationBox" title="Change or update your location" onclick="toggleA('locationBox','locationEx'); return false" class="more">
-        <script language="javascript">
+    </div>                <div class="clear"></div><div id="locWrapper">
+    <div id="changeLoc" title="Change Location Box">
+    <div class="" onclick="toggleA('locName','locBox'); return false">
+       <a href="" class="more" onclick="return false;" id="locName">        <script language="javascript">
             <!--
                 var my_market = "New Zealand";
                 var location_box_market_name = GetCookie("MARKET_NAME");
@@ -505,69 +522,54 @@ function verifySearchString(form) {
                     document.write( my_market );
                 }
             //-->
-        </script>
-        <div id="location">
-            <span id="location_button"><a href="" onclick="return false;" id="arrow"></a></span>
-            <a href="" onclick="return false;" id="change_location">Change Location</a>
-            <div class="clear"></div>
-        </div>    
-    </div>
-    <div class="clear"></div>
-    <div id="locationEx" style="display: none">
-        <div id="location_menu">
-            <div id="locBoxTop"></div>
-            <div id="locBoxMid">                <form action="/find_area" method="get" onsubmit="return verifyLocationString(this);">
-                    <h5 class="show">Change Location</h5>
+        </script></a></div>    <div id="locBox" style="display: none">                <form action="/find_area" method="get" onsubmit="return verifyLocationString(this);">
+                    <h5 class="h3 show">Change Location</h5>
                     <div class="spacer7px"></div>
-                    <label class="hideContent">Enter City or Postcode</label>
-                    <input type="text" name="area" id="location_input" onfocus="this.select(value='');" onblur="if(this.value == '')this.value=location_text;" value="Enter City or Postcode">
-                    <input type="image" src="http://media.ticketmaster.com/en-nz/img/sys/1000/blank.gif" alt="Submit City or Zip Code" title="Submit City or Zip Code" class="goLg">
-                    <div class="clear spacer7px"></div>
                                         <div class="error mgBot10 txt11" id="location_eror_blank" style="display: none">Please enter city or postcode or click "See All Cities" below.</div>
                                         <div class="error mgBot10 txt11" id="location_eror_multiple" style="display: none">We found multiple results matching "<div id="location_results" style="display: inline">keyword</div>".
                         <br>Please choose from the list below                    </div>
+                                        <div class="error mgBot10 txt11" id="location_eror_not_found" style="display: none">We could not find this location.  Please check your entry or click the "See All Cities" link below.</div>
+                    <div class="clear spacer7px"></div>
+                    <label class="hideContent">Enter City or Postcode</label>
+                    <input type="text" name="area" id="location_input" onfocus="this.select(value='');" onblur="if(this.value == '')this.value=location_text;" value="Enter City or Postcode">
+                    <input type="image" src="http://media.ticketmaster.com/tm/en-nz/img/sys/1000/blank.gif" alt="Submit City or Zip Code" title="Submit City or Zip Code" class="goLg">
                     <div style="width: 250px; display: none;" class="selectOption" id="location_eror_multiple_dropdown">
                         <div class="scrollBox" id="location_multiple_dropdown"></div>
-                    </div>
-                                        <div class="error mgBot10 txt11" id="location_eror_not_found" style="display: none">We could not find this location.  Please check your entry or click the "See All Cities" link below.</div>
-                    <a href="/find_area?uri=6gpfVwicoW07FInYUwCv5sVORMeTKI6Nn_EpUzgdKM9FJ3SFGKV3-N222n1ZzQKzpBXO&amp;tm_link=tm_changeloc_cities" class="under">See All Cities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.co.nz/international?tm_link=tm_changeloc_intl" class="under">See International</a>
+                    </div><div></div>
+                    <a href="/find_area?uri=PpZbL6asFJX28FYRNCYUivEIPV3juDH7ATOfUfeJ7L64kuq5azeqI8OkOySWPuP_KqrSDhN3SspaZnOwdBHTWgOIRJ10nummrQ&amp;tm_link=tm_changeloc_cities">See All Cities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.co.nz/international?tm_link=tm_changeloc_intl">See International</a>
                     <input type="hidden" name="tm_link" value="tm_changeloc_go">
-                </form>            </div><div id="locBoxBot"></div>
-        </div>
-    </div>
-                <div class="clear"></div>
-            </div>
-        </div><div class="color-alt" id="topNavMain">
-    <div class="frame">
-        <div id="navButtons">
+                </form>    </div>
+</div>
+  </div><!-- end locWrapper -->
+        <div id="welcomeText"></div><div class="clear"></div>
+<script language="JavaScript">
+var member_name = GetCookie("MNAME");
+var cookie_id = GetCookie("MID");
+function welcomeMe() {
+    if( member_name ) {
+        member_name = member_name.stripScripts().stripTags().escapeHTML();
+    }
+    
+    if ( cookie_id == null || cookie_id.length == 0 ) {
+        $('welcomeText').update('<strong>Welcome.</strong>&nbsp;&nbsp;<a href="https://www.ticketmaster.co.nz/member?tm_link=tm_header_signin">(Sign In)</a>');
+    }
+    else {
+        if (window.decodeURI != null) {
+            if (member_name.length > 0) {
+                member_name = ' ' + member_name;
+            }
+        }
+        $('welcomeText').update('<strong>Welcome' + member_name + '.</strong>&nbsp;&nbsp;<a href="https://www.ticketmaster.co.nz/member/logout/?tm_link=tm_header_signout">(Sign Out)</a>');
+    }
+}
+welcomeMe();
+</script></div>    
+<div id="navBar">
             <a href="http://www.ticketmaster.co.nz/section?tm_link=tm_header" id="home">Home</a>
             <a href="http://www.ticketmaster.co.nz/section/concerts?tm_link=tm_music_header" id="music" title="Main Category Music">Music</a>
             <a href="http://www.ticketmaster.co.nz/section/sports?tm_link=tm_sports_header" id="sports" title="Main Category Sports">Sports</a>
             <a href="http://www.ticketmaster.co.nz/section/arts_theater?tm_link=tm_arts_header" id="arts" title="Main Category Arts and Theatre">Arts and Theatre</a>
-            <a href="http://www.ticketmaster.co.nz/section/family?tm_link=tm_family_header" id="family" title="Main Category Family">Family</a>        </div>
-        <div class="welcomeText mgRt10" id="welcome_module">
-<script language="JavaScript">
-var member_name = GetCookie("MNAME");
-var cookie_id = GetCookie("MID");
-if( member_name ) {
-    member_name = member_name.stripScripts().stripTags().escapeHTML();
-}
-
-if ( cookie_id == null || cookie_id.length == 0 ) {
-    $('welcome_module').update('<strong>Welcome.</strong>&nbsp;&nbsp;<a href="https://www.ticketmaster.co.nz/member?tm_link=tm_header_signin">Sign In</a>');
-}
-else {
-    if (window.decodeURI != null) {
-        if (member_name.length > 0) {
-            member_name = ' ' + member_name;
-        }
-    }
-    $('welcome_module').update('<strong>Welcome' + member_name + '.</strong>&nbsp;&nbsp;<a href="https://www.ticketmaster.co.nz/member/logout/?tm_link=tm_header_signout">Sign Out</a>');
-}
-</script>        </div>
-        <div class="clear"></div>    
-    </div>
-</div>            <div id="contentWrap">
+            <a href="http://www.ticketmaster.co.nz/section/family?tm_link=tm_family_header" id="family" title="Main Category Family">Family</a>    </div>        <div id="contentWrap">
             <div class="frame">
                 <div id="mainContent">	
 
@@ -652,71 +654,52 @@ Ticketmaster NZ PO BOX 106443 Auckland
 
  
                     <div class="clear"></div>
-                </div>	
-            </div>
+                </div>            </div>
         </div>
+        <div id="footerTop">
+            <div class="frame"><!-- START NEW FOOTER CODE -->
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">About Us</div> 
+                <a href="http://www.ticketmaster.co.nz/h/about_us.html?tm_link=tm_i_abouttm">Who We Are</a> 
+                <a href="http://www.ticketmaster.co.nz/international/?tm_link=tm_i_intl">Across the Globe</a>
+            </div><!-- end column1 -->
+            <div class="vrFloat"></div>
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">We're Here To Help</div> 
+                <a href="https://www.ticketmaster.co.nz/member?tm_link=tm_i_ma">Your Account</a> 
+                <a href="https://www.ticketmaster.co.nz/member/order_history?tm_link=tm_i_print">Print Tickets</a>
+                <a href="http://www.ticketmaster.co.nz/h/help.html?tm_link=tm_i_help">Help</a>
 
-        <div id="footer">
-            <div class="frame"><table width="100%" cellspacing="0" cellpadding="0" border="0">
-    <tbody>
-    <tr>
-         <td title="Ticketmaster Links">
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-        <td width="600" colspan="4"><h3>Ticketmaster</h3></td>
-    </tr>
-    <tr>
-        <td width="194">
-            <a href="http://www.ticketmaster.co.nz/section?tm_link=tm_i_home">Home</a>
-            <a href="http://www.ticketmaster.co.nz/section/concerts?tm_link=tm_i_concerts">Music</a>
-            <a href="http://www.ticketmaster.co.nz/section/sports?tm_link=tm_i_sports">Sports</a>
-            <a href="http://www.ticketmaster.co.nz/section/arts_theater?tm_link=tm_i_arts">Arts &amp; Theatre</a>
-            <a href="http://www.ticketmaster.co.nz/section/family?tm_link=tm_i_family">Family</a>
-        </td>
-        <td width="194">
-            <a href="http://www.ticketmaster.co.nz/sitemap?tm_link=tm_i_sitemap">Site Map</a>
-            <a href="http://www.ticketmaster.co.nz/h/about_us.html?tm_link=tm_i_abouttm">About Us</a>
-            <a href="http://www.ticketmaster.co.nz/h/policies.html?tm_link=tm_i_ourpolicy">Our Policies</a>
-            <a href="http://www.ticketmaster.co.nz/h/privacy.html?tm_link=tm_i_pp">Privacy Policy</a>
-        </td>
-        <td width="194">	
-            <a href="https://client.ticketmaster.com/au/Extranet/product.aspx?">Ticket Your Event</a>
-            <a href="http://www.ticketmaster.co.nz/international?tm_link=tm_i_intl">International</a>
-            <a href="http://www.ticketmaster.co.nz/h/stateselectoutlets.html?tm_link=tm_i_retail">Outlet Locations</a>
-            <a href="https://www.ticketmaster.co.nz/member/order_history?tm_link=tm_i_print">Print Your Tickets</a>
-        </td>
-        <td width="194">	
-            <a href="https://www.ticketmaster.co.nz/member?tm_link=tm_i_ma">Your Account</a>
-            <a href="http://www.ticketmaster.co.nz/h/help.html?tm_link=tm_i_help">Help</a>
-            <a href="http://www.ticketmaster.co.nz/ticketauctions?tm_link=tm_i_auction">Bid on Auctions</a>
-            <a href="https://www.ticketmaster.co.nz/member/edit_subscriptions?tm_link=tm_i_email">Your Email Preferences</a>
-        </td>
-    </tr>
-</tbody></table>
+            </div><!-- end column2 -->
+            <div class="vrFloat"></div>
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">PARTNERS</div> 
+        <a href="http://www.ticketmaster.co.nz/americanexpress/?tm_link=tm_i_amxftrlink">American Express</a>
+            </div><!-- end column3 -->
+            <div class="vrFloat"></div>
+            <div class="footColumn floatLeft">
 
+                <div class="h5 allCaps">BE A PART OF IT</div> 
+                <a href="https://client.ticketmaster.com/au/Extranet/product.aspx">Ticket Your Event</a>
+                <a href="http://www.ticketmaster.co.nz/advertise/index.html?tm_link=tm_i_advertise">Advertise With Us</a>
+            </div><!-- end column4 -->
+            <div class="clear"></div>
+        </div><!-- end frame -->
+        </div><!-- end footerTop -->
 
-        </td>
-        <td width="70"></td>
-        <td title="Partner sites links">
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-        <td width="300" colspan="2"><h3>Partner Sites</h3></td>
-        </tr><tr>
-        <td width="150">
-            <a href="http://www.ticketmaster.co.nz/americanexpress?tm_link=tm_i_amxftrlink" target="_blank">American Express</a>
-        </td>
-        <td width="150">
-        </td>
-    </tr>
-</tbody></table>
-        </td>
-      </tr>
-</tbody></table>
-
+        <div id="footerBottom">
+        <a href="http://www.ticketmaster.co.nz/section?tm_link=tm_i_home" id="bottomLogo"><img src="http://media.ticketmaster.com/tm/en-nz/img/sys/1000/logoBottom.png" alt="Bottom Logo"></a>
         
-                        <br><br>        Use of this site is subject to express <a class="under" href="http://www.ticketmaster.co.nz/h/terms.html?tm_link=tm_i_terms">terms of use</a>, which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.<br>© 1999-2010 Ticketmaster. All rights reserved.<br>    
-                <div class="clear"></div>
-            </div>        </div>
+        <span class="allCaps">International:</span><a href="http://www.ticketmaster.com.au/" target="_blank">Australia</a> <a href="http://www.ticketmaster.com/" target="_blank">US</a> <a href="http://www.ticketmaster.ca/" target="_blank">Canada</a> <a href="http://www.ticketmaster.co.uk/" target="_blank">UK</a> <a href="http://www.ticketmaster.ie/" target="_blank">Ireland</a> <a href="http://www.ticketmaster.es/" target="_blank">Spain</a> <a href="http://www.ticketmaster.co.nz/international?tm_link=tm_i_more" class="space">More</a>        
+        <span class="allCaps">FOLLOW US:</span>
+        <a href="http://facebook.com/pages/Ticketmaster-New-Zealand/33901035192" id="facebookIcon" target="_blank"><img src="http://media.ticketmaster.com/tm/en-nz/img/sys/1000/logoFB.png" alt="Follow us on Facebook"></a>
+        <a href="http://twitter.com/Ticketmaster_NZ" id="twitterIcon" target="_blank"><img src="http://media.ticketmaster.com/tm/en-nz/img/sys/1000/logoTwit.png" alt="Follow us on Twitter"></a>
+
+        <div class="clear"></div>By continuing past this page, you agree to our <a href="http://www.ticketmaster.co.nz/h/terms.html?tm_link=tm_i_terms" class="under">terms of use</a>. <a href="http://www.ticketmaster.co.nz/sitemap?tm_link=tm_i_sitemap" class="left">Site Map</a> <a href="http://www.ticketmaster.co.nz/h/privacy.html?tm_link=tm_i_pp">Privacy Policy</a>&nbsp;
+<!-- END NEW FOOTER CODE --> 
+<!-- end footerBottom -->
+            © 1999-2010 Ticketmaster. All rights reserved.<br>                </div>
+        
         
 <div id="music_menu" style="display:none;"></div>
 <div id="sports_menu" style="display:none;"></div>
@@ -939,13 +922,15 @@ var NavMenu = Class.create({
                     size += 1;
                 }
                 add_class = size > 1 ? 'dropdown' : add_class = size == 1 ? 'dropdownSm' : '';
-                $( this.popular_genres[cat].menu ).className = add_class;
+                if( $( this.popular_genres[cat].menu ) ) {
+                    $( this.popular_genres[cat].menu ).className = add_class;
+                }
     
                 var d_table = new Element('table', { cellspacing: 0, cellpadding: 0, border: 0, 'class': 'dd_table'});
                 var t_row = new Element('tr');
                 var c_row = new Element('tr');
                 if( this.popular_genres[cat].popular && this.popular_genres[cat].popular.length ) {
-                    var cat_hdr_txt = cat == '10005' ? 'Especiales' : 'Top Categories';
+                    var cat_hdr_txt = cat == '10005' ? 'Especiales' : 'Shop Top Categories';
                     var cat_hdr = new Element('th').update( cat_hdr_txt );
                     t_row.appendChild( cat_hdr );
     
@@ -958,7 +943,7 @@ var NavMenu = Class.create({
                             g_cell.appendChild( link );
                         }.bind(this)
                     );
-                    var see_more = new Element('a', {href:'http://www.ticketmaster.co.nz/section/' + this.popular_genres[cat].section + '?tm_link=tm_' + this.popular_genres[cat].track + '_header_lmore', 'class': 'more'}).update("See All");
+                    var see_more = new Element('a', {href:'http://www.ticketmaster.co.nz/section/' + this.popular_genres[cat].section + '?tm_link=tm_' + this.popular_genres[cat].track + '_header_lmore', 'style': 'font-weight: bold'}).update("See All »");
                     g_cell.appendChild( see_more );
                     c_row.appendChild( g_cell );
                 }
@@ -972,7 +957,7 @@ var NavMenu = Class.create({
                         function(d, idx) {
                             idx += 1;
                             var link_value = this.popular_events[cat].links[d].link;
-                            if( !link_value.startsWith('http') ) {
+                            if( !link_value.toString().startsWith('http') ) {
                                 link_value = 'http://www.ticketmaster.co.nz' + link_value;
                             }
                             var tm_link_value = 'tm' + '_' + this.popular_genres[cat].track + '_header_r' + idx;
@@ -991,7 +976,7 @@ var NavMenu = Class.create({
                     );
                     c_row.appendChild( e_cell );
                 }
-                if( size > 0 ) {
+                if( size > 0 && $( this.popular_genres[cat].menu ) ) {
                     var t_body = new Element('tbody');
                     t_body.appendChild( t_row );
                     t_body.appendChild( c_row );
@@ -1016,10 +1001,7 @@ document.observe("dom:loaded",makeNav);
 
 
 
-
-
-
-<script type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/4d3ebf96316f30634cad6e2cb2797e7f/omniture_tracker.js"></script>
+<script type="text/javascript" src="http://media.ticketmaster.com/en-nz/js/ea37cf12bc41ad89c8bba341a5a66065/omniture_tracker.js"></script>
 <script type="text/javascript"> 
 var omni_recognized;
 var cookie_id = GetCookie("MID");
@@ -1030,6 +1012,7 @@ else {
     omni_recognized = "recognized";
 }
 
+tm_omn.campaign = calcCampaign();
 tm_omn.products = tm_omni_temp.get('omnEID') != '' ? ';' + tm_omni_temp.get('omnEID') : ''
 tm_omn.events=""
 tm_omn.pageName = "TM_NZ: Help: Privacy Policy" /* Page Name */
@@ -1062,7 +1045,7 @@ tm_omn.eVar10  = tm_omni_temp.get('omnMID')  /* Merchandising Market    */
 tm_omn.eVar12  = ""  /* Modules Available       */
 tm_omn.eVar13  = ""  /* Module clicked  */
 tm_omn.eVar14  = ""  /* Navigation Link */
-tm_omn.eVar15  = (new $H( location.search.toQueryParams() ).get('tm_link') ? validateTmLink(new $H( location.search.toQueryParams() ).get('tm_link')) : "")  /* Merchandising Link      */
+tm_omn.eVar15  = calc15();  /* Merchandising Link      */
 tm_omn.eVar16  = tm_omni_temp.get('omnVID');   /* Venue ID */       
 tm_omn.eVar17  = tm_omni_temp.get('omnAID');   /* Artist ID  */     
 tm_omn.eVar18  = ""  /* Day of Week     */
@@ -1085,6 +1068,12 @@ tm_omn.eVar35  = ""  /* NTF Distribution        */
 tm_omn.eVar36  = ""  /* Order ID (same as Purchase ID) */ 
 tm_omn.eVar37  = GetCookie("MID") ? GetCookie("MID") : "";  /* CustomerID      */
 tm_omn.eVar38  = "TM_NZ";
+tm_omn.eVar40  = "";
+tm_omn.eVar43  = calc43();
+if ( Discrete.id ) {
+    tm_omn.eVar49 = Discrete.id;
+}
+tm_omn.eVar50  = GetCookie("MID_MD5") ? GetCookie("MID_MD5") : "";  /* CustomerID MD5     */
 tm_omn.pageType = ""
 tm_omn.purchaseID  = ""  /* Purchase ID     */
 tm_omn.state  = ""  /* User Billing State */     
@@ -1094,6 +1083,13 @@ tm_omn.currencyCode  = ""  /* Currency Code */
 if(tm_omn.prop14){
    tm_omn.prop14 = "TM_NZ: " + tm_omn.prop14;
    }
+if(tm_omni_temp.get('recentViewCarousel')){
+  if(tm_omn.prop12){
+     tm_omn.prop12 = tm_omn.prop12 + "," + tm_omni_temp.get('recentViewCarousel');
+   }else{
+     tm_omn.prop12 = tm_omni_temp.get('recentViewCarousel');
+    }
+}
      if(!location.href.include('html.ng/site')){
          tm_omn.t()
     }
@@ -1122,11 +1118,13 @@ var stringedData;
     passedValue = passedValue.stripScripts().stripTags().escapeHTML();
     passedValue = passedValue.empty() ? "null" : passedValue;
     passedValue = unescape(passedValue);
+
     if(entryOutcome){
        tm_omn.prop11 = "Success: " + passedValue;
      }else{
        tm_omn.prop11 = "Error: " + passedValue;
           }
+
             //if prop14 has value scode populates event. override it.
                 tm_omn.prop14 = "";
             var changeLocationClick = new omniCustomClick({
@@ -1179,6 +1177,7 @@ var stringedData;
                              });
                             tm_omn.prop5 = "";
                             tm_omn.eVar7 = "";
+                            tm_omn.prop4 = tm_omni_temp.get('override_prop4');
                             tm_omn.t();
                             pe.stop();
                             tm_omni_temp.set('firstFilter', '1')
@@ -1187,15 +1186,112 @@ var stringedData;
                    }, .25);
                  }
 
+function calcCampaign() {
+    var q_p = location.search.toQueryParams();
+    if( q_p.SREF ) {
+        switch( q_p.SREF ) {
+            case "FBShare" :
+                return "SLfbk-001";
+            case "FBShareBuy" :
+                return "SLfbk-002";
+            case "FBLike" :
+                return "SLfbk-003";
+            case "FBLikeURL" :
+                return "SLfbk-004";
+            case "FBUnknown" :
+                return "SLfbk-005";
+        }
+    }
+}
+
+function calc43() {
+    var q_p = location.search.toQueryParams();
+    if( q_p.SFBState ) {
+        switch( q_p.SFBState ) {
+            case "Connected" :
+                return 'Connected';
+            break;
+            case "Not-Connected" :
+                return 'Not Connected';
+            break;
+            case "Unknown" :
+                return 'Unknown';
+            break;
+        }
+    }
+}
+
+function calc15() {
+    var q_p = location.search.toQueryParams();
+    if( q_p.tm_link ) {
+        return validateTmLink( $H( location.search.toQueryParams() ).get('tm_link') );
+    }
+    else if( q_p.SREF ) {
+        var to_return = 'TM_NZ: ' + 'FBConn_click_';
+        var set_events = false;
+        if( q_p.SREF.include("P_HomePageModule_main") ) {
+            to_return += 'home1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_MusicPageModule_main") ) {
+            to_return += 'music1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_FamilyPageModule_main") ) {
+            to_return += 'family1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_ArtsPageModule_main") ) {
+            to_return += 'arts1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_SportsPageModule_main") ) {
+            to_return += 'sports1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_SpecialsPageModule_main") ) {
+            to_return += 'specials1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_ArtistPageModule_main") ) {
+            to_return += 'artist1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_PurchasePageModule_main") ) {
+            to_return += 'purchase1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_EventPageModule_main") ) {
+            to_return += 'event1';
+            set_events = true;
+        }
+        if( q_p.SREF.include("P_VenuePageModule_main") ) {
+            to_return += 'venue1';
+            set_events = true;
+        }
+        if( set_events ) {
+            tm_omn.linkTrackVars = 'events,eVar15';
+            tm_omn.linkTrackEvents = 'event14';
+            tm_omn.events = 'event14';
+            return to_return;
+        }
+    }
+}
+
 
 function validateTmLink(val){
 var arrLinkTest = [
                      /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)_(ts|c|d|event|g|h|j|k|lv|n|artist)(\d+)$/i,
                      /^(artist_rc_)(\w+)$/i,
+                     /^(artist_rv_)(\w+)$/i,
                      /^(mytm_recommend_image|mytm_recommend_name)(\d+)$/i,
                      /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rc_)(findtix|image|name|moredates)\d+$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rv_)(findtix|image|name|moredates)\d+$/i,
+                     /^(tm_)(home|browse|section|search|artist|venue|mytm)(_rv_)(\w*)/i,
+                     /(_rv_)(image|name)\d+$/i,
                      /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(\w*)_(r|f)(\d+)$/i,
                      /^(mytm_favEvent_local\w*)|(mytm_favEvent_else_Name)$/i,
+                     /^(tm_homeA_popular)(\d+)$/i,
                      /^(tm_\w*)(_b_1000)(\d+_\d+)$/i
                             ]
 
@@ -1221,8 +1317,7 @@ try{
 
 
 
-</script><!-- SearchRev beg -->
-<!-- SearchRev end -->
+</script>
 
 
 
@@ -1249,11 +1344,21 @@ try{
 
 
 
-
-
+<script type="text/javascript">
+function cs_rating( page_type,id,rate,appcontext,mid ) {
+}
+</script>
 
 <!-- START - Omniture code TOP -->
 <!-- CODE to paste below BODY tag at top of page -->
+
+
+
+
+
+
+
+
 
 
 
