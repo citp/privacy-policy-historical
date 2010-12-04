@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328032932id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204080022id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
 
 # ShoppersStop.com - Privacy Policy
 
@@ -24,7 +24,7 @@ Through this document, we wish to make you:
 
 Shoppersstop.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
 
- **Kindly, note that Shoppersstop.com does not collect your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, you are automatically redirected to the acquiring bank’s payment gateway website, where all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.**
+**Kindly, note that Shoppersstop.com does not access or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.**
 
 We may collect additional information in connection with your participation in any promotions or contests offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and website use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the website.
 
