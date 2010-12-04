@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601093330id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204235036id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TMZ.com
 
@@ -56,7 +56,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-At some Warner Bros. Entertainment Group Web sites, reputable third parties may present or serve the advertisements. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. For more information on third party ad servers, please click here.
+At some Warner Bros. Entertainment Group Web sites, reputable third parties may present or serve the advertisements. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. For more information on third party ad servers, please [click here](http://www.networkadvertising.org/).
 
 ## Cookies and Other Technical Information
 
@@ -66,7 +66,8 @@ If you choose to furnish the site with personally identifiable information, this
 
 By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
 
-We use third-party advertising companies and networks to serve ads. These third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, [click here: http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp).
+We use third-party advertising companies and networks to serve ads. These third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, [click here](http://networkadvertising.org/consumer/opt_out.asp).[  
+](http://networkadvertising.org/consumer/opt_out.asp)
 
 ## Our Commitment to Security
 
