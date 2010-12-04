@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529012532id_/http%3A//www.compuware.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204101721id_/http%3A//www.compuware.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Commitment to Privacy
 
@@ -44,6 +44,7 @@ Please note that we do not knowingly solicit information from children and we do
 The use of cookies
 
   * A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser. 
+  * Third party vendors, including Google, show our ads on sites on the internet. They use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. 
   * **Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
 
 
@@ -100,6 +101,6 @@ Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recrui
 
  **Issue Resolution**
 
-Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please [contact us](https://web.archive.org/contact/default.asp).
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please [contact us](https://web.archive.org/contact/inquiries.asp).
 
 Top
