@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602040132id_/http%3A//www.plaza101.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204104021id_/http%3A//www.plaza101.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Price Comparison Store Product Reviews
 
