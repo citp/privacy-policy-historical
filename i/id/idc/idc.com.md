@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102014354id_/http%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204112914id_/http%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IDC - Privacy Policy
 
