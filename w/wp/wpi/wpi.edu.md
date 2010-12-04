@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527102341id_/http%3A//www.wpi.edu/about/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204105849id_/http%3A//www.wpi.edu/about/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - WPI
 
@@ -6,7 +6,7 @@ Worcester Polytechnic Institute (WPI) has created this privacy statement in orde
 
 ##  Student Information 
 
-Student information is protected by the **Federal Family Educational Rights & Privacy Act (FERPA)**. Parents and students should read [WPI's FERPA Compliance Statement](http://www.wpi.edu/about/policies/ferpa.html "FERPA"). 
+Student information is protected by the **Federal Family Educational Rights & Privacy Act (FERPA)**. Parents and students should read [WPI's FERPA Compliance Statement](http://www.wpi.edu/offices/policies/ferpa.html "FERPA"). 
 
 ##  Collection & Use of Personal Information 
 
@@ -28,7 +28,7 @@ All of the data collected via our web forms is confidential and internal to empl
 
 ##  Reporting Violations of this Privacy Statement 
 
-This site contains links to other sites, including the personal websites of WPI faculty, staff, and students, as well as student organizations and alumni groups/classes. WPI is not responsible for the privacy practices or the content of such websites. Visitors who observe personal sites on the WPI server which violate copyright laws and/or the [WPI Acceptable Use Policy](http://www.wpi.edu/about/policies/aup.html) should immediately report such activity to webmaster@wpi.edu. 
+This site contains links to other sites, including the personal websites of WPI faculty, staff, and students, as well as student organizations and alumni groups/classes. WPI is not responsible for the privacy practices or the content of such websites. Visitors who observe personal sites on the WPI server which violate copyright laws and/or the [WPI Acceptable Use Policy](http://www.wpi.edu/offices/policies/aup.html) should immediately report such activity to webmaster@wpi.edu. 
 
 ##  Public Forums 
 
