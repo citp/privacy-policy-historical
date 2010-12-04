@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurty.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502145618id_/http%3A//www.blurty.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurty.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204195558id_/http%3A//www.blurty.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy
 
