@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgeeze.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523184444id_/http%3A//www.techgeeze.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgeeze.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204155214id_/http%3A//www.techgeeze.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
