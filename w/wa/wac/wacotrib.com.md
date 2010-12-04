@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529195138id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204071226id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wacotrib.com
 
