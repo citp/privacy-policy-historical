@@ -1,639 +1,222 @@
-<!--The following is the downloaded HTML source of the thoughts.com privacy policy that was archived on 2009-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090525133704id_/http%3A//www.thoughts.com/site/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thoughts.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204160032id_/http%3A//www.thoughts.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<base href="http://www.thoughts.com">
-	<title>Privacy Policy</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta description="">
+  <meta keywords="">
+  <title>privacy - thoughts.com conversation engine</title>
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.reset.css?" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts-ui/jquery-ui-1.8.2.custom.css?" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.global.css?" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.styles.css?" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.print.css?" media="print" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/themes/default.css?" media="screen" id="styletheme">
+  <script type="text/javascript" src="http://static.thoughts.com/js/lib/jquery-1.4.2.min.js?"></script>
+  <script type="text/javascript" src="http://static.thoughts.com/js/lib/jquery-ui-1.8.2.custom.min.js?"></script>
+  <script type="text/javascript" src="http://static.thoughts.com/js/thoughts.global.js?"></script>
+  <script type="text/javascript" src="http://static.thoughts.com/js/plugins.js?"></script>
+  <script type="text/javascript">
+    // Set document domain
+    document.domain = 'thoughts.com';
 
-<link href="/css/style.200712041326.css" type="text/css" rel="stylesheet">
-<link href="/css/widgets_1.css" rel="stylesheet" type="text/css">
-<link href="/css/glider2.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" language="JavaScript" src="/js/common.js"></script>
-<script type="text/javascript" language="JavaScript" src="/js/prototype.20071119160000.js"></script>
-<script type="text/javascript" language="JavaScript" src="/js/effects.js"></script>
-<script type="text/javascript" language="JavaScript" src="/js/glider3.js"></script>
-<link rel="stylesheet" href="css/lytebox.css" type="text/css" media="screen">
-<script src="js/lytebox.js" type="text/javascript"></script>
-<script>
-function getXmlHttpRequestObject() {
-	if (window.XMLHttpRequest) {
-		return new XMLHttpRequest();
-	} else if(window.ActiveXObject) {
-		return new ActiveXObject("Microsoft.XMLHTTP");
-	} else {
-		alert('Status: Cound not create XmlHttpRequest Object.  Consider upgrading your browser.');
-	}
-}
+    // Define basedir
+    var baseDir = 'http://www.thoughts.com/';
 
-var sendReq = getXmlHttpRequestObject();
-var receiveReq = getXmlHttpRequestObject();
-var mTimer;
-</script>
+    $(function () {
+      $('textarea.expandable').autoResize();
 
-<script>
-function changeFilter(){
-    if (sendReq.readyState == 4 || sendReq.readyState == 0) {
-     	if (document.getElementById('hiddenFilter').value == 1){
-     		lang = 0;
-	     	document.getElementById('toggleLangFilter').innerHTML = "Enable Language Filter";
-     	}
-     	else {
-     		lang = 1; 
-	     	document.getElementById('toggleLangFilter').innerHTML = "Disable Language Filter";
-     	}
-			    	
-		sendReq.open("GET", 'languageFilter.php?filter='+lang, true);					
-		sendReq.send(null);		
-		sendReq.onreadystatechange = function(){if (sendReq.readyState == 4 || sendReq.readyState == 0) {document.location.reload(true);}};
-		document.getElementById('hiddenFilter').value = lang;
-		
-	}
-};
+      var mp = new Thoughts.MiniProfile($('.miniprofile'));
 
-function showcommentdiv()
-{
-         if (document.all)
-         {
-            document.getElementById('divlatestComments').style.display = '';
-         }
-         else
-         {
-            document.getElementById('divlatestComments').style.display = 'table-row';
-         }
-}
+      // Footer "Blog Sites" menu hoverintent settings
+      var subConfig = {
+        interval: 0,
+        sensitivity: 4,
+        over: addSub,
+        timeout: 0,
+        out: removeSub
+      };
 
-function hidecommentdiv()
-{
-         if (document.all)
-         {
-            document.getElementById('divlatestComments').style.display = 'none';
-         }
-         else
-         {
-            document.getElementById('divlatestComments').style.display = 'none';
-         }
-}
-function showGroupJoindiv()
-{
-         if (document.all)
-         {
-            document.getElementById('divGroupJoinRequests').style.display = '';
-         }
-         else
-         {
-            document.getElementById('divGroupJoinRequests').style.display = 'table-row';
-         }
-}
+      $("#footer_nav li.sub").hoverIntent(subConfig);
+      $("#userNavigation li.sub").hoverIntent(subConfig);
+      $("#loginMenu li.sub").hoverIntent(subConfig);
 
-function hideGroupJoindiv()
-{
-         if (document.all)
-         {
-            document.getElementById('divGroupJoinRequests').style.display = 'none';
-         }
-         else
-         {
-            document.getElementById('divGroupJoinRequests').style.display = 'none';
-         }
-}
-</script>
-
-<script language="javascript" type="text/javascript">
-
-function setFormValue()
-{
-	var Item;
-	var SelectItem = document.getElementById("sbc").value;		
-	switch(SelectItem)
-	{
-	case 'google': Item = "google";
-				 break;
-	case 'yahoo': Item = "yahoo";
-		       	 break;
-	case 'msn': Item = "msn";
-			        break;
-	case 'thoughts': Item = "";
-				break;
-
-	default: Item = "thoughts";
-	}
-	document.form1.cur_tab.value = Item;
-
-}
-
-function populateComments(uid)
-{
-		showcommentdiv();
-		if (uid)
-		{
-			var url="/index.php?_action=latest_comments&uid=" + uid;
-		}
-		else
-		{
-			var url="/index.php?_action=latest_comments&uid=0";	
-		}
-			
-		new Ajax.Updater("divlatestComments", url, {});
-}
-function populateGroupJoinRequests(uid)
-{
-		showGroupJoindiv();
-		if (uid)
-		{
-			var url="/index.php?_action=groupjoin_request&uid=" + uid;
-		}
-		else
-		{
-			var url="/index.php?_action=groupjoin_request&uid=0";	
-		}
-			
-		new Ajax.Updater("divGroupJoinRequests", url, {});
-}
-function populateUpdates(uid)
-{
-		if (uid)
-		{
-			var url ="/populate.php?_action=update_request&uid=" + uid;
-		}
-		else
-		{
-			var url="/populate.php?_action=update_request&uid=0";
-		}
-		sendReq.open("GET", url, true);
-		sendReq.send(null);
-		sendReq.onreadystatechange = redirecttoforum;
-
-}
-function redirecttoforum()
-{
-	if(sendReq.readyState == 4 || sendReq.readyState == 0)
-	{
-		location.href = '/forums/showthread.php?t=17599';
-	}
-
-}
-
-</script>
-
-
-	
-<style type="text/css">
-    .myProfileBox{
-        width:100%;
-        border:1px solid grey;
-        text-align:center;
-        padding:0px;
-        spacing:0px;
-    }
-</style>
+          });
+  </script>
 </head>
+<body>
+  <div class="headerChrome">
+    <div id="navigation">
+      <h1 class="thoughtsMasthead"><a id="thoughtsLogo" href="http://www.thoughts.com/">Thoughts.com</a></h1>
 
-<body class="color_theme" topmargin="0px" onload="tt_Init();">
-<center>
-<table width="940px" border="0px"><tbody><tr><td height="10px" align="right">
-	</td></tr><tr>
-	<td align="right">
-					<span class="font_small">
-				<a href="http://www.thoughts.com/site/newuser">Sign Up</a>&nbsp;|&nbsp;
-				<a href="http://www.thoughts.com/site/login">Login
-			</a></span><a href="http://www.thoughts.com/site/login">
-				</a></td>		
-	</tr>
-</tbody></table>
-<table width="940px" border="0" cellpadding="0px" cellspacing="0px">
+      <ul id="primaryNavigation">
+        <li><a href="http://www.thoughts.com/">home</a></li>
+        <li><a href="http://www.thoughts.com/blogs">blogs</a></li>
+        <li><a href="http://www.thoughts.com/groups">groups</a></li>
+                <li><a id="help_area" class="parent" href="http://www.thoughts.com/help">help</a></li>
+      </ul>
 
-	<tbody><tr>
-		<td rowspan="2" valign="bottom"><a href="http://www.thoughts.com"><img src="images/Header_top_left.png" width="388" border="0"></a></td>
-	</tr>
-	
-	<tr>
-<form name="form1" method="GET" action="/index.php"></form>
-		<input type="hidden" name="cur_tab">
-		<td width="552px" height="57px" align="right" style="border: thin; padding-right:10px" valign="center" background="/images/Header_top_right.png">
- 			<input type="hidden" name="_action" value="web_browse">
-			<input type="hidden" name="client" value="pub-1621766326169350">
-			<input type="hidden" name="forid" value="1">
-			<input type="hidden" name="ie" value="ISO-8859-1">
-			<input type="hidden" name="oe" value="ISO-8859-1">
-			<input type="hidden" name="flav" value="0000">
-			<input type="hidden" name="defaulttab" value="thought">
-			<input type="hidden" name="sig" value="44ZSqf7YQJjZPBO1">
-			<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11">
-			<input type="hidden" name="hl" value="en">
-			<br>
-				<input type="text" name="q" size="35" maxlength="2048" value="" id="sbi" class="Textbox_grey">&nbsp;
-				<select id="sbc" name="sbc" class="Textbox_grey">
-                              		<option value="thoughts">Thoughts</option>
-                               		<option value="google">Google</option>
-                               		<option value="yahoo">Yahoo</option>
-                               		<option value="msn">MSN</option>
-				</select>
+      <form action="http://www.thoughts.com/search" id="formSearch" method="post">
+        <input class="input" name="q">
+        <input type="submit" class="submit" value="">
+      </form>
 
-				&nbsp;<input type="image" src="/images/Button_Search.gif" onclick="javascript:setFormValue();" name="sa" id="sbb" value="" align="top">&nbsp;&nbsp;
-		</td>
-	</tr>
+      
+        <div class="loggedOut" id="userContextNav">
+          <a href="http://www.thoughts.com/register">sign up</a><a href="http://www.thoughts.com/tour">tour</a>
+        </div>
 
-	<tr>
-		<td colspan="2" valign="bottom">
-		<table cellspacing="0" cellpadding="0" width="100%" border="0">
-			<tbody><tr>
-			<td><img src="/images/Header_menu_level1_left.png" width="9px" height="35px"></td>
-			<td background="/images/Header_menu_level1.png" width="931px" height="35px" valign="bottom">
-			<table cellspacing="0" cellpadding="0" width="100%" border="0" height="29px">
-			<tbody><tr><td>
-			<ul class="glossymenu">
-				<li class="current"><a id="Home" href="http://www.thoughts.com"><b>Home&nbsp;</b></a></li>
-				<li><a id="Blogs" href="http://www.thoughts.com/blog/browse"><b>Blogs&nbsp;</b></a></li>
-				<li><a id="Photos" href="http://www.thoughts.com/photos"><b>Photos&nbsp;</b></a></li>
-				<li><a id="Videos" href="http://www.thoughts.com/videos"><b>Videos&nbsp;</b></a></li>
-				<li><a id="Podcasts" href="http://www.thoughts.com/blog/podcasts/browse"><b>Podcasts&nbsp;</b></a></li>
-				<li><a id="Polls" href="http://www.thoughts.com/allpolls"><b>Polls&nbsp;</b></a></li>
-				<li><a id="Surveys" href="http://www.thoughts.com/surveys"><b>Surveys&nbsp;</b></a></li>
-				<li><a id="News" href="http://www.thoughts.com/news"><b>News&nbsp;</b></a></li>
-				<li><a id="Forum" href="http://www.thoughts.com/forums"><b>Forums&nbsp;</b></a></li>
-				<li><a id="Group" href="http://www.thoughts.com/group/browse"><b>Groups&nbsp;</b></a></li>
-				<li><a id="Profile" href="http://www.thoughts.com/site/member_browse"><b>Profile&nbsp;</b></a></li>
-			</ul>
-			</td>
-			<td class="font_small_advanced_white" align="left"><a id="Logout" onmouseover="javascript:hideMenu(9);" href="http://www.thoughts.com/site/newuser"><img src="/images/Button_Signup_Header.gif" border="0"></a>&nbsp;<a href="http://www.thoughts.com/site/share_blog"><img src="/images/Button_Takeatour.gif" border="0"></a></td></tr></tbody></table>
-			</td>
-		</tr></tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-	<div class="image_theme_top" style="width:940px; height:85px;">
-	<table width="940px" border="0" cellpadding="0px" cellspacing="0px">
-	<tbody><tr width="940px">
-		<td height="25px" colspan="2" background="/images/Header_menu_level2_rounded.png" style="background-repeat: no-repeat;">
-			<table cellspacing="0" cellpadding="0" width="100%" border="0">
-		<tbody><tr height="0px" id="HomeSub" align="left">
-			<td height="0px" class="font_small_advanced">&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/free-blog"><b>Free Blog</b></a>&nbsp;|&nbsp;
-			<input type="hidden" name="hiddenFilter" id="hiddenFilter" value="1">
-			<a href="http://www.thoughts.com/site/vacation"><b>Vacation</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/invite"><b>Invite&nbsp;Friends</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/charity"><b>Charity</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/share_blog"><b>Take a tour</b></a>&nbsp;|&nbsp;
-			<a href="javascript:void(0)" onmouseover="window.status='Toggle Language Filter'; return true;" onmouseout="window.status='';" ;="" onclick="changeFilter()" id="toggleLangFilter"><span class="font_small_advanced_orange"><b>Disable Language Filter</b></span></a>
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="ProfileSub" align="right">
-			<td height="0px" class="font_small_advanced">
-			<a href="http://www.thoughts.com/site/newuser"><b>Themes</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/member_browse_adv"><b>Profile Search</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/member_browse"><b>People</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Profile</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Friends</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Mail</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"> <b>Settings</b></a>&nbsp;|&nbsp;
-			<a href="javascript:void(0)" onmouseover="window.status='Toggle Language Filter'; return true;" onmouseout="window.status='';" ;="" onclick="changeFilter()" id="toggleLangFilter"><span class="font_small_advanced_orange"><b>Disable Language Filter</b></span></a>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="BlogsSub" align="left">
-			<td height="0px" class="font_small_advanced" width="940px">
-			&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Blog</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/top5"><b>Popular Posts</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/top-blogs"><b>Top 100 Blogs</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/blog/browse"><b>Recent Blogs</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/random_blogs"><b>Random Blogs</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Write a Blog</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Manage Categories</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/blog/newuser"><b>New Members</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Comments</b></a>&nbsp;&nbsp;			
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="ForumSub" align="center">
-			<td nowrap="nowrap" height="0px" class="font_small_advanced">				
-			</td>
-		</tr>
-		<tr style="display: none;" id="PhotosSub" height="0px" align="left">
-			<td height="0px" class="font_small_advanced">&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Photos</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/photos"><b>Browse all Photos</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Upload Photos</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Manage Albums</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Import Photos</b></a>&nbsp;&nbsp;
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="VideosSub" align="left">
-			<td height="0px" class="font_small_advanced">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Videos</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/videos"><b>Browse all Videos</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Upload Videos</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Manage Categories</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/channel/browse" title="Click here to go to channels collection. Create you own channel and view channels created by other users"><b>Channels</b></a>&nbsp;<span style="color:red;font-size:10.0pt;font-family:Arial"><sup><b>new</b></sup>
-			</span></td>
-		</tr>
-		<tr style="display: none;" height="0px" id="PodcastsSub" align="left">
-			<td height="0px" class="font_small_advanced">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Podcasts</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/blog/podcasts/browse/cid/all"><b>Browse all Podcasts</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Upload Podcasts</b></a>&nbsp;&nbsp;
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="NewsSub" align="right">
-			<td title="NewsSub" nowrap="nowrap" height="0px" class="font_small_advanced">
-			<a href="http://www.thoughts.com/news"><b>Daily News</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/news/popular/all/email"><b>Most Emailed</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/news/popular/all/view"><b>Most Viewed</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/news/popular/all/recommend"><b>Most Recommended</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/news/popular/all/bookmark"><b>Most Bookmarked</b></a>&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="PollSub" align="left">
-			<td title="Poll" height="0px" class="font_small_advanced">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Create Poll on Thoughts</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Polls</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/allpolls"><b>All Polls</b></a>&nbsp;&nbsp;
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="SurveySub" align="center">
-			<td title="Survey" height="0px" class="font_small_advanced">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/surveys"><b>All Surveys</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Surveys</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Create Surveys</b></a>&nbsp;&nbsp;
-			</td>
-		</tr>
-		<tr style="display: none;" height="0px" id="GroupSub" align="center">
-			<td title="Groups" height="0px" class="font_small_advanced">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com/group/browse"><b>All Groups</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>My Groups</b></a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/newuser"><b>Create Group</b></a>&nbsp;&nbsp;
-			</td>
-		</tr>
-				</tbody></table>
-		</td>
-	</tr>
+        <ul class="loggedOut" id="loginMenu">
+          <li class="sub"><a class="parent" href="http://www.thoughts.com/login">login</a>
+            <ul>
+              <li>
+                <form action="http://www.thoughts.com/login" method="post">
+                  <p>
+                    <label for="username21">username:</label>
+                    <input name="username" class="text" tabindex="1" id="username21">
+                    <input class="checkbox" type="checkbox" tabindex="3" name="rememberme" id="rememberme" value="1">
+                    <label for="rememberme">remember me</label>
+                  </p>
+                  <p>
+                    <label for="password21">password:</label>
+                    <input type="password" name="password" tabindex="2" class="text" id="password21">
+                    <a class="forgotPass" href="http://www.thoughts.com/forgotpassword">I forgot my password</a>
+                  </p>
+                  <button class="submit" type="submit" tabindex="4" value="Login">login</button>
+                </form>
+              </li>
+            </ul>
+          </li>
+        </ul>
 
-	
-</tbody></table>
+      
+    </div>
 
-<table cellspacing="0" cellpadding="0" id="spaceremove"><tbody><tr><td></td></tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="940px"><tbody><tr><td><div id="div_chat" style="height: 15px;width: 100%;" valign="top"></div></td></tr></tbody></table>
-<div style="display:none" id="divlatestComments"></div>
-<div style="display:none" id="divGroupJoinRequests"></div>
-<div id="image" class="image_theme" style="width:940px;">
-<script type="text/javascript" language="JavaScript" src="/js/supersleight-min.js"></script>
-<script>
-var browserType;
+  </div>
 
-if (document.layers) {browserType = "nn4"}
-if (document.all) {browserType = "ie"}
-if (window.navigator.userAgent.toLowerCase().match("gecko")) {
- 	browserType= "gecko"
-}
+  <div class="clear"></div>
+  <noscript>
+    <div>
+      For full functionality of this site it is necessary to enable JavaScript.
+      Here are the <a href="http://www.enable-javascript.com/" target="_blank">
+      instructions how to enable JavaScript in your web browser</a>.
+    </div>
+  </noscript>
+   <div id="themeWrapper"> <div id="themeFooter">  
+	<div id="themeCenter"> 
+	<div id="round">
+  <div id="main" class="right">
+   
+    <h2 class="pageTitle">privacy policy</h2>
+    <div id="sidebar">
+      <div class="module " id="Whim"><div id="top"></div><div id="text">Welcome to thoughts! Create a free blog and join the conversation. What are you thinking? </div><a href="/tour" id="tourButton" class="button blue">take a tour</a><a href="/register" id="signupButton" class="button green">sign up</a></div><div class="module " id="GlobalTags"><span class="moduleHead">related tags</span><ul class="moduleContent"><li><a title="27856 posts tagged love" href="http://www.thoughts.com/tag/love">love</a></li><li><a title="26446 posts tagged life" href="http://www.thoughts.com/tag/life">life</a></li><li><a title="10004 posts tagged poetry" href="http://www.thoughts.com/tag/poetry">poetry</a></li><li><a title="8229 posts tagged relationships" href="http://www.thoughts.com/tag/relationships">relationships</a></li><li><a title="7730 posts tagged thoughts" href="http://www.thoughts.com/tag/thoughts">thoughts</a></li><li><a title="7549 posts tagged poem" href="http://www.thoughts.com/tag/poem">poem</a></li><li><a title="6770 posts tagged god" href="http://www.thoughts.com/tag/god">god</a></li><li><a title="6317 posts tagged friends" href="http://www.thoughts.com/tag/friends">friends</a></li><li><a title="5962 posts tagged family" href="http://www.thoughts.com/tag/family">family</a></li><li><a title="5637 posts tagged depression" href="http://www.thoughts.com/tag/depression">depression</a></li><li><a title="5463 posts tagged sex" href="http://www.thoughts.com/tag/sex">sex</a></li></ul></div>    </div>
 
-function hide2() {
-	if (browserType == "gecko" )
-     		document.poppedLayer = eval('document.getElementById("informative")');
-  	else if (browserType == "ie")
-     		document.poppedLayer = eval('document.getElementById("informative")');
-	else
-		document.poppedLayer = eval('document.layers["informative"]');
-  		document.poppedLayer.style.display = "none";
-  		showdiv3();
-	bInviteFriends = false;
-}
-function hide3() {
-	if (browserType == "gecko" )
-     		document.poppedLayer = eval('document.getElementById("error")');
-  	else if (browserType == "ie")
-     		document.poppedLayer = eval('document.getElementById("error")');
-	else
-		document.poppedLayer = eval('document.layers["error"]');
-  		document.poppedLayer.style.display = "none";
-  		showdiv3();
-}
-function showdiv3() {
-	if (browserType == "gecko" )
-     		document.poppedLayer = eval('document.getElementById("spaceremove")');
-  	else if (browserType == "ie")
-     		document.poppedLayer = eval('document.getElementById("spaceremove")');
-	else
-		document.poppedLayer = eval('document.layers["spaceremove"]');
-  		document.poppedLayer.style.display = "table-cell";
-}
-</script>
+    <div id="content">
+      <div id="StaticPrivacy">
 
-	
-<script language="javascript">
-function checkCode2()
-{
-	if (receiveReq.readyState == 4)
-	{
-		var re = receiveReq.responseText;	
-		// Added on 13-Feb-09 for landing pages
-		document.getElementById('fname_id').value = document.getElementById('username_id').value;
-		document.getElementById('lname_id').value = ' ';		
-		//change ends
-		if (re == 1)
-		{
-			document.getElementById('submit_but').value='Submit';
-			document.register.submit();
-		}
-		else
-		{
-			alert('Wrong verification code!');			
-		}
-	}
-}
-		
-function formSubmit()
-{
-	if (receiveReq.readyState == 4 || receiveReq.readyState == 0) 
-	{
-		var code = escape(document.getElementById('code').value);
-		receiveReq.open("GET", '/populate.php?_action=checkCode&code='+code, true);
-		receiveReq.onreadystatechange = checkCode2; 
-		receiveReq.send(null);
-	}					
-}
+<h3>thoughts.com privacy policy</h3>
 
-function formLogin()
-{
-	
-		document.getElementById('login_but').value='1';
-		document.login_form.submit();
-}
+<p>Thoughts.com is an Internet blogging site that allows its users to set up individual, personal blogs that can be shared and viewed by networks of friends and family. Thoughts.com bloggers can view each other's blogs and correspond with other bloggers throughout the site. Users can post their ideas, photos, videos, diaries, experiences, various comments, and describe their interests through blogs. Thoughts.com users can modify their personal information at any time and have the ability to manage how other thoughts.com users and the service communicates with them. Thoughts.com has its blogging users' best interests in mind regarding their privacy and security. Should you feel that you have any questions regarding the thoughts.com policy on privacy, please feel free to <a href="http://www.thoughts.com/contact">contact us</a>.</p>
 
-</script>
+<h3>Personal information we may collect</h3>
 
-<table border="0" cellpadding="0" cellspacing="0" width="940px">
-	<tbody><tr>
-	<td width="198px" valign="top">	<table border="0" width="196px" cellpadding="0" cellspacing="0">
-	<tbody><tr><td height="20px" background="/images/Column_196.gif" colspan="2" class="font_small_advanced_white" align="center"><b>&nbsp;&nbsp;&nbsp;Quick Links</b></td></tr>
-	<tr><td background="/images/Background_196_center.png">
-		<table style="margin:0 15; line-height:100%" width="165px" cellspacing="0" border="0">
-		<tbody><tr><td>
-		</td></tr>
-		<tr><td class="font_ctrl_advanced_grey" style="border-top: 1px solid #e5e5e5;"><p>
-			<img border="0" src="/images/Tour_ctrl.png" width="20" height="20" style="position: relative">&nbsp;&nbsp;&nbsp;<a href="http://www.thoughts.com/site/share_blog">Take a tour</a></p>
-		</td></tr>
-		<tr><td class="font_ctrl_advanced_grey_modified" style="border-top: 1px solid #e5e5e5;"><p>
-			<img border="0" src="/images/Member_Search_Ctrl.png" width="20" height="20" style="position: relative">&nbsp;&nbsp;&nbsp;<a href="http://www.thoughts.com/site/member_browse_adv">Member Search</a></p>
-		</td></tr>
-		<tr><td class="font_ctrl_advanced_grey_modified" style="border-top: 1px solid #e5e5e5;"><p>
-			<img border="0" src="/images/Create_poll_Ctrl.png" width="20" height="20" style="position: relative">&nbsp;&nbsp;&nbsp;<a href="http://www.thoughts.com/index.php?_action=free_poll">Create Poll</a></p>
-		</td></tr>
-		<tr><td class="font_ctrl_advanced_grey_modified" style="border-top: 1px solid #e5e5e5;"><p>
-			<img border="0" src="/images/Contact_Us_Ctrl.png" width="20" height="20" style="position: relative">&nbsp;&nbsp;&nbsp;<a href="http://www.thoughts.com/site/contact_form">Contact Us</a></p>
-		</td></tr>
-		<tr><td class="font_ctrl_advanced_grey_modified" style="border-top: 1px solid #e5e5e5;"><p>
-			<img border="0" src="/images/Vacation_Ctrl.png" width="20" height="20" style="position: relative">&nbsp;&nbsp;&nbsp;<a href="http://www.thoughts.com/site/vacation">Vacation</a></p>
-		</td></tr>
-		</tbody></table>
-	</td></tr>
-	<tr>
-		<td background="/images/Background_196_bottom.png" height="10px"></td>
-	</tr>
-	</tbody></table>
-</td>
-	<td width="742px" align="right" valign="top"></td><td width="940px" align="center" valign="top">
-		<table width="740px" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr> 
-			<td align="left" background="/images/Column_740.gif" class="font_small_advanced_white" height="20px">
-				&nbsp;&nbsp;&nbsp;Privacy Policy
-			</td>
-			</tr>
-				
-				<tr>
-				<td background="/images/Background_740_center.png" valign="top" class="main_font" align="left" style="padding-left:15px;padding-right:15px">
-					&nbsp;
-				</td>
-				</tr>
-						<tr>
-			<td background="/images/Background_740_center.png" valign="top" align="left" style="padding-left:15px;padding-right:15px">
-				
-<font class="font_small_advanced"><b>Thoughts.com Privacy Policy</b></font>
-<p align="justify">Thoughts.com is an Internet blogging site that allows its users to set up individual personal blogs that can be shared and viewed by networks of friends and family. Thoughts.com bloggers can view each other's blogs and correspond with other bloggers throughout the site. Users can post their ideas, photos, videos, diaries, experiences, various comments, and describe their interests through blogs. Thoughts.com users can modify their personal information at any time and have the ability to manage how other Thoughts.com users and the service communicates with them.
-Thoughts.com clearly has its blogging user's best interests in mind regarding their privacy and security. Should you feel that you have any questions regarding the Thoughts.com policy on privacy, please feel free to contact us at <a href="http://www.thoughts.com/site/contact_form">http://www.thoughts.com/site/contact_form</a>.</p>
-<font class="font_small_advanced"><b>Personal information we may collect</b></font>
-<p align="justify">Thoughts.com may gather personal information when you register for your blogging membership, service, or otherwise willingly provide such personal information. Thoughts.com may store personal information collected from you with information from other Thoughts.com services or perhaps third parties in order to provide improved user know-how, including customizing content for our members.</p>
-<p align="justify">Thoughts.com may utilize cookies and other technology to improve your Internet blogging experience and to study how you use Thoughts.com in order to make progressive changes to the quality of our services we provide in the future. 
-Thoughts.com servers, by design, record information when you visit our blogging site or when you use some of the products designed by Thoughts.com. This may include the IP address, URL, browser type, language, and the date and time of your application.</p>
-<font class="font_small_advanced"><b>How we may use your information</b></font>
-<p align="justify">At times, Thoughts.com may utilize personal information to provide the services you have asked for. This may include services that display customized blogging content and advertising.</p>
-<p align="justify">Additionally, we may also utilize the personal information you voluntarily provide for reviewing, to do research with in order to operate and improve our services for the Thoughts.com blogging community.We may share grouped non-personal information from your registration as a whole, or part, with third parties outside of Thoughts.com for research and other statistical uses.</p>
-<p align="justify">Should Thoughts.com use third parties to support us in processing your personal information, we oblige them to use the same privacy conditions and matter that we do at Thoughts.com at the minimum. They must comply with our privacy policy principals and any other suitable privacy and safekeeping procedures.</p>
-<p align="justify">Thoughts.com may share information with third parties in limited conditions, including when complying with legal procedures, preventing fraud or impending harm, and ensuring the protection of our network of bloggers and services. 
-Thoughts.com processes personal information on our servers in the United States of America as well as other countries and principalities. In addition to this, Thoughts.com processes personal information on a server outside your own country of residence.</p>
-<font class="font_small_advanced"><b>Your options</b></font>
-<p align="justify">Whenever possible, Thoughts.com provides its users with choices when we ask for personal information. 
-You have the right to refuse entering your personal information to us and/or reject cookies in your computer's browser; however, some of our features or services at Thoughts.com may not be able to work for you if you choose to decline them.
-Here at Thgoughts.com, we strive to provide our users with the best possible Internet services and we work hard to provide our bloggers access to their personal information when they request it. We work diligently to provide our users the chance to update such data if it is incorrect and delete it, when realistically possible to do so.</p>
-<font class="font_small_advanced"><b>Promotions, contests and giveaways</b></font>
-<p align="justify">Occasionally, Thoughts.com intends to sponsor contests. Users wishing to take part in these giveaways and other promotions may be asked to provide Thoughts.com with personal information including name, age, home address, phone contact and email address or to answer questions in order to take part in such contests. Rarely, but in some instances, Thoughts.com may need to transfer a user's personal information to certain advertising partners that you have openly requested to obtain information from. It will be obvious at the point of compilation who is collecting the user's personal information and whose privacy statement will be relevant.</p>
-<font class="font_small_advanced"><b>Additional disclosures</b></font>
-<p align="justify">Any personal information voluntarily entered to any blog at Thoughts.com, including user videos and photos and any other personal identification information that is displayed publicly to people in order to assist user communication in the Thoughts.com blogging community is done so, completely at the user's discretion. 
-Thoughts.com may use its user's email address to send updates and other types of communications with its user's. Users may choose not to take delivery of these emails by electing to do so upon registration.</p>
-<p align="justify">All Thoughts.com bloggers and users must fully understand that whenever you willingly post public information to blogs or any other public forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.</p>
-<font class="font_small_advanced"><b>Links</b></font>
-<p align="justify">Thoughts.com blogs and may contain links to outside sites. Thoughts.com is not accountable for the privacy policies, content, and/or situations on other Internet sites. When linking to another site, bloggers will want to be certain that they are fully aware of that site's privacy policies and practices. The Thoughts.com privacy policy only keeps track of information collected on Thoughts.com itself.</p>
-<font class="font_small_advanced"><b>Privacy policy updates or other changes</b></font>
-<p align="justify">As Thoughts.com progresses or situations in development arise, changes to our privacy policy may come about. Should changes be made, we will post them in complete form on our site to make Thoughts.com users conscious of what the changes are. This will allow the Thoughts.com community to continually become aware of what information Thoughts.com collects, how it is used, and when it would be disclosed. All Thoughts.com bloggers and users are bound by any minor changes to the policy when they use the site after those changes have been posted. What's more, if we are going to use users' individually identifiable information in a method considerably different from what is stated at the time of compilation, we will notify by posting a notice on our website for an adequate amount of time or through email communications.</p>
-			</td>
-			</tr>
-						<tr>
-			<td background="/images/Background_740_center.png" valign="top" class="main_font" align="left" style="padding-left:15px;padding-right:15px">
-				&nbsp;
-			</td>
-			</tr>
-						<tr>
-			<td background="/images/Background_740_center.png" valign="center" height="10px" width="740px"> 
-			</td>
-			</tr>
-			<tr>
-			<td background="/images/Background_740_bottom.png" valign="center" height="10px" width="740px"> 
-			</td>
-			</tr>
-				</tbody></table>
-	</td>
-	</tr>
-			
-</tbody></table>
+<p>Thoughts.com may gather personal information when you register for your blogging membership, service, or otherwise willingly provide such personal information. Thoughts.com may store personal information collected from you with information from other Thoughts.com services or perhaps third parties in order to provide improved user know-how, including customizing content for our members.</p>
 
-<script type="text/javascript" language="JavaScript">
-Event.observe('country_id', 'change', populate_state, false);
-function populate_state(default_val) {
-	var country_id = $("country_id").value;
-	var url = "/populate.php";
-	var pars = '_action=statelist&country_id='+country_id;
-	if ((default_val != undefined) && (default_val != '')) {
-		var pars = pars + '&state=' + default_val;
-	}
-	var target = 'stateselect';
-	var myAjax = new Ajax.Updater(target, url, {method: 'get', parameters: pars});
-}
+<p>Thoughts.com may utilize cookies and other technology to improve your Internet blogging experience and to study how you use Thoughts.com in order to make progressive changes to the quality of our services we provide in the future. Thoughts.com servers, by design, record information when you visit our blogging site or when you use some of the products designed by Thoughts.com. This may include the IP address, URL, browser type, language, and the date and time of your application.</p>
 
-populate_state('');
-</script>
-<table><tbody><tr><td height="1px"></td></tr>
-</tbody></table>
+<h3>How we may use your information</h3>
+
+<p>At times, thoughts.com may utilize personal information to provide the services you have asked for. This may include services that display customized blogging content and advertising.</p>
+
+<p>Additionally, we may also utilize the personal information you voluntarily provide for review to do research with or in order to operate and improve our services for the thoughts.com blogging community. We may share grouped non-personal information from your registration as a whole, or part, with third parties outside of thoughts.com for research and other statistical uses.</p>
+
+<p>Should Thoughts.com use third parties to support us in processing your personal information, we oblige them to use the same privacy conditions that we do at Thoughts.com at the minimum. They must comply with our privacy policy principals and any other suitable privacy and safekeeping procedures.</p>
+
+<p>Thoughts.com may share information with third parties in limited conditions, including when complying with legal procedures, preventing fraud or impending harm, and ensuring the protection of our network of bloggers and services. Thoughts.com processes personal information on our servers in the United States of America as well as other countries and principalities. In addition to this, thoughts.com processes personal information on a server outside your own country of residence.</p>
+
+<h3>Your options</h3>
+
+<p>Whenever possible, Thoughts.com provides its users with choices when we ask for personal information. You have the right to refuse entering your personal information to us and/or reject cookies in your computer's browser; however, some of our features or services at Thoughts.com may not be able to work for you if you choose to decline them. Here at thoughts.com, we strive to provide our users with the best possible Internet services, and we work hard to provide our bloggers access to their personal information when they request it. We work diligently to provide our users the chance to update such data if it is incorrect and delete it when realistically possible to do so.</p>
+
+<h3>Promotions, contests and giveaways</h3>
+
+<p>Occasionally, thoughts.com sponsors contests. Users wishing to take part in these giveaways and other promotions may be asked to provide thoughts.com with personal information including name, age, home address, phone contact and email address or to answer questions in order to take part in such contests. Rarely, but in some instances, thoughts.com may need to transfer a user's personal information to certain advertising partners that you have openly requested to obtain information from. It will be obvious at the point of compilation who is collecting the user's personal information and whose privacy statement will be relevant.</p>
+
+<h3>Additional disclosures</h3>
+
+<p>Any personal information voluntarily entered to any blog at thoughts.com, including user videos and photos and any other personal identification information that is displayed publicly to people in order to assist user communication in the thoughts.com blogging community is done so, completely at the user's discretion. Thoughts.com may use its user's email address to send updates and other types of communications to its users. Users may choose not to take delivery of these emails by electing to do so upon registration.</p>
+
+<p>All Thoughts.com bloggers and users must fully understand that whenever they willingly post public information to blogs or any other public forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.</p>
+
+<h3>Links</h3>
+
+<p>Thoughts.com may contain links to outside sites. Thoughts.com is not accountable for the privacy policies, content, and/or situations on other Internet sites. When linking to another site, bloggers will want to be certain that they are fully aware of that site's privacy policies and practices. The Thoughts.com privacy policy only applies to information collected on thoughts.com itself.</p>
+
+<h3>Privacy policy updates or other changes</h3>
+
+<p>As thoughts.com progresses, or situations in development arise, changes to our privacy policy may come about. Should changes be made, we will post them in complete form on our site to make thoughts.com users conscious of what the changes are. This will allow the thoughts.com community to continually become aware of what information thoughts.com collects, how it is used, and when it would be disclosed. All thoughts.com bloggers and users are bound by any minor changes to the policy when they use the site after those changes have been posted. What's more, if we are going to use users' individually identifiable information in a method considerably different from what is stated at the time of compilation, we will notify by posting a notice on our website for an adequate amount of time or through email communications.</p></div>    </div>
+    
+    <div id="footer" class="mainFooter clearfix">
+  <ul id="footer_nav">
+    <li><a href="http://www.thoughts.com/free-blog">free blog</a></li>
+    <li><a href="http://www.thoughts.com/forums">forums</a></li>
+    <li><a href="http://www.thoughts.com/consumerguide">consumer guide</a></li>
+    <li class="sub"><a href="http://www.thoughts.com/blogging-sites" class="parent">blogging sites</a>
+      <div>
+          <ul class="column">
+            <li><a href="http://www.thoughts.com/best-blogs">Best Blogs</a></li>
+            <li><a href="http://www.thoughts.com/blog-search">Blog Search</a></li>
+            <li><a href="http://www.thoughts.com/blogging-sites">Blogging Sites</a></li>
+          </ul>
+
+          <ul class="column">
+            <li><a href="http://www.thoughts.com/how-to-blog">How to Blog </a></li>
+            <li><a href="http://www.thoughts.com/how-to-start-a-blog">How to Start a Blog </a></li>
+            <li><a href="http://www.thoughts.com/journal">Journal </a></li>
+          </ul>
+
+          <ul class="column">
+            <li><a href="http://www.thoughts.com/online-journal">Online Journal </a></li>
+            <li><a href="http://www.thoughts.com/start-a-blog">Start a Blog </a></li>
+            <li><a href="http://www.thoughts.com/what-is-a-blog">What is a Blog </a></li>
+          </ul>
+      </div>
+    </li>
+    <li><a href="http://www.thoughts.com/about">about</a></li>
+    <li><a href="http://www.thoughts.com/onelove">one love philosophy</a></li>
+    <li><a href="http://www.thoughts.com/faq">FAQ</a></li>
+    <li><a href="http://www.thoughts.com/help">help</a></li>
+    <li><a href="http://www.thoughts.com/terms">terms</a></li>
+    <li><a href="http://www.thoughts.com/privacy">privacy</a></li>
+    <li><a href="http://www.thoughts.com/contact">contact</a></li>
+    <li><a href="http://www.thoughts.com/careers">careers</a></li>
+    <li class="last"><a href="http://www.thoughts.com/login">login</a></li>
+  </ul>
+  <p class="copyright">
+    <a href="http://www.thoughts.com">www.thoughts.com</a> ©2010    | <a href="http://www.thoughts.com/bugreport">Report a Bug</a>
+  </p>
 </div>
 
-<table width="940px" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td id="footer" class="font_small_advanced" style="padding:7px;" align="left" height="30" background="/images/footer.png">
-			&nbsp;<a href="http://www.thoughts.com/free-blog">Free Blog</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/about">About</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/one-love-policy">One Love Policy</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/faq">FAQ</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/terms_of_use">Terms</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/privacy_policy">Privacy</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/careers">Careers</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/contact_form">Contact</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com/site/link_to_us">Link to Us</a>&nbsp;|&nbsp;
-			<a href="http://www.thoughts.com">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="http://www.thoughts.com"><span class="font_small">www.thoughts.com</span></a><span class="font_small">  © 2009</span>			
-		</td>
-	</tr>
-	<tr>
-	 	<td height="70" class="footer_shadow">
-	 	</td>
-	 </tr>
 
-</tbody></table>
-<span style="text-align:center; font-size:10px;">
-	Page load time: 0.35678291320801 ms</span>
-</div></center>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript" src="/js/wz_tooltip.js"></script>
 <script type="text/javascript">
-_uacct = "UA-1673701-1";
-urchinTracker();
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  try{
+    var pageTracker = _gat._getTracker("UA-1673701-1");
+    pageTracker._setDomainName(".thoughts.com");
+    pageTracker._trackPageview();
+  } catch(err) {}
 </script>
 
-<!-- ************************************************************************ //-->
-<!-- Thoughts.com External Copyright Information **************************** //-->
-<!-- Icon Sources(Some icons belong to their respective authors, GPL/LGPL)    //-->
-<!-- Aesthetica Icon Set, version 1.12, http://dryicons.com/		      //-->
-<!-- Blogging Icons Set, http://www.blogperfume.com 			      //-->
-<!-- Function Free Icon Set, http://www.wefunction.com 			      //-->
-<!-- Web Application Icons Set, Ray Cheung, WebAppers.com 		      //-->
-<!-- Crystal Project Icons, Everaldo Coelho, http://www.everaldo.com 	      //-->
-<!-- ************************************************************************ //-->
-
+    </div>
+  </div>
+  </div>
+ </div>
+ </div>
+ 
 
 </body></html>
