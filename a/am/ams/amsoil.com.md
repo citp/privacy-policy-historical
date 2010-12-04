@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109131121id_/http%3A//www.amsoil.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205005429id_/http%3A//www.amsoil.com/privacy.aspx) for the most accurate reproduction.*
 
 # AMSOIL.com - Online Privacy Policy
 
@@ -10,7 +10,7 @@ There are times, however, when we may need information from you, such as your na
 
 If you ever receive an e-mail from AMSOIL INC. asking for your name, username or password for any secured areas of the AMSOIL INC. website, only respond if you already submitted information to AMSOIL INC. and make sure that the e-mail that you receive is from an AMSOIL INC. Corporate Staff Member. In general, this applies to anyone who has contacted you with an e-mail address that corresponds to the "@amsoil.com" domain. 
 
-If anyone asks you for usernames or passwords, and they don't seem to originate from AMSOIL INC., do not reply.  Check first with the AMSOIL Webmaster (email above) to verify that the person or persons are from AMSOIL INC. and that they are asking for legitimate information. This policy ensures that confidential information is not given out that may compromise privacy for you or other AMSOIL Dealers.
+If anyone asks you for your password, and they don't seem to originate from AMSOIL INC., do not reply.  Check first with the AMSOIL Web Admin Staff (email below) to verify that the person or persons are from AMSOIL INC. and that they are asking for legitimate information. This policy ensures that confidential information is not given out that may compromise privacy for you or other AMSOIL Dealers.
 
 If you arrived at the AMSOIL Corporate Website via an Authorized AMSOIL Dealer website, a special tag called a "cookie" may have been used to provide AMSOIL with the account number of that Dealer (a cookie is a tiny element of data that a Web site can send to your browser). You may set your browser to notify you when you receive a cookie. This cookie expires as soon as you close your browser.
 
