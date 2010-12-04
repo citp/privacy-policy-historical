@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/privacy.asp) for the most accurate reproduction.*
 
 # Surfrider Foundation- Privacy Policy
 
 |  |  |  |   
 ---  
-|  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/whoweare.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/whatwedo.asp) |  | [](http://www.surfrider.org/action.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/chapters.asp) |  | [](http://www.swell.com/c/surfriderStore_landing.html) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/media.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/waterquality.asp) |  |  |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/support.asp) |   
+|  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/whoweare.asp) |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/whatwedo.asp) |  | [](http://www.surfrider.org/action.asp) |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/chapters.asp) |  | [](http://www.swell.com/c/surfriderStore_landing.html) |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/media.asp) |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/waterquality.asp) |  |  |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20101204054947id_/http%3A//www.surfrider.org/support.asp) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |   
 ---  
