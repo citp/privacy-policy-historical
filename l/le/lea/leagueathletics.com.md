@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004618id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204175508id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26snid%3DkJLKZ2K1%255D%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”
 
 
 
-[For our Children's Privacy Policy (COPPA), click here](http://dev.leagueathletics.com/Page.asp?n=19693&org=dev.leagueathletics.com).
+[For our Children's Privacy Policy (COPPA), click here](http://dev.leagueathletics.com/Page.asp?n=19693&snid=kJLKY1N2Y&org=dev.leagueathletics.com).
 
 _Disclosure_
 
