@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unclaimed.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612195935id_/http%3A//www.unclaimed.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclaimed.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204031059id_/http%3A//www.unclaimed.org/privacy) for the most accurate reproduction.*
 
 # NAUPA : Privacy Policy
 
