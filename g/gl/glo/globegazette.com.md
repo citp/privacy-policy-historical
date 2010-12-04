@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globegazette.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831194431id_/http%3A//www.globegazette.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globegazette.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204115728id_/http%3A//www.globegazette.com/app/help/privacy_policy) for the most accurate reproduction.*
 
-# 
+# globegazette.com | Help | Privacy Policy
+
+## Privacy Policy
 
 Welcome to the web sites of the Globe Gazette. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
