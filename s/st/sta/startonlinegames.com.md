@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407200333id_/http%3A//www.startonlinegames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204075016id_/http%3A//www.startonlinegames.com/privacy.php) for the most accurate reproduction.*
 
 # StartOnlinGames.com
 
