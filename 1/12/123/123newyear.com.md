@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502201710id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123newyear.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204143620id_/http%3A//www.123newyear.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 123newyear.com
+
+We at 123newyear.com a subsidiary of Compare Infobase Ltd are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Ltd or its subsidiary 123newyear.com may collect the information explained herein under.
 
 1\. What identifiable information is collected from me?
 
@@ -8,7 +10,9 @@
 
 **2\. What are cookies and how 123newyear.com uses them?**
 
-As combined part of offering and providing customised and personalised services, 123newyear.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have Compare Infobase Ltd. browse map images, routes and trip plans we will require that you accept cookies. 
+As combined part of offering and providing customised and personalised services,
+
+123newyear.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have Compare Infobase Ltd. browse map images, routes and trip plans we will require that you accept cookies. 
 
 Cache your personalised settings for items such as route language and default country location. 
 
