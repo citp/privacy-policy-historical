@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icerocket.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612014843id_/http%3A//www.icerocket.com/c%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icerocket.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205002612id_/http%3A//www.icerocket.com/c%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - IceRocket
 
