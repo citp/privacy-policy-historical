@@ -1,10 +1,50 @@
-<!--The following is the downloaded HTML source of the xmediapartners.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522114826id_/http%3A//www.xmediapartners.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xmediapartners.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204072319id_/http%3A//www.xmediapartners.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title> -  :: Xmedia Partners</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link media="screen" href="http://www.xmediapartners.com/templates/3/css/default.css" type="text/css" rel="stylesheet">
+	<script src="jquery.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		var loaded = false;
+		function xmlhttpPost(strURL,strQRY,SpanName,Async,SpanLoading,userid,reloadList) {
+			if ((SpanLoading) && (document.getElementById(SpanLoading)!=null)) {
+				document.getElementById(SpanLoading).style.display = "";
+			}
+			var xmlHttpReq = false;
+			var self = this;
+			// Mozilla/Safari
+			if (window.XMLHttpRequest) {
+				self.xmlHttpReq = new XMLHttpRequest();
+			}
+			// IE
+			else if (window.ActiveXObject) {
+				self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			self.xmlHttpReq.open("POST", strURL, Async);
+			self.xmlHttpReq.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			self.xmlHttpReq.onreadystatechange = function() {
+				if (self.xmlHttpReq.readyState == 4) {
+					if (SpanName.length==0) {
+						returnres=self.xmlHttpReq.responseText;
+					} else {
+							//document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText.replace("{newform}",unescape(gnewform)); //this global variable isnt defined on home page so if you reuse you must add this global to homepage somehow
+							if (document.getElementById(SpanName)!=null) {
+								
+								document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText;
+								loaded = true;
+							}
+						
+					}
+				}
+			}
+			self.xmlHttpReq.send(strQRY);
+		}
+		function loadActivityFeed() {
+			xmlhttpPost("activityfeedcached.php","","items",true);
+		}
+	</script>
 </head>
 <body style="background:#FFFFFF;">
 
@@ -23,18 +63,70 @@
       <table cellspacing="0" cellpadding="0" width="750" border="0">
         <tbody>
           <tr>
-          <td align="left" width="50%">
-          <a href="http://www.xmediapartners.com"><img border="0" src="templates/3//images/xmedia.png" align="left"></a>
+          <td align="center" width="300px">
+          <a href="http://www.xmediapartners.com"><img border="0" 50px;="" src="templates/3/images/xmedia.png" align="left" height="200" width="300" style="margin: 0px 50px;"></a>
           </td>
-			<td align="center">
- 			<a href="postquestion.php">
-			<img border="0" src="images/mhask.gif" width="238" height="40"></a>
-			<a href="answerthisquestion.php">
-			<br>
-			<img border="0" src="images/mhanswer.gif" width="238" height="40"></a>
-			<a href="index.php">
-			<br>
-			<img border="0" src="images/mhdiscover.gif" width="238" height="40"></a>
+			<td style="vertical-align:top;padding-top:5px; padding-right:3px;float:right"><div style="text-align:left">
+			<div id="items"><div class="item" id="recent4" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70498"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70498">kittykat58</a>&nbsp;answered the question: <a href="q-qna12202.html">Can you lose weight eating salads</a><strong><i> and received 49 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent3" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70627"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70627">desprate</a>&nbsp;answered the question: <a href="q-qna29957.html">What is this sore on my face that won`t heal ?</a><strong><i> and received 5 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent2" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67857"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67857">Elias</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96306.html">If i walk 30 mins in a day   how much weight  i can reduce in a month</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent1" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66135"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66135">Earlean</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96297.html">How to write buisness quotation mail</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent0" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70475"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70475">imran_pu</a>&nbsp;answered the question: <a href="q-qna31514.html">Can i have a sample of an application letter on requesting for loan in the company</a><strong><i> and received 54 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div>
+
+<div class="item" id="recent49" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70475"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70475">imran_pu</a>&nbsp;answered the question: <a href="q-qna31514.html">Can i have a sample of an application letter on requesting for loan in the company</a><strong><i> and received 11 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent48" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67333"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67333">Galen</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;FamousQuestion</span></td></tr></tbody></table></div></div><div class="item" id="recent47" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70496"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70496">guru</a>&nbsp;answered the question: <a href="q-qna32101.html">How to write a request letter for loan</a><strong><i> and received 14 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent46" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66625"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66625">Alfonso</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;FamousQuestion</span></td></tr></tbody></table></div></div><div class="item" id="recent45" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70471"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70471">Mrs Joy Leo</a>&nbsp;answered the question: <a href="q-qna40187.html">I need an urgent loan asap</a><strong><i> and received 32 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent44" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70504"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70504">Vinay Dang</a>&nbsp;answered the question: <a href="q-qna53314.html">How to write offical letter if u request something</a><strong><i> and received 5 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent43" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67613"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67613">Rosa</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna93829.html">How much money does the adverage american spend on video games a year</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent42" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69529"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69529">Tuyet</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96298.html">How many types of id do i need to travel internationally</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent41" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67147"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67147">Lester</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96311.html">If i take a medecine and drink beer what is the cause</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent40" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68630"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68630">Briana</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;FamousQuestion</span></td></tr></tbody></table></div></div><div class="item" id="recent39" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66342"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66342">Verda</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96305.html">How to write a letter to principal for requesting change the date of second interview</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent38" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70726"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70726">Loraine1</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;Pioneer</span></td></tr></tbody></table></div></div><div class="item" id="recent37" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69853"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69853">Belinda</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna95943.html">How much is the initial deposit at hsbc philippines</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent36" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68411"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68411">Nila</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96294.html">How much is spent in a year for bottles for a new born baby</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent35" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70664"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70664">Safari</a>&nbsp;answered the question: <a href="q-qna82656.html">How many days of vacations can u take in a year</a><strong><i> and received 12 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent34" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70563"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70563">allister</a>&nbsp;answered the question: <a href="q-qna76144.html">I have a dance in two days  how do i get rid of my acne</a><strong><i> and received 6 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent33" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66399"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66399">Glory</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;FamousQuestion</span></td></tr></tbody></table></div></div><div class="item" id="recent32" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68083"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68083">Genie</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96309.html">Where has all the money collected for haiti relief gone</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent31" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69994"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69994">Lorenza</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96308.html">How much is transporting corpse by airplane</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent30" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69042"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69042">Eden</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna94039.html">What is the yearly rate of money you would make owning your own beauty salon</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent29" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70727"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70727">el vato</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;Pioneer</span></td></tr></tbody></table></div></div><div class="item" id="recent28" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70582"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70582">EC</a>&nbsp;answered the question: <a href="q-qna1102.html">How much foreign currency can you take into other countries</a><strong><i> and received 27 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent27" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=51601"><img border="0" width="40" height="40" src="uploads/user/thumb/Garden.jpg"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=51601">Dougie</a>&nbsp;answered the question: <a href="q-qna81358.html">Why do seniors have a hard time healing sores or wounds</a><strong><i> and received 26 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent26" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70613"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70613">Rabiu</a>&nbsp;answered the question: <a href="q-qna31454.html">PERMISSION LETTER FOR INDUSTRIAL TRAINING</a><strong><i> and received 47 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent25" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70630"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70630">ranson</a>&nbsp;answered the question: <a href="q-qna33146.html">How much does one person spend on food in one month</a><strong><i> and received 29 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent24" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67858"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67858">Hilario</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna95404.html">What are the taxes on money you bring into usa from another country</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent23" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69213"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69213">Samuel</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna93914.html">How to write an e mail to aply for leave</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent22" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70570"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70570">kadi</a>&nbsp;answered the question: <a href="q-qna85391.html">I have a 1/2 karat princess cut Leo diamond and was just told i have a chip on the diamond. they said that my lifetime warranty is up.... and that the</a><strong><i> and received 61 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent21" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66865"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66865">Richard</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;FamousQuestion</span></td></tr></tbody></table></div></div><div class="item" id="recent20" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67878"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67878">Lucille</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;FamousQuestion</span></td></tr></tbody></table></div></div><div class="item" id="recent19" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70594"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70594">A.Bokin.Ducky</a>&nbsp;answered the question: <a href="q-qna36713.html">How to pop a hard pimple that hurts</a><strong><i> and received 39 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent18" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70628"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70628">string.khole</a>&nbsp;answered the question: <a href="q-qna45182.html">How much airfare for 6 year old</a><strong><i> and received 52 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent17" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69491"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69491">Terresa</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96315.html">How much aid do we give to angola</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent16" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70728"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70728">renaebruno</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;Pioneer</span></td></tr></tbody></table></div></div><div class="item" id="recent15" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67103"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67103">Numbers</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96313.html">How to apply for atm in landbank philippines</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent14" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70480"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70480">BuzzReporter</a>&nbsp;answered the question: <a href="q-qna79737.html">How many people regularly consume fast food</a><strong><i> and received 10 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent13" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66938"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66938">Gregory</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96314.html">Does eating egg infect pimple</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent12" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69359"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69359">Nigel</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96299.html">How soon after purchasing property can you get home equity loan</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent11" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67103"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67103">Numbers</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96312.html">How much money needed to apply for atm in landbank</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent10" style="display: none;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70729"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70729">sunilkumar</a>&nbsp;earned the badge: <span style="background-color:blue;color:white;font-size:12px;margin:2px;padding:2px">&nbsp;Pioneer</span></td></tr></tbody></table></div></div><div class="item" id="recent9" style="display: block; overflow: hidden; height: 12.5896px;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70109"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70109">samithebadshah</a>&nbsp;answered the question: <a href="q-qna81384.html">How much am i supposed to spend on an engagement ring</a><strong><i> and received 46 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent8" style="display: block; overflow: hidden; height: 12.7649px;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67216"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67216">Lucius</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96310.html">How to write a letter to bank manager for adding authorised signatory</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent7" style="display: block; overflow: hidden; height: 15.0222px;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68277"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68277">Lino</a>&nbsp;<strong><i>spent 10 points to </i></strong>ask the question: <a href="q-qna96307.html">Why does my fingers  swell up after drinking alcohol</a><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent6" style="display: block; overflow: hidden; height: 15.3006px;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=51601"><img border="0" width="40" height="40" src="uploads/user/thumb/Garden.jpg"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=51601">Dougie</a>&nbsp;answered the question: <a href="q-qna81357.html">If I eat really really small portions can i avoid spiking sure and still eat carbs.</a><strong><i> and received 12 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div><div class="item" id="recent5" style="display: block; overflow: hidden; height: 23.5447px;"><div style="padding-top: 3px;padding-bottom: 3px"><table><tbody><tr><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70637"><img border="0" width="40" height="40" src="images/man.gif"></a></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=70637">nancy12_s</a>&nbsp;answered the question: <a href="q-qna13480.html">What if my llc gets sued</a><strong><i> and received 52 points</i></strong><span class="style15"></span></td></tr></tbody></table></div></div></div>
+			<script type="text/javascript">
+				loadActivityFeed();
+			</script>
+<script>
+	
+	  var delay = 4000;
+      var count = 0;
+      var showing = 5;
+      var i = 0;
+	  var slide = 800;
+	  function find_counter(){
+	  	var j=0;
+	  	while ($('#recent'+j).length > 0) {
+			j++;
+		}
+		count = j;
+
+	  }
+      function move(i) {
+        return function() {
+          $('#recent'+i).remove().css('display', 'none').prependTo('#items');
+        }
+      }
+	  function shift1() {
+        var toShow = (i + showing) % count;
+        $('#recent'+toShow).slideDown(slide, move(i));
+        $('#recent'+i).slideUp(slide, move(i));
+        i = (i + 1) % count;
+        
+      }    
+
+      function shift() {
+        var toShow = (i + showing) % count;
+        $('#recent'+toShow).slideDown(slide, move(i));
+        $('#recent'+i).slideUp(slide, move(i));
+        i = (i + 1) % count;
+        setTimeout('shift()', delay);
+      }    
+	  
+	  function startfeeding() {
+	  	if (!loaded) {
+			setTimeout('startfeeding()',1000);
+		} else {
+			find_counter();
+			for (var i=0; i<showing; i++) {
+				shift1();
+			}
+			setTimeout('shift()', delay);
+		}
+      }
+	  
+      $(document).ready(function () {
+	  	startfeeding();
+      });
+	</script>
+			
+</div>
 <br>
       </td>
           </tr>
@@ -42,13 +134,13 @@
       </table>
     </div>
   </div>
-       <div id="header-user-profile">
+<div id="header-user-profile">
               <div class="global-search-bar">
         <table cellspacing="0" cellpadding="0" border="0">
           <tbody>
             <tr>
               <td valign="bottom"><strong><font size="4">
-              GoFTP Answers: An open Q&amp;A on topics of your choice.
+              The Q&amp;A. media company.
               </font></strong></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -67,22 +159,20 @@
       <td align="center" style="padding-left:180px;" width="100%">
       
       <br>
-
-
 <form action="http://www.google.com/cse" id="cse-search-box">
   <div>
-    <input type="hidden" name="cx" value="partner-pub-8917950167310020:69qe5yp3vjz">
-    <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="31">
+    <input type="hidden" name="cx" value="partner-pub-8917950167310020:4803778131">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="55">
     <input type="submit" name="sa" value="Search">
   </div>
 </form>
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
       </td>
-     </tr>
-     </tbody></table>      
+  </tr>
+</tbody></table>      
 <div class="home" id="y-body-green-knowledge-search">
 			<div id="content">
 		   
@@ -155,7 +245,10 @@ var buthtml="";
 var savebuthtml;
 var returnres;
 
-function xmlhttpPost(strURL,strQRY,SpanName,Async) {
+function xmlhttpPost(strURL,strQRY,SpanName,Async,SpanLoading,userid,reloadList) {
+	if ((SpanLoading) && (document.getElementById(SpanLoading)!=null)) {
+		document.getElementById(SpanLoading).style.display = "";
+	}
     var xmlHttpReq = false;
     var self = this;
     // Mozilla/Safari
@@ -170,16 +263,38 @@ function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     self.xmlHttpReq.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     self.xmlHttpReq.onreadystatechange = function() {
         if (self.xmlHttpReq.readyState == 4) {
-		if (SpanName.length==0) {
-			returnres=self.xmlHttpReq.responseText;
-		} else {
-            	//document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText.replace("{newform}",unescape(gnewform)); //this global variable isnt defined on home page so if you reuse you must add this global to homepage somehow
-            	document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText;
-			if (buthtml.length>0) {
-				document.getElementById("rbut").innerHTML=buthtml;
-				buthtml="";
+			//special case by sami to be able to cause refreshing of page from php code
+			if (self.xmlHttpReq.responseText.search("reloadpage")>-1)
+			{
+				window.location.reload();
+				return true;
 			}
-		}
+			if (SpanName.length==0) {
+				returnres=self.xmlHttpReq.responseText;
+			} else {
+					//document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText.replace("{newform}",unescape(gnewform)); //this global variable isnt defined on home page so if you reuse you must add this global to homepage somehow
+					if (document.getElementById(SpanName)!=null) {
+						document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText;
+					}
+				if (buthtml.length>0) {
+					if (document.getElementById("rbut")) {
+						document.getElementById("rbut").innerHTML=buthtml;
+						buthtml="";
+					}
+				}
+				if ((SpanLoading) && (document.getElementById(SpanLoading) != null)) {
+				
+					document.getElementById(SpanLoading).style.display = "none";
+				}
+			}
+			if ((userid) && (reloadList)) {
+				for (var i=0; i<reloadList.length; i++) {
+					var qstr = "userid="+userid+"&numrec="+reloadList[i][2]+"&cmd=" + reloadList[i][0];
+					//alert(qstr + " update to " + reloadList[i][1]);
+					//setTimeout("",1000);
+					xmlhttpPost("saveanswer.php",qstr,reloadList[i][1],true,"");
+				}
+			}
         }
     }
     self.xmlHttpReq.send(strQRY);
@@ -187,12 +302,18 @@ function xmlhttpPost(strURL,strQRY,SpanName,Async) {
 
 function doaddnewq(mode,id,rid) {
 if (mode=='subscribe'){
-	var qstr = "user_name="+escape(rid.newuser_name.value);
-	//qstr=qstr+"&userf_name="+escape(rid.newuserf_name.value);
-	//qstr = qstr + "&userl_name="+escape(rid.newuserl_name.value);
-	qstr = qstr + "&usere_add="+escape(rid.newusere_add.value)+"&question_ID="+id;
-	xmlhttpPost("saveanswer.php?"+qstr,"","addnewqbut",true);
+        if (rid.newuser_name.value.search('@')==-1)
+        {
+                var qstr = "user_name="+escape(rid.newuser_name.value);
+                //qstr=qstr+"&userf_name="+escape(rid.newuserf_name.value);
+                //qstr = qstr + "&userl_name="+escape(rid.newuserl_name.value);
+                qstr = qstr + "&usere_add="+escape(rid.newusere_add.value)+"&question_ID="+id;
 
+                xmlhttpPost("saveanswer.php?"+qstr,"","addnewqbut",true);
+        }else{
+                alert ('Sorry email addresses are not allowed as usernames');
+                return false;
+        }
 }else {
 	var rform = document.getElementById(id);
 	if (rform.title.value.length<30) {
@@ -208,7 +329,12 @@ if (mode=='subscribe'){
 			var qstr = "title=" + escape(rform.title.value)+"&newtext=" + escape(rform.newtext.value)+"&txy="+(tempX+tempY)+"&cmd="+rid;
 			//document.getElementById("qsubuser").innerHTML = "<H2 class=header>Subscribe Below:<br><br></H2>";
 			//xmlhttpPost("saveanswer.php",qstr,"res"+id,true);
-			xmlhttpPost("saveanswer.php",qstr,"addnewqbut",true);
+			xmlhttpPost("saveanswer.php",qstr,"addnewqbut",true,"",id,
+						new Array(
+								new Array("reloadcredit","credits",0)
+						) );
+
+			
 		}
 	}
 }
@@ -216,8 +342,8 @@ if (mode=='subscribe'){
 
 function dologin(id,pass) {
 	var qstr = "uid=" + escape(id.value)+"&pass=" + escape(pass.value)+"&txy="+(tempX+tempY)+"&cmd=login";
-	xmlhttpPost("saveanswer.php",qstr,"passres",false);
-	return (document.getElementById("passres").innerHTML=="");
+	xmlhttpPost("saveanswer.php",qstr,"passres",true);
+	return false;
 }
 
 function sendpass(email) {
@@ -240,6 +366,276 @@ function lostpass() {
 	document.getElementById("loginform").innerHTML=fhtml;
 }
 
+// Start Danhvo - do follow
+function dofollow(userid, followerid) {
+	var qstr = "userid=" + userid+"&followerid="+followerid+"&txy="+(tempX+tempY)+"&cmd=follow";
+	xmlhttpPost("saveanswer.php",qstr,"divuserinfo",true,"spanfollowloading",followerid,
+			new Array(
+					//new Array("reloaduserinfo","divuserinfo",0)
+			) );
+}
+// do follow for top user page
+function dofollowtopuser(userid, followerid) {
+	var qstr = "userid=" + userid+"&followerid="+followerid+"&txy="+(tempX+tempY)+"&cmd=followtopuser";
+	xmlhttpPost("saveanswer.php",qstr,"divuserinfo",true,"spanfollowloading"+followerid,followerid,
+			new Array(
+					//new Array("reloaduserinfo","divuserinfo",0)
+			) );
+}
+
+// End Danhvo - do follow
+
+// Start Danhvo - do make friend
+function domakefriend(userid,followerid) {
+	var numrec = document.getElementById("numrecfollower").value;
+	var qstr = "followerid=" + followerid + "&txy="+(tempX+tempY)+"&userid="+userid+"&cmd=makefriend" + "&numrec=" + numrec;
+	xmlhttpPost("saveanswer.php",qstr,"followersection",true,"spanloading_follower",userid,
+			new Array(
+					//new Array("reloaduserinfo","divuserinfo",0),
+					//new Array("reloadactivity","latestactivitybut",document.getElementById("numrecactivity").value),
+					new Array("reloadcredit","credits",0)
+					
+			) );
+}
+// End Danhvo - do make friend
+
+// Start Danhvo - do remove friend
+function doremovefriend(userid, followerid) {
+	var numrec = document.getElementById("numrecfriend").value;
+	var qstr = "userid=" + userid + "&followerid="+followerid+"&txy="+(tempX+tempY)+"&cmd=removefriend" + "&numrec="+numrec;
+	xmlhttpPost("saveanswer.php",qstr,"friendsection",true,"spanloading_friend",userid,
+			new Array(
+					new Array("reloaduserinfo","divuserinfo",0)
+			) );
+}
+// End Danhvo - do remove friend
+
+// Start Danhvo - do remove following
+function doremovefollowing(id) {
+	var numrec = document.getElementById("numrecfollowing").value;	
+	var qstr = "id=" + id + "&txy="+(tempX+tempY)+"&cmd=removefollowing" + "&numrec="+numrec;
+	xmlhttpPost("saveanswer.php",qstr,"followingsection",true,"spanloading_following");
+}
+function doremoveblock(userid, blockuserid) {
+	var numrec = document.getElementById("numrecblocklist").value;	
+	var qstr = "userid=" + userid + "&blockuserid=" + blockuserid + "&txy="+(tempX+tempY)+"&cmd=removeblock" + "&numrec="+numrec;
+	xmlhttpPost("saveanswer.php",qstr,"blocksection",true,"spanloading_blocklist");
+}
+// End Danhvo - do remove friend
+
+// Start Danhvo - do remove activity
+function doremoveactivity(activityid,userid) {
+	numrec = document.getElementById("numrecactivity").value;
+	var qstr = "activityid=" + activityid + "&userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=removeactivity";
+	xmlhttpPost("saveanswer.php",qstr,"latestactivitybut",true,"spanremoveloading");
+}
+// End Danhvo - do remove activity
+
+// Start Danhvo - do remove message
+function doremovemessage(messageid,userid) {
+	numrec = document.getElementById("numrecmessage").value;
+	var qstr = "messageid=" + messageid + "&userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=removemessage";
+	xmlhttpPost("saveanswer.php",qstr,"sendmessagebut",true,"spanremoveloading_message");
+}
+// End Danhvo - do remove message
+
+
+// Start Danhvo - Send message
+function dosendmessage(fromuserid, touserid, elementid, update_elementid, default_text, spanloadingid, reload) {
+	//document.getElementById(update_elementid).innerHTML="";
+	var message=document.getElementById(elementid).value;
+
+	if (message == default_text) {
+		alert("Please enter a message");
+		return false;
+	}
+	var  numrec = 0;
+	if (document.getElementById("numrecmessage")!=null) {
+		numrec = document.getElementById("numrecmessage").value;
+	}
+	// replace + with %2B
+	message = message.split("+").join("%2B");
+	message = message.split("  ").join("%20");
+	//alert(message);
+	var qstr = "fromuserid=" + fromuserid + "&touserid=" + touserid + "&message=" + escape(message) + "&txy="+(tempX+tempY)+"&cmd=sendmessage"+"&numrec="+numrec+"&reload="+reload;
+	//alert(qstr);
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanloadingid);
+	
+//	document.getElementById(elementid).value = default_text;
+	return true;
+}
+
+// End Danhvo - Send message
+
+function doclearallmessage(userid)
+{
+	var qstr = "userid=" + userid + "&txy="+(tempX+tempY)+"&cmd=clearallmessage";
+	//alert(qstr);
+	
+	xmlhttpPost("saveanswer.php",qstr,"sendmessagebut",true,"spanremoveloading_message");
+}
+
+function doclearallactivity(userid)
+{
+	var qstr = "userid=" + userid + "&txy="+(tempX+tempY)+"&cmd=clearallactivity";
+	//alert(qstr);
+	
+	xmlhttpPost("saveanswer.php",qstr,"latestactivitybut",true,"spanremoveloading");
+}
+// Start Danhvo - expand message
+function doshowexpandmessage(userid, update_elementid,spanid) {
+	//document.getElementById(update_elementid).innerHTML="";
+	document.getElementById("numrecmessage").value = parseInt(document.getElementById("numrecmessage").value)+10;
+	var numrec = document.getElementById("numrecmessage").value;
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=showexpandmessage";
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanid);
+	
+	return true;
+}
+// End Danhvo - expand message
+
+// Start Danhvo - expand friendlist
+function doshowexpandfriend(userid, update_elementid,spanid) { 
+	//document.getElementById(update_elementid).innerHTML="";
+	document.getElementById("numrecfriend").value = parseInt(document.getElementById("numrecfriend").value)+16;
+	var numrec = document.getElementById("numrecfriend").value;
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=showexpandfriend";
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanid);
+	
+	return true;
+}
+// End Danhvo - expand friendlist
+
+// Start Danhvo - expand followinglist
+function doshowexpandfollowing(userid, update_elementid,spanid) { 
+	//document.getElementById(update_elementid).innerHTML="";
+	document.getElementById("numrecfollowing").value = parseInt(document.getElementById("numrecfollowing").value)+16;
+	var numrec = document.getElementById("numrecfollowing").value;
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=showexpandfollowing";
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanid);
+	
+	return true;
+}
+
+// End Danhvo - expand followinglist
+function doshowexpandblocklist(userid) { 
+	
+	document.getElementById("numrecblocklist").value = parseInt(document.getElementById("numrecblocklist").value)+16;
+	var numrec = document.getElementById("numrecblocklist").value;
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=showexpandblocklist";
+	
+	xmlhttpPost("saveanswer.php",qstr,"blocksection",true,"spanloading_expandblocklist");
+	
+	return true;
+}
+
+// Start Danhvo - expand followerlist
+function doshowexpandfollower(userid, update_elementid,spanid) { 
+	//document.getElementById(update_elementid).innerHTML="";
+	document.getElementById("numrecfollower").value = parseInt(document.getElementById("numrecfollower").value)+16;
+	var numrec = document.getElementById("numrecfollower").value;
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=showexpandfollower";
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanid);
+	
+	return true;
+}
+// End Danhvo - expand followerlist
+
+// Start Danhvo - expand activity
+function doshowexpandactivity(userid, update_elementid,spanid) {
+	//document.getElementById(update_elementid).innerHTML="";
+	document.getElementById("numrecactivity").value = parseInt(document.getElementById("numrecactivity").value)+10;
+	var numrec = document.getElementById("numrecactivity").value;
+	var filterid = document.getElementById("activityfilterid").value;
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=showexpandactivity"+"&filterid=" + filterid;
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanid);
+	
+	return true;
+}
+// End Danhvo - expand activity
+
+// Start Danhvo - expand activity
+function doreloadactivity(userid, update_elementid,spanid, filterid) {
+	//document.getElementById(update_elementid).innerHTML="";
+	// reset numrec
+	document.getElementById("numrecactivity").value = 10;
+	var numrec = document.getElementById("numrecactivity").value;
+	if (filterid == null) {
+		filterid = document.getElemenyById("activityfilterid").value;
+	}
+	
+	var qstr = "userid=" + userid + "&numrec=" + numrec + "&txy="+(tempX+tempY)+"&cmd=reloadactivity"+"&filterid=" + filterid;
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanid);
+	
+	return true;
+}
+// End Danhvo - expand activity
+
+
+// Start Danhvo - Send reply message
+function doreply(fromuserid, touserid, elementid, update_elementid, default_text, spanloadingid, messageid) {
+	//document.getElementById(update_elementid).innerHTML="";
+	var message=document.getElementById(elementid).value;
+	if (message == default_text) {
+		alert("Please enter a message");
+		return false;
+	}
+	// replace + with %2B
+	message = message.split("+").join("%2B");
+	message = message.split("  ").join("%20");
+	
+	var numrec = document.getElementById("numrecmessage").value;
+	var qstr = "fromuserid=" + fromuserid + "&touserid=" + touserid + "&message=" + message + "&txy="+(tempX+tempY)+"&cmd=reply"+"&messageid="+messageid+"&numrec="+numrec;
+	
+	xmlhttpPost("saveanswer.php",qstr,update_elementid,true,spanloadingid);
+	
+//	document.getElementById(elementid).value = default_text;
+	return true;
+}
+// End Danhvo - Send reply message
+
+function doblockuser(userid, blockuserid, clearflag) {
+	var numrec = document.getElementById("numrecmessage").value;
+	var qstr = "userid=" + userid + "&blockuserid=" + blockuserid + "&clearflag=" + clearflag + "&numrec="+numrec+"&txy="+(tempX+tempY)+"&cmd=blockuser";
+	
+	xmlhttpPost("saveanswer.php",qstr,"sendmessagebut",true,"spanremoveloading_message");
+	
+//	document.getElementById(elementid).value = default_text;
+	return true;
+}
+
+function doeditmessage(userid, messageid) {
+	//document.getElementById(update_elementid).innerHTML="";
+	var message=document.getElementById("txtmessage_" + messageid).value;
+	if (message == "") {
+		alert("Please enter a message");
+		return false;
+	}
+	// replace + with %2B
+	message = message.split("+").join("%2B");
+	message = message.split("  ").join("%20");
+	
+	var numrec = document.getElementById("numrecmessage").value;
+	var qstr = "userid="+userid+"&messageid=" + messageid + "&message=" + message + "&txy="+(tempX+tempY)+"&cmd=editmessage"+"&numrec="+numrec;
+	
+	xmlhttpPost("saveanswer.php",qstr,"sendmessagebut",true,"spanloading"+messageid);
+	
+//	document.getElementById(elementid).value = default_text;
+	return true;
+}
 
 var gpass1;
 var gpass2;
@@ -270,9 +666,20 @@ function subscribeuser(qid,uid,form) {
 var guser;
 var gemail;
 
+function adduser(uid,qid) {
+        if (document.getElementById("subnewuser").value.search("@")==-1){
+                xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(document.getElementById("subnewuser").value)+"&usere_add="+escape(document.getElementById("subnewemail").value)+"&question_ID="+qid+"&pass="+escape(gpass1)+"&cmd=adduser","spanabuse",true);
+        }else{
+                alert ("Usernames should not contain email addresses");
+        }
+}
 
-function adduser(uid,qid,form) {
-        xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(guser)+"&usere_add="+escape(gemail)+"&question_ID="+qid+"&pass="+escape(gpass1)+"&cmd=adduser","spanabuse",true);
+function savenewadduser(aid,qid,form) {
+        if (gemail.search("@")==-1){
+                xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(guser)+"&usere_add="+escape(gemail)+"&question_ID="+qid+"&pass="+escape(gpass1)+"&aid="+aid+"&cmd=adduser","savenewadduser",true);
+        }else{
+                alert ("Usernames should not contain email addresses");
+        }
 }
 
 function unsubscribeuser(qid,uid,form) {
@@ -281,10 +688,68 @@ function unsubscribeuser(qid,uid,form) {
 </script>
 <script>
 
+function swaporder(dname1,dname2) {
+	var d1=document.getElementById(dname1);
+	var d2=document.getElementById(dname2);
+	var temp = d1.innerHTML;
+	d1.innerHTML=d2.innerHTML;
+	d2.innerHTML=temp;
+}
+
+var hfirst="";
+function setorder(dname1,dname2,dfirst) {
+   if(hfirst=="") {
+	hfirst=dname1;
+   }
+   if(dfirst!=hfirst) {
+	document.getElementById("current").id="tempid";
+	document.getElementById("notcurrent").id="current";
+	document.getElementById("tempid").id="notcurrent";
+
+	var d1=document.getElementById(dname1);
+	var d2=document.getElementById(dname2);
+	var temp = d1.innerHTML;
+	d1.innerHTML=d2.innerHTML;
+	d2.innerHTML=temp;
+	if (hfirst==dname1) {
+		hfirst=dname2;
+	} else {
+		hfirst=dname1;
+	}
+   }
+}
+var curtop="";
+function choose_tab(firstdiv,newtop) {
+   if(curtop=="") {
+	curtop=firstdiv;
+   }
+//alert("curtop="+curtop+" newtop="+newtop);
+   if(curtop!=newtop) {
+
+	//we need to swap curtop and newtop
+	var d1=document.getElementById(curtop);
+	var d2=document.getElementById(newtop);
+	var temp = d1.innerHTML;
+	d1.innerHTML=d2.innerHTML;
+	d2.innerHTML=temp;
+	
+	//contents of div moved so now lets move ids to match
+	temp=d1.id;
+	d1.id=d2.id;
+	d2.id=temp;
+
+	//now we need to set show user correct tab in front
+	document.getElementById(newtop+"div").innerHTML=document.getElementById(newtop+"div").innerHTML.replace("notcurrent","current");
+	document.getElementById(curtop+"div").innerHTML=document.getElementById(curtop+"div").innerHTML.replace("current","notcurrent");
+
+	curtop=newtop;
+   }
+}
+
 // To Validate the Email
 function IsEmail(obj, msgstr)
 {
-        if(obj.value.trim() == "")
+        if(obj.value.replace(/^\s+|\s+$/g,"") == "")
         {
                 alert(msgstr);
                 obj.focus();
@@ -305,7 +770,7 @@ function IsEmail(obj, msgstr)
 
 
 function IsBlank(obj,msg) {
-                if(obj.value.trim() == "") {
+                if(obj.value.replace(/^\s+|\s+$/g,"") == "") {
                         alert(msg);
                         obj.focus();
                         return false;
@@ -314,6 +779,11 @@ function IsBlank(obj,msg) {
 }
 
 function frontcreateaccount() {
+        if(document.frmCrRegister.txtuname.value.search("@")!=-1)
+        {
+                alert ("Sorry your username should not be an email address");
+                return false;
+        }
         if(!IsBlank(document.frmCrRegister.txtfname,"Please Enter First Name"))
                 return false;
         if(!IsBlank(document.frmCrRegister.txtlname,"Please Enter Last Name"))
@@ -338,7 +808,58 @@ function frontcreateaccount() {
 }
 
 </script>
+<script>
 
+function str_replace_script (search, replace, subject)
+{
+var result = "";
+var  oldi = 0;
+for (i = subject.indexOf (search); i > -1; i = subject.indexOf (search, i))
+{
+result += subject.substring (oldi, i);
+result += replace;
+i += search.length;
+oldi = i;
+}
+return result + subject.substring (oldi, subject.length);
+}
+
+	function twitter_login(parameters)
+	{
+		window.location.href= 'http://www.xmediapartners.com/twitter_login.php?'+parameters+'twitter_user='+document.getElementById('openid_username').value+'&twitter_password='+document.getElementById('openid_password').value;
+		return false;
+
+	}
+	function openid_login(service, parameters)
+	{
+		if (service=="google") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_identifier=https://www.google.com/accounts/o8/id";
+		else if (service =="yahoo") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_identifier=http://yahoo.com/";
+		//do not remove answerfever.com from below
+		else if (service =="facebook") window.location.href="http://www.answerfever.com/facebook_go.php?returno=http://www.xmediapartners.com/openid_user.php?"+parameters;
+		else if (service =="twitter") window.location.href="http://www.answerfever.com/twitter_redirect.php?returno=http://www.xmediapartners.com/openid_user.php?"+parameters;
+		//else if (service =="twitter") document.getElementById("openid_login").innerHTML="<br>Please Enter your "+service+" credentials:<br>Username:<input type=\"text\" id=\"openid_username\" size=5 style=\"font-family:arial; font-size:11; font-weight:normal; height=20px\"><br>Password:<input type=\"password\" id=\"openid_password\" size=5 style=\"font-family:arial; font-size:11; font-weight:normal; height=20px\"><br><input type=\"submit\" style=\"color:#333333; font-family:arial; font-size:11; font-weight:normal; padding:1px; width:50px; height:30px\" value=\"login\" id=\"openid_submit\" onClick=\"twitter_login('"+parameters+"')\">";
+		else document.getElementById("openid_login").innerHTML="<br>Please Enter your "+service+" username<br><input type=\"text\" id=\"openid_username\" size=5 style=\"font-family:arial; font-size:11; font-weight:normal; height=20px\"><input type=\"submit\" style=\"color:#333333; font-family:arial; font-size:11; font-weight:normal; padding:1px; width:50px; height:30px\" value=\"login\" id=\"openid_submit\" onClick=\"openid_user_login(document.getElementById('openid_username').value, '"+service+"', '"+parameters+"');return false;\">";
+	}
+
+	function openid_user_login (username, service, parameters)
+	{
+		//alert ("http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_identifier="+username);
+		if (service=="openid") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_identifier="+username;
+		if (service=="aol") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://openid.aol.com/"+username;
+		if (service=="livejournal") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://"+username+".livejournal.com/";
+		if (service=="flickr") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://www.flickr.com/"+username;
+		if (service=="technorati") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://technorati.com/people/technorati/"+username;
+		if (service=="wordpress") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://"+username+".wordpress.com/";
+		if (service=="blogger") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://"+username+".blogspot.com/";
+		if (service=="verisign") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://"+username+".pip.verisignlabs.com/";
+		if (service=="myvidoop") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://"+username+".myvidoop.com/";
+		if (service=="claimid") window.location.href="http://www.xmediapartners.com/try_auth.php?"+parameters+"action=verify&openid_username="+username+"&openid_identifier=http://claimid.com/"+username;
+
+		return false;
+	}
+</script>
+
+<link media="screen" href="css/tabs.css" type="text/css" rel="stylesheet">
 
 <div id="left">
 
@@ -350,7 +871,7 @@ function frontcreateaccount() {
               </div>
 	    </div>
 		 <div id="resaddq" style="font-family:arial,helvetica,verdana;font-size:12px;text-align: center;">
-			<div style="font-family:arial,helvetica,verdana;font-size:14px;font-weight:bold;color:green;padding:10px">Ask your question fast!<br>No signup necessary</div>
+			<div style="font-family:arial,helvetica,verdana;font-size:14px;font-weight:bold;color:green;padding:10px">Ask your question fast!</div>
 			  <div style="text-align:left;padding-left:10px">
 				Question<br>
 				<form id="addq" action="">
@@ -383,6 +904,26 @@ function frontcreateaccount() {
  				<form name="frmLogin" id="frmLogin" action="" onsubmit="javascript:return(dologin(this.txtUsername,this.txtPassword));" method="post">
 				<br><div style="font-weight:bold;text-align:center;color:green;font-size:14px">Login or Signup Now</div>
 				<div style="text-align:left;padding-left:20px;padding-right:20px;font-size:12px">
+<br><div align="center">
+<a href="javascript: openid_login('google', 'return_url=/privacy.php&amp;service=google&amp;');" title="Google"><img src="images/google.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('yahoo', 'return_url=/privacy.php&amp;service=yahoo&amp;');" title="Yahoo"><img src="images/yahoo.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('aol', 'return_url=/privacy.php&amp;service=aol&amp;');" title="AOL"><img src="images/aol.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<!--a href="javascript: openid_login('twitter', 'return_url=/privacy.php&');" title="Twitter"><img src="images/twitter.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a-->
+<a href="javascript: openid_login('facebook', 'temp=1&amp;return_url=/privacy.php');" title="Facebook"><img src="images/facebook.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('twitter', 'temp=1&amp;return_url=/privacy.php');" title="Twitter"><img src="images/twitter.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('openid', 'return_url=/privacy.php&amp;service=openid&amp;');" title="OpenId"><img src="images/openid.ico" style="width: 20px; height: 20px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a><br>
+<a href="javascript: openid_login('livejournal', 'return_url=/privacy.php&amp;service=livejournal&amp;');" title="LiveJournal"><img src="images/livejournal.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<!--a href="javascript: openid_login('flickr', 'return_url=/privacy.php&service=flickr&');" title="Flickr"><img src="images/flickr.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a-->
+<!--a href="javascript: openid_login('technorati', 'return_url=/privacy.php&service=technorati&');" title="Technorati"><img src="images/technorati.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a-->
+<a href="javascript: openid_login('wordpress', 'return_url=/privacy.php&amp;service=wordpress&amp;');" title="WordPress"><img src="images/wordpress.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('blogger', 'return_url=/privacy.php&amp;service=blogger&amp;');" title="Blogger"><img src="images/blogger.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('verisign', 'return_url=/privacy.php&amp;service=verisign&amp;');" title="Verisign"><img src="images/verisign.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('myvidoop', 'return_url=/privacy.php&amp;service=myvidoop&amp;');" title="Myvidoop"><img src="images/vidoop.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<a href="javascript: openid_login('claimid', 'return_url=/privacy.php&amp;service=claimid&amp;');" title="ClaimId"><img src="images/claimid.ico" style="width: 12px; height: 12px; border-style: dotted; border-width: 1px; border-color:black; padding: 3px;"></a>
+<br>
+<div id="openid_login" align="center" style="font-family:arial; font-size:11; font-weight:normal"></div>
+</div>
+
 				<div id="passres" style="color:red"></div>
                                 <br>Username:<br><input type="text" name="txtUsername" size="24"><br>
                                 Password:<br><input type="password" name="txtPassword" size="24"><br>
@@ -404,6 +945,33 @@ function frontcreateaccount() {
         </div>
 
 
+        <div>
+          <div id="y-ks-profile-widget">
+            <div id="y-ks-profile-widget-container" style="height:0px">
+              <div class="corner-top">
+                <div class="corner-left"></div>
+              </div>
+	    </div>
+	    <div style="margin:5px">
+		<div style="position:relative"><img style="position:absolute;top:-15px;left:15px" src="images/goldtrophy.png"></div><div style="font-weight:bold;text-align:center;color:green;font-size:14px"><br>Leader Board<br></div>
+		<table border="0" cellpadding="0px" cellspacing="0" width="100%" style="margin:5px">
+<tbody><tr style="font-weight:bold;"><td colspan="3"><u>Leading Experts</u></td><td colspan="2"><u>Credits</u></td></tr><tr><td align="left">1.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68676">Henry</a></td><td>915</td><td>Level 3</td></tr><tr><td align="left">2.</td><td><img width="16" height="16" src="uploads/user/thumb/Garden.jpg"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=51601">Dougie</a></td><td>863</td><td>Level 3</td></tr><tr><td align="left">3.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68806">Freddie</a></td><td>838</td><td>Level 3</td></tr><tr><td align="left">4.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=66862">Joel</a></td><td>792</td><td>Level 3</td></tr><tr><td align="left">5.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67580">Taylor</a></td><td>791</td><td>Level 3</td></tr><tr><td align="left">6.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67761">Erick</a></td><td>775</td><td>Level 3</td></tr><tr><td align="left">7.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68989">Tommy</a></td><td>775</td><td>Level 3</td></tr><tr><td align="left">8.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68798">Patricia</a></td><td>773</td><td>Level 3</td></tr><tr><td align="left">9.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68946">Anton</a></td><td>751</td><td>Level 3</td></tr><tr><td align="left">10.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67353">Kelly</a></td><td>750</td><td>Level 2</td></tr><tr><td align="left">11.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68634">Ami</a></td><td>749</td><td>Level 2</td></tr><tr><td align="left">12.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68553">Otha</a></td><td>738</td><td>Level 2</td></tr><tr><td align="left">13.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68596">Jackson</a></td><td>733</td><td>Level 2</td></tr><tr><td align="left">14.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67922">Gale</a></td><td>722</td><td>Level 2</td></tr><tr><td align="left">15.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68901">Reggie</a></td><td>720</td><td>Level 2</td></tr><tr><td align="left">16.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68895">Shiela</a></td><td>717</td><td>Level 2</td></tr><tr><td align="left">17.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68563">Claudio</a></td><td>708</td><td>Level 2</td></tr><tr><td align="left">18.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=67699">Paris</a></td><td>704</td><td>Level 2</td></tr><tr><td align="left">19.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68953">Keith</a></td><td>700</td><td>Level 2</td></tr><tr><td align="left">20.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68571">Sammie</a></td><td>695</td><td>Level 2</td></tr><tr><td align="left">21.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68958">Jackeline</a></td><td>686</td><td>Level 2</td></tr><tr><td align="left">22.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=69031">Wynona</a></td><td>686</td><td>Level 2</td></tr><tr><td align="left">23.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68660">Barry</a></td><td>679</td><td>Level 2</td></tr><tr><td align="left">24.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68941">Tony</a></td><td>677</td><td>Level 2</td></tr><tr><td align="left">25.</td><td><img width="16" height="16" src="images/man.gif"></td><td><a rel="nofollow" href="categorydetail.php?cmd=ulist&amp;userid=68114">Lyman</a></td><td>668</td><td>Level 2</td></tr>
+		
+		<tr>
+			<td colspan="5" style="padding-top:10px">
+				<a rel="nofollow" href="userlist.php">View all</a>
+			</td>
+		</tr>
+		
+		</tbody></table>
+		</div>
+            <div class="corner-bottom">
+              <div class="corner-left"></div>
+            </div>
+          </div>
+        </div>
+
+
 
         <div>
           <div id="y-ks-profile-widget">
@@ -418,253 +986,7 @@ function frontcreateaccount() {
         <div id="categories">
         <div id="cat-undo">
         <ul>
-			        <br><br><b>A. </b><li style="display: inline;"><a class="subtle" href="Account&#10;-cat.html">Account
-</a></li> <li style="display: inline;"><a class="subtle" href="Acne&#10;-cat.html">Acne
-</a></li> <li style="display: inline;"><a class="subtle" href="Adipex&#10;-cat.html">Adipex
-</a></li> <li style="display: inline;"><a class="subtle" href="Africa&#10;-cat.html">Africa
-</a></li> <li style="display: inline;"><a class="subtle" href="Allowed&#10;-cat.html">Allowed
-</a></li> <li style="display: inline;"><a class="subtle" href="America&#10;-cat.html">America
-</a></li> <li style="display: inline;"><a class="subtle" href="Annuity&#10;-cat.html">Annuity
-</a></li> <li style="display: inline;"><a class="subtle" href="Appetite&#10;-cat.html">Appetite
-</a></li> <li style="display: inline;"><a class="subtle" href="Arm&#10;-cat.html">Arm
-</a></li> <li style="display: inline;"><a class="subtle" href="Around&#10;-cat.html">Around
-</a></li> <li style="display: inline;"><a class="subtle" href="Average&#10;-cat.html">Average
-</a></li> <li style="display: inline;"><a class="subtle" href="Average_Cont.02&#10;-cat.html">Average&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Average_Cont.03&#10;-cat.html">Average&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Average_Cont.04&#10;-cat.html">Average&nbsp;Cont.04
-</a></li> <li style="display: inline;"><a class="subtle" href="Away&#10;-cat.html">Away
-</a></li> <br><br><b>B. </b><li style="display: inline;"><a class="subtle" href="Bank&#10;-cat.html">Bank
-</a></li> <li style="display: inline;"><a class="subtle" href="Bank_Cont.02&#10;-cat.html">Bank&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Beach&#10;-cat.html">Beach
-</a></li> <li style="display: inline;"><a class="subtle" href="Black&#10;-cat.html">Black
-</a></li> <li style="display: inline;"><a class="subtle" href="Blood&#10;-cat.html">Blood
-</a></li> <li style="display: inline;"><a class="subtle" href="Body&#10;-cat.html">Body
-</a></li> <li style="display: inline;"><a class="subtle" href="Bring&#10;-cat.html">Bring
-</a></li> <li style="display: inline;"><a class="subtle" href="Budget&#10;-cat.html">Budget
-</a></li> <li style="display: inline;"><a class="subtle" href="Buffet&#10;-cat.html">Buffet
-</a></li> <li style="display: inline;"><a class="subtle" href="Bump&#10;-cat.html">Bump
-</a></li> <li style="display: inline;"><a class="subtle" href="Burn&#10;-cat.html">Burn
-</a></li> <li style="display: inline;"><a class="subtle" href="Butt&#10;-cat.html">Butt
-</a></li> <br><br><b>C. </b><li style="display: inline;"><a class="subtle" href="California&#10;-cat.html">California
-</a></li> <li style="display: inline;"><a class="subtle" href="Canada&#10;-cat.html">Canada
-</a></li> <li style="display: inline;"><a class="subtle" href="Canadian&#10;-cat.html">Canadian
-</a></li> <li style="display: inline;"><a class="subtle" href="Capital&#10;-cat.html">Capital
-</a></li> <li style="display: inline;"><a class="subtle" href="Carry&#10;-cat.html">Carry
-</a></li> <li style="display: inline;"><a class="subtle" href="Charge&#10;-cat.html">Charge
-</a></li> <li style="display: inline;"><a class="subtle" href="Charter&#10;-cat.html">Charter
-</a></li> <li style="display: inline;"><a class="subtle" href="Cheapest&#10;-cat.html">Cheapest
-</a></li> <li style="display: inline;"><a class="subtle" href="Child&#10;-cat.html">Child
-</a></li> <li style="display: inline;"><a class="subtle" href="Children&#10;-cat.html">Children
-</a></li> <li style="display: inline;"><a class="subtle" href="Cleopatra&#10;-cat.html">Cleopatra
-</a></li> <li style="display: inline;"><a class="subtle" href="Clothing&#10;-cat.html">Clothing
-</a></li> <li style="display: inline;"><a class="subtle" href="Color&#10;-cat.html">Color
-</a></li> <li style="display: inline;"><a class="subtle" href="Company&#10;-cat.html">Company
-</a></li> <li style="display: inline;"><a class="subtle" href="Cost&#10;-cat.html">Cost
-</a></li> <li style="display: inline;"><a class="subtle" href="Country&#10;-cat.html">Country
-</a></li> <li style="display: inline;"><a class="subtle" href="Credit&#10;-cat.html">Credit
-</a></li> <li style="display: inline;"><a class="subtle" href="Credit_Cont.02&#10;-cat.html">Credit&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Cubic&#10;-cat.html">Cubic
-</a></li> <li style="display: inline;"><a class="subtle" href="Currency&#10;-cat.html">Currency
-</a></li> <li style="display: inline;"><a class="subtle" href="Cushion&#10;-cat.html">Cushion
-</a></li> <li style="display: inline;"><a class="subtle" href="Cycle&#10;-cat.html">Cycle
-</a></li> <li style="display: inline;"><a class="subtle" href="Cyst&#10;-cat.html">Cyst
-</a></li> <br><br><b>D. </b><li style="display: inline;"><a class="subtle" href="Daily&#10;-cat.html">Daily
-</a></li> <li style="display: inline;"><a class="subtle" href="Dark&#10;-cat.html">Dark
-</a></li> <li style="display: inline;"><a class="subtle" href="Day&#10;-cat.html">Day
-</a></li> <li style="display: inline;"><a class="subtle" href="Deep&#10;-cat.html">Deep
-</a></li> <li style="display: inline;"><a class="subtle" href="Deposit&#10;-cat.html">Deposit
-</a></li> <li style="display: inline;"><a class="subtle" href="Dial&#10;-cat.html">Dial
-</a></li> <li style="display: inline;"><a class="subtle" href="Diamond&#10;-cat.html">Diamond
-</a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.02&#10;-cat.html">Diamond&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.03&#10;-cat.html">Diamond&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.04&#10;-cat.html">Diamond&nbsp;Cont.04
-</a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.05&#10;-cat.html">Diamond&nbsp;Cont.05
-</a></li> <li style="display: inline;"><a class="subtle" href="Diego&#10;-cat.html">Diego
-</a></li> <li style="display: inline;"><a class="subtle" href="Diet&#10;-cat.html">Diet
-</a></li> <li style="display: inline;"><a class="subtle" href="Difference&#10;-cat.html">Difference
-</a></li> <li style="display: inline;"><a class="subtle" href="Disney&#10;-cat.html">Disney
-</a></li> <li style="display: inline;"><a class="subtle" href="Disneyland&#10;-cat.html">Disneyland
-</a></li> <li style="display: inline;"><a class="subtle" href="Dont&#10;-cat.html">Dont
-</a></li> <br><br><b>E. </b><li style="display: inline;"><a class="subtle" href="Early&#10;-cat.html">Early
-</a></li> <li style="display: inline;"><a class="subtle" href="Earn&#10;-cat.html">Earn
-</a></li> <li style="display: inline;"><a class="subtle" href="Eating&#10;-cat.html">Eating
-</a></li> <li style="display: inline;"><a class="subtle" href="Egypt&#10;-cat.html">Egypt
-</a></li> <li style="display: inline;"><a class="subtle" href="Electromagnetic&#10;-cat.html">Electromagnetic
-</a></li> <li style="display: inline;"><a class="subtle" href="Email&#10;-cat.html">Email
-</a></li> <li style="display: inline;"><a class="subtle" href="Equity&#10;-cat.html">Equity
-</a></li> <li style="display: inline;"><a class="subtle" href="Estate&#10;-cat.html">Estate
-</a></li> <li style="display: inline;"><a class="subtle" href="Europe&#10;-cat.html">Europe
-</a></li> <li style="display: inline;"><a class="subtle" href="Exercise&#10;-cat.html">Exercise
-</a></li> <li style="display: inline;"><a class="subtle" href="Expensive&#10;-cat.html">Expensive
-</a></li> <br><br><b>F. </b><li style="display: inline;"><a class="subtle" href="Face&#10;-cat.html">Face
-</a></li> <li style="display: inline;"><a class="subtle" href="Family&#10;-cat.html">Family
-</a></li> <li style="display: inline;"><a class="subtle" href="Fast&#10;-cat.html">Fast
-</a></li> <li style="display: inline;"><a class="subtle" href="Florida&#10;-cat.html">Florida
-</a></li> <li style="display: inline;"><a class="subtle" href="Florida_Cont.02&#10;-cat.html">Florida&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Fly&#10;-cat.html">Fly
-</a></li> <li style="display: inline;"><a class="subtle" href="Football&#10;-cat.html">Football
-</a></li> <li style="display: inline;"><a class="subtle" href="Ford&#10;-cat.html">Ford
-</a></li> <li style="display: inline;"><a class="subtle" href="Foreign&#10;-cat.html">Foreign
-</a></li> <li style="display: inline;"><a class="subtle" href="Foreigner&#10;-cat.html">Foreigner
-</a></li> <li style="display: inline;"><a class="subtle" href="Forex&#10;-cat.html">Forex
-</a></li> <br><br><b>G. </b><li style="display: inline;"><a class="subtle" href="Gold&#10;-cat.html">Gold
-</a></li> <li style="display: inline;"><a class="subtle" href="Government&#10;-cat.html">Government
-</a></li> <li style="display: inline;"><a class="subtle" href="Green&#10;-cat.html">Green
-</a></li> <br><br><b>H. </b><li style="display: inline;"><a class="subtle" href="Haiti&#10;-cat.html">Haiti
-</a></li> <li style="display: inline;"><a class="subtle" href="Happen&#10;-cat.html">Happen
-</a></li> <li style="display: inline;"><a class="subtle" href="Head&#10;-cat.html">Head
-</a></li> <li style="display: inline;"><a class="subtle" href="Heal&#10;-cat.html">Heal
-</a></li> <li style="display: inline;"><a class="subtle" href="Hotel&#10;-cat.html">Hotel
-</a></li> <li style="display: inline;"><a class="subtle" href="How&#10;-cat.html">How
-</a></li> <li style="display: inline;"><a class="subtle" href="Huge&#10;-cat.html">Huge
-</a></li> <li style="display: inline;"><a class="subtle" href="Human&#10;-cat.html">Human
-</a></li> <li style="display: inline;"><a class="subtle" href="Hurt&#10;-cat.html">Hurt
-</a></li> <br><br><b>I. </b><li style="display: inline;"><a class="subtle" href="Identification&#10;-cat.html">Identification
-</a></li> <li style="display: inline;"><a class="subtle" href="India&#10;-cat.html">India
-</a></li> <li style="display: inline;"><a class="subtle" href="Infrared&#10;-cat.html">Infrared
-</a></li> <li style="display: inline;"><a class="subtle" href="Insurance&#10;-cat.html">Insurance
-</a></li> <li style="display: inline;"><a class="subtle" href="Interest&#10;-cat.html">Interest
-</a></li> <li style="display: inline;"><a class="subtle" href="Into&#10;-cat.html">Into
-</a></li> <li style="display: inline;"><a class="subtle" href="Into_Cont.02&#10;-cat.html">Into&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Itchy&#10;-cat.html">Itchy
-</a></li> <br><br><b>K. </b><li style="display: inline;"><a class="subtle" href="Kid&#10;-cat.html">Kid
-</a></li> <br><br><b>L. </b><li style="display: inline;"><a class="subtle" href="Lasik&#10;-cat.html">Lasik
-</a></li> <li style="display: inline;"><a class="subtle" href="Leave&#10;-cat.html">Leave
-</a></li> <li style="display: inline;"><a class="subtle" href="Letter&#10;-cat.html">Letter
-</a></li> <li style="display: inline;"><a class="subtle" href="Letter_Cont.02&#10;-cat.html">Letter&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Letter_Cont.03&#10;-cat.html">Letter&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Letter_Cont.04&#10;-cat.html">Letter&nbsp;Cont.04
-</a></li> <li style="display: inline;"><a class="subtle" href="Loan&#10;-cat.html">Loan
-</a></li> <li style="display: inline;"><a class="subtle" href="Looked&#10;-cat.html">Looked
-</a></li> <li style="display: inline;"><a class="subtle" href="Loose&#10;-cat.html">Loose
-</a></li> <li style="display: inline;"><a class="subtle" href="Lose&#10;-cat.html">Lose
-</a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.02&#10;-cat.html">Lose&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.03&#10;-cat.html">Lose&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.04&#10;-cat.html">Lose&nbsp;Cont.04
-</a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.05&#10;-cat.html">Lose&nbsp;Cont.05
-</a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.06&#10;-cat.html">Lose&nbsp;Cont.06
-</a></li> <li style="display: inline;"><a class="subtle" href="Lower&#10;-cat.html">Lower
-</a></li> <li style="display: inline;"><a class="subtle" href="Lump&#10;-cat.html">Lump
-</a></li> <br><br><b>M. </b><li style="display: inline;"><a class="subtle" href="Maca&#10;-cat.html">Maca
-</a></li> <li style="display: inline;"><a class="subtle" href="Mail&#10;-cat.html">Mail
-</a></li> <li style="display: inline;"><a class="subtle" href="Memo&#10;-cat.html">Memo
-</a></li> <li style="display: inline;"><a class="subtle" href="Menstruation&#10;-cat.html">Menstruation
-</a></li> <li style="display: inline;"><a class="subtle" href="Minor&#10;-cat.html">Minor
-</a></li> <li style="display: inline;"><a class="subtle" href="Mobile&#10;-cat.html">Mobile
-</a></li> <li style="display: inline;"><a class="subtle" href="Money&#10;-cat.html">Money
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.02&#10;-cat.html">Money&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.03&#10;-cat.html">Money&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.04&#10;-cat.html">Money&nbsp;Cont.04
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.05&#10;-cat.html">Money&nbsp;Cont.05
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.06&#10;-cat.html">Money&nbsp;Cont.06
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.07&#10;-cat.html">Money&nbsp;Cont.07
-</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.08&#10;-cat.html">Money&nbsp;Cont.08
-</a></li> <li style="display: inline;"><a class="subtle" href="Month&#10;-cat.html">Month
-</a></li> <li style="display: inline;"><a class="subtle" href="Mortgage&#10;-cat.html">Mortgage
-</a></li> <li style="display: inline;"><a class="subtle" href="Much&#10;-cat.html">Much
-</a></li> <br><br><b>N. </b><li style="display: inline;"><a class="subtle" href="Naked&#10;-cat.html">Naked
-</a></li> <li style="display: inline;"><a class="subtle" href="National&#10;-cat.html">National
-</a></li> <li style="display: inline;"><a class="subtle" href="Neck&#10;-cat.html">Neck
-</a></li> <li style="display: inline;"><a class="subtle" href="Necklace&#10;-cat.html">Necklace
-</a></li> <li style="display: inline;"><a class="subtle" href="Nose&#10;-cat.html">Nose
-</a></li> <br><br><b>O. </b><li style="display: inline;"><a class="subtle" href="Offer&#10;-cat.html">Offer
-</a></li> <li style="display: inline;"><a class="subtle" href="Official&#10;-cat.html">Official
-</a></li> <li style="display: inline;"><a class="subtle" href="Okappa&#10;-cat.html">Okappa
-</a></li> <li style="display: inline;"><a class="subtle" href="Ontario&#10;-cat.html">Ontario
-</a></li> <li style="display: inline;"><a class="subtle" href="Open&#10;-cat.html">Open
-</a></li> <li style="display: inline;"><a class="subtle" href="Orlando&#10;-cat.html">Orlando
-</a></li> <li style="display: inline;"><a class="subtle" href="Other&#10;-cat.html">Other
-</a></li> <li style="display: inline;"><a class="subtle" href="Other_1&#10;-cat.html">Other&nbsp;1
-</a></li> <li style="display: inline;"><a class="subtle" href="Other_2&#10;-cat.html">Other&nbsp;2
-</a></li> <li style="display: inline;"><a class="subtle" href="Other_3&#10;-cat.html">Other&nbsp;3
-</a></li> <li style="display: inline;"><a class="subtle" href="Other_4&#10;-cat.html">Other&nbsp;4
-</a></li> <li style="display: inline;"><a class="subtle" href="Other_5&#10;-cat.html">Other&nbsp;5
-</a></li> <br><br><b>P. </b><li style="display: inline;"><a class="subtle" href="Painful&#10;-cat.html">Painful
-</a></li> <li style="display: inline;"><a class="subtle" href="Panama&#10;-cat.html">Panama
-</a></li> <li style="display: inline;"><a class="subtle" href="Period&#10;-cat.html">Period
-</a></li> <li style="display: inline;"><a class="subtle" href="Period_Cont.02&#10;-cat.html">Period&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Person&#10;-cat.html">Person
-</a></li> <li style="display: inline;"><a class="subtle" href="Phone&#10;-cat.html">Phone
-</a></li> <li style="display: inline;"><a class="subtle" href="Pimple&#10;-cat.html">Pimple
-</a></li> <li style="display: inline;"><a class="subtle" href="Pimple_Cont.02&#10;-cat.html">Pimple&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Pimple_Cont.03&#10;-cat.html">Pimple&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Popped&#10;-cat.html">Popped
-</a></li> <li style="display: inline;"><a class="subtle" href="Popping&#10;-cat.html">Popping
-</a></li> <li style="display: inline;"><a class="subtle" href="Pound&#10;-cat.html">Pound
-</a></li> <li style="display: inline;"><a class="subtle" href="Pregnant&#10;-cat.html">Pregnant
-</a></li> <li style="display: inline;"><a class="subtle" href="Prescribe&#10;-cat.html">Prescribe
-</a></li> <li style="display: inline;"><a class="subtle" href="Price&#10;-cat.html">Price
-</a></li> <li style="display: inline;"><a class="subtle" href="Protect&#10;-cat.html">Protect
-</a></li> <li style="display: inline;"><a class="subtle" href="Protected&#10;-cat.html">Protected
-</a></li> <br><br><b>Q. </b><li style="display: inline;"><a class="subtle" href="Quality&#10;-cat.html">Quality
-</a></li> <br><br><b>R. </b><li style="display: inline;"><a class="subtle" href="Rate&#10;-cat.html">Rate
-</a></li> <li style="display: inline;"><a class="subtle" href="Ready&#10;-cat.html">Ready
-</a></li> <li style="display: inline;"><a class="subtle" href="Really&#10;-cat.html">Really
-</a></li> <li style="display: inline;"><a class="subtle" href="Realtor&#10;-cat.html">Realtor
-</a></li> <li style="display: inline;"><a class="subtle" href="Reduce&#10;-cat.html">Reduce
-</a></li> <li style="display: inline;"><a class="subtle" href="Rely&#10;-cat.html">Rely
-</a></li> <li style="display: inline;"><a class="subtle" href="Rent&#10;-cat.html">Rent
-</a></li> <li style="display: inline;"><a class="subtle" href="Rental&#10;-cat.html">Rental
-</a></li> <li style="display: inline;"><a class="subtle" href="Request&#10;-cat.html">Request
-</a></li> <li style="display: inline;"><a class="subtle" href="Rid&#10;-cat.html">Rid
-</a></li> <li style="display: inline;"><a class="subtle" href="Ride&#10;-cat.html">Ride
-</a></li> <li style="display: inline;"><a class="subtle" href="Ring&#10;-cat.html">Ring
-</a></li> <br><br><b>S. </b><li style="display: inline;"><a class="subtle" href="Scratch&#10;-cat.html">Scratch
-</a></li> <li style="display: inline;"><a class="subtle" href="Sell&#10;-cat.html">Sell
-</a></li> <li style="display: inline;"><a class="subtle" href="Service&#10;-cat.html">Service
-</a></li> <li style="display: inline;"><a class="subtle" href="Size&#10;-cat.html">Size
-</a></li> <li style="display: inline;"><a class="subtle" href="Skin&#10;-cat.html">Skin
-</a></li> <li style="display: inline;"><a class="subtle" href="Skin_Cont.02&#10;-cat.html">Skin&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Sodium&#10;-cat.html">Sodium
-</a></li> <li style="display: inline;"><a class="subtle" href="Someone&#10;-cat.html">Someone
-</a></li> <li style="display: inline;"><a class="subtle" href="Sore&#10;-cat.html">Sore
-</a></li> <li style="display: inline;"><a class="subtle" href="Sparkle&#10;-cat.html">Sparkle
-</a></li> <li style="display: inline;"><a class="subtle" href="Spend&#10;-cat.html">Spend
-</a></li> <li style="display: inline;"><a class="subtle" href="Spend_Cont.02&#10;-cat.html">Spend&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Spot&#10;-cat.html">Spot
-</a></li> <li style="display: inline;"><a class="subtle" href="Stop&#10;-cat.html">Stop
-</a></li> <li style="display: inline;"><a class="subtle" href="Sued&#10;-cat.html">Sued
-</a></li> <li style="display: inline;"><a class="subtle" href="Supposed&#10;-cat.html">Supposed
-</a></li> <li style="display: inline;"><a class="subtle" href="Surface&#10;-cat.html">Surface
-</a></li> <li style="display: inline;"><a class="subtle" href="Surgery&#10;-cat.html">Surgery
-</a></li> <li style="display: inline;"><a class="subtle" href="Swollen&#10;-cat.html">Swollen
-</a></li> <br><br><b>T. </b><li style="display: inline;"><a class="subtle" href="Throw&#10;-cat.html">Throw
-</a></li> <li style="display: inline;"><a class="subtle" href="Thyroid&#10;-cat.html">Thyroid
-</a></li> <li style="display: inline;"><a class="subtle" href="Ticket&#10;-cat.html">Ticket
-</a></li> <li style="display: inline;"><a class="subtle" href="Trade&#10;-cat.html">Trade
-</a></li> <li style="display: inline;"><a class="subtle" href="Trading&#10;-cat.html">Trading
-</a></li> <li style="display: inline;"><a class="subtle" href="Travel&#10;-cat.html">Travel
-</a></li> <li style="display: inline;"><a class="subtle" href="Treat&#10;-cat.html">Treat
-</a></li> <li style="display: inline;"><a class="subtle" href="Trip&#10;-cat.html">Trip
-</a></li> <li style="display: inline;"><a class="subtle" href="Truck&#10;-cat.html">Truck
-</a></li> <li style="display: inline;"><a class="subtle" href="Type&#10;-cat.html">Type
-</a></li> <br><br><b>U. </b><li style="display: inline;"><a class="subtle" href="United&#10;-cat.html">United
-</a></li> <li style="display: inline;"><a class="subtle" href="University&#10;-cat.html">University
-</a></li> <li style="display: inline;"><a class="subtle" href="Usa&#10;-cat.html">Usa
-</a></li> <li style="display: inline;"><a class="subtle" href="Used&#10;-cat.html">Used
-</a></li> <br><br><b>V. </b><li style="display: inline;"><a class="subtle" href="Vacation&#10;-cat.html">Vacation
-</a></li> <li style="display: inline;"><a class="subtle" href="Visit&#10;-cat.html">Visit
-</a></li> <li style="display: inline;"><a class="subtle" href="Vitamin&#10;-cat.html">Vitamin
-</a></li> <br><br><b>W. </b><li style="display: inline;"><a class="subtle" href="Wedding&#10;-cat.html">Wedding
-</a></li> <li style="display: inline;"><a class="subtle" href="Week&#10;-cat.html">Week
-</a></li> <li style="display: inline;"><a class="subtle" href="Weigh&#10;-cat.html">Weigh
-</a></li> <li style="display: inline;"><a class="subtle" href="Weight&#10;-cat.html">Weight
-</a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.02&#10;-cat.html">Weight&nbsp;Cont.02
-</a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.03&#10;-cat.html">Weight&nbsp;Cont.03
-</a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.04&#10;-cat.html">Weight&nbsp;Cont.04
-</a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.05&#10;-cat.html">Weight&nbsp;Cont.05
-</a></li> <li style="display: inline;"><a class="subtle" href="What&#10;-cat.html">What
-</a></li> <li style="display: inline;"><a class="subtle" href="White&#10;-cat.html">White
-</a></li> <li style="display: inline;"><a class="subtle" href="Whitehead&#10;-cat.html">Whitehead
-</a></li> <li style="display: inline;"><a class="subtle" href="Wife&#10;-cat.html">Wife
-</a></li> <li style="display: inline;"><a class="subtle" href="Within&#10;-cat.html">Within
-</a></li> <li style="display: inline;"><a class="subtle" href="Wont&#10;-cat.html">Wont
-</a></li> <li style="display: inline;"><a class="subtle" href="Work&#10;-cat.html">Work
-</a></li> <li style="display: inline;"><a class="subtle" href="Worth&#10;-cat.html">Worth
-</a></li> <li style="display: inline;"><a class="subtle" href="Write&#10;-cat.html">Write
-</a></li> <br><br><b>Y. </b><li style="display: inline;"><a class="subtle" href="Yurman&#10;-cat.html">Yurman
-</a></li> <br><br><b>Z. </b><li style="display: inline;"><a class="subtle" href="Zit&#10;-cat.html">Zit
-</a></li> </ul>
+			        <br><br><b>A. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Abroad-cat.html">Abroad</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Account-cat.html">Account</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Acne-cat.html">Acne</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Adderall-cat.html">Adderall</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Adipex-cat.html">Adipex</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Africa-cat.html">Africa</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Allowed-cat.html">Allowed</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="America-cat.html">America</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Annuity-cat.html">Annuity</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Apartment-cat.html">Apartment</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Appetite-cat.html">Appetite</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Application-cat.html">Application</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Arm-cat.html">Arm</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Around-cat.html">Around</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Australia-cat.html">Australia</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Average-cat.html">Average</a> </li> <a style="text-decoration: none" class="subtle" href="Average_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Average_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Average_Cont.04-cat.html">4</a> <a style="text-decoration: none" class="subtle" href="Average_Cont.05-cat.html">5</a> <a style="text-decoration: none" class="subtle" href="Average_Cont.06-cat.html">6</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Away-cat.html">Away</a> </li> <br><br><b>B. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Baby-cat.html">Baby</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ball-cat.html">Ball</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Bank-cat.html">Bank</a> </li> <a style="text-decoration: none" class="subtle" href="Bank_Cont.02-cat.html">2</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Beach-cat.html">Beach</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Beef-cat.html">Beef</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Better-cat.html">Better</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Bigger-cat.html">Bigger</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Black-cat.html">Black</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Blind-cat.html">Blind</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Blood-cat.html">Blood</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Body-cat.html">Body</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Boxing-cat.html">Boxing</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Bring-cat.html">Bring</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Budget-cat.html">Budget</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Buffet-cat.html">Buffet</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Bump-cat.html">Bump</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Burn-cat.html">Burn</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Butt-cat.html">Butt</a> </li> <br><br><b>C. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="California-cat.html">California</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Canada-cat.html">Canada</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Canadian-cat.html">Canadian</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Carat-cat.html">Carat</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Carry-cat.html">Carry</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cash-cat.html">Cash</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Charge-cat.html">Charge</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Charter-cat.html">Charter</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cheaper-cat.html">Cheaper</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cheapest-cat.html">Cheapest</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Chest-cat.html">Chest</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Child-cat.html">Child</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Children-cat.html">Children</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Chin-cat.html">Chin</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Clarity-cat.html">Clarity</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cleopatra-cat.html">Cleopatra</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Clothing-cat.html">Clothing</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Color-cat.html">Color</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Colour-cat.html">Colour</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Company-cat.html">Company</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Consumed-cat.html">Consumed</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cost-cat.html">Cost</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Countrie-cat.html">Countrie</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Credit-cat.html">Credit</a> </li> <a style="text-decoration: none" class="subtle" href="Credit_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Credit_Cont.03-cat.html">3</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cubic-cat.html">Cubic</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Currency-cat.html">Currency</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cushion-cat.html">Cushion</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cycle-cat.html">Cycle</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Cyst-cat.html">Cyst</a> </li> <br><br><b>D. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Daily-cat.html">Daily</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Dark-cat.html">Dark</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Day-cat.html">Day</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Deep-cat.html">Deep</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Deposit-cat.html">Deposit</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Detect-cat.html">Detect</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Dial-cat.html">Dial</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Diamond-cat.html">Diamond</a> </li> <a style="text-decoration: none" class="subtle" href="Diamond_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Diamond_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Diamond_Cont.04-cat.html">4</a> <a style="text-decoration: none" class="subtle" href="Diamond_Cont.05-cat.html">5</a> <a style="text-decoration: none" class="subtle" href="Diamond_Cont.06-cat.html">6</a> <a style="text-decoration: none" class="subtle" href="Diamond_Cont.07-cat.html">7</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Didnt-cat.html">Didnt</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Diego-cat.html">Diego</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Diet-cat.html">Diet</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Difference-cat.html">Difference</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Dimond-cat.html">Dimond</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Disney-cat.html">Disney</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Disneyland-cat.html">Disneyland</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Dollar-cat.html">Dollar</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Dont-cat.html">Dont</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Dose-cat.html">Dose</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Drink-cat.html">Drink</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Drive-cat.html">Drive</a> </li> <br><br><b>E. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Early-cat.html">Early</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Earn-cat.html">Earn</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Eat-cat.html">Eat</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Eaten-cat.html">Eaten</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Eating-cat.html">Eating</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Egypt-cat.html">Egypt</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Egyptian-cat.html">Egyptian</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Electromagnetic-cat.html">Electromagnetic</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Email-cat.html">Email</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Equity-cat.html">Equity</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Estate-cat.html">Estate</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Europe-cat.html">Europe</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Exercise-cat.html">Exercise</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Expensive-cat.html">Expensive</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Explain-cat.html">Explain</a> </li> <br><br><b>F. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Face-cat.html">Face</a> </li> <a style="text-decoration: none" class="subtle" href="Face_Cont.02-cat.html">2</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Family-cat.html">Family</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Fast-cat.html">Fast</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Fatty-cat.html">Fatty</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Feel-cat.html">Feel</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Feet-cat.html">Feet</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Fell-cat.html">Fell</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Filled-cat.html">Filled</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Florida-cat.html">Florida</a> </li> <a style="text-decoration: none" class="subtle" href="Florida_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Florida_Cont.03-cat.html">3</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Fluid-cat.html">Fluid</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Fly-cat.html">Fly</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Football-cat.html">Football</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ford-cat.html">Ford</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Foreign-cat.html">Foreign</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Foreigner-cat.html">Foreigner</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Forex-cat.html">Forex</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Free-cat.html">Free</a> </li> <br><br><b>G. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Gain-cat.html">Gain</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Gastric-cat.html">Gastric</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Gold-cat.html">Gold</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Government-cat.html">Government</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Greek-cat.html">Greek</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Green-cat.html">Green</a> </li> <br><br><b>H. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Haiti-cat.html">Haiti</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Happen-cat.html">Happen</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Head-cat.html">Head</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Heal-cat.html">Heal</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Helicopter-cat.html">Helicopter</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Hotel-cat.html">Hotel</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Huge-cat.html">Huge</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Human-cat.html">Human</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Hurt-cat.html">Hurt</a> </li> <br><br><b>I. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Identification-cat.html">Identification</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Inch-cat.html">Inch</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="India-cat.html">India</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Infra-cat.html">Infra</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Infrared-cat.html">Infrared</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Inside-cat.html">Inside</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Insurance-cat.html">Insurance</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Interest-cat.html">Interest</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Into-cat.html">Into</a> </li> <a style="text-decoration: none" class="subtle" href="Into_Cont.02-cat.html">2</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Invest-cat.html">Invest</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Itch-cat.html">Itch</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Itchy-cat.html">Itchy</a> </li> <br><br><b>J. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Judgement-cat.html">Judgement</a> </li> <br><br><b>K. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Kid-cat.html">Kid</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Knot-cat.html">Knot</a> </li> <br><br><b>L. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Lasik-cat.html">Lasik</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Leave-cat.html">Leave</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Leg-cat.html">Leg</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Letter-cat.html">Letter</a> </li> <a style="text-decoration: none" class="subtle" href="Letter_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Letter_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Letter_Cont.04-cat.html">4</a> <a style="text-decoration: none" class="subtle" href="Letter_Cont.05-cat.html">5</a> <a style="text-decoration: none" class="subtle" href="Letter_Cont.06-cat.html">6</a> <a style="text-decoration: none" class="subtle" href="Letter_Cont.07-cat.html">7</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Lifetime-cat.html">Lifetime</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Loan-cat.html">Loan</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Looked-cat.html">Looked</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Loose-cat.html">Loose</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Lose-cat.html">Lose</a> </li> <a style="text-decoration: none" class="subtle" href="Lose_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Lose_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Lose_Cont.04-cat.html">4</a> <a style="text-decoration: none" class="subtle" href="Lose_Cont.05-cat.html">5</a> <a style="text-decoration: none" class="subtle" href="Lose_Cont.06-cat.html">6</a> <a style="text-decoration: none" class="subtle" href="Lose_Cont.07-cat.html">7</a> <a style="text-decoration: none" class="subtle" href="Lose_Cont.08-cat.html">8</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Lower-cat.html">Lower</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Lump-cat.html">Lump</a> </li> <br><br><b>M. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Maca-cat.html">Maca</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Mail-cat.html">Mail</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Memo-cat.html">Memo</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Menstruation-cat.html">Menstruation</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Minor-cat.html">Minor</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Mobile-cat.html">Mobile</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Money-cat.html">Money</a> </li> <a style="text-decoration: none" class="subtle" href="Money_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.04-cat.html">4</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.05-cat.html">5</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.06-cat.html">6</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.07-cat.html">7</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.08-cat.html">8</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.09-cat.html">9</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.10-cat.html">10</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.11-cat.html">11</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.12-cat.html">12</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.13-cat.html">13</a> <a style="text-decoration: none" class="subtle" href="Money_Cont.14-cat.html">14</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Month-cat.html">Month</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Mortgage-cat.html">Mortgage</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Much-cat.html">Much</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Myself-cat.html">Myself</a> </li> <br><br><b>N. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Naked-cat.html">Naked</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="National-cat.html">National</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Neck-cat.html">Neck</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Necklace-cat.html">Necklace</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Nose-cat.html">Nose</a> </li> <br><br><b>O. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Offer-cat.html">Offer</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Official-cat.html">Official</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Often-cat.html">Often</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Okappa-cat.html">Okappa</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ontario-cat.html">Ontario</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Open-cat.html">Open</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Orlando-cat.html">Orlando</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Other-cat.html">Other</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Other_1-cat.html">Other&nbsp;1</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Other_2-cat.html">Other&nbsp;2</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Other_3-cat.html">Other&nbsp;3</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Other_4-cat.html">Other&nbsp;4</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Other_5-cat.html">Other&nbsp;5</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Overnight-cat.html">Overnight</a> </li> <br><br><b>P. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Painful-cat.html">Painful</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Panama-cat.html">Panama</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pay-cat.html">Pay</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Per-cat.html">Per</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Period-cat.html">Period</a> </li> <a style="text-decoration: none" class="subtle" href="Period_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Period_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Period_Cont.04-cat.html">4</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Person-cat.html">Person</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Phentermine-cat.html">Phentermine</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Phentramin-cat.html">Phentramin</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Phone-cat.html">Phone</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pill-cat.html">Pill</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pimple-cat.html">Pimple</a> </li> <a style="text-decoration: none" class="subtle" href="Pimple_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Pimple_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Pimple_Cont.04-cat.html">4</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Plane-cat.html">Plane</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pop-cat.html">Pop</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Popped-cat.html">Popped</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Popping-cat.html">Popping</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Possible-cat.html">Possible</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pound-cat.html">Pound</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pregnancy-cat.html">Pregnancy</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Pregnant-cat.html">Pregnant</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Prescribe-cat.html">Prescribe</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Prevent-cat.html">Prevent</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Price-cat.html">Price</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Prison-cat.html">Prison</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Property-cat.html">Property</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Protect-cat.html">Protect</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Protected-cat.html">Protected</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Purchase-cat.html">Purchase</a> </li> <br><br><b>R. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Rate-cat.html">Rate</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ready-cat.html">Ready</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Really-cat.html">Really</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Realtor-cat.html">Realtor</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Reduce-cat.html">Reduce</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Remove-cat.html">Remove</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Rent-cat.html">Rent</a> </li> <a style="text-decoration: none" class="subtle" href="Rent_Cont.02-cat.html">2</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Rental-cat.html">Rental</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Request-cat.html">Request</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Rice-cat.html">Rice</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Rid-cat.html">Rid</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ride-cat.html">Ride</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ring-cat.html">Ring</a> </li> <a style="text-decoration: none" class="subtle" href="Ring_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Ring_Cont.03-cat.html">3</a> <br><br><b>S. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Safe-cat.html">Safe</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Scratch-cat.html">Scratch</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sell-cat.html">Sell</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Service-cat.html">Service</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ship-cat.html">Ship</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Shop-cat.html">Shop</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Shot-cat.html">Shot</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Size-cat.html">Size</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Skin-cat.html">Skin</a> </li> <a style="text-decoration: none" class="subtle" href="Skin_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Skin_Cont.03-cat.html">3</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sleep-cat.html">Sleep</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Slimming-cat.html">Slimming</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Smell-cat.html">Smell</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sodium-cat.html">Sodium</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sold-cat.html">Sold</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Someone-cat.html">Someone</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sore-cat.html">Sore</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sparkle-cat.html">Sparkle</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Spend-cat.html">Spend</a> </li> <a style="text-decoration: none" class="subtle" href="Spend_Cont.02-cat.html">2</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Spent-cat.html">Spent</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Spot-cat.html">Spot</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Square-cat.html">Square</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Stock-cat.html">Stock</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Stomach-cat.html">Stomach</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Stop-cat.html">Stop</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Student-cat.html">Student</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Sued-cat.html">Sued</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Suppose-cat.html">Suppose</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Supposed-cat.html">Supposed</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Surface-cat.html">Surface</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Surgery-cat.html">Surgery</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Swelling-cat.html">Swelling</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Swollen-cat.html">Swollen</a> </li> <br><br><b>T. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Taking-cat.html">Taking</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Technology-cat.html">Technology</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Text-cat.html">Text</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Thousand-cat.html">Thousand</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Throw-cat.html">Throw</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Thyroid-cat.html">Thyroid</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Ticket-cat.html">Ticket</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Till-cat.html">Till</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Time-cat.html">Time</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Tiny-cat.html">Tiny</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Together-cat.html">Together</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Trade-cat.html">Trade</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Trading-cat.html">Trading</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Travel-cat.html">Travel</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Treat-cat.html">Treat</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Trip-cat.html">Trip</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Truck-cat.html">Truck</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Trust-cat.html">Trust</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Type-cat.html">Type</a> </li> <br><br><b>U. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Underground-cat.html">Underground</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="United-cat.html">United</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="University-cat.html">University</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Usa-cat.html">Usa</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Used-cat.html">Used</a> </li> <br><br><b>V. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Vacation-cat.html">Vacation</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Video-cat.html">Video</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Visit-cat.html">Visit</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Vitamin-cat.html">Vitamin</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Vomit-cat.html">Vomit</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Vomiting-cat.html">Vomiting</a> </li> <br><br><b>W. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Wedding-cat.html">Wedding</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Week-cat.html">Week</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Weigh-cat.html">Weigh</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Weight-cat.html">Weight</a> </li> <a style="text-decoration: none" class="subtle" href="Weight_Cont.02-cat.html">2</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.03-cat.html">3</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.04-cat.html">4</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.05-cat.html">5</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.06-cat.html">6</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.07-cat.html">7</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.08-cat.html">8</a> <a style="text-decoration: none" class="subtle" href="Weight_Cont.09-cat.html">9</a> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="What-cat.html">What</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="White-cat.html">White</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Whitehead-cat.html">Whitehead</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Wife-cat.html">Wife</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Within-cat.html">Within</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Without-cat.html">Without</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Women-cat.html">Women</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Work-cat.html">Work</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Workout-cat.html">Workout</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Worth-cat.html">Worth</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Write-cat.html">Write</a> </li> <br><br><b>Y. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Year-cat.html">Year</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Yourself-cat.html">Yourself</a> </li> <li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Yurman-cat.html">Yurman</a> </li> <br><br><b>Z. </b><li style="display: inline;"><a style="text-decoration: none" class="subtle" href="Zit-cat.html">Zit</a> </li> </ul>
 
 
           </div>
@@ -685,57 +1007,52 @@ function frontcreateaccount() {
 
       
        	<div id="middle">
-				<div id="ks-homepage-heading">Contact Us </div>
+				<div id="ks-homepage-heading">Privacy Policy</div>
       	<div id="middle">
 				
 
 				<div class="silk_hp_open" id="ks-homepage-questions">
-									<p>Our postal address is <br>
-
-<b>400 CARLINGVIEW DR<br>
-Toronto, ON, M9W 5X9</b></p>
-We can be reached via e-mail at <a href="mailto:admin@goftp.com">admin@goftp.com</a><br><p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p><p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p><p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p><p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p><p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p><p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p><p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p><p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p><p><br>
-								  </p><table class="question-results" border="0" cellpadding="0" cellspacing="0" width="100%">
+									<table class="question-results" border="0" cellpadding="3" cellspacing="10" width="100%">
 						<tbody>
 														<tr class="question qrownorm" id="q_row_20071016212549AApTbGr">
-								<td class="image"><div><img src="contact_files/man.gif" border="0"></div></td>
-
-
-
-
-
-
-
-
-
-
-
-
 								
+<td><p>Our postal address is <br>
+
+    <strong>400 CARLINGVIEW DR <br>
+Toronto, ON, M9W 5X9 </strong> </p>
+We can be reached via e-mail at <a href="mailto:admin@xmediapartners.com">admin@xmediapartners.com</a><br>
+
+<p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible) to facilitate automated logins.</p>
+<p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p>
+<p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p>
+<p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p>
+
+<p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of: Google Adsense at http://www.google.com/privacy_ads.html</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
+<p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p>
+<p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
+<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
+
+								<p><br>
+				  </p></td>
 							</tr>
-													</tbody>
+									  </tbody>
 					</table>
 		</div>
 		
-				<div class="dotted-line"></div>
-				      <p class="more-link" id="ks-more-link">
-	        </p><form action="allquestions.php">
+				<form action="allquestions.php">
     </form>
         
-			</div>
+		  </div>
 				<div class="silk_hp_open" id="ks-homepage-questions">
 			
 		
       
         </div>
-				<div class="dotted-line"></div>
-			    <p class="more-link" id="ks-more-link">
-	               </p>
+				
 			</div>
 		</div>
-	</div>
-<div style="clear:both">&nbsp;</div>
-		<table cellspacing="0" cellpadding="0" width="100%" border="0" style="background-color:green;color:white;">
+</div>
+<div style="clear:both">&nbsp;</div><table cellspacing="0" cellpadding="0" width="100%" border="0" style="background-color:green;color:white;">
 			<tbody>
 				<tr>
 					<td valign="top" nowrap="" align="center" class="Footer">
@@ -755,10 +1072,15 @@ We can be reached via e-mail at <a href="mailto:admin@goftp.com">admin@goftp.com
          
           Privacy Policy
           
+          </a> | 
+          <a href="http://www.xmediapartners.com/tos.php">
+         
+          Disclaimer
+          
           </a><br>
           
           <a href="http://www.answermefast.com"><strong>
-				 	© 2008-2009, xmediapartners.com, All Rights Reserved.
+				 	© 2008-2010, xmediapartners.com, All Rights Reserved.
            </strong></a><br>An <a href="http://www.extremecow.com">Extreme Cow</a> Company.<br>Visit our newest addition, <a href="http://www.askmefast.com">AskMeFast</a></span></td>
            
 				</tr>
@@ -780,6 +1102,7 @@ pageTracker._setAllowLinker(true);
 */
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
 
 
 
