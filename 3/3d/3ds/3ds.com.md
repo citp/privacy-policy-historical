@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3ds.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623014006id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ds.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204182856id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dassault Systèmes
 
