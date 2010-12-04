@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103025529id_/http%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204213508id_/http%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wristbands | Buy Custom Rubber Bracelets and Silicone Wristbands
 
