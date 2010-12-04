@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611084230id_/http%3A//www.massey.ac.nz/massey/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204185624id_/http%3A//www.massey.ac.nz/massey/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Massey University
 
@@ -49,4 +49,4 @@ Personal information held by the University is not disclosed to third parties wi
 
 
 Page authorised by Web Content Manager  
-Last updated on Tuesday 08 June 2010 
+Last updated on Friday 12 November 2010 
