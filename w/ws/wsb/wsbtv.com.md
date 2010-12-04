@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615045434id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204175530id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WSB-TV News Story - WSB Atlanta
 
