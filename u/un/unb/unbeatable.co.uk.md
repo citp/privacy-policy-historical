@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unbeatable.co.uk privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125011736id_/http%3A//www.unbeatable.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbeatable.co.uk privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204185430id_/http%3A//www.unbeatable.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Unbeatable.co.uk - Privacy Policy
 
