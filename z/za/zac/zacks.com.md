@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207151935id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204064844id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
 
 # - Privacy Policy
 
@@ -32,12 +32,12 @@ If you decide to subscribe to any of our paid newsletters, we collect your credi
 
 **Other Privacy Issues**
 
-**Cookies:** Zacks Investment Research uses cookies, tags, pixels and similar technologies to enhance your experience on our Zacks.com site. These technologies allow us to recognize your preference information, keep track of the choices you make concerning the e-mails you wish to receive, and to facilitate effective Web site administration. You may elect to refuse cookies. Please refer to your browser's Help instructions to learn more about cookies.
+**Cookies:** Zacks Investment Research uses cookies, tags, pixels and similar technologies to enhance your experience on our Zacks.com site. These technologies allow us to recognize your preference information, keep track of the choices you make concerning the e-mails you wish to receive, and to facilitate effective Web site administration. You may elect to refuse cookies. Please refer to your browser''s Help instructions to learn more about cookies.
 
 **Do Not Email Lists:** If you opt out from a Zacks.com Opt-In Marketing List, Zacks Investment Research Internal List, or unsubscribe from a Zacks offer sent by another list vendor, you will be added to our Do Not Email list, and we will suppress your email address from future mailings to the Zacks Investment Research Internal List and Opt-In Marketing List, as well as any other Zacks mailings done through a third party. This process usually completes within 72 hours but can take up to 10 days in rare situations. However, if you later register for a Zacks product again, your name will be removed from the Do Not Email list.
 
 Please note that while Zacks will not freely distribute the information you submit, if you click to unsubscribe from mailings sent to the Zacks.com Opt-In Marketing List from a particular marketer, we are obligated to share your email address with that marketer for the purpose of being added to their Do Not Mail list. How that mailer manages your email address after that time is beyond Zacks.com control.
 
-**Children's Online Privacy Protection Rule:** If a child has provided us with private information without parental or guardian consent, the parent or guardian should e-mail us to remove the information and unsubscribe the child from any promotional contact opportunities. Contact Information: If you experience any privacy related difficulties on Zacks.com, please use the following contact information: [support@zacks.com](mailto:support@zacks.com).
+**Children''s Online Privacy Protection Rule:** If a child has provided us with private information without parental or guardian consent, the parent or guardian should e-mail us to remove the information and unsubscribe the child from any promotional contact opportunities. Contact Information: If you experience any privacy related difficulties on Zacks.com, please use the following contact information: [support@zacks.com](mailto:support@zacks.com).
 
 Updated 6/09
