@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508032528id_/http%3A//www.stopzilla.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204092416id_/http%3A//www.stopzilla.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # iS3: - Privacy Policy
 
