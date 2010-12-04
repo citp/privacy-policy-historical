@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsde.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085106id_/http%3A//www.alsde.edu/html/legal_notice.asp%3Ffooter%3Dgeneral%26legalType%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsde.edu privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204082408id_/http%3A//www.alsde.edu/html/legal_notice.asp%3Ffooter%3Dgeneral%26legalType%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ALSDE - Legal Notice
 
