@@ -1,51 +1,53 @@
-> *The following text is extracted and transformed from the chemicalbank.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002105722id_/http%3A//www.chemicalbank.com/esecurity/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalbank.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204080548id_/http%3A//chemicalbankmi.com/cb/privacy_statement.htm) for the most accurate reproduction.*
 
-# Chemical Bank - Privacy Policy
+# Chemical Bank - Privacy Statement
 
-[ ](https://web.archive.org/index.htm)
+Chemical Financial Corporation and its subsidiaries, divisions and affiliates understand that protecting the privacy of your personal and account information is critical. Whether you are a current customer or just visiting our Website, we safeguard the information you provide us at our Websites. The controls and practices we use to collect and protect this information specific to the Internet are described below. 
 
-### Privacy Policy
+[Click here](https://web.archive.org/web/20101204080548id_/http%3A//chemicalbankmi.com/securitycenter/default.asp?navPage=privacypolicy.htm) to review a copy of our **Privacy Policy** , which describes how we safeguard, maintain, and use information we obtain about our customers in the normal course of our business. These practices also apply to the information we obtain online about our Website visitors. 
 
-This notice is being provided to you on behalf of Chemical Financial Corporation and its subsidiaries:
+#### Protecting Online Applications
 
-  * Chemical Bank
-  * CFC Financial Services, Inc. dba: CFC Investment Center
-  * CFC Title Services, Inc.
+When you apply online for accounts and services, or enroll in online banking, you provide personal information that is necessary for us to process your application. To ensure that your application remains confidential, the information is maintained in a secure area on our Website. 
 
+We, along with the outside companies with which we work, if applicable, may keep the information you provide to us, along with information we collect from outside sources, so that we can offer you accounts and services related to your financial needs. After you have submitted your application online, we recommend that you end your browser session before leaving your computer. 
 
+#### How We Handle E-Mail
 
-In this notice, Chemical Financial Corporation and these subsidiaries are referred to as "Chemical Bank," "we," "us," "our" and "Chemical Subsidiaries."
+We preserve the content of your e-mail messages and our responses so that we can more efficiently handle any follow-up questions that you may have. If we think that a particular Chemical Bank account or service might apply to your situation, we may occasionally contact you at your e-mail address to inform you of potential benefits and availability. 
 
-At Chemical Bank, our mission is to provide you, our customer, with an array of financial products and services to assist you in obtaining your financial goals. While information is necessary to carry out this mission, we place our highest priority and have taken the necessary steps to protect and guard the privacy of your personal account information. Chemical Bank is confident that the following policy, required by the Gramm-Leach-Bliley Act provides for the safeguarding of your personal account information. Any questions you may have regarding this policy can be directed to the Chemical Bank office with which you do business.
+#### Online Surveys
 
-  * **Categories of Nonpublic Personal Information which we collect:** Chemical Bank collects, retains and uses information about you only for specific business purposes. These business purposes include offering you financial products or services, improving our existing products and services, and designing new products and services to meet the needs of our customers. In conducting our business, we collect nonpublic personal information about you from the following sources: 
-    * information we receive from you on applications or other forms,
-    * information about your transactions with us or our subsidiaries,
-    * information we receive about you from our subsidiaries,
-    * information we receive from a consumer reporting agency, and
-    * information that we receive in response to requests we make to third parties about you to confirm information that you have provided to us.
+Your opinions are important to us. The information you provide on surveys and promotions on our Website will be used for internal marketing purposes, including developing Website content and services that you may find helpful. 
 
+#### Protecting Your Online Banking
 
+We require a User ID and Password to access your accounts. If you do not provide this information, we cannot establish an online banking session for you. You can also help maintain the security of your banking information by not sharing your User ID or Password with anyone, by changing your Password regularly, and by remembering to sign off. [Click here](https://web.archive.org/securitycenter/default.asp) for more information on our **eBanking Security**. 
 
-In addition, certain laws and regulations require us to collect information about you. "Nonpublic personal information" is nonpublic information about you that we obtain in connection with providing a financial product or service to you for personal, family or household purposes.
+#### What Information We Collect
 
-  * **Categories of Nonpublic Personal Information which we disclose:** Chemical Bank will not, reveal nonpublic personal information to unaffiliated third parties except as permitted or required by law. Some of the instances in which we may disclose nonpublic personal information are as follows: 
-    * When you request us to do so;
-    * When we do so to complete a transaction that you initiated;
-    * When we provide information to a company that provides services to us to enable us to provide products or services to you;
-    * When information is provided to reputable credit bureaus or similar information reporting agencies; and
-    * When the disclosure is required by law (such as in response to a subpoena).
+You can visit this site to find out about our products and services, read our financial reports, check on employment opportunities, and use our financial calculators and other services without providing any information about yourself. We do not capture any personal information without your permission. 
 
+We do collect information about our Website usage. This includes what pages are visited, length of stay, and domain names (for example, aol.com, fast.net, etc.). This information is used to evaluate and continually improve the effectiveness of our site, and will not be disclosed to any external entity. 
 
+#### Information We Obtain From Visitors Browsing and via Cookies
 
-We may also disclose all of the nonpublic personal information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have a joint marketing agreements, such as a securities dealer.
+For a more effective Website, we use "cookies" as part of our interaction with your browser. A "cookie" is a commonly used small text file placed on your hard drive by our Web page server. By configuring your preferences or options in your browser, you determine if and how a cookie will be accepted. We use cookies to determine if you have previously visited our Website and for a number of administrative purposes. These cookies **_do not_** collect personally identifiable information, and we **_do not_** combine information collected through cookies with other personal information to determine who you are or your e-mail address. 
 
-Chemical Bank does not disclose any nonpublic personal information about our customers or former customers to telemarketing or direct mail firms, except as permitted by law.
+If the use of cookies is a concern to you, then please set your browser to alert you accordingly. Newer browser versions allow you to be alerted or to automatically refuse cookies. You may need to download a more current version of your web browser from your service provider in order to obtain this option. 
 
-  * **Former Customers.** If you ever close your account or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice
-  * **Accuracy:** Our practice is to maintain all information we retain in a complete and accurate manner. In the event that any information pertaining to your relationship with Chemical Bank changes or is reported incorrectly, we will respond to your request to correct it in a timely manner.
-  * **Employee Access:** We train our employees to protect confidential customer information. Our employees are bound by a Code of Ethics and internal procedures that require confidential treatment of nonpublic personal information. Employees who fail to follow the code or internal procedures are subject to disciplinary action.
-  * **Security Measures:** Chemical Bank is committed to the safeguarding of your nonpublic personal information. We maintain physical, electronic and procedural safeguards that comply with federal regulations to provide a secure environment in which your nonpublic personal information is protected from being accessed by third parties.
-  * **Maintaining Privacy in Business Relationships with Third Parties:** It is sometimes necessary to disclose certain identifiable information about you to a third party with whom we have contracted to help us provide products and services to you (such as check printers). In these situations, Chemical Bank requires those vendors, through written contracts, to maintain the confidentiality of that information.
+#### Children Visiting Our Website
 
+The Children's Online Privacy Protection Act (COPPA) was passed to give parents increased control over what information is collected from their children online and how such information is used. The law applies to websites and services directed to, and which knowingly collects information from, children under the age of 13. There may be some pages within Chemical Bank's Website that are directed to children under the age of 13; however Chemical Bank **_does not_** knowingly collect personal information from these sites. These pages are simply provided to the child for educational purposes. For additional information on COPPA protections, please visit the Federal Trade Commission's Children's Privacy Website at [www.ftc.gov/privacy/privacyinitiatives/childrens](http://www.ftc.gov/privacy/privacyinitiatives/childrens). 
 
+#### External Links
+
+Chemical Bank is not responsible for the information practices employed by sites linked to or from our Website. In most cases, links to non-Chemical Bank Websites are provided solely as pointers to information on topics that may be useful to the users of the Chemical Bank Website. 
+
+#### Privacy Commitment to You
+
+Trust us to keep you informed of how we protect your privacy and limit the sharing of information you provide to us - whether it's at a banking center, over the phone or through the Internet. 
+
+#### How To Contact Us
+
+Should you have other questions or concerns about our privacy policies, please contact us at 800-867-9757. 
