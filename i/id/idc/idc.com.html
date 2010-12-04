@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idc.com privacy policy that was archived on 2010-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102014354id_/http%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idc.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204112914id_/http%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <title>IDC - Privacy Policy     </title>
@@ -24,9 +24,9 @@ function MM_goToURL() { //v3.0
 <!--Start Top Level - Login/Logout Welcome and Tools-->
 <tbody><tr>
   <td colspan="3">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" background="http://cdn.idc.com/images/topshaderunner.gif">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/images/topshaderunner.gif">
       <tbody><tr>
-        <td width="419" background="http://cdn.idc.com/images/bgimg/darkgreytop.gif">
+        <td width="419" background="/images/bgimg/darkgreytop.gif">
           
 
 
@@ -36,16 +36,43 @@ function MM_goToURL() { //v3.0
 
 
 
+
+
+
+
+<iframe style="display: none;" src="https://cas.idc.com/sageValidate?site=idc&amp;service=http://www.idc.com:80/j_spring_cas_security_check?spring-security-redirect=/action/autologin.do"></iframe>
+
+<style type="text/css">
+<!--
+.submitbutton{
+background-color:transparent;
+border:0;
+height:1px;
+width:1px;
+}
+-->
+</style>
+
+<script language="JavaScript1.2">
+    
+    function logout(pTarget) {
+	document.welcomeForm.target_page.value = pTarget;	
+	window.document.welcomeForm.action = "/action/logout";
+        window.document.welcomeForm.submit(); 
+    }
+        
+</script>
+
+
 <a name="top"></a>
 
 	<table width="419" border="0" cellspacing="0" cellpadding="0" height="29">
-		<tbody><tr>
-			<td width="10">&nbsp;</td>
-			<td width="98%" valign="middle" nowrap=""><div align="left" id="whitenav"><a href="http://idc.com/myidc/register.jsp" id="Register">Register</a> | <a href="http://idc.com/myidc/login.jhtml" id="Login">Login</a></div>
-			</td>
-		</tr>
+	  <tbody><tr>
+	    <td width="10">&nbsp;</td>
+	    <td width="98%" valign="middle" nowrap=""><div align="left" id="whitenav"><a href="/action/register.do">Register</a> | <a href="/action/login.do?successUrl=%2Fabout%2Fprivacy.jsp">Login</a></div></td>
+	  </tr>
 	</tbody></table>
-
+        
 
           
         </td>
@@ -73,13 +100,13 @@ function MM_goToURL() { //v3.0
 <!--End Top Level-->
 <!-- This is where the logo and search go-->
 <tr>
-  <td background="http://cdn.idc.com/images/bluebg.gif" colspan="3" bgcolor="526994">
+  <td background="/images/bluebg.gif" colspan="3" bgcolor="526994">
     <table width="100%" border="0" cellspacing="0" cellpadding="0" height="73">
       <tbody><tr>
         <td>
           <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
-              <td width="247" height="37"><a href="/home.jhtml"><img src="http://cdn.idc.com/images/idclogo.gif" width="247" height="48" border="0"></a></td>
+              <td width="247" height="37"><a href="/home.jsp"><img src="/images/idclogo.gif" width="247" height="48" border="0"></a></td>
               <td valign="middle" height="37">
                 <div align="center">
                   
@@ -93,22 +120,30 @@ function MM_goToURL() { //v3.0
 
 
 
-<div style="margin-left:0px; _margin-left:0px;">
+
+
+
+<div style="margin-left:0px;">
 <form name="simplesearch" method="post" action="/research/jsp/process_search.jsp">
   <input type="hidden" name="stype" value="SIMPLE">
   <table width="550" height="55" border="0" cellspacing="0" cellpadding="0" align="center">
     <tbody><tr>
       <td valign="middle">
+        <div align="center">
           <input type="text" id="Keyword" name="keyword1" value="" size="37" width="55">
+		</div>
       </td>
-      <td align="left" valign="middle">
-          <!--<input name=home_goBut2 type=image src="http://cdn.idc.com/images/buttons/simple_search_btn.gif" alt="Search" align=middle width=76 height=23 border=0>-->
-		  <a href="#" id="SearchButton"><img src="http://cdn.idc.com/images/buttons/simple_search_btn.gif" onclick="javascript:document.simplesearch.submit()" alt="Search" align="middle" width="76" height="23" border="0"></a>
+      <td valign="middle" cellpadding="3">
+	  	<div align="center">
+          <!--<input name=home_goBut2 type=image src="/images/buttons/simple_search_btn.gif" alt="Search" align=middle width=76 height=23 border=0>-->
+          <a href="#" id="SearchButton"><img src="/images/buttons/simple_search_btn.gif" onclick="javascript:document.simplesearch.submit()" alt="Search" align="middle" width="76" height="23" border="0"></a>
+		  </div>
       </td>
       <td valign="middle">
+	 	<div align="center">
           	
-			
-			
+
+
 
 
 
@@ -131,21 +166,22 @@ function MM_goToURL() { //v3.0
 <option value="pt">Portuguese</option>
 <option value="es">Spanish</option>
 </select>
+		</div>
 	  </td>
 	  	<td valign="middle" align="middle">
-			<img src="http://cdn.idc.com/images/buttons/advanced_search_btn_separator.gif" alt="" align="middle" width="13" height="23" border="0">
+			<img src="/images/buttons/advanced_search_btn_separator.gif" alt="" align="middle" width="13" height="23" border="0">
 			</td>
 	  <td valign="middle">
-	  		<div style="width:160px;">
-        	<a href="http://idc.com/research/search.jsp" id="AdvancedSearchButton">
-			<img src="http://cdn.idc.com/images/buttons/advanced_search_btn.gif" alt="Advanced Search" align="middle" width="160" height="23" border="0">
-			</a></div>
+	  	<div align="center">
+        	<a href="http://www.idc.com/research/search.jsp" id="AdvancedSearchButton">
+			<img src="/images/buttons/advanced_search_btn.gif" alt="Advanced Search" align="middle" width="160" height="23" border="0">
+			</a>
+		</div>
        </td>
     </tr>
   </tbody></table>
-</form>
+  </form>
 </div>
-<!-- END simplesearch.jhtml -->
                   
                 </div>
               </td>
@@ -162,7 +198,7 @@ function MM_goToURL() { //v3.0
     <td width="645" valign="bottom" height="25"> 
       <table width="645" border="0" cellspacing="0" cellpadding="0" height="25">
         <tbody><tr> 
-          <td height="25" valign="bottom"><a href="/home.jhtml"><img src="http://cdn.idc.com/about/nav/tabs/home_off.gif" width="70" height="25" alt="IDC Home" border="0"></a></td>
+          <td height="25" valign="bottom"><a href="/home.jsp"><img src="http://cdn.idc.com/about/nav/tabs/home_off.gif" width="70" height="25" alt="IDC Home" border="0"></a></td>
           <td height="25" valign="bottom"><a href="/research/reshome.jsp"><img src="http://cdn.idc.com/about/nav/tabs/research_off.gif" width="90" height="25" alt="IDC Research" border="0"></a></td>
           <td height="25"><a href="/prodserv/prodserv.jsp"><img src="http://cdn.idc.com/about/nav/tabs/ps_off.gif" width="154" height="25" alt="IDC Products &amp; Services" border="0"></a></td>
           <td height="25"><a href="/events/eventshome.jsp"><img src="http://cdn.idc.com/about/nav/tabs/events_off.gif" width="78" height="25" alt="IDC Events" border="0"></a></td>
@@ -229,6 +265,8 @@ function MM_goToURL() { //v3.0
 
 
 
+
+
 <!--<table width="196" border="0" cellspacing="0" cellpadding="0" align="right">
               <tr> 
                 
@@ -238,7 +276,7 @@ function MM_goToURL() { //v3.0
             
           
           <!--Content of the page-->
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tbody><tr>
     <td><p><span class="newpageTitle">IDC Privacy Policy<br>
         <img src="http://cdn.idc.com/images/lines/hdots300px.gif" alt="dotted lines" width="300" height="5"></span></p>
@@ -344,10 +382,14 @@ function MM_goToURL() { //v3.0
 
 
 
+
+
 </td>
 </tr>
 <tr>
   <td colspan="3">
+
+
 
 
 
@@ -368,6 +410,7 @@ function MM_goToURL() { //v3.0
 
 
 
+
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
@@ -376,6 +419,54 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 //-->
 </script>
+<style>
+/* =FOOTER
+--------------------------------------------------*/
+#footer_area {position:relative; z-index: 156; background: #636D7B;  height: 195px; color: #ccc; border-top: 1px solid #000; line-height: 1.4em; clear: both; padding-top: 5px; font-size: 10px;}
+
+/***Footer layout***/
+#footer_left {float: left; width: 30%; margin-left: 10px; margin-right: 30px; text-align:left;}
+#footer_middle {float: left; width: 30%; margin-right: 20px; text-align:left;}
+#footer_right {float: right; width: 30%; margin-right: 10px; text-align:left;}
+
+/***Footer Links and Header***/
+#footer_area a {color: #fff; font-size: 10px;}
+#footer_area select {margin-bottom: 20px; width: 200px; background: #D7DBE6; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;}
+#footer_area h2 {padding-bottom: 4px; margin: 0px 0 5px 0; color: #ccc; font-size: 1em; background: url("/images/homeimgs/footer_lines.gif") bottom left repeat-x; position: relative; margin-bottom: 5px;}
+#footer_area h2 a {position: absolute; right: 3px; top: 0px; text-decoration: none; color: #fff; font-weight: normal; }
+
+/***Footer Contact Box***/
+#footer_right div#footer_contact {border: 1px solid #efefef;  padding: 5px; background: #313c52;}
+#footer_right div p {margin: 0 0 5px 0;}
+#footer_area #legal {text-align: center; margin-top: 4px;}
+
+/***Footer Link Lists***/
+#footer_area #footer_left ul li a {font-weight: normal; background: url("http://cdn.idc.com/images/homeimgs/arrow_white.gif") 0% 50% no-repeat; padding-left: 7px; }
+#footer_area #footer_left ul li ul li a {margin-left: 3px; padding-left: 7px; background: url("http://cdn.idc.com/images/homeimgs/arrow_white.gif") 0% 50% no-repeat; font-weight: normal;}
+
+#footer_area ul {margin: 0 0 5px 0; font-size: 10px; list-style: none; margin: 0; padding: 0;}
+#footer_area ul li {margin: 0;}
+
+#footer_area ul li a, #footer_right p a {text-decoration: none; color: #fff; font-size: 10px;}
+#footer_area ul li a:hover, #footer_right p a:hover, #footer_area h2 a:hover {text-decoration: underline; color: #ffcf31;}
+#footer_area ul li ul {margin-bottom: 0;}
+
+/***Footer Copyright Area***/
+#footer_area #bottom {background: #013064; text-align: center; border-top: 1px solid #000; position: relative; height: 60px; clear: both;}
+#footer_area #bottom a {text-decoration: underline;}
+#footer_area #blogo {position: absolute; left: 10px; top: 6px;}
+#footer_area #xml {position: absolute; right: 10px; top: 13px;}
+#navigation {position:relative; z-index: 210;}
+
+
+/***CSS FOR IE ONLY***/
+#footer_area #bottom {_padding-top: 15px;}
+#footer_area #blogo {_position: absolute; _left: 10px; _top: 12px;}
+#footer_area #xml {_position: absolute; _right: 10px; _top: 17px;}
+
+/***END CSS FOR IE ONLY***/
+
+</style>
 
 <div id="footer_area">
 
@@ -385,7 +476,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<div id="footer_left">
 		<h2>This Site<a href="/about/siteindex.jsp">Site Map</a></h2>
 		<ul>
-			<li><a href="/home.jhtml">Home</a></li>
+			<li><a href="/home.jsp">Home</a></li>
 		    <li><a href="/research/reshome.jsp">Research</a></li>
 		    <li><a href="/prodserv/prodserv.jsp">Products &amp; Services </a></li>
 		    <li><a href="/events/eventshome.jsp">Events</a></li>
@@ -399,12 +490,12 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<div id="footer_middle">
 		    <h2>Technology Advice by Industry</h2>
 		    <ul>
-					<li><a href="http://www.idc-ei.com/index.jsp?sessionId=">IDC Energy Insights</a></li>
-					<li><a href="http://www.idc-fi.com/home.jsp?sessionId=">IDC Financial Insights</a></li>
-		            <li><a href="http://www.idc-gi.com/index.jsp?sessionId=">IDC Government Insights</a></li>
-					<li><a href="http://www.idc-hi.com/index.jsp?sessionId=">IDC Health Insights</a></li>
-					<li><a href="http://www.idc-mi.com/home.jsp?sessionId=">IDC Manufacturing Insights</a></li>
-		            <li><a href="http://www.idc-ri.com/index.jsp?sessionId=">IDC Retail Insights</a></li>
+					<li><a href="http://www.idc-ei.com/index.jsp">IDC Energy Insights</a></li>
+					<li><a href="http://www.idc-fi.com/home.jsp">IDC Financial Insights</a></li>
+		            <li><a href="http://www.idc-gi.com/index.jsp">IDC Government Insights</a></li>
+					<li><a href="http://www.idc-hi.com/index.jsp">IDC Health Insights</a></li>
+					<li><a href="http://www.idc-mi.com/home.jsp">IDC Manufacturing Insights</a></li>
+		            <li><a href="http://www.idc-ri.com/index.jsp">IDC Retail Insights</a></li>
 			</ul>
 
 			<h2 style="padding-top: 2px;">IDC Regional Sites </h2>
@@ -461,8 +552,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 						<option value="http://www.idc-cema.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;South Africa</option>
 						<option value="http://www.idcturkey.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turkey</option>
 
-						<option value="/home.jhtml?region=NA&amp;region_id=362">United States</option>
-						<option value="/home.jhtml?region=WE&amp;region_id=324">Western Europe</option>
+						<option value="/home.jsp?region=NA&amp;region_id=362">United States</option>
+						<option value="/home.jsp?region=WE&amp;region_id=324">Western Europe</option>
 						<option value="http://www.idc.com/austria/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Austria</option>
 						<option value="http://www.idc.com/benelux/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benelux</option>
 						<option value="http://www.idc.com/nordic/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denmark</option>
@@ -509,10 +600,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 
 	  <div id="bottom">
-			<a href="/home.jhtml"><img src="/images/homeimgs/IDC_w.jpg" alt="IDC - Home" width="128" height="42" border="0" id="blogo"></a><a href="/about/siteindex.jsp"></a>
+			<a href="/home.jsp"><img src="/images/homeimgs/IDC_w.jpg" alt="IDC - Home" width="128" height="42" border="0" id="blogo"></a><a href="/about/siteindex.jsp"></a>
 
-		  <p>Copyright 2009 IDC. Reproduction is forbidden unless authorized. All rights reserved.  <a href="/about/trademarks.jsp">Trademarks</a></p>
-		  <a href="/about/rss.jsp"><img src="http://cdn.idc.com/images/pageImg/xml.gif" id="xml"></a>
+		  <p>Copyright 2010 IDC. Reproduction is forbidden unless authorized. All rights reserved.  <a href="/about/trademarks.jsp">Trademarks</a></p>
+		  <a href="/about/rss.jsp"><img src="/images/pageImg/xml.gif" id="xml"></a>
 
 	  </div>
 
@@ -577,7 +668,7 @@ hbx.pec="";//ERROR CODES
 
 </script>
 
-<script language="javascript1.1" defer="" src="http://cdn.idc.com/js/hbx.js"></script>
+<script language="javascript1.1" defer="" src="/js/hbx.js"></script>
 
 <!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
