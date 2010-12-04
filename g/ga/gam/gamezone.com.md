@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130093727id_/http%3A//www.gamezone.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204162731id_/http%3A//www.gamezone.com/privacy_policy) for the most accurate reproduction.*
 
-# GameZone.com - Your PC and Video Game Connection!
+# Privacy Policy | GameZone.com
 
 GameZone Online recognizes the importance of protecting the privacy of all information provided by users of GameZone.com (GameZone). We created the following policy guidelines with a fundamental respect for our users' right to privacy.
 
@@ -25,22 +25,12 @@ Using e-mail addresses provided at registration or otherwise, GameZone periodica
 **Contests**  
 By entering GameZone contests, users consent to the use of their name in the announcement of the winners on the GameZone site and/or Newsletter, and use of their name and likeness for advertising and/or promotional and/or marketing purposes. Users' contact information may also be used by GameZone to notify the user they have won and to confirm their mailing address. For additional contest rules and regulations, please refer to the following pages:
 
-Free Giveaway Contest Rules: <http://www.gamezone.com/misc/contestrules.htm>
-
-**GameZone GameShop**  
-GameZone and GameStop.com have teamed up to bring you a new one stop shop for all your gaming needs. From PC to Consoles, Accessories to Strategy Guides, DVD to Toys, you can find it all in the GameZone GameShop.
-
-When shopping in the GameShop, you will be placing items into your GameShop shopping cart and checking out. Thats where GameStop.com comes in. We've partnered with GameStop.com to handle and ship your order(s). GameStop.com will help you with any questions, comments and/or concerns regarding your order(s).
-
-<http://www.gzgameshop.com/gs/sites/gz/help/corp_info.asp>
+Free Giveaway Contest Rules: <http://www.gamezone.com/contest_rules/>
 
 **Advertising**  
 GameZone may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. GameZone may use cookies to help in tracking these patterns but does not store or collect an personal data in combination with user supplied information.
 
-GameZone uses additional third-party advertising companies to serve ads when you visit our Web site. You may determine the origin of a given advertisement from the URL. We make use of the following companies so please review their separate privacy policies:
-
-[Burst Media](https://www.burstmedia.com/release/privacy.asp)  
-[Adtegrity](http://www.adtegrity.com/privacy.asp)
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Public Forums**  
 GameZone makes message boards available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -61,6 +51,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 WebMaster  
 GameZone Online  
-P.O. Box 530638  
-Livonia, MI 48153  
+1000 East Hillsboro Blvd Suite 201  
+Deerfield Beach, FL 33441  
 [webmaster@gamezone.com](mailto:webmaster@gamezone.com)
