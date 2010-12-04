@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhg.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203203939id_/http%3A//www.bhg.com/bhg/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhg.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204080054id_/http%3A//www.bhg.com/bhg/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # Better Homes & Gardens Online
 
@@ -123,7 +123,7 @@ The following options are available to any customers who wish to prevent the dis
 
 #### Disclosures of Name and Postal Address Information. 
 
-If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [�opt-out� form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
+If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [?opt-out? form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
 
 #### Disclosures of Website Registration Information.
 
