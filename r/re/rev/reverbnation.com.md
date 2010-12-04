@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413101615id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204203630id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
@@ -59,5 +59,5 @@ CONTACTING THE WEB SITE
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [privacy@reverbnation.com](mailto:privacy@reverbnation.com). Physical inquiries can be sent to the following address: 
 
 eMinor, Inc.   
-501 Washington St. Suite J   
+501 Washington St. Suite D  
 Durham, NC 27701 USA 
