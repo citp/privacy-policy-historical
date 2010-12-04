@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205059id_/http%3A//www.itv.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204014500id_/http%3A//www.itv.com/Privacypolicy) for the most accurate reproduction.*
 
 # ITV Privacy policy
 
