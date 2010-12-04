@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joomla.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621022854id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204092009id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.joomla.org/component/mailto/?tmpl=component&link=aHR0cDovL3d3dy5qb29tbGEub3JnL3ByaXZhY3ktcG9saWN5Lmh0bWw%3D "E-mail")
 
 This web site is one of the family of web sites of **Joomla!/Open Source Matters**. 
 
