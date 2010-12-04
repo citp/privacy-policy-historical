@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512204807id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwin.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204155634id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
 
 # iWin Privacy Policy
 
@@ -76,4 +76,4 @@ If you have any questions about this Privacy Policy, iWin.com practices, or feel
 
 ** ** is Our games are guaranteed safe and free of viruses and malicious software. We have rigorous internal testing and we are members of the McAfee SECURE program, which ensures that our games are tested externally daily and approved. iWin.com is also Verisign Secured certified and an accredited business by the Better Business Bureau (BBB).
 
-Click logos below for more information. 
+Click logos below for more information.
