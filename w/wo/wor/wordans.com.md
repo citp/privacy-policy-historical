@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228050820id_/http%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204083524id_/http%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordans.com
 
@@ -31,8 +31,7 @@ You may provide us with certain personally identifiable information when you:
 
 
 
-  
-Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Wordans Website or our promotions. 
+Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Wordans Website or our promotions.
 
 ### Information Collected by Cookies
 
@@ -58,13 +57,14 @@ We use the personally identifiable information you provide to:
   * fulfill your requests for our products and services
   * pay royalties and referral fees
   * communicate with you about the status of your orders and other inquiries about our products and services
-  * send you information about our products and services   
-provide notices about the results of sweepstakes, contest, and other promotions. 
+  * send you information about our products and services 
+
+provide notices about the results of sweepstakes, contest, and other promotions.
 
 
 
-  
-We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyWordans account settings. 
+
+We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyWordans account settings.
 
 We do not use your email address or other personally identifiable information to send marketing messages without your consent. Similarly, if you email a product to a friend or refer a friend to the Wordans Website or our promotions, we will use your friend's email to send them the e-mail you requested. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. 
 
@@ -120,13 +120,14 @@ Parents can review any information Wordans has received from a child and the par
 
 Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at: 
 
-Wordans.Com, Inc.  
-Attn: Privacy  
-3945 Saint Denis
+Wordans.Com, Inc.
 
-Montreal, QC   
-contact@Wordans.com  
-1 866 218 6116
+Attn: Privacy
+
+5605 avenue de Gaspé  
+Suite 504
+
+Montreal, QC 
 
 ## How can I change, delete, or update my information? 
 
