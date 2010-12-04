@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theweedblog.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331130602id_/http%3A//www.theweedblog.com/google-adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweedblog.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204232230id_/http%3A//www.theweedblog.com/google-adsense-privacy-policy) for the most accurate reproduction.*
 
-# Google Adsense Privacy Policy | THE Weed Blog
+# Google Adsense Privacy Policy » THE Weed Blog
 
 Privacy Policy for **http://www.theweedblog.com**
 
