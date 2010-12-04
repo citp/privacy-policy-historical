@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
 
 # Trade Arabia - Online business directory with over 200,000 profiles
 
@@ -8,95 +8,10 @@
   
 |  | [](http://www.tradearabia.com/)  
 ---  
-| Friday, June 18, 2010  
+| Saturday, December 04, 2010  
   
-| 
+|  | 
 
-|  Market Trends  
----  
-|   
-  |  [ Market Analysis Reports](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/marketreports.asp)  
-  |  [ Stock Market Reports](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/tastock.asp)  
-|   
-Business Directory  
-  |  Search Directory  
-  |  |  Company Name  
-  |  |  Business Activity  
-  |   
-  |  [ Add Company](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/directory/addcompany.asp)  
-  |  [ Edit Company](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/directory/CompanyLogin.asp)  
-  |     
-News Categories  
-  |  |    
-|   
----|---  
-|  |  Results By |   
-  
----|---|---  
-  |     
-  |  [ Agriculture & Farming](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/AGRI.html)  
-[ Banking & Finance](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/BANK.html)  
-[ Building & Construction](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/CONS.html)  
-[ Capital Market](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/CM.html)  
-[ Defence & Security](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/DEF.html)  
-[ Economy](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/ECO.html)  
-[ Education, HR & Training](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/EDU.html)  
-[ Energy, Oil & Gas](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/OGN.html)  
-[ Environment & Water](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/ENV.html)  
-[ Food & Catering](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/FOOD.html)  
-[ Government & Laws](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/LAW.html)  
-[ Health](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/HEAL.html)  
-[ Industry](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/IND.html)  
-[ Interiors](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/INT.html)  
-[ IT & Telecommunications](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/IT.html)  
-[ Media & Promotions](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/MEDIA.html)  
-[ Motoring](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/MTR.html)  
-[ Property & Real Estate](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/REAL.html)  
-[ Retail & Wholesale](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/RET.html)  
-[ Shipping & Transport](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/STN.html)  
-[ Tourism, Travel & Leisure](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/TTN.html)  
-[ International News](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/INTNEWS.html)  
-[ Int. Business News](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/news/INTBIZ.html)  
-  |     
-Tools  
-|   
-  |  [Country Briefings](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/tools/default.asp)  
-  
-  |  [Currency Conversion](http://www.oanda.com/convert/classic?user=TradeArabia&lang=en)  
-  
-  |     
-Events  
-|   
-  |  [Calendar Of Events](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/tools/eventcalendar.asp)  
-  
-|   
-  
-|  |  Leisure, Lifestyle & Entertainment  
----|---  
-  
-   
-  
-[ ](http://www.gulfweekly.com/)  
-  
-  |    
-  |   
-  |    
-  | 
-
-**Sinohotel.com**  offers [  
-china hotel](http://www.sinohotel.com/index.html) booking for [  
-hotels beijing](http://www.sinohotel.com/english/hotels/beijing/index.html), [hotels shanghai](http://www.sinohotel.com/english/hotels/shanghai/index.html),[hotels   
-guangzhou](http://www.sinohotel.com/english/hotels/guangzhou/index.html), [hotels guilin](http://www.sinohotel.com/english/hotels/guilin/index.html),[hotels xian](http://www.sinohotel.com/english/hotels/xian/index.html), [  
-hotels tianjin](http://www.sinohotel.com/english/hotels/tianjin/index.html), and highlights  [beijing tour](http://www.sinohotel.com/english/tours/beijing/index.html),[  
-xian tour](http://www.sinohotel.com/english/tours/xian/index.html), [guilin tour](http://www.sinohotel.com/english/tours/guilin/index.html), [shanghai tour](http://www.sinohotel.com/english/tours/shanghai/index.html), [  
-shanghai expo tours](http://www.sinohotel.com/expo_2010_shanghai/index.htm).  
-  
-  |    
-  |   
-  |    
-  |   
-  |    
-  
 |   
 ---  
   
@@ -149,5 +64,5 @@ Tradearabia.com welcomes your continuous input regarding our Privacy Policy or o
 ---|---|---  
    
   
-[Advertising](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/general/advertise.asp) | [Contact](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/general/contact.asp) | [ Feedback](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/general/feedback.asp) | [Privacy Statement](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/general/privacystatement.asp) | [ Terms of Service](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/general/serviceterms.asp) | [Web Feeds](https://web.archive.org/web/20100618111405id_/http%3A//www.tradearabia.com/rss)  
+[Advertising](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/advertise.asp) | [Contact](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/contact.asp) | [ Feedback](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/feedback.asp) | [Privacy Statement](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/privacystatement.asp) | [ Terms of Service](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/serviceterms.asp) | [Web Feeds](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/rss)  
 Copyright (c) 2009, Al Hilal Publishing & Marketing Group
