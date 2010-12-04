@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelifefiles.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512162338id_/http%3A//www.thelifefiles.com/about/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelifefiles.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204080952id_/http%3A//www.thelifefiles.com/about/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
