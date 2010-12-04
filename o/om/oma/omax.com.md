@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omax.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627073021id_/http%3A//www.omax.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omax.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204223316id_/http%3A//www.omax.com/privacy.php) for the most accurate reproduction.*
 
 # OMAX Privacy Policy
 
