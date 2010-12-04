@@ -1,33 +1,14 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072756id_/http%3A//museum.tv/privacy.php) for the most accurate reproduction.*
 
 # - The Museum of Broadcast Communications
 
-|  |   
----  
-  
-[About Us](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=60)  
-  
-[Hours of Operation](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=500)  
-  
-[The New MBC](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=3)  
-  
-[Images](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=491)  
-  
-[Green Design](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=11)  
-  
-[Support The New MBC](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=15)  
-  
-[Tour the New MBC](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=451)  
-  
-[The Team](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=12)  
-  
-[Contact Us](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=104)  
-  
-[Historic Photo Gallery](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=462)  
-  
+| 
+
 [](http://www.tvondvdshop.com/stores/mbc/)
 
-[](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/exhibitionssection.php?page=481)
+[](http://www.museum.tv/newssection.php?page=550)
+
+| 
 
 Privacy Policy
 
@@ -66,15 +47,10 @@ You can review and modify (or remove) the personally identifiable information yo
 **How You Can Opt Out**  
 Your registration in an area of interest on our website will constitute your consent to receive notices and other communications from the MBC. In the event you no longer wish to receive notices or other communications from the MBC, you may opt-out by replying to "unsubscribe" in the subject line in any e-mail correspondence we send you or by [emailing](mailto:info@museum.tv) us. 
 
-|  | Help build the new MBC  
+|  | Search our Archives  
 ---  
   
-Join our efforts to build a new world-class museum in Chicago.  
- **[Click here to donate now.](http://www.tvondvdshop.com/rel/v2_home.php?storenr=193&deptnr=1101)**  
-  
-Search our Archives  
-  
-More than 7,000 digitized TV and radio programs are available once again for public viewing in the MBC archives.  
+More than 8,500 digitized TV and radio programs are available once again for public viewing in the MBC archives.  
  **[Search the archives!](http://archives.museum.tv/)**  
   
 Buy DVDs in our store  
