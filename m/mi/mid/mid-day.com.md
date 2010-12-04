@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527202548id_/http%3A//www.mid-day.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204050441id_/http%3A//mid-day.com/policy.htm) for the most accurate reproduction.*
 
-# Mid Day: News, Sports Entertainment, Lifestyle, What�s On, Classifieds, Blog, Video, Mumbai News, Delhi News, Bangalore News, Pune News
+# Privacy Policy - Mid-day Multimedia, Mid-day newspaper, Radio One, Inqualab, Quam, Gujarati Mid-Day, Zing
 
 Mid-Day is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Mid-Day Web site and governs data collection and usage. By using the Mid-Day website, you consent to the data practices described in this statement.
 
@@ -45,3 +45,7 @@ Mid-Day will occasionally update this Statement of Privacy to reflect company an
 **Contact Information**
 
 Mid-Day welcomes your comments regarding this Statement of Privacy. If you believe that Mid-Day has not adhered to this Statement, please contact Mid-Day at [cs@mid-day.com](mailto:cs@mid-day.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+  
+  
+
