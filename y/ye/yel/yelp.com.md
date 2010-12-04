@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525020733id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204050824id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy%26country%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Yelp&sealid=103)
-
-## Privacy Policy Statement
 
 **Effective on April 21, 2010.**
 
 This Privacy Statement (" **Statement** ") describes the personal information we collect through our websites and mobile applications (the " **Site** "), and how we collect and use it. The terms " **we** ", " **us** ", and " **Yelp** " refer to Yelp! Inc., a Delaware corporation.
 
-### I. Information We Collect and How We Use It
+* ## Information We Collect and How We Use It
 
 _Account information._ We ask for and store information about you when you create an account on the Site, such as your name, email address, and signup location. You can also import your account information from a third party to make the Yelp registration process easier. We use your name to create your account name (first name and last initial), and we use your signup location to help target the Site to the town you live in. We use your email address to send you updates, provide services to you in connection with the Site, and to contact you on behalf of other users sending you messages, complements, and the like. We may also use your signup location, birth date, and gender (if you supply them) to display relevant advertising to you. You can change your account information [here](https://web.archive.org/profile_info). 
 
@@ -22,7 +18,7 @@ _Location data._ The Site can provide helpful information based on where you are
 
 _Inviting friends._ You can invite your friends to join the Site by providing their contact information, or by entering your log-in credentials to import your address book from other sites. We may store and use your friends' contact information to invite them to join and connect with you on the Site. Your friends will always have the opportunity to opt-out of receiving further emails from us.
 
-_Third party services._ We allow you to access third party services, such as Facebook and Twitter, to share your selected Public Content with those services, and import information about who you are connected with on those other services so you can connect with them on the Site. You can always opt out on your Yelp account page. Some of those third party services may also provide us with information from your accounts there to enhance and personalize your use of this Site. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on Yelp. You can adjust your Yelp privacy settings to block this feature, in which case we will delete the information that we receive from your accounts with those other services (for registered Yelp users, go [here](https://web.archive.org/profile_sharing) and unregistered users, go [here](https://web.archive.org/static?p=fb_yelp)). You can also further modify your privacy settings with those other services directly. For example, you can adjust your privacy setting on Facebook [here](http://www.facebook.com/sitetour/connect.php) to prevent your Facebook friends from sharing information about you from their Facebook accounts with Yelp.
+_Third party services._ We allow you to access third party services, such as Facebook and Twitter, to share your selected Public Content with those services, and import information about who you are connected with on those other services so you can connect with them on the Site. You can always opt out on your Yelp account page. Some of those third party services may also provide us with information from your accounts there to enhance and personalize your use of this Site. For example, you can allow Facebook to tell us who your Facebook friends are so you can follow their activity on Yelp. You can adjust your Yelp privacy settings to block this feature, in which case we will delete the information that we receive from your accounts with those other services. Go [here](https://web.archive.org/static?p=fb_yelp) to learn more. You can also further modify your privacy settings with those other services directly. For example, you can adjust your privacy setting on Facebook [here](https://register.facebook.com/editaccount.php) to prevent your Facebook friends from sharing information about you from their Facebook accounts with Yelp.
 
 _Activity and log data._ We automatically store information related to your use of the Site, such as the pages you view on the Site, your browser type, IP address, the phone numbers and names of businesses that you call through the Site, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
@@ -36,7 +32,7 @@ _Data storage._ We store data in the United States.
 
 _Credit Card Purchases._ If you purchase business advertising or other Yelp products and services online, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks (such as fulfilling orders and processing credit card payments) required to complete the purchase transaction. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using 128-bit secure socket layer technology (SSL).
 
-### II. Transfer of Information
+* ## Transfer of Information
 
 _Public Content._ If you post content for public view on the Site, we may distribute such Public Content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their own websites and media platforms. We may ask them to credit you as the source of these contributions by including your account name and profile photo.
 
@@ -50,23 +46,23 @@ _Business transfers._ We may share your information with our parent company, sub
 
 _Investigations._ We reserve the right to investigate abuses on the Site, and enforce and apply our Terms of Service and Statement. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Statement; (c) comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
 
-### III. Managing Your Information
+* ## Managing Your Information
 
 We provide a number of tools to manage the use of your information on the Site. For an overview, click [here](https://web.archive.org/profile_info). You may receive weekly newsletter communications from us. However, despite any requests to close your account or your indicated email preferences, we may still need to contact you as required by law or on legal matters, for example to inform you of any updates to our Terms of Service or this Statement.
 
-### IV. Links
+* ## Links
 
 The Site may contain links to third party websites with which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
-### V. Our Policy Towards Children
+* ## Our Policy Towards Children
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@yelp.com](mailto:privacy@yelp.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us [here](https://web.archive.org/contact). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
-### VI. Security
+* ## Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-### VII. Dispute Resolution
+* ## Dispute Resolution
 
 If you believe that Yelp has not adhered to this Statement you may write to the Yelp Privacy Office at the following address:
 
@@ -75,13 +71,12 @@ Attn: Privacy Officer
 706 Mission Street  
 San Francisco, CA 94103  
 United States of America  
-E-mail: [legal@yelp.com](mailto:legal@yelp.com)
-
-### VIII. TRUSTe and Safe Harbor Adherence
+[Contact Us](https://web.archive.org/contact?topic=privacy)
+* ## TRUSTe and Safe Harbor Adherence
 
 Yelp is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This Statement covers the English-language versions of the Yelp Site. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
-_Questions and concerns._ If users have questions or concerns regarding this statement, you should first contact Yelp by email at [privacy@yelp.com](mailto:privacy@yelp.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/consumers/watchdog_complaint.php](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fconsumers%2Fwatchdog_complaint%2Ephp&urlhash=9DxY)). TRUSTe will serve as a liaison with Yelp to resolve users' concerns. However, please understand that the TRUSTe program only covers information collected through the above websites and does not cover information that may be collected through software applications.
+_Questions and concerns._ If users have questions or concerns regarding this statement, you should first contact Yelp [here](https://web.archive.org/contact?topic=privacy). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/consumers/watchdog_complaint.php](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fconsumers%2Fwatchdog_complaint%2Ephp&urlhash=9DxY)). TRUSTe will serve as a liaison with Yelp to resolve users' concerns. However, please understand that the TRUSTe program only covers information collected through the above websites and does not cover information that may be collected through software applications.
 
 _Disputes and complaints._ We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce regarding the collection, use, and retention of data from the European Union. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us.
 
@@ -91,6 +86,6 @@ If contacting us does not resolve your complaint, you may raise your complaint w
 
 If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [http://www.truste.org/consumers/watchdog_complaint.php](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fconsumers%2Fwatchdog_complaint%2Ephp&urlhash=9DxY) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
-### IX. Modifications to this Statement
+* ## Modifications to this Statement
 
 We may revise this Statement from time to time. The most current version of the Statement will govern our use of your information and will always be located [here](https://web.archive.org/static?p=privacy). If we make a change to this Statement that, in our sole discretion, is material, we will notify you either by prominently posting a notice of such changes prior to implementing the change on the Site and/or via the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Statement.
