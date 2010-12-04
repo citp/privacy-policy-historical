@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontshipbroker.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604002109id_/http%3A//www.frontshipbroker.com/cmspage.php%3Fpage_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontshipbroker.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204154850id_/http%3A//www.frontshipbroker.com/cmspage.php%3Fpage_id%3D7) for the most accurate reproduction.*
 
 # Privacy statement - Frontshipbroker | Ship Broker Information
 
