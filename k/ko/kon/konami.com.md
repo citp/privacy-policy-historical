@@ -1,29 +1,12 @@
-> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403093543id_/http%3A//www.konami.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205002237id_/http%3A//www.konami.com/privacy) for the most accurate reproduction.*
 
 # Konami Digital Entertainment, Inc. :
 
 [](http://www.esrb.org/confirm/konami-confirmation.jsp)
 
-Last Updated: 11/16/2009
+Last Updated: August 19, 2010
 
-  * The websites and information covered by this Privacy Policy
-  * What types of information does Konami collect and how will it be used?
-  * What happens if I refuse to provide my personally identifiable information to Konami?
-  * Does Konami use cookies, track IP addresses or use other passive means to collect information?
-  * Who is collecting my personally identifiable information?
-  * With whom does Konami share my personally identifiable information?
-  * What is Konami's policy regarding children?
-  * What is Konami's policy regarding links to third party sites?
-  * Can I choose how my personally identifiable information is used?
-  * How can I access my personally identifiable information?
-  * Your California privacy rights
-  * What safeguards does Konami use to protect my personally identifiable information?
-  * How do I ask a question or submit a complaint?
-  * Effectiveness of this Privacy Policy
-
-
-
-[Click here for PDF Version](https://web.archive.org/privacys/2009_11_16_KonamiPrivacyPolicy.pdf)
+[Click here for PDF Version](https://web.archive.org/privacys/2010_08_19_KonamiPrivacyPolicy.pdf)
 
 _This Privacy Policy is incorporated into and subject to the terms of the Konami Terms of Use. By using this website, and voluntarily providing your personally identifiable information to Konami, you consent to the collection and use of such personally identifiable information as set forth in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not provide us with any information and do not use this website._
 
@@ -65,6 +48,8 @@ www.konami.com, and all related Konami-controlled websites, including, but not l
 
 In addition, Konami may own several other domain names that point to the website listed above. From time to time, we may add new websites and will take reasonable steps to update the above list.
 
+This privacy policy also applies to information collected from users in countries outside of the United States, including, and limited to, Argentina, Brazil, and Mexico. Konami is in compliance with the applicable laws of these countries. 
+
 Please note that this Privacy Policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Konami offline. In addition, this Privacy Policy applies only to websites maintained by Konami and not to websites maintained by third party companies or organizations to which we link. Konami is therefore not responsible for the content or activities provided on such sites, and we recommend that you independently review the privacy policies posted on such sites. 
 
 Top
@@ -72,26 +57,26 @@ Top
 **What types of information does Konami collect and how will it be used?**  
 In order to give you the best experience on our website, Konami may collect information about you, but only if you voluntarily provide it to us. Typically, when we ask a user to submit personally identifiable and/or demographic information, and it will usually be as part of either: (1) “community” registration (e.g. registration for online games or tournaments, to participate in forums or chat rooms, to receive ongoing marketing or other information, etc.); (2) product registration; (3) email correspondence with product support/customer service; (4) polls or surveys; (5) E-Cards or "Send-to-a-Friend" emails; and/or (6) information submitted in a business capacity (e.g., resumes). The types of information that may be requested for each activity and the way the information may be used are detailed below.
 
-� Community Registration  
+§ Community Registration  
 If you choose to register on our website, you will be required to provide your first and last name, city, state, zip code, country of residence, email address, date of birth, age, occupation and a user name and password. In addition, you may be asked to provide other information, such as your phone number, the provision of which is optional. The information that you submit during registration will: (a) make up your profile; (b) allow you to use our message board and participate in other activities on our website (e.g., contests and sweepstakes, or game-specific events); and (3) allow us to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.  
 Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of Konami's message board. We cannot and do not guarantee that this information will be kept confidential or private. If you choose, you may omit from your profile certain information that you do not want the public to see by leaving such information blank at the time of registration, or choosing to make your email address not accessible via such message boards.
 
-� Product Registration  
+§ Product Registration  
 To register a Konami product on our website, you will be required to submit your first and last name, city, state, zip code, country of residence, email address, date of birth, age and occupation. You may also be asked to provide your phone number and answer demographic questions relating to your age, information about the product you purchased, the type of console you own, and the types of games you enjoy playing. The information that you submit during product registration will entitle you to limited warranty protection and technical support. **Unless you opt out at the time of registration, we may also use your registration information to send you, via email, news about products, features and enhancements, special offers, upgrade opportunities, and contents and events of interest.**
 
-� Email Correspondence  
+§ Email Correspondence  
 Konami may collect and temporarily store personally identifiable information that you voluntarily submit to us via email when contacting Konami customer service or support. For example, we provide on our website a link through which an online visitor can send e-mail to customer service addressing any issue a user encounters with a Konami product. Your email address and any personally identifiable information you choose to provide in the body of such email is used by Konami for the sole purpose of responding to your question. Although most e-mail messages are deleted immediately after they are responded to, in certain cases, hard copies or data from certain e-mail correspondence may be kept on file for security purposes, and even deleted emails may remain archived or in system backups. Any such copy or data will be stored in a secure location, and information from these messages will not be used for marketing purposes. Any email addresses collected from you during the use of the E-Cards or "Send-to-a-Friend" email feature on any Konami website are not retained by Konami, and are only used to send a one-time email notification on your behalf.
 
-� Polls/Surveys  
+§ Polls/Surveys  
 From time to time, we may ask you for your opinion about certain matters in the form of online polls or surveys, including your opinion with respect to our games or other products and services. Your responses to these polls help us provide products and services of interest to you. While we may ask for certain demographic or other information in connection with such polls or surveys to allow us to better interpret the results, we do not request personally identifiable information, such as your name, in connection with these polls or surveys.
 
-� Resumes  
+§ Resumes  
 Konami provides on its website an email address that visitors can use to send us their resumes. In the future we may expand functionality on our site for other similar business uses. Personally identifiable information collected from resumes will be used for the purpose of accepting and evaluating candidate submissions for job postings and may therefore be shared within our company. Other than as explained above, this Privacy Policy does not apply to personally identifiable information gathered through resumes.
 
-� Passive Collection  
-As noted below, (see �Does Konami use cookie, track IP addresses or use other passive means to collect information?�), we use certain passive means to collect information regarding visitors to our website, website traffic patterns and website usage. Unless noted otherwise, we may share in aggregate, statistical form, such non-personal information with our partners, affiliates or advertisers. 
+§ Passive Collection  
+As noted below, (see "Does Konami use cookie, track IP addresses or use other passive means to collect information?"), we use certain passive means to collect information regarding visitors to our website, website traffic patterns and website usage. Unless noted otherwise, we may share in aggregate, statistical form, such non-personal information with our partners, affiliates or advertisers. 
 
-� Other Uses of Personally Identifiable Information  
+§ Other Uses of Personally Identifiable Information  
 We may also use your personally identifiable and demographic information for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and to better meet your needs. From time to time, we are approached by third-party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personally identifiable information to send out notices on their behalf. We strive to limit the notices and communications to those that we think you would appreciate receiving.
 
 **No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.**  
@@ -107,7 +92,7 @@ Top
 **Does Konami use cookies, track IP addresses or use other passive means to collect information?**
 
 _Cookies_  
-Konami may collect information through cookies to improve the use of our website. A "cookie" is a small string of text sent by our website to your browser and then stored by your browser on your computer�s hard drive. Storage of cookies on your system provides an easy and convenient method for us to personalize and enhance your experience on our website, and to help us diagnose problems with our servers and to administer the website. For example, cookies allow us to remember your screen name and date of birth, tell us that you have visited our website before, track your usage of the site, and may contain information that will make your next visit to our website more enjoyable. In addition, Konami will not use cookies to retrieve information from your computer that was not originally sent in a cookie. Most web browsers automatically accept cookies, but you can always disable cookies or set your browser to alert you when cookies are being sent to your computer. However, rejecting cookies may prevent you from taking advantage of certain portions of this website.
+Konami may collect information through cookies to improve the use of our website. A "cookie" is a small string of text sent by our website to your browser and then stored by your browser on your computer's hard drive. Storage of cookies on your system provides an easy and convenient method for us to personalize and enhance your experience on our website, and to help us diagnose problems with our servers and to administer the website. For example, cookies allow us to remember your screen name and date of birth, tell us that you have visited our website before, track your usage of the site, and may contain information that will make your next visit to our website more enjoyable. In addition, Konami will not use cookies to retrieve information from your computer that was not originally sent in a cookie. Most web browsers automatically accept cookies, but you can always disable cookies or set your browser to alert you when cookies are being sent to your computer. However, rejecting cookies may prevent you from taking advantage of certain portions of this website.
 
 _Third Party Cookies_  
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use Web beacons and cookies provided by our marketing company on this website. We may collect the following types of information through such third party cookies: the activity of the website visitor's browser when the visitor is viewing the website; the website path of visitors; the time visitors come to the website; and product codes and pricing information for merchandise that visitors purchase via this website. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our website, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by [clicking here](http://www.infoyouaskedfor.com/u.php?m=52288).
@@ -138,7 +123,7 @@ In addition, Konami may, in the future, sell or otherwise transfer some or all o
 Top
 
 **What is Konami's policy regarding children?**  
-In compliance with the Children�s Online Privacy Protection Act, 15 U.S.C. �� 6501-06 and 16 C.F.R. �� 312.1-312.12, with the exception of the Konami Card site, Konami does not permit children under 13 years of age to become registered users, and we do not collect information from children. By using any portion of our website(s) other than the Konami Card site, you represent that you are not under 13 years of age. You can review the Privacy Policy and information collection practices concerning the Konami Card site by [clicking here](http://www.konami.com/card/). 
+In compliance with the Children's Online Privacy Protection Act, 15 U.S.C. §§ 6501-06 and 16 C.F.R. §§ 312.1-312.12, with the exception of the Konami Card site, Konami does not permit children under 13 years of age to become registered users, and we do not collect information from children. By using any portion of our website(s) other than the Konami Card site, you represent that you are not under 13 years of age. You can review the Privacy Policy and information collection practices concerning the Konami Card site by [clicking here](http://www.konami.com/card/). 
 
 Top
 
@@ -203,6 +188,6 @@ Top
 
 **Effectiveness of this Privacy Policy**
 
-This Privacy Policy is effective as of **November 16, 2009**.� We reserve the right, at any time, to modify, alter, update or make changes to this policy and any such modifications, alterations, updates or changes will be effective upon posting. �Please check back from time to time to ensure you aware of these changes. In the event we modify this Privacy Policy, your continued use of this website will signify your acceptance of the modified Privacy Policy. 
+This Privacy Policy is effective as of **August 19, 2010**. We reserve the right, at any time, to modify, alter, update or make changes to this policy and any such modifications, alterations, updates or changes will be effective upon posting. Please check back from time to time to ensure you aware of these changes. In the event we modify this Privacy Policy, your continued use of this website will signify your acceptance of the modified Privacy Policy. 
 
 Top
