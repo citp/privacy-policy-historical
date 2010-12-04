@@ -1,47 +1,108 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428173205id_/http%3A//www.thecarconnection.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204142436id_/http%3A//www.thecarconnection.com/privacypolicy) for the most accurate reproduction.*
 
-# The Car Connection Privacy Policy - The Car Connection
+# Privacy Policy - The Car Connection - The Car Connection
 
-TheCarConnection.com is committed to protecting the privacy of all its readers. As a result, you have the right to view the privacy policy of this site.  
-You can visit TheCarConnection.com without having to identify yourself or reveal any personal information.   
-If you choose to identify yourself (by providing identifiable personal information), you can be assured such information will be used only to improve our ability to serve you. That information will not be passed to any third-party vendors, affiliates or associates unless you are expressly asked, and then specifically authorize such use.  
-This statement does not apply to advertisers, vendors or others who appear on our website but who operate independently of TheCarConnection.com. It is advised that readers first check the individual privacy policies of such third parties before providing personal information.
+Thank you for your interest in this website's services and privacy information. This privacy policy applies to all websites within the [High Gear Media Network](http://www.highgearmedia.com/oursites/). Because the network sites share a common platform and registration system, the information that you provide on one site may be used when you visit any other site within the network.
 
-**What May TheCarConnection.com Collect?**  
-At various times, readers may be asked to provide information such as personal or professional interests, demographics, comments on their experience with our site and/or services. Such data may be used to help us improve our content and services, to allow readers to participate in site-related activities and events, or to receive mailings, news and other updates, such as the regular info@highgearmedia.com mailing.   
-As such, that information may be used to provide the stated services or, on an aggregate basis, to compile demographic profiles that might be used for advertising purposes. Under no conditions would TheCarConnection.com provide data identifying specific individuals in the absence of your express approval, given by the reader at the time such data was collected. TheCarConnection.com will not sell, rent or lease its mailing lists or personal information files.   
-Should you authorize our use of any personal data, whether for the site. s mailing lists or other purposes, you will have a right to update or to opt out using clearly stated procedures. 
+This privacy policy does not apply to information that you choose to publicly post to or display on the site. Please note that you grant us a license to all publicly-posted content and it can be syndicated to other sites and content partners.
 
-**What Are Our Policies Regarding Third Parties?**  
-Links to third party sites are provided solely as a convenience to our readers. If you use these links, you will leave TheCarConnection.com. It is not possible to review all such sites and we have no control over, nor do we take responsibility for, their individual content or privacy policies.   
-Advertisers, survey groups and those linked to or from TheCarConnection.com may seek to obtain additional information from readers. As such, they may serve "cookies," conduct surveys, request personal information or take actions not covered by our privacy policy. Such information will not be gathered by or on behalf of TheCarConnection.com unless clearly authorized and stated in such solicitations. If you choose to do business with vendors in TheCarConnection.com. s TCC Mall, for example, you may be asked to provide such parties with personal information, including credit and credit card data. Such actions will be covered only by that party' s own privacy policy.  
-As such, if you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.
+**What may this site collect?**  
+You can visit the site and use many of its features without having to identify yourself or reveal any personal information.
 
-  
+If you register with the site, participate or participate in various other features of the site (such as post a comment or enroll in a contest), you may be asked to provide personally identifiable information such as your name, email address, or address ("Personal Information"). In addition, you may be asked to provide non-personally identifiable information such as location, personal or professional interests, demographic information (such as age and gender), or to comment on your experience with our site and/or services. We may also get data about users from third parties.
 
+If you register with the site through Facebook Connect, we will receive information from your Facebook profile from Facebook.
+
+We may also collect data based on users' usage of the site and its various features, but it is not personally identifiable except as described below under the IP Addresses section ("Aggregate Data"). In addition, we may take your personal information and create anonymized information by excluding information that makes it personally identifiable to you ("Anonymized Data").
+
+**What about IP addresses?**  
+We compile logs of IP addresses of site users for administrative and analytical purposes. We do not routinely collect any personally identifiable information through our compilation of IP addresses. However, in cases of suspected abuse or service problems, we may use an IP address in conjunction with other personally identifiable information to enforce our terms of use and/or to protect or troubleshoot the site, its users or others who may be affected. Except as provided in "How does this site use the data it collects?" we will not share personally identifiable information associated with IP addresses with third parties.
+
+**How does this site use and share the data it collects?**  
+We use the data we collect from our users in the following manner: 
+
+  1. a) to help us improve our content and services
+  2. b) to allow readers to participate in site-related activities and events
+  3. c) to show advertising and content that we think may be of interest to a particular user
+  4. d) to enforce our terms of service
+  5. e) to send mailings, as described under "How do you communicate with me?"
+
+
+
+We may share Aggregated Data and Anonymized Data with third parties.
+
+We will not provide your Personal Information to a third party in the absence of your express approval, except as follows: 
+
+  1. a) With trusted third party service providers who help us in the operation of our business and who have agreed to maintain the confidentiality of the data
+  2. b) In cases of abusive behavior or suspected violations of our terms of use in order to investigate the violation and to take appropriate action
+  3. c) Where we have a good faith belief that it is required in order to respond to subpoenas, court orders, or other legal process, to prevent fraud or imminent harm, or to establish or exercise our legal rights or defend against legal claims
+  4. d) If this site is sold or transferred to another company, your Personal Information will also be transferred. We will notify you if your information will be subject to a different privacy policy.
+
+
+
+**How may you communicate with me?**  
+We may send you administrative announcements communicating information about the site, your account or content that you have posted to the account. You may not opt out of these messages. If we are required by law to provide you with any notice, such as in the event of a security breach, you consent to receiving notice to the email address you have provided us. If you sign up to receive any newsletters, you will be able to opt-out of those newsletters by following the procedures described in the newsletter.
+
+**What are our policies regarding third parties?**  
+This privacy policy does not apply to information collected by advertisers, vendors or other third parties whose content, ads or promotions appear on our website but who operate independently of this site. It is advised that readers first check the individual privacy policies of such third parties before providing personal information.
+
+Links to third party sites are provided solely as a convenience to our readers. If you use these links, you will leave this site. It is not possible to review all such sites and we have no control over, nor do we take responsibility for, their individual content or privacy policies.
+
+Advertisers, survey groups and other sites linked to or from this site may seek to obtain additional information from users. For example, they may serve "cookies," conduct surveys, request personal information or take actions not covered by our privacy policy. This information will not be gathered by or on behalf of this site unless clearly authorized and stated in such solicitations. If you choose to do business with vendors on this site, you may be asked to provide personal information, including credit and credit card data. Any information you share will be covered only by that party's own privacy policy.
+
+If you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.
 
 **What About "Cookies"?**  
-"Cookies" are small pieces of information that may be served to you while visiting a Web site, and which are then stored on your computer's hard drive.  
-It is possible you will be served cookies by us, by our advertisers or by the companies that help us deliver advertising on TheCarConnection site. At times, we or an advertiser may choose to share broad demographic data, (but not personally identifying information), collected through such Cookies with each other and our service providers in order to develop an overview of the site and its users. Cookies may also be used to improve products and services and to provide you with targeting advertising on TheCarConnetion and on other websites that you visit.
+"Cookies" are small pieces of information that may be served to you while visiting a Web site, and which are then stored on your computer's hard drive.
 
-Be advised that most current Web browsers, including Internet Explorer and Netscape Navigator, automatically accept cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site. Instructions for blocking cookies can be found in your browser help tab.
+It is possible you will be served cookies by us, by our advertisers or by the companies that help us deliver advertising on this site. Cookies help us and advertisers identify users on our site and on other sites. Please see below under "What are your advertising practices" to see how these cookies are used.
 
-**Third Party Advertising**  
+Web browsers, including Internet Explorer and Netscape Navigator, automatically accept cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site. Instructions for blocking cookies can be found in your browser help tab.
+
+**What are the site's advertising practices?**  
 We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, including information collected through cookies, in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+You can also learn more about specific companies we may allow to place cookies on our site and their policies regarding use of that data and advertising targeting by visiting the following additional links: 
 
-**How May Readers Communicate With Us?**  
-As noted, you have the right to opt out of any services or update any data collected by TheCarConnection.com. Where appropriate, such as with the WhatsNew@TheCarConnection.com mailing, specified procedures to update your personal information or opt out of the service may be spelled out. 
+  * Exelate:  
+<http://exelate.com/new/consumers-optoutpreferencemanager.html>   
+
+  * Tacoda/Platform-A:  
+<http://advertising.aol.com/privacy-policy/tacoda>   
+
+  * Audience Science:  
+<http://audiencescience.com/privacy.asp>   
+
+  * Blue Kai:  
+<http://www.bluekai.com/optout.html>   
+
+  * Google/Doubleclick:  
+<http://www.google.com/intl/en/privacy_ads.html>   
+
+
+
+
+If you do not wish to receive targeted advertising on our site, you can always elect to block cookies as described under "What about cookies?"
+
+**How about children's privacy?**  
+We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities. This site is not intended for under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Sites to children under the age of 13.
+
+**What are the site's security practices?**  
+We have implemented reasonable measures to help protect your user Information from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your user Information, we cannot guarantee its security.
+
+**How will changes to this policy be communicated?**  
+We may update this Policy from time to time. If we make any material change to the way in which we treat your User Information, we will inform you of such change by posting an updated privacy policy at this location or through email notification, at our option. Any updated version of this Privacy Policy will be effective as soon as it is posted on this site.
+
+**How may users change or terminate their account?**  
+You have the right to terminate your account or update any Personal Information collected by this site by contacting us at [feedback@highgearmedia.com](http://www.highgearmedia.com/contact/). If you terminate your account, your Personal Information will be removed from our system, subject to our right to retain any data necessary to investigate any violation of terms of use or alleged harmful or illegal activity.
+
+For some features, such as newsletter mailings, specified procedures to update your personal information or opt out of the service can be found in your account settings or on the page where you signed up for that service.
+
+**How may users communicate with the site?**  
+You can contact us for additional information by visiting this page: <http://www.highgearmedia.com/contact/>
 
 You may also correspond by standard post at:  
 Privacy Policy,   
-High Gear Media  
-385 Forest Ave  
-Palo Alto, CA 94301  
-Tel: 650.353.2433  
-Fax: 650.644.0427
-
-  
-
+High Gear Media   
+385 Forest Ave   
+Palo Alto, CA 94301 
