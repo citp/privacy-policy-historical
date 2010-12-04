@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917075428id_/http%3A//www.tommybahama.com/TBG/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204051235id_/http%3A//www.tommybahama.com/TBG/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - TommyBahama.com
 
@@ -6,11 +6,11 @@
 
 Tommy Bahama R&R Holdings, Inc. ("Tommy Bahama") values its customers and respects their privacy. We collect customer information in an effort to provide you the services you request, to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we may combine this information with data that is publicly available and data that we receive from other reputable sources. These reputable sources include affiliated businesses, without limitation, Indigo Palms and Tommy Bahama Relax stores. 
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact Tommy Bahama Customer Care in any of three ways: 
+This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact Tommy Bahama Guest Services in any of three ways: 
 
-  * Send us an email at: [customercare@tommybahama.com](mailto:customercare@tommybahama.com)
+  * Send us an email at: [guestservices@tommybahama.com](mailto:guestservices@tommybahama.com)
   * Call us at 1.866.986.8282
-  * Write to us at: Tommy Bahama Customer Care, 428 Westlake Avenue North, Suite 388, Seattle, Washington, 98109-5223
+  * Write to us at: Tommy Bahama Guest Services, 428 Westlake Avenue North, Suite 388, Seattle, Washington, 98109-5223
 
 
 
@@ -90,22 +90,22 @@ Tommy Bahama reserves the right to disclose information about you as required by
 top ^
 
 **Updating or Reviewing Your Information**   
-You can review, change or delete certain personal information related to your use of our online sites (e.g., name, addresses, credit card numbers, and contact information). To access your information online, simply click Your Account at the top of any page, sign in when prompted and you'll be able to edit any of your personal information. You may also ask us to update your personal information, by calling Customer Care at 1.866.986.8282. To protect your privacy, we will need to validate your identity before you update or review your information. 
+You can review, change or delete certain personal information related to your use of our online sites (e.g., name, addresses, credit card numbers, and contact information). To access your information online, simply click Your Account at the top of any page, sign in when prompted and you'll be able to edit any of your personal information. You may also ask us to update your personal information, by calling Guest Services at 1.866.986.8282. To protect your privacy, we will need to validate your identity before you update or review your information. 
 
 You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order to enable you to purchase from our site. Nor will we be able to recognize you as a registered user, which allows you to access your account information. 
 
 top ^
 
 **Your Choices About Receiving Promotional Communications**   
-We want to communicate with you only if you want to hear from us. If you would like to have your name and address removed from receiving promotional mailers through the US Postal Service, please contact us by calling Customer Care at 1.866.986.8282 or by sending an email to [customercare@tommybahama.com](mailto:customercare@tommybahama.com). You may also write to us at: 
+We want to communicate with you only if you want to hear from us. If you would like to have your name and address removed from receiving promotional mailers through the US Postal Service, please contact us by calling Guest Services at 1.866.986.8282 or by sending an email to [guestservices@tommybahama.com](mailto:guestservices@tommybahama.com). You may also write to us at: 
 
-Tommy Bahama Customer Care   
+Tommy Bahama Guest Services   
 428 Westlake Avenue North, Suite 388   
 Seattle, WA 98109-5223 
 
 We will add your name and address to our "Do Not Contact" list and ensure that we honor your request. Please note that any requests to update your personal information by postal mail or phone, may take up to ten days to process. If, due to human error, you continue to receive unwanted communications, please contact us again and we will make every effort to correct the situation. 
 
-If for any reason you do not want to receive promotional (i.e. not order-related) emails that notify you of new product arrivals, exclusive offers, upcoming events, store openings and more, simply click the unsubscribe link provided at the bottom of every email we send. You may also let us know by calling Customer Care at 1.866.986.8282 and ask to be unsubscribed. 
+If for any reason you do not want to receive promotional (i.e. not order-related) emails that notify you of new product arrivals, exclusive offers, upcoming events, store openings and more, simply click the unsubscribe link provided at the bottom of every email we send. You may also let us know by calling Guest Services at 1.866.986.8282 and ask to be unsubscribed. 
 
 top ^
 
@@ -127,7 +127,7 @@ We use cookies but do not store personally identifiable information in your cook
 
 Through our use of cookies, we may also track and maintain the identity of the website you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites. 
 
-You can refuse cookies by turning them off in your browser. If you set your browser to refuse cookies we cannot process your order on our website and will not recognize you as a registered user, which allows you to access your account information. If you refuse cookies and wish to place an order from our website, please call Customer Care at 1.866.986.8282. 
+You can refuse cookies by turning them off in your browser. If you set your browser to refuse cookies we cannot process your order on our website and will not recognize you as a registered user, which allows you to access your account information. If you refuse cookies and wish to place an order from our website, please call Guest Services at 1.866.986.8282. 
 
 TommyBahama.com works with a variety of advertising companies to place our ads on websites across the Internet. These advertising companies collect anonymous information about your visits to our web site, other advertising websites or interaction with our email through the use of cookies. This technology allows them to develop Tommy Bahama advertising and marketing about goods and offers that may be of interest to you. 
 
@@ -139,7 +139,7 @@ Acxiom is a global interactive marketing services agency serving our ads through
 
 Coremetrics provides Tommy Bahama with site traffic analysis for TommyBahama.com web visits. This visit analysis is facilitated by the use of web beacons which utilize a Coremetrics cookie. To view Coremetrics' Privacy Policy and learn about opting out of cookies set to facilitate web beacon reporting by Coremetrics, please [click here](http://www.coremetrics.com/company/privacy.php). 
 
-ExactTarget is our Email service provider, supporting Tommy Bahama in sending and analysis of our emails to customers. Analysis reporting by ExactTarget involves the use of web beacons. To view ExactTarget's Privacy Policy, please [click here](http://email.exacttarget.com/Company/Policies/PrivacyPolicy.html). For additional questions, please contact customer service at 1.866.986.8282. 
+ExactTarget is our Email service provider, supporting Tommy Bahama in sending and analysis of our emails to customers. Analysis reporting by ExactTarget involves the use of web beacons. To view ExactTarget's Privacy Policy, please [click here](http://email.exacttarget.com/Company/Policies/PrivacyPolicy.html). For additional questions, please Guest Services at 1.866.986.8282. 
 
 top ^
 
@@ -167,11 +167,11 @@ top ^
 **Questions or Comments?**   
 For questions, comments, or assistance, we invite you to contact us: 
 
-Tommy Bahama Customer Care   
+Tommy Bahama Guest Services   
 428 Westlake Avenue North, Suite 388   
 Seattle, WA 98109-5223   
 1.866.986.8282   
-[customercare@tommybahama.com](mailto:customercare@tommybahama.com)
+[guestservices@tommybahama.com](mailto:guestservices@tommybahama.com)
 
 Effective September 4th, 2007 
 
