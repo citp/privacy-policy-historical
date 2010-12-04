@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the quickonlinetips.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620164539id_/http%3A//www.quickonlinetips.com/archives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickonlinetips.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204032046id_/http%3A//www.quickonlinetips.com/archives/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Quick Online Tips
+
+  
+
 
 We allow **third-party advertising companies** (like [Google Adsense](http://www.quickonlinetips.com/archives/google-adsense/)) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
