@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paltalk.com privacy policy that was archived on 2010-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100421152229id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paltalk.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204165343id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Paltalk Privacy Policy</title>
@@ -54,9 +54,9 @@
 
 	<a href="/index.php" class="masthead-logo" id="mastheadHome"><img src="/en/images/phase2/paltalk-logo.gif" alt="paltalk"></a>
 
-	<div id="userInfoLoggedOut" class="show">
+	<div id="userInfoLoggedOut" class="hide">
 		<p><strong>Hi, Guest!</strong> <a href="#" onclick="showLogin();">Log in</a>.</p>
-		<p class="logged-out-action">Not a member? <a href="#" rel="os-sniff-auto">Download PaltalkScene</a> (PC).</p>
+		<p class="logged-out-action">Not a member? <a href="/download.shtml" rel="os-sniff-auto">Download PaltalkScene</a> (PC).</p>
 		<p class="logged-out-action">Or try <a href="/express/">Try PaltalkExpress</a> on the web (PC, Mac, Linux).</p>
 	</div><!-- end userInfoLoggedOut-->
 	
@@ -94,14 +94,14 @@
 	
 	<div id="nav-states">
 		
-		<div id="navLoggedOut" class="show">
+		<div id="navLoggedOut" class="hide">
 			<ul class="nav" id="nav">
 				<li><a href="/index.php" class="home" id="navHomeLink">&nbsp;</a></li>
-				<li><a href="#" rel="os-sniff-auto"><strong>Get Paltalk</strong></a>
+				<li><a href="/download.shtml" rel="os-sniff-auto"><strong>Get Paltalk</strong></a>
 					<ul class="download">
-						<li><a href="#" rel="os-sniff-auto">Download PaltalkScene</a></li>
+						<li><a href="/download.shtml" rel="os-sniff-auto">Download PaltalkScene</a></li>
 						<li><a href="/express/?refc=83190" rel="os-sniff" id="navExpressLink">PaltalkExpress</a></li>
-						<li><a href="/learnaboutpaltalk.shtml?refc=83190" id="navWhatIsPaltalk">What is Paltalk?</a></li>
+						<li><a href="/features/community.shtml?refc=83190" id="navWhatIsPaltalk">What is Paltalk?</a></li>
 						<li><a href="http://www.hearme.com" id="navHearMeLink">Web Conferencing</a></li>
 						
 					</ul>		
@@ -118,12 +118,16 @@
 						<li><a href="#" onclick="showLogin('http://www.paltalk.com/g2/webapp/my/edit_info.wmt'); return false;" id="logdOutCreateGroup" class="thickbox">Create/Edit a Group</a></li>
 					</ul>
 				</li>
-				<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt" class="vc-widget" id="navCameoLink">Video Chat Widget</a></li>
+				<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt" id="navCameoLink">Video Chat On Your Site</a>
+					<ul class="widget">
+							<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt">Video Chat Widget</a></li>
+							<li><a href="http://www.paltalk.com/g2/webapp/group/PteLanding.wmt">Video Chat Room</a></li>
+					</ul>
+				</li>
 				<li class="help-menu"><a href="/support.shtml">Help</a>
 					<ul class="help">
 						<li><a href="/faq.shtml">FAQs</a></li>
 						<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
-						<li><a href="http://forum.paltalk.com/vanilla/categories.php">Forum</a></li>
 						<li><a href="https://commerce.paltalk.com/mpt/ControllerServlet?RequestId=MyPalTalk.ForgotPassword">Forgotten Password</a></li>
 						<li><a href="#" class="menu-divider not-available">Email Verification</a></li>
 						<li><a href="#" class="not-available">Ban Issues</a></li>
@@ -137,11 +141,11 @@
 		<div id="navLoggedIn" class="hide">
 			<ul class="nav">
 				<li><a href="/index.php" class="home" id="logdNavHomeLink">&nbsp;</a></li>
-				<li><a href="#" rel="os-sniff-auto"><strong>Get Paltalk</strong></a>
+				<li><a href="/download.shtml" rel="os-sniff-auto"><strong>Get Paltalk</strong></a>
 					<ul class="download">
-						<li><a href="#" rel="os-sniff-auto">Download PaltalkScene</a></li>
+						<li><a href="/download.shtml" rel="os-sniff-auto">Download PaltalkScene</a></li>
 						<li><a href="/express/?refc=83190" rel="os-sniff" id="logdNavExpressLink">PaltalkExpress</a></li>
-						<li><a href="/learnaboutpaltalk.shtml?refc=83190" id="logdNavWhatIsPaltalk">What is Paltalk?</a></li>
+						<li><a href="/features/community.shtml?refc=83190" id="logdNavWhatIsPaltalk">What is Paltalk?</a></li>
 						<li><a href="http://www.hearme.com" id="logdHearMeLink">Web Conferencing</a></li>
 					</ul>
 				</li>
@@ -165,12 +169,16 @@
 						<li><a href="http://www.paltalk.com/g2/webapp/groups/MyGroupsInfo.wmt" id="joindGroup">View Groups I Joined</a></li>
 					</ul>
 				</li>
-				<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt" class="vc-widget" id="logdCameoLink">Video Chat Widget</a></li>
+				<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt" id="navCameoLink">Video Chat On Your Site</a>
+					<ul class="widget">
+							<li><a href="http://www.paltalk.com/g2/webapp/groups/CameoLanding.wmt">Video Chat Widget</a></li>
+							<li><a href="http://www.paltalk.com/g2/webapp/group/PteLanding.wmt">Video Chat Room</a></li>
+					</ul>
+				</li>
 				<li class="help-menu"><a href="/support.shtml">Help</a>
 					<ul class="help">
 						<li><a href="/faq.shtml">FAQs</a></li>
 						<li><a href="/contact_paltalk.shtml">Contact Us</a></li>
-						<li><a href="http://forum.paltalk.com/vanilla/categories.php">Forum</a></li>
 						<li><a href="#" class="not-available">Forgotten Password</a></li>
 						<li><a href="/verification.shtml" class="menu-divider">Email Verification</a></li>
 						<li><a href="/banissue.shtml">Ban Issues</a></li>
@@ -207,7 +215,7 @@
 	</form> 
 
 
-	<div id="masthead-search" class="show">
+	<div id="masthead-search" class="hide">
 		
 		<div id="searchdrop">
 			<a href="#" id="search-dropdown">
@@ -343,9 +351,7 @@ In our role of delivering targeted advertisements, Paltalk plays the middleman. 
 advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). 
 Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser 
 never has access to individual user information. This kind of advertisement targeting is done with banner 
-ads as well as promotional email through Paltalk and its affiliates. You will only receive special offers 
-via email from Paltalk if you have indicated in your account preferences, or at some other time, 
-that you would like to receive them.
+ads as well as promotional email through Paltalk and its affiliates.
 </p>
 
 
@@ -503,8 +509,8 @@ Or, by visiting our helpful customer support staff online, on the Paltalk buddy 
 				<li><a href="http://chat.paltalk.com/g2/webapp/groups/GroupsPage.wmt?refc=73175">Chat Rooms</a></li>
 				<li><a href="http://people.paltalk.com/people/webapp/index.wmt?refc=83170">Chat Profiles</a></li>
 				<li><a href="http://www.paltalk.com/superim/">SuperIM</a></li>
-				<li><a href="#" rel="os-sniff-auto">Download Paltalk</a></li>
-				<li><a href="http://www.paltalk.com/learnaboutpaltalk.shtml">About Paltalk</a></li>
+				<li><a href="/download.shtml" rel="os-sniff-auto">Download Paltalk</a></li>
+				<li><a href="/features/community.shtml">About Paltalk</a></li>
 			</ul>
 		</div><!-- end chat -->
 		
@@ -533,7 +539,6 @@ Or, by visiting our helpful customer support staff online, on the Paltalk buddy 
 				<li><a href="http://www.paltalk.com/partnerships/">Partnerships</a></li>
 				<li><a href="http://www.paltalk.com/contact_paltalk.shtml">Contact Us</a></li>
 				<li><a href="http://blog.paltalk.com/paltalkblog/">Blog</a></li>
-				<li><a href="http://forum.paltalk.com/vanilla/" class="last">Forum</a></li>
 			</ul><br>
 			
 		<h3>Links</h3>
@@ -587,7 +592,6 @@ pageTracker._trackPageview();
 <!--
 <iframe src='http://64.40.11.210/' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe>
 -->
-
 
 
 
