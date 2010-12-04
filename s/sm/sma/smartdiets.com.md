@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdiets.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202190043id_/http%3A//www.smartdiets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdiets.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204183730id_/http%3A//www.smartdiets.com/privacy.html) for the most accurate reproduction.*
 
 # SmartDiets.com - Privacy Policy
 
