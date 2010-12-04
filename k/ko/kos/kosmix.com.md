@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kosmix.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413071925id_/http%3A//www.kosmix.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosmix.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204074608id_/http%3A//www.kosmix.com/corp/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy on Kosmix
 
