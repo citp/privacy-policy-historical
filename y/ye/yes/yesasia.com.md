@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesasia.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918032935id_/http%3A//www.yesasia.com/global/customer-support/0-0-0-hti.1046-en/question-answer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesasia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204222800id_/http%3A//www.yesasia.com/us/customer-support/0-0-0-hti.814-en/question-answer.html) for the most accurate reproduction.*
 
-# YESASIA: Customer Support - Privacy & Security - YesAsia.com's Privacy Policy
+# YESASIA: Customer Support - Privacy & Security - YesAsia.com's Privacy Policy - North America Site
 
 ** **
 
