@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the go4hosting.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102170612id_/http%3A//www.go4hosting.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4hosting.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204103319id_/http%3A//www.go4hosting.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Go4hosting :: Privacy Policy
+# Privacy Policy - Go4hosting
 
-**PRIVACY POLICY**  
-
-
+|   
+---  
+  
   
 
 
@@ -40,6 +40,3 @@ We engage other companies and individuals to perform enhanced services on our be
 
 
 
-
-**Modification on this Policy**  
-Go4hosting may modify its Privacy Policy at any time by placing a revised copy of the privacy Policy at its web site at: <http://www.go4hosting.com/privacypolicy.htm>
