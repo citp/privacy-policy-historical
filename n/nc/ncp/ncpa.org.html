@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ncpa.org privacy policy that was archived on 2010-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615001134id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncpa.org privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204171206id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -35,6 +35,8 @@
 <link href="/css/main.css" rel="stylesheet" type="text/css">
 <link href="/css/nav.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 7]> <link href="/css/ie6_fix.css" rel="stylesheet" type="text/css"><![endif]-->
+<!-- Include Print CSS -->
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 <script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script src="/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
 <script src="/Scripts/tabswitcher.js" type="text/javascript"></script>
@@ -49,14 +51,14 @@
     <div id="utilnav">
       <ul>
         <li><a href="https://secure.ncpa.org/support/" class="featured">Support Us</a></li>
-        <li><a href="/ourblogs">Our Blogs</a></li>
+        <li><a href="/events">Events</a></li>
+        <li><a href="/ourblogs">Blogs</a></li>
         <li><a href="/avo/">Audio/Video</a></li>
-        <li><a href="/subscriptions/">Subscriptions</a></li>
         <li><a href="/media/">Media</a></li>
       </ul>
     </div>
     <!-- end #utilnav -->
-    <div id="socialnav"> <a href="/rss_newsfeed"><img src="/images/rss_icon.gif" alt="subscribe to this feed" width="15" height="15" border="0"></a> <a href="http://twitter.com/NCPA" target="_blank"><img src="/images/twitter_icon.gif" alt="twitter" width="15" height="15" border="0"></a> <a href="http://www.youtube.com/user/NCPAIdeas" target="_blank"><img src="/images/youtube_icon.gif" alt="youtube" width="15" height="15" border="0"></a> <a href="http://www.linkedin.com/groups?about=&amp;gid=1862986&amp;trk=anet_ug_grppro" target="_blank"><img src="/images/linkedin_icon.gif" alt="LinkedIn" width="15" height="15" border="0"></a> <a href="http://www.facebook.com/pages/National-Center-for-Policy-Analysis-NCPA/127739149614" target="_blank"><img src="/images/facebook_icon.gif" alt="Facebook" width="15" height="15" border="0"></a> <a href="http://www.flickr.com/photos/national-center-for-policy-analysis/sets/" target="_blank"><img src="/images/flickr.png" alt="Flickr" width="15" height="15" border="0"></a> <a href="http://www.helium.com/partners/ncpa" target="_blank"><img src="/images/helium_icon.gif" alt="Helium" width="15" height="15" border="0"></a> </div>
+    <div id="socialnav"> <a href="/rss_newsfeed"><img src="/images/rss_icon.gif" alt="subscribe to this feed" width="15" height="15" border="0"></a> <a href="http://twitter.com/NCPA" target="_blank"><img src="/images/twitter_icon.gif" alt="twitter" width="15" height="15" border="0"></a> <a href="http://www.youtube.com/user/NCPAIdeas" target="_blank"><img src="/images/youtube_icon.gif" alt="youtube" width="15" height="15" border="0"></a> <a href="http://www.linkedin.com/companies/national-center-for-policy-analysis" target="_blank"><img src="/images/linkedin_icon.gif" alt="LinkedIn" width="15" height="15" border="0"></a> <a href="http://www.facebook.com/NationalCenterforPolicyAnalysis" target="_blank"><img src="/images/facebook_icon.gif" alt="Facebook" width="15" height="15" border="0"></a> <a href="http://www.flickr.com/photos/national-center-for-policy-analysis/sets/" target="_blank"><img src="/images/flickr.png" alt="Flickr" width="15" height="15" border="0"></a> <a href="http://www.helium.com/partners/ncpa" target="_blank"><img src="/images/helium_icon.gif" alt="Helium" width="15" height="15" border="0"></a> </div>
     <!-- end #socialnav -->
     <div id="search">
       <ul class="tabs">
@@ -65,19 +67,50 @@
       </ul>
       <div class="tab_container">
         <div id="tab1" class="tab_content" style="display: block;">
-          <form id="searchform" method="get" action="http://search.ncpa.org/sitesearch/search.php">
-            <input name="query" type="text">
-            <input name="search" type="hidden" value="1">
-            <button type="submit" name="submit" value="search"><span>Search</span></button>
-          </form>
+        <!--  <form id="searchform" method="get" action="http://search.ncpa.org/sitesearch/search.php">
+            <input name="query" type="text" />
+            <input name="search" type="hidden" value="1"/>
+            <button type="submit" name="submit" value="search" ><span>Search</span></button>
+          </form> -->
+
+         <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      '005685862394556128008:g-whwo79aai',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="005685862394556128008:g-whwo79aai">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" id="q" autocomplete="off" size="31">
+                <button type="submit" name="submit" value="search"><span>Search</span></button>
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
         </div>
         <div id="tab2" class="tab_content" style="display: none;">
-          <form id="searchform" method="get" action="/sub/dpd/">
-            <input name="q" type="text">
-            <input name="orderby" type="hidden" value="Relevance">
-            <input name="search" type="hidden" value="1">
+        <!--  <form id="searchform" method="get" action="/sub/dpd/">
+            <input name="q" type="text" />
+            <input name="orderby" type="hidden" value="Relevance" />
+            <input name="search" type="hidden" value="1"/>
+            <button type="submit" name="submit" value="search" ><span>Search</span></button>
+          </form> -->
+
+ <form id="searchform" action="http://www.google.com/cse">
+                <input type="hidden" name="cx" value="005685862394556128008:9pxpgcwcbtu">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="31">
             <button type="submit" name="submit" value="search"><span>Search</span></button>
           </form>
+          <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
         </div>
       </div>
     </div>
@@ -85,30 +118,57 @@
     <div id="nav_container">
       <ul id="nav">
         <li id="home" class="off"><a href="/" class="current"><span></span>Home</a></li>
-        <li id="aboutus" class="on"><a href="/about/"><span></span>About Us</a>
+        <li id="aboutus" class="on"><a href="/about/"><span></span>About</a>
           <ul>
-            <li class="aboutus2"><a href="/pub/" class="" style="border: 0 !important;">NCPA Publications</a></li>
-            <li class="aboutus2"><a href="/events/" class="">NCPA Events</a></li>
-            <li class="aboutus2"><a href="/sub/dpd/" class="">Daily Policy Digest</a></li>
-            <li class="aboutus2"><a href="/speech/" class="">Testimonies &amp; Speeches</a></li>
-            <li class="aboutus2"><a href="/commentaries" class="">NCPA Commentaries</a></li>
+            <li class="aboutus2"><a href="/about/ncpa_experts" class="" style="border: 0 !important;">Our Experts</a></li>
+            <li class="aboutus2"><a href="/achievements" class="">Our Achievements</a></li>
+            <li class="aboutus2"><a href="/events/" class="">Events</a></li>
+            <li class="aboutus2"><a href="/subscriptions/" class="">Subscriptions</a></li>
             <li class="aboutus2"><a href="/new/" class="">What's New</a></li>
-            <li class="aboutus2"><a href="http://debate-central.ncpa.org/" target="_blank" class="">Debate Central</a></li>
-            <li class="aboutus2"><a href="https://secure.ncpa.org/support/" class="featured">Support the NCPA</a></li>
+            <li class="aboutus2"><a href="https://secure.ncpa.org/support/" style="width:500px;" class="featured">Support the NCPA</a></li>
+          </ul>
+        </li>
+        <li id="research1" class="off"><a href="/pub/"><span></span>Research</a>
+          <ul>
+            <li class="aboutus2"><a href="/ourblogs/" class="" style="border: 0 !important;">Blogs</a></li>
+            <li class="aboutus2"><a href="/commentaries/" class="">Commentaries</a></li>
+            <li class="aboutus2"><a href="/speech/" class="">Testimonies</a></li>
+            <li class="aboutus2"><a href="/sub/dpd/" class="">Daily Policy Digest</a></li>
+            <li class="aboutus2"><a href="/about/ncpa_experts/">Our Experts</a></li>
+            <li class="aboutus2"><a href="https://secure.ncpa.org/support/" style="width:515px;" class="featured">Support the NCPA</a></li>
           </ul>
         </li>
         <li id="healthcare" class="off"><a href="/healthcare/"><span></span>Health Care</a>
         	<ul>
-            	<li class="aboutus2"><a href="/about-cdhc/" class="" style="border: 0 !important;">About CDHC</a></li>
-                <li class="aboutus2"><a href="/healthcare-publications/" class="">Health Care Publications</a></li>
+                <li class="aboutus2"><a href="/pub/?c=Health" class="" style="border: 0 !important; background:#ffffff;">Health Care Publications</a></li>
                 <li class="aboutus2"><a href="/healthcare-commentaries/" class="">Health Care Commentaries</a></li>
                 <li class="aboutus2"><a href="/healthcare-newsletters/" class="">Health Care Newsletters</a></li>
- <li class="aboutus2" style="width:390px;"><a href="https://secure.ncpa.org/support/" class="featured">Support the NCPA</a></li>
+                            	<li class="aboutus2"><a href="/healthcare/about-the-kellye-wright-fellowship" class="">Kellye Wright Fellowship</a></li>
+
+<li class="aboutus2"><a href="http://www.john-goodman-blog.com/" target="_blank">John Goodman's Health Policy Blog</a></li>
+
+ <li class="aboutus2"><a href="https://secure.ncpa.org/support/" class="featured">Support the NCPA</a></li>
             </ul>
         </li>
-        <li id="taxesgrowth" class="off"><a href="http://taxesandgrowth.ncpa.org" target="_blank"><span></span>Taxes &amp; Growth</a></li>
-        <li id="retirement" class="off"><a href="http://retirementreform.ncpa.org" target="_blank"><span></span>Retirement</a></li>
-        <li id="environmentenergy" class="off"><a href="http://environment.ncpa.org" target="_blank"><span></span>Environment &amp; Energy</a></li>
+        <li id="taxesgrowth" class="off"><a href="/taxes/"><span></span>Taxes</a>
+               <ul>
+            <li class="aboutus2"><a href="/pub/?c=Taxes" class="" style="border: 0 !important;">Tax Publications</a></li>
+            <li class="aboutus2"><a href="/tax-commentaries" class="">Tax Commentaries</a></li>
+            <li class="aboutus2"><a href="http://economyblog.ncpa.org/" target="_blank" class="off">Bob McTeer's Economic Policy Blog</a></li>
+            <li class="aboutus2"><a href="https://secure.ncpa.org/support/" style="width:490px;" class="featured">Support the NCPA</a></li>
+              </ul>
+        </li>
+        <li id="retirement" class="off"><a href="/retirement"><span></span>Retirement</a>
+        <ul>
+         <li class="aboutus2"><a href="/pub/?c=retirement" class="" style="border: 0 !important;">Retirement Publications</a></li>
+            <li class="aboutus2"><a href="/retirement-commentaries" class="">Retirement Commentaries</a></li>
+            <li class="aboutus2"><a href="/401/d401kwa1.php">401(k) Borrowing Calculator</a></li>
+            <li class="aboutus2"><a href="http://retirementblog.ncpa.org/" class="" target="_blank">Retirement and Taxes Blog</a></li>
+            <li class="aboutus2"><a href="https://secure.ncpa.org/support/" style="width:285px;" class="featured">Support the NCPA</a></li>
+            </ul>
+        </li>
+        <li id="environmentenergy" class="off"><a href="http://environment.ncpa.org" target="_blank"><span></span>Environment &amp; Energy</a>
+                 </li>
         <li id="womensmallbiz" class="off"><a href="http://familyissues.ncpa.org" target="_blank"><span></span>Women &amp; Small Business</a></li>
         <li id="debate" class="off"><a href="http://debate-central.ncpa.org/" target="_blank"><span></span>Debate</a></li>
         <li id="other" class="off"><a href="/issues/"><span></span>Other Issues</a></li>
@@ -120,37 +180,36 @@
 
 
 <div id="content">
+
+
+
+
+<!-- end #main -->
+  <br class="clr">
+
+
+
   
+
 
   
   <div id="sidebar">
 
          <h2>Our Mission</h2>
-      <p>To provide private sector, free-market solutions to public policy problems.
-      </p><br><br>
-         <h2>Who is the NCPA?</h2>
-      <ul class="plain_list2">
-        <li><a href="/about/ncpa_experts">NCPA Experts</a>
-        <ul style="margin-top:10px; margin-bottom:0px;"><li style="margin-bottom:0px;"><a href="/about-cdhc/healthcare-experts">NCPA Health Care Experts</a></li></ul>
-        </li>
-        <li style="margin-top:10px;"><a href="/about/ncpa_staff">NCPA Staff</a></li>
-        <li style="margin-top:10px;"><a href="/about/ncpa_board_of_directors">NCPA Board of Directors</a></li>
+      <p>Our motto, "Ideas Changing the World," reflects the belief that ideas have enormous power to change the course of human events. The NCPA seeks to unleash the power of ideas for positive change by identifying, encouraging and aggressively marketing the best scholarly research.</p><br><br>
+         <h2>Our People</h2>
+      <ul>
+        <li><a href="/about/ncpa_experts">NCPA Experts</a></li>
+        <li><a href="/about/ncpa_staff">NCPA Staff</a></li>
+        <li><a href="/about/ncpa_board_of_directors">NCPA Board of Directors</a></li>
       </ul><br><br>
-
-  
-      <h2>Ideas Changing the World</h2>
-
-<object width="320" height="260"><param name="movie" value="http://www.youtube.com/v/4begJ3bEaKg&amp;hl=en&amp;fs=1&amp;"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/4begJ3bEaKg&amp;hl=en&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="260"></object>
-  
-   <br><br><br>
-
             <h2>Contact Us</h2>
-          <p><strong>Dallas Headquarters:</strong><br>
+          <p>Dallas Headquarters:<br>
             12770 Coit Rd., Suite 800<br>
             Dallas, TX 75251-1339<br>
             Phone: (972) 386-6272<br>
             Fax: (972) 386-0924</p>
-          <p><strong>Washington Office:</strong><br>
+          <p>Washington Office:<br>
             601 Pennsylvania Avenue<br>
             NW, Suite 900 South Building<br>
             Washington, DC 20004<br>
@@ -206,12 +265,17 @@
   </div></div><!-- end #main -->
   <br class="clr">
 
+
+
+
+
+
 </div>
   <div id="footer">
     <div class="first">
       <h2>Policy Issues &amp; Research</h2>
       <ul>
-        <li><a href="http://healthcare.ncpa.org" target="_blank">Health Care Policy</a></li>
+        <li><a href="http://www.ncpa.org/healthcare" target="_blank">Health Care Policy</a></li>
         <li><a href="http://taxesandgrowth.ncpa.org" target="_blank">Tax &amp; Budget Policy</a></li>
         <li><a href="http://retirementreform.ncpa.org" target="_blank">Retirement Reform Policy</a></li>
         <li><a href="http://environment.ncpa.org" target="_blank">Energy &amp; Environment Policy</a></li>
@@ -221,9 +285,10 @@
     <div>
       <h2>NCPA Blogs</h2>
       <ul>
-        <li><a href="http://www.john-goodman-blog.com/" target="_blank">John Goodman's Health Policy Blog</a></li>
-        <li><a href="http://www.bob-mcteer-blog.com/" target="_blank">Bob McTeer's Taxes &amp; Budget Blog</a></li>
-        <li><a href="http://retirementreform-blog.com/" target="_blank">Retirement Reform Blog</a></li>
+        <li><a href="http://healthblog.ncpa.org/" target="_blank">Health Policy</a></li>
+        <li><a href="http://economyblog.ncpa.org/" target="_blank">Economic Policy</a></li>
+        <li><a href="http://retirementblog.ncpa.org/" target="_blank">Retirement &amp; Taxes</a></li>
+<li><a href="http://environmentblog.ncpa.org/" target="_blank">Energy &amp; Environment</a></li>
         <!-- <li><a href="http://terry-neese-blog.com/" target="_blank">Terry Neese's Blog</a></li> -->
       </ul>
     </div>
@@ -233,8 +298,11 @@
         <li><a href="/sub/dpd/">NCPA Daily Policy Digest</a></li>
         <li><a href="http://debate-central.ncpa.org" target="_blank">NCPA Debate Central</a></li>
         <li><a href="/about/ncpa-profile-and-programs?pg=2">NCPA Achievements</a></li>
-        <li><a href="http://mikeonline.com/" target="_blank">NCPA Gallagher Partnership</a></li>
-        <li><a href="/pub/">NCPA Publications</a></li>
+       <!-- <li><a href="http://mikeonline.com/" target="_blank">NCPA Gallagher Partnership</a></li> -->
+        <li><a href="http://www.ncpa.org/pub/">NCPA Publications</a></li>
+        <li><a href="http://www.ncpa.org/events/">NCPA Events</a></li>
+        <li><a href="http://www.ncpa.org/events/">NCPA Speakers</a></li>
+        <li><a href="http://www.ncpa.org/media/">NCPA Media</a></li>
       </ul>
     </div>
     <div>
@@ -253,14 +321,16 @@
         <li><a href="/rss_newsfeed"><img src="/images/rss_icon.gif" alt="subscribe to this feed" width="15" height="15" border="0">RSS</a></li>
         <li><a href="http://twitter.com/NCPA" target="_blank"><img src="/images/twitter_icon.gif" alt="twitter" width="15" height="15" border="0">Twitter</a></li>
         <li><a href="http://www.youtube.com/user/NCPAIdeas" target="_blank"><img src="/images/youtube_icon.gif" alt="youtube" width="15" height="15" border="0">YouTube</a></li>
-        <li><a href="http://www.linkedin.com/groups?about=&amp;gid=1862986&amp;trk=anet_ug_grppro" target="_blank"><img src="/images/linkedin_icon.gif" alt="LinkedIn" width="15" height="15" border="0">LinkedIn</a></li>
+        <li><a href="http://www.linkedin.com/companies/national-center-for-policy-analysis" target="_blank"><img src="/images/linkedin_icon.gif" alt="LinkedIn" width="15" height="15" border="0">LinkedIn</a></li>
         <li><a href="http://www.facebook.com/pages/National-Center-for-Policy-Analysis-NCPA/127739149614" target="_blank"><img src="/images/facebook_icon.gif" alt="Facebook" width="15" height="15" border="0">Facebook</a></li>
         <li><a href="http://www.flickr.com/photos/national-center-for-policy-analysis/sets/" target="_blank"><img src="/images/flickr.png" alt="Flickr" width="15" height="15" border="0">Flickr</a></li>
-        <li><a href="http://www.helium.com/partners/ncpa" target="_blank"><img src="/images/helium_icon.gif" alt="Helium" width="15" height="15" border="0">Helium</a></li>
+        <li><a href="http://www.helium.com/partners/ncpa" target="_blank"><img src="/images/helium_icon.gif" alt="Helium" width="15" height="15" border="0">Helium</a>
+
+</li>
       </ul>
     </div>
     <div id="footerbottom">
-      <p>Copyright © 2009 National Center for Policy Analysis. All rights reserved</p>
+      <p>Copyright © 2010 National Center for Policy Analysis. All rights reserved</p>
       <p>If you find a problem or have a comment about this site, please email <a href="mailto: webmaster@ncpa.org">webmaster@ncpa.org</a></p>
     </div>
   </div>
