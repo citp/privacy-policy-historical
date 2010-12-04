@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502053530id_/http%3A//www.lightingshowplace.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204091148id_/http%3A//www.lightingshowplace.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy at Lighting Showplace
+
+  
+
 
 ### Information Collection & Use
 
@@ -22,6 +25,6 @@ Our Web sites often contain links to other sites to provide you with the best in
 
 ### Newsletters
 
-If you wish to subscribe to our newsletters, which may contain promotional and sale information, we ask for information such as name and e-mail address. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial e-mailers.
+If you wish to subscribe to our newsletters, which may contain promotional and sale information, we ask for information such as name and email address. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial emailers.
 
-If you have any questions about our privacy policies, please contact us by phone at 800-334-2725 or e-mail us at [info@lightingshowplace.com](mailto:info@lightingshowplace.com). Thank you for choosing Lighting Showplace.
+If you have any questions about our privacy policies, please contact us by phone at 800-334-2725 or email us at [info@lightingshowplace.com](mailto:info@lightingshowplace.com). Thank you for choosing Lighting Showplace.
