@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530223306id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204092643id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Refund Policy. Forex with Alpari
 
