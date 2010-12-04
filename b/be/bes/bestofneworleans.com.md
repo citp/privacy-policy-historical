@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the bestofneworleans.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912134118id_/http%3A//www.bestofneworleans.com/dispatch/current/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofneworleans.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204155540id_/http%3A//www.bestofneworleans.com/gambit/Privacy_Statement/Page) for the most accurate reproduction.*
 
-# Privacy Statement
+# Gambit New Orleans | Privacy Statement
 
-  
 Welcome to the website for Gambit Weekly, bestofneworleans.com (the “Site”). This Site is operated by Gambit Communications, Inc. (”Gambit Communications” or “us”). We at Gambit Communications recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.
 
 **A. TYPES OF INFORMATION COLLECTED**
@@ -51,4 +50,4 @@ This Privacy Statement may be changed from time to time, so we encourage you to 
 
 To contact us, please see the information set forth on the “Contact Us” page in our website.
 
-Copyright (c) 2007, Gambit Communications, Inc. All rights reserved.
+Copyright (c) 2007, Gambit Communications, Inc. All rights reserved. 
