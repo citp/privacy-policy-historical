@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkdominators.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413141648id_/http%3A//linkdominators.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdominators.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204095444id_/http%3A//linkdominators.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Link Building Service - Get One Way Links for Pennies!
 
 This privacy policy sets out how LinkDominators.com uses and protects any information that you give to LinkDominators.com when you use this website.
 
@@ -34,5 +34,3 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
- 
