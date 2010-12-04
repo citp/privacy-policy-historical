@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsa.org privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629095127id_/http%3A//www.prsa.org/AboutPRSA/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsa.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204124631id_/http%3A//www.prsa.org/AboutPRSA/Privacy_Statement/%3Futm_source%3Dprsa_website%26utm_medium%3Dfooter%26utm_campaign%3Dprivacy_statement_nav) for the most accurate reproduction.*
 
 # Privacy Statement
 
