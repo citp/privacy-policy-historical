@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbcsports.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416085107id_/http%3A//nbcsports.msnbc.com/id/23114206) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsports.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204165848id_/http%3A//nbcsports.msnbc.com/id/23114206) for the most accurate reproduction.*
 
-# NBC Sports Privacy Policy- nbcsports.msnbc.com
+# NBC Sports Privacy Policy- NBC Sports
 
 ****This Privacy Policy was last updated on Jan. 30, 2007.****
 
@@ -99,5 +99,3 @@ National Broadcasting Company, Inc.
 30 Rockefeller Plaza  
 New York, NY  
 
-
-  Top NBCSports.com stories
