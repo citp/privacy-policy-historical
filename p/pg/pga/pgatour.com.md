@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202120452id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204173929id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
 
 # PGATOUR.com - PGATOUR.COM Privacy Policy
 
@@ -103,14 +103,14 @@ Throughout the Site you may be presented with an opportunity to receive special 
 The Site may use third party network advertisers to serve the advertisements on the Site and may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services you might be interested in. Although advertisers and other companies do not have access to your cookies as provided by the Site, the Site's third party network advertisers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set for purposes including but not limited to targeting advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding how useful certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies are governed by each third party's specific privacy policy, not this one. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp> in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. Below is a representative list of such third parties and a link to their privacy notices:
 
   * Atlas DMT: [http://www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.atlasdmt.com/privacy/>
-  * [Bluestreak](http://www.bluestreak.com/privacy/privacy.asp)
+  * [Bluestreak](http://www.bluestreak.com/privacy-policy.aspx)
   * [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp)
   * [Eyeblaster](http://www.eyebalster.com/website/privacy_policy_down.htm)
   * [EyeWonder](http://www.eyewonder.com/about/privacy.cfm)
   * [Dynamic Logic](http://www.dynamiclogic.com/privacy_policy.php)
   * [Klipmart](http://www.klipmar.com/privacy.html)
   * [Millward Brown IntelliQuest](http://www.intelliquest.com/privacy/intro.asp)
-  * [Unicast](http://www.unicast.com/company/privacy.asp)
+  * [Unicast](http://www.unicast.com/privacy-policy.aspx)
 
 
 
