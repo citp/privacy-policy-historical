@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuni.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628160242id_/http%3A//www.yuni.com/contact/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuni.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204231329id_/http%3A//www.yuni.com/contact/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Yuni Words of Wisdom
 
