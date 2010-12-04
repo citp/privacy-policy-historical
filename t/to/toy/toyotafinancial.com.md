@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2008-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080328174119id_/http%3A//www.toyotafinancial.com/consumer/tfs.portal%3Bofsc%3DnxndHsHNJRkp8tB2YG0yJ27j2y8xKH6DJpDVCQdvrcNw1LfP4QQg%21-263156929%21680548660%3F_nfpb%3Dtrue%26_pageLabel%3Dpg_PrivacyRights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204185650id_/http%3A//www.toyotafinancial.com/consumer/tfs.portal%3F_nfpb%3Dtrue%26_pageLabel%3Dpg_PrivacyRights) for the most accurate reproduction.*
 
-# Toyota Financial Services
+# Toyota Financial Services: Privacy Policy and Terms of Use
 
 |  | 
 
@@ -15,7 +15,7 @@
 
 Privacy Policy and Terms of Use
 
-Effective as of February 12, 2007This page contains the online privacy policy and terms of use applicable to your usage of this website, toyotafinancial.com
+Effective as of May 20, 2009This page contains the online privacy policy and terms of use applicable to your usage of this website, toyotafinancial.com
 
 Privacy Statement  
 Normal Website Usage  
@@ -31,7 +31,7 @@ Questions, Comments or Complaints
 
  **Privacy Statement**
 
-Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (collectively, Toyota Financial Services, TFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Policy describes Toyota Financial Services' policy regarding information received about you during visits to our website.  
+Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (collectively, Toyota Financial Services, TFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Online Privacy Policy and Terms of Use  (“Online Policy”) describes Toyota Financial Services' policy regarding information received about you during visits to our website.  
   
  **Normal Website Usage**
 
@@ -51,11 +51,11 @@ When you submit an online application to us or you are accessing your account on
   * Information we receive from you on applications for credit or other forms, such as your contact information, assets and income; and
   * Information we receive from you about your transactions with us, or affiliates (as permitted by law), or others such as account balances, payment history or account activity.
 
-TFS does not disclose personally identifiable information from your credit application nor from credit reporting agencies for non-customers, except as permitted by law.
+If you are a non-customer, TFS does not disclose personally identifiable information about you from your credit application or any credit reporting agencies, including your social security number, except as permitted by law. If you are a customer, TFS does not disclose personally identifiable information about you from your credit application or from credit reporting agencies, including your social security number, , except as permitted by law or any applicable TFS customer Privacy Policy.
 
 If you are our customer, we may disclose all of the information that we collect on you and former customers, as described below.
 
-To the extent permitted by law and in accordance with our Privacy Policy, the personally identifiable information we collect about you may be shared with our affiliates and nonaffiliated third parties as follows:
+To the extent permitted by law and in accordance with any applicable TFS customer Privacy Policy, the personally identifiable information we collect about you may be shared with our affiliates and nonaffiliated third parties as follows:
 
   * Financial products service providers, such as Toyota Motor Insurance Services, Inc. and Toyota Financial Savings Bank.
   * Non-financial companies engaged in the distribution, marketing, and sales of Lexus, Toyota and Scion automobiles, such as Toyota Motor Sales U.S.A., Inc., authorized Lexus, Toyota and Scion dealerships and other dealerships with which we have a business relationship, independent Lexus and Toyota dealerships' marketing associations, private Toyota distributors, nonaffiliated third parties calling us for information about your account with us, and nonaffiliated third parties who may sell your data in aggregate form for automotive marketing purposes.
@@ -65,17 +65,17 @@ To the extent permitted by law and in accordance with our Privacy Policy, the pe
 
 We do not sell the collected data, regardless of whether you are a TFS customer.  
   
- **You May Request A Copy of Your Privacy Policy**
+ **You May Request A Copy of Your TFS Customer Privacy Policy**
 
-TFS continuously strives to comply with all applicable federal and state privacy laws. Some policies will vary by territory, based on the applicable laws of the region. If you are a customer of TFS, you may request a copy of your Financial Privacy Notice (if applicable) by calling us at 1-888-717-9248. TFS insurance customers may request a copy of their Insurance Privacy Notice (if applicable) by calling us at 1-800-255-8713.
+TFS continuously strives to comply with all applicable federal and state privacy laws. Some policies will vary by territory, based on the applicable laws of the region. If you are a finance or lease customer of TFS, you may request a copy of your customer Privacy Notice (if applicable) by calling us at 1-888-717-9248. TFS insurance customers may request a copy of their customer Privacy Policy (if applicable) by calling us at 1-800-255-8713.
 
  **Your Choices**
 
-Customers of Toyota Financial Services have certain privacy options that are provided pursuant to applicable federal and state privacy laws. To learn more about your privacy options, refer to the Financial Privacy Notice mailed to you, or call us at 1-888-717-9248.
+Finance and lease customers of Toyota Financial Services have certain privacy options that are provided pursuant to applicable federal and state privacy laws. To learn more about your privacy options, refer to the customer Privacy Policy mailed to you, or call us at 1-888-717-9248.
 
  **Changes To Our Policy**
 
-As permitted by law, we may change this policy and provide notice by posting a revised policy on this site. By using this website, you signify your acceptance of this Privacy Policy. Your continued use of this website after a revised policy has been posted signifies your acceptance of the revised policy.
+As permitted by law, we may change this Online Policy and provide notice by posting a revised policy on this site. By using this website, you signify your acceptance of this Online Policy. Your continued use of this website after a revised Online Policy has been posted signifies your acceptance of the revised Online Policy.
 
  **Accuracy of Your Information**
 
@@ -83,9 +83,13 @@ You may contact us at 1-800-874-8822 regarding the accuracy, completeness and su
 
  **Confidentiality and Security**
 
-We restrict access to nonpublic personal information about you to those employees and other persons hired by us who need to know the information to provide products and services to you and to otherwise service your account(s) with us. We maintain physical, electronic and procedural safeguards that comply with applicable federal standards to guard your nonpublic personal information.
+We restrict access to nonpublic personal information about you, including your social security number, to those employees and other persons hired by us who need to know the information to provide products and services to you and to otherwise service your account(s) with us. We maintain physical, electronic and procedural safeguards that comply with applicable federal standards to guard your nonpublic personal information.
 
 If you choose to complete and submit our Online Credit Application, or to access your TFS Account, your personal information will be protected during transmission by an encryption process.
+
+You can personally confirm the security of the site by viewing our certificate information. For Internet Explorer users, this can be found by clicking on "File" from your tool bar then "Properties" then "Certificates". It should indicate that the certificate is issued to my.toyotafinancial.com and issued by VeriSign Class 3 Secure Server. The certification provided on www.ToyotaFinancial.com has the highest level of security for our website.
+
+For Firefox users, the certificates can be viewed by clicking on the lock icon in the bottom right corner of the browser.
 
  **Assistance for Victims of Identity Theft**
 
@@ -103,11 +107,11 @@ All of the content presented on this website is for information purposes only an
 
  **Questions, Comments or Complaints**
 
-If you have questions, comments or complaints regarding this policy or the terms of use, contact us 1-888-717-9248.   
+If you have questions, comments or complaints regarding this Online Policy, contact us at 1-888-717-9248.   
   
 ---  
   
-[](https://web.archive.org/consumer/tfs.portal?_nfpb=true&_pageLabel=pg_SpecialOffers)  
+[ ](https://web.archive.org/consumer/tfs.portal?_nfpb=true&_pageLabel=pg_FindVehicleProtectionPlan)  
   
 Web Application Page 
 
