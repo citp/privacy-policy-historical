@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the worldgolfchampionships.com privacy policy that was archived on 2009-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090202120452id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldgolfchampionships.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204173929id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>PGATOUR.com - PGATOUR.COM Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="http://i.cdn.turner.com/pgatour/.element/ssi/css/3.0/global/global.css">
-	<link rel="stylesheet" type="text/css" href="http://i.cdn.turner.com/pgatour/.element/ssi/css/3.0/global/r/main_r.css">		
+<link rel="stylesheet" type="text/css" href="http://i.cdn.turner.com/pgatour/.element/css/5.0/global/global.css">
+<link rel="stylesheet" type="text/css" href="http://i.cdn.turner.com/pgatour/.element/css/5.0/global/r/main_r.css">		
 	<link rel="stylesheet" type="text/css" href="http://i.cdn.turner.com/pgatour/.element/ssi/css/3.0/sect/r/privacy.css">
 	<script src="/.element/ssi/js/3.0/global/pgatour.js" type="text/javascript"></script>	
 	<script src="/.element/ssi/js/3.0/sect/company.js" type="text/javascript"></script>
@@ -13,7 +13,7 @@
 <div id="tourContainer">
 	<div id="tourContent">
 		<script language="Javascript">
-	var ts = 'Monday, 02-Feb-2009 07:04:54 EST';
+	var ts = 'Saturday, 04-Dec-2010 12:39:28 EST';
 	ts = ts.replace(/^[^0-9]*/,'').replace(/\:[^:]*$/,'').replace(/[^0-9a-zA-Z]/g,'').toUpperCase();
 	var mn = ts.substr(2,3);
 	switch(mn) {
@@ -38,9 +38,7 @@
 	global.today = global.now.toString().substr(0,8)+'0000'-0;
 
 </script>
-
-<!-- HEADER --><div id="tourHeaderSub">
-		 <div id="tour728Ad"><!-- ADSPACE: ros/top.728x90 --><div id="ad-408510" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+<div id="tour728Ad"><!-- ADSPACE: ros/top.728x90 --><div id="ad-408510" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
 
 
 
@@ -67,112 +65,197 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 
 
 </script></div></div>
-		<div id="tourHeadContainer">
-		<div id="tourLogo"><span class="AlphaTrans"><a href="/"><img src="/.element/img/3.0/global/pgatour_logo.png" width="82" height="104"></a></span></div>
-		<div id="tourLoginSearch">
-				<div id="tourLogin">
-			<script type="text/javascript">
-				// to chance link location edit these variables
-				var  xurl  = '?xurl=' + escape(location.href);
-				var signinLink = '<a id="signinLink" href="/member_services/login.html">';
-				var signoutLink = '<a id="signoutLink" href="http://audience.pgatour.com/services/pgatour/logout.do?xurl=' + escape(location.href) + '">';
-				var registerLink = '<a id="registerLink" href="/member_services/registration.html' + xurl + '">';
-				var updateLink= '<a id="updateLink" href="/member_services/update.html">';
-				// normal script vars
-				var htmlLogin = '';
-				var authid = Cookie.get('authid'); // authid is member services cookie
-				if (authid != null && authid != "") {
-					// user is signed on
-					var firstName = Cookie.get('firstName');
-					if (firstName != null && firstName != '') {
-						htmlLogin += signoutLink + firstName +' - Sign Out</a>|';
-					} else {
-						htmlLogin += signoutLink + 'Sign Out</a>|';
-					}
-					htmlLogin += updateLink + 'Update Account</a>';
+<!-- include /.element/ssi/global/5.0/header/nav_r.html -->
+<script type="text/javascript">
+function addsfHover(eleID) {
+
+	var sfEls = document.getElementById(eleID).getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		if (sfEls[i].className.match('tourSOSMain') || sfEls[i].className.match('tourSOSNavMain')){
+			sfEls[i].onmouseover=function() { this.className+=" sfhover"; }
+			sfEls[i].onmouseout=function() { this.className=this.className.replace(new RegExp(" sfhover\\b"), ""); }
+		}
+	}
+}
+sfHover = function() {
+	addsfHover("tourHeaderTopTours");
+	addsfHover("tourHeaderMainNav");
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+	
+</script>
+<!-- HEADER -->
+<div id="tourHeader">
+	<div id="tourHeaderTopNavCont">
+		<ul id="tourHeaderTopTours">
+			<!-- include /.element/ssi/global/5.0/header/nav_dd_s.html -->
+<li id="tourSOSSubChampsMain" class="tourSOSMain">
+	<ul id="tourSOSSubChampsSub" class="tourSOSSub">
+		<li><a href="/s/" class="tourSOSSubLogo"><img src="http://i.cdn.turner.com/pgatour/.element/img/5.0/global/nav/topChampsDDLogo.gif"></a></li>
+		<li><a href="/s/" class="tourSOSTextLink">Home</a></li>
+		<li><a href="/s/leaderboard/" class="tourSOSTextLink">Leaderboard</a></li>
+		<li><a href="/s/schedule/" class="tourSOSTextLink">Tournaments</a></li>
+		<!--li><a href="/s/players/" class="tourSOSTextLink">Players</a></li-->
+		<li><a href="/charlesschwabcup/" class="tourSOSTextLink">Charles Schwab Cup</a></li>
+	</ul>
+</li>
+<!-- end include -->
+			<!-- include /.element/ssi/global/5.0/header/nav_dd_h.html -->
+<li id="tourSOSSubNWTMain" class="tourSOSMain">
+	<ul id="tourSOSSubNWTSub" class="tourSOSSub">
+		<li><a href="/h/" class="tourSOSSubLogo"><img src="http://i.cdn.turner.com/pgatour/.element/img/5.0/global/nav/topNWTDDLogo.gif"></a></li>
+		<li><a href="/h/" class="tourSOSTextLink">Home</a></li>
+		<li><a href="/h/leaderboard/" class="tourSOSTextLink">Leaderboard</a></li>
+		<li><a href="/h/schedule/" class="tourSOSTextLink">Tournaments</a></li>
+		<!-- li><a href="/h/players/" class="tourSOSTextLink">Players</a></li -->
+		<li><a href="/h/stats/info/?109" class="tourSOSTextLink">The 25</a></li>
+	</ul>
+</li>
+<!-- end include -->
+		</ul>
+		<!-- include /.element/ssi/global/5.0/header/nav_top_global.html -->
+<ul id="tourHeaderGlobalNav">
+	<li><a href="/qschool/">Q-School</a></li>
+	<li><a href="/multimedia/wireless/">Mobile</a></li>
+	<li><a href="/tourlife/instruction/">Instruction</a></li>
+	<li><a href="/tourlife/travel/">Travel</a></li>
+	<li><a href="/FanZone/">FanZone</a></li>
+	<li><a href="http://shop.pgatour.com/">Shop</a></li>
+	<li><a href="http://together.pgatour.com" target="_blank">Charity</a></li>
+	<li><a href="http://www.pga.com" target="_blank">PGA.com</a></li>
+</ul>
+<!-- end include -->
+		<div class="tourClear"></div>
+	</div>
+	<div id="tourHeaderMainNavCont">
+		<div id="tourHeaderLogo"><a href="/"><img src="http://i.cdn.turner.com/pgatour/.element/img/5.0/global/nav/tourTempLogo.gif"></a></div>
+		<div id="tourHeaderTitle">
+			<a href="/"><img src="http://i.cdn.turner.com/pgatour/.element/img/5.0/global/nav/tourTitle.gif" class="tourHeaderLogoImg"></a>
+			<!-- include /.element/ssi/global/5.0/header/nav_login_search.html -->
+<div id="tourHeaderLoginSearch">
+	<div id="tourHeaderLogin">
+		<script type="text/javascript">
+			// to chance link location edit these variables
+			var  xurl  = '?xurl=' + escape(location.href);
+			var signinLink = '<a id="signinLink" href="/member_services/login.html">';
+			var signoutLink = '<a id="signoutLink" href="http://audience.pgatour.com/services/pgatour/logout.do?xurl=' + escape(location.href) + '">';
+			var registerLink = '<a id="registerLink" href="/member_services/registration.html' + xurl + '">';
+			var updateLink= '<a id="updateLink" href="/member_services/update.html">';
+			// normal script vars
+			var htmlLogin = '';
+			var authid = Cookie.get('authid'); // authid is member services cookie
+			if (authid != null && authid != "") {
+				// user is signed on
+				var firstName = Cookie.get('firstName');
+				if (firstName != null && firstName != '') {
+					htmlLogin += signoutLink + firstName +' - Log Out</a>&nbsp;|&nbsp;';
 				} else {
-					// user is not signed in
-					htmlLogin += signinLink + 'Sign On</a>|';
-					htmlLogin += registerLink + 'Register</a>';
+					htmlLogin += signoutLink + 'Log Out</a>&nbsp;|&nbsp;';
 				}
-				document.write(htmlLogin);
-			</script>
-		</div><!-- /tourLogin -->
-				<!-- SEARCH -->
-				<form style="tourSearhFrom" action="http://search.pgatour.com/pages/search.jsp" method="get" onsubmit="return validateSearchForm(this);">
-	<input name="query" value="" type="text" class="tourSearchQuery">
-	<input type="submit" class="tourSearchButton" value="SEARCH">
-</form><!-- /SEARCH -->		
+				htmlLogin += updateLink + 'Update Account</a>';
+			} else {
+				// user is not signed in
+				htmlLogin += signinLink + 'Login</a>&nbsp;|&nbsp;';
+				htmlLogin += registerLink + 'Register</a>';
+			}
+			document.write(htmlLogin);
+		</script>
+	</div><!-- /tourHeaderLogin -->
+	<!-- SEARCH -->
+	<form id="tourHeaderSearhFrom" action="/search/" method="get"><input name="text" value="" type="text" class="tourHeaderSearchQuery"><input type="image" src="http://i.cdn.turner.com/pgatour/.element/img/1.gif" class="tourHeaderSearchButton" value="SEARCH"></form>
+	<!-- /SEARCH -->
+	<div class="tourClear"></div>
+</div>
+<!-- end include -->
 		</div>
-<!-- THESE STYLES ARE A TEMPORARY MEASURE UNTIL THE SHOTTRACKER OVERLAY IS COMPLETE - ah -->
-	<link rel="stylesheet" type="text/css" href="/.element/css/3.0/global/r/nav_r.css">
-	
-<div id="tourTopNavContainer">
-<!-- NAVIGATION --><div id="tourTopNav">
-<div id="tourMainNav">
-	<div class="tourSectLinks">
-	<a id="tourSectLink1" class="tourSectLinksItem Navactive" href="/" alt="PGA Tour"><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/r/nav_tour_on.gif"></a>
-	<a id="tourSectLink2" class="tourSectLinksItem" href="/s/" alt="Champions Tour"><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/r/nav_champ_off.gif"></a>
-	<a id="tourSectLink3" class="tourSectLinksItem" href="/h/" alt="Nationwide Tour"><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/r/nav_nation_off.gif"></a>
-	</div>
-	<div class="tourTopNavOtherLinks">
-		<a class="tourTopNavOtherLinksItem" href="/tourlife/instruction/" alt="Instruction">Instruction</a>
-		<a class="tourTopNavOtherLinksItem" href="/tourlife/travel/" alt="Travel">Travel</a>
-		<a class="tourTopNavOtherLinksItem" href="/multimedia/wireless/" alt="Mobile">Mobile</a>
-		<a class="tourTopNavOtherLinksItem" href="http://shop.PGATOUR.com/" alt="Shop">Shop</a>
-		<a class="tourTopNavOtherLinksItem" href="/company/" alt="Press Room">Press Room</a>
-		<a class="tourTopNavOtherLinksItem tourTopNavLast" href="http://www.pga.com" alt="PGA Tour">PGA.com</a>
-	</div>
+		<div id="tourHeaderMainNav">
+			<ul>
+				<li class="tourMainNavLinks tourSOSNavMain"> <!-- only showed when double LBs -->
+					<a id="tourMainNavLeaderBoardDD">LEADERBOARD</a>
+					<div id="tourMainNavLeaderBoardDDList" class="tourSOSNavSub">
+	<ul>
+		<li class="firstLI"><a href="/qschool/leaderboard/">Q-School</a></li>
+		<li class="secondLI"><a href="/leaderboards/current/r478/">Chevron World Challenge</a></li>
+	</ul>
 </div>
-<div class="tourTopNavBotCont">
-<div class="tourTopNavBottom">
-	<div id="tourSectBotLinks" class="tourSectBotLinks">
-		<div id="tourSectSubLink1" class="tourSectSubLinks1 show">
-			<a id="tourSectBotLinksItem1" class="tourSectBotLinksItem" href="/r/leaderboard/" alt="PGA Tour Live Scoring">LEADERBOARD</a><!-- #include virtual="/.element/ssi/global/3.0/header/nav_r_stoverlay.html"-->
-			<a id="tourSectBotLinksItem2" class="tourSectBotLinksItem" href="/shottracker/home.html" alt="PGA Tour Tournaments">SHOT TRACKER</a>
-			<a id="tourSectBotLinksItem3" class="tourSectBotLinksItem" href="/r/schedule/" alt="PGA Tour Tournaments">TOURNAMENTS</a>
-			<a id="tourSectBotLinksItem4" class="tourSectBotLinksItem" href="/r/players/" alt="PGA Tour Players">PLAYERS</a>
-			<a id="tourSectBotLinksItem5" class="tourSectBotLinksItem" href="/video/" alt="Video">VIDEO</a>	
-			<a id="tourSectBotLinksItem6" class="tourSectBotLinksItem" href="/story/archive/r/" alt="PGA Tour News">NEWS</a>
-			<a id="tourSectBotLinksItem7" class="tourSectBotLinksItem" href="/r/stats/" alt="PGA TOUR Stats">STATS</a>		
-			<a id="tourSectBotLinksItem8" class="tourSectBotLinksItem" href="/fantasy/" alt="Fantasy">FANTASY</a>
-			<a id="tourSectBotLinksItem9" class="tourSectBotLinksItem" href="/fedexcup/" alt="FEDEXCUP">FEDEXCUP <img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/nav_fedexcup.gif" class="tourSpecialNavImg1"></a>
-			<a id="tourSectBotLinksItem10" class="tourSectBotLinksItem" href="/tournaments/r011/" alt="THE PLAYERS Championship"><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/players_navimg2.gif" class="tourSpecialNavImg"></a>
-	</div>
-	
-	<div id="tourSectSubLink2" class="tourSectSubLinks1 hide">
-		<div class="tourSectSubChamp">
-			<a id="tourSectBotLinksItem1" class="tourSectBotLinksItem" href="/s/leaderboard/" alt="Champions Tour Live Scoring">LIVE SCORING</a>
-			<a id="tourSectBotLinksItem2" class="tourSectBotLinksItem" href="/s/schedule/" alt="Champions Tour Tournaments">SCHEDULE</a>
-			<a id="tourSectBotLinksItem3" class="tourSectBotLinksItem" href="/s/players/" alt="Champions Tour Players">PLAYERS</a>
-			<a id="tourSectBotLinksItem5" class="tourSectBotLinksItem" href="/video/?/video/champions-tour" alt="Video">VIDEO</a>	
-			<a id="tourSectBotLinksItem4" class="tourSectBotLinksItem" href="/news/" alt="Champions Tour News">NEWS</a>
-			<a id="tourSectBotLinksItem5" class="tourSectBotLinksItem" href="/s/stats/" alt="Champions Tour Stats">STATISTICS</a>
-			<a id="tourSectBotLinksItem7" class="tourSectBotLinksItem" href="/charlesschwabcup/" alt="Charles Schwab Cup">CHARLES SCHWAB CUP <img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/sm_schwab.gif" class="tourSpecialNavImg"></a>
+<style type="text/css">
+	/* Toggle Nav Links */
+	/* Only one of these should be display:none'ed */
+
+	 /* Hides single LB Link, enabling Drop Down*/
+	 #tourMainNavLeaderBoard { display:none; }
+	 
+	 /* Hides Dual LB Link Disabling Drop down */
+	/*#tourMainNavLeaderBoardDD { display:none; }*/
+</style>
+				</li>
+				<!-- Single LB -->
+				<li class="tourMainNavLinks"><a href="/r/leaderboard/" id="tourMainNavLeaderBoard" class="">LEADERBOARD</a></li>
+				<!--<li class="tourMainNavLinks"><a href="http://www.pga.com/pgachampionship/2010/scoring/" id="tourMainNavLeaderBoard" class="" target="_blank">LEADERBOARD</a></li>-->
+				<li class="tourMainNavLinks"><a href="/shottracker/" id="tourMainNavShotTracker" class="">SHOTTRACKER</a>
+					<!--div id="tourMainNavVideoDDList" class="tourSOSNavSub">
+						<ul>
+							<li class="firstLI"><a href="/shottracker/current/pb_main_bridgestone.html/current/r476/current/current/">BRIDGESTONE INV.</a></li>
+							<li class="secondLI"><a href="/shottracker/current/pb_main.html#/current/r481/current/">TURNING STONE</a></li>
+						</ul>
+					</div-->
+				</li>
+				<li class="tourMainNavLinks"><a href="/r/schedule/" id="tourMainNavTournaments" class="">TOURNAMENTS</a></li>
+				<li class="tourMainNavLinks"><a href="/r/players/" id="tourMainNavPlayers">PLAYERS</a></li>
+				<li class="tourMainNavLinks">
+					<!--<a href="/video/" id="tourMainNavVideo" class="">VIDEO</a>-->
+          <a href="/video/" id="tourMainNavVideo" class="">VIDEO</a>
+					<!--div id="tourMainNavVideoDDList" class="tourSOSNavSub">
+						<ul>
+							<li class="firstLI"><a href="/video/">Video</a></li>
+							<li class="secondLI"><a href="/livegolf/">Live Video</a></li>
+						</ul>
+					</div-->
+				</li>
+				<li class="tourMainNavLinks"><a href="/story/archive/r/?q=all" id="tourMainNavNews" class="">NEWS</a></li>
+				<li class="tourMainNavLinks"><a href="/r/stats/" id="tourMainNavStats" class="">STATS</a></li>
+				<li class="tourMainNavLinks"><a href="/fantasy/" id="tourMainNavFantasy" class="">FANTASY</a></li>
+				<li class="tourMainNavLinks"><a href="/fedexcup/" id="tourMainNavFedExCup" class="">FEDEXCUP</a></li>
+				<li class="tourMainNavLinks"><a href="/tournaments/r011/" id="tourMainNavThePlayers" class="">THE PLAYERS</a></li>
+				<li class="tourMainNavLinks"><a href="/tournaments/presidentscup/" id="tourMainNavPresientsCup" class="">PRESIDENTS CUP</a></li>
+				<li class="tourMainNavLinks"><a href="/" id="tourMainNavQSchool" class="">QSCHOOL</a></li>
+				<li class="tourMainNavLinks"><a href="/tournaments/r060/" id="tourMainNavTourChamp" class="">THE TOUR CHAMPIONSHIP</a></li>
+			</ul>
 		</div>
 	</div>
-		
-	<div id="tourSectSubLink3" class="tourSectSubLinks1 hide">
-		<div class="tourSectSubNation">
-			<a id="tourSectBotLinksItem1" class="tourSectBotLinksItem" href="/h/leaderboard/" alt="Nationwide Tour Live Scoring">LIVE SCORING</a>
-			<a id="tourSectBotLinksItem2" class="tourSectBotLinksItem" href="/h/schedule/" alt="Nationwide Tour Tournaments">SCHEDULE</a>
-			<a id="tourSectBotLinksItem3" class="tourSectBotLinksItem" href="/h/players/" alt="Nationwide Tour Players">PLAYERS</a>
-			<a id="tourSectBotLinksItem4" class="tourSectBotLinksItem" href="/video/?/video/nationwide-tour" alt="Video">VIDEO</a>	
-			<a id="tourSectBotLinksItem5" class="tourSectBotLinksItem" href="/news/" alt="Nationwide Tour News">NEWS</a>
-			<a id="tourSectBotLinksItem6" class="tourSectBotLinksItem" href="/h/stats/" alt="Nationwide Tour Stats">STATISTICS</a>
-			<a id="tourSectBotLinksItem7" class="tourSectBotLinksItem" href="/h/stats/" alt="THE 25">THE 25</a>
-		</div>
-	</div>
-	<div id="tourTopNavFeedback"><a href="/member_services/feedback.html">&nbsp; &nbsp;FEEDBACK</a></div>
+	<div class="tourClear"></div>
 </div>
-</div>
-</div>
-<div class="tourClear"></div>
-</div><!-- /NAVIGATION -->		
-</div>
-</div>
-<div class="tourClear"></div>	
-	</div><!-- /HEADER -->	
+<script type="text/javascript">
+function highlightCurrentPage() {
+	var sfEls = document.getElementById('tourHeaderMainNav').getElementsByTagName("A");
+    var regex = new RegExp('^/[rsh]/.*/?');
+	testPath = window.location.pathname.match(regex);
+
+    if (!testPath || testPath == '/r/') {
+		// exceptions
+		if (window.location.pathname.match('^/video/.*/?')) { $('tourMainNavVideo').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/shottracker/.*/?')) { $('tourMainNavShotTracker').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/story/.*/?')) { $('tourMainNavNews').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/fantasy/.*/?')) { $('tourMainNavFantasy').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/fedexcup/.*/?')) { $('tourMainNavFedExCup').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/tournaments/r011/.*/?')) { $('tourMainNavThePlayers').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/tournaments/r060/.*/?')) { $('tourMainNavTourChamp').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/tournaments/.*/?')) { $('tourMainNavTournaments').className += ' tourCurrentPage'; return; }
+		if (window.location.pathname.match('^/players/.*/?')) { $('tourMainNavPlayers').className += ' tourCurrentPage'; return; }
+	}
+    else {
+        for (var i=0; i<sfEls.length; i++) {
+            if (testPath && sfEls[i].href.match(testPath)){
+                sfEls[i].className +=' tourCurrentPage';
+            }
+        }
+    }
+}
+highlightCurrentPage();
+</script>
+<!-- end /.element/ssi/global/5.0/header/nav_r.html -->
+
+
 		<div class="tourClear"></div>
 		<div id="tourFullContent">
 <div class="tourAboutUs">
@@ -244,18 +327,19 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 		<div class="tourPrivacyLeft">Throughout the Site you may be presented with an opportunity to receive special offers from third parties. Opt-in or opt-out messages will ask you if you would like your information to be shared. If you do choose to have your information shared, your information will be subject to the privacy policy of such third parties. We are not responsible for the privacy practices of these other companies and, therefore, you should review the privacy practices of such companies prior to providing your personally identifiable information.</div>
 
 		<h3>Third-Party Ad Serving &amp; Audience and Traffic Measurement Services</h3>
-		<div class="tourPrivacyLeft">The Site may use third party network advertisers to serve the advertisements on the Site and may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services you might be interested in. Although advertisers and other companies do not have access to your cookies as provided by the Site, the Site's third party network advertisers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set for purposes including but not limited to targeting advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding how useful certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies are governed by each third party's specific privacy policy, not this one. Please visit: <a target="_blank" href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. Below is a representative list of such third parties and a link to their privacy notices:</div>
-		<ul class="tourCorporateUL">
-			<li>Atlas DMT: <a target="_blank" href="http://www.networkadvertising.org">http://www.networkadvertising.org</a> or <a target="_blank" href="http://www.atlasdmt.com/privacy/">http://www.atlasdmt.com/privacy/</a></li>
-			<li><a href="http://www.bluestreak.com/privacy/privacy.asp">Bluestreak</a></li>
-			<li><a href="http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp">DoubleClick</a></li>
-			<li><a href="http://www.eyebalster.com/website/privacy_policy_down.htm">Eyeblaster</a></li>
-			<li><a href="http://www.eyewonder.com/about/privacy.cfm">EyeWonder</a></li>
-			<li><a href="http://www.dynamiclogic.com/privacy_policy.php">Dynamic Logic</a></li>
-			<li><a href="http://www.klipmar.com/privacy.html">Klipmart</a></li>
-			<li><a href="http://www.intelliquest.com/privacy/intro.asp">Millward Brown IntelliQuest</a></li>
-			<li><a href="http://www.unicast.com/company/privacy.asp">Unicast</a></li>
-		</ul>
+		<div class="tourPrivacyLeft">The Site may use third party network advertisers to serve the advertisements on the Site and may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services you might be interested in. Although advertisers and other companies do not have access to your cookies as provided by the Site, the Site's third party network advertisers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set for purposes including but not limited to targeting advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding how useful certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies are governed by each third party's specific privacy policy, not this one. Please visit: <a target="_blank" href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. Below is a representative list of such third parties and a link to their privacy notices:<br><br>
+			<ul class="tourCorporateUL">
+				<li>Atlas DMT: <a target="_blank" href="http://www.networkadvertising.org">http://www.networkadvertising.org</a> or <a target="_blank" href="http://www.atlasdmt.com/privacy/">http://www.atlasdmt.com/privacy/</a></li>
+				<li><a href="http://www.bluestreak.com/privacy-policy.aspx">Bluestreak</a></li>
+				<li><a href="http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp">DoubleClick</a></li>
+				<li><a href="http://www.eyebalster.com/website/privacy_policy_down.htm">Eyeblaster</a></li>
+				<li><a href="http://www.eyewonder.com/about/privacy.cfm">EyeWonder</a></li>
+				<li><a href="http://www.dynamiclogic.com/privacy_policy.php">Dynamic Logic</a></li>
+				<li><a href="http://www.klipmar.com/privacy.html">Klipmart</a></li>
+				<li><a href="http://www.intelliquest.com/privacy/intro.asp">Millward Brown IntelliQuest</a></li>
+				<li><a href="http://www.unicast.com/privacy-policy.aspx">Unicast</a></li>
+			</ul>
+		</div>
 
 		<h3>Our Subsidiaries and Affiliates</h3>
 		<div class="tourPrivacyLeft">We may share your information (including, without limitation, personally identifiable information) with our subsidiaries and affiliates.</div>
@@ -301,14 +385,20 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 			<div class="tourPodFooter"></div>
 			<div id="tourSponsoredLinksContainer" style="position:relative; display: none;">
 	<div id="tourSponsoredLinksSub">
-		<iframe id="tourSponosredLinksIframe" src="/.element/ssi/global/3.0/footer/spons_links_iframe.html?https%3A//web.archive.org/web/20090202120452id_/http%253A//www.pgatour.com/company/privacy.html" scrolling="no" frameborder="0" style="overflow: visible; width: 670px; height:150px; display: block;" hspace="0" vspace="0" marginheight="0" marginwidth="0"></iframe>
+		<iframe id="tourSponosredLinksIframe" src="/.element/ssi/global/3.0/footer/spons_links_iframe.html?https%3A//web.archive.org/web/20101204173929id_/http%253A//www.pgatour.com/company/privacy.html" scrolling="no" frameborder="0" style="overflow: visible; width: 670px; height:155px; display: block;" hspace="0" vspace="0" marginheight="0" marginwidth="0"></iframe>
 		<script type="text/javascript">
-			var url = '/.element/ssi/global/3.0/footer/spons_links_iframe.html?' + escape(location.href);
+			var prescupRegEx = /presidentscup/i;
+			var locationHref = location.href;
+			if (prescupRegEx.test(locationHref)) {
+				locationHref = locationHref.replace(prescupRegEx,'r500');
+			}
+			var url = '/.element/ssi/global/3.0/footer/spons_links_iframe.html?' + escape(locationHref);
 			document.getElementById('tourSponosredLinksIframe').src = url;
 		</script>
 	</div>
 </div>
 <div style="position:relative; padding-top: 10px;"></div>
+
 		</div>
 		<div id="tourFullRight">
 			<div id="tourPageNavCo">
@@ -319,13 +409,13 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 			<ul>
 				<li id="tourPageCorporateLi0"><a href="/company/about_us.html">About PGA TOUR</a></li>
 				<li id="tourPageCorporateLi1"><a href="/company/executive_bios.html">Commissioner's Office</a></li>
-				<li id="tourPageCorporateLi2"><a href="/company/productions.html">PGA TOUR Productions</a></li>
+				<li id="tourPageCorporateLi2"><a href="/company/productions.html">PGA TOUR Entertainment</a></li>
 				<li id="tourPageCorporateLi3"><a href="http://www.tpc.com" target="_blank">Tournament Players Clubs</a></li>
 				<li id="tourPageCorporateLi4"><a href="/tournaments/tickets/">Tournament Tickets</a></li>
 				<li id="tourPageCorporateLi5"><a href="/company/online_staff.html">Online Staff</a></li>
 				<li id="tourPageCorporateLi6"><a href="/company/giving.html">TOUR Charities</a></li>
 				<li id="tourPageCorporateLi7"><a href="/company/benevolent.html">Volunteer</a></li>
-				<li id="tourPageCorporateLi8"><a href="http://careers.vurvexpress.com/default.cfm?szWID=10455&amp;szCID=47049&amp;szSiteID=218&amp;rss=0" target="_blank">Career Opportunities</a></li>
+				<li id="tourPageCorporateLi8"><a href="https://tbe.taleo.net/NA6/ats/careers/jobSearch.jsp?org=PGATOUR&amp;cws=1" target="_blank">Career Opportunities</a></li>
 				<li id="tourPageCorporateLi9"><a href="/company/internships.html">Internships</a></li>
 				<li id="tourPageCorporateLi10"><a href="/company/employment_policy.html">Employment Policies</a></li>
 				<li id="tourPageCorporateLi11"><a href="/company/contactus.html">Contact Us</a></li>
@@ -335,7 +425,7 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 </div>
 			<div id="tourPageNavCo">
 	<div id="tourPageNavName">
-	<span>PGATour.com</span>
+	<span>PGATOUR.COM</span>
 	</div>
 	<div id="tourPageNavList" class="tourRightTourDotCom">
 		<div class="tourPageNavCompany">
@@ -357,8 +447,8 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 			<ul>
 				<li id="15"><a href="http://www.wgv.com/" target="_blank">World Golf Hall of Fame</a></li>
 				<li id="16"><a href="http://www.thefirsttee.org/Club/Scripts/Home/home.asp" target="_blank">The First Tee</a></li>
-				<li id="17"><a href="http://visitors.partnersclubonline.com/?promotion=9P02FOOT&amp;siteid=001" target="_blank">PGA TOUR Partners Club</a></li>
-				<li id="18"><a href="http://birdiesforthebrave.org/" target="_blank">Birdies for the Brave</a></li>
+<!--				<li id="17"><a href="http://visitors.partnersclubonline.com/?promotion=9P02FOOT&siteid=001" target="_blank">PGA TOUR Partners Club</a></li>
+-->				<li id="18"><a href="http://birdiesforthebrave.org/" target="_blank">Birdies for the Brave</a></li>
 				<li id="19"><a href="http://www.pgatourwives.org/" target="_blank">PGA TOUR Wives</a></li>
 			</ul>
 		</div>
@@ -372,7 +462,7 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 		<div class="tourPageNavCompany">
 			<ul>
 				<li id="tourPageCorporateLi19"><a href="/company/">Press Releases</a></li>
-				<li id="tourPageCorporateLi20"><a href="/multimedia/audio/pgatournetwork/">PGA TOUR Network on XM Satellite Radio</a></li>
+				<li id="tourPageCorporateLi20"><a href="/multimedia/audio/pgatournetwork/">PGA TOUR Network on SIRIUS-XM</a></li>
 				<li id="tourPageCorporateLi22"><a href="/tv-times/">TV Times</a></li>
 				<li id="tourPageCorporateLi23"><a href="/multimedia/wireless/">Wireless</a></li>
 				<li id="tourPageCorporateLi24"><a href="/member_services/newsletter.html">Newsletters</a></li>
@@ -393,7 +483,7 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 				<li id="tourPageCorporateLi27"><a href="/company/marketing_title_sponsor.html">Title Sponsors</a></li>
 				<li id="tourPageCorporateLi28"><a href="/company/marketing_official_marketing_partnership.html">Official Marketing Partners</a></li>
 				<li id="tourPageCorporateLi29"><a href="/company/partners.html">Corporate Partners</a></li>
-				<li id="tourPageCorporateLi30"><a href="/company/marketing_retail.html">Licensees</a></li>
+				<li id="tourPageCorporateLi30"><a href="/company/retail-licensees/index.html">Licensees</a></li>
 				<li id="tourPageCorporateLi31"><a href="/company/licensees.html">Retail Licensing</a></li>
 			</ul>
 		</div>
@@ -404,16 +494,16 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 
 			<div id="tourPageNavCo">
 	<div id="tourPageNavName">
-	<span>Tour Events</span>
+	<span>TOUR Events</span>
 	</div>
 	<div id="tourPageNavList" class="tourRightEvents">
 		<div class="tourPageNavCompany">
 			<ul>
-				<li id="tourPageCorporateLi32"><a href="/playoffs/">PGA Tour Playoffs for the FedExCup</a></li>
-				<li id="tourPageCorporateLi33"><a href="/tournaments/r011/">The PLAYERS Championship</a></li>
+				<li id="tourPageCorporateLi32"><a href="/playoffs/">PGA TOUR Playoffs for the FedExCup</a></li>
+				<li id="tourPageCorporateLi33"><a href="/tournaments/r011/">THE PLAYERS Championship</a></li>
 				<li id="tourPageCorporateLi34"><a href="http://www.worldgolfchampionships.com/" target="_blank">World Golf Championships</a></li>
 				<li id="tourPageCorporateLi35"><a href="/tournaments/presidentscup/">Presidents Cup</a></li>
-				<li id="tourPageCorporateLi36"><a href="/qschool/">Qualifying School</a></li>
+				<li id="tourPageCorporateLi36"><a href="/qschool/">Q-School</a></li>
 			</ul>
 		</div>
 	</div>
@@ -431,74 +521,77 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 		<ul>
 			<li><a href="/company/about_us.html">About PGA TOUR</a></li>
 			<li><a href="/company/executive_bios.html">Commissioner's Office</a></li>
-			<li><a href="/company/productions.html">PGA TOUR Productions</a></li>
+			<li><a href="http://pgatourentertainment.com/" target="_blank">PGA TOUR Entertainment</a></li>
 			<li><a href="http://www.tpc.com/">Tournament Players Clubs</a></li>
 			<li><a href="/tournaments/tickets/">Tournament Tickets</a></li>
-			<li><a href="/company/online_staff.html">Online Staff</a></li>
+			<li><a href="/company/online_staff.html" rel="nofollow">Online Staff</a></li>
 			<li><a href="/company/giving.html">TOUR Charities</a></li>
 			<li><a href="/company/benevolent.html">Volunteer</a></li>
-			<li><a href="http://careers.vurvexpress.com/default.cfm?szWID=10455&amp;szCID=47049&amp;szSiteID=218&amp;rss=0" target="_blank">Career Opportunities</a></li>
+			<li id="tourPageCorporateLi8"><a href="https://tbe.taleo.net/NA6/ats/careers/jobSearch.jsp?org=PGATOUR&amp;cws=1" target="_blank">Career Opportunities</a></li>
 			<li><a href="/company/internships.html">Internships</a></li>
-			<li><a href="/company/employment_policy.html">Employment Policies</a></li>																		
-			<li><a href="/company/contactus.html">Contact Us</a></li>																				
+			<li><a href="/company/employment_policy.html" rel="nofollow">Employment Policies</a></li>
+			<li><a href="/company/contactus.html">Contact Us</a></li>
 		</ul>
 	</div>
 	<div class="tourFooterLinks">
 		<div class="tourFooterHeader">PGATOUR.COM</div>
 		<ul>
-			<li><a href="/widgets/">Widgets</a></li>
-			<li><a href="/company/tos.html">Terms of Service</a></li>	
-			<li><a href="/company/privacy.html">Privacy Policy</a></li>	
-			<li><a href="/member_services/feedback.html">Feedback</a></li>							
+			<!--<li><a href="/widgets/">Widgets</a></li>-->
+			<li><a href="/company/">Press Room</a></li>
+			<li><a href="/company/tos.html" rel="nofollow">Terms of Service</a></li>
+			<li><a href="/company/privacy.html" rel="nofollow">Privacy Policy</a></li>
+			<li><a href="/member_services/feedback.html" rel="nofollow">Feedback</a></li>
 			<li><a href="/company/contactus.html">Contact Us</a></li>
 		</ul>
-	</div>	
+	</div>
 	<div class="tourFooterLinks">
 		<div class="tourFooterHeader">Media Room</div>
 		<ul>
-			<li><a href="/company/">Press Releases</a></li>		
-			<li><a href="/multimedia/audio/pgatournetwork/">PGA TOUR Network on XM Satellite Radio</a></li>		
-			<li><a href="/tv-times/">TV Times</a></li>		
-			<li><a href="/multimedia/wireless/">Wireless</a></li>		
-			<li><a href="/member_services/newsletter.html">Newsletters</a></li>	
-			<li><a href="/multimedia/podcasts/">Podcasts</a></li>		
-			<li><a href="/company/media_guides.html">Media Guides</a></li>																										
+			<li><a href="/company/">Press Releases</a></li>
+			<li><a href="/multimedia/audio/pgatournetwork/">PGA TOUR Network on SIRIUS-XM</a></li>
+			<li><a href="/tv-times/">TV Times</a></li>
+			<li><a href="/multimedia/wireless/">Wireless</a></li>
+			<li><a href="/member_services/newsletter.html">Newsletters</a></li>
+			<li><a href="/multimedia/podcasts/">Podcasts</a></li>
+			<li><a href="/company/media_guides.html">Media Guides</a></li>
 		</ul>
 	</div>
 	<div class="tourFooterLinks">
 		<div class="tourFooterHeader">Sales and Marketing</div>
-		<ul>	
-			<li><a href="/company/marketing_online.html">Online Advertising and Promotion</a></li>	
-			<li><a href="/company/marketing_title_sponsor.html">Title Sponsors</a></li>			
-			<li><a href="/company/marketing_official_marketing_partnership.html">Official Marketing Partners</a></li>	
-			<li><a href="/company/partners.html">Corporate Partners</a></li>			
-			<li><a href="/company/marketing_retail.html">Licensees</a></li>							
-			<li><a href="/company/licensees.html">Retail Licensing</a></li>				
+		<ul>
+			<li><a href="http://tsed.turner.com/pga-tour" target="_blank">Online Advertising and Promotion</a></li>
+			<li><a href="/company/marketing_title_sponsor.html">Title Sponsors</a></li>
+			<li><a href="/company/marketing_official_marketing_partnership.html">Official Marketing Partners</a></li>
+			<li><a href="/company/partners.html">Corporate Partners</a></li>
+			<li><a href="/company/retail-licensees/index.html" rel="nofollow">Licensees</a></li>
+			<li><a href="/company/licensees.html" rel="nofollow">Retail Licensing</a></li>
 		</ul>
 	</div>
 	<div class="tourFooterLinks">
 		<div class="tourFooterHeader">Partners</div>
 		<ul>
-			<li><a href="http://www.wgv.com/">World Golf Hall of Fame</a></li>	
-			<li><a href="http://www.thefirsttee.org/Club/Scripts/Home/home.asp">The First Tee</a></li>	
-			<li><a href="http://visitors.partnersclubonline.com/?promotion=9P02FOOT&amp;siteid=001">PGA TOUR Partners Club</a></li>	
-			<li><a href="/birdiesforthebrave/">Birdies for the Brave</a></li>	
+			<li><a href="http://www.wgv.com/">World Golf Hall of Fame</a></li>
+			<li><a href="http://www.thefirsttee.org/Club/Scripts/Home/home.asp">The First Tee</a></li>
+<!--			<li><a href="http://visitors.partnersclubonline.com/?promotion=9P02FOOT&siteid=001">PGA TOUR Partners Club</a></li>
+-->			<li><a href="/birdiesforthebrave/">Birdies for the Brave</a></li>
 			<li><a href="http://www.pgatourwives.org/">PGA TOUR Wives</a></li>
-			<li><a href="/tournaments/r169/">Omega Mission Hills World Cup</a></li>			
-			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/CHI.gif" alt="" style="vertical-align:middle;"> <a href="http://golf.sina.com.cn">China Website</a></li>
-			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/JPN.gif" alt="" style="vertical-align:middle;"> <a href="http://www.golfdigest.co.jp/pgatour/default.asp">Japan Website</a></li>	
-			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/JPN.gif" alt="" style="vertical-align:middle;"> <a href="http://www.pgatourm.jp/">Japan Mobile</a></li>	
-			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/KOR.gif" alt="" style="vertical-align:middle;"> <a href="http://pgatour.sbsgolf.com/">South Korean Website</a></li>												
-		</ul>	
-	</div>	
+			<li><a href="/tournaments/r169/">Omega Mission Hills World Cup</a></li>
+			<li><a href="http://www.worldgolffoundation.org/">World Golf Foundation</a></li>
+			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/CHI.gif" alt="" style="vertical-align:middle;"> <a href="http://golf.sina.com.cn">China: Official Site</a></li>
+			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/CHI.gif" alt="" style="vertical-align:middle;"> <a href="http://www.golfbox.cn/">China: Partner Site</a></li>
+			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/JPN.gif" alt="" style="vertical-align:middle;"> <a href="http://www.golfdigest.co.jp/pgatour/default.asp">Japan: Official Site</a></li>
+			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/JPN.gif" alt="" style="vertical-align:middle;"> <a href="http://www.pgatourm.jp/">Japan: Official Mobile Site</a></li>
+			<li><img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/icons/flags/KOR.gif" alt="" style="vertical-align:middle;"> <a href="http://pgatour.sbsgolf.com/">South Korea: Official Site</a></li>
+		</ul>
+	</div>
 	<div class="tourClear"></div>
-	<div class="tourFooterCopyright">© 1995-2008 PGA TOUR, Inc. | Turner Sports Interactive, Inc. All Rights Reserved. PGA TOUR, Champions Tour, Nationwide Tour and the swinging golfer logo are registered trademarks.
+	<div class="tourFooterCopyright">© 1995-2010 PGA TOUR, Inc. | Turner Sports Interactive, Inc. All Rights Reserved. PGA TOUR, Champions Tour, Nationwide Tour and the swinging golfer logo are registered trademarks.
 	<div class="tourClear"></div>
-<img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/hp-turnerfooter.gif" style="vertical-align:bottom;_vertical-align:top;padding-top:3px;_padding-top:0px;" alt="Turner">PGATOUR.com is part of the Turner Sports and Entertainment Digital Network</div>
+<img src="http://i.cdn.turner.com/pgatour/.element/img/3.0/global/hp-turnerfooter.gif" style="vertical-align:bottom;_vertical-align:top;padding-top:3px;_padding-top:0px;" alt="Turner"> PGATOUR.com is part of Turner - SI Digital, part of the Turner Sports &amp; Entertainment Digital Network </div>
 </div>
 
 <!-- #include virtual="/.element/ssi/js/3.0/global/omniture/pageInclude.txt"-->
-<script language="JavaScript" src="/.element/ssi/js/1.0/omniture/s_code.js"></script><img name="s_i_turnerpgatourcom" height="1" width="1" border="0" alt="" src="https://metrics.pgatour.com/b/ss/turnerpgatourcom/1/H.9-pdvu-2/s87989511308203?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A34%3A41%205%200&amp;vmt=45C78F7B&amp;ns=turnersports&amp;pageName=pgatour%3Aweb%3A20090202120452id_%3Ahttp%253A%3A%3Awww.pgatour.com%3Acompany%3Aprivacy.html&amp;g=https%3A//web.archive.org/web/20090202120452id_/http%253A//www.pgatour.com/company/privacy.html&amp;server=web.archive.org&amp;c14=Casual&amp;c22=No%20Highlighted%20Players&amp;c24=Non%20TOURCast%20User&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/.element/ssi/js/1.0/omniture/s_code.js"></script><img name="s_i_turnerpgatourcom" height="1" width="1" border="0" alt="" src="https://metrics.pgatour.com/b/ss/turnerpgatourcom/1/H.9-pdvu-2/s85705065783794?[AQB]&amp;ndh=1&amp;t=31/0/2020%206%3A34%3A41%205%200&amp;vmt=45C78F7B&amp;ns=turnersports&amp;pageName=pgatour%3Aweb%3A20101204173929id_%3Ahttp%253A%3A%3Awww.pgatour.com%3Acompany%3Aprivacy.html&amp;g=https%3A//web.archive.org/web/20101204173929id_/http%253A//www.pgatour.com/company/privacy.html&amp;server=web.archive.org&amp;c14=Casual&amp;c22=No%20Highlighted%20Players&amp;c24=Non%20TOURCast%20User&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" src="/.element/ssi/js/1.0/omniture/omniture.js"></script>
 <script language="JavaScript"><!--
   // store all omniture related data in "s"
@@ -519,6 +612,12 @@ cnnad_createAd("408510","http://ads.pgatour.com/html.ng/site=pgatour&pgatour_pos
 
 <script src="http://i.cdn.turner.com/pgatour/.element/ssi/js/3.0/global/footer.arrow.js" type="text/javascript"></script>
 <script src="http://content.dl-rms.com/rms/mother/2521/nodetag.js"></script>
+
+<script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script>
+<script language="JavaScript" type="text/javascript">
+	//ADM
+	cnnad_sendADMData();
+</script>
 </div>
 
 </body></html>
