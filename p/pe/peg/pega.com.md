@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113140123id_/http%3A//www.pega.com/tools/privacysecurity/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204150143id_/http%3A//www.pega.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security » Business Process Management » Pegasystems Inc.
+# Privacy and Security | Pega.com
 
-#### Pegasystems is committed to protecting your privacy. 
+#### Pegasystems is committed to protecting your privacy.
 
-We are providing this Privacy and Security statement to inform you of our Privacy & Security policy and practices, and of the choices you can make about the way your information is collected online and how that information is used. We've structured our corporate Web site, www.pega.com, so that, in general, you can visit us on the Web without identifying yourself or revealing any personal information. Authentication is required, however, to enter Pegasystems' Support Network (for customers) and Partner Network (for our strategic business and technology partners). 
+We are providing this Privacy and Security statement to inform you of our Privacy & Security policy and practices, and of the choices you can make about the way your information is collected online and how that information is used. We've structured our corporate Web site, [www.pega.com](http://www.pega.com/ "www.pega.com"), so that, in general, you can visit us on the Web without identifying yourself or revealing any personal information. Authentication is required, however, to enter Pegasystems' Support Network (for customers) and Partner Network (for our strategic business and technology partners).
 
-This statement applies to www.pega.com as well as Pegasystems' Support Network and Partner Network sites; it does not apply to other offline Pegasystems sites, products or services. 
+This statement applies to [www.pega.com](http://www.pega.com/ "www.pega.com") as well as Pegasystems' Support Network and Partner Network sites; it does not apply to other offline Pegasystems sites, products or services.
 
 #### 1\. Links to Non-Pegasystems Web Sites
 
-Our Web sites may provide links to third-party Web sites for your convenience and information. If you access those links, you will leave the Pegasystems Web sites. Pegasystems does not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about third-party Web sites. The personal data you choose to give to unrelated third parties is not covered by the Pegasystems Privacy & Security statement. We encourage you to review the privacy policy of any company before submitting your personal information. 
+Our Web sites may provide links to third-party Web sites for your convenience and information. If you access those links, you will leave the Pegasystems Web sites. Pegasystems does not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about third-party Web sites. The personal data you choose to give to unrelated third parties is not covered by the Pegasystems Privacy & Security statement. We encourage you to review the privacy policy of any company before submitting your personal information.
 
 #### 2\. Types of Information We Collect
 
@@ -26,7 +26,7 @@ To personalize our Web sites, services or communications and improve our product
 
   * **Non-personal information** is data about usage and service operation that is not associated with a specific personal identity. Pegasystems collects and analyzes non-personal information to evaluate how visitors use the Pegasystems Web sites. 
 
-Non-personal data we collect may include the pages visited on the Pegasystems Web sites, unique URLs visited within www.pega.com, browser type and IP address. Most non-personal data is collected via cookies or other analysis technologies. Pegasystems' Web pages use cookies, Web beacons and other technologies for data analysis and personalization services. Pegasystems also places advertisements on other Web sites that may use cookies. 
+Non-personal data we collect may include the pages visited on the Pegasystems Web sites, unique URLs visited within [www.pega.com](http://www.pega.com/ "www.pega.com"), browser type and IP address. Most non-personal data is collected via cookies or other analysis technologies. Pegasystems' Web pages use cookies, Web beacons and other technologies for data analysis and personalization services. Pegasystems also places advertisements on other Web sites that may use cookies. 
 
 
 
@@ -35,7 +35,7 @@ Personal data collected online may also be combined with information you provide
 
 Personal data given to Pegasystems may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
 
-Non-personal data gathered from Pegasystems' Web sites is aggregated for reporting about usability, performance and effectiveness. It is used to improve the customer experience, usability and site content. 
+Non-personal data gathered from Pegasystems' Web sites is aggregated for reporting about usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
 
 #### 3\. Who We Share Your Information With
 
@@ -47,25 +47,18 @@ Pegasystems or its related entities could merge with or be acquired by another b
 
 #### 4\. Access to and Accuracy of Your Information
 
-Pegasystems strives to keep your personal information accurate. We have implemented technology, management processes and policies to help maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Pegasystems' Web sites may limit access to specific individuals through the use of passwords and other personal identifiers. 
-
-####  
+Pegasystems strives to keep your personal information accurate. We have implemented technology, management processes and policies to help maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Pegasystems' Web sites may limit access to specific individuals through the use of passwords and other personal identifiers.
 
 #### 5\. Keeping Your Information Secure
 
-Pegasystems is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to facilitate the appropriate use of the information, Pegasystems has in place appropriate physical and managerial procedures to safeguard the information we collect. 
+Pegasystems is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to facilitate the appropriate use of the information, Pegasystems has in place appropriate physical and managerial procedures to safeguard the information we collect.
 
 #### 6\. Changes to this Statement
 
 If there are updates to the terms of Pegasystems' online Privacy & Security statement, we will post those changes and update the revision date in this document, so you may know what information we collect online, how we use it, and what choices you have.  
 
-#### 7\. Contacting Us 
+#### 7\. Contacting Us
 
-We value your opinions. If you have comments or questions about our Privacy & Security policy, please send them to [info@pega.com](mailto:info@pega.com). 
+We value your opinions. If you have comments or questions about our Privacy & Security policy, please send them to [info@pega.com](mailto:info@pega.com).
 
 _Revision Date: July 24, 2003_
-
-**We Value Your Feedback** Questions about our Privacy & Security policy? Please submit your inquiries to [info@pega.com ](mailto:info@pega.com)
-
-**What's New**  
-Interested in Learning More? [Submit a Request](https://web.archive.org/ContactUs/ContactUs/ContactUs.asp) for more information.
