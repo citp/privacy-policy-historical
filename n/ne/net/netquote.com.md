@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526214626id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netquote.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204134240id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NetQuote
-
-  
-
 
 The following privacy statement discloses the privacy practices for NetQuote.  
 Last revised: _May 8, 2007_
@@ -50,7 +47,7 @@ NetQuote does not charge a fee to use our service.  NetQuote is paid a fee by t
 
 NetQuote collects the following personal information in each of our quote requests.  We pass this information on to your matching agents so they can generate accurate quotes for you.
 
-Auto | Home | Health  
+| Auto | Home | Health  
 ---|---|---  
 First and Last Name  | First and Last Name | First and Last Name  
 Postal Address | Postal Address | Postal Address  
@@ -175,6 +172,8 @@ Attn:  Email Marketing Department
 Denver, Colorado 80202
 
 
+
+
 **Agent communications**
 
 By submitting a quote request with NetQuote, insurance agents will contact you using the phone number and email address provided.  In order stop these communications, you must contact the agents directly and request that they stop contacting you. ****
@@ -210,6 +209,3 @@ By filling out the forms and providing information about yourself on this and th
 If you do not agree to the terms of this Privacy Notice and the Privacy Policy, then do not enter your information and do not continue with this process and do not provide your information to NetQuote, in which case NetQuote will not be able to have any quotes or information for insurance provided to you.
 
 
-
-**Share and Enjoy:**  
-[](http://digg.com/submit?phase=2&url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://sphinn.com/submit.php?url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://del.icio.us/post?url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://www.facebook.com/share.php?u=http://www.netquote.com/about/privacy-policy.aspx&t=Privacy%20Policy%20|%20NetQuote) [](http://www.mixx.com/submit?page_url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://www.linkedin.com/shareArticle?mini=true&url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](https://favorites.live.com/quickadd.aspx?marklet=1&url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://www.myspace.com/Modules/PostTo/Pages/?u=http://www.netquote.com/about/privacy-policy.aspx&t=Privacy%20Policy%20|%20NetQuote) [](http://www.stumbleupon.com/submit?url=http://www.netquote.com/about/privacy-policy.aspx&title=Privacy%20Policy%20|%20NetQuote) [](http://technorati.com/faves?add=http://www.netquote.com/about/privacy-policy.aspx) [](http://twitter.com/home?status=http://www.netquote.com/about/privacy-policy.aspx) [](http://buzz.yahoo.com/submit/?submitUrl=http://www.netquote.com/about/privacy-policy.aspx&submitHeadline=Privacy%20Policy%20|%20NetQuote&submitCategory=health)
