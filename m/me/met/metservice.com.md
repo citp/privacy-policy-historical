@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metservice.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605180013id_/http%3A//metservice.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metservice.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204120131id_/http%3A//metservice.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | metservice.com
 
