@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the affluence.org privacy policy that was archived on 2010-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100417042426id_/http%3A//affluence.org/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the affluence.org privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204230919id_/http%3A//www.affluence.org/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script>jqcc=jQuery.noConflict(true);</script>
 
@@ -26,13 +26,13 @@
   // Core
   SocialEngine.Core = new SocialEngineAPI.Core();
   SocialEngine.Core.ImportSettings({"setting_url":false,"setting_username":true});
-  SocialEngine.Core.ImportPlugins(["apps","forum","group","geo","newsfeedplus","scheduler","listing","business","radcodes","stock","twitter","imobile","news_headlines","AdvFetMem","businessvideo","businessfan","badge","poll","album","blog","event","emailer","video","referrals","news","googleAnalytics","article","gmap","invite","employment","education","phototagger","iforum","classified","page","plugin_controls"]);
+  SocialEngine.Core.ImportPlugins(["apps","forum","group","geo","newsfeedplus","scheduler","listing","business","radcodes","he_core","he_mass_mail","documentgroup","destination","he_wall","he_cooliris","openidconnect","semods_massmessage","blog","twitter","imobile","news_headlines","AdvFetMem","businessvideo","businessfan","poll","badge","album","stock","event","emailer","facebookpublisher","video","news","googleAnalytics","gmap","invite","employment","education","phototagger","iforum","classified","page","plugin_controls"]);
   SocialEngine.RegisterModule(SocialEngine.Core);
   
   // URL
   SocialEngine.URL = new SocialEngineAPI.URL();
   SocialEngine.URL.ImportURLBase('http://affluence.org/');
-  SocialEngine.URL.ImportURLInfo({"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"polls":{"url_file":"polls","url_regular":"polls.php?user=$user","url_subdirectory":"$user\/polls\/"},"poll":{"url_file":"poll","url_regular":"poll.php?user=$user&poll_id=$id1","url_subdirectory":"$user\/polls\/$id1\/"},"blog":{"url_file":"blog","url_regular":"blog.php?user=$user","url_subdirectory":"$user\/blog\/"},"blog_entry":{"url_file":"blog_entry","url_regular":"blog.php?user=$user&blogentry_id=$id1","url_subdirectory":"$user\/blog\/$id1\/"},"classifieds":{"url_file":"classifieds","url_regular":"classifieds.php?user=$user","url_subdirectory":"$user\/classifieds\/"},"classified":{"url_file":"classified","url_regular":"classified.php?user=$user&classified_id=$id1","url_subdirectory":"$user\/classifieds\/$id1\/"},"articles":{"url_file":"articles","url_regular":"articles.php?user=$user","url_subdirectory":"$user\/articles\/"},"article":{"url_file":"article","url_regular":"article.php?article_id=$id1","url_subdirectory":"article\/$id1\/$id2"},"semods_photo_search":{"url_file":"semods_photo_search","url_regular":"photo_search.php?user=$user&show=$id1","url_subdirectory":"$user"},"news":{"url_file":"news","url_regular":"news.php?user=$user","url_subdirectory":"$user\/news\/"},"news_entry":{"url_file":"news_entry","url_regular":"news_entry.php?user=$user&newsentry_id=$id1","url_subdirectory":"$user\/news\/$id1\/"},"page":{"url_file":"page","url_regular":"content.php?page=$user","url_subdirectory":"page\/view\/$user"},"app_canvas":{"url_file":"app_canvas","url_regular":"user_apps_canvas.php?id=$id1&app_tab_id=$id2","url_subdirectory":"user_apps_canvas.php?id=$id1&app_tab_id=$id2"},"app_page":{"url_file":"app_page","url_regular":"apppage.php?id=$id1","url_subdirectory":"apppage.php?id=$id1"},"app":{"url_file":"app","url_regular":"app.php?id=$id1","url_subdirectory":"application\/$id1\/"},"badge":{"url_file":"badge","url_regular":"badge.php?badge_id=$id1","url_subdirectory":"badge\/$id1\/"},"badgeassignment":{"url_file":"badgeassignment","url_regular":"badgeassignment.php?badgeassignment_id=$id1","url_subdirectory":"badgeassignment\/$id1\/"},"badgeusers":{"url_file":"badgeusers","url_regular":"badgeusers.php?type=$user&type_id=$id1","url_subdirectory":"badgeusers\/$user\/$id1\/"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"blog_trackback":{"url_file":"blog_trackback","url_regular":"blog_ajax.php?task=trackback&user=$user&blogentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"listings":{"url_file":"listings","url_regular":"listings.php?user=$user","url_subdirectory":"$user\/listings\/"},"listing":{"url_file":"listing","url_regular":"listing.php?user=$user&listing_id=$id1","url_subdirectory":"$user\/listings\/$id1\/"},"listingvote":{"url_file":"listingvote","url_regular":"listing.php?user=$user&listing_id=$id1&task=vote","url_subdirectory":"$user\/listings\/$id1\/vote"},"listingremovevote":{"url_file":"listingremovevote","url_regular":"listing.php?user=$user&listing_id=$id1&task=removevote","url_subdirectory":"$user\/listings\/$id1\/removevote"},"listingtag":{"url_file":"listingtag","url_regular":"browse_listings.php?tag=$user","url_subdirectory":"listings\/tag\/$user\/"},"listingsvoted":{"url_file":"listingsvoted","url_regular":"listings_voted.php?user=$user","url_subdirectory":"$user\/listings\/voted\/"},"listingcat":{"url_file":"listingcat","url_regular":"browse_listings.php?cat_id=$user","url_subdirectory":"listings\/category\/$user\/"},"business":{"url_file":"business","url_regular":"business.php?business_id=$id1","url_subdirectory":"business\/$id1\/$user\/"},"business_media":{"url_file":"business_media","url_regular":"business_album_file.php?business_id=$id1&businessmedia_id=$id2","url_subdirectory":"business\/$id1\/album\/$id2\/"},"business_category":{"url_file":"business_category","url_regular":"browse_businesses.php?businesscat_id=$id1","url_subdirectory":"businesses\/category\/$id1\/$user\/"},"business_tag":{"url_file":"business_tag","url_regular":"browse_businesses.php?tag=$id1","url_subdirectory":"businesses\/tag\/$id1\/"},"business_neighborhood":{"url_file":"business_neighborhood","url_regular":"browse_businesses.php?neighborhood=$id1","url_subdirectory":"businesses\/neighborhood\/$id1\/"},"business_country":{"url_file":"business_country","url_regular":"browse_businesses.php?type=location&country=$id1","url_subdirectory":"businesses\/location\/$id1\/"},"business_province":{"url_file":"business_province","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2","url_subdirectory":"businesses\/location\/$id1\/$id2\/"},"business_city":{"url_file":"business_city","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2&city=$id3","url_subdirectory":"businesses\/location\/$id1\/$id2\/$id3\/"},"stocks":{"url_file":"stocks","url_regular":"stocks.php?user=$user","url_subdirectory":"$user\/stocks\/"},"stock":{"url_file":"stock","url_regular":"stock.php?user=$user&stock_id=$id1","url_subdirectory":"$user\/stocks\/$id1\/"},"stockvote":{"url_file":"stockvote","url_regular":"stock.php?user=$user&stock_id=$id1&task=vote","url_subdirectory":"$user\/stocks\/$id1\/vote"},"stockremovevote":{"url_file":"stockremovevote","url_regular":"stock.php?user=$user&stock_id=$id1&task=removevote","url_subdirectory":"$user\/stocks\/$id1\/removevote"},"stocktag":{"url_file":"stocktag","url_regular":"browse_stocks.php?tag=$user","url_subdirectory":"stocks\/tag\/$user\/"},"stocksvoted":{"url_file":"stocksvoted","url_regular":"stocks_voted.php?user=$user","url_subdirectory":"$user\/stocks\/voted\/"},"stockcat":{"url_file":"stockcat","url_regular":"browse_stocks.php?cat_id=$user","url_subdirectory":"stocks\/category\/$user\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
+  SocialEngine.URL.ImportURLInfo({"albums":{"url_file":"albums","url_regular":"albums.php?user=$user","url_subdirectory":"$user\/albums\/"},"album":{"url_file":"album","url_regular":"album.php?user=$user&album_id=$id1","url_subdirectory":"$user\/albums\/$id1"},"album_file":{"url_file":"album_file","url_regular":"album_file.php?user=$user&album_id=$id1&media_id=$id2","url_subdirectory":"$user\/albums\/$id1\/$id2"},"polls":{"url_file":"polls","url_regular":"polls.php?user=$user","url_subdirectory":"$user\/polls\/"},"poll":{"url_file":"poll","url_regular":"poll.php?user=$user&poll_id=$id1","url_subdirectory":"$user\/polls\/$id1\/"},"blog":{"url_file":"blog","url_regular":"blog.php?user=$user","url_subdirectory":"$user\/blog\/"},"blog_entry":{"url_file":"blog_entry","url_regular":"blog.php?user=$user&blogentry_id=$id1","url_subdirectory":"$user\/blog\/$id1\/"},"classifieds":{"url_file":"classifieds","url_regular":"classifieds.php?user=$user","url_subdirectory":"$user\/classifieds\/"},"classified":{"url_file":"classified","url_regular":"classified.php?user=$user&classified_id=$id1","url_subdirectory":"$user\/classifieds\/$id1\/"},"articles":{"url_file":"articles","url_regular":"articles.php?user=$user","url_subdirectory":"$user\/articles\/"},"article":{"url_file":"article","url_regular":"article.php?article_id=$id1","url_subdirectory":"article\/$id1\/$id2"},"semods_photo_search":{"url_file":"semods_photo_search","url_regular":"photo_search.php?user=$user&show=$id1","url_subdirectory":"$user"},"news":{"url_file":"news","url_regular":"news.php?user=$user","url_subdirectory":"$user\/news\/"},"news_entry":{"url_file":"news_entry","url_regular":"news_entry.php?user=$user&newsentry_id=$id1","url_subdirectory":"$user\/news\/$id1\/"},"page":{"url_file":"page","url_regular":"content.php?page=$user","url_subdirectory":"page\/view\/$user"},"app_canvas":{"url_file":"app_canvas","url_regular":"user_apps_canvas.php?id=$id1&app_tab_id=$id2","url_subdirectory":"user_apps_canvas.php?id=$id1&app_tab_id=$id2"},"app_page":{"url_file":"app_page","url_regular":"apppage.php?id=$id1","url_subdirectory":"apppage.php?id=$id1"},"app":{"url_file":"app","url_regular":"app.php?id=$id1","url_subdirectory":"application\/$id1\/"},"badge":{"url_file":"badge","url_regular":"badge.php?badge_id=$id1","url_subdirectory":"badge\/$id1\/"},"badgeassignment":{"url_file":"badgeassignment","url_regular":"badgeassignment.php?badgeassignment_id=$id1","url_subdirectory":"badgeassignment\/$id1\/"},"badgeusers":{"url_file":"badgeusers","url_regular":"badgeusers.php?type=$user&type_id=$id1","url_subdirectory":"badgeusers\/$user\/$id1\/"},"group":{"url_file":"group","url_regular":"group.php?group_id=$id1","url_subdirectory":"group\/$id1\/"},"group_media":{"url_file":"group_media","url_regular":"group_album_file.php?group_id=$id1&groupmedia_id=$id2","url_subdirectory":"group\/$id1\/album\/$id2\/"},"group_discussion":{"url_file":"group_discussion","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2","url_subdirectory":"group\/$id1\/discussion\/$id2\/"},"group_discussion_post":{"url_file":"group_discussion_post","url_regular":"group_discussion_view.php?group_id=$id1&grouptopic_id=$id2&grouppost_id=$id3","url_subdirectory":"group\/$id1\/discussion\/$id2\/$id3\/"},"event":{"url_file":"event","url_regular":"event.php?event_id=$id1","url_subdirectory":"event\/$id1\/"},"event_media":{"url_file":"event_media","url_regular":"event_album_file.php?event_id=$id1&eventmedia_id=$id2","url_subdirectory":"event\/$id1\/album\/$id2\/"},"blog_trackback":{"url_file":"blog_trackback","url_regular":"blog_ajax.php?task=trackback&user=$user&blogentry_id=$id1","url_subdirectory":"$user\/trackback\/$id1\/"},"video":{"url_file":"video","url_regular":"video.php?user=$user&video_id=$id1","url_subdirectory":"$user\/videos\/$id1"},"listings":{"url_file":"listings","url_regular":"listings.php?user=$user","url_subdirectory":"$user\/listings\/"},"listing":{"url_file":"listing","url_regular":"listing.php?user=$user&listing_id=$id1","url_subdirectory":"$user\/listings\/$id1\/"},"listingvote":{"url_file":"listingvote","url_regular":"listing.php?user=$user&listing_id=$id1&task=vote","url_subdirectory":"$user\/listings\/$id1\/vote"},"listingremovevote":{"url_file":"listingremovevote","url_regular":"listing.php?user=$user&listing_id=$id1&task=removevote","url_subdirectory":"$user\/listings\/$id1\/removevote"},"listingtag":{"url_file":"listingtag","url_regular":"browse_listings.php?tag=$user","url_subdirectory":"listings\/tag\/$user\/"},"listingsvoted":{"url_file":"listingsvoted","url_regular":"listings_voted.php?user=$user","url_subdirectory":"$user\/listings\/voted\/"},"listingcat":{"url_file":"listingcat","url_regular":"browse_listings.php?cat_id=$user","url_subdirectory":"listings\/category\/$user\/"},"business":{"url_file":"business","url_regular":"business.php?business_id=$id1","url_subdirectory":"business\/$id1\/$user\/"},"business_media":{"url_file":"business_media","url_regular":"business_album_file.php?business_id=$id1&businessmedia_id=$id2","url_subdirectory":"business\/$id1\/album\/$id2\/"},"business_category":{"url_file":"business_category","url_regular":"browse_businesses.php?businesscat_id=$id1","url_subdirectory":"businesses\/category\/$id1\/$user\/"},"business_tag":{"url_file":"business_tag","url_regular":"browse_businesses.php?tag=$id1","url_subdirectory":"businesses\/tag\/$id1\/"},"business_neighborhood":{"url_file":"business_neighborhood","url_regular":"browse_businesses.php?neighborhood=$id1","url_subdirectory":"businesses\/neighborhood\/$id1\/"},"business_country":{"url_file":"business_country","url_regular":"browse_businesses.php?type=location&country=$id1","url_subdirectory":"businesses\/location\/$id1\/"},"business_province":{"url_file":"business_province","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2","url_subdirectory":"businesses\/location\/$id1\/$id2\/"},"business_city":{"url_file":"business_city","url_regular":"browse_businesses.php?type=location&country=$id1&province=$id2&city=$id3","url_subdirectory":"businesses\/location\/$id1\/$id2\/$id3\/"},"stocks":{"url_file":"stocks","url_regular":"stocks.php?user=$user","url_subdirectory":"$user\/stocks\/"},"stock":{"url_file":"stock","url_regular":"stock.php?user=$user&stock_id=$id1","url_subdirectory":"$user\/stocks\/$id1\/"},"stockvote":{"url_file":"stockvote","url_regular":"stock.php?user=$user&stock_id=$id1&task=vote","url_subdirectory":"$user\/stocks\/$id1\/vote"},"stockremovevote":{"url_file":"stockremovevote","url_regular":"stock.php?user=$user&stock_id=$id1&task=removevote","url_subdirectory":"$user\/stocks\/$id1\/removevote"},"stocktag":{"url_file":"stocktag","url_regular":"browse_stocks.php?tag=$user","url_subdirectory":"stocks\/tag\/$user\/"},"stocksvoted":{"url_file":"stocksvoted","url_regular":"stocks_voted.php?user=$user","url_subdirectory":"$user\/stocks\/voted\/"},"stockcat":{"url_file":"stockcat","url_regular":"browse_stocks.php?cat_id=$user","url_subdirectory":"stocks\/category\/$user\/"},"destination":{"url_file":"destination","url_regular":"destination.php?destination_id=$id1","url_subdirectory":"destination\/$id1\/$user\/"},"destination_media":{"url_file":"destination_media","url_regular":"destination_album_file.php?destination_id=$id1&destinationmedia_id=$id2","url_subdirectory":"destination\/$id1\/album\/$id2\/"},"destination_category":{"url_file":"destination_category","url_regular":"browse_destinations.php?destinationcat_id=$id1","url_subdirectory":"destinations\/category\/$id1\/$user\/"},"destination_tag":{"url_file":"destination_tag","url_regular":"browse_destinations.php?tag=$id1","url_subdirectory":"destinations\/tag\/$id1\/"},"destination_neighborhood":{"url_file":"destination_neighborhood","url_regular":"browse_destinations.php?neighborhood=$id1","url_subdirectory":"destinations\/neighborhood\/$id1\/"},"destination_country":{"url_file":"destination_country","url_regular":"browse_destinations.php?type=location&country=$id1","url_subdirectory":"destinations\/location\/$id1\/"},"destination_province":{"url_file":"destination_province","url_regular":"browse_destinations.php?type=location&country=$id1&province=$id2","url_subdirectory":"destinations\/location\/$id1\/$id2\/"},"destination_city":{"url_file":"destination_city","url_regular":"browse_destinations.php?type=location&country=$id1&province=$id2&city=$id3","url_subdirectory":"destinations\/location\/$id1\/$id2\/$id3\/"},"documentgroup":{"url_file":"documentgroup","url_regular":"documentgroup.php?user=$user&documentgroup_id=$id1&group_id=$id2&title=$id3","url_subdirectory":"$user\/documentgroups\/$id1\/$id2\/$id3\/"},"profile":{"url_regular":"profile.php?user=$user","url_subdirectory":"$user\/"}});
   SocialEngine.RegisterModule(SocialEngine.URL);
   
   // Language
@@ -196,9 +196,24 @@ var newsfeedplus_actionurl = "ajax_newsfeedplus.php";
 
 <link rel="stylesheet" href="./templates/styles_radcodes.css" title="stylesheet" type="text/css">  
 <script type="text/javascript" src="./include/js/radcodes.js"></script>
-<link rel="stylesheet" href="./templates/styles_stock.css" title="stylesheet" type="text/css">  
-<script type="text/javascript" src="./include/fckeditor/fckeditor.js"></script>
-<script type="text/javascript" src="./include/js/showhide.js"></script>
+<script type="text/javascript" src="./include/js/he_contacts.js"></script>
+<script type="text/javascript" src="./include/js/he_functions.js"></script>
+
+<link rel="stylesheet" href="./templates/he_styles.css" type="text/css">
+<link rel="stylesheet" href="./templates/styles_documentgroup.css" title="stylesheet" type="text/css">  
+<link rel="stylesheet" href="./templates/styles_destination.css" title="stylesheet" type="text/css">  
+
+
+<link rel="stylesheet" href="./templates/styles_openidconnect.css" title="stylesheet" type="text/css">  
+
+<script type="text/javascript" src="./include/js/semods.js"></script>
+
+<script type="text/javascript" src="./include/js/openidconnect.js"></script>
+
+
+<script type="text/javascript" src="./include/js/moofacebox/moofacebox.js"></script>
+<link rel="stylesheet" href="./include/js/moofacebox/moofacebox.css" title="stylesheet" type="text/css">  
+
 <script type="text/javascript" src="./include/js/twitter.js"></script>
 <script type="text/javascript" src="./include/js/twitter_jquery.js"></script>
 <script type="text/javascript">
@@ -239,6 +254,19 @@ SocialEngine.Language.Import({
 <link rel="stylesheet" href="./templates/styles_businessfan.css" title="stylesheet" type="text/css">  
 
 <link rel="stylesheet" href="./templates/styles_badge.css" title="stylesheet" type="text/css">    
+<link rel="stylesheet" href="./templates/styles_stock.css" title="stylesheet" type="text/css">  
+<script type="text/javascript" src="./include/fckeditor/fckeditor.js"></script>
+<script type="text/javascript" src="./include/js/showhide.js"></script>
+<link rel="stylesheet" href="./templates/styles_openidconnect.css" title="stylesheet" type="text/css">  
+
+<script type="text/javascript" src="./include/js/semods.js"></script>
+
+<script type="text/javascript" src="./include/js/openidconnect.js"></script>
+
+
+<script type="text/javascript" src="./include/js/moofacebox/moofacebox.js"></script>
+<link rel="stylesheet" href="./include/js/moofacebox/moofacebox.css" title="stylesheet" type="text/css">  
+
 <link rel="stylesheet" href="./templates/styles_gmap.css" title="stylesheet" type="text/css">  
 <link rel="stylesheet" href="./templates/styles_employment.css" title="stylesheet" type="text/css">  <link rel="stylesheet" href="./templates/styles_education.css" title="stylesheet" type="text/css"><link rel="stylesheet" href="./templates/styles_page.css" title="stylesheet" type="text/css">  
 
@@ -269,11 +297,10 @@ SocialEngine.Language.Import({
     <a href="./"><img src="./images/logo_affluence_new.gif" border="0" alt=""></a>
   </td>
   
-  <td class="callout" style="width: 320px; padding: 0 0 5px 0; margin: 0;">
-	<div style="background: url('images/callout.jpg') no-repeat; width: 345px; height: 72px; color: #FFFFFF; font-weight: bold; font-size: 13px; padding: 11px 5px 0 5px; margin: 0; line-height: 1.2; text-align: center;">
-		<a href="imobile.php?task=set_display&amp;mode=mobile" style="color:#FFF">
-		You can now view Affluence.org from your iPhone or other smartphone device!
-   </a>
+  <td class="callout" style="width: 320px; padding: 0; margin: 0;">
+	<div style="width: 310px; border: 2px solid #0000fd; font-weight: bold; font-size: 13px; color: #000000; padding: 8px; margin: 0; line-height: 1.2; text-align: center; -moz-border-radius: 6px; -webkit-border-radius: 6px;">
+		Join Affluence.org On Facebook <br>
+		<a href="http://www.facebook.com/affluence.org">http://www.facebook.com/affluence.org</a>
 	</div>
   </td>
   
@@ -398,15 +425,19 @@ function SwapBack(id1) {
 <div class="content" style="width: 1000px;">
 
     
-  	<div class="ad_belowmenu" style="display: block; visibility: visible;">
+  <div class="ad_belowmenu" style="display: block; visibility: visible; text-align: center;">
 	
-		<script type="text/javascript" language="JavaScript">
-  aj_server = 'http://affcorp.rotator.hadj7.adjuggler.net/servlet/ajrotator/'; aj_tagver = '1.0';
-  aj_zone = 'affcorp'; aj_adspot = '20616'; aj_page = '0'; aj_dim ='20523'; aj_ch = ''; aj_ct = ''; aj_kw = '';
-  aj_pv = true; aj_click = '';
-</script><script type="text/javascript" language="JavaScript" src="http://cdn.hadj7.adjuggler.net/banners/ajtg.js"></script>
+
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/affluence.ilm/paid;;tile=1;sz=728x90;ord=[timestamp]?" type="text/javascript">
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/affluence.ilm/paid;;tile=1;sz=728x90;ord=[timestamp]?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/affluence.ilm/paid;;tile=1;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt="">
+</a>
+</noscript>
+		
 	
-</div>  <div id="content_body_inner">
+</div><div id="content_body_inner">
   <div id="leftboth">
     <table width="161" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
@@ -423,13 +454,13 @@ function SwapBack(id1) {
             <td align="left" valign="top"><div id="leftpanel_container">
                 <div id="leftinner_navbox">
                   <ul>
-<li><a href="contactus.php"><img src="./images/icons/action_editphoto.gif" border="0" align="absmiddle"> Contact Us</a></li>
-<li><a href="aboutus.php"><img src="./images/myfriends_icon.gif" border="0" align="absmiddle"> About Us</a></li>
-<li><a href="#"><img src="./images/icons/article_featured.gif" border="0" align="absmiddle"> Investors</a></li>
-<li><a href="team.php"><img src="./images/mygroups_abhi.gif" border="0" align="absmiddle"> Team</a></li>
-<li><a href="advertise.php"><img src="./images/icons/menu_profile.gif" border="0" align="absmiddle"> Advertising</a></li>
-<li><a href="faq.php"><img src="./images/tip.gif" border="0"> FAQs</a></li>
-<li><a href="careers.php"><img src="./images/icons/employment16.gif" border="0"> Careers</a></li>
+<li><a href="content.php?page=contact-us"><img src="./images/icons/action_editphoto.gif" border="0" align="absmiddle"> Contact Us</a></li>
+<li><a href="content.php?page=about-us"><img src="./images/myfriends_icon.gif" border="0" align="absmiddle"> About Us</a></li>
+
+<li><a href="content.php?page=team"><img src="./images/mygroups_abhi.gif" border="0" align="absmiddle"> Team</a></li>
+<li><a href="content.php?page=advertising"><img src="./images/icons/menu_profile.gif" border="0" align="absmiddle"> Advertising</a></li>
+<li><a href="content.php?page=faqs"><img src="./images/tip.gif" border="0"> FAQs</a></li>
+<li><a href="content.php?page=careers"><img src="./images/icons/employment16.gif" border="0"> Careers</a></li>
 </ul>
                 </div>
               </div></td>
@@ -475,7 +506,7 @@ function SwapBack(id1) {
 Affluence believes you should have control over your information. Affluence helps you share information with others but you choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings on the Privacy page.<br>
 <br>
 
-Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to privacy@Affluence.com.
+Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to <a href="mailto:privacy@Affluence.com">privacy@Affluence.com</a>.
 </p><br>
 
 <h1 class="black13">Affluence Corporation 's Privacy Policy</h1>
@@ -488,7 +519,7 @@ When you register to become a member of Affluence, you provide ,or may provide, 
 When you enter Affluence.org , we collect your browser type and IP address. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Affluence . You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.<br><br>
 When you use the Affluence website , you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.<br><br>
 You post User Content (as defined in the Affluence  Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.<br><br>
-Any improper collection or misuse of information provided on Affluence's website is a violation of the Affluence Terms of Service and should be reported to privacy@Affluence.com.
+Any improper collection or misuse of information provided on Affluence's website is a violation of the Affluence Terms of Service and should be reported to <a href="mailto:privacy@Affluence.com">privacy@Affluence.com</a>.
 If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Affluence stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us at privacy@Affluence .com to request that we remove this information from our database.<br><br>
 Affluence may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Affluence  service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.<br><br>
 By using Affluence , you are consenting to have your personal data transferred to and processed in the United States.
@@ -521,13 +552,47 @@ By using Affluence , you are consenting to have your personal data transferred t
 </div>
 
       
+<div class="ad_bottom" style="display: block; visibility: visible; text-align: center;">
+	
 
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/affluence.ilm/paid;;tile=1;sz=728x90;ord=[timestamp]?" type="text/javascript">
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/affluence.ilm/paid;;tile=1;sz=728x90;ord=[timestamp]?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/affluence.ilm/paid;;tile=1;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt="">
+</a>
+</noscript>
+
+	
+</div>
 </div>
 
 
 </td>
 
+<td valign="top">
+    <div class="ad_right" width="1" style="display: table-cell; visibility: visible;">
+	
 
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/affluence.ilm/paid;;tile=2;sz=300x250;ord=[timestamp]?" type="text/javascript">
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/affluence.ilm/paid;;tile=2;sz=300x250;ord=[timestamp]?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/affluence.ilm/paid;;tile=2;sz=300x250;ord=[timestamp]?" width="300" height="250" border="0" alt="">
+</a>
+</noscript>
+
+<div style="padding-top: 3px;"></div>
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/affluence.ilm/paid;;sz=300x600;ord=[timestamp]?" type="text/javascript">
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/affluence.ilm/paid;;sz=300x600;ord=[timestamp]?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/affluence.ilm/paid;;sz=300x600;ord=[timestamp]?" width="300" height="600" border="0" alt="">
+</a>
+</noscript>
+    
+	
+</div></td>
 
 </tr>
 </tbody></table>
@@ -535,6 +600,7 @@ By using Affluence , you are consenting to have your personal data transferred t
 
 <div class="copyright">
   Copyright 2010 &nbsp;-&nbsp;
+       <a href="imobile.php?task=set_display&amp;mode=mobile">Mobile Site</a> &nbsp;-&nbsp;
   <a href="content.php?page=advertising" class="copyright">Advertise</a> &nbsp;-&nbsp;
   <a href="media_kit.php" class="copyright">Request a Media Kit </a> &nbsp;-&nbsp;
    <a href="content.php?page=about-us" class="copyright">About us </a> &nbsp;-&nbsp;
@@ -547,6 +613,9 @@ By using Affluence , you are consenting to have your personal data transferred t
   <a href="./termsofuse.php">User Agreement</a> &nbsp;-&nbsp;
 	<a href="./privacypolicy.php">Privacy Policy</a> &nbsp;-&nbsp; 
 	<a href="./copyrightpolicy.php">Copyright Policy</a>
+   
+    
+    
 
   
   </div>
@@ -609,9 +678,79 @@ if (typeof current_timeout == 'undefined') {
 
 
 
+<script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> 
+
+
+<script type="text/javascript">
+  var openidconnect_primary_network = 'facebook';
+
+  var openidconnect_facebook_api_key = "19a6bcece0eaa6dd2b86f7ae5ea57d71";
+  var openidconnect_facebook_user_id = "0";
+</script>
+
+
+
+
+
+
+
+
+
+
+<div id="openidconnect_autologin_prompt" style="display:none">
+
+  <div id="form_div">
+
+    <div style="border-bottom: 1px solid #DDD; margin-bottom: 10px; padding-bottom: 5px;">
+      <img style="float:left; padding-right: 5px; width: 16px" src="./images/brands/logo_facebook_mini.gif"> &nbsp; <span style="font-size: 14px">Login via Facebook?</span>
+    </div>
+    
+    <br>
+
+
+    <div style="position: relative; text-align: center">
+    
+      <div style="margin: 0px auto;width: 500px">
+        You are currently logged in to Facebook. Would you like to autologin to the network?      </div>
+
+    </div>
+
+    <br>
+    <br>
+      
+      <table cellpadding="0" cellspacing="0" style="margin: 0px auto">
+      <tbody><tr>
+      <td><input type="submit" style="width: 150px" class="button openidconnect_autologin_prompt_confirmed" onclick="openidconnect_autologin_confirmed()" value="Autologin">&nbsp;&nbsp;</td>
+      <td style="padding-left: 10px"> or <a class="openidconnect_autologin_prompt_cancel" href="javascript:void(0)" onclick="openidconnect_autologin_cancel()">Cancel</a>&nbsp;&nbsp;</td>
+      </tr>
+      <tr>
+      <td>
+
+        <input class="openidconnect_autologin_remember" type="checkbox" style="vertical-align:middle">&nbsp;&nbsp;<label for="openidconnect_autologin_remember" style="vertical-align:middle">Remember my choice</label>
+
+      </td>
+      <td> &nbsp; </td>
+      </tr>
+      </tbody></table>
+
+    <br>
+
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  SEMods.B.register_onload( function() { openidconnect_facebook_onload( { 'user_exists' : '0', 'hook_logout' : '1', 'autologin' : '1', 'request_connect' : '0' } ); } );
+</script>
 <script src="../include/js/news_headlines_ticker.js" type="text/javascript"></script><!-- CometChat Footer Code Start -->
-<link type="text/css" rel="stylesheet" media="all" href="cometchat/cometchatcss.php" charset="utf-8">
-<script type="text/javascript" src="cometchat/cometchatjs.php" charset="utf-8"></script>
+
 <!-- CometChat Footer Code End --> 
 
 <script type="text/javascript">
