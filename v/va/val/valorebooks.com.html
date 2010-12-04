@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valorebooks.com privacy policy that was archived on 2010-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100429085139id_/http%3A//www.valorebooks.com/CustomerService.Center.Subcategory.do%3FCategoryId%3D46) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valorebooks.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204145301id_/http%3A//www.valorebooks.com/CustomerService.Center.Subcategory.do%3FCategoryId%3D46) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
  <title>Privacy Policy</title>
@@ -10,89 +10,152 @@
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  <base href="http://www.valorebooks.com/StoreFront/">
  <link href="http://www.valorebooks.com/favicon.ico" rel="SHORTCUT ICON">
- <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/customerservice_styles02.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/customerservice_styles07.css" media="screen">
  <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/valoreagent_styles01.css" media="screen">
- <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/styles16.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/styles27.css" media="screen">
  <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/css_dropdown01.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/jquery.fancybox-1.3.1.01.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="http://styles.valorebooks.com/styles/jquery-ui-1.8.2.custom.css" media="screen">
+ 
+
+
  <link rel="canonical" href="">
 
- <script type="text/javascript" src="http://scripts.valorebooks.com/js/scripts03.js"></script>
+ <script type="text/javascript" src="http://scripts.valorebooks.com/js/jquery-1.3.2.js"></script>
+ <script type="text/javascript" src="http://scripts.valorebooks.com/js/scripts08.js"></script>
+ <script type="text/javascript" src="http://scripts.valorebooks.com/js/jquery.fancybox-1.3.1.pack.js"></script>
+ <script type="text/javascript" src="http://scripts.valorebooks.com/js/jquery-ui-1.8.2.custom.min.js"></script>
  
  </head>
- <body>
+ <body class="homeTopBanner">
+ <script type="text/javascript">
+ 	$(document).ready(function() {
+
+		fixButtonPosition();			
+		
+		$(window).resize(function(){
+			fixButtonPosition();
+		});
+
+		$('#keepMeInClose').bind('click', function(e) {
+			$(e.target).fadeOut();
+			$('#top_banner').slideUp();
+			setKeepMeInCookie();
+		});
+		
+	if($("#top_banner #keep_me_in_the_loop").length){
+		$("#keep_me_in_the_loop").click(function(event){
+			event.preventDefault();
+			$("#id_email_address").fadeOut('fast').fadeIn();
+		});
+	}
+		
+	});
+	
+	function fixButtonPosition() {
+			var button = $('#keepMeInClose');
+			var windowWidth = $(window).width();
+			
+			if(windowWidth < 1046){
+							
+					var submitButtonPosition = $('#submit_email_address').offset();
+					button.css('left', submitButtonPosition.left + 99);
+				
+			}else{
+				button.css('left', windowWidth - 33);
+			}
+			
+			if(button.is(':hidden')) {
+				button.show();
+			}
+	}
+	function setKeepMeInCookie()
+	{
+		var days = 90;
+		var name = 'VBkeepMeInClose';
+		var value = 'true';
+		var exdate=new Date();
+	
+	
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+		document.cookie = name+"="+value+expires+"; path=" + "/";
+	}	
+	
+ </script><div id="top_banner">
+ <form action="/KeepMeInTheLoop.do" method="post">
+ <div class="container" style="background: blue;">
+ <label for="id_email_address">
+ <span id="in_the_loop">Keep Me In The Loop</span>
+ <span id="giveaways">Updates on scholarships, giveaways &amp; promotional offers!</span>
+ </label>
+ <input id="id_email_address" onfocus="clearText(this);" onblur="replaceText(this);" value="Your Email Address" type="text" class="textField" name="email">
+ <input id="submit_email_address" type="image" src="http://images.valorebooks.com/images/btn_home_banner_submit_i.png" onmouseover="rollOver(this);" onmouseout="rollOut(this);" name="submit">
+ </div>
+ </form></div><img id="keepMeInClose" width="33" height="33" src="http://images.valorebooks.com/images/vb/web/shared/closeBtn.png" alt="Close">
  <div id="master">
  
- <style type="text/css">
-
- h1.logo {
- position: relative;
- width: 534px;
- height: 72px;
- font-size:.5em;
- margin: 35px auto 15px auto;
- }
-
- h1.logo a, h1.logo a:link, h1.logo a:visited, h1.logo a:hover {
- position: relative;
- width:534px;
- height:0;
- padding-top: 72px;
- display:block;
- overflow:hidden;
- background-image:url('../images/SpringBreak_Logo.png');
- background-position:0 0;
- }
-
-</style><!-- Header Start --><div id="header">
- <h1 class="logo"><a href="/" title="ValoreBooks.com">ValoreBooks.com</a></h1>
+ 
+ <!-- Header Start --><div id="header">
+ <span class="logo"><a href="/" title="ValoreBooks.com">ValoreBooks.com</a></span>
  <div id="utility_nav">
  <a href="/YourAccount.do" class="utilityNav">My Account</a> | 
  
- <a href="/YourAccount.do" rel="nofollow" class="utilityNav">Sign In</a></div><!-- Header End --><!-- Main Navigation Start --><div id="main_nav">
+ <a href="/YourAccount.do" rel="nofollow" class="utilityNav">Sign In</a>
+ </div></div><!-- Header End --><!-- Main Navigation Start --><div id="main_nav">
  <ol id="nav">
  <li class="nav1"><a href="/buy-textbooks" id="nav1" class="firstLevel">Buy Books</a>
  <ul>
  <li><a href="/Search.BookSubjects.do">Browse Books</a></li>
  <li><a href="/buy-textbooks">Advanced Book Search</a></li>
  <li><a href="/isbn-textbook-search">ISBN Search</a></li>
- <li><a href="/Search.BulkOrders.do">Bulk Orders</a></li>
+ <li><a href="https://www.valorebooks.com/Search.BulkOrders.do">Bulk Orders</a></li>
  </ul>
  </li>
+ <li class="nav9"><a href="/textbook-rental" id="nav9" class="firstLevel">Rent Books</a></li>
  <li class="nav2"><a href="/sell-textbooks" id="nav2" class="firstLevel">Sell Books</a>
  <ul>
  <li><a href="/sell-textbooks">Sell Textbooks</a></li>
  <li><a href="/marketplace-sellers">Marketplace Sellers</a></li>
  </ul>
  </li>
- <li class="nav3"><a href="/valore-agents" id="nav3" class="firstLevel">Valore Agents</a></li>
- <li class="nav4"><a href="/on-campus" id="nav4" class="firstLevel">Valore On Campus</a></li>
- <li class="nav5"><a href="" id="nav5" class="firstLevel">Scholarships</a></li>
- <li class="nav6"><a href="http://www.valorebooksblog.com" id="nav6" class="firstLevel">Blog</a></li>
- <li class="nav7"><a href="/CustomerService.Center.Overview.do" id="nav7" class="firstLevel">Support</a></li>
+ <li class="nav6"><a href="/CustomerService.Center.Overview.do" id="nav6" class="firstLevel">Support</a></li>
+ <li class="nav7"><a href="http://www.valorebooks.com/campus-life" id="nav7" class="firstLevel">Campus Life</a></li>
  <li class="nav8"><a href="/Checkout.ViewCart.do" id="nav8" class="firstLevel">Cart</a></li> 
- </ol></div><!-- Main Navigation End --><div id="search">
+ </ol></div><!-- Main Navigation End --><script type="text/javascript">
+$(document).ready(function() {
+
+ $('input[type="text"]').blur(function() { 
+ if(this.value == ''){
+ $(this).removeClass("textFieldFocus").addClass("textField");
+ this.value = (this.defaultValue); 
+ } 
+ }); 
+});
+</script><div id="search">
  <div id="search_inner">
- <h4>Search For Books:</h4>
+ <h4>FIND YOUR BOOKS:</h4>
  <form action="/Search.DefineSearch.do" method="post" id="search_form">
  <div class="formContainer" id="search_form_box">
  <input name="search_type" value="header" type="hidden">
  <input name="header_search_option" value="keyword" type="hidden">
  <input name="text" size="45" value="Enter ISBN, Title or Author" type="text" class="textField" onfocus="if (this.value == 'Enter ISBN, Title or Author') { clearText(this); }" onblur="replaceText(this);">
- <input src="images/btn_search_orange_i.png" onmouseover="rollOver(this);" onmouseout="rollOut(this);" onclick="" type="image" class="searchBtnArrow" alt="Search">
- <p id="search_links"><a href="/buy-textbooks" class="floatRight searchLink">Advanced Search</a></p>
+ <button type="submit" class="findBooks"><span>Find Books</span></button>
  </div>
  </form>
- <div id="buy_used">
- <a href="http://www.valorebooksblog.com/the-world-of-textbooks/save-green-save-cash-buying-cheap-used-textbooks-and-save-trees-in-the-process">Buy Used Textbooks! Help Save the Environment!</a>
+ <div id="header_follow_us"> 
+ <a class="twitter" href="http://www.twitter.com/valorebooks">Twitter</a>
+ <a class="facebook" href="http://www.facebook.com/valorebooks">Facebook</a>
+ <a class="youtube" href="http://www.youtube.com/valorebooks">YouTube</a>
  </div>
  </div></div>
-
  
  <div id="content">
  <div id="content_inner">
  <div id="content_centered">
  <div id="customerServiceContent"><div class="customerServiceSubcategoryBody">
- <div class="customerServiceTopImage"><img src="http://images.valorebooks.com/images/service_customerServiceCenter.jpg" alt="Customer Service Center" height="35" width="450"></div>
+ <h1 id="titleCSCenter">Customer Service Center</h1>
  
  <div class="customerServiceSubcategoryBodyPath">
  <a href="/CustomerService.Center.Overview.do">Valore Support Home</a> &gt; <a href="/CustomerService.Center.Subcategory.do?CategoryId=43" class="customerServiceSubcategoryPath">Legal Policies</a>
@@ -278,12 +341,12 @@
  --></script><div id="footer">
  <ul id="certifications">
  <!-- When adding more certifications/seals/logos you will need to modify the left padding of the ul#certifications rule in the footer section of styles.css -->
- <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=15" rel="nofollow"><img src="http://images.valorebooks.com/images/logo_valore_badge.png" alt="Valore Guarantee"></a></li>
  <li><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.valorebooks.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script></li>
  <li><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.valorebooks.com" rel="nofollow"><img width="94" height="54" border="0" src="https://images.scanalert.com/meter/www.valorebooks.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></li>
- <li><img src="http://images.valorebooks.com/images/logo_cc.png" alt="Credit Cards"></li>
+ <li><img src="http://images.valorebooks.com/images/logo_cc01.png" alt="Credit Cards"></li>
  <li><a href="http://www.paypal.com/" target="_blank" rel="nofollow"><img src="http://images.valorebooks.com/images/logo_paypal.png" alt="Paypal"></a></li>
- <li><a href="http://nacs.org/" target="_blank" rel="nofollow"><img src="http://images.valorebooks.com/images/logo_nacs.png" alt="National Association of College Stores"></a></li>
+ <li><a href="https://checkout.google.com/reviews/merchant/endUserReviews?sellerId=439912692584610" target="_blank" rel="nofollow"><img src="http://images.valorebooks.com/images/gc.gif" alt="Google Checkout"></a></li>
+ <li><a href="http://nacs.org/" target="_blank" rel="nofollow"><img src="http://images.valorebooks.com/images/logo_nacs.jpg" alt="National Association of College Stores"></a></li>
  <li><a href="https://www.bbb.org/online/consumer/cks.aspx?id=109120711156" target="_blank" rel="nofollow"><img src="http://images.valorebooks.com/images/logo_bbb01.gif" alt="Better Business Bureau"></a></li>
  </ul>
  <!-- Utilities Nav Start -->
@@ -295,7 +358,7 @@
  <li><a href="/CustomerService.OrderTracking.do" rel="nofollow">Order Tracking</a></li>
  <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=11" rel="nofollow">Return Policy</a></li>
  <li><a href="/CallTarget.do?Target=Framework.Popup.ShippingPrices" rel="nofollow" target="_blank">Shipping Details</a></li>
- <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=15" rel="nofollow">Valore Guarantee</a></li>
+ <li><a href="/extra-mile-guarantee" rel="nofollow">Extra Mile Guarantee</a></li>
  </ul>
  </li>
  <li id="u_nav2"><strong>Site Info</strong>
@@ -304,6 +367,7 @@
  <li><a href="/about-us" rel="nofollow">About Us</a></li>
  <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=46" rel="nofollow">Privacy Policy</a></li>
  <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=45" rel="nofollow">Use Conditions &amp; Guidelines</a></li>
+ <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=54" rel="nofollow">Lease Agreement</a></li>
  <li><a href="/CustomerService.Center.Subcategory.do?CategoryId=44" rel="nofollow">Participation Agreement</a></li>
  </ul>
  </li>
@@ -323,17 +387,19 @@
  <li><a href="/Search.BookSubjects.do">Browse Books</a></li>
  <li><a href="/Search.SchoolSubjects.do">College Subjects</a></li>
  <li><a href="/browse-by-isbn-number">ISBN Number Lookup</a></li>
- <li><div id="footerShowMenu"><a href="/" onclick="javascript:toggleBrowseLayer('browseMenuLayer', true); javascript:toggleBrowseLink('footerHideMenu','footerShowMenu'); return false;">Browse Menu [+]</a></div><div id="footerHideMenu"><a href="/" onclick="javascript:toggleBrowseLayer('browseMenuLayer', false); javascript:toggleBrowseLink('footerShowMenu','footerHideMenu'); return false;">Browse Menu [-]</a></div>
- </li></ul>
+ <li><a href="/bestseller/books">Book Bestsellers</a></li>
+ <li><a href="/bestseller/textbooks">Textbook Bestsellers</a></li>
+ </ul>
  </li>
  <li id="u_nav5"><strong>Valore Extras</strong>
  <ul>
  <li><a href="http://www.youtube.com/user/valorebooks" target="_blank">Valore on YouTube</a></li>
- <li><a href="http://www.myspace.com/valorebooks" target="_blank" title="Visit Our MySpace Page!">Valore on MySpace</a></li>
  <li><a href="/featured/tips-to-save-money-on-textbooks.html">Textbook Prices Study</a></li>
  <li><a href="/free-textbooks-giveaway">Free Textbooks Giveaway</a></li>
  <li><a href="/top-textbooks">Top 50 Textbooks</a></li>
+ <li><a href="/textbook-rental">Rent Textbooks</a></li>
  <li><a href="/school-search">School Search</a></li>
+ <li><div id="footerShowMenu"><a href="/" onclick="javascript:toggleBrowseLayer('browseMenuLayer', true); javascript:toggleBrowseLink('footerHideMenu','footerShowMenu'); return false;">Browse Menu [+]</a></div><div id="footerHideMenu"><a href="/" onclick="javascript:toggleBrowseLayer('browseMenuLayer', false); javascript:toggleBrowseLink('footerShowMenu','footerHideMenu'); return false;">Browse Menu [-]</a></div></li> 
  </ul>
  </li>
  </ul>
@@ -438,6 +504,12 @@
  Designated trademarks and brands are the property of their respective owners.</p>
  <p>Portions of this page Copyright © 1995-2010 Muze Inc. For personal non-commercial use only. All rights reserved.</p>
  </div>
+ <div id="footer_follow_us"> 
+ <a class="twitter" href="http://www.twitter.com/valorebooks">Twitter</a>
+ <a class="facebook" href="http://www.facebook.com/valorebooks">Facebook</a>
+ <a class="youtube" href="http://www.youtube.com/valorebooks">YouTube</a>
+ <span id="footer_follow_us_on">Follow us on:</span>
+ </div>
  <div id="addThisBookmark">
  <a href="http://www.addthis.com/bookmark.php" onclick="addthis_url=location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src=" https://secure.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button"></a>
  <script type="text/javascript">var addthis_pub = 'valorebooks';</script>
@@ -454,8 +526,7 @@
  pageTracker._trackPageview();
  </script>
 
- <script type="text/javascript" src="http://scripts.valorebooks.com/js/jquery-1.3.2.js"></script>
  <script type="text/javascript" src="http://scripts.valorebooks.com/js/menu01.js"></script>
  <script type="text/javascript" src="http://scripts.valorebooks.com/js/valore-scripts01.js"></script>
  <script type="text/javascript" src="http://scripts.valorebooks.com/js/scroller01.js"></script>
- </div></body></html>
+ </body></html>
