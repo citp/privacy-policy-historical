@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vatsim.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613112933id_/http%3A//www.vatsim.net/network/docs/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vatsim.net privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204071918id_/http%3A//www.vatsim.net/network/docs/policy) for the most accurate reproduction.*
 
-# VATSIM Private Policy - VATSIM - The International Online Flying Network
+# VATSIM - The International Online Flying Network: Privacy Policy
 
 Upon your written request, VATSIM agrees to notify you of:
 
@@ -60,11 +60,11 @@ VATSIM will make all reasonable efforts to protect member information off-line.
 
 ### Correction or Updating of Personal Information
 
-If a user's personally identifiable information changes or needs correction, a  member should contact VATSIM's Membership Department at <http://vatsim.net/mememail.php> for assistance in updating his or her account.
+If a user's personally identifiable information changes or needs correction, a  member should contact VATSIM's Membership Department at [http://www.vatsim.net/vatsim/members/memberservice/](http://www.vatsim.net/vatsim/members/memberservice/ "VATSIM Membership contact") for assistance in updating his or her account.
 
 ### Choice/Opt-out
 
-Users who no longer wish to hold membership in VATSIM may optout at any time. Once your account has been closed, you will receive no further contact from VATSIM. To cancel your membership, please go to the following website: <http://vatsim.net/mememail.php> and fill out the online form.
+Users who no longer wish to hold membership in VATSIM may optout at any time. Once your account has been closed, you will receive no further contact from VATSIM. To cancel your membership, please go to the following website: [http://www.vatsim.net/vatsim/members/memberservice/](http://www.vatsim.net/vatsim/members/memberservice/ "VATSIM Membership contact") and fill out the online form.
 
 ### Notification of Changes
 
