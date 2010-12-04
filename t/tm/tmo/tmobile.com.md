@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615001125id_/http%3A//www.t-mobile.com/company/website/privacypolicy.aspx%3FWT.z_unav%3Dftr__privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204155249id_/https%3A//www.t-mobile.com/company/website/privacypolicy.aspx%3FWT.z_unav%3Dftr__privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Highlights
 
@@ -83,7 +83,7 @@ We may monitor and record phone calls, e-mails, or other communications between 
 We do not publish directories of our customers’ wireless numbers. Nor will we provide or make such numbers available to third-parties for listing in their public directories, without the customer’s prior consent. 
 
 **Financial Products and Services**   top   
-If T-Mobile provides you a financial product or service (for example, an installment loan for a mobile device), we have an obligation under federal law to provide you notice of how your personal financial information will be treated. Please refer to [T-Mobile’s Financial Privacy Policy](https://web.archive.org/Cms/Files/Published/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Financial%20Privacy%20Policy%20Effective%20Nov%202009.pdf) for details. 
+If T-Mobile provides you a financial product or service (for example, an installment loan for a mobile device), we have an obligation under federal law to provide you notice of how your personal financial information will be treated. Please refer to [T-Mobile’s Financial Privacy Policy](http://s.tmocache.com/Cms/Files/Published/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Financial%20Privacy%20Policy%20Effective%20Nov%202009.pdf) for details. 
 
 **Forums and Chat Rooms**   top   
 If you use or link to a public forum, bulletin board, chat room, or social network on or from a T-Mobile Web site, be aware that any personal information you submit can be read, collected, or used by other users of these forums, including to send you unsolicited messages. We are not responsible for access to or use of personal information you choose to submit or share with others. 
