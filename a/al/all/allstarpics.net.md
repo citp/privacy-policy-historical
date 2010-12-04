@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allstarpics.net privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429133807id_/http%3A//www.allstarpics.net/index/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstarpics.net privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204081709id_/http%3A//www.allstarpics.net/index/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Notice - AllStarPics.Net
+# AllStarPics.Net - Privacy Statement
 
 AllStarPics.Net knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting AllStarPics.Net, you are accepting the practices described in this Privacy Notice. 
 
@@ -27,6 +27,9 @@ Other than as set out above, you will always receive notice when information abo
 **What About Third-Party Advertisers?**  
 Our site includes third-party advertising, and some of our advertisers use third-party companies to serve their advertisements that appear on our site. Often, these third-party advertising companies, called "ad networks" or "network advertisers", employ cookie and other technologies to measure the effectiveness of their ads and to show you ads that are more relevant and interesting to you. We do not provide any user information to them, and we do not have access to or control cookies that may be placed by the ad networks. If you would like more information about the ad networks, including information about how to opt-out of their information collection, the National Advertising Initiative offers useful information on its Web site. 
 
+**Opting Out of Behavioral Advertising**  
+You can use the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp) to examine your computer to identify those companies that have placed an advertising cookie file on your computer, and to "opt out" of behavioral advertising. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. 
+
 **How Secure Is Information About Me?**  
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
@@ -44,4 +47,4 @@ AllStarPics.Net is not intended for use by children under the age of 13. If you 
 If you choose to visit AllStarPics.Net, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law. If you have any concern about privacy at AllStarPics.Net, please send us a thorough description to our help desk, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes. 
 
 **Related Practices and Information**  
-[Terms and Conditions of Use](https://web.archive.org/web/20090429133807id_/http%3A//www.allstarpics.net/index/terms.asp)
+[Terms and Conditions of Use](https://web.archive.org/web/20101204081709id_/http%3A//www.allstarpics.net/index/terms.asp)
