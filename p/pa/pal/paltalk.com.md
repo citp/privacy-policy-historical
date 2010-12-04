@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421152229id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paltalk.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204165343id_/http%3A//www.paltalk.com/privacy.shtml) for the most accurate reproduction.*
 
 # Paltalk Privacy Policy
 
@@ -35,7 +35,7 @@ We use this information for billing purposes and to fill your orders. We will us
 **_Uses of Information_**  
 Paltalk's primary goal in collecting personal information is to provide you, the user, with a customized experience on Paltalk and through our partners. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements and encourage your participation. By knowing a little about you, Paltalk is able to deliver more relevant advertisements and content, and hence better service, to you. 
 
-In our role of delivering targeted advertisements, Paltalk plays the middleman. Advertisers give us advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. This kind of advertisement targeting is done with banner ads as well as promotional email through Paltalk and its affiliates. You will only receive special offers via email from Paltalk if you have indicated in your account preferences, or at some other time, that you would like to receive them. 
+In our role of delivering targeted advertisements, Paltalk plays the middleman. Advertisers give us advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). Paltalk displays the advertisement to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. This kind of advertisement targeting is done with banner ads as well as promotional email through Paltalk and its affiliates. 
 
 **_Personally identifiable information:_**
 
