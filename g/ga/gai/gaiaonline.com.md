@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610011914id_/http%3A//www.gaiaonline.com/info/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204175349id_/http%3A//www.gaiaonline.com/info/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gaia Online
 
