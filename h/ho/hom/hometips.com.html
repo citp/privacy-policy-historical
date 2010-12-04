@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hometips.com privacy policy that was archived on 2010-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610191643id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hometips.com privacy policy that was archived on 2010-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204133819id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Home Tips - Privacy Policy</title>
@@ -43,13 +43,54 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 
 </style>
+<script type="text/javascript">
 
+			function sendRequest() {
+	if(document.myForm.email.value=="")
+	{
+			alert("Please enter your Email Address.");
+			document.myForm.email.focus();
+			return false;
+	}
 
+	if(document.myForm.email.value.length!=0)
+	{
+		 var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+   		 var email = document.myForm.email.value
+  		 if(reg.test(email) == false)
+		 {
+      		alert('Invalid Email Address');
+			document.myForm.email.focus();
+      		return false;
+   		}
+
+	}
+        var email = document.myForm.email.value;
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("formResponse").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","/formSubmit1.php?q="+email,true);
+xmlhttp.send();
+
+			}
+		</script>
 <div style="background: url(/images/email_banner.jpg) top center no-repeat;width: 400px;height: 90px;position: absolute;left: 50%;top:0;margin-left: 93px;z-index: -1;">
 </div>
 
 <div class="button">
-	<a href="#" onclick="formObj.submit()">Polling Place</a>
+	<a href="#" onclick="sendRequest()">Polling Place</a>
 </div>
 
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -60,18 +101,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                   <td width="202" height="56" valign="bottom">
                   <table width="250" border="0" align="left" cellpadding="0" cellspacing="0" style="margin-top:0px">
                    <tbody><tr>
-                   <form action="top_home.php" method="post" name="myForm" onsubmit="formObj.submit()"></form>
+                   <form action="" method="post" name="myForm" id="myForm" onsubmit="return false;"></form>
                      <td valign="bottom" style="padding-left:120px" align="left">
-                         <input name="nletter" type="text" id="nletter2" value=" Your email address" size="22" style="margin-bottom:3px;border:0px;z-index: 6;vertical-align:top;height:16px;width:129px;padding:0px;text-align:left;color:#aaa;font-style:italic" onfocus="if(this.value==this.defaultValue) {this.value='';this.style.color='#000';this.style.textAlign='left';this.style.fontStyle='normal';}">
+                         <input name="email" type="text" id="email" value="Email address" size="22" style="margin-bottom:3px;border:0px;z-index: 6;vertical-align:top;height:16px;width:129px;padding:0px;text-align:left;color:#aaa;font-style:italic" onfocus="if(this.value==this.defaultValue) {this.value='';this.style.color='#000';this.style.textAlign='left';this.style.fontStyle='normal';}">
                      </td>
                      <td valign="top">
 						<div class="button">
-							<a href="#" onclick="formObj.submit()">Polling Place</a>
+							<a href="#" onclick="sendRequest();">Polling Place</a>
 						</div></td>
                     </tr>
-                    <script type="text/javascript">
-		var formObj = new DHTMLSuite.form({ formRef:'myForm',action:'/formSubmit1.php',responseEl:'formResponse'});
-						</script>
+
                   </tbody></table>
 </td>
                 </tr>
@@ -173,8 +212,8 @@ function SwitchMenu(obj, imgID){
 	<table cellpadding="0" cellspacing="0" width="204" style="margin-bottom:16px">
 		<tbody><tr><td><img src="/images/global_note_top.gif"></td></tr>
 		<tr><td background="/images/global_note_mid.gif" width="205" style="font-family:Courier New;font-size:11px;padding-left:10px;padding-right:10px;padding-top:6px">
-			<b>June 10, 2010<br>
-			If you heard me talking about window screen repair on Martha Stewart, here is the article I discussed. Please see <a href="http://www.hometips.com/repair-fix/window-screens.html"> Easy Window Screen Repairs.			<br><br>--Don</a></b></td></tr>
+			<b>December 4, 2010<br>
+			HUGE savings this week if you shop at Amazon! See <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FBlack-Friday-After-Thanksgiving-Sale%2Fb%3Fie%3DUTF8%26node%3D384082011%26pf_rd_m%3DATVPDKIKX0DER%26pf_rd_s%3Dgoldbox-ads2%26pf_rd_r%3D0FRQSMH27VCR5310ZRRY%26pf_rd_t%3D701%26pf_rd_p%3D1281545202%26pf_rd_i%3D20&amp;tag=donnote-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">Cyber Monday Deals Week</a>			<br><br>--Don</b></td></tr>
 		<tr><td><img src="/images/global_note_bot.gif"></td></tr>
 		</tbody></table>
 	</td>
