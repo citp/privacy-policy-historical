@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526163755id_/http%3A//www.advancedmp3players.co.uk/shop/info/Privacy_Policy.13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204203435id_/http%3A//www.advancedmp3players.co.uk/shop/info/Privacy_Policy.13.html) for the most accurate reproduction.*
 
-# Advanced MP3 Players - the MP3 player experts
+# Security & Privacy – The Privacy Policy of Advanced Headphones
 
 \- Advanced MP3 Players are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
