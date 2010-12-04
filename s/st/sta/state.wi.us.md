@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.wi.us privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107072246id_/http%3A//www.wisconsin.gov/state/core/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wi.us privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204230334id_/http%3A//www.state.wi.us/state/core/privacy_notice.html) for the most accurate reproduction.*
 
 # Wisconsin.gov - - Privacy Notice
 
