@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsdir.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502071354id_/http%3A//www.carsdir.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsdir.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204122419id_/http%3A//www.carsdir.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@
 When our customers sign-up for a CarsDir.com account, we need contact information such as company name, contact person's name, address, email, and phone/fax number etc. During the time of sign-up, our systems record information about your session, such as the date and time of use, and the specific Internet address assigned to you including IP Address.   
 CarsDir.com also tracks requests you make for information on our website for our services, and responses you provide to CarsDir.com surveys. Finally, CarsDir.com . net keeps records of your payment history and communications you have with CarsDir.com . net's support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), CarsDir.com. net do not keep track of what sites you visit when you are using the services. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](https://web.archive.org/web/20100502071354id_/http%3A//www.carsdir.com/contactus_en.asp). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.If you would like more information about this practice and would like to know your options in relation toط¢آ·not having this information used by these companies, [click here](https://web.archive.org/web/20101204122419id_/http%3A//www.carsdir.com/contactus_en.asp). 
 
 Google, as a third party vendor, uses cookies to serve ads on CarsDir.com.   
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to CarsDir.com and other sites on the Internet.   
@@ -28,5 +28,5 @@ CarsDir.com reserves the right to make any changes to this policy at any time wi
 * * *  
   
 ---  
-|  |  |  | [](https://web.archive.org/web/20100502071354id_/http%3A//www.carsdir.com/send_en.asp?url=http://www.carsdir.com/privacy-policy.asp?) |  | [](https://web.archive.org/web/20100502071354id_/http%3A//www.carsdir.com/print.asp?url=http://www.carsdir.com/privacy-policy.asp?) |  | [](javascript: bookmark\(\);)  
+|  |  |  | [](https://web.archive.org/web/20101204122419id_/http%3A//www.carsdir.com/send_en.asp?url=http://www.carsdir.com/privacy-policy.asp?) |  | [](javascript: bookmark\(\);)  
 ---
