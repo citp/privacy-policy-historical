@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanrifleman.org privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426065217id_/http%3A//www.nra.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanrifleman.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204032913id_/http%3A//www.nra.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
