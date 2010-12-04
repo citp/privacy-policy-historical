@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510030021id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204131959id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KCRW
 
