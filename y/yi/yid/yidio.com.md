@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306205240id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204191842id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
 
-# Yidio - Privacy Policy
+# Yidio Privacy Policy
 
 This Privacy Policy applies only to information we collect about you at [www.yidio.com](http://www.yidio.com/ "Yidio") (the "Website") and [games.yidio.com](http://games.yidio.com/ "games.yidio.com") and how we use this information.
 
@@ -21,7 +21,8 @@ Your Yidio information is used
   * to conduct research about your use of Yidio; and 
   * to help offer you other products, programs, or services that may be of interest. 
 
-  
+
+
 Your Yidio information will not be shared with third parties unless it is necessary to fulfill a request, in other circumstances in which you have consented to the sharing of your Yidio information, or except as described in this Privacy Policy. We may use your Yidio information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about groups of Yidio users, but do not receive information that personally identifies you.
 
 If you use our communications tools to disclose information about yourself publicly (for example, by making your screen name and/or video lists publicly available), other online users may obtain access to any information you provide. The contents of your online communications, as well as other information about you as a Yidio user, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which we believe Yidio is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect our rights or property or the rights or property of our affiliated providers, or for us to render the service you have requested. We may use agents and contractors in order to help operate the service. If such agents and contractors have access to your Yidio information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Yidio.
