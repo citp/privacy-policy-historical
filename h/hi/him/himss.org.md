@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212231505id_/http%3A//www.himss.org/asp/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204021546id_/http%3A//www.himss.org/asp/legal.asp%23privacy) for the most accurate reproduction.*
 
 # HIMSS - Legal Disclaimer, Copyright, Trademark and Privacy Policy
 
 Watch the HIMSS Year In Review Video
 
-[](https://web.archive.org/web/20100212231505id_/http%3A//www.himss.org/asp/about_YIRvideo.asp)
+[](https://web.archive.org/web/20101204021546id_/http%3A//www.himss.org/asp/about_YIRvideo.asp)
 
 ## DISCLAIMER
 
