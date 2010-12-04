@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
-|  | **Don't miss...**  
----|---  
-[ Spring](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/spring.htm)  
-[ Children's Day (Japan)](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/childrens_day_japan.htm)  
-[ Teacher Appreciation Week (US) ](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/teacher_appreciation.htm)  
-[ Mother's Day (US) ](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/mother's_day.htm)  
-[ Father's Day](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/fathers_day_page.htm)  
-[ Canada Day](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/canada_day_pages.htm)  
-[ Fourth of July](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/fourth_of_july_pages.htm)  
-[ Summer](https://web.archive.org/web/20090430125400id_/http%3A//www.activityvillage.co.uk/summer_activities.htm)  
-  
+|   
+---  
+|   
+[ ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/index.htm) |   
+|  |   
+---|---|---  
+| 
+
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
 We recognizes the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. 
@@ -45,6 +42,8 @@ We may use cookies to store information, such as your personal preferences when 
 
 **Advertisements**  
 We may also use third party advertisements to support this site. Some of our advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing UK-based ads to someone in the UK, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **DoubleClick DART cookies**  
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
@@ -105,4 +104,89 @@ your information would be considered part of those assets, and may be part of th
 **Policy Modifications**  
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we may email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
 
-|    | 
+|   
+|    | **Don't miss...**  
+---|---  
+[ Advent Calendar 2010](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/advent_calendar_2010.htm)  
+[ Advent](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/advent_for_kids.htm)  
+[ Hanukkah](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/hanukkah_for_kids.htm)  
+[ Christmas](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_pages.htm)  
+[ Kwanzaa](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/kwanzaa_for_kids.htm)  
+[ Winter](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/winter_pages.htm)  
+**More Favourite Pages...**  
+[ Free Printables](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/free_printables.htm)  
+[ Christmas Crafts](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_crafts.htm)  
+[ Printable Christmas Cards](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/printable_christmas_cards.htm)  
+[ Christmas Coloring](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_coloring.htm)  
+[ Birthday Printables](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/birthday_printables.htm)  
+[ Printable Certificates](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/free_printable_certificates.htm)  
+[ Puzzles](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/puzzles.htm)  
+[ Kids Crafts](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/kids_crafts.htm)  
+  
+[ ](http://www.christmasiscoming.co.uk/)  
+**Christmas is coming!**  
+Need help? Free inspiration, crafts, decorating ideas, planning sheets, recipes, printables and more!   
+**[Click here!](http://www.christmasiscoming.co.uk/)**
+
+  
+** [Christmas Doodle Fun](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_doodle_fun.htm)**  
+24 pages of creative Christmas colouring fun for kids!
+
+  
+120 Sudoku Puzzles   
+designed just for kids!    
+**[ Download and ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)  
+[ print now!](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)**
+
+  
+**[ Love Dogs?](http://www.findoutaboutdogs.com/)**
+
+[ ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/whizz.htm)  
+**[Free trial of Math Whizz](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/whizz.htm)**
+
+  
+**[The Teacher's Binder](http://tinyurl.com/2vfwtuz)** is the world’s largest and most complete collection of often-used, printable, interactive, classroom forms, helping teachers simplify work, personal organization, record keeping and classroom management.
+
+**Latest Articles...**
+
+  
+A global survey of over 61,000 young people from 33 countries by Habbo Hotel and Norton internet security reveals that today’s generation of young people feel that they are savvy when it comes to their own online safety. Despite this, online bullying and spam risks are still very real issues, which are affecting a large proportion of young people.  
+[Cyber Bullying - Online Study](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/cyber_bullying_online_study.htm)
+
+  
+TV Diners: New research shows that half of UK families spend mealtimes on the couch in front of the TV.   
+[TV diners](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/tv_diners.htm)
+
+Though most of us will tell our babysitters to call if they need anything, I do not know many people who really want their cell phones ringing three or four times a night while out at dinner, a movie, a party etc. By leaving the babysitter the information contained in this article, you will decrease your chances of having your night out interrupted by phone calls with questions about how to turn the DVD player on or what snacks are allowed before bed.  
+[A Babysitter Checklist - Everything She Will Need To Know](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/babysitter_checklist.htm)
+
+  
+Christmas doesn't have to be a stressful time - we have tips and tricks for reducing holiday stress and allowing you to enjoy the holiday season with your family   
+[Battling holiday stress](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/battling_holiday_stress.htm)
+
+  
+Christmas - Amazing Fun Facts, Trivia and Insights From Around the World to Excite & Humour Family!  
+[Christmas Fun Facts](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_fun_facts.htm)
+
+  
+Many of us have heard of cookie swaps - but have you thought of these other ideas, all great ways to save at Christmas?  
+[Swap and Save This Year For Christmas](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/swap_and_save_for_christmas.htm)
+
+[Got to, Get to - Change The Way Your Family Thinks](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/got_to_get_to.htm) **  
+** I recently heard a story that has literally changed the way that I, and my family, think about life. The story is as follows...
+
+  
+[Motivating Your Children To Get Things Done](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/motivating-your-children.htm)  
+If you have children, you know how hard it can be to get them to do the things they should, and how frustrating. When the kids are distracted, convincing them to take care of their household chores and other responsibilities can be a real challenge. 
+
+  
+[Children Learn What They Live](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/children_learn_what_they_live.htm)  
+An ancient Chinese proverb tells us, "A child's life is like a piece of paper on which every passerby leaves a mark." We cannot teach our children self-esteem. We can only help them discover it within themselves by adding positive marks and strokes on their slates. All positive motivation is rooted in self-esteem – the development of which, just as with other skills takes practice. Think of self-esteem as a four-legged chair...  
+  
+  |   |    
+  
+[ A Small Publishing Website](http://www.smallpublishing.co.uk/)    [Contact Us ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/activity_village_contact_us.htm)   [Sudoku for Kids](http://www.sudokuforkids.com/)   [Privacy Policy](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm)
+
+These pages are property of Activity Village and are for personal, classroom and library use only  
+  
+| 
