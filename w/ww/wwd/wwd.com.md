@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927215403id_/http%3A//www.wwd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204160850id_/http%3A//www.wwd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WWD.com
 
