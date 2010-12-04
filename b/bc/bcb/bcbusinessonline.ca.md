@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908084921id_/http%3A//www.bcbusinessonline.ca/bcb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204113403id_/http%3A//www.bcbusinessonline.ca/bcb/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Terms of Use | BCBusiness
+# User Agreement & Privacy Polic | BCBusiness
 
 PRIVACY POLICY AND TERMS OF USE
-
-| Published: June 30, 2007 
 
 Privacy Policy
 
@@ -38,9 +36,7 @@ Canada Wide collects, uses, and discloses your Personal Information obtained on 
 •    To inform you of various contests, discounts, special offers, sales, and promotions offered by Canada Wide and its Affiliates from time to time.  
 •    To inform you of special events hosted or sponsored by Canada Wide and its Affiliates from time to time.  
 •    To provide you with any email, print, or other newsletters, online news releases, and publications of Canada Wide and its Affiliates from time to time.  
-•    To inform you of customer satisfaction 
-
-surveys and sales surveys of Canada Wide and its Affiliates from time to time.  
+•    To inform you of customer satisfaction surveys and sales surveys of Canada Wide and its Affiliates from time to time.  
 •    To advise you any of changes or alterations to the terms of service, policies, or features of Canada Wide and its Affiliates from time to time, including without limitation, the terms of use of the Web-site and the Privacy Policy.  
 •    To respond to your inquiries and communicate with you in connection with Canada Wide, its Affiliates, the Web-site, and the Privacy Policy.
 
