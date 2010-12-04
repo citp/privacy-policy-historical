@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the public-domain-image.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209034300id_/http%3A//www.public-domain-image.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the public-domain-image.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204023833id_/http%3A//www.public-domain-image.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy for Public Domain Images site.
 
