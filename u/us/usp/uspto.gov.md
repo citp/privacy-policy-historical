@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531043157id_/http%3A//www.uspto.gov/privact.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204041824id_/http%3A//www.uspto.gov/privact.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,13 +58,10 @@ Information stored in any Privacy Act System of Records is handled as set forth 
 
 **Protect Yourself Against Identity Theft!**
 
-When filing documentation in support of applications or petitions, please take steps to protect all personal information. “Personal information” includes social security, credit card and banking account numbers. **This type of personal data is never required by the USPTO to support a petition or application.**
+When filing documentation in support of applications or petitions, please take steps to protect all personal information. "Personal information" includes social security, credit card, and bank account numbers. **To support a petition or application, the USPTO never requires this type of personal data within the body of the petition or application.** To protect your privacy, you should delete such information from any documentation that you send to the Office except when submitting the USPTO Credit Card Payment Form (PTO-2038). If using a USPTO electronic form where a fee is required, take care to enter the payment information (such as a credit card number) only in the specific secure payment portion of the form.
 
-To protect your privacy, we suggest that you delete such information from any documentation you send the office. Alternatively, you may request that the submissions be kept out of the public file, if appropriate. (See [MPEP Sections 724. 02 to 724.06](https://web.archive.org/web/offices/pac/mpep/documents/0700.htm).)
+Both patent and trademark public data can be accessed directly through the USPTO Web site or as bulk data; as public data, it may appear on other Web sites, as well. 
 
-**Please remember that all patent application files are published and made available to the public 18 months from the filing date, unless a non-publication request is made in the application. Additionally, all patented application files will become available to the public upon the grant of the patent.**
+**All patent application files are published and made available to the public 18 months from the filing date, unless the application includes a non-publication request.** (See [MPEP Sections 724. 02-724.06](https://web.archive.org/web/offices/pac/mpep/documents/0700.htm "http://www.uspto.gov/web/offices/pac/mpep/documents/0700.htm") for details on making a non-publication request.) Also, all patent application files will become available to the public upon the grant of the patent. For patents, if you have questions about what information may be published and how to remove the material from documents you plan to submit to the USPTO, please call the [Inventors Assistance Center](https://web.archive.org/inventors/iac/index.jsp) at **1-800-786-9199** or **571-272-1000**.
 
-If you have questions about what information may be published and how to remove the material from documents you plan to submit to the USPTO, please call the Inventors Assistance Center at **  
-1-800-786-9199**   
-or **571-272-1000**   
-TTY: **571-272-9950**.
+**Trademark applications are available to the public within a week of their submission.** For questions about public information on Trademark applications, please refer to the filing instructions or contact the Trademark Assistance Center at **1-800-786-9199** or via e-mail at [TrademarkAssistanceCenter@uspto.gov](mailto:TrademarkAssistanceCenter@uspto.gov).
