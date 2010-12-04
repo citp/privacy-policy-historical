@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104093950id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmearticles.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204081323id_/http%3A//www.acmearticles.com/privacy.php) for the most accurate reproduction.*
 
 # Acme Articles | Privacy Statement
 
