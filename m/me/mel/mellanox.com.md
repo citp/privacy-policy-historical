@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509080927id_/http%3A//mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204060849id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
@@ -77,7 +77,7 @@ Except as otherwise required by applicable law, no part of any copyrighted mater
 
 Mellanox is a registered trademark of Mellanox Technologies, Inc. and ConnectX, InfiniBlast, InfiniBridge, InfiniHost, InfiniRISC, InfiniScale, and InfiniPCI are trademarks of Mellanox Technologies, Inc. All other trademarks are property of their respective owners. 
 
-Copyright © 1999-2009 by Mellanox Technologies, Ltd.  All rights reserved.
+Copyright © 1999-2010 by Mellanox Technologies, Ltd.  All rights reserved.
 
 #### **_Contact Us  
 _**
