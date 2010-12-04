@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029022852id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204120436id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
 
-# TechValidate: Privacy Policy
+# Privacy Policy : TechValidate
 
 ## TechValidate Privacy Policy
 
 Welcome to the TechValidate, Inc. (" **TechValidate** ") Privacy Policy.
 
-TechValidate is a technology research network that captures and verifies IT professional experiences and use of a particular vendor's products (the " **Program** ").
+TechValidate is a technology research service that captures and verifies IT professional experiences and use of a particular vendor's products (the " **Program** ").
 
 TechValidate collects and processes IT professional responses to create " **TechFacts** " – translations of IT professional responses into approved interactive charts, statements, statistics, case studies and other forms. Only the vendor can see the source of the IT professional's responses. All TechFacts produced by TechValidate are guaranteed to be anonymous – an IT professional's name or company affiliation will not be shown to the public.
 
@@ -16,11 +16,11 @@ This Privacy Policy may be updated from time to time. We will notify you of any 
 
 Information Collection and Use 
 
-Our primary goals in collecting information are to provide and improve our Site, Program and Services, to administer any registration or account and to enable users to enjoy, easily navigate and use the Site, Program and Services.
+Our primary goals in collecting information are to provide and improve our Site, Program and Services, to administer any registration or company and to enable users to enjoy, easily navigate and use the Site, Program and Services.
 
 ##### (a) Vendor Personal Information.
 
-  * In order to participate in the Program (whether for a trial evaluation or a full subscription), vendors will be required to register with TechValidate and create an account. During this registration process, and from time to time thereafter, TechValidate will collect certain personally identifiable information from Vendors that can be used to contact or identify the Vendor in order to administer the Vendor's account (" **Vendor Personal Information** "). Vendor Personal Information includes, but is not limited to, Vendor's name, company name, address, email address, telephone and fax numbers, Vendor account password, domain address, PayPal email address and other personal information listed in the account registration form.
+  * In order to participate in the Program (whether for a trial evaluation or a full subscription), vendors will be required to register with TechValidate and create an company. During this registration process, and from time to time thereafter, TechValidate will collect certain personally identifiable information from Vendors that can be used to contact or identify the Vendor in order to administer the Vendor's company (" **Vendor Personal Information** "). Vendor Personal Information includes, but is not limited to, Vendor's name, company name, address, email address, telephone and fax numbers, Vendor company password, domain address, PayPal email address and other personal information listed in the company registration form.
   * TechValidate's primary goal in collecting Vendor Personal Information is to enable TechValidate to process, validate and verify a Vendor's identity, to contact and communicate with such Vendor regarding the Program or activities relevant to Vendors, to provide Vendors with a smooth and efficient experience of the Program, to process fees and charge vendors for participation in the Program or for any Services they have selected, to administer any Vendor inquiries and to contact Vendors about modifications to the status of any Vendor TechFacts or about any new or existing products and services that might be of interest to Vendors.
   * Some of Vendor's information (including name, company logo, address and other contact information) may be displayed in the TechFacts associated with such Vendor and will be available to the public via the Site. Vendor hereby consents to such limited display of information via the Site under the Program.
   * As requested by Vendor, TechValidate will contact and communicate with Vendor's designated IT professionals to inquire about such IT professionals' experiences with Vendor and Vendor's products and services. TechValidate will share some of Vendor's information (including name, address, other contact information and Vendor's products and services to be reviewed by the IT professional) with such designated IT professionals.
@@ -60,14 +60,14 @@ Our primary goals in collecting information are to provide and improve our Site,
 ##### (f) Communications with TechValidate.
 
   * If you contact us by email through the Site, through participation in the Program, through use of the Services or otherwise, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
-  * TechValidate may contact you with TechValidate newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from TechValidate, you may follow the unsubscribe instructions provided in any of the communications (or update your account preferences if you have a registered TechValidate account).
+  * TechValidate may contact you with TechValidate newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from TechValidate, you may follow the unsubscribe instructions provided in any of the communications (or update your company preferences if you have a registered TechValidate company).
   * TechValidate may also request that you provide personal information when you request promotional information, when you complete IT professional surveys, when you participate in contests. Finally, when you apply for a job and provide us with personal information, we will collect such information and use in the application process. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your " **user preferences** " information. (See " **Changing or Deleting Information** " below.)
 
 
 
 ##### (g) Phishing.
 
-Identity theft and the practice currently known as " **phishing** " are of great concern to TechValidate. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+Identity theft and the practice currently known as " **phishing** " are of great concern to TechValidate. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your company ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
 
 ##### Information Sharing and Disclosure
 
@@ -87,7 +87,7 @@ In addition, as a vendor, you will have the opportunity to opt out of any transf
 
 ##### Changing or Deleting Your Information
 
-All registered users of our Site, Program and Services may review, update, correct or delete the personal information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information. From time to time, we may contact you by mail, email or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, please contact us and we will attempt to accommodate your request.
+All registered users of our Site, Program and Services may review, update, correct or delete the personal information in their registration profile by contacting us. If you completely delete all such information, then your company may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information. From time to time, we may contact you by mail, email or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, please contact us and we will attempt to accommodate your request.
 
 Security 
 
@@ -109,6 +109,6 @@ The Site and use of the Program and Services are not directed to children under 
 
 ##### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at privacy@TechValidate.com or write to us at: TechValidate Software, Inc., 5424 Sunol Boulevard #10-167, Pleasanton, CA 94566.
+If you have any questions about this Privacy Policy, please contact us at privacy@TechValidate.com or write to us at: TechValidate Software, Inc., 2418 5th Street, Berkeley, CA 94710.
 
 Effective: May 15, 2009
