@@ -1,40 +1,85 @@
-> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612102351id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204084940id_/http%3A//www.alltopics.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# | AllTopics.com
 
-In the course of serving its customers, Verio acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to Verio by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by Verio in the normal course of providing service. Verio also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, Verio uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within Verio. In addition, Verio may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
+**What information do we collect?**
 
-This Privacy Policy applies only to Verio's treatment of data collected online, and does not apply to any offline data collection practices or to the data collection practices of any third parties, Verio customers, or any entities affiliated with Verio. Also, please note that use of Verio's website constitutes acceptance of this Privacy Policy. 
+AllTopics.com, referred to as we or us, will collect information from you when you register on our site. When ordering or registering on our site, as appropriate, the user, referred to as you, may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Verio's policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, Verio's policies and procedures are subject to change. Changes will be posted to the website and use of Verio�s website will constitute acceptance of and agreement to be bound by those changes. 
+**What do we use your information for?**
 
-**Data Security**
+Any of the information we collect from you may be used in one of the following ways: 
 
-Verio protects the confidentiality of its customers' information, account information and personal communications. To secure the information collected online, prevent unauthorized access, maintain data accuracy and ensure only appropriate use of information that is collected from customers, Verio has implemented appropriate physical, electronic, and managerial procedures. Further, Verio requires that employees keep customer information confidential. Verio cautions its customers and website visitors that no medium of communication, including the Internet, is entirely secure. Accordingly, Verio cannot be responsible for loss, corruption or unauthorized acquisition and use of personal information provided to our website, or for any damages resulting from such loss, corruption, unauthorized acquisition or unauthorized use. 
-
-**How is customer information used?**
-
-Verio may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs. Verio may also use customer information to provide its customers with system information or information about new or upgraded products. In addition, Verio may collect and share non personally identifiable information (such as website usage information) from visitors to its web sites with third-party companies for various purposes such as statistical analysis, performance optimization and promotional uses. In the case of a business transaction, including but not limited to, a merger or sale of a portion of Verio's assets, customer information will likely be part of the assets transferred. In this event, Verio will attempt to notify impacted customers that their information has been transferred. 
-
-**Opt Out & Modifications **
-
-Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20080612102351id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio that is essential for maintaining or updating customers' accounts or system information. 
-
-Most customers may access and modify their personal information via their online personal control panel/account information page. All other customers may access and modify their personal information by contacting the appropriate Verio Billing organization. 
-
-Domain name customers who have registered a domain name with Verio and wish to change the Technical Contact from Verio to another company, may send a request to [veriohostmaster@verio.net](mailto:veriohostmaster@verio.net). It is important to note that customer domain name registration information is made publicly available in the registry of domain names. 
-
-**Disclosure of customer information and communications**
-
-Verio will not otherwise disclose its customers' personal and account information unless Verio has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Verio, Verio's customers, or others, or where Verio has a good faith belief that the law requires such disclosure such as in response to legal process seeking disclosure of such information. Verio also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Verio stores or transmits for its customers. The circumstances under which Verio will disclose such electronic customer communications are when: 
-
-  1. it is necessary in order to provide service to the customer; 
-  2. it is necessary to protect the legitimate interests of Verio and its customers; 
-  3. it is required to cooperate with interception orders, warrants, or other legal process that Verio determines in its sole discretion to be valid and enforceable; and 
-  4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Verio and appear to pertain to the commission of a crime. 
+  * To personalize your experience - Your information helps us to better respond to your individual needs.
+  * To improve our website - We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To send periodic emails - The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 
 
-Verio disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Verio, however, review, delete or block access to communications that may harm Verio, its customers or third parties. The grounds on which Verio may take such action include, but are not limited to, actual or potential violations of Verio's [Acceptable Use Policy](http://dev.portal.verio.com/about/legal/aup.cfm). 
+_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
 
-Last revised June 2007 
+**_How do we protect your information?_**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes we do. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+_Third party links_
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+_California Online Privacy Protection Act Compliance_
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+_Children's Online Privacy Protection Act Compliance_
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+_Online Privacy Policy Only_
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.AllTopics.com.com/term_of_service.php.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+
+**This policy was last modified on June 14, 2010**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.help.AllTopics.com.com
+
+AllTopics.com.com
+
+c/o Jennifer Shearer
+
+1 Lawrence Place
+
+New Oxford, PA17350
+
+United States
+
+copyright@AllTopics.com.com
