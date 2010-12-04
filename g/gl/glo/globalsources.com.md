@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225033050id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205002556id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources - Help & FAQ
 
@@ -60,9 +60,8 @@ Cookies help us to arrange content to match your preferred interests more quickl
 
 Cookies cannot be used by themselves to identify you. Nor will acceptance of cookies on our website result in you receiving any e-mail from us. However, when you signed up for our services, you may have chosen to receive promotional or other types of e-mails from us. To check or update this choice, please see your [Notifications](https://login.globalsources.com/sso/gsol/pex/en/balat/jsp/user/notifications.jsp). 
 
-Two types of cookies are used on our website: 
-
-**Session Cookies:** These are temporary cookies that remain in the cookie file of your browser until you leave the website. 
+Two types of cookies are used on our website:   
+**Session Cookies:** These are temporary cookies that remain in the cookie file of your browser until you close the browser. 
 
 **Persistent Cookies:** These are stored in your computer and remain in the cookie file of your browser for much longer. The storage period will depend on the lifetime of the specific cookie. 
 
@@ -71,7 +70,6 @@ Two types of cookies are used on our website:
 **Session Cookies:** | •  | To allow you to access stored information within a registration process.  
 ---|---  
 •  | To allow you to carry information across pages of our website and avoid you having to re-enter information. For example, to help automatically fill in your inquiry or other forms with your contact and other applicable details.  
-•  | To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.  
 •  | To allow you to maintain an inquiry basket, and to help us determine which of our active supplier community members you are addressing your inquiries to.  
 •  | To identify you as a member, customer or referred user of an alliance or business partner, when you log-in using a unique reference code previously issued to you.  
 •  | To determine if you have already visited or logged-in to our website.  
@@ -87,8 +85,10 @@ Two types of cookies are used on our website:
 •  | To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way.  
 •  | Within research surveys, to ensure you are not invited to complete a questionnaire too often, or after you have already done so.  
   
-**Third Party Cookies:** •  | Third parties serve cookies through this website. These are used for counting the number of anonymous users referred to our website by the third parties. These cookies do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign.  
+**Third Party Cookies:**   
+Third parties also serve or use cookies through this website. These cookies do not carry any personally identifiable information and are used for the following purposes:  • | To assist with tracking and analyzing our website's user behavior.  
 ---|---  
+• | To show our advertisements on various sites on the Internet. The third party remarketing vendors concerned use cookies to serve our advertisements based on a user's prior visits to our website. Users may opt out of a third party remarketing vendor's use of cookies by visiting the relevant advertising opt-out page of that particular remarketing vendor's website (e.g. [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or [Dapper advertising opt-out page](http://www.dapper.net/optout.html) etc., as applicable), or by visiting the general [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) (where applicable).   
   
 **Web Beacons**   
 Some pages on our website may contain images known as "web beacons" (also known as "clear gifs"), some of which may be served by third parties. They allow us to count users who have viewed these pages. Web beacons collect only limited information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. These web beacons do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign. 
@@ -96,21 +96,21 @@ Some pages on our website may contain images known as "web beacons" (also known 
 **Disabling/Enabling Cookies**   
 There are a number of ways to manage your cookies. You can decide to accept or decline cookies by modifying the settings in your browser. You can also set-up your browser to warn you every time a cookie is sent, so that you can review the cookie before you decide whether or not to accept it. 
 
-For example, if you are using Microsoft Internet Explorer 5.5 or earlier: 
+For example, if you are using Microsoft Internet Explorer 6, 7 or 8: 
 
-> •  | Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).  
+> •  | Click on "Internet Options" from the "Tools" menu in your browser.  
 > ---|---  
-> •  | Select the "Security" tab.  
-> •  | Click the web content zone which you want, and then click "Custom Level".  
-> •  | Under "Cookies", select the options you want, click "OK", and then click "OK".  
+> •  | Select the "Privacy" tab.  
+> •  | Select a setting for the internet zone which you want and click "Apply" then "OK".  
+> •  | Or click on "Advance", then Select "Override automatic cookie handling, then select the options you want, click "OK", and then click "OK".  
   
-If you are using Netscape version 6: 
+If you are using Firefox: 
 
-> •  | Go to "Edit" in the menu, and click on "Preferences".  
+> •  | Click on "Options..." from the "Tools" menu in your browser.  
 > ---|---  
-> •  | Click on "Advanced" and then select the "Cookies" field.  
-> •  | Choose your preferred cookies option by checking the appropriate box.  
-> •  | Click on "OK" to close the box and save your changes.  
+> •  | Select the "Privacy" tab.  
+> •  | Select a setting for "Accept cookies from sites" and "Accept third-party cookies", then "OK".  
+> •  | Or click on "Advance", then Select "Override automatic cookie handling, then select the options you want, click "OK", and then click "OK".  
   
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings. 
 
@@ -121,22 +121,41 @@ Some of our site services or features require cookies. If you disable or do not 
 **Deleting Cookies**   
 You can delete any cookies that have been installed in the cookie folder of your browser. 
 
-For example, if you are using Microsoft Internet Explorer version 5.5 or earlier: 
+For example, if you are using Internet Explorer 6: 
 
-> •  | Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).  
+> •  | Exit Internet Explorer 6, and then exit any instances of Windows Explorer.  
 > ---|---  
-> •  | Under the "General" tab, click on the "Settings..." button.  
+> •  | Click "Start", click "Run", type "inetcpl.cpl", and then press ENTER.  
 > •  | In the "Settings" box, click on the "View Files..." button at the bottom.  
 > •  | You will now see a list of all the temporary files that Internet Explorer has stored in your computer for quick access. This is also where all cookies are stored.  
 > •  | Select the cookie file(s) which you wish to delete, then hit the "Delete" button on your keyboard. Press "Yes" at the prompt to confirm your deletion.  
   
-If you are using Netscape version 6: 
+If you are using Internet Explorer 7: 
 
-> •  | Click on "Preferences" from the "Edit" menu.  
+> •  | Exit Internet Explorer 7, and then exit any instances of Windows Explorer.  
 > ---|---  
-> •  | Under the "Advanced" tab, go to the "Cookies" option, then click on the "View Stored Cookies" button.  
-> •  | A "Cookie Manager" box will appear. Scroll down to review and select the cookie file(s) which you wish to delete, then click "Remove Cookie". You can also click on the "Remove All Cookies" button to clear all cookies stored in your computer.  
-> •  | Click "OK", and "OK" again, to close the boxes and save your changes.  
+> •  | Click "Start", click "Run", type "inetcpl.cpl", and then press ENTER.  
+> •  | On the "General" tab, click "Delete" under Browsing History in the Internet Properties dialog box.  
+> •  | In the Delete Browsing History dialog box, click "Delete Cookies".  
+> •  | In the Delete Cookies dialog box, click "Yes".  
+  
+If you are using Internet Explorer 8: 
+
+> •  | Exit Internet Explorer 8, and then exit any instances of Windows Explorer.  
+> ---|---  
+> •  | Click "Start", click "Run", type "inetcpl.cpl", and then press ENTER.  
+> •  | On the "General" tab, click "Delete" under Browsing History in the Internet Properties dialog box.  
+> •  | In the Delete Browsing History dialog box, click to clear all of the check boxes except for the "Cookies" check box.  
+> •  | Click "Delete".  
+  
+If you are using Firefox: 
+
+> •  | Click on "Options¡­" from the "Tools" menu in your browser.  
+> ---|---  
+> •  | Select the "Privacy" tab.  
+> •  | Click "Show Cookies..."  
+> •  | You can either click "Remove All Cookies" to remove all cookies   
+> •  | Or you can remove selective cookie by select and click "Remove Cookie"   
   
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies. 
 
