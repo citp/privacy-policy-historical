@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohio.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513054614id_/http%3A//www.ohio.com/about/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204085702id_/http%3A//www.ohio.com/about/terms.html) for the most accurate reproduction.*
 
 # Ohio.com - Terms of Use
 
@@ -108,6 +108,12 @@ In compliance with the Children's Online Privacy Protection Act (COPPA), we will
 ### Acceptance of Privacy Policy.
 
 By using Beacon Journal Publishing Co., Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Beacon Journal Publishing Co., Inc. sites. We reserve the right to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Beacon Journal Publishing Co., Inc. sites following notification or posting of such changes will constitute your acceptance of those changes. If you have questions or concerns about our specific policies, please contact us through our feedback form at: [Ohio.com Feedback](mailto:ohiofeedback@thebeaconjournal.com "click here to contact Ohio.com Feedback").
+
+### AP Registry Privacy Policy
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage infomation and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx for further information.
+
+* * *
 
 Want more information? Check out these helpful links...
 
