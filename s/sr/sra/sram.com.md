@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sram.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914154119id_/http%3A//www.sram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sram.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204052518id_/http%3A//www.sram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | SRAM
 
