@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfreeproxy.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfreeproxy.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Free Proxy
 
@@ -24,11 +24,11 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-  * [Home](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/index.php)
-  * [Edit Browser](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20100114091043id_/http%3A//www.adfreeproxy.com/terms.php)
+  * [Home](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/index.php)
+  * [Edit Browser](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20101204220825id_/http%3A//adfreeproxy.com/terms.php)
 
 
