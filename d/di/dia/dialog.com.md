@@ -1,49 +1,51 @@
-> *The following text is extracted and transformed from the dialog.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516030538id_/http%3A//www.thomsonreuters.com/content/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialog.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205183002id_/http%3A//www.dialog.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Dialog Privacy Policy
 
-#### WHAT INFORMATION ABOUT YOU DO WE COLLECT? 
+Privacy Policy
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
+Dialog is committed to protecting your privacy. We pledge to use information about our visitors and customers responsibly. We will not sell, share, or rent this information, for commercial purposes, to any person or organization outside Dialog and its support affiliates. 
 
-##### Personally Identifiable Information You Choose to Provide. 
+This notice applies to all information collected from or submitted to Dialog.com, its associated subdomains, and Dialog product sites. Our Web site contains links to other Web sites operated by third parties. Dialog is not responsible for the privacy practices or policies of these sites. We encourage you to review the privacy policy of each site you visit.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about Thomson Reuters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
+If you have any questions about Dialog.com's privacy policy, you may e-mail [customer@dialog.com](mailto:customer@dialog.com) or call 800 334 2564.
 
-##### Non-Personally Identifiable Information We Collect. 
+Information Collection and Use
 
-Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+Our Web site does not automatically collect personally identifiable information from each visitor. We do recognize and collect IP address, browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state. This information is used to analyze trends, administer the site, track visitors' movement, and analyze broad demographic trends.
 
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+In order to offer and provide a customized, personal experience, Dialog uses cookies to store and help track your information. For example, we use cookies to help remind us who you are and to deliver content and services based on your account information. Cookies are simply pieces of information that are sent to your browser from a Web server and stored on your computer's hard drive. The use of cookies is relatively standard and you will likely find them used on most other major Web sites. Most browsers are initially set up to accept cookies. You will not be able to use Dialog products and services if you set your browser to not accept cookies.
 
-#### HOW DO WE USE THE INFORMATION WE COLLECT? 
+In some areas of our site, we ask you to provide personally identifiable information. The personal information you provide will be kept confidential and used only to support your interactions with Dialog.
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.
+Registration
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
+For downloads of company logos, software and documentation, Dialog may require visitors to register. During registration, a visitor is required to give their name, company name, address, e-mail address and phone number. This information is used to notify the visitor about the services on our site for which they have expressed interest. It is optional for the visitor to provide demographic information such as practice area or type of firm, but is encouraged so we can provide a more personalized experience on our site.
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
+Newsletters and Special Promotions
 
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
+If a visitor wishes to subscribe to our newsletters and special promotions, we ask for contact information such as name and e-mail address. Dialog will not sell, share, or rent this information, for commercial purposes, to any person or organization outside Dialog and its support affiliates.
 
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+Purchases
 
-#### HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES? 
+Dialog will request name, address, and financial information to facilitate your online purchase. This information is strictly confidential. Financial information is only used for billing purposes and to complete customers' orders. We do not store credit card numbers on Dialog.com.
 
-If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
+Information Requests
 
-#### PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET 
+Questions and requests for information about Dialog products and services will be retained for follow up with individuals in addressing their specific inquiries. Dialog may also contact you by mail or telephone regarding information on new products and services related to that request.
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+Circumstances may arise where Dialog is legally required to disclose personal information to third parties such as in connection with a corporate divestiture or dissolution, or governmental investigations.
 
-#### DATA SECURITY 
+Choice/Opt-out
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+Dialog will send you information about our various products and services. Visitors and customers who no longer wish to receive our special e-mail promotions or newsletters may opt-out of receiving these communications by replying to the e-mail or by completing the form at [http://www.dialog.com/contacts/mailinglists/](https://web.archive.org/contacts/mailinglists/).
 
-#### CONSENT TO TRANSFER 
+Notification of Changes
 
-This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post and highlight the policy changes in our privacy policy on Dialog.com. 
 
-#### LINKS 
+Security
 
-This Web Site contains links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please be aware that Thomson Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+Personal information is handled with the same quality of care as all other Dialog information to ensure the integrity and security of your data. Dialog develops a variety of products and services for use by commercial customers. When you sign on to selected services, your password and user ID are automatically encrypted using Secure Sockets Layer (SSL) software so that they cannot be understood by a third party. When we ask users to provide sensitive information (such as a credit card number), that information is encrypted and protected with Secure Sockets Layer (SSL) encryption technology. While on a secure page, the lock icon on the bottom of your Web browser becomes locked. You can also identify the secure connection by looking at the URL, which will begin with https: (instead of http:). 
+
+If you have any questions about Dialog.com's privacy policy, you may e-mail [customer@dialog.com](mailto:customer@dialog.com) or call 800 334 2564. 
