@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527175238id_/http%3A//www1.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205063350id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Talbots Customer Service- Privacy Policy
 
