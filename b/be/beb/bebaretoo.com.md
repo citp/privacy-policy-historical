@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebaretoo.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124143036id_/http%3A//www.bebaretoo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebaretoo.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205202035id_/http%3A//www.bebaretoo.com/privacy.html) for the most accurate reproduction.*
 
 # BeBareToo.com - Our Service Privacy Policy
 
