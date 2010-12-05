@@ -1,27 +1,50 @@
-> *The following text is extracted and transformed from the ixfu.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402010417id_/http%3A//www.ixfu.com/htmlpages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixfu.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010552id_/http%3A//www.ixfu.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Flash Arcade Games
+# ixfu - PC games download
 
-ixfu.com, hereafter the Company, is very cautious about how your information is collected when you surf our website and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us. 
+ixfu Privacy Policy
 
-The Company agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
+The following discloses our information gathering and dissemination practices for ixfu.com. You can reach us with questions regarding this statement via the [contact page](http://www.ixfu.com/contactus.php).
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Company's Chats, Communities, or other public online forums, this information may be collected and used by others. The Company encourages you to review the privacy statements of websites you choose to link to from the Company so that you can understand how those websites collect, use and share your information. The Company is not responsible for the privacy statements or other content on websites outside of the Company's websites. 
+Your IP address is used only when you become a member as a backup identification tool for polls and other member services. 
 
-There is also information about your computer hardware and software that is automatically collected by the Company. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by the Company for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Company's websites. 
+Our sites use cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our sites, and for other purposes. These cookies are used soley for the sites, and the content contained is not distributed to third parties. 
 
-The Company's websites use your personal information to operate and deliver the services you have requested. The Company's websites also use your personally identifiable information to inform you of other products or services available from the Company and its affiliates when requested through its mailing list. The Company may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+Our site's registration form requires users to give us contact information (like their name and e-mail address). We use customer contact information from the registration form to send the user information related to ixfu.com only when requested by said user. The customer's contact information is also used to contact the visitor when necessary. Your e-mail address will never be given or sold to a third party and will only be viewed by ixfu. Your mobile device e-mail address not be disclosed and will only be used for sending breaking news upon request. Other information you use will only be used to collect broad demographic information about our visitors. 
 
-The Company does not sell, rent or lease its client lists to third parties. The Company may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, the Company may share data with trusted partners to help us perform statistical analysis. All such third parties are prohibited from using your personal information except to provide these services to the Company, and they are required to maintain the confidentiality of your information. 
+This site contains links to other sites. ixfu is not responsible for the privacy practices or the content of such Web sites. 
 
-The Company keeps track of the websites and pages our client's visit, in order to determine what websites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. The Company uses third-party advertising companies to serve ads when you visit our website(s). These companies may use non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We do 
+### Third Party Advertising
 
-_NOT_ share or distribute personal information such as your name, address, email address, or telephone number. If you wish to opt-out of this demographic collecting, [click here](http://www.echosearchmedia.com/opt-out.html). 
+We could use third-party advertising companies to serve ads when you visit our sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of QJ.NET, but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
+### Third Party Cookies
 
-This Privacy Statement may be subject to change without notice. This notice will still govern your use of our services and it is your responsibility to review them for any occurring changes. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-The Company does not sell products on its own. If you are under 18, you may use the services and offers only with involvement and approval of a parent. 
+### Public Forums
 
-If you choose to visit our website and use our services in any way, your visit and any dispute over privacy is subject to this Privacy Statement and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state. Our business changes constantly. This Privacy Statement and the Conditions of use will change too and use of information that we gather now is subject to the Privacy Statement in effect at the time of use. You should check our website frequently to see any new changes.
+Our sites make message boards available free to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+### Security
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users. Staff overlook server access daily to ensure the above holds true. 
+
+### Children's Guidelines
+
+This site gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. 
+
+In order to comply with the COPPA ruling, if you are younger than 13 years of age, you are forbidden from becoming a member of ixfu or posting information on ixfu message boards without direct parental consent. You may have your parent or guardian contact us to verify that you have been granted permission to use this site. 
+
+### Newsletter and Information Removal
+
+This site gives users the following options for removing their information from our database, deciding to stop receiving our future communications or change their frequency: 
+
+  1. You can [contact us](http://www.ixfu.com/contactus.php)
+  2. You can edit your preferences via the ixfu.com main page, Account Information
+
+
+
+### Contacting the Web Site
+
+If you have any questions about this privacy statement, you can reach us via the [contact page](http://www.ixfu.com/contactus.php).
