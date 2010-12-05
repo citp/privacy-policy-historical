@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626101723id_/http%3A//www.bannerconnect.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205113623id_/http%3A//www.bannerconnect.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BannerConnect - Online Advertising
 
@@ -32,7 +32,7 @@ Though BannerConnect will take reasonable measures to ensure that users under th
 
 ### Privacy Contact Info:
 
-BannerConnect, a division of TechConnect B.V.  
+BannerConnect B.V.  
 Geerweg 11  
 6135KB Sittard, Netherlands  
 Phone: +31 46 7074992  
