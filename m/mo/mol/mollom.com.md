@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609183128id_/http%3A//mollom.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205123859id_/http%3A//mollom.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy | Mollom
 
@@ -31,8 +31,8 @@ This website also uses Google Analytics to collect non-identifying and aggregate
 Mollom.com is operated by
 
 Mollom BVBA  
-Langveld 2, bus 12  
-2600 Berchem (Antwerp)  
+Lage Kaart 71  
+2930 Brasschaat  
 Belgium  
 VAT number: BE 0899 193 661
 
