@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623123103id_/http%3A//www.belleproperty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205113150id_/http%3A//www.belleproperty.com/other/privacy.php) for the most accurate reproduction.*
 
-# Belle Property
+# Privacy | www.belleproperty.com
 
 At Belle Property your privacy is important to us and as such we ensure that we handle your information in accordance with the National Privacy Principles as set out in the 2000 Privacy Act.
 
@@ -54,4 +54,4 @@ Following a written request we will in accordance with the provision of the Priv
 
 ## How to contact us
 
-If you wish to contact us about your personal information you should contact: Fiona Biondi Chief Operating Officer Phone: +61 2 8969 2721  Email: [fiona.biondi@belleproperty.com](mailto:fiona.biondi@belleproperty.com) during normal office hours Monday - Friday 9.00am - 5.00pm
+If you wish to contact us about your personal information you should contact: Fiona Biondi Chief Operating Officer Phone: +61 2 8116 9444  Email: [fiona.biondi@belleproperty.com](mailto:fiona.biondi@belleproperty.com) during normal office hours Monday - Friday 9.00am - 5.00pm
