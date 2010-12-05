@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kokeytechnology.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619083305id_/http%3A//www.kokeytechnology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokeytechnology.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062348id_/http%3A//www.kokeytechnology.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technology Talks
+# Privacy Policy | Technology Talks - Review, Specs, Release Date
 
 Privacy Policy for www.kokeytechnology.com (Technology Talks)
 
@@ -27,5 +27,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [Technology Talks](http://www.kokeytechnology.com/)
-
-If you're new here, you may want to subscribe to my [RSS feed for Free](http://feeds.feedburner.com/TechnologyTalks) and get the latest updates and news on gadgets, cell phones, mp3 players, free downloadable softwares, computer tips, cell phone hacks, networking, game review and internet technology.
