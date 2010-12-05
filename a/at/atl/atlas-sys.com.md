@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlas-sys.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502171721id_/http%3A//www.atlas-sys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlas-sys.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205101711id_/http%3A//www.atlas-sys.com/privacy.html) for the most accurate reproduction.*
 
 # Atlas Systems, Inc. - Products
 
