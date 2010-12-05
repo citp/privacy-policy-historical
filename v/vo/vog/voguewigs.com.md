@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429170235id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205013554id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,3 +53,5 @@ You can send email to questions@voguewigs.com You can visit the following URL: w
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
