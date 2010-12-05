@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallmart.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511115149id_/http%3A//www.wallmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallmart.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010145id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
 # Walmartstores.com: Walmart Privacy Policy
 
@@ -264,7 +264,7 @@ Please check our privacy policy periodically for changes. We will also notify yo
 
 **Contacting the Privacy Office**
 
-[Email Privacy Office](http://walmartstores.com/AboutUs/9662.aspx?p=9073) \- Please feel free to contact the privacy office with any questions or comments about this policy or about how your information is handled. You can also contact us via the addresses below:
+[Email Privacy Office](https://web.archive.org/contactus/feedback.aspx) \- Please feel free to contact the privacy office with any questions or comments about this policy or about how your information is handled. You can also contact us via the addresses below:
 
 **Mail:**  
 Walmart Corporate  
