@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herdict.org privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119144108id_/http%3A//www.herdict.org/web/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdict.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205131337id_/http%3A//www.herdict.org/web/privacy/en) for the most accurate reproduction.*
 
 # HerdictWeb : About
 
@@ -6,7 +6,7 @@ Want to know when your favorite site is inaccessible? Sign up for e-mail alerts 
 
 ## PRIVACY STATEMENT
 
-This Privacy Statement governs the Herdict Web project ("Herdict Web") at the Berkman Center for Internet and Society ("BCIS"), which includes the Herdict Web Site (the "Herdict Web Site"), the Herdict Reporter (a part of the Herdict Web Site) (the "Reporter"), the Herdict Commons (a part of the Herdict Web Site) (the “Herdict Commons”), and the Herdict Web Browser Add-on (the "Add-on"). For the purposes of this Privacy Statement, “Herdict” will be used to refer to BCIS, Herdict Web, the Herdict Web Materials, and any other associated projects, web sites, or services. For more information on how Herdict Web works, [click here](https://web.archive.org/web/20091119144108id_/http://www.herdict.org/web/about/herdict.org/web/about). 
+This Privacy Statement governs the Herdict Web project ("Herdict Web") at the Berkman Center for Internet and Society ("BCIS"), which includes the Herdict Web Site (the "Herdict Web Site"), the Herdict Reporter (a part of the Herdict Web Site) (the "Reporter"), the Herdict Commons (a part of the Herdict Web Site) (the “Herdict Commons”), and the Herdict Web Browser Add-on (the "Add-on"). For the purposes of this Privacy Statement, “Herdict” will be used to refer to BCIS, Herdict Web, the Herdict Web Materials, and any other associated projects, web sites, or services. For more information on how Herdict Web works, [click here](http://www.herdict.org/web/about). 
 
 We are committed to respecting and protecting your personal privacy. This Privacy Statement describes what information the site collects, how this information is used, and with whom we may share the information. Your submission of data to the site indicates your agreement with the terms of the Privacy Statement. Because this statement may change, please check back for updates to this Privacy Statement.
 
