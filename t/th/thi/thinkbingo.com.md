@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330070601id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205033203id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Think Bingo. Join now & get up to £100 FREE
 
