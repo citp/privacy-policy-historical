@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605040119id_/http%3A//www.meed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205180838id_/http%3A//www.meed.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# MEED: Middle East business intelligence, news, data, analysis, reports, consulting and services
 
   
 
