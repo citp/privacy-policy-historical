@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enviropack.org.uk privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601042230id_/http%3A//www.enviropack.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enviropack.org.uk privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205020204id_/http%3A//www.enviropack.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Enviropack
 
