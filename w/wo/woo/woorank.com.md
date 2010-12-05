@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woorank.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609140413id_/http%3A//woorank.com/en/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woorank.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205182952id_/http%3A//www.woorank.com/en/p/privacy) for the most accurate reproduction.*
 
 # Privacy | WooRank
 
@@ -7,6 +7,8 @@
 At WooRank, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our website analysis tool, why we collect it and how we use it to improve your experience. By using the WooRank web tool, you consent to the data practices described in this statement.
 
 **Information Collection**
+
+Every data collected by the Woorank tool can be manually accessed by several other means publicly available online (Whois Lookup, Google Cached Pages, etc.). That's why every single report generated on www.woorank.com is considered 'public' and is thus stored in our database. Furthermore it can be indexed by search engines.
 
 WooRank collects and uses website information to operate its website analysis tool and deliver the services you have requested. This information can include: IP address, domain names, estimated visitors, in-site and off-site SEO analysis, usability, access times and referring website addresses. This information is used by WooRank for the operation of its service and to provide general statistics regarding use of the WooRank web tool.
 
