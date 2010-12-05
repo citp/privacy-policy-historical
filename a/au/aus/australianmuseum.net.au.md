@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426043951id_/http%3A//australianmuseum.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianmuseum.net.au privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205191535id_/http%3A//australianmuseum.net.au/privacy) for the most accurate reproduction.*
 
 # Australian Museum Web Privacy Statement - Australian Museum
 
@@ -77,4 +77,4 @@ If you do not wish to use the Internet, the Australian Museum can be contacted b
 
 ### Privacy concerns
 
-If you have any questions about this privacy statement, please contact the Web Manager: or the Museum's Privacy Officer or tel: 02 9320 6185. Further information on NSW privacy law can be found at [Privacy NSW's website.](http://www.lawlink.nsw.gov.au/privacynsw)
+If you have any questions about this privacy statement, please contact the Web Manager: or the Museum's Privacy Officer or tel: 02 9320 6046. Further information on NSW privacy law can be found at [Privacy NSW's website.](http://www.lawlink.nsw.gov.au/privacynsw)
