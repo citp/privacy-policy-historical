@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the energizer.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220004702id_/http%3A//energizer.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energizer.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205184353id_/http%3A//energizer.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Energizer.com Privacy Policy. Energizer.com
+
+Energizer is dedicated to preserving the privacy of all personal information about visitors to this site.
 
 Energizer is dedicated to preserving the privacy of all personal information about visitors to this site. 
 
 This website is owned and operated by the Eveready Battery Company, Inc. (hereinafter "Energizer") for the purpose of providing to its user information about Energizer branded products, family safety, battery education and entertainment. Energizer is concerned about preserving the privacy of all personal information about visitors to this site. Please be assured that Energizer does not share or sell any information that you give us, except as detailed below. Any personally identifiable information collected by Energizer on this site is for special offer fulfillment purposes, providing users with information on family safety, battery education and entertainment, and that information is destroyed once the request or offer has been fulfilled. However, if you choose to opt-in for future offers and updates, your information will be kept in a secure database in order to alert you via e-mail to new features, special offers, updated information and new services. As a further explanation of this privacy statement, we have prepared this disclosure regarding the privacy practices for the [website](https://web.archive.org/Pages/default.aspx).
 
 If you feel that Energizer is not abiding by its posted privacy policy, you should contact us immediately at [webmaster@energizer.com](mailto:webmaster@energizer.com) or Energizer Headquarters, 533 Maryville University Drive, St. Louis, MO 63141, ATTN: energizer.com or phone (800) 383-7323.
+
+Our Sites may contain links to sites operated, controlled and maintained by independent third parties.  We do not control the use of information you may provide to such third parties.  If you access other sites using the links provided in our Sites, the operators of the third-party sites may collect information from you which will then be used by them in accordance with their own privacy policies; those policies may differ from ours.  It is your responsibility to familiarize yourself with such third-parties' privacy policies.
 
 Information Collection and Use
 
