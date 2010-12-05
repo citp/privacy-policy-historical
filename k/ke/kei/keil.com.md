@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106164643id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205175753id_/http%3A//www.keil.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Keil Privacy Statement
 
@@ -17,7 +17,7 @@ Your privacy is important to us. For this reason, we have made a commitment to m
   * [Discussion Forum](https://web.archive.org/forum/),
   * [Licensing and Registering a Product](https://web.archive.org/license/),
   * [Downloading a Product Update](https://web.archive.org/update/),
-  * [Requesting Technical Support](https://www.keil.com/support/gethelp.asp),
+  * [Requesting Technical Support](https://www.keil.com/support/request.asp),
   * [Requesting a Quote](https://www.keil.com/product/prices.asp),
   * [Requesting Product Information](https://www.keil.com/product/info.asp),
   * [Registering for a Training Course](https://web.archive.org/events/),
