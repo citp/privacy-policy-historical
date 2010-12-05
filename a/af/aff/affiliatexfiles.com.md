@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604062416id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205064427id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[](http://www.affiliatexfiles.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=259)  
-
-
-  
-
 
 ### Affiliate X Files Privacy Policy
 
@@ -34,11 +28,8 @@ This website may contain Ads by Google. They have recently instituted the new â€
 
 **Changes to this Privacy Policy**
 
-Affiliate X Files might change our privacy policy from time to time and without consultation. If major changes are made in a way that your personal information could be used, we will post a prominent announcement on our website affiliatexfiles.net notifying you as a subscriber of the change. Allowing you the option to unsubscribe from our mailing list and any further communications.
+Affiliate X Files might change our privacy policy from time to time and without consultation. If major changes are made in a way that your personal information could be used, we will post a prominent announcement on our website affiliatexfiles.com notifying you as a subscriber of the change. Allowing you the option to unsubscribe from our mailing list and any further communications.
 
 Thanking You For Your Time ,
 
-[](http://www.affiliatexfiles.com/wp-content/uploads/2009/03/ronsig2.png)
-
-[](http://www.affiliatexfiles.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=123)  
-
+[](http://affiliatexfiles.s3.amazonaws.com/wp-content/uploads/2009/03/ronsig2.png)
