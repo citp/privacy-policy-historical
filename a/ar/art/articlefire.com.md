@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefire.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510005136id_/http%3A//www.articlefire.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefire.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205161559id_/http%3A//www.articlefire.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy ArticleFire.com - Grab These Free Articles, Get Free Web Content and Free Traffic To Your Website Instantly...
 
