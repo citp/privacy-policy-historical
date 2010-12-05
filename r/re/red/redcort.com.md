@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601022023id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Redcort Software, Publishers of Virtual TimeClock
 
@@ -22,7 +22,7 @@ Our site uses order forms for customers to request information, products, and se
 
 ## Choice / Opt Out
 
-To remove your information from our database to assure you receive no future communications or service, [contact us ](https://web.archive.org/web/20100601022023id_/http%3A//www.redcort.com/company/ "Contact Us")[here](https://web.archive.org/web/20100601022023id_/http%3A//www.redcort.com/company/ "Contact Us").
+To remove your information from our database to assure you receive no future communications or service, [contact us ](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Redcort Software")[here](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
 
 ## Other Sites
 
@@ -30,4 +30,4 @@ This site contains links to other web sites that are not affiliated with Redcort
 
 ## Further Information
 
-If you have any questions about this privacy statement or the practices of Redcort Software, [contact us ](https://web.archive.org/web/20100601022023id_/http%3A//www.redcort.com/company/ "Contact Us")[here](https://web.archive.org/web/20100601022023id_/http%3A//www.redcort.com/company/ "Contact Us").
+If you have any questions about this privacy statement or the practices of Redcort Software, [contact us ](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Us")[here](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Us").
