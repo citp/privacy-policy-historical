@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315090542id_/http%3A//www.designpublic.com/privacy-policy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205072213id_/http%3A//www.designpublic.com/privacy-policy-security) for the most accurate reproduction.*
 
 # Privacy Policy & Security
 
-EASY 30 DAY RETURNS & FREE DELIVERY on orders over $50 *Some exclusions apply.
-
-We are committed to protecting the privacy of our customers and to providing a secure and safe shopping experience. If you have any questions at all about our policies, please [contact us](https://web.archive.org/web/20100315090542id_/http%3A//www.designpublic.com/index.php?mod=contact).
+We are committed to protecting the privacy of our customers and to providing a secure and safe shopping experience. If you have any questions at all about our policies, please [contact us](https://web.archive.org/web/20101205072213id_/http%3A//www.designpublic.com/support).
 
 ## What information we collect and why
 
@@ -41,5 +39,3 @@ Maintaining the security of your personal information is extremely important to 
 ## Notification of Changes
 
 If we decide it is necessary to change our privacy policy, we will post those changes to this privacy statement and to any other place we deem appropriate so that our users are always aware of what information is collected and how it is used or shared. We will use information in accordance with the privacy policy under which the information was collected unless otherwise permitted by the user.
-
- 
