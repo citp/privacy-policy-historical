@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409013137id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205225241id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
 
-# High Fashion Home : Privacy Policy
+# Contemporary Furniture, Accessories, and more at High Fashion Home : Privacy Policy
 
 |  High Fashion Home is committed to respecting your privacy and recognizing your need for protecting your private information. We collect a variety of information from you directly, such as your name, email and postal addresses, phone and credit card numbers, when you make a purchase on our website, submit email correspondence on our website, register for an account, or join the HF Club. We collect customer information in an effort to ensure orders are fulfilled accurately, improve our merchandise selection, enhance your shopping experience, and communicate with you about our products, services, and promotions. We do not share, sell, or trade your personally identifiable information with third parties.
 
