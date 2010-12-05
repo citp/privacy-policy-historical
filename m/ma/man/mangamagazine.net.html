@@ -1,0 +1,259 @@
+<!--The following is the downloaded HTML source of the mangamagazine.net privacy policy that was archived on 2010-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205034308id_/http%3A//www.mangamagazine.net/corp/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>MangaMagazine</title>
+<link href="/css/mangamagazine.css?1290025045422" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico"> 
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/script/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/script/thickbox.js"></script>
+<script type="text/javascript" src="/script/jquery.qtip-1.0.0-rc3.js"></script>
+<script type="text/javascript" src="/script/custom.js"></script>
+<script type="text/javascript" src="/script/jquery.jtruncate.js"></script>
+<script type="text/javascript"><!--
+	//<![CDATA[
+$(document).ready(function(){
+
+	//Hide (Collapse) the toggle containers on load
+	$(".toggle_container").hide(); 
+
+	//Switch the "Open" and "Close" state per click then slide up/down (depending on open/close state)
+	$("h2.trigger").click(function(){
+		$(this).toggleClass("active").next().slideToggle("slow");
+	});
+
+/*
+	$('.truncated').jTruncate({  
+        length: 250,
+        minTrail: 20,
+        moreAni: "fast"
+    });
+
+	$('.thumbNavDescription').jTruncate({  
+        length: 190,
+        minTrail: 20,
+        moreAni: "fast"
+    });
+	$('.thumbNavAuthorDescription').jTruncate({  
+        length: 350,
+        minTrail: 20,
+        moreAni: "fast"
+    });
+*/
+    	$('.thumbNavChapterDescription').jTruncate({  
+        length: 100,
+        minTrail: 20,
+        moreAni: "fast"
+    });
+/*
+	$('.thumbNavMangaDescription').jTruncate({  
+        length: 190,
+        minTrail: 20,
+        moreAni: "fast"
+    });	
+	$('.thumbNavBlurb').jTruncate({  
+        length: 80,
+        minTrail: 20,
+        moreAni: "fast"
+    });
+*/
+
+    var signInLink = $("#signInLink");
+
+    if(signInLink.length > 0) {
+        signInLink[0].href = signInLink[0].href + "?returnUrl=" + window.location.pathname;
+    }
+
+    var $helloUsername = $('#helloUsername');
+
+    if($helloUsername.size() > 0) {
+    	var username = $helloUsername.text();
+
+    	if(username) {
+        	if(username.length > 25) {
+            	username = username.substr(0, 25) + "...";
+        	}
+    	}
+    	
+    	$helloUsername.html(username);
+    }
+});	
+
+	//]]>	
+	--></script>
+
+<link rel="stylesheet" href="/css/thickbox-reader.css" type="text/css" media="screen">
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18902273-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+<body>
+
+<div id="header" class="fixedNav">
+	<div align="center" id="header_inner" class="fixedNav_inner">
+		
+		
+			
+				
+				<div class="fixedNav_inner">
+					
+					<div class="fixedNav_left"><a id="signInLink" href="https://web.archive.org/boston?returnUrl=/web/20101205034308id_/http%3A//www.mangamagazine.net/corp/privacypolicy">Sign in</a> to access exclusive content.  New reader?  <a href="/register">Register</a> for FREE!</div>
+					<div class="fixedNav_right">Prospective author? <a href="/welcomenewauthor">Start here</a>.</div>
+				</div>
+	        
+	        
+        
+        
+	</div>
+</div>
+
+<div id="wrapper">
+	<div id="topStrip">
+		<a href="/"><img src="/img/MM_beta-logo_225x55.png" width="255" height="55" alt="Go to MangaMagazine Home"></a>
+		<div id="menuBar" class="box" style="background: transparent">
+				<table cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+ 							<td class="adjacentCol">
+	 							<a href="/news" style="text-decoration: none;">
+	 								<div id="menuButtonLeft" class="browseButton">Blog</div>
+	 							</a>
+	 						</td>
+ 							<td class="adjacentCol"><div id="menuButtonDivider"></div></td>
+ 							<td class="adjacentCol">
+	 							<a href="/schedule" style="text-decoration: none;">
+	 								<div id="menuButtonMiddle" class="browseButton">Schedule</div>
+	 							</a>
+	 						</td>
+ 							<td class="adjacentCol"><div id="menuButtonDivider"></div></td>
+ 							<td class="adjacentCol">
+	 							<a href="/mangas" style="text-decoration: none;">
+	 								<div id="menuButtonMiddle" class="browseButton">Manga</div>
+	 							</a>
+	 						</td>
+ 							<td class="adjacentCol"><div id="menuButtonDivider"></div></td>
+ 							<td class="adjacentCol">
+	 							<a href="/authors" style="text-decoration: none;">
+	 								<div id="menuButtonMiddle" class="browseButton">Authors</div>
+	 							</a>
+	 						</td>
+ 							<td class="adjacentCol"><div id="menuButtonDivider"></div></td>
+ 							<td class="adjacentCol">
+	 							<a href="/forum/forums/list.page" style="text-decoration: none;">
+	 								<div id="menuButtonMiddle" class="browseButton">Forum</div>
+	 							</a>
+	 						</td>
+							<td class="adjacentCol"><div id="menuButtonDivider"></div></td>
+ 							<td class="adjacentCol">
+	 							<a href="/specials" style="text-decoration: none;">
+	 								<div id="menuButtonRight" class="browseButton">Specials</div>
+	 							</a>
+	 						</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+
+	</div>
+	<div id="logoLine"></div>
+
+
+<div id="content" class="box clearfix">
+
+<h2 style="padding: 20px 0px 20px 20px;">Our Commitment To Privacy</h2>
+<p style="margin: 0px 20px 10px 20px">Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+
+<h2 style="padding: 20px 0px 20px 20px;">The Information We Collect</h2>
+<p style="margin: 0px 20px 10px 20px">This notice applies to all information collected or submitted on the MangaMagazine website. On some pages, you can order our services, make requests, and register to receive materials. The types of personal information collected at these pages are:</p>
+
+<div style="margin: 0px 20px 10px 20px; padding: 0px 0px 0px 20px;">
+<ul>
+<li>Name</li>
+<li>Age</li>
+<li>Email address</li>
+<li>PayPal Information</li>
+<li>(etc.)</li>
+</ul>
+</div>
+
+<p style="margin: 0px 20px 10px 20px">On some pages, you can submit information about other people. For example, if you send a link of our site to another person through our system, you will need to submit the recipient's email address. In this circumstance, the types of personal information collected are:</p>
+
+<div style="margin: 0px 20px 0px 20px; padding: 0px 0px 0px 20px;">
+<ul>
+<li>Name</li>
+<li>Email address</li>
+</ul>
+</div>
+
+<h2 style="padding: 20px 0px 20px 20px;">The Way We Use Information</h2>
+<p style="margin: 0px 20px 10px 20px">We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.</p>
+<p style="margin: 0px 20px 10px 20px">We use the information you provide about someone else only to complete the specified task. We do not share this information with outside parties except to the extent necessary to complete that order.</p>
+<p style="margin: 0px 20px 10px 20px">You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.</p>
+
+<h2 style="padding: 20px 0px 20px 20px;">Our Commitment To Data Security</h2>
+<p style="margin: 0px 20px 10px 20px">To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate procedures to safeguard and secure the information we collect online.</p>
+
+<h2 style="padding: 20px 0px 20px 20px;">How You Can Access Or Correct Your Information</h2>
+<p style="margin: 0px 20px 10px 20px">You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.</p>
+<p style="margin: 0px 20px 10px 20px">To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
+
+<h2 style="padding: 20px 0px 20px 20px;">How To Contact Us</h2>
+<p style="margin: 0px 20px 10px 20px">Should you have other questions or concerns about these privacy policies, please <a href="/contactus">contact us</a>.</p>
+
+</div>
+
+<br>
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '135295323168650', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+	
+</div>
+
+	
+	
+		<div id="footer" class="fixedNav">
+	
+
+    <div align="center" id="header_inner" class="fixedNav_inner">
+    	<a class="fixedNav_left" href="/">Home</a>
+    	<a class="fixedNav_left" href="/corp/aboutus">About Us</a>
+    	<a class="fixedNav_left" href="/contactus">Contact Us</a>
+    	<a class="fixedNav_left" href="/corp/privacypolicy">Privacy Policy</a>
+    	<a class="fixedNav_left" href="/corp/termsofuse">Terms of Use</a>
+		<span class="fixedNav_right">© 2010, MangaMagazine Ltd and its affiliates</span>
+    </div>
+</div>
+<div id="footerPadding"></div>
+
+
+
+
+
+
+
+</body></html>
