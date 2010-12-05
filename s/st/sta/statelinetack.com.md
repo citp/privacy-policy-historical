@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611151717id_/http%3A//www.statelinetack.com/CS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205081014id_/http%3A//www.statelinetack.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Statelinetack.com
 
@@ -9,7 +9,6 @@
 
   
   
----  
   
 State Line Tack seeks to be the most trusted, caring, complete and exciting source for all your horse's needs throughout its life. As you do business with us, we take great care in safeguarding your personal information and in complying with all applicable Federal, Provincial, and state privacy laws, as well as our own internal standards and best practices. We want you to know that we value your privacy and are committed to responsible handling of your personal information (such as your name, physical address, e-mail address, and phone number), and we want you to know how we handle your information. 
 
