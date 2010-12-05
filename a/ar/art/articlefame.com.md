@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefame.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102031116id_/http%3A//articlefame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefame.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205050922id_/http%3A//articlefame.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleFame.com | Privacy Statement
 
@@ -38,5 +38,7 @@ We can be reached by emailing us.
 
    
 ---  
+  
 **ArticleFame.com** strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.   
+  
  
