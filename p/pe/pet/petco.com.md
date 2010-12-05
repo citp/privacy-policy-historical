@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120021046id_/http%3A//www.petco.com/petco_Page_PC_helplist_Nav_17_TopicID_8.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205220613id_/http%3A//www.petco.com/petco_Page_PC_helplist_Nav_17_TopicID_8.aspx) for the most accurate reproduction.*
 
 # Help Topics at PETCO
 
@@ -112,4 +112,4 @@ The use of this web site is subject to the following terms of use:
 **Contacting Us**  
 
 
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, send us an email.
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, [send us an email](https://web.archive.org/Page.aspx?PC=contactus&166).
