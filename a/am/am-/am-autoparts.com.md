@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the am-autoparts.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512181201id_/http%3A//www.am-autoparts.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the am-autoparts.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205181748id_/http%3A//www.am-autoparts.com/privacy-statement.php) for the most accurate reproduction.*
 
 # AM Autoparts - After Market Auto Parts - Headlights, Mirrors, and More
 
