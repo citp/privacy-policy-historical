@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628130410id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205203052id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
