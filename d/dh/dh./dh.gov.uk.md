@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133509id_/http%3A//www.dh.gov.uk/en/Privacypolicy/DH_4110944) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206002908id_/http%3A//www.dh.gov.uk/en/Privacypolicy/DH_4110944) for the most accurate reproduction.*
 
 # Privacy policy : Department of Health - Privacy policy
 
