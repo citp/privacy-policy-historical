@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516203516id_/http%3A//www.triangle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205072407id_/http%3A//www.triangle.com/privacy_policy) for the most accurate reproduction.*
 
-# triangle.com | Privacy Policy
+# http://www.triangle.com
 
-##### Effective Date: 10-5-09
+##### Effective Date: 9-4-09
 
 Triangle.com ("Triangle.com", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by Triangle.com and does not apply to information obtained or used by Triangle Online or its affiliates through other means.
 
@@ -68,7 +68,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 Triangle.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of Triangle.com in order to access general Triangle.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-Triangle.com, 215 South McDowell St.Raleigh, North Carolina 27602, or 919-911-3825, or [feedback@newsobserver.com](mailto:feedback@newsobserver.com)
+Triangle.com, 215 South McDowell Street, Raleigh, North Carolina 27601, or 919-911-3825, or [help@newsobserver.com](mailto:help@newsobserver.com)
 
 ### Member mail and e-mail offers
 
@@ -112,4 +112,4 @@ Triangle.com supports P3P, the Platform for Privacy Preferences, which allows us
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at Triangle.com, 215 South McDowell St.Raleigh, North Carolina 27602, at 919-911-3825 or at [feedback@newsobserver.com](mailto:feedback@newsobserver.com).
+If you have any questions or comments about our policies, we may be reached at Triangle.com, 215 South McDowell Street, Raleigh, North Carolina 27601, at 919-911-3825 or at [help@newsobserver.com](mailto:help@newsobserver.com).
