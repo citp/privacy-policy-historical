@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414011622id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205122430id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy & Security Policy The Vitamin Shoppe
 
