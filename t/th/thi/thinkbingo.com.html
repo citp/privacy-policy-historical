@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thinkbingo.com privacy policy that was archived on 2010-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100330070601id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkbingo.com privacy policy that was archived on 2010-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205033203id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Think Bingo. Join now &amp; get up to £100 FREE</title>
@@ -32,7 +32,7 @@
 <script type="text/javascript" src="sifr/js/sifr.js" language="JavaScript"></script>
 <script type="text/javascript" src="sifr/js/sifr-config.js" language="JavaScript"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <script type="text/javascript" src="../include/script/jquery.livequery.js"></script>
 <script type="text/javascript" src="../include/script/jquery.form.js"></script>
 <script type="text/javascript" src="../include/script/cashcade.js"></script>
@@ -69,7 +69,7 @@
 		<h1 id="page_header"><a href="http://www.thinkbingo.com">Think Bingo</a></h1>	
 		<img src="images/homepage_v3/as_seen_on_tv.png" alt="As seen on TV" class="align-left">
         			<div id="login">
-				<form method="post" action="/skin/loggedin.php" name="LoginForm">    	
+				<form method="post" action="members.php" name="LoginForm">
 					<input id="form_action1" type="hidden" value="LOGIN" name="form_action">
 	 				<div class="loginfields">
         				<label for="username">Username</label>
@@ -95,10 +95,11 @@
 			<div class="nav-bg">
             <ul class="mainmenu">
             	<li><a href="http://www.thinkbingo.com">Home</a></li>
-                							<li><a href="register.php">Join Now</a></li>              <li><a href="/skin/specials.php">Specials</a></li>
-              <li><a href="/skin/loyalty.php">Think Points</a></li>
-              <li><a href="/skin/testimonials.php">Testimonials</a></li>
-              <li><a href="http://www.think-forum.com" target="_blank">Forum</a></li>             
+                							<li><a href="register.php">Join Now</a></li>				<li><a href="/skin/specials.php">Specials</a></li>
+				<li><a href="/skin/loyalty.php">Think Points</a></li>
+				<li><a href="/skin/testimonials.php">Testimonials</a></li>
+				<li><a href="http://www.think-forum.com" target="_blank">Forum</a></li>
+				<!--<li><a href="downloads.php">Downloads</a></li>-->
 							<li><a href="/skin/links.php">Links</a></li>
               <li class="last"><a href="/skin/help.php">Help</a></li>
             </ul>
@@ -116,7 +117,7 @@
       <div id="col1">         
 					<form name="mainForm" id="mainForm" action="http://www.thinkbingo.com/skin/privacy.php" method="post">
 					<input name="form_action" id="form_action" type="hidden" value="">
-					                        <div id="main_template">
+					                                            <div id="main_template">
 					<h2>Privacy Policy</h2>
 <p>IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW</p>
 
@@ -184,7 +185,7 @@ If you have any enquiry about this Privacy Policy please <a href="contact.php">C
         <li><a href="/skin/aboutus.php">About Us</a></li>
         <li><a href="/skin/terms.php">Terms &amp; Conditions</a></li>
         <li><a href="/skin/privacy.php">Privacy Policy</a></li>
-        <li><a href="/skin/affiliate.php">Affiliates</a></li>
+        <li><a href="http://affiliate.thinkbingo.com" target="_blank">Affiliates</a></li>
         <li class="last"><a href="/skin/contact.php">Contact Us</a></li>
       </ul>
      </div>
@@ -196,6 +197,7 @@ If you have any enquiry about this Privacy Policy please <a href="contact.php">C
        	<img src="images/homepage_v3/cards.gif" alt="Thinkbingo accepts Visa, Mastercard and Maestro">
         <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.thinkbingo.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
      </div>
+    <img src="images/homepage_v3/neteller.gif" alt="Neteller">
      <img src="images/homepage_v3/tb2_cards_tech.gif" alt="">
      <img src="images/homepage_v3/fb2_cards_cashcade.gif" alt="Cashcade">
      <img src="images/homepage_v3/secure_logo.gif" alt="Secure Site">
@@ -211,7 +213,7 @@ If you have any enquiry about this Privacy Policy please <a href="contact.php">C
 
  <div id="col3">
     <div id="col3_content" class="clearfix">
-    	<div id="winners-flash">
+    <div id="winners-flash">
     		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="211" height="234">
         <param name="movie" value="swf/winners_area2.swf">
         <param name="wmode" value="transparent">
@@ -220,18 +222,19 @@ If you have any enquiry about this Privacy Policy please <a href="contact.php">C
 	 </object>
     	</div>
            <div id="no_tvad">
-        	<div class="tv_img"><a href="/skin/1tg.php"><img src="images/side _think1tg.gif" alt="Become a Think VIP"></a></div>
+        	<div class="tv_img"><a href="/skin/jackpots.php"><img src="images/side_new_20kGJPs.gif" alt="Virtual Gifts"></a></div>
             <div id="join-forum" class="tv_img"><a href="http://www.think-forum.com/" target="_blank"><img src="images/side_thinkforum.gif" alt="Join the Think Forum"></a></div>
         </div>
                 <div id="family">
             <p>Also part of the Think Bingo family...</p>
 			<a href="http://www.bingoscotland.com/main.php?a=95.1/"><img src="images/homepage_v3/tb_bingoscot.gif" alt=""></a>          
         </div>
-            </div>
+                </div>
+    </div>
 </div>
 </div> <!-- end main -->
    
-</div>
+
 <!-- added 150509 -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ?
