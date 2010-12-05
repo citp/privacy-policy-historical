@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accessline.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522052634id_/http%3A//www.telanetix.com/index.asp%3Fnav%3Dlegal%26subnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessline.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205044635id_/http%3A//www.accessline.com/index_acc.asp%3Fnav%3Dlegal%26subnav%3Dprivacy) for the most accurate reproduction.*
 
-# Telanetix.com
+# AccessLine Voice Services
 
 Your privacy is very important to us. AccessLine maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions. AccessLine has put in place the following Privacy Policy to protect customer identifiable information. Except as specifically modified in a Customer Agreement, this policy covers AccessLine and its corporate affiliates, and applies to all "customer identifiable" information that AccessLine obtains when a customer registers for or uses an AccessLine online service, including visiting an AccessLine owned and controlled web site ("AccessLine Web Site"). AccessLine will continue to protect customer information derived from its local and long distance services consistent with federal laws and with federal regulations issued by the Federal Communications Commission. 
 
