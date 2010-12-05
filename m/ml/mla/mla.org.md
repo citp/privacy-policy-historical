@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mla.org privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906155730id_/http%3A//www.mla.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mla.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205102740id_/http%3A//www.mla.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ In general, you may visit the MLA Web sites without submitting any personal info
 
 **2\. Online credit card transactions.** As a convenience to members, the MLA accepts online credit card transactions through its secure server (https://www.mla.org). The credit card information provided by users at the site is submitted to Nova Information Systems, the company the MLA has contracted with to process the secure electronic transaction. This information is not used for any other purpose.
 
-**3\. Password-protected services.** The MLA Web site password system uses cookies. A "cookie" is a small file that the MLA Web server places on your computer's hard drive when you log in to a member- or subscriber-restricted area such as the _Job Information List_ search page or a chairs-only function at the ADE or ADFL sites. This cookie does not contain any personal information, but it allows the server to identify you as having successfully logged in so that you do not have to reenter your password each time you access the password-protected page. Users are notified on the password log-in screen that a cookie will be set when they log in. The MLA does not use cookies to monitor which Web pages an individual visits. 
+**3\. Password-protected services.** The MLA Web site password system uses cookies. A "cookie" is a small file that the MLA Web server places on your computer's hard drive when you log in to a member- or subscriber-restricted area such as the _Job Information List_ search page or a chairs-only function at the ADE or ADFL sites. This cookie does not contain any personal information, but it allows the server to identify you as having successfully logged in so that you do not have to reenter your password each time you access the password-protected page. 
 
 You can set your browser to warn you before you accept a cookie. You can also set your browser to refuse all cookies. While all public pages at the MLA Web sites are accessible without receipt of a cookie, you must accept a cookie to access a password-restricted area.
 
