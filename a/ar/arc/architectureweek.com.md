@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609165000id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205170752id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # ArchitectureWeek Privacy Statement
 
@@ -73,63 +73,65 @@ Kevin Matthews Editor in Chief, ArchitectureWeek Artifice, Inc. PO Box 1588 Euge
 
 [**Daily Architecture Headlines**](http://www.architectureweek.com/headlines.html) — Updated every day at ArchitectureWeek 
 
-[**Guatemala Sinkhole Created by Humans, Not Nature**](http://www.architectureweek.com/cgi-bin/wllk?http://news.nationalgeographic.com/news/2010/06/100603-science-guatemala-sinkhole-2010-humans-caused/) — National Geographic, 2010.0603 
+[**BCJ Wins Award for Clarion University Science Centre**](http://www.architectureweek.com/cgi-bin/wllk?http://education.worldinteriordesignnetwork.com/news/bcj_scoops_architectural_award_for_clarion_universitys_science_and_technology_centre_101203/) — World Interior Design Network, 2010.1203 
 
-[**People and Places 0602**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2010/0602/news_1-1.html) — ArchitectureWeek, 2010.0602 
+[**Healthcare AIA Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1201/index.html) — Architects' Journal, 2010.1201 
 
-[**Durst, Related in WTC Bid**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052748703406604575278462783495780.html?mod=dist_smartbrief) — Wall Street Journal, 2010.0601 
+[**People and Places 2010.1201**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1201/news_2-1.html) — ArchitectureWeek, 2010.1201 
 
-[**Coalition Government to Scrap House Building Targets**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/2/hi/uk/10198180.stm) — BBC, 2010.0531 
+[**Utah Architects Honored**](http://www.architectureweek.com/cgi-bin/wllk?http://www.realestatenewsutah.com/news/architects-honored-new-designs-and-special-achievements-30118) — Real Estate Utah, 2010.1129 
 
-[**China Real Estate Bubble Bursts in Bond Market: Credit Markets**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-31/china-real-estate-bubble-bursts-in-bond-market-credit-markets.html) — Bloomberg BusinessWeek, 2010.0531 
+[**Reichstag Cupola Shut Due to Threat**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/aponline/2010/11/22/world/europe/AP-EU-Germany-Terror-Threat.html?_r=1) — New York Times, 2010.1122 
 
-[**Zell Sees Bargain in Brazil Property on Strong Growth**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-31/zell-sees-bargain-in-brazil-property-on-strong-growth-update2-.html) — Bloomberg BusinessWeek, 2010.0531 
+[**Fire Sprinklers Made a Must in California Homes**](http://www.architectureweek.com/cgi-bin/wllk?http://www.modbee.com/2010/11/20/1438392/fire-sprinklers-made-a-must.html) — Modesto Bee, 2010.1120 
 
-[**London Housing Shortage to Push Up Prices**](http://www.architectureweek.com/cgi-bin/wllk?http://www.guardian.co.uk/business/2010/may/30/housing-shortage-london-south-east) — Guardian, 2010.0530 
+[**Australia Architecture Awards 2010**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1117/index.html) — ArchitectureWeek, 2010.1117 
 
-[**Hurricane Season Begins Tuesday with $5.8 Billion of Work Still in Progress**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nola.com/hurricane/index.ssf/2010/05/hurricane_season_begins_tuesda.html) — New Orleans Times-Picayune, 2010.0529 
+[**Shanghai High-Rise Flats Fire Leaves Dozens Dead**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bbc.co.uk/news/world-asia-pacific-11759276) — BBC, 2010.1115 
 
-[**Romeâ€™S Maxxi Is Open at Last**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ft.com/cms/s/2/e476218e-6919-11df-aa7e-00144feab49a.html) — Financial Times, 2010.0529 
+[**U.S. Audits Compton Housing Programs**](http://www.architectureweek.com/cgi-bin/wllk?http://www.latimes.com/news/local/la-me-compton-audit-20101112,0,7251498.story) — Los Angeles Times, 2010.1112 
 
-[**Big Rise in House Building after Surge in Demand**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ft.com/cms/s/0/80766096-69ef-11df-a978-00144feab49a.html) — Financial Times, 2010.0528 
+[**Portland AIA Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1110/index.html) — ArchitectureWeek, 2010.1110 
 
-[**Estimates Suggest Spill Is Biggest in U.S. History**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/05/28/us/28flow.html?ref=earth) — New York Times, 2010.0528 
+[**People and Places 2010.1110**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1110/news_2-1.html) — ArchitectureWeek, 2010.1110 
 
-[**Expiring Tax Credits Boost New Home Sales; Mortgage Rates, Falling Prices Help**](http://www.architectureweek.com/cgi-bin/wllk?http://www.washingtonpost.com/wp-dyn/content/article/2010/05/26/AR2010052605083.html) — Washington Post, 2010.0527 
+[**Danish Architect Bjarke Ingels Receives the European Prize for Architecture**](http://www.architectureweek.com/cgi-bin/wllk?http://www.canadianarchitect.com/issues/story.aspx?aid=1000390211) — Canadian Architect, 2010.1107 
 
-[**Tax Deal Fuels New-Home Sales**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052748704717004575268173355581314.html?mod=WSJ_hpp_MIDDLENexttoWhatsNewsThird) — Wall Street Journal, 2010.0527 
+[**Ariz. Court Ruling Rejects Challenge to Impact Fee**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/ap/financialnews/D9J9V8G00.htm) — Bloomberg, 2010.1105 
 
-[**New Orleans' Nine Most Endangered Sites Bear Legacies of Music, Worship, Justice**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nola.com/news/index.ssf/2010/05/new_orleans_nine_most_endanger.html) — New Orleans Times-Picayune, 2010.0527 
+[**Giant Sinkhole Opens in Germany**](http://www.architectureweek.com/cgi-bin/wllk?http://news.blogs.cnn.com/2010/11/02/giant-sinkhole-opens-in-germany/) — CNN, 2010.1102 
 
-[**Rome's New Contemporary Art Museum Set to Open**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cbc.ca/arts/artdesign/story/2010/05/27/contemporary-art-museum.html) — CBC News, 2010.0527 
+[**Beijing Trims Discount on First-Home Lending Rate**](http://www.architectureweek.com/cgi-bin/wllk?http://www.marketwatch.com/story/beijing-trims-discount-on-first-home-lending-2010-11-01?reflink=MW_news_stmp) — Market Watch, 2010.1101 
 
-[**Kimbell Art Museum Releases Final Design for Addition to Kahn's Original**](http://www.architectureweek.com/cgi-bin/wllk?http://featuresblogs.chicagotribune.com/theskyline/2010/05/kimbell-art-museum-releases-final-design-for-addition-to-kahns-original.html) — Chicago Tribune, 2010.0527 
+[**Zaha Hadid to Design New Serpentine Gallery in London**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/5008258.article?origin=BDdaily) — BD (Registration required), 2010.1101 
 
-[**Two Architects Have a Meeting of the Minds at a Texas Museum**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/05/27/arts/design/27kimbell.html) — New York Times, 2010.0527 
+[**Woods Bagot Take Out Arabian Property Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureanddesign.com.au/article/Woods-Bagot-take-out-Arabian-Property-Award/524879.aspx) — Architecture & Design (Australia), 2010.1029 
 
-[**Home Sales Data, Toll Results Boost Builder Shares**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/BT-CO-20100526-709829.html?mod=WSJ_earnings_MIDDLETopHeadlines) — Wall Street Journal, 2010.0526 
+[**Aqua Leads Parade of 2010 Design Excellence Award Winners**](http://www.architectureweek.com/cgi-bin/wllk?http://featuresblogs.chicagotribune.com/theskyline/2010/10/aqua-leads-parade-of-2010-design-excellence-award-winners.html) — Chicago Tribune, 2010.1029 
 
-[**Great New Landscapes**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2010/0526/news_1-1.html) — ArchitectureWeek, 2010.0526 
+[**Great Architecture as Urban Landscaping**](http://www.architectureweek.com/cgi-bin/wllk?http://www.theaustralian.com.au/news/arts/great-architecture-as-urban-landscaping/story-e6frg8n6-1225944871372) — The Australian, 2010.1029 
 
-[**Boston Properties Bows Out**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052748703341904575266970446627434.html?mod=WSJ_latestheadlines) — Wall Street Journal, 2010.0526 
+[**Architects Angry at Prince's Power Grab**](http://www.architectureweek.com/cgi-bin/wllk?http://www.independent.co.uk/arts-entertainment/architecture/architects-angry-at-princes-power-grab-2119593.html) — Independent Digital, 2010.1028 
 
-[**Vote Endorses Muslim Center Near Ground Zero**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/05/26/nyregion/26muslim.html) — New York Times, 2010.0525 
+[**Jean Nouvel Slams Developer for Blurring His Vision Machine**](http://www.architectureweek.com/cgi-bin/wllk?http://ny.curbed.com/archives/2010/10/27/jean_nouvel_slams_developer_for_blurring_his_vision_machine.php) — Curbed, 2010.1027 
 
-[**'Amityville Horror' Home Goes on Sale for $1.15m**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/2/hi/world/us_and_canada/10154402.stm) — BBC, 2010.0525 
+[**Death Toll Rises after Indonesia Disasters**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/10/28/world/asia/28indo.html?_r=1&emc=eta1) — New York Times, 2010.1027 
 
-[**U.S. Economy: Purchases, Inventories of Existing Homes Increase**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/u-s-economy-purchases-inventories-of-existing-homes-increase.html) — Bloomberg BusinessWeek, 2010.0524 
+[**People and Places 2010.1027**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1027/news_1-1.html) — ArchitectureWeek, 2010.1027 
 
-[**Fed Says Asset Sales Will Come after Rates Are Raised**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/fed-says-asset-sales-will-come-after-rates-are-raised-update2-.html) — Bloomberg BusinessWeek, 2010.0524 
+[**Sailor's Hideaway Wins Top Design Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10682845) — New Zealand Herald, 2010.1024 
 
-[**Mortgage Delinquencies Decline Broadly in April -S &P**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/BT-CO-20100524-708376.html?mod=WSJ_latestheadlines) — Wall Street Journal, 2010.0524 
+[**New York Guggenheim Museum Reopens**](http://www.architectureweek.com/cgi-bin/wllk?http://www.examiner.com/history-in-new-york/guggenheim-museum-opens-to-the-public) — New York Examiner, 2010.1021 
 
-[**U.S. Subprime Hunt Targets Goldman, May Skip Cassano: Timeline**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/u-s-subprime-hunt-targets-goldman-may-skip-cassano-timeline.html) — Bloomberg BusinessWeek, 2010.0524 
+[**David Chipperfield - Royal Gold Medal**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1020/index.html) — ArchitectureWeek, 2010.1020 
 
-[**Tax Credit and Low Mortgage Rates Boost Home Sales**](http://www.architectureweek.com/cgi-bin/wllk?http://www.google.com/hostednews/ap/article/ALeqM5hnu6sB3PemlhadTaizNLLJMgRONAD9FTBNSO0) — Associated Press, 2010.0524 
+[**Nationwide Seeks U.S. Buyers for First Securitization in a Year**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-10-18/nationwide-seeks-u-s-buyers-for-first-securitization-in-a-year.html) — Bloomberg BusinessWeek, 2010.1018 
 
-[**Daiwa House Seeking Acquisitions to Expand Renovation Sales**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/daiwa-house-seeking-acquisitions-to-expand-renovation-sales.html) — Bloomberg BusinessWeek, 2010.0524 
+[**Foreclosures Provide Fillip for QE2**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ft.com/cms/s/0/c659025c-daed-11df-a5bb-00144feabdc0.html) — Financial Times, 2010.1018 
 
-[**Calif. Homebuilder Agrees to Plea in Fraud Ring**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/ap/financialnews/D9FRGE8G0.htm) — Bloomberg BusinessWeek, 2010.0521 
+[**NAHB Housing Index Highest Since June**](http://www.architectureweek.com/cgi-bin/wllk?http://www.reuters.com/article/idUSTRE69H2RE20101018) — Reuters, 2010.1018 
+
+[**Super Typhoon Megi Hits Northern Philippines**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bbc.co.uk/news/world-asia-pacific-11562238) — BBC, 2010.1018 
 
 Note: Pages will open in a new browser window  
 External sites are not endorsed by ArchitectureWeek.  
