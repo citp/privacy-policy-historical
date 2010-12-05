@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotolog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150744id_/http%3A//info.fotolog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotolog.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205195052id_/http%3A//www.fotolog.com/a/info/privacy) for the most accurate reproduction.*
 
 # Fotolog's Privacy Policy - Fotolog
 
@@ -40,13 +40,13 @@ Many Websites, including Fotolog, use cookies. Cookies are small files of data t
   * These cookies enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.
   * These cookies also enable us to recognize you as an individual when you visit the Fotolog site so that we can personalize your site experience and provide access for you to your individual account information and functionality.
   * If you do not wish to have your Individual Site Usage Information or Personal Information you provide to us stored, most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you do not accept cookies from Fotolog you may not be able to access key pieces of member functionality
-  * In some cases, our business partners may use cookies on our site. For example, an advertiser like Google may place a cookie on your computer to keep track of what country you are from so they show ads in the correct language. Fotolog has no access to or control over these cookies.
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your individually identifiable Personal Information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to•not having this information used by these companies, [click here](http://www.networkadvertising.org/). For information specific to advertising by Google, [click here](http://www.google.com/privacy_ads.html). Fotolog has no access to or control over these cookies.
 
 
 
 ### Can I update or Change the Personal Information that Fotolog has Collected?
 
-Members can access, review, and edit their registration and profile information on our site by visiting the [My Account](http://txn.fotolog.com/accountinfo) page.
+Members can access, review, and edit their registration and profile information on our site by visiting the [My Account](http://www.fotolog.com/a/txn/accountinfo) page.
 
 ### Will Fotolog Share Any of the Personal Information it Receives?
 
