@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425083442id_/http%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206005525id_/http%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Brian Tracy International
 
@@ -8,10 +8,10 @@ Brian Tracy International Privacy Notice
 
 Brian Tracy International knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Brian Tracy International, you are accepting the practices described in this Privacy Notice. 
 
-Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 305, Solana Beach, CA 92075. 
+Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com?ssid=461fed8b-9c83-4752-a182-dea751e8e78a). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 305, Solana Beach, CA 92075. 
 
 **Information Collected**   
-Brian Tracy International is the sole owner of the information collected on [www.briantracy.com](http://www.briantracy.com/). Brian Tracy International collects information from our users at several different points on our Web site. **Registration**   
+Brian Tracy International is the sole owner of the information collected on [www.briantracy.com](http://www.briantracy.com/?ssid=461fed8b-9c83-4752-a182-dea751e8e78a). Brian Tracy International collects information from our users at several different points on our Web site. **Registration**   
 In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he/she has expressed interest. **Order**   
 We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. 
 
@@ -33,7 +33,7 @@ We reveal only the last five digits of your credit card numbers when confirming 
 
 **Choice/Opt-Out**   
 If you are a newsletter subscriber, you always have the option of no longer receiving them. At the bottom of each newsletter there is an opt-out option. Simply click on “Please click here to unsubscribe”. **Correct/Update**   
-Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support](mailto:support@briantracy.com). **Conditions of Use, Notices, and Revisions**   
+Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support](mailto:support@briantracy.com?ssid=461fed8b-9c83-4752-a182-dea751e8e78a). **Conditions of Use, Notices, and Revisions**   
 If you choose to visit Brian Tracy International, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. **Notification of Changes**   
 If our privacy policy and information practices change at some time in the future Brian Tracy International will post the policy changes to the  www.briantracy.com Web site to notify you of these changes and provide you with the ability to opt out of these new uses. **Legal Disclaimer**   
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. **Contact Information**   
@@ -41,6 +41,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Phone 1-858-436-7300   
 Fax 1-858-481-2445  
-Email [support@briantracy.com](mailto:support@briantracy.com)  
+Email [support@briantracy.com](mailto:support@briantracy.com?ssid=461fed8b-9c83-4752-a182-dea751e8e78a)  
 462 Stevens Ave #305 Solana Beach, CA 92075  
-Website [www.briantracy.com](http://www.briantracy.com/)
+Website [www.briantracy.com](http://www.briantracy.com/?ssid=461fed8b-9c83-4752-a182-dea751e8e78a)
