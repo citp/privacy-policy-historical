@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607134819id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205042931id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
 
 # Privacy Policy - ResellerRatings.com
 
@@ -42,6 +42,18 @@ Your access to some services and content is password protected. We recommend tha
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your personal information, ResellerRatings.com cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information to us at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
+**Our Email Programs:**
+
+ResellerRatings sends the following types of emails to our users:
+
+  1. **New user registrations:** When you signup for a free account at ResellerRatings, either to write a review to participate in our discussion forums, we send you a verification email containing a link. Click the link to verify and activate your account. Once activated, this email is no longer sent to you. You may receive more than one activation email reminder, but an opt-out link is provided at the bottom of these activation emails.
+  2. **Deal Newsletter:** You can choose to receive our daily deals newsletter, containing product specials that we find at various retailers. To receive this newsletter, you must opt in by inputting your email address into a form on our homepage. Then, we send you a verification email to confirm that you want to receive the newsletter. Every newsletter that we send out also includes an unsubscribe link at the bottom.
+  3. **Review Alerts:** If you are an online retailer, you can signup to our site to be notified by email when reviewers post reviews to our site about our company. You can turn these email alerts on and off in the merchant administration panel that we provide to you.
+  4.  **Merchant Initiated Communications:** When you write a review for a merchant listed at ResellerRatings, that merchant can post a public response in reply to your review. You will be emailed a copy of the merchant's response. Additionally, the merchant can contact you via our site, to send you an email via a web form. Your email address is not revealed to the merchant. If you wish to opt out of these types of emails, use the unsubscribe link at the bottom of each email.
+  5. **Exit Survey Reminders:** Many Internet retailers participate in our exit survey program, which displays a popup window to the user after the user completes a purchase at the retailer's website. The exit survey window asks the user if they want to write a review of the retailer, and to enter their email address, if so. Then, one week later, we send a reminder email to the user, asking them to complete a review. Only one reminder email is sent, as part of this program, per the user's initial requeste. 
+
+
+
 **Who Has Access to the Information:**
 
 Except as described below, All Enthusiast, Inc.'s ResellerRatings.com will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user's permission. All Enthusiast, Inc.'s ResellerRatings.com may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of All Enthusiast, Inc.'s ResellerRatings.com. All Enthusiast, Inc.'s ResellerRatings.com will use its best efforts to contact you if All Enthusiast, Inc. is issued a subpoena or other legal process that requests your identity. 
@@ -57,3 +69,14 @@ We use Google, AlmondNet, and other third-party advertising companies to serve a
 If you use another All Enthusiast, Inc. service, we may send you a confirmation e-mail confirming your new account and/or service. The message will be sent to the address that you supplied us and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services. 
 
 We welcome any questions or comments you have about Resellerratings.com: please direct them to [our contact form](http://www.resellerratings.com/forum/sendmessage.php). 
+
+**Opt Out of Email**
+
+To stop receiving any kind of emails from our company, [contact us](http://www.resellerratings.com/forum/sendmessage.php) and provide your email address.
+
+**Our Mailing Address to Contact Us**
+
+All Enthusiast, Inc.  
+1630 North Main St.  
+Suite 229  
+Walnut Creek, CA 94596-4609
