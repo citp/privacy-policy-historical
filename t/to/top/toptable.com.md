@@ -1,6 +1,43 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2008-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080520094801id_/http%3A//www.toptable.com/feature.cfm%3FfID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010610id_/http%3A//www.toptable.com/privacy) for the most accurate reproduction.*
 
-# privacy statement - Online UK and London Restaurants Booking and Guide from toptable.co.uk
+# Privacy statement
+
+  * [Home](https://web.archive.org/ "Home")
+    * [Austria](https://web.archive.org/location/content/?l=3499 "Austria")
+    * [Belgium](https://web.archive.org/location/content/?l=3315 "Belgium")
+    * [Channel Islands](https://web.archive.org/location/content/?l=4741 "Channel Islands")
+    * [France](https://web.archive.org/location/content/?l=3301 "France")
+    * [Germany](https://web.archive.org/location/content/?l=3309 "Germany")
+    * [Ireland](https://web.archive.org/location/content/?l=3317 "Ireland")
+    * [Italy](https://web.archive.org/location/content/?l=3303 "Italy")
+    * [Malta](https://web.archive.org/location/content/?l=4846 "Malta")
+    * [Netherlands](https://web.archive.org/location/content/?l=3313 "Netherlands")
+    * [Portugal](https://web.archive.org/location/content/?l=3419 "Portugal")
+    * [Spain](https://web.archive.org/location/content/?l=3302 "Spain")
+    * [Sweden](https://web.archive.org/location/content/?l=3595 "Sweden")
+    * [Switzerland](https://web.archive.org/location/content/?l=3500 "Switzerland")
+    * [UK](https://web.archive.org/location/content/?l=1 "UK")
+  * [Italy](https://web.archive.org/location/content/?l=3303 "Italy")
+    * [Ancona](https://web.archive.org/location/content/?l=4983 "Ancona")
+    * [Bologna](https://web.archive.org/location/content/?l=4871 "Bologna")
+    * [Lake Como](https://web.archive.org/location/content/?l=4989 "Lake Como")
+    * [Liguria](https://web.archive.org/location/content/?l=4968 "Liguria")
+    * [Milan](https://web.archive.org/location/content/?l=3323 "Milan")
+    * [Naples](https://web.archive.org/location/content/?l=4629 "Naples")
+    * [Parma](https://web.archive.org/location/content/?l=4986 "Parma")
+    * [Rome](https://web.archive.org/location/content/?l=3304 "Rome")
+    * [Sardinia](https://web.archive.org/location/content/?l=4716 "Sardinia")
+    * [Sicily](https://web.archive.org/location/content/?l=4719 "Sicily")
+    * [Turin](https://web.archive.org/location/content/?l=3598 "Turin")
+    * [Tuscany](https://web.archive.org/location/content/?l=4969 "Tuscany")
+    * [Venice](https://web.archive.org/location/content/?l=3322 "Venice")
+    * [Verona](https://web.archive.org/location/content/?l=4888 "Verona")
+  * [Venice](https://web.archive.org/location/content/?l=3322 "Venice")
+    * [Burano](https://web.archive.org/location/content/?l=4862 "Burano")
+    * [Mestre](https://web.archive.org/location/content/?l=4747 "Mestre")
+    * [Sant' Elena](https://web.archive.org/location/content/?l=4916 "Sant' Elena")
+
+
 
 By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to [info@toptable.co.uk](mailto:info@toptable.co.uk) with 'unsubscribe' in the subject box. 
 
@@ -42,15 +79,13 @@ We will use information collected from you in the following ways:
 
 In common with many websites, we use "cookies" to help us gather the following information from visitors to toptable.co.uk, for example: 
 
-· the IP address from which you access the site 
+  * the IP address from which you access the site 
+  * the type of browser and operating system used to access the site 
+  * the date and time of your access to the site 
+  * the pages you visit 
+  * the internet address of the website from which you accessed the site 
 
-· the type of browser and operating system used to access the site 
 
-· the date and time of your access to the site 
-
-· the pages you visit 
-
-· the internet address of the website from which you accessed the site 
 
 A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the site may not work correctly. 
 
