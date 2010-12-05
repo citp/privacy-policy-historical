@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uscg.mil privacy policy that was archived on 2010-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100521170857id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uscg.mil privacy policy that was archived on 2010-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205204947id_/http%3A//www.uscg.mil/global/disclaim.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -8,8 +8,7 @@
 	<!-- ************************************************************** -->
 	<!-- USCG DHS Branding Style sheets: Do NOT remove or edit links!!! -->
 	<!-- ************************************************************** -->
-	<link rel="stylesheet" href="/global/box-model.css" type="text/css" media="screen"> 
-	<link rel="stylesheet" href="/global/text-styles.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/global/uscg.css" type="text/css" media="screen"> 
 	<link rel="stylesheet" href="/global/print.css" type="text/css" media="print">
 	<!-- ************************************************************** -->
 	
@@ -20,32 +19,19 @@
   <!-- ************************************************************** -->
   <!-- Header Include File - DO NOT MODIFY                            -->
   <!-- ************************************************************** -->
-  
+  <!-- ************************************************************** -->
+<!-- START: Header                                                  -->
+<!-- ************************************************************** -->
+
 <script type="text/javascript" language="JavaScript">
 <!--
-function submitenter(myfield,e) {
-	var keycode;
-	if (window.event) keycode = window.event.keyCode;
-	else if (e) keycode = e.which;
-	else return true;
-
-	if (keycode == 13)
-		{
-		isSelected()
-		myfield.form.submit();
-		return false;
-		}
-	else
-		return true;
-}
-
 function isSelected()
 {
     var isSel = document.gsearch.choosesite.checked;
     
     if (isSel == true) {
       
-           document.gsearch.sitesearch.value = 'http://www.uscg.mil/global/';
+           document.gsearch.sitesearch.value = 'http://www.uscg.mil/global';
       
     } else {
         document.gsearch.sitesearch.value = '';
@@ -54,69 +40,62 @@ function isSelected()
 //-->
 </script>
 
+<!-- START: banner DIV -->
+<div id="banner"> 
 
+    <a href="http://www.uscg.mil">
+    	<img src="/global/img/primary_uscg_sm.jpg" alt="USCG Logo" id="bannerlogo" border="0">
+    </a> 
+    <img src="/GLOBAL/img/printLogo.gif" alt="USCG Print Logo" width="200" height="66" border="0" id="printlogo">
+    <a href="#column-a" class="hidden" title="Skip to Navigation">
+    	<img src="/global/img/spacer.gif" alt="Skip to Navigation" border="0" height="10" width="10">
+    </a> 
+    <a href="#column-d" class="hidden" title="Skip to Content">
+    	<img src="/global/img/spacer.gif" alt="Skip to Content" border="0" height="10" width="10">
+    </a>
+   
+    <ul id="bannernav">
+        <li class="first"><a href="http://www.uscg.mil/global/mail">Contact Us</a></li>
+        <li><a href="http://www.uscg.mil/global/sitemap.asp">Site Map</a></li>
+        <li><a href="http://www.uscg.mil/global/faqs.asp">FAQs</a></li>
+        <li><a href="http://www.uscg.mil/top/news/phonebook.pdf">Phone Book</a></li>
+    </ul>
 
-<div id="banner"> <a href="/default.asp"><img src="/global/img/primary_uscg_sm.jpg" alt="USCG Logo" id="bannerlogo" border="0"></a> 
-  <img src="/global/img/printlogo.gif" alt="USCG Print Logo" id="printlogo" border="0"> 
-  <a href="#column-e" class="skipnav" title="Skip Navigation"><img src="/global/img/spacer.gif" alt="Skip Navigation" border="0" height="10" width="10"></a> 
-  <ul id="bannernav">
+<!-- START: searchbox DIV -->
+    <div id="searchbox"> 
 
-      <li class="first"><a href="/global/mail">Contact Us</a></li>
+	<!-- Search My Google Search Appliance --> 
+    <form method="post" action="http://www.uscg.mil/global/search/default.asp" name="gsearch">
+    	<label for="term" class="hidden">Enter Search Term</label>
+        <input id="term" type="text" name="q" size="25" maxlength="255" value="" onkeypress="return submitenter(this,event)">
+        <input style="font-size: 8pt;" type="submit" name="btnG" value="Search" onclick="isSelected()">
+    <br>
+        <input type="hidden" name="sitesearch" value="">
 
-	  <li><a href="/global/sitemap.asp">Site Map</a></li>
+        <span style="top: 0; left: 0; padding: 0;"></span>
 
-      <li><a href="/global/faqs.asp">Frequently Asked Questions</a></li>
+    	<input type="hidden" name="hdr" value="2">
+    </form>
+	<!-- Search My Google Search Appliance-->
 
-  </ul>
-
-
-<div id="searchbox"> 
-
-<!-- Search My Google Search Appliance --> 
-  <form method="post" action="/global/search/default.asp" name="gsearch">
-  	<label class="hidden" for="searchline">Search: </label>
-    <input id="searchline" type="text" name="q" size="25" maxlength="255" value="" onkeypress="return submitenter(this,event)">
-    <input style="font-size: 8pt;" type="submit" name="btnG" value="Google Search" onclick="isSelected()"><br>
-    <input type="hidden" name="sitesearch" value="">
-
-	<span style="top: 0; left: 0; padding: 0;"></span>
-
-    <input type="hidden" name="hdr" value="2">
-  </form>
-<!-- Search My Google Search Appliance-->
-
-    </div>
- <!-- End Seachbox DIV -->
-	</div>
- <!-- End Banner DIV -->
+    </div> <!-- STOP: Seachbox DIV -->
+</div> <!-- STOP: Banner DIV -->
 	  
-	<!-- START: Navigation Bar -->
-	
+<!-- START: Navigation Bar -->	
 <div id="navbuttons">
-		
-<ul>
-
-			<li id="home"><a href="/default.asp">Home</a></li>
-
-			<li id="news"><a href="https://www.piersystem.com/external/index.cfm?cid=786" target="_blank">News</a></li>
-
-			<li id="jobs"><a href="/top/careers.asp">Careers</a></li>
-
-			<li id="units"><a href="/top/units">Units</a></li>
-
-			<li id="missions"><a href="/top/missions">Missions</a></li>
-
-			<li class="last" id="about"><a href="/top/about">About Us</a></li>
-
-		
-</ul>
-
-	</div>
-
-
-<!-- STOP: Navigation Bar --><!-- STOP: End Top Banner -->
-
-
+    <ul>
+        <li id="home"><a href="http://www.uscg.mil">Home</a></li>
+        <li id="jobs"><a href="http://www.uscg.mil/top/careers.asp">Careers</a></li>
+        <li id="units"><a href="http://www.uscg.mil/top/units">Units</a></li>
+        <li id="missions"><a href="http://www.uscg.mil/top/missions">Missions</a></li>
+        <li id="business"><a href="http://www.uscg.mil/acquisition/business/business.asp">Doing Business</a></li>
+        <li class="last" id="about"><a href="http://www.uscg.mil/top/about">About Us</a></li>
+  </ul>
+</div>
+<!-- STOP: Navigation Bar -->
+<!-- ************************************************************** -->
+<!-- STOP: Header                                                   -->
+<!-- ************************************************************** -->
   <!-- ************************************************************** -->
   <!-- START: Column E -->
   <div id="column-e"> 
@@ -267,8 +246,25 @@ function isSelected()
   <!-- Footer Include File - DO NOT MODIFY                            -->
   <!-- ************************************************************** -->
   <!-- START Download Plug-Ins Check -->
-<div style="padding: 5px; float: right;">
+<div id="column-y">
 	
+
+<div class="hov">
+<a href="/global/adobe.asp"><span class="plug">Download Plug-Ins</span>
+        <!--[if IE 7]><!--></a><!--<![endif]-->
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <div class="tip"><strong>Download Plug-Ins:</strong> Some of the links on this page require a plug-in to view them. Links to the plug-ins are available below.
+        <br>
+        
+		<a href="http://get.adobe.com/reader/otherversions/">
+        	<img height="17" alt="Click Here to Download Adobe Acrobat Reader" src="/global/img/pdf.gif" width="16" align="top" vspace="1" border="0">
+             Adobe Acrobat Reader (PDF)</a>
+        
+        </div>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+
 </div>
 <!-- END Download Plug-Ins Check -->
 
