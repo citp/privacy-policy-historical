@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630104604id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205221903id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
 
 # Newnfldraft Privacy Policy | 2011 NFL Mock Draft
 
