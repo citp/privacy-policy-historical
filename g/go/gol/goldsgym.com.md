@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308043646id_/http%3A//www.goldsgym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205044700id_/http%3A//www.goldsgym.com/privacy) for the most accurate reproduction.*
 
-# Gold's Gym
-
-| 
+# Privacy Policy | Gold's Gym
 
 Gold's Gym International, Inc. is committed to protecting the privacy of its visitors and has prepared the following statement to inform users how personally identifying information and non-personally identifying information is gathered from our website and used by GOLDSGYM.COM. GOLD'S GYM encourages its website users to be smart about choosing when, and to whom, to release information online. 
 
@@ -74,6 +72,4 @@ Gold's Gym International
 125 E. John Carpenter FWY, Suite 1300  
 Irving, TX 75062 
 
-This policy, like the online medium itself, is subject to change and, as such, we encourage you to review this policy from time to time.   
-  
----|---
+This policy, like the online medium itself, is subject to change and, as such, we encourage you to review this policy from time to time. 
