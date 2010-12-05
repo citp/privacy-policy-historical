@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020036id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205081928id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,8 +30,8 @@ If you feel that this site is not following its stated information policy, you m
 
 In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to info[at]allfreelogo.com. 
 
-### [Good Logos Make Great Sales Tools](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")
+### [The Importance of a Well-Designed Logo](https://web.archive.org/article/the-importance-of-a-well-designed-logo.html "The Importance of a Well-Designed Logo")
 
-**Chris Smith**
+**Liz Jackson**
 
-A logo is a unique visual image that represents a company or its products. It aims to create a positive and memorable impression in the minds of the people who see it. In addition, a good logo can make a sale by saying something about the company to customers when there is no sales person present. {[Read Full Article](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")}
+You have one chance to make a first impression. Potential customers will form an opinion of a business within seconds. A company?s logo is therefore extremely influential, as it is almost always the first thing a customer will see. In addition, once a customer becomes familiar with a business, the company?s logo will always be associated with that company name, and in turn, the company name will be associated with the logo. For these reasons, a considerable amount of thought should go into choosing a logo. {[Read Full Article](https://web.archive.org/article/the-importance-of-a-well-designed-logo.html "The Importance of a Well-Designed Logo")}
