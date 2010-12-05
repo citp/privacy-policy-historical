@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-classifieds.net privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626005044id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-classifieds.net privacy policy that was archived on 2010-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205040454id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 <title>e-Classifieds: Classified ads software programs</title>
@@ -21,9 +21,85 @@
 <script type="text/javascript" src="http://www.e-classifieds.net/js/HSutils.js"></script>
 <script type="text/javascript" src="http://www.e-classifieds.net/js/HStextswitcher.js"></script>
 <script type="text/javascript" src="http://www.e-classifieds.net/js/HSstyleswitcher.js"></script>
+
+<script type="text/javascript">
+/**
+* setInternalLinks
+* Searches the page for any internal links and converts them to animated automatic scrolls
+*/
+function setInternalLinks()
+{
+	// grab all anchor links on the page
+	var anchors = document.getElementsByTagName('a');
+ 
+	for (var i = 0; i < anchors.length; i++) {
+		var a = anchors[i];
+ 
+		if (a.href && a.href.indexOf("#") != -1  // href has #
+		   && ((a.pathname == location.pathname) || ('/' + a.pathname == location.pathname)) // path name of url is same as current
+		   && (a.search == location.search)) { // query string of url is same as current
+			var aName = a.href.substr(1, a.href.length - 1);
+			a.onclick = function (e) {
+				// checks if the caller event e exists and grabs the target (mozilla + webkit). Grabs the IE equivalent if not.
+				var target = e ? e.target : event.srcElement;
+				// the anchor name
+				var anchorName = target.hash;
+				// cut out the hash mark
+				anchorName = anchorName.substr(1, anchorName.length - 1);
+				// grab all the anchors on the page again
+				anchors = document.getElementsByTagName('a');
+ 
+				for (var j = 0; j < anchors.length; j++) {
+					if (anchors[j].name == anchorName) {
+						// found the right anchor. scroll to it!
+						scrollToYOffset(anchors[j].offsetTop);
+					}
+				}
+			};
+		}
+	}
+}
+
+/**
+* scrollToOffset
+*
+* @param yOffset	The vertical offset to scroll to
+*/
+function scrollToYOffset(iTargetY)
+{
+	// if the target is negative set it to 0
+	iTargetY = iTargetY < 0 ? 0 : iTargetY;
+ 
+	var frameInterval = 20; // 20 milliseconds per frame
+ 
+	var totalTime = 750;
+	// current scroll position: checks if window.pageYOffset exists (webkit + mozilla). If not, set's it to the IE equivalent
+	var startY = window.pageYOffset ? window.pageYOffset : window.document.body.scrollTop;
+ 
+	var d = iTargetY - startY; // total distance to scroll
+	var freq = Math.PI / (2 * totalTime); // frequency
+	var startTime = new Date().getTime();
+ 
+	var tmr = setInterval(
+		function () {
+			// check the time that has passed from the last frame
+			var elapsedTime = new Date().getTime() - startTime;
+ 
+			if (elapsedTime < totalTime) { // are we there yet?
+				var f = Math.abs(Math.sin(elapsedTime * freq));
+				window.scrollTo(0, Math.round(f*d) + startY);
+			} else {
+				clearInterval(tmr);
+				window.scrollTo(0, iTargetY);
+			}
+		}
+	, frameInterval);
+}
+</script>
+
 <link rel="stylesheet" type="text/css" media="all" href="http://www.e-classifieds.net/css/newlayout3.css">
 </head>
-<body id="wrapper">
+<body id="wrapper" onload="setInternalLinks()">
 <!--[if lte IE 6]>
 <div class="center">
 <![endif]-->
@@ -164,9 +240,9 @@
 
 </div>
 <p class="printer"><a href="javascript:void(0);" onclick="setActiveStyleSheet('Normal'); return false;">Return to Normal Page Layout</a></p>
-<p class="printer">Copyright © 1995-2010 Hagen Software Inc.</p>
+<p class="printer">Copyright © 1995-2011 Hagen Software Inc.</p>
 <p class="guidebar guidebarbottom" id="guidebarbottom"><a href="http://www.hagenhosting.com/"><img src="http://www.e-classifieds.net/images/poweredby.png" alt="favicon" title="This site is hosted by Hagen Hosting" width="180" height="16" class="frontpageimage"></a>
-<a href="http://www.e-classifieds.net/about/access.html">Site Access Agreement</a> | <a href="http://www.e-classifieds.net/about/privacy.html">Privacy Statement</a> | <a href="http://www.e-classifieds.net/about/legal.html">Legal</a> | Copyright © 1995-2010 <a href="http://www.hagensoftware.com">Hagen Software Inc.</a> | <a href="http://www.e-classifieds.net/about/contact.html">Contact us</a>
+<a href="http://www.e-classifieds.net/about/access.html">Site Access Agreement</a> | <a href="http://www.e-classifieds.net/about/privacy.html">Privacy Statement</a> | <a href="http://www.e-classifieds.net/about/legal.html">Legal</a> | Copyright © 1995-2011 <a href="http://www.hagensoftware.com">Hagen Software Inc.</a> | <a href="http://www.e-classifieds.net/about/contact.html">Contact us</a>
 </p>
 </div>
 <!--[if lte IE 6]>
