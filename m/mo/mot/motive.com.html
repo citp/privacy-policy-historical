@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2010-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201234508id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206003122id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
     
        
@@ -15,19 +15,35 @@
 
 
 
-
-
+<!-- BEGIN HEAD -->
 
 
 	<link href="/wps/themes/html/ExternalVGAMain/css/common.css" rel="styleSheet" type="text/css">
 	<link href="/wps/themes/html/ExternalVGAMain/css/font_sm.css" rel="styleSheet" type="text/css">
 	<link href="/wps/themes/html/ExternalVGAMain/css/themestyles.css" rel="styleSheet" type="text/css">
     <link href="/wps/themes/html/ExternalVGAMain/css/Styles.css" rel="styleSheet" type="text/css">
-    <link href="/wps/themes/html/ExternalVGAMain/css/dropdown_menu.css" rel="styleSheet" type="text/css">
-
+    <link href="/wps/themes/html/ExternalVGAMain/css/alu-menu.css" rel="stylesheet" type="text/css" media="screen">
 	<!-- Common JavaScript-->
-	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/common.js"></script>
-	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/dropdown.js"></script>
+	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/common.js?date=20100530"></script>
+	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/jquery.1.3.2.js"></script>
+	<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/alu-menu.js"></script>
+
+<!--[if lte IE 6]>
+  <link href='/wps/themes/html/ExternalVGAMain/css/alu-menu-ie6.css' rel="stylesheet" type="text/css" media="screen" />
+  <script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/alu-menu-ie6.js"></script>
+<![endif]-->
+
+<!--[if IE 7]>
+   <link href='/wps/themes/html/ExternalVGAMain/css/alu-menu-ie7.css' rel="stylesheet" type="text/css" media="screen" />
+  <script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/alu-menu-ie7.js"></script>
+<![endif]-->
+
+<!--[if IE 8]>
+   <link href='/wps/themes/html/ExternalVGAMain/css/alu-menu-ie8.css' rel="stylesheet" type="text/css" media="screen" />
+  <script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/alu-menu-ie8.js"></script>
+<![endif]-->
+
+<!-- END HEAD -->
 
 	
 	
@@ -39,31 +55,50 @@
 		<meta name="robots" content="NOFOLLOW, INDEX; charset=UTF-8">
 
 
+<script>
+//load specific css for browsers
+function loadcssfile(shref){
+  document.write("<link href='"+ shref + "' rel='stylesheet' type='text/css'>");
+}
 
+if (navigator.userAgent.indexOf('Opera') >= 0){
+	//alert('opera');
+	loadcssfile('/wps/themes/html/ExternalVGAMain/css/alu-menu-opera.css');
+}else if(navigator.userAgent.indexOf('Chrome') >= 0){
+	//alert('chrome');
+	loadcssfile('/wps/themes/html/ExternalVGAMain/css/alu-menu-chrome.css');
+}else if(navigator.userAgent.indexOf('Safari') >= 0 && navigator.userAgent.indexOf('Chrome') <= 0){
+	//alert('safari');
+	loadcssfile('/wps/themes/html/ExternalVGAMain/css/alu-menu-safari.css');
+}
+</script><link href="/wps/themes/html/ExternalVGAMain/css/alu-menu-chrome.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">		
 		var env_scode="prd";	
 		
 		function replaceSpaces() {
 			var proceed = "yes";
 		
-			if(document.searchForm.LMSG_Q.value.replace(/\s/g,"") == "" || document.searchForm.LMSG_Q.value == "Search") {
+			if(document.searchForm.S_FULLTEXT.value.replace(/\s/g,"") == "" || document.searchForm.S_FULLTEXT.value == "Search Global" || 
+					document.searchForm.S_FULLTEXT.value == "Search") {
 				proceed = "no";
 				alert('You must enter a search term');
 			}
 			if (proceed == "yes") {
-				var boxString=document.searchForm.LMSG_Q.value;
+				var boxString=document.searchForm.S_FULLTEXT.value;
 				boxString = boxString.replace(/</g," ");
 				boxString = boxString.replace(/>/g," ");
 				boxString = boxString.replace(/'/g," ");
 
-				var nonChar = new RegExp("\\s","g");
-				boxString=boxString.replace(nonChar,"+");
-				document.searchForm.LMSG_Q.value=boxString;
+
+				//var nonChar = new RegExp("\\s","g");
+				//boxString=boxString.replace(nonChar,"+");
+				document.searchForm.S_FULLTEXT.value=boxString;
                 //document.searchForm.action = document.searchForm.action + '&searchTerm=' + boxString + '&topnav=yes&kt=alcatel&root=' + 'All of Alcatel';
 				document.searchForm.submit()
 			}	
 		}				
 	</script><script language="Javascript">
+			
 		function addTrackingParams (e,el) {
 			e.preventDefault();
 			if (el.href != null) {
@@ -120,34 +155,39 @@
 
 
 	
+<!-- START COMMON JAVASCRIPT -->
 	
 	
 	
-
 	<body marginwidth="0" marginheight="0" onmousedown="setLinks(event)" onload="if ( document.forms['wpsPageGroupSelectionForm'] != null ) document.forms['wpsPageGroupSelectionForm'].reset();"><div style="position:absolute;top:0;left:0;z-index:-5">
 		<script type="text/javascript" language="Javascript" src="/wps/themes/html/ExternalVGAMain/js/s_code.js"></script>
 	</div>
+<!-- END COMMON JAVASCRIPT -->
 
 	
-	 
-	   <div style="position:absolute;top:0">
-	   	<form action="#" id="findscode" name="findscode" method="">
-		<input type="hidden" name="env_s_code" id="env_s_code" value="prd">		
-		</form>
-	   </div>
-	<script type="text/javascript">
-		var env_scode=document.getElementById("env_s_code").value;
-	</script>	
-	<div align="center" class="standard2col">
-	   <div id="container">
-	 		
-
-
-
-
-   			
-			
+		<!-- START PREHEADER -->
+		<div id="alu-headColor">&nbsp;</div>
+		<div id="alu-header-container">
+		 	
+			<div style="position:absolute;top:0">
+				<form action="#" id="findscode" name="findscode" method="">
+					<input type="hidden" name="env_s_code" id="env_s_code" value="prd">		
+				</form>
+		   </div>
+			<script type="text/javascript">
+				var env_scode=document.getElementById("env_s_code").value;
+			</script>	
+			<!-- END PREHEADER -->
+			<!-- BEGIN HEADER -->
+			<div id="alu-header">
 				
+
+
+
+
+   
+				
+					
 
 
 
@@ -159,23 +199,11 @@
 
 
 						
-			<table cellspacing="0" cellpadding="0" border="0" width="100%">
-				<tbody><tr>				
+				<!-- Logo -->
+				<a id="alu-logo" href="/wps/portal"></a>	
+		
 				
-					<td class="logoTopColumn">
 					
-					
-				
-				<a href="#skip-to-content" title="Skip to content"></a>
-					 <a href="/wps/portal">
-					     <img src="/wps/themes/html/ExternalVGAMain/images/AL_logo_205px.jpg" title="Alcatel-Lucent" alt="Alcatel-Lucent" width="185" height="47" border="0">
-					 </a>
-					 
-				   </td>
-					<td class="navTopColumn">
-						
-							
-							  
 
 
 
@@ -200,125 +228,62 @@
 
 
 
-<script type="text/javascript">
-function changeLanguageLocale(actionURL,locale)
-{
-	document.getElementById("lu_lang_code").value=locale;
-   	document.getElementById("change_lang").action=actionURL;
-   	document.getElementById("change_lang").submit();
-}
-</script>
- 	
+<!-- START ROW1 -->
 <!-- Top navigation -->
- 
- <table width="737" border="0">
- <tbody><tr>
- 	<td style="text-align: right; vertical-align: bottom; padding-right: 0px; padding-bottom:0px;">
- 	<div class="topSearch"><span class="font58em">
- 	<form action="#" id="change_lang" name="change_lang" class="lucentform" method="get">
+<div id="row-1">
+ 	<form action="#" id="change_lang" name="change_lang" class="" method="get">
+	   <ul id="alu-i18n-nav">
+	   <li>
  	
- 	
-				<b>Worldwide</b>
-			
-			
-			
-			 [<a href="/wps/portal/worldwide" target="_self" title="Change">Change</a>] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	    
-			
+			<span>Worldwide</span>
 		
+		[<a href="/wps/portal/worldwide" target="_self" title="Change">Change</a>]
+	    </li>
+
+		
+				<li>English - <a href="javascript:changeLanguageLocale ('/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3CXMFSYGYRq6m-pEoYgbxjgiRIH1vfV-P_NxU_QD9gtzQiHJHR0UAN0ZNRg!!/delta/base64xml/L0lKWWttUSEhL3dITUFDc0FJVUFOby80SUVhREFBIS9mcg!!','fr')">Français</a></li>
 			
-			
-			
-				<b>English</b>  -  <a href="javascript:changeLanguageLocale ('/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3CXMFSYGYRq6m-pEoYgbxjgiRIH1vfV-P_NxU_QD9gtzQiHJHR0UAN0ZNRg!!/delta/base64xml/L0lKWWttUSEhL3dITUFDc0FJVUFOby80SUVhREFBIS9mcg!!','fr')">Français</a>&nbsp;&nbsp;
-			
-		
-		
-		
-				   
-						 <a href="http://www2.alcatel-lucent.com/rss" target="_self" title="Subscribe to RSS feed">
-							<img src="/wps/themes/html/ExternalVGAMain/images/AL-RSS-icon-large.gif" width="18" height="17" alt="Subscribe to RSS feed" border="0" class="topRss"><br>
-						</a>
-				   
-		
-		
-		
-		
-		
-			
+		</ul>
 		
 		<input type="hidden" name="lu_lang_code" id="lu_lang_code" value="en">
  	</form>
- 	</span>
- 	</div>
- 	</td>
- </tr>
-   <tr>
-    <td style="text-align: right; vertical-align: bottom; padding-top: 0px; padding-right: 0px; padding-bottom:4px; ">
+</div>
+<!-- END ROW1 -->
+<!-- START ROW2 -->
+<div id="row-2">
+	
+	<ul id="alu-mini-nav">
+		<!-- Home -->
+		
+		
+			<li><a href="/wps/portal" target="_self" title="Home">Home</a></li>
+		
+		
+		<!-- Contact Us -->
+		
+		
+			<li><a href="/wps/portal/contactus" target="_self" title="Contact Us">Contact Us</a></li>
+		
+		
+		<!-- Sign In/Register -->
+		
+		
+			<li><a href="https://market.alcatel-lucent.com/release/employee/SPEmployeeLoginRedirectSvlt?SP_PAGE_ID=0" target="_self" title="Sign In/Register (MyAccess)">Sign In/Register (MyAccess)</a></li>
+		 
+		
+		<!-- RSS -->
+		
+		<li><a class="rss" href="http://www2.alcatel-lucent.com/rss" target="_self" title="Subscribe to RSS feed">RSS</a></li>	
+	</ul>	
+</div>	
+<!-- END ROW2 -->							
+
+
+
+
 				
-	<div><span class="font58em">
-		
-		
-			 <form action="/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3CXMFSYGYRq6m-pEoYgbxjgiRIH1vfV-P_NxU_QD9gtzQiHJHR0UAN0ZNRg!!/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X0FfSFYz" name="searchForm" class="lucentform" method="get" onsubmit="replaceSpaces();return false;">		
-		     
-		
-	
-	    <!-- display Home -->
-	    
-			 <a href="/wps/portal" target="_self" title="Home">
-				 Home
-				
-			 </a> |
-	    
-	
-		<!-- display Contact Us -->		
-		 
-		 
-		 
-				 <a href="/wps/portal/contactus" target="_self" title="Contact Us">
-					Contact Us
-					
-				 </a> |
-		    
-				 
-			<!-- display sign In/Register -->		
-		 
-		 
-		 
-				 <a href="https://market.alcatel-lucent.com/release/employee/SPEmployeeLoginRedirectSvlt?SP_PAGE_ID=0" target="_self" title="Sign In/Register (MyAccess)">
-					Sign In/Register (MyAccess)
-					
-				 </a> 
-		    
-		   	
-		 &nbsp; &nbsp;&nbsp;&nbsp;
-				 	   
-	
-	
-		
-		<!-- Search form -->
-		   
-		       <span class="dropShadow1"><span class="dropShadow2"><span class="dropShadow3"><input type="text" name="LMSG_Q" class="searchField" onfocus="this.select();"></span></span></span>
-		       <span class="dropShadow1"><span class="dropShadow2"><span class="dropShadow3"><input type="submit" class="submit" value="Search" border="0"></span></span></span>
-		     
-		     </form>
-		   </span> 
-		</div>
-	  </td>
-	  
-     </tr>	
-     
-   </tbody></table>									
-
-
-
-
-							
-					</td>
-				</tr>
-				<tr valign="top">
-				  <td colspan="2" width="100%">	
-				        
-
+			</div>
+			
 
 
 
@@ -342,6 +307,12 @@ function changeLanguageLocale(actionURL,locale)
 		
 			
 				
+			
+			
+		
+			
+			
+		
 			
 			
 		
@@ -430,268 +401,495 @@ function changeLanguageLocale(actionURL,locale)
 	
 
 	
-	<!-- <table width="941">
-		<tr>
-		<td > -->
-			<table border="0" cellpadding="0" cellspacing="0" width="940">
-				<tbody><tr>
-					
-					
-					
-					
-					<td>
-					
-					</td>
-					
+	
+	<!-- START SUBMENU -->
+	<ul id="alu-menu-one">
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+				<li>
+					<a href="/wps/portal/Solutions">Solutions</a>
+				
+					<ul>
 					
+						
+							<li>
+							<a href="/wps/portal/Solutions">For Service Providers</a>
+							</li>
 					
+						
+							<li>
+							<a href="http://enterprise.alcatel-lucent.com/?solution=All&amp;page=Directory">For Enterprise &amp; Industries</a>
+							</li>
 					
-							<td>
-								<div id="topMenu.lu.pub.cat.pg.solutions" class="topmenustyle">
-									<a class="navItemFirst" href="/wps/portal/Solutions" rel="dropmenu.lu.pub.cat.pg.solutions"> 
-										Solutions
-									</a>
-								</div>
-							</td>
-					
-					
-					
-					
-					
-					
+					</ul>
+				
+				</li>
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+				<li>
+					<a href="/wps/portal/Products">Products</a>
+				
+					<ul>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000031.xml&amp;LMSG_SELECTEDCATEGORY=Y">Access</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000032.xml&amp;LMSG_SELECTEDCATEGORY=Y">Applications</a>
+							</li>
 					
-							<td>
-								<div id="topMenu.lu.pub.cat.pg.prodcatalog" class="topmenustyle">
-									<a class="navItem" href="/wps/portal/Products" rel="dropmenu.lu.pub.cat.pg.prodcatalog"> 
-										Products
-									</a>
-								</div>
-							</td>
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000033.xml&amp;LMSG_SELECTEDCATEGORY=Y">Carrier Ethernet, IP/MPLS &amp; ATM Networks</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000034.xml&amp;LMSG_SELECTEDCATEGORY=Y">Carrier VoIP, Voice &amp; Multimedia</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000035.xml&amp;LMSG_SELECTEDCATEGORY=Y">Convergence/IMS</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000036.xml&amp;LMSG_SELECTEDCATEGORY=Y">Enterprise</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000037.xml&amp;LMSG_SELECTEDCATEGORY=Y">Mobile</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000038.xml&amp;LMSG_SELECTEDCATEGORY=Y">Network, Service Management &amp; OSS/BSS</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000039.xml&amp;LMSG_SELECTEDCATEGORY=Y">Optics</a>
+							</li>
+					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000040.xml&amp;LMSG_SELECTEDCATEGORY=Y">Submarine Systems</a>
+							</li>
+					
+						
+							<li>
+							<a href="/wps/portal/Products/category?LMSG_CABINET=Solution_Product_Catalog&amp;LMSG_CONTENT_FILE=Product_Categories/Product_Category_000041.xml&amp;LMSG_SELECTEDCATEGORY=Y">Wireless Access &amp; Transmission</a>
+							</li>
+					
+						
+							<li>
+							<a href="/wps/portal/products/productsaz" style="border-top:1px solid #7d7d7d;margin-top:10px">Products A-Z</a>
+							</li>
+						
+					</ul>
+				
+				</li>
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+				<li>
+					<a href="/wps/portal/Services">Services</a>
+				
+					<ul>
 					
+						
+							<li>
+							<a href="/services/transformation_services.html">Transformation Services</a>
+							</li>
 					
+						
+							<li>
+							<a href="/services/business_consulting_services.html">Business Consulting</a>
+							</li>
 					
-							<td>
-								<div id="topMenu.pub.corp.pg.services" class="topmenustyle">
-									<a class="navItem" href="/wps/portal/Services" rel="dropmenu.pub.corp.pg.services"> 
-										Services
-									</a>
-								</div>
-							</td>
+						
+							<li>
+							<a href="/services/integration_services.html">Integration Services</a>
+							</li>
 					
+						
+							<li>
+							<a href="/services/managed_services.html">Managed Services</a>
+							</li>
 					
-					
-					
-					
-					
+					</ul>
+				
+				</li>
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+				<li>
+					<a href="/wps/portal/innovation">Innovation</a>
+				
+					<ul>
 					
+						
+							<li>
+							<a href="/wps/portal/Locator?UNIQUE_NAME=pub.corp.pg.innovation.about">About Alcatel-Lucent Innovation</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/BellLabs/">Bell Labs</a>
+							</li>
 					
-							<td>
-								<div id="topMenu.pub.corp.pg.innovation" class="topmenustyle">
-									<a class="navItem" href="/wps/portal/innovation" rel="dropmenu.pub.corp.pg.innovation"> 
-										Innovation
-									</a>
-								</div>
-							</td>
+						
+							<li>
+							<a href="/wps/portal/Locator?UNIQUE_NAME=pub.corp.pg.innovation.awards">Awards and Recognition</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Locator?UNIQUE_NAME=pub.corp.pg.innovation.features">Innovation News Features</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/innovation/alrpp">Alcatel-Lucent Research Partner Program</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Locator?UNIQUE_NAME=lu.pub.mkt.pg.MAP">Market Advantage Program</a>
+							</li>
 					
-					
-					
+					</ul>
+				
+				</li>
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+				<li>
+					<a href="/wps/portal/support">Support</a>
+				
+					<ul>
 					
+						
+							<li>
+							<a href="/support/supportredirect.html">Network Customers Support (OLCS)</a>
+							</li>
 					
+						
+							<li>
+							<a href="http://enterprise.alcatel-lucent.com/?dept=TrainingandSupport&amp;page=homepage">Enterprise Support &amp; Training</a>
+							</li>
 					
-							<td>
-								<div id="topMenu.pub.corp.pg.support" class="topmenustyle">
-									<a class="navItem" href="/wps/portal/support" rel="dropmenu.pub.corp.pg.support"> 
-										Support
-									</a>
-								</div>
-							</td>
+						
+							<li>
+							<a href="/university">Alcatel-Lucent University Training</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/src">Service Routing Certification Program</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/phonesmodems">Phones &amp; Modems</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/howtobuy">Sales Inquiry</a>
+							</li>
 					
-					
-					
+					</ul>
+				
+				</li>
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+				<li>
+					<a href="/wps/portal/aboutus">About Us</a>
+				
+					<ul>
 					
+						
+							<li>
+							<a href="/wps/portal/AboutUs/Overview/">Company Overview</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/press">Press Room</a>
+							</li>
 					
-							<td>
-								<div id="topMenu.lu.pub.corp.pg.aboutus" class="topmenustyle">
-									<a class="navItemEnd" href="/wps/portal/aboutus" rel="dropmenu.lu.pub.corp.pg.aboutus"> 
-										About Us
-									</a>
-								</div>
-							</td>
+						
+							<li>
+							<a href="http://www2.alcatel-lucent.com/newsresources/">News &amp; Resources</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/investors">Investors &amp; Shareholders</a>
+							</li>
 					
+						
+							<li>
+							<a href="/csr/htm/en/home.html">Corporate Social Responsibility</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Suppliers/">Suppliers</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/AboutUs/leadership/">Management Team</a>
+							</li>
 					
+						
+							<li>
+							<a href="/wps/portal/Investors/governance">Corporate Governance</a>
+							</li>
 					
+					</ul>
+				
+				</li>
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-					
+	
+	
+	
+	
+	
+	
+	
+	
 
-					
-					
-					
-					
-					
-					
-					
-				</tr>
-			</tbody></table>
+	
+	
+	
+	
+	
+	
+	
+	
 
+	
+	
+	
+	
+	
+	
+	
+	
 
-
-				  </td>
-				</tr>
-			</tbody></table>
-			<div style="width:100%;"><a name="skip-to-content"></a></div>
-
-			<table cellspacing="0" cellpadding="0" border="0" width="100%">
-			<tbody><tr>
-			<td>
-			<table width="700" cellspacing="0" cellpadding="0" border="0">
+	
+	
+	
+	
+	
+	
+	</ul>
+	<!-- Search form -->
+	<div id="alu-global-search">
+	
+	<form id="al-search-form" action="/Search/s.s" name="searchForm" class="" method="get" onsubmit="replaceSpaces();return false;">		
+		
+		<fieldset>
+			<legend>Global Search</legend>
+			<label for="alu-global-search-q">Search String:</label>
 			
+			<input type="text" id="alu-global-search-q" name="S_FULLTEXT" size="20" value="Search Global">
+			
+			<input type="submit" id="alu-global-search-button" value="">
+			<input type="hidden" name="siteId" value="internet">
+			<input type="hidden" name="templateId" value="search">
+			<input type="hidden" name="locale" value="en">
+		</fieldset>
+	</form>
+	
+	</div>
+	<!-- END SUBMENU -->
+	
+
+
+			<!-- END HEADER -->
+		</div>
+		<div align="center" class="standard2col">
+	   		<div id="container">
+				<div style="width:100%;"><a name="skip-to-content"></a></div>
+				<table cellspacing="0" cellpadding="0" border="0" width="100%">
+					<tbody><tr>
+						<td>
+							<table width="700" cellspacing="0" cellpadding="0" border="0">
+							
 			</table>
 			</td> 
             
@@ -726,8 +924,8 @@ http://www.omniture.com -->
 
 	s.prop7 = "en";
 
-    	if ( "Portal Server 01" != "null" ) 
-		s.server = "Portal Server 01";
+    	if ( "Portal Server 02" != "null" ) 
+		s.server = "Portal Server 02";
 
 	if ( 'null' != 'null') 
 		s.prop11 = 'null';
@@ -776,12 +974,7 @@ http://www.omniture.com -->
              
 <meta name="robots" content="FOLLOW, INDEX; charset=UTF-8">
 
-<!--
-<LINK href='http://qa.portal.alcatel-lucent.com:8081/wps/themes/html/ExternalVGAMain/css/common.css' rel="styleSheet" type="text/css">
-<LINK href='http://qa.portal.alcatel-lucent.com:8081/wps/themes/html/ExternalVGAMain/css/font_sm.css' rel="styleSheet" type="text/css">
-<LINK href='http://qa.portal.alcatel-lucent.com:8081/wps/themes/html/ExternalVGAMain/css/themestyles.css' rel="styleSheet" type="text/css">
-<LINK href='http://qa.portal.alcatel-lucent.com:8081/wps/themes/html/ExternalVGAMain/css/Styles.css' rel="styleSheet" type="text/css">
- -->       
+  
 
 <title>Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement</title>
 <meta name="title" content="Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement">
@@ -884,11 +1077,13 @@ http://www.omniture.com -->
                                     <p><strong>Accessing and Correcting Your Personal Data </strong></p>
                                       <p>Alcatel-Lucent wants to  ensure that any personal data you provide remains accurate. If you have changes  to your personal data, you can review and update your personal data after  logging onto the web site with your user name and password. You can correct  errors in your personal data by sending us a request and pointing out the  error. To protect your privacy and secure your personal data, we will also take  reasonable steps to verify your identity before granting access or making the  corrections.</p>
   <p><strong>Contacting Us</strong></p>
-                                      <p>We value your opinions  and feedback. If you have any questions or comments about our Global Privacy  and Data Protection Web Site Policy Statement, please send them to:</p>
-  <p><a href="mailto:DataPrivacy@alcatel-lucent.com">DataPrivacy@alcatel-lucent.com</a> or write us at:</p>
+  
+
+  
+                                     <p>We value your opinions and feedback. Please <a href="/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3MfQFSZnFG8Q76kfCRIL0vfV9PfJzU_UD9AtyI8odHRUVAY9dlIY!/delta/base64xml/L0lJayEvUUd3QndJQSEvNElVRkNBISEvNl9BXzJFQi9lbl93dw!!?LMSG_CABINET=Corporate&amp;LMSG_CONTENT_FILE=Forms/Registration/Alcatel_Lucent_Data_Privacy_Inquiry.xml" target="_blank">email us any questions or comments about our Global Privacy and Data Protection Web Site Policy Statement</a>, or write us at:</p>
                                       <p>Alcatel-Lucent <br>
                                       Chief Privacy and Data Protection Counsel - Law<br>
-                                      Room 6F-224<br>
+                                      Room 6E236<br>
                                       600 – 700 Mountain Avenue<br>
                                       Murray Hill, New Jersey 07974</p>
   <p><strong>Complying with and Changing Our Global Privacy and Data Protection  Web Site Policy Statement </strong></p>
@@ -1003,6 +1198,16 @@ http://www.omniture.com -->
 		   </div>
 		</div>
 	
+	<script type="text/javascript">
+		// include a patch css for firefox
+		var linkArray = document.getElementsByTagName('link');
+		for(var i=0;i<linkArray.length;i++){
+			if(linkArray[i].href.indexOf("/home/style.css")>0 && navigator.userAgent.indexOf('Firefox') >= 0){
+				var shref = '/wps/themes/html/ExternalVGAMain/css/alu-menu-ff.css';
+				document.write("<link href='"+ shref + "' rel='stylesheet' type='text/css'>");
+			}
+		}
+	</script>
 
 
 
