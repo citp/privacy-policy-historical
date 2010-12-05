@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the graphisoft.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605235929id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphisoft.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205154340id_/http%3A//www.graphisoft.com/frontpage/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 We at Graphisoft are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
 
@@ -44,8 +42,3 @@ To respond to user inquiries and requests for information - this includes regist
 We do not engage in the practice of selling our customer lists or customer information to third parties. However, we do from time to time engage in joint marketing or other similar arrangements with responsible companies, and in the course of such activities may share our customer information with such parties, which sharing may result in communications by such parties to you. This sharing is done solely as a result of our belief that the information communicated to you by such parties will be of interest to you.
 
 Graphisoft has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please [Contact us](mailto:info@graphisoft.hu).
-
-  
-  
-  
----|---
