@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegamesracing.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327104023id_/http%3A//onlinegamesracing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegamesracing.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205031214id_/http%3A//onlinegamesracing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Racing Games
 
