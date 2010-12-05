@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803154417id_/http%3A//www.iherb.com/info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205032319id_/http%3A//www.iherb.com/info/Privacy) for the most accurate reproduction.*
 
 # iHerb.com - Privacy Policy
 
@@ -56,7 +56,7 @@ We also use a variety of security technologies and procedures to help protect yo
 
 Correcting/Updating Personal Information
 
-If you need to correct or update your personal information (such as your email address), or if you no longer desire our service, you can let us know by emailing our customer support at [info@iHerb.com](mailto:info@iHerb.com) or calling 626.939.7800.
+If you need to correct or update your personal information (such as your email address), or if you no longer desire our service, you can let us know by emailing our customer support at [info@iHerb.com](mailto:info@iHerb.com) or calling 951.616.3600.
 
 Notification of Changes
 
@@ -70,6 +70,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 [info@iHerb.com](mailto:info@iHerb.com) Customer Service  
 iHerb Inc.  
-5012 4th Street,  
-Irwindale, CA 91706, USA  
-Phone: 866.328.1171 (626.939.7800) Fax: 626.338.1326
+17825 Indian Street,  
+Moreno Valley, CA 92551, USA  
+Phone: 866.328.1171 (951.616.3600) Fax: 951.616.3601
