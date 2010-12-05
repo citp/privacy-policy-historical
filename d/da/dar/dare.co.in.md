@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the dare.co.in privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405183314id_/http%3A//www.dare.co.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dare.co.in privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205143403id_/http%3A//dare.co.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy | Home | DARE - Because Entrepreneurs Do |
 
-[ Home ](http://dare.co.in/table/home/) \-  [ Privacy Policy ](http://dare.co.in/table/home/privacy-policy/)  
-Written by DARE      
-Tuesday, 01 July 2008 13:49   
-  
 **Our commitment to your privacy **  
 Your privacy is important to us. This document outlines  what information we collect about you and how we use it.
 
@@ -26,7 +22,7 @@ We use non-identifying and aggregate information to better design our website an
 ** The site contains no information or content that could be useful to children below 13 years of age. Nor does it carry any information detrimental to children. We do not encourage children to participate in our discussions. However, given that we provide facilities for our readers to add their comments to our articles and blogs, it is possible that some comments not suitable for a young audience may occasionally creep in. While all attempts will be made to moderate them out, reader caution is advised.
 
 **Contact us**  
-Should you have other questions or concerns about these privacy policies, please send us an email at dare@cybermedia.co.in.
+Should you have other questions or concerns about these privacy policies, please send us an email at [dare@cybermedia.co.in](mailto:dare@cybermedia.co.in).
 
 Our postal address is  
 CyberMedia India ltd.  
