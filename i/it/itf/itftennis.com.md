@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itftennis.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623053821id_/http%3A//www.itftennis.com/abouttheitf/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itftennis.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205215933id_/http%3A//www.itftennis.com/abouttheitf/legal/privacy.asp) for the most accurate reproduction.*
 
 # ITF Tennis - About the ITF - Privacy Policy
 
@@ -48,5 +48,3 @@ We have strict security procedures covering the storage and disclosure of your i
 **Cookies**
 
 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. We may use cookies to identify returning visitors to our websites and obtain information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site, including purchasing items.
-
-^ [Back to Top](http://www.itftennis.com/abouttheitf/legal/privacy.asp#top)
