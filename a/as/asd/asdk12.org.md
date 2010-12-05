@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908014508id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205190143id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
 
 # Anchorage School District General Information
 
 Information Collected and How it is Used | Personal Information |  How Personal Information is Used |  Rules for Sending Comments | Security | Cookies | Notification of Changes | Links | Contact Us | Definitions
 
-#### [PDF version](https://web.archive.org/web/20090908014508id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20090908014508id_/http%3A//www.asdk12.org/privacy.txt)
+#### [PDF version](https://web.archive.org/web/20101205190143id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20101205190143id_/http%3A//www.asdk12.org/privacy.txt)
 
 ## Information Collected and How it is Used
 
@@ -144,7 +144,7 @@ _  "Contact Us" section updated May 7, 2007 _
 
 * * *
 
-[Privacy Policy](http://www.asdk12.org/privacy.asp) | Copyright © 2000-2009  
+[Privacy Policy](http://www.asdk12.org/privacy.asp) | Copyright © 2000-2010  
 | [](http://www.asdk12.org/) | Anchorage School District   
 5530 E Northern Lights Blvd   
 Anchorage, Alaska 99504-3135  
