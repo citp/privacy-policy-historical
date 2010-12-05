@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apps-world.net privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501061543id_/http%3A//www.apps-world.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps-world.net privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205144918id_/http%3A//apps-world.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
