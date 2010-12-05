@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605154734id_/http%3A//www.confetti.co.uk/article/view/6793-8280-0-Privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205044429id_/http%3A//www.confetti.co.uk/article/view/6793-8280-0-Privacy_policy.do) for the most accurate reproduction.*
 
 # Privacy policy
 
-This page explains the privacy policy for Confetti Network Ltd (80 - 81 Tottenham Court Road, London, W1T 4TE). Confetti respects the importance of your privacy, and the privacy of all its customers. This privacy policy will explain how we gather and use any information you give to us, and what you can do about it. 
+This page explains the privacy policy for Confetti Celebrations Ltd (Unit 4, Howarth Court, Gateway Crescent, Oldham/Broadway Business Park, Oldham, OL9 9XB). Confetti respects the importance of your privacy, and the privacy of all its customers. This privacy policy will explain how we gather and use any information you give to us, and what you can do about it. 
 
 ### What information we gather
 
@@ -15,6 +15,8 @@ Much of the information we gather is required in order to run our business. For 
   * enable you to personalise parts of the site and extend the functionality of different sections. 
   * identify you for the purpose of buying products, entering competitions, signing up for events, requesting further information from companies advertising on our site, and controlling the use of our forums. 
   * tailor specific marketing towards you in the form of emails you have requested and catalogue mailings. 
+  * Processing your orders, if we have products available for purchase on our website.
+  * Marketing to you by using the data collected through our 3rd party technology to contact you about the transaction or inquiry you were making, even if you did not complete it. We will not contact you about anything else but we will ask if we can offer any assistance to help you complete the inquiry or transaction.
 
 
 
@@ -34,7 +36,7 @@ We will store information about you as long as we require it to carry out our bu
 
 ### How you can contact us
 
-You can contact our customer service team at [customercare@confetti.co.uk](mailto:cutomercare@confetti.co.uk "mailto:cutomercare@confetti.co.uk") or phone 0870 840 6060 Monday – Friday 9am to 5pm. 
+You can contact our customer service team at [customercare@confetti.co.uk](mailto:cutomercare@confetti.co.uk "mailto:cutomercare@confetti.co.uk") or phone 0844 848 9797 Monday – Friday 9am to 5pm. 
 
 ### Cookies 
 
