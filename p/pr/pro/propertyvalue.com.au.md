@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215075233id_/http%3A//www.propertyvalue.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205221121id_/http%3A//www.propertyvalue.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - PropertyValue
 
-|  | 
+We collect, use and disclose personal information in accordance with state and federal privacy legislation as it relates to us. 
 
 This privacy policy has been created in order to disclose the information gathering and dissemination practices for this website, www.propertyvalue.com.au. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. This policy is in addition to the Terms & Conditions governing the website and should be read in conjunction with those Terms & Conditions. 
 
@@ -34,22 +34,8 @@ PropertyValue has a secure transaction system. Our 128-bit Secure Sockets Layer 
 As always when using passwords, keep them safe and don't share them with other people. 
 
 **Still don't want to use your credit card on the Internet?**  
-Unfortunately we do not have a telephone or fax ordering service at present however this may change if customer demand warrants such a facility. We would appreciate you contacting us at info@propertyvalue.com.au with your feedback if you really would like to purchase some property reports however are not prepared to use our online payment system. Whilst we cannot implement such a system immediately, this will allow us to gauge customer demand and provide alternative payment options in the future, if appropriate. 
+Unfortunately we do not have a telephone or fax ordering service at present however this may change if customer demand warrants such a facility. We would appreciate you contacting us at admin@propertyvalue.com.au with your feedback if you really would like to purchase some property reports however are not prepared to use our online payment system. Whilst we cannot implement such a system immediately, this will allow us to gauge customer demand and provide alternative payment options in the future, if appropriate. 
 
   
-  
-
-
-|  |  |  |   
----  
-View Cart & Checkout   
-| 
-
-Your cart is empty.   
-  
-  
-[My Reports](https://web.archive.org/web/20051215075233id_/http%3A//www.propertyvalue.com.au/faq.php#Report12)  
----  
-| A list of your recently purchased reports.   
   
 
