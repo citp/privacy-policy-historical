@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025823id_/http%3A//www.rd.com/content/10660) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205021944id_/http%3A//www.rd.com/free-online-games-sweepstakes-and-contests/privacy-policy/article10660.html) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -92,13 +92,15 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 **Improper Conduct**  
 The restrictions above will not apply in the event that you engage in certain improper conduct. Specifically, we shall have the right to use or release to third parties personally identifiable information regarding users who are suspected of having used any RD sites for any fraudulent purposes or having otherwise violated any law, rule or regulation or the rights of third parties or having engaged in any conduct that we deem improper.
 
+**Notice to consumers living outside the US.** RDA has have registered for Safe Harbor certification with the US Department of Commerce. [Click here](https://web.archive.org/safe-harbor-privacy-policy/article181544.html) to see our Safe Harbor Privacy Policy. 
+
 **How Reader's Digest Handles Health Privacy Internally**  
 Reader's Digest wants your personal information to remain as secure as reasonably possible. Therefore, we have a two-tier system that combines leading technical safeguards and a code of conduct for those employees permitted to access our customers' personal information. On the technical side, we use SSL to help ensure the integrity and privacy of the personal information you provide to us via the Internet. As an additional security measure, your personal information is kept physically separate on a separate server where your password is encrypted and stored on a database. Only authorized employees are permitted to access your personal information. All employees must abide by our Privacy Policy and those who violate our Privacy Policy are subject to disciplinary action, up to and including termination.
 
 **Acceptance of Privacy Policy**  
 By using this site, you signify your agreement to the RD sites privacy policy. You further authorize the export of personal information to the USA and its storage and use as specified in this policy when you provide such information to us. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. Your continued use of any RD site following the posting of any changes to these terms shall mean that you have accepted those changes. This policy and all of our legal obligations are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York.
 
-**Policy last updated July 2007**
+**Policy last updated June 2010**
 
 **Legal Notice and Terms and Conditions**  
 Please also read the RD sites [Terms of Use](https://web.archive.org/content/openContent.do?contentId=10661) to understand the additional terms and conditions which apply to use of the sites.
