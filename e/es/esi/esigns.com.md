@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esigns.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209045705id_/http%3A//www.esigns.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esigns.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205053458id_/http%3A//www.esigns.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Esigns.com privacy policy
 
