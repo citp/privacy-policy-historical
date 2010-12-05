@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606214324id_/http%3A//stuff.tv/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205232628id_/http%3A//stuff.tv/Privacy-Policy) for the most accurate reproduction.*
 
 # Gadget reviews and video reviews, technology news – Stuff.tv
 
