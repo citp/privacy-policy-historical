@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mocpages.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010026id_/http%3A//www.mocpages.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocpages.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205175818id_/http%3A//www.mocpages.com/about/privacy.php) for the most accurate reproduction.*
 
 # MOCpages.com : Privacy policy
 
@@ -42,28 +42,22 @@ The Internet protocol (IP) address used to connect your computer to the Internet
 
 E-mail communications 
 
-  * **No one likes junk mail**  
+**No one likes junk mail**  
 MOCpages will only send e-mail to confirm actions you take on our web site, to alert you to information about your account status, and to communicate with you about administrative issues. For example, account holders receive e-mail when a comment is written on one of their creations. Another example: you can request a new password via e-mail if you've forgotten your password. If you do not want to receive e-mail or other mail from us, you can adjust your [notification preferences](https://web.archive.org/notifications_FORM.php). 
-
-
 
 What about cookies? 
 
-  * Our cookies are simple numeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features such as tracking what comments you have written, whose creations you have voted on, and which creations you like best. 
-
-
+Our cookies are simple numeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features such as tracking what comments you have written, whose creations you have voted on, and which creations you like best. 
 
 "Which information can I access?"
 
-  * We give you access to a broad range of information about your account and your interactions with MOCpages.com for the purpose of viewing or updating that information. You have freedom to update all of your account information, your pages, comments you've written, ratings, favorites, and more. Examples: Personally identifiable information (including name, e-mail, password, communications preferences, and other settings); e-mail notification settings; the "Your Account" area (including your comments, ratings, and personal profile); all of the content that you have personally created (including your pages, your home page, images, and links to other sites.) 
-
-
+We give you access to a broad range of information about your account and your interactions with MOCpages.com for the purpose of viewing or updating that information. You have freedom to update all of your account information, your pages, comments you've written, ratings, favorites, and more. Examples: Personally identifiable information (including name, e-mail, password, communications preferences, and other settings); e-mail notification settings; the "Your Account" area (including your comments, ratings, and personal profile); all of the content that you have personally created (including your pages, your home page, images, and links to other sites.) 
 
 "What choices do I have?" 
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make an account or to take advantage of such MOCpages.com features as comments, voting, or other features that may be released in the future. 
   * You can add or update certain information on pages throughout your account. When you update information, we do not keep a copy of the prior version. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your [notification preferences](https://web.archive.org/web/20100102010026id_/http%3A//www.mocpages.com/notifications_FORM.php). (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MOCpages.com, and it is your responsibility to review them for changes.) 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [notification preferences](https://web.archive.org/web/20101205175818id_/http%3A//www.mocpages.com/notifications_FORM.php). (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MOCpages.com, and it is your responsibility to review them for changes.) 
   * The Help portion of the tool bar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of MOCpages.com's coolest features, and we recommend that you leave them turned on. 
   * The following are some products that offer anonymous browsing. [www.anonymizer.com](http://www.anonymizer.com/), [www.IDzap.com](http://www.idzap.com/), [www.somebody.net](http://www.somebody.net/), and [www.zeroknowledge.com](http://www.zeroknowledge.com/). We cannot vouch for the effectiveness of any of these products. 
   * In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, [Site seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html). 
@@ -75,6 +69,10 @@ Conditions of Use, Notices, and Revisions
 If you choose to visit MOCpages.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/about/use.php), including limitations on damages, arbitration of disputes, and application of the law of the state of Texas. If you have any concern about privacy at MOCpages.com, please send us a thorough description [to our support staff](https://web.archive.org/support.php), and we will try to resolve it. 
 
 Our web site changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/about/use.php) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected account holders. 
+
+Advertising 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Related Practices and Information 
 
