@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507072005id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205145133id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
 
 # Temptalia.com Privacy Policy
-
-## [Temptalia.com Privacy Policy](http://www.temptalia.com/temptaliacom-privacy-policy "Permanent Link to Temptalia.com Privacy Policy")
 
 ## **Privacy Policy  
 **
@@ -19,8 +17,8 @@
 
 (f) Children.  We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
 
-**Effective Date** :  August 15th, 2009
+ **Effective Date** :  August 15th, 2009
 
-**Privacy Contact Information**
+ **Privacy Contact Information**
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us by e-mailing [christine@temptalia.com](mailto:christine@temptalia.com).
