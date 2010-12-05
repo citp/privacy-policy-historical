@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatonline.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625032446id_/http%3A//www.bharatonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatonline.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206005411id_/http%3A//www.bharatonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy:: BharatOnline.com
 
