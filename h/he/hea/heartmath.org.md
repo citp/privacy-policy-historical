@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604053738id_/http%3A//www.heartmath.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D192%26Itemid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205035516id_/http%3A//www.heartmath.org/about-us/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Institute of HeartMath
 
-**We agree to notify you of:**
+We agree to notify you of:
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
   2. The organization collecting the information
@@ -14,7 +14,7 @@
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Brian Kabaker, Director of Sales and Marketing, by phone at (800) 711-6221 / 831-338-8500 or e-mail at [bkabaker@heartmath.org](mailto:bkabaker@heartmath.org).
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Brian Kabaker, Director of Sales and Marketing, by phone at (800) 711-6221 / 831-338-8500 or e-mail at [bkabaker@heartmath.org](mailto:bkabaker@heartmath.org).
 
   
 
