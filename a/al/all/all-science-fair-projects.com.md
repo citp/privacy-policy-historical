@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the all-science-fair-projects.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003902id_/http%3A//www.all-science-fair-projects.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-science-fair-projects.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205063440id_/http%3A//www.all-science-fair-projects.com/help/privacy.html) for the most accurate reproduction.*
 
 # Science Fair Projects - From Our Editor
 
 ## Our Privacy Policy
 
 **All Science Fair Projects respects your privacy. We do not sell any information that we collect.**
+
+**Third Party Ads:**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Statistics:**  
 We keep records of general statistics (for example, the total number of daily visitors on out site) for various purposes such as in order to improve our services, and also to facilitate site sponsorship/advertising.   
