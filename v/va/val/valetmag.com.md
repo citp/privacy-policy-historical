@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valetmag.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174211id_/http%3A//www.valetmag.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valetmag.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205211911id_/http%3A//www.valetmag.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Valet. > About > Legal > Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-Created on June 1, 2008
+Updated on November 23, 2010  |  Created on June 1, 2008
 
 ## Scope of this Online Privacy Statement
 
@@ -45,7 +45,7 @@ We use "cookies" and other Web technologies to collect information and support c
 
 ## Use of Cookies and Similar Technologies by Our Advertising Agents
 
-Valetmag.com uses third-party advertising companies to place online advertisements on our behalf at websites other than valetmag.com. These advertising companies may use cookies and Web beacons (also known as "pixel tags") to target and measure the effectiveness of their advertisements. For example, our advertising companies may place Web beacons on their clients' Web sites. When you visit these Web sites, the Web beacon "tags" your computer with a "cookie" that collects and stores information about your visit to their client's Web site. This information does not identify you personally. Our advertising companies use the information they collect about your use of their clients' Web sites to customize the advertisements you see when you visit their clients' Web sites. Our advertising companies' use of cookies and Web beacons is covered by their privacy policies, not by this Online Privacy Policy.
+Valetmag.com uses third-party advertising companies to place online advertisements on our behalf at websites other than valetmag.com. These advertising companies may use cookies and Web beacons (also known as "pixel tags") to target and measure the effectiveness of their advertisements. For example, our advertising companies may place Web beacons on their clients' Web sites. When you visit these Web sites, the Web beacon "tags" your computer with a "cookie" that collects and stores information about your visit to their client's Web site. This information does not identify you personally. Our advertising companies use the information they collect about your use of their clients' Web sites to customize the advertisements you see when you visit their clients' Web sites. Our advertising companies' use of cookies and Web beacons is covered by their privacy policies, not by this Online Privacy Policy. If you'd like to opt-out of behavioral advertising from our participating third-party advertising companies, please [complete this form](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## How Do We Use Your Personal Information?
 
