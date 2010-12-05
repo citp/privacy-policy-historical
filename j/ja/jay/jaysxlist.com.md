@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaysxlist.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035626id_/http%3A//www.jaysxlist.com/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaysxlist.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205172356id_/http%3A//www.jaysxlist.com/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # Montreal free adult ads - Jaysxlist Montreal free ads, massage, escorts, dating
 
