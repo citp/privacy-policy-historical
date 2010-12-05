@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the ntchosting.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529131303id_/http%3A//www.ntchosting.com/terms/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ntchosting.com privacy policy that was archived on 2010-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205233233id_/http%3A//www.ntchosting.com/terms/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>NTC Hosting Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="/includes/functions.js" type="text/JavaScript"></script>
-<script type="text/javascript" src="http://secure.hostinglivechat.com/lcn/js/js.php?group=NTCHosting"></script></head>
+</head>
 <body>
 <div id="all">
     <div id="header">
@@ -20,7 +20,7 @@
     <td><a href="http://webmail.ntchosting.com" id="webmail_login">Webmail</a></td>
   </tr>
 </tbody></table>
-  </div><br clear="all"><div id="livechat"><a href="http://www.ntchosting.com" onclick="_cln_enter(); return false;"><img id="chat_img" src="http://www.ntchosting.com/web_hosting_images/live_chat_online.gif" alt="ntc live chat" width="221" height="34"></a><br></div></div>
+  </div><br clear="all"><div id="livechat"><a href="https://secure.livechatnow.com/js/enter.php?cid=4982&amp;img=url&amp;group=NTCHosting&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=&amp;uid=49737" onclick="return _cln_enter();"><img id="chat_img" src="http://www.ntchosting.com/web_hosting_images/live_chat_online.gif" alt="ntc live chat" width="221" height="34"></a></div></div>
     <div style="float:left; width:10px;"><img src="/web_hosting_images/right_top.jpg" width="10" height="76" alt=""></div>
     <br clear="all">
   </div>
@@ -75,8 +75,16 @@
   <div id="footer_right_corner"></div>
   
 <script language="javascript" type="text/javascript">
-	document.getElementById('livechat').innerHTML = "<a href='http://www.ntchosting.com' onclick='_cln_enter(); return false;'><img id='chat_img' src='http://www.ntchosting.com/web_hosting_images/live_chat_online.gif' alt='ntc live chat' width='221' height='34' /></a><br />";
-	includeJS('http://secure.hostinglivechat.com/lcn/js/js.php?group=NTCHosting');
+ <!--
+function _lcn_isSecure(){ return location.href.match(/^https/i) == "https";}
+if(typeof(LCNObj) == 'undefined') {var LCNObj = new Object();}
+if(_lcn_isSecure()){LCNObj.url1 = "https://secure.livechatnow.com/";}else{LCNObj.url1 = "http://zebra.livechatnow.com/";}
+LCNObj.query = "&img=url&group=NTCHosting&skin=&survey=&survey_ec=&survey_lm=&rule=&name=&email=&track=&uid=49737";
+LCNObj.open = LCNObj.url1 + "js/enter.php?cid=4982" + LCNObj.query;
+function _cln_enter(){ window.open(LCNObj.open, '_chat_4982', 'resizable=yes,menubar=no,scrollbars=yes, width=500, height=500'); return false;}
+document.getElementById('livechat').innerHTML = "<a href='"+LCNObj.open+"' onclick='return _cln_enter();'><img id='chat_img' src='http://www.ntchosting.com/web_hosting_images/live_chat_online.gif' alt='ntc live chat' width='221' height='34' /></a>";
+// -->
+
 	/*
 	if(navigator.appVersion.indexOf("MSIE")!=-1)
 	{
