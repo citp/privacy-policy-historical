@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxlogic.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619030218id_/http%3A//www.mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxlogic.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205033548id_/http%3A//www.mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
 
 # McAfee® - about - Privacy Policy
 
@@ -139,8 +139,8 @@ Back to top
 
 **XIII. Contact us**
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact the Privacy Program Office of McAfee, Inc. by emailing [privacy@mcafee.com](mailto:privacy@mcafee.com), by calling 972-963-7902, or by sending a letter to Privacy Program Office McAfee, Inc. 3965 Freedom Circle, Santa Clara, CA 95054. In the event that you do not receive a response, please contact the Consumer Privacy Response Team of McAfee, Inc. by emailing [consumer_privacy_response_team@mcafee.com](mailto:consumer_privacy_response_team@mcafee.com) or by sending a letter to Consumer Privacy Response Team at 5000 Headquarters Drive, Plano, Texas 75024.
+If you have questions or concerns regarding this Privacy Policy, you should first contact the Privacy Program Office of McAfee, Inc. by emailing [privacy@mcafee.com](mailto:privacy@mcafee.com), by calling 972-963-7902, or by sending a letter to Privacy Program Office McAfee, Inc. 2821 Mission College Blvd, Santa Clara, CA 95054. In the event that you do not receive a response, please contact the Consumer Privacy Response Team of McAfee, Inc. by emailing [consumer_privacy_response_team@mcafee.com](mailto:consumer_privacy_response_team@mcafee.com) or by sending a letter to Consumer Privacy Response Team at 5000 Headquarters Drive, Plano, Texas 75024.
 
 Back to top
 
-This privacy policy was last modified on March 11, 2010.
+This privacy policy was last modified on October 25, 2010.
