@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humor-articles.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513010435id_/http%3A//www.humor-articles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humor-articles.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205042233id_/http%3A//www.humor-articles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Humor Articles
 
