@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkingpointsmemo.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401234535id_/http%3A//talkingpointsmemo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingpointsmemo.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205185528id_/http%3A//talkingpointsmemo.com/privacy.php) for the most accurate reproduction.*
 
 # TPM Privacy Policy
 
