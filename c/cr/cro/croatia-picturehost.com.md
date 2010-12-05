@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the croatia-picturehost.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401063456id_/http%3A//www.croatia-picturehost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the croatia-picturehost.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205224335id_/http%3A//www.croatia-picturehost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MultiHoster » More Information » Privacy Policy
 
