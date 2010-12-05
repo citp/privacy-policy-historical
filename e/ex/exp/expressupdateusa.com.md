@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expressupdateusa.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609122103id_/http%3A//www.expressupdateusa.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressupdateusa.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205185455id_/http%3A//www.expressupdateusa.com/pages/privacy.aspx) for the most accurate reproduction.*
 
-# ExpressUpdateUSA Gets Your Business Listed in all Major Search Engines, In-Car Navigation and Mobile Devices
+# ExpressUpdate Gets Your Business Listed in all Major Search Engines, In-Car Navigation and Mobile Devices
 
 Infogroup is the leading provider of business and consumer information products, database marketing services, data processing services and sales and marketing solutions. Content is the essential ingredient in every marketing program, and Infogroup has the most comprehensive data in the industry, and is the only company to own a proprietary database of 210 million U.S. consumers and 14 million U.S. businesses. The Infogroup database powers the directory services of the top Internet traffic-generating sites. Nearly 4 million customers use Infogroup's products and services to find new customers, grow their sales, and for other direct telemarketing, customer analysis and credit reference purposes. 
 
