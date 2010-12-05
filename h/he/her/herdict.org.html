@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the herdict.org privacy policy that was archived on 2009-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091119144108id_/http%3A//www.herdict.org/web/privacy/en) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the herdict.org privacy policy that was archived on 2010-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205131337id_/http%3A//www.herdict.org/web/privacy/en) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
           <title>HerdictWeb : About</title>
@@ -31,6 +31,7 @@
     // Needed for the Reporter
     var promptTestMore = "Thanks for your report. Would you like to test more sites?";
     var promptConfirmExit = "The site being tested will open in another page. Press 'Cancel' (recommended) to load it in the Herdict Web Reporter.";
+    var promptConfirmExitChrome = "The site being tested will open in another page. Press 'Stay on this Page' (recommended) to load it in the Herdict Web Reporter.";
 
     // Refresh rates for the Herdometer
     var herdometerUpdateInterval = "10000";
@@ -113,31 +114,53 @@
 
 
 
+    <script type="text/javascript">
+        $(document).ready(function()
+        {
+            $("#nav-language li a.switch-language").each(function(index) {
+                var newhref = '';
+                newhref += window.location.href;
+                newhref = newhref.replace(/[\?&]?forceLocale=[a-z]{2}/,'');
+                var newsearch = window.location.search.replace(/[\?&]?forceLocale=[a-z]{2}/,'');
+                var delim = (newsearch ? '&' : '?');
+                var regexp = new RegExp(window.location.hostname,"i");
+                newhref = newhref.replace(regexp,this.hostname);
+                newhref += delim + this.search.substr(1);
+                $(this).attr("href",newhref);
+            });
+            $("#nav-language li a.switch-url").each(function(index) {
+                var newhref = '';
+                newhref += window.location.href;
+                newhref = newhref.replace(/[\?&]?forceLocale=[a-z]{2}/,'');
+                var regexp = new RegExp(window.location.hostname,"i");
+                newhref = newhref.replace(regexp,this.hostname);
+                $(this).attr("href",newhref);
+            });
+
+        })
+    </script>
+
     <ul id="nav-language">
 
-        <li>
-            <a href="/web/?forceLocale=en">English</a>
+        <li>        
+            <a class="switch-language" href="http://www.herdict.org/web?forceLocale=en">English</a>
         </li>
     
         <li>
-            <a href="/web/?forceLocale=ar">عربي</a>
+            <a class="switch-language" href="http://www.herdict.org/web?forceLocale=ar">عربي</a>
+        </li>
+
+        <li>
+            <a class="switch-language" href="http://www.herdict.org/web?forceLocale=zh">中文</a>
+        </li>
+
+        <li>
+            <a class="switch-language" href="http://www.herdict.org/web?forceLocale=fa">فارسی</a>
         </li>
 
         <li class="last">
-            <a href="/web/?forceLocale=zh">中文</a>
+            <a class="switch-url" href="http://ru.nardict.org/web">Русский</a>
         </li>
-
-        
-            
-                
-            
-        
-
-        
-            
-                
-            
-        
 
     </ul>
 
@@ -228,7 +251,7 @@
 
         </fieldset>
         
-    <div style="display: none;"><input type="hidden" name="_sourcePage" value="PE2UU4jEo7qK0UZ4U8kCl_dReCqXX_Uv_PNS9bI4g1s="><input type="hidden" name="__fp" value="cO0M3NpO1P5WIvVTZGKsmPzn9HeV9jRF"></div></form>
+    <div style="display: none;"><input type="hidden" name="_sourcePage" value="zXymHTxWH3KK0UZ4U8kCl_dReCqXX_Uv_PNS9bI4g1s="><input type="hidden" name="__fp" value="jCHg4Iz_rptWIvVTZGKsmPzn9HeV9jRF"></div></form>
 </div>
 
 
@@ -357,7 +380,7 @@
 
                 <div id="module-participate">
 
-    <strong class="banner">Participate</strong>
+    <strong class="banner"><a href="/web/participate">Participate</a></strong>
 
     <h3>What's your verdict?</h3>
 
@@ -372,7 +395,7 @@
 
 <br>
 
-<p>This Privacy Statement governs the Herdict Web project ("Herdict Web") at the Berkman Center for Internet and Society ("BCIS"), which includes the Herdict Web Site (the "Herdict Web Site"), the Herdict Reporter (a part of the Herdict Web Site) (the "Reporter"), the Herdict Commons (a part of the Herdict Web Site) (the “Herdict Commons”), and the Herdict Web Browser Add-on (the "Add-on").  For the purposes of this Privacy Statement, “Herdict” will be used to refer to BCIS, Herdict Web, the Herdict Web Materials, and any other associated projects, web sites, or services. For more information on how Herdict Web works, <a href="herdict.org/web/about">click here</a>. </p>
+<p>This Privacy Statement governs the Herdict Web project ("Herdict Web") at the Berkman Center for Internet and Society ("BCIS"), which includes the Herdict Web Site (the "Herdict Web Site"), the Herdict Reporter (a part of the Herdict Web Site) (the "Reporter"), the Herdict Commons (a part of the Herdict Web Site) (the “Herdict Commons”), and the Herdict Web Browser Add-on (the "Add-on").  For the purposes of this Privacy Statement, “Herdict” will be used to refer to BCIS, Herdict Web, the Herdict Web Materials, and any other associated projects, web sites, or services. For more information on how Herdict Web works, <a href="http://www.herdict.org/web/about">click here</a>. </p>
 
 <p>We are committed to respecting and protecting your personal privacy. This Privacy Statement describes what information the site collects, how this information is used, and with whom we may share the information. Your submission of data to the site indicates your agreement with the terms of the Privacy Statement. Because this statement may change, please check back for updates to this Privacy Statement.</p>
 
