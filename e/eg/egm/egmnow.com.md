@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605031014id_/http%3A//www.egmnow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205041119id_/http%3A//www.egmnow.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | EGMi
 
@@ -67,14 +67,14 @@ _
 EGM Media, LLC always strives to engage third-parties that we believe put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
 
 **How You can Access or Correct Information**  
-To inquire about personally identifiable information that this EGM Media, LLC site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](mailto:privacy@egmnow.com).
+To inquire about personally identifiable information that this EGM Media, LLC site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](mailto:privacy@egmnow.net).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 _No Information From Children Under the Age of 13  
 _
 
-Protecting the privacy of young children is important to us and if you are under the age of 13 please do not register on any EGM Media, LLC website, attempt to receive any EGM Media, LLC digital publication, or provide us with any personal information to us, including your name, address, telephone number, and/or e-mail address. EGM Media, LLC will, upon learning that personal information from a child under the age of 13 has been collected, delete that information as quickly as possible. If you believe we may have received information from a child under age 13 please contact us by clicking [here](mailto:childprivacy@egmnow.com).
+Protecting the privacy of young children is important to us and if you are under the age of 13 please do not register on any EGM Media, LLC website, attempt to receive any EGM Media, LLC digital publication, or provide us with any personal information to us, including your name, address, telephone number, and/or e-mail address. EGM Media, LLC will, upon learning that personal information from a child under the age of 13 has been collected, delete that information as quickly as possible. If you believe we may have received information from a child under age 13 please contact us by clicking [here](mailto:privacy@egmnow.net).
 
 _Changes to this Notice_
 
@@ -83,12 +83,12 @@ This Notice may be changed by EGM Media, LLC The revised Notice will be posted t
 _How to Contact Us  
 _
 
-If you have any questions or concerns about the EGM Media, LLC Privacy Notice or its implementation please contact us via email by clicking [here](mailto:privacy@egmnow.com) or at the following address:
+If you have any questions or concerns about the EGM Media, LLC Privacy Notice or its implementation please contact us via email by clicking [here](mailto:privacy@egmnow.net) or at the following address:
 
 EGM Media, LLC  
 Attention: Customer Service  
 8840 Wilshire Blvd., Third Floor,  
 Beverly Hills, CA 90211
 
-[www.egmnow.com](https://web.archive.org/web/20100605031014id_/http%3A/)  
+[www.egmnow.com](https://web.archive.org/web/20101205041119id_/http%3A/)  
 [www.egmmediagroup.com](http://www.egmmediagroup.com/)
