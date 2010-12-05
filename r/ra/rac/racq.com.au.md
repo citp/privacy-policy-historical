@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028221227id_/http%3A//www.racq.com.au/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racq.com.au privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206005836id_/http%3A//www.racq.com.au/about_us/privacy) for the most accurate reproduction.*
 
 # Privacy | About Us | RACQ
 
