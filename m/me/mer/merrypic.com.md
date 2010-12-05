@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the merrypic.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225121059id_/http%3A//www.merrypic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrypic.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205045936id_/http%3A//merrypic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# MerryPic Free Image Sharing and Photo Hosting Upload pictures
-
-[Creat Site, Register Domain,Buy Hosting, Disgn your site,SEO Optimizer and Searh Engine Optimizer](http://www.ipower.com/join/index.bml?AffID=606581&LinkName=linkmovie "Creat Site, Register Domain,Buy Hosting, Disgn your site,SEO Optimizer and Searh Engine Optimizer")
+# MerryPic Free Image Hosting Service and Photo Sharing. Free Upload Pictures
 
 MerryPic policy is to respect and protect the privacy of our users. MerryPic will not disclose your personal information to third parties without your consent.
 
@@ -14,6 +12,6 @@ MerryPic website record your IP address but uses it only for internal purposes. 
 
 MerryPic website uses cookies only to maintain your information as you move throughout this site. A cookie is a small piece of information used to identify an individual when the person is accessing a site. At no time is any personal information stored in a cookie, nor is any tracking information made available to other sites for any reason.
 
-MerryPic reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at http://www.merrypic.com/info.php?act=privacy_policy
+MerryPic reserve the right to change this Policy anytime without prior notification. In this case the new Policy will be published at http://merrypic.com/info.php?act=privacy_policy
 
-If you have any question, please do not hesitate to [Contact us](http://www.merrypic.com/contact.php?act=contact_us).
+If you have any question, please do not hesitate to [Contact us](http://merrypic.com/contact.php?act=contact_us).
