@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605193347id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010354id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
-# Privacy Policy : About : WLUC TV6
+# About : UpperMichigansSource.com
 
 **Barrington Broadcasting Privacy Policy**
 
