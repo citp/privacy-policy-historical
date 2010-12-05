@@ -1,29 +1,75 @@
-> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406170816id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205043954id_/http%3A//www.jet2holidays.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Jet2holidays™.com
+# Privacy Policy - Jet2holidays.com
 
-**1.** We (being Jet2Holidays.com trading as Jet2holidays Limited) understand and respect the importance of your privacy and that of your customers.
+**Our approach to privacy**
 
-**2.** When you browse the Jet2holidays.com web site, we do not collect personal information about you. The only way we will get any kind of personal information is if you give it to us when we specifically ask for it.
+**1.** At Jet2holidays Limited we are committed to preserving the privacy of our customers and visitors to this website.
 
-**3.** We ask you for personal information relating to you or your customers in a variety of circumstances:
+**2.** This Privacy Policy explains what personal information we collect from users of this website and how we use that information from time to time. This Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20101205043954id_/http%3A//www.jet2holidays.com/terms-and-conditions.aspx).
 
-**3.1** when you make a reservation or purchase something from the Jet2holidays.com web site or through our customer service team - by email, letter, fax, or on the phone; and/or
+**When we collect personal information**
 
-**3.2** when you register with us, subscribe to our newsletter, enter competitions or register for promotions; and/or
+**3.** We ask for personal information from you in a number of circumstances:
 
-**3.3** when you take part in surveys or provide us with feedback.
+**3.1** when you make a travel booking with us or purchase any other product or service from us - whether online or through our customer service team 
 
-**4.** In order to help us maintain and improve our service to you, we also use 'cookies' to collect information about your use of the Jet2holidays.com site. Cookies are a feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognise the computer used to access the Site. Most browsers automatically accept cookies but you can delete existing cookies from your browser. You can also edit your browser options to choose not to receive cookies in future. We may use cookies to keep track of the transaction from one page to the next.
+**3.2** when you contact us to discuss a booking or make use of our online check-in or booking management services
 
-**5.** We may use third-party advertising companies to serve advertisements on other web sites. These companies may use cookie-based information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness.
+**3.3** when you register for our loyalty programme or subscribe to our e-mail notification service or enter competitions or register for promotions
 
-**6.** We may also collect information about your visit to the Jet2holidays.com web site based on your browsing (click stream) activities. This information may, for example, include the pages you browse and products and services viewed or booked. This helps us to better manage and develop our offers and to provide you with better products and services tailored to your individual interests and needs.
+**3.4** when you take part in surveys or provide us with feedback.
 
-**7.** We may use this information to measure the entry and exit points of visitors to the Jet2holidays.com web site and respective numbers of visitors to various pages and sections of the Jet2holidays.com web site and details of searches performed. We may also use this information to measure the usage of advertising banners, other clickthroughs from the Jet2holidays.com web site. We may disclose information of this nature in aggregate form to third parties but personal information on individual visitors will not be passed on to any third party.
+**Why we collect personal information**
 
-**8.** Your personal details and/or those of your customers will not be passed to any other third parties except where necessary to process your booking or enquiry. Your details and/or those of your customers may be passed to countries outside of the UK and the European Economic Area in order to process and arrange for the products and services you request. When you submit your booking or request to us you agree that we may use and transfer such personal information in this manner.
+**4.** We collect personal information to help us deliver an effective service as follows:
 
-**9.** We will provide a summary of any personal information held upon request by you. This information will only be sent to the e-mail address on file for the subscriber name associated with it. We are entitled to make a charge of up to £10.00 for this information summary.
+**4.1** to fulfil any travel booking you make with us including necessary reservation, payment and ticketing arrangements and administration associated with the travel arrangements (exceptionally this may include sensitive personal data, for example relating to your health or disabilities) and you recognise that, by providing us with such sensitive personal data, you give your explicit consent to us to process such data for the purposes set out in this policy
 
-**10.** Jet2holidays.com and their contractors, agents, owners, and employees are not responsible for the content or the privacy policies of other web sites to which their sites may link.
+**4.2** to provide any other product or service you have purchased from us
+
+**4.3** to deal with any queries or requests you have regarding your booking and manage any amendments you may wish to make to travel arrangements or changes we need to advise you about
+
+**4.4** to fulfil security, customs, immigration and border control requirements associated with your reservation which may include providing information to the police and appropriate government agencies
+
+**4.5** to make information available to appropriate third parties where necessary in the event of an emergency. 
+
+**4.6** to provide you with information about products, services and promotions that may be of interest to you unless you have asked us not to contact you.
+
+**4.7** to ensure that content from our website is presented in the most effective manner for you and for your computer
+
+**4.8** for quality assurance testing, market analysis, systems testing, analysis of statistics, benchmarking, auditing and performance measures (which may include monitoring or recording your telephone conversations with us for the purposes set out herein).
+
+**Our approach to direct marketing**
+
+**5.** We may contact you from time to time to provide you with information which we think you may find of interest. We may also pass on your details to other members of Dart Group plc so that they can tell you about products or services which may be of interest to you. Contact may be made by post, telephone or email unless you have indicated in the appropriate section of the registration process that you do not wish to receive this information. You can contact us at any time to remove your details from our marketing database, please visit [ www.jet2holidays.com/deactivatenewsletter.aspx](http://www.jet2holidays.com/deactivatenewsletter.aspx) and follow the online instructions, or write to the following address: PO Box 304, Whitehouse Lane, Leeds, West Yorkshire LS19 9DY. Please give your name, postal address details and your email address.
+
+**When we may disclose information to third parties**
+
+**6.** We may disclose personal information to third parties including other members of our group (including Jet2.com Limited and any other subsidiary of our holding company, Dart Group PLC), credit card companies, airlines and third party suppliers in connection with the purposes explained above. We may disclose personal information as part of due legal process and as otherwise permitted or required by law. Some of these third parties may be located outside the European Economic Area.
+
+**7.** If we sell, assign or transfer the assets of our business, or if our business is merged, or enters into a joint venture with another business entity, we reserve the right to sell or transfer the databases maintained by us (including any personal information provided by you).
+
+**Security**
+
+**8.** We employ security measures to protect the information provided by you from access by unauthorised persons and against unlawful processing, accidental loss, destruction or damage. 
+
+**Cookies and IP addresess**
+
+**9.** Similar to other commercial websites, our website utilises a standard technology to collect information about how our website is used by individual computers connected to the internet. Information is gathered through cookies and Web server logs which allow us to monitor website traffic and to personalise the content of the site for you.
+
+**10.** Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+
+**Accessing your information**
+
+**11.** Individuals are entitled to see a copy of the personal information that we have collected and maintain about them. If you wish to do this, please email us at [informationrequest@jet2.com](mailto:informationrequest@jet2.com). We may charge a small fee to meet our costs in providing you with these details.
+
+**Special Notice for Customers Travelling to the United States of America**
+
+**12.** Passengers making reservations to destinations in the United States of America should note that in accordance with an International Agreement between the European Union and the United States, we are required to transfer to the US Department of Homeland Security ("DHS") certain travel and reservation data about passengers flying between the European Union and the United States of America. US authorities use this information for preventing and combating terrorism and other transnational serious crimes. For further information about the way in which the DHS uses this data please see [www.dhs.gov](http://www.dhs.gov/xlibrary/assets/privacy/privacy_faq_pnr_cbp.pdf)
+
+**Contact us**
+
+**13.** All comments, queries and other requests relating to our use of personal information should be sent by post to the Customer Service team, Jet2holidays Limited, Low Fare Finder House, Leeds Bradford Airport, Leeds, LS19 7TU.
+
+_Last revised July 2009_
