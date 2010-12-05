@@ -1,150 +1,172 @@
-> *The following text is extracted and transformed from the heraldtribune.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517011722id_/http%3A//www.heraldtribune.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldtribune.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205084448id_/http%3A//www.heraldtribune.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | HeraldTribune.com | Sarasota Herald-Tribune
 
-Privacy Policy 
+This Privacy Policy discloses the privacy practices for Sarasota Herald-Tribune newspaper and HeraldTribune.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to "Sarasota Herald-Tribune" include HeraldTribune.com and Sarasota Herald-Tribune newspaper. Sarasota Herald-Tribune is part of The New York Times Regional Media Group ("NYTRMG") – a division of The New York Times Company.
 
-This policy was last updated **Jan. 23, 2005**
+Third party sites that HeraldTribune.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
-This policy discloses the online privacy practices for members of **Herald-Tribune** (defined in this case as **HeraldTribune.com, snn6.com, and Herald-Tribune** ). For the purposes of this Privacy Policy, unless otherwise noted, all references to **Herald-Tribune** will include **HeraldTribune.com, snn6.com, and Herald-Tribune**. Additionally, **Herald-Tribune** is part of the New York Times Regional Media Group **(NYTRMG)** – a division of the New York Times Company.
+In this Privacy Policy, you will find answers to the following questions:
 
-We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. 
+  * What information do we gather about you?
+  * What do we do with the information we gather about you?
+  * What is our e-mail policy?
+  * With whom do we share the information that we gather?
+  * How do I change or update my personal information?
+  * How do I opt-out from receiving promotional offers?
+  * Is my information protected?
+  * Other information: Compliance with legal process
+  * Other information: Children's Guidelines
+  * Other information: Changes to this Privacy Policy
 
-For further information, you can view our Member Agreement and read our Frequently Asked Questions about Cookies.
 
-Third party sites that are linked to **HeraldTribune.com** and **snn6.com** , such as **http://sarasota.careercast.com** , **www.people2people.com** and **www.udigtv.com** , are governed by their own privacy policies. We are not responsible for the content or the privacy policies of Web sites to which **HeraldTribune.com** or **snn6.com** may link.
 
- In this Privacy Policy, you will find the answers to the following questions:  
-• What information do we gather/track about you?   
-• What do we do with the information we gather/track?   
-• With whom do we share the information we gather/track?   
-• How do I change or update my personal information?   
-• Other information: Compliance with Legal Process
+## What information do we gather about you?
 
-**What information do we gather/track about you?**
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) tracking information collected as you navigate through our sites.
 
-**Registration for our Web sites:** There is a free registration process required to access the full range of information and services offered across our different Web sites ( **HeraldTribune.com, snn6.com, http://sarasota.careercast.com, www.people2people.com, www.udigtv.com** ).
+#### Personally Identifiable Information
 
-**HeraldTribune.com** requires that you supply a unique e-mail address and demographic information about gender, year of birth, zip code, country, household income, industry, job, and usage of Herald-Tribune and SNN products in order to register. You must also agree to the terms of our **Member Agreement at http://www.heraldtribune.com/memberagreement**
+### Registration for our Web sites
 
-We reserve the right to publish non-personally identifiable summary information culled from our registration data for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate.
+Anyone can view the Site, but a free registration process is required to access the full range of information and services we offer.
 
-**HeraldTribune.com/Subscribe** requires that you supply your name, address, telephone number, credit card number or other billing information in order to transact with **Herald-Tribune** (examples include managing your subscription or placing an ad).
+HeraldTribune.com requires that you supply a unique e-mail address and demographic information (zip code, age, sex, household income to register. By using HeraldTribune.com, you are agreeing to the terms of our [Member Agreement](https://web.archive.org/termsofservice)).
 
-**Herald-Tribune** newspaper subscriber information: We generally obtain your name, address, telephone number, credit card number or other billing information in order to process your subscription request. As a subscriber, we request that you also provide us with your e-mail address.
+### Contests, Sweepstakes and Special Offers
 
-We may share your contact information with third party telemarketing firms offering further subscription products on our behalf. To request removal from our calling list, you may contact us at **(941) 953-7755** (between **9 a.m. and 5 p.m. EDT** ). We also delete information from our list in accordance with the Federal Trade Commission’s national Do Not Call list. To sign up or for more information about the Do Not Call registry, visit [www.donotcall.gov](http://www.donotcall.gov/).
+On occasion, Sarasota Herald-Tribune collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than Sarasota Herald-Tribune, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer. 
 
-**http://sarasota.careercast.com** has optional registration. All of the content on the site is available for all users regardless of membership status. Optional registration is required for users who would like to set up job alerts and post and send resumes and/or cover letters. Information required to register includes your e-mail address and first and last name. Additional information (such as city, state, education and job title) may be supplied in conjunction with posting a resume and/or creating a job application.
+### Reader Surveys, Reader Panels and Market Research
 
-**Premium Products and Services:** While the majority of our Web sites are offered free of charge, we do charge fees for select premium products and services. These products include **article and photo archives**. 
+Sarasota Herald-Tribune may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone or through the mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
 
-To enable the purchase of these products, **HeraldTribune.com** collects and stores billing and credit card information. This information is stored when needed for a recurring purchase, such as an ongoing subscription. This information will only be shared with third parties who perform tasks required to complete the purchase transaction and otherwise agree to keep the information confidential. Examples include fulfilling orders and processing credit card payments.
+### Mobile Messaging Service
 
-**Herald-Tribune** archives ( **1996** -present) is hosted by **NewsBank** (a third party vendor), and all purchases are processed by **NewsBank** on behalf of **HeraldTribune.com**. **NewsBank** collects and stores billing and credit card information solely to process these purchases. **NewsBank** has agreed that this information will only be shared with third parties who perform tasks required to complete the purchase transaction and otherwise agree to keep the information confidential.
+We may elect to offer certain text messaging services (the "SMS Service"). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
 
-We also collect and store billing and credit card information where required for certain purchase transactions (such as paying for a newspaper subscription or purchasing a reprint of a **Herald-Tribune** photo). This information will only be shared with third parties who perform tasks required to complete the purchase transaction and agree to otherwise keep the information confidential. Examples of this include fulfilling orders and processing credit card payments.
+Sarasota Herald-Tribune collects the mobile phone number you use to send us a text message and the content of the messages sent between you and Sarasota Herald-Tribune. When you send a text message to Sarasota Herald-Tribune or via Sarasota Herald-Tribune, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. Sarasota Herald-Tribune uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
 
-**Contests, Sweepstakes and Special Offers:** On occasion, **Herald-Tribune** also collects personal information from registered members or subscribers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than the **Herald-Tribune** we will notify you on the contest Web page at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer.
+#### Aggregate Information Collected Through Technology
 
-**Special Events and Promotions:** We often receive information regarding customers who may also attend Special Events and Promotions. Such information will be used as indicated at the time of collection.
+### Cookies and Other Technologies
 
-**Reader Surveys and Market Research:** Reader surveys and market research are valuable tools that help us better respond to consumer needs and opinions and help shape our product offerings.
+As is standard practice on many Web sites, Sarasota Herald-Tribune uses "cookies" and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "HeraldTribune.com" cannot access most areas of our sites.
 
-**Online Customer Panels** : We offer readers and customers the opportunity to participate in online research panels. These customers agree to participate in periodic surveys about their usage of products produced by **Herald-Tribune** , their household/personal characteristics and their purchase behavior. Panel members are primarily contacted via e-mail, but may occasionally be contacted by telephone or postal mail. All survey data is reported/used in aggregate form only, and no personally identifiable information is released. As a panel member, we require that you supply us with your e-mail address only; name, home address and telephone number are optional. 
+We reserve the right to place a Sarasota Herald-Tribune Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
-**Online surveys:** Our Web sites may collect additional personal information from members in connection with optional reader surveys and market research activities. Information that you provide in answer to optional reader survey or market research questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise on the survey Web page at the time of collection.
+For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
 
-**Cookies:** Our Web sites employ cookies to recognize you and your access privileges on **HeraldTribune.com, snn6.com, http://sarasota.careercast.com, www.people2people.com, www.udigtv.com** , as well as to track site usage. For detailed information about our use of cookies see our [Frequently Asked Questions about Cookies.](https://web.archive.org/apps/pbcs.dll/misc?URL=/misc/registration/registration_faq.pbs#cookies)
+Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
 
-**HeraldTribune.com, snn6.com, http://sarasota.careercast.com, www.people2people.com, www.udigtv.com** use a commercial advertising server (currently **http://adx.heraldtribune.com** ) to display ads on our site. 
-
-In addition, advertisers may elect to use third-party advertising companies to serve ads onto our Web sites. In the course of serving these advertisements, the third party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain.
-
-We also reserve the right to place a **Herald-Tribune** cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
-
-**Clear Gifs (Web Beacons/Web Bugs):** Third party advertisers may also use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags) to help better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind that we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser.
-
-**Usage Data:** Our Web sites have currently contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors. We use this information to track the site's traffic, usability, performance, and effectiveness. All data collected by Omniture on behalf of our Web sites is owned and used by **NYTRMG**. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate. Omniture uses cookies to help track visitor behavior and sets cookies on behalf of our Web sites, which will be listed under the domain **nytrsarasota.112.2o7.net**. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
+NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of HeraldTribune.com is owned and used by Sarasota Herald-Tribune or NYTRMG. Sarasota Herald-Tribune reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
 
 We reserve the right to change the vendors who provide us with usage data.
 
-**IP Addresses:** Our Web sites log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use IP address logs in an aggregate fashion to track access to our site (by domain type, for example), but we do not use IP address logs to track your session or your behavior on our site.
+### Clear Gifs (Web Beacons/Web Bugs)
 
-**Mobile Messaging Service:** The New York Times Regional Media Group uses the information collected from your interaction with The New York Times Regional Media Group by Text Messaging Service (SMS) (“SMS Service”) solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed to Third Parties, except as required by law, nor will we use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage, and their practices are governed by their own privacy policies.
+Advertisers on HeraldTribune.com may elect to use third party advertising companies to serve ads on our Web site, and in these instances may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags/pixel tags) to better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind, we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser.
 
-The New York Times Regional Media Group collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The New York Times Regional Media Group. When you send a text message to The New York Times Regional Media Group or via The New York Times Regional Media Group, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The New York Times Regional Media Group uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service.
+### IP Addresses
 
-**Log Files:** Log data is only used in aggregate to analyze usage of our Web sites.
+Sarasota Herald-Tribune logs IP (Internet Protocol) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use the IP address log in an aggregate fashion to track access to our site.
 
-**What do we do with the information we gather/track?**
+### Log Files
 
-**Site Login:** Your e-mail address acts as your member login, and together with the password that you create during the registration process your e-mail address allows you to access many of the features and services available on our Web sites.
+Log data is only used in aggregate to analyze usage of our Web.
 
-**HeraldTribune.com, snn6.com, http://sarasota.careercast.com, www.people2people.com, www.udigtv.com** and **Herald-Tribune** will share your e-mail address and password with each other in order to allow you to use the same login and password on each of the **five** sites, whenever possible. This means that you will be able to move back and forth on our Web sites without having to create a new membership account or remember a separate password for each site.
+## What do we do with the information we gather about you?
 
-**Statistical Analysis and Banner Advertising:** Our Web sites may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. 
+### Statistical Analysis
 
-In both statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form.
+Sarasota Herald-Tribune may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. Sarasota Herald-Tribune may share personal information with NYTRMG for analysis purposes, including analysis to improve customer relationships.
 
-**E-Mail Newsletters:** During the registration process, you will have the opportunity to choose to receive periodic e-mails. You may also sign up to receive e-mails at any time by accessing your profile in the Member Center section. We send both editorial e-mail newsletters (news headlines, breaking news alerts, etc.) and e-mail about services offered by **Herald-Tribune** and its partners and advertisers.
+### Products and Service Message from Sarasota Herald-Tribune
 
-**Herald-Tribune** offers direct mail marketing services to its advertisers and employs direct mail marketing for subscription promotions. **Herald-Tribune** may combine Web registration data with newspaper subscriber data and marketing database information we purchase to create lists for targeted postal mail campaigns. Doing so means that you receive offers and advertising that are most likely to interest you, and advertisers send their messages to people who are most likely to be receptive, improving both your experience and the effectiveness of the mail campaigns. 
+From time to time, we may provide subscribers with information and offers about other products and services offered by Sarasota Herald-Tribune, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/SHT_DNM.html).
 
-Targeted mailing lists may be shared with other departments at **Herald-Tribune** and with marketing staff at **NYTRMG** , of which **Herald-Tribune** is a part and which coordinates mailing efforts for **Herald-Tribune**. We share demographic information about our audience in aggregate form with direct mail advertisers. We never share or sell personally identifiable information or our mailing lists. 
+### Banner Advertising
 
-**Programs From Our Partners:** During the registration process, new users who select to register for certain featured offers from our partners will begin receiving e-mail from these companies. You will only receive e-mail messages from these companies if you elect this opt-in service. If you elect to opt-out of an e-mail from a partner, you must do so through that partner directly. The **Herald-Tribune** may use this information as set forth in this privacy policy.
+We may use behavioral, demographic and preference information to allow advertising on our Web sites to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We will disclose information to third parties only in aggregate form.
 
-**Other Communications from Herald-Tribune:** **Herald-Tribune** may use the e-mail address provided by you at registration to contact you regarding (1) account status (including confirmation of registration or newspaper subscription); (2) major changes to the Web sites and or to the Member Agreement and Privacy Policy; (3) participation in user surveys, asking for feedback about the Web sites and existing or prospective products and services, as well as information to better understand our users*; and (4) a limited number of messages as specified in the Member Agreement regarding **Herald-Tribune** products and services that may be of interest (including subscriptions, online archives, newsletters and other premium products). You may opt-out at any time from any primarily commercial messages by following the opt-out instructions in the e-mail.
+### User Generated Content (Message Boards, Forums, Reader Reviews and Chats)
 
-* User surveys greatly help us to improve our Web sites, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
+We offer message boards for readers in a number of areas throughout our Web sites. The message boards are currently hosted and managed by Grouppee, a third party vendor. Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by Sarasota Herald-Tribune for online and offline promotional or commercial uses in any and all media. Chats are also currently hosted by Grouppee, and any posting to a chat becomes public as soon as they are published online. For more information, see the Terms of Service.
 
-**E-mail This Article:** The e-mail this article feature is an easy way for users of our Web sites to send articles through e-mail. The e-mail address(es) that you supply to use this service will only be used to send the requested article.
+### E-Mail Newsletters
 
-**Message boards and chats:** We offer message boards for readers in a number of areas throughout our Web sites. The message boards are currently hosted and managed by **Saxotech** , a third party vendor. Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by **Herald-Tribune** for online and offline promotional or commercial uses in any and all media. 
+If you choose to receive them, Sarasota Herald-Tribune will periodically send you e-mail newsletters or promotional e-mail about services offered by Sarasota Herald-Tribune and its advertisers. For details about Sarasota Herald-Tribune e-mail, please see the next section, "What Is Our E-mail Policy?".
 
-Chats are hosted by **Saxotech** , a third party vendor, and any postings to a chat also become public as soon as they are published online. For more information about message boards and chats, see the Posting Policy and read the message boards and chats section of the Member Agreement.
+## What is our e-mail policy?
 
-**With whom do we share the information we gather/track?**
+Sarasota Herald-Tribune complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ webteam@heraldtribune.com](mailto:webteam@heraldtribune.com). 
 
-We do not share personally identifiable information with advertisers or partners. We do, however, share information about our audience in aggregate form. Credit card, billing and financial information is never disclosed, except as needed to process the transaction, under strict confidentiality requirements.
+### Account and Service-Related E-mail:
 
-**NYTRMG** may perform statistical, demographic and marketing analyses of customers and their buying and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our customer base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is the most pertinent. Personal information about you as an individual will not be disclosed without your consent.
+Sarasota Herald-Tribune reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to the Site and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
-From time to time, we may offer you the opportunity to receive information and offers about products or services from our advertisers, partners or other third parties. You will have the opportunity to opt-out of all e-mails that are sent by **Herald-Tribune**. If you sign up to receive information directly from an advertiser, partner or third party you may contact that advertiser, partner or third party directly in order to opt-out out of future messages from them.
+### E-mail Newsletters:
 
-**Herald-Tribune subscriptions:** **Herald-Tribune** reserves the right to contact you to discuss your account or to renew your subscription, in accordance with applicable laws. We also reserve the right to disclose your opt-out information to third parties so that they can "suppress" your name from future solicitations, in accordance with applicable laws.
+We offer e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter. 
 
-If you are a print subscriber to **Herald-Tribune** , or have registered at the **[http://www.HeraldTribune.com/Subscribe](http:://www.HeraldTribune.com/Subscribe)** website, then **Herald-Tribune** may opt to share your e-mail address and other personally identifiable information with a third party service provider that sends e-mail on behalf of the newspaper. Any third party service provider will not share your e-mail address or personally identifiable information with any other company and will only send you e-mail on behalf of the newspaper. All such e-mails will provide you with the opportunity to opt out of receiving future e-mails.
+### Promotional E-mail:
 
-**How do I change or update my personal information?**
+If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
 
-Member Center: You may review and update your membership or account information and access your transactions history in the Member Center area for each of our Web sites.
+From time to time, Sarasota Herald-Tribune may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
 
-The Member Center is a centralized area where you can manage your relationship with **Herald-Tribune**. There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can gain secure access to update the information you provided during the free registration process. **[http://www.HeraldTribune.com/MemberCenter](http://www.heraldtribune.com/MemberCenter)** is the place to go to sign up for our e-mail newsletters and manage your delivery options. 
+### Survey E-mail:
 
-In order to gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can **[http://www.HeraldTribune.com/MemberCenter](http://www.heraldtribune.com/MemberCenter)**. If you need further assistance, please contact Customer Service.
+If you have not opted out, we may send you an e-mail inviting you to participate in user surveys, asking for feedback on HeraldTribune.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form. 
 
-**[http://www.HeraldTribune.com/Register](http://www.heraldtribune.com/Register)**  
-**[http://www.HeraldTribune.com/Subscribe](http://www.heraldtribune.com/Subscribe) **
+### E-mails From You:
 
-**How do I opt out from receiving promotional offers?** If, at any time you wish to discontinue receiving any specific e-mail, sent by our marketing partners or us, simply follow the unsubscribe options at the bottom of the e-mail.
+If you send us e-mails, you should be aware that information disclosed in e-mails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mails. We will use your e-mail address to respond directly to your questions or comments.
 
-If, at any time, you wish to opt-out of receiving any direct mail and/or telephone solicitations from **Herald-Tribune** , please notify us by calling **(941) 953-7755**.
+### E-mail This Article Feature:
 
-**Previously created membership accounts:** It is possible that you may have previously created an account with one of our Web sites using your current e-mail address. If this is the case, you will be able to login using your e-mail address and password, but you may be asked to answer some of the questions that are required to complete the registration process (see the full list of questions above). If you don’t remember your password, you can **[http://www.HeraldTribune.com/MemberCenter](http://www.heraldtribune.com/MemberCenter)**. In some cases, you may want to consider creating a new account, using a current e-mail address and a new password.
+HeraldTribune.com readers may use this feature to send links to articles to others through e-mail. The e-mail address(es) that you supply to this service will only be used to send the requested article.
 
-**Other information; Compliance with Legal Process**
+## With whom do we share the information that we gather?
 
-**COPPA Compliance:** In accordance with the Children's Online Privacy Protection Act (COPPA), **Herald-Tribune** does not collect or store any personal information, even in aggregate, about children under the age of 13.
+If you have registered to one of our sites, Sarasota Herald-Tribune will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
 
-**Data Security:** To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to protect the information we collect online.
+If you are a print subscriber to Sarasota Herald-Tribune and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/section/manage/).
 
-**Compliance with Legal Process:** We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+### Service Providers
 
-**How To Contact Us:**  
-For any questions or comments regarding our information or security practices, you may contact us:   
- By E-mail: **[webmaster@heraldtribune.com](mailto:webmaster@heraldtribune.com)**  
- By Phone: **(941) 953-7755** (between **9 a.m. and 5 p.m. EDT**.)  
- By Fax: **(941) 957-5276** , Attention **Online Director , HeraldTribune.com**  
- By Mail: **801 S. Tamiami Trail, Sarasota, Fl. 34236** , Attention **Online Director, HeraldTribune.com**
+We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for Sarasota Herald-Tribune, and they may not share or resell this data.
+
+We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the "Compliance with legal process" section of this policy.)
+
+## How do I change or update my personal information?
+
+Manage your HeraldTribune.com account at Member Center: You may review and update your HeraldTribune.com membership or account information and access your transaction history in the [Member Center](https://web.archive.org/section/manage/).
+
+There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at 941-953-7755 or [ webteam@heraldtribune.com](mailto:webteam@heraldtribune.com). 
+
+## How do I opt-out from receiving promtional offers?
+
+### E-mail Promotions
+
+Follow the unsubscribe options at the bottom of the e-mail.
+
+## Is my information protected?
+
+### Data Security
+
+To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online.
+
+## Other Information: Compliance with Legal Process
+
+We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+
+## Other Information: Children's Guidelines
+
+### COPPA Compliance:
+
+In accordance with the Children's Online Privacy Protection Act (COPPA), Sarasota Herald-Tribune does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
+
+## Other Information: Changes to This Policy
+
+This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect. Registered users will be notified via e-mail.
