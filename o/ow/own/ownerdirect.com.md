@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ownerdirect.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606084900id_/http%3A//www.ownerdirect.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownerdirect.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205205027id_/http%3A//www.ownerdirect.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Owner Direct Vacation Rentals Inc.
 
 **Our Commitment to Protecting the Privacy of Personal Information**   
 Technological growth has revolutionized the way businesses gather, use and disclose information. Emerging technologies require heightened vigilance in the collection, use and disclosure of personal information. We are committed to protecting the confidentiality and privacy of personal information we hold about our customers. This Policy reflects that commitment.
