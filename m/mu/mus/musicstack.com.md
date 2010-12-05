@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicstack.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313151316id_/http%3A//www.musicstack.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicstack.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205021517id_/http%3A//www.musicstack.com/privacy.cgi) for the most accurate reproduction.*
 
 # MusicStack - Privacy Policy
 
@@ -6,10 +6,10 @@
 We are committed to protecting the privacy of our customers and using your information responsibly. 
 
 **HOW WE DO NOT USE YOUR INFORMATION**  
-Our site uses an order and registration form so you can request products or information. Contact information (email address, telephone number, address, etc.) from the order form will NEVER be sold, rented, traded or even given away. We respect your privacy. The information you provide to us is STRICTLY CONFIDENTIAL. 
+Our site uses an order and registration form so you can request products or information. Contact information (email address, telephone number, address, etc.) from the order form will NEVER be sold, rented, traded or given away. We respect your privacy. The information you provide to us is STRICTLY CONFIDENTIAL. 
 
 **HOW WE USE THIS INFORMATION**  
-Contact information (email address, telephone number, address, etc.) from the order form is used to get in touch with you when necessary to keep you up to date with your order(s). Financial information (credit card numbers, credit card expiration dates, billing address, etc.) that is collected is used to bill you for products and services and is only passed along to the sellers that you order from. 
+Contact information (email address, telephone number, address, etc.) from the order form is used to get in touch with you when necessary to keep you up to date with your order(s) and for receiving our e-newsletter which you can opt-out of at anytime. Any financial information (credit card numbers, credit card expiration dates, billing address, etc.) that is collected is used to bill you for products and services and is only viewable by the seller(s) that you order from. 
 
 **COOKIES, WEB BEACONS & IP ADDRESS TRACKING**  
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
@@ -35,4 +35,4 @@ Cleveland, Ohio 44113
 
 
   
-_Last Updated: 03/13/09_
+_Last Updated: 08/26/10_
