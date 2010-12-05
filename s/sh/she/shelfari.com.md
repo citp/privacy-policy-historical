@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216182553id_/http%3A//www.shelfari.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205214322id_/http%3A//www.shelfari.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Shelfari
+# Privacy Policy
 
-December 3, 2008
+August 27, 2010
 
 This privacy policy (“Policy”) applies to the Web site owned and operated by Amazon.com, Inc., and its Affiliates ("Shelfari" "we" or "us") located at www.shelfari.com (the "Site"). Shelfari provides an interactive, online community regarding books (the "Services"). This Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using our Site and our Services. Please read this statement before using our Site or submitting any personal information to us. This Site is not intended for use by children under 13. By using our Site, you represent that you are 13 years old or older and that you consent to the information collection and use practices described herein. **We reserve the right to change the provisions of this privacy policy at any time, but we will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your acceptance of any such changes.** We encourage you to review our privacy policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
@@ -58,4 +58,4 @@ This Site is not directed to children under 13. By registering for or subscribin
 
 If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at questions@shelfari.com, and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You may also delete certain information by closing your account. However, please note that in certain circumstances, we may not be able to remove or change certain information, even in the event an account is closed. For example, we may be required to retain other certain information, such as credit card billing information, for a certain period of time, and it may be necessary to retain certain information in order to complete any services or transactions with us. In lieu of email, you may also contact us by mail at the following address:
 
-Amazon.com, Inc. 1200 12th Ave S; Seattle, WA 98144 Attn: General Counsel
+Amazon.com Legal Department, P.O. Box 81226, Seattle, WA 98108 Attn: Shelfari Legal Department
