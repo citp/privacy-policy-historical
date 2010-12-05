@@ -1,66 +1,115 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208185311id_/http%3A//www.thirdage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206005542id_/http%3A//www.thirdage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThirdAge
 
-**1\. General**  
-ThirdAge Inc. (hereinafter "ThirdAge") respects the privacy of every individual who visits [www.thirdage.com](http://www.thirdage.com/ "www.thirdage.com") (hereinafter the "Web Site"). This Privacy Policy outlines the information ThirdAge will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared.
+ThirdAge Media, LLC d/b/a ThirdAge.com (“TA Media” or “We” or “we”) is strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality services to them.  This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us.  This Privacy Policy applies to TA Media, LLC d/b/a ThirdAge.com and all of its parent companies, subsidiaries, and affiliates.  We urge you to **** read the complete Privacy Policy set forth below, as well as our Terms of Use, and contact us if you have any questions.  By using any of our sites and providing us with your information, you agree to the terms of this Privacy Policy and our Terms of Use.  If you do not agree to this Privacy Policy or our Terms of Use, you should not use or access any of our sites.
 
-**2\. Personally-Identifiable Information**  
-There are cases where ThirdAge may ask you for personally-identifiable information such as your name, mailing address and e-mail address. For example, we request personally-identifiable information when you register for an account on the Web Site, for online shopping or transactions, or for other services that require registration or subscription. ThirdAge will not collect any personally-identifiable information about you unless you provide it to us voluntarily.
+**I.           WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
-When you do provide us with personally-identifiable information, ThirdAge may:
+**_Personal Information_**. **** We collect personally identifiable information, such as names, mailing addresses, e-mail addresses, demographic information, and similar information in a variety of situations, including but not limited to the following: (i) when you subscribe to one of our newsletters or place an order; (ii) when you register at one of our web sites; and (iii) when you enter personal information on one of our web sites as a condition of participating in contests, promotions, or sweepstakes offered via these web sites. ** __**
 
-  * Store and process that information to better understand your needs and how we can improve our products and services;
-  * Use that information to contact you for informational, marketing and promotional purposes; 
-  * Disclose that information to third parties when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ThirdAge, other members or users of the Web Site, or anyone else that could be harmed by such activities; 
-  * Disclose that information to third parties when we believe in good faith that the law requires it; 
-  * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](https://web.archive.org/terms); and
-  * Disclose that information when we contract with a third party to deliver e-mail on our behalf or provide other services involving list update or list maintenance.
+Some of our sites may collect credit card and related financial information if you wish to purchase a product or service offered via these sites.  If you wish to place an order for products or services online, you must generally establish a credit card account with us or our vendors.
+
+As a service to our users, we feature message boards, chat rooms, and other public forums (each, a “Public Area”) where users with similar interests or medical conditions can share information and support one another, or where users can post questions for experts to answer. Any information that you reveal in a chat room, message board or online discussion is by design open to the public. You should think carefully before disclosing any Personal Information in any Public Area. What you post may be seen, disclosed to, or collected by third parties, and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes.
+
+**_Information Collected Automatically_** **.** Our web sites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address.  This helps facilitate your online experience at our web sites.  See Sections IV and V of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically for research and marketing purposes by our web sites.
+
+**II.         WHAT DO WE DO WITH COLLECTED INFORMATION?**
+
+We use the personal information you provide to allow you to make product purchases, to fulfill your requests, improve our products and services, to send you promotional offers related to TA Media or our business partners, and to operate our business.  A user may, at any time, opt out of receiving promotional offers by mail or e-mail by following the opt-out procedures set forth in Section VII of this Privacy Policy.  We also use collected information to evaluate and administer our products and services, respond to any problems that may arise, such as difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users.
+
+**III.        HOW DO WE SHARE PERSONAL INFORMATION?**
+
+We share your personal information only as described below.
+
+**_Sharing Within the TA Media Corporate Family_**. **** We may share your personal information with any parent company, subsidiary, or affiliate in the TA Media corporate family.  All entities within the TA Media corporate family may have access to your personal information as well as anonymous, aggregate demographic data.    **__**
+
+**_TA Media’s Service Providers_** **.** TA Media may decide to share your personal information with companies that work on behalf of or with TA Media.  These companies may use your personal information to inform you about TA Media’s products and services, to provide you with information about other exciting products and services, or otherwise to assist TA Media in serving its customers, understanding its consumer market, or devising effective marketing strategies to reach more consumers.
+
+**_Lead Purchasers_** **.** TA Media may decide to share your personal information with third parties who purchase leads from TA Media.
+
+**_[Participating Vendors._** Some of our sites offer opportunities to make purchases online from special participating vendors.  On sites with online purchase opportunities for products and merchandise, we will also give participating vendors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order.  Participating vendors may use that information to advise you directly of other products and offerings that they provide.]
+
+**_Credit Card Companies; Third Party Payment Services; Third Party Promotional Sites_**.  As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost.  TA Media will not otherwise provide any personal data to your credit card company.  In some cases, we use third party payment and transaction services to facilitate your transactions and process your orders.  In such cases, we will share your personal information and credit card information with the third party payment services solely for the purpose of completing the transaction or processing your order.  In some cases, we will share your personal information and credit card information with third parties who may offer you a gift or promotional offer as a result of your purchase.
+
+**_Other Third Parties_**.  We may share your personal information with third parties, such as advertisers, sponsors, and other promotional and business partners, only when you have not opted out of receiving communications from third parties.  If you wish to opt-out of receiving third party communications, you may exercise this right by following the opt-out procedures contained in any e-mail or written communication TA Media sends to you or by following the procedures set forth in Section VII of this Privacy Policy.
+
+**_Public Postings_**.  You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through TA Media’s web sites or any other service available online), that information can be collected and used by others.  Accordingly, you should use caution when sharing any personal information with others in any community area (whether through TA Media’s web sites or any other service available online).
+
+**_Required Disclosures of Information_**.  We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our sites and our property and assure adherence to our terms of use; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation or process.
+
+**_Changes in Corporate Structure_**.  In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred.  In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
+
+**IV.        HOW DO WE USE COOKIES?**
+
+Your web browser offers “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a web site.  Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best, and also enable us to customize our content according to your preferences.  You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser.  However, if you disable cookies, some advanced and customized features or offerings will not be available to you.
+
+**V.         HOW DO WE USE WEB BEACONS, WEB ANALYTICS, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES?**
+
+A number of technologies exist to assess consumer behavior both on-line and off-line.  TA Media employs a variety of these technologies, including web beacons (see below), web analytics techniques, and other behavior marketing technologies, to assess consumer behavior and to understand how we can better serve our customers.  Many of these technologies are provided to TA Media via third party providers specializing in behavioral marketing and consumer behavior.  In the course of using these behavioral marketing technologies, we automatically collect non-personal information from you, including but not limited to the following types of information: Internet protocol (IP) address used to connect your computer to the Internet; login, e-mail address; computer and connection information such as browser type and related browser data; content viewed; and purchase history, which may be aggregated with other information for analytic purposes.
+
+Some of our web pages, promotional e-mail messages, and/or newsletters may contain electronic images known as web beacons, which are also called single-pixel gifs.  Web beacons are not used to access your personally identifiable information, but they are a technique we use to compile aggregated statistics about the usage of our web sites and to track the number of users who have opened and acted up our promotional e-mail messages.  Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
+
+**VI.        WHAT ABOUT THIRD PARTY ADVERTISERS?**
+
+Some of the banner ads displayed in our web sites are provided by third parties. These ads contain cookies and may also contain web beacons.  Unlike cookies and web beacons used by TA Media in content it controls on its web sites, cookies or web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you.  These companies may employ cookies, web beacons, and action tags to measure advertising effectiveness.  They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. Dart is our primary third party ad server.  If you would like to know more about their information gathering practices and “opt-out” procedures, please see <http://www.doubleclick.com/privacy/opting_out.aspx>. ****
+
+**VII.      HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
+
+We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information, change your preferences, or opt out of receiving future communications.
+
+  1. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information.  Check the site for further information. 
+
+
+  2. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
+
+
+  3. If you do not wish to have your personal information shared with third parties, please click here [general@thirdage.com](mailto:general@thirdage.com).
+
+
+  4. You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail.  Such written requests should be sent to TA Media, LLC, 1280 Bison Ave B9466, Newport Beach, CA 92660.  In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us. 
+
+
+  5. You may also contact us at general@thirdage.com for any inquiry or request regarding our privacy policy or the handling of your personal information. 
 
 
 
-Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties, although certain non-personally-identifiable user information may be provided in aggregate form to third parties.
+If you have opted out of receiving future e-mails from us, we will implement your opt-out request within 10 business days of receiving the opt-out request.  If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time. ****
 
-In case you would like to remove or change some personally-identifiable information, you may do so by visiting your member account page or contacting [ThirdAge Support](https://web.archive.org/feedback). (Remember, however, that removing some or all of your personally-identifiable information may limit your ability to access some or all of the features and services of the Web Site.) In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving communications from ThirdAge about new Web Site features or ThirdAge services. You may opt-out of these services by managing your Newsletter subscriptions or contacting [ThirdAge Support](https://web.archive.org/feedback).
+**VIII.     SECURITY OF YOUR PERSONAL INFORMATION**
 
-Some of our services or promotions are offered through an affiliation with another company in what we call a "co-branded" area of our site or through a co-sponsored promotion, and visitor information may be shared with those partners and/or sponsors. If you request information about or from our partners or sponsors, or visit a co-branded or sponsor-specific area of the site, you give ThirdAge permission to provide information about you (such as your e-mail address) to the partner or sponsor.
+We use Secure Socket Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy.  Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered.  The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered **.** Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. TA Media employees are made aware of its privacy practices through periodic communications and training. **** We limit access to personal data only to those TA Media employees or agents with a specific need to access or retrieve this information.  We store data on multiple service systems, in controlled, secure environments.  Remember, however, that we cannot guarantee the security of your personal information, and we are not responsible for the privacy or security practices of any third party. ****
 
-**3\. Public Forums**  
-This Web Site may make discussion boards, groups and/or other public forums available to its users. Please remember that any information that is disclosed to these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**IX.        CHILDREN'S PRIVACY**
 
-**4\. Children**  
-This Web Site is not directed at individuals under 18 years of age, and ThirdAge does not intend to collect any personally-identifiable information from such individuals. Where appropriate, ThirdAge will specifically instruct children not to submit such information on the Web Site. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the mailing address or e-mail address listed at the bottom of this Policy if he would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.  
- **  
-5\. Non-Personally-Identifiable Information**  
-ThirdAge may also collect information about you that is not personally-identifiable. Examples of this type of information may include your age, gender, interests and preferences, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the web site from which you linked to the Web Site. ThirdAge may share this information with advertisers, business partners, sponsors and other third parties. For example, ThirdAge may inform a sponsor that the membership of the Web Site is x percent females and y percent males. This data is used to customize the Web Site's content and advertising, and to deliver a better experience for our members and users.  
- **  
-6\. Information We May Place Automatically on Your Computer's Hard Drive**  
-When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, ThirdAge can recognize you. For example, Cookies are used to allow us to track clickstream data and tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.  In addition, we use cookies and IP addresses for our analytics systems.  Please click here [http://www.nielsen-netratings.com/privacy/sitecensus.htm](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web site.  
- **  
-7\. Links to Other Web Sites**  
-The Web Site allows links to various other web sites as stated in ThirdAge's [Terms of Service](https://web.archive.org/terms). ThirdAge assumes no responsibility for the information practices of sites you are able to access through the Web Site. These links to other sites do not imply affiliation or endorsement of a linked site in any way.
+TA Media is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13.  Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored.  We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.  ****
 
-**8\. Security**  
-Please keep in mind that whenever you give out personal information online -- for example, discussion boards or groups -- that information can be collected and used by people you don't know. While ThirdAge strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
+**X.         THIRD PARTIES AND LINKS**
 
-The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, ThirdAge can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems.
+In the event that you provide personal information to any third party via any TA Media web site or any offer made available to you by TA Media, you understand that TA Media is not responsible for such third parties’ use or misuse of your personal information.  You should review the privacy and information sharing practices of such third parties.  Additionally, TA Media may offer links to or from web sites it controls to other sites within the TA Media family as well as to sites operated by third parties.  We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
 
-Your account on the Web Site is password-protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. ThirdAge will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or an Internet café. ThirdAge's policy on termination of subscribers or members who violate security provisions is set out in ThirdAge's Web Site [Terms of Service](https://web.archive.org/terms).
+**XI.        YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**9\. Business Transfers**  
-As we continue to develop our business, we might sell or buy stores or assets, or transfer a service we provide to a carefully chosen strategic partner. In such transactions, customer information is generally one of the transferred business assets.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared.  To make such a request, please send an email to general@thirdage.com **** and please include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
-**10\. Your Acceptance of These Terms**  
-By using the Web Site, you signify your assent to the ThirdAge Privacy Policy and the Web Site's Terms of Service. If you do not agree to this Policy or the Terms of Service, please do not use the Web Site. Your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes.  
- **  
-11\. Whom to Contact**  
-If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: 
+**XII.      VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
 
-ThirdAge Inc.,  
-25 Stillman Street, Suite 102,  
-San Francisco, CA 94107-1309; or through our [contact form](https://web.archive.org/feedback).  
- **  
-12\. Ad Serving**  
-The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please [click here](http://www.doubleclick.com/privacy/index.aspx).
+All matters relating to these sites are governed by the laws of the State of California in the United States.  Any information you provide in registering or ordering at one of our web sites will be transferred to the United States.  By visiting our sites and submitting information, you authorize this transfer, processing and use.
 
-(Effective June 20, 2007) 
+**XIII.     CHANGES TO OUR PRIVACY POLICY**
+
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment.  We recommend that you check the posted Privacy Policy when you visit any of our sites to be sure you are aware of and understand our current policy.  Your continued use of the respective site means you accept the updated Privacy Policy.
+
+**XIV.     CONTACT INFORMATION**
+
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [general@thirdage.com](mailto:general@thirdage.com) **.** Please include the URL of the web site involved in your request.  Requests under California Law SB 27 should be directed to [general@thirdage.com](mailto:general@thirdage.com) and include the information noted in Your California Privacy Rights.  ****
+
+Or you can contact us by mail at:
+
+ThirdAge Media LLC   
+1280 Bison Ave B9466   
+Newport Beach, CA 92660 
+
+Or you can fax us at (949) 330-6601
+
+Last Updated March 30, 2010
