@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611110700id_/http%3A//domainsite.com/policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205145825id_/http%3A//www.domainsite.com/policies/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Domainsite.com
+# Privacy Policy - domainsite.com - Domainsite.com
 
 Spot Domain LLC ("Domainsite.com") respects your privacy. We want you to useDomainsite.com services with complete confidence in our commitment to serving you and protecting your private information.
 
