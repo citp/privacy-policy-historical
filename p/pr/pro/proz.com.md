@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221212002id_/http%3A//www.proz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205162845id_/http%3A//www.proz.com/privacy) for the most accurate reproduction.*
 
 # ProZ.com privacy policy
 
