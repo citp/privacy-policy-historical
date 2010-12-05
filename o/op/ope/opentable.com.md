@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527042411id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205113906id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
-**Effective April, 2009**
+**Effective November, 2010**
 
-OpenTable, Inc., along with its subsidiaries or affiliated companies ("OpenTable"), is committed to safeguarding your privacy and upholding the highest levels of information security. To that end, the company adheres to the strictest consumer privacy guidelines and uses state-of-the-art security technology to protect any information you provide to and through OpenTable's websites, which include [www.opentable.com](http://www.opentable.com/), [www.opentable.co.uk](http://www.opentable.co.uk/), [www.opentable.jp](http://www.opentable.jp/), and any other sites owned or operated by OpenTable (hereinafter referred to collectively as the "OpenTable Websites").
+OpenTable, Inc., along with its subsidiaries or affiliated companies ("OpenTable"), is committed to safeguarding your privacy. This Privacy Policy describes OpenTable’s policies and procedures on the collection, use and disclosure of the information collected through OpenTable's websites, which include [www.opentable.com](http://www.opentable.com/), [www.opentable.co.uk](http://www.opentable.co.uk/), [www.opentable.jp](http://www.opentable.jp/), [www.opentable.de](http://www.opentable.de/), and mobile applications as well as any other sites owned or operated by OpenTable (hereinafter referred to collectively as the "OpenTable Websites").
 
 **About the OpenTable Network**
 
@@ -24,13 +24,11 @@ As an **Unregistered User** , you will be asked to provide a name and a telephon
 
 **_Registered Users:_**
 
-If you choose to register with OpenTable (become a **Registered User** ) in order to take advantage of OpenTable's Dining Rewards program and other benefits, you will be asked to provide a name, a telephone number, an email address, a password of your choice and your primary dining city. You may choose not to receive marketing communications from OpenTable or from the restaurant at which you've made an online reservation, other than automated service messages pertaining to your reservation. 
+If you choose to register with OpenTable (become a **Registered User** ) in order to take advantage of OpenTable's Dining Rewards program and other benefits, you will be asked to provide a name, a telephone number, an email address, a password of your choice and your primary dining city and/or zip code. You may choose not to receive marketing communications from OpenTable or from the restaurant at which you've made an online reservation, other than automated service messages pertaining to your reservation. 
 
 Registered OpenTable users may automatically receive "VIP" status if they honor twelve or more reservations made through the OpenTable Websites during the current or previous calendar year. OpenTable VIP users are identified as VIPs to restaurants with which they make reservations using OpenTable so that restaurants may reward these frequent diners with special services if they so choose. Restaurants cannot access the dining histories of OpenTable VIP users other than diners' histories in their specific restaurant or restaurant group.
 
-For select restaurants and/or holidays, a valid credit card number may be required to secure a reservation through the OpenTable Websites. All such credit card transactions are either fully encrypted by OpenTable and certified by Verisign ® or processed by a trusted third party. In either case the credit card information will be shared with the restaurant at which the reservation is being made, just as would occur with a phone reservation requiring credit card information. OpenTable does not record or store the credit card information, except for the last four digits of your credit card which are only used for descriptive purposes. In addition, the third party credit card processor is prohibited from using this information for any purpose other than processing the credit card. 
-
-OpenTable may offer OpenTable dining gift certificates for sale on its site. A credit card number may be required for these purchases. All such credit card transactions are fully encrypted and certified by Verisign. The credit card number is passed directly to the merchant bank for processing and is not stored by either OpenTable or the e-commerce site. 
+For select restaurants and/or holidays, a valid credit card number may be required to secure a reservation through the OpenTable Websites. In either case the credit card information will be shared with the restaurant at which the reservation is being made, just as would occur with a phone reservation requiring credit card information. In addition, a credit card may be required in order to make purchases from OpenTable websites. All such credit card transactions are either fully encrypted by OpenTable and certified by Verisign ® or stored by a trusted third party. The third party credit card vendor is prohibited from using this information for any purpose other than storing the credit card. 
 
 Users outside of the United States should understand that all information shared during the registration and reservation processes is sent to and stored on secure servers that are located in the United States. The United States has data protection laws that may not be consistent with those of other countries. If OpenTable transfers your information outside of your host country, OpenTable will take steps to ensure that your privacy rights continue to be protected.
 
@@ -52,6 +50,14 @@ Where you have consented to receive marketing communications from OpenTable, you
 
 You may also consent to receive marketing communications from the restaurant at which you've made a reservation. OpenTable plays no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restaurant's marketing communications, please contact the appropriate restaurant directly. 
 
+**Location data:**
+
+OpenTable Websites can provide helpful information based on where you are. If you tell us where you are (i.e., by allowing your mobile device to send us your location), we may use that information to provide you with location-based information. If you want to deactivate this feature, you can disable location services on your mobile device, please contact your carrier for more information. 
+
+**Social Media**
+
+You can choose to access certain third party social media web sites and services through the OpenTable Websites. When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You can modify your privacy settings with those third parties directly. OpenTable does not control the privacy policies of such third parties and assumes no responsibility or liability for the actions of such third parties. 
+
 **Purposes of use of your personal information:**
 
 OpenTable may use your personal information for the following purposes: 
@@ -72,8 +78,7 @@ Once a Registered User logs on to the OpenTable Websites, that user can view his
 
 **Cookies, web beacons and logging:**
 
-Log-in areas on the OpenTable Websites require that your browser accept cookies. A cookie is a small amount of information that is sent from a web server to your browser and stored on your computer's hard drive. OpenTable uses cookies to verify that you are properly signed in, to display information for your primary dining location, and to highlight your pending reservations, for example. OpenTable may also use cookies from time to time to measure your response to new aspects of the websites and/or emails in an effort to continually improve customer service and website usability.   
-Please be aware that a cookie cannot spread computer viruses, retrieve any other data from your hard drive, or capture your email address. 
+Log-in areas on the OpenTable Websites require that your browser accept cookies. A cookie is a small amount of information that is sent from a web server to your browser and stored on your computer's hard drive. OpenTable uses cookies to verify that you are properly signed in, to display information for your primary dining location, and to highlight your pending reservations, for example. OpenTable may also use cookies from time to time to measure your response to new aspects of the websites and/or emails in an effort to continually improve customer service and website usability. Please be aware that a cookie cannot spread computer viruses, retrieve any other data from your hard drive, or capture your email address. 
 
 You can erase or block cookies from your computer if you wish to do so (your internet browser help screen or manual will thoroughly explain this process), but certain OpenTable services, as well as parts of the website, may not work correctly or will not work at all if your browser is set not to accept cookies. 
 
@@ -81,7 +86,7 @@ Web pages may contain electronic images (called a "single-pixel GIF" or "web bea
 
 **How OpenTable uses your personal information:**
 
-OpenTable will **never** sell, rent, loan or otherwise distribute any of your personal information (including but not limited to your name, email address, phone number or any other identifiable information about you) to any third party without your prior expressed written consent, although OpenTable will pass certain information on to restaurants at which you make reservations, only as described above. 
+OpenTable will **never** sell, rent, loan or otherwise distribute any of your personal information (including but not limited to your name, email address, phone number or any other identifiable information about you) to any third party without your prior expressed written consent, although OpenTable will pass certain information on to restaurants at which you make reservations as described above. 
 
 OpenTable does use aggregate data (based partly on IP addresses of website visitors) collected through its website to analyze website usability, system performance and usage trends. While this data, in its aggregate form only, may be shared with third parties with whom OpenTable works to analyze it, the data will only be shared under the strictest terms of confidentiality and will never contain any personally identifiable information pertaining to any user of the OpenTable Websites. 
 
@@ -131,12 +136,14 @@ For questions regarding Privacy Policy and information regarding Personal Inform
 
 **_Safe Harbor Program_**
 
-OpenTable is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/).   
-We self-certify compliance with 
+OpenTable is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/). 
 
+We self-certify compliance with:   
   
 
 
 **_BBB Safe Harbor Privacy Dispute Resolution_**
 
 OpenTable is a participant in the Council of Business Bureau's BBB Safe Harbor Privacy Dispute Program. If you believe OpenTable has not satisfactorily addressed your data privacy concerns, you may contact the Council of Business Bureau at www.bbb.org 
+
+This is an IE duplicate character bug fixed.
