@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostablog.net privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524122222id_/http%3A//hostablog.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostablog.net privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205052615id_/http%3A//hostablog.net/privacy) for the most accurate reproduction.*
 
 # Hostablog.net - Privacy Policy
 
