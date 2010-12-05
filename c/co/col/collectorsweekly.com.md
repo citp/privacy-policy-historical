@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128054900id_/http%3A//www.collectorsweekly.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205043541id_/http%3A//www.collectorsweekly.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Collectors Weekly
 
@@ -14,7 +14,7 @@ Regardless of your decision regarding the sharing of your Personal Information, 
 
 #### Cookies and Other Tracking Technologies
 
-Some of our site pages may utilize "cookies" or other tracking technologies. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. Our use of cookies and other tracking technologies allows us to improve our Site and your web experience.
+Some of our site pages may utilize “cookies” or other tracking technologies. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. Our use of cookies and other tracking technologies allows us to improve our Site and your web experience.
 
 #### Security
 
@@ -22,7 +22,7 @@ We have implemented suitable security policies to protect and safeguard the Pers
 
 #### Links and Third-Party Websites
 
-Our Site may contain links to other websites. We are not responsible for the privacy practices or the content of these websites. Our website may also use reputable third parties to present or serve the advertisements that you may see at our website. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
+Our Site may contain links to other websites. We are not responsible for the privacy practices or the content of these websites. Our website may also use reputable third parties to present or serve the advertisements that you may see at our website. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
 
 #### Your Consent
 
