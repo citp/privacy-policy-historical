@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106164336id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205113451id_/http%3A//bestday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,8 +29,7 @@ Contact Data
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Viajes Beda S.A. de C.V.   
-Boulevard Kukulcan km. 4.5 Lote D 7 Secc. Res. D   
-Zona Hotelera  
+Av. Bonampak Mza.2 Lote. 7 Sm. 10 Cancún Quintana Roo, México.   
 Cancun Q.Roo Mexico C.P. 77500
 
 [_Contact Us_ ](https://web.archive.org/ContactUs)  
