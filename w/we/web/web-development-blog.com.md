@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330160631id_/http%3A//www.finalwebsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205132744id_/http%3A//www.finalwebsites.com/privacy.php) for the most accurate reproduction.*
 
 # finalwebsites.com - privacy statement
 
