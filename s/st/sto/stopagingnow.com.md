@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603211103id_/http%3A//www.stopagingnow.com/customer_service/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205115802id_/http%3A//www.stopagingnow.com/customer_service/privacy_and_security) for the most accurate reproduction.*
 
 # Stop Aging Now Privacy & Security
 
@@ -26,7 +26,7 @@ Toll-Free Ordering 24/7: 800-627-9721
 
 Toll-Free Fax Line: 888-468-5529
 
-[Click Here](http://www.stopagingnow.com/images/web_version_v2.pdf) to download a PDF version of our order form
+[Click Here](https://www.stopagingnow.com/images/web_version_2010.pdf) to download a PDF version of our order form
 
 **Privacy**
 
