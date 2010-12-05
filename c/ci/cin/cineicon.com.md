@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105062607id_/http%3A//www.cineicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205075817id_/http%3A//www.cineicon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Poli... | Cineicon.com - Tamil Telugu Hindi Malayalam K
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -29,7 +29,7 @@ Any of the information we collect from you may be used in one of the following w
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
- **Do we use cookies?**
+**Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
@@ -63,8 +63,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.cineicon.com  
-Kurinchi Nagar, Lawspet  
-Pondicherry, Pondicherry 605008  
-India  
-[admin@cineicon.com](mailto:admin@cineicon.com)
+admin@cineicon.com
