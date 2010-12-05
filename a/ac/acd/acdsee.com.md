@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525032510id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062502id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
 
 # ACDSee Photo Software
 
@@ -14,11 +14,11 @@ Any information you post to a chat room or public bulletin is available to all u
 
 ## How We Use Your Information
 
-Any information collected will be used only by ACD to improve our products, services and website, or to communicate with you in the form of newsletters and notices if you give us permission to do so. ACD uses information and/or e-mail addresses for internal purposes only and does not sell, lease or rent information to third parties.
+Any information collected will be used only by ACD to improve our products, services and website, or to communicate with you by phone, e-mail, newsletter, and/or notices. ACD uses information and/or e-mail addresses for internal purposes only and does not sell, lease or rent information to third parties.
 
 ## Trial Software Activation
 
-A valid e-mail address is required to receive trial unlock codes for many of our products. If you enter into a trial period of ACD software, and consent to our use of your e-mail address by providing the same, we may contact you via e-mail to provide additional information on our products and to survey you on your satisfaction with our software. We may also contact you to provide advance notice of termination of the trial period or an opportunity to extend your trial period. E-mail is our preferred method of communication and we value the privilege to use it.
+A valid e-mail address is required to receive trial unlock codes for many of our products. If you enter into a trial period of ACD software, and consent to our use of your e-mail address by providing the same, we may contact you via phone or e-mail to provide additional information on our products and to survey you on your satisfaction with our software. We may also contact you to provide advance notice of termination of the trial period or an opportunity to extend your trial period. E-mail is our preferred method of communication and we value the privilege to use it.
 
 ## Product Purchasing
 
@@ -62,10 +62,6 @@ British Columbia, V8W 2J1
 Canada 
 
 If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@acdsystems.com](mailto:privacy@acdsystems.com)
-
-Phone: 1-250-419-6700
-
-Fax: 1-250-419-6745
 
 ## About Your Optional InTouch Connection Via ACD Software
 
