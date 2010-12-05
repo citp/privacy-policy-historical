@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605200543id_/http%3A//www.primeabgb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeabgb.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010412id_/http%3A//www.primeabgb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D64) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,7 @@ We will collect personally identifiable information about you only as part of a 
 Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.   
 The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites, which we do not own, manage or control and we urge you to study the privacy policies of such Web sites.  
   
-[**Top**](http://www.primeabgb.com/index.php?option=com_content&task=view&id=30&Itemid=64#Top)  
+[**Top**](https://web.archive.org/index.php?option=com_content&task=view&id=30&Itemid=64#Top)  
   
 5\. Our Use of Your Information?  
   
@@ -117,8 +117,6 @@ Generally, we use anonymous traffic information to:
   
 **Top**  
   
-   
-  
 6\. Our Disclosure of Your Information  
   
 We will not use your personal information for any purpose other than to complete a transaction with you.   
@@ -133,8 +131,6 @@ We do not rent, sell or share your personal information and we will not disclose
   
 **Top**  
   
-   
-  
 7\. What Choices are available to you regarding Collection, Use and Distribution of Your Information?  
   
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to browse our Site. However, we offer some services only to visitors who do register.   
@@ -144,8 +140,6 @@ If we plan to use your personally identifiable information for any commercial pu
   
 **Top**  
   
-   
-  
 8\. Security  
   
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.   
@@ -153,47 +147,37 @@ Although we will endeavor to safeguard the confidentiality of your personally id
   
 **Top**  
   
-   
-  
 9\. Access or change your personally identifiable information  
   
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally-identifying information. If you have registered your profile on Primeabgb, your Primeabgb.com ID and Password are required in order to access your profile information  
   
 **Top**  
   
-   
-  
 10\. How Can you Correct Inaccuracies in the Information?  
   
 To correct or update any information you have provided, our Site allows you to do it online.   
-You can update any information by accessing the following link: _My Account_  
+You can update any information by accessing the following link: My Account   
   
 **Top**  
-  
-   
   
 11\. Policy Updates  
   
 We reserve the right to change or update this policy at any time by placing a prominent notice on our Site. Such changes shall be effective immediately upon posting to this Site.   
-You are can offer your views, suggestions, if any, by submitting the filled in Form in **_[Contact Us](https://web.archive.org/index.php?option=com_content&view=article&id=47&Itemid=55)_** section online.  
+You are can offer your views, suggestions, if any, by submitting the filled in Form in **[Contact Us](https://web.archive.org/index.php?option=com_content&view=article&id=47&Itemid=55)** section online.  
   
 **Top**  
-  
-   
   
 12\. Your Consent  
   
 By using the Site, you consent to the collection and use of the information you disclose on the Site by Prime ABGB Pvt. Ltd. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our Privacy Policy will be communicated through our Site at least 10 days in advance of implementation.  
   
-[**Top**](http://www.primeabgb.com/index.php?option=com_content&task=view&id=30&Itemid=64#Top)  
-  
-   
+[**Top**](https://web.archive.org/index.php?option=com_content&task=view&id=30&Itemid=64#Top)  
   
 13\. Contact Customer Support  
   
 You Can Contact Us at:
 
- **Prime ABGB Pvt. Ltd.**  
+**Prime ABGB Pvt. Ltd.**  
 Unit no.16, Laxmi Building Compound,  
 390, Lamington Road, Opp. Swastik Cenema,  
 Grant Road (East), Mumbai: 400 004.  
