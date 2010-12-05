@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605220912id_/http%3A//www.wandisco.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205061208id_/http%3A//www.wandisco.com/php/privacy.php) for the most accurate reproduction.*
 
-# WANdisco™ Subversion, SVN, CVS, JIRA, Replication, Subversion MultiSite, Subversion Control, Subversion Mirror, Subversion Appliance, Tigris Subversion, JIRA Indexing, Atlassian, JIRA Clustering, Atlassian JIRA MultiSite , Distributed Software Development, SCM, Software Configuration Management, Subversion Support
+# WANdisco ™ | Subversion, SVN, CVS, Replication, Subversion MultiSite, Subversion Control, Subversion Mirror, Subversion Appliance, Tigris Subversion, Distributed Software Development, SCM, Software Configuration Management, Subversion Support
 
 | 
 
