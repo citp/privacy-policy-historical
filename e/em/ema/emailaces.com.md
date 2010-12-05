@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailaces.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612064850id_/http%3A//www.emailaces.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailaces.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205030734id_/http%3A//www.emailaces.com/privacy.php) for the most accurate reproduction.*
 
 # Autoresponder - Email Aces Autoresponders
 
