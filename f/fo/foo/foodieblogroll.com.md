@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522054851id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205133336id_/http%3A//www.foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20100522054851id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20101205133336id_/http%3A//www.foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
@@ -107,13 +107,10 @@ We reserve the right to change our Privacy Policy and our Terms of Use at any ti
 
 | 
 
-|  | Widget Stats  
----|---  
-| Average Daily Visits: |   **892,650** (past 7 days)  
+| Average Daily Visits: |   **1,008,435** (past 7 days)  
 ---|---  
    
-This Month: |   **15,552,648**  
-Last Month: |   **35,469,062**  
-This Year: |   **107,222,764**  
+This Month: |   **3,353,334**  
+This Year: |   **283,353,928**  
   
-[](http://www.leftoverqueen.com/ "The Leftover Queen")
+## Total Blogs: [9836](http://www.foodieblogroll.com/blogs)
