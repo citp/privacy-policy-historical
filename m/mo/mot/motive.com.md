@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201234508id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206003122id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -86,13 +86,11 @@ Alcatel-Lucent wants to ensure that any personal data you provide remains accura
 
 **Contacting Us**
 
-We value your opinions and feedback. If you have any questions or comments about our Global Privacy and Data Protection Web Site Policy Statement, please send them to:
-
-[DataPrivacy@alcatel-lucent.com](mailto:DataPrivacy@alcatel-lucent.com) or write us at:
+We value your opinions and feedback. Please [email us any questions or comments about our Global Privacy and Data Protection Web Site Policy Statement](https://web.archive.org/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3MfQFSZnFG8Q76kfCRIL0vfV9PfJzU_UD9AtyI8odHRUVAY9dlIY!/delta/base64xml/L0lJayEvUUd3QndJQSEvNElVRkNBISEvNl9BXzJFQi9lbl93dw!!?LMSG_CABINET=Corporate&LMSG_CONTENT_FILE=Forms/Registration/Alcatel_Lucent_Data_Privacy_Inquiry.xml), or write us at:
 
 Alcatel-Lucent   
 Chief Privacy and Data Protection Counsel - Law  
-Room 6F-224  
+Room 6E236  
 600 – 700 Mountain Avenue  
 Murray Hill, New Jersey 07974
 
