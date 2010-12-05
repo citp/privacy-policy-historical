@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infodog.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628190637id_/http%3A//www.infodog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodog.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205072635id_/http%3A//www.infodog.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for infodog.com
 
@@ -41,7 +41,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [mbf@infodog.com](mailto:mbf@infodog.com)
-  2. visit [infodog.com](https://web.archive.org/web/20100628190637id_/http%3A//www.infodog.com/infodog.com)
+  2. visit [infodog.com](https://web.archive.org/web/20101205072635id_/http%3A//www.infodog.com/infodog.com)
   3. send mail to the following postal address: 
 P.O. Box 22107 Greensboro, NC 27420 
   4. call the following telephone number: 336 379 9352
