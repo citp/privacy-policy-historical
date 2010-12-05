@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playsite247.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301163350id_/http%3A//www.playsite247.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsite247.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205130807id_/http%3A//www.playsite247.com/page/1.html) for the most accurate reproduction.*
 
-# Free Online Flash Games at PlaySite247.com - Privacy Policy
+# Play Free Online Games at PlaySite247.com - Privacy Policy
 
 **Privacy Policy for PlaySite247.com**
 
