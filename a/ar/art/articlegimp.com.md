@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlegimp.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117055758id_/http%3A//www.articlegimp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlegimp.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205183312id_/http%3A//www.articlegimp.com/privacy.php) for the most accurate reproduction.*
 
 # Article Gimp Directory | Free Articals | New Articles Daily | Privacy Statement
 
