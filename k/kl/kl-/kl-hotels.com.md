@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the kl-hotels.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418004114id_/http%3A//www.asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kl-hotels.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205031613id_/http%3A//www.asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
 
 # AWD Privacy Policy of Asia Web Direct
 
-## Our Privacy Policy
+At asiawebdirect.com, we are committed to protecting the privacy and security of any personally identifiable information ("PII") you provide us. PII includes information that can be linked to a specific individual, such as name, address, phone number, or email address
 
-At LateStays.com, we are committed to protecting the privacy and security of any personally identifiable information ("PII") you provide us. PII includes information that can be linked to a specific individual, such as name, address, phone number, or email address.
-
-This Privacy Policy explains how we handle and protect your PII in accordance with internationally recognised privacy principles. This policy was last adjusted on 12 February 2009. 
+This Privacy Policy explains how we handle and protect your PII in accordance with internationally recognised privacy principles. This policy was last adjusted on 4 October 2010. 
 
 We reserve the right to modify or amend this policy at any time and for any reason. Any material changes to this Privacy Policy will be posted on this website. Questions regarding this policy should be emailed to [privacy@asiawebdirect.com](mailto:privacy@asiawebdirect.com?subject=\[privacy%20policy\])
 
@@ -34,7 +32,7 @@ In an effort to keep our service as simple and easy to use as possible, we do no
   * _Make a booking_  
 We collect your full name, email address and phone number each time you make a booking on our site. We will also collect credit card information, including card number, card type, security number, cardholder name, billing address and expiry date to pay for accommodation purchased through our site. 
   * _Subscribe to our newsletter_  
-We collects email addresses from people who subscribe to our newsletter by either entering their email address in the "Newsletter" section of the site or by opting to be sent the newsletter at the time of making a booking. 
+We use your email address when you make a booking on our site to subscribe you to our AsiaWebDirect newsletter. You are free to unsubscribe to our newsletter at any time (see below for how to unsubscribe). 
   * _Surveys, promotions and competition information_  
 Occasionally, We may offer site visitors or newsletter recipients an opportunity to participate in a survey, promotion or competition. The PII we collect when you participate in a survey, promotion or competition may include your full name, email address, telephone number and street address. 
   * _Contact with us_  
@@ -65,7 +63,7 @@ We use your PII only for the purpose of responding to and fulfilling your reques
   * _Purchase of products or services_  
 Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically. We may also contact you about your stay for customer service purposes or to make any changes or cancellations to your booking. 
   * _Send newsletter email_  
-We will only send newsletters to people that have opted in to receive them. Our newsletters provide information about the latest deals available on our website, and occassionally offer incentives for completing surveys or participating in competitions or promotions. 
+We will only send newsletters to people that have opted in to receive them (including by accepting the booking terms and conditions on our site). 
   * _Communications with you_  
 We will use your email address and/or telephone number to contact you when you submit a question or suggestion or if we have a need to contact you in connection with your booking.We may use your email address and booking information to inform you of additional services and special offers, and to build features that will make the service easier and more personalized for you to use. At your request, we will not send any information or offers unrelated to your specific booking. At your request, we will send your booking information to your email address or other nominated contact method subject to our customer identity verification procedures being satisfied. 
   * _Fraud protection_  
@@ -93,15 +91,13 @@ We may be required by law to disclose information you provide to us. We may also
 We believe that site visitors and customers should have control over the collection and use of their PII. Here's how you can control and have access to your information:
 
   * _Newsletter subscription and unsubscription_  
-If at any time you would like to either change your email address with us or unsubscribe from our newsletter you can: 
-    1. Go to the "Newsletter" section of our site from the home page and follow the instructions to change your email address or unsubscribe; or 
-    2. Send an email to [newsletter@asiawebdirect.com](mailto:newsletter@asiawebdirect.com?subject=\[newsletter%20subscription%20changes\]) advising that you would like to unsubscribe or change your email address. Be sure to include details of your old and new email addresses for changes. 
+If at any time you would like to either change your email address with us or unsubscribe from our newsletter you can go to the "Newsletter" section of our site and follow the instructions to change your email address or unsubscribe. 
   * _Booking information_  
-If at any time you would like to alter the PII you provided us in your booking, please [contact us](http://www.asiawebdirect.com/customer/enquiry/?page=LateStays.com). 
+If at any time you would like to alter the PII you provided us in your booking, please [contact us](http://www.asiawebdirect.com/customer/enquiry/). 
   * _Remember my details for next time_  
-If at any time you would like us to stop remembering your details for the next time you book, untick "Remember my details for next time" the next time you make a booking, or [contact us](http://www.asiawebdirect.com/customer/enquiry/?page=LateStays.com). 
+If at any time you would like us to stop remembering your details for the next time you book, untick "Remember my details for next time" the next time you make a booking, or [contact us](http://www.asiawebdirect.com/customer/enquiry/). 
   * _General_  
-If at any time you want to enquire about any of your PII that we store, please [contact us](http://www.asiawebdirect.com/customer/enquiry/?page=LateStays.com). 
+If at any time you want to enquire about any of your PII that we store, please [contact us](http://www.asiawebdirect.com/customer/enquiry/). 
 
 
 
