@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209110746id_/http%3A//fwnextweb1.fortwayne.com/fwngeneral/text/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062804id_/http%3A//fwnextweb1.fortwayne.com/fwngeneral/text/terms.php) for the most accurate reproduction.*
 
 # FortWayne.com : Fort Wayne news, sports, jobs, homes, cars
 
