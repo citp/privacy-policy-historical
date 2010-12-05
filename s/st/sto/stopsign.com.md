@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107133902id_/http%3A//www.stopsign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205025433id_/http%3A//www.stopsign.com/privacy) for the most accurate reproduction.*
 
 # StopSign® Privacy Policy
 
@@ -103,9 +103,3 @@ Attn: Operations Department
 Poulsbo, WA 98370 USA 
 
 or, email us at: [Privacy@eAcceleration.com](mailto:Privacy@eAcceleration.com).
-
-[](http://www.stopsign.com/downloads/stop-sign_install.exe?uid=af755fa47d82bfae77684d8d0880f33b&bit_mask=604506368&bit_sample=904356484&ver=online&b=%26qq_eac-nohost&pg=%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26more-info%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2%26mss_404%26IA2&n=d_mss&SV=stopsign.com_index_boxcd_02&lxt=11&redir=www-stopsign-com&view=prod&crt=4.6.11.1&cart_init=membership&cart_value=none)
-
-### Chat With a Technician
-
-Available daily from 5:00 a.m. to 11:00 p.m. (Pacific).
