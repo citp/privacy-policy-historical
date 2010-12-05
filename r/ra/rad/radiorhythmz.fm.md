@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiorhythmz.fm privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120181136id_/http%3A//www.radiorhythmz.fm/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiorhythmz.fm privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205064304id_/http%3A//www.radiorhythmz.fm/privacy-policy.php) for the most accurate reproduction.*
 
-# Radio Rhythmz: Pakistan's First Internet & Mobile Radio Station
+# Privacy Policy - Privacy Data - Radio Rhythmz
 
 At Radio Rhythmz, we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
@@ -51,4 +51,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
  **Contacting Us**  
 We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at 
 
-[info@radiorhythmz.fm](mailto:info@radiorhythmz.fm\[email)
+[info@radiorhythmz.fm](mailto:info@radiorhythmz.fm)
