@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tauntr.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509003524id_/http%3A//www.tauntr.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tauntr.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205222637id_/http%3A//www.tauntr.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TAUNTR.COM
 
@@ -37,6 +37,8 @@ You can browse the Tauntr Web Site and use many features without registering or 
  
 
   1. When you send taunts or other content to others, we ask for certain information, including your email address, your friend’s email address, your hometown, and your favorite sports team. 
+
+  
 
 
   2. Premium Members must register and create an account on our Web Site. To create an account you are required to provide information, including your name, physical address, email address, phone number, and credit card and billing information, which is personally identifiable information that allows Tauntr and others to identify you.
@@ -77,11 +79,17 @@ Tauntr does not rent, sell, or share personal information about you with other p
 
   1. We will share your personally identifiable information with trusted partners to carry out or to provide specific services or information. For instance, we may use a credit card processing company to bill Premium Members for subscription fees. These third parties may retain, share, or store any personally identifiable information so as to provide these services.
 
+  
+
 
   2. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
 
+  
+
 
   3. If we believe, in our sole discretion, that it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Tauntr's terms of use, or as otherwise required by law.
+
+  
 
 
   4. We transfer information about you if Tauntr is reorganized, acquired by or merged with another company, or in connection with a sale of assets to another person or entity.  Any third party to which we transfer or sell Tauntr’s assets will have the right to continue to use the personally identifiable information and any other information that you provide to us under the terms of Tauntr’s then-applicable privacy policy.  Tauntr or its successor will notify you before information about you becomes subject to a different privacy policy. 
