@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210202907id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205165353id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
 
 # NCH Software Privacy Statement
 
@@ -40,49 +40,5 @@ We use cookies so we can track users through our website so we can improve our w
 ##### Choice
 
 You may choose whether or not to provide Personal Information to NCH Software. The notice we intend to provide where NCH Software collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of NCH Software's Web sites, but you may be unable to download or purchase our software. If you chose to have a relationship with us, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
-
-  Back to top
-
-##### Security
-
-Wherever your Personal Information may be held within NCH Software, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Our site has security measures in place to protect against the loss, misuse and unauthorized alteration of the information under our control. More specifically, our server uses SSL (Secure Sockets Layer) security protection by encrypting all of your personal information including credit card number, name and address to prevent individuals from reading this information as it travels over the Internet. 
-
-  Back to top
-
-##### Access/Accuracy
-
-To the extent that you do provide us with Personal Information, NCH Software wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting NCH Software should you need to update or correct that Information. 
-
-  Back to top
-
-##### Third Party Services
-
-NCH Software does not intend to transfer Personal Information without your consent to third parties who are not bound to act on NCH Software's behalf unless such transfer is legally required. Similarly, it is against NCH Software's policy to sell Personal Information collected online without consent. 
-
-  Back to top
-
-##### Children's Privacy
-
-NCH Software's website is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age. 
-
-  Back to top
-
-##### Commitment
-
-Protecting your privacy online is an evolving area, and NCH Software's Web site is constantly evolving to meet these demands. 
-
-If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20100210202907id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
-
-  Back to top
-
-##### Your Consent
-
-By using this Web site, you consent to the terms of our Online Privacy Policy and to NCH Software's processing of Personal Information for the purposes given above as well as those explained where NCH Software collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time. 
-
-  Back to top
-
-##### Changes to this Privacy Policy
-
-NCH Software will occasionally update this Privacy Policy to reflect company and customer feedback or changes to privacy legislation. We encourage you to periodically review this Privacy Policy to be informed of how NCH Software is protecting your personal information. 
 
   Back to top
