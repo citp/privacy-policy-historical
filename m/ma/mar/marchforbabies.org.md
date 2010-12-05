@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchforbabies.org privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527111818id_/http%3A//www.marchofdimes.com/aboutus/28342_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchforbabies.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205063200id_/http%3A//www.marchofdimes.com/aboutus/28342_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
 
 # March of Dimes Privacy Policy & Your Privacy Rights - March of Dimes
 
