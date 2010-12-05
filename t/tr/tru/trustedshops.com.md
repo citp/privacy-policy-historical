@@ -1,65 +1,92 @@
-> *The following text is extracted and transformed from the trustedshops.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529100315id_/http%3A//www.trustedshops.com/merchants/legal-notice-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedshops.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205194250id_/http%3A//www.trustedshops.com/merchants/legal-notice-privacy.html) for the most accurate reproduction.*
 
 # Data protection at Trusted Shops
 
-The following sections provide detailed information about Trusted Shops’ use of your personal information and data. These basic security principles will be modified, if required, e.g. in case of amendments to existing laws.
+**Principle**
 
-### General Principles
+Trusted Shops GmbH is committed to protecting the privacy of all persons who use our website and services and to treat their data with confidentiality when collecting, processing and using such data. We are committed to protecting your privacy on-line. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.   
+By using the website, you consent to the collection and use of information in accordance with this privacy policy. 
 
-Trusted Shops GmbH commits itself to protecting the privacy of all consumers utilising our guarantee, and to handle their personal data in a strictly confidential manner. Our staff members are regularly sworn to uphold data secrecy. The main principles of Trusted Shops’ privacy policy are based on the relevant laws in force, such as the German Data Protection Act and the German Act for Telemedia Services.
+We reserve the right to change this privacy policy from time to time by changing it on the website. This privacy policy was last updated on 26 August 2010. 
 
-### What kind of data is stored and processed while visiting the website?
+We are registered with the Information Commissioner’s Office (ICO) and our registration number is Z2211983. 
 
-You can visit our website without having to reveal any personal Data. We solely store your access Data that has no personal references. When visiting our pages, data is collected and stored through the technologies of etracker GmbH ([www.etracker.de](http://www.etracker.de/)) in an anonymous form for marketing and optimisation purposes, such as for example the name of your Internet Service Provider, the page you visit from, the name of the file requested as well as the first two figures of your IP address. E-tracker is a leading European provider of solutions for the analysis of visitor behaviour on web pages. The data protection commissioner of Hamburg has certified that e-tracker is 100 percent secure and legally impeccable, and meets the requirements of the strict German Data Protection Act.
+**Which data is collected and used when I visit the website?**
 
-From the data collected, a user profile is created under an alias for the purposes of advertising, market research and demand-oriented designing of our offer (e.g. so-called clickstream analysis). Cookies can be used here, which however collect and store data solely in an alias form. The data is not used to personally identify you, i.e. under no circumstances are the user profiles brought together with data about the bearer of the alias.
+You can visit our website without entering any directly identifiable personal information. When you visit our website, we may automatically collect access information about you, such as the type of internet browser you use, the website from which you have come to our website and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. This information is only used to assist us in providing an effective service on our website and to collect broad demographic information for aggregate use. 
 
-You can protest against the creation of the alias user profile at any time.
+In order to make visiting our website appealing and to enable the use of certain functions, we use so-called cookies on various pages. Cookies are small text files that are saved on your computer. Most of the cookies we use are deleted from your hard drive at the end of your browser session (so-called session cookies). Other cookies remain on your computer and enable us to recognise your computer again the next time you visit our site (so-called permanent cookies). Our partner companies are not permitted to collect, or use data from cookies that can be linked to directly identifiable information that we may hold about you via our website. 
 
-### What kind of data is stored and processed when registering for the Trusted Shops guarantee?
+Data is collected and stored on our website for marketing and optimisation purposes using technologies from etracker GmbH ("[etracker](http://www.etracker.com/en/)"). This data can be used to create a user profile. Cookies may be used to do this. Cookies enable recognition of a user's browser but they do not personally identify users. The data collected by etracker is stored anonymously under an abbreviated form, as a "pseudonym" so that is it not possible to identify individual users. 
 
-When registering for the Trusted Shops guarantee by Atradius, you will be requested to agree to the storage, processing and use of your data by the Trusted Shops GmbH. Please note: We cannot offer the Trusted Shops guarantee without this agreement.
+Unless you give your express consent, data collected with etracker technologies will not used to personally identify you by this website and is not combined with personal data about you or pseudonym data. 
 
-In order to handle possible claims arising from the Trusted Shops guarantee, we require that you provide your name, address, e-mail adress, the total purchase price, the name of the online shop concerned and the date of delivery agreed upon. While registering for the Trusted Shops guarantee, we do not require any information on the description of the goods purchased, payment method, credit card number or bank account. We will store your data for a maximum of six months for handling possible claims. Your data will be automatically erased from our database after this period of time.
+You may refuse future collection and storage for the purposes of web analysis by etracker at any time on [this website](http://www.etracker.de/privacy?et=V23Jbb). 
 
-Of course, you can have your data deleted at any time; for this purpose please contact our data protection officer. However, the Trusted Shops guarantee will expire thereafter. Your data will be used exclusively for handling matters pertaining to the Trusted Shops guarantee, this means we will store and process only information and data, required to process reimbursement claims.
+You can change your browser settings so that you are informed about the creation of cookies and either decide each time whether to allow cookies or to block them completely. By disallowing cookies, you may restrict the functionality of our website. 
 
-### What kind of data is collected when I sign up for the newsletter?
+**Which data is collected and used if I register for Trusted Shops Buyer Protection?**
 
-When you sign up for our newsletter we will use the given data to provide you with our newsletter. Your email address is required to sign up. All other information is given voluntary. The newsletter contains our current information posts as well as offers of the Trusted Shops GmbH and third-party offers. It is possible to unsubscribe from the newsletter at any time.
+When registering for Trusted Shops Buyer Protection, you will be asked to consent to the storage, processing and use of your data by Trusted Shops GmbH. We do of course respect your decision not to grant us consent. However, in this case you will not be entitled to Trusted Shops Buyer Protection. 
 
-### Is my personal information transferred to third-parties?
+In order to register for Buyer Protection, we require: 
 
-Your personal data will not be transferred to third parties. You will receive relevant e-mails only from the Trusted Shops GmbH.
+  * your email address; 
+  * the name of the online shop; 
+  * the total purchase price;
+  * the selected payment method;
+  * the order number; and, in some cases, 
+  * the shop customer number. 
 
-### How is my personal Data protected against misuse?
 
-We protect our website and our system from unauthorised access through the latest technical and organisational measures available to protect your data from getting manipulated, destroyed or accessed by any unauthorised person. Whenever any personal Data is transferred, we use sophisticated encryption technologies to ensure the strictly confidential transfer of personal data/information such as terms of registration and guarantee.
 
-In addition, your personal data is protected by password, so it is only accessible to you. Our servers employ various security and authorisation technologies in order to prevent unauthorised access. When sharing your computer with others, please keep your password and other relevant information strictly confidential and always close your browser window after you have finished communicating with Trusted Shops to avoid any unauthorised access to your personal data.
+During registration, we do not know which products you have ordered nor do we have access to sensitive payment information such as your credit card number or bank details. 
 
-### How can I have my personal Data corrected, blocked or deleted?
+Your data will solely be used to be able to offer you Buyer Protection and to enable you to use the Trusted Shops System. In the Trusted Shops System, you can view your active and completed purchases made under the Buyer Guarantee, make any necessary claims for refunds and rate completed transactions. Your email address is used as your user name for access to the Trusted Shops System and is only stored for the purposes of the duration of your active account / membership. Only the information and data that is absolutely necessary to clarify possible claims for refunds is saved and processed. 
 
-After registration in Trusted Shops protected area by entering your e-mail address and your personal password, you will be able to check and edit your stored personal information at any time. Please contact us if you forgot your password or having problems while registering.
+You can also request that your data be deleted at any time. Please use our [contact form](https://www.trustedshops.com/en/contact.html) for this purpose. However, you will then loose the benefit of Trusted Shops Buyer Protection 
 
-You have the right to be informed of which of your data and information is stored. Additionally you have the right to have your data corrected, blocked or deleted. In a case like that, please contact our data protection officer.
+In the event of a Buyer Protection claim, we require additional information and personal data from you for the purposes of verifying and processing the refund claim. When claiming a refund, your name, address and in some cases your telephone number and your bank details for reimbursement are stored. This data is then stored for six months and used solely to complete the refund claim. After this period, the data is blocked from being used for any other purposes and after the expiration of the tax and commercial law period of storage the data is permanently deleted. 
 
-### Data protection officer
+**Which data is collected and used if I submit a customer rating?**
 
-Should you have questions or complaints regarding data protection at Trusted Shops, please contact our operational data protection officer directly:
+If you submit a rating using the Trusted Shops customer rating system without already being registered for Trusted Shops Buyer Protection, we require your email address in order to guarantee the validity and credibility of the rating. The email address is used exclusively to verify that the rating really originates from a customer of the rated shop and can be allocated to a proven purchase, and for these purposes the email address will be stored for the life of the rating. 
+
+By clicking on "Submit Review", you grant Trusted Shops GmbH the non-exclusive right to permanently store your rating with the corresponding email address in databases as well as the right to reproduce, publish or pass on the ratings and comments, in part or in full, both online as well as offline (e.g. print media, catalogues), and the right to make them publicly accessible. Your email address will never be publicly accessible. 
+
+**Which data is collected and used if I write a comment?**
+
+Personal data (email address, name) is collected if you voluntarily agree to this when commenting on an article. We use the data you choose to supply solely for the publication of your comment. Where you choose to leave a comment it is possible that you may wish to link your user name to your website. Your email address will not be published. 
+
+To prevent automatic spam comments, we use the Akismet spam filter service from Automattic Inc. on our sites. Akismet analyses submitted comments using certain criteria in order to prevent unwanted entries, such as advertisements. The data submitted and the IP address of the comment author are transferred to a server of the Automattic Inc. located outside the European Economic Area, in the USA where they are then processed and stored. By writing and submitting a comment, you consent to the transfer of your IP address and the entries you have made to the Automattic Inc. servers and storage on these servers. 
+
+**Which data is collected and used if I sign up for the newsletter?**
+
+We will only send you our newsletter where you have agreed to receive this. Submission of your email address is required to receive our newsletter any other information that you provide is optional. The newsletter contains current information and offers from Trusted Shops GmbH and from third parties that provide products to Trusted Shops GmbH. You may unsubscribe via our newsletter or at any time through [an email](mailto:service@trustedshops.co.uk?subject=Unsubscribe%20from%20newsletter&body=Please%20unsubscribe%20me%20from%20your%20newsletter.%20Thank%20you.). 
+
+**Will my data be passed on to third parties?**
+
+Other than the disclosures referred to in this privacy policy, your data is not passed on to third parties without your express permission. Neither Trusted Shops GmbH nor our insurance partner, Atradius Versicherungsgruppe will pass your personal data on to third parties. You will receive emails solely from Trusted Shops GmbH. 
+
+**How is my data protected from misuse?**
+
+We place great importance on the security of all personally identifiable information associated with our users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it. 
+
+Using the latest technical and organisational measures, we secure our website and other systems from loss, destruction, access to, change or publication of your data by third parties. We use encryption technology to ensure the highest level of confidentiality when transferring personal data such as enquiry, registration or buyer protection data. Your personal data is password protected, meaning that only you have access to it. Our servers use various security mechanisms and authorisation procedures in order to impede unauthorised access. You should never disclose your access information to others and always close the browser window when you have completed communication with Trusted Shops. You can thereby ensure that nobody can access your personal data if you use a shared computer. 
+
+You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via our website whilst it is in transit over the internet and any such submission is at your own risk. 
+
+**How can I amend, block or delete my personal data?**
+
+You can view and edit your own user information at any time in the secure area of the Trusted Shops homepage by logging in with your email address and password. If you forget your password or have problems logging in, please contact us. Please use the [contact form](https://www.trustedshops.com/en/contact.html) to request that your user information be deleted. 
+
+You have the right to request information about your saved data, as well as the right to amend, block or delete this data as well as the right to correct any errors or request changes to this data. Such request will be free of charge. Please contact our data protection officer in this regard. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes. 
+
+**Contacting us**
+
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to privacy[at]trustedshops.com or write to our data protection officer at: 
 
 Lars Klatte  
 Trusted Shops GmbH  
-Colonius Carré  
 Subbelrather Straße 15c  
-50823 Cologne, Germany
-
-In addition to the internal data protection controls by the operational data protection officer, the German Federal Data Protection Act provides control authorities that will help you to enforce your rights. The regulatory agency of North Rhine-Westphalia responsible for Trusted Shops is:
-
-The data protection commissioner of North Rhine-Westphalia  
-Ulrich Lepper  
-Reichsstr. 43,  
-40217 Duesseldorf, Germany  
-Phone: +49-(0)211 38424-0  
-Fax: +49-(0)211 38424-10  
-E-Mail: datenschutz [at] mail.lfd.nrw.de
+50823 Cologne 
