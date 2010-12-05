@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106153139id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205111237id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy - Open Text Corporation
+# Privacy and Security Policy - OpenText Corporation
 
 **Privacy and Security**
 
-Open Text is committed to protecting your personal information. This statement explains our practices for this Web site.
+OpenText is committed to protecting your personal information. This statement explains our practices for this Web site.
 
 **What Personal Information We Gather**
 
@@ -16,7 +16,7 @@ We only use the personal information we gather for purposes that you have agreed
 
 **Who Has Access to It**
 
-Only people within Open Text who need to access your personal information can access it; for example, the people who send a newsletter need to know your email address. 
+Only people within OpenText who need to access your personal information can access it; for example, the people who send a newsletter need to know your email address. 
 
 **How We Share It**
 
@@ -40,9 +40,9 @@ We use current security measures to safeguard your personal information.
 
 ·All the personal information you provide us is stored in a secure computing environment protected by secure firewalls to prevent unauthorized access. 
 
-·We control access so that only people who need to access the information can. All staff of Open Text are required to adhere to a security agreement. 
+·We control access so that only people who need to access the information can. All staff of OpenText are required to adhere to a security agreement. 
 
-·To use the Knowledge Center, you must use a unique, confidential Open Text userID and password. 
+·To use the Knowledge Center, you must use a unique, confidential OpenText userID and password. 
 
 ·When you use secure areas of the site, we use Secure Sockets Layer (SSL) protocol with 128-bit encryption. This means that all the information sent between your computer and our secure computer environment is encrypted or scrambled so that no one can read it in transit. You can read it and we can read it-no one else. There are two cues to show you that you are using a secure area. First, the Web site address (or URL) appears as https:// (instead of just http://)-the "s" is for "secure." Second, a lock or key indicator appears in the status bar of your Web browser. 
 
@@ -62,13 +62,13 @@ Our Web site stores information in a small text file, called a cookie, on your c
 
 **Our Use of Cookies**
 
-Open Text stores a unique number (not any personal information) in the cookie that we place on your computer. We use this cookie to determine if you have visited the site before, and to ensure you are only prompted once to fill in certain forms such as our Document Download form. The information we store in the cookie does not include data such as your name, company, email address, telephone number, state/province, country or the industry you work in. 
+OpenText stores a unique number (not any personal information) in the cookie that we place on your computer. We use this cookie to determine if you have visited the site before, and to ensure you are only prompted once to fill in certain forms such as our Document Download form. The information we store in the cookie does not include data such as your name, company, email address, telephone number, state/province, country or the industry you work in. 
 
 **Note:** If you do not allow cookies to be saved on your computer, you will not be able to download information from this site. 
 
 **Security Concerns**
 
-Once the cookie is saved on your computer, our Web site is the only site that can access and read the information that you provide. Open Text will not provide this information to any third parties or use it for sending unsolicited email.
+Once the cookie is saved on your computer, our Web site is the only site that can access and read the information that you provide. OpenText will not provide this information to any third parties or use it for sending unsolicited email.
 
 **Java and Javascript**
 
