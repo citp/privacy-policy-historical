@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysia-today.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214031id_/http%3A//www.malaysia-today.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D28424%26Itemid%3D100117) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysia-today.net privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205013703id_/http%3A//malaysia-today.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,3 @@ At Malaysia Today we appreciate your readership and value your personal privacy.
 (3) by sharing personal information when you post comments on our posts or stories. 
 
 We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. At no time does any party other than Malaysia Today have access to your personally identifiable information. Our databases are stored in highly secure servers and are not accessible from within Malaysia. 
-
-  
-
