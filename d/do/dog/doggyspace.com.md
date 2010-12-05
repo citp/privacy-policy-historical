@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the doggyspace.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429050041id_/http%3A//www.doggyspace.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doggyspace.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205121432id_/http%3A//www.doggyspace.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Doggyspace.com
 
-Posted:  October 24th, 2008
-
-DoggySpace.com’s Privacy Policy will help you understand how we collect and use the personal information you share with us through the DoggySpace.com web site, and will help you make informed decisions when using DoggySpace.com and its directly associated domains (collectively, "DoggySpace.com" or "Site")
-
-By using or accessing DoggySpace.com, you are accepting the practices described in this Privacy Policy.
-
-This privacy statement covers the site www.DoggySpace.com and its directly associated domains. If you have questions or concerns regarding this statement, you should contact us by mail at DoggySpace.com Privacy Officer, DoggySpace.com, LLC., 725 Jackson Street, Suite 216, Fredericksburg, Virginia 22401.
-
-Doggyspace.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.
-
-Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact us at support@doggyspace.com .  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
- **Policies, Revisions, Notices**   
+**Policies, Revisions, Notices**   
 Your use of the Site, including any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all dispute resolution provisions therein, including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
 **Information Collected By Us**   
