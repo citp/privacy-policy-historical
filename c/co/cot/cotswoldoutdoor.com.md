@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203222806id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/showinfo/templatename/privacy_policy.html/menuname/Privacy_%26_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206103452id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/main.data/filename/privacy_policy.html) for the most accurate reproduction.*
 
-# Outdoor Clothing, Climbing and Camping Equipment | Cotswold Outdoor
+# | Cotswold Outdoor
 
 This privacy policy covers the Cotswold Outdoor Ltd Group and its Web sites. 
 
