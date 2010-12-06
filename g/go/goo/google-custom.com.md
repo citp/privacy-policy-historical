@@ -1,46 +1,54 @@
-> *The following text is extracted and transformed from the google-custom.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206130636id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google-custom.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206173337id_/http%3A//www.autocompletepro.com/privacy) for the most accurate reproduction.*
 
-# PredictAd - Privacy Policy
+# AutocompletePro Privacy Policy
 
-**PredictAd Privacy Policy Highlights**  
-May 14, 2007
+Here at PredictAD we value your privacy and believe that transparency and cooperation is the only way to reach our users and provide them with the best service available. In order to allow you more information regarding your rights, and to let you know what and where is made with your information, as well as how we process it, we have set up this privacy policy.  
+Please note that while this privacy policy covers the use of our search tools, some of our partners and advertisers may have different policies and you should inspect their policies as well. We highly recommend that you check from time whether our policy has changed. 
 
-We recognize the importance of privacy. This document outlines the types of personal information we receive and collect when you use PredictAd's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+1\. What information do we save? 
 
-**Personal information and other data we collect**
+We save some information in order to provide you with the best of services, and we only save the information required. Therefore, we do nor use any excess information and will not store it, nor will we store information for an excessive amount of time. We save information on your computer to better let us know your personal preferences, and some information on our servers to assist us in processing the information into aggregated, non-personally identifiable information. 
 
-  * PredictAd collects personal information when you register for a PredictAd service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other PredictAd services or third parties to provide a better user experience, including customizing content for you.
-  * PredictAd uses cookies and other technologies to enhance your online experience and to learn about how you use PredictAd services in order to improve the quality of our services.
-  * PredictAd's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
+2\. What do we save on our servers?
 
+In order to create profiles and assist in the delivery of relevant information, we retain the following information on our servers: (i) your last searches and keystrokes in search boxes, (ii) URLs where you performed the search, (iii) usage rates, which is our measure of how successful were our predictions, (iv) what advertisements and suggested searches you clicked on, (v) searches which had no results, (vi) your user agent and IP address, (vii) your personal application settings and (viii) the partner which referred you to our services. 
 
+3\. What do we save on your computer? 
 
-**Uses**
+In order to identify the computer you are browsing from and provide it with customized services, we store a few cookies on your computer. A cookie is a small text file which contains some information which may only be read by us and contains the following information: (i) your last few searches, (ii) your personal settings, (iii) your country and state and (iv) whether you chose private browsing mode or not.
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
-  * We may also use personal information for auditing, research and analysis to operate and improve PredictAd technologies and services.
-  * We may share aggregated non-personal information with third parties outside of PredictAd.
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
+4\. What will we never save? 
 
+We value your privacy and try as much as possible to refrain from any activity which may be considered as invasion of your privacy and therefore we will never: (i) use a unique ID on your user, browser or computer for any purpose other than statistical improvement of our services (ii) save or send any password you submit to any website, (iii) operate our services in any HTTPS webpage. 
 
+5\. How is information processed? 
 
-**Your choices  
-**
+Every time you browse a webpage, we receive information regarding your visit, the page you are viewing, related keywords and your cookie. Our server sends you personal preferences and information regarding the specific page you are viewing. However, the information of what pages you visited is never saved by us unless you submit information to the search box. 
 
-  * We offer you choices when we ask for personal information, whenever reasonably possible.
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
-  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
+6\. Where is information saved? 
 
+We use encryption for information stored on our servers and servers are stored in a secure location. Only a limited number of our employees may access some information, but no employee may access personal information or view your history. Our staff receives periodical instructions regarding privacy, and updates and maintains the servers up to date with software updates and patches.   
+7\. Can you remove your information? 
 
+At PredictAD, we believe that your information is your information. Therefore, we believe that you should have the right to decide whether to allow us to store it or not. When you uninstall our application or product you may request to remove all the information we stored about your preferences, searches and any other information. Moreover, you may press [here](http://predictad.com/privacy/markForDataDel.aspx) to remove all the information.   
+Please keep in mind that information which was processed to aggregated, non-personally identifiable information may still be used, but we will remove any identifiable or personal information within a short period of time.   
+You may also manually remove our cookies from your browser's cache. 
 
-**More information  
-**   
-If you wish to opt-out out from any of PredictAd's services please email us at support@predictad.com.   
-For more information about our privacy practices, please contact us any time.   
-Or write to us at: 
+8\. Can you prevent us from saving information?
 
-Privacy Matters  
-SimplyGen Ltd.(PredictAd)  
-400 Northridge Road  
-Atlanta, Georgia 30350 
+Yes.  
+As we believe that your information is your information, you may request that we will not store any information about you. You may do so either by (i) enabling Private Browsing Mode in your toolbar preferences, or (ii) clicking [here](http://predictad.com/privacy/PrivateMode.aspx), where we will store a cookie telling our servers not to log any information about you. 
+
+9\. When is information removed?
+
+We retain information for a short period of time and most information is not retained for more than a year. We only use the information in order to process it to aggregated, non-personally identifiable information and in order to adhere with law enforcement authorities. 
+
+10\. Who else can see the information?
+
+The information we process may be seen by our business partners, which receive aggregated, non-personally identifiable information regarding his users. Moreover, we process the information to our public domains.   
+We may also, in rare cases, share information with our advertisers in cases where there are disputes in regarding to clicks or purchases. 
+
+11\. Who should you contact in case you believe your privacy was violated?  
+As we highly value your privacy, we appointed a privacy officer which may inquire and investigate any activity in our company and inflict sanctions. Should you believe that your privacy was violated by PredictAD, please contact [privacy@predictad.com](mailto:privacy@predictad.com) and we shall commence with the inquiry soon. 
+
+Updated: August, 2010 
