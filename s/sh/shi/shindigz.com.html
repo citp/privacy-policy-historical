@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the shindigz.com privacy policy that was archived on 2010-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100212111548id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shindigz.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206011730id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.-->
 
-<html><head>
-		<title>ShincigZ Site Security</title> 
-		<meta name="description" content="ShindigZ follows all industry standards necessary to ensure a secure shopping experience.">
-		<meta name="keywords" content="shindigz site security">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html><head>
+		<title>Shindigz Site Security, Privacy Policy</title> 
+		<meta name="description" content="Shindigz follows all industry standards necessary to ensure a secure shopping experience.">
+		<meta name="keywords" content="shindigz site security, privacy policy">
 		<meta name="robots" content="all">
 		<meta name="verify-v1" content="uJCcv2Msj21pNaml+dx1brBBR5tdmaCA1v2UNoBXk30=">
-      <link rel="shortcut icon" href="/graphics/favicon.ico" type="image/x-icon">
-		<link rel="STYLESHEET" type="text/css" href="/shindigz-style.css">
-		<link rel="STYLESHEET" type="text/css" href="/graphics/site/overlay/overlay.css">
-		<script language="JavaScript" src="/scripts/stumpsstandard.js"></script>
+		<link rel="shortcut icon" href="/graphics/favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="//shindigz.recs.igodigital.com/a/stylesheets/shindigz.css">
+		<link rel="stylesheet" type="text/css" href="/shindigz-style.css">
+		<link rel="stylesheet" type="text/css" href="/graphics/site/overlay/overlay.css">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" src="/scripts/stumpsstandard.js"></script>
 		<script language="JavaScript" src="/scripts/addressValidation.js"></script>
 		<script language="JavaScript" type="text/javascript" src="/scripts/flash_script_DO_NOT_DELETE.js"></script>
 		<script type="text/javascript" src="/scripts/jquery/jquery-1.3.2.min.js"></script>
@@ -18,46 +19,63 @@
 		<script src="/scripts/jquery/jquery.expose-1.0.0.js" type="text/javascript"></script>
 		<script src="/scripts/jquery/jquery.buyform.js?date=110209" type="text/javascript"></script>
 		<script src="/scripts/jquery/jquery.cartform.js" type="text/javascript"></script>
+		<script src="/scripts/jquery/jquery.cycle.all.min.js" type="text/javascript"></script>
+		<script src="/scripts/jquery/jquery.countdown.min.js" type="text/javascript"></script>
 		<script type="text/javascript">
-			function P7_ExpMenu(){
-			 if(navigator.appVersion.indexOf("MSIE")==-1){return;}
-			 var i,k,g,lg,r=/\s*p7hvr/,nn='',c,cs='p7hvr',bv='p7menubar';
-			 for(i=0;i<10;i++){g=document.getElementById(bv+nn);if(g){
-			 lg=g.getElementsByTagName("LI");if(lg){for(k=0;k<lg.length;k++){
-			 lg[k].onmouseover=function(){c=this.className;cl=(c)?c+' '+cs:cs;
-			 this.className=cl;};lg[k].onmouseout=function(){c=this.className;
-			 this.className=(c)?c.replace(r,''):'';};}}}nn=i+1;}
-			}
-			
-			function P7_ExpMenu_(){
-			 if(navigator.appVersion.indexOf("MSIE")==-1){return;}
-			 var i,k,g,lg,r=/\s*p7hvr/,nn='',c,cs='p7hvr',bv='p7menubar_';
-			 for(i=0;i<10;i++){g=document.getElementById(bv+nn);if(g){
-			 lg=g.getElementsByTagName("LI");if(lg){for(k=0;k<lg.length;k++){
-			 lg[k].onmouseover=function(){c=this.className;cl=(c)?c+' '+cs:cs;
-			 this.className=cl;};lg[k].onmouseout=function(){c=this.className;
-			 this.className=(c)?c.replace(r,''):'';};}}}nn=i+1;}
-			}			
-			
+
 			$(function(){
-				P7_ExpMenu(); 
-				P7_ExpMenu_();
+
+
 				$("form[name*='frmBuy_']").buyform();
 				$("#cartslider").cartform({sliderstyle:{backgroundColor: '#efefef',border:'1px solid #cdcdcd'}});
-			})
-			
-		</script>		
+				$("#newsticker ul").cycle({fx: 'scrollUp', next: '#nextnews', prev: '#prevnews', pause:1, delay:-6000, fastOnEvent:1, timeout: 8000});
+				$("#newsticker").show();
+			});
 
+
+$(function(){
+	var m = parseInt($("#leftNavCountdown").attr("m"))-1;
+	var d = parseInt($("#leftNavCountdown").attr("d"));
+	var y = parseInt($("#leftNavCountdown").attr("y"));
+	$("#leftNavCountdown").countdown({until: new Date(y,m,d),
+	    layout: '<b>{dnn}</b>d, <b>{hnn}</b>h, <b>{mnn}</b>m, <b>{snn}</b>s'});
+});	
+		</script>
 	</head>
 	
 	<body bgcolor="ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<table id="tblNewsticker" width="1000" height="25" border="0" cellpadding="0" cellspacing="0" align="center">
+			<tbody><tr>
+				<td style="width: 124px; height: 25px;"><img src="/graphics/homepage/newsTicker_01.jpg" width="124" height="25" alt=""></td>
+				<td style="width: 16px; height: 25px;"><a href="#"><img id="prevnews" src="/graphics/homepage/newsTicker_02.jpg" alt="" width="16" height="25" border="0"></a></td>
+				<td style="width: 16px; height: 25px;"><a href="#"><img id="nextnews" src="/graphics/homepage/newsTicker_03.jpg" alt="" width="16" height="25" border="0"></a></td>
+				<td style="padding:0px; margin:0px; height: 23px; width: 655px; border-top: 1px solid rgb(172, 172, 172); border-bottom: 1px solid rgb(172, 172, 172); background-color: rgb(234,234,234);">
+				<div id="newsticker">
+					<ul style="position: relative; width: 453px; height: 18px; overflow: hidden;">
+					<li style="position: absolute; top: 0px; left: 0px; display: list-item; z-index: 11; opacity: 1;"><a href="http://www.shindigz.com/party/news/Adam-Sandler-invites-guests-to-holiday-gala.cfm" title="Adam Sandler invites 5,000 guests to holiday gala">Adam Sandler invites 5,000 guests to holiday gala</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 9;"><a href="http://www.shindigz.com/party/news/Star-studded-evening-for-Barneys-Version-premiere.cfm" title="Star studded evening for Barney’s Version premiere">Star studded evening for Barney’s Version premiere</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 8;"><a href="http://www.shindigz.com/party/news/NYC-Company-Foundation-host-leadership-awards-gala.cfm" title="NYC &amp; Company Foundation host leadership awards gala">NYC &amp; Company Foundation host leadership awards gala</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 7;"><a href="http://www.shindigz.com/party/news/Saturday-Night-Live-gala-with-the-Blues-Brothers.cfm" title="“Saturday Night Live” gala with the Blues Brothers">“Saturday Night Live” gala with the Blues Brothers</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 6;"><a href="http://www.shindigz.com/party/news/Snoop-Dogg-debuts-bachelor-party-anthem-Wet-for-Prince-William.cfm" title="Snoop Dogg debuts bachelor party anthem, “Wet,” for Prince William">Snoop Dogg debuts bachelor party anthem, “Wet,” for Prince William</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 5;"><a href="http://www.shindigz.com/party/news/Mark-Twain-turns-years-old.cfm" title="Mark Twain turns 175 years old">Mark Twain turns 175 years old</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4;"><a href="http://www.shindigz.com/party/news/Christmas-party-to-bring-cheer-to-autistic-children.cfm" title="Christmas party to bring cheer to autistic children">Christmas party to bring cheer to autistic children</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3;"><a href="http://www.shindigz.com/party/news/Chad-Ochocinco-announces-engagement.cfm" title="Chad Ochocinco announces engagement">Chad Ochocinco announces engagement</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2;"><a href="http://www.shindigz.com/party/news/Stella-McCartney-turns-on-the-Christmas-lights.cfm" title="Stella McCartney turns on the Christmas lights">Stella McCartney turns on the Christmas lights</a></li>
+					<li style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1;"><a href="http://www.shindigz.com/party/news/Dior-ventures-under-the-sea-with-party-celebrating-a-new-store-opening.cfm" title="Dior ventures under the sea with party celebrating a new store opening">Dior ventures under the sea with party celebrating a new store opening</a></li>
+					</ul>
+				</div>
+				</td>
+				<td style="width: 11px; height: 25px;"><img src="/graphics/homepage/newsticker_06.jpg" width="11" height="25" alt=""></td>
+				<td style="width: 178px; height: 25px; text-align:right"><a href="/party/news/"><img src="/graphics/homepage/read-all-button.jpg" alt="" width="175" height="25" border="0"></a></td>
+			</tr>
+	</tbody></table>
 	
 <table width="1000" cellpadding="0" cellspacing="0" border="0" align="center">
 	<tbody><tr valign="top">
 		<td colspan="2"><!--header.cfm--><table border="0" cellpadding="0" cellspacing="0" height="0" align="center" bgcolor="ffffff"><tbody><tr><td width="364" height="110" colspan="1" rowspan="2" valign="middle">
-<!--logo--><a href="http://www.shindigz.com/index.cfm"><div align="center"><img src="/templateimg/header/logo/logo8.jpg" align="center" border="0" alt="Shop 38,000 party supplies and party decorations" hspace="0" vspace="0"></div></a></td><td width="636" height="28" colspan="2" rowspan="1" background="/backgrounds/header/HP_03_21.jpg" valign="middle">
+<!--logo--><a href="http://www.shindigz.com/index.cfm"><div align="center"><img src="/templateimg/header/logo/logo4.jpg" align="center" border="0" alt="Shop 38,000 party supplies and party decorations" hspace="0" vspace="0"></div></a></td><td width="636" height="28" colspan="2" rowspan="1" background="/backgrounds/header/HP_03_21.jpg" valign="middle">
 <!--links--><div align="right"><div class="topnav">
-<a href="http://www.shindigz.com/index.cfm" title="Party Supplies Home">Home</a> | <a href="http://shindigzparty.wordpress.com/" target="_blank">Party Ideas</a> | <a href="http://www.shindigz.com/service.cfm?page=catalog_request" title="Party Supplies Catalog" rel="nofollow">Free Catalog</a> | <a href="http://www.shindigz.com/servicepage.cfm?pgp=SZSHIP" rel="nofollow">Shipping</a> | <a href="http://www.shindigz.com/order_status.cfm" rel="nofollow">Tracking Your Order</a> | <a href="http://www.shindigz.com/servicepage.cfm?caid=977072" rel="nofollow">Customer Service</a>
+<a href="http://www.shindigz.com/index.cfm" title="Party Supplies Home">Home</a> | <a href="http://shindigzparty.wordpress.com/" target="_blank">Party Ideas</a> | <a href="http://www.shindigz.com/service.cfm?page=catalog_request" title="Party Supplies Catalog" rel="nofollow">Free Catalog</a> |  <a href="http://www.shindigz.com/catalogs/2010/157/index.html" title="Party Supplies Online Catalog" rel="nofollow" target="_blank">Online Catalog</a> | <a href="http://www.shindigz.com/servicepage.cfm?pgp=SZSHIP" rel="nofollow">Shipping</a> | <a href="http://www.shindigz.com/order_status.cfm" rel="nofollow">Tracking Your Order</a> | <a href="http://www.shindigz.com/servicepage.cfm?caid=977072" rel="nofollow">Customer Service</a>
 </div></div></td></tr><tr><td width="371" height="82" colspan="1" rowspan="1" valign="middle">
 <!--deals--><div align="center"><table width="100%" height="82" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -66,7 +84,7 @@
 
 <!--<a onclick="ST_popUp('fall08/promo.html','Offer','505','290','No');" style="cursor:pointer">-->
 
-    <img src="/templateimg/header/deals/VSCT2R.jpg" alt="FRIDAY ONLY: Save $15 on orders $85. Use promotional code VSCT2R at checkout. This offer may be used for all on-line orders from ShindigZ.com. Offer not valid on previous orders and cannot be combined with any other offer. Savings does not apply to shipping. This offer expires 2/12/2010, 11:59 PM EST." title="FRIDAY ONLY: Save $15 on orders $85. Use promotional code VSCT2R at checkout. This offer may be used for all on-line orders from ShindigZ.com. Offer not valid on previous orders and cannot be combined with any other offer. Savings does not apply to shipping. This offer expires 2/12/2010, 11:59 PM EST." border="0">
+    <img src="/templateimg/header/deals/VSFHH9.jpg" alt="THIS WEEKEND ONLY: Free Shipping on orders over $65. Use promotion code VSFHH9 during checkout. Discount applies to ground shipped orders within the continental United States only. Cannot be used on previous orders or combined with any other offer. Offer expires on 12/5/10 at 11:59 PM EST." title="THIS WEEKEND ONLY: Free Shipping on orders over $65. Use promotion code VSFHH9 during checkout. Discount applies to ground shipped orders within the continental United States only. Cannot be used on previous orders or combined with any other offer. Offer expires on 12/5/10 at 11:59 PM EST." border="0">
 
 <!--</a>-->
     </td>
@@ -80,9 +98,19 @@
 
 <!--<td align="center" valign="middle" width="25%"><a href="http://www.shindigz.com/servicepage.cfm?caid=977045" title="Low priced party supplies guarantee"><img src="/templateimg/leftnav/lowestprice.jpg" border="0" alt="Low priced party supplies guarantee"></a></td>-->
 
+<!--<td align="center" valign="middle" width="25%"><a href="http://www.facebook.com/Shindigz?v=app_130168087029491" alt="Win a free iPad" target="_blank"><img src="/templateimg/header/deals/ipad-button3.jpg" border="0" alt="Win a free iPad"></a></td>-->
 
 
-    <td align="center" valign="middle" width="25%"><a href="http://www.shindigz.com/dod.cfm" alt="For discount party supplies, shop the ShindigZ Deal of the Day"><img src="/templateimg/header/deals/ShindigZ-Deal-of-the-Day2.jpg" border="0" alt="For discount party supplies, shop the ShindigZ Deal of the Day"></a></td>
+<td align="center" valign="middle" width="25%"><a href="http://www.shindigz.com/dod.cfm" alt="For discount party supplies, shop the ShindigZ Deal of the Day"><img src="/templateimg/header/deals/ShindigZ-Deal-of-the-Day2.jpg" border="0" alt="For discount party supplies, shop the ShindigZ Deal of the Day"></a></td>
+
+<!--<td align="center" valign="middle" width="25%"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="10">&nbsp;</td>
+    <td><a href="/catalog.cfm?cat=49589" alt="For discount party supplies, shop the ShindigZ 4 at 4"><img src="/templateimg/header/deals/4at42.jpg" border="0" alt="For discount party supplies, shop the ShindigZ 4 at 4"></a></td>
+    <td width="10">&nbsp;</td>
+  </tr>
+</table></td>-->
+<!--<td align="center" valign="middle" width="25%"><a href="http://www.shindigz.com/dod.cfm" alt="For discount party supplies, shop the ShindigZ Deal of the Day"><img src="/templateimg/header/deals/ShindigZ-Deal-of-the-Day2.jpg" border="0" alt="For discount party supplies, shop the ShindigZ Deal of the Day"></a></td>-->
 
 
 
@@ -97,7 +125,7 @@
 
 
 <tr>
-	<td align="right"><img src="/templateimg/header/deals/paypal.jpg" border="o" alt="Now accepting PayPal"></td>
+	<td align="right"><a href="http://www.shindigz.com/servicepage.cfm?caid=977045"><img src="/templateimg/header/cart/lowestprice.jpg" border="o" alt="Our lowest price guarantee"></a></td>
 </tr>
 
 
@@ -111,9 +139,9 @@
     <td width="57">&nbsp;</td>
     <td width="110" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=14812" style="font-size:14px">Decorations</a></div></td>
     <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=17938" style="font-size:14px">Banners</a></div></td>
-    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=37567" style="font-size:14px">Photo Ops</a></div></td>
-    <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=25320" style="font-size:14px">Tableware</a></div></td>    
-    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=16711" style="font-size:14px">Favors</a></div></td>
+    <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=25320" style="font-size:14px">Tableware</a></div></td>      
+    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=16711" style="font-size:14px">Party Favors</a></div></td>
+<td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=25597" style="font-size:14px">Backgrounds</a></div></td>
     <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=15021" style="font-size:14px">Gossamer</a></div></td>
     <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=25266" style="font-size:14px">Balloons</a></div></td>
     <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=46467" style="font-size:14px">Invitations</a></div></td>
@@ -129,12 +157,12 @@
     
     <table width="1000" height="25" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="110" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=14857" style="font-size:14px">Valentine's</a></div></td>
-    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=14829" style="font-size:14px">Mardi Gras</a></div></td>
-    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=47398" style="font-size:14px">Create It!</a></div></td>
+    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=16693" style="font-size:14px">Christmas</a></div></td>
+    <td width="109" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=17131" style="font-size:14px">New Year's</a></div></td>
+    <td width="112" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=44520" style="font-size:14px">Personalized</a></div></td>
     <td width="113" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=45679" style="font-size:14px">Standees</a></div></td>
+    <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=37567" style="font-size:14px">Photo Ops</a></div></td>    
     <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=48149" style="font-size:14px">Candy Bars</a></div></td>
-    <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=45706" style="font-size:14px">Wall Decals</a></div></td>
     <td width="111" align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=48601" style="font-size:14px">Party Games</a></div></td>
     <td width="111" align="center" valign="middle"><div class="tabs"><a target="_blank" href="http://shindigzparty.wordpress.com/" style="font-size:14px">Party Ideas</a></div></td>
     <td align="center" valign="middle"><div class="tabs"><a href="http://www.shindigz.com/catalog.cfm?cat=14847" style="font-size:14px">Outlet</a></div></td>
@@ -204,7 +232,7 @@
 <p>Please rest assured that shopping on ShindigZ is safe and secure! You'll find the experience fun, easy and quick. </p><a name="privacy"></a><br>
 <h3 align="center">Privacy Policy</h3>
 
-<p>Revised April 2004</p>
+
 <p>We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.</p>
 <p>Please note:</p>
 <ul>
@@ -266,88 +294,88 @@
 	<tr>
 		<td valign="top" width="175" height="100%"><!--leftnav.cfm--><table border="0" cellpadding="0" cellspacing="0" height="100%" align="center" bgcolor="ffffff"><tbody><tr><td width="175" height="800" colspan="1" rowspan="1" valign="top">
 <!--leftnav--><div align="left"><table width="175"><tbody><tr><td align="center">
-<div class="number">1.800.314.8736</div>
-
+<div class="number"><font size="1">Join our party conversation:</font></div>
 <br><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="center"><a href="http://www.facebook.com/Shindigz" target="_blank" title="Facebook"><img alt="Facebook" src="/templateimg/leftnav/facebook1.png" width="23" height="23" border="0"></a></td>
     <td align="center"><a href="http://twitter.com/ShindigZ" target="_blank" title="Twitter"><img alt="Twitter" src="/templateimg/leftnav/twitter1.png" width="23" height="23" border="0"></a></td>
     <td align="center"><a href="http://www.youtube.com/ShindigZParty" target="_blank" title="YouTube"><img alt="YouTube" src="/templateimg/leftnav/youtube1.png" width="23" height="23" border="0"></a></td>
-    <td align="center"><a href="http://friendfeed.com/shindigz" target="_blank" title="FriendFeed"><img alt="FriendFeed" src="/templateimg/leftnav/friendfeed.png" width="23" height="23" border="0"></a></td>
+
     <td align="center"><a href="http://shindigzparty.wordpress.com/" target="_blank" title="RSS"><img alt="RSS" src="/templateimg/leftnav/rss1.png" width="23" height="23" border="0"></a></td>
   </tr>
 </tbody></table><br>
 
 
 <img src="/templateimg/leftnav/divider.jpg"><br>
+
+<!-- COUNTDOWN -->
 <table width="166" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="/templateimg/leftnav/mardigras1.jpg" width="166" height="50"><table width="166" border="0" cellspacing="0" cellpadding="0">
+    <td background="/templateimg/leftnav/christmas-countdown-bg1.jpg" width="166" height="50"><table width="166" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="166" height="23"></td>
-  </tr>
-  <tr>
-    <td width="166" height="27" align="right" valign="top"><a href="http://www.shindigz.com/catalog.cfm?cat=17131" style="text-decoration:none" title="Shop Mardi Gras">
-    <font size="1" face="Arial, Helvetica, sans-serif" color="#6e3a94">Tuesday, February 16&nbsp;<br>
-		          <script language="JavaScript">
-TargetDate = "2/16/2010 12:00 AM";
-BackColor = "white";
-ForeColor = "6e3a94";
-CountActive = true;
-CountStepper = -1;
-LeadingZero = true;
-DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
-                </script>
-                  <script language="JavaScript" src="/scripts/countdown.js"></script><span id="cntdwn" style="background-color:white; color:6e3a94"></span>&nbsp;
-		          </font></a>
+    <td width="166" height="50" align="right" valign="middle">
+    
+    <a href="/catalog.cfm?cat=16693" style="text-decoration:none" title="COUNTDOWN TO CHRISTMAS">
+    <font size="1" face="Verdana, Geneva, sans-serif" color="#ff0000">
+<strong>COUNTDOWN TO<br>
+CHRISTMAS<br></strong>
+<span id="leftNavCountdown" m="12" d="25" y="2010" class="hasCountdown"><b>00</b>d, <b>00</b>h, <b>00</b>m, <b>00</b>s</span></font></a>
     </td>
   </tr>
+ 
 </tbody></table>
 </td>
   </tr>
   <tr>
-    <td align="center"><a href="http://www.shindigz.com/catalog.cfm?cat=14829"><img src="/templateimg/leftnav/mardigras2.jpg" alt="Shop Mardi Gras" title="Shop Mardi Gras" border="0"></a></td>
+    <td align="center"><a href="/catalog.cfm?cat=16693" title="Christmas Party Supplies"><img src="/templateimg/leftnav/shop-christmas.jpg" alt="Christmas Party Supplies" border="0"></a></td>
   </tr>
-</tbody></table>
+</tbody></table> 
+<img src="/templateimg/leftnav/divider.jpg"><br>
+<!-- -->
+<table align="center"><tbody><tr>
+<td><img src="/templateimg/leftnav/canada.jpg"></td>
+<td><div class="canada"><a title="Canadian Party Supply Orders Are Welcome" href="http://www.shindigz.com/servicepage.cfm?pgp=SZCANADA">We Make Shipping<br>&nbsp;To Canada Easy!</a></div></td>
+</tr></tbody></table>
 
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Theme Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=16672">Theme Parties</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
     <div class="nav_link">
-<a title="Mardi Gras Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14829">Mardi Gras</a><br>
-<a title="Winter Olympics Party Party" href="http://www.shindigz.com/catalog.cfm?cat=48865">Winter Olympics Party</a><br>
-<a title="Hollywood Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14826">Hollywood</a><br>
-<a title="Casino Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14809">Casino</a><br>
-<a title="Basketball Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=26112">Basketball Party</a><br>
-<a title="Luau Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14832">Luau</a><br>
-<a title="Fifties Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14819">Fifties</a> / <a title="Disco Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=34206">Disco</a><br>
-<a title="Retro Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=17189">Retro Party</a><br>
-<a title="Carnival Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=46328">Carnival</a><br>
+<a title="Football Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=31614">Football Party</a><br>
+<a title="Hollywood Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14826">Hollywood Party</a><br>
+<a title="Casino Night Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14809">Casino Night Party</a><br>
+<a title="Western Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14861">Western Party</a><br>
+<a title="Mardi Gras Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14829">Mardi Gras Party</a><br>
+<a title="Luau Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14832">Luau Party</a><br>
 <a title="Parisian Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14841">Parisian Party</a><br>
-<a title="Under the Sea Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14856">Under the Sea</a></div>
+<a title="Candy Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=49610">Candy Party <i><font color="ff0000">- NEW!</font></i></a><br>
+<a title="Stars Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14850">Stars Party</a><br>
+<a title="Rock Star Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=49389">Rock Star Party</a><br>
+<a title="Fifties Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14819">Fifties</a> / <a title="Disco Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=34206">Disco</a> / <a title="Retro Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=17189">Retro</a>
+</div>
     </td>
   </tr>
 </tbody></table>
-<div class="nav_link"><a title="Shop ALL Theme Parties" href="http://www.shindigz.com/catalog.cfm?cat=16672"><strong>Shop ALL. . .</strong></a></div>
+<div class="nav_link"><a title="Shop ALL Theme Parties" href="http://www.shindigz.com/catalog.cfm?cat=16672"><strong>Shop Dozens More. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45113">Birthday Parties</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
 <div class="nav_link">
+<a title="Shop Birthday Party Supplies by Theme" href="http://www.shindigz.com/catalog.cfm?cat=45115">by Theme</a><br>
 <a title="1st Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45379">1st Birthday Parties</a><br>
 <a title="Girl Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45130">Girl Birthday Parties</a><br>
 <a title="Boy Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45131">Boy Birthday Parties</a><br>
-<a title="Adult Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45377">Adult Birthday</a><br>
-<a title="Milestone Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45378">Milestone Birthday</a><br>
+<a title="Quinceañera Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=28940">Quinceañera Birthday</a><br>
+<a title="Sweet 16 Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=29427">Sweet 16 Birthday</a><br>
+<a title="Adult Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=29601">Adult Birthday</a><br>
 <a title="Shop Birthday Decorations" href="http://www.shindigz.com/catalog.cfm?cat=45117">Birthday Decorations</a><br>
-<a title="Shop Birthday Party Supplies by Theme" href="http://www.shindigz.com/catalog.cfm?cat=45115">by Theme</a><br>
-<a title="Shop Birthday Party Supplies by Age" href="http://www.shindigz.com/catalog.cfm?cat=45371">by Age</a><br>
 <a title="Birthday Party Favors" href="http://www.shindigz.com/catalog.cfm?cat=48646">Birthday Party Favors</a>
 </div>
     </td>
@@ -356,19 +384,18 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <div class="nav_link"><a title="Shop ALL Birthday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=45113"><strong>Shop ALL. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Holiday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=16671">Holiday Parties</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
 <div class="nav_link">
-<a title="Valentines Day Party Supplies - February 14th" href="http://www.shindigz.com/catalog.cfm?cat=14857">Valentine's Day Party</a><br>
-<a title="Chinese New Year Party Supplies - February 14th" href="http://www.shindigz.com/catalog.cfm?cat=46905">Chinese New Year</a><br>
-<a title="Fat Tuesday Party Supplies - February 16th" href="http://www.shindigz.com/catalog.cfm?cat=46544">Fat Tuesday</a><br>
-<a title="St. Patrick's Day Decorations - March 17th" href="http://www.shindigz.com/catalog.cfm?cat=17141">St. Patrick's Day</a><br>
-<a title="Spring Party Supplies - March 21st" href="http://www.shindigz.com/catalog.cfm?cat=26089">Spring Party Supplies</a><br>
-<a title="Easter Party Supplies - April 4th" href="http://www.shindigz.com/catalog.cfm?cat=48899">Easter Party Supplies</a><br>
-<a title="Cinco de Mayo Party Supplies - May 5th" href="http://www.shindigz.com/catalog.cfm?cat=27207">Cinco de Mayo</a>
+<a title="Hanukkah Party - December 1st-9th" href="http://www.shindigz.com/catalog.cfm?cat=48283">Hanukkah Party</a><br>
+<a title="Christmas Party Supplies - December 25th" href="http://www.shindigz.com/catalog.cfm?cat=16693">Christmas Party</a><br>
+<a title="Winter Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=16694">Winter Party</a><br>
+<a title="New Year's Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=17131">New Year's Party</a><br>
+<a title="National Popcorn Day Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=46886&#10;">National Popcorn Day</a><br>
+<a title="Super Bowl Party Supplies - February 6th" href="http://www.shindigz.com/catalog.cfm?cat=31614&#10;">Super Bowl Party</a><br><a title="Valentine's Day Party Supplies - February 14th" href="http://www.shindigz.com/catalog.cfm?cat=14857">Valentine's Day Party</a>
 </div>
     </td>
   </tr>
@@ -376,39 +403,41 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <div class="nav_link"><a title="Shop ALL Holiday Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=16671"><strong>Shop ALL. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Special Events" href="http://www.shindigz.com/catalog.cfm?cat=16676">Special Events</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
 <div class="nav_link">
+<a title="Walt Disney's Birthday" href="http://www.shindigz.com/catalog.cfm?cat=51306"><font color="ff0000">Walt Disney's Birthday</font></a><font color="ff0000"><br>
 <a title="Graduation Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14822">Graduation</a><br>
-<a title="First Communion Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=27216">First Communion</a><br>
+<a title="Baby Shower Decorations" href="http://www.shindigz.com/catalog.cfm?cat=17207">Baby Shower</a><br>
 <a title="Wedding Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=14858">Wedding</a><br>
 <a title="Bridal Shower Decorations" href="http://www.shindigz.com/catalog.cfm?cat=17211">Bridal Shower</a><br>
-<a title="Baby Shower Decorations" href="http://www.shindigz.com/catalog.cfm?cat=17207">Baby Shower</a><br>
+<a title="Bachelorette Party" href="http://www.shindigz.com/catalog.cfm?cat=34198">Bachelorette Party</a><br>
+<a title="Welcome Home Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=49278">Welcome Home Party</a><br>
 <a title="Anniversary Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=46589">Anniversary</a><br>
-<a title="Quinceanera Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=28940">Quinceanera</a><br>
 <a title="Retirement Party" href="http://www.shindigz.com/catalog.cfm?cat=29105">Retirement</a><br>
-<a title="Parade Float Decorations" href="http://www.shindigz.com/catalog.cfm?cat=41826">Parades</a>
-</div>
-    </td>
+
+<a title="Parade Float Decorations" href="http://www.shindigz.com/catalog.cfm?cat=41826">Parade Floats</a>
+</font></div><font color="ff0000">
+    </font></td>
   </tr>
 </tbody></table>
 <div class="nav_link"><a title="Shop ALL Special Event Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=16676"><strong>Shop ALL. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Party Supplies and Decorations for School Events" href="http://www.shindigz.com/catalog.cfm?cat=46485">School Events</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
 <div class="nav_link">
-<a title="Prom Decorations and Themes" href="http://www.shindigz.com/catalog.cfm?cat=46130">Prom</a><br>
-<a title="Graduation Party Decorations" href="http://www.shindigz.com/catalog.cfm?cat=14822">Graduation</a><br>
 <a title="Fundraiser Decorations and Favors" href="http://www.shindigz.com/catalog.cfm?cat=46489">Fundraiser</a><br>
-<a title="Sports &amp; Pep Rally Personalized Gear" href="http://www.shindigz.com/catalog.cfm?cat=46490">The Big Game</a><br>
 <a title="School Spirit Items" href="http://www.shindigz.com/catalog.cfm?cat=45855">School Spirit</a><br>
+<a title="Sports &amp; Pep Rally Personalized Gear" href="http://www.shindigz.com/catalog.cfm?cat=46490">The Big Game</a><br>
+<a title="Graduation Party Decorations" href="http://www.shindigz.com/catalog.cfm?cat=14822">Graduation</a><br>
+<a title="Prom Decorations and Themes" href="http://www.shindigz.com/catalog.cfm?cat=46130">Prom</a><br>
 <a title="Classroom Decorations" href="http://www.shindigz.com/catalog.cfm?cat=46710">Everything Elementary</a><br>
 <a title="Reunion Party Decorations" href="http://www.shindigz.com/catalog.cfm?cat=46487">Reunion</a>
 </div>
@@ -418,15 +447,16 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <div class="nav_link"><a title="Shop ALL Party Supplies and Decorations for School Events" href="http://www.shindigz.com/catalog.cfm?cat=46485"><strong>Shop ALL. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Inspirational Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=46311">Inspirational</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
 <div class="nav_link">
-<a title="Inspirational Costumes" href="http://www.shindigz.com/catalog.cfm?cat=46445">Costumes</a><br>
+<a title="Religious Costumes" href="http://www.shindigz.com/catalog.cfm?cat=46445">Religious Costumes</a><br>
 <a title="Inspirational Toys &amp; Novelties" href="http://www.shindigz.com/catalog.cfm?cat=46437">Toys &amp; Novelties</a><br>
-<a title="Inspirational Decorations" href="http://www.shindigz.com/catalog.cfm?cat=46313">Inspirational Decor</a><br>
+<a title="Inspirational Decorations" href="http://www.shindigz.com/catalog.cfm?cat=46968">Inspirational Decor</a><br>
+<a title="Inspirational Banners" href="http://www.shindigz.com/catalog.cfm?cat=46316">Inspirational Banners</a><br>
 <a title="Vacation Bible School Decorations" href="http://www.shindigz.com/catalog.cfm?cat=46839">Vacation Bible School</a>
 </div>
     </td>
@@ -435,11 +465,11 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <div class="nav_link"><a title="Shop ALL Inspirational Party Supplies" href="http://www.shindigz.com/catalog.cfm?cat=46840"><strong>Shop ALL. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<table width="100%"><tbody><tr><td>&nbsp;&nbsp;</td><td align="left">
 <div class="nav_header"><a title="Personalized Party Supplies and Decorations for Companies and Corporations" href="http://www.shindigz.com/catalog.cfm?cat=43755">Office Fun</a></div>
 <table width="156" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td width="5px"></td>
-    <td width="145">
+    <td width="145" align="left">
 <div class="nav_link">
 <a title="Retirement Party Decorations" href="http://www.shindigz.com/catalog.cfm?cat=44312">Retirement Party</a><br>
 <a title="Company Picnic Party Decor" href="http://www.shindigz.com/catalog.cfm?cat=44325">Company Picnic</a><br>
@@ -455,36 +485,27 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <div class="nav_link"><a title="Shop ALL Personalized Party Supplies and Decorations for Companies and Corporations" href="http://www.shindigz.com/catalog.cfm?cat=43755"><strong>Shop ALL. . .</strong></a></div>
 </td></tr></tbody></table>
 <img src="/templateimg/leftnav/divider.jpg"><br>
-<table align="center"><tbody><tr>
-<td><img src="/templateimg/leftnav/canada.jpg"></td>
-<td><div class="canada"><a title="Canadian Party Supply Orders Are Welcome" href="http://www.shindigz.com/servicepage.cfm?pgp=SZCANADA">Canadian Orders<br>Are Welcome</a></div></td>
-</tr></tbody></table>
-<img src="/templateimg/leftnav/divider.jpg"><br><br>
+
+
+<!--<br><br>
 <div align="center">
+<a href="http://www.shindigz.com/dod.cfm" alt="For discount party supplies, shop the ShindigZ Deal of the Day"><img src="/templateimg/header/deals/ShindigZ-Deal-of-the-Day2.jpg" border="0" alt="For discount party supplies, shop the ShindigZ Deal of the Day"></a></div>-->
 
-<!--<a href="http://www.shindigz.com/dod.cfm" alt="For discount party supplies, shop the ShindigZ Deal of the Day"><img src="/templateimg/header/deals/ShindigZ-Deal-of-the-Day2.jpg" border="0" alt="For discount party supplies, shop the ShindigZ Deal of the Day"></a>
+<!--Start Christmas Banner <br><center><a href="/catalog.cfm?cat=16693/" title="Shop Unique Christmas Decorations"><img src="/templateimg/leftnav/Christmas.jpg" alt="Shop Unique Christmas Decorations" width="160" height="216" border="0"></a>
+<br><br></a></center> <br>End Facebook Banner -->
+<br><center><a href="/catalog.cfm?cat=16693/" title="Shop Unique Holiday Decorations"><img src="/templateimg/leftnav/holiday.jpg" alt="Shop Unique Holiday Decorations" width="160" height="216" border="0"></a>
+<br></center><br>
 
-<br><br>-->
-
-<a href="http://www.shindigz.com/servicepage.cfm?pgp=SZSAFETY"><img src="/templateimg/leftnav/safety1.jpg" border="0" alt="Party Supply Product Safety"></a>
-
-<br><br>
-
-<a href="http://www.shindigz.com/servicepage.cfm?caid=977045" title="Low priced party supplies guarantee"><img src="/templateimg/leftnav/lowestprice.jpg" border="0" alt="Low priced party supplies guarantee"></a>
-
-<br><br>
-
-
-
-</div>
+<!--Start More Fun Banner <br><center><a href="/catalog.cfm?cat=16693/" title="Make Your Holiday More Fun"><img src="/templateimg/leftnav/Christmas.jpg" alt="Make Your Holiday More Fun" width="160" height="248" border="0"></a>
+<br><br></a></center> <br>End  More Fun Banner -->
+<center><a href="http://www.facebook.com/Shindigz" title="Make Your Holiday More Fun"><img src="/templateimg/leftnav/morefun2.jpg" alt="Make Your Holiday More Fun" width="160" height="248" border="0"></a>
+<br></center><br>
+<!--Start Online Catalog <br><center><a href="http://www.shindigz.com/catalogs/2010/157/index.html" title="Online Catalog"><img src="/templateimg/leftnav/onlinecat.jpg" alt="Online Catalog" width="160" height="38" border="0"></a>
+<br><br></a></center> <br>End Online Catalog -->
+<center><a href="http://www.shindigz.com/catalogs/2010/157/index.html" title="Online Catalog"><img src=" /templateimg/leftnav/onlinecat.jpg" alt="Online Catalog" width="160" height="38" border="0"></a>
+<br></center><br>
 </td></tr></tbody></table>
-
-
-
-
-
-
-</div></td></tr><tr><td width="175" height="100%" colspan="1" rowspan="1" valign="middle">
+<br></div></td></tr><tr><td width="175" height="100%" colspan="1" rowspan="1" valign="middle">
 <!--filler--></td></tr></tbody></table>
 </td>
 	</tr>
@@ -493,7 +514,7 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <!--flag--><div align="center"><table width="100%">
 <tbody><tr>
 <td align="left"><img src="/templateimg/footer/flag_left.jpg"></td>
-<td align="center"><div class="flag">American Owned, Family Operated, Since 1926<br>Over 20 Million Parties Served</div></td>
+<td align="center"><div class="flag">American Owned, Family Operated, Since 1926<br>Over 21 Million Parties Served<br><b>Join Our Cause To Make Life More Fun!</b></div></td>
 <td align="right"><img src="/templateimg/footer/flag_right.jpg"></td>
 </tr>
 </tbody></table></div></td></tr><tr><td width="1000" height="54" colspan="1" rowspan="1" valign="middle">
@@ -501,8 +522,8 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 <tbody><tr>
 
 <td align="center"><div class="footer">
-<a href="http://shindigzparty.wordpress.com/" target="_blank">Party Ideas</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://shindigzrecipes.wordpress.com/" target="_blank">Party Recipes</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/customerComments.cfm" rel="nofollow">Our Customers</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/service.cfm?page=about_us" rel="nofollow">About Us</a> &nbsp;&nbsp;•&nbsp;&nbsp;  <a href="http://www.shindigz.com/service.cfm?page=360" rel="nofollow">MyPartyView 360</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=473140" target="_blank" rel="nofollow">Affiliates</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/service.cfm?page=wholesale&amp;SecID=12" rel="nofollow">Wholesale</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/service.cfm?page=employment" rel="nofollow">Careers</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://workatshindigz.wordpress.com" target="_blank">Work at ShindigZ</a><br>
-<a href="http://www.shindigz.com/servicepage.cfm?pgp=SZSECURE" rel="nofollow">Site Security &amp; Privacy</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/catalog.cfm">Site Map</a> &nbsp;&nbsp;•&nbsp;&nbsp; Copyright © 2010 <a href="http://www.shindigz.com/index.cfm">ShindigZ</a> &nbsp;&nbsp;•&nbsp;&nbsp; All rights reserved &nbsp;&nbsp;•&nbsp;&nbsp; <strong>1-800-314-8736</strong></div></td>
+<a href="http://www.shindigz.com/party/news">Party News</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://shindigzparty.wordpress.com/" target="_blank">Party Ideas</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://shindigzrecipes.wordpress.com/" target="_blank">Party Recipes</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/customerComments.cfm" rel="nofollow">Our Customers</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/service.cfm?page=about_us" rel="nofollow">About Us</a> &nbsp;&nbsp;•&nbsp;&nbsp;  <a href="http://www.shindigz.com/service.cfm?page=360" rel="nofollow">MyPartyView 360</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=473140" target="_blank" rel="nofollow">Affiliates</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/service.cfm?page=wholesale&amp;SecID=12" rel="nofollow">Wholesale</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/service.cfm?page=employment" rel="nofollow">Careers</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://workatshindigz.wordpress.com" target="_blank">Work at ShindigZ</a><br>
+<a href="http://www.shindigz.com/servicepage.cfm?pgp=SZSECURE" rel="nofollow">Site Security &amp; Privacy</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.shindigz.com/catalog.cfm">Site Map</a> &nbsp;&nbsp;•&nbsp;&nbsp; Copyright © 2010 <a href="http://www.shindigz.com/index.cfm">ShindigZ</a> &nbsp;&nbsp;•&nbsp;&nbsp; All rights reserved &nbsp;&nbsp;•&nbsp;&nbsp; <strong>1-800-314-8736</strong> <i>(se habla Español M-F 9:30a-6p EST)</i> or <strong><a href="http://www.shindigz.com/service.cfm?page=contact_us&amp;SecID=12">Email Us</a></strong></div></td>
 </tr>
 <tr>
 <td>
@@ -515,19 +536,22 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
     
     <td align="center" valign="middle"><a href="http://www.youtube.com/ShindigZParty" target="_blank" title="YouTube"><img alt="YouTube" src="/templateimg/footer/youtube32.jpg" border="0"></a></td>
     
-    <td align="center" valign="middle"><a href="http://myshindigzidea.wordpress.com/" target="_blank" title="My Shindigz Idea"><img alt="My Shindigz Idea" src="/templateimg/footer/shindigzidea.jpg" border="0"></a></td>
+    <td align="center" valign="middle"><img alt="Now Accepting PayPal" src="/templateimg/footer/paypal.jpg" title="Now Accepting PayPal" border="0"></td>
 
-<td align="center" valign="middle"><a name="trustlink" href="https://secure.trust-guard.com/certificates/www.shindigz.com" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href,'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;">
-<img name="trust seal" alt="Security Verified Seal" style="border: 0;" src="https://secure.trust-guard.com/seals/3048/scanned/small/"></a><script type="text/javascript" src="https://secure.trust-guard.com/seals/seal-scripts/3048.js"></script></td>
+    
+
+<td align="center" valign="middle"><a href="http://www.shindigz.com/servicepage.cfm?pgp=SZSAFETY"><img src="/templateimg/leftnav/safety1.jpg" border="0" alt="Party Supply Product Safety"></a></td>
 
 <td align="center" valign="middle">
-<img src="/templateimg/footer/cards4.jpg"></td>
+
+</td>
+
 
 
 <!--<td align="center" valign="middle"><img oncontextmenu="alert('This SiteSeal is protected'); return false;" style="border: medium none ;" src="//seal.networksolutions.com/images/basicrecblue.gif"/></td>-->
  
-<td align="center" valign="middle"><a href="https://www.bbb.org/online/consumer/cks.aspx?ID=104111112205148606" target="_blank"><img src="/templateimg/footer/bbb2.jpg" border="0"></a>
-</td>
+<!--<td align="center" valign="middle"><a href="https://www.bbb.org/online/consumer/cks.aspx?ID=104111112205148606" target="_blank"><img src="/templateimg/footer/bbb2.jpg" border="0"></a>
+</td>-->
     
   </tr>
 </tbody></table>
@@ -546,10 +570,16 @@ DisplayFormat = "%%D%%d, %%H%%h, %%M%%m, %%S%%s";
 
 	
 	
-	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+	
+ 
 <script type="text/javascript">
-_uacct = "UA-513142-1";
-urchinTracker();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-513142-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
 </script>
 
 <div id="igdRTA">
