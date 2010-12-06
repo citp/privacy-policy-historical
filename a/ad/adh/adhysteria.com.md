@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the adhysteria.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317084129id_/http%3A//www.adhysteria.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhysteria.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206084927id_/http%3A//www.adhysteria.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
-_Adhysteria.com Privacy Policy_  
+The only destination for Free Hi Definition Video Classifieds , Photo classifieds and Video Auctions <meta name="abstract" content="Free" social="" video="" classifieds="" ,="" photo="" with="" auctions="">  
+|   
+---  
+  
+| 
+
+|  _Adhysteria.com Privacy Policy_  
+---  
   
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Adhysteria.com website (“Adhysteria.com”) work and to keep it safe (details below). In formal terms, Adhysteria.com.com, Unit 310, Balarama, and Bandra Mumbai India acting itself and through its subsidiaries, is the “data controller” of your personal information. This policy is effective June 1st 2007. Information posted on Adhysteria.com is obviously publicly available  
 We collect and store the following personal information: 
