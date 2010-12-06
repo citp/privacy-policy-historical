@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bonluxat.com privacy policy that was archived on 2010-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100428092309id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonluxat.com privacy policy that was archived on 2010-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207005752id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title></title>
@@ -23,7 +23,7 @@
 
 #contentMain h1
 {
-	font-size:12px;
+	font-size:20px;
 	font-weight:bold;
 }
 
@@ -92,13 +92,98 @@
 
 
 
-<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAR0gjh6AQB6vtz_AXb0S_pxTaVfC-oewViWtv_FvNhspGMZnOEhRjviiRqBRsvi8NCaEnz_KYO0Q0jw"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-8145253663555302");
+GS_googleEnableAllServices();
+</script>
+
+<script type="text/javascript">
+</script>
+<script type="text/javascript">
+
+GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_1");
+GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_2");
+GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_3");
+
+	
+
+</script>
+
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript">
     //<!--
 
+(function($) {
+
+/**
+ * @name   $.elementReady
+ * @type   jQuery
+ * @param  String   id  string ID of the element to wait for
+ * @param  Function fn  function to call when the element is ready
+ * @return jQuery
+ * @cat    Plugins/Event
+ * @author Bennett McElwee
+ */
+var interval = null;
+var checklist = [];
+
+$.elementReady = function(id, fn) {
+	checklist.push({id: id, fn: fn});
+	if (!interval) {
+		interval = setInterval(check, $.elementReady.interval_ms);
+	}
+	return this;
+};
+
+// Plugin settings
+$.elementReady.interval_ms = 23; // polling interval in ms
+
+// Private function
+function check() {
+	var docReady = $.isReady; // check doc ready first; thus ensure that check is made at least once _after_ doc is ready
+	for (var i = checklist.length - 1; 0 <= i; --i) {
+		var el = document.getElementById(checklist[i].id);
+		if (el) {
+			var fn = checklist[i].fn; // first remove from checklist, then call function
+			checklist[i] = checklist[checklist.length - 1];
+			checklist.pop();
+			fn.apply(el, [$]);
+		}
+	}
+	if (docReady) {
+		clearInterval(interval);
+		interval = null;
+	}
+};
+
+})(jQuery);
+
+
+
+
+if ('undefined' != typeof catUrlHandler)
+	{	
+	
+		$.elementReady('menuLeft', function(){
+			$("#menuLeft").find('a[href*='+catUrlHandler+']').css({color: '#EC5B3E'});
+		});
+	
+	
+		$.elementReady('menuDown', function(){
+			$("#menuDown").find('a[href*='+catUrlHandler+']').css({color: '#EC5B3E'});
+		});
+}
 
 $(document).ready(function(){
+
+
 
    $('#subscribe input[type=text]').click(function(){
    		
@@ -302,46 +387,80 @@ $(document).ready(function(){
 			<div id="addThis"><a class="addthis_button"></a></div>				 
 			
 			</div>	
+			
+			
+			<div id="adSlotsMenuLeft">
+				<div>
+					<!-- ca-pub-8145253663555302/menu_left_1 -->
+					<script type="text/javascript">
+					GA_googleFillSlot("menu_left_1");
+					</script>
+				</div>
+				<div>	 
+					<!-- ca-pub-8145253663555302/menu_left_2 -->
+					<script type="text/javascript">
+					GA_googleFillSlot("menu_left_2");
+					</script>
+				</div>
+				
+				<div>	 
+					<!-- ca-pub-8145253663555302/menu_left_3 -->
+					<script type="text/javascript">
+					GA_googleFillSlot("menu_left_3");
+					</script>
+				</div>
+				
+				
+			</div>
+			
+			
 				 
 		</div>
 
 		
 <div id="contentMain">
-<h1> Privacy Policy for www.bonluxat.com </h1>
+	<h1> Privacy Policy for Bonluxat </h1>
         <p> If you require any more information or have any questions about our privacy policy, 
         please feel free to contact us by email at bonluxat (at) bonluxat.com. </p>
         
-        <p> At www.bonluxat.com, the privacy of our visitors is of extreme importance to us. 
-        This privacy policy document outlines the types of personal information is received and collected by www.bonluxat.com and how it is used. 
+        <p> At Bonluxat, the privacy of our visitors is of extreme importance to us. 
+        This privacy policy document outlines the types of personal information is received and collected by Bonluxat and how it is used. 
         </p>
         
-        <p></p><h1>Log Files</h1>Like many other Web sites, www.bonluxat.com makes use of log files. 
-        The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), 
+        <p></p><h2>Log Files</h2>Like many other Web sites, Bonluxat makes use of log files. 
+        The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), 
         date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, 
         and gather demographic information. IP addresses, and other such information are not linked to any information 
         that is personally identifiable. <p></p>
         
         <p>
-        </p><h1>Cookies and Web Beacons</h1> www.bonluxat.com does use cookies to store information about visitors preferences, 
+        </p><h2>Cookies and Web Beacons</h2> Bonluxat does use cookies to store information about visitors preferences, 
         record user-specific information on which pages the user access or visit, 
         customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
         <p></p>
         
-        <p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . </p>
+        <p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. </p>
         
         <p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on 
-        www.bonluxat.com send directly to your browsers. They automatically receive your IP address when this occurs. 
-        Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks 
+        Bonluxat send directly to your browsers. They automatically receive your IP address when this occurs. 
+        Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks 
         to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
         </p>
         
-        <p> www.bonluxat.com has no access to or control over these cookies that are used by third-party advertisers. </p>
+        <p> Bonluxat has no access to or control over these cookies that are used by third-party advertisers. </p>
         
         <p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. 
-        	www.bonluxat.com's privacy policy does not apply to, 
+        	Bonluxat's privacy policy does not apply to, 
         and we cannot control the activities of, such other advertisers or web sites. </p>
         <p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
         
+                
+        <p>
+        </p><h2>Data protection</h2>
+		The personal data which is received from users in the course of the Bonluxat information and communication services, together with the information service (newsletter), in applications (apply) or in other ways is recorded and processed by Bonluxat. Bonluxat will use the data which is provided in order to supply its registered users with the required information and to improve its own services.
+
+		Bonluxat hereby assures users that all personal data will be handled in the strictest confidence and will not be made available to third parties. The transmission of data to third parties will only take place to the vendor or manufacturer contacted by the user and only to the extent of the request made by the user (e.g. in price or information requests).
+        <p></p>	
 </div>
 	   <div id="menuDown">
 			<div class="menuDownContainer" id="menuDownFurniture">
@@ -401,11 +520,8 @@ $(document).ready(function(){
 	</div>
 	
 	<div id="footer">
-		<a href="http://www.bonluxat.com/advertise/withus" rel="nofollow">Advertise With Us</a> |
-		<a href="http://www.bonluxat.com/privacy.html" rel="nofollow">Privacy Policy</a> | 
+			<a href="http://www.bonluxat.com/privacy.html" rel="nofollow">Privacy Policy</a> | 
 		<a href="http://www.bonluxat.com/">www.bonluxat.com</a>
-		
-			
 	</div>
 	
 </div>
