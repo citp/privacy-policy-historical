@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonpizza.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529044448id_/http%3A//www.bostonpizza.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonpizza.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206172942id_/http%3A//www.bostonpizza.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Boston Pizza
 
@@ -62,7 +62,7 @@ Boston Pizza International Inc.
 Richmond, British Columbia  
 V6V 2M4  
 Facsimile No.:  604-270-1041  
-Email:  [privacy(at)bostonpizza.com](https://web.archive.org/web/20100529044448id_/http%3A//www.bostonpizza.com/en/privacy\(at\)bostonpizza.com)
+Email:  [privacy(at)bostonpizza.com](https://web.archive.org/web/20101206172942id_/http%3A//www.bostonpizza.com/en/privacy\(at\)bostonpizza.com)
 
 Attention:  Privacy Officer
 
