@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826150521id_/http%3A//www.freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepuzzlegames.biz privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206084710id_/http%3A//www.freepuzzlegames.biz/page/1.html) for the most accurate reproduction.*
 
-# Privacy Policy - Play Privacy Policy - FreePuzzleGames.biz
+# Privacy Policy - FreePuzzleGames.biz
 
 Privacy Policy for www.freepuzzlegames.biz 
 
