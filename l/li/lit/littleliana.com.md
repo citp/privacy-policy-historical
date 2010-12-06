@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the littleliana.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614000613id_/http%3A//littleliana.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleliana.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206110323id_/http%3A//littleliana.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy_nethole
 
-Privacy Policy   
+Privacy Policy for Nethole Services Ltd  
 
 
 Adults Only Service   
