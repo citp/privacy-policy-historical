@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkedblogs.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308144928id_/http%3A//networkedblogs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkedblogs.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206175425id_/http%3A//networkedblogs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # About NetworkedBlogs.com - NetworkedBlogs.com
 
@@ -44,7 +44,7 @@ NetworkedBlogs provides blogging-enthusiasts a forum to connect with their reade
 
 **Other**
 
-  * When you use NetworkedBlogs, you are subject to the [NetworkedBlogs Terms of Service](https://web.archive.org/web/20100308144928id_/http%3A//networkedblogs.com/termsofservice.php).
+  * When you use NetworkedBlogs, you are subject to the [NetworkedBlogs Terms of Service](https://web.archive.org/web/20101206175425id_/http%3A//networkedblogs.com/termsofservice.php).
   * Please refer to the NetworkedBlogs Help if you have questions about this service.
 
 
