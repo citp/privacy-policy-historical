@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514173355id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206182127id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy | Reed Construction Data
+# Reed Construction Data
 
-#### Last Revised: November 2007
+## Privacy Policy
+
+#### Last Revised: April 2009
 
 #### Overview
 
@@ -10,7 +12,7 @@ Our site visitors’ privacy and trust are important to us. We provide this noti
 
 This Privacy Policy describes the policies of Reed Construction Data ( ** _“RCD”_** or ** _“we”_** ), a subsidiary of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of RCD **ReedConstructionData.com, ReedConnect.com, ReedBulletin.com, MeansCostworks.com, RSMeans.com, ReedFirstSource.com, ReedPSP.com, ReedRegistry.com, ACPPubs.com, Buildcore.com, DCNOnl.com, and JOCOnl.com** web site (collectively, this “Site”).
+  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of RCD **ReedConstructionData.com, ReedConnect.com, ReedBulletin.com, SmartProjectNews.com, MeansCostworks.com, RSMeans.com, ReedPSP.com, DCNOnl.com, and JOCOnl.com** web site (collectively, this “Site”).
   * Information obtained through e-mail communications with you related to the Site.
 
 
