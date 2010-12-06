@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissannews.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220600id_/http%3A//www.nissannews.com/page.do%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissannews.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206192035id_/http%3A//nissannews.com/page.do%3Ffile%3Dprivacy) for the most accurate reproduction.*
 
 # Nissan/Infiniti News Room
 
