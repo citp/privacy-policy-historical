@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the basicjokes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526231300id_/http%3A//www.basicjokes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicjokes.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206030301id_/http%3A//www.basicjokes.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for Basics 4 Life Sites
+# Privacy Policy for 21st Century Basics Sites
 
 **What This Privacy Policy Covers**
 
-This privacy policy covers and is consistant among all the sites in the Basics 4 Life network which currently are Basic Jokes, Basic Music, Basic Quotations, Basic Inspiration, Basic Celebrations, Basic Famous People, Basic Bible Tools, Basic Eating, Basic History Online, and, of course, Basics 4 Life. 
+This privacy policy covers and is consistant among all the sites in the 21st Century Basics network which currently are Basic Jokes, Basic Music, Basic Quotations, Basic Inspiration, Basic Celebrations, Basic Famous People, Basic Bible Tools, Basic Eating, Basic History Online, and, of course, 21st Century Basics. 
 
-Basics 4 Life produced this privacy policy in an effort to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices of the Basics 4 Life Website Network. 
+21st Century Basics produced this privacy policy in an effort to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices of the Basics 4 Life Website Network. 
 
-Basics 4 Life believes in all Internet users' rights to privacy. Basics 4 Life does not engage in any form of distribution or sale of Personally Identifiable information to third parties for their own promotional use, including but not limited to, names, email/postal addresses, and phone numbers. All information collected by the Basics 4 Life Website Network is not personally identifiable as it relates to consumers, nor does Basics 4 Life engage in any form of consumer profiling. 
+21st Century Basics believes in all Internet users' rights to privacy. Basics 4 Life does not engage in any form of distribution or sale of Personally Identifiable information to third parties for their own promotional use, including but not limited to, names, email/postal addresses, and phone numbers. All information collected by the Basics 4 Life Website Network is not personally identifiable as it relates to consumers, nor does 21st Century Basics engage in any form of consumer profiling. 
+
+**Advertisers**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org . 
 
 **Cookies**
 
@@ -34,4 +38,4 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 **Changes to This Privacy Policy**
 
-Basics 4 Life may find it necessary to update this Privacy Policy from time to time. Any changes will be posted at this site. Except as otherwise required by law, any modifications made to this Privacy Policy will not materially affect the privacy of data collected by Basics 4 Life prior to the effective date of the policy change. 
+21st Century Basics may find it necessary to update this Privacy Policy from time to time. Any changes will be posted at this site. Except as otherwise required by law, any modifications made to this Privacy Policy will not materially affect the privacy of data collected by 21st Century Basics prior to the effective date of the policy change. 
