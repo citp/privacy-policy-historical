@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404075904id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206190118id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
 
-# Kiplinger
+# Privacy Policy
+
+### Privacy Policy
 
 Kiplinger.com respects your privacy. We do not release your e-mail address to anyone or any company.
 
