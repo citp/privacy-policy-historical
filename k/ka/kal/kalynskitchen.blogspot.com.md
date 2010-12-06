@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalynskitchen.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230082221id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalynskitchen.blogspot.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206054551id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Kalyn's Kitchen: Privacy Policy
 
