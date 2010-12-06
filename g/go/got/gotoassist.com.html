@@ -1,10 +1,51 @@
-<!--The following is the downloaded HTML source of the gotoassist.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526081156id_/http%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotoassist.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206140651id_/https%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	<title>GoToAssist Express: Privacy Policy</title>
-		<script type="text/javascript" src="/html/morgan/javascript.js"></script>
+	<script type="text/javascript" src="/html/morgan/javascript.js"></script>
+<!-- include ChannelTrackingConverter.js to track channels from old style g2ax landing pages -->
+<script type="text/javascript" src="https://marketing.citrixonline.com/marketing/api/2009/lib.js"></script>
+<script type="text/javascript" src="https://marketing.citrixonline.com/marketing/api/2009/api.js"></script>
+<script type="text/javascript" src="/images/dts/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/images/dts/js/ChannelTrackingConverter.js"></script>
+<script type="text/javascript">
+     var tracker = new ChannelTracker('GoToAssistExpress');
+     trackLegacyChannels("direct","");
+     tracker.trackChannel();             
+</script>
+<script type="text/javascript">
+jQuery(function() {
+	jQuery('.pullLink').removeClass('hiddenLink');
+});
+jQuery(function() {
+	jQuery('.hideLink').addClass('hiddenLink');
+});
+jQuery(function() {
+	jQuery("a.overlayPop").overlay ({
+		mask: { color:'#fff', opacity:0.01 },
+		effect: 'apple',
+		fixed: false,
+		onBeforeLoad: function() {
+			var wrap = this.getOverlay().find(".contentWrap");
+			wrap.load(this.getTrigger().attr("href"));
+		},
+		onLoad: function() {
+			if(typeof utEvtTag == 'function') {
+				utEvtTag('ev=lightbox_open&evdetail=' + this.getTrigger().attr('href'));
+			}
+			jQuery("div.overlay a[rel='external']").click(function() {
+				window.open(this.href);
+				return false;
+			});
+		},
+		onBeforeClose: function() {
+			jQuery(".contentWrap").empty();
+		}
+	});
+});
+</script>
 		<link rel="stylesheet" href="/html/morgan/style.css" type="text/css">
 	<!--[if lte IE 7]>
 	<link rel="stylesheet" href="/html/morgan/styleIE.css" type="text/css">
@@ -12,6 +53,10 @@
 	<!--[if IE 7]>
 	<link rel="stylesheet" href="/html/morgan/styleIE7.css" type="text/css">
 	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/images/dts/css/centerBody.css">
+<!--[if lte IE 7]>
+	<link rel="stylesheet" href="/images/dts/css/centerBodyIE.css" type="text/css">
+<![endif]-->
 	      <link rel="stylesheet" type="text/css" href="/images/dts/css/popup.css">
     		  
  
@@ -112,6 +157,8 @@
     <script type="text/javascript" defer="" src="/images/dts/js/at/hbx.js"></script>
 
   
+  <script type="text/javascript" src="/images/dts/js/at/elqNow/elqCfg.js"></script>
+  <script type="text/javascript" src="/images/dts/js/at/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=607&amp;ref2=elqNone&amp;tzo=0&amp;ms=605" border="0" width="1" height="1"></layer>
   <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -120,6 +167,7 @@
   var pageTracker = _gat._getTracker("UA-6113370-1");
   pageTracker._trackPageview();
   </script>
+  <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2626.js"> </script>
   
   
 
