@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513183523id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206205911id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
 
 # Lowest Price Traffic School - Privacy Policy
 
-Thanks for visiting the **LowestPrice TrafficSchool.com** website and reviewing our privacy policy! Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information.
+Thank you for visiting the **LowestPrice TrafficSchool.com** website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information.
 
 We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
 
@@ -29,11 +29,11 @@ Per-session cookies serve technical purposes like providing seamless navigation 
 
 ## If You Send Us Personal Information
 
-If you choose to provide us with personal information -- like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. **LowestPrice TrafficSchool.com** never collects information for commercial marketing.
+If you choose to provide us with personal information -- such as completeing a Contact Us form with personal information and submitting it to us through the website -- we may use that information to respond to your message and help provide you the information you have requested. We only share the information you give us with other parties if your inquiry relates to that party, or as otherwise required by law. LowestPriceTrafficSchool.com never collects information for sale to third parties for marketing purposes.
 
 ## Site Security
 
-  * For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+  * For site security purposes and to ensure that this service remains available to all users, this computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
   * Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
   * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
