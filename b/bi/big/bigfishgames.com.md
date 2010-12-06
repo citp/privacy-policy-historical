@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419015958id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206155334id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish Games, Inc.
 
@@ -115,7 +115,7 @@ To review, modify or remove the information you have provided to us, or to conta
 
 ## AGREEMENT WITH BIG FISH GAMES POLICIES
 
-By accessing and/or using any of the Big Fish Games Offerings, you signify your understanding of and agreement with this Privacy Policy, and to our [Terms of Use](https://web.archive.org/web/20100419015958id_/http%3A//www.bigfishgames.com/company/terms.html). If you do not agree with our policies, please do not access or use any Big Fish Games Offerings.
+By accessing and/or using any of the Big Fish Games Offerings, you signify your understanding of and agreement with this Privacy Policy, and to our [Terms of Use](http://www.bigfishgames.com/company/terms.html). If you do not agree with our policies, please do not access or use any Big Fish Games Offerings.
 
 ## CHANGES TO PRIVACY POLICY
 
