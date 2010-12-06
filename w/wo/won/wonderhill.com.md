@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderhill.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601105128id_/http%3A//www.wonderhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderhill.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206101709id_/http%3A//www.wonderhill.com/privacy-policy) for the most accurate reproduction.*
 
 # WonderHill.com - WonderHill Privacy Policy
 
