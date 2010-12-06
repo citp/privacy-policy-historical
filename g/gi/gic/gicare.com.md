@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318040410id_/http%3A//www.gicare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207003745id_/http%3A//gicare.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jackson Siegelbaum Gastroenterology
 
