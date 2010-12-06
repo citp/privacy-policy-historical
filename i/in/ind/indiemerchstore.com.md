@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624104141id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206151729id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
 
-# indiemerchstore.com - Privacy Policy
+# Privacy Policy - IndieMerchstore
 
-###  Privacy Policy Statement 
+##  Privacy Policy Statement 
 
 This is the web site of www.indiemerchstore.com. 
 
