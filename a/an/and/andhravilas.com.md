@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andhravilas.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208080335id_/http%3A//www.andhravilas.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhravilas.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206100457id_/http%3A//www.andhravilas.com/privacy.asp) for the most accurate reproduction.*
 
-# Andhravilas.com -Telugu Cinema, Telugu Movies, India News & World News , Bollywood , Songs :
+# Andhravilas.com -Telugu Cinema, Telugu Movies, India News & World News , Bollywood , Songs ,Mothersday Gifts:
 
 Privacy Policy for andhravilas.com
 
