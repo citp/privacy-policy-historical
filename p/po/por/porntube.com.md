@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntube.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605230034id_/http%3A//securejoinsite.com/notices/privacy.php%3Fco%3Dbk%26site%3Dporntube.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntube.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206011133id_/http%3A//securejoinsite.com/notices/privacy.php%3Fco%3Dbk%26site%3Dporntube.com) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -42,7 +42,7 @@ The Site also offers all Members and Users a procedure for �Opting-Out� if t
 
 **5\. DISCLOSURE**
 
-porntube.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the porntube.com [Terms and Conditions](https://web.archive.org/web/20100605230034id_/http%3A//securejoinsite.com/notices/terms.php?co=bk&site=porntube.com) .  
+porntube.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the porntube.com [Terms and Conditions](https://web.archive.org/web/20101206011133id_/http%3A//securejoinsite.com/notices/terms.php?co=bk&site=porntube.com) .  
 No personal information will be shared with any third parties without the customer's permission. 
 
 **6\. REVISIONS TO THIS PRIVACY POLICY**
