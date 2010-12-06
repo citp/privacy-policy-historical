@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227101633id_/http%3A//www.websitemagazine.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206133606id_/http%3A//www.websitemagazine.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Magazine Privacy Policy - WebsiteMagazine.com
 
@@ -36,7 +36,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 Only those employees that are responsible for handling your account have access to your information. Additionally, employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in.
 
-We may allow advertising partners to mail to your street address (NO EMAILS) through Website Magazine or through an independent mailing organization that operates under a confidentiality agreement. Advertising partners will not have access to your private information. Additionally, we limit the number of mailings from advertisers that you may receive in any given year. 
+We may allow advertising partners to deliver Web-focused offers to you through Website Magazine or through an independent organization that operates under a confidentiality agreement. Additionally, we limit the number of offers from advertisers that you may receive in any given year.
 
 We may provide your name and contact information to one of our trusted partners who work on behalf of WM under strictly enforced confidentiality agreements. These partners may use your information to contact you about offers from us or one of our advertising partners. However, these partners do not have any independent right to share, rent, or sell your information with anyone else.
 
@@ -53,3 +53,5 @@ You have the option of disabling your computer’s ability to accept or transmit
 ### NOTICE OF CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
+
+**Website Magazine Privacy Policy was last updated August 26, 2010.**
