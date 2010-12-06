@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606050224id_/http%3A//hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206120931id_/http%3A//hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hail Mary Jane
+
+If you're new here, you may want to subscribe to my [RSS feed](http://feedproxy.google.com/Sportfiends). Thanks for visiting!
 
 Privacy Policy Statement  
 This is the web site of Hail Mary Jane.
