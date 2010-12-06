@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212111548id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206011730id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
 
-# ShincigZ Site Security
+# Shindigz Site Security, Privacy Policy
 
 ### Site Security
 
@@ -37,8 +37,6 @@ Please rest assured that shopping on ShindigZ is safe and secure! You'll find th
 
 
 ### Privacy Policy
-
-Revised April 2004
 
 We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.
 
