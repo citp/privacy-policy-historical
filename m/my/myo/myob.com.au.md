@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224212817id_/http%3A//myob.com.au/privacy-1106022210664) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206064223id_/http%3A//myob.com.au/pages/privacy-policy-1258090884370) for the most accurate reproduction.*
 
-# Privacy - MYOB Australia
+# Privacy Policy - MYOB Australia
 
-##  MYOB Limited Group Privacy Statement 
+## MYOB Limited Group Privacy Statement
 
 #### MYOB values your privacy
 
@@ -75,9 +75,7 @@ MYOB also uses Internet Protocol (IP) addresses to analyse trends, administer ou
 
 The MYOB Group informs its employees about the importance of confidentiality and customer privacy through its operating procedures, training programs and internal policies. MYOB will take appropriate disciplinary measures to enforce privacy responsibilities of its employees. If MYOB contracts with external service providers to provide service support, MYOB will require them to conform to the MYOB Group privacy policy.
 
-  * The MYOB Limited Group Privacy Statement has been developed in accordance with relevant local and international privacy legislation.
-
-
+The MYOB Limited Group Privacy Statement has been developed in accordance with relevant local and international privacy legislation.
 
 To demonstrate that our privacy policy accords with this privacy legislation, we are committed to a voluntary self-assessment procedure and, in some countries, subject to supervision and inspection by appropriate government agencies.
 
