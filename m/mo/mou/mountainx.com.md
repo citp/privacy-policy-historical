@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainx.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201160758id_/http%3A//www.mountainx.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainx.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206222951id_/http%3A//www.mountainx.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Mountain Xpress privacy policy
 
@@ -10,7 +10,7 @@ When you visit our Web pages, we automatically log your Internet domain or addre
 
 We use Google Analytics to monitor and analyze traffic on our site. Most of our pages contain a code that causes Google to place a cookie on your computer to enable this monitoring. For information on how Google uses its cookies, consult the [Google privacy policy](http://www.google.com/privacy.html).
 
-We or our advertisers may use a third-party advertising company to serve some of the ads you see on our site. This company may use nonpersonally identifiable information about your visits to our and other Web sites in order to provide ads that may be of interest to you. In the course of serving ads to our site, an advertising company may place a cookie on your computer. 
+We or our advertisers may use a third-party advertising company to serve some of the ads you see on our site. This company may use information about your visits to our and other Web sites in order to provide ads that may be of interest to you. In the course of serving ads to our site, an advertising company may place a cookie on your computer. 
 
 Our sites may ask you for personally identifying information – such as your name, address and email address – for various reasons, such as: You are purchasing something, registering for our site as a member, taking a survey. You may refuse to provide the information. We do not knowingly collect any personal information from children under age 13.
 
