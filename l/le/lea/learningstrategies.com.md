@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503045051id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206124229id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies Corporation Privacy Policy
 
@@ -18,7 +18,7 @@ We use the information we collect to measure the number of visitors to the diffe
 
 If you identify yourself by sending an email or ordering from our site: 
 
-You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally you may receive product announcements or tips on getting more benefit from our products-these may come via the mail or email and may come from us or directly from the author or publisher of the program you purchased from us. At any time, you can tell us not to initiate contact with you in this manner.
+You may decide to send us personally identifying information, for example, in an email or an order. Each time you do so, we will use this information to better serve you. Occasionally you may receive product announcements or tips on getting more benefit from our products-these may come via the mail or email and may come from us or directly from the author or publisher of the program you purchased from us. At any time, you can tell us not to initiate contact with you in this manner by clicking on the unsubscribe link found at the bottom of all Learning Strategies emails, or you may [email our webmaster](mailto:webmaster@learningstrategies.com). 
 
 Every time you purchase a product on our web site you will receive order acknowledgment emails, and if applicable, product fulfillment emails. If the product you purchase is a teleseminar or other event, you will receive event details via email.
 
