@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the ripleyaquariums.com privacy policy that was archived on 2010-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615012644id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ripleyaquariums.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206111614id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js-enabled"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>(mt) Media Temple - Company - Legal - Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="http://s4.mt-cdn.net/_css/global__6013852.css">
+<link rel="stylesheet" type="text/css" href="http://s4.mt-cdn.net/_css/global__234060b.css">
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" href="http://s1.mt-cdn.net/_css/mt_lte-ie6__20852c6.css" />
 <link rel="stylesheet" type="text/css" href="http://s2.mt-cdn.net/_css/nav_lte-ie6__47e63d5.css" />
 <![endif]-->
 
-<script type="text/javascript">document.documentElement.className += 'js-enabled';</script><link rel="stylesheet" type="text/css" href="http://s3.mt-cdn.net/_css/textpage__61d8dce.css">
+<script type="text/javascript">document.documentElement.className += 'js-enabled';</script><link rel="stylesheet" type="text/css" href="http://s3.mt-cdn.net/_css/textpage__6b62c23.css">
 
 </head>
 <body class="textpage companypage legal privacy">
@@ -64,7 +64,7 @@
     <ul>
         <li><a href="/support" class="menu5-1">Our Promise</a></li>
         <li><a href="https://ac.mediatemple.net/" class="menu5-2">AccountCenter Login</a></li>
-        <li><a href="/go/systemstatus" class="menu5-3">System Status</a></li>
+        <li><a href="http://status.mediatemple.net" class="menu5-3">System Status</a></li>
         <li><a href="http://kb.mediatemple.net" class="menu5-4">KnowledgeBase</a></li>
         <li class="lastli"><a href="http://wiki.mediatemple.net" class="menu5-5">Community Wiki</a></li>
     </ul>
@@ -220,6 +220,17 @@
 <!-- start footer -->
 <div id="footer">
 	<div id="footerdiv">
+	
+	<div class="domainsearch clearme">
+	 <form id="mt_domain_search" method="post" action="https://ac.mediatemple.net/order/index.mt">
+	 <fieldset>
+	   <legend>Search for a Domain Name</legend>
+  	 <input name="mtdomain" id="mtdomain" class="domaininput" type="text">
+  	 <input class="domainsubmit" type="image" src="http://s3.mt-cdn.net/_images/searchicon__e7db997.png" value="Search Now">
+	 </fieldset>
+   </form>
+  </div>
+	
 	<div class="sitemap">
       <ul>
         <li><a href="/webhosting"><strong>Web Hosting</strong></a>
@@ -284,6 +295,51 @@
 try {
 reinvigorate.track("lrmp4-sjeem2co6p");
 } catch(err) {}
+</script>
+
+<script type="text/javascript">
+// domain search
+
+var $domain_initial_value = 'Search for a Domain Name...';
+var $domain_error_value   = 'Oops! e.g. "my-amazing-site.com"';
+var $simple_fqdn_regxp    = '([a-zA-Z0-9-]+[.])+[a-zA-Z0-9-]+';
+
+$(document).ready(function() {
+
+  $('.domaininput').val($domain_initial_value).focus(function() {
+    if ($(this).val() == $domain_initial_value || $(this).val() == $domain_error_value) {
+      $(this).val('');
+    }
+  }).blur(function() {
+    if ($(this).val() == '' && $(this).parents('fieldset').hasClass('error')) {
+      $(this).val($domain_error_value);
+    } else if ($(this).val() == '') {
+      $(this).val($domain_initial_value);
+    }
+  }).keydown(function() {
+      $(this).parents('fieldset').removeClass('error');
+  });
+  
+  $('#mt_domain_search').submit(function(evt) {
+  
+    $(this).find('fieldset').addClass('loading');
+    
+    var $domaininput  = $(this).find('.domaininput');
+    var domain        = $domaininput.val();
+    
+    domain = escape(domain);
+    
+    if (domain == '' || domain == $domain_initial_value || domain == $domain_error_value || !domain.match($simple_fqdn_regxp)) {
+      $(this).find('fieldset').removeClass('loading').addClass('error');
+      $domaininput.val($domain_error_value);
+      $domaininput.blur();
+      evt.preventDefault();
+    } 
+
+  });
+
+});
+
 </script>
 <script type="text/javascript">//<![CDATA[
 $(document).ready(function(){
