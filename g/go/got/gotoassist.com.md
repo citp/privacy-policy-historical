@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotoassist.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526081156id_/http%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoassist.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206140651id_/https%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.*
 
 # GoToAssist Express: Privacy Policy
 
