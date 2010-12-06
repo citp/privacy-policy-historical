@@ -1,59 +1,79 @@
-> *The following text is extracted and transformed from the martindale.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307000501id_/http%3A//www.martindale.com/xp/legal/privacy_policy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martindale.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206155133id_/http%3A//www.martindale.com/Privacy_Policy/index.aspx) for the most accurate reproduction.*
 
-# LexisNexis® Martindale-Hubbell® Privacy Policy
+# Privacy Policy - martindale.com
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+(Last updated August 30, 2010)
 
-This notice applies to all information collected from or submitted to the following Martindale-Hubbell ("Martindale") Web site(s), but to make this notice easier to read we will refer here only "our Web site", meaning either Martindale.com or lawyers.com. Other Martindale Web sites may operate under their own privacy notices.
+To underscore our commitment to privacy and our vision that good privacy is good business, we have adopted this online privacy policy, which reflects and implements our corporate privacy principles in an online setting, for this website, [martindale.com](http://www.martindale.com/ "martindale.com")®, which is operated by Martindale-Hubbell, a LexisNexis Company, or its subsidiaries ("LexisNexis"), 121 Chanlon Road, New Providence, NJ 07974. This site is not directed at children.
 
-Our Web site contains links to other Web sites operated by third parties. Martindale is not responsible for the privacy practices or policies of such third party Web sites.
+If you have questions or concerns regarding this statement, please contact us at:
 
-**The Information We Collect**  
-Our Web site is not set up to automatically collect personally-identifiable information from each visitors to our Web site. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our Web site. This information is used only for internal purposes by our technical support staff.
+LexisNexis  
+Privacy, Security and Compliance Organization  
+PO Box 933  
+Dayton, Ohio 45401  
+Telephone: 1-800-831-2578  
+Email: [privacy@lexisnexis.com](mailto:privacy@lexisnexis.com)
 
-Our Web site does track certain information about the visits to our Web site. For example, we compile statistics that show the numbers and frequency of visitors to our Web site and its individual pages. These aggregated statistics are used internally to improve our Web site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information.
+**Information Collection**  
+I. Personally identifiable information
 
-In a few areas on our Web site, we may ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with Martindale. We may also collect information as a part of receiving from you certain feedback and evaluations (such as feedback and evaluations regarding quality of representation, quality of service, and service value) with respect to our customers from whom you may have received legal services. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
+This site only collects personally identifiable information from you if you chose to provide this information to us. Personally identifiable information collected with your consent may include, for example, your name, photograph, email address, demographic information, telephone number(s), facsimile numbers, social and professional networks, employer, job title, bar association details, your professional experience and credentials, your education, your hobbies and interests and information relating to any orders you place, or any inquires you may make through our website.
 
-For example, we may request information from you when you:
+II. Cookies
 
-  1. Log-on to certain areas of our Web site, where you may be prompted to provide us with your user name and password as a condition to gaining access to certain information, materials or services
-  2. Register or sign-up to subscribe to a service
-  3. Subscribe to a newsletter or desire to be added to our mailing lists for other products or services
-  4. Place an order
-  5. Participate in a sweepstakes or other promotional offer
-  6. Provide feedback in an online survey.
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. This site uses first-party and third-party cookies, however personally identifiable information is not collected through the use of cookies. Cookies are used to track user IDs and passwords, provide tailored content, and determine whether a visitor is unique or whether the visitor has viewed our site before.
 
+While most browsers are set to accept cookies by default, you can set yours to refuse cookies or to alert you before accepting them. Your browser manufacturer has information on changing the default setting for your specific browser.
 
+III. Non-personally identifiable information
 
-In each of the instances above, we typically ask for your name, e-mail address, phone number, address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of mailed materials, you will be able to "unsubscribe" to these mailings at any time.
+This site also collects non-personally identifiable information. For example, as you browse this website we may collect information about your visit, but not about you personally. Via web server logs, for example, we may monitor statistics such as: the number of people that visit our site, which page(s) are visited on our site, from which domain our visitors come (e.g., aol.com, hotmail.com, etc.), and which browsers people use to visit our site (e.g., Netscape Navigator, Microsoft Internet Explorer, Safari (for Apple Computers), Mozilla Firefox, etc.). We may use an outsourcing program to assist us in analyzing this data to better tailor our website.
 
-**How We Use Information**
+**Information Use and Consumer Choice**  
+The information collected by this website is used only for responding to your inquiries and otherwise corresponding with you, for processing transactions you request, maintaining your account (if you have one), for other purposes permitted by your organization's subscriber agreement(s) (if any), and for the administration, review and/or the improvement the content of our websites. For example, we use information provided to us to customize your experiences on our website in various ways, such as suggesting news articles or member posts that may be of interest or displaying recent status updates from your connections when you log in to martindale.com Connected. Similarly, your information may be used to enhance the experience of your connections.
 
-**Martindale only uses your personal information for specific purposes**  
-The personal information you provide to us when using our Web site -- such as your name, postal or e-mail address or telephone number -- will be kept confidential and used to support your customer relationship with Martindale. It also may be used to notify you of special offers, updated information and new products and services from Martindale, or offers from third parties that we think may be of interest to you. We may also use information collected from you (as a part of receiving certain feedback and evaluations with respect to our customers from whom you may have received legal services) as may be necessary for offering such feedback and evaluation services at this web site. Agents or contractors of Martindale who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Martindale.
+You also have choices about the sharing of information that you include in your martindale.com Connected profile with other users. More information about these choices is described in the Onward Transfer section below.
 
-Martindale may enhance or merge your information collected at its site with data from third parties for purposes of marketing products or services to you.
+We may contact you in response to your comments or inquiries, as part of the maintenance of your account with us (if you have one), or in order to complete a transaction that you requested.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.com/privacy/index.aspx).
+We may also contact you to inform you of other products or services we think may be of interest to you, but we always offer you an opportunity to opt not to receive such communications.
 
-Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with Martindale, such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
+Our website uses third-party advertising companies and advertising networks to serve ads and collect information when you visit our website. These companies may use information (not including your name, phone number or email address) about your visits to this and other websites in order to provide advertisements on this and other websites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-**You can opt-out of receiving further marketing from Martindale at any time**  
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only Martindale (or agents or contractors working on behalf of Martindale and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of receiving further marketing from Martindale by emailing us at [legalterms@martindale.com](mailto:legalterms@martindale.com).
+**Onward Transfer**  
+We may share information you provide to us through martindale.com with third party applications that use information from Martindale-Hubbell for the benefit of their end users. For example, a third party application may want to display your martindale.com profile information to you or other users through their application. Our contracts with these third party application developers do not permit them to retain, share, or store any personally identifiable information except to provide these services, and they are bound by confidentiality agreements limiting the use of your information. We will only share personally identifiable information that you provide about yourself with these third party application developers with your consent or, in the case of information that you make available to another martindale.com Connected user, if that member consents to the use a third party application that requires information about you that you have shared in order to work.
 
-**Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+You may revoke permission that you granted to any third party partner at any time through the account settings section of "My Connected" area of our website. You can also control what information in your profile can be viewed by other martindale.com Connected users either directly on martindale.com or via third party applications. For example, if your account setting for certain information is set to be visible to "all Connected members," any member of the martindale.com Connected community can access that information and a third party application can retrieve this information only on behalf of that user. You may revoke permission granted to any third party at any time or make other changes to your privacy preferences through the account settings section of "My Connected" area of our website.
 
-**How You Can Access Or Correct Your Information**  
-You can request a copy of the personally-identifiable information that Martindale has collected about you via the Internet by contacting our Information Privacy Manager at the address below. You can also have factual inaccuracies in this information corrected by contacting this same person.
+If you choose to make information available to other people through instant messages, status updates, group forum discussions, electronic mail messages, blog postings, your profile (if any), registering for an event, or by joining groups or using other networking functions that we may offer on our site, this information will be visible to these third parties. Please take care in deciding what information you choose to make available through these mechanisms, as we do not control the manner in which recipients or persons who may see the information may use or re-disclose the information that you choose to provide.
 
-**How To Contact Us**  
-If you would like to contact us for any reason regarding our privacy practices, please write or e-mail us at either of the following addresses:
+We also may disclose information you provide to us to third parties as otherwise permitted by your organization's subscriber agreement(s) (if any). In other cases, it may be necessary to disclose information you provide about yourself or third parties in order to make a disclosure or complete a transaction that you requested.
 
-LexisNexis Martindale-Hubbell  
-Information Privacy Manager  
-121 Chanlon Road  
-New Providence, NJ 07974  
-[legalterms@martindale.com](mailto:legalterms@martindale.com)
+We may outsource some tasks, including the operation of some website functions that require access to information you supply online. In such cases, however, we require that the companies acting on our behalf to institute safeguards to protect the confidentiality of your information.
+
+We may disclose information you provide to other LexisNexis companies or to outside firms so that they can contact you about products or services that may be of interest, but we will provide you with an opportunity to opt not to have your information disclosed for these purposes. For information and opt-out opportunities related to our use of third-party advertising companies and advertising networks, please see the Information Use and Consumer Choice section above.
+
+If our company or our assets are acquired by another company, that company will assume responsibility for the personal information collected by us through this website and it will assume the rights and obligations regarding the information collected through this website, as described in this privacy policy.
+
+Finally, please note that we may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform with the law or to comply with a legal process.
+
+**Access and Correction**  
+As an information company, we know the importance of accurate data. Therefore, we strive to maintain the accuracy of the information collected through this website. Furthermore, we believe that the individual is invaluable in ensuring that data is complete and accurate. We will provide you with access to personally-identifiable information you provide through our website for as long as we maintain that information in a readily accessible format. Similarly, we permit and encourage you to correct inaccuracies in the information you submit to us through our website.
+
+If you wish to correct any inaccurate information you have submitted to this site, please either use mechanisms provided by the site or send an e-mail to: [privacy@lexisnexis.com](mailto:privacy@lexisnexis.com).
+
+The access and correction provisions of this online privacy policy only apply to personally identifiable information collected from you through this website. Individuals that are interested in information about how to access and/or request the correction of personal information LexisNexis maintains about them (such as public record information, insurance claims information, or information for employment background screening) for potential inclusion in information products and services can visit [personalreports.lexisnexis.com](http://www.personalreports.lexisnexis.com/) or [www.lexisnexis.com/privacy](http://www.lexisnexis.com/privacy).
+
+**Security**  
+We take steps to protect against the loss, misuse, or unauthorized alteration of personally-identifiable information collected through this website. We recognize the importance of security for all personally-identifiable information collected by our website.
+
+Once we receive personally-identifiable information, we take steps to protect its security on our systems. In the event we request or transmit sensitive information, such as credit card information, or Social Security Numbers, we use industry standard, secure socket layer ("SSL") encryption.
+
+We limit access to personally-identifiable information to those employees who need access in order to carry out their job responsibilities.
+
+**Other Websites**  
+This online privacy policy only applies to the website(s) identified in the first paragraph of this privacy policy. Our website, however, may include links to other websites which may be operated by other LexisNexis companies or by third parties. If you visit a website not listed above, we recommend that you review the online privacy policy of that website to determine how the operator of that website will handle personal information collected through that website.
+
+**Policy Changes**  
+We may revise this online privacy policy from time to time. If we make any material changes, we will notify you by posting an announcement on the website.
