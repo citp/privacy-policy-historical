@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501063147id_/http%3A//www.cati.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206110407id_/http%3A//www.cati.com/company/privacy-policy.php) for the most accurate reproduction.*
 
-# CATI - Computer Aided Technology, Inc.
+# CATI Privacy Policy
 
 CATI Privacy Policy 
 
-  
 Computer Aided Technology would like to thank you for visiting our website. We know many visitors have questions regarding the privacy of their interactions on our website. We hope this privacy policy statement will answer any questions you may have, but if it does not, please feel free to contact us at the email address or postal address shown below. 
 
 Visiting our Website   
@@ -12,7 +11,7 @@ In general, you can visit the CATI website without telling us who you are or rev
 
 Occasionally you may be asked to give us more specific information about yourself, such as when you register for a seminar or other event, respond to a survey or register for training. Supplying such information to us is optional, but you may be unable to complete certain transactions without giving such information. 
 
-The Use of Personal Information   
+The Use of Personal Information  
 CATI may use the personal information you provide us for a variety of purposes, including registration, authentication, and marketing purposes. We may use the information to inform you of special offers, upgrades and other products and services that may be of interest to you. 
 
 You may use the CATI web site to email your resume to CATI. CATI will keep your resume strictly confidential and use it only in the context of filling employment opportunities at CATI. 
