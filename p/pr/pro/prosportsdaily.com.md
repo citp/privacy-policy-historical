@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629053629id_/http%3A//www.prosportsdaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206061014id_/http%3A//www.prosportsdaily.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,7 +90,7 @@ Most browsers are initially set up to accept cookies. If a user prefers, the use
 **Links To Other Sites And Advertisements**  
 A SportsDirect Inc. website may contain links to other websites and services. While SportsDirect Inc. try to link only to sites and services that share SportsDirect Inc's high standards and respect for privacy, a user should understand that SportsDirect Inc. is not responsible for the content of, or the privacy practices employed by, other companies or websites. This SportsDirect Inc. Privacy Policy applies only to the SportsDirect Inc. services related to this SportsDirect Inc. Privacy Policy. 
 
-The majority of the advertisements which are displayed in connection with SportsDirect Inc. services are served through one or more reputable Third Party advertisement-serving companies which deliver the advertisements to users in conjunction with SportsDirect Inc. services. For more information about what information is collected and how information is used by a major Third Party advertising provider click here. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Additional Information**  
 SportsDirect Inc. Companies automatically collect certain information about the user's computer hardware and software. This information may include: browser type, operating system type, domain names, access times and referring Web site addresses. This information is used by SportsDirect Inc. to operate the service, to maintain the quality of the service, and to provide general statistics regarding use of the SportsDirect Inc. Companies Sites. 
