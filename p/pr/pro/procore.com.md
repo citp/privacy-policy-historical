@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323011307id_/http%3A//www.procore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206062327id_/http%3A//www.procore.com/privacy.html) for the most accurate reproduction.*
 
-# Procore - Privacy Notice
+# Construction Project Management Software - Procore Privacy Notice
 
 ## Procore Privacy Policy
 
