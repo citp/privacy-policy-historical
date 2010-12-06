@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331143059id_/http%3A//www.webtrends.com/AboutWebtrends/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206094531id_/http%3A//www.webtrends.com/AboutWebtrends/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Webtrends Privacy Policy
-
-### New Privacy Policy
 
 ### Last Updated February 12th, 2010
 
@@ -14,11 +12,11 @@ We use the TRUSTe Mark(s) under license from TRUSTe subject to requirements of t
 
 [](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.webtrends.com&sealid=103)
 
-### INFORMATION COLLECTED
+## INFORMATION COLLECTED
 
 Here are a few ways we collect your information and the types of information we collect. We may also obtain information from other sources. We may take that information and combine it with information we collect about you. Information we collect may be in the form of personal information or anonymized data. Anonymized data may be in the form of aggregate data. Aggregate data is information we collect about a group or category of services or users from which individual user identities have been removed. In other words, no personal information is included in aggregate data. Aggregate data helps us understand trends in our users' needs so that we can better consider new features or otherwise tailor our products and services. This Policy does not restrict or limit our collection and use of aggregate data.
 
-### INFORMATION YOU GIVE US
+## INFORMATION YOU GIVE US
 
 We collect personal information you give us. These are the general types of information we may collect from you:
 
@@ -37,7 +35,7 @@ We may automatically collect information using "cookies." Cookies are small data
 **Web Beacons.**  
 We may collect information using Web beacons. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, and understand usage and campaign effectiveness. We also use Web beacons to tell if an email has been opened and acted upon.
 
-### USE OF PERSONAL INFORMATION WE COLLECT
+## USE OF PERSONAL INFORMATION WE COLLECT
 
 We use personal information collected through our Sites in the ways we tell you in this Policy. For example, we may use your information to:
 
@@ -58,7 +56,7 @@ We may also link, combine or supplement your personal information with other per
 
 Webtrends may store and process personal information in the United States, European Union Member States and other countries. Webtrends is a participant in the U.S. Department of Commerce's Safe Harbor program and adheres to the Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union. 
 
-### SHARING OF PERSONAL INFORMATION
+## SHARING OF PERSONAL INFORMATION
 
 We do not share your personal information with third parties other than as follows:
 
@@ -71,11 +69,11 @@ We do not share your personal information with third parties other than as follo
 
 
 
-### SECURITY OF YOUR PERSONAL INFORMATION
+## SECURITY OF YOUR PERSONAL INFORMATION
 
 Webtrends takes reasonable measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-### YOUR INFORMATION CHOICES AND CHANGES
+## YOUR INFORMATION CHOICES AND CHANGES
 
 You may opt-out of receiving promotional emails from Webtrends by following the instructions in those emails. You may request changes to your contact preferences by emailing [comprefs@webtrends.com](mailto:comprefs@webtrends.com). If you opt-out, we may still send you non-promotional emails, such as emails about your accounts, product notices, user forum notices or our ongoing business relations.
 
@@ -89,17 +87,17 @@ Most Web browsers are set to accept cookies by default. If you prefer, you can u
 
 You may also opt-out of receiving future Webtrends cookies from your use of our Sites. In order to identify you as someone who has elected to opt-out of receiving future cookies from Webtrends with respect to your use of our Sites, we will place a cookie on your device. The only purpose of this cookie is to let our servers know that you have opted out of receiving future cookies. You must accept this cookie in order to opt-out. This cookie is created at the time you opt-out and is then never modified. If you later delete this cookie, Webtrends will automatically resume sending cookies when you visit our Sites. You may request this opt-out by emailing [privacy@webtrends.com](mailto:privacy@webtrends.com).
 
-### INFORMATION WE COLLECT FOR OUR CUSTOMERS
+## INFORMATION WE COLLECT FOR OUR CUSTOMERS
 
 Webtrends' customers use our products and services to gather information about their own customers and visitors to their Web sites (“Customer Data”). Webtrends uses Customer Data for the purpose of providing services to customers of our products and services. We treat Customer Data as the property and confidential information of the applicable Webtrends customer. We do not share information collected for one customer with our other customers; provided, that, if a customer is a part of Webtrends' trend data service, we may share anonymized, aggregated data that does not identify any customer or any individual visitor. Neither this privacy policy nor the TRUSTe program covers our customers' privacy practices around their use and collection of Customer Data or our processing of that information at their instruction.
 
-### CHANGES TO THIS POLICY
+## CHANGES TO THIS POLICY
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page.
 
-### ENFORCEMENT
+## ENFORCEMENT
 
 If you have any questions about this Policy, you should first contact us at   
 Webtrends Inc.  
