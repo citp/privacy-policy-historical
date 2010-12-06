@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kdramaqueen.blogspot.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102061914id_/http%3A//kdramaqueen.blogspot.com/2007/03/kdrama-queens-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdramaqueen.blogspot.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206024143id_/http%3A//kdramaqueen.blogspot.com/2007/03/kdrama-queens-privacy-policy.html) for the most accurate reproduction.*
 
 # KDrama Queen: Kdrama Queen's Privacy Policy
 
-###  [Kdrama Queen's Privacy Policy](http://kdramaqueen.blogspot.com/2007/03/kdrama-queens-privacy-policy.html)
+###  Kdrama Queen's Privacy Policy 
 
 Privacy Policy for kdramaqueen.blogspot.com
 
@@ -22,3 +22,5 @@ We use third-party advertising companies to serve ads when you visit our website
 Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [**Google ad and content network privacy policy**. ](http://www.google.com/privacy_ads.html)
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+[](http://www.linkwithin.com/)
