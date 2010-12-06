@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606110627id_/http%3A//www.hipaaspace.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206155214id_/http%3A//www.hipaaspace.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # HIPAA Space Privacy Policy
 
@@ -94,4 +94,4 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 |   
   
-Copyright © 2004-2010  HIPAA Space Privacy Policy (Powered by  Boost Cluster Engine for HIPAA Space Privacy Policy), All Rights Reserved. HIPAA liability, trademark, document use and software licensing rules apply. All registered trademarks, used in the content, are the property of their owners. Your interactions with this site are in accordance with our Terms of Use and Privacy Policy. 
+Copyright © 2004-2010  HIPAA Space Privacy Policy (Powered by  Boost Cluster Engine), all rights reserved. HIPAA liability, trademark, document use and software licensing rules apply. All registered trademarks, used in the content, are the property of their owners. Your interactions with this site are in accordance with our Terms of Use and Privacy Policy. 
