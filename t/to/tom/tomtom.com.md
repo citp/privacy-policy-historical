@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtom.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522020011id_/http%3A//tomtom.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtom.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206201747id_/http%3A//tomtom.com/legal/privacy) for the most accurate reproduction.*
 
 # TomTom, portable GPS car navigation systems - Website Privacy Policy
 
