@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplesitesbigprofits.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117000004id_/http%3A//www.simplesitesbigprofits.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplesitesbigprofits.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206101749id_/http%3A//www.simplesitesbigprofits.com/privacy.htm) for the most accurate reproduction.*
 
 # Make Money Online - Affiliate Marketing - Business Opportunity
 
