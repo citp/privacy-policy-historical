@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613182958id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206030846id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
 
 # International Coach Federation
 
