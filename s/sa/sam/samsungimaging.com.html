@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samsungimaging.com privacy policy that was archived on 2010-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513165504id_/http%3A//www.samsungimaging.com/support/rules.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samsungimaging.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206060321id_/http%3A//www.samsungimaging.com/support/rules.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - SamsungImaging | Samsung camera</title>
@@ -33,7 +33,7 @@
 <body>
 
 <!-- str :: top -->
-<div id="header">
+<div id="ntop">
     
 
 
@@ -47,6 +47,7 @@
 <script type="text/javascript" src="http://www.samsungimaging.com/dwr/interface/SignDWR.js"></script>
 <script type="text/javascript" src="http://www.samsungimaging.com/dwr/interface/MyNetworkDWR.js"></script>
 <script type="text/javascript" src="http://www.samsungimaging.com/dwr/interface/TokenCheckDWR.js"></script>
+<script type="text/javascript" src="http://www.samsungimaging.com/dwr/interface/MiniprofileDWR"></script>
 <script type="text/javascript" src="http://image.samsungimaging.com/js/common/swfobject.js"></script><!-- 20090710 flash object -->
 
 <script type="text/javascript" src="http://www.samsungimaging.com/layout/top.js.do"></script>
@@ -56,34 +57,417 @@
 whenDOMReady(function(){try {dwr.engine.setErrorHandler(dwrGlobalError);}catch(e){}});
 </script>
 
+<script language="javascript">
 
-    <div class="menuwrap"> 
-        <div class="toparea">
-            <div id="flashtop">
-            <a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" title="Get Adobe Flash player"></a>
-            <br><br>
-            You need <a href="http://www.adobe.com/go/getflashplayer">Flash Player 10</a> and allow javascript to see the content of this site.
-            </div>  
+var timeout	= 70;
+var closetimer	= 0;
+var ddmenuitem	= 0;
 
-            <script type="text/javascript">
-            // <![CDATA[        
-            var so = new SWFObject("http://image.samsungimaging.com/swf/com/common/SDIC_TopMenu.swf", "sdictop", "980", "106", "10.0.22", "#FFFFFF");
+// open hidden layer
+function mopen(url, id, nobj, num, count)
+{	
 
-            <!-- 탑메뉴 xml경로 -->
-            so.addVariable("topxml", "http://www.samsungimaging.com/layout/top.xml.do");
+	//url = globalCommonImgServer;
 
-            
-            so.addVariable("isLogin", "0");     
-            so.addVariable("user", "");               
-            so.addParam("wmode", "transparent");
-            so.addParam("menu", "false");
-            so.addParam("AllowScriptAccess", "always");
-            // ]]>
-            </script>           
-        </div>
-    </div>
+	// cancel close timer
+	mcancelclosetime();
 
-<script language="javascript">so.addVariable("myURL", "0|");so.addVariable("curOver", "0|");so.addVariable("history", "");so.write("flashtop");</script>
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.display = 'none';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.display = '';
+
+	for (i = 1; i < count; i++) {
+		if (num == i) {		
+			document.getElementById(nobj).src = url + '/img/common/common/btn_'+nobj+"_on.gif";
+		}
+	}
+
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.display = 'none';
+}
+
+// go close timer
+function mclosetime(url,nobj)
+{	
+
+	//url = globalCommonImgServer;
+
+	closetimer = window.setTimeout(mclose, timeout);
+
+	document.getElementById(nobj).src = url + '/img/common/common/btn_'+nobj+"_off.gif";		
+}
+
+// cancel close timer
+function mcancelclosetime(url, nobj, num, count)
+{
+	
+	//url = globalCommonImgServer;
+
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+
+	for (i = 1; i < count; i++) {
+		if (num == i) {		
+			document.getElementById(nobj).src = url + '/img/common/common/btn_'+nobj+"_on.gif";
+		}
+	}
+
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+
+function mnRoll(url, nobj, num, count)
+{
+	for (i = 1; i < count; i++) {
+		if (num == i) {		
+			document.getElementById(nobj).src = url + '/img/common/common/btn_'+nobj+"_on.gif";
+		}
+	}
+
+}
+
+</script>
+
+<script type="text/javascript">
+
+	function main_search() {
+		var formObj = document.getElementById("searchWord");
+		//formObj.action = "/common/search/search.allresult.do";
+		//formObj.submit();
+		var categoryCode = formObj.searchCategory.value; 
+        var keyWord = formObj.sub_keyword.value;
+		location.href = "/common/search/search.allresult.do?keyword="+keyWord+"&category_code="+categoryCode;
+	}
+
+	function mainSearchKeyDownFn(e) {
+		if(e.keyCode == 13) {
+			main_search();
+			return false;
+		}
+		return true;
+	}
+</script>
+
+
+
+<!-- str :: Mini Profile -->
+<div id="nminiProfile" class="nmini" style="display:none;"></div>
+<div id="nfriendOk" class="nfriend" style="display:none;"></div>
+<!-- end :: Mini Profile -->
+	<!-- str :: GNB -->
+	<div id="nnaviback">
+		<div id="nnavi">
+			<div class="gnbarea forpng">
+				<div class="gnbtop">
+					<a href="http://www.samsungimaging.com/index.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_logo.gif" alt="SAMSUNG IMAGING smart photo and video sharing" class="floatl mgt5"></a>
+					<ul class="floatr">
+					
+						<li><a href="https://qlalf.samsungimaging.com/common/myprofile/member/signForm.do">Sign-in</a></li>
+						<li><a href="https://qlalf.samsungimaging.com/common/myprofile/member/joinForm.do">Register</a></li>
+						<li><a href="http://www.samsungimaging.com/main/sitetour.do">Site Guide</a></li>
+						<li><a href="http://www.samsungimaging.com/common/support/notice/list.do?boardName=notice1">Support</a></li>
+						<li><a href="http://www.samsungimaging.com/common/imglogger/index.do">Imageloger</a></li>
+					
+					</ul>
+				</div>
+				<div class="gnbnavi clearfix">
+					<span class="floatl"><a href="http://www.samsungimaging.com/index.do"><img src="http://image.samsungimaging.com/img/common/common/btn_home_off.gif" alt="" onmouseover="img_change(this,'on')" onmouseout="img_change(this,'off')"></a></span><a href="http://www.samsungimaging.com/index.do">
+					<!-- str :: 1depth -->
+					</a><ul class="floatl" id="sddm"><a href="http://www.samsungimaging.com/index.do">
+						</a><li><a href="http://www.samsungimaging.com/index.do"></a><a href="http://www.samsungimaging.com/explore/index.do" onfocus="this.blur()" onmouseover="mopen('http://image.samsungimaging.com','m1','gnbnavi1',1,6)" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi1')"><img src="http://image.samsungimaging.com/img/common/common/btn_gnbnavi1_off.gif" alt="Gallery" id="gnbnavi1" onmouseover="mnRoll('http://image.samsungimaging.com','gnbnavi1',1,6)"></a></li>
+						<li><a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/index.do" onfocus="this.blur()" onmouseover="mopen('http://image.samsungimaging.com','m2','gnbnavi2',2,6)" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi2')"><img src="http://image.samsungimaging.com/img/common/common/btn_gnbnavi2_off.gif" alt="Product" id="gnbnavi2" onmouseover="mnRoll('http://image.samsungimaging.com','gnbnavi2',2,6)"></a></li>
+						<li><a href="http://www.samsungimaging.com/learn/forum/index.do" onfocus="this.blur()" onmouseover="mopen('http://image.samsungimaging.com','m3','gnbnavi3',3,6)" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi3')"><img src="http://image.samsungimaging.com/img/common/common/btn_gnbnavi3_off.gif" alt="Photo Life" id="gnbnavi3" onmouseover="mnRoll('http://image.samsungimaging.com','gnbnavi3',3,6)"></a></li>
+						<li><a href="http://www.samsungimaging.com/photography-challenge/main/index.do" onfocus="this.blur()" onmouseover="mopen('http://image.samsungimaging.com','m4','gnbnavi4',4,6)" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi4')"><img src="http://image.samsungimaging.com/img/common/common/btn_gnbnavi4_off.gif" alt="Challenge" id="gnbnavi4" onmouseover="mnRoll('http://image.samsungimaging.com','gnbnavi4',4,6)"></a></li>
+						<li><a href="http://www.samsungimaging.com/collaborate/intro/index.do" onfocus="this.blur()" onmouseover="mopen('http://image.samsungimaging.com','m5','gnbnavi5',5,6)" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi5')"><img src="http://image.samsungimaging.com/img/common/common/btn_gnbnavi5_off.gif" alt="Event" id="gnbnavi5" onmouseover="mnRoll('http://image.samsungimaging.com','gnbnavi5',5,6)"></a></li>
+					</ul>
+					<!-- end :: 1depth -->
+					<div class="gnbsearch floatr mgt12">
+
+						<!-- 2010/10/15 -->		                
+						<a href="javascript:registProduct();"><img src="http://image.samsungimaging.com/img/common/common/btn_productrecord_off.gif" alt="Product Registration" class="floatl mgr13 mgt2" onmouseover="img_change(this,'on')" onmouseout="img_change(this,'off')"></a>
+
+						<form name="searchWord" id="searchWord">
+						<span class="floatl mgr1">
+							<select class="gnbselect" id="searchCategory" name="searchCategory">
+								<option value="">All</option>
+								<option value="100">People</option>
+								<option value="200">Photo</option>
+								<option value="300">Video</option>
+								<option value="500">Photo Life</option>
+								<option value="600">Challenge</option>
+								<option value="700">Event</option>
+								<option value="800">Product</option>
+							</select>
+						</span>
+						<span class="gnbinput floatl mgr5">
+							<input type="text" id="sub_keyword" name="sub_keyword" onfocus="this.value=''; return true" onkeydown="return mainSearchKeyDownFn(event);" value="Search"><a href="javascript:main_search();"><img src="http://image.samsungimaging.com/img/common/common/btn_searchgo.gif" alt="go"></a>
+						</span>
+						</form>
+						<a href="http://www.samsungimaging.com/common/search/advanced.search.do?is_advanced=true"><img src="http://image.samsungimaging.com/img/common/common/btn_searchdetail_off.gif" alt="Advanced" class="floatr mgr15 mgt2" onmouseover="img_change(this,'on')" onmouseout="img_change(this,'off')"></a>
+					</div>
+				</div>
+			</div>
+			<!-- str :: 2depth 갤러리 -->
+			<div id="m1" onmouseover="mcancelclosetime('http://image.samsungimaging.com','gnbnavi1',1,6);" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi1');" class="gnbnavi_sub" style="display:none;">
+				<div class="gnbsarea">
+					<div class="gnbsdata clearfix">
+						<div class="gnbsdata_style1 clearfix">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depgallery1.gif" alt="Video Gallery"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/explore/index.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep1_1.jpg" alt="">Explore and enjoy photos from<br>all over the world .</a>
+									</div>
+								</dd>
+							</dl>
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depgallery2.gif" alt="Video Gallery"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/explore/index_movie.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep1_2.jpg" alt="">Explore and enjoy videos from all<br>over the world .</a>
+									</div>
+								</dd>
+							</dl>
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depgallery3.gif" alt="Must See Gallery"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/main/photoOfToday.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep1_3.jpg" alt="">Don’t miss exceptional and<br>interesting photos.</a>
+									</div>
+								</dd>
+							</dl>
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depgallery4.gif" alt="World Map"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/component/gmaps/worldmap.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep1_4.jpg" alt="">Map your route with photos and<br>videos you have taken.</a>
+									</div>
+								</dd>
+							</dl>
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depgallery5.gif" alt="My Gallery"></dt>
+								<dd>
+									<div>
+										
+												<a href="javascript:goLoginPage('https://qlalf.samsungimaging.com/common/myprofile/member/signForm.do?returnUrl=/common/myprofile/member/productModifyForm.do');" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep1_5.jpg" alt=""></a>
+										
+									</div>
+										
+												<p><a href="javascript:goLoginPage('https://qlalf.samsungimaging.com/common/myprofile/member/signForm.do?returnUrl=/common/myprofile/member/productModifyForm.do');" onfocus="this.blur()">My  own gallery where my<br>memories stays.</a></p>
+										
+								</dd>
+							</dl>
+						</div>
+					</div>
+				</div>
+				<div class="gnbsbottom forpng"></div>
+			</div>
+			<!-- end :: 2depth 갤러리 -->
+			<!-- str :: 2depth 제품정보 -->
+			<div id="m2" onmouseover="mcancelclosetime('http://image.samsungimaging.com','gnbnavi2',2,6);" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi2');" class="gnbnavi_sub" style="display:none;">
+				<div class="gnbsarea">
+					<div class="gnbsdata clearfix">
+						<div class="gnbsdata_style6">
+							<dl>
+								<dt class="product1"><img src="http://image.samsungimaging.com/img/common/common/tit_n2depproduct1.gif" alt="Digital Camera"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=205" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_1.jpg" alt=""><em>NX</em></a>
+									</div>
+								</dd>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=7" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_2.jpg" alt=""><em>Compact</em></a>
+									</div>
+								</dd>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=6" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_3.jpg" alt=""><em>Digital SLR</em></a>
+									</div>
+								</dd>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=12" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_4.jpg" alt=""><em>Lens &amp; Accessories</em></a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style6">
+							<dl>
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depproduct2.gif" alt="Camcorder"></dt> <!-- 20100917 -->
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=15" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_5.jpg" alt=""><em>HD Camcorder</em></a>
+									</div>
+								</dd>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=16" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_6.jpg" alt=""><em>SD Camcorder</em></a>
+									</div>
+								</dd>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productCategoryList.do?prdCtgSeq=201" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_7.jpg" alt=""><em>Accessories</em></a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style4">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depproduct3.gif" alt="Product Promotion"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/campaign-cf/globalCampaignList.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep2_8.jpg" alt="">All the materials such as microsite and<br>TVC to promote products recently.</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+					</div>
+				</div>
+				<div class="gnbsbottom forpng"></div>
+			</div>
+			<!-- end :: 2depth 제품정보 -->
+			<!-- str :: 2depth 포토라이프 -->
+			<div id="m3" onmouseover="mcancelclosetime('http://image.samsungimaging.com','gnbnavi3',3,6);" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi3');" class="gnbnavi_sub" style="display:none;">
+				<div class="gnbsarea">
+					<div class="gnbsdata clearfix">
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2deplife1.gif" alt="Review"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/forum/message/list.do?boardName=REVIEW" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep3_1.jpg" alt="">Product Review</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2deplife2.gif" alt="Culture &amp;"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/forum/message/list.do?boardName=CULTURE" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep3_2.jpg" alt="">Photography &amp; Culture</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2deplife3.gif" alt="Tip &amp; Guide"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/learn/forum/message/list.do?boardName=TIP_GUIDE" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep3_3.jpg" alt="">Tips for being a master of photography</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style4">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2deplife4.gif" alt="Imageloger"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/common/imglogger/index.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep3_4.jpg" alt="">Digital Creators<br>who lead the new culture by images</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+					</div>
+				</div>
+				<div class="gnbsbottom forpng"></div>
+			</div>
+			<!-- end :: 2depth 포토라이프 -->
+			<!-- str :: 2depth 공모전 -->
+			<div id="m4" onmouseover="mcancelclosetime('http://image.samsungimaging.com','gnbnavi4',4,6);" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi4');" class="gnbnavi_sub" style="display:none;">
+				<div class="gnbsarea">
+					<div class="gnbsdata clearfix">
+						<div class="gnbsdata_style3" style="display:">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depchallenge1.gif" alt="Current Challenge"></dt>
+								<dd>
+									<div><a href="http://www.samsungimaging.com/photography-challenge/main/index.do"><img src="http://image.samsungimaging.com/img/common/common/challeng_thum_201011.jpg" alt=""><strong>Winter Picture</strong><br><em>Nov 16, 2010 ~ Jan 11, 2011</em></a></div><!-- 20101001 -->
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style3"> 
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depchallenge4.gif" alt="Previous Challenge"></dt>
+								<dd>
+									<div><a href="http://www.samsungimaging.com/photography-challenge/main/previous.tile.do"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep4_5.jpg" alt="">See the result of previous challenges<br>in this section.</a></div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depchallenge2.gif" alt="Challenge Winner"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/photography-challenge/main/completion.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep4_3.jpg" alt="">Honorable winners of Challenges</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depchallenge3.gif" alt="Timeline"></dt>
+								<dd>
+									<div>
+										<a href="http://www.samsungimaging.com/photography-challenge/main/timeline.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep4_4.jpg" alt="">Challenge Archive by timeline.</a>
+									</div>
+								</dd>
+							</dl>
+						</div>
+					</div>
+				</div>
+				<div class="gnbsbottom forpng"></div>
+			</div>
+			<!-- end :: 2depth 공모전 -->
+			<!-- str :: 2depth 이벤트 -->
+			<div id="m5" onmouseover="mcancelclosetime('http://image.samsungimaging.com','gnbnavi5',5,6);" onmouseout="mclosetime('http://image.samsungimaging.com','gnbnavi5');" class="gnbnavi_sub" style="display:none;">
+				<div class="gnbsarea">
+					<div class="gnbsdata clearfix">
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depevent1.gif" alt="Current Event"></dt>
+								<dd>
+									<div><a href="http://www.samsungimaging.com/collaborate/intro/index.do" onfocus="this.blur()"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep5_1.jpg" alt=""><strong>National Geographic NX10 Gallery</strong><br><em>Sep 01, 2010 ~ Dec 31, 2010</em></a></div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style3">
+							<dl class="basic">
+								<dt><img src="http://image.samsungimaging.com/img/common/common/tit_n2depevent2.gif" alt="Previous Event"></dt>
+								<dd>
+									<div><a href="http://www.samsungimaging.com/collaborate/intro/past_collaborate.do"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep5_2.jpg" alt="">See the result of previous events <br>in this section</a></div>
+								</dd>
+							</dl>
+						</div>
+						<div class="gnbsdata_style7">
+							<div class="basic">
+								<div><a href="http://www.samsungimaging.com/campaign/nx100/challenge.html#event"><img src="http://image.samsungimaging.com/img/common/common/img_n2dep5_3.jpg" alt=""></a></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="gnbsbottom forpng"></div>
+			</div>
+			<!-- end :: 2depth 이벤트 -->
+			<div class="gnbbottom forpng"></div>
+		</div>
+	</div>
+<!-- end :: GNB -->
+
+<div id="spos1"><div class="bodytop_sub forpng"><p>Privacy</p></div></div>
 
 </div>
 <!-- end :: top -->
@@ -295,107 +679,106 @@ This BADA Server and the communications generated from using and/or registering 
 <hr>
 <!-- str :: bottom -->
 
-<script type="text/javascript" src="http://www.samsungimaging.com/dwr/interface/MiniprofileDWR"></script>
-<script type="text/javascript" src="http://www.samsungimaging.com/dwr/engine.js"></script>
-<script type="text/javascript" src="http://www.samsungimaging.com/dwr/util.js"></script>
+
 <style type="text/css">
 .alinkhover dt:hover {color:#EB4478; font-size:20px; font-family:Arial, Verdana, sans-serif; text-decoration:underline;}
 </style>
-<!-- footer map 추가(2009.8.11) -->
+
 <div class="footermenus clearfix">
-    <div class="floatl fmenus">
-
-        <dl class="mgl10">
-            <a href="http://www.samsungimaging.com/index.do" class="alinkhover"><dt><h3>Samsung Imaging</h3></dt></a>
-            <dd>
-                <ul class="clearfix">
-                    <li class="first"><a href="http://www.samsungimaging.com/index.do">Home</a></li>
-                    <li><a href="http://www.samsungimaging.com/common/support/notice/list.do?boardName=notice1">News</a></li>
-                    <li><a href="http://www.samsungimaging.com/common/myprofile/member/signForm.do">Sign-in</a></li>
-                    <li><a href="http://www.samsungimaging.com/common/myprofile/member/selectForm.do">Register</a></li>
-                    <li><a href="http://www.samsungimaging.com/main/sitetour.do">Site-tour</a></li>
-                    <li><a href="http://www.samsungimaging.com/common/search/advanced.search.do?is_advanced=true">Search</a></li>
-                </ul>
-            </dd>
-        </dl> 
-        <dl class="mgt5 mgl10">
-            <a href="http://www.samsungimaging.com/explore/index.do" class="alinkhover"><dt><h3>Explore</h3></dt></a>
-            <dd>
-                <ul class="clearfix">
-                    <li class="first"><a href="http://www.samsungimaging.com/explore/index.do">Gallery</a></li>
-                    <li><a href="http://www.samsungimaging.com/component/gmaps/worldmap.do">World Map</a></li>
-                </ul>
-            </dd>
-        </dl>
-
-    </div>
-    <div class="floatl fmenus">
-        <dl class="mgl10">
-            <a href="http://www.samsungimaging.com/learn/index.do" class="alinkhover"><dt><h3>Learn</h3></dt></a>
-            <dd>
-                <ul class="clearfix">
-                    <li class="first"><a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productSubMain.do?forward=camera">Digital Camera</a></li>
-                    <li><a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productSubMain.do?forward=camcorder">Camcorder</a></li>
-                    <li><a href="http://www.samsungimaging.com/learn/photography-skill-technology/index.do">Skills &amp; Techniques</a></li><br>
-                    <li><a href="http://www.samsungimaging.com/learn/forum/index.do">Forum</a></li>
-                    <li><a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/productSearchList.do">Find a Product</a></li>
-                    <li><a href="http://www.samsungimaging.com/camera/digital-camera/st550-st500-dual-lcd-samsung-digital-camera/index.do">ST550 Dual LCD</a></li>
-                </ul>
-            </dd>
-        </dl>   
-        <dl class="mgt5 mgl10">
-            <a href="http://www.samsungimaging.com/photography-challenge/intro/index.do" class="alinkhover"><dt><h3>Challenge</h3></dt></a>
-            <dd>
-                <ul class="clearfix">
-                    <li class="first"><a href="http://www.samsungimaging.com/photography-challenge/intro/index.do">Challenges</a></li>
-                    <li><a href="http://www.samsungimaging.com/photography-challenge/intro/completion.do">Challenge Winner</a></li>
-                </ul>
-            </dd>
-        </dl>
-    </div>
-    <div class="floatl fmenuslast">
-        <dl class="mgl10">
-            <a href="http://www.samsungimaging.com/collaborate/intro/index.do" class="alinkhover"><dt><h3>Collaborate</h3></dt></a>
-            <dd>
-                <ul class="clearfix">
-                    <li class="first"><a href="http://www.samsungimaging.com/collaborate/intro/index.do">Collaborates</a></li>
-                    <li><a href="http://www.samsungimaging.com/collaborate/intro/timeline.do">Event Timeline</a></li>
-                    <li><a href="http://www.samsungimaging.com/experience/slideshow.do">Slideshow</a></li>
-                </ul>
-            </dd>
-        </dl>   
-        <dl class="mgt15 mgl10">
-            <a href="http://www.samsungimaging.com/common/support/notice/list.do?boardName=notice1" class="alinkhover"><dt><h3>Support</h3></dt></a>
-            <dd>
-                <ul class="clearfix">
-                    <li class="first"><a href="http://www.samsungimaging.com/common/support/notice/list.do?boardName=notice1">Notice</a></li>
-                    <li><a href="http://www.samsungimaging.com/common/support/faq/list.do">FAQ</a></li>
-                    <li><a href="http://www.samsungimaging.com/common/support/qna/qna.write.form.do">1:1 Inquiry</a></li>
-                </ul>
-            </dd>
-        </dl>
-    </div>
+	<div class="floatl fmenus">
+		<dl>
+			<dt><h3>Gallery</h3></dt>
+			<dd>
+				<ul class="clearfix">
+					<li class="first"><a href="http://www.samsungimaging.com/explore/index.do">Photo Gallery</a></li>
+					<li><a href="#"></a></li>
+					<li><a href="http://www.samsungimaging.com/explore/index_movie.do">Video Gallery</a></li>
+					<li class="last"><a href="http://www.samsungimaging.com/main/photoOfToday.do">Must See Gallery</a></li>
+					<li class="first"><a href="http://www.samsungimaging.com/component/gmaps/worldmap.do">World Map</a></li>
+					
+				</ul>
+			</dd>
+		</dl>
+		
+		<dl class="mgt15">
+			<dt><h3>Product</h3></dt>
+			<dd>
+				<ul class="clearfix">
+					<li class="first"><a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/index.do">Digital Camera</a></li>
+					<li><a href="http://www.samsungimaging.com/learn/digital-camera-camcorder/index.do">Digital Camcorder</a></li>
+					<li><a href="http://www.samsungimaging.com/learn/campaign-cf/globalCampaignList.do">Product Promotion</a></li>
+				</ul>
+			</dd>
+		</dl>
+	</div>
+	<div class="floatl fmenus">
+		<dl class="mgl10">
+			<dt><h3>Photo Life</h3></dt>
+			<dd>
+				<ul class="clearfix">
+					<li class="first"><a href="http://www.samsungimaging.com/learn/forum/message/list.do?boardName=REVIEW">Review</a></li>
+					<li><a href="http://www.samsungimaging.com/learn/forum/message/list.do?boardName=CULTURE">Culture &amp;</a></li>
+					<li><a href="http://www.samsungimaging.com/learn/forum/message/list.do?boardName=TIP_GUIDE">Tip &amp; Guide</a></li>
+					<li><a href="http://www.samsungimaging.com/common/imglogger/index.do">Imageloger</a></li>
+				</ul>
+			</dd>
+		</dl>	
+		<dl class="mgt5 mgl10">
+			<dt><h3>Challenge</h3></dt>
+			<dd>
+				<ul class="clearfix">
+					<li class="first"><a href="http://www.samsungimaging.com/photography-challenge/main/index.do">Current Challenge</a></li>
+					<li class="last"><a href="http://www.samsungimaging.com/photography-challenge/main/previous.tile.do">Previous Challenge</a></li>
+					<li class="first"><a href="http://www.samsungimaging.com/photography-challenge/main/completion.do">Challenge Winner</a></li>
+					<li><a href="http://www.samsungimaging.com/photography-challenge/main/timeline.do">Timeline</a></li>
+				</ul>
+			</dd>
+		</dl>
+	</div>
+	<div class="floatl fmenuslast">
+		<dl class="mgl10">
+			<dt><h3>Event</h3></dt>
+			<dd>
+				<ul class="clearfix">
+					<li class="first"><a href="http://www.samsungimaging.com/collaborate/intro/index.do">Current Event</a></li>
+					<li><a href="http://www.samsungimaging.com/collaborate/intro/past_collaborate.do">Previous Event</a></li>
+				</ul>
+			</dd>
+		</dl>	
+		<dl class="mgt15 mgl10">
+			<dt><h3>Support</h3></dt>
+			<dd>
+				<ul class="clearfix">
+					<li class="first"><a href="http://www.samsungimaging.com/common/support/notice/list.do?boardName=notice1">Notice</a></li>
+					<li><a href="http://www.samsungimaging.com/common/support/qna/qna.write.form.do">1:1 Inquiry</a></li>
+                    <li><a href="http://www.samsungimaging.com/common/support/download/downloadList.do">Download</a></li>
+					<li><a href="http://www.samsungimaging.com/common/support/faq/list.do">FAQ</a></li>
+					<li><a href="http://www.samsungimaging.com/main/sitetour.do">Site Guide</a></li>
+				</ul>
+			</dd>
+		</dl>
+	</div>
 </div>
-
+<!-- end :: -->
 <hr>
-<!-- footer map 추가(2009.8.11) -->
-
+<!-- str :: bottom -->
 <div id="footer">
     <div class="footerarea clearfix">
         <ul class="floatl clearfix mgt25">
-			<li><a href="http://www.samsung.com/uk/aboutsamsung/corporateprofile/affiliatedcompanies.html" rel="nofollow" target="_blank">About SAMSUNG ELECTRONICS</a></li>                            
-            <li><a href="/common/support/notice/list.do?boardName=notice1">Support</a></li>
-            <li><a href="/support/terms.do">Terms of Service</a></li>
-            <li><a href="/support/rules.do">Privacy</a></li>
-            <li><a href="/support/sitemap.do">Sitemap</a></li>
+            <li><a href="http://www.samsungimaging.com/common/support/utility/about_introduce.do">About Us</a></li>
+            <li><a href="http://www.samsungimaging.com/common/support/notice/list.do?boardName=notice1">Support</a></li>
+            <li><a href="http://www.samsungimaging.com/support/terms.do">Terms of Service</a></li>
+            <li><a href="http://www.samsungimaging.com/support/rules.do">Privacy</a></li>
+            <li><a href="http://www.samsungimaging.com/support/sitemap.do">Sitemap</a></li>
         </ul>
-        <select class="setfolder floatl mgt22 mgl10" onchange="javascript:if(this.value != '') {return window.open(this.value);}">
+		<select class="setfolder floatl mgt22 mgl10" onchange="javascript:if(this.value != '') {return window.open(this.value);}">
         	<option>LINK</option>
         	<option value="http://www.samsung.com/us" rel="nofollow">Samsung.com</option>        
-        </select>
-		<p class="floatr bottomcopy mgt14 pat11 white">Copyright © 2010 SAMSUNG. All rights reserved.</p>  
+        </select>			
+        <p class="floatr bottomcopy mgt14 pat11 white">Copyright © 2010 Samsung Electronics Co., Ltd.</p>
     </div>
 </div>
+
 <!-- The profile information of this member is not available. -->
 <div id="notavailable" class="nomember" style="display:none">
     <div class="clearfix">
@@ -415,7 +798,7 @@ This BADA Server and the communications generated from using and/or registering 
 </div>
 <div id="urlLayer"></div>
 
-    <form name="commonUserLoginForm" id="commonUserLoginForm" action="https://qlalf.samsungimaging.com:443/common/myprofile/member/signForm.do">
+    <form name="commonUserLoginForm" id="commonUserLoginForm" action="https://qlalf.samsungimaging.com/common/myprofile/member/signForm.do">
         <input type="hidden" name="returnUrl" value="">
     </form>
 
