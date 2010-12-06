@@ -1,21 +1,29 @@
-> *The following text is extracted and transformed from the bonluxat.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428092309id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonluxat.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207005752id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bonluxat (at) bonluxat.com. 
 
-At www.bonluxat.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.bonluxat.com and how it is used. 
+At Bonluxat, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Bonluxat and how it is used. 
 
-Like many other Web sites, www.bonluxat.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+## Log Files
 
-www.bonluxat.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Like many other Web sites, Bonluxat makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
+## Cookies and Web Beacons
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.bonluxat.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Bonluxat does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-www.bonluxat.com has no access to or control over these cookies that are used by third-party advertisers. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.bonluxat.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Bonluxat send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+Bonluxat has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Bonluxat's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+## Data protection
+
+The personal data which is received from users in the course of the Bonluxat information and communication services, together with the information service (newsletter), in applications (apply) or in other ways is recorded and processed by Bonluxat. Bonluxat will use the data which is provided in order to supply its registered users with the required information and to improve its own services. Bonluxat hereby assures users that all personal data will be handled in the strictest confidence and will not be made available to third parties. The transmission of data to third parties will only take place to the vendor or manufacturer contacted by the user and only to the extent of the request made by the user (e.g. in price or information requests). 
