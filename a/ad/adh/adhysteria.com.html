@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adhysteria.com privacy policy that was archived on 2009-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090317084129id_/http%3A//www.adhysteria.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adhysteria.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206084927id_/http%3A//www.adhysteria.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy</title>
@@ -7,29 +7,113 @@
 <meta name="Author" content="">
 <meta name="Keywords" content="">
 <meta name="Description" content="">
+<link href="css/style_sheet.css" rel="stylesheet" type="text/css">
+<link href="css/snse_final_style.css" rel="stylesheet" type="text/css">
+<link href="css/ah.css" rel="stylesheet" type="text/css">
+<link href="css/show_user_profile.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 <link href="css/style_sheet.css" rel="stylesheet" type="text/css">
+<link href="css/ah.css" rel="stylesheet" type="text/css">
+	
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 
+  <!--<tr>
+    <td bgcolor="#B6B5B5"><img src="images/spacer.gif" width="12" height="5" border="0" /></td>
+  </tr>-->
 
-
-
-
-
-
-
-
-
+  <tbody><tr><td>
+ 
+<link href="../css/ah.css" rel="stylesheet" type="text/css">
+<link href="../css/show_user_profile.css" rel="stylesheet" type="text/css">
+<link href="../css/snse_final_style.css" rel="stylesheet" type="text/css">
 <link href="../css/style_sheet.css" rel="stylesheet" type="text/css">
 
 
 
-<title>Free Social Video Classifieds , Photo classifieds with Video Auctions</title>
+<!-- Added by Debashis -->
+<script language="JavaScript">
 
-<meta name="description" content="Adhysteria.com" is="" community-focused="" website="" offering="" video="" classifieds,="" auctions,="" photo="" classfieds="" ,events="" calendars,="" classified="" ad="" posting,="" and="" forums="" for="" visitors="" seeking="" information="" about="" specific="" interests.="">
 
-<meta name="keywords" content="video" classifieds,="" video="" auctions,="" photo="" ads="" for="" free,="" usa="" australia,uk="" classifieds,aus="" london="" classifieds="" ,america="" indian="" singapore="" ads,="" australia,="" asia="" ,="" europe="" advertising,="" autos="" &="" vehicles,="" business="" services,="" entertainment="" reviews,="" sale,="" health,="" fitness="" sports,="" hotels="" destinations,="" how="" to="" style,="" promote="" your="" website,="" real="" estate,="" restaurants="" food="">
+//Disable right mouse click Script
+
+var message="Function Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("return false")
+
+
+
+//-----------------------------
+function disableselect(e)
+{
+	return false
+}
+
+function reEnable()
+{
+	return true
+}
+
+//if IE4+
+
+document.onselectstart=new Function ("return false")
+
+//if NS6
+
+/*if (window.sidebar)
+{
+	document.onmousedown=disableselect
+	document.onclick=reEnable
+
+}*/
+//-------------- 
+</script>
+
+<!-- END -->
+
+
+
+
+
+
+
+
+
+
+<title>The only destination for Free Hi Definition Video Classifieds , Photo classifieds and Video Auctions</title>
+
+<link rel="shortcut icon" href="http://adhysteria.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://adhysteria.com/favicon.ico" type="image/x-icon"> 
+
+<meta name="description" content="Adhysteria.com  is community-focused website offering upload of hi definition video classifieds, video auctions, photo classifieds ,events calendars, classified ad posting, and forums for visitors seeking information about specific interests">
+
+<meta name="keywords" content="video classifieds, hi def, hi definition ,video auctions, photo classifieds, ads for free, Indian classifieds, singapore ads, advertising, Autos &amp; Vehicles, Business &amp; Services, Entertainment &amp; Reviews, For Sale, Health, Fitness &amp; Sports, Hotels &amp; Destinations, How To &amp; Style, Promote Your Website, Real Estate India, Restaurants &amp; Food">
 
 <meta name="abstract" content="Free" social="" video="" classifieds="" ,="" photo="" with="" auctions="">
 
@@ -39,1182 +123,846 @@
 
 
 
+
+
+
+
 <script language="javascript">
-
-function getVars(){
-
-	this.fieldN = new Array();	// Field name
-
-	this.fieldV = new Array();	// Field value
-
-	this.fieldT = new Array();	// Field type (text, editor, checkbox, radio, select, mselect, date)
-
-	this.fieldI = new Array();	// Field Id
-
-	this.fieldC = new Array();	// Check for equal field
-
-	this.fieldEQ = new Array();	// Check for equal supplied string match
-
-	this.fieldNM = new Array();	// if 1 Check for field is Numeric
-
-	this.fieldGT = new Array();	// Check for Greater than supplied string	(works for field type text and date only)	
-
-	this.fieldLT = new Array();	// Check for Less than supplied string	(works for field type text and date only)
-
-	this.fieldGE = new Array();	// Check for Grter thn o equal to supplied str(works for field type text & date only)
-
-	this.fieldLE = new Array();   // Check for Less than o equal to supplied string(works for field type text & date only)
-
-	this.fieldBT = new Array();	// Check for between 2 values	(works for field type text only)
-
+function fn_search()
+{
+	//alert(document.frm_search.search.value);
+	var link=document.frm_search.search.value;
+	parent.location.href=link;
 }
 
+</script>
+<script type="text/javascript">
+/* Simple AJAX Code-Kit (SACK) */
+/* Š2005 Gregory Wild-Smith */
+/* www.twilightuniverse.com */
+/* Software licenced under a modified X11 licence, see documentation or authors website for more details */
 
+function sack(file){
+	this.AjaxFailedAlert = "Your browser does not support the enhanced functionality of this website, and therefore you will have an experience that differs from the intended one.\n";
+	this.requestFile = file;
+	this.method = "POST";
+	this.URLString = "";
+	this.encodeURIString = true;
+	this.execute = false;
+
+	this.onLoading = function() { };
+	this.onLoaded = function() { };
+	this.onInteractive = function() { };
+	this.onCompletion = function() { };
+
+	this.createAJAX = function() {
+		try {
+			this.xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+		} catch (e) {
+			try {
+				this.xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+			} catch (err) {
+				this.xmlhttp = null;
+			}
+		}
+		if(!this.xmlhttp && typeof XMLHttpRequest != "undefined")
+			this.xmlhttp = new XMLHttpRequest();
+		if (!this.xmlhttp){
+			this.failed = true; 
+		}
+	};
+	
+	this.setVar = function(name, value){
+		if (this.URLString.length < 3){
+			this.URLString = name + "=" + value;
+		} else {
+			this.URLString += "&" + name + "=" + value;
+		}
+	}
+	
+	this.encVar = function(name, value){
+		var varString = encodeURIComponent(name) + "=" + encodeURIComponent(value);
+	return varString;
+	}
+	
+	this.encodeURLString = function(string){
+		varArray = string.split('&');
+		for (i = 0; i < varArray.length; i++){
+			urlVars = varArray[i].split('=');
+			if (urlVars[0].indexOf('amp;') != -1){
+				urlVars[0] = urlVars[0].substring(4);
+			}
+			varArray[i] = this.encVar(urlVars[0],urlVars[1]);
+		}
+	return varArray.join('&');
+	}
+	
+	this.runResponse = function(){
+		eval(this.response);
+	}
+	
+	this.runAJAX = function(urlstring){
+		this.responseStatus = new Array(2);
+		if(this.failed && this.AjaxFailedAlert){ 
+			alert(this.AjaxFailedAlert); 
+		} else {
+			if (urlstring){ 
+				if (this.URLString.length){
+					this.URLString = this.URLString + "&" + urlstring; 
+				} else {
+					this.URLString = urlstring; 
+				}
+			}
+			if (this.encodeURIString){
+				var timeval = new Date().getTime(); 
+				this.URLString = this.encodeURLString(this.URLString);
+				this.setVar("rndval", timeval);
+			}
+			if (this.element) { this.elementObj = document.getElementById(this.element); }
+			if (this.xmlhttp) {
+				var self = this;
+				if (this.method == "GET") {
+					var totalurlstring = this.requestFile + "?" + this.URLString;
+					this.xmlhttp.open(this.method, totalurlstring, true);
+				} else {
+					this.xmlhttp.open(this.method, this.requestFile, true);
+				}
+				if (this.method == "POST"){
+  					try {
+						this.xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urlencoded')  
+					} catch (e) {}
+				}
+
+				this.xmlhttp.send(this.URLString);
+				this.xmlhttp.onreadystatechange = function() {
+					switch (self.xmlhttp.readyState){
+						case 1:
+							self.onLoading();
+						break;
+						case 2:
+							self.onLoaded();
+						break;
+						case 3:
+							self.onInteractive();
+						break;
+						case 4:
+							self.response = self.xmlhttp.responseText;
+							self.responseXML = self.xmlhttp.responseXML;
+							self.responseStatus[0] = self.xmlhttp.status;
+							self.responseStatus[1] = self.xmlhttp.statusText;
+							self.onCompletion();
+							if(self.execute){ self.runResponse(); }
+							if (self.elementObj) {
+								var elemNodeName = self.elementObj.nodeName;
+								elemNodeName.toLowerCase();
+								if (elemNodeName == "input" || elemNodeName == "select" || elemNodeName == "option" || elemNodeName == "textarea"){
+									self.elementObj.value = self.response;
+								} else {
+									self.elementObj.innerHTML = self.response;
+								}
+							}
+							self.URLString = "";
+						break;
+					}
+				};
+			}
+		}
+	};
+this.createAJAX();
+}
+
+</script>
+<script type="text/javascript">
+	
+	var rssBoxTxt_readMore = 'Read more';
+	var rssBoxOpenLinksInNewWindow = true;
+	var rssBoxAjaxObjects = new Array();
+	
+	function changeSlide(boxId,secondBetweenSlides,slideIndex){
+		var el = document.getElementById(boxId);
+		var divs = el.getElementsByTagName('DIV');
+		if(slideIndex>0){
+			divs[slideIndex-1].style.display='none';
+		}else{
+			divs[divs.length-1].style.display='none';	
+		}	
+		divs[slideIndex].style.display='block';
+		slideIndex++;
+		if(slideIndex>=divs.length)slideIndex = 0;
+		setTimeout('changeSlide("' + boxId + '",' + secondBetweenSlides + ',' + slideIndex + ')',secondBetweenSlides*1000);
+	}
+	
+	function openUrlInNewWindow(){
+		var rssBoxWin = window.open(this.href);
+		return false;
+	}
+	
+	function showAjaxContent(ajaxIndex,boxId,secondBetweenSlides){
+		
+		var rssContent = rssBoxAjaxObjects[ajaxIndex].response;
+		tokens = rssContent.split(/\n\n/g);
+		var destinationObj = document.getElementById(boxId);
+		var headerTokens = tokens[0].split(/\n/g);
+		if(headerTokens[0]=='0'){
+			headerTokens[1] = '';
+			headerTokens[0] = 'Invalid source';
+		}
+		
+		
+		for(var no=1;no<tokens.length;no++){	// Looping through RSS items
+			var string = '';
+			var itemTokens = tokens[no].split(/##/g);		
+			var div = document.createElement('DIV');
+			if(no>1)div.style.display='none';	
+			destinationObj.appendChild(div);
+			
+			// Adding date
+			var date = document.createElement('P');
+			date.className='rssBoxDate';
+			date.innerHTML = itemTokens[1];
+			div.appendChild(date);
+			
+			// Adding heading
+			var heading = document.createElement('P');
+			heading.className = 'rssBoxHeading';
+			heading.innerHTML = itemTokens[0];
+			div.appendChild(heading);
+			
+			// Adding description
+			var description = document.createElement('P');
+			description.className='rssBoxDescription';
+			description.innerHTML = itemTokens[2];
+			div.appendChild(description);
+			
+			// Adding link
+			var link = document.createElement('A');
+			link.className = 'rssBoxLink';
+			link.innerHTML = rssBoxTxt_readMore;
+			link.href = itemTokens[3];
+			if(rssBoxOpenLinksInNewWindow){
+				link.onclick = openUrlInNewWindow;
+			}
+			div.appendChild(link);
+		}
+		setTimeout('changeSlide("' + boxId + '",' + secondBetweenSlides + ',1)',secondBetweenSlides*1000);
+	}
+	
+	function insertAjaxContent(destinationId,url,maxItems,secondBetweenSlides){
+		var ajaxIndex = rssBoxAjaxObjects.length;
+		rssBoxAjaxObjects[ajaxIndex] = new sack();
+		rssBoxAjaxObjects[ajaxIndex].requestFile = 'readRSS.php?rssURL=' + url + '&maxRssItems=' + maxItems;	// Specifying which file to get
+		rssBoxAjaxObjects[ajaxIndex].onCompletion = function(){ showAjaxContent(ajaxIndex,destinationId,secondBetweenSlides); };	// Specify function that will be executed after file has been found
+		rssBoxAjaxObjects[ajaxIndex].runAJAX();		// Execute AJAX function	
+	}
+	
+	function initRssBoxScript(){
+		insertAjaxContent('rssBox','http://news.bbc.co.uk/rss/sportonline_uk_edition/tennis/rss.xml',5,3);
+		
+	}
+
+	window.onload = initRssBoxScript;
+
+	</script>
+
+<script language="javascript" type="text/javascript" src="http://www.adhysteria.com/Javascript/jsfunction.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.adhysteria.com/Javascript/jsfunction_div.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.adhysteria.com/Javascript/date-picker.js"></script>
+<script language="javascript" src="http://www.adhysteria.com/js/jsfunctions.js.php?lang_id="></script>
+<script language="javascript" src="../js/validation.js?lang_id="></script>
+<link rel="stylesheet" type="text/css" href="http://www.adhysteria.com/calendar/calendar-win2k-cold-1.css" title="win2k-cold-1">
+<script type="text/javascript" src="http://www.adhysteria.com/calendar/calendar.js"></script>
+<script type="text/javascript" src="http://www.adhysteria.com/calendar/calendar-en.js"></script>
+<script type="text/javascript" src="http://www.adhysteria.com/calendar/calendar-setup.js"></script>
+<script language="javascript">
+function getVars(){
+	this.fieldN = new Array();	// Field name
+	this.fieldV = new Array();	// Field value
+	this.fieldT = new Array();	// Field type (text, editor, checkbox, radio, select, mselect, date)
+	this.fieldI = new Array();	// Field Id
+	this.fieldC = new Array();	// Check for equal field
+	this.fieldEQ = new Array();	// Check for equal supplied string match
+	this.fieldNM = new Array();	// if 1 Check for field is Numeric
+	this.fieldGT = new Array();	// Check for Greater than supplied string	(works for field type text and date only)	
+	this.fieldLT = new Array();	// Check for Less than supplied string	(works for field type text and date only)
+	this.fieldGE = new Array();	// Check for Grter thn o equal to supplied str(works for field type text & date only)
+	this.fieldLE = new Array();   // Check for Less than o equal to supplied string(works for field type text & date only)
+	this.fieldBT = new Array();	// Check for between 2 values	(works for field type text only)
+}
 
 function checkEmpty(formN, objvar){
-
 	var err = "";
-
 	var frmObj = eval("document." + formN);
-
 	for(var i=0; i<objvar.fieldN.length; i++){
-
 	//alert("vrushali");
 
-
-
 		if(objvar.fieldT[i] == "date"){
-
 			var dateSplit = new Array();
-
 			dateSplit = objvar.fieldN[i].split(',');
-
 			if(!checkDate(formN, dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 				err += objvar.fieldV[i] + "\n";
-
 			}else if(objvar.fieldEQ[i]){
-
 				if(!compareDate(formN, 'EQ', objvar.fieldEQ[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 					err += objvar.fieldV[i] + " (Invalid match)\n";
-
 				}
-
 			}else if(objvar.fieldGT[i]){
-
 				if(!compareDate(formN, 'GT', objvar.fieldGT[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 					err += objvar.fieldV[i] + " (Invalid match)\n";
-
 				}
-
 			}else if(objvar.fieldGE[i]){
-
 				if(!compareDate(formN, 'GE', objvar.fieldGE[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 					err += objvar.fieldV[i] + " (Invalid match)\n";
-
 				}
-
 			}else if(objvar.fieldLT[i]){
-
 				if(!compareDate(formN, 'LT', objvar.fieldLT[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 					err += objvar.fieldV[i] + " (Invalid match)\n";
-
 				}
-
 			}else if(objvar.fieldLE[i]){
-
 				if(!compareDate(formN, 'LE', objvar.fieldLE[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 					err += objvar.fieldV[i] + " (Invalid match)\n";
-
 				}
-
 			}else if(objvar.fieldBT[i]){
-
 				if(!compareDate(formN, 'BT', objvar.fieldBT[i], dateSplit[0], dateSplit[1], dateSplit[2])) {
-
 					err += objvar.fieldV[i] + " (Invalid match)\n";
-
 				}
-
 			}
-
 		}
-
 		if(objvar.fieldT[i] == "editor"){
-
 			var frmName = objvar.fieldN[i] + '___Frame';
-
 			editor_frame = document.getElementById(frmName);
-
 			editor_source = editor_frame.contentWindow.document.getElementById('eEditorArea');
-
 			var mContents = editor_source.contentWindow.document.body.innerHTML
-
 			re= /<\S[^>]*>/g; 
-
 			mContents = mContents.replace(re,""); 
-
 			if((mContents == "") || (mContents == " ")) {
-
 				err += objvar.fieldV[i] + "\n";
-
 			}
 
-
-
 		}
-
 		if(objvar.fieldT[i] == "text"){
-
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
-
 			if((frmElm.value == "") || (frmElm.value == " ")) {
-
 				err += objvar.fieldV[i] + "\n";
-
 			}else if(objvar.fieldNM[i] == 1){
-
 				var chkInt = frmElm.value;
-
 				if(isNaN(chkInt)){
-
 					err += objvar.fieldV[i] + " (Not a Number)\n";
-
 				}					
-
 			}else if(objvar.fieldC[i]){
-
 				var frmCElm = eval("frmObj." + objvar.fieldC[i]);
-
 				if(frmElm.value != frmCElm.value){
-
 					err += objvar.fieldV[i] + " mismatch\n";
-
 				}
-
 			}else if(objvar.fieldN[i].indexOf("email") >= 0){
-
 				if(!checkEmail(frmElm.value)) {
-
 					err += objvar.fieldV[i] + " (Invalid Email Id)\n";
-
 				}
-
 			}else if(objvar.fieldN[i].indexOf("url") >= 0){
-
 				if(!checkUrl(frmElm.value)) {
-
 					err += objvar.fieldV[i] + " (Invalid URL)\n";
-
 				}
-
 			}else if(objvar.fieldN[i].indexOf("website") >= 0){
-
 				if(!checkUrl(frmElm.value)) {
-
 					err += objvar.fieldV[i] + " (Invalid URL)\n";
-
 				}
-
 			}else if(objvar.fieldEQ[i]) {
-
 				if(frmElm.value != objvar.fieldEQ[i]) {
-
 					err += objvar.fieldV[i] + " (IInvalid entry)\n";
-
 				}
-
 			}else if(objvar.fieldGT[i]) {
-
 				if(frmElm.value <= objvar.fieldGT[i]) {
-
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
-
 				}
-
 			}else if(objvar.fieldLT[i]) {
-
 				if(frmElm.value >= objvar.fieldLT[i]) {
-
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
-
 				}
-
 			}else if(objvar.fieldGE[i]) {
-
 				if(frmElm.value < objvar.fieldGE[i]) {
-
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
-
 				}
-
 			}else if(objvar.fieldLE[i]) {
-
 				if(frmElm.value > objvar.fieldLE[i]) {
-
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
-
 				}
-
 			}else if(objvar.fieldBT[i]) {
-
 				var btSplit = new Array();
-
 				btSplit = objvar.fieldBT[i].split('|');
-
 				if(btSplit[0] > btSplit[1]) {
-
 					var tmpSplit = btSplit[0];
-
 					btSplit[0] = btSplit[1];
-
 					btSplit[1] = tmpSplit;
-
 				}
-
 				if((frmElm.value < btSplit[0]) || (frmElm.value > btSplit[1])) {
-
 					err += objvar.fieldV[i] + " (Invalid entry)\n";
-
 				}
-
 			}
 
-
-
 		}
-
-
 
 		if(objvar.fieldT[i] == "checkbox"){
-
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
-
 			if(frmElm.checked === false) {
-
 				err += objvar.fieldV[i] + "\n";
-
 			}
-
 		}
-
 		if((objvar.fieldT[i] == "select")||(objvar.fieldT[i] == "mselect")){
-
 			//var frmElm = document.getElementById(objvar.fieldI[i]);
-
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
-
 			var selectedI = false;
-
 			for(var j=0; j< frmElm.length; j++) {
-
 				if(frmElm[j].selected == true) {
-
 					selectedI = true;
-
 					if(objvar.fieldT[i] == "select") {
-
 						if((frmElm.value == "") || (frmElm.value == 0) || (frmElm.value == "Select") || (frmElm.value == "Select Country") || (frmElm.value == "Select State")){
-
 							selectedI = false;
-
 						}
-
 					}
-
 				}
-
 			}
-
 			if(selectedI == false) {
-
 				err += objvar.fieldV[i] + "\n";
-
 			}
-
 		}
-
 		if(objvar.fieldT[i] == "radio"){
-
 			var frmElm = eval("frmObj." + objvar.fieldN[i]);
-
 			var checkedI = false;
-
 			for(var j=0; j< frmElm.length; j++) {
-
 				if(frmElm[j].checked == true) {
-
 					checkedI = true;
-
 				}
-
 			}
-
 			if(checkedI === false) {
-
 				err += objvar.fieldV[i] + "\n";
-
 			}
-
 		}		
-
 	}
-
 	if(err != "") {
-
 		var errShow = "Following fields are empty or not entered correctly: \n\n";
-
 		errShow += err;
-
 		alert(errShow);
-
 		return false;
-
 	}
-
 	return true;
-
 }
-
-
 
 function checkDate(frmname, dd,mm,yy){
-
 	frmobj = eval("document." + frmname);
-
 	var day = parseInt(eval("frmobj." + dd + ".value"), 10);
-
 	var month = parseInt(eval("frmobj." + mm + ".value"), 10);
-
 	var year = parseInt(eval("frmobj." + yy + ".value"), 10);
 
-
-
 	var checkLeep = year%4;
-
 	if((checkLeep > 0) && (month == 2) && (day > 28)) {
-
 		return false;
-
 	}
-
 	if((checkLeep == 0) && (month == 2) && (day > 29)) {
-
 		return false;
-
 	}
-
 	if((day > 30) && ( (month == 4) || (month == 6) || (month == 9) || (month == 11))) {
-
 		return false;
-
 	}
-
 	if(isNaN(day) || isNaN(month) || isNaN(year)) {
-
 		return false;
-
 	}
-
 	return true;
-
 }
-
-
 
 function compareDate(frmname, cmpType, cmpStr, dd,mm,yy){
 
-
-
 	if(cmpType == 'BT') {
-
 		var cmpSplit = new Array();
-
 		cmpSplit =  cmpStr.split('|');
-
 		cmpStr = cmpSplit[0];
-
 		cmpStrEnd = cmpSplit[1];
-
 		dateSplitEnd =  cmpStrEnd.split(',');
-
 		var eday = parseInt(dateSplitEnd[0], 10);
-
 		var emonth = parseInt(dateSplitEnd[1], 10);
-
 		var eyear = parseInt(dateSplitEnd[2], 10);
 
-
-
 		var empStr = eyear + "," + appendZero(emonth) + "," + appendZero(eday);
-
 		empStr = empStr.replace(/,/g, "");
 
 
-
-
-
 	}
-
 	var dateSplit = new Array();
-
 	dateSplit =  cmpStr.split(',');
-
 	var cday = parseInt(dateSplit[0], 10);
-
 	var cmonth = parseInt(dateSplit[1], 10);
-
 	var cyear = parseInt(dateSplit[2], 10);
-
 	frmobj = eval("document." + frmname);
-
 	var day = parseInt(frmobj.dd.value, 10);
-
 	var month = parseInt(frmobj.mm.value, 10);
-
 	var year = parseInt(frmobj.yy.value, 10);
 
-
-
 	var cmpStr = cyear + "," + appendZero(cmonth) + "," + appendZero(cday);
-
 	var curStr = year + "," + appendZero(month) + "," + appendZero(day);
 
-
-
 	cmpStr = cmpStr.replace(/,/g, "");
-
 	curStr = curStr.replace(/,/g, "");
 
-
-
 	if(cmpType == 'EQ') {
-
 		if(curStr != cmpStr) {
-
 			return false;
-
 		}
-
 	}
-
 	if(cmpType == 'GT') {
-
 		if(curStr <= cmpStr) {
-
 			return false;
-
 		}
-
 	}
-
 	if(cmpType == 'LT') {
-
 		if(curStr >= cmpStr) {
-
 			return false;
-
 		}
-
 	}
-
 	if(cmpType == 'GE') {
-
 		if(curStr < cmpStr) {
-
 			return false;
-
 		}
-
 	}
-
 	if(cmpType == 'LE') {
-
 		if(curStr > cmpStr) {
-
 			return false;
-
 		}
-
 	}
-
 	if(cmpType == 'BT') {
-
 		if(cmpStr > empStr) {
-
 			var tmpStr = cmpStr;
-
 			cmpStr = empStr;
-
 			empStr = tmpStr;
-
 		}
-
 		if((curStr < cmpStr) || (curStr > empStr)) {
-
 			return false;
-
 		}
-
 	}
-
 	return true;
-
 }
-
 function checkEmail(fieldValue){
-
 	var chkAt = fieldValue.indexOf("@");
-
 	var chkDot= fieldValue.indexOf(".");
-
 	var chkHack= fieldValue.indexOf("@.");
-
 	var chkHackA= fieldValue.indexOf(".@");
 
-
-
 	if((chkAt >= 0) && (chkDot >= 0) && (chkHack == -1) && (chkHackA == -1) ) {
-
 		return true;
-
 	}
-
 	return false;
-
 }
-
-
 
 function checkUrl(fieldValue){
-
 	var chkAt = fieldValue.indexOf("@");
-
 	var chkDot= fieldValue.indexOf(".");
 
-
-
 	if(fieldValue.length <= 8) {
-
 		return false;
-
 	}	
-
 	if((fieldValue.substr(0,7) == "http://") ||  (fieldValue.substr(0,8) == "https://")) {
-
 		return true;
-
 	}
-
 	return false;
-
 }
-
-
 
 function appendZero(val){
-
 	var str = "";
-
 	str = '' + val + '';
-
 	if(str.length == 1) {
-
 		str = "0" + str;
-
 	}	
-
 	return str;	
-
 }	
 
-
-
-function fixRadioLooks() 
-
-{
-
+function fixRadioLooks(){
 	var oInput = document.getElementsByTagName("INPUT");
-
 	for(i=0; i<oInput.length; i++)  {
-
 		if((oInput[i].type == "checkbox") || (oInput[i].type == "radio")) 
-
 		{
-
 			oInput[i].style.border = "0px";
-
 		}
-
 	}
-
 }
 
-
-
 function checkRemeber(){
-
 	if(document.login.remember.checked) {
-
 		document.login.remember.checked = false;
-
 	}else{
-
 		document.login.remember.checked = true;
-
 	}
-
 	
-
 }
 
 function openRows(obj){
-
 	row1Obj = document.getElementById('passrow1');
-
 	row2Obj = document.getElementById('passrow2');
-
 	if(obj.checked){
-
 		row1Obj.style.visibility = "visible";
-
 		row2Obj.style.visibility = "visible";
-
 		row1Obj.style.display = "block";
-
 		row2Obj.style.display = "block";
-
 	}else{
-
 		row1Obj.style.visibility = "hidden";
-
 		row2Obj.style.visibility = "hidden";
-
 		row1Obj.style.display = "none";
-
 		row2Obj.style.display = "none";
-
 	}
-
-}	
-
+}
+	
 function order(field, url,lngshowlimit){
-
 	url += "?";
-
 	url += "&order=" + field;
-
 	url += "&showPerPage=" + lngshowlimit;
-
 	location.href = url;
-
 }
 
-function openBrowse(check, divId) {
-
+function openBrowse(check, divId){
 	divObj = document.getElementById('tbl_' + divId);
-
 	fileObj = document.getElementById('imagefile_' + divId);
-
 	if(check.checked) {
-
 		divObj.style.visibility = "visible";		
-
 	}else{
-
 		divObj.style.visibility = "hidden";		
-
 		fileObj.value = '';
-
 	}
-
 }
 
 function changeOrder(idObj, move){
 
-
-
 	id = idObj.id.replace('a_', '');
-
 	var vals = id.split('_');
 
-
-
 	switch(move) {
-
 		case "down":
 
-
-
 			var nextOrder = parseInt(vals[vals.length - 1]);
-
 			nextOrder++;
 
-
-
 			var upperDivId = 'div_' + vals[0] + '_' +  vals[1];
-
 			var lowerDivId = 'div_' + vals[0] + '_' +  nextOrder;
-
 		break;
-
-
 
 		case "up":
-
 			var prevOrder = parseInt(vals[vals.length - 1]);
-
 			prevOrder--;
 
-
-
 			var upperDivId = 'div_' + vals[0] + '_' +  prevOrder;
-
 			var lowerDivId = 'div_' + vals[0] + '_' +  vals[1];
 
-
-
 		break;
-
 	}
-
 	var upperdivObj = document.getElementById(upperDivId);
-
 	var lowerdivObj = document.getElementById(lowerDivId);
 
-
-
 	if(upperdivObj) { var upperHTML = lowerdivObj.innerHTML;}	
-
 	if(lowerdivObj) { var lowerHTML = upperdivObj.innerHTML; }
-
 	if(upperdivObj) { upperdivObj.innerHTML = upperHTML; }
-
 	if(lowerdivObj) { lowerdivObj.innerHTML = lowerHTML; }
-
 }
-
-
 
 var addUnl = new Array();
 
-
-
 function addUnlimited(slot, startNum, stopNum){
-
 	var num = parseInt(addUnl['unlimitedCount_' + slot]);
-
 	var newnum = num + 1;
-
 	var IdStr = slot + '_' + slot + '_' + startNum; 
-
 	var newIdStr = slot + '_' + slot + '_' + newnum; 
 
-
-
 	var slotDiv = 'moreupload_' + slot;
-
 	slotDivObj = document.getElementById(slotDiv);
-
 	slotDivCont = slotDivObj.innerHTML;
 
-
-
 	var moreDivObj = document.getElementById('moreContainer_' + slot);
-
 	var moreDivCont = moreDivObj.innerHTML;
 
-
-
 	newContents = slotDivCont.replace(IdStr, newIdStr);
-
 	newContents = newContents.replace(IdStr, newIdStr);
 
-
-
 	if((stopNum == 0) || (newnum < stopNum)) {
-
 		moreDivObj.innerHTML = moreDivCont + newContents;
-
 		addUnl['unlimitedCount_' + slot] = newnum;
-
 	}else{
-
 		alert('Sorry! You are not allowed to upload more files for this slot.');
-
 	}
-
 }
-
-
 
 function resetContainer(slot, startNum){
-
 	var id = 'moreContainer_' + slot;
-
 	addUnl['unlimitedCount_' + slot] = startNum;
-
 	var containerObj = document.getElementById(id);
-
 	containerObj.innerHTML = '';
-
 	
-
 }
 
-
-
 function showPreview(sTblId, hTblId){
-
 	var showTblObj = document.getElementById(sTblId);
-
 	var hideTblObj = document.getElementById(hTblId);
 
-
-
 	hideTblObj.style.visibility = "hidden";
-
 	hideTblObj.style.display = "none";
-
 	
-
 	showTblObj.style.visibility = "visible";
-
 	showTblObj.style.display = "block";
-
 }
 
 function modifyPreview(formName, field, type){
-
 	var idObj = document.getElementById('tpl_' + field);
-
 	if(idObj) {
-
 		switch(type) {
-
 			case 'text':
-
 				var innerVal = eval('document.' + formName + '.' + field + '.value');
-
 			break;
-
-
 
 			case 'editor':
-
 				var frmName = field + '___Frame';
-
 				editor_frame = document.getElementById(frmName);
-
 				editor_source = editor_frame.contentWindow.document.getElementById('eEditorArea');
-
 				var mContents = editor_source.contentWindow.document.body.innerHTML;
-
 				var innerVal = mContents;
-
 			break;
-
 			
-
 		}
-
 		idObj.innerHTML = innerVal;	
-
 	}
-
 }
-
-
 
 var dt = new Date();
 
-
-
 function AjaxInit() {
-
 	var xmlhttp=false;
-
 	if(window.XMLHttpRequest){
-
 	 xmlhttp = new XMLHttpRequest();
-
 	} else if (window.ActiveXObject){
-
 	 	xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");
-
 	 if (!xmlhttp){
-
 	 	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-
 	 }
-
 	} 
-
 	return(xmlhttp);
-
 }
-
-
 
 function fnDrawMainListing(main_id, sub_id) {
-
 	var xmlhttp1 = AjaxInit();
-
 	var strResponse = "";
-
 	var dt1 = new Date();
-
 	try {
-
 		xmlhttp1.open("POST", '../../forums/admin/show_posted_list.php');
-
 		xmlhttp1.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-
 		xmlhttp1.onreadystatechange = function() {
-
 			if (xmlhttp1.readyState == 1) {
-
 				document.getElementById('investor_list').innerHTML = "<img src='../images/loading.gif' alt='' border=0>";
-
 			}
-
 			if (xmlhttp1.readyState == 4 && xmlhttp1.status == 200) {
-
 				strResponse = xmlhttp1.responseText;
-
 				document.getElementById('investor_list').innerHTML = strResponse;
-
 			}
-
 		}
-
 		xmlhttp1.send('&x=' + dt1.getTime() + dt1.getSeconds() + '&cid=' + main_id + '&sub_id=' + sub_id);
-
 	}catch (errv) {
-
 		alert(errv);
-
 	}
-
 	
-
 }
-
-
 
 function ADAjaxPostData(url, queryStr, loadingDiv){
-
 	divObj = document.getElementById(loadingDiv);
-
 	if(divObj) {
-
 		window.status = "Loading...";
-
 		divObj.innerHTML = "<span class='statusWait'>Loading...</span>";
-
 	}
-
 	var Ajax=AjaxInit();
-
 	try {	
-
 		Ajax.open('POST', url);
-
 		Ajax.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
-
 		Ajax.onreadystatechange = function() {
-
 			if (Ajax.readyState == 4 && Ajax.status == 200) {
-
 				
-
 				divObj.innerHTML = Ajax.responseText;
-
 				window.status = "Done";
-
 			}
-
 		}
-
 		Ajax.send(queryStr + "&random=" + Math.random());	
-
 	}catch (errv) {
-
 		Ajax.send(errv);
-
 	}				
-
 }
 
-
-
 function Showsubdropdown(aid, divi) {
-
 	ADAjaxPostData('../../forums/admin/subcat_db.php', 'aid=' + aid, divi);
-
 		
-
 }
 
 function Showstatedropdown(aid, divi, state_id) {
-
 	ADAjaxPostData('../../users/admin/subcat_db.php', 'aid=' + aid + '&state_id=' + state_id, divi);
-
 		
-
 }
 
 function Showfrontstatedropdown(aid, divi, state_id) {
-
 	//alert("I am here to show states dropdown");
-
 	//alert("aid = "+aid+ " divi = "+divi+ " state_id = "+state_id );
-
 	ADAjaxPostData('../users/admin/subcat_db.php', 'aid=' + aid + '&state_id=' + state_id, divi);
-
 		
-
 }
-
-
 
 function Showsubclass(aid, divi) {
-
 	
-
 	ADAjaxPostData('../classified/class_sub.php', 'aid=' + aid, divi);
-
 		
-
 }
-
-
-
-
 
 function Showsubclassdropdown(aid, divi) {
-
 	ADAjaxPostData('../../classified/admin/subcat_db.php', 'aid=' + aid, divi);
-
 		
-
 }
-
-
 
 function fnDrawclassMainListing(main_id, sub_id) {
-
 	var xmlhttp1 = AjaxInit();
-
 	var strResponse = "";
-
 	var dt1 = new Date();
-
 	try {
-
 		xmlhttp1.open("POST", '../../classified/admin/show_posted_list.php');
-
 		xmlhttp1.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-
 		xmlhttp1.onreadystatechange = function() {
-
 			if (xmlhttp1.readyState == 1) {
-
 				document.getElementById('investor_list').innerHTML = "<span class='statusWait'>Loading...</span>";
-
 			}
-
 			if (xmlhttp1.readyState == 4 && xmlhttp1.status == 200) {
-
 				strResponse = xmlhttp1.responseText;
-
 				document.getElementById('investor_list').innerHTML = strResponse;
-
 			}
-
 		}
-
 		xmlhttp1.send('&x=' + dt1.getTime() + dt1.getSeconds() + '&cid=' + main_id + '&sub_id=' + sub_id);
-
 	}catch (errv) {
-
 		alert(errv);
-
 	}
-
 	
-
 }
-
-
-
-
 
 function showBG(trID){
-
 		obj = document.getElementById(trID);
-
 		obj.bgColor="#b0DAF0";
-
-	}
-
 	
-
-	function hideBG(trID){
-
-		obj = document.getElementById(trID);
-
-		obj.bgColor="#E0F1FF";
-
-	}
-
+}
 	
-
-function leftShowBG(trID){
-
+function hideBG(trID){
 	obj = document.getElementById(trID);
-
+	obj.bgColor="#E0F1FF";
+	
+}
+	
+function leftShowBG(trID){
+	obj = document.getElementById(trID);
 	obj.bgColor="#4fa7e0";
-
 }	
 
-
-
 function leftHideBG(trID,val){
-
 	obj = document.getElementById(trID);
-
 	if(val!=1){
-
 		obj.bgColor="#def0fa";
-
 	}else{
-
 		obj.bgColor="#FFFFFF";
-
 	}
-
 }
-
-
-
-function fn_search()
-
-{
-
-	//alert(document.frm_search.search.value);
-
-	var link=document.frm_search.search.value;
-
-	parent.location.href=link;
-
+function  msgshow()  {
+//alert("test");
 }
-
 
 
 </script>
@@ -1223,189 +971,223 @@ function fn_search()
 
 
 
-<table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
 
-  <tbody><tr> 
 
-    <td width="304"><a href="#"><img src="/images/adhysteria_logo.gif" alt="Adhysteria:: Social Video Classifieds" width="304" height="126" border="0"></a></td>
+<link href="http://www.adhysteria.com/css/ah.css" rel="stylesheet" type="text/css">
 
-    <td width="244"><img src="/images/spacer.gif" width="244" height="1"></td>
 
-    <td align="right" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 
-      <tbody><tr>
-
-        <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-              <tbody><tr>
-
-                <td width="10" align="left" valign="top"><img src="/images/top_search_left_corn.gif" width="10" height="30"></td>
-
-                <td style="background-repeat:repeat-x" valign="middle" background="/images/top_search_bg.gif"> 
-
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-                    <tbody><tr> 
-
-                      <td style="padding-top:5px" class="header_link" valign="top" width="15%" align="center">Module:</td>
-
-                      <td style="padding-top:5px" class="header_link" valign="top" align="left">
-
-                      <form name="frm_search">
-
-                        <select name="search">
-
-                          <option value="#">Select Module</option>
-
-                          <option value="video/search.php">Video</option>
-
-                          <option value="photos/search.php">Photo</option>
-
-                          <option value="share_content/search.php">File Sharing</option>
-
-                          <option value="blogs/index.php?action=load_search_form">Blogs</option>
-
-                          <!--<option value="forums/search.php">Forum</option>-->
-
-                          <option value="groups/search.php?action=load_search_form">Groups</option>
-
-                        </select>
-
-                        </form></td><td width="31%" align="left" style="padding-top:7px" valign="top"><a href="javascript:void(null);" class="top_icon_link" onclick="fn_search();">Advanced 
-
-                          Search</a></td>
-
-                      
-
-                      <td width="21%" align="right"><span style="padding-top:7px; padding-right:10px">&nbsp;&nbsp;&nbsp;</span></td>
-
-                    </tr>
-
-                  </tbody></table></td>
-
-                <td width="10" align="right" valign="top" style="padding-right:0px"><img src="/images/top_search_right_corn.gif" width="10" height="30"></td>
-
-            </tr>
-
-        </tbody></table></td>
-
-      </tr>
-
-      <tr>
-
-        <td colspan="2" align="right">&nbsp;</td>
-
-      </tr>
-
-      <tr>
-
-        <td width="181" height="77" align="right" valign="bottom">&nbsp;</td>
-
-        <td style=" background-repeat: no-repeat" width="226" align="left" valign="top" background="/images/signup.gif"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-
-            <tbody><tr>
-
-              
-            </tr>
-
-          <tr>
-
-              <td style="padding-left:10px; padding-top:3px" colspan="2" class="header_link">Hi There</td>
-
-              <td style="padding-left:10px; padding-top:3px" class="header_link">&nbsp;</td>
-
-          </tr>
-
-            <tr>
-
-              <td style="padding-left:10px" class="header_link">Not a member yet? sign up for free.</td>
-
-              <td>&nbsp;</td>
-
-            </tr>
-
-            
-            
-              <tr><td style="padding-right:25px" align="right" class="header_link"><a href="/users/login_sep.php"><b>Sign up</b></a></td>
-
-              
-              
-              <td>&nbsp;</td>
-
-            </tr>
-
-        </tbody></table></td>
-
-      </tr>
-
-    </tbody></table></td>
-
-  </tr>
-
-</tbody></table>
-
-<table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
-
-<tbody><tr>
-
-        <td width="12"><img src="/images/spacer.gif" width="12" height="32"></td>
-
-        <td width="80" align="center" background="/images/home.gif" class="title_bar"><a href="/index.php">Home</a><img src="/images/spacer.gif" width="80" height="1" border="0"></td>
-
-        <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-
-        <td width="93" align="center" background="/images/community.gif" class="title_bar"><a href="../community/index.php">Community<img src="images/spacer.gif" width="93" height="1" border="0"></a></td>
-
-    <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-
-        <td width="80" align="center" background="/images/invite.gif" class="title_bar"><a href="../invite/importer.php" target="_blank">Invite</a><img src="images/spacer.gif" width="80" height="1" border="0"></td>
-
-        <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-
-        <td width="108" align="center" background="/images/myadhysteria.gif" class="title_bar"><a href="../users/index.php">My Adhysteria</a><img src="images/spacer.gif" width="108" height="1" border="0"></td>
-
-        <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-
-        <td width="57" align="center" background="/images/help.gif" class="title_bar"><a href="../help.html" target="_blank">Help</a><img src="images/spacer.gif" width="57" height="1"></td>
-
-        <td width="2"><img src="images/spacer.gif" width="2" height="1"></td>
-
-        <td width="80" align="center" background="/images/upload.gif" class="title_bar"><a href="../video/manage.php?action=upload_form">Upload</a><img src="images/spacer.gif" width="80" height="1" border="0"></td>
-
-        <td width="200" align="left"><img src="images/spacer.gif" width="200" height="1"></td>
-
-    <td align="left" valign="middle" class="header_type"><a href="/digital_camera.php" target="_blank">DigitalCamera </a>| <a href="/camcorder.php" target="_blank">Camcorder</a> | <a href="/webcam.php" target="_blank">Webcam</a> | <a href="/cellphone.php" target="_blank">Cell</a></td>
-
-  </tr>
-
-    </tbody></table>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	
+<!-- ====================================== Header Part Start =========================================== --> 
+ 
+  <tbody><tr>
+    <td align="left" valign="top" background="/images/hedaer_pading_bg.jpg" style="background-repeat:repeat-x">
 
-
-
-
-
-    <table width="955" border="0" align="center" cellpadding="0" cellspacing="0" class="header_link">
-
-      <tbody><tr class="header_link">
-
-        <td width="12"><img src="/images/header_left_corn.gif" width="12" height="26"></td>
-
-<td bgcolor="#BBD321" class="header_link"><a href="/video" class="home_contrast_font h2" style="padding-left:3px">Video Classifieds</a><span class="header_link">|<a href="/auction" class="home_contrast_font h2" style="padding-left:3px">Video Auctions</a></span><span class="header_link">|<a href="/photos" class="home_contrast_font h2" style="padding-left:3px">Photo Classifieds</a></span><span class="header_link">|<a href="/blogs" class="home_contrast_font h2" style="padding-left:3px">Blog</a></span><span class="header_link">|<a href="/events" class="home_contrast_font h2" style="padding-left:3px">Events</a></span><span class="header_link">|<a href="/feedback" class="home_contrast_font h2" style="padding-left:3px">Feedbacks</a></span><span class="header_link">|<a href="/groups" class="home_contrast_font h2" style="padding-left:3px">Groups</a></span><span class="header_link">|<a href="/messaging" class="home_contrast_font h2" style="padding-left:3px">Messaging</a></span><span class="header_link">|<a href="/promotion" class="home_contrast_font h2" style="padding-left:3px">Promotion</a></span><span class="header_link">|<a target="_blank" href="/FlashChat/chat/flashchat.php" class="home_contrast_font h2" style="padding-left:3px">Chat</a></span>
-</td><td width="12" align="right"><img src="/images/header_right_corn.gif" width="12" height="26"></td>
-
-  </tr></tbody></table>
-
+	<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="131" align="left" valign="top" background="/images/hedaer_pading_bg.jpg" style="background-repeat:repeat-x">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="3%" height="102" align="left" valign="top">&nbsp;</td>
+            <td width="49%" align="left" valign="middle">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				  <tbody><tr>
+					<td><a href="http://www.adhysteria.com/home.php"><img src="/images/logo.png" width="285" height="87" border="0"></a></td>
+					<td><a href="javascript:void(0);" onclick="window.open('http://www.adhysteria.com/word.php','mywindow', 'width=500,height=500,scrollbars=1' )"><img src="/images/joinOurAni.gif" border="0"></a></td>
+					<td align="right" class="error"></td>
+				  </tr>
+				</tbody></table>
+			</td>
+            <td width="48%" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="topmenu">
+              <tbody><tr>
+                <td align="left" valign="top"><img src="/images/spacer.gif" width="5" height="10"></td>
+              </tr>
+              <tr>
+                <td align="right" valign="top" class="menutxtup"> <!--<a href="http://twitter.com/adhysteria" target="_blank"><img src="/images/twitter_small.png" alt="Twitter" width="35" height="35" align="absmiddle" border="0"></a> --> <a href="http://www.adhysteria.com/home.php" class="menutxtup">Home </a>| <a href="http://www.adhysteria.com/community/index.php" class="menutxtup">Community</a> | <a href="http://www.adhysteria.com/invite/importer.php" class="menutxtup">Invite</a> | <!--<a href="< //?=$config[http_path]?>users/index.php" class="menutxtup">My Adhysteria</a> --> <a href="http://www.adhysteria.com/users/dashboard.php" class="menutxtup">Dashboard</a> | <a href="http://www.adhysteria.com/help.php" class="menutxtup">Help </a>|<a href="http://www.adhysteria.com/video/manage.php?action=upload_form" class="menutxtup" style="color:#FF0000;"> Upload</a> | 
+								<span class="onclick_link" onclick="showlogin()">Login</span>
+				 </td>
+                <td>&nbsp;</td>
+              </tr>
+			  <script language="javascript">
+			  function showlogin()
+			  {
+			   document.getElementById('logintable').style.display='';
+			  }
+			  </script>
+				  <tr>
+					<td align="center" class="error" colspan="2">&nbsp;</td>
+				  </tr>	
+			  <!--<tr>
+					<td  style="padding-right:10px;" align="right" colspan="2"><a href="http://twitter.com/adhysteria" target="_blank"><img src="images/twitter_small.png" alt="Twitter" width="35" height="35" border="0"></a></td>
+				  </tr>  -->
+		
+				<script language="javascript">
+					function checkEmpty(){
+					var str=document.userfrm.email.value;
+					var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+					if (!filter.test(str)){
+					alert("Please input a valid email address!");
+					document.userfrm.email.focus();
+					return false;
+					}
+					if(document.userfrm.password.value.search(/\S/)==-1){
+					alert("Please Enter Your Password!");
+					document.userfrm.password.focus();
+					return false;
+					}
+					else{
+					return true;
+					}
+					}
+				</script>
+									  
+			  			  <form name="userfrm" action="/privacy.php" method="post" onsubmit="return checkEmpty();"></form>
+              <tr>
+                <td align="right">
+				<table width="410" border="0" cellpadding="0" cellspacing="0" id="logintable" style="display:none;">
+				<tbody><tr>
+					<td width="139" align="left" class="menutxtup">User Name :</td>
+					<td width="10" align="left">&nbsp;</td>
+					<td width="96" align="left" class="menutxtup">Password :</td>
+					<td colspan="3" align="center" valign="middle" class="graytext">Forgot Your Password?&nbsp;</td>
+				  </tr>
+				  <tr>
+					<td align="left" class="menutxtup">
+					<input name="email" type="text" class="menutxt" value="" size="22"></td>
+					<td align="left">&nbsp;</td>
+					<td align="left" class="menutxtup" colspan="3">
+					<input name="password" type="password" class="menutxt" value="" size="16"></td>
+					<td width="126" align="left"><input name="login" type="submit" class="onclick_link" value="Login"></td>
+				  </tr>	
+				  <!--
+				  For lon here called the page, include_once("includes/front_authenticate.php"); . In tis page user login dtls.
+				  -->			
+				 </tbody></table>
+				</td>
+                <td>&nbsp;</td>
+              </tr>
+			  
+           	  		    </tbody></table>
+			</td>
+          </tr>
+          <tr>
+            <td height="29" colspan="3" align="left" valign="middle">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="headermenu">
+			<form name="module_search_frm" action="" method="post"></form>			
+              <tbody><tr>
+                <td width="76%" class="menutxt" style="padding-left:5px;"><a href="http://www.adhysteria.com/video/" class="menutxt" style=" color:#FF0000; font-weight:800;">Video Classifieds</a> | <a href="http://www.adhysteria.com/share_content/" class="menutxt">File Sharing</a> | <a href="http://www.adhysteria.com/photos/" class="menutxt">Photo</a> | <!--<a href="blogs/" class="menutxt">Blog</a> | --><a href="http://www.adhysteria.com/forums/" class="menutxt">Forum</a> | <a href="http://www.adhysteria.com/events/" class="menutxt">Events</a> | <a href="http://www.adhysteria.com/feedback/" class="menutxt">Feedbacks</a> | <a href="http://www.adhysteria.com/groups/" class="menutxt">Groups</a> | <a href="http://www.adhysteria.com/messaging/" class="menutxt">Messaging</a> | <a href="http://www.adhysteria.com/promotion/" class="menutxt">Promotion</a> | <!--<a href="FlashChat/chat/flashchat.php" class="menutxt">Chat</a>-->    <a href="http://www.adhysteria.com/auction/" class="menutxt">Auction</a>	</td>
+                <td width="24%" align="right" valign="middle">
+				<table border="0" cellspacing="0" cellpadding="0">
+				  <tbody><tr>
+					<td class="menutxtup">Module Name:&nbsp;</td>
+					<td>
+					  <select name="module_search" class="menutxtsmall">
+                          <option value="">Select</option>
+                          <option value="http://www.adhysteria.com/video/search.php">Video</option>
+                          <option value="http://www.adhysteria.com/photos/search.php">Photo</option>
+                          <option value="http://www.adhysteria.com/share_content/search.php">File Sharing</option>
+                          <option value="http://www.adhysteria.com/blogs/index.php?action=load_search_form">Blogs</option>
+                          <!--<option value="forums/search.php">Forum</option>-->
+                          <option value="http://www.adhysteria.com/groups/search.php?action=load_search_form">Groups</option>
+					  </select>
+					</td>
+					<td class="onclick_link">&nbsp;<span id="module_search_span" onclick="searchmodule_fun();">Search</span></td>
+					<td width="7">&nbsp;</td>
+				  </tr>
+				</tbody></table>
+				<script language="javascript">
+				 function searchmodule_fun()
+				 {
+				  //alert('OK');
+				  //alert(document.module_search_frm.module_search.value);
+				  var link=document.module_search_frm.module_search.value;
+				  parent.location.href=link;
+				 }
+				</script>				
+				</td>
+              </tr>
+			
+            </tbody></table>
+			</td>
+          </tr>
+        </tbody></table>
+		</td>
+      </tr>
+    </tbody></table>
+	</td>
+  </tr>
   
+<!-- ================================ Header Part End =============================================== -->  
+ 
+</tbody></table> 
+  </td></tr>
 
-  
 
-      <img src="images/spacer.gif" width="12" height="5">
+<script src="/js/jquery.pack.js" type="text/javascript"></script><!-- v1.2.1 -->
+<script src="/js/jquery.simplemodal.pack.js" type="text/javascript"></script><!-- v1.0.1 -->
+<script language="javascript" src="/video/js/jsfunctions.js.php"></script>
+
+<style type="text/css" media="screen">
+/* position:fixed does not work in IE7 quirksmode */
+#modalOverlay { height:100%; width:100%; position:fixed; left:0; top:0; z-index:3000; background-color:#000; cursor:wait; }
+#modalContainer { height:140px; width:160px; position:fixed; left:50%; top:25%; margin-left:-80px; z-index:3100; background-color:#fff; border: 3px solid #666; }
+#modalContainer #progress-message { padding: 10px; text-align: center; color: #666; }
+</style>
+
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 12px
+}
+-->
+</style>
+
+  <!--<tr><td height="30">&nbsp;</td></tr>-->
+
+ 
+ 
   
-<table align="center" width="955px" class="border" cellpadding="0" cellspacing="0">
+<!-- ================================ Left and Right Part start =================================== -->  
+  
+  <tr>
+    <td align="left" valign="top" bgcolor="#FFFFFF"><table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+        <td align="center" valign="top" height="1"></td>
+	  </tr>		
+	  <!--<tr>
+        <td align="left" valign="middle" class="menutxtup" bgcolor="#A3A3A3" height="20" style="padding-left:10px;">Help </td>
+	  </tr>	-->	
+	  
+	  <tr>
+        <td align="center" valign="top" class="margin">
+		
+		
+		
+		
+		
+		
+		
+			<table width="982" cellspacing="0" cellpadding="0" border="1" style="border-color:#333333">
+      <tbody><tr>
+        <td colspan="5" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+           
+          
+            <td height="500" valign="top"><table width="100%" height="500" border="0" cellpadding="0" cellspacing="0" class="border">
+              <!--<tr>
+                <td height="20" class="orange_title">Help</td>
+              </tr>-->
+              <tbody><tr>
+                <td height="17" valign="top" class="category" style="padding:3px" align="center">
+				
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tbody><tr>
+                    <td align="center">
+					
+						<table align="center" width="100%" class="border" cellpadding="0" cellspacing="0" bgcolor="#D4D4D4">
 <tbody><tr>
-<td class="orange_title">
+<td class="subheadlines_white">
 <u>Adhysteria.com Privacy Policy</u></td>
 </tr>
 <tr>
@@ -1556,16 +1338,150 @@ Contact customer support by posting in the form to review any personal informati
     Rajiv offers this platform as a vehicle for communicating  about non-work oriented topics of common interest – buying and selling things,  community events, etc. Please don’t use it to discuss work-related topics,  which should be handled through traditional channels. Note that postings are  solely the responsibility of the individual poster, and Rajiv does not endorse  any posting or point of view expressed on this Site. We may elect to flag [and  remove] postings that they find offensive, miscategorized, spam, or no longer  current. </p></td>
 </tr>
 <tr>
-  <td height="17" valign="top" class="category" style="padding:10px">&nbsp;</td>
+  <td height="5" valign="top" class="category" style="padding:10px">&nbsp;</td>
 </tr>
+</tbody></table>
+					  
+					</td>
+                  </tr>
+                </tbody></table>
+				
+                </td><td>
+              </td></tr>
+              <tr>
+                <td height="2" valign="top">    </td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+        </tr>
+      
+    </tbody></table>		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+        </td>
+      </tr>
+    </tbody></table></td>
+  </tr>  
+  
+<!-- ================================ Left and Right Part End =================================== -->  
+  
+ 
+  
+  
+  <!--<tr><td height="35">&nbsp;</td></tr>-->
+	
+  <tr><td>
+	<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0">
+  	  <tbody><tr><td>
+ 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+<!-- ================================ Footer Part Start ========================================= -->
+  
+  <tbody><tr><td align="right" style="padding-right:40px; padding-bottom:10px; " valign="top"><a href="http://twitter.com/adhysteria" target="_blank"><img src="/images/twitter_small.png" alt="Twitter" width="35" height="35" align="absmiddle" border="0"></a>&nbsp;<a href="http://www.facebook.com/pages/Adhysteriacom/182502983245" target="_blank"><img src="/images/facebook_small.png" alt="Facebook" width="35" height="35" align="absmiddle" border="0"></a>&nbsp;<a href="/rss/video_classifieds.xml" target="_blank"><img src="/images/rss_icon.gif" alt="RSS" width="35" height="35" align="absmiddle" border="0"></a></td></tr>
+  
+  <tr>
+    <td height="156" align="left" valign="top" background="/images/3_84_N.png">
+	
+	<table width="1003" border="0" align="center" cellpadding="1" cellspacing="0">
+      <tbody><tr>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td height="30" align="left" valign="middle"><table width="100%" border="0" cellspacing="1" cellpadding="2">
+                <tbody><tr>
+                  <td align="left" valign="middle" class="menutxt">
+				  
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+						<td align="left" valign="middle" class="menutxt">
+						
+							&nbsp;&nbsp;<a href="http://www.adhysteria.com/privacy.php" class="menutxt">Privacy 
+						  Policy</a> | <a href="http://www.adhysteria.com/contact_us.php" class="menutxt">Contact Us</a> |  <a href="http://www.adhysteria.com/home.php" class="menutxt">Home</a> | <a href="http://www.adhysteria.com/help.php" class="menutxt">Help</a> | <a href="/terms.php" target="_blank" class="menutxt">Terms</a> | <a href="/contact_us.php" class="menutxt">Advertise on this site</a> 
+						
+						</td>
+						<td align="left" valign="middle">&nbsp;<!-- --></td>
+						<td align="right" valign="middle" class="menutxt">
+						
+							&nbsp;&nbsp; Copyrights  2008 <a href="/copyright.php" target="_blank" class="menutxt">adhysteria.com</a>  All rights reserved &nbsp;
+							
+						</td>
+					  </tr>
+					</tbody></table>
+
+	  			  </td>
+                </tr>
+				
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td height="120" align="center" valign="middle">
+			<!--<img src="images/addbanner.png" width="728" height="92" />-->
+
+				<table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
+					  <tbody><tr><td align="center">
+					
+	 <iframe src="http://www.adhysteria.com/banner/image.php?size_id=5" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" vspace="0" hspace="0"><br><font size=-1></iframe>
+<!--	<IMG SRC="images/index_ad.jpg" >-->
+<script language="JavaScript">
+var cnt_Buttom_foot=0;
+var picCount_Buttom_foot = 0;
+//alert(picCount_Buttom);
+var j_foot;
+var slideShowSpeed_Buttom_foot = 9000;
+var crossFadeDuration_Buttom_foot = 2;
+var arrButtomBannerImg_foot = new Array();
+var arrButtomBannerUrl_foot = new Array();
+var arrButtomBannerId_foot = new Array();
+
+function runSlideShow_Buttom_foot()
+		{			
+		if (document.all){			
+			//alert(document.images.buttomBannerImg.style.filter);
+			  document.images.buttomBannerImg_foot.style.filter="blendTrans(duration=4)";			 
+			  document.images.buttomBannerImg_foot.style.filter="blendTrans(duration=crossFadeDuration_Buttom_foot)";
+			  document.images.buttomBannerImg_foot.filters.blendTrans.Apply() ;
+			 
+		   }
+		if(cnt_Buttom_foot >= picCount_Buttom_foot) cnt_Buttom_foot=0;
+		document.getElementById("buttomBannerImg_foot").src = "" + arrButtomBannerImg_foot[cnt_Buttom_foot];
+		document.getElementById("buttomBannerUrl_foot").href = arrButtomBannerUrl_foot[cnt_Buttom_foot];
+		cnt_Buttom_foot++;
+		if (document.all){
+			  document.images.buttomBannerImg_foot.filters.blendTrans.Play();
+			  
+			   }
+		   t = setTimeout('runSlideShow_Buttom_foot()', slideShowSpeed_Buttom_foot);
+		}
+
+runSlideShow_Buttom_foot();
+</script>
+					</td></tr>
+				</tbody></table>
+
+			</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+  
+	</td>
+  </tr>  
+  
+<!-- ================================ Footer Part End ========================================= -->  
+
+</tbody></table>
+  	  </td></tr>
+    </tbody></table>
+  </td></tr>
+
 </tbody></table>
 
 
-<img src="images/spacer.gif" width="12" height="5">
-<table width="955" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-        <td width="12"><img src="images/bottom_left_corn.gif" width="12" height="26"></td>
-        <td bgcolor="#BBD321" class="header_link"><a href="copyright.php" target="_blank">Coprights © 2008 adhysteria.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy.php" target="_blank">Privacy Policy</a> | <a href="contact_us.php">Contact   Us</a> | <a href="index.php">Home</a> | <a href="help.php" target="_blank">Help</a> | <a href="terms.php" target="_blank">Terms</a></td>
-    <td width="12" align="right"><img src="images/bottom_right_corn.gif" width="12" height="26"></td>
-      </tr>
-    </tbody></table></body></html>
+
+</body></html>
