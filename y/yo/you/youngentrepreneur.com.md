@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606192342id_/http%3A//www.youngentrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206224107id_/http%3A//www.youngentrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Young Entrepreneur – Small Business & Entrepreneur Community
 
