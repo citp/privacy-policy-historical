@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201094755id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206041348id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Burt's Bees
 
