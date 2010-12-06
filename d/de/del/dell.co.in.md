@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.co.in privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606093552id_/http%3A//www.dell.co.in/content/topics/topic.aspx/ap/policy/en/privacy%3Fc%3Din%26l%3Den%26s%3Dgen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.co.in privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206143712id_/http%3A//www.dell.co.in/content/topics/topic.aspx/ap/policy/en/privacy%3Fc%3Din%26l%3Den%26s%3Dgen) for the most accurate reproduction.*
 
 # Dell's Privacy Policy | Dell India
 
@@ -58,7 +58,7 @@ Selecting Your Communication Preferences
 You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following: 
 
   * The My Account / Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell.com, and to subscribe or unsubscribe to newsletters about our products and services; and
-  * At any point, you can also visit our [Dell Subscription Centre](http://ind.dell.com/p/IN/Subscribe?page=unsubscribe) and request to be removed from our advertising and marketing lists (catalogue, telephone, faxes, and email);
+  * At any point, you can also visit our [Dell Subscription Center](http://ind.dell.com/p/IN/Subscribe?page=unsubscribe) and request to be removed from our advertising and marketing lists (catalogue, telephone, faxes, and email);
   * At the time you save a cart while shopping online, you can choose to receive email reminders;
   * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws.
 
