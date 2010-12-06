@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417042023id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206101514id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Taylor Gifts - Unique Gifts Since 1952
 
