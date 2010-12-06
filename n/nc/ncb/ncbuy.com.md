@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118010427id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206132104id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
 
 # NCBuy: Service Center - Privacy Policy
 
@@ -75,8 +75,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 ATTN: Privacy Administrator  
 NetCent Communications  
-74 MacDermott Drive  
-Ajax, Ontario, L1T 3T9 
+157 Harwood Avenue North, Suite 226  
+Ajax, Ontario L1Z 0B6 
 
   
 
