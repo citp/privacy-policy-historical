@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617183502id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206143949id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # destructoid.com privacy policy- Destructoid
 
@@ -58,7 +58,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 
   
-15 comments |  showing # 1 to 15  
+11 comments |  showing # 1 to 11  
 
 
   
@@ -79,10 +79,3 @@ Click connect and comment instantly!
 Destructoid is an open discussion community. You don't need to "audition" to post a comment - just speak your mind. We respect differing opinions on the site, so have at it. Be smart, funny, insightful, clueless, or cute -- but back it up with substance. Keep your cool, keep it fun. We only ask that you act respectfully and above all: don't be a [troll](http://en.wikipedia.org/wiki/Troll_%28Internet%29) and ruin it for everyone else. Don't bring down gamers or we'll, you know, gently shoot you in the face and stuff you into a flaming mailbox. Each comment is your opportuntity to make this community [awesomer](http://www.destructoid.com/elephant/signup_thanks.phtml?t=potato). Is that even a word? 
 
 Avoiding the banhammer only requires common sense: spamming, trolling, racism, NSFW stuff, and [other forms of sucking](http://www.destructoid.com/blogs/Hamza+CTZ+Aziz/community-blogs-terms-and-conditions-77513.phtml) will not be tolerated. If anyone is griefing please [report abuse](mailto:support@destructoid.com). Be good. Don't suck! 
-
-[](http://www.destructoid.com/elephant/index-short.phtml?t=Kinect)
-
-  
-
-
-[](http://www.destructoid.com/elephant/index-short.phtml?t=Satire)
