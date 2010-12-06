@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524080532id_/http%3A//us.reachout.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206091418id_/http%3A//us.reachout.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : REACHOUT.com
 
-**1\. Privacy policy**
+Effective August 26, 2009. Last Revised January 11, 2010. 
 
-The Reach Out website located at [www.reachout.com](http://www.reachout.com/), including all of its subsites and related services (collectively the “[Site](http://www.reachout.com/)”) is operated by the Inspire USA Foundation ("[Inspire USA](http://www.inspireusafoundation.org/)"). Inspire USA respects and is committed to maintaining the privacy of all visitors to this Site. Your use of this Site indicates that you accept this Privacy Policy, and consent to the collection and use by us of any information that personally identifies you (“Personal Information”) according to the terms below, and to the Site’s Terms of Use available [here](https://web.archive.org/web/20100524080532id_/http%3A//us.reachout.com/terms_of_use.php). Inspire USA reserves the right to modify the content, nature and accessibility of the Site, in which case the Privacy Policy will continue to apply.
+**  
+1\. Privacy policy**
+
+The Reach Out website located at [www.reachout.com](http://www.reachout.com/), including all of its subsites and related services (collectively the “[Site](http://www.reachout.com/)”) is operated by the Inspire USA Foundation ("[Inspire USA](http://www.inspireusafoundation.org/)"). Inspire USA respects and is committed to maintaining the privacy of all visitors to this Site. Your use of this Site indicates that you accept this Privacy Policy, and consent to the collection and use by us of any information that personally identifies you (“Personal Information”) according to the terms below, and to the Site’s Terms of Use available [here](https://web.archive.org/web/20101206091418id_/http%3A//us.reachout.com/terms_of_use.php). Inspire USA reserves the right to modify the content, nature and accessibility of the Site, in which case the Privacy Policy will continue to apply.
 
 Inspire USA may revise this Privacy Policy at any time by placing a notice on the Site advising that the Privacy Policy has changed. You will be deemed to have accepted and agreed to the revised Privacy Policy if you continue to use the Site after notice of the revised Privacy Policy has been placed on the Site. If revisions to the Privacy Policy are unacceptable to you or cause you to no longer be in compliance with the Privacy Policy, you must cease using the Site. 
 
