@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628052910id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206180734id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
 
 # BiggerBras.com: Privacy Policy
 
@@ -14,15 +14,19 @@ BGB does not release or sell the names and addresses of its customers obtained t
 
 Credit Cards and Security
 
-BGB uses the secure server software (SSL) of [Plug 'n Pay Technologies, Inc.](http://www.plugnpay.com/) for secure commerce transactions so that the personal information you provide to complete your purchase remains confidential and secure. Your personal information is used only to process your order, is protected under our agreement with Plug-n-Pay, and is not shared with any other entity.
+BGB uses the secure server software (SSL) encryption to protect your personal data so that the personal information you provide to complete your purchase remains confidential and secure. BGB uses [Plug 'n Pay Technologies, Inc.](http://www.plugnpay.com/) as our gateway for secure commerce transactions. Your personal information is used only to process your order, is protected under our agreement with Plug-n-Pay, and is not shared with any other entity.
 
 SSL technology encrypts all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
 
-If you are using Internet Explorer as your browser, you can verify that you are on a secure page when you see the closed-lock icon at the bottom right of your browser. Other browsers should also display some sort of icon to you indicating that the page is secure. You can also click on this icon to see the issuing authority for the secure certificate that makes the SSL possible.
+If you are using Internet Explorer as your browser, you can verify that you are on a secure page when you see the closed-lock icon. Other browsers should also display some sort of icon to you indicating that the page is secure. You can also click on this icon to see the issuing authority for the secure certificate that makes the SSL possible.
+
+Extended Validation of Digital Certificate
+
+Our secure checkout use the extended validation option of [Trustwave's digital certificate](https://www.trustwave.com/) so that you know that you are on the BiggerBras.com official website. On Internet Exporer, this technology turns the address bar green and shows you that the site is identified by Trustwave, you can click the lock icon next to the address bar for certificate details.
 
 When You Click the Checkout Button
 
-You are directed to the secure checkout page at our transaction processor (Plug-n-Pay). All secure transactions are handled on the Plug-n-Pay secure web pages. Your credit card information is protected on the Plug-n-Pay secured server and is used only for processing your order. BGB does not store credit card data or order data on its website.
+You are directed to the secure checkout pages of our website. All secure transactions and informtion from our checikout is encrypted before handled on the Plug-n-Pay gateway. Your credit card information is protected on the Plug-n-Pay secured server and is used only for processing your order. BGB does not save or store your credit card data.
 
 Packaging
 
@@ -51,6 +55,10 @@ Cookies are also used by some of the search engines such as Overture to help us 
 Big Girls' Bras uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable our ad management partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us or by another advertiser, or advertising partner. With both cookies and Spotlight technology, the information that we collect and analyze is anonymous and not personally identifiable. It does not contain your name, address, telephone number, credit card information, or email address.
 
 Additionally, a cookie may be used so that our web site "remembers" who you are when you use one of our premium services so that only information that is important to you is displayed. No personally identifying information is ever collected using cookies.
+
+Third Party Cookies for Advertising Purposes
+
+Our website uses the remarketing features of Google adwords. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. You may opt out of Google's use of cookies by visiting [the Google advertising opt-out page](http://www.google.com/privacy_ads.html). You may opt-out of third party vendor's use of cookies by visiting [the Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Conclusion
 
