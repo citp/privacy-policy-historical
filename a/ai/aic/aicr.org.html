@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aicr.org privacy policy that was archived on 2010-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100417043320id_/http%3A//www.aicr.org/site/PageServer%3Fpagename%3Daicr_your_privacy_rights) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aicr.org privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206155252id_/http%3A//www.aicr.org/site/PageServer%3Fpagename%3Daicr_your_privacy_rights) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -20,14 +20,22 @@
 
 
 
+<script type="text/javascript" src="../yui3/yui/yui-min.js"></script>
+<script type="text/javascript" src="../js/convio/modules.js"></script>
+<script type="text/javascript">
+var Y = YUI({
+base: '../yui3/',
+
+debug: false,
+
+modules: getModules('../', 'convio', false)
+});
+</script>
 
 
 <script type="text/javascript" src="../js/utils.js"></script>
 
-<script type="text/javascript" src="../js/CList.js"></script>
-<script type="text/javascript" src="../js/CCallWrapper.js"></script>
-<script type="text/javascript" src="../js/CSimpleObservable.js"></script>
-<script type="text/javascript" src="../js/obs_comp.js"></script>
+<script type="text/javascript" src="../js/obs_comp_rollup.js"></script>
 
 
 <link href="../css/themes/default.css" rel="stylesheet" type="text/css">
@@ -65,64 +73,78 @@
 <link href="../new/css/largefont.css" rel="alternate stylesheet" type="text/css" title="large font">
 <link href="../new/css/highviz.css" rel="alternate stylesheet" type="text/css" title="high visibility">
 <!-- Colorbox-->
+
 <link href="../new/css/colorbox.css" rel="stylesheet" type="text/css" media="screen">
 <!-- styleswitcher js -->
 <script src="../new/Scripts/styleswitcher.js" type="text/javascript"></script>
 <!-- date js -->
 <script src="../new/Scripts/date.js" type="text/javascript"></script>
 <!-- swf js -->
-<script src="../new/Scripts/swfobject.js" type="text/javascript"></script>
-<!--JQuery 1.3.2-->
-<script src="../new/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<!--JQuery-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <!--JQuery Cycle Plugin-->
-<script src="../new/Scripts/jquery.cycle.all.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
 <!--Quiet Slide-->
 <script src="../new/Scripts/quietslide.js" type="text/javascript"></script>
 <!--ColorBox-->
 <script type="text/javascript" src="../new/Scripts/colorbox/jquery.colorbox.js"></script>
 <script type="text/javascript" src="../new/Scripts/colorbox/jquery.colorbox-min.js"></script>
+<!--Slideshow-->
+<script src="../new/Scripts/slideshow.js" type="text/javascript"></script>
+<!--AddThis-->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=aicr2007"></script>
 
 
 
+
+<!--RSS Feeds-->
+<link rel="alternate" type="application/rss+xml" title="AICR | All Feeds Combined" href="../feed/aicr/AICRallfeeds.xml">
+<link rel="alternate" type="application/rss+xml" title="AICR Articles" href="../feed/rss2_0/stories.rss">
+<link rel="alternate" type="application/rss+xml" title="AICR | Cancer Patient and Survivorship News" href="../feed/aicr/Cancer_Patient_And_Survivorship_News.xml">
+<link rel="alternate" type="application/rss+xml" title="AICR | Health Professionals &amp; Educators News" href="../feed/aicr/Health_Professionals_and_Educators_News.xml">
+<link rel="alternate" type="application/rss+xml" title="AICR | Test Kitchen Recipes" href="../feed/aicr/AICR_Test_Kitchen.xml">
+<link rel="alternate" type="application/rss+xml" title="AICR | AICRBlog.org Stories" href="http://www.aicrblog.org/?feed=rss2">
 
 <!--startindex-->
 </head>
 <body>
 <div class="container">
-<a name="top" id="top"></a>
-  <div class="mast">
-    <div class="mastLeft"><a href="PageServer"><img title="Back to homepage" alt="AICR logo" src="../new/images/structure/logo_aicr.gif" border="0"></a> </div>
-    <div class="mastRight">
-      <div class="slide">
-        <ul>
-
-           <li><a href="PageServer?pagename=aicr_publications"><span>AICR Brochures</span></a></li>
-          <li>
+<a id="top" name="top"></a>
+<div class="mast">
+<div class="mastLeft"><a href="http://www.aicr.org"><img title="Back to homepage" src="../new/images/structure/logo_aicr.gif" border="0" alt="AICR logo"></a> </div>
+<div class="mastRight">
+<div class="slide">
+        
+<ul>
+<li><a href="PageServer?pagename=aicr_publications"><span>AICR Publications</span></a></li>
+<li>
 		  
 <a title="Subscribe to AICR Email Publications" href="PageServer?pagename=pub_subscribe_to_email"><span>Subscribe</span></a>
 
-		  </li><li class="orangeLeft"><a title="Donate!" href="Donation2?idb=0&amp;df_id=3640&amp;3640.donation=form1&amp;s_src=trb&amp;s_subsrc=aicr_your_privacy_rights"><span class="orangeRight">Donate!</span></a></li>
-        </ul>
-      </div>
-      <!-- end slide -->
-      <div class="search">
-        <form id="searchForm" name="searchForm" action="http://www.aicr.org/site/Search" method="get">
-          <div>
-            <input id="query" maxlength="50" size="25" name="query" style="border: 1px solid #7e9db9; padding: 2px;">
-            <input type="hidden" name="ie" value="UTF-8">
-            <input type="submit" name="sa" value="Search">
-            <input id="inc" type="hidden" value="10" name="inc">
+</li><li class="blueLeft"><a title="CFC # 11420" href="PageServer?pagename=help_cfc"><span class="blueRight" style="margin-left: 61px;">&nbsp;#11420</span></a></li>
+<li class="orangeLeft"><a title="Donate!" href="PageServer?pagename=help_home"><span class="orangeRight">Donate!</span></a></li>
+</ul>
+</div>
+<!-- end slide -->
+<div class="search">
+        <form name="searchForm" id="searchForm" action="http://www.aicr.org/site/Search" method="get">
+<div>
+            <input id="query" name="query" size="25" maxlength="50">
+            <input name="ie" type="hidden" value="UTF-8">
+            <input name="sa" type="submit" value="Search">
+            <input id="inc" name="inc" type="hidden" value="10">
           </div>
-        </form>
+</form>
       </div>
-	  <!--end search div-->
+<!--end search div-->
     </div>
-    <!-- end topbar -->
+<!-- end topbar -->
   </div>
-  <!-- end mast -->
+<!-- end mast -->
   <!-- globalnav -->
-  <div id="navwrap">
-    <div id="nav">
+<div id="navwrap">
+<div id="nav">
 <div class="menu">
 
 <ul>
@@ -153,7 +175,7 @@
 <li><a href="PageServer?pagename=aicr_publications_bulk">Bulk Order Publications</a></li>
 <li><a href="Ecommerce?store_id=8021&amp;VIEW_CATALOG=true&amp;FOLDER=0&amp;TYPE=&amp;NAME=">Shop AICR</a></li>
 <li><a href="PageServer?pagename=her_current_issue">Health-e-Recipes</a></li>
-<li><a href="PageServer?pagename=cru_current_issue">eNews</a></li>
+<li><a href="PageServer?pagename=cru_current_issue">Cancer Research Update</a></li>
 <li><a href="PageServer?pagename=enews_current_issue">AICR eNews</a></li>
 <li><a href="PageServer?pagename=aicr_publications_newsletter">AICR Newsletter</a></li>
 <li><a href="PageServer?pagename=research_latest_sciencenow"><em>ScienceNow</em></a></li>
@@ -230,6 +252,7 @@
 <li><a href="Donation2?idb=0&amp;df_id=1788&amp;1788.donation=form1&amp;s_src=ddm&amp;s_subsrc=aicr_your_privacy_rights">Gifts In Memory</a></li>
 <li><a href="Donation2?idb=0&amp;df_id=1785&amp;1785.donation=form1&amp;s_src=ddm&amp;s_subsrc=aicr_your_privacy_rights">Gifts In Honor</a></li>
 <li><a href="PageServer?pagename=help_donate_monthly_home">Donate Monthly</a></li>
+<li><a href="http://www.aicr.org/site/TR/Events/General?fr_id=1060&amp;pg=tgreeting">Create a Tribute</a></li>
 <li><a href="PageServer?pagename=help_donate_name_wedding_gifts">Wedding Favors</a></li>
 <li><a href="PageServer?pagename=help_team_aicr_home">Get Involved</a></li>
 <li><a href="PageServer?pagename=work_home">Give At Work</a></li>
@@ -294,58 +317,55 @@
 </div>   
 </div>
 </div>
-  <!-- end globalnav -->
+<!-- end globalnav -->
 <!-- Start banner switcher-->
-<script type="text/javascript">
+<script type="text/javascript">// <![CDATA[
 $('#banner').cycle({
         fx:     'fade',
         speed:  'slow',
         timeout: '9000'
     });
+// ]]></script>
 
-</script>
 
-
-<div class="bannerHome" id="banner"></div>
+<div id="banner" class="bannerHome">
+  <!--http://www.aicr.org/site/PageServer?pagename=aicr_your_privacy_rights=S8,=s334pg-->
+</div>
 
 <!-- end banner switcher-->
   <!-- begin content area -->
-  <div class="content">
-    <div class="left">
-      <div id="globalswitchers">
-        <p>View:</p>
-        <ul>
-          <li><a class="default" title="Default" onclick="setActiveStyleSheet(); return false;" href="#">A</a></li>
-          <li><a title="Large font" onclick="setActiveStyleSheet('large font'); return false;" href="#">A+</a></li>
-          <li><a class="highviz" title="High visibility" onclick="setActiveStyleSheet('high visibility'); return false;" href="#"><strong>A</strong></a></li>
-        </ul>
-      </div>
-      <!-- S51 Main Subnav -->
+<div class="content">
+<div class="left">
+<div id="globalswitchers">
+<p>View:</p>
+<ul>
+<li><a class="default" title="Default" onclick="setActiveStyleSheet(); return false;" href="#">A</a></li>
+<li><a title="Large font" onclick="setActiveStyleSheet('large font'); return false;" href="#">A+</a></li>
+<li><a class="highviz" title="High visibility" onclick="setActiveStyleSheet('high visibility'); return false;" href="#"><strong>A</strong></a></li>
+</ul>
+</div>
+<!-- S51 Main Subnav -->
       <!--subnav_navLeft -->
-<!--MAIN-->
-
-
-
-
-
+<!--homepage_navLeft-->
 
 
 
 <div id="subnav">
-  <ul>
-    <li><a href="PageServer?pagename=homepage_patients_survivors" class="Empty">Cancer Patients and Survivors </a></li>
-    <li><a href="PageServer?pagename=homepage_researchers" class="Empty">Researchers</a></li>
-    <li><a href="PageServer?pagename=homepage_health_professionals" class="Empty">Health Professionals</a>
-
-
-<!--Finish check for what page we're on, don't display unless we're on the health professionals homepage-->
+  
+<ul>
+<li><a class="Empty" href="PageServer?pagename=homepage_patients_survivors">Cancer Patients and Survivors </a></li>
+<li><a class="Empty" href="PageServer?pagename=homepage_researchers">Researchers</a></li>
+<li><a class="Empty" href="PageServer?pagename=homepage_health_professionals">Health Professionals</a> 
+      <!--Finish check for what page we're on, don't display unless we're on the health professionals homepage-->
     </li>
-    <li><a href="PageServer?pagename=homepage_press" class="Empty">Press</a></li>
-    <li><a href="PageServer?pagename=homepage_supporters" class="Empty">Supporters</a></li>
-    <li><a href="http://www.rrnew.com/aicr-advisor/">Estate Planners</a></li>
-  </ul>
+<li><a class="Empty" href="PageServer?pagename=homepage_press">Press</a></li>
+<li><a class="Empty" href="PageServer?pagename=homepage_supporters">Supporters</a></li>
+<li><a href="http://www.rrnew.com/aicr-advisor/">Estate Planners</a></li>
+</ul>
 </div>
+<!--END homepage_navLeft-->
 <!-- S51 Subscribe button -->
+
   
 
 <!-- name="EmailSubscription" -->
@@ -383,7 +403,9 @@ $('#banner').cycle({
  <!-- end name="EmailSubscription" -->
  
 
+
 <!-- end S51 Subscribe button -->
+
 
 <!-- Begin Press Release include -->
 <div class="greyCurved">
@@ -395,8 +417,8 @@ $('#banner').cycle({
 
  
 <p>
-<a class="NewsHeadlineList" href="http://www.aicr.org/site/News2/1494568349?abbr=pr_&amp;page=NewsArticle&amp;id=18541&amp;news_iv_ctrl=1102">In The News: In the News: Does an Apple (or Two) a Day Keep Cancer Away?</a><br>
-Press Release: April 7, 2010
+<a class="NewsHeadlineList" href="http://www.aicr.org/site/News2/287403277?abbr=pr_&amp;page=NewsArticle&amp;id=19986&amp;news_iv_ctrl=1102">In The News: AICR Statement on Fruits, Vegetables and Cancer</a><br>
+Press Release: December 1, 2010
 </p>
 
 
@@ -413,8 +435,8 @@ Press Release: April 7, 2010
 
  
 <p>
-<a class="NewsHeadlineList" href="http://www.aicr.org/site/News2/1494568349?abbr=pr_&amp;page=NewsArticle&amp;id=18369&amp;news_iv_ctrl=1102">In The News: Study Links Multivitamin Use With Increased Breast Cancer Risk</a><br>
-Press Release: April 5, 2010
+<a class="NewsHeadlineList" href="http://www.aicr.org/site/News2/287403277?abbr=pr_&amp;page=NewsArticle&amp;id=19709&amp;news_iv_ctrl=1102">Latest Research: Even Late in Life, Activity and Plant-Based Diet Lower Cancer Risk </a><br>
+Press Release: October 21, 2010
 </p>
 
 
@@ -431,8 +453,8 @@ Press Release: April 5, 2010
 
  
 <p>
-<a class="NewsHeadlineList" href="http://www.aicr.org/site/News2/1494568349?abbr=pr_&amp;page=NewsArticle&amp;id=18396&amp;news_iv_ctrl=1102">In the News:  New Study on Breast Cancer Prevention Confirms AICR Recommendations</a><br>
-Press Release: March 26, 2010
+<a class="NewsHeadlineList" href="http://www.aicr.org/site/News2/287403277?abbr=pr_&amp;page=NewsArticle&amp;id=19537&amp;news_iv_ctrl=1102">Media Advisory: AICR Hosts Telephone Briefing on October 20 on How Diet, Activity Delay Aging and Prevent Age-Related Cancer</a><br>
+Press Release: October 19, 2010
 </p>
 
 
@@ -454,11 +476,11 @@ Press Release: March 26, 2010
 
 
 
+<!--about_navLeft -->
 
-<!--ABOUT -->
 
- 
 
+<!--END about_navLeft -->
 <!--Patients and Survivors -->
 
 
@@ -469,24 +491,18 @@ Press Release: March 26, 2010
 
 
 
+<!--after_navLeft -->
+
 
 
  
 
 
 
+
 <!--PUBLICATIONS & STORES -->
 
 
-
-
-<!--HEALTH PROFESSIONALS -->
-
-
-
-
-
-<!--SUPPORTERS -->
 
 
 
@@ -506,7 +522,9 @@ Press Release: March 26, 2010
 
 
 
+
 <!--Health Feats -->
+
 
 
 
@@ -514,6 +532,9 @@ Press Release: March 26, 2010
 
 
 
+
+
+<!--ScienceNow -->
 
 
 <!--CRU -->
@@ -529,6 +550,15 @@ Press Release: March 26, 2010
 
 
 
+
+
+<!--Health@Work -->
+
+
+
+
+
+<!--Health@Work Email acquisition-->
 
 
 <!--REDUCE -->
@@ -564,17 +594,8 @@ Press Release: March 26, 2010
 
 
 
+
 <!--CANCER PREVENTION -->
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -643,10 +664,9 @@ Press Release: March 26, 2010
 
  
  
- 
+
 
 <!--RESEARCH -->
-
 
 
 
@@ -672,34 +692,39 @@ Press Release: March 26, 2010
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--HOW CAN I HELP: highlights_navLeft -->
+
+
+
+
+
+
+
+ 
+
+
  
  
- 
- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
 
 
 
@@ -707,54 +732,60 @@ Press Release: March 26, 2010
       <!-- end S51 Main Subnav -->
       <!-- S51 Donate button -->
       <!-- Begin BBB -->
- <a href="http://charityreports.bbb.org/public/seal.aspx?ID=2105312006" target="_blank"><img src="../new/images/icons/bbb.png" width="190" height="92" alt="Better Business Burean (BBB) Accredited Charity" style="padding-top:10px;"></a>
+ <a href="http://www.aicr.org/bbb" target="_blank"><img src="../new/images/icons/bbb.png" width="190" height="92" alt="Better Business Burean (BBB) Accredited Charity" style="padding-top:10px;"></a>
  <!-- End BBB -->
 <!-- Begin piggy donation button -->
 <div id="piggyLeft"><a href="Donation2?idb=0&amp;df_id=3640&amp;3640.donation=form1&amp;s_src=llw&amp;s_subsrc=aicr_your_privacy_rights">Donate Now!</a></div>
 <!-- End piggy donation button -->
+<!-- Begin CFC donation button -->
+<div id="cfc"><a href="PageServer?pagename=help_cfc" style="text-indent:30px">#11420</a></div>
+<!-- End CFC donation button -->
       <!-- end S51 Donate button -->
       <!-- S51 Sitenav menu -->
       <!-- Start SiteNav -->
 <div class="follow">
 <a class="blogicon" href="http://aicrblog.org" target="_blank">Follow us on AICRBlog</a>
       <a class="twitter" href="http://twitter.com/aicrtweets" target="_blank">Follow us on Twitter</a>
-      <a class="facebook" href="http://www.facebook.com/pages/Washington-DC/American-Institute-for-Cancer-Research-AICR/139456099918" target="_blank">Follow us on Facebook</a>
+      <a class="facebook" href="http://www.facebook.com/pages/American-Institute-for-Cancer-Research-AICR/107761702578379" target="_blank">Follow us on Facebook</a>
       </div>
-
 <div id="sitenav">
-  <ul>
-    <li><a href="PageServer?pagename=reduce_diet_recipes_test_kitchen">Recipes from the AICR Test Kitchen</a></li>
-    <li><a href="PageServer?pagename=aicr_publications">AICR Publications</a></li>
-
-    <li><a href="PageServer?pagename=sitemap2">Sitemap</a></li>
-  </ul>
+  
+<ul>
+<li><a href="PageServer?pagename=reduce_diet_recipes_test_kitchen">Recipes from the AICR Test Kitchen</a></li>
+<li><a href="PageServer?pagename=aicr_publications">AICR Publications</a></li>
+<li><a href="PageServer?pagename=sitemap2">Sitemap</a></li>
+</ul>
 </div>
 <!-- end sitenav -->
-
       <!-- end S51 Sitenav menu -->
 <!-- Start flags -->
 <div id="flags">
- <ul>
-  <li><a href="http://www.wcrf-uk.org/" target="_blank" title="WCRF-UK Website / new window" class="flagUK"></a></li>
-  <li><a href="http://www.wcrf-nl.org/" target="_blank" title="WCRF-NL Website / new window" class="flagNL"></a></li>
-  <li><a href="http://www.wcrf-hk.org/" target="_blank" title="WCRF-HK Website / new window" class="flagHK"></a></li>
-  <li><a href="http://www.fmrc.fr/" target="_blank" title="FMRC Website / new window" class="flagFR"></a></li>
-  <li><a href="http://www.wcrf.org" target="_blank" title="WCRF International Website / new window" class="flagINT"></a></li>
- </ul>
+ 
+<ul>
+<li><a class="flagUK" title="WCRF-UK Website / new window" href="http://www.wcrf-uk.org/" target="_blank"></a></li>
+<li><a class="flagNL" title="WCRF-NL Website / new window" href="http://www.wcrf-nl.org/" target="_blank"></a></li>
+<li><a class="flagHK" title="WCRF-HK Website / new window" href="http://www.wcrf-hk.org/" target="_blank"></a></li>
+<li><a class="flagFR" title="FMRC Website / new window" href="http://www.fmrc.fr/" target="_blank"></a></li>
+<li><a class="flagINT" title="WCRF International Website / new window" href="http://www.wcrf.org" target="_blank"></a></li>
+</ul>
 </div>
 <!-- end flags -->
     </div>
-    <!-- end left -->
-<div style="width: auto; font-size: 0.9em; float: right; position: relative; margin-bottom:14px;"> <a style="background-color: #ff6600; color: #ffffff; text-decoration: underline; font-weight: bold; padding: 2px;" href="Donation2?idb=0&amp;df_id=3640&amp;3640.donation=form1&amp;s_src=trw&amp;s_subsrc=aicr_your_privacy_rights">Donate Now!</a> | <a href="TellAFriend?page=http%3A%2F%2Fwww.aicr.org%2Fsite%2FPageServer%3Fpagename%3Daicr_your_privacy_rights">Tell a Friend</a> | <a href="javascript:window.print()">Print</a>
-<!-- AddThis Button BEGIN -->
-         | <a onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" href="http://www.addthis.com/bookmark.php" target="_blank"><img src="../new/images/structure/button0-share.gif" border="0" alt="Bookmark and Share" width="83" height="16" align="absmiddle"></a>
-<script type="text/javascript">
-var addthis_pub = 'aicr2007';
-</script>
-<script src="http://s9.addthis.com/js/widget.php?v=10" type="text/javascript"></script>
-<br>
-        <!-- AddThis Button END -->
+<!-- end left -->
+<div style="width: 278px; font-size: 0.9em; float: right; position: relative; margin-bottom:13px; "> 
+<div class="addthis_default_style" style="margin-right:-30px;">
+    <a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact"></a>
+    <span class="addthis_separator"> </span>
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_twitter"></a>    
+    <a class="addthis_button_googlebuzz"></a>
+    <a class="addthis_button_email"></a>
+    <span class="addthis_separator"> </span>
+    <a class="addthis_button_facebook_like"></a>
+<a href="Donation2?idb=0&amp;df_id=3640&amp;3640.donation=form1&amp;s_src=trw&amp;s_subsrc=aicr_your_privacy_rights" style="background-color: #ff6600; color: #ffffff; text-decoration: underline; font-weight: bold; padding: 3px; margin-right: 10px;">Donate Now!</a>
 </div>
+ </div> 
+
 <div class="orientation">
 <!--Homepage Crumbs-->
 
@@ -764,10 +795,9 @@ var addthis_pub = 'aicr2007';
 
 
 
-
-
-<!-- <a href="PageServer?pagename=homepage">Home</a> Your Privacy Rights-->
+<!-- <a href="PageServer?pagename=homepage" mce_href="PageServer?pagename=homepage">Home</a> Your Privacy Rights-->
 <!--End Homepage-->
+<!--HP & E -->
 
 <!--Start Press paths-->
 
@@ -781,9 +811,7 @@ var addthis_pub = 'aicr2007';
 
 
 
-
 <!--End Press Paths-->
-
 <!--START Publications -->
 
 
@@ -793,11 +821,12 @@ var addthis_pub = 'aicr2007';
 
 
 
+
+
+
+
 <!--END Publications -->
-
 <!--Start Reduce Your Cancer Risk-->
-
-
 
 
 
@@ -814,11 +843,7 @@ var addthis_pub = 'aicr2007';
 
 
 
-
 <!--Diet Add -->
-
-
-
 
 
 
@@ -834,17 +859,7 @@ var addthis_pub = 'aicr2007';
 
 
 
-
-
-
-
 <!--NAP Cookbook-->
-
-
-
-
-
-
 
 
 
@@ -855,6 +870,17 @@ var addthis_pub = 'aicr2007';
 
 
 
+
+
+
+
+
+
+
+
+
+
+<!--Test Kitchen -->
 
 
 
@@ -881,9 +907,7 @@ var addthis_pub = 'aicr2007';
 
 
 
-
 <!--PREVENTION -->
-
 
 
 <!--WEIGHT -->
@@ -916,23 +940,13 @@ var addthis_pub = 'aicr2007';
 
 
 
-
-
  
 
 
 
 
-
-
-
-
 <!--End Reduce Your Cancer Risk-->
-
 <!--Learn More About Cancer-->
-
-
-
 
 
 
@@ -951,17 +965,11 @@ var addthis_pub = 'aicr2007';
 
 
 
-
 <!--Toolkit -->
 
 
-
-
-
 <!--End Learn More About Cancer-->
-
 <!--About Us-->
-
 
 
 
@@ -979,15 +987,13 @@ var addthis_pub = 'aicr2007';
 
 
 
-
-<!--Team AICR -->
-
+<!--Team AICR Marathons-->
 
 
 
 
 
-
+<!--Golf Events -->
 
 
 
@@ -995,6 +1001,9 @@ var addthis_pub = 'aicr2007';
 
 
 
+
+
+<!--Event Planning -->
 
 
 
@@ -1010,7 +1019,16 @@ var addthis_pub = 'aicr2007';
 
 
 
-<!-- -->
+
+
+
+
+<!--Tributes -->
+
+
+
+
+
 
 <!--At Work -->
 
@@ -1020,19 +1038,7 @@ var addthis_pub = 'aicr2007';
 
 
 
-
-
-
-
 <!--Begin Our Cancer Research -->
-
-
-
-
-
-
-
-
 
 
 
@@ -1068,21 +1074,16 @@ var addthis_pub = 'aicr2007';
 
 
 <!--END research -->
-
 <!--Begin Patients and Survivors -->
 
 
 <!--Before treatment -->
 
 
-
 <!--During treatment -->
 
 <!-- -->
-
-
 <!--CancerResource -->
-
 
 
 
@@ -1097,15 +1098,9 @@ var addthis_pub = 'aicr2007';
 
 
 
-
-
-
-
-
 <!--END patients -->
 </div>
-
-    <div class="conviocontent">
+<div class="conviocontent">
       <!-- insertS63 -->
       
 
@@ -1180,10 +1175,9 @@ var addthis_pub = 'aicr2007';
 
       <!-- end s63 -->
     </div>
-
-    <!-- end middle -->
+<!-- end middle -->
   </div>
-  <!-- end content -->
+<!-- end content -->
   <!-- begin footer -->
   <div class="footer">American Institute for Cancer Research, 1759 R Street, NW, Washington, DC 20009<br><strong>Tel:</strong> (800) 843-8114 | (202) 328-7744 in D.C. | <strong>Fax:</strong> (202) 328-7226 | <strong>Email:</strong> <a href="mailto:aicrweb@aicr.org?subject=Enquiry from AICR Website">aicrweb@aicr.org</a> 
 <ul id="legal">
@@ -1192,13 +1186,10 @@ var addthis_pub = 'aicr2007';
 </ul>
 </div>
   <!-- end footer -->
-  <div class="clear"></div>
+<div class="clear"></div>
 </div>
 <!--end container-->
-<script src="http://www.aicr.org/new/Scripts/gatag.js" type="text/javascript"></script>
-
-
-
+<script src="../new/Scripts/gatag.js" type="text/javascript"></script>
 
 
 
