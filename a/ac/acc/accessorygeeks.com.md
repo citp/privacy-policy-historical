@@ -1,25 +1,112 @@
-> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2009-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090124213316id_/http%3A//www.accessorygeeks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorygeeks.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206044008id_/http%3A//www.accessorygeeks.com/about.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Shipping.
+# About Us - Free Shipping.
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+**What information do we collect?**
 
-[](http://privacy.yahoo.com/)
+We collect information from you when you register on our site, place an order, abandon cart or subscribe to our newsletter. 
 
-We are sincerely committed to providing our customers with best possible online shopping experience. In order to provide best possible services to our customers, we collect your transactional information such as name, email address, billing and shipping address, telephone number and credit card information from our customer's service to process your order. All your personal information can be edited during the purchase process. AccessoryGeeks.com uses the latest and industry standard SSL technology to ensure our customer's information and identities are protected when making a purchase at AccessoryGeeks.com.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-AccessoryGeeks.com honor our customers' privacy by NOT SHARING, SELLING, RENTING or PUBLISHING customers' information to other companies, organizations or persons unless needed to fulfill your order from us.  Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law. We will only take such actions if it is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process relating to a transaction or purchase.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-By placing an order from AccessoryGeeks.com, you are entitled to free discount coupons and special informative newsletter from AccessoryGeeks.com.  However, you may unsubscribe from receiving them by sending an email to us at ['remove@AccessoryGeeks.com](mailto:'remove@AccessoryGeeks.com)' or reply to our informative newsletter with the word 'REMOVE' in the title or by calling us call toll free at 866-433-5793.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
+**What do we use your information for?**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Should you have other questions or concerns about these private policies, please contact us via email at [ INFO@AccessoryGeeks.com](mailto:INFO@AccessoryGeeks.com) or Call us at 909-468-9480   [](http://site.accessorygeeks.com/new.xml) RSS Feed  
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-  [](http://www.accessorygeeks.com/ipod-nano-giveaway.html)
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-[](http://www.accessorygeeks.com/gift-cards.html)     [](http://www.accessorygeeks.com/mobi.html)
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+
+• To send periodic emails
+
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+• To administer a contest, promotion, survey or other site feature
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Account' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **08/12/2009**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+[www.accessorygeeks.com](http://www.accessorygeeks.com/)  
+260 Paseo Tesoro  
+Walnut, California 91789  
+United States  
+[cs@accessorygeeks.com](mailto:cs@accessorygeeks.com)  
+866.433.5793
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/). 
+
+Respectfully, 
+
+Accessory Geeks   
+[www.accessorygeeks.com](http://www.accessorygeeks.com/)
