@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605202545id_/http%3A//www.pelco.com/sites/global/en/company/about-us/company-profile/privacypolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206171917id_/http%3A//www.pelco.com/sites/global/en/company/about-us/company-profile/privacypolicy.page) for the most accurate reproduction.*
 
-# privacy Policy
+# Pelco Privacy Policy
 
 Pelco is committed to protecting your privacy. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement does not apply to Pelco products or services. Please read the complete Pelco.com privacy statement
 
