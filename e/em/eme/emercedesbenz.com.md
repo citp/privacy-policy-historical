@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emercedesbenz.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525021941id_/http%3A//www.emercedesbenz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emercedesbenz.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206091839id_/http%3A//www.emercedesbenz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eMercedesBenz
 
