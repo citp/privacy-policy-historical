@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magazineradar.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214074351id_/http%3A//www.magazineradar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineradar.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206102547id_/http%3A//www.magazineradar.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# MagazineRadar Privacy Policy
+# Privacy Policy
 
 Contacting us via e-mail or registering for magazineradar.com reveals your e-mail address and any other information you include such as phone number and/or mailing address. We will use this information to help us process your registration, fulfill your request or respond to your inquiry. All of your personal information will be stored in a secure database in the United States of America. Access to this database is limited to authorized persons.
 
