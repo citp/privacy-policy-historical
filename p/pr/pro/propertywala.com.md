@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertywala.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608100104id_/http%3A//info.propertywala.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywala.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206172406id_/http%3A//info.propertywala.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyWala.com
 
