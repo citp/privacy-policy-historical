@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417043320id_/http%3A//www.aicr.org/site/PageServer%3Fpagename%3Daicr_your_privacy_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206155252id_/http%3A//www.aicr.org/site/PageServer%3Fpagename%3Daicr_your_privacy_rights) for the most accurate reproduction.*
 
 # American Institute for Cancer Research (AICR): Your Privacy Rights
 
