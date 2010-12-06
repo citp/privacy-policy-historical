@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528191004id_/http%3A//www.healthcaresource.com/online-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206011017id_/http%3A//www.healthcaresource.com/online-privacy-policy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy - HealthcareSource
 
@@ -30,6 +30,6 @@ If we decide to change our Privacy Statement, we will post those changes so that
 
 **About HealthcareSource**
 
-HealthcareSource is the leader in talent management solutions for healthcare, used by over 1,000 healthcare facilities. We help healthcare organizations acquire, develop and retain the best workforce possible in order to maximize the quality and efficiency of patient care. HealthcareSource Software-as-a-Service solutions include applicant tracking, onboarding, performance management and the leading healthcare internet job board. We focus exclusively on healthcare, are an established and financially strong company, and have 98%+ customer satisfaction and retention. Learn more at [www.healthcaresource.com](http://www.healthcaresource.com/undefined).
+HealthcareSource is the leader in talent management solutions for healthcare, used by over 1,000 healthcare facilities. We help healthcare organizations acquire, develop and retain the best workforce possible in order to maximize the quality and efficiency of patient care. HealthcareSource Software-as-a-Service solutions include applicant tracking, onboarding, performance management and the leading healthcare internet job board. We focus exclusively on healthcare, are an established and financially strong company, and have 98%+ customer satisfaction and retention. Learn more at [www.healthcaresource.com](http://www.healthcaresource.com/).
 
 If you have any questions or comments regarding HealthcareSource or its use of information please send email to [info@healthcaresource.com](mailto:info@healthcaresource.com)   or write to us at HealthcareSource, 400 TradeCenter, Suite 3900, Woburn, MA 01801.
