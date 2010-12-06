@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csupomona.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527094548id_/http%3A//www.csupomona.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csupomona.edu privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206095223id_/http%3A//www.csupomona.edu/privacy.php) for the most accurate reproduction.*
 
-# Cal Poly Pomona
+# Privacy Statement | Cal Poly Pomona
 
 Pursuant to California Government Code Section 11015.5, Cal Poly Pomona may collect personal information on some of its web pages. Specific web pages may have their own privacy notifications, with specific information. The information below pertains to all other web pages in the csupomona.edu domain.
 
