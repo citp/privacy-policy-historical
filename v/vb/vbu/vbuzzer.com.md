@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416073143id_/http%3A//www.vbuzzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206081820id_/http%3A//www.vbuzzer.com/privacy.php) for the most accurate reproduction.*
 
-# VoIP Service|Internet Fax|Web Conferencing|Mobile SMS|VPN
+# Vbuzzer Privacy Policy
 
 Vbuzzer’s Privacy Policy  
 At Softroute Corporation (“ **Vbuzzer** ”), the security and integrity of your personal information is important to us. We take every reasonable measure necessary to protect the privacy of your personal information while providing you with quality services. Our privacy practices comply with all laws and regulations in Canada applicable to our use and disclosure of your information, including the Personal Information Protection and Electronic Documents Act. We review these practices regularly and revise them on an as-needed basis. In this Privacy Policy, we explain these practices to you and your rights in relation to them. 
