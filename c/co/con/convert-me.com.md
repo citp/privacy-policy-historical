@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044526id_/http%3A//www.convert-me.com/en/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206113615id_/http%3A//www.convert-me.com/en/privacy_policy_en.html) for the most accurate reproduction.*
 
 # Privacy Policy for Convert-me.Com
 
@@ -36,6 +36,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * [DoubleClick DART cookie FAQ](http://www.doubleclick.com/privacy/faq.aspx)
   * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+  * [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
 
