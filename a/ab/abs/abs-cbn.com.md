@@ -1,49 +1,48 @@
-> *The following text is extracted and transformed from the abs-cbn.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608112228id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs-cbn.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206041859id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement :: ABS-CBN.com
 
-ABS-CBN.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ABS-CBN.com Web site and governs data collection and usage. By using the ABS-CBN.com website, you consent to the data practices described in this statement.
+  
+ABS-CBN is committed to protecting your privacy and developing technology that gives you a powerful but secured and safe online experience. This Privacy Statement (the “Privacy Statement”) applies to the ABS-CBN.com website (the “Website”) and governs data collection and usage. By using the Website, you consent to the data practices described in this Privacy Statement.
 
-Collection of your Personal Information
+ **Collection of your Personal Information**
 
-ABS-CBN.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. ABS-CBN.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+ABS-CBN collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. ABS-CBN also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by ABS-CBN.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by ABS-CBN.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the ABS-CBN.com Web site.
+There is also information about your computer hardware and software that is automatically collected by ABS-CBN such as your IP address, browser type, domain names, access times and referring website addresses. This information is used by ABS-CBN for the operation of the Website and to delivery of the service, to maintain and improve quality of the service, and to provide general statistics regarding use of the Website.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through ABS-CBN.com public message boards, this information may be collected and used by others. Note: ABS-CBN.com does not read any of your private online communications.
+The Website may contain bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, and/or other message or communication facilities designed to enable you to communicate with the public at large or with a group (collectively, "Communication Services").  ABS-CBN has no obligation to monitor the Communication Services.  You agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service. You agree to be responsible for any personally identifiable information or personally sensitive data that you disclose through the Communication Services which may be collected and used by any third party. 
 
-ABS-CBN.com encourages you to review the privacy statements of Web sites you choose to link to from ABS-CBN.com so that you can understand how those Web sites collect, use and share your information. ABS-CBN.com is not responsible for the privacy statements or other content on Web sites outside of the ABS-CBN.com and ABS-CBN.com family of Web sites.
+ABS-CBN encourages you to review the privacy statements of websites you choose to link to from the Website so that you can understand how these websites collect, use and share your information. ABS-CBN is not responsible for the privacy statements or other content on websites outside of the Website and other websites operated by ABS-CBN.
 
-Use of your Personal Information
+ **Use of your Personal Information**
 
-ABS-CBN.com collects and uses your personal information to operate the ABS-CBN.com Web site and deliver the services you have requested. ABS-CBN.com also uses your personally identifiable information to inform you of other products or services available from ABS-CBN.com and its affiliates. ABS-CBN.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+The personal information gathered by ABS-CBN about you is used to operate the Website and deliver the services you have requested. ABS-CBN also uses your personally identifiable information to inform you of other products or services available from ABS-CBN, its affiliates, subsidiaries and partners. From time to time, ABS-CBN may also contact you to participate in surveys on your opinion of current services or of potential new services that may be offered by ABS-CBN, its affiliates, subsidiaries or partners.  Your participation in the survey is optional and not a condition for the continued use or access to the Website.
 
-ABS-CBN.com does not sell, rent or lease its customer lists to third parties. ABS-CBN.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, ABS-CBN.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to ABS-CBN.com, and they are required to maintain the confidentiality of your information.
+ABS-CBN does not sell, rent or lease its customer lists to third parties. ABS-CBN may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, ABS-CBN may share data with its affiliates, subsidiaries and trusted partners that help ABS-CBN in delivering the services to you, or to help ABS-CBN in performing statistical analysis, sending you email or postal mail, providing customer support or arrangement for deliveries. All such affiliates, subsidiaries or partners are prohibited from using your personal information except to provide these services to ABS-CBN, and are required to maintain the confidentiality of your information, unless you have entered into an agreement with such affiliate, subsidiary or partner that  would directly allow them to use and disclose your personally identifiable information.
 
-ABS-CBN.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+ABS-CBN does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-ABS-CBN.com keeps track of the Web sites and pages our customers visit within ABS-CBN.com, in order to determine what ABS-CBN.com services are the most popular. This data is used to deliver customized content and advertising within ABS-CBN.com to customers whose behavior indicates that they are interested in a particular subject area.
+ABS-CBN keeps track of your surfing and browsing of the Website and its linked sites, essentially logging information about the sections and web pages that you visit and the actions you undertake.  ABS-CBN monitors these connections in order to determine what ABS-CBN services are most popular and use this data to deliver customized content and advertising within the Website to customers whose behavior indicates that they are interested in a particular subject area.  Generally, ABS-CBN monitors your browsing behavior to give you – the customer - the most efficient service that ABS-CBN can provide.
 
-ABS-CBN.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on ABS-CBN.com or the site; (b) protect and defend the rights or property of ABS-CBN.com; and, (c) act under exigent circumstances to protect the personal safety of users of ABS-CBN.com, or the public.
+The foregoing notwithstanding, ABS-CBN can (and you authorize us to) disclose any information about you to private entities, law enforcement agencies or government officials, as ABS-CBN, in its sole discretion, believe necessary or appropriate to investigate or resolve possible problems or inquiries, or as otherwise required by law, regulation, legal process or governmental request, or to protect the security of other users of the Website, or the public.
 
-Use of Cookies
+ **Use of Cookies**
 
-The ABS-CBN.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize ABS-CBN.com pages, or register with ABS-CBN.com site or services, a cookie helps ABS-CBN.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same ABS-CBN.com Web site, the information you previously provided can be retrieved, so you can easily use the ABS-CBN.com features that you customized.
+One of the primary purposes of cookies is to provide a convenience feature to save you time by informing the web server that you have returned to a specific page. For example, if you personalize the Website pages, or register with the Website linked sites or services, a cookie helps the Website to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the Website, the information you previously provided can be retrieved, so you can easily use the Website features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the ABS-CBN.com services or Web sites you visit.
+You can accept or decline cookies by modifying your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Website or the linked sites you visit.
 
-Security of your Personal Information
+ **Security of your Personal Information**
 
-ABS-CBN.com secures your personal information from unauthorized access, use or disclosure. ABS-CBN.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+ABS-CBN secures your personal information from unauthorized access, use or disclosure. ABS-CBN secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Changes to this Statement
+ **Changes to this Privacy Statement**
 
-ABS-CBN.com will occasionally update this Statement of Privacy to reflect company and customer feedback. ABS-CBN.com encourages you to periodically review this Statement to be informed of how ABS-CBN.com is protecting your information.
+ABS-CBN may amend this Privacy Statement at anytime in its sole discretion.  Any amendments or modifications to this Privacy Statement shall be posted in the Website.  It is your duty and responsibility to keep yourself informed of such amendments.  Further, your use of the Website after the effective date of any such amendments constitute your agreement to comply and be bound by such amendments.  
 
-Contact Information
+ **Contact Information**
 
-ABS-CBN.com welcomes your comments regarding this Statement of Privacy. If you believe that ABS-CBN.com has not adhered to this Statement, please contact ABS-CBN.com at 
-
-[web_feedback@abs-cbn.com](mailto:web_feedback@abs-cbn.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+ABS-CBN welcomes your comments, questions and suggestions regarding this Privacy Statement. You may contact ABS-CBN.com at web_feedback@abs-cbn.com. We will use commercially reasonable efforts to promptly reply to your comments and/or questions.  
