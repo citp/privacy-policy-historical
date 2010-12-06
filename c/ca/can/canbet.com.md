@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601222321id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206010005id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Canbet.com - Privacy Policy
 
