@@ -1,284 +1,85 @@
-<!--The following is the downloaded HTML source of the dipity.com privacy policy that was archived on 2010-01-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100131082958id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dipity.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206102509id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Privacy Policy</title><link rel="stylesheet" type="text/css" href="http://cdn.dipity.com/static/lib/yui2.5.2/autocomplete/assets/skins/sam/autocomplete.css.v4458.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.dipity.com/static/dipitycom2.0.css.v7922.css">
-<link type="image/icon" href="/favicon.ico" rel="shortcut icon"></head><body class="privacy_policy"><script language="javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Dipity Timelines - Privacy Policy</title><link rel="stylesheet" type="text/css" href="http://cdn.dipity.com/static/stylesheets/jquery-ui-1.8.custom.css.v8710.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.dipity.com/static/stylesheets/dipitycom3.0.css.v8738.css">
+<link type="image/icon" href="/favicon.ico" rel="shortcut icon"></head><body class="privacy"><script language="javascript">
   // vim:syn=javascript 
   var dipity = {
     asset_url:'http://www.dipity.com',
     base_url:'http://www.dipity.com',
     this_url:'http://www.dipity.com/privacy',
+    analytics_key:'UA-2192351-3',
     fb_key: '8f3e333dbd85602c71da0eca2e36b0da', 
     sso_un:'',
     sso_src:'',
     sso_ts:'',
     curr_login:'',
     view_url:'',
-    request_time:'1264926597',
-    referer:'',
+    request_time:'1291631109',
+    referer:'http://www.dipity.com/',
     tid:'',
     dialogs:[]
   };
-  function stopEvent(e) {
-    YAHOO.util.Event.stopEvent(e);
-  }
-  function showElem(id) {
-    var elem = document.getElementById(id);
-    if (elem) {
-      elem.style.display = 'block';
-    }
-  }
-  function hideElem(id) {
-    var elem = document.getElementById(id);
-    if (elem) {
-      elem.style.display = 'none';
-    }
-  }
-  function showHideElem(id, do_dd) {
-    var elem = document.getElementById(id);
-    var dd = document.getElementById('zoomdropdown');
-    if (elem) {
-      if (elem.style.display != 'none') {
-        elem.style.display = 'none';
-        if (do_dd && dd) { dd.style.visibility = 'visible'; }
-      } else {
-        elem.style.display = 'block';
-        if (do_dd && dd) { dd.style.visibility = 'hidden'; }
-      }
-    }
-  }
-  var search_prompt = "Search";
-  var search_arg = '';
-  function searchSubmit(e, popup) {
-    stopEvent(e);
-    var elem = document.getElementById('searchbox');
-    if (elem) {
-      if (elem.value == search_prompt || elem.value == '') {
-        alert("Please enter a search phrase.");
-        elem.focus();
-      }
-      else if (popup == 0) {
-        var args = {hash:'search', url:'/popups/search?query=' + elem.value, windowclass:'standard_with_header' };
-        var searchPopup = new PopupDialog(args);
-        searchPopup.prepareOpen();
-      }
-    }
-  } 
-  function searchFocus()
-  {
-    var elem = document.getElementById('searchbox');
-    if (elem) {
-      if (elem.value == search_prompt) {
-        elem.value = '';
-        YAHOO.util.Dom.addClass(elem, "focused");
-      }
-    }
-  }
-  function searchBlur()
-  {
-    var elem = document.getElementById('searchbox');
-    if (elem) {
-      if (elem.value == '') {
-        YAHOO.util.Dom.removeClass(elem, "focused");
-        elem.value = search_prompt;
-      }
-    }
-  }
-  function searchInit() {
-    var elem = document.getElementById('searchbox');
-    if (elem) {
-      if (search_arg == '') {
-        elem.value = search_prompt;
-      } else {
-        elem.value = search_arg;
-      }
-    }
-  }
-  
-  function dismissBox(id) {
-    var elem = document.getElementById(id);
-    if (elem) {
-      elem.style.display = 'none';
-    }
-  }
-  function fullScreenURL(url) {
-    var win = window.open(url,'fs','fullscreen=1,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0');
-    win.resizeTo(screen.width, screen.height);
-    win.moveTo(0, 0);
-  }
-  function fullScreenTimeline() {
-    if (typeof(timeline_view_url) != "undefined") {
-      var win = window.open(timeline_view_url + '/embed_tl?fs=1','fs','fullscreen=1,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0');
-      win.moveTo(0, 0);
-      win.resizeTo(screen.width, screen.height);
-    }
-  }
-  function getPopupDialog() {
-    var hash = window.name;
-    // console.log("getPopupDialog: window.name=[" + window.name + "]");
-    if (typeof(parent.dipity) != "undefined" && typeof(parent.dipity.dialogs) != "undefined" && typeof(parent.dipity.dialogs[hash]) != "undefined") {
-      return parent.dipity.dialogs[hash];
-    }
-    return false;
-  }
-  function closePopupDialog() {
-    var popupDialog = getPopupDialog();
-    if (popupDialog) {
-      popupDialog.close();
-    }
-    else {
-      console.log("Couldn't find popup dialog to close!");
-    }
-  }
-  function openPopupDialog() {
-    var popup = getPopupDialog();
-    if (popup) {
-      popup.open();
-      if (popup.isContentScrolling()) {
-        var div_elems = document.getElementsByTagName("BODY")[0].getElementsByTagName("DIV");
-        for (var elem_id in div_elems) {
-          if (parseInt(elem_id) == elem_id) {
-            var elem = div_elems[elem_id];
-            if (elem.className && elem.className.indexOf("body") >= 0) {
-              elem.style.height = (popup.getHeight() - elem.offsetTop - 16 - (document.getElementById("popup_banner") ? 72 : 0)) + "px";
-              elem.style.overflowY = "auto";
-              break;
-            }
-          }
-        }
-      }
-      if (typeof dipity.onopen == "string" && dipity.onopen.length > 0) {
-        eval(dipity.onopen);
-      }
-      else if (typeof dipity.onopen == "function") {
-        dipity.onopen();
-      }
-    }
-    if (typeof(onPopupDialogOpen) == "function") {
-      onPopupDialogOpen();
-    }
-  }
-  function resizePopupDialog(width, height, animate) {
-    var dialog = getPopupDialog();
-    if (dialog) {
-      dialog.setWidth(width);
-      dialog.setHeight(height);
-      dialog.resize(animate);
-    }
-  }
-  function autoResizePopupDialog() {
-    var bodyRegion = YAHOO.util.Dom.getRegion(document.body);
-    var height = bodyRegion.bottom - bodyRegion.top;
-    var width = bodyRegion.right - bodyRegion.left;
-    // console.log("w[" + width + "] h[" + height + "]");' .
-    resizePopupDialog(width, height, 1);
-    document.body.scrollTop = 0;
-  }
-  function cleanUrl(url) {
-    if (url.substr(0,7) == "http://") {
-      url = url.substr(7);
-    }
-    if (url.substr(0,8) == "https://") {
-      url = url.substr(8);
-    }
-    return url;
-  }
-  function trackLink(url) {
-    if (typeof(Analytics) == "object") {
-      var destUrl = cleanUrl(url);
-      var srcUrl = cleanUrl(window.location.href);
-      Analytics.track("track_link", destUrl, "click", srcUrl, null);
-    }
-  }
-  function trackEvent(category, action, label, number) {
-    if (typeof(pageTracker) != "object") {
-      console.log("Cannot find pageTracker object");
-      return;
-    }
-    if (!category) {
-      console.log("Empty category passed to trackEvent");
-      return;
-    }
-    if (!action) {
-      console.log("Empty action passed to trackEvent");
-      return;
-    }
-    pageTracker._trackEvent(category, action, label, number);
-  }
-  function resizeImgToFit(elem, max_width, max_height) {
-    if (elem.height > max_height) { 
-      elem.width = parseInt(elem.width * (max_height / elem.height));
-      elem.height = max_height; 
-    } 
-    if (elem.width > max_width) { 
-      elem.height = parseInt(elem.height * (max_width / elem.width));
-      elem.width = max_width; 
-    } 
-    elem.style.visibility='inherit';
-  }
+</script><div id="header"><div class="fullContent"><h1><a href="/">dipity</a></h1><ul class="links"><li class=""><a class="authLink" href="#" title="Sign in to dipity.com">Sign In</a></li><li>|</li><li class="last"><a class="styledButton styledButtonGreen" href="/join"><span>Join Dipity</span><div class="rightEdge"></div></a></li></ul></div></div><div id="mainNavigation"><div class="fullContent"><div class="searchBox"><form method="GET" id="mainSearch" action="http://www.dipity.com/search"><div class="fauxTextInput"><input id="searchDipity" class="query" name="query" type="text"><input class="submit" type="image" src="/images/3.0/SearchIcon.png"></div></form></div><ul class="links"><li class="first"><a href="/">Home</a></li><li class=""><a id="createTimelineLink" href="http://www.dipity.com/create/timeline" class="" title="Create a Dipity Timeline">Create a Timeline</a></li><li class=""><a href="/trends" class="" title="Hot Topics and Trending Timelines">Hot Topics</a></li><li class="last"><a href="/premium" class="" title="Dipity Premium Timelines">Dipity Premium</a></li></ul></div></div><div class="fullContent"><div class="mainContent"><div id="tos" class="navBox inverted"><ul class="buttons"><li class=""><a href="/about" id="aboutDipity">About Dipity</a></li><li class=""><a href="/about/history" id="history">History</a></li><li class=""><a href="/faq" id="faq">Help/FAQ</a></li><li class=""><a href="/premium/refunds" id="refunds">Refund Policy</a></li><li class="selected"><a href="/privacy" id="privacyPolicy">Privacy Policy</a></li><li class=""><a href="/tos" id="tos">Terms of Service</a></li><li><a href="#" id="partnerPlans">Partner Plans</a></li></ul><div class="content"><h1>Privacy Policy</h1><p>The following Privacy Policy outlines the information Underlying Inc.  ("Underlying" or "Dipity") may collect and how Dipity may use that information to better serve visitors and members of Dipity.com (the "Dipity Dipity Site") and the services provided through or accessed on the Dipity Site (collectively, the "Dipity Services").</p><ol><li><strong>Children Under the Age of 13.</strong><p>Dipity does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Dipity Site from persons under 13 years of age, and no part of the Dipity Site is directed to persons under 13.  If you are under 13 years of age, then please do not use or access the Dipity Site or the Dipity Services at any time or in any manner.  If Dipity learns that personally identifiable information of persons under 13 years of age has been collected on the Dipity Site without verified parental consent, then Dipity will take the appropriate steps to delete this information.</p></li><li><strong>Information Dipity Collects.</strong><ol><li><strong>Information Submitted by You.</strong>  Dipity collects personal information when you register or request information from us.  We collect the following personal information: login name (e.g.  user ID), password, email address, name (first and last), postal zip code, date of birth and Email addresses for your friends whom you'd like to invite to use the Dipity Services (Optional).</li><li><strong>General Information Collected by Dipity.</strong>  Dipity may also collect non-personal information not associated with your identity.  Dipity collects this data to improve the Dipity Site and the Dipity Services.  Some of the non-submitted information Dipity collects is : IP address, file type, data transferred, browser type and version, and cookies.</li></ol></li><li><strong>How Dipity Uses Your Information.</strong><p>Among Dipity's primary goals in collecting information is to provide you with a customized experience when visiting the Dipity Site and to make the Dipity Services more valuable to you.  Dipity uses this information to closely monitor which areas of the Dipity Site are used most and to determine which areas Dipity needs to focus on improving.  This information is used exclusively by Dipity in aggregate form so that Dipity may continue to improve the value of the Dipity Services and information on the Dipity Site for our members as a whole.  </p><p>As a valued customer of Dipity, Dipity may occasionally contact you, typically by e-mail (or any other way you prefer) in order to notify you of special promotions, and up-to-date news, custom-tailored to your personal interests.  Of course, if you do not wish to receive this personalized information, you can remove yourself from receiving such information by changing the appropriate option on your user account (the "Dipity Account").</p><p>Dipity uses your Internet Protocol (IP) address to help diagnose problems with Dipity's computer server, and to administer the Dipity Site.  Your IP address is used to help identify you, and to gather broad demographic data.  Your IP address contains no personal information about you.</p><p>Please note that, once you've logged on to Dipity's servers through your Dipity Account, Dipity uses cookies keep track of your application states and log in status.  Cookies are small files that take up minimal room on your computer and cannot, by itself, damage your computer's files.  Cookies work by assigning a number to a user that has no meaning outside of the assigning web site, in this case, the Dipity Site.  If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies.  There may, however, be some features on the Dipity Site which requires the use of cookies in order to customize the delivery of information and content to you.</p><p>Except as described above, Dipity will not monitor, edit or disclose any personal information about you or your account, without your prior consent unless we have a belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Dipity; (iii) enforce Dipity's <a href="/tos">Terms of Service</a>; (iv) protect the interests of users of the Dipity Services other than you or any other person; or (v) operate or conduct maintenance and repair of the Dipity Services or equipment as authorized by law.  </p></li><li><strong>Disclosure of Your Information.</strong><p>Dipity does not sell or rent personal information about its customers to any third parties at this time.  In the event Dipity does engage in such commerce in the future, you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing Dipity at remove@dipity.com.  Dipity does, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Dipity Site, and Dipity shares that information with current and prospective advertisers, and other interested third parties.  But, this information is aggregated data only (statistics, etc.), and contains no personally identifiable information whatsoever.</p><p>Dipity cooperates with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights.  </p><p>You should be aware that if you voluntarily disclose personal information in chat areas, on bulletin boards, or in classified areas within the Dipity Site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties.  Please understand that any information that is disclosed in these areas becomes public information and this third-party conduct is out of the control of Dipity.  Please exercise caution when deciding to disclose your personal information.  </p><p>Dipity may use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p><p>The Dipity Site also contains links to other web sites.  Dipity is not responsible for the privacy practices or the content of such web sites.</p><p>If the ownership of all or substantially all of Dipity's business, or substantial portions of the business owned by Dipity, were to change, your information may be transferred to the new owner so the new owner can continue providing services to you. In any such case, your information would remain subject to the protections provided in our Privacy Policy.  </p></li><li><strong>Security.</strong><p>The personally identifiable information Dipity collects is stored within Dipity's database, and Dipity uses standard, industry-wide practices such as encryption, firewalls and (in some certain areas) SSL (Secure Socket Layers) for protecting your information.  However, as effective as encryption technology is, no security system is impenetrable.  Dipity cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.    In the event that personal information is compromised as a result of a breach of security, Dipity will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.  It is the policy of Dipity to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or web site users, via E-mail notice, written or hard copy notice, or through conspicuous posting of such notice on our web site page, as determined by Dipity in its sole discretion. Notwithstanding the foregoing, Dipity reserves the right to determine the form and means of providing notifications to our customers or web site users.</p></li><li><strong>Revisions and Amendments.</strong><p>If you have further privacy concerns please do not hesitate contact Dipity at <a href="mailto:privacy@dipity.com">privacy@dipity.com</a>.  This Privacy Policy is effective as of September 1st, 2007.  This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party.  Dipity reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.Dipity.com.  Any such change, update or modification will be effective immediately upon posting on the Dipity Site.</p></li></ol></div><br class="clear"></div></div></div><div id="footer"><div class="fullContent">
+    Copyright © 2010 Underlying, Inc.
+    <ul class="links"><li><a rel="" href="http://blog.dipity.com/">Blog</a></li><li>|</li><li><a rel="" href="http://www.dipity.com/faq">Help</a></li><li>|</li><li><a rel="" href="http://www.dipity.com/about">About</a></li><li>|</li><li><a rel="" href="http://www.dipity.com/developer">Developers</a></li><li>|</li><li><a rel="" href="http://www.dipity.com/contact">Contact</a></li><li>|</li><li><a rel="" href="http://www.dipity.com/directory">Directory</a></li><li>|</li><li><a rel="" href="http://www.dipity.com/privacy">Privacy Policy</a></li><li>|</li><li class="last"><a rel="" href="http://www.dipity.com/tos">Terms of Service</a></li></ul></div></div><script type="text/javascript" charset="utf-8">
+  var is_ssl = ("https:" == document.location.protocol);
+  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script><script type="text/javascript" charset="utf-8">
+  var feedback_widget_options = {};
 
-  function refreshAds() {
-    var ad_ids = [ 'ad_sky', 'ad_leaderboard' ];
-    for (var i in ad_ids) {
-      var d = document.getElementById(ad_ids[i]);
-      if (d) {
-        var s = d.getElementsByTagName('iframe');
-        if (s && s.length) {
-          var frameUrl = s[0].src;
-          if (frameUrl.indexOf('?') == -1) {
-            frameUrl = frameUrl + '?';
-          }
-          var newFrameUrl = frameUrl + '&dipr=' + new Date().getTime();
-          // console.log("New frame url[" + newFrameUrl + "]");
-          s[0].src = newFrameUrl;
-        }
-      }
-    }
-    return true;
-  }
-</script><div class="pageheader"><a class="logo" href="http://www.dipity.com/"><img class="logo_anim" src="/images/2.0/logo_anim.gif" alt="Dipity">Dipity</a><form action="http://www.dipity.com/popups/search" class="search" id="header_search_form" onsubmit="searchSubmit(event, '0');return false;"><div id="search" class="searchbox yui-skin-sam"><input type="text" id="searchbox" name="searchbox" value="" onfocus="searchFocus();" onblur="searchBlur();" accesskey="s"><div style="position:absolute;top:3em;width:80%;left:8px" id="auto_container"></div></div><a title="Search" class="searchsubmit" href="#" onclick="searchSubmit(event, '0');return false;"><input type="submit"></a></form><script>searchInit();</script><div class="links"><a style="color:white" class="styled_button styled_button_green" href="#" onclick="stopEvent(event);if(typeof(dialog867d1d117f12fbfb)==&quot;undefined&quot;){dialog867d1d117f12fbfb=new PopupDialog({&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;,&quot;top_offset&quot;:&quot;200&quot;,&quot;url&quot;:&quot;http:\/\/www.dipity.com\/ajax_signup&quot;,&quot;onclose&quot;:&quot;&quot;,&quot;windowclass&quot;:&quot;standard_with_header&quot;,&quot;windowstyle&quot;:&quot;&quot;,&quot;anchor&quot;:&quot;&quot;,&quot;receiverurl&quot;:&quot;&quot;,&quot;ismodal&quot;:true,&quot;hash&quot;:&quot;867d1d117f12fbfb&quot;});}dialog867d1d117f12fbfb.prepareOpen();return false;"><div class="rightedge"></div><b>&nbsp;&nbsp;&nbsp;&nbsp;Sign Up</b></a> 
-        |
-      <a style="color:white;" href="#" onclick="stopEvent(event);if(typeof(dialog8429dbdc2735cbd7)==&quot;undefined&quot;){dialog8429dbdc2735cbd7=new PopupDialog({&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;,&quot;top_offset&quot;:&quot;200&quot;,&quot;url&quot;:&quot;http:\/\/www.dipity.com\/feedback&quot;,&quot;onclose&quot;:&quot;&quot;,&quot;windowclass&quot;:&quot;standard_with_header&quot;,&quot;windowstyle&quot;:&quot;&quot;,&quot;anchor&quot;:&quot;&quot;,&quot;receiverurl&quot;:&quot;&quot;,&quot;ismodal&quot;:true,&quot;hash&quot;:&quot;8429dbdc2735cbd7&quot;});}dialog8429dbdc2735cbd7.prepareOpen();return false;">Feedback</a>
-        |
-        <a style="color:white;" href="#" onclick="stopEvent(event);if(typeof(dialoga932952a33c6097b)==&quot;undefined&quot;){dialoga932952a33c6097b=new PopupDialog({&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;,&quot;top_offset&quot;:&quot;200&quot;,&quot;url&quot;:&quot;http:\/\/www.dipity.com\/ajax_login&quot;,&quot;onclose&quot;:&quot;&quot;,&quot;windowclass&quot;:&quot;standard_with_header&quot;,&quot;windowstyle&quot;:&quot;&quot;,&quot;anchor&quot;:&quot;&quot;,&quot;receiverurl&quot;:&quot;&quot;,&quot;ismodal&quot;:true,&quot;hash&quot;:&quot;a932952a33c6097b&quot;});}dialoga932952a33c6097b.prepareOpen();return false;">Log In</a> 
-      </div></div><div class="clearfix"></div><div style="width:900px; margin:24px auto; font-size:13px; line-height:22px;"><h1>Privacy Policy</h1><p>The following Privacy Policy outlines the information Underlying Inc.  ("Underlying" or "Dipity") may collect and how Dipity may use that information to better serve visitors and members of Dipity.com (the "Dipity Dipity Site") and the services provided through or accessed on the Dipity Site (collectively, the "Dipity Services").</p><ol><li><strong>Children Under the Age of 13.</strong><p>Dipity does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Dipity Site from persons under 13 years of age, and no part of the Dipity Site is directed to persons under 13.  If you are under 13 years of age, then please do not use or access the Dipity Site or the Dipity Services at any time or in any manner.  If Dipity learns that personally identifiable information of persons under 13 years of age has been collected on the Dipity Site without verified parental consent, then Dipity will take the appropriate steps to delete this information.</p></li><li><strong>Information Dipity Collects.</strong><ol><li><strong>Information Submitted by You.</strong>  Dipity collects personal information when you register or request information from us.  We collect the following personal information: login name (e.g.  user ID), password, email address, name (first and last), postal zip code, date of birth and Email addresses for your friends whom you'd like to invite to use the Dipity Services (Optional).</li><li><strong>General Information Collected by Dipity.</strong>  Dipity may also collect non-personal information not associated with your identity.  Dipity collects this data to improve the Dipity Site and the Dipity Services.  Some of the non-submitted information Dipity collects is : IP address, file type, data transferred, browser type and version, and cookies.</li></ol></li><li><strong>How Dipity Uses Your Information.</strong><p>Among Dipity's primary goals in collecting information is to provide you with a customized experience when visiting the Dipity Site and to make the Dipity Services more valuable to you.  Dipity uses this information to closely monitor which areas of the Dipity Site are used most and to determine which areas Dipity needs to focus on improving.  This information is used exclusively by Dipity in aggregate form so that Dipity may continue to improve the value of the Dipity Services and information on the Dipity Site for our members as a whole.  </p><p>As a valued customer of Dipity, Dipity may occasionally contact you, typically by e-mail (or any other way you prefer) in order to notify you of special promotions, and up-to-date news, custom-tailored to your personal interests.  Of course, if you do not wish to receive this personalized information, you can remove yourself from receiving such information by changing the appropriate option on your user account (the "Dipity Account").</p><p>Dipity uses your Internet Protocol (IP) address to help diagnose problems with Dipity's computer server, and to administer the Dipity Site.  Your IP address is used to help identify you, and to gather broad demographic data.  Your IP address contains no personal information about you.</p><p>Please note that, once you've logged on to Dipity's servers through your Dipity Account, Dipity uses cookies keep track of your application states and log in status.  Cookies are small files that take up minimal room on your computer and cannot, by itself, damage your computer's files.  Cookies work by assigning a number to a user that has no meaning outside of the assigning web site, in this case, the Dipity Site.  If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies.  There may, however, be some features on the Dipity Site which requires the use of cookies in order to customize the delivery of information and content to you.</p><p>Except as described above, Dipity will not monitor, edit or disclose any personal information about you or your account, without your prior consent unless we have a belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Dipity; (iii) enforce Dipity's <a href="/tos">Terms of Service</a>; (iv) protect the interests of users of the Dipity Services other than you or any other person; or (v) operate or conduct maintenance and repair of the Dipity Services or equipment as authorized by law.  </p></li><li><strong>Disclosure of Your Information.</strong><p>Dipity does not sell or rent personal information about its customers to any third parties at this time.  In the event Dipity does engage in such commerce in the future, you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing Dipity at remove@dipity.com.  Dipity does, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Dipity Site, and Dipity shares that information with current and prospective advertisers, and other interested third parties.  But, this information is aggregated data only (statistics, etc.), and contains no personally identifiable information whatsoever.</p><p>Dipity cooperates with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights.  </p><p>You should be aware that if you voluntarily disclose personal information in chat areas, on bulletin boards, or in classified areas within the Dipity Site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties.  Please understand that any information that is disclosed in these areas becomes public information and this third-party conduct is out of the control of Dipity.  Please exercise caution when deciding to disclose your personal information.  </p><p>Dipity may use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p><p>The Dipity Site also contains links to other web sites.  Dipity is not responsible for the privacy practices or the content of such web sites.</p><p>If the ownership of all or substantially all of Dipity's business, or substantial portions of the business owned by Dipity, were to change, your information may be transferred to the new owner so the new owner can continue providing services to you. In any such case, your information would remain subject to the protections provided in our Privacy Policy.  </p></li><li><strong>Security.</strong><p>The personally identifiable information Dipity collects is stored within Dipity's database, and Dipity uses standard, industry-wide practices such as encryption, firewalls and (in some certain areas) SSL (Secure Socket Layers) for protecting your information.  However, as effective as encryption technology is, no security system is impenetrable.  Dipity cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.    In the event that personal information is compromised as a result of a breach of security, Dipity will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.  It is the policy of Dipity to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or web site users, via E-mail notice, written or hard copy notice, or through conspicuous posting of such notice on our web site page, as determined by Dipity in its sole discretion. Notwithstanding the foregoing, Dipity reserves the right to determine the form and means of providing notifications to our customers or web site users.</p></li><li><strong>Revisions and Amendments.</strong><p>If you have further privacy concerns please do not hesitate contact Dipity at <a href="mailto:privacy@dipity.com">privacy@dipity.com</a>.  This Privacy Policy is effective as of September 1st, 2007.  This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party.  Dipity reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.Dipity.com.  Any such change, update or modification will be effective immediately upon posting on the Dipity Site.</p></li></ol></div><div class="clearfix"></div><div class="pagefooter"><div class="rightlinks"><a rel="nofollow" href="http://blog.dipity.com/">Dipity Blog</a>
-    |
-    <a rel="nofollow" href="http://www.dipity.com/faq">Help / FAQ</a>
-    |
-    <a rel="nofollow" href="http://www.dipity.com/about">About</a>
-    |
-    <a rel="nofollow" href="http://www.dipity.com/developer">Developers</a>
-    |
-    <a rel="nofollow" href="http://www.dipity.com/contact">Contact</a>
-    |
-    <a rel="nofollow" href="http://www.dipity.com/privacy">Privacy Policy</a>
-    |
-    <a rel="nofollow" href="http://www.dipity.com/tos">Terms of Service</a>
-    |
-    <a href="javascript:void((function() {var element=document.createElement('script'); element.setAttribute('src', 'http://www.dipity.com/bm2.php'); document.body.appendChild(element)})())">Bookmarklet</a></div>
-  Copyright 2010 Underlying, Inc.
-</div><script src="http://cdn.dipity.com/static/lib/yui2.5.2/utilities/utilities.js.v4458.js"></script>
-<script src="http://cdn.dipity.com/static/lib/js/dipity.js.v7959.js"></script>
-<script src="http://cdn.dipity.com/static/lib/yui2.5.2/autocomplete/autocomplete-min.js.v4458.js"></script>
-<script src="http://cdn.dipity.com/static/lib/js/autocomplete.js.v6306.js"></script>
-<script src="http://cdn.dipity.com/static/lib/js/namespace.js.v7963.js"></script>
+  feedback_widget_options.display = "overlay";  
+  feedback_widget_options.company = "dipity";
+  feedback_widget_options.placement = "right";
+  feedback_widget_options.color = "#8fb048"; /*#a5cccc*/
+  feedback_widget_options.style = "question";
+  feedback_widget_options.product = "dipity_dipity_30";
+  
+  feedback_widget_options.limit = "5";
+  
+  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script><script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/jquery-1.4.2.min.js.v8078.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/dipity.js.v8728.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/dipityAccount.js.v8728.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/dipityCookie.js.v8490.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/dipityDialog.js.v8463.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/dipitySearch.js.v8689.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/jquery-ui-1.8.custom.min.js.v8078.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/swfupload2.2.0/swfupload.js.v7257.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/swfupload2.2.0/functions.js.v7741.js"></script>
+<script type="text/javascript" src="http://cdn.dipity.com/static/lib/js/carousel.js.v8453.js"></script>
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-if (typeof(_gat) == "object") {
-  var pageTracker = _gat._getTracker("UA-2192351-3");
-  pageTracker._initData();
-  pageTracker._trackPageview('/privacy?_loggedin=0');
-}
-// quantcast
-_qoptions={ qacct:"p-02CpGwogBMwUI" };
-document.write(unescape("%3Cscript src='http://edge.quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2192351-3']);
+//_gaq.push(['_trackPageview','/privacy?_loggedin=0']);
+dipity.analytics.trackPageview('/privacy?_loggedin=0');
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script><script type="text/javascript">
+_qoptions = { qacct:"p-02CpGwogBMwUI" };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
-<img src="http://pixel.quantserve.com/pixel/p-02CpGwogBMwUI.gif" style="display: none;" border="0" height="1" width="1"
-alt="Quantcast"/>
-</noscript>
-<!-- vhost:www.dipity.com real:aws42.dipity.com  --></body></html>
+<img src="http://pixel.quantserve.com/pixel/p-02CpGwogBMwUI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript><script type="text/javascript">
+        		  $(document).ready(function() {
+        		    dipity.account.authenticate('a.authLink', '/dialogs/authenticate', {});
+        			});
+        		
+          dipity.search.query = '';
+          dipity.search.init('#mainSearch');
+        
+      		  $(document).ready(function() {
+      		    dipity.account.authenticate('#createTimelineLink', '/dialogs/authenticate', 
+        		                        { 'title':'Create a Timeline', 
+        		                          'type':'createTimeline' });
+      			});
+      		</script>
+<!-- vhost:www.dipity.com real:aws37.dipity.com  --></body></html>
