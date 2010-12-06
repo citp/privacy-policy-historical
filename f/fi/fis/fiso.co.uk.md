@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiso.co.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606010547id_/http%3A//www.fiso.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiso.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206133637id_/http%3A//www.fiso.co.uk/privacy.php) for the most accurate reproduction.*
 
 # fiso.co.uk :: welcome
 
@@ -16,13 +16,13 @@ Should you register for FISO's Forums (you need to be over 16 to do so) then the
 
 As indicated above, when registering for FISO's Forums, or Posting on FISO's forums, your IP address is automatically logged as part of the information relating to your username. We use the IP addresses to help monitor and moderate the forums to ensure the terms and conditions of use of the forums are kept to.
 
-When registering for FISO you are also given the option by email of subscribing to a fiso newsletter list in regard to activities and news related to this website and community. If you do choose to subscribe you can subsequently opt out of that newsletter list via the unsubscribe link contained at the end of each newsletter email. The only information that you are required to enter for the newsletter list is your email address. The information on the newsletter list is stored with topica.com and not on fiso.co.uk. You can see the Privacy Information for Topica.com at <http://www.topica.com/privacy/index.html>.
+When registering for FISO you are also given the option by email of subscribing to a fiso newsletter list in regard to activities and news related to this website and community. If you do choose to subscribe you can subsequently opt out of that newsletter list via the unsubscribe link contained at the end of each newsletter email. The only information that you are required to enter for the newsletter list is your email address. 
 
 If you use FISO's forums, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other visitors to these forums. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 The software used for our forums, phpBB, creates a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed forum topics and is used to store which topics have been read, thereby improving your user experience. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to navigate around the fiso.co.uk website and may be unable to benefit from certain features.
 
-FISO uses outside ad companies to display ads on fiso.co.uk. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by the outside ad company and we do not have access to this information.
+FISO uses outside ad companies to display ads on fiso.co.uk. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by the outside ad company and we do not have access to this information. Fiso.co.uk contains some affiliate marketing links, which means FISO Ltd gets paid commission on sales of those products or services.
 
 For those ad companies that are a member of the Network Advertising Initiatives you have the option of opting out of receiving cookies from that third party advertising network via the Network Advertising Initiatives' 'cookie opt-out' page: <http://networkadvertising.org/managing/opt_out.asp>
 
