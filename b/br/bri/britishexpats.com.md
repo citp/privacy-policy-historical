@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606210331id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.britishexpats.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206082321id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.britishexpats.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
