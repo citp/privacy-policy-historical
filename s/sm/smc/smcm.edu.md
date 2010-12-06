@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smcm.edu privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173622id_/http%3A//www.smcm.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcm.edu privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206071909id_/http%3A//www.smcm.edu/A2Z/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement, A to Z Guide: St. Mary's College of Maryland
+# A to Z Guide: St. Mary's College of Maryland
 
 ## St. Mary's College of Maryland Privacy Statement
 
