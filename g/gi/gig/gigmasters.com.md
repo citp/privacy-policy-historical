@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326062732id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206212150id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement for Gigmasters.com
+# Privacy Statement for GigMasters.com
 
 [](http://www.truste.org/ivalidate.php?url=www.gigmasters.com&sealid=101)
 
@@ -8,7 +8,7 @@ _Effective November 15th, 2005_
 
 Gigmasters.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site WWW.GIGMASTERS.COM.  Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail <http://www.gigmasters.com/contact.asp>, by telephone 866-342-9794, by postal mail Gigmasters.com, Inc., 9 Brookside Place, Suite E, Redding, CT 06896. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail <http://www.gigmasters.com/contact.aspx>, by telephone 866-342-9794, by postal mail Gigmasters.com, Inc., 9 Brookside Place, Suite E, Redding, CT 06896. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 Log Files
     Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are linked to personally identifiable information to help identify you and your shopping cart.
@@ -30,14 +30,14 @@ Security
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us by clicking <http://www.gigmasters.com/contact.asp>
+If you have any questions about security on our Web site, you can email us by clicking <http://www.gigmasters.com/contact.aspx>
 
 Choice/Opt-Out
     Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email by clicking <http://www.gigmasters.com/contact.asp>
+  1. You can send email by clicking <http://www.gigmasters.com/contact.aspx>
   2. You can visit the following URL: <http://www.gigmasters.com/u.asp>
   3. You can call the following telephone number: 866-342-9794
 
@@ -45,7 +45,7 @@ This site gives users the following options for removing their information from 
 Correct/Update
     This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email <http://www.gigmasters.com/contact.asp>
+  1. email <http://www.gigmasters.com/contact.aspx>
   2. users can go to their control panel once logged in and update their profile. <http://www.gigmasters.com/login.aspx>
   3. call the following telephone number: 866-342-9794
 
@@ -53,15 +53,15 @@ Correct/Update
 Removal From Directory
     This site gives users the following options for removing their listing from our directory. 
 
-  1. email <http://www.gigmasters.com/contact.asp>
+  1. email <http://www.gigmasters.com/contact.aspx>
   2. visit <http://www.gigmasters.com/login.aspx>
   3. call the following telephone number: 866-342-9794
 
 
 Company Testimonials/Notable Quotes
-    We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/testimonials.asp>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
+    We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/about/testimonials.aspx>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
 
-  1. email <http://www.gigmasters.com/contact.asp>
+  1. email <http://www.gigmasters.com/contact.aspx>
   2. call the following telephone number: 866-342-9794
 
 
@@ -79,4 +79,4 @@ Michael Caldwell
 Gigmasters.com, Inc.  
 9 Brookside Place, Suite E  
 Redding, CT 06896  
-<http://www.gigmasters.com/contact.asp>
+<http://www.gigmasters.com/contact.aspx>
