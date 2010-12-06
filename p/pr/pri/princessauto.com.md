@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606112449id_/http%3A//www.princessauto.com/index.php%3Foption%3Dcom_weblinks%26view%3Dweblink%26id%3D6%26catid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206144043id_/http%3A//www.princessauto.com/index.php%3Foption%3Dcom_weblinks%26view%3Dweblink%26id%3D6%26catid%3D12) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Every time you make a purchase, your information is updated on our database whic
 
 From time to time, we may contact you to ask for your valuable feedback on our products and services in our efforts to improve your shopping experience with us.  This information is only used internally in aggregate form and is not shared with anyone outside of Princess Auto.
 
-Princess Auto does not sell any of your personal information to anyone. We do contract to third parties to fulfill your, send you our promotional materials, and from time to time conduct market research on our behalf to improve our products and services to you.  We only share with these third parties the information required to fulfill these duties and do not authorize them to use your information in any other way. We have confidentiality agreements in place to ensure the protection of your personal information. 
+Princess Auto does not sell any of your personal information to anyone. We do contract with third parties to fulfill your order, send you our promotional materials, and from time to time conduct market research on our behalf to improve our products and services to you.  We only share with these third parties the information required to fulfill these duties and do not authorize them to use your information in any other way. We have confidentiality agreements in place to ensure the protection of your personal information. 
 
 We only want to send you our promotional materials if you want to receive them. If you prefer not to receive information from us about our products, services, contests, or promotions, please contact us:
 
