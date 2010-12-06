@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628042154id_/http%3A//www.squadhelp.com/AboutUs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206113516id_/http%3A//www.squadhelp.com/AboutUs) for the most accurate reproduction.*
 
-# Welcome to Squadhelp - Find Domain Names, hold contests and engage domain naming professionals!
+# Branding, Marketing, Naming Consultants, Freelancers and Contests
 
 This Privacy Policy describes how we use and protect your personal information. By accepting the Privacy Policy and the Terms and Conditions of Service during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 2, 2008. 
 
