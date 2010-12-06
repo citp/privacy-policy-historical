@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorysubmitter.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525041549id_/http%3A//www.directorysubmitter.com/52/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorysubmitter.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206031453id_/http%3A//www.directorysubmitter.com/52/privacy-policy) for the most accurate reproduction.*
 
 # DirectorySubmitter.com Privacy Policy | Link Directory Submitter
 
