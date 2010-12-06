@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmc.com privacy policy that was archived on 2010-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601154356id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmc.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206195524id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -19,6 +19,7 @@
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<style type="text/css">
+			@import url('/css/gContentContainer.css');
 			@import url('/css/gSite.css');
 			@import url('/css/gTopnav.css');
 			@import url('/css/gFooter.css');
@@ -32,7 +33,6 @@
 
 	<!--[if lt IE 7]>
 		<link rel="stylesheet" type="text/css" href="/css/gTopnav_ie.css" />
-		<link rel="stylesheet" type="text/css" href="/css/gFooter_ie.css" />
 		<link rel="stylesheet" type="text/css" href="/css/cLeftNav_ie.css" />
 		
 	
@@ -46,128 +46,336 @@
 		  document.execCommand("BackgroundImageCache", false, true);
 		} catch(err) {}
 	</script>
+	<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/js/gSite.js"></script>
 	<script type="text/javascript" src="/js/lib_sifr.js"></script>
 	<script type="text/javascript" src="/js/gworldwidedata.js"></script>
 	<script type="text/javascript" src="/js/mootools.js"></script>
 	<script type="text/javascript" src="/js/gPopulateMenu.js"></script>
 	<script type="text/javascript" src="/js/gScroll.js"></script>
+	<script type="text/javascript" src="/js/iperceptionsurvey.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function (){
+			iPreceptionSurvey( "/privacy/index.jsp" );
+		});
+	</script>
+	
+	<script src="/js/jquery.scrollTo-min.js"></script>
+	<script src="/js/jquery.mousewheel.min.js"></script>
 	
 </head>
 <body>
-	<div id="gSite">
-		<div id="gWrapper">
-			<div id="gTopnav">
-				
+	<div id="gTopnav">
+		
 
 
-<div class="clearfix" style="z-index:8000000">
+
+<script type="text/javascript">
+
+	function build( loc, val, id ){
+		loc.append( '<li><a id=' + id + ' href="javascript:void();" >' + val + '</a></li>' );
+	}
+
+	function build_target( loc, val, url, onclick ){
+		var target = '_blank';
+		if( url.search( /gm\.com\/?[^.]?/ ) != -1 ){
+			target = '_top';
+		}
+		loc.append( '<li><a href="' + url + '"  target="' + target + '" onclick="' + onclick + '" >' + val + '</a></li>' );
+	}
+
+	
+	function buildContinent( loc ){
+		loc = jQuery( loc );
+		loc.append( "<div class=title>GM Worldwide</div>" );
+		loc.append( "<ul id='1' class='white'></ul>" );
+		loc2 = loc.children( '.white' );
+		for (var continent in worldwide){
+			//This is required because the data is diffrent for this node
+			if( continent == "america") {
+				for(var americaPart in worldwide[continent]){
+					if(americaPart!="name"){
+						build( loc2, worldwide[continent][americaPart].name.value, americaPart );
+						jQuery( '#' + americaPart ).click( function(){
+							buildFromNeedle( this.id, loc, this );
+						});
+					}
+				}
+			} else {
+				build( loc2, worldwide[continent].name.value, continent );
+				jQuery( '#' + continent ).click( function(){
+					buildFromNeedle( this.id, loc, this );
+				});
+			}
+		}
+	}
+	function buildFromNeedle( needle, loc, clicked ){
+		loc = jQuery( loc );
+		while( jQuery( clicked ).parent().parent().next().length > 0 ){
+			jQuery( clicked ).parent().parent().next().remove();
+		}
+		jQuery( clicked ).parent().parent().children().each( function(){
+			jQuery( this ).children().css({ color: 'white' });
+		});
+		jQuery( clicked ).css({ color: '#00b1e9' });
+		loc.append( "<ul class='white' id='" + ( loc.children().length + 1 ) + "'></ul>" );
+		loc2 = loc.children( '#'+ ( loc.children().length ) + '.white' );
+		for( var hay_lvl1 in worldwide ){
+			if( hay_lvl1 == needle ){
+				for( var hay_lvl2 in worldwide[hay_lvl1] ){
+					if( hay_lvl2 != "name" ){
+						build( loc2, worldwide[hay_lvl1][hay_lvl2].name.value, hay_lvl2 );
+						jQuery( '#' + hay_lvl2 ).click( function(){
+							buildFromNeedle( this.id, loc, this );
+						});
+					}
+				}
+				return;
+			} else {
+				for( var hay_lvl2 in worldwide[hay_lvl1] ){
+					if( hay_lvl2 == needle ){
+						for( var hay_lvl3 in worldwide[hay_lvl1][hay_lvl2] ){
+							if( hay_lvl3 != "name" && hay_lvl3 != "sites" ){
+								build( loc2, worldwide[hay_lvl1][hay_lvl2][hay_lvl3].name.value, hay_lvl3 );
+								jQuery( '#' + hay_lvl3 ).click( function(){
+									buildFromNeedle( this.id, loc, this );
+								});
+							} else if( hay_lvl3 == "sites" ){
+								for( var hay_lvl4 in worldwide[hay_lvl1][hay_lvl2][hay_lvl3] ){
+									if( typeof( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4] ) == "object" ){
+										if( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].display ){
+											build_target( 
+												loc2, 
+												worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].display,
+												worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].url,
+												"clickTrack({ pe: 'lnk_e', pev1: '" + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].url + "', pev2: 'HOMEPAGE | TNAV | GM WORLDWIDE', s_linkName: 'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "', s_prop5:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "'},'true');" 
+											)
+										}
+									}
+								}
+							}
+						}
+						return;
+					} else {
+						for( var hay_lvl3 in worldwide[hay_lvl1][hay_lvl2] ){
+							if( hay_lvl3 == needle ){
+								for( var hay_lvl4 in worldwide[hay_lvl1][hay_lvl2][hay_lvl3] ){
+									if( hay_lvl4 == "sites" ){
+										for( var hay_lvl5 in worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4] ){
+											if( typeof( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5] ) == "object" ){
+												if( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display ){
+													build_target( 
+														loc2, 
+														worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display,
+														worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].url,
+														"clickTrack({ pe: 'lnk_e', pev1: '" + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].url + "', pev2: 'HOMEPAGE | TNAV | GM WORLDWIDE', s_linkName: 'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "', s_prop5:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "'},'true');" 
+														//"clickTrack({s_linkName:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + " | " + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display.toUpperCase() + "', s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL | HOMEPAGE', s_prop5:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + " | " + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display.toUpperCase() + "'},'true');" 
+													)
+												}
+											}
+										}
+									}
+								}
+								return;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	function blackFillResize( timeout ){
+		var width = 0,
+			blackFillWidth = jQuery( 'div#blackFill' ).width(),
+			windowWidth = jQuery( window ).width();
+		jQuery( 'a#gGMLogo, div#gNewsConversations, div#gVehiclesInnovations, div#gCompanyInvestors, div#gNavs form, div#gAllGMSites' ).each( function(){
+			width = width + jQuery( this ).outerWidth( true );
+		});
+		//in ie7 the header is fix width this put the black fill to the right
+		if( jQuery( '#gTopnav' ).outerWidth() - jQuery( '#gNavs' ).outerWidth() > 0 ){
+			jQuery( 'div#gNavs' ).before( jQuery( 'div#blackFill' ));
+		}
+
+		if( windowWidth - width > 0 && blackFillWidth != windowWidth - width ){
+			jQuery( 'div#blackFill' ).show().css({ width: windowWidth - width + 'px' });
+		} else if( windowWidth - width <= 0 ) {
+			jQuery( 'div#blackFill' ).hide();
+		}
+		if( timeout ){
+			setTimeout( 'blackFillResize( true )', 100 );
+		}
+	}
+	
+	jQuery( document ).ready( function(){
+		//blackFillResize();
+		setTimeout( 'blackFillResize( true )', 100 );
+
+		jQuery( window ).resize( function() {
+			blackFillResize();
+		});
+
+		jQuery( "form#search input" ).focus( function(){
+			jQuery( this ).attr( 'value', "" );
+			jQuery( this ).unbind( 'focus' );
+		});
+		jQuery( '#gTopnav > .clearfix' ).children( 'div.withDropDown' ).each( function(){
+			jQuery( this ).children( '.dropDown' ).css({ height: 0 });
+			jQuery( this ).hover( 
+				function() {
+					var count = jQuery( this ).children( '.dropDown' ).children().size(),
+						height = count * 24 + 10,
+						speed = count * 50;
+					jQuery( this ).children( '.dropDown' ).clearQueue();
+					jQuery( this ).children( '.dropDown' ).stop();
+					jQuery( this ).children( '.dropDown' ).show().animate({ height: height }, speed );
+				},
+				function() {
+					var count = jQuery( this ).children( '.dropDown' ).children().size(),
+						height = count * 24,
+						speed = count * 50;
+					jQuery( this ).children( '.dropDown' ).clearQueue();
+					jQuery( this ).children( '.dropDown' ).stop();
+					jQuery( this ).children( '.dropDown' ).animate({ height: 0 }, speed, function(){ jQuery( this ).hide() });
+				}
+			);
+		});
+
+		jQuery( '#gAllGMSites .topNavSpacer' ).click( function(){
+			if( jQuery( '#offClick' ).length ){
+				jQuery( '#offClick' ).trigger( 'click' );
+			} else {
+				buildContinent( jQuery( '#gGMWorldwide' ));
+				jQuery( '#gAllGMSites' ).addClass( 'active' );
+				jQuery( '#gAllGMSitesCont' ).toggle();
+				jQuery( '#gTopnav' ).after( '<div id=offClick>&nbsp;</div>' );
+				jQuery( '#offClick' ).css({ height: '100%' }).click( function(){ 
+					jQuery( '#gAllGMSites' ).removeClass( 'active' );
+					jQuery( '#gAllGMSitesCont' ).hide();
+					jQuery( 'div#gGMWorldwide div.title' ).remove();
+					jQuery( '.white' ).remove();
+					jQuery( '#offClick' ).remove();
+				});
+			}
+		});
+		jQuery( '#gAllGMSitesClose' ).click( function(){
+			jQuery( '#offClick' ).trigger( 'click' );
+		});
+	});
+</script>
+<div id="gNavs" class="clearfix">
 	<a id="gGMLogo" href="/" target="_top"><span>GM Homepage</span></a>
-	<div id="gNavs" class="clearfix">
-		<div id="gGlobalNav" class="clearfix">
-			<form action="/search/" name="google" target="_top">
-				<div class="clearfix">
-					<a id="gSearch" onclick="document.google.submit();return false;" href="/search/?" target="_top"><span>Search</span></a>
-					<input type="text" name="q" value="">
-				</div>
-				<p>Powered by Google</p>
-			</form>
-			<ul class="clearfix">
-				<li><a target="_top" href="/corporate/about/news/index.jsp?deep=press" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | NEWS', s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL | HOMEPAGE', s_prop5:'NEWS', s_prop11:'HOMEPAGE | NEWS', s_prop12:'GENERAL  | HOMEPAGE | NEWS'})">News</a></li>
-				<li><a target="_blank" href="http://www.gmretiree.com" onclick="clickTrack({s_linkName:'GM | TNAV | RETIREES', s_prop1:'', s_prop2:'', s_prop3:'', s_prop5:'GM | TNAV | RETIREES', s_prop11:'', s_prop12:'',s_prop24:'',s_prop25:'GM',s_prop26:'',s_prop27:''},'true');">Retirees</a></li>
-				<li><a target="_top" href="http://www.gm.com/gmownercenter" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | OWNER CENTER | MY GM LINK', s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | OWNER CENTER | MY GM LINK'})">Owners</a></li>
-				<li><a target="_top" href="/corporate/investor_information/">Investors</a></li>
-				<li><a target="_top" href="/corporate/careers/">Careers</a></li>
-				<li class="last"><a target="_top" href="/">Home</a></li>
-			</ul>
-		</div>
-	<div id="gMainNav" class="clearfix">
-		<div id="gWorldNav">
-			<div id="gGMWorldwide">
-					<a id="gWorldButton" class="gMainButton" onclick="return dropdownmenuWW(this, event)" onmouseout="delayhidemenuWW()"><span>GM Worlwide</span></a>
-					<iframe id="gGMWorldWideIFrame">
-					</iframe>
-					<div id="cont" style="display:none;" onmouseover="clearhidemenuWW()" onmouseout="delayhidemenuWW()">
-						<div id="continent" class="continents">
-							<div id="contnames"><p><a id="north_america">North America</a></p><p><a id="south_america">South America</a></p><p><a id="europe">Europe</a></p><p><a id="africa">Africa</a></p><p><a id="asia">Asia</a></p><p><a id="australia_oceania">Australia/Oceania</a></p></div>
-						</div>
-							<div id="scrollbar1" style="display: none;">
-								 <div id="track1" style="display: none;">
-								 	<div id="dragBar1" style="display: none; top: 0px;">
-									</div>
-								 </div>
-							 </div>
-							 <div id="underDiv">
-							 </div>
-							 <div id="wn1" style="display: none;">
-							 	<div id="lyr1">
-									<div id="countries"></div>
-								</div>
-							 </div> 
-							 <div id="contbrands" style="display: none; visibility: hidden;">	
-				 				<div id="brands"></div>
-							 </div>
-					</div>
-			</div>
-		</div>	
-		<div id="gAllNav">
-			<div id="gAllGMSites">
-				<iframe id="gAllGMSitesIFrame"></iframe>
-				<a class="gMainButton" onclick="return dropdownmenuAllGM(this, event);" onmouseout="delayhidemenuAllGM();"><span>All GM Sites</span></a>
-				<div id="gmSitesCont" style="display:none;" onmouseover="clearhidemenuAllGM();" onmouseout="delayhidemenuAllGM()">
-					<div id="gmAuto">
-						<p><strong>GM Auto Brands</strong></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.buick.com/?fromgm=true" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Buick</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.cadillac.com/index.jsp?noredirect=true" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Cadillac</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.chevrolet.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Chevrolet</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmc.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GMC</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmdaewoo.co.kr/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Daewoo</a></p>						
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.holden.com.au/www-holden/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Holden</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.hummer.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">HUMMER</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.oldsmobile.com/olds/heritage/index.html" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Oldsmobile</a></p>					
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.opel.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Opel</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.pontiac.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Pontiac</a></p>
-						
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.vauxhall.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Vauxhall</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmcertified.com" target="_blank" onclick="clickTrack({s_linkName:'GM | ' + window.location.href + ' | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:window.location.href, s_prop3:'GENERAL  | ' + window.location.href , s_prop5:'GM | ' + window.location.href + ' | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Certified Used Vehicles</a></p>		
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmfleet.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Fleet &amp; Commercial</a></p>												
-					</div>
-					<div id="gmProductsServices">
-						<p><strong>GM Products &amp; Services</strong></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.acdelco.com/index.jsp" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">ACDelco</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a target="_top" href="/vehicles/services/gmac.jsp" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Ally</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmblogs.com" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Blogs</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmcardmemberservices.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Cardmember Services</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmgoodwrench.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Goodwrench</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a target="_top" href="/vehicles/services/gm_mobility/" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Mobility</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a target="_top" href="/gmownercenter/" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Owner Center </a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmaccessorieszone.com" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Accessories</a></p>	
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmperformancedivision.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Performance Division</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmperformanceparts.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Performance Parts</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="/experience/technology/gmpowertrain/" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Powertrain</a></p>	
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.onstar.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">OnStar</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="/vehicles/services/xmradio" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()}); popUpWindow('/vehicles/services/xmradio/','xmradio','width=1024,height=1000,scrollbars=yes,resizable=yes');return false;">XM Radio</a></p>
-						<!--<p style="visibility:hidden">f00</p>-->
-						<p><strong>GM Related Sites</strong></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmheritagecenter.com/" target="_blank">GM Heritage Center</a></p>
-					</div>		
-					</div>
-			</div>
+	<div id="gNewsConversations" class="withDropDown">
+		<span>News &amp; Conversations</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div class="dropDown" style="height: 0px;">
+			<div><a href="http://www.gmheadlines.com/?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_OurC" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | OUR COMMUNITY', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | OUR COMMUNITY'},'true');">Our Community</a></div>
+			<div><a href="http://www.gmheadlines.com/past-updates?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_ProgR" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | PROGRESS REPORTS', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | PROGRESS REPORTS'},'true');">Updates</a></div>
+			<div><a href="http://www.gmheadlines.com/conversations-chats?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_Conv" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | CONVERSATIONS', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | CONVERSATIONS'},'true');">Conversations</a></div>
+			<div><a href="http://www.gmheadlines.com/videos?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_Vid" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | VIDEOS', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | VIDEOS'},'true');">Videos</a></div>
 		</div>
 	</div>
-</div>
-</div>
-			</div>
-			<div id="gContent">
-				
+	<div id="gVehiclesInnovations" class="withDropDown ">
+		<span>Vehicles &amp; Innovations</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div class="dropDown" style="height: 0px;">
+			<div><a href="/vehicles/?evar10=homepage_vehicles_link" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | GM VEHICLES HOME', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | GM VEHICLES HOME'},'true');">Vehicles Home</a></div>
+			<div><a href="/vehicles/currentoffers/?evar10=gm_com_HPVehicleRollover_CO" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | CURRENT OFFERS', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | CURRENT OFFERS', s_prop25:'GM'},'true');">Current Offers</a></div>
+			<div><a href="/vehicles/dealer/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | DEALER LOCATOR', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | DEALER LOCATOR'},'true');">Dealer Locator</a></div>
+			<div><a href="/vehicles/innovation/?evar10=gm_com_HPVehicleRollover_InnoT" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | INNOVATION &amp; TECHNOLOGY', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | INNOVATION &amp; TECHNOLOGY'},'true');">Innovation &amp; Technology</a></div>
+			<!-- div><a href="/vehicles/hybrids-and-electric/?evar10=gm_com_HPVehicleRollover_HybEV" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | HYBRIDS & ELECTRIC VEHICLES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | HYBRIDS & ELECTRIC VEHICLES'},'true');">Hybrids &amp; Electric Vehicles</a></div -->
+			<div><a href="/vehicles/warranty/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | WARRANTY', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | WARRANTY'},'true');">Warranty</a></div>
+			<div><a href="/vehicles/quality-safety/?evar10=gm_com_HPVehicleRollover_QualS" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | QUALITY &amp; SAFETY', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | QUALITY &amp; SAFETY'},'true');">Quality &amp; Safety</a></div>
+			<div><a href="/vehicles/services/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | SERVICES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | SERVICES'},'true');">Services</a></div>
+			<div><a href="/vehicles/parts/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | PARTS &amp; ACCESSORIES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | PARTS &amp; ACCESSORIES'},'true');">Parts &amp; Accessories</a></div>
+			<div><a href="http://www.gmcertified.com" target="_blank" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | CERTIFIED USED VEHICLES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | CERTIFIED USED VEHICLES'},'true');">Certified Used Vehicles</a></div>
+			<div><a href="http://www.gmfleet.com" target="_blank" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | FLEET &amp; COMMERCIAL', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | FLEET &amp; COMMERCIAL'},'true');">Fleet &amp; Commercial</a></div>
+		</div>
+	</div>
+	<div id="gCompanyInvestors" class="withDropDown ">
+		<span>Company &amp; Investors</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div class="dropDown" style="height: 0px;">
+			<div><a href="/corporate/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE INFORMATION HOME', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE INFORMATION HOME'},'true');">Company Home</a></div>
+			<div><a href="/corporate/about/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | ABOUT GM', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | ABOUT GM'},'true');">About GM</a></div>
+			<div><a href="/corporate/news-and-events/?evar10=gm_com_HPCompanyRollover_NewsE" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | NEWS &amp; EVENTS', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | NEWS &amp; EVENTS'},'true');">News &amp; Events</a></div>
+			<div><a href="/investors/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | INVESTOR INFORMATION', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | INVESTOR INFORMATION'},'true');">Investors</a></div>
+			<div><a href="/corporate/responsibility/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE RESPONSIBILITY', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE RESPONSIBILITY'},'true');">Corporate Responsibility</a></div>
+			<div><a href="/corporate/careers/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CAREERS', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CAREERS'},'true');">Careers</a></div>
+			<div><a href="/corporate/dealers/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | DEALERS &amp; SUPPLIERS', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | DEALERS &amp; SUPPLIERS'},'true');">Dealers &amp; Suppliers</a></div>
+			<div><a href="/corporate/employees/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | EMPLOYEES &amp; RETIREES', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | EMPLOYEES &amp; RETIREES'},'true');">Employees &amp; Retirees</a></div>
+		</div>
+	</div>
 
-<ul id="cMainNav" class="clearfix">
-	<li><a target="_top" id="cMNExplore" href="http://www.gmreinvention.com/?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_topnavigation" onclick="clickTrack({s_linkName:'GM | TOP NAVIGATION | OUR MISSION', s_prop5:'GM | TOP NAVIGATION | OUR MISSION', s_prop1:'', s_prop2:'', s_prop3:'', s_prop11:'', s_prop12:'', s_prop13:'', s_prop14:'', s_prop26:'', s_prop27:'', s_prop28:''},'true');"><span>Our Mission</span></a></li>
-	<li><a target="_top" id="cMNShop" href="/vehicles/"><span>Our Vehicles</span></a></li>
-	<li><a target="_top" id="cMNCorp" href="/corporate/"><span>Our Company</span></a></li>
-</ul>
-				<div id="cContent" class="clearfix">
-					
+	<form id="search" action="/search/" name="google" target="_top">
+		<div class="clearfix">
+			<a id="gSearch" onclick="document.google.submit();return false;" href="/search/?" target="_top"><span>Search</span></a>
+			<input type="text" name="q" value="SEARCH">
+		</div>
+	</form>
+
+	<div id="gAllGMSites">
+		<span>All GM Sites</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div id="gAllGMSitesCont">
+			<div id="gAllGMSitesContLeft"></div>
+			<div id="gAllGMSitesContCenter">
+				<div id="gmAuto">
+					<div class="title">GM Auto Brands</div>
+					<ul>
+						<li><a href="http://www.buick.com/?fromgm=true" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Buick</a></li>
+						<li><a href="http://www.cadillac.com/index.jsp?noredirect=true" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Cadillac</a></li>
+						<li><a href="http://www.chevrolet.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Chevrolet</a></li>
+						<li><a href="http://www.gmc.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GMC</a></li>
+						<li><a href="http://www.gmdaewoo.co.kr/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Daewoo</a></li>						
+						<li><a href="http://www.holden.com.au/www-holden/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Holden</a></li>
+						<li><a href="http://www.hummer.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">HUMMER</a></li>
+						<li><a href="http://www.oldsmobile.com/olds/heritage/index.html" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Oldsmobile</a></li>					
+						<li><a href="http://www.opel.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Opel</a></li>
+						<li><a href="http://www.pontiac.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Pontiac</a></li>
+						<li><a href="http://www.vauxhall.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Vauxhall</a></li>
+						<li><a href="http://www.gmcertified.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Certified Used Vehicles</a></li>		
+						<li><a href="http://www.gmfleet.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Fleet &amp; Commercial</a></li>												
+					</ul>
+				</div>
+				<div id="gmProductsServices">
+					<div class="title">GM Products &amp; Services</div>
+					<ul>
+						<li><a href="http://www.acdelco.com/index.jsp" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">ACDelco</a></li>
+						<li><a target="_top" href="/vehicles/services/gmac.jsp" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Ally</a></li>
+						<li><a href="http://www.gmblogs.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Blogs</a></li>
+						<li><a href="http://www.gmcardmemberservices.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Cardmember Services</a></li>
+						<li><a href="http://www.gmgoodwrench.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Goodwrench</a></li>
+						<li><a href="/vehicles/services/gm_mobility/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Mobility</a></li>
+						<li><a href="/gmownercenter/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Owner Center </a></li>
+						<li><a href="http://www.gmaccessorieszone.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Accessories</a></li>	
+						<li><a href="http://www.gmperformancedivision.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Performance Division</a></li>
+						<li><a href="http://www.gmperformanceparts.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Performance Parts</a></li>
+						<li><a href="/vehicles/innovation/powertrain-technology/ " onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Powertrain</a></li>
+						<li><a href="http://gmventures.com/" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Ventures</a></li>
+						<li><a href="http://www.onstar.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">OnStar</a></li>
+						<li><a href="http://www.xmradio.com/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">XM Radio</a></li>
+					</ul>
+					<div class="title">GM Related Sites</div>
+					<ul>
+						<li><a href="http://www.gmheritagecenter.com/" target="_blank">GM Heritage Center</a></li>
+					</ul>
+				</div>
+				<div id="gGMWorldwide">
+				</div>
+			</div>
+			<div id="gAllGMSitesContRight"></div>
+			<div id="gAllGMSitesClose"></div>
+		</div>
+	</div>
+	<div id="blackFill" style="display: none;">&nbsp;</div>
+</div>
+	</div>
+	<div id="gContentContainer">
+		<div id="gContent">
+			
+			<div id="cContent" class="clearfix">
+				
 
 
 
@@ -188,9 +396,9 @@
     <div id="privacyContentEng" class="decoratedSection">
 	<div class="content">
 		<h3 class="subTitleBlue"><a name="">Privacy Statement for  General Motors Company</a></h3>
-		<h3 class="subTitleBlack"><a name="">Effective February 23, 2010</a></h3>
+		<h3 class="subTitleBlack"><a name="">Effective October 1, 2010</a></h3>
 		<p class="last"><strong>For Your California Privacy Rights <a href="/privacy/california.jsp">click here</a>.</strong></p>
-		<p class="bold">On February 23, 2010, General Motors Company expects to transfer control and ownership of the SAAB brand to SAAB Cars North America, Inc., an affiliated company of Saab Spyker Automobiles. Once that transfer is complete, personal information about SAAB customers collected prior to February 23, 2010 will be shared with SAAB Cars North America, Inc.  The SAAB Cars North America, Inc. Privacy Statement is available on <a href="http://www.saabusa.com/">SaabUSA.com.</a></p>
+		<p><strong>On October 1, 2010, General Motors Company (GM) acquired AmeriCredit Corp., (NYSE: ACF), which provides auto finance solutions through auto dealers across the United States. AmeriCredit Corp. will be renamed General Motors Financial Company, Inc. (GM Financial) and GM will consider GM Financial to be an affiliate as defined under the GM Privacy Statement.<br><br></strong></p>
 	</div>
       <h2 id="head1" class="header"><span><span><span><span>I. About Privacy</span></span></span></span></h2>
       <div class="content">
@@ -276,7 +484,7 @@
         <p class="heading">If you have concerns or questions regarding GM's consumer privacy practices, please refer to the <a href="#III">frequently asked questions</a> that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). California residents click for more information on <a href="/privacy/california.jsp">Your California Privacy Rights</a>.</p>
         <h3><a class="h" name="changes">Changes</a></h3>
         <p class="heading">We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.</p>
-        <p>This statement is effective as of 2/23/2010.</p>
+        <p>This statement is effective as of 10/1/2010.</p>
         <h3><a class="h" name="supplemental">Supplemental Privacy Information</a></h3>
         <p class="heading">This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.</p>
         <div class="title"><a name="investor" href="/corporate/investor_information/">Investor Information</a></div>
@@ -327,7 +535,7 @@
         <h3>Q1: </h3>
         <p class="heading">What are "GM affiliates"?</p>
         <h3>A: </h3>
-        <p class="heading">As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, GMAC, GMAC Insurance, Nuvell Credit Company LLC, Nuvell Financial Services LLC and OnStar.</p>
+        <p class="heading">As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest (for example, OnStar).</p>
         <h3>Q2: </h3>
         <p class="heading">What is an example of a supplier that provides services to GM?</p>
         <h3>A: </h3>
@@ -403,10 +611,11 @@
   
 </div>
 
-				</div>
 			</div>
-			<div id="gFooter">
-				
+		</div>
+	</div>
+	<div id="gFooter" style="width: 1322px;">
+		
 
 
 	<script type="text/javascript">
@@ -421,22 +630,42 @@
 			}
 		}
 
+		function footerResize( timeout ){
+			if( jQuery( window ).width() <= 1137 ){
+				jQuery( '#gFooter' ).css({ width: ( 1137 - 44 ) + 'px' });
+			} else {
+				jQuery( '#gFooter' ).css({ width: ( jQuery( window ).width() - 44 ) + 'px' });
+			}
+			if( timeout ){
+				setTimeout( 'blackFillResize( true )', 100 );
+			}
+		}
+
+		jQuery( document ).ready( function(){
+			jQuery( '#gFooter' ).css({ width: ( jQuery( window ).width() - 44 ) + 'px' });
+
+			jQuery( window ).resize( function() {
+				footerResize();
+			});
+			setTimeout( 'footerResize( true )', 100 );
+		});
 	</script>
-
 <ul id="gUniversalNav" class="clearfix">
-	<li><a href="/utilities/frequently-asked-questions/all-questions/index.jsp?deep=faq" onclick="clickTrack({s_linkName: setLinkNameFooter('HELP CENTER'), s_prop5: setLinkNameFooter('HELP CENTER'), s_prop14:'', s_prop28:''})">Help Center</a></li>
-	<li><a href="/utilities/frequently-asked-questions/all-questions/index.jsp?deep=faq" onclick="clickTrack({s_linkName: setLinkNameFooter('CONTACT US'), s_prop5: setLinkNameFooter('CONTACT US'), s_prop14:'', s_prop28:''})">Contact Us</a></li>
-	<li><a target="_top" href="/utilities/sitemap/" onclick="clickTrack({s_linkName: setLinkNameFooter('SITE MAP'), s_prop5: setLinkNameFooter('SITE MAP'), s_prop14:'', s_prop28:''})">Sitemap</a></li>
-	<li><a target="_top" href="/search/search.jsp" onclick="clickTrack({s_linkName: setLinkNameFooter('SEARCH'), s_prop5: setLinkNameFooter('SEARCH'), s_prop14:'', s_prop28:''})">Search</a></li>
-	<li id="pSafariFix"><a href="#" onclick="popUpWindow('/utilities/gmsites/','GM_Sites','width=650px, height=530px, scrollbars=no'); clickTrack({s_linkName: setLinkNameFooter('GM SITES POPUP'), s_prop5: setLinkNameFooter('GM SITES POPUP'), s_prop14:'', s_prop28:''});return false;">All GM Sites</a></li>
-	<!--<li><a target="_top" href="javascript:void(0);" onclick="popUpFooter(); clickTrack({s_linkName: setLinkNameFooter('WORLDWIDE SITES'), s_prop5: setLinkNameFooter('WORLDWIDE SITES'), s_prop14:'', s_prop28:''}); return false;">Worldwide Sites</a></li>-->
-	<li><a target="_blank" href="http://www.onstar.com/us_english/jsp/services/index.jsp?make=gm&amp;model=homepage&amp;deepLink=overview" onclick="clickTrack({s_linkName: setLinkNameFooter('ONSTAR'), s_prop5: setLinkNameFooter('ONSTAR'), s_prop14:'ONSTAR', s_prop28:'ONSTAR EXTERNAL'})">Experience OnStar</a></li>
-	<li class="last"><a target="_top" href="/utilities/espanol/espanol.jsp" onclick="clickTrack({s_linkName: setLinkNameFooter('SPANISH'), s_prop5: setLinkNameFooter('SPANISH'), s_prop14:'', s_prop28:''})">Sitios en Español</a></li>
+	<li class="last">                                                                                                      <a href="https://www.gmretiree.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Retirees</a></li>
+	<li class="">                                               <a href="/gmownercenter" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Owners</a></li>
+	<li>                                                                                                                   <a href="http://media.gm.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Press Room</a></li>
+	<li class="">                                          <a href="/corporate/careers/" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Careers</a></li>
+	<li class="">                            <a href="/utilities/contact_us/contact.jsp?deep=contact" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Contact Us</a></li>
+	<li class=""><a href="/utilities/frequently-asked-questions/all-questions/index.jsp?deep=faq" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Help Center</a></li>
+	<li class="last " style="clear: both;">     <a href="/utilities/espanol/espanol.jsp" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Sitios&nbsp;en&nbsp;Español</a></li>
+	<li>                                                                                                                   <a href="http://www.onstar.com/us_english/jsp/services/index.jsp?make=gm&amp;model=homepage&amp;deepLink=overview" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Experience OnStar</a></li>
+	<li class="">                                          <a href="/utilities/sitemap/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Sitemap</a></li>
 </ul>
-<ul id="gUniversalNav" class="clearfix copy">
-	<li><a id="gCopy" class="gCopy" target="_top">© 2010 General Motors</a></li>
-	<li><a class="gCopy" target="_top" href="/copyright/" onclick="clickTrack({s_linkName: setLinkNameFooter('GM COPYRIGHT'), s_prop5:setLinkNameFooter('GM COPYRIGHT'), s_prop14:'', s_prop28:''})">Copyright/Trademark</a></li>
-	<li class="last"><a class="gCopy" target="_top" href="/privacy/" onclick="clickTrack({s_linkName: setLinkNameFooter('PRIVACY'), s_prop5:setLinkNameFooter('PRIVACY'), s_prop14:'', s_prop28:''})">Privacy Statement</a></li>
+<ul id="gUniversalNav">
+	<li><a id="gCopy" class="gCopy" target="_top">© 2010 General Motors Company</a></li>
+	<li class="">                                                  <a class="gCopy" href="/copyright/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Copyright/Trademark</a></li>
+	<li class="last onState">                                               <a class="gCopy" href="/privacy/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Privacy Statement</a></li>
+
 </ul>
 
 
@@ -448,9 +677,9 @@
 
 
 
-				
-			</div>
-		</div>
+
+
+		
 	</div>
 	
 
@@ -478,7 +707,7 @@ var s_prop15=""
 var s_prop16=""
 var s_prop17=""
 var s_prop20=""
-var s_prop24="ENGLISH";
+var s_prop24="EN";
 var s_prop25="GM";
 var s_prop26=getESTHour();
 var s_prop27=daysofweek[(new Date()).getDay()].toUpperCase();
@@ -500,7 +729,7 @@ var s_eVar5=""
 //--></script>
 
 
-<script type="text/javascript" src="/js/s_code_remote.js"></script><img name="s_i_devgmgmc" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/devgmgmc/1/G.9p1/s58005470338675?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A59%3A7%204%200&amp;pageName=GM%20%7C%20PRIVACY&amp;g=https%3A//web.archive.org/web/20100601154356id_/http%3A//www.gm.com/privacy/&amp;cc=USD&amp;c1=GENERAL&amp;c2=PRIVACY&amp;c3=GENERAL%20%7C%20PRIVACY&amp;c24=ENGLISH&amp;c25=GM&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/js/s_code_remote.js"></script><img name="s_i_devgmgmc" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/devgmgmc/1/G.9p1/s56398423564596?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A59%3A10%204%200&amp;pageName=GM%20%7C%20PRIVACY&amp;g=https%3A//web.archive.org/web/20101206195524id_/http%3A//www.gm.com/privacy/&amp;cc=USD&amp;c1=GENERAL&amp;c2=PRIVACY&amp;c3=GENERAL%20%7C%20PRIVACY&amp;c24=EN&amp;c25=GM&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.9. -->
 
 <script type="text/javascript">
