@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricksdaddy.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607121347id_/http%3A//www.tricksdaddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricksdaddy.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206191210id_/http%3A//www.tricksdaddy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
