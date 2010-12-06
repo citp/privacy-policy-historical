@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skykingscasino.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skykingscasino.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/privacy.php) for the most accurate reproduction.*
 
 # Online Casino - Sky Kings Casino Internet Gambling-Privacy policy
 
@@ -6,9 +6,9 @@
   
   
 ---  
-| [HOME](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/index.php) |  | [DOWNLOAD](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/download.php) |  | [ABOUT US](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/about.php) |  | [CASHIER](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/banking.php) |  | [PROMOTIONS](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/promotions.php) |  | [SUPPORT](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/support.php) |  | [FAQ](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/faq.php) |  | [VIP LOYALTY](https://web.archive.org/web/20100301165734id_/http%3A//www.skykingscasino.com/loyalty.php)  
+| [HOME](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/index.php) |  | [DOWNLOAD](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/download.php) |  | [ABOUT US](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/about.php) |  | [CASHIER](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/banking.php) |  | [PROMOTIONS](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/promotions.php) |  | [SUPPORT](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/support.php) |  | [FAQ](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/faq.php) |  | [VIP LOYALTY](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/loyalty.php)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  Languages:   
+|   
 ---  
 |  |  |  |   
 ---  
