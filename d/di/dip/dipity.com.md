@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dipity.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131082958id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipity.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206102509id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Dipity Timelines - Privacy Policy
 
 The following Privacy Policy outlines the information Underlying Inc. ("Underlying" or "Dipity") may collect and how Dipity may use that information to better serve visitors and members of Dipity.com (the "Dipity Dipity Site") and the services provided through or accessed on the Dipity Site (collectively, the "Dipity Services").
 
