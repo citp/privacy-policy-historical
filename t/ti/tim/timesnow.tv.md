@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205442id_/http%3A//www.timesnow.tv/articleshow/4211425.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206122902id_/http%3A//www.timesnow.tv/articleshow/4211425.cms) for the most accurate reproduction.*
 
 # DISCLAIMER POLICY & TERMS AND CONDITIONS FOR USE - TIMESNOW.tv - Latest Breaking News, Big News Stories, News Videos
 
