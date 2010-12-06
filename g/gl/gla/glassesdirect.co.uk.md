@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607083047id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206073538id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
 
 # Privacy Policy
 
