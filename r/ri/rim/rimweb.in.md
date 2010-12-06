@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221220848id_/http%3A//www.rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimweb.in privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206235620id_/http%3A//www.rimweb.in/index.php%3Fprivacy) for the most accurate reproduction.*
 
-# RIMweb.in :: Reliance Mobile ( Reliance IndiaMobile ) Discussion Forums
+# RIMweb.in :: Reliance Mobile ( CDMA & GSM ) Discussion Forums
 
 Your privacy is of the utmost importance to RIMweb.in. Because we ask for some basic personal information during registration, we want you to be fully informed of how this information is gathered and used.
 
