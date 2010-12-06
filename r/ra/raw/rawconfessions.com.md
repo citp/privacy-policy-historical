@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawconfessions.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225170616id_/http%3A//rawconfessions.com/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawconfessions.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206200642id_/http%3A//rawconfessions.com/index.php%3Fxpath%3Dprivacy) for the most accurate reproduction.*
 
 # RawConfessions.com - Confess Online or Browse Unedited Confessions!
 
