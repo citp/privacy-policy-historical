@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drinknation.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605235558id_/http%3A//www.drinknation.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinknation.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206012533id_/http%3A//drinknation.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Drinknation.com
-
-| 
 
 Drinknation.com hates spam, and we especially dislike people who send spam. We also dislike global warming and urban sprawl, and our favourite color is blue. However, only the spam part is important. We realize that you, like us, are hard working (ok, maybe you're not like us), honest individuals who have allergic reactions to unsolicited email and invasions of privacy. So here's the run down of how we treat privacy here at Drinknation. 
 
