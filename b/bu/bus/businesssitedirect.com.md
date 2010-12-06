@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesssitedirect.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618231638id_/http%3A//www.businesssitedirect.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesssitedirect.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206061927id_/http%3A//www.businesssitedirect.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
