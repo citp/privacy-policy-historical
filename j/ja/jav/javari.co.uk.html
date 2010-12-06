@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the javari.co.uk privacy policy that was archived on 2009-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091205192142id_/http%3A//www.javari.co.uk/help/200385710) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the javari.co.uk privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206071949id_/http%3A//www.javari.co.uk/help/200385710) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <title>Javari.co.uk: Help</title>
@@ -8,32 +8,45 @@
   
 
 
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="imagetoolbar" content="no">
+
 <script language="javascript">
 		var signedIn = false;
 		var realm = "GBAmazon";
 		var ENDLESS_ROOT_NODE = "213373031";
-		var features = {"hasDesignerStore":"false","cinderella":"false","detailLargeAltSprite":"false","dpSpriteAltViews":"false","dpvideo":"false","hasClearanceStore":"false","sims":"false"};
-
+		var features = {"hasNewStyleAlert":"false","hasMultipleShipSpeeds":"false","hasRuleBasedAccessories":"false","detailCSSSplit":"C","hasPhoneOrders":"false","detailLargeAltSprite":"true","gatewayCSSSplit":"T2","sims":"true","dpvideo":"false","pageAssemblyTypeLogging":"T1","hasDesignerStore":"false","afterCFScriptLoadOnGateway":"C","cinderella":"false","afterCFScriptLoad":"T1","nullSearchImprove":"T2","dpSpriteAltViews":"true","hasCashback":"false","twoSearchResultPagelets":"T1","largerImages":"T1","precacheSearchImages":"T1","dpQuickView":"T1","asyncJSLoad":"T2"};
+		var disableMouseFeatures = false;
+		
 		
 		var jsStrings = {};
 		function getString(stringID, keyValueMap) {
-			//if the global string registration does not exist, do nothing
+			
 			if (typeof jsStrings == "undefined"){
 				return "";
 			}
 			
-			//find the pattern and if the pattern does not exist, do nothing
+			
 			var pattern = jsStrings[stringID];
 			if (typeof pattern == "undefined"){
 				return "";
 			}
 			
-			//if no variable need to be replaced, simply return the pattern
+			
 			if (typeof keyValueMap == "undefined"){
 				return pattern;
 			}
 			
-			//otherwise use the keyValueMap provided to replace the place holders in the pattern
+			
 			for (var key in keyValueMap) {
 				var placeHolder = new RegExp("##" + key + "##", "g");
 				var value = keyValueMap[key];
@@ -43,7 +56,7 @@
 		}
 		
 		function registerString(stringID, pattern) {
-		    //if the global string registration does not exist, do nothing
+		    
 			if (typeof jsStrings == "undefined"){
 				return;
 			}
@@ -51,10 +64,29 @@
 		}
 		
 
-		function formatCurrency(floatValue){
-			var value = floatValue.toFixed(2);
+		function getImage(imageName) {
+			return document.getElementById(imageName) ? 
+				document.getElementById(imageName).innerHTML : "";
+		}
+		
+
+		
+		
+		function fractionCurrencyString(stringValue) {
+			var x = parseInt(stringValue);
+			x = x / Math.pow(10,2);
+			return x;
+		}
+
+		function formatCurrency(floatValue, round) {
 			
-			if (isNaN(value)) { return floatValue; }
+			if (isNaN(floatValue)) { return floatValue; }
+			var value;
+			if (round) {
+				value = Math.round(floatValue);
+			} else {
+				value = floatValue.toFixed(2);
+			}
 			value += ""; 
 			
 			var x = value.split(".");
@@ -64,46 +96,69 @@
 			
 			var rgx = /(\d+)(\d{3})/;
 			
-			while (rgx.test(x0)){
+			while (rgx.test(x0)) {
 				x0 = x0.replace(rgx, "$1" + "," + "$2");
 			}
 			
-			return "£" + x0 + x1;
+			return "£" + x0 + x1 + "";
 		}
-
-			
 		
-		function addWindowOnloadQueue(onloadFunction) {
-			var method = window.onload;
-			if (typeof method == "function") {
-				window.onload = function() {
-					method();
-					onloadFunction();
+		
+		window.AmazonPopoverImages = {
+		  snake: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/snake._V192252013_.gif',
+		  btnClose: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/closeBttn._V192252296_.gif',
+		  closeTan: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/close-tan-sm._V192252292_.gif',
+		  closeTanDown: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/close-tan-sm-dn._V192252296_.gif',
+		  loadingBar: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/loading-bar-small._V192252318_.gif',
+		  pixel: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/blank-pixel._V192252376_.gif'
+		};
+
+		
+		window.SharedImages = {
+		  loaderImage: 'http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/loaderIcon._V211384128_.gif'
+		};
+		
+		var AsyncLoader = function(oParams) {
+			if(oParams && oParams.script) {
+				var elScript=document.createElement("script");
+				elScript.src = oParams.script;
+				var elHead = document.getElementsByTagName('head')[0];
+				elHead.appendChild(elScript);
+				if(typeof oParams.handler == 'function') {
+					elScript.onload = function() {
+						oParams.handler.call(window);
+					};
+					elScript.onreadystatechange = function(){
+						if (this.readyState && (this.readyState == "loaded" || this.readyState == "complete")){
+							this.onreadystatechange = null;
+							oParams.handler.call(window);
+						}
+					};
 				}
+				elScript = null;
+				elHead = null;
 			}
-			else {
-				window.onload = function () {
-					onloadFunction();
-				}
-			}
-		}
+		};
 		
 	    var amznJQ = {
-	        _a: [], _s: [], _d: [], _l: [], _o: [],
+	        _a: [], _s: [], _d: [], _l: [], _o: [], _w: [],
 	        addLogical: function() {
-	            this._l.push(arguments)
+	            this._l.push(arguments);
 	        },
 	        addStyle: function() {
-	            this._s.push(arguments)
+	            this._s.push(arguments);
 	        },
 	        declareAvailable: function() {
-	            this._d.push(arguments)
+	            this._d.push(arguments);
 	        },
 	        available: function() {
-	            this._a.push(arguments)
+	            this._a.push(arguments);
 	        },
 	        onReady: function() {
-	            this._o.push(arguments)
+	            this._o.push(arguments);
+	        },
+	        elementOnLoad : function() {
+		        this._w.push(arguments);
 	        },
 	        strings: {},
 	        chars: {
@@ -113,49 +168,108 @@
 	            BACKSLASH: String.fromCharCode(0x5C),
 	            YEN: String.fromCharCode(0xA5)
 	        }
-	    }    
+	    }
+		
+		
+		
+		
+		function addWindowOnloadQueue(fOnLoadHandler) {
+			
+			amznJQ.elementOnLoad(window,"EndlessScripts", fOnLoadHandler);
+		} 
+    	
+	    
+            var clientLogNameSpace = null;
+            
+            
+
+
+        /* global variable that tracks if the window.load() event has triggered yet */
+        var windowLoaded = false;
+        (function() {
+	        var fPrevOnLoad = window.onload;
+	        window.onload = function() {
+		        try { 
+					if(typeof fPrevOnLoad == 'function') {
+						fPrevOnLoad.apply(this, arguments);
+					}
+		        }
+		        catch(ex) {
+		        	
+			    }
+				windowLoaded = true;
+	        }
+        })();
+
 </script>
 
 
 
-<meta http-equiv="imagetoolbar" content="no">
+    
+        
+            
+                <link href="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/uk-endless-main_062880._V194194405_.css" type="text/css" rel="stylesheet">
+            
+            
+        
+    
 
 
-	<!-- Images ========================================================================================================== -->
-	<!-- Begin Image requirements -->
-	
-	<!-- End Image requirements -->
- 	
-	
-		
-			
-	  <link href="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/uk-endless-main_328._V227039113_.css" type="text/css" rel="stylesheet">
-			
-		
-	
-	
-		
-			
 
-	
-	
-	 <script src="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/js/endless-main_v523._V227111358_.js" type="text/javascript"></script>
-	
- 
-	  
-			
-		
-	
-	<script language="javascript"> 
-		if (navigator.userAgent.indexOf("Safari") > -1) 
-			document.write("<link href='http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/styles_safari_154637._V232296589_.css' type='text/css' rel='stylesheet'>");
-	</script><link href="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/styles_safari_154637._V232296589_.css" type="text/css" rel="stylesheet">
+
+
+    
+        
+            
+                
+                    
+                        <script src="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/js/endless-main_v053530._V195702613_.js" type="text/javascript"></script>
+                    
+                    
+                
+            
+        
+    
+
 
 <style type="text/css"> 
 	.parentOpen {background-image: url();}
 	#searchHeader{background-image: url();}
-	.toggleOn{ background-image: url();}
-	.toggleOff{ background-image: url();}
+	
+	.ap_popover_sprited .ap_body .ap_left, 
+	.ap_popover_sprited .ap_body .ap_right {
+	    background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/popUp_sprite03_sp10_01212010._V204166101_.png);
+	}
+
+	.ap_popover_sprited .ap_header .ap_left, 
+	.ap_popover_sprited .ap_header .ap_right,
+	.ap_popover_sprited .ap_header .ap_middle,
+	.ap_popover_sprited .ap_footer .ap_left, 
+	.ap_popover_sprited .ap_footer .ap_right,
+	.ap_popover_sprited .ap_footer .ap_middle,
+	.ap_popover_sprited .ap_closebutton {
+	    background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/popUp_sprite02_sp10_01152010._V204166100_.png);
+	}
+
+	.ap_popover_sprited .ap_body .ap_right-arrow, .ap_popover_sprited .ap_body .ap_left-arrow {
+	    background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/popUp_sprite_sp10_01152010._V204166101_.png);
+	}
+	
+	      
+	
+	
+	
+	
+		
+			div.resultRow div.result { margin:10px 17px 15px 0; }
+ 			div.resultRow a.result { display:block; margin:0 0 5px 0; }
+			div.resultRow div.result, div.resultRow a.result, div#currentVariation {width:160px !important;}
+			
+			ul.resultRow li.result,
+			.ie ul.resultRow li.result { margin:0 17px 0 0; width:160px; }
+		
+		
+	
 </style>
 
 <link rel="shortcut icon" href="/favicon.ico">
@@ -178,62 +292,7 @@
 
 <div align="center" id="centerWrapper">
 <div id="insideCenterWrapper">
-<div id="top-10">
-
-
-
-<div class="flashWidget">
-	<div id="holidayMsg" style="position: absolute; overflow: hidden;left: 260px; top: 18px; z-index: 996">
-           <div id="holidayMsg1" style=""> 
-                   <img src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif">
-           </div>
-    </div>
-           <script>
-                <!--
-
-				function runFlash94() {
-                  var so_holidayMsg = new SWFObject('http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayAnim_UK_120209._V207990127_.swf',
-                                         'holidayFlash1',
-                                         '338',
-                                         '58',
-                                         '8.0.0',
-                                         '');
-                                    
-                  
-                  so_holidayMsg.addVariable('autoplay', 'true');
-                  
-                  so_holidayMsg.addVariable('containerId', 'holidayMsg');
-                  
-                  so_holidayMsg.addParam('quality','high');
-                  so_holidayMsg.addParam('wmode','transparent');
-                  so_holidayMsg.addParam('salign','');
-                  
-                  	so_holidayMsg.addParam('loop','0');
-                  
-                  
-                  	so_holidayMsg.addParam('menu','0');
-                  
-                  so_holidayMsg.addParam('swliveconnect','');
-                  so_holidayMsg.addParam('scale','');
-                  so_holidayMsg.addParam('name','');
-                  so_holidayMsg.addParam('base','');
-                  so_holidayMsg.addParam('codebase','');
-                  so_holidayMsg.addParam('play','true');
-                  so_holidayMsg.addParam('allowScriptAccess','always');
-                  so_holidayMsg.write('holidayMsg1');
-				}
-
-				amznJQ.onReady("JQuery", function(){
-					jQuery(window).load(function(){
-						runFlash94();
-					});
-				});
-
-                //-->
-           </script>
-
-</div>
-</div>
+<div id="top-10"></div>
 <div id="headerbanner"><div id="banner-image">
 
 <div id="siteSkinContainer">
@@ -243,86 +302,66 @@
 
 <style type="text/css">
 	body {
-		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/standard-tile-20071221._V232521276_.png);
+		background-color: #221211;
+		
 	}
 	
 	body.backgroundSkin {
-		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holiday2009_skinStandard_v4._V227712994_.jpg);
-		
-			background-color: #ebeae9;
-		
+		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/site_content/2010_sep21/XmasSKIN._V195147293_.jpg);
 		background-position: top center;
+		background-repeat: no-repeat;
 		
 	}
 	
-	div#navbar-1, div#navbar-menus {
-		background-color: #AFB3AD !important;
+	div#navbar-menus {
+		background-color: #BEA97C !important;
 	}
-	div#navbar-1 span.navbarTab a:hover, div#navbar-menus span.navbarTab a:hover {
-		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayNavSprite_2009_v2._V229310868_.gif);
+	div#navbar-menus span.navbarTab a:hover,
+	div#navbar-menus span.inDept h2 a, div#navbar-menus span.inDept h2 a:hover,
+	div#navbar-menus span.over h2 a {
+		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/navSprite_20090908._V192252308_.gif);
 	}
-	div#navbar-1 span.inDept a h2, div#navbar-1 span.inDept a:hover h2,
-	div#navbar-menus span.inDept a h2, div#navbar-menus span.inDept a:hover h2 {
-		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayNavSprite_2009_v2._V229310868_.gif);
-	}
-	span#myThingsImage-wrapper, span#cartImage-wrapper {
+	span#myThingsImage-wrapper img, span#cartImage-wrapper img {
 		border: 1px solid #FFFFFF;
 	}
-	div#navbar-1 span.navDivider, div#navbar-menus span.navDivider, div#navbar-search span.navDivider{
-		border-left: 1px solid #D1D1D1;
-		border-right: 1px solid #707070;	
+	div#navbar-menus span.navDivider, div#navbar-search span.navDivider {
+		border-left: 1px solid #CCBD91;
+		border-right: 1px solid #8C7940;	
 	}
 	div#navbar-search {
-		background-color: #D8D7D5;
+		background-color: #F3EEE2;
 	}
-	div#headerRight, div#headerRight a, div#cart, div#saved, p#menu {
+	div#headerRight, div#headerRight a, div#cart, div#saved, p#menu, p#menu a:link, p#menu a:visited, p#menu a:hover, p#menu a:active {
 		color:#FFFFFF !important;
 	}
 	div#navbar-menus ul.navDropdown {
-		background-color:#D8D7D5;
-		border: 5px solid #AFB3AD;
+		background-color:#F3EEE2;
+		border: 5px solid #BEA97C;
 	}
 	div#navbar-menus span.navbarTab li a:hover {
-		background-color: #AFB3AD;
+		background-color: #BEA97C;
 	}
-
-	
-	div#headerImage img {
-		margin-left:0px;
-		margin-right:0px;
+	div#navbar-menus h2.navLink a {
+		color: #FFFFFF;
 	}
-	div#wrapper,div#header,div#headerbanner,div#navbar {
-		width:836px;
+	div#navbar-menus li.navLevel-1 h2.navSubHeading {
+		color: #4C394B;
 	}
-	div.insideWrapper {
-		margin-left:0px;
-		margin-right:0px;
+	div#navbar-menus ul.navDropdown li h2.navLink a {
+		color: #4C394B;
 	}
-	
-	div#navbar-1, div#navbar-menus {
-		margin-left:0px;
-		margin-right:0px;
-	}
-	
-	div#navbar-2, div#navbar-search {
-		margin-left:0px;
-		margin-right:0px;
-	}
-	
-	div#homepageContentSlots {
-		padding:5px 20px 0px;
-	}	
 </style>
 
 <div id="headerImage">	
 	
-		<map name="map58">
-<area shape="rect" href="http://www.javari.co.uk/homepage" coords="75,0,275,80" alt="Javari.co.uk: Shoes and Handbags for Women, Men and Kids with Free Overnight Shipping">
-<area shape="rect" href="http://www.javari.co.uk/help/200384820" coords="285,15,575,80" alt="Free Overnight Shipping, 365-Day Returns, Free Return Shipping, 100 Percent Price Guarantee">
+		<map name="map87">
+<area shape="rect" href="http://www.javari.co.uk/homepage" coords="0,0,200,80" alt="Javari.co.uk: Shoes and Handbags for Women, Men and Kids with Free One-Day Delivery">
+<area shape="rect" href="http://www.javari.co.uk/help/200385540" coords="427,14,727,47" alt="Javari.co.uk: Shoes and Handbags for Women, Men and Kids with Free One-Day Delivery">
+<area shape="poly" href="http://www.javari.co.uk/help/200384820" coords="265,13,264,70,331,70,382,70,445,71,476,71,563,75,603,72,591,50,426,47,421,21" alt="Free One-Day Delivery, 365-Day Returns, Free Returns, 100% Price Match Guarantee">
 </map>
 
 		
-	<img src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayHeader_2009_standard_836_v2._V226581085_.jpg" usemap="#map58">
+	<img src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/site_content/2010_dec/uk-javari-xmas_10headership1._V193635244_.jpg" height="90" usemap="#map87" width="936" border="0">
 </div>
 
 </div>
@@ -332,9 +371,20 @@
 <script type="text/javascript">
 	amznJQ.addLogical("JQuery", []);
 	amznJQ.onReady("JQuery", function(){
-		jQuery(window).load(function(){
-			jQuery("body").addClass("backgroundSkin");
-		});
+		
+		if (jQuery.browser.safari) {
+			  var _timer = setInterval(function() {
+			    if (/loaded|complete/.test(document.readyState)) {
+			      clearInterval(_timer);
+			      jQuery("body").addClass("backgroundSkin");
+			    }
+			  }, 10);
+			}
+		else {	
+			amznJQ.elementOnLoad(window,"EndlessScripts", function(){
+				jQuery("body").addClass("backgroundSkin");
+			});
+		}
 	});
 </script>
 
@@ -345,7 +395,7 @@
 
 
 <style type="text/css"> 	 
-	div.scrollArrow-left, div.scrollArrow-left_inactive, div.scrollArrow-right, div.scrollArrow-right_inactive {background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V231941815_.gif);} 	 
+	div.scrollArrow-left, div.scrollArrow-left_inactive, div.scrollArrow-right, div.scrollArrow-right_inactive {background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V192252314_.gif);} 	 
 </style>
 
 
@@ -365,111 +415,60 @@
 		}
 		return true;
 	}
-
-	function JSImageMap()  {
-		this.no_image_large = "";
-		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/no_image_30._V234067889_.gif";
-		this.no_image_small = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/no_image_small._V234067889_.jpg";
-		this.new_styles_top_right = "";
-		this.remove = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/remove_v20080606._V226412391_.gif";
-		this.white1px = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif";
-		this.left_arrow_inactive = "";
-		this.left_arrow = "";
-		this.right_arrow_inactive =" ";
-		this.right_arrow = "";
-		this.mythings_remove = "";
-		this.mythings_add_to_cart = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/mythings_add_to_cart._V222902033_.gif";
-		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/no_image_30._V234067889_.gif";
-		this.continue_shopping = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/continue_shopping_v20080609._V226412388_.gif";
-		this.saved = "";
-		this.save_for_later_sm = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/save_for_later_sm_v20080606._V226412390_.gif";
-		this.no_main_image = "";
-		this.no_image_51 = "";
-		this.return_to_saved = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/return_to_saved._V222461910_.gif";
-		this.return_to_compare = "";
-		this.return_to_cart = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/return_to_cart_v20080606._V222835989_.gif";
-		this.top_left_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/top_left_corner._V222249926_.gif";
-		this.top_right_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/top_right_corner._V222249921_.gif";
-		this.bottom_left_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/bottom_left_corner._V222249925_.gif";
-		this.bottom_right_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/bottom_right_corner._V222249924_.gif";
-		this.top_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/top_tile._V222251093_.gif";		
-		this.bottom_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/bottom_tile._V222251098_.gif";	
-		this.left_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/left_tile._V222251096_.gif";	
-		this.right_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/right_tile._V222251099_.gif";	
-		this.title_fade = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/title_fade._V222251097_.jpg";		
-		this.add_to_cart_sfl = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/add_to_cart_sfl._V222835988_.gif";
-		this.remove_sfl = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/remove_sfl._V223752470_.gif";
-		this.taf_top_right = "";
-		this.taf_bottom_right = "";
-		this.taf_bottom_left = "";
-		this.taf_bottom_expand = "";
-		this.taf_right_expand = "";
-    }
-	
-	JSImageMap.prototype.getImagePath = function(img){
-			var url = "";
-			if(this[img] != undefined){
-		   		 url = this[img];
-	   		}
-	   		return url;
-	}
-
-     var jsImg = new JSImageMap();
+	registerString("welcome-with-customer-name", 'Welcome <span id="customerName">##customerName##</span> -');
 </script>
 
-<!-- Start banner -->
-<div id="headerRight">
-	<div id="bannerLinks">
-	     <p id="menu">
-			
-				<a href="/youraccount">My Account</a> | 
-			
-				<a href="/yacontactus?ie=UTF8&amp;viewID=click-to-call" id="click-to-call-link">+(44) 800 496 2447</a> | 
-			
-				<a href="/help/200384800">Help</a> | 
-			
-			
-				
-					
-					
-						
-						
-					
-				
-				<a href="https://www.javari.co.uk/signin?redirectQuery=%26ts%3D84513&amp;redirectUrl=%2Fhelp%2F200385710&amp;redirectProtocol=http">Sign in</a>
-			
-			
-		</p>
-	</div>	
+
+<div id="bannerLinks">
+	<p id="menu">
 		
+			
+				
+				
+					
+					
+					
+			
+			<a href="https://www.javari.co.uk/signin?redirectProtocol=http&amp;redirectQuery=%26ts%3D2767&amp;redirectUrl=%2Fhelp%2F200385710%2F">Sign in</a> | 
+		
+		
+		
+			<a href="/youraccount">My Account</a>
+			 | 
+		
+			<a href="/yacontactus" id="click-to-call-link">Contact Us</a>
+			 | 
+		
+			<a href="/help/200384800">Help</a>
+			
+		
+	</p>
+</div>
+
+<div id="headerRight">
 	<div id="cart" class="emptyBasket" onclick="openCartDetail();">
 	  	<span id="cartImage-wrapper">
-		  	<img id="cartImage" src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif" width="30" height="30" border="0">
+		  	<img id="cartImage" src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V192252002_.gif" width="30" height="30" border="0">
 		</span>
 	    <p>Basket <span id="cartCount"></span></p>
 	</div>
 	
 	<div id="saved" class="emptyBasket" onclick="openMythingsDetail();">
 	  	<span id="myThingsImage-wrapper">
-			<img id="myThingsImage" src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif" width="30" height="30" border="0">
+			<img id="myThingsImage" src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V192252002_.gif" width="30" height="30" border="0">
 	   	</span>
 	    <p>	    
-	    	<!--WEBLAB:END_COMPARE_3160-->
-			
-			
-	    		Saved for later 
-			
+    		Saved for later 
 	    	
 	    </p>
 	</div>
 </div>	
-<!-- End banner -->
+
 
 <!--[if lte IE 6]>
-<script language="javascript"> addWindowOnloadQueue(function() { testForActiveXSupport() }); </script>
+<script language="javascript"> amznJQ.elementOnLoad(window,"EndlessScripts", function() { testForActiveXSupport() }); </script>
 <![endif]-->
-<script language="javascript"> addWindowOnloadQueue(function() { initHeader() }); </script>
-
+<script language="javascript"> amznJQ.elementOnLoad(window,"EndlessScripts", function() { initHeader() }); </script>
 
 
 
@@ -482,16 +481,16 @@
 
 
 <style type="text/css">
-	div#navbar-menus li.navLevel-2 h2.navLink, div#navbar-menus span.inDept li.navLevel-2 h2.navLink {background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V231941815_.gif);}
-    
-    div#navbar-menus span.navbarTab { width:150px; }
-    
+	div#navbar-menus li.navLevel-2 h2.navLink a, div#navbar-menus span.inDept li.navLevel-2 h2.navLink a {background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V192252314_.gif);}
  </style>
         
 
 <div id="navbar">
 
- 
+
+
+
+
 <div id="navbar-menus">
 <ul id="navbar-menuTabs">
 
@@ -499,16 +498,29 @@
 	
 	
 		
-		<span class="navbarTab">
+		<span id="globalNavTabWomens" class="navbarTab " style="width:170px">
                 
                 	
                 		
- 			            	<a href="/Womens-Shoes/b/213376031">
-				           	<h2 class="navLink">Women's Shoes</h2>
-			            	</a>
-		            	
+                			<h2 class="navLink">
+								
+								   
+								   
+										<a href="/Womens-Shoes/b/213376031">
+								   
+								
+								Women's Shoes
+								</a>
+							</h2>
+							
 			            	
-                                  <ul class="navDropdown">
+			            		
+			            			
+                                  		<ul class="navDropdown navDropdownRight">
+                                	
+                                	
+                                	
+                                
                                             		
                 		
                 		
@@ -519,10 +531,19 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-				           		<h2 class="navLink">Shop by Category:</h2>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		
+	                      			<h2 class="navSubHeading">
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Category:
+					           		
+	                            
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -535,20 +556,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/Womens-Shoes-Athletic-Outdoor/b/216985031">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Athletic &amp; Outdoor</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/Womens-Shoes-Athletic-Outdoor/b/216985031">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Athletic &amp; Outdoor
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -561,27 +590,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Womens-Shoes-Boots/s?node=217028031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Boots</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Womens-Shoes-Boots/s?node=217028031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Boots
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -594,27 +631,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Womens-Shoes-Fashion-Trainers/s?node=217059031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Fashion Trainers</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Womens-Shoes-Fashion-Trainers/s?node=217059031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Fashion Trainers
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -627,27 +672,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Womens-Shoes-Flats/s?node=217067031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Flats</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Womens-Shoes-Flats/s?node=217067031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Flats
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -660,27 +713,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Womens-Shoes-Heels/s?node=217089031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Heels</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Womens-Shoes-Heels/s?node=217089031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Heels
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -693,27 +754,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Womens-Shoes-Sandals/s?node=217103031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Sandals</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Womens-Shoes-Sandals/s?node=217103031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Sandals
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -726,27 +795,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Womens-Shoes/s?node=213376031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">More...</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Womens-Shoes/s?node=213376031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			More...
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -759,20 +836,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/landingpage/brandwomen">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Shop by Brand</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/landingpage/brandwomen">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Brand
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -785,20 +870,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/landingpage/sizewomen">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Shop by Size</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/landingpage/sizewomen">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Size
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -815,16 +908,29 @@
 		
 	
 		
-		<span class="navbarTab">
+		<span id="globalNavTabMens" class="navbarTab " style="width:170px">
                 
                 	
                 		
- 			            	<a href="/Mens-Shoes/b/213377031">
-				           	<h2 class="navLink">Men's Shoes</h2>
-			            	</a>
-		            	
+                			<h2 class="navLink">
+								
+								   
+								   
+										<a href="/Mens-Shoes/b/213377031">
+								   
+								
+								Men's Shoes
+								</a>
+							</h2>
+							
 			            	
-                                  <ul class="navDropdown">
+			            		
+			            			
+                                  		<ul class="navDropdown navDropdownRight">
+                                	
+                                	
+                                	
+                                
                                             		
                 		
                 		
@@ -835,10 +941,19 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-				           		<h2 class="navLink">Shop by Category:</h2>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		
+	                      			<h2 class="navSubHeading">
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Category:
+					           		
+	                            
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -851,20 +966,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/Mens-Shoes-Athletic-Outdoor/b/216883031">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Athletic &amp; Outdoor</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/Mens-Shoes-Athletic-Outdoor/b/216883031">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Athletic &amp; Outdoor
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -877,27 +1000,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Mens-Shoes-Boots/s?node=216927031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Boots</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Mens-Shoes-Boots/s?node=216927031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Boots
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -910,27 +1041,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Mens-Shoes-Fashion-Trainers/s?node=216942031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Fashion Trainers</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Mens-Shoes-Fashion-Trainers/s?node=216942031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Fashion Trainers
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -943,27 +1082,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Mens-Shoes-Formal/s?node=216946031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Formal</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Mens-Shoes-Formal/s?node=216946031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Formal
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -976,27 +1123,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Mens-Shoes-Lace-Ups/s?node=216947031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Lace-ups</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Mens-Shoes-Lace-Ups/s?node=216947031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Lace-ups
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1009,27 +1164,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Mens-Shoes-Sandals/s?node=216961031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Sandals</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Mens-Shoes-Sandals/s?node=216961031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Sandals
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1042,27 +1205,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Mens-Shoes/s?node=213377031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">More...</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Mens-Shoes/s?node=213377031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			More...
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1075,20 +1246,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/landingpage/brandmen">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Shop by Brand</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/landingpage/brandmen">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Brand
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1101,20 +1280,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/landingpage/sizemen">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Shop by Size</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/landingpage/sizemen">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Size
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1131,16 +1318,29 @@
 		
 	
 		
-		<span class="navbarTab">
+		<span id="globalNavTabKids" class="navbarTab " style="width:170px">
                 
                 	
                 		
- 			            	<a href="/Childrens-Shoes/b/213378031">
-				           	<h2 class="navLink">Kids' Shoes</h2>
-			            	</a>
-		            	
+                			<h2 class="navLink">
+								
+								   
+								   
+										<a href="/Childrens-Shoes/b/213378031">
+								   
+								
+								Kids' Shoes
+								</a>
+							</h2>
+							
 			            	
-                                  <ul class="navDropdown">
+			            		
+			            			
+                                  		<ul class="navDropdown navDropdownRight">
+                                	
+                                	
+                                	
+                                
                                             		
                 		
                 		
@@ -1151,27 +1351,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Childrens-Shoes-Girls/s?node=216823031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Girls' Shoes:</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Childrens-Shoes-Girls/s?node=216823031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Girls' Shoes:
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1184,27 +1392,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Childrens-Shoes-Girls-Infant-Toddler/s?node=216824031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Infant &amp; Toddler</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Childrens-Shoes-Girls-Infant-Toddler/s?node=216824031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Infant &amp; Toddler
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1217,27 +1433,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Childrens-Shoes-Girls-Junior-Youth/s?node=216842031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Junior &amp; Youth</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Childrens-Shoes-Girls-Junior-Youth/s?node=216842031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Junior &amp; Youth
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1250,27 +1474,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Childrens-Shoes-Boys/s?node=216765031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Boys' Shoes:</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Childrens-Shoes-Boys/s?node=216765031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Boys' Shoes:
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1283,27 +1515,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Childrens-Shoes-Boys-Infant-Toddler/s?node=216766031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Infant &amp; Toddler</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Childrens-Shoes-Boys-Infant-Toddler/s?node=216766031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Infant &amp; Toddler
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1316,27 +1556,35 @@
                 		
                 		
                 		
-                		    <li class="navLevel-2">
-                      		
-                                
-                                   
-                                   	  
-                                   	    
-
-                                   	    
-                                   	    
-			                	           <a href="/Childrens-Shoes-Boys-Junior-Youth/s?node=216784031">
-										
-								      
-                                   
-                                   
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Junior &amp; Youth</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-2">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   	  
+	                                   	    
+	
+	                                   	    
+	                                   	    
+				                	           <a href="/Childrens-Shoes-Boys-Junior-Youth/s?node=216784031">
+											
+									      
+	                                   
+	                                   
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Junior &amp; Youth
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1349,20 +1597,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/landingpage/brandkid">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Shop by Brand</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/landingpage/brandkid">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Brand
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1375,20 +1631,28 @@
                 		
                 		
                 		
-                		    <li class="navLevel-1">
-                      		
-                                
-                                   
-                                   
-                                   
-			                	      <a href="/landingpage/sizekid">
-                                   
-                                
-                      		
-				           		<h2 class="navLink">Shop by Size</h2>
-                      		
-			               		</a>
-                      		
+                		    <li class="navLevel-1">                		    
+	                      		
+	                      		    <h2 class="navLink">
+	                                
+	                                   
+	                                   
+	                                   
+				                	      <a href="/landingpage/sizekid">
+	                                   
+	                                
+	                      		
+	                      		
+	                      		
+	                      			
+					           		
+					           			Shop by Size
+					           		
+	                            
+	                      		
+				               		</a>
+	                      		
+                      		</h2>
                       	    
                            	</li>
                       	    
@@ -1405,14 +1669,21 @@
 		
 	
 		
-		<span class="navbarTab">
+		<span id="globalNavTabBags" class="navbarTab " style="width:170px">
                 
                 	
                 		
- 			            	<a href="/Bags-Accessories/b/217548031">
-				           	<h2 class="navLink">Bags &amp; Accessories</h2>
-			            	</a>
-		            	
+                			<h2 class="navLink">
+								
+								   
+								   
+										<a href="/Bags-Accessories/b/217548031">
+								   
+								
+								Bags &amp; Accessories
+								</a>
+							</h2>
+							
 			            	                		
                 		
                 		
@@ -1425,14 +1696,21 @@
 		
 	
 		
-		<span class="navbarTab">
+		<span id="globalNavTabSale" class="navbarTab " style="width:170px">
                 
                 	
                 		
- 			            	<a href="/Sale-Shoes-Handbags/b/sale">
-				           	<h2 class="navLink">Special Offers</h2>
-			            	</a>
-		            	
+                			<h2 class="navLink">
+								
+								   
+								   
+										<a href="/Sale-Shoes-Handbags/b/sale">
+								   
+								
+								Special Offers
+								</a>
+							</h2>
+							
 			            	                		
                 		
                 		
@@ -1447,15 +1725,22 @@
 
 
 
+
+
+
 <div style="display: none;">
 <div id="mDept">213373031</div>
 </div>
 
 
+<div id="navbar-divider"></div>
 
 
 <div id="navbar-search">
   	
+</div>
+
+
 </div>
 
 
@@ -1472,6 +1757,34 @@
 			jQuery(this).removeClass("over");
 			
 		});
+
+		
+		jQuery("#keywordSearchForm").submit(setKeywordContext);
+
+	});
+</script>
+
+
+<script type="text/javascript">
+	
+	var iss;
+	amznJQ.onReady("search-js-autocomplete", function(){			
+		iss = new AutoComplete();
+		var initDynamicSuggestionsParameters = {
+				searchBoxSelector: '#keyword',
+				formSelector: '#keywordSearchForm',
+				categoryDropDownSelector: '#kdept',
+				serviceHost: "completion.amazon.co.uk/search/complete",
+				marketplaceID: "35291",
+				imeEnabled: false,
+				supportedCategories: ['marketplace'],
+				suggestionsAvailableEventHandler: 'updateISSCompletion',
+				departmentText: 'in {department}',
+				suggestionsText: 'search suggestions',
+				enableSpellCorrection: true
+		};
+		iss.initDynamicSuggestions(initDynamicSuggestionsParameters);
+		window.updateISSCompletion = function(){iss.updateAutoCompletion();};
 	});
 </script>
 
@@ -1497,8 +1810,7 @@
 
     
         
-            <div id="helpContentTop"><img id="topLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_left_corner.gif"><img id="topRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_right_corner.gif"></div>
-<div id="helpContentRight">
+            <div id="helpContentRight">
 <div id="helpContentLeft">
 <div class="topic">Ordering on Javari.co.uk</div>
 <div class="subtopic">
@@ -1572,9 +1884,7 @@
 <li><a href="/help/200384890/">How to Get Answers to Your Questions?</a></li></div>
 <div class="subtopic">
 <li><a href="/help/200384890/">Report a Typo</a></li></div>
-<div class="morelink"><a href="/help/200384890/">More...</a></div></div><!-- end of helpContent --></div><!-- end of helpContentRight -->
-<div id="helpContentBottom"><img id="bottomLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/bottom_left_corner.gif"><img id="bottomRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/bottom_right_corner.gif"></div>
-<div></div>
+<div class="morelink"><a href="/help/200384890/">More...</a></div></div><!-- end of helpContent --></div><!-- end of helpContentRight --> 
         
     
 
@@ -1720,302 +2030,331 @@
 <div id="bottom-2"></div>
 <div id="bottom-3"></div>
 <div id="bottom-4"></div>
-<div id="bottom-5">
-
- 
-<!-- Begin Image requirements -->
-
-<!-- End Image requirements -->
-
-<script language="javascript">
-	registerString("email-signup-unavailable-try-again_55307", "Email signup is currently unavailable, please try again later.");
-	registerString("thanks-for-signing-up_55308", "Thank you for signing up, we'll be in touch!");
-	registerString("invalid-email-try-again_55306", "Invalid E-mail address. Please try again.");
-</script>
+</div> 
+</div> 
+</div> 
+<div id="footerSlot">
+	<div id="bottom-5">
 
 <div id="footer">
-<div class="footerCell">
+	
 
-
-
-
-
-
-<div class="footerCell3">
-
-  <div class="footerCellHead" id="footerCell3Head">
-    <h3>What Do You Think?</h3>
-  </div>
-
-  <div class="footerCellContent">
-
-    
-    
-       
-       
-         
-            <a href="https://www.javari.co.uk/contactus">
-         
-         
-       
-    
-
-    
-    
-
-	  
  
-      
-          
-          <span>
-          
-            
-            Do you have a suggestion or comment about Javari.co.uk?  <u>Let us know</u>.
-          
-          </span>
-      
 
+
+
+	<div class="footerCell">
+
+		
+
+		
+		<div class="footerCell3">
+			<div class="footerCellHead" id="footerCell3Head">
+				<h3>What Do You Think?</h3>
+			</div>
+			<div class="footerCellContent">
+				
+				
+					
+					
+						
+							<a href="https://www.javari.co.uk/contactus">
+						
+						
+					
+				
+
+				
+				
+					
+					
+						
+						<span>
+							
+								
+								Do you have a suggestion or comment about Javari.co.uk?  <u>Let us know</u>.
+							
+						</span>
+					
+				
     
+				
+				
+					</a>
+				
+			</div>
+		</div>
+
+		
+		<div class="footerCell2">
+			<div class="footerCellHead" id="footerCell2Head">
+				<h3>Javari.co.uk</h3>
+			</div>
+			<div class="footerCellContent">
+				
+				
+					
+					
+						
+							<a href="/help/200384820">
+						
+						
+					
+				
+
+				
+				
+					
+					
+						
+						<span>
+							
+								
+								
+									<font color="#993300">FREE</font> One-Day Delivery - <font color="#993300">FREE</font> Returns<br><font color="#993300">365</font>-Day Returns - <font color="#993300">100%</font> Price Guarantee
+								
+							
+						</span>
+					
+				
     
+				
+				
+					</a>
+				
+			</div>
+		</div>
+
+		
+		<div class="footerCell1">
+			<div class="footerCellHead" id="footerCell1Head">
+				<h3>Manage your email preferences</h3>
+			</div>
+			<div class="footerCellContent" id="footerCell1Content">
+				
+				
+					
+					
+						
+							<a href="https://www.javari.co.uk/emailpreference">
+						
+						
+					
+				
+
+				
+				
+					
+					
+						
+						<span>
+							
+								We’ll occasionally send you information about new arrivals and special offers. Click here to manage your email preferences.
+								
+							
+						</span>
+					
+				
     
-    
-      </a>
-    
-    
-    
-  </div>
+				
+				
+					</a>
+				
+			</div>
+		</div>
+	</div>
 
 </div>
 
 
 
 
-<div class="footerCell2">
 
-  <div class="footerCellHead" id="footerCell2Head">
-    <h3>Javari.co.uk</h3>
-  </div>
 
-  <div class="footerCellContent">
+<style type="text/css">
+div#footerVerticalSeparator {	
+	background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V192252314_.gif);
+}
+</style>
+<div id="footerLinksContainer">
 
-    
-    
-       
-       
-         
-            <a href="/help/200384820">
-         
-         
-       
-    
+	<div id="leftFooter">
+		
 
-    
-    
 
-	  
- 
-      
-          
-          <span>
-          
-            
-            <font color="#993300">FREE</font> One-Day Delivery - <font color="#993300">FREE</font> Returns<br><font color="#993300">365</font>-Day Returns - <font color="#993300">100%</font> Price Guarantee
-          
-          </span>
-      
 
-    
-    
-    
-    
-      </a>
-    
-    
-    
-  </div>
 
+<style>
+span#followFacebook, span#followTwitter {	
+    background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/dp_spriteFile_20100205._V192252292_.gif);
+}
+</style>
+<div class="footerHeader">join us...</div>
+<div class="followSiteRow">
+<a href="http://www.facebook.com/pages/Javaricouk/150778546463" target="_blank" class="followSiteLink"><span id="followFacebook"></span><span class="followSiteText">become a fan</span></a>
+</div>
+<div class="followSiteRow">
+<a href="http://twitter.com/Javari_UK" target="_blank" class="followSiteLink"><span id="followTwitter"></span><span class="followSiteText">follow us</span></a>
 </div>
 
+	</div>
+	<div id="footerVerticalSeparator">
+	</div>
+	<div id="rightFooter">
+		<div class="footerHeader">
+			all you'd ever need to know about javari is right here...
+		</div>
+		<span class="footerLinks" style="text-align:left;">
+			
 
 
 
-<div class="footerCell1">
+	<div class="footerLink">
+		<a href="/homepage">Home</a>
+	</div>
+	
+		
+	
 
-  <div class="footerCellHead" id="footerCell1Head">
-    <h3>Manage your email preferences</h3>
-  </div>
+	<div class="footerLink">
+		<a href="/help/200385730">Delivery</a>
+	</div>
+	
+		
+	
 
-  <div class="footerCellContent" id="footerCell1Content">
+	<div class="footerLink">
+		<a href="https://www.javari.co.uk/contactus">Contact Us</a>
+	</div>
+	
+		
+	
 
-    
-    
-       
-       
-         
-            <a href="https://www.javari.co.uk/emailpreference">
-         
-         
-       
-    
+	<div class="footerLink">
+		<a href="/f/giftcertificate">Gift Cards</a>
+	</div>
+	
+		
+	
 
-    
-    
+	<div class="footerLink">
+		<a href="/help/200385650">Conditions of Use</a>
+	</div>
+	
+		<br>
+	
 
-	  
- 
-      
-          
-          <span>We’ll occasionally send you information about new arrivals and special offers. Click here to manage your email preferences.</span>
-      
+	<div class="footerLink">
+		<a href="/help/200384910">Affiliates Program</a>
+	</div>
+	
+		
+	
 
-      
+	<div class="footerLink">
+		<a href="/youraccount">My Account</a>
+	</div>
+	
+		
+	
 
-    
-    
-    
-    
-      </a>
-    
-    
-    
-  </div>
+	<div class="footerLink">
+		<a href="/help/200384870">Returns</a>
+	</div>
+	
+		
+	
 
+	<div class="footerLink">
+		<a href="/help/200384800">Help</a>
+	</div>
+	
+		
+	
+
+	<div class="footerLink">
+		<a href="/help/200385680">Secure Shopping</a>
+	</div>
+	
+		<br>
+	
+
+	<div class="footerLink">
+		<a href="/help/200385710">Privacy Notice</a>
+	</div>
+	
+		
+	
+
+	<div class="footerLink">
+		<a href="https://www.javari.co.uk/vieworders">Order Status</a>
+	</div>
+	
+		
+	
+
+	<div class="footerLink">
+		<a href="/help/200385580">100% Price Guarantee</a>
+	</div>
+	
+		
+	
+
+	<div class="footerLink">
+		<a href="/help/200384900">About Us</a>
+	</div>
+	
+		
+	
+
+
+		</span>
+	</div>
+	
+    	
+	
+	<br style="clear: both;">
+	<span class="copyright">
+		
+
+
+	<div id="international_sites">
+		Shop our International Sites: 
+		
+			
+				
+			
+			
+			<a href="http://www.endless.com/ref=foot_intl_uk">endless.com</a>
+		
+			
+				 | 
+			
+			
+			<a href="http://www.javari.jp/ref=foot_intl_uk">javari.jp</a>
+		
+			
+				 | 
+			
+			
+			<a href="http://www.javari.fr/ref=foot_intl_uk">javari.fr</a>
+		
+	</div>
+
+	</span>
+	<br style="clear:both; line-height:0px;">
+	<span class="copyright">
+		
+
+
+© 2009 - 2010 Javari.co.uk or its affiliates. All rights reserved. Javari and the Javari logo are trademarks of Javari.co.uk or its affiliates.
+
+	</span>
+	<br style="clear: both;">
 </div>
-
-
 </div>
-</div>
-
-<span class="footerLinks">
-
-
- <a href="/homepage">Home</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/youraccount">My Account</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="https://www.javari.co.uk/vieworders">Order Status</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200385730">Delivery</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200384870">Returns</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200385580">100% Price Guarantee</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="https://www.javari.co.uk/contactus">Contact Us</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200384800">Help</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200384900">About Us</a>
- 
- 
-   
-   <br>
-   
- 
-   
-
- <a href="/help/200384910">Affiliates Program</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200385650">Conditions of Use</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200385680">Secure Shopping</a>
- 
- 
-   
-   
-    | 
- 
-   
-
- <a href="/help/200385710">Privacy Notice</a>
- 
- 
-   
-   
-   
- 
-   
-
-
-<br>
-
-<span class="copyright">© 2009 Javari.co.uk or its affiliates. All rights reserved. Javari and the Javari logo are trademarks of Javari.co.uk or its affiliates.</span></span>
-
 </div>
 </div> 
-</div> 
-</div> 
-</div>
 
 <!--[if IE]>
 </div>
@@ -2023,4 +2362,23 @@
 
 
 
-</div></body></html>
+<script type="text/javascript">
+
+    amznJQ.elementOnLoad(window,"EndlessScripts",function() {  
+        var ef1=document.createElement("iframe");
+        ef1.style.width="0px";
+        ef1.style.height="0px";
+        ef1.src="/emptypage";
+        document.body.appendChild(ef1);
+        
+        var ef2=document.createElement("iframe");
+        ef2.style.width="0px";
+        ef2.style.height="0px";
+        ef2.src="/emptypage";
+        document.body.appendChild(ef2);
+    });
+
+</script>
+
+
+</body></html>
