@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphoneworld.ca privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004605id_/http%3A//www.iphoneworld.ca/about-iphone-world/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneworld.ca privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206083714id_/http%3A//www.iphoneworld.ca/about-iphone-world/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone World
 
@@ -34,35 +34,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
-[blog comments powered by ](http://disqus.com/)
-
-## Latest iPhone Accessories from iPhoneWorld.ca store  
   
----  
-[](http://store.iphoneworld.ca/7853.html "Apple iPhone 3GS 3.5mm Audio Extension AUX Cable \(10 Feet\) \(Male to Male\)")  
-[Apple iPhone 3GS 3.5mm Audio Extension AUX Cable (10 Feet) (Male to Male)](http://store.iphoneworld.ca/7853.html "Apple iPhone 3GS 3.5mm Audio Extension AUX Cable \(10 Feet\) \(Male to Male\)")  
-$11.00 US|  [](http://store.iphoneworld.ca/7807.html "Apple iPhone 3G Premium Stereo EarBuds \(Black\)")  
-[Apple iPhone 3G Premium Stereo EarBuds (Black)](http://store.iphoneworld.ca/7807.html "Apple iPhone 3G Premium Stereo EarBuds \(Black\)")  
-$11.00 US|  [](http://store.iphoneworld.ca/7773.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Flower\) \(Purple\)")  
-[Apple iPhone 3GS Silicone Jelly Skin Case (Flower) (Purple)](http://store.iphoneworld.ca/7773.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Flower\) \(Purple\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7770.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Leaf Design\) \(Green\)")  
-[Apple iPhone 3GS Silicone Jelly Skin Case (Leaf Design) (Green)](http://store.iphoneworld.ca/7770.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Leaf Design\) \(Green\)")  
-$12.00 US  
-[](http://store.iphoneworld.ca/7769.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Flower\) \(Blue\)")  
-[Apple iPhone 3GS Silicone Jelly Skin Case (Flower) (Blue)](http://store.iphoneworld.ca/7769.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Flower\) \(Blue\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7767.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Leaf Design\) \(Black\)")  
-[Apple iPhone 3GS Silicone Jelly Skin Case (Leaf Design) (Black)](http://store.iphoneworld.ca/7767.html "Apple iPhone 3GS Silicone Jelly Skin Case \(Leaf Design\) \(Black\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7759.html "Apple iPhone 3G Crystal Silicone Skin Case \(Dog Paws\) \(White\)")  
-[Apple iPhone 3G Crystal Silicone Skin Case (Dog Paws) (White)](http://store.iphoneworld.ca/7759.html "Apple iPhone 3G Crystal Silicone Skin Case \(Dog Paws\) \(White\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7636.html "Apple iPhone 3G Plastic Diamond Glitter Case \(Hot Pink Checkers\) \(Clear\)")  
-[Apple iPhone 3G Plastic Diamond Glitter Case (Hot Pink Checkers) (Clear)](http://store.iphoneworld.ca/7636.html "Apple iPhone 3G Plastic Diamond Glitter Case \(Hot Pink Checkers\) \(Clear\)")  
-$15.00 US  
-[](http://store.iphoneworld.ca/7635.html "Apple iPhone 3G Crystal Silicone Skin Case \(Tiger\) \(Orange\)")  
-[Apple iPhone 3G Crystal Silicone Skin Case (Tiger) (Orange)](http://store.iphoneworld.ca/7635.html "Apple iPhone 3G Crystal Silicone Skin Case \(Tiger\) \(Orange\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7634.html "Apple iPhone 3G Crystal Silicone Skin Case \(Dog Paws\) \(Hot Pink\)")  
-[Apple iPhone 3G Crystal Silicone Skin Case (Dog Paws) (Hot Pink)](http://store.iphoneworld.ca/7634.html "Apple iPhone 3G Crystal Silicone Skin Case \(Dog Paws\) \(Hot Pink\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7613.html "Apple iPhone 3GS Crystal Silicone Skin Case \(Flower\) \(Clear\)")  
-[Apple iPhone 3GS Crystal Silicone Skin Case (Flower) (Clear)](http://store.iphoneworld.ca/7613.html "Apple iPhone 3GS Crystal Silicone Skin Case \(Flower\) \(Clear\)")  
-$12.00 US|  [](http://store.iphoneworld.ca/7485.html "Apple iPhone 3GS Retractable Stereo 3.5mm Headphones \(Black\)")  
-[Apple iPhone 3GS Retractable Stereo 3.5mm Headphones (Black)](http://store.iphoneworld.ca/7485.html "Apple iPhone 3GS Retractable Stereo 3.5mm Headphones \(Black\)")  
-$12.00 US
+  
+  
+
+
+Sign up to receive latest iPhone World news and updates via e-mail, [RSS](http://feed.iphoneworld.ca/IphoneWorld "RSS"), [Twitter](http://twitter.com/iPhoneWorld "Twitter") or [Facebook](http://www.facebook.com/iPhoneWorld.ca "Facebook")!
