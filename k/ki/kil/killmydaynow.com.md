@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the killmydaynow.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425070957id_/http%3A//www.killmydaynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killmydaynow.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206103310id_/http%3A//www.killmydaynow.com/privacy) for the most accurate reproduction.*
 
-# Privacy :: Kill My Day Now
-
-## Privacy
+# Privacy | KillMyDay Now
 
 **Privacy Policy for KillMyDayNow.com**
 
