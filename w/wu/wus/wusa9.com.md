@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607215626id_/http%3A//www.wusa9.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206083744id_/http%3A//www.wusa9.com/privacy) for the most accurate reproduction.*
 
 # wusa9.com | Washington, DC | Privacy Policy
 
