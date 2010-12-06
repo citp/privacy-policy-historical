@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sytes.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613120542id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sytes.net privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206115023id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP™ - Privacy Policy
 
@@ -68,7 +68,7 @@ Vitalwerks Internet Solutions, LLC
 c/o No-IP.com  
 100 Washington St. Suite 250.  
 Reno, NV 89503  
-info@no-ip.com  
+info @ no-ip.com  
 775-853-1883 phone   
 775-853-1883 fax   
 
