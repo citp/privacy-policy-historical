@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606215850id_/http%3A//www.amarchitrakatha.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206083223id_/http%3A//amarchitrakatha.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Amar Chitra Katha
+# Privacy Policy | Amar Chitra Katha: Indian Stories for Children - Books, Comics, DVDs and more
 
 Amar Chitra Katha Pvt. Ltd. respects your privacy. This privacy policy provides a clear description of the data gathered and used by us. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at our websites [www.ack-media.com](http://www.ack-media.com/ "www.ack-media.com"), [www.amarchitrakatha.com](http://www.amarchitrakatha.com/ "www.amarchitrakatha.com") and [www.tinkleonline.com](http://www.tinkleonline.com/ "www.tinkleonline.com"). By accessing the services provided by Amar Chitra Katha Pvt. Ltd. you agree to the collection and use of your data by Amar Chitra Katha Pvt. Ltd. in the manner provided in this Privacy Policy.
 
