@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyourarticles.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113202314id_/http%3A//www.readyourarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyourarticles.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206011647id_/http%3A//www.readyourarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Read your articles | Privacy Statement
 
