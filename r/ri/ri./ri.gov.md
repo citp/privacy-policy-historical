@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630201838id_/http%3A//www.ri.gov/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206210446id_/http%3A//www.ri.gov/policies/privacy.php) for the most accurate reproduction.*
 
 # RI.gov : Rhode Island Government : Privacy Policy
 
