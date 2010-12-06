@@ -1,51 +1,47 @@
-> *The following text is extracted and transformed from the gohastings.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517123952id_/http%3A//www.gohastings.com/Help/newuser/safeshopping.stm%23safeprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohastings.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206061505id_/http%3A//www.gohastings.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# GoHastings.com
+# Privacy and Security - goHastings
 
-|  |   |  | **Safe Shopping**  
----  
-  
-  
-  
-  * Safe Shopping Guarantee
-  * Gohastings Privacy Policy
-  * Mailings
-  * Your Bill of Rights
+Privacy and Security Policy
 
-  
-  
-  
-**Safe Shopping Guarantee**  
-We understand that you may have concerns about using your credit card to make purchases online, and we pledge to keep this information secure. By utilizing Secure Socket Layers (SSL) encryption technology, we are able to keep your personal information safe.
+**Assurance of Privacy and private information given:**  
+Hastings Entertainment does not sell or rent your personal information to any partner or business or private entity of any form.  Our Privacy Policy was last updated October 20th, 2010.  Please check back upon each visit to stay current with any changes or revisions of our Privacy Policy.  Any updates will be noted at the end of this page.
 
-All of your Ordering information -- including your name, address, and credit card number \-- is encrypted using a secure server for maximum security. Your credit card and billing information cannot be read as it travels to our Ordering system. To ensure that your information is even more secure, after we receive your credit card information, we store it on a server that is not accessible by the Internet. Keep in mind, though, that in the unfortunate event that you are subject to fraudulent charges, you should first notify your credit card provider as stated in their reporting rules and guidelines.  
-  
-  
-Back to Top  
-**Gohastings Privacy Policy**  
-To provide you with the best service and products available, we need to collect information that distinguishes you from each of our other users. We collect this information in two ways. 
+**Order Transaction Process:**  
+As a part of our transaction process we do require a list of personal information such as name, mailing/billing address(s), contact information, email address, credit card relative information.  We may also ask for demographical information such as age, sex, personal interest and questions to better serve you but are not required to complete the transaction.  We also reserve the right to end any sell at any point in the process without any considerations.  Hastings reserves the right to cancel orders as it sees fit within its discretion.
 
-  * **Registration:** When you register with gohastings.com and log in, you provide us with information like your name, address, and e-mail address. This information is used for personalization, verification, shipping, and to make it easy for you to log in.
-  * **Cookies:** Another way we collect information that distinguishes your visit to our site is to give you a "cookie" when you enter. Cookies are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes. Gohastings.com uses cookies to make visiting our site easier for you. Leaving cookies on your computer allows us to save your passwords and preferences for you so that you won't have to re-enter them every time you visit our site. Another function of cookies is to temporarily store information while you are still at this site. The information they store includes quantities ordered, types of gift wrapping desired, messages to be sent with a gift, and a special address to which a gift is shipped. These temporary cookies expire when you close your browser.
+In order for us to transact your order we do authorize select third party partners to use your information only to perform the service(s) that we authorized them to perform to complete the transaction.  We only provide them with the information they need to fulfill their service and nothing more. They are required to abide by the terms of our Privacy Policy and take reasonable measures to ensure your personal information is secured.  Any violation of our partners using the information of any form without our or your consent should be reported immediately to webmaster@gohastings.com.  Listed below is where we may need to share information about you to complete your transaction:
 
-The use of cookies is now an industry standard, and you'll find them used on most major websites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you've received a cookie or to refuse to accept any cookies. You should understand that areas of certain sites will not function properly if you set your browser to not accept cookies.
+**What happens to your credit card information:**  
+Credit Card relative information is shared with the banks to complete the transaction you requested.  As required by law we must provide information requested through a court order, subpoena, or government investigation.  We also reserve the right to report what we believe, in good faith, to be unlawful action to law enforcement agencies.
 
-  * **Notification of Change to Privacy Policy:** Material changes to above mentioned privacy policy will be sent to subscribed members of gohastings.com via email as well as posted in this section. It is good practice to check periodically to ensure you are aware of any changes to the Privacy Policy in case an email was overlooked or inadvertently deleted.
+**Banks:**  
+We exchange information relevant to processing your requested transaction with 128-bit encryption secured lines of communication.  We only share the information your bank requires to complete the transaction.  You should realize no form of purchasing with credit cards are secured to the point of 100% and that there could be, however slight, inherent risks.  With that being stated we will be diligent to insure that your information is secured within reason as a valued customer of Hastings Entertainment.  Your credit information is also protected by (Fair Credit Billing Act).  See Credit Fraud to understand your rights and protection provided by the federal government and Hastings Entertainment.
 
+**Delivery Companies:**  
+We provided delivery companies only with relevant information to them performing their paid service(s).  This traditionally only contains your name, address and contact information.  This exchanged information is strictly for delivery purposes only and can not be used by our delivery partners for any other purposes other than what they are paid to perform.
 
+**Contest and/or Sweepstakes:**  
+From time to time we enlist the expertise of third party companies to assist us in facilitating contests and/or sweepstakes.  These third party experts are required to adhere to our Privacy Policy and not use your information for anything but that are deemed in the conditions of the contest and/or sweepstakes.  The standard information shared with these partners is name, address and contact information unless stated otherwise in the conditions.  This information is strictly for administrative purposes only and can not be used by our partners for any other purposes.
 
-**Last Policy Update 1/11/2005**  
-  
-Back to Top  
-**Mailings **  
-As a service to our customers, we periodically send newsletters and special offers to the email address provided during registration. When you register as a customer of gohastings.com, you will have the option to receive these mailings. You may always decline to receive these offers by unchecking this option during the registration process. In the event that you longer wish to receive the gohastings.com mailings, the option to unsubscribe will always be located in the newsletter.  
-  
-Back to Top  
-**Your Bill of Rights**  
-When browsing and purchasing from gohastings.com, you have certain inalienable rights. Hastings Internet, Inc. owns and operates gohastings.com , and wishes all users to know and understand these rights when purchasing from this website. First, you have the right to the privacy of any personal information you enter on this site. Gohastings.com does not sell, trade or rent your personal information to any third party, unless legally required to do so or under your consent. Gohastings.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information. Second, while you shop at gohastings.com, you will never have to worry about credit card safety. 
+**Site Data Collection:**  
+We collect site browsing and behavioral information through use of cookies and other information collecting “web beacons” or “click stream technology” that are automatically accepted by default of most browsers and are not harmful to your computer.  This information is anonymous and contains no private information and only collects information pertaining to your interaction of our site.  This information can be used by Hastings Entertainment to better understand the behaviors of our customers to improve site experience.
 
-We guarantee that every transaction you make at this site will be 100% safe. This means that you pay nothing if unauthorized charges are made to your card as a result of shopping at gohastings.com. In the unfortunate event that you lose a credit card and are subject to fraudulent charges, remember to first notify your credit card provider, as stated in their reporting rules and guidelines. In general, under federal law (the Fair Credit Billing Act), you will never be liable for more than $50 of fraudulent charges. If, for whatever reason, you are held responsible for this amount, gohastings.com will cover the liability for you, up to $50, as long as the unauthorized use of your credit card resulted through no fault of your own, from purchases made from gohastings.com while using our secure server. Third, regarding shipping charges when you are returning misshipped products, Hastings Internet, Inc. will assume responsibility if, through our mistake, we shipped a wrong or defective product to you. However, if you ordered a product item thinking it was something different, and gohastings.com sends it to you in good faith, you will be responsible for the shipping costs of returning it.  
-  
-  
-Back to Top  
- 
+We do, from time to time, share this anonymous information with business partners that we enlist to assist us in providing a better customer experience when shopping or browsing our website.  This information is strictly for administrative and analytical purposes only and can not be used by our partners for any other purposes that we do not deem acceptable.
+
+**Behavioral Targeting**  
+We use ValueClick to serve advertisements about our company across the web. ValueClick uses tracking technologies to collect anonymous data about web users who view or interact with advertisements. We do not provide any personal information about our website visitors to ValueClick, but ValueClick might collect non-personally identifiable information about you like an anonymous cookie ID, the specific ad that you viewed, the time and place of such viewing, and whether you ended up buying something on our website.
+
+ValueClick uses tracking technologies such as cookies and action tags when serving ads. These commonly used technologies are used for auditing, research and reporting purposes. These cookies and action tags are subject to ValueClick’s privacy policy, which is available at http://www.valueclickmedia.com/webuser_privacy.shtml. If you prefer not to accept cookies for behavioral marketing purposes, you can opt out by visiting the following website: http://www.networkadvertising.org/managing/opt_out.asp.
+
+**Fraud Commitment:**  
+Your personal information is secured and protected both in our commitment to you, our customer, and under the (Fair Credit Billing Act), which states that you are not responsible for fraudulent charges over $50.  As an act of goodwill Hastings Entertainment will cover your $50 for purchases made on www.gohastings.com through credit fraud.  We take security and our customer very seriously.
+
+**Shipping**  
+[Click Here for Shipping Information](https://web.archive.org/custserv/custserv.jsp?pageName=Shipping)
+
+**Electronic Emails and Marketing:**  
+All email and marketing communications are strictly voluntary.  It is also your responsibility to communicate with us if you wish to change the status of our voluntary communications.  If you wish to opt-out of our communications please email [Service@goHastings.com](mailto:Service@goHastings.com).  Please allow up to 2 weeks for processing of your request.  If you wish to start subscribing to communications please send us an email at [Service@goHastings.com](mailto:Service@goHastings.com).  Upon placing any order or entering any type of contests and/or sweepstakes with us, the default for subscribing to our communications is set to yes for your convenence.  If you do not wish to subscribe please unselect the box or if you wish please email [Service@goHastings.com](mailto:Service@goHastings.com).
+
+**Children:**  
+Our site is an open platform to any customer or audience type, with that being stated, we do not intentionally direct its use to children under the age of 13 years of age.  We required that any child under the age of 13 get verifiable parental consent.  Any information received of a personal matter will be deleted from our files without parental consent.  As the web is an anonymously based purchasing vehicle that relies on the “good faith” of its customers, it is your responsibility to inform us of any violations within 48 hours of gaining knowledge so that we can take appropriate actions dictated above within a responsible timeframe.
