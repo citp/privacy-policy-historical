@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungimaging.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513165504id_/http%3A//www.samsungimaging.com/support/rules.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungimaging.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206060321id_/http%3A//www.samsungimaging.com/support/rules.do) for the most accurate reproduction.*
 
 # Privacy Policy - SamsungImaging | Samsung camera
 
