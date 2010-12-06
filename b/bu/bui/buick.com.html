@@ -1,18 +1,25 @@
-<!--The following is the downloaded HTML source of the buick.com privacy policy that was archived on 2007-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071231093744id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buick.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206195524id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
-    
-		<title></title>
+		
+		
+					
+
+<title></title>
   
-			
-		 
+				
+					
+
+ 
 
   
-			
+				
+	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<style type="text/css">
+			@import url('/css/gContentContainer.css');
 			@import url('/css/gSite.css');
 			@import url('/css/gTopnav.css');
 			@import url('/css/gFooter.css');
@@ -26,7 +33,6 @@
 
 	<!--[if lt IE 7]>
 		<link rel="stylesheet" type="text/css" href="/css/gTopnav_ie.css" />
-		<link rel="stylesheet" type="text/css" href="/css/gFooter_ie.css" />
 		<link rel="stylesheet" type="text/css" href="/css/cLeftNav_ie.css" />
 		
 	
@@ -40,396 +46,580 @@
 		  document.execCommand("BackgroundImageCache", false, true);
 		} catch(err) {}
 	</script>
+	<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/js/gSite.js"></script>
 	<script type="text/javascript" src="/js/lib_sifr.js"></script>
 	<script type="text/javascript" src="/js/gworldwidedata.js"></script>
 	<script type="text/javascript" src="/js/mootools.js"></script>
 	<script type="text/javascript" src="/js/gPopulateMenu.js"></script>
 	<script type="text/javascript" src="/js/gScroll.js"></script>
+	<script type="text/javascript" src="/js/iperceptionsurvey.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function (){
+			iPreceptionSurvey( "/privacy/index.jsp" );
+		});
+	</script>
+	
+	<script src="/js/jquery.scrollTo-min.js"></script>
+	<script src="/js/jquery.mousewheel.min.js"></script>
 	
 </head>
 <body>
-	<div id="gSite">
-		<div id="gWrapper">
-			<div id="gTopnav">
-				
-<div class="clearfix" style="z-index:8000000">
+	<div id="gTopnav">
+		
+
+
+
+<script type="text/javascript">
+
+	function build( loc, val, id ){
+		loc.append( '<li><a id=' + id + ' href="javascript:void();" >' + val + '</a></li>' );
+	}
+
+	function build_target( loc, val, url, onclick ){
+		var target = '_blank';
+		if( url.search( /gm\.com\/?[^.]?/ ) != -1 ){
+			target = '_top';
+		}
+		loc.append( '<li><a href="' + url + '"  target="' + target + '" onclick="' + onclick + '" >' + val + '</a></li>' );
+	}
+
+	
+	function buildContinent( loc ){
+		loc = jQuery( loc );
+		loc.append( "<div class=title>GM Worldwide</div>" );
+		loc.append( "<ul id='1' class='white'></ul>" );
+		loc2 = loc.children( '.white' );
+		for (var continent in worldwide){
+			//This is required because the data is diffrent for this node
+			if( continent == "america") {
+				for(var americaPart in worldwide[continent]){
+					if(americaPart!="name"){
+						build( loc2, worldwide[continent][americaPart].name.value, americaPart );
+						jQuery( '#' + americaPart ).click( function(){
+							buildFromNeedle( this.id, loc, this );
+						});
+					}
+				}
+			} else {
+				build( loc2, worldwide[continent].name.value, continent );
+				jQuery( '#' + continent ).click( function(){
+					buildFromNeedle( this.id, loc, this );
+				});
+			}
+		}
+	}
+	function buildFromNeedle( needle, loc, clicked ){
+		loc = jQuery( loc );
+		while( jQuery( clicked ).parent().parent().next().length > 0 ){
+			jQuery( clicked ).parent().parent().next().remove();
+		}
+		jQuery( clicked ).parent().parent().children().each( function(){
+			jQuery( this ).children().css({ color: 'white' });
+		});
+		jQuery( clicked ).css({ color: '#00b1e9' });
+		loc.append( "<ul class='white' id='" + ( loc.children().length + 1 ) + "'></ul>" );
+		loc2 = loc.children( '#'+ ( loc.children().length ) + '.white' );
+		for( var hay_lvl1 in worldwide ){
+			if( hay_lvl1 == needle ){
+				for( var hay_lvl2 in worldwide[hay_lvl1] ){
+					if( hay_lvl2 != "name" ){
+						build( loc2, worldwide[hay_lvl1][hay_lvl2].name.value, hay_lvl2 );
+						jQuery( '#' + hay_lvl2 ).click( function(){
+							buildFromNeedle( this.id, loc, this );
+						});
+					}
+				}
+				return;
+			} else {
+				for( var hay_lvl2 in worldwide[hay_lvl1] ){
+					if( hay_lvl2 == needle ){
+						for( var hay_lvl3 in worldwide[hay_lvl1][hay_lvl2] ){
+							if( hay_lvl3 != "name" && hay_lvl3 != "sites" ){
+								build( loc2, worldwide[hay_lvl1][hay_lvl2][hay_lvl3].name.value, hay_lvl3 );
+								jQuery( '#' + hay_lvl3 ).click( function(){
+									buildFromNeedle( this.id, loc, this );
+								});
+							} else if( hay_lvl3 == "sites" ){
+								for( var hay_lvl4 in worldwide[hay_lvl1][hay_lvl2][hay_lvl3] ){
+									if( typeof( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4] ) == "object" ){
+										if( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].display ){
+											build_target( 
+												loc2, 
+												worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].display,
+												worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].url,
+												"clickTrack({ pe: 'lnk_e', pev1: '" + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4].url + "', pev2: 'HOMEPAGE | TNAV | GM WORLDWIDE', s_linkName: 'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "', s_prop5:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "'},'true');" 
+											)
+										}
+									}
+								}
+							}
+						}
+						return;
+					} else {
+						for( var hay_lvl3 in worldwide[hay_lvl1][hay_lvl2] ){
+							if( hay_lvl3 == needle ){
+								for( var hay_lvl4 in worldwide[hay_lvl1][hay_lvl2][hay_lvl3] ){
+									if( hay_lvl4 == "sites" ){
+										for( var hay_lvl5 in worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4] ){
+											if( typeof( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5] ) == "object" ){
+												if( worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display ){
+													build_target( 
+														loc2, 
+														worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display,
+														worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].url,
+														"clickTrack({ pe: 'lnk_e', pev1: '" + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].url + "', pev2: 'HOMEPAGE | TNAV | GM WORLDWIDE', s_linkName: 'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "', s_prop5:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + "'},'true');" 
+														//"clickTrack({s_linkName:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + " | " + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display.toUpperCase() + "', s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL | HOMEPAGE', s_prop5:'HOMEPAGE | TNAV | GM WORLDWIDE | " + needle.toUpperCase() + " | " + worldwide[hay_lvl1][hay_lvl2][hay_lvl3][hay_lvl4][hay_lvl5].display.toUpperCase() + "'},'true');" 
+													)
+												}
+											}
+										}
+									}
+								}
+								return;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	function blackFillResize( timeout ){
+		var width = 0,
+			blackFillWidth = jQuery( 'div#blackFill' ).width(),
+			windowWidth = jQuery( window ).width();
+		jQuery( 'a#gGMLogo, div#gNewsConversations, div#gVehiclesInnovations, div#gCompanyInvestors, div#gNavs form, div#gAllGMSites' ).each( function(){
+			width = width + jQuery( this ).outerWidth( true );
+		});
+		//in ie7 the header is fix width this put the black fill to the right
+		if( jQuery( '#gTopnav' ).outerWidth() - jQuery( '#gNavs' ).outerWidth() > 0 ){
+			jQuery( 'div#gNavs' ).before( jQuery( 'div#blackFill' ));
+		}
+
+		if( windowWidth - width > 0 && blackFillWidth != windowWidth - width ){
+			jQuery( 'div#blackFill' ).show().css({ width: windowWidth - width + 'px' });
+		} else if( windowWidth - width <= 0 ) {
+			jQuery( 'div#blackFill' ).hide();
+		}
+		if( timeout ){
+			setTimeout( 'blackFillResize( true )', 100 );
+		}
+	}
+	
+	jQuery( document ).ready( function(){
+		//blackFillResize();
+		setTimeout( 'blackFillResize( true )', 100 );
+
+		jQuery( window ).resize( function() {
+			blackFillResize();
+		});
+
+		jQuery( "form#search input" ).focus( function(){
+			jQuery( this ).attr( 'value', "" );
+			jQuery( this ).unbind( 'focus' );
+		});
+		jQuery( '#gTopnav > .clearfix' ).children( 'div.withDropDown' ).each( function(){
+			jQuery( this ).children( '.dropDown' ).css({ height: 0 });
+			jQuery( this ).hover( 
+				function() {
+					var count = jQuery( this ).children( '.dropDown' ).children().size(),
+						height = count * 24 + 10,
+						speed = count * 50;
+					jQuery( this ).children( '.dropDown' ).clearQueue();
+					jQuery( this ).children( '.dropDown' ).stop();
+					jQuery( this ).children( '.dropDown' ).show().animate({ height: height }, speed );
+				},
+				function() {
+					var count = jQuery( this ).children( '.dropDown' ).children().size(),
+						height = count * 24,
+						speed = count * 50;
+					jQuery( this ).children( '.dropDown' ).clearQueue();
+					jQuery( this ).children( '.dropDown' ).stop();
+					jQuery( this ).children( '.dropDown' ).animate({ height: 0 }, speed, function(){ jQuery( this ).hide() });
+				}
+			);
+		});
+
+		jQuery( '#gAllGMSites .topNavSpacer' ).click( function(){
+			if( jQuery( '#offClick' ).length ){
+				jQuery( '#offClick' ).trigger( 'click' );
+			} else {
+				buildContinent( jQuery( '#gGMWorldwide' ));
+				jQuery( '#gAllGMSites' ).addClass( 'active' );
+				jQuery( '#gAllGMSitesCont' ).toggle();
+				jQuery( '#gTopnav' ).after( '<div id=offClick>&nbsp;</div>' );
+				jQuery( '#offClick' ).css({ height: '100%' }).click( function(){ 
+					jQuery( '#gAllGMSites' ).removeClass( 'active' );
+					jQuery( '#gAllGMSitesCont' ).hide();
+					jQuery( 'div#gGMWorldwide div.title' ).remove();
+					jQuery( '.white' ).remove();
+					jQuery( '#offClick' ).remove();
+				});
+			}
+		});
+		jQuery( '#gAllGMSitesClose' ).click( function(){
+			jQuery( '#offClick' ).trigger( 'click' );
+		});
+	});
+</script>
+<div id="gNavs" class="clearfix">
 	<a id="gGMLogo" href="/" target="_top"><span>GM Homepage</span></a>
-	<div id="gNavs" class="clearfix">
-		<div id="gGlobalNav" class="clearfix">
-			<form action="/search/" name="google" target="_top">
-				<div class="clearfix">
-					<a id="gSearch" onclick="document.google.submit();return false;" href="/search/?" target="_top"><span>Search</span></a>
-					<input type="text" name="q" value="">
-				</div>
-				<p>Powered by Google</p>
-			</form>
-			<ul class="clearfix">
-				<li><a target="_top" href="/corporate/about/news/index.jsp?deep=press" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | NEWS', s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL | HOMEPAGE', s_prop5:'NEWS', s_prop11:'HOMEPAGE | NEWS', s_prop12:'GENERAL  | HOMEPAGE | NEWS'})">News</a></li>
-				<li><a target="_top" href="/corporate/employees/retirees/">Retirees</a></li>
-				<li><a target="_top" href="https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | OWNER CENTER | MY GM LINK', s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | OWNER CENTER | MY GM LINK'})">Owners</a></li>
-				<li><a target="_top" href="/corporate/investor_information/">Investors</a></li>
-				<li><a target="_top" href="/corporate/careers/">Careers</a></li>
-				<li class="last"><a target="_top" href="/">Home</a></li>
-			</ul>
-		</div>
-	<div id="gMainNav" class="clearfix">
-		<div id="gWorldNav">
-			<div id="gGMWorldwide">
-					<a id="gWorldButton" class="gMainButton" onclick="return dropdownmenuWW(this, event)" onmouseout="delayhidemenuWW()"><span>GM Worlwide</span></a>
-					<iframe id="gGMWorldWideIFrame">
-					</iframe>
-					<div id="cont" style="display:none;" onmouseover="clearhidemenuWW()" onmouseout="delayhidemenuWW()">
-						<div id="continent" class="continents">
-							<div id="contnames">
-							</div>
-						</div>
-							<div id="scrollbar1">
-								 <div id="track1">
-								 	<div id="dragBar1">
-									</div>
-								 </div>
-							 </div>
-							 <div id="underDiv">
-							 </div>
-							 <div id="wn1">
-							 	<div id="lyr1">
-									<div id="countries">
-									</div>
-								</div>
-							 </div> 
-							 <div id="contbrands">	
-				 				<div id="brands">
-								</div>
-							 </div>
-					</div>
-			</div>
-		</div>	
-		<div id="gAllNav">
-			<div id="gAllGMSites">
-				<iframe id="gAllGMSitesIFrame"></iframe>
-				<a class="gMainButton" onclick="return dropdownmenuAllGM(this, event);" onmouseout="delayhidemenuAllGM();"><span>All GM Sites</span></a>
-				<div id="gmSitesCont" style="display:none;" onmouseover="clearhidemenuAllGM();" onmouseout="delayhidemenuAllGM()">
-					<div id="gmAuto">
-						<p><strong>GM Auto Brands</strong></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.buick.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Buick</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.cadillac.com/index.jsp?noredirect=true" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Cadillac</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.chevrolet.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Chevrolet</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmc.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GMC</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmdaewoo.co.kr/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Daewoo</a></p>						
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.holden.com.au/www-holden/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Holden</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.hummer.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">HUMMER</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.oldsmobile.com/olds/heritage/index.html" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Oldsmobile</a></p>					
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.opel.com/flash.html" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Opel</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.pontiac.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Pontiac</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.saab.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Saab</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.saturn.com/saturn/SaturnIndex.jsp" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Saturn</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.vauxhall.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Vauxhall</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmcertified.com" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Certified Used Vehicles</a></p>		
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmfleet.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">Fleet &amp; Commercial</a></p>												
-					</div>
-					<div id="gmProductsServices">
-						<p><strong>GM Products &amp; Services</strong></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.acdelco.com/index.jsp" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">ACDelco</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a target="_top" href="/shop/services/gmac.jsp" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GMAC</a></p>	
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmcardmemberservices.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Cardmember Services</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmgoodwrench.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Goodwrench</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a target="_top" href="/shop/services/gm_mobility/" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Mobility</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.goodwrench.com/PartsAccessories/index.jsp" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Parts &amp; Accessories</a></p>	
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmperformancedivision.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Performance Division</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.gmperformanceparts.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Performance Parts</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="/explore/technology/gmpowertrain/" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Powertrain</a></p>						
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://tunersource.gmblogs.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">GM Tuner Source</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="http://www.onstar.com/" target="_blank" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()})">OnStar</a></p>
-						<p onmouseover="toggleUnderline(this, 1)" onmouseout="toggleUnderline(this, 0)" onclick="hidemenuAllGM2();"><a href="/shop/services/xmradio" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop1:'GENERAL', s_prop2:'HOMEPAGE', s_prop3:'GENERAL  | HOMEPAGE', s_prop5:'GM | HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()}); popUpWindow('/shop/services/xmradio/','xmradio','width=765,height=560,scrollbars=yes');return false;">XM Radio</a></p>
-					</div>		
-					</div>
-			</div>
+	<div id="gNewsConversations" class="withDropDown">
+		<span>News &amp; Conversations</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div class="dropDown" style="height: 0px;">
+			<div><a href="http://www.gmheadlines.com/?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_OurC" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | OUR COMMUNITY', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | OUR COMMUNITY'},'true');">Our Community</a></div>
+			<div><a href="http://www.gmheadlines.com/past-updates?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_ProgR" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | PROGRESS REPORTS', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | PROGRESS REPORTS'},'true');">Updates</a></div>
+			<div><a href="http://www.gmheadlines.com/conversations-chats?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_Conv" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | CONVERSATIONS', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | CONVERSATIONS'},'true');">Conversations</a></div>
+			<div><a href="http://www.gmheadlines.com/videos?brandId=gm&amp;src=gm_com&amp;evar24=gm_com_homepage_rolloverimage_Vid" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | VIDEOS', s_prop5:'HOMEPAGE | NON-FLASH | NEWS &amp; CONVERSATION | VIDEOS'},'true');">Videos</a></div>
 		</div>
 	</div>
-</div>
-</div>
+	<div id="gVehiclesInnovations" class="withDropDown ">
+		<span>Vehicles &amp; Innovations</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div class="dropDown" style="height: 0px;">
+			<div><a href="/vehicles/?evar10=homepage_vehicles_link" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | GM VEHICLES HOME', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | GM VEHICLES HOME'},'true');">Vehicles Home</a></div>
+			<div><a href="/vehicles/currentoffers/?evar10=gm_com_HPVehicleRollover_CO" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | CURRENT OFFERS', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | CURRENT OFFERS', s_prop25:'GM'},'true');">Current Offers</a></div>
+			<div><a href="/vehicles/dealer/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | DEALER LOCATOR', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | DEALER LOCATOR'},'true');">Dealer Locator</a></div>
+			<div><a href="/vehicles/innovation/?evar10=gm_com_HPVehicleRollover_InnoT" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | INNOVATION &amp; TECHNOLOGY', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | INNOVATION &amp; TECHNOLOGY'},'true');">Innovation &amp; Technology</a></div>
+			<!-- div><a href="/vehicles/hybrids-and-electric/?evar10=gm_com_HPVehicleRollover_HybEV" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | HYBRIDS & ELECTRIC VEHICLES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | HYBRIDS & ELECTRIC VEHICLES'},'true');">Hybrids &amp; Electric Vehicles</a></div -->
+			<div><a href="/vehicles/warranty/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | WARRANTY', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | WARRANTY'},'true');">Warranty</a></div>
+			<div><a href="/vehicles/quality-safety/?evar10=gm_com_HPVehicleRollover_QualS" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | QUALITY &amp; SAFETY', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | QUALITY &amp; SAFETY'},'true');">Quality &amp; Safety</a></div>
+			<div><a href="/vehicles/services/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | SERVICES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | SERVICES'},'true');">Services</a></div>
+			<div><a href="/vehicles/parts/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | PARTS &amp; ACCESSORIES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | PARTS &amp; ACCESSORIES'},'true');">Parts &amp; Accessories</a></div>
+			<div><a href="http://www.gmcertified.com" target="_blank" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | CERTIFIED USED VEHICLES', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | CERTIFIED USED VEHICLES'},'true');">Certified Used Vehicles</a></div>
+			<div><a href="http://www.gmfleet.com" target="_blank" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | GM VEHICLES | FLEET &amp; COMMERCIAL', s_prop5:'HOMEPAGE | NON-FLASH | GM VEHICLES | FLEET &amp; COMMERCIAL'},'true');">Fleet &amp; Commercial</a></div>
+		</div>
+	</div>
+	<div id="gCompanyInvestors" class="withDropDown ">
+		<span>Company &amp; Investors</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div class="dropDown" style="height: 0px;">
+			<div><a href="/corporate/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE INFORMATION HOME', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE INFORMATION HOME'},'true');">Company Home</a></div>
+			<div><a href="/corporate/about/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | ABOUT GM', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | ABOUT GM'},'true');">About GM</a></div>
+			<div><a href="/corporate/news-and-events/?evar10=gm_com_HPCompanyRollover_NewsE" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | NEWS &amp; EVENTS', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | NEWS &amp; EVENTS'},'true');">News &amp; Events</a></div>
+			<div><a href="/investors/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | INVESTOR INFORMATION', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | INVESTOR INFORMATION'},'true');">Investors</a></div>
+			<div><a href="/corporate/responsibility/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE RESPONSIBILITY', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CORPORATE RESPONSIBILITY'},'true');">Corporate Responsibility</a></div>
+			<div><a href="/corporate/careers/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CAREERS', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | CAREERS'},'true');">Careers</a></div>
+			<div><a href="/corporate/dealers/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | DEALERS &amp; SUPPLIERS', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | DEALERS &amp; SUPPLIERS'},'true');">Dealers &amp; Suppliers</a></div>
+			<div><a href="/corporate/employees/" onclick="clickTrack({s_linkName:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | EMPLOYEES &amp; RETIREES', s_prop5:'HOMEPAGE | NON-FLASH | CORPORATE INFORMATION | EMPLOYEES &amp; RETIREES'},'true');">Employees &amp; Retirees</a></div>
+		</div>
+	</div>
 
+	<form id="search" action="/search/" name="google" target="_top">
+		<div class="clearfix">
+			<a id="gSearch" onclick="document.google.submit();return false;" href="/search/?" target="_top"><span>Search</span></a>
+			<input type="text" name="q" value="SEARCH">
+		</div>
+	</form>
+
+	<div id="gAllGMSites">
+		<span>All GM Sites</span>
+		<div class="topNavSpacer">&nbsp;</div>
+		<div id="gAllGMSitesCont">
+			<div id="gAllGMSitesContLeft"></div>
+			<div id="gAllGMSitesContCenter">
+				<div id="gmAuto">
+					<div class="title">GM Auto Brands</div>
+					<ul>
+						<li><a href="http://www.buick.com/?fromgm=true" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Buick</a></li>
+						<li><a href="http://www.cadillac.com/index.jsp?noredirect=true" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Cadillac</a></li>
+						<li><a href="http://www.chevrolet.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Chevrolet</a></li>
+						<li><a href="http://www.gmc.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GMC</a></li>
+						<li><a href="http://www.gmdaewoo.co.kr/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Daewoo</a></li>						
+						<li><a href="http://www.holden.com.au/www-holden/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Holden</a></li>
+						<li><a href="http://www.hummer.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">HUMMER</a></li>
+						<li><a href="http://www.oldsmobile.com/olds/heritage/index.html" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Oldsmobile</a></li>					
+						<li><a href="http://www.opel.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Opel</a></li>
+						<li><a href="http://www.pontiac.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Pontiac</a></li>
+						<li><a href="http://www.vauxhall.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Vauxhall</a></li>
+						<li><a href="http://www.gmcertified.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Certified Used Vehicles</a></li>		
+						<li><a href="http://www.gmfleet.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Fleet &amp; Commercial</a></li>												
+					</ul>
+				</div>
+				<div id="gmProductsServices">
+					<div class="title">GM Products &amp; Services</div>
+					<ul>
+						<li><a href="http://www.acdelco.com/index.jsp" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">ACDelco</a></li>
+						<li><a target="_top" href="/vehicles/services/gmac.jsp" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">Ally</a></li>
+						<li><a href="http://www.gmblogs.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Blogs</a></li>
+						<li><a href="http://www.gmcardmemberservices.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Cardmember Services</a></li>
+						<li><a href="http://www.gmgoodwrench.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Goodwrench</a></li>
+						<li><a href="/vehicles/services/gm_mobility/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Mobility</a></li>
+						<li><a href="/gmownercenter/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Owner Center </a></li>
+						<li><a href="http://www.gmaccessorieszone.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Accessories</a></li>	
+						<li><a href="http://www.gmperformancedivision.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Performance Division</a></li>
+						<li><a href="http://www.gmperformanceparts.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Performance Parts</a></li>
+						<li><a href="/vehicles/innovation/powertrain-technology/ " onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Powertrain</a></li>
+						<li><a href="http://gmventures.com/" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">GM Ventures</a></li>
+						<li><a href="http://www.onstar.com/" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">OnStar</a></li>
+						<li><a href="http://www.xmradio.com/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | TNAV | ALL GM SITES', s_linkName: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | TNAV | ALL GM SITES | ' + this.innerHTML.toUpperCase()},'true')">XM Radio</a></li>
+					</ul>
+					<div class="title">GM Related Sites</div>
+					<ul>
+						<li><a href="http://www.gmheritagecenter.com/" target="_blank">GM Heritage Center</a></li>
+					</ul>
+				</div>
+				<div id="gGMWorldwide">
+				</div>
 			</div>
-			<div id="gContent">
-				<ul id="cMainNav" class="clearfix">
-	<li><a target="_top" id="cMNCorp" href="/corporate/"><span>Corporate Information</span></a></li>
-	<li><a target="_top" id="cMNShop" href="/shop/"><span>Shop GM Vehicles</span></a></li>
-	<li><a target="_top" id="cMNExplore" href="/explore/"><span>Explore GM</span></a></li>
-</ul>
-				<div id="cContent" class="clearfix">
-					
+			<div id="gAllGMSitesContRight"></div>
+			<div id="gAllGMSitesClose"></div>
+		</div>
+	</div>
+	<div id="blackFill" style="display: none;">&nbsp;</div>
+</div>
+	</div>
+	<div id="gContentContainer">
+		<div id="gContent">
+			
+			<div id="cContent" class="clearfix">
+				
+
+
+
+
+
 <div id="bigContent" class="clearfix">
-	<div id="pContent">
-		<a name="top"></a>
-		<h1>Privacy</h1>
-		<ul id="tabsPrivacy" class="clearfix">
-			<li id="english" class="active"><a href="/privacy/index.jsp"><span>English</span></a></li>
-			<li id="spanish"><a href="/privacy/index.jsp?lang=sp"><span>Spanish</span></a></li>
-			<li id="chinese"><a href="/privacy/index.jsp?lang=ch"><span></span></a></li>
-			
-			<li id="blank"><a id="printable" href="/privacy/indexPrint.jsp">» Printable Version</a></li>
-			
-		</ul>
+  <div id="pContent"> <a name="top"></a>
+    <h1>Privacy</h1>
+    <ul id="tabsPrivacy" class="clearfix">
+      <!--<li id="english"class="active"><a href="/privacy/index.jsp"><span>English</span></a></li>
+      <li id="spanish"><a href="/privacy/index.jsp?lang=sp"><span>Spanish</span></a></li>
+      <li id="chinese"><a href="/privacy/index.jsp?lang=ch"><span></span></a></li>-->
+      
+      <li id="blank"><a id="printable" href="/privacy/indexPrint.jsp">» Printable Version</a></li>
+      
+    </ul>
+    
+    <div id="privacyContentEng" class="decoratedSection">
+	<div class="content">
+		<h3 class="subTitleBlue"><a name="">Privacy Statement for  General Motors Company</a></h3>
+		<h3 class="subTitleBlack"><a name="">Effective October 1, 2010</a></h3>
+		<p class="last"><strong>For Your California Privacy Rights <a href="/privacy/california.jsp">click here</a>.</strong></p>
+		<p><strong>On October 1, 2010, General Motors Company (GM) acquired AmeriCredit Corp., (NYSE: ACF), which provides auto finance solutions through auto dealers across the United States. AmeriCredit Corp. will be renamed General Motors Financial Company, Inc. (GM Financial) and GM will consider GM Financial to be an affiliate as defined under the GM Privacy Statement.<br><br></strong></p>
+	</div>
+      <h2 id="head1" class="header"><span><span><span><span>I. About Privacy</span></span></span></span></h2>
+      <div class="content">
+        <p>Your privacy is important to General Motors Company (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.</p>
+        <p>GM's Privacy Statement for U.S. Consumers lets you know how we handle personally identifiable information you share with GM through gm.com and certain other GM Websites (e.g., GMGoodwrench.com or Chevrolet.com); at events; on Business Reply Cards (BRCs) and sweepstakes entries; and through our customer call centers. It also applies to information about you and your vehicle we obtain from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners, and other sources such as those that provide lists of potential vehicle purchasers, current owners, or potential cardholders. We have also included answers to frequently asked questions about features of GM vehicles that record and transmit data regarding vehicle functions. Some GM Websites have supplemental information on privacy, and others have their own privacy statements, which may be accessed at those Websites. (Click for details on the <a href="#scope">Scope of the Statement</a>).</p>
+        <p>The information you share with us may be used by GM, our affiliates, our licensees, and dealers. It may be used by our suppliers exclusively to provide services for GM, and by our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. <strong>We will not share your personal information with third parties other than these for their independent use without your permission.</strong></p>
+        <p class="last">For more information, please read <a href="#II">GM's Privacy Statement for U.S. Consumers</a>. For Frequently Asked Questions about privacy, please click <a href="#III">here</a>. For information about how to opt-out of being contacted by GM for marketing purposes <a href="#q6">click here</a>.</p>
+      </div>
+      <h2 id="head2" class="header"><span><span><a name="II"><span><span>II. GM's Privacy Statement for U.S. Consumers ("Privacy Statement")</span></span></a></span></span></h2>
+      <div class="content">
+        <h3><a class="h" name="scope">Scope</a></h3>
+        <p class="heading">This Privacy Statement explains how we handle personal information you share with GM businesses in the United States. We may obtain this information through GM vehicle-related consumer Websites (see table below); at events; on Business Reply Cards (BRCs) and sweepstakes entry forms; and through our customer call centers. It also applies to information about you and your vehicle GM obtains from GM affiliates, GM dealers, GM licensees for consumer merchandise, and other sources such as companies that provide lists of potential vehicle purchasers, current owners, or cardholders.</p>
+        <p>GM businesses covered by this Privacy Statement include:</p>
+        <div id="brand" class="clearfix">
+          <ul id="brand1" class="brands">
+            <li><a href="http://www.chevrolet.com/" target="_blank">» Chevrolet</a></li>
+            <li><a href="http://www.buick.com/?fromgm=true" target="_blank">» Buick</a></li>
+            <li><a href="http://www.pontiac.com/" target="_blank">» Pontiac</a></li>
+            <li><a href="http://www.gmc.com/" target="_blank">» GMC</a></li>
+			<li><a href="http://www.saturn.com/" target="_blank">» Saturn</a></li>
+          </ul>
+          <ul id="brand2" class="brands">
+            <li><a href="http://www.hummer.com/" target="_blank">» HUMMER</a></li>
+            <li><a href="http://www.cadillac.com/" target="_blank">» Cadillac</a></li>
+          </ul>
+          <ul id="brand3" class="brands">
+            <li><a href="http://www.oldsmobile.com/" target="_blank">» Oldsmobile</a></li>
+            <li><a href="http://www.acdelco.com/" target="_blank">» ACDelco</a></li>
+            <li><a href="http://www.gmgoodwrench.com/" target="_blank">» GMGoodwrench</a></li>
+            <li><a href="http://www.gmcertified.com" target="_blank">» Certified Used Vehicles</a></li>
+          </ul>
+          <ul id="brand4" class="brands">
+            <li><a href="http://www.gmfamilyfirst.com" target="_blank">» GM Family First</a></li>
+            <li><a href="http://www.gmfleet.com" target="_blank">» GM Fleet</a></li>
+            <li><a href="http://www.gmcardmemberservices.com/" target="_blank">» GM Cardmember Services</a></li>
+            <li><a href="http://www.gmsupplierdiscount.com/" target="_blank">» GM Supplier Discount</a></li>
+            <li><a href="http://www.cadillac.com/cuv/cadillac/index.jhtml" target="_blank">» Cadillac Certified Pre-Owned</a></li>
+            <li><a href="http://www.gmded.com/" target="_blank">» GM Dealer Employee Discount</a></li>
+            <li><a href="http://www.gmmilitarydiscount.com/" target="_blank">» GM Military Discount </a></li>
+            <li><a href="http://www.gmcollegediscount.com/" target="_blank">» GM College Discount </a></li>
+            <li><a href="http://www.gm.com/creditunion/" target="_blank">» Credit Union Member Discount from GM</a></li>
+			<li><a href="http://www.gm.com/" target="_blank">» GM.com</a></li>
+          </ul>
+        </div>
+        <p class="heading">U.S. Automotive and Credit Card consumer pages on gm.com are covered by this Privacy Statement. The Education pages of GMobility at gm.com have their own privacy statements that address the pages of the Website directed at children. The Careers and Retiree Information sections of gm.com are not consumer sites and are not covered by this Privacy Statement.</p>
+        <p>Other GM Websites and business units</p>
+        <p class="heading">To provide services, some GM consumer Websites may request additional information or provide services not covered under this general statement. Please click on the links listed below to view the supplemental privacy information that should be read together with this Privacy Statement.</p>
+        <ul class="Ogm">
+          <li><a href="#investor">Investor Information</a></li>
+		   <li><a href="#saturn">Saturn</a></li>
+          <li><a href="#cardmember">GM Cardmember Services</a></li>
+          <li><a href="#VPP">Vehicle Purchase Programs</a></li>
+          <li><a href="#dci">Dealer Candidate Information</a></li>
+        </ul>
+        <p>Certain other GM, or GM-related, consumer Websites and services have their own privacy statements that can be viewed on their sites. These include <a href="http://www.onstar.com/" target="_blank">OnStar</a> and the GMAC family of businesses (<a href="http://www.gmacfs.com/" target="_blank">GMACFS.com</a>, <a href="http://www.gmacglobalrelocation.com/" target="_blank">GMACrelocation.com</a>, <a href="http://www.gmacmortgage.com/" target="_blank">GMACMortgage.com</a>, <a href="http://www.gmaccf.com/" target="_blank">GMACCF.com</a>, <a href="http://www.gmaccm.com/" target="_blank">GMACCM.com</a>, <a href="http://www.gmacinsurance.com/" target="_blank">GMACinsurance.com</a>, <a href="http://www.gmacrealestate.com/" target="_blank">GMACrealestate.com</a>, <a href="http://www.gmacpolicy.com/" target="_blank">GMACpolicy.com</a>, <a href="http://www.gmacre.com/" target="_blank">GMACre.com</a>, <a href="http://www.gmacbank.com/" target="_blank">GMACbank.com</a>) and XM Radio. For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see <a href="#III">Frequently Asked Questions</a>.</p>
+        <h3><a class="h" name="infColl">Information Collection</a></h3>
+        <p class="heading">GM may obtain information about you and your vehicle in a number of ways: For example, our Websites, Business Reply Cards, sweepstakes entries, test-drive incentive applications, surveys, vehicle sales records, and other public sources. While you may use GM's Websites to learn about our products and services without disclosing any information about you or your vehicle, we may ask you to provide us with personal information including:</p>
+        <ul id="infColl">
+          <li>contact information (name, address, city, state and Zip Code, e-mail address, and telephone number)</li>
+          <li>vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer, date of purchase or lease, etc.)</li>
+          <li>demographic information (age range, marital status, household composition, etc.)</li>
+          <li>non-credit-related marketing profile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)</li>
+          <li>relationships you have with GM not related to your vehicle (i.e., GM Card or OnStar)</li>
+        </ul>
+        <p>Business Reply Cards and sweepstakes entries you complete at an event or in response to a marketing mailing we send may also ask you to answer some of these same questions so we can tailor what we send to you to your specific interests.</p>
+        <p>In limited circumstances, you may be asked to provide GM with your social security number. For example, if you win a sweepstakes or receive compensation from GM, GM is required to include your social security number on government tax forms. GM maintains technical, administrative, and physical safeguards designed to protect the confidentiality of your social security number, and to prohibit the unlawful disclosure of and restrict access to this information.</p>
+        <p>In addition, our GM affiliates, GM dealers, GM merchandise licensees, and other sources such as those that provide lists of potential vehicle purchasers or current owners may give the information they have regarding you or your vehicle to us so that we may serve your needs better.</p>
+        <h3><a class="h" name="uses">Uses</a></h3>
+        <p class="heading">Information about you or your vehicle may be used to respond to your requests for product brochures, to customize and improve communication content, or for marketing or product research. It may also be used to provide you with helpful offers and information on GM products and services.</p>
+        <p>We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. Information regarding your GM Card will not be shared with GM dealers.</p>
+        <p><strong>GM will not share information about you or your vehicle with other third parties for their independent use without your permission.</strong></p>
+        <p>You may choose to forward information from one of our Websites or e-mails to another person. E-mail addresses submitted to our E-card or other Forward to a Friend program will not be captured for later use in marketing unless that person consents.</p>
+        <p>We may disclose information about you or your vehicle as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.</p>
+        <h3><a class="h" name="cookies">Cookies and Other Tracking Devices</a></h3>
+        <p class="heading">We may use cookies and other tracking devices on our Websites. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information between visits, or locating a nearby dealer. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other tracking devices may be used to tell us the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider.</p>
+        <p>We may use third parties to serve GM advertisements on other Websites. In serving GM advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other Websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.</p>
+        <p>You may elect to refuse cookies. Please refer to your browser Help instructions to learn more about cookies and how to manage their use.</p>
+        <h3><a class="h" name="outside">Outside Links</a></h3>
+        <p class="heading">GM.com may contain links to third-party sites not controlled by GM or covered by this privacy statement, such as those belonging to GM dealers, GM licensees, or independent product review sites. We recommend that you check the privacy statement of other sites you visit before providing any personal information. Generally, we will tell you as you leave our site that another site's privacy statement applies to any data you share on that site.</p>
+        <h3><a class="h" name="infSec">Information Security</a></h3>
+        <p class="heading">GM recognizes the importance of safeguarding consumer personal information in GM's possession from theft, inappropriate use, or improper distribution. GM has security policies and procedures appropriate to the level of confidentiality of that data. Our suppliers have signed agreements to protect and use your data according to our requirements. It should, however, be recognized that no company can perfectly protect personal information.</p>
+        <h3><a class="h" name="prvInq">Privacy Inquiries</a></h3>
+        <p class="heading">If you have concerns or questions regarding GM's consumer privacy practices, please refer to the <a href="#III">frequently asked questions</a> that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). California residents click for more information on <a href="/privacy/california.jsp">Your California Privacy Rights</a>.</p>
+        <h3><a class="h" name="changes">Changes</a></h3>
+        <p class="heading">We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.</p>
+        <p>This statement is effective as of 10/1/2010.</p>
+        <h3><a class="h" name="supplemental">Supplemental Privacy Information</a></h3>
+        <p class="heading">This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.</p>
+        <div class="title"><a name="investor" href="/corporate/investor_information/">Investor Information</a></div>
+        <p class="heading alignLeft"><span class="under">Collection</span> - On the Investor Information Website we may collect your name, address, phone number, and e-mail address. GM may also receive personal information you provide to GM Stockholder Services through e-mail, written communications, or telephone calls, and from our stock transfer agent, such as account information.</p>
+        <p class="alignLeft"><span class="under">Uses</span> - This personal information may be used for providing you information you have requested. We may share this personal information with suppliers for the purpose of providing the services you request and to provide services for GM. We may also share your information with GM affiliates to provide you with information about GM products and services. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. GM will not share your personal information with other third parties for their independent use. We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.</p>
+        <p class="alignLeft"><span class="under">Choice and Updating Information</span> - Stockholders wishing to update information with GM's stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs from GM marketing communications will not affect communications sent on or by or on behalf of GMs stock transfer agent or stockholders.</p>
+        <p class="alignLeft"><span class="under">Privacy Inquiries</span> - For inquiries about how the information you submit to the Investor Information portion of the site or to GM Stockholder Services is handled, please call 313-667-1432.</p>
 		
-		<div id="privacyContentEng" class="decoratedSection">
-			<h2 id="head1" class="header"><span><span><span><span>I. About Privacy (effective April 1, 2007)</span></span></span></span></h2>
-			<div class="content">
-				<p>Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.</p>
-				<p>GM's Privacy Statement for U.S. Consumers lets you know how we handle personally identifiable information you share with GM through gm.com and certain other GM Websites (e.g., GMGoodwrench.com or Chevrolet.com); at events; on Business Reply Cards (BRCs) and sweepstakes entries; and through our customer call centers. It also applies to information about you and your vehicle we obtain from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners, and other sources such as those that provide lists of potential vehicle purchasers, current owners, or potential cardholders. We have also included answers to frequently asked questions about features of GM vehicles that record and transmit data regarding vehicle functions. Some GM Websites have supplemental information on privacy, and others have their own privacy statements, which may be accessed at those Websites. (Click for details on the <a href="#scope">Scope of the Statement</a>).</p>
-				<p>The information you share with us may be used by GM, our affiliates, our licensees, and dealers. It may be used by our suppliers exclusively to provide services for GM, and by our business partners to conduct joint marketing programs with GM. <strong>We will not share your personal information with third parties other than these, or with any third party for their independent use without your permission.</strong></p>
-				<p class="last">For more information, please read <a href="#II">GM's Privacy Statement for U.S. Consumers</a>. For Frequently Asked Questions about privacy, please click <a href="#IV">here</a>.</p>
-			</div>
-			
-			<h2 id="head2" class="header"><span><span><a name="II"><span><span>II. GM's Privacy Statement for U.S. Consumers ("Privacy Statement")</span></span></a></span></span></h2>
-			<div class="content">
-				
-				<h3><a class="h" name="scope">Scope</a></h3><p class="heading">This Privacy Statement explains how we handle personal information you share with GM businesses in the United States. We may obtain this information through GM vehicle-related consumer Websites (see table below); at events; on Business Reply Cards (BRCs) and sweepstakes entry forms; and through our customer call centers. It also applies to information about you and your vehicle GM obtains from GM affiliates, GM dealers, GM licensees for consumer merchandise, and other sources such as companies that provide lists of potential vehicle purchasers, current owners, or cardholders.</p>
-				<p>GM businesses covered by this Privacy Statement include:</p>
-				<div id="brand" class="clearfix">
-					<ul id="brand1" class="brands">
-						<li><a href="http://www.chevrolet.com/" target="_blank">» Chevrolet</a></li>
-						<li><a href="http://www.buick.com/?fromgm=true" target="_blank">» Buick</a></li>
-						<li><a href="http://www.pontiac.com/" target="_blank">» Pontiac</a></li>
-						<li><a href="http://www.gmc.com/" target="_blank">» GMC</a></li>
-					</ul>
-					<ul id="brand2" class="brands">
-						<li><a href="http://www.saturn.com/" target="_blank">» Saturn</a></li>
-						<li><a href="http://www.hummer.com/" target="_blank">» HUMMER</a></li>
-						<li><a href="http://www.saabusa.com/" target="_blank">» Saab</a></li>
-						<li><a href="http://www.cadillac.com/" target="_blank">» Cadillac</a></li>
-					</ul>
-					<ul id="brand3" class="brands">
-						<li><a href="http://www.oldsmobile.com/" target="_blank">» Oldsmobile</a></li>
-						<li><a href="http://www.acdelco.com/" target="_blank">» ACDelco</a></li>
-						<li><a href="http://www.gmgoodwrench.com/" target="_blank">» GMGoodwrench</a></li>
-						<li><a href="http://www.gmcertified.com" target="_blank">» Certified Used Vehicles</a></li>
-					</ul>
-					<ul id="brand4" class="brands">
-						<li><a href="http://www.gmfamilyfirst.com" target="_blank">» GM Family First</a></li>
-						<li><a href="http://www.gmfleet.com" target="_blank">» GM Fleet</a></li>
-						<li><a href="http://www.gmcardmemberservices.com/" target="_blank">» GM Cardmember Services</a></li>
-						<li><a href="http://www.gmsupplierdiscount.com/" target="_blank">» GM Supplier Discount</a></li>
-						<li><a href="http://www.cadillac.com/cuv/cadillac/index.jhtml" target="_blank">» Cadillac Certified Pre-Owned</a></li>
-					</ul>
-				</div>
-				<a class="h" href="http://www.gm.com/" target="_blank">GM.com</a>
-				<p class="heading">U.S. Automotive and Credit Card consumer pages on gm.com are covered by this Privacy Statement. The Education pages of GMobility at gm.com have their own privacy statements that address the pages of the Website directed at children. The Careers and Retiree Information sections of gm.com are not consumer sites and are not covered by this Privacy Statement.</p>
-				<p>Other GM Websites and business units</p>
-				<p class="heading">To provide services, some GM consumer Websites may request additional information or provide services not covered under this general statement. Please click on the links listed below to view the supplemental privacy information that should be read together with this Privacy Statement.</p>
-				<ul class="Ogm">
-					<li><a href="#showroom">GM Vehicle Showroom</a></li>
-					<li><a href="#myGmL">My GMLink</a></li>
-					<li><a href="#investor">Investor Information</a></li>
-					<li><a href="#saturn">Saturn</a></li>
-					<li><a href="#cardmember">GM Cardmember Services</a></li>
-					<li>Vehicle Purchase Programs</li>
-					<ul class="Ogm">
-						<li><a href="#family">GM Family First</a></li>
-						<li><a href="#supplier">GM Supplier Discount</a></li>
-					</ul>
-				</ul>
-				<p>Certain other GM, or GM-related, consumer Websites and services have their own privacy statements that can be viewed on their sites. These include <a href="http://www.onstar.com/" target="_blank">OnStar</a> and the GMAC family of businesses (<a href="http://www.gmacfs.com/" target="_blank">GMACFS.com</a>, <a href="http://www.gmacglobalrelocation.com/" target="_blank">GMACrelocation.com</a>, <a href="http://www.gmacmortgage.com/" target="_blank">GMACMortgage.com</a>, <a href="http://www.gmaccf.com/" target="_blank">GMACCF.com</a>, <a href="http://www.gmaccm.com/" target="_blank">GMACCM.com</a>, <a href="http://www.gmacinsurance.com/" target="_blank">GMACinsurance.com</a>, <a href="http://www.gmacrealestate.com/" target="_blank">GMACrealestate.com</a>, <a href="http://www.gmacpolicy.com/" target="_blank">GMACpolicy.com</a>, <a href="http://www.gmacre.com/" target="_blank">GMACre.com</a>, <a href="http://www.gmacbank.com/" target="_blank">GMACbank.com</a>) and XM Radio. For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see <a href="#IV">Frequently Asked Questions</a>.</p>
-				
-				<h3><a class="h" name="infColl">Information Collection</a></h3>
-				<p class="heading">GM may obtain information about you and your vehicle in a number of ways: For example, our Websites, Business Reply Cards, sweepstakes entries, test-drive incentive applications, surveys, vehicle sales records, and other public sources. While you may use GM's Websites to learn about our products and services without disclosing any information about you or your vehicle, we may ask you to provide us with personal information including:</p>
-				<ul id="infColl">
-					<li>contact information (name, address, city, state and Zip Code, e-mail address, and telephone number)</li>
-					<li>vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer, date of purchase or lease, etc.)</li>
-					<li>demographic information (age range, marital status, household composition, etc.)</li>
-					<li>non-credit-related marketing gprofile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)</li>
-					<li>relationships you have with GM not related to your vehicle (i.e., GM Card or OnStar)</li>
-				</ul>
-				<p>Business Reply Cards and sweepstakes entries you complete at an event or in response to a marketing mailing we send may also ask you to answer some of these same questions so we can tailor what we send to you to your specific interests.</p>
-				<p>In addition, our GM affiliates, GM dealers, GM merchandise licensees, and other sources such as those that provide lists of potential vehicle purchasers or current owners may give the information they have regarding you or your vehicle to us so that we may serve your needs better.</p>
-				
-				<h3><a class="h" name="uses">Uses</a></h3>
-				<p class="heading">Information about you or your vehicle may be used to respond to your requests for product brochures, to customize and improve communication content, or for marketing or product research. It may also be used to provide you with helpful offers and information on GM products and services.</p>
-				<p>We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with GM. Information regarding your GM Card will not be shared with GM dealers.</p>
-				<p><strong>GM will not share information about you or your vehicle with any third party for their independent use without your permission.</strong></p>
-				<p>You may choose to forward information from one of our Websites or e-mails to another person. E-mail addresses submitted to our E-card or other Forward to a Friend program will not be captured for later use in marketing unless that person consents.</p>
-				<p>We may disclose information about you or your vehicle as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.</p>
-				
-				<h3><a class="h" name="cookies">Cookies and Other Tracking Devices</a></h3>
-				<p class="heading">We may use cookies and other tracking devices on our Websites. Using cookies on our sites provides benefits to you, such as allowing you to maintain your account login information between visits, or locating a nearby dealer. The use of cookies also allows us to measure site activity to provide a better user experience. Cookies and other tracking devices may be used to tell us the time and length of your visit, the pages you look at on our site, the site you visited just before coming to ours, and the name of your Internet service provider.</p>
-				<p>We may use third parties to serve GM advertisements on other Websites. In serving GM advertisements, these companies may use cookies and other tracking devices to collect certain information about your visits to other Websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.</p>
-				<p>You may elect to refuse cookies. Please refer to your browser Help instructions to learn more about cookies and how to manage their use.</p>
-				
-				<h3><a class="h" name="outside">Outside Links</a></h3>
-				<p class="heading">GM.com may contain links to third-party sites not controlled by GM or covered by this privacy statement, such as those belonging to GM dealers, GM licensees, or independent product review sites. We recommend that you check the privacy statement of other sites you visit before providing any personal information. Generally, we will tell you as you leave our site that another site's privacy statement applies to any data you share on that site.</p>
-				
-				<h3><a class="h" name="infSec">Information Security</a></h3>
-				<p class="heading">GM recognizes the importance of safeguarding consumer personal information in GM's possession from theft, inappropriate use, or improper distribution. GM has security policies and procedures appropriate to the level of confidentiality of that data. Our suppliers have signed agreements to protect and use your data according to our requirements. It should, however, be recognized that no company can perfectly protect personal information.</p>
-				
-				<h3><a class="h" name="prvInq">Privacy Inquiries</a></h3>
-				<p class="heading">If you have concerns or questions regarding GM's consumer privacy practices, please refer to the <a href="#IV">frequently asked questions</a> that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). California residents click for more information on <a href="#III">Your California Privacy Rights</a>.</p>
-				
-				<h3><a class="h" name="changes">Changes</a></h3>
-				<p class="heading">We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.</p>
-				<p>This statement is effective as of 4/1/2007.</p>
-				
-				<h3><a class="h" name="supplemental">Supplemental Privacy Information</a></h3>
-				<p class="heading">This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.</p>
-				
-				<div class="title"><a name="showroom" href="http://www.gmbuypower.com/app/linksin?destination=homepage&amp;creative=unbranded&amp;partnerId=510018" target="_blank">GM Vehicle Showroom</a></div>
-					<p class="heading alignLeft "><span class="under">Choice and Updating Information</span> - GM Vehicle Showroom users may correct their contact information provided during a visit to GM Vehicle Showroom (name, Zip Code, e-mail address, and phone number) by calling GM at 1-800-462-8976. These updates will only be made in the GM Vehicle Showroom system.</p>
-				<div class="title"><a name="myGmL" href="https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp" target="_blank">My GMLink</a></div>
-					<p class="heading alignLeft"><span class="under">Personal Information Collection and Sharing</span> - Personal information such as vehicle insurance information is also requested in a section of My GMLink called Vehicle Reference Card. The Vehicle Reference Card is provided solely for your convenience and its use is optional. Vehicle Reference Card information will not be shared within GM or with GM dealers.</p>
-					<p class="alignLeft"><span class="under">Correcting Your Information</span> - You may correct your contact information (name, address, phone number, and e-mail address) through your profile on My GMLink at <a href="https://www.mygmlink.com/main/US/en/gm/myprofile" target="_blank">https://www.mygmlink.com/main/US/en/gm/myprofile</a>, by sending an e-mail to <a href="mailto:mygmlink@gm.com">mygmlink@gm.com</a> or by calling us at 1-866-MYGMLINK. These corrections will only affect your MyGMLink profile.</p>
-					<p class="alignLeft"><span class="under">Privacy Inquiries</span> - If you have a concern about the privacy practices of the MyGMLink.com Website, please contact us by sending an e-mail to <a href="mailto:mygmlink@gm.com">mygmlink@gm.com</a> or by calling us at 1-866-MYGMLINK.</p>
-				<div class="title"><a name="investor" href="/corporate/investor_information/">Investor Information</a></div>
-					<p class="heading alignLeft"><span class="under">Collection</span> - On the Investor Information Website we may collect your name, address, phone number, and e-mail address. GM may also receive personal information you provide to GM Stockholder Services through e-mail, written communications, or telephone calls, and from our stock transfer agent, such as account information.</p>
-					<p class="alignLeft"><span class="under">Uses</span> - This personal information may be used for providing you information you have requested. We may share this personal information with suppliers for the purpose of providing the services you request and to provide services for GM. We may also share your information with GM affiliates to provide you with information about GM products and services. GM will not share your personal information with other third parties for their independent use. We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.</p>
-					<p class="alignLeft"><span class="under">Choice and Updating Information</span> - Stockholders wishing to update information with GM's stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs from GM marketing communications will not affect communications sent on or by or on behalf of GMs stock transfer agent or stockholders.</p>
-					<p class="alignLeft"><span class="under">Privacy Inquiries</span> - For inquiries about how the information you submit to the Investor Information portion of the site or to GM Stockholder Services is handled, please call 313-667-1432.</p>
-				<div class="title"><a name="saturn" href="http://www.saturn.com/" target="_blank">Saturn</a></div>
-					<p class="heading alignLeft"><span class="under">Personal Information Collection</span> - We may request personal information at certain points during your visit to Saturn's Websites. In addition to the information described in the Personal Information section above, this information may include vehicle service information; information regarding when you plan to purchase a new vehicle; your opinions for certain polls; and stories about your Saturn. Providing any information on Saturn's Websites is optional. In our E-card service, we ask for the e-mail addresses of your friends to send E-cards ; e-mail addresses submitted to this service will be used ONLY for sending the E-cards.</p>
-					<p class="alignLeft"><span class="under">Correcting Your Information</span> - You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Website by using <a href="http://www.saturn.com/mysaturn/" target="_blank">My Profile</a>. These updates will only affect your data at the Saturn Website or call-center database.</p>
-					<p class="alignLeft"><span class="under">Privacy Inquiries</span> - If you have a question or concern about the privacy practices of the Saturn.com Website, please contact us by sending an e-mail from the <a href="http://www.saturn.com/saturn/footer/contactus/index.jsp" target="_blank">Contact Us</a> page or by writing to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.</p>
-				<div class="title"><a name="cardmember" href="http://www.gmcardmemberservices.com/" target="_blank">GM Cardmember Services</a></div>
-					<p class="heading alignLeft"><span class="under">Correcting Your Information</span> - You may correct your contact information (name, address, phone number and e-mail address) by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the Website. You can also call the Customer Center respective to your Account.</p>
-					<ul id="card">
-						<li>GM Card <span id="number1">800-771-7363</span></li>
-						<li>GM Flexible Earnings Card <span id="number2">800-388-9107</span></li>
-						<li>GM Extended Family Card	<span id="number3">800-419-6698</span></li>
-						<li>GM Business Card <span id="number4">800-446-5347</span></li>
-					</ul>
-					<p class="alignLeft">You may change your GM Vehicle Preferences and e-mail address by logging into the "Earnings" portion of the site and clicking on "GM Vehicle Preferences" or "GM Profile."</p>
-					<p class="alignLeft"><span class="under">Correcting Your Information</span> - You may correct the contact information (name, address, phone number, and e-mail address) you provide on the GM Cardmember Services Website by using My Profile.</p>
-					<p class="alignLeft"><span class="under">Privacy Inquiries</span> - If you have a question or concern about the privacy practices of the GM Cardmember Services Website, please contact us by sending an e-mail from the Contact Us page or by writing to us at: GM Cardmember Services, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265.</p>
-				<div class="title"><a name="family" href="http://www.gmfamilyfirst.com/" target="_blank">GM Family First</a></div>
-					<p class="heading alignLeft">This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the GM Family First Website (gmfamilyfirst.com) and through our customer call centers. It also applies to personal information GM obtains for marketing purposes from GM Dealers and other sources for use in the Family First program.</p>
-					<p class="alignLeft"><span class="under">Personal Information Collection</span> - You may use the GM Family First Website to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information to verify your eligibility for access to the Website or for participation in the vehicle purchase program. Information that may be requested on the GM Family First Website or at the call center includes: contact information such as name, e-mail address, and telephone number; Website eligibility verification information, including the last four digits of your Social Security number; and purchase verification information, including birth date, and last four digits of the purchaser's Social Security number. If you are requesting product information, you may be asked to provide information regarding your vehicle purchase plans, and other household information.</p>
-					<p class="alignLeft"><span class="under">Uses</span> - Personal information about you may be used to respond to your requests for information; to verify your identity for access to the GM Family First Website and redemption of purchase authorization numbers; to customize and improve communication content; or for marketing research. It may also be used for providing you with helpful offers and information on GM products and services.</p>
-					<p class="alignLeft">Personal information you supply about a participant in the employee vehicle purchase program is used only to verify eligibility for and redemption of purchase authorization numbers.</p>
-					<p class="alignLeft"><span class="under">Information Security</span> - Account information is encrypted when submitted on the GM Family First Website.</p>
-					<p class="alignLeft"><span class="under">Correcting Your Information and Privacy Inquiries</span> - If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices relating only to the GM Family First Website, you may contact us by phone at 1-800-235-4646.</p>
-				<div class="title"><a name="supplier" href="http://www.gmsupplierdiscount.com/" target="_blank">GM Supplier Discount</a></div>
-					<p class="heading alignLeft">This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the GM Supplier Discount Website (gmsupplierdiscount.com) and through our customer call centers.</p>
-					<p class="alignLeft"><span class="under">Personal Information Collection and Use</span> - We may ask you to provide us with personal information, including contact information such as name, address, e-mail address, telephone number and the last four digits of your Social Security number.</p>
-					<p class="alignLeft">Personal information about you may be used to respond to your request for more information about a product or service, for future marketing of services or products, and to provide the products and services offered on the GM Supplier Discount Website.</p>
-					<p class="alignLeft"><span class="under">Information Security</span> - We take steps to make personal information received from you secure against unauthorized access and use. Personal information submitted on the GM Supplier Discount Website is encrypted during transmission.</p>
-					<p class="alignLeft last"><span class="under">Correcting Your Information and Privacy Inquiries</span> - If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices relating only to the GM Supplier Discount Website, please contact us by calling 1-800-960-3375.</p>
-			</div>
-	
-			<h2 id="head3" class="header"><span><span><a name="III"><span><span>III. Your California Privacy Rights</span></span></a></span></span></h2>
-			<div class="content">
-				<h3>2006 Disclosure</h3>
-				<p class="heading">Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM's California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call 1-866-MYPRIVACY (1-866-697-7482) to request a copy.</p>
-				
-				<h3>California Information-Sharing Disclosure</h3>
-				<p class="heading">This Information-Sharing Disclosure Notice reflects the information-sharing practices of GM during the previous calendar year with third parties for their own commercial marketing purposes. You will notice that the "third parties" listed in this notice are General Motors affiliates. These affiliates are listed as "third parties" because, under Senate Bill 27, any business that is a separate legal entity must be listed as a "third party."</p>
-				<p><strong>GM did not share your personal information with non-affiliated third parties for their independent commercial marketing use without your permission.</strong></p>
-				<p>GM may have shared the following categories of information with the affiliates listed below so they could use it to offer you other valuable products and services as part of the GM family of companies:</p>
-				<ul id="calInf">
-					<li>Contact information (including name, address, city, state, Zip Code, phone number, and e-mail address)</li>
-					<li>Vehicle purchase information (including VIN, make, model, model year, selling dealer, purchase date)</li>
-					<li>Other non-credit-related marketing profile information (including information you may have provided when expressing interest in, or during your purchase of, our products or services)</li>
-				</ul>
-				<p>Our GM affiliates who may have received your information are as follows:</p>
-				<ul class="dir">
-					<li>GMAC Bank</li>
-					<li>3710 Kennett Pike</li>
-					<li>Greenville, DE 19807</li>
-				</ul>
-				<ul class="dir">
-					<li>GMAC Insurance</li>
-					<li>Personal Lines Group</li>
-					<li>13736 Riverport Drive,</li>
-					<li>Suite 700</li>
-					<li>Maryland Heights, MO 63043</li>
-				</ul>
-				<ul class="dir">
-					<li>GMAC Insurance</li>
-					<li>Specialty Markets &amp; Products</li>
-					<li>GM Motor Club, Inc./GM Protection Plan</li>
-					<li>P.O. Box 3580</li>
-					<li>Southfield, MI 48037-3580</li>
-				</ul>
-				<ul class="dir">
-					<li>GMAC Mortgage Corporation</li>
-					<li>100 Witmer Road</li>
-					<li>Horsham, PA 19044</li>
-				</ul>
-				<ul class="dir">
-					<li>OnStar</li>
-					<li>400 Renaissance Center</li>
-					<li>P.O. Box 400</li>
-					<li>Detroit, MI 48265-4000</li>
-				</ul>
-				<ul class="dir">
-					<li>Saab Financial Services Corp.</li>
-					<li>Customer Service Center</li>
-					<li>P.O. Box 7101</li>
-					<li>Little Rock, AR 72223-7101</li>
-					<li>(888) 594-SAAB (7222)</li>
-				</ul>
-				<p class="last">For the full GM Privacy Statement, <a href="#top">click here</a>.</p>
-			</div>
-			
-			<h2 id="head4" class="header"><span><span><a name="IV"><span><span>IV. Frequently Asked Questions</span></span></a></span></span></h2>
-			<div class="content">
-				<h3>Q1: </h3><p class="heading">What are "GM affiliates"?</p>
-				<h3>A: </h3><p class="heading">As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, Saab, GMAC, and OnStar.</p>
-				<h3>Q2: </h3><p class="heading">What is an example of a supplier that provides services to GM?</p>
-				<h3>A: </h3><p class="heading">Suppliers are companies that provide services on GM's behalf, such as mailing you a brochure you request.</p>
-				<h3>Q3: </h3><p class="heading">What is an example of a GM business partner?</p>
-				<h3>A: </h3><p class="heading">By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is HSBC USA, which administers the GM Card and GM Extended Family Card. Another example is XM Radio.</p>
-				<h3>Q4: </h3><p class="heading">What do you mean when you say "independent use" or that you will ask for my permission before sharing my information?</p>
-				<h3>A: </h3><p class="heading">By independent use, we mean for purposes unrelated to GM's and GM affiliates' products and services. For example, if you attend a Buick golf event and the co-sponsor of that event would like to receive the information from the registration form you filled out, you will be asked for your permission on the registration form.</p>
-				<h3>Q5: </h3><p class="heading">What do dealers do with my personal information?</p>
-				<h3>A: </h3><p class="heading">GM dealers may use your personal information to contact you about your interest in GM products and services and to provide you with information about upcoming events and vehicle incentives. For questions about your dealer's specific privacy practices, please contact your dealer directly.</p>
-				<h3>Q6: </h3><p class="heading">If I opt out of receiving communications from my dealer, will I still receive communications from GM?</p>
-				<h3>A: </h3><p class="heading">Yes, you may continue to receive communications from us. GM and GM dealers are separate legal entities with their own privacy practices. If you don't want to receive marketing messages from GM regarding our vehicles, you should call    1-866-myprivacy (1-866-697-7482), or visit our Consumer Preference System Website at www.gmcontactpreferences.com.</p>
-				<h3>Q7: </h3><p class="heading">Will you use my personal information to send me e-mails?</p>
-				<h3>A: </h3><p class="heading">Yes, we may. You can access our privacy statement from the gm.com Website and opt out of unsolicited marketing e-mails. If you have subscribed to a particular e-mail newsletter or other communication (e.g., My GMLINK Service Reminders, etc.), you should follow the instructions in the e-mail or on their Website to unsubscribe. You must contact your dealer separately.</p>
-				<h3>Q8: </h3><p class="heading">How do I opt out of receiving unsolicited marketing communications from GM or change my opt-out preferences?</p>
-				<h3>A: </h3><p class="heading">If you do not want to receive unsolicited marketing communications from GM or GM business units, please visit our <a href="http://www.gmcontactpreferences.com/" target="_blank">Consumer Preference System Website</a>. This will allow you to opt out of telephone and e-mail communications and/or to change previously submitted opt-out preferences. You can also call 1-866-myprivacy (1-866-697-7482) to opt out of direct mail communications, as well as telephone and e-mail communications, and/or to change previously submitted opt-out preferences.</p>
-				<h3>Q9: </h3><p class="heading">How long will my opt-out preferences last?</p>
-				<h3>A: </h3><p class="heading">Your GM telephone opt-out preferences will expire five (5) years from the date you submit them. Your GM direct mail opt-out preferences will expire two (2) years from the date of your submission. At this time your e-mail opt-out preferences will not expire. You can change or update your opt-out preferences by clicking <a href="http://www.gmcontactpreferences.com/" target="_blank">here</a>.</p>
-				<h3>Q10: </h3><p class="heading">How will you obtain my permission to disclose information about me to a third party?</p>
-				<h3>A: </h3><p class="heading">An example is information you provide in a BRC (Business Reply Card). We identify the third party on the card and ask for your permission to share that data with them.</p>
-				<h3>Q11: </h3><p class="heading">Does my vehicle have a black box to record data?</p>
-				<h3>A: </h3><p class="heading">GM vehicles, like other modern motor vehicles, have a number of sophisticated computer systems that monitor and control several aspects of the vehicle's performance. GM vehicles use on-board vehicle computers to monitor emission control components to optimize fuel economy, to monitor conditions for air bag deployment and, if so equipped, to provide anti-lock braking and to help the driver control the vehicle in difficult driving situations. Some information may be stored during regular operations to facilitate repair of detected malfunctions; other information is stored only in a crash event by computer systems, such as those commonly called event data recorders (EDR).</p>
-				<h3>Q12: </h3><p class="heading">Does my vehicle have an RFID feature that transmits my personal data?</p>
-				<h3>A: </h3><p class="heading last">No, many GM vehicles contain sensing and transmitting devices using the same type of radio frequency transmission technology used in RFIDs that can contain personal information. These devices are used to perform functions such as checking tire pressure. The devices do not store or transmit personal data.</p>
-			</div>			
-		</div>
+		
+		 <div class="title"><a name="saturn" href="http://wwww.saturn.com" target="_blank">Saturn </a></div>
+        <p class="heading alignLeft"><span class="under">Personal Information Collection</span> - We may request personal information at certain points during your visit to Saturn's Websites. In addition to the information described in the Personal Information section above, this information may include vehicle service information; information regarding when you plan to purchase a new vehicle; your opinions for certain polls; and stories about your Saturn. Providing any information on Saturn's Websites is optional. In our E-card service, we ask for the e-mail addresses of your friends to send E-cards ; e-mail addresses submitted to this service will be used ONLY for sending the E-cards.</p>
+        <p class="alignLeft"><span class="under">Correcting Your Information</span> - You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Website by using <a href="http://www.saturn.com/pages/mds/owners/landing.do" target="_blank">My Profile</a>. These updates will only affect your data at the Saturn Website or call-center database.</p>
+        <p class="alignLeft"><span class="under">Privacy Inquiries</span> - If you have a question or concern about the privacy practices of the Saturn.com Website, please contact us by sending an e-mail from the <a href="http://www.saturn.com/helpcenter/contact/" target="_blank">Contact Us</a> page or by writing to us at: Saturn Customer Assistance Center, PO Box 33173, Detroit, MI 48232-5173.</p>
 
 		
-	</div>
-	
-	<div id="rightCallouts" class="en">
-		<h3 id="h3_1"><span>For California Residents</span></h3>
-		<ul id="resources">
-			<li><a href="#III">» Your California Privacy Rights</a></li>
-		</ul>
-		<div id="dots"></div>
-		<h3 id="h3_2"><span>Table of Contents</span></h3>
-		<ul id="tableRigh">
-			<li><a href="#scope">» Scope</a></li>
-			<li><a href="#infColl">» Information Collection</a></li>
-			<li><a href="#uses">» Uses</a></li>
-			<li><a href="#cookies">» Cookies and Other Tracking Devices</a></li>
-			<li><a href="#outside">» Outside Links</a></li>
-			<li><a href="#infSec">» Information Security</a></li>
-			<li><a href="#prvInq">» Privacy Inquiries</a></li>
-			<li><a href="#changes">» Changes to the Privacy Statement</a></li>
-			<li><a href="#supplemental">» Supplemental Privacy Information</a></li>
-			<li><a href="#III">» Your California Privacy Rights</a></li>
-			<li><a href="#IV">» Frequently Asked Questions</a></li>
-			</ul>
-		
-	</div>
-	
+        <div class="title"><a name="cardmember" href="http://www.gmcardmemberservices.com/" target="_blank">GM Cardmember Services</a></div>
+        <p class="heading alignLeft"><span class="under">Correcting Your Information</span> - You may correct your contact information (name, address, phone number and e-mail address) by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the Website. You can also call the Customer Center respective to your Account.</p>
+        <ul id="card">
+          <li>GM Card <span id="number1">800-771-7363</span></li>
+          <li>GM Flexible Earnings Card <span id="number2">800-388-9107</span></li>
+          <li>GM Extended Family Card <span id="number3">800-419-6698</span></li>
+          <li>GM Business Card <span id="number4">800-446-5347</span></li>
+        </ul>
+        <p class="alignLeft">You may change your GM Vehicle Preferences and e-mail address by logging into the "Earnings" portion of the site and clicking on "GM Vehicle Preferences" or "GM Profile."</p>
+        <p class="alignLeft"><span class="under">Correcting Your Information</span> - You may correct the contact information (name, address, phone number, and e-mail address) you provide on the GM Cardmember Services Website by using My Profile.</p>
+        <p class="alignLeft"><span class="under">Privacy Inquiries</span> - If you have a question or concern about the privacy practices of the GM Cardmember Services Website, please contact us by sending an e-mail from the Contact Us page or by writing to us at: GM Cardmember Services, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265.</p>
+        <div class="title"><a name="VPP" target="_blank">Vehicle Purchase Programs</a></div>
+        <p class="heading alignLeft">This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the Vehicle Purchase Programs (VPP) websites: <a href="http://www.gmfamilyfirst.com" target="_blank">GM Family First</a>, <a href="http://www.gmsupplierdiscount.com" target="_blank">GM Supplier Discount</a>, <a href="http://www.gmded.com" target="_blank">GM Dealership Employee Discount</a>, <a href="http://www.gmcollegediscount.com" target="_blank">GM College Discount</a>, <a href="http://www.gmmilitarydiscount.com" target="_blank">GM Military Discount</a> and <a href="http://www.gm.com/creditunion" target="_blank">Credit Union Member Discount from GM</a> and through our customer call centers. It also applies to personal information GM obtains for marketing purposes from GM Dealers and other sources for use in theVPP.</p>
+        <p class="alignLeft"><span class="under">Personal Information Collection</span> - You may use the VPP websites to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information to verify your eligibility for access to the Website or for participation in the vehicle purchase program. Information that may be requested on the VPP websites or at the call center includes: contact information such as name, e-mail address, and telephone number; Website eligibility verification information, such as college name, branch of service or credit union name; and purchase verification information, including birth date and zip code. If you are requesting product information, you may be asked to provide information regarding your vehicle purchase plans, and other household information.</p>
+        <p class="alignLeft"><span class="under">Uses</span> - Personal information about you may be used to respond to your requests for information; to verify your identity for access to the VPP websites and redemption of purchase authorization numbers; to customize and improve communication content; or for marketing research. It may also be used for providing you with helpful offers and information on GM products and services, as well as offers and information from our affiliates and business partners to conduct joint marketing programs with GM.</p>
+        <p class="alignLeft">Personal information supplied about a participant in the VPP is used only to verify eligibility for and redemption of purchase authorization numbers.</p>
+        <p class="alignLeft"><span class="under">Information Security</span> - We take steps to make personal information received from you secure against unauthorized access and use. Personal information submitted on the VPP websites is encrypted during transmission.</p>
+        <p class="alignLeft"><span class="under">Correcting Your Information and Privacy Inquiries</span> - If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices, please refer to the <a href="#III">frequently asked questions</a> that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482).  For GM Family First participants, you may correct your information by contacting your Human Resources representative. For other VPP participants, you may correct your personal information by visiting the following VPP websites.
+        </p><ul id="contactURLs">
+          <li>GM Family First<span id="url1"><a href="http://www.gmfamilyfirst.com">gmfamilyfirst.com</a></span></li>
+          <li>GM Supplier Discount<span id="url2"><a href="http://www.gmsupplierdiscount.com">gmsupplierdiscount.com</a></span></li>
+          <li>GM Dealership Employee Discount<span id="url3"><a href="http://www.gmded.com">gmded.com</a></span></li>
+          <li>GM College Discount<span id="url4"><a href="http://www.gmcollegediscount.com">gmcollegediscount.com</a></span></li>
+          <li>GM Military Discount<span id="url5"><a href="http://www.gmmilitarydiscount.com">gmmilitarydiscount.com</a></span></li>
+          <li>Credit Union Discount from GM<span id="url6"><a href="http://www.gm.com/creditunion">gm.com/creditunion</a></span></li>
+        </ul>
+        <p></p> 
+        <div class="title"><a name="dci">Dealer Candidate Information</a></div>
+        <p class="heading alignLeft last">Collection and Use: if you apply to become a GM dealer, in the application process we will collect personal information to evaluate your application.</p>
+      </div>
+      <h2 id="head4" class="header"><span><span><a name="III"><span><span>III. Frequently Asked Questions</span></span></a></span></span></h2>
+      <div class="content">
+        <h3>Q1: </h3>
+        <p class="heading">What are "GM affiliates"?</p>
+        <h3>A: </h3>
+        <p class="heading">As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest (for example, OnStar).</p>
+        <h3>Q2: </h3>
+        <p class="heading">What is an example of a supplier that provides services to GM?</p>
+        <h3>A: </h3>
+        <p class="heading">Suppliers are companies that provide services on GM's behalf, such as mailing you a brochure you request.</p>
+        <h3>Q3: </h3>
+        <p class="heading">What is an example of a GM business partner?</p>
+        <h3>A: </h3>
+        <p class="heading">By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is HSBC USA, which administers the GM Card and GM Extended Family Card. Another example is XM Radio.</p>
+        <h3>Q4: </h3>
+        <p class="heading">What do you mean when you say "independent use" or that you will ask for my permission before sharing my information?</p>
+        <h3>A: </h3>
+        <p class="heading">By independent use, we mean for purposes unrelated to GM's and GM affiliates' products and services. For example, if you attend a Buick golf event and the co-sponsor of that event would like to receive the information from the registration form you filled out, you will be asked for your permission on the registration form.</p>
+        <h3>Q5: </h3>
+        <p class="heading">What do dealers do with my personal information?</p>
+        <h3>A: </h3>
+        <p class="heading">GM dealers may use your personal information to contact you about your interest in GM products and services and to provide you with information about upcoming events and vehicle incentives. For questions about your dealer's specific privacy practices, please contact your dealer directly.</p>
+        <a name="q6"></a>
+		<h3>Q6: </h3>
+        <p class="heading">If I opt out of receiving communications from my dealer, will I still receive communications from GM? How can I opt-out of GM marketing communications?</p>
+        <h3>A: </h3>
+        <p class="heading">Yes, you may continue to receive communications from us. GM and GM dealers are separate legal entities with their own privacy practices. If you don't want to receive marketing messages from GM regarding our vehicles, you should call    1-866-MYPRIVACY (1-866-697-7482), or visit our Consumer Preference System Website at <a href="http://www.gmcontactpreferences.com" target="_blank">www.gmcontactpreferences.com</a>.</p>
+        <h3>Q7: </h3>
+        <p class="heading">Will you use my personal information to send me e-mails?</p>
+        <h3>A: </h3>
+        <p class="heading">Yes, we may. You can access our privacy statement from the gm.com Website and opt out of unsolicited marketing e-mails. If you have subscribed to a particular e-mail newsletter or other communication (e.g., My GMLINK Service Reminders, etc.), you should follow the instructions in the e-mail or on their Website to unsubscribe. You must contact your dealer separately.</p>
+        <h3>Q8: </h3>
+        <p class="heading">How do I opt out of receiving unsolicited marketing communications from GM or change my opt-out preferences?</p>
+        <h3>A: </h3>
+        <p class="heading">If you do not want to receive unsolicited marketing communications from GM or GM business units, please visit our <a href="http://www.gmcontactpreferences.com/" target="_blank">Consumer Preference System Website</a>. This will allow you to opt out of telephone and e-mail communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and e-mail communications, and/or to change previously submitted opt-out preferences.</p>
+        <h3>Q9: </h3>
+        <p class="heading">How long will my opt-out preferences last?</p>
+        <h3>A: </h3>
+        <p class="heading">Your GM telephone opt-out preferences will expire five (5) years from the date you submit them. Your GM direct mail opt-out preferences will expire two (2) years from the date of your submission. At this time your e-mail opt-out preferences will not expire. You can change or update your opt-out preferences by clicking <a href="http://www.gmcontactpreferences.com/" target="_blank">here</a>.</p>
+        <h3>Q10: </h3>
+        <p class="heading">How will you obtain my permission to disclose information about me to a third party?</p>
+        <h3>A: </h3>
+        <p class="heading">An example is information you provide in a BRC (Business Reply Card). We identify the third party on the card and ask for your permission to share that data with them.</p>
+        <h3>Q11: </h3>
+        <p class="heading">Does my vehicle have a black box to record data?</p>
+        <h3>A: </h3>
+        <p class="heading">GM vehicles, like other modern motor vehicles, have a number of sophisticated computer systems that monitor and control several aspects of the vehicle's performance. GM vehicles use on-board vehicle computers to monitor emission control components to optimize fuel economy, to monitor conditions for air bag deployment and, if so equipped, to provide anti-lock braking and to help the driver control the vehicle in difficult driving situations. Some information may be stored during regular operations to facilitate repair of detected malfunctions; other information is stored only in a crash event by computer systems, such as those commonly called event data recorders (EDR).</p>
+        <h3>Q12: </h3>
+        <p class="heading">Does my vehicle have an RFID feature that transmits my personal data?</p>
+        <h3>A: </h3>
+        <p class="heading last">No, many GM vehicles contain sensing and transmitting devices using the same type of radio frequency transmission technology used in RFIDs that can contain personal information. These devices are used to perform functions such as checking tire pressure. The devices do not store or transmit personal data.</p>
+      </div>
+    </div>
+    
+  </div>
+  
+  <div id="rightCallouts" class="en">
+    <h3 id="h3_1"><span>For California Residents</span></h3>
+    <ul id="resources">
+      <li><a href="/privacy/california.jsp">» Your California Privacy Rights</a></li>
+    </ul>
+    <div id="dots"></div>
+    <h3 id="h3_2"><span>Table of Contents</span></h3>
+    <ul id="tableRigh">
+      <li><a href="#scope">» Scope</a></li>
+      <li><a href="#infColl">» Information Collection</a></li>
+      <li><a href="#uses">» Uses</a></li>
+      <li><a href="#cookies">» Cookies and Other Tracking Devices</a></li>
+      <li><a href="#outside">» Outside Links</a></li>
+      <li><a href="#infSec">» Information Security</a></li>
+      <li><a href="#prvInq">» Privacy Inquiries</a></li>
+      <li><a href="#changes">» Changes to the Privacy Statement</a></li>
+      <li><a href="#supplemental">» Supplemental Privacy Information</a></li>
+      <li><a href="/privacy/california.jsp">» Your California Privacy Rights</a></li>
+      <li><a href="#III">» Frequently Asked Questions</a></li>
+    </ul>
+    
+  </div>
+  
 </div>
 
-				</div>
 			</div>
-			<div id="gFooter">
-				
-	<script type="text/javascript">
+		</div>
+	</div>
+	<div id="gFooter" style="width: 1322px;">
 		
+
+
+	<script type="text/javascript">
+
 		function popUpFooter(){
 			if (brows_footer()){
 				popUpWindow("/utilities/worldwide/worldwide.jsp","WorldWide_Sites","width=505px, height=306px, scrollbars=no");
@@ -438,26 +628,45 @@
 				popUpWindow("/utilities/worldwide/worldwide.jsp","WorldWide_Sites","width=500px, height=301px, scrollbars=no");
 				return false;
 			}
-		}	
-				
+		}
+
+		function footerResize( timeout ){
+			if( jQuery( window ).width() <= 1137 ){
+				jQuery( '#gFooter' ).css({ width: ( 1137 - 44 ) + 'px' });
+			} else {
+				jQuery( '#gFooter' ).css({ width: ( jQuery( window ).width() - 44 ) + 'px' });
+			}
+			if( timeout ){
+				setTimeout( 'blackFillResize( true )', 100 );
+			}
+		}
+
+		jQuery( document ).ready( function(){
+			jQuery( '#gFooter' ).css({ width: ( jQuery( window ).width() - 44 ) + 'px' });
+
+			jQuery( window ).resize( function() {
+				footerResize();
+			});
+			setTimeout( 'footerResize( true )', 100 );
+		});
 	</script>
-
 <ul id="gUniversalNav" class="clearfix">
-	<li id="pSafariFix"><a href="#" onclick="popUpWindow('/utilities/contact_us/contact.jsp?deep=faq','FAQ','width=737px, height=600px'); clickTrack({s_linkName: setLinkNameFooter('HELP CENTER'), s_prop5: setLinkNameFooter('HELP CENTER'), s_prop14:'', s_prop28:''}); return false;">Help Center</a></li>
-	<li id="pSafariFix"><a href="#" onclick="popUpWindow('/utilities/contact_us/contact.jsp?deep=contact','ContactUs','width=737px, height=600px'); clickTrack({s_linkName: setLinkNameFooter('CONTACT US'), s_prop5: setLinkNameFooter('CONTACT US'), s_prop14:'', s_prop28:''}); return false;">Contact Us</a></li>
-	<li><a target="_top" href="/utilities/sitemap/" onclick="clickTrack({s_linkName: setLinkNameFooter('SITE MAP'), s_prop5: setLinkNameFooter('SITE MAP'), s_prop14:'', s_prop28:''})">Sitemap</a></li>
-	<li><a target="_top" href="/search/search.jsp" onclick="clickTrack({s_linkName: setLinkNameFooter('SEARCH'), s_prop5: setLinkNameFooter('SEARCH'), s_prop14:'', s_prop28:''})">Search</a></li>
-	<!--<li><a target="_top" href="/utilities/gmsites/" onclick="popUpWindow('/utilities/gmsites/','GM_Sites','width=650px, height=503px, scrollbars=no'); clickTrack({s_linkName: setLinkNameFooter('GM SITES POPUP'), s_prop5: setLinkNameFooter('GM SITES POPUP'), s_prop14:'', s_prop28:''});return false;">GM Sites</a></li>
-	<li><a target="_top" href="javascript:void(0);" onclick="popUpFooter(); clickTrack({s_linkName: setLinkNameFooter('WORLDWIDE SITES'), s_prop5: setLinkNameFooter('WORLDWIDE SITES'), s_prop14:'', s_prop28:''}); return false;">Worldwide Sites</a></li>-->
-	<li><a target="_blank" href="http://www.onstar.com/us_english/jsp/services/index.jsp?make=gm&amp;model=homepage&amp;deepLink=overview" onclick="clickTrack({s_linkName: setLinkNameFooter('ONSTAR'), s_prop5: setLinkNameFooter('ONSTAR'), s_prop14:'ONSTAR', s_prop28:'ONSTAR EXTERNAL'})">Experience OnStar</a></li>
-	<li class="last"><a target="_top" href="/utilities/espanol/espanol.jsp" onclick="clickTrack({s_linkName: setLinkNameFooter('SPANISH'), s_prop5: setLinkNameFooter('SPANISH'), s_prop14:'', s_prop28:''})">Sitios en Español</a></li>
+	<li class="last">                                                                                                      <a href="https://www.gmretiree.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Retirees</a></li>
+	<li class="">                                               <a href="/gmownercenter" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Owners</a></li>
+	<li>                                                                                                                   <a href="http://media.gm.com" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Press Room</a></li>
+	<li class="">                                          <a href="/corporate/careers/" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Careers</a></li>
+	<li class="">                            <a href="/utilities/contact_us/contact.jsp?deep=contact" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Contact Us</a></li>
+	<li class=""><a href="/utilities/frequently-asked-questions/all-questions/index.jsp?deep=faq" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Help Center</a></li>
+	<li class="last " style="clear: both;">     <a href="/utilities/espanol/espanol.jsp" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Sitios&nbsp;en&nbsp;Español</a></li>
+	<li>                                                                                                                   <a href="http://www.onstar.com/us_english/jsp/services/index.jsp?make=gm&amp;model=homepage&amp;deepLink=overview" target="_blank" onclick="clickTrack({ pe: 'link_e', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Experience OnStar</a></li>
+	<li class="">                                          <a href="/utilities/sitemap/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Sitemap</a></li>
 </ul>
-<ul id="gUniversalNav" class="clearfix copy">
-	<li><a id="gCopy" class="gCopy" target="_top">© 2007 General Motors Corporation</a></li>
-	<li><a class="gCopy" target="_top" href="/copyright/" onclick="clickTrack({s_linkName: setLinkNameFooter('GM COPYRIGHT'), s_prop5:setLinkNameFooter('GM COPYRIGHT'), s_prop14:'', s_prop28:''})">Copyright/Trademark</a></li>
-	<li class="last"><a class="gCopy" target="_top" href="/privacy/" onclick="clickTrack({s_linkName: setLinkNameFooter('PRIVACY'), s_prop5:setLinkNameFooter('PRIVACY'), s_prop14:'', s_prop28:''})">Privacy Statement</a></li>
+<ul id="gUniversalNav">
+	<li><a id="gCopy" class="gCopy" target="_top">© 2010 General Motors Company</a></li>
+	<li class="">                                                  <a class="gCopy" href="/copyright/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Copyright/Trademark</a></li>
+	<li class="last onState">                                               <a class="gCopy" href="/privacy/" target="_top" onclick="clickTrack({ pe: 'link_o', pev1: this.href, pev2: 'HOMEPAGE | GLOBAL FOOTER', s_linkName: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase(), s_prop5: 'HOMEPAGE | GLOBAL FOOTER | ' + this.innerHTML.toUpperCase()},'true')">Privacy Statement</a></li>
+
 </ul>
-<!--<p id="gCopy"><p>&copy; 2007 General Motors Corporation</p><a target="_top" href="/copyright/" onclick="clickTrack({s_linkName:'GM | HOMEPAGE | GLOBAL FOOTER | GM COPYRIGHT', s_prop5:'GM | HOMEPAGE | GLOBAL FOOTER | GM COPYRIGHT'})">Copyright/Trademark</a></p>-->
 
 
 
@@ -466,14 +675,17 @@
 
 
 
-				
-			</div>
-		</div>
+
+
+
+
+		
 	</div>
 	
 
-  
-	
+			
+
+
 <!-- SiteCatalyst code version: G.9.
 Copyright 1997-2004 Omniture, Inc. More info available at
 http://www.omniture.com --><script type="text/javascript"><!--
@@ -493,8 +705,9 @@ var s_prop13=""
 var s_prop14=""
 var s_prop15=""
 var s_prop16=""
+var s_prop17=""
 var s_prop20=""
-var s_prop24="ENGLISH";
+var s_prop24="EN";
 var s_prop25="GM";
 var s_prop26=getESTHour();
 var s_prop27=daysofweek[(new Date()).getDay()].toUpperCase();
@@ -516,7 +729,7 @@ var s_eVar5=""
 //--></script>
 
 
-<script type="text/javascript" src="/js/s_code_remote.js"></script><img name="s_i_gmgmcomdev" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gmgmcomdev/1/G.5-PD-R/s91068779911807?[AQB]&amp;ndh=1&amp;t=24/1/2020%204%3A9%3A22%201%200&amp;pageName=GM%20%7C%20PRIVACY&amp;c1=GENERAL&amp;c2=PRIVACY&amp;c3=GENERAL%20%7C%20PRIVACY&amp;c24=ENGLISH&amp;c25=GM&amp;c26=23&amp;c27=MONDAY&amp;g=https%3A//web.archive.org/web/20071231093744id_/http%3A//www.gm.com/privacy/&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/js/s_code_remote.js"></script><img name="s_i_gmgmcomdev" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gmgmcomdev/1/G.5-PD-R/s95851928649799?[AQB]&amp;ndh=1&amp;t=24/1/2020%204%3A7%3A47%201%200&amp;pageName=GM%20%7C%20PRIVACY&amp;c1=GENERAL&amp;c2=PRIVACY&amp;c3=GENERAL%20%7C%20PRIVACY&amp;c24=EN&amp;c25=GM&amp;c26=23&amp;c27=MONDAY&amp;g=https%3A//web.archive.org/web/20101206195524id_/http%3A//www.gm.com/privacy/&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.9. -->
 
 <script type="text/javascript">
@@ -526,12 +739,14 @@ var s_eVar5=""
   function sendLinkEvent(str,lnkname){
   ns=s_account; if((str!="")&&(str!=null))ns+=","+str; s_linkType="o"; s_lnk=true; s_linkName=lnkname; void(s_gs(ns));}
 </script>  
-	
-  
-	
+		
+			
+
+
  
-   
-	
+  
+		
+
 
 
 
