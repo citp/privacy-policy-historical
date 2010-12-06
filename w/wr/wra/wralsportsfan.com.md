@@ -1,0 +1,76 @@
+> *The following text is extracted and transformed from the wralsportsfan.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206035656id_/http%3A//www.wralsportsfan.com/rs/page/3449665) for the most accurate reproduction.*
+
+# Privacy Policy - WRALSportsFan.com
+
+## WRALSportsFan
+
+### Privacy Policy
+
+Last Updated: December 15, 2006  
+  
+WRALSportsFan.com is committed to protecting your privacy. We know that you care about how information about you is used and shared, and we appreciate your trust that we will use that information carefully and sensibly in accordance with this Privacy Policy.  
+Please read this Privacy Policy carefully so that you understand our privacy practices. By visiting WRALSportsFan.com, you agree that your use of our site, and any dispute over privacy, is governed by this Privacy Policy. 
+
+### Privacy of Children
+
+Protecting the privacy of children is especially important. For that reason, WRALSportsFan.com does not knowingly allow anyone under the age of 18 to register for the site or provide us with any personally identifying information.  In no other way do we knowingly collect or maintain personally identifiable information on WRALSportsFan.com from persons under 18 years of age, and no part of our website is directed to persons under 18. If WRALSportsFan.com learns that personally identifiable information of persons under 18 years of age has been collected, then WRALSportsFan.com will take the appropriate steps to delete this information.  If you are under the age of 18, please do not attempt to register to use this site.  
+Because of the nature of this site, activities involving children, or a specific child, may be the topics of postings and comments on WRALSportsFan.com, and photographs posted on the site by parents or other community members may include images of children. Please respect the privacy of these children by not providing personal information about any child on the site unless you are the child's parent or guardian or have the explicit consent of the child, parent or guardian. In any event, never use the site to demean children or a specific child in any way.
+
+### Information Collection and Use by WRALSportsFan.com
+
+The information we collect falls into two categories: (1) user-provided personal information such as information that you provide to us when you register to use our Web site, and (2) certain anonymous information that we collect as you navigate through the WRALSportsFan.com pages. You also provide personal information when choosing to participate in various activities on WRALSportsFan.com such as uploading videosphotos, posting messages on our site, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.  Below is a description of each type of information we collect and how we use it:
+
+  * Registration Information. Anyone may visit WRALSportsFan.com and read its contents, but only registered users may post information or comments or use certain WRALSportsFan.com services. We require users to register to encourage responsible and courteous conduct.  In our registration process, we require you to provide your e-mail address, zip code, gender and year of birth. We use this information to create a unique registration profile for you, to communicate with you regarding your registration, and to verify that you are not under the age of 18. We also may ask you to provide, at your option, your address and certain demographic information. This information will help us to better understand our audience, but is not required as a condition of registering; you may decline to provide any or all such optional information. Once you register with WRALSportsFan.com and sign in to our site, you are not anonymous to us, though you may use an assumed member name when posting to the site if you'd prefer to remain anonymous to other members of the WRALSportsFan.com community and other visitors to the site.
+  * Your E-mail Address. Required We require you to provide your e-mail address as part of the registration process. When you register with our site, we will send you an e-mail confirming your registration. We may use your e-mail address to send you administrative e-mails from time to time containing announcements and communications regarding the WRALSportsFan.com service. If you do not wish to receive administrative e-mails from us, please do not register to use our site. You also may elect to receive regular newsletters or information updates from us or to receive commercial e-mails from us that advertise our services and the products or services of our advertising partners. Even if you choose to receive commercial e-mails, we will not share your e-mail address with our third-party advertisers, though we may send you advertising materials on their behalf. Our newsletters, information updates and advertising e-mails will be sent to you only if you request them on an opt-in basis. Once you have opted in to receive such e-mails, you may unsubscribe from them at any time by following the simple instructions included in each e-mail.
+  * Browser-Level Information.  When you visit WRALSportsFan.com, our web server automatically collects limited information about your computer configuration, such as the type of browser software you use and the operating system you're running and your IP address.  So WRALSportsFan.com does log non-personally-identifiable information including IP address, profile information, aggregate user data,  browser type,  browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, from users and visitors to the site.  This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. We use this information to make our site as useful as we can for as many users as possible.
+  * Cookies and Web Beacons.  We also use "cookies" to track which pages of our site you visit.  Our use of cookies also prevents you from having to re-enter your log-in information each time you visit the site. We use the services of a an independent company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the product codes and prices for merchandise that visitors purchase, the pages visited, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company manages the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking here.
+  * If you leave WRALSportsFan.com to visit our advertisers' Web sites, some of those advertisers also may place cookies on your computer. We don't have access to those cookies or to any information they contain, and the use and collection of your information by such third-party advertisers is governed by the advertiser's Privacy Policy, which may be different from ours. Because cookies are stored on your hard drive, not on our Web site, you can set your browser to decline cookies and can delete them from your computer. However, if you don't accept cookies, you may need to re-enter your log-in information each time you visit our site, and you may not be able to take advantage of various features on our site that are available to other visitors.
+  * Aggregate Information Used to Serve and Target Ads. We may aggregate the information we collect from our users and use this anonymous, aggregated information to target ads on our site. (For example, we may use this information to tell advertisers the age range, gender composition, and geographic location of the audience the advertisers will be reaching.) When we aggregate your information, no specific personal information is included, and you cannot be identified from this aggregate information.
+  * Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties on our site - for example, in a post, comment, classified ad, event listing or Yellow Pages review, or on other areas of our site - that information can be seen, collected and used by anyone who visits the site. We cannot control and therefore cannot be responsible for any unauthorized third-party use of such information. Please respect the privacy of others by not posting their personal information on our site without their permission.
+
+
+
+### Disclosure of Information
+
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. WRALSportsFan.com will not rent, sell, or share your personal information with unaffiliated companies or people except (1) as necessary to provide you with products or services you've requested, (2) when we have your permission, or (3) as follows:
+
+  * We may disclose your personal information to trusted partners who work on behalf of WRALSportsFan.com under confidentiality agreements. These companies may use your personal information to help us serve you. However, these companies are not allowed to share this information or to use it for their own purposes.
+  * We may disclose your personal information to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by WRALSportsFan.com, whether or not a response is required by applicable law.
+  * We may disclose your personal information to enforce our WRALSportsFan.com Terms of Use Agreement,  or to protect the rights, property or safety of members of the WRALSportsFan.com community, other visitors to our site, our advertisers and other customers, the public, or WRALSportsFan.com and its employees.
+  * As our business grows, we may buy or sell various assets. In the event that WRALSportsFan.com or some or all of our assets are acquired by another company, information about our users may be among the transferred assets.
+
+
+
+### Promotions, Contests and Sweepstakes
+
+From time to time, WRALSportsFan.com or a partner, may sponsor a promotion, sweepstake or contest on WRALSportsFan.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+
+### Making Changes To Your Personal Information
+
+You can edit your WRALSportsFan.com registration information, including your e-mail address and options for receiving news and information and advertising e-mails, and can delete your registration and member name, at any time by going to the Registration page. If you delete your WRALSportsFan.com registration, certain personal information might remain in our archived records after your account has been deleted.
+
+### Email Choice/Opt-out
+
+Members who no longer wish to receive updates or notifications may choose not to by unsubscribing on the Mailing List Admin page. All notification emails and WRALSportsFan.com newsletters also include the above instructions for opting-out of those communications in the future.
+
+### Links To Other Sites
+
+WRALSportsFan.com, and users who post information on WRALSportsFan.com, may provide links to third-party Web sites whose privacy policies we do not control. When you access another site, use of any information you provide is governed by the Privacy Policy of the operator of the site you're visiting. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on WRALSportsFan.com.  
+Archiving and Storage
+
+All WRALSportsFan.com postings may be stored in our database, even after deletion from the site. Our web logs and other records may be stored indefinitely. In addition, search engines and other sites not affiliated with WRALSportsFan.com may cache or archive postings from WRALSportsFan.com, and may make such postings available for viewing on their sites. (For example, some search engines take a snapshot of each web page examined by the search engine as it crawls the web, and may cache these pages as a backup in case the original page is unavailable. Search engine users can view the cached pages simply by clicking on the "cached" link.) We have no control over this.  
+Security
+
+WRALSportsFan.com has taken steps to protect the confidentiality of the personal information it collects from members of the WRALSportsFan.com community. Information we gather on WRALSportsFan.com is stored within WRALSportsFan.com-controlled databases (or databases hosted on our behalf) on servers maintained in protected environments, and we limit access to your personal information to WRALSportsFan.com employees who we believe need to see that information to provide you with services or otherwise do their jobs. However, no physical or electronic security system is impenetrable, and we cannot guarantee the security of our servers or databases, nor can we guarantee that the information that you supply to us won't be intercepted during transmission over the Internet. It is important for you to protect against unauthorized access to your WRALSportsFan.com account, especially on a shared computer, by logging out when you are finished using our site.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time
+
+### Changes to Our Privacy Policy
+
+Because the web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this Web site and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the WRALSportsFan.com Web site after we post any such changes, you accept the Privacy Policy as modified.
+
+### Contacting Us with Questions
+
+For more information, or if you have questions about this Privacy Policy, please [contact us](https://web.archive.org/rs/page/3372074/). 
+
+### Report Misconduct
+
+If you see something on WRALSportsFan.com that you consider inappropriate or abusive, please let us know immediately.
