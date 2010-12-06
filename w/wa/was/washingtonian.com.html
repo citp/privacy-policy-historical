@@ -1,8 +1,93 @@
-<!--The following is the downloaded HTML source of the washingtonian.com privacy policy that was archived on 2008-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080623041412id_/http%3A//www.washingtonian.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the washingtonian.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206203923id_/http%3A//www.washingtonian.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="http://www.washingtonian.com/js/AC_RunActiveContent.js" language="javascript"></script>
+
+<script language="JavaScript">
+	//window.addEvent('domready', function() {
+		//hideFlash();
+	//});
+	
+	function hideFlash() {
+                //alert('hide');
+                        try {
+			   $('flashad').setStyle({ display:'none'} );
+                        } catch(err) {
+			   $('flashad').style.display='none';
+                        }
+                //alert('hideA');
+		//checkForFlashAd2010();
+	}
+	
+	function closeFlashAd() {
+                //alert('close');
+                        try {
+			   $('flashad').setStyle({ display:'none'} );
+                        } catch(err) {
+			   $('flashad').style.display='none';
+                        }
+	}
+
+	function checkForFlashAd2010() {
+                //alert('1');
+		var check_name = "WashingtonianHolidayAd"
+		var check_name2 = "WashingtonHolidayAdDone";
+		var a_all_cookies = document.cookie.split( ';' );
+		var a_temp_cookie = '';
+		var cookie_value = '';
+		var b_cookie_found = false; // set boolean t/f default f
+		var done_cookie = false;
+		for ( i = 0; i < a_all_cookies.length; i++ )
+		{
+			a_temp_cookie = a_all_cookies[i].split( '=' );
+			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+			if ( cookie_name == check_name2) {
+				done_cookie = true;
+				break;
+			}
+			if ( cookie_name == check_name )
+			{
+				b_cookie_found = true;
+				break;
+			}
+			a_temp_cookie = null;
+			cookie_name = '';		
+		}
+	        //alert(done_cookie);	
+	        //alert(b_cookie_found);	
+		if ((!done_cookie) && (!b_cookie_found)) {
+			// if no cookie:
+	                //alert('3');	
+			var today = new Date();
+			today.setTime( today.getTime() );
+			var expires = 7 * 1000 * 60 * 60 * 24;
+			var expires_date = new Date( today.getTime() + (expires) );
+			// show flash
+			//$('flashad').setStyle('display','block');
+			//$('flashad').setStyle(display,'block');
+	                //alert('4');	
+                        try {
+			   $('flashad').setStyle({ display:'block'} );
+                        } catch(err) {
+			   $('flashad').style.display='block';
+                        }
+	                //alert('5');	
+			document.cookie = "WashingtonianHolidayAd=2010; path=/; expires=" + expires_date.toGMTString();
+		}
+	}
+	
+	function neverAd() {
+		var today = new Date();
+		today.setTime( today.getTime() );
+		var expires = 365 * 1000 * 60 * 60 * 24;
+		var expires_date = new Date( today.getTime() + (expires) );	
+		document.cookie = "WashingtonianHolidayAdDone=2010; path=/; expires=" + expires_date.toGMTString();
+	}
+
+</script>
 
 
 
@@ -31,7 +116,7 @@
 	
 	<!-- Washingtonian -->
 
-    <style type="text/css" media="screen">@import url('http://www.washingtonian.com/css/washingtonian.css');</style>
+    <style type="text/css" media="screen">@import url('http://www.washingtonian.com/css/washingtonian_dec09a.css');</style>
     <style type="text/css" media="screen">@import url('http://www.washingtonian.com/css/start.css');</style>
     <style type="text/css" media="screen">@import url('http://www.washingtonian.com/css/menu.css');</style>
     <style type="text/css" media="screen">@import url('http://www.washingtonian.com/css/static.css');</style>
@@ -50,16 +135,10 @@
 var ord=Math.random()*10000000000000000; 
 </script>
 
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-1860879-1";
-_userv=2;
-urchinTracker();
-</script>
-
-<script type="text/javascript" src="http://www.washingtonian.com/js_loader/utm.js"></script>
+<script type="text/javascript" src="http://www.washingtonian.com/js_loader/scriptaculous_1_8_3/prototype.js"></script>
+<script type="text/javascript" src="http://www.washingtonian.com/js_loader/scriptaculous_1_8_3/scriptaculous.js"></script>
+<script type="text/javascript" src="http://www.washingtonian.com/js_loader/lightview.js"></script>
+<link rel="stylesheet" href="http://www.washingtonian.com/css/lightview.css" type="text/css" media="screen">
 
 <!-- PUT THIS TAG IN THE head SECTION -->
 
@@ -72,10 +151,13 @@ urchinTracker();
 
 
 <script language="JavaScript">
-      GA_googleAddSlot("ca-pub-7659396398034687", "ROS_MediumRectangle_300x250"); 
+      GA_googleAddSlot("ca-pub-7659396398034687", "MediumRectangle_Bottom"); 
+          GA_googleAddSlot("ca-pub-7659396398034687", "ROS_MediumRectangle_300x250"); 
+          GA_googleAddSlot("ca-pub-7659396398034687", "Leaderboard_Bottom"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Skyscraper_160x600"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_HalfPage_300x600"); 
-          GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Tile_120x90"); 
+          GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Tile_260x60"); 
+          GA_googleAddSlot("ca-pub-7659396398034687", "Slideshow_MediumRectangle_300x250"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Leaderboard_728x90"); 
         
 </script>
@@ -85,9 +167,11 @@ urchinTracker();
   GA_googleFetchAds();
 </script>
 <!-- END OF TAG FOR head SECTION -->
-
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://publishers.halogennetwork.com/tracking/washingtonian.js"></script>
+<!-- End Quantcast tag -->
 </head>
-<body>
+<body onload="javascript:checkForFlashAd2010()">
 <a name="top"></a>
 <div id="custom-doc"> 
 
@@ -95,7 +179,7 @@ urchinTracker();
 		<div class="top-bar">
 			<ol>
 					<li class="claim" style="padding-left: 22px"><img src="http://www.washingtonian.com/images/claim.gif"></li>
-					<li><a href="http://www.washingtonian.com/subscribe.html">Subscribe</a></li>
+					<li><a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=WSH&amp;cds_page_id=60116">Subscribe</a></li>
 					<li> | </li>
 					<li><a href="http://www.washingtonian.com/advertise/index.html">Advertise</a></li>
 <li class="search"><form name="gs" method="GET" action="http://search.washingtonian.com/search"><table><tbody><tr><td><input class="search" type="text" id="searchField" name="q" onfocus="clearText(this)" onblur="clearText(this)" value=""></td><td><input type="image" style="margin-top: px;" name="btnG" id="searchButton" src="http://www.washingtonian.com/images/buttons/search_topbar2.gif" onclick="document.SiteSearchForm.submit();return false;"></td></tr></tbody></table>
@@ -115,7 +199,7 @@ urchinTracker();
 			<span style="float: right">
         
 <script language="JavaScript">
-          GA_googleFillSlot("ROS_Tile_120x90"); 
+          GA_googleFillSlot("ROS_Tile_260x60"); 
             
 </script>
         
@@ -126,13 +210,19 @@ urchinTracker();
 		<div class="navigation">
 			
 
-
-<map name="packages">
-	<area shape="rect" coords="235,2,245,20" href="http://www.washingtonian.com/packages/index.html" alt="more packages" title="more packages">
-	<area shape="rect" coords="167,2,228,20" href="http://www.washingtonian.com/weddings" alt="wedding guide" title="wedding guide">
-	<area shape="rect" coords="70,2,150,20" href="http://www.washingtonian.com/topdoctors" alt="top doctors" title="top doctors">
-	<area shape="rect" coords="12,2,52,20" href="http://www.washingtonian.com/blogs" alt="blogs" title="blogs">
+<map name="packages5">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Mark Gibson -->
+<area shape="rect" coords="0,1,50,27" alt="Best Of..." href="http://www.washingtonian.com/sections/bestof">
+<area shape="rect" coords="51,0,103,26" alt="Top Doctors" href="http://www.washingtonian.com/topdoctors">
+<area shape="rect" coords="106,1,157,26" alt="Top Lawyers" href="http://www.washingtonian.com/toplawyers">
+<area shape="rect" coords="158,0,216,26" alt="Weddings" href="http://www.washingtonian.com/weddings">
+<area shape="rect" coords="217,0,261,25" alt="More..." href="http://www.washingtonian.com/packages/index.html">
 </map>
+
 
 <div class="navigation" style="border-bottom: 0;">
 	<ol>
@@ -163,7 +253,7 @@ urchinTracker();
 		
 		
 			<li class="">
-					<a href="http://www.washingtonian.com/sections/people/index.html">News &amp; Politics</a>
+					<a href="http://www.washingtonian.com/sections/people/index.html">News &amp; Features</a>
 			</li>
 		
 		
@@ -177,7 +267,7 @@ urchinTracker();
 			</li>
 		
 		
-		<li class="pimage"><img src="http://www.washingtonian.com/images/packages_menu2.gif" width="252" height="26" usemap="#packages"></li>
+		<li class="pimage"><img src="http://www.washingtonian.com/images/packages_menu5.gif" width="264" height="26" usemap="#packages5"></li>
 
 		<!-- li class="packs">
 			<ol>
@@ -222,7 +312,7 @@ urchinTracker();
 			
 		</div>
 
-		<div class="leaderboard">
+		<div class="leaderboard" style="z-index:0;">
 			
 				
         
@@ -358,9 +448,10 @@ Email: privacy@washingtonian.com</p>
 				<td class="column-right">
 					<div class="wrapper">
 
-	<div class="ad-nolabel">
-		<a href="http://washingtonianbestof.eventbrite.com" target="_blank"><img src="/images/banners/Party4.jpg" alt="" width="300" height="70" border="0"></a>
-	</div>
+    <div class="ad-nolabel">
+        <a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=WSH&amp;cds_page_id=83255"><img src="/images/banners/ad_subscribe.gif" alt="" width="300" height="70" border="0"></a>
+	<!--<a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=WSH&cds_page_id=60116" ><img src="/images/banners/ad_subscribe.gif" alt="" width="300" height="70" border="0" /></a>-->
+    </div>
 
 					
 	<div class="ad">
@@ -377,36 +468,49 @@ Email: privacy@washingtonian.com</p>
 
 <script type="text/javascript" src="http://www.washingtonian.com/js/emailcheck.js"></script>
 
+<script type="text/javascript" src="http://www.washingtonian.com/js/jquery-1.4.2.min.js"></script> 
+<script>
+    // To avoid conflicts, use the 'jq' variable instead of the $ variable
+    var jq = jQuery.noConflict();
+    
+    // If cssQuery is not defined (loaded earlier), redefine it in terms of jQuery
+    // For everything but corner cases, this is good enough
+    if (typeof cssQuery == 'undefined') {
+        function cssQuery(s, f) { return jq.makeArray(jq(s, f)) };
+    };
+</script>
+   
+
 <script language="javascript">
-                    
+              
 function subscribeToNewsletter() {
-	var url = document.nlForm.action;
-        var Email = document.nlForm.Email.value;
-        //var pwd = document.nlForm.pwd.value;
-        //var confirm = document.nlForm.confirm.value;
-        var pars = 'Email=' + Email; // + '&pwd=' + pwd + '&confirm=' + confirm;
-        var newsletters = [];
-        var i;
-        for (i=0; i<document.nlForm.newsletters.length; i++) {
-            if (document.nlForm.newsletters[i].checked) {
-                newsletters = newsletters + '&newsletters=' + document.nlForm.newsletters[i].value;
-            }
+    var url = document.theForm.action;
+    var Email = document.theForm.fields_email.value;
+    //var pwd = document.theForm.pwd.value;
+    //var confirm = document.theForm.confirm.value;
+    var pars = 'Email=' + Email; // + '&pwd=' + pwd + '&confirm=' + confirm;
+    var newsletters = [];
+    var i;
+    for (i=0; i<document.theForm.newsletters.length; i++) {
+        if (document.theForm.newsletters[i].checked) {
+            newsletters = newsletters + '&newsletters=' + document.theForm.newsletters[i].value;
         }
-        pars = pars + newsletters;
-	var myAjax = new Ajax.Updater('MsgResult', url, {method: 'post', parameters: pars});
-        document.getElementById('MsgResult').style.display='block';
-
-  //document.getElementById('nl_email').style.display='block';
-  //document.getElementById('nl_step1_button').style.display='block';
-
-  //document.getElementById('nl_pwd').style.display='none';
-  //document.getElementById('nl_confirm').style.display='none';
-  //document.getElementById('nl_step2_button').style.display='none';
-
-  //field = document.getElementById('nl_email');
-  //alert(field.value);
-  //field.value = field.defaultValue;
-  //alert(field.defaultValue);
+    }
+    pars = pars + newsletters;
+    var myAjax = new Ajax.Updater('MsgResult', url, {method: 'post', parameters: pars});
+    document.getElementById('MsgResult').style.display='block';
+    
+    //document.getElementById('nl_email').style.display='block';
+    //document.getElementById('nl_step1_button').style.display='block';
+    
+    //document.getElementById('nl_pwd').style.display='none';
+    //document.getElementById('nl_confirm').style.display='none';
+    //document.getElementById('nl_step2_button').style.display='none';
+    
+    //field = document.getElementById('nl_email');
+    //alert(field.value);
+    //field.value = field.defaultValue;
+    //alert(field.defaultValue);
 }
 
 function clearText(field){
@@ -415,53 +519,153 @@ function clearText(field){
 }  
 
 function goNLStep2() {
-  var mailcheck = checkemail(document.forms.nlForm.Email.value);
-  if (mailcheck) {
-      document.getElementById('nl_email').style.display='none';
-      document.getElementById('nl_step1_button').style.display='none';
+    var mailcheck = checkemail(document.forms.theForm.Email.value);
+    if (mailcheck) {
+        document.getElementById('nl_email').style.display='none';
+        document.getElementById('nl_step1_button').style.display='none';
+        
+        document.getElementById('nl_pwd').style.display='block';
+        document.getElementById('nl_confirm').style.display='block';
+        document.getElementById('nl_step2_button').style.display='block';
+    }
+    else {
+        return mailcheck;
+    }
+}
 
-      document.getElementById('nl_pwd').style.display='block';
-      document.getElementById('nl_confirm').style.display='block';
-      document.getElementById('nl_step2_button').style.display='block';
-  }
-  else {
-      return mailcheck;
-  }
+function verifyRequired() {
+    if (document.theForm["fields_email"].value == "" || document.theForm["fields_email"].value == "Email Address" ) {
+        document.theForm["fields_email"].focus();
+        alert("The Email field is required.");
+        return false;
+    }
+    // The following length returns 1 if no items are checked -- weird
+    if (jq("input[@class=listidcheckbox]:checked").length == 1) {
+        alert("Please select a list to receive.");
+        return false;
+    }
+    // above jquery replaces this hardcoded list
+    //     if (
+    //         !document.theForm["listid:9857619"].checked &&
+    //         !document.theForm["listid:9857616"].checked &&
+    //         !document.theForm["listid:9857621"].checked &&
+    //         !document.theForm["listid:9857618"].checked &&
+    //         !document.theForm["listid:9857617"].checked &&
+    //         true)  {
+    //             alert("Please select a list to receive.");
+    //             return false;
+    //     } 
+    x=document.theForm.submit();
+    msg= document.getElementById('MsgResult');
+    if (msg.style.display=='block')    {
+        msg.style.backgroundColor='#FFFEC0';
+    }
+    else    {
+        msg.style.display='block'
+    }
+
+    return true;
 }
 </script>
-					  	<div class="box-newsletter">
-					  		<form action="http://www.washingtonian.com/subscribeToNewsletters" name="nlForm" method="POST">
 
-					  			<fieldset>
-									<legend>Newsletter Signup</legend>
-						  			<ol>
+<div class="box-newsletter">
 
+<form action="http://www.washingtonian.com/submitNewsletter" name="theForm" method="POST" onsubmit="javascript:return verifyRequired();">
+    <input type="hidden" name="targeturl" value="http://app.icontact.com/icp/signup.php">
+    <input type="hidden" name="redirect" value="http://www.washingtonian.com/index.html">
+    <input type="hidden" name="listid" value="__multi">
+    <input type="hidden" name="lists" value="9867677:9857619:9857616:9857621:9857618:9857617"> 
+    
+    <input type="hidden" name="specialid:9867677" value="AQM0">
+    
+    
+    <input type="hidden" name="specialid:9857619" value="MINP">
+    
+    
+    <input type="hidden" name="specialid:9857616" value="N2VO">
+    
+    
+    <input type="hidden" name="specialid:9857621" value="E9HC">
+    
+    
+    <input type="hidden" name="specialid:9857618" value="NUFA">
+    
+    
+    <input type="hidden" name="specialid:9857617" value="LPMN">
+    
+    <input type="hidden" name="clientid" value="398209">
+    <input type="hidden" name="formid" value="1674">
+    <input type="hidden" name="reallistid" value="1">
+    <input type="hidden" name="doubleopt" value="0">
+        <!-- on success -->
+        <!--
+        tal:attributes="value string:${here/topURL}/Registration/success.html" />
+        -->
+        <!-- on error -->
+        <!--
+        <form action="./registerUser" name="theForm" method="POST"
+                          tal:attributes="action string:${here/topURL}/subscribeToNewsletters">
+        -->
+    <fieldset>
+    <legend>Newsletter Signup</legend>
+    <ol>
+        
 
-						  				<li class="first"><input type="checkbox" name="newsletters" checked="" value="2"> Where &amp; When</li>
-						  				<li class=""><input type="checkbox" name="newsletters" checked="" value="3"> Shop Around</li>
-						  				<li class=""><input type="checkbox" name="newsletters" checked="" value="1"> Dining Out</li>
-						  				<li class=""><input type="checkbox" name="newsletters" checked="" value="4"> Bridal Party</li>
-						  				<li class=""><input type="checkbox" name="newsletters" checked="" value="5"> Kliman Online</li>
+            <li class="first">
+                <input type="checkbox" class="listidcheckbox" id="listid:9867677" name="listid:9867677" checked=""> 
+                    Washingtonian Deals
+             </li>
+            <li class="">
+                <input type="checkbox" class="listidcheckbox" id="listid:9857619" name="listid:9857619" checked=""> 
+                    Bridal Party
+             </li>
+            <li class="">
+                <input type="checkbox" class="listidcheckbox" id="listid:9857616" name="listid:9857616" checked=""> 
+                    Dining Out
+             </li>
+            <li class="">
+                <input type="checkbox" class="listidcheckbox" id="listid:9857621" name="listid:9857621" checked=""> 
+                    Kliman Online
+             </li>
+            <li class="">
+                <input type="checkbox" class="listidcheckbox" id="listid:9857618" name="listid:9857618" checked=""> 
+                    Shop Around
+             </li>
+            <li class="">
+                <input type="checkbox" class="listidcheckbox" id="listid:9857617" name="listid:9857617" checked=""> 
+                    Where &amp; When
+             </li>
 
-						  				<li id="nl_email"><input class="text" type="text" name="Email" onblur="clearText(this);" onfocus="clearText(this);" value="Email Address"></li>
-                                                                                <li id="nl_pwd" style="display: none;">Password: <input class="text" type="password" name="pwd" value=""></li>
-                                                                                <li id="nl_confirm" style="display: none;">Confirm: <input class="text" type="password" name="confirm" value=""></li>
+        
+        <li id="nl_email">
+            <input class="text" type="text" name="fields_email" onblur="clearText(this);" onfocus="clearText(this);" value="Email Address">
+        </li>
+            <!--
+            <li id="nl_pwd" style="display: none;">Password: <input class="text" type="password" name="pwd" tal:attributes="value python: request.get('pwd', '')" /></li>
+            <li id="nl_confirm" style="display: none;">Confirm: <input class="text" type="password" name="confirm" tal:attributes="value python: request.get('confirm', '')" /></li>
+            -->
+        <li id="MsgResult" style="display:none;background-color:#EDF2F6">Thank you for subscribing.</li>
+    
+        <li class="last" id="nl_step1_button">
+            <span style="float: right"><a href="http://www.washingtonian.com/Registration/index_html">Learn more</a></span>
+            <a href="" onclick="javascript: verifyRequired(); return false;">
+                <img src="http://www.washingtonian.com/images/buttons/sign_up.gif" alt="sign_up.gif" width="50" height="9">
+            </a>
+        </li>
+    
+                <!--
+                <li class="last" id="nl_step2_button" style="display: none;">
+                <span style="float: right"><a href="" tal:attributes="href string:${here/topURL}/Registration/index_html">Learn more</a></span>
+                <img src="images/buttons/sign_up.gif" alt="sign_up.gif" width="50" height="9"
+                                                      tal:attributes="src string:${here/topURL}/images/buttons/sign_up.gif"
+                                                      onClick="javascript: subscribeToNewsletter(); return false;" /></li>
+                -->
+    </ol>
+    </fieldset>
+</form>
+</div>
 
-<li id="MsgResult" style="display:none;"></li>
-
-						  				<li class="last" id="nl_step1_button">
-						  					<span style="float: right"><a href="http://www.washingtonian.com/Registration/index_html">Learn more</a></span>
-<a href="" onclick="javascript: subscribeToNewsletter(); return false;">
-						  					<img src="http://www.washingtonian.com/images/buttons/sign_up.gif" alt="sign_up.gif" width="50" height="9"></a></li>
-
-						  				<li class="last" id="nl_step2_button" style="display: none;">
-						  					<span style="float: right"><a href="http://www.washingtonian.com/Registration/index_html">Learn more</a></span>
-						  					<img src="http://www.washingtonian.com/images/buttons/sign_up.gif" alt="sign_up.gif" width="50" height="9" onclick="javascript: subscribeToNewsletter(); return false;"></li>
-						  			</ol>
-						  		</fieldset>
-					  		</form>
-					  	</div>
-					  	<div class="box-newsletter-bottom">&nbsp;</div>
+<div class="box-newsletter-bottom">&nbsp;</div>
 
 		            
         		        
@@ -476,11 +680,11 @@ function goNLStep2() {
 
 						<div>
 
-				   	 		<h1 class="fs10"><a href="/blogarticles/people/capitalcomment/8346.html" class="headline-link">Most Popular Blog Posts of the Week</a></h1>
+				   	 		<h1 class="fs10"><a href="/blogarticles/shopping/shoparound/17572.html" class="headline-link">Etsy Stylist: On the Go</a></h1>
 
 				   	 		<p class="fs1">
-								Miss out on some of our blog posts from this week? Worry not—we're here to fill you in on what the most popular blog posts were from the past seven days. See below for our top five. 
-								<a href="/blogarticles/people/capitalcomment/8346.html">more</a>
+								Vintage suitcases are sure to stand out from the rest on the airport luggage carousel 
+								<a href="/blogarticles/shopping/shoparound/17572.html">more</a>
 				   	 		</p>
 				   	 		<!-- div class="f1-actions">
 				   	 			<a href=""
@@ -515,11 +719,11 @@ function goNLStep2() {
 
 						<div>
 
-				   	 		<h1 class="fs10"><a href="/blogarticles/restaurants/bestbites/8348.html" class="headline-link">The Wrap-Up: The Week in Food</a></h1>
+				   	 		<h1 class="fs10"><a href="/blogarticles/restaurants/bestbites/17574.html" class="headline-link">Table to Table: The Week in Food Events</a></h1>
 
 				   	 		<p class="fs1">
-								We give you the run-down on what happened in this week in food. 
-								<a href="/blogarticles/restaurants/bestbites/8348.html">more</a>
+								This week, Seinfeld inspires a holiday celebration, chefs and fashion collide, and pastry meets cocktails. 
+								<a href="/blogarticles/restaurants/bestbites/17574.html">more</a>
 				   	 		</p>
 				   	 		<!-- div class="f1-actions">
 				   	 			<a href=""
@@ -583,28 +787,50 @@ function goNLStep2() {
 	<div id="ft">
 	
 
-		<div class="leaderboard">
-        		
-<div class="ad">
-<script type="text/javascript"><!--
-google_ad_client = "pub-7659396398034687";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_type = "text";
-//2006-10-24: Washingtonian
-google_ad_channel = "7351917867";
-google_color_border = "336699";
-google_color_bg = "FFFFFF";
-google_color_link = "336699";
-google_color_text = "666666";
-google_color_url = "CC0000";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> [^]
-</script> 
-</div>
+                <div class="leaderboard">
+                        
+                        
+                        
+                        
+                        <span>
+        		   
+	<div class="ad">
+        
+<script language="JavaScript">
+          GA_googleFillSlot("Leaderboard_Bottom"); 
+            
+</script>
+        
+	</div>
+	
+    <!-- ccro 06/17/2010 switched to above Google Ad format
+    <div class="ad">
+    <script type="text/javascript"><!XXXX
+    google_ad_client = "pub-7659396398034687";
+    google_ad_width = 728;
+    google_ad_height = 90;
+    google_ad_format = "728x90_as";
+    google_ad_type = "text";
+    //2006-10-24: Washingtonian
+    google_ad_channel = "7351917867";
+    google_color_border = "336699";
+    google_color_bg = "FFFFFF";
+    google_color_link = "336699";
+    google_color_text = "666666";
+    google_color_url = "CC0000";
+    //XXXX></script>
+    <script type="text/javascript"
+      src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> [^]
+    </script> 
+    </div>
+     -->
 
-		</div>
+                        </span>
+                 </div>
+
+		<!--<div class="leaderboard" tal:condition="python: str(container.topURL()) + '/index.html' != str(request['URL'])">
+        		<div metal:use-macro="here/google_ads/macros/google_ad_bottom" ></div>
+		</div>-->
 
 		
 
@@ -623,16 +849,19 @@ google_color_url = "CC0000";
 
 		<div class="footer">
 			<a href="http://www.washingtonian.com">Home</a> | 
-			<a href="http://www.washingtonian.com/subscribe.html">Subscribe</a> | 
+			<a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=WSH&amp;cds_page_id=60116">Subscribe</a> | 
 			<a href="http://www.washingtonian.com/contact.html">Contact</a> | 
 			<a href="http://www.washingtonian.com/advertise/index.html">Advertise</a> | 
 			<a href="http://www.washingtonian.com/about.html">About Us</a> | 
 			<a href="http://www.washingtonian.com/internships/index.html">Internships</a> | 
 			<a href="http://www.washingtonian.com/editorletter.html">Letter from the Editor</a> | 
 			<a href="http://www.washingtonian.com/guidelines.html">Writer's Guidelines</a> | 
+
 			<a href="http://www.washingtonian.com/Registration">E-Mail Newsletters</a> <br>
+
 			<a href="http://www.washingtonian.com/masthead.html">Masthead</a> | 
-			<a href="http://www.washingtonian.com/covers/2008.html">Cover Archive</a> |
+			<a href="http://www.washingtonian.com/newsstands.html">Newsstands</a> | 
+			<a href="http://www.washingtonian.com/covers/2010.html">Cover Archive</a> |
 			<a href="http://www.washingtonian.com/crossword/crossword.html"><i>Washingtonian</i> Crossword</a> |
 			<a href="http://www.washingtonian.com/stories.html">Help Us With Stories</a> |
 			<a href="http://www.washingtonian.com/sitecredits.html">Site Credits</a> |
@@ -640,7 +869,69 @@ google_color_url = "CC0000";
 		</div>
 	</div> 
 
+<!-- the "regular" subscriber popup -->
+<script language="JavaScript">
+//<!-- Register for E-Mail Newsletters :: caption :: width: 800 :: height: 600 -->
+function lv_setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString() + ';path=/');
+}
+
+function lv_getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+popcook = lv_getCookie('subscription_popup');
+document.observe('lightview:loaded', function() {
+if ( popcook != "True" )
+{
+  Lightview.show({
+    href: '/subscriberPopup',
+    rel: 'iframe',
+    title: '',
+    caption: '',
+    options: {
+     closeButton: 'small',
+      autosize: false,
+      width: 766,
+      height: 440
+    }
+  });
+  lv_setCookie('subscription_popup','True',7);
+}
+});
+</script>
+
+
+
+
 </div>	
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1860879-1");
+  pageTracker._setLocalRemoteServerMode();
+  pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 
