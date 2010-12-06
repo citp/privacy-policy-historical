@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolyrics.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504160328id_/http%3A//www.metrolyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolyrics.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206143032id_/http%3A//www.metrolyrics.com/privacy.html) for the most accurate reproduction.*
 
 # MetroLyrics: Privacy Statement for MetroLyrics and MetroPosts
 
