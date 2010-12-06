@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the blisstree.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926022822id_/http%3A//www.blisstree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blisstree.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206135146id_/http%3A//blisstree.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Blisstree - Family, Health, Home and Lifestyles
-
-Browse >
-
-[Home](http://www.blisstree.com/ "Browse to: Home") / Privacy Policy 
-
-### WEBSITE NETWORK PRIVACY POLICY
+# Privacy Policy « : Blisstree - Serious Health and Wellness – Injected With Humor
 
 **Blisstree is a property owned and operated by b5media inc.**
 
-b5 is committed to respecting the privacy concerns of its visitors to the b5media Network (”the Websites”). b5 has created this privacy policy (the “Policy”) to establish guidelines that will govern the collection, use, and disclosure of the personal and non-Personal Information of its visitors.
+b5 is committed to respecting the privacy concerns of its visitors to the b5media Network (“the Websites”). b5 has created this privacy policy (the “Policy”) to establish guidelines that will govern the collection, use, and disclosure of the personal and non-Personal Information of its visitors.
 
 b5 collects three kinds of information from the Websites: (1) your voluntarily provided Personal Information; (2) Anonymous Non-Personal Information; and (3) “Cookie” Based Information.
 
-**Personal Information:** b5 does not automatically collect Personal Information, such as name, residential address, phone number, email address and other personally identifiable information, from its visitors (”Personal Information”). From time to time, b5 will collect Personal Information that is voluntarily provided by its visitors in filling out contest entry forms and subscribing to newsletters and other activities carried out on the Websites. b5 will only collect, use and disclose Personal Information after the visitor has voluntarily agreed to such collection, use and disclosure. b5 also sometimes use email addresses that have been voluntarily provided by its visitors to respond to visitors who communicate with us, to inform winners of contests or to allow subscription to newsletters and other services. All emails from b5 to its visitors include instructions on how to discontinue receipt of emails, newsletters and other communication from b5 and visitors can discontinue such communication at any time. Email addresses from visitors who wish to discontinue receipt of b5’s emails will be removed from b5’s distribution lists. All Personal Information that may identify a visitor and has been collected with the visitor’s consent by b5 is not disclosed in any identifiable form to any other party outside the company except for the fulfillment of the specific purpose identified to the visitor at the time of collection, or as may be required by law.
+**Personal Information:** b5 does not automatically collect Personal Information, such as name, residential address, phone number, email address and other personally identifiable information, from its visitors (“Personal Information”). From time to time, b5 will collect Personal Information that is voluntarily provided by its visitors in filling out contest entry forms and subscribing to newsletters and other activities carried out on the Websites. b5 will only collect, use and disclose Personal Information after the visitor has voluntarily agreed to such collection, use and disclosure. b5 also sometimes use email addresses that have been voluntarily provided by its visitors to respond to visitors who communicate with us, to inform winners of contests or to allow subscription to newsletters and other services. All emails from b5 to its visitors include instructions on how to discontinue receipt of emails, newsletters and other communication from b5 and visitors can discontinue such communication at any time. Email addresses from visitors who wish to discontinue receipt of b5’s emails will be removed from b5’s distribution lists. All Personal Information that may identify a visitor and has been collected with the visitor’s consent by b5 is not disclosed in any identifiable form to any other party outside the company except for the fulfillment of the specific purpose identified to the visitor at the time of collection, or as may be required by law.
 
 b5 may disclose such information in anonymous, aggregated and non-personally identifiable form to other parties for marketing, advertising or other purposes and to better understand visitor’s use of the Website. At any time, a visitor may send an email to privacy@b5media.com to request that Personal Information be reviewed, changed, removed or updated in b5’s databases.
 
@@ -29,7 +23,7 @@ Protection of Visitors’ Personal Information: b5 protects the Personal Informa
 
 **Visitor’s Consent to Privacy Policy:** By visiting and using the Websites, the visitor agrees to the Privacy Policy and the Terms of Use included with this Privacy Policy. If you do not agree with the Privacy Policy or Terms of Use, do not use the Websites or provide Personal Information.
 
-b5 is compliant with the federal Personal Information Protection and Electronic Documents Act (”PIPEDA”). b5 takes compliance with the ten principles set out in the “Model Code for the Protection of Personal Information” which is included in PIPEDA – a summary of which is set out below.
+b5 is compliant with the federal Personal Information Protection and Electronic Documents Act (“PIPEDA”). b5 takes compliance with the ten principles set out in the “Model Code for the Protection of Personal Information” which is included in PIPEDA – a summary of which is set out below.
 
 ### TEN PRINCIPLES OF FAIR INFORMATION PRACTICES
 
