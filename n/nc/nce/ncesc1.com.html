@@ -1,45 +1,84 @@
-<!--The following is the downloaded HTML source of the ncesc1.com privacy policy that was archived on 2009-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090515181509id_/http%3A//www.ncesc.com/pmi/faqs/privacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncesc1.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206173827id_/http%3A//www.ncesc1.com/pmi/faqs/privacyPolicy.asp) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta http-equiv="PRAGMA" content="NO-CACHE"> 
 
-	<link rel="stylesheet" href="/pmi/include/pmiPortal.css" type="text/css">
+	<link rel="stylesheet" href="/PMI/include/PMIPortal.css" type="text/css">	
 
 	<script type="text/javascript" language="javascript" src="/include/functions/gfunctions.js"></script>
 	<script type="text/javascript" language="javascript" src="/pmi/include/functions/functions.js"></script>
 
-	<script language="javascript">
-		var preloadFlag = false;
-		
-		function newImage(arg) {
-			if (document.images) {
-				rslt = new Image();
-				rslt.src = arg;
-				return rslt;
-			}
-		}
-		
-		function changeImages() {
-			if (document.images && (preloadFlag == true)) {
-				for (var i=0; i<changeImages.arguments.length; i+=2) {
-					document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-				}
-			}
-		}
-		
+	<link rel="stylesheet" type="text/css" media="all" href="/css/styles.css">
+
+    <!-- Import jQuery and SimpleModal source files -->
+    <script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+    <script src="/js/jquery.simplemodal.js" type="text/javascript"></script>
+    
+    <!-- Contact Form JS and CSS files -->
+    <script src="/js/basic.js" type="text/javascript"></script>
+    <link type="text/css" href="/css/modal_basic.css" rel="stylesheet" media="screen">
+    
+    <script language="javascript" type="text/javascript">
+    function displayModalWindow()
+    {
+    $('#basicModalContent').modal();
+    }
+    
+    var title = "The Employment Security Commission of North Carolina";
+    var url = "https://www.ncesc.com";
+    
+    function Bookmark() {
+        if(navigator.appName=='Netscape') {
+            window.sidebar.addPanel(title, url,"");
+        }
+        else if (navigator.appName=='Microsoft Internet Explorer') {
+            window.external.AddFavorite(url, title);
+        }
+    
+    }
+    
+    function navigateToLink()
+    {
+        argArray = document.getElementById('quickLinksDDL').value.split("|");
+        if (argArray[0] == '1') {
+            window.open(argArray[1], "_blank");
+        }
+        else {
+            window.location = argArray[1];
+        }
+        
+    }
+    
 		function preloadImages() {
-			if (document.images) {
-				Search_over = newImage("/pmi/images/images/bnrSearch-over.gif");
-				FAQs_over = newImage("/pmi/images/images/bnrFAQs-over.gif");
-				Contact_over = newImage("/pmi/images/images/bnrContact-over.gif");
-				Sitemap_over = newImage("/pmi/images/images/bnrSitemap-over.gif");
-				Login_over = newImage("/pmi/images/images/loginBtn-over.gif");
-				preloadFlag = true;
-			}
-		}
-	</script>
+
+		}    
+    
+    </script>
+    
+    <!-- BEGIN Collapsable Panel for Login -->
+    <link href="/css/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css">
+    <script src="/js/SpryCollapsiblePanel.js" type="text/javascript"></script>
+    <!-- END Collapsable Panel for Login -->
+    
+    <!-- BEGIN Left Navigation -->
+    <link rel="stylesheet" type="text/css" href="/css/superfish.css" media="screen">
+    <script type="text/javascript" src="/js/highlight.js"></script>
+        <!-- DROP MENU -->  
+        
+                  
+            <!--<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>-->
+            <script type="text/javascript" src="/js/superfish.js"></script>    
+            <script type="text/javascript" src="/js/highlight.js"></script>
+            <script type="text/javascript">
+            jQuery(function(){
+                jQuery('ul.sf-menu').superfish();
+            });
+            </script>
+            
+        <!-- END DROP MENU --> 
+    <!-- END Left Navigation -->
 
 <!-- INSERT CLIENT-SIDE SCRIPTS.  JAVASCRIPTS, CSS -->
 
@@ -53,324 +92,176 @@
 <body onload="preloadImages();">
 
 
-<style type="text/css" media="all">
-#bannerCell
-{
-	background-color: #C9F5F5;
-	height: 55px;
-	background-image: url(/pmi/images/pmiBanner.gif);
-	background-position: center center;
-	background-repeat: no-repeat;
-	border-bottom: 2px solid #003333;
-}
-#logoCell
-{
-    /* border-bottom: 2px solid #003333; */
-    width: 99px;
-    vertical-align: middle;
-}
-.navRow
-{
-	background-color:#DEF7F7;
-	height: 24px;
-}
-
-#subHeaderCell
-{
-    font-family: Arial;
-    font-size: 10pt;
-    font-weight: bold;
-    color: #000000;
-    padding: 0px 4px;
-    vertical-align: middle;
-	border-bottom: 2px solid #003333;
-}
-
-#topNavItems {
-    text-align: right;
-	background-color:#DEF7F7;
-	vertical-align:middle;
-	border-bottom: 2px solid #003333;
-}
-
-#topNavItems ul {
-    margin: 0px;    
-    white-space: nowrap;
-    height: 100%;
-    padding: 4px 0px 4px 0px;
-}
-#topNavItems li {
-    list-style-type: none;
-    display: inline;
-	background-color:#DEF7F7;
-	padding: 4px 0px 4px 0px;
-}
-#topNavItems li:hover {
-    background-color: #ffffff;
-}
-#topNavItems li a {
-    text-decoration: none;    
-    padding: 4px 6px 4px 6px;
-    font-family: Arial;
-    font-size: 8pt;
-    font-weight: bold;
-    color: #003333;    
-}
-#topNavItems li a:hover {
-    background-color: #ffffff;    
-}
-
-
-/************/
-.leftLinks
-{
-	margin: 0px;
-	padding: 0px;
-	list-style:none;
-	width: 106px;
-}
-
-.leftLinks li
-{
-	list-style-type: none;
-	text-align: left;  
-	border-top: 1px solid #003333;
-	background-color:#DEF7F7;
-	margin: 0px;
-    padding: 0px;
-    height: 100%;
-}
-
-.leftLinks li a {
-    text-decoration: none;
-    color: #003333;
-    font-family: Tahoma;
-    font-size: 7pt;
-    font-weight: bold;
-    display: block;
-    padding: 2px 0px 2px 5px;
-    margin-left: 0px;
-}
-
-.leftLinks li a.current
-{
-    background-color: #fff;
-}
-
-.leftLinks li a:hover{
-    background-color: #fff;
-    font-style: normal;
-    display: block;
-}
-
-.leftLinks li.heading
-{
-	list-style-type: none;
-	text-align: left; 
-	background-color:#DEF7F7;
-	margin: 0px;
-    padding: 0px;
-    height: 100%;
-    border-top: 0px solid white;
-}
-
-.leftLinks li.heading a {
-    text-decoration: none;
-    color: #003333;
-    font-family: Arial;
-    font-size: 10pt;
-    font-weight: bold;
-    display: block;
-    padding: 5px 0px 5px 0px;
-    margin-left: 0px;
-    text-align: center;
-    vertical-align: middle;
-}
-/***/
-.leftLinks li.subHeading
-{
-	list-style-type: none;
-	text-align: left; 
-	background-color:#DEF7F7;
-	margin: 15px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;    
-    border-top: 0px;
-	border-bottom: 1px solid #003333;
-}
-
-.leftLinks li.subHeading a {
-    text-decoration: none;
-    color: #003333;
-    font-family: Arial;
-    font-size: 9pt;
-    font-weight: bold;
-    display: block;
-    padding: 0px 0px 0px 0px;
-    margin-left: 0px;
-    text-align: left;
-    vertical-align: middle;
-}
-.leftLinks li.subHeadingDesc
-{
-	list-style-type: none;
-	text-align: left; 
-	background-color:#DEF7F7;
-	margin: 0px;
-    padding: 0px;
-    border-top: 0px;
-    text-decoration: none;
-    color: #003333;
-    font-family: Arial;
-    font-size: 8pt;
-    font-weight: normal;
-    display: block;
-    text-align: left;
-    vertical-align: middle;
-    font-style: italic;
-}
-
-
-.leftLinks li.plainText
-{
-    border: 0px;
-}
-.leftLinks li.plainText a {
-    font-weight: normal;    
-    text-decoration: none;
-    color: #003333;
-    font-family: Tahoma;
-    font-size: 7pt;    
-    display: block;
-    padding: 2px 0px 2px 5px;
-    margin-left: 0px;   
-}
-
-.leftLinks li.plainText a:hover {      
-    text-decoration: underline;
-    background-color:#DEF7F7;
- }   
-/*******/
-#loginBtn
-{
-    margin-bottom: 10px;
-}
-
-#loginBtn a {
-    text-decoration: none;
-    color:   #003333;
-    font-family: Tahoma;
-    font-size: 10pt;
-    font-weight: bold;
-    display: block;
-    border: 1px solid   #003333;
-	background-color: #C9F5F5;
-	padding: 2px;	
-}
-
-#loginBtn:hover
-{
-    background-color: #003333;
-}
-
-#loginBtn a:hover {
-    color: #DEF7F7;
-    background-color:   #003333;
-}
-
-</style>
 
 <!-- Begin Page -->
-<table width="606" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top" colspan="2">
-
-			<!-- Begin Page Header -->
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>					
-					<td rowspan="2" id="logoCell">
-					    <a href="http://www.ncesc.com"><img src="/pmi/images/escLogo.gif" border="0" alt="E.S.C. Home Page"></a>
-                    </td>
-					<td id="bannerCell" colspan="2" width="507">
-					    &nbsp;
-                    </td>
-				</tr>
-
-				<!-- Begin Global Navigation Row -->
-				<tr class="navRow">
-					<td id="subHeaderCell">Public &amp; Media
-					</td>
-					<td id="topNavItems">
-                        <ul>
-                            <li><a href="http://www.ncesc.com/pmi/search/search.asp">Search</a></li>
-                            <li><a href="http://www.ncesc.com/pmi/faqs/faqMain.asp">FAQs</a></li>
-                            <li><a href="http://www.ncesc.com/pmi/faqs/contactMain.asp">Contact ESC</a></li>
-                            <li><a href="http://www.ncesc.com/pmi/faqs/siteMap.asp">Site Map</a></li>
-                        </ul>
-                    </td>
-				</tr>
-				<!-- End Global Navigation Row -->
-			<!-- End Page Header -->
-			</tbody></table>
-		</td>
-	</tr>
-	<tr> 
-
-		<!-- Begin Side Bar -->
-		<td width="106" valign="top" bgcolor="#DEF7F7"> 
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#DEF7F7">
-				<!-- Begin Picture -->
-				<tbody><tr> 
-					<td valign="top" colspan="2" align="center" bgcolor="#FFFFFF"> 
+<!-- The container limits the width of the page -->
+<div id="container">
+	<!-- TopNavigation runs along the top of every page.  
+         This can be made into a global include -->
+	<div id="topNav">
+    	<ul>
+        	<li><a href="http://www.ncesc.com">Home</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/search/search.asp">Search</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/faqs/faqMain.asp">FAQs</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/faqs/contactMain.asp">Contact ESC</a></li>
+            <li class="last"><a href="http://www.ncesc1.com/PMI/faqs/siteMap.asp">Site Map</a></li>
+        </ul>
+    </div>
+    <!-- END TopNavigation -->
+    
+    <!-- TopBanner for home page.  Includes the logo and the the banner graphic -->
+  	<div id="topBannerInternal">
+    	<!-- ESC logo -->
+    	<div id="logoInternal">
+			<a href="http://www.ncesc.com"><img src="/images/logoESC_small.gif" width="93" height="74" alt="ESC"></a>
+			</div>
+			<!-- END ESC logo -->
+			<!-- BEGIN PMI Header -->
+			<div id="mastheadAbout">
+            <div id="escTitle"><span class="small">The</span> Employment Security Commission<br>
+                <span class="small">of</span> North Carolina</div>
+            <h1><a href="http://www.ncesc1.com/pmi/default.asp">About ESC</a></h1>
+    	</div>
+        <!-- END PMI Header -->
+    </div>
+    <!-- END TopBanner -->
+    
+        <!-- LeftNav sets up the left hand column which includes the Navigation as well as any additional items in this area -->
+        <div id="leftNav">
+        
+			 
+				<br><!-- Begin Login Box --><div id="login"><a href="https://www.ncesc1.com/pmi/login.asp"><h2>Login to My Account</h2></a></div><!-- End Login Box --><a href="https://www.ncesc1.com/pmi/login.asp">
+			        
+            <!-- LeftLinks sets up the blue area which contains the navigation -->
+            </a><div id="leftLinks"><a href="https://www.ncesc1.com/pmi/login.asp">
+                <!-- NavTitle graphic will change depending on the section -->
+                <div id="navTitle"><img src="/images/navESCservices.gif" width="25" height="197" alt="ESC Services"></div>
+                <!-- This list is the actual LeftNavigation.  This can be a global include -->
+                </a><ul class="sf-menu"><a href="https://www.ncesc1.com/pmi/login.asp">
+                
+						</a><li><a href="https://www.ncesc1.com/pmi/login.asp"></a><a href="http://www.ncesc.com">ESC Home</a></li>
 						
-							<img src="/pmi/images/lady-red.jpg" width="100" height="80" align="top" alt="picture of woman">
+                  <li class="current"><a href="/PMI/default.asp">About ESC</a>
+                    	<ul style="display:none">
+								<li><a href="/PMI/aboutesc/mission.asp">Mission</a></li>
+								<li><a href="/PMI/aboutesc/executives.asp">Executive Biographies</a></li>
+								<li><a href="/PMI/rates/ratesmain.asp">Unemployment Rate News Releases</a></li>
+								<li><a href="/PMI/news/newsmain.asp">General News Releases</a></li>
+								<li><a href="/PMI/publications/publicationmain.asp">Publications</a></li>
+								<li><a href="/PMI/activityRpts/activitymain.asp">Monthly Activity Report</a></li>
+								<li><a href="/PMI/news/columnmain.asp">Chairman’s Columns</a></li>
+								<li><a href="/PMI/government/governmentmain.asp">Governmental Relations</a></li>
+								<!--commented out 11/03/2010-->
+								<!--<li><a href="http://eslmi23.esc.state.nc.us/countycard/" target="_blank">County Profile</a></li>-->
+								<li><a href="/PMI/downloads/downloadmain.asp">Downloads</a></li>
+								<li><a href="/PMI/default.asp">Other</a></li>                        
+                    	</ul>
+                  </li>
+                    	
+                  <li><a href="/business/default.asp">Business Services</a>
+							<ul style="display:none">
+							
+								<li><a href="https://www.ncesc1.com/business/employerservices/employermain.asp">SECURED SERVICES HOME</a></li>
+								<li><a href="https://www.ncesc1.com/business/web604/web604Main.asp">Apply for UI Tax Account Number</a></li>
+								<li><a href="https://www.ncesc1.com/business/employerservices/employermain.asp?RTF=F">File Quarterly Tax and Wage Report</a></li>
+								<li><a href="https://www.ncesc1.com/business/employerservices/employermain.asp?RTF=P">Pay Unemployment Insurance Taxes</a></li>
+								<li><a href="https://www.ncesc1.com/business/employerservices/employermain.asp?RTF=TERA">Tax Rate Assignment</a></li>
+								<li><a href="https://www.ncesc1.com/business/employerservices/legacyclaims.asp?txtURL=Tot_AttClaims/TotalorSep.asp?IND=A">File Attached Claims</a></li>
+								<li><a href="https://www.ncesc1.com/business/employerservices/legacyclaims.asp?txtURL=Tot_AttClaims/TotalorSep.asp?IND=T">File Totally Separated Claims</a></li>
+								<li><a href="/business/findemployees/findemploymain.asp?init=true">Find Employees</a></li>
+								<li><a href="https://www.ncesc1.com/business/RecoveryAct.asp">Post Recovery Act Jobs</a></li>
+								<li><a href="/business/UI/uiMain.asp">Unemployment Insurance</a></li>
+								<li><a href="/business/savemoney/moneymain.asp">Save Money</a></li>
+								<li><a href="/business/jsec/jsecMain.asp">JSEC</a></li>
+								<li><a href="/business/downloads/downloadmain.asp">Downloads</a></li>
+								<li><a href="/business/default.asp">Other</a></li>                                                    
+							</ul>
+						</li>
 						
-					</td>
-				<!-- End Picture -->
-				</tr>
-				<tr align="center"> 
-					<td valign="top" colspan="2" bgcolor="#FFFFFF"><!-- Begin Login Box -->
-<img src="/images/spacer.gif" border="0" width="100" height="4" alt=""><br>
-<div id="loginBtn"><a href="https://www.ncesc.com/pmi/login.asp">ESC Login</a></div><!-- End Login Box --></td>
-				</tr>
-				<tr> 
-					<td colspan="2" valign="top"> 
+						<li><a href="/individual/default.asp">Individual Services</a>
+							<ul style="display:none">
+              				<li><a href="https://www.ncesc1.com/individual/individualservices/individualmain.asp">SECURED SERVICES HOME</a></li>
+              				<li><a href="/individual/jobSearch/jobSearchMain.asp">Find a Job</a></li>
+								<li><a href="https://www.ncesc1.com/individual/webInitialClaims/applyBegin.asp">File a Claim</a></li>
+								<li><a href="https://www.ncesc1.com/icc">File Weekly Certification</a></li>	
+								<li><a href="https://www.ncesc1.com/individual/individualservices/webProfile/webProfileMain.asp">View Your Claim</a></li>
+								<li><a href="https://www.ncesc1.com/individual/individualServices/webPaymentHistory/webPaymentHistoryMain.asp">View Your Benefit Payment History</a></li>
+								<li><a href="/individual/euc08.asp">Unemployment Insurance Extension Programs</a></li>
+								<li><a href="https://www.ncesc1.com/individual/individualservices/web1099/Web1099Main.asp">View Tax Form 1099-G</a></li>
+								<li><a href="/individual/jobSearch/employerSites.asp">Employer Websites</a></li>
+								<li><a href="/individual/careerInfo/careermain.asp">Career Planning</a></li>
+								<li><a href="/individual/training/trainingmain.asp">Training</a></li>
+								<li><a href="https://www.ncesc1.com/individual/EstimateBenefits/ESTBenefitsMain.asp">Benefits Estimator</a></li>
+								<li><a href="/individual/UI/uimain.asp">Unemployment Insurance</a></li>
+								<li><a href="/individual/veterans/veteransmain.asp">Veterans</a></li>
+								<li><a href="/individual/downloads/downloadmain.asp">Downloads</a></li>
+								<li><a href="/individual/default.asp">Other</a></li>                            
+							</ul>
+						</li> 	
+						                         
+						<li><a href="/lmi/default.asp">Labor Market Information</a>
+                    	<ul style="display:none">
+                    		<li><a href="http://esesc23.esc.state.nc.us/d4" target="_blank">D4 – Demand Driven Data Delivery System</a></li>
+                    		<li><a href="/LMI/workForceStats/workForceMain.asp">Workforce Statistics</a></li>
+								<li><a href="/LMI/industry/industryMain-NEW.asp">Industry Information</a></li>
+								<li><a href="/LMI/occupational/occupationMain-NEW.asp">Occupational Information</a></li>
+								<li><a href="/LMI/statResources/statSourcesMain-NEW.asp">Statistical Links</a></li>
+								<li><a href="/LMI/infoTools/infoToolMain-NEW.asp">Information Access Tools</a></li>
+								<li><a href="/LMI/careerTools/careerToolMain-NEW.asp">Career Management Tools</a></li>
+								<li><a href="/LMI/publications/publicationMain.asp">Publications, Research &amp; Reports</a></li>
+								<li><a href="/LMI/default.asp">Other</a></li>
+							</ul>
+						</li>
+						
+						<li><a href="/locator/locatormain.asp" target="_blank">Find Local Offices</a></li>
 
-						<!-- Begin Navigation Bar -->
-						
-						<div><ul class="leftLinks">
-					    <li class="heading">
-					        
-					            <a href="http://www.ncesc.com/pmi/default.asp">Public Home</a>
-					        
-                        </li>       
-						    
-						    <li><a href="http://www.ncesc.com/pmi/rates/ratesMain.asp">Unemployment Rate News</a></li>
-						    <li><a href="http://www.ncesc.com/pmi/news/newsMain.asp">General News</a></li>
-						    <li><a href="http://www.ncesc.com/pmi/aboutesc/aboutMain.asp">About ESC</a></li>
-                            <li><a href="http://www.ncesc.com/pmi/government/governmentMain.asp">Governmental</a></li>
-                            <li><a href="http://www.ncesc.com/pmi/downloads/downloadMain.asp">Downloads</a></li>
-                            <li><a href="http://www.ncesc.com/pmi/publications/publicationMain.asp">Publications</a></li>  
-						
-						    <li><a href="/locator/locatormain.asp" target="new">Find Local Offices</a></li>							
-						</ul></div> 
-						
-				    </td>					
-				</tr>
-			</tbody></table>
-		<!-- End Side Bar -->
-		</td>
-		<td width="536" valign="top">
+						<li><a href="http://www.ncesc1.com/pmi/news/newsmain.asp">News</a>
+							<ul style="display:none">
+								<li><a href="http://esesc23.esc.state.nc.us/rss" target="_blank">RSS</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/rates/ratesmain.asp">New Unemployment Rates - Released</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/news/newsmain.asp">Press Releases</a></li>
+							</ul>
+						</li> 						
+                        		
+						<li class="last"><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp">Other Resources</a>
+							<ul style="display:none">
+								<li><a href="http://www.ncgov.com" target="_blank">NCGov.com</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp#federal">Federal Government</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp#stateResources">State Government</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp#health">Health</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp#education">Education &amp; Training</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp#legal">Legal</a></li>
+								<li><a href="http://www.ncesc1.com/PMI/resources/resourcesmain.asp">more...</a></li>
+							</ul>
+						</li> 
+						               
+                </ul>
+                <!-- END LeftNavigation -->
+            </div>
+            <!-- END LeftLinks blue area -->
 
-			<!-- Page Messages -->
-			<!-- work around -->
-			
-
-			<table width="98%" border="0" cellpadding="0" cellspacing="6" align="center">
-				<tbody><tr>
-					<td><div class="heading"> 
-							</div>
-						
+            <!--BEGIN Verisign Logo-->
+				<div id="VerisignLogo"><img src="/pmi/images/spacer.gif" width="106" height="20" border="0" alt=""></div>
+				<!--END Verisign Logo-->        
+        
+            <!-- Login container.  This can be an include if it will be presented on all pages -->
+            <!-- END Login container -->
+            
+        </div>    
+        <!-- END LeftNav column -->
+        
+        <!-- BEGIN Content Container -->
+  		<div id="qlContainer">
+        	<!-- BEGIN White Background Body Container -->
+            <div id="pageBodyInternal">
+            
+					
+                
+                <!-- Important Information -->
+                <h1> 
+						</h1>
 						<!-- Begin Page Content -->
+
  
 <!-- Begin Content --> 
 
@@ -419,33 +310,67 @@ for any other consequences from any such reliance. </p>
   
   
 						<!-- End Page Content -->
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
+					
+				
+			
+		
+	
 
 	<!-- Begin Footer -->
-	<tr valign="top">
-		<td align="center" bgcolor="#DEF7F7"><img src="/pmi/images/spacer.gif" width="106" height="20" border="0" alt=""></td>
-		<td align="center"> 
-			<p class="footer">
-				<span class="navbar">
-					<a href="http://www.ncesc.com/pmi/default.asp">Public &amp; Media Information Home</a> |
-					<a href="http://www.ncesc.com">ESC Home</a> | 
-					<a href="http://www.ncesc.com/pmi/faqs/faqMain.asp">FAQs</a>| 
-					<a href="http://www.ncesc.com/pmi/search/search.asp">Search</a> | 
-					<a href="http://www.ncesc.com/pmi/faqs/contactMain.asp">Contact ESC</a> | 
-					<a href="http://www.ncesc.com/pmi/faqs/siteMap.asp">Site Map</a><br>
-				</span>
-				©2009 - Employment Security Commission of North Carolina<br>
-				<a href="http://www.ncesc.com/browserInfo/browserInfoMain.asp">ESC Browser Settings and Information</a><br>
-				<a href="http://www.ncesc.com/pmi/faqs/privacyPolicy.asp">ESC Privacy Policy / Disclaimer</a> <br>
-				<!--http://-->www.ncesc.com/pmi/faqs/privacyPolicy.asp (s)
-			</p>
-		</td>
-	</tr>
-</tbody></table>
+                </div>
+                <!-- END White Background Body Container -->
+      	</div>
+        <!-- END Content Container -->
+
+  <div id="clearContainer" style="clear: both;"></div>
+  
+  <!-- BEGIN Footer -->
+  <div id="footer">
+  	<!-- BEGIN Footer text links -->
+  	<div id="bottomLinks">
+    	<ul>
+        	<li><a href="http://www.ncesc1.com/PMI/default.asp">About ESC Home</a></li>
+            <li><a href="http://www.ncesc.com">ESC Home</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/faqs/faqMain.asp">FAQs</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/faqs/contactMain.asp">Contact ESC</a></li>
+        </ul>
+        <ul>
+            <li><a href="http://www.ncesc1.com/PMI/search/search.asp">Search</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/faqs/siteMap.asp">Site Map</a></li>
+            <li><a href="http://www.ncesc1.com/PMI/faqs/privacyPolicy.asp">Privacy Policy</a></li>
+            <li><a href="http://www.ncesc1.com/browserInfo/browserInfoMain.asp">Browser Settings &amp; Info</a></li>
+            <li><a href="https://www.ncesc1.com/main/ReportFraud.asp">Report Fraud</a></li>
+        </ul>
+    </div>
+    <!-- END Footer text links -->
+    <!-- BEGIN copyright text -->
+		<div id="copyright">
+			<p>Copyright © 2010 - Employment Security Commission of North Carolina<br>   
+			<!--http://-->www.ncesc1.com/PMI/faqs/privacyPolicy.asp (r)</p>
+		</div>
+    <!-- END copyright text -->
+  </div>
+  <!-- END Footer -->
+</div>
+<!-- END container -->
+
+<!-- BEGIN Login tooltip -->
+<div id="basicModalContent" style="display:none">
+    <div id="modalTitle">Additional Login Information</div>
+    <div class="modalSectionHeader">ESC Customer ID information</div>
+    <p>For individual services, the User ID is your Social Security Number. Your PIN can be used for filing claims by telephone or online.</p>
+    <p>For business services, the User ID is the first 7 digits of your employer account number or your 6-digit remitter number as assigned to you by ESC. Your assigned PIN was sent to you by letter. Contact us at esc.tax.customerservice@ncmail.net if you have lost your PIN.</p>
+    <div class="modalSectionHeader">Hours of Availability</div>
+    <p>Each application displays its own hours of availability which may differ from the below specified login availability times.</p>
+    <p>Monday - Friday: 2:00 A.M. - 12:00 Midnight ET</p>
+    <p>Saturday: 6:00 A.M. - 12:00 Midnight ET</p>
+    <p>Sunday: 12:00 Noon - 12:00 Midnight ET</p>
+</div>
+<!-- END Login tooltip -->
+
+<!-- BEGIN JS for Collapsible Panel -->
+<!-- END JS for Collapsible Panel -->
+
 
 
 
