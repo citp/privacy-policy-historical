@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksde.org privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224030910id_/http%3A//www.ksde.org/Default.aspx%3Ftabid%3D3749) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksde.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206101336id_/http%3A//www.ksde.org/Default.aspx%3Ftabid%3D3749) for the most accurate reproduction.*
 
 # Privacy
 
