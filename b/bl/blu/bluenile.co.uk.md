@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluenile.co.uk privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003061448id_/http%3A//www.bluenile.co.uk/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206191927id_/http%3A//www.bluenile.co.uk/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Last updated May 14, 2009
 
 Thank you for visiting Blue Nile. We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Blue Nile is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. This Privacy Policy is incorporated into our [Terms of Service](https://web.archive.org/product_policies.jsp). 
 
-When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practises. If you would like to speak to a customer service representative, please contact us via telephone at 0800 358 1981 from the United Kingdom, 1800 944 544 from Ireland, or +353 1 487 7850 for all other EU countries or email at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk). 
+When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practises. If you would like to speak to a customer service representative, please contact us via telephone at 0800 206 1160 or email at [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk). 
 
 Blue Nile will occasionally update this Privacy Policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to check the date of our Privacy Policy each time you visit our Website for any updates or changes. Your use of our Website constitutes your consent to this Privacy Policy, including any changes or updates. We may make additional features, functionality, offers, activities, or events ("opportunities") available to you subject to additional or different privacy rules that we disclose in connection with those opportunities. 
 
@@ -76,7 +76,7 @@ Blue Nile is committed to the protection of the personally identifiable informa
 
 ## Accessing and Updating Your Information
 
-If the personally identifiable information Blue Nile has gathered from you changes or you would like to access, correct, or delete such information, we will gladly provide you access to, correct, or delete (to the extent allowed by law) any personal information we have collected about you. To request access to, a correction to, or deletion of your personal information, please send an e-mail to [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or contact one of our diamond and jewellery consultants at 0800 358 1981 from the United Kingdom, 1800 944 544 from Ireland, or +353 1 487 7850 for all other EU countries. 
+If the personally identifiable information Blue Nile has gathered from you changes or you would like to access, correct, or delete such information, we will gladly provide you access to, correct, or delete (to the extent allowed by law) any personal information we have collected about you. To request access to, a correction to, or deletion of your personal information, please send an e-mail to [serviceuk@bluenile.co.uk](mailto:serviceuk@bluenile.co.uk) or contact one of our diamond and jewellery consultants at 0800 206 1160. 
 
 ## Choice/Opt-Out
 
@@ -89,5 +89,3 @@ Opting out of communication with us does not affect our communications with you 
 ## Your California Privacy Rights
 
 If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Blue Nile Customer Service at 705 Fifth Avenue, South, Suite 900, Seattle, WA, 98104; attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year. 
-
-All prices do not include [VAT](https://web.archive.org/glossary.jsp?word=vat).
