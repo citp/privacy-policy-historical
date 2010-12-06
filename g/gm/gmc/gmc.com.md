@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601154356id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206195524id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
 ### Privacy Statement for General Motors Company
 
-### Effective February 23, 2010
+### Effective October 1, 2010
 
 **For Your California Privacy Rights[click here](https://web.archive.org/privacy/california.jsp).**
 
-On February 23, 2010, General Motors Company expects to transfer control and ownership of the SAAB brand to SAAB Cars North America, Inc., an affiliated company of Saab Spyker Automobiles. Once that transfer is complete, personal information about SAAB customers collected prior to February 23, 2010 will be shared with SAAB Cars North America, Inc. The SAAB Cars North America, Inc. Privacy Statement is available on [SaabUSA.com.](http://www.saabusa.com/)
+**On October 1, 2010, General Motors Company (GM) acquired AmeriCredit Corp., (NYSE: ACF), which provides auto finance solutions through auto dealers across the United States. AmeriCredit Corp. will be renamed General Motors Financial Company, Inc. (GM Financial) and GM will consider GM Financial to be an affiliate as defined under the GM Privacy Statement.**
 
 Your privacy is important to General Motors Company (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
 
@@ -94,7 +94,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 2/23/2010.
+This statement is effective as of 10/1/2010.
 
 ### Supplemental Privacy Information
 
@@ -149,7 +149,7 @@ What are "GM affiliates"?
 
 ### A: 
 
-As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, GMAC, GMAC Insurance, Nuvell Credit Company LLC, Nuvell Financial Services LLC and OnStar.
+As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest (for example, OnStar).
 
 ### Q2: 
 
