@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myob.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231020148id_/http%3A//myob.com/servlet/Satellite%3Fcid%3D1106022210664%26pagename%3DMYOB%252FPage%252FContentPageWithoutNav%26site%3Den_AU%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206064223id_/http%3A//myob.com.au/pages/privacy-policy-1258090884370) for the most accurate reproduction.*
 
-# Privacy - MYOB Australia
+# Privacy Policy - MYOB Australia
 
-##  MYOB Limited Group Privacy Statement 
+## MYOB Limited Group Privacy Statement
 
 #### MYOB values your privacy
 
@@ -58,7 +58,7 @@ Many useful services are currently available at MYOB websites and more services 
 
 #### Securing electronic communication
 
-Personal information that is submitted to MYOB websites it is protected both on and offline. MYOB web pages that request information or allow transaction processing use the Hypertext Transport Protocol Security (HTTPS) protocol (excluding Test Drive and Accountant updates) which allows data to be transmitted in an encrypted form known as Secure Sockets Layer (SSL) - visit [ Standard of Security ](http://www.ssl.com/ "Standard of Security") for details.
+Personal information that is submitted to MYOB websites it is protected both on and offline. MYOB web pages that request information or allow transaction processing use the Hypertext Transport Protocol Security (HTTPS) protocol (excluding Test Drive and Accountant updates) which allows data to be transmitted in an encrypted form known as Secure Sockets Layer (SSL) - visit [ secure ](http://www.ssl.com/ "secure") for details.
 
 You can confirm that any MYOB data-entry page is secure by checking that:
 
@@ -75,9 +75,7 @@ MYOB also uses Internet Protocol (IP) addresses to analyse trends, administer ou
 
 The MYOB Group informs its employees about the importance of confidentiality and customer privacy through its operating procedures, training programs and internal policies. MYOB will take appropriate disciplinary measures to enforce privacy responsibilities of its employees. If MYOB contracts with external service providers to provide service support, MYOB will require them to conform to the MYOB Group privacy policy.
 
-  * The MYOB Limited Group Privacy Statement has been developed in accordance with relevant local and international privacy legislation.
-
-
+The MYOB Limited Group Privacy Statement has been developed in accordance with relevant local and international privacy legislation.
 
 To demonstrate that our privacy policy accords with this privacy legislation, we are committed to a voluntary self-assessment procedure and, in some countries, subject to supervision and inspection by appropriate government agencies.
 
@@ -85,7 +83,7 @@ To demonstrate that our privacy policy accords with this privacy legislation, we
 
 If you have any questions or you believe that MYOB has not adhered to this Privacy Statement, please contact the Privacy Officer in your local MYOB office. We will then use all commercially reasonable efforts to promptly determine if there is a problem and take the necessary corrective action.
 
-In the event that you need to update or correct your personal or business information, you can do so at [ my.MYOB ](https://web.archive.org/servlet/Satellite?cid=1108527010034&pagename=MYOB%2FPage%2FMyMYOB&site=en_AU&c=Page "my.MYOB") Alternatively, you can call, fax or mail changes to your personal information to your local MYOB office.
+In the event that you need to update or correct your personal or business information, you can do so at [ my.MYOB ](http://my.myob.com/ "my.MYOB") Alternatively, you can call, fax or mail changes to your personal information to your local MYOB office.
 
 #### Changes to this Privacy Statement
 
