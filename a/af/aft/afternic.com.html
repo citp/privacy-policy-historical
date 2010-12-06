@@ -1,557 +1,405 @@
-<!--The following is the downloaded HTML source of the afternic.com privacy policy that was archived on 2010-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100327135841id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afternic.com privacy policy that was archived on 2010-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206124729id_/http%3A//www.afternic.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Afternic Privacy Statement </title>
+<title>Privacy Statement | Afternic Domain Listing Service</title>
+<link rel="canonical" href="http://www.afternic.com/privacy.php">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="Keywords" content="buy domain names, domain name auctions, domain auctions, domain name auction">
-<meta name="Description" content="Buy and sell domain names on Afternic, a domain exchange reseller and auction marketplace. Afternic has over 3 million domain name auctions.">
+<meta name="Description" content="Your privacy is very important to Afternic. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you.">
 <script src="/js/prototype.js" type="text/javascript"></script>
 <script src="/js/scriptaculous.js" type="text/javascript"></script>
 <script src="/js/lightview.js" type="text/javascript"></script>
+<script src="/js/bdMenu.js" type="text/javascript"></script>
 <script src="/js/custom.js" type="text/javascript"></script>
 <script src="/js/prototip.js" type="text/javascript"></script>
+
 <link href="/css/main.css" rel="stylesheet" type="text/css">
 <link href="/css/prototip.css" type="text/css" rel="stylesheet">
-<link href="/css/custom.css" type="text/css" rel="stylesheet">
-<link href="common.css" rel="stylesheet" type="text/css">
-<!-- BEGIN skipAuctionsCSS --><link href="auctions.css" rel="stylesheet" type="text/css"><!-- END skipAuctionsCSS -->
-
-<style type="text/css">
-<!--
-#subNavigation { display: block;}
--->
+<link href="/css/custom.css" type="text/css" rel="stylesheet"> 
+<link href="/css/lightview.css" type="text/css" rel="stylesheet"><style type="text/css">
+ul {list-style: disc;margin-left:20px;}
+li {padding-top:10px;line-height:1.2;}
 </style>
-
 </head>
-<body id="" onload="setFooter()">
-<div id="wrapper">
-  <!-- Begin Header -->
-	<div id="header">
-		<div class="topLogin">
-		<!-- BEGIN sideLoginForm -->
-			<form method="POST" action="https://my.afternic.com/manage-check.php">
-			<div class="loginLinks left" style="width:520px">
+<body>
+<div id="bodyContainer" class="bodyContainer">
+	<!-- Begin Header -->
+	<script type="text/javascript" language="javascript">
+var userStatus = "0";
+</script>
+	<div class="topLogin">
+		<form name="login-form" id="login-form" method="post" action="https://my.afternic.com/manage-check.php">
+		<div class="loginLinks left" style="width:460px">
 			<div class="left">Member Login:</div>
 			<div class="left">
-				<input type="text" name="username" class="field">
-				<input type="password" name="password" class="field">
+				<input type="text" name="username" value="Enter Username" class="field" id="topUserName" onclick="$('topUserName').value='';">
+				<input type="password" name="password" value="" class="field">
 			</div>
-			<div class="left"><input name="login" type="submit" id="Login" value="Login" class="button"></div>
-			</div>
-			</form>
-			<div class="loginLinks right">
-				<a href="sendpw.php" class="sMargRight">Forgot Your Username/Password?</a>|<a href="join.php" class="sMargLeft">Not a Member Yet? Click to Join Now!</a>
-			</div>
-		<!-- END sideLoginForm -->
-
-		
+			<div class="left"><input type="submit" name="submit" value="Login" class="button"></div>
 		</div>
+		</form>
+		<div class="loginLinks right">
+		<ul>
+			<li><a href="sendpw.php">Forgot Username/Password?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="join.php">Not a Member? Join Now!</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="msg2nbs.php">Contact Us</a>&nbsp;&nbsp;|</li> 
+			<li><a href="http://my.afternic.com/faq"><img src="/images/falcon/icons/helpIcon.jpg" border="0" class="helpIcon" alt="FAQ"></a></li>
+			<li><a href="/checkout.php"><img src="/images/falcon/icons/cartIcon.jpg" border="0" class="cartIcon" alt="Shopping Cart"></a></li>
+		</ul>
+		</div>	
+	</div>
 
-		<div class="header"><a href="/"><img src="/images/falcon/afternic-dls-logo.jpg" border="0" alt="Afternic :: Domain Listing Service"></a></div>
-		<div class="header rightText">
-		<a href="http://www.buydomains.com" id="top_ad"><img border="0" id="top_ad_img" src="http://gfx.afternic.com/images/partner-250x52-top-logo-buydomains.gif"></a>
+
+	<div class="header w740">
+		<div class="left"><a href="/"><img src="/images/falcon/afternic-dls-logo.jpg" border="0" alt="Afternic :: Domain Listing Service"></a></div>
+		<div id="downMessage" class="down_message" style="display:none;">
+			Please place message text here. Please place message text here. Please place message text here.
 		</div>
-		<script src="js/bdMenu.js" type="text/javascript"></script>
-<script type="text/javascript">
-var clearbox = 0;
-// global variable
-function clearit() {
-    if (clearbox == 0) {
-        $('skeyword').value = "";
-        $('skeyword').style.color = "#333333";
-        clearbox = 1;
-    }
-}	
-	
-function submitSearchHeaderForm(){
-			if(validateSearchForm(document.forms.searchKeywordForm)) {
-			document.forms.searchKeywordForm.submit();
-			}
-		}
+	</div>
+	<!-- affiliate icon code -->
 
-function validateSearchForm(form){
-		var kw = $('skeyword').value;
-		if(kw == '' || kw == 'ENTER A DOMAIN NAME, KEYWORD OR PHRASE'){
-			alert('Keywords field is required.');
-			clearbox = 0;
-			clearit();
-			$('skeyword').focus();
-			return false;
-		}	
-		if(kw !== '' || kw !== 'ENTER A DOMAIN NAME, KEYWORD OR PHRASE'){
-			kw = kw.replace(/[-,.a-zA-Z 0-9]+/, '');
-			if (kw !== '') {
-			alert('Please use correct search format.');
-			clearbox = 1;
-			$('skeyword').focus();
-			return false;
-			}
-		}	
-		return true;
-	}	
-</script>
+<!-- /affiliate icon code -->
 <!-- Begin Main Navigation -->
-  <div id="navigation" class="mainNav">
+<div class="mainNav">
 	<ul class="menu" id="menu">
 		<li id="nav_home" class="navDown"><a href="/" style="margin-left:10px;padding-right:10px;"><img id="homeImg" src="/images/falcon/buttons/homeDown.jpg" border="0" alt="Afternic :: Home"></a></li>
-		<li id="nav_my" class="navDown"><a href="dashboard.php">My Afternic</a></li>
-		<li id="nav_buy" class="navDown"><a href="buy.php">Buyers</a>
+		<li id="nav_sell" class="navFeature"><a href="/sell.php">Sell Domains</a>
 			<ul>
-				<li class="navTop"><a href="buy.php">Buyer's Home</a></li>
-				<li><a href="uoffer.php">Afternic Agent</a></li>
-				<li><a href="search.php">Advanced Search</a></li>
-				<li><a href="names.php?cls=1">Closing Soon Auctions</a></li>
+				<li class="navTop"><a href="/sell.php">Sell Domains</a></li>
+				<li><a href="/promotion-upgrade.php">Promote Your Domain</a></li>
+				<li><a href="/dashboard.php?page=addDomains">Add Domains to Sell</a></li>
 			</ul>
 		</li>
-		<li id="nav_sell" class="navDown"><a href="sell.php">Sellers</a>
+		<li id="nav_park" class="navFeature"><a href="/park.php">Park Domains</a>
 			<ul>
-				<li class="navTop"><a href="sell.php">Seller's Home</a></li>
-				<li><a href="promotion-upgrade.php">Promotion Upgrades</a></li>
-				<li><a href="upg.php">Listing Upgrades</a></li>
+				<li class="navTop"><a href="/park.php">Park Domains</a></li>
+				<li><a target="_blank" href="http://my.afternic.com/faq/2010/09/how-can-i-profit-by-parking-my-domains/">How to Profit by Parking</a></li>
+				<li><a href="/dashboard.php?page=addDomains">Add Domains to Park</a></li>
 			</ul>
 		</li>
-		<li id="nav_tools" class="navDown"><a href="domain-tools.php">Domain Tools</a>
+		<li id="nav_buy" class="navFeature"><a href="/buy.php">Buy Domains</a>
 			<ul>
-				<li class="navTop"><a href="domain-tools.php">Domain Tools Home</a></li>
-				<li><a href="buy.php?p=4">Domain Escrow Service</a></li>
-				<li><a href="uoffer.php">Afternic Agent Service</a></li>
-				<li><a href="approrder.php?at=307">Domain Appraisal</a></li>
-				<li><a href="park.php">Domain Parking</a></li>
-				<li><a href="affiliates.php">Affiliate Program</a></li>
+				<li class="navTop"><a href="/buy.php">Buy Domains</a></li>
+				<li><a href="/uoffer.php">Afternic Agent Service</a></li>
+				<li><a href="/search.php">Advanced Search</a></li>
+				<li><a href="/names.php?cls=1">Closing Soon Auctions</a></li>
 			</ul>
 		</li>
-		<li id="nav_advantage" class="navDown"><a href="http://domainersadvantage.afternic.com/">Domainer's Advantage</a>
+		<li id="nav_tools" class="navDown"><a href="/domain-tools.php">Domain Tools</a>
 			<ul>
-				<li class="navTop"><a href="http://domainersadvantage.afternic.com/">Domainer's Home</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=2" title="Market Trends">Market Trends</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=5" title="Best Practices">Best Practices</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=10" title="Ask the Expert">Ask the Expert</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=671" title="Upcoming Events">Upcoming Events</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=661" title="AfternicDLS Blog">AfternicDLS Blog</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=1668" title="Sales Performance">Sales Performance</a></li>
-				<li><a href="http://domainersadvantage.afternic.com/?page_id=1672" title="Poll of the Week">Poll of the Week</a></li>
+				<li class="navTop"><a href="/domain-tools.php">Domain Tools</a></li>
+				<li><a href="/uoffer.php">Afternic Agent Service</a></li>
+				<li><a href="/approrder.php?at=307">Order an Appraisal</a></li>
+				<li><a href="/domain-name-escrow.php">Domain Escrow Service</a></li>
+				<li><a href="/cash-back.php">Cash Back Program</a></li>
+				<!-- <li><a href="http://domainersadvantage.afternic.com/">Domainer's Advantage</a>
+					<ul class='subnav'>
+						<li class="navTop"><a href="http://domainersadvantage.afternic.com/">Domainer's Home</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=2" title="Market Trends">Market Trends</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=5" title="Best Practices">Best Practices</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=10" title="Ask the Expert">Ask the Expert</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=671" title="Upcoming Events">Upcoming Events</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=661" title="AfternicDLS Blog">AfternicDLS Blog</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=1668" title="Sales Performance">Sales Performance</a></li>
+						<li><a href="http://domainersadvantage.afternic.com/?page_id=1672" title="Poll of the Week">Poll of the Week</a></li>
+					</ul>
+				</li> -->
 				<li><a href="http://www.discussnames.com/" target="_blank">DiscussNames Forum</a></li>
 			</ul>
 		</li>
+		<li class="navDown" id="nav_member"><a href="/dashboard.php">My Afternic</a></li>
+		<li class="navDown">
+			<div class="formTab">
+			<form name="searchKeywordForm" action="/names.php" method="get">
+				<div class="left">
+					Search&nbsp;&nbsp;<input class="box" type="text" name="skeyword" value="ENTER A DOMAIN NAME" id="skeyword" onkeydown="javascript:clearit();" onclick="javascript:clearit();">
+				</div>
+				<div class="left ssMargLeft" style="display:inline;"><input class="btn" type="submit" name="" value="FIND" onclick="javascript:submitSearchHeaderForm();return false;"></div>
+			</form>
+			</div>
+		</li>
 	</ul>
-	<script type="text/javascript">
-		var menu=new menu.dd("menu");
-		menu.init("menu","menuhover");
-	</script>
-	<div class="right helpIcon">
-		<a style="padding:3px 0px 0px 30px;margin:0px;font-size:12px;" href="msg2nbs.php" target="_blank">Help</a>
-	</div>
-	<div class="right cartIcon lMargRight">
-		<a style="padding:3px 0px 0px 35px;margin:0px;font-size:12px;" href="checkout.php">Shopping Cart</a>
-	</div>
-  </div>
-  <!--End Main Navigation -->
-  <!-- BEGIN Sub Navigation -->
-  <div id="subNavigation">
-  	<div class="subNav" id="subDefault">The largest business oriented domain name marketplace in the world </div>
-	<div class="subNav" id="subHome">The largest business oriented domain name marketplace in the world </div>
-	<div class="subNav" id="subBuy">The largest business oriented domain name marketplace in the world </div>
-	<div class="subNav" id="subSell">The largest business oriented domain name marketplace in the world </div>
-	<div class="subNav" id="subMy">The largest business oriented domain name marketplace in the world </div>
-	<div class="subNav" id="subTools">The largest business oriented domain name marketplace in the world </div>
-	
-	
-<!-- BEGIN simplesearch -->
-<div class="smSearch">
-	<div class="left sPadLeft" style="width:200px;margin-top:13px;">
-		<h2 style="font-weight:normal;margin:0;">Need help finding the<br>right domain name?</h2>
-	</div>
-	<div class="left searchDotted" style="width:290px;margin-top:13px;">
-		<h3>1-866-351-9586 (Toll-Free)</h3>
-		<h4>+1 781-839-7990 (Worldwide)</h4>
-	</div>
-	<div class="searchBox" style="width:500px;">
-	<form name="searchKeywordForm" action="names.php" method="GET">
-		<div class="smInput"><input name="skeyword" type="text" value="ENTER A DOMAIN NAME, KEYWORD OR PHRASE" id="skeyword" onkeydown="javascript:clearit()" onclick="javascript:clearit()"></div>
-		<div class="smButton">
-		<input name="Search" type="submit" id="Search" value="SEARCH" onclick="javascript:submitSearchHeaderForm();return false;">
-		</div>
-	</form>
-	</div>
-</div>	
-		
-	    <!-- END simplesearch -->
-	</div>
-  <!-- END Sub Navigation -->
-	</div>
-
-  <!-- End Header -->
-
-
-  <!-- Begin Content -->
-  <div id="content">
-   	
-
-	<div id="rightColumn" class="searchRightColumn">
-		<div class="function">
-			<h1>Afternic Privacy Policy</h1>
-<div id="terms" class="left">
-<p><strong>Updated May 20, 2003</strong></p>
-<p>Your privacy is very important to Afternic. As part of the normal operation of our 
-business services, we collect and, in some cases, disclose information about you. 
-This Privacy Policy outlines the information that we collect about you and what 
-may happen to that information. The privacy policies of this notice apply to
-http://www.Afternic.com (hereafter, the Site).</p>
-
-<p> As described below, some of your personally identifiable information is 
-disclosed to third parties and used by us and third parties. By accepting the 
-Membership Agreement, you expressly consent to our use and disclosure of your 
-personally identifiable information. This Privacy Policy is incorporated into 
-and subject to the terms of the <a href="agreement.php">AFTERNIC Membership Agreement</a>.</p>
-
-<p>AFTERNIC reserves the right to change its privacy policy from time to time.</p>
-
-<p><strong>1. Information we collect.</strong><br>
-If you are merely visiting our site, we collect and store only the following information about you:
-</p>
-<ul style="margin-left:25px;">
-	<li>The IP address of the terminal from which you access the Internet</li> 
-	<li>The IP address of the website from which you linked directly to our site</li> 
-	<li>The date and time you access our site</li> 
-	<li>The browser you used to access the site</li> 
-	<li>The operating system you used to access the site</li> 
-</ul>
-<p>We use this information to measure the number of visitors to the different 
-sections of our site, and to help us make our site more useful to visitors.</p>
-
-<p>We will not obtain any other personally identifying information about you 
-when you visit our site, unless you choose to provide such information to us.</p>
-
-<p>As a STANDARD MEMBER, BUYER MEMBER or AFTERNICDLS MEMBER, we collect and store 
-additional information about you. To fully use our services, you will need to 
-register using our online form. You will be required to provide us with your 
-contact information and other personal information such as User ID, email address, 
-and billing address. In addition, as a BUYER MEMBER or AFTERNICDLS MEMBER, you will 
-be required to provide your credit card number and its expiration date. We use 
-this credit card information to verify your name, address, and other personally 
-identifying information as well as to process your transactions.</p>
-
-<p>We automatically track certain information about you based upon your behavior 
-on our site. We use this information to analyze user demographics, interests, and 
-behavior to better understand your preferences and improve your AFTERNIC experience.</p>
-
-<p>Cookies are used on certain pages of our site. We offer certain features that are 
-only available through the use of a cookie. Cookies are stored on your hard drive, 
-not on our site. If your browser permits, you are always free to decline our cookies, 
-but you may not be able to use certain site features and will have to enter your 
-personally identifying information manually more often. If you choose to buy, bid, 
-sell, or appraise on our site, we collect information about these behaviors. </p>
-
-<p>When you successfully buy or sell a domain name, we collect some additional 
-information including name servers, administrative contacts, business identification, 
-special registrar requirements, billing address, bank account number, and tracking 
-information from checks and money orders. Bank account information is deleted when 
-your transaction closes. </p>
-
-<p><strong>2. How we use your information.</strong><br>
-We use the information we collect from you to transmit administrative notices, 
-buy/sell information and support, billing information, to send you specific 
-information that you have requested, to process your credit card purchases, and to 
-complete the paperwork necessary to transfer a domain name registration. We may 
-also use it to send you information that is targeted to your interests, such as 
-upcoming auctions and promotions. By accepting the Membership Agreement, you expressly a
-gree to receive this information. Additionally, on appropriate portions of the site, 
-we may display or archive your user name and system- and user-generated feedback, 
-including the comments you submit and that others submit about you.</p>
-
-<p>If you send us personal correspondence, such as emails or letters, or if third 
-parties such as other users send us correspondence about your activities or postings 
-on the site, we may collect such information into a file with information specific 
-to you. We use this information to support your customer inquiries, settle disputes, 
-enforce our Membership Agreement, maintain our customer ranking system, troubleshoot 
-problems, and to identify you as eligible for special user campaigns. On rare 
-occasions, we may look across multiple users to identify problems, resolve disputes, 
-and evaluate you for multiple usernames.</p>
-
-<p>In general, we do not sell or rent any personally identifiable 
-information about you to any third party. If you choose to use the optional services 
-available on the site, we will, by necessity, provide some of your personally 
-identifiable information to these service providers. However, you can avoid these 
-disclosures by choosing to not use these services. Because we do not control the 
-privacy practices of these third parties, you should evaluate their practices before 
-deciding to use their services.</p>
-
-<p>
-To enhance the effectiveness of our exchange, Afternic has formed strategic partnerships
-with select organizations, mostly registrars. Upon request by such Partners, we disclose
-some of your personally identifiable information to the Partners for the Partners' marketing
-purposes. To each Partner we only disclose information for the members that were referred
-to Afternic from the Partner's website. (Members can determine the Partner 
-that referred them to Afternic by clicking "My Account" on our home page.)
-All Partners have agreed to post a privacy agreement on their own websites and protect
-your information accordingly.
-</p>
-
-<p>Unfortunately, due to the existing regulatory environment, we cannot ensure that 
-all of your private communications and other personally identifiable information 
-will never be disclosed in ways not otherwise described in this Privacy Policy. As 
-an example, without limiting the foregoing, AFTERNIC will provide personal data 
-records if required by the order of any court of competent jurisdiction. We may 
-disclose any information about you to law enforcement or other government officials 
-as we, in our sole discretion, believe necessary or appropriate, in connection with 
-an investigation of fraud, intellectual property infringements, or other activity 
-that is illegal and may expose us to legal liability. Therefore, although we use 
-industry standard practices to protect your privacy, we cannot guarantee, and you 
-should not expect, that your personally identifiable information or private 
-communications will remain private.</p>
-
-<p><strong>3. Special note about children.</strong><br>
-Children are not eligible to use our services. We ask that minors do not submit 
-any personal information to us.</p>
-
-<p>If you believe your child has errantly submitted personally identifying 
-information on the site, please send us an email message with the name of your 
-child, the email address which the child used to contact us, and the child's postal 
-address. We will notify you if we have any data matching these identifiers. If you 
-can supply the additional information that we require to authenticate your 
-relationship to the data subject, we will delete the data at your request.</p>
-
-<p><strong>4. Your use of other users' information.</strong><br>
-In order to facilitate community, our service allows you to access other users' 
-personal information, such as (but not limited to) user name and listed auctions. 
-Further, as a successful buyer or seller, you will be sent the other data subject's 
-name, address, email address, phone number, fax number, title, DNS information, and 
-registrar identity information. </p>
-
-<p>By entering into our User Agreement, you agree that, with respect to other user's 
-personally identifiable information, you obtain through the Site or through an 
-AFTERNIC -related communication or AFTERNIC -facilitated transaction, AFTERNIC 
-hereby grants you license to use such information only for:</p>
-
-<ul style="margin-left:25px;">
-<li>AFTERNIC -related communications that are not unsolicited commercial messages, and</li> 
-<li>Any use that such user expressly opts into after adequate disclosure of the purpose(s).</li>
-</ul>
-
-<p>Additionally, under no circumstances, except those defined in this section, can you 
-disclose personally identifiable information about another user to any third party without 
-our consent and the consent of such other user after adequate disclosure. Note that law 
-enforcement personnel and other rights holders are given different information access 
-rights.</p>
-
-<p>AFTERNIC and its users will not tolerate any spam. Without limiting the foregoing, 
-you are not licensed to add any AFTERNIC user, even one with whom you have transacted, 
-to your mail (email or physical) or phone list without their express consent after 
-adequate disclosure.</p>
-
-<p><strong>5. Send this auction to a friend service.</strong><br>
-The terms applicable to the Send this auction service apply to your use of that service. 
-Without limiting the foregoing, you are not allowed to use this service to send spam. We 
-do not use the email address you enter for any purpose other than to send your email. We 
-do not rent or sell these email addresses. After we have generated your requested message, 
-we generally discard the email addresses at some point.</p>
-
-<p><strong>6. Control of your password.</strong><br>
-Except as specifically permitted by this section, you may not disclose your AFTERNIC 
-password to any third parties nor share it with any third parties. If you lose control of 
-your password, you will lose substantial control over your personally identifiable 
-information and may be subject to legally binding actions taken on your behalf. Therefore, 
-if your password has been compromised for any reason, you should immediately change your 
-password. </p>
-
-<p>The AFTERNIC staff will never ask you for your password. If you receive a request from 
-anyone claiming to represent us, do not reveal this information.
-Instead, please <a href="https://www.afternic.com/msg2nbs.php" class="moreLink">contact Afternic</a>.
-</p>
-
-<p><strong>7. Reviewing and changing your information.</strong><br>
-Following registration, you can review the information you submitted via your personal 
-AFTERNIC account, including your Username and encoded credit card information. </p>
-
-<p>Additionally, you can use your AFTERNIC account to review and modify other fields, 
-including first and last name, address information, email address, and password. If you 
-choose to change your email address, we will cross-match your new address in our 
-database for relationship to any other data set. We will only allow unique email addresses 
-to be used for registration.</p>
-
-<p>At your discretion, you may review and change all fields in your personal domain name 
-profile records at any time except username and legal name.</p>
-
-<p><strong>8. Information security.</strong><br>
-AFTERNIC uses industry standard efforts such as firewalls and SSL-encryption to safeguard 
-the confidentiality of your personally identifiable information. However, 'perfect 
-security' does not exist on the Internet.</p>
-
-<p><strong>9. Privacy protection.</strong><br>
-The data required by AFTERNIC to activate your membership is used solely for the account 
-you maintain with us. All real data you provide to AFTERNIC is kept strictly confidential 
-and will not be sold or released. Your Username on AFTERNIC can be any name of your own 
-choosing, and identifies you as Standard Member or AFTERNICDLS Member. Prospective 
-counterparties will be able to view your Member Profile, post comments about you, and 
-view the auctions you are involved in, but in no way will have access to your true 
-identity or your email address.
-</p>
 </div>
-<!-- CSS: 
-#subNavigation { display: block;} 
--->
-<!-- BODYPARAMS: 
-id='' 
--->
-
-		</div>
-  	</div>
-		<div id="leftColumn" class="searchLeftColumn">
-
+	<!--End Main Navigation -->
+	<!-- BEGIN Sub Navigation -->
+	<div id="subNavigation">
+			<div class="subNav"><h2>The largest business oriented domain name marketplace in the world  | Afternic has <span style="color:#f00;">3,483,384</span> domains for sale</h2></div>
 		
-	</div>
+	
   </div>
-  <!-- End Content -->
-  <!-- footer -->
-  <div id="footer">
-  	<div class="bBorderDarkBlue left w1000 mPadBottom ssMargBottom">
-		<div class="left" style="width:130px;padding:15px 0 0 0;"><h3>Follow Us On:</h3></div>
-		<div class="left followUsLinks" style="width:770px;padding:12px 0px 0px 0px;">
-			<a href="http://www.facebook.com/pages/AfternicDLS/93642411898?ref=nf" target="_blank" class="mPadRight"><img src="/images/partners/facebook-logo.jpg" width="32" height="32" border="0" class="ssMargRight" align="left"> <span>Facebook</span></a>
-			<a href="http://twitter.com/AfternicDLS" target="_blank" class="mPadRight"><img src="/images/partners/twitter-logo.jpg" width="32" height="32" border="0" class="ssMargRight" align="left"> <span>Twitter</span></a>
-			<a href="http://www.linkedin.com/groups?about=&amp;gid=2001106&amp;trk=anet_ug_grppro" target="_blank"><img src="/images/partners/linked-in-logo.jpg" width="32" height="32" border="0" class="ssMargRight" align="left"> <span>LinkedIn</span></a>
-		</div>
+  <!-- END Sub Navigation -->
+<script type="text/javascript">
+//<![CDATA[
+var menu=new menu.dd("menu");
+menu.init("menu","menuhover");
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var nav_id = "";
+if (nav_id) {
+	$('nav_' + nav_id).className = "navUp";
+	if (nav_id == "home") {
+	$('nav_home').className = "navUp";
+	$('homeImg').src = "/images/falcon/buttons/homeUp.jpg";
+	}
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var isElement = $('top_ad');
+if (isElement != null)
+{
+    setInterval('switchAd()', 2000);
+}
+//]]>
+</script>
+    <!-- End Header -->
+  	<div class="mainContainer">
+  	<!-- Begin Contents -->	
+  	<div class="mainColFull headerLine"> 
+	<h1>Afternic Privacy Policy</h1>
+	<p><strong>Updated October 25, 2003</strong></p>
+	<a href="//privacy-policy.truste.com/click-with-confidence/ctv/en/afternic.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/ctv/en/afternic.com/seal_m.png" alt="Validate TRUSTe privacy certification" align="left" class="lMargRight mMargTop"></a>
+	<p>Your privacy is very important to Afternic. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to http://www.Afternic.com (hereafter, the Site).</p>
+	<p>Afternic has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" class="boldLink">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at (781) 839-2800 or Afternic, Attn: Customer Service, 738 Main Street, #389, Waltham, MA 02451.  If you are not satisfied with our response you can contact TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint" class="boldLink">here</a>. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
+	<p>As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Membership Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the<br>
+	<a href="agreement.php" class="boldLink">AFTERNIC Membership Agreement</a>.</p>
+	<p><b>1. Information we collect.</b><br>
+	If you are merely visiting our site, we collect and store only the following information about you:</p> 
+	<ul>
+		<li>The IP address of the terminal from which you access the Internet</li>
+		<li>The IP address of the website from which you linked directly to our site</li>
+		<li>The date and time you access our site</li>
+		<li>The browser you used to access the site</li>
+		<li>The operating system you used to access the site</li>
+	</ul>
+	<p>We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.</p>
+	<p>We will not obtain any other personally identifying information about you when you visit our site, unless you choose to provide such information to us.</p>
+	<p>As a STANDARD MEMBER, BUYER MEMBER or AFTERNICDLS MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as a BUYER MEMBER or AFTERNICDLS MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.</p>
+	<p>We automatically track certain information about you based upon your behavior on our site. We use this information to analyze user demographics, interests, and behavior to better understand your preferences and improve your AFTERNIC experience.</p>
+	<p>We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Afternic only and does not cover the use of cookies by any third-party.</p>
+	<p>Cookies are used on certain pages of our site. We offer certain features that are only available through the use of a cookie. Cookies are stored on your hard drive, not on our site. If your browser permits, you are always free to decline our cookies, but you may not be able to use certain site features and will have to enter your personally identifying information manually more often. If you choose to buy, bid, sell, or appraise on our site, we collect information about these behaviors. </p>
+	<p>When you successfully buy or sell a domain name, we collect some additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address, bank account number, and tracking information from checks and money orders. Bank account information is deleted when your transaction closes.</p>
+	<p><b>2. How we use your information.</b><br>
+	We use the information we collect from you to transmit administrative notices, buy/sell information and support, billing information, to send you specific information that you have requested, to process your credit card purchases, and to complete the paperwork necessary to transfer a domain name registration. We may also use it to send you information that is targeted to your interests, such as upcoming auctions and promotions. By accepting the Membership Agreement, receiving our newsletter is required as part of the service that we offer.  If you wish to no longer receive our newsletters and promotional communications, you may opt-out of receiving them by either deactivating your account, by following the instructions included in each newsletter or communication, or by emailing us at <a href="mailto:privacy@afternic.com" class="boldLink">privacy@afternic.com</a>. <i>We offer an opportunity to <b>opt-out</b> of certain communications through an opt-out link provided through our marketing emails, or you may contact us at  (781) 839-2800, or Afternic, Attn: Customer Service, 738 Main Street, #389, Waltham, MA 02451 to opt-out.</i></p>
+	<p>Additionally, on appropriate portions of the site, we may display or archive your user name and system- and user-generated feedback, including the comments you submit and that others submit about you.</p>
+	<p>If you send us personal correspondence, such as emails or letters, or if third parties such as other users send us correspondence about your activities or postings on the site, we may collect such information into a file with information specific to you. We use this information to support your customer inquiries, settle disputes, enforce our Membership Agreement, maintain our customer ranking system, troubleshoot problems, and to identify you as eligible for special user campaigns. On rare occasions, we may look across multiple users to identify problems, resolve disputes, and evaluate you for multiple usernames.</p>
+	<p>In general, we do not sell or rent any personally identifiable information about you to any third party. If you choose to use the optional services available on the site, we will, by necessity, provide some of your personally identifiable information to these service providers. However, you can avoid these disclosures by choosing to not use these services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. </p>
+	<p>To enhance the effectiveness of our exchange, Afternic has formed strategic partnerships with select organizations, mostly registrars. Upon request by such Partners, we disclose some of your personally identifiable information to the Partners for the Partners' marketing purposes. To each Partner we only disclose information for the members that were referred to Afternic from the Partner's website. (Members can determine the Partner that referred them to Afternic by clicking "My Account" on our home page.) All Partners have agreed to post a privacy agreement on their own websites and protect your information accordingly.</p>
+	<p>We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</p>
+	<p>Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. As an example, without limiting the foregoing, AFTERNIC will provide personal data records if required by the order of any court of competent jurisdiction. We may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal and may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we cannot guarantee, and you should not expect, that your personally identifiable information or private communications will remain private.</p>
+	<p>We may also disclose your personal information</p>
+	<ul> 
+		<li>as required by law, such as to comply with a subpoena, or similar legal process</li> 
+		<li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
+		<li>if Afternic is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,</li>  
+		<li>to any other third party with your prior consent to do so.</li>
+	</ul>
+	<p><b>3. Special note about children.</b><br>
+	Children are not eligible to use our services. We ask that minors do not submit any personal information to us.</p>
+	<p>If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child's postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.</p>
+	<p><b>4. Your use of other users' information.</b><br>
+	In order to facilitate community, our service allows you to access other users' personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject's name, address, email address, phone number, fax number, title, DNS information, and registrar identity information.</p> 
+	<p>By entering into our User Agreement, you agree that, with respect to other user's personally identifiable information, you obtain through the Site or through an AFTERNIC -related communication or AFTERNIC -facilitated transaction, AFTERNIC hereby grants you license to use such information only for:</p>
+	<ul>
+	<li>AFTERNIC -related communications that are not unsolicited commercial messages, and</li>
+	<li>Any use that such user expressly opts into after adequate disclosure of the purpose(s).</li>
+	</ul>
+	<p>Additionally, under no circumstances, except those defined in this section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different information access rights.</p>
+	<p>AFTERNIC and its users will not tolerate any spam. Without limiting the foregoing, you are not licensed to add any AFTERNIC user, even one with whom you have transacted, to your mail (email or physical) or phone list without their express consent after adequate disclosure.</p>
+	<p><b>5. Control of your password.</b><br>
+	Except as specifically permitted by this section, you may not disclose your AFTERNIC password to any third parties nor share it with any third parties. If you lose control of your password, you will lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.</p>
+	<p>The AFTERNIC staff will never ask you for your password. If you receive a request from anyone claiming to represent us, do not reveal this information.<br>
+	Instead, please <a href="msg2nbs.php" class="boldLink">contact Afternic</a>.</p>
+	<p><b>6. Reviewing and changing your information.</b><br>
+	Following registration, you can review the information you submitted via your personal AFTERNIC account, including your Username and encoded credit card information. </p>
+	<p>Additionally, you can use your AFTERNIC account to review and modify other fields, including first and last name, address information, email address, and password. If you choose to change your email address, we will cross-match your new address in our database for relationship to any other data set. We will only allow unique email addresses to be used for registration.</p>
+	<p>At your discretion, you may review and change all fields in your personal domain name profile records at any time except username and legal name.
+	With your consent we may post your testimonial along with your name.  If you want your testimonial removed please contact us at <a href="mailto:privacy@afternic.com" class="boldLink">privacy@afternic.com</a>.</p>
+	<p><b>7. Information security.</b><br>
+	The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
+	<p>We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at <a href="mailto:privacy@afternic.com" class="boldLink">privacy@afternic.com</a>.</p> 
+	<p><b>8. Privacy protection.</b><br>
+	The data required by AFTERNIC to activate your membership is used solely for the account you maintain with us. All real data you provide to AFTERNIC is kept strictly confidential and will not be sold or released. Your Username on AFTERNIC can be any name of your own choosing, and identifies you as Standard Member or AFTERNICDLS Member. Prospective counterparties will be able to view your Member Profile, post comments about you, and view the auctions you are involved in, but in no way will have access to your true identity or your email address.</p> 
+	<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.</p>  
+	<p><b>9. Links to Other Sites</b><br>
+	Our Site includes links to other Web sites whose privacy practices may differ from those of Afternic. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
+	<p>You can also link to/from our site using sign-in services such as Facebook, LinkedIn, &amp; Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to link between the sites. Services like these give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+	<p><b>10. Notification of Privacy Statement Changes</b><br>
+	We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+	<p><b>11. Contacting the Site</b><br>
+	If you have any questions about this policy or privacy practices on the site, please contact us at the information listed below:</p>
+	<p><b>Afternic.com<br>
+	Attn: Customer Service<br>
+	738 Main Street, #389<br>
+	Waltham, MA 02451<br>
+	Phone: 781-839-7990<br>
+	Fax:&nbsp;&nbsp;&nbsp;&nbsp; 781-839-2801<br>
+	Email:	privacy@afternic.com</b></p>
 	</div>
-	<div class="bBorderDarkBlue left w1000 lPadBottom ssMargBottom">
+	</div>
+</div>
+<div id="footerBg">
+<div class="bodyContainer">
+	<div id="footer">
+<!--footer.php-->
+	<div class="bBorderDarkBlue left w540" style="padding-top:28px;">
+		<div id="whiteArrow" class="whiteArrowRight" style="width:140px;"><a id="footerTitle" href="#" onclick="toggleNav('footer', 'white'); return false;">Afternic Sitemap</a></div>
+	</div>
+	<div class="bBorderDarkBlue right w460 mPadBottom ssMargBottom">
+		<div class="left" style="width:130px;padding:15px 0 0 0;"><h3>Follow Us On:</h3></div>
+		<div class="left followUsLinks" style="width:330px;padding:12px 0px 0px 0px;">	
+			<a href="http://www.facebook.com/pages/AfternicDLS/93642411898?ref=nf" target="_blank" class="mPadRight"><img src="/images/partners/facebook-logo.jpg" width="32" height="32" border="0" class="ssMargRight" align="left" alt="Follow Us On Facebook"> <span>Facebook</span></a>
+			<a href="http://twitter.com/AfternicDLS" target="_blank" class="mPadRight"><img src="/images/partners/twitter-logo.jpg" width="32" height="32" border="0" class="ssMargRight" align="left" alt="Follow Us On Twitter"> <span>Twitter</span></a>
+			<a href="http://www.linkedin.com/groups?about=&amp;gid=2001106&amp;trk=anet_ug_grppro" target="_blank"><img src="/images/partners/linked-in-logo.jpg" width="32" height="32" border="0" class="ssMargRight" align="left" alt="Follow Us On LinkedIn"> <span>LinkedIn</span></a>
+			</div>
+	</div>
+	<div id="footerNav" class="left" style="display:none;">
+	<div class="bBorderDarkBlue left w1000 lPadBottom">
 		<div class="left">
 		<h3>Search Domain Names by Category</h3>
 		<ul class="left" style="width:100px;">
-			<li><a href="/namesbyc.php?c=1001&amp;category=Acronyms">Acronyms</a></li>
-			<li><a href="/namesbyc.php?c=1&amp;category=Business">Business</a></li>
-			<li><a href="/namesbyc.php?c=30&amp;category=Careers">Careers</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=1001&amp;category=Acronyms">Acronyms</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=1&amp;category=Business">Business</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=30&amp;category=Careers">Careers</a></li>
 		</ul>
 		<ul class="left" style="width:110px;">
-			<li><a href="/namesbyc.php?c=44&amp;category=Computers">Computers</a></li>
-			<li><a href="/namesbyc.php?c=58&amp;category=Education">Education</a></li>
-			<li><a href="/namesbyc.php?c=69&amp;category=Family Life">Family Life</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=44&amp;category=Computers">Computers</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=58&amp;category=Education">Education</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=69&amp;category=Family Life">Family Life</a></li>
 		</ul>
 		<ul class="left" style="width:100px;">
-			<li><a href="/namesbyc.php?c=85&amp;category=Financial">Financial</a></li>
-			<li><a href="/namesbyc.php?c=105&amp;category=Health">Health</a></li>
-			<li><a href="/namesbyc.php?c=141&amp;category=Home">Home</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=85&amp;category=Financial">Financial</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=105&amp;category=Health">Health</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=141&amp;category=Home">Home</a></li>
 		</ul>
 		<ul class="left" style="width:100px;">
-			<li><a href="/namesbyc.php?c=169&amp;category=Recreation">Recreation</a></li>
-			<li><a href="/namesbyc.php?c=190&amp;category=Reference">Reference</a></li>
-			<li><a href="/namesbyc.php?c=199&amp;category=Region">Region</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=169&amp;category=Recreation">Recreation</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=190&amp;category=Reference">Reference</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=199&amp;category=Region">Region</a></li>
 		</ul>
 		<ul class="left" style="width:120px;">
-			<li><a href="/namesbyc.php?c=250&amp;category=Shopping">Shopping</a></li>
-			<li><a href="/namesbyc.php?c=278&amp;category=Society">Society</a></li>
-			<li><a href="/namesbyc.php?c=213&amp;category=Special Events">Special Events</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=250&amp;category=Shopping">Shopping</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=278&amp;category=Society">Society</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=213&amp;category=Special Events">Special Events</a></li>
 		</ul>
 		<ul class="left" style="width:100px;">
-			<li><a href="/namesbyc.php?c=231&amp;category=Sports">Sports</a></li>
-			<li><a href="/namesbyc.php?c=300&amp;category=Travel">Travel</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=231&amp;category=Sports">Sports</a></li>
+			<li><a href="http://www.afternic.com/namesbyc.php?c=300&amp;category=Travel">Travel</a></li>
 		</ul>
 		</div>
 		<div class="left">
 		<h3>Search by Domain Name Length</h3>
 		<ul class="left" style="width:200px;">
-			<li><a href="/names.php?adv_options=1002&amp;category=One and two characters">One &amp; Two characters</a></li>
-			<li><a href="/names.php?adv_options=1003&amp;category=Three characters">Three characters</a></li>
-			<li><a href="/names.php?adv_options=1004&amp;category=Four plus characters">Four + characters</a></li>
+			<li><a href="http://www.afternic.com/names.php?adv_options=1002&amp;category=One and two characters">One &amp; Two characters</a></li>
+			<li><a href="http://www.afternic.com/names.php?adv_options=1003&amp;category=Three characters">Three characters</a></li>
+			<li><a href="http://www.afternic.com/names.php?adv_options=1004&amp;category=Four plus characters">Four + characters</a></li>
 		</ul>
 		</div>
 	</div>
-	<div class="left w1000 lPadBottom ssMargBottom">
+	<div class="left w1000 lPadBottom">
 		<div class="left">
-	<h3>Afternic Links</h3>
-	<ul class="left" style="width:120px;">
-		<li><a href="/">Homepage</a></li>
-		<li><a href="/about.php">About Afternic</a></li>
-		<li><a href="/msg2nbs.php">Contact Us</a></li>
-		<li><a href="/help/" target="_blank">FAQ</a></li>
-		<li><a href="/siteAdv.php">Advertise With Us</a></li>
-		<li><a href="https://www.buydomains.com" target="_blank">BuyDomains.com</a></li>
-	</ul>
-	<ul class="left" style="width:150px;">
-		<li><a href="/registrationagreement.php">Registration Agreement</a></li>
-		<li><a href="/udrp.php">Dispute Policy</a></li>
-		<li><a href="/agreement.php">Membership Agreement</a></li>
-		<li><a href="/privacy.php">Privacy</a></li>
-		<li><a href="/terms.php">Terms of Use</a></li>
-	</ul>
-	</div>
-		<div class="left">
-	<h3>Buyer Services</h3>
-	<ul class="left" style="width:140px;">
-		<li><a href="/buy.php">Buyer Options</a></li>
-		<li><a href="/names.php?cls=1">Closing Soon Auctions</a></li>
-		<li><a href="/names.php?feat=1">Featured Domain Names</a></li>		
-	</ul>
-	</div>
-		<div class="left">
-	<h3>Seller Services</h3>
-	<ul class="left" style="width:140px;">
-		<li><a href="/sell.php">Sell Your Domains</a></li>
-		<li><a href="/promotion-upgrade.php">Promotion Upgrades</a></li>
-		<li><a href="/upg.php">Listing Upgrades</a></li>
-		<li><a href="https://www.buydomains.com/sell-domains/sell-form.jsp">Sell to BuyDomains</a></li>
-	</ul>
-	</div>
-		<div class="left">
-	<h3>Domain Tools</h3>
-	<ul class="left" style="width:140px;">
-		<li><a href="/domain-tools.php">Domain Tools</a></li>
-		<li><a href="/buy.php?p=4">Domain Escrow Service</a></li>
-		<li><a href="/uoffer.php">Afternic Agent Service</a></li>
-		<li><a href="/approrder.php?at=307">Domain Apprasials</a></li>
-		<li><a href="/park.php">Domain Parking</a></li>
-		<li><a href="/affiliates.php">Affiliate Program</a></li>
-	</ul>
-	</div>
-		<div class="left">
-	<h3>Domainer's Advantage</h3>
-	<ul class="left" style="width:120px;">
-		<li><a href="http://domainersadvantage.afternic.com/">Home</a></li>
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=2" title="Market Trends">Market Trends</a></li>
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=5" title="Best Practices">Best Practices</a></li>
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=10" title="Ask the Expert">Ask the Expert</a></li>
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=661" title="AfternicDLS Blog">AfternicDLS Blog</a></li>
-	</ul>
-	<ul class="left" style="width:140px;">
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=671" title="Upcoming Events">Upcoming Events</a></li>
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=1668" title="Sales Performance">Sales Performance</a></li>
-		<li><a href="http://domainersadvantage.afternic.com/?page_id=1672" title="Poll of the Week">Poll of the Week</a></li>
-		<li><a href="http://www.discussnames.com/" target="_blank">DiscussNames Forum</a></li>
-	</ul>
-	</div>
-	</div>
-	<div class="left w1000 xlPadBottom ssMargBottom">
-		<div class="left lMargRight">
-			<a href="http://www.domaining.com/" onfocus="if(this.getAttribute('replaced')==null){this.setAttribute('replaced', 1); this.href='http://partner.domaining.com/link/?id=3669';} return(true);"><img src="/images/partners/domaining-120x31.gif" border="0" width="120" height="31" alt="Domain name broker recommended by Domaining.com"></a>			
-			<span class="mPadLeft"><img border="0" src="/images/partners/rapidssl_ssl_certificate.gif" width="90" height="50" alt="Rapid SSL"></span>
-			<span class="mPadLeft mPadRight"><img border="0" src="/images/partners/nameIntelligence.jpg" width="62" height="50" alt="2007 &amp; 2008 Outstanding Secondary Market Winner"></span>
-			<a target="_blank" title="Click here for BBB Business Review" href="http://www.bbb.org/boston/business-reviews/internet-services/afternic-in-waltham-ma-116161/#bbbonlineclick"><img alt="Click here for BBB Business Review" border="0" src="https://ourbbbonline2.bbb.org/Boston/BBBOnlineSeal/116161/H2/0/seal.png"></a>
+		<h3>Afternic Links</h3>
+		<ul class="left" style="width:110px;">
+			<li><a href="http://www.afternic.com/">Homepage</a></li>
+			<li><a href="http://www.afternic.com/about.php">About Afternic</a></li>
+			<li><a href="http://www.afternic.com/msg2nbs.php">Contact Us</a></li>
+			<li><a href="http://my.afternic.com/faq" target="_blank">FAQ</a></li>
+			<li><a href="https://www.buydomains.com/" target="_blank">BuyDomains.com</a></li>
+		</ul>
+		<ul class="left" style="width:140px;">
+			<li><a href="http://www.afternic.com/registrationagreement.php">Registration Agreement</a></li>
+			<li><a href="http://www.afternic.com/udrp.php">Dispute Policy</a></li>
+			<li><a href="http://www.afternic.com/agreement.php">Membership Agreement</a></li>
+			<li><a href="http://www.afternic.com/privacy.php">Privacy</a></li>
+			<li><a href="http://www.afternic.com/terms.php">Terms of Use</a></li>
+			<li><a href="http://www.afternic.com/fees.php">Fees</a></li>
+		</ul>
 		</div>
-		<div class="dottedLeft left blue" style="width:400px;padding:8px 15px;">Services Provided By NameMedia<!--&#8480;--><sup style="font-size:7px;">SM</sup><br>Copyright ©2010 NameMedia, Inc. All Rights Reserved.<br>NAMEMEDIA is a service mark of NameMedia, Inc.</div>
+		<div class="left">
+		<h3>Seller Services</h3>
+		<ul class="left" style="width:135px;">
+			<li><a href="http://www.afternic.com/sell.php">Sell Your Domains</a></li>
+			<li><a href="http://www.afternic.com/promotion-upgrade.php">Promote Your Domain</a></li>
+			<li><a href="http://www.afternic.com/dashboard.php?page=addDomains">Add Domains to Sell</a></li> 		
+		</ul>
+		</div>
+		<div class="left">
+		<h3>Parking Services</h3>
+		<ul class="left" style="width:140px;">
+			<li><a href="http://www.afternic.com/park.php">Domain Parking</a></li>
+			<li><a href="http://my.afternic.com/faq/2010/09/how-can-i-profit-by-parking-my-domains/">How to Profit by Parking</a></li> 
+			<li><a href="http://www.afternic.com/dashboard.php?page=addDomains">Add Domains to Park</a></li> 
+		</ul>
+		</div>
+		<div class="left">
+		<h3>Buyer Services</h3>
+		<ul class="left" style="width:165px;">
+			<li><a href="http://www.afternic.com/buy.php">Buyer Options</a></li>
+			<li><a href="http://www.afternic.com/names.php?cls=1">Closing Soon Domain Auctions</a></li>
+			<li><a href="http://www.afternic.com/names.php?feat=1">Featured Domain Names</a></li>
+		</ul>
+		</div>		
+		<div class="left">
+		<h3>Domain Tools</h3>
+		<ul class="left" style="width:140px;">
+			<li><a href="http://www.afternic.com/domain-tools.php">Domain Tools</a></li>
+			<li><a href="http://www.afternic.com/uoffer.php">Afternic Agent</a></li>
+			<li><a href="http://www.afternic.com/approrder.php?at=307">Domain Appraisals</a></li>
+			<li><a href="http://www.afternic.com/domain-name-escrow.php">Domain Escrow Service</a></li>
+			<li><a href="http://www.afternic.com/cash-back.php">Cash Back Program</a></li>
+			<!-- <li><a href="http://membercenter.afternic.com/">Domainer's Advantage</a></li> -->
+			<li><a href="http://www.discussnames.com/" target="_blank">DiscussNames Forum</a></li>
+		</ul>
+		</div>
+		<!-- <div class="left">
+		<h3>Domainer's Advantage</h3>
+		<ul class="left" style="width:100px;">
+			<li><a href="http://membercenter.afternic.com/?page_id=2" title="Market Trends">Market Trends</a></li>
+			<li><a href="http://membercenter.afternic.com/?page_id=5" title="Best Practices">Best Practices</a></li>
+			<li><a href="http://membercenter.afternic.com/?page_id=10" title="Ask the Expert">Ask the Expert</a></li>
+			<li><a href="http://membercenter.afternic.com/?page_id=661" title="AfternicDLS Blog">AfternicDLS Blog</a></li>
+			<li><a href="http://membercenter.afternic.com/?page_id=671" title="Upcoming Events">Upcoming Events</a></li>
+			<li><a href="http://membercenter.afternic.com/?page_id=1668" title="Sales Performance">Sales Performance</a></li>
+			<li><a href="http://membercenter.afternic.com/?page_id=1672" title="Poll of the Week">Poll of the Week</a></li>
+		</ul>
+		</div> -->
 	</div>
-  </div>
-  <!-- footer -->
-
+	</div>
+	<div class="left w1000 xlPadBottom sMargTop ssMargBottom">
+		<div class="blue sPadTop lPadBottom" align="center">Services Provided By NameMedia<!--&#8480;--><sup style="font-size:7px;">SM</sup>. Copyright ©2010 NameMedia, Inc. All Rights Reserved. NAMEMEDIA is a service mark of NameMedia, Inc.</div>
+		<div align="center">	
+		<span class="mPadRight"><a href="http://www.domaining.com/" onfocus="if(this.getAttribute('replaced')==null){this.setAttribute('replaced', 1); this.href='http://partner.domaining.com/link/?id=3669';} return(true);"><img src="/images/partners/domaining-120x31.gif" border="0" width="120" height="31" alt="Domain name broker recommended by Domaining.com" align="top"></a></span>
+		<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.afternic.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>		
+		<span class="mPadLeft mPadRight">
+		<a target="_blank" title="Click here for BBB Business Review" href="http://www.bbb.org/boston/business-reviews/internet-services/afternic-in-waltham-ma-116161/#bbbonlineclick"><img alt="Click here for BBB Business Review" border="0" src="https://ourbbbonline2.bbb.org/Boston/BBBOnlineSeal/116161/H2/0/seal.png" align="top"></a>
+		</span>			
+		<span class="mPadRight"><img border="0" src="/images/partners/nameIntelligence.jpg" width="62" height="50" alt="2007 &amp; 2008 Outstanding Secondary Market Winner" align="top"></span>
+		<a href="http://privacy-policy.truste.com/click-with-confidence/wps/en/afternic.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="https://privacy-policy.truste.com/certified-seal/wps/en/afternic.com/seal_m.png" alt="TRUSTe online privacy certification" align="top"></a>
+		</div>
+	</div>
 </div>
-<div id="smSearchBg"></div>
-<div id="footerBg"></div>
-<script type="text/javascript">
-	setFooter();
-</script>
-<!-- 0.084812879562378 ap: www.afternic.com ro:  rw: andb1.buydomains.com -->
+
+
 <!-- BEGIN gaStatsBlk -->
+
+
 <script type="text/javascript">
+//<![CDATA[
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>	
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+//<![CDATA[
 var pageTracker = _gat._getTracker("UA-1277815-14");
 pageTracker._trackPageview();
+//]]>	
 </script>
 <!-- END gaStatsBlk -->
 
-
-
-
-
+</div>
+</div>
 
 </body></html>
