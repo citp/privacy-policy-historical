@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breederretriever.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515015403id_/http%3A//www.breederretriever.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breederretriever.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206231110id_/http%3A//www.breederretriever.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
