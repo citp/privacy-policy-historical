@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531044746id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207062310id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.com: Privacy Policy
 
@@ -77,10 +77,10 @@ Through third party referral program operators and others, we offer referral pro
 
 If you choose to apply to be a referral website, we use the data you provide strictly for conducting business with you. We have entered into certain agreements with third party program operators for the purpose of administering our referral programs. Should you become a referral website of ours through one of our third party program operators, any information you provide to them is subject to their privacy policies. 
 
-****_Online Products._****  
+**_**Online Products.**_**  
 
 
-We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Online Products (available either for free or on a subscription basis) such as the "Favorites" feature, the “ ** _POINTS_** ® Tracker” tool, the "Weight Tracker" tool and the Community Areas. We also collect information that you provide voluntarily through responses to special Online Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Online Products may ask you for health related information. We collect this information in order to personalize your online experience. 
+We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Online Products (available either for free or on a subscription basis) such as the "Favorites" feature, the “ _ **PointsPlus**_ ™ Tracker” tool, the "Weight Tracker" tool and the Community Areas. We also collect information that you provide voluntarily through responses to special Online Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Online Products may ask you for health related information. We collect this information in order to personalize your online experience. 
 
 ****_Handheld Products._****  
 
@@ -124,10 +124,10 @@ Except as set forth in this Privacy Policy or as specifically agreed to by you, 
 
 We may disclose information (including Personally Identifiable Information) about you to our Affiliates. For purposes of this Privacy Policy, "Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with WeightWatchers.com, Inc. or Weight Watchers International, Inc., whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy. We may share your information (including Personally Identifiable Information) with franchisees of Weight Watchers International, Inc., but only where we indicate to you at time of information collection that such information will be provided to a franchisee, or if we otherwise obtain your permission. 
 
-****_Laws and Legal Rights._****  
+**_**Laws and Legal Rights.**_**  
 
 
-We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our [Terms & Conditions](https://web.archive.org/legal/terms.aspx) or our [Subscription Agreement](https://web.archive.org/legal/subagreement.aspx), or to protect the safety and/or security of our users, our Website or the general public. 
+We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms & Conditions , or our Subscription Agreement or to protect the safety and/or security of our users, our Website or the general public. 
 
 ****_Third Parties Generally._****  
 
