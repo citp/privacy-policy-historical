@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivyxprinting.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529032930id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivyxprinting.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207050545id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.*
 
-# Custom Posters and Prints Cheap @ VivyxPrinting.com
+# Poster Printing and Large Format Prints Cheap!
 
 ## Orders, Returns & Guarantee
 
@@ -8,7 +8,7 @@ Order at VivyxPrinting.com with confidence! We guarantee a high quality print. I
 
 ### Fast Turnaround
 
-Vivyx Printing will usually print and ship your poster within 1 business day. For most orders, that means you will receive your print in 3-5 business days of when your order was placed. With expedited shipping, your order will arrive in 1-2 business days! 
+Vivyx Printing will print and ship expedited orders within 1 business day and Ground orders within 2 - 4 business days. For most orders, that means you will receive your print in 5 - 9 business days of when your order was placed. With expedited shipping, your order will arrive in 1-2 business days! 
 
 ### Pre-Ship Visual Inspection
 
@@ -20,7 +20,7 @@ During the photo upload and configuration process, you may be alerted that your 
 
 ### How to Request a Reprint or Refund
 
-If your print quality is not satisfactory, or is defective, you may request a reprint or refund by [contacting us](https://web.archive.org/web/20100529032930id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/contact.asp). 
+If your print quality is not satisfactory, or is defective, you may request a reprint or refund by [contacting us](https://web.archive.org/web/20101207050545id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/contact.asp). 
 
 ## Privacy Policy
 
@@ -36,7 +36,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How You Can Access Or Correct Your Information:
 
-You can access all your personally identifiable information that we collect online and maintain by logging into [your assigned account](https://web.archive.org/web/20100529032930id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/account.asp) using the password provided. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by logging into [your assigned account](https://web.archive.org/web/20101207050545id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/account.asp) using the password provided. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
