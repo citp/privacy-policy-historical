@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607145924id_/http%3A//www.wanderingtrader.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207151656id_/http%3A//www.wanderingtrader.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Marcello Arrambide ~ Wandering Trader
+# Privacy Policy | Wandering Trader's Travels
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
 
