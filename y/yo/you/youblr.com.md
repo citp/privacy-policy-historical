@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youblr.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625024228id_/http%3A//youblr.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youblr.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207042127id_/http%3A//youblr.com/static/privacy) for the most accurate reproduction.*
 
 # Youblr. | Privacy Policy
 
