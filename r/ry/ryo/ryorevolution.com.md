@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryorevolution.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103054346id_/http%3A//ryorevolution.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryorevolution.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207022341id_/http%3A//ryorevolution.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RYO Revolution
 
@@ -47,5 +47,3 @@ You will be able to edit your RYO Revolution forum account information and prefe
 _Changes to this Privacy Policy_
 
 RYO Revolution may amend this policy from time to time. RYO Revolution will prominently display on this website any substantial change in the way we use your personal information. 
-
-top of page
