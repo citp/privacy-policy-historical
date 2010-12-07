@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019024832id_/http%3A//www.skymall.com/shopping/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207015710id_/http%3A//www.skymall.com/shopping/privacy.htm) for the most accurate reproduction.*
 
 # SkyMall - Customer Service - Your Privacy: Guaranteed
 
-|   
+|  |   
+|  |   
 ---  
-|  | 
-
-|  |  [Home](https://web.archive.org/web/20071019024832id_/http%3A//www.skymall.com/shopping/homepage.htm) : [Customer Service](https://web.archive.org/web/20071019024832id_/http%3A//www.skymall.com/shopping/custsvc.htm) : [Your Privacy](https://web.archive.org/web/20071019024832id_/http%3A//www.skymall.com/shopping/privacy.htm?name=Your%20Privacy&link=privacy.htm) |  |  |   
----|---|---|---|---  
+  | Customer Service   [Home](https://web.archive.org/web/20101207015710id_/http%3A//www.skymall.com/shopping/homepage.htm) : [Customer Service](https://web.archive.org/web/20101207015710id_/http%3A//www.skymall.com/shopping/custsvc.htm) : [Your Privacy](https://web.archive.org/web/20101207015710id_/http%3A//www.skymall.com/shopping/privacy.htm?name=Your%20Privacy&link=privacy.htm)  
+  | We're here to help. Can't find what you need? Just give us a call at 1-800-Sky-Mall (1-800-759-6255)   
+|  |  |   
 ---  
 |  Your Privacy   
 ---  
 Your personal information is kept private.   
-We'll collect only the information we need to serve you.   
+We’ll collect only the information we need to serve you.   
 At skymall.com, we will ask you to provide us with only the personal information we need to complete your transaction, to enable us to provide you with customer service, or so that you can register for special offers, benefit programs, email updates, or other services, contests, sweepstakes, or opportunities.   
-skymall.com collects no personally identifying information about you except when you specifically and knowingly provide such information. We require your email address to confirm your order and to contact you regarding your purchases and shipments. We may also ask for optional interest or demographic information which will help us and our partners gain a better understanding of who we're serving, and therefore improve our service to you.   
+skymall.com collects no personally identifying information about you except when you specifically and knowingly provide such information. We require your email address to confirm your order and to contact you regarding your purchases and shipments. We may also ask for optional interest or demographic information which will help us and our partners gain a better understanding of who we’re serving, and therefore improve our service to you.   
 skymall.com collects statistical information which allows us to track the frequency of visits to our different merchants and departments. We also collect demographic information associated with visits and purchases. This information is collected for statistical purchases only, and may be shared only in the aggregate.   
-We'll store that information securely.   
+We’ll store that information securely.   
 Any information you choose to provide to skymall.com will be protected by a password you set and which you alone retain. And the information is stored on a secure server which is not accessible to the Internet.   
 Like most major Web sites, skymall.com uses "cookies" to enable us to serve you. Cookies are an industry-standard technology which make the use of our online shopping cart possible, among other features, and our use of cookies does not infringe upon your privacy.   
-A cookie is a small data file that a Web site writes to your hard drive when you visit, which assigns you a unique ID and allows the site to save selections made and information entered during your time at the site, and to recognize you when you return. skymall.com also uses cookies to determine if you have been referred to skymall.com from a particular link, banner, or partner site. The only personal information a cookie can contain is information you knowingly supply yourself; a cookie can't read data off your hard disk or read cookie files created by other sites.   
-We won't share any information without your permission.   
+A cookie is a small data file that a Web site writes to your hard drive when you visit, which assigns you a unique ID and allows the site to save selections made and information entered during your time at the site, and to recognize you when you return. skymall.com also uses cookies to determine if you have been referred to skymall.com from a particular link, banner, or partner site. The only personal information a cookie can contain is information you knowingly supply yourself; a cookie can’t read data off your hard disk or read cookie files created by other sites.   
+We won’t share any information without your permission.   
 skymall.com believes in your right to informed consent in the handling of your information. We will not rent or sell your personal information to any other company unless you tell us we can. If you have been referred to us by an airline partner or other partner or affiliate, we may provide them with information to help them better serve you. And we may use your information or share it with our affiliates and partners to improve our service to you and provide you with updates about items and offers which may be of special interest to you. If you have asked that we not shre your information, we may still need to provide your contact information to third parties to ensure that you do not receive any marketing messages from them. We may share non-personal, non-individual information in aggregate form with our marketing partners, advertisers, or other third parties. This information is in the form of use statistics or purchase demographics, and is never connected to personal information.   
 If you have made a purchase at skymall.com, registered for one of our affiliated services or benefits programs, or signed up for another special offer or opportunity, we may occasionally update you via email of specific opportunities we feel may be of special interest to you, or we may supply your name to carefully screened companies who we feel may have products or services which will be of interest to you. If you would prefer not to receive notice of such opportunities, simply indicate this during the checkout process: simply make sure the box next to the statement "Please make my name available to carefully screened companies whose products and services may be of interest to me" is not checked.   
 Your Privacy Rights   
-For California residents who would like a description of SkyMall's and its affiliates' practices with regard to sharing personal information with third parties during 2004 for use in direct marketing, please contact us at:   
+For California residents who would like a description of SkyMall’s and its affiliates’ practices with regard to sharing personal information with third parties during 2004 for use in direct marketing, please contact us at:   
 SkyMall, Customer Service - Policies, 1520 E. Pima Street, Phoenix, AZ 85034   
 Please keep in mind that, the foregoing policy and our best efforts notwithstanding, we cannot unconditionally guarantee that your information will never be disclosed to a third party. We may be obligated, in certain circumstances, to disclose information to the federal government in response to a warrant or official request. So by using skymall.com, you do authorize us to disclose your personal information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Further, the foregoing policy notwithstanding, third parties may unlawfully intercept or access private communications despite every best effort made by skymall.com, using industry-standard security measures, to prevent such an occurrence.   
 It is our constant intent to provide the safest and most secure shopping experience possible. Since offerings and technologies change, we must reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page for changes. If you have any questions, or would like further clarification on any of our policies, please contact our Customer Care Center via e-mail or by calling 1-800-SKYMALL.   
-  
-  
-
+|  | 
