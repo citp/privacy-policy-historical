@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211425id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207234059id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,7 +115,7 @@ Your account information is password-protected.
 
 In certain areas, the CloudAccess.net Sites, Products, and Services use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
 
-If CloudAccess.net learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the CloudAccess.net Sites, Products, and Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of those sites, products, and services. We may post a notice on our applicable Web sites if a security breach occurs. If this happens, you will need a Web browser enabling you to view the applicable Web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at [admin@cloudaccess.net](mailto:admin@cloudaccess.net) [admin@cloudaccess.net](mailto:admin@cloudaccess.net) This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
+If CloudAccess.net learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the CloudAccess.net Sites, Products, and Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of those sites, products, and services. We may post a notice on our applicable Web sites if a security breach occurs. If this happens, you will need a Web browser enabling you to view the applicable Web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at admin @ cloudaccess.net.
 
 ##### Changing Your Preferences and Personal Information
 
@@ -125,19 +125,19 @@ You can delete your applicable account by visiting the applicable account deleti
 
 ##### Contacting cloudaccess.net
 
-If you have a privacy concern regarding any CloudAccess.net Site, Product, or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those Sites, Products, or Services, you should complete a feedback form or you can write to us by email at [admin@cloudaccess.net](mailto:admin@cloudaccess.net) [admin@cloudaccess.net](mailto:admin@cloudaccess.net) This e-mail address is being protected from spambots. You need JavaScript enabled to view it . Alternatively, we can be reached by telephone at 800-400-1565 or our postal mail address:
+If you have a privacy concern regarding any CloudAccess.net Site, Product, or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those Sites, Products, or Services, you should write to us by email at  feedback @ cloudaccess.net. Alternatively, we can be reached by telephone at 800-400-1565 or our postal mail address:
 
-CloudAccess.net, LLC.   
-[info@michiganmedia.net](mailto:info@michiganmedia.net) [info@michiganmedia.net](mailto:info@michiganmedia.net) This e-mail address is being protected from spambots. You need JavaScript enabled to view it   
+CloudAccess.net, LLC.  
+salesteam @ cloudaccess.net   
 Toll Free: 800-400-1565  
 Fax: 313-899-7032  
 web: [http://www.cloudaccess.net](http://www.cloudaccess.net/undefined)
 
-526 W. 14th Street, Suite 105  
+12719 S West Bayshore Dr., Suite 9  
 Traverse City, MI 49684
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing to us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the CloudAccess.net Sites, Products, and Services or may require us to terminate our relationship with you.
 
 _Effective Date: February 1, 2007_
 
-Copyright 2007, 2009 CloudAccess.net, LLC. All rights reserved.
+Copyright 2007, 2008, 2009, 2010 CloudAccess.net, LLC. All rights reserved.
