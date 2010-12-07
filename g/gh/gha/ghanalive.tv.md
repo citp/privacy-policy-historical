@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625142645id_/http%3A//www.ghanalive.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207021906id_/http%3A//ghanalive.tv/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Welcome to GhanaLIVE.tv Your #1 Market Leader in Subscription-based Broadcaster of Ghanaian Ethic Television and Radio over Broadband
 
