@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502170816id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207045556id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,39 +8,66 @@ Check out [the DG homepage](https://web.archive.org/) for a brief overview of wh
 
 | 
 
-The Dave's Garden Team respects the privacy of the users of this website. Because we share your privacy concerns, we have published this privacy policy to help you understand what information we collect as a result of your use of this site, and what we do with that information. 
+Privacy Statement
 
-The type of information we gather falls into the categories below.
+Browsing DG
 
-| **User Information and How it is Gathered**|  **What We Do with that Information**  
----|---  
-**General Tracking Information**
+Information Collected
 
-We keep track of the pages you visit on our site, and our web server automatically gives us a report of the overall traffic of the site, each day. Stored within that report is your IP address, browser type, http referers, date and time of the access, and the page you accessed.
+Use of Forums
 
-Additionally, we may allow the placement of trusted third-party cookies on your computer for the purpose of targeting advertisements. You may opt-out of this tracking at [this page](http://www.bluekai.com/optout.html). To opt-out of receiving customized advertising from ad networks who are members of the Network Advertising Initiative, please visit [its website](http://www.networkadvertising.org/managing/opt_out.asp).
+Cookies
 
-| We aggregate this data with the data collected from all the other users of this site, and prepare reports for our own use in determining the growth and usage numbers of the site. This information does not identify you personally.  
-**User Registration**
+Security
 
-When you sign for a username on this site, we collect from you your desired username and your email address.
+Third Party Advertising
 
-| The E-mail address is hidden from view at all times, and is never released to **any** third-party source. The address is used only by Dave's Garden to contact you through our website. 
+Contacting the Web Site
 
-We require an e-mail address because, unlike your real name, it identifies you uniquely. We will send you an e-mail confirming your registration on our site, and in the event you forget your password, we will send it to your e-mail address at your request. The E-mail address is also required in order for us to contact you in the event of problems, and is needed for you to take advantage of many of the features of this site (mailing other members through the system, receiving nightly newsletters, etc).  
-  
-**User Subscription**
+Dave's Garden ("DG")
 
-When you decide to purchase a subscription and become a dues-paying member of the site, we collect the information we need to process your payment.
+**Privacy Statement**
 
-| If you pay by PayPal, Cash or Money Order, we will not have or need any additional information from you.
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit DG without revealing who you are or providing any personal information about yourself.
 
-If you pay by check, we will automatically have whatever information you give on your checks.
+By using DG, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-If you pay by credit card, we will need to collect your billing information, including your full name, billing address, city, state, zip, country, credit card type, credit card number, and expiration date. The billing information (except the credit card information) is stored on our server as a convenience to you (it will be used again next time you re-subscribe) but the credit card information is never stored here. None of this information is ever shared with any other parties, except as it is necesssary for banking (depositing checks to the bank, and processing the credit card through our merchant account).   
-  
-**Your city, state, zipcode, and country**
+DG contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-After obtaining your permission, these are published along with your user information.
+**Browsing DG**
 
-| Dave's Garden is a community type website, and members enjoy knowing the general whereabouts of the other people who join. For this reason, we give members the opportunity to publish their city, state, zip and country. Anytime, outside of the subscription system, that the system asks for your zipcode or other location information, that may be published next to your name.
+If you browse through DG without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer DG.
+
+**Information Collected**
+
+We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by clicking on the opt-out or unsubscribe links in emails. For further assistance with opting out contact us at helpdesk@internetbrands.com. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to DG, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
+
+**Use of Forums**
+
+If you choose to transmit, submit or post information through DG's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
+
+**Cookies**
+
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
+
+**Security**
+
+DG has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+**Third Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html) (<http://www.google.com/privacy_ads.html>).
+
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits DG. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
+
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/managing/opt_out.asp) (<http://www.networkadvertising.org/managing/opt_out.asp>).
+
+**Contacting the Web Site**
+
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
+
+If you have any questions about this Privacy Policy, the practices of DG, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
+
+Revised: June 9, 2010
