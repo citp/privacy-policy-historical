@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905011025id_/http%3A//www.cssmenus.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207150949id_/http%3A//cssmenus.co.uk/privacy.html) for the most accurate reproduction.*
 
 # CSS Menus | Privacy Policy
 
