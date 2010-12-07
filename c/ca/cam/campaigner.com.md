@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612091354id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207045543id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Protus | Privacy
 
@@ -92,7 +92,7 @@ We may share aggregated demographic information with our partners. This is not l
 We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes 
 
 **d) Business Transitions**   
-In the event Protus goes through a business transition, such as a merger, or acquisition by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given a choice not to have their information used in this different manner, as described in the notification of changes section, below. 
+In the event Protus goes through a business transition, such as a merger, or acquisition by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified as required by applicable privacy laws. 
 
 **e) Spam and Junk Faxes**   
 Protus does NOT share your fax number or email address externally. While we cannot be responsible for external communications received through Protus services, if we are given notice that a Protus Service is being used for spam or junk faxes, then we will deactivate that client. If you feel that you have received a junk fax, you may report a junk fax using the tools in MYFAXCENTRAL. 
