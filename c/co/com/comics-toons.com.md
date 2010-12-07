@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comics-toons.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612181348id_/http%3A//www.comics-toons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics-toons.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207140516id_/http%3A//comics-toons.com/privacy.html) for the most accurate reproduction.*
 
-# Comics-Toons.com - Toons Porn, Comics Sex, Toons Comics Porn... Best uncensored cartoons and comics archive!
+# Comics-Toons.com - Privacy Policy
+
+**Privacy Policy**
 
 Urbangest Desarrollos SL and associated companies and affiliated companies hereinafter to be collectively reffered to as Urbangest Desarrollos SL through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site.
 
@@ -27,3 +29,5 @@ Security. We are committed to maintaining the security of your personally identi
 Public Forums. This Site makes available chat rooms, forums, message boards, and/or news groups to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
 
 Third Party Links. The Site contains links to other World Wide Web Internet sites, resources and sponsors of Urbangest Desarrollos SL. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. Urbangest Desarrollos SL is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site. 
+
+[RETURN TO INDEX](https://web.archive.org/index.htm)
