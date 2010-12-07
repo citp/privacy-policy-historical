@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426043314id_/http%3A//www.justlisted.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207035059id_/http%3A//www.justlisted.com/privacy.aspx) for the most accurate reproduction.*
 
 # Real Estate Listings | JustListed
 
