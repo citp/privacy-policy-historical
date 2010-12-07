@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623002924id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207011609id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Public Background Checks
 
@@ -7,9 +7,9 @@ Last Updated: September 29, 2008**
 
 At PublicBackgroundChecks.com we respect and protect user privacy. Our Privacy Policy relates to how we handle personal identifiers you give us; the data we gather, how we might use that data, and how data may be shared; and the options available to you regarding usage and disclosure. 
 
-Please read the Policy in its entirety. If you use PublicBackgroundChecks.com services or subscribe to offers or emails, you thereby accept the contents of and agree to comply with the Policy. PublicBackgroundChecks.com' reports are not consumer reports, and acceptance of the Policy means you will not use said reports for any purpose protected by the Fair Credit Reporting Act (15 U.S.C. ¤1681, et seq.). 
+Please read the Policy in its entirety. If you use PublicBackgroundChecks.com services or subscribe to offers or emails, you thereby accept the contents of and agree to comply with the Policy. PublicBackgroundChecks.com's reports are not consumer reports, and acceptance of the Policy means you will not use said reports for any purpose protected by the Fair Credit Reporting Act (15 U.S.C. ¤1681, et seq.). 
 
-Please [contact us](https://web.archive.org/web/20090623002924id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com' privacy practices. 
+Please [contact us](https://web.archive.org/web/20101207011609id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com's privacy practices. 
 
 1\. Information we collect: Users We may collect personal information, including name and e-mail address, as well as other information not personally identifiable. 
 
@@ -29,11 +29,11 @@ We use various technologies to gather information from your computer and about y
 
 **2\. The information and how we use it**
 
-  * To get you the services you requested; 
-  * To offer customer care and assistance; 
-  * To analyze how users access, utilize and navigate our web site; 
+  * To get you the services you requested
+  * To offer customer care and assistance
+  * To analyze how users access, utilize and navigate our web site
   * To communicate with you
-  * To customize your experience on our web site; 
+  * To customize your experience on our web site
   * To make sure our terms of service are observed
   * To manage company operations
   * To render any other necessary operations as part of servicing your account 
@@ -47,11 +47,11 @@ _Job applicants._ If you apply for a job with PublicBackgroundChecks.com through
 **3\. With whom we share your information**   
 PublicBackgroundChecks.com does not share your personal information except as described in the following possible scenarios. That said, we give you an opportunity to opt out of sharing this personal information. Parties with whom we may share data: 
 
-  * **Authorized service providers:** They may send direct and electronic mail; help us to delete repetitive data from our user lists or analyze the data we have; provide PublicBackgroundChecks.com with marketing analysis; and support PublicBackgroundChecks.com' functions. As such, we permit these third parties to see and analyze the data, but they aren't allowed to share or sell it.
-  * **Business partners:** PublicBackgroundChecks.com reserves the right to collect, sell, or share any personal information you enter on our web site or provide to us in some other way, such as through e-mail marketing. Sometimes we work with other businesses to bring certain retail opportunities to our users; methods for this include e-mail marketing campaigns by us, or our partner web sites/co-brands, or our marketing partners, including affiliated third party advertisers. We may work with other types of companies, including (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers. Previewing, opening or clicking on advertising portions of our e-mails and/or those of our marketing partners and/or affiliates, means that you agree to PublicBackgroundChecks.com' Privacy Policy terms; it also means you agree to receive new or additional marketing communications from us, our marketing partners and/or affiliates. Such campaigns can utilize tracking technologies (Example: cookies) to gather user data. Advertising links on our site can link to wholly independent web site, which may on their own assemble data (Example: personal information); such sites may provide us with this data that tells us about your activities on said sites. Please review the independent privacy policy of any web site to which you link by means of PublicBackgroundChecks.com' site.
+  * **Authorized service providers:** They may send direct and electronic mail; help us to delete repetitive data from our user lists or analyze the data we have; provide PublicBackgroundChecks.com with marketing analysis; and support PublicBackgroundChecks.com's functions. As such, we permit these third parties to see and analyze the data, but they aren't allowed to share or sell it.
+  * **Business partners:** PublicBackgroundChecks.com reserves the right to collect, sell, or share any personal information you enter on our web site or provide to us in some other way, such as through e-mail marketing. Sometimes we work with other businesses to bring certain retail opportunities to our users; methods for this include e-mail marketing campaigns by us, or our partner web sites/co-brands, or our marketing partners, including affiliated third party advertisers. We may work with other types of companies, including (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers. Previewing, opening or clicking on advertising portions of our e-mails and/or those of our marketing partners and/or affiliates, means that you agree to PublicBackgroundChecks.com's Privacy Policy terms; it also means you agree to receive new or additional marketing communications from us, our marketing partners and/or affiliates. Such campaigns can utilize tracking technologies (Example: cookies) to gather user data. Advertising links on our site can link to wholly independent web sites, which may on their own assemble data (Example: personal information); such sites may provide us with this data that tells us about your activities on said sites. Please review the independent privacy policy of any web site to which you link by means of PublicBackgroundChecks.com's site.
   * **Direct mail partners.** We may occasionally share our e-mail/postal mailing list with preferred providers of products and services we think you'll find interesting. 
-  * **E-mail lists.** Use the unsubscribe options available in the e-mails that PublicBackgroundChecks.com' send on behalf of affiliates, partners, etc. You'll need to do this separately for any campaign in which you have no interest.
-  * **Additional Circumstances** wherein we may release your information.
+  * **E-mail lists.** Use the unsubscribe options available in the e-mails that PublicBackgroundChecks.com sends on behalf of affiliates, partners, etc. You'll need to do this separately for any campaign in which you have no interest.
+  * **Additional Circumstances** wherein we may release your information:
     * Subpoenas or similar investigative demands, court orders, or requests for cooperation from law enforcement or other government agencies; to exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
     * If PublicBackgroundChecks.com believes that disclosure is an appropriate measure in relation to investigative work to prevent or take action against illegal or suspected fraudulent activity; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with the law or cooperate with law enforcement; or to enforce our Term of Service, Privacy Policy or any other agreement or condition of service.
     * The sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. Your personal information, as provided to us, is considered a company asset that may be included in the assets transferred in the event of a substantial corporate transaction. 
