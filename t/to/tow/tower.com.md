@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402095738id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207071919id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Tower.com
 
@@ -15,7 +15,7 @@
   
 ---  
   
-Effective date: May 18th, 2007
+Effective date: May 18th, 2007 to April 28th 2010.
 
 Tower.com's Commitment to Safe Internet Shopping
 
@@ -235,12 +235,12 @@ Return to the Top
 |  |   
   
 ---  
-[About](https://web.archive.org/aboutus.cfm) |  [Community](https://web.archive.org/community.cfm) |  [Tower Newsletters](https://secure.tower.com/newsletters/index.cfm) |  [RSS](https://web.archive.org/wiki/rss) |  [Advertise](https://web.archive.org/advertising.cfm) |  [Terms](https://web.archive.org/help/help_terms.cfm) |  [Privacy](https://web.archive.org/help/help_security.cfm) |  [Returns](https://web.archive.org/help/help_returns.cfm) |  [Contact Us](https://web.archive.org/contactus.cfm) |  [Directory](https://web.archive.org/directory) |  [Help](https://web.archive.org/help/help_home.cfm) |  [FAQ](https://web.archive.org/faq) 
+[About](https://web.archive.org/aboutus.cfm) |  [Community](https://web.archive.org/community.cfm) |  [Tower Newsletters](https://web.archive.org/surf/newsletter/index.cfm) |  [RSS](https://web.archive.org/wiki/rss) |  [Advertise](https://web.archive.org/advertising.cfm) |  [Terms](https://web.archive.org/help/help_terms.cfm) |  [Privacy](https://web.archive.org/help/help_security.cfm) |  [Returns](https://web.archive.org/help/help_returns.cfm) |  [Contact Us](https://web.archive.org/contactus.cfm) |  [Directory](https://web.archive.org/directory) |  [Help](https://web.archive.org/help/help_home.cfm) |  [FAQ](https://web.archive.org/faq) 
 
 **Copyright © 1995-2010 TOWER.COM INC**  
 Tower, Tower Records, TowerRecords.com, Tower.com, Tower CD Listening Station, Tower Outlet, Tower Records Videos Books, Tower Essentials, Pulse! and associated logos and trademarks are registered trademarks of Tower.com Inc. in the United States and other countries.  
-Copyright 2010 Powered by Muze Inc. For personal noncommercial use only.   
+Copyright 2010. For personal noncommercial use only.   
   
 To link directly to this page: http://www.tower.com/help/help_security.cfm  
   
-Tower 2.0 Version 5.2.7
+Tower 2.0 Version 6.0.0
