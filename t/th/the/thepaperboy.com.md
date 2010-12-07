@@ -1,34 +1,27 @@
-> *The following text is extracted and transformed from the thepaperboy.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218023914id_/http%3A//thepaperboy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaperboy.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207045550id_/http%3A//www.thepaperboy.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | ThePaperboy.com
 
-**_The Paperboy And Your Privacy_**
+The Paperboy And Your Privacy
 
 At the Paperboy, we are committed to protecting your privacy. We use the information we collect about you in order to respond efficiently to your requests and to provide a more personalised experience. 
 
-**_What information do we collect? How do we use it?_**
+Will the Paperboy disclose the information it collects to outside parties?
 
-When you sign up as a **Paperboy Member** we collect your payment details, name, email address and country. Payment details our collected via an encrypted connection via a secure server by our credit card processing partner [Paypal](http://www.paypal.com/). Your contact details will never be provided to a third party and will not be used by us except to inform you of news specifically associated with your status as a Paperboy Member. 
+The Paperboy does not sell, trade, or rent your personal information to others. We may use certain information about our users (country of origin, zip code etc) to compile anonymous demographic data through services such as Google Analytics. This data may be shared with trusted third party advertisers in order for them to target particular areas of the Paperboy site. Non-anonymous data (your name, email address, phone number etc) will never be divulged to any third party and you will never be contacted by a third party as a consequence of information provided to us. 
 
-When you sign up for the **Paperboy Affiliate Program** we collect your name, email address and site URL. This allows us to review your site for inclusion in the program, send out your HTML code and let you know about any news specifically relating to the affiliate program. Your email address will never be provided to a third party and will not be used by us except to inform you of news specifically associated with your participation in the affiliate program. 
+Third Party Advertisements
 
-When you send a **"Letter to the Editor"** we collect your name, address, country, and phone number. We also keep a record of the date your message was sent and which paper it was sent to. We do not retain the body of your message and at no time do we or any third party see what you wrote. We use the information collected in order to track and block users who are found to be abusing the system - we do dont want our mail server to be used as an anonymous means of sending abusive letters etc. We may also use information to compile anonymous demographic data on our user base in order to better tailor the site to suit the needs of users. 
+This site, ThePaperboy.com, uses the services of various 3rd party advertising networks for the serving and/or targeting of ads, promotions and other marketing messages. To do this, these networks often collect anonymous data through the use of cookies. Our main advertising partner is **Google** , which serves advertisements through their Adsense advertising program. For full details on the information Google collects and how it uses it, please refer to [Google's Privacy Policy](http://www.google.co.uk/privacy_cookies.html).Specifically, Google, as a third-party vendor, uses cookies to serve ads on your site.
 
-When you send us a message to tell us about **broken links, to add a paper or just to send feedback** we retain you email address in order to provide a response. 
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+  
+Tell Me What You Think
 
-From time to time we may send out email to inform users of news or other relevant information specifically relating to the Paperboy web site. These messages will always contain information on how to **opt out** of future maillings. 
-
-**_Will the Paperboy disclose the information it collects to outside parties?_**
-
-**The Paperboy does not sell, trade, or rent your personal information to others.** We may use certain information about our users (country of origin, zip code etc) to compile **anonymous demographic data**. This data may be shared with trusted third party advertisers in order for them to target particular areas of the Paperboy site. Non-anonymous data (your name, email address, phone number etc) will never be divulged to any third party and you will never be contacted by a third party as a consequence of information provided to us. 
-
-**_Third Party Advertisements_**
-
-This site, ThePaperboy.com, uses the services of various 3rd party advertising networks for the serving and/or targeting of ads, promotions and other marketing messages. To do this, these networks often collect anonymous data through the use of cookies. 
-
-**_Tell me what you think_**
-
-I welcome your questions and comments about privacy. Please [click here](http://www.thepaperboy.com/email.html) to contact me. 
+I welcome your questions and comments about privacy. Please [click here](https://web.archive.org/email.cfm) to contact me. 
 
 Regards,  
-Ian Duckworth 
+Ian Duckworth  
+Founder & Webmaster  
+ThePaperboy.com 
