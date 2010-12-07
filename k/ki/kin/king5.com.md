@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208132742id_/http%3A//www.king5.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207043236id_/http%3A//www.king5.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # KING 5 TV | Seattle News, Local News, Breaking News, Weather | Privacy Policy
 
