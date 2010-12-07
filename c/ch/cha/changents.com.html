@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the changents.com privacy policy that was archived on 2010-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100510071946id_/http%3A//changents.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the changents.com privacy policy that was archived on 2010-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207122601id_/http%3A//changents.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" class="js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -28,6 +28,7 @@
 <style type="text/css" media="all">@import "/sites/all/modules/innerfade/innerfade.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/popups/popups.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/popups/popups-skin.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/google_cse/google_cse.css";</style>
 <style type="text/css" media="all">@import "/themes/changents2/style.css";</style>
 
 <link href="http://static.ak.connect.facebook.com/connect.php/en_US/css/connect-button-css/bookmark-button-css/share-button-css/FB.Connect-css/connect-css" rel="stylesheet" type="text/css"><style type="text/css" media="all">@import "/themes/changents2/changents-r3.css";</style>	<!--[if IE]>
@@ -40,6 +41,7 @@
 		<script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js"></script>
+<script type="text/javascript" src="/sites/all/modules/social_connect/includes/oauth_popup.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/compat.js"></script>
 <script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js"></script>
 <script type="text/javascript" src="/sites/all/modules/devel/devel.js"></script>
@@ -48,9 +50,8 @@
 <script type="text/javascript" src="/sites/all/modules/popups/dimensions/dimensions.js"></script>
 <script type="text/javascript" src="/sites/all/modules/popups/form/form.js"></script>
 <script type="text/javascript" src="/misc/jquery.form.js"></script>
-<script type="text/javascript" src="/sites/all/modules/fb/fb_connect.js"></script>
 <script type="text/javascript" src="/misc/item-list.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "quicktabs": { "effect": "none" }, "popups": { "links": { "#feedbackpopup": { "width": "500px" } }, "defaultTargetSelector": "div#content", "modulePath": "/sites/all/modules/popups", "popupFinalMessage": 1 }, "fb_connect": { "fbu": 0, "logout_url": "/logout", "front_url": "/", "enable_login": true } } });</script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "quicktabs": { "effect": "none" }, "popups": { "links": { "#feedbackpopup": { "width": "500px" } }, "defaultTargetSelector": "div#content", "modulePath": "/sites/all/modules/popups", "popupFinalMessage": 1 }, "googleCSE": { "locale": [ "en" ] } } });</script>
 <script type="text/javascript">$(document).ready(function()
     {
         $('ul#faderer').animatedinnerfade({ 
@@ -87,28 +88,11 @@
     });</script>
 						<link rel="stylesheet" href="/themes/changents2/pngfix.css" type="text/css" media="screen">
 				
-						<script src="/themes/changents2/js/changents.js" type="text/javascript"></script>
+				
+    
+		<script src="/themes/changents2/js/changents.js" type="text/javascript"></script>
 		<script src="/themes/changents2/js/swfobject.js" type="text/javascript"></script>
-		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    FB_RequireFeatures(["XFBML"], function () {
-
-      //FB.FBDebug.logLevel = 4;
-      //FB.FBDebug.isEnabled = true;
-
-      FB.init("79a1bf8d7e2d3dfa83489495b62af1b8", "http://changents.com/fb_cb/61562/fb_connect/xd_receiver.html", {"ifUserConnected":fb_connect_on_connected,"ifUserNotConnected":fb_connect_on_not_connected});
-    });
-  });
-
-  FB.ensureInit(function()
-    {
-      fb_connect_init();
-      
-    });
-
-</script>
+		<script type="text/javascript" src="/sites/all/modules/google_cse/google_cse.js"></script>
 		<!--[if lt IE 7]><style type="text/css">
 		.mod_content, .mod_content1, #box_mid, .mod_fill li, .mod_fill li a { background-image: none !important; filter: none !important; }
 		</style><![endif]-->
@@ -128,9 +112,14 @@
 			  <a href="/user/login?destination=privacy" onclick="return showLogin('quick-login', 'username');">Login</a> |
 			  <a href="/login_join?destination=node%2F184">Signup</a><p></p>
 
-			   <div class="block block-block " id="block-block-29">
+			   <div class="block block-social_connect_facebook " id="block-social_connect_facebook-social_connect_fb_login_global">
         
-    <div class="content"><fb:login-button v="2" size="small" onclick="fb_connect_login_onclick();">Sign in using Facebook</fb:login-button></div>
+    <div class="content"><a href="#" onclick="openOAuthPopUp('https://graph.facebook.com/oauth/authorize?client_id=159286270756752&amp;display=popup&amp;cancel=http://changents.com/social_connect/close_refresh&amp;redirect_uri=http://changents.com/social_connect/facebook/oauth_callback&amp;scope=publish_stream,email,offline_access', 820, 510);return false;"><img src="sites/all/modules/social_connect/modules/social_connect_facebook/images/fb_connect_small.jpg" alt="Sign In with Facebook"></a></div>
+ </div>
+   <div class="block block-block " id="block-block-41">
+        
+    <div class="content"><p><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fchangents&amp;layout=button_count&amp;show_faces=true&amp;width=84&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:84px; height:21px;" allowtransparency="true"></iframe></p>
+</div>
  </div>
 			</div>
 
@@ -150,22 +139,39 @@
 
 
 			<div id="logo">
-				<a href="/" title="Change Agents Home">Find Change Agents on Changents.com</a>
+				<a href="http://changents.com" title="Change Agents Home">Find Change Agents on Changents.com</a>
 			</div>
 			 			   <div class="block block-nice_menus main-nav" id="block-nice_menus-3">
     <div class="top-title"><h2 class="title"><span class="nice-menu-hide-title">Primary links</span></h2></div>    
-    <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-3"><li id="menu-238" class="menu-path-front first"><a href="/">Home</a></li>
-<li id="menu-256" class="menu-path-change-agents"><a href="/change-agents">Meet Change Agents</a></li>
-<li id="menu-240" class="menu-path-node-51852"><a href="/takeaction">Take Action</a></li>
-<li id="menu-348" class="menuparent menu-path-change-agent-cause-environment"><a href="/change-agent-cause/environment">Cause Blogs</a><ul><li id="menu-349" class="menu-path-change-agent-cause-environment first"><a href="/change-agent-cause/environment">Environment</a></li>
-<li id="menu-351" class="menu-path-change-agent-cause-alternative-energy"><a href="/change-agent-cause/alternative-energy">Alternative Energy</a></li>
-<li id="menu-352" class="menu-path-change-agent-cause-social-enterprise"><a href="/change-agent-cause/social-enterprise">Social Enterprise</a></li>
+    <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-3"><li id="menu-238" class="menu-path-changents.com first"><a href="http://changents.com">Home</a></li>
+<li id="menu-256" class="menu-path-changents.com-change-agents"><a href="http://changents.com/change-agents">Meet Change Agents</a></li>
+<li id="menu-240" class="menu-path-changents.com-takeaction"><a href="http://changents.com/takeaction">Take Action</a></li>
+<li id="menu-348" class="menuparent menu-path-changents.com-change-agent-cause-environment"><a href="http://changents.com/change-agent-cause/environment">Cause Blogs</a><ul><li id="menu-349" class="menu-path-changents.com-change-agent-cause-environment first"><a href="http://changents.com/change-agent-cause/environment">Environment</a></li>
+<li id="menu-351" class="menu-path-changents.com-change-agent-cause-alternative-energy"><a href="http://changents.com/change-agent-cause/alternative-energy">Alternative Energy</a></li>
+<li id="menu-352" class="menu-path-changents.com-change-agent-cause-social-enterprise"><a href="http://changents.com/change-agent-cause/social-enterprise">Social Enterprise</a></li>
 </ul>
 </li>
+<li id="menu-387" class="menu-path-node-83952"><a href="/about">About Changents</a></li>
+<li id="menu-358" class="menu-path-givehealth.changents.com"><a href="http://givehealth.changents.com">Our Partner: P&amp;G GIVE HEALTH</a></li>
 </ul>
 </div>
  </div>
- 					  </div><!--nav content-->
+ 			   <div class="block block-google_cse " id="block-google_cse-0">
+    <div class="top-title"><h2 class="title">Search</h2></div>    
+    <div class="content"><form action="/search/google" accept-charset="UTF-8" method="get" id="google-cse-searchbox-form">
+<div><input type="hidden" name="cx" id="edit-cx" value="010101841145281253038:dyecbcp1ca8">
+<input type="hidden" name="cof" id="edit-cof" value="FORID:11">
+<div class="form-item" id="edit-query-wrapper">
+ <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text" style="background: url(&quot;http://www.google.com/coop/intl/en/images/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
+ 
+</div>
+<input type="submit" id="edit-sa" name="op" value="Search" class="form-submit">
+<input type="hidden" name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form">
+
+</div></form>
+</div>
+ </div>
+		  </div><!--nav content-->
 
 		  </div><!--nav-->
 
@@ -179,12 +185,12 @@
         
     <div class="content">
 <ul class="menu">
-<li class="leaf first"><a href="/about">About</a></li>
-<li class="leaf"><a href="/about/whoswho">Our Team</a></li>
+<li class="leaf first"><a href="/about/whoswho">Our Team</a></li>
 <li class="leaf"><a href="/about/advisors">Board of Advisors</a></li>
 <li class="leaf"><a href="/about/media">Press Room</a></li>
 <li class="leaf"><a href="/about/partners">Our Partners</a></li>
 <li class="leaf"><a href="/contact">Contact</a></li>
+<li class="leaf"><a href="/faq">FAQ</a></li>
 
 </ul>
 </div>
@@ -387,7 +393,9 @@ Our service is evolving and developing. From time to time, we will review and ma
 
  </div>
  </div>
- </div> <!-- container -->
+<div id="partner_footer">
+          </div> 
+ </div> <!-- container --> 
  <!---- FOOTER  ---->
 <div id="footer" class="footer-small">
 
@@ -399,14 +407,15 @@ Our service is evolving and developing. From time to time, we will review and ma
     <div class="top-title"><h2 class="title">Footer</h2></div>    
     <div class="content">
 <ul class="menu">
-<li class="leaf first"><a href="/blog">Changents Blog</a></li>
-<li class="leaf"><a href="/join">Join</a></li>
-<li class="leaf"><a href="/about">About</a></li>
-<li class="leaf"><a href="/contact">Contact</a></li>
-<li class="leaf"><a href="/feedback">Feedback</a></li>
-<li class="leaf"><a href="/terms">Terms</a></li>
-<li class="leaf"><a href="/privacy" class="active">Privacy</a></li>
-<li class="leaf"><a href="/sitemap">Site Map</a></li>
+<li class="leaf first"><a href="http://changents.com/blog">Changents Blog</a></li>
+<li class="leaf"><a href="http://changents.com/join">Join</a></li>
+<li class="leaf"><a href="http://changents.com/about">About</a></li>
+<li class="leaf"><a href="http://changents.com/contact">Contact</a></li>
+<li class="leaf"><a href="http://changents.com/faq">FAQ</a></li>
+<li class="leaf"><a href="http://changents.com/feedback">Feedback</a></li>
+<li class="leaf"><a href="http://changents.com/terms">Terms</a></li>
+<li class="leaf"><a href="http://changents.com/privacy">Privacy</a></li>
+<li class="leaf"><a href="http://changents.com/sitemap">Site Map</a></li>
 
 </ul>
 </div>
@@ -440,25 +449,8 @@ pageTracker._trackPageview();
 
 
 
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 
-<script type="text/javascript">
-  $(document).ready(function() {
-    FB_RequireFeatures(["XFBML"], function () {
 
-      //FB.FBDebug.logLevel = 4;
-      //FB.FBDebug.isEnabled = true;
-
-      FB.init("79a1bf8d7e2d3dfa83489495b62af1b8", "http://changents.com/fb_cb/61562/fb_connect/xd_receiver.html", {"ifUserConnected":fb_connect_on_connected,"ifUserNotConnected":fb_connect_on_not_connected});
-    });
-  });
-
-  FB.ensureInit(function()
-    {
-      fb_connect_init();
-      
-    });
-
-</script>
+<script type="text/javascript" src="/sites/all/modules/google_cse/google_cse.js"></script>
 
 </body></html>
