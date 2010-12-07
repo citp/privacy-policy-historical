@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajarnforum.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611225450id_/http%3A//www.ajarnforum.net/vb/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajarnforum.net privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207090658id_/http%3A//www.ajarnforum.net/vb/privacy_policy.php) for the most accurate reproduction.*
 
 # Ajarn Forum - Teaching and Living In Thailand
 
