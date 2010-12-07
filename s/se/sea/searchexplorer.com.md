@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchexplorer.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330185412id_/http%3A//www.searchexplorer.com/site/searchexplorer/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchexplorer.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207110202id_/http%3A//www.searchexplorer.com/site/searchexplorer/html/privacy.html) for the most accurate reproduction.*
 
 # SearchExplorer : Contact Us
 
