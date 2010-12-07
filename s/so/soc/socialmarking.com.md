@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmarking.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618222431id_/http%3A//www.socialmarking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmarking.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207030000id_/http%3A//www.socialmarking.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SocialMarking.com
 
@@ -38,4 +38,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20100618222431id_/http%3A//www.socialmarking.com/contact.html). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20101207030000id_/http%3A//www.socialmarking.com/contact.html). 
