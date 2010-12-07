@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603012508id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207104005id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # EarMaster Privacy Policy
 
   * [Home](http://www.earmaster.com/)  
-  * [Ear training](https://web.archive.org/eartraining.htm)
+  * [Ear Training](https://web.archive.org/eartraining.htm)
     * [What is ear training?](https://web.archive.org/eartraining.htm)
     * [Interval song examples](https://web.archive.org/intervalsongs/)
     * [Ear training exercises](https://web.archive.org/exercises.htm)
-  * [Products](https://web.archive.org/comparison.htm)
-    * [EarMaster Essential 5](https://web.archive.org/essential/)
-    * [EarMaster Pro 5](https://web.archive.org/pro/)
-    * [EarMaster School 5](https://web.archive.org/school/)
-    * [Product comparison](https://web.archive.org/comparison.htm)
+  * [Products](https://web.archive.org/products/)
+    * [Features](https://web.archive.org/products/)
+    * [Screenshots and videos](https://web.archive.org/exercises.htm)
+    * [Comparison chart](https://web.archive.org/comparison.htm)
     * [Reviews in the press](https://web.archive.org/press/reviews.htm)
-  * [Academic](https://web.archive.org/academic.htm)
-    * [Why use EarMaster School?](https://web.archive.org/school/#why)
+  * [For Teachers](https://web.archive.org/school/)
+    * [EarMaster School](https://web.archive.org/school/)
     * [Academic licenses](https://web.archive.org/licenses.htm)
     * [Teacher testimonials](https://web.archive.org/teacher-testimonials.htm)
     * [Institutions using EarMaster](https://web.archive.org/school/institutions.htm)
