@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erayo.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316185203id_/http%3A//www.erayo.com/Privacy-Policy.content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erayo.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207064043id_/http%3A//www.erayo.com/Privacy-Policy.content) for the most accurate reproduction.*
 
 # Privacy Policy
 
