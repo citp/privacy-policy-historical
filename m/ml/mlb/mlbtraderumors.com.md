@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918072439id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207035245id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
 
 # MLBTradeRumors.com Privacy Policy: MLB Rumors - MLBTradeRumors.com
 
@@ -10,7 +10,7 @@ Our postal address is
 **P.O. Box 72523  
 Roselle, IL 60172**
 
-We can be reached via e-mail at [dierkes@gmail.com](mailto:dierkes@gmail.com) or you can reach us by telephone at 630-671-0158.
+We can be reached via e-mail [via the site's contact form](http://www.mlbtraderumors.com/contact.html).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
