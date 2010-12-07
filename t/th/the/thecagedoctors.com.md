@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecagedoctors.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531121549id_/http%3A//thecagedoctors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecagedoctors.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207050556id_/http%3A//thecagedoctors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cage Doctors
 
@@ -7,8 +7,8 @@
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in  
 order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Will TheCageDoctors.com disclose the information it collects to outside parties?**  
+ **Will TheCageDoctors.com disclose the information it collects to outside parties?**  
 [TheCageDoctors.com](http://thecagedoctors.com/) may eventually disclose the aforementioned GENERAL information about visitors – information that does NOT identify who you are. We may disclose answers to questions such as: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. We will never release contact details of any registered users of our website. The last thing we want is “spam” reaching our visitors.
 
-**Your consent:**  
+ **Your consent:**  
 By using our Web site, you consent to the collection and use of this information by [TheCageDoctors.com](http://thecagedoctors.com/). If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. But, now and forever we put your privacy first before any other concerns. We will never sell lists of email addresses from this site. We respect the privacy of our visitors.
