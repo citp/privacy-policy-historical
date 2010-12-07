@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site-reference.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303104335id_/http%3A//www.site-reference.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-reference.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207055002id_/http%3A//www.site-reference.com/privacy.php) for the most accurate reproduction.*
 
 # Site-Reference.com Privacy Policy
 
