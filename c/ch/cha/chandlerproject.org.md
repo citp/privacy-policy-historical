@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chandlerproject.org privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122222019id_/http%3A//chandlerproject.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chandlerproject.org privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207152435id_/http%3A//chandlerproject.org/privacy) for the most accurate reproduction.*
 
 # Chandler Wiki : Hub Privacy Policy
 
