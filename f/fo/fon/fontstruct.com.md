@@ -1,36 +1,41 @@
-> *The following text is extracted and transformed from the fontstruct.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618052234id_/http%3A//fontstruct.fontshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontstruct.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207060147id_/http%3A//fontstruct.com/privacy) for the most accurate reproduction.*
 
-# FontStruct | Privacy Policy
+# FontStruct | Your Privacy
 
 * * *
 
-By accessing or using this Website, you agree to the terms of FontShop International’s Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. FontShop International reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.
+Thanks for using FontStruct. We care about your privacy and only collect a minimum of information that we think is necessary for the smooth running of the website.
 
-When you engage in certain activities on this site, such as viewing prices, ordering or selecting products, downloading software, or entering contests, FontShop International may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, FontShop International may ask that you provide us personal information, such as: your name, address, phone number, e-mail address and if you download products we will require your credit card details.
+You can browse the site without signing-up but certain activities (downloading, creating fonts, creating favorites) do require you to [sign-up](https://web.archive.org/sign_up). The sign-up process involves the submission of a valid email address.
 
-## How your personal information is used
+**We do not spam, and will not share your email address with any third-party without your explicit consent.**
 
-FontShop International collects your information in order to record and support your participation in the activities you select. If you order a product that is to be electronically downloaded, for example, the information is used to verify credit cards, issue multi-user license documents, re-deliver orders in the case of transmission failure and to maintain your customer history.
+This is the Privacy Policy of the FontStruct website (the “Site”), operated by Robert Meek (“FontStruct”, “we”, “us”, “our” and terms of similar meaning). It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
-## Protection of your personal information
+By accessing or using this Site, you agree to the terms of FontStruct’s Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this Site. FontStruct reserves the right to change the Privacy Policy from time to time at our sole discretion. Your use of this Site will be subject to the most current version of the Privacy Policy at the time of such use.
 
-The personal information that you provide is protected in several ways. Access by you to your personal information is available through a password and unique customer ID selected by you. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on a secure server that only selected FontShop International personnel may access via password. FontShop International protects your credit card transaction using SSL encryption and thereby prevents unauthorized parties from viewing such information when it is being transmitted to FontShop International. We do not sell or divulge your personal information to third parties.
+**Collection of personal information**
 
-## Use of cookies
+In order you engage in certain activities on this Site, such as creating font designs, downloading fonts or posting comments, FontStruct may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, FontStruct will ask that you provide us with personal information, such as: your e-mail address.
 
-When you visit www.FontShop.com, you can surf the site anonymously and access most information without revealing your identity. In order to enable our shopping system to work for you, we use ’cookies’ for automated administration purposes. A cookie is small amount of data that is transferred to your browser by a Webserver and can only be read by the server that gave it to you. It functions as your identification card, helping to correlate your passwords, purchases, and preferences to your personal browser. It cannot be executed as code or deliver viruses.
+**How your personal information is used**
 
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the option to decide whether or not to accept it. (For Web pages that require an authorization, cookies are not optional. Users who choose not to accept cookies will not be able to use all functions properly.)
+FontStruct collects your information in order to support your activities on the Site and to operate the Site smoothly. For example, to notify you if someone comments on one of your shared font designs we require a valid email address. Note that all such email notifications are optional and can be turned on and off by you.
 
-While FontShop International uses cookies to ensure proper functioning of the shopping system, and our Webserver automatically logs the Internet IP address of your computer, this information does not identify you personally and you remain completely anonymous unless you have otherwise provided FontShop International with personal information.
+**Protection of your personal information**
 
-## Updating your personal information
+The personal information that you provide is protected in several ways. Access by you to your personal information is available through a username and password selected by you.   
+We recommend that you do not divulge your password to anyone.   
+In addition, your personal information resides on a secure server that only selected FontStruct staff may access via password.
 
-You have the right to access and correct your personal information and privacy preferences at any time. To edit your Registration Information, simply log into your Account Settings. The registration automatically appears, and permits you to view and edit your address details. You may also access and correct your personal information and privacy preferences by writing or calling (030) 6 95 96 - 333 at:
+We will not sell or divulge your personal information to third parties without your explicit consent.
 
-FontShop AG  
-Bergmannstraße 102  
-Berlin 10961  
-Germany  
-(030) 6 95 96 - 333  
-(030) 6 92 88 65
+**Use of cookies**
+
+“Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze general site usage and improve our services.
+
+While FontStruct uses cookies to ensure proper functioning of the Site, and our Webserver automatically logs the Internet IP address of your computer, this information does not identify you personally and you remain completely anonymous unless you have otherwise provided FontStruct with personal information.
+
+**Updating your personal information**
+
+You have the right to access and correct your personal information and privacy preferences at any time. To edit any of your personal information simply sign-in and go to "Account" under "My FontStruct". You will also find some additional notification settings under "My FontStruct" then "Settings" then "Messaging & Notifications".
