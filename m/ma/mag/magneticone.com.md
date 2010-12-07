@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magneticone.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608165455id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticone.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207134650id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-(last updated March 2009)
+(last updated December 2010)
 
 MagneticOne is committed to protecting your privacy.  
 
@@ -25,6 +25,12 @@ We also use your personal information to communicate with you. We may send certa
 
 MagneticOne utilizes cookies (small pieces of data stored by your Web browser on your hard drive) to offer you more personal and customized service. Most Web browsers accept cookies by default, but if you choose not to accept them, you can simply change your browser settings.  
 
+
+## Collection of Anonymous Usage Statistics
+
+MagneticOne reserves the right to gather information regarding the use of it's software and by installing the software, you grant MagneticOne permission to collect this information.
+
+This does not include any personal information, such as who you are or your email address. We use this data to improve our software and develop a better product that meets your needs. 
 
 ## Sharing of Your Personal Information
 
