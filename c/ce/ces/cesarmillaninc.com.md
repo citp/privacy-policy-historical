@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326012348id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarmillaninc.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207095846id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Cesar Millan
+# Privacy Policy | www.cesarsway.com
 
 Last Updated: 8/23/2007
 
@@ -12,7 +12,7 @@ Changes to Privacy Policy
 
 We may update the Privacy Policy from time to time, so we advise you to visit this page periodically to review any such changes. The date of the last revision is posted at the top of the page. Any changes become effective upon posting.  This is the sole form of notification that we will use to reflect changes in our Privacy Policy.
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [**business@cesarmillaninc.com**](mailto:business@cesarmillaninc.com). You can also mail us your questions or concerns to:
+If you have any questions or concerns about our Privacy Policy, please [**contact us**](https://web.archive.org/contact). You can also mail us your questions or concerns to:
 
 Cesar Millan, Inc.  
 PO Box 1749  
@@ -64,8 +64,6 @@ Your online security can be jeopardized as a result of tactics employed by third
 
 
 If you suspect that you have been subjected to any of these kinds of activities, you also should contact the Federal Trade Commission at [**www.ftc.gov**](http://www.ftc.gov/) or phone 1-877-FTC-HELP.
-
-Bookmark/Search this post with: 
 
 Average: 
 
