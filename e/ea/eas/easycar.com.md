@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831093028id_/http%3A//www.easycar.com/nossl/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207210909id_/http%3A//www.easycar.com/nossl/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Car Hire from easyCar.com
 
@@ -10,7 +10,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 Registration  
 Our site's registration form requests users to give us contact information (like their name) and unique identifiers (like their email address). This information is used as follows:  
 * |  The customer's contact information is used to contact the visitor when necessary.  
-* |  We also use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below.  
+* |  We also use customer contact information from the registration form to send the user information about our company or companies within the easy Group. Users may opt-out of receiving future mailings; see the choice/opt-out section below.  
 * |  Unique identifiers (such as email addresses) are collected to verify the user's identity, and for use as account numbers in our record system.  
 Booking Information  
 Our site uses an order form to enable customers to obtain information and make Bookings. We collect visitor's contact information (like their name and address), unique identifiers (like their email address and driving licence details), financial information (like their credit/debit card numbers), and other information (like driving history). This information is used as follows:  
@@ -25,7 +25,7 @@ Choice/Opt-out
 You have the right to ask us not to send you direct marketing material, this can be done by a written request to us. On our e-communications you can also use the unsubscribe function to opt-out of future communications. Once we have properly received your notification, we will take steps to cease using your information in this manner.
 
 Third Party Advertising  
-We may use third party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your cookies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).  
+We may use third party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.  
   
 Correct/Update  
 This site gives users the following options for changing and modifying information previously provided.  
@@ -33,4 +33,4 @@ This site gives users the following options for changing and modifying informati
 Links to Other Sites  
 This site may contain links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  
 Contacting the web site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please follow the FAQ link below or call the phone number on the home page.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please follow the FAQ link below.
