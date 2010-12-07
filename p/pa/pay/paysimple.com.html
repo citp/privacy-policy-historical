@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the paysimple.com privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522174047id_/http%3A//www.paysimple.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paysimple.com privacy policy that was archived on 2010-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207021445id_/http%3A//www.paysimple.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<script type="text/javascript" src="../../Scripts/jquery/jquery-1.3.2.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>		
+		<script src="/Scripts/jquery-latest.js" type="text/javascript"></script>
+		<script src="/Scripts/acceptpay.js" type="text/javascript"></script>
+		<script src="/Scripts/jquery.tipTip.minified.js" type="text/javascript"></script>
 
 		<script type="text/javascript">
 			$(document).ready(function() {
-
-				$("#Phone").change(function() {
-					var text = "";
-					var arr = $(this).val()
-					$.each(arr, function(i) {
-						var c = arr.charCodeAt(i);
-						if (c != 45) {
-							text += arr.charAt(i);
-						}
-					});
-					$(this).val(text);
-				});
+				try {
+					formatPhoneNumber('BusinessPhone');
+					formatPhoneNumber('Phone');
+				} catch (er) { }
+				try {
+					document.getElementsByName("Submit")[0].disabled = false;
+				} catch (err) { }
+				try {
+					document.getElementsByName("submit")[0].disabled = false;
+				} catch (err2) { }
 			});
 
 		</script>
@@ -28,9 +28,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="Description" content="PaySimple does not sell, share, or in any other way transmit personally identifiable information submitted by non-registered users to any other persons or companies.">
 	<meta name="keywords" content="privacy, privacy policy, auto recurring billing, payment processing, electronic payment processing, billing software, collections software, account receivable software, accounts receivable software, credit card processing, credit card rates, electronic check processing, e-check, electronic check, direct-debit,online payment gateway, business solutions, security">
-	<link rel="Stylesheet" type="text/css" href="../../Content/basic.css">
-	<link rel="Stylesheet" type="text/css" href="../../Content/navFoot.css">
-	<link rel="Stylesheet" type="text/css" href="../../Content/content2.css">
+	<link rel="Stylesheet" type="text/css" href="../../css/basic.css">
+	<link rel="Stylesheet" type="text/css" href="../../css/navFoot.css">
+	<link rel="Stylesheet" type="text/css" href="../../css/content2.css">
 	
 	<script src="http://www.paysimple.com/scripts/paysimple.js" type="text/javascript"></script>
 
@@ -149,115 +149,64 @@ s.hier1=""
 
 		<div id="content">
 			<div class="colThree">
-				<h1>
-					Privacy</h1>
+				<h1>Privacy</h1>
+
+				<p><em>Last Modified: November 18, 2010</em></p>
+				<p>This Privacy Policy discloses the privacy practices for www.paysimple.com (including all sub-domains, the “Site”), which is owned and operated by PaySimple, Inc. (“PaySimple,” “our,” “we” or “us”).  This Privacy Policy applies to our collection and use of information from all visitors to the Site, including, without limitation, visitors using only free services offered on the Site.</p>
+
+				<h5>Collection of Personally Identifiable Information:</h5>
+				<p>We collect personally identifiable information from you when you set up a paid or a free account with PaySimple.  You do not need to set up an account in order to view the Site, but you must be registered to use any version of the PaySimple payment processing application.</p>
+				<p>Except as otherwise set forth in this Privacy Policy, PaySimple does not sell, share, or in any other way transmit personally identifiable information (names, address, phone numbers, etc.) submitted by non-registered users to any other persons or companies.</p>
+				<p>We may use contact information from registered or non-registered users to send promotional products and information about PaySimple or the Site and/or on behalf of our partner companies.</p>
+				<p>We may provide personally identifiable information of registered users to third party service providers and referral partners that work on behalf of or with us to provide some of the aspects of our services and to help us communicate with you.  However, these service providers and referral partners do not have any independent right to disclose this information (except to the same extent we would have a right to disclose that information under this Privacy Policy).</p>
+				<p>Although we currently do not have a parent company, subsidiaries, joint ventures, or other companies under common control with us (collectively, “Affiliates”), we may in the future.  You hereby agree that we may share some or all of your personally identifiable information with these Affiliates.  We will require our Affiliates to comply with this Privacy Policy.</p>
+				<p>If our company or our assets are acquired by another company, that company will possess the personally identifiable information collected by us.</p>
+
+				<h5>Registered PaySimple Free Account Holders.</h5>
+				<p>The Site requires you to give us contact information (name, address, phone number, and e-mail address) in order to obtain a free PaySimple account. We use this information to configure your account for sending invoices to your customers.  We may also use this information to communicate with you about your free account usage, and to provide information to you about additional PaySimple products and services that we believe may be of interest to you.  As part of using your PaySimple free account you may enter personally identifiable information for your own business customers.  PaySimple protects this information and will not disclose it to any third parties except as otherwise set forth in this Privacy Policy.</p>
+
+				<h5>Registered PaySimple Solution Account Holders:</h5>
+				<b>Information we collect:</b><br>
+				<p>To obtain a paid PaySimple Solution account you must provide contact information (name, address, phone number, and e-mail address) in addition to other personally identifiable information, including but not limited to, your social security number, driver’s license state and number, Employer Identification Number (Tax ID), and billing information. We use your personally identifiable information to verify your identity, perform a credit check, and send you messages about your transactions or our company. We use your billing and financial information (bank account numbers) to facilitate payments through the PaySimple system and collect fees if applicable.</p>
+
+				<h5>How we Share Personally Identifiable Information with Third Parties</h5>
+				<p>Personally identifiable information submitted by you as part of the application process for a PaySimple account and for third party ACH and Credit Card merchant accounts is shared with the merchant account provider for the purpose of underwriting and subsequent transaction processing, billing, and account maintenance.</p>
+				<p>Personally identifiable information you enter in the course of utilizing the PaySimple Solution is shared with third party ACH and Credit Card merchant account providers, and other third parties that participate in the processing of transactions, solely for the purpose of authorization and settlement of those transactions.</p>
+				<p>Personally identifiable information we collect is shared with service providers under contract who help with parts of our business operations such as identity verification, credit checks, fraud prevention, bill collection, marketing, and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.</p>
+
+				<h5>Use of Demographic and Profile Data:</h5>
+				<p>In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our web sites. This includes activity from merchants utilizing the PaySimple Solution and the PaySimple free application as well as our merchants’ customers who make payments online.  We identify and use your IP address to help diagnose problems with our servers, and to administer the Site. Your IP address, along with cookies, is used to help identify you and gather basic information. We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age or income level). We use this data to tailor your experience on the Site, providing you with content that we think you might be interested in -- and to display content according to your preferences. We sometimes use contact data from our surveys to send you information about our company and/or promotional material on behalf of our partners.  We never use information about your customers to contact them directly, nor do we share this data with any third parties.</p>
+				<p>We may create anonymous records from personally identifiable information by excluding information (such as your name) that makes the information personally identifiable to you or one of your customers.  We may use this anonymous information to analyze usage patterns so that we may enhance our services, and we reserve the right to use, and disclose anonymous information to third parties, at our discretion.</p>
+
+				<h5>Security</h5>
+				<p>The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control, as described in our <a href="/security.html" target="_blank">security page</a>.</p>
+
+				<h5>Other Disclosure of Information</h5>
+
 				<p>
-					This Privacy Policy applies to our collection of information from visitors of the
-					PaySimple.com website, the PaySimple.biz website, and registered customers of PaySimple.&nbsp;
-				</p>
-				<h5>
-					Collection of Personally Identifiable Information:</h5>
+					We may disclose your personally identifiable information to law enforcement, government officials, or other third parties when:
+					</p><ul>
+						<li>We are compelled to do so by a subpoena, court order or similar legal procedure;</li>
+						<li>We need to do so to comply with law or credit card rules;</li>
+						<li>We believe in good faith that the disclosure of personally identifiable information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our <a href="/aup.html" target="_blank">Acceptable Use Policy</a>;</li>
+						<li>You request or provide specific permission to share such information.</li>
+					</ul>
+				<p></p>
+
+				<h5>Choice/Opt-Out</h5>
+				<p>You may opt-out of receiving marketing communications from us and our partners by following the opt-out instructions we include in such communications.</p>
+
+				<h5>Change/Modify</h5>
+				<p>The Site gives users the following options for changing and modifying information previously provided. Send an email to PaySimple at <a href="mailto:guide@paysimple.com">guide@paysimple.com</a> for changes or modifications.</p>
+
+				<h5>Contacting Us</h5>
 				<p>
-					We collect personally identifiable information from you when you set up an account
-					with PaySimple.&nbsp; You do not need to set up an account in order to view the
-					PaySimple.com website, but you must be registered to use the PaySimple payment processing
-					application.</p>
-				<p>
-					PaySimple does not sell, share, or in any other way transmit personally identifiable
-					information (names, address, phone numbers, etc.) submitted by non-registered users
-					to any other persons or companies.&nbsp;
-				</p>
-				<p>
-					Although we currently do not have a parent company, subsidiaries, joint ventures,
-					or other companies under common control with us (collectively, “Affiliates”),
-					we may in the future.&nbsp; You hereby agree that we may share some or all of the
-					personally identifiable information of non-registered users with these Affiliates.&nbsp;
-					We will require our Affiliates to comply with this Privacy Policy.</p>
-				<p>
-					We may use contact information from non-registered users to send promotional products
-					and information about PaySimple and/or on behalf of our partner companies.
-					<br>
-					We may provide your personally identifiable information to third party service providers
-					and referral partners that work on behalf of or with us to provide some of the aspects
-					of our services and to help us communicate with you.&nbsp; However, these service
-					providers and referral partners do not have any independent right to disclose this
-					information (except to the same extent we would have a right to disclose that information
-					under this policy).</p>
-				<p>
-					If our company or our assets are acquired by another company, that company will
-					possess the personally identifiable information collected by us.</p>
-				<h5>
-					Registered PaySimple Account Holders:</h5>
-				<p>
-					Our site requires you to give us contact information (name, address, phone number,
-					and e-mail address) and billing information. We use your contact information to
-					verify your identity, send you messages about your transaction or our company. We
-					use your billing and financial information (bank account numbers) to facilitate
-					payments through the PaySimple system and collect fees if applicable. Personally
-					identifiable information submitted as part of the application process for a PaySimple
-					account and for third party ACH and Credit Card merchant accounts is shared with
-					the merchant account provider solely for the purpose of underwriting and subsequent
-					transaction processing, billing, and account maintenance.</p>
-				<h5>
-					Use of Demographic and Profile Data:</h5>
-				<p>
-					In our efforts to continually improve our product and service offerings, we collect
-					and analyze demographic and profile data about our users' activity on our website.
-					We identify and use your IP address to help diagnose problems with our server, and
-					to administer our website. Your IP address, along with cookies, are used to help
-					identify you and gather basic information. We will occasionally ask you to complete
-					optional online surveys. These surveys may ask you for contact information and demographic
-					information (like zip code, age or income level). We use this data to tailor your
-					experience at our site, providing you with content that we think you might be interested
-					in -- and to display content according to your preferences. We sometimes use contact
-					data from our surveys to send you information about our company and/or promotional
-					material on behalf of our partners.</p>
-				<p>
-					We may create anonymous records from personally identifiable information by excluding
-					information (such as your name) that make the information personally identifiable
-					to you or one of your customers.&nbsp; We may use this anonymous information to
-					analyze usage patterns so that we may enhance our services, and we reserve the right
-					to use, and disclose anonymous information to third parties, in our discretion.</p>
-				<h5>
-					Security</h5>
-				<p>
-					This site has security measures in place to protect against the loss, misuse and
-					alteration of the information under our control, as described in our <a href="http://www.paysimple.com/security.html">
-						security page</a>.
-				</p>
-				<h5>
-					Disclosure of Information</h5>
-				<p>
-					We may disclose data about you to governmental and law enforcement authorities if
-					we are required to do so or if we think the disclosure is appropriate; and you authorize
-					these disclosures. We may also disclose data about you in connection with actual
-					or potential lawsuits or suspected fraudulent activity, (a) if we are required to
-					do so, (b) if such disclosures may potentially mitigate our liability, or (c) to
-					enforce our rights.</p>
-				<h5>
-					Choice/Opt-Out</h5>
-				<p>
-					You may opt-out of receiving marketing communications from us and our partners by
-					following the opt out instructions we include in such communications.&nbsp;
-				</p>
-				<h5>
-					Change/Modify</h5>
-				<p>
-					This site gives users the following options for changing and modifying information
-					previously provided.&nbsp; Send an email to PaySimple at <a href="mailto:webmaster@paysimple.com">
-						webmaster@paysimple.com</a> for changes or modifications.</p>
-				<h5>
-					Contacting the Website</h5>
-				<p>
-					If you have any questions about this Privacy Policy, the practices of this site,
-					or your dealings with PaySimple, please contact us at:<br>
 					PaySimple<br>
 					1433 17th St, Suite 300<br>
 					Denver, CO 80202<br>
 					P: 800-466-0992<br>
-					E: <a href="mailto:guide@paysimple.com">guide@paysimple.com</a></p>
-				<h5>
-					&nbsp;</h5>
+					E: <a href="mailto:guide@paysimple.com">guide@paysimple.com</a>
+				</p>
 			</div>
 		</div>
 		<div class="clear">
@@ -318,9 +267,13 @@ s.hier1=""
 </div>
 
 <script language="JavaScript" type="text/javascript">
-<!--
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+	try {
+		var s_code = s.t();
+		if (s_code)
+			document.write(s_code);
+	} catch (err) { }
+</script>
 
 <!-- End SiteCatalyst code version: H.15.1. -->
 <!--Google Analytics-->
@@ -337,6 +290,15 @@ pageTracker._setDomainName(".paysimple.com");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
+
+
+<!--Genius.com Inc. SNIPPET//-->
+<script type="text/javascript">	var DID = 76800;
+	var pcheck = (window.location.protocol == "https:") ? "https://stats.sa-as.com/live.js" : "http://stats.sa-as.com/live.js";
+	document.writeln('<scr' + 'ipt src="' + pcheck + '" type="text\/javascript"><\/scr' + 'ipt>');
+</script><script src="https://stats.sa-as.com/live.js" type="text/javascript"></script>
+
+<!--Genius.com Inc. SNIPPET//-->
 
 
 	</div>
