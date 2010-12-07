@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramastyle.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324180139id_/http%3A//www.dramastyle.com/privatepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramastyle.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207225104id_/http%3A//www.dramastyle.com/privatepolicy.php) for the most accurate reproduction.*
 
 # - Dramastyle
 
@@ -23,4 +23,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.? Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-[](http://track.webgains.com/click.html?wglinkid=44262&wgcampaignid=61637)
+[](http://track.webgains.com/click.html?wglinkid=126754&wgcampaignid=61637)
