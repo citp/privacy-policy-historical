@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thealmagest.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426002748id_/http%3A//www.thealmagest.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thealmagest.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207045435id_/http%3A//www.thealmagest.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Almagest
 
