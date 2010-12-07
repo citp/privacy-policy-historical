@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clublaptop.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601040719id_/http%3A//www.clublaptop.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clublaptop.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207090318id_/http%3A//clublaptop.com/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Club Laptop
+# Privacy Policy - Club Laptop
 
 Refeel Cartridge Engineering is committed to preserving the privacy of all visitors to www.clublaptop.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us. By viewing the content of this site, registering or placing an order on this site, or contacting us by email or via this site, you consent to the collection, use and transfer of your information under the terms of this policy.
 
