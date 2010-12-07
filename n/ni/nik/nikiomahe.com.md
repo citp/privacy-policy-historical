@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikiomahe.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523002929id_/http%3A//www.nikiomahe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikiomahe.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207095129id_/http%3A//www.nikiomahe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Architecture and Design News – Nikiomahe.com - Architecture, Design News, Interior Design, House Design, Furniture, Construction Project, and Residential
 
