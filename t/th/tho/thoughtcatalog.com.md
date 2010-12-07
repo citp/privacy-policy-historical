@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608133146id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207092134id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Thought Catalog
 
-This is the privacy policy of The Thought & Expression Company LLC applicable to [www.thoughtcatalog.com.](http://www.thoughtcatalog.com/)
+This is the privacy policy of The Thought & Expression Company LLC applicable to [www.thoughtcatalog.com.](http://www.thoughtcatalog.com/ "www.thoughtcatalog.com.")
 
 **Information we Collect.** When you visit our site, we may collect personal information that you voluntarily provide to us. Personal information is information through which you can be identified such as your name, email address, and telephone number. We may also collect non-personal information, which is information about you or your activities though which you cannot be personally identified. Examples of non-personal information include the type of browser and operating system you are using, the domain name of your Internet service provider, the pages you visit at our site, how long you visit each page, and the unique number assigned to your server or Internet connection.
 
