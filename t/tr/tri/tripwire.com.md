@@ -1,39 +1,53 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608102123id_/http%3A//www.tripwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207043139id_/http%3A//www.tripwire.com/privacy) for the most accurate reproduction.*
 
 # 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+### Does my privacy matter to Tripwire?
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations and anonymous session-specific information on what pages consumers access or visit.
+Yes. Tripwire uses industry accepted security measures, including encrypted technology, to protect against the loss, misuse and alteration of data contained in our database. The safety and accuracy of our customers’ and visitors’ personal information is important to Tripwire. Information given to us will not be sold, rented, traded, or leased without permission. This Privacy Policy covers the website: [www.tripwire.com](http://www.tripwire.com/ "tripwire.com").
 
-The information we collect is used to improve the content of our Web page and may be used by Tripwire, Inc. or its authorized partners to contact consumers concerning Tripwire products and services. It is not traded, sold or given to any other company or organization without the expressed permission of the end-user.
+### When does Tripwire collect my personal information?
 
-With respect to cookies: We use cookies to record session information for authorization and authentication for controlled-access pages or files.
+Tripwire may collect personal information when you register to download free evaluation software, fill out a survey, send us an email, or when you request pricing or Tripwire services. In each of these situations, Tripwire collects minimal personal information required to meet your needs. Depending on the circumstances, we may collect personally identifiable information, volunteered by you, such as your name, job title, company name and contact information (work phone, email, fax, address and email address).
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or to unsubscribe from Tripwire eNews (Tripwired), please click the UNSUBSCRIBE link at the bottom of the newsletter.
+Tripwire may also collect anonymous session-specific information that is passively collected when you visit our website. Our servers record your IP address (not your email address), browser type or domain name, the web pages and search terms you use for our website ONLY, and the date and time of your visit.
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, or writing to us at the above address.
+### How does Tripwire use the data collected?
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with our partners.
+We use the information to better understand your needs, improve the contents of our web pages and to ensure technical performance of our network.
 
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
+We may use the information to help you complete a transaction, update you on services, or manage your account registration. Your information is not shared with any other company or organization without your permission.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with our partners.
+Tripwire’s ultimate objective is to provide you with best service possible.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+### What if I want to stop Tripwire from using my information?
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. We will use, for these new purposes only, data collected from the time of the policy change forward.
+If you supply us with contact information such as email, mailing address or a telephone number, we may use it to update you with information on new products, services or upcoming events. You may prevent such use of your information by calling us, emailing us or writing to us at our contact information provided below. In doing so, please ensure that you provide us with your exact name and address and specify which contact method you are concerned with.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, or writing us at the above address.
+Upon request, we also offer you the opportunity correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. To correct or update this information, contact us via email, phone or post using our information provided below.
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them, and a description of information that we maintain about them.
+### What are Tripwire’s security measures regarding your data?
 
-Consumers can access this information by writing to us at the above address and we will only provide requested information upon verification of the user's identity. If you request personal information from us please be prepared to provide such information.
+Tripwire processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete and current and we use industry standard encryption technology when transferring and receiving client information exchanged with our site. All information gathered on the site is stored and maintained in secure facilities that limit access to authorized personnel only. Tripwire’s website is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+### What are cookies and what does Tripwire do with them?
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address or updating their contact information on any of the forms throughout the site including the registration forms provided for product licensing and updates.
+Cookies are small text files which store information about your interactions with our website that we transfer to your computer’s hard drive. Cookies help us identify returning users by their IP addresses. We do not use cookies to collect personally identifiable information. Cookies are used to remember user preferences and to maximize performance of our services. Cookies also help us detect and resolve website problems, assist with customer support and gather statistical information about how consumers use our website and services so that we may make further improvements.
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note however, that some Tripwire features and services may not function properly if your cookies are disabled.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+### How often does Tripwire change its Privacy Policy?
+
+From time to time, Tripwire may update the features of our site to better serve our customers. Although we anticipate such changes will be minor, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post the policy changes on this page to notify you and provide you with the ability to opt out of any new uses of your information. The date of the newest version will be posted below. If you are concerned with how your information is used, you should check this webpage periodically. We will use, for these new purposes only, data collected from the time of the policy change forward. By using our website, you indicate your understanding and acceptance of the terms of Tripwire’s Privacy Policy posted at the time of your use.
+
+### What else should I know about Tripwire’s Privacy Policy?
+
+Tripwire does not publish text, images, or multimedia content that portray nudity, foul language, violence or other information not suitable for children. Web sites maintained by Tripwire are not directed to children under the age of 13. Tripwire will not knowingly collect or maintain personally identifiable information from or about anyone under 13.
+
+### Additional Privacy Questions?
+
+If you have any further questions or concerns about Tripwire’s Privacy Policy, please contact us at [webmaster@tripwire.com](mailto:webmaster@tripwire.com?subject=Privacy%20Policy "Email webmaster@tripwire.com") with the subject line heading of “Privacy Policy” or by telephone at 503.276.7500 or by mail directed to:  
+Tripwire Inc.  
+101 SW Main St., Ste. 1500  
+Portland, OR 97204  
+ATTN: Webmaster
