@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofbrides.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607073631id_/http%3A//www.houseofbrides.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofbrides.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207073528id_/http%3A//www.houseofbrides.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,9 @@ Cookies are small pieces of information stored by your browser on your computer'
 **Will we disclose the information collected to outside parties?**  
 The personally identifiable information we collect on our website is used so we can provide you with the best possible shopping experience. House of Brides may share your information with select retailers so you are provided with offers we believe will be of interest to our customers. If you wish to permanently opt out of these offers, please send an email to 
 
-[_info@houseofbrides.com_](mailto:info@houseofbrides.com).
+[_info@houseofbrides.com_](mailto:info@houseofbrides.com)
+
+.
 
 We may also use non-identifying information to improve the design of our website and to share with our advertisers. As an example, we may tell an advertiser that a given number of individuals visited a certain area on our website or that a given number of individuals who filled out our registration form are from a certain region of the U.S. We will not disclose anything that could be used to identify those individuals. 
 
@@ -33,4 +35,6 @@ In short, if you provide personally identifiable information online that is acce
 **Your consent:**  
 By using our website, you consent to our collection and use of the information you provide. If we decide to change our Privacy Policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list or have questions regarding our Privacy Policy, please send an e-mail to: 
 
-[_info@houseofbrides.com_](mailto:info@houseofbrides.com).
+[_info@houseofbrides.com_](mailto:info@houseofbrides.com)
+
+.
