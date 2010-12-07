@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveysgroup.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202953id_/http%3A//www.paidsurveysgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveysgroup.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207124306id_/http%3A//www.paidsurveysgroup.com/privacy) for the most accurate reproduction.*
 
 # Paid Surveys Group
 
