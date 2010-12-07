@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seotrafficspider.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502021929id_/http%3A//www.seotrafficspider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrafficspider.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207053105id_/http%3A//www.seotrafficspider.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SEO Traffic Spider | Privacy Policy | Notice | Consent | Security
+# SEO Traffic Spider | Privacy Policy | Targeted Website Traffic | Affordable SEO Services | Website Traffic | SEO Services | Increase Website Traffic | SEO Packages
 
 |   
 ---  
@@ -8,10 +8,11 @@
 ---  
 |  |   
 ---  
-|   |   
+|  |   
 ---|---  
-|   
-  |   
+  
+[ ](http://www.google.com/coop/trust/add?user=002487540560114585238&sig=__MIYb1REsueJQUQ2gM5xgK33yoOM=)  
+  
    
 |   
 ---  
@@ -29,7 +30,6 @@ You can visit SEO Traffic Spider website without revealing or disclosing any per
 |   | We use stringent measures to protect all your information from any unauthorized users.  
 ---|---  
 NOTICE  
-   
 We will approach you when we require any personal information that personally identifies you or enables us to get in touch with you. Usually, this information is required when you register on our site or download any software, order newsletters, enter into a contest, make payment for our services that your hire, generate leads and referrals or optionally fill in any form on our website. We make use of your information that personally identifies you for four main reasons:  
    
   
@@ -97,6 +97,7 @@ However, SEO Traffic Spider may, without notice, disclose your personal informat
   
 Lastly, SEO Traffic Spider reserves the right to alter or edit its privacy policy at any time. When such changes are made, we will notify this on our website.  
   
-   
-  |  top |    
+  |   |    
+  |  |    
+  |  |    
   |  |  
