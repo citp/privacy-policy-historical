@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627060255id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207010404id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
 
 # Mr Skin's Privacy Policy
 
-At MrSkin.com, a site operated by SK Intertainment, Inc./SK Europe BV, we are committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. This policy may change from time to time so please check back periodically. 
+At MrSkin.com, a site operated by SK Intertainment, Inc./SK Europe BV/Frisat Ltd, we are committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. This policy may change from time to time so please check back periodically. 
 
 ### What information does MrSkin.com collect?
 
