@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ineedpopcorn.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521092914id_/http%3A//ineedpopcorn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedpopcorn.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207021118id_/http%3A//ineedpopcorn.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
