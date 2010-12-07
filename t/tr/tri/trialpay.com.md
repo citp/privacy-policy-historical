@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614050017id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207044633id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
 
 # TrialPay Online Shopper Privacy Policy
 
