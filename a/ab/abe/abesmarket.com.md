@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abesmarket.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523041244id_/http%3A//www.abesmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesmarket.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207080635id_/http%3A//www.abesmarket.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Abe's Market
+# Privacy Policy - Abe's Market | Natural, Eco Friendly, and Green Products
 
 **Introduction**
 
