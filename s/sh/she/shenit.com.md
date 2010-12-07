@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shenit.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404124308id_/http%3A//www.shenit.com/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shenit.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207184950id_/http%3A//www.shenit.com/privacy-policies) for the most accurate reproduction.*
 
-# Shenit.com - Privacy Policy
+# Shenit.com - Privacy Policies
 
 At Shenit.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Shenit.com and how it is used.
 
@@ -23,5 +23,3 @@ Several locations of the Site permit you to enter your email address for purpose
 **Updates to this policy**
 
 If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated.
-
-[](http://www.shenit.com/ "Home")[Home](http://www.shenit.com/ "Home")
