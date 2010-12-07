@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518090348id_/http%3A//www.kgw.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207061731id_/http%3A//www.kgw.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # kgw.com | Portland News, Local News, Breaking News, Weather | Privacy Policy
 
