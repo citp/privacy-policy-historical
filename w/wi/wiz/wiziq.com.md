@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314132223id_/http%3A//www.wiziq.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207020922id_/http%3A//www.wiziq.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
@@ -78,7 +78,7 @@ All private information like your address or credit card number can be accessed 
 WiZiQ may update this privacy policy. In the event there are significant changes in the way we process your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 **Questions or Comments**  
-If you have questions or comments about this privacy policy, please email us at [support@wiziq.com](mailto:support@wiziq.com) or contact us at: [www.WiZiQ.com](http://www.wiziq.com/)
+If you have questions or comments about this privacy policy, please email us at [support@wiziq.com](mailto:support@wiziq.com) or contact us at: [www.WiZiQ.com](http://wiziq.com/)
 
 **Sikhya Solutions, LLC.  
 Attn: Privacy Policy issues  
