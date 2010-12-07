@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the fawry.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010340id_/http%3A//www.fawry.com/En/common/Page.aspx%3FPageID%3D79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fawry.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207112627id_/http%3A//www.fawry.com/En/common/Page.aspx%3FPageID%3D79) for the most accurate reproduction.*
 
 # :: Fawry ::
-
-Fawry is a payment service available through banks and a nationwide network of retailers that enables you to pay for bills and recharge your mobile phones anytime and anywhere
-
-User Name:   Password:   Remember me. 
-
-[](https://web.archive.org/web/20100623010340id_/http%3A//www.fawry.com/En/common/default.aspx)
 
 ## Privacy Policy
 
@@ -28,5 +22,3 @@ User Name:   Password:   Remember me.
   * In order to provide better service or to address security hazards, we will occasionally use a "cookie". A cookie is a small piece of information which a Web site stores on your Web browser on your PC and can later retrieve. The cookie cannot be read by a Web site other than the one that set the cookie. We use cookies for a number of administrative purposes, for example, to store your preferences for certain kinds of information or to store a password so that you do not have to input it every time you visit our site.Most cookies last only through a single session, or visit. None will contain information that will enable anyone to contact you via telephone, e-mail, or "snail mail." You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. 
 
 
-
-© 2010 Fawry.All Rights Reserved 
