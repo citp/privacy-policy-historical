@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152946id_/http%3A//arkansasmatters.com/content/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207105232id_/http%3A//arkansasmatters.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**PRIVACY POLICY**
 
 **1\. Policy**  
 This Privacy Policy is a part of the Site’s Terms and Conditions which is binding on all Site users including users of websites operated by a television station in the Nexstar family. The policy of Nexstar Broadcasting Group, Inc. (“Nexstar”)is to respect and protect the privacy of our users. Nexstar includes as part of its mission, the constant effort to build users’ trust and confidence in the Internet by promoting fair information practices. To fulfill this mission, Nexstar agrees to exercise reasonable precautions to maintain the confidentiality of information provided by you in connection with accessing and using the Sites. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our websites, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our websites. Nexstar agrees to post prominently and in plain language its specific privacy policies. This Privacy Policy sets forth Nexstar’s current policies and practices with respect to nonpublic personal information of the users of the Sites. Your continued participation on these Sites indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. 
@@ -53,7 +51,4 @@ Protecting the privacy of the very young is especially important. We never colle
 **11\. Changes to this Privacy Policy**  
 Nexstar may revise this Privacy Policy over time as new features are added to the Sites or as Internet law and standards evolve. We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Sites. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law. 
 
-Effective Date: October 10, 2006 
-
-  
-
+Effective Date: October 10, 2006 
