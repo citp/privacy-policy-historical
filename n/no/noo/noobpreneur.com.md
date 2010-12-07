@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noobpreneur.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523170257id_/http%3A//www.noobpreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noobpreneur.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207082206id_/http%3A//www.noobpreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noobpreneur Business Blog
 
@@ -11,8 +11,8 @@ At www.Noobpreneur.com, the privacy of our visitors is of extreme importance to 
 **Log Files**  
 Like many other Web sites, www.Noobpreneur.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons**  
-www.Noobpreneur.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+**Information collected by third-parties**  
+We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
 **DoubleClick DART Cookie**
 
@@ -33,11 +33,12 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Business Resources
 
-[](http://www.noobpreneur.com/resource-nation)
-
 **Download Hundreds of Complimentary Industry Resources**  
 Get hundreds of popular Industry magazines, white papers, webinars, podcasts, and more; all available at no cost to you. With more than 600 complimentary offers, you'll find plenty of titles to suit your professional interests and needs. [Click Here and Sign up today!](http://noobpreneur.tradepub.com/c/pubRD.mpl/?sr=ps&_t=ps:w_paraA:&ch=noobpren&_m=01.00ev.1.0.0&ct=Small&flt=all)
 
-  * Have a look at one of our authors new online [Carp Fishing](http://www.carpit.co.uk/) business.
+  * Watch business tips and updates from Business TV - [business video](http://www.bizlogue.com/) sharing and promotion site.
+  * Visit DirectoryDaily.com for [directory reviews](http://directorydaily.com/) and updates on directory business from the web.
+  * Have a look at one of our authors new online [Carp Rigs](http://www.carpit.co.uk/) business.
+  * [Business Promotional Products](http://www.promodirect.com/ccc1007-business-26-food-gifts.htm) with low price guarantee! Get special offers and discounts only at Promo Direct.
 
 
