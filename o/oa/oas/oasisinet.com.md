@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasisinet.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225042949id_/http%3A//oasisinet.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasisinet.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207044201id_/http%3A//www.oasisinet.com/policy.aspx) for the most accurate reproduction.*
 
 # :: Oasisinet :: The Official Oasis website and fan community
 
@@ -93,4 +93,4 @@ The laws of England and Wales govern any controversy or claim of whatever nature
 
 ### Feedback
 
-We welcome comments about this Privacy Statement. If you have any questions about this Statement or any part of our service, you may contact us by e-mailing customercare@oasisinet.com. Any feedback will be stored at this office.
+We welcome comments about this Privacy Statement. If you have any questions about this Statement or any part of our service, you may contact us by e-mailing [info@rkid.co.uk](mailto:info@rkid.co.uk). Any feedback will be stored at this office.
