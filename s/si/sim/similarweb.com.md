@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620111027id_/http%3A//www.similarweb.com/Legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208052621id_/http%3A//www.similarweb.com/Legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
