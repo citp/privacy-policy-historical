@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summertomato.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501100159id_/http%3A//summertomato.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summertomato.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208211708id_/http%3A//summertomato.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Healthy Eating Tips - Upgrade Your Healthstyle | Summer Tomato
 
