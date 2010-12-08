@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015617id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208042143id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tricia's Musings
 
@@ -40,8 +40,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Here are links to some of the most popular web browsers cookie information pages:
 
-  * [FireFox Cookie information](http://support.mozilla.com/kb/Cookies)
-  * [Internet Explorer and Windows platform related Cookie information](http://windowshelp.microsoft.com/Windows/en-US/Help/ff035adb-411d-40f3-8f9f-23e158f7b8be1033.mspx)
+  * [FireFox Cookie information](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Internet Explorer and Windows platform related Cookie information](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
   * [Opera web browser Cookie information](http://www.opera.com/browser/tutorials/security/)
 
 
