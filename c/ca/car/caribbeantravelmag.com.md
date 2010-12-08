@@ -1,73 +1,113 @@
-> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028140203id_/http%3A//www.caribbeantravelmag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208191327id_/http%3A//www.caribbeantravelmag.com/privacy-policy-your-privacy-rights) for the most accurate reproduction.*
 
-# Privacy Policy - Caribbean Travel & Life
+# Privacy Policy & Your Privacy Rights - CaribbeanTravelMag.com
 
-This web site is owned and controlled by World Publications, LLC, 460 N. Orlando Ave, Suite 200 Winter Park FL 32789, USA.
+_This policy was last updated on April 20, 2009._
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. World Publications, LLC does periodically collect information from and about our users. Except as set forth within this Privacy Policy and other published guidelines, we do not release personally identifiable information (as described below) about users of this site without their permission.
+At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
-**Effect of This and Other Related Documents:**
+To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-This Privacy Policy, together with other published guidelines, governs your interaction with this Site, and your registration for, and use of World Publications LLC's online services.
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.ita.doc.gov/td/ecom/menu.html).
 
-**Periodic Policy Changes:**
+**Note: For questions related to your magazine subscription, please visit our[Subscriber Services web site](http://www.caribbeantravelmag.com/subscription_inquiries.jsp) or email [caribbean@emailcustomerservice.com](mailto:caribbean@emailcustomerservice.com).**
 
-Please note that World Publications, LLC reviews its privacy practices from time to time (e.g., to track technology and/or legal changes), and that those practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our privacy policy.
+If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at [privacy@bonniercorp.com](mailto:privacy@bonniercorp.com), or via postal mail at: 
 
-At World Publications, LLC web sites, you can enter contests, vote in polls, subscribe to our magazines, sign-up for services such as our online e-newsletters, or participate in our online forums and communities. In order to participate in these services, we may ask you to provide us with certain types of personally identifiable information.
+Privacy Department  
+Bonnier Corporation  
+460 N. Orlando Avenue, Suite 200  
+Winter Park, FL 32789
 
-**Personally Identifiable Information:**
+**An overview of the information that Bonnier may collect**
 
-The types of personally identifiable information that may be collected at these pages LLC include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in, and use of various products, programs, and services. The names and contact information of persons who visit our Web sites are added to our database, so that, for example, they may be contacted in the future regarding World Publications, LLC's products, services or future opportunities. Such contact may occur by e-mail, telephone or mail, as World Publications, LLC deems appropriate.
+You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
 
-World Publications, LLC provides notice to users that personally identifiable (i.e., non-aggregated) information will be collected during the web-browsing process; this Privacy Policy also serves as notice that such information is collected under those circumstances.
+Sometimes, we need personally-identifying information in order to provide you with the products and services that you request.  Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level.  We consider certain identifying information "sensitive."  This includes your credit card number, income level, or any other information that would normally be considered confidential.
 
-World Publications, LLC does not provide user information to third parties. 
+You may choose not to provide us with any personally-identifying information.  In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.
 
-**Non-personally-identifiable information** :
+Many Bonnier websites include community features, such as online forums and message boards.  Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control.  You should exercise caution before disclosing any personally-identifying information in these public venues.  If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
 
-When users come to our Site, we may collect certain non-personally identifiable information such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Road Runner, etc.). Such information helps us identify popular content, and assists us in determining the effectiveness of our various promotional activities.
+At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services.  The types of personally-identifying information that we collect about other people at pages like these may include the person's name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
 
-We aggregate data on users' home servers for internal review purposes, in order to build higher quality, more useful online services and better products, e.g., by performing statistical analyses of the collective characteristics and behavior of our users. Following such internal review, such aggregated information is then superseded by more recent information.
+In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
-**Lack of World Publications, LLC Responsibility For Third Party Content On Site:**
+When you visit our websites, we may send one or more cookies -- small, removable data files -- to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.  Cookies, by themselves, do not provide us with any personally-identifying information.
 
-World Publications, LLC cannot and does not control the acts of the users of its web site's services or monitor the accuracy of postings by such users. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, or other forum or public area of this site, that information might be collected, circulated, and used by others.
+On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.  These tiny images help us to analyze our users' online behavior and collect other data, such as page views or advertising responses.  Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us.  Pixel tags may also be used to deliver cookies.  Some of our websites also use third-party advertising companies to serve ads when you visit. These companies may use non-personally-identifying information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-In the event that you encounter any user who is improperly collecting or using information about you or other users, please e-mail [info@worldpub.net.](mailto:info@worldpub.net)  Occasionally, we make portions of our subscriber list available to carefully screened companies that offer products and services we think may be of interest to you. If you do not want to receive these offers, please advise us:
+We work with reputable third parties that provide data tracking and collection technologies in order to:
 
-Magazine Name  | US Cust. Serv. Phone Number |  CAN/FOR Cust. Serv.Phone Number  | Cust. Serv.E-MAIL Addresses­­   
----|---|---|---  
-Boating Life | 1-800-453-8877| 1-386-447-2373 | [Boatnglife@palmcoastd.com](mailto:Boatnglife@palmcoastd.com)  
-Caribbean Travel & Life | 1-800-588-1689| 1-386-447-6301 | [Caribbean@palmcoastd.com](mailto:Caribbean@palmcoast.com)  
-Cruising World | 1-866-436-2461| 1-386-246-3402 | [cruising@palmcoastd.com](mailto:cruising@palmcoastd.com)  
-Fly Fishing in Salt Waters | 1-877-566-5833| 1-386-447-2590 | [Flyinsalt@palmcoastd.com](mailto:Flyinsalt@palmcoastd.com)  
-Garden Design | 1-800-513-0848| 1-386-447-2491 | [Garden@palmcoastd.com](mailto:Garden@palmcoastd.com)  
-KiteBoarding | 1-877-228-0027| 1-386-447-6307 | [Kiteboard@palmcoastd.com](mailto:Kiteboard@palmcoastd.com)  
-Marlin | 1-800-879-0483| 1-386-447-2380 | [Marlin@palmcoastd.com](mailto:marlin@palmcoastd.com)  
-PADI | 1-888-333-7234| 1-386-447-2535 | [pdsmember@palmcoastd.com](mailto:pdsmember@palmcoastd.com)  
-Power Cruising | 1-866-298-5645|   
-| [powercruising@palmcoastd.com](mailto:powercruising@palmcoastd.com)  
-Sailing World | 1-866-436-2460 | 1-386-246-3401 | [sailing@palmcoastd.com](mailto:sailing@palmcoastd.com)  
-Saveur | 1-877-717-8925| 1-386-447-2592 | [Saveur@palmcoastd.com](mailto:Saveur@palmcoastd.com)  
-Sport Diver | 1-800-879-0478| 1-386-447-2382 | [pdsmember@palmcoastd.com](mailto:pdsmember@palmcoastd.com)  
-Sport Fishing | 1-800-879-0496| 1-386-447-2383 | [Sportfish@palmcoastd.com](mailto:sportfish@palmcoastd.com)  
-Wakeboarding | 1-800-879-0486 | 1-386-447-2386 | [Wakeboard@palmcoastd.com](mailto:wakeboard@palmcoastd.com)  
-WaterSki | 1-800-879-0495| 1-386-447-2392 | [Waterski@palmcoastd.com](mailto:waterski@palmcoastd.com)  
-WindSurfing | 1-800-879-0480| 1-386-447-2393 | [Windsurf@palmcoastd.com](mailto:windsurf@palmcoastd.com)  
-  
-**Requesting Available Information:**
+  * Present or serve the advertisements you may see at Bonnier websites; 
+  * Deliver and track e-mail communications; 
+  * Process purchase orders through e-commerce transactions; 
+  * Fulfill print and digital subscription orders; and 
+  * Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
 
-If you want to find out what information World Publications, LLC has in its database about you, please write World Publications, LLC at the address aboveor e-mail [info@worldpub.net.](mailto:info@worldpub.net) Please include your name, e-mail address, and other information in the same format that you originally supplied to World Publications, LLC, so we can be more certain of matching your request to the correct information.
 
-**Personally-Identifiable Information/Opt-Out Option:**
 
-If you would like to have your personally-identifiable information removed from World Publications, LLC's databases going forward or e-mail [info@worldpub.net.](mailto:info@worldpub.net)
+These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**Security:**
+Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors' use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
 
-We work hard to maintain data security. We have in place physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access.
+Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-World Publications, LLC reserves the right to disclose information contained in our access logs concerning any user as we reasonably feel is necessary to protect our systems or business. In particular, we reserve the right to disclose specific user information when a specific user is in violation of this stated policy and/or other published guidelines, or participates (or is reasonably believed so) in any illegal activity, even without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, and as otherwise required by law.
+**How we use the information we collect**
 
-In reviewing the information above, please keep in mind that World Publications, LLC cannot and does not assume any responsibility for any actions or omissions of third parties, including site users and the manner in which they might use information received from World Publications, LLC or independently.
+We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies.
+
+We will use the personally-identifying information that you provide about others only as necessary to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
+
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  Before sharing your e-mail or postal address with companies not owned by Bonnier who want to market products or services to you, we will provide you with an opportunity to opt out.  You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.
+
+We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes.  In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.  Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+
+Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
+
+  * When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
+  * When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law. 
+  * When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.  
+We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
+
+
+
+**How we protect the safety and integrity of the information we collect**
+
+We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.  We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information.  We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential.  We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company's computers.  When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers.  To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology.  Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.  We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
+
+Bonnier employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier.  These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary.
+
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. ****(Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to[caribbean@emailcustomerservice.com](mailto:caribbean@emailcustomerservice.com).)****To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+
+In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+
+We only use the information we collect for purposes consistent with this policy.  If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses.  We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
+
+**Your privacy options**
+
+**If you prefer not to receive communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+
+We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
+
+Online Marketing Department  
+Bonnier Corporation  
+460 North Orlando Avenue, Suite 200  
+Winter Park, FL  32789
+
+In your request, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+
+**Enforcement and Compliance with this Privacy Policy**
+
+We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.  If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at: 
+
+Privacy Department  
+Bonnier Corporation  
+460 North Orlando Ave., Suite 200  
+Winter Park, FL 32789
+
+If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
