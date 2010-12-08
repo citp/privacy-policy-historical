@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howiesultimate.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406035022id_/http%3A//www.howiesultimate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howiesultimate.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208211949id_/http%3A//howiesultimate.com/privacy.html) for the most accurate reproduction.*
 
 # Howie's Ultimate
 
