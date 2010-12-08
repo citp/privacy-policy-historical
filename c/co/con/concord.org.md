@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526102959id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208031601id_/http%3A//www.concord.org/privacy-policy) for the most accurate reproduction.*
 
-# Concord.org - Concord.org -> Privacy
+# Privacy Policy | The Concord Consortium
 
 ## Summary
 
@@ -20,19 +20,19 @@ The only thing you need to provide us with to get a Concord account is a valid e
 
 If you download our free software, we may contact you regarding available updates or critical problems.
 
-If you **subscribe** (opt-in) to an **e-mail** mailing list(s), we will send you materials via e-mail only from the mailing list(s) you subscribed to. At any time, you may opt-out by going to your account and clicking on the **Subscriptions** link.
+If you subscribe (opt-in) to an e-mail mailing list(s), we will send you materials via e-mail only from the mailing list(s) you subscribed to. At any time, you may opt-out by going to your account and clicking on the Subscriptions link.
 
-If you **subscribe** (opt-in) to a **Print** mailing list, we will send materials through Postal mail if you have given us your valid **US postal address**. At any time, you may opt-out by going to your account and clicking on the **Subscriptions** link.
+If you subscribe (opt-in) to a Print mailing list, we will send materials through Postal mail if you have given us your valid US postal address. At any time, you may opt-out by going to your account and clicking on the Subscriptions link.
 
 Online course registrants will be contacted by course instructors.
 
 ### @Concord Newsletter
 
-We require a valid email address for **Print** subscriptions to our @Concord Newsletter. Your email address will become your 'user id' and allow you to update personal information directly at our website. Athough we require your email address, **we will not send you unsolicited email** or otherwise disclose your information to other organizations (as stated above). 
+We require a valid email address for Print subscriptions to our @Concord Newsletter. Your email address will become your 'user id' and allow you to update personal information directly at our website. Athough we require your email address, we will not send you unsolicited email or otherwise disclose your information to other organizations (as stated above).
 
 ### Cookies
 
-The site **does not** use cookies to track users. For some applications on the site, a cookie is used to **maintain your state**. For example, a cookie may be set when you login to your Concord Account. This cookie allows the server to know that you have, in fact, logged in.
+The site does not use cookies to track users. For some applications on the site, a cookie is used to maintain your state. For example, a cookie may be set when you login to your Concord Account. This cookie allows the server to know that you have, in fact, logged in.
 
 ### Internet Data
 
@@ -44,4 +44,4 @@ We also use specific data to help us diagnose problems with the Web server or th
 
 ### Questions or Concerns?
 
-If you have any questions or concerns about this privacy policy, please contact the Concord Consortium's webmaster, **Paul Burney** , [webmaster@concord.org](mailto:webmaster@concord.org) or **(978) 369-2287**
+If you have any questions or concerns about this privacy policy, please contact the Concord Consortium's webmaster, Ethan McElroy,  [webmaster@concord.org](mailto:webmaster@concord.org "Send an Email to Our Webmaster") or (978) 405-3208.
