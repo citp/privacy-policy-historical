@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the dotnetheaven.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620234612id_/http%3A//www.dotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetheaven.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208184125id_/http%3A//www.dotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mindcracker Network - Privacy Policy
 
-|  |   Login |   
----|---  
-  
 |  |  |   
----|---|---  
-|  |  |   
----|---|---  
-|  |  |  |   
 ---|---|---  
 |   
 ---  
@@ -17,7 +10,7 @@
 ---  
 | 
 
-Date: June 20, 2010
+Date: December 08, 2010
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
   
