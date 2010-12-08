@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the karamba.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630162712id_/http%3A//www.karamba.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karamba.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208191325id_/http%3A//www.karamba.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Slots - Play FREE Slot Machine Games at Karamba.com
 
-|     
+   
 ---  
   
 Privacy   
   
-At NG International Ltd., we are committed to respecting your privacy on our Website(s). We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information ("Personal Information") that we acquire when you use our Website(s) and the NGI Services. Accordingly, we have implemented this Privacy Policy in order to inform you of our information collection procedures. If you have any questions or comments regarding this Privacy Policy, please contact us at:   
+At NG International Ltd., we are committed to respecting your privacy on our Website(s). We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information ("Personal Information") that we acquire when you use Website(s) and the NGI Services. Accordingly, we have implemented this Privacy Policy in order to inform you of our information collection procedures. If you have any questions or comments regarding this Privacy Policy, please contact us at:   
 support@Karamba.com
 
 How Do I Agree to the Privacy Policy?   
@@ -36,16 +36,16 @@ Third Party advertisement companies - We run conversion scripts provided by thir
 How Does Karamba.com Use Personal and Non-Personal Information?   
 
 
-Personal Information - Your Personal Information is kept strictly confidential for our own internal purposes, to provide for, maintain, evaluate, and improve the NGI Services and the Website. The Personal Information we collect is not shared with other organizations for commercial or non-commercial purposes and will only be used for internal purposes, such as sending out cash-out checks, accepting deposits, communicating promotional and informational materials, and providing member support. Notwithstanding, we can disclose Personal Information to any third party for the purpose of processing your payments, confirming your identity, your deposit and/or cash out methods, as well as by notice under law, statute, regulation, or governmental authority. 
+Personal Information - Your Personal Information collected by us is kept strictly confidential and is processed for the purposes of providing, maintaining, evaluating, and improving the NGI Services and the Website by NGI and/or NGI Partners, such as for verifying your identity, processing your payments, your deposit and/or cash out methods, accepting deposits, sending out cash-out checks, and providing member support. Your Personal Information is also processed by NGI and may be processed by NGI Partners for the purposes of communicating promotional and informational materials. We may be obliged to disclose your Personal Information under law, statute, regulation, or as requested by a governmental authority. 
 
 Karamba.com will keep your Winning and cash-out information strictly private and confidential and does not provide this information to any third party unless acting under a good faith belief that such information is required to be disclosed under law, regulation or any governmental or competent regulatory authority. Notwithstanding, Karamba.com may publicize certain details regarding the Winnings for marketing and promotional purposes as more fully set out in the Terms of Use. 
 
 Non-Personal Information - We use non-personal information to track your use of the Karamba.com Website and for other internal purposes, in particular to provide for, maintain, evaluate, and improve the Karamba.com Services and the Website. 
 
-Can I "Opt Out" From Receiving Communications From Karamba.com?   
+Can I "Opt Out" From Receiving Promotional Communications?   
 
 
-You may "opt-out" from receiving communication from us at any time. To "opt out," please let us know by Sending a blank message with the word "remove" to support@Karamba.com
+You may "opt-out" from receiving promotional communications at any time. To "opt out," please let us know by sending a blank message with the word "remove" to support@Karamba.com or to the email address provided in the promotional communication from the NGI Partner. 
 
 What about Cookies?   
 
@@ -57,7 +57,7 @@ How Can I Review and Make Changes to My Personal Information?
 
 You can review and modify your Personal information at the Karamba.com Website at any time by clicking on the 'UPDATE ACCOUNT' button from the cashier. You can also request that we correct errors in your Personal Information by emailing us at support@Karamba.com. 
 
-For your protection, you will be required to provide proof of your identity. If you wish, we will delete all of your Personal Information (except for your transaction history) from our records upon your request. However, if you choose to delete your Personal Information, you may not be able to access some areas of the Website or use some of the Karamba.com Services. 
+For your protection, you will be required to provide proof of your identity. If you wish, we will delete all of your Personal Information (except for your transaction history and other data that we are required to keep under applicable laws) from our records upon your request. However, if you choose to delete your Personal Information, you may not be able to access some areas of the Website or use some of the Karamba.com Services. 
 
 How Does Karamba.com Protect My Personal Information?   
 
@@ -69,7 +69,4 @@ What do you think?
 
 We welcome your questions and comments regarding our Privacy Policy. Please send us an e-mail to support@Karamba.com.   
   
-   
-  
-  
-
+ 
