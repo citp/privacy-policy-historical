@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myccmarketing.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407102938id_/http%3A//oneyearplan.net/zprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myccmarketing.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208064208id_/http%3A//oneyearplan.net/zprivacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
