@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guerrillamail.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604053730id_/http%3A//www.guerrillamail.com/antispam-solution/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerrillamail.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208164533id_/http%3A//www.guerrillamail.com/antispam-solution/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GuerrillaMail.com
 
