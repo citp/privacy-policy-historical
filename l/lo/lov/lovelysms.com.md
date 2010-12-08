@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelysms.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607114320id_/http%3A//www.lovelysms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelysms.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208213048id_/http%3A//www.lovelysms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
