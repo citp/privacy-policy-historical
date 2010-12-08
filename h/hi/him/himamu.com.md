@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the himamu.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217233004id_/http%3A//himamu.com/ent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himamu.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208040002id_/http%3A//himamu.com/cinema/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Himamu
-
-Posted On: June 16, 2009  
-
+# Privacy Policy | Himamu.com
 
 **Google Advertising Cookie and Privacy Policies:**
 
-\- Google, as a third party vendor, uses cookies to serve ads on our site.   
-\- Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
+****\- Google, as a third party vendor, uses cookies to serve ads on our site.
 
-**Himamu.com is committed to safeguarding your privacy online.**
+\- Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+Himamu.com is committed to safeguarding your privacy online.
 
 Himamu.com values the privacy of information pertaining to its associates & members. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
@@ -20,8 +17,7 @@ We will enable you to communicate your privacy concerns to us and that we will r
 
 We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your passwords.
 
-Himamu collects information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, or information about what you like and do not like. We request this information to provide our strongest value to you – a personalized online experience. Customers who personalize our service come back more often – and it’s the customers that visit us often who make us successful – so we do everything we can to make your service with your name on it and to give you just the content you want.
-
+Himamu collects information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, or information about what you like and do not like. We request this information to provide our strongest value to you – a personalized online experience. Customers who personalize our service come back more often – and it’s the customers that visit us often who make us successful – so we do everything we can to make your service with your name on it and to give you just the content you want.  
 Yes, you can always choose whether or not to disclose information through Himamu Certain information is required for registration, but other requested information is optional and may be given at your discretion. Some Himamu services may require that you provide personally identifiable information. We use “cookies” to let you use our services more easily, and to let us keep track of certain statistical information that helps us improve our site.
 
 Cookies may be used by us to remember users, estimate our audience size, track number of entries in some of our promotions, and contests and measure certain traffic patterns.
