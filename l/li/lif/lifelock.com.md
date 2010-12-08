@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612205535id_/http%3A//www.lifelock.com/about-us/about-lifelock/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208155606id_/http%3A//www.lifelock.com/about-us/about-lifelock/privacy-policy) for the most accurate reproduction.*
 
 # LifeLock | Privacy Policy
 
