@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616203516id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208051959id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Top10.com
 
@@ -10,7 +10,7 @@ Top10.com is owned and managed by Top10.com Media Ltd (“we”). Top10.com Medi
 
 ### General Policy
 
-This policy and any other documents referred to within it form part of our terms and conditions which together set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy and any other documents referred to within it form part of our [terms and conditions](https://web.archive.org/company/legal/terms) which together set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 By entering your details in fields on Top10.com, you enable us and our service providers to provide you with the services you select. Whenever you supply personal information, we will treat that information in accordance with this privacy policy. Our collection and use of data collected from you is further described below, as well as the ways (if any) in which the data may be shared with third parties. 
 
