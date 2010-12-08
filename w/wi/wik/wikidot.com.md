@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wikidot.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614050552id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidot.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208190306id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
-# Wikidot - Free and Pro Wiki Hosting: Privacy Policy
+# Privacy Policy - Wikidot - Free and Pro Wiki Hosting
 
 At Wikidot we care about the privacy of our users. If you use any of the Sites hosted by Wikidot you must accept the way we handle personal information that is described below.
 
 Within the Wikidot.com Services Users are allowed to create individual Wiki Sites, edit and post Content, create profiles and communicate with other Users. For the Services to work it is required that some personal information is collected and selected information is displayed publicly. This Privacy Policy describes the way the personal information is used within the Wikidot Services.
 
-We will update the privacy policy from time to time. The most current version of the policy is always available at: <http://www.wikidot.com/legal:privacy-policy>.
+We will update the privacy policy from time to time. The most current version of the policy is always available at: [http://www.wikidot.com/legal:privacy-policy](https://www.wikidot.com/legal:privacy-policy).
 
 Personal information is data required to identify individual users, such as user name, email address, telephone number, IM identifier etc. and also activity of an individual and any other information that is linked to an individual.
 
