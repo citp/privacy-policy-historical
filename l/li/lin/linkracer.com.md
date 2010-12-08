@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkracer.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329080427id_/http%3A//www.linkracer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkracer.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208040032id_/http%3A//linkracer.com/privacy.html) for the most accurate reproduction.*
 
-# Link Racer - Privacy
+# Link Racer - Index
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
