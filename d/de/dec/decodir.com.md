@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decodir.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610094040id_/http%3A//www.decodir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decodir.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208031136id_/http%3A//www.decodir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modern Homes Interior Design and Decorating Ideas on Decodir
 
@@ -10,7 +10,7 @@ You may choose to add your email address to our contact list via the forms on ou
 **Cookies and Web Beacons**  
 www.decordir.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners may use cookies and web beacons on our site such as Google (www.google.com/adsense) that use the DART cookie enables that place ads on our web site. For further information, consult the privacy policy of each those websites. You can choose to accept or decline cookies. To opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.decodir.com/?btoBj0_c "Original Link: http://www.google.com/privacy_ads.html")
+Some of our advertising partners may use cookies and web beacons on our site such as Google (www.google.com/adsense) that use the DART cookie enables that place ads on our web site. For further information, consult the privacy policy of each those websites. You can choose to accept or decline cookies. To opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
