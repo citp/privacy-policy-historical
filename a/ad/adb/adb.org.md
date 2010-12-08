@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613173140id_/http%3A//www.adb.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208072922id_/http%3A//www.adb.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ADB.org
 
   
 
-
-## Privacy Statement for ADB.org
 
   * Choice/Opt-Out
   * Correct/Update
@@ -23,31 +21,15 @@ This site contains links to other sites. **ADB.org** is not responsible for the 
 
 ### Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-  1. You can send email to [webmaster@adb.org](mailto:webmaster@adb.org)
-  2. You can send mail to the following postal address:  6 ADB Avenue, Manduluyong  
-PO Box 789  
-0980 Metro Manila, Philippines 
-
-
+This site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [webmaster@adb.org](mailto:webmaster@adb.org)
 
 ### Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided.
+This site gives users the following options for changing and modifying information previously provided. Email [webmaster@adb.org](mailto:webmaster@adb.org)
 
-  1. email [webmaster@adb.org](mailto:webmaster@adb.org)
-  2. send mail to the following postal address:  6 ADB Avenue, Manduluyong  
-PO Box 789  
-0980 Metro Manila, Philippines 
+### Contacting the Website
 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@adb.org](mailto:webmaster@adb.org)
 
-
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-[webmaster@adb.org](mailto:webmaster@adb.org)   
+  
 
