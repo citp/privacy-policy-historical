@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205205id_/http%3A//aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208205931id_/http%3A//aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -137,7 +137,7 @@ a) Where you borrow or may borrow from us, we will give details of your personal
 
 b) If you borrow and do not repay in full and on time, we will tell credit reference agencies
 
-c) We may take periodic searches of our Group records, credit referene and fraud prevention agencies to manage your account with us, to take decisions regarding your identity and also credit, including whether to make credit available or to continue to extend existing credit
+c) We may take periodic searches of our Group records, credit reference and fraud prevention agencies to manage your account with us, to take decisions regarding your identity and also credit, including whether to make credit available or to continue to extend existing credit
 
 d) If you have borrowed from us and do not make payments that you owe us, we will trace your whereabouts and recover payment
 
@@ -208,11 +208,11 @@ BD1 5US
 Tel 0870 010 0583*  
 [http://www.myequifax.co.uk](http://www.myequifax.co.uk/)
 
-Experian  
-Consumer Help Service  
-PO Box 8000  
-Nottingham  
-NG80 7WF  
+Experian Credit Report Services  
+Experian Ltd  
+PO Box 1135  
+Warrington  
+WA55 1EP  
 Tel 0870 241 6212*  
 [http://www.experian.co.uk](http://www.experian.co.uk/)
 
