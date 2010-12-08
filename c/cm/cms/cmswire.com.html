@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the cmswire.com privacy policy that was archived on 2010-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627081203id_/http%3A//www.cmswire.com/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmswire.com privacy policy that was archived on 2010-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101208014323id_/http%3A//www.cmswire.com/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy</title>
-	<link rel="stylesheet" href="/shared/css/screen.css?v=2010060701" type="text/css">
-	<script type="text/javascript" async="" src="http://tweetboard.com/tb.js?v=1.0&amp;amp;user=cmswire"></script><script type="text/javascript" language="javascript" src="/shared/js/obfuscator.js"></script>
+	<link rel="stylesheet" href="/shared/css/screen.css?v=2010101901" type="text/css">
+	<script type="text/javascript" language="javascript" src="/shared/js/obfuscator.js"></script>
 		
 	<!-- GAM -->
 	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
@@ -13,7 +13,7 @@
 		GS_googleEnableAllServices();
 	</script>
 		<script type="text/javascript">			 		
-		GA_googleAddAttr("page_url", "/about/privacy-policy.php");
+		GA_googleAddAttr("page_url", "_about_privacy-policy_php");
 	</script>
 	<link rel="canonical" href="http://www.cmswire.com/about/privacy-policy.php">
 	
@@ -27,17 +27,14 @@
 	<script type="text/javascript" src="/shared/js/jquery.dialog-1.72.min.js"></script>
 	<script type="text/javascript"> 
 		jQuery.noConflict();
-		jQuery(document).ready(function() {featuredBlockInit();});
 		
 		/**
 		 * Featured Block Init
 		 *********************************************************/
 		function featuredBlockInit() {
-			if(window.location.pathname.indexOf("/msgs/email/thank-you.php") == -1
-					&& window.location.pathname.indexOf("/msgs/email/confirmed.php") == -1
-					&& getCookie("Newsletter_Subscribed") == '' 
-					&& getCookie("Featured_Hidden") == '') {
+			if(getCookie("Newsletter_Subscribed") == '' && getCookie("Featured_Hidden") == '') {
 				jQuery("#featured").slideDown();
+				jQuery("#frmESub_Featured").attr("action", "http://www.aweber.com/scripts/addlead.pl");
 				gaRecordEvent("Featured", "Displayed", "");
 				jQuery("#btnCloseFeatured").click(function() {
 						jQuery("#featured").slideUp("slow");
@@ -52,7 +49,9 @@
 			}
 		}	
 	</script>
-	
+	<!-- chart beat #1 -->
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    
 	<link rel="alternate" type="application/rss+xml" title="CMSWire - All News" href="http://feeds2.feedburner.com/CMSWire">
 	<link rel="alternate" type="application/rss+xml" title="CMSWire - Job Listings" href="http://feeds2.feedburner.com/CMSWire-AllJobPosts">
 	<link rel="alternate" type="application/rss+xml" title="CMSWire - Upcoming Events" href="http://feeds2.feedburner.com/CMSWire-Events"> 
@@ -68,6 +67,7 @@
 	<meta name="rating" content="general"> 
 	<meta name="language" content="en-us">
 	<meta name="verify-v1" content="HdocqHqkIh/dBv6gbC1hYzp8AZFAws0DzzDbycC/O88=">
+	
 	
 					<script type="text/javascript">
 	var contentAuthor = "System";
@@ -88,8 +88,8 @@
 		GA_googleAddSlot("ca-pub-1667386052178664", "Inline-300x250--01");
 		GA_googleAddSlot("ca-pub-1667386052178664", "Side-Button-01");
 		GA_googleAddSlot("ca-pub-1667386052178664", "Side-Button-02");
-		//GA_googleAddSlot("ca-pub-1667386052178664", "Side-Button-03");
-		GA_googleAddSlot("ca-pub-1667386052178664", "Sitewide-Bottom_728x90");
+		//GA_googleAddSlot("ca-pub-1667386052178664", "Sitewide-Bottom_728x90");
+		GA_googleAddSlot("ca-pub-1667386052178664", "Popup-Newsletter");
 		GA_googleAddSlot("ca-pub-1667386052178664", "Popup-Poll");
 				GA_googleAddSlot("ca-pub-1667386052178664", "Inline-300x250--02");
 		
@@ -205,6 +205,7 @@
 						<li><a href="/cms/products/#prod-wcm">Web CMS List</a></li>
 						<li><a href="/cms/products/#prod-dms" title="Document management software">Doc Management List</a></li>
 						<li><a href="/cms/products/#prod-ecm">Enterprise CMS List</a></li>
+						<li><a href="/cms/products/#prod-dam">DAM Software List</a></li>
 						<li><a href="/cms/products/#prod-cm-micro">Micro CMS &amp; Blogging</a></li>
 						<li><a href="/cms/products/#prod-smm" title="Social media monitoring software">Social Media Monitoring</a></li>
 						<li><a href="/cms/products/#prod-mig">Migration Tools</a></li>
@@ -250,12 +251,13 @@
 <div id="gn-news-topics">
 <span class="title">Hot Topics:</span>
 <ul>
-	<li><a href="/cms/web-cms/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Web CMS');}" title="Web content management system (CMS) news, reviews and analysis">Web CMS</a></li>
-		<li><a href="/cms/enterprise-cms/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Enterprise CMS');}" title="Read Enterprise CMS news, reviews and analysis...">Enterprise CMS</a></li>
+	<li><a href="/cms/enterprise-cms/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Enterprise CMS');}" title="Read Enterprise CMS news, reviews and analysis...">Enterprise CMS</a></li>
+    <li><a href="/cms/web-cms/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Web CMS');}" title="Web content management system (CMS) news, reviews and analysis">Web CMS</a></li>
+    <li><a href="/news/topic/sharepoint" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - SharePoint');}" title="SharePoint news, reviews and analysis">SharePoint</a></li>
 	<li><a href="/cms/document-management/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Document Management');}" title="Document management news, reviews and analysis">Document Management</a></li>
+	<li><a href="/news/topic/enterprise+collaboration" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Enterprise Collaboration');}" title="Enterprise Collaboration news and analysis">Enterprise Collaboration</a></li>
 	<li><a href="/cms/web-engagement/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Web Engagement');}" title="Make the Web a more engaging place">Web Engagement</a></li>
 		<li><a href="/cms/digital-asset-management/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - DAM');}" title="Read Digital Asset Management (DAM) news, reviews and analysis...">Digital Asset Management</a></li>
-	<li><a href="/cms/web-publishing/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Web Publishing');}" title="What's happening with web publishing...">Web Publishing</a></li>
 	<li><a href="/cms/enterprise-20/" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Global Topics',  'Topic - Enterprise 2.0');}" title="Follow the latest Enterprise 2.0 tools and trends...">Enterprise 2.0</a></li>
 </ul>
 </div><div class="spacer">&nbsp;</div>
@@ -283,55 +285,53 @@
   <ul>
 	
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-cms/installing-sharepoint-2010-on-windows-7-005919.php" title="Installing SharePoint 2010 on Windows 7 (1131, 4888)">Installing SharePoint 2010 on Windows 7</a> 
+		<li><a href="http://www.cmswire.com/cms/enterprise-20/first-look-are-you-ready-for-chrome-os-009461.php" title="First Look: Are You Ready for Chrome OS? (3641, 3639)">First Look: Are You Ready for Chrome OS?</a> 
+				
+				</li>
+		
+		
+        
+	
+    	
+		
+		<li><a href="http://www.cmswire.com/cms/enterprise-20/what-is-sharepoint-2010-vision-and-reality-007513.php" title="What is SharePoint 2010? Vision and Reality (2238, 8664)">What is SharePoint 2010? Vision and Reality</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					9 
+					17 
 					comments</em>
 				
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-20/google-upgrades-gmail-app-for-ipad-007865.php" title="Google Upgrades Gmail App For iPad (903, 903)">Google Upgrades Gmail App For iPad</a> 
+		<li><a href="http://www.cmswire.com/cms/enterprise-20/silverlight-50-plays-nice-on-the-ipad-009436.php" title="Silverlight 5.0 Plays Nice on the iPad (1743, 1743)">Silverlight 5.0 Plays Nice on the iPad</a> 
 				
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/document-management/overview-sharepoint-2010-metadata-and-taxonomy-management-006015.php" title="Overview: SharePoint 2010 Metadata and Taxonomy Management (759, 3200)">Overview: SharePoint 2010 Metadata and Taxonomy Management</a> 
+		<li><a href="http://www.cmswire.com/cms/web-cms/wcm-is-dead-long-live-wcm-gilbanebston-009418.php" title="WCM is Dead, Long Live WCM #gilbanebston (932, 932)">WCM is Dead, Long Live WCM #gilbanebston</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					7 
+					3 
 					comments</em>
 				
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-20/what-is-sharepoint-2010-vision-and-reality-007513.php" title="What is SharePoint 2010? Vision and Reality (758, 5036)">What is SharePoint 2010? Vision and Reality</a> 
-				
-					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					6 
-					comments</em>
-				
-				</li>
-		
-		
-	
-		
-		<li><a href="http://www.cmswire.com/cms/mobile/mobile-enterprise-apples-ios4-is-watching-you-007867.php" title="Mobile Enterprise: Apple's iOS4 is Watching You (619, 619)">Mobile Enterprise: Apple's iOS4 is Watching You</a> 
-				
-				</li>
-		
-		
-	
-		
-		<li><a href="http://www.cmswire.com/cms/web-engagement/goodbye-corporate-website-hello-web-presence-management-framework-007825.php" title="Goodbye Corporate Website – Hello Web Presence Management Framework? (606, 1308)">Goodbye Corporate Website – Hello Web Presence Management Framework?</a> 
+		<li><a href="http://www.cmswire.com/cms/information-management/sharepoint-an-intranet-manager-perspective-009455.php" title="SharePoint: An Intranet Manager Perspective (929, 928)">SharePoint: An Intranet Manager Perspective</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
 					2 
@@ -340,43 +340,85 @@
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-20/ms-project-2010-goodbye-portfolio-server-hello-sharepoint-005536.php" title="MS Project 2010: Goodbye Portfolio Server, Hello SharePoint (577, 2579)">MS Project 2010: Goodbye Portfolio Server, Hello SharePoint</a> 
+		<li><a href="http://www.cmswire.com/cms/document-management/overview-sharepoint-2010-metadata-and-taxonomy-management-006015.php" title="Overview: SharePoint 2010 Metadata and Taxonomy Management (877, 4010)">Overview: SharePoint 2010 Metadata and Taxonomy Management</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					8 
+					9 
 					comments</em>
 				
 				</li>
 		
 		
+        
 	
-		
+    	
 	
+    	
 		
+		<li><a href="http://www.cmswire.com/cms/web-engagement/content-strategy-what-will-be-hot-in-2011-009456.php" title="Content Strategy: What Will Be Hot in 2011 (762, 761)">Content Strategy: What Will Be Hot in 2011</a> 
+				
+				</li>
+		
+		
+        
 	
+    	
 		
+        
 	
+    	
 		
+        
 	
+    	
 		
+        
 	
+    	
 		
+        
+	
+    	
+		
+        
+	
+    	
+		
+        
+	
+    	
+		
+        
 	
   </ul>
 </div>	</div>
 	<br>
-	<p align="center"><a href="http://www.facebook.com/CMSWire" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/facebook-click/col-left');pageTracker._trackEvent('Click - Internal', 'Col Left',  'Facebook - Badge');}"><img src="/images/fb-badge_144x44.gif" alt="Find us on Facebook"></a></p>
+	<p align="center">
+    <!-- <a href="http://www.facebook.com/CMSWire"
+	   onclick="if(pageTracker){pageTracker._trackPageview('/event/out/facebook-click/col-left');pageTracker._trackEvent('Click - Internal', 'Col Left',  'Facebook - Badge');}"
+		><img src="/images/fb-badge_144x44.gif" alt="Find us on Facebook" /></a> 
+   	<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fcmswire&amp;width=160&amp;connections=10&amp;stream=false&amp;header=true&amp;height=287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:287px;" allowTransparency="true"></iframe>
+    -->
+    </p>
 </div>
 				<div id="content"><!-- $page: page -->
 					<div id="featured" style="display:none;">
 	<img id="btnCloseFeatured" src="/images/ico_close_blue.gif" title="Close" alt="Close">
-	<strong>Get the Newsletter</strong><br>
-	We keep thousands of people informed each week via  
-	concise email updates. Privacy respected — 
-	we <u>never</u> give or rent your information to anyone.<br>
-		<form method="post" id="frmESub_Featured" action="http://www.aweber.com/scripts/addlead.pl" onsubmit="if(validateEmail($('txtEmlSub_Ftrd').value) == false){alert('Please enter a valid email address.'); $('txtEmlSub_Ftrd').focus(); return false;} else {if(pageTracker){pageTracker._trackPageview('/event/email-sub/featured-bar');}}">
+	<strong style="font-family:'Trebuchet MS',Trebuchet,Futura,Arial,sans-serif;">Receive
+    the Free CMSWire Newsletter</strong><br>
+	We keep thousands of people informed each week via concise updates. 
+    <br>Privacy respected — we will never share your information.<br>
+		
+<form method="post" name="frmESub_Featured" id="frmESub_Featured" action="#" onsubmit="if (validateEmail($('txtEmlSub_Ftrd').value) == false) {
+		alert('Please enter a valid email address.');
+		$('txtEmlSub_Ftrd').focus(); return false;
+		} else if (isBigProviderEmail($('txtEmlSub_Ftrd').value)) {
+		document.frmESub_Featured.action='/utils/user/signup.php?src=/about/privacy-policy.php';return true;
+		} else {document.frmESub_Featured.action='http://www.aweber.com/scripts/addlead.pl'; if(pageTracker){pageTracker._trackPageview('/event/email-sub/featured-bar'); return true;}}">
 	<input type="hidden" name="meta_adtracking" value="featuredbar">
 	<input type="hidden" name="meta_web_form_id" value="119630284">
 	<input type="hidden" name="meta_split_id" value="">
@@ -387,9 +429,10 @@
 	<input type="hidden" name="meta_message" value="1">
 	<input type="hidden" name="meta_required" value="from">
 	<input type="hidden" name="meta_forward_vars" value="1">
-	<input type="text" id="txtEmlSub_Ftrd" name="from" size="25" value="(enter your email address)" style="font-size:90%; width:175px;color:#999999;" onfocus="if(this.value=='(enter your email address)'){this.value='';}" onblur="if(this.value==''){this.value='(enter your email address)';}">
+	<input type="text" id="txtEmlSub_Ftrd" name="from" size="25" value="(enter email address)" style="font-size:110%; padding:5px; width:200px;color:#999999;" onfocus="if(this.value=='(enter email address)'){this.value='';}" onblur="if(this.value==''){this.value='(enter email address)';}">
 	<input type="submit" name="submit" value="Sign-up">
-</form><img src="http://forms.aweber.com/form/displays.htm?id=jIycbMwMTBws" alt="" style="display:none">	<div class="float_r smaller">
+</form><img src="http://forms.aweber.com/form/displays.htm?id=jIycbMwMTBws" alt="" style="display:none">
+	<div class="float_r smaller">
 	<a href="javascript:void(0)" id="lnkDejaSubed" title="Click here and we won't show this message again.">I'm already subscribed</a>
 	</div>
 </div><!-- /featured -->
@@ -408,36 +451,64 @@
 				<div id="col-right" class="col">
 	<!-- google_ad_section_start(weight=ignore) -->
 	<div class="block" style="text-align:center;border:none">
-				<strong>STAY UP TO DATE</strong><br>
-		<a href="http://feeds.feedburner.com/CMSWire" target="_blank" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/feed-click/col-right');pageTracker._trackEvent('Click - Internal', 'Col Right',  'RSS - Large');}" title="Subscribe to our RSS feed..." rel="alternate"><img src="/images/ico_feed-large-rotated.jpg" width="160" height="160" alt="Subscribe to our RSS feed..."></a><br>
-			<a href="http://feeds.feedburner.com/CMSWire" target="_blank" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/feed-click/col-right');pageTracker._trackEvent('Click - Internal', 'Col Right',  'RSS - Large');}" title="Subscribe to our RSS feed..." rel="alternate"><em>SUBSCRIBE TO OUR RSS FEED</em></a>
+		        
+        			<strong>STAY UP TO DATE</strong><br>
+			<a href="http://feeds.feedburner.com/CMSWire" target="_blank" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/feed-click/col-right');pageTracker._trackEvent('Click - Internal', 'Col Right',  'RSS - Large');}" title="Subscribe to our RSS feed..." rel="alternate"><img src="/images/ico_feed-large-rotated.jpg" width="160" height="160" alt="Subscribe to our RSS feed..."></a><br>
+				<a href="http://feeds.feedburner.com/CMSWire" target="_blank" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/feed-click/col-right');pageTracker._trackEvent('Click - Internal', 'Col Right',  'RSS - Large');}" title="Subscribe to our RSS feed..." rel="alternate"><em>SUBSCRIBE TO OUR RSS FEED</em></a>
 				<p><a href="http://feeds2.feedburner.com/CMSWire" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/feed-click/col-right');pageTracker._trackEvent('Click - Internal', 'Col Right',  'RSS - Large');}"><img src="http://feeds2.feedburner.com/~fc/CMSWire?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>
-						<p><a href="http://www.facebook.com/CMSWire" onclick="if(pageTracker){pageTracker._trackPageview('/event/out/facebook-click/col-right');pageTracker._trackEvent('Click - Internal', 'Col Right',  'Facebook - Badge');}"><img src="/images/fb-badge_144x44.gif" alt="Find us on Facebook"></a></p>
-	</div>
+			</div>
 	<div class="block">
 		<h4>Just Commented On</h4>
 		<div id="colr-commented-on"><ul class="recently-commented-05">
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/sharepoint-alternatives-atlassian-confluence-007812.php" title="Read: SharePoint Alternatives: Atlassian Confluence...">SharePoint Alternatives: Atlassian Confluence</a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/the-traditional-ba-role-is-dead-long-live-the-sharepoint-consultant-009481.php" title="Read: The Traditional BA Role is Dead, Long Live the SharePoint Consultant...">The Traditional BA Role is Dead, Long Live the SharePoint Consultant</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/document-management/autonomy-worksite-85-when-should-your-firm-upgrade-part-1-007856.php" title="Read: Autonomy WorkSite 8.5: When Should Your Firm Upgrade? Part 1...">Autonomy WorkSite 8.5: When Should Your Firm Upgrade? Part 1</a><br><em>(4 
-				comments)</em></li>
+  <li><a href="http://www.cmswire.com/cms/document-management/6-requirements-for-writing-sharepoint-requirements-009458.php" title="Read: 6 Requirements for Writing SharePoint Requirements...">6 Requirements for Writing SharePoint Requirements</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-cms/vignettes-vcm-v8-finally-made-it-006452.php" title="Read: Vignette's VCM V8 Finally Made It...">Vignette's VCM V8 Finally Made It</a><br><em>(5 
-				comments)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-20/skype-goes-beyond-the-desktop-heads-for-the-web-009462.php" title="Read: Skype Goes Beyond the Desktop, Heads for the Web...">Skype Goes Beyond the Desktop, Heads for the Web</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/document-management/the-groovier-side-of-sharepoint-workspace-2010-007766.php" title="Read: The Groovier Side of SharePoint Workspace 2010...">The Groovier Side of SharePoint Workspace 2010</a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-20/from-information-overload-to-information-breaking-point-009392.php" title="Read: From Information Overload to Information Breaking Point...">From Information Overload to Information Breaking Point</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/web-cms/web-operations-maintaining-high-traffic-websites-007885.php" title="Read: Web Operations: Maintaining High Traffic Websites...">Web Operations: Maintaining High Traffic Websites</a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/multilingual-translator-for-sharepoint-sharepoint-online-006047.php" title="Read: Multilingual Translator for SharePoint, SharePoint Online...">Multilingual Translator for SharePoint, SharePoint Online</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/what-is-sharepoint-2010-vision-and-reality-007513.php" title="Read: What is SharePoint 2010? Vision and Reality...">What is SharePoint 2010? Vision and Reality</a><br><em>(6 
-				comments)</em></li>
+  <li><a href="http://www.cmswire.com/cms/information-management/jed-cawthorne-on-the-ghosts-of-sharepoint-past-present-and-future-009448.php" title="Read: Jed Cawthorne on the Ghosts of SharePoint: Past, Present and Future...">Jed Cawthorne on the Ghosts of SharePoint: Past, Present and Future</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/enterprise-20-rollup-social-computing-is-destroying-the-enterprise-yet-solutions-arrive-in-waves--007894.php" title="Read: Enterprise 2.0 Roll-up: Social Computing is Destroying the Enterprise, Yet Solutions Arrive in Waves ...">Enterprise 2.0 Roll-up: Social Computing is Destroying the Enterprise, Yet Solutions Arrive in Waves </a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/web-cms/new-book-drupal-6-social-networking-packt-004117.php" title="Read: New Book - Drupal 6 Social Networking (packt)...">New Book - Drupal 6 Social Networking (packt)</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					4 
+					comments</em>
+				</li>
 
 </ul>
 
@@ -453,38 +524,38 @@
 		<h4>Just Published</h4>
 		<ul class="recent-articles-10">
 
-  <li><a href="http://www.cmswire.com/cms/tips-tricks/week-in-review-money-matters-sun-shines-under-oracle-cash-flows-into-open-source-007918.php" title="Read: Week in Review: Money Matters - Sun Shines Under Oracle, Cash Flows into Open Source...">Week in Review: Money Matters - Sun Shines Under Oracle, Cash Flows into Open Source</a></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/enterprise-cms-nuxeo-adds-semantic-packages-to-marketplace-009488.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: Enterprise CMS Nuxeo Adds Semantic Packages to Marketplace...">Enterprise CMS Nuxeo Adds Semantic Packages to Marketplace</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/google-docs-viewer-now-supports-microsoft-word-files--007908.php" title="Read: Google Docs Viewer Now Supports Microsoft Word Files ...">Google Docs Viewer Now Supports Microsoft Word Files </a></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/the-traditional-ba-role-is-dead-long-live-the-sharepoint-consultant-009481.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: The Traditional BA Role is Dead, Long Live the SharePoint Consultant...">The Traditional BA Role is Dead, Long Live the SharePoint Consultant</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/social-media/facebooks-open-web-presence-is-closed-to-twitter--007898.php" title="Read: Facebook's Open Web Presence is Closed to Twitter ...">Facebook's Open Web Presence is Closed to Twitter </a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/filecatalyst-speeds-file-transfers-for-mediasilo-video-management-009483.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: FileCatalyst Speeds File Transfers for MediaSilo Video Management...">FileCatalyst Speeds File Transfers for MediaSilo Video Management</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/hootsuite-updates-social-media-dashboard-with-html-5-google-analytics-007904.php" title="Read: Hootsuite Updates Social Media Dashboard With HTML 5, Google Analytics...">Hootsuite Updates Social Media Dashboard With HTML 5, Google Analytics</a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/microsoft-offers-cash-to-drop-salesforce-seibel-deploy-dynamics-crm-online-009482.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: Microsoft Offers Cash to Drop Salesforce, Seibel &amp; Deploy Dynamics CRM Online...">Microsoft Offers Cash to Drop Salesforce, Seibel &amp; Deploy Dynamics CRM Online</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-cms/jboss-enterprise-portal-adapts-exo-wcm-collaboration-modules-007905.php" title="Read: JBoss Enterprise Portal Adapts eXo WCM, Collaboration Modules...">JBoss Enterprise Portal Adapts eXo WCM, Collaboration Modules</a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/growing-brand-management-on-facebook-with-webtrends-009485.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: Growing Brand Management on Facebook with Webtrends...">Growing Brand Management on Facebook with Webtrends</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-cms/oracle-profits-jump-25-in-q4-sun-is-seen-as-key-007903.php" title="Read: Oracle Profits Jump 25% In Q4, Sun Is Seen As Key...">Oracle Profits Jump 25% In Q4, Sun Is Seen As Key</a></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-20/post-bullying-salesforce-frees-up-chatter--009484.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: Post Bullying, Salesforce Frees Up Chatter ...">Post Bullying, Salesforce Frees Up Chatter </a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/google-chrome-directly-incorporates-adobe-flash-007902.php" title="Read: Google Chrome Directly Incorporates Adobe Flash...">Google Chrome Directly Incorporates Adobe Flash</a></li>
+  <li><a href="http://www.cmswire.com/cms/document-management/6-requirements-for-writing-sharepoint-requirements-009458.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: 6 Requirements for Writing SharePoint Requirements...">6 Requirements for Writing SharePoint Requirements</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/web-engagement/facebook-unveils-open-graph-search-engine-sorry-google-007900.php" title="Read: Facebook Unveils Open Graph Search Engine, Sorry Google...">Facebook Unveils Open Graph Search Engine, Sorry Google</a></li>
+  <li><a href="http://www.cmswire.com/cms/document-management/document-management-rollup-google-wins-gov-email-contract-laserfiche-and-salesforce-teamup-009478.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: Document Management Roll-up: Google Wins Gov Email Contract, Laserfiche and Salesforce Team-up...">Document Management Roll-up: Google Wins Gov Email Contract, Laserfiche and Salesforce Team-up</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-cms/managing-your-unstructured-adhoc-processes-in-outlook-office-and-sharepoint-007872.php" title="Read: Managing Your Unstructured AdHoc Processes in Outlook, Office and SharePoint...">Managing Your Unstructured AdHoc Processes in Outlook, Office and SharePoint</a></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-collaboration/mobile-enterprise-mobile-devices-to-surpass-pcs-009466.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: Mobile Enterprise: Mobile Devices to Surpass PCs...">Mobile Enterprise: Mobile Devices to Surpass PCs</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/unsearch-search-emails-across-corporate-networks--007897.php" title="Read: Unsearch: Search E-mails Across Corporate Networks ...">Unsearch: Search E-mails Across Corporate Networks </a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/what-listening-to-ten-year-olds-defining-cloud-computing-teaches-us-about-social-business-009480.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (10)', this.innerHTML);}" title="Read: What Listening to Ten Year Olds Defining Cloud Computing Teaches Us About Social Business...">What Listening to Ten Year Olds Defining Cloud Computing Teaches Us About Social Business</a></li>
 
 </ul>
 <ul class="recent-articles-5">
 
-  <li><a href="http://www.cmswire.com/cms/tips-tricks/week-in-review-money-matters-sun-shines-under-oracle-cash-flows-into-open-source-007918.php" title="Read: Week in Review: Money Matters - Sun Shines Under Oracle, Cash Flows into Open Source...">Week in Review: Money Matters - Sun Shines Under Oracle, Cash Flows into Open Source</a></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/enterprise-cms-nuxeo-adds-semantic-packages-to-marketplace-009488.php" title="Read: Enterprise CMS Nuxeo Adds Semantic Packages to Marketplace..." onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (5)', this.innerHTML);}">Enterprise CMS Nuxeo Adds Semantic Packages to Marketplace</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/google-docs-viewer-now-supports-microsoft-word-files--007908.php" title="Read: Google Docs Viewer Now Supports Microsoft Word Files ...">Google Docs Viewer Now Supports Microsoft Word Files </a></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/the-traditional-ba-role-is-dead-long-live-the-sharepoint-consultant-009481.php" title="Read: The Traditional BA Role is Dead, Long Live the SharePoint Consultant..." onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (5)', this.innerHTML);}">The Traditional BA Role is Dead, Long Live the SharePoint Consultant</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/social-media/facebooks-open-web-presence-is-closed-to-twitter--007898.php" title="Read: Facebook's Open Web Presence is Closed to Twitter ...">Facebook's Open Web Presence is Closed to Twitter </a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/filecatalyst-speeds-file-transfers-for-mediasilo-video-management-009483.php" title="Read: FileCatalyst Speeds File Transfers for MediaSilo Video Management..." onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (5)', this.innerHTML);}">FileCatalyst Speeds File Transfers for MediaSilo Video Management</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/hootsuite-updates-social-media-dashboard-with-html-5-google-analytics-007904.php" title="Read: Hootsuite Updates Social Media Dashboard With HTML 5, Google Analytics...">Hootsuite Updates Social Media Dashboard With HTML 5, Google Analytics</a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/microsoft-offers-cash-to-drop-salesforce-seibel-deploy-dynamics-crm-online-009482.php" title="Read: Microsoft Offers Cash to Drop Salesforce, Seibel &amp; Deploy Dynamics CRM Online..." onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (5)', this.innerHTML);}">Microsoft Offers Cash to Drop Salesforce, Seibel &amp; Deploy Dynamics CRM Online</a></li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-cms/jboss-enterprise-portal-adapts-exo-wcm-collaboration-modules-007905.php" title="Read: JBoss Enterprise Portal Adapts eXo WCM, Collaboration Modules...">JBoss Enterprise Portal Adapts eXo WCM, Collaboration Modules</a></li>
+  <li><a href="http://www.cmswire.com/cms/web-engagement/growing-brand-management-on-facebook-with-webtrends-009485.php" title="Read: Growing Brand Management on Facebook with Webtrends..." onclick="if(pageTracker){pageTracker._trackEvent('Click - Internal', 'Recent Posts (5)', this.innerHTML);}">Growing Brand Management on Facebook with Webtrends</a></li>
 
 </ul>
 	</div>
@@ -499,6 +570,7 @@
 		<li><a href="http://www.cmswire.com/cms/enterprise-20/sharepoint-2010-review-the-new-6-pillars-of-sharepoint-007503.php" title="SharePoint 2010">SharePoint Review</a></li>
 				<li><a href="http://www.cylogy.com/" title="Sitecore Consultant">Sitecore Consultant</a></li>
 		<li><a href="http://www.cmswire.com/cms/document-management/" title="Document Management Software">Document Management Software</a></li>
+		<li><a href="http://www.cmswire.com/cms/web-publishing/cms-review-squarespace-saas-web-publishing-blogging-platform-003835.php" title="Squarespace CMS Review">Squarespace Review</a></li>
 	</ul>	</div>
 	<br>
 		<div class="block"><script type="text/javascript">	GA_googleFillSlot("Side-Button-02"); </script></div>
@@ -506,9 +578,9 @@
 </div>
 				<!-- /col_right -->
 				<div class="spacer">&nbsp;</div>
-				<div style="text-align:center;margin-top:15px;">
+				<div style="display:none;text-align:center;margin-top:15px;">
 					<script type="text/javascript">
-						GA_googleFillSlot("Sitewide-Bottom_728x90");
+						//GA_googleFillSlot("Sitewide-Bottom_728x90");
 					</script>
 				</div>
 				<div style="clear:both;">&nbsp;</div>
@@ -523,9 +595,9 @@
 			<div class="spacer" style="height:30px;">&nbsp;</div>
 			<div class="col">
 				<h4>About Us</h4>
-				<p>CMSWire is a niche tech publication from <a href="http://www.simplermedia.com/" title="Go to Simpler Media Group..." target="_blank">Simpler Media Group</a>. 
-					We talk to a specific audience of web practitioners, information managers and 
-					online marketers. <a href="/about/" title="Read more about us...">Read more</a> about us
+                <p>CMSWire is a popular web magazine published by <a href="http://www.simplermedia.com/" title="Go to Simpler Media Group..." target="_blank">Simpler Media Group</a>. 
+                   We focus on intelligent information management, modern enterprise collaboration 
+                   and effective online engagement. <a href="/about/" title="Read more about us...">Read more</a> about us
 					or learn how to  
 					<a href="http://www.simplermedia.com/mediakit/v1-00/titles/cmswire/" title="Advertising opportunities and prices..." target="_blank">advertise here</a>.</p>
 				<br><br>
@@ -537,7 +609,13 @@
 						<a href="http://twitter.com/cmswire" title="Follow us on Twitter..." onclick="if(pageTracker){pageTracker._trackPageview('/event/out/twitter/col-click');}" rel="me">Follow Via Twitter</a></li>
 						<li><img src="/images/ico-cw_newsletter_16x16.gif" alt="Tune-in via Email" align="middle" width="16" height="16">
 							<span class="match-link">Join Our Newsletter</span>
-							<form method="post" id="frmESub_Footer" action="http://www.aweber.com/scripts/addlead.pl" onsubmit="if(validateEmail($('txtEmlSub_Footer').value) == false){alert('Please enter a valid email address.'); $('txtEmlSub_Footer').focus(); return false;} else {if(pageTracker){pageTracker._trackPageview('/event/email-sub/footer');}}">
+							
+<form method="post" id="frmESub_Footer" name="frmESub_Footer" action="#" onsubmit="if(validateEmail($('txtEmlSub_Footer').value) == false){
+		alert('Please enter a valid email address.'); 
+		$('txtEmlSub_Footer').focus(); return false;
+		} else if (isBigProviderEmail($('txtEmlSub_Footer').value)) {
+		document.frmESub_Footer.action='/utils/user/signup.php?src=/about/privacy-policy.php';return true; 
+		} else {document.frmESub_Footer.action='http://www.aweber.com/scripts/addlead.pl'; if(pageTracker){pageTracker._trackPageview('/event/email-sub/footer');return true;}}">
 	<input type="hidden" name="meta_adtracking" value="Footer">
 	<input type="hidden" name="meta_web_form_id" value="554882">
 	<input type="hidden" name="meta_split_id" value="">
@@ -549,7 +627,8 @@
 	<input type="hidden" name="meta_forward_vars" value="1">
 	<input type="text" id="txtEmlSub_Footer" name="from" size="20" value="(email address)" style="font-size:90%; width:145px;color:#666666;" onfocus="if(this.value=='(email address)'){this.value='';}" onblur="if(this.value==''){this.value='(email address)';}">
 	<input type="submit" name="submit" value="Subscribe">
-</form>						</li>
+</form>
+						</li>
 				</ul>
 			</div>
 			<div class="col" id="footer-recent-articles">
@@ -558,55 +637,53 @@
   <ul>
 	
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-cms/installing-sharepoint-2010-on-windows-7-005919.php" title="Installing SharePoint 2010 on Windows 7 (1131, 4888)">Installing SharePoint 2010 on Windows 7</a> 
+		<li><a href="http://www.cmswire.com/cms/enterprise-20/first-look-are-you-ready-for-chrome-os-009461.php" title="First Look: Are You Ready for Chrome OS? (3641, 3639)">First Look: Are You Ready for Chrome OS?</a> 
+				
+				</li>
+		
+		
+        
+	
+    	
+		
+		<li><a href="http://www.cmswire.com/cms/enterprise-20/what-is-sharepoint-2010-vision-and-reality-007513.php" title="What is SharePoint 2010? Vision and Reality (2238, 8664)">What is SharePoint 2010? Vision and Reality</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					9 
+					17 
 					comments</em>
 				
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-20/google-upgrades-gmail-app-for-ipad-007865.php" title="Google Upgrades Gmail App For iPad (903, 903)">Google Upgrades Gmail App For iPad</a> 
+		<li><a href="http://www.cmswire.com/cms/enterprise-20/silverlight-50-plays-nice-on-the-ipad-009436.php" title="Silverlight 5.0 Plays Nice on the iPad (1743, 1743)">Silverlight 5.0 Plays Nice on the iPad</a> 
 				
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/document-management/overview-sharepoint-2010-metadata-and-taxonomy-management-006015.php" title="Overview: SharePoint 2010 Metadata and Taxonomy Management (759, 3200)">Overview: SharePoint 2010 Metadata and Taxonomy Management</a> 
+		<li><a href="http://www.cmswire.com/cms/web-cms/wcm-is-dead-long-live-wcm-gilbanebston-009418.php" title="WCM is Dead, Long Live WCM #gilbanebston (932, 932)">WCM is Dead, Long Live WCM #gilbanebston</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					7 
+					3 
 					comments</em>
 				
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-20/what-is-sharepoint-2010-vision-and-reality-007513.php" title="What is SharePoint 2010? Vision and Reality (758, 5036)">What is SharePoint 2010? Vision and Reality</a> 
-				
-					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					6 
-					comments</em>
-				
-				</li>
-		
-		
-	
-		
-		<li><a href="http://www.cmswire.com/cms/mobile/mobile-enterprise-apples-ios4-is-watching-you-007867.php" title="Mobile Enterprise: Apple's iOS4 is Watching You (619, 619)">Mobile Enterprise: Apple's iOS4 is Watching You</a> 
-				
-				</li>
-		
-		
-	
-		
-		<li><a href="http://www.cmswire.com/cms/web-engagement/goodbye-corporate-website-hello-web-presence-management-framework-007825.php" title="Goodbye Corporate Website – Hello Web Presence Management Framework? (606, 1308)">Goodbye Corporate Website – Hello Web Presence Management Framework?</a> 
+		<li><a href="http://www.cmswire.com/cms/information-management/sharepoint-an-intranet-manager-perspective-009455.php" title="SharePoint: An Intranet Manager Perspective (929, 928)">SharePoint: An Intranet Manager Perspective</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
 					2 
@@ -615,29 +692,59 @@
 				</li>
 		
 		
+        
 	
+    	
 		
-		<li><a href="http://www.cmswire.com/cms/enterprise-20/ms-project-2010-goodbye-portfolio-server-hello-sharepoint-005536.php" title="MS Project 2010: Goodbye Portfolio Server, Hello SharePoint (577, 2579)">MS Project 2010: Goodbye Portfolio Server, Hello SharePoint</a> 
+		<li><a href="http://www.cmswire.com/cms/document-management/overview-sharepoint-2010-metadata-and-taxonomy-management-006015.php" title="Overview: SharePoint 2010 Metadata and Taxonomy Management (877, 4010)">Overview: SharePoint 2010 Metadata and Taxonomy Management</a> 
 				
 					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
-					8 
+					9 
 					comments</em>
 				
 				</li>
 		
 		
+        
 	
-		
+    	
 	
+    	
 		
+		<li><a href="http://www.cmswire.com/cms/web-engagement/content-strategy-what-will-be-hot-in-2011-009456.php" title="Content Strategy: What Will Be Hot in 2011 (762, 761)">Content Strategy: What Will Be Hot in 2011</a> 
+				
+				</li>
+		
+		
+        
 	
+    	
 		
+        
 	
+    	
 		
+        
 	
+    	
 		
+        
 	
+    	
 		
+        
+	
+    	
+		
+        
+	
+    	
+		
+        
+	
+    	
+		
+        
 	
   </ul>
 </div>			</div>
@@ -646,26 +753,54 @@
 				<div id="footer-commented-on">
 				<ul class="recently-commented-05">
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/sharepoint-alternatives-atlassian-confluence-007812.php" title="Read: SharePoint Alternatives: Atlassian Confluence...">SharePoint Alternatives: Atlassian Confluence</a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/the-traditional-ba-role-is-dead-long-live-the-sharepoint-consultant-009481.php" title="Read: The Traditional BA Role is Dead, Long Live the SharePoint Consultant...">The Traditional BA Role is Dead, Long Live the SharePoint Consultant</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/document-management/autonomy-worksite-85-when-should-your-firm-upgrade-part-1-007856.php" title="Read: Autonomy WorkSite 8.5: When Should Your Firm Upgrade? Part 1...">Autonomy WorkSite 8.5: When Should Your Firm Upgrade? Part 1</a><br><em>(4 
-				comments)</em></li>
+  <li><a href="http://www.cmswire.com/cms/document-management/6-requirements-for-writing-sharepoint-requirements-009458.php" title="Read: 6 Requirements for Writing SharePoint Requirements...">6 Requirements for Writing SharePoint Requirements</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-cms/vignettes-vcm-v8-finally-made-it-006452.php" title="Read: Vignette's VCM V8 Finally Made It...">Vignette's VCM V8 Finally Made It</a><br><em>(5 
-				comments)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-20/skype-goes-beyond-the-desktop-heads-for-the-web-009462.php" title="Read: Skype Goes Beyond the Desktop, Heads for the Web...">Skype Goes Beyond the Desktop, Heads for the Web</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/document-management/the-groovier-side-of-sharepoint-workspace-2010-007766.php" title="Read: The Groovier Side of SharePoint Workspace 2010...">The Groovier Side of SharePoint Workspace 2010</a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-20/from-information-overload-to-information-breaking-point-009392.php" title="Read: From Information Overload to Information Breaking Point...">From Information Overload to Information Breaking Point</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/web-cms/web-operations-maintaining-high-traffic-websites-007885.php" title="Read: Web Operations: Maintaining High Traffic Websites...">Web Operations: Maintaining High Traffic Websites</a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/enterprise-cms/multilingual-translator-for-sharepoint-sharepoint-online-006047.php" title="Read: Multilingual Translator for SharePoint, SharePoint Online...">Multilingual Translator for SharePoint, SharePoint Online</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/what-is-sharepoint-2010-vision-and-reality-007513.php" title="Read: What is SharePoint 2010? Vision and Reality...">What is SharePoint 2010? Vision and Reality</a><br><em>(6 
-				comments)</em></li>
+  <li><a href="http://www.cmswire.com/cms/information-management/jed-cawthorne-on-the-ghosts-of-sharepoint-past-present-and-future-009448.php" title="Read: Jed Cawthorne on the Ghosts of SharePoint: Past, Present and Future...">Jed Cawthorne on the Ghosts of SharePoint: Past, Present and Future</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					1 
+					comment</em>
+				</li>
 
-  <li><a href="http://www.cmswire.com/cms/enterprise-20/enterprise-20-rollup-social-computing-is-destroying-the-enterprise-yet-solutions-arrive-in-waves--007894.php" title="Read: Enterprise 2.0 Roll-up: Social Computing is Destroying the Enterprise, Yet Solutions Arrive in Waves ...">Enterprise 2.0 Roll-up: Social Computing is Destroying the Enterprise, Yet Solutions Arrive in Waves </a><br><em>(1 
-				comment)</em></li>
+  <li><a href="http://www.cmswire.com/cms/web-cms/new-book-drupal-6-social-networking-packt-004117.php" title="Read: New Book - Drupal 6 Social Networking (packt)...">New Book - Drupal 6 Social Networking (packt)</a>
+                
+					<br><em><img src="http://www.cmswire.com/images/ico_comments.gif" alt=""> 
+					4 
+					comments</em>
+				</li>
 
 </ul>
 
@@ -681,7 +816,7 @@
 		<p>Copyright © 2003-2010 <a href="http://www.simplermedia.com" rel="me" onclick="if(pageTracker){pageTracker._trackEvent('Click - Exit', 'Footer',  'SimplerMedia.com');}" title="Go to Simpler Media Group...">Simpler Media Group, Inc.</a>
 		 All rights reserved.
 		<a href="http://www.cmswire.com/about/privacy-policy.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Exit', 'Footer',  'Privacy Policy');}">Privacy Policy</a>.
-		<a href="http://www.simplermedia.com/mediakit/v1-00/titles/cmswire/legal.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Exit', 'Footer',  'Terms of Use');}" target="_blank">Terms of Use</a>. v2.04.32.304 
+		<a href="http://www.simplermedia.com/mediakit/v1-00/titles/cmswire/legal.php" onclick="if(pageTracker){pageTracker._trackEvent('Click - Exit', 'Footer',  'Terms of Use');}" target="_blank">Terms of Use</a>. v2.05.00.351 
 		<span id="scratch"></span>
 		<a onclick="showPoll();">[X]</a>
 		</p>
@@ -689,8 +824,8 @@
 </div>
 <div id="poll-container" style="display:none;">
 	<div id="poll-content" align="center">
-	  <p>Share your thoughts — our polls explore industry trends.</p>
-	  <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/3016190.js"></script>
+	  <p>CMSWire Poll — help us explore industry trends.</p>
+	  <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/4113352.js"></script>
 	</div>
 </div>
 <script type="text/javascript">
@@ -701,7 +836,7 @@
 				{ count++; }
 		  });
 		if(count == 1) {	
-		  jQuery('#poll-content').dialog({title: 'Official CMSWire Poll', modal:true, width:555,height:580});
+		  jQuery('#poll-content').dialog({title: '&nbsp;', modal:true,width:540,height:550,zIndex:9999});
 		}
 	} //jQuery(document).ready(function() {showPoll();});
 </script>
@@ -709,7 +844,13 @@
 		<h4 style="color:#0066FF;font-size:1.6em;margin:2px 0 0 0;">Free Industry Newsletter</h4>
 		<p>We keep thousands of people informed each week via concise email updates. Privacy respected — 
 			we <u>never</u> give or rent your information to anyone.</p>
-		<form method="post" id="frmESub_PopUp" action="http://www.aweber.com/scripts/addlead.pl" onsubmit="if(validateEmail($('txtEmlSub_PopUp').value) == false){alert('Please enter a valid email address.'); $('txtEmlSub_PopUp').focus(); return false;} else {if(pageTracker){pageTracker._trackPageview('/event/email-sub/pop-up');}}">
+		
+<form method="post" id="frmESub_PopUp" name="frmESub_PopUp" action="#" onsubmit="if(validateEmail($('txtEmlSub_PopUp').value) == false) {
+		alert('Please enter a valid email address.'); 
+		$('txtEmlSub_PopUp').focus(); return false;
+		} else if (isBigProviderEmail($('txtEmlSub_PopUp').value)) {
+		document.frmESub_PopUp.action='/utils/user/signup.php?src=/about/privacy-policy.php';return true;
+		} else {document.frmESub_PopUp.action='http://www.aweber.com/scripts/addlead.pl'; if(pageTracker){pageTracker._trackPageview('/event/email-sub/pop-up');return true;}}">
 	<input type="hidden" name="meta_adtracking" value="PopUp">
 	<input type="hidden" name="meta_web_form_id" value="554886">
 	<input type="hidden" name="meta_split_id" value="">
@@ -724,7 +865,8 @@
 	<div style="text-align:center;margin:10px 0px 1px 0px">
 		<input type="submit" value="Subscribe" style="font-size:1.75em;">
 	</div>
-</form><img id="img_AWeberTracker-PopUp" src="" alt=""></div>
+</form><img id="img_AWeberTracker-PopUp" src="" alt="">
+</div>
 <div id="dv_addEvent" style="display:none;"></div>
 <script type="text/javascript">
   GA_googleFillSlot("Popup-Poll");
@@ -736,17 +878,40 @@
 <script type="text/javascript">
 	var pageTracker = _gat._getTracker("UA-202362-1");
 	pageTracker._trackPageview();
-	pageTracker._trackEvent("PageViewByAuthor", (typeof(contentAuthor)!="undefined")?contentAuthor:"System", location.pathname);
-</script>
-<script type="text/javascript" src="/shared/js/common.js?v=100610"></script>
+	pageTracker._trackEvent("PageViewByAuthor", (typeof(contentAuthor) != "undefined") ? contentAuthor : "System", location.pathname); 
+</script> 
+<script type="text/javascript" src="/shared/js/common.js?v=100923"></script>
 <script type="text/javascript">
+	GA_googleFillSlot("Popup-Newsletter");
+</script>
+<script type="text/javascript">
+/*
 (function() {
 	var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
 	s.type = 'text/javascript';
 	s.async = true;
 	s.src = 'http://tweetboard.com/tb.js?v=1.0&amp;user=cmswire';
 	s1.parentNode.insertBefore(s, s1);
-	})();
+	})(); 
+*/
+</script>
+<script type="text/javascript">
+var _sf_async_config={uid:9908,domain:"cmswire.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
 </script>
 <script type="text/javascript" src="http://analytics.aweber.com/js/awt_analytics.js?id=7tsm"></script>
 
@@ -754,4 +919,5 @@
 	<!--  /Footer -->
 	<br clear="all">
 	
-</body></html>
+
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
