@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528185614id_/http%3A//billmatrix.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208024818id_/http%3A//billmatrix.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Fiserv - The Payment Experts® - Privacy Policy
 
