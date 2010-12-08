@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcticmonkeys.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222095913id_/http%3A//www.arcticmonkeys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcticmonkeys.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208213716id_/http%3A//www.arcticmonkeys.com/privacy.php) for the most accurate reproduction.*
 
 # Arctic Monkeys : Privacy Policy
 
