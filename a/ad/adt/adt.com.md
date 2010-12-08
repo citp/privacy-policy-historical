@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508230941id_/http%3A//www.adt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208111426id_/http%3A//www.adt.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -62,7 +62,7 @@ Your data is submitted to ADT Security Services, Inc. (“ADT”) and is hosted 
 
 You are responsible for ensuring that the personal information you have submitted or access through the Site is accurate and complete.  You may change the information we have on file for you by accessing My Account and entering any new or different details.  If you have included payment details or credit card information, you may alter these via the appropriate link on your My Account page.  Please contact us immediately if you notice changes to your profile that you did not request or if you notice any suspicious activity concerning your account.
 
-If you have questions or concerns regarding this Privacy Statement or about privacy at our Site, you should first contact ADT by sending an email to [privacy@adt.com](mailto:privacy@adt.com) or calling ADT at 1 (800) ADT-ASAP (800-238-2727) and ADT will try to resolve it.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: [http://watchdog.truste.com/pvr.phpp?page=complaint&url](http://watchdog.truste.com/pvr.phpp?page=complaint&url).  TRUSTe will then serve as a liaison with ADT to help resolve your concerns. 
+If you have questions or concerns regarding this Privacy Statement or about privacy at our Site, you should first contact ADT by sending an email to [privacy@adt.com](mailto:privacy@adt.com) or calling ADT at 1 (800) ADT-ASAP (800-238-2727) and ADT will try to resolve it.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: <http://watchdog.truste.com/pvr.php?page=complaint>.  TRUSTe will then serve as a liaison with ADT to help resolve your concerns. 
 
 TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because ADT wants to demonstrate its commitment to your privacy, ADT has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
