@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302185106id_/http%3A//www.flashbay.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208024452id_/http%3A//www.flashbay.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Promotional USB Flash Drives and Custom Memory Sticks
 
@@ -16,7 +16,7 @@ Information from Other Sources: For reasons such as improving personalization of
 
 What About Cookies? Cookies are alphanumeric identifiers that we transfer to your computers hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as automatic login and permanent shopping carts for storage of items in your Shopping Cart between visits. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of FlashBays coolest features, and we recommend that you leave them turned on. 
 
-Does FlashBay Share the Information It Receives? Information about our customers is an important paart of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries FlashBay controls and as described below. 
+Does FlashBay Share the Information It Receives? Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries FlashBay controls and as described below. 
 
 Affiliated Businesses We Do Not Control: We work closely with our affiliated businesses. In some cases, these businesses operate stores at FlashBay or sell offerings to you at FlashBay. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when another business is involved in your transactions, and we share customer information related to those transactions with that business. 
 
