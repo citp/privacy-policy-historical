@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preferredhotelgroup.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626031136id_/http%3A//www.preferredhotelgroup.com/PHG/privacy_policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preferredhotelgroup.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208185334id_/http%3A//preferredhotelgroup.com/PHG/privacy_policy/index.aspx) for the most accurate reproduction.*
 
 # Preferred Hotel Group - Privacy Policy
 
