@@ -1,37 +1,77 @@
-> *The following text is extracted and transformed from the mindjolt.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127091343id_/http%3A//www.mindjolt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindjolt.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208015645id_/http%3A//www.mindjolt.com/privacy.html) for the most accurate reproduction.*
 
-# Issues with games not loading
+# Privacy Policy
 
-MindJolt's Privacy Policy.
+_Effective Date: **March 2, 2010**_
 
-Date of last revision: December 20, 2009.
+**_Privacy Policy_**
 
-MindJolt is committed to providing an entertaining, fun and educational service. mindjolt.com is a property of MindJolt, Inc.
+MindJolt, Inc. provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our website http://www.mindjolt.com and from users who access MindJolt through various Social Networking Sites (either, the " ** _Services_** "). This Privacy Policy applies only to information that you provide to us (or permit Social Networking Sites to provide us) through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the primary access points to the Service. You are advised to consult this policy regularly for any changes.
 
-MindJolt respects the privacy concerns of visitors to mindjolt.com and its subdomains. For example, we do not ask visitors to disclose more personal information than is necessary for them to participate in a particular activity.
+By using our Services you are consenting to our Processing of your information as set forth in this Privacy Policy now and as amended by us. " ** _Processing_** " means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing and deleting, using, combining and disclosing information and transferring it to the United States and internationally.
 
-Information we collect:
+**Information Collection and Use: Personally Identifiable Information**
 
-MindJolt obtains basic information upon registration sufficient to allow MindJolt to establish and manage your account, and we use this information for this purpose only. We may also log IP addresses and/or drop "cookies" to prevent abuse of our website and/or to enhance services, such as retaining levels or scores achieved for particular games. In addition, the social networking sites which MindJolt affiliates with do collect certain information, such as name you will display to other users, your gender, age, country, and friend lists for displaying your game scores and results to friends.
+  * In the course of using the Services, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you (" ** _Personal Information_** "). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide our Services and administer your inquiries. For example, if you register with us through the Services as a registered user or when you choose to create your own profile webpage we will ask you for Personal Information. 
+  * We also collect the other information that you provide if you register and or personalize your profile webpage (e.g., without limitation, birthday, gender, zip code (on its own) and individual preferences) (" ** _Non-Identifying Information_** "). 
+  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Services, complete your transactions and administer your inquiries. 
+  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). 
+  * We also use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to contact you with MindJolt newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See " **Changing or Deleting Information,** " below.) 
 
-How we use the information:
 
-We do not retain any personal information beyond the time it is needed. We encrypt all passwords using a one way hash. We may use information to ensure that users are in compliance with our terms. Users may authorize and receive email notifications related to MindJolt services, or authorize MindJolt to send "invite" emails to their "friends." MindJolt, Inc. may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with MindJolt's property, visitors, or anyone else that could be harmed by such activities. MindJolt also uses gender, age and country information to provide targeted advertising relevant to users. As indicated above, MindJolt may uses "friend" lists to display your game scores and results to your friends.
 
-We may sometimes use non-personally identifiable information, including "cookies," that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services. We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
+__Log Data__. When you use the Services, whether as a registered user or a non-registered user, for example in accessing our Services through a Social Networking Site, (any of these, a " ** _MindJolt User_** "), our servers automatically record information that your browser sends whenever you visit a website (" ** _Log Data_** "). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to the Service, pages of the websites involved in the Service that you visit, the time spent on those pages, information you search for, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services and for the Service's technical administration, to increase the functionality and user-friendliness of our Services, and to better tailor the Services to our visitors' needs. For example, some of this information is collected so that when you use our Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Service meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
-Collection of Information and Third-Party Sites and Sponsors:
+**Cookies**
 
-We do not disclose personally identifiable information of users to third parties. We use third-party advertising companies to serve ads when you visit our Web site. These companies and MindJolt, Inc. may use information such as gender, age and country information (but not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Third parties and or MindJolt may be placing and reading "cookies" on your browser, or using web beacons to collect information, in the course of ads being served, or to provide you with enhanced game play and services. We may also share the anonymous information that we collect from you with our business partners or clients so that they may improve their services. We may use anonymous information that we collect from you to improve our services. You may manage your "cookies" via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: http://www.networkadvertising.org/optout_nonppii.asp
+Like many websites, our Service uses "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do not link the information we store in cookies to any Personal Information you submit while using our Services.
 
-Information that is reasonably necessary:
+We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins. Second, we utilize session ID cookies to enable certain features of the Services in order to better understand how you interact with the Services and to monitor aggregate usage by MindJolt Users and web traffic routing. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Service may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the website or all functionality of our Services.
 
-MindJolt does not require users to disclose more information than is reasonably necessary to participate in the activity as a condition of participation, although the social networking sites that MindJolt affiliates with may sometimes collect personal information regarding their users, and they may share portions of that information with MindJolt.
+**Tell-A-Friend**
 
-Security:
+If you choose to use our referral services to tell a friend about our Services, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our website and try the Services. MindJolt does not store this information for the sole purpose of sending this one-time email.
 
-We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. No website can absolutely guarantee the security of such information, but MindJolt uses current security software and devices to provide attempt to provide reasonable security for your information.
+**Information Sharing and Disclosure**
 
-Changes to this Privacy Policy:
+__MindJolt Registered Users__. If you register through the Services and submit your Personal Information to create a profile webpage, other registered users will see your "User Name." (" ** _Subscriber Identifier_** "). You can choose what other Personal Information you provide as part of your profile (" ** _Other Subscriber Information_** ") and in some cases you can choose whether to share that information publicly on through the Services by making selections via the "user preferences" section of your profile webpage. Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with MindJolt Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your "User Name," since that would allow others to identify you. 
 
-This Privacy Policy is part of the MindJolt main Terms and Conditions which you agree to by accessing the mindjolt.com website and/or services. You agree that MindJolt, Inc. may change this Privacy Policy and the main MindJolt Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.mindjolt.com/privacy.html. Our contact email for questions is privacyterms [at] mindjolt.com.
+_Aggregate Information and Non-Identifying Information_. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+
+__Service Providers__. We may employ third party companies and individuals to facilitate our services, to provide our services on our behalf, to perform services related to our Services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the website features) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+__Social Networking Sites__. We may share the information in your MindJolt account profile (including your Personal Information) with the Social Networking Sites you have linked to your MindJolt account to provide you with enhanced services. These third parties have access to your Personal Information only for this purpose (unless they have received your Personal Information independently of the MindJolt service) and are obligated not to disclose or use it for any other purpose. 
+
+__Compliance with Laws and Law Enforcement__. MindJolt cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of MindJolt or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. 
+
+__Business Transfers__. MindJolt may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+
+**Changing or Deleting Your Information**
+
+All registered MindJolt users may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+
+**Security**
+
+MindJolt is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on our website in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+**International Transfer**
+
+Your information may be transferred to -- and maintained on -- computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, MindJolt transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Our Policy Toward Children**
+
+These Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacyterms@mindjolt.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+**Phishing**
+
+Identity theft and the practice currently known as "phishing" are of great concern to MindJolt. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+
+**Links to Other Sites**
+
+Our Services may provide links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, please contact us at privacyterms@mindjolt.com
