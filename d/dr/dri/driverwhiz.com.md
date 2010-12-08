@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414022631id_/http%3A//driverwhiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208211652id_/https%3A//driverwhiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Whiz
 
@@ -8,7 +8,7 @@ Driver Whiz is very serious about protecting your privacy. We've explained our p
 
 In summary, if we collect any information from you, we will not give it to any other website without your permission. We do not collect information from minors and nor will we sell your information to any website for any reason. If you have further questions, please contact us at the page below:
 
-**[http://driverwhiz.com/contact](https://web.archive.org/web/20100414022631id_/http%3A//driverwhiz.com/contact)**
+**[http://driverwhiz.com/contact](https://web.archive.org/web/20101208211652id_/https%3A//driverwhiz.com/contact)**
 
 ## Information Collected
 
