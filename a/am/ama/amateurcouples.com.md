@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurcouples.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114181004id_/http%3A//www.amateurcouples.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurcouples.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208070500id_/http%3A//amateurcouples.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
