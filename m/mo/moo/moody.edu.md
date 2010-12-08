@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608131856id_/http%3A//www.moody.edu/edu_MainPage.aspx%3Fid%3D21774) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208033659id_/http%3A//www.moody.edu/edu_MainPage.aspx%3Fid%3D21774) for the most accurate reproduction.*
 
 # Window | Title
 
-The following is a statement of the Moody Bible Institute's (MBI) general policies for the use of visitor information collected through our Websites. Some areas may have specific policies regarding the privacy of user-provided information and may contain exceptions to this statement. Consult the statement posted under that area's webpage for the appropriate information.
+The following is a statement of Moody Bible Institute's (MBI) general policies for the use of visitor information collected through our websites. Some areas may have specific policies regarding the privacy of user-provided information and may contain exceptions to this statement. Consult the statement posted under that area's Web page for the appropriate information.
 
 ## Our Commitment to Privacy
 
@@ -10,14 +10,14 @@ Your privacy is important to us. To better protect your privacy, we provide this
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on Moody Bible Institute's website, unless otherwise posted. On some pages, you may order products, register for conferences, make requests, and register/subscribe to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on Moody Bible Institute's website, unless otherwise posted. On some pages, you may order products, register for conferences, make requests and register/subscribe to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
-  * Email address
+  * E-mail address
   * Phone number
-  * Credit/Debit Card information
-  * Radio Station call letters
+  * Credit/debit card information
+  * Radio station call letters
 
 
 
@@ -27,27 +27,27 @@ On some pages you may submit information about other people. For example, if you
   * Relation (if any)
   * Address
   * Phone number
-  * Email address
+  * E-mail address
 
 
 
-Additionally, we collect certain information in our server log files, whether or not you send us a request to help us maintain and improve the performance of our web servers. This information includes the IP address, type of browser, the page you were referred from, the page you are visiting, and the time of the visit. We also collect the same information when you receive an error page. No personal information is contained in these logs. We do use statistical software to analyze our logs to obtain aggregate values on how many times a page is viewed, total number of visitors by country, browser popularity, and other similar totals.
+Additionally, we collect certain information in our server log files, whether or not you send us a request to help us maintain and improve the performance of our web servers. This information includes the IP address, type of browser, the page you were referred from, the page you are visiting and the time of the visit. We also collect the same information when you receive an error page. No personal information is contained in these logs. We do use statistical software to analyze our logs to obtain aggregate values on how many times a page is viewed, total number of visitors by country, browser popularity and other similar totals.
 
-When you visit any Moody Bible Institute Website, we send one or more cookies—a small file containing a string of characters—to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Moody Bible Institute Website features and services may not function properly if your cookies are disabled.
+When you visit any Moody Bible Institute website, we send one or more cookies—a small file containing a string of characters—to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Moody Bible Institute website features and services may not function properly if your cookies are disabled.
 
 ## Kids and Teens
 
-Please be sure to ask your parents for permission before you send any information about yourself to us or anyone else online or over the Internet. If you are under the age of 13, you must obtain permission from your parents. They simply need to send us an email indicating their approval of your participation in any of the services/resources which require the collection of personal information on our Website.
+Please be sure to ask your parents for permission before you send any information about yourself to us or anyone else online or over the Internet. If you are under the age of 13, you must obtain permission from your parents. They simply need to send us an e-mail indicating their approval of your participation in any of the services/resources which require the collection of personal information on our website.
 
 ## Parents
 
-Any information collected by Moody Bible Institute from children/teens is used only for the purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child’s information, please contact us via email to the Web Administrator at [webadmin@moody.edu](mailto:webadmin@moody.edu "Web Administrator email") or write to us at:
+Any information collected by Moody Bible Institute from children/teens is used only for the purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child’s information, please contact us via e-mail to the Web Administrator at [webadmin@moody.edu](mailto:webadmin@moody.edu "Web Administrator e-mail") or write to us at:
 
 Moody Bible Institute  
 Web Communications  
 820 N. LaSalle Boulevard  
 Chicago, IL 60610-3284  
-1-800 DL MOODY (1-800-356-6639) or 312-329-4000
+1-800 DL MOODY (1-800-356-6639) or (312) 329-4000
 
 ## The Way We Use Information
 
@@ -57,33 +57,33 @@ We use the information you provide about someone else when placing a request onl
 
 We offer gift subscriptions or co-registrations by which you can request a service or item for another person. Information you provide to us to create an alternate user is used only for that purpose, and it is disclosed only to the person receiving the service/item.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. If you subscribe to an email newsletter or request to be kept on a list for notification of events or information from Moody, such addresses are used for those purposes and are not shared with outside parties.
+We use return e-mail addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. If you subscribe to an e-mail newsletter or request to be kept on a list for notification of events or information from Moody, such addresses are used for those purposes and are not shared with outside parties.
 
-Finally, we never use or share the personally identifiable information provided to us online or offline in ways unrelated to the ones described above. We do not sell, trade, or share our donor list with any other organization. If you have subscribed to an email newsletter you may log in to change the settings. If you have problems logging in or are having problems getting off a list, please contact the web administrator at [webadmin@moody.edu](mailto:webadmin@moody.edu "Web Administrator email").
+Finally, we never use or share the personally identifiable information provided to us online or offline in ways unrelated to the ones described above. We do not sell, trade, or share our donor list with any other organization. If you have subscribed to an email newsletter you may log in to change the settings. If you have problems logging in or are having problems getting off a list, please contact the web administrator at [webadmin@moody.edu](mailto:webadmin@moody.edu "Web Administrator e-mail").
 
 ## Our Commitment to Data Security
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ## How You Can Correct Your Information
 
-You can correct factual errors in your personally identifiable information by sending us a request via email or postal mail that credibly shows error.
+You can correct factual errors in your personally identifiable information by sending us a request via e-mail or postal mail that credibly shows error.
 
 ## Third Parties
 
-Links to third party websites on the site are provided solely as a convenience to you. If you use these links, you will leave the MBI site. MBI has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content, or their privacy policy. Thus MBI does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
+Links to third party websites on the site are provided solely as a convenience to you. If you use these links, you will leave the MBI site. MBI has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus MBI does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
 
 ## How to Contact Us
 
 Should you have other questions or concerns about these privacy policies, please contact us:
 
-Web Administrator  
-Email: [webmaster@moody.edu](mailto:webmaster@moody.edu "Webmaster email")  
+Webmaster  
+E-mail: [webmaster@moody.edu](mailto:webmaster@moody.edu "Webmaster e-mail")  
 Moody Bible Institute  
 Web Communications  
 820 N. LaSalle Boulevard  
 Chicago, IL 60610-3284  
-1-800 DL MOODY (1-800-356-6639) or 312-329-4000
+1-800 DL MOODY (1-800-356-6639) or (312) 329-4000
 
   
 8/9/2007
