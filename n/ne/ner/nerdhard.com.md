@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdhard.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425061642id_/http%3A//www.nerdhard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdhard.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208170615id_/http%3A//nerdhard.com/privacy.html) for the most accurate reproduction.*
 
 # Carsed Marketing LLC. Privacy Policy
 
