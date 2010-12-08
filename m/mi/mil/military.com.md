@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609055834id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208230127id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # About Us - Military.com
 
@@ -7,106 +7,145 @@
   
 
 
-**Overview**
+**We have updated our Privacy Policy as of June 6, 2010. We encourage you to read the policy below so that you know how we collect and use the information you choose to provide.**
 
-Military.com is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. Military.com is a property of Monster Worldwide dedicated to serving the military community. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the Military.com, Monster and Affinity Communities Sites (including, but not limited to, PoliceLink, NursingLink, TechCommunity, The Apple, GovCentral, and FireLink) (sometimes collectively referred to herein as the "Monster Sites" or "Affinity Communities") and does not apply to information we collect in any other fashion.
+Military.com (“Military”) is a property of Monster Worldwide dedicated to serving the military community. Military is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to this web site and to its network of sites, which are included in the link at the bottom of this page under Military.com Network Sites. It does not apply to information we collect in any other fashion.
 
-Your data will be stored and processed in the United States. The information we gather on the Monster Sites may be shared within the Monster-affiliated companies on a worldwide basis in order to deliver the products and services we offer to employers such as searches for job seekers or in order to undertake analysis of our database such as aggregate profiling of our registered users, or in order to connect job seekers with communities of like-minded professionals as well as vocation, profession, or interest-focused resources. "Affiliated companies" means entities that control, are controlled by or are under common control with Monster, Inc.
+The information we gather on the Military sites may be shared within our affiliated companies on a worldwide basis in order to deliver the products and services we offer or in order to undertake analysis of our database. "Affiliated companies" means entities that control, are controlled by or are under common control with Military.
 
-The Monster Sites contain links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Sites. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
+Military contains links to other web sites over which we have no control. Military is not responsible for the privacy policies or practices of other web sites to which you choose to link from Military. We encourage you to review the privacy policies of those other web sites so you can understand how they collect, use and share your information.
 
-**Collection and Use of Information by Monster**
+**Information We Collect and Retain**
 
-In some areas of the Monster Sites we may request that you provide personal information, including your name, address, e-mail address, telephone number, credit card number, social security number, contact information, billing information and any other information from which your identity is discernible. In other areas, we collect or may collect demographic information that is not unique to you such as your ZIP code, age, preferences, gender, interests and favorites. Sometimes we collect or may collect a combination of the two types of information. Examples of areas on the Monster Sites where we collect personal or combined personal and demographic data are pages where you can open a Military.com account, create a Monster Networking profile or account, sign up to use a service, post a resume or profile, enter a contest or purchase a product.
+_Personal Information_ is information that can be used to identify you, or any other individual to whom the information may relate, personally. It includes data elements such as name, address, e-mail address, credit card number, and telephone number. We only collect personal information about you when you choose to provide it to us. You do not have to give us any personal information in order to read the content portions of our Site.
 
-We also gather or may gather certain information about your use of the Monster Sites such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is or may be collected by us. This information can include without limitation your IP address, browser type, domain names, access times and referring Web site addresses, but is not linked to your personal information.
+_Demographic information_ is information that is not unique to you in the sense that it refers to selected population characteristics, such as your ZIP code or postal code, age, preferences, gender, race or ethnicity, occupation, career history, interests and favorites.
 
-We may sometimes afford you the opportunity to provide descriptive, cultural, behavioral, preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Privacy Statement. For example, such information may be used for the purpose of determining your potential interest in receiving e-mail or other communications about particular products or services. If you choose to use our referral service to tell a friend about the Monster Sites or refer a job posting to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Monster Sites or view the job posting. We do not store this information.
+_Behavioral Information_ is information regarding how you use our site(s), the areas of our site that you visit, what services you access, and information about your computer hardware and software including your IP address, geolocation, browser and operating system type, domain names, access times and referring Web site addresses. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services.
 
-**Our Use of Your Information**
+In addition, Military may collect _indirect information_ about you when you use certain third party services on Military. For example if you provide a title of ‘Mrs.’ we will assume you are female.
 
-We use the information we gather on the Monster Sites whether personal, demographic, collective or technical, for the purpose of operating and improving the Monster Sites, fostering a positive user experience, and delivering the products and services that we offer.
+**How Information is Used**
+
+We use the information we gather on Military for the purposes of providing our services, responding to any queries you may have, operating and improving Military, fostering a positive user experience, and delivering the products and services that we offer.
 
 If you have provided consent for us to do so, we may also use the information we gather to inform you of other products or services available from us or our affiliated companies.
 
-We may use your contact information in order to send you e-mail or other communications regarding updates at the Monster Sites, to contact you about your opinion of current products and services or potential new products and services that may be offered. We may also provide additional communications, promotions and information on new Monster opportunities and additional job postings which may be of interest to you. The nature and frequency of these messages will vary depending upon the information we have about you.
+We may use your contact information in order to send you e-mail or other communications regarding updates at Military, to send you free informational newsletters from us relating to topics that may be of special interest to you, to contact you about your opinion of current products and services or potential new products and services that may be offered, to conduct surveys, questionnaires, promotions and contests, and to provide the results thereof such as success stories and contest winners. The nature and frequency of these messages will vary depending upon the information we have about you.
 
-In addition, you may receive free informational newsletters from us relating to topics that may be of special interest to you, such as career management advice.
+We have areas on Military where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information.
 
-We have areas on the Monster Sites where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information.
+Some of our products and services, such as our social and professional networking, allow third parties to see your personal information and to contact you. Profile information may be used for networking with other community members.
 
-**Choices Regarding the Disclosure of Personal Information to Others**
+If you choose to use our referral service to tell a friend about Military or refer other information on Military to a friend, we will ask you for your friend's name and email address. We will send your friend a one-time email inviting him or her to visit Military or view the information. We do not store this information.
 
-We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of Monster Sites or or Military.com (such as the areas you visit or the services you access), except as set forth below.
+**Disclosure of Information to Others**
 
-1\. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for an a Military.com account, we supply your contact information to third parties such as employers, recruiters, data aggregators, and educational institutions, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
+We disclose to third parties your personal information, combined personal, demographic, behavioral or indirect information, as set forth below.
 
-2\. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
+1\. We may share your information with third parties who help us in the delivery of our own products and services to you. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
 
-3\. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
+2\. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for a Military.com account, we supply your contact information to third parties such as marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
 
-We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. You will be notified of sale of all or a substantial portion of our business to a third party via email or through a prominent notice posted on the Monster Sites.
+We also share aggregated anonymous information about visitors to the Military site(s) with Military’s clients, partners, other visitors, and other third parties so that they can understand the kinds of visitors to the Military site(s) and how those visitors use the site(s).
 
-**Personal Profiles**
+Information gathered on a co-branded page may be retained by both Military and the other company. In that instance, the use of such information by the other company will be subject to the privacy policy of that company and Military is not responsible for that company's use of your personal or demographic information.
 
-Military.com is designed for member networking among other like-minded professionals with similar backgrounds and/or interests. If you have a profile on a Monster Site or Military.com, other users or members of Monster Sites may view your profile. Your personal information, including demographic information, may be made public in your personal profile; however, your contact information is not displayed. Other users or members of Monster Sites will not have access to your contact information unless you choose to share it with them. We are not responsible for the retention, use or privacy of profile information in the instance of other members who have accessed your profile and may have retained information from your profile in their own files or databases.
+3\. We disclose information if legally required to do so, or at our discretion pursuant to a request from a governmental entity or if we believe in good faith – after considering your privacy interests and other factors – that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. Because Military Advantage is a U.S. company and information collected on our Sites is stored in whole or in part in the United States, your information may become subject to U.S. law.
 
-**Posting to Public Areas of Monster**
+4\. We may disclose and transfer such information to a third party who acquires any or all of Military’s business units, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Military becomes the subject of an insolvency proceeding, whether voluntary or involuntary, Military or its liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court. You will be notified of the sale of all or a substantial portion of our business to a third party by email or through a prominent notice posted on the Sites.
 
-Please remember that if you post any of your personal information in public areas of Monster, Monster Networking, or Military.com such as in online forums or chat rooms, or in the Monster searchable resume database, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Monster or Military.com.
+5\. Military provides member networking among other like-minded professionals with similar backgrounds and/or interests. If you have a profile on a Military site, other users or members of Military site(s) may view your profile. Your personal information, including demographic information, may be made public in your personal profile; however, your contact information is not displayed. Other users or members of Military site(s) will not have access to your contact information unless you choose to share it with them. We are not responsible for the retention, use or privacy of profile information in the instance of other members who have accessed your profile and may have retained information from your profile in their own files or databases.
 
-**Other Uses of Information**
+**Posting Your Information to Public Areas of Military**
 
-We also share aggregated anonymous information about visitors to Monster, Monster Networking or Military.com (for example, the number of visitors to Monster's Diversity & Inclusion area or Public Service area) with its clients, partners and other third parties so that they can understand the kinds of visitors to the Monster Sites and how those visitors use the Monster Sites. We may also aggregate on an anonymous basis data regarding job qualifications, schooling, age, experience level or other information relevant to the job search or competition among Seekers for any such job. Such data may be made available to employers or fellow job seekers.
+Please remember that if you post any of your personal information in public areas of Military, such as in online forums or chat rooms, such information may be collected and used by others over whom Military has no control. We cannot control the use made by third parties of information you post or otherwise make available in public areas of Military.
 
-Information gathered on a page on a co-branded page (such as that of a contest co-sponsored by Monster and another company), may become the property of the other company or of both us and the other company. Military.com offers a number of third party services from their Sites, such as ecommerce stores for gear or discussion boards hosted by a service provider. If you choose to use these optional services, we may provide some of your personally identifiable information, including your name, address, and email to the Co-Brand Service Provider offering such services in order for them to provide the service. Conversely, the co-Brand Service Provider may provide Military.com with personal information about you. In those instances, the use of such information by the other company will be subject to the privacy policy of that company. While we carefully evaluate and choose such companies, we are not responsible for that company's use of your personal or demographic information.
+**Your Choices About Your Information**
 
-If you apply for a job on Monster, Monster Sites or Military.com, you may be asked to provide information on your gender, race or other protected status where permitted by applicable law. Some employers are required by law to gather this information from job applicants for reporting and record-keeping requirements. You should understand that if provided, this information will be used by employers only in accordance with applicable law and will not be used in making any negative employment decisions. All information provided will be kept separate from your expression of interest in any job opportunity. Providing this information is strictly voluntary and you will not be subject to any adverse action or treatment if you choose not to provide this information.
+We retain all the information we gather about you in an effort to make your repeat use with us more efficient, practical and relevant until you change or remove your personal data as described below. You may have access to, review, correct, update, change or delete your account profile information at any time. Simply log into your account, go to your profile, and make the necessary changes. [Click here](http://www.military.com/Membership/MembershipIndex) to access your Military.com account and profile information. Before providing you with a copy of your personal information or correcting, updating or deleting such information, we reserve the right to verify and authenticate your identity and the personal information to which you have requested access. Access to or correction, updating or deletion of your personal information may be denied or limited by Military if it would violate another person’s rights and/or as otherwise permitted by applicable law.
 
-**Use of Cookies**
+If you wish to delete or close your account or account profile information altogether, please [click here](http://www.military.com/Content/MoreContent1/0,,FAQ,00.html#6) for more information on how to contact us. We will retain logs, demographic, indirect, and statistical information about you and keep an archival copy of this information in an anonymized form. If your personal information was previously accessed by others using our Sites, we are not able to delete the information or copies thereof from their systems.
 
-We use "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
+If you previously opted to receive newsletters, commercial e-mails or other communications from Military or third parties, but subsequently change your mind, you may opt-out by editing your account profile. If you previously opted not to receive such communications, you may later opt-in by editing your account profile.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Monster pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to Monster, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
+**Important Information**
 
-You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on Monster and Monster Networking.
+_**Security**_
 
-**Use of Web Beacons**
+You are responsible for ensuring that your log-in credentials (your username and password) are kept confidential.
 
-Monster and Military.com Web pages may contain electronic images known as Web beacons (sometimes called single-pixel gifs) that allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information; they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides.
+Military has implemented technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. Notwithstanding such measures, the Internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
-You may not decline web beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
+We also use cookies, web beacons, and Java Script to administer our site and deliver a personalized experience. For additional detailed information on each of these, please see below.
 
-**Access to and Modification of Your Information**
+_**Children**_
 
-You may review, correct, update or change your Monster Networking profile or Military.com account or profile information at any time. 
+Military is not intended for, nor do we knowingly collect information from, children under the age of 13.
 
-To change your Military.com account or profile information, simply log into your account, go to your Account profile, review your account information and, if you wish, edit it with the options provided. [Click here](http://www.military.com/Membership/MembershipIndex) to access your Military.com Account and profile information. If you opted to receive newsletters, commercial e-mails or other communications from Military.com or third parties at the time you created your account, but have changed your mind, you may opt out by editing your account page as described above. If you previously opted not to receive such communication, you may later opt in by editing your account page as well.
+**Changes to Privacy Policy**
 
-We retain indefinitely all the information we gather about you in an effort to make your repeat use of Monster or Military.com more efficient, practical, and relevant. Of course, you can delete your resume from Monster's online database, close your Military.com account at any time, in which event we will remove all our copies of your resume from Monster and your Military.com account information, except for an archival copy which is not accessible on the Internet.
+If we decide to change the substance of our Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
-**Security of the Personal Information**
+**Use of Cookies, Web Beacons, and Java Script**
 
-We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+* _ **Cookies:**_ Military uses "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is either stored in your computer’s memory temporarily (a “session” cookie) or placed on your hard drive (a “persistent” cookie) by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer and can only be read by a web server in the domain that issued the cookie to you.
 
-If you choose to make a purchase or when you place an order online at Monster or Military.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. If you make a purchase from a third-party service provider through a Monster Site (such as ecommerce sites for gear), your credit card data; as well as, other personal information necessary for the transaction, will be transmitted to the third-party. The data will then be subject to the service provider's privacy policy and security practices. We can not be held responsible for that company's use of your information.
+When you return to the Military site, cookies enable us to retrieve the information you previously provided, so you can easily use the features that you customized. Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. For example, if you personalize Military pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences).
 
-**Children**
+We predominately use “session” cookies, which are not permanently stored on your hard drive. Session cookies expire after two hours of inactivity or when you close your browser. We also use cookies to identify users who have been banned from using our forums for behavior that contradicts our terms of use and to track click streams, for load balancing and to enable you to navigate through the site using redirection pages.
 
-The Monster Sites are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+We use “persistent” cookies primarily to ensure that we do not show you pages that you have already seen and to personalize your site experience and save you time. “Persistent” Cookies enable us to recognize whether you have responded to any poll or seen an advertisement or information notice placed on the site so that we do not show you the poll, advertisement or notice again the next time you visit our site. We also allow other companies to display advertisements to you while you are visiting our Sites. Because your web browser must request these advertisements from the other companies’ servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. Military has no control over, and is not responsible for, the practices of those third party advertisers. Military encourages you to review the policies of such advertisers. (You will find additional information about the following third party ad servers at [www.doubleclick.com](http://www.doubleclick.com/) and [www.atlassolutions.com/privacy](http://www.atlassolutions.com/privacy). We use other third party ad servers as well; a way to opt out of third party cookies is to modify your browser settings to decline cookies.)
 
-**Safe Harbor**
+We use persistent cookies and related technologies (such as web beacons described below) to determine and track direct and indirect candidate application traffic in response to Job Postings either on Military or on the websites of third parties through the Career-Ad-Network (described below). We also allow persistent third party cookies as part of online advertising campaigns to determine and track site traffic landing from Military’s advertising banners that have been placed on the websites of third parties. The data collected via these cookies is anonymous and the information is not linked to your personally identifiable information without your permission. The “persistent” cookies placed by our third party ad servers will remain on your computer after you have left our site for up to 20 years unless you choose to delete them.
 
-We participate in the Department of Commerce's Safe Harbor Framework arising out of the U.S. implementation of the European Union Data Protection Directive. We have certified adherence to the Safe Harbor Privacy Principles for the Monster and Monster Networking Sites. For more information about the Safe Harbor Privacy Principles and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://www.export.gov/safeharbor/). If you would like to contact us directly about the Safe Harbor program, please send an e-mail to [safeharbor@monster.com](mailto:safeharbor@monster.com).
+Military participates in Monster’s Career-Ad-Network (“CAN”). As part of CAN, we also use “persistent” cookies. The CAN cookie is used to display relevant job ads to you on Military and when you visit other web sites. The information collected by the CAN cookie is treated in accordance with the policies and practices described in our Privacy Statement above. The “persistent” cookie we use in CAN will remain on your computer after you have left our site and will expire six months after it was set.
 
-**Changes to Privacy Statement**
+You have the ability to update or opt-out of the CAN cookie by clicking on the following link: <http://can.monster.com/cookie-technology.aspx>. Your opt-out of CAN is enforced by setting a “blocking cookie”. In order for the blocking cookie to work on your computer, your browser must be set to accept third party cookies. The blocking cookie for CAN will last for five years; however, if you delete your browser cookies, your opt-out cookie, as well as any updates you may have made, will also be deleted. In addition, your opt-out only applies in the browser you are using at the time you opt-out and only on the computer you are using at such time. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Opting-out of the CAN cookie does not mean you will no longer receive online advertising from CAN. It does mean that the ads delivered to you by CAN will no longer be tailored to your Web browsing patterns. Once you opt-out CAN no longer maintains a targeting cookie on your computer, so the ads will be general in nature and could be repetitive.
 
-If we decide to materially change our Privacy Statement for Monster and Military.com we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
+You have the ability to accept or decline cookies at any time by modifying your browser settings. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the web site.
 
-If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at [privacystatement@military-inc.com](mailto:privacystatement@military-inc.com) or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem.
+Additionally, Military uses “Flash cookies”, also known as “Local Shared Objects”, to preserve video player settings and for user authentication purposes. You can adjust your settings for your Flash cookies [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html).
+
+* ** _Web Beacons_** : Military Web pages and the Web pages of our partners also utilize electronic images known as Web beacons (sometimes called single-pixel gifs, clear gifs or action tags) that allow us to collect certain information about users’ visits to these Web pages (including the number of users who have visited those pages), measure and improve the effectiveness of advertisements and job postings, and deliver co-branded services. Web beacons are not used to access your personally identifiable information; they are a technique used to compile aggregated statistics about web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of page view and a description of the page on which the Web beacon resides. This information may be shared with third party processors for processing on behalf of Military, as well as with clients, partners, and other third parties so that they can understand the kinds of visitors to the Web pages, how those visitors use those Web Pages, and the effectiveness of their advertisements and job postings. (You will find information about a current third-party processor used by Military at [www.atlassolutions.com](http://www.atlassolutions.com/privacy). We may use other third party processors as well.)
+
+Because Web beacons are the same as any other content request included in the recipe page, you cannot opt out or refuse them. However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
+
+_**JavaScript:**_ Military also uses JavaScript, for example, within certain advertisements. JavaScript is a script language that enhances the functionality of websites, particularly in respect to pictures. You may deactivate JavaScript via your browser settings or activate it the same way. If you disable JavaScript you will not be able to use some of the functions of the website.
 
 **Contact Information**
 
-Monster is the name under which Monster, Inc., a Delaware corporation, with its principal place of business at 5 Clock Tower Place, Maynard, MA 01754, and certain of its affiliated companies worldwide, do business. Monster, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Monster Sites. Thank you for using Monster and Military.com.
+If, at any time, you have questions or concerns about Military’s privacy commitment, please feel free to email us at [privacystatement@military-inc.com](mailto:privacystatement@military-inc.com) or write to us at:
 
-_Update effective May 13, 2008._
+Military Advantage, Inc.  
+799 Market Street  
+Suite 700  
+San Francisco, CA 94103
+
+Thank you for using Military.com.  
+Update effective 6 June 2010
+
+**Military.com Network of Sites**
+
+Network sites:  
+**cinchouse.com**  
+**gibillexpress.com**  
+**thefew.com**  
+**fredsplace.org**
+
+Network Blogs:  
+**op-for.com**  
+**lineofdeparture.com**  
+**defensetech.org**  
+**dodbuzz.com**  
+**spousebuzz.com**  
+**milblogging.com**
+
+Military.com Blogs:  
+**military-education.military.com(education blog)**  
+**paycheck-chronicles.military.com(finance blog)**  
+**transitionstories.military.com(transition blog)**  
+**military-fitness.military.com(fitness blog)**  
+**kitup.military.com(equipment blog)**  
+**undertheradar.military.com(entertainment blog)**  
+**militaryadvantage.military.com(benefits blog)**
