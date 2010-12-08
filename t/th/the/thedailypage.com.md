@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608042455id_/http%3A//www.thedailypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208045428id_/http%3A//www.thedailypage.com/privacy) for the most accurate reproduction.*
 
 # Isthmus | The Daily Page -- Privacy Policy
 
@@ -15,6 +15,9 @@ Web surfers should be aware that by voluntarily disclosing personal information 
 The Daily Page provides links to several external websites. We cannot control and are not responsible for the privacy practices or content of these websites.
 
 **Forum**  
-Personal information disclosed during the process of registering as a user of The Daily Page Forum is considered private by Isthmus Publishing and The Daily Page. However, information posted to the Forum discussion boards is public information and can easily be collected by third parties. Users should exercise discretion when registering and posting to Forum. Children should get their parent's permission before posting to Forum. Isthmus Publishing reserves the right to use Forum posts to market and publicize The Daily Page. 
+Personal information disclosed during the process of registering as a user of The Daily Page Forum is considered private by Isthmus Publishing and The Daily Page. However, information posted to the Forum discussion boards is public information and can easily be collected by third parties. Users should exercise discretion when registering and posting to Forum. Children should get their parent's permission before posting to Forum. Isthmus Publishing reserves the right to use Forum posts to market and publicize The Daily Page.
+
+**Newsletters**  
+Isthmus tracks user traffic patterns from our newsletters. However, we do not correlate this information with data about individual users although we do break down overall usage statistics across all of our users and tally domain names, browser types, and MIME types which is obtainable from the browser string.
 
 | 
