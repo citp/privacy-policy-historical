@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617080011id_/http%3A//www.midwayusa.com/General.mvc/Index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208211405id_/http%3A//www.midwayusa.com/General.mvc/Index/privacy_policy) for the most accurate reproduction.*
 
 # MidwayUSA's Privacy Policy
 
@@ -35,7 +35,8 @@ We occasionally exchange our customer postal address list with other reputable c
 
 ### Cookies & How We Use Them
 
-Our shopping cart functionality is based on "cookies" or customized pieces of information our site stores on your hard drive. Because cookies only contain text, they cannot transmit a virus or damage your system. They cannot gather information about you or your computer. The sole purpose of storing cookies is to remember information about your MidwayUSA account and make online shopping easier. If you prefer not to accept cookies, it may be necessary to call 1-800-243-3220 to place your order.
+Our shopping cart functionality is based on "cookies" or customized pieces of information our site stores on your hard drive. Because cookies only contain text, they cannot transmit a virus or damage your system. They cannot gather information about you or your computer. The sole purpose of storing cookies is to remember information about your MidwayUSA account and make online shopping easier. If you prefer not to accept cookies, it may be necessary to call   
+1-800-243-3220 to place your order.
 
 ### About Children
 
@@ -43,4 +44,4 @@ MidwayUSA.com does not sell products for purchase by children. If you are under 
 
 ### Links to Other Sites
 
-We provide links to many of the manufacturers of our products and other sites we think you may enjoy. These sites operate independently of MidwayUSA and have established their own privacy and security policies. Please review these policies at any site you visit. If you have any questions regarding this policy, please email us at [CustomerService@midwayusa.com](mailto:CustomerService@midwayusa.com).
+We provide links to many of the manufacturers of our products and other sites we think you may enjoy. These sites operate independently of MidwayUSA and have established their own privacy and security policies. Please review these policies at any site you visit. If you have any questions regarding this policy, please email us at [customerservice@midwayusa.com](mailto:customerservice@midwayusa.com).
