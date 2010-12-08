@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrixsoft.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426050507id_/http%3A//www.bitrixsoft.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrixsoft.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208172149id_/http%3A//www.bitrixsoft.com/policy.php) for the most accurate reproduction.*
 
 # Bitrix - Privacy Policy
 
