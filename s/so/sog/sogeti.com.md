@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogeti.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604023919id_/http%3A//www.sogeti.com/Online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogeti.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208091227id_/http%3A//www.sogeti.com/Online-privacy-policy) for the most accurate reproduction.*
 
 # Sogeti
 
