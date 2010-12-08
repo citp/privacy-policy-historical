@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html5tutorial.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211601id_/http%3A//html5tutorial.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5tutorial.net privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208052735id_/http%3A//html5tutorial.net/privacy) for the most accurate reproduction.*
 
 # Privacy | HTML 5 Tutorial
 
