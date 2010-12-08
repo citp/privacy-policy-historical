@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slidedeck.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412192559id_/http%3A//www.slidedeck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidedeck.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208102516id_/http%3A//www.slidedeck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SlideDeck
+# SlideDeck | Privacy Policy
 
 The following statement explains our policy regarding the personal information we collect about you.
 
