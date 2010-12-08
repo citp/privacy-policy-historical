@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycostume.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529214947id_/http%3A//dailycostume.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycostume.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208092635id_/http%3A//dailycostume.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy of DailyCostume.com
 
