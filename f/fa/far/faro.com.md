@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104010332id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Dau%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208181526id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Dus%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
-# FARO International Australia - Privacy Policy
+# 3D Measurement-Portable Measurement Devices-Portable CMMs-FARO - Privacy Policy
 
 ---  
   
@@ -64,4 +64,30 @@ The inquiries should include the individual's name, address, and other relevant 
 
 **VII. Changes to This Safe Harbor Privacy Policy  
 **The practices described in this Policy are current Personal data protection policies as of February 28, 2005. FARO Technologies reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.  
+  
+  
+|   
+---  
+|  | 
 
+ 
+
+FARO Technologies Inc.  
+250 Technology Park - Lake Mary, FL 32746  
+(800) 736-0234 - (407) 333-9911  
+ 
+
+|  | 
+
+Click to view  
+Certificates:
+
+| [](http://www.faro.com/contentv2.aspx?cid=1&content=misc&item=1621&ct=us)  
+Cert# L1147 Calibration|   |  [](http://www.faro.com/FaroIP/Files/File/Corporate%20Governance/00REF119-011%20-%20ISO9001-2000%20Certificate_All%20Sites.PDF)  
+---|---|---|---  
+  | 
+
+FARO, THE MEASURE OF SUCCESS, FaroArm, CAM2, ION and FARO Laser ScanArm are   
+registered trademarks and trademarks of FARO Technologies Inc. ©2010 FARO Technologies Inc. All Rights Reserved.
+
+| 
