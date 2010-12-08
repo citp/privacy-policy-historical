@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hilalplaza.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324172430id_/http%3A//www.hilalplaza.com/hilalplaza_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilalplaza.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208193102id_/http%3A//www.hilalplaza.com/hilalplaza_privacy_policy.html) for the most accurate reproduction.*
 
 # HilalPlaza.com Privacy Policy
 
