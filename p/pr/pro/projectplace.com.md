@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606030414id_/http%3A//www.projectplace.com/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208234916id_/http%3A//www.projectplace.com/terms/privacystatement) for the most accurate reproduction.*
 
 # Online project management & collaboration - software as a service
 
