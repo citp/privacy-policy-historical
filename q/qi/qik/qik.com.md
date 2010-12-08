@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qik.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328124131id_/http%3A//qik.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qik.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208061051id_/http%3A//qik.com/info/privacy) for the most accurate reproduction.*
 
 # Qik | Privacy Policy
 
@@ -85,7 +85,7 @@ Qik may revise this privacy policy periodically and this will be reflected by th
 
 ##  Questions or Comments 
 
-If you have questions or comments about this Privacy Policy, please email us at [report@qik.com](https://web.archive.org/web/20100328124131id_/http%3A//qik.com/info/report@qik.com) or contact us at: 
+If you have questions or comments about this Privacy Policy, please email us at [report@qik.com](https://web.archive.org/web/20101208061051id_/http%3A//qik.com/info/report@qik.com) or contact us at: 
 
 Qik, Inc.  
 Attn: Privacy Policy Issues  
