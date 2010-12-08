@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528035345id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208033113id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
 
-# Pages
+# Privacy Policy for Shermans Travel
 
-Shermanstravel.com (the "Site") is owned by ShermansTravel Media, LLC. ("Shermans Travel"). Shermans Travel values your privacy and is dedicated to protecting your personal information and providing you with:
+**PRIVACY POLICY FOR SHERMANS TRAVEL**
+
+ShermansTravel.com (the "Site") is owned by ShermansTravel Media, LLC. ("Shermans Travel"). Shermans Travel values your privacy and is dedicated to protecting your personal information and providing you with:
 
 **Notice**
 
@@ -35,7 +37,13 @@ we have collected from you
 
 #### INFORMATION WE COLLECT
 
-Tracking Technology: Shermans Travel logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Site. We may track your movement within the Site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally unless you opt in as a subscriber.To gauge the effectiveness of our Site, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name, the web page from which a visitor enters our Site, which pages a visitor visits on our Site, and how much time a visitor spends on each page. We may use anonymous tracking technologies to collect, store and sometimes track information for statistical purposes and to improve the products and services we provide. We aggregate this information and use it to evaluate and improve our Site. We store information that we collect through cookies, log files, clear gifs, and/or third party sources for instance to verify your address or update your information and to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the Site for you. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this Site. We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file Persistent cookies are used to differentiate subscribers from non-subscribers to customize the content of certain sections of the website and enable us to track and target the interests of our users to enhance the experience on our Site. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site, such as promotions or surveys, may be limited.Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. 
+Tracking Technology: Shermans Travel logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Site. We may track your movement within the Site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally unless you opt in as a subscriber.
+
+To gauge the effectiveness of our Site, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name, the web page from which a visitor enters our Site, which pages a visitor visits on our Site, and how much time a visitor spends on each page. We may use anonymous tracking technologies to collect, store and sometimes track information for statistical purposes and to improve the products and services we provide. We aggregate this information and use it to evaluate and improve our Site. 
+
+We store information that we collect through cookies, log files, clear gifs, and/or third party sources for instance to verify your address or update your information and to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the Site for you. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this Site. We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file Persistent cookies are used to differentiate subscribers from non-subscribers to customize the content of certain sections of the website and enable us to track and target the interests of our users to enhance the experience on our Site. 
+
+If you reject cookies, you may still use our Site, but your ability to use some areas of our Site, such as promotions or surveys, may be limited.Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. 
 
 Newsletter Registration: To receive our free newsletter, and to receive other offers from time to time, you must first complete the registration form. Information you provide may be used to contact you about the services on our Site in which you have expressed interest. 
 
@@ -89,7 +97,7 @@ Shermans Travel is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepe
 
 #### HOW TO CONTACT US
 
-If you have any questions about our privacy policy contact us at [privacy@shermanstravel.com](mailto:&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#115;&#104;&#101;&#114;&#109;&#97;&#110;&#115;&#116;&#114;&#97;&#118;&#101;&#108;&#46;&#99;&#111;&#109; "Send email to: &#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#115;&#104;&#101;&#114;&#109;&#97;&#110;&#115;&#116;&#114;&#97;&#118;&#101;&#108;&#46;&#99;&#111;&#109;"). 
+If you have any questions about our Privacy Policy contact us at [privacy@shermanstravel.com](mailto:&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#115;&#104;&#101;&#114;&#109;&#97;&#110;&#115;&#116;&#114;&#97;&#118;&#101;&#108;&#46;&#99;&#111;&#109; "Send email to: &#112;&#114;&#105;&#118;&#97;&#99;&#121;&#64;&#115;&#104;&#101;&#114;&#109;&#97;&#110;&#115;&#116;&#114;&#97;&#118;&#101;&#108;&#46;&#99;&#111;&#109;"). 
 
 ©2009 Shermans Travel, Inc.  
 112 W. 34th St.  
