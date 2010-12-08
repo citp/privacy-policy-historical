@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantagewave.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003554id_/http%3A//advantagewave.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantagewave.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208092713id_/http%3A//advantagewave.com/privacy.htm) for the most accurate reproduction.*
 
 # AdvantageWave
 
