@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 15kprofits.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312073144id_/http%3A//www.15kprofits.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 15kprofits.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208070043id_/http%3A//www.15kprofits.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -61,7 +61,7 @@ If you send a friend an email from this site or if you send the url or one of ou
 
 Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate will not be used for general solicitation for commercial purposes by third party companies and that such information will not be shared with joint venture partners, affiliates, marketing organizations for product design or solicitation purposes.
 
-You will receive periodic emails from our company that may or may not include current offers and/or promotions from our company.
+You will receive periodic emails from our company that may or may not include current offers and/or promotions from our company. We also reserve the right to contact you via pre-recorded phone calls.
 
 **OPTOUT FROM OUR MAILINGS:** You may optout at any time by clicking on the "optout" URL located at the bottom of every email that is sent from our company, with one exception of your first confirmation email. We will never send you emails unless you click on the confirmation link found in your initial email.
 
@@ -75,7 +75,7 @@ Cookies can be used to electronically gather information about you.  Again, it 
 
 **HOW INFORMATION MAY BE USED**
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is NOT shared with other persons or entities for commercial purposes.
 
 **INFORMATION THAT IS NOT SHARED**
 
@@ -103,7 +103,7 @@ This Privacy Policy is dynamic.  It will continually change.  You may not assu
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on:  **February 27th, 2009**
+This Privacy Policy was last updated on:  **March 31st, 2010**
 
 **COPYRIGHT**
 
@@ -127,4 +127,4 @@ If any matter concerning this purchase shall be brought before a court of law, p
 
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).  
 **COPYRIGHT AND LICENSE  **  
-This "Privacy Policy" is copyrighted © 2003-2009 by Mining Gold Corporation Nevada Processing Center, Inc  and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or visit  legal documents website at [http://www.internetlawcompliance.com](http://www.internetlawcompliance.com/). 
+This "Privacy Policy" is copyrighted © 2003-2010 by Mining Gold Corporation Nevada Processing Center, Inc  and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or visit  legal documents website at [http://www.internetlawcompliance.com](http://www.internetlawcompliance.com/). 
