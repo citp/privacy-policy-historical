@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesilverbullet.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312065121id_/http%3A//affiliatesilverbullet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesilverbullet.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208070609id_/http%3A//affiliatesilverbullet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for http://AffiliateSilverBullet.com
 
@@ -8,15 +8,7 @@ This is a privacy policy for **http://AffiliateSilverBullet.com**
 
 Contact Information
 
-Our homepage on the Internet is located at [http://AffiliateSilverBullet.com](http://quickpaypro.com/)
-
- **DustinStruckman.biz, LLC  
-1037 NE 65th Street #201  
-Seattle, WA 98115  
-USA**
-
-You may contact us by e-mail at [support@affiliatesilverbullet.com](mailto:support@affiliatesilverbullet.com)  
-You may contact us by phone on 888.576.3455 
+Our homepage on the Internet is located at [http://AffiliateSilverBullet.com](http://affiliatesilverbullet.com/)
 
 * * *
 
@@ -29,7 +21,7 @@ Our customer service will promptly correct any errors.
 
 Data Collection
 
-When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information DustinStruckman.biz, LLC collects and how it is used.
+When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information IM Wealth Builders Ltd. collects and how it is used.
 
 We collect the following information about our visitors:
 
