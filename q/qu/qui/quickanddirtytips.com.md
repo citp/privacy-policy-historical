@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602020942id_/http%3A//www.quickanddirtytips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208125953id_/http%3A//www.quickanddirtytips.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Quick and Dirty Tips ™
 
@@ -6,7 +6,7 @@
 
 EFFECTIVE DATE: 9/5/07
 
-We at **Quick and Dirty Tips, a division of Holtzbrinck Publishers Holdings, LLC** ("we" or **"QDT** ") respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect through [http://www.quickanddirtytips.com](http://www.quickanddirtytips.com/) how we may use that information, and with whom we may share it.   This Privacy Notice also describes the measures we take to protect the security of information we collect through this Web site.  In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices.
+We at **Quick and Dirty Tips, a division of Macmillan Holdings, LLC** ("we" or **"QDT** ") respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect through [http://www.quickanddirtytips.com](http://www.quickanddirtytips.com/) how we may use that information, and with whom we may share it.   This Privacy Notice also describes the measures we take to protect the security of information we collect through this Web site.  In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices.
 
 Click on one of the links below to jump to the listed section: 
 
@@ -101,6 +101,6 @@ If you have any questions about our information practices or our products or ser
     * writing us at:
 
 **Quick and Dirty Tips, a division of**  
-**             Holtzbrinck Publishers Holdings, LLC**  
+**             Macmillan Holdings, LLC**  
 175 Fifth Avenue  
 New York, NY 10010
