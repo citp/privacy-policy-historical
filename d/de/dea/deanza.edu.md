@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527205045id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208110501id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
 
-# Web Site Privacy Statement
+# De Anza College :: Policies :: Privacy Statement
 
-  
+### Privacy Statement 
 
-
-### Privacy Statement
-
-De Anza College has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: http://www.deanza.edu/. 
+De Anza College has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: <http://www.deanza.edu/>. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information. 
 
@@ -19,11 +16,11 @@ This site contains links to other sites. De Anza College is not responsible for 
 
 Our online surveys may ask visitors for contact information (like their e-mail address). The visitor's contact information is used to contact the visitor when necessary. We do not release or distribute this information. 
 
-**Public Forums**  
+#### **Public Forums**
+
 This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**Children's Guidelines**  
-
+#### **Children's Guidelines**
 
   1. We do NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. 
   2. We do NOT collect personally identifiable offline contact information without prior parental consent. 
