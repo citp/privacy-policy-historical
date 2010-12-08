@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jennifersbody.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527213011id_/http%3A//www.ugo.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennifersbody.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208062537id_/http%3A//www.ugo.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – UGO Entertainment - UGO.com
 
