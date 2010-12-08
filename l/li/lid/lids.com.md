@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629062456id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208224238id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids - Privacy Policy
 
