@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412074616id_/http%3A//www.harpoonbrewery.com/index.cfm%3Fpid%3D88628) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208234039id_/http%3A//www.harpoonbrewery.com/index.cfm%3Fpid%3D88628) for the most accurate reproduction.*
 
 # Privacy Policy - Harpoon Brewery - Brewers of Harpoon IPA and UFO Hefeweizen
 
