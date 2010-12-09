@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the punahou.edu privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618063812id_/http%3A//www.punahou.edu/page.cfm%3Fp%3D1547) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punahou.edu privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209041804id_/http%3A//www.punahou.edu/page.cfm%3Fp%3D1547) for the most accurate reproduction.*
 
-# Punahou: Privacy Policy
+# Punahou School: Privacy Policy
 
 Privacy Policy
 
