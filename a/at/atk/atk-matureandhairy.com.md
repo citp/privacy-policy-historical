@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atk-matureandhairy.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419044732id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atk-matureandhairy.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209072546id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
 
 # AMKINGDOM Privacy Policy
 
 **AMKINGDOM Privacy Policy**
 
-This Privacy Policy governs your use and access to the following network of websites, which currently includes: (1) http://amkingdom.com; (2) http://AMKINGDOM.com; (3) http://amkingdom.com/hairy; (4) http://atkexotics.com; (5) http://atkarchives.com; (6) http://atkmovies.com; (7) http://atklounge.com; and http://atkpremium.com (collectively, the "Sites" or individually, a "Site"). 
+This Privacy Policy governs your use and access to the following network of websites, which currently includes: (1) http://amkingdom.com; (2) http://AMKINGDOM.com; (3) http://amkingdom.com/hairy; (4) http://atkexotics.com; (5) http://atkarchives.com; (6) http://atkmovies.com; (7) http://www.atkpetites.com; (8) http://atklounge.com; and http://atkpremium.com (collectively, the "Sites" or individually, a "Site"). 
 
 We are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Sites. By accessing and using our Sites, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Sites. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. The Sites request that you read this Privacy Policy carefully and consult it regularly. 
 
@@ -72,4 +72,4 @@ If you have any questions about this Privacy Policy, or if you otherwise need to
 
 Please send your e-mail to: [support@amkingdom.com](mailto:support@amkingdom.com)
 
-� Kingdom World Wide Web Operations, Inc. (2005) 
+© Kingdom World Wide Web Operations, Inc. (2005) 
