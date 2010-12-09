@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeymonkey.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326070108id_/http%3A//www.hockeymonkey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeymonkey.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209192916id_/http%3A//www.hockeymonkey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # HockeyMonkey.com - #1 Online Hockey Equipment Store Privacy Policy
 
