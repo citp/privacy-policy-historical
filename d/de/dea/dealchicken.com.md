@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealchicken.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626061559id_/http%3A//dealchicken.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchicken.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209075613id_/http%3A//dealchicken.com/privacy_policy) for the most accurate reproduction.*
 
 # Deal Chicken | Best Daily Deals, Discounts and Coupons in Phoenix, Arizona | Privacy Policy
 
