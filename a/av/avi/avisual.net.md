@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avisual.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212108id_/http%3A//www.avisual.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avisual.net privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209025251id_/http%3A//avisual.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - avisual.net
 
