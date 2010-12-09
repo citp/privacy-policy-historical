@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examinations.ie privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526134312id_/http%3A//www.examinations.ie/index.php%3Fl%3Den%26mc%3Dau%26sc%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examinations.ie privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209131446id_/http%3A//examinations.ie/index.php%3Fl%3Den%26mc%3Dau%26sc%3Dps) for the most accurate reproduction.*
 
 # State Examination Commission - About Us
 
