@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417004738id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209112520id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.co.uk: Privacy Policy
 
@@ -65,17 +65,17 @@ By using cookies and action tags together, we are able to gain valuable informat
 
 Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
 
- ** ** _Referral Programmes._****  
+ ** _ **Referral Programmes.**_**  
 
 
 Through third party referral programme operators and others, we offer referral programmes whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programmes, the users who become subscribers to our Internet Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our programme operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
 
 If you choose to apply to a referral website, we use the data you provide strictly for conducting business with you. We have entered into certain agreements with third party program operators for the purpose of administering our referral programmes. Should you become a referral website of ours through one of our third party programme operators, any information you provide to them is subject to their privacy policies.
 
- ** _Internet Products._**  
-We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Internet Products (available either for free or on a subscription basis) such as the "My Favourites" feature, the online "POINTS&reg; Tracker" tool, and the "Weight Tracker" tool. We also collect information that you provide voluntarily through responses to special Internet Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Internet Products may ask you for health related information. We collect this information in order to personalise your Internet experience.
+ _ **Internet Products.**_  
+We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Internet Products (available either for free or on a subscription basis) such as the "My Favourites" feature, the online " _ **ProPoints**_ ™ Tracker" tool, and the "Weight Tracker" tool. We also collect information that you provide voluntarily through responses to special Internet Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Internet Products may ask you for health related information. We collect this information in order to personalise your Internet experience.
 
- ** _Public Forums and the Public Profile Feature._**  
+ _ **Public Forums and the Public Profile Feature.**_  
 We feature public forums such as message boards, bulletin boards, recipe swaps or similar activities where you and other users of our Website can communicate with one another. In addition, we offer the "Public Profile" feature of our Website to permit you to share information about yourself (including, if you elect, Personally Identifiable Information) with others. THIS PRIVACY POLICY DOES NOT PROTECT YOU WHEN YOU USE OUR PUBLIC FORUMS OR PROVIDE INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) ABOUT YOURSELF THROUGH THE PUBLIC PROFILE FEATURE AVAILABLE ON OUR WEBSITE. You should be aware that any information shared in a public forum such as a message board, bulletin board or recipe swap or through our Public Profile feature is public information and may be seen or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any information in any public forum, or through the Public Profile feature, on our Website.
 
  ** ** _Log Files._****  
@@ -104,15 +104,15 @@ We may also use the information gathered on our Website and through our Internet
 
 Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Website.
 
- ** ** _Affiliates._****  
+ ** _ **Affiliates**_.**  
 
 
 We may disclose information (including Personally Identifiable Information) about you to our Affiliates. For purposes of this Privacy Policy, "Affiliates" means any person or entity which directly or indirectly controls, is controlled by or is under common control with WeightWatchers.com, Inc., WeightWatchers.co.uk, Weight Watchers International, Inc. and Weight Watchers UK Limited, whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy. We may share your information (including Personally Identifiable Information) with franchisees of Weight Watchers International, Inc.,, but only where we indicate to you at time of information collection that such information will be provided to a franchisee, or if we otherwise obtain your permission.
 
- ** _Laws and Legal Rights._**  
-We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our [Terms & Conditions](https://web.archive.org/legal/terms.aspx) or our [Subscription Agreement](https://web.archive.org/legal/subagreement.aspx), or to protect the safety and/or security of our users, our Website or the general public.
+ _ **Laws and Legal Rights**_.  
+We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms & Conditions or our Subscription Agreement ,or to protect the safety and/or security of our users, our Website or the general public.
 
- ** _Third Parties Generally._**  
+ _ **Third Parties Generally**_.  
 We may provide to third parties information about you that does not allow you to be identified or contacted, including where such information is combined with similar information of other users of our Website. For example, we might inform third parties regarding the number of unique users who visit our Website, the demographic breakdown of our community users of our Website, or the activities that visitors to our Website engage in while on our Website. The third parties to which we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
 
  ** ** _Outside Contractors._****  
