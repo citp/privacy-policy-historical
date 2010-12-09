@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hants.gov.uk privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621054554id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hants.gov.uk privacy policy that was archived on 2010-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209163732id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <base href="http://www3.hants.gov.uk/">
@@ -13,7 +13,7 @@
 	<meta name="DC.Title" content="Privacy">
 	<meta name="DC.Subject" content="">
 	<meta name="DC.Description" content="">
-	<meta name="DC.Date" content="21-06-2010">
+	<meta name="DC.Date" content="20-12-2010">
 	<meta name="DC.Type" content="Web Publishing System">
 	<meta name="DC.Creator" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info.centres@hants.gov.uk">
 	<meta name="DC.Publisher" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info.centres@hants.gov.uk">
@@ -151,6 +151,8 @@
 	
 		
 	
+			
+		
 			
 		
 			
@@ -308,6 +310,73 @@ for more information.</p>
 		}
 		//]]>
 		</script>
+		
+<script type="text/javascript">
+<!--
+//<![CDATA[
+var escapedHash = "";
+
+$(function()
+{
+	function redirectTo(url)
+	{
+        // Hack to make IE send the HTTP referrer on click
+		if($.browser.msie)
+		{
+			var referLink = document.createElement('a');
+			referLink.href = url;
+			document.body.appendChild(referLink);
+			referLink.click();
+		}
+		else location.href = url;
+	}
+	
+	/*
+	var bookmarked = Boolean();
+	if(bookmarked) alert("The page has been added to your myHantsweb bookmarks.");
+	*/
+	
+	if(location.hash) escapedHash = escape(location.hash);
+	
+	$("a#myinfo-add").click(function()
+	{
+		$.get
+		(
+			"addtomyinfo",
+			{
+				id	: "115267",
+			 	url	: "http%3A//www3.hants.gov.uk/privacy",
+			 	query	: "" + location.hash,
+			 	title	: "Privacy",
+				ajax	: "yes"
+			},
+			function(data)
+			{
+				if(parseInt(data)){
+					renderMsg("Bookmark Added!");
+				}else{
+					redirectTo("myhantswebredirectnossl?target=login&returnUrl=http%3A//www3.hants.gov.uk/privacy" + escapedHash + "&returnPageName=Privacy&infoType=I&infoParams=" + escapedHash + "&infoId=115267&bookmark=yes");	
+				}
+			}
+		);
+		return false;
+	});
+	
+	function renderMsg(msg){
+		$('span#addedOkay').attr('style','padding:5px;background:#ffffcc;font-weight:bold;display:block;position:absolute;top:-20px;left:60px;');
+		$('span#addedOkay').html(msg);
+		$('span#addedOkay').fadeOut(4000, function(){
+					$('span#addedOkay').removeAttr('style');
+					$('span#addedOkay').html('');
+					$('span#addedOkay').hide();
+				});
+	}
+});
+//]]>
+//-->
+</script>
+<a id="myinfo-add" rel="nofollow" href="addtomyinfo?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy&amp;query=&amp;title=Privacy"><img src="ico-add-my-info.png" width="16" height="16" alt="Add to myHantsweb Information" id="myhantsweb-icon" title="Add to myHantsweb Information" style="vertical-align:middle;"></a>
+<span id="addedOkay"></span>
 	</div>
 	<!-- AddThis Button END -->
 	
@@ -334,6 +403,60 @@ for more information.</p>
 	</div>
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+/* Code to tract Google Analytics stats on external links, download links and email links */
+if (document.getElementsByTagName) {
+        // Initialize external link handlers
+        var hrefs = document.getElementsByTagName("a");
+        for (var l = 0; l < hrefs.length; l++) {
+				// try {} catch{} block added by erikvold VKI
+			try{
+	                //protocol, host, hostname, port, pathname, search, hash
+	                if (hrefs[l].protocol == "mailto:") {
+	                        startListening(hrefs[l],"click",trackMailto);
+	                } else if (hrefs[l].hostname == location.host) {
+	                        var path = hrefs[l].pathname + hrefs[l].search;
+							var isDoc = path.match(/\.(?:doc|eps|jpg|png|svg|xls|ppt|pdf|xls|zip|txt|vsd|vxd|js|css|rar|exe|wma|mov|avi|wmv|mp3)($|\&|\?)/);
+	                        if (isDoc) {
+	                                //startListening(hrefs[l],"click",trackExternalLinks);
+	                        }
+	                } else {
+	                        //startListening(hrefs[l],"click",trackExternalLinks);
+	                }
+			}
+			catch(e){
+					continue;
+			}
+        }
+}
+
+function startListening (obj,evnt,func) {
+        if (obj.addEventListener) {
+                obj.addEventListener(evnt,func,false);
+        } else if (obj.attachEvent) {
+                obj.attachEvent("on" + evnt,func);
+        }
+}
+
+function trackMailto (evnt) {
+        var href = (evnt.srcElement) ? evnt.srcElement.href : this.href;
+        var mailto = "/mailto/" + href.substring(7);
+        if (typeof(pageTracker) == "object") pageTracker._trackPageview(mailto);
+}
+
+function trackExternalLinks (evnt) {
+        var e = (evnt.srcElement) ? evnt.srcElement : this;
+        while (e.tagName != "A") {
+                e = e.parentNode;
+        }
+        var lnk = (e.pathname.charAt(0) == "/") ? e.pathname : "/" + e.pathname;
+        if (e.search && e.pathname.indexOf(e.search) == -1) lnk += e.search;
+        if (e.hostname != location.host) lnk = "/external/" + e.hostname + lnk;
+        if (typeof(pageTracker) == "object") pageTracker._trackPageview(lnk); 
+}
+//]]>
+</script>
 <script type="text/javascript">
 //<![CDATA[
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
