@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beatles.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003951id_/http%3A//www.beatles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatles.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209063106id_/http%3A//www.beatles.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Beatles
 
 This policy sets out how Apple Corps Limited ("Apple") uses and protects any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact Aaron Bremner at [post@applecorpsltd.com](mailto:post@applecorpsltd.com) or on +44 207 761 9600 before using this website.
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. This policy is effective from 5 February January 2006.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. This policy is effective from 5 January 2006.
 
 ## What information do we collect?
 
