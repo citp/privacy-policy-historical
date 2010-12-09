@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusti.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616084128id_/http%3A//directory.campusti.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusti.org privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209171725id_/http%3A//directory.campusti.org/privacy.html) for the most accurate reproduction.*
 
 # CampusTI::Privacy Policy
 
