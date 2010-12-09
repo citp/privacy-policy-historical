@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radissonblu.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327162416id_/http%3A//www.radissonblu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radissonblu.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209083131id_/http%3A//www.radissonblu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Radisson Blu (SAS) Hotels & Resorts - Radisson Blu Hotels & Resorts
+# Privacy Policy - Radisson Blu (SAS) Hotels & Resorts
 
 [What this Policy Covers](http://www.radissonblu.com/privacy-policy#HEADLINE_1)  
 [Your Consent to This Policy](http://www.radissonblu.com/privacy-policy#HEADLINE_2)  
