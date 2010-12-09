@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaysnewyork.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114103851id_/http%3A//www.birthdaysnewyork.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaysnewyork.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209114646id_/http%3A//birthdaysnewyork.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
