@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airjamaica.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419115622id_/http%3A//www.airjamaica.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airjamaica.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209171606id_/http%3A//airjamaica.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Air Jamaica
 
