@@ -1,0 +1,1469 @@
+<!--The following is the downloaded HTML source of the thenateshow.com privacy policy that was archived on 2010-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209145245id_/http%3A//www.thenateshow.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript">
+var PUBLIC_ROOT = 'http://www.thenateshow.com/';
+var AJAX_URL = PUBLIC_ROOT + 'index2.php?option=com_nateajax&ajax=1';
+var omniturePageName = "";
+var omniturePageSection = "";
+var omnitureContentType= "";
+var omnitureContentTitle= "";
+var omnitureContentId= "";
+var omnitureAdditionalEvents = "";
+var omnitureSearchTotalResults = "";
+var omnitureProp1 = "";
+var omnitureVar30 = "";
+var omnitureVar31 = "";
+var omnitureVar32 = "";
+var omnitureProp18 ="";
+
+</script>
+<!--   HEADER   -->
+<link rel="stylesheet" href="http://www.thenateshow.com/templates/nate/css/jquery.ui.dialog.css" type="text/css">
+<link rel="stylesheet" href="http://www.thenateshow.com/templates/nate/css/template.css?v2-4" type="text/css">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="nate, nate berkus, the nate berkus show">
+  <meta name="title" content="The Official Website of The Nate Berkus Show Nate Berkus TheNateShow.Com's Privacy Policy.">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="The Nate Berkus Show Privacy Policy">
+  <meta property="og:description" content="This privacy policy will advise you about our guidelines concerning the use of your personal information.">
+  <meta property="og:image" content="http://www.thenateshow.com/nate/docs/default.jpg">
+  <meta property="fb:app_id" content="141938705822741">
+  <meta property="og:site_name" content="The Nate Berkus Show">
+  <meta property="og:url" content="http://www.thenateshow.com/privacy">
+  <meta name="description" content="The Official Website of The Nate Berkus Show TheNateShow.Com's Privacy Policy, Nate Berkus Show, The Nate Show, Oprah, Oprah Winfrey, Harpo, Sony, Entrada, Nate Berkus, Daytime television, TV Show Host, TV, Design, Life by Design, Design, your weekday, De">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Nate Berkus: The Official Website of The Nate Berkus Show Nate Berkus TheNateShow.Com's Privacy Policy.</title>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/includes.js"></script>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/din.js"></script>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/dinreg.js"></script>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/din-med.js"></script>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/functions.js"></script>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/utils.js?v=1.2"></script>
+  <script type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/scripts.js"></script>
+  <link href="/templates/nate/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <script type="text/javascript" src="/templates/nate/js/jquery.scrollTo-min.js"></script>
+  <script type="text/javascript" src="/templates/nate/js/mainnav.js"></script>
+  <script type="text/javascript" src="/templates/nate/js/cookies.js"></script>
+  <script type="text/javascript" src="/templates/nate/js/PHP_Unserialize.js"></script>
+  <script type="text/javascript" src="/templates/nate/js/mod_mychannel.js?v=1"></script>
+
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<!-- END HEADER -->
+</head>
+<body class="ka-natepages ka-pages ka-privacy">
+<div id="site-outer">
+<div id="site">
+<!-- dialog boxes -->
+<div id="dialogs" style="display:none;">
+  
+<!-- Module Start: mod_dialog_login -->
+<div id="fb-root"></div>
+<div id="dialog-login" style="display:none">
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">
+//Set this variable in your JS before poping dialog to change destination.
+var loginDestination = '';
+ 
+$(document).ready(function(){
+    $("#dialog-login").dialog({
+    modal         : true,
+    resizable     : false,
+    draggable     : true,
+    closeOnEscape : true,
+    autoOpen      : false,	
+	width         : 700,
+	height        : 433,
+	close         : function(event, ui) {
+            resetOverlayError();
+            if( (typeof login_required != 'undefined') && login_required === true){
+                window.location.href='/';
+            }
+	},
+	open		  : function(event, ui) {
+			
+	}
+	});
+    $('#loginForm').validate();
+    //auto launch if needed
+    var logincheck = $.query.get('login');
+    if(logincheck==1){
+		$('#dialog-login').dialog('open');
+		displayOverlayError($.query.get('message'));
+    }
+});
+
+function onSubmitLogin(){
+	
+	if($('#loginForm').valid()){
+		//disable submit button
+		$('#loginFormDiv').hide();
+		$('#login-status').show();
+		var username =  $('#login-username').val();
+		var password = $('#login-password').val();
+
+		
+		//call ajax
+		var url = AJAX_URL+'&format=raw&task=loginUser';
+		//alert(url);
+		$.ajax({
+			url: url,
+			async: false,
+			dataType: 'json',
+			type: 'POST',
+			data: {goto:'', username:username, passwd:password},
+			success: function(data){
+				//alert('status:'+data.status+' message:'+Utils.urldecode(data.message)+' goto:'+data.goto);
+	
+				//success
+				if(data.status=='1'){
+					if(loginDestination!=''&&typeof(loginDestination)!='undefined'&&loginDestination!=null){
+						if(loginDestination.indexOf('login=1')>0){
+							//need to remove so that login doesn't keep popping up
+							loginDestination = loginDestination.replace('login=1', "ajax=1");
+							window.location.href=loginDestination;
+						} else {
+							window.location.href=loginDestination;
+						}
+					} else {
+						loginDestination = window.location.href;
+						if(loginDestination.indexOf('login=1')>0){
+							//need to remove so that login doesn't keep popping up
+							loginDestination = loginDestination.replace('login=1', "ajax=1");
+							window.location.href=loginDestination;
+						} else {
+							window.location.reload();
+						}
+					}
+				}
+				else{
+					displayOverlayError(Utils.urldecode(data.message));
+	
+					//enable submit button
+					$('#loginFormDiv').show();
+					$('#login-status').hide();
+				}					
+			}
+		});
+	}else{
+		displayOverlayError('Please see error messages below.');
+	}
+		
+	
+	return false;
+}
+
+
+
+  FB.init({appId: '5e3e8a42efaa09d8ad524bb809bba107', status: true,
+           cookie: true, xfbml: true});
+
+ /* FB.Event.subscribe('auth.login', function(response) {
+	  if (response.session) {
+		  $('#dialog-registration').dialog('close');
+		  $('#dialog-registration').dialog('open');
+		  $('#dialog-login').dialog('close');
+	  } else {
+	    // user cancelled login
+	  }
+		  	
+  });*/
+	//This means the user clicked the facebook button
+	//Login the user (or use the existing login)
+  function facebookLoginHandler(){
+	  FB.login(function(response) {
+		  if (response.session) {
+			  //check if user already a member
+			  var url = AJAX_URL+'&format=raw&task=loginWithFacebook';
+			  var facebookId = '';
+			  FB.api('/me', function(response) {
+				  facebookId = response.id;
+				//alert(url);
+					$.ajax({
+						url: url,
+						async: false,
+						dataType: 'json',
+						type: 'POST',
+						data: {goto:returnVar, facebookId:facebookId},
+						success: function(data){
+							//alert('status:'+data.status+' message:'+Utils.urldecode(data.message)+' goto:'+data.goto);
+				
+							//success
+							if(data.status=='1'){
+								//window.location.href = data.goto;
+								window.location.reload();
+							}
+							else{
+								//not yet a member 
+								$('#dialog-registration').dialog('open');
+								$('#dialog-login').dialog('close');
+								logOmnitureFacebookRegStart();
+								onOpenCheck();
+							}					
+						}
+					});
+			  });
+			
+			  
+		  } else {
+		    // user is not logged in (say they cancelled)
+		  }
+		}, {perms:'publish_stream,email,user_birthday'});
+				
+	}
+
+</script>
+<div id="loginRegister" class="group">
+    <div id="loginregisterinner">
+	<div id="loginLeft">
+	<h3 class="display">Sign-In</h3>
+	<div class="overlayErrorPane errorMessage"></div>
+	<div id="loginFormDiv">
+		<form name="loginForm" id="loginForm" action="#" method="post" onsubmit="return onSubmitLogin();">
+			<input type="hidden" name="return" value="">
+			<label for="login-username">Username <span class="req">required</span></label>
+			<input name="username" id="login-username" class="required textinput sml" type="text">
+			<label for="login-password">Password <span class="req">required</span></label>
+			<input name="password" id="login-password" class="required textinput sml" type="password">
+			<input type="submit" name="submit" value="submit" class="submit-btn">
+			<p id="forgotstuff"><a href="javascript:void(null);" onclick="$('#dialog-login').dialog('close');$('#dialog-forgotpasswd').dialog('open');return false;" class="morelink"><em>Forgot your password?</em></a><br>
+			<a href="javascript:void(null);" onclick="$('#dialog-login').dialog('close');$('#dialog-forgotusername').dialog('open');return false;" class="morelink"><em>Forgot your username?</em></a></p>
+			<p>or</p>
+			<div><a class="fb_button fb_button_medium" href="javascript:void(null)" onclick="facebookLoginHandler(); return false;"><span class="fb_button_text">Connect with Facebook</span></a></div>
+		</form>
+	</div>
+	<div id="login-status" class="dialogstatus" style="display:none;"><img src="/templates/nate/images/loading.gif" align="absmiddle"> logging in...</div>
+	</div>
+	<div id="loginRight">
+	    <h3 class="display">Not a member?</h3>
+	    <p>Join the Nate Berkus community today</p>
+	    <p class="fbButtton"><a class="fb_button fb_button_medium" href="javascript:void(null)" onclick="facebookLoginHandler(); return false;"><span class="fb_button_text">Connect with Facebook</span></a></p>
+	    <p>or</p>
+	    <p><a href="javascript:void(null);" onclick="showStdRegScreen(true);logOmnitureRegularRegStart();$('#dialog-registration').dialog('open');$('#dialog-login').dialog('close');return false;" class="button">Register</a></p>
+	</div>
+    </div>
+   
+</div>
+</div>
+<!-- Module End: mod_dialog_login -->
+
+<!-- Module Start: mod_nate_share -->
+<script>
+function trackShare(){
+	s.events='event21'; 
+    s.eVar27='share:';
+    s.eVar4='';
+    s.eVar5='';
+    s.eVar6='';
+    s.tl(this,'o','share');
+}
+</script>
+<div id="sharewrap">
+    <div id="sharewrapinner">
+    <h3 class="display">Share</h3>
+    <div id="twitterfb-share" class="group">
+	<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.thenateshow.com/privacy" data-text="Check this out, from The Nate Berkus Show" data-related="nate_berkus:Nate's Official Twitter Account" data-count="horizontal">Tweet</a>
+	
+	    <a name="fb_share" type="button" share_url="http://www.thenateshow.com/privacy">Share</a>
+	<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+
+    </div>
+
+    <div id="copylinkwrap">
+	<fieldset>
+	    <legend>Copy Link</legend>
+	    <input type="text" readonly="readonly" value="http://www.thenateshow.com/privacy" id="copylinkfield" class="textinput">
+	    <a href="#" class="smlbutton" id="share-copybtn">Copy</a>
+	</fieldset>	
+    </div>
+    <div id="sendtofriendwrap">
+	<form id="share-frm" action="">
+	    <fieldset>
+		<legend>Send To A Friend</legend>
+		<div id="send-fromwrap">
+		    <label for="fromaddress">From (Email)</label>
+		    <input type="text" class="textinput sml email required" name="fromaddress" id="share-fromaddress" value="">
+		</div>
+		<div id="send-towrap">
+		    <label for="toaddress">To (Use a "," to separate multiple email addresses)</label>
+		    <input type="text" class="textinput sml email required" name="toaddress" id="share-toaddress">
+		</div>
+		<div id="send-notewrap">
+		    <label for="sendnote">Note (Optional)</label>
+		    <textarea name="sendnote" id="share-sendnote"></textarea>
+		</div>
+		<input type="submit" class="submit-btn" value="Send"><span style="display: none;" id="share-loader"><img src="/images/ajax-loader.gif">&nbsp;Sending Email...</span>
+	    </fieldset>
+            <input type="hidden" name="share_title" id="share-title" value="">
+            <input type="hidden" name="share_description" id="share-description" value="">
+	</form>
+    </div>
+    </div>
+</div><!-- #sharewrap -->
+ <script>
+  //capture the like event
+    FB.Event.subscribe('edge.create', function(response) {
+    	s.events='event20';
+    	s.eVar27='like:facebook';
+    	s.tl(this,'o','like');
+    });
+    </script>
+<!-- Module End: mod_nate_share -->
+
+<!-- Module Start: mod_dialog_forgotusername -->
+<div id="dialog-forgotusername" style="display:none">
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#dialog-forgotusername").dialog({
+    modal         : true,
+    resizable     : false,
+    draggable     : true,
+    closeOnEscape : true,
+    autoOpen      : false,
+	height        : "auto",
+	width         : "auto",
+	close         : function(event, ui) {
+                                resetOverlayError();
+	},
+	open		  : function(event, ui) {
+			$('#forgotUsernameFormDiv').show();
+			$('#usernameSentFormDiv').hide();
+			$('#username-status').hide();
+			
+		}	
+	});
+    $('#forgotUsernameForm').validate();
+});
+
+function onSubmitForgotUsername(){
+	
+	if($('#forgotUsernameForm').valid()){
+		//disable submit button
+		$('#forgotUsernameFormDiv').hide();
+		$('#usernameSentFormDiv').hide();
+		$('#username-status').show();
+		var email =  $('#forgotusername-email').val();
+		var returnVar  = 'aHR0cDovL3d3dy50aGVuYXRlc2hvdy5jb20vcHJpdmFjeQ=='; 
+		
+		//call ajax
+		var url = AJAX_URL+'&format=raw&task=forgotUsername';
+		//alert(url);
+		$.ajax({
+			url: url,
+			async: false,
+			dataType: 'json',
+			type: 'POST',
+			data: {goto:returnVar, email:email},
+			success: function(data){
+				//success
+				if(data.status=='1'){
+					$('#username-status').hide();
+					$('#forgotUsernameFormDiv').hide();
+					$('#usernameSentFormDiv').show();
+				}
+				else{
+					$('#username-status').hide();
+					$('#forgotUsernameFormDiv').show();
+					displayOverlayError(Utils.urldecode(data.message));
+				}					
+			}
+		});
+	}else{
+		displayOverlayError('Please see error messages below.');
+	}
+		
+	
+	return false;
+}
+</script>
+<div id="innerContent">
+	<div id="forgotUsernameFormDiv">
+		<div class="overlayErrorPane errorMessage"></div>
+		<h3>Forgot your username?</h3>
+		<p>Enter the email address for your account and we will send you your username.</p>
+		<form name="forgotUsernameForm" id="forgotUsernameForm" action="#" method="post" onsubmit="return onSubmitForgotUsername();">
+			<input type="hidden" name="return" value="aHR0cDovL3d3dy50aGVuYXRlc2hvdy5jb20vcHJpdmFjeQ==">
+			<label for="email">Email <span class="req">required</span></label>
+			<input name="email" id="forgotusername-email" class="required email textinput" type="text">
+			<input type="submit" name="submit" value="submit" class="submit-btn">
+		</form>
+	</div>
+	<div id="username-status" class="dialogstatus" style="display:none;"><img src="/templates/nate/images/loading.gif" align="absmiddle"> processing request...</div>
+	</div>
+	<div id="usernameSentFormDiv" style="display:none">
+		<p>An email has been sent with your username.  Please check the email account associated with this username.</p>
+		<a href="javascript:void(null);" onclick="$('#dialog-forgotusername').dialog('close');">Close</a>
+	</div>
+</div>
+<!-- Module End: mod_dialog_forgotusername -->
+
+<!-- Module Start: mod_dialog_registration -->
+<div id="dialog-registration" style="display:none">
+    <script type="text/javascript">
+	$(document).ready(function(){
+	    $("#dialog-registration").dialog({
+		modal         : true,
+		resizable     : false,
+		draggable     : true,
+		closeOnEscape : true,
+		autoOpen      : false,
+		height        : 433,
+		width         : 700,
+		close         : function(event, ui) {
+		    resetOverlayError();
+		    if(reloadRegistration){
+			window.location.reload();
+		    }
+		},
+		open 		  : function(event, ui) {
+		    if(blockRegInit!=true){
+				$('#preRegFormContainer').show();
+				$('#lightRegFormContainer').hide();
+				$('#postRegFormContainer').hide();
+		    }
+			
+		}
+	    });
+	    $('#lightRegistrationForm').validate({
+		/*messages: {
+	    'reg-dobmonth': {
+			    dateofbirthcheck: "Please enter a valid date of birth.  It is possible your date of birth does not meet the requirements of this site."
+			    }
+		    },*/
+		errorPlacement: function(error, element) {
+		    if (element.attr("type") == "checkbox"  )
+			error.insertAfter(element.next('label'));
+		    else
+			error.insertAfter(element);
+		},
+		onfocusout: false,
+		onkeyup: false
+			
+				
+	    });
+
+	    /*jQuery.validator.addMethod("dateofbirthcheck", function(value, element) {
+			    var month = $('#reg-dobmonth').val();
+			    var day = $('#reg-dobday').val();
+			    var year = $('#reg-dobyear').val();
+			    if(month!=''&&typeof(month)!='undefined'&&day!=''&&typeof(day)!='undefined'&&year!=''&&typeof(year)!='undefined'){
+				    //check age 13+
+				    var dob = new Date(year, month, day);
+				    var minDate = new Date();
+				    minDate.setDate(minDate.getDate()-(365*18));
+				    if(dob<=minDate){
+					    //alert("date is over 18");
+					    return true;
+				    } else {
+					    //alert("date is not over 18");
+					    return false;
+				    }
+			    } else {
+				    //alert("date is not set");
+				    return false;
+			    }
+	    });*/
+    
+	});
+
+	function logOmnitureFacebookRegStart(){
+		s.events='event3'; 
+		s.eVar28='facebook'; 
+		s.eVar29='complete'; 
+		s.tl(this,'o','registration start');
+		
+	}
+	function logOmnitureRegularRegStart(){
+		s.events='event3'; 
+		s.eVar28='regular'; 
+		s.eVar29='complete'; 
+		s.tl(this,'o','registration start');
+		
+	}
+
+	function logOmnitureFacebookRegStep1Complete(){
+		s.events='event21'; 
+		s.eVar28='facebook'; 
+		s.eVar29='Basic'; 
+		s.tl(this,'o','registration success');
+	}
+
+	function logOmnitureRegularRegStep1Complete(){
+		s.events='event21'; 
+		s.eVar28='regular'; 
+		s.eVar29='Basic'; 
+		s.tl(this,'o','registration success');
+	}
+	
+	var blockRegInit = false;
+	var reloadRegistration = true
+	function onOpenCheck(){
+	    FB.getLoginStatus(function(response) {
+		if (response.session) {
+		    $('#preRegFormContainer').hide();
+			  
+		    // logged in and connected user, someone you know
+		    //Pre-fill fields as possible
+		    FB.api('/me', function(response) {
+			var id = response.id;
+			var firstname = response.first_name;
+			var lastname = response.last_name;
+			var email = response.email;
+			var birthday = response.birthday;
+			$('#facebookId').val(id);
+			$('#facebookIntro h3').html('Welcome '+firstname+', we\'re almost done');
+			$('#nonFacebookIntro').hide();
+			$('#reg-firstname').val(firstname);
+			$('#reg-lastname').val(lastname);
+			if(birthday!='undefined'){
+			    $('#reg-dateofbirth').val(birthday);
+			}
+			if(email!='undefined'){
+			    $('#reg-email').val(email);
+			}
+			$('#shareOnFbSpan').show();
+			$('#reg-terms').removeClass('required');
+			$('#termSpan').hide();
+			Cufon.refresh();
+			$('#lightRegFormContainer').show();
+			//alert("first:"+firstname+" last:"+lastname+" email:"+email+" birthday:"+birthday);
+		    });
+						    
+		} else {
+		    // no user session available, someone you dont know
+			 
+		}
+	    });
+	}
+
+	function showStdRegScreen(blockInit){
+	    blockRegInit = blockInit;
+	    $('#preRegFormContainer').hide();
+	    $('#facebookIntro').hide();
+	    $('#nonFacebookIntro').show();
+	    $('#shareOnFbSpan').hide();
+	    $('#reg-terms').addClass('required');
+	    $('#lightRegFormContainer').show();
+	    $('#postRegFormContainer').hide();
+	 
+	}
+	function onSubmitLightRegistration(){
+	
+	    if($('#lightRegistrationForm').valid()){
+		//disable submit button
+		//$('#loginFormDiv').hide();
+		//$('#login-status').show();
+		var username =  $('#reg-username').val();
+		var password = $('#reg-password').val();
+		var phone = $('#reg-phone').val();
+		var email = $('#reg-email').val();
+		var month = $('#reg-dobmonth').val();
+		var day = $('#reg-dobday').val();
+		var year = $('#reg-dobyear').val();
+		//var dateofbirth = year+"-"+month+"-"+day;
+		var firstname = $('#reg-firstname').val();
+		var lastname = $('#reg-lastname').val();
+		var terms = $('#reg-terms').val();
+		var fbShare = $('#reg-shareonfb:checked').val();
+		var newsletter = $('#reg-newsletter:checked').val();
+		var fbId = $('#facebookId').val();
+		var returnVar  = '';
+		$('#lightRegistrationForm').hide().after('<div class="processingreg"><p><img src="/templates/nate/images/loading.gif" alt="loading..." /> Processing registration</p></div>');
+		//call ajax
+		var url = AJAX_URL+'&format=raw&task=registerNewUser';
+		//alert(url);
+		$.ajax({
+		    url: url,
+		    async: false,
+		    dataType: 'json',
+		    type: 'POST',
+		    data: {goto:returnVar, phone:phone, username:username, password:password, password2:password, email:email, /*dateofbirth:dateofbirth,*/ firstname:firstname, lastname:lastname, facebookid:fbId, newsletter:newsletter, welcome:1},
+		    success: function(data){
+			//alert('status:'+data.status+' message:'+Utils.urldecode(data.message)+' goto:'+data.goto);
+			//post to FB if requested
+				
+			//success
+			if(data.status=='1'){
+			    if(fbShare==1){
+				FB.getLoginStatus(function(response) {
+				    if (response.session) {
+					FB.ui(
+					{
+					    method: 'stream.publish',
+					    message: 'I just joined The Nate Berkus Show Community, check it out!',
+					    display: 'popup',
+					    attachment: {
+						name: 'The Nate Berkus Show',
+						caption: 'The Nate Berkus Show',
+						description: (
+						'A community for fans of The Nate Berkus Show '
+					    ),
+						href: 'http://www.thenateshow.com/'
+					    },
+				  					     
+					    user_message_prompt: 'Share your thoughts about The Nate Berkus Show'
+					},
+					function(response) {
+					    $('#loginFormDiv').hide();
+					    $('#login-status').hide();
+					    $('#lightRegFormContainer').hide();
+					    $('#postRegFormContainer').show();
+					    var fbval = $('#facebookId').val();
+						 if(fbval>0){
+							 logOmnitureFacebookRegStep1Complete();
+						 } else {
+							 logOmnitureRegularRegStep1Complete();
+						 }
+					}
+				  									  					   
+				    );
+				  									 			 			
+				    }
+				});
+			    } else {
+		
+				$('#loginFormDiv').hide();
+				$('#login-status').hide();
+				$('#lightRegFormContainer').hide();
+				$('#postRegFormContainer').show();
+				 var fbval = $('#facebookId').val();
+				 if(fbval>0){
+					 logOmnitureFacebookRegStep1Complete();
+				 } else {
+					 logOmnitureRegularRegStep1Complete();
+				 }
+			    }
+					
+			}
+			else{
+			    displayOverlayError(Utils.urldecode(data.message));
+			    $('#lightRegistrationForm').show();
+			    $('div.processingreg').remove();
+			    //enable submit button
+			    $('#loginFormDiv').show();
+			    $('#login-status').hide();
+			    $('#postRegFormContainer').hide();
+			}
+		    }
+		});
+	    }else{
+		displayOverlayError('Please see error messages below.');
+	    }
+		
+	
+	    return false;
+	}
+jQuery.validator.addMethod("phone", function(phone_number, element) {
+    phone_number = phone_number.replace(/\s+/g, ""); 
+        return this.optional(element) || phone_number.length > 9 &&
+                phone_number.match(/^(1-?)?(\([2-9]\d{2}\)|[2-9]\d{2})-?[2-9]\d{2}-?\d{4}$/);
+}, "Please specify a valid phone number");
+
+
+    </script>
+    <div id="lightRegWrap">
+	<div id="lightRegFormContainer" style="display:none">
+	    <div class="overlayErrorPane errorMessage"></div>
+	    <form name="lightRegistrationForm" id="lightRegistrationForm" action="#" method="post" onsubmit="return onSubmitLightRegistration();">
+		<input type="hidden" name="facebookId" value="" id="facebookId">
+		<div id="facebookIntro">
+		    <h3 class="display"></h3>
+		    <p>In order to complete registration you need to provide an email address, a username and a password.</p>
+		</div>
+		<div id="nonFacebookIntro"><h3 class="display">Basic Registration</h3></div>
+		<div id="reg-firstnamewrap">
+		    <label for="reg-firstname">First Name <span class="req">required</span></label>
+		    <input class="required textinput sml" name="firstname" type="text" id="reg-firstname">
+		</div>
+		<div id="reg-lastnamewrap">
+		    <label for="reg-lastname">Last Name <span class="req">required</span></label>
+		    <input class="required textinput sml" name="lastname" type="text" id="reg-lastname">
+		</div>
+		<div id="reg-dobwrap">
+		    <input type="checkbox" class="checkbox required" name="ofage" id="ofage">
+		    <label for="ofage">I am 18 years old or older.</label>
+		    <!--<label for="reg-dobmonth">Date of Birth <span class="req">required</span></label>
+		    <select name="reg-dobmonth" id="reg-dobmonth" class="selectinput dateofbirthcheck dropdown"><option value="">Month</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select><select name="reg-dobday" id="reg-dobday" class="selectinput dropdown"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><select name="reg-dobyear" id="reg-dobyear" class="dropdown selectinput"><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option></select>-->
+		</div>
+		<div id="reg-emailwrap">
+		    <label for="reg-email">Email <span class="req">required</span></label>
+		    <input class="required textinput sml" name="email" type="text" id="reg-email">
+		</div>
+		<div id="reg-privacypolicywrap">
+		    <a target="_blank" href="http://www.thenateshow.com/privacy" class="morelink">Privacy Policy »</a>
+		</div>
+		<div id="reg-usernamewrap">
+		    <label for="reg-username">Username <span class="req">required</span></label>
+		    <input class="required textinput sml" name="username" minlength="3" maxlength="24" type="text" id="reg-username">
+		</div>
+		<div id="reg-phonewrap">
+		    <label for="reg-phone">Phone <span class="req">required</span></label>
+		    <input class="phone textinput sml" name="phone" minlength="3" maxlength="24" type="text" id="reg-phone">
+		</div>
+		<div id="reg-passwordwrap">
+		    <label for="reg-password">Password <span class="req">required</span></label>
+		    <input class="required textinput sml" name="password" minlength="3" maxlength="24" type="password" id="reg-password">
+		</div>
+		<div id="reg-confirmpwwrap">
+		    <label for="reg-confpassword">Confirm Password <span class="req">required</span></label>
+		    <input class="required textinput sml" equalto="#reg-password" name="password2" type="password" id="reg-confpassword">
+		</div>
+		<div style="display:none" id="shareOnFbSpan">
+		    <input type="checkbox" name="shareonfb" value="1" id="reg-shareonfb" class="checkbox">
+		    <label for="reg-shareonfb">Tell your Facebook friends that you've joined The Nate Berkus Show community.</label>
+		</div>
+		<div id="termSpan">
+		    <input type="checkbox" class="checkbox required" name="terms" value="1" id="reg-terms">
+		    <label for="reg-terms">I agree to the <a target="_blank" href="http://www.thenateshow.com//terms" class="morelink">Terms and Conditions</a> of The Nate Berkus Show.</label>
+		</div>
+		<div id="reg-newsletterwrap">
+		    <input type="checkbox" name="newsletter" value="1" class="checkbox" id="reg-newsletter">
+		    <label for="reg-newsletter">Yes, I want to receive email newsletters from The Nate Berkus Show</label>
+		</div>
+		<div id="reg-submitwrap">
+		    <input type="submit" name="submit" value="submit" class="submit-btn">
+		</div>
+	    </form>
+	</div>
+	<div id="preRegFormContainer">
+	    <h3 class="display">Join the Nate Berkus Show Community</h3>
+	    <ul>
+		<li class="fbButton"><a class="fb_button fb_button_medium" href="javascript:void(null)" onclick="facebookLoginHandler(); return false;"><span class="fb_button_text">Connect with Facebook</span></a></li>
+		<li class="fbornot">OR</li>
+		<li><a href="javascript:void(null);" onclick="showStdRegScreen();logOmnitureRegularRegStart();return false;" class="inline-button button">Register</a></li>
+	    </ul>
+	</div>
+	<div id="postRegFormContainer">
+	    <h3 class="display">Thank You</h3>
+	    <p>Basic registration is complete.  You may now take part in the community discussions.</p>
+	    <p>You may be required to provide more information to upload content, take part in a project or be a part of the show.  You may complete your full profile now or close this window to continue.</p>
+
+	    <div id="completeprofile">
+		<a href="javascript:void(null);" onclick="reloadRegistration = false;$('#dialog-registration-contact').dialog('open');$('#dialog-registration').dialog('close');return false;" class="button">Complete Profile</a>
+	    </div>
+	</div>
+    </div>
+</div>
+<!-- Module End: mod_dialog_registration -->
+
+<!-- Module Start: mod_dialog_forgotpasswd -->
+<div id="dialog-forgotpasswd" style="display:none">
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#dialog-forgotpasswd").dialog({
+    modal         : true,
+    resizable     : false,
+    draggable     : true,
+    closeOnEscape : true,
+    autoOpen      : false,
+	height        : 433,
+	width         : 700,
+	close         : function(event, ui) {
+                                resetOverlayError();
+	},
+	open		  : function(event, ui) {
+			$('#forgotPasswdFormDiv').show();
+			$('#passwordSentFormDiv').hide();
+			$('#password-status').hide();
+			
+		}	
+	});
+    $('#forgotPasswdForm').validate();
+});
+
+function onSubmitForgotPasswd(){
+	
+	if($('#forgotPasswdForm').valid()){
+		//disable submit button
+		$('#forgotPasswdFormDiv').hide();
+		$('#passwordSentFormDiv').hide();
+		$('#password-status').show();
+		var email =  $('#forgot-email').val();
+		var returnVar  = 'aHR0cDovL3d3dy50aGVuYXRlc2hvdy5jb20vcHJpdmFjeQ=='; 
+		
+		//call ajax
+		var url = AJAX_URL+'&task=forgotPasswd';
+		//alert(url);
+		$.ajax({
+			url: url,
+			async: false,
+			dataType: 'json',
+			type: 'POST',
+			data: {goto:returnVar, email:email},
+			success: function(data){
+				//success
+				if(data.status=='1'){
+					$('#password-status').hide();
+					$('#forgotPasswdFormDiv').hide();
+					$('#passwordSentFormDiv').show();
+				}
+				else{
+					$('#password-status').hide();
+					$('#forgotPasswdFormDiv').show();
+					displayOverlayError(Utils.urldecode(data.message));
+				}					
+			}
+		});
+	}else{
+		displayOverlayError('Please see error messages below.');
+	}
+		
+	
+	return false;
+}
+</script>
+<div id="innerContent">
+	<div id="forgotPasswdFormDiv">
+		<div class="overlayErrorPane errorMessage"></div>
+		<h3 class="display">Forgot your password?</h3>
+		<p>Enter the email address for your account and we will send you instructions on how to change your password.</p>
+		<form name="forgotPasswdForm" id="forgotPasswdForm" action="#" method="post" onsubmit="return onSubmitForgotPasswd();">
+			<input type="hidden" name="return" value="aHR0cDovL3d3dy50aGVuYXRlc2hvdy5jb20vcHJpdmFjeQ==">
+			<label for="forgot-email">Email <span class="req">required</span></label>
+			<input name="email" id="forgot-email" class="required email textinput" type="text">
+			<input type="submit" name="submit" value="submit" class="submit-btn">
+		</form>
+	</div>
+	<div id="password-status" class="dialogstatus" style="display:none;"><img src="/templates/nate/images/loading.gif" align="absmiddle"> processing request...</div>
+	</div>
+	<div id="passwordSentFormDiv" style="display:none">
+		<p>An email has been sent with a link to allow you to reset your password.  Please check the email account associated with this username.</p>
+		<a href="javascript:void(null);" onclick="$('#dialog-forgotpasswd').dialog('close');">Close</a>
+	</div>
+</div>
+<!-- Module End: mod_dialog_forgotpasswd -->
+
+<!-- Module Start: mod_dialog_registration_contact -->
+<div id="dialog-registration-contact" style="display:none">
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#dialog-registration-contact").dialog({
+    modal         : true,
+    resizable     : false,
+    draggable     : true,
+    closeOnEscape : true,
+    autoOpen      : false,
+    zIndex	  : 1004,
+	height        : 433,
+	width         : 700,
+	close         : function(event, ui) {
+                                resetOverlayError();
+                                window.location.reload();
+	},
+	open 		  : function(event, ui) {
+	    $('select.statemenu').selectmenu({style:'dropdown', maxHeight:200});
+	}	
+	});
+
+    $('#lightRegistrationContactForm').validate();
+    jQuery.validator.addMethod("phoneUS", function(phone_number, element) {
+        phone_number = phone_number.replace(/\s+/g, ""); 
+    	return this.optional(element) || phone_number.length > 9 &&
+    		phone_number.match(/^(1-?)?(\([2-9]\d{2}\)|[2-9]\d{2})-?[2-9]\d{2}-?\d{4}$/);
+    }, "Please specify a valid phone number");
+    
+    
+});
+function logOmnitureRegComplete(){
+	s.events='event21'; 
+	s.eVar29='complete'; 
+	s.tl(this,'o','registration success');
+	
+}
+
+var returnVar  = '';
+function onSubmitRegistrationContact(){
+	
+	if($('#lightRegistrationContactForm').valid()){
+		//disable submit button
+		//$('#loginFormDiv').hide();
+		//$('#login-status').show();
+		var address =  $('#reg-address').val();
+		var city = $('#reg-city').val();
+		var state = $('#reg-state').val();
+		var zip = $('#reg-zip').val();
+		var primaryphone = $('#reg-primephone').val();
+		primaryphone = +primaryphone.replace(/\D/g,'');
+		var secondaryphone = $('#reg-secphone').val();
+		secondaryphone = +secondaryphone.replace(/\D/g,'');
+		$('#lightRegistrationContactForm').hide().after('<div class="processingreg"><p><img src="/templates/nate/images/loading.gif" alt="loading..." /> Processing registration</p></div>');
+		//call ajax
+		var url = AJAX_URL+'&format=raw&task=setContactInfo';
+		//alert(url);
+		$.ajax({
+			url: url,
+			async: false,
+			dataType: 'json',
+			type: 'POST',
+			data: {goto:returnVar, address:address, city:city, state:state, zip:zip, primaryphone:primaryphone, secondaryphone:secondaryphone},
+			success: function(data){
+				//success
+				if(data.status=='1'){
+					logOmnitureRegComplete();
+					
+					if(returnVar==''){
+						setTimeout(function(){window.location.reload();}, 1000);
+					} else {
+						setTimeout(function(){window.location = returnVar;}, 1000);
+					}
+				}
+				else{
+					displayOverlayError(Utils.urldecode(data.message));
+					$('#lightRegistrationContactForm').show();
+					$('div.processingreg').remove();
+				}					
+			}
+		});
+	}else{
+		displayOverlayError('Please see error messages below.');
+		$('#lightRegistrationContactForm').show();
+		$('div.processingreg').remove();
+	}
+		
+	
+	return false;
+}
+</script>
+<div id="lightRegWrap">
+	<div id="lightRegContactFormContainer">
+	<div class="overlayErrorPane errorMessage"></div>
+		<form name="lightRegistrationContactForm" id="lightRegistrationContactForm" action="#" method="post" onsubmit="return onSubmitRegistrationContact();">
+			<h3 class="display">CONTACT INFORMATION</h3>
+			<div id="reg-addresswrap">
+			    <label for="reg-address">Street Address </label>
+			    <input class="textinput lrg" name="address" type="text" id="reg-address">
+			</div>
+			<div id="reg-citywrap">
+			    <label for="reg-city">City <span class="req">required</span></label>
+			    <input class="required textinput lrg" name="city" type="text" id="reg-city">
+			</div>
+			<div id="reg-statewrap">
+			    <label for="reg-state">State <span class="req">required</span></label>
+			    <select name="state" id="reg-state" class="required statemenu"><option value="">Select One...</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District Of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select>			</div>
+			<div id="reg-zipwrap">
+			    <label for="reg-zip">Postal Code </label>
+			    <input class="textinput digits sml" maxlength="5" minlength="5" name="zip" type="text" id="reg-zip">
+			</div>
+			<div class="formrow">
+			    <div id="reg-primephonewrap">
+				<label for="reg-primephone">Home Phone <span class="req">required</span></label>
+				<input class="textinput sml phoneUS required" name="primaryphone" type="text" id="reg-primephone">
+			    </div>
+			    <div id="reg-secphonewrap">
+				<label for="reg-secphone">Mobile Phone</label>
+				<input class="textinput sml phoneUS" name="secondaryphone" type="text" id="reg-secphone">
+				<p class="opt">(Standard message and data rates charged by your wireless provider will apply)</p>
+			    </div>
+			</div>
+			<div id="reg-submitcontactwrap">
+			    <input type="submit" name="submit" value="submit" class="submit-btn">
+			</div>
+		</form>
+	</div>
+	
+</div>
+</div>
+<!-- Module End: mod_dialog_registration_contact -->
+
+<!-- Module Start: mod_dialog_newsletter -->
+<div id="dialog-newsletter" style="display:none">
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#dialog-newsletter").dialog({
+    modal         : true,
+    resizable     : false,
+    draggable     : true,
+    width	  : 400,
+    height	  : 400,
+    closeOnEscape : true,
+    autoOpen      : false,
+	height        : "auto",
+	close         : function(event, ui) {
+                                resetOverlayError();
+                                footerLaunch = false;
+	},
+		    open  : function(event, ui) {
+		if(footerLaunch){
+			var tempEmail = $('#newsletter-email').val();
+			if(tempEmail!='enter email address'){
+				$('#newsletter2-email').val(tempEmail);
+			}
+		}
+		$('#newsletter-complete').hide();
+		$('#newsletterFormDiv').show();
+		$('#newsletter-status').hide();
+	}
+		});
+    $('#newsletterForm').validate();
+
+    
+});
+var footerLaunch = false;
+function onSubmitNewsletter(){
+	
+	if($('#newsletterForm').valid()){
+		//disable submit button
+		$('#newsletterFormDiv').hide();
+		$('#newsletter-status').show();
+		$('#newsletter-complete').hide();
+		var firstname =  $('#newsletter-firstname').val();
+		var lastname = $('#newsletter-lastname').val();
+		var email = $('#newsletter2-email').val();
+		var returnVar  = ''; 
+		
+		//call ajax
+		var url = AJAX_URL+'&format=raw&task=subscribe';
+		//alert(url);
+		$.ajax({
+			url: url,
+			async: false,
+			dataType: 'json',
+			type: 'POST',
+			data: {goto:returnVar, firstname:firstname, lastname:lastname, newsletter:1, email:email},
+			success: function(data){
+				
+				//success
+				if(data.status=='1'){
+					//window.location.href = data.goto;
+					
+					$('#newsletter-complete').show();
+					$('#newsletterFormDiv').hide();
+					$('#newsletter-status').hide();
+				}
+				else{
+					displayOverlayError(Utils.urldecode(data.message));
+	
+					//enable submit button
+					$('#newsletterFormDiv').show();
+					$('#newsletter-status').hide();
+					$('#newsletter-complete').hide();
+				}					
+			}
+		});
+	}else{
+		displayOverlayError('Please see error messages below.');
+	}
+		
+	
+	return false;
+}
+</script>
+<div id="newsletterGroup" class="group">
+    <div id="newsletterinner">
+		<h2>Newsletter</h2>
+		<div class="overlayErrorPane errorMessage"></div>
+		<div id="newsletterFormDiv">
+			<form name="newsletterForm" id="newsletterForm" action="#" method="post" onsubmit="return onSubmitNewsletter();">
+				<label for="newsletter-firstname">First Name <span class="req">required</span></label>
+				<input name="firstname" id="newsletter-firstname" class="required textinput sml" type="text">
+				<label for="newsletter-lastname">Last Name <span class="req">required</span></label>
+				<input name="lastname" id="newsletter-lastname" class="required textinput sml" type="text">
+				<label for="newsletter2-email">Email <span class="req">required</span></label>
+				<input name="email" id="newsletter2-email" class="required textinput sml" type="text">
+				
+				<input type="submit" name="submit" value="submit" class="submit-btn">
+			</form>
+		</div>
+		<div id="newsletter-status" class="dialogstatus" style="display:none;"><img src="/templates/nate/images/loading.gif" align="absmiddle"> subscribing ...</div>
+		
+		<div id="newsletter-complete" style="display:none;"> 
+			<p>You are now subscribed to The Nate Berkus Show newsletter.</p>
+		</div>
+		
+	
+    </div>
+   
+</div>
+</div>
+<!-- Module End: mod_dialog_newsletter -->
+
+</div>
+<!-- main container -->
+<div id="wrap">
+    
+<!-- Module Start: mod_topnav -->
+<div id="topnav">
+    <ul>	
+	<li id="joinnav"><a href="javascript:void(null);" onclick="$('#dialog-registration').dialog('open');return false;">Join Nate's Community!</a></li>
+	<li id="signuploginnav"><a href="javascript:void(null);" onclick="$('#dialog-login').dialog('open');return false;">Sign Up or Log In</a></li>	
+	<li id="newsletternav"><a href="javascript:void(null)" onclick="$('#dialog-newsletter').dialog('open');return false;">Get Newsletter</a></li>
+    </ul>    
+    <div id="fbconnectnav">
+	<a class="fb_button fb_button_medium" href="javascript:void(null)" onclick="facebookLoginHandler(); return false;"><span class="fb_button_text">Connect with Facebook</span></a>
+    </div>
+</div><!-- #topnav -->
+
+<!-- Module End: mod_topnav -->
+    
+    <div id="leaderboard">
+	<script language="JavaScript" type="text/javascript">
+if (typeof dc_tile=='undefined') {dc_tile=1;} else {dc_tile++;}
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/thenateshow.com/general;pos=1;tile=' + dc_tile +';dcopt=ist;test=0;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/thenateshow.com/general;pos=1;tile=1;dcopt=ist;test=0;sz=728x90;ord=1993657990839470.2?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/thenateshow.com/general;pos=1;test=0;sz=728x90;ord=123456789?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/thenateshow.com/general;pos=1;test=0;sz=728x90;ord=123456789?" border="0" alt=""></a></noscript>
+    </div><!-- #leaderboard -->
+
+    <div id="header" class="group">
+	<a href="/" id="logo"><h1>NATE - The Nate Berkus Show</h1></a>
+	
+<script type="text/javascript">
+var guestUser = true; 
+
+</script>
+
+<div id="stationfinder">
+    	<div id="stationlogo"></div>
+        <div id="mystationinfo">
+	<p class="stationcity" id="stationcity"></p>
+	<p class="stationtime" id="stationtime">
+	    	    <span id="stationchannel"></span>
+	</p>
+	<p><a href="http://www.thenateshow.com//station-finder">Not Your Station?</a></p>
+    </div>
+</div>
+					
+        
+<!-- Module Start: mod_mainnav -->
+
+<div id="mainnav">
+    <ul id="main-top" class="group">
+	<li id="home-nav" class="top"><a href="http://www.thenateshow.com/" class="mn">Home</a></li>
+	<li id="videomorenav" class="top"><a href="http://www.thenateshow.com/videos" id="videomorenavlink" class="mn">Video + More</a>
+	    <div id="video-drop" class="nav-dd">
+		<div class="vd-left">
+		    <ul>
+			<li><a href="http://www.thenateshow.com/videos/all/">All Videos »</a></li>
+			<li><a href="http://www.thenateshow.com/episodes/">Episode Guide »</a></li>
+		    </ul>
+		</div><!-- #vd-left -->
+		<div class="vd-right">
+		    <h4>See Clips by Type</h4>
+		    <ul>
+			<!--<li><a href="http://www.thenateshow.com/videos?favs=1">Nate's Finds &raquo;</a></li>-->
+		                                    <li><a href="http://www.thenateshow.com/videos?type=49">Web Exclusives »</a></li>                                <li><a href="http://www.thenateshow.com/videos?type=15">Show Scenes »</a></li>                                <li><a href="http://www.thenateshow.com/videos?type=37">Paint and Color »</a></li>                                <li><a href="http://www.thenateshow.com/videos?type=39">Nate's Finds »</a></li>		    </ul>
+		</div><!-- #vd-right -->
+	    </div><!-- #video-drop -->
+	</li>
+	<li id="tipstoolsnav" class="top"><a href="http://www.thenateshow.com/tipsandtools" class="mn">Tips + Tools</a>
+	    <div id="tipdrop" class="nav-dd">
+		<div class="vd-left">
+		    <ul>
+			<li><a href="http://www.thenateshow.com/tipsandtools">Tips + Tools »</a></li>			
+		    </ul>
+		</div><!-- #vd-left -->
+		<div class="vd-right">
+		    <h4>See Tips + Tools by Category</h4>
+		    <ul>		    
+			        	 	<li><a href="/tipsandtools/?type=35">Holiday</a></li>
+			        	 	<li><a href="/tipsandtools/?type=33">Gift Guides</a></li>
+			        	 	<li><a href="/tipsandtools/?type=31">Paint + Color</a></li>
+			        	 	<li><a href="/tipsandtools/?type=29">DIY Projects</a></li>
+					    </ul>
+		</div><!-- #vd-right -->
+	    </div><!-- #video-drop -->
+	</li>
+	<li id="sharenav" class="top"><a href="/share" class="mn">Share With Nate</a>
+	    <div id="sharedrop" class="nav-dd">
+		<div class="vd-left">
+		    <ul>
+			<li><a href="/share">All Submissions »</a></li>
+		    </ul>
+		</div><!-- .vd-left -->
+		<div class="vd-right">
+		    		    <h4>Community Posts</h4>
+		    <ul>			<li><a href="/share/project/185/design-success-stories">Design Success Stories »</a></li>
+
+						<li><a href="/share/project/217/shared-space-solutions">Shared Space Solutions »</a></li>
+
+						<li><a href="/share/project/113/paint-design-crimes">Paint Design Crimes »</a></li>
+
+						<li><a href="/share/project/143/backyard-finds">Backyard Finds »</a></li>
+
+					    </ul>
+		    		</div><!-- .vd-right -->
+	    </div><!-- #sharedrop -->
+	</li>
+	<li id="natesblognav" class="top"><a href="http://www.thenateshow.com/blogs/" class="mn">Nate's Blog</a>
+	    <div id="blogdrop" class="nav-dd">
+		<div class="vd-left">
+		    <ul>
+			<li><a href="http://www.thenateshow.com/blogs/">Nate's Blog »</a></li>
+		    </ul>
+		</div><!-- #vd-left -->
+				<div class="vd-right">
+		    <h4>Read By Contributor</h4>
+		    <ul>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=35">Guest Bloggers  »</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=39">Nate's Mailbag  »</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=16">Nate Berkus »</a></li>                                <li><a href="http://www.thenateshow.com/blogs/?contributor=10">Nancy Golden »</a></li>		    </ul>
+		</div><!-- #vd-right -->
+			    </div><!-- #blogdrop -->
+	</li>
+	<!--<li id="morenav" class="top"><a href="#" class="mn">&raquo;</a>
+	    <div id="moredrop" class="nav-dd">
+		<ul>
+		    <li><a href="#">Real Time Design &raquo;</a></li>
+		    <li><a href="http://www.thenateshow.com/episodes/">Episode Guide &raquo;</a></li>
+		    <li><a href="http://www.thenateshow.com/be-on-the-show">Be On The Show &raquo;</a></li>
+		    <li><a href="http://www.thenateshow.com/tickets">Get Tickets &raquo;</a></li>
+		</ul>
+	    </div>
+	</li>-->
+    </ul>            
+    <div id="main-lower" class="group">
+	<ul>
+	    <li id="beontheshownav" class="first"><a href="http://www.thenateshow.com/be-on-the-show">Be on the Show</a></li>
+	    <li id="ticketsnav"><a href="http://www.thenateshow.com/tickets">Get Tickets</a></li>
+	    <li id="wtwnav"><a href="http://www.thenateshow.com/station-finder">Where to Watch</a></li>
+	</ul>
+	<div id="search-c">
+	    <form name="search" id="searchForm" action="http://www.thenateshow.com/search-results" method="get">
+		<input id="search" name="keywords" value="search" class="unclicked">
+		<input type="button" name="go" id="go-search">
+	    </form>
+	</div><!-- #search-c -->
+    </div><!-- #main-lower -->
+</div><!-- #mainnav -->
+
+<!-- Module End: mod_mainnav -->
+
+
+    </div><!-- #header -->
+
+    
+    
+    
+
+    
+<!-- Module Start: mod_toptabs -->
+<!--com_natepagespagesprivacy--><div id="tabwrap" class="group">
+<div id="privacy">
+    <ul id="toptabs">
+	<li id="privacytab"><a href="/privacy">Privacy Policy</a></li>
+     </ul>
+</div>
+    <p id="tabsponsor"><span></span> <a href="#"><img src="/"></a></p>
+</div>
+<!-- Module End: mod_toptabs -->
+
+
+    
+
+    
+    
+    <div id="contentwrap" class="group">
+        
+		    <!-- gfc:1:staticpage_privacy -->
+        <div id="privacycontent" class="fullwidth innercontent">
+            <h1>TheNateShow.Com's Privacy Policy</h1>
+            <p><b>Effective Date: September 2, 2010</b><br>This policy applies to your use of thenateshow.com web site and any interactive features, downloads or widgets made available through the web site or that interact with the web site and include a link to this policy (collectively, the "Site"), whether accessed via computer, mobile device or other technology. The Site is owned and operated jointly by Sony Pictures Television Inc. (“Sony”) and Harpo Productions, Inc. (“Harpo”) &nbsp;(collectively, "we," "us" or "our") &nbsp;and any information collected by the Site is collected, used and owned jointly by both Sony and Harpo, both of whom will use it in accordance with this privacy policy.&nbsp; This policy does not apply to your use of other web sites (including those to which the Site links) nor does it apply to information collected offline by us (unless specifically stated).<b>&nbsp;</b></p>
+<p>&nbsp;</p>
+<p>This privacy policy will advise you about our collection and use of your personal information including the reasonable efforts we make to protect your personal information in accord with this policy, and the choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here, which will become effective immediately upon posting, so that you will know our policies regarding what information we gather, how we might use that information and under what circumstances we disclose that information to third parties. However, we will use your personal information in a manner consistent with the policy in effect at the time you submitted the information, unless you consent to the new or revised policy. Please refer back to this policy regularly. <br><br><br>Please also review the Site's <a href="/terms">Terms of Use</a>, &nbsp;which governs your use of the Site.<br><br><b>TABLE OF CONTENTS </b><br>1.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#1">Personal Information</a><br>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#2">Information We Receive From Third Parties</a><br>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#3">How We May Share The Information Collected Through the Site</a><br>4.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#4">Information You Disclose Publicly On Our Site</a><br>5.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#nonpersonal">NonPersonal Information</a><br>6.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#adserving">Ad Serving And Traffic Measurement Services We May Use</a><br>7.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#yearsofage">You Must be 18 Years of Age</a><br>8.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#othersites">Links to Other Sites; Site Content on Third Party Sites</a><br>9.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#security">Security</a><br>10.&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#access">Access to/Correction of Information</a><br>11.&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#choice">Choice/Opt Out</a><br>12.&nbsp;&nbsp; <a href="#http://thenateshow.kickdeveloper.com/privacy#transfer">Consent to Transfer</a><br><b>&nbsp;</b><br><strong><a name="http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#1"></a>1.&nbsp; Personal Information</strong><br>We may request "Personal Information" from you, which is information that could be used to contact you or identify you personally (such as your name, street address, telephone number or e-mail address) in connection with your use of, or participation in, membership registration for thenateshow.com, our contests, sweepstakes, promotions, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information (including via e-mail to us) and in connection with other activities, services or resources we make available on our Site. The Site may also ask you to provide other information about yourself, such as demographic information (gender, ZIP code, etc.) or certain information about your preferences and interests.&nbsp; If we combine demographic or other information we collect about you with personal information about you, we will treat the combined information as personal information</p>
+<p>&nbsp;</p>
+<p>We may use personal information and &nbsp;any non-personal information (<a href="#http://thenateshow.kickdeveloper.com/privacy#nonpersonal">including Usage Information</a>) collected through the site to: (1) conduct the feature or activity in connection with which you provided your information; (2) provide you with information or services that you have requested or agreed to receive; (3) process your registration on the Site, including verifying your e-mail address is active and valid; (4) tailor content, advertisements, and offers we serve you; (5) improve the Site and for internal business purposes; (6) contact you with regard to your use of the Site and, in our discretion, changes to the Site policies; and (7) for purposes disclosed to you at the time you provide your personal information or otherwise with your consent.</p>
+<p>Please note that information submitted to the Site via a "contact us” or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise.</p>
+<p>&nbsp;</p>
+<p>If you use the Site to send a friend an invitation to participate in the Site or send other Site-related communications, the information you provide (typically, names and e-mail addresses) is used on a one-time basis to facilitate the communication on your behalf, and is not used for any other marketing purposes unless we obtain consent from that person.<br><br><strong><a name="http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#2"></a>2.&nbsp; Information We Receive From Third Parties </strong><br><strong>&nbsp;</strong>We may receive information about you from various third parties. For example, if you are on another web site and you opt-in to receive information from our Site, that third party web site will forward to us your e-mail address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as via Facebook or a similar application or feature via a third party web site) through which you allow us to collect (or the third party to share) information about you, including personal information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third party web site give us access to their profiles and you are one of their "connections”&nbsp; or information about you is otherwise accessible through your “connections’”&nbsp; web page, profile page, or similar page on a social networking or other third party web site or interactive service.</p>
+<p>&nbsp;</p>
+<p>We may also supplement the information we collect about you through the Site with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. If we combine the information we receive from third parties with information we collect through the Site, we will treat it in accordance with this privacy policy.<br><strong>&nbsp;</strong><strong>&nbsp;</strong><a name="http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#3"></a><br><strong>3.&nbsp; How We May Share The Information Collected Through the Site </strong><br><strong>&nbsp;</strong>We may share non-personal information, such as aggregated user statistics, and <a href="#http://thenateshow.kickdeveloper.com/privacy#nonpersonal">Usage Information</a><b> </b>with third parties.<br>We may share your personal information as set forth in this policy and in the following circumstances:<br>&nbsp;<i>&nbsp;</i><br><i>a. When You Agree To Have Your Personal Information Shared. </i><br>We do not share your personal information with third parties for those third parties' marketing purposes unless you give us your permission.&nbsp; While on our Site, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with third parties.&nbsp; If you wish to opt-out from having your personal information shared with third parties on a going-forward basis, visit &nbsp;<a href="http://www.thenateshow.com/">www.thenateshow.com</a>/profile on the Site and change your preferences.&nbsp; Note, however, that once your information is shared, if you later wish to opt-out from marketing communications you receive from a third party, you will need to contact that third party directly. . &nbsp;&nbsp;<br><br><i>b. Legal Protections and Law Enforcement</i>.<br>We may transfer and disclose information, including your personal information, <a href="#http://thenateshow.kickdeveloper.com/privacy#nonpersonal">Usage Information</a><b> </b>and <a href="#http://thenateshow.kickdeveloper.com/privacy#device">Device Identifier</a>, (including IP address), to third parties to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We may also release specific information in special cases, such as if there is an attempted breach of the security of the Site or a physical or property threat to you or others. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.<br><i>&nbsp;</i></p>
+<p><i>c. Business Transfers</i>.<br>The Site may be sold, or other transactions may occur in which your personal information is one of the key business assets for the transaction. Therefore, we may also transfer user information, including personal identification information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change.<br><i>&nbsp;</i></p>
+<p><i>d. Third Parties Providing Services On Our Behalf</i>.&nbsp;<br>We may provide access to your personally identification information to our contractors who are performing services for us in connection with our Site or the services that you have requested. <br><br><i>e. Sweepstakes, Contests and Promotions</i>.<br>In addition, on occasion, we may collect Personal Information from you in connection with optional contests, special offers or promotions (each, a "Promotion). We will share such information with necessary third parties for the purpose of carrying out the Promotion. Your participation in the Promotion constitutes your consent to such disclosure and use of such information. By entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials.<br><br><strong><a name="http://natetest.kicknetwork.com/privacy#http://thenateshow.kickdeveloper.com/privacy#4"></a>4.&nbsp; Information You Disclose Publicly On Our Site</strong><br>The Site may offer message boards, chat rooms, blogs and other public areas (such as the "Share with Nate" feature) (collectively, “Forums”) where you can engage in social networking, interact with others, as well as have the opportunity to submit photographs, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content (collectively, "Submissions").&nbsp; To participate in certain Forums, you may be asked to select a username, screen name or member name and password.&nbsp; Please do not use your real name or the real name of another person when selecting a username (or screen name or member name).</p>
+<p>&nbsp;</p>
+<p>Please note that when you post Submissions or you give out personal information on one of our &nbsp;Forums, that information can be collected and used by third parties and we have no control over how such third parties may use your information. You disclose such information at your own risk.<br><b>Submissions may be published online or offline in any media or format (currently existing or hereafter developed).&nbsp; We may also publish your name, voice, likeness and other personal information with your Submissions, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.&nbsp; For full terms and conditions regarding Submissions you submit to the Site, please review our <a href="/terms">Terms of Use</a>. <br></b><br><br><strong><a name="http://thenateshow.kickdeveloper.com/privacy#nonpersonal"></a>5.&nbsp; Non-Personal Information</strong><br>&nbsp;When you visit or interact with the Site, or click on one of our advertisements or our content served on elsewhere on the internet, we and our third-party advertisers and/or service providers may use a variety of technologies that automatically or passively collect information about how the Site is accessed and used ("Usage Information").<br>&nbsp;We collect Usage Information through the use of, without limitation, the following types of methodology: <br><br><i><a name="http://thenateshow.kickdeveloper.com/privacy#cookies"></a>Cookie technology</i>:<br>A "cookie" is a data file that a website can send to your Device, which is then stored on your Device. A Flash cookie is data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. Cookies and Flash Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. If you choose to disable cookies or Flash cookies on your Device, some features of the Site may not function properly. <br><br><i><a name="http://thenateshow.kickdeveloper.com/privacy#ipaddress"></a>IP Address Tracking</i>:<br>The Site also automatically collects your IP address or other unique identifier ("<a name="http://thenateshow.kickdeveloper.com/privacy#device"></a>Device Identifier"), which is a number that is assigned to your computer, mobile device&nbsp; or other device (collectively, “Device”) that you use to access the Site . When you request pages from our Site, our servers log your Device Identifier. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier.&nbsp; Some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the Device used to access the Site.<br><a name="http://thenateshow.kickdeveloper.com/privacy#webbeacons"></a><br><i>Web Beacons</i>:<br>A Web beacon, or "clear gif," is a small graphic image on a webpage or web programming code that may be included in the Site and Site e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened or to determine whether content sent was actually viewed.<br><i>&nbsp;</i></p>
+<p>&nbsp;</p>
+<p><i><a name="http://thenateshow.kickdeveloper.com/privacy#scripts"></a>Embedded Scripts</i>.</p>
+<p>An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.<br><br>Usage Information might include the browser you use, the type of computer you use and technical information about your means of connection to our Site, such as the operating systems and the Internet service providers utilized and other similar information. Our systems may also automatically gather information about the areas of the Site you visit and search terms you use on our Site and about the links you may select from within our Site to other areas of the Web or elsewhere online. <br><br>We use such information for our business purposes and to administer the Site, better manage advertising on the Site and, in the aggregate, to understand how our users as a group use the services and resources provided on our Site. This way, we know which areas of our Site are the favorites of our users, which areas need improvement and what technologies are being used so that we may continually improve our Site. &nbsp;We may also share this Usage information with our partners, suppliers and other third parties, including third party advertising companies and web analytics providers, as described in the following section. Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we treat it as Personal Information.<br><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p><strong><a name="http://thenateshow.kickdeveloper.com/privacy#adserving"></a>6.&nbsp; Ad Serving And Traffic Measurement Services We May Use</strong><br>We license technology to serve advertisements on the Site as well as within Site widgets and Site content that may be served across the Internet (such as within Site videos). In addition, we may use third party network advertisers to serve advertisements and third party analytics service providers to evaluate and provide us with information about the use of the Site and viewing of our content.&nbsp; We do not share personal information with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own <a href="#http://thenateshow.kickdeveloper.com/privacy#cookies">cookies</a>, <a href="#http://thenateshow.kickdeveloper.com/privacy#webbeacons">web beacons </a>and <a href="#http://thenateshow.kickdeveloper.com/privacy#scripts">embedded scripts</a><b> </b>on your Device and they may otherwise collect or have access to information about you, including Usage Information.<br>With regard to advertisements, we and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Site and other web sites. <a href="#http://thenateshow.kickdeveloper.com/privacy#cookies">Cookies</a>, <a href="#http://thenateshow.kickdeveloper.com/privacy#webbeacons">web beacons</a> and <a href="#http://thenateshow.kickdeveloper.com/privacy#scripts">embedded scripts</a>, including those set by third party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. We may share Usage Information about Site visitors with third party advertising companies for the same purposes.<br>We may use a variety of companies to serve advertisements. You may wish to visit <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. In addition, we work with Live Rail, which offers a separate consumer <a href="http://ad3.liverail.com/privacy/?optout">opt-out</a><b>.&nbsp; </b><br><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p><strong><a name="http://thenateshow.kickdeveloper.com/privacy#yearsofage"></a>7.&nbsp; You Must be 18 Years of Age </strong><br>The Site is not directed to children under the age of 18 and we will not intentionally collect personal information from children under 18. <br><br><strong><a name="http://thenateshow.kickdeveloper.com/privacy#othersites"></a>8.&nbsp; Links to Other Sites; Site Content on Third Party Sites </strong><br>Users will find advertising or other content on our Site that link to the site and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites. In addition, Site widgets or other Site content may be included on web pages and web sites that are not associated with us and over which we have no control. These sites and services may have their own privacy policies and customer service policies or no policy (policies) at all and may independently collect data, solicit personal information or collect Usage Information from your Device. We encourage you to review the privacy policies of any third-party sites or services before providing any of them with your personal information. We are not responsible for the privacy practices of any third party web site.<br><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p><strong><a name="http://thenateshow.kickdeveloper.com/privacy#security"></a>9.&nbsp; Security </strong><br>We have taken commercially reasonable measures to secure both your information and our physical premises. However, we cannot guarantee that our measures will completely bar unauthorized access to or disclosure of your information, and by using the Site you assume this risk. <br><br><strong><a name="http://thenateshow.kickdeveloper.com/privacy#access"></a>10.&nbsp; Access to/Correction of Information</strong><br>If you wish to correct or update some of the personal information you have provided to us, log in to the Site and click on your user name at the top of the page to edit your profile &nbsp;[link [www.thenateshow.com/profile] page of the Site to do so. If you would like to review any other personal information you believe we have retained about you in our database, please send us an e-mail request for this information at <a href="mailto:nb-webpolicy@thenateshow.com">nb-webpolicy</a><a href="mailto:@thenateshow.com">@thenateshow.com</a>. To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request, we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to <a href="mailto:nb-webpolicy@thenateshow.com">nb-webpolicy</a><a href="mailto:@thenateshow.com">@thenateshow.com</a>. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request. Please also understand that due to the volume of traffic on the Site and correspondence received, we cannot make any representations about the timeliness of the making of such modifications. In addition, we are unable to modify your information in the records of any third party who has been provided with your information in accordance with this policy. <br><br><b><a name="http://thenateshow.kickdeveloper.com/privacy#choice"></a>&nbsp;</b><strong>11.&nbsp; Choice/Opt Out</strong><br>If we offer you the opportunity to opt in to receive information from third parties, and you would like to opt out from future sharing of your personal information with third parties, log in to the Site and click on your user name at the top of the page to edit your profile log [link [www.thenateshow.com/profile]] page of the Site and change your preferences. Your profile page may offer the opportunity to update your preferences regarding the information you receive from us. You may also opt out of receiving e-mail newsletters or other marketing emails by following the opt-out instructions provided to you in those e-mails.&nbsp; Please note that we reserve the right to send you certain communications relating to your account or use of the Site and these transactional account messages may be unaffected if you choose to opt-out from marketing e-mails.<br>In accordance with our routine record keeping, we may delete certain records that contain personal information you have submitted through the Site.&nbsp; We are under no obligation to store such personal information indefinitely and disclaim any liability arising out of, or related to, the destruction of such personal information.&nbsp; <br><br><strong><a name="http://thenateshow.kickdeveloper.com/privacy#transfer"></a>12.&nbsp; Consent to Transfer</strong><br>The Site is operated in the <st1:place><st1:country-region>United States</st1:country-region></st1:place>. If you are located in the European Union or elsewhere outside of the <st1:country-region>United States</st1:country-region>, please be aware that any information you provide to us will be transferred to, processed in and stored the <st1:place><st1:country-region>United States</st1:country-region></st1:place>. By using our website, participating in any of our services and/or providing us with your information, you consent to the transfer, processing and storage of your information in the <st1:place><st1:country-region>United States</st1:country-region></st1:place>, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.</p>
+<ol></ol>        </div>
+        
+
+<script>
+	omniturePageName = "pages:privacy";
+	omniturePageSection = "pages";
+</script>
+		<div class="leftcol group">
+	    <!-- error message -->
+	    	                
+
+	    
+            
+	    
+            
+	</div><!-- .leftcol -->
+	    </div><!-- #contentwrap -->
+
+</div><!-- #wrap -->
+<div id="footer">
+    <div id="footer-inner">
+	
+	<p id="copy">© 2010 Sony Pictures Television Inc. and<br>
+	 Harpo Productions, Inc.&nbsp; All rights reserved.</p>
+	<div id="follownate">
+	    <h4>Follow Nate</h4>
+	    <ul>
+		<li><a target="_blank" href="http://www.facebook.com/NateBerkus" onclick="onFollowNateFooter('facebook');return true"><img src="/images/fb-footer.png" alt="Facebook"></a></li>
+		<li><a target="_blank" href="http://twitter.com/nate_berkus" onclick="onFollowNateFooter('twitter');return true"><img src="/images/twitter-footer.png" alt="Twitter"></a></li>
+		<!--<li><a href="http://foursquare.com/venue/5697528"><img src="/images/foursq-footer.png" alt="Foursquare" /></a></li>-->
+	    </ul>
+	</div>
+	<div id="newsletter">
+	    <h4>Sign up for Nate's Newsletter</h4>
+	    <form action="newsletter" method="post">
+		<input type="text" name="newsletter" value="enter email address" id="newsletter-email" class="unclicked">
+		<input type="button" id="newsletter-go" onclick="footerLaunch=true;$('#dialog-newsletter').dialog('open');return false;">
+	    </form>
+	</div><!-- #newsletter -->
+	<div id="ftr-col" class="group">
+	    <div class="ftr-col-inner first">
+		<a href="/about-the-show" class="fi-toplink">About Nate</a>
+		<p>Nate Berkus is an award-winning decorator. He appeared as a featured design expert for The Oprah Winfrey Show from 2002-2010, completing 127 design makeovers.</p>
+		<a href="http://www.thenateshow.com/blogs" class="ftr-inner-link">Check out Nate's Blog »</a>
+	    </div><!-- .ftr-col-inner -->
+	    <div class="ftr-col-inner">
+		<a href="/press" class="fi-toplink">Show News</a>
+		<p>Find the latest news clips, blog posts and tweets about The Nate Berkus Show on our press page.</p>
+		<a href="javascrip:void(null);" onclick="$('#dialog-newsletter').dialog('open');return false" class="ftr-inner-link">Sign-up for Nate's Newsletter »</a>
+	    </div><!-- .ftr-col-inner -->
+	    <div class="ftr-col-inner">
+		<a href="/contact" class="fi-toplink">Love what you see here?</a>
+		<p>Let us know how you feel about our show and online community. Your feedback is welcome and appreciated.</p>
+		<a href="http://www.thenateshow.com/be-on-the-show" class="ftr-inner-link">Be on the Show »</a>
+	    </div><!-- .ftr-col-inner -->
+	    <div class="ftr-col-inner">
+		<a href="/share" class="fi-toplink">Your Special Project</a>
+		<p>Have you completed a design project that you'd like to share with Nate? Post your story.</p>
+		<!--<a href="/be-on-the-show" class="ftr-inner-link">Be on the Show &raquo;</a>-->
+	    </div><!-- .ftr-col-inner -->	    
+	    <div class="ftr-col-inner last">
+		<ul>
+		    <li><a href="/sitemap">Sitemap</a></li>
+		    <li><a href="http://www.thenateshow.com/privacy">Privacy</a></li>
+		    <li><a href="http://www.thenateshow.com/terms">Terms of Use</a></li>
+		    <li><a href="http://www.thenateshow.com/press">Press</a></li>
+		    <li><a href="http://www.thenateshow.com/contact">Contact Us</a></li>
+		    <li><a href="http://www.thenateshow.com/advertise">Advertise</a></li>
+		</ul>
+	    </div><!-- .ftr-col-inner -->
+	</div><!-- #ftr-col -->
+	<a href="#" id="footerlogo"><img src="/images/footerlogo.png"></a>
+    </div><!-- #footer-inner -->
+</div><!-- #footer -->
+         
+
+</div><!-- #site -->
+<script type="text/javascript">
+	// background switch	
+	    if($(window).width()<= 1024){
+		$('#site').css('background-image','url(/templates/nate/images/nateontop.jpg)');
+	    }else{
+		$('#site').css('background-image','url(/templates/nate/images/fiberbg.png)');
+	    }	
+</script>
+</div><!-- #site-outer -->
+<script type="text/javascript"> Cufon.now(); </script>
+<script type="text/javascript">
+var _sf_async_config={uid:9846,domain:"thenateshow.com"};
+(function(){
+ function loadChartbeat() {
+   window._sf_endpt=(new Date()).getTime();
+   var e = document.createElement('script');
+   e.setAttribute('language', 'javascript');
+   e.setAttribute('type', 'text/javascript');
+   e.setAttribute('src',
+      (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+      "static.chartbeat.com/js/chartbeat.js");
+   document.body.appendChild(e);
+ }
+ var oldonload = window.onload;
+ window.onload = (typeof window.onload != 'function') ?
+    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+<!-- SiteCatalyst code version: H.21.1 Copyright 1996-2010 Adobe, Inc. All Rights Reserved -->
+<script language="JavaScript" type="text/javascript" src="http://www.thenateshow.com/templates/nate/js/s_code_2010-10-14-prod.js"></script>
+<script>
+function adobeWidgetIDClick(widgetID) { 
+		s.linkTrackVars='eVar12,events'; 
+		s.linkTrackEvents='event10'; 
+		s.events='event10'; 
+		s.eVar12=widgetID; 
+		s.tl(this,'o','widget'+widgetID); 
+}
+
+/**
+ * type - facebook, standard
+ * eventName - 'registrion start'
+ * registrationType - 'complete', 'light'
+ */
+function onRegisterStart(type, eventName, registrationType){
+	s.events='event3'; 
+	s.eVar28=type; 
+	s.eVar29=registrationType; 
+	s.tl(this,'o',eventName);
+}
+function onFollowNateFooter(type){
+	 	s.events='event19'; 
+	 	s.eVar27='follow nate:'+type; 
+	 	s.tl(this,'o','follow nate');
+	}
+</script>
+<script type="text/javascript">
+
+    $(function () {
+        $('input#newsletter-email').keypress(function (e) {
+            var code = null;
+            code = (e.keyCode ? e.keyCode : e.which);
+			if (code == 13) {
+				footerLaunch=true;
+				$('#dialog-newsletter').dialog('open');	
+				return false;			
+			}
+        });
+    });
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName=omniturePageName
+s.server=""
+s.channel=omniturePageSection
+s.pageType=""
+s.prop1=omnitureProp1;
+s.prop2=""
+s.prop3=""
+s.prop4=omnitureContentTitle;
+s.prop5=omnitureContentId;
+s.prop6=omnitureContentType;
+s.events = omnitureAdditionalEvents;
+if(omnitureSearchTotalResults!=""){
+	s.prop2 = omnitureSearchTotalResults;	
+}
+if(omnitureVar30!=""){
+	s.eVar30 = omnitureVar30;
+}
+if(omnitureVar32!=""){
+	s.eVar32 = omnitureVar32;
+}
+if(omnitureVar31!=""){
+	s.eVar31 = omnitureVar31;
+}
+if(omnitureProp18!=""){
+	s.prop18 = omnitureProp18;
+}
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.21.1. -->
+
+
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
