@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flalottery.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529193739id_/http%3A//www.flalottery.com/privacypolicyMain.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flalottery.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210001941id_/http%3A//www.flalottery.com/privacypolicyMain.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,4 +10,4 @@ In addition, information is only gathered regarding the volume and timing of acc
 
 If you choose to share personal information, for example, by sending an e-mail to our ASKLOTT account, the information will be saved for a designated period of time in order to comply with the state of Florida's archiving policies. However, information will not be disclosed to third parties or other government agencies, unless required by state or federal law. Please note that Florida's public records law requires that all information received in connection with state business be made available to anyone upon request, unless the information is subject to a specific statutory exemption.
 
-If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to e-mail us at [asklott@flalottery.com](mailto:asklott@flalottery.com) or contact us by telephone at (850) 487-7787.
+If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to e-mail our [Customer Service Department](http://www.flalottery.com/inet/contact.do) or contact us by telephone at (850) 487-7787.
