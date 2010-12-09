@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227145841id_/http%3A//www.travelpulse.com/Support/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209082307id_/http%3A//www.travelpulse.com/privacy.html) for the most accurate reproduction.*
 
-# TravelPulse.com
+# Terms of Use
+
+## Privacy Policy
 
 **Performance Media Group, LLC** **  
 Internet Privacy Policy**
