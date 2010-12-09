@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blerp.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728013104id_/http%3A//www.blerp.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blerp.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209041132id_/http%3A//www.blerp.com/account/privacy) for the most accurate reproduction.*
 
 # Blerp - Account
 
