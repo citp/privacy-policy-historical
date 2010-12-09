@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodshop.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427205826id_/http%3A//www.goodsearch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodshop.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209055558id_/http%3A//www.goodsearch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
