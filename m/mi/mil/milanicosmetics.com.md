@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523033301id_/http%3A//www.milanicosmetics.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209030336id_/http%3A//www.milanicosmetics.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,7 +102,7 @@ Milani reserves the right to modify or supplement this policy at any time. If a 
 
 ## VIII. Contacting Us
 
-If you have questions about this privacy statement, the information practices of Milani or your dealings with Milani, please contact The New Milani Group at 1-866-789-8002 or Consumer Affairs, 2111 East 51st Street , Los Angeles CA 90058.   
+If you have questions about this privacy statement, the information practices of Milani or your dealings with Milani, please contact The New Milani Group at 1-866-789-8002 or Consumer Affairs, 2111 East 49th Street , Los Angeles CA 90058.   
 
 
 ### IX. Acceptance Of These Terms
@@ -116,3 +116,5 @@ Copyright © 2003-2009 The New Milani Group, Inc.  All rights reserved.
 
 In accordance with laws governing literary and artistic property rights or other similar rights, the reproduction or redistribution of the elements that make up The New Milani Group, Inc. Website, in whole or in part, is strictly prohibited.  
 
+
+ 
