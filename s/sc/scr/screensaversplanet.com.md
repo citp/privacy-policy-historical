@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screensaversplanet.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528104518id_/http%3A//www.screensaversplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensaversplanet.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209165723id_/http%3A//screensaversplanet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Screensavers Planet
 
