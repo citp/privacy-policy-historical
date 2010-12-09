@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qxmd.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603205653id_/http%3A//qxmd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qxmd.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209023316id_/http%3A//www.qxmd.com/privacy) for the most accurate reproduction.*
 
 # Privacy | QxMD Medical Apps
 
@@ -11,7 +11,7 @@ At QxMD, we are committed to respecting your privacy. On this page you will find
 Generally this information is requested when you register our mobile software. For example:
 
   * When you register with QxMD, we ask for demographic and contact information including your email address, country of practice profession, and specialty so that we can provide you with more customized service and information, as well as contact you in the event of important announcements about our products or services.
-  * top
+  * [top](http://www.qxmd.com/privacy#top)
 
 
 
@@ -23,15 +23,15 @@ In order to make sure we are targeting the most relevant content to our subscrib
 
 We also use this information to contact you regarding relevant QxMD services and products. For instance, we may contact you by email to let you know that we have released a new product or service or a new version of an existing product.
 
-Please note that WE DO NOT SELL PERSONALLY IDENTIFIABLE INFORMATION about your use of our products to any third parties.
+Please note that WE DO NOT SELL [PERSONALLY IDENTIFIABLE INFORMATION](http://www.qxmd.com/privacy#pers_iden) about your use of our products to any third parties.
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 3\. Does QxMD track your use of its products?
 
 **We track your usage of our downloaded software products in an anonymous fashion. We collect aggregate data on usage of our online clinical calculators in order to improve our subscriber experience and to prioritize new product development.**
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 4\. How does QxMD protect your information?
 
@@ -39,7 +39,7 @@ top
 
 These procedures include limiting access to the information in various ways depending on the nature of the information as well as training our employees on the proper handling of subscriber information. While we believe we have taken appropriate measures to protect the information that we have received, we urge you to take every precaution to protect your personal data when you are on the Internet.
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 5\. Will QxMD share the information it collects with others?
 
@@ -53,11 +53,11 @@ top
 
 QxMD may provide _aggregate or non-personally identifiable_ statistics about our customers, product usage or traffic patterns, and related website information, but these statistics will not include any personally identifying information.
 
-Tracking data is also used internally by QxMD primarily for developing and enhancing products and improving technical usability. For more information, refer to “How does QxMD use the information we collect?”
+Tracking data is also used internally by QxMD primarily for developing and enhancing products and improving technical usability. For more information, refer to [“How does QxMD use the information we collect?”](http://www.qxmd.com/privacy#how_use)
 
 Note: QxMD may disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of subscribers of our website and products, the public, or QxMD, and (b) conform to legal or regulatory requirements. No other disclosures of personally identifiable information will be made without your prior consent.
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 6\. How does QxMD use “cookies” and log files?
 
@@ -65,7 +65,7 @@ top
 
 **As is true of most websites, we gather and use certain information automatically and store it in log files.** This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp. We use this information to analyze trends, to administer the website, to track users’ movements around the website and to gather demographic information about our user base as a whole. **We do not link the information we store in cookies to any personally identifiable information you submit while on our website.**
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 7\. How does QxMD link with other websites?
 
@@ -73,7 +73,7 @@ top
 
 Please note that our site uses sponsored Google advertisments. We advise you to review Google’s [privacy policy](http://www.google.com/privacy.html) to understand how they use your data and data from our site to generate targetted advertising for you.
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 8\. Is this privacy statement subject to change?
 
@@ -81,7 +81,7 @@ top
 
 By using our website, you consent to the collection and use of this information by QxMD as disclosed in this statement. If we decide to materially change our privacy practices, we will post a prominent notice of those changes on the homepage and/or send an email so that you are always kept informed of what data we collect, how we use it, and under what circumstances we disclose it. **Please check this page for changes from time to time to make sure you are aware of our latest privacy practices.**
 
-top
+[top](http://www.qxmd.com/privacy#top)
 
 ### 9\. Important Terms
 
@@ -91,4 +91,4 @@ In this policy, when we use the term “we” or “our”, we mean both QxMD an
 
 When reviewing any privacy policy on the Internet, you should be familiar with the terms “personally identifiable” and “non-personally identifiable” information. “Personally identifiable information” is any information that can be used to identify, contact or locate you as an individual, as well as any additional data tied to such information. Common examples are your name and email address. Non-personally identifiable information is information — either in “profile” or “aggregate” form — that, in contrast, is not intended to identify you as an individual.
 
-top
+[top](http://www.qxmd.com/privacy#top)
