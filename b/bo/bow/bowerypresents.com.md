@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowerypresents.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601040944id_/http%3A//www.bowerypresents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowerypresents.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209163203id_/http%3A//www.bowerypresents.com/privacy) for the most accurate reproduction.*
 
 # 
 
