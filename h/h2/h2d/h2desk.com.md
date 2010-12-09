@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the h2desk.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035223id_/http%3A//www.h2desk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h2desk.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209134421id_/http%3A//www.h2desk.com/privacy.html) for the most accurate reproduction.*
 
 # h2desk helpdesk software privacy statement
 
 * **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-OnClick Solutions Ltd is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand OnClick Solutions Ltd’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+h2desk.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand h2desk.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-* **PARTICIPATING MERCHANT POliCIES**
+* **PARTICIPATING MERCHANT POLICIES**
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in OnClick Solutions Ltd services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in h2desk services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
 * **INFORMATION WE COLLECT AND HOW WE USE IT**
 
-OnClick Solutions Ltd collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+h2desk.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with cookies.
 
   1. **Web Server Logs**
 
@@ -28,11 +28,11 @@ When you visit our Website, we may track information to administer the site and 
     * Pages you viewed on the site. 
   2. **Use of Cookies**
 
-OnClick Solutions Ltd may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+h2desk.com may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
 
-OnClick Solutions Ltd reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into this website a site that relies on third-party cookies).
+h2desk.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into this website a site that relies on third-party cookies).
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
@@ -54,10 +54,10 @@ We will provide you with the means to ensure that personally identifiable inform
 
 * **CHANGES TO THIS STATEMENT**
 
-OnClick Solutions Ltd has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+h2desk.com has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 * **CONTACTING US**
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us via the support center
 
-OnClick Solutions Ltd will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+h2desk.com will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
