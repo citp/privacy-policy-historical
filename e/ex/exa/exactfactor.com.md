@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exactfactor.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330072334id_/http%3A//www.exactfactor.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactfactor.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209131009id_/http%3A//www.exactfactor.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# ExactFactor - Privacy Policy
+# ExactFactor - privacy policy
 
 [](http://www.truste.org/ivalidate.php?url=www.doubleclick.com&sealid=101 "TRUSTe: Click to Verify")Last updated: April 20, 2009
 
@@ -84,4 +84,4 @@ Your information may be processed or transferred outside of your state, where th
 
 If you have any concerns or questions about this Privacy Policy, please contact us at info@ExactFactor.com. 
 
-Copyright © 2009, ExactFactor Ltd. All rights reserved. 
+Copyright © 2010, ExactFactor Ltd. All rights reserved. 
