@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbrandinc.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608161153id_/http%3A//www.youbrandinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbrandinc.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209174015id_/http%3A//www.youbrandinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | You Brand Inc
 
@@ -53,5 +53,3 @@ This policy and the use of this Site are governed by law. If a dispute arises un
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Eagan, MN under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.  
 You Brand, Inc. is controlled, operated and administered entirely within . This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
