@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbird.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611072429id_/http%3A//www.rainbird.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbird.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210001048id_/http%3A//rainbird.com/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Rain Bird: Privacy Policy
 
