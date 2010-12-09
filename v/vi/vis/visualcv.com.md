@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526041841id_/http%3A//www.visualcv.com/www/site_information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209092103id_/http%3A//www.visualcv.com/www/site_information/privacy_policy.html) for the most accurate reproduction.*
 
 # VisualCV • Privacy Policy
 
