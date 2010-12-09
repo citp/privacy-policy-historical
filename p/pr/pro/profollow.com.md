@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615063104id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profollow.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ProFollow
 
-[Home](https://web.archive.org/web/20100615063104id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20100615063104id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20100615063104id_/http%3A//www.profollow.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/index.htm) > [About Us](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20101209092112id_/http%3A//www.profollow.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Internet Alchemy, Inc/AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to ProFollow/AWeber's excellent [Customer Support team](https://web.archive.org/contact-us.htm). 
+Please direct questions regarding this statement to ProFollow/AWeber's excellent [Customer Support team](https://clients.profollow.com/contact-us.htm). 
 
 **Customer Information:** All Internet Alchemy, Inc/AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
