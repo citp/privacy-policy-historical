@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327175006id_/http%3A//www.ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209041836id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
 
 # eBrandon.ca - Brandon, Manitoba's Online Community
 
@@ -16,9 +16,11 @@ We use "cookie" technology (where our servers deposit special codes on a visitor
 
 Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-If at any time you wish to have your member account removed, please visit the [contact us](https://web.archive.org/web/20100327175006id_/http%3A//www.ebrandon.ca/contact.aspx) page and explicitly request it. Please note that submitting this request means you are requesting that your account, along with all profile data, be removed. 
+If at any time you wish to have your member account removed, please visit the [contact us](https://web.archive.org/web/20101209041836id_/http%3A//ebrandon.ca/contact.aspx) page and explicitly request it. Please note that submitting this request means you are requesting that your account, along with all profile data, be removed. 
 
 We track and store user IP addresses each time a forum message, photo, video, classified ad, classified ad web form submission or private message are posted/sent. Combined with information from your internet provider, this information may personally identify you. This information will **only** be used in the event of a dispute between yourself and eBrandon or another third party in which the law is perceived to have been violated. 
+
+Information (e-mail address) submitted as part of replies to classified ads is logged and is used only in the event of a legal dispute or in an emergency situation where those that have responded to an ad may need to be notified critical information relating to that ad. 
 
 In posting content such as photos or videos, you are consenting to eBrandon utilizing it for promotional purposes such as in the eBrandon Weekly weekly email. 
 
