@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the falcoware.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512001135id_/http%3A//falcoware.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falcoware.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209203252id_/http%3A//falcoware.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Falco Software - Privacy Policy.
 
-Privacy Policy
-
+  
 Your privacy is important to Falco Software Inc. To better protect your privacy, we have provided this statement which explains our online information practices, and the choices regarding the way your personal information is collected and used. We hope this statement will increase your confidence in our Web site and enhance your experience on the Internet with Falco Software Inc.
 
 Important note: In order to receive important product updates, notification of product error fixes, or other relevant Falco Software information, you must choose to receive email messages from us. Please keep in mind that if you choose not to receive email messages, we will be unable to communicate with you via email.
