@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609050247id_/http%3A//www.aten-usa.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209083211id_/http%3A//www.aten-usa.com/%3Fprivacy) for the most accurate reproduction.*
 
 # ATEN | LCD KVM IP Switch Video DVI HDMI Equipment
 
