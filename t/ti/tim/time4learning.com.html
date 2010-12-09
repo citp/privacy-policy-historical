@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the time4learning.com privacy policy that was archived on 2010-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100427004936id_/http%3A//time4learning.com/curriculum/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the time4learning.com privacy policy that was archived on 2010-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209023746id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,7 +8,7 @@
   <meta name="description" content="At Time4Learning, we strongly feel that children’s safety, which is related to privacy, is all-important. We do not disclose any personal information to outside parties.">
   <meta name="keywords" content="Time4Learning privacy policy, privacy policy, online education privacy policy, child privacy policy">
   
-  <link rel="shortcut icon" href="http://www.time4learning.com/edmouse.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/edmouse.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="/_css/t4l.css" id="main_style">
 <script type="text/javascript" src="/_js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/_js/jquery.tooltip.min.js"></script>
@@ -16,7 +16,28 @@
 <script type="text/javascript" src="/_js/T4L.js"></script>
 <!--[if IE]><link rel="stylesheet" type="text/css" href="/_css/ie.css" /><![endif]-->
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/_css/ie6.css" /><script type="text/javascript" src="/_js/ie6.js"></script><![endif]-->
-  
+<!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
+
+<!--BEGIN Promotional Slider -->
+<!--Checks for cookies in order to disable/enable popup -->
+<script type="text/javascript" src="/_js/slider-cookie-check.js"></script>
+<script type="text/javascript" language="javascript">
+//Runs the cookie check function.
+window.onload=checkCount;
+
+function checkCount() {
+  var count = GetCookie('count');
+  if (count == null) {
+	count=1;
+	SetCookie('count', count, exp);
+	setTimeout("flvFSL1('DemoBox',-18,5,1,10)",700); // ('Div ID',x-pos,y-pos,speed,speed)
+  } else {
+	count++;
+	SetCookie('count', count, exp);
+  }
+}
+</script>
+<!--END Promotional Slider -->
 </head>
 
 <body>
@@ -32,9 +53,9 @@
 <ul class="menu_top">
   <li id="btn_signup"><a title="Sign Up for Time4Learning" href="/SignUp/parent_information.aspx">Sign Up</a></li>
   <li id="btn_faqs"><a title="program faqs" href="/curriculum/faq.html">Help / FAQs</a></li>
-  <li id="btn_screenshots"><a title="curriculum screenshots" href="/curriculum/screenshots.html">Screenshots</a></li>
-  <li id="btn_forum"><a title="Parent Forum" href="http://www.time4learning.net/" rel="external" target="_blank">Parent Forum</a></li>
-  <li id="btn_lessonplans"><a title="curriculum lesson plans" href="/curriculum/scope-sequence/index.shtml">Lesson Plans</a></li>
+  <li id="btn_screenshots"><a title="program sitemap" href="/siteMap.htm">Sitemap</a></li>
+  <li id="btn_forum"><a title="Parent Forum" href="http://time4learning.net/" rel="external" target="_blank">Parent Forum</a></li>
+  <li id="btn_lessonplans"><a title="curriculum lesson plans" href="/scope-sequence/index.shtml">Lesson Plans</a></li>
   <li id="btn_demos"><a title="curriculum lesson demos" href="/curriculum/demos.html">Lesson Demos</a></li>
 </ul>
     </div>
@@ -47,13 +68,56 @@
             <!--// check list -->
             <div class="inner">
               <img src="/_img/polaroids/polaroid_md_boy_teen.jpg" alt="Time4Learning" width="150" height="157">
-              <ul class="column-menu">
-  <li><a title="Time4Learning home" href="/index.htm">Overview</a></li>
-  <li><a title="curriculum lesson demos" href="/curriculum/demos.html">Lesson Demos</a></li>
-  <li><a title="curriculum screenshots" href="/curriculum/screenshots.html">Activity Screenshots</a></li>
-  <li><a title="program faqs" href="/curriculum/faq.html">Help/FAQs</a></li>
-  <li><a title="Contact Time4Learning" href="/curriculum/contact_us.html">Contact Us</a></li>
-</ul>
+              <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox">
+  <div align="center" style="padding:15px 0;" class="custom_images">
+      <a class="addthis_button_compact"><img src="/_img/buttons/addthis/addthis_32.png" width="20" height="20" alt="More..."></a>
+      <a class="addthis_button_facebook"><img src="/_img/buttons/addthis/facebook_32.png" width="20" height="20" alt="Share to Facebook"></a>
+      <a class="addthis_button_twitter"><img src="/_img/buttons/addthis/twitter_32.png" width="20" height="20" alt="Share to Twitter"></a>
+      <a class="addthis_button_google"><img src="/_img/buttons/addthis/googleb.png" width="22" height="22" alt="Google Bookmark this"></a>
+      <a class="addthis_button_favorites"><img src="/_img/buttons/addthis/favorite.png" width="22" height="22" alt="Favorite This"></a>
+      <a class="addthis_button_email"><img src="/_img/buttons/addthis/email_40x40.png" width="22" height="22" alt="Email This"></a><br>
+   </div>
+</div>
+<script type="text/javascript">
+var addthis_share = {
+  templates: { twitter: 'Check out {{title}} @ {{url}}' }
+}
+</script>
+<script type="text/javascript">
+var addthis_config = {
+     ui_delay: 500
+}
+</script>
+<!-- AddThis Button END -->
+
+	<ul class="column-menu">
+  		<li><a title="Time4Learning home" href="/index.htm">Home</a></li>
+  		<li><a title="curriculum lesson demos" href="/curriculum/demos.html">Lesson Demos</a></li>
+  		<li><a title="curriculum screenshots" href="/curriculum/screenshots.html">Activity Screenshots</a></li>
+  		<li><a title="contact Time4Learning" href="/curriculum/contact_us.html">Contact Us</a></li>
+	</ul>
+	
+<h5>Curriculum Uses</h5>		
+	<ul class="column-menu">
+		<li><a title="homeschool curriculum" href="/homeschool-curriculum.htm">Homeschool</a></li>
+		<li><a title="afterschool curriculum" href="/curriculum/afterschool.html">Afterschool</a></li>
+		<li><a title="summer curriculum" href="/summer-school.shtml">Summer Learning</a></li>
+	</ul>
+	
+<h5>Curriculum Levels</h5>
+	<ul class="column-menu">
+		<li><a title="preschool overview" href="/preschool-games.shtml">Preschool Overview</a></li>
+		<li><a title="kindergarten curriculum" href="/education/kindergarten.shtml">Kindergarten Overview</a></li>
+		<li><a title="first grade curriculum" href="/education/first_grade.shtml">First Grade Overview</a></li>
+		<li><a title="second grade curriculum" href="/education/second_grade.shtml">Second Grade Overview</a></li>
+		<li><a title="third grade curriculum" href="/education/third_grade.shtml">Third Grade Overview</a></li>
+		<li><a title="fourth grade curriculum" href="/education/fourth_grade.shtml">Fourth Grade Overview</a></li>
+		<li><a title="fifth grade curriculum" href="/education/fifth_grade.shtml">Fifth Grade Overview</a></li>
+		<li><a title="sixth grade curriculum" href="/education/sixth_grade.shtml">Sixth Grade Overview</a></li>
+		<li><a title="seventh grade curriculum" href="/education/seventh_grade.shtml">Seventh Grade Overview</a></li>
+		<li><a title="eighth grade curriculum" href="/education/eighth_grade.shtml">Eighth Grade Overview</a></li>
+	</ul>
               <h4>Benefits</h4>
               <div class="bullets checks" style="width: 152px;">
                 <ul>
@@ -151,10 +215,61 @@
   
   <div id="main_footer">
   <div id="main_footer_content">
-    <a title="Site Map" href="/siteMap.htm">Site Map</a> &nbsp; | &nbsp; <a title="Terms &amp; Conditions" href="/curriculum/terms.html">Terms of Use</a> &nbsp; | &nbsp; <a title="Privacy Policy" href="/curriculum/privacy.html">Privacy Policy</a> &nbsp; | &nbsp; <a title="Contact Time4Learning" href="/curriculum/contact_us.html">Contact Us</a> &nbsp; | &nbsp; <a title="Sign Up for Time4Learning" href="/SignUp/parent_information.aspx">Sign Up Now</a><br>
+    <a title="Sitemap" href="/siteMap.htm">Sitemap</a> &nbsp; | &nbsp; <a title="Terms &amp; Conditions" href="/curriculum/terms.html">Terms of Use</a> &nbsp; | &nbsp; <a title="Privacy Policy" href="/curriculum/privacy.html">Privacy Policy</a> &nbsp; | &nbsp; <a title="Contact Time4Learning" href="/curriculum/contact_us.html">Contact Us</a> &nbsp; | &nbsp; <a title="Sign Up for Time4Learning" href="/SignUp/parent_information.aspx">Sign Up Now</a><br>
     <span class="copyright">Copyright © <script type="text/javascript">var today = new Date; document.write(today.getFullYear())</script>2020 Time4Learning.com. All Rights Reserved.</span>
   </div>
 </div>
+
+<!--BEGIN Promotional Slider -->
+<div id="DemoBox" style="position: absolute; left: -382px; top: 5px; width: 425px; height: 450px; z-index: 1;"> 
+	<table width="425" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td>
+  <div class="green-white rounded" style="width: 100%; background-color:#FFF;">
+    <div class="inner">
+    <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+      <tbody>
+      <tr>
+        <td colspan="2" align="center" valign="top" class="header15"><img src="/_img/hdr_promo_dec_2010.png" width="293" height="81" alt="December 2010 Winter Special!"><br>
+          <p><strong class="orange">No contracts. Cancel Anytime.<br>Two-week money back guarantee!</strong></p></td></tr>
+      
+        <tr><td align="left" valign="middle"><img src="/_img/edmouse_leaning.png" width="110" height="165" alt="Ed Mouse" style="padding-right:10px;"></td>
+          <td align="center" valign="middle"><table>
+            <tbody><tr>
+              <td width="16" align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
+              <td class="SplashBodyTxt" align="left" valign="top"><strong>Offer is only valid for brand new members of Time4Learning.</strong> No prior members please.</td>
+              </tr>
+            <tr>
+              <td align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
+              <td class="SplashBodyTxt" align="left" valign="top"><strong>There is no limit</strong> to the number of students. Register as many as you'd like during the initial registration.</td>
+              </tr>
+            <tr>
+              <td align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
+              <td class="SplashBodyTxt" align="left" valign="top"><strong>Regular monthly membership price</strong> is $19.95 for the first child and $14.95 for each additional child.</td>
+              </tr>
+            <tr>
+              <td align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
+              <td class="SplashBodyTxt" align="left" valign="top"><strong>Cancellation of service is required.</strong> After 30 days, uncancelled memberships convert to the regular monthly price.</td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        
+        <tr>
+          <td colspan="2" align="center"><a href="https://www.time4learning.com/SignUp/parent_information.aspx" target="_blank"><img src="/_img/buttons/btn_SignUpNow2_norm.gif" alt="sign up" border="0" onclick="flvFSL1('DemoBox',-402,5,1,30);" style="margin: 15px 0 10px 0;"></a><br>
+            <a href="javascript:;" onclick="flvFSL1('DemoBox',-402,5,1,30)"><font face="Arial" size="2" color="#000000">Close Window</font></a></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+  </div>
+  </td>
+  
+  <td width="25" align="left" valign="top"><a href="javascript:;" onclick="flvFSL1('DemoBox',-18,5,1,30)"><img src="/_img/tab_right_special.png" alt="Special" width="25" height="79" border="0" style="margin:8px 0 0 0; padding:0; display:block;"></a></td>
+  
+ </tr>
+</tbody></table>
+</div> 
+<!--END Promotional Slider -->
 
 <!-- START Google Analytics Tracking Code -->
 <script type="text/javascript">
@@ -169,6 +284,15 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <!-- END Google Analytics Tracking Code -->
+
+<!-- START AddThis GA Config Code -->
+<script type="text/javascript">
+   var addthis_config = {
+      data_ga_tracker: pageTracker
+   };
+</script>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=Time4Learning"></script>
+<!-- END AddThis GA Config Code -->
 
 
 
