@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressindia.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613121450id_/http%3A//www.expressindia.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressindia.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209134330id_/http%3A//www.expressindia.com/policy.php) for the most accurate reproduction.*
 
 # Express India
 
