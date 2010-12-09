@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623212527id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmanda.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209081121id_/http%3A//www.zmanda.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Zmanda Privacy Policy
 
@@ -75,11 +75,12 @@ Zmanda will provide you with the opportunity to opt-out of any of our direct mar
 
   * Web: feedback (at) zmanda.com
   * Regular mail:
-  
+
+
+
 Zmanda, Inc.   
 505 N. Mathilda Ave. #120   
 Sunnyvale, CA 94085 
-
 
 For your protection, Zmanda may contact you in the event that we find an issue with a product or service you have purchased that requires your immediate attention. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Websites, and you are responsible for reviewing such legal notices for changes.
 
