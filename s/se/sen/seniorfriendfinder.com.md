@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorfriendfinder.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322232408id_/http%3A//seniorfriendfinder.com/go/page/privacy.html%3Fsite%3Dffsenior) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorfriendfinder.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209141651id_/http%3A//www.seniorfriendfinder.com/go/page/privacy.html%3F) for the most accurate reproduction.*
 
 # Senior FriendFinder PRIVACY POLICY
 
