@@ -1,79 +1,36 @@
-> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210210459id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1) for the most accurate reproduction.*
 
-# Vonage - Support - Privacy Policy
+# Vonage Support - Privacy Policy
 
-  
-| **Learn More About Vonage**  
----  
-[What is Vonage?](https://web.archive.org/support.php?subtopic=10&topic=4)  
-[Coverage & Availability](https://web.archive.org/support.php?subtopic=31&topic=4)  
-[Number Transfer](https://web.archive.org/support.php?subtopic=11&topic=4)  
-[Vonage Products](https://web.archive.org/support.php?subtopic=12&topic=4)  
-[Vonage Features](https://web.archive.org/support.php?subtopic=63&topic=4)  
-[Rate Plans & Fees](https://web.archive.org/support.php?subtopic=53&topic=4)  
-[Service Requirements](https://web.archive.org/support.php?subtopic=54&topic=4)  
-  
- **Learn More About Vonage Mobile**  
-[](https://web.archive.org/support.php?subtopic=65&topic=24)[What is Vonage Mobile?](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php?article=1413)  
-[Vonage Mobile FAQs](https://web.archive.org/support.php?subtopic=66&topic=24)  
-  
- **Getting Started with Vonage**  
-[Getting Vonage Service](https://web.archive.org/support.php?subtopic=62&topic=5)  
-[Activate 911](https://web.archive.org/support.php?subtopic=35&topic=5)  
-[Installing Vonage](https://web.archive.org/support.php?subtopic=13&topic=5)  
-[Vonage Products](https://web.archive.org/support.php?subtopic=61&topic=5)  
-[Vonage Features](https://web.archive.org/support.php?subtopic=64&topic=5)  
-[Shipping & Returns](https://web.archive.org/support.php?subtopic=51&topic=5)  
-[Online Account Management](https://web.archive.org/support.php?subtopic=14&topic=5)  
-  
- **Customer Service**  
-[Account & Service Changes](https://web.archive.org/support.php?subtopic=17&topic=6)  
-[Payments & Billing](https://web.archive.org/support.php?subtopic=18&topic=6)  
-[Shipping & Returns](https://web.archive.org/support.php?subtopic=60&topic=6)  
-[Disconnect from Vonage](https://web.archive.org/support.php?subtopic=59&topic=6)  
-[Contact Us](https://web.archive.org/support.php?subtopic=58&topic=6)  
-  
- **Technical Support**  
-[Installation](https://web.archive.org/support.php?subtopic=56&topic=20)  
-[Product Support](https://web.archive.org/support.php?subtopic=34&topic=20)  
-[Features Support](https://web.archive.org/support.php?subtopic=50&topic=20)  
-[Troubleshooting Service Issues](https://web.archive.org/support.php?subtopic=57&topic=20)  
-  
-  
-[](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php?article=399&print)
-
-|  Email Address     |   
----|---  
-  
-Vonage Holdings Corp. ("Vonage") is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our customers who use services and products from Vonage ("Customers") and from visitors to our web sites and from potential customers who have communicated, made contact or interacted with Vonage ("Visitors"), both in connection with online and offline services and products offered by Vonage.
+Vonage Holdings Corp. ("Vonage") is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our customers who use services and products from Vonage ("Customers") and from visitors to our Web sites and from potential customers who have communicated, made contact, or interacted with Vonage ("Visitors"), both in connection with online and offline services and products offered by Vonage.
 
 ### Collection of Information
 
-Vonage shall collect personally identifiable information, including but not limited to name, physical address, email address, telephone number, credit card information and other personal information (collectively, "PII"), from Customers when initiating service and in connection with the provision or marketing of products and services. Vonage may collect PII from Visitors in connection with any visit to our web sites, any communication about our services and products or other transactions or interactions with Vonage.
+Vonage shall collect personally identifiable information, including but not limited to name, physical address, email address, telephone number, credit card information, and other personal information (collectively, "PII"), from Customers when initiating service and in connection with the provision or marketing of products and services. Vonage may collect PII from Visitors in connection with any visit to our Web sites, any communication about our services and products, or other transactions or interactions with Vonage.
 
-Vonage may also collect non-personally identifiable information from Customers and Visitors regarding usage of our services or our web site ("Non-PII"). Non-PII may include web site pages viewed, time spent using certain services, demographic data, cookies and other information which does not specifically identify any one individual.
+Vonage may also collect non-personally identifiable information from Customers and Visitors regarding usage of our services or our Web site ("Non-PII"). Non-PII may include Web site pages viewed, time spent using certain services, demographic data, cookies, and other information which does not specifically identify any one individual.
 
-"Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies to customize your visit to our web sites and for other purposes to make your visit more convenient or to enable us to enhance our service.
+"Cookies" are pieces of information that may be placed on your computer by a Web site for the purpose of facilitating and enhancing your communication and interaction with that Web site. Many Web sites use cookies for these purposes. We may use cookies to customize your visit to our Web sites and for other purposes to make your visit more convenient or to enable us to enhance our service.
 
-In addition to our cookies, we may also use (and our third party advertisers may use) clear gifs, web beacons and third party cookies to improve the performance of our web sites, provide certain features such as advertising or to anonymously track usage of our web sites and track the online activity of users. In addition, we may use such devices in our HTML-based emails to track the usage of such emails in much the same manner as usage of our web sites is tracked.
+In addition to our cookies, we may also use (and our third party advertisers may use) clear gifs, Web beacons, and third party cookies to improve the performance of our Web sites, provide certain features such as advertising, or to anonymously track usage of our Web sites and track the online activity of users. In addition, we may use such devices in our HTML-based emails to track the usage of such emails in much the same manner as usage of our Web sites is tracked.
 
-You may stop or restrict the placement of cookies on your computer, including third party cookies, or flush them from your browser by adjusting your web browser preferences, in which case you may still use our web site, but it may interfere with some of its functionality.
+You may stop or restrict the placement of cookies on your computer, including third party cookies, or flush them from your browser by adjusting your Web browser preferences, in which case you may still use our Web site, but it may interfere with some of its functionality.
 
 ### Anti-Spyware Policy
 
-Vonage believes that Spyware is a threat to consumer privacy and a consumer's experience online. Therefore, we forbid any Vonage employee, agent, partner, affiliate or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of Vonage. Spyware refers to any executable software application that is installed on a user's personal computer and covertly gathers and transmits PII through the user's Internet connection without the knowledge or consent of the user. Cookies and web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any Vonage employee, agent, partner or affiliate on Vonage's behalf will not be tolerated and will be considered grounds for dismissal, contract termination and/or loss of payment.
+Vonage believes that Spyware is a threat to consumer privacy and a consumer's experience online. Therefore, we forbid any Vonage employee, agent, partner, affiliate, or contractor from intentionally deploying or using Spyware (as defined in this policy) on behalf of Vonage. Spyware refers to any executable software application that is installed on a user's personal computer and covertly gathers and transmits PII through the user's Internet connection without the knowledge or consent of the user. Cookies and Web beacons are not considered Spyware. Spyware may gather PII, such as e-mail addresses and credit card information, and may even alter personal computer settings. Intentional use of Spyware by any Vonage employee, agent, partner, or affiliate on Vonage's behalf will not be tolerated and will be considered grounds for dismissal, contract termination, and/or loss of payment.
 
 ### Use of Information
 
-Vonage will use PII (1) to market products and services to Customers and Visitors that Vonage believes may be of interest to them, (2) to provide services and products requested by Customers and Visitors and (3) to enable its vendors and contractors to provide and assist Vonage in the marketing and provision of such services and products to Vonage, Customers or Visitors. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from Vonage. Vonage only works with partners whom we believe maintain high standards with respect to privacy and consumer rights.
+Vonage will use PII (1) to market products and services to Customers and Visitors that Vonage believes may be of interest to them, (2) to provide services and products requested by Customers and Visitors and (3) to enable its vendors and contractors to provide and assist Vonage in the marketing and provision of such services and products to Vonage, Customers, or Visitors. However, we will not share your credit card information with any third parties unless they are involved in processing payments for services that you have purchased from Vonage. Vonage only works with partners whom we believe maintain high standards with respect to privacy and consumer rights.
 
-Vonage may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [Terms of Service](https://web.archive.org/tos/), as required by courts or administrative agencies or in connection with a sale, merger or reorganization of Vonage's business.
+Vonage may also use and disclose PII to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our service or network, to investigate fraud or violations of our [Terms of Service](https://web.archive.org/doc/en_us/1298.xml?), as required by courts or administrative agencies or in connection with a sale, merger, or reorganization of Vonage's business. 
 
 Non-PII may be shared with any number of third parties by Vonage.
 
 ### CPNI
 
-In the course of providing services to you, we collect and maintain certain customer proprietary network information ("CPNI"). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI. Accordingly, we do not sell, trade or share your CPNI, including your calling records outside of Vonage's family of companies or with anyone not authorized to offer our products or services, or to perform functions on our behalf except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas and court orders. We can also use CPNI to investigate fraud and to prevent violation of our Terms of Service and unlawful use of our network, services and other customers.
+In the course of providing services to you, we collect and maintain certain customer proprietary network information ("CPNI"). CPNI includes the types of services you currently purchase, related usage and billing information for those services. Your telephone number, name, and address are not CPNI. We value our relationships with our customers and are committed to respecting and protecting your CPNI. Accordingly, we do not sell, trade, or share your CPNI, including your calling records outside of Vonage's family of companies or with anyone not authorized to offer our products or services, or to perform functions on our behalf except as authorized by you or required by law. Generally, we can use your CPNI to offer additional services to you, and for billing and collections purposes. We can also disclose your CPNI for legal or regulatory reasons, including in response to subpoenas and court orders. We can also use CPNI to investigate fraud and to prevent violation of our Terms of Service and unlawful use of our network, services, and other customers.
 
 ### Security
 
@@ -83,7 +40,7 @@ Vonage has invested and deployed a wide variety of technology and security featu
 
 Vonage will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using Vonage services except as required to ensure proper operation of services or as otherwise authorized by law.
 
-You should be aware that any PII which you voluntarily include and transmit through publicly accessible forums (i.e., such as chat rooms, blogs, instant messages, listservs) may be viewed and used by anyone with access to such forums. Vonage is unable to control such uses of your PII, and by using such services you assume the risk that the PII provided by you may be viewed and used by third parties.
+You should be aware that any PII which you voluntarily include and transmit through publicly accessible forums (i.e., such as chat rooms, blogs, instant messages, listservs) may be viewed and used by anyone with access to such forums. Vonage is unable to control such uses of your PII, and by using such services, you assume the risk that the PII provided by you may be viewed and used by third parties.
 
 ### Account Information
 
@@ -91,21 +48,21 @@ Subject to certain security requirements, Vonage will do its best to honor reque
 
 ### Children's Privacy Policy
 
-Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, please [click here to report this to us](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1?article=1217).
+Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect PII from children or teenagers under the age of eighteen. If you believe that a minor has disclosed PII to Vonage, [report this to us](https://web.archive.org/doc/en_us/1217.xml?). 
 
 ### Vonage Spam Policy
 
-Vonage has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing Vonage privileges such as loss of referral credits and even loss of a customer's account. If you receive spam and want to report it to Vonage, please forward the email you've received to [spam-police@vonage.com](mailto:spam-police@vonage.com). 
+Vonage has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing Vonage privileges such as loss of referral credits and even loss of a customer's account. If you receive spam and want to report it to Vonage, please forward the email you have received to [spam-police@vonage.com](mailto:spam-police@vonage.com). 
 
 ### Third Party Web Sites and Services
 
-Our service may contain links to other web sites and services not maintained by Vonage. In addition, other web sites and services may also reference or link to Vonage. We encourage you to be aware when you leave our service, or surf the Internet, and to read the privacy statements of each and every web site and service that you visit. We do not endorse, screen or approve, and are not responsible for the privacy practices or the content of, such other web sites and services.
+Our service may contain links to other Web sites and services not maintained by Vonage. In addition, other Web sites and services may also reference or link to Vonage. We encourage you to be aware when you leave our service, or surf the Internet, and to read the privacy statements of each and every Web site and service that you visit. We do not endorse, screen, or approve, and are not responsible for the privacy practices or the content of, such other Web sites and services.
 
 Vonage does not assume any liability for third parties that have been provided with information as permitted by this Privacy Policy or who have collected information as permitted by this Privacy Policy (such as advertisers using third party cookies).
 
 ### Opt-out Policy
 
-If you do not want your PII used by Vonage for any direct marketing purposes, then you may opt-out of such disclosures by calling us at 1-VONAGE-HELP (1-866-243-4357).
+If you do not want your PII used by Vonage for any direct marketing purposes, then you may opt-out of such disclosures by calling us at **1-VONAGE-HELP (1-866-243-4357)**.
 
 However, we are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy. Since Vonage must use a Customer's PII in order to provide them with Vonage services, Customers cannot opt-out of all uses of their PII unless they cancel their service.
 
@@ -123,14 +80,12 @@ Our service is maintained in the United States of America. By using our services
 
 ### Questions
 
-For common questions and answers regarding our privacy policy or to contact us, [click here ](https://web.archive.org/web/20100326110427id_/http%3A//www.vonage.com/support.php%3Farticle%3D399%26lid%3Dfooter_privacy%26refer_id%3DWEBPV0706010001W1?article=1217)
+For common questions and answers regarding our privacy policy or to contact us, go to [Privacy Policy: FAQs](https://web.archive.org/doc/en_us/1217.xml?).
 
 ### Effective Date
 
 This Privacy Policy was last updated on November 8, 2006.
 
-* * *
+en_us/399
 
-  * Did this article answer your question today?Yes No
-
-
+## Did this article help you?
