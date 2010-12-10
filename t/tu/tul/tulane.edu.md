@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tulane.edu privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004728id_/http%3A//tulane.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulane.edu privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210055057id_/http%3A//tulane.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Tulane University - Privacy Notice
 
