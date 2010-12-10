@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413125452id_/http%3A//www.ryland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210231244id_/http%3A//www.ryland.com/privacy) for the most accurate reproduction.*
 
 # 
 
-#####  Privacy Policy Notice
+##  Privacy Policy Notice
 
 ####  Purpose of this Notice.
 
@@ -65,5 +65,3 @@ If you have a previous relationship with us and already made a choice to limit m
 
 
 The policies set forth in this Notice are effective at the time of publishing, but are subject to change in order to best meet the needs of our customers and to reflect changes in local, state and federal laws.
-
-_*_ First Name: _*_ Last Name: Email: Phone Number: Street Address: City: State: Zip Code: _*_ Acknowledge: I / We acknowledge that we have received and read this Notice.
