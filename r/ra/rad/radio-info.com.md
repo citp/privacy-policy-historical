@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the radio-info.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222191435id_/http%3A//www.radio-info.com/pages/3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-info.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210201942id_/http%3A//www.radio-info.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Radio-Info.com
+# About:Privacy Policy | Radio-Info.com
 
-_Effective Date: March 23, 2006_
+Effective Date: March 23, 2006
 
-## FOREWORD
+### Foreword
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like Radio-Info. Keeping and maintaining accurate statistics on visitors, as well as an extensive client database is essential. These policies and standards are fully compliant with the regulations of the place of origin, the United States of America. Our principal activity is American radio information, and this policy covers Radio-Info, and its Web Sites.
 
-### 1\. ANONYMOUS ACCESS
+* * *
+
+### 1\. Anonymous Access
 
 You can access the Radio-Info Official Site, Radio-Info Owned Sites, and Radio-Info Networked Sites (collectively our “Web Sites”) and browse without disclosing your personal data. Adding content to the Web Sites requires registration, which may require the disclosure of certain personal information.
 
-### 2\. SERVICES AND LINKS OF OUR WEB SITES
+* * *
+
+### 2\. Services and Links of Our Web Sites
 
 Our Web Sites enable you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. Our Web Sites do not include links to third party Web service providers.
 
-### 3\. AUTOMATIC COLLECTION OF INFORMATION
+* * *
+
+### 3\. Automatic Collection of Information
 
 We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes:
 
@@ -35,7 +41,9 @@ We use cookies to store personal data or we link information stored in cookies w
 
 
 
-### 4\. DATA COLLECTION AND PURPOSE SPECIFICATION
+* * *
+
+### 4\. Data Collection and Purpose Specification
 
 We collect the personal data that you may volunteer while using our services, however, we do not collect information about our visitors from other sources, such as public records or bodies, or private organizations, or use personal data for any purpose other than that indicated below:
 
@@ -48,26 +56,38 @@ We collect the personal data that you may volunteer while using our services, ho
 
 If we wish to use your personal data for a new purpose, by continuing to use the services we provide, you give your full consent. Certain special that may be provided from time to time may require the disclosure of additional information; any types of information and the uses of information shall be specified at the time of such collection.
 
-### 5\. CHILDRENS' POLICY
+* * *
+
+### 5\. Children's Policy
 
 We do not knowingly collect personal data from children (persons under the age of 13). We take specific steps to protect the privacy of children by making reasonable efforts to ensure that a parent has authorized the collection of the child’s personal data, and by giving parents the option to consent to the collection and use of the child’s personal data for our internal use. We do provide information about our personal data practices in relation to children on our Web Site and wherever we knowingly collect personal data from children on our Web site.
 
-### 6\. DISCLOSURE AND VISITOR CHOICE
+* * *
+
+### 6\. Disclosure and Visitor Choice
 
 We do not disclose your personal data to our subsidiaries or other organizations. Where we disclose your personal data for purposes which are different from those indicated in the list mentioned above, we offer you the opportunity to consent to disclosure prior to such disclosure.
 
-### 7\. CONFIDENTIALITY AND SECURITY
+* * *
+
+### 7\. Confidentiality and Security
 
 We do not give visitors to our Web Site the option of using a secure transmission method to send us their personal data, however, we have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All of our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data under penalty of law. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation beyond our control.
 
-### 8\. ACCESS TO THE PERSONAL DATA WE MAY HOLD ABOUT YOU
+* * *
 
-You can ask us whether we are keeping personal data about you by [contacting us](https://web.archive.org/pages/5-contact-us). Please allow 2-6 weeks for processing, and be prepared to give proper identification. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified or amended, or completed. We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
+### 8\. Access to the Personal Data We May Hold About You
 
-### 9\. PRIVACY COMPLIANCE AND CONCERNS
+You can ask us whether we are keeping personal data about you by [contacting us](https://web.archive.org/about/contact-us). Please allow 2-6 weeks for processing, and be prepared to give proper identification. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified or amended, or completed. We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
 
-If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please [contact us](https://web.archive.org/pages/5-contact-us).
+* * *
 
-### 10\. CHANGES TO PRIVACY POLICY
+### 9\. Privacy Compliance and Concerns
+
+If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please [contact us](https://web.archive.org/about/contact-us).
+
+* * *
+
+### 10\. Changes to Privacy Policy
 
 We may modify this policy from time to time. Please check back at this page from time to time to review any changes that may have been made to this policy.
