@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611233408id_/http%3A//www.designtaxi.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210085104id_/http%3A//www.designtaxi.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TAXI: The Global Creative Network
 
 HILLS CREATIVE ARTS Pte Ltd ("HCA") Online Privacy Notice 
 
-This page set forth Hills Creative Arts Pte Ltd's Privacy Policy ("Privacy Policy") for these web sites, http://www.HILLSCREATIVEARTS.com, http://www.ASTERIK.net and http://www.DESIGNTAXI.com ("Site") and other residing sites under its domain. To better protect our end-user privacy, this notice explains our online information practices and the choices end-users can make about the way their information is collected and used at this HCA site. BY USING THIS WEBSITE, THE USER AGREES TO THE TERMS OF THIS PRIVACY POLICY.
+This page set forth Hills Creative Arts Pte Ltd's Privacy Policy ("Privacy Policy") for these web sites, http://www.hillscreativearts.com, http://www.designtaxi.com, http://www.thecreativefinder.com, http://www.bza.co ("Site") and other residing sites under its domain. To better protect our end-user privacy, this notice explains our online information practices and the choices end-users can make about the way their information is collected and used at this HCA site. BY USING THIS WEBSITE, THE USER AGREES TO THE TERMS OF THIS PRIVACY POLICY.
 
 What information is collected 
 
@@ -100,4 +100,4 @@ Singapore 069400
 Singapore
 
 Helpdesk Facsimile:(65) 6227-2902  
-Helpdesk Email Address (Privacy Policies):privacy@hillscreativearts.com 
+Helpdesk Email Address (Privacy Policies):portfolios@designtaxi.com 
