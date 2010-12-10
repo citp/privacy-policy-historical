@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183313id_/http%3A//www.mda.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mda.org privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210060109id_/http%3A//www.mda.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
