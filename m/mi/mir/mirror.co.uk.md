@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirror.co.uk privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609083627id_/http%3A//www.mirror.co.uk/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirror.co.uk privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210215304id_/http%3A//www.mirror.co.uk/priv_statement) for the most accurate reproduction.*
 
 # Privacy Statement - mirror.co.uk
 
