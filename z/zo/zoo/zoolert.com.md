@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522133147id_/http%3A//www.zoolert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210142248id_/http%3A//www.zoolert.com/privacy) for the most accurate reproduction.*
 
 # zooLert.com - Hot Deals Current In Stock!
-
-**zooLert services are all FREE!**    Suggestion or Comment?  [E-Mail Us!](mailto:webmaster@zoolert.com)
 
 ### Privacy Policy:
 
@@ -34,10 +32,7 @@ zooLert may at any time, and without notice, revise this Privacy Policy statemen
 
 ### What's all this?
 
-## Track, Alert, Buy
-
-Whether you use our already [predefined hot trackers](http://www.zoolert.com/alltrackers.php) to find [PS3](http://www.zoolert.com/sony-playstation-3-tracker/), [Apple iPad](http://www.zoolert.com/apple-ipad-in-stock-tracker/), [Wii Fit Plus](http://www.zoolert.com/nintendo-wii-fit-tracker/) in stock or our tools to create your own [Amazon Price Tracker](http://www.zoolert.com/amazon-price-tracker/), find [Daily Deals](http://www.zoolert.com/hot-daily-deals.php), discover [Ebay Typos](http://www.zoolert.com/ebay-typo-search.php)... zooLert finds what you want, at the price you need!  
-[ **Click to read our introduction to using zooLert.com for more information!**](http://www.zoolert.com/forums/welcome/6653-new-here-old-need-refresher-welcome-faq-tips-howtos-key-threads-more-inside.html#post23282)
+Looking for [hot products in stock online](http://www.zoolert.com/alltrackers.php) that are sold out? Or, want to see hands on[ reviews and videos](http://www.zoolert.com/wordpress) with **REAL** kid's impressions of toys? Find it at zooLert.com! 
 
 ###  Today's Hot Product Trackers Alert Status:
 
@@ -45,10 +40,10 @@ Whether you use our already [predefined hot trackers](http://www.zoolert.com/all
 
 ### What are people saying:
 
-“Thank you, thank you zoolert. I have been able to get all the [zhu zhu pets](http://www.zoolert.com/zhu-zhu-pets-tracker/) and accessories I needed for my two granddaughters for christmas without paying the outrageous prices some people are wanting. You never stopped keeping me on the alert and I can't tell you how much help it was to get this done. I have been telling everyone about how great your service is and I know for a fact you are going to have some more customers. Our christmas is going to be a lot of fun now. You people are wonderful. Happy holidays to all of you. ” -Sharon
+“Thank you so much! I am so excited to have found your site, I'm sure it will be of great help to me during the upcoming holiday season. :-)” - Stacey
 
-“Just wanted to say Thank you for the wonderful job you did in finding me the [Zhu Zhu pets](http://www.zoolert.com/zhu-zhu-pets-tracker/). Thanks to your alert, not only was I able to find it, but I was able to buy it from Walmart at 1/2 the price of other locations and that included shipping! I went in as soon as I received the alert and checked back 5 minutes later and they were out of stock again!!! Thank you!! ” -Cheryl
+“Thanks again for getting Santa on there so quickly! ” - Christy
 
-“You guys rock again...I just picked up the [Chunk Zhu Zhu Pet](http://www.zoolert.com/zhu-zhu-pets-tracker/) from Walmart; thanks to my favorite tracker!” -Kelly
+“You guys are MY Santa!” -Alisha
 
-“Thanks to your awesomely awesome website, I scored the [Zhu Zhu hamsters](http://www.zoolert.com/zhu-zhu-pets-tracker/) I needed for NO MARKUP (ahem, eBay) on Walmart.com this morning. Keep up the good work! ” -Rachel
+“Thanks to you wonderful people- I was able to buy [Mindflex](http://www.zoolert.com/mattel-mindflex-game-tracker/) from TRU for $59.99 with free shipping!!!! Your service truly is a wonderful thing!!!! Thank you!!!!!!! You guys rock the internet!!!!” -Rich
