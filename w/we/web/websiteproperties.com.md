@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522014752id_/http%3A//www.websiteproperties.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073056id_/http%3A//www.websiteproperties.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Website Properties Inc., Website Business Brokers
+# Privacy Policy
 
 Website Properties Inc. is committed to respecting the privacy and rights of our clients and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to ensure that none of your privacy rights are ever violated. We believe in a noninvasive approach to the Internet. Your information stays with us, will never be sold and is only used to better serve you in the future.
 
