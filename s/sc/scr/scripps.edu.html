@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scripps.edu privacy policy that was archived on 2010-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527095019id_/http%3A//www.scripps.edu/philanthropy/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scripps.edu privacy policy that was archived on 2010-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210081723id_/http%3A//www.scripps.edu/philanthropy/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,6 +11,14 @@
 	<link rel="stylesheet" href="/css/master.css" type="text/css" media="screen, projection">
 	<link rel="stylesheet" href="/css/nav_charity.css" type="text/css" media="screen, projection">
 	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
+	<!--
+	 - @author		matt ryan <mryan@sankynet.com>
+	 - @date		Mon Jun  7 15:20:28 EDT 2010
+	 - @comments	this link needs to be removed, it will be added dynamically (form.css)
+	 --> 
+	<link rel="stylesheet" href="/css/form.css" type="text/css" media="screen" title="no title" charset="utf-8">	
+	
+
 	<style type="text/css" media="screen">
 		</style>
 	<link rel="stylesheet" href="/css/philanthropy-giv.css" type="text/css" media="screen, projection">
@@ -45,7 +53,7 @@
 	<div id="masthead">
 		<p id="logo"><a href="/">The Scripps Research Institute</a></p>
 		
-		<p id="tagline" style="background: url('/css/i/masthead_inner02.jpg');"><span>Privacy Policy</span></p><p id="tagline"><span>Privacy Policy</span></p>	</div> 
+		<p id="tagline" style="background: url('/css/i/masthead_inner03.jpg');"><span>Privacy Policy</span></p><p id="tagline"><span>Privacy Policy</span></p>	</div> 
 	<!-- /masthead -->
 
 	<div id="content">
@@ -131,7 +139,7 @@ When you make a gift on our site, your e-mail will be entered into our donor dat
 	</div> <!-- /content -->
 </div> <!-- /wrapper -->
 <div id="footer">
-	<p id="links"><a href="/">Home</a> | <a href="/hr/">Careers</a> | <a href="/subscribe">Subscribe</a> | <a href="/philanthropy/donate">Donate</a> | <a href="/contact.phtml">Contact Us</a> | <a href="/philanthropy/privacypolicy.html">Privacy Policy</a> | <a href="/e_sitemap.html">Site Map</a> | <a href="/e_search.html">Search</a></p>
+	<p id="links"><a href="/">Home</a> | <a href="/hr/">Careers</a> | <a href="/philanthropy/subscribe/">Subscribe</a> | <a href="/philanthropy/donate">Donate</a> | <a href="/contact.phtml">Contact Us</a> | <a href="/philanthropy/privacypolicy.html">Privacy Policy</a> | <a href="/e_sitemap.html">Site Map</a> | <a href="/e_search.html">Search</a></p>
 	<div class="vcard">
 		<div class="adr">
 			<div class="org fn"><span class="organization-name hide">The Scripps Research Institute</span></div>
@@ -158,6 +166,17 @@ When you make a gift on our site, your e-mail will be entered into our donor dat
 		var pageTracker = _gat._getTracker("UA-6539350-1");
 		pageTracker._trackPageview();
 		} catch(err) {}</script>
-				
+		
+
+						<script type="text/javascript" charset="utf-8">
+				function checkExpressCheckOut() {
+					if(document.getElementById("express_opt").checked == true) {
+						show_hide("express_opt", "private_opt");
+					}			
+				}
+				window.onload = checkExpressCheckOut();
+			</script>
+
+		
 		
 	</body></html>
