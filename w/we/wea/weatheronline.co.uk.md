@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325235530id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatheronline.co.uk privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210212853id_/http%3A//www.weatheronline.co.uk/about/Privacy.htm) for the most accurate reproduction.*
 
 # WeatherOnline Ltd. : Privacy Weather UK weatheronline.co.uk
 
