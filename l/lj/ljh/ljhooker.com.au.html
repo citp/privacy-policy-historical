@@ -1,1109 +1,168 @@
-<!--The following is the downloaded HTML source of the ljhooker.com.au privacy policy that was archived on 2007-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071212235857id_/http%3A//www.ljhooker.com.au/page/aboutus/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ljhooker.com.au privacy policy that was archived on 2010-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210140843id_/http%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy Policy - L.J. Hooker</title><script type="text/javascript">
-document.domain = 'ljhooker.com.au'; var LJH = new Object(); var time = new Date(); LJH.StartTime = time.getTime();
-</script>
-<script type="text/javascript" src="/script/prototype.js"></script>
-<script type="text/javascript" src="/script/scriptaculous.js?load=effects"></script><script type="text/javascript" src="https://web.archive.org/script/effects.js"></script>
-<script type="text/javascript" src="/script/ljh-min.js"></script>
+<title>Privacy Policy - LJ Hooker</title><script type="text/javascript" src="/script/jquery.combined.js"></script>
+<!--[if lt IE 7]><script type="text/javascript" defer src="/script/pngfix.js"></script>
+<![endif]--><script type="text/javascript" src="/tscript/base.js"></script>
+<script type="text/javascript" src="/pscript/Analytics/analytics.js"></script>
 <script type="text/javascript">
-LJH.Control.lvl0Scripts.push(function(){
-  var tabContainer = $("site_tabline");
-  if(tabContainer){
-    var elements = tabContainer.getElementsByTagName("li");
-    var tabs     = new Array();
-    for(var i = 0; i < elements.length; i++)
-      tabs.push({ id: elements[i].id });
-   
-    new LJH.Tabs(tabs, { over: 'sitetabs_selected', out: 'sitetabs_idle', on: 'sitetabs_on' });
-  }
-});
-</script>
-<script type="text/javascript">
-LJH.Control.lvl0Scripts.unshift(function() {
-  LJH.Control.compareWidget = new LJH.CompareWidget('compare_widget', 
-                                                    [  ], '/callbacks/compare.php', 'ResidentialBuy');
-  LJH.Control.compareWidget.setupClear(new LJH.ButtonControl('compare_widget_clearall_btn', { up: 'button_up', down: 'button_down' }));
-  LJH.Control.compareWidget.setupCompare(new LJH.ButtonControl('compare_widget_comparenow_btn', { up: 'button_up', down: 'button_down' }));
-});
-</script>
-<script type="text/javascript">
-LJH.Control.loadScripts.push(function() {
-  var menusettings = { expandedOver : 'menu_expand_over',   expandedOut : 'menu_expand_out',
-                       collapsedOver: 'menu_collapse_over', collapsedOut: 'menu_collapse_out' }
-    var ttoptions    = [                        { text: "Moving Tips", href: "/page/tipsandtools/movingtipsau/" }
-                       ,                        { text: "Rental Payments", href: "/page/tipsandtools/payrent/" }
-                       ,                        { text: "Buying Tips & Checklists", href: "/page/tipsandtools/buyingtips/" }
-                       ,                        { text: "Renting Tips & Checklists", href: "/page/tipsandtools/rentingtipsau/" }
-                       ,                        { text: "Selling Tips & Checklists", href: "/page/tipsandtools/sellingtips/" }
-                       ,                        { text: "Glossary of Terms", href: "/page/tipsandtools/glossary/" }
-                        ];
-  var tipsandtools = new LJH.MenuControl('tips_and_tools_menu', ttoptions, menusettings);
-      var servicesmenu = new LJH.MenuControl('services_menu',
-                                         [                                            { text: "L.J. Hooker Financial Services", href: "/page/serviceplus/finservices/" }
-                                           ,                                            { text: "Conveyancing/Settlements", href: "/page/serviceplus/conveysettle/" }
-                                           ,                                            { text: "L.J. Hooker Move", href: "/page/serviceplus/ljhmove/" }
-                                           ,                                            { text: "Tax Depreciation", href: "/page/serviceplus/taxdepau/" }
-                                           ,                                            { text: "L.J. Hooker Connect", href: "/page/serviceplus/ljhconnect/" }
-                                           ,                                            { text: "Property Management", href: "/page/serviceplus/propmanagement/" }
-                                           ,                                            { text: "Auction Services", href: "/page/serviceplus/auctionservices/" }
-                                           ,                                            { text: "Pest & Building", href: "/page/serviceplus/pestandbuilding/" }
-                                           ,                                            { text: "Insurance", href: "/page/serviceplus/insurance/" }
-                                           ,                                            { text: "Business Broking", href: "/page/serviceplus/busbroking/" }
-                                            ], 
-                                         menusettings);
-  });
-</script>
-<script type="text/javascript">
-LJH.Control.lvl0Scripts.push(function(){
-  var go = new LJH.ButtonControl('site_content_search_go', { up: 'button_up', down: 'button_down' })
-  $('site_content_search_field').observe('focus', function(){
-    if(!$('site_content_search_field').getAttribute('defaultCleared')){
-      $('site_content_search_field').value = "";
-      $('site_content_search_field').setAttribute('defaultCleared', true)
-    }
-  });
-  Event.observe(go.node, 'click', function(){
-                                    if($('site_content_search_field').value.trim().length < 3){
-                                      alert("Please enter a search term of 3 or more characters!");
-                                      return;
-                                    }
-                                    $('site_content_search_form').submit();
-                                  });
-});
-</script>
-<script type="text/javascript">
-LJH.Control.lvl0Scripts.push(function(){
-  var go = new LJH.ButtonControl('system_search_go', { up: 'button_up', down: 'button_down' })
-  $('system_search_field').observe('focus', function(){
-    if(!$('system_search_field').getAttribute('defaultCleared')){
-      $('system_search_field').value = "";
-      $('system_search_field').setAttribute('defaultCleared', true)
-    }
-  });
-  Event.observe(go.node, 'click', function(){
-                                    if($('system_search_field').value.trim().length < 3){
-                                      alert("Please enter a search term of 3 or more characters!");
-                                      return;
-                                    }
-                                    $('system_search_form').submit();
-                                  });
-});
-</script>
-<script type="text/javascript">
-LJH.Control.lvl0Scripts.push(function(){
-  new LJH.ButtonControl('myljhooker_login_enter', { up: 'button_up', down: 'button_down' }, '/page/myljhooker/');
-});
-</script>
-<script type="text/javascript">
-LJH.Control.loadScripts.push(function(){
-  var slideroptions = { over : 'slider_button_over', out : 'slider_button' };
-  var sliderbuttons = [ new LJH.ButtonControl('quicksearch_button', slideroptions),
-                        new LJH.ButtonControl('quickadvanced_button', slideroptions),
-                                                new LJH.ButtonControl('search_button', slideroptions),
-                        new LJH.ButtonControl('mapsearch_button', slideroptions),
-                        new LJH.ButtonControl('mapsearch_text_button', slideroptions),
-                        new LJH.ButtonControl('mapzoom_button', slideroptions),
-                        new LJH.ButtonControl('mapzoom_text_button', slideroptions),
-                                                new LJH.ButtonControl('reset_button', slideroptions), ];
-                        
-    var data = {
-  'zoomout' : false,
-  'areas'   : { 'nsw': { 'name': 'New South Wales',        'data': { 'hoverpos': '-162px 0',  'zoom': { 'type' : 'map', 'id': 'au_nsw' } } },
-                'act': { 'name': 'ACT',                    'data': { 'hoverpos': '-324px 0',  'zoom': { 'type' : 'map', 'id': 'au_act' } } },
-                'qld': { 'name': 'Queensland',             'data': { 'hoverpos': '-1296px 0', 'zoom': { 'type' : 'map', 'id': 'au_qld' } } },
-                'sa':  { 'name': 'South Australia',        'data': { 'hoverpos': '-810px 0',  'zoom': { 'type' : 'map', 'id': 'au_sa' } } },
-                'vic': { 'name': 'Victoria',               'data': { 'hoverpos': '-486px 0',  'zoom': { 'type' : 'map', 'id': 'au_vic' } } },
-                'tas': { 'name': 'Tasmania',               'data': { 'hoverpos': '-648px 0',  'zoom': { 'type' : 'map', 'id': 'au_tas' } } },
-                'wa':  { 'name': 'Western Australia',      'data': { 'hoverpos': '-972px 0',  'zoom': { 'type' : 'map', 'id': 'au_wa' } } },
-                'nt':  { 'name': 'The Northern Territory', 'data': { 'hoverpos': '-1134px 0', 'zoom': { 'type' : 'map', 'id': 'au_nt' } } } },
-  'imagemap': [ { 'id': 'tas', 'coords': '113,119, 107,124, 107,132, 119,138, 129,130, 128,119' },
-                { 'id': 'wa' , 'coords': '67,27, 58,21, 51,21, 9,57, 9,109, 67,103' },
-                { 'id': 'vic', 'coords': '105,99, 105,117, 120,118, 131,116, 131,112, 127,107, 127,105, 116,105, 116,104, 109,99' },
-                { 'id': 'act', 'coords': '129,99, 129,99, 152,98, 152,106, 129,106, 129,99' },
-                { 'id': 'nsw', 'coords': '105,81, 105,98, 110,98, 110,98, 110,98, 115,103, 115,103, 115,103, 117,103, 117,104, 127,104, 127,105, 128,105, 128,108, 129,108, 131,112, 133,112, 133,107, 129,106, 129,99, 140,97, 150,81' },
-                { 'id': 'qld', 'coords': '97,68, 97,30, 115,9, 150,64, 150,80, 105,80, 105,68' },
-                { 'id': 'nt' , 'coords': '68,68, 68,11, 96,11, 96,68' },
-                { 'id': 'sa' , 'coords': '68,89, 68,69, 104,69, 104,114, 97,114' } ]
-};
-    
-    var mapcontrol = new LJH.MapControl({ container:     'mapsearch_content', 
-                                        map:           'search_map', 
-                                        spacer:        'mapspacer', 
-                                        imagemap:      'mapsearch_imagemap', 
-                                        mapField:      'map_last_mapid',
-                                        switchbutton:  sliderbuttons[3], 
-                                        zoombutton:    sliderbuttons[5],
-                                        countrySelect: 'country' },
-                                      { container:     'mapsearch_text_content', 
-                                        text:          'mapsearch_text', 
-                                        regionField:   'map_selected_area',
-                                        allSuburbs:    'search_map_allsuburbs',
-                                        switchbutton:  sliderbuttons[4],
-                                        zoombutton:    sliderbuttons[6],
-                                        helpText:      'search_map_help' }, 
-                                      'aus',
-                                      null,
-                                      null,
-                                      'small' 
-                                      ,{
-  'zoomout' : false,
-  'areas'   : { 'nsw': { 'name': 'New South Wales',        'data': { 'hoverpos': '-162px 0',  'zoom': { 'type' : 'map', 'id': 'au_nsw' } } },
-                'act': { 'name': 'ACT',                    'data': { 'hoverpos': '-324px 0',  'zoom': { 'type' : 'map', 'id': 'au_act' } } },
-                'qld': { 'name': 'Queensland',             'data': { 'hoverpos': '-1296px 0', 'zoom': { 'type' : 'map', 'id': 'au_qld' } } },
-                'sa':  { 'name': 'South Australia',        'data': { 'hoverpos': '-810px 0',  'zoom': { 'type' : 'map', 'id': 'au_sa' } } },
-                'vic': { 'name': 'Victoria',               'data': { 'hoverpos': '-486px 0',  'zoom': { 'type' : 'map', 'id': 'au_vic' } } },
-                'tas': { 'name': 'Tasmania',               'data': { 'hoverpos': '-648px 0',  'zoom': { 'type' : 'map', 'id': 'au_tas' } } },
-                'wa':  { 'name': 'Western Australia',      'data': { 'hoverpos': '-972px 0',  'zoom': { 'type' : 'map', 'id': 'au_wa' } } },
-                'nt':  { 'name': 'The Northern Territory', 'data': { 'hoverpos': '-1134px 0', 'zoom': { 'type' : 'map', 'id': 'au_nt' } } } },
-  'imagemap': [ { 'id': 'tas', 'coords': '113,119, 107,124, 107,132, 119,138, 129,130, 128,119' },
-                { 'id': 'wa' , 'coords': '67,27, 58,21, 51,21, 9,57, 9,109, 67,103' },
-                { 'id': 'vic', 'coords': '105,99, 105,117, 120,118, 131,116, 131,112, 127,107, 127,105, 116,105, 116,104, 109,99' },
-                { 'id': 'act', 'coords': '129,99, 129,99, 152,98, 152,106, 129,106, 129,99' },
-                { 'id': 'nsw', 'coords': '105,81, 105,98, 110,98, 110,98, 110,98, 115,103, 115,103, 115,103, 117,103, 117,104, 127,104, 127,105, 128,105, 128,108, 129,108, 131,112, 133,112, 133,107, 129,106, 129,99, 140,97, 150,81' },
-                { 'id': 'qld', 'coords': '97,68, 97,30, 115,9, 150,64, 150,80, 105,80, 105,68' },
-                { 'id': 'nt' , 'coords': '68,68, 68,11, 96,11, 96,68' },
-                { 'id': 'sa' , 'coords': '68,89, 68,69, 104,69, 104,114, 97,114' } ]
-});
-    
-    var sliderform = new LJH.SliderForm('slider_form', 
-                                      [ sliderbuttons[0], sliderbuttons[2] ], 
-                                      [ sliderbuttons[1] ],
-                                      [ sliderbuttons[7] ],
-                                      '/advanced_search.php',
-                                      mapcontrol);
-    
-  var areaFields = [ 'propertydetails_commercial_min_area',
-                     'propertydetails_commercial_max_area',
-                     'propertydetails_industrial_min_area',
-                     'propertydetails_industrial_max_area',
-                     'propertydetails_vacantland_min_area',
-                     'propertydetails_vacantland_max_area' ];
+jQuery(function(){
+  var loader = new AnalyticsLoader();
   
-  var resetDefault = function(node){
-    node = $(node);
-    if(node.value.match(/max|min/i))
-      node.value = "";
-  };
-  
-  areaFields.each(function(field){
-    $(field).observe('focus', resetDefault.bind(null, field));
-    new LJH.NumbersOnly(field);
-  });
+  $(loader).bind('load', function(){
+    var tracker;
+          tracker = _gat._getTracker("UA-5707975-2");
+      tracker._setDomainName("auto");
+      tracker._trackPageview();
+      });
 });
 </script>
-<script type="text/javascript" src="/script/slider-min.js"></script>
-<script type="text/javascript" src="/script/mapcontrol-min.js"></script>
-<script type="text/javascript">
-LJH.Control.loadScripts.unshift(function() {
-  // locate the search slider
-  LJH.Control.positionSlider();
-  var tabOptions = [ { id:          'residential_tab',  href: '#', name: 'residential',  
-                       toggleAreas: [ 'propertydetails_residential_container', 'slider_rent_label' ], 
-                       rentAreas:   [ 'residential_lease_types', 'residential_rent_pricerange' ],
-                       buyAreas:    [ 'residential_buy_pricerange' ],
-                       allowBoth:   false },
-                     { id:          'commercial_tab',   
-                       href:        '#', 
-                       name:        'commercial',   
-                       toggleAreas: [ 'propertydetails_commercial_container', 'slider_tenure_both', 'slider_lease_label' ],
-                       rentAreas:   [ 'commercial_rent_pricerange' ],
-                       buyAreas:    [ 'commercial_buy_pricerange' ],
-                       bothAreas:   [ ],
-                       allowBoth:   true },
-                     { id:          'industrial_tab',   
-                       href:        '#', 
-                       name:        'industrial',
-                       toggleAreas: [ 'propertydetails_industrial_container', 'slider_tenure_both', 'slider_lease_label' ],
-                       rentAreas:   [ 'industrial_rent_pricerange' ],
-                       buyAreas:    [ 'industrial_buy_pricerange' ],
-                       bothAreas:   [ ],
-                       allowBoth:   true },
-                     { id:          'rural_tab',        
-                       href:        '#', 
-                       name:        'rural',        
-                       toggleAreas: [ 'propertydetails_rural_container', 'propertyfeatures_rural', 'slider_rent_label' ],
-                       rentAreas:   [ 'rural_rent_pricerange' ],
-                       buyAreas:    [ 'rural_buy_pricerange' ],
-                       allowBoth:   false },
-                     { id:          'vacantland_tab',   
-                       href:        '#', 
-                       name:        'vacantland',   
-                       toggleAreas: [ 'propertydetails_vacantland_container',   'propertyfeatures_vacantland', 'slider_rent_label' ],
-                       rentAreas:   [ 'vacantland_rent_pricerange' ],
-                       buyAreas:    [ 'vacantland_buy_pricerange' ],
-                       allowBoth:   false },
-                     { id:          'smallacreage_tab', href: '#', name: 'smallacreage', 
-                       toggleAreas: [ 'propertydetails_smallacreage_container', 'slider_rent_label' ],
-                       buyAreas:    [ ],
-                       rentAreas:   [ ],
-                       allowBoth:   false } ];
-  LJH.Control.Slider = new LJH.Slider("slider_container", "content_container", tabOptions, "slider_searchtype", "slider_buy_flag", "slider_rent_flag", "slider_both_flag", true, "slider_internal_spacer", "site_middle");
-  
-  $('prompt_bar').observe('click', LJH.Control.Slider.toggle.bind(LJH.Control.Slider));
-  
-  var menuSettings = { expandedOver : 'menu_expand_over',   expandedOut : 'menu_expand_out',
-                       collapsedOver: 'menu_collapse_over', collapsedOut: 'menu_collapse_out' }
-                       
-    new LJH.MenuControl('content_level2_nav', 
-                      [                         { text: 'About L.J. Hooker',
-                          href: '/page/aboutus/aboutljhau/' },                         { text: 'Community Involvement',
-                          href: '/page/aboutus/communityau/' },                         { text: 'L.J. Hooker & Cystic Fibrosis Australia',
-                          href: '/page/aboutus/cysticfibrosis/' },                         { text: 'Thank You Day Award',
-                          href: '/page/aboutus/thankyouday/' },                         { text: 'Copyright',
-                          href: '/page/aboutus/copyright/' },                         { text: 'Disclaimer',
-                          href: '/page/aboutus/disclaimer/' },                         { text: 'Privacy Policy',
-                          href: '/page/aboutus/privacypolicy/' } ], 
-                      menuSettings);
-    });
-
-Event.observe(window, 'resize', function(){ LJH.Control.positionSlider(); });
-
-</script>
-<script type="text/javascript">
-LJH.Control.loadScripts.push(function() {
-  var menuSettings = { expandedOver : 'menu_expand_over',   expandedOut : 'menu_expand_out',
-                       collapsedOver: 'menu_collapse_over', collapsedOut: 'menu_collapse_out' }
-                       
-  });
-
-LJH.Control.lvl2Scripts.push(function(){
-  var frames = $$('iframe');
-  if(frames.length > 0 && frames[0].src.match(/themovingchannel/)){
-    LJH.Control.Slider.addHideFields([frames[0]])
-  }
-});
-</script>
-<link rel="stylesheet" type="text/css" href="/styles/widgets.css"><link rel="stylesheet" type="text/css" href="/styles/content.css"><link rel="stylesheet" type="text/css" href="/styles/slider.css"><link rel="stylesheet" type="text/css" href="/styles/site.css"><link rel="stylesheet" type="text/css" href="/styles/focuscolumn.css"><link rel="stylesheet" type="text/css" href="/styles/menus.css"><link rel="search" type="application/opensearchdescription+xml" href="http://www.ljhooker.com.au/opensearch.xml" title="L.J. Hooker Australia Search"><!-- Start DI Tracking Code for HEAD section-->
-<script language="JavaScript1.2">
-var refr=escape(document.referrer); /* get the http referer and encode it */
-var dom=location.hostname; /* get the host domain */
-var stURL="http://link.decideinteractive.com/n/39833/39835/www.ljhooker.com.au/e1byrn;11;3;;6;;17jswc;;;;;1;/i/c?0&1pixgif&referer="
-+ refr;
-if ( (refr && refr.search(dom) == -1) && (location.href.toUpperCase().indexOf("247SEO=N") == -1) ) /* if the referrer is external preload the image request and does not contain 247SEO argument = "N" */
-{
-imageTR = new Image();
-imageTR.src = stURL;
-}
-</script>
-<!-- End DI Tracking Code -->
-<link rel="shortcut icon" href="http://www.ljhooker.com/images/ljh.ico">
+<link rel="stylesheet" type="text/css" href="/styles/site.css"><link rel="stylesheet" type="text/css" href="/styles/cupertino/ui.all.css"><link rel="shortcut icon" href="/images/icon.ico">
 </head>
 <body>
-<div id="central">
-  <div id="site_container">
-    <a name="top"></a>
-    <ul id="tricolor">
-      <li id="tricolor_black"><img src="/images/top_banner.gif" alt="ljhooker.com.au" border="0"></li>
-      <li id="tricolor_red">&nbsp;</li>
-      <li id="tricolor_yellow">&nbsp;</li>
-    </ul>
-    <div id="site_tabs">
-            <img src="/images/spacer.gif" height="12px" width="100%">
-      <ul id="site_tabline">
-        <li id="home_tab"><a href="/page/auhome/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="buy_tab"><a href="/page/buy/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="rent_tab"><a href="/page/rent/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="sell_tab"><a href="/page/sell/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="finance_tab"><a href="/page/finservices/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="services_tab"><a href="/page/serviceplus/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="careers_tab"><a href="/page/careers/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="advicecentre_tab"><a href="/page/advicecentre/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="aboutus_tab" class="sitetabs_on"><a href="/page/aboutus/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="findagent_tab"><a href="/page/findagent/"><img src="/images/spacer.gif" border="0"></a></li>
-        <li id="contact_tab"><a href="/page/contact/"><img src="/images/spacer.gif" border="0"></a></li>
-      </ul>
-            <div id="other_sites_container">
-      </div> 
+<div class="site" id="top">
+  <div class="site-header">
+    <div class="header-left">
+      <a href="/"><img src="/images/ljhooker/header-logo.png" alt="ljhooker.com" border="0"></a>
     </div>
-    <div id="site_middle">
-      <div id="prompt_bar"><img src="/images/slider/prompt.gif" alt="Property Search Bar: click here to open" border="0"></div>
-<div id="slider_spacer"><img src="/images/spacer.gif" height="1px" width="23px"></div>
-<div id="slider_position" style="left: 20px; top: 81px;">
-  <div id="slider_container">
-    <form id="slider_form" name="slider_form" action="/property_search.php" method="get">
-      <input type="hidden" name="a0" id="slider_searchtype" value="residential">
-      <input type="hidden" name="a1" id="new_search" value="1">
-      <div id="quicksearch" class="slider_search">
-        <p>
-          <img src="/images/slider/propertysearch.gif" width="162px" alt="Property Search">
-        </p>
-        <div id="quicksearch_content">
-          <p>
-            <select id="country" name="a2">
-                            <option value="ljhooker.com.au" searchmap="aus" code="au" selected="">Australia</option>
-                            <option value="ljhooker.co.nz" searchmap="nz" code="nz">New Zealand</option>
-                            <option value="ljhooker.vu" searchmap="vu" code="vu">Vanuatu</option>
-                          </select>
-          </p>
-          <p>
-            </p><ul>
-              <li class="cell">
-                <input type="radio" name="a3" id="slider_buy_flag" value="buy" checked="">
-                <label for="slider_buy_flag">Buy</label></li>
-              <li class="cell" style="text-align: right;">
-                <input type="radio" name="a3" id="slider_rent_flag" value="rent">
-                <label for="slider_rent_flag" id="slider_rent_label" style="display: inline;">Rent</label>
-                <label for="slider_rent_flag" id="slider_lease_label" style="display: none;">Lease</label>
-              </li>
-              <li class="row" id="slider_tenure_both" style="display:none;">
-                <input type="radio" name="a3" id="slider_both_flag" value="both">
-                <label for="slider_both_flag">Buy/Lease</label></li>
-              
-            </ul>
-          <p></p>
-          <p>
-            <strong>Suburb, postcode, Prop. ID</strong>
-          </p>
-          <p>
-            <input type="text" name="a4" id="misc_input" value="L.J. Hooker Bicheno">
-            <input type="hidden" name="a5" id="misc_default" value="0">
-          </p>
-          <p id="surrounding_suburbs_container">
-            <input type="checkbox" name="a6" id="surrounding_suburbs" value="1"> surrounding suburbs
-          </p>
-          <!-- RESIDENTIAL -->
-          <div id="propertydetails_residential_container" class="propertydetails_container">
-            <div class="row" align="center">
-              <select name="b1" class="full" id="residential_search_types">
-                                <option value="all" selected="">Residential Type</option>
-                <option value="all">All</option>
-                                <option value="house">House</option>
-                                <option value="unit_apartment">Unit/Apartment</option>
-                                <option value="townhouse">Townhouse</option>
-                                <option value="semi_villa">Semi/Villa</option>
-                                <option value="penthouse">Penthouse</option>
-                                <option value="studio">Studio</option>
-                                <option value="terrace">Terrace</option>
-                              </select>
-            </div>
-            <div id="residential_buy_pricerange" style="display:block">
-              <div class="left">
-                <select name="a7" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="50000">50,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="150000">150,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="250000">250,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="450000">450,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                                  </select>
+    <div class="header-right">
+      <a href="/ask-lj-hooker"><img src="/images/ljhooker/transparent-pixel.gif" alt="ask ljhooker" border="0"></a>
+    </div>
+  </div>
+  <div class="site-menu">
+      <a href="/home" class="site-menu-item" id="parent-nav-1">Home</a>
+          <a href="/sell" class="site-menu-item" id="parent-nav-135">Selling</a>
+          <div class="site-menu-dropdown" style="display:none" id="sub-nav-135">
+                  <a href="/sell/why-choose-lj-hooker">Why choose LJ Hooker?</a>
+                  <a href="/sell/the-value-of-your-property">The value of your property</a>
+                  <a href="/sell/choosing-a-method-of-sale">Choosing a method of sale</a>
+                  <a href="/sell/qantas-frequent-s">Qantas Frequent Flyer</a>
+                  <a href="/sell/specialist-areas">Specialist areas</a>
+                  <a href="/sell/other-services-selling">Other services</a>
+                  <a href="/sell/questions-about-selling">Questions about selling?</a>
               </div>
-              <div class="right">
-                <select name="a8" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="50000">50,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="150000">150,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="250000">250,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="450000">450,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                  <option value="5000000">5,000,000</option>
-                                  </select>
+          <a href="/buy" class="site-menu-item" id="parent-nav-136">Buying</a>
+          <div class="site-menu-dropdown" style="display:none" id="sub-nav-136">
+                  <a href="/buy/how-can-lj-hooker-help">How can LJ Hooker help?</a>
+                  <a href="/buy/making-searching-easy">Making searching easy</a>
+                  <a href="/buy/specialist-areas">Specialist areas</a>
+                  <a href="/buy/other-services-buying">Other services</a>
+                  <a href="/buy/questions-about-buying2222">Questions about buying?</a>
               </div>
-            </div>
-            <div id="residential_rent_pricerange" style="display:none">
-              <div class="left">
-                <select name="a9" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="1">1</option>
-                  <option value="50">50</option>
-                  <option value="100">100</option>
-                  <option value="150">150</option>
-                  <option value="200">200</option>
-                  <option value="250">250</option>
-                  <option value="300">300</option>
-                  <option value="350">350</option>
-                  <option value="400">400</option>
-                  <option value="500">500</option>
-                  <option value="600">600</option>
-                  <option value="700">700</option>
-                  <option value="800">800</option>
-                  <option value="900">900</option>
-                  <option value="1000">1,000</option>
-                                  </select>
+          <a href="/finance" target="_blank" class="site-menu-item" id="parent-nav-76">Finance</a>
+          <a href="/manage" class="site-menu-item" id="parent-nav-138">Managing</a>
+          <div class="site-menu-dropdown" style="display:none" id="sub-nav-138">
+                  <a href="/manage/what-makes-us-different">What makes us different?</a>
+                  <a href="/manage/going-beyond-your-expectations">Going beyond your expectations</a>
+                  <a href="/manage/qantas-frequent-flyer-m">Qantas Frequent Flyer</a>
+                  <a href="/manage/specialist-areas">Specialist areas</a>
+                  <a href="/manage/other-services-managing">Other services</a>
+                  <a href="/manage/questions-about-managing">Questions about managing?</a>
               </div>
-              <div class="right">
-                <select name="b0" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="50">50</option>
-                  <option value="100">100</option>
-                  <option value="150">150</option>
-                  <option value="200">200</option>
-                  <option value="250">250</option>
-                  <option value="300">300</option>
-                  <option value="350">350</option>
-                  <option value="400">400</option>
-                  <option value="500">500</option>
-                  <option value="600">600</option>
-                  <option value="700">700</option>
-                  <option value="800">800</option>
-                  <option value="900">900</option>
-                  <option value="1000">1,000</option>
-                                  </select>
+          <a href="/rent" class="site-menu-item" id="parent-nav-137">Renting</a>
+          <div class="site-menu-dropdown" style="display:none" id="sub-nav-137">
+                  <a href="/rent/renting-with-lj-hooker">Renting with LJ Hooker</a>
+                  <a href="/rent/paying-your-rent">Paying Your Rent</a>
+                  <a href="/rent/making-searching-easy">Making searching easy</a>
+                  <a href="/rent/other-services-renting">Other services</a>
+                  <a href="/rent/questions-about-renting">Questions about renting?</a>
               </div>
-            </div>
-            <div class="left" id="propertydetails_bedrooms">
-              <select name="b3" class="half">
-                <option value="" selected="">Bedrooms</option>
-                <option value="">Any</option>
-                <option value="1">1+</option>
-                <option value="2">2+</option>
-                <option value="3">3+</option>
-                <option value="4">4+</option>                  
-              </select>
-            </div>
-            <div class="right" id="propertydetails_bathrooms">
-              <select name="b4" class="half">
-                <option value="" selected="">Bathrooms</option>
-                <option value="">Any</option>
-                <option value="1">1+</option>
-                <option value="2">2+</option>
-                <option value="3">3+</option>
-                <option value="4">4+</option>                  
-              </select>
-            </div>
-            <div class="row" align="center" id="residential_lease_types" style="display:none">
-              <select name="b2">
-                <option value="both" selected="">Lease Type</option>
-                <option value="both">Both</option>
-                <option value="normal">Normal</option>
-                <option value="holiday">Holiday</option>
-              </select>
-            </div>
-            <div class="row" align="center">
-              <select name="b5" class="half">
-                <option value="" selected="">Parking</option>
-                <option value="">Any</option>
-                <option value="1">1+</option>
-                <option value="2">2+</option>
-                <option value="3">3+</option>
-                <option value="4">4+</option>                  
-              </select>
-            </div>
-          </div>
-          <!-- COMMERCIAL -->
-          <div id="propertydetails_commercial_container" class="propertydetails_container" style="display:none">
-            <div class="row" align="center">
-              <select name="c0" class="full">
-                                <option value="all" selected="">Commercial Type</option>
-                <option value="all">All</option>
-                                <option value="office">Office</option>
-                                <option value="retail">Retail</option>
-                                <option value="hotel">Hotel &amp; Tourisim</option>
-                                <option value="business">Businesses for Sale</option>
-                                <option value="vacantland">Vacant Land</option>
-                              </select>
-            </div>
-            <div id="commercial_buy_pricerange" style="display:block">
-              <div class="left">
-                <select name="b6" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="600000">600,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="5000000">5,000,000</option>
-                  <option value="10000000">10,000,000</option>
-                                  </select>
+          <a href="/real-estate-agents" class="site-menu-item" id="parent-nav-20">Our Agents</a>
+          <a href="/askljhooker" class="site-menu-item" id="parent-nav-187">Ask LJ Hooker</a>
+          <div class="site-menu-dropdown" style="display:none" id="sub-nav-187">
+                  <a href="/askljhooker/questions-about-buying2222">Questions about buying?</a>
+                  <a href="/askljhooker/questions-about-selling">Questions about selling?</a>
+                  <a href="/askljhooker/questions-about-renting">Questions about renting?</a>
+                  <a href="/askljhooker/questions-about-managing">Questions about managing?</a>
+                  <a href="/askljhooker/ask-about-finance">Questions about finance?</a>
               </div>
-              <div class="right">
-                <select name="b7" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="600000">600,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="5000000">5,000,000</option>
-                  <option value="10000000">10,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div id="commercial_rent_pricerange" style="display:none">
-              <div class="left">
-                <select name="b8" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="25000">25,000</option>
-                  <option value="75000">75,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="1000000">1,000,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="b9" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="25000">25,000</option>
-                  <option value="75000">75,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="1000000">1,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div class="left">
-              <input type="text" name="c2" id="propertydetails_commercial_min_area" class="half" value="Min area m2">
-            </div>
-            <div class="right">
-              <input type="text" name="c3" id="propertydetails_commercial_max_area" class="half" value="Max area m2">
-            </div>
-            <div class="row" align="center">
-                            <select name="c1" class="half">
-                <option value="any">Status</option>
-                <option value="any">Any</option>
-                <option value="tenanted">Tenanted</option>
-                <option value="vacant">Vacant</option>
-              </select>
-            </div>
-          </div>
-          <!-- INDUSTRIAL -->
-          <div id="propertydetails_industrial_container" class="propertydetails_container" style="display:none">
-            <div id="industrial_buy_pricerange" style="display:block">
-              <div class="left">
-                <select name="c4" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="600000">600,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="5000000">5,000,000</option>
-                  <option value="10000000">10,000,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="c5" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="600000">600,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="5000000">5,000,000</option>
-                  <option value="10000000">10,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div id="industrial_rent_pricerange" style="display:none">
-              <div class="row">Price Range</div>
-              <div class="left">
-                <select name="c6" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="25000">25,000</option>
-                  <option value="75000">75,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="1000000">1,000,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="c7" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="25000">25,000</option>
-                  <option value="75000">75,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="1000000">1,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div class="row" align="center">
-              <input type="text" name="d0" id="propertydetails_industrial_min_area" class="full" value="Min site area m2">
-            </div>
-            <div class="row" align="center">
-              <input type="text" name="d1" id="propertydetails_industrial_max_area" class="full" value="Max site area m2">
-            </div>
-            <div class="row" align="center">
-                            <select name="c9" class="half">
-                <option value="any">Status</option>
-                <option value="any">Any</option>
-                <option value="tenanted">Tenanted</option>
-                <option value="vacant">Vacant</option>
-              </select>
-            </div>
-          </div>
-          <!-- RURAL -->
-          <div id="propertydetails_rural_container" class="propertydetails_container" style="display:none">
-            <div id="rural_buy_pricerange" style="display:block">
-              <div class="left">
-                <select name="d2" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="d3" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                  <option value="5000000">5,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div id="rural_rent_pricerange" style="display:none">
-              <div class="left">
-                <select name="d4" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="1000">1,000</option>
-                  <option value="5000">5,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="d5" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="1000">1,000</option>
-                  <option value="5000">5,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div class="row" id="propertydetails_rural_area" align="center">
-              <select name="d6" class="full">
-                                <option value="" selected="">Min area (Hectares)</option>
-                <option value="100">100</option>
-                <option value="200">200</option>
-                <option value="300">300</option>
-                <option value="500">500</option>
-                <option value="600">600</option>
-                <option value="700">700</option>
-                <option value="800">800</option>
-                <option value="1000">1000</option>
-                <option value="1500">1500</option>
-                <option value="2000">2000</option>
-                <option value="2500">2500</option>
-                <option value="3000">3000</option>
-                              </select>
-            </div>
-          </div>
-          <div id="propertyfeatures_rural" class="row" align="center" style="display:none">
-                        <table width="95%" cellspacing="2" cellpadding="0" border="0">
-              <tbody><tr valign="middle">
-                <td width="80%" align="left">Livestock For Sale</td>
-                <td width="20%" align="right"><input type="checkbox" name="g0" value="1"></td>
-              </tr>
-              <tr valign="middle">
-                <td width="80%" align="left">Equipment For Sale</td>
-                <td width="20%" align="right"><input type="checkbox" name="g1" value="1"></td>
-              </tr>
-            </tbody></table>
-          </div>
-          <!-- VACANT LAND -->
-          <div id="propertydetails_vacantland_container" class="propertydetails_container" style="display:none">
-            <div class="row" align="center">
-              <select name="e1" class="full">
-                                <option value="all" selected="">Vacant Land Type</option>
-                <option value="all">All</option>
-                                <option value="residential">Residential</option>
-                                <option value="commercial">Commercial</option>
-                                <option value="industrial">Industrial</option>
-                                <option value="rural">Rural</option>
-                                <option value="lifestyle">Lifestyle</option>
-                                <option value="other">Other</option>
-                              </select>
-            </div>
-            <div id="vacantland_buy_pricerange" style="display:block">
-              <div class="left">
-                <select name="d7" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="d8" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="100000">100,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                  <option value="5000000">5,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div id="vacantland_rent_pricerange" style="display:none">
-              <div class="left">
-                <select name="d9" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="1000">1,000</option>
-                  <option value="5000">5,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="e0" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="1000">1,000</option>
-                  <option value="5000">5,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div class="left">
-              <input type="text" name="e2" id="propertydetails_vacantland_min_area" class="half" value="Min area m2">
-            </div>
-            <div class="right">
-              <input type="text" name="e3" id="propertydetails_vacantland_max_area" class="half" value="Max area m2">
-            </div>
-            <div id="propertyfeatures_vacantland" class="row" style="display:none">
-                            <table width="95%" cellspacing="3" cellpadding="0" border="0">
-                <tbody><tr valign="top">
-                  <td width="80%" align="left">Water</td>
-                  <td width="20%" align="right"><input type="checkbox" name="g2" value="1"></td>
-                </tr>
-                <tr valign="top">
-                  <td width="80%" align="left">Power</td>
-                  <td width="20%" align="right"><input type="checkbox" name="g3" value="1"></td>
-                </tr>
-              </tbody></table>
-            </div>
-          </div>
-          <!-- SMALL ACREAGE -->
-          <div id="propertydetails_smallacreage_container" class="propertydetails_container" style="display:none">
-            <div class="row" align="center">
-              <select name="e8" class="full">
-                                <option value="all" selected="">Small Acreage Type</option>
-                <option value="all">All</option>
-                                <option value="residential">Residential</option>
-                                <option value="rural">Rural</option>
-                                <option value="vacantland">Vacant Land</option>
-                              </select>
-            </div>
-            <div id="smallacreage_buy_pricerange" style="display:block">
-              <div class="left">
-                <select name="e4" class="half">
-                                    <option value="" selected="">Price From</option>
-                  <option value="50000">50,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="150000">150,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="250000">250,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="450000">450,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="e5" class="half">
-                                    <option value="" selected="">Price To</option>
-                  <option value="50000">50,000</option>
-                  <option value="100000">100,000</option>
-                  <option value="150000">150,000</option>
-                  <option value="200000">200,000</option>
-                  <option value="250000">250,000</option>
-                  <option value="300000">300,000</option>
-                  <option value="350000">350,000</option>
-                  <option value="400000">400,000</option>
-                  <option value="450000">450,000</option>
-                  <option value="500000">500,000</option>
-                  <option value="600000">600,000</option>
-                  <option value="700000">700,000</option>
-                  <option value="800000">800,000</option>
-                  <option value="1000000">1,000,000</option>
-                  <option value="1500000">1,500,000</option>
-                  <option value="2000000">2,000,000</option>
-                  <option value="2500000">2,500,000</option>
-                  <option value="3000000">3,000,000</option>
-                  <option value="3500000">3,500,000</option>
-                  <option value="4000000">4,000,000</option>
-                  <option value="4500000">4,500,000</option>
-                  <option value="5000000">5,000,000</option>
-                                  </select>
-              </div>
-            </div>
-            <div id="smallacreage_rent_pricerange" style="display:none">
-              <div class="left">
-                <select name="e6" class="half">
-                                    <option value="" selected="">Price From</option>
-                                  </select>
-              </div>
-              <div class="right">
-                <select name="e7" class="half">
-                                    <option value="" selected="">Price To</option>
-                                  </select>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div id="quicksearch_button" class="slider_button"></div>
-        <div id="quickadvanced_button" class="slider_button"></div>
-        <div id="reset_button" class="slider_button"></div>        
       </div>
-            <div id="mapsearch" class="slider_search">
-        <img src="/images/slider/mapsearch.gif" width="162px" alt="Map Search">
-        <div id="mapsearch_content" class="search_white">
-          <div id="search_map" style="background-image: url(&quot;/images/maps/small/au_map.gif&quot;); background-position: 0px 0px;">
-            
-            <map name="mapsearch_imagemap" id="mapsearch_imagemap">
-            </map>
-          <img id="mapspacer2" src="https://web.archive.org/images/spacer.gif" width="162" height="147" border="0" usemap="#mapsearch_imagemapsmall_2"><map name="mapsearch_imagemapsmall_2" id="mapsearch_imagemapsmall_2"><area id="tas" shape="poly" coords="113,119, 107,124, 107,132, 119,138, 129,130, 128,119" href="javascript:void(0)"><area id="wa" shape="poly" coords="67,27, 58,21, 51,21, 9,57, 9,109, 67,103" href="javascript:void(0)"><area id="vic" shape="poly" coords="105,99, 105,117, 120,118, 131,116, 131,112, 127,107, 127,105, 116,105, 116,104, 109,99" href="javascript:void(0)"><area id="act" shape="poly" coords="129,99, 129,99, 152,98, 152,106, 129,106, 129,99" href="javascript:void(0)"><area id="nsw" shape="poly" coords="105,81, 105,98, 110,98, 110,98, 110,98, 115,103, 115,103, 115,103, 117,103, 117,104, 127,104, 127,105, 128,105, 128,108, 129,108, 131,112, 133,112, 133,107, 129,106, 129,99, 140,97, 150,81" href="javascript:void(0)"><area id="qld" shape="poly" coords="97,68, 97,30, 115,9, 150,64, 150,80, 105,80, 105,68" href="javascript:void(0)"><area id="nt" shape="poly" coords="68,68, 68,11, 96,11, 96,68" href="javascript:void(0)"><area id="sa" shape="poly" coords="68,89, 68,69, 104,69, 104,114, 97,114" href="javascript:void(0)"></map></div>
-          <div id="mapzoom_button" class="slider_button" style="visibility: hidden;"></div>
-          <div id="mapsearch_button" class="slider_button"></div>
-        </div>
-        <div id="mapsearch_text_content" style="display:none" class="search_white">
-          <div id="search_map_text">
-            <div id="search_map_help" style="display:none">Ctrl+click to select multiple areas</div>
-            <select name="mapsuburbs[]" id="mapsearch_text" multiple="">
-            <option value="nsw">New South Wales</option><option value="act">ACT</option><option value="qld">Queensland</option><option value="sa">South Australia</option><option value="vic">Victoria</option><option value="tas">Tasmania</option><option value="wa">Western Australia</option><option value="nt">The Northern Territory</option></select>
-            <div id="search_map_allsuburbs" style="display:none">
-              <input type="checkbox" name="g7" id="map_all_suburbs" value="1"> All Suburbs in Region
-            </div>
-            <input type="hidden" name="g8" id="map_selected_area" value="">
-            <input type="hidden" name="g9" id="map_last_mapid" value="aus">
-          </div>
-          <div id="mapzoom_text_button" class="slider_button" style="visibility: hidden;"></div>
-          <div id="mapsearch_text_button" class="slider_button" style="display: block;"></div>
-        </div>
-        <div class="search_white"><div id="search_button" class="slider_button"></div></div>
+<div class="site-content">
+  <div class="content">
+  <div class="content-left">
+    <div class="content-menu">
+      <div class="menu-active">
+        <div class="menu top">
+                                                                                                                  </div>
       </div>
-            <div id="sliderfooter" class="slider_search"></div>
-      <div id="slider_internal_spacer" style="display: none;"></div>
-      <input type="submit" style="display:none;">
-    </form>
+      <div class="menu-other">
+        <div class="menu">
+                                  <a href="/home" class="top-level bracketed">Home</a>
+                                  <a href="/sell" class="top-level bracketed">Selling</a>
+                                  <a href="/buy" class="top-level bracketed">Buying</a>
+                                  <a href="/finance" target="_blank" class="top-level bracketed">Finance</a>
+                                  <a href="/manage" class="top-level bracketed">Managing</a>
+                                  <a href="/rent" class="top-level bracketed">Renting</a>
+                                  <a href="/real-estate-agents" class="top-level bracketed">Our Agents</a>
+                                  <a href="/askljhooker" class="top-level bracketed">Ask LJ Hooker</a>
+                  </div>
+      </div>
+    </div>
+       
+    <div class="content-share">
+      <script type="text/javascript">
+        var addthis_pub="4a0a24e828ce1cae";
+        var addthis_options = 'favourites, facebook, google, myspace, twitter, linkedin';
+      </script>
+      <a class="sharing floater" href="javascript:void(0);" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()"><img src="/images/sharing.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
+      <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>    
+    </div>
   </div>
-  <div id="slider_tabs">
-    <ul>
-      <li id="residential_tab" class="slidertab_activein"></li>
-      <li id="commercial_tab" class="slidertab_inactive"></li>
-      <li id="industrial_tab" class="slidertab_inactive"></li>
-      <li id="rural_tab" class="slidertab_inactive"></li>
-      <li id="vacantland_tab" class="slidertab_inactive"></li>
-            <li id="smallacreage_tab" class="slidertab_inactive"></li>
-          </ul>
+  <div class="content-right">
+    <div class="trail">
+                      <a href="/privacy-policy">Privacy Policy</a>
+          </div>
+    <div class="content-main">
+      <div class="basic-content">
+  <h1>Privacy Policy</h1>
+   <p><strong>LJ Hooker PRIVACY POLICY</strong></p>
+<p>LJ Hooker acknowledges and  respects the privacy of individuals.&nbsp; This policy sets out the way in  which we will use, manage and protect your personal information in  accordance with the Privacy Act 1988 (Cth). <br>&nbsp;<br>Unless stated by  you to the contrary, you acknowledge and consent to the use or  disclosure of your personal information including your name, address,  email address and other information you provide to us, in circumstances  that are:<br>•&nbsp;&nbsp;&nbsp; Set out in the Privacy Policy; or<br>•&nbsp;&nbsp;&nbsp; Permitted  under the Privacy Act 1988 (Cth).<br>&nbsp;<br><strong>COLLECTION OF INFORMATION</strong><br>&nbsp;<br>We  may collect personal information from you including your name, address,  telephone number and email address, when you knowingly provide us with  information such as when you visit our Website and register your needs,  attend at or enquire about properties we have for sale or for lease,  enter into a competition or promotion, transact through our franchisees,  participate in a survey including ‘after sales service’ follow-up, or  apply to become a franchise operator. <br>&nbsp;<strong><br>USE OF YOUR  INFORMATION</strong><br>&nbsp;<br>Personal information that you submit to us may  be used by us for reasonable business purposes, in that we may store  (database) and process that information to better understand your needs  and how we can improve our services.&nbsp; Your personal information may also  be used for the following purposes: <br>•&nbsp;&nbsp;&nbsp; * LJ Hooker Personnel to  make contact for the purpose of providing services<br>•&nbsp;&nbsp;&nbsp; &nbsp;Franchisee  purposes including assessment of franchise applications and management  of the franchise <br>•&nbsp;&nbsp;&nbsp; &nbsp;Trade promotion purposes <br>•&nbsp;&nbsp;&nbsp; &nbsp;Purposes  related to promotion, marketing and operations <br>•&nbsp;&nbsp;&nbsp; &nbsp;Statistical  purposes<br>&nbsp;<br>For any of the above purposes we may contact you by  electronic or other means.<br><br>* LJ Hooker Personnel means those  persons employeed or engaged by LJ Hooker or its Franchisees or  Licencees to provide the required services.<br>&nbsp;<strong><br>DISCLOSURE TO  THIRD PARTIES</strong><br>&nbsp;<br>Personal information that you submit to us  will only be disclosed to a third party, if we are required or  authorised by law to disclose the information. Otherwise we will not  disclose your personal information to any third parties. <br>&nbsp;<br><br><strong>ACCESS,  ACCURACY AND SECURITY</strong><br>&nbsp;<br>We will take reasonable steps to  ensure that the personal information we collect is accurate, complete  and up-to-date.<br>&nbsp;<br>You can access and request correction of any  personal information concerning you at any time. You may also request  that we delete your personal information at any time. Any such requests  should be made directly by contacting us at the details set out below. <br>&nbsp;<br>We  will take reasonable steps to protect personal information from misuse,  loss and unauthorised access, modification or disclosure.<br>&nbsp;<br><strong><br>OVERSEAS  DISCLOSURE</strong><br>&nbsp;<br>LJ Hooker conducts its business overseas and has  overseas offices.&nbsp; In making disclosure of personal information to  third parties outside Australia, LJ Hooker will at all times comply with  the Privacy Act 1988 and the National Privacy Principles and LJ Hooker  will ensure that: <br>•&nbsp;&nbsp;&nbsp; the third party is subject to a scheme, law  or contract that upholds principles of fair dealing of the information;  or <br>•&nbsp;&nbsp;&nbsp; you consent to the disclosure of your personal information  or disclosure is requried by a contract in which you are involved; or <br>•&nbsp;&nbsp;&nbsp;  the disclosure is for your benefit and we believe that you would have  consented to the disclosure, but it is impractical to get your  permission; or <br>•&nbsp;&nbsp;&nbsp; the information that is being disclosed will be  held and used in accordance with the National Privacy Principles.<br><strong>&nbsp;<br>SENSITIVE  INFORMATION</strong><br>&nbsp;<br>We will not collect use or disclose sensitive  information (such as information about racial or ethnic origins or  political or religious beliefs) except with your specific consent or in  the circumstances permitted in the Privacy Act 1988 (Cth). <br>&nbsp;<br><strong><br>PRIVACY  AND OUR WEBSITE</strong><br>&nbsp;<br>Clickstream Data<br>&nbsp;<br>Each time you  visit the Website our server collects some anonymous information, known  as click-stream data, including the type of browser and system you are  using; the address of the Website you have come from and move to after  your visit; the date and time of your visit; and your server's IP  address. <br>&nbsp;<br>We may collect this information for statistical  purposes to find out how the Website is used and navigated, including  the number of hits, the frequency and duration of visits, most popular  session times. We may use this information to evaluate and improve the  Website’s performance.<br>&nbsp;<br>Cookies <br>&nbsp;<br>A Cookie is a piece of  information that our web server may send to your machine when you visit  the Website. The Cookie is stored on your machine, but does not identify  you or give us any information about your computer.<br>&nbsp;<br>A Cookie  helps us to recognise you when you re-visit the Website and to  co-ordinate your access to different pages on the Website. With most  Internet Browsers, you can erase Cookies from your computer hard drive,  block all Cookies, or receive a warning before a Cookie is stored. If  you want to do this, refer to your Browser instructions or help screen  to learn more.<br><br><strong>MORE ON PRIVACY<br>&nbsp;</strong><br>You can obtain  further information about privacy in Australia and the protection of  your personal information on the Australian federal Privacy  Commissioner’s website www.privacy.gov.au<br>&nbsp;<br><br><strong>CONTACT US </strong><br>&nbsp;<br>Privacy  Offier<br>&nbsp;<br>L.J. Hooker has appointed a privacy officer to be the  first point of contact for all privacy related matters and to assist in  ensuring LJ Hooker’s compliance with privacy obligations.<br>&nbsp;<br>Please  contact us if you wish to discuss any privacy issues, or if you do not  wish to receive any future communications from us at the details below:<br><br>ADDRESS:&nbsp;&nbsp;&nbsp;  <br>Robert Fitt<br>Hooker Corporation Limited <br>International  Operations, 191 Botany Road, Alexandria NSW 2015.<br>&nbsp;<br>TEL:&nbsp; +61 2  8303 7000<br>FAX:+61 2 9319 5079<br>EMAIL: customerservice@ljh.com.au</p> </div>    </div>
   </div>
-</div><div id="content_container">
-    <div id="content_navigation">
-    <div class="content_nav_menu" id="content_level2_nav">Privacy Policy</div>      </div>
-    <div id="content_main_separator">
-      <div class="content_area_container">
-    <h1>Privacy Policy</h1>
-    <div class="main_text_container">
-            <p><b>L.J. HOOKER PRIVACY POLICY</b></p> <div>L.J. Hooker acknowledges and respects the privacy of individuals. &nbsp;This  policy sets out the way in which we will use, manage and protect your personal  information in accordance with the Privacy Act 1988 (Cth). </div> <div>&nbsp;</div> <div>Unless stated by you to the contrary, you acknowledge and consent to the  use or disclosure of your personal information including your name, address,  email address and other information you provide to us, in circumstances that  are:</div> <ul type="disc"><li>Set out in the Privacy Policy;  </li><li>Clearly explained to you at the time when the information is collected from  you; or&nbsp;  </li><li>Permitted under the Privacy Act 1988 (Cth).</li></ul> <div>&nbsp;</div> <div>COLLECTION OF INFORMATION</div> <div>&nbsp;</div> <div>We may collect personal information from you including your name, address, telephone number and email address, when you knowingly provide us with information such as when you visit our Website and register your needs, enter into a competition or promotion, transact through our franchisees, participate in a survey including ‘after sales service’ follow-up, or apply to become a franchise operator.&nbsp;<br> </div> <div>&nbsp;</div> <div>USE OF YOUR INFORMATION</div> <div>&nbsp;</div> <div>Personal information that you submit to us may be used by us for reasonable  business purposes, in that we may store (database) and process that information  to better understand your needs and how we can improve our services.&nbsp; Your  personal information may also be used for the following purposes:&nbsp;</div> <ul type="disc"><li>Franchisee purposes including assessment of franchise applications and  management of the franchise  </li><li>Trade promotion purposes  </li><li>Purposes related to promotion, marketing and operations  </li><li>Statistical purposes</li></ul> <div>&nbsp;</div> <div>For any of the above purposes we may contact you by electronic or other  means.</div> <div>&nbsp;</div> <div>DISCLOSURE TO THIRD PARTIES</div> <div>&nbsp;</div> <div>Personal information that you submit to us will only be disclosed to a  third party, if we are required or authorised by law to disclose the  information. Otherwise we will not disclose your personal information to any  third parties. </div> <div>&nbsp;</div> <div>ACCESS, ACCURACY AND SECURITY</div> <div>&nbsp;</div> <div>We will take reasonable steps to ensure that the personal information we  collect is accurate, complete and up-to-date.</div> <div>&nbsp;</div> <div>You can access and request correction of any personal information  concerning you at any time. You may also request that we delete your personal  information at any time. Any such requests should be made directly by contacting  us at the details set out below. </div> <div>&nbsp;</div> <div>We will take reasonable steps to protect personal information from misuse,  loss and unauthorised access, modification or disclosure.</div> <div>&nbsp;</div> <div>OVERSEAS DISCLOSURE</div> <div>&nbsp;</div> <div>L.J. Hooker conducts its business overseas and has overseas offices.&nbsp; In  making disclosure of personal information to third parties outside Australia,  L.J. Hooker will at all times comply with the Privacy Act 1988 and the National  Privacy Principles and L.J. Hooker will ensure that:&nbsp;</div> <ul type="disc"><li>the third party is subject to a scheme, law or contract that upholds  principles of fair dealing of the information; or </li><li>you consent to the disclosure of your personal information or disclosure is  requried by a contract in which you are involved; or </li><li>the disclosure is for your benefit and we believe that you would have  consented to the disclosure, but it is impractical to get your permission; or </li><li>the information that is being disclosed will be held and used in accordance  with the National Privacy Principles.</li></ul> <div>&nbsp;</div> <div>SENSITIVE INFORMATION</div> <div>&nbsp;</div> <div>We will not collect use or disclose sensitive information (such as  information about racial or ethnic origins or political or religious beliefs)  except with your specific consent or in the circumstances permitted in the  Privacy Act 1988 (Cth). </div> <div>&nbsp;</div> <div>PRIVACY AND OUR WEBSITE</div> <div>&nbsp;</div> <div>Clickstream Data</div> <div>&nbsp;</div> <div>Each time you visit the Website our server collects some anonymous  information, known as click-stream data, including the type of browser and  system you are using; the address of the website you have come from and move to  after your visit; the date and time of your visit; and your server's IP address.  </div> <div>&nbsp;</div> <div>We may collect this information for statistical purposes to find out how  the Website is used and navigated, including the number of hits, the frequency  and duration of visits and&nbsp;most popular session times. We may use this  information to evaluate and improve the Website’s performance.</div> <div>&nbsp;</div> <div>Cookies </div> <div>&nbsp;</div> <div>A Cookie is a piece of information that our web server may send to your  machine when you visit the&nbsp;Website. The Cookie is stored on your machine, but  does not identify you or give us any information about your computer.</div> <div>&nbsp;</div> <div>A Cookie helps us to recognise you when you re-visit the&nbsp;Website and to  co-ordinate your access to different pages on the Website. &nbsp;With most Internet  Browsers, you can erase Cookies from your computer hard drive, block all  Cookies, or receive a warning before a Cookie is stored. If you want to do this,  refer to your Browser instructions or help screen to learn more.</div> <div>&nbsp;</div> <div>MORE ON PRIVACY</div> <div>&nbsp;</div> <div>You can obtain further information about privacy in Australia and the  protection of your personal information on the Australian federal Privacy  Commissioner’s website <a href="http://www.privacy.gov.au/">www.privacy.gov.au</a></div> <div>&nbsp;</div> <div>CONTACT US </div> <div>&nbsp;</div> <div>Privacy Offier</div> <div>&nbsp;</div> <div>L.J. Hooker has appointed a privacy officer to be the first point of  contact for all privacy related matters and to assist in ensuring LJ Hooker’s  compliance with privacy obligations.</div> <div>&nbsp;</div> <div>Please contact us if you wish to discuss any privacy issues, or if you do  not wish to receive any future communications from us at the details  below:</div> <div>ADDRESS:&nbsp;&nbsp;&nbsp; </div> <div>Alan Lambert<br> </div> <div>L.J. Hooker Limited</div> <div>International Operations, 191 Botany Road, Alexandria NSW 2015.</div> <div>&nbsp;</div> <div>TEL:&nbsp; +61 2 8303 7000</div> <div>FAX:+61 2 9319 5079</div> <div>EMAIL:&nbsp;<a href="mailto:customerservice@ljh.com.au">customerservice@ljh.com.au</a></div>            </div>
+</div></div>  <div class="global-links">
+    <div class="col" style="width: 168px">
+      <a href="http://www.ljhooker.com/our-company" class="main">Our Company</a><br>
+      <a href="http://www.ljhooker.com/our-company" class="sub">welcome-heritage-media</a>
+    </div>
+    <div class="col" style="width: 215px">
+      <a href="http://www.ljhooker.com/the-ljhooker-team" class="main">The LJ Hooker Team</a><br>
+      <a href="http://www.ljhooker.com/the-ljhooker-team" class="sub">people-team bios-careers</a>
+    </div>
+    <div class="col" style="width: 245px">
+      <a href="http://www.ljhooker.com/join-lj-hooker-network" class="main">Join LJ Hooker Network</a><br>
+      <a href="http://www.ljhooker.com/join-lj-hooker-network" class="sub">
+        independence and support
+      </a>
+    </div>
+    <div class="col" style="width: 231px">
+      <a href="http://www.ljhooker.com/community-initiatives" class="main">Community Initiatives</a><br>
+      <a href="http://www.ljhooker.com/community-initiatives" class="sub">the LJ Hooker Foundation-<br>local community</a>
+    </div>
+    <div class="col" style="width: 108px">
+      <a href="http://www.ljhooker.com.au/contact-us" class="main">Contact Us</a><br>
+      <a href="http://www.ljhooker.com.au/contact-us" class="sub">&nbsp;</a>
+    </div>
   </div>
+  <div class="site-footer">
+    <div class="countries">
+      <a href="http://www.ljhooker.com.au" class="active">Australia</a>
+      <a href="http://www.ljhooker.co.nz">New Zealand</a>
+      <a href="http://www.ljhooker.com/china">China</a>
+      <a href="http://hongkong.ljhooker.com">Hong Kong</a>
+      <a href="http://www.ljhooker.in">India</a>
+      <a href="http://www.ljhooker.co.jp">Japan</a>
+      <a href="http://indonesia.ljhooker.com">Indonesia</a>
+      <a href="http://png.ljhooker.com" class="last">Papua New Guinea</a>
+    </div>
   </div>
 </div>
-<div id="right_column">
-  <div id="myljhooker_login">
-  <a href="/page/myljhooker/" title="This service has been rebranded - it was previously known as My PropertyWatch"><div id="myljhooker_login_title">
-    <div id="myljhooker_login_enter" class="button_up"></div>
-  </div></a>
-  <div id="myljhooker_login_text">
-    Your exclusive resource available 24 hours a day, 7 days a week.
-  </div>
-</div><div id="system_search_container">
-  <div id="system_search">
-    <img src="/images/focuscolumn/propertysearch.gif" alt="Real Estate for Sale Real Estate to Rent"><br>
-    <form name="system_search_form" id="system_search_form" action="/systemsearch.php" method="get">
-      <input type="text" name="query" id="system_search_field" value="eg. Sydney, house, 3 bedrooms"><br>
-      <img border="0" id="system_search_google" alt="Powered by Google" src="/images/search/googlesmall.gif" align="left">
-      <div id="system_search_go"></div>
-    </form>
-  </div>
-</div><div id="site_content_search_container">
-  <div id="site_content_search">
-    <form name="site_content_search_form" id="site_content_search_form" action="/contentsearch.php" method="get">
-      <img src="/images/focuscolumn/sitecontentsearch.gif" alt="Real Estate Information and Real Estate Advice"><br>
-      <input type="text" name="query" id="site_content_search_field" value="eg. Moving Tips">
-      <div id="site_content_search_go"></div>
-    </form>
-  </div>
-</div><div id="tips_and_tools_menu" class="menu_collapse_out">Tips and Tools</div>
-<div id="services_menu" class="menu_collapse_out">ServicePlus</div>
-<div id="compare_widget">
-  <img src="/images/focuscolumn/compareproperties.gif" alt="Shortlist and Compare Properties"><br>
-  <div id="compare_widget_inner">
-    <p class="blurb">Compare up to <strong>5</strong> properties side-by-side.</p>
-    <img src="/images/focuscolumn/deleteheading.gif" alt="Delete"><br>
-    <div class="compare_widget_greyline">
-      <ul>
-        <li class="address">
-                  </li>
-        <li class="delete"></li>
-      </ul>
-    </div>
-    <div class="compare_widget_whiteline">
-      <ul>
-        <li class="address">
-                  </li>
-        <li class="delete"></li>
-      </ul>
-    </div>
-    <div class="compare_widget_greyline">
-      <ul>
-        <li class="address">
-                  </li>
-        <li class="delete"></li>
-      </ul>
-    </div>
-    <div class="compare_widget_whiteline">
-      <ul>
-        <li class="address">
-                  </li>
-        <li class="delete"></li>
-      </ul>
-    </div>
-    <div class="compare_widget_greyline">
-      <ul>
-        <li class="address">
-                  </li>
-        <li class="delete"></li>
-      </ul>
-    </div>
-    <div id="compare_widget_clearall_btn" class="button_up"></div>
-    <div id="compare_widget_comparenow_btn" class="button_up"></div>
-  </div>
-</div><div id="focus_adverts">
-  <a href="http://www.ljhooker.com.au/page/finservices/" title="Offering Home Loans and Commercial Loans"><img src="/images/focuscolumn/ads/financialServices.gif" border="0"></a>
-</div><div id="focus_adverts">
-  <a href="http://www.ljhooker.com.au/page/serviceplus/ljhmove/" title="Offering a range of relocation and removalist services"><img src="/images/focuscolumn/ads/ljhmove.gif" border="0"></a>
-</div><div id="focus_adverts">
-  <a href="http://www.ljhooker.com.au/page/careers/franchiseops/" title="L.J. Hooker Franchise Opportunities"><img src="/images/focuscolumn/ads/theedge.gif" border="0"></a>
-</div><div id="focus_adverts">
-  <a href="http://www.luxuryandlifestyle.com" title="Luxury and Lifestyle Real Estate"><img src="/images/focuscolumn/ads/luxuryandlifestyle2.gif" border="0"></a>
-</div><div class="ljhmenu_list" style="width: 210px; position: absolute; clip: rect(0px, 0px, 0px, 0px); left: 59px; top: 122px;"><ul style="width: 208px;"><li class="ljhmenu_list_item_out" style="width: 194px;">About L.J. Hooker</li><li class="ljhmenu_list_item_out" style="width: 194px;">Community Involvement</li><li class="ljhmenu_list_item_out" style="width: 194px;">L.J. Hooker &amp; Cystic Fibrosis Australia</li><li class="ljhmenu_list_item_out" style="width: 194px;">Thank You Day Award</li><li class="ljhmenu_list_item_out" style="width: 194px;">Copyright</li><li class="ljhmenu_list_item_out" style="width: 194px;">Disclaimer</li><li class="ljhmenu_list_item_out" style="width: 194px;">Privacy Policy</li></ul></div><div class="ljhmenu_list" style="width: 160px; position: absolute; clip: rect(0px, 0px, 0px, 0px); left: 809px; top: 384px;"><ul style="width: 158px;"><li class="ljhmenu_list_item_out" style="width: 144px;">Moving Tips</li><li class="ljhmenu_list_item_out" style="width: 144px;">Rental Payments</li><li class="ljhmenu_list_item_out" style="width: 144px;">Buying Tips &amp; Checklists</li><li class="ljhmenu_list_item_out" style="width: 144px;">Renting Tips &amp; Checklists</li><li class="ljhmenu_list_item_out" style="width: 144px;">Selling Tips &amp; Checklists</li><li class="ljhmenu_list_item_out" style="width: 144px;">Glossary of Terms</li></ul></div><div class="ljhmenu_list" style="width: 160px; position: absolute; clip: rect(0px, 0px, 0px, 0px); left: 809px; top: 411px;"><ul style="width: 158px;"><li class="ljhmenu_list_item_out" style="width: 144px;">L.J. Hooker Financial Services</li><li class="ljhmenu_list_item_out" style="width: 144px;">Conveyancing/Settlements</li><li class="ljhmenu_list_item_out" style="width: 144px;">L.J. Hooker Move</li><li class="ljhmenu_list_item_out" style="width: 144px;">Tax Depreciation</li><li class="ljhmenu_list_item_out" style="width: 144px;">L.J. Hooker Connect</li><li class="ljhmenu_list_item_out" style="width: 144px;">Property Management</li><li class="ljhmenu_list_item_out" style="width: 144px;">Auction Services</li><li class="ljhmenu_list_item_out" style="width: 144px;">Pest &amp; Building</li><li class="ljhmenu_list_item_out" style="width: 144px;">Insurance</li><li class="ljhmenu_list_item_out" style="width: 144px;">Business Broking</li></ul></div></div>
-<div id="footer_blurb">
-  <p>L.J. Hooker is Australia's Largest Real Estate &amp; Property Specialist with agents located throughout Australia</p>
-</div>    <div style="position: absolute; width: 750px; height: 1711px; top: 90px; left: 59px; z-index: 0; background: rgb(255, 255, 255); opacity: 0.7; display: none;"></div></div>
-    <div id="footer">
-      <ul>
-        <li id="footer_left">
-          <a href="http://www.ljhooker.com">ljhooker.com</a> | 
-          <a href="/page/aboutus/copyright/">copyright</a> | 
-          <a href="/page/aboutus/disclaimer/">disclaimer</a> | 
-          <a href="/page/aboutus/privacypolicy/">privacy policy</a> |
-          <a href="/page/tipsandtools/glossary/">glossary of terms</a> |
-          <a href="/OfficeMap/">office locations</a> | 
-          <a href="/sitemap.php">site map</a> | 
-          <a href="/page/contact/">contact</a>
-        </li>
-        <li id="footer_right"><a href="http://www.ljhooker.com"><img src="/images/footerlogo.gif" alt="L.J. Hooker" border="0"></a></li>
-      </ul>
-    </div>
-        <div id="homehound">
-      <div class="left">
-        <a href="http://www.homehound.com.au" target="_blank"><img src="/images/homehound.gif" alt="homehound.com.au" border="0"></a>
-      </div>
-      <div class="right">
-        <a href="http://www.ljhooker.com.au">Real Estate Australia</a> |
-        <a href="http://www.ljhooker.com.au/page/buy/">Buy Property</a> |
-        <a href="http://www.ljhooker.com.au/page/rent/">Rent Property</a> |
-        <a href="http://www.ljhooker.com.au/page/sell/">Sell Property</a> |
-        <a href="http://www.ljhooker.com.au/page/aboutus/">About L.J. Hooker Real Estate</a>
-      </div>
-    </div>
-      </div>
+<div class="site-afterward">
+  <a href="http://www.ljhooker.com">ljhooker.com</a> •
+  <a href="/copyright">copyright</a> •
+  <a href="/disclaimer">disclaimer</a> •
+  <a href="/privacy-policy">privacy policy</a> •
+  <a href="/sitemap">site map</a>
 </div>
-<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
-<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
-<script type="text/javascript">
-var _rsCI="ljhooker";
-var _rsCG="au-content";
-var _rsDN="//secure-au.imrworldwide.com/";
-var _rsCC=0;
-</script>
-<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
-<noscript>
-<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=ljhooker&cg=0" alt=""/>
-</noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
 
-<img id="mapcontrol_small_tmpimage" style="display: none;"></body></html>
+</body></html>
