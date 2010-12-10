@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411051634id_/http%3A//www.site5.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073049id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
@@ -82,4 +82,4 @@ Note that key-loggers, viruses, or other surveillance devices can intercept logi
 
 ## 13\. Questions
 
-Any questions concerning this Privacy Policy may be directed to .
+Any questions concerning this Privacy Policy may be directed to [privacy@site5.com](mailto:privacy@site5.com "privacy").
