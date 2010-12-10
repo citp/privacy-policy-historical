@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-web-design.co.cc privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311050144id_/http%3A//free-web-design.co.cc/wp-content/themes/webpage/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-web-design.co.cc privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210225528id_/http%3A//free-web-design.co.cc/wp-content/themes/webpage/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
