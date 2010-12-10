@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217051433id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210230041id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
 
-# HHR - Buy Chevy HHR
+# - Buy
 
 **YourHotCar.com** has created this privacy statement in order to demonstrate the firm commitment to the privacy of visitors and customers. The following discloses the information gathering and dissemination practices for the website: **YourHotCar.com**
 
