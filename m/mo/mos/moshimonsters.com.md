@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219004133id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210095856id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
 
@@ -102,11 +102,11 @@ We follow generally accepted industry standards to protect the personally identi
 
 If you have any questions about security on our Web site, you can send email us at [helpme@moshimonsters.com](mailto:helpme@moshimonsters.com).
 
-### TRUSTe Compliance
+### Privo's Privacy Assurance Program
 
-Mind Candy Inc. is a licensee of the TRUSTe Privacy Program and the Children's Online Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.moshimonsters.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Mind Candy is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Mind Candy adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. 
 
-If you have questions or concerns regarding this statement, you should first contact Rebecca Newton at [helpme@moshimonsters.com](mailto:helpme@moshimonsters.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+The seal posted on this page indicates that Mind Candy has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (888) 311-9576 in the U.S., +44 20 7193 5294 outside of the U.S., or [privacy@moshimonsters.com](mailto:privacy@moshimonsters.com). If you have further concerns after you have contacted Mind Candy you can contact Privo directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 Mind Candy Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
