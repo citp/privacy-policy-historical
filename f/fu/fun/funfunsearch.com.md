@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funfunsearch.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429113201id_/http%3A//funfunsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funfunsearch.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211003905id_/http%3A//funfunsearch.com/privacy.html) for the most accurate reproduction.*
 
 # FunFunSearch.com
 
