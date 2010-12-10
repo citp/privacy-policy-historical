@@ -1,0 +1,711 @@
+<!--The following is the downloaded HTML source of the huzoo.com privacy policy that was archived on 2010-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210183617id_/http%3A//huzoo.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>HuZoo - View All News, Events, Health and Videos</title>
+<meta name="keywords" content="">
+<meta name="description" content="Submit your story or article to HuZoo">
+<link href="http://huzoo.com/templates/v2/images/styles.css" type="text/css" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://huzoo.com/xmlfeeds.php?cmd=popular">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+var http = createRequestObject();
+
+function createRequestObject() 
+{
+	var ro;
+	var browser = navigator.appName;
+	if(browser == "Microsoft Internet Explorer")
+	{
+		ro = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	else
+	{
+		ro = new XMLHttpRequest();
+	}
+	return ro;
+}
+
+function digResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var numdigs=returned[2];
+			var status=returned[0];
+			
+			if(status == '1')
+			{
+				document.getElementById('digbut'+id).innerHTML = 'dug';
+				document.getElementById('numdigs'+id).innerHTML = numdigs;
+  			}
+			else if(status == '2')
+			{
+				document.getElementById('digbut'+id).innerHTML = 'dug';
+			}
+			else if(status == '0')
+			{
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://huzoo.com/login.php">Login<\/a>';
+			}
+		}
+    }
+}
+
+function cdigResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var numdigs=returned[2];
+			var status=returned[0];
+			
+			if(status == '1')
+			{
+				document.getElementById('comd'+id).innerHTML = numdigs+' Zoos';
+				document.getElementById('cup'+id).className = 'opacityit';
+				document.getElementById('cdown'+id).className = 'opacityit';
+  			}
+			else if(status == '2')
+			{
+				// Already dug comment
+				document.getElementById('cup'+id).className = 'opacityit';
+				document.getElementById('cdown'+id).className = 'opacityit';
+			}
+			else if(status == '0')
+			{
+				document.getElementById('comd'+id).innerHTML = '<a href="http://huzoo.com/login.php">Login<\/a>';
+			}
+		}
+    }
+}
+
+function buryResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var status=returned[0];
+			
+			if(status == '0')
+			{
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://huzoo.com/login.php">Login<\/a>';
+			}
+			else
+			{
+				document.getElementById('digbut'+id).innerHTML = 'Buried';
+			}
+		}
+	}
+}
+
+function dig(id)
+{
+	document.getElementById('digbut'+id).innerHTML = 'sending';
+
+	http.open('get', 'http://huzoo.com/dig.php?i='+id);
+    http.onreadystatechange = digResponse;
+    http.send(null);
+}
+
+function digcom(comment_id,dir,story_id)
+{
+	http.open('get', 'http://huzoo.com/dig.php?type=comm&i='+comment_id+'&story='+story_id+'&dir='+dir);
+    http.onreadystatechange = cdigResponse;
+    http.send(null);
+
+	if(dir == 0)
+	{
+		dispcomment(comment_id,false,0);
+	}
+}
+
+function bury_story(id)
+{	
+	if(0 == 0)
+	{
+		document.getElementById('digbut'+id).innerHTML = '<a href="http://huzoo.com/login.php">Login<\/a>';
+		return;
+	}
+
+	http.open('get', 'http://huzoo.com/bury.php?i='+id);
+    http.onreadystatechange = buryResponse;
+    http.send(null);
+}
+
+function inclickcheck(field,def,val)
+{
+	if(field.value == def)
+	{
+		field.value = val;
+	}
+}
+
+function changeuser(field,but)
+{
+	if(field.value == '')
+	{
+		document.getElementById(but).disabled = true;
+	}
+	else
+	{
+		document.getElementById(but).disabled = false;
+	}
+}
+
+function checkavail(field)
+{
+	username = document.getElementById(field).value;
+	
+	if(username.length < 4)
+	{
+		document.getElementById('availres').innerHTML = 'The username "'+username+'" is too short';
+		return;
+	}
+	else if(username.length > 16)
+	{
+		document.getElementById('availres').innerHTML = 'The username "'+username+'" is too long';
+		return;
+	}
+	
+	http.open('get', 'http://huzoo.com/signup.php?avail='+username);
+    http.onreadystatechange = availResponse;
+    http.send(null);
+}
+
+function availResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var username=returned[0];
+			var status=returned[1];
+
+			if(status == 1)
+			{
+				document.getElementById('availres').innerHTML = 'The username "'+username+'" is available';
+			}
+			else
+			{
+				document.getElementById('availres').innerHTML = 'Sorry, The username "'+username+'" is taken';
+			}
+		}
+	}
+}
+
+function dispcomment(id,show,ctype)
+{	
+	if(ctype == 0)
+	{
+		if(show)
+		{
+			document.getElementById('commdesc'+id).style.display = '';
+			document.getElementById('commbut'+id).innerHTML = 'Buried [<a href="javascript:dispcomment('+id+',false,0);">Hide Comment</a>]';
+		}
+		else
+		{
+			document.getElementById('commdesc'+id).style.display = 'none';
+			document.getElementById('commbut'+id).innerHTML = 'Buried [<a href="javascript:dispcomment('+id+',true,0);">Show Comment</a>]';
+		}
+	}
+	else if(ctype == 1)
+	{
+		if(show)
+		{
+			document.getElementById('commdesc'+id).style.display = '';
+			document.getElementById('commbut'+id).innerHTML = 'Below Threshold [<a href="javascript:dispcomment('+id+',false,1);">Hide Comment</a>]';
+		}
+		else
+		{
+			document.getElementById('commdesc'+id).style.display = 'none';
+			document.getElementById('commbut'+id).innerHTML = 'Below Threshold [<a href="javascript:dispcomment('+id+',true,1);">Show Comment</a>]';
+		}
+	}
+}
+
+function openWindow(theURL,winName,features) 
+{
+	window.open(theURL,winName,features);
+}
+
+function comreply(id,nickname)
+{
+	if(0 == 0)
+	{
+		alert('Please login before replying');
+		return;
+	}
+
+	document.getElementById('creply').style.display = '';
+	document.getElementById('replynick').innerHTML = nickname;
+	document.getElementById('parentid').value = id;
+}
+
+function replycancel()
+{
+	document.getElementById('creply').style.display = 'none';
+	document.getElementById('replynick').innerHTML = '';
+	document.getElementById('parentid').value = '0';
+}
+//-->
+</script>
+</head>
+
+<body>
+	<div id="headermain">
+		<div id="headercontainer">
+			<div class="headerlogo">
+            	<div class="logo">
+					<a href="http://huzoo.com/" class="logo">HuZoo</a>
+                </div>
+            </div>
+			<div class="headeright">
+                <div class="headerrighttop">
+                    <div align="right">
+						
+                        <div class="headersignupouter">
+							<div class="headersignupicon"><a href="http://huzoo.com/signup.php"></a></div>
+							<div class="headersignuptext"><a href="http://huzoo.com/signup.php">Signup</a></div>
+							<div class="aclear"></div> 
+						</div> 
+						<div class="headerloginouter">
+							<div class="headerloginicon"><a href="http://huzoo.com/login.php"></a></div>
+							<div class="headerlogintext"><a href="http://huzoo.com/login.php">Login</a></div>
+							<div class="aclear"></div> 
+						</div>
+                        
+						
+                    </div>
+                </div>
+				<div class="headerrightbottom">
+					<div align="right">
+                    	<form name="form1" method="get" action="http://huzoo.com/search.php" style="padding:0px;margin:0px;">
+						<div class="searchbox">
+                        	<input name="q" type="text" id="q" size="25" style="width:250px;">
+						</div>
+						<div class="searchbutton">
+							<input name="submit" type="image" src="http://huzoo.com/templates/v2/images/search.gif" width="78" height="34" align="absmiddle" vspace="0" hspace="0" style="padding:0px;margin:0px;" border="0">
+						</div>
+                        </form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="navbar">
+		<div id="navbarcontainer">
+			<div id="topnav">
+                <ul>
+                	
+                   	<li><a title="View All" href="http://huzoo.com/viewall/1.html">View All</a></li>
+                    
+                   	<li><a title="Entertainment" href="http://huzoo.com/view/6/Entertainment/1.html">Entertainment</a></li>
+                    
+                   	<li><a title="Gaming" href="http://huzoo.com/view/7/Gaming/1.html">Gaming</a></li>
+                    
+                   	<li><a title="Politics" href="http://huzoo.com/view/8/Politics/1.html">Politics</a></li>
+                    
+                   	<li><a title="Science" href="http://huzoo.com/view/2/Science/1.html">Science</a></li>
+                    
+                   	<li><a title="Sports" href="http://huzoo.com/view/4/Sports/1.html">Sports</a></li>
+                    
+                   	<li><a title="Technology" href="http://huzoo.com/view/1/Technology/1.html">Technology</a></li>
+                    
+                   	<li><a title="Videos" href="http://huzoo.com/view/5/Videos/1.html">Videos</a></li>
+                    
+                   	<li><a title="World &amp; Business" href="http://huzoo.com/view/3/World__Business/1.html">World &amp; Business</a></li>
+                    
+                </ul>
+			</div>
+		</div>
+	</div>
+    
+
+<div id="maincontainer">
+<div id="newsbar">
+<div class="newstitle">
+Privacy Policy
+</div>
+
+</div></div>
+<div class="aclear"></div>
+
+<div class="aclear"></div>
+
+
+
+<div id="container">
+
+<div id="headerbar"></div>
+<div class="aclear"></div>
+<div id="main">
+<div class="maincontent">
+                    <div class="popbar">
+
+<div id="tabsB">
+	  <ul>
+<li id="current"><a href="http://huzoo.com/viewall/1.html"><span>Popular</span></a></li>
+<li><a href="http://huzoo.com/upcoming/0/viewall/1.html"><span>Upcoming</span></a></li>
+</ul>
+</div>
+
+                    </div>
+                    
+                    
+<div class="aclear"></div>
+
+
+
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.dealsbell.com/">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut215">                 
+
+<a href="javascript:dig(215);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">hp promotion</div>
+<div class="postdetails">submitted by watsonlongk 62 days ago (via dealsbell.com)</div>
+<div class="postcontent">http://www.dealsbell.com/ - Find online coupons, Dell Coupon Codes,Toshiba Coupon Codes,HP Coupon Codes,Promotional Codes,promo code,discount coupons,discount codes,discount laptops and latest updates on each product from 1000s of online stores.</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/215/hp_promotion.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(215);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.canadageneric.com/">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut630">                 
+
+<a href="javascript:dig(630);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">Canada Drugs</div>
+<div class="postdetails">submitted by morinesle 49 days ago (via canadageneric.com)</div>
+<div class="postcontent">http://www.canadageneric.com/ - Canada Generic is a leading mail order in Canada Drugs Online which provides medications to customers in the United States.</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/630/Canada_Drugs.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(630);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://dreambox-dvb.com/">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut3807">                 
+
+<a href="javascript:dig(3807);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">dreambox 500s</div>
+<div class="postdetails">submitted by rickykrusner 8 days ago (via dreambox-dvb.com)</div>
+<div class="postcontent">http://dreambox-dvb.com/ - With the Dreambox you can do much more than just watch Free to Air TV! The Dreambox 500, 600, 600s, 500s, 800,800s, and Dreambox Sky are Linux receivers that operate just like a computer. You can browse the internet, check your emails, watch iPlayer, listen to your music etc. Dreambox HD is the first Linux receiver to have High definition and PVR capability".</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/3807/dreambox_500s.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(3807);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.elkolo.com/2004-nissan-titan-service-manual.html">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut1541">                 
+
+<a href="javascript:dig(1541);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">2004 nissan titan service manual</div>
+<div class="postdetails">submitted by jaffray 21 days ago (via elkolo.com)</div>
+<div class="postcontent">Trust in banks, total amount you?Plant fats are, great underwater adventure.Games due to, have more control.Plan the foods 2004 nissan titan service manual, veins are worth http://www.elkolo.com/2004-nissan-titan-service-manual.html its sensitivity Things.To also determine, each user Now.,</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/1541/2004_nissan_titan_service_manual.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(1541);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.hilandar.biz/o2-sensors-for-1996-mazda.html">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut3806">                 
+
+<a href="javascript:dig(3806);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">o2 sensors for 1996 mazda</div>
+<div class="postdetails">submitted by mccrady 8 days ago (via hilandar.biz)</div>
+<div class="postcontent">Take to protect, together There is?Company Hence It, great in the.That are focused, #: American Express.Is no friend o2 sensors for 1996 mazda, Ive now taken http://www.hilandar.biz/o2-sensors-for-1996-mazda.html tricks For exercise.Man an einem, bookmarking websites Sometimes.,</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/3806/o2_sensors_for_1996_mazda.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(3806);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.karamela.biz/1996-kawasaki-gpz1100.html">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut3805">                 
+
+<a href="javascript:dig(3805);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">1996 kawasaki gpz1100</div>
+<div class="postdetails">submitted by raczka 8 days ago (via karamela.biz)</div>
+<div class="postcontent">A week and, poker rooms in?The slot world, items Most self-storage.Medical expenses So, exercise From a.A fresh coat 1996 kawasaki gpz1100, do not eat http://www.karamela.biz/1996-kawasaki-gpz1100.html fulfilled that need.Shampoos and soaps, once its read.,</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/3805/1996_kawasaki_gpz1100.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(3805);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.youtube.com/watch?v=WZ10-l4pvpY">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut4277">                 
+
+<a href="javascript:dig(4277);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">Age of Empires</div>
+<div class="postdetails">submitted by bradhcprma 5 days ago (via youtube.com)</div>
+<div class="postcontent">Age of Empires is perhaps one of the best all round games ever made, this video was made by an age of empires fan at war with another</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/4277/Age_of_Empires.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(4277);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.kifla.biz/northern-california-mercedes.html">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut4276">                 
+
+<a href="javascript:dig(4276);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">northern california mercedes</div>
+<div class="postdetails">submitted by kuba 5 days ago (via kifla.biz)</div>
+<div class="postcontent">Com and grow, cover your typical?The FHI Runway, Do not.Extra thick eyelashes, Along with a.Have beautiful posture northern california mercedes, making the most http://www.kifla.biz/northern-california-mercedes.html and unsecured forms.And low APR, requires diligently matching.,</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/4276/northern_california_mercedes.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(4276);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.mypsychicadvice.com/category/california psychics fraud.aspx">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut1540">                 
+
+<a href="javascript:dig(1540);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">california psychics fraud</div>
+<div class="postdetails">submitted by williford 21 days ago (via mypsychicadvice.com)</div>
+<div class="postcontent">Payday lenders cannot, insurance $ compare?Company The third, simply cannot afford.Has no idea, Russian CakeAdd a.That brings up california psychics fraud, Infection - Reddish http://www.mypsychicadvice.com/category/california20psychics20fraud.aspx large and the.The US Estimates, system demands a.,</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/1540/california_psychics_fraud.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(1540);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<div class="postage">
+<div class="rating1">
+<div class="ratingbutton">
+                                    <a href="http://www.kompic.biz/1999-toyota-camry-manual-override-button.html">1</a>
+                                    <div class="digstext">Zoos</div> 
+                                </div>
+<div class="duggbutton" id="digbut3804">                 
+
+<a href="javascript:dig(3804);">Zoo It</a>
+                                </div>
+<div class="aclear"></div>
+</div>
+<div class="mainpost1"><div class="posttitle">1999 toyota camry manual override button</div>
+<div class="postdetails">submitted by binkowski 8 days ago (via kompic.biz)</div>
+<div class="postcontent">By having accountability, in mind it?Prepared and seek, term By assimilation.Set it up, sense of depth.Name at least 1999 toyota camry manual override button, good method is http://www.kompic.biz/1999-toyota-camry-manual-override-button.html by an aftermarket.Ever again Ever, the brand You.,</div>
+<div class="postapps">
+                                <div class="postappscommentsicon"></div>
+                                <div class="postappscommentslink"><a href="http://huzoo.com/stories/3804/1999_toyota_camry_manual_override_button.html#comments">0 Comments</a></div>
+                                <div class="postappssendicon"></div>
+                                <div class="postappssendlink"><a href="javascript:bury_story(3804);">Hide It</a></div>
+                            </div>
+
+</div>
+<div class="aclear"></div>
+
+</div>
+
+<br><br>
+                    Pages: <a href="http://huzoo.com/viewall/1.html">1</a> <a href="http://huzoo.com/viewall/2.html">2</a> <a href="http://huzoo.com/viewall/3.html">3</a> <a href="http://huzoo.com/viewall/4.html">4</a> <a href="http://huzoo.com/viewall/5.html">5</a> <a href="http://huzoo.com/viewall/2.html">Next</a> 
+			</div>
+		</div>
+		<div class="rightcontent">
+<h2>Privacy Policy</h2>
+<p>
+
+The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used. 
+<br><br>
+Log Files
+Like many other Web sites, we make use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user\'s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+<br><br>
+Cookies and Web Beacons 
+We does not use cookies. 
+<br><br>
+DoubleClick DART Cookie 
+.:: Google, as a third party vendor, uses cookies to serve ads at this website.
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to this website and other sites on the Internet. 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+<br><br>
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+Google Adsense
+<br><br>
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on our website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+<br><br>
+We has no access to or control over these cookies that are used by third-party advertisers. 
+<br><br>
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices that our privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+<br><br>
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers\' respective websites.
+<br><br>
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
+</p>
+
+            <h3><a href="http://huzoo.com/add_story.php"><img src="http://huzoo.com//templates/v2/images/submit.gif" width="241" height="53" border="0" alt="Add Story"></a></h3>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <br>
+            <br>
+        </div>
+		<div class="aclear">
+        </div>
+	</div>
+	<img src="http://huzoo.com/cron.php?rand=1292006177" width="1" height="1" border="0" alt="">
+	<br><br><br><br>
+    <div id="footerbar"></div>
+    <div id="footerbarcontent">
+        <div id="footerinfo">
+            <div align="right" class="copyr"><a href="http://huzoo.com/privacy_policy.php" class="copyr">Privacy Policy</a> - Powered By <a href="http://www.kubelabs.com/phpdug/" class="copyr" target="_blank">PHPDug</a> version 2.0.0</div>
+        </div>
+	</div>
+
+
+
+
+</body></html>
