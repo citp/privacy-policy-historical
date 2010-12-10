@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611055905id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073913id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
 
 # Journals, Academic Books & Online Media | Springer
 
@@ -10,13 +10,13 @@ This Statement has been developed as one component of our ongoing commitment to 
 
 www.springer.com is owned and operated by Springer-Verlag New York, LLC. Any references herein to www.springer.com shall be deemed to refer to Springer-Verlag New York, LLC and/or www.springer.com, as applicable under the circumstances. By accessing any areas of www.springer.com, users ("Users") agree to be legally bound and to abide by the terms set forth below. Springer-Verlag New York, LLC reserves the right, in its sole discretion, to revise this Privacy Statement. Users' continued use of this site following posting of any changes constitutes acceptance of such changes.
 
-### IntroductionIntroduction
+### Introduction 
 
 Our Statement recognizes that our customers' Personal Data deserves protection. Personal data includes, for example, e-mail addresses, all billing information, and individual "tracking" data that captures and logs visitor activity on a Website or online service. 
 
 Our Statement provides the following: 
 
-### 1\. Notice. 1\. Notice. 
+### 1\. Notice.  
 
 To provide you with the product(s) or service(s) you have requested, we need to collect and store your name, address, and other basic Personal Data. This information also enables us to develop and customize products to better meet your needs and preferences and to offer you products from Springer-Verlag New York, LLC and its affiliates that may be of interest to you. 
 
@@ -24,11 +24,11 @@ User acknowledges that he or she may provide information regarding his or her ta
 
 Note. Occasionally, we are approached by companies, vendors, and organizations that have products or services that they believe will be of interest or use to User. It is www.springer.com's policy to respect the privacy of its Users and of personal electronic communication. Currently, www.springer.com maintains a strict policy on this. We will not share a User's e-mail address or other specific personal information (e.g. name, address) with either these companies or anyone else outside the Springer-Verlag Companies for marketing or any other purpose(s). Should Springer-Verlag ever decide to change this policy, that decision will be posted to www.springer.com, subscribers will be notified and an "opt out" clause will be added to the Statement. 
 
-### 2\. Security. 2\. Security. 
+### 2\. Security.  
 
 We will maintain appropriate safeguards to ensure the security, integrity and privacy of your Persona Data. 
 
-### 3\. Review and Correction. 3\. Review and Correction. 
+### 3\. Review and Correction.  
 
 At any time, you may contact us to review and correct the Personal Data we have collected from you. You must make such a request in a manner that can be verified. 
 
