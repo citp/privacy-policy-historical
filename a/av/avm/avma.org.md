@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628221530id_/http%3A//www.avma.org/termsofuse/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210141421id_/http%3A//www.avma.org/termsofuse/privacy/default.asp) for the most accurate reproduction.*
 
 # AVMA Online Privacy Notice
 
