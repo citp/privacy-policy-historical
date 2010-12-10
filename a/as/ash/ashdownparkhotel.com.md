@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210221920id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
 
 # Ashdown Park Hotel Privacy Page
 
@@ -41,18 +41,28 @@ Please use our Contact Us page if you have any questions or would like to contac
 
 ## Check Availability
 
-[](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)[](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
+[](https://web.archive.org/web/20101210221920id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)[](https://web.archive.org/web/20101210221920id_/http%3A//www.ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20101210221920id_/http%3A//www.ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
 
 ### Upcoming Events
 
-LIVE @ ASHDOWN PARK HOTEL
+**__**__Special Offers__**__**
 
-FEBRUARY 2010
+__**Midweek Specials**__
 
-SUN 28TH - MIKE DENVER + TERESA & THE STARS
+_2 B &B, 1 Dinner only €89pps_
 
-TRADITIONAL IRISH MUSIC EVERY WEDNESDAY NIGHT IN OUR COACH BAR
+_3B &B, 1 Dinner only €129pps_
 
-[Click here for all Upcoming Events](https://web.archive.org/web/20100312034456id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
+__**Golden Years**__
+
+_3B &B, 2 Dinners only €129pps_
+
+_Special Bed & Breakfast rates available for all Live Music nights. Click the link below for who's playing soon._
+
+_FREEPHONE NOW: 1800 501 901 or email:_[ _info@ashdownparkhotel.com_](mailto:info@ashdownparkhotel.com)
+
+All rates subject to availability
+
+[Click here for all Upcoming Events](https://web.archive.org/web/20101210221920id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
 
 Enter your name and email address to receive our Newsletter 
