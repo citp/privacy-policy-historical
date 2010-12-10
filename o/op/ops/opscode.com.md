@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opscode.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612012101id_/http%3A//www.opscode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opscode.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210171244id_/http%3A//www.opscode.com/privacy) for the most accurate reproduction.*
 
 # Opscode Privacy Policy - Opscode
 
