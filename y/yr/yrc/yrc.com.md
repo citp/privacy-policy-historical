@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612154533id_/http%3A//www.yrc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211003216id_/http%3A//www.yrc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
