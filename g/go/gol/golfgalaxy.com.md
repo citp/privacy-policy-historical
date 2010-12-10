@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624093919id_/http%3A//www.golfgalaxy.com/safety_security_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210193718id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
 
-# Safety, Security and Privacy at Golf Galaxy ® - America's Pro Shop
+# Safety, Security & Privacy at Golf Galaxy - All Golf, All the Time
 
 ## Please Read This Privacy Statement Carefully
 
@@ -8,7 +8,7 @@ The only personal information we collect is the personal information you choose 
 
 This Privacy Statement applies only to the Golf Galaxy, Inc. ("Company") web site, with a homepage located at www.GolfGalaxy.com (the "Web site"). This Privacy Statement does not apply to any other web sites, and the Company makes no representations as to the privacy practices of other web sites.
 
-We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Web site By using this Web site, you agree to the terms of this Privacy Statement and the [ Terms and Conditions](http://www.golfgalaxy.com/galaxy/dept.asp?dept_id=105) documented on the Web site
+We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Web site By using this Web site, you agree to the terms of this Privacy Statement and the [ Terms and Conditions](https://web.archive.org/terms_conditions.aspx) documented on the Web site
 
 ##  Protecting Your Privacy
 
@@ -16,7 +16,7 @@ The ways we protect and use information collected over this Web site depends upo
 
 ##  Secure Shopping Environment
 
-At GolfGalaxy.com, we know your personal information is important. That’s why we always use an encryption protocol known as Secure Socket Layer (SSL). SSL is an industry standard encryption that helps to protect Internet communications and to keep your personal information private. However, as with all aspects of the Internet, there can be no absolute assurance that certain data might not become compromised. Most credit card companies provide protections against fraudulent activity. Please review the terms related to your chosen credit account provider if you have further questions on this matter. If you believe there is a security issue related to this web site, please [contact us](http://www.golfgalaxy.com/galaxy/dept.asp?dept_id=106) immediately.
+At GolfGalaxy.com, we know your personal information is important. That’s why we always use an encryption protocol known as Secure Socket Layer (SSL). SSL is an industry standard encryption that helps to protect Internet communications and to keep your personal information private. However, as with all aspects of the Internet, there can be no absolute assurance that certain data might not become compromised. Most credit card companies provide protections against fraudulent activity. Please review the terms related to your chosen credit account provider if you have further questions on this matter. If you believe there is a security issue related to this web site, please [contact us](https://web.archive.org/contact_us.aspx) immediately.
 
 ## What Is Non-Personal Information?
 
@@ -38,7 +38,7 @@ Here is a good description of cookie technology at Wikipedia: <http://en.wikiped
 
 We will use non-personal information to help us make the Web site more useful to visitors and for other business purposes. For example, we may tell business partners how many computers visited this Web site or what pages were most popular. We may prepare reports and other materials using non-personal information. Since these reports and materials contain no personal information, we may share them with others.
 
-## What Is Personal Infromation?
+## What Is Personal Information?
 
 In the process of registering for an Account, in making a purchase, joining the [Advantage Club](http://www.mygolfgalaxy.com/), or in using this Web site, some visitors may choose to provide us "personal information". Personal information includes information that tells us specifically who a person is, such as a person’s name, email address, financial information, or similar information.
 
@@ -56,7 +56,7 @@ This Web site may contain links to other web sites We provide these links for yo
 
 ## Are There Special Rules About Children’s Privacy?
 
-This Web site is designed for an adult audience only, and children should not use this Web site We will not intentionally collect online any personal information (such as a child’s name or e-mail address) from children under the age of 13. If you think that we have collected personal information from a child under the age of 13, please [contact us](http://www.golfgalaxy.com/galaxy/dept.asp?dept_id=106).
+This Web site is designed for an adult audience only, and children should not use this Web site We will not intentionally collect online any personal information (such as a child’s name or e-mail address) from children under the age of 13. If you think that we have collected personal information from a child under the age of 13, please [contact us](https://web.archive.org/contact_us.aspx).
 
 ## Mobile Alerts (Text Messages)
 
@@ -71,4 +71,4 @@ You will need to provide your mobile phone number in order to be removed from th
 
 ##  How To Contact Us?
 
-Please [contact us](http://www.golfgalaxy.com/galaxy/dept.asp?dept_id=106) if you have questions or comments about this Privacy Statement.
+Please [contact us](https://web.archive.org/contact_us.aspx) if you have questions or comments about this Privacy Statement.
