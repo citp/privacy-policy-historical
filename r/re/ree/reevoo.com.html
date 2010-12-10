@@ -1,43 +1,41 @@
-<!--The following is the downloaded HTML source of the reevoo.com privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611064940id_/http%3A//www.reevoo.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reevoo.com privacy policy that was archived on 2010-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210021327id_/http%3A//www.reevoo.com/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta charset="utf-8">
+
+    <title>Privacy Policy</title>
+    
 
     <link rel="search" type="application/opensearchdescription+xml" href="http://www.reevoo.com/search/description" title="Search product reviews">
-    <link href="/stylesheets/base_packaged.css?1276181078" media="screen" rel="stylesheet" type="text/css">
-    <link href="/stylesheets/base_print_packaged.css?1276181078" media="print" rel="stylesheet" type="text/css">
-    <!--[if lte IE 7]>
-      <link href="/stylesheets/ie.css?1276181016" media="screen" rel="stylesheet" type="text/css" />
-    <![endif]-->
+    <link href="/stylesheets/base_packaged.css?1291824606" media="screen" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/base_print_packaged.css?1291824606" media="print" rel="stylesheet" type="text/css">
 
-    <script src="/javascripts/base_packaged.js?1276181077" type="text/javascript"></script>
+    <script src="/javascripts/base_packaged.js?1291824605" type="text/javascript"></script>
 
-    <meta name="ROBOTS" content="NOODP">
+      <meta name="ROBOTS" content="NOODP">
     <meta http-equiv="imagetoolbar" content="false">
-    <meta http-equiv="last-modified" content="Fri, 11 Jun 2010 06:49:40 -0000">
 
-    <script type="text/javascript">
+    <script>
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js"></script>
     <script type="text/javascript">
 //<![CDATA[
 window.ga_tracker = _gat._getTracker("UA-30620-1");
-
+window.ga_tracker._setCustomVar(1, "best-products-module", "false", 2);
 window.ga_tracker._setCustomVar(2, "logged-in", Reevoo.UserSession.is_logged_in() ? 'true' : 'false', 2);
 //]]>
 </script>
 
+    
 
-    
-    <title>Privacy Policy</title>
-    
   </head>
 
-  <body class="sidebar-left ">
+  <body class=" ">
   <!--[if lte IE 6]><div class="ie ie6"><![endif]-->
   <!--[if IE 7]><div class="ie ie7"><![endif]-->
+  <!--[if IE 8]><div class="ie8"><![endif]-->
 
     <p class="skip-links">
       Skip to: <a href="#search">search</a>, <a href="#navigation">navigation</a>, <a href="#content">page content</a>
@@ -46,25 +44,24 @@ window.ga_tracker._setCustomVar(2, "logged-in", Reevoo.UserSession.is_logged_in(
     <div id="container">
       <div id="header">
   <strong class="brand"><a href="/">
-    <img src="/images/reevoo_branding/logo_white_203x39.gif" alt="Reevoo.com - impartial reviews">
+    <img src="/images/reevoo_branding/logo_transparent_160x35.png" alt="Reevoo.com - impartial reviews">
   </a></strong>
+  <div id="countdown">&nbsp;</div>
 
-  <form id="search" action="/search" method="get">
-    <fieldset>
-      <legend><label for="search-field">Search</label></legend>
-      <input type="text" id="search-field" name="q" value="">
-      <button type="submit" class="grey"><span>Search</span></button>
-    </fieldset>
-  </form>
+  <form class="search" action="/search" method="get">
+  <fieldset>
+    <legend><label for="search-field-1">Search</label></legend>
+    <input type="search" id="search-field-1" name="q" value="" placeholder="Search for a product">
+    <button type="submit" class="grey"><span>Search</span></button>
+  </fieldset>
+</form>
+
+
 
   <div id="navigation">
     <ul class="user">
-      <li class="login">
-        <a href="/account/new">Join</a>
-        <a href="/user_session/new" id="show-login-box">Log in</a>
-      </li>
-      <li><a href="/short_list">My shortlist</a></li>
-      <li><a href="/vouchers">Vouchers</a></li>
+      <li class="login"><a href="/user_session/new" class="button" id="show-login-box"><span>Log in</span></a></li>
+      <li class="join"><a href="/account/new">Join</a></li>
     </ul>
     <ul class="products">
       <li class="first">
@@ -90,33 +87,29 @@ window.ga_tracker._setCustomVar(2, "logged-in", Reevoo.UserSession.is_logged_in(
   </div>
 </div>
 
-<script type="text/javascript" charset="utf-8">
-// <![CDATA[
-  init_user_session_links("<a href=\"\/account\">My account<\/a>", "<a href=\"\/user_session\" onclick=\"var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);f.submit();return false;\">Log out<\/a>");
+<script>
+//<![CDATA[
+  init_user_session_links("\n    <li class='logout'><form method=\"post\" action=\"\/user_session\" class=\"button-to \"><div><input name=\"_method\" type=\"hidden\" value=\"delete\" \/><button class=\"link\" type=\"submit\"><span>Log out<\/span><\/button><\/div><\/form><\/li>\n    <li class='account'><a href=\"\/account\">My account<\/a><\/li>\n  ")
 //]]>
 </script>
 
-      <div id="flash-messages" style="display:none">&nbsp;</div>
-      
 
-      <hr>
+      <div id="content" class="">
+        <div id="flash-messages" style="display:none"></div>
+          <ul id="breadcrumbs">
+  <li class=""><a href="/">Home</a></li><li class="productName last">Privacy Policy</li>
+  </ul>
 
-      <div id="content">
-        <div class="page-header">
-          <h1>Privacy Policy</h1>
-          
-        </div>
-        <div class="main">
-          <script type="text/javascript">
+
+        <script type="text/javascript">
 //<![CDATA[
 try { window.ga_tracker._trackPageview() } catch(err) {}
 //]]>
 </script>
-          
-
-<div class="section">
-  <div class="wikiContent">
-    <p>Last updated:  26 May 2010</p>
+        <h1>Privacy Policy</h1>
+        <div class="with-left-sidebar">
+  <div class="content wikiContent">
+    <p>Last updated:  22 June 2010</p>
 <p>This policy describes the privacy practices that apply to Revieworld Ltd’s website, Reevoo.com, and explains how we may collect, use, and share information associated with the web site’s services. If you have any questions or concerns about this policy, please contact us at privacy@reevoo.com.</p>
 <p><strong>Our Guiding Principles</strong></p>
 <p>•	Your data is yours: We believe strongly that you own the data we have on file on you. We aim to provide you easy access to all the data we have on you and easy ways to modify or remove personal data.</p>
@@ -180,7 +173,7 @@ try { window.ga_tracker._trackPageview() } catch(err) {}
 <tr>
      <td>Public content</td>
      <td>All users</td>
-     <td>You can post your opinions, comments on the site. You can opt to do this anonymously (“A Reevoo shopper”) or against the nickname you specified in your account when you registered.</td>
+     <td>You can post your questions, opinions, comments on the site or on our section of our partners’ sites. You can opt to do this anonymously or against your first name.</td>
      <td>To allow you to share your opinions and help other shoppers. </td>
 </tr>
 <tr>
@@ -192,8 +185,14 @@ try { window.ga_tracker._trackPageview() } catch(err) {}
 <tr>
      <td>Personal info</td>
      <td>Reviewers</td>
-     <td>Shoppers who bought something online at any of our retail partners’ websites, receive an email from us after some time to ask them for a review. Their first name, place of residence and purchase details such as where, when at what are recorded.</td>
-     <td>To convey to shoppers that our reviews are from real shoppers who genuinely bought the product.</td>
+     <td>Shoppers who bought something online at any of our retail partners’ websites, receive an email from us after some time to ask them for a review. Their first name, place of residence and purchase details such as where, when at what are recorded. Some are asked if they are willing to answer questions via twitter or web posts.</td>
+     <td>To convey to shoppers that our reviews are from real shoppers who genuinely bought the product. </td>
+</tr>
+<tr>
+     <td>Personal info</td>
+     <td>Users of Ask an Owner</td>
+     <td>You can opt to use our Ask an Owner function, on our site or any of our partner sites. You are asked to provide their email address and first name. It is not required to do so. </td>
+     <td>To be able to notify you when there is an answer waiting for you. We will not reveal your email address to the owner, nor will we publish it on the web.</td>
 </tr>
 <tr>
      <td>Aggregated</td>
@@ -242,64 +241,53 @@ try { window.ga_tracker._trackPageview() } catch(err) {}
 <p>Revieworld Ltd</p>
 <p><strong>privacy@reevoo.com</strong></p>
   </div>
+  <div class="sidebar">
+    <p><a href="/pages/about_revieworld">About Reevoo</a></p>
+<p><a href="/pages/review_collection">Who writes Reevoo reviews?</a></p>
+<p><a href="/pages/write_a_review">How do I write a review?</a></p>
+<p><a href="/pages/directors">Reevoo Directors</a></p>
+<p><a href="/awards">Customer Choice Awards</a></p>
+<p><a href="/pages/faqs">FAQ</a></p>
+<p><a href="/pages/press">Press</a></p>
+<p><a href="/pages/contact_us">Contact us</a></p>
+
+  </div>
 </div>
 
-        </div>
-        <div class="sidebar">
-          <div class="sidebarheader">
-  <p><a href="/">Home</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/about_revieworld">About Reevoo</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/review_collection">How We Collect Reviews</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/directors">Reevoo Directors</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/about_partnering">Partnering with Reevoo</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/awards">Customer Choice Awards</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/faqs">FAQ</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/press">Press</a></p>
-</div>
-<div class="sidebarheader">
-  <p><a href="/pages/contact_us">Contact us</a></p>
-</div>
-
-
-        </div>
       </div>
 
-      <hr>
-
-      <div id="footer" class="vcard">
+      
+<div id="footer" class="vcard">
   <div class="copy">
     <p class="first">We like email. Get in touch with us at <a class="email" href="mailto:feedback@reevoo.com">feedback@reevoo.com</a></p>
+  </div>
+
+  <div class="column first-column">
+    <a href="http://www.reevoo.com"><img src="/images/reevoo_footer-logo.png" alt="Reevoo"></a>
+    <ul>
+      <li><a href="/pages/terms_of_service">Terms of Service</a></li>
+      <li><a href="/pages/privacy_policy">Privacy Policy</a></li>
+      <li>Copyright © 2005-2010 Revieworld Ltd.</li>
+      <li><a class="fn org url" href="http://www.reevoo.com">Reevoo</a> ® is a registered trademark of Revieworld Ltd.</li>
+    </ul>
   </div>
 
   <div class="column">
     <h3>About us</h3>
     <ul>
       <li><a href="/pages/about_revieworld">Who are Reevoo?</a></li>
-      <li><a href="/pages/review_collection">How we collect reviews</a></li>
+      <li><a href="/pages/review_collection">Who writes Reevoo reviews?</a></li>
+      <li><a href="/pages/write_a_review">How do I write a review?</a></li>
       <li><a href="/pages/press">Press</a></li>
-      <li><a href="/pages/directors">Directors</a></li>
       <li><a href="/pages/faqs"><abbr title="Frequently asked questions">FAQ</abbr></a></li>
       <li><a href="/pages/contact_us">Contact us</a></li>
     </ul>
   </div>
 
   <div class="column">
-    <h3>Partners</h3>
+    <h3>B2B</h3>
     <ul>
+      <li><a href="http://www.reevoo.com/b2b/">Reevoo B2B</a></li>
       <li><a href="http://www.reevoo.com/b2b/retailers.shtml">For retailers</a></li>
       <li><a href="http://www.reevoo.com/b2b/manufacturers.shtml">For manufacturers</a></li>
     </ul>
@@ -329,14 +317,16 @@ try { window.ga_tracker._trackPageview() } catch(err) {}
     <ul>
       <li><a href="/account/new">What is Reevoo Plus?</a></li>
       <li><a href="/account/new">Join Reevoo Plus</a></li>
-      <li><a href="/short_list">Shortlist</a></li>
+      <li><a href="/short_lists">My Lists</a></li>
       <li><a href="/competition">Competitions</a></li>
       <li><a href="/price_alert_subscriptions">Alerts</a></li>
       <li><a href="/talk/new">Get expert advice</a></li>
+      <li><a href="/account/edit">Newsletters</a></li>
+      <li><a href="/pages/write_a_review">How do I write a review?</a></li>
     </ul>
   </div>
 
-  <div class="column">
+  <div class="column last-column">
     <h3>More Reevoo</h3>
     <ul>
       <li><a href="/decidewhattobuy">Reevoo Blog</a></li>
@@ -344,79 +334,89 @@ try { window.ga_tracker._trackPageview() } catch(err) {}
       <li><a href="http://twitter.com/reevoo">Reevoo on Twitter</a></li>
       <li><a href="http://www.facebook.com/pages/Reevoo/130827425591">Reevoo on Facebook</a></li>
       <li><a href="http://twitter.com/reevoodeals">Reevoo Deals on Twitter</a></li>
+      <li><a href="/vouchers">Reevoo Vouchers</a></li>
     </ul>
   </div>
-
-  <small>
-    Copyright © 2005-2010 Revieworld Ltd. |
-    <a class="fn org url" href="http://www.reevoo.com">Reevoo</a> ® is a registered trademark of Revieworld Ltd. |
-    <a href="/pages/terms_of_service">Terms of service</a> and <a href="/pages/privacy_policy">privacy policy</a>
-  </small>
 </div>
-
-<hr>
 
 <div id="login-box">
   <form action="/user_session" class="plus-form" id="new_user_session" method="post">
-  <ul>
-        <li>
+  <fieldset>
+    <ul>
+          <li>
       <label for="user_session_email">Email address</label>
       <input class="text" id="user_session_email" name="user_session[email]" tabindex="1" type="text">
     </li>
 
-        <li>
+          <li>
       <label for="user_session_password">Password</label>
       <input class="text password" id="user_session_password" name="user_session[password]" tabindex="2" type="password">
     </li>
 
-  </ul>
+    </ul>
+  </fieldset>
   <button tabindex="4" type="submit"><span>Log in</span></button>
-  <label class="remember" for="user_session_remember_me"><input name="user_session[remember_me]" type="hidden" value="0"><input checked="checked" id="user_session_remember_me" name="user_session[remember_me]" tabindex="3" type="checkbox" value="1"> Remember me</label>
+  <span class="remember"><input name="user_session[remember_me]" type="hidden" value="0"><input checked="checked" id="user_session_remember_me" name="user_session[remember_me]" tabindex="3" type="checkbox" value="1"> <label for="user_session_remember_me">Remember me</label></span>
   <p class="forgot-password"><a href="/reset_password">Forgotten your password?</a></p>
 </form>
 </div>
 
 <div id="more-products">
   <h2>More products</h2>
-  <ul>
-        <li class="column1"><a href="/browse/product_type/bread-makers">Bread maker</a></li>
-        <li class="column1"><a href="/browse/product_type/camcorders">Camcorder</a></li>
-        <li class="column1"><a href="/browse/product_type/coffee-makers">Coffee maker</a></li>
-        <li class="column1"><a href="/browse/product_type/cookers">Cooker</a></li>
-        <li class="column1"><a href="/browse/product_type/desktop-computers">Desktop PC</a></li>
-        <li class="column1"><a href="/browse/product_type/dishwashers">Dishwasher</a></li>
-        <li class="column2 reset"><a href="/browse/product_type/dvd-players">DVD player</a></li>
-        <li class="column2"><a href="/browse/product_type/dvd-recorders">DVD recorder</a></li>
-        <li class="column2"><a href="/browse/product_type/freezers">Freezer</a></li>
-        <li class="column2"><a href="/browse/product_type/fridge-freezers">Fridge freezer</a></li>
-        <li class="column2"><a href="/browse/product_type/fridges">Fridge</a></li>
-        <li class="column2"><a href="/browse/product_type/games-consoles">Games Console</a></li>
-        <li class="column3 reset"><a href="/browse/product_type/headphones">Headphones</a></li>
-        <li class="column3"><a href="/browse/product_type/hifi-systems">Hi-fi System</a></li>
-        <li class="column3"><a href="/browse/product_type/home-cinema-systems">Home cinema system</a></li>
-        <li class="column3"><a href="/browse/product_type/landline-phones">Home phone</a></li>
-        <li class="column3"><a href="/browse/product_type/irons">Iron</a></li>
-        <li class="column3"><a href="/browse/product_type/kettles">Kettle</a></li>
-        <li class="column4 reset"><a href="/browse/product_type/microwaves">Microwave</a></li>
-        <li class="column4"><a href="/browse/product_type/ovens">Oven</a></li>
-        <li class="column4"><a href="/browse/product_type/printers">Printer</a></li>
-        <li class="column4"><a href="/browse/product_type/pvr">PVR</a></li>
-        <li class="column4"><a href="/browse/product_type/radios">Radio</a></li>
-        <li class="column4"><a href="/browse/product_type/satellite-navigation">Sat nav</a></li>
-        <li class="column5 reset"><a href="/browse/product_type/speakers">Speakers</a></li>
-        <li class="column5"><a href="/browse/product_type/toasters">Toaster</a></li>
-        <li class="column5"><a href="/browse/product_type/tumble-dryers">Tumble dryer</a></li>
-        <li class="column5"><a href="/browse/product_type/tv-stands-and-mounts">TV stand</a></li>
-        <li class="column5"><a href="/browse/product_type/vacuum-cleaners">Vacuum cleaner</a></li>
-        <li class="column5"><a href="/browse/product_type/washer-dryers">Washer dryer</a></li>
-    <li class="all"><a href="/categories" class="more" title="See A-Z of all products">See all products <span></span></a></li>
-  </ul>
+    <ol class="column ">
+        <li><a href="/browse/product_type/bread-makers?order=customer_score">Breadmakers</a></li>
+        <li><a href="/browse/product_type/camcorders?order=customer_score">Camcorders</a></li>
+        <li><a href="/browse/product_type/coffee-makers?order=customer_score">Coffee Makers</a></li>
+        <li><a href="/browse/product_type/cookers?order=customer_score">Cookers</a></li>
+        <li><a href="/browse/product_type/desktop-computers?order=customer_score">Desktop Computers</a></li>
+        <li><a href="/browse/product_type/pvr?order=customer_score">Digital TV Recorders</a></li>
+    </ol>
+    <ol class="column ">
+        <li><a href="/browse/product_type/dishwashers?order=customer_score">Dishwashers</a></li>
+        <li><a href="/browse/product_type/dvd-players?order=customer_score">DVD Players</a></li>
+        <li><a href="/browse/product_type/dvd-recorders?order=customer_score">DVD Recorders</a></li>
+        <li><a href="/browse/product_type/freezers?order=customer_score">Freezers</a></li>
+        <li><a href="/browse/product_type/fridge-freezers?order=customer_score">Fridge Freezers</a></li>
+        <li><a href="/browse/product_type/fridges?order=customer_score">Fridges</a></li>
+    </ol>
+    <ol class="column ">
+        <li><a href="/browse/product_type/games-consoles?order=customer_score">Games Consoles</a></li>
+        <li><a href="/browse/product_type/headphones?order=customer_score">Headphones</a></li>
+        <li><a href="/browse/product_type/hifi-systems?order=customer_score">Hi Fis</a></li>
+        <li><a href="/browse/product_type/home-cinema-systems?order=customer_score">Home Cinema Systems</a></li>
+        <li><a href="/browse/product_type/irons?order=customer_score">Irons</a></li>
+        <li><a href="/browse/product_type/kettles?order=customer_score">Kettles</a></li>
+    </ol>
+    <ol class="column ">
+        <li><a href="/browse/product_type/landline-phones?order=customer_score">Landline Phones</a></li>
+        <li><a href="/browse/product_type/microwaves?order=customer_score">Microwaves</a></li>
+        <li><a href="/browse/product_type/ovens?order=customer_score">Ovens</a></li>
+        <li><a href="/browse/product_type/printers?order=customer_score">Printers</a></li>
+        <li><a href="/browse/product_type/radios?order=customer_score">Radios</a></li>
+        <li><a href="/browse/product_type/satellite-navigation?order=customer_score">Sat Navs</a></li>
+    </ol>
+    <ol class="column last">
+        <li><a href="/browse/product_type/speakers?order=customer_score">Speakers</a></li>
+        <li><a href="/browse/product_type/toasters?order=customer_score">Toasters</a></li>
+        <li><a href="/browse/product_type/tumble-dryers?order=customer_score">Tumble Dryers</a></li>
+        <li><a href="/browse/product_type/tv-stands-and-mounts?order=customer_score">TV Stands and Mounts</a></li>
+        <li><a href="/browse/product_type/vacuum-cleaners?order=customer_score">Vacuum Cleaners</a></li>
+        <li><a href="/browse/product_type/washer-dryers?order=customer_score">Washer Dryers</a></li>
+    </ol>
+  <a href="/categories" class="all-products" title="See A-Z of all products">See all products</a>
+</div>
+
+<div id="short-list-widget">
+  <div class="widget">
+    <a class="trigger" href="/short_list">My list</a>
+  </div>
 </div>
 
 
+      
     </div>
-    
-  <!--[if lte IE 7]></div><![endif]-->
+
+  <!--[if lte IE 8]></div><![endif]-->
   
 
 </body></html>
