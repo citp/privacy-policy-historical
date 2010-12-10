@@ -1,61 +1,14 @@
-> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511091234id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upto75.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210094327id_/http%3A//www.upto75.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # UPto75: Never Miss A Sale: Privacy Policy - Great deals, offers, discounts and sales in stores in your city
 
-### Categories
-
-Cars, Bikes, Others 
-
-Magazine Subscription, Books & Novels 
-
-Womens, Mens, Baby & Kids 
-
-CD and DVD, PC's and Laptops, Printers & Accessories, Software, Games & Consoles 
-
-Schools, Colleges, Universities, Training Institutes 
-
-Camera & Camcorders, Mobiles, MPS Players, TVs & DVD Players 
-
-Food Items, Beverages 
-
-Home, Office 
-
-Flowers, Gifts, Greeting Cards 
-
-Beauty Parlors, Cosmetics, Dentist & Eye Care, Hospitals, Spas & Therapy Centres 
-
-Washing Machines, ACs & Refrigerators, Microwaves & Vacuums 
-
-Bed & Bath, Kitchen & Dining, Cleaning & Storage, Other Household Items 
-
-Holiday Packages 
-
-Net Connections, Broadband, Domains & Hosting 
-
-Gold, Pearls & Diamonds, Watches, Rings & Bracelets 
-
-Baby Care, Strollers, Toys & Games 
-
-Theme Parks, Dance Studios 
-
-DVDs, Musical Instruments, Tickets 
-
-Eateries, Restaurants, Fast Food, Pubs 
-
-Astrology, Chartered Accountants, Tailoring & Laundry, Tax Consultants 
-
-Gym & Health Clubs, Fitness Equipment, Sports Goods 
-
-Airfares, Holiday Packages 
-
 ### Testimonials
 
-When upto75.com approached us for promoting our offers through their site, we looked at the package rate for promotion and we were surprised how cost effective it was. Subsequently we got a fairly good response which even media advertisement campaigns could not fetch us. The concept is unique and well designed to attract the consumers who are nowadays very cautious about shopping- they do not wish to buy anything at M.R.P. Such consumers have a one stop solution to know the best offers active in the market. As a business associate, we were offered a quick, professional and pleasing service. Its a matter of time before all leading brands across all industries in this country try to find a place in upto75.com seeking leads.
+The association between Vibes and Upto 75.com has come a long way, with both reaping mutual benefits. In today�s competitive market, Upto75.com has been a great external support to create footfalls for us. Upto 75.com truly leaps ahead of competition by fast-forwarding its innovation capability. When we partnered with Upto 75 .com, it was evident that Upto 75.com was investing in building next-generation marketing techniques to help organizations reach the endeavors as desired. The innovation buzz and energy is just infectious and representative of a great future it holds. The unique concept introduced by Upto 75.com not only benefits us, but also helps the consumers to save a lot from their monthly expenditure and at the same time enjoy the luxury of various offers on Upto 75.com.
 
-- **M Santhosh- Sr Manager- Thyrocare** ,  
-12-Apr-2010
+- **Arti Kohli- VP Wt Mngmt N Corp Affairs- Vibes**
 
-[](http://www.cry.org/)
+[](http://www.upto75.com/Yatra/m/5772/Sale_Offer.html)
 
 Privacy Policy  
 ---  
@@ -90,7 +43,7 @@ The information you provide to us may be used to:
   * Monitor or improve the Web Sites; 
   * Customize the advertising and content you see 
 
-Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20100511091234id_/http%3A//www.upto75.com/Terms.html)  
+Moreover, if you submit comments or other content to the website, it maybe published online or offline along with your name. Please also check out our [Terms of Use.](https://web.archive.org/web/20101210094327id_/http%3A//www.upto75.com/Terms.html)  
   
    
 **With whom information may be shared**  
@@ -115,4 +68,4 @@ UPto75.com incorporates reasonable safeguards to help protect and secure your pe
   
 
 
-[](http://www.cry.org/)
+[](http://www.upto75.com/Thyrocare/m/4801/Sale_Offer.html)
