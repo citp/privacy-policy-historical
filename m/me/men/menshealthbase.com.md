@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the menshealthbase.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513010504id_/http%3A//www.menshealthbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshealthbase.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210070743id_/http%3A//www.menshealthbase.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mens Health Base
+# Privacy Policy : Mens Health Base
 
 Thank you for visiting MensHealthBase.com and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
 
