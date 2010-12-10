@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myspace.de privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235221id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspace.de privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210175053id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
 
-# Privacy - MySpace.com
+# Privacy - Myspace.com
 
 **Effective February 28, 2008:**
 
