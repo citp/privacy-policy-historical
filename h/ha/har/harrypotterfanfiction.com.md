@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609165744id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210113129id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# harrypotterfanfiction.com :: 60,000 Harry Potter stories and podcasts
+# harrypotterfanfiction.com :: 65,000 Harry Potter stories and podcasts
 
 | 
 
