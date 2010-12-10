@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylicindia.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611072346id_/http%3A//www.mylicindia.com/insurance-plans/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylicindia.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210082408id_/http%3A//www.mylicindia.com/insurance-plans/sitemap/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My LIC of India
 
@@ -96,4 +96,14 @@ This privacy statement is based on an original template created by website-contr
 
 If you find this Insurance Plan interesting, please consider pasting the following code on your blog or Share this with your friends and family.
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+
+#### Insurance plan found by searching:
+
+  * [lic of india website](http://www.mylicindia.com/insurance-plans/sitemap/privacy-policy/ "lic of india website")
+  * [lic of india policy statement](http://www.mylicindia.com/insurance-plans/sitemap/privacy-policy/ "lic of india policy statement")
+  * [lic policy statement online](http://www.mylicindia.com/insurance-plans/sitemap/privacy-policy/ "lic policy statement online")
+  * [licindia online](http://www.mylicindia.com/insurance-plans/sitemap/privacy-policy/ "licindia online")
+  * [lic policy statement](http://www.mylicindia.com/insurance-plans/sitemap/privacy-policy/ "lic policy statement")
+
+
