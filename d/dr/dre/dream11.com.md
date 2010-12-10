@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dream11.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526214251id_/http%3A//www.dream11.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dream11.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210051009id_/http%3A//www.dream11.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dream11 - World's No. Fantasy Cricket Game
 
