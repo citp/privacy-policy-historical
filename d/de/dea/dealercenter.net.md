@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the dealercenter.net privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210025054id_/http%3A//www.dealercenter.net/en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+
+# DealerCenter - Privacy Policy
+
+We are strongly committed to protecting your privacy online and have taken steps to protect the information you share with us. DealerCenter uses encryption technology to safeguard the credit data used in credit report transactions. To help protect your privacy, you should maintain the secrecy of the logon ID and password you set up in connection with your participation in any Nowcom service. 
+
+Nowcom does collect certain personal information in order to provide you with customized services and content. Some personal information is gathered when you register to receive certain DealerCenter services or products. We may also ask you for personal information at other times, for example when verifying your identity. This information will help us serve you better. 
+
+We may disclose your personal information to third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (b) to protect the interests, rights, safety, or property of Nowcom, DealerCenter, or others; (c) to enforce any terms of service on this web site; (d) to provide you with the services or products requested by you and to perform other activities related to such services and products, including billing and collection; or (e) to operate Nowcom's systems properly. We may also share your personal information with a sponsor or other third party who is interested in serving you ("Third-Party Providers"). You may inform us at any time not to share your personal information with such Third-Party Providers by contacting us. 
+
+Nowcom reserves the right to change this statement at any time by posting revisions on the DealerCenter Web site. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party. This privacy policy applies only to the DealerCenter Web site and does not apply to other Nowcom products and services. 
