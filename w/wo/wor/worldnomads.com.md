@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnomads.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626010446id_/http%3A//www.worldnomads.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnomads.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210022002id_/http%3A//www.worldnomads.com/privacy.aspx) for the most accurate reproduction.*
 
 # World Nomads - Privacy Policy
 
@@ -20,11 +20,15 @@ After signing into World Nomads you can click on the link to edit your personal 
 
 If you have any queries or complaints in regard to our collection, use or management of your personal information, please [contact us](https://web.archive.org/contactus.aspx) or write to:
 
-World Nomads Pty Ltd,  
-1306 World Tower,  
-87-89 Liverpool St  
-Sydney 2000  
+World Nomads Pty Ltd  
+PO Box H2  
+Australia Square  
+Sydney NSW 1215  
 Australia
+
+The ABN for WorldNomads.com is 62 127 485 198
+
+info@worldnomads.com
 
 If we cannot satisfactorily resolve your concerns you may contact the Privacy Commissioner in writing:
 
