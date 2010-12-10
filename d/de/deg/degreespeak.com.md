@@ -1,166 +1,55 @@
-> *The following text is extracted and transformed from the degreespeak.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610004226id_/http%3A//degreespeak.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreespeak.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210050750id_/http%3A//www.degreespeak.com/privacy.asp) for the most accurate reproduction.*
 
 # DEGREE SPEAK
 
-| 
+## Privacy/Security Policy:
 
-**Target Point Media is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how Target Point Media enforces permission email marketing with our clients, please see our Anti-spam policy.**
+Our highest priority is that you enjoy the experience of visiting this site and to ensure that: 
 
-  
+your privacy is respected;
 
+your information is secure and private;
 
-## Security and Privacy
+and that any data you provide to us is protected.
 
-Target Point Media's web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our data center.
+Any personal information you provide to us is: 
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your requesting information. 
+never shared with any other company, individual or organization without your express consent; 
 
-  
+held in accordance with data protection legislation; 
 
+stored in a secure database.
 
-## Choice Opt-in
+Our data security policy operated independently, or in conjunction with our data management partners and sponsor, meets, or exceeds, the requirements of all current Privacy legislation.
 
-Our members and their subscribers are given the opportunity to 'opt-in' to having their information used for purposes not directly related to our site at the point where we ask for the information.
+Online Privacy Opt-in
 
-Users of our site will always be notified if their information is being collected by any outside parties. We do this to ensure that our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+Personal information is collected only when you voluntarily register at any of our specialized, focused sites to provide data, receive newsletters, or for other information opportunities. Our policy is to maintain all personal information as confidential and to use it only for the purpose for which it was submitted and to advise you of new developments that may interest you.
 
-  
+Sharing Data
 
+We never share our consumer list with any company or organization nor sell or otherwise disclose any personally identifiable information about you without your express consent. At any time, you may obtain a summary of your information on record with us. You may also request that we destroy any information about you and remove you from our database at any time.
 
-## Information Tracked
+Aggregate Data
 
-At times we will use your IP address to help diagnose problems with our server and to administer our web site. We also may track browser types to help us understand our visitors' needs related to our web site design. 
+As with all servers on the Internet, the computers that deliver the Web pages to you identify your computer by its unique IP address or that of your ISP, such as AOL. The servers automatically record the name of the domain from which you accessed the site and the type of operating system and web browser that you use, noting your preferences and choices.
 
-There is an optional section of our web site where input forms require your name, company, and e-mail address. This form provides the ability to opt-in to receiving future emails of any sort from Target Point Media. If you opt-in to receiving email communications from us, then we may send information to you on our products or services. 
+These data are collected and analyzed to identify broad demographic and psychographic trends. This helps us monitor the appeal and quality of information we publish and ensures that we only provide relevant and useful information to you. Unless you register with us, this information cannot be used to identify you personally.
 
-You may review and change your information with us at any time by clicking on the "modify profile" link or similar found at the bottom of emails sent via our system, or by contacting us at privacy@targetpointmedia.com. 
+Cookies
 
-  
+In order to serve you better we may utilize cookies to store information. A cookie is a small piece of data kept on your computer that is used by the browser and that can only be read and understood by our servers. All browsers will work with cookies but you can set your browser to accept or reject them. If your browser rejects cookies you can still access our sites but some features may not be available to you.
 
+Children and Privacy
 
-## Web Beacons
+We encourage parents to spend time with their children online. Under no circumstances do we intentionally collect personal data from any person under the age of 14. If you are under 14, please ask a parent to provide any information requested.
 
-In order to determine a user's ability to receive HTML email in addition to whether or not an email has been opened, Target Point Media includes a "web beacon" in a majority of the HTML email messages we send. A web beacon (actually a small .gif image) is activated when an HTML email is opened via a request for the image on our servers. 
+Online Security
 
-This capability helps Target Point Media send email in a format users can read and enables Target Point Media, and our clients that use the functionality, to track the aggregate number of emails opened. The web beacon does not collect any personally identifiable information. Users that do not want to receive email messages with web beacons can choose to receive their emails in text (non-HTML) format.
+If you register or subscribe to any service, for newsletters or promotional offers on this site, all information is safely stored in a secure database that is protected from unauthorized access.
 
-We also use, and provide our clients with, the capability to track when a URL has been clicked inside of an email message sent by our system. We use this functionality to track which links were clicked and in what quantity, as well as the aggregate number of links clicked. This click tracking functionality does not collect any personally identifiable information. 
+To check if the site that you are visiting is secured, double click the padlock in the lower right side of your browser window (left on a Mac) to view the detail of the security certificate. 
 
-  
+Opt-out Information
 
-
-## Cookies
-
-Client-side cookies are used to verify the login status of customers using products or services linked directly with our website. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site; however, the user may not be able to access all areas of our site. 
-
-  
-
-
-## Notification of Changes
-
-Any new policy will be posted on our site at least one week prior to its taking effect. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. 
-
-  
-
-
-## Safe Harbor Data Privacy Notice
-
-Target Point Media adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union. This notice outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern. 
-
-This notice applies to all personal information we handle, including on-line (except as noted below), off-line, and manually processed data. For purposes of this notice, "personal information" means data that; is transferred from the European Union to the United States; is recorded in any form; and is about, or pertains to, a specific individual who is identified in, or is identifiable from, the data. 
-
-"Sensitive information" is a subcategory of personal information. Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or the sex life of the individual. Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive.
-
-  
-
-
-## Disclosures and Transfers
-
-We do not disclose personal information to third parties, except when one or more of the following conditions is true: 
-
-We have the individual's permission to make the disclosure; The disclosure is permitted by law or mandatory professional standards; The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets; The personal information to be disclosed is publicly available; The party to whom the disclosure is made controls, is controlled by, or is under common control with Target Point Media; The disclosure is reasonably necessary for the establishment or maintenance of legal claims; or The disclosure is to persons or entities for whom we are providing services, provided the disclosure is consistent with the purpose for which the personal information was obtained.
-
-We will comply with the Safe Harbor Principles with respect to disclosures of sensitive information, including, when applicable, obtaining the explicit consent of the individual prior to disclosing sensitive information to a third party or using sensitive information for purposes other than those for which it was originally collected or subsequently authorized by the individual. Transfers of information permitted under this notice, either to third parties or within Target Point Media, include the transfer of data from one jurisdiction to another, such as transfers to and from the United States of America. 
-
-  
-
-
-## Data Security, Integrity, and Access
-
-We employ physical, electronic, and managerial measures, including education and training of our personnel, designed to provide the personal information in our possession with reasonable protection from accidental loss or destruction, improper use, alteration, or disclosure. Personal information collected or displayed through a Web site is protected in transit by industry standard encryption processes. However, we cannot guarantee the security of personal information accessible on or transmitted via the Internet. 
-
-We process personal information in ways compatible with the purpose for which the personal information was collected, or as otherwise authorized by the individual. To the extent necessary for such purposes, we take reasonable steps to make sure that personal information is accurate, complete, current, and otherwise reliable with regard to its intended use. 
-
-If an individual becomes aware that personal information we maintain about that individual is inaccurate, or if an individual would like to update or review his or her personal information, the individual may contact us using the contact information below. As a security precaution, we may request that the individual provide identifying information such as name, address, birth date, and/or social security number. In addition, we may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Safe Harbor Agreement. In some circumstances, we may charge a reasonable fee, where warranted, for access to personal information. 
-
-  
-
-
-## Accountability and Enforcement
-
-We established a program to monitor our adherence to the Safe Harbor Principles and to address questions and concerns regarding our adherence. This program will include a statement, at least once a year, signed by our authorized representative, verifying our adherence to the Safe Harbor Principles. We encourage interested persons to raise any concerns with us using the contact information below.
-
-With respect to any dispute relating to this notice that cannot be resolved through our internal processes, we will cooperate with competent European Union data protection authorities and comply with the advice of such authorities. In the event that we or such authorities determine that we did not comply with this notice, we will take appropriate steps to address any adverse effects and to promote future compliance. 
-
-  
-
-
-## Amendment
-
-We may amend this notice from time to time by posting a revised notice on this Web site, or a similar Web site that replaces this Web site. If we amend the notice, the new notice will apply to personal information previously collected only insofar as the rights of the individual affected are not reduced. So long as we profess to adhere to the Safe Harbor Principles, we will not amend this notice in a manner inconsistent with the Safe Harbor Principles. 
-
-  
-
-
-## Information Subject to Other Policies
-
-We are committed to following the Safe Harbor Principles for all personal information, as that term is defined herein. Other information we receive may be subject to policies that may differ in some respects from the policies set forth in this notice. Certain of our Web sites have their own privacy policies that apply specifically to those Web sites. Those policies may be accessed through the Web sites in question. Information relating to present or former Target Point Media personnel is subject to our policies concerning personnel data privacy, which are available to present and former Target Point Media personnel upon request. Information obtained from or relating to clients or former clients is further subject to the terms of any privacy commitment made to the client, any agreements with the client, and/or any applicable laws and professional standards. 
-
-|  |  | __  
----  
-| 
-
-Nursing
-
-| 
-
-Law & Justice
-
-| 
-
-Teaching  
-  
----|---|---  
-|   
----  
-|  |  | 
-
-## Student Resources
-
-College Calculator  
-  
----  
-[](https://web.archive.org/web/20100610004226id_/http%3A//degreespeak.com/college_calculators.asp)  
-   
-|   
----  
-| 
-
-### Reasons to Get an Education
-
-These days, getting an education is more important than ever. People aged 24-35 who have bachelor degrees earn...[read more](https://web.archive.org/web/20100610004226id_/http%3A//degreespeak.com/reason.asp "read more")  
-  
----  
-   
-  
-### Online Education Degree Tips
-
-Earning your college degree online gives you the flexibility to achieve your career goals, wherever you are and on your own terms. However, an online...[read more](https://web.archive.org/web/20100610004226id_/http%3A//degreespeak.com/online.asp "read more")  
-  
-   
-  
-### Navigate the World of Distance Learning
-
-Distance learning myths are demystified with some straightforward answers about getting online degrees—as well as analyzing the current online degree trends and getting some insider tips. Are online programs...[read more](https://web.archive.org/web/20100610004226id_/http%3A//degreespeak.com/navigate.asp "read more")  
-  
-[](https://web.archive.org/web/20100610004226id_/http%3A//degreespeak.com/job.asp)
+If you are already registered but no longer wish to receive messages from us, please let the Operating Company know by phone, mail or email.
