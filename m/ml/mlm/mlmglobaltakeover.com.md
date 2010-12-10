@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmglobaltakeover.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624220427id_/http%3A//www.mlmglobaltakeover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmglobaltakeover.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210232520id_/http%3A//www.mlmglobaltakeover.com/privacy) for the most accurate reproduction.*
 
 # MLM Millionaire Secrets | Mastermind Team
 
