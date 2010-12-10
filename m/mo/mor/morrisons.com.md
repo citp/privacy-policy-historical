@@ -1,41 +1,72 @@
-> *The following text is extracted and transformed from the morrisons.com privacy policy that was archived on 2006-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061224224330id_/http%3A//www.shopping.net/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morrisons.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210020020id_/http%3A//www.morrisons.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
-# Shopping.net - Privacy Policy
+# Privacy policy - Morrisons
 
-**Effective Date: December 1st 2006**
+* #### Introduction
 
-This page set forth the privacy policies and practices of Shopping.net and its affiliated websites listed below (“Shopping.net” “we” or “us”). **Please read this privacy policy carefully since by visiting a Shopping.net site and sharing information with us you agree to be bound by the Terms of Use of this Privacy Policy unless you offer different terms which are accepted by Shopping.net in writing.** For Your information, this page was last updated as of the date at the top of this Privacy Policy. 
+  1. Wm Morrison Supermarkets Plc is committed to protecting and respecting your privacy.
+  2. This policy (together with the terms and conditions of use of our website under the domain name [http://www.morrisons.co.uk](https://web.archive.org/web/20101210020020id_/http://) (the “Website”)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+  3. Any changes to this privacy policy will be posted on the Website and will take effect immediately.
+  4. For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Wm Morrison Supermarkets Plc, registered in England with company number 358949, whose registered office is at Hilmore House, Gain Lane, Bradford, West Yorkshire, BD3 7DL.
 
-Please contact us at ValueClick Europe Ltd, 180 Upper Richmond Road, Putney, London, SW15 2SH should you have any questions regarding this Privacy Policy. 
 
-**I.    INFORMATION WE COLLECT: INDIVIDUAL INTERNET CONSUMERS**
 
-We do not collect any personally identifiable information and does not store any non-personally identifiable information. We may use “cookies” and other technologies to study traffic patterns on our website, to customize Your experience and provide greater convenience each time You interact with us. We also may gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We may use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. We would not use cookies or log files to collect end users' names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user's interests, but will not share this information with third-parties. 
+#### Information that we collect from you
 
-**II. INFORMATION SHARING**
+  1. When you visit and/or register on certain areas of the Website (for example the employment section) you may be asked to provide relevant personal information, and occasionally sensitive personal information, about yourself including your name, contact details, availability for work, salary details, previous employment and experience, education, ethnic origin, disabilities, criminal record and other relevant information.
+  2. We may also collect personal information (but not sensitive personal information) about your usage of the Website as well as information about you from messages you post to the Website and emails or letters you send to us. 
+  3. We also monitor customer traffic patterns and website use, which enables us to further develop the Website to be useful to you. 
+  4. We will not collect any personal information about you unless such personal information is relevant and where it is specifically and knowingly provided by you.
+  5. We will not collect any sensitive personal information about you unless such sensitive personal information is relevant and you have given explicit consent to the processing of such information.
 
-Shopping.net.net may use third party vendors to help us operate our business and this Site or administer activities on our behalf. We may share your information with these third parties for those limited purposes. Any third-party vendor so used has agreed to protect the confidentiality of information provided by Shopping.net. Shopping.net may share any information collected with co-branded partners, advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any Shopping.net division. Shopping.net may release information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Shopping.net or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
-**III. CONSUMER CHOICE AND ACCESS**
 
-The Cookies we use do not have an "opt-out" option, yet you still have the option of blocking the use of cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
+#### Use of information
 
-**IV. SECURITY**
+  1. We will use and analyse the personal information we collect so that we can administer, support, improve and develop the Website and our business. 
+  2. We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone. You may opt out of receiving this information at any time. 
+  3. We may use and analyse the sensitive personal information we collect for the purposes of considering your suitability for future employment with Wm Morrison Supermarkets Plc and for related recruitment and human resources purposes relevant to the recruitment process or for future employment purposes.
 
-Shopping.net employs industry standard security measures to ensure the security of all data. No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Shopping.net to intercept or access transmissions or private communications unlawfully. While we strive to protect your information, Shopping.net cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with us. 
 
-**V. CONSENT AND CHANGES**
 
-Shopping.net may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Your continued usage of this site after such notice shall constitute acceptance of any such changes. 
+#### Disclosure of your information
 
-**VI. DATA PROCESSING**
+  1. The information you provide to us will be held on our computers in the United Kingdom and accessed by or given to our staff working within the United Kingdom.
+  2. We may share aggregate information with our group companies and other parties within the United Kingdom. This is statistical data about our users’ browsing actions and patterns and does not identify any individuals. We will not (save as set out in this policy) sell, transfer or share any personal information about you as an individual user of the Website outside our group of companies.
+  3. Where you have explicitly consented by way of “opt-in” when providing us with your personal details, we may also allow carefully selected third parties (for example job centres), including other companies in our group, to contact you occasionally about other vacancies, goods and services which may be of interest to you. They may contact you by post, telephone or fax. You may opt out of receiving this information at any time.
+  4. If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+  5. We will co-operate with law enforcement agencies as well as related third parties to enforce laws such as fraud and other rights. You authorise us to disclose any information about you to such law enforcement or other government officials as we, in our sole discretion, believe necessary in connection with the investigation of fraud or other activity that is illegal or may expose us or you to legal liability. You further authorise us to process your information, including sensitive personal information, where the processing is necessary for the purpose of legal proceedings, obtaining legal advice, establishing or defending legal rights or for the administration of justice or the exercise of functions of a public nature. 
+  6. By accepting this Privacy Policy you authorise us as part of any application for employment to process any sensitive data that relates specifically only to your racial or ethnic origin for the sole purpose of equal opportunity monitoring. 
+  7. You further authorise us to process your sensitive personal information where such processing is necessary for performance of our obligations under employment law.
+  8. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-You acknowledge that Shopping.net and its affiliate entities operate in the United State and the European Union and agree to (i) permit Shopping.net to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by Shopping.net shall be subject to the Terms of Use stated in this Privacy Policy and our Terms of Use. 
 
-**VII. LIMITATION OF LIABILITY**
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS OF USE (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT SHOPPING.NET'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY SHOPPING.NET TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS OF USE. 
+#### Cookies
 
-**VIII. AFFILIATED SITES**
+  1. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns and does not identify any individual.
+  2. Cookies are small amounts of information which we may from time to time store on your computer. Cookies make it easier for you to log on to and use the Website during future visits. They also allow us to monitor traffic and to personalise the content of the Website for you. You may set up your computer to reject cookies by changing your browser settings although, in that case, you may not be able to use certain features on the Website.Any changes to this privacy policy will be posted on the Website and will take effect immediately.
 
-This policy shall also apply to the following affiliated sites: www.classifieds.co.uk www.directory.co.uk, www.telephone.co.uk, www.worldflights.com and any other site owned and operated by ValueClick Europe Ltd or ValueClick Inc. 
+
+
+#### Security and data retention
+
+  1. In addition to these policies your personal data is protected in the UK by the Data Protection Act 1998. Under this Act we will only process any personal data we hold about you in a lawful and fair manner. We will keep your personal data secure to prevent access by unauthorised third parties and against unlawful processing, accidental loss, destruction and damage. Information provided will be stored on computer for a reasonable period, or for as long as the law requires, and may be used for analysis purposes as provided in this policy. Any sensitive personal data provided as part of an application for employment will be stored no longer than 6 months or, if your application is successful, it will be retained during your employment and for 3 years after you leave.
+  2.  All information once processed and no longer required will be destroyed in a confidential manner.
+
+
+
+#### Accessing and updating
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+#### Emails
+
+  1. If you are an existing customer, we will only contact you by email with information about goods and services similar to those which were the subject of a previous sale to you. You may opt out of receiving this information at any time by following the instructions on the email.
+  2.  We will not otherwise email you unless (a) you have specifically given your consent in response to “opt-in” boxes etc or (b) in response to your emails to us. We will not pass on your email address to any third parties unless you have specifically consented to this.
+
+
+
+#### Contact 
+
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Customer Service Department, Wm Morrison Supermarkets Plc, Hilmore House, Gain Lane, Bradford, BD3 7DL. 
