@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609044428id_/http%3A//www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210195715id_/http%3A//www.nationaltrust.org.uk/main/w-global/w-terms_conditions/w-privacy_policy.htm) for the most accurate reproduction.*
 
 # National Trust | Privacy Policy
 
