@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623131016id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073010id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sendloop
 
@@ -54,12 +54,6 @@ Postal Address:
 Oktet Ltd.  
 Gencler Cad. Ozdes Apt. 36/5  
 Bakirkoy Istanbul 34147 Turkey 
-
-Telephone:  
-+90 (212) 570 69 05 
-
-Fax:  
-+90 (212) 543 67 30 
 
 Email:  
 [privacy@sendloop.com](mailto:privacy@sendloop.com)
