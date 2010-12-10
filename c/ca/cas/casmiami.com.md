@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casmiami.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527211416id_/http%3A//www.casmiami.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casmiami.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210231325id_/http%3A//casmiami.com/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # College Auto Sales - Privacy Policy
 
