@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tallynine.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610175215id_/http%3A//www.tallynine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallynine.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210072544id_/http%3A//www.tallynine.com/privacy-policy) for the most accurate reproduction.*
 
-# Professional tax in tally|how to account
+# Privacy Policy | Learn Tally
 
 Any opinion and views that are expressed here are purely individual opinion.
 
@@ -35,6 +35,3 @@ We love comments, but any comments which is abusive, spread hatred, racial or an
 > You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 > 
 > AdSense Privacy Policy Provided by <a href=”http://www.tallynine”>Free Learning tally 9 and Accountancy</a>
-
-  
-
