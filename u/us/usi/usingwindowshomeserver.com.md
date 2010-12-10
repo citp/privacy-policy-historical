@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609100844id_/http%3A//usingwindowshomeserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210124954id_/http%3A//usingwindowshomeserver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Using Windows Home Server
 
