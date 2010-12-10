@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511213353id_/http%3A//www.cheapflights.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210192707id_/http%3A//www.cheapflights.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## About us
 
-This is a privacy policy for Cheapflights (Australia) Pty Limited.
+This is a privacy policy for Cheapflights Media Ltd.
 
-Cheapflights (Australia) Pty Ltd. is incorporated in Western Australia  under ABN 119 090 756 ("Cheapflights"), with offices at  One Alfred Place, London WC1E 7EB, United Kingdom .  
+Cheapflights Media Ltd is incorporated in Western Australia  under ABN 119 090 756 ("Cheapflights"), with offices at  One Alfred Place, London WC1E 7EB, United Kingdom .  
 
 Our homepage is [www.cheapflights.com.au](https://web.archive.org/).
 
@@ -15,7 +15,7 @@ Please [contact us](https://web.archive.org/help/feedback/) if you have question
 Or by post at the following address:
 
 Content Editor  
-Cheapflights Media  
+Cheapflights Media Ltd  
 One Alfred Place  
 London  
 WC1E 7EB  
@@ -73,4 +73,4 @@ The banners and all graphical advertising appearing on this website are delivere
 
 Cheapflights does not sell you travel products, but directs you to sites that do. These sites may store information such as your name and address and credit card details. They may operate their own privacy policies.
 
-Last updated: March 2010
+Last updated: September 2010
