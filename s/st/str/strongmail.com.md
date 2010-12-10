@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610193735id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210012457id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
 
 # StrongMail's Privacy Policy | StrongMail
 
