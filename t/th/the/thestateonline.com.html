@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the thestateonline.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529134610id_/http%3A//www.thestate.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thestateonline.com privacy policy that was archived on 2010-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210015123id_/http%3A//www.thestate.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
+
 
 
 
@@ -25,6 +26,7 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
  
 	
 	 
+
 	
 	
 		  
@@ -44,18 +46,10 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
- 		<link href="http://media.thestate.com/static/styles/indigio/masthead2.css" rel="stylesheet" type="text/css">
-		<link href="http://media.thestate.com/static/styles/indigio/nav3.css" rel="stylesheet" type="text/css">
-		<link href="http://media.thestate.com/static/styles/indigio/tabs2.css" rel="stylesheet" type="text/css">
-		<link href="http://media.thestate.com/static/styles/indigio/theme2.css" rel="stylesheet" type="text/css">
-		<link href="http://media.thestate.com/static/styles/indigio/section4.css" rel="stylesheet" type="text/css">
+ 
+		<link href="http://media.thestate.com/static/styles/sitestyles.css" rel="stylesheet" type="text/css">
 
-	<link href="http://media.thestate.com/static/styles/accuweather.css" rel="stylesheet" type="text/css">
-	<link href="http://media.thestate.com/static/styles/widgets.css" rel="stylesheet" type="text/css">
-	<link href="http://media.thestate.com/static/styles/mi/thickbox.css" rel="stylesheet" type="text/css">
-        <link href="http://media.thestate.com/static/styles/thestate2008.css" rel="stylesheet" type="text/css">
-
-<link href="http://media.thestate.com/static/styles/sitestyles-min.css" rel="stylesheet" type="text/css">
+        <link href="http://media.thestate.com/static/styles/sitestyles-min.css" rel="stylesheet" type="text/css">
 		
 		<script type="text/javascript">var insitecookie = 'thestate_user_auth'</script>
 		<script type="text/javascript" src="http://media.thestate.com/static/scripts/mi/insite/insite_cookie_manager.js"></script>
@@ -63,8 +57,6 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 		<script type="text/javascript" src="http://media.thestate.com/static/insite/insite_conf.js"></script>
 
 		
-
-
 		
 			
 
@@ -183,67 +175,115 @@ var path = breadcrumb.toLowerCase();
 </script>
 
 
-	 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+  var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 260;
+</script>
 <script type="text/javascript" src="http://media.thestate.com/static/scripts/mi/mi_script_scheduler.js"></script>
 <script type="text/javascript" src="http://media.thestate.com/static/scripts/search_site.js"></script>
-  <script type="text/javascript">
-	if (sitelife_is_on && siteLife_master_switch_on) {
-	$(document).ready(function(){
-		document.domain="thestate.com";
-		myGadgetCom.template = (document.getElementById("ComDiscTemplate")) ? document.getElementById("ComDiscTemplate").innerHTML : '';
-		myGadgetRec.template = (document.getElementById("RecDiscTemplate")) ? document.getElementById("RecDiscTemplate").innerHTML : '';
-		myGadgetAva.userTemplate  = (document.getElementById("userTemplate")) ? document.getElementById("userTemplate").innerHTML : '';
-		myGadgetAva.guestTemplate = (document.getElementById("anonTemplate")) ? document.getElementById("anonTemplate").innerHTML : '';
-		function pluckCallToAction() {requestBatch.BeginRequest(serverUrl, daapiCallback);};
-		new NYX.ieSafeExecution(pluckCallToAction).execute();
-	});
-}
+
+
+
+
+<script type="text/javascript" src="http://media.thestate.com/static/scripts/siteresources-min.js"></script>
+
+
+<script type="text/javascript">
+  function asset_accordion_toggle() {
+    var assets = $('div.story_assets ul');
+    var headline = $('div.story_assets h5 a');
+    if (assets.css('display') == "block") { 
+      // Assets are currently shown
+      headline.text("Click for Related Content");
+      assets.css('display', 'none');
+    } else { 
+      // Assets are currently invisible
+      headline.text("Click to Hide");
+      assets.css('display', 'block');
+    }
+  }
 </script>
+
+ 
+
+<script type="text/javascript">mi.search = new mi.Search();</script>
+
+<script type="text/javascript">
+  var rscriptloaded = 0;
+  function displayEmailForm() {
+    if(rscriptloaded) {
+      mi_story_tool.storyTool("email", "///.html");
+    } else {
+      $.getScript("http://api.recaptcha.net/js/recaptcha_ajax.js", function() {
+        mi_story_tool.storyTool("email", "///.html");
+        rscriptloaded = 1;
+      });
+    }
+  }
+</script>
+
  
 
  
 
-<script type="text/javascript">
 
-     function asset_accordion_toggle() {
-         var assets = $('div.story_assets ul');
-         var headline = $('div.story_assets h5 a');
 
-         if (assets.css('display') == "block") { 
-             // Assets are currently shown
-             headline.text("Click for Related Content");
-             assets.css('display', 'none');
-         } else { 
-             // Assets are currently invisible
-             headline.text("Click to Hide");
-             assets.css('display', 'block');
-         }
-     }
 
+
+
+
+    
+
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
 </script>
 
  
-<script type="text/javascript" src="http://media.thestate.com/static/scripts/sectionfront-min.js"></script>
-
-<script type="text/javascript">
-mi.search = new mi.Search();
-</script>
-
-<script type="text/javascript">
-var rscriptloaded = 0;
-function displayEmailForm() {
-	if(rscriptloaded) {
-		mi_story_tool.storyTool("email", "///.html");
-	} else {
-		$.getScript("http://api.recaptcha.net/js/recaptcha_ajax.js", function() {
-			mi_story_tool.storyTool("email", "///.html");
-			rscriptloaded = 1;
-		});
-	}
-}
-</script>
-
-
 
         <!--[if lt IE 7]>
 <link href="http://media.thestate.com/static/includes/browserupgrade/browserupgrade.css" rel="stylesheet" type="text/css" />
@@ -255,13 +295,16 @@ function displayEmailForm() {
 
  
 
+
  
+
 
 
 
 
 <body class="sf4" id="section_260">
  
+
 <!--[if lt IE 7]>
 
 
@@ -335,6 +378,7 @@ function displayEmailForm() {
 	 
 
 
+
         <div class="advertisement" id="yahoo_1x1_ipatf_1">
             
 <script><!--
@@ -342,7 +386,9 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
 --></script>
         </div>
     
- 	 
+ 
+	 
+
 
 
         <div class="advertisement" id="yahoo_950x30_ipatf_1">
@@ -354,14 +400,18 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2"
     
  
 
+
     <div id="mi_masthead">
         
          
+
 <script type="text/javascript" src="http://www.thestate.com/static/insite/register_oneclick.js"></script>
 
 <div id="mi_masthead">
-  <div id="masthead_wf2" class="full_width">	
-      
+  <div id="masthead_wf2" class="full_width">
+    <div class="center full_width"> 
+ 
+
 
 
         <div class="advertisement" id="yahoo_728x90_ipatf_1">
@@ -372,23 +422,27 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
         </div>
     
  
-     <div class="full_width" id="headerbar" style="text-transform: none; text-align: center;">		
+ </div>
+    <div class="clear"></div>
+    <div id="headerbar" class="full_width" style="text-transform: none; text-align: center;">		
       <div id="headerlinks" style="text-align: center;">
         SUBSCRIBE:
-        <a href="/subscriptions">Print</a>
+        <a href="/subscriptions/">Print</a>
         <a href="http://e-state.thestateonline.com/ ">Electronic (PDF)</a>
-        <a href="https://subscriberservices.mcclatchy.com/columbia/TransactionType.asp">Manage</a>
-        | <a href="http://www.thestate.com/reg-bin/int.cgi?mode=register&amp;version=oneclick&amp;sub_action=done">NEWSLETTERS</a>
-        | <a href="http://www.thestate.com/reg-bin/int.cgi?mode=register&amp;version=oneclick&amp;sub_action=done&amp;nl_code=special_offers&amp;nl_name=Special%20Offer%20Discount%20Deals#newsletters">SPECIAL OFFERS</a>
-        | <a href="/rss">RSS</a>
-        | <a href="http://m.thestate.com/">MOBILE</a>
-        | <a href="placead">PLACE ADS</a>
-        | <a href="http://www.niethestate.com/" target="_blank">N.I.E.</a>
-        | <a href="/contact">CONTACT US</a>
-      </div>
+        <a href="https://subscriberservices.mcclatchy.com/columbia/TransactionType.asp">Manage</a> |
+        <a href="http://www.thestate.com/reg-bin/int.cgi?mode=register&amp;version=oneclick&amp;sub_action=done">NEWSLETTERS</a> |
+        <a href="http://www.thestate.com/reg-bin/int.cgi?mode=register&amp;version=oneclick&amp;sub_action=done&amp;nl_code=special_offers&amp;nl_name=Special%20Offer%20Discount%20Deals#newsletters">SPECIAL OFFERS</a> |
+        <a href="/rss/">RSS</a> |
+        <a href="http://m.thestate.com/">MOBILE</a> |
+        <a href="http://state.vrvm.com/cb/784/subscribe.html">TEXT ALERTS</a> |
+        <a href="placead">PLACE ADS</a> |
+        <a href="/advertise/">ADVERTISE</a> |
+        <a href="http://www.niethestate.com/" target="_blank">N.I.E.</a> |
+        <a href="/contact/">CONTACT US</a>
+      </div><!-- /#headerlinks -->
       <div class="clearing"></div>
-    </div>
-    <div id="mastLogo" class="block"><a href="/"><span id="logo">TheState.com</span></a></div>
+    </div><!-- /#headerbar -->
+    <div id="mastLogo" class="block"><a href="/"><span id="logo">TheState.com</span></a></div><!-- /#mastLogo -->
     		<div id="sitesearch" class="block">
 			<div id="search_box_wrapper">
                 <form action="http://pd.thestate.com/sp" method="get" name="miSearchForm">
@@ -418,155 +472,129 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 			</div>
 		</div>
-  </div>
-</div>
+    <div id="masthead_promo"><!--
+<a href="http://state.vrvm.com/cb/784/subscribe.html">
+<img src="http://media.thestate.com/static/images/promo/text-alerts.jpg" title="Click here to sign up for news, weather and traffic text alerts." />
+</a>
+--></div><!-- /#masthead_promo -->
+  </div><!-- /#masthead_wf2 -->
+</div><!-- /#mi_masthead -->
+<div class="clear"></div>
 
-          
+ 
+        
+ 
+
 <div id="navigation">
-  <ul class="nav">
-    <li id="navNews">
-      <a href="/132">news</a>
-      <ul>
-        <li><a href="/local">local</a></li>
-        <li><a href="/politics">politics</a></li>
-        <li><a href="/crime">crime</a></li>
-        <li><a href="/nation">nation</a></li>
-        <li><a href="/world">world</a></li>
-        <li><a href="/photos">photos</a></li>
-        <li><a href="/videos">videos</a></li>
-        <li><a href="/weird">weird</a></li>
-        <li><a href="/neighbors">neighbors</a></li>
-        <li><a href="http://newspaperads.thestate.com/SS/Tiles.aspx">special sections</a></li>
-        <li><a href="/data">Data</a></li>
-        <li><a href="/bloggers">Blogs</a></li>
-        <li><a href="/reports">News reports archive</a></li>
-      </ul>
+  <ul id="topnav">
+    <li><a href="/132/">news</a>
+      <span class="subnav">
+        <a href="/local/">local</a> |
+        <a href="/politics/">politics</a> |
+        <a href="/crime/">crime</a> |
+        <a href="/nation/">nation</a> |
+        <a href="/world/">world</a> |
+        <a href="/weird/">weird</a> |
+        <a href="/neighbors/">neighbors</a> |
+        <a href="http://newspaperads.thestate.com/SS/Tiles.aspx">special sections</a> |
+        <a href="/data/">data</a> |
+        <a href="/bloggers/">blogs</a> |
+        <a href="/reports/">news archive</a>
+      </span>
     </li>
-    <li id="navSports">
-      <a href="/sports">sports</a>
-      <ul>
-        <li><a href="/gogamecocks">GoGamecocks.com</a></li>
-        <li><a href="/tigers">tigers</a></li>
-        <li><a href="/midlandspreps">midlands preps</a></li>
-        <li><a href="/racing">that's racin</a></li>
-        <li><a href="/golf">golf</a></li>
-        <li><a href="/sportsslideshows">national galleries</a></li>
-        <li><a href="/bloggers#sports">sports blogs</a></li>
-        <li><a href="/morris">ron morris</a></li>
-      </ul>
+    <li><a href="/sports/">sports</a>
+      <span class="subnav">
+        <a href="http://www.gogamecocks.com/">GoGamecocks.com</a> |
+        <a href="/tigers/">tigers</a> |
+        <a href="/midlandspreps/">midlands preps</a> |
+        <a href="/racing/">that's racin'</a> |
+        <a href="/golf/">golf</a> |
+        <a href="/bloggers#sports/">blogs</a> |
+        <a href="/morris/">ron morris</a>
+      </span>
     </li>
-    <li id="navBusiness">
-      <a href="/business">business</a>
-      <ul>
-        <li><a href="http://thestatecom.typepad.com/cbj/">people &amp; achievements</a></li>
-        <li><a href="http://www.thestate.com/20under40">20 under 40</a></li>
-        <li><a href="http://bol.thestateonline.com">Book of Lists</a></li>
-        <li><a href="http://www.thestate.com/less/">Living With Less</a></li>
-        <li><a href="/technology">technology</a></li>
-        <li><a href="/homes">homes</a></li>
-        <li><a href="/jobs">jobs</a></li>
-        <li><a href="http://www.thestateonline.com/legals/legalindex.php">legals</a></li>
-      </ul>
+    <li><a href="/business/">business</a>
+      <span class="subnav">
+        <a href="/2010/09/13/1463898/columbia-area-association-and.html">events calendar</a> |
+        <a href="http://thestatecom.typepad.com/cbj/">people &amp; achievements</a> |
+        <a href="http://www.thestate.com/20under40/">20 under 40</a> |
+        <a href="http://www.thestate.com/bol/">book of lists</a> |
+        <a href="/technology/">technology</a> |
+        <a href="/homes/">homes</a> |
+        <a href="/jobs/">jobs</a> |
+        <a href="http://www.thestateonline.com/legals/legalindex.php">legals</a>
+      </span>
     </li>
-    <li id="navLiving">
-      <a href="/living">living</a>
-      <ul>
-        <li><a href="http://www.legacy.com/TheState/Celebrations.asp">celebrations</a></li>
-        <li><a href="/health">health &amp; fitness</a></li>
-        <li><a href="/home/">home &amp; garden</a></li>
-        <li><a href="/life">food &amp; dining</a></li>
-        <li><a href="/movies/movie/index.html">movies</a></li>
-        <li><a href="/weekend">weekend</a></li>
-        <li><a href="/family">family ties</a></li>
-        <li><a href="/religion">Faith &amp; Values</a></li>
-        <li><a href="/livinghere/">living here</a></li>
-      </ul>
+    <li><a href="/living/">living</a>
+      <span class="subnav">
+        <a href="http://www.legacy.com/TheState/Celebrations.asp">celebrations</a> |
+        <a href="/health/">health &amp; fitness</a> |
+        <a href="/home/">home &amp; garden</a> |
+        <a href="/food/">food &amp; dining</a> |
+        <a href="/movies/movie/index.html">movies</a> |
+        <a href="/family/">family ties</a> |
+        <a href="/religion/">faith &amp; values</a> |
+        <a href="/livinghere/">living here</a> |
+        <a href="http://tv.yahoo.com/listings/" target="_blank">TV listings</a>
+      </span>
     </li>
-    <li id="navEntertainment">
-      <a href="/weekend">weekend</a>
-      <ul>
-        <li><a href="http://events.thestate.com/">events</a></li>
-        <li><a href="/comics">comics/games</a></li>
-        <li><a href="/horoscopes">horoscopes</a></li>
-        <li><a href="/movies/movie/index.html">movies</a></li>
-        <li><a href="/bloggers">blogs</a></li>
-        <li><a href="/magazines">Magazines</a></li>
-        <li><a href="http://www.thestate.com/entertainment-wire/index.html">Entertainment News</a></li>
-        <li><a href="http://tv.yahoo.com/listings" target="_blank">TV Listings</a></li>
-      </ul>
+    <li><a href="/weekend/">weekend</a>
+      <span class="subnav">
+        <a href="http://events.thestate.com/">events</a> |
+        <a href="/comics/">comics / games</a> |
+        <a href="/horoscopes/">horoscopes</a> |
+        <a href="/movies/movie/index.html">movies</a> |
+        <a href="/bloggers/">blogs</a> |
+        <a href="/magazines/">magazines</a> |
+        <a href="http://www.thestate.com/entertainment-wire/index.html">entertainment news</a>
+      </span>
     </li>
-    <li id="navOpinions">
-      <a href="/opinion">opinions</a>
-      <ul>
-        <li><a href="/letters">letters to the editor</a></li>
-        <li><a href="/bloggers">blogs</a></li>
-      </ul>
+    <li><a href="/opinion/">opinions</a>
+      <span class="subnav">
+        <a href="/letters/">letters to the editor</a> |
+        <a href="/bloggers/">blogs</a>
+      </span>
     </li>
-    <li id="navPhotos">
-      <a href="/photos">photos</a>
-      <ul>
-        <li><a href="/sportsgalleries">sports photos</a></li>
-        <li><a href="/gamecocks/photos">usc photos</a></li>
-        <li><a href="http://thestate.mycapture.com">buy photos</a></li>
-        <li><a href="http://photos.thestate.com">Your Photos</a></li>
-      </ul>
+    <li><a href="/photos/">photos</a>
+      <span class="subnav">
+        <a href="/sportsgalleries/">sports photos</a> |
+        <a href="http://www.gogamecocks.com/photos/">USC photos</a> |
+        <a href="http://thestate.mycapture.com/">buy photos</a> |
+        <a href="http://photos.thestate.com/">your photos</a>
+      </span>
     </li>
-    <li id="navVideos">
-      <a href="/videos">videos</a>
-      <ul>
-        <li><a href="/videos">videos</a></li>
-      </ul>
+    <li><a href="/videos/">videos</a></li>
+    <li><a href="http://www.legacy.com/obituaries/thestate/">obits</a></li>
+    <li><a href="http://newspaperads.thestate.com/">shop</a>
+      <span class="subnav">
+        <a href="http://thestate.mediawebconnect.com/">palmetto deals</a>
+      </span>
     </li>
-    <li id="navObits">
-      <a href="http://www.legacy.com/obituaries/thestate/">obits</a>
+    <li><a href="/classified-ads$">classifieds</a></li>
+    <li><a href="/homes/">homes</a>
+      <span class="subnav">
+        <a href="http://apartments.com/thestate/">apartments</a> |
+        <a href="http://www.thestate.com/515/">real estate videos</a> |
+        <a href="http://www.thestateonline.com/realestate/rew.pdf">real estate weekly</a>
+      </span>
     </li>
-    <li id="navShop">
-      <a href="http://newspaperads.thestate.com">shop</a>
-      <ul>
-        <li><a href="http://thestate.mediawebconnect.com/">Palmetto Deals</a></li>
-      </ul>
+    <li><a href="/jobs/">jobs</a>
+      <span class="subnav">
+        <a href="http://www.thestate.com/294/">jobs at the state</a>
+      </span>
     </li>
-    <li id="navClassifieds">
-      <a href="/classified-ads$">classifieds</a>
-    </li>
-    <li id="navHomes">
-      <a href="/homes">homes</a>
-      <ul>
-        <li><a href="http://apartments.com/thestate">Apartments</a></li>
-        <li><a href="http://www.thestate.com/515/">Real Estate Videos</a></li>
-        <li><a href="http://www.thestateonline.com/realestate/rew.pdf">Real Estate Weekly</a></li>
-      </ul>
-    </li>
-    <li id="navJobs">
-      <a href="/jobs">jobs</a>
-      <ul>
-        <li><a href="http://www.thestate.com/294/">Jobs at The State</a></li>
-      </ul>
-    </li>
-    <li id="navCars">
-      <a href="/209">cars</a>
-    </li>
-    <li class="placeAd">
-      <a href="/placead">place an ad</a>
-    </li>
+    <li><a href="/209/">cars</a></li>
+    <li><a href="/placead/">place ad</a></li>
   </ul>
 </div><!-- navigation -->
 
-<div class="clearing"></div>
+ 
+    </div> 
 
-
-
-
-  <script>
-    $( "li#" ).parent().parent("li").addClass( "current" ) ;
-    $( "li#" ).addClass( "current" ) ;
-  </script>
-
-
-     </div> 
     <div id="mi_content_container">
         <div id="mi_content">
              
+
 <div class="section_heading">
 
 	
@@ -578,11 +606,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 
 
+
 <a class="myYahooButton" href="http://us.rd.yahoo.com/my/atm/TheState.com/Privacy/*http://add.my.yahoo.com/rss?url=http://www.thestate.com/privacy-policy/index.rss">
     <img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" width="91" height="17" border="0" align="middle" alt="Add to My Yahoo!">
 </a>
 
- 		<a href="/privacy-policy/index.rss" class="rss">
+ 
+		<a href="/privacy-policy/index.rss" class="rss">
 			<img src="http://media.thestate.com/static/images/mi/icons/rss12x12.png" alt="RSS">
 		</a>
 	</div>
@@ -591,8 +621,12 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 </div>
  
-             <div class="static_content">
-          
+
+             
+<div class="static_content">
+     <div id="auto_section_top_feature">
+            </div>
+     
 <div class="static">
 <h1>Privacy Policy</h1>
 <h5>Effective Date: 9-28-09</h5>
@@ -699,7 +733,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 <p>If you have any questions or comments about our policies, we may be reached at TheState.com, 1401 Shop Road Columbia SC 29201-4843, at 803-771-6161 or at <a href="mailto:online@thestate.com">online@thestate.com</a>.</p>
 </div>
      </div>
-             <div id="content_match">
+ 
+            <div id="content_match">
                   <script type="text/javascript">
 <!--
 
@@ -712,7 +747,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
     ctxt_ad_height = 150;     //height of the displayed ad block
     
 //Context Parameters
-    ctxt_ad_url = window.location.href;     //context URL
+    ctxt_ad_url = window.location.href.split('?')[0].split('#')[0];     //context URL
     ctxt_ad_url_cat = 'news';     //fallback category name
     ctxt_ad_id = 'news';     //context ID name
     ctxt_ad_keywords = '';     //keywords (URL safe values only)
@@ -733,9 +768,10 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 -->
 </script>
 
- <script language="Javascript">
+ <script type="text/javascript">
 <!--
 //Required Parameters
+	ctxt_ad_config = '1001507650';     //unique numeric partner id
     ctxt_ad_source = 'npc_mcclatchy_thestate_t2_ctxt';     //provided by Account Manager
 
 //Context Parameters
@@ -747,136 +783,99 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 -->
 </script>
 <script language="javascript" src="http://cm.npc-mcclatchy.overture.com/partner/js/ypn.js"></script>
-             </div>         </div>         <div id="mi_sidebar">
+             </div> 
+        </div> 
+        <div id="mi_sidebar">
             
 
 
        	 
-<!-- START /registration/newsletter_link_sidebar.comp -->
 
-<!-- START /registration/newsletter_rotate_links.comp -->
 
 <script type="text/javascript">
-  var now = new Date();
-  var my_day = now.getDay();  // day of the week (0-6, 0=Sunday)
-  var my_time = now.getHours();  // current hour (0-23, 0=midnight)
-  var nl_codes = new Array();
-    nl_codes[0] = 'breaking_news';
-    nl_codes[1] = 'am_newsletter';
-    nl_codes[2] = 'pm_newsletter';
-    nl_codes[3] = 'am_sc_biz';
-    nl_codes[4] = 'gg_newsletter';
-    nl_codes[5] = 'special_offers';
-  var nl_names = new Array();
-    nl_names[0] = 'Breaking News';
-    nl_names[1] = 'AM Headlines Newsletter';
-    nl_names[2] = 'PM Headlines Newsletter';
-    nl_names[3] = 'SC Business Report';
-    nl_names[4] = 'GoGamecocks Newsletter';
-    nl_names[5] = 'Special Offer Discount Deals';
-  var nl_blurbs = new Array();
-    nl_blurbs[0] = "Breaking news, weather and information from the Midlands and around the State. As events warrant, TheState.com will e-mail you the latest breaking news headlines. Find out news that may affect your daily life: commuter issues such as accidents and road closures, school closings and headlines of the day. You'll have access to The State's award-winning breaking news coverage delivered right to your in-box.";
-    nl_blurbs[1] = "Each morning, seven days a week, TheState.com will e-mail you the latest news from the Midlands and from around the State of South Carolina. You'll have access to The State's award-winning news coverage delivered right to your in-box.";
-    nl_blurbs[2] = "Each afternoon, seven days a week, TheState.com will e-mail you the latest news from the Midlands and from around the State of South Carolina. You'll have access to The State's award-winning news coverage delivered right to your in-box.";
-    nl_blurbs[3] = "Each morning, Monday through Friday, TheState.com will e-mail you the latest business news from around the Palmetto State. You'll have access to The State's award-winning business coverage delivered right to your in-box.";
-    nl_blurbs[4] = "The preeminent source for Gamecocks sports news and information. Each day, TheState.com will e-mail you the latest USC sports news. You'll have access to The State's award-winning sports coverage delivered right to your in-box.";
-    nl_blurbs[5] = "The best deals in the Midlands delivered right to your e-mailbox! Start receiving special offers, discounts and coupons from local retailers, entertainment venues and more, all from partners of The State Media Company. Don't go looking for the best deals, just open your e-mail!";
-  var nl_link;
-  var account_user_name_nl = getInsiteUserName( insitecookie );
+  function showNewsletterLink() {
+    var newsletters = new Array();
+    newsletters[0] = new Array('breaking_news', 'Breaking News');
+    newsletters[1] = new Array('am_newsletter', 'AM Headlines Newsletter');
+    newsletters[2] = new Array('pm_newsletter', 'PM Headlines Newsletter');
+    var insiteUser= getInsiteUserName(insitecookie);
+    var version = '';  // cgi-bin program version
+    var nl_code = '';  // newsletter code
+    var nl_name = '';  // newsletter name
+    if (insiteUser == -1) {
+      version = 'int.cgi';  // not a member or not logged-in
+    } else {
+      version = 'tint.cgi';  // members logged-in
+    }
+    var rightNow = new Date();  // returns current date/time
+    var d = rightNow.getDate();  // returns day of the month as integer 1-31
+    var h = rightNow.getHours();  // returns hours as integer 0-23
+    if (d%2 == 0) {
+      nl_code = newsletters[0][0];  // show breaking news link on even days
+      nl_name = newsletters[0][1];
+    } else {
+      if (h < 12) {
+        nl_code = newsletters[1][0];  // show am headlines odd days (morning)
+        nl_name = newsletters[1][1];
+      } else {
+        nl_code = newsletters[2][0];  // show pm headlines odd days (afternoon/evening)
+        nl_name = newsletters[2][1];
+      }
+    }
+    $("#newsletter_link").empty();  // clear any previous link content
+    $("#newsletter_link").append('<a href="http://www.thestate.com/reg-bin/'+version+'?mode=register&version=oneclick&sub_action=done&nl_code='+nl_code+'&nl_name='+encodeURI(nl_name)+'#newsletters" target="sign-up">Get the '+nl_name+'</a>');
+  }
 </script>
 
-<!-- where are we (section)? -->
+                    <!-- START /registration/newsletter_link.comp -->
 
-<!-- sort: 1) by section, time of day; 2) by day, time of day -->
+                                 
 
-    <script type="text/javascript">
-      if ( ( my_day == 0) || ( my_day == 4) ) {
-        //  Sunday and Thursday:  Breaking News
-        nl_code = nl_codes[0];
-        nl_name = nl_names[0];
-        nl_blurb = nl_blurbs[0];
-      } else if ( ( my_day == 1 ) || ( my_day == 6 ) ) {
-        //  Monday and Saturday:  Morning or Afternoon Newsletter
-        if ( my_time < 12 ) {
-          nl_code = nl_codes[1];
-          nl_name = nl_names[1];
-          nl_blurb = nl_blurbs[1];
-        } else {
-          nl_code = nl_codes[2];
-          nl_name = nl_names[2];
-          nl_blurb = nl_blurbs[2];
-        }
-      } else if ( ( my_day == 2 ) || (my_day == 5 ) ) {
-        //  Tuesday and Friday:  Business Newsletter 
-        nl_code = nl_codes[3];
-        nl_name = nl_names[3];
-        nl_blurb = nl_blurbs[3];
-      } else {
-        //  Wednesday:  Business Newsletter
-        nl_code = nl_codes[3];
-        nl_name = nl_names[3];
-        nl_blurb = nl_blurbs[3];
-      }
-    </script>
+<div id="newsletter_subscribe">
+  <p>The news you want delivered to your e-mail!<br>
+  <span id="newsletter_link"></span></p>
+</div><!-- /#newsletter_subscribe -->
+<script type="text/javascript">showNewsletterLink();</script>
 
-  
+                    <!-- END /registration/newsletter_link.comp -->
 
-<!-- END /registration/newsletter_rotate_links.comp -->
+                                 
 
-<style type="text/css">
-    #newsletter_link p {text-align: center;}
-</style>
-
-<div id="newsletter_link">
-    <script type="text/javascript">
-        document.write("<br /><p><strong>The news you want delivered to your e-mail!</strong><br />");
-        nl_name_encoded = encodeURI( nl_name );
-        if ( -1 == account_user_name_nl ) {
-            // people not registered or not logged in
-            document.write("<a href=\"http://www.thestate.com/reg-bin/int.cgi?mode=register&version=oneclick&sub_action=done&nl_code="+nl_code+"&nl_name="+nl_name_encoded+"#newsletters\" target=\"signup\">Get the <strong>"+nl_name+"</strong></a>.");
-        } else {
-            // people who are already logged in
-            document.write("<a href=\"http://www.thestate.com/reg-bin/tint.cgi?mode=edit&version=oneclick&sub_action=done&nl_code="+nl_code+"&nl_name="+nl_name_encoded+"#newsletters\" target=\"signup\">Add the <strong>"+nl_name+"</strong> to your e-mail subscriptions.</a>");
-        }
-    </script><br><p><strong>The news you want delivered to your e-mail!</strong><br><a href="http://www.thestate.com/reg-bin/tint.cgi?mode=edit&amp;version=oneclick&amp;sub_action=done&amp;nl_code=am_sc_biz&amp;nl_name=SC%20Business%20Report#newsletters" target="signup">Add the <strong>SC Business Report</strong> to your e-mail subscriptions.</a>
-    </p>
-</div><!-- newsletter_link -->
-
-<!-- END /registration/newsletter_link_sidebar.comp -->
- <div id="userTemplate" class="currentUser" style="display: none;">
-	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar"></a>
-
-	<div id="pluckAvatarControls">
-		<div id="top">
-			<div id="pluckWelcomeMsg">Welcome 
-				<script type="text/javascript">
-					var user_run_mode = '';
-					document.write('<a class="pluckUser" href="/reg-bin/tint.cgi?mode=edit">' + account_user_name + '<\/a>');
-				</script>
-			</div>
-                        <div id="pluckLogOut"><a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Log Out</a></div>
-			<div id="pluckMyAccount"><a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">My Account</a></div>
-			<div id="pluckMyProfile"><a id="pluckMyProfile" href="/personas/?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@">My Profile</a></div>
-		</div>
-		<div class="clear"></div>
+    
+    <div id="HeraldPluckLogin">
+<div id="userTemplate" class="currentUser" style="display:none;width:240px;padding-top:25px;">
+	<div id="pluckAvatarControls-R1">
+		<script type="text/javascript">
+			document.write(' <a id="pluckWelcomeMsg" href="/reg-bin/tint.cgi?mode=edit">Welcome <strong>' + account_user_name + '</strong><\/a>');
+		</script>
+		<a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Sign Out</a>
 	</div>
+	<div style="clear: both;"></div>
 </div>
-<div id="anonTemplate" class="currentUser" style="display: none;">
-	<img src="http://media.thestate.com/static/images/mi/pluck/default-user-image.gif" alt="current user avatar">
-	<div id="pluckAvatarControls">
-		<div id="top">
-			<div id="pluckWelcomeMsg">Welcome <span class="pluckUser">Guest</span></div>
-                        <div id="pluckSignIn"><a id="pluckSignIn" href="/static/insite/login.html">Sign In</a></div>
-			<div id="pluckBecomeMember"><a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register">Become A Member</a></div>
-		</div>
-	</div>
-	<div class="clear"></div>
+
+<div id="anonTemplate" class="currentUser" style="display: none;width:240px;padding-top:10px;">
+	<a id="pluckSignIn" href="/static/insite/login.html" style="font-weight:bold;">SIGN IN</a> <a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register" style="font-weight:bold;">BECOME A MEMBER</a>
+	<div style="clear: both;"></div>
 </div>
+
+<script type="text/javascript">
+$(document).ready( function(){
+  $("#anonTemplate").hide();
+  $("#userTemplate").hide();
+   if( 'Guest' == account_user_name ){
+      $("#anonTemplate").show();
+   } else {
+      $("#userTemplate").show();
+   }
+});
+</script>
+</div>
+    
+
 
 <div class="clear"></div>
-<div id="AvatarOutput_dynamicContent" class="currentUser" style="display: none;"></div>
- <div class="clear"></div>
  
+
 
 
         <div class="advertisement" id="yahoo_300x250_ipatf_1">
@@ -886,7 +885,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 --></script>
         </div>
     
- <!-- career builder -->
+ 
+<!-- career builder -->
 <div class="block careerbuilder">
   <div class="cb_block">
     <!-- quick search -->
@@ -1105,6 +1105,10 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
   </div>
 </div>
 <!-- /career builder -->
+<!-- Facebook Like Box -->
+<div id="fb_like_box">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthestatenews&amp;width=300&amp;colorscheme=light&amp;connections=10&amp;stream=false&amp;header=false&amp;height=270" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:270px;" allowtransparency="false"></iframe>
+</div>
 <style type="text/css">
 
 #TextLinkAds .title {
@@ -1160,16 +1164,20 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
  
 
+
         </div> 
+
 	<div class="clear"></div>
 
     </div> 
+
     <div id="mi_footer">
         
 
 
 
        	 
+
 <div id="sitemap">
   <div class="title">SITE MAP</div>
   <div class="column">
@@ -1251,7 +1259,15 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
 
 
+
+
+    
+    <!-- no disqus report abuse widget -->
+    
+
+
  
+
 
 
 <div id="mi_legal">
@@ -1266,50 +1282,18 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
   </ul>
 </div>
 
-    </div> </div> 
- <script type="text/javascript" src="http://media.thestate.com/scripts/mi/third_party/jquery/jquery.cycle.all.pack-2.22.js">
-</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.2/jquery-ui.min.js">
-</script>
-<script type="text/javascript" src="http://media.thestate.com/scripts/mi/hoverIntent.js">
-</script>
-<script type="text/javascript" src="http://media.thestate.com/scripts/mi/third_party/jquery/jquery.ifixpng.js">
-</script>
-<script type="text/javascript" src="http://media.thestate.com/scripts/mi/superfish.js">
-</script>
-<script type="text/javascript" src="http://media.thestate.com/scripts/mi/third_party/jquery/jquery.bgiframe.min.js">
-</script>
+    </div> 
+</div> 
 
-<script type="text/javascript" src="http://media.thestate.com/scripts/mi/thickbox.js">
-</script>
-<script type="text/javascript" src="http://media.thestate.com/scripts/mi/third_party/jquery/jquery.jcarousel.pack.js">
-</script>
+ 
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://media.thestate.com/scripts/mi/thickbox.js"></script>
 
 <script type="text/javascript">
-
-$(document).ready(function(){
-                        $("ul.nav").superfish({
-                                pathClass : 'current',
-                                animation : {opacity:'show'},
-                                delay : 1000
-                        });
-                });
-$(document).ready(function(){
-                        $("ul.sfHover").superfish({
-                                pathClass : 'current',
-                                animation : {opacity:'show'},
-                                delay : 1000
-                        });
-                });
-
-$(document).ready(function(){
-	$(".mi_tabs > ul").tabs();
-});
-
-$(document).ready(function() {
-        $('img[@src$=.png]').ifixpng();
-});
-
+  $(document).ready(function(){
+    $(".mi_tabs > ul").tabs();
+  });
 </script>
 
 <script type="text/javascript">
@@ -1324,7 +1308,26 @@ $(document).ready(function() {
            );
        });
   </script>
+
+<!-- script to stripe tables made in tableizer -->
+
+<script type="text/javascript">
+function tableStriper(theTable,last){
+var theTable=document.getElementById(tableName);
+var rows=theTable.getElementsByTagName('tr');
+var i; for (i=2;i<rows.length;i++){
+  if (i%2)
+    rows[i].className='tableizer-odd'
+  else 
+    rows[i].className='tableizer-even'
+  }
+if (last=='y'){
+  rows[rows.length-1].className='tableizer-last'
+  }
+}
+</script>
  
+
 
 
        	
@@ -1361,7 +1364,7 @@ mistats.channel='Privacy';
 <script type="text/javascript" src="http://media.thestate.com/mistats/products/pubsys.js"></script>
 <script type="text/javascript" src="http://media.thestate.com/mistats/finalizestats.js"></script>
 
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmcolumbia/1/H.10--NS/0?pageName=Section:%20Privacy&server=www.thestate.com&channel=Privacy&c1=http%26%2358;%26%2347;%26%2347;www.thestate.com%26%2347;260%26%2347;index.html&c3=Section&c4=&c6=sta%7Cthestate&c28=&h1=STA%7CTHESTATE%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmcolumbia%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy&server%3Dwww.thestate.com&channel%3DPrivacy&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.thestate.com%26%2347%3B260%26%2347%3Bindex.html&c3%3DSection&c4%3D&c6%3Dsta%7Cthestate&c28%3D&h1%3DSTA%7CTHESTATE%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy" height="1" width="1" border="0" alt="" /></noscript>
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
 
