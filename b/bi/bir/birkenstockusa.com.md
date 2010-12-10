@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birkenstockusa.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112041803id_/http%3A//www.birkenstockusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birkenstockusa.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210102819id_/http%3A//birkenstockusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birkenstock USA Official Site
 
