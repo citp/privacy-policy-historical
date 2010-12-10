@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628145702id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210075634id_/http%3A//studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
 
-# Studyabroad.com Privacy Policy
-
-**EducationDynamics, LLC  
-StudyAbroad.com  
-Pricavy Policy**
+# privacy - Study Abroad and Study Abroad Programs with StudyAbroad.com
 
 Thank you for visiting StudyAbroad.com (hereinafter referred to as "the Site"), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as "EducationDynamics," "us," "our," or "we"), and reviewing our Privacy Policy, effective August 25, 2008. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
@@ -26,14 +22,14 @@ Generally, EducationDynamics collects information in several ways. Some informat
 
 Data collection devices, "cookies" (including without limitation "confirmation pixels" for crediting affiliate marketers and/or for other purposes) are used to store, and sometimes track, information about you. Generally, cookies help provide personalized services and promote trust and safety. A cookie is a small file containing a small amount of data that is sent to your browser from a web server and placed on your computer's hard drive to assist us in providing our services. All pages on the Site where you are prompted to login or that are customizable may require that you accept cookies. Our cookies are only read by the server that placed them and are unable to execute any code or virus. More specifically, we may use cookies to:
 
-  1. Remind us of who you are when you login and to access your account information in order to deliver to you a more personalized service;
-  2. Allow you to enter your password less frequently during a session;
-  3. Measure your visiting patterns and education-related parameters in the aggregate. Aggregate data (data gathered across all user accounts) may be gathered in a non-personally identifiable form to build higher quality online services by performing statistical analyses of the collective characteristics and behavior of our visitors, such as how long and how often users view certain pages;
-  4. Determine your clickstream to the Site;
-  5. Better personalize the content that you and other users will see on the Site;
-  6. Collect IP addresses and log-in information for system administration;
-  7. Automatically share some information with Google Analytics and other analytics programs to analyze a broad range of information. However, the analytics are exclusively for our internal use to better manage the website experience for our visitors and evaluate advertising strategies and tactics; and
-  8. Other purposes to assist us in delivering the highest quality service possible.
+  1. Remind us of who you are when you login and to access your account information in order to deliver to you a more personalized service; 
+  2. Allow you to enter your password less frequently during a session; 
+  3. Measure your visiting patterns and education-related parameters in the aggregate. Aggregate data (data gathered across all user accounts) may be gathered in a non-personally identifiable form to build higher quality online services by performing statistical analyses of the collective characteristics and behavior of our visitors, such as how long and how often users view certain pages; 
+  4. Determine your clickstream to the Site; 
+  5. Better personalize the content that you and other users will see on the Site; 
+  6. Collect IP addresses and log-in information for system administration; 
+  7. Automatically share some information with Google Analytics and other analytics programs to analyze a broad range of information. However, the analytics are exclusively for our internal use to better manage the website experience for our visitors and evaluate advertising strategies and tactics; and 
+  8. Other purposes to assist us in delivering the highest quality service possible. 
 
 
 
@@ -83,7 +79,7 @@ If you are a registered user of the Site, your registration/account information 
 
 **Additional Information**
 
-Any questions regarding this statement should be directed to [info@StudyAbroad.com](mailto:info@StudyAbroad.com).
+Any questions regarding this statement should be directed to [info@StudyAbroad.com](mailto:info@StudyAbroad.com).
 
 This Policy, and the relevant User Agreement, are the sole authorized statements of EducationDynamics's practices with respect to the online collection of personally identifiable information and the usage of such information. Any summaries of this Policy generated by third party software or otherwise shall have no legal effect, are in no way binding upon EducationDynamics, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy.
 
@@ -91,17 +87,17 @@ EducationDynamics reserves the right to transfer any and all information that we
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible.
 
-The terms of this Privacy Policy are enforced by Dozier Internet Law, P.C.: <http://www.cybertriallawyer.com/>
+The terms of this Privacy Policy are enforced by Dozier Internet Law, P.C.: <http://www.cybertriallawyer.com/>
 
 **Contact details**
 
 If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
 
 Contact Name: EducationDynamics  
-Address: 1350 Edgmont Avenue, Suite 1200, Chester, PA 19013 USA  
-PH: 1-484-766-2900  
+Address: 1350 Edgemont Avenue, Suite 1100, Chester, PA 19013 USA  
+PH: 1-484-766-2930  
 FAX: 1-610-499-9205  
-E-mail: [info@StudyAbroad.com](mailto:info@StudyAbroad.com)  
-URL: [www.EducationDynamics.com](http://www.educationdynamics.com/)
+E-mail: [info@StudyAbroad.com](mailto:info@StudyAbroad.com)  
+URL: [www.EducationDynamics.com/](http://www.educationdynamics.com/)
 
-EducationDynamics reserves the right to modify or supplement this Privacy Policy statement at any time. 
+EducationDynamics reserves the right to modify or supplement this Privacy Policy statement at any time.
