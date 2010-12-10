@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersmint.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509042239id_/http%3A//www.gamersmint.com/%3Fpage_id%3D603) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersmint.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210065709id_/http%3A//www.gamersmint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamersMint
 
