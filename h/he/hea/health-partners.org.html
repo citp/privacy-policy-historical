@@ -1,0 +1,799 @@
+<!--The following is the downloaded HTML source of the health-partners.org privacy policy that was archived on 2010-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101211042937id_/http%3A//www.health-partners.org/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>
+Privacy Statement
+</title>
+<!-- begin keywords -->
+<meta http-equiv="Keywords" name="Keywords" content="">
+<!-- end keywords -->
+<!-- begin desc -->
+<meta http-equiv="Description" name="Description" content="">
+<!-- end desc -->
+<link href="css/main.css" rel="stylesheet" type="text/css">
+
+    <script language="javascript" type="text/javascript">
+    var blnHide = false;
+    var intWord0 = 0;
+var intWord1 = 0;
+var intWord2 = 0;
+var intWord3 = 0;
+
+    var intTotalWordCnt = 0;
+	var sPrevWord = "";
+    /* http://www.kryogenix.org/code/browser/searchhi/ */
+    /* Modified 20021006 to fix query string parsing and add case insensitivity */
+    /* Modified 20070316 to stop highlighting inside nosearchhi nodes */
+    function highlightWord(node,word) {
+	    // Iterate into this nodes childNodes
+	    if (node.hasChildNodes) {
+		    var hi_cn;
+		    for (hi_cn=0;hi_cn<node.childNodes.length;hi_cn++) {
+			    highlightWord(node.childNodes[hi_cn],word);
+		    }
+	    }
+
+	    // And do this node itself
+	    if (node.nodeType == 3) { // text node
+		    tempNodeVal = node.nodeValue.toLowerCase();
+		    tempWordVal = word.toLowerCase();
+		    //alert(tempWordVal);
+    		
+		    if (tempNodeVal.indexOf(tempWordVal) != -1) {
+			    pn = node.parentNode;
+			    // check if we're inside a "nosearchhi" zone
+			    checkn = pn;
+			    while (checkn.nodeType != 9 && checkn.nodeName.toLowerCase() != 'body') { 
+			    // 9 = top of doc
+			        //alert(checkn.nodeName);
+				    //if (checkn.className.match(/\bnosearchhi\b/)) { return; }
+				    if (checkn.nodeName == "A") { return; }
+				    if (checkn.nodeName == "B") { return; }
+				    if (checkn.nodeName == "OPTION") { return; }
+				    if (checkn.nodeName == "FONT" && pn.className == "titlePLUS") { return; }
+					
+				    //<span style="font-family: Arial, Verdana, Helvetica, Comic Sans MS, serif; color:#FFFFFF; font-size:18;text-decoration:none;font-weight:bold;">WHAT IS CANCER AND HOW IS IT DIAGNOSED?</span>
+    				
+				    if (checkn.nodeName == "SPAN") { return; }
+    				if (checkn.nodeName == "script") { return; }
+					if (checkn.nodeName == "SCRIPT") { return; }
+				    checkn = checkn.parentNode;
+			    }
+    			
+    			
+    		    
+    			
+		        if (pn.className != "searchHighLight") {
+                    if(tempWordVal == 'quality'){
+intWord0++;
+}
+if(tempWordVal == 'diversity'){
+intWord1++;
+}
+if(tempWordVal == 'community benefit'){
+intWord2++;
+}
+if(tempWordVal == 'outstanding employer'){
+intWord3++;
+}
+
+		            // word has not already been highlighted!
+		            nv = node.nodeValue;
+		            ni = tempNodeVal.indexOf(tempWordVal);
+		            // Create a load of replacement nodes
+		            before = document.createTextNode(nv.substr(0,ni));
+		            docWordVal = nv.substr(ni,word.length);
+		            after = document.createTextNode(nv.substr(ni+word.length));
+		            hiwordtext = document.createTextNode(docWordVal);
+    		        
+    				
+		            //for each item in array
+    				
+		            if(tempWordVal == 'quality' && intWord0 < 2 && intTotalWordCnt < 5){
+intTotalWordCnt++;
+hiword = document.createElement("A");
+hiword.setAttribute("href","#");
+hiword.addEventListener('mouseover', function() {ajaxFunction('quality','21')},false);
+hiword.addEventListener('mouseout', initHide,false);
+hiword.className = "searchHighLight";
+hiword.appendChild(hiwordtext);
+pn.insertBefore(before,node);
+pn.insertBefore(hiword,node);
+pn.insertBefore(after,node);
+pn.removeChild(node);
+}
+if(tempWordVal == 'diversity' && intWord1 < 2 && intTotalWordCnt < 5){
+intTotalWordCnt++;
+hiword = document.createElement("A");
+hiword.setAttribute("href","#");
+hiword.addEventListener('mouseover', function() {ajaxFunction('diversity','22')},false);
+hiword.addEventListener('mouseout', initHide,false);
+hiword.className = "searchHighLight";
+hiword.appendChild(hiwordtext);
+pn.insertBefore(before,node);
+pn.insertBefore(hiword,node);
+pn.insertBefore(after,node);
+pn.removeChild(node);
+}
+if(tempWordVal == 'community benefit' && intWord2 < 2 && intTotalWordCnt < 5){
+intTotalWordCnt++;
+hiword = document.createElement("A");
+hiword.setAttribute("href","#");
+hiword.addEventListener('mouseover', function() {ajaxFunction('community benefit','23')},false);
+hiword.addEventListener('mouseout', initHide,false);
+hiword.className = "searchHighLight";
+hiword.appendChild(hiwordtext);
+pn.insertBefore(before,node);
+pn.insertBefore(hiword,node);
+pn.insertBefore(after,node);
+pn.removeChild(node);
+}
+if(tempWordVal == 'outstanding employer' && intWord3 < 2 && intTotalWordCnt < 5){
+intTotalWordCnt++;
+hiword = document.createElement("A");
+hiword.setAttribute("href","#");
+hiword.addEventListener('mouseover', function() {ajaxFunction('outstanding employer','24')},false);
+hiword.addEventListener('mouseout', initHide,false);
+hiword.className = "searchHighLight";
+hiword.appendChild(hiwordtext);
+pn.insertBefore(before,node);
+pn.insertBefore(hiword,node);
+pn.insertBefore(after,node);
+pn.removeChild(node);
+}
+
+			    }
+		    }
+	    }
+    }
+
+    function googleSearchHighlight() {
+
+
+
+
+    <!-- Original:  CodeLifter.com (support@codelifter.com) -->
+    <!-- Web Site:  http://www.codelifter.com -->
+
+    <!-- This script and many more are available free online at -->
+    <!-- The JavaScript Source!! http://javascript.internet.com -->
+
+    <!-- Begin
+    var IE = document.all?true:false;
+    //if (!IE) document.captureEvents(Event.MOUSEMOVE)
+	if (!IE) document.addEventListener("mousemove",getMouseXY,false)
+    document.onmousemove = getMouseXY;
+    var tempX = 0;
+    var tempY = 0;
+    function getMouseXY(e) {
+    if (IE) { // grab the x-y pos.s if browser is IE
+    tempX = event.clientX + document.body.scrollLeft;
+    tempY = event.clientY + document.body.scrollTop;
+    }
+    else {  // grab the x-y pos.s if browser is NS
+    tempX = e.pageX;
+    tempY = e.pageY;
+    }  
+    if (tempX < 0){tempX = 0;}
+    if (tempY < 0){tempY = 0;}  
+    document.frmPopSearch.MouseX.value = tempX;
+    document.frmPopSearch.MouseY.value = tempY;
+    return true;
+    }
+    //  End -->
+
+        if (!document.createElement) return;
+	    ref = document.URL;
+		var words = new Array();
+			words[0] = 'quality';
+words[1] = 'diversity';
+words[2] = 'community benefit';
+words[3] = 'outstanding employer';
+
+            for (w=0;w<words.length;w++) {
+                highlightWord(document.getElementsByTagName("body")[0],words[w]);
+            }
+    }
+
+
+    function openBox(){ 
+        if(document.getElementById('movmenu').style.visibility == 'hidden'){
+            document.getElementById('movmenu').style.top = Number(document.frmPopSearch.MouseY.value) - 10;
+            document.getElementById('movmenu').style.left = Number(document.frmPopSearch.MouseX.value) - 10;
+            document.getElementById('movmenu').style.visibility = 'visible';
+        }else{
+            self.setTimeout('closePopDiv()', 600);
+        }
+    }
+
+    function closePopDiv(){
+	    if(blnHide == true){             
+		    document.getElementById('movmenu').style.visibility = 'hidden';
+		    blnHide = false;             
+	    }             
+	    return false;             
+    }             
+                 
+    function stopHide(){             
+	    blnHide = false;             
+    }             
+                 
+    function initHide(){             
+	    blnHide = true;             
+    }             
+
+      
+    function ajaxFunction(tmpKeyword,tmpID)
+    {  
+        document.frmPopSearch.keyword.value = tmpKeyword;
+          var xmlHttp;
+          var tmpOut;
+            tmpOut = tmpKeyword;
+          
+          try
+            {    // Firefox, Opera 8.0+, Safari
+	        xmlHttp=new XMLHttpRequest();    
+	        }
+          catch (e)
+            {    // Internet Explorer
+	        try
+              {
+	          xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+	          }
+            catch (e)
+              {
+	          try
+                {
+		        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");        
+		        }
+              catch (e)
+                {
+		        alert("Your browser does not support AJAX!");
+		        return false;        
+		        }      
+		        }    
+		        }
+            xmlHttp.onreadystatechange=function()
+              {
+              
+              
+              
+              if(xmlHttp.readyState==4)
+                {
+		        var tmpVar = xmlHttp.responseText;
+		        var tmpArray = tmpVar.split("<td>");
+		        if(tmpOut.length >= 1){
+		            if(tmpVar != ''){
+            	        document.getElementById('ajax').innerHTML = tmpVar;
+		                openBox();
+		            }else{
+		                //deleteLayer('LYR1');
+		            }
+		        }else{
+		            //deleteLayer('LYR1');
+		        }
+                }
+              }
+        	  
+        	  
+	          if(tmpOut.length >= 1){
+    		        xmlHttp.open("GET","inc/keyword_search.asp?id=12/10/2010 11:30:46 PM&txtID="+tmpID+"&txtinput="+tmpOut+"&ran="+Math.random(),true);
+    		        xmlHttp.send(null);
+	        }
+	    }
+
+
+    window.onload = googleSearchHighlight;
+    </script>
+
+
+
+    </head><body><div id="movmenu" style="position:absolute;visibility:hidden;left:20px; top:20px; z-index:2">
+        <form name="frmPopSearch" action="new_search_site_results.asp" method="post">
+        <input type="hidden" name="MouseX" value="0">
+        <input type="hidden" name="MouseY" value="0">
+        <table border="0" bgcolor="#004562" cellpadding="0" cellspacing="0" style="border:solid;border-color:#00658F;border-width:1px;" onmouseover="stopHide();" onmouseout="initHide();openBox();">
+            <tbody><tr>
+                <td colspan="2" height="100%" bgcolor="#ffffff">
+                   <div id="ajax">
+                   </div>
+                </td>
+            </tr>
+            <tr>
+                <td height="30" align="right">
+                    &nbsp;<span style="color:#fff; font-weight:bold;font-size:10pt;">Search:</span>&nbsp;<input style="border:solid 1px #000;background-color:#FFFFCD;color:#03455D;" type="text" name="keyword" size="25">&nbsp;
+                </td>
+                <td valign="middle">
+                    <input type="image" src="img/btn_go.gif">&nbsp;
+                </td>
+            </tr>
+        </tbody></table>
+        </form>
+    </div>
+
+    <style type="text/css">
+        a.searchHighLight:link {text-decoration:underline; color:#696969;}
+        a.searchHighLight:visited {text-decoration:underline;color:#696969;}
+        a.searchHighLight:hover {text-decoration:underline;color:#696969;}
+    </style>
+    
+<script type="text/javascript" src="js/milonic_src.js"></script><style>.milonic{width:1px;visibility:hidden;position:absolute}</style>	
+<script type="text/javascript">
+    if(ns4)_d.write("<scr"+"ipt type=text/javascript src=js/mmenuns4.js><\/scr"+"ipt>");		
+else _d.write("<scr"+"ipt type=text/javascript src=js/mmenudom.js><\/scr"+"ipt>"); 
+</script><script type="text/javascript" src="js/mmenudom.js"></script><script>function $9(ap){return _f}</script>
+<script language="javascript">
+	function sendSearch(){
+		var sSearchTerm = document.all.mainkeyword.value;
+		if(sSearchTerm.length > 0){
+			window.location.href = "New_search_site_results.asp?keyword="+sSearchTerm;
+		}else{
+			alert('Please enter a keyword or phrase before submitting.');
+		}
+	}
+	
+	function searchDeselect(){
+		if(document.all.mainkeyword.value != "search"){	
+			document.all.mainkeyword.value = "";
+			document.all.mainkeyword.focus();
+		}
+	}
+</script>
+
+	<div id="wrapper">
+        <div id="header">
+			<a href="default.asp"><img src="img/logo2.gif" border="0" alt="logo" style="float:left;margin-top:6px;margin-left:15px;"></a>
+			<div style="float:right;padding-right:30px;margin-top:35px;">
+				
+					<div style="float:right;margin-left:5px;">
+						<input type="image" id="btnGO" src="img/btn_go.gif" onclick="Javascript:sendSearch();">
+					</div>
+					<div style="float:right;">
+						<input type="text" name="mainkeyword" size="30" style="border:solid 1px #000;background-color:#FFFFCD;color:#03455D;" value="SEARCH" onfocus="Javascript:searchDeselect();">
+					</div>
+				
+				<a href="pdfs/chp_at_a_glance.pdf" target="_blank"><img src="img/atAGlance.gif" alt="at glance" style="float:right;clear:both;border:0px"></a>
+			</div>
+		</div>
+        <div id="menu">
+            
+			<script type="text/javascript" src="js/main_menu.asp"></script><div class="mmenu" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return _f" id="menu0" style="padding: 0px; background: rgb(215, 230, 230); border: 0px solid rgb(255, 0, 0); width: 990px; z-index: 999; visibility: visible;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl0"><tbody><tr><td id="el0" onmouseover="h$(0)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl0"><tbody><tr id="td0"><td id="_imgO0"><img onload="_p2(0)" border="0" style="display:block" id="img0" src="img/home_off.gif"></td></tr></tbody></table></td><td id="sep0" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el1" onmouseover="h$(1)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl1"><tbody><tr id="td1"><td id="_imgO1"><img onload="_p2(0)" border="0" style="display:block" id="img1" src="img/About_Us_off.gif"></td></tr></tbody></table></td><td id="sep1" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el2" onmouseover="h$(2)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl2"><tbody><tr id="td2"><td id="_imgO2"><img onload="_p2(0)" border="0" style="display:block" id="img2" src="img/High_Quality_Care_off.gif"></td></tr></tbody></table></td><td id="sep2" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el3" onmouseover="h$(3)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl3"><tbody><tr id="td3"><td id="_imgO3"><img onload="_p2(0)" border="0" style="display:block" id="img3" src="img/For_Physicians_off.gif"></td></tr></tbody></table></td><td id="sep3" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el4" onmouseover="h$(4)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl4"><tbody><tr id="td4"><td id="_imgO4"><img onload="_p2(0)" border="0" style="display:block" id="img4" src="img/Join_Our_Team_off.gif"></td></tr></tbody></table></td><td id="sep4" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el5" onmouseover="h$(5)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl5"><tbody><tr id="td5"><td id="_imgO5"><img onload="_p2(0)" border="0" style="display:block" id="img5" src="img/For_Investors_off.gif"></td></tr></tbody></table></td><td id="sep5" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el6" onmouseover="h$(6)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl6"><tbody><tr id="td6"><td id="_imgO6"><img onload="_p2(0)" border="0" style="display:block" id="img6" src="img/Newsroom_off.gif"></td></tr></tbody></table></td><td id="sep6" style="padding:0px;width:1px;;background:#C3D1C2"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td id="el7" onmouseover="h$(7)" style="padding:0px;background:#D7E6E6;height:100%;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl7"><tbody><tr id="td7"><td id="_imgO7"><img onload="_p2(0)" border="0" style="display:block" id="img7" src="img/Contact_Us_off.gif"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onmouseout="hidetip()" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot);return $L(this._itemRef)" style="line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return _f" id="menu1" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return _f" id="menu2" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return _f" id="menu3" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return _f" id="menu4" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return _f" id="menu5" style="padding:0px;background:#D7E6E6;border:0px solid #ff0000;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
+			
+        </div>
+        <div id="mainContainer">
+			<img id="printHeader" src="img/logo_print.gif">
+			
+					<div id="other">
+					<!--ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)-->
+					<div id="content">
+				
+<!--begin content-->
+<p><span class="titlePLUS">Privacy Statement</span></p>
+<p>This privacy statement describes the information gathering and dissemination practices for the Catholic Health Partners (CHP) corporate website (www.health-partners.org). Please read this statement carefully. It may change from time to time without notice, so please check back regularly.</p>
+<p><b>Information We Collect</b><br>
+The Catholic Health Partners corporate website does not collect or disclose information that identifies or that can be used to identify you personally; nor do we make use of cookies. However, we do collect nonpersonal information for aggregate study so that we may assess the effectiveness of particular sections, pages and features of our website. Included among these types of nonpersonal information are the number of visits to specific pages and the length of those visits, as well as visitor IP addresses and browser information.</p>
+<p>In order to use the Catholic Health Partners corporate website's Contact Us e-mail form to request additional information, you will need to provide us with your name and e-mail address.&nbsp;Your name and e-mail address will not be provided to any third parties. We also do track the number of requests we have received for particular kinds of information via the Contact Us feature, which guides us in determining additional information we may want to make directly available on our website in the future.</p>
+<p>In order to use the update notification registry feature provided in the Financial &amp; Investor Information section of Catholic Health Partners' corporate website, you will need to provide us with your e-mail address and additional contact information. The information you give us will not be provided to any third parties and will be used solely so that we may notify you by e-mail when quarterly updates are made to information in this section of our website.</p>
+<p>The Catholic Health Partners corporate website also allows you to submit an online resume in response to job openings at specific Catholic Health Partners organizations that are posted on this website. By using this feature to submit your resume, you are automatically consenting to the reproduction, distribution, sharing and transmittal of your resume to the extent necessary to facilitate the normal hiring practices of the Catholic Health Partners organization to which you have applied. We may share this information with any search firms we retain to help us fill positions.</p>
+<p>The Catholic Health Partners corporate website also provides links to pages on our regional websites that offer patients the opportunity to pay online for services received at specific facilities within our regions. Payment information submitted via these online bill payment features does not come directly to the Catholic Health Partners corporate website. If you use our regions' online bill payment features, please read their privacy/security statements carefully.</p>
+<p><b>Links to Other Websites</b><br>
+The Catholic Health Partners corporate website contains links to other websites, and we are not responsible for the privacy practices or the content of these other websites. The Catholic Health Partners corporate website also links to the websites of Catholic Health Partners' regions, and these regional websites post their own privacy policies, which differ from our own. If you visit our regions' websites, please read their privacy policies carefully.</p>
+<p><b>Contacting This Website</b><br>
+If you have any questions about this privacy statement, the practices of the Catholic Health Partners corporate website or your dealings with the Catholic Health Partners corporate website, you can contact us by <a href="contact_us.asp">completing this form</a>.</p>
+<p>&nbsp;</p>
+<!--end content-->
+
+					</div>
+					</div>
+		            <div id="sideBar">
+						
+						<span class="sideBarTitle"></span>
+						<div style="background-color:#FEF8E3;border-top:solid 2px #FBE695;padding:10px;margin-top:5px;">
+						
+							<br><br>
+						</div>
+						
+						<br><br>
+						<span class="sideBarTitle">Featured Links</span>
+						<div style="background-color:#FEF8E3;border-top:solid 2px #FBE695;padding:10px;margin-top:5px;">
+							<table class="sectionLinksTable">
+								<tbody><tr>
+									<td>
+										<a href="foundations.asp">Regional Foundations</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="our_regions.asp">Regional Health Systems</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="volunteering.asp">Volunteer Services</a>
+									</td>
+								</tr>
+							</tbody></table>
+							<br><br>
+						</div>
+						
+		            </div>
+					
+	        </div>
+	        <div id="footer">
+	            <p>
+	            © 2010 Catholic Health Partners. All rights reserved.<br>
+	            <a href="disclaimer.asp">Disclaimer</a> // 
+	            <a href="privacy.asp">Privacy Statement</a> // 
+	            <a href="terms_of_use.asp">Terms of Use</a><br>
+	            Last Modified 11/15/2010 <br>
+	            </p>
+	        </div>
+		</div>
+		<div id="bottomShadow">
+		</div>
+    
+
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/11/08 18:22:54 $ -->
+<script language="Javascript"><!--
+var gService = true;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			if (typeof(gWtAccountRollup)=="undefined"){
+				WT.vt_f_a="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gConvert=true;
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/11/10 16:02:43 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script type="text/javascript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+if (window.RegExp){
+	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+}
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcs2i2uwr10000gkyksyb0cm0_9l1o";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+//-->
+</script>
+<script type="text/javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		for(var i=9;i>0;i--){
+			try{
+				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+				WT.fi="Yes";
+				WT.fv=i+".0";
+				break;
+			}
+			catch(e){
+			}
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs2i2uwr10000gkyksyb0cm0_9l1o/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
+</body></html>
