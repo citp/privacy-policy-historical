@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525035007id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212005835id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
 
-# ACT: Privacy Policy
+# Privacy Policy | ACT
+
+  
+
 
 ##  Scope of this Privacy Policy
 
