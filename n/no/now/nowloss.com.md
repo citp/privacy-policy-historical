@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowloss.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095637id_/http%3A//www.nowloss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowloss.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211133807id_/http%3A//www.nowloss.com/privacy.htm) for the most accurate reproduction.*
 
 # the 2 best weight loss proteins
 
