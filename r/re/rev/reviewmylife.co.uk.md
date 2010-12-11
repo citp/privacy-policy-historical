@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the reviewmylife.co.uk privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630200639id_/http%3A//www.reviewmylife.co.uk/blog/privacy-policy-for-www-reviewmylife-co-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewmylife.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211084246id_/http%3A//www.reviewmylife.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | reviewmylife
 
   
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/blog/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](http://www.reviewmylife.co.uk/blog/contact-us/).
 
 At www.reviewmylife.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.reviewmylife.co.uk and how it is used.
 
@@ -11,7 +11,8 @@ Log Files
 Like many other Web sites, www.reviewmylife.co.uk makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
-The www.reviewmylife.co.uk content management system (WordPress) uses cookies to save your name, email and website URL as a convenience if you leave a comment. Details are at this URL – http://codex.wordpress.org/WordPress_Cookies#Commenters
+The www.reviewmylife.co.uk content management system (WordPress) uses cookies to save your name, email and website URL as a convenience if you leave a comment. Details are at this URL – http://codex.wordpress.org/WordPress_Cookies#Commenters.  
+It also uses cookies for the random post feature, and for determining if you have recently visited us via a search engine.
 
 DoubleClick DART Cookie  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.reviewmylife.co.uk.  
@@ -21,7 +22,9 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
 Amazon  
-1and1
+1and1  
+HotelsCombined  
+TradeDoubler
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.reviewmylife.co.uk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
