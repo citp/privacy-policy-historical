@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611075648id_/http%3A//www.backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211102836id_/http%3A//backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Back Link Canyon General Directory - Privacy Policy
 
@@ -35,8 +35,13 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 One-of-a-kind handcrafted necklaces, earrings, and bracelets designed by Alicia A. Bergman feature semiprecious, Swarovski crystal, and glass beads with hypoallergenic sterling silver, copper, or black metal links and clasps.  
   
 ---|---  
-| [Web optimisation](http://www.emarketers.co.uk/ "Web optimisation") \- http://www.emarketers.co.uk/
+| [Bird Feeders, Bird Houses & Binoculars at Royal Feathers](http://www.royalfeathers.com/ "Bird Feeders, Bird Houses & Binoculars at Royal Feathers") \- http://www.royalfeathers.com
 
-Web optimisation from Emarketers : specialist Internet marketing company that offer web optimisation services for business clients in Berkshire, London and UK wide.  
+Are you cuckoo for Cuckoos? Whether hooked on hummingbirds or nuts about squirrels, we have hundreds of wild bird and nature items for less. We carry the wildly popular Droll Yankee squirrel proof bird feeders as well as many outdoor and birding supplies from respected manufacturers. Come see our decorative bird houses, bird baths and bird seed wreaths so appealing you can give to persons on your gift list that are hard to buy for. 100% customer satisfaction or your money back!  
+  
+---|---  
+| [Los Angeles Locksmith](http://www.911locksmith.com/Los-Angeles-Locksmith.html "Los Angeles Locksmith") \- http://www.911locksmith.com/Los-Angeles-Locksmith.html
+
+911 Locksmith is a full-service local locksmith company providing all of your locksmith needs. We specialize in emergency locksmith service, Auto Locksmith, and 24 7 locksmith service. 911 Locksmith.com handles all types of emergency locksmith calls whether if it’s for commercial, residential, business or automotive - We do it all! Call 888-666-2050 - Servicing All US Cities. Satisfaction Guaranteed – Free Estimate.  
   
 ---|---
