@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officefootballpool.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611151431id_/http%3A//www.officefootballpool.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officefootballpool.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211074047id_/http%3A//www.officefootballpool.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ This privacy statement applies to the website of:
 
 Office Football Pool.com   
 John Cranston - Website Manager   
-Centennial, CO 80112   
+Englewood, CO 80112   
 US   
-1-720-895-1960   
+1-303-483-7560   
 [privacy@officefootballpool.com](mailto:privacy@officefootballpool.com)
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
