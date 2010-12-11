@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409020314id_/http%3A//www.deshigreetings.com/privacyPolcy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211171155id_/http%3A//deshigreetings.com/privacyPolcy.php) for the most accurate reproduction.*
 
 # DeshiGreetings.com - Send gift to bangladesh, bangladeshi gift, sharee, salwar kamiz, panjabi, saree, sari, fatua, send birthday gift to bangladesh, send flower to bangladesh, eid gift, valentinesday gift, ramadan iftar, new year
 
