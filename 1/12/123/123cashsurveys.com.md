@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123cashsurveys.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715170645id_/http%3A//www.123cashsurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123cashsurveys.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211193556id_/http%3A//123cashsurveys.com/privacy.html) for the most accurate reproduction.*
 
 # 123CashSurveys :: Online Paid Surveys
 
@@ -24,12 +24,12 @@ We may use your personal information to: 
 (b) improve your browsing experience by personalising the website.   
 (c) enable your use of the services available on the website.   
 (d) send to you goods purchased via the website, and supply to you services purchased via the website.   
-(e) send you general (non-marketing) commercial communications.   
+(e) send you general commercial communications.   
 (f) send you email notifications which you have specifically requested.   
 (g) send to you [our newsletter and other] marketing communications (relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at support@123cashsurveys.com)   
 (h) provide third parties with statistical information about our users – but this information will not be used to identify any individual user.   
 (i) deal with enquiries and complaints made by or about you relating to the website.   
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.   
+(j) share with third party sites regarding products and/or services. By using this product you are giving us permission to use your data in this way.   
 
 
 **(4)  Other disclosures**  
