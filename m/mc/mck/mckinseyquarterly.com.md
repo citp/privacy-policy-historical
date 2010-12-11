@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112044857id_/http%3A//www.mckinseyquarterly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211201536id_/http%3A//www.mckinseyquarterly.com/privacy.aspx) for the most accurate reproduction.*
 
 # McKinsey Quarterly - Privacy Policy
 
@@ -40,18 +40,6 @@ These third parties use persistent cookies to help track visitor behavior. On be
 
 _McKinsey Quarterly_ has also contracted with a third party to send e-mail to our registered members. To help measure and improve the effectiveness of our e-mail communications, the third party sets cookies (which will be listed under the domain e.mckinseyquarterly.com), as well as clear gifs. All data collected by this third party on behalf of _McKinsey Quarterly_ are owned and used solely by or on behalf of McKinsey & Company. Such information is shared externally only on an anonymous, aggregated basis.
 
-#### Transaction Information
-
-To process your subscription orders, we collect the following transaction information: physical contact information and subscription purchase information. The data may be used by us and our agents (and by delivery services) for the following other purposes:
-
-  * completion and support of the current activity
-  * Web site and system administration
-  * research and development
-  * anonymous user analysis
-  * anonymous user profiling and decision making
-
-
-
 #### User Information
 
 We collect the following user information: unique identifiers, the user's name and e-mail address, the user's job title, and the name of the user's employer. At the user's option, we may also collect preference data.
@@ -67,7 +55,7 @@ The data may be used by us and our agents for the following purposes:
 
 
 
-The data can help us, for example, in controlling access to certain content on our site and in alerting users to new site content and services. By signing up for any of our newsletters or alerts, you agree to receive on occasion other correspondence from _McKinsey Quarterly_ or its agents. This type of information is shared externally only (i) in anonymous, aggregated form for generalized user analysis, (ii) to review whether users qualify for complimentary Premium Membership, or (iii) to enable third party agents to send e-mails to you on our behalf. You will be contacted by e-mail or otherwise only by _McKinsey Quarterly_ or it agents or, occasionally, by other McKinsey staff or an organization with which you are affiliated regarding complimentary Premium Membership, and you may modify your e-mail preferences and/or opt out of such contacts by clicking here: [newsletter_alerts.aspx](https://web.archive.org/newsletter_alerts.aspx)
+The data can help us, for example, in controlling access to certain content on our site and in alerting users to new site content and services. By signing up for any of our newsletters or alerts, you agree to receive on occasion other correspondence from McKinsey Quarterly or its agents. This type of information is shared externally only (i) in anonymous, aggregated form for generalized user analysis, or (ii) to enable third party agents to send e-mails to you on our behalf. You will be contacted by e-mail or otherwise only by McKinsey Quarterly or its agents and you may modify your e-mail preferences and/or opt out of such contacts by clicking here: [newsletter_alerts.aspx](https://web.archive.org/newsletter_alerts.aspx)
 
 #### E-Mail Information
 
@@ -103,7 +91,7 @@ McKinsey understands the importance of protecting children's privacy, especially
 
 ##  Consent 
 
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy, which was last updated on July 1, 2009.
+By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy, which was last updated on November 8, 2010.
 
 ##  Contact Our Privacy Department 
 
