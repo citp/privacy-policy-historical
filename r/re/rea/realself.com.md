@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604191108id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211153611id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - RealSelf
-
-RealSelf Privacy Notice
+# Privacy Policy ~ Guidelines & Policies
 
 [www.RealSelf.com](http://www.realself.com/) or other web sites owned or operated by RealSelf (the "RealSelf Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the RealSelf Sites. RealSelf provides this Privacy Notice to help you make an informed decision about whether to use or continue using the RealSelf Sites. This Privacy Notice is incorporated into and is subject to the RealSelf Terms of Service. Your use of the RealSelf Sites and any personal information you provide on the RealSelf Sites remains subject to the terms of this Privacy Notice and our Terms of Service Please note that any content posted at the direction of Users onto the RealSelf Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
