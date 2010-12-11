@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sickmarketing.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408133650id_/http%3A//sickmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickmarketing.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211183940id_/http%3A//sickmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Automated Marketing Tool - Sick Marketing
 
