@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027030330id_/http%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workinsports.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211105831id_/http%3A//www.workinsports.com/wisprivacy.asp) for the most accurate reproduction.*
 
 # WorkInSports.com - Privacy Policy
 
 **Work In Sports, LLC  
-Last Updated: 12/10/2007  
+Last Updated: 8/25/2010  
 **
 
 [](http://www.truste.org/ivalidate.php?url=www.WorkInSports.com&sealid=111)
 
-Work In Sports, LLC (“WorkInSports.com”) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.WorkInSports.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Work In Sports, LLC (“WorkInSports.com”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
-If you have questions or concerns regarding this statement, you should first contact Robert Oakley at [privacy@WorkInSports.com](mailto:privacy@WorkInSports.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to help resolve your concerns. 
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@WorkInSports.com](mailto:privacy@WorkInSports.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 **Dedicated to your privacy**
 
@@ -39,7 +39,7 @@ Should you post your resume, the amount of information you choose to keep confid
 Refer-A-Friend  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friends name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WorkInSports.com stores this information for the sole purpose of sending this one-time email. 
 
-Your friend may contact [Customer Support](https://web.archive.org/web/20091027030330id_/http%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
+Your friend may contact [Customer Support](https://web.archive.org/web/20101211105831id_/http%3A//www.workinsports.com/wiscontactus.asp) to request that we remove this information from our database. 
 
 Target Job Information  
 We also use Personal Information to provide you with targeted job information. For example, your email job alert will contain job information based on the job locations and categories you choose. 
@@ -62,7 +62,7 @@ You can update your email preferences by logging onto your “Account Settings�
 
 As a registered user of WorkInSports.com, you will automatically receive our service announcements (e.g., email address confirmation, signup confirmation, administrative messages, etc.) at your email address. Transactional communication is required as they may contain information vital to your account; you may not unsubscribe from service announcements unless you deactivate your account. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20091027030330id_/http%3A//www.workinsports.com/wiscontactus.asp). 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20101211105831id_/http%3A//www.workinsports.com/wiscontactus.asp). 
 
 **Cookies**
 
@@ -94,7 +94,7 @@ In the event WorkinSports.com goes through a business transition, such as a merg
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20091027030330id_/http%3A//www.workinsports.com/wiscontactus.asp). 
+If your personally identifiable information or email changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your “Account Settings” page or by contacting [Customer Support](https://web.archive.org/web/20101211105831id_/http%3A//www.workinsports.com/wiscontactus.asp). 
 
 **Legal Disclaimer**
 
