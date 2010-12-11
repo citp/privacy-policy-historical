@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530132352id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211170528id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # KidsCom - Privacy Policy
 
@@ -56,31 +56,17 @@ KidsCom.com uses every means available to safeguard the personal information of 
 
 There are several places on KidsCom where kids can send an e-mail to a friend telling them about the site. The Tell-A-Friend form asks for the sender's first name and their friend's first name and e-mail address. The e-mail address is used only to send an e-mail with information about KidsCom to the friend. It is not stored by KidsCom or used for any other purpose.
 
-**Does KidsCom.com share registration information?**
-
-KidsCom.com is seeking out partners with content that offers families wholesome fun for their kids, as well as an opportunity to do good in the real world or to bring families together in play -- we call this group of kid-friendly sites the Idea Seeker Universe.
-
-To make it easy for kids to visit all the sites, we will pass-through the registration information from our site to our partner sites. This allows kids to play within the Universe of sites without stopping to register at each site. It also gives them one username and password to remember to access all sites. All our partner sites are COPPA-compliant. The information we share with our partners is not the child's personally identifiable information. We will share:
-
-  * User name 
-  * Password 
-  * Child's birthdate 
-  * Child's gender 
-  * Child's country 
-  * Parent or guardian's e-mail address 
-
-
-
-You can view the partners that are part of the Idea Seeker Universe here: <http://www.my.kidscom.com/jsp_a01_mkc/jsp_a01_b01_pb/planets.jsp>
-
 **Does KidsCom.com use cookies?**
 
 **What is a cookie?**  
 A cookie is a small file that Web sites place on your computer to keep track of some information. On KidsCom.com, cookies do not store any personally identifiable information about you. You do not have to accept the cookies. In most cases, everything will work fine (just a little slower) if you do not accept the cookies. 
 
 **Where are cookies used on Kidscom.com?**  
-Cookies are used in two ways on KidsCom.com. KidsCom.com only uses cookies with registered Idea Seeker Members or Allies and does so only to improve the site functionality for registered Idea Seeker Members or Allies or where it is necessary to complete a particular activity. First, cookies are used to keep log-in information in some areas so that registered users can access the site faster. These cookies contain a unique ID number so you can get into areas faster, instead of waiting for our computer to sort through all the different people in our records. These cookies do not track any of your other online activities and do not contain any personally identifiable information. These cookies expire after a certain amount of time and delete themselves from your computer.  
+Cookies are used in two ways on KidsCom.com. KidsCom.com only uses cookies with registered Idea Seeker Members or Allies and does so only to improve the site functionality for registered Idea Seeker Members or Allies or where it is necessary to complete a particular activity. First, cookies are used to keep log-in information in some areas so that registered users can access the site faster. These cookies contain a unique ID number so you can get into areas faster, instead of waiting for our computer to sort through all the different people in our records. These cookies do not track any of your other online activities and do not contain any personally identifiable information. These cookies expire after a certain amount of time and delete themselves from your computer.
+
 Some of our advertisers may use cookies on our site. KidsCom.com requires those partners to be in full compliance with federal guidelines for children's online safety and privacy. Those cookies cannot be used to collect any personal information from our users.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **How can parents update and delete info?**  
 Idea Seeker Members or Allies and parents can view, correct, update and delete personal information provided in the Idea Seeker registration process at any time. They will need the registered child's first name, screen name, date of birth and password. Visit the Idea Seeker registration update page at <http://www.kidscom.com/cgi-bin/registration/update.pl> for more information.
@@ -99,4 +85,4 @@ This Privacy Policy outlines the information usage practices of KidsCom.com. By 
 KidsCom.com is published by Circle 1 Network. Our offices are at 131 West Seeboth Street, Milwaukee, Wisconsin, 53204.
 
   
-Effective date: August 28, 2009 
+Effective date: December 2, 2010 
