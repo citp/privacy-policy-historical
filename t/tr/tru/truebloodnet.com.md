@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102045807id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211193918id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : True Blood Net – HBO True Blood News Cast Interviews
+# Privacy Policy : True Blood News- ALL the HBO True Blood Season 4 Spoilers Videos Interviews
 
 Browse >
 
@@ -78,4 +78,4 @@ We can be reached by contacting:
 
 Truebloodnet.com
 
-Email: privacy@truebloodnet.com
+Email: privacy@truebloodnet.com 
