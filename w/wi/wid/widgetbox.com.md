@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604010446id_/http%3A//www.widgetbox.com/info/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211175728id_/http%3A//www.widgetbox.com/info/legal/privacy-policy) for the most accurate reproduction.*
 
-# Widgetbox › World's best place to find and make web widgets
+# Mobile apps, web widgets, and rich media ads — Widgetbox
 
 ## Widgetbox Privacy Policy Statement
 
@@ -64,8 +64,9 @@ If you have any questions, comments, or concerns about this Privacy Policy, plea
 
 Postal Mail Address:  
 Widgetbox  
-1000 Sansome St., Suite 210  
-San Francisco, CA 94111  
+706 Mission Street  
+Floor 5  
+San Francisco, CA 94103  
 Attention: Privacy Officer
 
-[Last Updated: August 8th, 2007]
+[Last Updated: October 19, 2010]
