@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422085632id_/http%3A//www.aisquared.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211203321id_/http%3A//aisquared.com/privacy_policy) for the most accurate reproduction.*
 
 # ai squared - making accessibility simple
 
@@ -19,6 +19,10 @@ A cookie is a small file that a Website puts on your computer’s hard drive so 
 ## Security
 
 We use industry-standard methods to protect your personal financial information from unauthorized access. When you enter sensitive information on an order form (such as a credit card number), that information is encrypted, and is protected with 128-bit encryption SSL technology. Information is then stored on a computer behind our “firewall” in a secure location. 
+
+## Internet Logging
+
+ZoomText 9.1 features an internet logging capability that anonymously sends Ai Squared information to help improve ZoomText and track down issues in the field. This logging captures any ZoomText errors, your version of ZoomText, and the operating system you are running.  The information is sent to us encrypted with industry standard MD-5 encryption technology. None of your information is plain text. If you would like to opt out, simply uncheck the option to “Enable ZoomText Error Reporting” on your first launch of ZoomText. 
 
 ## How to update your personal information
 
