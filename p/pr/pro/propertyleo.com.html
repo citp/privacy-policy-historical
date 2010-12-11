@@ -1,126 +1,250 @@
-<!--The following is the downloaded HTML source of the propertyleo.com privacy policy that was archived on 2010-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100404073915id_/http%3A//www.propertyleo.com/privacy1.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propertyleo.com privacy policy that was archived on 2010-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101211025633id_/http%3A//www.propertyleo.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
+
+
 <meta name="google-site-verification" content="pXBQwQ7jfaaeM_RmFv2OwhcN57m1fZBWPARL9v2rqOU">
+
+
 
 <title>Propertyleo, Kenya's Ultimate Real Estate Guide | Privacy</title>
 
 
 
 
+
+
+
+
+
+
 <link rel="SHORTCUT ICON" href="http://www.propertyleo.com/images/logo.ico">
+
+
 
 <link href="css/base_layout.css" media="screen" rel="stylesheet" type="text/css">
 
+
+
 <link rel="stylesheet" type="text/css" href="css/base.css">
+
+
 
 <link href="css/helper.css" media="screen" rel="stylesheet" type="text/css">
 
+
+
 <link rel="stylesheet" href="css/BarackSlideshow.css" type="text/css" media="screen" title="Stylesheet" charset="utf-8"> 
+
+
 
 <link rel="stylesheet" href="css/demo.css" type="text/css" media="all" title="Stylesheet" charset="utf-8"> 
 
+
+
 <link href="css/dropdown.css" media="screen" rel="stylesheet" type="text/css">
+
+
 
 <link href="css/default.advanced.css" media="screen" rel="stylesheet" type="text/css">
 
+
+
     
+
+
 
 <script type="text/javascript" charset="utf-8" src="scripts/mootools-1.2.1-core-yc.js"></script> 
 
+
+
 <script type="text/javascript" charset="utf-8" src="scripts/mootools-1.2.2.2-more.js"></script>    
+
+
 
 <script type="text/javascript" charset="utf-8" src="scripts/Fx.MorphList.js"></script> 
 
+
+
 <script type="text/javascript" charset="utf-8" src="scripts/BarackSlideshow.js"></script>    
+
+
 
 <script type="text/javascript" charset="utf-8" src="scripts/demo.js"></script> 
 
 
 
+
+
+
+
 <script type="text/javascript">
+
+
 
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 
+
+
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
 
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
 
+
+
+
+
 <script type="text/javascript">
+
+
 
 try {
 
+
+
 var pageTracker = _gat._getTracker("UA-8522925-1");
 
+
+
 pageTracker._trackPageview();
+
+
 
 } catch(err) {}</script>
 
 
 
+
+
+
+
 <script type="text/javascript">
+
+
 
 //search landlord
 
+
+
 function xmlhttpPostsearch(strURL,actions) {
+
+
 
 	
 
+
+
     var xmlHttpReq = false;
+
+
 
     var self = this;
 
+
+
     // Mozilla/Safari
+
+
 
     if (window.XMLHttpRequest) {
 
+
+
         self.xmlHttpReq = new XMLHttpRequest();
 
+
+
     }
+
+
 
     // IE
 
+
+
     else if (window.ActiveXObject) {
+
+
 
         self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
 
+
+
     }
+
+
 
     self.xmlHttpReq.open('POST', strURL, true);
 
+
+
     self.xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+
 
     self.xmlHttpReq.onreadystatechange = function() {
 
+
+
         if (self.xmlHttpReq.readyState == 4) {
+
+
 
 			//loadsuccess();
 
+
+
             updatepagesearch(self.xmlHttpReq.responseText);
+
+
 
         }
 
+
+
     }
+
+
 
     self.xmlHttpReq.send(getquerystringsearch(actions));
 
+
+
 }
+
+
+
+
 
 
 
 function getquerystringsearch(actions) {
 
+
+
     qstr = 'actions=' + escape(actions);  // NOTE: no '?' before querystring
+
+
 
 	return qstr;	
 
+
+
 }
+
+
+
+
 
 
 
@@ -128,211 +252,423 @@ function updatepagesearch(str){
 
 
 
+
+
+
+
 }
+
+
 
 function xmlhttpPost(strURL,page) {
 
+
+
 	
+
+
 
     var xmlHttpReq = false;
 
+
+
     var self = this;
+
+
 
     // Mozilla/Safari
 
+
+
     if (window.XMLHttpRequest) {
+
+
 
         self.xmlHttpReq = new XMLHttpRequest();
 
+
+
     }
+
+
 
     // IE
 
+
+
     else if (window.ActiveXObject) {
+
+
 
         self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
 
+
+
     }
+
+
 
     self.xmlHttpReq.open('POST', strURL, true);
 
+
+
     self.xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+
 
     self.xmlHttpReq.onreadystatechange = function() {
 
+
+
         if (self.xmlHttpReq.readyState == 4) {
+
+
 
 			//loadsuccess();
 
+
+
             updatepage(self.xmlHttpReq.responseText);
+
+
 
         }
 
+
+
     }
+
+
 
     self.xmlHttpReq.send(getquerystring(page));
 
+
+
 }
+
+
+
+
 
 
 
 function getquerystring(page) {
 
+
+
 	document.getElementById("propertyarticle").innerHTML = 'Loading Articles.........';
+
+
 
     qstr = 'page=' + escape(page);  // NOTE: no '?' before querystring
 
+
+
 	return qstr;	
 
+
+
 }
+
+
+
+
 
 
 
 function updatepage(str){
 
+
+
     document.getElementById("propertyarticle").innerHTML = str;
 
+
+
 }
+
+
 
 //search landlord
 
+
+
 function xmlhttpPostx(strURL,page) {
+
+
 
 	
 
+
+
     var xmlHttpReq = false;
+
+
 
     var self = this;
 
+
+
     // Mozilla/Safari
+
+
 
     if (window.XMLHttpRequest) {
 
+
+
         self.xmlHttpReq = new XMLHttpRequest();
 
+
+
     }
+
+
 
     // IE
 
+
+
     else if (window.ActiveXObject) {
+
+
 
         self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
 
+
+
     }
+
+
 
     self.xmlHttpReq.open('POST', strURL, true);
 
+
+
     self.xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+
 
     self.xmlHttpReq.onreadystatechange = function() {
 
+
+
         if (self.xmlHttpReq.readyState == 4) {
+
+
 
 			//loadsuccess();
 
+
+
             updatepagex(self.xmlHttpReq.responseText);
+
+
 
         }
 
+
+
     }
+
+
 
     self.xmlHttpReq.send(getquerystringx(page));
 
+
+
 }
+
+
+
+
 
 
 
 function getquerystringx(page) {
 
+
+
 	document.getElementById("homearticles").innerHTML = 'Loading Articles.........';
+
+
 
     qstr = 'page=' + escape(page);  // NOTE: no '?' before querystring
 
+
+
 	return qstr;	
 
+
+
 }
+
+
+
+
 
 
 
 function updatepagex(str){
 
+
+
     document.getElementById("homearticles").innerHTML = str;
 
+
+
 }
+
+
 
 //search landlord
 
+
+
 function xmlhttpPosty(strURL,page) {
+
+
 
 	
 
+
+
     var xmlHttpReq = false;
+
+
 
     var self = this;
 
+
+
     // Mozilla/Safari
+
+
 
     if (window.XMLHttpRequest) {
 
+
+
         self.xmlHttpReq = new XMLHttpRequest();
 
+
+
     }
+
+
 
     // IE
 
+
+
     else if (window.ActiveXObject) {
+
+
 
         self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
 
+
+
     }
+
+
 
     self.xmlHttpReq.open('POST', strURL, true);
 
+
+
     self.xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+
 
     self.xmlHttpReq.onreadystatechange = function() {
 
+
+
         if (self.xmlHttpReq.readyState == 4) {
+
+
 
 			//loadsuccess();
 
+
+
             updatepagey(self.xmlHttpReq.responseText);
+
+
 
         }
 
+
+
     }
+
+
 
     self.xmlHttpReq.send(getquerystringy(page));
 
+
+
 }
+
+
+
+
 
 
 
 function getquerystringy(page) {
 
+
+
 	document.getElementById("featurearticle").innerHTML = 'Loading Articles.........';
+
+
 
     qstr = 'page=' + escape(page);  // NOTE: no '?' before querystring
 
+
+
 	return qstr;	
 
+
+
 }
+
+
+
+
 
 
 
 function updatepagey(str){
 
+
+
     document.getElementById("featurearticle").innerHTML = str;
 
+
+
 }
+
+
 
 function scall(str){
 
+
+
     document.getElementById("actions").innerHTML = str;
+
+
 
 }
 
+
+
 </script>
+
+
+
+
 
 
 
@@ -340,226 +676,494 @@ function scall(str){
 
 
 
+
+
+
+
 <style type="text/css">
+
+
 
 <!--
 
+
+
 .style4 {
 
+
+
 	font-size: 14px;
+
+
 
 	color: #333;
 
+
+
 }
+
+
 
 .style5 {
 
+
+
 	font-family: Arial, Helvetica, sans-serif;
+
+
 
 	font-size: 14px;
 
+
+
 }
 
+
+
 -->
+
+
 
 </style>
 
 
 
+
+
+
+
 <style type="text/css">
+
+
 
      #anchor1 { 
 
+
+
 width : 100px; 
+
+
 
 height : 20px; 
 
+
+
 /* background-image : url(resources/loading.gif);  */
 
+
+
 }
+
+
+
+
 
 
 
 #anchor1:hover { 
 
+
+
 background-image : url(resources/click.jpg); 
+
+
 
 background-repeat : no-repeat;
 
+
+
 }       
+
+
 
 .style7 {font-size: 14px}
 
+
+
 .style8 {font-family: Arial, Helvetica, sans-serif}
+
+
 
 .style9 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
 
+
+
 .style10 {font-size: 12px}
+
+
 
 </style>
 
+
+
                             
+
+
+
+
 
 
 </head>
 
 
 
+
+
+
+
 <body>
+
+
 
 <table width="990" border="0" cellpadding="0" cellspacing="0" style="margin-left:auto;margin-right:auto;">
 
 
 
+
+
+
+
   <!--DWLayoutTable-->
 
+
+
   
+
+
 
  
 
+
+
   
+
+
 
  <tbody><tr>
 
+
+
     <td colspan="2" valign="top">
+
+
 
     <table width="1000" border="0" cellpadding="0" cellspacing="0" style="padding-left:0px;">
 
+
+
       <!--DWLayoutTable-->
+
+
 
       <tbody><tr>
 
-        <td width="308" height="76" align="left" valign="bottom">
 
-        
 
-          <img src="images/logo3.jpg" width="183" height="54">
-
-          &nbsp;</td>
-
-                    
-
-          <td width="186" valign="bottom">&nbsp;<a href="index.php">Home</a> | <a href="about1.php">About us</a></td>
-
-          <form action="loginclass.php" name="user-login" id="user-login" method="POST"></form>
-
-          <td width="49" valign="bottom"> <input type="hidden" name="login" id="login" value="1">
-
-            <span class="style5">Login:</span>&nbsp;</td>
-
-          <td width="160" align="left" valign="bottom">
-
-           
-
-            <input class="login_txtfield" id="user" name="user" value="username" onfocus="if(this.value=='username')this.value='';" onblur="if(this.value=='')this.value='username';" type="text">
-
-            <!-- &nbsp;&nbsp; --></td>
+       <td height="85" colspan="2" align="left" valign="bottom"><img src="images/logo.png" width="292" height="85"></td>
 
 
 
-          <td width="146" valign="bottom"><input class="login_txtfield" id="password" name="password" value="password" onfocus="if(this.value=='password')this.value='';" onblur="if(this.value=='')this.value='password';" onkeypress="return 
-
-enter(event)" type="password"></td>
+        <td width="110">&nbsp;</td>
 
 
 
-          <td width="61" align="right" valign="bottom" style="padding-top:25px;">                                        
+        <td colspan="2" rowspan="2" valign="top"><div align="right"><a href="http://www.housing.co.ke/index.php?cat=hmownermortg" target="_blank" onclick="javascript:showUser('housingfinance');"><img src="adv/hfad.gif" alt="Housing Finance" width="490" height="85"></a></div></td>
 
-              <input name="submitlogin" type="submit" value="GO" align="right"></td>
 
-              
 
-          
-
-  
-
-          <td width="78" align="right" valign="bottom" style="padding-top:25px;">
-
-            <a href="property-register.php" onmouseover="changeImages('signup_btn', 'images/signup_btn-over.jpg'); 
-
-return true;" onmouseout="changeImages('signup_btn', 
-
-'images/signup_btn.jpg'); return true;"> <input name="submitlogin" type="submit" value="Sign Up" align="right">
-
-            </a>          </td>
-
-            
-
-        </tr>
-
-      <tr>
-
-        <td colspan="7" valign="top" style="margin-left:0px; margin-right:0px; padding-left:0px;">
-
-          <ul class="dropdown dropdown-horizontal">
-
-            <li><a href="property-for-sale1.php" class="dir">property for sale</a></li>
-
-              <li><a href="property-to-rent1.php" class="dir">property to let</a></li>               
-
-              <li><a href="real-estate1.php" class="dir">agents</a></li>
-
-              <li><a href="developer1.php?t=2" class="dir">DEVELOPERS</a></li>
-
-              <li><a href="hotel_listings.php" class="dir">HOTEL LISTINGS</a></li>
-
-              <li><a href="holiday_homes.php" class="dir">holiday homes</a></li>
-
-              <li><a href="http://www.jengaweb.com" target="_blank" class="dir">property ict services</a></li>
-
-              <li><a href="login1.php" class="dir">login</a></li>
-
-              <li><a href="contact1.php" class="dir">contact us</a></li>
-
-            </ul> 
-
-            </td>
+        <td>&nbsp;</td>
 
       </tr>
 
-       
+
+
+      <tr>
+
+
+
+        <td width="292" rowspan="2" align="left" valign="bottom"><div> <a href="http://onlywire.com/submit?u=(insert url)&amp;t=(insert title)&amp;tags=(insert tags)" class="owbutton" title="Bookmark &amp; Share this Article" target="_blank" style="display:inline-block !important; white-space:nowrap !important; padding:1px !important;text-decoration:none !important;line-height:16px !important;border:1px solid #CCCCCC !important;border-radius:6px !important;-webkit-border-radius:6px !important;-moz-border-radius:6px !important;background-color:#FFFFFF;"> <span style="display:inline-block !important;margin-right:0px !important;border-radius:4px !important;-webkit-border-radius:4px !important;-moz-border-radius:4px !important;background-color:#0095C8;"><img src="http://onlywire.com/images/onlywire_logo_small.png" height="67" style="height:20px !important;padding:0 !important;border:none !important;vertical-align:middle !important;display:inline !important;"></span><span style="display:inline-block !important;vertical-align:middle !important;font-weight:bold !important;padding-right:0px !important;padding-left:0px !important;color:#000000;font-size:14px;font-family:Arial, Helvetica, sans-serif;">Bookmark &amp; Share</span></a></div></td>
+
+
+
+        <td width="44" height="4"></td>
+
+
+
+        <td></td>
+
+
+
+        <td></td>
+
+      </tr>
+
+
+
+      <tr>
+
+
+
+        <td height="32" colspan="3" valign="bottom">&nbsp;<a href="index.php">Home</a> | <a href="about.php">About Us</a> | <a href="myaccount.php">My Account</a></td>
+
+
+
+        <td width="497" align="right" valign="top"><form action="loginclass.php" name="user-login" id="user-login" method="POST">
+
+
+
+          <table style="width:100%;">
+
+
+
+          <tbody><tr>
+
+
+
+          <td>
+
+
+
+            <input type="hidden" name="login" id="login" value="1">
+
+
+
+            Login: </td>
+
+
+
+            <td>
+
+
+
+            <input class="login_txtfield" id="user" name="user" size="20" value="username" onfocus="if(this.value=='username')this.value='';" onblur="if(this.value=='')this.value='username';" type="text"> </td>
+
+
+
+<td>
+
+
+
+            <input class="login_txtfield" id="password" name="password" value="password" size="20" onfocus="if(this.value=='password')this.value='';" onblur="if(this.value=='')this.value='password';" onkeypress="return 
+
+
+
+
+
+
+
+enter(event)" type="password"> </td>
+
+
+
+<td>
+
+
+
+            <input name="submitlogin" type="submit" value="GO" align="right"> </td>
+
+
+
+            <td align="right">
+
+
+
+            <a href="property-register.php" onmouseover="changeImages('signup_btn', 'images/signup_btn-over.jpg'); 
+
+
+
+
+
+
+
+return true;" onmouseout="changeImages('signup_btn', 
+
+
+
+
+
+
+
+'images/signup_btn.jpg'); return true;">
+
+
+
+              <input name="submitlogin" type="submit" value="Sign Up" align="right">
+
+              </a> </td> </tr>
+
+              </tbody></table>
+
+
+
+        </form></td>
+
+
+
+                    
+
+          
+
+        <td>&nbsp;</td>
+
+      </tr>
+
+      
+
+
+
+      <tr>
+
+
+
+        <td colspan="5" valign="top" style="margin-left:0px; margin-right:0px; padding-left:0px;">
+
+
+
+          <ul class="dropdown dropdown-horizontal">
+
+            
+
+            <li><a href="property-for-sale.php" class="dir">property for sale</a></li>
+
+  
+
+              <li><a href="property-to-rent.php" class="dir">property to let</a></li>               
+
+  
+
+              <li><a href="real-estate.php" class="dir">agents</a></li>
+
+  
+
+              <li><a href="developer.php?t=2" class="dir">DEVELOPERS</a></li>
+
+  
+
+              <li><a href="hotel_listings.php" class="dir">HOTEL LISTINGS</a></li>
+
+  
+
+              <li><a href="holiday_homes.php" class="dir">holiday homes</a></li>
+
+  
+
+              <li><a href="http://www.jengaweb.com" target="_blank" class="dir">property ict services</a></li>
+
+  
+
+              <li><a href="login.php" class="dir">login</a></li>
+
+  
+
+              <li><a href="contact.php" class="dir">contact us</a></li>
+
+          </ul></td>
+
+      <td>&nbsp;</td>
+
+      </tr>
+
+      <tr>
+
+        <td height="1"></td>
+
+        <td></td>
+
+        <td></td>
+
+        <td width="44"></td>
+
+        <td></td>
+
+        <td></td>
+
+      </tr>
 
     </tbody></table>
 
+
+
     
+
+
 
     </td>
 
-  
+
 
   
+
+
+
+  
+
+
 
    
+
+
 
        </tr>
 
 
 
+
+
+
+
 <tr><td valign="top" style="padding-top:2px;"><table width="990" border="0" cellpadding="0" cellspacing="0" style="border:#999999 1px solid;-moz-border-radius: 5px;-webkit-border-radius: 5px;">
 
+
+
         
+
+
 
           <!--DWLayoutTable-->
 
+
+
           
+
+
 
         <tbody><tr>
 
+
+
         <td colspan="3">
+
+
 
         <table width="986" border="0" cellpadding="0" cellspacing="0" style="margin-left:1px;padding-bottom:0px; margin-bottom:0px;">
 
+
+
         
+
+
 
                 <!--DWLayoutTable-->
 
 
 
+
+
+
+
                   <tbody><tr><td style="padding-top:2px; padding-left:5px;" width="300" height="538" valign="top">
+
+
 
                 
 
+
+
                 <div id="main">
+
+
+
+
 
 
 
@@ -567,7 +1171,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <h3>Propertyleo privacy policy</h3>
+
+
+
+
 
 
 
@@ -575,7 +1187,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         Dixon’s Business Soutions Limited  is committed to ensuring that your privacy is protected.  Should we ask you to provide certain information by which you can be identified  when using this website, then you can be assured that it will only be used in  accordance with this privacy statement.<br>
+
+
+
+
 
 
 
@@ -583,7 +1203,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -591,7 +1219,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -599,7 +1235,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <ul>
+
+
+
+
 
 
 
@@ -607,7 +1251,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li>contact  information including email address</li>
+
+
+
+
 
 
 
@@ -615,7 +1267,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li>other  information relevant to customer surveys and/or offers</li>
+
+
+
+
 
 
 
@@ -623,11 +1283,23 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li></li>
 
 
 
+
+
+
+
       </ul>
+
+
+
+
 
 
 
@@ -635,7 +1307,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -643,7 +1323,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <ul>
+
+
+
+
 
 
 
@@ -651,7 +1339,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li>We  may use the information to improve our products and services. </li>
+
+
+
+
 
 
 
@@ -659,7 +1355,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li>From  time to time, we may also use your information to contact you for market  research purposes. We may contact you by email, phone, fax or mail. </li>
+
+
+
+
 
 
 
@@ -667,11 +1371,23 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li></li>
 
 
 
+
+
+
+
       </ul>
+
+
+
+
 
 
 
@@ -679,7 +1395,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -687,7 +1411,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -695,7 +1427,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -703,7 +1443,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         We use traffic log cookies to  identify which pages are being used. This helps us analyse data about web page  traffic and improve our website in order to tailor it to customer needs. We only  use this information for statistical analysis purposes and then the data is  removed from the system. <br>
+
+
+
+
 
 
 
@@ -711,11 +1459,23 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         You can choose to accept or  decline cookies. Most web browsers automatically accept cookies, but you can  usually modify your browser setting to decline cookies if you prefer. This may  prevent you from taking full advantage of the website.</p>
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -723,7 +1483,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -731,7 +1499,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -739,7 +1515,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p><br>
+
+
+
+
 
 
 
@@ -747,7 +1531,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <ul>
+
+
+
+
 
 
 
@@ -755,7 +1547,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
         <li>if  you have previously agreed to us using your personal information for direct  marketing purposes, you may change your mind at any time by writing to or  emailing us at [email address]</li>
+
+
+
+
 
 
 
@@ -763,7 +1563,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <p>We will not sell, distribute or  lease your personal information to third parties unless we have your permission  or are required by law. We may use your personal information to send you  promotional information about third parties which we think you may find  interesting if you tell us that you wish this to happen.<br>
+
+
+
+
 
 
 
@@ -771,7 +1579,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <!-- end permalink body -->
+
+
+
+
 
 
 
@@ -779,11 +1595,23 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
       <!-- end forum post box -->
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -791,15 +1619,31 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
   </div>
+
+
 
   </td>
 
+
+
                <td width="300" rowspan="3" valign="top" style="padding-top:2px; colspan=" 2=""><table width="325" border="0" cellpadding="0" cellspacing="0">
+
+
 
                     <tbody><tr>
 
+
+
                       <td width="325" valign="top"><div id="nodebox-1" class="widget widget_plain">
+
+
+
+
 
 
 
@@ -807,7 +1651,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 <div>
+
+
+
+
 
 
 
@@ -815,12 +1667,26 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
    
+
+
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -828,7 +1694,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -836,14 +1710,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -851,7 +1741,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -859,14 +1757,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -874,7 +1788,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -882,14 +1804,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -897,7 +1835,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -905,14 +1851,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -920,7 +1882,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -928,14 +1898,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -943,7 +1929,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -951,14 +1945,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -966,7 +1976,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -974,14 +1992,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -989,7 +2023,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -997,14 +2039,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1012,7 +2070,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1020,14 +2086,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1035,7 +2117,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1043,14 +2133,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1058,7 +2164,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1066,14 +2180,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1081,7 +2211,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1089,14 +2227,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1104,7 +2258,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1112,14 +2274,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1127,7 +2305,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1135,14 +2321,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1150,7 +2352,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1158,10 +2368,22 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
 
 
+
+
+
+
 <div class="blog_entry">
+
+
+
+
 
 
 
@@ -1169,26 +2391,7 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
-	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=95"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=95">Rebuilding home ownership for Kenyans</a>
 
-
-
-	...
-
-
-
-<a t="comment_link" class="comment_link" href="article.php?article_id=95">View Topic </a></p>
-
-
-
-</div>
-
-
-<div class="blog_entry">
-
-
-
-	<p class="credit"></p>
 
 
 
@@ -1196,7 +2399,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1204,30 +2415,62 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
-</div>
 
 
 
 
 </div>
 
-</div>
+
+
+
+
+
+
 
 
 
 </div>
+
+
+
+</div>
+
+
+
+
+
+
+
+</div>
+
+
 
                       
 
+
+
                       </td>
+
+
 
                     </tr>
 
+
+
                 </tbody></table>
+
+
 
                 
 
+
+
                 <div id="nodebox-1" class="widget widget_plain">
+
+
+
+
 
 
 
@@ -1235,7 +2478,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 <div>
+
+
+
+
 
 
 
@@ -1243,12 +2494,26 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
    
+
+
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1256,7 +2521,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1264,14 +2537,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1279,7 +2568,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1287,14 +2584,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1302,7 +2615,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1310,14 +2631,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1325,7 +2662,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1333,14 +2678,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1348,7 +2709,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1356,14 +2725,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1371,7 +2756,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1379,14 +2772,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1394,7 +2803,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1402,14 +2819,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1417,7 +2850,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1425,14 +2866,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1440,7 +2897,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1448,14 +2913,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1463,7 +2944,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1471,14 +2960,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1486,7 +2991,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1494,14 +3007,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1509,7 +3038,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1517,14 +3054,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1532,7 +3085,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1540,14 +3101,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1555,7 +3132,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1563,14 +3148,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1578,7 +3179,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1586,14 +3195,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1601,7 +3226,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1609,14 +3242,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1624,7 +3273,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1632,14 +3289,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1647,7 +3320,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1655,14 +3336,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1670,7 +3367,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1678,14 +3383,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1693,7 +3414,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1701,14 +3430,30 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 <div class="blog_entry">
 
 
 
+
+
+
+
 	<p class="credit"></p>
+
+
+
+
 
 
 
@@ -1716,7 +3461,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	...
+
+
+
+
 
 
 
@@ -1724,10 +3477,22 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 </div>
 
 
+
+
+
+
 <div class="blog_entry">
+
+
+
+
 
 
 
@@ -1735,7 +3500,15 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=94"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=94">5 Easy Steps to Create Effective &amp; Compelling Email Marketing Flyers</a>
+
+
+
+
 
 
 
@@ -1743,88 +3516,3045 @@ return true;" onmouseout="changeImages('signup_btn',
 
 
 
+
+
+
+
 <a t="comment_link" class="comment_link" href="article.php?article_id=94">View Topic </a></p>
 
 
 
-</div>
 
 
 
 
 </div>
 
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=97"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=97">Try this Real Estate Lead-Generation Idea</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=97">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=98"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=98">Burn Your Brochures: 8 Better Alternatives for Creating Collateral</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=98">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=99"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=99">Getting Started as a New Real Estate Agent by Creating a Niche Busines</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=99">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=100"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=100">Classified Ads Marketing For Realtors - Nobody Reads Newspapers Anymor</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=100">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=101"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=101">How to Generate Real Estate Buyer Leads</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=101">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=102"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=102">How to Get Real Estate Leads Without Spending a Lot of Money</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=102">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=103"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=103">15 Ideas to Make Your Business Card a Persuasive Marketing Tool</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=103">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=104"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=104">Creating a Strategic Marketing Plan For Real Estate</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=104">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=105"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=105">Reasons Why You Should Sell Before Foreclosure </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=105">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=106"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=106">Quick Tips For Serious Real Estate Investors</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=106">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=107"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=107">Marketing - The Weekend Bandit</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=107">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=108"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=108">5 Ways to Profit from Every Meeting with a Seller</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=108">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=109"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=109">6 Real Estate Investing Tips By Steve Gillman</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=109">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=110"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=110">Home Value - How To Lower It</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=110">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=111"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=111">Mobile Real Estate Agent Marketing</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=111">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=112"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=112">Why You Need a Real Estate Agent</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=112">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=113"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=113">How to Decide Whether Or Not to Be a Real Estate Agent</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=113">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=114"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=114">Real Estate Agent Marketing Tips From Top Producers to Knock Your Sock</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=114">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=115"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=115">Things to Do When Selling Your Apartment</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=115">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=116"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=116">Selling Real Estate in a Timely Manner </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=116">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=117"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=117">6 Tips to Sell Your Home </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=117">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=118"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=118">5 Tips For a Quick House Sale</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=118">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=119"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=119">A Few Pointers on Determining Your Home�s Asking Price</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=119">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=120"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=120">Real Estate Down-Payment Options</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=120">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=121"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=121">Why You Must Get Pre-Approved to Buy a Home</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=121">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=122"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=122">Things to Consider When Buying a Repossessed House</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=122">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=123"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=123">Real Estate Agent Marketing Tips From Top Producers to Knock Your Sock</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=123">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=124"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=124">Fifteen Ideas to Make Your Business Card a Persuasive Marketing Tool</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=124">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=125"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=125">A Property Manager Guide to Making Smarter Decisions on Re-Renting</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=125">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=126"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=126">How to Evict a Non Paying Tenant</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=126">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=127"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=127">The Need of Property Management</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=127">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=128"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=128">Is the property bubble about to burst.</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=128">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=129"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=129">Oversupply hurts high class housing market</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=129">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=130"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=130">Home costs stay at the roof, says firm</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=130">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=131"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=131">Kenyan Stocks: Housing Finance, Kenya Electricity Generating </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=131">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=132"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=132">House Prices in Kenya�s Capital Fell 2.2 Per Cent in Third Quarter </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=132">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=133"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=133">Demand for housing in upmarket estates down</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=133">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=134"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=134">Residential house prices falling</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=134">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=135"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=135">Upmarket house prices falling-survey</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=135">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=136"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=136">HassConsult- Setting new standards in real estate.</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=136">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=137"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=137">HassConsult index shows sales have gone down in Nairobi this year</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=137">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=138"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=138">Firm Plans to revolutionalize Kenya�s real estate practice.</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=138">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=139"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=139">Innovation pays off for Hass Consult </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=139">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=140"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=140">Local Real Estate firm wins UK Award </a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=140">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=141"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=141">Rent Out Your Home Option</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=141">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=142"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=142">Difficult Landlords And How You Can Deal With Them</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=142">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=143"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=143">Internet Marketing Strategies - Yes, For the Real Estate Market</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=143">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=144"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=144">5 Common Business Card Mistakes</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=144">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=145"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=145">Bulletin Board Marketing For Realtors - How to Generate Leads From You</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=145">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=146"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=146">Personalise Your Ads And Newsletters</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=146">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=147"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=147">How to Make a Real Estate Video</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=147">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=148"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=148">Senior-Oriented Real Estate Marketing</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=148">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=150"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=150">What Marketing Materials Does a Real Estate Buyer�s Agent Really Need.</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=150">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=151"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=151">Internet Marketing Strategies - Yes, For the Real Estate Market</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=151">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=152"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=152">How to Make a Real Estate Video</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=152">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=153"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=153">Real Estate Marketing Strategies-5 Steps to Becoming a Success Magnet</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=153">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=154"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=154">Five Facebook Pitfalls and How to Avoid Them</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=154">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=155"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=155">Senior-Oriented Real Estate Marketing</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=155">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=156"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=156">Real Estate Agent Marketing-2 Effortless Internet Ways to make Home Bu</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=156">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=157"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=157">FAQs on Housing &amp; Mortgages.</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=157">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<div class="blog_entry">
+
+
+
+
+
+
+
+	<p class="credit"></p>
+
+
+
+
+
+
+
+	<p class="headline" style="font-size:11px;"><a t="nodebox_headline" href="article.php?article_id=158"><img src="images/icon_offsite.gif" alt="" class="icon_hosted"></a><a t="nodebox_headline" href="article.php?article_id=158">Average House Price by Suburb</a>
+
+
+
+
+
+
+
+	...
+
+
+
+
+
+
+
+<a t="comment_link" class="comment_link" href="article.php?article_id=158">View Topic </a></p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
 
 </div>
+
+
+
+
+
+
+
+</div>
+
+
 
                 
 
+
+
                 </td>
+
+
 
                   </tr>               
 
+
+
           </tbody></table>          </td>
 
+
+
         </tr>
+
+
 
           <!--DWLayoutTable-->
 
+
+
           <tr>
+
+
 
             
 
+
+
         </tr>
+
+
 
 </tbody></table></td>
 
+
+
  
+
+
 
   
 
+
+
   </tr><tr>  
+
+
 
     <td height="57" colspan="2" valign="top" style="margin-left:0px; margin-right:0px; padding-left:3px;">
 
+
+
       
+
+
 
       <ul class="dropdown dropdown-horizontal style8 style10">
 
-        <li><a href="terms1.php" class="dir">Terms &amp; Conditions</a></li>
+
+
+        <li><a href="terms.php" class="dir">Terms &amp; Conditions</a></li>
+
+
 
         <li><a href="privacy.php" class="dir">Privacy Policy</a></li>
 
+
+
         <li><a href="http://www.jengaweb.com" target="_blank" class="dir">Copyright © 2010. All Rights Reserved. Designed and Developed by Jenga Web Limited.</a></li>
+
+
 
       </ul>    </td>
 
+
+
   </tr>
+
+
 
 </tbody></table>
 
 
 
+
+
+
+
 <script type="text/javascript">
+
+
 
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 
+
+
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
 
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
+
+
 <script type="text/javascript">
+
+
 
 try {
 
+
+
 var pageTracker = _gat._getTracker("UA-12104541-2");
+
+
 
 pageTracker._trackPageview();
 
+
+
 } catch(err) {}
 
+
+
 </script>
+
+
+
+
 
 
 
