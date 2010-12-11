@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modmomsclub.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612024251id_/http%3A//www.modmomsclub.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modmomsclub.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211100642id_/http%3A//modmomsclub.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Mom2Mom : Privacy Policy | ModMomsClub.com
 
