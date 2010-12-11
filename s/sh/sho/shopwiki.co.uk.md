@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopwiki.co.uk privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305074316id_/http%3A//www.shopwiki.co.uk/wiki/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211104022id_/http%3A//www.shopwiki.co.uk/wiki/Help%3APrivacy) for the most accurate reproduction.*
 
-# Help:Privacy
+# Privacy
 
 #### Effective Date: January 24, 2007
 
@@ -50,10 +50,10 @@ ShopWiki does not control the privacy policies of any Web site linked from our W
 
 #### Disclosure of Information in Public Areas
 
-If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help:Terms+and+Conditions)
+If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
 
 #### Collection of Information From Minors
 
 Our Web site is directed to and intended for use by adults only. We require that a user be eighteen years of age or older to become a ShopWiki member (and in doing so, to submit personal information). We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
 
-[Terms and Conditions](https://web.archive.org/wiki/Help:Terms+and+Conditions)
+[Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
