@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the optonline.net privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630134109id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optonline.net privacy policy that was archived on 2010-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101211125729id_/http%3A//www.optimum.net/Privacy/Sub) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		<title>
@@ -27,20 +27,19 @@
 <link rel="stylesheet" type="text/css" href="http://img.optimum.net/styles/2009/ie6fix.css?zx33"/>
 <![endif]-->
 <script type="text/javascript" src="http://img.optimum.net/js/popups.js"></script>
-<div id="tpGlassPaneDarkDiv"></div>
 <link rel="stylesheet" href="http://img.optimum.net/styles/2009/header_search.css?ab4" type="text/css">
 <div id="HeaderChannel" style="display:none;">Privacy</div>	
 		<div class="hdrWrapper clearfix">
 			<div class="hdrLeft"><a href="/"><img src="http://img.optimum.net/images/header/2009/logo_ool_v2.jpg" width="138" height="88"></a></div>
 			<div class="hdrMdl">				
-				<!-- header search -->						
+				<!-- header search-->						
 				<div class="hdrSearchNew">	
-					<div class="topLinks btmBorderNone"><a href="http://www.optonline.net/OV">Optimum Voice</a><span class="linkSpacer">|</span><a href="/PZN">My Personal Optimum Page</a><span class="linkSpacer">|</span><a href="/Article/MakeHomePage" onclick="tpSetHomePageFooter(this);return false;">Make us your home page</a></div>
+					<div class="topLinks btmBorderNone"><a href="http://www.optonline.net/OV">Optimum Voice</a><span class="linkSpacer">|</span><a href="https://idcenter.services.optimum.net/OptimumSelect">Optimum Select</a><span class="linkSpacer">|</span><a href="/PZN">My Personal Optimum Page</a></div>
 					<div class="srchTab">
 						<div class="srchTop">
-							<div id="t1" class="tab1DivOn" onclick="switchSrchTab('1',document.frmSearchNew);"><div class="label">Web</div></div>
+							<div id="t1" class="tab1DivOn" onclick="switchSrchTab('1');"><div class="label">Web</div></div>
 							<div id="tabMdl" class="tabMdl1Div"></div>
-							<div id="t2" class="tab2Div" onclick="switchSrchTab('2',document.frmSearchNew);"><div class="label">TV &amp; On Demand</div></div>
+							<div id="t2" class="tab2Div" onclick="switchSrchTab('2');"><div class="label">TV &amp; On Demand</div></div>
 							<div class="srchTopRt"></div>
 						</div>
 						<div class="srchBtm">
@@ -66,90 +65,6 @@
 				</div>
 			</div>
 		</div>
-		<!-- MHP popup -->
-<script type="text/javascript">
-<!--
-//show/hide MHP POPUP for Netscape, Firefox browsers
-function showHideMHPdiv(url){
-	if (document.getElementById('MHPCnt').style.display=='none'){
-		document.getElementById('MHPCnt').style.display='block';
-		//document.getElementById('popupMHP').style.display='block';
-		document.getElementById('instrLink').href=url;
-	}else{
-		document.getElementById('MHPCnt').style.display='none';
-	}
-}
-function tpFindPosFooter(obj)
-{
-	var curleft = curtop = 0;
-	if (obj.offsetParent)
-	{
-		curleft = obj.offsetLeft;
-		curtop = obj.offsetTop;
-		while (obj = obj.offsetParent)
-		{
-			curleft += obj.offsetLeft;
-			curtop += obj.offsetTop;
-		}
-	}
-	return [curleft<0?0:curleft,curtop<0?0:curtop];
-}
-function tpSetHomePageFooter(obj)
-{
-	var ua = navigator.userAgent.toLowerCase();
-	if (ua.indexOf('safari') != -1)
-	{
-		location.href='/Article/MakeHomePage#sf1';
-	}
-	else if(ua.indexOf('msie 6.0') != -1 || ua.indexOf('msie 7.0') != -1 || ua.indexOf('msie 8.0') != -1)
-	{
-		obj.style.behavior='url(#default#homepage)';obj.setHomePage('http://www.optimum.net');
-	}
-	else if(ua.indexOf('gecko') != -1)
-	{
-		var div = document.getElementById('MHPCnt');
-		if (div.style.display=='none')
-		{
-			var pos = tpFindPosFooter(obj);
-			div.style.left = pos[0] + obj.offsetWidth/2 - 268;
-			div.style.top = pos[1] + 15;
-			div.style.display='block';
-		}
-		else
-		{
-			div.style.display='none';
-		}
-	}
-	else
-	{
-		location.href='/Article/MakeHomePage';
-	}
-}
-//-->
-</script>
-	<!-- MHP div content for Firefox -->
-	<div id="MHPCnt" style="display:none;" onclick="this.style.display='none';">
-		<div id="popupMHP">
-			<table class="contentMHP" cellpadding="5" cellspacing="0" border="0">
-			<tbody><tr>
-				<td valign="top" width="62"><a style="display:block;position:absolute;width:52px;height:52px;font-size:0px;line-height:0px;background:url(http://img.optimum.net/images/common/icon_mhp.gif);" href="http://www.optimum.net"></a></td>
-				<td valign="top" width="288">
-				<ul class="static">
-					<li>Click, hold and drag the optimum logo onto your browser's Home icon and release.</li>
-					<li>Click yes to confirm when prompted.</li>
-				</ul>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2" align="center" valign="top"><hr class="hrMHP">
-				<a id="instrLink" href="/Article/MakeHomePage" class="blue">Click here for more information.</a>
-				</td> 
-			</tr>
-			</tbody></table>
-			<div class="pointerMHP"></div>	
-		</div>
-	</div>
-	<!-- END MHP div content for Firefox -->
 		<!--top nav-->
 				<!--[if IE]>
 		   <style type="text/css">
@@ -158,9 +73,9 @@ function tpSetHomePageFooter(obj)
 		   <![endif]-->
  	<div id="tpTopMenuBar" class="tnav">
    		<ul>
-  			<li><a id="tn0" href="/"><img src="http://img.optimum.net/images/header/2009/topmenu/home.jpg"></a>
+  			<li><a id="tn0" href="/"><img src="http://www.optimum.net/images/header/2009/topmenu/home.jpg"></a>
     	</li>
-  			<li><a id="tn1" href="/News/Local"><img src="http://img.optimum.net/images/header/2009/topmenu/local.jpg"></a>
+  			<li><a id="tn1" href="/News/Local"><img src="http://www.optimum.net/images/header/2009/topmenu/local.jpg"></a>
      		<div id="submenu1" class="submenu">     
  		    	<div>
      				<a href="/News/News12/Headlines" class="first"><span>News12</span></a> 
@@ -168,7 +83,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn2" href="/News"><img src="http://img.optimum.net/images/header/2009/topmenu/news.jpg"></a>
+  			<li><a id="tn2" href="/News"><img src="http://www.optimum.net/images/header/2009/topmenu/news.jpg"></a>
      		<div id="submenu2" class="submenu" style="width:377px;">     
  		    	<div style="float:left;width:188px;border-right:3px solid #07485e;">
      				<a href="/News/Local" class="first"><span>Local</span></a> 
@@ -214,7 +129,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn3" href="/Sports"><img src="http://img.optimum.net/images/header/2009/topmenu/sports.jpg"></a>
+  			<li><a id="tn3" href="/Sports"><img src="http://www.optimum.net/images/header/2009/topmenu/sports.jpg"></a>
      		<div id="submenu3" class="submenu" style="width:377px;">     
  		    	<div style="float:left;width:188px;border-right:3px solid #07485e;">
      				<a href="http://sports.optimum.net/merge/tsnform.aspx?c=cablevision&amp;page=nfl/news/indexsn.aspx?sport=AB" class="first"><span>Football</span></a> 
@@ -258,7 +173,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn4" href="/TV"><img src="http://img.optimum.net/images/header/2009/topmenu/tv.jpg"></a>
+  			<li><a id="tn4" href="/TV"><img src="http://www.optimum.net/images/header/2009/topmenu/tv.jpg"></a>
      		<div id="submenu4" class="submenu">     
  		    	<div>
      				<a href="http://tvlistings.optimum.net/grid.shtml" class="first"><span>TV Listings</span></a> 
@@ -267,7 +182,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn5" href="/Entertainment/Movies"><img src="http://img.optimum.net/images/header/2009/topmenu/movies.jpg"></a>
+  			<li><a id="tn5" href="/Entertainment/Movies"><img src="http://www.optimum.net/images/header/2009/topmenu/movies.jpg"></a>
      		<div id="submenu5" class="submenu">     
  		    	<div>
      				<a href="/Entertainment/Movies/NowPlaying" class="first"><span>In Theaters</span></a> 
@@ -280,7 +195,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn6" href="/Entertainment/Music"><img src="http://img.optimum.net/images/header/2009/topmenu/music.jpg"></a>
+  			<li><a id="tn6" href="/Entertainment/Music"><img src="http://www.optimum.net/images/header/2009/topmenu/music.jpg"></a>
      		<div id="submenu6" class="submenu">     
  		    	<div>
      				<a href="/Entertainment/Music/MusicChoice" class="first"><span>Music Choice</span></a> 
@@ -288,9 +203,9 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn7" href="http://games.optimum.net/index.aspx"><img src="http://img.optimum.net/images/header/2009/topmenu/games.jpg"></a>
+  			<li><a id="tn7" href="http://games.optimum.net/index.aspx"><img src="http://www.optimum.net/images/header/2009/topmenu/games.jpg"></a>
     	</li>
-  			<li><a id="tn8" href="/ExploreOptimum"><img src="http://img.optimum.net/images/header/2009/topmenu/exploreoptimum.jpg"></a>
+  			<li><a id="tn8" href="/ExploreOptimum"><img src="http://www.optimum.net/images/header/2009/topmenu/exploreoptimum.jpg"></a>
      		<div id="submenu8" class="submenu">     
  		    	<div>
      				<a href="/WiFi" class="first"><span>Optimum WiFi</span></a> 
@@ -299,8 +214,8 @@ function tpSetHomePageFooter(obj)
      					<li><a href="/WiFi/Find">Find</a></li> 
      					<li><a href="/WiFi/Share">Share</a></li> 
      					<li><a href="/WiFi/SetUp">Set Up</a></li> 
-     					<li><a href="/WiFi/FAQ">FAQ</a></li> 
-     					<li><a href="http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/std_alp.php?p_search_text=wifi">WiFi Support</a></li> 
+     					<li><a href="/WiFi/FAQ">Frequently Asked Questions</a></li> 
+     					<li><a href="http://optimum.custhelp.com/app/answers/list/search/1/kw/wifi">WiFi Support</a></li> 
      					<li><a href="/WiFi/TOS">WiFi Terms Of Use</a></li> 
       				</ul><p></p>       
      				<a href="/OptimumSelect" class="sub"><span>Optimum Select</span></a> 
@@ -311,10 +226,10 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn9" href="/MyAccount"><img src="http://img.optimum.net/images/header/2009/topmenu/myaccount.jpg"></a>
+  			<li><a id="tn9" href="/MyAccount"><img src="http://www.optimum.net/images/header/2009/topmenu/myaccount.jpg"></a>
      		<div id="submenu9" class="submenu" style="width:377px;left:-254px;">     
  		    	<div style="float:left;width:188px;border-right:none;">
-     				<a href="javascript:popupNewWindow('/MyAccount/billpay/login')" class="first"><span>Pay My Bill</span></a> 
+     				<a href="https://idcenter.services.optimum.net/MyAccount/BillPay?requestedFlow=S" class="first"><span>Pay My Bill</span></a> 
      				<a href="/Support/PaymentCenters" class="sub"><span>Payment Centers</span></a> 
      				<a href="/MyAccount/OnDemandPurchases" class="sub"><span>On Demand Purchases</span></a> 
      				<a href="https://idcenter.services.optimum.net/OptimumID" class="sub"><span>ID Center</span></a> 
@@ -335,7 +250,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn10" href="/Support"><img src="http://img.optimum.net/images/header/2009/topmenu/support.jpg"></a>
+  			<li><a id="tn10" href="/Support"><img src="http://www.optimum.net/images/header/2009/topmenu/support.jpg"></a>
      		<div id="submenu10" class="submenu" style="left:-70px;">     
  		    	<div>
      				<a href="/Support" class="first"><span>Customer Support</span></a> 
@@ -443,10 +358,10 @@ function tpSetHomePageFooter(obj)
 	<div class="rt"></div>
 </div>
 		<a href="/Privacy" class="mainSelectedSingle"><span>Privacy Policy</span><span class="arrow">&nbsp;</span></a>
-	<img src="http://img.optimum.net/images/leftmenu/2009/nav_bottom.jpg" width="210" height="13">
+	<img src="http://www.optimum.net/images/leftmenu/2009/nav_bottom.jpg" width="210" height="13">
 </div>
 <div align="center" class="center mrTop15" id="DCAdv">
-	<script type="text/javascript" src="http://img.optimum.net/js/sidebar/sidebarAdvertisement.js"></script>
+	<script type="text/javascript" src="http://www.optimum.net/js/sidebar/sidebarAdvertisement.js"></script>
 </div>
 
 		</div>
