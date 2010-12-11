@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsinc.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625233602id_/http%3A//control.newsinc.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsinc.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211123913id_/http%3A//control.newsinc.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # News Distribution Network, Inc. :: Privacy Policy
 
