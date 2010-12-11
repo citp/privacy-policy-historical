@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528134409id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211041112id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield.com - Privacy Policies
 
@@ -88,9 +88,9 @@ Easton Press
 Privacy Policy: [http://www.eastonpressbooks.com/leather/privacy_policy.asp](https://web.archive.org/exchweb/bin/redir.asp?URL=http://www.eastonpressbooks.com/leather/privacy_policy.asp)
 
   
-Cell phone and laptop skin covers  
-Terms of Use: <http://www.istyles.com/conditions.php>  
-Privacy Policy: <http://www.istyles.com/privacy.php>
+Prudent Publishing  
+Terms of Use: <http://www.christmascardsdirect.com/legal.htm>  
+Privacy Policy: <http://www.christmascardsdirect.com/privacy.htm>
 
 UNIVERSAL UCLICK is the sole owner of the information collected from the UNIVERSAL UCLICK service. Your Personal Information can only be collected when you voluntarily provide it.
 
