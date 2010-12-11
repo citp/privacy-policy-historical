@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinchouse.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503093952id_/http%3A//www.cinchouse.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinchouse.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211155559id_/http%3A//cinchouse.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# CinCHouse - Military Spouse - Military Wives - Military Wife - Military Discussion Board
+# CinCHouse.com | Where military wives and women in uniform are 'Commanders in Chief'
 
 CinCHouse.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the CinCHouse.com Web site and governs data collection and usage. By using the CinCHouse.com website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ CinCHouse.com will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-CinCHouse.com welcomes your comments regarding this Statement of Privacy. If you believe that CinCHouse.com has not adhered to this Statement, please contact CinCHouse.com at [Admin@cinchouse.com](mailto:Admin@cinchouse.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+CinCHouse.com welcomes your comments regarding this Statement of Privacy. If you believe that CinCHouse.com has not adhered to this Statement, please contact CinCHouse.com at [admin@cinchouse.com](mailto:admin@cinchouse.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
