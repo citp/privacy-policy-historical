@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-p-e-x.org privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316113500id_/http%3A//www.a-p-e-x.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-p-e-x.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211011517id_/http%3A//www.a-p-e-x.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Apex Web Directory - Privacy Policy
 
