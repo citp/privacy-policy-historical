@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609052509id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emobucket.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211150644id_/http%3A//www.emobucket.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Emo Bucket
 
