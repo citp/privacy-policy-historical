@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618210432id_/http%3A//www.thewatchhut.co.uk/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211175718id_/http%3A//www.thewatchhut.co.uk/privacy-statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement Watches | Quality Designer Watches | The Watch Hut (Page 1)
 
 This notice describes our privacy policy; by visiting our website, you are accepting and consenting to the practices described in this notice.
 
