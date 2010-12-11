@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alicewonderbang.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010257id_/http%3A//www.alicewonderbang.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alicewonderbang.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211202517id_/http%3A//alicewonderbang.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 
 
