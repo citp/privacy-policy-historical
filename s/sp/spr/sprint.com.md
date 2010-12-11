@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529072647id_/http%3A//www.sprint.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211230135id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
 
 # Sprint | Privacy at Sprint Nextel
 
@@ -74,7 +74,7 @@ Back to top 
 
 ## NETWORK AND INFORMATION SECURITY
 
-We maintain a variety of physical, electronic, and procedural safeguards. These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. You can learn more about how you can protect your information by reviewing our [privacy FAQs](http://www2.sprint.com/mr/consumertopic.do?topicId=680).
+We maintain a variety of physical, electronic, and procedural safeguards. These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. You can learn more about how you can protect your information by reviewing our [privacy FAQs](http://newsroom.sprint.com/article_display.cfm?article_id=1472).
 
 Back to top 
 
