@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617144511id_/http%3A//www.squarebrothers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211173815id_/http%3A//www.squarebrothers.com/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy is Assured : We wont sell your email address to anyone
 
@@ -19,6 +19,8 @@ We are extremely happy  to you 24 hrs  a day, 7 days a week and 365 days a yea
   
 ** Call on +91.44.26205355 / 56  
                        9884600900**  
+  
+Need Help? Chat with Experts!  
   
     
 |   
