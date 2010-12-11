@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelspike.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326000259id_/http%3A//travelspike.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelspike.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211043029id_/http%3A//travelspike.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Travel Industry, Online Marketing, Internet Destination Marketing, Tourism Advertising, Interactive Travel Experts - Travel Spike: Interactive Travel Experts
 
