@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sprint.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529072647id_/http%3A//www.sprint.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sprint.com privacy policy that was archived on 2010-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101211230135id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Sprint | Privacy at Sprint Nextel</title>
@@ -32,10 +32,16 @@ ul {
 								<div id="navUtility">
 									<ul>
 										<li>
-											<a href="http://sprint.findlocation.com/search.aspx?INTNAV=ATG:HE:Store">Find a store</a>
+											<a href="http://discover.sprint.com/?INTNAV=WWW:HE:Discover_Sprint">Discover Sprint</a>
+										</li>
+										<li>
+											<a href="http://www.sprintstorelocator.com/?INTNAV=WWW:HE:Store">Find a store</a>
+										</li>
+										<li>
+											<a href="/business/?INTNAV=WWW:HE:BIZ">Business</a>
 										</li>
 										<li class="last">
-											<a href="http://www.sprint.com/business/">Business</a>
+											<a href="http://shop.sprint.com/NASApp/onlinestore/en/Action/CartLanding?INTNAV=WWW:HE:Cart">Shopping Cart</a>
 										</li>
 										<li>
 											<form id="frmSearch" name="frmSearch" method="post" action="http://search.sprint.com/inquiraapp/ui.jsp">
@@ -54,16 +60,60 @@ ul {
 									</ul>			
 								</div>
 					<!-- end utilityNav.html -->
-						<a href="http://www.sprint.com">
+						<a href="http://www.sprint.com?INTNAV=WWW:HE:Logo">
 <!--  Need to adjust the path for the image based on where the styles are pulling from -->						
 							<img id="logo" src="/assets/ui2/css/i/logo_sprint_nav.gif" alt="Sprint">
 						</a>
 						<div id="navWrapper">
 							<div id="navInnerWrapper">
 								<ul id="navGlobal">
-										<li class="topLevel first"><span class="empty">&nbsp;</span></li>
-										
-										
+										<li id="navMySprint" class="topLevel first" onmouseover="sprintLegacyNav.doMouseOver(this)" onmouseout="sprintLegacyNav.doMouseOut(this)" onmouseenter="sprintLegacyNav.doIEMouseEnter(this)" onmouseleave="sprintLegacyNav.doIEMouseLeave(this)">
+											<a href="https://mysprint.sprint.com/mysprint/pages/secure/myaccount/landingPage.jsp?INTNAV=WWW:HE:MyAcct" class="mNav">My Sprint<span id="bottomLeftCornerSelected"></span></a>
+											
+											<ul class="subNav">
+												<li class="first" id="snMSmac"><a href="https://mysprint.sprint.com/mysprint/pages/secure/myaccount/landingPage.jsp?INTNAV=WWW:HE:MyAcct">My account</a></li>
+												<li id="snMSmpp"><a href="https://mysprint.sprint.com/mysprint/pages/secure/myphoneandmedia/myPhoneAndMediaLandingPage.jsp?INTNAV=WWW:HE:MyPhone">My device &amp; media</a></li>
+												<li class="last" id="snMSpref"><a href="https://mysprint.sprint.com/mysprint/pages/secure/mypreferences/myPreferencesLanding.jsp?INTNAV=WWW:HE:Pref">My preferences</a></li>
+											</ul>
+										</li>
+										<li id="navShop" class="topLevel" onmouseover="sprintLegacyNav.doMouseOver(this)" onmouseout="sprintLegacyNav.doMouseOut(this)" onmouseenter="sprintLegacyNav.doIEMouseEnter(this)" onmouseleave="sprintLegacyNav.doIEMouseLeave(this)">
+											<a href="http://shop.sprint.com/en/shop/?INTNAV=WWW:HE:Shop" class="mNav">Shop</a>
+											<ul class="subNav">
+												<li class="first" id="snStpac"><a href="http://shop.sprint.com/NASApp/onlinestore/en/Action/DisplayPackages?INTNAV=WWW:HE:Pkgs">Packages</a></li>
+												<li id="snStpho"><a href="http://shop.sprint.com/NASApp/onlinestore/en/Action/DisplayPhones?INTNAV=WWW:HE:Phones">Phones</a></li>
+												<li id="snStpla"><a href="http://shop.sprint.com/NASApp/onlinestore/en/Action/DisplayPlans?INTNAV=WWW:HE:Plans">Plans</a></li>
+												<li id="snStser"><a href="http://shop.sprint.com/en/services/index.shtml?INTNAV=WWW:HE:Svcs">Services</a></li>
+												<li id="snStacc"><a href="http://shop.sprint.com/en/stores/accessories/index.html?error=0&amp;INTNAV=WWW:HE:Acc">Accessories</a></li>
+												<li id="snStpro"><a href="http://shop.sprint.com/en/promotions/index.shtml?INTNAV=WWW:HE:Promo">Promotions</a></li>
+												<li id="snStcov"><a href="http://coverage.sprint.com/IMPACT.jsp?INTNAV=WWW:HE:Cov">Coverage Maps</a></li>
+												<li class="last" id="snStcart"><a href="http://shop.sprint.com/NASApp/onlinestore/en/Action/CartLanding?INTNAV=WWW:HE:Cart">Shopping Cart</a></li>
+											</ul>
+										</li>
+										<li id="navDigitalLounge" class="topLevel" onmouseover="sprintLegacyNav.doMouseOver(this)" onmouseout="sprintLegacyNav.doMouseOut(this)" onmouseenter="sprintLegacyNav.doIEMouseEnter(this)" onmouseleave="sprintLegacyNav.doIEMouseLeave(this)">
+											<a href="https://manage.sprintpcs.com/digitallounge?action=DigitalLounge&amp;INTNAV=WWW:HE:DigitalLounge" class="mNav">Digital Lounge</a>
+											<ul class="subNav">
+												<li class="first" id="snDLover"><a href="https://manage.sprintpcs.com/digitallounge?action=selectZone&amp;INTNAV=WWW:HE:DLSN:GetMedia">Get Media and Applications</a></li>
+												<li class="last" id="snDLmcm"><a href="https://manage.sprintpcs.com/digitallounge?action=contentManager&amp;INTNAV=WWW:HE:DLSN:MyCont">My Content Manager</a></li>
+											</ul>
+										</li>
+										<li id="navCommunity" class="topLevel" onmouseover="sprintLegacyNav.doMouseOver(this)" onmouseout="sprintLegacyNav.doMouseOut(this)" onmouseenter="sprintLegacyNav.doIEMouseEnter(this)" onmouseleave="sprintLegacyNav.doIEMouseLeave(this)">
+											<a href="http://community.sprint.com/baw/index.jspa?INTNAV=WWW:HE:Community" class="mNav">Community</a>
+											<ul class="subNav">
+												<li class="first" id="snComfor"><a href="http://community.sprint.com/baw/community/buzzaboutwireless?INTNAV=WWW:HE:SprintForums">Sprint Forums</a></li>
+												<li id="snComgrp"><a href="http://community.sprint.com/baw/groups?INTNAV=WWW:HE:Groups">Groups</a></li>
+												<li id="snComrar"><a href="http://community.sprint.com/baw/reviews.jspa?INTNAV=WWW:HE:Reviews">Ratings &amp; Reviews</a></li>
+												<li id="snComblg"><a href="http://community.sprint.com/baw/community/sprintblogs?INTNAV=WWW:HE:SprintBlogs">Sprint Blogs</a></li>
+												<li class="last" id="snComrel"><a href="http://www.sprint.com/responsibility/commitment.html?INTNAV=WWW:HE:Commitment">Community Relations</a></li>
+											</ul>
+										</li>
+										<li id="navSupport" class="topLevel last" onmouseover="sprintLegacyNav.doMouseOver(this)" onmouseout="sprintLegacyNav.doMouseOut(this)" onmouseenter="sprintLegacyNav.doIEMouseEnter(this)" onmouseleave="sprintLegacyNav.doIEMouseLeave(this)">
+											<a href="http://support.sprint.com/support?INTNAV=WWW:HE:SPT" class="mNav">Support</a>
+											<ul class="subNav">
+												<li class="first" id="snSupacc"><a href="http://support.sprint.com/support/accountpage?INTNAV=WWW:HE:SPTSN:ACCT">Accounts</a></li>
+												<li id="snSupdev"><a href="http://support.sprint.com/support/devicepage?INTNAV=WWW:HE:SPTSN:DE">Devices</a></li>
+												<li class="last" id="snSupser"><a href="http://support.sprint.com/support/servicepage?INTNAV=WWW:HE:SPTSN:SVS">Services</a></li>
+											</ul>
+										</li>
 								</ul>
 							</div>
 						</div>
@@ -126,7 +176,7 @@ ul {
     </ul>
     <a href="#top">Back to top</a>&nbsp;<img src="http://www.nextel.com/assets/images/common/icon_back_to_top_arrow.gif" alt=""> <a name="network"></a>
     <h2>NETWORK AND INFORMATION SECURITY</h2>
-    <p>We maintain a variety of physical, electronic, and procedural safeguards.  These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.  You can learn more about how you can protect your information by reviewing our <a href="http://www2.sprint.com/mr/consumertopic.do?topicId=680">privacy FAQs</a>.</p>
+    <p>We maintain a variety of physical, electronic, and procedural safeguards.  These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.  You can learn more about how you can protect your information by reviewing our <a href="http://newsroom.sprint.com/article_display.cfm?article_id=1472">privacy FAQs</a>.</p>
     <a href="#top">Back to top</a>&nbsp;<img src="http://www.nextel.com/assets/images/common/icon_back_to_top_arrow.gif" alt=""> <a name="choices"></a>
     <h2>INFORMATION CHOICES AND CHANGES</h2>
     <p>We offer you choices regarding how we contact you for marketing related communications and whether we use information regarding your online activities for marketing purposes.  Visit <a href="http://sprint.com/privacy">sprint.com/privacy</a> to learn about ways to register your privacy preferences with us.  You may also register a do not contact requests by calling customer care or sending an email to officeofprivacy@sprint.com.  If you register a do-not-contact request, we may still contact you for non-promotional purposes, such as emails about your accounts or our ongoing business relations.  If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites.  If you would like to change certain Sprint account information, you may create an online account and manage your account online.  For more information, visit <a href="http://www.sprint.com">www.sprint.com</a>. </p>
@@ -201,20 +251,21 @@ Analytics.MetricData.action = "Privacy Policy";
     <div class="content">
       <div class="footerBase">
         <ul id="footerActions">
-          <li><a href="http://www.sprint.com/sitemap" id="siteMapLink">Site map</a></li>
+          <li><a href="http://www.sprint.com/sitemap?INTNAV=WWW:FT:Sitemap" id="siteMapLink">Site map</a></li>
         </ul>
         <!-- footerActions -->
         <ul id="navFooter">
           <li>Order by phone 1-866-866-7509</li>
-          <li><a href="http://www.sprint.com/about/">About us</a></li>
-          <li><a href="http://www.sprint.com/contactus/">Contact us</a></li>
-          <li><a href="http://www.sprint.com/index_es.html?dcc=true&amp;language=ES">En Español</a></li>
-          <li><a href="http://www.sprint.com/legal/agreement.html">Terms of use</a></li>
-          <li><a href="http://www.sprint.com/legal/privacy.html">Privacy policy</a></li>
-          <li class="last"><a href="http://www.sprint.com/legal/copyright.html">Copyright notices</a></li>
+		  <li><a href="http://delivery.sprint.com/m/p/nxt/reg/cmb/generic.asp?INTNAV=WWW:FT:Email">Email Sign Up</a></li>
+          <li><a href="http://www.sprint.com/about/?INTNAV=WWW:FT:About">About us</a></li>
+          <li><a href="http://www.sprint.com/contactus/?INTNAV=WWW:FT:ContactUs">Contact us</a></li>
+          <li><a href="http://www.sprint.com/index_es.html?dcc=true&amp;language=ES&amp;INTNAV=WWW:FT:ES">En Español</a></li>
+          <li><a href="http://www.sprint.com/legal/agreement.html?INTNAV=WWW:FT:Terms">Website &amp; Use Terms</a></li>
+          <li><a href="http://www.sprint.com/legal/privacy.html?INTNAV=WWW:FT:Privacy">Privacy policy</a></li>
+          <li class="last"><a href="http://www.sprint.com/legal/copyright.html?INTNAV=WWW:FT:Copyright">Copyright notices</a></li>
         </ul>
         <!-- .navFooter -->
-        <p>© 2010 Sprint.com All rights reserved</p>
+        <p>© 2010 Sprint. All rights reserved</p>
         <!-- Omniture 2.0 --->
         <!-- S code has been replaced with a numeric wrapper. Please make changes to /assets/scripts/analytics/web/omniWidget.js that you would normally make to s_code.js -->
         <script type="text/javascript" src="/assets/scripts/analytics/analyticsFramework.js"></script>
