@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the lexis.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627043042id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexis.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211122655id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.*
 
-# LexisNexis
+# LexisNexis Privacy Statement - LexisNexis
 
 ## Your Privacy is Important to Us
 
-Effective March 6, 2006
-
-(March changes added the following Web sites to this policy: accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com)
+Effective March 6, 2006
 
 ## Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on [LexisNexis home page](https://web.archive.org/default.aspx "LexisNexis home page") and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will use the term "our Web site", which means lexisnexis.com, lexis.com®, nexis.comSM, lexisONE.com®, martindale.comSM, lawyers.comSM, accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com. Other LNG Web sites may operate under their own privacy notices.
+This notice applies to all information collected from or submitted to the LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will use the term "our Web site", which includes lexisnexis.com, lexis.com®, nexis.comSM, lexisONE.com®, and lawyers.comSM. You may have also been directed to this Privacy Statement from other web sites owned or operated by LNG that have adopted this policy.   Other LNG Web sites may operate under their own privacy notices such as the lexisnexis.com/risk online privacy policy for [www.lexisnexis.com/risk](http://www.lexisnexis.com/risk) and affiliated hypersites.
 
 Our Web site contains links to other Web sites operated by third parties. LNG is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those Web sites.
 
