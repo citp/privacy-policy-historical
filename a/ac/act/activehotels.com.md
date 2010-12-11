@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activehotels.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102012304id_/http%3A//www.activehotels.com/hotel/static/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activehotels.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211202531id_/http%3A//www.activehotels.com/hotel/static/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy · Active Hotels
 
