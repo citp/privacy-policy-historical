@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mv3gp.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310215846id_/http%3A//www.mv3gp.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mv3gp.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211191436id_/http%3A//www.mv3gp.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for mv3gp.com
 
