@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netchunks.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611145107id_/http%3A//www.netchunks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netchunks.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211040127id_/http%3A//www.netchunks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netchunks
 
@@ -15,7 +15,7 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 **Collection of Personal Information**  
 When visiting Netchunks, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Links to third party Websites**  
+**[Links](http://www.netchunks.com/links/ "Links") to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 **Changes to this Privacy Statement**  
