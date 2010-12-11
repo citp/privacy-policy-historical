@@ -1,47 +1,45 @@
-> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2007-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070622215323id_/http%3A//www.worldcurling.org/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211231837id_/http%3A//www.worldcurling.org/privacy-policy) for the most accurate reproduction.*
 
-# World Curling Federation > Home
+# World Curling Federation - Privacy Policy
 
-World Curling Federation is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the World Curling Federation Web site and governs data collection and usage. By using the World Curling Federation website, you consent to the data practices described in this statement.
+#### Information
 
-Collection of your Personal Information
+Privacy Policy
 
-World Curling Federation collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. World Curling Federation also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+The World Curling Federation makes every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
-There is also information about your computer hardware and software that is automatically collected by World Curling Federation. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by World Curling Federation for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the World Curling Federation Web site.
+ **Information Collection and Use**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through World Curling Federation public message boards, this information may be collected and used by others. Note: World Curling Federation does not read any of your private online communications.
+We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The World Curling Federation collects information from our users at several different points on our web site. The World Curling Federation recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site.
 
-World Curling Federation encourages you to review the privacy statements of Web sites you choose to link to from World Curling Federation so that you can understand how those Web sites collect, use and share your information. World Curling Federation is not responsible for the privacy statements or other content on Web sites outside of the World Curling Federation and World Curling Federation family of Web sites.
+We consider the following to be Personal Identifying Information: your e-mail address, name, password, mailing address, and credit card information. This web site does not collect Personal Identifying Information about a user other than information that is voluntarily provided to our organisation; in this way, we can serve the user's needs as well as our own legitimate business purposes. (For example, we retain the Personal Identifying Information that a user provides when he or she chooses to register with The World Curling Federation).
 
-Use of your Personal Information
+Our company uses a user's Personal Identifying Information in order to help us improve our web site, or for our company's marketing and promotional purposes if you have opted to receive these kinds of communications. This information will be treated confidentially within our company. While our policy is not to share this information with third parties, we do share aggregate information with other companies within The World Curling Federation.
 
-World Curling Federation collects and uses your personal information to operate the World Curling Federation Web site and deliver the services you have requested. World Curling Federation also uses your personally identifiable information to inform you of other products or services available from World Curling Federation and its affiliates. World Curling Federation may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+ **Cookies**
 
-World Curling Federation does not sell, rent or lease its customer lists to third parties. World Curling Federation may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, World Curling Federation may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to World Curling Federation, and they are required to maintain the confidentiality of your information.
+A cookie is a piece of data stored on the user's hard drive tied to aggregate information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
-World Curling Federation does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-World Curling Federation keeps track of the Web sites and pages our customers visit within World Curling Federation, in order to determine what World Curling Federation services are the most popular. This data is used to deliver customized content and advertising within World Curling Federation to customers whose behavior indicates that they are interested in a particular subject area.
+ **Log Files**
 
-World Curling Federation Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on World Curling Federation or the site; (b) protect and defend the rights or property of World Curling Federation; and, (c) act under exigent circumstances to protect the personal safety of users of World Curling Federation, or the public.
+Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information, except to prevent fraud or abuse of the system.
 
-Use of Cookies
+ **Sharing**
 
-The World Curling Federation Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize World Curling Federation pages, or register with World Curling Federation site or services, a cookie helps World Curling Federation to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same World Curling Federation Web site, the information you previously provided can be retrieved, so you can easily use the World Curling Federation features that you customized.
+From time to time we partner with outside service providers. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the World Curling Federation services or Web sites you visit.
+ **Links**
 
-Security of your Personal Information
+This web site contains links to other sites. Please be aware that we (The World Curling Federation) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-World Curling Federation secures your personal information from unauthorized access, use or disclosure. World Curling Federation secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+ **Security**
 
-Changes to this Statement
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-World Curling Federation will occasionally update this Statement of Privacy to reflect company and customer feedback. World Curling Federation encourages you to periodically review this Statement to be informed of how World Curling Federation is protecting your information.
+ **Notification of Changes**
 
-Contact Information
-
-World Curling Federation welcomes your comments regarding this Statement of Privacy. If you believe that World Curling Federation has not adhered to this Statement, please contact World Curling Federation at [admin@worldcurling.org](mailto:admin@worldcurling.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. However, if you have removed your personal information you will not be contacted, nor will your information be used in this new manner.
