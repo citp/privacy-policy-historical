@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517140208id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211040927id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
 
-# 64bit and x64 - Privacy Policy
+# Privacy Policy
 
-hétfõ, 03 március 2008   
-  
 ### Privacy Policy
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site start64.com. The following discloses the information gathering and dissemination practices for this Web site. 
