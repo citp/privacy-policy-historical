@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fastw3b.net privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523094651id_/http%3A//www.fastw3b.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastw3b.net privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211103728id_/http%3A//fastw3b.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Fastweb has created this privacy statement in order to demonstrate our firm commitment to privacy. [](http://www.getafreelancer.com/)
+Fastweb has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
 ### Details
 
