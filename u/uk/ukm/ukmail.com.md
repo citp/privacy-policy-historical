@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukmail.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602004530id_/http%3A//www.ukmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukmail.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211111948id_/http%3A//www.ukmail.com/privacy.html) for the most accurate reproduction.*
 
 # UK Mail | Privacy Policy
 
@@ -11,7 +11,7 @@ UK Mail facilitates the delivery of important letters, parcels and documents. A
 Your privacy is important to us. This privacy policy is intended to give you confidence in the privacy and security of the personal information we obtain from you whether you are merely visiting our Website, or are making a payment using our online credit card facility. However, please note that we are not responsible for any use of your personal information in respect of third party websites that may be accessed via this Website. You will therefore need to review the privacy policy of any third party websites that you use.
 
 **Collection of Personal Information  
-** When you access our Website, cookie information pages you have requested and your IP address may be recorded by us and/or third parties from your browser as set out in this policy [http://www.ukmail.com/privacy.html](https://web.archive.org/web/20100602004530id_/http%3A//www.ukmail.com/privacy.html).  
+** When you access our Website, cookie information pages you have requested and your IP address may be recorded by us and/or third parties from your browser as set out in this policy [http://www.ukmail.com/privacy.html](https://web.archive.org/web/20101211111948id_/http%3A//www.ukmail.com/privacy.html).  
 If you use this Website you may be asked for personally identifiable information such as your name and address. By giving us such information you will need to consent to our using it in the manner described in this policy. On-line credit and debit card payments to UK Mail are made through a third party provider and will require us to share personal information with Close Credit Management Limited. It is important that you review their Privacy Policy at Close Credit Management Limited’s website,www.paicheck.com before using the online payment facility.  
 You may withdraw your consent at any time by emailing us at [marketing@ukmail.com](mailto:marketing@ukmail.com)  
 
