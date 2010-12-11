@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wqxr.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612231112id_/http%3A//www.wqxr.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqxr.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211075706id_/http%3A//www.wqxr.org/about/privacy) for the most accurate reproduction.*
 
 # WQXR Privacy Policy - WQXR
 
