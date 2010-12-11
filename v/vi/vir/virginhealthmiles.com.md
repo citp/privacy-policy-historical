@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginhealthmiles.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117014118id_/http%3A//www.virginhealthmiles.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginhealthmiles.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211060620id_/http%3A//us.virginhealthmiles.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Virgin HealthMiles: Privacy Policy
+# Virgin HealthMiles - privacypolicy
 
 Virgin HealthMiles, Inc. ("Virgin HealthMiles") is committed to protecting your privacy. This Privacy Policy explains what we can and cannot do with the information we collect about you and what steps you can take to protect that information.  
 
