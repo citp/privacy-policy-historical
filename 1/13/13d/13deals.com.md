@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 13deals.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106123647id_/http%3A//www.13deals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13deals.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211202509id_/https%3A//13deals.com/privacy.php) for the most accurate reproduction.*
 
-# 13 Deals
+# 13 Deals.com -
 
 **What information do we collect?**
 
@@ -84,7 +84,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.13deals.com  
 515 W. Walnut Street  
 Johnson City, TN 37604  
-USA  
-sales@13deals.com  
+USA
+
 423-207-1292  
 
