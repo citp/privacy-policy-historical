@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autosite.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525142931id_/http%3A//www.autosite.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosite.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211025230id_/http%3A//www.autosite.com/content/home/help/index.cfm%3Fid%3D10714%3BASITE%26action%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy and Security
+# Privacy and Security | AutoSite.com
 
 |   
 ---|---  
