@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyleo.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404073915id_/http%3A//www.propertyleo.com/privacy1.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyleo.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211025633id_/http%3A//www.propertyleo.com/privacy.php) for the most accurate reproduction.*
 
 # Propertyleo, Kenya's Ultimate Real Estate Guide | Privacy
 
