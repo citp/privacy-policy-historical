@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citehr.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204135521id_/http%3A//www.citehr.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citehr.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211190345id_/http%3A//www.citehr.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CiteMan Network
 
@@ -19,7 +19,10 @@ You may choose to provide us with personal information, as in e-mail with a comm
 A) **Visiting the site** \- If all you do is visit and surf the site no cookies are used.  
 B) **Logging in** \- If you decide to use a cookie (this is done by checking the box that logs you in automatically) to save you logging in every time you visit CiteMan Network, we place a little text file called a "cookie" on your hard drive. It sits in your web browser directory. A cookie lets us store your profile information on your computer and lets our web site retrieve it when you visit our site. No other web site can use or view the cookie set by CiteMan Network. Cookies help us create a speedy web experience by remembering your user name and email information, so you don't have to re-type it when signing in. Cookies do not store personal information and we do not use them to track your movements through our site and you do not need cookies to use this site (you will simply have to log in at every visit) it's your choice.  
 C) **Spell Check** \- The spell check has the ability to learn from you. That means that if a word is consistently marked as a misspelled word (a member's name that is not in the dictionary for example) you can click the button "learn" in the spell checker and this word will be saved to a cookie so that it will not be marked as a misspelled word in the future. If you do not use this feature the Spell Checker does not use any cookies.  
-If at any time we add anything else that uses a cookie the privacy policy will be updated. If you find a cookie from our site that you think does not fall under one of those categories please contact us. 
+If at any time we add anything else that uses a cookie the privacy policy will be updated. If you find a cookie from our site that you think does not fall under one of those categories please contact us.   
+D) * Google, as a third party vendor, uses cookies to serve ads on our site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **V. Posting to the site**  
 If you post a message on the site it is stored in a database. The pages then display information from the database so that others can read your post on the forums. This is how any dynamic site works, the text has to be stored somewhere so that it can be displayed.
