@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risermedia.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515021541id_/http%3A//www.risermedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risermedia.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211225239id_/http%3A//risermedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Riser Media | Creative Graphic & Web Design Agency in SLC, Utah
 
@@ -6,7 +6,7 @@ Our postal address is
 477 W. 50 N  
 American Fork, UT 84003
 
-We can be reached via e-mail at [info@jandaco.com](mailto:info@jandaco.com) or you can reach us by telephone at **801-492-1903**
+We can be reached via e-mail at [info@risermedia.com](mailto:info@jandaco.com) or you can reach us by telephone at **801-492-1903**.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -14,7 +14,7 @@ We collect information volunteered by the consumer, such as survey information a
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
-With respect to cookies: We do not set any cookies. 
+With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
@@ -26,9 +26,9 @@ If you supply us with your postal address on-line you will only receive the info
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations. 
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
