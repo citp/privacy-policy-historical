@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114021815id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211205620id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
 
 # Tokyoflash Japan : Privacy & Security
 
@@ -6,9 +6,16 @@ At Tokyoflash Japan we are commited to providing an honest privacy policy and th
 
 Our dedicated server uses High-Grade 256 bit SSL Encryption to protect your information. The highest level possible. To view our security certificate please click on the Padlock Icon in your browser.
 
+Once you enter the Checkout page to make payment, enter the Registration page to create an account or view this Security policy page your connection to our website will become encrypted. You can verfity this by checking that the URL in your browser starts with HTTPS and that you can see the Padlock icon in the corner of your browsers window. 
+
 ## Cookies
 
-Cookies are files which store information about your visit to a website. Our website uses non-persistant cookies to provide a better browsing experience. This means that once you leave our website, the cookies are deleted. The information stored by our cookies is non-personal, it is used only to remember your language and currency preference.
+Cookies are files which store information about your visit to a website. Our website uses two types of cookie. 
+
+Non-persistant cookies are provide a better browsing experience & do not store any personal information. We use them only to remember your language, currency preference and login details. Once you leave our website, these non-presistant cookies are deleted.
+
+Persistant cookies are also used on our website if you choose to create an account with us AND wish your browser to remember your login details. In this case, your browser will save an encrypted cookie on your computer which is used to automatically log you in to our website when you visit. This type of cookie is optional & you are asked if you would like to use it when logging in.  
+Should you wish to delete any cookies from your computer then you can find this option in your browsers preferences. Our cookies are identified by the name www.tokyoflash.com 
 
 ## Your personal information
 
@@ -25,19 +32,3 @@ We keep a record of your purchase to provide warranty support. If you have a war
 If you have any questions or comments about your security or privacy, please contact 
 
 [[Return to Homepage](http://www.tokyoflash.com/en/)]
-
-### Quick Basket
-
-Your basket is empty
-
-### Register
-
-for discounts & new releases.
-
-[privacy](https://www.tokyoflash.com/en/privacy/)
-
-[](http://www.tokyoflash.com/en/help/)
-
-### [Help](http://www.tokyoflash.com/en/help/)
-
-Delivery questions, info & FAQ's
