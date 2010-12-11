@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phaidon.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604052554id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaidon.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211211647id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Phaidon
 
 Privacy policy
 
