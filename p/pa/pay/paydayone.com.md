@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607051828id_/http%3A//www.paydayone.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayone.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211160408id_/http%3A//www.paydayone.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PayDayOne.com - Privacy Policy
 
