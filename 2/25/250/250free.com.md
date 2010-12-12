@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518200931id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212025208id_/http%3A//250free.com/privacy.php) for the most accurate reproduction.*
 
 # 250Free.com - Get your 250 Megabyte homepage free! Build your website free!
 
