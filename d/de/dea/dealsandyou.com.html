@@ -1,0 +1,975 @@
+<!--The following is the downloaded HTML source of the dealsandyou.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212222453id_/http%3A//www.dealsandyou.com/pages.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="LTR" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+</head><body>
+<!-- snow fall js -->
+
+<!-- end of js -->
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+        <script type="text/javascript">
+	window.fbAsyncInit = function() {
+		FB.init({appId: '131835656868548', status: true, cookie: true, xfbml: true});
+
+		/* All the events registered */
+		FB.Event.subscribe('auth.login', function(response) {
+			// do something with response
+			login();
+		});
+		
+		FB.Event.subscribe('auth.logout', function(response) {
+			// do something with response
+			logout();
+		});
+
+		FB.getLoginStatus(function(response) {
+			if (response.session) {
+				// logged in and connected user, someone you know
+				login();
+			}
+		});
+	};
+	(function() {
+		var e = document.createElement('script');
+		e.type = 'text/javascript';
+		e.src = document.location.protocol +
+			'//connect.facebook.net/en_US/all.js';
+		e.async = true;
+		document.getElementById('fb-root').appendChild(e);
+	}());
+
+	function login(){
+		FB.api('/me', function(response) {
+			document.getElementById('login').style.display = "block";
+			fqlQuery();
+			
+		});
+	}
+	function logout(){
+		document.getElementById('login').style.display = "none";
+		location.href = 'logoff.php?cPath=1';
+	}
+
+	//stream publish method
+	function streamPublish(name, description, hrefTitle, hrefLink, userPrompt){
+		FB.ui(
+		{
+			method: 'stream.publish',
+			message: '',
+			attachment: {
+				name: name,
+				caption: '',
+				description: (description),
+				href: hrefLink
+			},
+			action_links: [
+				{ text: hrefTitle, href: hrefLink }
+			],
+			user_prompt_message: userPrompt
+		},
+		function(response) {
+
+		});
+
+	}
+	function showStream(){
+		FB.api('/me', function(response) {
+			//console.log(response.id);
+			streamPublish(response.name, 'Thinkdiff.net contains geeky stuff', 'hrefTitle', 'http://thinkdiff.net', "Share thinkdiff.net");
+		});
+	}
+
+	function share(){
+		var share = {
+			method: 'stream.share',
+			u: 'http://thinkdiff.net/'
+		};
+
+		FB.ui(share, function(response) { console.log(response); });
+	}
+
+	function graphStreamPublish(){
+		var body = 'Reading New Graph api & Javascript Base FBConnect Tutorial';
+		FB.api('/me/feed', 'post', { message: body }, function(response) {
+			if (!response || response.error) {
+				alert('Error occured');
+			} else {
+				alert('Post ID: ' + response.id);
+			}
+		});
+	}
+
+	
+	function getCookie(c_name)
+	{
+	if (document.cookie.length>0)
+	  {
+	  c_start=document.cookie.indexOf(c_name + "=");
+	  if (c_start!=-1)
+		{
+		c_start=c_start + c_name.length+1;
+		c_end=document.cookie.indexOf(";",c_start);
+		if (c_end==-1) c_end=document.cookie.length;
+		return unescape(document.cookie.substring(c_start,c_end));
+		}
+	  }
+	return "";
+	}
+	
+	
+	function fqlQuery(){
+		FB.api('/me', function(response) {
+			 var query = FB.Data.query('select email, name, hometown_location, sex, pic_square, religion, birthday, sex, relationship_status, interests, activities,contact_email, online_presence, movies, music, political, tv, quotes, current_location, profile_blurb from user where uid={0}', response.id);
+			 query.wait(function(rows) {
+								 
+			    var x = getCookie('fb_login_details');
+				
+				if (x == '') {
+
+				document.cookie = "fb_login_details="+rows[0].email + "|" + rows[0].name + "|" + rows[0].activities + "|" + rows[0].interests  + "|" + rows[0].relationship_status  + "|" + rows[0].sex  + "|" + rows[0].birthday  + "|" + rows[0].contact_email  + "|" + rows[0].religion  + "|" + rows[0].movies  + "|" + rows[0].political  + "|" + rows[0].music  + "|" + rows[0].quotes + "|" + rows[0].tv + "|" + rows[0].pic_square + "|" + rows[0].profile_blurb + "|" + response.id +"; expires=2010-12-20;";
+				
+				
+			   document.getElementById('name').innerHTML = '';
+				
+				  location.href = 'facebook_page_code.php';
+				}
+				
+				
+				
+			 });
+		});
+		
+	}
+
+	
+		
+	function setStatus(){
+		status1 = document.getElementById('status').value;
+		FB.api(
+		  {
+			method: 'status.set',
+			status: status1
+		  },
+		  function(response) {
+			if (response == 0){
+				alert('Your facebook status not updated. Give Status Update Permission.');
+			}
+			else{
+				alert('Your facebook status updated');
+			}
+		  }
+		);
+	}
+</script><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>Welcome To Deals and You Daily Deals</title>
+<meta name="title" content="Welcome To Deals and You Daily Deals">
+  <meta name="Description" content="dealsandyou.com serves Daily amazing Deals on fun things to do, see and experience in your city at upto 90% discount based on collective bargaining!">
+  <meta name="Keywords" content="DealandYou.com,daily deals, discount rates, deals, discount coupons">
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- EOF: Generated Meta Tags -->
+
+<base href="http://www.dealsandyou.com/">
+
+<!-- start get_javascript(applicationtop2header) //-->
+<script>
+  function intMobile(i)
+	{
+		if(i.value.length>0) {
+			i.value = i.value.replace(/[^\d]+/g, ''); 
+		}
+		
+		if(i.value.length > 12 || i.value.length < 8) {
+			alert("Please Enter Valid Mobile Number Of Minimum 8 Digits and Maximum 12 Digits"); 
+			i.focus()
+			return false();
+		}
+	}
+	
+	
+  function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail ID")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail ID")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail ID")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+ 		 return true					
+	}
+  
+  function feat_contact() {
+ 
+ 	if(document.contact_us.name.value=='')
+	{
+		alert("Please Enter Your Name");
+		document.contact_us.name.focus();
+		return false;
+	}
+	
+	var emailaddr=document.contact_us.email;
+  	if(document.contact_us.email.value=='')
+	{
+		alert("Please Enter Email Id");
+		document.contact_us.email.focus();
+		return false;
+	}
+	
+	if (echeck(emailaddr.value)==false){
+		//emailaddr.value=""
+		emailaddr.focus()
+		return false
+	}
+	
+	if(document.contact_us.city_name.value=='')
+	{
+		alert("Please Select City");
+		document.contact_us.city_name.focus();
+		return false;
+	}
+	
+	if(document.contact_us.mobile_no.value=='')
+	{
+		alert("Please Enter Your Mobile No");
+		document.contact_us.mobile_no.focus();
+		return false;
+	}
+	
+	if(document.contact_us.enquiry.value=='')
+	{
+		alert("Please Enter Enqyiry");
+		document.contact_us.enquiry.focus();
+		return false;
+	}
+	
+  }
+  
+  function feat()
+  {
+  
+   if(document.getfeatured_frm.first_name.value=='')
+	{
+		alert("Please Enter Your First Name");
+		document.getfeatured_frm.first_name.focus();
+		return false;
+	}
+	
+	if(!(document.getfeatured_frm.first_name.value.match(/^[A-Za-z ]+$/)))		 //just make space 
+	{
+		alert("Please Enter Alphabets in First Name:");
+		document.getfeatured_frm.first_name.value='';
+		document.getfeatured_frm.first_name.focus();
+		return false;
+	}
+	
+	if(document.getfeatured_frm.last_name.value=='')
+	{
+		alert("Please Enter Your Last Name");
+		document.getfeatured_frm.last_name.focus();
+		return false;
+	}
+	
+	if(!(document.getfeatured_frm.last_name.value.match(/^[a-zA-Z ]+$/)))    //just make space 
+	{
+		alert("Please Enter Alphabets in Last Name:");
+		document.getfeatured_frm.last_name.value='';
+		document.getfeatured_frm.last_name.focus();
+		return false;
+	}
+	
+	if(document.getfeatured_frm.company.value=='')
+	{
+		alert("Please Enter Company Name");
+		document.getfeatured_frm.company.focus();
+		return false;
+	}
+	
+	if(!(document.getfeatured_frm.company.value.match(/^[a-zA-Z ]+$/)))    //just make space 
+	{
+		alert("Please enter alphabets in company name:");
+		document.getfeatured_frm.company.value='';
+		document.getfeatured_frm.company.focus();
+		return false;
+	}
+	
+	if(document.getfeatured_frm.mobile_no.value=='')
+	{
+		alert("Please enter mobile number");
+		document.getfeatured_frm.mobile_no.focus();
+		return false;
+	}
+	
+	if(!(document.getfeatured_frm.mobile_no.value.match(/^[0-9]+$/)))    
+	{
+		alert("Please enter numeric value in mobile number!");
+		document.getfeatured_frm.mobile_no.value='';
+		document.getfeatured_frm.mobile_no.focus();
+		return false;
+	}
+	
+	var Phone=document.getfeatured_frm.mobile_no;
+	if ((document.getfeatured_frm.mobile_no.value.length<10))
+	{
+		alert("Please enter minium ten digit in mobile number!")
+		Phone.focus()
+		return false
+	}
+	if ((document.getfeatured_frm.mobile_no.value.length>12))
+	{
+		alert("Mobile number should not bhe greater than 12 digits!")
+		Phone.focus()
+		return false
+	}
+	
+  var emailID=document.getfeatured_frm.email_id;
+  if(document.getfeatured_frm.email_id.value=='')
+	{
+		alert("Please Enter Email Id");
+		document.getfeatured_frm.email_id.focus();
+		return false;
+	}
+	if (echeck(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+	}
+	if(document.getfeatured_frm.cityname.value=='')
+	{
+		alert("Please Select City");
+		document.getfeatured_frm.cityname.focus();
+		return false;
+	}
+	 if(document.getfeatured_frm.remarks.value=='')
+	{
+		alert("Please Enter Remarks");
+		document.getfeatured_frm.remarks.focus();
+		return false;
+	}
+       alert("Thank you..We will get back to you on this shortly");
+	   return true;
+  }
+</script>
+<!-- end get_javascript(applicationtop2header) //-->
+
+<link rel="stylesheet" type="text/css" href="wanamo_style.css">
+<link rel="shortcut icon" href="images/w.png" mce_href="http://www.dealsandyou.com">
+
+<!--Google Analatics-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12979828-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<style type="text/css">
+
+
+.black_overlay{display: none;
+                  position: absolute;
+                  top: 0%;
+                  left: 0%;
+                  width: 100%;
+                  height: 170%;
+                  background-color:Gray;
+                  z-index:1001;
+                  -moz-opacity: 0.8;
+                  opacity:.80;
+                  filter: alpha(opacity=80);}
+.white_content {
+	display: none;
+	position: absolute;
+	top: 129px;
+	left: 262px;
+	width: 475px;
+	padding: 16px;
+	border: 2px solid #990000;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+
+
+</style>
+<script type="text/javascript">_vz_accountID="D47RCqMCcD2E1EHTw94GpA=="; if(typeof(_vz_sense) == "function") _vz_sense();</script>
+
+<noscript>
+  <img src="http://vizisense.net/cgi-bin/trail.fcgi?accountID=D47RCqMCcD2E1EHTw94GpA==&amp;isScript=false" style="display: none;" border="0" height="1" width="1" alt="vzSense"/>
+</noscript>
+<!-- /vzSense -->
+
+<script language="JavaScript1.2" type="text/javascript">
+        function verify(form)
+        {
+           var passed = false;
+        var blnRetval, intAtSign, intDot, intComma, intSpace, intLastDot, intDomain, intStrLen;
+        if (form.Email){
+                       intAtSign=form.Email.value.indexOf("@");
+                        intDot=form.Email.value.indexOf(".",intAtSign);
+                        intComma=form.Email.value.indexOf(",");
+                        intSpace=form.Email.value.indexOf(" ");
+                        intLastDot=form.Email.value.lastIndexOf(".");
+                        intDomain=intDot-intAtSign;
+                        intStrLen=form.Email.value.length;
+                // *** CHECK FOR BLANK EMAIL VALUE
+                   if (form.Email.value == "" )
+                   {
+                alert("You have not entered an email address.");
+                form.Email.focus();
+                passed = false;
+                }
+                // **** CHECK FOR THE  @ SIGN?
+                else if (intAtSign == -1)
+                {
+
+                alert("Your email address is missing the \"@\".");
+                        form.Email.focus();
+                passed = false;
+
+                }
+                // **** Check for commas ****
+
+                else if (intComma != -1)
+                {
+                alert("Email address cannot contain a comma.");
+                form.Email.focus();
+                passed = false;
+                }
+
+                // **** Check for a space ****
+
+                else if (intSpace != -1)
+                {
+                alert("Email address cannot contain spaces.");
+                form.Email.focus();
+                passed = false;
+                }
+
+                // **** Check for char between the @ and dot, chars between dots, and at least 1 char after the last dot ****
+
+                else if ((intDot <= 2) || (intDomain <= 1)  || (intStrLen-(intLastDot+1) < 2))
+                {
+                alert("Please enter a valid Email address.\n" + form.Email.value + " is invalid.");
+                form.Email.focus();
+                passed = false;
+                }
+                else {
+                        passed = true;
+                }
+        }
+        else    {
+                passed = true;
+        }
+        return passed;
+  }
+        //-->
+</script>
+
+<!-- top dropdown menu js -->
+<link rel="stylesheet" href="js/style.css" type="text/css">
+<script type="text/javascript" src="js/script.js"></script>
+<!-- end of js -->
+
+<!-- feedback right js -->
+<!--<script type="text/javascript"  type="text/javascript"></script>
+<script type="text/javascript" type="text/javascript"></script>-->
+<!-- end of feedback right js -->
+
+<link href="DnY-css/DnY.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="light" style="text-align:center; color:#990000; height:218px" class="white_content">
+                  <span style="font-size:20px;font-weight:bold"> <table width="478" height="200" border="0" cellpadding="0" cellspacing="0" style="border:5px solid #dc0000;">
+				  
+        <tbody><tr>
+          <td align="left" bgcolor="#191919">
+		  
+		  <img src="http://www.dealsandyou.com/images/logo.gif" alt="Deals and You" width="200" height="50" border="0" title="Deals and You"> 
+		  
+		  </td>
+        </tr>       
+        <tr>
+          <td align="center" style="padding:10px 0px;">
+  <table width="350" border="0" cellpadding="5" cellspacing="0">
+    <tbody><tr>
+      <td colspan="3" align="center" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;" onclick="g">Please select your City</td>
+      </tr>
+    <tr>
+      <td width="100" align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;" onclick="g"><a href="#" onclick="SetCookie('Delhi-1')">Delhi</a></td>
+      <td width="100" align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;">
+      <a href="#" onclick="SetCookie('Mumbai-3')">Mumbai</a>
+     </td>
+        <td width="100" align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Bangalore-4')">Bangalore</a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Kolkata-6')">Kolkata</a></td>
+      <td width="100" align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Pune-7')">Pune</a></td>
+      <td align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Hyderabad-8')">Hyderabad</a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Chennai-9')">Chennai</a></td>
+      <td width="100" align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Ahmedabad-10')">Ahmedabad</a></td>
+      <td align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Jaipur-12')">Jaipur</a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;"><a href="#" onclick="SetCookie('Chandigarh-11')">Chandigarh</a></td>
+      <td width="100" align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;">&nbsp;</td>
+      <td align="left" valign="middle" style="font:bold 12px Arial, Helvetica, sans-serif; color:#000;">&nbsp;</td>
+    </tr>
+   
+    </tbody></table>
+</td>
+        </tr>
+      </tbody></table></span>
+
+            </div>
+  <div id="fade" class="black_overlay"></div>
+
+<center>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="banner_bg">
+    	<!--<script src="js/jquery.js" type="text/javascript" language="javascript"></script>-->
+<script language="javascript" type="text/javascript"> 
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+</script>
+<!-- png transparent -->
+<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.pngFix.pack.js"></script>
+
+<script type="text/javascript" language="javascript">
+	$(document).ready(function(){
+		$('div.examples').pngFix( );
+	});
+</script>
+<!-- Paste this code just above the closing </body> of your conversion page. The tag will record a conversion every time this page is loaded. Optional 'sku' and 'value' fields are described in the Help Center. -->
+<script src="//ah8.facebook.com/js/conversions/tracking.js"></script><script type="text/javascript">
+try {
+  FB.Insights.impression({
+     'id' : 6002595500299,
+     'h' : '5bc212260f'
+  });
+} catch (e) {}
+</script>
+
+<!-- end of png transparent -->
+
+<!-- right bottom image js -->
+<!--<script language="javascript" type="text/javascript"> 
+	var cot_loc0=(window.location.protocol == "https:")? "js/corner.js" :"js/corner_2.js";
+	document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+</script>-->
+<!-- end of right bottom image js -->
+
+<!-- feedback right js -->
+<!--<script src='http://userecho.com/s/js/widget_tab.js' type='text/javascript'></script>-->
+<!--<script type='text/javascript'>
+		UE.Tab.show({
+			key: 'wanamo',
+			host: 'wanamo.userecho.com',
+			forum: '119',
+			alignment: 'right',
+			text_color: 'red',
+			background_color:'#ffffff',
+			hover_color: '#a763a9',
+			lang: 'en',
+			preload: true,
+			no_dialog: false
+		})
+	</script>-->
+<!-- end of feedback right js -->
+
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#191919">
+  <tbody><tr>
+    <td width="248" style="cursor:pointer"><a href="http://www.dealsandyou.com/delhi-c-1.html">
+    
+      <div class="examples">
+               <img src="images/logo.gif" border="0" width="274" height="70">    
+               
+      
+      
+      </div>
+    </a></td>
+    <td width="248" height="80" align="center" valign="middle" style="cursor:pointer"></td>
+        <td valign="top" align="right">
+    
+    <table width="448" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="right" width="200" style="padding-top:2px;"><table width="200" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" class="banner_head_text" align="center">Best daily deal in</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><ul class="menu" id="menu">
+                    <li>
+                      <table width="150" border="0" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                          <!--<td width="11" align="right"><img src="images/city_name_left.png" width="11" height="24"></td>-->
+                          <td class="city_name_bg" align="left"><a href="JavaScript:void(0);" class="menulink"> Delhi</a></td>
+                          <!--<td width="11" align="left"><img src="images/city_name_right.png" width="11" height="24"></td>-->
+                        </tr>
+                                              </tbody></table>
+                      <ul>
+                                                <!--<li><a href="" class="underline"> </a></li>-->
+                                                                        <li><a href="http://www.dealsandyou.com/mumbai-c-3.html" class="underline">Mumbai</a></li>
+                                                <li><a href="http://www.dealsandyou.com/bangalore-c-4.html" class="underline">Bangalore</a></li>
+                                                <li><a href="http://www.dealsandyou.com/kolkata-c-6.html" class="underline">Kolkata</a></li>
+                                                 <li><a href="http://www.dealsandyou.com/pune-c-7.html" class="underline">Pune</a></li>
+                                                 <li><a href="http://www.dealsandyou.com/hyderabad-c-8.html" class="underline">Hyderabad</a></li>
+                                                 <li><a href="http://www.dealsandyou.com/chennai-c-9.html" class="underline">Chennai</a></li>
+                                                 <li><a href="http://www.dealsandyou.com/ahmedabad-c-10.html" class="underline">Ahmedabad</a></li>
+                                                 <li><a href="http://www.dealsandyou.com/jaipur-c-12.html" class="underline">Jaipur</a></li>
+                                                 <li><a href="http://www.dealsandyou.com/chandigarh-c-11.html" class="underline">Chandigarh</a></li>
+                                                <li><a href="http://www.dealsandyou.com/kochi-c-377.html" class="underline">Kochi</a></li>
+						                        <li><a href="http://www.dealsandyou.com/lucknow-c-213.html" class="underline">Lucknow</a></li>
+						                        <li><a href="http://www.dealsandyou.com/coimbatore-c-99.html" class="underline">Coimbatore</a></li>
+						                        <li><a href="http://www.dealsandyou.com/bhubaneshwar-c-76.html" class="underline">Bhubaneshwar</a></li>
+						                        <li><a href="http://www.dealsandyou.com/indore-c-158.html" class="underline">Indore</a></li>
+                                                <li><a href="http://www.dealsandyou.com/allindia-c-378.html" class="underline">All India</a></li>
+                                              </ul>
+                    </li>
+                  </ul>                </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"></td>
+  </tr>
+    </tbody></table></td>
+    <td align="center" valign="top" width="40"><img src="images/top-search-div.gif"></td>
+    <td align="center" width="208" valign="top" style="padding-top:22px;"><form name="newsletter" action="subscriptions.php" method="GET" onsubmit="return verify(this);">
+    
+    <table width="208" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td align="left" valign="top" class="banner_head_text">Mail me each day’s deals</td>            
+  </tr>
+  <tr>
+    <td valign="top"><table width="208" border="0" cellpadding="0" cellspacing="0">              
+                <tbody><tr>
+                  <td valign="top" width="148"><label>
+                      <input name="Email" id="Email" type="text" size="21" value="Your Email" class="emailme_input" onfocus="clearText(this)" onblur="clearText(this)" style="width:145px;">
+                    </label>
+                    <span id="msgbox" style="display:none"></span></td>
+                  <td width="60" valign="top"><label>
+                      
+                      <input type="hidden" name="category_id2" id="category_id2" value="1">
+					  <input type="hidden" name="cPath" id="cPath" value="1">
+                      <input type="image" src="images/submit.gif" name="Submit22" id="Submit22" value="Submit" width="76" height="23" class="input_buttons">
+                    </label></td>
+                </tr>
+                              </tbody></table></td>
+  </tr>
+</tbody></table>
+
+              
+              
+            </form></td>
+  </tr>
+</tbody></table>
+
+    
+    
+    
+  <!--<td align="right"><table width="200" border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="followus">Follow us on</td>
+        <td align="right"><div class="examples"><img src="images/icon_new.png" width="113" height="31" border="0" usemap="#Map" /></div></td>
+      </tr>
+    </table></td>-->  </td></tr>
+</tbody></table>
+<map name="Map">
+  <area shape="rect" coords="-17,1,32,31" href="http://www.twitter.com/iwanamo" target="_blank">
+  <area shape="rect" coords="40,1,74,31" href="http://www.facebook.com/pages/WanaMo/225686167116" target="_blank">
+  <area shape="rect" coords="82,0,116,30" href="#" target="_blank">
+</map>
+<!-- right bottom image div -->
+<!--<LINK rel="stylesheet" type="text/css" media="screen" href="css/right_corner.css">
+<DIV> <A href="subscriptions.php" class="k_float k_bottom k_right" target="_blank">
+  <div class="examples"><IMG src="images/mailing.png" alt="Feedback Form" border="0"></div>
+  </A> </DIV>-->
+<!-- end of right bottom image div-->
+    </td>
+  </tr>
+  				
+		
+  <tr>
+    <td class="main_menu" style="padding-left:36px;">
+	<table width="964" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="91" class="main_menu_individual_tab">
+		
+				<a href="http://www.dealsandyou.com/delhi-c-1.html">Today’s Deal</a>
+				</td>
+
+		<td width="91" class="main_menu_individual_tab" style=""><a href="http://www.dealsandyou.com/recentdeals.php">Recent Deals</a></td>
+        <!--<td width="110"><a href="http://www.dealsandyou.com/discussions.php">Discussion</a></td>-->
+        <td width="104" class="main_menu_individual_tab">
+        	<!--<a href="http://www.dealsandyou.com/gift_wanamo.php?cPath=1">Gift A Wanamo</a>-->
+							            <!-- a href="http://www.dealsandyou.com/escape-allindia.php?page=EscapeDelhi&cPath=1">DnY Escape</a -->
+							
+				            <a href="http://www.dealsandyou.com/escape-allindia-index.php?cPath=397&amp;dealId=522" style="color:#0099FF">D&amp;Y Escapes</a>
+					
+			
+        </td>
+        <td width="141" class="main_menu_individual_tab"><a href="http://www.dealsandyou.com/pages.php?page=how_wanamo_works">How D&amp;Y Works</a></td>
+        <td width="100" class="main_menu_individual_tab"><a href="http://www.dealsandyou.com/refer_friend.php?cPath=1">Refer A Friend</a></td>
+        <td width="205" class="main_menu_individual_tab"><a href="http://www.fashionandyou.com/" target="_blank">Fashion and You</a></td>
+		
+			    		 
+		<td class="main_menu_individual_tab" style="color:#000000;">
+        
+		
+		<style type="text/css">
+        	a.fb_button_small{ background:url("http://www.dealsandyou.com/images/fb.gif") no-repeat 2px;margin-left:18px }
+			a.fb_button_small:active{background:url("http://www.dealsandyou.com/images/fb-hover.gif") no-repeat 2px;margin-left:18px}
+        </style>
+         <div style="width:100px">
+        	<fb:login-button autologoutlink="true" perms="email,user_birthday,status_update,publish_stream, user_checkins, user_about_me" size="small">Connect</fb:login-button></div>
+        <div id="login" style="display:none"></div>
+        <div id="name"></div>
+        
+		
+		</td>
+		                       <td width="44" align="right" class="main_menu_individual_tab">
+            <!--<a href="http://www.dealsandyou.com/login_pop.php" class="lbOn"><img src="images/signin.gif" width="78" height="29" border="0"/></a>-->
+			<a href="http://www.dealsandyou.com/login.php?cPath=1">Login</a></td>
+        <td width="58" align="right" style="padding-left:5px;">
+            <a href="http://www.dealsandyou.com/create_account.php?cPath=1" style="cursor:pointer"><div class="examples"><img src="images/signup.png" border="0"></div></a></td>
+                	</tr>
+    </tbody></table>
+	</td>
+  </tr>
+  <tr>
+  		<td class="body_bg">
+		<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td style="padding-bottom:20px;">
+<!-- start Default Content //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+        	<td>
+            	<table width="970" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+            	<td>&nbsp;                </td>
+            </tr>
+            <tr>
+              <td width="12" height="12"><div class="examples"><img src="images/left_top_round.png" width="12" height="12"></div></td>
+              <td height="12" class="border_top"><img src="images/spacer.gif" width="1" height="12"></td>
+              <td width="12" height="12"><div class="examples"><img src="images/right_top_round_2.png" width="12" height="12"></div></td>
+            </tr>
+            <tr>
+              <td height="1" class="roudn_box_left">&nbsp;</td>
+              <td height="1" bgcolor="#ffffff">
+              	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+               		
+                    <tbody><tr>
+                        <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                              	<td>
+                                	<table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                      <tbody><tr>
+                                        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+                                      </tr>
+                                      									  	<tr>
+                                        <td valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                         
+                                          <tbody><tr>
+                                            <td align="left" valign="top">&nbsp;</td>
+                                            <td valign="top">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                            <td width="250" align="left" valign="top"><table width="220" border="0" cellspacing="0" cellpadding="0">
+                                              <tbody><tr>
+                                                <td><span class="examples"><img src="images/gray_left_top.gif" width="12" height="12"></span></td>
+                                                <td class="gray_box"><img src="images/spacer.gif" width="1" height="12"></td>
+                                                <td width="12"><span class="examples"><img src="images/gray_right_top.gif" width="12" height="12"></span></td>
+                                              </tr>
+                                              <tr>
+                                                <td class="gray_box">&nbsp;</td>
+                                                <td class="gray_box">
+											
+																								<p class="graybox_links"><a href="http://www.dealsandyou.com/pages.php?page=aboutus" title="What is Deals and You?"> » About Us</a></p>
+																								
+																								<p class="graybox_links"><a href="http://www.dealsandyou.com/pages.php?page=our_team" title="Why Deals and You Works">» Our Team</a></p>
+																								
+																								<p class="graybox_links"><a href="http://www.dealsandyou.com/pages.php?page=contactus" title="Get your Business Featured">» Contact Us</a></p>
+																								
+																								<p class="graybox_links"><a href="http://www.dealsandyou.com/pages.php?page=jobs" title="How Deals and You Works">» Jobs</a></p>
+																								
+																								<p class="graybox_links"><a href="http://www.dealsandyou.com/pages.php?page=terms_condition" title="FAQS">» Terms &amp; Conditions</a></p>
+																								
+																								
+																								<p class="graybox_links"><a href="http://www.dealsandyou.com/pages.php?page=press" title="FAQS">» Press</a></p>
+																							
+												</td>
+                                                <td class="gray_box">&nbsp;</td>
+                                              </tr>
+                                              <tr>
+                                                <td width="12"><span class="examples"><img src="images/gray_left_bottom.gif" width="12" height="12"></span></td>
+                                                <td class="gray_box"><img src="images/spacer.gif" width="1" height="12"></td>
+                                                <td><span class="examples"><img src="images/gray_right_bottom.gif" width="12" height="12"></span></td>
+                                              </tr>
+                                            </tbody></table></td>
+											
+																						
+                                            <td width="762" valign="top" align="left">
+											<div class="txt_normal"><p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">This Privacy Policy discloses the privacy practices for the Deals and You website.Wanamo Marketing Pvt. Ltd. the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 12px; color: #3b3b3b">PLEASE READ THIS PRIVACY POLICY CAREFULLY BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.</span><span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 12px; color: #3b3b3b">&nbsp;</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">1. Changes to Privacy Policy</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b"></span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We may change this Privacy Policy at any time by posting the revised Privacy Policy in the “Privacy Policy” section of the Website. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy. Your continued use of the Website after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">2. Types of Information Collected and Uses of Collected Information</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">Personally Identifiable Information.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our partners, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 12px; color: #3b3b3b">We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. In addition, if you use our Website to send information or a product to another person, we may store your personal information, and the personal information of any recipient. We may use that other person’s contact information to allow him or her to view and accept your gift or to allow the recipient to access the information you requested we send. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">Non-Personally Identifiable Information.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.</span><span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 12px; color: #3b3b3b">&nbsp;</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">3. Release of Personally Identifiable Information</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 12px; color: #3b3b3b">We will not share your Personally Identifiable Information with other parties except as provided below:</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">As a part of the normal operations, we may share your information with Deals and You Merchants.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;For example, if you purchase a particular deal from our website, we will have to provide the list of customers who would be consuming the Merchant’s service. Therefore, we might have to send some of the Personally Identifiable Information like your Name to the Merchant. For all other purposes, we will only share Personally Identifiable Information with a Deals and You Merchant if you engage in an Identification Activity. Please note that we will only provide a Deals and You Merchant your information with an opt-in notice to you, in which you will have a chance to choose that Deals and You not give the Deals and You Merchant your personal information. We specifically disclaim any responsibility or liability for the actions of such Deals and You Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with Deals and You, we do not have any responsibility for the actions of the Deals and You Merchant, and the actions of the Deals and You Merchant are not in our control.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">We may share your information with Authorized Third Party Service Providers.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;We provide some of our services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may have to also share their information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment. We encourage Deals and You Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">We may share your information in a Business Transfer.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">We may share your information for our Protection and the Protection of Others.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;We may also disclose Personally Identifiable Information when we believe release is appropriate to comply with the law or a court order; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">We may share your information with our associate companies. </span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We may also share Personal Identifiable Information with our associate companies for the purpose of providing any notification regarding new services or special promotional programs and offers or information related to such associate companies if you have opted-in.</span><span class="Apple-style-span" style="font-family: Arial, sans-serif; font-size: 12px; color: #3b3b3b">&nbsp;</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">4. Release of Non-Personally Identifiable Information</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b"></span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with "Third Party Advertisers" or "Third Party Advertising Companies". We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">5. Updating and Correcting Information</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by sending us an email at&nbsp;</span><span style="font-family: Arial, sans-serif"><a href="mailto:support@dealsandyou.com"><span style="font-size: 9pt; color: #3b3b3b; text-decoration: none">support@dealsandyou.com</span></a></span><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">. Please indicate your name, address and email address, and what information you would like to update when you contact us.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">6. User Choices on Collection and Use of Information</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at support@dealsandyou.com, by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">7. Security of Information</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">8. Data Tracking</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;</span><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">Cookies.</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.</span><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">&nbsp;</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">Other Tracking Devices.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">9. Privacy Policies of Third Party Websites</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you to review the respective website’s privacy policy. We are not responsible for the policies or practices of third parties.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">10. Miscellaneous Privacy Issues</span></strong></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">Children.&nbsp;</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">Minors under the age of 18 may not use the Website. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Deals and You do not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults. If you are under 18, you may use Deals and You only with the involvement of a parent or guardian.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">Public Areas.</span></strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #3b3b3b">&nbsp;We may provide areas on our Website where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.</span></p>  <p style="margin-bottom: 0.0001pt; line-height: normal" class="MsoNormal"><strong><span style="font-size: 9pt; font-family: Arial, sans-serif; color: #c90101">11. Contacting Us</span></strong></p>  <span style="font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif; color: #3b3b3b">Whether you are a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we would like to stay connected and want to hear from you!</span>  <div>&nbsp;&nbsp;</div> </div>												</td>
+											
+																					  </tr>
+                                          
+                                        </tbody></table></td>
+                                      </tr>
+									                                      </tbody></table></td>  
+		  					  </tr>
+	                            </tbody></table></td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+              	</tbody></table>              </td>
+              <td height="1" class="roudn_box_right">&nbsp;</td>
+            </tr>
+            <tr>
+              <td><div class="examples"><img src="images/left_bottom_round.png" width="12" height="12"></div></td>
+              <td height="12" class="border_bottom"><img src="images/spacer.gif" width="1" height="12"></td>
+              <td><div class="examples"><img src="images/right_bottom_round.png" width="12" height="12"></div></td>
+            </tr>
+            <tr>
+            	<td>&nbsp;                </td>
+            </tr>
+          </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+<!-- end Default Content //-->
+ </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td valign="top" class="footer_bg" align="center"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td class="footer_box"><table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td class="gray_arial_heading">Company</td>
+            <td class="gray_arial_heading">Learn more</td>
+            <td class="gray_arial_heading">Business Owners </td>
+            <td class="gray_arial_heading">Follow Us</td>
+            <td class="gray_arial_heading">Subscribe</td>
+            <td width="139" height="36"><!--<a href="http://www.dealsandyou.com/delhincr-c-1.html"><div class="examples"><img src="images/logo_sm.png" width="138" height="36" border="0"/></div>
+            </a>--></td>
+          </tr>
+          <tr>
+            <td valign="top" style="text-align:left;">
+
+			<li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=aboutus" title="About Us">About Us</a></li>
+			<li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=our_team" title="Our Team">Our Team</a></li>
+            <li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=contactus">Contact Us</a></li>
+            <li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=jobs" title="Jobs">Jobs</a></li>
+            <li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=terms_condition" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+            <li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=privacy_policy" title="Privacy Policy">Privacy Policy</a></li>
+            <!--<li><a href="http://www.dealsandyou.com/pages.php?page=return_polacy" title="Return Polacy">Return Polacy</a></li>-->
+            <li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=press" title="Press">Press</a></li>            </td>
+            <td valign="top" style="text-align:left">
+            	<li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=how_wanamo_works" title="How Deals and You Works">How Deals and You Works</a></li>
+                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/recentdeals.php?cPath=1" title="Recent Deals">Recent Deals</a></li>
+                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=FAQ" title="Deals and You FAQ">FAQ</a></li>
+                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/suggest_a_deal.php?cPath=1" title="Suggest a Deal">Suggest a Deal</a></li>
+                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/gift_wanamo.php?cPath=1" title="Gift Vouchers">Gift Vouchers</a></li>
+                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/refer_friend.php?cPath=1" title="Referral Program">Referral Program</a></li>
+              	<!--<li><a href="http://www.dealsandyou.com/pages.php?page=wanamo_business" title="Deals and You for Businesses">Deals and You for Businesses</a></li>-->            </td>
+            <td valign="top" style="text-align:left">
+			<li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=what_is_wanamo" title="What is Deals and You?">What is Deals and You?</a></li>
+			<li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=why_wanamo_works" title="Why Deals and You Works">Why Deals and You Works</a></li>
+			<li style="color:#FFF;"><a href="http://www.dealsandyou.com/pages.php?page=getfeatured" title="Get your Business Featured">Get your Business Featured</a></li>            </td>
+            <td valign="top" style="text-align:left"><li style="color:#FFF;"><a href="http://twitter.com/dealsandyou" target="_blank">Twitter</a></li>
+              <li style="color:#FFF;"><a href="http://www.facebook.com/pages/Deals-and-You/135916873085187" target="_blank">Facebook</a></li>
+              <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=1" title="Subscribe Daily Email.">Subscribe to Daily Email</a></li>
+              <!--<li style="color:#FFF;"><a href="/blog" target="_blank" title="DealsandYou Blog">Blog</a></li>--></td>
+            <td valign="top" style="text-align:left; color:#FFF;">
+            					                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=10" class="underline">Ahmedabad</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=378" class="underline">AllIndia</a></li>
+                								<!--<li style="color:#FFF;"><a href="http://www.dealsandyou.com/bangalore-c-4.html" class="underline">Bangalore</a></li>-->
+				<li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=4" class="underline">Bangalore</a></li>
+                								                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=76" class="underline">Bhubaneshwar</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=11" class="underline">Chandigarh</a></li>
+                								                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=9" class="underline">Chennai</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=99" class="underline">Coimbatore</a></li>
+                												<!--<li style="color:#FFF;"><a href="http://www.dealsandyou.com/delhincr-c-1.html" class="underline">Delhi/NCR</a></li>-->
+				<li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=1" class="underline">Delhi/NCR</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=397" class="underline">Escape AllIndia</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=8" class="underline">Hyderabad</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=158" class="underline">Indore</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=12" class="underline">Jaipur</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=377" class="underline">Kochi</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=6" class="underline">Kolkata</a></li>
+                				                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=213" class="underline">Lucknow</a></li>
+                								<!--<li style="color:#FFF;"><a href="http://www.dealsandyou.com/mumbai-c-3.html" class="underline">Mumbai</a></li>-->
+				<li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=3" class="underline">Mumbai</a></li>
+                																												                <li style="color:#FFF;"><a href="http://www.dealsandyou.com/subscriptions.php?cPath=7" class="underline">Pune</a></li>
+                				            </td>
+          </tr>
+
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" height="35" bgcolor="#8a0000" class="copyrights">© 2010 Deals and You. All Rights Reserved.</td>
+  </tr>
+</tbody></table>
+
+</center>
+
+<script type="text/javascript">
+	var menu=new menu.dd("menu");
+	menu.init("menu","menuhover");
+</script>
+
+
+
+</body></html>
