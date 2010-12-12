@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519173229id_/http%3A//www.asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212200428id_/http%3A//www.asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for the ASX website
 
@@ -6,7 +6,7 @@ This Privacy Statement applies to your use of the web site of ASX at [www.asx.co
 
 ASX recognises that your privacy is important to you. ASX is committed to protecting your personal information.
 
-The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the [ASX Privacy Policy](https://web.archive.org/web/20090519173229id_/http%3A//www.asx.com.au/legal/privacy_summary.htm) or you can contact us on: 131 279.
+The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of [www.asx.com.au](http://www.asx.com.au/). For more detailed Privacy information on ASX's information handling practices you can contact us on: 131 279.
 
 ### **Collection of Click Stream and other information**
 
@@ -69,7 +69,7 @@ When you provide personal information to us via the Internet, we rely on the acc
 ### **Personal Information Storage and Security**
 
 Personal information is stored in transmission logs and archived for a period of up to seven years, depending on the nature of the information being held.  
-Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  [More information about MyASX security](https://web.archive.org/web/20090519173229id_/http%3A//www.asx.com.au/about_site.htm#Security).
+Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  [More information about MyASX security](https://web.archive.org/web/20101212200428id_/http%3A//www.asx.com.au/about_site.htm#Security).
 
 ### **Use and Disclosure of Personal Information**
 
@@ -83,8 +83,8 @@ We do not collect sensitive information such as your racial or ethnic origin, po
 
 ### **Contact Us**
 
-If you would like further information regarding this policy, please [contact us](mailto:privacy@asx.com.au) or call: 1300 300 279.
+If you would like further information regarding this policy, please [contact us](mailto:privacy@asx.com.au) or call: 131 279..
 
 You can also obtain information at the Federal Privacy Commissioner's web site at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
-Dated: 4 June 2002
+Dated: 2 August 2010
