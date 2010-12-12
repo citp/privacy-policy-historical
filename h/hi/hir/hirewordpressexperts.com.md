@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405214157id_/http%3A//hirewordpressexperts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212110851id_/http%3A//hirewordpressexperts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Premium Wordpress Auto Install Themes Designer Plugin Development
 
 ## Privacy Policy
+
+Rating: 5.5/ **10** (2 votes cast)
 
 Privacy Policy for Hire Wordpress Experts
 
