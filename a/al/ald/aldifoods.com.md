@@ -1,5 +1,12 @@
-> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410132616id_/http%3A//www.aldifoods.com/us/html/privacy_policy_ENU_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212152613id_/http%3A//aldifoods.com/us/html/privacy_policy_ENU_HTML.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy
 
-Aldi Inc. is aware of privacy concerns visitors may have to its site. Limited information about our customers may be gathered for a number of reasons. Certain electronic data about visits to the website may be collected for distribution of information regarding special purchase items and other programs. Limited visitor information is recorded by the standard operation of Aldi Inc.’s Internet services. This information is used to provide an enhanced online experience for visitors. We also seek to understand the most frequently visited areas of our site. Other use of visitor information may include internal review of the number of visitors to this site. We will continue to use new technologies that result in improving the materials made available to our customers and visitors. Consequently, this policy may be changed without prior notice. Therefore, we suggest that you periodically review our privacy policy for changes.
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the terms and practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
+
+
+When voluntarily submitted by our visitors, we collect personally identifiable information like names, postal addresses, email addresses, etc. The information you provide is used to fulfill your specific request.  
+
+
+We may share information with governmental agencies, suppliers to Aldi, or other companies assisting us in investigating product complaints or other issues, or in fraud prevention or investigation. We may do so when: (1) permitted or required by law, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, (3) investigating product issues and complaints, (4) investigating fraud that has already taken place, or (5) evaluating and working on Special Buy items or other special programs.  
+
