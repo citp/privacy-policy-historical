@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appbistro.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625001747id_/http%3A//appbistro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbistro.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212101916id_/http%3A//appbistro.com/privacy) for the most accurate reproduction.*
 
-# Appbistro - The best place to find Facebook Page tab applications
+# Appbistro | The Best Facebook Business Applications}
 
 MMTG Labs, Inc. (“MMTG Labs”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.AppBistro.com](http://www.appbistro.com/) website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by MMTG Labs in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
@@ -44,7 +44,7 @@ _Affiliated Businesses We Do Not Control_ : We anticipate that we may become aff
 
 _Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, MMTG Labs’ agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-_Promotional Offers_ : We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to contact@appbistro.com. 
+_Promotional Offers_ : We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to hello@appbistro.com. 
 
 _Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if MMTG Labs, or substantially all of its assets were acquired, or in the unlikely event that MMTG Labs goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of MMTG Labs may continue to use your Personal Information as set forth in this policy.
 
@@ -80,7 +80,7 @@ MMTG Labs allows you to access certain personal information about you for the pu
 
 What Choices Do I Have?
 
-You may request deletion of your MMTG Labs account by sending an e-mail to contact@appbistro.com. Please note that some information may remain in our records after deletion of your account. 
+You may request deletion of your MMTG Labs account by sending an e-mail to hello@appbistro.com. Please note that some information may remain in our records after deletion of your account. 
 
 If you do not wish to receive email or other mail from us, please indicate this preference during the registration process. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
@@ -90,11 +90,11 @@ MMTG Labs may amend this Privacy Policy from time to time. Use of information we
 
 Questions or Concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at contact@appbistro.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at hello@appbistro.com. We will make every effort to resolve your concerns.
 
 Effective Date: May 1, 2010
 
-Email: contact@appbistro.com
+Email: hello@appbistro.com
 
 Phone: (415) 413-8227
 
