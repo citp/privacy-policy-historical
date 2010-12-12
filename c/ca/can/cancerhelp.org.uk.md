@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526003322id_/http%3A//www.cancerhelp.org.uk/ssNODELINK/chprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212063644id_/http%3A//www.cancerhelp.org.uk/ssNODELINK/chprivacy) for the most accurate reproduction.*
 
 # Privacy statement : Cancer Research UK : CancerHelp UK
 
@@ -56,4 +56,4 @@ We reserve the right to amend this privacy statement. If we do so, we will post 
 
 If you contact the [cancer information nurses](http://www.cancerresearchuk.org/aboutus/contactus/cancerinformationnurses/), you may choose to provide details of a personal nature. Only the cancer information nurses use your personal information and only for the purposes of dealing with your enquiry/enquiries. They will not pass on your details to anyone else without your express permission except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention harming someone else, or if a terrorist threat is reported.
 
-Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20100526003322id_/http://www.cancerhelp.org.uk/utilities/privacy/ssNODELINK/SendAQuestion).
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20101212052138id_/http://www.cancerhelp.org.uk/utilities/privacy/ssNODELINK/SendAQuestion).
