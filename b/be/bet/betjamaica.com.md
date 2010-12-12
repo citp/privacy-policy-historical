@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betjamaica.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606115929id_/http%3A//www.betjamaica.com/default.aspx%3FP%3D9000%26S%3D9000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betjamaica.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212082737id_/http%3A//betjamaica.com/default.aspx%3FP%3D9000%26S%3D9000) for the most accurate reproduction.*
 
 # Bet Jamaica - The Player's Paradise
 
