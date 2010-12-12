@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526121312id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212063514id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
-# File Your Federal Taxes & State Taxes Online | Tax Return Software | Secure Tax eFiling
-
-**TAXSLAYER.COM PRIVACY POLICY**
+# TaxSlayer.com Privacy Policy
 
 ####  YOUR PRIVACY IS A PRIORITY TO US 
 
-[ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.taxslayer.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact customer support at support@taxslayer.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+[ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.taxslayer.com](http://www.taxslayer.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
 
@@ -71,7 +67,7 @@ We post customer testimonials on our web site which may contain personally ident
 
 **Links**
 
-As a service to our customers, we have installed links to various tax agencies/services.   These include IRS.Gov, and various state agencies and organizations. The links provided are maintained by these separate entities and are not the property of, or affiliated with, Taxslayer.com. 
+As a service to our customers, we have installed links to various tax agencies/services.   These include IRS.Gov, and various state agencies and organizations. The links provided are maintained by these separate entities and are not the property of, or affiliated with, Taxslayer.com. 
 
 **Our Former Customers**
 
@@ -91,12 +87,22 @@ We strive to keep our customer information as accurate and complete as we can. I
 
 **Access to Personal Information:**
 
-Personal Information is accessible online through Oct. 20th, 2009. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+Personal Information is accessible online through Oct. 20th, 2010. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+
+**How to Contact Us:**
+
+If you have questions or concerns regarding this statement, you should first contact customer support at [support@taxslayer.com](mailto:support@taxslayer.com). 
+
+You can also write us at:
+
+TaxSlayer.com Privacy   
+610 Ronald Reagan Drive   
+Evans, GA 30809 
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url) TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **Changes in this Privacy Statement**
 
 The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting.  We will also email users with this information.  The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
 **Approved and Effective 10/1/2009**
-
-[Back to TaxSlayer Home ](https://web.archive.org/web/20100526121312id_/http%3A//www.taxslayer.com/default.aspx)
