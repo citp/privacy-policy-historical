@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605010415id_/http%3A//www.barfoot.co.nz/Global/Legal-Documents/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212045848id_/http%3A//barfoot.co.nz/Global/Legal-Documents/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Auckland’s leading real estate company for residential, mortgagee, lifestyle, rural, rental and commercial property in Auckland and Northland
+# Privacy Policy | Barfoot & Thompson Real Estate
 
 **Privacy Policy**   
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
