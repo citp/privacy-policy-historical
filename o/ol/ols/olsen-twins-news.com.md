@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626072424id_/http%3A//www.olsen-twins-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212013752id_/http%3A//www.olsen-twins-news.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Olsen Twins NEWS Privacy Statement
 
 ## Privacy
 
