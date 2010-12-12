@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mebank.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612010051id_/http%3A//www.mebank.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mebank.com.au privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212042155id_/http%3A//mebank.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ME Bank
 
