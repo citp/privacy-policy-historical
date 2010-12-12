@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614002508id_/http%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213001422id_/http%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Yoast - Tweaking Websites
-
-You are here: [Home](http://yoast.com/) » Privacy Policy
+# Privacy Policy - Yoast
 
 We at Yoast have created this privacy statement in order to show my commitment to my and your privacy. This page discloses the information gathering and dissemination practices for the website yoast.com.
 
@@ -14,7 +12,7 @@ We will never (and will not allow any third party) use the statistical analytics
 
 ### Disabling and enabling cookies
 
-You have the ability to accept or decline cookies by modifying the settings on your browser.
+You have the ability to accept or decline cookies by modifying the settings on your browser. 
 
 ## External Links
 
@@ -30,4 +28,6 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [contact form](https://web.archive.org/contact/).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [contact form](http://yoast.com/contact/).
+
+Subscribe to the [RSS feed](https://web.archive.org/feed/) or to [weekly email updates](https://web.archive.org/wordpress-newsletter/), right now!
