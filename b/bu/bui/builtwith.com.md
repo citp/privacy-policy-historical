@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205052908id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212081859id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
