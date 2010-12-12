@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -105,12 +105,24 @@
         var vServ  = getOasServer( vProto );
         sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
 
+      }else if( "Position1" == slotId ){ 
+        var px     = getPx( '' );
+        var vProto = getProto();
+        var vServ  = getOasServer( vProto );
+        sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
+
+      }else if( "Position2" == slotId ){ 
+      }else if( "Position3" == slotId ){ 
       }
     }
     vSlotIds[0]="BottomRight";
-    vSlotIds[1]="Frame2";
-    vSlotIds[2]="Frame1";
-    vPrvSlotIds['REALMEDIA247']=new Array("BottomRight", "Frame2", "Frame1");
+    vSlotIds[1]="Position3";
+    vSlotIds[2]="Position2";
+    vSlotIds[3]="Position1";
+    vSlotIds[4]="Frame2";
+    vSlotIds[5]="Frame1";
+    vPrvSlotIds['REALMEDIA247']=new Array("BottomRight", "Position1", "Frame2", "Frame1");
+    vPrvSlotIds['EMPTY']=new Array("Position3", "Position2");
   //-->
 </script>
 <!-- post jsAd html -->
@@ -148,10 +160,6 @@ font-size: 100%;
 
 <title>American Kennel Club - AKC Web Site Privacy Statement</title>
 
-<meta name="Description" content="AKC Web Site Privacy Statement">
-
-
-
 <meta name="Keywords" content="AKC Web Site Privacy Statement">
 <meta name="Description" content="AKC Web Site Privacy Statement">
 
@@ -166,12 +174,9 @@ font-size: 100%;
             
  			<style type="text/css" media="print"> @import url(/layouts/Standard/styles/print_style.css); </style>
 			
-			
 				<!-- JQuery package version management - for use with JQueryManager -->
 				<script type="text/javascript" src="/libraries/jquery/versions.js">
 				</script>
-			
-		
 			
 				<!-- JQuery core imported with JQueryManager -->
 				<script type="text/javascript" src="//images.akc.org/libraries/jquery/1.3.2/jquery-1.3.2.min.js">
@@ -179,20 +184,15 @@ font-size: 100%;
 				<script type="text/javascript">
 					Versions.add('jquery', 'default latest 1.3.2', jQuery.noConflict(true));
 				</script>				
-			
-		
+			 
+				<script type="text/javascript">
+					$ = jQuery = Versions.use('jquery', '1.3.2');
+				</script>				
 			
 				<script type="text/javascript">
 					$ = jQuery = Versions.use('jquery', '1.3.2');
 				</script>				
 			
-		
-			
-				<script type="text/javascript">
-					$ = jQuery = Versions.use('jquery', '1.3.2');
-				</script>				
-			
-		
 	<script type="text/javascript">
 		Versions.use('jquery', 'default')(function($) {
 			var jQuery = $
@@ -298,31 +298,6 @@ padding:0 0 0 .4em;
 </style>
 
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-		
-				
-			
-		
-			
-		
-		
 <script type="text/javascript">
 jQuery(function($){
 	var fadeToggleText = function(target,wait,speed,reps){
@@ -724,7 +699,7 @@ jsAd( "Bottom")
 
 
 
-<div id="breed_images_box"> <div id="breedheaderimage"> <a href="/breeds/argentine_dogo/index.cfm"><img src="//images.akc.org/template/header/breeds/argentine_dogo2.png" width="227" height="90" border="0"></a> 
+<div id="breed_images_box"> <div id="breedheaderimage"> <a href="/breeds/norwegian_lundehund/index.cfm"><img src="//images.akc.org/template/header/breeds/norwegian_lundehund.png" width="227" height="90" border="0"></a> 
 </div>
 
 
@@ -737,14 +712,17 @@ jsAd( "Bottom")
 
 
 </div>
-<div id="second_nav_box"><style type="text/css">
+<div id="second_nav_box"> <!-- * -->
+
+
+<style type="text/css">
 #second_nav_box {
 position:absolute;
 left:205px;
 top:20px;
 width: 600px;
 z-index:300;
-display:block;	
+display:block;
 }
 /*#dogcom {
 position:absolute;
@@ -754,7 +732,7 @@ width: 100px;
 z-index:300;
 display:block;
 color:#FFFFFF;
-font-size:10px;	
+font-size:10px;
 }*/
 #second_nav  {
 list-style:none;
@@ -827,25 +805,6 @@ color: #9dc5fb;
  <!-- Google GSA Search Box Ends --></div>
 
 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-		
-		
-		
-			
-				
-			
-			
 <div id="sidebar_wrapper">
 <div id="sidebar_content"> 
 
@@ -955,19 +914,50 @@ color: #9dc5fb;
 </div>
 
 
+<div id="socialMedia">
+<h2>Follow Us</h2>	
+<ul class="social">
+	<li><a href="http://twitter.com/akcdoglovers" class="twitter" target="_blank"></a></li>
+	<li><a href="http://www.facebook.com/group.php?gid=50737551679&amp;ref=ts#/pages/New-York-NY/American-Kennel-Club/93474569120?ref=ts" class="facebook" target="_blank"></a></li>
+    <li><a href="http://www.youtube.com/user/AmericanKennelClub" class="youtube" target="_blank"></a></li>
+</ul> 
+</div> 
 
 
-<div style="margin:0 0 .7em 0;">
-<a href="/doghealth/index.cfm"><img src="//images.akc.org/homepage/chrc.jpg" border="0" width="179" height="350"></a>
-</div>
+
+
 <div id="sidebar_ads">
+
+<div id="Position1_ad" class="hide_all" style="margin-bottom:10px;margin-left: 0px;margin-right: 0px;">
+<script language="JavaScript">
+<!--
+jsAd( "Position1")
+//-->
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!Position1"></script>
+</div>
+
+<div id="Position2_ad" class="hide_all" style="margin-bottom:10px;margin-left: 0px;margin-right: 0px;">
+<script language="JavaScript">
+<!--
+jsAd( "Position2")
+//-->
+</script>
+</div>
+
+<div id="Position3_ad" class="hide_all" style="margin-bottom:10px;margin-left: 0px;margin-right: 0px;">
+<script language="JavaScript">
+<!--
+jsAd( "Position3")
+//-->
+</script>
+</div>
 
 <div id="Frame1_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
 <script language="JavaScript">
 <!--
 jsAd( "Frame1")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm/797018282@BottomRight,Frame2,Frame1!Frame1"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!Frame1"></script>
 </div>
 
 <div id="Frame2_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -975,7 +965,7 @@ jsAd( "Frame1")
 <!--
 jsAd( "Frame2")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm/797018282@BottomRight,Frame2,Frame1!Frame2"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!Frame2"></script>
 </div>
 
 <div id="BottomRight_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -983,12 +973,12 @@ jsAd( "Frame2")
 <!--
 jsAd( "BottomRight")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm/797018282@BottomRight,Frame2,Frame1!BottomRight"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!BottomRight"></script>
+</div>
+
 </div>
 
 
-
-</div> 
 
 
 <style type="text/css">
@@ -1035,17 +1025,85 @@ height:20px;
    height:20px;
    width:475px;
   }
-</style> <div id="socialMedia">
-<h2>Follow Us</h2>	
-<ul class="social">
-	<li><a href="http://twitter.com/akcdoglovers" class="twitter"></a></li>
-	<li><a href="http://www.myspace.com/purebreds" class="myspace"></a></li>
-	<li><a href="http://www.facebook.com/group.php?gid=50737551679&amp;ref=ts#/pages/New-York-NY/American-Kennel-Club/93474569120?ref=ts" class="facebook"></a></li>
-    <li><a href="http://www.youtube.com/user/AmericanKennelClub" class="youtube"></a></li>
-</ul> 
-</div> 
+</style> 
+					<div id="sidebar_poll_content">
+		            
+
+<h2>Quick Poll:</h2>
+<p>What activity is most likely to cause you to visit the AKC website?</p>
+<form action="/poll/akc_quick_poll.cfm" method="post">
+		<input name="cde_poll" type="hidden" value="20100612024707">	
+<table cellpadding="3" cellspacing="0" border="0">
+	
+		
+			<tbody><tr>
+				<td width="20" valign="top">
+					
+						<input name="cde_answer" type="radio" value="201006120247071">
+					
+			  	</td>
+				<td>
+					Register a dog or litter<br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20" valign="top">
+					
+						<input name="cde_answer" type="radio" value="201006120247072">
+					
+			  	</td>
+				<td>
+					Find a puppy for sale near me<br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20" valign="top">
+					
+						<input name="cde_answer" type="radio" value="201006120247073">
+					
+			  	</td>
+				<td>
+					Search for event information or results<br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20" valign="top">
+					
+						<input name="cde_answer" type="radio" value="201006120247074">
+					
+			  	</td>
+				<td>
+					Manage my dog or litter records <br>
+				</td>
+			</tr>
+		
+			<tr>
+				<td width="20" valign="top">
+					
+						<input name="cde_answer" type="radio" value="201006120247075">
+					
+			  	</td>
+				<td>
+					Needing information about a specific breed<br>
+				</td>
+			</tr>
+		
+	
+</tbody></table>
+	<button id="sidebar_go" name="Submit" onclick="this.form.submit();"></button>
+						
+</form>
+
+
+
+
+                    </div>
+					
 	<div id="sidebar_main_machine">
-	afghan - ecom - akc
+	sloughi - ecom - akc7
 	</div> 
 
 
@@ -1086,10 +1144,28 @@ function findPosY(obj)
 			
 
 			try {
+			
+			/* verify leaderboard and sideboard ads  START  */
+			// leaderboard ad
 			egp = document.getElementById("TopLeft_ad").innerHTML.indexOf("empty.gif");
 			if ( egp > 0 ) {
 				document.getElementById('TopLeft_ad').style.display      = 'none';
 			}
+
+			// sidebar ads 
+			egpb = document.getElementById("Position1_ad").innerHTML.indexOf("empty.gif");
+			if ( egpb > 0 ) {
+				document.getElementById('Position1_ad').style.display      = 'none';
+			}
+			egpc = document.getElementById("Position2_ad").innerHTML.indexOf("empty.gif");
+			if ( egpc > 0 ) {
+				document.getElementById('Position2_ad').style.display      = 'none';
+			}
+			egpd = document.getElementById("Position3_ad").innerHTML.indexOf("empty.gif");
+			if ( egpd > 0 ) {
+				document.getElementById('Position3_ad').style.display      = 'none';
+			}
+			/* verify leaderboard and sideboard ads  END  */
 
 			var A =  findPosY(document.getElementById("headerGraphic"));
 			var B =  findPosY(document.getElementById("sidebar_wrapper"));
