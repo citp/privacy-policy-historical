@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babygizmo.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105000133id_/http%3A//www.babygizmo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygizmo.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212153102id_/http%3A//babygizmo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Baby Gizmo™
 
@@ -19,6 +19,10 @@ BabyGizmo provides a number of different services to assist you in comparison sh
 BabyGizmo does not sell, resell or license any of the products listed on the Site, nor is BabyGizmo acting as an agent of sale, and BabyGizmo disclaims any responsibility for, or liability related to, such products and services. Any questions, complaints or claims related to any product should be directed to the appropriate merchant or seller. 
 
 BabyGizmo does not warrant that product descriptions, pricing, editorial commentary or any other content of the Site, regardless of its source, is accurate, complete, reliable, current or error-free. Site content is provided for informational purposes only and does not constitute an endorsement by Babygizmo of any product, merchant, seller, service, or any reviews or comments thereof regardless of the source of such review or comment. BabyGizmo assumes no liability for inaccuracy or incompleteness in its search results, editorial content, user ratings (e.g. user merchant rating, or user product rating) or other content on the Site. 
+
+**_Copyrights and Trademarks_**
+
+All content, graphics, format, design, the user interface and other copyrighted material on BabyGizmo.com and RatedbyMom.com are protected by copyright and other intellectual property laws, and are owned by the Baby Gizmo Company.
 
 **_Other Sites_**
 
