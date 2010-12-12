@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504140034id_/http%3A//www.activeyou.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212091926id_/http%3A//activeyou.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Active You.co.uk – Prizes that make a difference
 
@@ -25,7 +25,7 @@ If you have registered with Active You through one of our 3rd party partner site
 
 Unsubscribe
 
-You can unsubscribe from Active You at any time according to your requirements through the website at [www.activeyou.co.uk.](https://web.archive.org/web/20100504140034id_/http%3A//www.activeyou.co.uk/index.asp) You may at any time unsubscribe from Active You by logging in and visiting My Account page and selecting the unsubscribe button.
+You can unsubscribe from Active You at any time according to your requirements through the website at [www.activeyou.co.uk.](https://web.archive.org/web/20101212091926id_/http%3A//activeyou.co.uk/index.asp) You may at any time unsubscribe from Active You by logging in and visiting My Account page and selecting the unsubscribe button.
 
 The consequences of unsubscribing are that your account details will be placed in a suppression file and you will not receive any further email communications from Active You.
 
@@ -44,7 +44,7 @@ Cookies
 A cookie is small text-only file which is stored on your computer when visiting a site that record preference for that particular site's usage.   
 Active You uses cookies solely to enable us to identify you when you return to the Active You web site, therefore enabling us to show you offers which will be appropriate to you and your interests, gathered from your registration details. 
 
-The cookie will not allow a website to learn any personally identifiable information (such as your name and address) that you have not otherwise given to us. The cookie will also not track where you go when you leave Active You.co.uk or where you came to our website from. It's only purpose is to make your visit to [Activeyou.co.uk](https://web.archive.org/web/20100504140034id_/http%3A//www.activeyou.co.uk/index.php) easier and more rewarding for you. 
+The cookie will not allow a website to learn any personally identifiable information (such as your name and address) that you have not otherwise given to us. The cookie will also not track where you go when you leave Active You.co.uk or where you came to our website from. It's only purpose is to make your visit to [Activeyou.co.uk](https://web.archive.org/web/20101212091926id_/http%3A//activeyou.co.uk/index.php) easier and more rewarding for you. 
 
 The use of cookies in Active You means that you do not have to enter information such as your log in name and password every time you visit the site, resulting in an improved login experience. 
 
