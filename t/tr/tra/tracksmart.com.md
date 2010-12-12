@@ -1,0 +1,102 @@
+> *The following text is extracted and transformed from the tracksmart.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212020132id_/http%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx) for the most accurate reproduction.*
+
+# Privacy Policies
+
+At [TrackSmart.com](https://web.archive.org/ "TrackSmart Home Page"), we respect our customers and understand that you are concerned about privacy. The purpose of this Privacy Policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us.
+
+We are located in the United States and this is a U.S.-based website. By using this site, you agree to the transfer of your personal information to or within the United States. 
+
+As we continue to develop our website and take advantage of technologies to improve the services we offer, this policy likely will change. When we change it, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you.
+
+### What Information Do We Collect   
+and How Do We Use It? 
+
+**Personal and Business Information**
+
+We may collect various types of personal and business information from you, depending upon how you use our site. The categories of personal information we collect may include:
+
+  1. Your first and last names 
+  2. A business address, home address, or other physical address, including a street name and the name of a city or town 
+  3. Your e-mail address 
+  4. Your telephone number 
+  5. Your credit card number and related information (only if you make a purchase on our site)
+
+
+
+We may combine the information we collect from you with information we receive from you offline. We may also receive information about you from other sources, including, for example, address update services.
+
+We may use the information we collect from and about you for any of the following purposes: 
+
+  1. to fulfill your requests for products and services; 
+  2. to provide you with targeted offers and advertising on the site; 
+  3. to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; 
+  4. to contact you; 
+  5. to review site usage and operations; 
+  6. to address problems with the site, our business or our products and services; and 
+  7. to protect the security or integrity of the site and our business.
+
+
+
+**Non-Personal or Business Information**
+
+We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. 
+
+We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used to: 
+
+  1. improve and personalize your experience on our site; 
+  2. recognize you when you return to the site; 
+  3. remember the products in your shopping cart; 
+  4. provide you with customized advertising; and 
+  5. monitor site usage and analyze the behavior of site visitors. 
+
+
+
+We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information. 
+
+You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the “Help” menu of your browser to learn how to change your cookie preferences.
+
+### Do We Share Your Information?
+
+We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: 
+
+  1. to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us or from another vendor on our site; 
+  2. to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; 
+  3. to our affiliates and other third parties so that they may contact you with marketing offers of their own; 
+  4. to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; 
+  5. as necessary if we believe that there has been a violation of our site Terms of Use, of the law, or of our rights or the rights of any third party; 
+  6. to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and 
+  7. if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
+
+
+
+### Your California Privacy Rights
+
+California residents may direct us not to share their personal information with our affiliates and third parties, for those parties’ own marketing purposes, by sending an e-mail to: **[help@TrackSmart.com](mailto:help@TrackSmart.com)**. Please include “Opt Out” in the subject line.
+
+### Can I Change My Information? 
+
+The fastest way to change or update your personal information is by updating your profile on the website. Or, you can send an e-mail to: **[help@TrackSmart.com](mailto:help@TrackSmart.com)**. Please include “Change My Information” in the subject line. 
+
+### What About Information About Children?
+
+[TrackSmart.com](https://web.archive.org/ "TrackSmart.com Home Page") is a business-to-business site. We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen.
+
+### Copyright Violations
+
+We respect the intellectual property rights of others and will take appropriate steps to protect the intellectual property rights of third parties if it receives notice in accordance with the Digital Millennium Copyright Act. If you believe your copyright or the copyright of another has been infringed on, please provide our Copyright Agent with a written notice containing the following information: 
+
+  * a physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest that you believe has been infringed; 
+  * an identification of the copyrighted work that you claim has been infringed; 
+  * a description of where the material that you claim is infringed is located on the site; 
+  * information on how to contact you including your address, telephone number, and e-mail address, if available; 
+  * a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; 
+  * a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+
+
+
+Claims of infringement should be mailed via certified mail, return receipt requested, to the following address: 
+
+General Counsel  
+Everglades Direct, Inc.  
+1725 Roe Crest Drive  
+North Mankato, MN 56002
