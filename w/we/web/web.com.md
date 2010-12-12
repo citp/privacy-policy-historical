@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615223208id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212135423id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Legal - Privacy Policy | Web.com
 
