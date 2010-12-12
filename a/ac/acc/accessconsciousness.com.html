@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the accessconsciousness.com privacy policy that was archived on 2010-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100510005536id_/http%3A//www.accessconsciousness.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accessconsciousness.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212191140id_/http%3A//accessconsciousness.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <html><head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 
 <title>Policy - Privacy </title>
@@ -10,22 +12,48 @@
 <!-- Main Menu System -->
 <script type="text/javascript" src="../mainmenu/jquery-1.2.3.min.js"></script>
 <script type="text/javascript" src="../mainmenu/mainmenu.js"></script>
-<link href="../mainmenu/mainmenu.css" rel="stylesheet" type="text/css" charset="UTF-8">
+<link href="../mainmenu/mainmenu.css" rel="stylesheet" type="text/css">
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<link href="../css/general.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="jwplayer/swfobject.js"></script>
+
+<link href="css/general-1-3.css" rel="stylesheet" type="text/css"> 
+
 
 <!-- Form verification script -->
-<script language="JAVASCRIPT">
+<script type="text/javascript">
 function validate() {
 
-	if(enquiry_form.email.value == "") {
-	  event.returnValue=false;
-	  alert("Please enter your email address");
-	}
+  enquiry_form.VERIFY.value = "verified";
+
+  if(enquiry_form.email.value == "") {
+    event.returnValue=false;
+    alert("Please enter your email address");
+  }
 }
+
+
+function HeardThroughToggle() {
+
+  var HDList = document.enquiry_form.heard_through;
+
+  if (HDList[HDList.selectedIndex].value == "Other") { 
+   HT1.style.display = 'block';
+  } else {
+   HT1.style.display = 'none';
+  }
+
+
+  if (HDList[HDList.selectedIndex].value == "A Facilitator") { 
+   HT2.style.display = 'block';
+  } else {
+   HT2.style.display = 'none';
+  }
+
+}
+
 </script>
+
 
 <!-- Google Analytics tracking code installed Feb 22 2010 Stephen Outram -->
 <script type="text/javascript">
@@ -36,72 +64,111 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-4695899-10");
 pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Ends Google Analytics -->
+} catch(err) {}
+</script>
+
 
 </head>
 
+
 <body>
 
-<div id="top_bg">
-	<div class="container">
-		<div id="header">
-			<div id="header_bottom">
+	<div id="container">
 
-				<div id="menu">
-        
-	<!-- Start of the Main Menu -->
 
-    <ul id="nav">
+    	<div id="header">
+
+			<div id="player0">&nbsp;</div>
+
+			<script type="text/javascript">
+                var so = new SWFObject("imagerotator.swf","ply0","870","188","9");
+                so.addParam("allowfullscreen","false");
+                so.addParam("allowscriptaccess","always");
+                so. addParam("flashvars","file=images/header/header.xml&transition=blocks&screencolor=0xFFFFFF&shownavigation=false&backcolor=0xFFFFFF&linkfromdisplay=true&width=870&height=188");
+                so.write("player0");
+            </script>	
+
+        </div>
+
+
+        <div id="menu">
+
+			<div id="flags">
+                <a href="http://www.accessconsciousness.com/"><img src="http://www.accessconsciousness.com/images/usa_flag.jpg" alt="English"></a>
+                <a href="http://www.accessconsciousness.it/"><img src="http://www.accessconsciousness.com/images/italy.gif" alt="Italia"></a>
+                <a href="http://www.accessconsciousness.se/"><img src="http://www.accessconsciousness.com/images/sweden.jpg" alt="Sverige"></a>
+                <a href="http://www.accessconsciousness.tk/"><img src="http://www.accessconsciousness.com/images/turkey.jpg" alt="Turkey"></a>
+				<a href="http://www.espagnol.accessconsciousness.com/"><img src="http://www.accessconsciousness.com/images/spain.gif" alt="Spanish"></a>  
+            </div>
+
+
+	        <div id="mainmenu">
+
+            	    <ul id="nav">
     
-        <li><a href="index.asp">Home </a></li>
+        <li><a href="http://www.accessconsciousness.com/index.asp">Home </a></li>
         
         <li><a>About </a>
             <ul>
-                <li><a href="faq.asp">FAQs </a></li>
-                <li><a href="gary-douglas-story.asp">Gary Douglas </a></li>
-                <li><a href="dain-heer-story.asp">Dr. Dain Heer </a></li>
-                <li><a href="classtype_details.asp?cid=322&amp;l=">Access at Events </a></li>
+                <li><a href="http://www.accessconsciousness.com/faq.asp">FAQs </a></li>
+                <li><a href="http://www.accessconsciousness.com/about-access.asp">Access Consciousness </a></li>
+                <li><a href="http://www.accessconsciousness.com/gary-douglas-story.asp">Gary Douglas </a></li>
+                <li><a href="http://www.accessconsciousness.com/dain-heer-story.asp">Dr. Dain Heer </a></li>
+                <li><a href="http://www.accessconsciousness.com/news-media.asp">News &amp; Media </a></li>
                 <li><a href="http://www.accesstrueknowledge.com/" target="_blank">ATK Foundation </a></li>
-                <li><a href="#">Access Kids </a></li>
+                <li><a href="#">Access Kids </a>
+					<ul>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-introduction.asp">Introduction </a></li>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-where-do-I-start.asp">Where To Start </a></li>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-autism.asp">Autism </a></li>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-add-adhd-dyslexia.asp">ADD ADHD Dylexia </a></li>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-ocd.asp">OCD </a></li>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-tools.asp">Tools </a></li>
+                    	<li><a href="http://www.accessconsciousness.com/xmen-teenager-interviews.asp">Teenager Interviews </a></li>
+					</ul>
+                </li>
             </ul>
         </li>
         
         <li><a href="#">Classes </a>
             <ul>
-                <li><a href="access-classes.asp">About </a></li>
-                <li><a href="schedule.asp">Search </a></li>
-                <li><a href="fac_detail.asp?mid=15#classes">Gary Douglas </a></li>
-                <li><a href="fac_detail.asp?mid=14#classes">Dain Heer </a></li>
+                <li><a href="http://www.accessconsciousness.com/schedule.asp">Find a Class </a></li>
+                <li><a href="http://www.accessconsciousness.com/access-classes.asp">About Classes </a></li>
+                <li><a href="http://www.accessconsciousness.com/fac_detail.asp?mid=15#classes">Gary Douglas' Classes </a></li>
+                <li><a href="http://www.accessconsciousness.com/fac_detail.asp?mid=14#classes">Dain Heer's Classes </a></li>
                 <li><a href="#">Core Classes </a>
                     <ul>
-                        <li><a href="classtype_details.asp?cid=11&amp;l=">Access The Bars </a></li>
-                        <li><a href="classtype_details.asp?cid=10&amp;l=">Foundation </a></li>
-                        <li><a href="classtype_details.asp?cid=9&amp;l=">Level-1 </a></li>
-                        <li><a href="classtype_details.asp?cid=31&amp;l=">Levels 2&amp;3 </a></li>
-                        <li><a href="classtype_details.asp?cid=158&amp;l=">ESB </a></li>
-                        <li><a href="classtype_group_detail.asp?gtid=1">Access Body Class </a></li>
-                        <li><a href="classtype_group_detail.asp?gtid=2">7-Day Events </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=11&amp;l=">Access The Bars </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=10&amp;l=">Foundation </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=9&amp;l=">Level-1 </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=31&amp;l=">Levels 2&amp;3 </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=158&amp;l=">ESB </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=326&amp;l=">Access Body Class </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=330&amp;l=">7-Day Events </a></li>
                     </ul>
                 </li>
                 <li><a href="#">Specialty Classes</a>
                     <ul>
-                        <li><a href="classtype_details.asp?cid=216&amp;l=">Animals </a></li>
-                        <li><a href="classtype_details.asp?cid=393&amp;l=">ESSE </a></li>
-                        <li><a href="classtype_details.asp?cid=438&amp;l=">Joy of Business </a></li>
-                        <li><a href="classtype_details.asp?cid=436&amp;l=">Right Recovery For You </a></li>
-                        <li><a href="classtype_details.asp?cid=431&amp;l=">Right Voice For You </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=216&amp;l=">Animals </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=393&amp;l=">ESSE </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=438&amp;l=">Joy of Business </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=436&amp;l=">Right Recovery For You </a></li>
+                        <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=431&amp;l=">Right Voice For You </a></li>
                     </ul>
-                </li>
-            </ul>
+                </li><li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=322&amp;l=">Access at Events </a></li>
+                <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=507&amp;l=">Live Stream </a></li>
+                <li>
+            </li></ul>
         </li>
         
         <li><a href="#">Facilitators </a>
             <ul>
-                <li><a href="what-is-a-facilitator.asp">About </a></li>
-                <li><a href="facilitators.asp">Search </a></li>
-                <li><a href="facs_list.asp">Official List </a></li>
-                <li><a href="login.asp">Login </a></li>
+                <li><a href="http://www.accessconsciousness.com/facilitators.asp">Find a Facilitator</a></li>
+                <li><a href="http://www.accessconsciousness.com/what-is-a-facilitator.asp">About Facilitators</a></li>
+                <li><a href="http://www.accessconsciousness.com/facs_list.asp">Official List </a></li>
+				<li><a href="http://www.accessconsciousness.com/become-a-facilitator.asp">Become Cert. Facilitator</a></li>
+				<li><a href="http://www.accessconsciousness.com/become-a-bars-facilitator.asp">Become Bars Facilitator</a></li>
+                <li><a href="http://www.accessconsciousness.com/login.asp">Login </a></li>
             </ul>
         </li>
         
@@ -109,73 +176,66 @@ pageTracker._trackPageview();
             <ul>
                 <li><a href="#">Australasia</a>
                     <ul>
-                        <li><a href="shop/content.asp?item_cat=1">Audio </a></li>
-                        <li><a href="shop/content.asp?item_cat=3">Books </a></li>
-                        <li><a href="shop/content.asp?item_cat=2">DVD </a></li>
-                        <li><a href="shop/content.asp?item_cat=4">Other </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shop/content.asp?item_cat=1">Audio </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shop/content.asp?item_cat=3">Books </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shop/content.asp?item_cat=2">DVD </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shop/content.asp?item_cat=11">Digital Download</a></li>
+                        <li><a href="http://www.accessconsciousness.com/shop/content.asp?item_cat=4">Membership </a></li>
                         <li><a href="#"><hr> </a></li>
-                        <li><a href="shop/home.asp">Policy </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shop/home.asp">Policy </a></li>
                     </ul>
                 </li>
                 <li><a href="#">USA &amp; Canada</a>
                     <ul>
-                        <li><a href="shopUSA/content.asp?item_cat=1">Audio </a></li>
-                        <li><a href="shopUSA/content.asp?item_cat=3">Books </a></li>
-                        <li><a href="shopUSA/content.asp?item_cat=2">DVD </a></li>
-                        <li><a href="shopUSA/content.asp?item_cat=4">Other </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/content.asp?item_cat=1">Audio </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/content.asp?item_cat=3">Books </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/content.asp?item_cat=2">DVD </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/content.asp?item_cat=11">Digital Download</a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/content.asp?item_cat=4">Membership </a></li>
                         <li><a href="#"><hr> </a></li>
-                        <li><a href="shopUSA/home.asp">Policy </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/home.asp">Policy </a></li>
                     </ul>
                 </li>
                 <li><a href="#">Affiliate</a>
                     <ul>
-                        <li><a href="affiliate.asp">Program </a></li>
-                        <li><a href="#">Register </a></li>
-                        <li><a href="https://www.mcssl.com/SYS/netcart/affiliates/AffiliateLogin.aspx?MerchantID=156813" target="_blank">Login </a></li>
+                        <li><a href="http://www.accessconsciousness.com/affiliate.asp">The Program </a></li>
+                        <li><a href="http://www.accessconsciousness.com/affiliate-faq.asp">FAQs </a></li>
+                        <li><a href="https://www.mcssl.com/SYS/?m=156813&amp;c=s" target="_blank">Register </a></li>
+                        <li><a href="https://www.mcssl.com/SYS/netcart/affiliates/AffiliateLogin.aspx?MerchantID=156813" target="_blank">Affiliate Login </a></li>
                     </ul>
                 </li>
             </ul>
         
         </li><li><a href="#">Contact </a>
             <ul>
-                <li><a href="contact-access.asp">Head Office </a></li>
-                <li><a href="contactUs.asp">Enquiry Form </a></li>
+                <li><a href="http://www.accessconsciousness.com/contact-access.asp">Head Office </a></li>
+                <li><a href="http://www.accessconsciousness.com/contactUs.asp">Enquiry Form </a></li>
+                <li><a href="http://www.accessconsciousness.com/content46.asp">Media Kit </a></li>
+                <li><a href="http://www.accessconsciousness.com/content57.asp">Links </a></li>
             </ul>
         </li>
         
-        <li style="float:right"><a href="#">Language</a>
-            
-            <ul>
-                <li><a href="http://www.accessconsciousness.com/"><img src="images/flag-uk-wave-sm.jpg" alt="English" border="0"> English</a></li>
-				
-                <li><a href="http://www.accessconsciousness.it/"><img src="images/flag-italy-wave-sm.jpg" alt="Italia" border="0"> Italia</a></li> 
-				
-                <li><a href="http://www.accessconsciousness.se/"><img src="images/flag-sweden-wave-sm.jpg" alt="Sverige" border="0"> Sverige</a></li>
-<!--		<li><a href="http://www.accessconsciousness.tk/"><img src="images/flag-turkey-wave-sm.jpg" alt="Türkiye" border="0"> Türkiye</a></li> -->
-            </ul>
-        </li>
-        
-    </ul>
- 
-	<!-- End Of Main Menu -->
-          
-				</div> 
-          
-			</div>
-        
-		</div>
-        <!-- End Of Header -->
-    
-	<div id="content">
-		<div id="content_left">
-        	<div class="post">
+    </ul> 
 
+	        <!-- Closes DIV mainmenu -->
+	        </div>
+
+        <!-- Closes DIV menu -->
+        </div> 
+
+        
+        <div id="content">
+
+                   
+            
+            <div id="left">
+            
 
 <!-- START OF MAIN CONTENT AREA -->
 <h1>Privacy Policy</h1>
 <p>www.accessconsciousness.com (referred to  hereinafter as "AccessConsciousness.com") is not configured to collect any personal information from your computer when browsing AccessConsciousness.com. This means that, unless you voluntarily and knowingly provide us with personal information, we will not know your name, your e-mail address, or any other information identifiable to you.  </p>
 <h4>Internet Protocol (IP) Address  </h4>
-<p>An IP address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from AccessConsciousness.com, our servers log the user�s current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personal information about you.  </p>
+<p>An IP address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from AccessConsciousness.com, our servers log the user’s current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personal information about you.  </p>
 <h4>Cookies  </h4>
 <p>As part of offering and providing customizable and personalized services, AccessConsciousness.com may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Certain features of AccessConsciousness.com require that you accept cookies in order to work properly. Generally, we use cookies for the following purposes: Advertising networks that serve ads onto AccessConsciousness.com may use their own cookies. AccessConsciousness.com may also collect IP addresses for system administration and to report aggregate information to our advertisers.  </p>
 <h4>Information Needed to Execute the Transaction You Request  </h4>
@@ -202,191 +262,232 @@ pageTracker._trackPageview();
 	
 
 
-      </div>
-      </div>
-      <!-- End Of Content Left-->
-      
-      <div id="content_right">
-        <div class="section">
-        	<div id="productsearch" style="margin-top:10px">
-			<form action="content.asp" method="get">
-				<input type="text" size="24" name="item_description" value="">
-				<input type="submit" value="Search">
-			</form>
-	</div>
-          <div class="section_1_top"> FREE ACCESS VIDEO </div>
-          <div class="section_1_mid">
-            <div class="form"> Receive a Free Video 
-              from Access Consciousness
-              EVERY TWO WEEKS<br> and our monthly newsletter<br>
-              <br>
-              <form method="post" action="https://www.mcssl.com/app/contactsave.asp">
-				<input name="merchantid" type="hidden" id="merchantid" value="156813">
-        	    <input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.accessconsciousness.com/new-members-thank-you.asp">
-        	    <input name="copyarresponse" type="hidden" id="copyarresponse" value="0">
-        	    <input name="custom" type="hidden" id="custom" value="0">
-        	    <input name="defaultar" type="hidden" id="defaultar" value="457882">
-				<input name="allowmulti" type="hidden" id="allowmulti" value="0">
- 				<input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1">
-				<input name="requiredfields" type="hidden" id="requiredfields" value="Name,Email1">
-               <div class="label">
-                  <label>Name :</label>
-                  <label>Email :</label>
-                </div>
-                <div class="textboxes">
-                  <input name="Name" value="" type="text" onfocus="clearText(this)" onblur="clearText(this)" class="textfield">
-                  <input name="Email1" value="" type="text" onfocus="clearText(this)" onblur="clearText(this)" class="textfield">
-                </div>
-                <div class="cleaner_with_height"></div>
-                <div class="login_bottom">
-<!--                  <input type="checkbox" name="remember" class="checkbox"/>
-                  <span class="remember"> Newsletter</span> -->
-                  <input type="Submit" name="cmdSubmit" value="" class="button">
-                </div>
-              </form>
-            </div>
-          </div>
-          <div class="section_1_bottom"></div>
-        </div>
+			<!-- Closes DIV left -->
+        	</div>
 
-        <div class="section">
-          <div class="section_dz_top"> UPCOMING CLASSES</div>
-          <div class="section_dz_mid">
-            <ul>
-              <li><a href="class_details.asp?cid=9407">Earth Changes</a> </li>
-              <li><a href="class_details.asp?cid=9012">Level 2-3 Stockholm</a> </li>
-              <li><a href="class_details.asp?cid=9117">ESB Poland</a> </li>
-              <li><a href="classtype_group_detail.asp?gtid=1">Body Classes</a> </li>
-            </ul>
-          </div>
-          <div class="section_dz_bottom"> </div>
-        </div>
 
-		<div class="section">
-			<div class="section_2_top"> All ACCESS CLASSES </div>
-				<div class="section_2_mid">
-					<ul>
-						<li><a href="../classtype_details.asp?cid=11&amp;l=">Bars Classes</a> </li>
-						<li><a href="../classtype_details.asp?cid=10&amp;l=">Foundation </a> </li>
-						<li><a href="../classtype_details.asp?cid=9&amp;l=">Level 1</a> </li>
-						<li><a href="../classtype_details.asp?cid=31&amp;l=">Level 2-3 </a> </li>
-						<li><a href="../classtype_group_detail.asp?gtid=2">7 Day Events</a> </li>
-						<li><a href="../classtype_details.asp?cid=158&amp;l=">ESB</a> </li>
-						<li><a href="../classtype_group_detail.asp?gtid=1">Body Classes</a></li>
-					</ul>
-				</div>
-			<div class="section_2_bottom"> </div>
+
+
+       
+        	<div id="right">
+
+
+            	<div class="section">
+                	<div id="fb_like" style="margin-top:15px">
+					<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                    <fb:like show_faces="false" width="230" font="arial"></fb:like>
+                    </div>             
+                </div>
+
+
+            	<div class="section">
+
+	        		<div class="section_1_top"></div>
+            		<div class="section_1_mid">
+                		<div style="margin:0; padding:0 20px 0 20px;">
+Free videos and newsletter from Access Consciousness
+                        </div>
+                        
+<form method="post" action="https://www.mcssl.com/app/contactsave.asp" style="margin:0">
+		<input name="merchantid" type="hidden" id="merchantid" value="156813">
+        <input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.accessconsciousness.com/new-members-thank-you.asp">
+        <input name="copyarresponse" type="hidden" id="copyarresponse" value="0">
+        <input name="custom" type="hidden" id="custom" value="0">
+        <input name="defaultar" type="hidden" id="defaultar" value="539199">
+        <input name="allowmulti" type="hidden" id="allowmulti" value="0">
+        <input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1">
+        <input name="requiredfields" type="hidden" id="requiredfields" value="Name,Email1">
+
+        <div style="margin:0; padding: 0 20px 0 20px">
+            <input style="background-color:#cdcc94" name="Name" value="Name" type="text" onfocus="clearText(this)" onblur="clearText(this)" class="textfield">
+            <input style="background-color:#cdcc94" name="Email1" value="Email" type="text" onfocus="clearText(this)" onblur="clearText(this)" class="textfield">
+        </div>
             
-        </div>
-        
+                
+        <div style="margin-left:40px; margin-top:5px; height:22px;">
+            <input type="Submit" name="cmdSubmit" value="Submit" class="button">
 		</div>
-		<!-- End Of Content Right -->
-      
-		<div class="cleaner_with_height"></div>
-      
-		</div>
-		<!-- End Of Content -->
-    
-    <div class="cleaner_with_height"></div>
-    
-	</div>
-	<!-- End Of Container -->
-  
-</div>
-<!-- End Of Top bg -->
+</form> 
+
+           		  	</div>
+                    
+          	    	<div class="section_1_bottom"></div>
+                    
+				</div>
+
+                
+                <div class="section">
+
+	        		<div class="section_2_top"></div>
+            		<div class="section_1_mid">
+
+						<div style="padding: 0 20px 0 20px">
+						  <ul>
+                              <li><em>December 2010</em></li>
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=9375">Facilitators - Mooloolaba</a></li>
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10789">Right Voice for You - Mooloolaba</a></li>
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10239">Energetic Synthesis of Being Taster - Mooloolaba</a> </li>
+                              <li><em>January 2011</em></li>
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=9883">Right Body for You - Corte Madera</a></li>
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10240">Energetic Synthesis of Being - Denver</a></li> 
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10211">Energetic Synthesis of Being - Mooloolaba</a></li> 
+                              <li><em>February 2011</em></li>
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10709">Access Levels 2&amp;3 - Auckland</a></li> 
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10710">Energetic Synthesis of Being Taster - Auckland</a></li> 
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10094">Access Levels 2&amp;3 - Stockholm</a></li> 
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=10095">Energetic Synthesis of Being Taster - Stockholm</a></li> 
+                              <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=9949">Access Facilitators - Rome</a></li> 
+                              <hr><li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=507&amp;l=">All ★ Live Stream Classes </a></li>
+						  </ul>
+                      </div>
+
+               	  </div>
+          	    	<div class="section_1_bottom"></div>
+                </div>
 
 
-<!-- Content Ends -->
+                <div class="section">
+
+	        		<div class="section_4_top"></div>
+            		<div class="section_1_mid">
+
+						<div style="padding: 0 20px 0 20px">
+
+                            <div id="testimonial1"></div>
+                
+                            <script type="text/javascript">
+                                var so = new SWFObject("testimonials.swf","ply1","195","300","9");
+                                so.addParam("allowfullscreen","false");
+                                so.addParam("allowscriptaccess","always");
+                                so.addParam("wmode","transparent");
+                                so.write("testimonial1");
+                            </script>	
+
+						</div>
+
+               	  </div>
+          	    	<div class="section_1_bottom"></div>
+                </div>
+
+                
+                <div class="section">
+
+	        		<div class="section_3_top"></div>
+            		<div class="section_1_mid">
+
+                        <div style="padding: 0 20px 0 20px">
+                            <ul>
+                                <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=11&amp;l=">Access Bars </a> </li>
+                                <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=10&amp;l=">Foundation </a> </li>
+                                <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=9&amp;l=">Level One</a></li>
+                                <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=31&amp;l=">Levels Two &amp; Three</a></li>
+                                <li><a href="http://www.accessconsciousness.com/classtype_group_detail.asp?gtid=2">7-Day Events</a> </li>
+                                <li><a href="http://www.accessconsciousness.com/classtype_details.asp?cid=158&amp;l=">Energetic Synthesis of Being</a></li>
+                                <li><a href="http://www.accessconsciousness.com/classtype_group_detail.asp?gtid=1">Access Body Class</a></li>
+                            </ul>
+                		</div>
+
+                    </div>
+          	    	<div class="section_1_bottom"></div>
+                </div>
 
 
-<!-- bottom bg begins -->
+            
+        	<!-- Closes DIV right -->
+        	</div>
 
-<div id="bottom_bg">
-  <div class="container">
-    <div id="bottom_panel">
-      <div class="section_3">
-        <div class="section_3_top"> WHAT'S NEW</div>
-        <div class="section_3_bottom">
-          <ul>
-            <li><a href="http://www.accessconsciousness.com/access-program-membership.asp">Consciousness Club</a></li>
-            <li><a href="http://www.accessconsciousness.com/affiliate.asp">Affiliate Program</a></li>
-            <li><a href="http://www.accessconsciousness.com/facilitators.asp">Facilitators</a></li>
-            <li><a href="http://www.accessconsciousness.com/fac_detail.asp?mid=15#classes">European Tour</a></li>
-            <li><a href="http://www.accessconsciousness.com/shopUSA/detail.asp?item_number=537&amp;page_num=1">Foundation/Level I DVD's</a></li>
-            <li><a href="http://www.accessconsciousness.com/classtype_group_detail.asp?gtid=2">Seven Day - Costa Rica</a></li>
-          </ul>
-        </div>
+
+
+
         
-      </div>
-      <!-- End Of Section 3 -->
-      
-      <div class="section_4">
-        <div class="section_4_top"> TESTIMONIALS </div>
-        <div class="section_4_bottom">
-          <h1>What Else Is Possible?</h1>
-          <p>I now also acknowledge the genious I am for choosing the parents that i have choosen. They treat me like a princess and give me everything. They treat me like royalty when I visit them and now I receive it and am not jugding me anymore for receiving everything and still asking for more and especially asking for a different living than they have choosen :-) I realized how amazing I am ... Thank you Gary Douglas for you, the genious you are, the gift and all you are willing to be and contribute. You changed me, my life, my parents, my family and just about everything And i have to add the question, "What else is possible?" what more magic is possible? what invitation to something greater and different can i be? I have only just started ... :-) Many, many kisses and hugs to you beautiful being!! from Susanna M. </p>
+        <!-- Closes DIV content -->
         </div>
+ 
         
-      </div>
-      <!-- End Of Section 4 -->
-      
-      <div class="section_5">
-        <div class="section_5_top"> TWITTER</div>
-        <div class="section_5_bottom">
-          <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" type="application/x-shockwave-flash" width="180px" height="213px" id="InsertWidget_468f6275-0169-416e-a396-b5b8cc1dbea4" align="middle">
-            <param name="movie" value="http://widgetserver.com/syndication/flash/wrapper/InsertWidget.swf">
-            <param name="quality" value="high">
-            <param name="wmode" value="transparent">
-            <param name="menu" value="false">
-            <param name="flashvars" value="r=2&amp;appId=468f6275-0169-416e-a396-b5b8cc1dbea4">
-            <param name="allowScriptAccess" value="sameDomain">
-            <embed src="http://widgetserver.com/syndication/flash/wrapper/InsertWidget.swf" name="InsertWidget_468f6275-0169-416e-a396-b5b8cc1dbea4" width="180px" height="213px" quality="high" menu="false" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" align="middle" allowscriptaccess="sameDomain" flashvars="r=2&amp;appId=468f6275-0169-416e-a396-b5b8cc1dbea4">
-          </object>
+        <div class="cleaner_with_height"> </div>
+
+		<hr style="margin:30px 15px 0px 15px; c" color="#88bb77">
+        
+		<div id="module1">
+        	
+			<div id="module1_1">
+             
+				<div id="module1_1_top"></div>
+                
+ 				<div id="module1_1_mid">
+
+                    <ul>
+                        <li><a href="http://www.accessconsciousness.com/access-program-membership.asp">Consciousness Clubs </a></li>
+                        <li><a href="http://www.accessconsciousness.com/affiliate.asp">Access Affiliate Program </a></li>
+                        <li><a href="http://www.accessconsciousness.com/news-media.asp">News &amp; Media </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/detail.asp?item_number=541&amp;page_num=1">Right Riches For You Book </a></li>
+                        <li><a href="http://www.accessconsciousness.com/shopUSA/detail.asp?item_number=537&amp;page_num=1">Foundation/Level I DVD's </a></li>
+                        <li><a href="http://www.accessconsciousness.com/class_details.asp?cid=9371">7 Day Event - Costa Rica</a></li>
+					</ul>
+
+ 				</div>
+
+			</div>
+       
+
+            <div id="module1_2">
+				
+				<div id="module1_2_top"></div>
+                
+            	<div id="module1_2_mid">
+
+								<div id="twitter1">
+            	<p>If you are seeing this text then our Flash Player is not working for you. </p>
+            </div>
+
+			<script type="text/javascript">
+                var so = new SWFObject("http://twitter.com/flash/twitter_badge.swf","ply1","176","176","9");
+                so.addParam("allowfullscreen","false");
+                so.addParam("allowscriptaccess","always");
+                so.addParam("wmode","transparent");
+                so. addParam("flashvars","color1=10066227&type=user&id=80206403");
+                so.write("twitter1");
+            </script>	
+			<a style="font-size:10px; color:#ffffff; text-decoration:none" href="http://twitter.com/accessConscious">follow accessConscious at Twitter</a>
+
+           	  	</div>
+
+        	</div>
+
+
+        	<div id="module1_3">
+	        	
+				<div id="module1_3_top"></div>
+                
+                <div id="module1_3_mid">
+
+                    <ul>
+                        <li><a href="http://www.bars.accessconsciousness.com/index.asp" target="_blank">Access Bars Site</a></li>
+                        <li><a href="http://www.body.accessconsciousness.com/index.asp" target="_blank">Access Body Site</a></li>
+                        <li><a href="http://access-consciousness-blog.com/" target="_blank">Access Blog Site</a></li>
+					</ul>
+		
+            	</div>
+                
+        	</div>
+ 
+        
+		<!-- Closes DIV module1 -->
         </div>
 
-      </div>
-      <!-- End Of Section 5 -->
 
+
+    <!-- Closes DIV container -->
     </div>
-    <!-- End Of bottom panel -->
 
     <div class="cleaner_with_height"></div>
 
-  </div>
-  <!-- End Of container -->
-  
-</div>
-<!-- End Of bottom bg -->
-
-
-<!-- Footer Begins -->
-<div id="footer"> 
-
-	<div id="menu-footer" style="width:500px; margin-left:auto; margin-right:auto">
-
-		<!-- Start of  Footer Menu -->
-		<ul style="position:relative; display:block; padding:0px 5px; list-style-type:none; list-style-position:outside; width:100%; margin-left:auto; margin-right:auto">
-			<li style="float:left; position:relative; margin-right:10px"><a href="http://accessconsciousness.com/">Home </a></li>
-			<li style="float:left; position:relative; margin-right:10px"><a href="http://www.accessconsciousness.com/faq.asp">About Access </a></li>
-			<li style="float:left; position:relative; margin-right:10px"><a href="http://accessconsciousness.com/schedule.asp">Classes </a></li>
-			<li style="float:left; position:relative; margin-right:10px"><a href="http://accessconsciousness.com/facilitators.asp">Facilitators </a></li>
-			<li style="float:left; position:relative; margin-right:10px"><a href="http://accessconsciousness.com/terms-conditions.asp">Terms &amp; Conditios </a></li>
-			<li style="float:left; position:relative; margin-right:10px"><a href="http://accessconsciousness.com/privacy-policy.asp">Privacy Policy</a></li>
-		</ul>
-		<!-- End Of Main Menu -->
+        
+	<div id="footer">
+© 1990 Access Consciousness LLC. All Rights Reserved. <br> This website is best viewed with Mozilla FireFox 3, Internet Explorer 8 or Safari 5. Please update your browser.
         
 	</div>
-    
-    <div class="cleaner_with_height"></div>
 
-	<div id="copyright">
-
-Copyright © 2010 <a href="http://accessconsciousness.com/">Access Consciousness LLC.</a> All Rights Reserved | Designed by <a href="http://www.oneworldsocialmedia.com" target="_blank">One World Social Media</a> 
-
-	</div>
-  
-</div> 
-<!-- End Of footer --> 
 
 
 
