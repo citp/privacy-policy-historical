@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the kidsfootlocker.com privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611151404id_/http%3A//www.kidsfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kidsfootlocker.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212012038id_/http%3A//www.kidsfootlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
+<html xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
 	var iwidth=500, iheight=height;
 	{
@@ -22,13 +22,18 @@ function openInvestWin(url) {
 
 
 
-	<!-- web05 --> 
-<title>Kids Foot Locker</title>
-<meta name="keywords" content="">
-<meta name="description" content="">
+	<!-- web-42 --> 
+    <title>Kids Foot Locker</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
 
+	<script language="JavaScript" src="http://reviews.kidsfootlocker.com/static/9055/bazaarvoice.js" type="text/javascript"></script>
 
-<meta http-equiv="published" content="Friday, June 11, 2010 10:14:04">
+	<script language="JavaScript" src="http://answers.kidsfootlocker.com/answers/9055/static/bazaarvoiceQA.js" type="text/javascript"></script>
+
+<meta http-equiv="published" content="Saturday, December 11, 2010 7:20:38">
+
+<meta property="fb:app_id" content="124547640894014">
 
 <script type="text/javascript" src="http://www.kidsfootlocker.com/shared/scripts/jquery-1.3.2.min.js"></script>
 <script language="javascript" src="http://www.kidsfootlocker.com/shared/scripts/ajax.js"></script>
@@ -62,7 +67,7 @@ var sizeSearchActionURL = 'http://www.kidsfootlocker.com/includes/sizeSearchForm
 </head><body><ignoreurlreformat>
 	<script type="text/javascript">
 		
-			var login_template_path = "http://www.kidsfootlocker.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false";
+			var login_template_path = "http://www.kidsfootlocker.com/login/login.cfm?secured=false&bv_RR_enabled=true&bv_AA_enabled=true";
 		
 		var register_url = "https://www.kidsfootlocker.com/account/default.cfm?action=accountCreate";
     </script> 
@@ -95,7 +100,7 @@ var sizeSearchActionURL = 'http://www.kidsfootlocker.com/includes/sizeSearchForm
 			//cmCreateConversionEventTag(coremetricsEventId, 2, CoremetricsCategoryId, 0);
 			
 				window.location.reload();
-			 
+			
 		}
 		// coremetricsEventId, CoremetricsCategoryId
 		function logout(coremetricsEventId, CoremetricsCategoryId, coreMetricsDo) {
@@ -112,13 +117,78 @@ var sizeSearchActionURL = 'http://www.kidsfootlocker.com/includes/sizeSearchForm
 				thisurl = thisurl.replace(eval(regex), '');
 			}
 		
-			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false }).responseText;
+			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false, cache : false }).responseText;
 			eraseCookie('BAZAARVOICEUSER');
 			window.location=thisurl;
 		}
 		
 //-->
 </script>
+
+	<script type="text/javascript" src="http://www.kidsfootlocker.com/shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
+    <style type="text/css">
+		@import url("http://www.kidsfootlocker.com/shared/endeca/css/autosuggest_inquisitor.css");
+		@import url("http://www.kidsfootlocker.com/endeca/autosuggest.css");
+	</style>
+        
+    <script type="text/javascript">
+		var advancedSearchShouldSubmit = false;
+		var advancedSearchPageURL = "http://www.kidsfootlocker.com/searchresults/?cm_prefix=GSTPAH&N=";
+        $(document).ready(function() {
+			$("form[name='keywordSearch']").submit(function() { return advancedSearchShouldSubmit; });
+			
+			$("form[name='keywordSearch'] input.submitbutton").click(keywordSubmit);
+			
+            // Attach Type-Ahead Functionality to Search Input Box
+            var options = {
+				script: function (input) { return "http://www.kidsfootlocker.com/endeca/search_typeahead.cfm?Dn=0&Dp=8&Dr=AND(P_ProductSiteId:1)&D=*"+input+"*"; }
+			,	json: true
+			,	maxentries: 10
+			,	shownoresults: false
+			,	minchars: 3
+			,	timeout: 5000
+			,	delay: 200
+            };
+			var as = null;
+            if ($("#reduce_input_text_height").length) {
+				as = new bsn.AutoSuggest('reduce_input_text_height', options);
+			}
+			else if ($("#key_word_search").length) {
+				as = new bsn.AutoSuggest('key_word_search', options);
+			}
+			else if ($("#searchKeywordInput").length) {
+				as = new bsn.AutoSuggest('searchKeywordInput', options);
+			}
+        });
+    </script>
+
+
+
+<style type="text/css">
+	div.autosuggest ul em {
+		color: #F03D41;
+	}
+	div.autosuggest ul li.as_highlight a {
+		background-color: #F03D41;
+		background-image: none;
+	}
+	div.autosuggest ul li.as_highlight a:hover {
+		background-color: #F03D41;
+	}	
+	div.autosuggest ul li.as_highlight a em {
+		color: #ccc;
+	}			
+	div.autosuggest ul li.as_highlight a .tr {
+		background-image: none;
+	}	
+	div.autosuggest ul li.as_highlight a span {
+		background-image: none;
+	}
+	div.autosuggest ul li a span {
+		font-size: 14px;
+		font-weight: normal;
+	}	
+</style>
 
 <script language="javascript">
 function clickSearch(fieldObj) {
@@ -127,18 +197,24 @@ function clickSearch(fieldObj) {
 }
 </script>
 
+<script type="text/javascript">
+
+try { document.domain = "kidsfootlocker.com"; } catch(exc){}
+
+</script>
+
 
                 <style type="text/css">
-					@import 'http://www.kidsfootlocker.com/css/typography.css'; @import 'http://www.kidsfootlocker.com/css/style.css'; @import 'http://www.kidsfootlocker.com/shared/PDPZoom/PDPZoom.css'; 
+					@import 'http://reviews.kidsfootlocker.com/static/9055/bazaarvoice.css'; @import 'http://answers.kidsfootlocker.com/answers/9055/static/bazaarvoiceQA.css'; @import 'http://www.kidsfootlocker.com/css/typography.css'; @import 'http://www.kidsfootlocker.com/css/style.css'; @import 'http://www.kidsfootlocker.com/shared/PDPZoom/PDPZoom.css'; 
                 </style>
             
                 <style type="text/css">
 					body {
 	margin:0 auto;
 	text-align:center;
-	background-image: url(http://www.kidsfootlocker.com/images/kfl/topnav/newsite/art-img-background1.jpg);
-	background-repeat:repeat-x;
-	background-position:top left;
+	background-image: url('//www.kidsfootlocker.com/ns/header/images/holiday/kfl-homepage-holiday-2010d-background-3.jpg');
+	background-repeat:no-repeat;
+	background-position:top center;
 	font-family:arial,helvetica,sans-serif;
 	background-color:#fff;
 }
@@ -153,9 +229,6 @@ margin:0 auto;
 width:1034px;
 margin:0 auto;
 padding:0;
-background: url(http://www.kidsfootlocker.com/images/kfl/topnav/newsite/background-header1.jpg);
-background-repeat:no-repeat;
-background-position:top left;
 height:157px;
 max-height:157px;
 text-align:right;
@@ -428,20 +501,46 @@ margin-left:10px;
 	height:140px;
 	clear:both;
 	width:950px;
-     margin: 0 auto;
-background-image:url(http://www.kidsfootlocker.com/images/kfl/topnav/newsite/art-img-background-footer1.jpg);
+    margin: 0 auto;
+		background-image:url('//www.kidsfootlocker.com/ns/footer/images/KFL-footer-2.jpg');
 		background-position:top left;
 		background-repeat:no-repeat;
 }
+
 /* ie adjustment */
 * html .kfl-footer-flex {
 margin-left:8px;
 }
 #kfl-lilvip {
 	float:left;
-	text-align:center;
-	width:136px;
+	text-align:left;
+	width:190px;
+	height:130px;
+	font-size:8pt;
 }
+
+#kfl-lilvip a {
+	display:block;
+	width:164px !important;
+	width:190px;
+	height:80px !important;
+	height:130px;
+	color:#005488;
+	text-decoration:none;
+	padding:50px 0 0 16px;
+}
+
+#kfl-lilvip a:hover {
+	display:block;
+	width:164px !important;
+	width:190px;
+	height:80px !important;
+	height:130px;
+	color:#FFF;
+	text-decoration:none;
+	padding:50px 0 0 16px;
+}
+
 /* ie adjustment */
 * html #kfl-lilvip{
 width:138px;
@@ -449,12 +548,12 @@ width:138px;
 #kfl-giftcards {
 	float:left;
 	text-align:center;
-	width:219px;
+	width:192px;
 	color:#000;
 }
 /* ie adjustment */
 * html #kfl-giftcards{
-width:214px;
+width:192px;
 }
  #kfl-giftcards img {
 margin-left:-5px;
@@ -462,22 +561,22 @@ margin-left:-5px;
 #kfl-topsearches {
 	float:left;
 	text-align:left;
-	width:208px;
+	width:192px;
 	margin-top:15px;
 }
 /* ie adjustment */
 * html #kfl-topsearches{
-width:206px;
+width:190px;
 }
 #kfl-mostpopular {
 	float:left;
 	text-align:left;
-	width:208px;
+	width:192px;
 	margin-top:15px;
 }
 /* ie adjustment */
 * html #kfl-mostpopular {
-width:206px;
+width:188px;
 }
 #kfl-customerservice {
 	float:left;
@@ -510,8 +609,8 @@ text-transform:uppercase;
 	font-size:12px;
 }
 .kfl-flex-links a:hover {
-	text-decoration:underline;
-	color:#005488;
+	text-decoration:none;
+	color:#FFF;
 }
 
 #kfl-footer-tagline {
@@ -622,7 +721,7 @@ function MM_swapImage() { //v3.0
 <div id="kfl-header-left">
 <!-- start logo div -->
 <div id="kfl-logo">
-<a href="http://www.kidsfootlocker.com/" title="Kids Foot Locker"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/pixel-1.gif" border="0" height="74" width="340"></a>
+<a href="http://www.kidsfootlocker.com" title="Kids Foot Locker"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/pixel-1.gif" border="0" height="74" width="340"></a>
 <!-- end logo div -->
 </div>
 <!-- end header-left div -->
@@ -633,11 +732,12 @@ function MM_swapImage() { //v3.0
 <div id="kfl-upper-right">
 <!-- start custserv-links div -->
 <div id="kfl-custserv-links">
-<a href="http://www.kidsfootlocker.com/customerserv/" title="Customer Service">Customer Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.kidsfootlocker.com/account/default/" title="My Account">My Account</a>&nbsp;&nbsp;| &nbsp;<a href="http://www.kidsfootlocker.com/content/locator/" title="">Store Locator</a>&nbsp; |&nbsp;&nbsp;<a href="https://www.kidsfootlocker.com/account/default/action--orderStatus/" title="Order Status">Order Status</a>&nbsp;&nbsp;| &nbsp;1-800-991-6684
+<a href="http://www.kidsfootlocker.com/customerserv/" title="Customer Service">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="Wish List" href="https://www.kidsfootlocker.com/wishlist">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.kidsfootlocker.com/account/default/" title="My Account">My Account / VIP Log In</a>&nbsp;&nbsp;| &nbsp;<a href="http://www.kidsfootlocker.com/content/locator/" title="">Store Locator</a>&nbsp; |&nbsp;&nbsp;<a href="https://www.kidsfootlocker.com/account/default/action--orderStatus/" title="Order Status">Order Status</a>&nbsp;&nbsp;|&nbsp;&nbsp;1-800-991-6684
 <!-- end custserv-links div -->
 </div>
 <!-- end upper-right div -->
 </div>
+
 <!-- start lower-right div -->
 <div id="kfl-lower-right">
 
@@ -646,7 +746,11 @@ function MM_swapImage() { //v3.0
 <a href="http://www.kidsfootlocker.com/catalog/shoppingCart/" title=""><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/art-icon-shoppingcart.gif" width="33" height="31" border="0"></a>
 <a href="http://www.kidsfootlocker.com/catalog/shoppingCart/" title="">Shopping Cart</a><br>
 <div id="order_summary">
-	<span class="order_summary_value">0 Items</span>
+<span class="order_summary_value" id="order_summary_content">
+
+	<span class="item_count_value">0</span> <span class="label">Items</span><span class="subtotal_value invisible">0</span>
+
+</span>
 </div>
 <!-- end shoppingcart div -->
 </div>
@@ -666,12 +770,12 @@ function MM_swapImage() { //v3.0
 <!-- start menu div -->
 	            <div id="kfl-menu-tabs2">
             <ul>
-              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003958/jordan/" title="Jordan"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-1.gif" name="Image1" width="125" height="42" border="0" id="Image1" onmouseover="MM_swapImage('Image1','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-1-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-   			  <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5004007/nike/" title="Nike"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-4.gif" name="Image4" width="95" height="42" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-4-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-			  <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003959/shoes/" title="Shoes"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-2.gif" name="Image2" width="125" height="42" border="0" id="Image2" onmouseover="MM_swapImage('Image2','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-2-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003960/clothing/" title="Clothing"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-3.gif" name="Image3" width="132" height="42" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-3-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-              <li><a href="http://www.kidsfootlocker.com/brands/category/" title="Brands"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-5.gif" name="Image5" width="120" height="42" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-5-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003963/sale/" title="Sale"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-6-2.gif" name="Image6" width="99" height="42" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-6-roll2.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003958/kids-jordans/" title="Kids Jordans"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-1.gif" name="Image1" width="125" height="42" border="0" id="Image1" onmouseover="MM_swapImage('Image1','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-1-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+  <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5004007/kids-nike/" title="Kids Nike"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-4.gif" name="Image4" width="95" height="42" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-4-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003959/kids-shoes/" title="Kids Shoes"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-2.gif" name="Image2" width="125" height="42" border="0" id="Image2" onmouseover="MM_swapImage('Image2','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-2-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003960/kids-clothing/" title="Kids Clothing"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-3.gif" name="Image3" width="132" height="42" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-3-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+	  <li><a href="http://www.kidsfootlocker.com/brands/category/" title="Brands"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-5.gif" name="Image5" width="120" height="42" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-5-roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+              <li><a href="http://www.kidsfootlocker.com/promotion/promoId:5003963/kids-sale/" title="Kids Sale"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-6-2.gif" name="Image6" width="99" height="42" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','http://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-tabs-6-roll2.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
 			  <li style="background-image:url(http://www.kidsfootlocker.com/images/kfl/topnav/newsite/nav-off-state_filler.gif);width:270px;height:42px">          
 			  <!-- customer greeting div -->
           <div id="kfl-custgreet">
@@ -689,7 +793,20 @@ function MM_swapImage() { //v3.0
 <!-- start outside div -->
 <div id="kfl-outside">
 <!-- start inside div -->
-  <div id="kfl-inside" style="padding-top:1px;"> <!--cache_delete_after_here--> 
+  <div id="kfl-inside" style="padding-top:1px;"> 
+	<script language="javascript">
+		<!--
+		viewBannerEvent("$10 off $50, $20 off $75, $25 off $100 tiered offe", 90);
+		//-->
+	</script>
+
+		<!-- tpbann --><a href="http://www.kidsfootlocker.com/ns/2010/kflgb120910a-dis/kflgb120910a-dis.html" alt="$10 off $50, $20 off $75, $25 off $100" target="_blank"><img src="http://www.kidsfootlocker.com/images/kfl/headers/kflgb120910a.gif" border="0"></a><!-- end tpbann -->
+	
+<script language="Javascript">		
+	var inlineAddToCartEnabled = false;
+	var useMyBuyYMALS = false;
+</script>
+
 
 <style type="text/css">
 	/*#helpheader {
@@ -804,10 +921,11 @@ function MM_swapImage() { //v3.0
 		</ul>
 	</div>
 	<div id="helpcontent">
+                <div id="helpheader">
+                        <a href="http://www.kidsfootlocker.com/customerserv/"><img src="http://www.kidsfootlocker.com/images/kfl/staticheaders/hdr_customerservice.gif" alt="Customer Service" border="0"></a>
+                </div>
+
 		
-			
-			
-			
 			
 			<div id="contenttitle">
             	Privacy Policy
@@ -816,7 +934,7 @@ function MM_swapImage() { //v3.0
 			<ul></ul>
 			<!--Page name is privacy_policy.html-->
 <p style="text-align: left;"><strong><big>Online Privacy Statement</big></strong></p>
-<p>Kids Foot Locker believes in keeping your confidential information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:</p>
+<p>Kids Foot Locker believes in keeping your information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:</p>
 <table style="width: 100%;" border="1">
 <tbody>
 </tbody>
@@ -859,7 +977,7 @@ function MM_swapImage() { //v3.0
 <p><strong><a name="Use">Use of Information</a></strong><br>We use the personal information we collect from you for the following purposes:</p>
 <ol type="1">
 <li>To provide you with a quick and simple checkout experience;</li>
-<li>to process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; </li>
+<li>To process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; </li>
 <li>To contact you about upcoming Kids Foot Locker sales, promotions, and product information; </li>
 <li>To allow you to participate in contests and other promotions;</li>
 <li>To help us learn more about our site visitors and customers and to improve their shopping experience and our business;</li>
@@ -894,7 +1012,7 @@ function MM_swapImage() { //v3.0
 <p><strong><a name="CA">Your California Privacy Rights</a></strong><br>If you are a California resident, you may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the address below.</p>
 <p><strong><a name="Contacting">Contacting the Website</a></strong><br>Should you have any further questions regarding this Privacy Statement, the practices of this Website, or your dealings with this Website, please:</p>
 <ol type="1">
-<li>Contact our customer service department at : customer_service@kidsfootlocker.com; or </li>
+<li>Contact our Customer Service Department at : customer_service@kidsfootlocker.com; or </li>
 <li>Write to us at:</li>
 </ol>
 <p style="padding-left: 40px;">Internet Customer Service<br>Footlocker.com, Inc.<br>PO Box 8066<br>111 South 1st Avenue<br>Wausau, WI 54402-8066</p>
@@ -908,7 +1026,7 @@ function MM_swapImage() { //v3.0
 <!-- start footer flex div -->
   <div class="kfl-footer-flex">
       <div id="kfl-lilvip">
-<a href="http://www.kidsfootlocker.com/promotion/promoId:5003965/kids-footlocker-vip/" title="Become a VIP"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/pixel-1.gif" height="125" width="118" border="0"></a>
+		<a href="http://www.kidsfootlocker.com/promotion/promoId:5003965/" title="Become a VIP">Exclusive offers and coupons<br>VIP access to special events<br><br>JOIN NOW AND GET $10<br>OFF A FUTURE PURCHASE</a>
       </div>
       <div id="kfl-giftcards">
 	  <a href="http://www.kidsfootlocker.com/promotion/promoId:5003964/gift-cards/" title="Giftcards"><img src="http://www.kidsfootlocker.com/images/kfl/topnav/newsite/pixel-1.gif" height="125" width="174" border="0"></a>
@@ -917,11 +1035,11 @@ function MM_swapImage() { //v3.0
         <div class="kfl-flex-titlebar">Quick Links</div>
         <div class="kfl-flex-links">
           <ul>
-           <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+shoes+in-line/" title="NEW Jordan Shoes">Jordan Latest Launches</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+basketball+shoes/" title="Basketball Shoes">Basketball Shoes</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+casual+shoes/brand:Nike/" title="Nike Casual Shoes">Nike Casual Shoes</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+boots/" title="Casual Boots">Casual Boots</a></li>
-            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+sale+shoes/" title="Shoe Sale">Shoe Sale</a></li>
+           <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+jordan+shoes/" title="Kids Jordan Shoes">Kids Jordan Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+basketball+shoes/" title="Kids Basketball Shoes">Kids Basketball Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+nike+casual+shoes/" title="Kids Nike Casual Shoes">Kids Nike Casual Shoes</a></li>
+            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:kids+casual+boots/" title="Kids Casual Boots">Kids Casual Boots</a></li>
+            <li><a href="http://www.kidsfootlocker.com/searchresults/keyword:sale+kids+shoes/" title="Kids Shoe Sale">Kids Shoe Sale</a></li>
           </ul>
         </div>
       </div>
@@ -931,6 +1049,7 @@ function MM_swapImage() { //v3.0
           <ul>
            <li><a href="http://www.kidsfootlocker.com/customerserv/help:orderInfo/" title="Ordering Help">Ordering Help</a></li>
             <li><a href="http://www.kidsfootlocker.com/customerserv/help:privacyPolicy/" title="Privacy Policy">Privacy Policy</a></li>
+            <li><a href="http://www.kidsfootlocker.com/customerserv/help:otherSettlements/" target="_blank" title="Settlements">Settlements</a></li>
             <li><a href="http://www.kidsfootlocker.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a></li>
             <li><a href="http://www.kidsfootlocker.com/customerserv/help:contactUs/" title="Contact Us">Contact Us</a></li>
             <li><a href="http://www.footlocker-inc.com/company.cfm?page=kids-foot-locker" target="_blank" title="About Us">About Us</a></li>
@@ -945,7 +1064,8 @@ function MM_swapImage() { //v3.0
             <li><a href="http://www.kidsfootlocker.com/customerserv/help:shipInfo/" title="Shipping Info">Shipping Info</a></li>
             <li><a href="http://www.kidsfootlocker.com/customerserv/help:generalSizing/" title="">Sizing Help</a></li>
             <li><a href="http://www.kidsfootlocker.com/customerserv/help:returnsExchanges/" title="Returns and Exchanges">Returns and Exchanges</a></li>
-            <li><a href="http://www.footlocker-inc.com/careers.cfm?page=careers-kids-footlocker" target="_blank" title="Job Opportunities">Job Opportunities</a></li>
+            <li><a href="http://www.kidsfootlockercareers.com/" target="_blank" title="Job Opportunities">Job Opportunities</a></li>
+            <li><a href="http://www.kidsfootlocker.com/sitemap/" title="Kidsfootlocker.com Sitemap">Sitemap</a></li>
             
           </ul>
         </div>
@@ -959,17 +1079,11 @@ function MM_swapImage() { //v3.0
     <div id="kfl-footer-tagline">
 <!-- start disclaimer div -->
 <div id="kfl-disclaimer">
-Prices subject to change without notice. Products shown may not be available in our stores. (<a href="http://www.kidsfootlocker.com/customerserv/help:productInformation/">More Info</a>) | © 2009 Footlocker.com, Inc. All rights reserved
+Prices subject to change without notice. Products shown may not be available in our stores. (<a href="http://www.kidsfootlocker.com/customerserv/help:productInformation/">More Info</a>) | © 2010 Footlocker.com, Inc. All rights reserved
 <!-- end disclaimer div -->
 </div>
       <div id="kfl-footer-icons"> 
 			
-<script language="Javascript">
-	var seal_gif_url="https://www.kidsfootlocker.com/images/kfl/common/verisignseal.gif";
-	var dn = "www.kidsfootlocker.com";
-					
-</script>			
-<script language="JavaScript" src="https://www.kidsfootlocker.com/images/kfl/js/getverisignsealimage.js"></script>
 
 <!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.kidsfootlocker.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.kidsfootlocker.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
@@ -977,7 +1091,8 @@ Prices subject to change without notice. Products shown may not be available in 
 
 <a href="http://www.kidsfootlocker.com/promotion/promoId:5004008/veterans-advantage/" title="Veterans Advantage Discount"><img src="http://www.kidsfootlocker.com/images/kfl/headers/veteransadvantage.jpg" alt="Veterans Advantage Discount" width="57" height="45" border="0"></a>
 
-        <a href="http://www.kidsfootlocker.com/promotion/promoId:5003966/School/"><img src="https://www.kidsfootlocker.com/images/kfl/topnav/newsite/KFL-School-Rewards.jpg" border="0" alt="School Rewards"></a> &nbsp;
+       
+
 <img src="https://www.kidsfootlocker.com/images/kfl/topnav/newsite/kfl-art-partnersites.gif" border="0" usemap="#partnersites">
 <map name="partnersites">
   <area shape="rect" coords="1,3,71,49" href="http://footlocker.eu" target="_blank" alt="Foot Locker Europe" title="Foot Locker Europe">
