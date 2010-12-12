@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboardeats.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411143721id_/http%3A//blackboardeats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboardeats.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212183003id_/http%3A//blackboardeats.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
