@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418201743id_/http%3A//www.asa.org.uk/General/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212070905id_/http%3A//asa.org.uk/General/Privacy-policy.aspx) for the most accurate reproduction.*
 
-# ASA - Privacy policy
+# Privacy policy - Advertising Standards Authority
 
 ## Terms and Conditions
 
