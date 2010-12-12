@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404043022id_/http%3A//insuremycar4less.com/%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212220456id_/http%3A//insuremycar4less.com%3Fopenaction%3Dqw%26subaction%3Dprivacy%23content) for the most accurate reproduction.*
 
-# Insure My Car 4 Less | Privacy Policy
+# InsureMyCar4Less | Privacy Policy and Terms and Conditions
 
-_This privacy policy was last updated on June 19th, 2006_
+## Privacy Policy and Terms and Conditions
 
-Insure my Car 4 Less is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
+_This privacy policy was last updated on April 8th, 2009_
+
+InsureMyCar4Less is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
 
 ## Information We Collect
 
-Collecting various types of information from our visitors allows Insure my Car 4 Less to periodically adjust our site to meet our users' needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners. 
+Collecting various types of information from our visitors allows InsureMyCar4Less to periodically adjust our site to meet our users' needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners. 
 
 ## Information Collected Automatically
 
-Some information is automatically sent to Insure my Car 4 Less by your browser or Internet session each time you visit one of our sites. These types of information include: 
+Some information is automatically sent to InsureMyCar4Less by your browser or Internet session each time you visit one of our sites. These types of information include: 
 
   * The name of your browser, e.g., Internet Explorer, Netscape Navigator.
   * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.
@@ -26,19 +28,21 @@ This information allows us to see how users are finding our sites, and which pag
 
 ## Information You Provide to Us
 
-In addition to the information automatically collected by your browser, Insure my Car 4 Less also collects information that you provide to us when you request quote information. 
+In addition to the information automatically collected by your browser, InsureMyCar4Less also collects information that you provide to us when you request quote information. 
 
 Our web sites provide users with the opportunity to request quote information from insurance providers and brokers. To do this, we collect contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information relevant to the applicant's insurability (driver history, vehicle usage, etc). This contact information is then provided to the insurance partners from which the user has requested quote information. 
 
-Insure my Car 4 Less uses cookies to store contact information for each user. If the user uses our site to make further requests for quote information, their contact information will automatically be used to pre-populate contact forms. Insure my Car 4 Less also collects customer interest information (e.g. Requests for E-Mail Newsletters) to determine what information the customer wishes to be sent after using our service. 
+InsureMyCar4Less uses cookies to store contact information for each user. If the user uses our site to make further requests for quote information, their contact information will automatically be used to pre-populate contact forms. InsureMyCar4Less also collects customer interest information (e.g. Requests for E-Mail Newsletters) to determine what information the customer wishes to be sent after using our service. 
 
-By submitting a quote request, you authorize Insure my Car 4 Less to provide your information to insurance agents, both local and national. You also authorize Insure my Car 4 Less to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that Insure my Car 4 Less’s service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to Insure my Car 4 Less. In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record. 
+By submitting a quote request, you authorize InsureMyCar4Less to provide your information to insurance agents, both local and national. You also authorize InsureMyCar4Less to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that InsureMyCar4Less’s service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to InsureMyCar4Less. In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record. 
+
+If you provide a cell phone number with your contact information, InsureMyCar4Less and/or InsureMyCar4Less's clients may dial this number, including autodialing of this number, to provide quote information and/or seek additional information in order to provide a quote. 
 
 ## How We Use This Information
 
-The information that is automatically collected by our web site allows Insure my Car 4 Less to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
+The information that is automatically collected by our web site allows InsureMyCar4Less to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
 
-Insure my Car 4 Less may share personally identifiable information with third-party businesses for the purpose of direct marketing, specifically e-mail marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+InsureMyCar4Less may share personally identifiable information with third-party businesses for the purpose of direct marketing, specifically e-mail marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
 
 ## How Our Insurance Partners May Use This Information
 
@@ -48,7 +52,7 @@ In order to provide you with the most accurate quotes possible, insurance compan
 
 ## Your Rights—Our Obligations 
 
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On occasion, we may use certain directory information that we collect from you to send you information about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by e-mailing: unsubscribe@Insure my Car 4 Less.com. 
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On occasion, we may use certain directory information that we collect from you to send you information about products and services, or updates and other information that we think may be of interest to you. We may share this information with our insurance partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request that your name and address should be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by e-mailing: unsubscribe@InsureMyCar4Less.com. 
 
 Other than directory information, the data that you provide to us as you use the web site will be held in strict confidence by the company, and will be used for company purposes only. 
 
@@ -62,7 +66,7 @@ When you visit some of our sites, we use cookies to keep track of your informati
 
 ## Links From Our Site To Other Sites
 
-Some of our sites may contain links to other sites external to our sites. When you access these external web sites, the providers of the sites will have access to certain information about you. Insure my Car 4 Less is not responsible for the privacy practices or the content of any web sites which we do not directly control. 
+Some of our sites may contain links to other sites external to our sites. When you access these external web sites, the providers of the sites will have access to certain information about you. InsureMyCar4Less is not responsible for the privacy practices or the content of any web sites which we do not directly control. 
 
 ## Definitions
 
@@ -84,8 +88,8 @@ A browser session is defined as the period of time a browser is in consecutive u
 
 ## SSL Encryption (Secure Sockets Layer)
 
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. Insure my Car 4 Less also uses SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. InsureMyCar4Less also uses SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
 
 ## URL (Uniform Resource Locator)
 
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for Insure my Car 4 Less is www.InsuremyCar4Less.com. 
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for InsureMyCar4Less is www.InsuremyCar4Less.com. 
