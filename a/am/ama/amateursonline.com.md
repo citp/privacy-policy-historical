@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateursonline.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005924id_/http%3A//www.amateursonline.com/index.php%3Fnavigate%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursonline.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212205951id_/http%3A//amateursonline.com/index.php%3Fnavigate%3Dprivacy) for the most accurate reproduction.*
 
 # Amateur Sex and Free Porn Site at AmateursOnline.com. Homemade Adult Amateur videos and pictures uploaded daily.
 
