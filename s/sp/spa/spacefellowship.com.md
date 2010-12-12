@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531073429id_/http%3A//spacefellowship.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212100741id_/http%3A//spacefellowship.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | International Space Fellowship
 
