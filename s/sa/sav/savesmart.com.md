@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savesmart.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614190825id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savesmart.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212213951id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.*
 
 # InfoSpace: Privacy Policy
 
@@ -19,7 +19,6 @@ Through the InfoSpace Network and from third party sources, we collect both aggr
   * [InfoSpace (Canada)](http://www.infospace.com/_1_2PYSUMY02D7VHPR__canada/about/corporate/privacy.htm)
   * [Webfetch (UK)](http://www.webfetch.com/webfetchukint/ws/privacy/_iceUrlFlag=11?_IceUrl=true)
   * [Webcrawler (Germany)](http://www.webcrawler.de/webcrawlerde/ws/privacy/_iceUrlFlag=11?_IceUrl=true)
-  * [Haggle](http://www.haggle.com/Home/Privacy)
   * [WebPosition](http://www.webposition.com/privacy.asp)
 
 
