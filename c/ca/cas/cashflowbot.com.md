@@ -1,83 +1,250 @@
-> *The following text is extracted and transformed from the cashflowbot.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513013128id_/http%3A//cashflowbot.com/index%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashflowbot.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
-# CashFlowSystems, Inc.
+# DollarMonster - Double Your Money In A Few Days
 
-**Latest News:**
+MAIN MENU 
 
-**Mailservers...**  
-We have been having some recent issues with our mailservers. If you need to contact support, please email support@cashflowbot.com. Thanks - Mgmt
+* * *
 
-_Apr-01-2009 03:45:58 PM_
+SITE STATS 
 
-TESTIMONIALS
+| 
 
-_"I just wanted to say THANK YOU! I received my first bigger withdraw recently and am very pleased. I really very much appreciate it. thanks thanks thanks"_ **\- Jeremy from Arizona**
+**Years Open: ******
 
-_"This is the best program I've ever been apart of! Thank you so much for this chance!!!"_ **\- Zafar from India**
+******** | 
 
-_"Hi guys, I joined up here a few months ago, and with the money I've made off this thing, I'm going on my first vacation in 5 years!!!"_ **\- Robert from Texas,USA**
+5   
+  
+---|---  
+  
+**Accounts: ******
 
-_"hello. i've got to tell you, i've tried just about everything out there you coudl imagine that promise to make you money, but I have never been apart of soemthing so great as this! Thank you thank you thank you!"_ **\- Thera from New York**
+******** | 
 
-_"hi support. i just wanted to send a line of my own and tell you that i am so happy that i found your program! this is the most fun, and the most money, i have ever had!!!"_ **\- Ida from Germany**
+7,778   
+  
+**Today In +: ******
 
-Have you own testimonial you want to put up? [Email](mailto:admin@cashflowbot.com?Subject=My%20Testimonial) it to us!!! 
+******** | 
 
-### CashFlowSystems, Inc.'s Privacy Policy
+**$0.00**  
+  
+**Paid Out -: ******
 
-**Privacy Policy**  
-\- Last updated: 02-05-2006
+******** | 
 
-Privacy Policy
+**$638,309.00**  
+  
+**This Month +: ******
 
-At https://www.cashflowbot.com/, we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used.
+******** | 
 
-Jason Polan Enterprise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site https://www.cashflowbot.com/. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+**$39,690.00**  
+  
+**New Member: ******
 
-If you have questions or concerns regarding this statement, you should first contact Jason Polan at admin@cashflowbot.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with us to resolve your concerns.
+******** | 
 
-Information Collected When you join our site, we collect personal information from you such as your name, e-mail address, billing zip code, your state, credit card or other payment information. Our website counter will also collect the URL you came from, domain types (e.g. .com or .org, etc.), your browser type, the country, state and where your server is located.
+magnat   
+  
+**Last Purchase: ******
 
-Personally identifiable information:
+******** | 
 
-We Do Not Share Personally Identifiable Information with Third Parties. We do not sell or rent your personal information to others. We use customer information we collect only for the purposes of filling orders, or for statistical purposes. We use third parties (Clickbank and Paypal) to help us fulfill orders and to help process payments. They will have access to the information needed to process your order only. We use an outside credit card processing company (Clickbank and Paypal) to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+Dec 11, 2010 10:05 PM   
+  
+  
 
-Safe Shopping: Our computer system and only shopping cart protects your personal information using advanced firewall technology.
 
-We dot not share with third parties for unknown or unrelated uses.
+* * *
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for mailing tips newsletters, at the bottom of every emailed newsletter. 
+LATEST NEWS 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at admin@cashflowbot.com.
+**REFUND OPTION AVAILABLE**  
+You can now issue a refund yourself via our API Refund System on any shares that are moving too slow, or you want to change your strategy!
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+Just enter your AlertPay Reference Number into the form, and your Refund is sent instantly to your account!
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+You can find the ORDER REFUND option in the MAIN MENU of your members area!
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. For more information on cookies Click here.
+* * *
 
-We set a persistent cookie to track affiliate sales. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+[All news](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=news)
 
-If you reject cookies, you may still use our site.
+* * *
 
-Some of our business partners (e.g., Google) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
+  
+[ ](https://scanalert.com/MeterVerify?ref=www.cashflowbot.com) [](https://www.alertpay.com/?y6JooXjRtlINkYhhEEju9A%3d%3d)  
+  |   | 
 
-This privacy statement covers the use of cookies by Google only and does not cover the use of cookies by any advertisers.
+PRIVACY POLICY
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at admin@cashflowbot.com or by contacting us by postal mail at the contact information listed below.
+The Privacy Policy below governs your account and any information you provide on this site.
 
-Company contact:
+A. Overview  
+B. Information We Collect  
+C. Our Use and Disclosure of Information  
+D. Information Security  
+E. Accessing and Changing Your Information  
+F. Contacting Us
 
-CashFlowSystems, Inc.  
-[admin@cashflowbot.com](mailto:admin@cashflowbot.com?subject=Close%20My%20Account...)  
-3291 Bankhead Hwy.  
-# 70  
-Lithia Springs, GA. 30122
+A. Overview
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+In order to offer some of DollarMonster’s services and reduce fraud, (“DollarMonster” or “we”) may ask you to provide us information about yourself and your credit card and/or bank account. This Privacy Policy describes the information we collect and how we use that information. DollarMonster takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail in Part C below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy. This Privacy Policy applies to all services that are hosted on the website, whether DollarMonster(or its subsidiaries or its affiliates) offers the services.  
+By accepting the Privacy Policy and Terms of Use in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Terms of Use.
 
-If you have any questions about security on our Web site, you can send email us at admin@cashflowbot.com
+Your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country, but will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not register for the service.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+Notification of Changes  
+This policy may be revised over time as new features are added to the service or as we incorporate suggestions from our customers. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. Any material changes will be effective only after we provide you by e-mail with at least 30 days’ notice of the amended Privacy Policy (if you have closed your account, you will not be contacted to notify you of the amended Policy and your personal information will not be used or disclosed in this new manner).
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+We will post the amended Privacy Policy prominently on our website so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the DollarMonster website at at any time for the most current version of our Privacy Policy.
+
+Pages on the website may include links to third party websites. DollarMonster is not responsible for their operations, including but not limited to their information practices. Their privacy statements govern those sites. Users submitting information to or through these third party websites should review the privacy statement of these sites before providing them with personally identifiable information. 
+
+B. Information We Collect
+
+Required Information  
+To open a account, you must provide your name, company name (if any), address, phone number, home page (if any), and e-mail address. In order to make payments through DollarMonster, you must provide credit card, debit card or bank account information. We may also ask you to choose different security questions to answer. This required information may be necessary for us to process transactions, issue a new password if you forget or lose your password, protect you against credit card fraud and checking account fraud, and to contact you should the need arise in administering your account.
+
+In order to comply with the Bank Secrecy Act, we will also require your SSN or TIN if you send or receive certain high-value transactions or high overall payment volumes through . If you choose to register or apply for certain optional features or products offered through the websites, you will be required to provide additional information to establish that you qualify for such features or products.
+
+Transaction Information  
+When you use DollarMonster to send money to someone else or request money from someone else, we ask you to provide information related to each transaction, including the amount of the transaction and the e-mail address of the third party. We retain this information for each of your transactions through DollarMonster. We also collect the Internet address (IP address) of the computer or device you use to access your account, in order to help detect possible instances of unauthorized transactions.
+
+Information About You From Third Parties  
+In order to protect all our customers against potential fraud, we verify with third parties the information you provide. In the course of such verification, we receive personally identifiable information about you from such services. In particular, if you register a credit card or debit card with , we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to , and that the card has not been reported as lost or stolen.
+
+If you send or receive high overall payment volumes through DollarMonster, in some circumstances we may conduct a background check on your business by obtaining information about you and your business from a credit bureau or a business information service. If you incur a debt to DollarMonster, we will generally conduct a credit check on you by obtaining additional information about you from a credit bureau, to the extent permitted by law. DollarMonster, at its sole discretion, also reserves the right periodically to retrieve and review a business or consumer credit report for any account, and reserves the right to close an account based on information obtained during this credit review process.
+
+Additional Verification  
+If we cannot verify the information that you provide, or if you request a withdrawal by check to an address other than your verified credit card billing address, we may ask you to send us additional information (such as your drivers’ license, credit card statement, and/or a recent utility bill or other information linking you to the applicable address), or to answer additional questions online to help verify your information.
+
+Website Traffic Information  
+Because of the way that Internet communication standards work, when you arrive at or leave the website, we automatically receive the Internet address of the site that you came from or are going to. We also collect information on which pages of our website you visit while you are on the site, the type of browser you use and the times you access our website. We may use this information only to try to understand our customers’ preferences better and to manage the load on our servers, so as to improve our service and your experience with DollarMonster. We do not track the websites that you visit before or after you leave the site.
+
+Our Use of “Cookies”  
+“Cookies” are small files of data that reside on your computer and allow us to recognize you as a customer if you return to the site using the same computer and browser. We send a “session cookie” to your computer if and when you log in to your account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don’t need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect.
+
+We also use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don’t have to retype the e-mail address each time when you log in to your account. In addition, we use cookies to process our referral program, described in Section C below. We may share cookie information regarding whether or not a certain user is already registered with with certain merchants with whom we have an official co-marketing relationship.
+
+Customer Service Correspondence  
+If you send us correspondence, we may retain such information in the records of your account. We may also retain customer service correspondence and other correspondence from to you. We may retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our Terms of Use. We may, over time, delete these records if permitted by law.
+
+Questionnaires, Surveys and Profile Data  
+From time to time, we may offer optional questionnaires and surveys to our users for such purposes as collecting demographic information or assessing users’ interests and needs. The use of the information collected will be explained in detail in the survey itself. If we collect personally identifiable information from our users in these questionnaires and surveys, the users will be given notice of how the information will be used prior to their participation in the survey or questionnaire.
+
+Non-member Recipients and Requests  
+When a member either sends a payment to, or requests a payment from, an individual who is not a registered member of DollarMonster, we will retain the information that the member submits to us, including, for example, the other party’s email address and/or name, for the benefit of the member who is attempting to contact the non-member, so that the member can see a complete record of his or her transactions, including uncompleted transactions. Although this information is stored indefinitely, we will not market to the non-member in any way at any time. Additionally, these non-members have the same rights to access and correct information about themselves (assuming that their email addresses were correct enough to reach them) as anyone else who uses DollarMonster. 
+
+C. Our Use and Disclosure of Information
+
+Internal Uses  
+We collect, store and process your personal information on servers located in the United States. We use the information we collect about you in order to provide our services and process your transactions, to provide customer service, to determine your eligibility to receive offers for special features or products, and to improve our products and services. At your option (as indicated in your user settings), we use the information you provide to access specific third party services on your behalf and perform the actions that you request us to perform.
+
+We give access to individually identifiable information about our users only to those employees who require it to fulfill customer service requests.
+
+Disclosure to Other Customers  
+If you are a registered user, your name, e-mail address, date of sign-up, and other information may be displayed to other customers whom you have paid or who are attempting to pay you through . Your credit card number, bank account and other financial information will never be revealed to anyone whom you have paid or who has paid you through DollarMonster, except if we are required to do so pursuant to a subpoena or other legal process.
+
+If you are buying goods or services and paying through , the seller of the goods or services may request that you provide a mailing address that has confirmed as matching the billing address in the credit card system. You do not have to provide this information. If you do not provide the information, however, the seller may choose not to accept your payment and not to complete the transaction.
+
+may also disclose to other customers the number of payments you have received from Verified customers (as defined in the Terms of Use on the site), or other aggregate measures that provide an indication of your reputation with other customers.
+
+Disclosure to Third Parties Other Than Customers  
+will not sell or rent any of your personally identifiable information to third parties. will not share any of your personally identifiable information with third parties except in the limited circumstances described below, or with your express permission (and to other customers as described above). These third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared. We share information with companies that help us process the transactions you request and protect our customers’ transactions from fraud, such as sharing your credit card number with a service that screens for lost and stolen card numbers. See “Information About You From Third Parties” in Section B above. Additionally, if you go into a negative balance and owe us money, we may share information with processing companies including collection agencies.
+
+We disclose the information we collect, as described in Section B above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. These companies may be subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified -related products or services, unless you have affirmatively agreed or given your prior permission for other uses.
+
+We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our Terms of Use. Specifically, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity’s contact information (but not bank account or credit card information) to victims who request it.
+
+We disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action.
+
+If a user signs up for a co-branded version of through links on our co-branded partner’s website, will share with the co-branded partner that user’s name, e-mail address and physical address in order to provide enhanced integration between ’s services and the services of our co-branded partner. If a user does not want his or her information shared with ’s co-branded partner, he or she should not use this aspect of the site.
+
+We disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).
+
+We share aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific percentage of our users live in British Columbia. However, this aggregated information is not tied to personally identifiable information.
+
+As with any other business, it is possible that in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by DollarMonster, including customer account information, but would continue to be bound by this Privacy Policy unless an until it is amended as described in Section A above.
+
+We share your information with our parent, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, and promote trust and safety.
+
+Our Contacts with Customers  
+We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious transactions. We use your e-mail address to confirm your opening of a account, to send you notice of payments that you send or receive through (including referral payments described below), to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional.
+
+We also may use your e-mail address to send you other types of communications that you can control, including tips, newsletters, customer surveys and notice of special third-party promotions. You can choose whether to receive some, all or none of these communications when you complete the registration process, or at any time thereafter, by logging in to your account on the website and changing your user preferences. You can also change your choices at any time through the same procedure.
+
+In connection with independent audits of our financial statements and operations, auditors may seek to contact a sample of our customers to confirm that our records are accurate. However, these auditors cannot use personally identifiable information for any secondary purposes.
+
+Internet Address Information  
+We use IP addresses, browser types and access times to analyze trends, administer the site, improve site performance and gather broad demographic information for aggregate use.
+
+Your Use of Information and Our Services  
+In order to facilitate the transactions between members, our service allows you limited access other users’ contact information. As a seller you may have access to the User ID, email address and other contact information of the purchaser, and as a purchaser you may have access to the User ID, email address and other contact information of the seller.
+
+By entering into our Terms of Use, you agree that, with respect to other users’ personally identifiable information that you obtain through the site or through an DollarMonster -related communication or DollarMonster -facilitated transaction, you will only use this information for: (a) DollarMonster -related communications that are not unsolicited commercial messages, (b) using services offered through DollarMonster, and (c) any other purpose that such user expressly agrees to after adequate disclosure of the DollarMonster purpose(s).
+
+In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another DollarMonster user to any third party without our consent and the consent of such other DollarMonster user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
+
+DollarMonster does not tolerate unsolicited commercial e-mail or “spam.” Therefore, without limiting the foregoing, you may not add a user to your mail list (e-mail or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. Our anti-spam policy is strictly enforced. To report -related spam to DollarMonster, please contact us at [admin@cashflowbot.com](mailto:admin@cashflowbot.com). 
+
+D. Information Security
+
+Information Security  
+DollarMonster handles your customer information with high standards of information security. We restrict access to your personally identifiable information to employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+
+The security of your DollarMonster account also relies on your protection of your password. You should not share your password with anyone. DollarMonster representatives will never ask you for your DollarMonster password, so any e-mail or other communication requesting your DollarMonster password should be treated as unauthorized and suspicious. If you do share your password with a third party for any reason, including because the third party has promised to provide you additional services such as account aggregation, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately by logging in to your account at DollarMonster and changing your DollarMonster user settings, and also contact us right away as described in Section F below. 
+
+E. Accessing and Changing Your Information
+
+You can review the personal information you provided us and make any desired changes to such information, or to the settings for your DollarMonster account, at any time by logging in to your DollarMonster account on the DollarMonster website and changing your user preferences. You can also close your account through the website. If you close your DollarMonster account, we will mark your account in our database as “Closed,” but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law. 
+
+F. Contacting Us
+
+If you have any questions about this privacy statement, DollarMonster’s information practices, or your dealings with DollarMonster, you can contact us at [admin@cashflowbot.com](mailto:admin@cashflowbot.com). 
+
+SIGN UP FOR YOUR FREE ACCOUNT TODAY 
+
+|   |   | 
+
+ACCOUNT LOGIN 
+
+  
+[](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=livesupport)  
+
+
+* * *
+
+FORUM POSTS 
+
+**muny4me said:**  
+In Cycle means your share is in cycle. pretty obvious what it means....  
+**_Dec-11-2010 04:56 PM_**  
+**[REPLY](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)**  
+  
+\-------------------------  
+**dominir said:**  
+Would you please tell me what means "IN CYCLE" ???
+
+Thank you and have nice weekend
+
+  
+**_Dec-11-2010 04:37 PM_**  
+**[REPLY](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)**  
+  
+\-------------------------  
+**weallwin said:**  
+can someone please post the latest REF# that doubled in the $50 line?  
+**_Dec-11-2010 04:15 PM_**  
+**[REPLY](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)**  
+  
+\-------------------------  
+[Read More...](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)   
+
+
+* * *
+
+  
+
