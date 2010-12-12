@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityspur.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613010434id_/http%3A//cityspur.com/2009/03/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityspur.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212232951id_/http%3A//cityspur.com/2009/03/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CitySpur - When You Simply Want the Best a City Has to Offer
 
