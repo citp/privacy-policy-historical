@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the visions.ca privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018070425id_/http%3A//info.visions.ca/info/cid8/pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visions.ca privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212062009id_/http%3A//www.visions.ca/Pages/Default.aspx%3FcontentId%3D8) for the most accurate reproduction.*
 
 # Visions Electronics
 
-****
-
-****Introduction:****
+****Introduction:**** ** ******
 
 At Visions Electronics our relationship with you, our customer, is of paramount importance to us. We will always do everything necessary to ensure that we protect all of your personal information, and keep it safe and secure. We do not, and will not, sell or rent your personal information to anyone.
 
@@ -28,9 +26,9 @@ We have taken steps to ensure that we meet or exceed all of the principles estab
 
 **8.) Openness** – Visions Electronics is committed to addressing any questions you may have regarding any aspect of our handling of your personal information which we have collected.
 
-**9.) Customer Ability to Access Information** – In the event that you would like to contact us to obtain information about your private information at Visions Electronics, please send us a written request. This request can be mailed attn: Privacy Officer 6009 – 1A Street SW, Calgary AB T2H 0G5 or emailed to [privacy.officer@visions.ca](mailto:privacy.officer@visions.ca).
+**9.) Customer Ability to Access Information** – In the event that you would like to contact us to obtain information about your private information at Visions Electronics, please send us a written request. This request can be mailed attn: Privacy Officer 6009 – 1A Street SW, Calgary AB T2H 0G5 or emailed to [privacy.officer@visions.ca](mailto:privacy.officer@visions.ca)
 
-**10.) Your Recourse** – We are committed to handling any question or concern about our privacy principles or practices promptly. You can contact our Chief Privacy Officer at the address in item (9) above. In the event that we have not been able to resolve any issue, you can contact the Office of the Privacy Commissioner of Canada. The website address for the Office of the Privacy Commissioner of Canada is [www.privcom.gc.ca](http://www.privcom.gc.ca/). 
+**10.) Your Recourse** – We are committed to handling any question or concern about our privacy principles or practices promptly. You can contact our Chief Privacy Officer at the address in item (9) above. In the event that we have not been able to resolve any issue, you can contact the Office of the Privacy Commissioner of Canada. The website address for the Office of the Privacy Commissioner of Canada is [www.privcom.gc.c](http://www.privcom.gc.ca/)
 
 **Website Information Collection Methods and Purposes:**
 
@@ -51,4 +49,5 @@ Our website also makes use of Cookies. Cookies are small bits of computer inform
 Our website may contain links to other websites. If you click on one of these links, you are leaving Visions Electronics website, and will be accessing a website belonging to a 3rd party. Visions Electronics has no responsibility for, or control over, those websites. We encourage you to read and understand the privacy policies of those other sites prior to use, to ensure you are comfortable with how they collect and use information about you.
 
 Updated Aug 30, 2007.  
+  
 
