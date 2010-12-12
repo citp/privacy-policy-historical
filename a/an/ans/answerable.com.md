@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answerable.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518044648id_/http%3A//answerable.com/content.php%3Faction%3Dmypages%26page%3DPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerable.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212172349id_/http%3A//www.answerable.com/content.php%3Faction%3Dmypages%26page%3DPrivacy.html) for the most accurate reproduction.*
 
 # Answerable.com Privacy Policy
 
