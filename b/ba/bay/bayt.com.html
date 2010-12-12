@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the bayt.com privacy policy that was archived on 2010-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613010835id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bayt.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212232820id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-	<!--10.244.6.85-->
+
+
+
+	<!--10.244.6.84-->
 	<!--AFF_ID: -->
 
 <title>Privacy Statement | Bayt.com</title>
@@ -14,9 +17,8 @@
 <meta http-equiv="content-style-type" content="text/css">
 <meta name="copyright" content="Copyright 2000-2010 Bayt.com, Inc.">
 <link rel="icon" href="http://img.b8cdn.com/images/templates/bayt/favicon.ico" type="image/x-icon">
-<link type="text/css" rel="stylesheet" href="http://css.b8cdn.com/css/main-bayt-11.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://css.b8cdn.com/css/print-2.css" media="print">
-<!--[if IE 6]><link type="text/css" rel="stylesheet" href="http://css.b8cdn.com/css/ie6-7.css"/><![endif]-->
+<link type="text/css" rel="stylesheet" href="http://css.b8cdn.com/css/main-bayt-35.css" media="all">
+<!--[if IE 6]><link type="text/css" rel="stylesheet" href="http://css.b8cdn.com/css/ie6-9.css"/><![endif]-->
 <!--[if IE 7]><link type="text/css" rel="stylesheet" href="http://css.b8cdn.com/css/ie7-5.css"/><![endif]-->
 <link rel="alternate" type="application/rss+xml" title="Bayt.com | Latest Jobs" href="/live-bookmarks/all-rss.xml">
 <link rel="alternate" type="application/rss+xml" title="Bayt.com | Jobs in Bahrain" href="/live-bookmarks/bh-rss.xml">
@@ -30,7 +32,7 @@
 <link rel="alternate" type="application/rss+xml" title="Bayt.com | Jobs in Saudi Arabia" href="/live-bookmarks/sa-rss.xml">
 <link rel="alternate" type="application/rss+xml" title="Bayt.com | Jobs in UAE" href="/live-bookmarks/ae-rss.xml">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://js.b8cdn.com/scripts/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="http://js.b8cdn.com/scripts/main-0001.js"></script>
+<script type="text/javascript" src="http://js.b8cdn.com/scripts/main-0012.js"></script>
 
 				<!--[if IE 6]>
 				<script type="text/javascript" src="http://js.b8cdn.com/scripts/DD_belatedPNG_0.0.8a-min.js"></script>
@@ -46,7 +48,7 @@
 	
 
 
-
+<style type="text/css">#process-flow{float:left;width:100%;padding:15px 0;margin-bottom:15px;background:#EEE;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}#process-flow li{position:relative;text-align:center;}#process-flow .process-icon{display:block;margin:0 auto 10px;width:86px;height:64px;background:url(http://img.b8cdn.com/images/ecommerce/process-icons.gif) repeat-x;}#process-flow .process-count{display:block;position:absolute;top:0;left:10px;width:24px;height:24px;background:url(http://img.b8cdn.com/images/icons/numlist.png) no-repeat;}#ar #process-flow .process-count{left:auto;right:10px;}#process-flow .list1{background-position:0 0;}#process-flow .list2{background-position:0 -50px;}#process-flow .list3{background-position:0 -100px;}#process-flow .list4{background-position:0 -150px;}</style>
 
 <!--base target="_top" /-->
 
@@ -70,7 +72,7 @@
 </head>
 
 <body dir="ltr" id="en" class="privacy-statement" onload="popup()">
-
+<div id="fb-root"></div>
 
 	<div id="globalMW" class="hide">
 <h3 id="globalMWTitle"></h3>
@@ -83,7 +85,6 @@
 <button id="globalMWCancel" type="button" class="aux">Cancel</button>
 <span id="globalMWLonginInfo"></span>
 </p>
-<br class="clear">
 </form>
 </div>
 
@@ -131,7 +132,12 @@ loginURL = "/en/login/?forward=privacy-statement";
 			},
 			function(data, status){
 				show_hide_loading(true);
-				(data == "") ? window.location = current_url:window.location = data;
+				// IF THE PAGE CONTAIN MULTI FRAME RELOAD THE PAGE ITSELF
+				if (window.top==window.self) {
+					(data == "") ? window.location = current_url:window.location = data;
+				} else {
+					(data == "") ? parent.window.top.location = current_url:parent.window.top.location = data;
+				}
 			},
 			function () {
 				$("input[name=email_]").val(user_name);
@@ -153,6 +159,9 @@ loginURL = "/en/login/?forward=privacy-statement";
 		</span></a></li> 
 		<li id="ch-classifieds"><a href="http://classifieds.bayt.com" class="" style="background-position:0 -72px;"><span>
 		Buy &amp; Sell 
+		</span></a></li> 
+		<li id="ch-communties"><a href="http://www.bayt.com/en/communities-home/" class="" style="background-position:0 -120px;"><span>
+		Communities <span class="channel-new"></span>
 		</span></a></li></ul>
 	<br class="clear">
 	</div></div>
@@ -162,12 +171,12 @@ loginURL = "/en/login/?forward=privacy-statement";
 <div id="frame" class="pngfix">
 
 
-	<div id="topbar-wrapper"><div id="topbar" class="pngfix">
+	<div id="topbar-wrapper"><div id="topbar">
 
 
-	<div id="localebox" class="hide"><div>
-	<ul>
-	
+		<div id="localebox" class="hide"><div>
+		<ul>
+		
 			<li><a href="/en/bahrain/" style="background-image:url(http://img.b8cdn.com/images/flags/fl-bh.gif);"><strong>Jobs in Bahrain</strong></a></li>
 		
 
@@ -197,13 +206,14 @@ loginURL = "/en/login/?forward=privacy-statement";
 
 			<li><a href="/en/uae/" style="background-image:url(http://img.b8cdn.com/images/flags/fl-ae.gif);"><strong>Jobs in UAE</strong></a></li>
 		
-	</ul>
-	</div></div>
+		</ul>
+		</div></div>
 	
-	<p class="r">
-	<a id="localelink" href="javascript:;"><img src="http://img.b8cdn.com/images/flags/fl-xx.gif" alt="Jobs in Other" title="Jobs in Other" width="26" height="17"></a>
-	</p>
+		<p class="r">
+		<a id="localelink" href="javascript:;"><img src="http://img.b8cdn.com/images/flags/fl-xx.gif" alt="Jobs in Other" title="Jobs in Other" width="26" height="17"></a>
+		</p>
 	
+
 	<p class="r">
 	<b>
 		<a href="/ar/privacy-statement/" class="rtl">عربي</a>
@@ -239,24 +249,108 @@ loginURL = "/en/login/?forward=privacy-statement";
 	</script>
 
 
-	<p class="login l"><b>Welcome Guest:</b> &nbsp; <a href="/en/login/" onclick="loginPopupModal();return false;" accesskey="l" rel="nofollow">Log In</a> &nbsp; <a href="/en/register-j/">Registration</a> &nbsp; <a href="http://help.bayt.com/en/">Help</a></p>
-	<br class="clear">
-	
-	<hr>
-	</div></div>
+		<script type="text/javascript">
+			var reg  = new RegExp("(..)(?=(/.*/))","g");
+			$("#localebox a").live("click",function(){
+				var iso  = $(this).attr("style").match(/(..)(?=(.gif))/g);
+				var lang = $(this).attr("href").match(reg)[0];
+				(!lang)?lang="en":null;
+				setPrefsCookie(lang,iso);
+			});
+			
+			$("a.ltr,a.rtl").click(function() {
+				var iso  = $("a#localelink img").attr("src").match(/(..)(?=(.gif))/g);
+				var lang = $(this).attr("href").match(reg)[0];
+				(!lang)?lang="en":null;
+				setPrefsCookie(lang,iso);
+			});
+			//HANDLING QUICK_SEARCH_JB_LOC COOKIE
+			$(document).ready(function(){setQuickSearchCookie($("select[name=jb_loc_list]").val())});
+			
+			function getCountryDropdownList() {
+				var country_iso = ("jobs" == "classifieds") ? $.cookie("classifieds-prefs").split(",")[0] : $.cookie("user-prefs").split(" ")[1];
+				$("#localelink img").attr("src","http://img.b8cdn.com/images/flags/fl-"+country_iso+".gif");
+				
+				// DRAWING THE DROP DOWN COUNTRY LIST USING JAVASCRIPT
+				var allCountryIsoArr = "bh eg jo kw lb ma om qa sa ae xx".split(" "),
+				allCountryUrlArr = "/en/bahrain/ /en/egypt/ /en/jordan/ /en/kuwait/ /en/lebanon/ /en/morocco/ /en/oman/ /en/qatar/ /en/saudi-arabia/ /en/uae/ /".split(" "),
+				allCountryLinkTitleArr = "{Jobs in Bahrain} {Jobs in Egypt} {Jobs in Jordan} {Jobs in Kuwait} {Jobs in Lebanon} {Jobs in Morocco} {Jobs in Oman} {Jobs in Qatar} {Jobs in Saudi Arabia} {Jobs in UAE} {Jobs in International}".split("} {"),
+				currentCountryIndex = $.inArray(country_iso,allCountryIsoArr),
+				countryIsoArr = new Array(), countryUrlArr = new Array(),countryLinkTitleArr = new Array(), countryListHtml = new Array();  
+				
+				$.each(allCountryIsoArr, function(index,value) {
+					if (index != currentCountryIndex) {
+						countryIsoArr.push(allCountryIsoArr[index]);
+						countryUrlArr.push(allCountryUrlArr[index]);
+						countryLinkTitleArr.push(allCountryLinkTitleArr[index].replace(/{|}/g,""));
+						countryListHtml.push("<li><a href="+allCountryUrlArr[index]+" style='background-image:url(http://img.b8cdn.com/images/flags/fl-"+allCountryIsoArr[index]+".gif);'><strong>"+allCountryLinkTitleArr[index].replace(/{|}/g,'')+"</strong></a></li>");
+					}
+				});
+				
+				countryListHtml = "<div><ul>"+countryListHtml.join("")+"</ul></div>";
+				$("#localebox").html(countryListHtml);
+			}
+			getCountryDropdownList();
+		</script>
 
+
+			<p id="login_bar" class="login l">
+				<span id="login_loading" class="hide">Loading...</span>
+				<span id="login_info"></span>
+				
+				<script type="text/javascript">
+					isLogged = -1,token=0;
+					
+					function remLoginModal() {
+						if ($("#nav").length) {
+							$("li[class^=tab] a").attr("onclick","");
+						} else {
+							setTimeout(remLoginModal(),300);
+						}
+					}
+					function getTopBar(){
+						$("#login_loading").show();
+						$.baytMW("/app/control/byt_general_manager.tcl",
+						{
+							action:"5",
+							page_role: "shared",
+							page_channel: "jobs",
+							guest_txt: "Guest",
+							welcome_txt: "Welcome",
+							login_txt: "Log In",
+							logout_txt: "Log Out",
+							registration_txt: "Registration",
+							help_txt: "Help"
+						},
+						function(data){
+							json_obj = eval(data);
+							var jsonObj = json_obj[0];
+							var login_html = jsonObj.data;
+							isLogged = jsonObj.is_logged;
+							token = jsonObj.token;
+							(isLogged == 1)?remLoginModal():null;
+							$("#login_info").html(login_html);
+							$("#login_loading").hide();
+						});
+					}
+					getTopBar();
+				</script>
+			</p>
+			<br class="clear">
+			</div></div>
+	
 
 
 
 	<div id="masthead-wrapper"><div id="masthead" class="pngfix">
-	
+
 	<h2 id="logo"><a href="/"><img src="http://img.b8cdn.com/images/templates/bayt/3.1/bayt-logo-en.png" alt="Find, search, post jobs on Bayt.com - the Middle East's #1 job site" title="Find, search, post jobs on Bayt.com - the Middle East's #1 job site" width="228" height="90" class="pngfix"></a></h2>
+
 	
 	
-	
-	
+
 	</div></div>
-	
+
 	<hr>
 
 
@@ -264,7 +358,52 @@ loginURL = "/en/login/?forward=privacy-statement";
 <p class="hide">Menu - [<a href="#jump">Jump to main content</a>]</p>
 
 <div id="nav-wrapper">
-<ul id="nav"><li id="nav-on" class="tab1 on"><a href="/"><span><span>Home</span></span></a><div class="sub-nav"></div></li><li class="tab2 off"><a href="/en/myworkspace-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My Workspace</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/myworkspace-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My Workspace</span></span></a></li><li class="off"><a href="/en/myletters-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Cover Letters</span></span></a></li><li class="off"><a href="/en/interviewing-pending-invitations-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Interviews</span></span></a></li><li class="off"><a href="/en/account-js/?token=0" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My Account</span></span></a></li></ul></li><li class="tab3 off"><a href="/en/international/job-search/"><span><span>Find Jobs</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/international/job-search/"><span><span>Find Jobs</span></span></a></li><li class="off"><a href="/en/job-search-advanced/"><span><span>Advanced Search</span></span></a></li><li class="off"><a href="/en/jobs/companies/"><span><span>By Company</span></span></a></li><li class="off"><a href="/en/jobs/sectors/"><span><span>By Sector</span></span></a></li><li class="off"><a href="/en/jobs/countries/"><span><span>By Location</span></span></a></li><li class="off"><a href="/en/mysearches-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Saved Searches</span></span></a></li><li class="off"><a href="/en/myjobs/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Saved Jobs</span></span></a></li><li class="off"><a href="/en/security-message/"><span><span>Security Message</span></span></a></li></ul></li><li class="tab4 off"><a href="/en/post-your-cv/"><span><span>Post Your CV</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/post-your-cv/"><span><span>Post Your CV</span></span></a></li><li class="off"><a href="/en/mycvs/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My CVs</span></span></a></li><li class="off"><a href="/en/cv-writing-tips/"><span><span>CV Writing Tips</span></span></a></li></ul></li><li class="tab5 off"><a href="/en/career-resources/"><span><span>Career Resources</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/career-articles-and-guides/"><span><span>Career Articles and Guides</span></span></a></li><li class="off"><a href="/en/career-services/"><span><span>Career Services</span></span></a></li><li class="off"><a href="/en/research-reports/"><span><span>Research Reports</span></span></a></li><li class="off"><a href="/en/learn-home/"><span><span>Education Center</span></span></a></li><li class="off"><a href="/en/self-assessment/"><span><span>Self Assessment</span></span></a></li><li class="off"><a href="/en/psychometric-evaluation/"><span><span><img src="http://img.b8cdn.com/images/icons/icon-new-b-en.png" class="pngfix" style="float:left;margin:3px 3px 0 0;" alt="">Psychometric Evaluation</span></span></a></li><li class="off"><a href="http://www.bayt.com/barrier/adclick.adp?ad_id=46105&amp;url_target_link=http://company.bayt.com/rkc/" target="_blank"><span><span>Robert Kennedy College</span></span></a></li></ul></li><li class="opptab off"><a href="/en/home-emp/"><span><span>Employers Click Here</span></span></a></li></ul><script type="text/javascript">function showMenu(){$("#nav .off:has(ul)").mouseover(function(){$(this).removeClass("off").addClass("hover");});}function hideMenu(){$("#nav .off:has(ul)").mouseout(function(){$(this).removeClass("hover").addClass("off");});}</script><!--[if IE 6]><script type="text/javascript">function showMenu(){}function hideMenu(){}</script><![endif]--><script type="text/javascript">showMenu();hideMenu();</script>
+
+							<script type="text/javascript">
+
+								function addNavTab(data) {
+									if ($("#nav").length) {
+										$(".tab3 li:eq(7)").after(data);
+									} else {
+										setTimeout(addNavTab(data),300);
+									}
+								}
+
+								function getDynamicNavTab() {
+											$("#span_sample_loading").show();
+											$.bayt("/app/control/byt_general_manager.tcl",
+											{
+												action            : "7",
+												page_subnavtab_on : "home",
+												text              : "title internal jobs",
+												body              : "internal-posts"
+											},
+											function(data)
+											{
+												if (!isWhitespace(data)) {
+													addNavTab(data);
+													$("#span_sample_loading").hide();
+												}
+											});
+								}
+							getDynamicNavTab();
+							</script>
+
+				<script type="text/javascript">
+					function getMyAccountUrl() {
+						if (token == 0) {
+							$.baytMW("/app/control/byt_general_manager.tcl",
+											{action:"8"},
+											function(data) {
+												$(location).attr("href","/en/account-js/?token="+data);
+											});
+						} else {
+							$(location).attr("href","/en/account-js/?token="+token);
+						}
+					}
+				</script>
+	
+<ul id="nav"><li id="nav-on" class="tab1 on"><a href="/"><span><span>Home</span></span></a><div class="sub-nav"></div></li><li class="tab2 off"><a href="/en/myworkspace-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My Workspace</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/myworkspace-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My Workspace</span></span></a></li><li class="off"><a href="/en/myletters-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Cover Letters</span></span></a></li><li class="off"><a href="/en/interviewing-pending-invitations-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Interviews</span></span></a></li><li class="off"><a href="javascript:getMyAccountUrl()" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My Account</span></span></a></li></ul></li><li class="tab3 off"><a href="/en/international/job-search/"><span><span>Find Jobs</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/international/job-search/"><span><span>Find Jobs</span></span></a></li><li class="off"><a href="/en/job-search-advanced/"><span><span>Advanced Search</span></span></a></li><li class="off"><a href="/en/international/jobs/roles/"><span><span>By Job Role</span></span></a></li><li class="off"><a href="/en/jobs/companies/"><span><span>By Company</span></span></a></li><li class="off"><a href="/en/jobs/sectors/"><span><span>By Sector</span></span></a></li><li class="off"><a href="/en/jobs/locations/"><span><span>By Location</span></span></a></li><li class="off"><a href="/en/mysearches-j/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Saved Searches</span></span></a></li><li class="off"><a href="/en/myjobs/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>Saved Jobs</span></span></a></li><li class="off"><a href="/en/security-message/"><span><span>Security Message</span></span></a></li></ul></li><li class="tab4 off"><a href="/en/post-your-cv/"><span><span>Post Your CV</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/post-your-cv/"><span><span>Post Your CV</span></span></a></li><li class="off"><a href="/en/mycvs/" onclick="loginPopupModal(this.href);return false;" rel="nofollow"><span><span>My CVs</span></span></a></li><li class="off"><a href="/en/cv-writing-tips/"><span><span>CV Writing Tips</span></span></a></li><li class="off"><a href="/en/sample-video-cvs/"><span><span>Sample Video CVs</span></span></a></li></ul></li><li class="tab5 off"><a href="/en/career-services/"><span><span>Career Services</span></span></a><ul class="sub-nav"><li class="off"><a href="/en/cv-writing/"><span><span>CV Writing</span></span></a></li><li class="off"><a href="/en/cv-evaluation/"><span><span>CV Evaluation</span></span></a></li><li class="off"><a href="/en/application-highlight/"><span><span>Application Highlight</span></span></a></li><li class="off"><a href="/en/psychometric-evaluation/"><span><span>Psychometric Evaluation</span></span></a></li><li class="off"><a href="/en/career-articles-and-guides/"><span><span>Career Articles and Guides</span></span></a></li><li class="off"><a href="/en/research-reports/"><span><span>Research Reports</span></span></a></li><li class="off"><a href="/en/learn-home/"><span><span>Training Resources</span></span></a></li><li class="off"><a href="http://www.bayt.com/barrier/adclick.adp?ad_id=46105&amp;url_target_link=http://company.bayt.com/rkc/" target="_blank"><span><span>Robert Kennedy College</span></span></a></li></ul></li><li class="tab6 off"><a href="/en/salaries-add-intro/"><span><span><img src="http://img.b8cdn.com/images/icons/icon-updated-en.gif" class="pngfix" style="position:absolute;margin-top:-3px;top:0;" alt="">Post Salary / Review</span></span></a></li><li class="opptab off"><a href="/en/home-emp/"><span><span>Employers Click Here</span></span></a></li></ul><script type="text/javascript">function showMenu(){$("#nav .off:has(ul)").mouseover(function(){$(this).removeClass("off").addClass("hover");});}function hideMenu(){$("#nav .off:has(ul)").mouseout(function(){$(this).removeClass("hover").addClass("off");});}</script><!--[if IE 6]><script type="text/javascript">function showMenu(){}function hideMenu(){}</script><![endif]--><script type="text/javascript">showMenu();hideMenu();</script>
 
 </div>
 
@@ -273,14 +412,13 @@ loginURL = "/en/login/?forward=privacy-statement";
 <div id="content-frame-wrapper"><div id="content-frame">
 
 
-
 <div id="content">
 
 <a name="jump"></a>
 
 
 
-<p id="trail"><a href="/en/home/">Home</a> › <span>Privacy Statement</span></p>
+<p id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/en/home/" itemprop="url"><span itemprop="title">Home</span></a> › Privacy Statement</p>
 
 
 <h1>Privacy Statement</h1>
@@ -334,26 +472,36 @@ loginURL = "/en/login/?forward=privacy-statement";
 			ADVERTISEMENT
 			<div style="width:300px;height:250px;">
 			
-	<!--banner-300x250-->
-	<script type="text/javascript">
-	/*<![CDATA[*/
-	document.write('<script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=1;dcopt=ist;sz=300x250;ord=1276392404?"></scr' + 'ipt>');
-	/*]]>*/
-	</script><script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=1;dcopt=ist;sz=300x250;ord=1276392404?"></script>
-	
-	<noscript>
-	<a href="http://ad.ae.doubleclick.net/jump/Bayt/g_privacy_statement;lang=en;tile=1;sz=300x250;ord=1276392404?" target="_blank"><img src="http://ad.ae.doubleclick.net/ad/Bayt/g_privacy_statement;lang=en;tile=1;sz=300x250;ord=1276392404?" border="0" alt="" /></a>
-	</noscript>
+       	<!--banner-300x250-->
+       	<script type="text/javascript">
+       	/*<![CDATA[*/
+       	document.write('<script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=1;dcopt=ist;sz=300x250;ord=1292198130?"></scr' + 'ipt>');
+       	/*]]>*/
+       	</script><script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=1;dcopt=ist;sz=300x250;ord=1292198130?"></script>
+
+       	<noscript>
+       	<a href="http://ad.ae.doubleclick.net/jump/Bayt/g_privacy_statement;lang=en;tile=1;sz=300x250;ord=1292198130?" target="_blank">
+		<img src="http://ad.ae.doubleclick.net/ad/Bayt/g_privacy_statement;lang=en;tile=1;sz=300x250;ord=1292198130?" border="0" alt="" />
+		</a>
+      	</noscript>
 			</div>
 			</div>
 		
 
 		<div class="blockmod">
 		<h2 class="blockmod-title"><span><span>Videos</span></span></h2>
+		<div class="blockmod-content">
 		
-		<div class="blockmod-content c">
-		<p><a href="/en/video/?id=2"><img src="http://img.b8cdn.com/images/about/videos/video-intro-sidebar-new.gif" alt="How Bayt.com Works for You!" width="286" height="161"></a></p>
-		<p style="font-size:1.1em;margin:0;"><a href="/en/video/?id=2">How Bayt.com Works for You!</a></p>
+			<script type="text/javascript">
+				//<![CDATA[
+				function baytVideoModal() {
+					baytModal.setModal('How Bayt.com Works for You!','<object type="application/x-shockwave-flash" data="http://img.b8cdn.com/images/help/videos/videos-en-2.swf" width="640" height="360"> <param name="movie" value="http://img.b8cdn.com/images/help/videos/videos-en-2.swf" /> <param name="allowScriptAccess" value="always" /> <param name="wmode" value="opaque" /></object> <p class="c" style="font-size:12px;margin:0;padding-top:8px"> <a href="/en/video/?id=2" name="Related Videos" title="Related Videos&nbsp;-&nbsp;How Bayt.com Works for You!">Related Videos</a></p>', true, closeModal(),''); 
+					$("#globalMWButtons").hide();
+					$("#modalpopup").css("width","640px");
+				}
+				//]]>
+			</script>
+		<h3 style="margin:0;"><a href="/en/video/?id=2" onclick="baytVideoModal();return false;" style="display:block;padding:10px;width:266px;height:140px;color:#FFF;line-height:150%;text-align:left;text-decoration:none;background:#0058A8 url(http://img.b8cdn.com/images/video-intro-sidebar-new.gif) no-repeat center bottom;cursor:hand;">How Bayt.com Works for You!</a></h3><p class="c" style="font-size:1.1em;margin:0;padding-top:5px;"><a href="/en/video/?id=2">Related Videos</a></p>
 		</div>
 		</div>
 	
@@ -364,10 +512,10 @@ loginURL = "/en/login/?forward=privacy-statement";
 		GS_googleAddAdSenseService("ca-pub-8260961493595141");
 		GS_googleEnableAllServices();
 		</script>
-		
+
 		<script type="text/javascript">
 		GA_googleAddSlot('ca-pub-8260961493595141','300x100');
-		
+
 		GA_googleFetchAds();
 		GA_googleAddAttr('lang','en');GA_googleAddAttr('page_role','shared');GA_googleAddAttr('zone','g_privacy_statement');
 		</script>
@@ -390,27 +538,27 @@ loginURL = "/en/login/?forward=privacy-statement";
 		<form name="poll" action="/app/control/byt_general_manager" method="post" id="poll">		
 		<input type="hidden" name="action" value="4">
 		<input type="hidden" name="poll_action" value="1">
-		<input type="hidden" name="poll_id" value="15999">
-		<p><b>Are salary structures transparent in your organization?</b></p>
+		<input type="hidden" name="poll_id" value="18050">
+		<p><b>How “Transparent” are communication channels in your company?</b></p>
 		
 		<table>
 	
 
 			<tbody><tr>
-			<td style="padding-right:5px;"><input type="radio" name="choice_id" value="16356" class="radio"></td>
-			<td>Yes, very</td>
+			<td style="padding-right:5px;"><input type="radio" name="choice_id" value="18409" class="radio"></td>
+			<td>Very- we’re always kept informed and updated</td>
 			</tr>
 		
 
 			<tr>
-			<td style="padding-right:5px;"><input type="radio" name="choice_id" value="16357" class="radio"></td>
-			<td>Yes, somewhat</td>
+			<td style="padding-right:5px;"><input type="radio" name="choice_id" value="18410" class="radio"></td>
+			<td>Quite transparent – we are notified of things that are directly related to us as employees</td>
 			</tr>
 		
 
 			<tr>
-			<td style="padding-right:5px;"><input type="radio" name="choice_id" value="16358" class="radio"></td>
-			<td>Not Sure</td>
+			<td style="padding-right:5px;"><input type="radio" name="choice_id" value="18411" class="radio"></td>
+			<td>Not Transparent – we never hear of any corporate happenings/ developments</td>
 			</tr>
 		
 
@@ -419,7 +567,7 @@ loginURL = "/en/login/?forward=privacy-statement";
 		<p style="text-align:center">
 		<button type="submit">Vote</button>
 		&nbsp;
-		<a href="/en/poll-results/?poll_id=15999">Results</a>
+		<a href="/en/poll-results/?poll_id=18050">Results</a>
 		&nbsp;
 		<a href="/en/poll-history/">View Past Polls</a>
 		</p>
@@ -437,14 +585,14 @@ loginURL = "/en/login/?forward=privacy-statement";
 
 
 							<div id="footer-wrapper"><div id="footer" class="pngfix">
-							
+
 							<div id="footer-linkbar">
+
 							
-							
-							
+
 							<div class="clear col-13 l">
 							<h2><a href="/en/about-us/">About Us</a></h2>
-							
+
 							<ul class="pt">
 							<li><a href="/en/about-us/">About Us</a></li>
 							<li><a href="/en/contact-details/">Contact Us</a></li>
@@ -456,10 +604,10 @@ loginURL = "/en/login/?forward=privacy-statement";
 							<li><a href="/en/site-map/">Site Map</a></li>
 							</ul>
 							</div>
-							
+
 							<div class="col-13-mid l">
 							<h2><a href="/en/site-map/">Quick Links</a></h2>
-							
+
 							<ul class="pt">
 							<li><a href="/en/salaries/">Salaries</a></li>
 							<li><a href="/en/career-services/">Career Services</a></li>
@@ -470,36 +618,36 @@ loginURL = "/en/login/?forward=privacy-statement";
 							<li><a href="/en/charity/">Community Service</a></li>
 							</ul>
 							</div>
-							
+
 							<div class="col-13 r">
 							<h2>&nbsp;</h2>
-							
+
 							<ul class="pt">
-							<li style="background-image:url(http://img.b8cdn.com/images/icons/mobile_phone.png)"><a href="/en/mobile-intro/">Mobile Bayt.com</a></li>
+							<li style="background-image:url(http://img.b8cdn.com/images/icons/mobile_phone.png)"><a href="/en/mobile-intro/">Mobile</a></li>
 							<li style="background-image:url(http://img.b8cdn.com/images/icons/social_media/bayt_16.png)"><a href="http://blog.bayt.com" target="_blank" rel="nofollow">Bayt.com Blog</a></li>
 							<li style="background-image:url(http://img.b8cdn.com/images/icons/social_media/rss_16.png)"><a href="/en/rss/">RSS</a></li>
-							<li style="background-image:url(http://img.b8cdn.com/images/icons/social_media/twitter_16.png)"><a href="http://www.twitter.com/baytjobs" target="_blank" rel="nofollow">Follow us on Twitter</a></li>
-							<li style="background-image:url(http://img.b8cdn.com/images/icons/social_media/facebook_16.png)"><a href="http://www.facebook.com/pages/Baytcom/106506036095?ref=ts" target="_blank" rel="nofollow">Become a fan on Facebook</a></li>
+							<li style="background-image:url(http://img.b8cdn.com/images/icons/blt-twitter.png)"><a href="http://www.twitter.com/baytjobs" target="_blank" rel="nofollow">Follow us on Twitter</a></li>
+							<li style="background-image:url(http://img.b8cdn.com/images/icons/blt-facebook.gif)"><a href="http://www.facebook.com/pages/Baytcom/106506036095?ref=ts" target="_blank" rel="nofollow">Become a fan on Facebook</a></li>
 							<li style="background-image:url(http://img.b8cdn.com/images/icons/social_media/youtube_16.png)"><a href="http://www.youtube.com/bayttv" target="_blank" rel="nofollow">BaytTV</a></li>
 							</ul>
 							</div>
-							
+
 							<br class="clear">
 							</div>
-							
+
 							<div id="footer-copyrightbar">
 							<img src="http://img.b8cdn.com/images/templates/bayt/3.1/bayt-logo-micro.png" id="footer-logo" class="pngfix" alt="Bayt.com" width="73" height="12">
-							
+
 							<p>
 							<b dir="ltr" class="ltr">© 2010 Bayt.com, Inc.</b> All Rights Reserved. Reproduction of material from any Bayt.com pages without written permission is strictly prohibited.
 							<br>
 							<a href="/en/terms/">Terms of Use</a>
-							- <a href="/en/privacy-statement/">Privacy Statement</a> 
+							- <a href="/en/privacy-statement/">Privacy Statement</a>
 							- Member of <a href="/en/the-network/">The Network</a>
 							</p>
-							
+
 							</div>
-							
+
 							</div></div>
 						
 
@@ -507,16 +655,18 @@ loginURL = "/en/login/?forward=privacy-statement";
 		<div class="banner">
 		<div id="masthead-banner-728x90">
 		
-	<!--banner-728x90-->
-	<script type="text/javascript">
-	/*<![CDATA[*/
-	document.write('<script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1276392404?"></scr' + 'ipt>');
-	/*]]>*/
-	</script><script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1276392404?"></script>
-	
-	<noscript>
-	<a href="http://ad.ae.doubleclick.net/jump/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1276392404?" target="_blank"><img src="http://ad.ae.doubleclick.net/ad/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1276392404?" border="0" alt="" /></a>
-	</noscript>
+       	<!--banner-728x90-->
+       	<script type="text/javascript">
+       	/*<![CDATA[*/
+       	document.write('<script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1292198130?"></scr' + 'ipt>');
+       	/*]]>*/
+       	</script><script type="text/javascript" src="http://ad.ae.doubleclick.net/adj/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1292198130?"></script>
+
+       	<noscript>
+       	<a href="http://ad.ae.doubleclick.net/jump/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1292198130?" target="_blank">
+		<img src="http://ad.ae.doubleclick.net/ad/Bayt/g_privacy_statement;lang=en;tile=2;sz=728x90;ord=1292198130?" border="0" alt="" />
+		</a>
+      	</noscript>
 		</div>
 		</div>
 	
@@ -529,12 +679,15 @@ loginURL = "/en/login/?forward=privacy-statement";
 		 <script type="text/javascript">
 		 document.write(unescape('%3Cscript%20type%3D%22text/javascript%22%20language%3D%22JavaScript%22%20src%3D%22'));
 		 document.write((location.protocol.indexOf('https')>-1?'https:':'http:')
-		 +unescape('//me.effectivemeasure.net/em.js%22%3E%3C/script%3E'));
-		</script><script type="text/javascript" language="JavaScript" src="https://me.effectivemeasure.net/em.js"></script>
+		 +unescape('//me-cdn.effectivemeasure.net/em.js%22%3E%3C/script%3E'));
+		</script><script type="text/javascript" language="JavaScript" src="https://me-cdn.effectivemeasure.net/em.js"></script>
 		<noscript>
-		<img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute;left:-5px;" />
+		<img src="//me-cdn.effectivemeasure.net/em_image" alt="" style="position:absolute;left:-5px;" />
 		</noscript>
 	
+
+
+
 
 
 
