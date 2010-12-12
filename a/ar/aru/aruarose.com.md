@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513075206id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212043633id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
-# ROSE Online .::. Rush On Seven Episodes .::. Free To Play MMORPG!
+# ROSE Online (Rush On Seven Episodes) - Free To Play MMORPG
 
 Upon registering with AruaROSE, you are required to provide us with your First name, Last Name, Age, and personal Email Address. This information will be used to personalise your experience through the services we provide and we may send you regular personalised emails informing players of Events, News, Updates or other subjects to our choosing. 
 
