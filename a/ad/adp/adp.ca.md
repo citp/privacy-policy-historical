@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.ca privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123120012id_/http%3A//adp.ca/en-ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.ca privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212181905id_/http%3A//www.adp.ca/en-ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP Canada
 
