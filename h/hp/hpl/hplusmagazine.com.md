@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032719id_/http%3A//www.hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212133039id_/http%3A//www.hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | h+ Magazine
 
@@ -24,19 +24,10 @@ _h+ Magazine_ takes your privacy seriously. Please read the following informatio
 * * *
 
 **Contact Information**   
-We invite you to contact us if you have questions about this privacy policy. 
-
-Our Internet address is located at [http://www.hplusmagazine.com](http://www.hplusmagazine.com/)
-
-**_h+ Magazine_   
-385 Vista Roma Way, #115   
-San Jose 95136   
-CA USA **
+We invite you to [contact us](http://www.hplusmagazine.com/contact-us) if you have questions about this privacy policy. 
 
 You may contact us by e-mail at [info@hplusmagazine.com](mailto:info@hplusmagazine.com)   
-You may contact us by phone on 407-222-8349 
-
-
+You may contact us by phone at 407-222-8349 
 
 
 * * *
