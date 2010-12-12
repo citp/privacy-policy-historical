@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626055334id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml%3Fcm_re%3DFooter-_-Footer-_-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212202007id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257Cukhtml%257CPrivacyState%2Chtml/walk.html.%257Cukhtml%257CCor_uk_MyAcct%2Chtml%3Fcm_re%3DFooter-_-Legal-_-PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,7 +16,19 @@ Credit card transactions are subject to routine searches from time to time. QVC 
 
 When you order from QVC, you can pay by cheque if you wish. Cheque payments to QVC are processed using Transax, a payment clearance system that operates without the need for a cheque guarantee card. Your order is released and delivered to you when payment has cleared.
 
-From time to time, we may write or telephone in order to update your account, or to give you information that we hope might interest you or gather feedback in order to help us improve customer service. If you don't want us to get in touch, simply tell a Customer Care Representative, or contact us at [**webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7CCor_uk_PrivStat,html), to have your name removed from our contact list.
+From time to time, we may write or telephone in order to update your account, or to give you information that we hope might interest you or gather feedback in order to help us improve customer service. If you don't want us to get in touch, simply tell a Customer Care Representative, or contact us at [**webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7Cukhtml%7CCor_uk_MyAcct,html), to have your name removed from our contact list.
+
+If false or inaccurate information is provided and fraud is detected, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:
+
+  * Checking details on applications for credit and credit related or other facilities
+  * Managing credit and credit related accounts or facilities
+  * Recovering debt
+  * Checking details on proposals and claims for all types of insurance
+  * Checking details of job applicants and employees
+
+
+
+We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. If you would like to receive details of the relevant fraud prevention agencies, please contact a Customer Care Representative, or contact us at [**webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7Cukhtml%7CCor_uk_MyAcct,html).
 
 go to top
 
@@ -40,7 +52,7 @@ go to top
 
 ## What steps are taken to keep my personal information private?
 
-The information you submit to QVCUK.com is sent to us or the third party service provider(s) we use to support QVCUK.com through a 'secure session' established with Secure Socket Layer (SSL). This technology encrypts (scrambles) your account information before it is sent, making it virtually impossible for anyone other than QVCUK.com to read it. Because our service provider(s) may be based overseas, your personal information may be transferred to, and stored at, a destination outside the European Economic Area (EEA). All information stored outside the EEA is protected by our [Safe Harbour Privacy Statement](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7Csafe_harbour_policy,html/walk.html.%7CCor_uk_PrivStat,html). It may also be processed by staff operating outside the EEA. By submitting your personal information, you agree to this transfer, storing and/or processing. We protect all customer data against unauthorised access and take all steps reasonably necessary to ensure our service providers do likewise. We and they use secure technology, privacy protection controls and restrictions on employee access to safeguard your personal information.
+The information you submit to QVCUK.com is sent to us or the third party service provider(s) we use to support QVCUK.com through a 'secure session' established with Secure Socket Layer (SSL). This technology encrypts (scrambles) your account information before it is sent, making it virtually impossible for anyone other than QVCUK.com to read it. Because our service provider(s) may be based overseas, your personal information may be transferred to, and stored at, a destination outside the European Economic Area (EEA). All information stored outside the EEA is protected by our [Safe Harbour Privacy Statement](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7Csafe_harbour_policy,html/walk.html.%7Cukhtml%7CCor_uk_MyAcct,html). It may also be processed by staff operating outside the EEA. By submitting your personal information, you agree to this transfer, storing and/or processing. We protect all customer data against unauthorised access and take all steps reasonably necessary to ensure our service providers do likewise. We and they use secure technology, privacy protection controls and restrictions on employee access to safeguard your personal information.
 
 go to top
 
@@ -64,7 +76,7 @@ go to top
 
 ## How can I contact QVC?
 
-You can e-mail us at [ **webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7CCor_uk_PrivStat,html)  
+You can e-mail us at [ **webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7Cukhtml%7CCor_uk_MyAcct,html)  
 Freephone **0800 51 41 31**
 
   * QVC UK Main Headquarters
