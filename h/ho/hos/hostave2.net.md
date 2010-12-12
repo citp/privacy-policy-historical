@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostave2.net privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105022751id_/http%3A//hqpornsites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostave2.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212133124id_/http%3A//hqpornsites.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
