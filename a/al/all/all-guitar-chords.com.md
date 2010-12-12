@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-guitar-chords.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402103826id_/http%3A//all-guitar-chords.com/guitar_chords_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-guitar-chords.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212123329id_/http%3A//www.all-guitar-chords.com/guitar_chords_privacy.php) for the most accurate reproduction.*
 
 # Privacy statement
 
