@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611062756id_/http%3A//adpdealerservices.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212084032id_/http%3A//adpdealerservices.com/Home/Company/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ADP Dealer Services
 
 ADP believes that privacy is important to the success and use of the Internet. This statement sets forth ADP's Privacy Statement for DealerSuite.com and describes the practices that ADP will follow with respect to the privacy of users of this site. From time to time, we may change this Privacy Statement. For example, as we update and improve our service, new features may require modifications to the Privacy Statement. Accordingly, please check back periodically. 
 
