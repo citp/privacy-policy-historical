@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614073302id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212223142id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Booth
 
@@ -21,25 +21,27 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 This web site contains links to other sites. Please be aware that UXBooth.com is not responsible for the privacy practices, or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-[](http://www.extjs.com/signup/extjs.php?ref=uxb)
+[](http://www.uxalliance.com/uxbooth)
+
+[](http://plainframe.com/)
 
 [](http://www.loop11.com/)
 
-[](http://www.hotgloo.com/?utm_source=uxbooth&utm_medium=banner&utm_campaign=banner052010)
+[](http://2011.uxlondon.com/)
 
 ### Latest Resources
 
-  * #### [Process: Early user research, simulation and evaluation](http://www.uxbooth.com/resources/process-early-user-research-simulation-and-evaluation/)
+  * #### [Simple user interfaces: the snow plow principle](http://completeusability.com/simple-user-interfaces-the-snowplow-principle/)
 
-“And if you don’t do this in an early stage, in a majority of the cases it simply is not possible to change it in a later stage. (…
+A key goal of user experience design is to keep things simple. Unfortunately websites and applications create problems for users by employing …
 
-  * #### [Use Shadowbox to show information without losing your customers attention](http://www.uxbooth.com/resources/use-shadowbox-to-show-information-without-losing-your-customers-attention/)
+  * #### [Persona Cheat Sheet](http://luxr.posterous.com/persona-cheat-sheet-0)
 
-I was reading an article by Erin Jo Richey over at uxbooth.com on cart abandonment and I wanted to implement some of the ideas into my magento…
+A great overview of how to build a persona by LUXi.
 
-  * #### [The Golden Rules of Usable Web Design](http://www.uxbooth.com/resources/the-golden-rules-of-usable-web-design/)
+  * #### [UX and Publishing](http://louisrosenfeld.com/home/bloug_archive/2010/12/ux_and_publishing.html)
 
-“The Golden Rules of Usable Web Design” by Theo Mandel, Ph.D. Presented in Denver, CO on May 19, 2010.
+Yesterday I had the pleasure of attending my first unconference—Book Camp NY. Even though I've been a publisher for a few years now, this wa…
 
 
 
