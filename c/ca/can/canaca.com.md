@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canaca.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411075012id_/http%3A//www.canaca.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canaca.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212183935id_/http%3A//www.canaca.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Canaca.com Privacy Policy
 
@@ -28,7 +28,7 @@ Canaca gathers two types of information about users:
 
 * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys or to order any service: 
 
-* Information Canaca gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. Under no circumstances does Canaca divulge any information about an individual user to a third party except to it's sister company Canaca-com Inc. . 
+* Information Canaca gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. Under no circumstances does Canaca divulge any information about an individual user to a third party except to it's sister company Acanac Inc. . 
 
 Canaca-com Inc. Gathers User Information In The Following Processes: 
 
