@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apollolife.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507214432id_/http%3A//www.apollolife.com/LinkClick.aspx%3Flink%3D231%26tabid%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollolife.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212062111id_/http%3A//www.apollolife.com/LinkClick.aspx%3Flink%3D231%26tabid%3D39) for the most accurate reproduction.*
 
-# Privacy Statement
+# Apollolife - Wellness for complete Health - Privacy Statement
 
 Apollolife is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Apollolife Web site and governs data collection and usage. By using the Apollolife website, you consent to the data practices described in this statement.
 
