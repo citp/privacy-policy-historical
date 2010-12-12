@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828014054id_/http%3A//www.jamesonwhiskey.com/Overlay_AgeVarPrivacy.aspx%3Fsource%3DTITLE%26TB_iframe%3Dtrue%26height%3D500%26width%3D600%26modal%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212200641id_/http%3A//www.jamesonwhiskey.com/footerNav/privacyGENERIC.aspx%2520%3Fsource%3DTITLE%26TB_iframe%3Dtrue%26height%3D500%26width%3D800%26modal%3Dtrue) for the most accurate reproduction.*
 
-# Jameson Irish Whiskey - Privacy statement
+# Jameson Irish Whiskey - Jameson Irish Whiskey
 
-YOU SHOULD NOT USE THIS WEBSITE IF YOU ARE NOT OF LEGAL DRINKING AGE IN YOUR COUNTY OF RESIDENCE OR IF YOU DO NOT ACCEPT THE TERMS OF THE [TERMS AND CONDITIONS](https://web.archive.org/web/20090828014054id_/http%3A//www.jamesonwhiskey.com/Overlay_AgeVarTC.aspx?source=TITLE&TB_iframe=true&height=500&width=600&modal=true) OR THIS PRIVACY STATEMENT. YOUR USE OF THIS WEBSITE SIGNIFIES YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT WHICH IS INCORPORATED INTO THE TERMS AND CONDITIONS.
+YOU SHOULD NOT USE THIS WEBSITE IF YOU ARE NOT OF LEGAL DRINKING AGE IN YOUR COUNTY OF RESIDENCE OR IF YOU DO NOT ACCEPT THE TERMS OF THE [TERMS AND CONDITIONS](https://web.archive.org/footerNav/terms_and_conditions.aspx?source=TITLE&TB_iframe=true&height=500&width=600&modal=true) OR THIS PRIVACY STATEMENT. YOUR USE OF THIS WEBSITE SIGNIFIES YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT WHICH IS INCORPORATED INTO THE TERMS AND CONDITIONS.
 
 This site is operated by Irish Distillers Limited ("IDL", "We", "Our" or "Us"), a private company registered in Ireland with company number 23732 and having its registered office at Simmonscourt House, Simmonscourt Road, Ballsbridge, Dublin 4, Ireland. Please contact Customer Services at 1850 774748 with any concerns you might have in relation to this site.
 
 ## General statement
 
-IDL is committed to ensuring your privacy as a customer. IDL does not sell or exchange names, or any other information about our online customers with third parties and that appropriate safeguards have been put in place to protect any personal information we may collect. IDL is not responsible for the content or privacy practices of other websites.
+IDL is committed to ensuring your privacy as a customer. IDL does not sell or exchange names, or any other information about our online customers with third parties and appropriate safeguards have been put in place to protect any personal information we may collect. IDL is not responsible for the content or privacy practices of other websites.
 
 ## Collection and use of personal information
 
 When you visit www.jamesonwhiskey.com we may collect and process the following information:
 
-  - details of your visits to the Site including, but not limited to, technical information about your visit (e.g. traffic data, location data, your IP address, the previous website from which you reached us and the type of browser you use);  
-  - your name and contact details, if you submit these to us;  
-  - details of any transactions you carry out through our Site [and the fulfilment of any orders]; and  
-  - information that you provide to us by submitting such information or filling in forms.  
+\- details of your visits to the Site including, but not limited to, technical information about your visit (e.g. traffic data, location data, your IP address, the previous website from which you reached us and the type of browser you use);  
+\- your name and contact details, if you submit these to us;  
+\- details of any transactions you carry out through our Site **[and the fulfilment of any orders];** and  
+\- information that you provide to us by, for example, filling in forms on our website; and if you contact us we may keep a record of that correspondence.
 
-
-If you contact us we may keep a record of that correspondence. This Site also uses cookies to remember your visits. You can disable cookies [with no loss of functionality] by following the appropriate instructions for your browser. We will only use information collected to improve your overall experience at www.jamesonwhiskey.com or to respond to a request [or order] received from you and do so on the basis of your consent to this Privacy Statement and the Terms and Conditions.
+This Site also uses cookies to remember your visits. You can disable cookies **[with no loss of functionality]** by following the appropriate instructions for your browser. We will only use information collected to improve your overall experience at www.jamesonwhiskey.com or to respond to a request **[or order]** received from you and do so on the basis of your consent to this Privacy Statement and the Terms and Conditions.
 
 In an effort to offer you the best - and most current - membership opportunities, we may contact you with news about IDL discounts, promotions and events. When you give us your details we will ask you if you would like to receive such information. Any information will only be sent to you when you have indicated consent to receiving such information.
 
@@ -36,7 +35,7 @@ When making such a request, please provide any personal identifiers which you ha
 
 ## Changes to this Privacy Statement
 
-This Privacy Statement policy may change as the website develops in order to take advantage of technological developments. We therefore encourage users to read the Terms and Conditions and to check this Privacy Statement on a regular basis.
+This Privacy Statement policy may change as the website develops in order to take advantage of technological developments. We therefore encourage users to read the Terms and Conditions and to check this Privacy Statement on a regular basis.
 
 ## Glossary
 
