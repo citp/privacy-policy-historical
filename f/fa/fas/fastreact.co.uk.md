@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422182923id_/http%3A//www.fastreact.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212010526id_/http%3A//www.fastreact.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Fastreact
+# Privacy Policy - FastReact
 
 This privacy policy sets out how “Fast React Systems Ltd” uses and protects any information that you give “Fast React Systems Ltd” when you use this website.
 
@@ -23,17 +23,17 @@ We may collect the following information:
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
   * We may use the information to customise the website according to your interests.
 
 
 
 **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **Controlling your personal information**
 
@@ -54,6 +54,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ## Latest News
 
-Fashion and textile industry planning specialists Fast React Systems offer unparalleled visibility and control throughout the supply chain. Numerous new key features within the FastReact planning software will be on display at the show. Come and see for yourselves! [More…](http://www.fastreact.co.uk/news-item/see-fastreact-at-imb-2009-in-cologne-21st-24th-april-hall-8-stand-d-020/104)
+Lever Style produce casual and fully constructed woven garments for the world's top brands including Armani, Calvin Klein, Cerruti 1881, Hugo Boss, Paul Smith, Ralph Lauren and Reiss. Production capacity is over 10 million pieces per year. FastReact has been integrated with the ERP system in place at Lever Style and has allowed them to reduce lead times, improve production efficiency and significantly reduce late shipment and air freight charges. [More...](http://www.fastreact.com/news-item/lever-style-reduce-lead-times-improve-production-efficiency-and-improve-otdp/168)
 
-[](http://www.fastreact.co.uk/includes/news_rss.xml) | What is RSS? 
+[](http://www.fastreact.com/includes/news_rss.xml) | What is RSS? 
