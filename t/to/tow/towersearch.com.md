@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towersearch.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605070032id_/http%3A//www.towersearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towersearch.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212052518id_/http%3A//towersearch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
