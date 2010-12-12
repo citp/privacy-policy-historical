@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberrysync.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213546id_/http%3A//blackberrysync.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberrysync.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212201448id_/http%3A//blackberrysync.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlackBerrySync.com - BlackBerry News and Reviews
 
