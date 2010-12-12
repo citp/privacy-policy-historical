@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429090048id_/http%3A//www.inmatrix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213003645id_/http%3A//www.inmatrix.com/privacy.shtml) for the most accurate reproduction.*
 
 # Zoom Player - Contact Us
 
