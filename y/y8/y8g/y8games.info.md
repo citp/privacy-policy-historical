@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y8games.info privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328063340id_/http%3A//www.y8games.info/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8games.info privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212012249id_/http%3A//www.y8games.info/page/1.html) for the most accurate reproduction.*
 
 # Y8 Games - Privacy Policy - Y8Games
 
