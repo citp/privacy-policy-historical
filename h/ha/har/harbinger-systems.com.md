@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harbinger-systems.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529232956id_/http%3A//www.harbinger-systems.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harbinger-systems.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212224558id_/http%3A//www.harbinger-systems.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Web 2.0 and e-Learning jobs in a software development company in Pune, India
 
