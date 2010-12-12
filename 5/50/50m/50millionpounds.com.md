@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50millionpounds.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208180618id_/http%3A//www.50millionpounds.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50millionpounds.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212182931id_/http%3A//50millionpounds.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
