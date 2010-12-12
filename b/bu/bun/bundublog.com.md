@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bundublog.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602232903id_/http%3A//bundublog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundublog.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212224211id_/http%3A//bundublog.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | bundublog.com
+# Privacy Policy | bundublog.com - Free Blog
 
 **Privacy Policy, Bundublog.com**
 
@@ -47,7 +47,7 @@ All personal information will only be retained for as long as it is necessary to
 
 **11\. Accurate and Up To Date**
 
-Bundublog.com will use its best endeavours to keep the personal information it collects as accurate, complete and up to date as is necessary for the purposes mentioned in clause 9 above, and Bundublog.com shall, from time to time, request the Customer to update its personal information on the website. You are able to review or update any personally identifiable information that we hold on you by accessing your account via Wordpress Dashboard or by e-mailing us or phoning us. Please note that in order to better protect you and safeguard your personal information, we do take steps to verify your identity before granting you access to your account or making any corrections to your personal information.
+Bundublog.com will use its best endeavours to keep the personal information it collects as accurate, complete and up to date as is necessary for the purposes mentioned in clause 9 above, and Bundublog.com shall, from time to time, request the Customer to update its personal information on the website. You are able to review or update any personally identifiable information that we hold on you by accessing your account via WordPress Dashboard or by e-mailing us or phoning us. Please note that in order to better protect you and safeguard your personal information, we do take steps to verify your identity before granting you access to your account or making any corrections to your personal information.
 
 **12\. Security**
 
