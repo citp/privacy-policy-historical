@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amity.edu privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611000220id_/http%3A//www.amity.edu/Admission/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amity.edu privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212085726id_/http%3A//amity.edu/Admission/privacy_policy.asp) for the most accurate reproduction.*
 
 # Amity University
 
