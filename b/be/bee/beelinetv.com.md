@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218222431id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212061553id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
 
 # Beeline Software Express Privacy Policy
 
@@ -32,4 +32,4 @@ Personal information collected from customers or from subscribers to free servic
 
 Beeline Software Express works with other companies to provide products and services to you, and thus may provide some personal information to these companies. For example, a shipping company may receive your address information so that they can deliver the ordered products. Beeline Software Express requires that these companies safeguard your personal information in accordance with Beeline Software Express's own privacy policies. 
 
-The Beeline Software Express privacy policy is subject to change at any time. You are encouraged to review this page regularly for any changes. Last updated november 5, 2008 Beeline Software Express, All Rights Reserved. 
+The Beeline Software Express privacy policy is subject to change at any time. You are encouraged to review this page regularly for any changes. Last updated january 9, 2010 Beeline Software Express, All Rights Reserved. 
