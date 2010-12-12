@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223235534id_/http%3A//www.bugsplatsoftware.com/browse/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212223126id_/http%3A//bugsplatsoftware.com/browse/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,9 +44,4 @@ Changes to this Privacy Policy
 BugSplat may update this policy. We will notify you about significant changes in the way we treat confidential information by sending a notice to the email address specified in your BugSplat account or by placing a prominent notice on our site. 
 
 Questions and Suggestions  
-If you have questions or suggestions, please contact us by email at [BugSplat](mailto:support@bugsplatsoftware.com) or at:   
-BugSplat LLC  
-Privacy Policy Issues  
-104 Deer Run  
-Henniker, NH 03242  
-
+If you have questions or suggestions, please contact us by email at [ support@bugsplatsoftware.com ](mailto:support@bugsplatsoftware.com)
