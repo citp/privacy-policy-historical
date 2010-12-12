@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626060829id_/http%3A//www.astrolife.com/aboutus/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212071223id_/http%3A//www.astrolife.com/aboutus/privacy_policy.php) for the most accurate reproduction.*
 
 # Astrolife : Privacy Policy
 
