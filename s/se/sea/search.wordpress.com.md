@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.wordpress.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429194846id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.wordpress.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212173221id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Automattic
 
@@ -13,9 +13,9 @@ Your privacy is critically important to us. At Automattic we have a few fundamen
 
 
 
-Below is our privacy policy which incorporates these goals:
+Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
-[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+If you have questions about accessing or correcting your personal data please contact our [support team](http://support.wordpress.com/).
 
 Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/), [intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -23,11 +23,11 @@ Automattic Inc. (“ **Automattic** ”) operates several websites including [au
 
 Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Automattic does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [wordpress.com](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [WordPress.com](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -45,6 +45,18 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
 
+### Comments
+
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a wordpress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**Change log:**
+
+July 1, 2010: Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
+
+October 29, 2009: Added Comments paragraph to explain Akismet comment storage policy
+
+March 10, 2009: Added Ads paragraph to alert users that ads from third parties may use cookies
