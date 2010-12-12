@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620165915id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212194258id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
 
 # WOMMA's Privacy Policy
 
@@ -63,7 +63,7 @@ All WOMMA materials are copyrighted and permission to reprint them must be reque
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20100620165915id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
+Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20101212194258id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
 
 |    
   | 
@@ -74,16 +74,19 @@ Anyone wishing to reprint WOMMA materials should [download the permission reques
   
 |  |  |   
 ---|---|---  
-  |  |    
   |  | 
 
-[](http://womma.org/events/category/wine-wednesday/)  
+[ ](http://www.blurb.com/bookstore/detail/1705210/?utm_source=badge&utm_medium=banner&utm_content=280x160)
+
+WOMMA Awards Book 
+
+By Edited by David Ra... 
+
+[ ](http://www.blurb.com/?utm_source=badge&utm_medium=banner&utm_content=280x160 "Photo book")
+
+Looking for in-depth background of the best WOM case studies of 2010? Word of Mouth Works is a great resource for any brand marketer. Order your copy today!  
   
 ---  
-  
-On June 30, CA residents have two WOMMA Wine Wednesdays headed towards them. The San Francisco event will cover "Social + Mobile," and the Los Angeles event will cover "Adapating Marketing Strategies for Location-Based Technology." The best part? They're free of charge to members and nommembers alike.  
-[_Learn more here and register today!_](http://womma.org/events/category/wine-wednesday/)  
-  
    
 |  |   
 |  |   
