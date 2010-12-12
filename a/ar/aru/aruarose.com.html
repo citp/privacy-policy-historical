@@ -1,37 +1,51 @@
-<!--The following is the downloaded HTML source of the aruarose.com privacy policy that was archived on 2010-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513075206id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aruarose.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212043633id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://www.w3.org/2005/10/profile">
-    <title>ROSE Online .::. Rush On Seven Episodes .::. Free To Play MMORPG!</title>
+    <title>ROSE Online (Rush On Seven Episodes) - Free To Play MMORPG</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="description" content="Looking for a Free to Play MMORPG or a Free ROSE Online server? Look no further! Join the largest ROSE Online (Rush On Seven Episodes) International server for free and compete against thousands of other players!">
     <meta name="keywords" content="AruaROSE, ROSE, ROSE Online, RPG, Role Playing, MMORPG, MMOG, Online Game, Anime, Free To Play">
 	<link rel="Shortcut Icon" href="http://www.AruaROSE.com/includes/icon.ico">
 	
+		
 	<!-- jQuery -->
 	<script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.facebox.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.cookie.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.tipTip.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jquery.cluetip.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.popupWindow.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.SWF.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/popup.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/login.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/menu.js"></script>
 	
 	<style type="text/css">
-		@import url(http://www.AruaROSE.com/includes/milkbox.css);
-		@import url(http://www.AruaROSE.com/includes/facybox.css);
-		@import url(http://www.AruaROSE.com/includes/tooltips.css);
-		@import url(http://www.AruaROSE.com/includes/tipTip.css);
-		@import url(http://www.AruaROSE.com/includes/style.css);
-		@import url(http://www.AruaROSE.com/includes/menu.css);
+		@import url(http://www.AruaROSE.com/includes/milkbox.css?8236);
+		@import url(http://www.AruaROSE.com/includes/facebox.css?8236);
+		@import url(http://www.AruaROSE.com/includes/tooltips.css?8236);
+		@import url(http://www.AruaROSE.com/includes/tipTip.css?8236);
+		@import url(http://www.AruaROSE.com/includes/style.css?8236);
+		@import url(http://www.AruaROSE.com/includes/navigation.css?8236);
+		@import url(http://www.AruaROSE.com/includes/menu.css?8236);
 	</style>
+	
+	<!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="http://www.AruaROSE.com/includes/navigation_ie.css" media="screen" />
+    <![endif]-->
 <script type="text/javascript">
 $(function() {
 	/* Tooltips */
 	$(".input").tipTip();
 	
-	/* Facybox */
-	$('a[rel*=facybox]').facybox() 
+	$(".itemHover").cluetip({
+		showTitle: false
+	});
+	
+	/* Facebox */
+	$('a[rel*=facebox]').facebox();
+	$('a[rel*=facybox]').facebox() 
 	
 	/* XML Parasing */
 	$.ajax({
@@ -56,6 +70,7 @@ $(function() {
 				colour[0]		= "<img src=\"http://www.AruaROSE.com/images/red.gif\" alt=\"\" border=\"0\" /></img>";
 				colour[1]		= "<img src=\"http://www.AruaROSE.com/images/green.gif\" alt=\"\" border=\"0\" /></img>";
 				$('#server_status_'+name).html(colour[status]);
+				//$('#server_status_'+name).html(colour[1]);
 			});
 			
 					}
@@ -104,12 +119,37 @@ $(function() {
 		element.rel = "stylesheet";
 		element.href = url;
 	}
-
+	
 	/* Navigation */
-	$("#newNavigation li").filter(":has(ul)").hover(function() {
-		$(this).children("ul").slideDown(200); 
-	}, function() {
-		$(this).children("ul").slideUp(200);
+	var config = {    
+         sensitivity: 	3, 			// number = sensitivity threshold (must be 1 or higher)    
+         interval: 		200,  		// number = milliseconds for onMouseOver polling interval    
+         over: 			doOpen,   	// function = onMouseOver callback (REQUIRED)    
+         timeout: 		200,   		// number = milliseconds delay before onMouseOut    
+         out: 			doClose    	// function = onMouseOut callback (REQUIRED)    
+    };
+    
+    function doOpen() {
+        $(this).addClass("hover");
+        $('ul:first',this).css('visibility', 'visible');
+    }
+ 
+    function doClose() {
+        $(this).removeClass("hover");
+        $('ul:first',this).css('visibility', 'hidden');
+    }
+
+    /*
+	$("ul.dropdown li").hoverIntent(config);
+    
+    $("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");
+	*/
+	
+	$("#header").flash({
+		swf: 	'http://www.aruarose.com/images/site/headers/snow.swf',
+		width:	850,
+		height:	175,
+		wmode: 	'transparent',
 	});
 });
 </script></head>
@@ -121,12 +161,15 @@ $(function() {
 <center>
 <div id="main">
 	<div id="header">
-		<img src="http://www.AruaROSE.com/images/site/headers/normal.png" width="850px" height="175px" alt="AruaROSE Header" border="0">
+		<!--<img src="http://www.AruaROSE.com/images/site/headers/normal.png" width="850px" height="175px" alt="AruaROSE Header" border="0" />-->		
 	</div>
 	
+	<div id="navigationContainer">
+	
+	<ul class="navigation">
+	<!--<ul id="navigation">-->
+	
 		
-	<div id="newNavigation">
-		<ul>
 		<li><a href="http://www.AruaROSE.com/index.php?act=home">Home</a></li>
 		<li><a href="http://www.AruaROSE.com/index.php?act=register">Register</a></li>
 		<li><a href="http://www.AruaROSE.com/index.php?act=downloads">Downloads</a></li>
@@ -135,11 +178,17 @@ $(function() {
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=account">My Account</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=characters">My Character</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=clan">My Clan</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=history">My History</a></li>
+				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=coupons">My Coupons</a></li>
+				<li><a href="#">My History</a>
+					<ul class="sub_menu">
+						<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=history">Account History</a></li>
+						<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=history&amp;type=apquests">AruaPoint Quests</a></li>
+					</ul>
+				</li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=lottery">My Lottery</a></li>
+				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=purchases">My Purchases</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=signatures">My Signatures</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=storage">My Storage</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=tickets">My Ticket Info.</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=mall">Point Mall</a></li>
 			</ul>
 		</li>
@@ -165,8 +214,14 @@ $(function() {
 				<li><a href="http://aruarose.wikia.com/wiki/Maps">Maps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 				<li><a href="http://aruarose.wikia.com/wiki/Monsters">Monsters</a></li>
 				<li><a href="http://aruarose.wikia.com/wiki/NPC">NPCs</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=playerrankings">Player Rankings</a></li>
+				<li><a href="#">Player Rankings</a>
+					<ul class="sub_menu">
+						<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=gamerscore">GamerScore</a></li>
+						<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=playerrankings">Level</a></li>
+					</ul>
+				</li>
 				<li><a href="http://aruarose.wikia.com/wiki/Storyline">Storyline</a></li>
+				<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=trailer">Trailer</a></li>
 				<li><a href="http://aruarose.wikia.com/wiki/AruaROSE">Wiki</a></li>
 			</ul>
 		</li>
@@ -186,9 +241,11 @@ $(function() {
 		</li>
 		<li><a href="http://aruarose.wikia.com/wiki/AruaROSE">Wiki</a></li>
 		<li><a href="http://www.AruaROSE.com/index.php?act=donate">Donate</a></li>
-	</ul>
-		</div>
+	
 		
+	</ul>
+	</div>
+	
 	<div id="middle">
 		<div id="middle_left">
 			<div id="login">
@@ -253,9 +310,9 @@ $(function() {
 				<div id="leftbox_content">
 				<ul>
 					<li><div id="leftbox_content_type">Login</div><div id="leftbox_content_info"><span id="server_status_Login"></span></div></li>
-					<li><div id="leftbox_content_type">Classic</div><div id="leftbox_content_info"><span id="server_status_Classic"></span></div></li>
-					<li><div id="leftbox_content_type">Destiny</div><div id="leftbox_content_info"><span id="server_status_Destiny"></span></div></li>
-					<li><div id="leftbox_content_type">Hebarn</div><div id="leftbox_content_info"><span id="server_status_Hebarn"></span></div></li>
+					<li><div id="leftbox_content_type">Character</div><div id="leftbox_content_info"><span id="server_status_Character"></span></div></li>
+					<li><div id="leftbox_content_type">Channel 1</div><div id="leftbox_content_info"><span id="server_status_Channel1"></span></div></li>
+					<li><div id="leftbox_content_type">Channel 2</div><div id="leftbox_content_info"><span id="server_status_Channel2"></span></div></li>
 				</ul>
 				<div style="font-size:10px; width:100%; text-align:center;"><a href="http://www.AruaROSE.com/index.php?act=gameinfo&amp;code=serverstatus" title="View All">View All</a></div>
 				</div>
@@ -409,7 +466,7 @@ By the continued use of services provided by us, you are accepting practices set
 	
 	</div>
 	<div id="footer">
-		Local AruaROSE Time: Thursday, 13 May 02:52 (GMT-0500) | <a href="/index.php?act=privacy" title="Privacy Policy">Privacy Policy</a> | <select><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/junon.css">Junon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/luna.css">Luna</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/eldeon.css">Eldeon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/oro.css">Oro</option></select>
+		Local AruaROSE Time: Saturday, 11 December 10:36 (GMT-0600) | <a href="/index.php?act=privacy" title="Privacy Policy">Privacy Policy</a> | <select><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/junon.css">Junon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/luna.css">Luna</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/eldeon.css">Eldeon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/oro.css">Oro</option></select>
 
 	</div>
 </div>
@@ -429,6 +486,17 @@ var pageTracker = _gat._getTracker("UA-11782482-3");
 pageTracker._setDomainName(".aruarose.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+<!-- Facebook -->
+<!-- Paste this code just above the closing </body> of your conversion page. The tag will record a conversion every time this page is loaded. Optional 'sku' and 'value' fields are described in the Help Centre. -->
+<script src="//ah8.facebook.com/js/conversions/tracking.js"></script><script type="text/javascript">
+try {
+  FB.Insights.impression({
+     'id' : 6002582261298,
+     'h' : 'd295f751ab'
+  });
+} catch (e) {}
+</script>
 
 
 
