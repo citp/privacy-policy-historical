@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211948id_/http%3A//www.approva.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212031316id_/http%3A//approva.net/privacy) for the most accurate reproduction.*
 
 # Approva - Privacy Policy
 
@@ -37,8 +37,8 @@ Contact
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact us at: 
 
 Approva Corporation   
-1950 Roland Clarke Place   
-Suite 300   
-Reston, VA 20191 
+13454 Sunrise Valley Drive   
+Suite 500   
+Herndon, VA 20171 
 
 Tel: 703-956-8300 
