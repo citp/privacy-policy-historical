@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickmanager.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308095946id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickmanager.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212063459id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.*
 
 # PickManager.com - 2009 Fantasy Football - Play All You Want, Win All You Can
 
