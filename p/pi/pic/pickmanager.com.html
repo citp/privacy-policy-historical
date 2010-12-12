@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the pickmanager.com privacy policy that was archived on 2010-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100308095946id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pickmanager.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212063459id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
         <title>PickManager.com - 2009 Fantasy Football - Play All You Want, Win All You Can</title>
         
         <link rel="icon" type="image/png" href="/pickmgr_icon.png">
 
+        
         <link rel="stylesheet" type="text/css" href="http://cdn.dellsports.com/pickmanager/styles/general.css" media="screen">
         <link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/jquery.tabs.css" type="text/css" media="print, projection, screen">
         <!--[if lte IE 7]>
         <link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/jquery.tabs-ie.css" type="text/css" media="projection, screen">
         <![endif]-->
 				
-				<link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/assets/menus/menus.css" type="text/css" media="print, projection, screen">
+		<link rel="stylesheet" href="http://cdn.dellsports.com/pickmanager/styles/assets/menus/menus.css" type="text/css" media="print, projection, screen">
 
         
         <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/jquery.js"></script>
         <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/jquery.tabs.js"></script>
         <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/lib.js"></script>
-				<script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/dropdownmenu.js"></script>        <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/AC_RunActiveContent.js"></script>
+		<script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/dropdownmenu.js"></script>        <script type="text/javascript" src="http://cdn.dellsports.com/pickmanager/scripts/AC_RunActiveContent.js"></script>
         
         <meta name="keywords" content="">
         <meta name="description" content="">
@@ -218,7 +219,7 @@ font-weight:500;}</style>					<script type="text/javascript" src="http://cdn.del
 								if (params.memberid != "" && params.password != "") {
 									$.post("/www/login/",params,function(r){
 										if (r.success) {
-											window.location = "/www/index/";
+											window.location = r.redirect;
 										}
 										else {
 											f.find("div#poploginerror").html("Login attempt failed. Please try again.").show().fadeOut().fadeIn();
@@ -256,7 +257,10 @@ font-weight:500;}</style>					<script type="text/javascript" src="http://cdn.del
 							</div>
 						</div>
 						
-				    <table class="content_table" cellspacing="0" cellpadding="0">
+				        
+        <div id="PageHeader"></div>
+        
+            <table class="content_table" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td rowspan="2" class="left_menu_column">
 	<div class="leftmenu_container">
@@ -421,7 +425,7 @@ web site.</font></p>
 </div></td>
       </tr>
     </tbody></table>
-    </div>								<div style="clear:both;"></div>
+    </div><script type="text/javascript" src="http://stats.pickmanager.com/stats/stats.php?_=MA%3D%3D"></script>								<div style="clear:both;"></div>
               </div>
               <div class="footer">
                 <div class="footer_content">
@@ -456,7 +460,7 @@ var pageTracker = _gat._getTracker("UA-5988048-2");
 pageTracker._setDomainName(".pickmanager.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
+			
     
     
     </body></html>
