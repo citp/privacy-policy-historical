@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616152145id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the associatedbank.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212053108id_/http%3A//www.associatedbank.com/Security/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Associated Bank : Privacy</title>
@@ -233,7 +233,7 @@ $(document).ready(function() {
   $.ajax({
     type: "POST",
     url: "/PageProcessing/Services/WebService.asmx/Process",
-    data: "{'a':'050048052046050051054046050051053046050052053', 'b':''}",
+    data: "{'a':'050048055046050052049046050050056046049053050', 'b':'104116116112058047047097115115111099105097116101100098097110107046099111109047'}",
     contentType: "application/json; charset=utf-8",
     dataType: "json",
     success: function(result) {
@@ -323,13 +323,13 @@ function submitFrm(){
         <div id="MakeThisHomepage">
             <a href="#" onclick="SetAsHomePage();">Make this your associatedbank.com homepage</a>
         </div>
-        <div id="TopNav">
-            <a href="http://www.associatedbank.com/Contact/Default.asp?ac=&amp;sec=security">Contact Us</a>     
-            <a href="http://www.associatedbank.com/AboutUs/Default.asp?ac=">About Us</a>    
-            <a href="http://www.associatedbank.com/Careers/Default.asp?ac=">Careers</a>
-            <a href="http://www.associatedbank.com/AboutUs/Sitemap.asp?ac=">Sitemap</a>
-            <a href="http://www.associatedbank.com/Security/Default.asp?ac=" class="selected">Security</a>
-            <!-- <a href="/Account/Default.asp" >Your Account</a> -->
+        <div id="TopNav">            
+            <a href="http://www.associatedbank.com/Contact/Default.asp?sec=security">Contact Us</a>     
+            <a href="http://www.associatedbank.com/AboutUs/Default.asp">About Us</a>    
+            <a href="http://investor.associatedbank.com">Investor Relations</a>
+            <a href="http://careers.associatedbank.com/">Careers</a>
+            <a href="http://www.associatedbank.com/AboutUs/Sitemap.asp">Sitemap</a>
+            <a href="http://www.associatedbank.com/Security/Default.asp" class="selected">Security</a>
         </div>
         <img src="/images/pageElements/nav1RightBorder.gif" alt="" id="RightTopNavBorder">
     </div>
@@ -359,10 +359,10 @@ function submitFrm(){
     <div id="WhiteNav">
         <a href="http://www.associatedbank.com/default.asp"><img src="/images/pageElements/Logo.gif" id="LogoImg" alt="Associated Bank" border="0"></a>
         <div id="MainTabs" style="border: 0px solid red">
-            <a href="http://www.associatedbank.com/Personal/Default.asp?ac=" id="PersonalBankingTab"><img src="/images/spacer.gif" alt="Personal"></a>
-            <a href="http://www.associatedbank.com/SmallBusiness/Default.asp?ac=" id="SmallBusinessBankingTab"><img src="/images/spacer.gif" alt="Small Business"></a>
-            <a href="http://www.associatedbank.com/Commercial/Default.asp?ac=" id="CommercialBankingTab"><img src="/images/spacer.gif" alt="Commercial"></a>
-            <a href="http://www.associatedbank.com/WhyAssociated/Default.asp?ac=" id="WhyAssociatedTab"><img src="/images/spacer.gif" alt="Why Associated"></a>
+            <a href="http://www.associatedbank.com/Personal/Default.asp" id="PersonalBankingTab"><img src="/images/spacer.gif" alt="Personal"></a>
+            <a href="http://www.associatedbank.com/SmallBusiness/Default.asp" id="SmallBusinessBankingTab"><img src="/images/spacer.gif" alt="Small Business"></a>
+            <a href="http://www.associatedbank.com/Commercial/Default.asp" id="CommercialBankingTab"><img src="/images/spacer.gif" alt="Commercial"></a>
+            <a href="http://www.associatedbank.com/WhyAssociated/Default.asp" id="WhyAssociatedTab"><img src="/images/spacer.gif" alt="Why Associated"></a>
         </div>
     </div>
     
@@ -517,7 +517,7 @@ Back to Top <img src="/images/bltgreenarrow.gif" align="top" alt="Back to Top" b
 		            <select onchange="JavaScript:whereTo();" id="Select1" class="DropDown" name="account">
 			            <option value="https://www.associatedbank.com/includes/eAccess/Frameset/frameset.asp">Personal Accounts</option>
 			            <option value="http://www.associatedbank.com/SmallBusiness/OnlineBanking.asp">Business Accounts</option>
-		  	            <option value="https://www.associatedbank.com/includes/eAccess/Frameset/frameset.asp?ac=">Personal Credit Cards</option>
+		  	            <option value="https://www.associatedbank.com/includes/eAccess/Frameset/frameset.asp">Personal Credit Cards</option>
 					  	<option value="http://www.associatedbank.com/CreditCards/">Business Credit Cards</option>
 			            <option value="http://www.associatedbank.com/Security/CreditReport.asp">Credit Report</option>
 			            <option value="http://www.associatedbank.com/Personal/PersonalInvestingServices/RetirementCenter/PersonalTrustServices/RetirementSplash.asp">Retirement Plan</option>
@@ -634,6 +634,8 @@ case "PERSONAL" %>
         </div>
         
         <ul>
+        
+<!-- Entrust SSL cert needs to be diffrent in stagind and prodction  ***** DON"T MOVE THESE LINES TO PRODUCTION ***** -->
             <!--li id="Verisign"><a href="JavaScript:PopUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=1&dn=www.associatedbank.com&lang=en','540','450','','1','','1','')"><img src="/images/imgverisign.gif" alt="" width="53" height="21" border="0" /></a></li-->
             <li style="margin-left:50px" id="Verisign"><script language="javascript" src="https://seal.entrust.net/seal.js?domain=www.associatedbank.com&amp;img=16"></script>
             <a href="http://www.entrust.net">SSL</a>
@@ -642,7 +644,7 @@ case "PERSONAL" %>
 			
 					<li><img src="/images/imgeqlhous.gif" alt="Equal Housing Lender"></li>
 				
-            <li id="Copyright"><a href="/AboutUs/fdic.asp">Member FDIC</a> and Associated Banc-Corp © 2010 Associated Banc-Corp All Rights Reserved.</li>
+            <li id="Copyright"><a href="/AboutUs/fdic.asp">Member FDIC : Important FDIC Disclosures</a>&nbsp;&nbsp;&nbsp;&nbsp; © 2010 Associated Banc-Corp All Rights Reserved.</li>
         </ul>
     </div>
 </div> 
@@ -661,7 +663,6 @@ _uacct = "UA-1350782-1";
 _userv=2;
 urchinTracker();
 </script>
-    
 
 
 <script language="JavaScript" type="text/javascript">
@@ -699,9 +700,11 @@ goHere = what.options[what.selectedIndex].value
 //		document.appsStore.holder.value = document.apps.account.selectedIndex
 //		AlertAIS()
 //		window.open(goHere)
-    if (document.apps.account.selectedIndex == 3 ){
-  		document.appsStore.holder.value = document.apps.account.selectedIndex
-  		ElanLeavingAlert(goHere)
+
+//    if (document.apps.account.selectedIndex == 3 ){
+//  		document.appsStore.holder.value = document.apps.account.selectedIndex
+//  		ElanLeavingAlert(goHere)
+
 //  	}else if (document.apps.account.selectedIndex == 7 ){
 //  		document.appsStore.holder.value = document.apps.account.selectedIndex
 //  		LeavingAlert();
@@ -710,12 +713,12 @@ goHere = what.options[what.selectedIndex].value
 //		document.appsStore.holder.value = document.apps.account.selectedIndex
 //		LeavingAlert();
 //		PopUp(goHere,'','','1','','','','')
-	}else{
+//	}else{
 		document.appsStore.holder.value = document.apps.account.selectedIndex
 		//document.location.href = goHere
 		document.appsStore.action = goHere;
 		document.appsStore.submit();
-	}
+//	}
 //document.apps.reset();
 //what.selectedIndex = document.apps.account.selectedIndex
 }
@@ -725,4 +728,6 @@ if (whichOption){
 }
 
 // -->
-</script></body></html>
+</script>
+
+</body></html>
