@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the brighthouse.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223204id_/http%3A//www.brighthouse.com/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthouse.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212182021id_/http%3A//brighthouse.com/corporate/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bright House Networks Corporate
+# Privacy Policy
 
-  
+## Web Site Privacy Policy
 
-
-## Bright House Networks Privacy Policy
+### Bright House Networks Privacy Policy
 
 Last Revised: **January 11, 2007**
 
 **Kids and parents click here!**
 
-The following Privacy Policy summarizes the various ways that Bright House Networks (“Service Provider,” “we,” or “our”) treats the information you provide while using [www.mybrighthouse.com](http://www.mybrighthouse.com/) (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that Bright House Networks (“Service Provider,” “we,” or “our”) treats the information you provide while using [www.brighthouse.com](http://www.brighthouse.com/) (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [**http://www.mybrighthouse.com/privacy_policy/default.aspx**](http://www.mybrighthouse.com/privacy_policy/default.aspx) **. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected  
-elsewhere, including without limitation offline and on sites linked to from the Website.
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at <http://www.brighthouse.com/>. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/user_agreement/default.aspx). Your use of the Website constitutes agreement to its terms and conditions as well.
+In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/corporate/policies/user-agreement). Your use of the Website constitutes agreement to its terms and conditions as well.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -52,78 +50,12 @@ This Website is not intended for use by children, especially those under age 13.
 
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.  
-
+If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
 
 **V. PRIVACY POLICY COORDINATOR**
 
-If you have other concerns or questions about any aspect of this policy, you may also email our Privacy Policy Coordinator as follows:
+If you have other concerns or questions about any aspect of this policy, you may also email our Privacy Policy Coordinator as follows: 
 
-Central Florida
-
-**Privacy Policy Coordinator**  
-Bright House Networks Central Florida  
-Broadband Internet Services  
-65 S. Keller Road  
-Orlando, FL 32810  
-email: [cfl.webmaster@mybrighthouse.com](mailto:cfl.webmaster@mybrighthouse.com) 
-
-| 
-
-Tampa Bay
-
-**Privacy Policy Coordinator**  
-The Bright House Networks  
-Tampa Bay Website  
-700 Carillon Parkway, Suite 6  
-St. Petersburg, FL 33716  
-online: [Contact Us](http://tampabay.mybrighthouse.com/contact_us/default.aspx)
-
-| 
-
-The Birmingham Division*
-
-**Privacy Policy Coordinator**  
-Bright House Networks - Birmingham Division  
-Interactive Services  
-151 London Parkway  
-Birmingham, AL 35211  
-online: [Contact Us](http://birmingham.mybrighthouse.com/contact_us/default.aspx)  
-  
----|---|---  
-  
-Michigan
-
-**Privacy Policy Coordinator**  
-Bright House Networks  
-Privacy Policy Coordinator  
-Bright House Networks  
-14525 Farmington Road  
-Livonia, MI 48154  
-email: [michigan.webmaster@mybrighthouse.com](mailto:michigan.webmaster@mybrighthouse.com)
-
-| 
-
-Indiana
-
-**Privacy Policy Coordinator**  
-Bright House Networks Indiana  
-Broadband Internet Services  
-3030 Roosevelt Av  
-Indianapolis, IN 46218  
-email: [customersupport.indiana@mybrighthouse.com](mailto:customersupport.indiana@mybrighthouse.com)
-
-| 
-
-Bakersfield
-
-**Privacy Policy Coordinator**  
-Bright House Networks Bakersfield  
-Broadband Internet Services  
-3701 North Sillect Ave.  
-Bakersfield, CA 93308  
-email: [bakersfield.customercare@mybrighthouse.com](mailto:bakersfield.customercare@mybrighthouse.com)  
-  
 For General Inquires, please contact:
 
 **Privacy Policy Coordinator**  
@@ -131,6 +63,59 @@ Bright House Networks Central Florida
 Broadband Internet Services  
 65 S. Keller Road  
 Orlando, FL 32810  
-email: [cfl.webmaster@mybrighthouse.com](mailto:cfl.webmaster@mybrighthouse.com)  
-  
-*The Bright House Networks Birmingham Division includes the Birmingham, Elmore and Eufaula systems in Alabama and Cantonment and DeFuniak Springs systems in Florida.
+email: [cfl.webmaster@mybrighthouse.com](mailto:cfl.webmaster@mybrighthouse.com)
+
+#### Central Florida
+
+**Privacy Policy Coordinator**  
+Bright House Networks Central Florida  
+Broadband Internet Services  
+65 S. Keller Road  
+Orlando, FL 32810  
+email: [Contact Us](mailto:cfl.webmaster@mybrighthouse.com)
+
+#### Tampa Bay
+
+**Privacy Policy Coordinator**  
+The Bright House Networks  
+Tampa Bay Website  
+700 Carillon Parkway, Suite 6  
+St. Petersburg, FL 33716  
+online: [Contact Us](mailto:tampabay.customercare%40mybrighthouse.com)
+
+#### Birmingham
+
+**Privacy Policy Coordinator**  
+Bright House Networks - Birmingham Division  
+Interactive Services  
+151 London Parkway  
+Birmingham, AL 35211  
+online: [Contact Us](mailto:birmingham.customercare%40mybrighthouse.com)
+
+#### Michigan
+
+**Privacy Policy Coordinator**  
+Bright House Networks  
+Privacy Policy Coordinator  
+Bright House Networks  
+14525 Farmington Road  
+Livonia, MI 48154  
+email: [Contact Us](mailto:cfl.webmaster@mybrighthouse.com)
+
+#### Indiana
+
+**Privacy Policy Coordinator**  
+Bright House Networks Indiana  
+Broadband Internet Services  
+3030 Roosevelt Av  
+Indianapolis, IN 46218  
+email: [Contact Us](mailto:customersupport.indiana@mybrighthouse.com)
+
+#### Bakersfield
+
+**Privacy Policy Coordinator**  
+Bright House Networks Bakersfield  
+Broadband Internet Services  
+3701 North Sillect Ave.  
+Bakersfield, CA 93308  
+email: [Contact Us](mailto:bakersfield.customercare@mybrighthouse.com)
