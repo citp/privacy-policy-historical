@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seerpress.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530072304id_/http%3A//seerpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seerpress.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212083324id_/http%3A//seerpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seer Press
 
@@ -27,4 +27,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Seerpress.com then please don’t hesitate to [contact us](http://seerpress.com/contact-us/ "contact us").
+If you have any questions regarding the privacy policy of Seerpress.com then please don’t hesitate to contact us.
