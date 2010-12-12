@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004807id_/http%3A//www.bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212184032id_/http%3A//bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
 
 # Bremer Bank - Privacy Statement - Understanding your financial privacy rights
 
@@ -84,7 +84,7 @@ The information-sharing practices described above are in accordance with federal
 
 How to Limit Bremer Marketing Contacts
 
-You may request that Bremer not contact you via mail, phone, and/or email for promotional offers by contacting a Bremer office or calling the Bremer Phone Bank at 1-800-908-BANK and pressing 2 to speak with a Client Services Representative. If you make this request, you will still receive your statements (which may include promotional offers), account-related notices, or other information via mail.
+You may request that Bremer not contact you via mail, phone, and/or email for promotional offers by contacting a Bremer office or calling the Bremer Phone Bank at 1-800-908-BANK and pressing 2 to speak with a Bremer Representative. If you make this request, you will still receive your statements (which may include promotional offers), account-related notices, or other information via mail.
 
 Guard Your Financial Information
 
@@ -92,7 +92,7 @@ Guard Your Financial Information
   * Pay attention to your billing cycles. Follow up with creditors if bills do not arrive on time.
   * Provide your Social Security number only when absolutely necessary. Ask to use other types of identifiers when possible.
   * Carry only the identification information and credit cards you actually need.
-  * Call the Bremer Phone Bank at 1-800-908-BANK immediately if your identification, ATM card, Bremer Check Card, or Bremer credit card are lost or stolen. Call your other creditors and the credit bureaus to ask that a fraud alert be placed in your file.
+  * Call the Bremer Phone Bank at 1-800-908-BANK immediately if your identification, ATM card, Bremer debit card, or Bremer debit card are lost or stolen. Call your other creditors and the credit bureaus to ask that a fraud alert be placed in your file.
   * Order a copy of your credit report from the three credit reporting agencies every year ([Experian](http://www.experian.com/yourcredit/index.html), [Equifax](https://www.econsumer.equifax.com/consumer/landing.ehtml?%5estart=&orderSource=EHS&PP=P4), and [TransUnion](http://www.truecredit.com/index.jsp?bn=15&kw=1028)). Review the information to ensure it is accurate and includes only those activities you've authorized.
   * Keep items with personal information in a safe place. Shred or tear up these items when they are no longer needed.
   * Make sure charge receipts, copies of credit applications, insurance forms, bank checks and statements, expired credit cards, and credit offers you get in the mail are disposed of appropriately.
