@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akismet.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627090742id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akismet.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212173221id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Automattic
 
@@ -23,7 +23,7 @@ Automattic Inc. (“ **Automattic** ”) operates several websites including [au
 
 Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Automattic does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
@@ -54,6 +54,8 @@ Comments and other content submitted to our Akismet anti-spam service are not sa
 Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 **Change log:**
+
+July 1, 2010: Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
 
 October 29, 2009: Added Comments paragraph to explain Akismet comment storage policy
 
