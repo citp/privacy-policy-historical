@@ -1,34 +1,8 @@
-> *The following text is extracted and transformed from the cellphonedigest.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphonedigest.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212130711id_/http%3A//www.cellphonedigest.net/shop/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Cell Phone Digest
 
-[Check you order](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/checkyourordermain.htm)
-
-[Number Portability](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Number_Portability.htm)
-
-[Wireless Basics](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Wireless_Basics.htm)
-
-[Why buy online](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Why_buy_online.htm)
-
-_______________
-
-[Shipping](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Shipping.htm)
-
-[Site Security](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Site_Security.htm)
-
-**Privacy Policy**
-
-[About Us](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/About_Us.htm)
-
-[Contact Us](https://web.archive.org/web/20100611210030id_/http%3A//www.cellphonedigest.net/shop/Contact_Us.htm)
-
-_______________
-
-[ ](http://www.scanalert.com/RatingVerify?ref=www.cellstores.com)
-
-[ ](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.cellstores.COM&lang=en) 
-
-|    |    | 
+  | 
 
 ## Cell Phone Digest - cellstores Privacy Notice 2006
 
@@ -148,7 +122,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ## Contact Us
 
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at: Customer Relations. 
+If you have any questions regarding this statement, or would like more information on our privacy practices, please [contact us](http://www.cellphonedigest.net/Contact_Us_form.php). 
 
 ## Updates and Notification of Changes
 
