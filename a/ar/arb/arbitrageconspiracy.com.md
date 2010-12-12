@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the arbitrageconspiracy.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109045609id_/http%3A//arbitrageconspiracy.com/site/topic/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbitrageconspiracy.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212035325id_/http%3A//www.arbitrageconspiracy.com/site/topic/privacy-policy) for the most accurate reproduction.*
 
 # Arbitrage Conspiracy Unleashed : Privacy-policy
 
 **PRIVACY POLICY  
  **
 
-**ARBITRAGECONSPIRACY.COM AND MIDDLEMANSYSTEM.COM IS A VENTURE OWNED AND OPERATED BY SYNERGY ONLINE HOLDINGS LTD. IN THIS PRIVACY POLICY, THE WORDS "WE," "US," AND "OUR" REFER TO OUR COMPANY. THE WORDS "YOU," "YOUR," AND "YOURS" REFER TO YOU AND YOUR BUSINESS.**
+**ARBITRAGECONSPIRACY.COM AND MIDDLEMANSYSTEM.COM IS A VENTURE OWNED AND OPERATED BY GREAT ERA HOLDINGS LTD. IN THIS PRIVACY POLICY, THE WORDS "WE," "US," AND "OUR" REFER TO OUR COMPANY. THE WORDS "YOU," "YOUR," AND "YOURS" REFER TO YOU AND YOUR BUSINESS.**
 
- **1\. How We Protect Your Privacy.**
+**1\. How We Protect Your Privacy.**
 
 This privacy policy tells you how we collect, use, and protect your personal information at www.ArbitrageConspiracy.com and www.MiddlemanSystem.com . By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy. 
 
@@ -15,10 +15,11 @@ Our goal is clear and prominent disclosure.
 
 If you do not understand any part of this privacy policy, please ask us to explain it to you by sending an e-mail to service (at) ArbitrageConspiracy.com / MiddlemanSystem.com / MiddlemanSystem.com (replacing the "(at)" with the "@" symbol and removing the spaces) with your question and wait for an answer from us before using this Website. If you do not want to use e-mail, you may also mail your questions to us at:
 
-Synergy Online Holdings Ltd  
-1st Floor, 32 Wigmore Street  
-London, W1U 2RP  
-United Kingdom
+ArbitrageConspiracy.com / MiddlemanSystem.com  
+1177 Branham Lane  
+Suite 277  
+San Jose, CA 95118  
+USA
 
  **2\. Minors.**
 
@@ -40,6 +41,7 @@ Some transactions between you and our website may involve payment by credit card
 
 When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the internet about products and services you might like. This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google and its DoubleClick Dart cookie used to generate interest-based advertising, scroll to the bottom of the page to view the link. Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
+  
 **5\. What We Do With Your Information.**
 
  **WE USE YOUR INFORMATION TO OPERATE OUR WEBSITE'S BUSINESS ACTIVITIES. FOR EXAMPLE, WE MAY USE THIS DATA TO CONTACT YOU ABOUT CHANGES TO OUR WEBSITE, NEW SERVICES, OR SPECIAL OFFERS, RESOLVE DISPUTES, TROUBLESHOOT ISSUES, AND ENFORCE OUR WEBSITE'S TERMS AND CONDITIONS.
@@ -78,10 +80,9 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 ArbitrageConspiracy.com / MiddlemanSystem.com  
-c/o Synergy Online Holdings Ltd  
-1st Floor, 32 Wigmore Street  
-London, W1U 2RP  
-United Kingdom
+1177 Branham Lane Suite 277  
+San Jose, CA 95118  
+USA
 
  **12\. Changes in Our Business.**
 
@@ -91,14 +92,17 @@ If we sell or transfer this Website to a third party, we will take reasonable st
 
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to service (at) ArbitrageConspiracy.com / MiddlemanSystem.com (replacing the "(at)" with the "@" symbol and removing the spaces) or write us at the following address:
 
+  
 ArbitrageConspiracy.com / MiddlemanSystem.com  
-c/o Synergy Online Holdings Ltd  
-1st Floor, 32 Wigmore Street  
-London, W1U 2RP  
-United Kingdom
+1177 Branham Lane  
+Suite 277  
+San Jose, CA 95118  
+USA
 
 Please note that we are not based in California and only provide information requested as a courtesy to any California residents who are our customers. We do not consent to the jurisdiction of any federal, state, or local court within California. California law does not govern the rights between us. For more information about applicable law and the venue for dispute resolution, please read the website's terms of service by scrolling to the bottom of the page to view the link.
 
+  
 This policy was last updated on August 10, 2009.
 
-Copyright © 2009 Law Office of Michael E. Young PLLC, and licensed for use by Synergy Online Holdings Ltd. at ArbitrageConspiracy.com / MiddlemanSystem.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+  
+Copyright © 2009 Law Office of Michael E. Young PLLC, and licensed for use by Great Era Holdings Ltd. at ArbitrageConspiracy.com / MiddlemanSystem.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
