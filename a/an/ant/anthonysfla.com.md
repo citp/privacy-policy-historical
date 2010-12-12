@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423125717id_/http%3A//www.anthonysfla.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonysfla.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212032327id_/http%3A//anthonysfla.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Anthony's Ladies Apparel > Home
 
@@ -44,4 +44,4 @@ Anthony's Ladies Apparel will occasionally update this Statement of Privacy to r
 
 Contact Information
 
-Anthony's Ladies Apparel welcomes your comments regarding this Statement of Privacy. If you believe that Anthony's Ladies Apparel has not adhered to this Statement, please contact Anthony's Ladies Apparel at [tonya@activeinternet.com](mailto:tonya@activeinternet.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Anthony's Ladies Apparel welcomes your comments regarding this Statement of Privacy. If you believe that Anthony's Ladies Apparel has not adhered to this Statement, please contact Anthony's Ladies Apparel at [pope@anthonysfla.com](mailto:pope@anthonysfla.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
