@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookingbug.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202151656id_/http%3A//www.bookingbug.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbug.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212153835id_/http%3A//bookingbug.com/docs/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -109,9 +109,9 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(11) Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to privacy@bookingbug.com or by post to 
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us [here](https://web.archive.org/contact) or by post to 
 
-ReserveX Ltd  
+BookingBug Ltd  
 112 Omega Works  
 4 Roach Rd  
 London  
