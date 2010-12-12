@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612182139id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212230518id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
 
-# Catholic Online Privacy Statement - - Catholic Online
+# Catholic Online Privacy Statement - Catholic Online
 
 _Catholic Online, LLC takes your privacy seriously. Please read the following to learn more about our privacy policy._
 
