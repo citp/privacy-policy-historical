@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the monster.co.uk privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305184725id_/http%3A//my.monster.co.uk/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212022016id_/http%3A//my.monster.co.uk/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search thousands of jobs now | Monster.co.uk
 
 ## Information We Collect and Retain
 
-We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2) and [demographic](https://web.archive.org/privacy/fullstatement.aspx#3) information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. The resulting logs contain information necessary for analyzing the use of resources, troubleshooting problems, and improving services. We also use [cookies](https://web.archive.org/privacy/fullstatement.aspx#4) and [web beacons](https://web.archive.org/privacy/fullstatement.aspx#5).
+We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2) and [demographic](https://web.archive.org/privacy/fullstatement.aspx#3) information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs contain information necessary for analyzing the use of resources, troubleshooting problems, and improving services. We also use [cookies](https://web.archive.org/privacy/fullstatement.aspx#4) and [web beacons](https://web.archive.org/privacy/fullstatement.aspx#5).
 
 ## How Information is Used
 
 Information you post in public areas of the site or placed in the searchable CV database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorised parties will not gain access. We also cannot control how authorised users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to Monster.
 
-We use the information you provide us to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalised content and advertising. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
+We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalised content and advertising. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
 
 ## Disclosure of Information to Others
 
@@ -26,7 +26,9 @@ We may disclose and transfer information if our business is sold or acquired.
 
 ## Your Choices About Your Information
 
-You may review, correct, or delete your personal information at any time. Simply [log into your account](https://web.archive.org/Login.aspx), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems. 
+You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](https://web.archive.org/Login.aspx), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems. 
+
+Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage. 
 
 If you change your mind about receiving communications from Monster or other parties, you may change your preferences by [logging into your account](https://web.archive.org/Login.aspx). 
 
@@ -44,11 +46,12 @@ For more information on how to protect yourself online, click [here](https://web
 
 ## How to Contact Us
 
-You may contact us at [userservices@monster.co.uk](mailto:userservices@monster.co.uk) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 0800 169 5015, or write to us at: 
+You may [contact us](http://my.monster.co.uk/privacy/EmailForm.aspx) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 0800 169 5015, or write to us at: 
 
 Privacy Office  
 Monster Worldwide, Inc.  
-Chancery House, Chancery Lane  
-London, WC2A 1QS
+Chancery House,  
+Chancery Lane,   
+London WC2A 1QS
 
 If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9).
