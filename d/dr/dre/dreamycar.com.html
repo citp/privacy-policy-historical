@@ -1,2130 +1,391 @@
-<!--The following is the downloaded HTML source of the dreamycar.com privacy policy that was archived on 2010-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100205171432id_/http%3A//www.dreamycar.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dreamycar.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212204731id_/http%3A//dreamycar.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
 <title>Privacy Policy</title>
-
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<meta name="robots" content="noodp">
-
 <meta name="keywords" content="Privacy Policy">
-
 <meta name="description" content="Privacy Policy">
-
-<meta http-equiv="refresh" content="300">
-
-<meta http-equiv="Pragma" content="no-cache">
-
-<meta http-equiv="Expires" content="0">
-
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-
-
+ 
 
 <link rel="stylesheet" type="text/css" media="screen" href="/images/main.css" title="Basic">
 
-
-
 <script language="javascript">
-
-
 
 function change_tab(tab_group,tab_array,tab_select,class_act,class_inact){
 
-
-
   for(i=1; i < tab_array.length; i++){
-
     var obj = document.getElementById(tab_array[i]);
-
     change_class(tab_group+i, class_inact)
-
     obj.style.display = "none";
-
   }
-
     
-
   var obj = document.getElementById(tab_group+tab_select);
-
   obj.style.display = "block";
-
   change_class(tab_group+i, class_act)
 
-
-
 }
-
-
 
 function change_class(id, newClass) {
-
   identity=document.getElementById(id);
-
   identity.className=newClass;
-
 }
 
-
-
-function popUp(URL) {
-
-id = "sign";
-
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=400,height=200,left = 312,top = 309');");
-
-}
-
-
-
-function WirePopUp(URL) {
-
-id = "dnawire";
-
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=620,height=400,left = 120,top = 100');");
-
-}
-
-
-
-function pop(URL,w,h) {
-
-day = new Date();
-
-//id = day.getTime();
-
-id = "sign";
-
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=" + w + ",height=" + h + ",left = 300,top = 240');");
-
-}
-
-
-
-function popSpeak(URL,w,h) {
-
-id = "speakup";
-
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=" + w + ",height=" + h + ",left = 300,top = 70');");
-
-}
-
-
+ 
+ 
 
 </script>
 
-
-
-<script language="javascript">
-
-function  pollViewResult(PollID,Active)
-
-{
-
-	sPollID=PollID
-
-	sActive=Active
-
-	if (screen.width == 1024)
-
-	{
-
-		w1 = window.open("/index.html?pollID="+sPollID+"&Status="+sActive+"","Poll","Top=95,left=0,height=300,width=450")
-
-	}
-
-	else
-
-		{
-
-			if(screen.width == 800)
-
-			{
-
-				w1 = window.open("/index.html?pollID="+sPollID+"&Status="+sActive+"","Poll","Top=95,left=0,height=300,width=450")
-
-			}
-
-		}
-
-}
-
-
-
-function  pollPrevious()
-
-{
-
-	if (screen.width == 1024)
-
-	{
-
-		w1 = window.open("pollPrevious.asp","Poll","Top=95,left=0,height=220,width=450,scrollbars=yes")
-
-	}
-
-	else
-
-		{
-
-			if(screen.width == 800)
-
-			{
-
-				w1 = window.open("pollPrevious.asp","Poll","Top=95,left=0,height=220,width=450,scrollbars=yes")
-
-			}
-
-		}
-
-}
-
-
-
-function chkValidData()
-
-{
-
-	checked = 0
-
-	for(i=0;i<document.poll.option.length;i++)
-
-	{
-
-		if(document.poll.option[i].checked)
-
-		{
-
-			checked = 1
-
-			fianlOption=document.poll.option[i].value
-
-		}
-
-	}
-
-	if(checked != 1)
-
-	{
-
-		alert("Please select an option.")
-
-		return false;
-
-	}
-
-	else{
-
-			pollID=document.poll.pollid.value
-
-			window.open("UpdatePoll.asp?Op="+fianlOption+"&PollID="+pollID+"", "Poll","Top=95,left=0,height=220,width=450")							
-
-            //pollViewResult(pollID,1)
-
-	    return false;
-
-		
-
-		}
-
-	return false;
-
-}	
-
-
-
-</script>
-
-
-
-
-
-<script language="javascript">
-
-
-
-      var tabs1 = ["","tab1","tab2","tab3","tab4"];
-
-
-
-      function showTab( tab ){
-
-
-
-        for(i=1; i < tabs1.length; i++){
-
-			var obj = document.getElementById(tabs1[i]);
-
-			obj.style.display = "none";
-
-			document.getElementById("tm"+i).style.color='#808080';
-
-			document.getElementById("tm"+i).style.backgroundColor='#f6f9fc';
-
-			document.getElementById("tm"+i).style.borderBottomColor='#acacac';
-
-        }
-
-          
-
-        var obj = document.getElementById("tab"+tab);
-
-        obj.style.display = "block";
-
-		document.getElementById("tm"+tab).style.color='#000000';
-
-		document.getElementById("tm"+tab).style.backgroundColor='#ffffff';
-
-		document.getElementById("tm"+tab).style.borderBottomColor='#ffffff';
-
-      }
-
-
-
-</script>
-
-
-
-<script language="javascript">
-
-  j=1;
-
-function rot(){
-
-  if(j==4){
-
-    j=1;
-
-  }
-
-  rt1=document.getElementById('rot1');
-
-  rt2=document.getElementById('rot2');
-
-  rt3=document.getElementById('rot3');
-
-  rt1.style.display='none';
-
-  rt2.style.display='none';
-
-  rt3.style.display='none';
-
-  rt0=document.getElementById('rot'+j);
-
-  rt0.style.display='block';
-
-  j+=1;
-
-  setTimeout("rot()",10000)
-
-}
-
-</script>
-
-
-
-<script language="javascript">
-
-  p=Math.floor(Math.random()*3)+1;
-
-  //p=1;
-
-  dig=0;
-
-function pick(dig){
-
-  p=parseInt(p)+parseInt(dig);
-
-  if(p==4){
-
-    p=1;
-
-  }
-
-  if(p==0){
-
-    p=3;
-
-  }
-
-  rt1=document.getElementById('dna_picks_div1');
-
-  rt2=document.getElementById('dna_picks_div2');
-
-  rt3=document.getElementById('dna_picks_div3');
-
-  rt1.style.display='none';
-
-  rt2.style.display='none';
-
-  rt3.style.display='none';
-
-  rt0=document.getElementById('dna_picks_div'+p);
-
-  rt0.style.display='block';
-
-}
-
-</script>
-
-
-
-<script>
-
-
-
-var data_items = new Array();
-
-var data_ids = new Array();
-
-
-
-function rearrange_blocks(sect_id) {
-
-	Array.prototype.FindValue = function(value) {
-
-		for (var item = 0; item < this.length; item++) {
-
-			if (this[item] == value) return 1;
-
-		}
-
-		return 0;
-
-	}
-
-	
-
-	Array.prototype.Push = function(value) {	
-
-		this[this.length] = value;
-
-	}
-
-
-
-	var all = document.all ? document.all : document.getElementsByTagName('div');
-
-	var item_id = 0;
-
-	var data_item_ids = new Array();
-
-	for (var div_id = 0; div_id < all.length; div_id++) {
-
-		if (all[div_id].className == "free_block") {
-
-  			var name = all[div_id].id;
-
-  			data_item_ids[item_id] = name;
-
- 			data_items[name] = "<div class=\"free_block\" id=\"" + name + "\"  style=\"clear:both;\">" + document.getElementById(name).innerHTML + "<\/div>";
-
-  			item_id++;
-
-		}
-
-	}
-
-				
-
-	var cookieValue = GetCookie(sect_id);
-
-	if (cookieValue) {
-
-		var cookiedata_ids = cookieValue.split("+");
-
-		
-
-		for (var itemNumber = 0; itemNumber < cookiedata_ids.length; itemNumber++) {			
-
-			if (data_item_ids.FindValue(cookiedata_ids[itemNumber]) == 1) {
-
-				data_ids.Push(cookiedata_ids[itemNumber]);
-
-			}
-
-		}
-
-		for (var itemNumber = 0; itemNumber < data_item_ids.length; itemNumber++) {			
-
-			if (cookiedata_ids.FindValue(data_item_ids[itemNumber]) == 0) {
-
-				data_ids.Push(data_item_ids[itemNumber]);
-
-			}
-
-		}
-
-		
-
-		refresh_blocks();
-
-	} else {
-
-		data_ids = data_item_ids;
-
-	}
-
-}
-
-
-
-function MoveBlock(sect_id,blockId,direction) {
-
-	var itemPosition;
-
-	var newPosition;
-
-				
-
-	for (var itemNumber = 0; itemNumber < data_ids.length; itemNumber++) {
-
-  		if (blockId == data_ids[itemNumber]) {
-
-  			itemPosition = itemNumber;
-
- 		}
-
-	}
-
-				
-
-	if (direction == 'Up') {
-
-		newPosition = itemPosition - 1;
-
-	}
-
-	if (newPosition < 0) return;
-
-	if (direction == 'Down') {
-
-		newPosition = itemPosition + 1;
-
-	}
-
-	if (newPosition == data_ids.length) return;
-
-				
-
-	var temporaryItem = data_ids[newPosition];
-
-	data_ids[newPosition] = data_ids[itemPosition];
-
-	data_ids[itemPosition] = temporaryItem;
-
-
-
-	var now = new Date(); now.setTime(now.getTime() + 1 * 60 * 60 * 1000);
-
-	//var now = new Date(); now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
-
-	SetCookie(sect_id,data_ids.join("+"),now,"/","","");	
-
-		
-
-	refresh_blocks();
-
-}
-
-	
-
-function refresh_blocks() {
-
-	var html = "";
-
-	for (var itemNumber = 0; itemNumber < data_ids.length; itemNumber++) {
-
-		if (data_items[data_ids[itemNumber]]) {
-
-			html += data_items[data_ids[itemNumber]];
-
-		}
-
-	}
-
-		
-
-	if (document.all) {
-
-		document.getElementById("top_week_1").innerHTML = html;
-
-	} else {
-
-		var element = document.getElementById("top_week_1");
-
-		while (element.hasChildNodes()) { element.removeChild(element.lastChild); }
-
-		var range = document.createRange();
-
-		range.setStartAfter(element);
-
-		var fragment = range.createContextualFragment(html);
-
-		element.appendChild(fragment);
-
-	}
-
-}
-
-	
-
-function SetCookie(name,value,expires,path,domain,secure) {
-
-	var cookie = name + "=" + escape(value) +
-
-		((expires) ? "; expires=" + expires.toGMTString() : "") +
-
-		((path) ? "; path=" + path : "") +
-
-		((domain) ? "; domain=" + domain : "") +
-
-		((secure) ? "; secure" : "");
-
-	document.cookie = cookie;
-
-}
-
-	
-
-function GetCookie(name) {
-
-	var cookie = document.cookie;
-
-	var prefix = name + "=";
-
-	var begin = cookie.indexOf("; " + prefix);
-
-	if (begin == -1) {
-
-		begin = cookie.indexOf(prefix);
-
-		if (begin != 0) return null;
-
-	} else {
-
-		begin += 2;
-
-	}
-
-	var end = document.cookie.indexOf(";",begin);
-
-	if (end == -1) {
-
-		end = cookie.length;
-
-	}
-
-	return unescape(cookie.substring(begin + prefix.length, end));
-
-}
-
-
-
-</script>
-
-
-
-
-
-<script>
-
-
-
-  function fetch_ssn(){
-
-   if (window.ActiveXObject) {
-
-        http_fetch_ssn = new ActiveXObject("Microsoft.XMLHTTP");
-
-     }
-
-     else {
-
-        http_fetch_ssn = new XMLHttpRequest;
-
-     }
-
-
-
-    fetch_ssn_url = "ssn.asp"
-
-
-
-    http_fetch_ssn.open("get", fetch_ssn_url, true);
-
-    http_fetch_ssn.onreadystatechange = handle_http_fetch_ssn;
-
-    http_fetch_ssn.send(null);
-
-  }
-
-
-
-  function handle_http_fetch_ssn() {
-
-    if (http_fetch_ssn.readyState == 4) {
-
-
-
-      ssn_state=http_fetch_ssn.responseText
-
-
-
-      if(ssn_state==""){
-
-      }
-
-      else{
-
-      sh("log3","log1")
-
-      sh("log3","log2")
-
-      document.getElementById("login_user").innerHTML = ssn_state;
-
-      }
-
-    }
-
-  }
-
-
-
-  function fetch_login(){
-
-   if (window.ActiveXObject) {
-
-        http_fetch_login = new ActiveXObject("Microsoft.XMLHTTP");
-
-     }
-
-     else {
-
-        http_fetch_login = new XMLHttpRequest;
-
-     }
-
-
-
-    fetch_login_url = "lgn.asp"
-
-    http_fetch_login.open("post", fetch_login_url, true);
-
-    http_fetch_login.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-
-    http_fetch_login.onreadystatechange = handle_http_fetch_login;
-
-    http_fetch_login.send("user_login=" + document.getElementById("login_box").value+"&"+"user_password=" + document.getElementById("password_box").value);
-
-  }
-
-
-
-  function handle_http_fetch_login() {
-
-    if (http_fetch_login.readyState == 4) {
-
-
-
-      login_state=http_fetch_login.responseText
-
-      if(login_state=="true"){
-
-      //fetch_ssn()
-
-      sh("log3","log1")
-
-      sh("log3","log2")
-
-      }
-
-      else{
-
-      alert("Incorrect user name or password. Please try again.")
-
-      }
-
-    }
-
-  }
-
-
-
-  function fetch_logout(){
-
-    sh("log1","log2")
-
-    sh("log1","log3")
-
-   if (window.ActiveXObject) {
-
-        http_fetch_logout = new ActiveXObject("Microsoft.XMLHTTP");
-
-     }
-
-     else {
-
-        http_fetch_logout = new XMLHttpRequest;
-
-     }
-
-
-
-    fetch_logout_url = "logout.asp"
-
-    http_fetch_logout.open("post", fetch_logout_url, true);
-
-    http_fetch_logout.onreadystatechange = handle_http_fetch_logout;
-
-    http_fetch_logout.send(null);
-
-  }
-
-
-
-  function handle_http_fetch_logout() {
-
-    if (http_fetch_logout.readyState == 4) {
-
-      //fetch_ssn()
-
-    }
-
-  }
-
-
-
-</script>
-
-
-
-
-
-<script language="JavaScript1.2" type="text/javascript">
-
-function CreateBookmarkLink() {
-
-title = "New Cars, Car Reviews & Prices, Used Cars for Sale, & Auto Shows";
-
-url = "http://www.Vovoit.com";
-
-if (window.sidebar) {
-
-// Mozilla Firefox Bookmark
-
-window.sidebar.addPanel(title, url,"");
-
-} else if( window.external ) {
-
-// IE Favorite
-
-window.external.AddFavorite( url, title);
-
-}
-
-else if(window.opera && window.print) {
-
-// Opera Hotlist
-
-return true; }
-
-}
-
-
-
-</script>
-
-
-
-<script language="javascript">
-
-  function tkbk(lid){
-
-    var http_tkbk;
-
-    http_tkbk=null;
-
-    if (window.XMLHttpRequest){http_tkbk=new XMLHttpRequest();}
-
-    else if (window.ActiveXObject){http_tkbk=new ActiveXObject("Microsoft.XMLHTTP");}
-
-    if (http_tkbk!=null){http_tkbk.open("post", "tkbk.asp?lid="+lid+"", true);http_tkbk.send(null);}
-
-    else{}
-
-  }
-
-</script>
-
-
-
-<script>
-
-  go_timer = false;
-
-  go = 1;
-
-  i = 1;
-
-  img_no = 4;
-
-  delay = 5000;
-
-
-
-  function move_pic(){
-
-    if(i<img_no){i = i + 1;}
-
-    else{i = 1;}
-
-    show_pic(i,"1");
-
-    go_timer = false;
-
-    go_timer = setTimeout("if(go==1){move_pic()}",delay);
-
-  }
-
-
-
-  function show_pic(pn,g){
-
-    go = g;
-
-    if(go==1){document.getElementById("playbtn").src="/images/pause.jpg";;}
-
-    else{document.getElementById("playbtn").src="/images/play.jpg";}
-
-    for(j=1;j<=img_no;j++){
-
-      document.getElementById("top_img_txt_div_"+j).style.display="none";
-
-      document.getElementById("btn"+j).style.backgroundColor="#e3ebee"; //
-
-	  document.getElementById("btn"+j).style.color="#000000";
-
-    }
-
-    document.getElementById("top_img_txt_div_"+pn).style.display="block";
-
-    document.getElementById("btn"+pn).style.backgroundColor="#63819F"; //bbccde
-
-    document.getElementById("btn"+pn).style.color="#ffffff";
-
-  }
-
-
-
-  function slide(){
-
-    if(go==1){go=0;document.getElementById("playbtn").src="/images/play.jpg";} //document.getElementById("playbtn").value="Play";
-
-    else{go=1;document.getElementById("playbtn").src="/images/pause.jpg";}
-
-    go_timer = false;
-
-    go_timer = setTimeout("if(go==1){move_pic()}",delay);
-
-  }
-
-//font-color:e3ebee
-
-</script>
-
-
-
-<style>
-
-  .btn{width:20px;height:20px;font-family:arial;font-size:10px;font-weight:bold;background-color:#e3ebee;margin-right:5px;}
-
-  #playbtn{margin-left:10px;vertical-align:bottom;height:20px;width:30px}
-
-</style>
+   
 
 
 
 <script language="JavaScript">   
-
 function     closeErrors()     {   
-
     return     true;   
-
     }   
-
     window.onerror=closeErrors;   
-
 </script>
-
-
-
 </head>
 
-
-
 <body style="position:relative;"> 
-
-
-
-<script>
-
-function wait(delay){
-
-  string="chat_banner();";
-
-  setTimeout(string,delay);
-
-}
-
-function chat_banner(){
-
-  document.getElementById("chat_ban1").style.display = "none";
-
-}
-
-</script>
-
-
-
+ 
  
 
+ 
 <table width="1000" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF">
-
 <tbody><tr>
-
 <td style="background:#E5E5E5 url('/images/shadow-left.gif');background-repeat: repeat-y; background-position: -3px 0px;"><div style="width:15px;"></div></td>
 
+<td width="100%" style="padding:5px;padding-top:0px;">
 
+ 
 
-<td width="970" style="padding:5px;padding-top:0px;">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" background="/images/1head.gif">
 
-
-
-
-
-<script>
-
-
-
-function sh(ids,idh){
-
-  document.getElementById(idh).style.display = "none";
-
-  document.getElementById(ids).style.display = "block";
-
-}
-
-
-
-</script>
-
-
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-
-
-
-<tbody><tr style1="background:#ffffff url('/images/top-bg.gif');">
-
+<tbody><tr style1="background:#ffffff url('/images/1head.gif');">
 <td valign="bottom" align="left" colspan="3" style="">
 
-
-
   <table border="0" width="100%" cellpadding="0" cellspacing="0">
-
   <tbody><tr>
+  <td width="260" style="padding-right:8px;"><a href="/"><img src="/images/logo.gif" style="padding-right:15px; width:225;height:70" border="0" alt="New Cars, Car Reviews &amp; Prices,  Cars Shows"></a> <script language="Javascript"> 
+var mydate=new Date()
+var theYear=mydate.getFullYear()
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write(dayarray[day]+", "+montharray[month]+" "+daym+", "+theYear)
+ //--></script>Thursday, January 30, 2020</td>
+  <td align="right" valign="bottom" style="padding-bottom:5px; padding-top:5px;">
+  
 
-  <td width="200"><a href="/"><img src="/images/logo.gif" border="0" style="margin-top:15px;margin-bottom:5px;" alt="New Cars, Car Reviews &amp; Prices, Used Cars for Sale, &amp; Auto Shows"></a></td>
-
-  <td align="right" valign="bottom">
-
-  <div style="margin-bottom:5px;">
-
-
-
-<div id="ad1" style="display: block;"><script src="/search/ad_js.php?aid=88" language="javascript"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
+ <script src="/search/ad_js.php?aid=50" language="javascript"></script>
  
-
-<script language="javascript">
-
-  adrnd=Math.floor(Math.random()*1)+1;
-
-  banno="ad"+adrnd;
-
-  document.getElementById(banno).style.display="block";
-
-</script>
-
  
-
-</div>
 
 </td>
-
 </tr></tbody></table>
 
-
-
 </td>
 
-
-
 </tr>
-
-
 
 <tr>
 
-
-
-<td width="35%" valign="middle" align="left" style="font-family:verdana;font-size:11px;color:#004374;border-top:1px solid black;border-bottom:1px solid black;">
-
-<script language="Javascript"> 
-
-var mydate=new Date()
-
-var theYear=mydate.getFullYear()
-
-var day=mydate.getDay()
-
-var month=mydate.getMonth()
-
-var daym=mydate.getDate()
-
-if (daym<10)
-
-daym="0"+daym
-
-var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
-
-var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
-
-document.write(dayarray[day]+", "+montharray[month]+" "+daym+", "+theYear)
-
- //--></script>Thursday, January 30, 2020
-
-</td>
-
-
-
  
 
  
-
-<td width="20%" valign="middle" align="right" style="font-family:verdana;font-size:10px;color:black;padding:5px;border-top:1px solid black;border-bottom:1px solid black;">
-
-GO TO: 
-
-<select onchange="document.location=this.value">
-
-<option value="/">HOME</option>
-
  
-
  
-
-
-
-<option value="/Auto-News/index.html">AUTO NEWS</option>
-
- 
-
-
-
-<option value="/Articles/index.html">AUTO ARTICLES</option>
-
- 
-
-
-
-<option value="/Road-Tests/index.html">ROAD TESTS</option>
-
- 
-
-
-
-<option value="/Used-Cars/index.html">USED CARS</option>
-
- 
-
-
-
-<option value="/New-Cars/index.html">NEW CARS</option>
-
- 
-
-
-
-<option value="/Auto-Shows/index.html">AUTO SHOWS</option>
-
- 
-
-
-
-<option value="/Features/index.html">FEATURES</option>
-
- 
-
-
-
-<option value="/CAR-SHOWS/index.html">CAR SHOWS</option>
-
-</select>
-
-</td>
-
-
 
 </tr>
 
-
-
 </tbody></table>
-
-<style>
-
-  #top_nav_div {height:20px;text-align:center;padding:5px;font-family:verdana;font-size:13px;font-weight:bold;color:white;margin:0px;}
-
-  #top_nav_div span {margin-right:15px;}
-
-  ul#nav_other { margin:0px;padding:0px;line-height:150%;}
-
-  ul#nav_other li a { color: #ffffff;font-weight:bold;white-space:nowrap;cursor:pointer;font-size:90%;}
-
-  ul#nav_other li a:hover {color:orange;}
-
-</style>
-
-
-
+ 
+ 
  
 
-
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="background:#5B87B8 url('/images/navigation-line.gif');background-repeat: repeat-y;">
-
-
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="margin-top:10px;margin-bottom:5px;background:#990000 url('/images/navigation-line.gif');background-repeat: repeat-y;">
 
 <tbody><tr style="">
-
 <td valign="bottom" align="left" style="">
-
 <div id="top_nav_div" style="">
+<span><a href="/" style="color:white">HOME</a></span>
 
-<span><a href="/" style="color:white" onmousedown="tkbk('1')">HOME</a></span>
+<span><a href="/Features/index.html" style="color:white ;padding-left:10px; text-transform:uppercase">Features</a> </span>
 
+<span><a href="/Articles/index.html" style="color:white ;padding-left:10px; text-transform:uppercase">Autos Articles</a> </span>
 
+<span><a href="/Auto/index.html" style="color:white ;padding-left:10px; text-transform:uppercase">Cars Shows</a> </span>
 
-<span><a href="/Auto-News/index.html" style="color:white" onmousedown="tkbk('2')">AUTO NEWS</a> </span>
+<span><a href="/Road-Tests/index.html" style="color:white ;padding-left:10px; text-transform:uppercase">Road Tests</a> </span>
 
+<span><a href="/New-Cars/index.html" style="color:white ;padding-left:10px; text-transform:uppercase">New Cars</a> </span>
 
-
-<span><a href="/Articles/index.html" style="color:white" onmousedown="tkbk('2')">AUTO ARTICLES</a> </span>
-
-
-
-<span><a href="/Road-Tests/index.html" style="color:white" onmousedown="tkbk('2')">ROAD TESTS</a> </span>
-
-
-
-<span><a href="/Used-Cars/index.html" style="color:white" onmousedown="tkbk('2')">USED CARS</a> </span>
-
-
-
-<span><a href="/New-Cars/index.html" style="color:white" onmousedown="tkbk('2')">NEW CARS</a> </span>
-
-
-
-<span><a href="/Auto-Shows/index.html" style="color:white" onmousedown="tkbk('2')">AUTO SHOWS</a> </span>
-
-
-
-<span><a href="/Features/index.html" style="color:white" onmousedown="tkbk('2')">FEATURES</a> </span>
-
-
-
-<span><a href="/CAR-SHOWS/index.html" style="color:white" onmousedown="tkbk('2')">CAR SHOWS</a> </span>
-
-
-
- 
-
- 
+<span><a href="/News/index.html" style="color:white ;padding-left:10px; text-transform:uppercase">Autos News</a> </span>
 
 </div>
 
 
-
-
-
  
-
-
-
 </td>
-
-
 
 </tr>
 
-
-
 </tbody></table>
-
-
-
-
-
-
 
 
 
 
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-
-
-
-<tbody><tr height="1">
-
-<td width="660" height="1"><div style="width:600px;height:1px;border-top:0px solid red;overflow:hidden;"></div></td>
-
-<td width="300"><div style="width:300px;height:1px;border-top:0px solid blue;overflow:hidden;"></div></td>
-
-</tr>
-
-
-
-<tr style="padding-bottom:5px;">
-
  
-
  
-
-</tr>
-
-
-
-<tr>
-
-<td valign="top">
-
-
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
 
 <tbody><tr>
-
 <td valign="top">
-
-
-
-<div id="column_left_div">
-
-
-
-
-
-
-
-
-
- 
-
  
 
 
-
-<div class="left_div_title" style="margin-bottom:0px;margin-top:5px;"> NEW CARS </div>
-
-<div class="left_div" style="margin-top:0px;border-top:0px solid #DDE8EC;">
-
-  
-
-    
-
-   
-
- 
-
-    
-
-  <div style="background-color:#ffffff; size:-5px;font: normal 9px Arial, sans-serif; color: #666; padding-top:10px;"><center> ADVERTISEMENT</center> </div><center>
-
-<script src="/search/ad_js.php?aid=90" language="javascript"></script>
-
-
-
-
-
-</center>
-
-
-
-	 
-
-</div>
-
-
-
-<div id="opinion" style="padding:5px 0 5px 5px;background:#EEF2FD url('/images/opi-img.gif') 0 0 no-repeat;	background-position: 15px 30px;">
-
-    
-
-            
-
-  
-
-     
-
-
-
-
-
-</div>
-
-
-
-</div>
-
-
-
-</td>
-
-
-
-<td valign="top">
-
-
-
-<div id="column_center_div">
-
-
-
-<div class="center_div" id="top_news_cont" style="">
-
-
-
-    <script language="javascript">
-
-      
-
-      function show_tab(tab){
-
-      show_pic(tab,"0");
-
-      if(tab==1){
-
-        document.getElementById("def_div").style.display = "none";
-
-      }
-
-      else{
-
-        if(tab==2){
-
-          document.getElementById("def_div").style.display = "none";
-
-        }
-
-        if(tab==3){
-
-         document.getElementById("def_div").style.display = "none";
-
-        }
-
-        if(tab==4){
-
-        document.getElementById("def_div").style.display = "none";
-
-        }
-
-       document.getElementById("def_div").style.display = "none";
-
-      }
-
-      var now = new Date(); now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
-
-      SetCookie("tab_top",tab,now,"/","","");
-
-
-
-      var tabs = ["","top_cont_1","top_cont_2","top_cont_3","top_cont_4"];
-
-      var lead_imgs = ["",1154450, 1154444, 1154472,1154551];
-
-
-
-        for(i=1; i < tabs.length; i++){
-
-          var obj = document.getElementById(tabs[i]);
-
-          change_class("ttab_nav_"+i, "tab_main_inactive")
-
-          obj.style.display = "none";
-
-          document.getElementById("top_img_txt_div_"+i).style.display = "none";
-
-        }
-
-          
-
-        var obj = document.getElementById("top_cont_"+tab);
-
-        obj.style.display = "block";
-
-        change_class("ttab_nav_"+tab, "tab_main_active")
-
-        document.getElementById("top_img_txt_div_"+tab).style.display = "block";
-
-        document.getElementById("lead_img"+tab).src="/images/"+lead_imgs[tab]+".jpg";
-
-        //document.getElementById("lead_img").src = "/imageshow.asp?objid="+lead_imgs[tab];
-
-      }
-
-
-
-    </script>
-
- 
-
- 
-
-
-
- 
-
-
-
-    <script language="javascript">
-
-      
-
-      function show_week(tab){
-
-
-
-      var tabs = ["","top_week_1","top_week_2"];
-
-
-
-        for(i=1; i < tabs.length; i++){
-
-          var obj = document.getElementById(tabs[i]);
-
-          change_class("wtab_nav_"+i, "tab_main_inactive")
-
-          obj.style.display = "none";
-
-        }
-
-          
-
-        var obj = document.getElementById("top_week_"+tab);
-
-        obj.style.display = "block";
-
-        change_class("wtab_nav_"+tab, "tab_main_active")
-
-      }
-
-
-
-    </script>
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" style="width:340px;margin:0px;padding:0px;margin-top:10px;color:#666666;">
-
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;margin:0px;padding:0px;margin-top:10px;color:#666666; padding-right:10px;">
 <tbody><tr style="padding-top1:4px;">
-
-<td width="45%" align="left" valign="bottom"><div id="wtab_nav_1" class="tab_main_active">Privacy Policy </div></td>
-
  
-
+<td><div id="wtab_nav_1" class="tab_main_active" style="padding-left:10px; text-transform:uppercase">Privacy Policy</div></td>
 </tr>
-
 </tbody></table>
+<div class="center_div" id="dna_picks_div" style="border:1px solid #dee9ed;margin-right:10px;overflow:hidden;">
 
-
-
-<div class="top_week" style="display:block;_width:340px;" id="top_week_1">
-
-
-
-    
-
-
-
-
-
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td valign="top">
+ <p>Dreamycar.com is committed to protecting the personal information you choose to share with us. Below is our privacy guarantee and some additional information about how we gather information about our registered users, why we gather it, and what we do with it.</p>
+      <p>We will not willfully disclose any individually identifiable information about you to any outside source without your express consent.</p>
+      <p><strong>General information</strong><br>
+        We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you.</p>
+      <p><strong>Opting out of third-party ad servers</strong><br>
+        Although most Dreamycar.com customers indicate that they welcome details of offers and other promotional material about Dreamycar.com products and services and products and services provided by our business partners and advertisers, we acknowledge the right of our customers to choose. You will be given the right to opt-out of receiving such information whenever you are asked to provide information on this site. If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us as set out below, indicating that you no longer want to receive: (1) information relating to products and services provided by other companies, or (2) any information relating to products and services (including Dreamycar.com products and services).</p>
+      <p>If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site):          Commission Junction.</p>
+      <p><strong>Security</strong><br>
+        This site incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us.</p>
+      <p><strong>External Links</strong><br>
+        Dreamycar.com provides links to various Web sites that we do not control as well as to our sponsors. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Even if an affiliation exists between our Web site and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to our site, you should consult that site's privacy policy before providing any personal information.<br></p>
+<p><strong>Network Advertising</strong><br>
+        We use third-party advertising companies to serve ads when you visit our Web site.
+These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+<br>
+      </p></td>
+<td valign="top">
  
-
-
-
+	 
   
-
+</td>
+</tr>
+</tbody></table>
  
-
- 
-
-
-
- 
-
-
-
-  <div class="free_block" id="week_8" style="clear:both;">
-
-    
-
-    
-
-
-
-    
-
-
-
-    <ul class="list1">
-
-    
-
-         <span class="dhColumnistHeadline"> <br><strong>Links to Other Web Sites.</strong> <br>
-
-<p>We make content or services   from our other web sites available to you from links located on  us.   We also offer through links a collection of services provided by third parties.   In order to use third parties' services you will be directed to pages on their   web sites, which may be co-branded with the  us logo. Please remember   that when you visit these other web sites, even the affiliated and co-branded   sites, the sites' own privacy policies apply.</p>
-
-                  <p><strong>Information We Collect</strong> <br>
-
-                   Web Site Usage Information: We   automatically collect IP addresses and Web Site usage information from you when   you visit our Web Site. This information helps us evaluate how our visitors use   and navigate our Web Site on an aggregate basis, including the number and   frequency of visitors to each Web page, and the length of their visits. </p>
-
-                  <p>General: When you use some of the site's special features we will collect   personally identifiable information from you that may include your name, phone   number, address, e-mail address and similar information. We do not, however,   knowingly collect personal information from children under the age of thirteen. </p>
-
-                  <p>Surveys: We may conduct occasional online surveys. For example, when you are   within our Web Site, you may see a pop-up window offering you the optional   opportunity of participating in a survey. These surveys are entirely voluntary   and you may easily decline to participate.</p>
-
-                  <p><strong>How We Use Information Collected</strong> <br>
-
-                   We may use information   in the following ways: </p>
-
-                  <p>For the purposes for which you specifically provided the information, for   example, to process and fulfill your subscriptions to our e-mail newsletters,   review and post your contributions to discussion groups and to process and   forward to franchisers your franchiser information requests.</p>
-
-                  <p>To send you e-mail notifications about our new or existing products and   services, special offers, or to otherwise contact you.</p>
-
-                  <p>To allow us to personalize the content and advertising that you and others   see based on personal characteristics or preferences.</p>
-
-                  <p>To enhance existing features or develop new features, products and   services.</p>
-
-                  <p>To provide advertisers and other third parties with aggregate information   about our user base and usage patterns.</p>
-
-                  <p>We may combine the information that we collect from you on this Web Site with   information that you provide to us in connection with your use of our other   products, services and web sites.  
-
-</p> </span><br> </ul></div><p></p><br>    
-
-    
-
-    
-
- <br>
-
-  </div>
-
-
-
 </div>
 
-
-
-<div class="top_week" style="padding:8px;_width:340px;" id="top_week_2">
-
  
-
-
-
-  
-
- 
-
- 
-
- 
-
-
-
- 	  <div style="background-color:#ffffff; size:-5px;font: normal 9px Arial, sans-serif; color: #666; padding-top:10px;"><center> ADVERTISEMENT</center> </div><center>
-
- <script src="/search/ad_js.php?aid=93" language="javascript"></script><img src="/ad/222r.gif" border="0">
- 
-
-</center>
-
-
-
- 
-
-</div>
-
-</div>
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
 
 </td>
-
-</tr>
-
-</tbody></table>
-
-
-
- 
-
- 
-
-
-
- 
-
-
-
-</td>
-
-
 
 <td width="30%" valign="top" style="position:relative;top:-14px;_top:-29px;">
-
 <div id="column_right_div" style="height1:100%;position:relative;_position:none;top:-25px;_top:0px;">
-
-
 
    
 
-
-
  
-
     <script language="javascript">
-
       
-
       function show_pop(tab){
-
-
 
       var tabs = ["","top_pop_1","top_pop_2","top_pop_3"];
 
-
-
         for(i=1; i < tabs.length; i++){
-
           var obj = document.getElementById(tabs[i]);
-
           change_class("ptab_nav_"+i, "tab_main_inactive")
-
           obj.style.display = "none";
-
         }
-
           
-
         var obj = document.getElementById("top_pop_"+tab);
-
         obj.style.display = "block";
-
         change_class("ptab_nav_"+tab, "tab_main_active")
-
       }
 
-
-
     </script>
+<div style=" padding-top:30px;"></div>
 
-
-
-
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="margin-top:30px;margin-bottom:10px;">
-
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="margin-top:10px;margin-bottom:10px;">
 <tbody><tr>
-
  
-
-
 
 <td width="310" rowspan="2" valign="top">
+<div style="display1:none;margin: 5 0 5 0;padding-bottom:5px;border-top1:1px solid #acacac;border-bottom1:1px solid #acacac; padding-left:10px;">
+<div id="adv_cont" style="text-align:center;height1:250px;border:none;">
 
-
-
-  <div style="width:300px;height:77px;margin-left:10px;background:#D7E4ED;border:1px solid #2D72AB;">
+			  <div style="background-color:#ffffff; size:-5px;font: normal 9px Arial, sans-serif; color: #666; "><center> ADVERTISEMENT</center> </div><center>
+ <script language="JavaScript1.1">
+	document.write("<sc"+"ript language='JavaScript1.1' src='http://rover.ebay.com/ar/1/711-53200-19255-82/1?campid=5336641154&toolid=711532001925582&customid=945631&mpt=" + Math.floor(Math.random()*999999999999) + "&adtype=3&size=300x250&mpvc='></sc"+"ript>");
+</script><script language="JavaScript1.1" src="http://rover.ebay.com/ar/1/711-53200-19255-82/1?campid=5336641154&amp;toolid=711532001925582&amp;customid=945631&amp;mpt=439682235474&amp;adtype=3&amp;size=300x250&amp;mpvc="></script>
+<noscript>
+	<a href='http://rover.ebay.com/rover/1/711-53200-19255-82/1?campid=5336641154&toolid=711532001925582&customid=945631&mpvc='>
+		<img border='0px' src='http://rover.ebay.com/ar/1/711-53200-19255-82/1?campid=5336641154&toolid=711532001925582&customid=945631&mpt=[CACHEBUSTER]&adtype=1&size=300x250&mpvc=' alt='Click Here'>
+	</a>
+</noscript>
+</center>
 
  
-
-    <div style="margin:10px;">
-
+</div>
+</div>
+  <div style="width:320px;height:77px;margin-left:10px;background:#EEF2FD;border:1px solid #DDE8EC;">
+ 
+    <div style="margin:5px;">
     <div style="font-size:11px;color:black;font-weight:bold;">SEARCH</div>
-
-    <div style="padding:0 0 0 0;margin-bottom:0px;"><span style="display:none;"><form method="get" action="/search.php" target="_top">
-
+    <div> <form method="get" action="/search.php" target="_top"> 
     
-
     
-
-    <input type="text" name="keyword" size="15" maxlength="255" value="Enter Keywords..." id="sbi" style="width:215px;height:19px;margin-right:5px;font-size:10px;background-color:#ffffff;">
-
+    <input type="text" name="keyword" size="15" maxlength="255" value="Enter Keywords..." id="sbi" style="width:215px;height:19px; font-size:13px;background-color:#ffffff;">
     <input type="submit" name="sa" value="Search" id="sbb" style="display: none">
-
     <input type="image" src="/images/go_but.gif" align="top" border="0">
-
-    </form></span></div>
-
-    </div>
-
    
-
+  </form> 
  
-
   </div>
 
-
-
-</td>
-
-
+</div></div></td>
 
 </tr>
-
 <tr>
 
 
 
-
-
-
-
   
 
-
-
  
 
-
-
  
-
-
 
 </tr>
-
 </tbody></table>
-
- 
-
  
 
 
 
 
 
-<div style="display1:none;margin: 5 0 5 0;padding-bottom:5px;border-top1:1px solid #acacac;border-bottom1:1px solid #acacac;">
-
-<div id="adv_cont" style="text-align:center;height1:250px;border:none;">
-
-
-
-			  <div style="background-color:#ffffff; size:-5px;font: normal 9px Arial, sans-serif; color: #666; padding-top:10px;"><center> ADVERTISEMENT</center> </div>
-
- <script src="/search/ad_js.php?aid=91" language="javascript"></script>
-
-
-
-
-
- 
-
-</div>
-
-</div>
-
-
-
-  
 
   
 
 	 
-
  
-
 </div>
-
  
-
-
-
 
 
 <div class="right_div" id="services_cont">
-
-  <div class="right_div_title" onmousedown="tkbk('459')">SERVICES</div>
-
-
-
+ <table border="0" cellpadding="0" cellspacing="0" style="width:100%;margin:0px;padding:0px;margin-top:5px;color:#666666;">
+<tbody><tr>  
+ 
+<td align="left" valign="bottom"><div id="wtab_nav_1" class="tab_main_active" style="padding-left:10px; text-transform:uppercase">NEWSLETTER</div></td>
+</tr>
+</tbody></table>
   <div style="margin:5px;padding:5px;background-color1:#eaeaea;">
 
-
-
  
+  <div style="font-size:85%;">Get daily autos and cars news in your inbox and read it at your convenience.</div>
 
-  <div style="font-size1:90%;font-size:11px;font-weight:bold">NEWSLETTER</div>
-
-  <div style="font-size:85%;">Get daily news in your inbox and read it at your convenience.</div>
-
-
-
-	<div style="display:none;visibility:hidden;"><form name="reg_form" action="/Newsletter.php" method="get" onsubmit="return validate()"></form></div>
-
-
-
+<form name="reg_form" action="/Newsletter.php" method="get" onsubmit="return validate()">
 	<div style=""><input id="NewsletterEmail" maxlength="128" size="20" name="mail" value="Your email address" onclick="if (this.value == 'Your email address') this.value=''">
-
 	<input name="act" size="48" value="subscribe" onfocus="this.value=&quot;&quot;" type="hidden">
-
 	<input type="image" src="/images/submit_nl.gif" style="position:relative;top:4px;_top:2px">
-
 	<!-- <input type="submit" value="Submit"> --></div>
 
-
-
-	<div style="display:none;visibility:hidden;"></div>
-
+	 </form> 
   
-
-
-
-  
-
-
-
-  <div style="text-align:center;margin:10px 5px 10px 5px;clear:both;"><br></div>
-
-
 
  
 
+ 
 			  <div style="background-color:#ffffff; size:-5px;font: normal 9px Arial, sans-serif; color: #666; padding-top:10px;"><center> ADVERTISEMENT</center> </div>
-
  
-
-  <div><script src="/search/ad_js.php?aid=92" language="javascript"></script>
-
-
+  <div><script src="/search/ad_js.php?aid=52" language="javascript"></script>
 
 </div>
-
   
-
-
 
   </div>
-
  
-
-
 
 </div></td>
-
 </tr>
 
-
-
 <tr>
-
 <td colspan="2">
-
 <style>
-
-  #top_nav_div {height:20px;text-align:center;padding:5px;font-family:verdana;font-size:13px;font-weight:bold;color:white;margin:0px;}
-
-  #top_nav_div span {margin-right:15px;}
-
-  ul#nav_other { margin:0px;padding:0px;line-height:150%;}
-
-  ul#nav_other li a { color: #ffffff;font-weight:bold;white-space:nowrap;cursor:pointer;font-size:90%;}
-
-  ul#nav_other li a:hover {color:orange;}
-
+  #top_nav_div {height:20px;padding:5px;font-family:verdana;font-size:13px;font-weight:bold;color:white; padding-right:20px;}
+  
 </style>
-
-
 
  
 
-
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="margin-top:10px;margin-bottom:5px;background:#5B87B8 url('/images/navigation-line.gif');background-repeat: repeat-y;">
-
-
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" style="margin-top:10px;margin-bottom:5px;background:#990000 url('/images/navigation-line.gif');background-repeat: repeat-y;">
 
 <tbody><tr style="">
-
 <td valign="bottom" align="left" style="">
-
 <div id="top_nav_div" style="">
-
 <span><a href="/" style="color:white" onmousedown="tkbk('1')">HOME</a></span>
 
+<span><a href="/Features/index.html" style="color:white ;padding-left:20px; text-transform:uppercase">Features</a> </span>
 
+<span><a href="/Articles/index.html" style="color:white ;padding-left:20px; text-transform:uppercase">Autos Articles</a> </span>
 
-<span><a href="/Auto-News/index.html" style="color:white" onmousedown="tkbk('2')">AUTO NEWS</a> </span>
+<span><a href="/Auto/index.html" style="color:white ;padding-left:20px; text-transform:uppercase">Cars Shows</a> </span>
 
+<span><a href="/Road-Tests/index.html" style="color:white ;padding-left:20px; text-transform:uppercase">Road Tests</a> </span>
 
+<span><a href="/New-Cars/index.html" style="color:white ;padding-left:20px; text-transform:uppercase">New Cars</a> </span>
 
-<span><a href="/Articles/index.html" style="color:white" onmousedown="tkbk('2')">AUTO ARTICLES</a> </span>
-
-
-
-<span><a href="/Road-Tests/index.html" style="color:white" onmousedown="tkbk('2')">ROAD TESTS</a> </span>
-
-
-
-<span><a href="/Used-Cars/index.html" style="color:white" onmousedown="tkbk('2')">USED CARS</a> </span>
-
-
-
-<span><a href="/New-Cars/index.html" style="color:white" onmousedown="tkbk('2')">NEW CARS</a> </span>
-
-
-
-<span><a href="/Auto-Shows/index.html" style="color:white" onmousedown="tkbk('2')">AUTO SHOWS</a> </span>
-
-
-
-<span><a href="/Features/index.html" style="color:white" onmousedown="tkbk('2')">FEATURES</a> </span>
-
-
-
-<span><a href="/CAR-SHOWS/index.html" style="color:white" onmousedown="tkbk('2')">CAR SHOWS</a> </span>
-
-
+<span><a href="/News/index.html" style="color:white ;padding-left:20px; text-transform:uppercase">Autos News</a> </span>
 
 </div>
 
 
-
-
-
  
-
-</td>
-
-
-
-</tr>
-
-
-
-</tbody></table>
-
-
-
 </td>
 
 </tr>
 
+</tbody></table>
 
+</td>
+</tr>
 
 </tbody></table>
 
-
-
  
-
  
-
-
 
 </td>
-
-
 
 <td style="background:#E5E5E5 url('/images/shadow-right.gif');background-repeat: repeat-y;"><div style="width:15px;"></div></td>
-
 </tr>
-
-
 
 <tr>
-
 <td style="background:#E5E5E5 url('/images/shadow-corner-left.gif');background-repeat: no-repeat;background-position: -4px -16px;"></td>
 
-
-
-<td style=";clear:both;text-align:center;padding:20px 0 10px 0;font-size:11px;color:#000000;background:#E5E5E5 url('/images/shadow-bottom.gif');background-repeat: repeat-x;"> <div style="padding:5px;text-transform:uppercase;">Copyright ©2009 Dreamycar.com. All rights reserved.<a href="/contact.html" onmousedown="tkbk('532')">Contact us</a> | 
-
-  <a href="/PrivacyPolicy.html" rel="nofollow" target="3ds" onmousedown="tkbk('535')">Privacy Policy</a></div>
-
-
-
-
-
-</td>
-
+<td style=";clear:both;text-align:center;padding:20px 0 10px 0;font-size:11px;color:#000000;background:#E5E5E5 url('/images/shadow-bottom.gif');background-repeat: repeat-x;"> <div style="padding:5px;">Copyright 2007-2010 Dreamycar.com. All rights reserved.<a href="/contact.html">Contact Us</a> | <a href="/PrivacyPolicy.html">Privacy Policy</a></div>
+  </td>
 <td style="background:#E5E5E5 url('/images/shadow-corner-right.gif');background-repeat: no-repeat;background-position: -16px -16px;"></td>
-
 </tr>
-
-
-
 
 
 </tbody></table>
 
-
-
  
-
-
-
-
 
 
 
