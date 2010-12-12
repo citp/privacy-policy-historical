@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidetexas.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620124833id_/http%3A//insidetexas.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetexas.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212221558id_/http%3A//insidetexas.com/privacypolicy) for the most accurate reproduction.*
 
 # InsideTexas.com - Privacy Policy
 
