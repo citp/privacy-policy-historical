@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the googletheplanet.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620172023id_/http%3A//www.googletheplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googletheplanet.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212044151id_/http%3A//www.googletheplanet.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Hunt Down And Capture Mother Earth And Shoot The Planet With Safari - Rugged Lenses, Filters And Digital SLR Cameras!
+# Privacy | Go Ogle The Planet With Safari - Rugged Lenses, Filters And Digital SLR Cameras!
 
 Go Ogle The Planet takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
