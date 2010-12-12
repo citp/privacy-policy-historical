@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annarbor.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528212403id_/http%3A//www.annarbor.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annarbor.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212111206id_/http%3A//www.annarbor.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - AnnArbor.com
 
