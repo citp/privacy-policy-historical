@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020832id_/http%3A//atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212125312id_/http%3A//atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # City of Atlanta Online
 
-|   
-| [](https://web.archive.org/Mayor/Default.aspx)  
----  
-[](http://citycouncil.atlantaga.gov/)  
-[](https://web.archive.org/Government/Default.aspx)  
-[](https://web.archive.org/government/courts/municipalcourtofatlanta.aspx?section=CourtSystem)  
-[](https://web.archive.org/Government/Boards/brds_comm.aspx)  
-[](https://web.archive.org/CityChannel26/Default.aspx)  
-[](https://web.archive.org/CityServices/Default.aspx)  
-[](http://agency.governmentjobs.com/atlanta)  
-[](https://web.archive.org/Calendars/Default.aspx)  
-[](https://web.archive.org/EconomicDevelopment/Default.aspx)  
-[](https://web.archive.org/International/Default.aspx)  
-[](https://web.archive.org/OnlinePayments/Default.aspx)  
-[](https://web.archive.org/OtherAgencies.aspx)  
-|   
+  
 
 
 * * *
@@ -36,6 +21,3 @@ If you have questions about our Internet Privacy Guidelines, please feel free to
 * * *
 
 Official Website for the City of Atlanta • ©2020 • [Disclaimer](https://web.archive.org/Disclaimer.aspx) • [Privacy Policy](https://web.archive.org/PrivacyPolicy.aspx)
-
-|  |    
-
