@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607061534id_/http%3A//www.randmcnally.com/rmc/common/cmnPrivacy.jsp%3Fcmty%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212044716id_/http%3A//www.randmcnally.com/privacyPolicy.do) for the most accurate reproduction.*
 
-# Rand McNally
+# Privacy Policy - RandMcNally
 
 This is the Privacy Policy for RM Acquisition, LLC. d/b/a Rand McNally ("Rand McNally")
 
 Shopping and obtaining information on-line has changed our lives. At Rand McNally, your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. 
 
-This Privacy Policy applies only to information collected through Rand McNally’s website. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This Policy was last revised on June 1, 2010. 
+This Privacy Policy applies only to information collected through Rand McNally's website. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This Policy was last revised on June 1, 2010. 
 
 What information do we collect?  
 How do we use your information?  
@@ -20,7 +20,7 @@ Additional information and how to contact us
 
 What information do we collect?
 
-Every time you visit our website, our Web server automatically collects the following non-personally identifiable information: your Internet service provider’s address, the referring URL and information on the pages you access on our website.
+Every time you visit our website, our Web server automatically collects the following non-personally identifiable information: your Internet service provider's address, the referring URL and information on the pages you access on our website.
 
 We also collect personally identifiable information that you provide, such as survey information and information you provide when you make a purchase for a product or service, register your e-mail address, register a product or software or sign-up for sweepstakes or contests. If you register for our Rand McNally Classroom products and services, we will also ask you to provide your school or organization's name, school district, type of institution, enrollment and your position with that institution. If you have visited our website before and provided us with your email address, we collect information on what pages you access or visit while on our website.
 
@@ -38,16 +38,16 @@ The information we collect is used:
   * to improve the content and layout of our website for individual visitors
   * to notify you about updates to our website
   * to contact you for marketing purposes
-  * in some instances, shared with our parent company and affiliates (the **“Rand McNally Affiliates”** ) or other organizations for marketing purposes
+  * in some instances, shared with our parent company and affiliates (the **Rand McNally Affiliates** ) or other organizations for marketing purposes
   * for internal review
 
 
 
-When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file (including your name, address, phone number and e-mail address). You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings from Rand McNally, then please [ Click Here](http://www.randmcnally.com/contact) for information on where to reach us to remove yourself from our contact list.
+When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file (including your name, address, phone number and e-mail address). You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings from Rand McNally, then please [ Click Here](https://web.archive.org/contact.do) for information on where to reach us to remove yourself from our contact list.
 
-We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such e-mail from us in the future, please [ Click Here](http://www.randmcnally.com/contact) for information on where to contact us to remove yourself from our email list or, click on the "opt-out" link on any e-mail you receive from us. Please note that when you make a purchase and provide us with your e-mail address, we may send you confirmation of your order via e-mail even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order. 
+We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such e-mail from us in the future, please [ Click Here](https://web.archive.org/contact.do) for information on where to contact us to remove yourself from our email list or, click on the "opt-out" link on any e-mail you receive from us. Please note that when you make a purchase and provide us with your e-mail address, we may send you confirmation of your order via e-mail even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order. 
 
-We may supply our customer file (including your name, address, phone number and e-mail address) to certain Rand McNally Affiliates. In addition to information provided to Rand McNally Affiliates, we may also provide your name, address and phone number (but not your e-mail address) to a select group of companies who are not Rand McNally Affiliates and whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please [Click Here](http://www.randmcnally.com/contact) for information on where to contact us if you do not want us to share this information with Rand McNally Affiliates or other third parties. 
+We may supply our customer file (including your name, address, phone number and e-mail address) to certain Rand McNally Affiliates. In addition to information provided to Rand McNally Affiliates, we may also provide your name, address and phone number (but not your e-mail address) to a select group of companies who are not Rand McNally Affiliates and whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please [Click Here](https://web.archive.org/contact.do) for information on where to contact us if you do not want us to share this information with Rand McNally Affiliates or other third parties. 
 
 Note that Rand McNally Affiliates and other third parties with whom we share your information have their own privacy statements, and those statements apply to your personal information when it is held by such Rand McNally Affiliates or third parties. Please refer to the Rand McNally Affiliate or third party privacy statements, as applicable, for further information on how those entities treat your personal information.
 
@@ -83,7 +83,7 @@ return to top
 
 Children's Privacy
 
-Rand McNally does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our website, and we know that the person submitting the information is a Child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. If your child has submitted personal information to us and you would like to request that such information be removed from our customer lists, you may contact us using the “contact us” information listed below, and we will honor your request.
+Rand McNally does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our website, and we know that the person submitting the information is a Child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. If your child has submitted personal information to us and you would like to request that such information be removed from our customer lists, you may contact us using the contact us information listed below, and we will honor your request.
 
 While our Rand McNally Classroom product is for use specifically by students, any usage of the product is allowed only with a single, generic, school access password. We only count the number of users by school. No personal information is collected or stored by Rand McNally on student usage of the Classroom services.
 
@@ -100,7 +100,7 @@ We will provide you access to the following information if you send us an e-mail
 
 
 
-We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. [Click Here](http://www.randmcnally.com/contact) for Contact Information.
+We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. [Click Here](https://web.archive.org/contact.do) for Contact Information.
 
 return to top
 
@@ -128,7 +128,7 @@ Rand McNally Consumer Affairs
 P.O. Box 7600  
 Chicago, IL 60680-9915 
 
-Web: Please complete our online request form at [ Click Here](http://www.randmcnally.com/contact) indicating your question or comments.
+Web: Please complete our online request form at [ Click Here](https://web.archive.org/contact.do) indicating your question or comments.
 
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
