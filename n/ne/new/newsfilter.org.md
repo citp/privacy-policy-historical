@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621065014id_/http%3A//www.newsfilter.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212195832id_/http%3A//www.newsfilter.org/privacy.htm) for the most accurate reproduction.*
 
 # DMCA Policy
 
