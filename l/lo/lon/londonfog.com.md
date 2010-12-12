@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609164335id_/http%3A//www.londonfog.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213005506id_/http%3A//www.londonfog.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - London Fog Official Store
 
@@ -66,3 +66,17 @@ We may from time to time conduct on-line surveys. When you complete an online su
 **How Will I Be Informed About Changes Regarding This Privacy Policy?**
 
 If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred.
+
+**IV. INFORMATION FROM PERSONS UNDER THE AGE OF 13**
+
+NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/topics/kids-privacy.aspx) for tips from the Federal Trade Commission on protecting kidsí privacy online.
+
+We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. 
+
+If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. 
+
+If you are under the age of 13, please do not submit any personally identifiable information to us. 
+
+If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at [info@iconixbrand.com](mailto:info@iconixbrand.com) and we will remove such information from our database. 
+
+If you are concerned about your children's use of the Site, you may use web filtering technology to supervise or limit access to the Site.
