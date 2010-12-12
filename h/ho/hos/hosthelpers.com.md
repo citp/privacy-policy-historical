@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosthelpers.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404103000id_/http%3A//www.hosthelpers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosthelpers.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212114545id_/http%3A//www.hosthelpers.com/privacy.php) for the most accurate reproduction.*
 
 # HostHelpers.com - Free PHP cPanel Web Site Hosting
 
