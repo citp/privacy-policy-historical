@@ -1,32 +1,62 @@
-> *The following text is extracted and transformed from the plinky.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618225939id_/http%3A//www.plinky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plinky.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212173221id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
-# Plinky | Privacy Policy
+# Privacy Policy « Automattic
 
-* _Effective January 1, 2009_
-* Thing Labs, Inc. provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.plinky.com (this "Site"). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site.
-* ## 1\. Information Collection: The Personally Identifiable Information We Collect
+## Privacy Policy
 
-* In the course of using this Site, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, and information on your use of and activities at our Site that may be connected with you ("Personal Information"). Personal Information that we collect may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our Site.
-* When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website. This information may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to our Site and information you search for on our Site. Like many websites, we also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your registration ID and login password for future logins to the Site; and we use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.
-* ## 2\. How We Use Personal Information
+Your privacy is critically important to us. At Automattic we have a few fundamental principles:
 
-* Personal Information is used for the following purposes: (i) to provide and improve our Site, services, features and content, (ii) to administer your membership and your use of our Site, (iii) to enable users to enjoy and easily navigate the Site, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide or offer software updates and product announcements, and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See "Changing or Deleting Information," below.)
-* We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Site and our services and for the Site’s technical administration, to increase our Site's functionality and user-friendliness, to better tailor it to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors to the Site meet the criteria required to process their requests.
-* ## 3\. Information Sharing and Disclosure
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-* Plinky Users. We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account. Any information you choose to provide should reflect how much you want all other Plinky users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage users to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
-* Service Providers, Business Partners and Others. We may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Site-related services (including but not limited to maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and service are used. These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf. We may also provide Personal Information to our business partners or other entities with whom we have cooperative relationships so that they can send you promotional and other information and engage in any of the activities described in Section 2 above. 
-* Compliance with Laws and Law Enforcement. Thing Labs cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Thing Labs or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
-* Business Transfers. Thing Labs may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-* ## 4\. Changing or Deleting Your Information
 
-* All registered users may review, update, correct or delete the Personal Information provided in their registration or account profile by making changes on the settings page. If you completely delete all such information, then your account may become deactivated. 
-* ## 5\. Security
 
-* Thing Labs is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access.
-* ## 6\. Our Policy Toward Children
+Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
-* This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@plinky.com](mailto:privacy@plinky.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
-* ## 7\. Contacting Us
+If you have questions about accessing or correcting your personal data please contact our [support team](http://support.wordpress.com/).
 
-* If you have any questions about this Privacy Policy, please contact us at [privacy@plinky.com](mailto:privacy@plinky.com) or by fax at: (509) 357-6605.
+Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/), [intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
+
+### Website Visitors
+
+Like most website operators, Automattic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Automattic’s purpose in collecting non-personally identifying information is to better understand how Automattic’s visitors use its website. From time to time, Automattic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Automattic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+
+### Gathering of Personally-Identifying Information
+
+Certain visitors to Automattic’s websites choose to interact with Automattic in ways that require Automattic to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at [WordPress.com](http://www.wordpress.com/) to provide a username and email address. Those who engage in transactions with Automattic – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Automattic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Automattic. Automattic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Aggregated Statistics
+
+Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
+
+### Comments
+
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time, and in Automattic’s sole discretion. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**Change log:**
+
+July 1, 2010: Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
+
+October 29, 2009: Added Comments paragraph to explain Akismet comment storage policy
+
+March 10, 2009: Added Ads paragraph to alert users that ads from third parties may use cookies
