@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getus.in privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511224048id_/http%3A//getus.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getus.in privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212075913id_/http%3A//getus.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,10 +7,6 @@ This document describes the information we collect and how it is used.
 **Server Logs**
 
 The data recorded includes information provided by your browser as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We also collate this data for statistical purposes.
-
-**Service Logs**
-
-The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. We may be required, by law, to provide logs of our service and if requested, such data will be disclosed.
 
 **Cookies**
 
