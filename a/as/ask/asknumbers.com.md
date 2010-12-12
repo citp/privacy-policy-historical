@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asknumbers.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223610id_/http%3A//www.asknumbers.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknumbers.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212051018id_/http%3A//asknumbers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
-
-**Privacy Policy:**
 
 Thank you for visiting www.asknumbers.com. We respect your privacy and committed to protect your privacy while online at our site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy. The following discloses the information gathering practices for this web site. 
 
@@ -12,7 +10,7 @@ We use third-party advertising companies such as Google to serve ads when you vi
 
 **Cookies / Tracking Technology :**
 
- A cookie is a small file containing a string of characters sent to your computer or other device that uniquely identifies your browser. Our site don’t use cookies but our business partners use cookies on our site (for example, Google Adsense) to improve the quality of their advertisement service. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings if you wish so. 
+A cookie is a small file containing a string of characters sent to your computer or other device that uniquely identifies your browser. Our site don’t use cookies but our business partners use cookies on our site (for example, Google Adsense) to improve the quality of their advertisement service. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings if you wish so. 
 
 **Log Files:**
 
@@ -26,10 +24,10 @@ This web site contains some selected links to other web sites. Please be aware t
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: [webmaster@asknumbers.com](mailto:webmaster@asknumbers.com)
 
-**Terms of Use :**
+## Terms of Use :
 
 Although all the precautions have been taken in the preparation of these metric conversion, information pages and tables, we assume no responsibility for the errors that have been made. We disclaim all the liability (including negligence) for claims of losses, expenses, damages and costs the user may incur as a result of information on this site. 
 
-Users should independently verify the accuracy, currency, completeness and relevance of the material on this site, or information contained in it. In particular, users should seek independent professional advice before making any investment or business decisions. If you find an error, please report it to usso we will correct it as soon as possible. 
+Users should independently verify the accuracy, currency, completeness and relevance of the material on this site, or information contained in it. In particular, users should seek independent professional advice before making any investment or business decisions. If you find an error, please report it to us so we will correct it as soon as possible. 
 
 No part of these conversion, information pages and tables shall be reproduced, stored or transmitted by any means, without prior written permission from the publisher. 
