@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607132755id_/https%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212055333id_/http%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : ASP NET Windows Web Hosting by ASPnix
 
@@ -32,7 +32,8 @@ It is ASPnix's policy not to use or share the personal information about Visitor
 
 "Cookies" and How ASPnix Uses Them
 
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. ASPnix may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our networks. If you are a Member, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-ASPnix Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.  
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. ASPnix may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our networks. If you are a Member, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-ASPnix Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+
 Non-affiliated partner or sponsors may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
 ASPnix recommends that children ask a parent for permission before sending personal information to ASPnix, or to anyone else online.
