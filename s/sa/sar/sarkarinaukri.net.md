@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkarinaukri.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211051id_/http%3A//www.sarkarinaukri.net/privacy-policy-of-sarkarinaukri-net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukri.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212101557id_/http%3A//www.sarkarinaukri.net/privacy-policy-of-sarkarinaukri-net) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,7 +39,7 @@ The advertisers may also use “Interest Based Advertising” – the details of
 
 You should consult the respective  
 privacy policies of these third-party ad servers for more detailed  
-information on their practices as well as for instructions about how to opt-out of certain practices. “Sarkari Naukri”’s  
+information on their practices as well as for instructions about how to opt-out of certain practices. “Sarkari Naukri”‘s  
 privacy  
 policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 If you wish to disable cookies, you may do so through your individual browser options. More detailed  
