@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaenj.org privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608012219id_/http%3A//www.aaenj.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaenj.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212025917id_/http%3A//aaenj.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - aaenj.org
 
