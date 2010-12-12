@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asklots.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210185603id_/http%3A//asklots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asklots.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212041009id_/http%3A//asklots.com/privacy.html) for the most accurate reproduction.*
 
 # Asklots.com
 
