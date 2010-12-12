@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypefortype.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522230017id_/http%3A//hypefortype.com/%3Fpage%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypefortype.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212143720id_/http%3A//hypefortype.com/%3Fpage%3D13) for the most accurate reproduction.*
 
 # HypeForType Buy Fonts, Try Fonts, Exclusive Faces - Privacy Policy
 
