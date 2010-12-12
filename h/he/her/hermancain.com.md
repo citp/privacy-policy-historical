@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hermancain.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528173906id_/http%3A//www.hermancain.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermancain.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212052955id_/http%3A//hermancain.com/privacy.asp) for the most accurate reproduction.*
 
 # Herman Cain: T*H*E New Voice
 
