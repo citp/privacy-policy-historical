@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteevolutioncenter.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610210320id_/http%3A//www.infiniteevolutioncenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteevolutioncenter.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/privacy.html) for the most accurate reproduction.*
 
 # Traffic & List Building, Blogging, Ecommerce and Wealth Building Coaching Programs
 
@@ -76,7 +76,7 @@ We know that you care how your information is used, and we appreciate your trust
   
 ---  
   
-| [ COACHING & MENTORING](https://web.archive.org/web/20100610210320id_/http%3A//www.infiniteevolutioncenter.com/coaching.html) | [DFY MARKETING](https://web.archive.org/web/20100610210320id_/http%3A//www.infiniteevolutioncenter.com/dfymarketing.html) | [ PERSONAL GROWTH ](https://web.archive.org/web/20100610210320id_/http%3A//www.infiniteevolutioncenter.com/personalgrowth.html)| [ CONTACT](http://www.infiniteevolutioncenter.com/support) | [ABOUT US ](https://web.archive.org/web/20100610210320id_/http%3A//www.infiniteevolutioncenter.com/aboutus.html)| [ HOME](https://web.archive.org/web/20100610210320id_/http%3A//www.infiniteevolutioncenter.com/index.html) |  
+| [ COACHING & MENTORING](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/coaching.html) | [DFY MARKETING](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/dfymarketing.html) | [ PERSONAL GROWTH ](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/personalgrowth.html)| [ CONTACT](http://www.infiniteevolutioncenter.com/support) | [ABOUT US ](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/aboutus.html)| [ HOME](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/index.html) |  
 
 
 * * *
