@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607052929id_/http%3A//amritatv.com/html/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212152017id_/http%3A//amritatv.com/html/privacypolicy.php) for the most accurate reproduction.*
 
 # Amrita Television - Privacy Policy
 
