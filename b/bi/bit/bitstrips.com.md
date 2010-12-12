@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605015331id_/http%3A//www.bitstrips.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitstrips.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212152412id_/http%3A//bitstrips.com/privacy.php) for the most accurate reproduction.*
 
 # Bitstrips: Privacy Policy
 
