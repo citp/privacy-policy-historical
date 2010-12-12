@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amc.edu privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628005624id_/http%3A//www.amc.edu/About%2520Us/web_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amc.edu privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212224002id_/http%3A//amc.edu/About%2520Us/web_privacy.html) for the most accurate reproduction.*
 
 # Albany Medical Center: Consumer Website Privacy Statement
 
