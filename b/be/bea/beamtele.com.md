@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518060016id_/http%3A//beamtele.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D20%26Itemid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212222143id_/http%3A//beamtele.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D20%26Itemid%3D16) for the most accurate reproduction.*
 
 # Beam Telecom -- Make The Right Connection
 
