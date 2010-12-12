@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061842id_/http%3A//www.4qsurvey.com/en/para-nav/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212191730id_/http%3A//www.4qsurvey.com/en/para-nav/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | 4Q Survey
+# Privacy policy | Free 4Q Online Survey - © iPerceptions 2010 | 4Q Survey
 
 This privacy statement covers iPerceptions Inc.’s (“iPerceptions” or “us”) “4Q” service (the “Service”) available at 4q.iperceptions.com
 
@@ -52,6 +52,12 @@ If iPerceptions decides to change our privacy policy, we will post those changes
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our web site.
 
 We may enter into discussions or negotiations with a third party (anywhere in the world) regarding the sale of all (or substantially all) of iPerceptions’ business or the acquisition of a controlling interest in iPerceptions’ share capital. Since customer information and data would normally be a part of such a transaction, iPerceptions reserves the right to transfer any information you submit and we retain to that third party as part of due diligence activities or to complete the transaction.
+
+## Google Analytics Integration - Data Usage Policy
+
+This section describes the authentication and authorization method used by 4Q to access Google Analytics, as requested in the GA Integration setup process. To maintain a high level of security, 4Q uses the Authorization Proxy service (Auth Sub.), enabling 4Q to get access to the necessary information without ever handling the Google Analytics users' account login information. To maximize security, 4Q uses a one-time-use token allowing the application to make a single call to the Google service, as shown below:
+
+After the Account Authorization is complete and the access has been granted from the user, 4Q will request and display the Web Properties (Accounts, Website profiles) as a drop down list in the Google Analytics Integration setup, allowing the user to select the desired Web Property to which 4Q data will be pushed. Follow this link for more information on the [Auth Sub](http://code.google.com/apis/accounts/docs/AuthSub.html).
 
 ## Contact Us
 
