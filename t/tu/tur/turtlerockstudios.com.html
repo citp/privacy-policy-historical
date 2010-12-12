@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the turtlerockstudios.com privacy policy that was archived on 2010-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100305050046id_/http%3A//www.turtlerockstudios.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the turtlerockstudios.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212031431id_/http%3A//www.turtlerockstudios.com/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Turtle Rock Studios Privacy Policy
@@ -82,6 +82,31 @@ else
 }
 //-->
 </script>
+
+<script type="text/javascript" src="include/jquery.min.js"></script>
+<script type="text/javascript" src="include/fadeslideshow.js">
+/***********************************************
+* Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+</script>
+<script type="text/javascript">
+var mygallery=new fadeSlideShow({
+	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
+	dimensions: [398, 142], //width/height of gallery in pixels. Should reflect dimensions of largest image
+	imagearray: [
+		["images/adtop_gb.jpg", "http://www.turtlerockstudios.com/garagebuddy/", "_new", ""],
+		["images/adtop_ls.jpg", "http://www.turtlerockgarage.com/leapsheep/", "_new", ""] //<--no trailing comma after very last image element!
+	],
+	displaymode: {type:'auto', pause:2500, cycles:0, wraparound:false},
+	persist: false, //remember last viewed slide and recall within same session?
+	fadeduration: 500, //transition duration (milliseconds)
+	descreveal: "ondemand",
+	togglerid: ""
+})
+</script>
+
 </head>
 <body onresize="reCenter();">
 <div id="wrapper" style="position: absolute; left: 33px;">
@@ -108,7 +133,19 @@ else
 												<td>
 													<img src="images/TL_spacer.jpg" alt=""></td>
 												<td>
-													<a href="http://store.steampowered.com/app/500/" target="_blank"><img src="images/adtop_l4d.jpg" alt="Buy Left 4 Dead"></a></td>
+													<div id="fadeshow1" style="position: relative; visibility: visible; background: black; overflow: hidden; width: 398px; height: 142px;"><div class="gallerylayer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background: black;"><a href="http://www.turtlerockstudios.com/garagebuddy/" target="_new">
+<img src="images/adtop_gb.jpg" style="border-width: 0px; display: none;">
+</a>
+<a href="http://www.turtlerockgarage.com/leapsheep/" target="_new">
+<img src="images/adtop_ls.jpg" style="border-width: 0px; display: none;">
+</a>
+</div><div class="gallerylayer" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background: black;"><a href="http://www.turtlerockstudios.com/garagebuddy/" target="_new">
+<img src="images/adtop_gb.jpg" style="border-width: 0px; display: none;">
+</a>
+<a href="http://www.turtlerockgarage.com/leapsheep/" target="_new">
+<img src="images/adtop_ls.jpg" style="border-width: 0px; display: none;">
+</a>
+</div><img src="loading.gif" style="position: absolute; left: 172px; top: 16px; display: none;"></div></td>
 												<td>
 													<img src="images/TR_spacer.jpg" alt=""></td>
 												<td>
