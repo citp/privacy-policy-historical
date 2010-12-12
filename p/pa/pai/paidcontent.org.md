@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidcontent.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195931id_/http%3A//paidcontent.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidcontent.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212233103id_/http%3A//paidcontent.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | paidContent
 
