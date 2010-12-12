@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovegames1.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326022000id_/http%3A//www.lovegames1.com/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovegames1.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212012516id_/http%3A//www.lovegames1.com/info_privacy.html) for the most accurate reproduction.*
 
 # None
 
