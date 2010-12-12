@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429164654id_/http%3A//www.vitsoe.com/en/gb/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212103926id_/http%3A//www.vitsoe.com/en/us/footer/privacy) for the most accurate reproduction.*
 
 # Vitsœ | Footer / Privacy
 
@@ -45,6 +45,6 @@ By submitting your information you consent to the use of that information as set
 We welcome your views about our website and our Privacy Policy. Should you wish to contact us regarding our website or Privacy Policy please do so.
 
 Vitsœ Limited is a company registered in England and Wales.  
-Registered Office 72 Wigmore Street, London W1U 2SG  
+Registered Office Centric Close, London NW1 7EP  
 Company Number 2014122  
 VAT number GB 437 2545 47
