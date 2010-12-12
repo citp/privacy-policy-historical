@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepakistan.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605175926id_/http%3A//www.onepakistan.com/data/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepakistan.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212120754id_/http%3A//www.onepakistan.com/data/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Home of Pakistan | Pakistan News, Entertainment, Cricket, Pakistan Forums, Business, Politics | OnePakistan.com
 
