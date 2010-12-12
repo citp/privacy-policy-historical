@@ -1,91 +1,82 @@
-> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309065328id_/http%3A//www.jckonline.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212202638id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
 
-# JCK Online
+# Privacy Policy - Jewelers' Circular Keystone - JCK
 
-_Last Revised: November 2007_
+_The effective date of this policy as posted is May 2010._
 
-Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
+Reed Exhibitions and JCKonline.com®, which includes JCK Magazine, respect the information provided by our site visitors. Because we gather certain types of information when customers visit our web site, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers and to make you aware of your choices with regard to our use of the information you provide to this site.
 
-This Privacy Policy describes the policies of Reed Business Information (" ** _RBI_** " or " ** _we_** "), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
+### US Policy
 
-  * Information obtained when you (" ** _you_** " or " ** _User_** ") visit the [JCK Online](https://web.archive.org/common/jumplink.php?target=http%3A//www.jckonline.com "JCK Online") web site (this "Site").
-  * Information obtained through e-mail communications with you related to the Site.
+JCKonline.com® is managed by Reed Exhibitions (RX-US), a division of Reed Elsevier, Inc, and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at <http://www.reedexpo.com/>. 
 
+### Our Customers
 
+This policy applies to all customers and visitors of JCKonline.com.  This policy does not apply to other JCK-branded products and services and it does not apply to information we collect by other methods. Your use of this site constitutes your acceptance of this policy and your consent to any action we take with respect to your information in compliance with this policy.
 
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
+### Customer Information and Use
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+JCKonline.com captures two categories of information when you visit or register for this site or request products and services related to this site.
 
-* * *
+Professional Information includes, but is not limited to name, address, phone number, fax number, and email address, as well as certain information pertaining to your place of business and job responsibilities.  Professional information may be stored in our customer database for our internal use.  
 
-## Information We Collect and How We Collect It
+Financial Information is payment information used when you request a product or service from JCKonline.com for which there is a fee and includes, but is not limited to, credit card numbers, financial institutions, and expiration dates. This information is not used for any purpose other than that for which it is being provided to us, and is used only to the extent necessary for processing the transaction or to facilitate future transactions. 
 
-We require you to provide certain information about yourself when you register with this Site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards).
+We use your Professional Information for the following purposes:
 
-The information we collect may include information from which you may be personally identified (" **Personally Identifiable Information** "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
-
-When you visit this Site, we may collect the IP address of your computer. We also use [automatic data collection](https://web.archive.org/info/automatic_data_collection.php "automatic data collection") technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
-
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit [http://www.networkadvertising.org/optout_nonppii.asp](https://web.archive.org/common/jumplink.php?target=http%3A//www.networkadvertising.org/optout_nonppii.asp "www.networkadvertising.org/optout_nonppii.asp"). You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.doubleclick.com/privacy/](https://web.archive.org/common/jumplink.php?target=http%3A//www.doubleclick.com/privacy/ "www.doubleclick.com/privacy/").
-
-* * *
-
-## How We Use Your Information
-
-We use Personally Identifiable Information collected on this Site for the following purposes:
-
-  * To provide you with this Site and other products and services.
-  * To respond to your inquiries and contact you about changes regarding the Site.
-  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-  * For any other purpose disclosed at the time the information is collected or to which you consent.
-  * As otherwise specifically described in this Privacy Policy.
+  * To provide you with this site and other products and services
+  * To respond to your inquiries and contact you about changes regarding this site
+  * To provide you with account-related notices such as expiration or renewal of services or products from this site and for billing and collection purposes
+  * For any other purpose disclosed at the time the information is collected or to which you consent
+  * As otherwise specifically described in this Privacy Policy
 
 
 
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.
+Professional information may be, upon the consent of JCKonline.com and RX-US, shared with other Reed Exhibitions, Reed Elsevier or industry-related third party organizations for the purpose of facilitating business relationships believed by RX-US to be in our customers' best interests.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates. These communications may include e-mail newsletters, as well as offers for other RBI and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
+Portions of this site may be provided as “Sponsored” content.  This is made available to users on the condition that certain of the user’s Professional Information is shared with the Sponsor and the advertiser(s) of their content.  We will always disclose this when you are registering for “Sponsored” products or services on this site.
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager") with the subject line " ** _opt out - third party._** "
+Some of the materials included in this site, including advertising, are served by third parties who, in the course of serving such materials, may collect information regarding your use of the site and to communications related to the content they serve on this site.  Collection, use, disclosure and security of this information are subject to the privacy policies of those third parties.  For more information about this practice, please visit [http://www.networkadvertising.optout_nonppii.asp](http://www.networkadvertising.optout_nonppii.asp/) or to view the privacy policy of DoubleClick, a third party that serves ads to this site, visit [www.privacychoices.org](http://www.privacychoices.org/)
 
-* * *
+### Opting Out
 
-## Our Disclosure of Your Information
+RX-US will accept, implement and maintain any customer request to opt out of future communication from JCKonline.com, RX-US, or any third party to whom JCKonline.com provided the customer's information. If you would like to opt out of communications you receive from JCKonline.com, RX-US, Reed Exhibitions or Reed Elsevier, send an email to [privacymanager@jckonline.com](mailto:privacymanager@jckonline.com) with the subject line “opt out – JCKonline”.
 
-We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
+To discontinue receipt of communications sent by third parties, send an email to [privacymanager@jckonline.com ](mailto:privacymanager@jckonline.com%20) with the subject line “opt out – third party”
 
-  * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.
-  * Portions of this Site may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User's registration information with the Premium or Sponsored content's sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager") with the subject line: " **do not disclose.** "
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.
-  * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
-  * When disclosure is necessary to accomplish the purpose for which you provide it.
-  * To other Reed Elsevier member companies for any uses consistent with those disclosed in this Privacy Policy.
+To opt-out of professional information that may be shared to third party owners of “Sponsored” content on this site, send an email to [privacymanager@jckonline.com ](mailto:privacymanager@jckonline.com%20) with the subject line “opt out – do not disclose”.
+
+### Security
+
+This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you. 
+
+JCKonline.com uses Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering. 
+
+### Cookies and GIFs
+
+When you visit this site, we may collect the IP address of your computer.  We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this site.  Methods of collecting this information may include “cookies” and “clear GIFs” (also knows as “pixel tags” or “beacons”).  A cookie is a bit of data sent by a web site through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. The JCKonline.com web site uses temporary, session-specific cookies to ensure visits to its web sites are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. We use permanent or persistent cookies that remain on a visitor's computer after the visitor leaves the JCKonline.com web site. However, our cookies neither reveal nor contain any identifying or personal data. Cookies also cannot read any information on a visitor's computer or interact with other cookies on the visitor's hard drive. 
+
+If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our web site from functioning properly and you may not be able to utilize fully all of the site's features and information. 
+
+A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message.  A clear GIF can monitor certain user behavior such as your usage of the site, whether you opened an email message, or whether you clicked on a URL in the email message.  We do not collect Professional or Financial information this way, but if you provided Professional Information to this site, we may associate that information with the behavioral information collected automatically from the clear GIF.
+
+### Policy Changes
+
+RX-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.  Your continued use of this site after any and all Policy changes means that you accept the changes.
+
+### Review and Correction of Customer Information or Other Questions
+
+If you have any questions or concerns about your customer information or your request to opt-out of communications or services from JCKonline.com or its third party partners, or if you would like to review the information we've collected about you, please call or write our Privacy Manager: 
+
+Reed Exhibitions  
+Privacy Manager  
+383 Main Avenue  
+Norwalk, CT 06851
+
+Phone: Within the US at 888-306-2344  
+From Outside the US at 203-840-5810  
+Email: [privacymanager@jckonline.com ](mailto:privacymanager@jckonline.com%20)
+
+  * [](http://www.addthis.com/bookmark.php)
 
 
-
-* * *
-
-## Security
-
-We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
-
-* * *
-
-## Right to Access and Change Information
-
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to subsmail@reedbusiness.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
-
-* * *
-
-## Links
-
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
-
-**_This Site is operated by:_**  
-Reed Business Information  
-360 Park Avenue South  
-New York, NY 10010-1710  
-Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager")
