@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhatuniversity.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209220435id_/http%3A//www.blackhatuniversity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhatuniversity.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212101504id_/http%3A//blackhatuniversity.com/privacy.htm) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -100,18 +100,18 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 LATEST UPDATE
 
-This Privacy Policy was last updated on: October 4, 2009. 
+This Privacy Policy was last updated on: July 25, 2010. 
 
 COPYRIGHT
 
-This Privacy Policy is used under license. The copyright is owned by Kaizen Applications LLC.
+This Privacy Policy is used under license. The copyright is owned by BlackHatUniversity.com.
 
   
 DISPUTES
 
 As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
 
-Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller. 
+Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in Massachusetts. 
 
 In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal. 
 
@@ -126,4 +126,4 @@ APPLICABLE LAW
 
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).  
 COPYRIGHT AND LICENSE   
-This "Privacy Policy" is copyrighted © 2003-2009 by Kaizen Applications LLC, and is fully licensed for use by this website.
+This "Privacy Policy" is copyrighted © 2003-2009 by BlackHatUniversity.com, and is fully licensed for use by this website.
