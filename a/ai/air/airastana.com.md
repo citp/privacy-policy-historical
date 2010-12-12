@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527074808id_/http%3A//www.airastana.com/int/gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212033511id_/http%3A//www.airastana.com/int/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Air Astana - Information and Services - Terms and Conditions - Privacy Policy
+# Air Astana - Privacy Policy
 
 Air Astana is committed to protecting privacy of its customers.
 
@@ -10,17 +10,14 @@ We will never wilfully disclose personal information about you to any third part
 
 You can always enquire about or check the information that you have given us by contacting us.
 
-_Data protection_
+ **Data protection**
 
 We take necessary measures for the protection of the data against wrongful access, change, disclosing or destruction. This includes internal check of processes of gathering, storage and data processing and security measures, and also measures on maintenance of physical safety of the data for prevention of wrongful access to systems in which we store the personal data.
 
 We give access to the personal data only those workers, contractors and agents of Air Astana whom this information is necessary for operation, development and improvement of our services. These persons are contractually obliged to maintain the confidentiality of this information.
 
-_Security policy_
+ **Security policy**
 
 To ensure the security of your personal data information when you book flights through www.airastana.com, SSL (Secure Sockets Layer) with 128 Bit encryption technology is used to transfer your data securely. It encrypts all of your personal information, including credit/debit card number, so that it cannot be read as the information travels over the Internet.
 
-If your browser does not support SSL, we recommend you to update to the latest version of any browser to improve the security of transactions, otherwise the transmission of your personal information may not be protected and Air Astana disclaims any responsibility in this regard.
-
-  
-
+If your browser does not support SSL, we recommend you to update to the latest version of any browser to improve the security of transactions, otherwise the transmission of your personal information may not be protected and Air Astana disclaims any responsibility in this regard. 
