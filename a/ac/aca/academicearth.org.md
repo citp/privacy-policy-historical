@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330152532id_/http%3A//www.academicearth.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212140415id_/http%3A//academicearth.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Academic Earth
 
