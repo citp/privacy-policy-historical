@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528204207id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212074307id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
 
 # MediaPost - news and directories for media, marketing and online advertising professionals
 
@@ -62,9 +62,9 @@ Shipping charges are specified at time of purchase and are the full responsiblit
 Domestic (USA only) shipping charges for the monthly print magazines are included as part of the subscription, all other products and services are stated at time of purchase. 
 
 |  **MediaPost Communications**  
-1140 Broadway  
-4th floor  
-New York, NY 10001  
+15 East 32nd Street  
+7th floor  
+New York, NY 10016  
 Phone: (212) 204-2000  
 Fax: (212) 204-2038
 
@@ -88,7 +88,7 @@ Director, Online Media Sales
 [seth@mediapost.com](mailto:seth@mediapost.com)
 
 **Jon Whitfield**  
-Director, Events Sales  
+Vice President, Events Sales  
 (212) 204-2025  
 [jon@mediapost.com](mailto:jon@mediapost.com)
 
@@ -99,7 +99,7 @@ Director, Conferences & Events
 
 **Jonathan McEwan**  
 Creative Director  
-(212) 204-2000  
+(212) 204-2015  
 [jonnymack@mediapost.com](mailto:jonnymack@mediapost.com)
 
 **Mark Kecko**  
