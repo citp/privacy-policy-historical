@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justjared.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614062120id_/http%3A//justjared.buzznet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justjared.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212074102id_/http%3A//justjared.buzznet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy And Consumer Education | Just Jared
 
@@ -26,7 +26,7 @@ Personal Information is used for the following purposes: (i) to provide and impr
 
 Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
 
-Buzznet also uses the services of a third party vendor, Omniture, to help us measure the effectiveness of our advertising and how visitors use the Site. Although Omniture logs the information coming from our Site on our behalf, Buzznet controls how that data may and may not be used. If you do not want to assist Buzznet in improving our Site, products, offers and marketing strategy, you can “opt-out” of Omnitures web-Site analysis tool by clicking here: http://buzznet.122.2O7.net/optout.html
+Buzznet also uses the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.
 
 **INFORMATION SHARING AND DISCLOSURE**
 
@@ -64,3 +64,5 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 **CONTACTING BUZZNET**
 
 If you have any questions about this Privacy Policy, please contact us at contact@buzznet.com. You may also contact us by mail at Buzznet.com, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
+
+Updated: 09/08/2010
