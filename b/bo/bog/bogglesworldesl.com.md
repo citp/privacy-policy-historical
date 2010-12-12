@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120202133id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212221055id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
 
 # Presentation: Youngsan
 
 This privacy statement covers the site www.bogglesworldesl.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.   
-1.      What personally identifiable information Boggle's World collects.  
+1.      What personally identifiable information Lanternfish collects.  
 2.      What personally identifiable information third parties collect through the Web site.  
 3.      What organization collects the information.   
-4.      How Boggle's World uses the information.  
-5.      With whom Boggle's World may share user information.   
+4.      How Lanternfish ESL uses the information.  
+5.      With whom Lanternfish may share user information.   
 6.      What choices are available to users regarding collection, use and distribution of the information.   
-7.      What types of security procedures are in place to protect the loss, misuse or alteration of information under Boggle's World control.   
+7.      What types of security procedures are in place to protect the loss, misuse or alteration of information under Lanternfish control.   
 8.      How users can correct any inaccuracies in the information.
 
 If users have questions or concerns regarding this statement, they should contact Chris Gunn at [gunnchris@bogglesworldesl.com](mailto:gunnchris@bogglesworldesl.com).
@@ -17,23 +17,23 @@ If users have questions or concerns regarding this statement, they should contac
 **Information Collection and Use**
 
 **Information Collection:  
-** Boggle's World uses three third party ad servers:
+** Lanternfish uses third party ad servers:
 
-[Burstmedia.com](http://burstmedia.com/), [Fastclick.com](http://fastclick.com/), and [Google Adsense](http://google.com/). 
+[Burstmedia.com](http://burstmedia.com/), [Fastclick.com](http://fastclick.com/), Adify, Commission Junction, Allposters.com and [Google Adsense](http://google.com/). 
 
 These third party ad servers only collect non-personally identifiable information such as I.P. addresses and collect aggregate statistics such as page views. For more details about the information that they collect please view their privacy statements.
 
-Boggle's World collects both aggregate information throughout the site and personally indentifiable information at one point in the site, the discussion forums.
+Lanternfish ESL collects both aggregate information throughout the site and personally indentifiable information at one point in the site, the discussion forums.
 
 Registration  
 No information is required to register for this site. However, registration may be required to use some sections of the member forum. See profile below:
 
   
 Information Use  
-Except for the discussion forums, any information collected on this site by Boggle's World is of a non-personal nature.  Boggle'sWorld does not store or keep personal information on record but does keep aggregate numbers on the number of visitors, method of arriving at bogglesworldesl.com, location by region, servers, monitor type and operating systems. __T__ _ _o use some sections of the discussion forum, however, users may be required to provide some personal information as listed in the profile below__. The information collected in registration will not be used for any purposes other than administering the board and will never be given or sold to third parties under any circumstance. However, there is always a security risk from criminal parties hacking into the MY SQL database that we use. 
+Except for the discussion forums, any information collected on this site by Lanternfish ESL is of a non-personal nature.  Boggle'sWorld does not store or keep personal information on record but does keep aggregate numbers on the number of visitors, method of arriving at bogglesworldesl.com, location by region, servers, monitor type and operating systems. __T__ _ _o use some sections of the discussion forum, however, users may be required to provide some personal information as listed in the profile below__. The information collected in registration will not be used for any purposes other than administering the board and will never be given or sold to third parties under any circumstance. However, there is always a security risk from criminal parties hacking into the MY SQL database that we use. 
 
 Profile  
-Boggle's World does collect profiles of users who wish to register for the discussion forum. The discussion forum is made from PHPBB2 software. The only information that registrants must supply is a valid email address. However, the registration sheet does allow them to provide more information such as job, country, interests, and other electonic communication channels that they use.  For more information on the type of information that can be supplied visit the [registration page](http://bogglesworldesl.com/phpbb/phpBB2/profile.php?mode=register&sid=0b5744240a88fddd5e1e0ee58314b2e6).
+Lanternfish ESL does collect profiles of users who wish to register for the discussion forum. The discussion forum is made from PHPBB2 software. The only information that registrants must supply is a valid email address. However, the registration sheet does allow them to provide more information such as job, country, interests, and other electonic communication channels that they use.  For more information on the type of information that can be supplied visit the [registration page](http://bogglesworldesl.com/phpbb/phpBB2/profile.php?mode=register&sid=0b5744240a88fddd5e1e0ee58314b2e6).
 
 Cookies  
 A cookie is a piece of data stored on the user's computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  We use both session ID cookies and persistent ID cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates.  A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.   
@@ -86,5 +86,4 @@ If, however, we are going to use users’ personally identifiable information in
 Contact Information  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Phone 82328337360  
 Email gunnchris@bogglesworldesl.com [gunnchris@bogglesworldesl.com](mailto:gunnchris@bogglesworldesl.com)
