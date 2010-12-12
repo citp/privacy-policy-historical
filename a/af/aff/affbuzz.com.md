@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630233833id_/http%3A//affbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212053652id_/http%3A//affbuzz.com/privacy) for the most accurate reproduction.*
 
 # Affbuzz.com - Affiliate Marketing News & Blog Aggregator
 
