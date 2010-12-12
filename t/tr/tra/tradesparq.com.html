@@ -1,36 +1,53 @@
-<!--The following is the downloaded HTML source of the tradesparq.com privacy policy that was archived on 2010-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100214211006id_/http%3A//www.tradesparq.com/user_privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradesparq.com privacy policy that was archived on 2010-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212092121id_/http%3A//www.tradesparq.com/user_privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="templates/css/base.css" rel="stylesheet" type="text/css">
-<link href="templates/css/layout.css" rel="stylesheet" type="text/css">
-<link href="templates/css/foot.css" rel="stylesheet" type="text/css">
+<meta content="Tradesparq Corporation" name="Publisher">
+<meta name="description" content="Tradesparq Online Privacy Statement Highlights">
+<meta content="privacy, privacy policy" name="Keywords">
+<link href="templates/en_us/css/base.css" rel="stylesheet" type="text/css">
+<link href="templates/en_us/css/layout.css" rel="stylesheet" type="text/css">
+<link href="templates/en_us/css/foot.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="scms/include/js/jquery.js"></script>
-<script type="text/javascript" src="templates/js/language/en_us.js"></script>
+<script type="text/javascript" src="templates/en_us/js/language/en_us.js"></script>
 <script type="text/javascript" src="scms/js/general.function.js"></script>
-<script type="text/javascript" src="templates/js/function.common.js"></script>
-<script type="text/javascript" src="templates/js/firstebox/jquery.firstebox.js"></script>
-<script type="text/javascript" src="templates/js/jquery.progressbar.js"></script>
-<link rel="stylesheet" href="templates/js/firstebox/css/firstebox.css" type="text/css" media="screen">
+<script type="text/javascript" src="templates/en_us/js/function.common.js"></script>
+<script type="text/javascript" src="templates/en_us/js/asyncscript.js"></script>
+<script type="text/javascript" src="templates/en_us/js/firstebox/jquery.firstebox.js"></script>
+<script type="text/javascript" src="templates/en_us/js/jquery.progressbar.js"></script>
+<script type="text/javascript" src="templates/en_us/js/jquery.pngFix.pack.js"></script>
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script>
+<script type="text/javascript" src="templates/en_us/js/indexeffect.js"></script>
+<link rel="stylesheet" href="templates/en_us/js/firstebox/css/firstebox.css" type="text/css" media="screen">
 <meta name="robots" content="index, follow">
 <meta name="Description" content="">
-<link rel="shortcut icon" href="/templates/images/favicon.ico" type="image/x-icon">
-<link href="templates/import/page.css" rel="stylesheet" type="text/css">
-<title>TradeSparq.com China's Suppliers, Manufacturers, Importers and Exporters Social Network</title>
+<link rel="shortcut icon" href="templates/en_us/favicon.ico" type="image/x-icon">
+<link href="templates/en_us/import/page.css" rel="stylesheet" type="text/css">
+<!--[if IE 6]>
+<link href="templates/en_us/css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="templates/en_us/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<title>TradeSparq.com - china suppliers, social commerce, manufacturers, made in china, importers, exporters, china trade, export network, import network, manufacturers network</title>
 <script type="text/javascript">
 	
 </script>
-</head>
+<script src="https://cdn.uservoice.com/javascripts/widgets/tab.js" type="text/javascript" async=""></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript" async=""></script><script src="https://www.tradesparq.com/piwik/piwik.js" type="text/javascript" async=""></script></head>
 <body>
-	<script type="text/javascript">
+	<script type="text/javascript" language="javascript">
     jQuery(function(){
         jQuery("#sub").click(function(){
             var sea = jQuery(".search_select").val();
-            var keywords = jQuery(".search_input").val();
-		
-            window.self.location = 'user_search.php?keywords='+keywords+'&search='+sea;
-		
+            var keywords = jQuery("#keyword").val();
+
+           window.location.href = 'user_search.php?keywords='+keywords+'&search='+sea;
         });
 	
         jQuery("#keyword").live("keydown",function(event){
@@ -81,6 +98,18 @@
                 }) ;
             }
         }) ;
+        
+        $('#activator').click(function(){
+            $('#overlay').fadeIn('fast',function(){
+            	var top = $(window).scrollTop();
+                $('#box').animate({'top':'' + (160 + top) + 'px'},500);
+            });
+        });
+        $('#boxclose').click(function(){
+            $('#box').animate({'top':'-200px'},500,function(){
+                $('#overlay').fadeOut('fast');
+            });
+        });
 	
     });
 
@@ -103,44 +132,63 @@
         color:#fff ;
     }
 </style>
+<!--Follow Us-->
+<div class="shape" style="z-index:9999;">
+        <a class="activator" id="activator"><img src="templates/en_us/images/side_follow_us.png" border="0"></a><a href="http://tradesparq.uservoice.com/forums/82201" onmouseover="UserVoice.Popin.preload(uservoiceOptions);" onclick="UserVoice.Popin.show(uservoiceOptions); return false;"><img src="templates/en_us/images/side_feedback.png" border="0"></a>
+</div>  
+<div class="overlay" id="overlay" style="display:none;"></div>
+<div class="box" id="box">
+ 	<a class="boxclose" id="boxclose"></a>
+ 	<h1>Follow Us</h1>
+	<div class="box_contents">
+        <a href="http://www.linkedin.com/groupRegistration?gid=3072902" target="_blank"><img src="templates/en_us/images/LinkedIn.png" class=""></a>
+    	<a href="http://www.linkedin.com/groupRegistration?gid=3072902" target="_blank" class="text">LinkedIn</a>
+		    	<a href="http://www.facebook.com/#!/group.php?gid=126241464069584&amp;ref=ts" target="_blank"><img src="templates/en_us/images/Facebook.png" class=""></a>
+    	<a href="http://www.facebook.com/#!/group.php?gid=126241464069584&amp;ref=ts" target="_blank" class="text">Facebook</a>
+    		</div>
+</div>  
+
+<!--end follow us-->
 
 <!--dropdown label-->
 <div id="user_window" style="width:180px ;border:1px #2C7EA3 solid; position:absolute; display:none ;z-index:9999 ; background:#fff ;">
     <div class="user" style="width:180px ; overflow:hidden ;"></div>
-    <div style="text-align:right"><a href="javascript:" onclick="jQuery(this).parent().parent().hide();">Close</a></div>
+    <div style="text-align:right"><a href="javascript:void(0);" onclick="jQuery(this).parent().parent().hide();">Close</a></div>
 </div>
 
 <div id="head">
-    <div class="logo"><a href="http://www.tradesparq.com"><img src="templates/images/logo.gif" alt="China Suppliers and Manufacturers TradeSparq.com"></a></div>
+	<div class="logo"><a href="http://www.tradesparq.com"><img src="templates/en_us/images/logo.gif" alt="China Suppliers and Manufacturers TradeSparq.com"></a></div>
     <div id="head_right">
         <div class="navs">
             <ul>
-                <li style=" background:none;"><a href="sign_out.php">Sign Out</a></li>
-                <li><a href="user_foot_help.php">Help</a></li>
-                <li><a href="user_index.php">Home</a></li>
+                                <li style=" background: none;"><a href="sign_in2.php">Sign in</a></li>
+                <li><a href="register.php">Join now</a></li>
+                <li><a href="how_works.php">How it works</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="user_contact_us.php">Feedback</a></li>
             </ul>
-
-            <div class="search_button left" style="height:20px; padding-right:5px; ">
-                <select name="search" class="search_select">
-                    <option value="all">Search All</option>
-                    <option value="user">Search People</option>
-                    <option value="ads">Search Ads</option>
-                    <option value="product">Search Products</option>
-                    <option value="group">Search Groups</option>
-                    <option value="event">Search Events</option>
-                </select>
-            </div>
-
-            <div style="width:200px; float:left; height:20px;">
-                <div class="search left">
-                    <input name="keyword" id="keyword" type="text" class="search_input">
-                </div>
-                <div style="float:left; margin-left:-26px; width:25px; padding-top:1px;"><a href="javascript:"><img id="sub" src="templates/images/serch.jpg"></a></div>
-            </div>
-
         </div>
-        <div class="nav_bottom"><img src="templates/images/connects.gif" alt="Where trade connects"></div>
-    </div>
+        <div class="search_component">
+       		<div class="search_button">
+       		    <select name="search" class="search_select">
+       		        <option value="all">Search All</option>
+       		        <option value="user">Search People</option>
+       		        <option value="ads">Search Ads</option>
+       		        <option value="product">Search Products</option>
+       		        <option value="group">Search Groups</option>
+       		        <option value="event">Search Events</option>
+       		    </select>
+       		</div>
+       		<div class="left">
+       		    <div class="search_input">
+       		        <input name="keyword" id="keyword" value="" type="text" class="search_input">
+       		    </div>
+       		    <div class="search_submit">
+					<a href="javascript:void(0);" id="sub"><img src="templates/en_us/images/serch.jpg"></a>
+				</div>
+       		</div>
+	    </div> <!-- /search component -->
+   	</div>
     <div class="clear"></div>
     <div id="_loading" class="loading"></div>
 </div>
@@ -281,36 +329,74 @@
             <li><a href="user_privacy_policy.php">Privacy Policy</a></li>
             <li><a href="sitemap.php">Site Map</a></li>
             <li><a href="user_contact_us.php">Contact Us</a></li>
+            <li><a href="javascript:showSearches();">Popular Searches</a></li>
+            <li><a href="./news">News</a></li>
         </ul>
     <div class="footer_content">
         Copyright © 2009-2010 Tradesparq Ltd. All rights reserved.
     </div>
 </div>
+<script type="text/javascript">
+  var uservoiceOptions = {
+    key: 'tradesparq',
+    host: 'tradesparq.uservoice.com', 
+    forum: '82201',
+    lang: 'en',
+    showTab: false
+  };
 
+  loadScriptAsync("cdn.uservoice.com/javascripts/widgets/tab.js", function(){});
+  
+</script>
 <!-- G Analytics -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-11204542-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+loadScriptAsync("google-analytics.com/ga.js", function(){
+	try {
+	var pageTracker = _gat._getTracker("UA-11204542-2");
+	pageTracker._trackPageview();
+	} catch(err) {}
+}, 'ssl.', 'www.');
+</script>
 <!-- End G Analytics Tag -->
 
 <!-- Piwik -->
 <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.tradesparq.com/piwik/" : "http://www.tradesparq.com/piwik/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.tradesparq.com/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://www.tradesparq.com/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
-<!-- End Piwik Tag -->    </div>
+loadScriptAsync("www.tradesparq.com/piwik/piwik.js", function(){
+	try {
+	var piwikTracker = Piwik.getTracker("http://www.tradesparq.com/piwik/piwik.php", 1);
+	piwikTracker.trackPageView();
+	piwikTracker.enableLinkTracking();
+	} catch( err ) {}
+});
+</script>
+<noscript><p><img src="http://www.tradesparq.com/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
+<!-- End Piwik Tag -->
+
+<!-- Google Code for Join Member Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1024215550;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "6OdCCPLH4wEQ_pOx6AM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1024215550/?label=6OdCCPLH4wEQ_pOx6AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+function showSearches(){
+$('div.link_foot').toggle();
+}
+</script>
+
+    </div>
 	
 
 
