@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearinsider.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106014523id_/http%3A//bearinsider.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearinsider.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212064157id_/http%3A//bearinsider.com/privacypolicy) for the most accurate reproduction.*
 
 # BearInsider.com
 
