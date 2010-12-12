@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americannewsproject.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123075514id_/http%3A//americannewsproject.com/page/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americannewsproject.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212092645id_/http%3A//americannewsproject.com/page/35) for the most accurate reproduction.*
 
 # Privacy Policy | American News Project
 
