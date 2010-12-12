@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401044659id_/http%3A//www.appliedbank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedbank.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212032356id_/http%3A//appliedbank.com/privacy.aspx) for the most accurate reproduction.*
 
 # Applied Bank - Privacy Policy
 
