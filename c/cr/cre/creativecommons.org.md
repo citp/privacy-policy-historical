@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628234723id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212183713id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Creative Commons
 
@@ -123,8 +123,12 @@ The Websites are hosted in the United States. If you are accessing the Websites 
 
 We may occasionally update this Privacy Policy. When we do, we will also revise the Effective Date below. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the Websites constitutes your agreement to this Privacy Policy and any updates.
 
+## Using this Privacy Policy for Your Own Purposes
+
+The Creative Commons Privacy Policy is licensed under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/). You are free to use and adapt this Privacy Policy for your own purposes. However, please keep in mind that this policy, as written, may not be completely suitable for your situation. Creative Commons strongly encourages you to seek the advice of your own attorney or counsel before using this Privacy Policy.
+
 Questions?
 
 If you have questions about this Privacy Policy, please contact us by email at legal@creativecommons.org.
 
-Effective Date: March 3, 2010 ([Prior Privacy Policy](http://creativecommons.org/privacy-policy-pre-2010-03-03))
+Effective Date: August 10, 2010
