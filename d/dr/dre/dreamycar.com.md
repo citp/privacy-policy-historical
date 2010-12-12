@@ -1,30 +1,26 @@
-> *The following text is extracted and transformed from the dreamycar.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205171432id_/http%3A//www.dreamycar.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamycar.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212204731id_/http%3A//dreamycar.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-**Links to Other Web Sites.**
+Dreamycar.com is committed to protecting the personal information you choose to share with us. Below is our privacy guarantee and some additional information about how we gather information about our registered users, why we gather it, and what we do with it.
 
-We make content or services from our other web sites available to you from links located on us. We also offer through links a collection of services provided by third parties. In order to use third parties' services you will be directed to pages on their web sites, which may be co-branded with the us logo. Please remember that when you visit these other web sites, even the affiliated and co-branded sites, the sites' own privacy policies apply.
+We will not willfully disclose any individually identifiable information about you to any outside source without your express consent.
 
-**Information We Collect**   
-Web Site Usage Information: We automatically collect IP addresses and Web Site usage information from you when you visit our Web Site. This information helps us evaluate how our visitors use and navigate our Web Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. 
+**General information**  
+We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you.
 
-General: When you use some of the site's special features we will collect personally identifiable information from you that may include your name, phone number, address, e-mail address and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen. 
+**Opting out of third-party ad servers**  
+Although most Dreamycar.com customers indicate that they welcome details of offers and other promotional material about Dreamycar.com products and services and products and services provided by our business partners and advertisers, we acknowledge the right of our customers to choose. You will be given the right to opt-out of receiving such information whenever you are asked to provide information on this site. If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us as set out below, indicating that you no longer want to receive: (1) information relating to products and services provided by other companies, or (2) any information relating to products and services (including Dreamycar.com products and services).
 
-Surveys: We may conduct occasional online surveys. For example, when you are within our Web Site, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys are entirely voluntary and you may easily decline to participate.
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site): Commission Junction.
 
-**How We Use Information Collected**   
-We may use information in the following ways: 
+**Security**  
+This site incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us.
 
-For the purposes for which you specifically provided the information, for example, to process and fulfill your subscriptions to our e-mail newsletters, review and post your contributions to discussion groups and to process and forward to franchisers your franchiser information requests.
+**External Links**  
+Dreamycar.com provides links to various Web sites that we do not control as well as to our sponsors. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that you selected. Even if an affiliation exists between our Web site and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site that is linked to our site, you should consult that site's privacy policy before providing any personal information.  
 
-To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you.
 
-To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences.
+**Network Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp   
 
-To enhance existing features or develop new features, products and services.
-
-To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
-
-We may combine the information that we collect from you on this Web Site with information that you provide to us in connection with your use of our other products, services and web sites. 
