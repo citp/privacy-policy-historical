@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hioxindia.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411190633id_/http%3A//www.hioxindia.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hioxindia.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212085925id_/http%3A//hioxindia.com/ppolicy.php) for the most accurate reproduction.*
 
 # HIOX INDIA Privacy Policy
 
@@ -39,4 +39,4 @@ HIOX INDIA will use and share the personally identifiable information you provid
 
 ### Contacting Us:
 
-If you have any questions about our site, this privacy policy, or our general procedures, please Contact Us at [support@hioxindia.com](mailto:support@hioxindia.com). 
+If you have any questions about our site, this privacy policy, or our general procedures, please Contact Us at [privacy@hioxindia.com](mailto:privacy@hioxindia.com). 
