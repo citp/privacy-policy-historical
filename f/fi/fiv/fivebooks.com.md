@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613000907id_/http%3A//fivebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212195817id_/http%3A//fivebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FiveBooks
 
