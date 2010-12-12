@@ -1,61 +1,41 @@
-> *The following text is extracted and transformed from the articlesbin.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601153933id_/http%3A//www.articlesbin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbin.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212170737id_/http%3A//articlesbin.com/privacy.php) for the most accurate reproduction.*
 
-# ArticlesBin - Video Article Marketing
+# ArticlesBin Niche Autoresponder Series
 
-ArticlesBin Directory Privacy Policy
+  
+Recommended  
+[](http://www.articlesbin.com/bannerclick.php?id=12)
 
-Thank you for visiting my site. I value your privacy as much as you do so I've written this privacy policy so you may understand what information may be collected, why and how it will be used. You can then decide if you wish to use my site and service as a fully informed visitor.
+ArticlesBin Niche Autoresponder Series Privacy Policy
 
-### Information Collection
+  
+Welcome to ArticlesBin Niche Autoresponder Series (the "Site"). 
 
-Now or in the future, you may be able to buy products, enter contests, vote in polls, subscribe to my newsletter, comment on posted articles or otherwise express an opinion. Some of these activities may require you to provide your name, address, e-mail address or other personal information needed to provide you with good service and support.
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by ArticlesBin Niche Autoresponder Series (collectively, "Services") ("Authorized Customers"). 
 
-My server, as are most, is configured to collect some non-personally identifiable information such as the browser you are using (e.g., Internet Explorer, FireFox, Mozilla), the Operating System you are using, (e.g., Windows 'XP or Mac OS) and the domain name of your Internet service provider (e.g., America Online, RoadRunner).
+"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
-### How I use the information you provide
+What Personally Identifiable Information is collected? We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
-The information you provide allows me to deliver the product or service you are requesting. Your information may also allow me to directly answer your questions, share with you similar products or services that you might find useful or to improve my existing product or services.
+How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
-I keep your information available so I can also let you know when changes are made in my service that may affect you either directly or indirectly, to contact you about your account with me or to deliver a newsletter.
+How is Personally Identifiable Information stored? Personally Identifiable Information collected by ArticlesBin Niche Autoresponder Series is securely stored and is not accessible to third parties. 
 
-The information you provide through ANY interactive means on my website may be used to help build an interactive community that will benefit us all and, from time to time, deliver advertisements for related products or services.
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at office@articlesbin.com 
 
-Any testimonials, "letter to the editor", or other comments, suggestions, etc. that I feel might help the community might be used with partial information about you so others KNOW I am giving you credit.
+Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
-I do sometimes use the non-personally identifiable information that is collected to personalize your experience on my site. This information, when combined with that of others, is used to track site usage, to improve the site or to improve the content. The aggregated information I collect is also useful in deciding which products or services you may find the most appealing.
+How does ArticlesBin Niche Autoresponder Series use login information? ArticlesBin Niche Autoresponder Series uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
-I am legally bound to turn over your personal information to the appropriate authorities when they deliver the right legal papers. I may also disclose your information to the proper agency when I believe it is necessary to investigate, prevent, or take action regarding illegal activities. Personal information about you may be transferred to another if I am bought out or merge with another person or company.
+How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at office@articlesbin.com 
 
-Any members of my staff that has access to your personally identifiable information are required to protect your information in a manner that is designed to protect you as stated in this policy. Your information is to be used **only** in the course of conducting business.
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting office@articlesbin.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
-I have safeguards in place to protect your private information but I cannot guarantee that these safeguards will never be circumvented and your personally identifiable information accessed without authorization.
+What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
-I will not use or transfer your personally identifiable information in any manner inconsistent with what is mentioned above without giving you the opportunity to opt out of the unrelated use.
+Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-### Cookies and Web Beacons
+  
+Copyright (c) 2006 - 2010 ArticlesBin Niche Autoresponder Series All Rights Reserved 
 
-Some of my web pages use “cookies” so I can enhance your experience on my site. A cookie is a small text based file that is placed on your computer and they are used to store your preferences. Cookies do not store personally identifiable information such as your name, email address or other personal information about you. If you choose to give me personal information by filling in a form or by interacting with the site in some way, the information YOU entered may be linked to the data stored in the cookie.
-
-Cookies are used by me and many other webmasters to improve the content, products and services that are offered to you. A cookie that is stored on your computer is why you are sometimes greeted by name when you return to a site. These cookies may tell me which product or service you may be interested in so I can present it first for your convenience.
-
-I may use clear graphics on some web pages to collect data about the visitors to those pages. These graphics are known as "Web beacons" and the data that is collected is NOT identifiable to one person. It may give a total visitor count to that page or other aggregated statistical data that’s useful for web design, content creation and my promotional efforts.
-
-### Third Party Sites, Ad Servers and Sponsor Collected Data
-
-I do have advertisements, links to external sites and other websites that I may own or have an interest in and EACH of these sites has its own privacy policy. You are responsible for checking the privacy policy of EACH site you visit because they may differ from this one. I have no control over any information that is collected by sites that I do not completely own.
-
-I reserve the right to run advertising, contests or surveys where you enter information on my site and that information may be made available to a third party. You will be notified BEFORE you submit your information whether it is a situation where your data may be made available to another party.
-
-Many of my sites display advertisements from reputable third parties. These third parties may use cookies, web beacons or other technologies to determine the effectiveness of the advertisements and THEIR privacy policies cover the data they collect through these technologies.
-
-### Security of ANY Data I Collect 
-
-I have policies in place that limits who can access any data I collect, how it is to be used and by whom. I also have electronic security in place for any data you choose to give me. Protecting your personal data is as important to me as protecting my own so I use every physical and electronic measure at my disposal to keep your information secure.
-
-### Accessing or Correcting Information
-
-Any personally identifiable information you provide me may usually be accessed or changed but the exact procedure varies with the type of information provided and the site you used to provide the information. Please contact me using the contact link or form on the site if information on how to access or change your data isn’t readily available for you to read.
-
-### Privacy Policy Updates
-
-It may be necessary to modify this privacy policy from time to time. I will usually notify you by placing a notice on the website, by email or both but it is a good idea to periodically reread this information in case changes were made and you missed the notice.
+[Login](https://web.archive.org/memberlogin.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)| [ Article Directory](http://www.articlesbin.com/blog)
