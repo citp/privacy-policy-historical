@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessconsciousness.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510005536id_/http%3A//www.accessconsciousness.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessconsciousness.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212191140id_/http%3A//accessconsciousness.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Policy - Privacy
 
@@ -6,7 +6,7 @@ www.accessconsciousness.com (referred to hereinafter as "AccessConsciousness.com
 
 #### Internet Protocol (IP) Address 
 
-An IP address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from AccessConsciousness.com, our servers log the user�s current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personal information about you. 
+An IP address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from AccessConsciousness.com, our servers log the user’s current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personal information about you. 
 
 #### Cookies 
 
