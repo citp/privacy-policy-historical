@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the articleside.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516193147id_/http%3A//www.articleside.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleside.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212100535id_/http%3A//www.articleside.com/privacypolicy) for the most accurate reproduction.*
 
 # Article Side - Privacy Policy
-
-[](http://www.articleside.com/ "Article Directory")
-
-## Premium Article Directory!
 
 [Home](https://web.archive.org/index.html) Privacy Policy
 
