@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aralifestyle.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627072655id_/http%3A//www.aralifestyle.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aralifestyle.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212022343id_/http%3A//aralifestyle.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ We will use non-personal information to help us make our websites more useful to
 **Contact Us.**   If you have questions or comments about this Privacy Policy, please contact us at [info@aranetonline.com](mailto:info@aranetonline.com) or send us a letter addressed by First Class Postage Prepaid U.S. Mail or overnight courier to the following address:
 
 Privacy Officer, ARANet, Inc.  
-701 Fifth Street South  
+850 Fifth Street South  
 Hopkins, MN 55343
 
 This Policy was last updated on March 10, 2010. We reserve the right to change this Policy at any time, and will post any changes to this Policy on this page or a similar page of this website as soon as they go into effect. Please refer back to this Policy on a regular basis. 
