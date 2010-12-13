@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgpaymail.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103101605id_/http%3A//www.bgpaymail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgpaymail.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213125934id_/http%3A//bgpaymail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # BGPayMail.com
 
