@@ -1,145 +1,105 @@
-> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2007-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070618145824id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213074017id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
 
 # ServiceMagic - Privacy Statement
 
-**SERVICEMAGIC PRIVACY POLICY - Effective August, 2005**
+|  Privacy Statement  
+  
+ServiceMagic, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to ServiceMagic, Ask.com, College Humor, Match.com, Citysearch, Evite, Gifts.com, Shoebuy and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, ServiceMagic has revised its [Privacy Policy](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp), effective September 26, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/rfs/aboutus/privacyFAQ.jsp) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy.
 
-This privacy policy applies to [http://www.servicemagic.com](http://www.servicemagic.com/) and all websites and URL's controlled or operated by ServiceMagic, Inc., which link to this policy, unless otherwise specified.
+**Consumer Privacy at ServiceMagic, Inc., an IAC Company**
 
-This is a new privacy policy effective as of the date set forth above. Even if you read and approved a prior policy, you need to review this new version as it has been updated and revised.
+At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of ServiceMagic, please click [here](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp).
 
-Titles and headings are provided for general reference and ease of use only, as information may be covered in more than one heading or under other headings.
+We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
 
-If users have questions or concerns regarding this statement, they should first contact ServiceMagic's privacy department at [privacy@servicemagic.com](mailto:privacy@servicemagic.com).
+We also may collect other types of information in the following ways when you visit our website: 
 
-**Information Collection**
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
-**Registration and Service Professional Enrollment**  
-In order to complete a service request or to enroll as a prospective service professional, a user must first complete a registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which they have expressed interest, to inform service professionals of leads, and/or inform customers about service professionals they matched to. By providing this information to us, or by submitting a service request, you expressly consent to being contacted by us and by our service professionals and providers via phone, fax, email, mail or other reasonable means, at any of your contact numbers or addresses, in order that we may provide the services set forth on our Web site, service your account, reasonably address matters pertaining to your account or for other reasonable purposes related to our business. Unique identifiers (such as username and password) are required. It is optional for the user to provide demographic information (such as income level and gender) but encouraged so we can provide a more personalized experience on our Web site. We also require a US service professional's social security number or federal tax id number to complete a background check (credit is not checked), prior to a US service professional being approved to join our network.
+  
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act. We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
 
-**Service Request**  
-We request information from the consumer in our service request interview process. A user must provide detailed information about the service requested. No financial information (such as credit card number, expiration date) is collected from the consumer. This information is used to match consumers with appropriate service professionals. The information may also be used to contact the consumer to verify or clarify their service request or to customize the consumer's Web site experience or future ServiceMagic communication. 
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
 
-**Feedback, Ratings and Reviews and Testimonials**  
-Additionally, we collect feedback from users (called ratings and reviews) about the performance of Service Professionals who work for them. We also collect general feedback and testimonials from users of our service and system. By providing such feedback to us, you consent to our use, publication and/or distribution of such feedback at no compensation to you, and if you are a Service Professional in our system, you acknowledge that all such ratings and reviews are solely owned by ServiceMagic, and you consent to the publication of ratings and reviews about you and your business. 
+  
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information. We may use information to: 
 
-**Information Use**
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Customize the advertising and content that you see on our website;
+  * Facilitate use of our website;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our website, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our website; and
+  * Enforce our Terms of Use.
 
-**Profile**  
-We store information that we collect through the Web site experience and activities, cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences, activities and interactions with ServiceMagic. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent marketing promotions and communications to them. 
+  
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
 
-**Cookies**  
-A cookie is a piece of data tied to information about the user and stored on the user's computer. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted. 
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
-By setting a persistent cookie, we enable our users to not have to log in with a password more than once, thereby saving time while on our Web site. If users reject these cookies, they may still use our Web site. The only drawback to this is that the experience and/or access of a user may be limited in some areas of our Web site. For example, the user may not be able to participate in any of our sweepstakes, contests or monthly drawings that may take place. See the "Profile" section. 
+  
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.  
+You may choose: 
 
-We may use third-party advertising companies to serve ads on our behalf and to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. These companies, which may include OPM Performance Marketing ("OPM"), a division of Overture Services, Inc. ("Overture") and Microsoft, Inc., may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
+  * For consumer users, to stop receiving promotional emails or newsletters from us by accessing your user account and opting out;
+  * To delete or decline cookies, lower down on this page] by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
+  * To learn about additional choices, [click here](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp#your_choices).
 
-**Third Party Advertising**  
-Some of our business partners may use cookies on our Web site (for example, advertisers). We have no access to or control over these cookies once our business partners have been given permission to set cookies. This privacy statement covers the use of cookies by ServiceMagic only and does not cover the use of cookies by any advertisers. 
+  
+  
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Web site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
+**Changes to our Privacy Policy**
 
-**Clear Gifs** (Web Beacons/Web Bugs)  
-We employ and/or our third party advertisers employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site and marketing campaigns by informing us what content and which campaigns are effective. Clear gifs are tiny graphics, about the size of a period at the end of a sentence, with a unique identifier. Clear gifs are similar in function to cookies and are used to track the online movements of Web users. 
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the Web site or advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or Web site. To learn more about our advertising partners' use of clear gifs, please contact us at [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
+**How to contact us**  
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp), or our information practices, please contact us by email or postal mail below:
 
-In addition, ServiceMagic and its advertisers use clear gifs in HTML-based emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns by showing how may emails have been opened by the recipients. If users would like to opt-out of these emails, please see the Opt-out section. 
+Privacy Officer  
+ServiceMagic, Inc.  
+14023 Denver West Parkway, Suite 200  
+Golden, Colorado 80401  
+[privacyofficer@servicemagic.com](mailto:privacyofficer@servicemagic.com?Subject=Privacy%20Policy)
 
-**Communications from ServiceMagic and its Service professionals**
+Your California Privacy Rights
 
-**Special Offers and Updates**  
-We send all new members a welcoming email to verify password and username. Members will occasionally receive information on products, services, special deals, and a bi-monthly newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletters, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections. 
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  2. the names and addresses of the third parties that received that information; and
+  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
 
-**Service Announcements**  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [SB27Request@ServiceMagic.com](mailto:SB27Request@ServiceMagic.com).
 
-**Leads Notifications and Trial Lead Notifications**  
-If a user either signs up for our trial program or joins our service professional network, and elects to receive their leads via email, that user will receive multiple communications from us. Other ways we contact members of our service professional network are via fax, pager, outbound IVR (interactive voice response), and/or cell text (SMS) messaging. Members of our service professional network (or prospective members enrolled in Free Trial) can designate and opt-in on our Web site or by contacting customer service to receive leads in one or more of these formats. 
+© IAC/InterActiveCorp. All rights reserved.
 
-**Customer Service**  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account via email, fax, phone or mail, and we reply to user inquiries via email or phone, or other reasonable means, in accordance with the user's wishes where applicable. 
+Linked information:
 
-**Sharing Information to Provide Services and to Conduct Our Business**
+ _Cookies:_
 
-When you submit information to ServiceMagic, you authorize us to share this information with our network of service professionals and partners in order to try to provide the services you request. For example, when an approved member of our service professional network accepts a lead from a registered user, and that user indicates what personal information they are willing to share so that the service professional can contact the user, such as telephone numbers, physical addresses and email addresses, that information is shared with our service professionals who have accepted a service request lead. In addition, we have other approved contractual partners that fulfill services requests, or that utilize their own service professionals to supplement our network, and we share your information with them, subject to contractual confidentiality restrictions, in order to attempt to provide the services requested. If using our services pursuant to a membership with one of our partners, ServiceMagic may share your service request activity information with such partner in certain circumstances. We may also post and publish users’ ratings and reviews of Service Professionals' performance, as well as feedback and testimonials at our sole discretion. We may also release information to collection and/or credit agencies for past due service professional accounts. 
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
 
-Though we strive to preserve user privacy, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will always remain confidential. By way of example, we may disclose personal information when required by law wherein we have a belief that such action is necessary or advisable to comply with a judicial proceeding, court order, legal proceeding, process or investigation served on our business or Web site(s), or when we believe parties are misusing or attempting to misuse our Web sites or services, including but not limited to violating the law, committing fraud, deception, theft, attempting to harm or divert our business, engaging in threatening or inappropriate behavior or threatening to place, or placing themselves or others in danger. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to require us to share or transfer your information to third parties. Finally, although we strive to protect your privacy, third parties beyond our control may unlawfully intercept or access transmissions or private communications. Therefore, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
 
-ServiceMagic will not be responsible or otherwise liable for any use or disclosure of your personal information by a third party to whom ServiceMagic is allowed to disclose you personal information under this privacy policy.
+You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-**Aggregate Information** (non-personally identifiable)  
-ServiceMagic may share aggregated activity or statistical information with partners, advertisers or others, but such information shall not contain personally identifiable information. 
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
-**Business Transitions**  
-In the event ServiceMagic goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. See also, section entitled "Changes and updates to this policy..." set forth below. 
+ _Web Beacons:_
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Web site at the point where we ask for information. For example, our service request form has an 'opt-out' mechanism so users who submit a service request from us, but don't want any marketing material, can keep their email address off of our marketing lists. 
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the email or email us at [customerservice@servicemagic.com](mailto:customerservice@servicemagic.com). 
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional [or other] e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
 
-Users of our Web site are always notified when their information is being collected by any outside parties (excluding our affiliates, service providers, or agents) for marketing purposes. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
-
-**Links and Integrated Partnerships**  
-This Web site contains links from and to other Web sites. Please be aware that ServiceMagic is not responsible for the privacy practices of such other Web sites. We encourage our users to be aware of this when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ServiceMagic’s Web site. 
-
-With some partners, ServiceMagic receives information concerning the service requested by a consumer including personal or contact information that is inputted on a partner Web site. This information is sent from the partner to us either in a batched format, or via Internet technology such as XML, FTP or HTTP Post. This information may or may not be encrypted by the partner. With other partners, ServiceMagic may provide information concerning a consumer's service request, including contact information to other partners to provide services. 
-
-**Surveys & Contests**   
-From time-to-time, ServiceMagic may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and mailing address), and demographic information (such as zip code). Contact information will be shared with the contest or survey sponsors (if ServiceMagic elects to utilize an outside promotions or survey company) to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our services and this Web site. 
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our Web site, we ask them for the friend's name and email address. ServiceMagic will automatically send the friend a one-time email inviting them to visit the Web site. ServiceMagic stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact ServiceMagic at [privacy@servicemagic.com](mailto:privacy@servicemagic.com) to request the removal of this information from our database. 
-
-**Security**  
-"Perfect security" does not exist on the Internet and we do not guarantee security of information or that unauthorized access will not occur. However, we take all reasonable precautions when protecting your personal information. Servers that store personally identifiable information are located in a supervised and/or locked facility. Users' personal information off line is restricted by our internal security procedures, and authorized access to such information is only provided to our employees and contractors who reasonably need the information for their areas of responsibility (for example, a billing clerk, a sales rep, a customer service representative or management). 
-
-Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. 
-
-If users have any questions about the security at our Web site, users can send an email to [privacy@servicemagic.com](mailto:privacy@servicemagic.com). 
-
-**COPPA**  
-In accordance with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we do not knowingly collect personally identifiable information from anyone under the age of 13. Registration on the Sites and Services is not available to anyone under the age of 13.
-
-**Verification and Supplementation of Information**   
-In order for us to better conduct our business it is sometimes advisable or necessary for us to verify and/or supplement the information we receive from service providers and users of our Web site with information from 3rd party sources, provided that such sources confirm to us that they are permitted to share such information, such information is publicly available or the collection is required or authorized by law. Examples of collection from other sources include collections from:
-
-     • insurance companies;  
-     • government agencies or registries; and  
-     • the Better Business Bureau; 
-
-**Enhancement of Marketing Profile**  
-Occasionally, we purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the 'profile' of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information. See also the "Profile." 
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**   
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a means to access, correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [customerservice@servicemagic.com](mailto:customerservice@servicemagic.com). Or, contact us by telephone or postal mail at the contact information listed below. Please note that deleting your account information will not delete all of your contact information or other information contained on our systems, as much or all of this information will be retained to preserve records of our commercial relationship with you, or as required by law. Further, certain information may have already been provided to third parties as described herein. 
-
-**Denial of Access to Personal Information**   
-Your rights to access your personal information are not absolute. We may deny access:
-
-     • when denial of access is required or authorized by law;  
-     • when granting you access would have an unreasonable impact on other people’s privacy;  
-     • to protect our Company’s rights and property; or  
-     • where the request is frivolous or vexatious.
-
-If we deny your request for access to, or refuse a request to correct Personal Information, we will explain why. 
-
-**Changes and Updates to This Policy and to ServiceMagic Services, Products and Functionality of Web Site(s)**   
-We reserve the right to change our information, features, services, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Policy will be in writing and be posted on our Web site as applicable. Please check these terms periodically for changes. At the top of the policy we indicate the date of an update. The continued use of any ServiceMagic services or of the applicable ServiceMagic affiliated web sites following the posting of changes to these terms will mean you accept those changes. 
-
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-ServiceMagic  
-14023 Denver West Parkway  
-Bldg. 64, Suite 200  
-Golden, CO 80401  
-(877) 800-3177  
-[customerservice@servicemagic.com](mailto:customerservice@servicemagic.com) or   
-[privacy@servicemagic.com](mailto:privacy@servicemagic.com)
+[Back to Top]
