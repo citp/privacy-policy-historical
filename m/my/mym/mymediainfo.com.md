@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613235454id_/http%3A//www.mymediainfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213162621id_/http%3A//mymediainfo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MyMediaInfo - Media Contacts, Editorial Calendars and Profiles
 
-| [MyMediaInfo Home Page  >>  ](https://web.archive.org/web/20100613235454id_/http%3A//www.mymediainfo.com/index.html)[Privacy Policy](https://web.archive.org/web/20100613235454id_/http%3A//www.mymediainfo.com/privacy-policy.html)
+| [MyMediaInfo Home Page  >>  ](https://web.archive.org/web/20101213162621id_/http%3A//mymediainfo.com/index.html)[Privacy Policy](https://web.archive.org/web/20101213162621id_/http%3A//mymediainfo.com/privacy-policy.html)
 
 **Privacy**  
 RedEgg Solutions Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. RedEgg Solutions Inc. believes that concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all visitors of web sites owned and operated by RedEgg Solutions Inc
