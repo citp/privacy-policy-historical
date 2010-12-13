@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630084212id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213164518id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
 
 # USATODAY.com
 
