@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animefansftw.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624055550id_/http%3A//www.animefansftw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animefansftw.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213193522id_/http%3A//www.animefansftw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « AnimeFansFTW – Where the fans rule!
 
