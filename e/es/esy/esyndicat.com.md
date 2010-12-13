@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604001520id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213072046id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script
 
@@ -30,8 +30,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-We switched 18 Months ago to Esyndicat directory software, because we thought it was the best option out there. The latest version is far superior to that product and to all their competitors. I particularly like the broad range of useful plugins that enable this product to be a comprehensive portal product.
-
-Sincerely,
-
-Shane
+eSyndiCat directory software is the best in the market. And what makes is best is the effort done by its coders, to make it simple & easy, as well the way they support their product. Ask them anything & they are ready with the answer.
