@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527100911id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213030542id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
@@ -9,15 +9,7 @@ Thank you for using the Montgomery County, Maryland Government (hereafter, the C
 
 
 
-It is our statement concerning how your information will be protected. If you have questions or doubts concerning the privacy of your information, you should consult this document. If, after consulting this document you still have questions or doubts, you should contact: 
-
-Montgomery County, Maryland Government   
-Office of Public Information   
-101 Monroe St.   
-4th Floor   
-Rockville, Maryland 20850 
-
-[Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov)
+It is our statement concerning how your information will be protected. If you have questions or doubts concerning the privacy of your information, you should consult this document. If, after consulting this document you still have questions or doubts, you should [contact us](https://web.archive.org/contact).
 
 The County adheres to and follows the practices and procedures described below for the purpose of assuring the privacy of visitors to the County web portal. These practices and procedures are approved by the Department of Technology Services, the Office of the County Attorney, and the Office of the County Executive. The County reserves the right to change these practices and procedures at any time without prior notice. The following is not intended and should not be interpreted as a contract of any nature, either stated or implied. 
 
@@ -93,17 +85,7 @@ Our network manager is instructed to limit employee access to personally identif
 
 How to contact the County:
 
-We welcome your comments and invite you to contact us if you have any questions or concerns regarding this Privacy Policy. Contact us at: 
+We welcome your comments and invite you to contact us if you have any questions or concerns regarding this Privacy Policy. [Contact us](https://web.archive.org/contact) or call 311.  
 
-Montgomery County, Maryland Government   
-Office of Public Information   
-101 Monroe St.   
-4th Floor   
-Rockville, Maryland 20850   
-or  
-[Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov)
-
-CUSTOMER SATISFACTION:   
-Questions regarding this statement should be directed to the County by sending an e-mail to [Customer.Service@montgomerycountymd.gov](mailto:Customer.Service@montgomerycountymd.gov). If you do not receive a response to your inquiry within five business days, please contact the Office of Public Information, at 240-777-6530 or at the above address. If your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html. 
 
 < top >
