@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615040545id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213210944id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
 
 # Cool Text: Privacy Policy
 
