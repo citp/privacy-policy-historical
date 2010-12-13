@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britannia.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503154848id_/http%3A//www.britannia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannia.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213052930id_/http%3A//britannia.com/privacy.html) for the most accurate reproduction.*
 
 # Britannia: Privacy Statement
 
