@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613170302id_/http%3A//www.epiloglaser.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213130526id_/http%3A//epiloglaser.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
