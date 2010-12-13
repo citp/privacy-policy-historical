@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the conservice.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213130307id_/https%3A//conservice.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+
+# Conservice
+
+**PRIVACY POLICY**
+
+We use the personal information we are provided to help us respond to your inquiries and to deliver and improve the services you have requested or use, and to design or offer specific products or services that we believe will be useful to you. While we may use this information to contact you or to send materials to you for utility billing purposes, we will take commercially reasonable steps to safeguard such information from unauthorized access by any other parties. Unless we specifically disclose it to you at the time of collection or subsequently obtain your approval, we will not disclose visitor or customer-specific information that is gathered on our site to unaffiliated organizations for commercial purposes unrelated to Conservice’s business. We may disclose any collected information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. Other than as stated herein, Conservice will not use any resident data for any other purpose nor will it disclose any such data to any non-related entity for any purpose. 
