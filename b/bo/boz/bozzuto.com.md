@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2008-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080714043318id_/http%3A//www.bozzuto.com/cs/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213204853id_/http%3A//www.bozzuto.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bozzuto
+# Privacy Policy - The Bozzuto Group
 
-**Privacy Policy Our Commitment to Privacy**
+**Our Commitment to Privacy**
 
 We respect the privacy of your information.  We provide this explanation about our online information practices as a show of our commitment to protect your privacy.
 
@@ -50,4 +50,6 @@ The Privacy Policy of an advertiser or promotional service appearing at our site
 
 Any changes of our Privacy Policy will be communicated through our Website at least fifteen days in advance of its effective date.  Information collected before changes are made will be secured according to the previous Privacy Policy.
 
-  **Your Consent** By using our Website, you consent to the collection and use of this information in the manner we describe.
+  **Your Consent**
+
+By using our Website, you consent to the collection and use of this information in the manner we describe.
