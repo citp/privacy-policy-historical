@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406044600id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213175702id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
 
-# Buy and Sell anything online, Cars Ireland, Advertise for free
+# Cars for sale, furniture, dogs, cats and more at Buy and Sell
 
 Buzreel Limited, trading as BuyandSell ("BuyandSell" or "we") respects and protects your right to privacy in relation to your interactions with this website. We have adopted the following policies to safeguard your personal information and to protect its confidentiality. 
 
