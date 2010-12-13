@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywaybusiness.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522112445id_/http%3A//mywaybusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywaybusiness.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213071521id_/http%3A//mywaybusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyWayBusiness.com
 
@@ -28,6 +28,4 @@ Changes to this Privacy Statement
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of MyWayBusiness.com, you may [contact us](http://mywaybusiness.com/contact-us/ "contact us") at info@mywaybusiness.com.
-
-[](http://twitter.com/home/?status=Privacy+Policy+http://bit.ly/bLqX22 "Post to Twitter") [](http://digg.com/submit?url=http://mywaybusiness.com/privacy-policy/&title=Privacy+Policy "Post to Digg") [](http://www.facebook.com/share.php?u=http://mywaybusiness.com/privacy-policy/&t=Privacy+Policy "Post to Facebook") [](http://stumbleupon.com/submit?url=http://mywaybusiness.com/privacy-policy/&title=Privacy+Policy "Post to StumbleUpon")
+If you have any questions regarding the privacy policy of MyWayBusiness.com, you may contact us at info@mywaybusiness.com.
