@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213635id_/http%3A//www.colt.net/UK-en/PrivacyPolicy/index.htm%3FTemplate%3DCN_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194129id_/http%3A//colt.net/UK-en/PrivacyPolicy/index.htm%3FTemplate%3DCN_Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
