@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609124556id_/http%3A//www.bdo.com/legal/safeharbor.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213032232id_/http%3A//www.bdo.com/legal/safeharbor.aspx) for the most accurate reproduction.*
 
 # BDO United States - Safe Harbor Data Privacy Statement
 
-## BDO Seidman, LLP Safe Harbor Data Privacy Statement
+## BDO USA, LLP Safe Harbor Data Privacy Statement
 
 ### Introduction
 
-BDO Seidman, LLP ("BDO") is a national professional services firm providing assurance, tax, financial advisory, and consulting services to private and publicly traded businesses. Protecting your privacy is important to BDO. BDO and its affiliated U.S. subsidiaries ("the firm," "we," "us," or "our") adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union ("EU") to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all such data. If there is any conflict between the policies in this statement and the Principles, the Principles will govern. This statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it, and the choices affected individuals have regarding our use of, and their ability to correct, that information.
+BDO USA, LLP ("BDO") is a national professional services firm providing assurance, tax, financial advisory, and consulting services to private and publicly traded businesses. Protecting your privacy is important to BDO. BDO and its affiliated U.S. subsidiaries ("the firm," "we," "us," or "our") adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union ("EU") to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all such data. If there is any conflict between the policies in this statement and the Principles, the Principles will govern. This statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it, and the choices affected individuals have regarding our use of, and their ability to correct, that information.
 
 This statement applies to all personal information we handle (except as noted below), including on-line, off-line, and manually processed data. For purposes of this statement, "personal information" means information that:
 
@@ -78,6 +78,6 @@ We are committed to following the Principles for all personal information within
 
 ### How to Contact Us
 
-Questions, comments or complaints about BDO's Safe Harbor Data Privacy Statement or data collection and processing practices can be e-mailed to [privacyoffice@bdo.com](mailto:privacyoffice@bdo.com), mailed to Privacy Office, BDO Seidman, LLP, 233 North Michigan Avenue, Chicago, IL 60601. In the event that a complaint is not satisfactorily addressed by BDO within a reasonable time frame, you may contact the Federal Trade Commission at [www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm), or via phone at 202-382-4357.
+Questions, comments or complaints about BDO's Safe Harbor Data Privacy Statement or data collection and processing practices can be e-mailed to [privacyoffice@bdo.com](mailto:privacyoffice@bdo.com), mailed to Privacy Office, BDO USA, LLP, 233 North Michigan Avenue, Chicago, IL 60601. In the event that a complaint is not satisfactorily addressed by BDO within a reasonable time frame, you may contact the Federal Trade Commission at [www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm), or via phone at 202-382-4357.
 
 EFFECTIVE DATE: January 14 2005
