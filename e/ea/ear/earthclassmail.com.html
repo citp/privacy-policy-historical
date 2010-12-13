@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the earthclassmail.com privacy policy that was archived on 2010-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601042136id_/http%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthclassmail.com privacy policy that was archived on 2010-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213171100id_/http%3A//earthclassmail.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -36,6 +36,13 @@
 
     </script>
     <script type="text/javascript">
+
+        function trackLogin() {
+            pageTracker._setCustomVar(1, "User Login", "Yes", 2);
+            pageTracker._trackEvent("User", "Login");
+            pageTracker._deleteCustomVar(1);
+        }
+
         $(function() {
             $('#center-menu a').hover(
                 function() {
@@ -65,8 +72,12 @@
                     }
                 }
             );
-    
-            
+
+            $('#loginLnk').click(function() {
+                trackLogin();
+                return true;
+            });
+
         });
     </script>
 </head>
@@ -74,12 +85,12 @@
     <div class="container_16">
         <div class="grid_16">
             <div id="top-anchor">
-                <a href="/" rel="nofollow">Home</a><span> | </span><a href="/Contact-Us">Contact Us</a><span> | </span>Call for free consultation <a style="color: #3d6db0;font-weight: 600;" href="/Contact-Us" title="or email us: support@earthclassmail.com">866 625 6245</a>
+                <a href="/" rel="nofollow">Home</a><span> | </span><a href="/Contact-Us">Contact Us</a><span> | </span><a href="/blog">Blog</a> <span> | </span>Call for free consultation <a style="color: #3d6db0;font-weight: 600;" href="/Contact-Us" title="or email us: support@earthclassmail.com">866 625 6245</a>
             </div>
         </div>
         <div class="clear"></div>
         <div class="grid_16"> 
-            <a href="/" rel="nofollow"><img src="/img/logo.gif" alt="Earth Class Mail: Making Time For Business" style="position: absolute; top: 0px; z-index:999;"></a>
+            <a href="/" rel="nofollow"><img src="/img/logo.jpg" alt="Earth Class Mail: Making Time For Business" style="position: absolute; top: 0px; z-index:999;"></a>
         </div>
         <div class="clear"></div>
         <div class="grid_16">     
@@ -90,7 +101,7 @@
                     <div><a href="/About-Addresses">Addresses</a></div>
                     <div><a href="/Plans-And-Prices">Pricing</a></div>
                     <div><a href="/About-Earth-Class-Mail">About Us</a></div>
-                    <div class="last"><a href="https://secure.earthclassmail.com/" rel="nofollow">Login</a></div>
+                    <div class="last"><a id="loginLnk" href="https://secure.earthclassmail.com/" rel="nofollow">Login</a></div>
                 </div>
                 <div id="right-menu">&nbsp;</div>
             </div> 
@@ -202,8 +213,9 @@
 </div>
  <div class="grid_5">
     <div id="side-nav">
-        <a id="ctl00_ctl00_Body_signupLink_signupLink" href="https://secure.earthclassmail.com/Secured/Signup/SignUp.aspx"><img src="/i/btn-buy-now-right.gif" width="278" height="58" alt="Subscribe to Earth Class Mail Now" style="padding-bottom: 12px;"></a> 
-<a href="/Watch-The-Demo"><img src="/i/btn-watch-demo-right.jpg" width="278" height="58" alt="missing"></a> 
+        <a id="ctl00_ctl00_Body_signupLink_signupLink" href="https://secure.earthclassmail.com/SignUp.reshtml?cmp=vid-1000"><img src="/i/btn-buy-now-right.gif" width="278" height="58" alt="Subscribe to Earth Class Mail Now" style="padding-bottom: 12px;"></a> 
+<a href="/Watch-The-Demo"><img src="/i/btn-watch-demo-right.jpg" width="278" height="58" alt="Watch the Earth Class Mail Demo" style="padding-bottom: 12px;"></a> 
+<a href="/Take-Test-Drive"><img src="/i/btn-test-drive-right.jpg" width="278" height="58" alt="Take the Earth Class Mail test drive"></a> 
         <div id="side-nav-lists">
             <h2>About Us</h2><ul><li><a href="About-Earth-Class-Mail" class="navitem-first navitem-noline">About Earth Class Mail</a></li><li><a href="Management-Team">Management Team</a></li><li><a href="Board-Of-Directors">Board of Directors</a></li><li><a href="Partners"> Business Partners</a></li><li><a href="Press-Room">Press Room</a></li><li><a href="Case-Studies">Case Studies</a></li><li><a href="Privacy-Policy" class=" current">Privacy Policy</a></li></ul>
         </div>
@@ -218,7 +230,7 @@
         <div class="grid_16">
             <div id="footer">
                 <div>
-                <a href="/Privacy-Policy" rel="nofollow">Privacy Policy</a> | <a href="/User-Agreement-Full" rel="nofollow">User Agreement</a> | <a href="/Frequently-Asked-Questions" rel="nofollow">FAQ</a> |  © 2005-2010 Earth Class Mail Corp.
+                <a href="/Privacy-Policy" rel="nofollow">Privacy Policy</a> | <a href="/User-Agreement-Full" rel="nofollow">User Agreement</a> | <a href="/Trademarks" rel="nofollow">Trademarks</a> | <a href="/Frequently-Asked-Questions" rel="nofollow">FAQ</a> |  © 2005-2010 Earth Class Mail Corp.
                 </div>
                 
                 <div style="width: 160px; margin: 12px auto; text-align:center;">
