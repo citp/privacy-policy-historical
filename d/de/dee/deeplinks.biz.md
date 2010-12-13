@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511012904id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213190008id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.liquidweb.com/?RID=sdawkins)
-
-| 
-
-[](http://www.theredtree.com/)
 
 **What information do we collect?**
 
@@ -64,15 +58,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 sdscripts.support @ gmail.com
-
-| 
-
-| Active Users: | 5  
----|---  
-Accounts: | 0  
-Guests: | 5  
-Visits last 24h: | 1146  
-  
-[](http://submissionwizards.com/Directory-Submissions/Directory-Submission-Services.html)
-
-[](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=sdscripts-directories)
