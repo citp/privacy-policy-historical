@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2reach.in privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610171323id_/http%3A//www.click2reach.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2reach.in privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213050124id_/http%3A//www.click2reach.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Click2Reach - Local Search Engine, India's Largest Local Business Search Engine, Online Business Directory
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 Privacy Policy
 
-**Click2Reach Inc.**
+**We take your privacy seriously. Please read the following to learn more about our privacy policy**
 
 In the course of registering for and availing various services we provide from time to time through our website [www.click2reach.in](http://www.click2reach.in/) (“Website”, telephone search, SMS and WAP or any other medium in which JustDial may provide services (collectively referred to as "Media")you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar Personal Information (“Personal Information”). The Personal Information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media.
 
@@ -30,6 +30,4 @@ If you are our corporate customer, it is possible that we have entered into a co
 
 If you have questions or concerns about these privacy policies; please send us an email at [privacy@click2reach.in](mailto:privacy@click2reach.in)  
   
----|---  
-  
-© Copyrights 2010 **Click2Reach**. All Rights Reserved. 
+---|---
