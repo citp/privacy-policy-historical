@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anylabtestcleveland.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207081809id_/http%3A//www.anylabtestnow.com/Home/ctl/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anylabtestcleveland.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213182934id_/http%3A//www.anylabtestnow.com/Home/ctl/Privacy.aspx) for the most accurate reproduction.*
 
-# Lab Tests through ANY LAB TEST NOW® - DNA Testing, Paternity Testing, Blood Tests, STD / HIV Tests, Male / Female Wellness Testing
+# Blood Test, std testing, blood testing results | ANY LAB TEST NOW®
 
 ANY LAB TEST NOW® is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ANY LAB TEST NOW® Web site and governs data collection and usage. By using the ANY LAB TEST NOW® website, you consent to the data practices described in this statement.
 
