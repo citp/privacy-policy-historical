@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401175548id_/http%3A//coffeebean.com/Privacy-W16C73.aspx%3FUserID%3D14723733%26SessionID%3D4BQgsVSlJVosl4fygthc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213203944id_/http%3A//coffeebean.com/Privacy-W16C73.aspx) for the most accurate reproduction.*
 
 # Privacy
 
