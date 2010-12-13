@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527034349id_/http%3A//www.tinydeal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213013103id_/http%3A//www.tinydeal.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice: TinyDeal, Mobile Phone, MP4/MP3, PC/Game Gadgets, Watch
-
-Privacy Policy
+# TinyDeal: Privacy Notice: China Wholesale, Online Shop, Dropship, Free Shipping
 
 #### TinyDeal Privacy Policy - Safe, Secure Online Shopping
 
-TinyDeal Direct Co., LTD (hereinafter TinyDeal) values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of TinyDeal. 
+TinyDeal Co. Limited values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of TinyDeal. 
 
 #### WHAT INFORMATION DO WE COLLECT?
 
