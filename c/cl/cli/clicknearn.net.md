@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the clicknearn.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611204850id_/http%3A//www.clicknearn.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknearn.net privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213233231id_/http%3A//www.clicknearn.net/policy.htm) for the most accurate reproduction.*
 
-# ::.. Welcome to Clicknearn.net ..:: Policy
+# ::.. Welcome to Clicknearn.net ..:: Privacy Policy
+
+This site chose VeriSign [SSL](http://www.verisign.com/ssl-certificate/) for secure e-commerce and confidential communications.  
+**[ABOUT SSL CERTIFICATES](http://www.verisign.com/ssl-certificate/)**[](http://www.verisign.com/ssl-certificate/)
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**The Information We Collect:**
+T **he Information We Collect:**
 
 This notice applies to all information collected or submitted on ClickNEarn.Net website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
@@ -34,4 +37,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 You can access all your personally identifiable information that we collect online and maintain by using your username and password provided by the company. You will not share your password with any other person or organization. We use this procedure to better safeguard your information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. For this purpose you may use the [ Contact Us Form](http://www.clicknearn.net/eticket/).
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. For this purpose you may use the [**Contact Us Form**](http://www.clicknearn.net/helpdesk/).
