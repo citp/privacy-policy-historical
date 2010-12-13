@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630092059id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213144720id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
 
 # Democratic Underground Privacy Policy
 
@@ -70,7 +70,7 @@ Democratic Underground users may request that their personal information be dele
 
 **Changes to this Privacy Policy**
 
-Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on March 2, 2010.
+Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on August 14, 2010.
 
 **Contact Information**
 
@@ -78,6 +78,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 David Allen  
 Democratic Underground, LLC  
-P.O. Box 53350  
-Washington, DC 20009  
+P.O. Box 42557  
+Washington, DC 20015  
 mail@democraticunderground.com
