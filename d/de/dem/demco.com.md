@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demco.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528171250id_/http%3A//www.demco.com/goto%3FHSPSECURITY_PRIVACY%26FR5PRIVCY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demco.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213014614id_/http%3A//www.demco.com/goto%3FHSPSECURITY_PRIVACY%26FR5PRIVCY) for the most accurate reproduction.*
 
 # Demco.com Security and Privacy Policy
 
