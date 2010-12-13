@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615004633id_/http%3A//www.windowssecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213195320id_/http%3A//windowssecrets.com/privacy) for the most accurate reproduction.*
 
 # Microsoft Windows XP, Vista, 7, Internet Explorer (IE), Firefox, Windows Update
 
@@ -38,4 +38,4 @@ You can access your personally identifiable information that we have collected t
 We reserve the right to revise this Privacy Policy from time to time in our discretion. If we modify this Privacy Policy we will post the revised Privacy Policy on the Web Site, and the revised Privacy Policy will take effect 30 days after posting. We will attempt to notify you of the posting through the e-mail address you provided. It is your responsibility to read e-mail messages from us and to periodically review this Privacy Policy page.
 
 **How to Contact Us**  
-We encourage you to contact us if you have any questions or concerns about the use of your personal information. Please use the form on the [Contact Us](http://windowssecrets.com/contact) page, or send postal mail to WindowsSecrets.com, Attn.: #120 Editor, 1700 7th Ave., Suite 116, Seattle, WA 98109-4599 USA.
+We encourage you to contact us if you have any questions or concerns about the use of your personal information. Please use the form on the [Contact Us](http://windowssecrets.com/contact) page, or send postal mail to WindowsSecrets.com, Attn.: Editor, Windows Secrets c/o iNET Interactive, 9100 West Chester Towne Centre, Suite 200, West Chester, OH 45069-3108 USA.
