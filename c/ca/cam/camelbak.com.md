@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601083703id_/http%3A//www.camelbak.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213011153id_/http%3A//camelbak.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy-policy - CamelBak.com
 
