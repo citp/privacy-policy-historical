@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614071341id_/http%3A//www.carnival.com/CMS/Static_Templates/privacypolicy.aspx%3Ficid%3DCC_Footer_82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194754id_/http%3A//www.carnival.com/cms/Static_Templates/privacypolicy.aspx%3Ficid%3DCC_Footer_82) for the most accurate reproduction.*
 
 # 
 
