@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085255id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213115137id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 Steve G. Jones (“Jones” or “we”) takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-We provide information on hypnotherapy and certain hypnotherapy products through this website (the “Website”).  We value our users and their concerns about privacy. To this end, we engage in consistent information practices and use our best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort. 
+We provide information on hypnosis and certain hypnosis products through this website (the “Website”).  We value our users and their concerns about privacy. To this end, we engage in consistent information practices and use our best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort. 
 
 _What does this Privacy Policy cover?_
 
