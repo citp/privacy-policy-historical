@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnmtoob.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614052118id_/http%3A//www.cfnmtoob.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnmtoob.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213192642id_/http%3A//www.cfnmtoob.com/privacy.php) for the most accurate reproduction.*
 
 # New Page 8
 
