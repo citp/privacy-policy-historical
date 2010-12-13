@@ -1,29 +1,10 @@
-> *The following text is extracted and transformed from the jiffylube.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430105030id_/http%3A//www.jiffylube.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffylube.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213064955id_/http%3A//www.jiffylube.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Jiffy Lube® Privacy Policy
-
-|  | 
-
-| 
-
-[](http://www.jiffylube.com/)
-
-|  |   
----|---|---  
-  
-Last Updated March 20, 2008
+# Jiffy Lube - Privacy Policy
 
 This is the Privacy Policy Statement of Jiffy Lube International, Inc. ("JLI") and its franchisees operating Jiffy Lube service centers (collectively, for the purposes of this Statement, "Jiffy Lube"). JLI is indirectly owned by Shell Oil Company. This Statement applies to all information transmitted or submitted to Jiffy Lube, whether provided at a Jiffy Lube service center or via a website, phone, fax, text or SMS message, postal mail or any other written or oral communication with us.
 
 Jiffy Lube highly values its customer relationships and we created this Statement to describe to you:
-
-  * the information we collect about you,
-  * how that information may be used,
-  * with whom it may be shared,
-  * how you may access the information you provide us, 
-  * and your choices about such uses and disclosures.
-
-
 
 1\. INFORMATION WE COLLECT
 
@@ -116,6 +97,4 @@ We will occasionally update this Statement to reflect changes in our practices a
 
 7\. HOW TO CONTACT US 
 
-If you have any questions about this Statement or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by phone (800) 344-6933 or postal mail: Jiffy Lube® Customer Service, P.O. Box 4458, Houston, TX 77210-4458.  
-  
-  | 
+If you have any questions about this Statement or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by phone (800) 344-6933 or postal mail: Jiffy Lube® Customer Service, P.O. Box 4458, Houston, TX 77210-4458.
