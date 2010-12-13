@@ -1,16 +1,27 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916035951id_/http%3A//www.myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213144657id_/http%3A//www.myfuture.edu.au/en/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
 
-# myfuture :: Privacy
+# myfuture: Australia's career information service
 
-## 1\. Introduction
+  * [Introduction](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Introduction) 
+  * [Collection of personal information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Collection) 
+  * [How we use your personal information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Howweuse) 
+  * [How we disclose your information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Howwedisclose) 
+  * [Personal information on the website](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Personalinformation) 
+  * [Security of your personal information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Security) 
+  * [When to check this privacy policy](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Whentocheck) 
+  * [How to contact us](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Howtocontact) 
+
+
+
+##  1\. Introduction
 
 In Australia, collection and handling of personal information is regulated by the Privacy Act 1988. Personal information is basically information or an opinion which can identify you.
 
 The purpose of this Privacy Statement is to explain how we may collect personal information about you, and how we might use, disclose and handle that personal information.
 
-**_education.au limited_** maintains and hosts this Site for the Department of Education, Science and Training. Any reference to "We" in this Privacy Statement includes a reference to the Department of Education, Science and Training.
+Education Services Australia Limited maintains and hosts this Site for the Department of Education, Science and Training. Any reference to "We" in this Privacy Statement includes a reference to the Department of Education, Science and Training.
 
-## 2\. Collection of personal information
+##  2\. Collection of personal information
 
 There are 3 ways in which we may collect your personal information. These are explained below:
 
@@ -40,7 +51,7 @@ Generally, this information will identify the computer you are using, rather tha
 
 Similarly, sometimes the administration website uses cookies . A cookie is a small amount of information stored on your computer by our server. This information is sent by your web browser to our server whenever you visit it again. Cookies are used to remember your browser between page visits. However, the cookie identifies your browser, not you personally. No personal information is stored within the myfuture.edu.au cookies.
 
-## 3\. How we use your personal information
+##  3\. How we use your personal information
 
 We will only use your personal information for the purpose for which you provided it to us, except as outlined in this section.
 
@@ -56,23 +67,15 @@ The reason we collect statistical information about the use of this Site (whethe
 
 
 
-## 4\. Mentoring program
-
-To assist in your use of this Site, you may ask a person you know and trust to be your mentor. Your mentor could be a career guidance counsellor from your school, a teacher, a parent or a friend. If you give your mentor your User ID, this will enable your mentor to access the information you provide to this Site. Please be aware that if you do so, we cannot control how your mentor uses your information. This is why you should only ask someone to be your mentor if you can trust them to keep your personal information private. If you no longer want your mentor to have access to your personal information, you can remove their access rights at any time.
-
-As we cannot control your selection of a mentor or your mentor's use of your personal information, we cannot accept any responsibility for unauthorised use of your personal information by your mentor.
-
-## 5\. How we disclose your information
-
 We will not disclose your personal information without your consent unless authorised or required by law.
 
-## 6\. Personal Information on the website
+##  5\. Personal Information on the website
 
 We will only put your personal information on this Site if it has been collected for this purpose with your knowledge or if you have consented to the disclosure. When giving such consent you should be aware that information put on this Site is accessible to millions of users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once the information is put on this Site, we will have no control over its subsequent use and disclosure.
 
-## 7\. Security of your Personal Information
+##  6\. Security of your Personal Information
 
-We take all reasonable steps to ensure that the information (including personal information) we hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will continue to hold your personal information but may delete your account and all personal information contained in this account if your account has been inactive for an extended period of time. If you wish us to destroy your personal information you can request us to remove your account [LINK].In accordance with the [Terms and Conditions ](https://web.archive.org/Footer%20Items/General/Terms%20and%20Conditions.aspx)of Use of this Site, however, **_education.au limited_** cannot accept any liability for any loss suffered by you as a result of unauthorised access to this Site.
+We take all reasonable steps to ensure that the information (including personal information) we hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will continue to hold your personal information but may delete your account and all personal information contained in this account if your account has been inactive for an extended period of time. If you wish us to destroy your personal information you can request us to remove your account [LINK].In accordance with the [Terms and Conditions](http://myfuture.edu.au/Footer%20Items/General/Terms%20and%20Conditions.aspx) of Use of this Site, however, Education Services Australia Limited cannot accept any liability for any loss suffered by you as a result of unauthorised access to this Site.
 
 This Site does not, however, provide facilities for the secure transmission of information across the Internet. You should be aware that there are inherent risks associated with the transmission of personal information via the Internet.
 
@@ -80,7 +83,7 @@ You should also note that if you link to another website from this Site, a diffe
 
 Please be aware that you can also protect the security of information you provide to this Site by not disclosing your User ID and password to any other person.
 
-## 8\. Access to your personal information
+##  7\. Access to your personal information
 
 In most cases, the Privacy Act gives you the right to gain access to personal information that we hold about you. All requests for access to your personal information will be handled by our privacy access officer, who can be contacted by writing to the address set out below. This is not, however, intended to cover requests for lost or forgotten passwords and is to be limited to genuine requests for the information which you have provided to this Site.
 
@@ -99,11 +102,7 @@ If we refuse to give you access we will provide you with reasons for our refusal
 
 Generally, if you request us to do so we will amend any personal information about you held by us which is inaccurate, incomplete or out of date. If we disagree with you about the accuracy, completeness or currency of a record of your personal information held by us, we will take reasonable steps to associate with that record a statement to the effect that you claim this to be the case, if you request us to do so.
 
-## 9\. When to check this privacy policy
-
-We may make changes to this privacy policy from time to time, so you should check it each time you visit this Site.
-
-## 10\. How to contact us
+##  9\. How to contact us
 
 We want to develop a long and trusted relationship with you. If at any time you:
 
@@ -117,8 +116,8 @@ please contact us at:
 (a) Contact Us; or
 
 (b) Career Services Manager  
- _ **education.au limited  
-**_ 182 Fullarton Road  
+Education Services Australia Limited  
+182 Fullarton Road  
 DULWICH SA 5065; or
 
 (c) Department of Education, Science and Training  
