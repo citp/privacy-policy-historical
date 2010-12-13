@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsgo.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413113854id_/http%3A//www.letsgo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsgo.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213050617id_/http%3A//www.letsgo.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Let's Go Travel Guides - The Leader in Budget Travel
+# Privacy Policy - Let's Go Travel - The Leader in Budget Travel
 
 This Privacy Policy sets forth the policy with respect to the Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”) that is collected from users (“Users”) of the website located at [www.letsgo.com](http://www.letsgo.com/ "lets go") (the “Site”), which site is operated and maintained by Travel Ad Network, Inc (“TAN”). By voluntarily providing us with your PII, you are consenting to our use of it in accordance with this Privacy Policy including transfer of your PII to TAN and authorized third parties located in the United States and in other countries.
 
