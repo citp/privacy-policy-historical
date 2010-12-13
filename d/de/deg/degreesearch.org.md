@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612192919id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213065418id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Degree Search
 
 ## Summary
 
@@ -34,7 +34,7 @@ We use the information we automatically collect to help us better plan our sites
 
 ## Your Rights Our Obligations
 
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our marketing partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed here.
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our marketing partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed [here](https://web.archive.org/unsubscribe).
 
 We reserve the right to share data with third party partners.
 
