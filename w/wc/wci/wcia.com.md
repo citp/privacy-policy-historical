@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220111302id_/http%3A//www.illinoishomepage.net/content/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213151412id_/http%3A//illinoishomepage.net/about-privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,3 @@ Protecting the privacy of the very young is especially important. We never colle
 Nexstar may revise this Privacy Policy over time as new features are added to the Sites or as Internet law and standards evolve. We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Sites. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law. 
 
 Effective Date: October 10, 2006 
-
-  
-
