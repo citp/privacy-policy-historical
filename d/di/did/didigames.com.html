@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the didigames.com privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604191912id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the didigames.com privacy policy that was archived on 2010-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213113109id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <title></title>
 
-    <link rel="stylesheet" type="text/css" href="http://voxcast.didigames.com/static/css/main_12.css">
+    <link rel="stylesheet" type="text/css" href="http://voxcast.didigames.com/static/css/main_13.css">
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="Keywords" content="">
@@ -157,11 +157,12 @@ urchinTracker();
         });
     }
 
-    function doRate(r){
+   function doRate(r){
         $("#ga_rayes").unbind('click').addClass("dsb");
         $("#ga_rano").unbind('click').addClass("dsb");
         $("#ga_rares .loading").show();
-        $.getJSON(HOST+BASE_PATH+'/rating.php', {game:GAME,rating:r}, cbRate);
+
+       $.getJSON(HOST+BASE_PATH+'/rating.php', {game:GAME,rating:r}, cbRate);
     }
 
     function cbRate(d){
@@ -184,6 +185,7 @@ urchinTracker();
         if(v!='en' && lnk=='/?nl=en') lnk='/';
         if(lnk.length>=3 && lnk.match(/\/(en|de|es|it|fr|tr|pl|nl|pt)(\/|\b)/i)) lnk=lnk.substr(3);
 
+
         var inHtml= '<div id="'+selId+'_ti" class="la-ti"><a href="javascript:;" id="'+selId+'_btn">'+
                         '<img src="'+SB+'/img/spacer.png" class="fl fl-'+selVal+'"/>'+selTxt+
                         '<img src="'+SB+'/img/spacer.png" class="btni"/>'+
@@ -193,8 +195,8 @@ urchinTracker();
         for(i=0; i<le.length; i++){
             var v=le[i].value; var t=le[i].text;
             var l=(v=='en')? lnk:'/'+v+lnk;
-            if(v=='en' && (l=='/' || l=='')) l='?nl=en';
 
+            if(v=='en' && (l=='/' || l=='')) l='?nl=en';
             inHtml+='<li class="la-i'+v+'"><a href="'+BL+l+'"><img src="'+SB+'/img/spacer.png" class="fl fl-'+v+'"/>'+t+'</a></li>';
         }
         inHtml+='</ul>'+
@@ -226,6 +228,20 @@ urchinTracker();
 <!-- addthis -->
 <script type="text/javascript">var addthis_pub = 'didigames';</script>
 <script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>
+
+<!--videoegg-->
+<script>
+var ve_publisher = "GAMEGOS";
+var ve_site = "GAMEGOS_DIDIGAMES_TWIG";
+var ve_area = "GAMEGOS_DIDIGAMES_TWIG";
+var ve_location = "GAMEGOS_DIDIGAMES_TWIG_ROS_TWIG_BOTTOM";
+var ve_placement = "twig_bottom";
+var ve_width = 0;
+var ve_height = 0;
+var ve_alternate = "";
+document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math.random()+"'></sc"+"ript>");
+</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.23676829912892328"></script>
+
 
 
 
