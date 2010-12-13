@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananaguide.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013426id_/http%3A//bananaguide.com/article/18601) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananaguide.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213191412id_/http%3A//bananaguide.com/article/18601) for the most accurate reproduction.*
 
 # Privacy Policy | BananaGuide
 
@@ -38,3 +38,8 @@ We limit access to personal information about you to employees who we believe re
 **Changes to this Privacy Policy**
 
 BananaGuide may update this policy. We will notify you about significant changes in the way we treat personal information by by placing a prominent notice on our site.
+
+[LINK](https://web.archive.org/article/18601/privacy-policy)
+
+  
+
