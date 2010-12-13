@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarian.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004411id_/http%3A//clarian.org/portal/Clarian/about-clarian-health%3FContentID%3D/about/terms-policies/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarian.org privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213172024id_/http%3A//clarian.org/portal/Clarian/about-clarian-health%3FContentID%3D/about/terms-policies/privacy.xml) for the most accurate reproduction.*
 
 # Clarian.org Privacy Policy - About Clarian Health
 
