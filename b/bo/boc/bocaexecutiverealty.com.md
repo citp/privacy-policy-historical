@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bocaexecutiverealty.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102130658id_/http%3A//www.bocaexecutiverealty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bocaexecutiverealty.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213094538id_/http%3A//bocaexecutiverealty.com/privacy.php) for the most accurate reproduction.*
 
 # bocaexecutiverealty.com privacy policy
 
