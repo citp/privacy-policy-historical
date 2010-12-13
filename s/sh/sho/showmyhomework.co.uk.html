@@ -1,19 +1,24 @@
-<!--The following is the downloaded HTML source of the showmyhomework.co.uk privacy policy that was archived on 2010-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614023803id_/http%3A//www.showmyhomework.co.uk/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the showmyhomework.co.uk privacy policy that was archived on 2010-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213140719id_/http%3A//www.showmyhomework.co.uk/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 		<meta name="google-site-verification" content="NE1NWKmPrTlAI1U9EWdvMYzo6_530OciPoAcgx0tooc">
 		<meta name="google-site-verification" content="A3dtbjdVZLk6SfTfOG3XYP_RJhfWQW3Sm4fGfQpHU50">
-		<title>Show My Homework - [Privacy Policy]</title>
+		<meta name="keywords" content="homework calendar, school homework calendar, online homework calendar, school homework calendar, online school homework">
+		<meta name="description" content="Show My Homework is a free online school homework calendar application. Teachers can post homework questions here. Students can see this homework and parents can keep track of it by visiting their school homework calendar without having to login.">
+		<title>
+			Privacy Policy - 
+			Show My Homework (Free Online School Homework Calendar)
+		</title>
 
-		<script src="/javascripts/prototype.js?1276259083" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1276259083" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1276259083" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1276259083" type="text/javascript"></script>
-<script src="/javascripts/application.js?1276259083" type="text/javascript"></script>
-		<script src="/javascripts/jquery-1.3.2.min.js?1276259083" type="text/javascript"></script> <!-- jquery-1.3.2.min jquery-1.4.min -->
-		<script src="/javascripts/jquery_related.js?1276259083" type="text/javascript"></script> <!-- All JQuery-related / client-side code -->
+		<script src="/javascripts/prototype.js?1289374645" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1289374645" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1289374645" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1289374645" type="text/javascript"></script>
+<script src="/javascripts/application.js?1289374645" type="text/javascript"></script>
+		<script src="/javascripts/jquery-1.3.2.min.js?1289374645" type="text/javascript"></script> <!-- jquery-1.3.2.min jquery-1.4.min -->
+		<script src="/javascripts/jquery_related.js?1289374645" type="text/javascript"></script> <!-- All JQuery-related / client-side code -->
 		
 		<!-- Google Analytics Code -->
 		<script type="text/javascript">
@@ -28,11 +33,22 @@
 		</script>
 		<!-- End of Google Analytics Code -->
 
+		<!-- JQuery etc -->
 		<script type="text/javascript">
 			jQuery.noConflict();
 
 			// All code in document ready area
 		 	jQuery(document).ready(function($){
+				
+				// setup ul.tabs to work as tabs for each div directly under div.panes
+				$(function() {
+					$(".css-tabs:first").tabs(".css-panes:first > div", { history: true });
+					// if ($('#tab_index').val() == "2"){
+					// 	var tabs = $("ul.css-tabs").data("tabs");
+					// 	tabs.next();
+					// }
+				});
+				
 				$(function() {
 					$("#homework_issued_at_virtual").datepicker({ dateFormat: 'dd/mm/yy' });
 					$("#homework_deadline_at_virtual").datepicker({ dateFormat: 'dd/mm/yy' });
@@ -44,13 +60,13 @@
 				$(function() {
 					$("#exam_exam_at_virtual").datepicker({ dateFormat: 'dd/mm/yy' });
 				});
+				$(function() {
+					$("#feature_launched_on_virtual").datepicker({ dateFormat: 'dd/mm/yy' });
+					$("#feature_trial_ends_on_virtual").datepicker({ dateFormat: 'dd/mm/yy' });
+				});
+				
 
 				if($.browser.msie && $.browser.version < 7) {
-					// $("table#homework td .due_homework").hover(function(){
-					// 	     $(this).css('hw_box_hover');
-					// 	   },function(){
-					// 	    $(this).removeClass('hw_box_hover');
-					// });
 					$("table#homework td a div.issued_homework").hover(function(){
 						$(this).css('background-color', '#fffec5'); $(this).css('color', '#0099cb');
 									  },function(){
@@ -74,21 +90,21 @@
 				}
 			});
 
-		  // setTimeout("new Effect.Fade('video_embed_code');", 1000)
-		
 			setTimeout("video_issue()", 1000 );
 			
 			function video_issue(){
 				if ($('video_embed_code') && $('video_embed_code').down('object')){
 				}
 				else if ($('video_embed_code')) {
-					$('video_embed_code').update("Attached Video Resource cannot be displayed.");
+					$('video_embed_code').update("Attached Video Resource cannot be displayed. Please try refreshing the page.");
 				}
 			}
-		
+
 		  // setTimeout("new Effect.Fade('flash_error');", 15000)
 		</script>
+		<!-- End of JQuery etc -->
 		
+		<!-- Limit questions/notes to 200 characters -->
 		<script language="javascript" type="text/javascript">
 			function limitText(limitField, limitCount, limitNum) {
 				if (limitField.value.length > limitNum) {
@@ -98,42 +114,104 @@
 				}
 			}
 		</script>
+		<!-- End of Limit questions/notes to 200 characters -->
+		
+		<!-- JanRain -->
+		<script type="text/javascript">
+		  var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+		  document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		  RPXNOW.overlay = true;
+		  RPXNOW.language_preference = 'en';
+		</script>
+		<!-- EndOfJanRain -->
 
-		<script src="/javascripts/jquery-ui-1.7.2.custom.min.js?1276259083" type="text/javascript"></script>
-		<script src="/javascripts/jquery-ui.js?1276259083" type="text/javascript"></script>
-		<script src="/javascripts/jquery.tools.min.js?1276259083" type="text/javascript"></script>
-		<script src="/javascripts/jquery.autocomplete.js?1276259083" type="text/javascript"></script>
+		<script src="/javascripts/jquery-ui-1.7.2.custom.min.js?1289374645" type="text/javascript"></script>
+		<script src="/javascripts/jquery-ui.js?1289374645" type="text/javascript"></script>
+		<script src="http://cdn.jquerytools.org/1.2.3/form/jquery.tools.min.js"></script>
+		<script src="/javascripts/jquery.tools.min.js?1289374645" type="text/javascript"></script>
+		<script src="/javascripts/tabs.js?1289374645" type="text/javascript"></script>
+		<script src="/javascripts/jquery.autocomplete.js?1289374645" type="text/javascript"></script>
+		<script src="/javascripts/jquery.quote_rotator.js?1289374645" type="text/javascript"></script>
+		
 
-		<link href="/stylesheets/override.css?1276259083" media="screen" rel="stylesheet" type="text/css">
-		<link href="/stylesheets/styles_original.css?1276259083" media="screen" rel="stylesheet" type="text/css">
-		<link href="/stylesheets/styles.css?1276259083" media="screen" rel="stylesheet" type="text/css">
-		<link href="/stylesheets/jquery-ui-1.7.2.custom.css?1276259083" media="screen" rel="stylesheet" type="text/css">
-		<link href="/stylesheets/print.css?1276259083" media="print" rel="stylesheet" type="text/css">
-		<link href="/stylesheets/jquery_dropdown.css?1276259083" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/override.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/styles_original.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/styles.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/jquery-ui-1.7.2.custom.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/print.css?1289374645" media="print" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/jquery_dropdown.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+		<link href="/stylesheets/rangeinput.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="http://static.flowplayer.org/tools/css/tabs-no-images.css">
+		<link href="/stylesheets/tabs.css?1289374645" media="screen" rel="stylesheet" type="text/css">
+
+
+			<!-- tab pane styling -->
+			<style>
+
+		/* tab pane styling */
+		.panes div {
+			display:none;		
+			padding:15px 10px;
+			border:1px solid #999;
+			border-top:0;
+			height:100px;
+			font-size:14px;
+			background-color:#fff;
+		}
+
+			</style>
+
 		
 		<!--[if lte IE 7]>
 			<link rel="stylesheet" type="text/css" href="stylesheets/jquery_dropdown_ie.css" media="screen" />
 		<![endif]-->
 		
+		<!-- AddThis -->
+		<script type="text/javascript">
+		var addthis_config =
+		{
+		   data_track_clickback: true
+		}
+		</script>
+		<!-- End of AddThis -->
 
+		
 	</head>
 
 	<body>
 		
-
 		
 
 		
-				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 			<div id="headerStrip_with_logo">
 				<div class="wrapper">
 					<div id="header_with_logo" class="clearFix">
+						<a href="http://www.showmyhomework.co.uk/" class="logo_link"><img alt="Show My Homework" height="69" src="/images/showmyhomework_title.png?1289374645" title="Show My Homework" width="435"></a>
 						
-							<a href="/login" class="login">Login for Teachers</a>
+							
+								<a href="/login" class="header_link">Login</a>
+								<a href="/schools/search" class="header_link">Sign Up</a>
+								<a href="/features_and_benefits" class="header_link">Features</a>
+							
 						
-						<a href="http://www.showmyhomework.co.uk/"><img alt="Show My Homework" height="69" src="/images/showmyhomework_title.png?1276259083" title="ShowMyHomework" width="435"></a>
 					</div>
 				</div> <!-- wrapper -->
 			</div> <!-- headerStrip_with_logo -->
@@ -155,42 +233,47 @@
 					
 
 <div id="legal">
-	<p>We collect e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
+	<p>We collect e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). We only use the information we collect about you lawfully (in accordance with the Data Protection Act 1988). We aim to safeguard the privacy of all our users while providing a high quality of personal customer service. The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
+
 
 	<ul>
-		<li>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service or as otherwise required by law.</li>
-		<li>We transfer information about you if MySENCARE or Show My Homework is acquired by or merged with another company. In this event, MySENCARE will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
+		<li>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.</li>
+		<li>We transfer information about you if Teacher Centric or Show My Homework is acquired by or merged with another company. In this event, Teacher Centric will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
 	</ul>
 
 	<h2>INFORMATION GATHERING AND USAGE</h2>
 	<ul>
-		<li>When you register for Show My Homework, we ask for information such as your name, school name and email address.</li>
-		<li>MySENCARE uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</li>
+		<li>When you register for Show My Homework, we ask for information such as your name, school name, and email address.</li>
+		<li>Teacher Centric uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.</li>
 	</ul>
  
 	<h2>COOKIES</h2>
 
 	<ul>
-		<li>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.</li>
-		<li>Cookies are required to use the MySENCARE service.</li>
+		<li>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computer and stored on your computer's hard drive.</li>
+		<li>Cookies are required to use the Teacher Centric service.</li>
 		<li>We use cookies to record current session information, but do not use permanent cookies.</li>
 	</ul>
+	
+	<h2>EMAIL POLICY</h2>
+
+	<p>We do not send out unsolicited e-mails. We do send emails to users who have signed up for an account. All users can remove themselves from our email notifications at any time. We will NEVER pass on email addresses, telephone numbers, or Credit Card details to any third party. Refer to paragraph 1 of this Privacy Policy for more information.</p>
 
 	<h2>DATA STORAGE</h2>
 
-	<p>MySENCARE uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Show My Homework. Although MySENCARE owns the code, databases, and all rights to the Show My Homework application, you retain all rights to your data.</p>
+	<p>Teacher Centric uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Show My Homework. Teacher Centric owns the code, databases, and all rights to the Show My Homework application, as well as the rights to your data.</p>
 
 	<h2>DISCLOSURE</h2>
 
-	<p>MySENCARE may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.</p>
+	<p>Teacher Centric may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.</p>
 
 	<h2>CHANGES</h2>
 
-	<p>MySENCARE may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your MySENCARE account holder account or by placing a prominent notice on our site.</p>
+	<p>Teacher Centric may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Show My Homework account or by placing a prominent notice on our site.</p>
 
 	<h2>QUESTIONS</h2>
 
-	<p>Any questions about this Privacy Policy should be addressed to help@showmyhomework.co.uk or by writing to us at: MySENCARE Ltd, Holywell House, Wanstead, London E11 2AL</p>
+	<p>Any questions about this Privacy Policy should be addressed to <a href="mailto:help@showmyhomework.co.uk?subject=Questions%20about%20Privacy%20Policy">help@showmyhomework.co.uk</a> or by writing to us at: Teacher Centric Ltd, Holywell House, Wanstead, London E11 2AL.</p>
 
 </div>
 					
@@ -201,18 +284,22 @@
 
 			<div id="footer">
 				
-				© ShowMyHomework. All Rights Reserved 2008 - 2010. Contact: Naimish Gohil (<a href="mailto:ngohil@henrycompton.lbhf.sch.uk">ngohil@henrycompton.lbhf.sch.uk</a>)<br>
+				© Show My Homework. All Rights Reserved 2008 - 2010. Contact: Naimish Gohil (<a href="mailto:help@showmyhomework.co.uk">help@showmyhomework.co.uk</a>)<br>
 				All logos used on this site are trademarks of their respective owners.<br>
 				<span class="hide_in_printing">
 					<a href="/terms_of_service" target="_blank">Terms of Service</a>&nbsp;&nbsp;|&nbsp;
 					<a href="/house_rules" target="_blank">House Rules</a>&nbsp;&nbsp;|&nbsp;
 					<a href="/privacy_policy" target="_blank">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
+					<a href="/security_document">Security</a>&nbsp;&nbsp;|&nbsp;
 					<a href="/faq" target="_blank">FAQs</a>
 					
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="/about_me" target="_blank">About me</a>&nbsp;&nbsp;|&nbsp;
+					<a href="/my_story">My Story</a>&nbsp;&nbsp;|&nbsp;
 					<a href="/links" target="_blank">My Favourite Sites</a>&nbsp;&nbsp;|&nbsp;
-					<a href="http://showmyhomeworkblog.com" target="_blank">Blog</a>
+					<a href="http://showmyhomeworkblog.com" target="_blank">Blog</a>&nbsp;&nbsp;|&nbsp;
+					<a href="/testimonials">Testimonials</a>&nbsp;&nbsp;|&nbsp;
+					<a href="http://showmyhomeworkblog.com/homework-calendar-press-buzz" target="_blank">Press Buzz</a>&nbsp;&nbsp;|&nbsp;
+					<a href="/contact_us">Contact Us</a>
 					<br><br>
 				
 					<div id="google_translate_element"></div><script>
@@ -222,7 +309,15 @@
 					  }, 'google_translate_element');
 					}
 					</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-				
+					
+					
+					
+					
+					
+					
+					
+					<div class="clear"></div>
+					
 				</span>
 				
 			</div> <!-- footer -->
