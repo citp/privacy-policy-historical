@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2008-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080714082857id_/http%3A//www.cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213114916id_/http%3A//cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
 
 # Cape Business News - Trade Leads, Tenders, Jobs, Press Offices
 
-  
+[](http://www.cbn.co.za/)
 
+SA Time 1:49PM
+
+R/$ 6.84  R/€9.04  R/£ 10.72  Gold 1391.20  Platinum 1686.50
+
+Courtesy of Sharenet
 
 Peninsula Business News (Pty) Ltd t/a Cape Business News (collectively referred to in this Privacy Policy as CBN) recognize the importance of protecting the privacy of all information provided by users of our web site as well as subscribers to our newspaper, recipients of our e-mail newsletters and all other customers of our products and services. This policy has been created with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This policy discloses the privacy practices for all products and services owned by CBN. 
 
