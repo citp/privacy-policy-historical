@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607035246id_/http%3A//www.hot-lyts.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194848id_/http%3A//hot-lyts.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hot-lyts
 
