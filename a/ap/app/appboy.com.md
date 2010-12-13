@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614065628id_/http%3A//www.appboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194608id_/http%3A//appboy.com/privacy) for the most accurate reproduction.*
 
-# Appboy
+# Privacy Policy | Appboy
 
 ## Appboy’s Privacy Policy
 
@@ -86,3 +86,7 @@ Your use of Appboy, and any disputes arising from it, is subject to this Privacy
 ### Contacting the Web Site
 
 If you have any questions about this privacy policy, please contact us here.
+
+## Select which devices you would like to see on AppBoy
+
+Cancel Save
