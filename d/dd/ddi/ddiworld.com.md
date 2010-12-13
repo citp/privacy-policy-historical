@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523071954id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194417id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Talent Management Expert | Development Dimensions International's Privacy Statement | DDI
 
 [](http://www.truste.org/ivalidate.php?url=www.ddiworld.com&sealid=102)
 
 This Privacy Statement is effective as of December 16, 2009.  
-([Click here to download a PDF version of this policy](http://www.ddiworld.com/pdf/ddi-comprehensive-privacy-statement-eusafeharbor.pdf "DDIWorld Privacy Statement").
+[(Click here to download a PDF version of this policy.)](https://web.archive.org/DDIWorld/media/privacy-statements/ddi-comprehensive-privacy-statement-eusafeharbor-en.pdf "Development Dimensions International's Privacy Statement")
 
 Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function.
 
 DDI is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world.  As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact us at [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com).  If your inquiry is not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact us at [privacyofficer@ddiworld.com](mailto:privacyofficer@ddiworld.com).  If your inquiry is not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 DDI International complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.  This Privacy Statement covers all the DDI Web Sites listed in Appendix A.  Because DDI wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices periodically reviewed for compliance.
 
-This Privacy Statement addresses the following privacy issues: 
+This Privacy Statement addresses the following privacy issues:
 
 ## For All Sites
 
@@ -37,7 +37,7 @@ Changes to the Privacy Statement
 Protection of Children's Information  
 Complaints Resolution  
 Contact Information  
-
+ 
 
 ## For DDI's Internet Sites
 
@@ -54,13 +54,13 @@ Search Engine Cookies
 Newsletter Subscriptions  
 Online Customer Service Chat  
 Online Surveys  
-
+ 
 
 This Privacy Statement covers only information that is collected through the Web Sites ("Sites") covered by this Statement and does not cover information that may be collected through software downloaded from the Sites.
 
 ## Information Collection
 
-DDI or our clients are the owners of the information collected on the Sites covered by this Privacy Statement. DDI collects information from our users at several different points on the Sites. 
+DDI or our clients are the owners of the information collected on the Sites covered by this Privacy Statement. DDI collects information from our users at several different points on the Sites.
 
 Clients use the Sites to collect candidate/applicant information regarding a specific job posting or opening.  There is no direct relationship between the client’s site and the Sites, although at a client’s request client sites may link to content on the Sites.
 
@@ -72,13 +72,13 @@ For sites where you have a user account, you are solely responsible for maintain
 
 ## Information Use
 
-DDI will not use individual records or other data in a manner that identifies individuals or client organizations as the source of the data, except for the purposes for which they are collected. 
+DDI will not use individual records or other data in a manner that identifies individuals or client organizations as the source of the data, except for the purposes for which they are collected.
 
 Data summaries aggregated across many participants and client organizations may be prepared for broader system evaluation and improvement, and for the development of assessment norms.  Innovations and improvements derived from these analyses are used to improve DDI's current and future assessment systems and tools.
 
 Summaries of these aggregated analyses may be presented to public audiences (e.g., at scientific conferences).  Review of our general approaches and accumulated results with professional audiences ensures that DDI's assessment methods remain up-to-date with best practices and professional, technical, and legal standards.  In these summaries, individual client organizations and participant identities remain completely confidential, and results (due to aggregation) cannot be linked to individuals or client organizations.
 
-Summaries of aggregated data may also be used to create normative profiles for assessments.  Normative profiles will not identify individuals but may identify some or all of the client organizations that are contained within the profile for the purpose of defining the characteristics of the norm sample.  Organization names will not be cited unless 5 or more organizations contribute to the aggregated profile.  At no time will normative profiles be used that allow an individual's or contributing organization's data to be identified as such. 
+Summaries of aggregated data may also be used to create normative profiles for assessments.  Normative profiles will not identify individuals but may identify some or all of the client organizations that are contained within the profile for the purpose of defining the characteristics of the norm sample.  Organization names will not be cited unless 5 or more organizations contribute to the aggregated profile.  At no time will normative profiles be used that allow an individual's or contributing organization's data to be identified as such.
 
 ## Cookies
 
@@ -96,11 +96,11 @@ The information we collect is used to analyze trends, administer the Sites, trac
 
 ## Service Announcements
 
-On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if one or more of our Sites is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if one or more of our Sites is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
 ## Customer Service
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes. 
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
 
 ## Sharing
 
@@ -116,7 +116,7 @@ In the event another company goes through a business transition, such as a merge
 
 ## Choice/Opt-out
 
-Users who provide information requested by the Sites, or who continue to use the Sites after having an opportunity to review this Privacy Statement, thereby consent to the terms of this Privacy Statement and to DDI's use of the information it collects as described in this Privacy Statement. Those who do not agree to this Privacy Statement may not use the Site. 
+Users who provide information requested by the Sites, or who continue to use the Sites after having an opportunity to review this Privacy Statement, thereby consent to the terms of this Privacy Statement and to DDI's use of the information it collects as described in this Privacy Statement. Those who do not agree to this Privacy Statement may not use the Site.
 
 ## Links
 
@@ -134,33 +134,33 @@ The servers that store personally identifiable information are in a secure envir
 
 ## Acceptable Use
 
-This section applies to the software systems and all related electronic or printed Help and documentation accessed via the Sites ("Software"). 
+This section applies to the software systems and all related electronic or printed Help and documentation accessed via the Sites ("Software").
 
 Users are granted nonexclusive, nontransferable permission to access and display the Software on their computer screens and to generate outputs from the Software as designed and intended per descriptions in the Software's relevant documentation.  Users acknowledge that DDI will not be liable or held at fault for any performance or operational problems resulting from non-conformance to the published technical specifications necessary for access to the Software.   DDI shall not be liable or held to be in default of performance or operational obligations due to any technical or design problem within the electronic network which compromises users' access to the public Internet.
 
 Neither the Software nor the hard-copy outputs generated from the Software may be used by or disclosed to third parties except as may be required in connection with inquiries by government or regulatory authorities.
 
-Except as expressly authorized herein, users shall not: (i) copy the Software in whole or in part; (ii) reverse compile, reverse assemble, or access with intent to "hack" all or any portion of the Software; (iii) distribute, market, rent, lease, provide access to, or transfer the Software to third parties; or (iv) modify the Software except as otherwise provided. No license, right, or interest in any DDI trademark, trade name, or service mark is granted hereunder. 
+Except as expressly authorized herein, users shall not: (i) copy the Software in whole or in part; (ii) reverse compile, reverse assemble, or access with intent to "hack" all or any portion of the Software; (iii) distribute, market, rent, lease, provide access to, or transfer the Software to third parties; or (iv) modify the Software except as otherwise provided. No license, right, or interest in any DDI trademark, trade name, or service mark is granted hereunder.
 
 ## Correcting/Updating/Deleting/Deactivating PII
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information as noted below. 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information as noted below.
 
-Contact the technical support staff via eMail or phone as designated on the site. We will respond to your request within 30 days of receiving the request. 
+Contact the technical support staff via eMail or phone as designated on the site. We will respond to your request within 30 days of receiving the request.
 
 ## Changes to the Privacy Statement
 
-We will occasionally update this Privacy Statement.  When we do, we will post those changes on the Sites, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+We will occasionally update this Privacy Statement.  When we do, we will post those changes on the Sites, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on the Sites for 30 days. 
+If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on the Sites for 30 days.
 
 ## Protection of Children's Information
 
-The Sites do not publish content or collect data that is directed at children. 
+The Sites do not publish content or collect data that is directed at children.
 
 ## Complaints Resolution
 
-If you are concerned about how your personal information is being used, you have a right to complain and to expect your complaint to be handled in a sensitive and effective manner.  At any time, you can contact us to inquire about the handling, use or disclosure of your personal information by sending an email to the persons listed under Contact Information.  We will investigate your complaint and advise you of the outcome of the investigation in a timely manner. 
+If you are concerned about how your personal information is being used, you have a right to complain and to expect your complaint to be handled in a sensitive and effective manner.  At any time, you can contact us to inquire about the handling, use or disclosure of your personal information by sending an email to the persons listed under Contact Information.  We will investigate your complaint and advise you of the outcome of the investigation in a timely manner.
 
 ## Contact Information
 
@@ -216,7 +216,7 @@ We do not share your profile with other third parties.
 
 ## Widgets
 
-Widgets support functions that require that you disclose certain personally identifiable information given the user's choice of participation. This information is collected in many different ways such as: forms, surveys, contests, forums, subscribing or unsubscribing to mailings and correcting or updating personally identifiable information and are only used for the purpose in which they were collected. 
+Widgets support functions that require that you disclose certain personally identifiable information given the user's choice of participation. This information is collected in many different ways such as: forms, surveys, contests, forums, subscribing or unsubscribing to mailings and correcting or updating personally identifiable information and are only used for the purpose in which they were collected.
 
 ## Blogs, Chat Rooms, Message Boards, and Public Forums
 
@@ -246,7 +246,7 @@ This Privacy Statement covers the use of cookies by the Sites and does not cover
 
 ## Newsletter Subscriptions
 
-DDI’s third party newsletter publishing service provider for managing email newsletter subscriptions collects and stores visitor information in a secure and private manner on behalf of DDI.  This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics. 
+DDI’s third party newsletter publishing service provider for managing email newsletter subscriptions collects and stores visitor information in a secure and private manner on behalf of DDI.  This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics.
 
 This information is owned by DDI and is not accessible to any other third parties.
 
