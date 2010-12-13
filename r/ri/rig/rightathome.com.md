@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightathome.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010014id_/http%3A//www.rightathome.com/view.aspx%3Fpid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightathome.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213065709id_/http%3A//www.scjbrands.com/privacy) for the most accurate reproduction.*
 
 # S.C. Johnson & Son, Inc. Online Privacy Policy and Practices
 
