@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshwap.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215103009id_/http%3A//www.freshwap.com/108-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwap.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213091021id_/http%3A//freshwap.net/108-Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Rapidshare Downloads - Freshwap.Net
+# Privacy Policy HotFile FileServe & Rapidshare Downloads - Freshwap.Net
 
   
 
@@ -33,25 +33,31 @@ Freshwap.Net reserves the right, at any time, to modify, alter or update the Pri
   
 
 
-## [**Privacy Policy Fast Download**](http://click.idownloadaccess.com/?PID=d03c18a8-77e3-46fa-8ff0-6478cc15c9e0&q=Privacy%20Policy)
+## [**Privacy Policy Fast Download**](http://www.100xdownloads.com/1/?q=Privacy%20Policy)
+
+  
+[**Privacy Policy Downloads**](http://www.freshwap.net/ea9/dl/Privacy%20Policy)   
+
+
+##### Privacy Policy Download via Hotfile Rapidshare Fileserve Megaupload & FileSonic, Privacy Policy free torrent download,
+
+**Related Posts:**
+
+* [Privacy in Context: Technology, Policy, and the Integrity of Social Life](http://www.freshwap.net/ebooks/313140-privacy-in-context-technology-policy-and-the.html)
+* [Privacy Eraser Pro 8.25](http://www.freshwap.net/applications/168646-privacy-eraser-pro-8.25.html)
+* [Privacy Eraser Pro 8.25](http://www.freshwap.net/applications/168420-privacy-eraser-pro-8.25.html)
+* [Privacy Eraser Pro 8.0.2](http://www.freshwap.net/applications/33113-privacy-eraser-pro-8.0.2.html)
+* [Privacy Eraser Pro v8.50](http://www.freshwap.net/applications/417107-privacy-eraser-pro-v8.50.html)
+  
+
+
+Dear visitor, you went to the site as unregistered user. Only registered and authorized users can leave comments. Please log in or **[Register](http://www.freshwap.net/index.php?do=register "Register")** , if not registered.
 
   
 
 
-#### [**Privacy Policy Direct Download**](http://click.idownloadaccess.com/?PID=d7a795c3-285a-49cc-92bf-d6d0257edc13&q=Privacy%20Policy)
+#8 **[maan](http://www.freshwap.net/user/maan/)** 2 September 2010 01:57
 
-  
-
-
-##### Privacy Policy Download via rapidshare megaupload hotfile, Privacy Policy torrent download, Privacy Policy free full with Crack Keygen Serial,
-
-**Related Posts** :
-
-* [Digital Crossroads: American Telecommunications Policy in the Internet Age](http://www.freshwap.net/ebooks/75294-digital-crossroads-american-telecommunications.html)
-* [Total Privacy 5.8.0 Full +Portable](http://www.freshwap.net/applications/38523-total-privacy-5.8.0-full-portable.html)
-* [Windows Group Policy: Windows Server 2008 and Windows Vista Resource Kit](http://www.freshwap.net/ebooks/37437-windows-group-policy-windows-server-2008-and.html)
-* [Pointstone Total Privacy 5.8.2.430](http://www.freshwap.net/applications/45923-pointstone-total-privacy-5.8.2.430.html)
-* [ Derek Melber "Windows Group Policy: Windows Server 2008 and Windows Vista ...](http://www.freshwap.net/ebooks/37737-derek-melber-windows-group-policy-windows-server.html)
 | Information |   
 ---|---|---  
 |  | Members of **Guest** cannot leave comments. |   
