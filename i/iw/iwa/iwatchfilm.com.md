@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwatchfilm.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603072520id_/http%3A//iwatchfilm.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchfilm.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213034031id_/http%3A//iwatchfilm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ As many other online services, our Site collects statistics on customers' IP add
 **Certain information is being accumulated on the personal account of each registered user (e.g., list of downloads, e-mail/ICQ correspondence with the Administration, statistics, etc.). The Site Administration agrees not to abuse this data and not to disclose it (unless agreed with the user beforehand).
 
 **Financial information  
-**In order to pay for the Site's Services, the user provides information on the method of payment (e.g., credit card details, etc.) to a payment transfer company that has a contract with iwatchfilm.com. All details of your methods of payments are UNAVAILABLE to the Site's Administration. Nevertheless, the Administration agrees to observe the security and nondisclosure of any financial information on its users with all possible care (e.g., information on completed payments). 
+**In order to pay for the Site's Services, the user provides information on the method of payment (e.g., credit card details, etc.) to a payment transfer company that has a contract with http://iwatchfilm.com. All details of your methods of payments are UNAVAILABLE to the Site's Administration. Nevertheless, the Administration agrees to observe the security and nondisclosure of any financial information on its users with all possible care (e.g., information on completed payments). 
