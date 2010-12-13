@@ -1,184 +1,54 @@
-> *The following text is extracted and transformed from the gelaskins.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620044713id_/http%3A//www.gelaskins.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gelaskins.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213184952id_/http%3A//www.gelaskins.com/privacy) for the most accurate reproduction.*
 
-# GelaSkins | Protection with Style, not Bulk
+# 
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like GelaSkins Inc . We are based in Canada . 
+## This Privacy Policy is effective as of September 16, 2009.
 
-Our principal activity is: Online sales of iPod accessories Our privacy policy covers GelaSkins Inc and its Web site:  Organisation Name:  |  GelaSkins Inc   
----|---  
-Address:  |  2738 Dundas Street West   
-City, Zip:  |  Toronto , M6P 1Y3   
-State:  |  ON   
-Country:  |  Canada   
-Controller:  |  Gelaskins   
-Web Sites(s):  |  http://www.gelaskins.com   
-Our privacy policy also covers our subsidiary and its Web site: 
+GelaSkins provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.gelaskins.com ("Site"). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
-Providing Visitors with Anonymous Access 
+By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the Canada. If you reside outside Canada your personally identifiable information will be transferred to Canada, and processed and stored there under Canadian privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, Canada.
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy at gelaskins dot com.
 
-The services and links of our Web site 
+## Information Collection and Use
 
-Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others. 
+Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to communicate with you, and to manage your registered user account, if you have one.
 
-Our Web site does not include links to third party Web service providers. 
+**Information Collected Upon Registration.** If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to GelaSkins. This happens in a number of instances, such as when you sign up for a User Account, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.
 
-Automatic Collection of Information 
+**Additional Information** Your full user name and your photo, if you decide to upload one, are displayed to people in the GelaSkins network to enable you to connect with people on GelaSkins, as specified in your privacy settings. If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
 
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes: 
+**Use of Contact Information** In addition, we may use your contact information to market to you, and provide you with information about, our products and services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
-  * Customer administration 
+**Log Data** When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain, from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the sites technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
 
+## Cookies
 
+Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. GelaSkins may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
-We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. 
+## Information Sharing and Disclosure
 
-Data Collection and Purpose Specification 
+**Service Providers** We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
 
-We collect the personal data that you may volunteer while using our services. 
+Compliance with Laws and Law Enforcement GelaSkins cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of GelaSkins or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
+**Business Transfers** GelaSkins may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
 
-To access the table of personal data collected and purposes for which they are used, please click here 
+## Changing or Deleting Information
 
-We do not collect or use personal data for any purpose other than that indicated in the table below. 
+If you are a registered user of the Site, you may access and update or correct the information you provided to us by logging in to your user account and editing your personal information.
 
-If we wish to use our visitors' personal data for new purposes, we do not give them the opportunity to consent to those new purposes. 
+## Security
 
-Children's Privacy 
+GelaSkins is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-We do not knowingly collect personal data from children. 
+## Links to Other Websites
 
-We do not take specific steps to protect the privacy of children who disclose their personal data to us. 
+Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-We do not provide information about our personal data practices in relation to children on our home page, or at those sites on our Web site where we collect personal data. 
+## Our Policy Towards Children
 
-Disclosure and Visitor Choice 
+The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy at gelaskins dot com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
-We do not disclose your personal data to our subsidiaries or other organisations. 
-
-Confidentiality / Security
-
-We give you the option of using a secure transmission method to send us the following types of personal data: 
-
-  * primary personal data (such as name and contact details) 
-  * identifiers (such as credit card details, Web site password) 
-
-
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-
-
-
-We have not implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-Access to the personal data we may hold about you 
-
-You can ask us, by: 
-
-  * sending postal mail to this address ( 201-2738 Dundas St W, Toronto, ON, M6P 1Y3, Canada ) 
-
-whether we are keeping personal data about you. 
-
-We do not provide our visitors with a readable copy of the personal data that we keep about them. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-
-
-
-We do not reserve the right to refuse to provide you with a copy of your personal data. 
-
-Privacy Compliance 
-
-There are no national laws or self-regulatory schemes applicable to our web site or organisation. 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation. 
-
-In order to demonstrate that our privacy policy accords with the above privacy instrument, we are: 
-
-  * voluntarily committed to a Self Assessment procedure 
-
-
-
-Privacy Support 
-
-We do not provide our visitors with a contact point for privacy concerns or enquiries. 
-
-We do not recommend another means by which visitors' concerns may be addressed. 
-
-  
-
-
-####  Primary personal data/Business information 
-
-x  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Other personal details and profiling data 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Identifiers 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Specific Data 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-* * *
-
-  
-_
-
-Section 5: Purposes for which we collect personal data 
-
-_ _
-
-Not offering individuals the opportunity to consent to the use of their personal data for new purposes is inconsistent with the OECD Use Limitation Principle. 
-
-_ _
-
-Section 7: Disclosure and Visitor Choice 
-
-Not offering individuals the opportunity to consent to the disclosure of their personal data for new purposes is inconsistent with the OECD Use Limitation Principle. 
-
-_ __
-
-_Section 8: Confidentiality / Security_
-
-_Not taking reasonable security safeguards against unlawful destruction or accidental loss is inconsistent with the OECD Security Safeguards Principle._
-
-__ __ _Section 9: Access to the personal data we may hold about you_ _
-
-Not providing visitors with a copy of their personal data is inconsistent with the OECD Indidvidual Participation Principle. 
-
-_
-
-* * *
+*All U.S. & Canadian orders over $50 receive free UPS Standard shipping.  
+International Customers will receive a comparable discount on shipping.
