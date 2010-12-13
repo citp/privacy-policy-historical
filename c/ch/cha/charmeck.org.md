@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charmeck.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627160852id_/http%3A//www.charmeck.org/Site-Info/Legal%2BInformation/Privacy%2BNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmeck.org privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213235842id_/http%3A//charmeck.org/Pages/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Privacy Notice
+# PrivacyNotice
 
 **Purpose  
 ** This policy describes privacy practices regarding information collected from the City of Charlotte / Mecklenburg County web site.  It contains information about what data are collected and how that information is used.  This policy may be updated periodically, so please check back from time to time.
