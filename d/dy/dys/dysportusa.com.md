@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dysportusa.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608025754id_/http%3A//dysportusa.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dysportusa.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213163805id_/http%3A//dysportusa.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# <title>Dysport™ (abobotulinumtoxinA)
+# <title>Dysport® (abobotulinumtoxinA)
 
 Medicis respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information Medicis will collect and how we will use that information.
 
