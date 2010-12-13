@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208000439id_/http%3A//www.englishgrammar101.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213222754id_/http%3A//englishgrammar101.com/eg/Privacy.aspx) for the most accurate reproduction.*
 
 # English Grammar 101 (Privacy Policy)
 
@@ -6,8 +6,9 @@ An instructional
 program from  
 [Cingletree Learning](http://cingletree.com/)
 
-  Our Tenth  
-Year Online 
+Online  
+Since  
+2000 
 
  
 
