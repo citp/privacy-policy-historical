@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611004938id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brynmawr.edu privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213114417id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.*
 
 # WebPrivacy
 
