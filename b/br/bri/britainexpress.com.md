@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102135730id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213024544id_/http%3A//britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
+
+  
+  
+|    | 
 
 Britain Express has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -56,3 +60,38 @@ Little Risssington
 Cheltenham  
 Gloucestershire  
 GL54 2ND 
+
+|    | 
+
+  
+
+
+## HISTORY CORNER
+
+### Name the Historic attraction
+
+### British History Quiz
+
+### This Day in British History
+
+### Monarch Mayhem
+
+  
+
+
+|  **Old English Inns**  
+---  
+  
+[](http://www.awin1.com/cread.php?s=214050&v=2779&q=109062&r=90363)   
+[**Old English Inns**](http://www.awin1.com/awclick.php?mid=2779&id=90363)
+
+A collection of over 50 traditional Inns and Hotels in country and seaside locations in England.
+
+Perfect for people wanting a quick break at a great value price. All Old English hotels and inns are AA graded, and offer a warm and welcoming atmosphere, great food, real cask ales and good value for money.
+
+[**_Find an Inn_**](http://www.awin1.com/awclick.php?mid=2779&id=90363)  
+  
+[](http://www.historytimes.com/)
+
+  
+
