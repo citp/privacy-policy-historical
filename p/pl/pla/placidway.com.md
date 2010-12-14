@@ -1,43 +1,82 @@
-> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011915id_/http%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214023209id_/http%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
 
 # PlacidWay Privacy Policy | Medical Tourism
 
-|   
----  
-|  |   |  |   
----  
-  
-|   
-**All material provided on PlacidWay are for informational or educational purposes only. Consult a physician regarding the applicability of any opinions or recommendations with respect to your symptoms or medical condition.**  
----  
-|   
-|  **PLACIDWAY PRIVACY STATEMENT** PlacidWay, LLC, is committed to respecting your privacy and the confidentiality of your personal data. This Privacy Statement is designed to assist you in understanding how PlacidWay LLC uses and safeguards the information you provide while visiting the PlacidWay.com website.
+**PlacidWay Privacy Policy**
 
-PlacidWay, LLC will not sell or transmit to others any personally identifiable data entered on the PlacidWay.com site. This personally identifiable data includes your name, e-mail address or any piece of information which could be associated with your name or email address. PlacidWay will cooperate fully with verified law enforcement authorities and government agencies whenever duly requested to do so.   
-  
-|   
-|  **INFORMATION GATHERED THROUGH THE PLACIDWAY.COM WEBSITE** PlacidWay may track the domains from which people visit PlacidWay.com in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, PlacidWay may use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of PlacidWay.com's services, and business planning.
+1\. PlacidWay is (“We/Us”) is committed to your privacy.  This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. 
 
-Currently, PlacidWay uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the PlacidWay.com website.   
-  
-|   
-|  **COOKIES** The PlacidWay.com website employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. PlacidWay, LLC uses cookies to better serve users of our PlacidWay.com website; any cookies sent by PlacidWay will be marked so that they will be accessible only by the PlacidWay.com website subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all.   
-|   
-|  **OTHER NOTIFICATION** In order to implement or enforce the Terms, PlacidWay may use user-provided e-mail addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will PlacidWay disclose individual user personal information to unrelated third parties that is not publicly available.   
-|   
-|  **LINKS WITH OTHER SITES** The PlacidWay.com website contains links to other websites, whether owned or controlled by PlacidWay LLC affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from that of the PlacidWay.com website. PlacidWay LLC is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit.   
-|   
-|  **"OPT-IN" EMAILS** Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions.   
-|   
-|  **ACCESS** On the PlacidWay.com website, users can view their data on their personal account or profile page. Where technically feasible (e.g. when a user is logged into the PlacidWay Forums or elsewhere on the site) users are permitted to update their personal information directly through PlacidWay.com website. When such updating is not technically feasible, e.g. the system is inaccessible or unavailable, PlacidWay LLC will make reasonable efforts to assist users in updating their personal information.   
-|   
-|  **SECURITY** To secure site integrity, PlacidWay LLC employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis.   
-|   
-|  **ENFORCEMENT** In the event that PlacidWay becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, PlacidWay LLC shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement.
+**2\. General Information**  
+PlacidWay provides information regarding medical tourism. Much of our information is published on our website, however, we do also offer our "Request for Information" service.  When you complete our online Request for Information form, the information that you provide helps us provide detailed information regarding the location of clinics in the nations you are interested in that possess health care providers who are able to provide the treatment you seek.  We will share this information with the clinics and healthcare providers so that we can provide you with clinic and healthcare contact names and phone numbers and so that you can conduct your own research to determine if the clinics and healthcare professionals meet your expectations. 
 
-If PlacidWay becomes aware that a user's personal information provided to PlacidWay has been disclosed in a manner not in accordance with this Privacy Statement, PlacidWay shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that PlacidWay knows this information.   
-  
-|   
-|  **NO GUARANTEES FOR FACTORS BEYOND PLACIDWAY CONTROL** While this Privacy Statement expresses PlacidWay standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond PlacidWay LLC's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, PlacidWay, LLC disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
+At your request, in order to facilitate a review of your medical records by the clinic or healthcare profession of your choice, we will forward your medical records either electronically or by fax.  After receiving your medical records and reviewing the same, the clinic or health care provider you have selected will be able to better advise you regarding your medical treatment options, related costs, post-surgery recovery time and the amount of time in total you will need to stay in the nation where the clinic is located. 
 
-If you have any concerns about our privacy policy, please send your comments/questions using our feedback form or [info@placidway.com](mailto:info@placidway.com).
+We do not share your medical information, name, email address or any other personally identifiable information with any third parties except as we have explained in the above paragraph. 
+
+Should you use our “forward to friend” service, we may store related file details in our database.  We may send emails to those parties so that we can encourage them to sign up for our services. We also will store information regarding such “friend” emails so that we can determine which of our members are more successful regarding recruiting new members to our web site in case we wish to reward or provide some sort of positive feedback to such members. 
+
+You can access our Website home page without disclosing your personal data. Some aspects of our site are available to registered members only and as our terms require, you must provide us with the required registration information, which has to be complete, accurate and up to date. 
+
+It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us.  We do have a health related email service that you may subscribe to if you wish.  If you do subscribe to our email, we will stop sending it to you if you decide to opt-out by following the opt-out instructions. 
+
+**3.   Acquisition of our Company and other Transactions. **  
+Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company. 
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. We may transfer information about you if we are acquired by or merged with another company. In this event, we will notify you by email or by putting a prominent notice on our web site before information about you is transferred and becomes subject to a different privacy policy.
+
+**4\. Exceptions to our Privacy Policy**  
+Possible exceptions to our policy include the following circumstances, and as indicated herein:
+
+If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action, should we posses that information, then we would share whatever personally identifying information we possess with the seeking party. Generally speaking, it is unlikely that we would possess that information except as explained herein. 
+
+If our attorney requests personally indentifying information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter then we will share whatever personally indentifying information that we may have with our attorney. 
+
+If we are otherwise required by law to release your private information. 
+
+You may, of course, decline to submit personal information through our site or to us, but we may not be able to provide certain services to you. 
+
+**5\. Cookies**  
+Please note that we may employ the use of cookies.  Such usage of cookies could be when users create user accounts (should we offer that service at any time) but we may further employ cookies to assist the functionality of other tools, services and functions in the future.
+
+Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions. 
+
+We use cookies, web beacons, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit our site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+
+The information gathered is not shared with third parties. You may turn off your cookies by adjusting the appropriate setting on your browser. 
+
+Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired. Turning off your cookies may interfere with some of our site’s functions and the site may not appear to be properly working if you turn off your cookies. 
+
+In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes. 
+
+We will gather site visitor’s and member’s IP (Internet Protocol) addresses and aggregate the same so that we can provide demographic information for potential partners, investors or advertisers or for other purposes designed to promote or benefit our web site or business in general. Such information is not personally identifiable in nature. 
+
+When you visit this website, we can record certain information in relation to your visit such as:
+
+  * Your IP or proxy server IP;
+  * Basic domain information;
+  * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * The date and time of your visit to the website;
+  * The length of your session;
+  * The pages which you have accessed;
+  * The number of times you access our site within any month;
+  * The size of file you look at;
+  * The website which referred you to our website; and
+  * The operating system which your computer uses.
+
+
+
+Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties. These activities are done for the benefit of the site’s user so that we can provide a better, more effective and enjoyable user experience to all users. 
+
+Other possible uses for the information that we collect include internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our We do not knowingly collect personal data or information from minors. 
+
+We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. 
+
+**6.   Service Providers**  
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+
+**7\. Compliance with Law Enforcement.**  
+As indicated above, we will cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of our company or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, an illegal, unethical or legally actionable activity.
+
+**8\. Email Referrals**
+
+If you choose to use our email referral services to tell a friend about our products or services we will ask you for your friend's name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third-party provider may only use the information submitted to facilitate this one-time email. 
