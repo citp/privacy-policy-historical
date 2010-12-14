@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsenergy.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205052629id_/http%3A//www.cpsenergy.com/About_CPS_Energy/Contact_Us/internet_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsenergy.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214091105id_/http%3A//cpsenergy.com/About_CPS_Energy/Contact_Us/internet_policy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
