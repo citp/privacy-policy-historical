@@ -1,61 +1,82 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414024305id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214111216id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
 
 # Compiere Privacy Statement
 
-Version 2.1 - 14-May-2003 - modified 26-Jan-04/08-Apr-04
+Consona Corporation has created this privacy policy to demonstrate its firm commitment to secure and trustworthy Internet commerce and your privacy. Consona takes steps to protect personal data collected on this site against unauthorized access. "Personal Data" is information that is unique to you, or that enables us to identify you, such as your name, title, company name, industry, address, phone number, or e-mail address. 
 
-his privacy note discloses the privacy practices for **http://www.compiere.org** and **http://www.compiere.com**. Please note that we use and link to SourceForge services governed by the [SorceForge Privacy Statement](http://sourceforge.net/docman/display_doc.php?docid=6049&group_id=1).
+In the event that Consona changes its privacy policy, the changes will be posted on this page. BY USING THIS WEB SITE OR PROVIDING US WITH YOUR PERSONAL DATA, YOU EXPRESSLY CONSENT TO OUR USE OF YOUR PERSONAL DATA CONSISTENT WITH THIS PRIVACY POLICY. 
 
-## Our Commitment To Privacy
+Consona will not sell, rent, or lend your Personal Data to anyone without your consent. By using this site and providing personal data to us, you consent to the collection and use of data, including Personal Data, in accordance with this privacy policy. Other than for promoting our own products and services, Consona does not sell, rent, or trade our potential customer list with any other company for the purpose of telemarketing or other promotional activities. 
 
-To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+A "User" is a person using the Consona corporate Web site. As long as a User's identity remains anonymous, unless the User otherwise consents, Consona may use all Personal Data generated in connection with the User's use of this Web site, including any communication with Consona or its business units, and to transmit or publish such data. Consona may transmit and use any Personal Data for Consona internal use and in delivering solutions to both existing and potential customers. Consona may use affiliate companies or third parties to assist in providing services, and may transmit Personal Data to those third parties. 
 
-## The Information We Collect
+## What information do we collect and why? 
 
-This notice applies to all information collected or submitted on the ComPiere web sites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+### IP Addresses:
 
-Name, Company, Address, Email address, Phone/Fax number, Credit/Debit Card Information, Products and Services bought and downloaded, Subscriptions to Mailing lists as well as info/support Requests.
+We may use your IP address (not your e-mail address) to help diagnose problems with our server, to administer our Web site, or to gather broad demographic information. 
 
-We use cookies to deliver content specific to your interests and to save your information so you don't have to reenter it each time you visit our site. The cookie stores user name on your computer. If you have the use of cookies disabled, you need to enter the information each time.
+### Cookies: 
 
-## The Way We Use Information
+A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information, such as a user ID, that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+
+We may use cookies to enhance the user experience and deliver personalized content. Cookies help us to deliver information specific to your interests, to eliminate the need to re-enter your password each time you visit our site, or to keep track of your purchases. Some parts of this site also may use cookies to track user traffic patterns for the purpose of determining the usefulness of information supplied to visitors, as well as see how effective our navigational structure is in helping users reach that information. Consona does not correlate this information with data about individual users, nor does it share this information or sell it to any third party. Advertising networks that serve ads onto our web site may use their own cookies. 
+
+To enhance your experience and minimize errors in our system, we may monitor your activity on our website. 
+
+## Online Surveys and Forms 
+
+### Surveys: 
+
+From time to time, we may conduct online surveys. Our surveys may ask you for your feedback or for demographic information, such as your zip code or your industry sector. If the online survey collects Personal Data, we may use that data to send you further information. 
+
+By completing and submitting a survey, you agree that Consona may contact you regarding the topic(s) of the survey, to send or request additional information for follow-up purposes, or for other reasons that may arise. 
+
+### Forms: 
+
+You may fill out a Contact Us or similar form on this Web site in order to access or request additional information. If/when you sign into the Web site, fill out a form, and/or download information, you are required by Consona to submit your Personal Data or other contact information. Consona adds this information to a database in order to build relationships with potential customers, business partners, suppliers, and contacts. This information also is used to enhance your user experience on the site. By completing and submitting a form, you agree that Consona may contact you in order to send or request additional information for follow-up purposes or for other reasons that may arise. 
+
+You can opt out of communications with Consona at any time. For more details, refer to the Opt Out Options below. 
+
+## E-mail and Mailing Addresses; Contacting Consona Corporation
+
+If you provide us with your e-mail or mailing address or contact us by phone, mail, fax, or e-mail, Consona may begin communications with you and/or your company. However, other than in accordance with this Privacy Policy, we will not share your e-mail address with others outside Consona. For more details, check the Opt Out Options below. 
+
+### Web Store:
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. _Example: If you purchase a product provided by our partners (e.g. consulting, documentation, translation, extensions, etc.) we will provide your information to the partner to complete the transaction._
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+You can access all your personally identifiable information that we collect online and maintain in the Web Store by logging in with your username and password and viewing them (<https://www.compiere.com/wstore/info.jsp>). Please do not share your access information to maintain privacy.
 
-You can register with our web site if you would like to receive information as well as updates on our new products and services. Information you submit on our web site will not be used for this purpose unless you fill out the registration form (<https://www.compiere.com/wstore/info.jsp>). You can also unsubscribe anytime on this page.
+You can correct factual errors in your personally identifiable information by updating the information directly or by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-We use non-identifying and aggregate information to better design our web site and to share with third parties. For example, we may tell a business partner that X number of individuals visited a certain area on our web site, but we would not disclose anything that could be used to identify those individuals.
+## Demographic and User Profile Data 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Consona may use demographic or user profile data that we collect to tailor your Web experience, deliver content that we think may interest you, and display information that matches your preferences. We may use this data to gain insight into your needs and interests. 
 
-## Our Commitment To Data Security
+## Links to Other Sites 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+This site may contain links to other sites. Consona is not responsible for the privacy practices or the content of other Web sites. Please refer to the policies of the respective site. Please note that we use and link to SourceForge services governed by the [SorceForge Privacy Statement](http://sourceforge.net/docman/display_doc.php?docid=6049&group_id=1).
 
-Encryption is used whenever sensitive information is transmitted or received online.
+## Opt Out Options 
 
-## Our Commitment To Children's Privacy:
+Contact a Consona sales development representative toll-free at (888) 8 CONSONA to request that your contact information be marked as "Do Not Solicit." A user may choose to opt back in to receiving general and promotional communications from Consona at any time. 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.
+If you wish to be removed from our registration database, please follow the opt-out instructions set forth above. 
 
-## How You Can Access Or Correct Your Information
+If you no longer wish to receive other general or promotional e-mails from Consona , please follow the opt-out instructions set forth above or within the e-mail you receive from Consona. 
 
-You can access all your personally identifiable information that we collect online and maintain by logging in with your username and password and viewing them ([https://www.compiere.com/wstore/login.jsp](https://www.compiere.com/wstore/info.jsp)). Please do not share your access information to maintain privacy.
+## Other Questions 
 
-You can correct factual errors in your personally identifiable information by updating the information directly or by sending us a request that credibly shows error.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact: 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-## How To Contact Us
-
-If you have any questions about this privacy notice, the practices of this site, or your dealings with this Web site, you can contact
-
-_Compiere, Inc.  
-3600 Bridge Parkway  
-Suite 102  
-Redwood City, CA 94065  
-USA_
+Compiere.com Site Administrator   
+Consona Corporation  
+Three Parkwood Crossing   
+450 E. 96th Street, Suite 300   
+Indianapolis, IN 46240   
+Main Phone Number: (317) 249-1200   
+Main Fax Number: (317) 249-1999   
+Toll Free: (888) 8 CONSONA
