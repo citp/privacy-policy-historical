@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330065737id_/http%3A//budk.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214142442id_/http%3A//budk.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Swords, Collectible Knives and Swords, Bowie Knives, Fantasy Swords and More from BUDK.com
 
 * * *
 
+ Updated: April 22, 2010
+
 **Scope of this Online Privacy Statement**  
 This Online Privacy Statement describes how BUDK uses, shares and protects the personal information we collect through BUDK.com. “Personal information” is information that identifies you personally, either alone or in combination with other information. Personal information may include, for example, your name, address, email address, credit card information, and transaction history.
 
+**Your  Email Privacy  
+**BUDK.com values and respects your online privacy.  Although we collect and save your email address in order to share information with you about your order, if you do not wish to receive emails from BUDK.com, we will remove you from our list as soon as possible.  **We do not sell, rent, or distribute your email address to anyone.**
+
 **Your Consent to This Online Privacy Statement**  
-By browsing or using BUDK.com, you are agreeing to the collection, use, and disclosure of your personal information as described in this Online Privacy Statement. If you do not consent to the collection, use, and disclosure of your personal information as described in this Online Privacy Statement, you should not use this site.
+By browsing or using BUDK.com, you are agreeing to the collection, use, and disclosure of information related to your purchase as described in this Online Privacy Statement.
 
 **Questions Concerning Our Online Privacy Practices**  
 If you have any questions or concerns regarding this Online Privacy Statement or our privacy practices, please email us at [webcs@budk.com](mailto:webcs@budk.com) or write to us at BUDK Worldwide, PO Box 2768, Moultrie, GA 31776.
@@ -90,3 +95,5 @@ BUDK has industry standard measures in place to protect the security of the pers
 ## Children and Minors
 
 BUDK.com is not directed at nor targeted to children We do not use this site to knowingly solicit personal information from or market to children. If you are under 18 years of age, you should not submit any personal information to us.
+
+Updated: April 22, 2010
