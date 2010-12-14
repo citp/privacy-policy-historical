@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the eworldtradefair.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328205252id_/http%3A//www.eworldtradefair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eworldtradefair.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215001448id_/http%3A//www.eworldtradefair.com/privacy.html) for the most accurate reproduction.*
 
-# B2B Privacy Policy: Manufacturers Exporters Suppliers and Wholesale Distributors Online at Eworldtradefair.com
+# B2B: B2B Directory, B2B Portal, B2B Marketplace India, B2B Trade Portal and Marketing News Online
 
+  
 **Postal Address:**
 
 9 Industrial Area,  
@@ -19,7 +20,7 @@ All Emails registered with us are the part of proprietary information, and are n
 
 For all future purposes, if you do not want to receive Email(s) from us, the same can be corresponded at info@eworldtradefair.com 
 
-We can provide access to the visitors on their information credentials, strictly on the basis of individual request forwarded to us in writing, through an Email. Thus, we can give access to viable information resource vis-à-vis, unique identifier information (e.g., customer number or password); communications that the consumer/visitor has directed to our website (e.g., Emails, customer inquiries) and the contact information (e.g., name, address, phone number) thereof. We also provide opportunity to the portal visitors to edit/correct any errors/Faux Pax in their contact information. 
+We can provide access to the visitors on their information credentials, strictly on the basis of individual request forwarded to us in writing, through an Email. Thus, we can give access to viable information resource vis-?-vis, unique identifier information (e.g., customer number or password); communications that the consumer/visitor has directed to our website (e.g., Emails, customer inquiries) and the contact information (e.g., name, address, phone number) thereof. We also provide opportunity to the portal visitors to edit/correct any errors/Faux Pax in their contact information. 
 
 In addition, the consumers registered with us can request the access to their information, by emailing us at info@eworldtradefair.com 
 
