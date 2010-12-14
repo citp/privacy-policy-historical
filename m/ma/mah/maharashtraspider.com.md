@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maharashtraspider.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506233601id_/http%3A//www.maharashtraspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maharashtraspider.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214174928id_/http%3A//maharashtraspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MaharashtraSpider.com privacy policy
 
@@ -8,7 +8,7 @@
 
 At MaharashtraSpider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting MaharashtraSpider.com, you are accepting this privacy policy and our Terms & Conditions.
 
-If you have any questions about this Privacy Policy, please feel free to **[Contact Us](http://maharashtraspider.com/general/Contactus.aspx)**.
+If you have any questions about this Privacy Policy, please feel free to **[Contact Us](https://web.archive.org/general/ContactUs.aspx)**.
 
  **How do we use the information we gather?**
 
@@ -38,14 +38,9 @@ As we continue to develop and grow our web site, we may sell MaharashtraSpider.c
 
 **Contact Us**
 
-If you would like to contact us about any information or privacy policy you can If you need to contact the webmaster of MaharashtraSpider.com, please **[Write to us.](mailto:webmaster@Maharashtraspider.com)**
+If you have any questions about this Privacy Policy or want to contact Webmasters of MaharashtraSpider.com for any suggestions, queries, please feel free to **[Contact Us](https://web.archive.org/general/ContactUs.aspx)**.
 
  **SpiderWorks Technologies Pvt Ltd** **  
 Kochi. India**
 
-We would request you please provide us as much information as possible to resolve the issue.
-
-* * *
-
-  
-
+We would request you please provide us as much information as possible to resolve the issue. 
