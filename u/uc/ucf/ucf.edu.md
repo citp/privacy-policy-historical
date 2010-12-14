@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618080734id_/http%3A//www.ucf.edu/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214102456id_/http%3A//www.ucf.edu/privacy) for the most accurate reproduction.*
 
-# University of Central Florida: Privacy Policy
+# University of Central Florida: Privacy
+
+### Privacy Policy
 
 Thank you for visiting the University of Central Florida Web site. Your privacy is very important to us. Our policy is to collect no personal information about you when you visit our Web site unless you affirmatively choose to make such information available to us.
 
