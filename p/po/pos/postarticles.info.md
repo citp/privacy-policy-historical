@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postarticles.info privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215083054id_/http%3A//www.postarticles.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postarticles.info privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214235646id_/http%3A//www.postarticles.info/privacy-policy) for the most accurate reproduction.*
 
 # Postarticles.info » Privacy Policy
 
@@ -77,5 +77,3 @@ This privacy statement
 This privacy statement is based on a precedent created by
 
 employmentlawcontracts.co.uk and published by freenetlaw.com.
-
-Popularity: 15% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
