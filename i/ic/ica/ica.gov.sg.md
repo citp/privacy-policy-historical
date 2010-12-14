@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ica.gov.sg privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628163905id_/http%3A//www.ica.gov.sg/page.aspx%3Fpageid%3D120%26secid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ica.gov.sg privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214044258id_/http%3A//www.ica.gov.sg/page.aspx%3Fpageid%3D120) for the most accurate reproduction.*
 
 # ICA - Privacy Statement
 
@@ -12,6 +12,3 @@
 
 
 Last updated on 17 Apr 2008
-
-  
-
