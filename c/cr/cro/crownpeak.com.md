@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603012007id_/http%3A//www.crownpeak.com/Company/Legal/Crownpeak-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214132311id_/http%3A//crownpeak.com/Company/Legal/Crownpeak-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # 
 
