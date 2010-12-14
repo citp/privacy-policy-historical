@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eearticles.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529160941id_/http%3A//eearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eearticles.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214161136id_/http%3A//www.eearticles.com/privacy.php) for the most accurate reproduction.*
 
 # EEArticles - Privacy Policy
+
+At the discretion of eearticles.com and its owner your articles may be reposted or reused as long as the original author is given credit for writing the article.  Your article will never be sold but may be reused and republished.
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
@@ -57,16 +59,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
 This policy was last modified on 13/07/2009
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://eearticles.com/  
-109 Oswald Street  
-Falkirk,   
-Stirlingshire,   
-FK1 1QL  
-Scotland  
-Tel: +44 (0)1324 412054  
-Email:info AT metabin DOT com
