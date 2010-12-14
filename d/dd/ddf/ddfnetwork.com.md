@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ddfnetwork.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117030709id_/http%3A//ddfnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddfnetwork.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214171700id_/http%3A//ddfprod.com/privacy) for the most accurate reproduction.*
 
-# DDF NETWORK
+# 
 
 **_Privacy Policy_**
 
