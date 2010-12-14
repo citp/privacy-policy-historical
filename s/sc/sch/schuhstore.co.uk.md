@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614184540id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113151id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Schuh
 
