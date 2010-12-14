@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjorn3d.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110051315id_/http%3A//www.bjorn3d.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjorn3d.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214074946id_/http%3A//bjorn3d.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bjorn3d.com
 
