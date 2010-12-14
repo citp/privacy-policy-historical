@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the colorfxweb.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505081618id_/http%3A//www.colorfxweb.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorfxweb.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214140452id_/http%3A//colorfxweb.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
-[](https://web.archive.org/web/20100505081618id_/http%3A//www.colorfxweb.com/content/upload-files.aspx) [](https://web.archive.org/web/20100505081618id_/http%3A//www.colorfxweb.com/content/15-years.aspx)
-
-|  |   
----  
 |    
 ColorFX, Inc. understands the importance of protecting the privacy of ColorFXweb.com users. The information collected on the ColorFXweb.com website is used to market and improve the services we and our subsidiaries offer, to improve the ColorFXweb.com web site content, and to contact you with updates to the web site or for other marketing purposes.  
   
