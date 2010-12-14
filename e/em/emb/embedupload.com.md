@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the embedupload.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119044018id_/http%3A//www.embedupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedupload.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214161028id_/http%3A//embedupload.com/privacy.php) for the most accurate reproduction.*
 
-# Embed Upload - Upload your files to multiple file hosting sites
+# !EmbedUpload.com - Multiple upload to multiple file hosting sites
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by Embedupload for measuring usage. 
@@ -19,4 +19,4 @@ We ask individual users to identify themselves and the information requested to 
 
 **Changes to this Privacy Policy** Please note that this Privacy Policy may change from time to time. Embedupload may update this Privacy Policy in the future. We expect most such changes will be minor. Regardless, we will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our website. 
 
-**How you can contact us** If you have questions about this Privacy Policy, please e-mail us at [contact zone](https://web.archive.org/web/20100119044018id_/http%3A//www.embedupload.com/contact.php). When we receive formal written complaints at this address, we will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints. 
+**How you can contact us** If you have questions about this Privacy Policy, please e-mail us at [contact zone](https://web.archive.org/web/20101214161028id_/http%3A//embedupload.com/contact.php). When we receive formal written complaints at this address, we will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints. 
