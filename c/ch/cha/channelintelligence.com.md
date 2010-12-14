@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelintelligence.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230033549id_/http%3A//www.channelintelligence.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelintelligence.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214180128id_/http%3A//channelintelligence.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Channel Intelligence | Privacy Policy
 
@@ -96,6 +96,12 @@ These third party websites and advertisers, or Internet advertising companies wo
   * You can always choose not to take advantage of certain Channel Intelligence services. 
 
 
+
+**Opt-Out**
+
+At any time, you may Opt-Out of receiving behavioral targeted display advertisements from advertisers using marketing services from Channel Intelligence. Opting-Out does not prohibit Channel Intelligence or its advertisers from serving display advertisements to you, but it does eliminate our ability to display relevant ads based on your personal interests. If you delete or restrict cookies, you may need to re-register your Opt-Out preferences.
+
+Click here to Opt-Out of receiving behavioral targeted display advertisements served by Channel Intelligence.
 
 **Conditions of Use, Notices, and Revisions**
 
