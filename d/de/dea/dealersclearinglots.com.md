@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealersclearinglots.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109041721id_/http%3A//dealersclearinglots.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealersclearinglots.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214110404id_/http%3A//dealersclearinglots.com/privacy.aspx) for the most accurate reproduction.*
 
 # Untitled Document
 
