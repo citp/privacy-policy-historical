@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/webpolicy/index.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm%23Privacy) for the most accurate reproduction.*
 
 # Web Policy - CFTC
 
-Font Size: [A](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)[A](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)[A](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#) // Print // 
+Font Size: [A](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)[A](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)[A](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#) // Print // 
 
-[Bookmark](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)
+[Bookmark](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)
 
-  * Thank you for visiting the U.S. Commodity Futures Trading Commission website. Our website policies are made available here. If you have any questions, please [contact us](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/contactus/index.htm).
+  * Thank you for visiting the U.S. Commodity Futures Trading Commission website. Our website policies are made available here. If you have any questions, please [contact us](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/Contact/index.htm).
 
-[Accessibility](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#accessibility)   
-[Copyright](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#copyright)  
-[Information Quality](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#information)  
-[Linking](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#linking)  
-[Privacy](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#privacy)  
-[Small Business Regulatory and Enforcement Fairness Act](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#sbrefa)  
-[Use of CFTC Seal](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#seal)  
-[Web Content Inventory](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#webcontent)  
-[Website Security](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#security)
+[Accessibility](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#accessibility)   
+[Copyright](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#copyright)  
+[Information Quality](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#information)  
+[Linking](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#linking)  
+[Privacy](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#privacy)  
+[Small Business Regulatory and Enforcement Fairness Act](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#sbrefa)  
+[Use of CFTC Seal](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#seal)  
+[Web Content Inventory](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#webcontent)  
+[Website Security](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/index.htm#security)
 
 ### Accessibility
 
@@ -60,10 +60,10 @@ The CFTC's information quality guidelines are intended to ensure and maximize th
 
 The guidelines detail how affected persons may seek and obtain appropriate correction of information maintained and disseminated by the CFTC that does not comply with the Office of Management and Budget or agency guidelines.
 
-    * [CFTC Information Quality Guidelines](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/informationqualityguidelines.html)
-    * [Request for Correction of Information Form](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/correctionrequest/index.htm)
+    * [CFTC Information Quality Guidelines](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/informationqualityguidelines.html)
+    * [Request for Correction of Information Form](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/correctionrequests.html)
     * [OMB Guidelines](http://www.whitehouse.gov/omb/fedreg/reproducible2.pdf)
-    * [Bulletin for Peer Review](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/About/CFTCReports/bulletinpeerreview.html)
+    * [Bulletin for Peer Review](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/About/CFTCReports/bulletinpeerreview.html)
 
 Questions regarding the CFTC Information Quality Guidelines may be directed to:
 
@@ -102,17 +102,17 @@ We use the information collected to measure the number of visitors to the differ
 
 "Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”).  The CFTC does not use persistent cookies. However, for some videos that are visible on [www.cftc.gov](http://www.cftc.gov/) or available on YouTube, a "persistent cookie" may be set by the third party providers when you click to play the video.
 
-If you complete a form, send a comment, or email the CFTC, you may be choosing to send us information which personally identifies you. In general, such information is used to respond to your request; it may have other uses that are identified on each form.
+If you complete a form, send a comment or input on a rule-writing process, or email the CFTC, you may be choosing to send us information which personally identifies you. In general, such information is used to respond to your request; it may have other uses that are identified on each form.
 
 For example, if you send us a comment letter on a proposed rule, that letter becomes part of the CFTC’s comment file and is available to the public. The comments help the CFTC and other members of the public evaluate proposed Commission actions.
 
 You may submit other forms to us, such as Freedom of Information Act requests or requests for correction of information.  Such forms may contain information that CFTC staff uses to track and respond to your request. Information you provide to the CFTC Division of Enforcement on our Report Suspicious Activities or Information form may be shared with other law enforcement agencies when appropriate.
 
-If you have questions about CFTC’s privacy policy and information practices, you can email us at [questions@cftc.gov](mailto:questions@cftc.gov?Subject=Web%20Policy:%20CFTC%20Privacy%20Policy).
+If you have questions about CFTC’s privacy policy and information practices, you can email us at  [privacy@cftc.gov](mailto:privacy@cftc.gov?subject=Web%20Policy%3A%20CFTC%20Privacy%20Policy).
 
-The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Compilation](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/LawRegulation/FederalRegister/PrivacyActSystemsofRecordsCompilation/index.htm).
+The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Compilation](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/LawRegulation/FederalRegister/PrivacyActSystemsofRecordsCompilation/index.htm).
 
- **[CFTC Privacy Impact Assessments](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/cftcpia/index.htm)**
+ **[CFTC Privacy Impact Assessments](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/WebPolicy/cftcpia/index.htm)**
 
  **[Federal Regulators Model Consumer Privacy Notice Online Form Builder](http://www.federalreserve.gov/bankinforeg/privacy_notice_instructions.pdf)**
 
@@ -132,7 +132,7 @@ The CFTC seal is intended for the official use of the Commodity Futures Trading 
 
 ### Web Content Inventory
 
-Section 207(f)(2) of the E-Government Act of 2002 requires Federal agencies to develop an [inventory](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/About/CFTCReports/inventory.html) of information to be published on their websites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the website.
+Section 207(f)(2) of the E-Government Act of 2002 requires Federal agencies to develop an [inventory](https://web.archive.org/web/20101214193444id_/http%3A//www.cftc.gov/About/CFTCReports/inventory.html) of information to be published on their websites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the website.
 
 ### Website Security
 
