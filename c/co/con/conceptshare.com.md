@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the conceptshare.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419065519id_/http%3A//www.conceptshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptshare.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214105454id_/http%3A//conceptshare.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ConceptShare
-
- 
+# ConceptShare - Privacy Policy
 
 ConceptShare Inc. ("we") collect the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site and the quality of our service. It is not shared with or sold to other organizations for commercial purposes, except to provide products or services you have requested, when we have your permission, or under the following circumstances: it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
