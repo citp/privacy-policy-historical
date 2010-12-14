@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061929id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214170706id_/http%3A//www.hockeygiant.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -38,7 +38,7 @@ are operated by and are trademarks of SportsGiant LLC.
   
 [Bauer Hockey](http://www.hockeygiant.com/hockey-company-stores-bauer---nike-hockey-store.html) | [CCM Hockey](http://www.hockeygiant.com/hockey-company-stores-ccm-hockey-store.html)| [Easton Hockey](http://www.hockeygiant.com/hockey-company-stores-easton-hockey-store.html) | [Reebok Hockey](http://www.hockeygiant.com/hockey-company-stores-rbk-hockey-store.html)| [Mission Hockey](http://www.hockeygiant.com/hockey-company-stores-mission-hockey-store.html) | [Tour Hockey](http://www.hockeygiant.com/hockey-company-stores-tour-hockey-store.html) | [NHL Hockey Apparel](http://www.hockeygiant.com/hockey-company-stores-nhl-team-store.html)
 
-Copyright © 2000, 2005 SportsGiant, LLC. All Rights Reserved. HockeyGiant™, HockeyGiant.com™, and SportsGiant™ are operated by and are trademarks of SportsGiant LLC.
+Copyright © 2000, 2010 SportsGiant, LLC. All Rights Reserved. HockeyGiant™, HockeyGiant.com™, and SportsGiant™ are operated by and are trademarks of SportsGiant LLC.
 
 Prices in our stores will vary from prices on our site.
 
