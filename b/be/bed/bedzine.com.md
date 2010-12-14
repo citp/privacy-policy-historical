@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedzine.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612170850id_/http%3A//bedzine.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedzine.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214223959id_/http%3A//bedzine.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy | BED Online Magazine - The Bed Blog - We are crazy about beds.
 
@@ -52,4 +52,4 @@ If we change our Privacy Policy, we will post those changes on bedzine.com.  If
 Email: To update or unsubscribe from our email newsletters or product announcements,  send email to sales at bedzine.com or call 877-753-3872 or 415-252-1575.
 
 
-81 queries. 0.6110 seconds.
+70 queries. 0.6930 seconds.
