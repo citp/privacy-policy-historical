@@ -1,75 +1,69 @@
-> *The following text is extracted and transformed from the designerscouch.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190823id_/http%3A//designerscouch.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerscouch.org privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113331id_/http%3A//designerscouch.org/privacy) for the most accurate reproduction.*
 
-# DesignersCouch: Privacy Policy
+# About DesignersCouch
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our services.
+DesignersCouch does not send Spam or sell email addresses.. This Privacy Policy describes how we treat the information we collect when you visit our web sites and/or received any emails from DesignersCouch.
 
-##### 1\. APPLICATION FOR MEMBERSHIP.
+### 1\. Your personal information collected by DesignersCouch
 
-To become a member of DesignersCouch, you must first apply for membership. This application requests personal information such as your name and location. You will also be required to submit five (5) design pieces. This information is collected so that the DesignersCouch moderators can review your work so as to make an informed decision of the level of your skills, and is kept strictly confidential. During this process, DesignersCouch will not, under any circumstances, disclose your information or design work to any third parties. 
+In order to send you e-mail from DesignersCouch (if any), we need your e-mail address. To provide you with additional services, we may also request your name, geographical coordinates, and telephone number. DesignersCouch does not collect any other personal information that you do not expressly provide. DesignersCouch will not sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. DesignersCouch may share your personal information for the purpose of delivering our e-mail to you or as required by law. Though we make every effort to preserve user privacy, DesignersCouch may need to disclose personal information when required by law and when we have a good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process that DesignersCouch receives. We may also collect demographic and other data, which may include Personally Identifiable Information, generally through surveys and forms, which you may or may not choose to participate in. If you place an order for goods or services through DesignersCouch, you may be required to enter your credit card number and information, as well as your shipping address and/or other contact information.
 
-If you are granted approval to become a member of DesignersCouch, you will receive an e-mail notifying you of such. You will then be given full access to the site’s services. You have the option of updating your profile page on DesignersCouch, which contains your demographics and your creative interests. You can also control what type of information is shown to the public (or non-members) through your Account Settings. DesignersCouch may use links to your profile on other pages of the Web site. If you send an email to another DesignersCouch member, that person will not see your email address; you would have to give it to him or her directly. 
+### 2\. Non-personal Information
 
-If your membership has not been approved, you will receive a notification e-mail of non-admittance. At this point, DesignersCouch will completely and immediately discard all information you submitted to us in your application. We will never use or hold any information you provided to us, including the design work you submitted. 
+We may also request non-personally identifiable information, such as buying preferences, or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our website and/or customize your experience at our site, showing you content that we think you might be interested in, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
 
-##### 2\. USE OF PERSONAL INFORMATION.
+### 3\. Profile Page
 
-As a member of DesignersCouch, we may use your personal information for purposes of administering and expanding our business activities, providing customer service and making available other services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
+If you choose to sign up for a free DesignersCouch account to enter participate in member only areas on the site, you may have a Profile page on the site, containing your username and some basic information related to demographics and your creative interests. You may also add additional optional information to your Profile. You may control what type of Profile information is shown to others through your Account Settings. Links to your Profile Page may be included on other DesignersCouch pages. PLEASE NOTE THAT, REGARDLESS OF WHAT PERSONAL INFORMATION A MEMBER CHOOSES TO INCLUDE IN HIS OR HER PROFILE, OR WHAT PRIVACY PREFERENCES HE OR SHE CHOOSES, CERTAIN INFORMATION ABOUT EACH MEMBER WILL BE INCLUDED IN THAT MEMBER'S PUBLIC PROFILE AND MAY BE ACCESSIBLE TO ANYONE VISITING THAT PROFILE PAGE ON THE DESIGNERSCOUCH WEBSITE.
 
-DesignersCouch makes every effort to keep user information personal. We will not sell, rent or share your personal information, including your location and e-mail address, with any third parties for marketing purposes without your express permission. We may share your personal information for the purpose of delivering our e-mail to you or as required by law. If necessary, DesignersCouch may need to disclose personal information when required by law and when such action is necessary to comply with a current judicial proceeding, a court order or legal process that DesignersCouch receives. 
+### 4\. Public Forum Reminder
 
-##### 3\. PUBLIC FORUMS REMINDER
+This site often makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. Although we value individual ideas and encourage free expression, DesignersCouch reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is vulgar, off-topic, or inappropriate.
 
-Please remember that any information that you disclose in the DesignersCouch forums becomes public information to your fellow members. You are strongly advised to exercise caution when deciding to disclose your personal information. 
+### 5\. Usage Information 
 
-We will not tolerate maltreatment of our members on the forum. While we value and encourage free expression, DesignersCouch reserves the right to take necessary action to preserve the forum's integrity, such as removing any posting that is inappropriate, offensive, or off-topic. We also reserve the right to suspend the membership of members who make offensive and inappropriate postings to the forum. Any member who is found to behave inappropriately on the forums will be reviewed and their membership may be suspended.
+In addition to collecting personal and non-personal information, DesignersCouch may also collect non-personal, aggregated information about subscribers' use of our site. This information is not personally identifiable and will only be used to find out how subscribers use our service and site. For example, this information will tell us how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver relevant information. 
 
-##### 4\. USAGE INFORMATION. 
+### 6\. Personally Identifiable Information Collected by DesignersCouch Business Partners. 
 
-We may also collect non-personal, cumulative information about members' use of our site. This information will tell us how much time members spend on our site, from which other sites they came, and to what other sites they go. The collection of this information mainly allows us to prepare for traffic load demands and to efficiently deliver relevant information. This information is not personally identifiable.
+DesignersCouch may work with third-party advertising companies, sponsors and other companies with whom we do business ("Business Partners") to place advertising on our site and in email communications sent to our registered users regarding DesignersCouch services. Information about your visit to this site, such as number of times you have viewed an ad, may be used to serve advertising to you on this site. DesignersCouch may correlate or match registered Users' information, including Personally Identifiable Information, with information held by our Business Partners to target ads or otherwise improve the effectiveness of our service. Our Business Partners may read or set cookies on your hard drive, use pixel tags, track which ads you have viewed, or collect other information about you. From time to time, DesignersCouch may also have special offers or promotions that are sponsored by a Business Partner. In order to participate in these offers, you may be required to follow a separate registration process. If you consent to receive information from a Business Partner, through an opt-in or opt-out process, DesignersCouch may pass your information to such Business Partner. DesignersCouch may also offer goods or services for purchase available by our Business Partners. If you purchase goods or services offered through DesignersCouch by a Business Partner, then you may be required to submit Personally Identifiable Information in order to complete the transaction and DesignersCouch may provide your Personally Identifiable Information to such Business Partner for that purpose. In some cases, we may enter into a promotional relationship with a Business Partner in which we prominently display their brand name or trademarks on pages that appear DesignersCouch pages. 
 
-##### 5\. REVIEW AND ACCESS. 
+### 7\. Reviews and Access 
 
-Upon your request, you can access a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
+Upon your request, you can access a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information. 
 
-##### 6\. CHOICE/OPT-OUT. 
+### 8\. Choice/Opt-Out 
 
-If we ever send you information by e-mail concerning new services that you did not request, we will provide you with an e-mail address by which you may request no future notices.
+If we ever send you information by e-mail concerning new products or services that you did not expressly request, we will provide you with an e-mail address by which you may request no future notices. 
 
-##### 7\. TRACKING. 
+### 9\. Tracking 
 
-Like most sites, DesignersCouch may make use of browser "cookies." Cookies are strings of text and numbers that can identify your computer to us when you visit our site. They allow us to see if you have logged in, check your status as a member, and facilitate access to your preferences. DesignersCouch will not use cookies to retrieve information from a computer that is unrelated to our site or services.
+Like most sites, DesignersCouch may make use of browser "cookies." Cookies are strings of text and numbers that can identify your computer to us when you visit our site. They allow us to see if you have logged in, check your status as a member, and facilitate access to your preferences. DesignersCouch will not use cookies to retrieve information from a computer that is unrelated to our site or services. DesignersCouch may also use transparent GIF images. We would use these images to track the e-mails that we send out. 
 
-##### 8\. IP ADDRESS.
+### 10\. IP Address 
 
-When you visit our site, we log standard information such as your IP address, which is a number that can be used to identify your location and Internet Service Provider, along with the URL from which you came to our site and the URLs visited on our site. A URL is the full address of a Web site page, which may or may not contain some Personally Identifiable Information about the person who is viewing it.
+When you visit our site, we log standard information such as your IP address, which is a number that can be used to identify your location and Internet Service Provider, along with the URL from which you came to our site and the URLs visited on our site. A URL is the full address of a Web site page, which may or may not contain some Personally Identifiable Information about the person who is viewing it. When we send messages to you or others, we may provide a URL link to the DesignersCouch site that contains an alphanumeric identifier, which allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. 
 
-When we send messages to you or others, we may provide a URL link to the DesignersCouch site that contains an alphanumeric identifier, which allows us to identify the person to whom we sent the message so that we can personalize our content for that individual.
+### 11\. Third Party Cookies 
 
-##### 9\. THIRD PARTY COOKIES. 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. 
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
+### 12\. Third Party 
 
-##### 10\. THIRD PARTY ADVERTISING. 
+Advertising Some of the ads appearing on our website may be delivered by one of our advertising partners. Information about your visit to their sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), may be used to serve ads to you. 
 
-Some of the ads appearing on our website may be delivered by one of our advertising partners. Information about your visit to their sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), may be used to serve ads to you.
+### 13\. Business Transactions 
 
-##### 11\. BUSINESS TRANSITIONS. 
+In the event DesignersCouch. Goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
-In the event DesignersCouch goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+### 14\. Links to other sites 
 
-##### 12\. LINKS TO OTHER SITES. 
+As part of the services we provide, DesignersCouch may create links allowing you to access third party sites. DesignersCouch is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites' individual privacy policies in order to determine how they treat user information. 
 
-As part of the services we provide, DesignersCouch may create links allowing you to access third party sites. DesignersCouch LLC is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites' individual privacy policies in order to determine how they treat user information.
+### 15\. Security 
 
-##### 13\. SECURITY. 
+All information described above is stored on restricted database servers. 
 
-All information described above is stored on restricted secure database servers.
+### 16\. Changes to this Policy 
 
-##### 14\. CHANGES TO THIS POLICY.
-
-DesignersCouch reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site.
-
-##### 15\. CONTACT US. 
-
-If you have any questions about this policy or our site in general, please contact us at info [at] DesignersCouch [dot] com or at 936-755-4890.
+DesignersCouch reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site. 13. Contact us If you have any questions about this policy or our site in general, please contact us at info [at] DesignersCouch [dot].
