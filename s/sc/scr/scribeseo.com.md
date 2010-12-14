@@ -1,92 +1,69 @@
-> *The following text is extracted and transformed from the scribeseo.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615182454id_/http%3A//scribeseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribeseo.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113229id_/http%3A//scribeseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Scribe | Privacy Policy
 
-**Updated on Wednesday, February 10, 2010**
+The Scribe Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and services. Scribe is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
 
-Please note that the practices of Scribe SEO LLC its affiliates, and agents (“ScribeSEO”), with respect to personal information, are now governed by this Privacy Policy as amended from time to time, and not the Privacy Policy in effect at the time the personal information was collected. We encourage users to regularly review our Privacy Policy. Also see changes in sections entitled “Collection of personal information” and “Your choices with respect to personal information.” To update your information and preferences, see the section entitled “Updating your personal information and privacy preferences.”
+### What Information Do We Collect?
 
-This document sets forth the Scribe Content Optimizer Privacy Policy (the “Privacy Policy”) for this website [http://www.scribeseo.com](http://www.scribeseo.com/), [http://purchase.scribeseo.com](http://purchase.scribeseo.com/) and [http://my.scribeseo.com](http://my.scribeseo.com/) (collectively, the “Site”). If you have objections to the Privacy Policy, you should not access or use the Site. This Privacy Policy does not govern privacy practices associated with offline activities or other ScribeSEO websites, except as expressly set forth in the section entitled “Data not collected on this site.”
+When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
 
-**Changes in Privacy Policy**  
-All personal information (“personal information” is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains and that is NOT identified as PUBLIC Information) that we collect and maintain will be subject to this Privacy Policy, as amended from time to time. ScribeSEO reserves the right to change the Privacy Policy from time to time at its sole discretion and will provide notice of material changes on the home page of the Site. If as the result of such changes, you want to alter the ways in which ScribeSEO is allowed to use your personal information, you can do so by following the procedure described in the section entitled “Updating your personal information and privacy preferences.” You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy after such notice has been posted with the following exception: If at the time you provide personal information to ScribeSEO you are given the opportunity (as you currently are) to limit how such information will be used to communicate with you, either by ScribeSEO or by third parties, ScribeSEO will not change your preference in this regard without your express consent. However, if ScribeSEO sells assets (or the assets of a division or subsidiary) to another entity, or ScribeSEO (or a division or subsidiary) is acquired by or merged with another entity, ScribeSEO may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent, but ScribeSEO will provide notice of such asset sales, acquisitions, or mergers on this Site.
+### 1\. Personal Information You Choose to Provide
 
-**Entities collecting personal information  
-**Personal information on this Site is collected by Scribe SEO LLC, 8409 Pickwick Lane, Box 286, Dallas, Texas 75225 and its telephone number is 214-704-2144.
+**Registration Information.**
 
-The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
+You will provide us information about yourself, your firm or company, and your practices when you purchase Scribe software services, request support, or register for email newsletters and alerts.
 
-**Updating your personal information and privacy preferences**  
-You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information (as defined in the section entitled “Protection of your personal information”), this may be accomplished by linking to your account at My Account, where you can view and make changes to your personal information along with your public information. You may also access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from ScribeSEO or third parties) by writing or calling ScribeSEO at:
+**Email Information.**
 
-Scribe SEO LLC  
-8409 Pickwick Lane  
-Box 286  
-Dallas, TX 75225
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
 
-Telephone number: 214-704-2144
+### 2\. Website Use Information
 
-Please include your name, address, and/or e-mail address when you contact us.
+Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies (as applicable) may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
 
-Personal information submitted through this Site that is not Registration Information is not accessible online. To access and/or correct such information, you may write ScribeSEO at:
+### How Do We Use the Information That You Provide to Us?
 
-Scribe SEO LLC  
-8409 Pickwick Lane  
-Box 286  
-Dallas, TX 75225  
-USA
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
 
-In your correspondence, please indicate with as much detail as possible the location on this Site where you provided your personal information. You should expect a response within 30 days.
+### What Are Cookies?
 
-**Collection of personal information  
-**As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as utilizing online software applications, ScribeSEO may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, ScribeSEO may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP code), e-mail address, employer, job title and department, telephone and facsimile numbers, and other personal information. When ordering products or services on the Site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies. 
 
-When you use the Site, ScribeSEO or third parties authorized by ScribeSEO may also collect certain technical and routing information about your computer to facilitate your use of the Site and its services. For example, we may log environmental variables, such as browser type, operating system, CPU speed, and the Internet Protocol (IP) address of your computer. We use these environmental variables to facilitate and track your use of the Site and its services. ScribeSEO also uses such environmental variables to measure traffic patterns on the Site. Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.
+### How Do We Use Information We Collect from Cookies?
 
-When you submit personal information to ScribeSEO through the Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which ScribeSEO maintains offices including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by trusted vendors of ScribeSEO. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties. One instance where this could occur is in conjunction with framed pages in which the URL for the pages is not visible, and the pages are being hosted by a vendor of ScribeSEO.
+As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
 
-ScribeSEO has established relationships with various service providers whose services are available to you from the Site or from websites that are linked to the Site. Typically, these providers offer services that ScribeSEO customers might find useful, such as those that can be used in conjunction with ScribeSEO services and products. In order to use those services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider’s website will be subject to the privacy policy posted on such site, and personal information that you provide while on the Site in conjunction with a provider’s service will be subject to this Privacy Policy. You should be aware that our agreements with these service providers often provide that they will share with ScribeSEO personal information collected from you. In such instances, ScribeSEO may use this information in a manner consistent with this Privacy Policy. In the situation where sites have an ScribeSEO “look and feel” and you reasonably believe you are on an ScribeSEO site, the site is collecting information in a solely intermediary capacity and does not use personal information for secondary purposes.
+### We Do Not Share Information with Third Parties   
+(With Four Limited Exceptions)
 
-In order to reduce errors in our database, authenticate our users, and prevent abuse of our system, we may on occasion supplement the personal information you submit to us with information from third-party sources. For example, we may supplement your Registration Information with address information provided by the U.S. Postal Service to qualify your information and prevent errors in our database. As permissible, we may also supplement the information you provide to us with demographic and other information (such as age or interest in photography) stored in third-party databases in order to make it more likely that marketing communications we send will be of interest to you.
+The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following four limited circumstances:
 
-**How your personal information is used  
-**ScribeSEO collects your information in order to record and support your participation in the activities you select. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of ScribeSEO and selected third parties unless you have opted not to receive such communications or such communications are prohibited by law.
+  1. We use third parties to facilitate our business, including, but not limited to, sending email and processing payments (PayPal and merchant accounts). In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
+  2. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
+  3. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+  4. If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
 
-ScribeSEO may collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. ScribeSEO may use this aggregate, nonidentifying statistical data for statistical analysis, marketing, or similar promotional purposes.
 
-**Your choices with respect to personal information**  
-ScribeSEO recognizes and appreciates the importance of responsible use of information collected on the Site. ScribeSEO may communicate information to you regarding products, services, and special offers available from ScribeSEO or selected third parties unless you have opted not to receive such communications or such communications are prohibited by law, although we may find it necessary to communicate with you regarding your use of the services on the Site. Except in the particular circumstances described in this Privacy Policy, ScribeSEO will also not provide your name to other companies or organizations without your consent.
 
-There are other instances in which ScribeSEO may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.
+### Notice of New Services and Changes
 
-**Protection of your personal information**  
-The personal information that you provide in connection with registering yourself as a user of ScribeSEO products or services or registering an ScribeSEO product is classified as Registration Information. Registration Information is protected in several ways. Access by you to your Registration Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Registration Information resides on a secure server that only selected ScribeSEO personnel and contractors have access to via password. ScribeSEO encrypts your personal information and thereby strives to prevent unauthorized parties from viewing such information when it is transmitted to ScribeSEO.
+Occasionally, we may also use the information we collect to notify you about important changes to this website, new services, and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
 
-Personal information that you provide that does not constitute Registration Information also resides on a secure server and is accessible only to selected ScribeSEO personnel and contractors via password. Since this information is not accessible by you, you will not be asked to select a password in order to view or modify such information.
+### How Do We Protect Your Information?
 
-Please note that any information you post to a public bulletin board or public website, in the case of ScribeSEO content, is available to all persons accessing that location. Your e-mail address would then be available to all persons accessing the website. In addition, you should be aware that the ScribeSEO application and websites offer a service in which subscribers are e-mailed a copy of all messages posted.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on this site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. MyScribe is a secured area, which is why we provide services and support there instead of out in the open. 
 
-**Data not collected on this Site  
-**Personal information that is not collected on the Site is not generally subject to this Privacy Policy. However, personal information submitted on physical product registration cards is classified as Registration Information and is subject to this Privacy Policy. If you wish to access and/or correct such information, please see instructions for doing so in the section entitled “Updating your personal information and privacy preferences.”
+### Certain Disclosures
 
-**Use of cookies  
-**When you visit this Site, you can browse the Site and access important information without revealing your identity. In order to improve our Site, we and our vendors use “cookies” to track your visit. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card and enables ScribeSEO to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses.
+We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
 
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)
+### What About Other Websites Linked to This Site?
 
-While ScribeSEO and our vendors use cookies to track your visit to the Site, and our web servers automatically log the IP/Internet address of your computer, ScribeSEO does not generally use this information to identify you personally. However, if you expressly provide consent for the Site to “remember” the unique identifier that you select when you register for various activities on the Site, that unique identifier will be stored on a cookie on your computer, linked to your Registration Information, and your navigation path around the Site will be tracked. We associate this data to understand how our Site and services are being used so we can understand our customers and offer appropriate products and services.
+We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. 
 
-**Privacy complaints  
-**ScribeSEO takes its users’ privacy concerns seriously. If you believe that ScribeSEO has not complied with this Online Privacy Policy with respect to your personal information, you may write the ScribeSEO Privacy Officer at the following address or fill out a privacy complaint form:
+Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
 
-**Privacy Officer/Customer Information**  
-8409 Pickwick Lane  
-Box 286  
-Dallas, TX 75225  
-USA
+### Your Consent
 
-In your letter, please describe in as much detail as possible the ways in which you believe that the ScribeSEO Online Privacy Policy has not been complied with. We will investigate your complaint promptly.
-
-If you provide ScribeSEO with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), ScribeSEO will endeavor to update your privacy preferences in a timely and accurate manner.
-
-Also, please note that ScribeSEO is not responsible for the content or privacy practices of non ScribeSEO websites to which this Site or any other ScribeSEO website may link. You should review the privacy policy of such sites before using the sites.
+By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
