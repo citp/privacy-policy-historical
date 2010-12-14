@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601032558id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214142416id_/http%3A//doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # DoneRight.com - Privacy Policy
 
@@ -9,7 +9,7 @@ Your Privacy Rights
 
 Last Updated: 8/26/09 
 
-[Printable Version](https://web.archive.org/web/20100601032558id_/http%3A//www.doneright.com/PrivacyPolicySimple.cfm)  
+[Printable Version](https://web.archive.org/web/20101214142416id_/http%3A//doneright.com/PrivacyPolicySimple.cfm)  
   
 ---  
 | 
