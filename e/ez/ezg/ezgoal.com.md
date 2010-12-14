@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615090313id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215001511id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
 
 # Computer business web design software developer asp scripts isp list download utilities
 
