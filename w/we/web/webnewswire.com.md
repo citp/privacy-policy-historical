@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webnewswire.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326075040id_/http%3A//www.webnewswire.com/node/450918) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnewswire.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214215522id_/http%3A//www.webnewswire.com/node/450918) for the most accurate reproduction.*
 
 # Privacy Policy | webnewswire.com
-
-You are here: Privacy Policy
 
 This is the web site of Global Web Properties. Our postal address is 2 Amit Apartments, Old Padra Road, Vadodara, Gujarat, India. 
 
@@ -24,7 +22,6 @@ Upon request we provide site visitors with access to information that we have co
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
+With respect to posted content: You give us non-exclusive copyright and license to distribute for all content that you post on our website including stories, submission and forum posts. You are responsible to ensure that there are no plagiarism issues or other legal issues with any content that you share with us.
+
 If you feel that this site is not following its stated information policy, you may contact us by using the Contact Us page.
-
-  
-
