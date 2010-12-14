@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327140931id_/http%3A//www.cpooutlets.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214124640id_/http%3A//cpooutlets.com/privacy-policy) for the most accurate reproduction.*
 
-# CPO Outlets Privacy Policy
+# Privacy Policy | CPO Outlets | Buy New and Reconditioned Power Tools and Home Improvement Products
 
-CPO Commerce, Inc. ("CPO") operates the websites located at www.cpooutlets.com, and other websites on which a copy of this privacy policy appears (cumulatively the "CPO Sites") as a service to its customers residing in the United States of America, its territories and possessions. CPO is the owner or authorized user of the content displayed on the CPO Sites.
+CPO Commerce, Inc. ("CPO") operates the websites located at www.cpooutlets.com and other websites on which a copy of this privacy policy appears (cumulatively the “CPO Sites”) as a service to its customers residing in the United States of America, its territories and possessions. CPO is the owner or authorized user of the content displayed on the CPO Sites. 
 
-CPO has adopted this privacy policy to inform you of the following: 
+CPO has adopted this privacy policy to inform you of the following:
 
   * How we collect information on the CPO Sites.
   * The types of information we collect on the CPO Sites.
@@ -15,19 +15,19 @@ CPO has adopted this privacy policy to inform you of the following:
 
 
 
-For the purposes of this privacy policy, "Personal Information" is personally identifiable information about an individual person, as more particularly described under applicable privacy laws. You should carefully review this privacy policy before using the CPO Sites.
+For the purposes of this privacy policy, “Personal Information” is personally identifiable information about an individual person, as more particularly described under applicable privacy laws. You should carefully review this privacy policy before using the CPO Sites.
 
-If you have questions or concerns regarding this privacy policy or the CPO Sites, you should contact us at privacy@cpooutlets.com.
+If you have questions or concerns regarding this privacy policy or the CPO Sites, you should contact us (see section 12).
 
 **1\. Policy Scope**
 
-This privacy policy applies to your use of the CPO Sites and CPO's treatment of information, including Personal Information, collected by or on behalf of CPO through the CPO Sites. Your use of linked or associated websites, or websites to which you may be directed, may be subject to different or additional terms, notices and policies, and such terms, notices and policies shall control as to those websites. For information regarding the collection and use of information on any of those websites or other third party sites, please refer to the terms of use and policies provided by those websites.
+This privacy policy applies to your use of the CPO Sites and CPO’s treatment of information, including Personal Information, collected by or on behalf of CPO through the CPO Sites. Your use of linked or associated websites, or websites to which you may be directed, may be subject to different or additional terms, notices and policies, and such terms, notices and policies shall control as to those websites. For information regarding the collection and use of information on any of those websites or other third party sites, please refer to the terms of use and policies provided by those websites.
 
-NOTE: THIS PRIVACY POLICY DOES NOT APPLY TO INFORMATION YOU PROVIDE, EITHER VOLUNTARILY OR INVOLUNTARILY, THROUGH RESPONSES TO SOME SURVEY REQUESTS INITIATED AT THE CPO SITES. SOME OF THESE SURVEYS ARE CONDUCTED BY YAHOO! INC. AND OTHER THIRD PARTIES. SUCH INFORMATION WILL BE GOVERNED BY THE APPLICABLE PRIVACY POLICY(IES) OF YAHOO! INC. OR OTHER THIRD PARTIES. 
+NOTE: THIS PRIVACY POLICY DOES NOT APPLY TO INFORMATION YOU PROVIDE, EITHER VOLUNTARY OR INVOLUNTARILY, THROUGH RESPONSES TO SOME SURVEY REQUESTS INITIATED AT THE CPO SITES. SOME OF THESE SURVEYS ARE CONDUCTED BY YAHOO! INC. AND OTHER THIRD PARTIES. SUCH INFORMATION WILL BE GOVERNED BY THE APPLICABLE PRIVACY POLICY(IES) OF YAHOO! INC. OR OTHER THIRD PARTIES. 
 
 **2\. Our Information Collection Practices**
 
- _ **Automatically Collected Information.**_ When you visit the CPO Sites to place an order, browse, read, or download information, we may automatically collect and store the following types of non-personally identifiable information: 
+_**Automatically Collected Information**_. When you visit the CPO Sites to place an order, browse, read, or download information, we may automatically collect and store the following types of non-personally identifiable information:
 
   * Information collected as server logs from information provided by your browser.
   * Click-through statistics.
@@ -40,14 +40,14 @@ NOTE: THIS PRIVACY POLICY DOES NOT APPLY TO INFORMATION YOU PROVIDE, EITHER VOLU
 
 
 
-_**Personal Information Provided Voluntarily by the User.**_ You can use portions of the CPO Sites without providing any Personal Information. However, in order to take advantage of the full capabilities of the CPO Sites and to obtain access to, and use of, many of the features found on the CPO Sites, including placing orders for products offered for sale on the CPO Sites and receiving CPO email exclusives, you must provide certain Personal Information. You may also provide Personal Information when you participate in various services and offerings on the CPO Sites. Personal Information may include, without limitation: 
+_**Personal Information Provided Voluntarily by the User**_. You can use portions of the CPO Sites without providing any Personal Information. However, in order to take advantage of the full capabilities of the CPO Sites and to obtain access to, and use of, many of the features found on the CPO Sites, including placing orders for products offered for sale on the CPO Sites and receiving CPO e-mail exclusives, you must provide certain Personal Information. You may also provide Personal Information when you participate in various services and offerings on the CPO Sites. Personal Information may include, without limitation:
 
   * Your name, mailing address, email address, telephone number, fax number, billing information, and credit card number and related information.
   * Information concerning your interests, occupation, product use and preferences.
 
 
 
-You may also be asked to respond to additional questions to help us meet your needs. Certain functionalities on the CPO Sites, such as the "Email This Page to a Friend" feature, may require you to provide information regarding third parties. Similarly, if you request that an order or gift be sent directly to an individual other than yourself, you will also be asked to submit information about the recipient of the order or gift. This information may include a third party's name, address, phone number, fax number, email address, and other similar information.
+You may also be asked to respond to additional questions to help us meet your needs. Certain functionalities on the CPO Sites, such as the “Email This Page to a Friend” feature, may require you to provide information regarding third parties. Similarly, if you request that an order or gift be sent directly to an individual other than yourself, you will also be asked to submit information about the recipient of the order or gift. This information may include a third party’s name, address, phone number, fax number, email address, and other similar information.
 
 **3\. Information Warranty**
 
@@ -55,19 +55,18 @@ If you do provide Personal Information through the CPO Sites, including Personal
 
 **4\. Use and Disclosure of Information**
 
- _ **Use of Automatically Collected Information.**_ Information collected automatically through the CPO Sites provides us with information regarding your use of the CPO Sites, including which pages are the most popular with CPO Sites users. That information also allows us to determine if the CPO Sites are working properly and to make changes to the CPO Sites to allow the user to have a better experience on the CPO Sites. We do not use that information to identify a particular user.
+**_  
+Use of Automatically Collected Information_**. Information collected automatically through the CPO Sites provides us with information regarding your use of the CPO Sites, including which pages are the most popular with CPO Sites users. That information also allows us to determine if the CPO Sites are working properly and to make changes to the CPO Sites to allow the user to have a better experience on the CPO Sites. We do not use that information to identify a particular user.
 
 We may aggregate and use certain non-personally identifiable information for research or marketing purposes and may share, sell and rent or trade that information and statistical information derived therefrom with our marketing partners, advertisers, or other third parties.
 
- _ **Use of Non-personally Identifiable Information Provided Voluntarily by the User.**_ By remaining opted-in to our email list, you are acknowledging that we may sell, rent, share, trade or otherwise provide or transfer your non-personally identifiable information such as demographic and occupational information to third parties. Such third parties may use such information for whatever purposes they wish or may transfer such information to other third parties.
+_**Use of Non-personally Identifiable Information Provided Voluntarily by the User**_. By remaining opted in to our e-mail list, you are acknowledging that we may sell, rent, share, trade or otherwise provide or transfer your non-personally identifiable information such as demographic and occupational information to third parties. Such third parties may use such information for whatever purposes they wish or may transfer such information to other third parties.
 
-_**Business Uses of Information.**_ CPO uses Personal Information you provide to us for internal business purposes, such as (i) for verification at login as a registered user, if applicable; (ii) for marketing purposes; (iii) to contact you regarding the products or services that you have ordered or requested and to provide the same; (iv) for fulfillment of promotions, including but not limited to sweepstakes, contests or subscriptions that you have entered; (v) to process and ship orders; (vi) to send order and shipping confirmations; (vii) to provide customer service, respond to your requests and inquiries and enhance product and service offerings; (viii) to keep records regarding orders, returns and exchanges; (ix) to protect both you and us against error and fraud; (x) to send information, product and service alerts and exclusive offers; (xi) to record usage of the CPO Sites; (xii) to adjust the CPO Sites to your personal preferences; and (xiii) to customize advertising and CPO marketing information regarding our products and services. We may also exchange information, including Personal Information, with other companies and organizations for credit fraud protection and risk reduction.
+_**Business Uses of Information**_. CPO uses Personal Information you provide to us for internal business purposes, such as (i) for verification at login as a registered user, if applicable; (ii) for marketing purposes; (iii) to contact you regarding the products or services that you have ordered or requested and to provide the same; (iv) for fulfillment of promotions, including but not limited to sweepstakes, contests or subscriptions that you have entered; (v) to process and ship orders; (vi) to send order and shipping confirmations; (vii) to provide customer service, respond to your requests and inquiries and enhance product and service offerings; (viii) to keep records regarding orders, returns and exchanges; (ix) to protect both you and us against error and fraud; (x) to send information, product and service alerts and exclusive offers; (xi) to record usage of the CPO Sites; (xii) to adjust the CPO Sites to your personal preferences; and (xiii) to customize advertising and CPO marketing information regarding our products and services. We may also exchange information, including Personal Information, with other companies and organizations for credit fraud protection and risk reduction.
 
-_**Service Providers and Vendors.**_ We may also share your Personal Information with certain third parties that perform services for CPO. Those third parties may host the CPO Sites, operate certain features on the CPO Sites, print or send mailings, provide marketing materials for the CPO Sites, authorize and process your payments, provide customer service, analyze data and assist in fulfilling your orders, send emails on CPO's behalf, or otherwise assist CPO with the operation of the CPO Sites. Those third parties are not authorized to use or disclose your Personal Information for any purpose other than to perform the services designated by CPO.
+_**Service Providers and Vendors**_. We may also share your Personal Information with certain third parties that perform services for CPO. Those third parties may host the CPO Sites, operate certain features on the CPO Sites, print or send mailings, provide marketing materials for the CPO Sites, authorize and process your payments, provide customer service, analyze data and assist in fulfilling your orders, send e-mails on CPO’s behalf, or otherwise assist CPO with the operation of the CPO Sites. Those third parties are not authorized to use or disclose your Personal Information for any purpose other than to perform the services designated by CPO. Business Transfers. Automatically collected information and your Personal Information may be transferred as an asset in connection with a merger or sale involving all or part of CPO or as part of a corporate reorganization, stock sale or other change of control.
 
-_**Business Transfers.**_ Automatically collected information and your Personal Information may be transferred as an asset in connection with a merger or sale involving all or part of CPO or as part of a corporate reorganization, stock sale or other change of control.
-
-**_Required Disclosures._** CPO may also provide your Personal Information to a third party if CPO in good faith believes that access, use, preservation or disclosure is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable government request. For example, CPO may be required to disclose your Personal Information to respond to a subpoena, court order or other legal process.
+_**Required Disclosures**_. CPO may also provide your Personal Information to a third party if CPO in good faith believes that access, use, preservation or disclosure is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable government request. For example, CPO may be required to disclose your Personal Information to respond to a subpoena, court order or other legal process.
 
 **5\. Consent to Processing and Transfers of Information**
 
@@ -79,9 +78,9 @@ The CPO Sites are considered to be general audience Sites and are not to be used
 
 **7\. Use of Cookies**
 
-Cookies are pieces of information that a website transfers to an individual's hard drive to identify previous visitors to the Sites. Cookies are text files that can be rejected or deleted by you at any time. You may disable cookies using your Internet browser settings. However, by deleting or rejecting cookies, you may inhibit the user experience on the CPO Sites and other sites. For example, in order to complete online transactions, cookies must be accepted.
+Cookies are pieces of information that a website transfers to an individual’s hard drive to identify previous visitors to the Sites. Cookies are text files that can be rejected or deleted by you at any time. You may disable cookies using your Internet browser settings. However, by deleting or rejecting cookies, you may inhibit the user experience on the CPO Sites and other sites. For example, in order to complete online transactions, cookies must be accepted.
 
-CPO uses cookies to store information about your visit to the CPO Sites in order to enhance your visit to the CPO Sites. For example, storing that information will allow us to, on occasion, customize account pages for you. We also use cookies and tracking technologies to: 
+CPO uses cookies to store information about your visit to the CPO Sites in order to enhance your visit to the CPO Sites. For example, storing that information will allow us to, on occasion, customize account pages for you. We also use cookies and tracking technologies to:
 
   * Track user visits.
   * Track your shopping cart and purchases.
@@ -90,7 +89,7 @@ CPO uses cookies to store information about your visit to the CPO Sites in order
 
 
 
-In addition, we currently contract with several online partners to help manage and optimize the CPO Sites. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our sites. To do this, we use Web beacons and cookies provided by our marketing company on the CPO Sites. The type of information we collect includes which pages are visited, which products are put into the shopping cart, which orders enter the checkout process, which checkouts are executed with payment, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company manages the information coming from our sites on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our sites, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by contacting us (see Section 12).
+In addition, we currently contract with several online partners to help manage and optimize the CPO Sites. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our sites. To do this, we use Web beacons and cookies provided by our marketing company on the CPO Sites. The type of information we collect includes which pages are visited, which products are put into the shopping cart, which orders enter the checkout process, which checkouts are executed with payment, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company manages the information coming from our sites on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our sites, products, offers and marketing strategy, you can “opt-out” of our ability to analyze such data by contacting us (see Section 12).
 
 **8\. Security**
 
@@ -100,7 +99,7 @@ CPO and authorized third parties employ reasonable measures, including administr
 
 CPO reserves the right to retain any Personal Information reasonably necessary to appropriately document its business activities and for archival and record retention purposes. We will store your Personal Information for as long as reasonably necessary for the purposes described in this privacy policy. You may find out more details regarding this privacy policy by contacting us (see Section 12).
 
-You may "opt-out" of receiving future email or other communications from us by clicking the "unsubscribe" link at the bottom of any email that you receive from us, or by contacting us (see Section 12). Please note that removal of your Personal Information from our database or "opting-out" will not stop (i) marketing or advertising content that is ready to be mailed or is queued for transmission to you prior to the time when we can implement your request, or (ii) the use of your Personal Information by third parties with whom CPO may have already shared your information.
+You may “opt-out” of receiving future e-mail or other communications from us by clicking the “unsubscribe” link at the bottom of any e-mail that you receive from us, or by contacting us (see Section 12). Please note that removal of your Personal Information from our database or “opting-out” will not stop (i) marketing or advertising content that is ready to be mailed or is queued for transmission to you prior to the time when we can implement your request, or (ii) the use of your Personal Information by third parties with whom CPO may have already shared your information. 
 
 **10\. Updates and Changes to Policies**
 
@@ -108,18 +107,20 @@ CPO may change this privacy policy from time to time by posting updated versions
 
 **11\. Contact CPO**
 
-If you have questions regarding the CPO Sites, the privacy policy or your privacy on the CPO Sites, you can send a request with any further questions to our Customer Service Department by email to [privacy@cpooutlets.com.](mailto:privacy@cpooutlets.com) or by mail to:
+If you have questions regarding the CPO Sites, the privacy policy or your privacy on the CPO Sites, you can send a request with any further questions to our Customer Service Department by e-mail to [privacy@cpooutlets.com](mailto:privacy@cpooutlets.com) or by mail at:
 
-CPO Outlets  
-PO Box 652  
+CPO Bosch
+
+P.O. Box 652  
 South Pasadena, CA 91031
 
 **California Privacy Rights**
 
-Under California Law, California residents have the right to request that CPO not share his or her personal information with third parties for those third parties' direct marketing use. To make such a request, email us at [privacy@cpooutlets.com.](mailto:privacy@cpooutlets.com) or by mail to:
+Under California Law, California residents have the right to request that CPO not share his or her personal information with third parties for those third parties’ direct marketing use. To make such a request, e-mail us at [privacy@cpooutlets.com](mailto:privacy@cpooutlets.com) or by mail at:
 
-CPO Outlets  
-PO Box 652  
+CPO Bosch
+
+P.O. Box 652  
 South Pasadena, CA 91031
 
-Effective December 31, 2007
+_Effective December 31, 2007_
