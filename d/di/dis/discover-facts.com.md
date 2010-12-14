@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discover-facts.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003416id_/http%3A//discover-facts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover-facts.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214114357id_/http%3A//discover-facts.com/privacy.html) for the most accurate reproduction.*
 
 # Discover-Facts.com
 
