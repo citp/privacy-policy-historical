@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614002217id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215002110id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CoolThings.com | Anything and Everything Cool
+# Privacy Policy
 
 At CoolThings.com, we absolutely recognize privacy is important. Here is the information on what types of personal information we receive and collect when you use or visit CoolThings.com, and how we safeguard your information. We never sell your personal information to third parties.
 
