@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduweb.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509183035id_/http%3A//www.eduweb.co.uk/p_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduweb.co.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214225739id_/http%3A//eduweb.co.uk/p_privacy.aspx) for the most accurate reproduction.*
 
 # Learning Alive - Primary - Privacy Policy
 
@@ -41,5 +41,5 @@ Abingdon, Oxfordshire
 OX14 4SE  
 United Kingdom
 
-Telephone: +44 (0) 8709 200200  
-Fax:+44 (0) 1235 826999
+Telephone: 08450 700300  
+Fax: 08450 700400
