@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626035421id_/http%3A//www.cmog.org/dynamic.aspx%3Fid%3D304) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214072753id_/http%3A//www.cmog.org/dynamic.aspx%3Fid%3D304) for the most accurate reproduction.*
 
 # Corning Museum of Glass - Kids and Teens Free! (19 and under)
 
