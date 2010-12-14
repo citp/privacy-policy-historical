@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the computersight.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508052609id_/http%3A//computersight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computersight.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214200158id_/http%3A//computersight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Computersight
-
-## Privacy Policy
 
 1\. General .
 
