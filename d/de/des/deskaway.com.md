@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskaway.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005723id_/http%3A//www.deskaway.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskaway.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214150533id_/http%3A//deskaway.com/privacy/index.php) for the most accurate reproduction.*
 
 # DeskAway - Privacy Policy
 
