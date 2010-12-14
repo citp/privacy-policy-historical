@@ -1,80 +1,46 @@
-> *The following text is extracted and transformed from the bmw-sg.com privacy policy that was archived on 2007-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071226091634id_/http%3A//www.bmw-sg.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmw-sg.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214051600id_/http%3A//www.bmw-sg.com/about-bmwsg/privacy-policy) for the most accurate reproduction.*
 
-# BMW Singapore Owners & Enthusiasts' Community - Privacy Policy
+# Privacy Policy | BMW.SG | The Singapore BMW Enthusiast Community
 
-**DISCLAIMER:** BMW.SG(http://www.bmw-sg.com) is in no way sponsored, endorsed or affiliated by or with BMW NA / BMW AG or any of it's subsidiaries or vendors(which includes Performance Motors Limited, Singapore) . BMW.SG (http://www.bmw-sg.com) recognizes that "BMW", the roundel and various model numbers are registered trademarks of BMW AG.
+## Privacy Policy
 
-This document sets out the Privacy Policy of BMW.SG and its affiliates and agents (“BMW.SG”), with respect to personal information collected on this website (www.bmw-sg.com) (“BMW.SG Website”).
+**To protect your privacy, BMW.SG(http://www.bmw-sg.com) follows the following principles for member privacy and data protection.  
+**
 
-BMW.SG’s practices with respect to personal information are governed by this Privacy Policy as amended from time to time (“Privacy Policy”), and not the Privacy Policy in effect at the time the personal information was collected. As such, do review our Privacy Policy regularly for the updated Privacy Policy. If you have any objections to our Privacy Policy, you should not access or use the BMW.SG Website.
+**DISCLAIMER:** BMW.SG(http://www.bmw-sg.com) is in no way sponsored, endorsed or affiliated by or with BMW NA / BMW AG or any of it’s subsidiaries or vendors(which includes Performance Motors Limited, Singapore) . BMW.SG (http://www.bmw-sg.com) recognizes that “BMW”, the roundel and various model numbers are registered trademarks of BMW AG.
 
-Protecting your privacy is important to BMW.SG and this Privacy Policy is intended to make you aware of our commitments to you as an important visitor to our BMW.SG Website.
+**WHY WE OBTAIN INFORMATION  
+**We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a new user profile on the site to use specific features available only to registered users.
 
-**1\. Scope of this Privacy Policy.**
+The primary reason we obtain this information is to make the site easier for you to use by not having you enter information more than once. We may also periodically use your information to alert you to updated information and other new services from www.bmw-sg.com.
 
-This Privacy Policy applies only to the collection and use of information collected online on the BMW.SG Website. It does not govern the privacy practices associated with offline activities or other websites that may be affiliated with BMW.SG, even if they may contain the BMW.SG mark.
+If you choose not to register or provide personal information, you can still use most of M3Forum.com. But you will not be able to access areas or use features that require registration.
 
-This Privacy Policy also does not govern the information collected at websites which were entered through links contained at the BMW.SG Website. These links to third-party websites are for your convenience, and if you use these links, you will leave the BMW.SG Website. These other sites may send their own cookies to users, collect data, or request for personal information. When you access these other sites, including those that may contain the BMW.SG mark, we suggest that you carefully review the privacy policies of each of such websites, as they are not governed by this Privacy Policy and we do not control nor are we responsible for their privacy policies.
+**REGISTERED USER PROFILES  
+**When you register, your information is protected by use of a password which you select. Each person who registers must have a unique email address and user name. Duplicate profiles using the same email address or user name are not permitted. We highly recommend that you select a password which is neither common or known to others. We encourage you to NOT use information such as your Social Security Number, Phone Number or Date of Birth as your password.
 
-  
-**2\. Collection and Storage of Information.**
+If you are a previous registered user and you have lost or forgotten your password, you may only obtain it by email using our “Forgot Password” feature. Click the link on any login page to request your password be emailed to you. We cannot provide your password by any other means.
 
-When you visit the BMW.SG Website, BMW.SG may ask for your personally identifiable information (“Personal Information”) in order for you to participate in certain activities. When making inquiries, ordering a product or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for your Personal Information, including, for example, your name, mailing address, phone number and email address. It is completely optional for you to engage in these activities, and Personal Information is not collected on the BMW.SG Website unless you elect to provide it to us.
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time. By following the “my profile” link provided on our system, you may view and edit personal information you have already given us. You may also elect to receive or discontinue receiving any email newsletters we may choose to distribute periodically. Once you register, you won’t need to do it again. Wherever you go on http://bmw-sg.com, your information stays with you.
 
-We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our BMW.SG Website, the Uniform Resource Locator (“URL”) of the website that you just visited before visiting our website, which pages on our BMW.SG Website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol (“IP”) address.
+The following are the terms of the privacy statement of BMW.SG(http://www.bmw-sg.com) Or (“BMW.SG”) regarding use of BMW.SG’s web site www.bmw-sg.com (“The Site”).
 
-When you submit Personal Information at the BMW.SG Website, you agree that this information may be transferred across national boundaries (including but not limited to having information transferred from within to outside of the European Economic Area) and may be stored and/or processed in any of the other countries, including without limitation, the United States of America. For certain activities or in certain countries, the collection, transfer, storage and/or processing of your information may be undertaken by BMW.SG’s trusted vendors.
+BMW.SG collects certain information in various ways from The Site and uses that information in various ways. Sensitive information such as credit card numbers and account numbers are encrypted and are not intentionally shared with any other parties but BMW.SG will not be liable for any inadvertent disclosure. BMW.SG may, however, use or provide to third parties statistics about members, traffic patterns and related information including but not limited to personally identifying information such as names, addresses, emails and the like as well as information gathered from the use of “cookie” or other technologies, whether from advertisements on The Site or otherwise. However, such information will not intentionally include such credit card information or account numbers except for the limited purpose of collecting payments, communicating with credit card companies and the like but BMW.SG will not be liable for any inadvertent disclosure. Such information may be used by BMW.SG in the aggregate or individually and may be combined with other information and may be in connection with marketing of such information or as part of a transaction related to any aspect of the business of BMW.SG including but not limited to sales, mergers, acquisitions, bankruptcies and the like. You agree that BMW.SG may use and provide to third parties the said information that you provide except as indicated. If you do not agree with the provisions of this paragraph, you should not provide any information to BMW.SG.
 
-**3\. Use of Information.**
+**Partnerships, Affiliates, Advertisers and Other Links** : Through BMW.SG you may be introduced to a variety of third-party vendors and sites. The privacy polices of these third parties are not under BMW.SG’s control and may differ from BMW.SG’s and you should read the privacy policies of those vendors carefully. The use of any information that you may provide to any third party, or the use of “cookie” technology by any third party, will be governed by the privacy policy of the operator of the site that you are visiting. In some cases these third parties may share the information that they collect about you with BMW.SG. If you have any doubts about the privacy of the information you are providing on another site, BMW.SG recommends that you contact that site directly for more information and review their privacy policy. BMW.SG is not now and never will be responsible for the actions of such third parties in any manner whatsoever, including but not limited to any violation of such privacy policies or otherwise.
 
-Information is collected to record and support your participation in the activities you select. Your Personal Information may also be used to track user preferences and keep you informed of BMW.SG’s news and updates. The information is used in various ways that will help us better serve our visitors to our BMW.SG Website, including those below :
+BMW.SG may use information from or provide information to such third parties including but not limited to statistics about members, traffic patterns and related information including but not limited to personally identifying information such as names, addresses, emails and the like as well as information gathered from the use of “cookie” or other technologies, whether from advertisements on The Site or otherwise but will not intentionally include such credit card information or account numbers, except as set forth above but BMW.SG will not be liable for any inadvertent disclosure. Such information may be used by BMW.SG in the aggregate or individually and may be combined with other information and may be in connection with marketing of such information or as part of a transaction related to any aspect of the business of BMW.SG including but not limited to sales, mergers, acquisitions, bankruptcies and the like. You agree that BMW.SG may use and provide to such third parties the said information that you provide except as indicated. If you do not agree with the provisions of this paragraph, you should not provide any information to BMW.SG.
 
-3.1 Information collected while you are browsing through our BMW.SG Website is collected essentially with a view to facilitating your use of the BMW.SG Website and its services, and to help run our site more efficiently. It enables us to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion. BMW.SG also uses the information to measure traffic paterns on the BMW.SG Website.
+**Third Party Advertising:** We use Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-3.2 When you contact BMW.SG with inquiries, for visitor service and/or for technical support, information will be collected (including information relating to your products or system) which allows us to better analyze your requirements, more accurately address your inquiries and/or requests, and provide appropriate response or solutions to you.
+**Third Party Cookies:** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
-3.3 Information collected when you volunteer to complete online surveys or participate in polls will be used to improve our products and services. This is of utmost importance to us.
+**Your Rights to Opt Out and Change or Delete Your Information:** If you do not wish to receive e-mail or other correspondence related to BMW.SG’s or third parties’ promotions or products, or you do not wish to have BMW.SG be entitled to use the information that BMW.SG may use as indicated in this statement, simply indicate your preference when you are asked to provide the information or send BMW.SG email at the address indicated below.
 
-3.4 When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners’ list publicly available in compliance with the applicable laws.
+**BMW.SG’s Rights To Change.** BMW.SG may change this privacy statement or any aspect of it by publicly posting such changes on The Site but without any individual notice to you. Notwithstanding anything else in this privacy statement, BMW.SG may release information when it believes that such release is reasonably necessary to (1) comply with law, (2) enforce or apply terms of any of agreement between you and BMW.SG or (3) protect the rights, property or safety of BMW.SG, other users, or others.
 
-3.5 As a service to our customers, we may e-mail you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails are optional, and you are fully entitled to opt out from further receiving them.
+**General Provisions.** Please keep in mind that whenever you voluntarily disclose personal information online (for example on message boards, through email, or in chat areas), that information can be collected and used by BMW.SG and by third parties and may result in unsolicited messages.
 
-3.6 If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service.
+**Contact Information:**
 
-**4\. Sharing your Personal Information.**
-
-Unless we have your permission to do so otherwise, we will share the Personal Information you provide online only with BMW.SG affiliates or with trusted vendors, agents or other entities that provide services to BMW.SG or with business partners of BMW.SG, and only for legitimate purposes including those described herein. Personal Information we collect online is used for responding to inquiries, processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, for developing better products and services, to serve advertisements, contests, surveys and promotions, and to notify you of products or special offers that may be of interest to you.
-
-There will be instances where BMW.SG may be required to divulge or share your Personal Information, such as when required by law. BMW.SG may disclose Personal Information if we in good faith determine that such disclosure should be made for reasons of national security, law compliance or enforcement, to respond to any spamming and related abuses of netiquette claims, to protect the rights and property of BMW.SG, our customers or the public, or other issues of public importance. BMW.SG also reserves the right to disclose your information in the event you are found to be in violation of BMW.SG’s terms of use, or have in any way abused BMW.SG’s services. In the event BMW.SG sells its assets to or is acquired by or merged with another entity, BMW.SG may have to provide customer information related to BMW.SG’s business to the entity, and may share some or all of your Personal Information so as to continue serving you and other users at BMW.SG’s Website.
-
-**  
-5\. Use of Cookies and Web Beacons.**
-
-5.1. Cookies.  
-A “cookie” is a small amount of data that is transferred by a web server to your browser, which may then be stored on your system and may only be read by the server that sent it to you. We and our vendors use cookies to track your visit and better serve you when you return to our site. Some of our web pages may send cookies when you visit our site, make purchases, respond to online surveys or promotions, participate in a contest, or request information. Accepting the cookies used on our site enables our web server to identify your system by reading the cookie that has been stored on your system, but our web server cannot identify you unless you enter your Personal Information. The information collected using cookies allows us to analyze traffic patterns on our BMW.SG Website. This can enable us over time to provide users with a better experience on our site by improving the content and making it easier to use.
-
-Depending on the browser used, you can set your browser to notify you before you receive a cookie, giving you the chance to decide whether or not to accept it, and you can also set your browser to turn off cookies. However, if you do so, some areas of this BMW.SG Website may not function properly, or you will be required to re-enter your Personal Information.
-
-While BMW.SG and our vendors use cookies to track your visit to the BMW.SG Website, and our web servers automatically log the IP / Internet address of your computer, BMW.SG does not generally use this information to personally identify you.
-
-5.2. Web Beacons.  
-We may also use web beacon technologies to better tailor the BMW.SG Website to improve the service provided by us to our customers. A web beacon is a single pixel .GIF that allows a website to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages of the BMW.SG Website. When a visitor accesses these pages, an anonymous notice of that visit is generated which may be processed by us or by our vendors. As these web beacons work in conjunction with cookies, you may, depending on the browser used, set your browser to turn off cookies.
-
-**6\. Minors.**
-
-BMW.SG does not intend to collect information from children below the age of 18\. If you are under the age of 18, you should not provide your Personal Information on the BMW.SG Website and should ask your parent or guardian to do so for you.
-
-**7\. Protecting your Personal Information.**
-
-While BMW.SG does not guarantee that unauthorized access will never occur, BMW.SG does exercise care in maintaining the security of your Personal Information and in preventing unauthorized access to it. BMW.SG will not sell, rent, trade or lease your Personal Information for marketing purposes.
-
-**8\. Changes to this Privacy Policy.**
-
-BMW.SG is dedicated to continually improve its BMW.SG Website. In line with the improvements, and in accordance with the changes in law, technology and BMW.SG’s services, BMW.SG reserves the right to change the Privacy Policy at any time at its sole discretion.
-
-**9\. Applicable laws.**
-
-Without reference to choice or conflict of law principles and rules otherwise applicable, BMW.SG will protect your Personal Information in accordance with the laws of the Singapore and will have exclusive jurisdiction over all matters arising in connection with this Privacy Policy.
-
-**10\. Contact us.**  
-Please contact the webmaster through the “ **[Contact Us](http://www.bmw-sg.com/contact/Admin-Team/)** ” section if you have any questions or comments about this Privacy Policy.
+Via email: admin@bmw-sg.com
