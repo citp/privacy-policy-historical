@@ -1,41 +1,66 @@
-> *The following text is extracted and transformed from the punjabijunktion.co.in privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616081041id_/http%3A//forum.punjabijunktion.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabijunktion.co.in privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214234117id_/http%3A//forum.punjabijunktion.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Punjabi Junktion
 
-|  |  |  | **|   |  **You are currently not logged in. Please sign in. Not a registered member? Click[here](http://forum.punjabijunktion.co.in/register.php).**  
----|---  
-**  
+**What information do we collect?**
+
+We collect information from you when you register on our site. 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+
+ **What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+• To administer a contest, promotion, survey or other site feature
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ ****  
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Disclaimer](http://forum.punjabijunktion.co.in/disclaimer/)
+
+ **Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://forum.punjabijunktion.co.in/sendemail/  
+420 Web Street  
+Webcity, PB 141000  
+India  
   
-  
-| Sponsored Links  
----  
-  
-Sponsors  
----  
-  
-| 
-
-  
-
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-  * PunjabiJunktion recognizes that you care about the personal information that is held about you and how that is used
-  * This privacy policy applies to all personal data, submitted by you, to the PunjabiJunktion web site.
-  * By registering to PunjabiJunktion you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
-  * PunjabiJunktion also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as PunjabiJunktion. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
-  * PunjabiJunktion will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant legislation.
-  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
-  * You have a legal right for the personal information held at PunjabiJunktion to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
-  * PunjabiJunktion will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
-  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to COPPA, our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on PunjabiJunktion
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us.
-  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](http://forum.punjabijunktion.co.in/sendemail/)
-
-
-
-All times are GMT +5.5. The time now is 01:40 PM.
-
-  
-
+All times are GMT +5.5. The time now is 05:11 AM. Ad Management plugin by [PJ Tech Staff](http://punjabijunktion.co.in/)
