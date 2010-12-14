@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the supercross.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615002520id_/http%3A//www.supercross.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercross.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214134358id_/http%3A//www.supercross.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Supercross.com
 
 Wednesday, 03 June 2009 09:59 
+
+[](http://www.addthis.com/bookmark.php?v=250&username=Supercross.com)
 
 Your privacy is extremely important to Supercross.com. We want you to feel as comfortable as possible visiting our website and using its services. This Privacy Policy and Agreement ("Privacy Policy") tells you what information Supercross.com, Inc. (" _The Company_ ") collects about you and your use of this website. This policy also explains how _The Company_ protects that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. By using the Supercross.com site, you agree to the terms of this Privacy Policy.
 
@@ -86,7 +88,7 @@ Supercross.com, Inc. takes reasonable technological and physical security measur
 
 **6\. Updating Your Personal Information and Contacting Supercross.com**
 
-You can always contact us in order to (1) delete your Personal Information or (2) update the Personal Information that you have provided to us by emailing us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy58036%20=%20'support'%20+%20'@';%20addy58036%20=%20addy58036%20+%20'Supercross'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy58036%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy58036%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[support@Supercross.com](mailto:support@Supercross.com) . Such changes will not have any effect on other information that Supercross.com maintains. You may not delete your Personal Information if you wish to continue access to the Website and/or our Supercross.com members-only services.
+You can always contact us in order to (1) delete your Personal Information or (2) update the Personal Information that you have provided to us by emailing us at [support@Supercross.com](mailto:support@Supercross.com). Such changes will not have any effect on other information that Supercross.com maintains. You may not delete your Personal Information if you wish to continue access to the Website and/or our Supercross.com members-only services.
 
 It is not technologically reasonable to remove each and every record of the information you have provided to Supercross.com from our computers servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Information may exist in a non-erasable form that will be difficult or impossible for the company to locate. Nevertheless, upon receiving your request, all Personal Information stored in the live active databases we host will be removed.
 
