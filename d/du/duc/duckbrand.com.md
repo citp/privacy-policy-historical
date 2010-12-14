@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522104942id_/http%3A//www.duckbrand.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214181837id_/http%3A//www.duckbrand.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Duck® brand, ShurTech Brands, LLC
-
-####  Where to Buy
-
-#####  Store Locator
-
-Duck® products are sold at large and small retailers nationwide.
-
-#####  Buy Online
-
-My Brands provides the official online store for Duck® Products.
-
-[Buy Online](https://web.archive.org/Where%20To%20Buy/Buy%20Online.aspx)
 
 Thank you for visiting the ShurTech Brands, LLC ("ShurTech") web sites, including but not limited to shurtech.com, duckbrand.com, paintersmategreen.com, frogtape.com, and caremail.com. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. We have done our best to ensure the privacy and security of your transactions with us.
 
@@ -42,6 +30,10 @@ You should be aware that we may disclose specific information about you if neces
 **Use of Cookies**
 
 DuckBrand.com uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow DuckBrand.com to make our site more responsive to your needs, by delivering better content and merchandise to you. The cookies are typically stored on your computer's hard drive and are used by DuckBrand.com to help track your clicks as you go through the pages within the web site. In addition, DuckBrand.com uses cookies to help keep track of items you put into your shopping bag and to tell us whether you have previously visited DuckBrand.com. This allows registered users to avoid reentering information upon every new visit to our site. If you register or purchase product through DuckBrand.com, navigational information from previous browsing visits may be associated with the personal information you provide.
+
+**Information We Gather Automatically**
+
+When you visit our Site, we may automatically collect certain non-identifying information about you, such as your movement about the site or the pages on the site you visit most frequently, the type of browser or computer operating system you use or the domain name of the Site from which you linked to us ("Non-identifying Information"). We use this Non-identifying Information internally, to help us enhance the efficiency and usefulness of the Site and to improve customer service.
 
 **Placing an Order**
 
@@ -86,3 +78,7 @@ Further, you authorize ShurTech to disclose your password, name, street address,
 **Your Consent**
 
 By using any of ShurTech’s web sites and the content and services available to you on our sites, you consent to our collection and use of your information as described above. If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies.
+
+**A SPECIAL NOTE TO PARENTS:**
+
+We respect the privacy of all of our online users, especially children. We do not intend to collect personally identifiable information from children under 13. Our policy is intended to adhere to the Children's Advertising Review Unit (CARU) privacy guidelines. We encourage parents to monitor, supervise and join their children in online activities.
