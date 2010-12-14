@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420032400id_/http%3A//www.convert2media.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214034858id_/http%3A//www.convert2media.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Convert 2 Media
 
@@ -125,11 +125,7 @@ If you wish to discontinue receiving email messages from CONVERT2MEDIA, you may:
 You may submit your email address at [http://www.Convert2Media.com/unsub.html](http://www.convert2media.com/unsub.html "http://www.Convert2Media.com/unsub.html") or write us at:
 
 **Convert2Media**  
-358 South 700 East, Suite B147  
-Salt Lake City, Utah 84101
+2910 Maguire Road, Suite 2010  
+Ocoee, FL 34761
 
 For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/).
-
-If you have questions about this policy, please contact us at 
-
-This e-mail address is being protected from spam bots, you need JavaScript enabled to view it
