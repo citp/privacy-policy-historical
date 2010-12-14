@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329190414id_/http%3A//data.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214155502id_/http%3A//data.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | data.gov.uk
 
@@ -33,9 +33,3 @@ If you wish to see our records of any correspondence you have sent to us, or if 
 **Changes to this privacy policy**
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-## Submit an app
-
-Have you developed a great app or visualisation you'd like to share with us?
-
-[Submit your app](https://web.archive.org/node/add/apps)
