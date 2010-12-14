@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customlists.net privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522053602id_/http%3A//www.customlists.net/view-cms-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customlists.net privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214082055id_/http%3A//www.customlists.net/view-cms-4) for the most accurate reproduction.*
 
 # Custom Lists: Privacy Policy
 
