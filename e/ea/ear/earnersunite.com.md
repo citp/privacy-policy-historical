@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210071129id_/http%3A//earnersunite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214161216id_/http%3A//earnersunite.com/privacy.php) for the most accurate reproduction.*
 
 # Earners Unite- Grow Together! Earn Together!
 
