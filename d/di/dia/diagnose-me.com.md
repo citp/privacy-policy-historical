@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004034id_/http%3A//www.diagnose-me.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214120440id_/http%3A//www.diagnose-me.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Diagnose-Me - Privacy Policy
 
@@ -18,11 +18,11 @@ Important Definitions
 
 * * *
 
-Personal Health Information (PHI): When your Personally Identifiable Information (PII) is combined with known health characteristics. For example, if you indicated that you have a certain disease or condition, when that information is combined with your PII, it becomes Personal Health Information.
+**Personally Identifiable Information (PII, also called Personal Information):** Information that can be traced back to an individual (contrast with Non-Personal Information and Aggregate Information). Examples of **PII** include your name, home address, telephone number, and email address.
 
-Personally Identifiable Information (PII) (also called Personal Information): Information that can be traced back to an individual (contrast with Non-Personal Information and Aggregate Information). Examples of PII include your name, home address, telephone number, and email address.
+If other pieces of information are linked to **PII** , they also become **PII**. For example, if you use a nickname to chat online and give out your real name while chatting, your nickname becomes **PII** when linked with other **PII**.
 
-If other pieces of information are linked to PII, they also become PII. For example, if you use a nickname to chat online and give out your real name while chatting, your nickname becomes PII when linked with other PII.
+**Personal Health Information (PHI):** When your Personally Identifiable Information ( **PII** ) is combined with known health characteristics. For example, if you indicated that you have a certain disease or condition, when that information is combined with your **PII** , it becomes Personal Health Information ( **PHI** ).
 
 Cookies
 
@@ -34,15 +34,23 @@ We collect non-personal information about your use of our web site through the u
 
 Most browser software can be set to reject all cookies. If you reject our cookies, it will not be possible to complete our questionnaire or use our services. We do not use cookies to collect or store PHI about you.
 
-Third Parties Collecting Non-Personal Information on Diagnose-Me.com's Behalf
+Third Parties Collecting Non-Personal Information on 
+
+Diagnose-Me.com's
+
+Behalf
 
 * * *
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/privacy_ads.html).Personally Identifiable Information We Collect About You
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/privacy_ads.html).
+
+Personally Identifiable Information We Collect About You
 
 * * *
 
-We collect PII, such as your name, email address, date of birth, and zip code, that you volunteer at different locations in our web site. We use the PII that you provide to respond to your questions, provide you the specific services you select, ask questions, and remind you of incomplete transactions.Emails We Send to You
+We collect PII, such as your name, email address, date of birth, and zip code, that you volunteer at different locations in our web site. We use the PII that you provide to respond to your questions, provide you the specific services you select, ask questions, and remind you of incomplete transactions.
+
+Emails sent to You
 
 * * *
 
@@ -52,27 +60,46 @@ Emails that we send include a link to be removed from our system and/or not be c
 
 You will not be added to any email list. Your contact details will never be sold or made available in any way to any third party other than as mentioned in the section _Disclosure of Your Information_ , below. Only essential messages will be sent, until either you have requested no further contact or we have fully supplied the service that you requested and responded to any follow-up questions.
 
-Emails You Send to Diagnose-Me.com
+Emails sent to Diagnose-Me.com
 
 * * *
 
-This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to Diagnose-Me.com by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Diagnose-Me.com. We try to answer every email within 24 business hours, but are not always able to do so.Message Boards and other Public Forums
+This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to Diagnose-Me.com by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Diagnose-Me.com. We try to answer every email within 24 business hours, but are not always able to do so.
+
+Message Boards and other Public Forums
 
 * * *
 
-As a service to our users, Diagnose-Me.com features a public forum where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. Any information shared (including PII and PHI) that you reveal in the discussion forum is by design open to the public and is not a private, secure service. You should think carefully before disclosing any personally identifiable or PHI in any public forum. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, this information may also appear in third-party search engines.Subscription Services
+As a service to our users, Diagnose-Me.com features a public forum where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. Any information shared (including PII and PHI) that you reveal in the discussion forum is by design open to the public and is not a private, secure service. You should think carefully before disclosing any personally identifiable or PHI in any public forum. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, this information may also appear in third-party search engines.
+
+Subscription Services
 
 * * *
 
-Diagnose-Me.com does not provide any subscription or recurring services. Any service is provided on a one time basis.Children
+Diagnose-Me.com does not provide any subscription or recurring services. Any service is provided on a one-time basis.
+
+Children
 
 * * *
 
-We are committed to protecting the privacy of children. Neither Diagnose-Me.com nor any of its services are designed or intended to attract children under the age of 12. We do not collect PII from any person we actually know is under the age of 12. A parent or guardian, however, may use Diagnose-Me.com to enter personal health details for a minor. The parent or guardian is solely responsible for providing supervision of the minor's use of Diagnose-Me.com and also assumes full responsibility for the interpretation and use of any information or suggestions provided through Diagnose-Me.com for the minor.Disclosure of Your Information
+We are committed to protecting the privacy of children. Neither Diagnose-Me.com nor any of its services are designed or intended to attract children under the age of 12. We do not collect PII from any person we actually know is under the age of 12. A parent or guardian, however, may use Diagnose-Me.com to enter personal health details for a minor. The parent or guardian is solely responsible for providing supervision of the minor's use of Diagnose-Me.com and also assumes full responsibility for the interpretation and use of any information or suggestions provided through Diagnose-Me.com for the minor.
+
+Collection and Storage of your Medical Information
 
 * * *
 
-Except as described in this Privacy Policy or as specifically agreed to by you, Diagnose-Me.com will not disclose any personally identifiable or PHI it gathers from you on this web site. We may only release PII or PHI to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your personally identifiable or PHI to a third party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose personal information as described below.
+All PHI entered into the Questionnaire is encrypted using 256-bit SSL encryption provided by [Thawte, Inc](http://www.thawte.com/ "Open Thawte, Inc. web site in a new window").  In addition, due to the sensitive nature of medical data, Diagnose-Me.com _stores no data whatsoever_ on web servers that are accessible by the public.  When previously-typed data (such as your name) appears on our web pages, it is being retrieved from one of two sources: 
+
+  1. Cookies stored on your computer.  These files are _only_ accessible to users of your computer or the web site that created them;
+  2. Encrypted hyperlinks sent in emails from Diagnose-Me.com to yourself and decrypted only when these links are followed.
+
+To further protect your data, be careful when forwarding email messages, restrict access to your computer and use passwords where appropriate.
+
+Disclosure of Your Information
+
+* * *
+
+Except as described in this Privacy Policy or as specifically agreed to by you, Diagnose-Me.com will not disclose any personally identifiable or PHI it gathers from you on this web site. We may only release PII or PHI to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your PII or PHI to a third party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose personal information as described below.
 
 It is important to note that neither PII nor PHI is stored on any publicly-accessible server: It is simply not possible for your information to be downloaded by hackers or other interested parties. This is why, when you return to our web site, you will not be able to see your previous responses to the questionnaire (we can, however, send them to you by email).
 
@@ -88,34 +115,42 @@ Disclosure to Third Party Card Processor Web Sites
 
 * * *
 
-Credit card billing information is stored and transmitted securely to our credit card processor, and is used only for the one-time billing of a credit or debit card via a secure site protected by 128-bit Secure Sockets Layer (SSL) encryption technology. No billing information is stored on any publicly-accessible server: It is not possible for your credit/debit card information to be downloaded by hackers or criminals.Disclosure of Aggregate Information
+Credit card billing information is stored and transmitted securely to our credit card processor, and is used only for the one-time billing of a credit or debit card via a secure site protected by 128-bit Secure Sockets Layer (SSL) encryption technology. No billing information is stored on any publicly-accessible server: It is not possible for your credit/debit card information to be downloaded by hackers or criminals.
+
+Disclosure of Aggregate Information
 
 * * *
 
-Diagnose-Me.com may provide aggregate, non-identifying information to third parties. For example, we might inform third parties regarding the number of users of our website and the activities they conduct while on our site.How Diagnose-Me.com Handles Privacy and Security Internally
+Diagnose-Me.com may provide aggregate, non-identifying information to third parties. For example, we might inform third parties regarding the number of users of our website and the activities they conduct while on our site.
+
+How Diagnose-Me.com Handles Privacy and Security Internally
 
 * * *
 
 Here are some of the security procedures that Diagnose-Me.com uses to protect your privacy: 
 
-  * Maintains a complete audit trails of who accessed what information and when.
+  * Maintains a complete audit trail of who accessed what information and when.
   * Only sends information to the email address supplied by the user.
   * Uses firewalls to protect information held in our servers.
-  * Utilizes Secure Socket Layer (SSL) encryption in transmitting payment-related information to and from our servers. In order to take advantage of encryption technology, you must have an Internet browser which supports 128-bit encryption.
+  * Utilizes Secure Socket Layer (SSL) encryption in transmitting payment-related information to and from our servers. In order to take advantage of encryption technology, you must have an Internet browser which supports 128- and 256-bit encryption.
   * Closely monitors the limited number of Diagnose-Me.com employees who have potential access to your PII and PHI.
   * Requires all Diagnose-Me.com employees to abide by our Privacy Policy and to be subject to disciplinary action if they violate it.
-  * Backs-up and encrypts our systems to protect the integrity of your personally identifiable and PHI.
+  * Backs-up and encrypts our systems to protect the integrity of your PII and PHI.
   * Limits access to PII and PHI to authorized operators of our system.
 
-Despite Diagnose-Me.com's best efforts to protect your PII and PHI, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted.Updating Your Personally Identifiable Information
+Despite Diagnose-Me.com's best efforts to protect your PII and PHI, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted.
+
+Updating Your Personally Identifiable Information
 
 * * *
 
-Diagnose-Me.com accepts changes by email from the person who originally submitted the data, and can additionally provide instructions on how to change any particular set of data.Removing your Personal Information
+Diagnose-Me.com accepts changes by email from the person who originally submitted the data, and can additionally provide instructions on how to change any particular set of data.
+
+Removing your Personal Information
 
 * * *
 
-If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20100102004034id_/http%3A//www.diagnose-me.com/contact.html) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
+If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20101214120440id_/http%3A//www.diagnose-me.com/contact.html) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
 
 If you do not receive adequate resolution of a privacy-related problem, you may write to Diagnose-Me.com's Privacy Office at:
 
@@ -132,7 +167,9 @@ Limitations on Removing or Changing Information
 
 * * *
 
-Upon your request, we will delete your PII or PHI from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to Diagnose-Me.com from our servers.Changes to this Privacy Policy
+Upon your request, we will delete your PII or PHI from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to Diagnose-Me.com from our servers.
+
+Changes to this Privacy Policy
 
 * * *
 
