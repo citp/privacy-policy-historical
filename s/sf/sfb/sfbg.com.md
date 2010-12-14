@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507010628id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfbg.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214083149id_/http%3A//www.sfbg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | San Francisco Bay Guardian
+# Privacy/Comment Policy | San Francisco Bay Guardian
 
 Last Updated on March 1, 2007
 
@@ -26,3 +26,7 @@ To view and edit your personal information, please visit the appropriate part of
 **How To Contact Us**
 
 For any questions or comments regarding our information or security practices, you may contact us by e-mail at [online@sfbg.com](mailto:online@sfbg.com) or by mail at Ad Services Dept., 135 Mississippi St., San Francisco, CA 94107.
+
+**COMMENT POLICY**
+
+Under the Digital Millennium Copyright Act, comments are the sole responsibility of the individual commenters. SFBG reserves the right to delete any comments that include hate speech, libel, plagiarism, threats, or off-topic assertions in order to protect the integrity of the site and its users. We do not edit comments for content.  
