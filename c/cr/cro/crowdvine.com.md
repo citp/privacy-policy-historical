@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the crowdvine.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106112335id_/http%3A//www.crowdvine.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdvine.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214125609id_/http%3A//crowdvine.com/home/privacy) for the most accurate reproduction.*
 
-# A Social Network For Your Event or Group - CrowdVine
+# Privacy - Create a Social Network for Your Event or Group
 
   
 
 
-### Our Commitment To Privacy
+## Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available from every page on our networks.
 
-### The Information We Collect:
+## The Information We Collect:
 
 This notice applies to all information collected or submitted on the CrowdVine website or social networks running on the CrowdVine service. Primarily we collect information from users in order to create profiles and engage in discussion. The information we collect includes, but is not limited to: name, location, personal URLs, blogs, and contacts.
 
-### The Way We Use Information:
+## The Way We Use Information:
 
 We use the information you provide about yourself to create profiles for other people to find out more about you. Depending on the privacy settings of the network, your profile may be visible to just other members or publicly visible to anyone visiting the network.
 
@@ -27,15 +27,15 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without getting your opt-in approval.
 
-### Our Commitment To Data Security
+## Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment To Children's Privacy:
+## Our Commitment To Children's Privacy:
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-### How You Can Access Or Correct Your Information
+## How You Can Access Or Correct Your Information
 
 You can access all your personally identifiable information that we collect online and maintain by visiting your account settings page or by visiting the edit profile options on each of the networks that you are a member of. 
 
@@ -43,6 +43,6 @@ You can correct factual errors in your personally identifiable information throu
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-### How To Contact Us
+## How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please call us at 1-707-953-3868 or send us an email at privacy@crowdvine.com.
