@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-service.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612170100id_/http%3A//www.cv-service.org/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-service.org privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214212132id_/http%3A//cv-service.org/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - www.cv-service.org M Kelley Ltd. T/A First Impressions
 
