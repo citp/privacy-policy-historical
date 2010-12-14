@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the cartmanager.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611224353id_/http%3A//www.cartmanager.net/administration/privacypolicy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartmanager.net privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214010734id_/http%3A//www.cartmanager.net/administration/privacypolicy.php3) for the most accurate reproduction.*
 
 # Online Shopping Carts, Shopping Cart Software - Privacy Policy
 
   |  |    
 |  | 
 
-## CartManager Online Shopping Cart Privacy Policy
-
-CartManager ("CartManager", "we", "our", "us") values your privacy and endeavors to treat your personal information with due care and security. Our Privacy Policy sets forth the ways in which CartManager obtains and uses your personal information. CartManager reserves the right, without notice, to modify or eliminate all or a portion of this Privacy Policy at any time. By making use of the CartManager website or any CartManager product or service, you agree to the terms of the Privacy Policy in its ongoing form.
+**CartManager Online Shopping Cart Software Web Site Privacy Policy** CartManager ("CartManager", "we", "our", "us") values your privacy and endeavors to treat your personal information with due care and security. Our Privacy Policy sets forth the ways in which CartManager obtains and uses your personal information. CartManager reserves the right, without notice, to modify or eliminate all or a portion of this Privacy Policy at any time. By making use of the CartManager website or any CartManager product or service, you agree to the terms of the Privacy Policy in its ongoing form.
 
 CartManager may collect information directly from you in order to provide products or services, to administer customer service assistance, or to fulfill any legal or regulatory requirements. CartManager may also obtain personal information as a result of a consumer's financial transactions using the CartManager product(s) or through a merchant that uses the CartManager products and/or services. With respect to any information a CartManager merchant may provide, CartManager will treat the information in accordance with the terms and conditions of the CartManager online Service Agreement, which may be viewed at: <http://www.cartmanager.net/administration/termsagreement.php3>
 
@@ -33,7 +31,7 @@ The examples contained in this Privacy Policy are illustrations only, and they a
 
 If you have any questions about the CartManager Privacy Policy, please contact us using one of the methods available on the "Contact Us" page of the CartManager website.
 
-This CartManager Privacy Policy is currently applicable only to persons making use of the CartManager website, product(s), and/or services(s) in the United States of America. To the extent allowed by law, the same terms and conditions hereof apply to non-U.S. parties. However, additional terms and conditions under international laws and cross-border credit card association regulations may apply.  
+The CartManager Privacy Policy applies only to persons or companies making use of the CartManager website, CartManager's shopping cart software, product(s), and/or services(s) in the United States of America. To the extent allowed by law, the same terms and conditions hereof apply to non-U.S. parties. However, additional terms and conditions under international laws and cross-border credit card association regulations may apply.  
   
 ---  
    
