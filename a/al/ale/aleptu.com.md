@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aleptu.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103202011id_/http%3A//aleptu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleptu.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214034830id_/http%3A//aleptu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Aleptu
+# Privacy Policy
 
 Your privacy is critically important to us. At Aleptu we have a few fundamental principles:
 
