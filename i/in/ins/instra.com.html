@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instra.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526172446id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instra.com privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215003400id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy  - Instra Corporation - Global Domain Name Registration Services</title>
@@ -11,10 +11,11 @@
 <meta name="distribution" content="global">
 <meta name="robots" content="FOLLOW, INDEX">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ 
 <link type="text/css" href="/include/css/main.css" rel="stylesheet">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="/include/js/jquery-1.2.6.pack.js"></script>
 <script type="text/javascript" src="/include/js/main.js"></script>
-
 </head>
 <body>           
 <div id="contain">
@@ -27,7 +28,13 @@
 		
 		 <script language="JavaScript" type="text/JavaScript">
 		  function view_cart(){
-		  alert("Shopping cart is empty!")}
+		  	var cart_quantity = document.getElementById('span_view_cart').innerHTML;
+		  	cart_quantity = cart_quantity.substr(cart_quantity.indexOf('('));
+		  	cart_quantity = cart_quantity.substr(1,cart_quantity.lastIndexOf(')')-1);		  	
+		  	if(parseInt(cart_quantity) > 0)
+			  	window.open("/en/domain-application/login/step-01","_self");			else
+				alert("Shopping cart is empty!");
+		  		  }
 		  
 		  function check_zone_value(url){
 		  	if(document.getElementById('zone').value==""){
@@ -58,11 +65,11 @@
             <!--[if lte IE 6]><table><tr><td><![endif]-->  
             <ul>
             	  
+                <li><a href="/en/domain-names/domain-name-renewal">Renewal</a></li> 
+                  
                 <li><a href="/en/domain-names/domain-name-registration">Registration</a></li> 
                   
                 <li><a href="/en/domain-names/bulk-registration">Bulk Registration</a></li> 
-                  
-                <li><a href="/en/domain-names/domain-name-renewal">Renewal</a></li> 
                   
                 <li><a href="/en/domain-names/domain-name-transfer">Transfer</a></li> 
                   
@@ -90,9 +97,9 @@
             <!--[if lte IE 6]><table><tr><td><![endif]-->  
             <ul>
             	  
-                <li><a href="/en/phone-numbers/pricing">Pricing</a></li> 
-                  
                 <li><a href="/en/phone-numbers/global-coverage">Global Coverage</a></li> 
+                  
+                <li><a href="/en/phone-numbers/pricing">Pricing</a></li> 
                   
                 <li><a href="/en/phone-numbers/how-it-works">How It Works</a></li> 
                   
@@ -143,6 +150,8 @@
             <!--[if lte IE 6]><table><tr><td><![endif]-->  
             <ul>
             	  
+                <li><a href="/en/about-us/payment-details">Payment Details</a></li> 
+                  
                 <li><a href="/en/about-us/our-company">Our Company</a></li> 
                   
                 <li><a href="/en/about-us/our-people">Our People</a></li> 
@@ -154,8 +163,6 @@
                 <li><a href="/en/about-us/our-accreditation">Our Accreditation</a></li> 
                   
                 <li><a href="/en/news/instra">Press and News</a></li> 
-                  
-                <li><a href="/en/about-us/payment-details">Payment Details</a></li> 
                   
                 <li><a href="/en/about-us/careers-at-instra">Careers at Instra</a></li> 
                   
@@ -182,7 +189,7 @@
 			<!-- ticker or navigation links end   -->
 	
 	<!-- Language and currency selector start -->
-	<div class="currency">
+	<div class="currency">		
 		 
 		<!-- language selector end   -->		
 			
@@ -368,8 +375,7 @@
 
   	
 	<div style="text-align:center;"> 
-		  	<div id="footer"></div>
-  	<div class="spacer_5px"></div>
+		  	<div id="footer"></div>  	
 		<div id="footer_reverse"></div>
 		<div style="background-color:#FFFFFF;width:950px;margin-left:auto;margin-right:auto;">
 			<table id="foot_table" border="0" style="">
@@ -384,12 +390,10 @@
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo4-hkndr.gif" alt="hkndr"></a> 
 						 		<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo5-denic.gif" alt="denic"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo6-dk.gif" alt="dk"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo8-se.gif" alt="se"></a> 
+								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a>								
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo9-sg.gif" alt="sg"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo10-eu.gif" alt="eu"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo12-se.gif" alt="se"></a> 
+								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a>								 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo13-tw.gif" alt="tw"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo14-sw.gif" alt="sw"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo15-us.gif" alt="us"></a> 
@@ -397,19 +401,17 @@
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo17-mobi.gif" alt="mobi"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo18-be.gif" alt="be"></a> 
 							 </div>
-							 <div class="jscroller2_left_endless" style="background-color: rgb(255, 255, 255); position: absolute; left: 651px; top: 0px; height: 70px;">
+							 <div class="jscroller2_left_endless" style="background-color: rgb(255, 255, 255); position: absolute; left: 587px; top: 0px; height: 70px;">
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo1-icann.gif" alt="icann"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo2-auda.gif" alt="auda"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo3-nz.gif" alt="nz"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo4-hkndr.gif" alt="hkndr"></a> 
 						 		<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo5-denic.gif" alt="denic"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo6-dk.gif" alt="dk"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo8-se.gif" alt="se"></a> 
+								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a>								
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo9-sg.gif" alt="sg"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo10-eu.gif" alt="eu"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a> 
-								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo12-se.gif" alt="se"></a> 
+								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a>								 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo13-tw.gif" alt="tw"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo14-sw.gif" alt="sw"></a> 
 								<a href="/en/about-us/Acc"><img src="/media/img/AccreditedLogos/logo15-us.gif" alt="us"></a> 
@@ -454,14 +456,12 @@ function jscroller2_change_speed(obj, speed) {
 
 <!-- carusel end   -->
 
-	<div id="footer"></div>
-	<div class="spacer_5px"></div>
+	<div id="footer"></div>	
 	<div id="footer_reverse"></div>
 	<div id="footer_text">
 		<div style="float:left;">Copyright © 1997-2010 Instra Corporation All Rights Reserved. </div> 
 		<div style="float:right;"><a href="/en">Home</a> | <a href="/en/domain-names/country-page/all-country">Domain Names</a> | <a href="/en/phone-numbers">Phone Numbers</a> | <a href="/en/hosting">Hosting</a> | <!-- a href="/instra-hosting">Tools</a> | -->
-		<a href="/en/resellers">Resellers</a> | <a href="/en/about-us">About Us</a></div>
-		<br>
+		<a href="/en/resellers">Resellers</a> | <a href="/en/about-us">About Us</a></div>		
 		<hr style="color:#cccccc; clear:both; ">
 		<div style="clear:both;float:left;"><a href="/en/about-us/privacy-policy">Privacy Policy</a> | <a href="/en/about-us/Terms-Conditions">Terms of Services</a> | <a href="/en/Sitemap">Sitemap</a></div>
 	</div>
