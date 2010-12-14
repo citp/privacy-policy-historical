@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentcurrent.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527062143id_/http%3A//www.contentcurrent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentcurrent.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214020437id_/http%3A//contentcurrent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ContentCurrent.com
 
