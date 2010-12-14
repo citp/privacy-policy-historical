@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608062701id_/http%3A//www.eurail.com/eurail-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214020358id_/http%3A//www.eurail.com/eurail-privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
-**At Eurail.com, we are committed to protecting the online privacy of visitors to our website. This Policy applies only to the website and online services provided by Eurail.com. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.**
+At Eurail.Com, we are committed to protecting the online privacy of visitors to our website. This Policy applies only to the website and online services provided by Eurail.Com. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties. 
 
-Eurail.com adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union’s Directive on Data Protection and the U.S. Department of Commerce.
+Eurail.Com adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union’s Directive on Data Protection and the U.S. Department of Commerce.
 
 ## I. Information That We Collect
 
@@ -27,7 +27,7 @@ You do have control over cookies. Most browsers can be set to notify you when a 
 We use your personal information to provide you any services that you may request or require, to communicate with you, to allow you to make purchases. We use aggregated non-personal information about our users to understand our website's demographics, such as the geographic distribution of our users, the age ranges of our users, or a combination of these or other demographics. We use the non-personal information we collect to analyze how our websites are being used, and to improve the content of our websites, online product offerings, and promotional efforts.
 
 **Email Communications**  
-If you send us an email with questions or comments, we may use your personal information to respond to your questions or comments, and we may save your questions or comments for future reference. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service that involves email communications or . in order to provide customer support in connection with those products. There may be times when you will have the opportunity to subscribe to an email list or electronic newsletter that will send information about our websites to your email address. However, we will provide you with the option to change your preferences and opt-out of receiving those communications.
+If you send us an email with questions or comments, we may use your personal information to respond to your questions or comments, and we may save your questions or comments for future reference. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service that involves email communications or in order to provide customer support in connection with those products. There may be times when you will have the opportunity to subscribe to an email list or electronic newsletter that will send information about our websites to your email address. However, we will provide you with the option to change your preferences and opt-out of receiving those communications.
 
 **Online Service**  
 If you make a purchase through our online ordering service, we may use the information you provide to send you important announcements and updates regarding our website or online service. In those instances, we will provide you with the option to change your preferences and opt-out of receiving those communications.
