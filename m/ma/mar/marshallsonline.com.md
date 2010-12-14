@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613044528id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214100231id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy « Marshalls
+# Marshalls Privacy Policy
 
 Welcome to marshallsonline.com (the "Website"), the website for **Marshalls** , a division of The TJX Companies, Inc. ("TJX"). TJX, T.J. Maxx, Marshalls, HomeGoods, A.J. Wright, and other affiliates are the "TJX Businesses." This Privacy Notice applies to and is a part of the Website which is also governed by the Website's [Terms of Use](http://www.marshallsonline.com/terms-of-use/). If any of the terms of this Privacy Notice directly conflict with the Website Terms of Use, the terms of this Privacy Notice shall apply and control.
 
