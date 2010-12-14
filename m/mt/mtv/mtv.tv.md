@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218003711id_/http%3A//www.mtv.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113155id_/http%3A//www.mtv.tv/info/Footer-Site-Privacy-Policy) for the most accurate reproduction.*
 
-# MTV European: Privacy Policy
-
-The privacy policy sets out how we use any personal information that you give to us, such as your name, address, telephone number or email address.
+# Privacy Policy| MTV European
 
 ### Who We Are
 
@@ -70,6 +68,3 @@ In the unlikely event that we sell or otherwise dispose of some or all of our bu
 We will try to email you if there are any changes to this policy that materially affect how we use your information. However, we encourage users to be responsible about their privacy and to check this policy from time to time and to update their preferences.
 
 This policy was last updated 8th February 2008.
-
-Top Back  
-
