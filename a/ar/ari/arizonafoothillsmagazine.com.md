@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arizonafoothillsmagazine.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604235622id_/http%3A//www.arizonafoothillsmagazine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonafoothillsmagazine.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214125841id_/http%3A//arizonafoothillsmagazine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Security and Privacy
-
-[ ](http://www.addthis.com/bookmark.php?v=250&pub=xa-4ae119751b6b8178)
 
 We are committed to ensuring that the personal information you share with us remains secure and private. To demonstrate our commitment, we have developed the privacy policy outlined below. If you have any questions about this policy, or the content or practices of our Web site, we encourage you to contact us. 
 
