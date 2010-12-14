@@ -1,237 +1,156 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213140902id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215005701id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge
 
-* * *
+  
+Below you will find the Privacy Policy for www.expedia.com.au, a website operated by Expedia, Inc.   
+Expedia, Inc. (“we” or “us”) complies with the National Privacy Principles set out in the Privacy Act 1988 (Cth) in relation to the collection and disclosure of information regarding individuals using and accessing this website. We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.   
 
-This site is operated by Expedia of 3150 139th Avenue SE, Bellevue, Washington 98005 United States of America.   
-Expedia, Inc. and its related bodies corporate (“Expedia” or “we”) are bound by and comply with the National Privacy Principles set out in Schedule 3 to the Privacy Act 1988 (Cth) in relation to the collection and disclosure of information regarding individuals in Australia.   
-We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personally identifiable information ("PII") you provide us. (PII includes information that can be linked to a specific individual, such as name, address, phone number, or email address.) 
 
-As a visitor to Expedia's Australian Web site, www.Expedia.com.au ("Expedia.com.au"), you have the right to understand our information privacy practices prior to providing Expedia, Inc. or its related bodies corporate, suppliers or distributors with any of your PII. 
+·         What information we collect from you
 
-**What information we collect**  
-Expedia only collects PII that you **voluntarily** provide to us.   
-Tell me more.
+·         How we use your information
 
-**How we use your information**  
-Expedia uses your PII only for the purpose of responding to and fulfilling your requests made by use of Expedia.com.au.   
-Tell me more.
+·         With whom we share your information
 
-**Who we share your information with**  
-Expedia will only share your PII with our authorised travel service providers, and only as necessary in order to complete a transaction that you specifically request. **Expedia does not sell or rent your PII to anyone.**   
-Tell me more.
+·         How you can access your information
 
-**How you can control the use of your information**  
-Expedia provides you with choice and control over the collection and use of your PII, as well as a means of updating, correcting, or removing any PII stored in your customer profile.   
-Tell me more.
+·         Your choices with respect to the collection and use of your information
 
-**How you can decide what marketing communications you'll receive**  
-Expedia provides you with the opportunity to specifically choose the promotional marketing communications you wish to receive from Expedia. If you choose not to receive any of the promotional email services that Expedia.com.au provides, then Expedia will only send you email that relates to a specific travel purchase you have made on Expedia.com.au.   
-Tell me more.
+·         Cookies and other technologies 
 
-**How we protect your information**  
-To ensure the confidentiality of your PII, Expedia uses leading security technology and procedures.   
-Tell me more.
+·         Display of tailored advertising/Your choices 
 
-By providing you with this Privacy Statement, Expedia is pledging our continued commitment to protecting the information you provide us.
+·         How we protect your information
+
+·         External links
+
+·         Transborder dataflows
+
+·         Changes to this Privacy Policy
+
+·         How you can contact us
+
+**What information we collect from you**  
+In General. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including but not limited to your first and last name, telephone number, postal and email addresses, fax number, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide all requested information to us, but in general some information about you is required in order for you to register as a member; book travel; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site. If you do not provide all or part of the requested information, you may not be able to complete certain activities on the website.   
+
 
   
+Travel Companion Information. When you make a reservation for someone else through this website, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences and provide that individual with a copy of this Privacy Policy. Any access to view or change the information of your travel companion(s) will be available only through your account.   
+  
+Information from Other Sources. We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information.   
+  
+Automatic Information. We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see  Cookies and other technologies.   
 
 
-**Expedia Privacy Statement**
+**How we use your information **  
+We use sensitive billing information (such as cardholder name, credit card number, and expiration date) and disclose such information to our third party suppliers and vendors for the purpose of completing the travel bookings you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection. By providing your personal information to us, you consent to the use of your personal information as described.   
 
-This Privacy Statement discloses the information privacy practices for Expedia with respect to the Expedia.com.au web site. The Expedia.com.au Web site is intended for use by residents of Australia that are over 18 years of age. 
 
-**Information collected about you**  
-Expedia collects Personally Identifiable Information ("PII") about you that you specifically and voluntarily provide. PII includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a member of Expedia in order to use selected travel planning tools, and some PII is needed in order to process and fulfill travel requests, many areas of Expedia can be accessed without providing any PII. 
+  
+Email Communications. We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by sending you email messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel offers or other destination information. We believe these email messages will provide you with useful information about travel-related special offers available through our site. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send.   
+  
+Please review " Your choices with respect to the collection and use of your information" below.  
 
-On all Expedia.com.au pages that collect PII, we specifically describe what information is required in order to provide you with the product or service you have requested. 
 
-At present, Expedia centralises its records of PII for all Expedia operations, including those on Expedia.com.au, in the United States. As a consequence Expedia may perform some of its data processing of your PII outside Australia , for example in the United States. To do this, Expedia may transfer your PII internationally to other countries including the United States. Some of the countries may have laws that protect your PII, some may not. Expedia will protect your PII no matter where we process or store your data by following this privacy statement. By becoming a member of Expedia.com.au you give your consent to this transfer of your PII.
+**With whom we share your information **  
+We may share your information with the following entities:   
 
-Expedia collects PII via Expedia.com.au when you: 
 
-  * Become a Expedia.com.au member 
-  * Complete a traveller profile 
-  * Purchase travel 
-  * Use the Travel Arranger service 
-  * Participate in a survey, contest, or sweepstakes 
-  * Contact Expedia.com.au 
+·                     Suppliers, such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. We do not place limitations on our suppliers' use or disclosure of your personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this website. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit. 
 
+·                     Third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 
 
+·                     Business partners with whom we may jointly offer products or services, or whose products or services may be offered on our website. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. Therefore, we encourage you to review the privacy policies of any such business partners. 
 
-**Member information**   
-Expedia collects your Member ID, password, and e-mail address when you register to become a member of our Expedia.com.au Web site. 
+·                     Referring websites. If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites’ use of your personal information and we encourage you to review the privacy policies of any website that referred you here. 
 
-**Traveller profile information**   
-Expedia collects the full name and contact number for a traveller when a travel reservation is made on Expedia.com.au. We may also collect information about each traveler's preferences, including meal requests, seat selection, frequent flyer/hotel/car hire programmes and membership numbers, and ticketing options. This information is stored in the  [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) area of a member's Expedia.com.au account. 
+·                     Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotels.com, L.P.; TripAdvisor LLC; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also comply with applicable laws governing the transmission of commercial electronic communications and, at a minimum, give you an opportunity in any commercial electronic message they send to choose not to receive such commercial electronic messages in the future. 
 
-When someone other than yourself is accompanying you on travel purchased through Expedia.com.au, we may collect PII and travel preferences about that individual. You should obtain the consent of other individuals prior to providing Expedia with their full names, contact numbers, and travel preferences, as they will be unable to directly access our systems to view or change any information you provide on their behalf (however, they may submit a written request to us to access any PII you provide to us on their behalf.)   
+·                     Government and Law Enforcement Agencies.  We may be required to disclose your personal information to law enforcement agencies and governments around the world for security, customs and immigration purposes. For example, under U.S. Law, the U.S. Department of Homeland Security Bureau of Customs and Border Protection requires that certain travel and reservation information relating to people travelling to or via the U.S.A, known as Passenger Name Record or PNR data, be provided to it prior to arrival in, or departure from, the U.S.A.   
 
 
-**Access to your information**  
-We will, on request, provide you with access to the PII we hold about you, unless there is an exception which applies under the National Privacy Principles as set out in Schedule 3 to the Privacy Act 1988 (Cth). We may recover from you our reasonable costs of supplying you with access to this PII and your request to provide access to this PII will be dealt with in a reasonable time. If we refuse to provide you with access to the PII, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles. 
+  
+We also may share your information:   
 
-**Travel purchase information**   
-Expedia collects the billing address of the credit card that is used to purchase travel through Expedia.com.au. We will also collect credit card information, including card number, card type, cardholder name, and expiry date, in order to bill you for some of the travel purchased through Expedia.com.au. Please view our  [Credit Card Guarantee](https://web.archive.org/daily/service/cc.aspx) for additional information on Expedia , Inc. and its related bodies corporate’s commitment to protecting your credit card security. 
 
-**Travel Arranger information**   
-Expedia.com.au offers you the ability to authorise others to make and purchase travel arrangements on your behalf and allows you to become an authorised Travel Arranger for other Expedia.com.au members. If you elect to participate in this service, Expedia will collect the email address of the person you are authorising to make travel arrangements on your behalf or for whom you are requesting authorisation to make travel arrangements. 
+·                     In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
 
-**Surveys, contests, and sweepstakes**   
-Occasionally, Expedia may offer our members and site visitors an opportunity to participate in a survey, contest, or sweepstakes. Information collected by Expedia when you participate in a survey, contest, or sweepstakes may include your full name, e-mail address, and street address. 
+·                     When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Service and other agreements. 
 
-**Contacting Expedia.com.au**   
-Expedia collects PII such as your full name, Member ID, email address, and/or contact number whenever you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to Expedia.com.au, or accessing your account. 
+·                     In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
-**Our partners**   
-Expedia has partnered with reputable third parties to offer our members and site visitors a variety of products and services. All travel services throughout Expedia.com.au that are provided by a third-party partner are described as such. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than Expedia . We encourage you to review our business partners' privacy policies to further understand their procedures for collecting, using, and disclosing your information. 
+·                     As otherwise permitted by National Privacy Principle 2.1.   
 
-**Other information we collect**   
-Some information is collected automatically every time you visit Expedia.com.au. Expedia collects information about your computer and assigns you a "cookie" (a small, unique identifier text file) when you visit Expedia.com.au. You do not provide this information—it is collected automatically as a means of supporting your visit to our site. This cookie does not contain any PII. [Click here to find out more about cookies.](https://web.archive.org/Pub/Agent.dll?qscr=hgen&hfnm=h_SC_signfaq.htx#cookie)
 
-**Cookies and other Web technologies**   
-As a member or visitor to Expedia.com.au you will be assigned a permanent cookie file on your computer's hard drive. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access many travel services and planning tools offered on Expedia.com.au. 
+  
+Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.   
+  
+By providing your personal information to us, you consent to the disclosure of your personal information as described above.   
+  
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.   
 
-When you access the  [My Trips](https://web.archive.org/pub/agent.dll?qscr=litn) or  [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) areas of the Expedia.com.au Web site, reserve or purchase travel, or use selected travel planning tools, Expedia requires you to sign in as a member, using your Member ID and password. Once you sign in as an Expedia.com.au member, we record the Member ID and the name on the member account in the cookie file on your computer. We may also record your password in this cookie file if you checked the box entitled "Save this password for automatic sign-in." Your Member ID, password, and the name on your member account is stored in the cookie file as encrypted data, so no one can view the information it contains by obtaining unauthorized access to your computer. Permanent cookie files remain on your computer's hard drive until you manually delete the file. 
 
-The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of an action tag (also known as an invisible gif), which the third party places on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No PII is collected during this process. The information is anonymous and does not link online actions to an identifiable person. 
+**How you can access your information **  
+You can access and update your contact information by visiting this website’s Account Overview page. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity.   
 
-**Computer information**   
-Expedia collects certain technical information from your computer each time you request a page during a visit to Expedia.com.au. This information is collected from your computer's Web browser and may include your IP address, operating system, Web browser software (e.g. Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site. Wireless users: Please check with your wireless company if you are using your cellular phone to access the Internet to understand whether PII may be used to identify you. 
 
-**Failure to provide information**
+  
+Upon closing your account, we will, on request, provide you with access to the personal information we hold about you, unless there is an exception which applies under the National Privacy Principles. We may recover from you our reasonable costs of supplying you with access to this personal information. Your request to provide access to this personal information will be dealt with in a reasonable time. If we refuse to provide you with access to the personal information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles.   
 
-When making travel plans or a purchase using Expedia.com.au you must provide the requested contact information and financial information. We will use your contact information to reserve the required services, to send you details of the confirmation, for billing purposes and to inform you of any updates or changes to your travel plans. 
 
-If you do not provide the requested contact information and financial information we may not be able to complete your requests or orders and you may not be able to access all areas of Expedia.com.au.
+**Your choices with respect to collection and use of your information**  
 
-**Use of your information**  
-Information collected on Expedia.com.au may be used to: 
 
-  * Register you as an Expedia.com.au member 
-  * Plan and purchase travel 
-  * Notify you on travel changes through the Travel Alerts service
-  * Send email notifications for special promotions
-  * Respond to your questions or suggestions 
-  * Improve the quality of your visit to our site 
+·                     As discussed above, you can choose not to provide us with any information, although it may be needed to book travel or to take advantage of certain features offered on this site. 
 
+·                     You also can add or update information and close your account as described above. 
 
+·                     When you register as a member on this site, you will be given a choice as to whether you want to receive email messages from us about special offers. As a registered member, you can modify your choice at any time on the Account Overview page. Whether registered as a member or not, you will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them. 
 
-**Member Registration Information**   
-When you register to become a member of Expedia.com.au, we use your information to create your member account. You will then receive a "Welcome to Expedia.com.au" email that contains your Member ID and describes the benefits of using Expedia.com.au for planning and purchasing your travel needs. 
+·                     You may have the opportunity on our website to provide a mobile number in order to receive day-of-travel flight alerts. You may discontinue these alerts at any time. 
 
-**Travel planning and purchase**   
-Information collected when you complete your traveller profile is used to confirm and process your travel reservation. In addition, information collected from you when you purchase travel is used to bill your credit card and deliver your travel itinerary, either electronically or through the mail. 
+·                     The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from this site, you will not be able to access portions of our site. 
 
-**Travel Alerts notification**   
-In the event your travel plans are disrupted because of mechanical, weather, or carrier business conditions, Expedia may send you an email notification to inform you of these conditions and help you make alternative travel arrangements. 
+**Cookies and other technologies**  
 
-**E-mail notifications**   
-If you chose to receive communications from Expedia.com.au about special promotions when registering as an Expedia.com.au member, we may use your e-mail address to send you communications about surveys, contests, sweepstakes, promotions, flight specials, or other travel opportunities on Expedia.com.au and its marketing partners. We may use your e-mail address or telephone number to contact you about changes to your purchased travel itinerary. 
 
-We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by reviewing your purchasing and browsing behaviour to indentify and present e-mail messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our Web site and save this to your itinerary, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the e-mail, you may receive an email about New York hotel offers. We believe these e-mail messages will provide you with useful information about travel-related special offers available through our sites. Please note that you will have the opportunity to choose not to receive these e-mail messages in any such email we send. 
+Cookies are small data text files and can be stored on your computer’s hard drive (if your Web browser permits). This website uses cookies for the following general purposes: 
 
-**Responses to your questions or suggestions**   
-We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to Expedia.com.au, or accessing your account. 
+·                     To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Sign me in automatically next time." Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information. 
 
-**Improving the quality of your visit to our site**   
-We collect information about your computer (not your name, address, email address, or telephone number) through your permanent cookie file for the purpose of assessing the effectiveness of site content and traffic. This data allows us to improve the quality of your visit by streamlining your ability to navigate the site and develop featured programmes and content that will be of interest to our members and site visitors. 
+·                     To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See  Display of Advertising/Your Choices for more information about our online advertising practices and your choices. 
 
-**Sharing your information**  
-Expedia.com.au does not sell or rent your PII to anyone. 
+·                     To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon). 
 
-**Service providers**   
-We only provide information about travel either reserved or purchased on Expedia.com.au to third parties that provide services or functions on behalf of Expedia. Our service providers need information about your traveller profile, as well as your credit card information, to process and confirm your travel reservation. These service providers will disclose information about your traveller profile to hotel, airline, and/or car hire suppliers whose products you have purchased. Like any other travel agent, this information must be shared with our travel suppliers to confirm your reservation and travel preferences. Although Expedia facilitates purchases travel products from hotel, airline, and car hire suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on Expedia.com.au. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
+  
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites.   
+In addition to the above cookies, we use Local Shared Objects, also referred to as “flash cookies,” on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click here: [ http://kb2.adobe.com/cps/526/52697ee8.html.](http://kb2.adobe.com/cps/526/52697ee8.html) This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings.   
+If you have any questions about our use of cookies or other technologies, please email us at the email address below. 
 
-Expedia will occasionally share aggregated information with our service providers whose products or services are offered through Expedia.com.au. This information does not contain any PII and is used to develop featured programmes and content that will be of interest to our members and site visitors. 
+**Display of tailored advertising/Your choices**
 
-In the event that you make a new, or update an existing, travel reservation by calling our call centre number, your information may be accessed by a third-party service provider, as necessary, to respond to your request for customer service. 
+Data collected by business partners and ad networks to serve you with relevant advertising. The advertisements you see on this website are served by us or by our service providers. We also allow third parties to collect information about your online activities through  cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (2) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our site, nor do we share with them any personal information about you. 
 
-Expedia may contract a reputable third-party to facilitate the distribution of survey, promotion, or sweepstake programmes. Upon completion of these projects, all information is returned to Expedia. 
+Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [ here](http://www.networkadvertising.org/).   
+Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, we participate in cookie-based exchanges where anonymous information is collected about your browsing behavior through  cookies or other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [ here](http://www.bluekai.com/consumers.html) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs. 
 
-**Our legal obligations**
+**How we protect your information**  
+We want you to feel confident about using this website to make travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information we collect about you. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
 
-Expedia may be required by law to disclose information you have provided in obtaining travel products or services in the good-faith belief that such action is necessary (a) to conform to the edicts of the law or comply with legal process served on Expedia or the site; (b) where Expedia  has reason to suspect that unlawful activity has been, is being or may be engaged in, as part of its investigation of the matter or in [reporting](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/s18n.html#report) its concerns to relevant persons or authorities in relation to the property of Expedia, and (c) to act under exigent circumstances to protect the personal safety of users of Expedia, the site or the public. 
+**External links**  
+If any part of this website links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
 
-Under U.S. Law, U.S. Customs and Border Protection (CBP) will receive some of your travel and reservation information, known as Passenger Name Record or PNR data, about passengers flying between the European Union and the U.S.A.
+**Transborder dataflows**  
+If you are visiting our website from Australia or from any other country outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States (where our servers are located and our central database is operated) or another country where those third parties with whom we share it as described in this Policy are located. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services and providing information to us, you consent to your information being transferred to our facilities and the facilities of those third parties with whom we share it as described in this Policy. 
 
-CBP has undertaken that it uses this PNR data for the purposes of preventing and combating terrorism and other transnational serious crimes. The PNR may include information provided during the booking process or held by airlines or travel agents. The information will be retained for at least three years and six months and may be shared with other authorities. For further information about these arrangements, including measures to safeguard your PII, see: <http://www.dhs.gov/interweb/assetlibrary/CBP-DHS_PNRUndertakings5-25-04.pdf>
+**Changes to this Privacy Policy**  
+We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website. 
 
-We may also disclose your PII to various other law enforcement agencies and governments around the world for security, customs and immigration purposes.
+**How you can contact us **  
+If you have questions about this Privacy Policy (or your travel planning or purchases), please email us using our [customer service and feedback form](mailto:help@support.expedia.com.au).   
 
-**Other Web sites**   
-There are several places throughout Expedia.com.au that may link you to other Web sites that do not operate under Expedia.com.au information privacy practices. When you click through to these Web sites, Expedia information privacy practices no longer apply. We recommend that you examine the privacy statements for all third party Web sites to understand their procedures for collecting, using, and disclosing your information. 
 
-**Control over and access to your information**  
-Expedia believes that members and site visitors should have control over the collection and use of their PII. You have access to your information in the following areas of Expedia.com.au: 
+This Privacy Policy is effective as of July 15, 2010. 
 
-**My Account**   
-The  [ My Account ](https://web.archive.org/pub/agent.dll?qscr=info) page on Expedia allows members to view and change their account settings. The email settings option lets you change your email address and subscribe or unsubscribe to the special promotional notification services. You can also change your password and elect to have an automatic password sign-in when logging on to Expedia.com.au. You can add new travellers and delete existing travellers from your member profile; update or correct names, phone numbers, passport information, and emergency contacts for travellers associated with your profile; and update your travel preferences.  
-
-
-You can also close your Expedia.com.au account by selecting the  [ Account Closure](https://web.archive.org/pub/agent.dll?qscr=acce) option. Once you close an account, you will not be able to sign in or access any information associated with the account, but you can open a new account at any time. We will send you an e-mail confirming your account closure to the e-mail address contained in your member profile. 
-
-**My Itineraries**   
-The  [ My Itineraries](https://web.archive.org/pub/agent.dll?qscr=litn) page on Expedia.com.au allows members to view, update, or delete their saved itineraries. 
-
-**Communications from Expedia.com.au**  
-Members will receive communications from Expedia.com.au when they: 
-
-  * Sign-up to become an Expedia.com.au member 
-  * Request to close an account 
-  * Purchase travel 
-  * Elect to receive Fare special promotional marketing communications 
-  * Win a contest or sweepstake 
-  * Contact Expedia.com.au with questions/suggestions 
-
-
-
-**Sign-up to become a Expedia.com.au member**   
-When you sign up as a new Expedia.com.au member, you will receive a "Welcome to Expedia.com.au" e-mail. This e-mail contains your member ID and describes the benefits of using Expedia.com.au for planning and purchasing your travel needs. 
-
-**Request to close an account**   
-When you complete an Account Closure request, we will send you an "Account Closure Confirmation" e-mail. 
-
-**Purchase Travel**   
-Each time you purchase travel through Expedia.com.au, or change or cancel a confirmed travel reservation, you will receive confirmation of your travel itinerary via e-mail. In the event that your travel plans are disrupted because of mechanical, weather, or carrier business conditions, Expedia may contact you to inform you of these disruptions and help you make alternative travel arrangements. 
-
-**Elect to receive special promotional marketing communications**   
-As a registered Expedia.com.au member, you will occasionally receive e-mails notifying you of special promotions or other travel news, if you sign up for this service when you register. Special promotional e-mails are intended to inform you of new or unique travel opportunities or special deals that are available on Expedia.com.au.If you have purchased travel services, you may also receive an email that provides information about your destination, such as weather conditions, current events, or items of interest.   
-
-
-You can discontinue your subscription to Expedia.com.au's promotional email services at any time on the  [My Profile](https://web.archive.org/pub/agent.dll?qscr=info) page under the heading "Email settings." You can also unsubscribe to special promotional emails at any time by replying to the email with the word "unsubscribe" in the subject line. 
-
-**Request customer support or submit questions/suggestions**   
-When you request assistance with viewing your itinerary, logging on to the Expedia.com.au site, or accessing your account, we will respond to you via e-mail or telephone. 
-
-**Protecting your information**  
-We want our members and site visitors to feel confident about using Expedia.com.au to plan and purchase their travel, so we are committed to protecting the information we collect. Expedia has implemented a security programme to keep information that is stored in our systems protected from unauthorized access. Currently, Expedia only stores the information you provide when registering to become an Expedia.com.au member, create a travel profile, purchase travel, or use selected travel tools. 
-
-Our systems are configured with data encryption, or scrambling, technologies, and industry-standard firewalls. When you send personal information to Expedia over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. 
-
-Expedia has also obtained a digital certificate from RSA Data Security, Inc., a top maker of hardware and software used to protect and manage computer network access. To view this site certificate on each secured page, click on the image of the closed lock or the solid key on the bottom bar of your browser window. A small frame displaying site security information will pop up. 
-
-  * For Internet Explorer users: Click on the word "Subject" to verify that you are on the Web site www.Expedia.com.au. Click on "Issuer" to verify the site certification authority. 
-  * For Netscape Communicator users: Click on "View Certificate" to verify that you are on the Web site www.Expedia.com.au and to verify the site certification authority. 
-
-
-
-**Changes to the Expedia.com.au Privacy Statement**  
-Expedia reserves the right to modify or amend this Privacy Statement at any time and for any reason. If there are material changes to this statement or in how Expedia.com.au will use your PII, Expedia.com.au will prominently display such changes prior to implementing the change. 
-
-Regardless of later updates, we will abide by the information privacy practices described in this Privacy Statement at the time you provided us with your information. 
-
-If you have questions about our Privacy Statement, please  [e-mail us](mailto:travel@support.expedia.com.au). 
-
-**Contacting Expedia.com.au**  
-We want to make sure you have control over your online travel experience as an Expedia.com.au customer, from planning and purchasing your travel to protecting your personal information. 
-
-If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected, used or disclosed please call 1300 EXPEDIA (1300 397 3342) or +61 3 9639 5154 for calls outside Australia or from outside Australia on +61 1300 EXPEDIA (1300 397 3342) or +61 3 9639 5154 for calls outside Australia (usual costs apply) from 9am - 7pm Monday to Friday, and 9am - 1pm on Saturdays to speak to a representative personally.
-
-Expedia customer service agents are ready to help with your Expedia travel concerns. When you need help, use our [feedback form](https://web.archive.org/pub/Agent.dll?qscr=fbak&itid=0). All email receives a response within 24 hours. You may also call 1300 EXPEDIA (1300 397 3342) or +61 3 9639 5154 for calls outside Australia or from outside Australia on +61 1300 EXPEDIA (1300 397 3342) or +61 3 9639 5154 for calls outside Australia (usual costs apply) from 9am - 7pm Monday to Friday, and 9am - 1pm on Saturdays to speak to a representative personally. Agents will address any questions or concerns you may have about your Expedia.com.au travel planning or purchases. We will do our best to respond to your request for assistance or other questions about Expedia.com.au within 24 hours.
-
-In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary. 
-
-This Privacy Statement was updated and posted on Expedia.com.au on 20 September 2009. 
+Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA 
