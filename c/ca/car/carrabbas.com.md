@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612081447id_/http%3A//www.carrabbas.com/Carrabbas-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214041202id_/http%3A//www.carrabbas.com/Carrabbas-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Carrabba's Italian Grill - Privacy Policy
 
@@ -24,4 +24,4 @@ This Privacy Policy is effective as of August 18, 2004\. Carrabba's Italian Gril
 
 We have taken every measure to ensure that the transactions you make on our website are safe. Your credit card information is sent across the Internet via a secure server employing Secure Socket Layer technology (SSL). SSL software encrypts ("scrambles") your personal information so that it cannot be read by another party. SSL is the Internet standard for secure commerce transactions. Also, we authorize every credit card number in real-time to verify that it is valid for use. 
 
-Still unsure about making an on-line purchase? Just call 1-800-354-1416 (9am-8pm EST Mon.-Fri.) and a friendly Carrabba's Italian Grill representative will take your order by phone. 
+Still unsure about making an on-line purchase? Just call 1-800-354-1416 (9am-5pm EST Mon.-Fri.) and a friendly Carrabba's Italian Grill representative will take your order by phone. 
