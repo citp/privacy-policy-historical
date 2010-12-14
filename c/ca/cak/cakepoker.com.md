@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601230211id_/http%3A//cakepoker.com/Help/Integrity/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214051454id_/http%3A//cakepoker.com/Help/Integrity/Privacy.aspx) for the most accurate reproduction.*
 
 # Cake Poker Information and Privacy Protection Policy
 
@@ -16,7 +16,7 @@ Players will need to provide deposit specific information when making a deposit 
 
 ### Confidentiality of Information
 
-Cake Poker undertakes substantial efforts to ensure the confidentiality of the information it has collected about individual players and will not knowingly allow access to this information to anyone outside of Cake Poker, other than to the player himself or as described in this Privacy Policy. In order to protect the information, Cake Poker has ensured from a technological standpoint that its server, database, backup, firewall and encryption technologies all exceed industry standards. All of the employees working with Cake Poker are required to comply with the terms of our Privacy Policy which outlines that employees are obligated to keep player information strictly confidential and this obligation continues when an employee has left our company. As a player, you should ensure that your Cake Poker account password remains confidential and we recommend that you take appropriate steps to ensure others are not able to access your account information. 
+Cake Poker undertakes substantial efforts to ensure the confidentiality of the information it has collected about individual players and will not knowingly allow access to this information to anyone outside of Cake Poker, other than to the player himself or as described in this Privacy Policy. As a player, you should ensure that your Cake Poker account password remains confidential and we recommend that you take appropriate steps to ensure others are not able to access your account information. 
 
 ### Limits of Confidentiality
 
@@ -52,8 +52,7 @@ In the case of any conflicting presentation between this Privacy Policy and the 
 
 Cake Gaming N.V.,  
 Van Engelenweg 23  
-Curacao,   
-Netherlands Antilles
+Curacao 
 
 Credit card transactions are processed by   
 Eprifim Capital Ltd.  
