@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606084213id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlandrevenue.gov.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214155157id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
 # HM Revenue & Customs: Privacy Policy
 
@@ -51,10 +51,10 @@ The [Internet Advertising Bureau](http://www.iab.net/iab_products_and_industry_s
 
 We use JavaScript page tags to aggregate and analyse customer usage patterns on our website. This provides us with data on your site usage and behaviour. We use this information to make changes to the layout of the website and to the information in it. This process does not collect any personal or identifiable information about users. You can disable JavaScript on your computer however, disabling JavaScript may affect your ability to access some of our online tools and services.
 
-Sometimes we tag pages on the site when we are promoting various campaigns. These tags are provided by our advertising management partners, DoubleClick and Atlas. These tags enable DoubleClick and Atlas to recognise a unique cookie on your browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with DoubleClick and Atlas. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. There is more information about DoubleClick and Atlas - including information about how to opt out of these technologies - on their websites.
+Sometimes we tag pages on sites we use to promote various campaigns. These tags are provided by our advertising management partner, DoubleClick. These tags enable DoubleClick to recognise a unique cookie on your browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. There is more information about DoubleClick - including information about how to opt out of these technologies - on their website.  
+
 
   * Privacy information about [DoubleClick](http://www.doubleclick.com/privacy/index.aspx) (this link will open a new window)
-  * Privacy information about [Atlas](http://www.atlassolutions.com/privacy.aspx) (this link will open a new window)
 
 
 
