@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crush3r.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525103249id_/http%3A//crush3r.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crush3r.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214063112id_/http%3A//crush3r.com/welcome/privacy) for the most accurate reproduction.*
 
 # Crusher Privacy Policy
 
