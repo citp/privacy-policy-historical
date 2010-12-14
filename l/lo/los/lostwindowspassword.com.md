@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostwindowspassword.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209045637id_/http%3A//lostwindowspassword.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostwindowspassword.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113718id_/http%3A//lostwindowspassword.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Lost Windows Password | Windows Password Reset
 
