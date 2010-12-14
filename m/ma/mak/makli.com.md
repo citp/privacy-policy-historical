@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makli.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601064701id_/http%3A//www.makli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makli.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214092315id_/http%3A//www.makli.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | News around the Globe
+# Privacy Policy
 
 ## Log Files
 
