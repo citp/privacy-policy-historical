@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytweets.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102125122id_/https%3A//easytweets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytweets.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214162413id_/https%3A//easytweets.com/privacy) for the most accurate reproduction.*
 
 # Easy Tweets - It's About Conversations
 
