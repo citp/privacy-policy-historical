@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekpadshow.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610000002id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpadshow.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214074733id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Comedy.com
 
