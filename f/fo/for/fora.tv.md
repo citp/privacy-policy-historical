@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614002244id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214094754id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
 
 # FORA.tv - Privacy Policy
 
-**Effective _March 17, 2010_**
+**Updated _August 27, 2010_**
 
 **FORA.tv Privacy Policy**
 
@@ -43,7 +43,7 @@ _Business Transfers_. FORA.tv may sell, transfer or otherwise share some or all 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83 permits customers of FORA.tv who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  If you are a California resident and have provided FORA.tv with personal information within the last year, you may make such a request by emailing us at the following address [INSERT EMAIL]. 
+California Civil Code Section 1798.83 permits customers of FORA.tv who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  If you are a California resident and have provided FORA.tv with personal information within the last year, you may make such a request by emailing us at the following address privacy@fora.tv. 
 
 Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the e-mail address above.
 
@@ -62,4 +62,4 @@ Our Site contains links to other websites. If you choose to visit an advertiser 
 This Site is not directed to children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@fora.tv. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
 **Contacting Us**  
-If you have any questions about this Privacy Policy, please contact us at Privacy@fora.tv or at: FORA.tv Privacy Policy, 1550 Bryant St, Ste 700, San Francisco, CA 94103 
+If you have any questions about this Privacy Policy, please contact us at Privacy@fora.tv or at: FORA.tv Privacy Policy, 1550 Bryant St, Ste 305, San Francisco, CA 94103 
