@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digibizpro.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504121811id_/http%3A//www.digibizpro.com/iprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digibizpro.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214124955id_/http%3A//www.digibizpro.com/privacy.php) for the most accurate reproduction.*
 
-# DigiBizPro.com the world's first website setup of it's kind.
+# DigibizPro 2.0 Online Business Creator
+
+CHAMP ENTERTAINMENT, INC. PRIVACY POLICY
 
 Champ Entertainment, Inc. ("CHAMP") is committed to respecting your privacy.  Please read the following policy to understand how your personal information will be treated.  This policy may change from time to time so please check back periodically.  This policy will let you know the following:
 
@@ -68,4 +70,4 @@ Third party Internet sites and services accessible through CHAMP have separate p
 
 **9.  Other Legal Notices.**
 
-****Any dispute over privacy is subject to this privacy policy, our _[Terms of Service](https://web.archive.org/web/20100504121811id_/http%3A//www.digibizpro.com/iterms.php)_ , and any other agreements you have entered into with CHAMP concerning the services offered through digibizpro.com including limitations on damages and application of the law of the State of New York. If you have any concern about your privacy in connection with this policy, please send us a thorough description to _support@digibizpro.com_ and we will try to resolve it.  We may post a revised privacy policy on our site.  Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use.  You should check our Web site frequently to see recent changes.
+****Any dispute over privacy is subject to this privacy policy, our _[Terms of Service](https://web.archive.org/web/20101214124955id_/http%3A//www.digibizpro.com/iterms.php)_ , and any other agreements you have entered into with CHAMP concerning the services offered through digibizpro.com including limitations on damages and application of the law of the State of New York. If you have any concern about your privacy in connection with this policy, please send us a thorough description to _support@digibizpro.com_ and we will try to resolve it.  We may post a revised privacy policy on our site.  Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use.  You should check our Web site frequently to see recent changes.
