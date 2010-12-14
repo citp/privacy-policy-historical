@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cincinnatibell.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004939id_/http%3A//www.cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincinnatibell.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214063515id_/http%3A//www.cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.*
 
-# Cincinnati Bell Privacy Policy
+# Cincinnati Bell Privacy Policy Cincinnati
 
 Cincinnati Bell, Inc. and its subsidiary and affiliated entities (collectively, "Cincinnati Bell") knows how important personal privacy is to our customers. Cincinnati Bell maintains strict privacy policies and uses industry-accepted technologies to safeguard such information. 
 
@@ -50,7 +50,7 @@ This information is data about usage and Services operation that is not associat
 
 ### Use of Cookies and Web Beacons
 
-A cookie is a small text file created by our web site and stored on your computer that assists us in providing customized services. The use of cookies is a standard in the industry and you'll find they're used at most web sites. We use cookies for login verification, session management, load balancing and personalization to enable your user experience. We never use cookies to retrieve non-public personally identifiable information from your computer that was not already voluntarily provided to us by you. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case, you may not be able to use certain features on our site, including the "My Account" self service functionality. [Click here](https://web.archive.org/web/20100622004939id_/http://www.cincinnatibell.com/customer_support/policies/privacy_policy/cookie.asp) to learn how to enable or disable cookies on your computer. 
+A cookie is a small text file created by our web site and stored on your computer that assists us in providing customized services. The use of cookies is a standard in the industry and you'll find they're used at most web sites. We use cookies for login verification, session management, load balancing and personalization to enable your user experience. We never use cookies to retrieve non-public personally identifiable information from your computer that was not already voluntarily provided to us by you. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case, you may not be able to use certain features on our site, including the "My Account" self service functionality. [Click here](https://web.archive.org/web/20101214063515id_/http://cincinnatibell.com/customer_support/policies/privacy_policy/cookie.asp) to learn how to enable or disable cookies on your computer. 
 
   
 
