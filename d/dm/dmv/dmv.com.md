@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dmv.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227093243id_/http%3A//www.dmv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmv.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214121303id_/http%3A//www.dmv.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | DOL | WA
+# Privacy Policy | MVC | NJ
 
 DMV.com values your right to privacy. This policy is effective as of December 9th, 2008 and governs the collection of personal information from [http://www.dmv.com](http://www.dmv.com/) and all its subdomains as of this date. DMV.com IS A PRIVATELY OWNED WEBSITE THAT IS NOT AFFILIATED WITH ANY UNITED STATES OF AMERICA FEDERAL, STATE OR OTHER GOVERNMENT AGENCY OR DEPARTMENT. As such, we do not have access too, collect or attempt to identify you from any information you may have logged at any government agency or department.
 
 This policy explains the types of information DMV.com collects from its visitors/users and how that information is used. Please read this policy carefully.
 
-## [[edit](https://web.archive.org/node/1381/edit/699:3611 "Edit section: Information Collection")] Information Collection
+## Information Collection
 
 ### 1\. Unregistered users
 
@@ -20,13 +20,13 @@ Registered users on DMV.com are able to actively add and edit articles on our we
 
 WHEN YOU REGISTER, WE COLLECT A LIMITED AMOUNT OF PERSONAL INFORMATION THAT MAY INCLUDE THE FOLLOWING: YOUR NAME, EMAIL ADDRESS, USER NAME, PASSWORD, WHETHER YOU HAVE AUTO INSURANCE, AND THE STATE IN WHICH YOU LIVE. We only collect the information that you manually enter into our forms. We may store all or some of that information in a cookie file on your hard drive. This way we can recognize you when you return to the website so you can avoid re-entering your login information. We do not provide any third-parties with your personal information that you enter in our registration form. Your username may be displayed on the website when you add or edit content using our wiki feature, however, we do not require but in fact suggest that your username contain no personal information which may identify you to other users of this website. We will never disseminate or display your email address. If you fill out a form for one of our advertising partners we may pass on information including your name, state or other information you have entered into the form to our partners. We have protected the site with an SSL certificate in an effort to protect the privacy of this information on our site and when transmitted to our partners. We cannot guarantee the complete privacy of this information and you should review the privacy policies of our partners in order to ensure you are satisfied with their treatment of your private information.
 
-## [[edit](https://web.archive.org/node/1381/edit/4349:1232 "Edit section: Usage of Collected Information")] Usage of Collected Information
+## Usage of Collected Information
 
 We use the information we collect from you in order to improve our website. The information for non-registered users may be used so we can improve the structure, look-and-feel, articles and other aspects of the physical website. For registered users we may also use your information so that you are automatically recognized when you use our site. This will allow you to come to the site and actively add and edit content without being forced to sign-in at every visit. We may use your personal information to periodically contact you with news about DMV.com or the DMV.com community. Also, we may contact you periodically regarding your edits and additions to our website. We do not sent regular emails or newsletters.
 
 We may also use certain personal information in order to manage the advertising displayed on our website. This benefits both of us because advertising helps us to us continue to operate DMV.com and because you see advertising that may be more appropriate or interesting to you. We may also pass on a limited amount of your personal information to our advertising partners if you choose to click on their advertisements but we will not include any information that will allow you to be personally identified.
 
-## [[edit](https://web.archive.org/node/1381/edit/5624:2208 "Edit section: Disclosure of Personal Information")] Disclosure of Personal Information
+## Disclosure of Personal Information
 
 DMV.com does not sell, rent or disseminate in any way personal information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information and provide that information in aggregate to parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally.
 
@@ -36,18 +36,18 @@ As a private for profit website not affiliated with any government agencies, DMV
 
 Your profile on DMV.com may be publicly viewable via your username. DMV.com will not share your email address with any other members nor display it any public manner. If you choose to participate in our member-to-member communications programs, you may be contacted by other DMV.com members, using DMV.com as an intermediary. All DMV.com members will have the option to turn off the member-to-member communication features at any time.
 
-## [[edit](https://web.archive.org/node/1381/edit/7889:141 "Edit section: Review, Change, Delete Your Personal Information")] Review, Change, Delete Your Personal Information
+## Review, Change, Delete Your Personal Information
 
 You can review, change or delete your personal information at <http://www.dmv.com/user>. Be aware that deleted accounts cannot be recovered.
 
-## [[edit](https://web.archive.org/node/1381/edit/8089:465 "Edit section: Steps we take to protect your personal information")] Steps we take to protect your personal information
+## Steps we take to protect your personal information
 
 DMV.com has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes such as idle session termination to protect against unauthorized access to your personal information. Be aware that we do not guarantee the security of your personal information.
 
-## [[edit](https://web.archive.org/node/1381/edit/8583:272 "Edit section: Privacy for Children")] Privacy for Children
+## Privacy for Children
 
 This website is a general audience site, and we do not collect information about children. None of the content on this site is direct at children under the age of 13. Children below the age of 13 are expressly forbidden to register on DMV.com without parental consent.
 
-## [[edit](https://web.archive.org/node/1381/edit/8894:136 "Edit section: Changes to this Privacy Policy")] Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 We reserve the right to change this policy at any time. If you have further questions about this policy, <http://www.dmv.com/contact>.
