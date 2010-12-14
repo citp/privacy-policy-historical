@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upillar.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111062831id_/http%3A//www.upillar.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upillar.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215003017id_/http%3A//www.upillar.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# upillar.com | Free Online Classifieds
+# upillar.com | Free Online Classifieds | Privacy Policy
 
 [UPILLAR.COM](http://upillar.com/) (LEXON INDUSTRIES, INC.)
 
@@ -136,7 +136,7 @@ If you have questions regarding our Website Privacy Statement, its implementatio
 
 Attention: Privacy Statement Personal
 
-1071 East 100 South, Suite C-1
+912 W 1600 S. Suite B104
 
 St. George, Utah 84770   
 
