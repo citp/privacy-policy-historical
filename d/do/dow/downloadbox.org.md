@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235530id_/http%3A//downloadbox.org/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214035650id_/http%3A//downloadbox.org/Privacy%2520Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Full Rapidshare Megaupload or Torrent Downloads
+# DownloadBox - Downloads Files
 
 **Privacy Policy**
 
