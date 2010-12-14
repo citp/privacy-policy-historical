@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102194627id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214185848id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# 
+# Spain car hire with All Inclusive Prices, Spain car hire with 100% Peace of Mind, Car hire in Spain with No Hidden Costs!
 
-|   
-|  |  Privacy Policy   
+New Web
+
+Privacy Policy   
 ---  
   
 DoYouSpain.com is owned and operated by Gesmarket. 
@@ -22,4 +23,18 @@ B12630620
 C/ Barrachina 15 Bis   
 12006 Castellón   
 Spain   
+GENERAL INFORMATION IN COMPLIANCE WITH THE LAW 34/2002:   
+Registration data: Tomo: 1191, Libro: 754, Folio: 192, Sección: 8, Hoja: CS 21393 Inscripción: 1 / Fecha: 05/01/2004 Año Pre.: 2003 
+
+**DoYouSpain Internet Holidays S.L.**   
+B12693925   
+CV-m.1311-CS   
+C/ Barrachina 15 Bis   
+12006 Castellón   
+Spain   
+GENERAL INFORMATION IN COMPLIANCE WITH THE LAW 34/2002:   
+Registration data: Tomo: 1299, Libro: 862, Folio: 96, Sección: 8, Hoja: CS 24703, Inscripción: 2 / Fecha: 9/12/2009 
+
+Telephone:    
+Fax:    
 
