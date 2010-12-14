@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616202011id_/http%3A//www.mbsdirect.net/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215004816id_/http%3A//www.mbsdirect.net/disclaimer.php) for the most accurate reproduction.*
 
 # MBS Direct | Disclaimer and Privacy Policy
 
-This privacy policy governs the information collection and use practices of MBS Direct, LLC (MBS) websites, including: mbsDirect.net, onlinebuyback.mbsbooks.com, STUDYtactics.com, and Digitaltextbooks.com. The policy below explains how MBS collects and uses your information, and when we share that information with third parties. By providing information to us, you agree with the terms and conditions of this privacy policy.
+This privacy policy governs the information collection and use practices of MBS Direct, LLC (MBS) websites, including: mbsDirect.net, onlinebuyback.mbsbooks.com, STUDYtactics.com, Xplana.com, and Digitaltextbooks.com. The policy below explains how MBS collects and uses your information, and when we share that information with third parties. By providing information to us, you agree with the terms and conditions of this privacy policy.
 
   1. Definitions  
 
     1. We, our, and us means MBS Direct, LLC (MBS) and the websites through which it conducts business.
-    2. You and your means any individual who visits any of the following websites: mbsDirect.net, onlinebuyback.mbsbooks.com, STUDYtactics.com, and Digitaltextbooks.com, and submits Personal Information.
+    2. You and your means any individual who visits any of the following websites: mbsDirect.net, onlinebuyback.mbsbooks.com, STUDYtactics.com, and Digitaltextbooks.com, Xplana.com, and submits Personal Information.
     3. Personal Information means information about you that we collect. This may include your name, mailing address, city, state, zip code, email address, orders, order status, and payment amount. Personal information does not include aggregate information about our customers in which your identity can not be discerned.
     4. Subcontractor means a third party that is not owned or controlled by MBS, but that has been retained to provide certain services on our behalf. Subcontractors do not have the right to use the Personal Information that we collect beyond what is necessary to assist us. Subcontractors are contractually obligated to maintain the confidentiality and security of the Personal Information that we collect and are restricted from using such information in any way not expressly authorized by MBS.
     5. Opt-out means a choice that you can make to prevent the sharing or use of some, or all, of your Personal Information. Your ability to opt-out is explained in greater detail below.
