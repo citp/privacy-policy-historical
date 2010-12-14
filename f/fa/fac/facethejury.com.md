@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facethejury.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327222307id_/http%3A//www.facethejury.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facethejury.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214223335id_/http%3A//www.facethejury.com/privacy.asp) for the most accurate reproduction.*
 
 # FaceTheJury.com - Privacy Policy
 
