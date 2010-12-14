@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505225311id_/http%3A//www.cheapstuff.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214181837id_/http%3A//cheapstuff.com/Privacy) for the most accurate reproduction.*
 
 # CheapStuff - Quality Goods. Cheap Prices.
 
