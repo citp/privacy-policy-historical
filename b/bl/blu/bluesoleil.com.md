@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bluesoleil.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630113747id_/http%3A//www.bluesoleil.com/support/Intro.aspx%3FTID%3D81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesoleil.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215094716id_/http%3A//www.bluesoleil.com/company/Default.aspx%3Ftopic%3DPrivac_Policy) for the most accurate reproduction.*
 
 # BlueSoleil - Support
 
 Privacy Policy
 
-Bluesoleil.com is committed to protecting your personal information. We represent and warrant that we will keep your information in strictly confidential and from the unauthorized access. 
+Bluesoleil.com is committed to protecting your personal information. We represent and warrant that we will keep your information strictly confidential and from the unauthorized access. 
 
 **Collection of Information**
 
@@ -12,7 +12,7 @@ You will provide us your personal information, such as name, email address, post
 
 **Use of Information**
 
-We will only use your information provided to us in the process of your order and after-sales services, and for assessment and analysis (e.g. market, customer and product analysis) to enable us to review and improve the services.
+We will only use your information provided to us in the process of your order and after-sales services, and for assessment and analysis (e.g. market, customer and product analysis) to enable us to review and improve our services.
 
 **Disclosure**
 
@@ -20,4 +20,4 @@ We will not disclose your information to a third party without your permission, 
 
 **Security**
 
-We will take all reasonable steps to protect your personal information provided to us. Access to the personal information about you is limited only to the employees who are reasonably regarded to need to know for the purpose described above.We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of the information from you.
+We will take all reasonable steps to protect your personal information provided to us. Access your personal information is limited only to employees who are reasonably regarded on need to know for the purpose described above.We maintain physical, electronic and procedural safeguards in connection with the collecting, storaging and disclosing information regarding you.
