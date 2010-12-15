@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hiphopblog.com privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616155039id_/http%3A//www.hiphopblog.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hiphopblog.com privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215134155id_/http%3A//www.hiphopblog.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 		  <base href="http://www.hiphopblog.com/component/content/article/85-privacy-policy.html">
@@ -152,6 +152,7 @@ window.addEvent('domready', function() {
 <script type="text/javascript" src="/templates/rt_hyperion_j15/js/tip.js"></script>
 <link href="/templates/rt_hyperion_j15/css/vertical.css" rel="stylesheet" type="text/css">
 <link href="/templates/rt_hyperion_j15/css/tip.css" rel="stylesheet" type="text/css">
+<link href="/templates/rt_hyperion_j15/css/hiphop100.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/templates/rt_hyperion_j15/js/jquery-1.2.6.min.js"></script>
 
 <script language="javascript" type="text/javascript">
@@ -457,6 +458,55 @@ function hidePlug() {
 <script type="text/javascript" src="/plugins/system/rokbox/themes/light/rokbox-config.js"></script>
 </head>
 	<body id="ff-helvetica" class="style11 f-default">
+	<div style="height:0px;">
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	<script>
+	function fbloginonload(){
+	
+	FB.init({appId: 'dd6dbc0af47fa56209845e5fe196cd18', status: true, cookie: true, xfbml: true});
+	FB.Event.subscribe('auth.sessionChange', function(response){
+		if (response.session){
+		  // A user has logged in, and a new cookie has been saved
+		}else{
+		  // The user has logged out, and the cookie has been cleared
+		  //alert("Facebook has been logged out");
+		  document.location="index.php?option=com_user&task=logout";
+		}
+	});
+	}
+	/*window.fbAsyncInit = function() {
+		FB.init({appId: '3d605e3e89e82926911bd5f886249fd9', status: true, cookie: true, xfbml: true});
+	};
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol +'//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+	}()); */
+	function FBlogout(){
+		//FB.init({appId: '3d605e3e89e82926911bd5f886249fd9', status: true, cookie: true, xfbml: true});
+		FB.logout(function(response){
+			Log.info('FB.logout callback', response);
+		});
+		//document.location="index.php?option=com_user&task=logout";
+	}
+	function FBLogin() {
+		//FB.init({appId: '3d605e3e89e82926911bd5f886249fd9', status: true, cookie: true, xfbml: true});
+		FB.login(
+			function(response) {
+				///Log.info('FB.login callback', response);
+				if (response.session) {
+		  			//Log.info('User is logged in');
+					window.location="http://www.hiphopblog.com/component/user/?status";
+				}
+				else{
+					//Log.info('User is logged out');
+				}
+			}, {perms:'email,publish_stream,user_birthday'}
+		);
+	};
+	</script>
+	</div>
 	<!-- Start of StatCounter Code -->
 	<script type="text/javascript">
 	var sc_project=4794543; 
@@ -488,21 +538,7 @@ function hidePlug() {
 	<!--Google Analytics End-->
 	
 				<!--Google Adsense Start-->
-		<div class="google_top_adsense" align="center">
-				<div class="google_adsense">
-					<script type="text/javascript"><!--
-					google_ad_client = "pub-1473969244809476";
-					/* HHB Header */
-					google_ad_slot = "3453065717";
-					google_ad_width = 728;
-					google_ad_height = 90;
-					//-->
-					</script>
-					<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-					</script>
-			</div>
-		</div>
-		<!--Google Adsense End-->
+				<!--Google Adsense End-->
 				<!-- begin header -->
 		<div id="header">
 			<div class="wrapper"><!---->
@@ -510,6 +546,12 @@ function hidePlug() {
 								<div style="position:absolute; width:670px; padding-top:20px;" align="right">
 					<img src="/templates/rt_hyperion_j15/images/dailyedition/img_morning.gif" border="0">
 				</div>
+				<div style="position:absolute; width:953px; padding-top:25px;" align="right">
+					
+						
+												<input type="image" id="fb-login" onclick="FBLogin();" src="/images/Connect_with_facebook_iphone.png" border="0">
+						
+									</div>
 				<!-- end daily edition panel -->
 				
 				<a href="/" class="nounder"><img src="/templates/rt_hyperion_j15/images/blank.gif" border="0" alt="" id="logo" class="png"></a>
@@ -538,7 +580,7 @@ function hidePlug() {
             <input type="hidden" name="option" value="com_user">
             <input type="hidden" name="task" value="login">
             <input type="hidden" name="return" value="aHR0cDovL3d3dy5oaXBob3BibG9nLmNvbS9jb21wb25lbnQvY29udGVudC9hcnRpY2xlLzg1LXByaXZhY3ktcG9saWN5Lmh0bWw=">
-            <input type="hidden" name="95c00813cc9d789b6b5cee79c7ef740e" value="1">        </form>
+            <input type="hidden" name="dcdf82d51e87208a4fa359ebff9471fd" value="1">        </form>
         </div>
 			</div>
 	
@@ -589,7 +631,7 @@ function hidePlug() {
 					<!--<form action="index.php" method="post">-->
 <form action="http://www.hiphopblog.com/component/search/" method="post">
 	<div class="search">
-		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search hiphopblog..." onblur="if(this.value=='') this.value='search hiphopblog...';" onfocus="if(this.value=='search hiphopblog...') this.value='';">	</div>
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">	</div>
 	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
 </form>		</div>
@@ -600,7 +642,7 @@ function hidePlug() {
 					<!-- begin menu bar -->
 					<div id="horiz-menu" class="moomenu">
 						<div id="horiz-menu2">
-															<ul class="menutop"><li class="item71"><a href="http://www.hiphopblog.com/"><span>Home</span></a></li><li class="item35"><a href="/news-mainmenu-35.html"><span>News</span></a></li><li class="item38"><a href="/gossip-mainmenu-38.html"><span>Gossip</span></a></li><li class="item82"><a href="/video.html#video"><span>Videos</span></a></li><li class="item95"><a href="/mixtapes.html"><span>Mixtapes</span></a></li><li class="item170"><a href="/ublog.html#ublog"><span>YouBlog</span></a></li><li class="item166"><a href="/ucam.html#ucam"><span>LiveCam</span></a></li><li class="item171"><a href="/tour.html#main-content"><span>Tour</span></a></li></ul>													</div>
+															<ul class="menutop"><li class="item71"><a href="http://www.hiphopblog.com/" title=""><span>Home</span></a></li><li class="parent item35"><a href="/news-mainmenu-35.html" title="Daily Celebrity and Industry News" class="topdaddy"><span>News</span></a><ul><li class="item183"><a href="/news-mainmenu-35.html#nav" title=""><span>HHB Published</span></a></li><li class="item184"><a href="/news-mainmenu-35.html?ut=user#nav" title=""><span>User Published</span></a></li></ul></li><li class="parent item38"><a href="/gossip-mainmenu-38.html" title="Daily Celebrity Gossip from the Streets" class="topdaddy"><span>Gossip</span></a><ul><li class="item185"><a href="/gossip-mainmenu-38.html#nav" title=""><span>HHB Published</span></a></li><li class="item186"><a href="/gossip-mainmenu-38.html?ut=user#nav" title=""><span>User Published</span></a></li></ul></li><li class="parent item28"><a href="/features-mainmenu-28.html" title="Feature and Reviews of Artists, Albums, Fashion, Sports and Culture" class="topdaddy"><span>Columns</span></a><ul><li class="item187"><a href="/features-mainmenu-28.html#nav" title=""><span>HHB Published</span></a></li><li class="item188"><a href="/features-mainmenu-28.html?ut=user#nav" title=""><span>User Published</span></a></li></ul></li><li class="parent item82"><a href="/video.html" title="Watch &amp; Share Videos from Thousands of Selections" class="topdaddy"><span>Videos</span></a><ul><li class="item177"><a href="/video.html#video" title=""><span>HHB Published</span></a></li><li class="item178"><a href="/video.html?ut=user#video" title=""><span>User Published</span></a></li></ul></li><li class="item173"><a href="/tracks.html" title="A Catalogue of New and User Published Music Tracks in a Variety of Genres"><span>Music</span></a></li><li class="item95"><a href="/mixtapes.html" title="Catalog of Mixtapes. Create &amp; Download Your Own Unique Mix"><span>Mixtapes</span></a></li><li class="item181"><a href="/hiphop100/12396-top10.html#topten" title="A Profile of the One Hundred Most Influential People in Hip-Hop"><span>100</span></a></li><li class="item170"><a href="/ublog.html" title="Interactive Sharing of Content &amp; Opinions"><span>YouBlog</span></a></li><li class="item176"><a href="/submission.html" title="Publish Articles, Music, and Videos Within the HipHopBlog Network"><span>Publish</span></a></li></ul>													</div>
 					</div>
 					<!-- end menu bar -->
 					
@@ -614,13 +656,6 @@ function hidePlug() {
 				<!-- end featured area -->
 				<!-- begin main content area -->
 				<div id="main-content-bar">
-										<div id="accessibility">
-						<div id="buttons">
-							<a href="http://www.hiphopblog.com/component/content/article/85-privacy-policy.html?fontstyle=f-larger" title="Increase size" class="large"><span class="button">&nbsp;</span></a>
-							<a href="http://www.hiphopblog.com/component/content/article/85-privacy-policy.html?fontstyle=f-default" title="Default size" class="default"><span class="button">&nbsp;</span></a>
-							<a href="http://www.hiphopblog.com/component/content/article/85-privacy-policy.html?fontstyle=f-smaller" title="Decrease size" class="small"><span class="button">&nbsp;</span></a>
-						</div>
-					</div>
 														</div>
 				<div id="main-content">
 					<table class="mainbody" border="0" cellspacing="0" cellpadding="0">
@@ -632,10 +667,9 @@ function hidePlug() {
 																<div class="padding">
 																																													<div id="content-area">
 																					
-											
+											<a id="topten"></a>
 <table class="contentpaneopen">
-  <tbody><tr>
-        <td class="contentheading">      Privacy Policy          </td>
+        <tbody><tr><td class="contentheading">      Privacy Policy          </td>
                             	  </tr></tbody></table>
 <table class="contentpaneopen">
           <tbody><tr>
@@ -669,106 +703,106 @@ function hidePlug() {
  </td>
   </tr>
   </tbody></table>
-<span class="article_separator">&nbsp;</span> 
+<span class="article_separator">&nbsp;</span>  
 																			</div>
 								</div>
 							</td>
 							<!-- end maincolumn -->
 							<!-- begin rightcolumn -->
-															<td class="rightcol">
-									<div class="padding">
-																						<div class="module">
+																							<td class="rightcol">
+										<div class="padding">
+																								<div class="module">
 			<div>
 				<div>
 					<div>
 																		<!--=========== Top Ten Articles Start ==========-->
 	<h3><span>Wire </span>Feed</h3>
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 			<td id="mostrecenttd">
 				<table border="0" cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
 					<td align="left" style="padding-left:41px; padding-top:19px; padding-bottom:20px; background-image: url('/images/button/fresh_topics/panel_top.gif'); background-repeat: no-repeat; background-position: center top;"><div style="position:relative; width:105px;" align="left">
-						<div class="hidden" onmouseover="return unhideTopics('viewintip8116','viewTopics1')" onmouseout="return hideTopics('viewintip8116')" id="viewintip8116" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8116.html?Itemid=82#videostand'" style="z-index:4000;">
-					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8116.html?Itemid=82#videostand'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
+						<div class="hidden" onmouseover="return unhideTopics('viewintip13949','viewTopics1')" onmouseout="return hideTopics('viewintip13949')" id="viewintip13949" onclick="document.location.href='http://www.hiphopblog.com/news-mainmenu-35/13949-a-young-money-new-year.html#main-content'" style="z-index:4000;">
+					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/news-mainmenu-35/13949-a-young-money-new-year.html#main-content'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
 					<table border="0" cellspacing="0" cellpadding="4" width="108" align="center" class="hand">
 					  <tbody><tr>
-						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/494124666.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/494124666.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></td>
+						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><a href="http://www.hiphopblog.com/news-mainmenu-35/13949-a-young-money-new-year.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/drakeandlilwayne90.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></td>
 					  </tr>
 					  <tr>
-						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">B.o.B - [Feat] Haley Williams ...</td>
+						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">Drake &amp; Lil Wayne Host New Yea...</td>
 					  </tr>
 					  <tr>
-						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/videos.gif); background-repeat:no-repeat; height:24px;">
+						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/news.gif); background-repeat:no-repeat; height:24px;">
 							<img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="1" width="1">
 						</td>
 					  </tr>
 					</tbody></table>
-				</div><div onmouseover="return unhideTopics('viewintip8116','viewTopics1')" onmouseout="return hideTopics('viewintip8116')"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/494124666.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/494124666.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></div>
-									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip8115','viewTopics2')" onmouseout="return hideTopics('viewintip8115')" id="viewintip8115" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8115.html?Itemid=82#videostand'" style="z-index:4000;">
-					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8115.html?Itemid=82#videostand'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
+				</div><div onmouseover="return unhideTopics('viewintip13949','viewTopics1')" onmouseout="return hideTopics('viewintip13949')"><a href="http://www.hiphopblog.com/news-mainmenu-35/13949-a-young-money-new-year.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/drakeandlilwayne90.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></div>
+									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip13947','viewTopics2')" onmouseout="return hideTopics('viewintip13947')" id="viewintip13947" onclick="document.location.href='http://www.hiphopblog.com/news-mainmenu-35/13947-rick-ross-may-sign-wale.html#main-content'" style="z-index:4000;">
+					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/news-mainmenu-35/13947-rick-ross-may-sign-wale.html#main-content'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
 					<table border="0" cellspacing="0" cellpadding="4" width="108" align="center" class="hand">
 					  <tbody><tr>
-						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/2066928318.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/2066928318.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></td>
+						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><a href="http://www.hiphopblog.com/news-mainmenu-35/13947-rick-ross-may-sign-wale.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/wale590.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></td>
 					  </tr>
 					  <tr>
-						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">Sean Garrett [feat] Gucci Mane...</td>
+						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">D.C. Rapper Could Join Maybach...</td>
 					  </tr>
 					  <tr>
-						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/videos.gif); background-repeat:no-repeat; height:24px;">
+						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/news.gif); background-repeat:no-repeat; height:24px;">
 							<img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="1" width="1">
 						</td>
 					  </tr>
 					</tbody></table>
-				</div><div onmouseover="return unhideTopics('viewintip8115','viewTopics2')" onmouseout="return hideTopics('viewintip8115')"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/2066928318.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/2066928318.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></div>
-									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip8114','viewTopics3')" onmouseout="return hideTopics('viewintip8114')" id="viewintip8114" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8114.html?Itemid=82#videostand'" style="z-index:4000;">
-					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8114.html?Itemid=82#videostand'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
+				</div><div onmouseover="return unhideTopics('viewintip13947','viewTopics2')" onmouseout="return hideTopics('viewintip13947')"><a href="http://www.hiphopblog.com/news-mainmenu-35/13947-rick-ross-may-sign-wale.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/wale590.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></div>
+									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip13948','viewTopics3')" onmouseout="return hideTopics('viewintip13948')" id="viewintip13948" onclick="document.location.href='http://www.hiphopblog.com/gossip-mainmenu-38/13948-teddy-riley-blasts-quincy-jones.html#main-content'" style="z-index:4000;">
+					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/gossip-mainmenu-38/13948-teddy-riley-blasts-quincy-jones.html#main-content'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
 					<table border="0" cellspacing="0" cellpadding="4" width="108" align="center" class="hand">
 					  <tbody><tr>
-						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/2064710037.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/2064710037.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></td>
+						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><a href="http://www.hiphopblog.com/gossip-mainmenu-38/13948-teddy-riley-blasts-quincy-jones.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/teddyriley90.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></td>
 					  </tr>
 					  <tr>
-						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">Young Jeezy - All White Everyt...</td>
+						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">"Look At His Age. He Can Barel...</td>
 					  </tr>
 					  <tr>
-						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/videos.gif); background-repeat:no-repeat; height:24px;">
+						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/gossip.gif); background-repeat:no-repeat; height:24px;">
 							<img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="1" width="1">
 						</td>
 					  </tr>
 					</tbody></table>
-				</div><div onmouseover="return unhideTopics('viewintip8114','viewTopics3')" onmouseout="return hideTopics('viewintip8114')"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/2064710037.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/2064710037.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></div>
-									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip8113','viewTopics4')" onmouseout="return hideTopics('viewintip8113')" id="viewintip8113" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8113.html?Itemid=82#videostand'" style="z-index:4000;">
-					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8113.html?Itemid=82#videostand'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
+				</div><div onmouseover="return unhideTopics('viewintip13948','viewTopics3')" onmouseout="return hideTopics('viewintip13948')"><a href="http://www.hiphopblog.com/gossip-mainmenu-38/13948-teddy-riley-blasts-quincy-jones.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/teddyriley90.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></div>
+									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip13944','viewTopics4')" onmouseout="return hideTopics('viewintip13944')" id="viewintip13944" onclick="document.location.href='http://www.hiphopblog.com/news-mainmenu-35/13944-promoter-poses-as-jeezys-agent.html#main-content'" style="z-index:4000;">
+					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/news-mainmenu-35/13944-promoter-poses-as-jeezys-agent.html#main-content'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
 					<table border="0" cellspacing="0" cellpadding="4" width="108" align="center" class="hand">
 					  <tbody><tr>
-						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/333490951.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/333490951.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></td>
+						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><a href="http://www.hiphopblog.com/news-mainmenu-35/13944-promoter-poses-as-jeezys-agent.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/youngjeezy2890.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></td>
 					  </tr>
 					  <tr>
-						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">Gorilla Zoe - Boat [Music Vide...</td>
+						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">Scam Artist Pocketed $250K</td>
 					  </tr>
 					  <tr>
-						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/videos.gif); background-repeat:no-repeat; height:24px;">
+						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/news.gif); background-repeat:no-repeat; height:24px;">
 							<img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="1" width="1">
 						</td>
 					  </tr>
 					</tbody></table>
-				</div><div onmouseover="return unhideTopics('viewintip8113','viewTopics4')" onmouseout="return hideTopics('viewintip8113')"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/333490951.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/333490951.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></div>
-									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip8112','viewTopics5')" onmouseout="return hideTopics('viewintip8112')" id="viewintip8112" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8112.html?Itemid=82#videostand'" style="z-index:4000;">
-					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/component/content/video/8112.html?Itemid=82#videostand'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
+				</div><div onmouseover="return unhideTopics('viewintip13944','viewTopics4')" onmouseout="return hideTopics('viewintip13944')"><a href="http://www.hiphopblog.com/news-mainmenu-35/13944-promoter-poses-as-jeezys-agent.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/youngjeezy2890.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></div>
+									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div><div class="hidden" onmouseover="return unhideTopics('viewintip13945','viewTopics5')" onmouseout="return hideTopics('viewintip13945')" id="viewintip13945" onclick="document.location.href='http://www.hiphopblog.com/gossip-mainmenu-38/13945-beanie-sigel-disses-dame-dash.html#main-content'" style="z-index:4000;">
+					<div style="height:110px;background-color:#FFFFFF;  width:110px; filter:alpha(opacity=10);-moz-opacity:0.1; opacity: 0.1; position:absolute;" class="hand" onclick="document.location.href='http://www.hiphopblog.com/gossip-mainmenu-38/13945-beanie-sigel-disses-dame-dash.html#main-content'"><img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="7" width="1"></div>
 					<table border="0" cellspacing="0" cellpadding="4" width="108" align="center" class="hand">
 					  <tbody><tr>
-						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/1436921334.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/1436921334.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></td>
+						<td valign="middle" align="center" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/top.gif); background-repeat:no-repeat; background-position:center center;"><a href="http://www.hiphopblog.com/gossip-mainmenu-38/13945-beanie-sigel-disses-dame-dash.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/beanieanddame90.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></td>
 					  </tr>
 					  <tr>
-						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">Lady Shoots Self To Get Medica...</td>
+						<td align="left" bgcolor="#D4D4D4" style="color:#000000;font-size:10px;">"You Can't Pimp Me..."</td>
 					  </tr>
 					  <tr>
-						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/videos.gif); background-repeat:no-repeat; height:24px;">
+						<td align="left" height="23" valign="middle" style="background-image:url(http://www.hiphopblog.com/images/button/fresh_topics/gossip.gif); background-repeat:no-repeat; height:24px;">
 							<img src="http://www.hiphopblog.com/images/spacer.gif" border="0" height="1" width="1">
 						</td>
 					  </tr>
 					</tbody></table>
-				</div><div onmouseover="return unhideTopics('viewintip8112','viewTopics5')" onmouseout="return hideTopics('viewintip8112')"><div style="height:95px; width:95px; z-index:-1000; border:#817F7F solid 1px; background-color:#2F2F2F;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="95" height="95"><param name="movie" value="http://www.hiphopblog.com/videos/thumbnail/1436921334.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.hiphopblog.com/videos/thumbnail/1436921334.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="95" height="95" wmode="transparent"></object></div></div>
+				</div><div onmouseover="return unhideTopics('viewintip13945','viewTopics5')" onmouseout="return hideTopics('viewintip13945')"><a href="http://www.hiphopblog.com/gossip-mainmenu-38/13945-beanie-sigel-disses-dame-dash.html#main-content" style="font-size:12px;"><img src="http://www.hiphopblog.com/images/newsletter/beanieanddame90.jpg" border="0" style="border:#817F7F solid 1px;" height="95" width="95"></a></div>
 									  <div><img src="/images/spacer.gif" border="0" width="2" height="5"></div>						</div>
 					</td></tr>
 				</tbody></table>
@@ -885,7 +919,7 @@ function hidePlug() {
 			<div>
 				<div>
 					<div>
-																											<h3>User Submission</h3>
+																											<h3>Get Featured</h3>
 																			<form action="" method="post" id="frmvideomixtape" name="frmvideomixtape">
 	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="videomixtape">
 		<tbody><tr>
@@ -937,41 +971,10 @@ function hidePlug() {
 				</div>
 			</div>
 		</div>
-			<div class="module-black">
-			<div>
-				<div>
-					<div>
-																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><div style="position:relative;">
-        <div style="position:absolute; left: -15px; width:210px;"><img src="/images/left_br_bg.gif" border="0" height="25" width="210"></div>
-      </div></td>
-  </tr>
-  <tr>
-    <td><img src="/images/spacer.gif" border="0" height="10"></td>
-  </tr>
-  <tr>
-    <td align="center"><br>
-      <br>
-      <script type="text/javascript"><!--
-		google_ad_client = "pub-1473969244809476";
-		/* HHB Tower */
-		google_ad_slot = "9963208434";
-		google_ad_width = 160;
-		google_ad_height = 600;
-		//-->
-		</script>
-      <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> </script></td>
-  </tr>
-</tbody></table>
-					</div>
-				</div>
-			</div>
-		</div>
 	
-									</div>
-								</td>
-														<!-- end rightcolumn -->
+										</div>
+									</td>
+																					<!-- end rightcolumn -->
 						</tr>
 					</tbody></table>
 				</div>
@@ -979,21 +982,7 @@ function hidePlug() {
 				<!-- begin bottom section -->
 								<!-- end bottom section -->
 				<!--Google Adsense Start-->
-				<div class="google_bottom_adsense" align="center">
-					<div class="google_adsense">
-						<script type="text/javascript"><!--
-						google_ad_client = "pub-1473969244809476";
-						/* HHB Footer */
-						google_ad_slot = "6714173346";
-						google_ad_width = 728;
-						google_ad_height = 90;
-						//-->
-						</script>
-						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-						</script>
-					</div>
-				</div>
-				<!--Google Adsense End-->
+								<!--Google Adsense End-->
 				<!-- begin footer -->
 				<div id="footer">
 					<div class="footer2">
@@ -1002,7 +991,7 @@ function hidePlug() {
 															<div id="bottom-menu">
 									<div id="bottom-menu2">
 											<div class="moduletable">
-					<ul id="mainlevel-bottom"><li><a href="/index.php" class="mainlevel-bottom">Home</a></li><li><a href="/news-mainmenu-35.html" class="mainlevel-bottom">News</a></li><li><a href="/gossip-mainmenu-38.html" class="mainlevel-bottom">Gossip</a></li><li><a href="/video.html#video" class="mainlevel-bottom">Videos</a></li><li><a href="/mixtapes.html" class="mainlevel-bottom">Mixtapes</a></li><li><a href="/ublog.html#ublog" class="mainlevel-bottom">YouBlog</a></li><li><a href="/ucam.html#ucam" class="mainlevel-bottom">LiveCam</a></li></ul>		</div>
+					<ul id="mainlevel-bottom"><li><a href="/index.php" class="mainlevel-bottom">Home</a></li><li><a href="/news-mainmenu-35.html" class="mainlevel-bottom">News</a></li><li><a href="/gossip-mainmenu-38.html" class="mainlevel-bottom">Gossip</a></li><li><a href="/features-mainmenu-28.html" class="mainlevel-bottom">Columns</a></li><li><a href="/video.html" class="mainlevel-bottom">Videos</a></li><li><a href="/tracks.html" class="mainlevel-bottom">Music</a></li><li><a href="/mixtapes.html" class="mainlevel-bottom">Mixtapes</a></li><li><a href="/hiphop100/12396-top10.html#topten" class="mainlevel-bottom">100</a></li><li><a href="/ublog.html" class="mainlevel-bottom">YouBlog</a></li><li><a href="/submission.html" class="mainlevel-bottom">Publish</a></li></ul>		</div>
 	
 									</div>
 								</div>
@@ -1043,5 +1032,26 @@ function hidePlug() {
 				</div>
 			</div>
 		</div>
-			
+		<script language="javascript" type="text/javascript">
+				function addLoadEvent(func) {
+				  var oldonload = window.onload;
+				  if (typeof window.onload != 'function') {
+					window.onload = func;
+				  } else {
+					window.onload = function() {
+					  if (oldonload) {
+						oldonload();
+					  }
+					  func();
+					}
+				  }
+				}
+				var fbl = setTimeout("fbloginonload();", 10);
+				//addLoadEvent(fbloginonload);
+									//var yb = setTimeout("func1();", 1000);
+				
+				
+
+			</script>
+	
 </body></html>
