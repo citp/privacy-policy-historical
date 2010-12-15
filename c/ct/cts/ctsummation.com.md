@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ctsummation.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609110905id_/http%3A//www.ctsummation.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctsummation.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215103830id_/http%3A//www.ctsummation.com/Privacy.aspx) for the most accurate reproduction.*
 
-# CT Summation - Privacy Policy
+# AccessData Group - Privacy Policy
 
   
-This site is owned and operated by CT Summation, a Wolters Kluwer company. Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.
+This site is owned and operated by AccessData Group LLC company. Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
