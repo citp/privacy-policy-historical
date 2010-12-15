@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102012800id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215045557id_/http%3A//couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
 
 # CouponSurfer Privacy Statement
 
