@@ -1,133 +1,69 @@
-> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429130956id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215055631id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy Policy - ViKi
 
-## About Us
+### Privacy Policy
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). Domain Development Corporation allows the third party Domdex, Inc. to track users for the purpose of targeting advertisements. Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. The full text of Domdex's privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
+Revised: December 2, 2010
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+This Privacy Policy describes how VIKI, INC. ("we," “our” or "us") collects, uses and shares your information on our website at ViKi.com (collectively, the “Website”) We provide an online video service offering a selection of content and other services from time to time, which are referred to collectively as the "ViKi Services." Use of the ViKi Services is subject to our [Terms of Service](https://web.archive.org/terms_of_use).
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+### Information We Collect
 
-## Dispute Resolution and Privacy Seals
+We collect information as follows. First, when you create an account on the Website, we collect personally identifiable information, including your name, email address, nationality and language, and, if you purchase services, credit and debit card information, PayPal information, mobile payment information and/or other payment information depending on the payment option you select. Second, we automatically collect information when you visit the Website or use the ViKi Services. We also automatically collect non- personally identifiable information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie and Web beacon information. Non-personal information means information that does not allow someone to identify you individually. 
 
-We have no privacy seals or other assurance mechanisms. 
+### How we use information we collect
 
-## Additional Information
+We use the information we collect about you for the following general purposes: (i) contacting you; (ii) customizing the content and advertising you view (iii) fulfilling your requests for products or services; (iv) identifying the comments you post on the Website; (v) improving the ViKi Services; (vi) conducting research; (vii) compiling aggregate data for internal and external business purposes; (viii) preventing potentially illegal activities; (ix) protecting our rights and other uses in accordance with our Terms of Service; and (x) for any other purpose disclosed to you at the time we collect your personally identifiable information. 
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+### Disclosure of information
 
-## Data Collection
+We may share information that we have collected about you with other users if you voluntarily make the information public, including by (i) creating an account on the Website (whereby your account name and certain account information will be provided to other users of the Website), (ii) adding certain information to your channel page, and (iii) submitting videos or sending messages through the Website. 
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+Also, we may share personal information with companies and organizations that we hire/contract with to perform services for us (for example, processing credit and debit card, mobile and PayPal payments) 
 
-* * *
+In addition, we may disclose your personal information to comply with legal requirements, like law, regulation, warrant, subpoena, court order, or with a regulator or law enforcement agency or personnel, or in connection with a corporate sale, merger, acquisition, reorganization, dissolution or similar event. 
 
-### Group "Basic information"
+### Email addresses
 
-We collect the following information: 
+If you have provided your email address on the Website and have opted in, we may send you emails informing you of any major changes to the Website, or any pertinent information about the content on ViKi.com. If you do not want to receive these emails, please make a change to your email preference in your ViKi.com profile page. 
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+### Choice and Access to Personal Information
 
+We want to keep personal information accurate. To correct or update your personal information, please visit your account profile page. 
 
+### Links to Other Web Sites
 
-This data will be used for the following purposes:
+The Website may link to Web sites of other companies or organizations. These links are provided for your convenience. This Privacy Policy does not apply to these links. We do not control these Web sites and are not responsible for their operation or content. Please review the privacy policy for each Web site you visit. 
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+### Cookies and Web Beacons
 
+Cookies are small data files that are sent to your Web browser and placed on your computer's hard drive when you visit a Web site. You can set your Web browser to accept or decline cookies. Some sections of our Web site may not work properly if you decline cookies. 
 
+A Web beacon or similar means (collectively, "Pixel Tags") is a small string of code that provides a way for us to deliver a small graphic image (usually invisible) on a Web page or in an email. Pixel Tags can recognize certain types of information on your browser, check whether you have viewed a particular Web page or email message, and determine, among other things, the time and date on which you viewed the Pixel Tag and the IP address of the computer from which it was viewed. 
 
-This data will be used by ourselves and our agents. 
+We use cookies, Pixel Tags and log file information to (i) store information so that you will not have to re- enter it during your visit or the next time you visit the Website; (ii) provide custom, personalized content and information; (iii) monitor the effectiveness of our marketing campaigns and (iv) monitor aggregate metrics such as total number of visitors, pages viewed, etc. 
 
-The following explanation is provided for why this data is collected:
+### Third-party Advertisers
 
-> Data collected from all Web users: access logs, and search strings (if entered).
+We permit advertisements to be delivered to you by third party Internet advertising companies (also called "ad networks" or "network advertisers"). These companies may use cookies, Web beacons and other technologies to collect non-personally identifiable information about your visits to the Website to deliver advertisements to you, measure their effectiveness and personalize advertising content. We do not have access to or control over cookies, Web beacons or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles any personally identifiable information it separately collects from you. Please be aware that we do not warn you when you have chosen to link through to another Web site or property from the Website. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers information about Internet advertising companies, including about how to opt-out of their information collection. 
 
-* * *
+### Transfer of Information to Other Countries
 
-### Group "Cookies"
+Our processing of the information that it collects may involve the transfer of that information to various countries around the world. By submitting your information to us via the Website or in connection with your interactions with us offline, you consent to such transfers and to the processing of this information in various countries around the world. 
 
-At the user's option, we will collect the following data: 
+### Security
 
-  * HTTP cookies
+We take reasonable steps to protect personal information from loss and misuse. No Internet transmission is 100% secure. We use reasonable physical, technical, and administrative measures to safeguard personally identifiable information in our possession against loss, theft and unauthorized use, disclosure, or modification. Some email sent to or from the Website may not be secure. Please consider this when sending information to us by email. 
 
+### Children's Privacy
 
+We do not intentionally collect personal information from children under age 13. If we discover that a child has provided us with personal information online through the Website, we will take reasonable steps to delete this information. If you believe we may have accidentally received personal information from a child under age 13, please immediately contact us at [privacy@viki.com](mailto:privacy@viki.com "privacy@viki.com") . 
 
-This data will be used for the following purposes:
+### Changes to this Privacy Policy
 
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
+We may modify, alter or update this Privacy Policy at any time, so we encourage you to review this Privacy Policy frequently. We will not provide individual notice to you of changes to this Privacy Policy, but when we make updates to this Privacy Policy, we will update the last revised date set forth above. 
 
+### Contact Us
 
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+If you have any questions or comments about this Privacy Policy, please contact us at [privacy@viki.com](mailto:privacy@viki.com "privacy@viki.com") . 
