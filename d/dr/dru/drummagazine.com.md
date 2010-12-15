@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526224152id_/http%3A//www.drummagazine.com/about/post/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216004718id_/http%3A//drummagazine.com/about/post/privacy-policy) for the most accurate reproduction.*
 
 # None
 
