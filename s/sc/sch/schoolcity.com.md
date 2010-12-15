@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolcity.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626152130id_/http%3A//www.schoolcity.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolcity.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215175534id_/http%3A//www.schoolcity.com/html/privacy.html) for the most accurate reproduction.*
 
 # SchoolCity
 
