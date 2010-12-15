@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527040945id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215141747id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
-# Department of the Environment, Water, Heritage and the Arts - Privacy Statement
+# Department of Sustainability, Environment, Water, Population and Communities - Privacy Statement
 
 ## Scope
 
-This notice applies to the Department of the Environment, Water, Heritage and the Arts web site only. The web site is managed by the Australian Government Department of the Environment, Water, Heritage and the Arts.
+This notice applies to the Department of Sustainability, Environment, Water, Population and Communities web site only. The web site is managed by the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
 
 ## Personal Information
 
 The use of the term "personal information" in this privacy notice means any information from which your identity is apparent or can be reasonably ascertained.
 
-The Department of the Environment, Water, Heritage and the Arts collects personal information that you choose to give us, for example your email address.
+The Department of Sustainability, Environment, Water, Population and Communities collects personal information that you choose to give us, for example your email address.
 
 We do not collect identifiable personal information about you if you only browse this web site.
 
@@ -44,10 +44,10 @@ We also follow the _Guidelines for Federal and ACT Government websites_ issued b
 
 ## Contact us
 
-If you have any privacy concerns with the Department of the Environment, Water, Heritage and the Arts web site, please contact the Privacy Contact Officer:
+If you have any privacy concerns with the Department of Sustainability, Environment, Water, Population and Communities web site, please contact the Privacy Contact Officer:
 
 Privacy Contact Officer  
-Australian Government Department of the Environment, Water, Heritage and the Arts  
+Australian Government Department of Sustainability, Environment, Water, Population and Communities  
 GPO Box 787  
 Canberra ACT 2601  
 Australia  
@@ -57,9 +57,4 @@ privacy@environment.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20100527040945id_/http%3A//www.environment.gov.au/about/privacyfull.html).
-
-## Key
-
-   Links to another web site  
-  Opens a pop-up window 
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20101215141747id_/http%3A//www.environment.gov.au/about/privacyfull.html).
