@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maxgames.com privacy policy that was archived on 2010-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100216141013id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxgames.com privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215041937id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title> Max Games : Free internet games to the Max</title>
@@ -138,21 +138,14 @@ A.urlimage:visited {
 
 <link type="text/css" rel="stylesheet" href="/css/jquery.countdown.css">
 
-<!-- ValueClick Media POP-UNDER CODE v1.8 for Max Games (4 hour) -->
-<script language="javascript"><!--
-/*var dc=document; var date_ob=new Date();
-dc.cookie='h2=o; path=/;'; var bust=date_ob.getSeconds();
-if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
-dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
-dc.write('/w/pop.cgi?sid=33109&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
-date_ob.setTime(date_ob.getTime()+14400000);
-dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();}*/ // -->
-</script>
-<!-- ValueClick Media POP-UNDER CODE v1.8 for Max Games -->
 
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/javascript/swfobject.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/javascript/jquery-1.3.2.min.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/javascript/jquery.countdown.min.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/javascript/helpers.js"></script>
+<script type="text/javascript">_uacct = "UA-1219640-1"; urchinTracker();</script>
+
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -180,15 +173,12 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
-<script language="javascript">
-		function addbookmark(bookmarkurl,bookmarktitle)
-		{
-			bookmarkurl=location;
-			if (document.all){	window.external.AddFavorite(bookmarkurl,bookmarktitle); }
-		}
-</script>
 <script language="JavaScript">
- function enable(groupdata,data)
+function addbookmark(bookmarkurl,bookmarktitle) {
+	bookmarkurl=location;
+	if (document.all){	window.external.AddFavorite(bookmarkurl,bookmarktitle); }
+}
+function enable(groupdata,data)
 { 
 	document.getElementById(groupdata).style.display= "block";
  }
@@ -196,140 +186,151 @@ function disable(groupdata,data)
 {
 		document.getElementById(groupdata).style.display= "none";
 }
-           function highlightCell(rowId) {    //rowId is element id of the row to highlight
-                document.getElementById(rowId).style.background = "ghostwhite";    //change 'ghostwhite' to the color you wish to be the highlight color
-            }
+function highlightCell(rowId) {    //rowId is element id of the row to highlight
+	document.getElementById(rowId).style.background = "ghostwhite";    //change 'ghostwhite' to the color you wish to be the highlight color
+}
             
-            function unHighlightCell(cellId) {    //rowId is element id of the row to highlight
-                document.getElementById(cellId).style.background = "ghostwhite";    //should match original tr.a backgound color
-            }
+function unHighlightCell(cellId) {    //rowId is element id of the row to highlight
+	document.getElementById(cellId).style.background = "ghostwhite";    //should match original tr.a backgound color
+}
             
-            function showActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
-                document.getElementById(menuId).style.top = getElementY(document.getElementById(anchorId)) + getElementHeight(document.getElementById(anchorId));   //set the top of the menu to the bottom of the anchor element
-                document.getElementById(menuId).style.left = getElementX(document.getElementById(anchorId)) + 5;    //set the left of the menu to 5px right of the left of the anchor element
-                document.getElementById(menuId).style.visibility = "visible";   //set the menu to visible
-            }
+function showActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
+	document.getElementById(menuId).style.top = getElementY(document.getElementById(anchorId)) + getElementHeight(document.getElementById(anchorId));   //set the top of the menu to the bottom of the anchor element
+	document.getElementById(menuId).style.left = getElementX(document.getElementById(anchorId)) + 5;    //set the left of the menu to 5px right of the left of the anchor element
+	document.getElementById(menuId).style.visibility = "visible";   //set the menu to visible
+}
 
-            function hideActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
-                document.getElementById(menuId).style.visibility = "hidden";    //hide the menu
-//alert('aaaaaaa');
-            }
+function hideActionMenu(anchorId, menuId) {     //anchorId is the id of the element that the menu should be anchored to, menuId is the id of the menu id
+	document.getElementById(menuId).style.visibility = "hidden";    //hide the menu
+}
 
-            function getElementY(element){  //returns the y or top of the element
-            var targetTop = 0;
-            if (element.offsetParent) {
-            while (element.offsetParent) {
-            targetTop += element.offsetTop;
-                        element = element.offsetParent;
-            }
-            } else if (element.y) {
-            targetTop += element.y;
-                }
-            return targetTop;
-            }
+function getElementY(element){  //returns the y or top of the element
+	var targetTop = 0;
+	if (element.offsetParent) {
+		while (element.offsetParent) {
+			targetTop += element.offsetTop;
+			element = element.offsetParent;
+		}
+	} else if (element.y) {
+		targetTop += element.y;
+	}
+	return targetTop;
+}
 
-            function getElementX(element){  //returns the x or left of the element
-            var targetLeft = 0;
-            if (element.offsetParent) {
-            while (element.offsetParent) {
-            targetLeft += element.offsetLeft;
-                        element = element.offsetParent;
-            }
-            } else if (element.x) {
-            targetLeft += element.x;
-                }
-            return targetLeft;
-            }
+function getElementX(element){  //returns the x or left of the element
+	var targetLeft = 0;
+	if (element.offsetParent) {
+		while (element.offsetParent) {
+			targetLeft += element.offsetLeft;
+			element = element.offsetParent;
+		}
+	} else if (element.x) {
+		targetLeft += element.x;
+	}
+	return targetLeft;
+}
 
-            function getElementWidth(element){  //returns the width of the element
-            var targetWidth = 0;
-            if (element.offsetParent) {
-            targetWidth += element.offsetWidth;
-            } else if (element.width) {
-            targetWidth += element.width;
-                }
-            return targetWidth;
-            }
+function getElementWidth(element){  //returns the width of the element
+	var targetWidth = 0;
+	if (element.offsetParent) {
+		targetWidth += element.offsetWidth;
+	} else if (element.width) {
+		targetWidth += element.width;
+	}
+	return targetWidth;
+}
 
-	function getElementHeight(element) { //returns the height of the element
-		var targetHeight = 0;
-		
-		if (element.offsetParent)
-		{
-			targetHeight += element.offsetHeight;
+function getElementHeight(element) { //returns the height of the element
+	var targetHeight = 0;
+	
+	if (element.offsetParent)
+	{
+		targetHeight += element.offsetHeight;
         }
         else if (element.height)
-		{
-			targetHeight += element.height;
-		}
-		
-		return targetHeight;
+	{
+		targetHeight += element.height;
 	}
+	
+	return targetHeight;
+}
 
-	/*$(function () {
-		$('#aow2_countdown_container').css({'left':$(document).width()/2-25+'px'}).show();
-		
-		var aowDay = new Date("January 8, 2010 14:00:00");
-		$('#countdown').countdown({until:aowDay, format:'dHMS', compact:true, timezone:-7, compactLabels:['', '', '', ' Days']});
-		$('#index_countdown').countdown({until:aowDay, format:'dHMS', compact:true, timezone:-7, compactLabels:['', '', '', 'D']});
-	})*/
+$(function () {
+	var countdownTo = new Date("November 2, 2010 22:00:00");
+	/*$('#aow2_countdown_container').css({'left':$(document).width()/2-25+'px'}).show();*/
+	/*$('#header_countdown').countdown({until:aowDay, format:'dHMS', compact:true, timezone:-7, compactLabels:['', '', '', ' Days']});*/
+	$('#index_countdown').countdown({until:countdownTo, format:'dHMS', compact:true, timezone:-7, compactLabels:['', '', '', 'D']});
+
+	var imgCache = [];
+	var cacheImage = document.createElement('img');
+	cacheImage.src = '/images/header_cat_upper_sel.jpg';
+	imgCache.push(cacheImage);
+	var cacheImage = document.createElement('img');
+	cacheImage.src = '/images/header_cat_lower_sel.jpg';
+	imgCache.push(cacheImage);
+	
+	$('.header_category_up').hover(function() {
+		$(this).css({'color':'white', 'background-image':'URL(\'/images/header_cat_upper_sel.jpg\')'});
+	}, function() {
+		$(this).css({'color':'#4C1716', 'background-image':'URL(\'/images/header_cat_upper.jpg\')'});
+	}).click(function() {
+		window.location = $(this).children('a').attr('href');
+	});
+	$('.header_category_down').hover(function() {
+		$(this).css({'color':'white', 'background-image':'URL(\'/images/header_cat_lower_sel.jpg\')'});
+	}, function() {
+		$(this).css({'color':'#4C1716', 'background-image':'URL(\'/images/header_cat_lower.jpg\')'});
+	}).click(function() {
+		window.location = $(this).children('a').attr('href');
+	});
+});
 </script>
 </head>
 
 <body onload="MM_preloadImages('images/1_2_b.jpg','images/1_3_b.jpg','images/1_4_b.jpg');">
-
 <!-- 
 <div id="aow2_countdown_container" style="z-index: 2; position: absolute; top: 20px; left: 0px; width: 220px; display: none;">
 	<div style="font-weight: bold; color: black; font-family: verdana,sans-serif; font-size: 9pt;">Age Of War 2 is coming...</div>
-	<div style="font-weight: bold; color: white; font-family: verdana,sans-serif; font-size: 13pt; width: 190px; height: 45px; padding-left: 30px;" id="countdown"></div>
+	<div style="font-weight: bold; color: white; font-family: verdana,sans-serif; font-size: 13pt; width: 190px; height: 45px; padding-left: 30px;" id="header_countdown"></div>
 </div>
 -->
 
 <table width="761" border="0" align="center" cellpadding="0" cellspacing="0" style="position: relative;">
 <tbody><tr>
-		<td width="515" height="39" valign="top"><a href="http://www.maxgames.com/index.html"><img src="http://www.maxgames.com/images/1_1_ageofwar2.jpg" width="515" height="39" border="0"></a></td>
-	    <td width="63" height="39" valign="top"><img src="http://www.maxgames.com/images/ogu.gif" width="63" height="39" border="0"></td>
-    <td width="99" height="39" valign="top"><a href="javascript:addbookmark('.html','MaxGames - ');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','http://www.maxgames.com/images/1_3_b.jpg',1)"><img src="http://www.maxgames.com/images/1_3_a.jpg" alt="bookmark us" name="Image5" width="99" height="39" border="0"></a></td>
-    <td width="84" height="39" valign="top"><a href="http://www.maxgames.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','http://www.maxgames.com/images/1_4_b.jpg',1)"><img src="http://www.maxgames.com/images/1_4_a.jpg" alt="MaxGames" name="Image6" width="86" height="39" border="0"></a></td>
-</tr>
-<tr>
-		<td><a href="http://www.maxgames.com/index.html"><img src="http://www.maxgames.com/images/2_1_ageofwar2.jpg" width="515" height="38" border="0"></a></td>
-	    <td colspan="3" background="http://www.maxgames.com/images/2_bg.jpg"><img src="http://www.maxgames.com/images/spacer.gif" width="1" height="1"></td>
-</tr>
-<tr background="http://www.maxgames.com/images/3_bg.jpg">
-	<td height="58" colspan="4" background="http://www.maxgames.com/images/3_bg.jpg">
-		<table width="90%" border="0" align="center" cellpadding="2" cellspacing="0" class="text">
-		<tbody><tr> 
-			<td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/action-games.html" class="whttxt">Action Games</a></div></td>
-		    <td width="3%" align="center"><div align="left"><a href="http://www.maxgames.com/category/rpg-games.html" class="whttxt"> </a><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/rpg-games.html" class="whttxt">RPG Games</a></div></td>
-		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/sports-games.html" class="whttxt">Sports Games</a></div></td>
-		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/shooting-games.html" class="whttxt">Shooting Games</a></div></td>
-		</tr>
-		<tr>
-		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/fighting-games.html" class="whttxt">Fighting Games</a></div></td>
-		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/puzzle-games.html" class="whttxt">Puzzle Games</a></div></td>
-		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/card-games.html" class="whttxt">Card Games</a></div></td>
-		    <td width="3%" align="center"><div align="left"><img src="http://www.maxgames.com/images/redbullet.jpg" width="4" height="4"></div></td>
-		    <td width="20%" align="center"><div align="left"><a href="http://www.maxgames.com/category/max-games.html" class="whttxt">Max Games</a></div></td>
-		</tr>
-		</tbody></table>
+	<td colspan="4">
+		<div style="position: relative; width: 763px; height: 166px; overflow: hidden; background-image: URL('/images/header_bg.png');">
+			<div style="position: absolute; top: 15px; left: 525px; width: 105px; height: 16px;">
+				<a href="javascript:addbookmark('.html','MaxGames - ');"><img style="border-style: none;" src="/images/header_bookmark_icon.gif" width="15" height="16" alt="Bookmark Us"></a>
+				<div style="position: absolute; top: 1px; right: 0px; color: #72706F; font-size: 10pt; font-family: arial,sans-serif;"><a style="text-decoration: none;" href="javascript:addbookmark('.html','MaxGames - ');">Bookmark Us</a></div>
+			</div>
+			<div style="position: absolute; top: 15px; left: 650px; width: 60px; height: 16px;">
+				<a href="/" title="Home"><img style="border-style: none;" src="/images/header_home_icon.gif" width="15" height="16" alt="Home"></a>
+				<div style="position: absolute; top: 1px; right: 0px; color: #72706F; font-size: 10pt; font-family: arial,sans-serif;"><a style="text-decoration: none;" href="/" title="Home">Home</a></div>
+			</div>
+			<div style="position: absolute; top: 91px; left: 0px; width: 763px; height: 26px;">
+				<div class="header_category_up" style="float: left; margin: 0px 12px 0px 45px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_upper.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/action-games.html" title="Action Games">Action Games</a></div>
+				<div class="header_category_up" style="float: left; margin: 0px 12px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_upper.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/rpg-games.html" title="RPG Games">RPG Games</a></div>
+				<div class="header_category_up" style="float: left; margin: 0px 12px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_upper.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/sports-games.html" title="Sports Games">Sports Games</a></div>
+				<div class="header_category_up" style="float: left; margin: 0px 12px; padding-top: 5px; padding-left: 9px; width: 141px; height: 21px; background-image: URL('/images/header_cat_upper.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/shooting-games.html" title="Shooting Games">Shooting Games</a></div>
+			</div>
+			<div style="position: absolute; top: 131px; left: 0px; width: 763px; height: 26px;">
+				<div class="header_category_down" style="float: left; margin: 0px 12px 0px 45px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_lower.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/fighting-games.html" title="Fighting Games">Fighting Games</a></div>
+				<div class="header_category_down" style="float: left; margin: 0px 12px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_lower.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/puzzle-games.html" title="Puzzle Games">Puzzle Games</a></div>
+				<div class="header_category_down" style="float: left; margin: 0px 12px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_lower.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/card-games.html" title="Card Games">Card Games</a></div>
+				<div class="header_category_down" style="float: left; margin: 0px 12px; padding-top: 5px; padding-left: 5px; width: 145px; height: 21px; background-image: URL('/images/header_cat_lower.jpg'); cursor: pointer; text-align: center; color: #4c1716; font-size: 10pt; font-weight: bold; font-family: arial,sans-serif;"><a style="text-decoration: none; color: inherit;" href="/category/max-games.html" title="Max Games">Max Games</a></div>
+			</div>
+			<div style="position: absolute; top: 12px; left: 63px; width: 340px; height: 70px; cursor: pointer;" onclick="window.location = '/';"></div>
+		</div>
 	</td>
 </tr>
 <tr bgcolor="#ffffff">
 	<td style="padding: 3px 0px;" colspan="4">
     	    	<div style="margin: 0px auto; width: 728px; height: 90px; padding: 0px 0px 0px 18px; background-image: URL('/images/sponsor_border_leaderboard.gif'); background-repeat: no-repeat;">
-    		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1219640-1"; urchinTracker();</script><script language="javascript" src="http://media.fastclick.net/w/get.media?sid=33109&amp;m=1&amp;tp=5&amp;d=j&amp;t=s"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=33109&m=1&c=1" target="_top"><img src="http://media.fastclick.net/w/get.media?sid=33109&m=1&tp=5&d=s&c=1"width=728 height=90 border=1></a></noscript>    	</div>
+    		<!-- Max Games / Size: 728x90 / Channel: games / Subchannel: animation / Page Type: content --><script type="text/javascript">if(typeof(cachebuster) == 'undefined'){var cachebuster = Math.floor(Math.random()*10000000000)}if(typeof(dcopt) == 'undefined'){var dcopt = 'dcopt=ist;'} else {var dcopt = ''}if(typeof(tile) == 'undefined'){var tile = 1} else {tile++}document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ugo.stickpage.maxgames.games/animation;affiliate=stickpage;subaffiliate=maxgames;channel=games;subchannel=animation;category=tic;pt=content;pez=tic;' + dcopt + ';sz=728x90;tile=' + tile + ';ord=' + cachebuster + '?"></scr'+'ipt>');</script><script src="http://ad.doubleclick.net/adj/ugo.stickpage.maxgames.games/animation;affiliate=stickpage;subaffiliate=maxgames;channel=games;subchannel=animation;category=tic;pt=content;pez=tic;dcopt=ist;;sz=728x90;tile=1;ord=6732813838?"></script><noscript><a href='http://ad.doubleclick.net/adj/ugo.stickpage.maxgames.games/animation;affiliate=stickpage;subaffiliate=maxgames;channel=games;subchannel=animation;category=tic;pt=content;pez=tic;sz=728x90;ord=123456789?' target='_blank' ><img src='http://ad.doubleclick.net/adj/ugo.stickpage.maxgames.games/animation;affiliate=stickpage;subaffiliate=maxgames;channel=games;subchannel=animation;category=tic;pt=content;pez=tic;sz=728x90;ord=123456789?' border='0' alt='' /></a></noscript>    	</div>
     		</td>
 </tr>
 <tr>
-	<td background="http://www.maxgames.com/images/red_bar_bg.jpg" class="sdate">&nbsp;&nbsp;16 Feb 2010 </td>
+	<td width="515" background="http://www.maxgames.com/images/red_bar_bg.jpg" class="sdate">&nbsp;&nbsp;14 Dec 2010 </td>
 	<td background="http://www.maxgames.com/images/reb_br_bg_2.jpg"><img src="http://www.maxgames.com/images/reb_br.jpg" width="30" height="29"></td>
 	<td colspan="2" background="http://www.maxgames.com/images/reb_br_bg_2.jpg" class="playgames">Play Games</td>
 </tr>
@@ -349,13 +350,13 @@ function disable(groupdata,data)
 					<td width="36%" align="left"><a id="lookup" href="http://www.maxgames.com/toprated.html" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);">Top Rated Games</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
 							<table style="display:none" id="drop" onmouseover="javascript:enable('drop', this);" onmouseout="javascript:disable('drop', this);" align="left">
 							<tbody><tr id="toprated" bgcolor="#FFFFFF" align="left">
-								<td align="left"><a href="http://www.maxgames.com/weeklytoprated.html">This Week</a> - <a href="http://www.maxgames.com/toprated.html">All Time</a></td>
+								<td align="left" class="navigation"><a href="http://www.maxgames.com/weeklytoprated.html">This Week</a> - <a href="http://www.maxgames.com/toprated.html">All Time</a></td>
 							</tr></tbody></table>
 							<!--<div id="drop"><a href="#">This Week - All Time</a></div>  -->
 					</td>
 					<td width="36%" height="20"><a id="lookup1" href="http://www.maxgames.com/mostplayed.html" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);">Most Played Games</a>							<table style="display:none" id="drop1" onmouseover="javascript:enable('drop1', this);" onmouseout="javascript:disable('drop1', this);" align="left">
 							<tbody><tr id="mostplayed" bgcolor="#FFFFFF" align="left">
-								<td align="left"><a href="http://www.maxgames.com/weeklymostplayed.html">This Week</a> - <a href="http://www.maxgames.com/mostplayed.html">All Time</a></td>
+								<td align="left" class="navigation"><a href="http://www.maxgames.com/weeklymostplayed.html">This Week</a> - <a href="http://www.maxgames.com/mostplayed.html">All Time</a></td>
 							</tr>
 							</tbody></table> 
 					</td>
@@ -368,9 +369,11 @@ function disable(groupdata,data)
 	</td>
 </tr>
 </tbody></table>
+<div style="position: absolute; bottom: 0px; left: 0px;"><iframe src="http://www.maxgames.com/counter.php" width="1" height="1" scrolling="no" frameborder="0"></iframe></div>
 <table width="761" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr bgcolor="#FFFFFF">
-	<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr valign="top">
 		<td>&nbsp;</td>
 		<td>
@@ -478,7 +481,7 @@ If you have any questions or wish to file a complaint, please feel free to e-mai
   <tr>
 	<td width="100%" colspan="4" align="center">
 		<div style="margin: 0px auto; width: 728px; height: 90px; padding: 3px 3px 3px 18px; background-image: URL('/images/sponsor_border_leaderboard.gif'); background-repeat: no-repeat;">		
-			<script>var ve_publisher = "JaysWebworks";var ve_site = "MAXGAMES";var ve_area = "MAXGAMES";var ve_location = "MAXGAMES_720X90";var ve_placement = "";var ve_width = 728;var ve_height = 90;var ve_alternate = "http\://www\.maxgames\.com/videoeggbackup720x90\.html";document.write("<script src='http://core.videoegg.com/eap/html/js/init.js?"+Math.random()+"'></sc"+"ript>");</script><script src="http://core.videoegg.com/eap/html/js/init.js?0.5071502028522299"></script>		</div>
+			<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=33109&amp;m=1&amp;tp=5&amp;d=j&amp;t=s"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=33109&m=1&c=1" target="_top"><img src="http://media.fastclick.net/w/get.media?sid=33109&m=1&tp=5&d=s&c=1"width=728 height=90 border=1></a></noscript>		</div>
 	</td>
  </tr>
  <tr>
