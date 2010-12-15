@@ -1,77 +1,123 @@
-<!--The following is the downloaded HTML source of the logoonline.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213073957id_/http%3A//www.logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logoonline.com privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215215257id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <script>
-var ord = Math.random();
+//****CONFIGURATION****//
+
+interstitial_on_off = "on"; //on/off switch for interstitial
+
+on_time = new Date("December 1, 2010 00:00:01");	//Turn-on time. Format is: "Month dd, yyyy hh:mm:ss" e.g. January 20, 2004 10:30:00
+off_time = new Date("December 1, 2010 00:00:02");	//Turn-off time. Format is: "Month dd, yyyy hh:mm:ss" e.g. January 20, 2004 19:00:00
+cookie_days = 1; //duration of cookie
+
+//**END CONFIGURATION**//
+
+function getCookieVal(offset) {
+
+var endstr = document.cookie.indexOf(";", offset);
+if (endstr == -1) {
+endstr = document.cookie.length;
+}
+
+return unescape(document.cookie.substring(offset, endstr));
+
+}
+
+function FixCookieDate(date) {
+
+var base = new Date(0);
+var skew = base.getTime();
+if (skew > 0) {
+date.setTime(date.getTime() - skew);
+}
+
+}
+
+function readCookie(name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+
+function createCookie(name,value,days) {
+if (days) {
+var date = new Date();
+FixCookieDate(date);
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function eraseCookie(name) {
+createCookie(name,"",-1);
+}
+
+var currentDate = new Date();	
+
+if (interstitial_on_off=="on" && readCookie("logo_interstitial") != "logotv" && on_time <= currentDate && off_time >= currentDate) {
+
+createCookie("logo_interstitial", "logotv", cookie_days);
+window.location.href = "/interstitial/splashland.jhtml";
+
+}
+
 </script>
-<script src="/sitewide/js/sendToFriend.js"></script>
-<script src="/sitewide/core/javaScript/jQuery/jquery-1.3.2.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="/sitewide/core/javaScript/dojo/dojo.js"></script>
-<script type="text/JavaScript">
-dojo.hostenv.setModulePrefix('utils', 'utils');
-dojo.widget.manager.registerWidgetPackage('utils');
-dojo.require("utils.AutoComplete");
-</script>
-<script type="text/javascript">searchTerm="";</script><script type="text/javascript">srchType="";</script><script type="text/javascript">searchFail="";</script>
 
-<title>Gay, Lesbian, Bisexual &amp; Transgender TV Shows &amp; Specials | Logo Online</title>
+<title>Fierce TV: RuPaul, Full Episodes, Reality TV Shows, Gay Movies | Logo TV | Watch Free Videos &amp; New Music Videos</title>
 
-<meta name="description" content="Visit LOGOonline to see Gay, Lesbian, Bisexual &amp; Transgender TV Shows &amp; Specials. Get Travel Advice. See the latest Gay, Lesbian, Bisexual &amp; Transgender Music Videos, Films and Documentaries.">
+<meta name="description" content="Watch Logo reality TV shows like RuPaul’s Drag Race and The A-List: New York, free full episodes online. Watch new music videos, gay movies, lesbian documentaries, full length feature films and more.">
 
-<meta name="keywords" content="gay, lesbian, bisexual, transgender, tv, documentaries, travel, advice, films, new, music, videos">
+<meta name="keywords" content="logo, rupaul, tv, drag race, documentaries, films, new, music, videos, video, movie, movies, lgbt, gay, lesbian, shows, full episodes, full length, season, unedited, hot, sexy, reality, the a list, bisexual, transgender, buffy, watch">
 
 <meta name="Publisher" content="LOGO">
 <meta name="Publisher-Email" content="feedback@logo-tv.com">
 <meta name="Identifier-URL" content="http://www.logo-tv.com/">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta name="copyright" content="(c) 2008 MTV Networks, a division of
+<meta name="copyright" content="(c) 2009 MTV Networks, a division of
 Viacom International Inc. All rights reserved. LOGO, DIFFERENT
 TOGETHER and all related titles and designs are trademarks of MTV
 Networks, a division of Viacom International Inc.">
 
-<link href="/about/css/consistency_style.css" rel="stylesheet" type="text/css">
-<style>
-.navTabInactive {
-height:35px;
-width:100px;
-display:relative;
-float:left;
-margin-right:5px;
-background-image:url(/sitewide/core/assets/buttons/showsNavigation/seriesNavTab_inActive.gif);
-color:#00285a;
-font-weight:bold;
-font-size:15px;
-}
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link href="/sitewide/core/style/components/buttons.css" media="all" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="screen, print, projection" href="/sitewide/css/charlie/main.css">
+<link rel="stylesheet" type="text/css" media="screen, print, projection" href="/sitewide/css/charlie/footer.css">
+<link rel="stylesheet" type="text/css" media="screen, print, projection" href="/global/music/shows/css/shows.css">
 
-.navTabInactive:hover{
-background-image:url(/sitewide/core/assets/buttons/showsNavigation/seriesNavTab_active.gif);
-color:#FFFFFF;
-}
+<script>var baseDomain = 'http://www.logotv.com';</script>
 
-.navTabActive {
-height:35px;
-width:100px;
-display:relative;
-float:left;
-margin-right:5px;
-background-image:url(/sitewide/core/assets/buttons/showsNavigation/seriesNavTab_active.gif);
-color:#FFFFFF;
-font-weight:bold;
-font-size:15px;
-}
+<script type="text/JavaScript" src="/sitewide/core/javaScript/search/search.js"></script>
 
-#labelDisplay {
-width:100px;
-margin-top:10px;
-}
+<script type="text/JavaScript">
+searchTerm="";
+srchType="";
+searchFail="";
+</script>
 
-</style>
+<script type="text/javascript">
 
-<script type="text/JavaScript" src="/sitewide/scripts/gen.js"></script>
+</script>
 
-<script src="/sitewide/core/javaScript/swfObject/swfobject.js" language="javascript"></script>
-<script src="/global/apps/fbml/js/SwfPlayerObject.js" language="javascript"></script>
+<script type="text/javascript" src="/sitewide/js/sendToFriend.js" language="javascript"></script>
+<script type="text/javascript" src="/sitewide/core/javaScript/jQuery/jquery-1.3.2.min.js" language="javascript"></script>
+
+<script type="text/javascript">
+/*
+MTV's jQuery scripts use no conflict mode and use $j.
+Assign jQuery to $j so Logo plays nice with the MTV scripts.
+*/
+var $j = jQuery;
+</script>
 
 <!--
 <script type="text/javascript" src="/global/scripts/yeti/mtvi.js"></script>
@@ -146,85 +192,82 @@ omniCall.partnerSearch=MTVi.reporting.PartnerSearch.get("");
 <script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
 
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript" src="/sitewide/scripts/ad_reporting.js"></script></head><body class="smallSearch"><div style="position:absolute; visibility:hidden; width:1px; height:1px; border:0px; top:-100px; left:-100px" id="urchin"></div><div style="display:none;" id="s_code"><img name="s_i_vialogoonlinesite" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/vialogoonlinesite,vialogoonline/1/H.1-pdv-2/s4688885275327?[AQB]&amp;ndh=1&amp;t=1/1/2020%200%3A37%3A53%206%200&amp;pageName=/Logo/web/20091213073957id_/http%253A//www.logoonline.com/about/privacy-policy.jhtml&amp;g=https%3A//web.archive.org/web/20091213073957id_/http%253A//www.logoonline.com/about/privacy-policy.jhtml&amp;ch=Logo&amp;h2=Logo/web/20091213073957id_/http%253A//www.logoonline.com/about/privacy-policy.jhtml&amp;c17=Logo&amp;c41=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"></div>
+<script type="text/javascript" src="http://btg.mtvnservices.com/aria/coda.html?site=logoonline.com"></script>
+<script type="text/javascript" src="/sitewide/scripts/ad_reporting_logo_extra.js"></script>
 
 <script type="text/javascript" src="/sitewide/scripts/reporting.js"></script>
 
 <!--END CODA-->
 
-<!-- reporing -->
+<script type="text/javascript" src="/sitewide/core/javaScript/swfObject/swfobject.js" language="javascript"></script>
+<script type="text/javascript" src="/global/apps/fbml/js/SwfPlayerObject.js" language="javascript"></script>
+<script language="Javascript" src="/sitewide/scripts/sponsored_links_linkspots_conf.js"></script>
+<script language="Javascript" src="/global/scripts/overture/sponsored_links_lib.js"></script>
 
-<script type="text/javascript">
-// Append CSS to test styles
-$(document).ready(function() {
-
-});
-</script>
-
-<script>
-function setFocus() {
-document.getElementById("navigation_main").focus();
-document.getElementById("watchvideo-grid").focus();
-}
-</script>	
-<script type="text/JavaScript" src="/sitewide/core/javaScript/search/search.js"></script>
-
-<script>var baseDomain = 'http://www.logoonline.com';</script>
-
-<script type="text/javascript">
-function fbs_click() {
-u=location.href;
-t=document.title;
-window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436'); return false;
-}
-</script>
-
-<script type="text/javascript" src="http://www.mtv.com/sitewide/fbml/scripts/utils.jhtml?flip=true"></script>
 <script type="text/JavaScript" src="/sitewide/scripts/gen.js"></script>
-
-<link href="/sitewide/core/style/components/navigation.css" rel="stylesheet" type="text/css">
-<link href="/sitewide/core/style/components/search.css" rel="stylesheet" type="text/css">
-
-<link href="/sitewide/core/style/components/master.css" rel="stylesheet" type="text/css">
-<link href="/sitewide/core/style/components/header.css" rel="stylesheet" type="text/css">
-<link href="/sitewide/core/style/components/flux.css" rel="stylesheet" type="text/css">
-<link href="/sitewide/core/style/components/buttons.css" rel="stylesheet" type="text/css">
-<link href="/sitewide/core/style/components/contentContainer.css" rel="stylesheet" type="text/css">
-
-<link href="/sitewide/core/style/block_container_wrapper/block_container_wrappers.css" rel="stylesheet" type="text/css">
-<link href="/sitewide/core/style/layout.jhtml" rel="stylesheet" type="text/css">
-
-
-
-
-<!--[if IE]> 
-<style type="text/css" media="screen">
-.bigBlue{
-opacity:.25;
-filter: alpha(opacity=80);
+<script>
+function openpopup_294f(url){
+window.open(url, "Get Logo", "width=770,height=552");
 }
-</style> 
-<![endif]-->
-<div name="big_blue" id="big_blue" class="bigBlue" style="float:left; position:absolute; left:0; top:0; z-index: 150000; display:none"></div>
+</script>
+
+<link href="/about/css/consistency_style.css" rel="stylesheet" type="text/css">
 <style>
-@media screen and (-webkit-min-device-pixel-ratio:0){ html{ /* need this so that Safari3 can use window.getMatchedCSSRules to collect CSSStyleRule later */ list-style-image:none; } .your_own_selector{ color:red; } }
+.navTabInactive {
+height:35px;
+width:100px;
+display:relative;
+float:left;
+margin-right:5px;
+background-image:url(/sitewide/core/assets/buttons/showsNavigation/seriesNavTab_inActive.gif);
+color:#00285a;
+font-weight:bold;
+font-size:15px;
+}
+
+.navTabInactive:hover{
+background-image:url(/sitewide/core/assets/buttons/showsNavigation/seriesNavTab_active.gif);
+color:#FFFFFF;
+}
+
+.navTabActive {
+height:35px;
+width:100px;
+display:relative;
+float:left;
+margin-right:5px;
+background-image:url(/sitewide/core/assets/buttons/showsNavigation/seriesNavTab_active.gif);
+color:#FFFFFF;
+font-weight:bold;
+font-size:15px;
+}
+
+#labelDisplay {
+width:100px;
+margin-top:10px;
+}
+
+.faqContent{
+color:#666666;
+font-family:verdana,arial;
+font-size:10px;
+}
+
+#siteContent .header{
+background:none!important;
+width:auto!important;
+height:auto!important;
+margin-top:auto!important;
+border:none!important;
+}
+
 </style>
 
-<div id="overlay" style="z-index: 500000;; position:absolute; top:100px; display:none; margin: 0px auto;">
-<div style="margin:0px auto; position:relative; width:342px;">
-<div id="dialogue" style="z-index: 500000; position:absolute; top:0px; left:0px;">
-<div id="dialogue-inner" style="z-index:50; width:340px; margin-top:0px; margin-left0px;position:relative;float:left;"> 
-<iframe id="communityUpload" name="communityUpload" frameborder="0" scrolling="no" class="hide" style="position:relative; width:0px; height: 0px; left:-8px;position:relative;float:left;"></iframe>
-<div id="dialogueContainer" style="z-index:50; position:absolute; top:0px; width:340px;"></div>
-</div>
-</div>
-</div>
-</div>
+<script type="text/javascript" src="/sitewide/core/javaScript/jQuery/jquery.delay.js"></script>
 
-<div id="pageShell">
-<div id="header">
-
-<script>video_keyvals='null';</script>
+<script>
+video_keyvals='';
+</script>
 
 <script>
 secparams="_hp"; //homepage default
@@ -323,402 +366,588 @@ zone = zone.replace("/9", "/_9");
 secname=secparams.split("/")[0];
 ex_cats = "!category="+secname+";";
 </script>
-<div id="IE6Message" style="width:100%;">
-<script type="text/javascript">
-//<![CDATA[
-
-//IE 6 Detection and messaging
-var is_ie6 = (
-window.external &&
-typeof window.XMLHttpRequest == "undefined"
-);
-
-if (is_ie6) {
-var msg_html = "<p style=\"padding: 25px 25px; background-color:#0B72BF; font-weight:bold; color:#fff;\">"+
-"<span style=\"color:#E94300; font-size:20px;\">WARNING</span><br> You are accessing LogoOnline.com using Internet Explorer version 6.0. " +
-"Given that you will encounter numerous display issues with the site, we encourage you to " +
-"<a style=\"color:#fff; text-decoration:underline;\" href=\"http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx\">upgrade Internet Explorer</a> or use a <a style=\"color:#fff; text-decoration:underline;\" href=\"http://www.mozilla.com/en-US/firefox/personal.html\">different web browser</a.</p>" 
-
-document.getElementById('IE6Message').innerHTML = msg_html;
-}
-
-//]]>
-</script>
-</div>
-<div id="header_expand">
-<div id="flux_menu">
-
-<script src="http://widgetsak.flux.com/-/Runtime.js"></script><script src="http://widgetsak.flux.com/-/Context.js?communityUcid=06F4FFFF009B10200002FFFFF406"></script><script src="/global/scripts/flux/AkamaiFix.jhtml"></script>
-<script type="text/javascript">
-// Akamai fix
-Flux.Utils.WidgetsLoader._widgetUrlTemplate.classic = Flux.Utils.WidgetsLoader._widgetUrlTemplate.classic.replace('http://widgets.flux.com/', 'http://widgetsak-mtv.flux.com/');
-Flux.Utils.WidgetsLoader._widgetUrlTemplate.pbt = Flux.Utils.WidgetsLoader._widgetUrlTemplate.pbt.replace('http://widgets.flux.com/', 'http://widgetsak-mtv.flux.com/');
-</script>
-<script type="javascript">
-Flux.Core.addStyleSheet = function(styleSheet) {
-var style = document.createElement('style');
-style.setAttribute('type', 'text/css');
-document.getElementsByTagName('head')[0].appendChild(style);
-
-if (Sys.Browser.agent == Sys.Browser.InternetExplorer) {
-var el = document.createElement('div');
-var body = document.getElementsByTagName('body')[0];
-body.insertBefore(el, body.firstChild);
-el.style.display = 'none';
-el.innerHTML = String.format('<br><style>{0}</style>', styleSheet);
-} else {
-style.textContent = styleSheet;
-}
-}
-</script>
-
-<script type="text/javascript">
-if (typeof(Flux) != 'undefined') {
-Flux.Utils.WidgetsLoader.createWidget(
-'QuickMenu2', {accessKey: 'cde1fcea-7aee-45e4-bb2a-14f892b8befa',textFont: 'Helvetica',textFontSize: '11px',textColor: '#38608F',linkColor: '#38618F',borderStyle: 'solid',borderColor: '#38618F',menuBackground: '#FFFFFF',menuItemBackground: '#F0F5FA'});
-}
-</script>
-
-</div>
-<div id="xoxo_signup">
-<a title="Sign up for our XOXOlogo newsletter" onclick="javascript:window.open('http://ebm.mail.logoonline.com/r/regf2?a=0&amp;aid=1327847037&amp;n=1', 'xoxopop', 'width=700, height=500, scrollbars=yes, resizable=no');">Sign up for our XOXOlogo newsletter</a>
-</div> 
-</div>
-<div id="header_main">
-<div style="width:217px; height:90px; float:left; position:relative;">
-<div style="width:217px; height:20px;">	
-</div>
-<div style="width:217px; height:70px; float:left; position:relative;">
-<a title="LogoOnline Homepage" href="/index.jhtml"><span style="width:217px; height:70px; float:left; position:relative;"></span></a>
-</div>
-</div>
-
-<div id="header_advertisement_728x90">
-
 <script>
+function removeInvalidCharsFrom(myString) {
+var escapedString = myString.replace(/\W/g, "_");
+return escapedString;
+}
 
-com.mtvi.ads.AdManager.setDefaultContentType("adj");
-com.mtvi.ads.AdManager.setDartSite("logoonline.mtvi");
-com.mtvi.ads.AdManager.setPositionThreshold(1);
-com.mtvi.ads.AdManager.setKeyValues("site=logoonline;dcopt=ist;!category=video;!category=expand;!category=pop;!category=3rdparty;!category=eyeblaster;!category=eyewonder;"+ex_cats);
-com.mtvi.ads.AdManager.setZoneOverride("atf_j_s/"+zone);
-com.mtvi.ads.AdManager.setDefaultSections(secparams);
-com.mtvi.ads.AdManager.placeAd({size:"728x90"});	
+</script>
+<script type="text/javascript" src="http://www.mtv.com/sitewide/fbml/scripts/utils.jhtml?flip=true"></script>
+<script type="text/javascript" src="/sitewide/scripts/community2/main.jhtml"></script>
+<script type="text/javascript" src="/sitewide/scripts/gen.js"></script>
 
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/logoonline.mtvi/atf_j_s/web/_20091213073957id_/http_3A//www_logoonline.com/about/privacy_policy;sec0=web;sec1=_20091213073957id_;sec2=http_3A;sec3=www_logoonline;site=logoonline;!category=video;!category=expand;!category=pop;!category=3rdparty;!category=eyeblaster;!category=eyewonder;!category=web;pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=site-logoonline|!category-video|!category-expand|!category-pop|!category-3rdparty|!category-eyeblaster|!category-eyewonder|!category-web|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=122894303541323580?"></script>	
+<style>
+.topMenuBar, .topMenuBar div, .topMenuBar li{
+z-index:600 !important;
+}
 
-</div>
-<div id="navigation_main">
+#opa-header{
+width:976px;
+margin-left:auto;
+margin-right:auto;
+background:url("/sitewide/css/images/opaBackground.png") repeat-x scroll center center transparent;
+padding-top:5px;
+z-index:0;
+}
 
-<div class="menu">
-<ul>
-<li>
-<a href="/video" class="firstItemPost firstItemRightPost" target="_self"><span style="float:left">Watch Video</span></a>
-<ul class="leftbutton">
-<div style="border-style: solid; border-color: rgb(242, 55, 0) rgb(102, 102, 102) rgb(140, 153, 172); border-width: 3px 1px 1px; margin-top: -5px; margin-left: -5px; position: relative; float: left; width: 205px; z-index: 999;">
-<li>
-<a href="/video/showall.jhtml" target="_self" class="shadeGrey">Video Just Added</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2016" target="_self" class="shadeWhite">Full Length Movies</a>
-</li>
-<li>
-<a href="/video/showall.jhtml#A to Z" target="_self" class="shadeGrey">Video A to Z</a>
-</li>
-<li class="lowerDivider">
-<a href="/video/franchise.jhtml?ctid=1768" target="_self" class="shadeWhite">Music Videos</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2494" target="_self" class="shadeGrey">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch Previews of "RuPaul's Drag Race" Season 2</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2100" target="_self" class="shadeWhite">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch Movies from Logo's Fall Film Festival</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2493" target="_self" class="shadeGrey">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch Previews of "The Robert Verdi Show Starring Robert Verdi"</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/misc/462423/big-gay-sketch-show-season-3-preview-dazzle-vodka.jhtml?id=1612112" target="_self" class="shadeWhite">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch Previews of "The Big Gay Sketch Show" Season 3</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=1911" target="_self" class="shadeGrey">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch 7 Full Seasons of "Bad Girls"</div>
-</div>
-</a>
-</li>
-</div>
-</ul>
-</li>
-<li>
-<a href="/shows" class="firstItemPost firstItemRightPost" target="_self"><span style="float:left">Shows &amp; Schedule</span></a>
-<ul class="leftbutton">
-<div style="border-style: solid; border-color: rgb(242, 55, 0) rgb(102, 102, 102) rgb(140, 153, 172); border-width: 3px 1px 1px; margin-top: -5px; margin-left: -5px; position: relative; float: left; width: 205px; z-index: 999;">
-<li>
-<a href="/schedule/" target="_self" class="shadeGrey">TV Schedule</a>
-</li>
-<li>
-<a href="/shows/" target="_self" class="shadeWhite">Latest Logo Shows</a>
-</li>
-<li class="lowerDivider">
-<a href="/sitemap.jhtml#series" target="_self" class="shadeGrey">Shows A to Z</a>
-</li>
-<li>
-<a href="/shows/dyn/rupauls_drag_race_2/videos.jhtml" target="_self" class="shadeWhite">"RuPaul's Drag Race" Season 2 Homepage</a>
-</li>
-<li>
-<a href="/specials/best_of/2009/index.jhtml" target="_self" class="shadeGrey">2009 Year In Review</a>
-</li>
-<li>
-<a href="/shows/dyn/gimme_sugar_miami/series.jhtml" target="_self" class="shadeWhite">"Gimme Sugar: Miami" Homepage</a>
-</li>
-<li>
-<a href="/shows/dyn/beautiful_people/series.jhtml" target="_self" class="shadeGrey">"Beautiful People" Homepage</a>
-</li>
-<li>
-<a href="/shows/events/short_films/" target="_self" class="shadeWhite">Vote for your favorite short film</a>
-</li>
-</div>
-</ul>
-</li>
-<li>
-<a href="http://www.365gay.com" class="firstItemPost firstItemRightPost" target="_self"><span style="float:left">News, Music &amp; Blogs</span></a>
-<ul class="leftbutton">
-<div style="border-style: solid; border-color: rgb(242, 55, 0) rgb(102, 102, 102) rgb(140, 153, 172); border-width: 3px 1px 1px; margin-top: -5px; margin-left: -5px; position: relative; float: left; width: 205px; z-index: 999;">
-<li>
-<a href="http://www.365gay.com/" target="_self" class="shadeGrey">Breaking Gay News</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=1768" target="_self" class="shadeWhite">NewNowNext Music</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2073" target="_self" class="shadeGrey">NewNowNext PopLab</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=1767" target="_self" class="shadeWhite">The Click List: Top 10 Videos</a>
-</li>
-<li class="lowerDivider">
-<a href="/shows/dyn/the_click_list/video_voting.jhtml" target="_self" class="shadeGrey">Vote For Click List Videos</a>
-</li>
-<li>
-<a href="http://www.365gay.com/expert/" target="_blank" class="shadeWhite">365gay.com's Ask the Expert</a>
-</li>
-<li>
-<a href="http://www.afterellen.com/" target="_blank" class="shadeGrey">Women in Entertainment</a>
-</li>
-<li>
-<a href="http://www.afterelton.com/" target="_blank" class="shadeWhite">Men in Entertainment</a>
-</li>
-<li>
-<a href="http://www.newnownext.com/" target="_blank" class="shadeGrey">NewNowNext.com's Daily Pop Culture Updates</a>
-</li>
-</div>
-</ul>
-</li>
-<li>
-<a href="http://www.tripoutgaytravel.com" class="firstItemPost firstItemRightPost" target="_self"><span style="float:left">Travel</span></a>
-<ul class="leftbutton">
-<div style="border-style: solid; border-color: rgb(242, 55, 0) rgb(102, 102, 102) rgb(140, 153, 172); border-width: 3px 1px 1px; margin-top: -5px; margin-left: -5px; position: relative; float: left; width: 205px; z-index: 999;">
-<li class="lowerDivider">
-<a href="http://www.tripoutgaytravel.com" target="_self" class="shadeGrey">Gay Travel: Destinations and Reviews</a>
-</li>
-<li>
-<a href="/video/?id=1613192" target="_self" class="shadeWhite">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch New Episodes of "Bump!"</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=1921" target="_self" class="shadeGrey">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch "North America Travel" Video</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2135" target="_self" class="shadeWhite">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch "Europe Travel" Video</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2136" target="_self" class="shadeGrey">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch "Asia Travel" Video</div>
-</div>
-</a>
-</li>
-<li>
-<a href="/video/franchise.jhtml?ctid=2137" target="_self" class="shadeWhite">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch "Australia Travel" Video</div>
-</div>
-</a>
-</li>
-<li class="lowerDivider">
-<a href="/video/franchise.jhtml?ctid=2134" target="_self" class="shadeGrey">
-<div style="position: relative; float: left;">
-<div style="position: relative; float: left; width: 16px; margin-top: 5px;">
-<img src="/video/images/playlist/overlay-play.gif" border="0"></div>
-<div style="position: relative; float: left; width: 155px; margin-left: 5px;">Watch "South America Travel" Video</div>
-</div>
-</a>
-</li>
-</div>
-</ul>
-</li>
-<li>
-<a href="http://shop.logoonline.com" class="firstItemPost firstItemRightPost" target="_self"><span style="float:left">Shop</span></a>
-<ul class="leftbutton">
-<div style="border-style: solid; border-color: rgb(242, 55, 0) rgb(102, 102, 102) rgb(140, 153, 172); border-width: 3px 1px 1px; margin-top: -5px; margin-left: -5px; position: relative; float: left; width: 205px; z-index: 999;">
-<li>
-<a href="http://shop.logoonline.com/DVD_stcVVcatId475206VVviewcat.htm" target="_blank" class="shadeGrey">DVDs</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/Music_stcVVcatId475207VVviewcat.htm" target="_blank" class="shadeWhite">Music</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/Books_stcVVcatId475205VVviewcat.htm" target="_blank" class="shadeGrey">Books</a>
-</li>
-<li class="lowerDivider">
-<a href="http://shop.logoonline.com/Gear_stcVVcatId475805VVviewcat.htm" target="_blank" class="shadeWhite">Gear</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/Noah-s-Arc_stcVVcatId475809VVviewcat.htm" target="_blank" class="shadeGrey">Buy: Noah's Arc</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/Rick---Steve_stcVVcatId486750VVviewcat.htm" target="_blank" class="shadeWhite">Buy: Rick &amp; Steve: Season 2</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/Out-at-the-Wedding-Front-Page_stcVVproductId59094098VVcatId474663VVviewprod.htm" target="_blank" class="shadeGrey">Buy: Out at the Wedding</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/The-L-Word_stcVVcatId505365VVviewcat.htm" target="_blank" class="shadeWhite">Buy: The L Word</a>
-</li>
-<li>
-<a href="http://shop.logoonline.com/LOGO-Shows_stcVVcatId475254VVviewcat.htm" target="_blank" class="shadeGrey">Buy: More Logo Shows</a>
-</li>
-</div>
-</ul>
-</li>
-<li>
-<a href="/about" class="firstItemPost currentSection firstItemRightPost" target="_self"><span style="float:left">About Logo</span></a>
-<ul class="leftbutton">
-<div style="border-style: solid; border-color: rgb(242, 55, 0) rgb(102, 102, 102) rgb(140, 153, 172); border-width: 3px 1px 1px; margin-top: -5px; margin-left: -5px; position: relative; float: left; width: 205px; z-index: 999;">
-<li>
-<a href="/about/events.jhtml" target="_self" class="shadeGrey">Events</a>
-</li>
-<li>
-<a href="/about/sweepstakes.jhtml" target="_self" class="shadeWhite">Sweepstakes</a>
-</li>
-<li>
-<a href="/about/get-logo.jhtml" target="_self" class="shadeGrey">Get Logo</a>
-</li>
-<li>
-<a href="/about/get-logo.jhtml?platform=2" target="_self" class="shadeWhite">TV Channel Lookup</a>
-</li>
-<li>
-<a onclick="javascript:window.open('http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1327847037&amp;n=100', 'pop', 'width=700, height=500, scrollbars=yes, resizable=no');" class="shadeGrey">Logo Newsletter</a>
-</li>
-<li>
-<a href="/about/contact.jhtml" target="_self" class="shadeWhite">Contact Logo</a>
-</li>
-<li>
-<a href="/about/faq.jhtml" target="_self" class="shadeGrey">FAQ</a>
-</li>
-<li class="lowerDivider">
-<a href="/sitemap.jhtml" target="_self" class="shadeWhite">Sitemap</a>
-</li>
-<li>
-<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=251720120&amp;id=37" target="_self" class="shadeGrey">Logo on iTunes</a>
-</li>
-</div>
-</ul>
-</li>
-</ul>
+#opa-header #adContainer{
+list-style:none outside none;
+margin:0;
+padding:0;
+}
+
+#opa-header #adContainer #leftPromo {
+list-style:none outside none;
+margin:0px; padding:0px;
+display:inline-block !important;
+width:238px;
+float:left;
+}
+
+#opa-header #adContainer #leftPromo #leftPromo-content{
+display:none; /*jQuery Will Set To 'block' if 728x90 Ad Loads*/
+width:218px;
+height:70px;
+overflow:hidden;
+border:1px solid #4B4B4B;
+margin-left:10px;
+margin-top:10px;
+position:relative;
+float:left;
+background:url("/sitewide/views/bafaPromoModule/images/BAFA_Promo_BG.png") repeat-y scroll 0 0 transparent;
+}
+
+#opa-header #adContainer #ad-728x90{
+display:inline-block;
+text-align:right;
+margin:0px;
+padding:0px;
+text-align:center;
+}
+
+.bafaLeftContent{
+width:218px;
+height:70px;
+position:relative;
+float:left;
+font-size:11px;
+text-transform:uppercase;
+font-weight:lighter;
+text-align:left;
+font-family:Helvetica, Arial, sans-serif;
+line-height:13px;
+list-style-type:none;
+padding:0px;
+}
+
+.bafaLeftContent a{
+text-decoration:none;
+border:none;
+}
+
+.hasArrow{
+padding-right:10px;
+background: transparent url(/sitewide/views/bafaPromoModule/images/BAFA_Promo_linkBg_off.png) no-repeat scroll center right;
+position:relative;
+*float:left;
+}
+
+.lowerDivider{
+border-bottom:2px solid #B2B6C1;
+}
+
+textarea {
+resize: none;
+}
+
+/* HEADER */
+div#search {
+background-image: none;
+}
+/* ADS */
+li#ad-728x90 {
+margin-bottom: 5px;
+}
+div#marquee_container {
+position: relative; 
+z-index: 100; 
+display: block; 
+overflow: hidden; 
+float: left; 
+margin-left: 10px;
+margin-top: 0px; 
+}
+div#ad300x250_homepage_div {
+overflow: hidden; 
+width: 300px; 
+height: 250px; 
+float: right;
+z-index: 80;
+margin-top: 25px; 
+margin-right: 10px; 
+position: relative;
+}
+iframe#ad300x250_homepage_iframe {
+height: 250px;
+width: 300px;
+}
+/* QUICKMENU FIX FOR IE7 */
+.userThumbnail {
+*position:relative;
+*top:-6px;
+}
+.greeting {
+*position:relative;
+*top:-2px;
+}
+.profile {
+*position:relative;
+*top:-2px;
+}
+.more {
+*position:relative;
+*top:-2px;
+}
+.signOut {
+*position:relative;
+*top:-2px;
+}
+.customLinksContainer {
+*position:relative;
+*top:-2px;
+}
+.pnlDelimiter {
+position:relative;
+top:-2px;
+}	
+/* MAIN CONTAINER */
+div#supercontainer {
+position: relative; 
+float: left; 
+margin: 0px; 
+background-color: #FFF; 
+width: 976px;
+}
+/* GUTTERS */
+div#gutterLeft {
+position: absolute; 
+top: 0pt; 
+left: 0pt; 
+height: 1035px; 
+width: 340.5px;
+}
+div#gutterRight {
+position: absolute; 
+top: 0pt; 
+right: 0pt; 
+height: 1035px; 
+width: 340.5px;
+}
+</style>
+<!--[if IE 8]>
+<style>
+#opa-header #adContainer #ad-728x90{
+display:block;
+}
+</style>
+<![endif]-->
+</head>
+<body class="smallSearch">
+
+<script type="text/javascript">
+
+function applySponsorship(_package) {
+if (clickGutter != "true") {
+clickGutter = _package.find('clickGutter').attr('enabled');
+clickGutterUrl = jQuery.trim(_package.find('clickGutter').text());
+}
+if (_package.find('pixelTracker').attr('enabled') == "true") {
+var fileref = document.createElement("img");
+fileref.setAttribute("src", _package.find('pixelTracker').text());
+arrPixelTracker.push(fileref);
+}
+skinSource = _package.find('skinSource').text();
+
+// Inject stylesheet override
+var fileref = document.createElement("link");
+fileref.setAttribute("rel", "stylesheet");
+fileref.setAttribute("type", "text/css");
+fileref.setAttribute("href", skinSource);
+document.getElementsByTagName("body")[0].appendChild(fileref);
+
+return true;	// return false; = escape the .each loop, to apply only the first valid sponsorship.
+}
+
+</script>
+<div class="topMenuBar noindex">
+<div id="topMenuBarContainer">
+<div id="flux_menu">
+<script src="http://widgets3.flux.com/Loader" type="text/javascript" id="06F4FFFF009B10200002FFFFF406"></script>
+<script type="text/javascript">
+Flux.createWidget('QuickMenu', {showFBConnectButton:true});
+</script>
 </div>
 
+<div id="xoxo_signup">
+<a onclick="javascript:window.open('http://ebm.mail.logoonline.com/r/regf2?a=0&amp;aid=1327847037&amp;n=1', 'xoxopop', 'width=700, height=500, scrollbars=yes, resizable=no');" title="Sign up for our XOXOlogo newsletter">Sign up for our XOXOlogo newsletter</a>
 </div>
-<div id="search">
+</div>
+</div>
+
+<!-- logo header feed -->
+
+<!-- header html start -->
+<!-- header head start -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" media="screen, print, projection" href="/sitewide/css/charlie/header.css">
+
+<!-- search box -->
+<script type="text/JavaScript" src="/sitewide/core/javaScript/search/search.js"></script>
+<script type="text/JavaScript">
+searchTerm="";
+srchType="";
+searchFail="";
+</script>
+<!-- end search box -->
+
+<!-- autocomplete code for the search box -->
+<script type="text/javascript" src="/sitewide/core/javaScript/dojo/dojo.js"></script>
+
+<script type="text/JavaScript">
+dojo.hostenv.setModulePrefix('utils', 'utils');
+dojo.widget.manager.registerWidgetPackage('utils');
+dojo.require("utils.AutoComplete");
+</script>
+
+<!-- end autocomplete code for the search box -->
+
+<!-- header head end -->
+<!-- header body start -->
+<div class="header noindex">
+
+<a id="logo" href="/"></a>
+
+<ul class="dropdown dropdown-horizontal" id="mainMenu">
+<li><a class="dir" href="/video">Watch Video</a><ul>
+<li class="shadeGrey"><a href="/video/showall.jhtml">Video Just Added</a></li>
+<li class="shadeWhite"><a href="/video/franchise.jhtml?ctid=2016">Full Length Movies</a></li>
+<li class="shadeGrey"><a href="/video/showall.jhtml#A to Z">Video A to Z</a></li>
+<li class="shadeWhite lowerDivider"><a href="/video/franchise.jhtml?ctid=1768">Music Videos</a></li>
+<li class="shadeGrey play"><a href="/shows/the_a_list_new_york/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Watch Full Episodes of "The A-List: New York"</a></li>
+<li class="shadeWhite play"><a href="/shows/arrangement/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Watch Full Episodes of "The Arrangement"</a></li>
+<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=1924"><img src="/video/images/playlist/overlay-play.gif">Watch Full-length Documentaries</a></li>
+<li class="shadeWhite play"><a href="/shows/rupauls_drag_race/season_3/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Watch Bonus Video from "RuPaul's Drag Race Season 3"</a></li>
+</ul>
+</li>
+<li><a class="dir" href="/shows">Shows &amp; Schedule</a><ul>
+<li class="shadeGrey"><a href="/schedule/">TV Schedule</a></li>
+<li class="shadeWhite"><a href="/shows/">Latest Logo Shows</a></li>
+<li class="shadeGrey lowerDivider"><a href="/sitemap.jhtml#series">Shows A to Z</a></li>
+<li class="shadeWhite lowerDivider"><a href="/shows/events/short_films/top_ranked.jhtml">Vote for Your Favorite Short Films</a></li>
+<li class="shadeGrey"><a href="/shows/one_girl_five_gays/series.jhtml">"1 Girl 5 Gays" Homepage</a></li>
+<li class="shadeWhite"><a href="/shows/the_a_list_new_york/series.jhtml">"The A-List: New York" Homepage</a></li>
+<li class="shadeGrey"><a href="/shows/arrangement/series.jhtml">"The Arrangement" Homepage</a></li>
+<li class="shadeWhite"><a href="/shows/rupauls_drag_race/season_3/series.jhtml">"RuPaul's Drag Race Season 3" Homepage</a></li>
+</ul>
+</li>
+<li><a class="dir" href="http://www.newnownext.com/">News, Music &amp; Blogs</a><ul>
+<li class="shadeGrey"><a href="http://www.newnownext.com/">NewNowNext Blog</a></li>
+<li class="shadeWhite"><a href="/video/franchise.jhtml?ctid=1768">NewNowNext Music</a></li>
+<li class="shadeGrey"><a href="/video/franchise.jhtml?ctid=2073">NewNowNext PopLab</a></li>
+<li class="shadeWhite"><a href="/video/franchise.jhtml?ctid=1767">The Click List: Top 10 Videos</a></li>
+<li class="shadeGrey lowerDivider"><a href="/shows/dyn/the_click_list/video_voting.jhtml">Vote For Click List Videos</a></li>
+<li class="shadeWhite"><a href="http://www.365gay.com/expert/">365gay.com Ask the Expert</a></li>
+<li class="shadeGrey"><a href="http://www.365gay.com/">365gay.com News</a></li>
+<li class="shadeWhite"><a href="http://www.afterellen.com/">AfterEllen.com</a></li>
+<li class="shadeGrey"><a href="http://www.afterelton.com/">AfterElton.com</a></li>
+</ul>
+</li>
+<li><a class="dir" href="http://www.tripoutgaytravel.com">Travel</a><ul>
+<li class="shadeGrey lowerDivider"><a href="http://www.tripoutgaytravel.com">Gay Travel: Destinations and Reviews</a></li>
+<li class="shadeWhite play"><a href="/video/?id=1613192"><img src="/video/images/playlist/overlay-play.gif">Watch New Episodes of "Bump!"</a></li>
+<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=1921"><img src="/video/images/playlist/overlay-play.gif">Watch "North America Travel" Video</a></li>
+<li class="shadeWhite play"><a href="/video/franchise.jhtml?ctid=2135"><img src="/video/images/playlist/overlay-play.gif">Watch "Europe Travel" Video</a></li>
+<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=2136"><img src="/video/images/playlist/overlay-play.gif">Watch "Asia Travel" Video</a></li>
+<li class="shadeWhite play"><a href="/video/franchise.jhtml?ctid=2137"><img src="/video/images/playlist/overlay-play.gif">Watch "Australia Travel" Video</a></li>
+<li class="shadeGrey play lowerDivider"><a href="/video/franchise.jhtml?ctid=2134"><img src="/video/images/playlist/overlay-play.gif">Watch "South America Travel" Video</a></li>
+</ul>
+</li>
+<li><a class="dir" href="http://shop.logoonline.com">Shop</a><ul>
+<li class="shadeGrey"><a href="http://shop.logoonline.com/DVD_stcVVcatId475206VVviewcat.htm">DVDs</a></li>
+<li class="shadeWhite"><a href="http://shop.logoonline.com/Music_stcVVcatId475207VVviewcat.htm">Music</a></li>
+<li class="shadeGrey"><a href="http://shop.logoonline.com/Books_stcVVcatId475205VVviewcat.htm">Books</a></li>
+<li class="shadeWhite lowerDivider"><a href="http://shop.logoonline.com/Gear_stcVVcatId475805VVviewcat.htm">Gear</a></li>
+<li class="shadeGrey"><a href="http://shop.logoonline.com/category/27868090281/1/The-Big-Gay-Sketch-Show.htm">Buy: "The Big Gay Sketch Show"</a></li>
+<li class="shadeWhite"><a href="http://shop.logoonline.com/category/37923487961/1/Buffy-the-Vampire-Slayer.htm">Buy: "Buffy"</a></li>
+<li class="shadeGrey"><a href="http://shop.logoonline.com/Noah-s-Arc_stcVVcatId475809VVviewcat.htm">Buy: Noah's Arc</a></li>
+<li class="shadeWhite"><a href="http://shop.logoonline.com/Rick---Steve_stcVVcatId486750VVviewcat.htm">Buy: Rick &amp; Steve: Season 2</a></li>
+<li class="shadeGrey"><a href="http://shop.logotv.com/search.htm?keyword=nip%2Ftuck">Buy: Nip/Tuck</a></li>
+<li class="shadeWhite"><a href="http://shop.logoonline.com/LOGO-Shows_stcVVcatId475254VVviewcat.htm">Buy: More Logo Shows</a></li>
+</ul>
+</li>
+<li><a class="dir open" href="/about">About Logo</a><ul>
+<li class="shadeGrey"><a href="/about/events.jhtml">Events</a></li>
+<li class="shadeWhite"><a href="/about/sweepstakes.jhtml">Sweepstakes</a></li>
+<li class="shadeGrey"><a href="/about/get-logo.jhtml">Get Logo</a></li>
+<li class="shadeWhite"><a href="/about/get-logo.jhtml?platform=2">TV Channel Lookup</a></li>
+<li class="shadeGrey"><a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1327847037&amp;n=100">Logo Newsletter</a></li>
+<li class="shadeWhite"><a href="/about/contact.jhtml">Contact Logo</a></li>
+<li class="shadeGrey"><a href="/about/faq.jhtml">FAQ</a></li>
+<li class="shadeWhite lowerDivider"><a href="/sitemap.jhtml">Sitemap</a></li>
+<li class="shadeGrey"><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=251720120&amp;id=37">Logo on iTunes</a></li>
+</ul>
+</li>
+</ul>
+<div id="search" style="background-image: none;">
 <div id="tabs">
-<ul class="header-search-tabs" id="header-search-tabs">
-<li class="active" id="header-search-logo" onclick="toggle_divs('header-search-logo', 'header-search-web', 'header-search-video', 'searchterm', '0');">
-<a class="active" href="javascript:toggle_divs('header-search-logo', 'header-search-web', 'header-search-video', 'searchterm', '0');">LOGOonline</a>
+<ul id="header-search-tabs" class="header-search-tabs">
+<li onclick="toggle_divs('header-search-logo', 'header-search-web', 'header-search-video', 'searchterm', '0');" id="header-search-logo" class="active">
+<a href="javascript:toggle_divs('header-search-logo', 'header-search-web', 'header-search-video', 'searchterm', '0');" class="active">LogoTV.com</a>
 </li>
-<li class="inactive" id="header-search-video" onclick="toggle_divs('header-search-video', 'header-search-logo', 'header-search-web', 'searchterm', '1');">
-<a class="inactive" href="javascript:toggle_divs('header-search-video', 'header-search-logo', 'header-search-web', 'searchterm', '1');">Logo Video</a>
+<li onclick="toggle_divs('header-search-video', 'header-search-logo', 'header-search-web', 'searchterm', '1');" id="header-search-video" class="inactive">
+<a href="javascript:toggle_divs('header-search-video', 'header-search-logo', 'header-search-web', 'searchterm', '1');" class="inactive">Logo Video</a>
 </li>
-<li class="inactive" id="header-search-web" onclick="toggle_divs('header-search-web', 'header-search-logo', 'header-search-video', 'searchterm', '2');">
-<a class="inactive" href="javascript:toggle_divs('header-search-web', 'header-search-logo', 'header-search-video', 'searchterm', '2');">Web</a>
+<li onclick="toggle_divs('header-search-web', 'header-search-logo', 'header-search-video', 'searchterm', '2');" id="header-search-web" class="inactive">
+<a href="javascript:toggle_divs('header-search-web', 'header-search-logo', 'header-search-video', 'searchterm', '2');" class="inactive">Web</a>
 </li>
 </ul>
-</div> 
+</div>
 <div id="form">
 <form id="searchForm" name="searchForm" autocomplete="off" onsubmit="return true;" action="javascript:runPortableSearch('searchterm', toggleSearchType);">
 <div id="searchField">
 <label>
-<input type="text" value="Search LOGOonline" onclick="javascript:removePortableDefaultSearchText('searchterm', toggleSearchType);" onblur="javascript:resetPortableDefaultSearchText('searchterm', toggleSearchType);" onkeypress="handleKeyPress(event)" id="searchterm" name="searchterm">
+<input type="text" value="Search LogoTV.com" onclick="javascript:removePortableDefaultSearchText('searchterm', toggleSearchType);" onblur="javascript:resetPortableDefaultSearchText('searchterm', toggleSearchType);" onkeypress="handleKeyPress(event)" id="searchterm" name="searchterm">
 <input type="hidden" id="searchtype" name="searchtype" value="logoonline">
 <input type="hidden" value="0" name="start" id="start">
 </label>
 </div>
 <div id="searchButton">
-<a href="javascript:runPortableSearch('searchterm', toggleSearchType);" onclick="this.blur();" title="Search">
-<span>
-</span>
+<a title="Search" onclick="this.blur();" href="javascript:runPortableSearch('searchterm', toggleSearchType);">
+<span></span>
 </a>
 </div>
-<dojo:autocomplete formid="searchForm" textboxid="searchterm" debug="true" action="/sitewide/core/search/proxy.jhtml">
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript" id=""></script>
+</form>
+</div>
+</div>
+</div>
+<!-- header body end -->
+<!-- header html end -->
 
-</dojo:autocomplete></form></div>
+<div id="opa-header" class="noindex">
+<ul id="adContainer">
+<li id="leftPromo">
+<div id="leftPromo-content" style="display: block;">
+<ul style="width: 218px; display: block; position: relative; float: left; list-style-type: none; padding: 0px; margin: 0px; top: -560px;">
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/Arrangement_135x70.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/Arrangement" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #ffcd32;">Put the petal to the metal on Facebook!&nbsp; </span><span style="color: #FFF;"></span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/alist_logotalk_3_135x70.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/AListNY" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #f0f0f0;">Are you A-List?&nbsp; </span><span class="hasArrow" style="color: #e2bd00;">Tell us on Facebook!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/bafa_promo_dragu.png) no-repeat scroll 0px 0px;"><a href="http://www.dragulator.com/" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #fff;">Go from zero to fabulous with the&nbsp; </span><span class="hasArrow" style="color: #ff6699;">Dragulator!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_signup.png) no-repeat scroll 15px 50%;"><a onclick="javascript:popNewsletter();" href="#" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Get the latest from Logo!&nbsp; </span><span class="hasArrow" style="color: #FFF;">Sign Up For Our Newsletters!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/logo" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Connect With Us On Facebook!&nbsp; </span><span style="color: #FFF;"></span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/RuPaul.png) no-repeat scroll 0px 0px;"><a href="http://www.twitter.com/rupaulsdragrace/" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #e95591;">RuPaul's Drag Race is on Twitter!&nbsp; </span><span style="color: #FFF;"></span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_twitter.png) no-repeat scroll 15px 50%;"><a href="http://www.twitter.com/LogoTV" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #FFF;">We tweet, you win.&nbsp; </span><span class="hasArrow" style="color: rgb(75, 200, 254);">Follow LogoTV for exclusive contests!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_downelink.png) no-repeat scroll 15px 50%;"><a href="http://www.downelink.com/" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: rgb(0, 148, 254);">Join the largest LGBT social network,&nbsp; </span><span class="hasArrow" style="color: #FFF;">Downelink</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://apps.facebook.com/rupaul-drag-name?_fb_fromhash=515670f141b42b5cb97c1774908b9bd0" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Hey Miss Thang, what's your drag name?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Try our Facebook app!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/NewNowNext" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Are you ahead of the music curve?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Add NewNowNext!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/RuPaulsDragRace" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Love RuPaul's Drag Race?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Connect with other fans!</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_sweepstakes.png) no-repeat scroll 15px 50%;"><a href="http://ebm.mail.logoonline.com/r/regf2?a=0&amp;aid=1327847037&amp;n=1" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #FF5B71;">Wanna win?&nbsp; </span><span class="hasArrow" style="color: #F0F0F0;">Get our sweepstakes only newsletter!</span></td>
+</tr>
+</tbody></table></a></li>
+</ul>
 </div>
-</div>
-</div>
-<div id="content">
-<div id="content_container">
+</li>
+<li id="ad-728x90" style="margin-bottom: 5px; display: inline-block;">
+<script type="text/javascript">
+var vPair = "";
 
-<div style="width:955px; height:100px; position:relative; float:left; margin-bottom:10px;">
+mtvn.btg.config.AdSettings.DoubleClick["dartSite"] = 'logoonline.mtvi';
+
+var keyvals="site=logoonline;!category=video;!category=expand;!category=pop;!category=3rdparty;!category=eyeblaster;!category=eyewonder;"+ex_cats+vPair;
+mtvn.btg.config.AdSettings.DoubleClick["keyValues"] = keyvals;
+mtvn.btg.config.AdSettings.DoubleClick["defaultContentType"] = 'adj';
+mtvn.btg.config.AdSettings.DoubleClick["positionThreshold"] = '1';
+mtvn.btg.config.AdSettings.DoubleClick["zone"] = "atf_j_s/"+zone;	
+//Place Ad
+mtvn.btg.ads.AdManager.placeAd(
+{
+size:'728x90',
+sections:secparams,
+keyValues:keyvals
+}
+);
+mtvn.btg.config.AdSettings.DoubleClick["dartSite"] = 'logoonline.mtvi';
+</script>
+</li>
+</ul>
+</div>
+
+<script>
+$(this).delay(500,function(){
+$("#ad-728x90 img").each(function( intIndex ){
+if($(this).width() == 1){
+$(this).width(0);
+$(this).height(0);
+}
+});
+
+$("#ad-728x90 iframe").each(function( intIndex ){
+if($(this).width() == 0){
+$(this).css("display","none");
+}
+});
+
+var goBig = false;
+var goBigInt = 0;
+
+$("#ad-728x90 div").each(function( intIndex ){
+$(this).css("marginLeft","0px");
+$(this).css("paddingLeft","0px");
+if($(this).width() == 970){
+goBigInt = goBigInt + 1;
+}
+});
+
+$("#ad-728x90 iframe").each(function( intIndex ){
+$(this).css("marginLeft","0px");
+$(this).css("paddingLeft","0px");
+if($(this).width() == 970){
+goBigInt = goBigInt + 1;
+}
+});
+
+$("#ad-728x90 embed").each(function( intIndex ){
+$(this).css("marginLeft","0px");
+$(this).css("paddingLeft","0px");
+});
+
+if(goBigInt != 0){
+goBig = true;
+}
+
+if(goBig == true){
+//console.log('big header');
+$("#opa-header").css("paddingTop","2px");
+$("#ad-728x90").css("marginBottom","2px");
+$('#leftPromo').remove();
+$("#ad-728x90").css("text-align", "center");
+$("#ad-728x90").width(976);
+var iHTML = $("#ad-728x90").html();
+if(iHTML.indexOf("unicast") != -1){
+var IE = /*@cc_on!@*/false;
+if(IE){
+$("#ad-728x90").css("marginLeft","-4px");
+}
+} else {
+$("#ad-728x90").css("marginLeft","2px");
+}
+} else {
+//console.log('small header');
+$('#opa-header #adContainer #leftPromo #leftPromo-content').css("display","block");
+$('#opa-header #adContainer #leftPromo #leftPromo-content ul').css("display","block");
+var numberOfItems = 0;
+$("#leftPromo-content ul li").each(function( intIndex ){
+numberOfItems = numberOfItems + 1;
+});
+var rand_no = Number(Math.floor((Number(numberOfItems)-0)*Math.random()) + 1)-1;
+var tweenValue = -Number(70*rand_no);
+$("#leftPromo-content ul").css({top:tweenValue+'px', display:'block'});
+$("#ad-728x90").css("marginBottom","5px");
+$("#ad-728x90").css("display","inline-block");
+}
+});
+
+// Get max z-index value from all the "group" elements and its descendants
+function getMaxZindex(group) {
+var zmax = 0;
+$(group).each(function() {
+//	alert("element: " + $(this) + " name: " + $(this).attr("name") + " id: " + $(this).attr("id"));
+var cur = parseInt($(this).css('z-index'));
+zmax = cur > zmax ? cur : zmax;
+
+$(this).find("*").each(function() {
+//	alert("element: " + $(this) + " name: " + $(this).attr("name") + " id: " + $(this).attr("id"));
+
+var zchild = parseInt($(this).css('z-index'));
+zmax = zchild > zmax ? zchild : zmax;
+});
+});
+return zmax;
+}
+
+// The following script makes sure that the nav menu popups are always on top of the opa ads and marquee
+$(document).ready(function() {
+// Handler for .ready() called.
+var maxZindex = getMaxZindex("#adContainer, .hp_topStage");
+$("#mainMenu").css("z-index", "" + (maxZindex + 10) + " !important");
+});
+</script>
+
+<div id="siteContent">
+<div id="supercontainer">
+
+<div style="width:955px; height:100px; position:relative; float:left; margin-bottom:10px; margin-top:10px; margin-left:10px;">
 <img src="http://www.logoonline.com/sitewide/headerfooter/img/aboutlogo.jpg">
 </div>
-<div style="width:955px; height:35px; position:relative; float:left;">
+<div style="width:955px; height:35px; position:relative; float:left; margin-left:25px; margin-top:10px;">
 <a href="/about/" title="About Logo">
 
 <span class="navTabInactive">
@@ -783,14 +1012,13 @@ com.mtvi.ads.AdManager.placeAd({size:"728x90"});
 </span>
 </a>
 </div>
-<div style="width:955px; height:10px; background-color:#36a4b2; position:relative; float:left;">
-</div>
-<div style="width:955px; position:relative; float:left; display:block;">
+<div style="width: 976px; height: 10px; background-color: rgb(54, 164, 178); position: relative; float: left;"></div>
+<div style="width:955px; position:relative; float:left; display:block; margin-left:10px; margin-bottom:15px;">
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="pad-about">
-<p align="right"><a name="privacy" id="privacy"></a><a name="OLE_LINK2" id="OLE_LINK2"></a><a name="OLE_LINK1" id="OLE_LINK1"></a><strong>Last Modified: November 24, 2009</strong></p><br>
+<p align="right"><a name="privacy" id="privacy"></a><a name="OLE_LINK2" id="OLE_LINK2"></a><a name="OLE_LINK1" id="OLE_LINK1"></a><strong>Last Modified: September 3, 2010</strong></p><br>
 <p><strong><u>Go to </u></strong> <a href="http://www.logoonline.com/about/terms-of-use.jhtml"><strong>Terms of Use Agreement</strong></a><strong> </strong></p>
 <p align="center"><strong>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</strong></p>
 <p><strong>This is the privacy policy (“<u>Privacy Policy</u>”) for LOGOonline.com ("<u>Site</u>," "<u>we</u>," "<u>us</u>," or "<u>our</u>"), an Internet website</strong><strong>offered in cooperation with the Logo television channel or programming service (“<u>Logo Channel</u>”)</strong>.<strong>&nbsp;</strong><strong> The </strong>Logo<strong> Channel and the Site (together, “</strong>Logo<strong>”) are provided by MTV Networks ("<u>MTVN</u>"), a division of&nbsp;Viacom International Inc. (together, MTVN and Viacom International Inc., the “<u>Parent Companies</u>”).&nbsp; </strong>&nbsp;&nbsp;</p>
@@ -806,14 +1034,17 @@ com.mtvi.ads.AdManager.placeAd({size:"728x90"});
 9.&nbsp;&nbsp; <strong><u>Your California Privacy Rights</u>.</strong><br>
 10. <strong><u>Changes to this Privacy Policy and Notice</u>.</strong> <br>
 11. <strong><u>Miscellaneous</u>.</strong></p>
+
 <p><a name="OLE_LINK6" id="OLE_LINK6"></a><a name="OLE_LINK5" id="OLE_LINK5"><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When This Privacy Policy Applies. </strong></a></p>
 <p>This Privacy Policy applies whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a “<u>Device</u>”) and whether you are accessing the Site as a registered user (if offered by the Site) or other user of the Site.&nbsp; <strong>This Privacy Policy&nbsp;governs only the&nbsp;Personal Information and Other Information (as those terms are defined below) collected by the Site and does not cover any such information collected in any other manner (such as by the Logo Channel not through the Site) or by any other website offered by Logo, the Parent Companies</strong> and/or any subsidiaries and affiliates of the Parent Companies (collectively, “<u>Affiliates</u>”)<strong> or collected by any other company, unless specifically stated.&nbsp; </strong>We may from time to time, combine Information (as that term is defined below) with other information we collect from other sources, such as information received from our Parent Companies, Affiliates, marketing companies or Advertisers and, if we do so, our use of the resulting combined Information will be subject to this Privacy Policy.</p>
 <p>This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason.&nbsp; If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.</p>
+
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. Governing Law. </strong></p>
 <p>The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.&nbsp; We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. <strong>&nbsp;</strong>By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our <a href="http://www.logoonline.com/about/terms-of-use.jhtml"><strong>Terms of Use Agreement</strong></a>.&nbsp; If you are do not meet the age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.</p>
 <p>If you are located in the European Union or elsewhere outside of the U.S., you do so at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws.&nbsp; [Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.&nbsp; By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the U.S., (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law.&nbsp; If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with<strong> </strong>this Privacy Policy and the <a href="http://www.socialproject.com/PrivacyPolicy.html"><strong>Flux Privacy Policy</strong></a> and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. </p>
+
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). </strong></p>
-<p>When we use the term "<u>Personal Information</u>" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. &nbsp;&nbsp;When we use the term “<u>Other Information</u>”, we mean any information other than Personal Information collected by the Site <strong>(Personal Information and Other Information, together, the “<u>Information</u>”).&nbsp; </strong><br>
+<p>When we use the term "<u>Personal Information</u>" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. &nbsp;&nbsp;When we use the term “<u>Other Information</u>”, we mean any information other than Personal Information that may be collected about you <strong>(Personal Information and Other Information, together, the “<u>Information</u>”).&nbsp; </strong><br>
 <br>
 <strong>a. &nbsp; Information We Collect that You Provide Us.</strong><strong>&nbsp; </strong></p>
 <p><strong>i.&nbsp; User Registration.</strong>&nbsp; To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your “<u>User ID</u>”) and may be required to also provide other Information, such as your email address and date of birth.&nbsp; Additional Information may be requested during the registration process (but not required).&nbsp; <a name="_DV_M95" id="_DV_M95"></a><a name="_DV_M102" id="_DV_M102"></a></p>
@@ -821,10 +1052,11 @@ com.mtvi.ads.AdManager.placeAd({size:"728x90"});
 <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="OLE_LINK4" id="OLE_LINK4"></a><a name="OLE_LINK3" id="OLE_LINK3">&nbsp; </a></strong></p>
 <p><strong>iii. In Connection with Promotions such as Contests and Sweepstakes.</strong>&nbsp; There may be a separate registration process to enter Promotions such as contests and sweepstakes which may require the submission of&nbsp;all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth.&nbsp; Additional Information may be requested depending on the specific Promotion, but submission of such Information may be optional.&nbsp; The Promotion’s entry page and/or Rules will provide the specific requirements.&nbsp; You&nbsp;may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (“<u>Advertisers</u>”) as a result of your use of the Site in connection with many of these types of Promotions. </p>
 <p><strong>b. &nbsp; </strong><strong>Information Collected Through Use of Cookies and Other Tracking Technologies.&nbsp; </strong></p>
-<p>The Site and/or third parties may use<strong> “</strong>cookies”, “web beacons” (also known as image tags, GIF or web bugs), “embedded scripts” and other similar tracking technologies (collectively, “<u>Tracking Technologies</u>”) to collect Other Information automatically as you browse the Site and the web.<strong> </strong></p>
-<p>We use Tracking Technologies to collect “click stream” data and additional Other Information regarding your visits to the Site, such as your visits to the Site’s webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site (“<u>Identifier</u>”).&nbsp; Your Identifier is automatically assigned to the Device you use to access the Site.&nbsp; Your Personal Information is not collected as part of this process. &nbsp;&nbsp;By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site. </p>
+<p>“Cookies“ (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. “Web beacons“ (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. The Site and/or third parties may use<strong> “</strong>cookies”, “web beacons” and other similar tracking technologies (collectively, “<u>Tracking Technologies</u>”) to collect Other Information automatically as you browse the Site and the web.<strong> </strong></p>
+<p>We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize
+your experience on this Site (for example, to recognize you by name when you return to the Site), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information", "Other Information Collected by Us" section below. These Tracking Technologies collect “click stream” data and additional Other Information regarding your visits to the Site, such as your visits to the Site’s webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site (“<u>Identifier</u>”).&nbsp; Your Identifier is automatically assigned to the Device you use to access the Site.&nbsp; Your Personal Information is not collected as part of this process. &nbsp;&nbsp;By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies. </p>
 <p>This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “<u>Third Party Advertising Service Providers</u>”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“<u>Targeting Services</u>”).&nbsp; These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited.&nbsp; Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. </p>
-<p>Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser and/or they may otherwise have access to Other Information about you.</p>
+<p>Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.</p>
 <p><strong>c.&nbsp;&nbsp; Use of Information.</strong> &nbsp;</p>
 <p>As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates.&nbsp; </p>
 <p><strong>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Personal Information</u></strong>.&nbsp; We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:</p>
@@ -857,31 +1089,37 @@ com.mtvi.ads.AdManager.placeAd({size:"728x90"});
 <li>For other purposes disclosed at the time you provide the Other Information.</li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>iii.&nbsp; <u>Other Information Collected by Third Party Advertising Service Providers and Advertisers</u></strong>.&nbsp; The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours.&nbsp; Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information.&nbsp; This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you.<strong>&nbsp; </strong>Use of Third Party Advertising Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Advertising Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.&nbsp; However, please see “<strong>Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)”</strong> Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.</p>
-<p><strong>4.&nbsp;&nbsp; Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).&nbsp; </strong></p>
+<p><strong>iii.&nbsp; <u>Other Information Collected by Third Party Advertising Service Providers and Advertisers</u></strong>.&nbsp; The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours.&nbsp; Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with
+their advertisements or promotions and other sites you encounter on the Internet.&nbsp; This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you.<strong>&nbsp; </strong>Use of Third Party Advertising Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Advertising Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.&nbsp; However, please see “<strong>Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)”</strong> Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.</p>
+
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).</strong></p>
 <p><strong>a.&nbsp;&nbsp; Opting-Out of Certain Uses of Personal Information.</strong></p>
 <p><strong>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Connection with Marketing and Promotional Email and Offers. </strong><br>
 You may "opt-out" of receiving marketing and promotional e-mails from us at any time by using the Site’s preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties by going to the Site’s home page, clicking the "Your Account" link, to (1) un-register your account, or (2) change or<strong> </strong>edit your preferences.&nbsp; <strong></strong></p>
 <p><strong>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Connection with Wireless Marketing Services.</strong>&nbsp; See “<strong>Termination of Wireless Services by Users</strong>” under the “Wireless Marketing Services and Associated Promotional Opportunities” Section for more information on how you may unsubscribe from receiving text messages.<br>
 <strong>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certain Continuing Rights Regardless of Opt-Outs</strong>.&nbsp; However, even if you exercise your opt-out rights above,<strong> </strong>we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the “<strong>Use of Information</strong>” Section above, such as for maintenance and administrative purposes.<strong> </strong></p>
 <p><strong>b.&nbsp;&nbsp; Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.</strong></p>
-<p>With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:</p>
+<p><strong>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.
+</strong></p><p><strong>With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:</strong></p><strong>
 <ul>
-<li>With respect to the serving of ads by DoubleClick to you, please visit <a href="http://www.doubleclick.com/privacy/index.aspx"><strong>DoubleClick’s Privacy Policy</strong></a> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. </li>
-<li>To opt-out of Tracking Technologies set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp"><strong>Network Advertising Initiative’s Privacy Policy</strong></a> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. </li>
-<li>You can choose to delete the Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature.&nbsp;&nbsp; </li>
-<li>You can choose to disable or turn Tracking Technologies off.&nbsp; Additional information on disabling or turning Tracking Technologies off may be available through your browser’s support feature.</li>
+<li>With respect to the serving of ads by DoubleClick to you, please visit <a href="http://www.doubleclick.com/privacy/index.aspx"><strong>DoubleClick’s Privacy Policy</strong></a> for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.</li>
+<li>To opt-out of most Tracking Technologies (other than Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp"><strong>Network Advertising Initiative’s Privacy Policy</strong></a> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.</li>
+<li>You can choose to delete most Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)&nbsp;&nbsp; </li>
+<li>You can choose to reject, disable or turn most Tracking Technologies off (other than Flash cookies).&nbsp; Additional information on rejecting, disabling or turning most Tracking Technologies off may be available through your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)</li>
 </ul>
 <p>&nbsp;</p>
-<p>Opting-out of, deleting or disabling Third Party Advertising Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads.&nbsp;&nbsp; Opting-out to, deleting or disabling Third Party Advertising Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. </p>
-<p>With respect to the Tracking Technologies set by the Site, you have a number of options:</p>
+<p>Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads.&nbsp;&nbsp; Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. </p>
+<p><strong>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tracking Technologies Set By the Site.
+</strong></p><p><strong>With respect to the Tracking Technologies set by the Site, you have a number of options:</strong></p><strong>
 <ul>
-<li>You can choose to delete the Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature.&nbsp;&nbsp; </li>
-<li>You can choose to disable or turn Tracking Technologies off.&nbsp; Additional information on disabling or turning Tracking Technologies off may be available through your browser’s support feature.</li>
-<li>You can choose to have the Device you use to access the Site warn you each time a cookie, image tag or other Tracking Technology is being sent, or you can choose to turn off such warnings.&nbsp; This is done through your browser on the Device you use to access the Site.&nbsp; Additional information on warnings and removal of warnings may be available through your browser’s support feature.</li>
+<li>You can choose to delete most Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)&nbsp;&nbsp; </li>
+<li>You can choose to disable or turn most Tracking Technologies off (other than Flash cookies).&nbsp; Additional information on disabling or turning most Tracking Technologies off may be available through your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)</li>
+<li>You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies are being sent (other than Flash cookies), or you can choose to turn off such warnings.&nbsp; This is done through your browser on the Device you use to access the Site.&nbsp; Additional information on warnings and removal of warnings may be available through your browser’s support feature.</li>
 </ul>
-<p>Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. &nbsp;Further, if you delete or disable Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.<strong></strong></p>
-<p><strong>5.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wireless Marketing Services and Associated Promotional Opportunities. </strong></p>
+<p>Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. &nbsp;Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.</p>
+<p><strong>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flash Cookies. Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <a href="http://kb2.adobe.com/cps/526/52697ee8.html" target="new"><strong>http://kb2.adobe.com/cps/526/52697ee8.html</strong></a> or <a href="http://epic.org/privacy/cookies/flash.html" target="new"><strong>http://epic.org/privacy/cookies/flash.html</strong></a>.</strong>
+
+</p><p><strong>5.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wireless Marketing Services and Associated Promotional Opportunities. </strong></p>
 <p>Logo may provide users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from Logo, either by registering on the Site or via their wireless device.&nbsp; Such services and promotional opportunities are provided by the Parent Companies and/or Affiliates for Logo.&nbsp; The Information requested as part of the online registration process may include a user’s telephone number or a wireless email address, but only if specifically requested, and the carrier’s name.&nbsp; Additional Information may be requested for specific Promotions, such as a user’s preferences regarding goods or services, choices of music or artists, or other similar survey information.&nbsp; Depending on the Promotion, we may also collect an Internet email address or other Information and, depending on the Information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and the Terms of Use Agreement. <strong></strong></p>
 <p>We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party’s interception of messages or a user’s Personal Information when using a wireless communications device.</p>
 <p>Users that register for Logo’s wireless marketing services acknowledge, understand and agree that they will<strong> </strong>be charged by the user’s wireless carrier for all messages sent to the user from Logo.&nbsp; Standard messaging rates will apply, unless noted otherwise.&nbsp; <strong>Under no circumstances will the Site, </strong><strong>Logo</strong><strong>, its Parent Companies or Affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user’s wireless device, telephone number, or email address. </strong></p>
@@ -894,6 +1132,7 @@ You may "opt-out" of receiving marketing and promotional e-mails from us at any 
 <p><strong>c.</strong>&nbsp; <strong>Termination of Wireless Services by </strong>Logo<strong>.</strong>&nbsp; A user understands, acknowledges and agrees that Logo may, in its sole discretion and without liability to any user, terminate its offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice.&nbsp; Logo may provide notice of terminations or changes in services on this Site.</p>
 <p><strong>d.&nbsp; Use of Information.&nbsp; </strong>Logo will not use a wireless telephone number, wireless or conventional Internet email address, or other Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use.&nbsp; We will not share any Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure.&nbsp; We will share Personal Information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates. <br>
 &nbsp; <br>
+
 <strong>6. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing and Disclosure of Personal Information and Other Information.</strong><br>
 <strong>a.&nbsp;&nbsp; Sharing and Disclosure of Personal Information.</strong></p>
 <p>Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.&nbsp; </p>
@@ -911,6 +1150,7 @@ You may "opt-out" of receiving marketing and promotional e-mails from us at any 
 <li>In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination involving us, or our Parent Companies or Affiliates. </li>
 </ul>
 <p><strong>b.&nbsp;&nbsp; </strong><strong>Sharing and Disclosure of Other Information.</strong>&nbsp; We may share or otherwise disclose Other Information with third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy.&nbsp; </p>
+
 <p><strong>7</strong>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reviewing, Updating or Deleting Certain Information.&nbsp; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generally, you may review, update or delete certain Information collected by the Site, if you are a registered user of the Site and logged into the Site, by clicking “Profile” or your display name at the top of the Site and then selecting “Edit Profile”, clicking “MY ACCOUNT” on the homepage to sign in to your Site account with your User ID and then clicking on "YOUR ACCOUNT INFO" to change, update, or delete your Personal Information.&nbsp; However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information.&nbsp; We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID.&nbsp; <br>
 You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking “Profile” or your display name at the top of the Site, selecting “Edit Profile” or “Manage Account” and selecting the “Privacy” tab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -918,6 +1158,7 @@ Certain Information collected for certain entries into Promotions are subject to
 If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.&nbsp; <strong> </strong><br>
 <a name="_DV_M309" id="_DV_M309"></a><strong><u>Children or Ineligible Teenagers</u></strong><strong>.</strong>&nbsp; If we, or our Parent Companies or Affiliates, inadvertently send an email or text message to a person that does not meet the age and other eligibility requirements of the Site, such as a child (a person under the age of 13) or others who do not meet the greater age requirements of certain features of this Site (“<u>Ineligible Teenagers</u>”), the child (or Ineligible Teenager) or the child’s (or Ineligible Teenager’s) parent or legal guardian (the “<u>Parent</u>”) always has the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message.&nbsp; The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18, or the age of majority in your state).&nbsp; </p>
 <p>In addition, Parents of children or Ineligible Teenagers who wish to terminate their child’s or Ineligible Teenager’s membership must use their child’s or Ineligible Teenager’s User ID to gain direct access to the account, and follow the procedures in the “Deactivation/Termination of Your Registration or Use” Section of the <a href="http://www.logoonline.com/about/terms-of-use.jhtml"><strong>Terms of Use Agreement</strong></a> to terminate their child’s or Ineligible Teenager’s member; alternatively, Parents may send an email to the Site’s Privacy Administrator and provide us with your child’s or Ineligible Teenager’s User ID and request to terminate your child’s or Ineligible Teenager’s account and registration.<a name="_DV_M314" id="_DV_M314"></a>&nbsp; We will not allow direct access to a user’s account and Personal Information by any person without the user’s User ID.&nbsp; If a Parent does not have his or her child’s or Ineligible Teenager’s User ID, the Parent will be required to send an email to the Privacy Administrator that includes the Parent’s name, address, telephone and email address, in addition to the child’s or Ineligible Teenager’s name and email address as registered on the Site, plus the child’s or Ineligible Teenager’s date of birth.&nbsp; The Parent must also provide verifiable identification that they are the parent or legal guardian of the child or Ineligible Teenager. Logo will send a confirming email to the Parent via the email address provided to verify that the Parent wishes to terminate his or her child’s or Ineligible Teenager’s account and registration.&nbsp; The Parent must then confirm by sending a reply email to the designated return address.&nbsp; Logo will then terminate the child’s or Ineligible Teenager’s account but will notify the child or Ineligible Teenager of the termination request via email and will identify the name, address and email address of the person making the request. <strong></strong></p>
+
 <p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Protection of Information.</strong></p>
 <p>While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information.&nbsp; However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.&nbsp; We conduct financial transactions via secured transmissions but may not always secure other parts of the Site.&nbsp; We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.&nbsp; We request that our operational service providers follow similar standards of security and confidentiality. </p>
 <p><strong><u>Phishing</u></strong><strong>.</strong>&nbsp; Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.&nbsp; “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.&nbsp; <strong>WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!</strong>&nbsp; If you receive such email communication, please print it out and send it immediately to the Site’s Privacy Administrator at the address below, and then immediately delete the fraudulent email from your computer.</p>
@@ -926,6 +1167,7 @@ If the burden or expense of providing access to your Information is disproportio
 New York, NY 10036<br>
 Attn: Your California Privacy Rights<br>
 c/o Privacy Administrator</strong></p>
+
 <p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your California Privacy Rights.&nbsp; </strong><br>
 If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as “<u>unsubscribe</u>”) or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes.&nbsp; Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. <br>
 <br>
@@ -939,8 +1181,10 @@ c/o Privacy Administrator<br>
 </strong><br>
 <strong>All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request</strong>. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) <strong>We will not accept requests via the telephone or by facsimile</strong>. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.<br>
 <br>
+
 <strong>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Changes to this Privacy Policy and Notice. </strong></p>
 <p>We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you.&nbsp; Such revisions shall be effective immediately upon posting.&nbsp; Notice of material changes will be posted on the Site’s homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion.&nbsp; However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates.&nbsp; </p>
+
 <p><strong>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miscellaneous. </strong></p>
 <p><strong>a.&nbsp;&nbsp; Accuracy and Confidentiality. &nbsp;&nbsp;</strong>It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.&nbsp; <strong>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete</strong> <strong>information or Personal Information or you fail to update such information or Personal Information.&nbsp; </strong>We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy. </p>
 <p>You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your User ID (whether used by you or any others who use your User ID), unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party. &nbsp;&nbsp;We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions.<strong> </strong></p>
@@ -954,25 +1198,21 @@ c/o Privacy Administrator</strong></p>
 <p><strong>c.&nbsp;&nbsp; Sole Statement:</strong> This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.</p>
 <p><strong>d.&nbsp;&nbsp; Other:</strong>&nbsp; <strong>Please review </strong>our <a href="http://www.logoonline.com/about/terms-of-use.jhtml"><strong>Terms of Use Agreement</strong></a> which governs your use of the Site.&nbsp; Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.&nbsp; </p>
 <p>This Privacy Policy was last modified on the date indicated above and is effective immediately.<br>
-Copyright © 2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
+Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
 
-</td>
+</strong></strong></td>
 </tr>
 </tbody></table>
 </div>
 
 </div>
 </div>
-</div>
-<div id="footer">
-ï»¿<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="33%">&nbsp;</td>
-<td width="33%">
+
+<div class="footer noindex">
 <div id="footer_content">
 <div id="footer_left">
 <div align="center">
-<img height="50" width="105" src="/sitewide/images/footer/icon-infinity.gif">
+<img width="105" height="50" src="/sitewide/images/footer/icon-infinity.gif">
 </div>
 <div id="footer_legal">
 © 2008 Viacom International Inc.
@@ -985,25 +1225,16 @@ AfterEllen.com is not affiliated with Ellen DeGeneres. AfterElton.com is not aff
 </div>
 <div id="footer_right">
 <div id="footer_navigation">
-<table cellspacing="0" cellpadding="0" border="0" width="745" style="position: relative; top: -11px;">
-<tbody><tr>
-<td width="91">
-<a href="/video/">Watch Video</a>
-</td><td>|</td><td width="66">
-<a href="/shows/">Shows</a>
-</td><td>|</td><td width="141">
-<a href="/music/">News, Music &amp; Blogs</a>
-</td><td>|</td><td width="80">
-<a href="http://www.tripoutgaytravel.com">Gay Travel</a>
-</td><td>|</td><td width="71">
-<a href="/schedule/">Schedule</a>
-</td><td>|</td><td width="51">
-<a href="http://shop.logoonline.com/?campaign1=Logoonline_Header_Footer">Shop</a>
-</td><td>|</td><td>
+<a style="float: right;" class="fbutton2 sitemapIcon" href="/sitemap.jhtml"><span></span></a>
+<div id="footer_mainNavigation">
+<a href="/video/">Watch Video</a> |
+<a href="/shows/">Shows</a> |
+<a href="http://www.newnownext.com/">News, Music &amp; Blogs</a> |
+<a href="http://www.tripoutgaytravel.com">Gay Travel</a> |
+<a href="/schedule/">Schedule</a> |
+<a href="http://shop.logoonline.com/?campaign1=Logoonline_Header_Footer">Shop</a> |
 <a href="/about/">About Logo</a>
-</td><td width="140" align="right">
-<a href="/sitemap.jhtml" class="fbutton2 sitemapIcon"><span></span></a>
-</td></tr></tbody></table>
+</div>
 <div id="footer_subNavigation">
 <a href="/about/asm/adspecs.jhtml">Advertising Info</a> |
 <a href="/about/terms-of-use.jhtml">Terms of Use</a> |
@@ -1013,66 +1244,56 @@ AfterEllen.com is not affiliated with Ellen DeGeneres. AfterElton.com is not aff
 </div>
 <div id="footer_otherSitesWrapper">
 <div id="footer_otherSitesHeader">
-<span style="color:#7e7e7e; font-size:12px;">Visit Our Other Sites:</span>
+<span style="color: rgb(126, 126, 126); font-size: 12px;">Visit Our Other Sites:</span>
 </div>
 <div id="footer_otherSitesContent">
 <ul id="footer_otherSitesContentBlocks">
-<li><div class="fbutton3"><a title="Lesbian Video &amp; Entertainment News" target="_blank" href="http://www.afterellen.com"><img src="/sitewide/img/spacer.gif" class="aellenIcon"></a><br><a title="Lesbian Video &amp; Entertainment News" target="_blank" href="http://www.afterellen.com">Lesbian</a> <a title="Lesbian Video &amp; Entertainment News" target="_blank" href="http://www.afterellen.com/taxonomy/term/2689">Video</a> &amp;<br><a title="Lesbian Video &amp; Entertainment News" target="_blank" href="http://www.afterellen.com">Entertainment News</a></div></li>
-<li><div class="fbutton3"><a title="Gay Movies &amp; Entertainment News" target="_blank" href="http://www.afterelton.com"><img src="/sitewide/img/spacer.gif" class="aeltonIcon"></a><br><a title="Gay Movies" target="_blank" href="http://www.afterelton.com">Gay Movies</a> &amp;<br><a title="Entertainment News" target="_blank" href="http://www.afterelton.com">Entertainment News</a></div></li>
-<li><div class="fbutton3"><a title="Gay, Lesbian &amp; Gay Marriage" target="_blank" href="http://www.365gay.com"><img src="/sitewide/img/spacer.gif" class="threeSixFiveIcon"></a><br><a title="Gay, Lesbian &amp; Gay Marriage" target="_blank" href="http://www.365gay.com">Gay</a>, <a title="Gay, Lesbian &amp; Gay Marriage" target="_blank" href="http://www.365gay.com">Lesbian</a> &amp;<br><a title="Gay, Lesbian &amp; Gay Marriage" target="_blank" href="http://www.365gay.com/tag/gay-marriage">Gay Marriage</a> <a title="Gay, Lesbian &amp; Gay Marriage" target="_blank" href="http://www.365gay.com">News</a></div></li>
-<li><div class="fbutton3"><a title="Gay &amp; Lesbian Social Network" target="_blank" href="http://www.downelink.com"><img src="/sitewide/img/spacer.gif" class="downelinkIcon"></a><br><a title="Gay &amp; Lesbian Social Network" target="_blank" href="http://www.downelink.com">Gay &amp; Lesbian<br>Social Network</a></div></li>
-<li><div class="fbutton3"><a title="Tripout Gay Travel" target="_blank" href="http://www.tripoutgaytravel.com/"><img src="/sitewide/img/spacer.gif" class="tripoutIcon"></a><br><a title="Tripout Gay Travel" target="_blank" href="http://www.tripoutgaytravel.com/">Gay Travel</a><br><a title="Tripout Gay Travel" target="_blank" href="http://www.tripoutgaytravel.com/all-destinations">Destinations</a></div></li>
-<li><div class="fbutton3"><a title="Finding America's Next Drag Queen" target="_blank" href="http://www.rupaulsdragrace.com/"><img src="/sitewide/img/spacer.gif" class="rupaulIcon"></a><br><a title="Finding America's Next Drag Queen" target="_blank" href="http://www.rupaulsdragrace.com/">Finding America's Next</a> <a title="Finding America's Next Drag Queen" target="_blank" href="http://www.rupaulsdragrace.com/">Drag Queen</a></div></li>
-<li><div class="fbutton3"><a title="Gay Pop Culture &amp; Entertainment Blog" target="_blank" href="http://www.newnownext.com"><img src="/sitewide/img/spacer.gif" class="nnnIcon"></a><br><a title="Gay Pop Culture &amp; Entertainment Blog" target="_blank" href="http://www.newnownext.com">Gay</a> <a title="Gay Pop Culture &amp; Entertainment Blog" target="_blank" href="http://www.newnownext.com/celebs">Pop Culture</a> &amp; <a title="Gay Pop Culture &amp; Entertainment Blog" target="_blank" href="http://www.newnownext.com">Entertainment Blog</a></div></li>
+<li><div class="fbutton3"><a href="http://www.afterellen.com" target="_blank" title="Lesbian Video &amp; Entertainment News"><img class="aellenIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.afterellen.com" target="_blank" title="Lesbian Video &amp; Entertainment News">Lesbian</a> <a href="http://www.afterellen.com/taxonomy/term/2689" target="_blank" title="Lesbian Video &amp; Entertainment News">Video</a> &amp;<br><a href="http://www.afterellen.com" target="_blank" title="Lesbian Video &amp; Entertainment News">Entertainment News</a></div></li>
+<li><div class="fbutton3"><a href="http://www.afterelton.com" target="_blank" title="Gay Movies &amp; Entertainment News"><img class="aeltonIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.afterelton.com" target="_blank" title="Gay Movies">Gay Movies</a> &amp;<br><a href="http://www.afterelton.com" target="_blank" title="Entertainment News">Entertainment News</a></div></li>
+<li><div class="fbutton3"><a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage"><img class="threeSixFiveIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">Gay</a>, <a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">Lesbian</a> &amp;<br><a href="http://www.365gay.com/tag/gay-marriage" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">Gay Marriage</a> <a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">News</a></div></li>
+<li><div class="fbutton3"><a href="http://www.downelink.com" target="_blank" title="Gay &amp; Lesbian Social Network"><img class="downelinkIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.downelink.com" target="_blank" title="Gay &amp; Lesbian Social Network">Gay &amp; Lesbian<br>Social Network</a></div></li>
+<li><div class="fbutton3"><a href="http://www.tripoutgaytravel.com/" target="_blank" title="Tripout Gay Travel"><img class="tripoutIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.tripoutgaytravel.com/" target="_blank" title="Tripout Gay Travel">Gay Travel</a><br><a href="http://www.tripoutgaytravel.com/all-destinations" target="_blank" title="Tripout Gay Travel">Destinations</a></div></li>
+<li><div class="fbutton3"><a href="http://www.rupaulsdragrace.com/" target="_blank" title="RuPaul searches for America's Next Drag Queen"><img class="rupaulIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.rupaulsdragrace.com/" target="_blank" title="RuPaul searches for America's Next Drag Queen">RuPaul</a> <a href="http://www.rupaulsdragrace.com/" target="_blank" title="RuPaul searches for America's Next Drag Queen">searches for America's Next Drag Queen</a></div></li>
+<li><div class="fbutton3"><a href="http://www.newnownext.com" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog"><img class="nnnIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.newnownext.com" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog">Gay</a> <a href="http://www.newnownext.com/celebs" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog">Pop Culture</a> &amp; <a href="http://www.newnownext.com" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog">Entertainment Blog</a></div></li>
 </ul>
 </div>
 </div>
 </div>
+<div class="gft-row" id="gft-network"><div class="gft-row-header">MORE FROM MTV NETWORKS</div><div class="gft-row-subrow"><ul class="gft-col"><li class="gft-col-header">Music</li><li><a href="http://www.vh1.com/artists/az/lambert_adam_american_idol_/artist.jhtml">Adam Lambert</a></li><li><a href="http://www.mtv.com/music/artist/knowles_beyonce/artist.jhtml">Beyonce</a></li><li><a href="http://www.cmt.com/artists/az/paisley_brad/artist.jhtml">Brad Paisley</a></li><li><a href="http://www.vh1.com/artists/az/bruno_mars/artist.jhtml">Bruno Mars</a></li><li><a href="http://www.mtv.com/music/artist/aguilera_christina/artist.jhtml">Christina Aguilera</a></li><li><a href="http://www.vh1.com/music/you_oughta_know/grace_potter_and_the_nocturnals/main.jhtml">Grace Potter</a></li><li><a href="http://www.cmt.com/artists/az/johnson_jamey/artist.jhtml">Jamey Johnson</a></li><li><a href="http://www.cmt.com/artists/az/lady_antebellum/artist.jhtml">Lady Antebellum</a></li><li><a href="http://www.mtv.com/specials/michaeljackson/">Michael Jackson</a></li><li><a href="http://www.mtv.com/music/artist/pink/artist.jhtml">Pink</a></li><li><a href="http://www.mtv.com/music/artist/soulja_boy_tellem/artist.jhtml">Soulja Boy</a></li><li><a href="http://www.cmt.com/artists/az/sugarland/artist.jhtml">Sugarland</a></li><li><a href="http://www.cmt.com/artists/az/swift__taylor/artist.jhtml">Taylor Swift</a></li><li><a href="http://www.tr3s.com/music/artists/wisin--yandel/">Wisin Y Yandel</a></li><li><a href="http://www.cmt.com/video/music-videos/">Country Music Videos</a></li></ul><ul class="gft-col"><li class="gft-col-header">Shows</li><li><a href="http://www.mtv.com/news/topic/american_idol/">American Idol</a></li><li><a href="http://remotecontrol.mtv.com/tag/audrina-patridge/">Audrina Patridge</a></li><li><a href="http://www.vh1.com/shows/a_family_business/season_2/series.jhtml">Brandy and Ray J</a></li><li><a href="http://www.vh1.com/shows/bret_michaels_life_as_i_know_it/series.jhtml">Bret Michaels</a></li><li><a href="http://www.vh1.com/shows/celebrity_rehab_with_dr_drew/season_4/series.jhtml">Celebrity Rehab</a></li><li><a href="http://www.vh1.com/shows/events/critics_choice/_2011">Critics' Choice</a></li><li><a href="http://www.vh1.com/shows/fantasia_for_real/season_2/series.jhtml">Fantasia</a></li><li><a href="http://remotecontrol.mtv.com/tag/kristin-cavallari/">Kristin Cavallari</a></li><li><a href="http://remotecontrol.mtv.com/tag/lauren-conrad/">Lauren Conrad</a></li><li><a href="http://www.afterellen.com/">Lesbian TV</a></li><li><a href="http://www.vh1.com/shows/mario_lopez_saved_by_the_baby/series.jhtml">Mario Lopez</a></li><li><a href="http://remotecontrol.mtv.com/tag/whitney-port/">Whitney Port</a></li></ul><ul class="gft-col"><li class="gft-col-header">News</li><li><a href="http://www.thefablife.com">Celebrity News</a></li><li><a href="http://newsroom.mtv.com/category/top_categories/concerts/">Concert Reviews</a></li><li><a href="http://www.365gay.com/">Gay News</a></li><li><a href="http://www.mtv.com/news/latest/music.jhtml">Music News</a></li></ul><ul class="gft-col"><li class="gft-col-header">Documentaries</li><li><a href="http://www.mtv.com/shows/made/series.jhtml">Made</a></li><li><a href="http://www.mtv.com/shows/truelife/series.jhtml">True Life</a></li><li><a href="http://www.vbs.tv/watch/the-vice-guide-to-travel/vice-guide-to-north-korea-1-of-3">North Korea</a></li><li><a href="http://www.vbs.tv/watch/vbs-meets/miranda-july">Miranda July</a></li><li><a href="http://www.vbs.tv/watch/shot-by-kern/">Shot By Kern</a></li></ul><ul class="gft-col"><li class="gft-col-header">Entertainment</li><li><a href="http://www.addictinggames.com/">Games</a></li><li><a href="http://www.tripoutgaytravel.com/">Gay Travel</a></li><li><a href="http://www.LogoTV.com/">Gay Video</a></li><li><a href="http://www.thefablife.com/tag/kristen-stewart-photos">Kristen Stewart Photos</a></li><li><a href="http://www.thefablife.com/tag/lady-gaga-outfits/">Lady Gaga Outfits</a></li><li><a href="http://www.bestweekever.tv/tag/lost-recap/">Lost Recap</a></li><li><a href="http://www.shockwave.com/">Online Games</a></li><li><a href="http://www.thefablife.com/tag/rihanna-fashion/">Rihanna Fashion</a></li><li><a href="http://www.thefablife.com/tag/robert-pattinson-photos">Robert Pattinson Photos</a></li><li><a href="http://www.jokes.com/">Stand-Up Comedy</a></li><li><a href="http://remotecontrol.mtv.com/">TV Gossip</a></li><li><a href="http://www.bestweekever.tv/tag/viral-videos/">Viral Videos</a></li><li><a href="http://www.indecisionforever.com/">2010 Election Political Humor</a></li><li><a href="http://www.rockband.com">Rock Band</a></li></ul><ul class="gft-col"><li class="gft-col-header">Movies</li><li><a href="http://www.afterelton.com/">Gay Movies</a></li><li><a href="http://moviesblog.mtv.com/tag/harry_potter/">Harry Potter Movies</a></li><li><a href="http://splashpage.mtv.com/tag/iron-man-2/">Iron Man 2</a></li><li><a href="http://www.mtv.com/movies/">New Movies</a></li><li><a href="http://hollywoodcrush.mtv.com/category/twilight-categories/">Robert Pattinson</a></li><li><a href="http://www.nextmovie.com/">NextMovie</a></li></ul>
+</div>
+<div class="gft-row-subrow">
+<ul class="gft-col"><li class="gft-col-header">Sports</li><li><a href="http://www.allisports.com/athletes/ryan-sheckler">Ryan Sheckler</a></li><li><a href="http://www.allisports.com/sports/Skate">Skateboarding</a></li><li><a href="http://www.allisports.com/alli/snowboard">Snowboarding</a></li></ul></div></div>
+
+</div>
 </div>
 
-</td>
-<td width="33%">&nbsp;</td>
-</tr>
-</tbody></table>
+<div id="gutterLeft" style="width: 192px;"></div>
+<div id="gutterRight" style="width: 192px;"></div>
 
-<script>
-//1x2 survey ad - 9/09
-if (typeof show_1x2 != "undefined" && show_1x2==true) {
-com.mtvi.ads.AdManager.setKeyValues("mtype=standard;research=survey;!category=expand;!category="+secname);
-com.mtvi.ads.AdManager.placeAd({size:"1x2"});
-
-//1x2 survey ad - 6/08
-com.mtvi.ads.AdManager.setKeyValues("!category=video;!category=expand;!category=pop;!category=3rdparty;!category=eyeblaster;!category=eyewonder;");
-com.mtvi.ads.AdManager.setZoneOverride("btf_j_s/survey");
-com.mtvi.ads.AdManager.setDefaultSections(surveyparams);
-com.mtvi.ads.AdManager.placeAd({size:"1x2"}); 
+<script type="text/javascript">
+function resizeGutters(){
+var pageWidth = $("body").width();
+var gutterWidth = (pageWidth-976)/2;
+$('#gutterLeft').width(gutterWidth-3);
+$('#gutterRight').width(gutterWidth-3);
 }
 
+resizeGutters();
+
+$(window).resize(function() {
+resizeGutters();
+});
+
 </script>
 
-<script src="http://www.vh1.com/global/scripts/special/projx.jhtml?channelname=MTV%2C%20Vh1%2C%20Comedy%20Central%2C%20Spike%2C%20TV%20Land%20and%20BET" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=Logo"></script>
 
-</div>
+<!-- Key Lime Interactive Survey Calls - 3/10 -->
+<script type="text/javascript" charset="utf-8" src="https://server.userzoom.com/trueintent/js/uz_til.js"></script>
+<script type="text/javascript" language="javascript">uz_til.initialize('3787B7A3C12CDF11ADAC0019BBCA1734');</script>
 
-
-
-<div style="height:1px; overflow:hidden; position:relative; float:left; width:1px; display:none;">
-<script type="text/javascript">
-var _rsCI="us-logoonline";
-var _rsCG="0";
-var _rsDN="//secure-us.imrworldwide.com/";
-var _rsPLfl=0;
-var _rsSE=1;
-var _rsSM=1.0;
-var _rsCL=1;
-</script>
-
-<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
-<noscript>
-<div style="height:1px;"><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-logoonline&amp;cg=0&cc=1" alt=""/></div>
-</noscript>
-
-</div>
 
 <!-- PAGEOK -->
-<div>FATAL: Could not load 'utils.AutoComplete'; last tried '__package__.js'</div></body></html>
+
+
+</body></html>
