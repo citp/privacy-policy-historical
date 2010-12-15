@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptcommunity.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602035833id_/http%3A//www.gptcommunity.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptcommunity.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215190034id_/http%3A//www.gptcommunity.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # GPT Community
 
