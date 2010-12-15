@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621123804id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215162347id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
 
 # play.net >> Privacy Policy
 
@@ -44,6 +44,6 @@ Our site provides users with a **play.net** account the opportunity to change an
 
 > Stephanie Shaver  
 >  Simutronics Corporation  
->  1500 Wall Street  
->  St. Charles, MO 63303   
+>  218-C Millwell Drive  
+>  Maryland Heights, MO 63043   
 >  [webmaster@simutronics.com](mailto:webmaster@simutronics.com)
