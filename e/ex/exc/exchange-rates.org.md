@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exchange-rates.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618233400id_/http%3A//www.exchange-rates.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchange-rates.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215220708id_/http%3A//www.exchange-rates.org/Privacy.aspx) for the most accurate reproduction.*
 
-# Exchange Rates
+# Privacy Policy for Exchange-Rates.org - Exchange Rates
 
 The privacy of our visitors to exchange-rates.org is important to us. 
 
