@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601181428id_/http%3A//grownupgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215150733id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
 
-# GrownUpGeek.com Privacy and Content Policies | Help For Beginners
+# GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
+
+**Our Privacy Policy**
 
 **We Are Committed To Your Privacy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
-**The Information We Collect From You:**
+**The Membership Information We Collect From You:**
 
-This notice applies to all information collected or submitted on the GrownUpGeek.com website. The types of personal information collected when you sign up are: 
+This notice applies to all information collected or submitted on the GrownUpGeek.com website. The types of personal information collected when you sign up are:
 
 (user) Name   
 Email address   
@@ -16,45 +18,56 @@ Home Page (optional)
 Random information that you provide (optional) 
 
 
-**The Way We Use Information:**
+**The Way We Use Membership Information:**
 
-We use the information you provide about yourself when registering to verify that you have requested access to our site. _We do not share this information with outside parties_ \- EVER.
+We use the information you provide about yourself when registering for membership to verify that you have requested access to our site. _We do not share this information with outside parties_ \- EVER.
 
-If you activate the "Personal Contact Form" in your account to allow other members to contact you via the site, your email address is not disclosed. All members (including moderators and the site owners) are limited to sending _no more than three email messages per hour_ via the site-contact form. This three-message per hour limit is our way of protecting members from people that may try to use our site for spamming. Note that when sending a message to a member via their contact form, your email address will be disclosed to that member in the "from" address. 
+**Anti-Spam Data Collection For Anonymous And Non-Validated Users:**
+
+Our website uses the "[Akismet](http://akismet.com/)" Anti-Spam system.  By posting a message, you accept that your message and other details such as your IP address may be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Akismet's privacy policy](http://automattic.com/privacy/).  
 
 **eMail Address In Forum and Comment Posts:**
 
-To protect your privacy, posting of email address in comments for forum posts is not permitted. All posts containing email address are automatically unpublished and are either deleted or edited to remove the email address before being published. We do this to protect our members from spammers that may harvest your email address from our site. 
+To protect your privacy, posting of email address in comments or forum posts is not permitted. All posts containing email address are either deleted or edited to remove the email address before being published. We do this to protect our members from internet-scammers and spammers that may harvest your email address from our website.
+
+**IP Addresses In Our  Chat Room:**
+
+In order to maintain civility and to ensure personal responsibility while chatting in our chatroom, your IP address will be available to chat-room moderators.  If you do not wish that your IP address be made available, please do not use our chat room.
+
+**I** **P  Addresses In Posts & Comments:**
+
+In order to ensure personal responsiblity when making posts, all IP address are recorded.  The IP address of posts made anonymously are visible to members.  If you do not wish for your IP address to be visible, please sign-up for a free account or do not post anonymously.
 
 ### Cookies, 'Web Beacons' and Visitor Data Tracking
 
-We may place a 'cookie' on your computer or create a unique "session id" for purposes of remembering your preferences, pages viewed, etc. GrownUpGeek.com does not use cookies or session ID's for 'tracking' purposes or for gathering any personally identifiable information about you. If you choose, you may disable cookies in your web-browser to prevent use of such cookies. 
+We may place a 'cookie' on your computer or create a unique "session id" for purposes of remembering your preferences, pages viewed, etc. GrownUpGeek.com does not use cookies or session ID's for 'tracking' purposes or for gathering any personally identifiable information about you. If you choose, you may disable cookies in your web-browser to prevent use of such cookies.
 
-GrownUpGeek.com uses a combination of web-server logs and third-party analytical data gathering tools for the purposes of aggregate visitor traffic information which may set a cookie on your computer. The data collected by these third-party services may include information such as your IP address, type of web-browser, and computer operating system. 
+GrownUpGeek.com uses a combination of web-server logs and third-party analytical data gathering tools for the purposes of aggregate visitor traffic information which may set a cookie on your computer. The data collected by these third-party services may include information such as your IP address, type of web-browser, and computer operating system.
 
 Currently GrownUpGeek.com uses the following third-party visitor tracking tools:
 
 >   * Google Analytics  
-> <http://www.google.com/intl/en/privacy.html>
+>  <http://www.google.com/intl/en/privacy.html>
 > 
 
 
-GrownUpGeek.com does not use "web beacons" of any kind with the exception of third-party links or advertisers (see next section).  
-
+GrownUpGeek.com does not use "web beacons" of any kind with the exception of third-party links or advertisers (see next section).
 
 ### Third-party Advertisers, Links to Other Sites
 
 We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on GrownUpGeek.com. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
-GrownUpGeek does not provide any personally identifiable information to these third-party ad servers or ad networks. The advertiser(s) may also use information regarding your use of GrownUpGeek.com, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+GrownUpGeek does not provide any personally identifiable information to these third-party ad servers or ad networks. The advertiser may also use information regarding your use of GrownUpGeek.com, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. GrownUpGeek.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 Currently, GrownUpGeek.com has relationships with the following third-party ad servers or ad networks:
 
+  * Microsoft AdCenter-Publisher  
+<http://privacy.microsoft.com/en-us/default.mspx>
   * Kontera  
-<http://kontera.com/?id=47>
-  * Google, Inc.  
+<http://www.kontera.com/kontera-privacy-policy>
+  * Google, Inc*.  
 [http:/www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html)
   * Commission Junction  
 <http://www.cj.com/privacy.html>
@@ -62,64 +75,80 @@ Currently, GrownUpGeek.com has relationships with the following third-party ad s
 <https://secure.plimus.com/privacy.shtml>
   * ClickBank  
 <https://www.clickbank.com/privacy.html>
-  * Yahoo  
-<https://publisher.yahoo.com/legal/priv_policy.php>
-  * BidVertiser  
-<http://www.bidvertiser.com/bdv/BidVertiser/bdv_company.dbm>
+  * Chitika, Inc  
+<https://chitika.com/privacy_policy.php>
+  * IDG TechNetwork  
+<http://www.idgtechnetwork.com/terms/index.php>**  
+**
 
 
 
-**Premium Membership Payments and Data Gathering**
+ * _ **DoubleClick DART cookie:**_
 
-All data and payment information for [Premium Membership](https://web.archive.org/premium-membership "Premium Membership Information")[](https://web.archive.org/support-donations "Donation Information") is gathered and stored by [Google Checkout](https://checkout.google.com/buyer/tour.html "Google Checkout"). GrownUpGeek.com does not collect or store any financially related or personally identifiable information. 
+  * Google, one of our third party vendors, uses the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx)
+  * Google's use of the DART cookie enables it to serve ads to visitors of GrownUpGeek.com based on their visit to GrownUpGeek.com and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
->   * Google Checkout Privacy Policy[  
-> https://checkout.google.com/files/privacy.html](https://checkout.google.com/files/privacy.html "Google Checkout Privacy Policy")
-> 
 
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect and maintain or modify it by clicking the "My Account" link in the upper-left (grey) area of most pages on our website.
+Registered members can access all personally identifiable information that they have provided and maintain or modify it by clicking the "My Account" link in the upper-left (gray) area of most pages on our website.
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and procedures to safeguard and secure the information we collect online.
 
 **Cancellation of services**
 
-You may, at any time request to cancel your account and specify that all your data be removed from our servers. Please note that all posts, comments, or replies made by you on our website become the property of GrownUpGeek.com and will not be removed. Upon removal from our system all posts, comments or replies made by you will be re-attributed to the user "Anonymous".
+You may, at any time request to cancel your account and specify that all your personal data be removed from our servers. Please note that all posts, comments, replies, or any other content submitted by you become the property of grownupgeek.com and will not be removed.
 
-To request cancellation or removal from our system, you may email your request to: _Hubby@GrownUpGeek.com_ or send your request via postal mail. See below for our postal mail address.
+To request cancellation or removal from our system, you may email your request to: HELP _@GrownUpGeek.com_ or send your request via postal mail. See the bottom of this page for our postal mail address.
 
-**How To Contact Us**
+**
 
-Should you have other questions or concerns about these privacy policies you may contact us via email at: _Hubby@GrownUpGeek.com._
+Content & Usage Policy / Terms of Service
 
-Or by postal mail at the following address:
+**
 
-> > **iHelpers  
->  6331 Haven Avenue #13  
-> PMB-198  
-> Rancho Cucamonga, CA 91737**
-
-**Our Content Policy**
-
-  * GrownUpGeek.com is family website and as such, all posts made in our "open" forums must remain family friendly. 
-
-
+_GrownUpGeek.com is family website and as such, all posts must remain family friendly._
 
 **In all areas of the website, the following is not permitted:**
 
-  * Posts regarding illegal activity, or requests for information pertaining to anything illegal 
+  * Posts regarding illegal activity, or requests for information pertaining to anything illegal
   * Posts requesting to "hack" any _one_ in any way
-  * Posts that violate the privacy or well-being of others 
-  * Posts regarding illegal password cracking or illegally accessing any system 
-  * Posts or content including images or video that are hateful, overly distasteful, lewd, X-rated, obscene, offensive, or pornographic 
-  * Posts that contain any copyrighted material, including software code, Javascript code, or anything else that you do not own the right to re-distribute.
-  * Posting or embedding any "trackers", or any other form of tracking system or method to collect information without the knowledge of whom it is being collected from.  
-  * Solicitation of services in any form or "spamming" 
+  * Posts that violate the privacy or well-being of others
+  * Posts regarding illegal password cracking or illegally accessing any system
+  * Posts or content including images or video that are hateful, overly distasteful, lewd, X-rated, obscene, offensive, or pornographic
+  * Posts that contain any copyrighted material, including photos, software code, Javascript code, or anything else that you do not own the right to re-distribute.
+  * "Hotlinking" to images hosted on other sites that do not explicitly allow linking to images (such as ImageShack)
+  * Posts regarding gambling or gambling related websites
+  * Posting or embedding any "trackers", or any other form of tracking system or method to collect information without the knowledge of whom it is being collected from.
+  * Solicitation of services in any form or advertising/"spamming"  \- including promoting websites or other services, whether by posting, chatroom or our private messaging system.  For advertising information email your query to HELP@grownupgeek.com
 
 
 
-Members who violate these policies may be permanently banned from our website. For more information on warnings and reporting posts that violate our content polices, please [read how our negative feedback system](https://web.archive.org/how-to-complain) works and [THIS PAGE](https://web.archive.org/how-to-lose-your-bling "How to get yourself banned") on what will get you banned.
+**Confidentiality and Non Disclosure:**
+
+All information in our Premium Membership areas shall remain confidential.  By entering our Premium Membership areas you agree to keep confidential all information contained therein.
+
+**Content Ownership:**
+
+All posts, comments, forum topics, IM's, private messages, chats, blogs or other content that you submit become the property of GrownUpGeek.com and may be edited or deleted by site owners or moderators as deemed appropriate. By submitting content you grant GrownUpGeek.com unlimited license and your permission to retain all content submitted by you indefinitely.
+
+Re-distributing (i.e.; copy & pasting) content from GrownUpGeek.com to other websites, blogs, or any other media (electronic or analog), whether submitted by you or other members _may_ result in loss of privileges or your account being removed / blocked (banned). 
+
+* * *
+
+Members that violate these policies or any other rules may be asked not to return and may be permanently banned from our website. For more information on warnings and reporting posts that violate our content polices, please [read how our negative feedback system](https://web.archive.org/how-to-complain) works and [THIS PAGE](http://grownupgeek.com/how-to-lose-your-bling "What will get you banned from TheGuG") on what can get you banned from GrownUpGeek.com.  GrownUpGeek.com also reserves the right to cancel any account at any time at it's sole discretion.
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these policies you may contact us via email at: _HELP@GrownUpGeek.com._
+
+Or by postal mail at the following address:
+
+**iHelpers  
+P.O. Box 9591**
+
+**Rancho Cucamonga, CA 91701-8477**
