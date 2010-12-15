@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316222159id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215023019id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
 
-# Fitness Anywhere - Home of TRX and Suspension Training
+# Fitness anywhere Privacy policy disclose the privacy practices at our websites including www.fitnessanywhere.com
 
 This privacy notice discloses the privacy practices for [www.fitnessanywhere.com](http://www.fitnessanywhere.com/).
 
