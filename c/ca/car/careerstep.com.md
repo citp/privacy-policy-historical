@@ -1,63 +1,75 @@
-> *The following text is extracted and transformed from the careerstep.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320230546id_/http%3A//www.careerstep.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstep.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215064749id_/http%3A//careerstep.com/docs/PrivacyPolicy05_10.pdf) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
-**CAREER STEP**
+  CAREER STEP PRIVACY POLICY
+  Last updated May 7, 2010
+  CAREER STEP is committed to protecting your privacy when you visit our website. To demonstrate our
+  commitment to user privacy, we provide the following information describing the information we collect and
+  store, how we might use that information, security measures to protect that information, and your rights
+  regarding the way we collect and use that information. This Privacy Policy applies to the online collection of
+  information at CAREER STEP’s website only. CAREER STEP reserves the right to amend or otherwise modify this
+  Privacy Policy at any time. As such, you are encouraged to review this Privacy Policy from time to time, to
+  determine if changes have been made.
+  COLLECTION AND STORAGE
+  CAREER STEP collects and stores a variety of information from its website visitors. Some of this data is not
+  personally identifiable and is collected and stored automatically via the use of cookies. A cookie is a small file that
+  is stored on your computer’s hard drive and may contain the following information:
+• Your browser
+• Your Internet domain
+• Your computer's operating system
+• The links you followed to enter and leave our website
+• Your IP Address
+  This information lets us see how users are finding our website and tells us which pages are visited most often.
+  Cookies may also be used to recognize you and give you access to specific areas of our website. You can opt out of
+  the use of cookies by having your browser disable cookies or warn you before accepting a cookie, although doing
+  so may impact your user experience. For more information on cookies, including how you can delete or reject
+  cookies, please refer to your web browser help file.
+  CAREER STEP collects and stores in our database certain personal information provided when you request
+  information from us, communicate with us, or enroll in one of our courses. This information may include without
+  limitation: name, address, email address, birth date, phone number, student ID, social security number, prior
+  education, course enrollment/progress, grades, graduation status, financial status (tuition/fees balance). In
+  addition we may collect your credit card number in order to process your enrollment and collect payment.
+  We do not ever knowingly collect information from children under the age of thirteen, nor is our website designed
+  to provide any service to children under the age of thirteen. If you are under thirteen, please do not give us any
+  personal information. If you have reason to believe that a child has provided personal information to us, please
+  contact us and we will attempt to remove that information from our databases.
+  USE OF INFORMATION
+  Non‐personally identifiable information is used to help us improve our website by enabling us to discover and
+  address the needs of our website visitors. This includes making our website accessible to the various web browsers
+  and operating systems used to access our website.
+  By supplying your contact information when requesting information or enrolling in one of our courses, you
+  authorize CAREER STEP and its agents (outsource calls centers and academic partners) to contact you (using the
+  STG_301420.3
 
-**Privacy Policy**
 
-CAREER STEP considers the privacy of students personal information of the utmost importance.  All student information gathered by CAREER STEP will be protected and handled according to the provisions of this policy, only to be used or shared as stated herein.  This policy statement presents CAREER STEPs information privacy practices and a students involvement in the way CAREER STEP collects and uses that information.
-
-**1.          CONDITIONAL DISCLOSURE**:
-
-(a)         As part of enrollment, each student expressly consents to CAREER STEP releasing certain types of information related to program progress and graduation status to certain types of entities or persons, for specific purposes, as outlined below in section 3.  Such information shall be withheld from third parties only if the student expressly, in writing, requests that no information be shared.
-
-(b)        CAREER STEPs Privacy Policy does not apply to third parties with whom a student may become involved in the process of enrollment with CAREER STEP or in the process of seeking employment.  Each student is advised and encouraged to obtain applicable privacy policies of such third parties in order to know how they collect and use private information.
-
-**2.          INFORMATION COLLECTED BY CAREER STEP:**
-
-CAREER STEP collects or assigns the following kinds of information for each student: name, address, email address, birth date, phone number, student ID, social security number, prior education, course enrollment/progress, grades graduation status, financial status (tuition/fees balance). 
-
-**3.          SHARING INFORMATION:**
-
-(a)         To accomplish its educational and job placement purposes, unless expressly prohibited by a student in writing CAREER STEP reserves the right to share student information on an as needed basis as follows:
-
-     TYPE OF INFORMATION:                                             AVAILABLE TO:
-
-Program progress, graduation status and grades
-
-| 
-
-Employer; Potential employer which a student has applied to; Sponsor paying all or part of student fees; Third party organization through whom a student has enrolled with CAREER STEP  
-  
----|---  
-  
-Financial status (tuition/fees balance)
-
-| 
-
-Sponsor paying all or part of student fees  
-  
-(b)        Other information is protected from all inquirers, including family members.  Unless CAREER STEP has the students express consent or is compelled under the provisions of section 3(c), CAREER STEP will not sell, rent or trade to any third party, personal student information such as: name, address, email address, birth date, phone number, student ID, social security number or prior educational experience.  
-
-(c)         From time to time, CAREER STEP may be required to provide personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. Unless prevented by law, CAREER STEP will attempt to notify the student involved prior to any release of such information. CAREER STEP also reserves the right to report to law enforcement agencies any activities that CAREER STEP or its agents, in good faith, believe to be unlawful. CAREER STEP may also release certain personal information for specific students if circumstances justify a belief that such a release is reasonably necessary to protect the rights, property, and safety of others and/or CAREER STEP.
-
-**4.          STUDENT CHOICE REGARDING INFORMATION:**
-
-(a)         Upon enrollment, a student gives authorization for the sharing of information as presented in section 3(a) above, or may provide, in writing, a request to expressly prohibit the sharing of any information with any party. 
-
-(b)        Following enrollment, the student controls the dissemination of any information not specifically presented in section 3(a). as shared of your information. CAREER STEP will not use or share student personal information outside of the provisions of sections 3(a), (b) or (c) unless expressly instructed to do so by the student.
-
-**5.          STUDENT ACCESS TO INFORMATION:**
-
-(a)         CAREER STEP wants student information to be accurate and complete and recognizes that student access and comment is necessary.  Therefore, students may access their information by either calling 800-246-7837 or emailing CAREER STEP at privacy@careerstep.com.  Students will not have the ability to change information on file, but may request review or correction by calling or emailing as stated herein.
-
-(b)        CAREER STEP will respond to a student request to access, update or delete information within five business days. Before CAREER STEP will be able to provide a student with any information, correct any inaccuracies or delete any information, CAREER STEP will ask the student to verify their identity and to provide other details (in a secure manner) to help CAREER STEP respond to the request.
-
-**6.          OTHER ACCESS TO PERSONAL INFORMATION:**
-
-(a)         CAREER STEP safeguards student information from loss, misuse, alteration or destruction.  CAREER STEP will only provide access to your personal information to CAREER STEP employees and any other authorized parties listed in section 3 above on a "need to know" basis. 
-
-**7.          QUESTIONS:**
-
-(a)            Students and interested parties should contact CAREER STEP at the numbers and email addresses listed in section 5(a) to ask questions regarding this privacy policy or to report any violations.  CAREER STEP will respond as soon as possible within five business days. 
+information you provide to us) about CAREER STEP or its agent’s products and services, including product releases
+and updates, seminars, events, surveys, trainings, and special offers. You can opt‐out of future communications
+from CAREER STEP by sending an email to info@careerstep.com or calling 1‐800‐246‐7837.
+Unless expressly prohibited by a student in writing, in furtherance of certain educational and job placement
+objectives, CAREER STEP reserves the right to release student email addresses to certain third parties in order for
+the student to request special training software included with enrollment and share student information on an as
+needed basis as follows:
+   TYPE OF INFORMATION:                                          AVAILABLE TO:
+Program progress, graduation status and grades           Employer; Potential employer with whom a student
+                                                         has applied; Sponsor paying all or part of student
+                                                         fees; Third party resolution agencies; Third party
+                                                         organization through whom a student has enrolled
+                                                         with CAREER STEP
+Financial status (tuition/fees balance)                  Sponsor paying all or part of student fees
+From time to time, CAREER STEP may be required to provide personal information in response to a valid court
+order, subpoena, government investigation, or as otherwise required by law. Unless prevented by law, CAREER
+STEP will attempt to notify the student involved prior to any release of such information.
+This Privacy Policy does not apply to third parties with whom you may become involved in the process of
+enrollment with CAREER STEP or in the process of seeking employment. You are advised and encouraged to obtain
+applicable privacy policies of such third parties in order to know how they collect and use private information.
+SECURITY
+CAREER STEP website(s) have security measures in place to protect against the loss, misuse, and alteration of the
+information under our control. We utilize industry standard SSL encryption when accepting your credit card
+information during the online enrollment process.
+STUDENT RIGHTS
+CAREER STEP wants your information to be accurate and complete and recognizes that access and comment is
+necessary. You will not have the ability to change information on file, but may request a review or correction by
+either calling 1‐800‐246‐7837 or emailing CAREER STEP at privacy@careerstep.com. You may also request that
+CAREER STEP not disclose your personal contact information to third parties.
+STG_301420.3
