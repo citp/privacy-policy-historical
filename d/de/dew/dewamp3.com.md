@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dewamp3.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410125605id_/http%3A//dewamp3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewamp3.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215045817id_/http%3A//dewamp3.com/privacy-policy) for the most accurate reproduction.*
 
 # DewaMP3 - Privacy Policy
 
