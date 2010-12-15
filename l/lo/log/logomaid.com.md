@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logomaid.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412052347id_/http%3A//www.logomaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomaid.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215070110id_/http%3A//www.logomaid.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
