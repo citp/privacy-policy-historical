@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628213428id_/http%3A//www.kbr.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215220229id_/http%3A//kbr.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | KBR: A Global Engineering, Construction and Services Company
 
