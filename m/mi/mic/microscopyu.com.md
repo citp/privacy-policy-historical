@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microscopyu.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104065833id_/http%3A//www.microscopyu.com/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microscopyu.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215091045id_/http%3A//www.microscopyu.com/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Nikon MicroscopyU | Privacy Policy
 
