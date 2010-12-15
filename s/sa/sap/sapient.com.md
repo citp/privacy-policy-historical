@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapient.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227052004id_/http%3A//www.sapient.com/en-us/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapient.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215024739id_/http%3A//www.sapient.com/en-us/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sapient
 
@@ -52,6 +52,6 @@ Sapient Corporation ("Sapient" or "we") is committed to protecting the privacy o
 
   **Contact our Privacy Department**
 
-  If you have any questions about our Privacy Policy, please e-mail us at www@sapient.com.
+  If you have any questions about our Privacy Policy, please e-mail us at privacyofficer@sapient.com.
 
   The effective date of the privacy policy. This policy has been in effect since July 1, 2004.
