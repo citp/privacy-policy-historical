@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigeriang.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615225947id_/http%3A//nigeriang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriang.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215154029id_/http%3A//nigeriang.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Nigeria
+# Privacy |
 
 **Nigeriang.com Privacy Notice**
 
@@ -64,5 +64,3 @@ http://www.nigeriang.com
 Information:
 
 All inquiries can be sent via email( contactus [at] nigeriang.com ) and will receive 24hr service every day of the week. All phone calls and visits to the office should follow this schedule. Customer Service Hours: Monday – Friday 08:00 – 17:00 hrs GMT+1
-
-[blog comments powered by ](http://disqus.com/)
