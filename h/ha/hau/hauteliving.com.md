@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503143951id_/http%3A//www.hauteliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134259id_/http%3A//www.hauteliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Haute Living Magazine
 
@@ -42,5 +42,3 @@ We encourage you to be aware when you access any such third party links and to r
 This Privacy Policy and our legal obligations hereunder are subject to the laws of [Florida] and the U.S.A., regardless of the location of any user. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in [Miami-Dade County, Florida] U.S.A. in all disputes arising out of or relating to the Services.
 
 Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at http://www.hauteliving.com and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.
-
-[](http://www.addthis.com/bookmark.php?v=250&username=hauteliving)
