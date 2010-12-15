@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507012430id_/http%3A//www.kgoam810.com/Article.asp%3Fid%3D49819) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216001929id_/http%3A//www.kgoam810.com/Article.asp%3Fid%3D49819) for the most accurate reproduction.*
 
 # KGO Newstalk 810 San Francisco
 
