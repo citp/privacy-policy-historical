@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614204042id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215195034id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
-# Simply Swim - Privacy
+# Simply Swim - Website Privacy Policy
 
-| 
+Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.
 
-|  Simply Scuba Limited (Company Number 3053307) ("Simply Scuba, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.  
-  
----  
-  
 ##  The information we collect and how we use it
 
-|  1  |  When you buy goods or services from our website, or one of our affiliated websites we need to know basic information about you, including your name, postal address, e-mail address, telephone number, credit card number and expiry date. We also need your e-mail address to send you information about the status of your order. We will never collect sensitive information about you without your explicit consent.   
+1  |  When you buy goods or services from our website, or one of our affiliated websites we need to know basic information about you, including your name, postal address, e-mail address, telephone number, credit card number and expiry date. We also need your e-mail address to send you information about the status of your order. We will never collect sensitive information about you without your explicit consent.   
 ---|---  
 2  |  We gather this information to allow us to process any orders you make and, if you have requested us to, to send you our newsletter. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of the goods or services Ordered.   
 3  |  We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website, our range of products and our services and we may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.   
@@ -39,7 +35,7 @@
   
 ##  Updating your details
 
-1  |  If any of the information that you have provided to Simply Scuba changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 284347.   
+1  |  If any of the information that you have provided to Simply Swim changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 284347.   
 ---|---  
 2  |  We wish to only maintain accurate and up to date information on you. You can check and amend all the information we currently hold about you by logging into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
   
@@ -49,9 +45,9 @@
 ---|---  
 2  |  Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers.   
   
-##  How to contact Simply Scuba
+##  How to contact Simply Swim
 
-1  |  We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [customer.services@simplyscuba.com](mailto:customer.services@simplyscuba.com) or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
+1  |  We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [customer.services@simplyswim.com](mailto:customer.services@simplyswim.com) or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
 ---|---  
   
 ##  General
@@ -59,6 +55,4 @@
 1  |  Further information on the Data Protection Act 1998 can also be found on the Information Commissioner's web site at **[http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)**  
 ---|---  
 2  |  Use of this website is subject to our Terms and Conditions.   
-3  |  Data Protection registration number Z7449228.   
-  
-[](https://server.iad.liveperson.net/hc/92183954/?cmd=file&file=visitorWantsToChat&site=92183954&byhref=1&imageUrl=https://www.simplyscuba.com/images/liveperson)
+3  |  Data Protection registration number Z7449228. 
