@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127100625id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventful.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215155516id_/http%3A//eventful.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventful
 
@@ -16,7 +16,7 @@ As our business grows and changes, we expect to revise or enhance these policies
 
 Eventful provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us at any time. If you have questions about this Privacy Policy or wish to review or correct any information you have provided to us, you may do so by (i) accessing your account online, (ii) submitting an email request to us at , or (iii) sending a letter to the following U.S. postal address: 
 
-Eventful, Inc. 12730 High Bluff Drive, Suite 250 San Diego, CA 92130 USA Attn: Eventful Privacy Policy
+Eventful, Inc. 12626 High Bluff Drive, Suite 100 San Diego, CA 92130 USA Attn: Eventful Privacy Policy
 
 ## What Information We Collect
 
