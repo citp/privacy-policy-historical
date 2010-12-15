@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festivalnet.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504032058id_/http%3A//festivalnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalnet.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215202340id_/http%3A//festivalnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Festival Network Online, Nationwide Listing, festivals, art & craft shows, music festivals, street festivals, art shows, US events guide
 
@@ -10,11 +10,15 @@ When you create a User Account on FNO, information including your email address,
 
 ### Web Site Cookies
 
-When interacting with the FNO website, your Internet Browser and the FNO server communicate via a "session cookie". This cookie contains an anonymous identifier that is used by the FNO website. When you join and log in, a reference cookie is set to aid in your site navigation. We do not allow or set "foreign" cookies from other web sites. 
+When interacting with the FNO website, your Internet Browser and the FNO server communicate via a "session cookie". This cookie contains an anonymous identifier that is used by the FNO website. When you join and log in, a reference cookie is set to aid in your site navigation. We do not allow or set "foreign" cookies, those that are set from or used by other sites. Cookies do not give web sites the ability to "snoop" on your computer. 
 
 ### Information Disclosure
 
 At no time is any account information shared with any outside parties, with the exception of law enforcement should the need arise, and only then to comply with a subpoena. 
+
+### Email and Spam
+
+We only send emils to our members that have given us their email address. We hate spam and do not do it! We send transactional mailings, general news and newsletters that our members choose to receive. We always provide an opt-out option and allow members to set their account preference to "no contact". 
 
 ### Contact Us
 
