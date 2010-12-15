@@ -1,28 +1,49 @@
-<!--The following is the downloaded HTML source of the halfords.ie privacy policy that was archived on 2009-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614001935id_/http%3A//www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halfords.ie privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215220102id_/http%3A//www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<link rel="stylesheet" href="/wcsstore/HalfordsConsumerDirect/css/h20.css" type="text/css">
 	<link rel="stylesheet" href="/wcsstore/HalfordsConsumerDirect/css/superfish.css" type="text/css">
+	
+	
+	
+	
+	
+	
+	
 	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/thickbox/jquery-latest.js"></script>
 	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/jQueryUI/ui.core.js"></script>
-	
-	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/jquery.bgiframe.js"></script>
-	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/superfish.js"></script>
+	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/siteUtilities.min.js"></script>
 	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/jquery.recentlyviewed.js"></script>
-	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/spots/newsletter.js"></script>
 	
 	<link rel="stylesheet" href="/wcsstore/HalfordsConsumerDirect/css/jqModal.css" type="text/css" media="screen">
 	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/jqModal.js"></script>
 	
+	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/scene7/video-config.js"></script>
+	<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/scene7/swfobject.js"></script>
+
+	
 	<script type="text/javascript">
 		/* <![CDATA[ */
-		function check_search() { 
-			if (document.getElementById("srch").value.length <= 1 || document.getElementById("srch").value == document.getElementById("srch").defaultValue) {
+		function check_search() {
+			var searchCriteriaSupplied = false;
+			$(".catalogSearchCriteria").each(function() {
+				if (!searchCriteriaSupplied) {
+					var searchCriteriaValue = $(this).attr('value');
+					var defaultValue = $(this).attr('defaultValue');
+					if (searchCriteriaValue.length > 1 && searchCriteriaValue != defaultValue) {
+						searchCriteriaSupplied = true;
+					}
+				}
+			});
+			
+			if (!searchCriteriaSupplied) {
 				alert("Please enter a search term in the form field labeled 'SEARCH'");
 				return false;
 			} else {
-				document.getElementById("srch").value = document.getElementById("srch").value.replace(document.getElementById("srch").defaultValue,"");
+				$(".catalogSearchCriteria").each(function() {
+					$(this).attr('value', $(this).attr('value').replace($(this).attr('defaultValue'),""));
+				});
 				
 				var formAction = $('#CatalogSearchForm').attr('action');
 				var targetProtocol = (formAction.indexOf('https:') == 0) ? 'https:' : ((formAction.indexOf('http:') == 0) ? 'http:' : window.location.protocol);
@@ -69,32 +90,36 @@
 		$(document).ready(function(){ 
     		$("ul.nav").superfish({ 
         		animation : { opacity:"show"} 
-    		}).find('ul').bgIframe({opacity:true}); 
+    		}).find('.meganav').bgIframe({opacity:true});
 
-			// this handles clearing the search field when it gets focus
-			$("#srch").prompt("Keyword(s), Product code");
+			// this handles clearing the search field(s) when it gets focus
+			$(".catalogSearchCriteria").each(function() {
+				$(this).prompt("Keyword(s), Product code");
+			});
+			
 			$('#recentlyviewedcol').recentlyViewedProducts({
 				listLength:6
 			});
-			$("div.newsletter")
-				.add("span.newsletter")
-				.newsletter({
-					icon:'/wcsstore/HalfordsConsumerDirect/images/header/H20Envelope.gif',
-					storeId:11101,
-					prompt:'enter email address',
-					title:'Email Sign Up',
-					//buttonText:'Sign Up',
-					signup:'/wcsstore/HalfordsConsumerDirect/images/newssignup.gif',
-					message:'Sign up now for special offers, promotions and latest news.'
-				}
-			);
+			var newsletterDivs = $("div.newsletter");
+			if ($.fn.newsletter && newsletterDivs.length > 0){
+				newsletterDivs
+					.add("span.newsletter")
+					.newsletter({
+						icon:'/wcsstore/HalfordsConsumerDirect/images/header/H20Envelope.gif',
+						storeId:11101,
+						prompt:'enter email address',
+						title:'Email Sign Up',
+						signup:'/wcsstore/HalfordsConsumerDirect/images/newssignup.gif',
+						message:'Sign up now for special offers, promotions and latest news.'
+					}
+				);
+			}
    		});
 
    		var jspStoreImgDir = '/wcsstore/HalfordsConsumerDirect/'; 
 
    		/* ]]> */
 	</script>
-	
 	
 	
 	
@@ -118,7 +143,7 @@
 			}
 			
 			function closeStockChecker() {
-				$('#stockcheckeriframe').attr("src", "");
+				$('#stockcheckeriframe').attr("src", "/wcsstore/HalfordsConsumerDirect/include/Static/stockCheckerTemporaryIframeSrc.html");
 			}
 	   		/* ]]> */
 		</script>
@@ -127,15 +152,26 @@
 	
 	
 	
-	
 	<script language="JavaScript" src="http://www.trustlogo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+	
+	
+	
+	
 	
    
 
 	<title>
-	Halfords Advice Centre - 
+	Halfords Advice Centre - Privacy Policy
 	</title>
 	<meta name="description" content="Privacy Policy Halfords is registered under the Data Protection Act. We are committed to protecting your privacy and have taken steps to explain this online. We use the information we collect to enhance and improve your experience of using our websites.">
+
+	
+	
+		
+<link rel="canonical" href="http://www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012">
+	
+	
+	
 	
 	<link rel="stylesheet" href="/wcsstore/HalfordsConsumerDirect/css/print.css" type="text/css" media="print">
 	
@@ -159,6 +195,11 @@
 	/* ]]> */
 	</script>
 
+	
+	<link rel="stylesheet" type="text/css" href="/wcsstore/Halfords_IE/cms/css/advicecentre.css">
+	
+	
+	
 </head>
 
 
@@ -174,12 +215,14 @@
     </ul>
 </div>
 
-<div id="container" class="advicecentre">
+<div id="container" class="customerservices">
 	<div id="content" class="gb-en">
 		<!-- header: BEGIN -->
 
 		
 		
+
+
 
 
 
@@ -300,8 +343,27 @@
 </script>
 
 
+
+<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/pages/basket.js"></script>
+<script type="text/javascript">
+<!--
+	$(document).ready(function() {
+	    _setAddToBasketStoreId("11101");
+	    _setAddToBasketLanguageId("-1");
+	    _setAddToBasketActionPath("/webapp/wcs/stores/servlet/BasketActions");
+		
+			_setAddToBasketCategoryId("212614");
+		
+	    
+	});
+//-->
+</script>
+
+
 <div id="header">
-	<a href="http://www.halfords.ie/"><img id="logo" alt="" src="/wcsstore/Halfords_IE/images/h20/logo.gif" border="0"></a>
+	
+	<a href="http://www.halfords.ie/"><img id="logo" alt="Halfords Ireland for Bikes, Car Maintenance, Sat Nav, In-Car Tech and More" src="/wcsstore/Halfords_IE/images/h20/logo.gif" border="0"></a>
+	
 	<div id="secondary-nav">
 		<ul>
 			
@@ -423,27 +485,95 @@
 
 
 
+
+
 <!-- Start: Basket -->
 
 
 
 	
 
-	<h2><a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="View the contents of your shopping basket">My Shopping Basket</a></h2>
-
 	<div class="clear"></div>
 								
 	
-	
-	
-	
 		
-		<div class="mini-basket-contents">
-				0 items
-				<span class="total">€0.00</span>
+			
+				
+				
+				
+				
+				
+				
+			
+			<span id="mini-basket-icon-details">
+				
+					
+						<span id="mini-basket-icon" class="emptyBsk bskIcon">Empty Basket</span>
+					
+					
+				
+			</span>
+			<h2><a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="View the contents of your shopping basket">My Shopping Basket</a></h2>
+			<div class="mini-basket-contents">
+				<span id="mini-basket-contents-details">
+					
+					<span id="mini-basket-contents-items">0 item(s)</span>
+					<span id="mini-basket-contents-items-price" class="total">€0.00</span>
+				</span>
+			</div>
+		
+		
+	
+
+	
+	
+
+	<div id="basket-contents">
+		<div class="bskEdge bskTop">&nbsp;</div>
+		<div id="bskDetails">
+			<span class="close">Close Button</span>
+			
+				
+			<div id="basket-contents-add-to-basket-overlay">			
+				<div class="bskSuccess">
+					<span>&nbsp;</span>
+					<p><strong>You have added the following to your basket</strong></p>
+				</div>
+				<span id="basket-contents-add-to-basket-overlay-details">					
+					
+				</span>
+			</div>
+				
+			<div id="basket-contents-summary-overlay">				
+				<span id="basket-contents-summary-overlay-details">					
+					<ul id="basket-contents-summary-overlay-details-ul">
+						
+						<li class="desc">
+							<span class="dText">0&nbsp;items</span>
+							<span class="price">€0.00</span>
+						</li>
+						
+						<li class="desc total">
+							<span class="dText">Subtotal</span>
+							<span class="price">€0.00</span>
+						</li>						
+					</ul>
+				</span>
+			</div>
+			
+			
+			<div class="bskActions">
+				<a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="View the contents of your shopping basket">
+					<img alt="View Basket" src="/wcsstore/HalfordsConsumerDirect/images/h20/view_basket_button.gif">
+				</a>
+				<a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="Checkout">
+					<img alt="Checkout" src="/wcsstore/HalfordsConsumerDirect/images/h20/checkout_button.gif">
+				</a>
+				<a href="#" class="close">Continue Shopping</a>
+			</div>
 		</div>
-		
-	
+		<div class="bskEdge bskBase">&nbsp;</div>
+	</div>
 	
 
 
@@ -454,8 +584,9 @@
 
 		<div id="headersearch">
 			<div id="input-panel">
-				<form name="CatalogSearchForm" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" target="" id="CatalogSearchForm" onsubmit="return(check_search())">
-					<input title="Start your search" maxlength="254" type="text" id="srch" value="Keyword(s), Product code" name="srch">
+				
+				<form name="CatalogSearchForm" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" id="CatalogSearchForm" onsubmit="return(check_search())">
+					<input class="catalogSearchCriteria" title="Start your search" maxlength="254" type="text" id="srch" value="" name="srch">
 					<input type="image" src="/wcsstore/HalfordsConsumerDirect/images/h20/search-butt.gif" value="go" id="go" title="Start your search">
 					<input type="hidden" name="action" value="search">
 					<input type="hidden" name="storeId" value="11101" id="WC_SidebarDisplay_FormInput_storeId_In_CatalogSearchForm_1">
@@ -474,7 +605,7 @@
 				<h2>Stock Checker</h2>
 				<a class="jqmClose" href="#" onclick="closeStockChecker();return false;" title="Close Stock Checker"><em>Close</em></a>
 			</div>
-			<iframe id="stockcheckeriframe" name="stockcheckeriframe" src="" width="" height="" scrolling="auto" frameborder="0"></iframe>
+			<iframe id="stockcheckeriframe" name="stockcheckeriframe" src="/wcsstore/HalfordsConsumerDirect/include/Static/stockCheckerTemporaryIframeSrc.html" width="" height="" scrolling="auto" frameborder="0"></iframe>
 		</div>
 		<div class="clear"></div>
 	
@@ -487,90 +618,560 @@
 <!-- div id categories: BEGIN -->
 <div id="categories">
 
-<ul class="nav sf-js-enabled">
-<li class="first cat1"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212354_langId_-1"><span>Sat Nav &amp; GPS</span></a>
+<ul class="nav">
+<li class="first cat1"><a class="cat1link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212354_langId_-1"><span>Sat Nav &amp; GPS</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212513_langId_-1" title="Car Sat Nav">Car Sat Nav</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_234417_langId_-1" title="Fitness GPS">Fitness GPS</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212400_langId_-1" title="Sat Nav Accessories">Sat Nav Accessories</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212513_langId_-1">Car Sat Nav</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212403_langId_-1">Motorcycle Sat Nav</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212400_langId_-1">Sat Nav Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212425_langId_-1">Sat Nav Software</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212570_langId_-1">Sat Nav Cases</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212508_langId_-1">Sat Nav Mounts</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212352_langId_-1">Sat Nav Chargers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212505_langId_-1">Traffic Receivers, Antennas &amp; Cables</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212472_langId_-1">General Sat Nav Accessories</a></li>
 </ul>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246061&amp;articleId=722514">Sat Nav Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246061&amp;articleId=722518">We Fit Sat Nav</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246061&amp;articleId=722520">WEEE Regulations</a></li>
+<li><a href="/webapp/wcs/stores/servlet/GuidedSalesDisplay?storeId=11101&amp;langId=-1&amp;catalogId=15551&amp;categoryId=212513">Sat Nav Guided Sale</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246061">How do sat navs work?</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
 </li>
-<li class="cat2"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212362_langId_-1"><span>In-Car Tech</span></a>
+<li class="cat2"><a class="cat2link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212362_langId_-1"><span>In-Car Tech</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212488_langId_-1" title="Car Audio">Car Audio</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212488_langId_-1">Car Audio</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212562_langId_-1">DVD Players</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212402_langId_-1">Hands-Free Car Kits</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212392_langId_-1">iPod and MP3 Players</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212468_langId_-1">iPod and MP3 Players Accessories</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212417_langId_-1">Parking Sensors</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212600_langId_-1">Car CD Players</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212533_langId_-1">Car Speakers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212567_langId_-1">Sub Woofers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212370_langId_-1">Amplifiers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212610_langId_-1">Sub &amp; Amp Packages</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212460_langId_-1">Car Audio Accessories</a></li>
 </ul>
-</li>
-<li class="cat3"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212512_langId_-1"><span>Bikes</span></a>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212562_langId_-1" title="DVD Players">DVD Players</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_227304_langId_-1" title="DVD Player Accessories">DVD Player Accessories</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212402_langId_-1" title="Hands-Free Car Kits">Hands-Free Car Kits</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212394_langId_-1">Adult Bikes</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212442_langId_-1">Kids' Bikes</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212636_langId_-1">Clearance Bikes</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212366_langId_-1">Bike Accessories &amp; Clothing</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212427_langId_-1">Bike Parts &amp; Workshop</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212359_langId_-1">Bike Racks &amp; Cycle Carriers</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212643_langId_-1">Cycle Carrier Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212409_langId_-1">Bluetooth Hands-Free Car Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212475_langId_-1">Hands-Free Visor Mounts</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212486_langId_-1">Bluetooth Headsets</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_225701_langId_-1">Bluetooth Hands-Free Head Units</a></li>
 </ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212468_langId_-1" title="iPod and MP3 Players Accessories">iPod and MP3 Players Accessories</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212417_langId_-1" title="Parking Sensors">Parking Sensors</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246068&amp;articleId=722302">Audio Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246068&amp;articleId=722509">Mobile Phone and Driving - The Law</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246068&amp;articleId=722508">In-Car Technology Fitting</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246068&amp;articleId=722314">Bluetooth Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/GuidedSalesDisplay?storeId=11101&amp;langId=-1&amp;catalogId=15551&amp;categoryId=212600">Audio Guided Sale</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
 </li>
-<li class="cat4"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212399_langId_-1"><span>Baby &amp; Child</span></a>
+<li class="cat3"><a class="cat3link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212512_langId_-1"><span>Bikes</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212394_langId_-1" title="Mens &amp; Womens Bikes">Mens &amp; Womens Bikes</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212424_langId_-1">Children's Car Seats</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212601_langId_-1">Pushchairs, Prams &amp; Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212589_langId_-1">Mountain Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212581_langId_-1">Dirt Jump Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212377_langId_-1">Hybrid Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212536_langId_-1">Road Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212415_langId_-1">Folding Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212361_langId_-1">BMX Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_239005_langId_-1">Electric Bikes</a></li>
 </ul>
-</li>
-<li class="cat5"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212395_langId_-1"><span>Camping &amp; Caravanning</span></a>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212442_langId_-1" title="Kids Bikes">Kids Bikes</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212632_langId_-1">Camping Equipment</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212435_langId_-1">Caravanning</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212437_langId_-1">Boys Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212464_langId_-1">Girls Bikes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212646_langId_-1">BMX Bikes</a></li>
 </ul>
-</li>
-<li class="cat6"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212592_langId_-1"><span>Travel &amp; Touring</span></a>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212366_langId_-1" title="Bike Accessories &amp; Clothing">Bike Accessories &amp; Clothing</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212618_langId_-1">Roof Bars &amp; Boxes</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212378_langId_-1">Trailers &amp; Accessories</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212428_langId_-1">Breakdown &amp; Emergency</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212621_langId_-1">Travel Accessories</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212582_langId_-1">Commercial Vehicle Roof Bars</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212438_langId_-1">Commercial Vehicle Essentials</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212597_langId_-1">Bike Racks &amp; Cycle Carriers</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212642_langId_-1">Cycle Carrier Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212469_langId_-1">Bike Lights</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212441_langId_-1">Children's Bike Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212360_langId_-1">Children's Bike Helmets</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212467_langId_-1">Adult Bike Helmets</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212470_langId_-1">Bike Locks &amp; Security</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212494_langId_-1">Bike Pumps</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212542_langId_-1">Bike Water Bottles &amp; Cages</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212515_langId_-1">Cycling Hydration Packs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212476_langId_-1">Bike Luggage</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212655_langId_-1">Bike Mudguards</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212596_langId_-1">Bike DVDs &amp; Books</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212598_langId_-1">Bike Child Seats</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212384_langId_-1">Child Bike Trailers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212560_langId_-1">Cycle Computers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212566_langId_-1">Cycling Clothing</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212654_langId_-1">Bike Mirrors, Bells &amp; Horns</a></li>
 </ul>
-</li>
-<li class="cat7"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212563_langId_-1"><span>Car Maintenance</span></a>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212427_langId_-1" title="Bike Parts &amp; Workshop">Bike Parts &amp; Workshop</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212551_langId_-1">Car Parts</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212558_langId_-1">Engine Oils &amp; Additives</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212552_langId_-1">Car Cleaning &amp; Pressure Washers</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212559_langId_-1">Body Repair</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212375_langId_-1">Workshop &amp; Tools</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212507_langId_-1">Motorcycling</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212485_langId_-1">Haynes Manuals &amp; Books</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212381_langId_-1">Car Bulbs</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212455_langId_-1">Car Wiper Blades</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_234418_langId_-1">Bike Care Plans</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212385_langId_-1">Bike Inner Tubes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212612_langId_-1">Bike Puncture Repair Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212521_langId_-1">Bike Tyres</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212630_langId_-1">Bike Wheels &amp; Wheel Parts</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212639_langId_-1">Bike Tools</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212645_langId_-1">Bike Lubricants</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212648_langId_-1">Bike Cleaning</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212649_langId_-1">Bike Storage &amp; Stands</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212426_langId_-1">Bike Saddles, Seatposts &amp; Clamps</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212416_langId_-1">Bike Handlebars &amp; Grips</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212651_langId_-1">Bike Headsets &amp; Stems</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212443_langId_-1">Bike Brakes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212650_langId_-1">Bike Gear Shifters, Derailleurs &amp; Cables</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212653_langId_-1">Bike Chainsets, Cranks &amp; Bottom Brackets</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212383_langId_-1">Bike Chains, Cassettes &amp; Freewheels</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212405_langId_-1">Bike Pedals</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212368_langId_-1">Bike Frame Protection</a></li>
 </ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212359_langId_-1" title="Bike Racks &amp; Cycle Carriers">Bike Racks &amp; Cycle Carriers</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212643_langId_-1" title="Cycle Carrier Accessories">Cycle Carrier Accessories</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246199&amp;articleId=722308">Bikes Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246199&amp;articleId=722311">We Fit Bike Parts and Accessories</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246199&amp;articleId=722526">Repair a Puncture</a></li>
+<li><a href="/webapp/wcs/stores/servlet/GuidedSalesDisplay?storeId=11101&amp;langId=-1&amp;catalogId=15551&amp;categoryId=212394">Adult Bike Guided Sale</a></li>
+<li><a href="/webapp/wcs/stores/servlet/GuidedSalesDisplay?storeId=11101&amp;langId=-1&amp;catalogId=15551&amp;categoryId=212442">Kids Bike Guided Sale</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
 </li>
-<li class="cat8"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212421_langId_-1"><span>Car Styling</span></a>
+<li class="cat4"><a class="cat4link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212399_langId_-1"><span>Baby &amp; Child</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212424_langId_-1" title="Children's Car Seats">Children's Car Seats</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212548_langId_-1">Interior Styling</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212480_langId_-1">Exterior Styling</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212493_langId_-1">Performance Parts</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212516_langId_-1">Lighting</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212412_langId_-1">Gifts And Novelties</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212580_langId_-1">Infant Carriers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212579_langId_-1">Child Car Seats</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212393_langId_-1">Booster Seats</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212433_langId_-1">Child Car Seat Accessories</a></li>
 </ul>
-</li>
-<li class="cat9"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212573_langId_-1"><span>Toys &amp; Games</span></a>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212601_langId_-1" title="Pushchairs, Prams &amp; Accessories">Pushchairs, Prams &amp; Accessories</a></h4>
 <ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212606_langId_-1">Wheeled Toys</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212602_langId_-1">Garden Games</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212644_langId_-1">Gift Vouchers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212638_langId_-1">Pushchairs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212509_langId_-1">Child Carriers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212386_langId_-1">Pushchair &amp; Pram Accessories</a></li>
 </ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244653_langId_-1" title="Travel Cots">Travel Cots</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244654_langId_-1" title="Nursery &amp; Accessories">Nursery &amp; Accessories</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246101&amp;articleId=722321">Child Seat Buyer's guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246101&amp;articleId=722322">Child Seats Law</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246101&amp;articleId=722303">We Fit Child Car Seats</a></li>
+<li><a href="/webapp/wcs/stores/servlet/GuidedSalesDisplay?storeId=11101&amp;langId=-1&amp;catalogId=15551&amp;categoryId=212579">Child Seat Guided Sale</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246101&amp;articleId=789186">Child Seat Comparison Chart</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
 </li>
-<li class="cat10"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/AdviceCenterHomeView?storeId=11101&amp;catalogId=15551&amp;langId=-1" title="Help and advice"><span>Advice Centre</span></a></li>
-</ul><div class="clear"></div>
+<li class="cat5"><a class="cat5link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212395_langId_-1"><span>Camping</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236911_langId_-1" title="Tents">Tents</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236912_langId_-1">1-2 Man Tents</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236913_langId_-1">3-4 Man Tents</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236914_langId_-1">5-6 Man Tents</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236916_langId_-1">Tent Packs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236917_langId_-1">Festival Tents</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236918_langId_-1">Family Tents</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236919_langId_-1">Pop Up Tents</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_236920_langId_-1">Tent Accessories &amp; Spares</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212632_langId_-1" title="Camping Equipment">Camping Equipment</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212554_langId_-1">Sleeping Bags &amp; Liners</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212503_langId_-1">Rucksacks</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212483_langId_-1">Camping Cooking Equipment</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212591_langId_-1">Camping Lights</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212502_langId_-1">Camping Furniture</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212624_langId_-1">Camping General Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212617_langId_-1">Torches &amp; Lanterns</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212572_langId_-1">BBQ's &amp; Outdoor Dining</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212435_langId_-1" title="Caravanning">Caravanning</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212577_langId_-1">Caravan Homewares</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212450_langId_-1">Caravan Water &amp; Waste</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212585_langId_-1">Caravan Electricity &amp; Gas</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212564_langId_-1">Caravan General Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212414_langId_-1">Caravan Chemicals &amp; Cleaning</a></li>
+</ul>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246098&amp;articleId=722530">Camping Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246098&amp;articleId=789157">How to Put Up a Pop Up Tent</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246098&amp;articleId=722327">Driving Tips</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246098&amp;articleId=789188">Sleeping Bags Comparison Chart</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246098&amp;articleId=789158">How to Put Down a Pop Up Tent</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="cat6"><a class="cat6link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212592_langId_-1"><span>Travel &amp; Touring</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212618_langId_-1" title="Roof Bars &amp; Boxes">Roof Bars &amp; Boxes</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212453_langId_-1">Roof Bars &amp; Fittings</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212588_langId_-1">Roof Boxes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212576_langId_-1">Roof Bar Accessories</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212378_langId_-1" title="Trailers &amp; Accessories">Trailers &amp; Accessories</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212363_langId_-1">Trailers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212555_langId_-1">Trailer Accessories</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212428_langId_-1" title="Breakdown &amp; Emergency">Breakdown &amp; Emergency</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212454_langId_-1">Petrol Cans</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212543_langId_-1">Car Jump Leads &amp; Booster Cables</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212497_langId_-1">Car Breakdown Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212481_langId_-1">Car Tyre Inflators &amp; Gauges</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212390_langId_-1">Car Tow Ropes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212501_langId_-1">Car First Aid Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212379_langId_-1">Car Fire Extinguishers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212526_langId_-1">Emergency Warning Triangles</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212634_langId_-1">Car Headlamp Converters</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212535_langId_-1">Car Spare Bulb Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212641_langId_-1">Snow Chains</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212621_langId_-1" title="Travel Accessories">Travel Accessories</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212490_langId_-1">Coolboxes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212461_langId_-1">Car Seat Cushions</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212356_langId_-1">Car Mirrors</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212607_langId_-1">Sunshades</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244655_langId_-1">Child Travel Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212373_langId_-1">Sunglasses</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212434_langId_-1">Travel Rugs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212374_langId_-1">Travel Equipment</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212471_langId_-1">Domestic Batteries</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212609_langId_-1">Torches &amp; Lanterns</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212525_langId_-1">Car Spare Bulb Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212546_langId_-1">Road Maps &amp; Atlases</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212541_langId_-1">Pet Travel</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212404_langId_-1">Car Security</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212446_langId_-1">Car Covers &amp; Tarpaulins</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212432_langId_-1">Learning To Drive</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_238506_langId_-1">Driving Gloves</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212582_langId_-1" title="Commercial Vehicle Roof Bars">Commercial Vehicle Roof Bars</a></h4>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212438_langId_-1" title="Commercial Vehicle Essentials">Commercial Vehicle Essentials</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212597_langId_-1" title="Bike Racks &amp; Cycle Carriers">Bike Racks &amp; Cycle Carriers</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212642_langId_-1" title="Cycle Carrier Accessories">Cycle Carrier Accessories</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246269&amp;articleId=722512">Roof Bars Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246269&amp;articleId=722327">Driving Tips</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246269&amp;articleId=722570">Driving Abroad</a></li>
+<li><a href="/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212453_langId_-1">Roof Bars &amp; Fittings Guided Sale</a></li>
+<li><a href="/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212582_langId_-1">Commercial Vehicle Roof Bars Guided Sale</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="cat7"><a class="cat7link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212563_langId_-1"><span>Car Maintenance</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212375_langId_-1" title="Workshop &amp; Tools">Workshop &amp; Tools</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212500_langId_-1">Workshop Storage</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212616_langId_-1">Hand Tools</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_241552_langId_-1">Hobby &amp; Craft Tools</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212396_langId_-1">Power Tools</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212410_langId_-1">Tool Sets</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212401_langId_-1">Fixings, Fuses &amp; Electricals</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212549_langId_-1">Workshop Equipment</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212445_langId_-1">Abrasives</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212529_langId_-1">Car Tyre Inflators &amp; Gauges</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212422_langId_-1">Household Electrical</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212456_langId_-1">Safety Equipment</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_239553_langId_-1">Workshop Signs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212458_langId_-1">Workwear</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212552_langId_-1" title="Car Cleaning &amp; Pressure Washers">Car Cleaning &amp; Pressure Washers</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212517_langId_-1">Pressure Washers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212407_langId_-1">Pressure Washer Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212444_langId_-1">Car Cleaning Materials</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212611_langId_-1">Brushes &amp; Hoses</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212371_langId_-1">Shampoo Polish &amp; Wax</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212484_langId_-1">Car Interior Cleaners</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212511_langId_-1">Car Exterior Cleaning</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212538_langId_-1">Car Engine Cleaning</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212473_langId_-1">Vacuums &amp; Polishers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212504_langId_-1">Car Cleaning Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212358_langId_-1">Car Handy Wipes</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_229903_langId_-1" title="Antifreeze, Screenwash &amp; De-icer">Antifreeze, Screenwash &amp; De-icer</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212558_langId_-1" title="Engine Oils &amp; Additives">Engine Oils &amp; Additives</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212419_langId_-1">Car Engine Oil</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212466_langId_-1">Air Conditioning Additives</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212351_langId_-1">Maintenance Fluids &amp; Additives</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212537_langId_-1">Hand Cleaner</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212531_langId_-1">Grease</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212578_langId_-1" title="Car Batteries">Car Batteries</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212381_langId_-1" title="Car Bulbs">Car Bulbs</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212455_langId_-1" title="Windscreen Wiper Blades">Windscreen Wiper Blades</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212551_langId_-1" title="Car Parts">Car Parts</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212565_langId_-1">Car Parts</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212652_langId_-1">Super Brilliance Bulbs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212463_langId_-1">Car Battery Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_226202_langId_-1">Fuel Caps</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212599_langId_-1">Leisure Batteries</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212559_langId_-1" title="Body Repair">Body Repair</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212519_langId_-1">Tapes &amp; Glues</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212459_langId_-1">Body Filler</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212430_langId_-1">Rust Removers &amp; Prevention</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212583_langId_-1">Colour Match Panel Sprays</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212593_langId_-1">Other Paints</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212418_langId_-1">Car Scratch Repair Solutions</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212605_langId_-1">Car Dent, Scratch, Scuff &amp; Fabric Solutions</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212449_langId_-1">Paint Brushes &amp; Accessories</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212507_langId_-1" title="Motorcycling">Motorcycling</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_246904_langId_-1">Motorcycle Batteries</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212429_langId_-1">Motorcycle Sat Nav</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212561_langId_-1">Motorcycle Cleaning</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212353_langId_-1">Motorcycle Engine Oils</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212387_langId_-1">Motorcycle Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212420_langId_-1">Motorcycle Bulbs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212524_langId_-1">Motorcycle Parts</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212522_langId_-1">Motorcycle Tools</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212613_langId_-1">Motorcycle Additives &amp; Oils</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212569_langId_-1">Motorcycle Security</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212534_langId_-1">Motorcycle Styling</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212413_langId_-1">Haynes Motorcycle Manuals</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212485_langId_-1" title="Haynes Manuals &amp; Books">Haynes Manuals &amp; Books</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212451_langId_-1">Haynes Car Service &amp; Repair Manuals</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212518_langId_-1">Haynes Techbooks</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212440_langId_-1">Haynes Home DIY Manuals</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212604_langId_-1">Haynes Caravan Manuals</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212487_langId_-1">Haynes Restoration Manuals</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212614_langId_-1">Haynes Collectors Guides</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212448_langId_-1">Haynes Gifts</a></li>
+</ul>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246244&amp;articleId=722304">Car Battery Buyer's Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246244&amp;articleId=722305">Battery Disposal and Recycling</a></li>
+<li><a href="/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212578_langId_-1">Car Battery Guided Sale</a></li>
+<li><a href="/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212381_langId_-1">Bulbs Guided Sale</a></li>
+<li><a href="/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212455_langId_-1">Wiper Blades Guided Sale</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="cat8"><a class="cat8link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212421_langId_-1"><span>Car Accessories</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212603_langId_-1" title="Car Mats &amp; Boot Liners">Car Mats &amp; Boot Liners</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212491_langId_-1" title="Car Seat Covers">Car Seat Covers</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212369_langId_-1" title="Wheel Trims">Wheel Trims</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212482_langId_-1" title="Alloy Wheel &amp; Tyre Sets">Alloy Wheel &amp; Tyre Sets</a></h4>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212548_langId_-1" title="Interior Accessories">Interior Accessories</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212553_langId_-1">Gear Knobs, Handbrakes &amp; Gaiters</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212431_langId_-1">Car Air Fresheners</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212626_langId_-1">Mobile Phone Holders &amp; Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212514_langId_-1">Drinks &amp; Sunglasses Holders</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212389_langId_-1">Car Stickers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212498_langId_-1">In-Car Organisers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212595_langId_-1">Miscellaneous Car Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212625_langId_-1">Tax Disc Holders</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212388_langId_-1">Harness Pads</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212398_langId_-1">Pedal Sets</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212571_langId_-1">Steering Wheel Covers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212357_langId_-1">Interior Mirrors</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212364_langId_-1">Dashboard Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212439_langId_-1">Interior Car Lighting</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212608_langId_-1">Multisockets</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212480_langId_-1" title="Exterior Styling">Exterior Styling</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_246905_langId_-1">Exterior Protection</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212620_langId_-1">Alloy Wheel Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212506_langId_-1">Body Styling</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212380_langId_-1">Exhaust Trims</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212528_langId_-1">Badges &amp; Graphics</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212492_langId_-1">Tints &amp; Strips</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212530_langId_-1">Horns</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212457_langId_-1">Aerials</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212627_langId_-1">Valve Caps</a></li>
+</ul>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212493_langId_-1" title="Performance Parts">Performance Parts</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212516_langId_-1" title="Lighting">Lighting</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212412_langId_-1" title="Gifts And Novelties">Gifts And Novelties</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246121&amp;articleId=789177">Car Mats Buyers Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246121&amp;articleId=722572">Whatever The Colour We'll Match It!</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246121&amp;articleId=722320">We Fit Car Styling</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246121">What size alloy wheels do I need?</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246121">How can I style my car exterior?</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="cat9"><a class="cat9link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212640_langId_-1"><span>Mobility Aids</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_234420_langId_-1" title="Mobility Scooters">Mobility Scooters</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_242051_langId_-1" title="Walking Aids">Walking Aids</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_242052_langId_-1" title="Mobility Wheel Chairs">Mobility Wheel Chairs</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_242053_langId_-1" title="Mobility Accessories">Mobility Accessories</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_242054_langId_-1" title="Daily Living Aids">Daily Living Aids</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246311&amp;articleId=784354">Mobility Scooter Buyers Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246311&amp;articleId=789169">Scooters - How to Choose</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246311&amp;articleId=789951">Walking Aids Buyers Guide</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246311&amp;articleId=746901">Mobility Store Information</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246311&amp;articleId=789170">Wheelchair Buyers Guide</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="cat10"><a class="cat10link" href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212573_langId_-1"><span>Toys</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems">
+<h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_233651_langId_-1" title="Electric Ride-On Cars">Electric Ride-On Cars</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212606_langId_-1" title="Wheeled Toys">Wheeled Toys</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212594_langId_-1" title="Table Games">Table Games</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_233151_langId_-1" title="Remote Control and Die-cast Cars">Remote Control and Die-cast Cars</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212602_langId_-1" title="Garden Games">Garden Games</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212644_langId_-1" title="Gift Vouchers">Gift Vouchers</a></h4>
+</div>
+<div class="navitems last">
+<h3>Help &amp; Advice</h3><ul>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246253&amp;articleId=789171">WEEE &amp; You</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246253">What age range are your electric cars suitable for?</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246253&amp;subcategory=246283">How do wheeled toys help my child's development?</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246253&amp;subcategory=246283">How do kids electric cars work?</a></li>
+<li><a href="ACFAQDisplay?langId=-1&amp;storeId=11101&amp;catalogId=17201&amp;topcategory=246253&amp;subcategory=246283">What age range are electric cars suitable for?</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="cat11"><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/ACHomeView?storeId=11101&amp;catalogId=17201&amp;langId=-1" title="Help and advice"><span>Advice Centre</span></a>
+<div class="meganav">
+<div class="roundInt">
+<div class="navwrap">
+<div class="itemswrap">
+<div class="navitems"><h3>Categories</h3><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246061">Sat Nav &amp; GPS</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246068">In-Car Technology</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246199">Bikes</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246101">Baby &amp; Child</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246098">Camping &amp; Caravanning</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246269">Travel &amp; Touring</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246244">Car Care &amp; Maintenance</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246121">Car Accessories &amp; Styling</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246253">Toys &amp; Games</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246311">Mobility Aids</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACServicesDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246402">Services</a></h4><h4><a href="/webapp/wcs/stores/servlet/ACCategoryDisplay?storeId=11101&amp;langId=-1&amp;catalogId=17201&amp;categoryId=246403">Other Articles</a></h4></div></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div class="clear"></div>
 
 
 </div><!-- div id categories: END -->
@@ -751,6 +1352,8 @@
 
 
 
+
+
  
 
 
@@ -766,99 +1369,559 @@
 
 
 
+			
 
+<script type="text/javascript">
+	/* <![CDATA[ */
 
+	$(document).ready(function(){ 
+		// this handles clearing the store locator when it gets focus
+		$("#storelocatorcriteria").prompt("Town or Postcode");
+	});
 
+	function storeLocatorFormSubmit() {
+		var storeLocatorCriteria = document.getElementById('storelocatorcriteria');
+		if (storeLocatorCriteria.value.length <= 1 || storeLocatorCriteria.value == storeLocatorCriteria.defaultValue) {
+			alert("Please enter a Town or Postcode");
+		} else {
+			var url = document.location.href=document.getElementById('StoreLocatorSearchForm').action + "&qs=" +  storeLocatorCriteria.value;
+			document.location.href=url;
+		}
+	}
 
-
-
+	/* ]]> */
+</script>
 
 
 <div id="footer">
-	<div id="footer-top">
-		<div id="footer-hitwise">
-			<!--
-			TrustLogo Html Builder Code:
-			Shows the logo at URL http://www.trustlogo.com/trustlogo_choice.html
-			Logo type is  ("SC4")
-			undefined
-			//-->
-			<a href="http://www.instantssl.com" id="comodoTL">SSL</a>
-			<script type="text/javascript">
-				TrustLogo("/wcsstore/HalfordsConsumerDirect/images/h20/tl_transp.gif", "SC4", "none");
-			</script>			
+	<div id="footer-inner">
+
+		
+		<div id="footersearch">
+			<div id="sitesearch">
+				<form name="CatalogSearchFormFooter" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" id="CatalogSearchFormFooter" onsubmit="return(check_search())">
+					<label for="srch">Search</label>
+					<input class="catalogSearchCriteria" title="Start your search" maxlength="254" type="text" id="srch" value="" name="srch">
+					<input type="image" src="/wcsstore/HalfordsConsumerDirect/images/h20/search-butt.gif" value="go" id="go" title="Start your search">
+					<input type="hidden" name="action" value="search">
+					<input type="hidden" name="storeId" value="11101" id="WC_SidebarDisplay_FormInput_storeId_In_CatalogSearchForm_1">
+					<input type="hidden" name="catalogId" value="15551" id="WC_SidebarDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
+					<input type="hidden" name="langId" value="-1" id="WC_SidebarDisplay_FormInput_langId_In_CatalogSearchForm_1">
+				</form>
+			</div>
+			<div id="storesearch">
+				<form name="StoreLocatorSearchForm" id="StoreLocatorSearchForm" action="http://www.halfords.ie/webapp/wcs/stores/servlet/HalfordsStoreLocatorView?langId=-1&amp;storeId=11101&amp;catalogId=15551" method="post">
+					<label for="storelocatorcriteria">Find your nearest store</label>
+					<input type="text" name="quicksearch" id="storelocatorcriteria" title="Enter your Town or Postcode here">
+					<input type="image" src="/wcsstore/HalfordsConsumerDirect/images/h20/butt-find.gif" value="FIND" title="Enter your town or postcode here" onclick="storeLocatorFormSubmit(); return false;">
+				</form>
+			</div>
+		</div>
+	
+		<div id="footercspots">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- cspot: begin BFOOT_CSPOT1 -->
+<div class="footer-links">
+<div id="customerservices">
+<h2>customer services</h2>
+<ul>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722617_langId_-1_categoryId_211015">Contact Us</a></li>
+<li><a href="/webapp/wcs/stores/servlet/CustomerServicesHomeView?langId=-1&amp;storeId=11101&amp;catalogId=15551">Fitting and Services</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722615_langId_-1_categoryId_211014">Halfords Trade Card</a></li>
+<li><a href=" /webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722316_langId_-1_categoryId_211015">Cycle To Work</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722619_langId_-1_categoryId_211014">Gift Vouchers</a></li>
+<li><a class="external" target="_blank" title="Opens in new window" href="https://wbiprod.storedvalue.com/WBI/lookupservlet?language=en">Check Gift Card Balance</a></li>
+</ul>
+</div>
+
+</div>
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- cspot: begin BFOOT_CSPOT2 -->
+<div class="footer-links">
+<div id="helpandadvice">
+<h2>help &amp; advice</h2>
+<ul>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722622_langId_-1_categoryId_211009">Guide to Buying Online</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012">Privacy Policy</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722613_langId_-1_categoryId_211012">Buying Terms &amp; Conditions</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722614_langId_-1_categoryId_211012">Website Terms of Use</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_790055_langId_-1_categoryId_211015">About Halfords Ireland Reserve and Collect</a></li>
+</ul>
+</div>
+
+</div>
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- cspot: begin BFOOT_CSPOT3 -->
+<div class="footer-links">
+<div id="stores"> 
+<h2>our websites</h2>
+<ul>
+<li><a href="/webapp/wcs/stores/servlet/SiteMapView?langId=-1&amp;storeId=11101&amp;catalogId=15551">Halfords.ie Sitemap</a></li>
+<li><a class="external" target="_blank" title="Opens in new window" href="http://www.halfords.com">Halfords.com </a></li>
+<li><a class="external" target="_blank" title="Opens in new window" href="http://www.halfordscompany.com/">Investor Relations</a></li>
+<li><a class="external" target="_blank" title="Opens in new window" href="http://www.halfordscareers.com">Halfords Careers </a></li>
+<li><a class="external" target="_blank" title="Opens in new window" href="http://www.halfordsb2b.co.uk/home.asp">Halfords Business Services</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722610_langId_-1_categoryId_211010">Customer Reviews</a></li>
+<li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722602_langId_-1_categoryId_211010">Customer Q&amp;A</a></li>
+</ul>
+</div>
+
+</div>
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- cspot: begin BFOOT_CSPOT4 -->
+<div class="social-links">
+<ul>
+<li><a href="http://www.twitter.com/halfords_UK" title="Follow us on Twitter" target="blank"><img src="/wcsstore/HalfordsConsumerDirect/images/twitter.gif" alt="Follow us on Twitter"></a></li>
+
+<li><a href="http://www.facebook.com/halfordsUK" title="Find us on Facebook" target="blank"><img src="/wcsstore/HalfordsConsumerDirect/images/facebook.gif" alt="Find us on Facebook"></a></li>
+</ul>
+
+</div>
+
+
+
+
+		</div>
+		
+			
+		<div id="footer-bottom">
+			
+			<div id="footer-paymentmethods">
+				<img src="/wcsstore/Halfords_IE/images/card/footer-logo.gif" alt="Pay using Credit/Debit card">
+				
+			</div>
+			
+			<div id="footer-hitwise">
+				<!--
+				TrustLogo Html Builder Code:
+				Shows the logo at URL http://www.trustlogo.com/trustlogo_choice.html
+				Logo type is  ("SC4")
+				undefined
+				//-->
+				<a href="http://www.instantssl.com" id="comodoTL">SSL</a>
+				<script type="text/javascript">
+					TrustLogo("/wcsstore/HalfordsConsumerDirect/images/h20/tl_transp.gif", "SC4", "none");
+				</script>			
+				
+				
+			</div>
+			
 			
 			
 		</div>
-		<div id="footer-links">
-			<ul class="links">
-				
-				<li class="first">
-					<a title="Click here to view our Terms &amp; Conditions" href="http://www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722613_langId_-1_categoryId_211012">
-						Terms &amp; Conditions
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here to view the website terms of use" href="http://www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722614_langId_-1_categoryId_211012">
-						Terms of Use
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here to view our privacy policy" href="http://www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012">
-						Privacy Policy
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here to contact us" href="http://www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722617_langId_-1_categoryId_211015">
-						Contact Us
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here to view the site map" href="http://www.halfords.ie/webapp/wcs/stores/servlet/sitemapview_storeId_11101_catalogId_15551_langId_-1">
-						Sitemap
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here for information about Halfords" href="http://www.halfordscompany.com/" target="_new">
-						Investor Relations
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here for information about careers with Halfords" href="http://www.halfordscareers.com" target="_new">
-						Careers
-					</a>
-				</li>
-				
-				<li>
-					<a title="Click here for information about Halfords business services" href="http://www.halfordsb2b.co.uk" target="_new">
-						Business Services
-					</a>
-				</li>
-				
-				<li class="last">
-					<a title="Halfords UK" href="http://www.halfords.com">
-						halfords.com
-					</a>
-				</li>
-				
-			</ul>
-		</div><!-- div id footer-links: END -->
-		<div class="clearBoth"></div>
 	</div>
-	<div id="copyright">Copyright © Halfords - All rights reserved.</div>
-	
-	<div id="footer-salmon">
-		<div id="salmon"><a title="Click here for information about Salmon Ltd" href="/webapp/wcs/stores/servlet/SalmonBuiltByView?langId=-1&amp;storeId=11101&amp;catalogId=15551">Built By Salmon</a></div>
-	</div>
-	
-	
 </div><!-- div id footer: END -->
+
+<div id="footer-salmon">
+	<div id="copyright">Copyright © Halfords - All rights reserved.</div>
+	<div id="salmon"><a title="Click here for information about Salmon Ltd" href="/webapp/wcs/stores/servlet/SalmonBuiltByView?langId=-1&amp;storeId=11101&amp;catalogId=15551">Built By Salmon</a></div>
+</div>
+
+
+
+
+
+<script type="text/javascript" src="/wcsstore/HalfordsConsumerDirect/javascript/edigital/ecos_surveycode_jsonly.js"></script>
+
+
+
+
 
 
 
