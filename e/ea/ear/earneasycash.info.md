@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the earneasycash.info privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earneasycash.info privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # EarnEasyCash Privacy Statement
 
-  
-
-
-| **Top 6 Clickers**  
+| **Login & Register**  
 ---  
   
-1\. olesean (199)  
-2\. raisa (193)  
-3\. pawelsel1 (192)  
-4\. eveline (189)  
-5\. prontoisc (178)  
-6\. lucek (176)  
+[](http://www.earneasycash.info/index.php?view=login& "Login")  
+[](http://www.earneasycash.info/index.php?view=join& "Register")  
   
+  
+  
+
+
+**Top 6 Clickers**  
+---  
+  
+1\. raisa (215)  
+2\. eveline (175)  
+3\. ghostofkraken (168)  
+4\. santhosh42 (167)  
+5\. bluehurley56 (165)  
+6\. gajdik (164)  
   
   
   
@@ -48,10 +54,8 @@ EarnEasyCash provides users the opportunity to opt-out of receiving communicatio
 If you have any questions about this privacy statement, the practices of this site, or your dealings with EarnEasyCash, you can [Contact Us](http://www.earneasycash.info/index.php?view=contact).   
   
   
-**[Register](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=join& "Join For Free!") **|** [Earn](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=account&ac=earn& "Earnings Page") **|** [Login](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=login& "Member Login") **|** [Support](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=support& "Support") **|** [FAQ's](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=help& "FAQ's") **|** [Terms](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=terms& "Terms of Service") **|** [Privacy](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=privacy& "Privacy") **|** [Forum](http://083f493b.urlpulse.net/ "Site Forum") **|** [Contact](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/index.php?view=contact& "Contact Us With Any Comments/Suggestions")**   
-[](http://www.histats.com/ "site stats") **Time:** June 14, 2010 20:56:43 ( **Ads reset at 24:00** )
+**[Register](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=join& "Join For Free!") **|** [Earn](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=account&ac=earn& "Earnings Page") **|** [Login](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=login& "Member Login") **|** [Support](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=support& "Support") **|** [FAQ's](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=help& "FAQ's") **|** [Terms](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=terms& "Terms of Service") **|** [Privacy](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=privacy& "Privacy") **|** [Forum](http://www.eecash.info/ "Site Forum") **|** [Contact](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=contact& "Contact Us With Any Comments/Suggestions")**   
+**Time:** ( **Ads reset at 24:00** )
 
 EarnEasyCash is free to join and use. Est. July 2008  
 Get cheap ptc advertising and low cost traffic visitors to your website. Earn ptc surf and ptc click. Free PTC Advertising while surfing
-
-[](https://web.archive.org/web/20100615015646id_/http%3A//www.earneasycash.info/fbannerclick.php?id=2614)
