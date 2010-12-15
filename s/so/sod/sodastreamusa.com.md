@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522101004id_/http%3A//www.sodastreamusa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215165127id_/http%3A//www.sodastreamusa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Sodastream | Privacy Policy
 
