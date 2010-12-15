@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620213124id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216004810id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
 
-# Player Security - Free Poker Download - PokerStars
+# PokerStars Security - PokerStars Privacy Policy - Secure Online Poker
 
 Your privacy on the Internet is very important to PokerStars.net. We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at PokerStars.net, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures. 
 
