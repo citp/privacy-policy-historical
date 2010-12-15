@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616152202id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216005301id_/http%3A//acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Goodman Air: Mitsubishi Mr Slim: Goodman Heat Pump: Buy Wholesale Direct
 
-| 
+|  | 
 
 (Your shopping cart is empty)
 
@@ -69,11 +69,10 @@ Terms and Conditions
 
 Please also visit our 
 
-[Terms and Conditions](https://web.archive.org/web/20100616152202id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+[Terms and Conditions](https://web.archive.org/web/20101216005301id_/http%3A//acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
 By using our site, you consent to our privacy policy.  
   
----|---  
-Goodman Air: Mitsubishi Mr Slim: Goodman Heat Pump: Buy Wholesale Direct
+---|---
