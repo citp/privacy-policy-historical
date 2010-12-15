@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galvestondailynews.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225125559id_/http%3A//galvestondailynews.com/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galvestondailynews.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215161532id_/http%3A//galvestondailynews.com/privacy) for the most accurate reproduction.*
 
 # The Galveston County Daily News
 
@@ -44,6 +44,12 @@ We may disclose and use personally identifiable information in special circumsta
 
 When you view an ad, our third-party advertising company may place or recognize a unique cookie on your browser. The information collected is not personally identifiable and is used only to track response to our advertising efforts.
 
+**Associated Press News Registry**
+
+This site uses services provided by the [AP News Registry](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx). AP News Registry collects content usage information and may use cookies in conjunction with this activity. Continued readership of The Daily News site means you accept the privacy policy of the AP News Registry. Please refer to the [AP News Registry privacy policy](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx) for further information.
+
 **Comments and questions**
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [webmaster@galvnews.com](mailto:webmaster@galvnews.com).
+
+_Last Updated: July 20, 2010_
