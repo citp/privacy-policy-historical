@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115192751id_/http%3A//www.meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215031224id_/http%3A//meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Meat Processing Products Privacy Policy
 
@@ -61,7 +61,7 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
  **How Do We Protect Your Information?**
 
 > **Secure Information Transmissions**  
->  Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact (ENTER CONTACT INFORMATION HERE) if you have any questions or concerns. 
+>  Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact us at service@meatprocessingproducts.com if you have any questions or concerns. 
 
 **How Can You Access and Correct Your Information?**  
 You may request access to all your personally identifiable information that we collect online and maintain in our database by contact us, see the above contact information.
