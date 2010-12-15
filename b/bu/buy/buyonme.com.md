@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyonme.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616150009id_/http%3A//www.buyonme.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyonme.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215135306id_/http%3A//www.buyonme.com/privacy_notice.html) for the most accurate reproduction.*
 
-# Privacy Notice : BuyOnMe, China wholesaler
+# Privacy Notice : BuyOnMe.com, Gadgets & Gifts Wholesale
 
 BuyOnMe respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of informations from your visit to our site. To better protect your privacy, we provide the notice below explaining our online informations practices and the choices you can make about the way your informations are collected and used. 
 
