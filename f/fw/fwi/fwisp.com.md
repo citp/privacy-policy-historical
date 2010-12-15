@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwisp.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821123104id_/http%3A//fwisp.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwisp.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215234528id_/http%3A//fwisp.com/static/privacy-policy) for the most accurate reproduction.*
 
-# fwisp | Discover & Share Business, Economy & Finance News, Articles & Videos: Privacy Policy
+# fwisp | Privacy Policy
 
 **Privacy Policy**
 
