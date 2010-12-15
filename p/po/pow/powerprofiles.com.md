@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerprofiles.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529090044id_/http%3A//dnb.powerprofiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerprofiles.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215200229id_/http%3A//dnb.powerprofiles.com/privacy) for the most accurate reproduction.*
 
 # PowerProfiles Privacy Policy
 
