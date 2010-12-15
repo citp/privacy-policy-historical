@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202111742id_/http%3A//www.everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215130813id_/http%3A//everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
 
 # One-Stop Search For Warehouse Sales, Clearance Sales, Sales Voucher & Hidden Promotion in Malaysia - Everyday.com.my
 
@@ -19,6 +19,8 @@ We may collect and store the following personal information:
   * other information, including IP address and standard web log information: and 
   * supplemental information from third parties. 
 
+
+
 **Marketing**
 
 We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. If you don't wish to receive marketing communications from us, simply indicate your preference once you sign-in on the Site. 
@@ -33,6 +35,8 @@ Our primary purpose in collecting personal information is to provide you with a 
   * tell you about targeted marketing, service updates, and promotional offers based on your communication preferences; and 
   * compare information for accuracy, and verify it with third parties. 
 
+
+
 **Our Disclosure of Your Information**
 
 We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. 
@@ -43,6 +47,8 @@ We may also share your personal information with:
   * other third parties to whom you explicitly ask us to send your information; (or about whom you are otherwise explicitly notified and consent to when using a specific service) 
   * law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity; (In such events we will disclose name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history.) 
   * other business entities, should we plan to merge with, or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
+
+
 
 Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. 
 
@@ -61,6 +67,8 @@ A few important things you should know about cookies are that:
   * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. 
   * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site. 
   * You may encounter cookies from third parties on certain pages of the Site that we do not control. (For example, if you view a web page created by another user, there may be a "cookie" placed by that web page.). 
+
+
 
 **No Spam, Spyware or Cookies**
 
