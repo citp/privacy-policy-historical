@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowmealworms.net privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328013324id_/http%3A//www.rainbowmealworms.net/privacy.php%3FosCsid%3D13010cc6566a2bfe297b528c8682906a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowmealworms.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134550id_/http%3A//www.rainbowmealworms.net/privacy.php) for the most accurate reproduction.*
 
 # Rainbow Mealworms, Inc.
 
