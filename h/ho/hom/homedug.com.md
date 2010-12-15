@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the homedug.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314072911id_/http%3A//www.homedug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedug.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215233656id_/http%3A//www.homedug.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - | Interior Design, Home Interior Design ideas, Home Furniture, Interior Decorating
-
-**Browse:[Home](http://www.homedug.com/ "Go to Home.") > Privacy Policy**
+# Privacy Policy - Interior Design, Home Interior Design ideas, Home Furniture, Interior Decorating
 
 1\. Homedug.com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of Homedug.com and are only used for troubleshooting purposes.
 
