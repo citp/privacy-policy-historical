@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundsindia.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428230933id_/https%3A//www.fundsindia.com/content/jsp/corporate/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsindia.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215204533id_/https%3A//www.fundsindia.com/content/jsp/corporate/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # FundsIndia
 
