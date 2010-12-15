@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiatribune.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616034449id_/http%3A//www.columbiatribune.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiatribune.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215182405id_/http%3A//www.columbiatribune.com/help/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | The Columbia Daily Tribune - Columbia, Missouri
 
@@ -19,3 +19,7 @@ The Tribune uses server logs and third party software programs to measure traffi
 A cookie is a small file sent to your browser via a Web server and stored on your hard drive. Cookies are commonly used to remember registration information, to limit the frequency of pop-under ads and to limit participation in surveys. Most browsers allow users to adjust the cookie settings. Some features of our Web site will not function correctly if you do not allow cookies. 
 
 Some of our advertisers may serve cookies to your browser as well. The Tribune does not have control over cookies placed by our advertisers. 
+
+**Associated Press notice**
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
