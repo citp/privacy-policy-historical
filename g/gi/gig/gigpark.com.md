@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigpark.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906095148id_/http%3A//www.gigpark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigpark.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215042702id_/http%3A//www.gigpark.com/privacy_policy) for the most accurate reproduction.*
 
 # GigPark: Privacy policy
 
@@ -56,9 +56,10 @@ You can help us maintain the accuracy of your personal information by notifying 
 > E-mail: [hello@gigpark.com](mailto:hello@gigpark.com)
 >
 >> Send Mail:   
->  1401 Dupont Street   
->  Toronto, Ontario, Canada   
->  M6H 2B1 
+>  One Innovation Place   
+>  2700 Production Way, Suite 500   
+>  Burnaby, BC, Canada   
+>  V5A 0C2 
 
 ####  Are Children Allowed to Use GigPark? 
 
