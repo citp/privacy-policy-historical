@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctreal.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426012245id_/http%3A//ctreal.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctreal.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215055327id_/http%3A//ctreal.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,14 +13,14 @@ We recognize the importance of protecting the personal information you provide a
  
 
   1. We may gather the following types of information needed to process your transactions, fulfill your requests, and maintain our membership records: 
-      * Contact information you provide (for example, your email address as your unique identifier for you to recover search information you requested be saved by CTMLS.
-      * Tracking information which our web server automatically recognizes each time you visit one of our sites or communicate with us by e-mail (for example your domain name, your e-mail address, and what pages you visit); and   
+    * Contact information you provide (for example, your email address as your unique identifier for you to recover search information you requested be saved by CTMLS.
+    * Tracking information which our web server automatically recognizes each time you visit one of our sites or communicate with us by e-mail (for example your domain name, your e-mail address, and what pages you visit); and   
  
   2. We may use this information to: 
-      * Improve and customize the content and layout of our sites and other communications tools.
-      * Track usage of our sites.
-      * Identify abuse or misuse of our sites.
-      * Assist local and state REALTOR® associations and affiliated institutes, and societies in membership tracking and for their use for purposes similar to those listed above.   
+    * Improve and customize the content and layout of our sites and other communications tools.
+    * Track usage of our sites.
+    * Identify abuse or misuse of our sites.
+    * Assist local and state REALTOR® associations and affiliated institutes, and societies in membership tracking and for their use for purposes similar to those listed above.   
  
   3. CTMLS does not share, sell or trade e-mail addresses.   
  
