@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-mealz.com privacy policy that was archived on 2010-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610094545id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-mealz.com privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215054242id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
   <title>E-mealz - a meal planning resource for busy moms and frugal family cooks.</title>
@@ -44,12 +44,18 @@
     }
     //-->
 		
+		$(document).ready(function() {
+      $('#faq-accordion p').hide();
+      $('#faq-accordion h2').click(function() {
+        $(this).next('p').slideToggle();
+      });
+    });
   </script>
   
   <script type="text/javascript" src="/overlibmws.js"></script>
   <script type="text/javascript" src="/rollovers.js"></script>
   
-  <link rel="stylesheet" href="/newdefault2.css">
+  <link rel="stylesheet" href="/newdefault2.css?4">
   <link href="/favicon.ico" rel="shortcut icon" type="image/ico">
 </head>
 
@@ -59,8 +65,8 @@
   <div id="container">
     <!-- <a href="mealtimemakeover.shtml" id="mealtimemakeover">mealtimemakeover.com</a> -->
     
-    <div id="haiti">
-      <a href="/haiti"><img src="/haiti/images/OurHEART4Haiti_logo-header.png" width="371" height="68" border="0"></a>
+    <div id="toppromo" style="margin-top: 40px;">
+      <a href="/christmas-gift"><img src="/christmas-gift/images/Christmas-Gift_icon_top.png" border="0"></a>
     </div>
     
     <div id="logo">
@@ -82,8 +88,8 @@
         <a href="/options.shtml">meal plan options</a>
         <a href="/amember/member.php">login</a>
         <a href="/faq.shtml">faq</a>
-        <a href="/links.shtml">links</a>
         <a href="/about.shtml">about</a>
+        <a href="http://blog.e-mealz.com" target="_blank">blog</a>
       </div>
       
       <div id="left_side">
@@ -100,42 +106,44 @@
           <a href="/gift.shtml"><img src="/images/navigation/give_the_gift.png" height="44" width="239" alt="Give The Gift" class="rollover" id="lhs-gift"></a>
         </div>
         <div>
+          <a href="/contact.shtml"><img src="/images/navigation/customer_service.png" height="44" width="239" alt="Customer Service" class="rollover" id="lhs-service"></a>
+        </div>
+        <div>
           <a href="http://twitter.com/EMEALZ"><img src="/images/navigation/follow_us_on_twitter.png" height="44" width="239" alt="Follow us on Twitter" class="rollover"></a>
         </div>
         <div>
           <a href="http://www.facebook.com/pages/E-Mealz/138553919372"><img src="/images/navigation/join_us_on_facebook.png" height="44" width="239" alt="Join us on Facebook" class="rollover"></a>
         </div>
-        <!-- Begin sidebar promotion -->
-          <form action="/amember/email/fathersdayrequest.php" target="_blank" method="post" style="margin:1em 0 0.5em;">
+				<!-- Begin sidebar promotion -->  
+          <form action="/amember/email/holidaydessertrequest-christmas.php" target="_blank" method="post" style="margin:1em 0 0.5em;">
             <div id="mom-sidebar">
               <p><input name="subject" value=""></p>
              <input type="text" name="email" value="" data-label="Email Address" id="sidebar-email">
-              <input type="submit" style="position:absolute; left:-300px; width:100px;" value="Request Recipe">
+              <input type="submit" style="position:absolute; left:-10000px; width:100px;" value="Request Recipe">
               <a href="#" onclick="this.parentNode.parentNode.submit()" id="make-request"></a>
             </div>
           </form>
           <style type="text/css">
-            #mom-sidebar { position:relative; width:235px; height:403px; background:url(/images/promotions/2010-fathersday/Homepage_FDicon.png); overflow:hidden; }
+            #mom-sidebar { position:relative; width:235px; height:335px; background:url(/images/promotions/holidaydessert/holidaydessert-signup.png); overflow:hidden; }
             #mom-sidebar p { display:none; }
-            #make-request { position:absolute; left:80px; top:370px; width:90px; height:33px; }
-            #sidebar-email { position:absolute; left:20px; top:333px; width:195px; height:23px;
+            #make-request { position: absolute; left: 45px; top: 157px; width: 150px; height: 40px; }
+            #sidebar-email { position:absolute; left:19px; top:130px; width:190px; height:19px;
               border:none; background:#fff; color:#333;
               font:inherit; padding:1px 2px 3px; font-size:12px; line-height:20px;
               box-sizing:content-box; -moz-box-sizing:content-box; -ms-box-sizing:content-box; -webkit-box-sizing:content-box; 
             }
             #sidebar-email.labeled { color:#aaa; }
           </style>
-        <!-- End sidebar promotion -->
-        
-        <a href="http://e-mealz.com/vacation"><img src="/vacation/images/vacation-menu_icon-NEW.png" alt="Emealz Vacation Menu" border="0"></a> 
+         <!-- End sidebar promotion -->
         <br>
-        <a href="http://e-mealz.com/gift.shtml"><img src="/images/GivetheGift_homepromo.png" alt="Give the Gift of E-mealz" border="0"></a> 
+        <a href="/christmas-gift"><img src="/christmas-gift/images/Christmas-Gift_icon_side.png" alt="Give the Gift of E-mealz" width="235" height="261" border="0"></a> 
+        <!-- <a href="http://e-mealz.com/gift.shtml"><img src="/images/GivetheGift_homepromo.png" alt="Give the Gift of E-mealz" border="0" /></a> -->
         <br>
         <p style="text-align:center">
           <a href="https://www.securitymetrics.com/site_certificate.adp?s=66%2e70%2e120%2e92&amp;i=155139" target="_blank"><img src="https://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" style="border:0; padding:5px 0;"></a>
           <br>
           <br>
-          <a href="http://www.InstantSSL.com" title="SSL Certificate Authority" style="font-family: arial; font-size: 10px; text-decoration: none;"><img src="/images/InstantSSL-DV_tl_white.gif" alt="Instant SSL Certificate" title="SSL Certificate Authority" border="0"></a>
+          <a href="http://www.instantssl.com" id="comodoTL">SSL</a><script type="text/javascript" src="/seal.js"></script>
         </p>
       </div>
 		
@@ -200,8 +208,8 @@
 </div>
 
   	<div id="footer">
-  	  <div style="float:right"><a href="/legal.shtml">Legal</a> · <a href="/privacy.shtml">Privacy Policy</a> · <a href="/contact.shtml">Contact</a></div>
-  		Copyright © 2002-2009 <a href="http://e-mealz.com">e-mealz.com</a>, <a href="/maketimeforfamily.shtml">maketimeforfamily.org</a>
+  	  <div style="float:right"><a href="/legal.shtml">Legal</a> · <a href="/privacy.shtml">Privacy Policy</a> · <a href="/links.shtml">Links</a></div>
+  		Copyright © 2002-2010 <a href="http://e-mealz.com">e-mealz.com</a>, <a href="http://blog.e-mealz.com" target="_blank">maketimeforfamily.org</a>
   	</div>
   </div>
   <script type="text/javascript" src="/LB.autoLabel.js">/* Supports family day sidebar */</script>
