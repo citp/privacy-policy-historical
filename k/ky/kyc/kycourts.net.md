@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kycourts.net privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610173150id_/http%3A//kentucky.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kycourts.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215171527id_/http%3A//kentucky.gov/policy/privacy.htm) for the most accurate reproduction.*
 
-# Kentucky.gov : Privacy and Security
+# Kentucky.gov: Privacy and Security
 
 Your privacy and security are our highest priority.  Ensuring electronic access to state government information and services while maintaining privacy is a guiding principle of the state's [Direction of Enterprise Information Technology](http://cot.ky.gov/policies/ "Policies").  The Commonwealth of Kentucky collects only the personal information necessary to provide enhanced services to our citizens and customers.  Please note that all non-exempt information collected by Kentucky.gov services may be subject to public disclosure under [KRS 61.870, the Kentucky Open Records Act](http://lrc.ky.gov/KRS/061-00/870.PDF "Open Records Act Statute") [PDF]. 
 
@@ -20,6 +20,14 @@ This information is used only to improve the scope and content of the state's se
 ### Information Sharing
 
 Kentucky.gov will not release personal information to third parties except where it is already provided by law for purposes of notification. We will not provide, rent or sell personal information to third parties for marketing programs or any other purpose. State law restricts the use of personally identifiable information for commercial purposes. Depending on the specific nature of the service, information may be shared with other state agencies as stated in [KRS 61.878 (5)](http://www.lrc.state.ky.us/krs/061-00/878.pdf) [PDF]. This statute allows for the exchange of public records or sharing of information between public agencies when the exchange is serving a legitimate governmental need or is necessary in the performance of a legitimate government function.
+
+### Child Online Privacy Protection Act (COPPA)
+
+Except as otherwise permitted by law, the Commonwealth does not knowingly collect and use or disclose the personally identifiable information of a child under the age of 13. 
+
+Children under the age of 13 are not eligible to use services that require submission of personal information and should not submit any personal information to us. This includes submitting personal information to the website as part of a user profile or personalization profile. If you are a child under the age of 13, you can use these services only if used together with your parents or guardians. Seek guidance from your parents or guardians if you are under the age of 13. 
+
+If we decide to begin collecting personal information from children under the age of 13, we will notify parents that it is being requested, disclose the reasons for collecting it, and disclose our intended use of it. We will seek verifiable parental consent before collecting any personally identifiable information. If we do collect such information, parents may request information on the type of data being collected, view their child's information, and, if they choose, prohibit us from making further use of their child's information. We will not provide personal information about children to third parties. 
 
 ### Internet Cookies
 
@@ -43,6 +51,12 @@ If you send an E-mail message or complete an unsecured web form, which contains
   * If unsecured and / or unencrypted email is used, please do not put confidential and personal information such as social security number, date of birth, bank account and credit card information, mother's maiden name or medical information in your e-mail communications to the Commonwealth. Your privacy cannot be protected or insured by the Commonwealth during email or unsecured web form transmission. 
 
 
+
+### Electronic Payments
+
+It is the intent of the Commonwealth of Kentucky not to use the ACH system for transactions in violation of U.S. Law, including the sanctions administered by the Office of Foreign Assets Control (OFAC). It is also the intent of the agency to be in compliance with the "International ACH Transaction (IAT) rules" that are part of the NACHA Operating Rules. Accordingly, all payments made through this website/online application are intended only for payments not associated with a foreign bank account, which would classify it as an "International ACH Transaction (IAT)" under the NACHA Operating Rules. 
+
+Since this website's payment application does not accommodate IAT transactions, payors that would be considered an IAT payor should use some other method of remitting funds to the Commonwealth. Alternative forms of payment would include check or credit card.
 
 ### Live Help
 
@@ -75,4 +89,22 @@ Transcripts of the Live Help sessions contain the following information:
   * Topic 
   * Email address if a transcript was requested
 
+
+
+### Legal Notice
+
+Any trademarks that appear on this site are the property of their respective owners who may or may not be affiliated with, connected to, or sponsored by Kentucky.gov. Kentucky.gov respects the rights of all copyright holders, and therefore, Kentucky.gov has adopted and implemented a policy that provides for the termination in appropriate circumstances of users and account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Kentucky.gov 's Copyright Agent the following information required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. 512: 
+
+  1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+  2. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+  3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+  4. Information reasonably sufficient to permit us to contact the complaining party;
+  5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
+
+For copyright inquiries please contact:   
+Kentucky.gov   
+Email: [copyrightagent@egov.com](mailto:copyrightagent@egov.com)   
 
