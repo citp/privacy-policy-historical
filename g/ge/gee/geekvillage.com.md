@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516202510id_/http%3A//geekvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215133643id_/http%3A//geekvillage.com/privacy.htm) for the most accurate reproduction.*
 
 # Webmaster Forums - Online Marketing Talk at Geek Village
 
