@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the entertainment.ie privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212213552id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the entertainment.ie privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215192708id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,9 +7,9 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Abstract" content="Entertainment.ie. Ireland's only entertainment guide">
-<meta name="description" content="Entertainment Ireland, reliable and up-to-date cinema listings, TV, music, gigs, exhibitions, theatre, clubbing, comedy and much more.  Everything updated daily.">
-<meta name="keywords" content="entertainment, ireland, gig, comedy, competition, competitions, horoscopes, review, reviews, festival, festivals, irish festivals, theatre, exhibition, arts, tides, weather, cinema, listing, events, traditionnal, irish, music, email, e-mail, free, free email, free e-mail, listings, gigs, ceili, ceíli, traditional, music, irish, travel, holidays, restaurants, food, drink, drunk, restaurant, 2003">
-<meta name="author" content="Fusio/Entertainment Ireland - http://fusio.ie">
+<meta name="description" content="Entertainment.ie, reliable and up-to-date cinema listings, TV, music, gigs, exhibitions, theatre, clubbing, comedy and much more.  Everything updated daily.">
+<meta name="keywords" content="entertainment, ireland, gig, comedy, competition, competitions, horoscopes, review, reviews, festival, festivals, irish festivals, theatre, exhibition, arts, tides, weather, cinema, listing, events, traditionnal, irish, music, email, e-mail, free, free email, free e-mail, listings, gigs, ceili, ceíli, traditional, music, irish, travel, holidays, restaurants, food, drink, drunk, restaurant, 2010">
+<meta name="author" content="Fusio/Entertainment.ie - http://fusio.net">
 <meta http-equiv="pragma" content="no-cache">
 <meta name="rating" content="general">
 <meta name="robots" content="index, follow">
@@ -23,10 +23,108 @@
 </head>
 <body>
 <div id="wrapper">
-                                            
+<script type="text/javascript">
+
+/***********************************************
+* Dynamic Countdown script- © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function cdtime(container, targetdate){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+this.currentTime=new Date()
+var now=new Date();
+var Y = now.getFullYear();
+var m = now.getMonth();
+var d = now.getDate();
+var date = new Date();
+while (date.getDay() != 5) {
+date = new Date(Y,m,++d);
+}
+this.targetdate = new Date(Y,m,d,17,0,0);
+this.timesup=false
+this.updateTime()
+}
+
+cdtime.prototype.updateTime=function(){
+var thisobj=this
+this.currentTime.setSeconds(this.currentTime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdtime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdtime.prototype.showresults=function(){
+var thisobj=this
+
+
+var timediff=(this.targetdate-this.currentTime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+/////CUSTOM FORMAT OUTPUT FUNCTIONS BELOW//////////////////////////////
+
+//Create your own custom format function to pass into cdtime.displaycountdown()
+//Use arguments[0] to access "Days" left
+//Use arguments[1] to access "Hours" left
+//Use arguments[2] to access "Minutes" left
+//Use arguments[3] to access "Seconds" left
+
+//The values of these arguments may change depending on the "baseunit" parameter of cdtime.displaycountdown()
+//For example, if "baseunit" is set to "hours", arguments[0] becomes meaningless and contains "n/a"
+//For example, if "baseunit" is set to "minutes", arguments[0] and arguments[1] become meaningless etc
+
+
+function formatresults(){
+if (this.timesup==false){//if target date/time not yet met
+var displaystring="Only "+(arguments[1]+(arguments[0]*24))+":"+arguments[2]+":"+arguments[3]+"s to go..."
+}
+else{ //else if target date/time met
+var displaystring="The weekend is here!"
+}
+return displaystring
+}
+
+
+// JavaScript Document 
+
+</script>
+
 <div id="supernav" class="clearfix">
     	<ul id="nav" class="clearfix">
         	<li><a href="/features/">Exclusives</a></li>
+            <li><a href="/pages/annualawards/">Annual Awards<span class="super-nav-new">NEW</span></a></li>
             <li><a href="#">Reviews</a>
             	<ul>
                 	<li><a href="/viewerreviews/">Your Reviews</a></li>
@@ -39,23 +137,30 @@
             
             <!--<li><a href="http://ad.doubleclick.net/clk;219976238;40878535;a " style="color:#0C3">Green Spheres</a></li>-->
             
+            <li><a href="/celebrity_gossip/">Gossip</a></li>
             <li><a href="/competitions/">Competitions</a></li>
-            <!--<li><a href="/pages/newsflash/">Newsflash<span class="super-nav-new">NEW</span></a></li>-->
-            <li><a href="/pages/familyfun/">Family</a></li>
-            <li><a href="/eiTV/" title="ei TV">ei TV</a></li>
-            <li><a href="/goodiebag/">Goodie Bag</a></li>
+            <!--<li><a href="/jdiff/">JDIFF<span class="super-nav-new">NEW</span></a></li>-->
+            
+            <li><a href="http://dating.entertainment.ie" title="Dating">Dating</a></li>
             <li><a href="/caughtout/">Caught Out</a></li>
-            <li><a href="/pages/ubisoft/avatar/">James Cameron's Avatar</a></li>
-             <li><a href="/pages/annualawards/">Annual Awards<span class="super-nav-new">NEW</span></a></li>
-            <!--<li><a href="/summerfestivals/">Summer Festivals</a></li>-->
+           	<!--<li><a href="/pages/oscars2010/">Oscars '10</a></li>-->
+            <li><a href="/restaurants/" title="Restaurant Guide Ireland">Restaurants</a>
+            
+            </li><li><a href="/casino/">Games</a></li>
+            <li><a href="/pages/xfactor/">X-Factor</a></li>
+            <li><a href="/eiTV/">eiTV</a></li>
+            
+                        <!--<li><a href="/summerfestivals/">Summer Festivals</a></li>-->
             <li>
             </li><li class="last"><a href="#">More</a>
             	<ul>
-                	<li><a href="/horoscopes/">Horoscopes</a></li>
+                	<li><a href="http://entertainment.ie/pages/NewsFlash/">Newsflash<span class="super-nav-new">NEW</span></a></li>
+                	<li><a href="/pages/familyfun/">Family</a></li>
+                	<li><a href="/goodiebag/">Goodie Bag</a></li>
                 	<li><a href="/venues/">Venues</a></li>
-            		<li><a href="/forum/">Forum</a></li>
-            		<li><a href="/lotto/">Lotto</a></li>
                     <li><a href="/weather/">Weather</a></li>
+                    <li><a href="/lotto/">Lotto</a></li>
+            		<li><a href="/horoscopes/">Horoscopes</a></li>
                 </ul>
             </li>
 
@@ -78,7 +183,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1422950|0|938|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1422950|0|938|ADTECH;loc=100;target=_blank;grp=707;misc=1580468859928"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|690|1422950|0|938|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|690|1422950|0|938|ADTECH;loc=300" border="0" width="210" height="70" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1422950|0|938|ADTECH;loc=100;target=_blank;grp=66;misc=1580468863590"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|690|1422950|0|938|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|690|1422950|0|938|ADTECH;loc=300" border="0" width="210" height="70" /></a></noscript>
 <!-- End of JavaScript Tag -->
     </div>
     <div class="left-advertisement">
@@ -90,26 +195,13 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1358209|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1358209|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=707;misc=1580468859930"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|690|1358209|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|690|1358209|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="728" height="90" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1358209|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=66;misc=1580468863594"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|690|1358209|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|690|1358209|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="728" height="90" /></a></noscript>
 <!-- End of JavaScript Tag -->
     </div>
 </div>
-    
-
-<!-- No index start 1 -->
-    <div id="contactFormContainer">
-                <div id="searchForm">
-<h3 style="padding:10px 0 0 15px;">Site search</h3>
-<form style="padding:10px 0 0 15px;" method="get" action="/search/search.asp" id="topform">
- <label> <input name="q" maxlength="255" style="width: 80px;" id="topsearchbox" alt="Search">
-  <input type="image" name="submit" align="top" src="http://www.entertainment.ie/images/icons/16x16_orange_go.gif" border="0"></label>
-</form>
-<p style="padding:10px 0 0 15px;"><a href="#" onclick="closeform();">close </a></p>
-                </div>
-            </div>
-    
+    <!-- No index start 1 -->
 <div id="header">
-    <div id="logo">
+  <div id="logo">
         <h1><a href="/">Entertainment Ireland</a></h1>
     </div>
     <script type="text/javascript">
@@ -146,8 +238,20 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
             <div class="divider"><a href="/u-like/">uLike</a></div>
 
         </li>
-        <li id="search_nav2">
-            <div class="divider"><a id="searchLink" rel="subcontent">Search</a></div>
+             <li id="search_nav2">
+			<div class="divider">
+<div class="search_form">
+      <form method="get" action="/search/default.asp" id="topform">
+        <fieldset class="search">
+          <input type="hidden" name="cx" value="015880832382996614740:zljj5_olrjs">
+    	    <input type="hidden" name="cof" value="FORID:10">
+    	    <input type="hidden" name="ie" value="UTF-8">
+          <input class="box" type="text" onclick="if(this.value == 'Search...') this.value='';" onblur="if(this.value.length == 0) this.value='Search...';" value="Search..." name="q">
+          <button class="btn" title="Submit Search" name="submit" value="Search">Search</button>
+        </fieldset>
+      </form>
+    </div>
+    		</div>
         </li> 
     </ul>
             
@@ -155,29 +259,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 
 
-<script type="text/javascript">
-            $(document).ready(function(){
 
-                $("#searchLink").click(function(){
-                    if ($("#searchForm").is(":hidden")){
-                        $("#searchForm").slideDown("fast");
-                        $("#searchLink").addClass("searchGrey")
-                    }
-                    else{
-                        $("#searchForm").slideUp("fast");
-                        $("#searchLink").removeClass("searchGrey")
-                    }
-                });
-
-            });
-            function closeform(){
-                $("#searchForm").slideUp("slow");
-                return false;
-            }
-
-</script>
-
-<!-- No index end 1 -->
     <!--[if !IE]> Begin Sub Navigation <![endif]-->
     <!--[if !IE]> Begin Content <![endif]-->
     <div id="content">
@@ -204,8 +286,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                 part in our user forums). Any information which you provide in
                 this way is not made available to any third parties, however,
                 in the case of uLike members we may, in accordance with the Terms
-                and Conditions of the service, send promotional emails and text
-                messages on behalf of third parties but without allowing those
+                and Conditions of the service, send promotional emails on behalf of third parties but without allowing those
                 third parties to have access to individual email addresses or
                 mobile telephone numbers. </p>
             <h4>Listings</h4>
@@ -275,7 +356,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1358173|0|168|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1358173|0|168|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=707;misc=1580468859943"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|690|1358173|0|168|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|690|1358173|0|168|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="120" height="600" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|690|1358173|0|168|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=66;misc=1580468863607"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|690|1358173|0|168|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|690|1358173|0|168|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="120" height="600" /></a></noscript>
 <!-- End of JavaScript Tag -->
     </div>
     <!--[if !IE]> Begin Footer <![endif]-->
@@ -318,7 +399,6 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
     <li><a href="/festival/">Festivals</a></li>
     <li><a href="/summerfestivals/">Summer Festivals</a></li>
     <li><a href="/music/features/">Music Features</a></li>
-    <li><a href="/music/live-radio/Listen-to-RTE1-2fm-TodayFM-98-Q102-newstalk106.htm">Radio</a></li>
     <li><a href="/music/reviews/">Album Reviews</a></li>
 </ul>
 		<ul>
@@ -339,7 +419,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
     <li><a href="/festival/">Festivals</a></li>
     <li><a href="/clubbing/">Clubbing</a></li>
     <li><a href="/restaurants/">Restaurants</a></li>
-    <li><a href="/comdey/">Comedy</a></li>
+    <li><a href="/comedy/">Comedy</a></li>
     <li><a href="/theatre/">Theatre</a></li>
     <li><a href="/pages/familyfun/">Family Fun</a></li>
     <li><a href="/exhibitions/">Exhibitions</a></li>
@@ -380,7 +460,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
             <li class="last"><a href="/eventlist.htm">Site Directory</a></li>
         </ul>
     </div>
-    <div id="copyright">© 2009 Entertainment.ie: 26 Great Strand Street, Dublin 1</div>
+    <div id="copyright">© 2010 Entertainment.ie: 26 Great Strand Street, Dublin 1</div>
     <div id="ebow"><a href="http://www.fusio.net" target="designer">Developed by Fusio</a></div>
    
 </div>
