@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212213552id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215192708id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment.ie Ireland
 
@@ -12,7 +12,7 @@ entertainment.ie fully respects your right to privacy, and will not collect any 
 
 #### Collection and use of personal information
 
-entertainment.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by joining uLike, entering our competitions or taking part in our user forums). Any information which you provide in this way is not made available to any third parties, however, in the case of uLike members we may, in accordance with the Terms and Conditions of the service, send promotional emails and text messages on behalf of third parties but without allowing those third parties to have access to individual email addresses or mobile telephone numbers. 
+entertainment.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by joining uLike, entering our competitions or taking part in our user forums). Any information which you provide in this way is not made available to any third parties, however, in the case of uLike members we may, in accordance with the Terms and Conditions of the service, send promotional emails on behalf of third parties but without allowing those third parties to have access to individual email addresses or mobile telephone numbers. 
 
 #### Listings
 
