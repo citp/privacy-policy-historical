@@ -1,0 +1,262 @@
+<!--The following is the downloaded HTML source of the mountain.org privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215014755id_/http%3A//www.mountain.org/privacypolicy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	
+
+	
+
+	<script language="javascript" type="text/javascript" src="/nmountain/auxil/menu.js"></script></head><body style="background-color: #EAEAEA;"><div id="dropmenudiv" style="visibility:hidden;width:800px;background-color:#e8e6de" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+	<link href="/nmountain/auxil/newstyle.css" rel="stylesheet" type="text/css">
+	<script language="javascript" src="/nMountain/includes/cal2.js"></script>
+	<script language="javascript" src="/nMountain/includes/cal_conf2.js"></script>
+	<script language="javascript">
+
+		function switchDiv(whichDivNumber) {
+			// Begins at 2 because 1 is common between all
+			for(i=2;i<=5;i++) {
+				document.getElementById("donationDiv" + i).style.display = "none";
+			}
+
+			document.getElementById("donationDiv" + whichDivNumber).style.display = "block";
+
+			if(whichDivNumber >= 3) {
+				document.getElementById("donationDiv5").style.display = "block";
+			}
+
+			document.getElementById("typeOfDonation").value = whichDivNumber;
+		}
+
+		function checkSearch(searchObj) {
+			if(searchObj.value == "SEARCH"){
+				searchObj.value = "";
+			}
+		}
+
+		function checkEmail(eObj) {
+			if(eObj.value == "Enter Email Address"){
+				eObj.value = "";
+			}
+		}
+
+		function onKeyPress(e) {
+			var keycode;
+			if (window.event) {
+				keycode = window.event.keyCode;
+			}  // IE
+			else if (e) {
+				keycode = e.which;
+			};  // Netscape
+			if (keycode == 13) {
+				document.searchForm.submit();
+			}
+		}
+
+		if (document.layers) document.captureEvents(Event.KEYPRESS);
+		document.onkeypress = onKeyPress;
+
+		function toggleHelp(textID, helpID, hideHelp) {
+			if(!hideHelp) {
+				var aText = $(textID);
+				if( aText.offsetParent ) {
+					for(var posX = 0, posY = 0; aText.offsetParent; aText = aText.offsetParent) {
+					  posX += aText.offsetLeft;
+					  posY += aText.offsetTop;
+					}
+				}
+
+				var offset = $(textID).offsetTop;
+				$(helpID).style.top = posY + $(textID).offsetHeight;
+				$(helpID).style.left = posX;
+				$(helpID).style.visibility = "visible";
+			}
+			else {
+				$(helpID).style.visibility = "hidden";
+			}
+		}
+	</script>
+
+
+
+
+
+<div width="100%" height="10" style="height: 10px; background-color: #FFFFFF;">&nbsp;</div>
+	<center>
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td style="padding: 0px 10px 10px 10px; background-color: #FFFFFF;">
+
+					
+
+						<table width="800" cellpadding="0" cellspacing="0" border="0" style="background-color: #5c5a57;">
+							<tbody><tr>
+								<td colspan="3" height="81" valign="top" style="background-color: #5c5a57;">
+									<table width="100%" cellpadding="0" cellspacing="0" border="0">
+										<tbody><tr>
+											<td width="640" height="81" align="left" valign="top" style="background-color: #5c5a57;"><a href="https://www.mountain.org/index.cfm"><img src="/images/logo.jpg" alt="Home" border="0"></a></td>
+						      <td width="160" height="81" align="right" valign="top" style="background-color: #5c5a57;">
+										    	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+										    		<tbody><tr>
+										    			<td width="50" align="right" valign="top" style="padding: 13px 12px 0px 0px; border-right: 1px solid #FFFFFF;">
+										    				<a href="https://www.mountain.org/give/donate.cfm" class="menuLink" style="font-size: 10px;">DONATE</a>										    			</td>
+									    			  <form name="searchForm" id="searchForm" action="/nMountain/search/results.cfm" method="post"></form>
+										    			<td width="110" align="left" valign="top" style="padding: 10px 10px 0px 12px;">
+										    				<input type="text" name="searchstring" id="searchstring" value="SEARCH" class="searchBox" onclick="javascript: checkSearch(this);">
+										    			</td>
+										    			
+										    		</tr>
+										    	</tbody></table>
+										    </td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3" width="800" height="20" style="background-color: #b8b5ac;" valign="middle"><div width="100%" align="left" nowrap="" style="padding-left: 20px;">
+	<a name="aboutLink" id="aboutLink" href="/about/" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(document.getElementById('aboutLink'), event, menu1, '800px'); changeStyle(this,'on');" onmouseout="delayhidemenu();" class="menuLink">ABOUT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a name="programLink" id="programLink" href="/programs/" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(document.getElementById('aboutLink'), event, menu2, '800px'); changeStyle(this,'on');" onmouseout="delayhidemenu();" class="menuLink">WORKING</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a name="pressLink" id="pressLink" href="/press/" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(document.getElementById('aboutLink'), event, menu3, '800px'); changeStyle(this,'on');" onmouseout="delayhidemenu();" class="menuLink">CONNECTING</a>&nbsp;&nbsp;&nbsp;
+	<a name="learnLink" id="learnLink" href="/learn/" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(document.getElementById('aboutLink'), event, menu4, '800px'); changeStyle(this,'on');" onmouseout="delayhidemenu();" class="menuLink">LEARNING</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a name="giveLink" id="giveLink" href="https://www.mountain.org/give/give.cfm" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(document.getElementById('aboutLink'), event, menu5, '800px'); changeStyle(this,'on');" onmouseout="delayhidemenu();" class="menuLink">GIVING</a>
+</div>
+</td>
+							</tr>
+							<tr>
+								<td colspan="3" width="800" valign="top" class="">
+
+								
+
+<link href="nMountain/auxil/newstyle.css" rel="stylesheet" type="text/css"><!-- /mountain.org/www -->
+
+<title>The Mountain Institute - Page Template </title>
+
+
+
+	<script src="AC_RunActiveContent.js" type="text/javascript"></script>
+	<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+
+        
+	<tbody><tr> 
+		<td width="900" height="5" colspan="2" align="left" valign="top" style="background-color: #FFFFFF; padding-bottom: 1px;">&nbsp;</td>
+	</tr>
+  	
+    <tr>
+		<td width="200" height="100%" align="left" valign="top" style="background-color: #FFFFFF; padding-bottom: 2px;"> 
+			<p>
+            	<br>
+       	  <a href="http://www.mountain.org/about/"><span class="accent1">ABOUT</span></a></p>
+			<p class="tmiIndent"><a href="http://www.mountain.org/about/missionhistory.cfm">About TMI</a>		</p>
+			<p class="tmiIndent"><a href="http://www.mountain.org/about/team.cfm">Our Team</a></p>
+			<p class="tmiIndent"><a href="http://www.mountain.org/about/offices.cfm">Our Offices</a></p>
+			<p class="tmiIndent"><a href="http://www.mountain.org/about/employment.cfm">Employment</a></p>
+		<p align="left" class="tmi">__________________________ </p>
+			<p align="left" class="accent1">Related links</p>
+          <p align="left" class="tmiIndent"><a href="http://www.mountain.org/press/publications.cfm">Annual Report</a></p>
+          <p align="left" class="tmiIndent"><a href="http://www.mountain.org/press/publications.cfm">Newsletter</a><br>
+            </p>
+          <p align="left" class="tmiIndent"><a href="http://www.mountain.org/press/publications.cfm">Brochures</a> </p>
+          <p align="left" class="tmi">__________________________</p>
+			<p>&nbsp;&nbsp;&nbsp; <a href="https://www.mountain.org/give/give.cfm"><img src="imgs/Buttons/Donate_Button2.jpg" alt="" width="125" height="25" border="0"></a><br>
+			</p>
+
+	<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
+       	  <p>&nbsp;&nbsp;&nbsp;
+	      <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+	      <br>
+       	  </p>
+	<!-- end  GeoTrust Smart Icon tag -->
+         	<p>&nbsp;&nbsp;
+			  <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','179','height','80','title','oc','src','imgs/Buttons/Follow_Buttons/buttons_sidenav','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','imgs/Buttons/Follow_Buttons/buttons_sidenav' ); //end AC code
+				</script><embed width="179" height="80" title="oc" src="imgs/Buttons/Follow_Buttons/buttons_sidenav.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> 
+			<noscript>
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="179" height="80" title="oc">
+             <param name="movie" value="imgs/Buttons/Follow_Buttons/buttons_sidenav.swf" />
+             <param name="quality" value="high" />
+             <embed src="imgs/Buttons/Follow_Buttons/buttons_sidenav.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="179" height="80"></embed>
+				</object>
+			</noscript>
+			</p>		</td>
+    
+  
+         
+	<td width="700" align="left" valign="top" style="background-color: #FFFFFF; padding-bottom: 8px;"><p class="largetitle2"><span class="largetitle3">
+    
+    	<img src="imgs/pageHeaders/NorthAmerica/P5240235.jpg" width="700" height="200"></span><br>
+	  </p><p class="tmi"><br>
+				<span class="largetitle3">The Mountain Institute Privacy Policy</span></p>
+		<blockquote>
+			<p class="tmi">Thank you for visiting The Mountain  Institute online at <a href="http://www.mountain.org">www.mountain.org</a>.  We take the matter of your privacy very seriously and fully respect your  rights. We never share your personal information with any other organization or  company. The following privacy policy describes what information is gathered on  this website and how it is used.</p>
+			<p class="tmi">			  By  visiting this website, you are accepting the policies described in this Privacy  Policy. If you do not agree with this Privacy Policy, you are not permitted to  use this website.Â&nbsp;  The Mountain Institute may revise this privacy policy from time to time.  We will post any changes here, so be sure to check back periodically. Your continued use of this Website after  changes have been posted will constitute your acceptance of such changes.</p>
+			<p class="tmi">			  Our mailing address is: <br>
+			  3000 Connecticut Avenue, N.W., <br>
+			  Suite 138<br>
+			  Washington D.C. 20008</p>
+			<p class="tmi">			  We can be reached via e-mail at <a href="mailto:summit@mountain.org">summit@mountain.org</a> or by telephone at 202.234.4050. <br>
+			  </p>
+			<p class="tmi">For each visitor to <a href="http://www.mountain.org">www.mountain.org</a>, our web server automatically recognizes and collects  inbound domain names, but not e-mail addresses. This tells us which pages our  users visit and what information they volunteer, such as survey event  registrations. The information we collect is used only for internal review, to  improve our web content, to optimize your web experience and, in some cases, to  customize the content and/or layout of select pages. We will disclose  information we have collected only when legally required to do so: at the  request of governmental authorities conducting an investigation; to verify or  enforce compliance with the policies governing our website and applicable laws  or to protect against misuse or unauthorized use of our website. <br>
+              </p>
+			<p class="tmi"><strong>Cookies</strong> <br>
+			  We use cookies to record past  activity on our website in an effort to provide better and faster service upon  your return visits to <a href="http://www.conservation.org/">www.mountain.org</a>.  We also customize certain web content based on your browser type, bandwidth or  other settings to optimize your site experience. <br>
+              </p>
+			<p class="tmi"><strong>Links</strong> <br>
+			  The Website contains links to  third-party websites. The Mountain Institute is not responsible for the privacy  practices or the content of such websites.<br>
+              </p>
+			<p class="tmi"><strong>Your Contact Details &amp; Mail</strong> <br>
+			  If you provide us your mailing  address, you may receive materials from us periodically about conservation news  and initiatives or upcoming events. If you do not wish to receive this  information, please let us know by e-mail, phone or written letter. Please  include your exact name and address so that we can correctly remove you from  our mailing lists. <br>
+			  </p>
+			<p class="tmi">If you do not want to receive e-mail  from us in the future, please just let us know by e-mailing us at the above  address, calling us at the above telephone number or writing to us at the above  mailing address. <br>
+			  If you provide us your telephone  number, we will only contact you with information regarding the donations or  registrations you have placed online. We do not conduct any form of phone  solicitation. <br>
+			  We do not share your information  with any other organizations or companies. Upon your request and direction, we  will correct any inaccuracies in your contact information. To do so, please  email, call or write us. <br>
+			  </p>
+			<p class="tmi">The Mountain Institute may use your  information:</p>
+			<ul type="disc">
+              <li class="tmi">To process and respond to inquiries and for the       purposes for which you provided the information, such as to process       donations, register or renew you as a member, purchase merchandise, or       receive information about a project.</li>
+			  <li class="tmi">To personalize the content and improve the navigability       of the Website.</li>
+			  <li class="tmi">To alert you to new projects, site features, special       events and services.</li>
+			  <li class="tmi">To conduct surveys to measure your satisfaction with       our service.</li>
+			  <li class="tmi">To enforce our Terms of Use.</li>
+		  </ul>
+			<p class="tmi">If you would like us to update your  contact information or any other part of your membership file, please call our  Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00  am and 6:00pm Eastern Time, <a href="http://www.nature.org/contactus/">contact us online</a> or write us at the address above.<br>
+            </p>
+			<p class="tmi"><strong>Security</strong> <br>
+	      The Mountain Institute attempts to  protect against the loss, misuse and alteration of your personal information.  Our servers are protected by reasonable physical and electronic security. When  providing your sensitive information online, such as financial information to  make a donation, we will redirect you to our Geo Trust secured server.</p>
+			<p class="tmi">			  If you choose to provide your credit card information to The  Mountain Institute we will use that information for the purposes for which it  was provided.<br>
+                        </p>
+			<p class="tmi"><strong>Ad Servers</strong> <br>
+		    We do not partner with or have  special relationships with any ad server companies. If you are concerned about  how your information is being used, please check this page periodically. At any  time, you may prevent your information from being used for unanticipated future  purposes by e-mailing, calling or writing us. <br>
+              </p>
+			<p class="tmi"><strong>Affiliate Websites</strong> <br>
+		    Websites directly affiliated with <a href="http://www.conservation.org/">www.mountain.org</a> and governed by this privacy policy include: </p>
+			<ul type="disc">
+              <li class="tmi">TMI Summer Camp Website, http://www.tmisummercamp.org/</li>
+		  </ul>
+			<p class="tmi"><strong>Children's Guidelines</strong> <br>
+		    None of the websites covered by this  policy knowingly collect identifiable personal information from children under  age 13. If we discover that a person under the age of 13 has provided us with  any personally identifiable information, we will delete that information from  our systems. We are unable to reply to information requests from children under  the age of 13, if so identified. A parent or guardian must initiate any  requests for information from children under the age of 13 on their behalf. We  encourage parents to supervise children when they browse the internet. <br>
+              </p>
+			<p class="tmi"><strong>Your California Privacy Rights</strong> <br>
+			  If you are a California resident,  you are entitled by law to request an Information Sharing Disclosure. If you  provide notice to the address below, we will provide you with a notice of your  right to prevent sharing of your personal information as well as a cost-free  means of doing so. To receive such a notice, submit a written request to the  address listed in the Access section below, specifying that you seek your  "California Customer Choice Notice." Please allow thirty days for a  response.</p>
+			<span class="tmi">If you feel that this site is not following its  stated privacy policy, please contact us by email or phone or contact The DMA's  Committee on Ethical Business Practices at <a href="mailto:ethics@the-dma.org">ethics@the-dma.org</a>.</span></blockquote>      </td>
+  </tr>
+</tbody></table>
+
+
+
+							
+								
+
+
+</td></tr><tr style="background-color: #b8b5ac;">
+								<td colspan="3" align="center" valign="top" bgcolor="ffffff" style="background-color: #ffffff;"><p class="footer"><img src="../../imgs/footerline.jpg" width="800" height="5">								  <br>
+								  3000 Connecticut Avenue, NW, Suite 138, Washington D.C.  20008 &nbsp;&nbsp;| &nbsp;&nbsp;P:202.234.4050 &nbsp;&nbsp;|&nbsp;&nbsp; F: 202.234.4051 &nbsp;&nbsp;|&nbsp;&nbsp; E: summit@mountain.org<br>
+						          <a href="http://www.mountain.org">Home</a> &nbsp;| &nbsp;<a href="http://www.mountain.org/about">About</a> &nbsp;|&nbsp;  <a href="http://www.mountain.org/programs">Programs</a> &nbsp;|&nbsp;  <a href="http://www.mountain.org/press">Press</a> &nbsp;|&nbsp;  <a href="https://www.mountain.org/give/give.cfm">Donate</a> &nbsp;|  &nbsp;<a href="http://www.mountain.org/about/offices.cfm">Contact</a> &nbsp;|&nbsp;  <a href="http://www.mountain.org/nmountain/sitemap.cfm">Site Map</a> &nbsp;|&nbsp;  <a href="http://www.mountain.org/privacypolicy.cfm">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://www.mountain.org/termsofuse.cfm">Terms of Use</a> &nbsp;|&nbsp; © 2009 The Mountain Institute</p>
+  </td>
+</tr>
+
+
+
+</tbody></table></td></tr></tbody></table></center></body></html>
