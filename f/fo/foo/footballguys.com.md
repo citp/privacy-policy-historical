@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004009id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215222426id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
 
-# Footballguys.com Fantasy Football - Privacy Policy
+# Fantasy Football - Footballguys - Privacy Policy
+
+Footballguys Privacy Policy 
 
 Last Updated: 8/15/2009
 
@@ -85,12 +87,13 @@ We collect the Personally Identifying Information listed below:
 
 **Privacy Policy Archive**
 
-  * [ Effective date: 3/21/2009](https://web.archive.org/web/20100102004009id_/http%3A//footballguys.com/fbgprivacy03212009.php)
+  * [ Effective date: 3/21/2009](https://web.archive.org/web/20101215222426id_/http%3A//footballguys.com/fbgprivacy03212009.php)
 
 
 
 If you have any additional questions, please feel free to contact us at any time. 
 
+[subscription@footballguys.com](mailto:subscription@footballguys.com?subject=Email%20Unsubscribe)  
 Footballguys.com  
 PO Box 937  
 Cabot, AR 72023-0937
