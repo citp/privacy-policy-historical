@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minuteworkers.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614062603id_/http%3A//minuteworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minuteworkers.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215170109id_/http%3A//www.minuteworkers.com/privacy.php) for the most accurate reproduction.*
 
-# Minute Workers - Privacy Statement
+# Minute Workers - Turning Your Minutes Into Money
 
 Minute Workers is committed to protecting your privacy when you use our on-line, telephone or other services. In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
