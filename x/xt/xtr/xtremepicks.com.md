@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremepicks.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528203107id_/http%3A//xtremepicks.com/portal/wp/%3Fpage_id%3D887) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremepicks.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215132624id_/http%3A//xtremepicks.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Xtremepicks Penny Stock Newsletter
 
