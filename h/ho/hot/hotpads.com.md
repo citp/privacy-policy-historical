@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516035048id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215110957id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - HotPads.com
 
@@ -34,7 +34,7 @@ We only share personal information that you provide outside the public area in t
 
   1. **Consent:** When you consent or ask HotPads to share the information. 
   2. **Affiliates and Service Providers:** When HotPads provides affiliated companies or service providers personal information to manage on our behalf. 
-  3. **Legal Obligation or Protection from Harm:** When we believe release is appropriate to comply with the law; to enforce or apply our policies and terms of use; to initiate, render, bill, and collect for payments owed to HotPads; to protect our rights or property; to protect our users from fraudulent, abusive, or unlowfo us of our site or services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+  3. **Legal Obligation or Protection from Harm:** When we believe release is appropriate to comply with the law; to enforce or apply our policies and terms of use; to initiate, render, bill, and collect for payments owed to HotPads; to protect our rights or property; to protect our users from fraudulent, abusive, or unlawful use of our site or services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
   4. **Merger or Sale:** When HotPads is involved in a merger, acquisition, or any form of sale of some or all of its business, personal information may be transferred along with the business. 
 
 
