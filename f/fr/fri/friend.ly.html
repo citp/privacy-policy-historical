@@ -1,134 +1,551 @@
-<!--The following is the downloaded HTML source of the friend.ly privacy policy that was archived on 2009-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090911043400id_/http%3A//friend.ly/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friend.ly privacy policy that was archived on 2010-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215103311id_/http%3A//friend.ly/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="social network facebook dating friends like play meet people">
-<meta name="summary" content="">
+<meta name="keywords" content="social network facebook dating friends like play meet people friendly">
+<meta name="description" content="friend.ly makes it fun to discover and connect with new people online.">
+<meta property="fb:app_id" content="5569318595">
+<meta property="og:site_name" content="friend.ly">
+<meta http-equiv="imagetoolbar" content="no">
 <script type="text/javascript">
-var oFns=[];function onload_queue(f){oFns.push(f);}
-var dFns=[];function defer(f){dFns.push(f);}
+/* <![CDATA[ */
+var _sf_startpt=(new Date()).getTime(); // chartbeat
+var WRInitTime=_sf_startpt; // clicktale
+var FLY_CONTEXT = {
+// fbApiKey:   "a1fd21eba427ed39047811fab5ccd8de",
+// fbAppID:    "5569318595",
+fbUserID:   "0",
+formToken:  "",
+timeOffset: 0,
+revision: "4822",
+pageLoadTime: _sf_startpt,
+serverTime: 1292409192,
+loginAward: 0};
+var FLY_fns=[];function onFLYReady(f){FLY_fns.push(f);}
+var FLY_FB_fns=[];function onFBReady(f){FLY_FB_fns.push(f);}
+function picError(e){e.onerror=null;e.src=('https:'==document.location.protocol?'https':'http')+"://static.ak.fbcdn.net/pics/q_silhouette.gif";e.setAttribute("swapneeded",1);};
+/* ]]> */
 </script>
-<link href="/css/main!1252633371.css" type="text/css" rel="stylesheet"><!--[if IE 6]>
+	<link rel="image_src" href="http://d3mgwgvky5ru3z.cloudfront.net/img/friendly-logo-fb-attachments.r8326.jpg">
+	<link rel="icon" type="image/png" href="/img/icons/favicon.png">
+
+<link type="text/css" rel="stylesheet" href="http://d3mgwgvky5ru3z.cloudfront.net/css/bundle/c38b7cddf0123167b73ec4657e3a7d71.r11314.css" media="screen">
+<!--[if IE 6]>
 	<link rel="stylesheet" href="/css/ie.css" type="text/css" />
+	<link rel="stylesheet" href="/css/ie.buttons.css" type="text/css" />
 	<script src="/js/unitpngfix.js" type="text/javascript" charset="utf-8"></script>
 <![endif]-->
 <!--[if IE 7]>
 	<link rel="stylesheet" href="/css/ie7.css" type="text/css" />
+	<link rel="stylesheet" href="/css/ie.buttons.css" type="text/css" />
 <![endif]-->
-<title>Friend.ly - About - Privacy</title>
-
+<!--[if IE 8]>
+	<link rel="stylesheet" href="/css/ie8.css" type="text/css" />
+	<link rel="stylesheet" href="/css/ie.buttons.css" type="text/css" />
+<![endif]-->
+<title>friend.ly - About - Privacy</title>
 </head>
+
 <body>
 	
-<div id="header-wrapper">
-	<div id="header" class="fixed">
-		<h2><a href="/">Friend.ly</a></h2>
-		<div class="fb-login-header">
-			<a href="javascript:void(0)" class="login_link" onclick="do_fb_login('wrapper_default_top_right')"><img src="http://friend.ly/img/facebook/login-buttons/connect_dark_large_long.png" alt="Connect with Facebook"></a>
-		</div>
-	</div>
-</div>
-<div id="header-border"></div>
+	<div id="fb-root"><script src="//connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript" charset="utf-8">
+/* <![CDATA[ */
+var auth_sessionChangeHandler = function(response) {
+	if (response.session) {
+		// A user has logged in, and a new cookie has been saved
+		// If they weren't previously logged in, refresh the page.
+		if(FLY_CONTEXT.fbUserID == "" || FLY_CONTEXT.fbUserID == "0") {
+			// If we reload immediately, there seems to be an issue
+			// that causes an infinite redirect loop.
+			// By using setTimeout a this short timeout, we ensure
+			// the redirect happens as soon as all the other code is run.
+			setTimeout(function() {
+				window.location.reload(true);
+			}, 50);
+			FLY_CONTEXT.fbUserID = response.session.uid;
+		}else{
+			FLY.debug("FB session refreshed.");
+			setTimeout(function() {
+				FLY.ajax.get('/login/refresh/fbsession/json');
+			}, 300);
+		}
+	} else {
+		// The user has logged out, and the cookie has been cleared
+		if(FLY_CONTEXT.fbUserID != "0") {
+			try{
+				FLY.handleUserLoggedOutExternally();
+			}catch(e) {}
+		}
+	}
+};
 
-<div id="background">
-	<div id="main-content" class="fixed">
- 		<div class="content-container fixed">
-	<div class="content-container-header fixed">
-		<h4>Privacy Policy</h4>
-		<span>Last revised on July 20, 2009</span>
-	</div>
+window.fbAsyncInit = function() {
+	try {
+		FB.init({
+			appId  : '5569318595',
+			status : true, // check login status
+			cookie : true, // enable cookies to allow the server to access the session
+			logging: false,
+			xfbml  : true  // parse XFBML
+		});
 	
-	<div class="description-page">
+		try {
+			FB.Event.subscribe('auth.sessionChange', auth_sessionChangeHandler);
+		}catch(e) {}
+	
+	
+		// Run all of our queued functions
+		onFBReady=function(f){f();};
+		(function(){var numFn=FLY_FB_fns.length;for(var i=0;i<numFn;i++){FLY_FB_fns[i]();FLY_FB_fns[i]=null;}FLY_FB_fns=[];})();
+	}catch(e) {
+		FLY.debug("Unable to initialize Facebook libraries.");
+		setTimeout(fbAsyncInit, 1000);
+	}
+};
 
-		<p>Friend.ly cares deeply about online privacy. If you have any questions concerning this privacy policy, please email privacy[at]friend[dot]ly. This Privacy Policy was last updated on July 20, 2009.</p>
+(function() {
+var e=document.createElement('script');
+e.src='//connect.facebook.net/en_US/all.js';
+e.async=true;
+document.getElementById('fb-root').appendChild(e);
+}());
+/* ]]> */
+</script>
 
-		<h2>Persons Under the Age Of 18</h2>
-		<p>Friend.ly does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Site from persons under 18 years of age, and no part of the Site is directed to persons under 18. If you are under 18 years of age, then please do not use or access the Site or the Services at any time or in any manner. If Friend.ly learns that personally identifiable information of persons under 18 years of age has been collected on the Site, then Friend.ly will take the appropriate steps to delete this information.</p>
+	<div id="header">
+		<div id="header-inner" class="clearfix">
+			<a id="header-logo" href="/"><img width="157" height="40" alt="friend.ly" src="http://d3mgwgvky5ru3z.cloudfront.net/img/header-logo.r8772.png"></a>
 
-		<h2>Information Collection and Use by Friend.ly</h2>
-		<p>Friend.ly collects user submitted information such as name, email address, and age. Friend.ly also collects other profile data including but not limited to: personal interests, gender, age, and geographical location. Friend.ly also logs non-personally-identifiable information including IP address, profile information, aggregate user data, cookie information, and browser type, from Users. This data is used to manage the website, prevent click fraud, track usage and improve the Services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to Users. User IP addresses are recorded for security and monitoring purposes.</p>
-
-		<p>From time to time, Friend.ly or a partner may sponsor a promotion, sweepstakes or contest on the Site. Users who choose to participate may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. By providing information in such circumstances, you consent to sharing your information with such partners for the purpose described. Except as described herein, Friend.ly will not monitor, edit or disclose any personal information about you or your account, without your prior consent unless we have a belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Friend.ly; (iii) enforce Friend.ly's Terms of Use; (iv) protect the interests of Users of the Services (other than you) or any other person; or (v) operate or conduct maintenance and repair of the Services or equipment as authorized by law.</p>
-
-		<h2>Use of Cookies</h2>
-		<p>Friend.ly uses cookies to store Users' preferences, record session information, and collect aggregated demographic data. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you may need to enable cookies from Friend.ly in order to use most functions on the Site.</p>
-
-		<h2>Links</h2>
-		<p>The Site may contain links to third party sites. Friend.ly is not responsible for the privacy policies and/or practices on other sites. When linking to another site a User should read the privacy policy stated on that site. Our privacy policy only governs information collected on the Site.</p>
-
-		<p>Users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Your Settings, or users can email privacy[at]friend[dot]ly.</p>
-
-		<h2>In the Event of Merger, Sale, or Bankruptcy</h2>
-		<p>In the event that Friend.ly is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
-
-		<h2>Special Note to International Users</h2>
-		<p>The Site is hosted in the United States and intended for U.S. users only. You are not authorized to access this Site from outside the U.S. If you are nonetheless accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which are governed by U.S. law and this Terms of Use and Privacy Policy, you are transferring your personal information to the United States and you consent to that transfer.</p>
-
-		<h2>Changes in Our Privacy Policy</h2>
-		<p>This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Friend.ly reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site.</p>
-
-		<h2>Contacting the Site</h2>
-		<p>If you have any questions about this privacy policy, the practices of the Site, or your dealings with the Site, please email privacy[at]friend[dot]ly.</p>
-
-	</div>
-</div>
-
-
-	</div>
-</div>
-<div id="footer-wrapper" class="fixed">
-	<div id="footer">
-		<div style="float:right;width:25px;height:25px;overflow:hidden">
-		<fb:profile-pic uid="loggedinuser" facebook-logo="true" linked="false" size="square" width="25" height="25"></fb:profile-pic>
 		</div>
-		<p id="footer-copyright">© 2009 Friend.ly</p>
-		<p id="footer-links">
-											<a href="/about/terms">Terms of Use</a>
-				<a href="/about/privacy">Privacy Policy</a>
-				<a href="/about/contact">Contact</a></p>
-				</div>
+	</div><div id="page" class="clearfix">
+
+<div id="sidebar" class="nav right">
+	<h2 class="divider">About</h2>
+	<ul>
+		<li><a href="/about">About Us</a></li>
+		<li><a href="/about/rules">Community Rules</a></li>
+		<li><a href="/about/terms">Terms &amp; Conditions</a></li>
+		<li><a href="/about/privacy" class="current">Privacy Policy</a></li>
+	</ul>
 </div>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script><script type="text/javascript" src="/js/shared,fbconnect!1252525394.js" language="Javascript"></script><script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-<script type="text/javascript">
-	var FLY_FB_API_KEY = "a1fd21eba427ed39047811fab5ccd8de";
-	onload_queue(function(){facebook_onload(false);});
-	FB.init(FLY_FB_API_KEY, "/fbconnect/xd_receiver.htm", {'reloadIfSessionStateChanged':false, "doNotUseCachedConnectState":true});
-</script>
+<div id="main-container" class="padding container left">
+	<div id="main-content" class="fixed">
+		<p style="MARGIN:0pt">
+  <br>
+</p>
+<p style="MARGIN:0pt;TEXT-ALIGN:center">
+  <font color="#444"><b><font size="3">FRIEND.LY ONLINE PRIVACY POLICY</font></b></font>
+</p>
+<br>
+<p style="BACKGROUND-COLOR:#ffffff;MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">Somo Enterprises, Inc., the owner and operator of the Friend.ly properties, respects your privacy and is committed to protecting the personal information that you may provide to us or that we may collect while you are using our web sites or our games, applications, software, or related services made accessible through our web sites or through other online access points.</font></font>
+</p>
+<p style="BACKGROUND-COLOR:#ffffff;MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="BACKGROUND-COLOR:#ffffff;MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="BACKGROUND-COLOR:#ffffff;MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">1.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">SCOPE OF THIS POLICY</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">This privacy policy ("</font></font><b><font size="2"><font color="#444444">Policy</font></font></b><font size="2"><font color="#444444">") explains how we use, collect, and disclose your personal information with respect to your use of (1)</font></font>&nbsp;<font size="2"><font color="#444444">the Friend.ly web site currently located at www.friend.ly and any successor web sites, related web sites, or other online access points made available by us (collectively, the "</font></font><b><font size="2"><font color="#444444">Site</font></font></b><font size="2"><font color="#444444">"); (2)</font></font>&nbsp;<font size="2"><font color="#444444">the games, applications, or other software related to the Friend.ly properties that we make downloadable at, or otherwise accessible through, the Site, third-party web sites, or other online access points (collectively, the "</font></font><b><font size="2"><font color="#444444">Software</font></font></b><font size="2"><font color="#444444">"); and (3) the services offered by us through the Site and the Software, including Software and any such services offered by us through third-party web sites or other online access points (collectively, the "</font></font><b><font size="2"><font color="#444444">Services</font></font></b><font size="2"><font color="#444444">").</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">THIS POLICY DOES NOT APPLY TO THE PRACTICES OF COMPANIES THAT WE DO NOT OWN OR CONTROL, SUCH AS OUR THIRD-PARTY PARTNERS’ WEB SITES, THEIR SOFTWARE, OR THEIR SERVICES, ANY OF WHICH MAY BE ACCESSIBLE VIA A LINK ON OUR SITE OR THROUGH OUR SOFTWARE.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">From time to time, we may add new web sites other than those listed above, but they will provide a link to this Policy and will be governed by its terms.&nbsp; Such web sites are included in the definition of the "Site," as that term is used in this Policy.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">References in this Policy to "</font></font><b><font size="2"><font color="#444444">Somo</font></font></b><font size="2"><font color="#444444">," "</font></font><b><font size="2"><font color="#444444">Friend.ly</font></font></b><font size="2"><font color="#444444">," "</font></font><b><font size="2"><font color="#444444">we</font></font></b><font size="2"><font color="#444444">," "</font></font><b><font size="2"><font color="#444444">us</font></font></b><font size="2"><font color="#444444">," and "</font></font><b><font size="2"><font color="#444444">our</font></font></b><font size="2"><font color="#444444">" refer to Somo Enterprises, Inc. and its affiliates.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">2.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">PERSONAL INFORMATION WE COLLECT</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We may collect various types of personal information about you, including personally identifiable information.&nbsp; "Personally identifiable information" means information that can be used to identify or contact you, such as your name, address, telephone number, mobile number, or e-mail address.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We may collect personal information in a number of ways through the Site, Software, and Services, such as when you provide it voluntarily to us in connection with registering, creating a profile, sending an e-mail or other type of message to us or another user, or participating in interactive forums or features of the Site, the Software, or the Services.&nbsp; If we collect information from you off-line and it is linked with personal information, we will treat that information as personal information.&nbsp; Some personal information may also be automatically collected through the use of the Site, Software, or Services, as described below.</font></font><b>&nbsp; </b><font size="2"><font color="#444444">When you engage in fee-based activities, you will be required to provide necessary billing information such as your real name, credit card or other payment information, and street address.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">Personal information does not include aggregate information, which is data we collect about the use of the Site, the Software, and the Services, or categories of users and uses, from which personal information has been removed.&nbsp; Aggregate data is used for a number of purposes, such as to help us understand user needs and preferences so that we can improve our products and services.&nbsp; Aggregate data includes anonymous, aggregated profiling and session data derived from information that you have provided to us through surveys, questionnaires, polls, etc., but which is not tied to any personal information.&nbsp; Aggregated anonymous information also includes information about site usage and the customer base.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">As part of the registration process for some services, you may be asked to provide information that does not personally identify you. For example, you may be asked to provide information concerning your entertainment preferences, purchasing habits, and the like.&nbsp; This information is generally optional but may be included in your account profile and tied to personal information.&nbsp; We request this information in order to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you. </font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">In many cases, we will automatically collect certain non-personal information about your use of the Site, Software, or Services.&nbsp; We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Site, your Internet protocol addressing and traffic information, and the web site or advertisement that was linked to or from the Site when you visited.&nbsp; To do this, we may use cookies and other technology (see below).&nbsp; Your visits to the Site, and information provided through these technologies, will be anonymous, unless you provide us with personal information or have provided such information in the past.&nbsp; For example, if you’ve created a premium subscription account, your account information (including name, email address, and billing and shipping information) may be linked to items you purchase at the Site or through the Software or Services (i.e., purchasing history).</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <u><font size="2"><font color="#444444">A Special Note About Information Disclosed to Us by Third Parties</font></font></u><font size="2"><font color="#444444">.&nbsp; In some cases, third parties to whom you have provided your personal information – e.g., the operator or controller of a third-party web site or other online access point from which you have accessed the Software or Services – may share your personal information with us.&nbsp; As highlighted above, any personal information that you have provided to a third party is subject to that third party’s privacy policy, including, if applicable, any "privacy settings" that you may have selected as part of your management of your account with that third party.&nbsp; Such information is not subject to this Policy.&nbsp; However, because we are committed to protecting the personal information of our users, we will use reasonable efforts to protect such information as if it were personal information that you had disclosed to us pursuant to this Policy.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">3.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">USES OF PERSONAL INFORMATION</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We use personal information that we collect to process your requests or transactions; to provide you the Service; to provide you with other information or services you request from time-to-time; to inform you about other information, events, promotions, products, or services we think will be of interest to you; to learn more about and improve the Services; and for the purpose for which information was provided.&nbsp; For example, personal information may be used to: </font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•&nbsp;&nbsp; &nbsp;</font></font><font size="2"><font color="#444444">Provide you with the services you request and to complete any transactions or enable the use of any features;</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Send you a welcoming or account-related or customer service e-mail;</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Identify other users of the Site, Software, and Services with whom we believe you may be compatible and with whom we believe you may 
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;want to communicate (each, a "</font></font><b><font size="2"><font color="#444444">Match</font></font></b><font size="2"><font color="#444444">"), and notify you and such other users of each such Match;</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Identify your approximate geographic location in order to improve the services provided to you as part of the Site, Software, and Services.</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Contact you about our, or a third party’s services, products, activities, special events, or offers;</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Respond to your e-mails, submissions, comments, requests, or complaints;</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Respond to your request for recovery of a username or password;</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Request feedback and to enable us to develop, customize, and improve the Site, the Software, the Services, and new offerings; and</font></font>
+</p>
+<p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Enable you to participate in certain of our sweepstakes, contests, surveys, and other promotions, if offered.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">4.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">SHARING OF PERSONAL INFORMATION</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We do not sell or rent personal information to third parties or share personal information with third parties, except as described in this Policy or with your consent.&nbsp; We may provide access to or share personal information with consultants, vendors, and service providers ("</font></font><b><font size="2"><font color="#444444">Service Providers</font></font></b><font size="2"><font color="#444444">") who perform functions on our behalf in order to carry out their work.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">The Site, Software, or Services, may include certain online communities and other interactive features in connection with which you may choose to create a user profile (including, but not limited to, a "public profile").&nbsp; We may display the information that you include in your user profile to other users of the Site, Software, or Services, including members of the community and, in the case of your public profile, to visitors.&nbsp; In connection with the creation of your user profile, you may choose to provide us with information and content – for example, your photos and videos – that is in addition to the other information that you provide to us or that we collect (as further described in this Policy).&nbsp; By providing us with such additional information and content, you agree that we may make that additional information and content available to other users of the Site, Software, or Services, including members of the community and, in the case of such additional information and content that you include in your public profile, to visitors.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We also may share your information with law enforcement or other appropriate authorities, our business partners, or other third parties if we have a reasonable, good-faith belief that the disclosure of such information to such parties is necessary or advisable in order to:&nbsp; (a)</font></font>&nbsp;<font size="2"><font color="#444444">comply with legal process; (b)</font></font>&nbsp;<font size="2"><font color="#444444">enforce our rights and agreements, including our rules, policies, and guidelines; (c)</font></font>&nbsp;<font size="2"><font color="#444444">respond to claims that any content that you have posted or otherwise made available on the Site or through the Software violates the rights of third parties, including the legal rights of any of our partners; (d)</font></font>&nbsp;<font size="2"><font color="#444444">protect the rights, property, or personal safety of us, our employees, our business, our users, our business partners, or the general public (including, but not limited to, victims of abuse – see below); or (e)</font></font>&nbsp;<font size="2"><font color="#444444">prevent and protect us and our users from illicit, fraudulent, abusive, unlawful, or unauthorized use of the Site, Software, or Services.&nbsp; Your personal information also may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing, or acquisition or in any other situation where personal information may be transferred as one of our business assets.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <u><font size="2"><font color="#444444">A Special Note About Potential Victims of Abuse</font></font></u><font size="2"><font color="#444444">.&nbsp; Notwithstanding any other provision of this Policy or our Terms and Service, we reserve the right, but have no obligation, to disclose any information that you submit to us, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form.&nbsp; Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence.&nbsp; Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure.&nbsp; Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You understand and acknowledge that we are permitted to make such disclosure.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">5.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">ONLINE COMMUNITIES</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">As mentioned above, the Site, Software, and Services may include certain online communities and other interactive features, such as user profiles (including public profiles), forums, message boards, and chat rooms.&nbsp; You may be asked to provide your name in order to participate in certain features of the Site, Software, or Services.&nbsp; In many cases, the Site and the Software automatically will use your first name as your user identification (or ID) in connection with such features.&nbsp; As such, your first name likely will be available to and accessible by the general public while you participate in such features.&nbsp; Further, information you post in any public areas of the Site or through the Software or Services is publicly available and may be shared with other users.&nbsp; To the extent that you create a public profile that may be available to others users, you are solely responsible for its content and accuracy at all times.&nbsp; To edit, change, or delete such information or change your privacy preferences, follow the instructions on the Site or available through the Software.&nbsp; Although we strive to use reasonable efforts to implement these privacy preferences, no system or security measure is perfect or impenetrable.&nbsp; You should always be cautious when giving out personal information to others in public online forums.&nbsp; We are not responsible for protecting such information that you may disclose to third parties through our Site, Software, or Services (e.g. sending your contact information to another user via a forum, message board, or chat room).</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">IF PARENTS OF MINORS CHOOSE TO ALLOW THEIR CHILDREN TO USE THE SITE, SOFTWARE, OR SERVICES, WE STRONGLY ENCOURAGE SUCH PARENTS TO CAREFULLY SUPERVISE THEIR CHILDREN’S ACTIVITY IN ANY AND ALL PUBLIC FORUMS AND TO CAUTION THEIR CHILDREN NOT TO SHARE ANY PERSONAL INFORMATION (SEE BELOW).</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">6.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">USE OF COOKIES AND WEB BEACONS</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">The Site and some Services and advertisements on our Site, may contain "cookies."&nbsp; A cookie is a piece of data that is sent to your web browser, which stores the cookie on your computer if your browser is enabled to accept cookies.&nbsp; "Web beacons" (also known as clear gifs and "web bugs") assist in the delivery of cookies.&nbsp; We use cookies and web beacons, and also frames, server log analysis, and other technology, to customize your experience with our Site and the Service.&nbsp; We do not link personally identifiable information to web beacons nor do we transfer any data collected through web beacons to third parties.&nbsp; Most internet browsers will allow you to erase cookies from your hard drive, block acceptance of cookies, or receive a warning before a cookie is stored.&nbsp; If you block cookies, some portions of the Site, Software, or Service may not function properly.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We do not control cookies in third-party advertisements, and we encourage you to check the privacy policies of advertisers and/or advertising services to learn about their use of cookies, web beacons, and other technology.&nbsp; We may also use a third-party advertising company to display advertisements on the Site.&nbsp; These companies may use information about your visits to this and other web sites in order to provide advertisements on this Site and other web sites about goods and services that may be of interest to you.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">For more information about cookies and web beacons, go to </font></font><a href="http://en.wikipedia.org/wiki/HTTP_cookie"><u><font size="2"><font>http://en.wikipedia.org/wiki/HTTP_cookie</font></font></u></a><font size="2"><font color="#444444"> and/or </font></font><a href="http://en.wikipedia.org/wiki/Web_bug"><u><font size="2"><font>http://en.wikipedia.org/wiki/Web_bug</font></font></u></a><font size="2"><font color="#444444">.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">7.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">PROTECTING PERSONAL INFORMATION</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We strive to protect personal information while it is under our control.&nbsp; If you elect to become a registered user of the Site, Software, or Services, your Friend.ly account information is accessible online only through the use of a Friend.ly password.&nbsp; However, as mentioned above, there may be numerous circumstances in which you will use or access the Software or the Services through a web site or other online access point operated and controlled by a third-party, in which case any information related to the account that you maintain with such third party is subject to that third party’s privacy policy, including, if applicable, any "privacy settings" that you may have selected as part of your management of your account with that third party and the account password that you maintain with such third party.&nbsp; To help protect the confidentiality of personal information, you must keep your passwords confidential and not disclose them to any other person.&nbsp; You are responsible for your account names, passwords, and other user identifications (or IDs) and all uses of the Site, Software, and Services by any person using your account names, passwords, or other user IDs, and you acknowledge that it is solely your responsibility to maintain the confidentiality of your account names, passwords, and user IDs and keep track of who is using your Friend.ly account or third-party accounts, as applicable.&nbsp; If you suspect any unauthorized use of your accounts, or if you believe your account names, passwords, or user IDs have been compromised, immediately notify us or, if applicable, the third party (see contact information in Section</font></font>&nbsp;<a href="#Ref256685483" target="_self"><font size="2"><font color="#444444">18</font></font></a><font size="2"><font color="#444444">, below).</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">8.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">OPTING OUT</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">If you do not wish to receive promotional e-mail from us about our products and services, you may opt out at the time of registration or information collection.&nbsp; If you wish to change your contact preferences at a later date, you may login to your account settings online and update your contact preferences.&nbsp; You have the ability to choose, through your account settings, whether or not to allow other users to contact you through private messaging or e-mail.&nbsp; Please note, even if you opt out of receiving promotional e-mail from us, you may still receive operational e-mails, including messages relating to transactions or Services you have specifically requested, responding to any e-mail from you to us, notifying you of updates or changes to our policies and procedures, or that otherwise provide you with information we believe is important to users of the Site, Software, or Services.&nbsp; Our systems require time to update, so your opt out requests may not update immediately.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">9.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">SPECIAL NOTICE REGARDING CHILDREN</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt 36pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">a.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">Children Under the Age of 13 Years</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">The Site, Software, and Services are not designed for or directed to children under the age of 13 years.&nbsp; As such, we do not knowingly permit children under the age of 13 years to register to use the Site, Software, or Services, and except as otherwise required by law, we will not knowingly collect, maintain, or disclose any personal information from children under the age of 13 years.&nbsp;&nbsp; If you are under the age of 13 years, you may not register to use the Site, Software, or Services; create a user account; sign up for any Service; or download or otherwise access Software from the Site, third-party sites, or other online access points.&nbsp; Further, you are not eligible to enter any of our sweepstakes, contests, surveys, or other promotions, if offered.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt 36pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">b.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">Children Between the Ages of 13 and 18 Years</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">At this time, the Site, Software, and Services are not intended for children between the ages of 13 and 18 years (or the age of majority in your jurisdiction, if it is older).&nbsp; However, we may, from time-to-time, offer all or a portion of the Site, or certain of the Software or Services, to children between the ages of 13 and 18 years (or the age of majority in your jurisdiction, if it is older).&nbsp; If you are between such ages, please let your parent or legal guardian know about this Policy and get his or her permission before you give us any of your personal information; before you use any of our message boards, instant message services, chat features, or the like; before you sign up for any subscription services; and before you access or download any Software.&nbsp; Do not post your real name on a web site, message board, or similar communications feature, and never tell anyone online anything private about yourself or your family, including your telephone number, mobile number, e-mail address, and street address.&nbsp; Use screen names at all times.&nbsp; If you win a sweepstakes or contest that has a prize, your parent or legal guardian will have to mail or fax us a signed note at the street address or fax number listed in the rules for the specific sweepstakes or contest that says you have his or her permission to enter, and tells us he or she will accept the prize on your behalf.&nbsp; Some portions of the Site, or certain of the Software or Services, may have special rules for children under the age of 18 years of age (or the age of majority in your jurisdiction, if it is older).&nbsp; When you are in those areas or using, you must follow those rules.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt 36pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">c.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444444"><b><font size="2">Information for Parents and Guardians</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We encourage parents and legal guardians to spend time online with their children to become familiar with the types of content available on the Internet, including the Site, Software, and Services.&nbsp; Parents and legal guardians should regularly oversee their children’s use of e-mail, message boards, chat rooms, and other online communications and transactional features.&nbsp; Control tools are available from online services and software manufacturers that can help provide a safe online environment for children.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">If you are a parent or legal guardian who has discovered that your child has submitted his or her personal information without your permission or consent, we will take reasonable steps to remove that information from the our database at your request.&nbsp; To request removal of your child’s information, please send us an e-mail (to the address below) and be sure to include in your message the same account name (or user ID), password, and email address that your child submitted.&nbsp; If your child has used your credit card or other approved payment method on the Site or in connection with use of the Software or Services without your permission, contact our customer support personnel immediately.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><font size="2"><b>10.&nbsp;&nbsp; &nbsp;</b></font></font></span><font color="#444"><font size="2"><b>SPECIAL NOTICE REGARDING SWEEPSTAKES, CONTESTS, SURVEYS, AND OTHER PROMOTIONS</b></font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We may, from time to time, offer sweepstakes, contests, surveys, and other promotions on the Site or in connection with the Software or Services.&nbsp; In such cases, you may be asked to provide additional personal information, such as your mailing address.&nbsp; In each such case, no new personal information will be collected from you without your consent.&nbsp; This information may be collected by us or by Service Providers, such as third-party co-sponsors or vendors for the promotion.&nbsp; Our use of any such information will be governed by this Policy.&nbsp; The names of third parties, such as Service Providers (other than Service Providers hired by us to conduct, administer, and execute a promotion on our behalf), will be disclosed to you when you are asked to sign up for the sweepstake, contest, survey, or other promotion.&nbsp; You should review such third parties’ privacy policies to see how they may use any information that you disclose to them or that they collect from you.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><font size="2"><b>11.&nbsp;&nbsp; &nbsp;</b></font></font></span><font color="#444"><font size="2"><b>SPECIAL NOTICE REGARDING RESUME SUBMISSIONS AND ONLINE JOB APPLICATIONS</b></font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We may, from time-to-time, allow for the online submission of resumes and job applications.&nbsp; Please be advised that information (including personal information) contained in a job applicant’s resume or otherwise submitted to us in a business capacity is not subject to the terms of this Policy.&nbsp; The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you in connection with that purpose.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">12.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">SPECIAL NOTICE FOR PERSONS OUTSIDE THE UNITED STATES</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">You understand and acknowledge that we operate in the United States and that the Site, Software, and Services are controlled and offered by us from our facilities in the United States.&nbsp; We make no representations that the Site, Software, and Services are appropriate or available for use in other locations or jurisdictions.&nbsp; Those who access or use the Site, Software, or Services from other locations or jurisdictions do so at their own volition.&nbsp; Further, you understand and acknowledge that this Policy is intended to cover the use, collection, and disclosure of information on the Site, or in connection with the Software and Services, from residents of the United States.&nbsp; IF YOU ARE VISITING THE SITE OR USING THE SOFTWARE OR SERVICES FROM OUTSIDE THE UNITED STATES, PLEASE BE AWARE THAT YOUR INFORMATION MAY BE TRANSFERRED TO, STORED, AND PROCESSED IN THE UNITED STATES WHERE OUR SERVERS ARE LOCATED AND OUR CENTRAL DATABASE IS OPERATED.&nbsp; The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.&nbsp; Please be assured that we seek to take reasonable steps to ensure that your privacy is protected.&nbsp; By using our the Site, Software, and Services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><font size="2"><b>13.&nbsp;&nbsp; &nbsp;</b></font></font></span><font color="#444"><font size="2"><b>LINKS TO OTHER WEB SITES</b></font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">Links from the Site or the Software to third party web sites are provided for your convenience.&nbsp; Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy, not ours.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">14.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">CONTACT INFORMATION TO CORRECT AND UPDATE PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">If you have any questions, complaints, or comments regarding this Policy or our practices relating to the Site, Software, or Services, or you wish to verify, correct, or delete any personal information we have collected, please contact our customer support personnel.</font></font><b>&nbsp; </b><font size="2"><font color="#444444">We will endeavor to respond to your inquiry or information request to the extent possible.&nbsp;</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">15.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">OTHER IMPORTANT AGREEMENTS THAT GOVERN YOUR USE OF OUR SITES, PRODUCTS, SERVICES, AND SOFTWARE</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">In addition to this Policy, your rights and obligations concerning the Site, Services, and Software are governed by the applicable terms of service, the applicable software’s end user license agreement and/or terms of use, and other applicable rules, policies, guidelines, and requirements.&nbsp; This Policy does not alter, in any way, the terms or conditions of any other agreement you may have with us or our affiliates for products, services, software, or otherwise.&nbsp; When you sign up to use our products, services, or software, please review each such agreement carefully, as you must agree to be bound by each such agreement before you may use the applicable product, service, or software.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">16.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">SECURITY OF THE PERSONAL INFORMATION WE HAVE COLLECTED</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">While we take precautions against possible breaches in our web sites and customer databases, no web site or Internet transmission is completely secure.&nbsp; Consequently, we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.&nbsp; Your use of the Site, Software, and Services is at your own risk.&nbsp; We urge you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information or user ID), logging out of your user account, and closing your web browser. </font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We use a security technology known as a secure-socket-layer ("</font></font><b><font size="2"><font color="#444444">SSL</font></font></b><font size="2"><font color="#444444">") to protect the transmission of payment information to the Site or in connection with use of the Software.&nbsp; Unless otherwise specified herein, on the Site, or as part of the Service (i.e., where you make a purchase), credit card numbers are used only for payment processing and are not retained for marketing purposes.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">17.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">NOTICE OF CHANGES TO THIS POLICY</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">We reserve the right to revise and update this Policy at any time and in our sole discretion.&nbsp; Notice of any revisions or updates to this Policy will be posted in this section of the Site, and any such revisions or updates will be effective upon the posting of such notice, unless otherwise expressly stated.&nbsp; Your continued use of the Site, Software, or the Services, after the posting, will constitute your acceptance of those revisions and updates.&nbsp; Therefore, you should frequently review this Policy to understand the terms and conditions that govern use of information that you provide to us.&nbsp; If you do not agree to any revisions or updates to this Policy as they may occur, you must terminate your registration immediately and discontinue your use of the Site, Software, and Services.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <b><br>
+  </b>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <b><br>
+  </b>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">18.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">QUESTIONS</font></b></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <font size="2"><font color="#444444">Please contact our customer support personnel with any questions or comments regarding this Policy by e-mailing </font></font><b><font size="2"><font color="#444444">privacy@friend.ly</font></font></b><font size="2"><font color="#444444">.</font></font>
+</p>
+<p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
+  <br>
+</p>	</div>
+</div>
 
-<script type="text/javascript" charset="utf-8">
-// <![CDATA[
-//if(top.location!=location){top.location.href=document.location.href;}
 
-activatePlaceholders();
-var ndFn=dFns.length;for(var i=0;i<ndFn;i++){dFns[i]();}dFns=[];
-
-
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker('UA-4958747-3');
-pageTracker._trackPageview();
-// if(segment) { // Custom segmentation (for multivariate testing)
-// 	pageTracker._setVar(segment);
-// }
-} catch(err) {}</script>
-<script type="text/javascript" charset="utf-8">
-
-onload_queue=function(f){f();};
-var noFn=oFns.length;for(var i=0;i<noFn;i++){$(oFns[i]);}oFns=[];
-// ]]>
-</script>
-<noscript>
-	<div id="js-warning-msg">
-		<p><strong>Please enable Javascript.</strong></p>
-		<p>Friend.ly uses Facebook Connect to display your friends, which requires Javascript.</p>
-		<p>Please enable it now. <a href="http://danaandersonlasvegas.las.mlxchange.com/enablescript.htm">Click here for instructions.</a>
+</div>
+<div id="grass"></div>
+<div id="footer">
+	<div class="right">
+		<a href="/about">about</a>
+		<a href="/about/privacy">privacy</a>
+		<a href="/about/terms">terms</a>
+		<a href="http://friendly.zendesk.com/home">help</a>
+		<a href="/about/contact">contact</a>
 	</div>
+	© 2009-2010 friend.ly
+</div>
+
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="http://d3mgwgvky5ru3z.cloudfront.net/js/bundle/38bf096cd480d93597a87bd7c832f50e.r11049.js"></script>
+
+
+<script type="text/javascript" charset="utf-8">
+/* <![CDATA[ */
+onFLYReady=function(f){f();};
+(function(){var numFn=FLY_fns.length;for(var i=0;i<numFn;i++){FLY_fns[i]();FLY_fns[i]=null;}FLY_fns=[];})();
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var form_token = FLY_CONTEXT.formToken;
+
+// if(jQuery.browser.msie || jQuery.browser.webkit) {
+// 	swizzleJSONParse();
+// }
+/* ]]> */
+</script>
+
+<script type="text/javascript" charset="utf-8">
+/* <![CDATA[ */
+
+jQuery(function(){
+	});
+
+onFLYReady(function(){
+	setTimeout(function() {
+		if(window.FLY) { FLY.updateTimeOffset(); }
+	}, 500);
+});
+
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-4958747-3']);
+_gaq.push(['_trackPageview']);
+$(setTimeout(function(){
+var ga=document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+// Note: we set the SRC in this way because some user-agents screw up the ternary operator
+if('https:'==document.location.protocol) {
+	ga.src = "https://ssl.google-analytics.com/ga.js";
+}else{
+	ga.src = "http://www.google-analytics.com/ga.js";
+}
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+}, 1));
+
+var _sf_async_config={uid:6259,domain:"friend.ly"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    // Note: we set the SRC in this way because some user-agents screw up the ternary operator
+    if(("https:" == document.location.protocol)) {
+        e.setAttribute('src', "https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js");
+    }else{
+        e.setAttribute('src', "http://static.chartbeat.com/js/chartbeat.js");
+    }
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+/* ]]> */
+</script>
+
+
+
+
+<noscript>
+	<div><a id="js-warning-msg" href="http://danaandersonlasvegas.las.mlxchange.com/enablescript.htm"></a></div>
 </noscript>
 
 </body></html>
