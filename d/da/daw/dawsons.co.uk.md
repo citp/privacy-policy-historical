@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150925id_/http%3A//www.dawsons.co.uk/acatalog/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215072225id_/http%3A//dawsons.co.uk/acatalog/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
