@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigtailpals.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409104048id_/http%3A//www.pigtailpals.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigtailpals.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215110957id_/http%3A//www.pigtailpals.com/privacypolicy.html) for the most accurate reproduction.*
 
 # pigtailpals.com
 
