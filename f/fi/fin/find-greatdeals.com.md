@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the find-greatdeals.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220141010id_/http%3A//find-greatdeals.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-greatdeals.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215074552id_/http%3A//find-greatdeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Find Great Deals » Privacy Policy
+# Privacy Policy | Find Great Deals
+
+## Privacy Policy
 
 **Privacy Policy for Find-GreatDeals.Com**
 
