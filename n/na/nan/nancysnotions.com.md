@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831183824id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216001252id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - Nancy's Notions
+# Sewing supplies, quilting supplies, embroidery designs
 
 **Rental List Policy**  
 Nancy's Notions does not share your email address with other companies. However, we may occasionally share your name and mailing address with companies that offer products and services you may enjoy. If you don't want us to share your name and address, or if you no longer wish to receive mailings from us, you can contact us*: 
