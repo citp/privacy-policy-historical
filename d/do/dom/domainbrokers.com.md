@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainbrokers.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215424id_/http%3A//domainbrokers.com/index.php%3Fpage%3Dcontent%26sub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainbrokers.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215145430id_/http%3A//domainbrokers.com/index.php%3Fpage%3Dcontent%26sub%3Dprivacy) for the most accurate reproduction.*
 
 # DomainBrokers.com - Resources
 
