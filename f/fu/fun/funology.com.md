@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528142933id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215125453id_/http%3A//funology.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Funology.Com : Privacy Policy
 
@@ -36,13 +36,12 @@ Funburst Media LLC 14001-C Saint Germain Drive #226 Centreville, VA 20121 TEL: (
 
 | 
 
-[](https://web.archive.org/hotstuff/index.cfm)
+[](http://www.facebook.com/pages/Centreville-VA/Funology/230066573480)[](https://twitter.com/funologycom)
 
 ADVERTISEMENT
 
 [](https://web.archive.org/thats_odd/)
 
-The farthest you can see with the naked eye is 2.4 million light years away! (140,000,000,000,000,000,000 miles.) That's the distance to the giant Andromeda Galaxy. You can see it easily as a dim, large gray "cloud" almost directly overhead in a clear night sky.   
-Submitted by Todd
+The lead in pencils, really graphite, is made of the exact same thing as diamonds. Both are pure carbon which just formed under different pressures and temperatures. Intense heat and pressure form the carbon atoms into crystals making diamond, while lesser heat and pressure form the carbon into sheets making graphite. 
 
 |  [](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=334638801&mt=8)
