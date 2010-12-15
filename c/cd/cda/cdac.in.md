@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdac.in privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419101826id_/http%3A//www.cdac.in/html/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdac.in privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215022003id_/http%3A//cdac.in/html/policy.aspx) for the most accurate reproduction.*
 
 # C-DAC: Privacy Policy
 
@@ -7,19 +7,6 @@ This legal notice pertains to C-DAC Web site " www.cdac.in" here after referred 
 **Welcome**
 
 This site is owned by Centre for Development of Advanced Computing ("C-DAC"). C-DAC would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. **Use of this site constitutes your consent to our Privacy Policy**. Topics included in this policy are:
-
-  * Your Consent
-  * Active Information Collection
-  * Passive Information Collection
-  * Use and Disclosure of Information
-  * Links from Other Web Sites
-  * Access and Correction
-  * Security
-  * Other Terms
-  * How to Contact Us
-  * Change to This Privacy Policy
-
-
 
 Your Consent
 
@@ -65,7 +52,7 @@ We take reasonable steps to protect your personally identifiable information as 
 
 Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20090419101826id_/http%3A//www.cdac.in/html/legal.asp).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20101215022003id_/http%3A//cdac.in/html/legal.aspx).
 
 How to Contact Us
 
@@ -76,11 +63,9 @@ If you have any questions, comments, or concerns about this Privacy Policy or th
 Pune University Campus,  
 Ganesh Khind,  
 Pune 411 007.  
-Telephone: +91-20-2569 4000 / 2569 4001 2569 4002 / 2569 4003 2569 4005 / 2569 4006  
+Telephone: +91-20-2570 4000 / 2569 4001 2569 4002 / 2569 4003 2569 4005 / 2569 4006  
 Fax: +91-20-2569 4059
 
 Changes to This Privacy Policy
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.
-
-Last updated :Wednesday, January 23, 2008
