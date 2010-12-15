@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the girlscoutshop.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630081016id_/http%3A//www.girlscoutshop.com/gsusaonline/GSStaticFAQs.aspx%3Ffid%3DFAQ14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscoutshop.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215223141id_/http%3A//girlscoutshop.com/gsusaonline/GSStaticFAQs.aspx%3Ffid%3D15) for the most accurate reproduction.*
 
-# Girl Scout Shop - Help/FAQs : Privacy Policy
+# Girl Scout Shop - HELP/FAQs : Privacy Policy
+
+| 
 
   
   
@@ -30,21 +32,21 @@ The Children's Online Privacy Protection Act (COPPA) protects the personal infor
 
 Girl Scouts of the USA is committed to providing a safe, secure, and fun online experience for children who visit our site. We are dedicated to safeguarding any personal information collected online and to helping parents and children have positive experiences on the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
 
-Parents can revoke their consent and ask that information about their children be deleted from the site by contacting our offices by phone at (800) GSUSA 4 U or via [](https://web.archive.org/web/20100630081016id_/http%3A//www.girlscoutshop.com/gsusaonline/GSContactCustSupport.aspx). To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
+Parents can revoke their consent and ask that information about their children be deleted from the site by contacting our offices by phone at (800) GSUSA 4 U or via [](https://web.archive.org/web/20101215223141id_/http%3A//girlscoutshop.com/gsusaonline/GSContactCustSupport.aspx). To do this or to review personal information collected from children, we must verify the identity of the requesting parent. When a parent revokes consent, we will stop collecting, using, or disclosing information from that child. To respect the privacy of parents, information collected and used for the sole purpose of obtaining verifiable parental consent or providing notice is not maintained in retrievable form by the site if parental consent is not obtained after a reasonable time.
 
 Girl Scouts believes it is good policy not to collect more personally identifiable information from children under 13 than is necessary for them to participate in our online activities. In addition, be aware that all sites that are targeted to children under 13 are prohibited by law from collecting more information than they need.
 
 **Submissions**
 
-Girl Scouts of the USA welcomes children to learn more about our organization and, where appropriate, participate in polls and surveys, as well as submit comments, artwork, writings, and other submissions for posting on our Web site. For this reason, Girl Scouts of the USA follows the guidelines for interactive electronic media published by the Children's Advertising Review Unit (CARU) of the Better Business Bureau for pages targeted to children under 13. However, we encourage this be done only with their parent's knowledge and supervision. We also encourage children to use an alias (e.g., "Bookworm", "Skater", etc.), first name, nickname, initials, or other alternative to full names or screen names which correspond with an e-mail address for any activities which will involve public posting.
+Girl Scouts of the USA welcomes children to learn more about our organization and,where appropriate, participate in polls and surveys, as well as submit comments, artwork, writings, and other submissions for posting on our Web site. For this reason, Girl Scouts of the USA follows the guidelines for interactive electronic media published by the Children's Advertising Review Unit (CARU) of the Better Business Bureau for pages targeted to children under 13. However, we encourage this be done only with their parent's knowledge and supervision. We also encourage children to use an alias (e.g., "Bookworm", "Skater", etc.), first name, nickname, initials, or other alternative to full names or screen names which correspond with an e-mail address for any activities which will involve public posting.
 
 In keeping with CARU's Principle regarding respecting and fostering the parents' role in providing guidance for their children, we encourage parents to check and monitor their children's use of e-mail and other online activities regularly.
 
-**USE OF COOKIES**
+ **USE OF COOKIES**
 
 Visitors should be aware that non-personal information and data may be automatically collected by the Girl Scouts of the USA Web site through the use of "cookies." "Cookies" are small text files a Web site can use to recognize repeat visitors, facilitate the visitor's ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. Cookies are not programs that come onto a visitor's system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. Girl Scouts of the USA uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitors' online experience and facilitate their visit within our site.
 
-**LINKS TO OTHER WEB SITES AND SERVICES**
+ **LINKS TO OTHER WEB SITES AND SERVICES**
 
 This site may be linked to other sites and services that are not maintained by Girl Scouts of the USA. These Web sites have their own privacy policies, which you should review prior to visiting them. We have no responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors.
 
@@ -52,7 +54,7 @@ This site may be linked to other sites and services that are not maintained by G
 
 The safety and security of your online experience is of the utmost concern to us. We ensure the appropriate physical, electronic, and managerial procedures are in place to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-**Credit Card Safety**
+ **Credit Card Safety**
 
 Protecting the safety of your credit card information is also important to us. We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. SSL is the industry standard in Internet encryption technology, which is a highly sophisticated method of scrambling data as it travels from your computer to our Web site servers. We also encrypt your credit card number when we store your order and whenever we transfer that information to participating merchants.
 
@@ -73,4 +75,6 @@ Girl Scouts of the USA
 New York, NY 10018  
 Phone: (800) GSUSA 4 U
 
-Thank you for visiting our site.
+Thank you for visiting our site.  
+  
+---|---
