@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103013024id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215190656id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
 
 # eReader.com Privacy Policy
-
-  
-
-
-[](http://www.ereader.com/servlet/mw?t=freebooks&si=59)
-
-[](https://web.archive.org/ereader/software/ebookstudio.htm)
-
-[](https://web.archive.org/ereader/software/product/22726_wm.htm)
 
 | 
 
