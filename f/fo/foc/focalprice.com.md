@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focalprice.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605012311id_/http%3A//www.focalprice.com/helptype.html%3FParentID%3D%26TypeID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focalprice.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215160500id_/http%3A//www.focalprice.com/helptype.html%3FParentID%3D%26TypeID%3D24) for the most accurate reproduction.*
 
 # Welcome to focalprice.com | The lowest Price for DS R4 lite,PSP Slim,Genuine Earphone,SONY EX71 EX082PS2,Macbook Accessories etc.
 
