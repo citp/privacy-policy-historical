@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the cuterank.net privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235454id_/http%3A//cuterank.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuterank.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215182744id_/http%3A//cuterank.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CuteRank
+
+[
+
+### Batch Check Your Keyword Rankings, Freeware!
+
+Batch check keyword rankings on Google, Yahoo, Bing, Freeware, Download Now!](https://web.archive.org/product/cuterank-free-setup.exe)
 
 ### Collection and use of information
 
@@ -37,7 +43,3 @@ CuteRank.net processes personal information only for the purposes for which it w
 ### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
-
-### [Download Free Rank Checker Tool](https://web.archive.org/download/?click=bottom)
-
-[](https://web.archive.org/download/?click=bottom)It's Completely **Free**! Download CuteRank Free Edition now and enjoy the easy of checking your keyword rankings on multiple search engines, and more! 
