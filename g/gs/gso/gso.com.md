@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gso.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117100235id_/http%3A//gso.com/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gso.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215145048id_/http%3A//gso.com/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Golden State Overnight - Priority Overnight Delivery Service for California, Nevada and Arizona
 
@@ -21,4 +21,4 @@ Consent
 
 By accessing and using this web site or other services owned and/or operated by GSO, you agree to the terms and conditions of this Privacy Policy. If we change our privacy policy, we will post any change on this page so that you are always aware of the amendments. 
 
-Please also refer to [Terms of Use](https://web.archive.org/web/20100117100235id_/http%3A//gso.com/content/TermsOfUse.aspx) and [Service Guide](https://web.archive.org/web/20100117100235id_/http%3A//gso.com/Serviceguide/ServiceGuide.aspx) for limitations of liability, disclaimers of warranty and general terms applicable to the service. 
+Please also refer to [Terms of Use](https://web.archive.org/web/20101215145048id_/http%3A//gso.com/content/TermsOfUse.aspx) and [Service Guide](https://web.archive.org/web/20101215145048id_/http%3A//gso.com/Serviceguide/ServiceGuide.aspx) for limitations of liability, disclaimers of warranty and general terms applicable to the service. 
