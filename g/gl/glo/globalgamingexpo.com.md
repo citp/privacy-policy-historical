@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616115521id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215172333id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Gaming Expo - G2E
 
