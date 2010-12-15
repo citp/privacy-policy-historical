@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513014036id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215014011id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Free web templates, graphics, articles and more.
+# Privacy Policy- Free web templates, graphics, articles and more.
 
 This is the privacy policy of http://www.webpagedesign.com.au and will be referred to as “We”, “our” and “us” in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site (“the web site”), which is set out on this web site page. 
 
