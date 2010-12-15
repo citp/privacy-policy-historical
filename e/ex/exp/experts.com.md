@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420085129id_/http%3A//www.experts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215145954id_/http%3A//experts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Experts.com - Privacy Statement
 
@@ -7,7 +7,7 @@
 |  |  |   
 ---  
   
-|  [ ](https://web.archive.org/web/20100420085129id_/http%3A//Testimonial.aspx)  
+|  [ ](https://web.archive.org/web/20101215145954id_/http%3A//Testimonial.aspx)  
 ---  
   
 |  [ "Within the first week of being posted on Experts.com, I received an inquiry for consultation and expert witness work, as well as a scheduled and completed interview for a web magazine on parenting. The international reach and power of this website is phenomenal.
