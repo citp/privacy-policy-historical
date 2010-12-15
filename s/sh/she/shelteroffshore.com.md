@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelteroffshore.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616143727id_/http%3A//www.shelteroffshore.com/index.php/shelter/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelteroffshore.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215130600id_/http%3A//www.shelteroffshore.com/index.php/shelter/privacy-policy) for the most accurate reproduction.*
 
 # ShelterOffshore.com - Privacy Policy
 
