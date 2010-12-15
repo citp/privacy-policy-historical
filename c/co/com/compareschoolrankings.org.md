@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareschoolrankings.org privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311234837id_/http%3A//www.compareschoolrankings.org/GeneralPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareschoolrankings.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215043355id_/http%3A//compareschoolrankings.org/GeneralPrivacy.aspx) for the most accurate reproduction.*
 
 # School Report Cards by Fraser Institute
 
