@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527194628id_/http%3A//www.wowowow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215070953id_/http%3A//www.wowowow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | wowOwow
-
-Privacy Policy
+# Privacy Policy - wowowow
 
 The following Privacy Policy governs the online information collection practices of The Women on The Net Inc.. We have developed this Privacy Policy to demonstrate our commitment to protecting any information we gather about you while you are using wowowow.com. The Policy describes the type of information we collect from you, how that information may be used and shared and what steps are taken to protect it. Please carefully review our information collection practices and privacy protections below.  
 **  
@@ -52,9 +50,15 @@ We use third-party advertising companies to serve ads when you visit our site. T
 
 Our website contains advertisements, including banner ads and/or links to the websites of advertisers or sponsors. These entities may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you link to or visit an advertiser’s, sponsor’s or others’ website, we may frame the site with our website logo. It is important that you understand that you will be subject to the privacy policy and terms of usage agreement of that website operator when you click on a link to their site. We will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors.
 
+**Third Party Providers**
+
+Except as otherwise stated in this privacy policy, we do not generally sell, trade, rent, or share your personal information that we collect with third parties, unless you ask or authorize us to do so. To help us better provide some of the services and features of our site, we may provide your personal information to third-parties we have partnered with, for the sole and limited purpose of distributing newsletters, and other electronic publications that we are associated with, which in may be in the form of daily emails. These third-parties are required not to use your information except as necessary to provide the relevant services to you. You expressly consent to the sharing of your personal information with our third-party partner for the sole purpose of receiving newsletters and other electronic publications.
+
+You may indicate a preference to stop receiving further communications from us and our third-party partner and opt out by contacting us directly at [info@wowowow.com](mailto:info@wowowow.com). Should you decide to opt out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties.
+
 **Third Party Advertising**
 
-The advertisements appearing on this Web site are delivered to you by 24/7 Real Media, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about 24/7 Real Media, cookies, and how to "opt-out", please click [here](http://www.247realmedia.com/EN-US/privacy-policy.html).
+The advertisements appearing on this Web site are delivered to you by 24/7 Real Media, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about 24/7 Real Media, cookies, and how to “opt-out”, please click [here](http://www.247realmedia.com/EN-US/privacy-policy.html).
 
 **Children’s Privacy Statement**
 
@@ -70,8 +74,6 @@ We will review our security measures and Privacy Policy on a periodic basis and 
 
 **Questions Regarding Privacy**
 
-If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to: [info@wowowow.com](mailto:info@wowowow.com "Email Us")
-
-  
-Amended as of November 12, 2008. The Women on the Net Inc. **  
+If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to: [info@wowowow.com](mailto:info@wowowow.com "Email Us")  
+Amended as of June 22, 2010. The Women on the Net Inc. **  
 **
