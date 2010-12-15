@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinebookstore.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619074155id_/http%3A//freeonlinebookstore.org/Privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinebookstore.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215090012id_/http%3A//freeonlinebookstore.org/Privacy.php3) for the most accurate reproduction.*
 
 # 
 
