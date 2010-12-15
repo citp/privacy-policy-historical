@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingscripts.co.uk privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000855id_/http%3A//datingscripts.co.uk/emeeting-legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingscripts.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215162356id_/http%3A//datingscripts.co.uk/emeeting-legal/privacy) for the most accurate reproduction.*
 
 # 
 
