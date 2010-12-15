@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612174432id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215012545id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy) for the most accurate reproduction.*
 
 # Shop CCS
 
@@ -7,7 +7,7 @@
 
 **Online Privacy Statement**
 
-CCS believes in keeping your confidential information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:
+CCS believes in keeping your information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:
 
 Information Collection | Option to Opt-out  
 ---|---  
@@ -19,7 +19,7 @@ Changes to our Privacy Statement | Links to Other Websites
 Cookies and Pixel Tags | Safe Harbor Certification  
   
 **Information Collection**  
- **We do not sell products for purchase by children.** We sell children's products for purchase by adults. We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen. **You must be 13 years of age or older to submit personal information to us, including to register or place an order on the Website or participate in one of our online promotions.** Please see our [Terms of Use](http://shop.ccs.com/customerserv/help:legal_statements/) for additional information regarding the use of this Website.
+ **We do not sell products for purchase by children.** We sell children's products for purchase by adults. We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen. **You must be 13 years of age or older to submit personal information to us, including to register or place an order on the Website or participate in one of our online promotions.** Please see our [Terms of Use](http://shop.ccs.com/customerserv/help:terms/) for additional information regarding the use of this Website.
 
 We only collect personal information from you when you provide it to us, such as when you: (1) register; (2) place an order; (3) complete a survey; (4) participate in one of our promotions; (5) sign up for VIP, Star Club, or other brand loyalty membership; or (6) contact us. The personal information we collect from you may include your name, age, mailing address, daytime telephone number, cell phone number, e-mail address, password and payment information. We may also combine the information you provide to us with information we receive from third parties, such as address update services.
 
@@ -30,7 +30,7 @@ We encourage you to register when shopping at our Website, however it is not req
 We use the personal information we collect from you for the following purposes:
 
   1. To provide you with a quick and simple checkout experience;
-  2. to process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; 
+  2. To process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; 
   3. To contact you about upcoming CCS sales, promotions, and product information; 
   4. To allow you to participate in contests and other promotions;
   5. To help us learn more about our site visitors and customers and to improve their shopping experience and our business;
@@ -44,7 +44,7 @@ We use the personal information we collect from you for the following purposes:
 We may disclose your personal information as follows:
 
   1. To carefully selected third party partners, so that they may inform you of offers, promotions and services.
-  2. CCS will have access to and will use the personally identifiable information you provide in connection with your purchases on this Website, and it may use your data for payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and also for marketing and promotional material distribution for the Foot Locker family of companies.
+  2. Footlocker.com, Inc. will have access to and will use the personally identifiable information you provide in connection with your purchases on this Website, and it may use your data for payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and also for marketing and promotional material distribution for the Foot Locker family of companies.
   3. To our Website hosting partners, and other parties who assist us in operating our Website or conducting CCS business, so long as those outside parties agree to keep the information confidential.
   4. To comply with the law, to respond to governmental inquiries or requests, to enforce our Website policies, or to protect our or others' rights, property, or safety.
   5. To a third party advertising partner and its service providers. The information we disclose may include your transactional information with us. Our advertising partner makes the data we provide anonymous and does not use your personal information such as your name, address, email address, etc., in order to deliver advertising to you that is tailored to your interests. To choose not to have your transactional information given to, or used by, our third-party advertising partner in this way, [click here](http://usucmweb.dotomi.com/2223/optout.html).
@@ -52,7 +52,7 @@ We may disclose your personal information as follows:
 
 
 
-**Any personal information or content that you voluntarily upload or submit for posting to the Website becomes publicly available and can be collected and used by others. It is in violation of the Website's[Terms of Use](http://shop.ccs.com/customerserv/help:legal_statements/) for you to post any content that requests personally identifiable information.**
+**Any personal information or content that you voluntarily upload or submit for posting to the Website becomes publicly available and can be collected and used by others. It is in violation of the Website's[Terms of Use](http://shop.ccs.com/customerserv/help:terms/) for you to post any content that requests personally identifiable information.**
 
 As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.
 
@@ -94,13 +94,13 @@ If you are a California resident, you may request certain information regarding 
 **Contacting the Website**  
 Should you have any further questions regarding this Privacy Statement, the practices of this Website, or your dealings with this Website, please:
 
-  1. Contact our customer service department at : customerservice@ccs.com; or 
+  1. Contact our Customer Service Department at : customerservice@ccs.com; or 
   2. Write to us at:
 
 
 
 Internet Customer Service  
-CCS Direct LLC  
+Footlocker.com, Inc.  
 PO Box 8066  
 111 South 1st Avenue  
 Wausau, WI 54402-8066
