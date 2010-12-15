@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524092223id_/http%3A//www.guitarplayer.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarplayer.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215053255id_/http%3A//www.guitarplayer.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Guitar Player - Privacy Policy
 
