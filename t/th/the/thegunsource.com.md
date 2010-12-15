@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegunsource.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025907id_/http%3A//www.thegunsource.com/store/content.aspx%3Fckey%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegunsource.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215132852id_/http%3A//www.thegunsource.com/store/content.aspx%3Fckey%3DPrivacy) for the most accurate reproduction.*
 
 # TheGunSource: privacy
 
