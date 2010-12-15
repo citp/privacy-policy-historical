@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617124502id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215082907id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.*
 
 # Department of Energy - Privacy
 
@@ -6,24 +6,15 @@
 
 This system is made available by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. The views and opinions of originators expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.
 
- **Privacy Notice**
+**Privacy Notice**
 
-We collect no personal information about you when you visit a DOE Web site, unless otherwise stated, unless you choose to provide this information to us. However, we collect and store certain information automatically. What we collect and store automatically is:
+Energy.gov utilizes web measurement technology in order to improve our website and provide a better user experience for our customers. The Office of Management and Budget (OMB) classifies this as a Tier 2 usage, since we are utilizing a multi-session web measurement technology that does not collect any personally identifiable information (PII).  This technology anonymously tracks how visitors interact with energy.gov, including where they came from, what they did on the site, and whether they completed any pre-determined tasks while on the site.
 
-the Internet Protocol (IP) address of the domain from which you access the Internet (i.e. 123.456.789.012) whether yours individually or provided as a proxy by your Internet Service Provider (ISP)
+  This technology is provided by Google Analytics and the information collected is used to optimize our website; helping us determine top tasks, improve our user interface and diversify our content offerings to meet the needs of our customers. No personally identifiable information is collected, so the anonymity of the end user is protected.  The measurement data that is collected is only retained for as long as is needed for proper analysis and optimization of the website and is accessible only to employees whose position necessitates it.
 
-  * the date and time you access our site
+  Since disabling this web measurement technology requires modifying individual browser settings it is enabled by default. If you wish to opt-out, you can find step-by-step instructions for changing your settings at <http://www.usa.gov/optout_instructions.shtml>. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at <http://tools.google.com/dlpage/gaoptout>. Please note that opting-out in no way effects your access to content within energy.gov or how you see the site.
 
-  * the pages you peruse (recorded by the text and graphics files that compose that page)
-
-  * and, the Internet address of the Website from which you linked directly to our site.
-
-
-
-
-We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
-
-This information is NOT shared with anyone beyond the support staff to this home page, except when required by Law Enforcement investigation, and is used only as a source of anonymous statistical information.
+The Department of Energy is committed to expanding the national conversation on energy issues and upholding the open government principles of transparency, participation and collaboration. One of the key ways we seek to accomplish this is through the use of third-party social media websites and applications. We do not collect or request personally identifiable information through these outlets, but may occasionally come into contact with unsolicited PII due to circumstances beyond our control. As a result, we reserve the right to moderate or remove comments that offer personally identifiable information such as address, phone number or social security number in a public manner. No PII will be retained in our system or shared with outside parties.
 
 **Interaction with  Children**
 
@@ -33,7 +24,7 @@ This Web site may offer educational content to children under 13. No personally 
 
 Additional information regarding your rights is available via the FOIA/Privacy Act Reference Materials posted by the Federal Consumer Information Center at [USA.gov](http://www.usa.gov/Topics/Reference_Shelf.shtml#vgn-freedom-of-information-and-privacy-act-vgn).
 
- **Comments Sent by E-Mail**
+**Comments Sent by E-Mail**
 
 You may choose to provide us with personal information, as in an e-mail message containing your comments or questions. We use this information to improve our service to you or to respond to your request. There are times when your message is forwarded, as e-mail, to other Department of Energy employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
