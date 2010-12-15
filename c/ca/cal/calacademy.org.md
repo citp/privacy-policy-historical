@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622174946id_/http%3A//www.calacademy.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215221007id_/http%3A//www.calacademy.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: California Academy of Sciences
 
