@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballcafe.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607121906id_/http%3A//www.fantasyfootballcafe.com/utility_page.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballcafe.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215142200id_/http%3A//www.fantasyfootballcafe.com/utility_page.php) for the most accurate reproduction.*
 
 # Utility Page - Fantasy Football Cafe 2010
 
