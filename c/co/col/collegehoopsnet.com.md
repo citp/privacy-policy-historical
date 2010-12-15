@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504212535id_/http%3A//www.collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehoopsnet.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215150018id_/http%3A//collegehoopsnet.com/privacy.html) for the most accurate reproduction.*
 
 # Collegehoopsnet.com - Privacy Policy
 
 COLLEGEHOOPSNET.COM (CHN) PRIVACY POLICY
 
-CHN is committed to protecting your privacy. CHN collects no personal information about who visits our site. InsideHoops uses a hit service (Webalizer) that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site's visitors. 
+CHN is committed to protecting your privacy. CHN collects no personal information about who visits our site. CHN uses a traffic service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site's visitors. 
 
 Demographic data: 
 
-We can see hostnames of our visitors through out 3rd party statistics provider (Webalizer). In other words, if you are in new york and you use earthlink, we may see that this person visited our site: 833.235.new-york.earthlink.net - but in no way does that tell us who you are. Other information we may see includes what we stated above \- screen resolution, browser type, domains, countries, etc., but we repeat - in no way does this identify any sort of personal information about you. We do not know who you are unless you tell us. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+We can see hostnames of our visitors through out 3rd party statistics provider (Webalizer). In other words, if you are in New York and you use earthlink, we may see that this person visited our site: 833.235.new-york.earthlink.net - but in no way does that tell us who you are. Other information we may see includes what we stated above \- screen resolution, browser type, domains, countries, etc., but we repeat - in no way does this identify any sort of personal information about you. We do not know who you are unless you tell us. 
 
 Will CHN disclose the information it collects? 
 
