@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608064341id_/http%3A//www.easyart.com/content/help/privacy_policy.ghtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215145548id_/http%3A//www.easyart.com/content/help/privacy_policy.ghtml) for the most accurate reproduction.*
 
 # Easyart.com - Website Privacy Policy and Security Information
 
