@@ -1,119 +1,89 @@
-> *The following text is extracted and transformed from the playspymaster.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201131557id_/http%3A//playspymaster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playspymaster.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215081800id_/http%3A//metalevelgames.com/privacy.html) for the most accurate reproduction.*
 
-# Spymaster
+# Meta+Level Games - Making fun in San Francisco!
 
-iList, Inc. (“Company”), the makers of Spymaster, knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [Spymaster](http://playspymaster.com/) website and domain name, or otherwise accessing or using any other linked pages, features, content, products, applications, or services offered from time to time by Company in connection therewith (collectively, the “Website”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+## Privacy Policy
 
-## WHAT DOES THIS PRIVACY POLICY COVER?
+_Last Updated: June 29, 2010_
 
-This Privacy Policy covers Company’s treatment of personally identifiable information (“Personal Information”) that Company gathers when you access the Website and when you use any of Company’s services. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
+This Privacy Policy describes how Meta+Level Games, a division of IGN Entertainment, Inc. (“Meta+Level,” “We,” “Us,” or “Our”) protects your privacy when you access or use the website located at www.metalevelgames.com (the “Site”) or use our online service, which includes, among other things, software owned or controlled by Meta+Level that you have downloaded or are about to download, or have embedded or are about to embed, any applications owned or controlled by Meta+Level and available through social networking sites, and any software running on Meta+Level’s servers (“Meta+Level Software”), as well as any content, related documentation, and information made available by users to each other through the Meta+Level Software on our servers (collectively, the “Service”).
 
-## WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SERVICE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS DESCRIBED HEREIN.
 
-The information we gather from users enables us to personalize and improve our services. We collect the following types of information from our users:
+This Privacy Policy applies to information (including, personal information) collected through the Service. For the purpose of this Privacy Policy, “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include “aggregate information”, which is data that we collect about the use of the Service, or about a group of products or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes.
 
-### Personal Information You Provide to Us:
+From time-to-time, Meta+Level may revise this Privacy Policy and if we do, Meta+Level will post a notice that changes have been made on the Site and within the Service. Your continued use of the Service after Meta+Level posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current privacy policies and practices.
 
-You can browse the Website without telling us who you are or revealing any personal information about yourself. We may receive and store any information you enter on the Website or provide to us in any other way (e.g. through the registration process or that you upload or post to the Website). The types of Personal Information collected may include your full name, gender, email address, mobile phone number, IP address, browser information, username, password, time zone and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide may be used for such purposes as responding to your requests for Website related information, customizing the advertising and content you see, and communicating with you about Website features and services.
+### WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW WE COLLECT IT
 
-In order for you to use our website, you must complete a registration form. As part of this registration form, we require your first and last name, your email address and confirmation that you are 13 years or older.
+### Active Collection of Information
 
-If you choose to provide us with Personal Information, you consent to the transfer and storage of that information on our servers located in the United States.
+Personal information may be collected in a number of ways when you use the Service. Meta+Level may collect personal information from you so that you can participate in activities like creating a personal profile (“Your Profile”), sweepstakes, contests, games, surveys, forums, in connection with content or suggestions you submit to us or when you contact us by email, or because you want us to furnish you with products, services or information. We may also obtain personal information from reputable third parties or supplement personal information that we have collected directly from our users with additional personal information or non-personal information from reputable third parties.
 
-### Personal Information Collected Automatically:
+In order to use the Service, you must first register Your Profile with Meta+Level. Your Profile information may include your name, birth date, gender, profile photo and email address. You may complete the Member registration process by registering directly with the Site. You may also register using a log-in credential from an approved social networking site through which Meta+Level may receive additional information about Your Profile, such as the identification of your friends within the applicable social network and your profile URLwithin such social network. We may offer you the opportunity to submit other information about yourself (such as occupation, interests, zip code), or we may be able to collect that information from the social networking sites and systems on which you have embedded or used the Service, which would then also be covered by this Privacy Policy.
 
-We receive and store certain types of information whenever you interact with our Website or use our services. Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.
+You may choose to voluntarily provide or store personal information (such as your first and last name), non-personal information and other content in Your Profile (such information is your “Profile Information”). You may also choose to share information about yourself in other content (“Content”) you make available through the Service, such as in games. The Profile Information you include in Your Profile and any Content you share with other players or users of the Service will automatically be made public and you provide it at your own discretion.
 
-Generally, the Website automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our Website or services. We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify you personally.
+Note that if you access or use the Service through a third party social networking site, such as Facebook, it is your responsibility to read and accept their terms of use and privacy policies prior to such use, including any updates to such terms and privacy policies.
 
-### E-mail Communications:
+### Passive Collection of Information
 
-We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also may compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.
+In addition, when you access or use the Service, some non-personal information may be automatically collected. For example, it is standard for your web browser to automatically send information to every web site you visit including ours. Such information includes your computer’s Internet Protocol (“IP”) address, access times, browser type and language, and referring web site addresses. We may also collect information about your computer’s operating system and information about your usage and activity on the Service.
 
-### Information from Other Sources:
+#### Cookies
 
-For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
+We may automatically collect certain information through the use of “cookies.” Cookies are small data files that are stored on your hard drive by a web site. Among other things, the use of cookies helps us to improve the Service and your experience on the Service. Cookies may be used to see which areas and features of the Service are most popular, to count the number of computers accessing the Service, to personalize your experience and to remember your preferences. If your browser is set not to accept cookies or if you reject a cookie, you may not be able to access certain features of the Service.
 
-### What About Cookies?
+#### Web Beacons
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.
+Web beacons, also known as gifs, are electronic images that may be used with the Service or in our emails. A web beacon may be used on our web pages to collect information, deliver cookies, count visits, compile statistics on usage and campaign effectiveness and in our emails to tell if an email has been opened and acted upon.
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
+**COLLECTION OF PERSONAL FINANCIAL INFORMATION WITHIN THE SERVICE BY AN INDEPENDENT THIRD PARTY COMPANY**
 
-Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers.
+Meta+Games may use an independent third party company to process financial transactions made available through or in connection with the Service. When an independent third party company selected by Meta+Games collects, transmits or processes your personal financial information, such as your credit card information or other payment information (collectively, “Personal Financial Information”), through the Service it is because you are submitting such Personal Financial Information in order to: (i) purchase any products from Meta+Games, such as in-game items or premium content; (ii) participate in a pay-to-play game; or (iii) purchase any additional services or products offered from time to time through the Service.
 
-## WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+You acknowledge and agree that this Privacy Policy will not apply to any Personal Financial Information that you provide to any independent third party company through the Service and that all Personal Financial Information related to such purchase shall be governed solely by the applicable independent third party company’s privacy policy. You further acknowledge and agree that Meta+Games will have no liability for or control over such independent third party company’s use or protection of your Personal Financial Information. You should check the privacy policy of the independent third party company’s web site to determine how it will handle any Personal Financial Information it collects or processes from you.
 
-Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
+You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Personal Financial Information, Meta+Games shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach.
 
-_Affiliated Businesses We Do Not Control:_ We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Company may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
+### THIRD PARTY SITES; THIRD PARTY ADVERTISING COMPANIES
 
-_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Company’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+The Service may include links to web sites operated by other companies, and content within the Service may be hosted or served by other web sites. The Service also carries advertisements from other companies. Advertisements embedded within or made available through the Service and these other web sites maintain their own privacy policies regarding cookies, web beacons and personal information. It is your responsibility to review those policies.
 
-_Information You Share With the Public:_ The Website will allow you to post information into a public forum (e.g. posting information as part of a notification that you are selling a product). If you post Personal Information into a public forum, the public will have access to such information. PLEASE NOTE, ONCE YOU MAKE A PUBLIC POSTING THROUGH THE WEBSITE, YOU MAY NOT BE ABLE TO CHANGE OR REMOVE IT.
+### STORAGE OF INFORMATION & TRANSFER OF DATA ABROAD
 
-_User IDs:_ Your User ID is displayed throughout the Website (and so available to the public), and is connected to all of your Website activity. Therefore, if you associate your name with your User ID, other people will be able to personally identify you.
+If you are accessing the Service from a country other than the country in which our servers are located (currently the United States of America) the various communications will necessarily result in the transfer of information across international boundaries. By using the Service and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy.
 
-_Communication in response to User Submissions:_ As part of the Website and services, you may receive from Company emails and other communications relating to your any content or information you post or otherwise upload to the Website. You acknowledge and agree that Company may send you such emails and other communications.
+### HOW DO WE USE YOUR PERSONAL INFORMATION
 
-_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company may continue to use your Personal Information as set forth in this policy.
+We use the information collected through the Service: (i) to communicate with you; (ii) to process your requests and transactions; (iii) to improve the Service; (iv) to customize the services or products we provide to you; (v) to assist with our product and service development; (vi) to perform marketing analysis; and (vii) for other purposes related to our business.
 
-_Protection of Company and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+Also, we may use the information we have collected together with information collected by a partner, advertiser or other person/entity with whom you or we do business.
 
-_With Your Consent:_ Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+### WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION
 
-## CONDITIONS OF USE
+Personal information collected through the Service or advertisements hosted by us, may be shared with our affiliates, companies and organizations that perform services on our behalf (for example, companies that process Personal Financial Information or companies that provide data management or other support services to us (such as data storage and web hosting services)) and third party advertising companies.
 
-If you decide to visit the Company websites, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+Also, we may disclose the personal information we collect through the Service when we, in good faith, believe disclosure is appropriate to: (i) comply with applicable law or other judicial or administrative process (or a court order or subpoena); (ii) prevent or investigate a possible crime, such as fraud or identity theft; (iii) enforce our Terms of Service or other agreements that govern your use of the Service or our services; or (iv) to protect the rights, property or safety of us, our users or others.
 
-## THIRD PARTY WEBSITES
+Personal information submitted to the Service or collected by us is our asset and will become part of our normal business records. Your personal information and other data collected by us may be transferred to another company that has acquired our stock or assets, for example, as a result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, and the privacy preferences you have expressed to us.
 
-The Website may permit you to link to other websites on the Internet, and other websites may contain links to the Websites. These other websites are not under Company control, and such links do not constitute an endorsement by Company of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the Company websites are not covered by this Privacy Policy, and Company is not responsible for the privacy or security practices or the content of such websites.
+### MODIFYING YOUR INFORMATION; OPT-OUT / OUT-IN
 
-## IS PERSONAL INFORMATION ABOUT ME SECURE?
+We respect your right to make choices about the ways we collect, use and disclose your personal information. You can terminate your account at any time by clicking on the “Delete Account” link within the Service which will remove Your Profile and other personal information from public view. You can edit Your Profile information and change your privacy preferences at any time by going to the “profile settings” page which is accessible by clicking on the “Settings” button within the Service. In addition, you can edit your information or change your privacy preferences at any time by emailing us at [privacy@metalevelgames.com](https://web.archive.org/web/20101215081800id_/http%3A//metalevelgames.com/privacy@metalevelgames.com).
 
-Your Company account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+You may “opt-out” of receiving promotional emails from us by following the instructions in those emails. Opt-out requests will not apply to transactional service communications including, but not limited to, messages about your registration.
 
-Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+### SECURITY OF YOUR PERSONAL INFORMATION
 
-The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website or otherwise by Company.
+We take reasonable security measures to protect your personal information (including, preventing the loss, misuse, unauthorized access, disclosure, alteration and destruction of your personal information). Please be aware, however, that despite our efforts, no security measures are impenetrable. If you use a password for the Service, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused, please advise us immediately.
 
-This Privacy Policy addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are bidders, buyers or sellers on the Website or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Company does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
+### MINORS
 
-## WHAT PERSONAL INFORMATION CAN I ACCESS?
+THIS SERVICE IS NOT MEANT FOR MINORS. We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Service is not intended for and may not be used by children under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Service to children under 13.
 
-Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.
+We may not intend to collect or solicit information from people who are minors. However, as a condition of use for minors in those countries or regions where information gathering from minors is considered illegal, guardians will be responsible for accompanying minors for prevention of any unexpected circumstances when they access the Service.
 
-  * Real name
-  * Account and user profile information
-  * User e-mail address
-  * User mobile phone number
-  * Username and password
-  * User preferences
-  * Your pre-written messages to other users
+### QUESTIONS
 
-
-
-## WHAT CHOICES DO I HAVE?
-
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services.
-
-You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-
-You may request deletion of your Company account by sending an e-mail to privacy@ilist.com. Please note that some information may remain in our records after deletion of your account. ALSO NOTE, ONCE YOU MAKE A PUBLIC POSTING THROUGH THE WEBSITE, YOU MAY NOT BE ABLE TO CHANGE OR REMOVE IT.
-
-## CAN CHILDREN USE COMPANY’S SERVICES?
-
-Our site and the services available through Company are not intended for children under the age of 13. Company does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information. We encourage you to participate in your child’s web experience. Company recommends that parents use Internet filtering technology to supervise their kids’ access to the Internet.
-
-## CHANGES TO THIS PRIVACY POLICY
-
-Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
-
-## QUESTIONS OR CONCERNS
-
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@ilist.com](mailto:privacy@ilist.com). We will make every effort to resolve your concerns. Effective Date: June 1, 2008
-
-iList, Inc.  
-[http://ilist.com](http://ilist.com/)  
-[privacy@ilist.com](mailto:privacy@ilist.com)
+If you have any questions about this Privacy Policy, please contact us by email at [privacy@metalevelgames.com](https://web.archive.org/web/20101215081800id_/http%3A//metalevelgames.com/privacy@metalevelgames.com).
