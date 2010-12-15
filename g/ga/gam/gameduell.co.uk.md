@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107054136id_/http%3A//www.gameduell.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215062304id_/http%3A//www.gameduell.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
@@ -70,5 +70,5 @@ Questions regarding the Privacy Policy
 We hope that we have been able to fully detail how your personal data will be used. If you have any further questions, then an in-house specialist would be happy to give you further information. Please address all questions to **privacy-policy@gameduell.com**.
 
   
-| Revision from 10/15/2006 | GD GameDuell GmbH, Berlin  
+| Revision from 10/15/2006 | GameDuell GmbH, Berlin  
 ---|---
