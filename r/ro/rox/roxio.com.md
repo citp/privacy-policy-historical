@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxio.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620093902id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxio.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215201852id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
 
 # Roxio - Privacy Statement
 
