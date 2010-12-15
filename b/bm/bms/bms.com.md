@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328140816id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215104216id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Bristol-Myers Squibb: Privacy Statement
 
 Privacy Policy
 
-Effective Date: June 6, 2008
+Effective Date: October 1, 2008
 
 **Purpose of the Privacy Statement**. Bristol-Myers Squibb respects the privacy of visitors to this Web site and understands that information about you, your health, and your health care is sensitive. Except as provided in the Transfer of Control section of this Web site’s Internet Privacy Statement, Bristol-Myers Squibb will not sell or rent your personally identifiable information.
 
@@ -12,9 +12,11 @@ Bristol-Myers Squibb developed this Internet Privacy Statement to provide inform
 
 We encourage you to read this Internet Privacy Statement before using this Web site or submitting information. By using this Web site, you acknowledge that you understand and agree to the terms of the Internet Privacy Statement.
 
+**Policy on Use of Social Security Numbers.** Bristol-Myers Squibb has a policy which provides for the proper use and protection of Social Security numbers obtained in the course of doing business by Bristol-Myers Squibb. Such policy protects the confidentiality of Social Security numbers, prohibits unlawful disclosure of Social Security numbers, and limits access to Social Security numbers. This policy applies to all methods of collection of Social Security numbers, including Social Security numbers obtained by oral, written and electronic means.
+
 **Information Voluntarily Provided by Users**. You can visit much of the Web site without telling us who you are or providing us with other personally identifiable information. Some areas of the Web site allow you to contact us to ask questions or provide comments. When you communicate with us and request a response, we ask for your name and contact information. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes.
 
-Some areas of the Web site may also require that you submit information in order to access specific content, features, interactive tools, services or participate in a particular activity. For example, to create an online account or to subscribe to a newsletter, we may ask for your name, contact information, and perhaps additional information so we can tailor our response to your request.
+Some areas of the Web site may also require that you submit information in order to access specific content, features, interactive tools, services or participate in a particular activity. For example, to create an online account or to subscribe to a newsletter, we may ask for your name, contact information, and perhaps additional information so we can tailor our response to your request. 
 
 In addition, when you access certain interactive tools or services, you may be asked to provide personally identifiable information. You may always choose not to provide the required information, but then you may not be able to participate in the particular activity that requires the information.
 
@@ -26,7 +28,8 @@ If you do provide us with personally identifiable information, such as your name
 
 If you opt-in to the Bristol-Myers Squibb program, we may share your information with one of our other Bristol-Myers Squibb companies who might invite you to participate in one of their programs.
 
-If you do not opt out of this service, we may also share this information with providers of services to Bristol-Myers Squibb who help Bristol-Myers Squibb to develop programs and provide services that may be of interest to you, or for information processing, mailing, and/or Internet-based delivery purposes.
+If you do not opt out of this service, we may also share this information with providers of services to Bristol-Myers Squibb who help Bristol-Myers Squibb to develop programs and provide services that may be of interest to you, or for information processing, mailing, and/or Internet-based delivery purposes.  
+
 
 Except as provided in the Transfer of Control section, Bristol-Myers Squibb will not sell or rent your personally identifiable information. In addition, as stated in the Transfer of Control section, your personally identifiable information may be shared with actual or potential parties to a contemplated transaction where we decide to reorganize or divest part or all of a business or a line of our business, without obtaining your consent or any further notice to you. In such circumstances, we will seek written assurances that personally identifiable information submitted through this web site will be protected appropriately.
 
@@ -42,7 +45,7 @@ By providing such information to Bristol-Myers Squibb, you understand and agree 
 
 **Web Beacons**. A Web Beacon is a clear GIF (Graphics Interchange Format) image or pixel tag (also known as a "Web beacon") that companies place on their Web sites to allow an Internet advertising or audience measurement company to help them analyze their advertising campaigns and general usage patterns of visitors to their Web sites. Bristol-Myers Squibb uses Web beacons on some of its Web sites. Subject to the transfer of control situation described below, Bristol-Myers Squibb will not sell or rent your personally identifiable information.
 
-**Web Server Logging and IP Addresses**. With or without cookies, our Web site keeps track of usage data, such as the source address that a page request is coming from (i.e., your IP address, domain name), date and time of the page request, the referring Web site (if any), and other parameters in the URL (e.g., search criteria). We use this data to better understand Web site usage on the whole and to determine which areas of our Web site users prefer (e.g., based on the number of visits to those areas). This information is stored in log files and is used by Bristol-Myers Squibb for statistical reporting
+**Web Server Logging and IP Addresses**. With or without cookies, our Web site keeps track of usage data, such as the source address that a page request is coming from (i.e., your IP address, domain name), date and time of the page request, the referring Web site (if any), and other parameters in the URL (e.g., search criteria). We use this data to better understand Web site usage on the whole and to determine which areas of our Web site users prefer (e.g., based on the number of visits to those areas). This information is stored in log files and is used by Bristol-Myers Squibb for statistical reporting.
 
 **Transfer of Control**. Circumstances may arise where we decide to reorganize or divest part or all of our business or of a line of our business, including our information databases and Web sites, through a sale, divestiture, merger, acquisition, or other means of transfer. In any such circumstance, personally identifiable information may be shared with, sold, transferred, rented, licensed or otherwise provided or made available by us or on our behalf to actual or potential parties to, and in connection with, the contemplated transaction (without your consent or any further notice to you). In such circumstances, we will seek written assurances that personally identifiable information submitted through this Web site will be protected appropriately.
 
