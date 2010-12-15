@@ -1,11 +1,18 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227072651id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215210114id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # ELF Cosmetics UK - Eyes Lips Face
 
 **INTRODUCTION**  
-e.l.f. Cosmetics U.K. (we and us) are committed to protecting your privacy.  
+Distribeauty U.K. Ltd (we and us) are committed to protecting your privacy.
+
+  
 This privacy policy (together with our Terms & Conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Distribeauty U.K. Ltd., whose registered office is at Phoenix Way, Garngoch Industrial Estate, Gorseinon, Swansea, United Kingdom SA4 9WF.
+
+Our nominated representative for the purpose of the Act is Jo Westlake.
+
+  
 **INFORMATION THAT WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:  
 • details of transactions you carry out through this website (the Site) and of the fulfilment of your orders;  
@@ -15,9 +22,9 @@ We may collect and process the following data about you:
 • details of your visits to the Site, including, but not limited to, traffic data, location data and the resources that you access.
 
 **COOKIES**  
-We currently use cookies on this Site to store your currency selection for your convenience, this information is not used in any other way.  
-**  
-HOW WE PROCESS AND STORE YOUR INFORMATION**  
+We currently use cookies on this Site to store your language and currency selections for your convenience.  This information is not used in any other way.
+
+**HOW WE PROCESS AND STORE YOUR INFORMATION**  
 The data that we collect from you is processed by staff who work either for us or one of our group companies or for one of our service providers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.  
 Any personal information you provide will be held securely on our systems and/or those of OSDuk (the company hosting this Site on our behalf). Any payment transactions will be encrypted using secure sockets layer (SSL) technology.  
 Your data may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA. By submitting your personal data, you agree to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
@@ -47,8 +54,9 @@ The Site may, from time to time, contain hyperlinks to and from internet sites o
 ACCESS TO YOUR INFORMATION**  
 You have the right under the Data Protection Act 1998 to request a copy of the personal data, which we hold with reference to you. We reserve the right to charge a reasonable fee (not exceeding £10) for the provision of a copy of such data. You also have the right to have any inaccuracies in your personal data corrected.
 
-**CONTACT US**  
-If you have any questions, comments or requests regarding this privacy policy, please feel free to Contact Us.
-
 **UPDATES**  
-We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in January 2009.
+We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in August 2010.
+
+**CONTACT US**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:  Jo Westlake, Distribeauty U.K. Ltd., Phoenix Way, Garngoch Industrial Estate, Gorseinon, Swansea, United Kingdom SA4 9WF. 
