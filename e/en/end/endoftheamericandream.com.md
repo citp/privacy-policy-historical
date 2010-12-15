@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607215057id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215100121id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Site Terms
 
-> Pictures and information on this blog are for commenting purposes only. We use images and information found on the web and consider to be in the public domain. We claim no ownership of them. We make no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. If there is an image you don't want displayed on this site, feel free to send us an email at michaelandmeranda at gmail.com and it will be deleted immediately.
+> Pictures and information on this blog are for commenting purposes only. We use images and information found on the web and consider to be in the public domain. We claim no ownership of them. We make no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. If there is an image you don't want displayed on this site, please contact us using the contact form linked to at the top of the page and it will be deleted immediately.
 
 I. LINKS TO OTHER SITES
 
