@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527214802id_/http%3A//www.indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215223639id_/http%3A//www.indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaStudyChannel.com privacy policy
 
@@ -29,6 +29,3 @@ We use advertisements from third party companies. We try to avoid any kind of of
  **Business Transfers**
 
 As we continue to develop and grow our web site, we may sell IndiaStudyChannel.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
-
-  
-
