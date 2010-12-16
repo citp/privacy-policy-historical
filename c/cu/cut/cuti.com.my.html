@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the cuti.com.my privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213165555id_/http%3A//www.cuti.com.my/link.htm%3Fdoit%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cuti.com.my privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216184954id_/http%3A//www.cuti.com.my/link.htm%3Fdoit%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-<title>CUTI Malaysia: A travel reservation and information gateway of Malaysia</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>CUTI Malaysia: A travel reservation and information gateway of Malaysia</title>
 <meta name="verify-v1" content="uLX0QMENQtwUjru78Y7n3SPCboEbP4D/gvNKqWTf/Qk=">
 <meta name="author" content="NB Travel <info@cuti.com.my>">
 <meta name="copyright" content="© 2000,2001,2002,2003,2004,2005,2006,2007 NB Travel">
@@ -18,6 +18,15 @@
 <meta name="url" content="http://www.cuti.com.my">
 <meta name="area" content="TRAVEL &amp; TOURISM">
 <meta name="placename" content="MALAYSIA, BORNEO, ASIA">
+
+<!--
+<META property='og:title' content='Have Fun and Cuti Now'/>
+<META property='og:type' content='Travel'/>
+<META property='og:image' content='http://www.cuti.com.my/images/cutimasthead.jpg'/>
+<META property='og:site_name' content='cuti.com.my'/>
+<META property='fb:admins' content='148606228490694'/>
+<META property='og:description' content='CUTI Malaysia is a reservation & info gateway for all visitors to Malaysia. Book online for these destinations: Langkawi, Pangkor, Redang, Perhentian Island, Malacca, etc. Malaysia TrulyAsia.'/>
+-->
 
 <!--<script language="JavaScript" src="/inc/rightclick.js?mt=123"></SCRIPT>//-->
 <link rel="SHORTCUT ICON" href="http://www.cuti.com.my/favicon.ico">
@@ -39,13 +48,28 @@ MM_reloadPage(true);
 //-->
 </script>
 
-<style>
+<script>
+
+function CreateBookmarkLink( url, title ) {
+
+    if (window.sidebar) { // Mozilla Firefox Bookmark
+	window.sidebar.addPanel(title, url,'');
+    } else if( window.external ) { // IE Favorite
+	window.external.AddFavorite( url, title); 
+    } else if(window.opera && window.print) { // Opera Hotlist
+	return true; 
+    }
+
+}
+
+</script><style>
 <!--
 #main_box td.left_side {background: url(/structure/images/itembg.gif);
                         background-color: #fef5d1; 
      }
 -->
-</style></head>
+</style><script type="text/javascript" src="http://www.cuti.com.my/getprofile.php?t=1580470419063"></script></head>
+
 
 
 
@@ -57,6 +81,53 @@ MM_reloadPage(true);
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background2="/structure/images/topbg.gif" home="">
 
+<link rel="stylesheet" type="text/css" href="/css/default.css">
+<script type="text/javascript">
+<!--
+var timeout         = 500;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+// -->
+</script>
 <div style="background: url(/structure/images/topbg.gif);">
 <table width="765" height="106" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -99,15 +170,28 @@ MM_reloadPage(true);
 </tr>
 <tr>
    <td valign="top"><img src="/structure/images/top_06.gif" width="86" height="23" alt="malaysia hotel &amp; tour reservation"></td>
-   <td valign="top"><a href="/member1.htm?doit=track"><img src="/structure/images/top_07.gif" width="103" height="23" alt="Order Tracking" border="0"></a></td>
+   <td valign="top"><ul id="sddm">
+	<li><a href="#" onmouseover="mopen('m1')" onmouseout="mclosetime()"><img src="/structure/images/top_07.gif" width="103" height="23" alt="Order Tracking" border="0"></a>
+		<div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+		<a href="http://www.cuti.com.my/member.htm?doit=track">Malaysia Hotel</a>
+		<a href="https://secure.booking.com/mybooking.html?aid=333894">Worldwide Hotel</a>
+		</div>
+	</li>
+</ul></td>
    <td colspan="2" width="334" height="23" bgcolor="#0768AB">
        <table width="100%" cellpadding="0" cellspacing="0" border="0">
           <tbody><tr><td class="loginlink">
-              
-                       &nbsp;&nbsp;&nbsp;&nbsp;<a href="/member.htm" class="loginlink">LOGIN</a>
-                       &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/register/" class="loginlink">JOIN MEMBER</a>
-                       &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/member.htm?doit=profile" class="loginlink">USER PROFILE</a>
-                           
+              <div id="cutiloginbar"></div>
+              <script type="text/javascript">
+                (function (){
+                   var h = document.getElementsByTagName('head')[0];         
+                   var s = document.createElement('script');
+                       s.type = 'text/javascript';
+                       s.src = 'http://www.cuti.com.my/getprofile.php?t='+(new Date()).getTime();
+                       h.appendChild(s);
+                  })();
+              </script>
+               
                </td></tr>
        </tbody></table>
       </td>
@@ -127,7 +211,7 @@ MM_reloadPage(true);
 </tr>
 </tbody></table>
 </div>
-
+<!--<script type="text/javascript" src="/snow.js"></script> -->
 <script>
 // "User Profile" �|�{�{
 
@@ -159,6 +243,7 @@ function Mouse_out( n, m )
 <style>
 .dotleft{
 	background:url(/images/all_small_icon.gif) 0 -170px no-repeat;
+	text-decoration:none;
 	width:15px;
 	height:16px;
 	display:block;
@@ -167,6 +252,7 @@ function Mouse_out( n, m )
 
 #photo_album a{
 	background:url(/images/icon_menu.gif) 0 -773px no-repeat;
+	text-decoration:none;
 	width:127px;
 	height:25px;
 	display:block;
@@ -177,6 +263,7 @@ function Mouse_out( n, m )
 }
 #guide_ a{
 	background:url(/images/icon_menu.gif) 0 -713px no-repeat;
+	text-decoration:none;
 	width:127;
 	height:30;
 	display:block;
@@ -184,13 +271,15 @@ function Mouse_out( n, m )
 }
 #contact_us a{
 	background:url(/images/icon_menu.gif) 0 -656px no-repeat;
+	text-decoration:none;
 	width:127px;
 	height:27px;
 	display:block;
 	cursor:pointer;
 }
 #CUTI_home a{
-	background:url(http://www.cuti.com.my/images/icon_menu.gif) 0 -543px no-repeat;
+	background:url(/images/icon_menu.gif) 0 -543px no-repeat;
+	text-decoration:none;
 	width: 127px;
 	height:27px;
 	display:block;
@@ -201,24 +290,24 @@ function Mouse_out( n, m )
 
 
 </style>
-
+<!--
 <table width="127" height="43" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> 
+<tr> 
 <td width="1" height="43" bgcolor="#1576C0"></td>
-<form action="/search.php" method="post"></form>
+<form action="/search.php" method="post"  >
 <td width="125" height="46" background="/structure/images/searchbar_02.gif"> 
 <input type="text" name="keyword" size="10" class="searchinput">
 &nbsp;<select name="op" size="1" class="searchselect">
-<option selected="">Search in</option>
+<option selected>Search in</option>
      <option value="hotel">Hotel</option>
      <option value="tour">Tour Package</option>
      <option value="guide">Guide</option>
 </select>
 <input type="image" name="submit" value="SEARCH" src="/structure/images/searchgo.gif" align="middle">
-</td>
-<td width="1" height="43" valign="bottom"><img src="/structure/images/searchbar_03.gif" width="1" height="43" alt="malaysia hotel &amp; tour reservation"></td>
+</td></form>
+<td width="1" height="43" valign="bottom"><img src="/structure/images/searchbar_03.gif" width="1" height="43" alt="malaysia hotel & tour reservation"></td>
 </tr>
-</tbody></table>
+</table>-->
 <table width="127">
 <tbody><tr>
 <td height="9"></td>
@@ -233,22 +322,27 @@ function Mouse_out( n, m )
 <tr valign="top"> 
 <td width="127" height="59" background="/structure/images/menu_bg.gif" class="menu"> 
 <table id="in_left_m" width="100%">
-<tbody><tr><td width="6px"> </td> 
+<tbody><tr><td width="6"> </td> 
 <td class="dotleft" alt="Malaysia hotel &amp; tour reservation"> </td>
-<td class="menu"><a href="/hotel_international.htm" class="menu" title="List of Hotels">Hotel</a></td>
+<td class="menu"><a href="/hotel.htm" class="menu" title="List of Hotels">Malaysia Hotel</a></td>
 </tr>
-<tr> <td width="6px"> </td>
+<tr>
+  <td></td>
+  <td class="dotleft" alt="Malaysia hotel &amp; tour reservation"></td>
+  <td class="menu"><a href="http://worldwide.cuti.com.my/index.html?&amp;selected_currency=MYR" class="menu" title="List of Hotels">Worldwide Hotel</a></td>
+</tr>
+<tr> <td width="6"> </td>
 <td align="right" class="dotleft" alt="Malaysia hotel &amp; tour reservation"> </td>
-<td class="menu"><a href="/demo/demo_hotel1.html" class="menu" title="How to Book">How to Book?</a></td>
+<td class="menu"><a href="/tour_international.htm" class="menu" title="List of Tour Package">Tour Package</a></td>
 </tr>
-<tr> <td width="6px"> </td>
-<td align="right" class="dotleft" alt="Malaysia hotel &amp; tour reservation"> </td>
-<td class="menu"><a href="/tour.htm" class="menu" title="List of Tour Package">Tour Package</a></td>
-</tr>
-<tr> <td width="6px"> </td>
+<tr> <td width="6"> </td>
 <td align="right" class="dotleft" alt="Malaysia hotel &amp; tour reservation"> </td>
 <td class="menu"><!--<a href="/gto/"  class="menu" title="Malaysia Hotel & Tour Reservation">-->
-  <a href="/gto/gto_quotationform.htm" title="Group Trip">Group Trip</a>  <!--</a> --></td>
+  <a href="/gto/" title="Group Trip">Group Trip</a>  <!--</a> --></td>
+</tr>
+<tr> <td width="6"> </td>
+<td align="right" class="dotleft" alt="Malaysia hotel &amp; tour reservation"> </td>
+<td class="menu"><a href="/demo/demo_hotel1.html" class="menu" title="How to Book">How to Book?</a></td>
 </tr>
 <!-- <tr> 
 <td><div align="right"><img src="/structure/images/dotleft.gif" width="9" height="9" alt="malaysia hotel & tour reservation"></div></td>
@@ -294,17 +388,23 @@ function Mouse_out( n, m )
     <td align="right"><a href="/news.php?op=show_weather" target="_self"><img src="/weather/weather_button.gif" alt="Weather Forecast" width="127" height="73" border="0"></a></td>
   </tr-->
 </table>
-
+<!--
 <table width="128" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center"><a href="http://www.cuti.com.my/Lowerate/termcond.html"><img border="0" src="/images/low_rate3.gif"></a></td>
+  <tr>
+    <td align="center"><a href="http://www.cuti.com.my/Lowerate/termcond.html" ><img border=0  src='/images/low_rate3.gif' /></a></td>
   </tr>
-</tbody></table>
-
+</table>
+-->
 
 
 <table width="128" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
+    <td align="center"><a href="http://www.cuti.com.my/guide/calendar2011.html"><img src="/structure/images/calendar_2011_2.gif" alt="Calendar 2011" width="100" height="104" border="0" title="Calendar 2011"></a></td>
+  </tr>
+  <tr>
+    <td align="center" style="height:10px"></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://www.facebook.com/cutimalaysia" target="_blank">
     <img src="http://www.cuti.com.my/images/facebook_120x120.png" alt="Join us at facebook! cuti.com.my" name="fbook" width="120" height="120" border="0" id="fbook" onmouseover="Mouse_over('facebook_120x120', 'fbook')" onmouseout="Mouse_out('facebook_120x120', 'fbook')"></a></td>
   </tr>
@@ -339,19 +439,34 @@ function Mouse_out( n, m )
     <td>
     
 
-<!-- start_hide_from_print --><div align="right">
+<script>
+
+function CreateBookmarkLink( url, title ) {
+
+    if (window.sidebar) { // Mozilla Firefox Bookmark
+	window.sidebar.addPanel(title, url,'');
+    } else if( window.external ) { // IE Favorite
+	window.external.AddFavorite( url, title); 
+    } else if(window.opera && window.print) { // Opera Hotlist
+	return true; 
+    }
+
+}
+
+</script><!-- start_hide_from_print --><div align="right">
 
 <table width="100%">
 <tbody><tr>
-<td width="370px"><div align="left">
-<table border="0" cellspacing="1" bgcolor="#CCCCCC" nowrap="">
+<td width="370px" nowrap="">
+<div align="left">
+<table border="0" cellspacing="1" bgcolor="#CCCCCC">
 <tbody><tr>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#FFFFFF" nowrap="">
 
 	<table nowrap="" id="c_flag">
 	<tbody><tr>
 	<td nowrap=""><font style="font-size: 11px; color:#0C75C8;">Translate this page:</font></td>
-	<td width="260px" height="35px"> 
+	<td width="270px" nowrap="" height="35px"> 
       	<div class="sp-flag_china"><a target="_blank" href="http://babelfish.altavista.com/babelfish/tr?doit=done&amp;url=http://www.cuti.com.my/link.htm?doit=privacy&amp;lp=en_zh" title="Translate to Chinese Simplified"><span>flag</span></a></div>
       	<div class="sp-flag_france"><a target="_blank" href="http://babelfish.altavista.com/babelfish/tr?doit=done&amp;url=http://www.cuti.com.my/link.htm?doit=privacy&amp;lp=en_fr" title="Translate to French"><span>flag</span></a></div>
       	<div class="sp-flag_german"><a target="_blank" href="http://babelfish.altavista.com/babelfish/tr?doit=done&amp;url=http://www.cuti.com.my/link.htm?doit=privacy&amp;lp=en_de" title="Translate to German"><span>flag</span></a></div>
@@ -375,20 +490,19 @@ function Mouse_out( n, m )
 <td valign="top">
 <table width="140px"><tbody><tr><td>
 <div style="position:absolute;overflow:hidden;float:left;">
-<div id="main_sendprint" style="display:block;border:1px;overflow:hidden;" onmouseover="try {var o=document.getElementById('send_print'); if( o.style.display=='none' ) o.style.display='block'; o.style.overflow='visible';}catch(e){};return false" onmouseout="try {var t=document.getElementById('send_print'); if( t.style.display=='block' ) t.style.display='none'; }catch(e){};return false">
+<div id="main_sendprint" style="display:block;overflow:hidden;" onmouseover="try {var o=document.getElementById('send_print'); if( o.style.display=='none' ) o.style.display='block'; o.style.overflow='visible';}catch(e){};return false" onmouseout="try {var t=document.getElementById('send_print'); if( t.style.display=='block' ) t.style.display='none'; }catch(e){};return false">
 <img src="http://www.cuti.com.my/inc/Images/lg-share-en.gif" border="0" style="cursor:pointer;">
-<table width="95px" id="send_print" style="display:none;" border="0" cellspacing="0" cellpadding="1">
+<table width="108px" id="send_print" style="display:none;" border="0" cellspacing="2px" cellpadding="2px" bgcolor="#CCCCCC">
 <tbody><tr>
-<td bgcolor="#CCCCCC">
-    <table width="100%" border="0" cellspacing="0" cellpadding="3">
+<td>
+    <table width="100%" border="0" cellspacing="1px" cellpadding="3px">
       <tbody><tr>
-
         <td bgcolor="#F4F4F4"><span class="sharetitle">Bookmark &amp; Share</span></td>
       </tr>
     </tbody></table>
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+        <td bgcolor="#FFFFFF"><table width="100%" border="0" class="shlink">
           <tbody><tr>
             <td width="50%"><a href="http://digg.com/submit?phase=2&amp;url=http://www.cuti.com.my/link.htm?doit=privacy" title="Add this page to your digg account"><img src="/images/ico_digg.gif" border="0" title="Add this page to your digg account"></a></td><td>
 			<a class="sharesubtitle" href="http://digg.com/submit?phase=2&amp;url=http://www.cuti.com.my/link.htm?doit=privacy" title="Add this page to your digg account">Digg</a></td>
@@ -419,12 +533,16 @@ function Mouse_out( n, m )
 			<a class="sharesubtitle" href="http://www.cuti.com.my/sendpage.htm?page=%2Flink.htm%3Fdoit%3Dprivacy" title="Send this page to friends">Email</a></td>
           </tr>
           <tr>
-            <td><span><a href="javascript:window.external.AddFavorite('http://www.cuti.com.my/link.htm?doit=privacy', 'Cuti-Cuti Malaysia')"><img title="Cuti-Cuti Malaysia Travel" src="http://www.cuti.com.my/images/ico_favour.gif" border="0"></a></span></td><td>
-			<a class="sharesubtitle" href="javascript:window.external.AddFavorite('http://www.cuti.com.my/link.htm?doit=privacy', 'Cuti-Cuti Malaysia')" title="Bookmark as Favorite">Favorite</a></td>
+            <td><span><a href="javascript:CreateBookmarkLink('http://www.cuti.com.my/link.htm?doit=privacy', 'Cuti-Cuti Malaysia')"><img title="Cuti-Cuti Malaysia Travel" src="http://www.cuti.com.my/images/ico_favour.gif" border="0"></a></span></td><td>
+			<a class="sharesubtitle" href="javascript:CreateBookmarkLink('http://www.cuti.com.my/link.htm?doit=privacy', 'Cuti-Cuti Malaysia')" title="Bookmark as Favorite">Favorite</a></td>
 	   </tr><tr>
             <td><span><a target="_top" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.cuti.com.my/link.htm?doit=privacy&amp;title=Cuti-Cuti Malaysia"><img title="Cuti-Cuti Malaysia Travel" src="http://www.cuti.com.my/images/ico_google.gif" border="0"></a></span></td><td>
 			<a class="sharesubtitle" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http://www.cuti.com.my/link.htm?doit=privacy&amp;title=Cuti-Cuti Malaysia" title="Add this page to your Google account">Google</a></td>
+          </tr><tr>
+	    <td><span><a target="_top" href="http://twitter.com/home?status=Currently surfing http://www.cuti.com.my/link.htm?doit=privacy"><img title="Cuti-Cuti Malaysia Travel" src="http://www.cuti.com.my/images/ico_twitter.gif" border="0"></a></span></td><td>
+			<a class="sharesubtitle" href="http://twitter.com/home?status=Currently surfing http://www.cuti.com.my/link.htm?doit=privacy" title="Add this page to your Twitter account">Twitter</a></td>
           </tr>
+	  
         </tbody></table></td>
       </tr>
     </tbody></table>
@@ -435,7 +553,7 @@ function Mouse_out( n, m )
 </div></td></tr>
 </tbody></table>
 </td>
-<td><a href="/exchange.php" title="Currency Setting"><div style="background:url(/images/icon_currents_nn.gif);width:84px;height:32px;cursor:pointer;float:right;background-repeat:no-repeat;"></div></a> </td>
+<td><a href="/exchange.php" title="Currency Setting"><div style="background:url(/images/icon_currents_nn.gif);width:84px;height:32px;cursor:pointer;float:right;background-repeat:no-repeat;"></div></a></td>
 </tr></tbody></table></div>
 </td></tr></tbody></table>
 </div>
@@ -556,7 +674,7 @@ send an email to <a href="mailto:support@cuti.com.my?subject=term_n_cond">suppor
 </tr>
 <tr bgcolor="#FFFFFF"> 
 <td class="contactinfo" width="400"><b>Office Hour (GMT + 8 hours) :</b><br>
-<b>Monday - Friday</b> (09:00am - 1:00pm ; 2:00pm - 6:00pm)<br><b>Saturday</b> (09:00am - 1:00pm)</td>
+<b>Monday - Friday</b> (09:00am - 1:00pm ; 2:00pm - 6:00pm)</td>
 <td class="contactinfo"> <b>Fax :</b> +603-3345 3997<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+603-9235 1147</td>
 </tr>
 </tbody></table>
@@ -568,7 +686,7 @@ send an email to <a href="mailto:support@cuti.com.my?subject=term_n_cond">suppor
 <table border="0" cellpadding="0" cellspacing="0" width="95%" align="center">
 <tbody><tr>
 <td width="1" bgcolor="#666666"></td>
-<td class="bottomlink">&nbsp; <a href="/Cuti-ads.pdf" class="bottomlink" title="malaysia hotel &amp; tour reservation">ADVERTISE WITH US</a>&nbsp; </td>
+<td class="bottomlink">&nbsp; <a href="/Cuti-ads-2011.pdf" class="bottomlink" title="malaysia hotel &amp; tour reservation">ADVERTISE WITH US</a>&nbsp; </td>
 <td width="1" bgcolor="#666666"></td>
 <!--<td class='bottomlink'>&nbsp; <a href=http://www.cuti.com.my/link.htm?doit=about class='bottomlink' title='malaysia hotel & tour reservation'>ABOUT US</a>&nbsp; </td>
 <td width=1 bgcolor=#666666></td>-->
@@ -624,6 +742,10 @@ send an email to <a href="mailto:support@cuti.com.my?subject=term_n_cond">suppor
 <td width="140" nowrap="" bgcolor="#EFEFEF" style="padding-left:6px; font-family:Arial; font-size:11px;">Security standard compliance:</td>
 <td><img src="/layout/pci_hackersafe_logo.gif" border="0" hspace="5"><img src="/images/vbv_ms.gif" border="0" hspace="5"></td>
 </tr>
+<tr>
+<td width="140" nowrap="" bgcolor="#EFEFEF" style="padding-left:6px; font-family:Arial; font-size:11px;">CDN by <a href="http://www.exabytes.com.my/cdn/" target="_blank">Exabytes</a></td>
+<td><a href="http://www.exabytes.com.my/cdn/" target="_blank"><img src="/layout/logo_cdn.gif" border="0" hspace="5"></a></td>
+</tr>
 </tbody></table>
 
 
@@ -638,7 +760,7 @@ send an email to <a href="mailto:support@cuti.com.my?subject=term_n_cond">suppor
 <table width="100%" cellpadding="4">
 <tbody><tr>
 <td class="copyright" nowrap="">
-<div align="left"><b>© 2000 - 2009 CUTI.COM.MY</b><br>
+<div align="left"><b>© 2000 - 2010 CUTI.COM.MY</b><br>
 All Rights Reserved.<br>
 NB Travel Sdn Bhd (KKKP No. 4171) &amp; Symphonic View Sdn Bhd<br> 
 All trademarks are the property of their respective owners.</div></td>
