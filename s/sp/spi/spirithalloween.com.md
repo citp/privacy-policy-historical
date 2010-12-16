@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619144723id_/http%3A//www.spirithalloween.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216124601id_/http%3A//www.spirithalloween.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-Shop by Brand   Shop by Theme  Only 255 days Until Halloween!
-
-## What This Privacy Policy Covers
+What This Privacy Policy Covers
 
   * This policy covers how Spirit Halloween Superstores LLC (“Spirit”) treats personal information that Spirit collects and receives, including information related to your past use of Spirit products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * This policy does not apply to the practices of companies that Spirit does not own or control, or to people that Spirit does not employ or manage. 
@@ -19,7 +17,7 @@ _General_
   * When you register for Spirit, we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spirit and sign in to our services, you are not anonymous to us. 
   * Spirit collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
   * Spirit uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-  * _Spirit_ _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold bySpirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see   _<http://www.buzzillions.com/public/legal/index_en_US.html)>_.  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _<http://www.buzzillions.com/>_  and our site._
+  * _Spirit_ _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold bySpirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see   _[http://www.buzzillions.com/public/legal/index_en_US.html)](http://www.buzzillions.com/public/legal/index_en_US.html%29 "http://www.buzzillions.com/public/legal/index_en_US.html\)")_.  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _<http://www.buzzillions.com/>_  and our site._
 
 
 
@@ -50,12 +48,3 @@ If you provide us with your postal address, you may receive mailings from us w
 ## Changes to this Privacy Policy
 
 Spirit may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email address. 
-
-[ ](https://web.archive.org/spirit-school-program-overview/)
-
-  
-
-
-  
-  
-
