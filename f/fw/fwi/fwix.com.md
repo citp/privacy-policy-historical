@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the fwix.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523142456id_/http%3A//fwix.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwix.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216024947id_/http%3A//fwix.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fwix
+
+Last Revised: August 7, 2010 
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Fwix, Inc. (“Fwix”, “we” or “us”) with respect to your use of the Web site located at www.fwix.com (the “Site”) and the services offered on or through the Site (the "Fwix Service") so you can make an informed decision about using the Site and the Fwix Service. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. 
 
 ### What is personal information?
 
-As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card or other account number); information about that individual's location or activities, such as information about his or her use of the Site, when directly linked to personally identifiable information; and demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information. 
+As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card or other account number); information about that individual's location or activities, such as information about his or her use of the Site, when directly linked to personally identifiable information; and demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users" needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information. 
 
 ### What personal information do we collect?
 
@@ -20,7 +22,7 @@ We may also use third parties to serve ads on the Site. These third parties may 
 
 If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site may not function properly. 
 
-###  How do we use the personal information we collect? 
+### How do we use the personal information we collect?
 
 In general, we use personal information we collect to provide the Fwix Service, to process your requests or transactions; to provide you with information, products or services you request; to inform you about other information, events, promotions, products or services we think will be of interest to you; to facilitate your use of, and our administration and operation of, the Site and the Fwix Service; and for the purpose for which the information was provided. For example, we may use the information we collect: 
 
@@ -35,7 +37,7 @@ In general, we use personal information we collect to provide the Fwix Service, 
 
 Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. 
 
-###  What personal information do we share with third parties? 
+### What personal information do we share with third parties?
 
 We will not share the personal information we collect from you through this Site with third parties except as described in this Policy, as it may be revised from time to time. We may share personal information with vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site or the services we provide and who need access to such information to carry out their work for us. In some cases, the Service Provider may be directly collecting the information from you on our behalf. We may also share personal information with other third parties when you give us your consent to do so. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. Nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent. 
 
@@ -45,18 +47,18 @@ You understand that when you use the Site and the Fwix Service, information you 
 
 Please note that the Fwix default privacy settings are set for how we believe most users want to use the Fwix Service and allows your activities and your location information to be displayed to other users. It also allows such information to be used by Fwix, including for personalizing and improving site content, features and advertising on the Site and analyzing and tracking user preferences. However, you can adjust these settings to restrict the sharing and use of your activity and/or location information if you wish by updating or removing actions from your profile. 
 
-###  What steps do we take to protect your personal information online? 
+### What steps do we take to protect your personal information online?
 
 We have endeavored to put into place and maintain reasonable security measures in an effort to protect the security of your personal information while it is under our control. For example, your account information is accessible online only through the use of a password. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused. 
 
-###  What choices do you have regarding the use of your information? 
+### What choices do you have regarding the use of your information? 
 
 You may "opt out" of the use and sharing of your activity and location information by either removing data from your profile or notifying us that you would like to deactivate your account at [privacy@fwix.com](mailto:privacy@fwix.com). 
 
-###  Links to other sites 
+### Links to other sites
 
 Our web site may contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
 
-###  How can you correct and update your personal information or obtain additional information? 
+### How can you correct and update your personal information or obtain additional information?
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [privacy@fwix.com](mailto:privacy@fwix.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address: Fwix Inc., 101 Jefferson Dr., Menlo Park, CA 94025. However, please note that is some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. 
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [privacy@fwix.com](mailto:privacy@fwix.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address: Fwix Inc., 901 Market Street, Suite 470, San Francisco, CA 94103. However, please note that is some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. 
