@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612093649id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216074009id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -85,7 +85,7 @@ Zazzle may also release information (including your name, addresses, telephone n
 
 
 
-Additionally, Zazzle releases certain information to report the sale of custom postage to the United States Postal Service ("USPS"). As part of our relationship with the USPS, we collect and may disclose information about purchasers of our Zazzle Stamps products to the USPS at the request of USPS. To learn more about the USPS's privacy policy, please visit the [Privacy Policy](http://www.usps.com/homearea/docs/privpol_long.htm). 
+Additionally, Zazzle releases certain information to report the sale of custom postage to the United States Postal Service ("USPS"). As part of our relationship with the USPS, we collect and may disclose information about purchasers of our Zazzle Stamps products to the USPS at the request of USPS. To learn more about the USPS's privacy policy, please visit the [Privacy Policy](http://www.usps.com/privacyoffice/privacypolicy.htm). 
 
 In the event that Zazzle is acquired by, or merged with, another company Zazzle reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger. 
 
