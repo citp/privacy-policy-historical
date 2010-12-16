@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616212826id_/http%3A//www.uktrainsim.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216110811id_/http%3A//www.uktrainsim.com/privacy.php) for the most accurate reproduction.*
 
 # UKTrainSim
 
 **Options** _(see also the menu on the left)_  
 ---  
   
-[](http://www.fspilotshop.com/product_info.php?products_id=2425&ref=239)
+[](http://www.railsimulator.com/)
 
 Hereafter, the following definitions will be used to simplify the following document
 
