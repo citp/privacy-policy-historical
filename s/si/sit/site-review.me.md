@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site-review.me privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618000340id_/http%3A//www.site-review.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-review.me privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216075319id_/http%3A//www.site-review.me/privacy) for the most accurate reproduction.*
 
 # Online Advertising Terms & Make Money FAQ’s
 
