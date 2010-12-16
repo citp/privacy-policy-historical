@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912153828id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216102047id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
 
-# Gardening articledisplay
+# Privacy Policy
 
   
   
   
 |  |   
-  
-|   
----  
   
 The following is for guidance only and does not affect the [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46). 
 
@@ -74,14 +71,28 @@ Please read on for more details about our privacy policy.
 
 > For further information regarding all aspects of Greenfingers.com's contracts with customers please see our full [Terms and Conditions](http://www.greenfingers.com/bottommenu.asp?subcategoryid=46).
 
-**Other Privacy Policy Articles**  
+[](http://www.addthis.com/bookmark.php?v=250&username=Greenfingers)
+
+| **Other Terms And conditions Articles**  
 ---  
-   [Privacy Policy](https://web.archive.org/articledisplay.asp?id=1287) |      |   
+   [Our Guarantee](https://web.archive.org/articledisplay.asp?id=1649) |      |     [Privacy Policy](https://web.archive.org/articledisplay.asp?id=1287)  
+   [Returns And Refunds](https://web.archive.org/articledisplay.asp?id=1257) |      |     [Secure Payment](https://web.archive.org/articledisplay.asp?id=1256)  
+   [Store Security](https://web.archive.org/articledisplay.asp?id=1253) |      |     [Terms and Conditions](https://web.archive.org/articledisplay.asp?id=1255)  
   
 |    
   
+|   
+---  
+| To be notified of exclusive offers  
+ **Follow Us On:** | [](http://www.facebook.com/greenfingerscom) |  | [](http://twitter.com/greenfingerscom) |   
   
-|  Phone Calls Welcome!  
+  
+
+
+[](https://web.archive.org/superstore/default.asp)
+
+  
+Phone Calls Welcome!  
 ---  
 |   
 ---  
