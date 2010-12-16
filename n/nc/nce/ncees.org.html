@@ -1,14 +1,50 @@
-<!--The following is the downloaded HTML source of the ncees.org privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605010333id_/http%3A//www.ncees.org/Supplemental_Pages/Privacy_statement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncees.org privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216103051id_/https%3A//ncees.org/Supplemental_Pages/Privacy_statement.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>NCEES: Privacy statement</title><base href="http://www.ncees.org/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<title>NCEES: Privacy statement</title><base href="https://ncees.org/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="description" content="Privacy statement for ncees.org">
-<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 <link rel="stylesheet" type="text/css" href="prebuilt/stylesheets/screen.css">
-<script language="javascript" type="text/javascript" src="prebuilt/scripts/jquery-1.2.5.min.js"></script>
+<script language="javascript" type="text/javascript" src="prebuilt/scripts/jquery.min.js"></script>
 <script language="javascript" type="text/javascript" src="prebuilt/scripts/global.js"></script>
+<link rel="stylesheet" href="prebuilt/stylesheets/anythingslider.css" type="text/css" media="screen">
+<script type="text/javascript" src="prebuilt/scripts/jquery.easing.1.2.js"></script>
+<script type="text/javascript" src="prebuilt/scripts/swfobject.js"></script>
+<script type="text/javascript" src="prebuilt/scripts/jquery.anythingslider.js" charset="utf-8"></script>
+<script type="text/javascript">
+				$(document).ready(function () {
+					$('#slider1').anythingSlider({
+						startStopped    : false, // If autoPlay is on, this can force it to start stopped
+						width           : 525,  // Override the default CSS width
+						height			: 319,
+						toggleControls  : false, // if true, then slide in controls on hover and slider change, hide @ other times
+						theme           : 'minimalist-square',
+						delay           : 6000,
+						buildArrows     : false,
+						themeDirectory  : "prebuilt/stylesheets/theme-{themeName}.css",
+						startPanel      : 0,
+						hashTags        : false
+					});
+					
+					$('#slider1').show();
+					$('.anythingSlider').bind('slideshow_start slideshow_stop slideshow_paused slideshow_unpaused slide_init slide_begin slide_complete',function(e, slider){
+						// show object ID + event (e.g. "slider1: slide_begin")
+						var txt = slider.$el[0].id + ': ' + e.type + ', now on panel #' + slider.currentPage;
+						$('#status').text(txt);
+						if (window.console)
+						{
+							if (window.console.firebug)
+							{ 
+								//console.debug(txt); 
+							} // added window.console.firebug to make this work in Opera
+						}
+					});
+					//$('#slider1').anythingSlider(1);
+
+				});
+			</script>
 <link rel="stylesheet" href="prebuilt/scripts/fancybox/jquery.fancybox.css" type="text/css" media="screen">
 <script type="text/javascript" src="prebuilt/scripts/fancybox/jquery.fancybox-1.2.1.pack.js"></script>
 <script>$(document).ready(function(){
@@ -19,7 +55,14 @@
 					</script>
 <!--[if lt IE 7]>
 					<link rel="stylesheet" type="text/css" href="prebuilt/stylesheets/screen-ie6.css" />
-					
+					<![endif]-->
+<!--[if lt IE 8]>
+					<style type="text/css">
+						.prop
+						{
+							display: none;
+						}
+					</style>
 					<![endif]-->
 </head>
 <body class="sectionFront emptyRightSidebar">
@@ -42,18 +85,18 @@
 <div id="utilityHeader">
 <ul class="nav"><li><a href="">Home</a></li>
 <li><a href="About_NCEES/Supporting_Pages/A-Z_Index.php">A-Z Index</a></li>
-<li><a href="Supplemental_Pages/Contact_Us.php">Contact Us</a></li>
+<li><a href="Supplemental_Pages/Contact_us.php">Contact us</a></li>
 </ul>
 <ul class="secondaryNav">
 <li class="myNcees">
-<a href="https://www.ncees.org/My_NCEES/MY_NCEES_Login.php">My NCEES</a>
+<a href="http://ncees.org/My_NCEES/Landing_Page.php">My NCEES</a>
 </li>
 <li class="quickLinks">
 <a href="#">Quick Links</a>
 <ul style="display: none;"><li><a href="Licensing_boards.php">Find a licensing board</a></li>
-<li><a href="https://www.ncees.org/My_NCEES/MY_NCEES_Login.php">Log in to My NCEES</a></li>
-<li><a href="Exams/Exam_registration/Special_accommodations.php">Special accommodations</a></li>
-<li><a href="Exams/Study_materials.php">Buy study materials</a></li>
+<li><a href="http://ncees.org/My_NCEES/Landing_Page.php">Log in to My NCEES</a></li>
+<li><a href="">Special accommodations</a></li>
+<li><a href="https://ncees.org/Exams/Study_Materials.php">Buy study materials</a></li>
 <li><a href="Records.php">Access my record</a></li>
 <li><a href="Continuing_education.php">Find continuing education</a></li>
 </ul>
@@ -117,9 +160,10 @@ We may update, change or modify this privacy policy at any time and without noti
 <div class="nav">
 <ul>
 <li><a href="">Home</a>|</li>
-<li><a href="Supplemental_Pages/Contact_Us.php">Contact Us</a>|</li>
+<li><a href="Supplemental_Pages/Contact_us.php">Contact us</a>|</li>
 <li><a href="Supplemental_Pages/Privacy_statement.php">Privacy statement</a>|</li>
-<li><a href="Supplemental_Pages/Terms_of_use.php">Terms of use</a></li>
+<li><a href="Supplemental_Pages/Terms_of_use.php">Terms of use</a>|</li>
+<li><a href="http://twitter.com/ncees">Follow us on Twitter</a></li>
 </ul>
 </div>
 <div class="contact"><p>National Council of Examiners for Engineering and Surveying ®<br>280 Seneca Creek Road | Seneca, SC 29678 | <span class="six">800-250-3196</span> | <span class="six">864-654-6824</span></p></div>
@@ -135,4 +179,23 @@ We may update, change or modify this privacy policy at any time and without noti
 			pageTracker._setDomainName(".ncees.org");
 			pageTracker._trackPageview();
 			} catch(err) {}</script>
-</body></html>
+<script type="text/javascript">
+			var _sf_async_config={uid:9329,domain:"ncees.org"};
+			(function(){
+			  function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src',
+				   (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+				   "static.chartbeat.com/js/chartbeat.js");
+				document.body.appendChild(e);
+			  }
+			  var oldonload = window.onload;
+			  window.onload = (typeof window.onload != 'function') ?
+				 loadChartbeat : function() { oldonload(); loadChartbeat(); };
+			})();
+
+			</script>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
