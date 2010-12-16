@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryjacks.com.au privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331185407id_/http%3A//www.hungryjacks.com.au/documents/PrivacyAct.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryjacks.com.au privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216022237id_/http%3A//hungryjacks.com.au/documents/PrivacyAct.pdf) for the most accurate reproduction.*
 
 # HUNGRY JACK’S PRIVACY COMPLIANCE PLAN NATIONAL PRIVACY ACT
 
