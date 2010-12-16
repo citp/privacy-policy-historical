@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewebshowroom.com.au privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622031540id_/http%3A//www.thewebshowroom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebshowroom.com.au privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216051005id_/http%3A//www.thewebshowroom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - The Web Showroom
 
@@ -26,7 +26,7 @@ If you choose to provide your personal information to us, it may be used in orde
 
 We may disclose your personal information to other organisations (for example our service providers) to enable us to provide the services you have requested, or as otherwise permitted by law.
 
-##  **Contacting us via email and our web-forms**
+## **Contacting us via email and our web-forms**
 
 When you contact The Web Showroom via email:
 
@@ -34,10 +34,10 @@ When you contact The Web Showroom via email:
 
 
 
-##  **Our use of cookies**
+## **Our use of cookies**
 
 When you visit our website, our server attaches a small data file called a "cookie" to your computer's memory.Cookies are pieces of information that may be transferred to your computer's memory when you visit a website for record keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your Web browser to refuse cookies. We use cookies to provide us with aggregate (anonymous) information on how people use our website and to help us to know what they find interesting and useful on our website. We do not link this information back to your identity or other information that you have provided to us. We do not store any information that identifies you inside cookies.
 
-##  **Links to other sites**
+## **Links to other sites**
 
 This website may contain links or references to other websites. Our Website Privacy Statement does not extend beyond The Web Showroom website. When visiting other sites via a link on our website, you should familiarise yourself with the linked website's privacy statement.
