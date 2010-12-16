@@ -1,36 +1,13 @@
-> *The following text is extracted and transformed from the hellonetwork.com privacy policy that was archived on 1999-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellonetwork.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216191251id_/http%3A//www.hellometro.com/Privacy.cfm) for the most accurate reproduction.*
 
-# Hello Network Inc.
+# HelloMetro Privacy Policy
 
-| . | [](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/demo/paul)[](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/demo.asp)[](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/voddemo.html)[](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/compare.html) | . | 
+### HelloMetro Privacy Policy
 
-Hello Network is committed to maintaining a privacy policy that benefits each individual customer's preferences.
+HelloMetro.com and all of our city sites (i.e. HelloSeattle.com, HelloChicago.com)will treat our visitors with the up most care and respect. We do not collect e-mails for advertising, we do not buy emails or send SPAM. Any time you purchase a product or service on our sites a high level of encryption is used to prevent any type of fraud or theft. If services or products purchased through links to an outside company please refer to their policies. We will only use the most reputable vendors. No one from HelloMetro.com or our partners will ask for credit card or financial information through e-mails. Everything on our sites will be suitable for the entire family. Sometimes we will links to places of interest in a particular city. We periodically review these sites to make sure the content is appropriate for all ages. Once in a while links to sites may lead to unsuitable content if that website has change their content. If you observe this please send us an email with the city site and link so we can remove it immediately. 
 
-**Email Addresses**
+Cookies: HelloMetro.com and our city sites may use cookies. Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. For more information about cookies please visit http://www.allaboutcookies.org/cookies/ Third Party Cookies: We use third party third party advertising companies to serve ads when you visit this HelloMetro.com and our city sites. These companies may use information about your visits to HelloMetro.com and our city sites (not including your name, address, or other Personal Information) to provide advertisements on HelloMetro.com and our city sites, other websites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. We do not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click either of the following links. [NAI OPT-OUT](http://www.networkadvertising.org/consumer/opt_out.asp) or [DoubleClick OPT-OUT](http://www.google.com/privacy_ads.html)
 
-  * We do not collect our customers' email addresses (or any other personally identifying information) except when you specifically and knowingly give us that information. We do maintain a list of the email addresses our customers provide so we can send out promotional messages about our services or special events.
-  * If you wish to have your name removed from our email address list simply email us at [remove@hellonetwork.com](mailto:remove@hellonetwork.com), or write to us at 3035 E. Patrick Lane, Suite 2, Las Vegas, NV, 89120.
-  * We **DO NOT** make our email address list available to third parties.
+**Text Messaging Policy:** By entering your phone number and sending a Hello Metro listing to your mobile phone via SMS you agree to incur the standard rate charge from you carrier. You also agree to allow Hello Metro send you up to 3 promotional messages per year. To opt-out, text stop to 26469.
 
-
-
-**Collection of Information**
-
-  * We also collect data on our customers' purchases. This information helps us to evaluate customer reaction to content, services, or merchandise offered online. We **DO NOT** disclose any of this information to third parties.
-
-
-
-**Credit Card Transactions**
-
-  * When you make a purchase using your credit card, the transactional information, including your credit card number, is stored on our server for archival purposes only. That information is encoded within industrial-strength 64-bit encryption. We also offer Secure Sockets Layer (SSL) encryption on new tourist accounts.
-
-
-
-We are continually working to enhance your online experience and welcome your suggestions at [support@hellonetwork.com](mailto:support@hellonetwork.com) or 3035 E. Patrick Lane, Suite 2, Las Vegas, NV, 89120.
-
-* * *
-
-© 1999 Hello Network, Inc. All rights reserved.  
-[Terms of Use](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/terms.html) [Privacy Policy](https://web.archive.org/web/19990501020814id_/http%3A//www.hellonetwork.com/privacy.html)  
-  
----|---|---|---
+**[Press and recent news about HelloMetro.com](https://web.archive.org/web/20101216191251id_/http%3A//www.hellometro.com/News.cfm)**
