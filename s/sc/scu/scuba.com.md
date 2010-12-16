@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826030716id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216034809id_/http%3A//www.scuba.com/resources/security_and_privacy.asp) for the most accurate reproduction.*
 
 # scuba.com Security and Privacy
 
@@ -32,8 +32,17 @@ No credit card information or personal information is stored in cookies.
 **Q: Can customers modify their personal information given?**  
 **A:** Our customers can make changes to their personal information given on each order.
 
+**Q: How will my email be used?  
+****A:** Customers subscribing to our free newsletter will receive product specials only available to our email subscribers. They will also receive emails to write reviews for the products they have purchased and win prizes.
+
 **Q: How do users opt out of receiving any marketing material?  
-** **A:** Customers who wish not to recieve any marketing materials need to go to our [Email List Removal Page](https://web.archive.org/EmailListRemoval.asp) and enter the email address to be removed. Information is never shared or sold to any other party.
+A: **Customers who wish not to recieve any marketing materials need can change their preference by logging into [My Account](https://web.archive.org/shop/customerlogin.asp) at any time or to going to our [Email List Removal Page](https://web.archive.org/EmailListRemoval.asp). Customers can also remove themselves in a single click by clicking on the unsubscribe link on the newsletter sent by us. Customers can also remove themselves by sending a mail with their email address and stating they would like be removed from our mailing list to Scuba.com, 1752 Langley Ave, Irvine 92614.
+
+**Q: Is personal information shared with third parties?**  
+**A:** Information is never shared or sold to any other party.
+
+**Q: Can customers modify their personal information given?**  
+**A:** Our customers can make changes to their personal information given on each order by logging in to their account.
 
 **Q: What is your policy regarding credit card fraud (Safe Shopping Guarantee)?**  
 **A:** Scuba.com asks for information only the card holder should know, at the time of purchase. Scuba.com then checks certain parts of this information to verify information is correct.
