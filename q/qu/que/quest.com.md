@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618124553id_/http%3A//www.quest.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216205735id_/http%3A//www.quest.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
