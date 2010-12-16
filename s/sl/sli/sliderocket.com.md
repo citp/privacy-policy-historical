@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sliderocket.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415045124id_/http%3A//www.sliderocket.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sliderocket.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216175136id_/http%3A//www.sliderocket.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # SlideRocket Privacy Policy
 
-Thank you for visiting SlideRocket's ("SlideRocket") Internet web site located at the URL [www.sliderocket.com](https://web.archive.org/) ("Site"). This Privacy Policy details certain policies implemented throughout SlideRocket governing SlideRocket's use of personally identifiable information about users of our Site and users of our services and/or software that is available for download on this Site.
+Thank you for visiting SlideRocket's ("SlideRocket") Internet web site located at the URL [www.sliderocket.com](https://web.archive.org/) ("Site"). This Privacy Policy details certain policies implemented throughout SlideRocket governing SlideRocket's use of personally identifiable information about users of our Site and users of our services and/or software that is available for download on this Site.
 
 ## Privacy Policy Updates.
 
-Due to the Internet's rapidly evolving nature, SlideRocket may need to update this Privacy Policy from time to time. If so, SlideRocket will post our updated Privacy Policy on our Site located at [http://www.sliderocket.com/legal/privacy_policy.html](https://web.archive.org/legal/privacy_policy.html) so you are always aware of what personally identifiable information we may collect and how we may use this information. SlideRocket will also send registered users of the Site e-mail notifications notifying such users of any changes to the Privacy Policy. SlideRocket encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+Due to the Internet's rapidly evolving nature, SlideRocket may need to update this Privacy Policy from time to time. If so, SlideRocket will post our updated Privacy Policy on our Site located at [http://www.sliderocket.com/legal/privacy_policy.html](https://web.archive.org/legal/privacy_policy.html) so you are always aware of what personally identifiable information we may collect and how we may use this information. SlideRocket will also send registered users of the Site e-mail notifications notifying such users of any changes to the Privacy Policy. SlideRocket encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
 ## Information Collection and Use.
 
@@ -16,11 +16,11 @@ We may use your personally identifiable information to register you to use our s
 
 ## Shared Distribution List.
 
-Through your user account, you can create a shared distribution list and designate the e-mail addresses of other users with whom you wish to provide access to your presentations and other information that you post on the Site. The presentations and other information that you post on the Site will not be shared with third parties except for those individuals that you designate as part of your shared distribution list. 
+Through your user account, you can create a shared distribution list and designate the e-mail addresses of other users with whom you wish to provide access to your presentations and other information that you post on the Site. Additionally, if you are a Member, your Presentations will be available for any third party to view at a publicly available URL unless you elect to become a Subscriber and thereafter choose not to make your Presentations public.  If you are a Subscriber and have elected to make your Presentations public you acknowledge that third parties may view and have access to your Presentations, and that SlideRocket has no control over third parties' use of your Presentations. Published presentations may be indexed by search engines.  Except as set forth in the preceding sentences , the presentations and other information that you post on the Site will not be shared with third parties except for those individuals that you designate as part of your shared distribution list.
 
 ## Children's Privacy.
 
-SlideRocket recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. SlideRocket does not target its services or this Site to children under 13. SlideRocket does not knowingly collect personally identifiable information from children under the age of 13. 
+SlideRocket recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. SlideRocket does not target its services or this Site to children under 13. SlideRocket does not knowingly collect personally identifiable information from children under the age of 13.
 
 ## Cookies.
 
@@ -46,9 +46,9 @@ We may employ procedural and technological measures, consistent with industry pr
 
 SlideRocket provides you with the ability to review and update the registration information that you provide to us by accessing and modifying this information on your user profile page.
 
-If you have any questions regarding this Privacy Policy please contact us via email at [privacy@sliderocket.com](mailto:privacy@sliderocket.com).
+If you have any questions regarding this Privacy Policy please contact us via email at [privacy@sliderocket.com](mailto:privacy@sliderocket.com).
 
 Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
-This Privacy Policy was last updated: September 6, 2007   
+This Privacy Policy was last updated: July 28, 2010  
 This Privacy Policy is effective as of: September 6, 2007
