@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617012325id_/http%3A//www.statesman.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216162657id_/http%3A//www.statesman.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Statesman.com respects the privacy of visitors to our site. This Privacy Policy 
 
 Tim Lott 
 
-General Manager 
+Vice President of Audience Strategy 
 
 Statesman.com 
 
@@ -18,9 +18,9 @@ Statesman.com
 
 Austin, Texas 78704 
 
-Phone: (512) 912-2510 
+Phone: (512) 445-3550 
 
-Fax: (512) 912-2926 
+Fax: (512) 445-3557 
 
 e-mail: tlott@statesman.com 
 
