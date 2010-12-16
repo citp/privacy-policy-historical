@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantxchange.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503110741id_/http%3A//www.instantxchange.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantxchange.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217005632id_/http%3A//www.instantxchange.com/privacy_policy.php) for the most accurate reproduction.*
 
 # InstantXchange | Privacy Policy information.
 
