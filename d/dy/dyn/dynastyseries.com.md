@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510015805id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217000418id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DynastySeries.com - Your Favorite Models, Video Vixens, Eyecandy... Video, Pix, Interviews, Magazines, Scans, and more!!!
+# Privacy Policy | DynastySeries ™ - dynastyseries.com - @dynastyseries - Home of Your Favorite Video Vixens
 
 This is the web site of JKF Media. We can be reached via e-mail at jfoster@jkfmedia.com.
 
