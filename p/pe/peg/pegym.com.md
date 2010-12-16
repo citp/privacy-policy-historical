@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105251id_/http%3A//www.pegym.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216221730id_/http%3A//www.pegym.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.pegym.com/legal/privacy-policy)
+##  [ Privacy Policy](http://pegym.com/legal/privacy-policy)
 
 ## Our Privacy Policy in a Nutshell
 
