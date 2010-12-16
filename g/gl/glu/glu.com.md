@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525015908id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216050941id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Glu Games
 
