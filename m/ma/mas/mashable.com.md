@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashable.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626154348id_/http%3A//mashable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashable.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216085830id_/http%3A//mashable.com/privacy-policy) for the most accurate reproduction.*
 
 # Mashable, Inc. Privacy Policy
 
