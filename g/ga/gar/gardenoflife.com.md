@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103124540id_/http%3A//www.gardenoflife.com/Home/tabid/545/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216064223id_/http%3A//gardenoflife.com/Home/tabid/1974/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Garden of Life®; empowering people with extraordinary health
+# GardenOfLife.com - Empowering Extraordinary Health > Home
 
 GardenOfLife.com - Empowering Extraordinary Health is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the GardenOfLife.com - Empowering Extraordinary Health Web site and governs data collection and usage. By using the GardenOfLife.com - Empowering Extraordinary Health website, you consent to the data practices described in this statement.
 
