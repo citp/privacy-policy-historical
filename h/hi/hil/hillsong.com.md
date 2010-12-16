@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hillsong.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330184125id_/http%3A//myhillsong.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsong.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216051858id_/http%3A//myhillsong.com/policies) for the most accurate reproduction.*
 
-# Policies | Hillsong Sydney
+# Policies | Hillsong Australia
 
 **Hillsong Church Ltd** ABN 37 002 745 879 ( **the Church** ) and our related entities appreciate that privacy is very important. The Church has adopted this Privacy Policy as we recognise the right of people to keep their personal information private. This Privacy Policy covers the Church's treatment of personally identifiable information that we collect or hold. Like many other organisations, the Church must comply with the National Privacy Principles contained in the Australian Privacy Act when dealing with personal information.
 
@@ -37,8 +37,8 @@ The Internet is not a secure method of transmitting information. Accordingly, th
 
 ### 5\. Changes to this Privacy Policy
 
-The Church may amend this Privacy Policy from time to time by having the amended version available at the information counters at the Church or on our website at [www.hillsong.com](http://www.hillsong.com/policies/bin/blue). We suggest that you visit our website regularly to keep up to date with any changes.
+The Church may amend this Privacy Policy from time to time by having the amended version available at the information counters at the Church or on our website at [www.hillsong.com](http://www.hillsong.com/). We suggest that you visit our website regularly to keep up to date with any changes.
 
 ### 6\. Contacting us
 
-If you would like any further information, or have any queries, problems or complaints relating to the Church's Privacy Policy or our information handling practices in general, please contact our Privacy Officer by filling out the form on the [enquiries page](http://www.hillsong.com/policies/bin/view.pl?sitename=policies&page=enquiries), calling +61 2 8853 5353 or writing to The Privacy Officer, Hillsong Church, PO Box 1195, CASTLE HILL NSW 1765, AUSTRALIA.
+If you would like any further information, or have any queries, problems or complaints relating to the Church's Privacy Policy or our information handling practices in general, please contact our Privacy Officer by filling out the form on the [enquiries page](http://myhillsong.com/contact-us), calling +61 2 8853 5353 or writing to The Privacy Officer, Hillsong Church, PO Box 1195, CASTLE HILL NSW 1765, AUSTRALIA.
