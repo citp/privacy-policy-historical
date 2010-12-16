@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305023817id_/http%3A//jackpot.firstlookdev.com/node/360) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216085335id_/http%3A//jackpot.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Jackpot
+# Online Casino Games and Bingo Reviews from Jackpot.com. Get Into The Actions Now!
 
-Please read this privacy policy carefully since by visiting this site and sharing information with jackpot.com (â€œSiteâ€) you agree to be bound by the terms and conditions of this Privacy Policy. To the extent there is a conflict between the terms of this Privacy Policy and a written agreement to which we are a party, the terms of such agreement shall prevail with respect to the parties to that agreement. STATEMENT OF RESPONSIBLE ONLINE MARKETING. 
+## Privacy Policy
+
+Please read this privacy policy carefully since by visiting this site and sharing information with jackpot.com you agree to be bound by the terms and conditions of this Privacy Policy. To the extent there is a conflict between the terms of this Privacy Policy and a written agreement to which we are a party, the terms of such agreement shall prevail with respect to the parties to that agreement. STATEMENT OF RESPONSIBLE ONLINE MARKETING. 
 
 Our information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly.
 
@@ -30,7 +32,7 @@ Connexus employs industry standard security measures to ensure the security of a
 
 ##### V. CONSENT AND CHANGES
 
-Connexus may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Connexus prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out. 
+Connexus may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Connexus prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out.
 
 ##### VI. CHILDREN'S PRIVACY AND SPAM
 
