@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecut.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617063456id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecut.com privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216214836id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -27,15 +27,25 @@
 <link type="text/css" rel="stylesheet" href="http://cache.nymag.com/css/print/print.css" media="print">
 
 
-<script type="text/javascript" charset="utf-8">
-	var date = 'June 17, 2010 02:34:51';
+<script type="text/javascript">
+	var date = 'December 16, 2010 16:48:36';
 	var currDate=new Date(date);
+	if(document.location.search.match("firebug-lite"))
+		document.write("<scr"+"ipt src='https://getfirebug.com/firebug-lite.js'></scr"+"ipt>");
 </script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">
+    if (typeof jQuery === 'undefined') document.write("<scr"+"ipt src='/scripts/jquery-1.4.2.min.js'></scr"+"ipt>");
+</script><script src="/scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://cache.nymag.com/scripts/jquery-ui-1.8.2.custom.min.js"></script>
+
 <script type="text/javascript" src="http://cache.nymag.com/scripts/ad_manager.js"></script>
 <script type="text/javascript" src="http://cache.nymag.com/js/2/global.js"></script>
 <script type="text/javascript" src="http://cache.nymag.com/scripts/loginRegister.js"></script>
 <script type="text/javascript" src="http://cache.nymag.com/js/2/scripts.js"></script>
+
 <script type="text/javascript" src="http://cache.nymag.com/js/2/clickability.js"></script>
+
 
 
 </head>
@@ -60,8 +70,8 @@
 					</li>
 								
 				</ul><!-- /end .global -->
-				<p class="wx"><a title="Click for the five-day forecast" href="http://nymag.com/weather/">Overcast 68°
-<!-- weather update: Thu Jun 17 02:30:04 EDT 2010 -->
+				<p class="wx"><a title="Click for the five-day forecast" href="http://nymag.com/weather/">Clear 29°
+<!-- weather update: Thu Dec 16 16:45:05 EST 2010 -->
  »&nbsp;5-day</a></p>
 			
 			</div><!-- /end .main -->
@@ -94,14 +104,14 @@
                 </ul>
        		</dd>             
 
-        </dl><!-- /end .membership -->
+        </dl><div id="popup-lightbox"></div><!-- /end .membership -->
 		<script type="text/javascript">
-			$nymag_j("#logged_out_bar").after("<div id='popup-lightbox'></div>");
+			$("#logged_out_bar").after("<div id='popup-lightbox'></div>");
 			updateLoginMessage();
 			initPopup();
-			$nymag_j("#logged_out_bar a.register-lightbox").click(function(){ return loadRegister("#popup-lightbox"); return false; });
-			$nymag_j("#logged_out_bar a.login-lightbox").click(function(){ return loadLogin("#popup-lightbox"); return false; });
-			$nymag_j("#logged_in_bar .logout a").click(function(){ logoutAll(); return false; });
+			$("#logged_out_bar a.register-lightbox").click(function(){ return loadRegister("#popup-lightbox"); return false; });
+			$("#logged_out_bar a.login-lightbox").click(function(){ return loadLogin("#popup-lightbox"); return false; });
+			$("#logged_in_bar .logout a").click(function(){ logoutAll(); return false; });
 		</script>
 
 		</div><!-- /end #utilities -->
@@ -113,7 +123,7 @@
 		if(window.nymag.dcads.splash && typeof layouts[window.nymag.dcads.sect] != "undefined"){
 			if(layouts[window.nymag.dcads.sect].top.on){
 				window.nymag.dcads.write_dc_ad(layouts[window.nymag.dcads.sect].top.adParams);
-				$nymag_j(layouts[window.nymag.dcads.sect].top.hide_elements).hide();
+				$(layouts[window.nymag.dcads.sect].top.hide_elements).hide();
 			}
 		} else{
 			window.nymag.dcads.write_dc_ad({"sz":"260x60", "printWrap":false});
@@ -170,12 +180,15 @@
 
 	<div id="nav-secondary">
 
-	
-		<ul class="subscribe">
-			<li><a href="http://nymag.com/redirects/circ_subscribe/" target="_blank"><b>Subscribe Today</b></a></li>
-			<li class="last"><a href="http://nymag.com/redirects/circ_gifts/">Give a Gift</a></li>
-		</ul><!-- /end .subscribe -->
-	
+		
+			
+
+				<ul class="subscribe">
+					<li><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=03921&amp;i4Ky=IBJS" target="_blank"><b>Subscribe Today</b></a></li>
+					<li class="last"><a href="http://nymag.com/redirects/circ_gifts/">Give a Gift</a></li>
+				</ul><!-- /end .subscribe -->
+			
+		
 
 
 		<ul class="nav">
@@ -194,16 +207,12 @@
 						
 					</div>
 				</li>
-				<li class="top"><a id="nav-kids" class="top" href="/family/kids/">Kids<i></i></a>
-					<div id="sub_nav_kids">
-						
-					</div>					
-				</li>
 				<li class="top"><a id="nav-beauty" class="top" href="/beauty/">Beauty<i></i></a>
 					<div id="sub_nav_beauty">
 						
 					</div>
 				</li>
+				<li><a id="nav-design" class="no-subnav" href="http://nymag.com/homedesign/">Design<i></i></a></li>
 				<li><a id="nav-weddings" class="no-subnav" href="/weddings/">Weddings<i></i></a></li>												
 				<li><a id="nav-bestdocs" class="no-subnav" href="/bestdoctors/">Best Doctors<i></i></a>	</li>															
 				<li><a id="nav-classifieds" class="no-subnav" href="/marketplace/">Classifieds<i></i></a></li>
@@ -216,9 +225,10 @@
 	</div><!-- /end .secondary -->
 </div><!-- /end #nav -->
 
-<script type="text/javascript" charset="utf-8">
+<script type="text/javascript">
 	window.nymag.nav.set();
-</script> 
+</script>
+ 
 	</div>	<!-- /end #navigation -->
 	
 <div id="global-info">
@@ -228,7 +238,7 @@
 			<fieldset class="txt" id="ny-search-fieldset">
             <input type="hidden" name="search_type" value="sw">
             <input type="hidden" name="N" value="0">
-				<p><input type="text" name="textquery" class="text" id="txt-ny-search" value=""> 
+				<p><input type="text" name="textquery" class="text" id="txt-ny-search" value="Search"> 
 				<input type="image" class="image" src="http://images.nymag.com/gfx/nav/btn-go.gif" id="btn-ny-search" value="Go"></p>
 			</fieldset><!-- /end .txt -->
 			<fieldset class="scope" id="search-scope">
@@ -250,7 +260,7 @@
 				</ul>
 			</fieldset><!-- /end .scope -->
 		</form>
-		<script type="text/javascript" charset="utf-8">
+		<script type="text/javascript">
 			window.nymag.search.set();
 		</script>
  
@@ -362,7 +372,7 @@ This site uses clear GIFs [Graphics Interchange Formats] (also known as pixel ta
 	  
 <p><b>Use and Collection of Information by Advertisers and Sponsors  </b> 
       </p><p>
-     We use a third-party advertising company to serve ads when you visit our site. This advertising company may collect and use information (not including your name, address, e-mail address or telephone number) about your visits to our site and other websites not owned and operated by NYMag.com, and may also combine this information with other data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we may share non-personal website usage information about visitors to this site with this company for the purpose of managing and targeting advertisements and for market research analysis on our site and other sites. For these purposes, NYMag.com and our third party advertising company may note some of the pages you visit on our site through the use of pixel tags (also called clear GIFs). In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique "cookie" on your computer. If you would like more information about the collection, use and disclosure practices of this third party advertising company and to know your choices about not having this information used by this company, <a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;">click here</a>. </p>
+     We use a third-party advertising company to serve ads when you visit our site. This advertising company may collect and use information (not including your name, address, e-mail address or telephone number) about your visits to our site and other websites not owned and operated by NYMag.com, and may also combine this information with other data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor. We may also obtain other demographic information from third parties for marketing purposes or to display more relevant advertising. In addition, we may share non-personal website usage information about visitors to this site with this company for the purpose of managing and targeting advertisements and for market research analysis on our site and other sites. For these purposes, NYMag.com and our third party advertising company may note some of the pages you visit on our site through the use of pixel tags (also called clear GIFs). In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique "cookie" on your computer. If you would like more information about the collection, use and disclosure practices of this third party advertising company and to know your choices about not having this information used by this company, <a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;">click here</a>. </p>
 		<p> 
 Our website may post banner ads and other forms of advertisements, and/or links to the websites of affiliate entities or of advertisers or sponsors which are companies that are not owned or operated by NYMag.com, its parents, affiliates or subsidiaries. These entities may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you link to or visit an advertiser's or sponsor's website, we may frame the site with our website logo; however, you will be subject to the privacy policy and terms of usage agreement of that website operator. NYMag.com, its parents, affiliates or subsidiaries will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors. </p>
 <p>
@@ -450,7 +460,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 			  </div>
 
 						<div id="article-tools">
-							[an error occurred while processing this directive] 	
+							 	
 						</div><!-- /end #article-tools -->
 
 						<div id="issue-info">
@@ -488,7 +498,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 					<div class="content single">
 						<div class="review">
 							<ul>
-								<li><a href="http://nymag.com/redirects/circ_subscribe/">Subscribe to New York</a></li>
+								<li><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=03921&amp;i4Ky=IBJS">Subscribe to New York</a></li>
 								<li><a href="http://nymag.com/redirects/circ_gifts/">Gift Subscriptions</a></li>
 								<li><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEzOTI0MQ==">Customer Service</a></li>
 								<li><a href="https://secure.palmcoastd.com/pcd/eServCart?iServ=MDM5MjEzODM0Mg">Order Back Issues</a></li>
@@ -547,7 +557,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 						<div class="row columns-2">
 							<div class="column col-1">
 
-								<a href="/includes/tableofcontents.htm"><img src="http://images.nymag.com/nymag/toc/20100614_bestdoctors_150.jpg" alt="Current Issue"></a>
+								<a href="/includes/tableofcontents.htm"><img src="http://images.nymag.com/nymag/toc/20101222_rtlnycvr_150.jpg" alt="Current Issue"></a>
 
 							</div>
 
@@ -555,7 +565,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 								<h6>Subscribe to <cite>New York</cite></h6>
 								<ul class="nav">
 									<li id="sub-view-contents"><a href="/includes/tableofcontents.htm">View Contents</a></li>
-									<li id="sub-order-issue"><a href="https://secure.palmcoastd.com/pcd/eServCartCk?iServ=MDM5MjEzODM0MiZpUGFnZUlkPTY2NTQz&amp;iInvId=50751&amp;iQuantity=1">Order Issue</a></li>
+									<li id="sub-order-issue"><a href="https://secure.palmcoastd.com/pcd/eServCartCk?iServ=MDM5MjEzODM0MiZpUGFnZUlkPTY2NTQz&amp;iInvId=50773&amp;iQuantity=1">Order Issue</a></li>
 									<li id="sub-cover-gallery"><a href="/nymag/toc/2010/index.html">Cover Gallery</a></li>
 									<li id="sub-customer-service"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEzOTI0MQ==">Customer Service</a></li>
 								</ul>
@@ -630,7 +640,8 @@ For the convenience of our visitors, we may offer a list of helpful website link
 	</div><!-- /end #content -->
 
 	<div id="footer">
-				<p>Copyright ©  2010, New York Media <abbr title="Limited Liability Corporation">LLC</abbr>. All Rights Reserved.</p>
+				<a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=03921&amp;i4Ky=IBKH" class="subscription"><img src="http://images.nymag.com/gfx/footer/nymfooter_980x54.jpg"></a>
+		<p>Copyright ©  2010, New York Media <abbr title="Limited Liability Corporation">LLC</abbr>. All Rights Reserved.</p>
 
 		<ul>
 			<li class="first"><a href="http://nymag.com/newyork/aboutus/index.html">New York Magazine</a></li>
@@ -645,7 +656,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 		</ul>
 
 
-<script type="text/javascript" charset="utf-8">
+<script type="text/javascript">
 			if(typeof window.nymag == "object"){
 				window.nymag.dcads.write_node();
 				
@@ -669,6 +680,52 @@ For the convenience of our visitors, we may offer a list of helpful website link
   <noscript><div><a href="http://www.quantcast.com/p-52tlJ-QdbVwC-"><img src="http://pixel.quantserve.com/pixel/p-52tlJ-QdbVwC-.gif" style="display: none;" height="1" width="1" alt="Quantcast"/></a></div></noscript>
   <!-- End Quantcast tag -->
  </div> <!-- closes #tracking-quantcast -->
+
+ <script type="text/javascript"> 
+	document.write(unescape("%3Cscript src='" + (location.protocol=="https:" ? "https://" : "http://") + "cn.clickable.net/js/cct.js' type='text/javascript'%3E%3C/script%3E")); 
+ </script><script src="https://cn.clickable.net/js/cct.js" type="text/javascript"></script> 
+ <script type="text/javascript"> 
+ 	document.cookie=cct.CookieCheck(document.cookie); 
+	cct.cct_log('0820-5Paa2g8efVdi4ebw49934beba798a0931431cc0a'); 
+	document.cookie=cct.CookieCheck(document.cookie); 
+	cct.conversion_value = 'FixedValue'; 
+	cct.cct_log('0420-5Lae2a8dfd4b49934beba798a0931431cc0a'); 
+</script>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+
+<script type="text/javascript">
+
+  (function () {
+
+    var d = new Image(1, 1);
+
+    d.onerror = d.onload = function () {
+
+      d.onerror = d.onload = null;
+
+    };
+
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-703858h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+
+  })();
+
+</script>
+
+<noscript>
+
+  <div>
+
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-703858h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+
+    width="1" height="1" alt="" />
+
+  </div>
+
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
 </div> <!-- closes #tracking -->
  	
 
