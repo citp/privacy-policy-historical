@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-webhosting.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210023659id_/http%3A//www.internet-webhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-webhosting.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216130619id_/http%3A//internet-webhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Malaysia Webhosting, Dedicated Server, Domain Registration & Website Design - PRIVACY
 
