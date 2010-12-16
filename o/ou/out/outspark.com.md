@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129055913id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216211303id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
 
-# Outspark - Play Free Online Games at Outspark - Join Our Virtual Playground
+# Outspark - MMO, RPG, RTS, Play best free online games at Outspark
 
 ## Outspark Privacy Policy
 
