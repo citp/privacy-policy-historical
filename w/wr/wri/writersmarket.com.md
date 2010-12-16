@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersmarket.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630225702id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersmarket.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216032249id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
 
 # F+W Media - Privacy
 
