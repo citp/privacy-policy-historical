@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quickoffice.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617235752id_/http%3A//www.quickoffice.com/legal-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quickoffice.com privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216211428id_/http%3A//www.quickoffice.com/legal-policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 	
@@ -10,58 +10,55 @@
 	<meta name="description" content="Quickoffice Privacy Policy">
 	<meta name="keywords" content="Quickoffice Privacy Policy">
 
-	<link rel="stylesheet" href="/display/css/e-com-2/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="/display/css/e-com-2/screenshot_gallery.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="/display/css/e-com-2/tabber.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://cdn.quickoffice.com/display/css/e-com-2/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://cdn.quickoffice.com/display/css/e-com-2/screenshot_gallery.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://cdn.quickoffice.com/display/css/e-com-2/comparison-matrix.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://cdn.quickoffice.com/display/css/e-com-2/shopping-cart.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://cdn.quickoffice.com/display/css/e-com-2/store.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://cdn.quickoffice.com/display/css/e-com-2/tabber.css" type="text/css" media="screen">
 	<link rel="shortcut icon" href="/favicon.ico">
 
-	<script type="text/javascript" language="javascript">var COOKIE_DOMAIN = '.quickoffice.com';</script>
-<script type="text/javascript" language="javascript" src="/display/js/jquery.tools.min.js"></script> 
-<script type="text/javascript" language="javascript" src="/display/js/screenshot_gallery.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/e-com-2_homepage.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/common_functions.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/tabber.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/comp_devices.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/translations.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/currencies.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/shopping_cart.js"></script>
-<script type="text/javascript" language="javascript" src="/display/js/payment_page.js"></script>
+	<script type="text/javascript">var COOKIE_DOMAIN = 'quickoffice.com';</script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/jquery.tools.min.js"></script> 
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/common_functions.js"></script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/tabber.js"></script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/comp_devices.js"></script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/translations.js"></script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/currencies.js"></script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/shopping_cart.js"></script>
+<script type="text/javascript" src="http://cdn.quickoffice.com/display/js/payment_page.js"></script>
 
 <script type="text/javascript">
-			var device_id = 0;
-	
-	$(document).ready(function() {
-		$("a.download_button_small, a.download_button, a.cross_sell_product, a.red, a.buy-now-button").live('click', function(e) {
-			var elem = $(this);
-			var href = elem.attr('href');
-			
-			if ( -1 !== href.indexOf('/payment/') ) {
-				var product_id = parseInt(elem.attr('product_id'));
-				
-				if ( product_id > 0 ) {
-					e.preventDefault();
-					Shopping_Cart.addProduct(device_id, product_id);
-					
-					return false;
-				}
-			}
-		});	
+var device_id = 0;
+function close_header_bubble() {
+	if(typeof ClickTaleExec=='function') {
+		ClickTaleExec("close_header_bubble()");
+	}
+	$('#header_bubble').fadeOut(750);
+	$.ajax({ url: '/instant_discount.http.php' });
+}
+
+$(document).ready(function() {
+	$("a.download_button_small, a.download_button, a.cross_sell_product, a.red, a.buy-now-button").live('click', function(e) {
+		var elem = $(this);
+		var href = elem.attr('href');
 		
-					setTimeout(function() {
-				signup_form_slide();
-			}, 1000);
+		if ( -1 !== href.indexOf('/payment/') ) {
+			var product_id = parseInt(elem.attr('product_id'));
+			
+			if ( product_id > 0 ) {
+				e.preventDefault();
+				Shopping_Cart.addProduct(device_id, product_id);
 				
-				
-		// Handle the header bubble
-		setTimeout(function() {
-			$('#header_bubble').fadeIn(1500);
+				return false;
+			}
+		}
+	});	
+	
+			setTimeout(function() {
+			signup_form_slide();
 		}, 1000);
 		
-		// Handle closing the header bubble
-		$('#header_bubble_close').click(function() {
-			$('#header_bubble').fadeOut(750);
-			$.ajax({ url: '/instant_discount.http.php' });
-		});
 	});
 </script>	
 	<script type="text/javascript">
@@ -76,7 +73,7 @@
 			<script type="text/javascript" language="JavaScript">
 			var date = new Date();
 			date.setTime(date.getTime() + (365*24*60*60)); // set expiration to one year in future
-			document.cookie = "width=" + screen.width + "; path=/; domain=.quickoffice.com; expires=" + date.toGMTString();
+			document.cookie = "width=" + screen.width + "; path=/; domain=quickoffice.com; expires=" + date.toGMTString();
 		</script>
 		
 	<!-- Style hack to prevent viewport from shifting when screenshot gallery is displayed -->
@@ -88,12 +85,6 @@
 </head>
 
 <body>
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-
 	<div id="screen_opacity_filter"></div>
 		
 	<div id="slider_container">
@@ -104,11 +95,11 @@ var WRInitTime=(new Date()).getTime();
 	</div>
     <trans>
 	<h3>Follow Quickoffice</h3>
-	<div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://blog.quickoffice.com" target="_blank"><img src="/display/images/e-com-2/rss_32.png" title="Quickoffice Blog" alt="Quickoffice Blog" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Quickoffice Blog</a></div>
-    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://www.facebook.com/Quickoffice" target="_blank"><img src="/display/images/e-com-2/facebook_32.png" title="Facebook" alt="Facebook" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Facebook</a></div>
-    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://twitter.com/quickoffice" target="_blank"><img src="/display/images/e-com-2/twitter_32.png" title="Twitter" alt="Twitter" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Follow on Twitter</a></div>
-    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://www.youtube.com/quickoffice" target="_blank"><img src="/display/images/e-com-2/youtube_32.png" title="YouTube" alt="YouTube" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;YouTube</a></div>
-    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://quickoffice.ideascale.com" target="_blank"><img src="/display/images/e-com-2/ideascale_32.gif" title="Share Ideas" alt="Share Ideas" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Share Ideas</a></div> 
+	<div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://blog.quickoffice.com" target="_blank"><img src="http://cdn.quickoffice.com/display/images/e-com-2/rss_32.png" title="Quickoffice Blog" alt="Quickoffice Blog" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Quickoffice Blog</a></div>
+    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://www.facebook.com/Quickoffice" target="_blank"><img src="http://cdn.quickoffice.com/display/images/e-com-2/facebook_32.png" title="Facebook" alt="Facebook" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Facebook</a></div>
+    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://twitter.com/quickoffice" target="_blank"><img src="http://cdn.quickoffice.com/display/images/e-com-2/twitter_32.png" title="Twitter" alt="Twitter" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Follow on Twitter</a></div>
+    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://www.youtube.com/quickoffice" target="_blank"><img src="http://cdn.quickoffice.com/display/images/e-com-2/youtube_32.png" title="YouTube" alt="YouTube" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;YouTube</a></div>
+    <div class="middle-content-text" style="margin: 5px -10px;"><a class="red" style="font-size:14px; margin-left: 10px;" href="http://quickoffice.ideascale.com" target="_blank"><img src="http://cdn.quickoffice.com/display/images/e-com-2/ideascale_32.gif" title="Share Ideas" alt="Share Ideas" width="32" height="32" border="0" align="absmiddle">&nbsp;&nbsp;Share Ideas</a></div> 
     </trans>
 </div>
 <a id="stay_connected_button" class="sidebar_button" onclick="signup_form_slide()"><trans>Stay Connected</trans></a>
@@ -123,7 +114,7 @@ var WRInitTime=(new Date()).getTime();
 	<div class="middle-content-text">
 		<form method="post" action="/newsletter_api/register_user_email.php" name="subscribeform" id="subscribeform">
 			<input type="hidden" name="list" value="CHECK_LIST_ARRAY">
-			<input type="hidden" name="newsletter_token" value="c719cdd60136ec2720d794bfb2930a2a">
+			<input type="hidden" name="newsletter_token" value="fa9db2e8a908920793fea8321855c24e">
 			<input type="hidden" name="return_page" value="/">
 			<div class="middle-cont-subh"><trans>Your e-mail</trans>:</div>
 			<input style="width: 250px;" type="text" name="email" id="slidein_email" value="">
@@ -190,7 +181,7 @@ function checkform_slidein() {
 		<div id="header">
 	<div id="header_top"></div>
 	<div id="header_main">
-		<div id="header_logo"><a href="http://www.quickoffice.com/"><img src="/display/images/e-com-2/qo_header_logo.gif" width="301" height="81" border="0" alt="Quickoffice"></a></div>
+		<div id="header_logo"><a href="http://www.quickoffice.com/"><img src="http://cdn.quickoffice.com/display/images/e-com-2/qo_header_logo.gif" width="301" height="81" border="0" alt="Quickoffice"></a></div>
 				<div id="header_links">
 			<a href="http://www.quickoffice.com/store/"><trans>Shop</trans></a>&nbsp;&nbsp;|&nbsp;
 			<a href="http://www.quickoffice.com/company/"><trans>About Us</trans></a>&nbsp;&nbsp;|&nbsp;
@@ -198,12 +189,6 @@ function checkform_slidein() {
 			<a href="http://support.quickoffice.com" target="_blank"><trans>Support</trans></a>&nbsp;&nbsp;|&nbsp;
 			<a href="https://www.quickoffice.com/user_account/"><trans>Log In</trans></a>		</div>
 		
-				<div id="header_bubble">
-			<div class="close-button">
-				<div class="close" id="header_bubble_close">X</div>
-			</div>
-			<div class="text"><trans>Register a new customer account 25% Off your first purchase of any Symbian OS products.</trans><br> <a href="https://www.quickoffice.com/user_account/#create_account"><strong><trans>Create Account</trans></strong></a></div>
-		</div>
 				
 		<div id="header_controls">
 			<div id="header_control_menus">
@@ -212,7 +197,7 @@ function checkform_slidein() {
         <ul id="translation_selection" class="options_closed" onmouseout="toggle_translations_options_off();">
                         <li class="translation_option" onclick="set_language(this.id);" id="bg" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Български</font></li>
             <li class="translation_option" onclick="set_language(this.id);" id="zh-CN" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">普通话</font></li>
-            <li class="translation_option" onclick="set_language(this.id);" id="zh-TW" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">臺灣國語</font></li>
+            <li class="translation_option" onclick="set_language(this.id);" id="zh-TW" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">繁體中文(台灣)</font></li>
             <li class="translation_option" onclick="set_language(this.id);" id="hr" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Hrvatski</font></li>
             <li class="translation_option" onclick="set_language(this.id);" id="cs" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Česky</font></li>
                         <li class="translation_option" onclick="set_language(this.id);" id="nl" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Nederlands</font></li>
@@ -223,7 +208,9 @@ function checkform_slidein() {
             <li class="translation_option" onclick="set_language(this.id);" id="ja" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">日本語</font></li>
                                     <li class="translation_option" onclick="set_language(this.id);" id="pt-PT" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Português</font></li>
             <li class="translation_option" onclick="set_language(this.id);" id="ro" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Română</font></li>
+            <!--
             <li class="translation_option" onclick="set_language(this.id);" id="ru" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Русский</font></li>
+            -->
             <li class="translation_option" onclick="set_language(this.id);" id="es" onmouseover="show_translation_options();" onmouseout="toggle_translations_options_off();"><font class="translation_option_text">Español</font></li>
                     </ul>
 	</div>
@@ -232,7 +219,8 @@ function checkform_slidein() {
 
 <script type="text/javascript" language="javascript">
 	document.getElementById('translation_control_container').style.display = 'block';
-</script>				<div id="currency_control_container" style="display: block;">
+</script>
+				<div id="currency_control_container" style="display: block;">
 	<div id="currency_selection_bg">
 		<ul id="currency_selection" class="options_closed" onmouseout="toggle_currency_options_off();">
 			<li class="currency_option_selected" id="USD" onmouseover="show_currency_options();" onmouseout="toggle_currency_options_off();" title="US Dollars"><font class="currency_symbol">$</font><font class="currency_option_text">USD</font></li>
@@ -277,8 +265,8 @@ function checkform_slidein() {
 	document.getElementById('currency_control_container').style.display = 'block';
 </script>
 			</div>
-			<!--<a id="select_device_button" href="http://www.quickoffice.com/device-selection/" title="Select Device"></a>-->
-			<a id="shopping_cart_button" href="javascript:Shopping_Cart.display();" onclick="Shopping_Cart.display();" title="Shopping Cart"></a>
+			<a id="select_device_button" href="http://www.quickoffice.com/device-selection/" title="Select Device"></a>
+			<a id="shopping_cart_button" href="javascript:Shopping_Cart.display();" onclick="Shopping_Cart.display();" title="Your Shopping Cart, 0 Items"></a>
 		</div>
 	</div>
 	<div id="header_spacer"></div>
@@ -290,7 +278,7 @@ function checkform_slidein() {
 
 <h3 class="cross-sell-title">
 	<div class="title"><trans>Your Shopping Cart</trans></div>
-	<div class="spinner" id="cart-loader"><img src="/display/images/ajax-loader.gif" alt="Loading..."></div>
+	<div class="spinner" id="cart-loader"><img src="http://cdn.quickoffice.com/display/images/ajax-loader.gif" alt="Loading..."></div>
 </h3>
 
 <div style="clear: both"></div>
@@ -319,42 +307,48 @@ function checkform_slidein() {
 				
 		<table style="width: 100%;">
 			<tbody><tr>
-									<td style="width: 17%; text-align: center">
+									<td style="width: 14%; text-align: center">
 						<a href="http://www.quickoffice.com/product-selection/?product=quickdictionary" class="cross_sell_product" product_id="19">
-							<img src="/display/images/e-com-2/product/quickdictionary.gif"> <br>
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/quickdictionary.gif"> <br>
 							Quickdictionary						</a>
 						<br>
-						<notrans>$18.00</notrans>					</td>
-									<td style="width: 17%; text-align: center">
+						<notrans>$9.99</notrans>					</td>
+									<td style="width: 14%; text-align: center">
 						<a href="http://www.quickoffice.com/device-selection/?product=3" class="cross_sell_product" product_id="3">
-							<img src="/display/images/e-com-2/product/quickcalendar.gif"> <br>
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/quickcalendar.gif"> <br>
 							Quickcalendar						</a>
 						<br>
-						<notrans>$29.00</notrans>					</td>
-									<td style="width: 17%; text-align: center">
+						<notrans>$9.99</notrans>					</td>
+									<td style="width: 14%; text-align: center">
 						<a href="http://www.quickoffice.com/device-selection/?product=4" class="cross_sell_product" product_id="4">
-							<img src="/display/images/e-com-2/product/quickclock.gif"> <br>
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/quickclock.gif"> <br>
 							Quickclock						</a>
 						<br>
-						<notrans>$20.00</notrans>					</td>
-									<td style="width: 17%; text-align: center">
+						<notrans>$9.99</notrans>					</td>
+									<td style="width: 14%; text-align: center">
 						<a href="http://www.quickoffice.com/device-selection/?product=10" class="cross_sell_product" product_id="10">
-							<img src="/display/images/e-com-2/product/quickexpense.gif"> <br>
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/quickexpense.gif"> <br>
 							Quickexpense						</a>
 						<br>
-						<notrans>$10.00</notrans>					</td>
-									<td style="width: 17%; text-align: center">
+						<notrans>$9.99</notrans>					</td>
+									<td style="width: 14%; text-align: center">
 						<a href="http://www.quickoffice.com/device-selection/?product=17" class="cross_sell_product" product_id="17">
-							<img src="/display/images/e-com-2/product/quickid.gif"> <br>
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/quickid.gif"> <br>
 							QuickID						</a>
 						<br>
-						<notrans>$24.00</notrans>					</td>
-									<td style="width: 17%; text-align: center">
+						<notrans>$9.99</notrans>					</td>
+									<td style="width: 14%; text-align: center">
 						<a href="http://www.quickoffice.com/device-selection/?product=18" class="cross_sell_product" product_id="18">
-							<img src="/display/images/e-com-2/product/quickweather.gif"> <br>
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/quickweather.gif"> <br>
 							Quickweather						</a>
 						<br>
-						<notrans>$12.00</notrans>					</td>
+						<notrans>$14.99</notrans>					</td>
+									<td style="width: 14%; text-align: center">
+						<a href="http://www.quickoffice.com/device-selection/?product=24" class="cross_sell_product" product_id="24">
+							<img src="http://cdn.quickoffice.com/display/images/e-com-2/product/worldmate_symbian.gif"> <br>
+							WorldMate for Symbian S60						</a>
+						<br>
+						Free					</td>
 							</tr>
 		</tbody></table>
 	</div>
@@ -373,12 +367,12 @@ function checkform_slidein() {
 	<ul>
 <table cellpadding="0" cellspacing="0" width="180" style="clear:both;">
 	<tbody><tr>
-		<td style="line-height: 13px; width:180px; height:28px; font: bold 13px 'Arial',sans-serif; color: #3b5c7d; padding-left:10px; padding-right:10px; background:url(/display/css/e-com-2/images/bg-pro-info-head.gif) no-repeat;">
+		<td style="line-height: 13px; width:180px; height:28px; font: bold 13px 'Arial',sans-serif; color: #3b5c7d; padding-left:10px; padding-right:10px; background:url(http://cdn.quickoffice.com/display/css/e-com-2/images/bg-pro-info-head.gif) no-repeat;">
 		<trans>Policies</trans>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:180px; font: normal 11px 'Arial',sans-serif; color: #3b5c7d; padding-left:10px; background:url(/display/css/e-com-2/images/bg-pro-info-cont.gif) repeat-y;">
+		<td style="width:180px; font: normal 11px 'Arial',sans-serif; color: #3b5c7d; padding-left:10px; background:url(http://cdn.quickoffice.com/display/css/e-com-2/images/bg-pro-info-cont.gif) repeat-y;">
 			<div class="pro-info-li_news">
             	<li class="pagenav">
                 	<ul>
@@ -389,21 +383,21 @@ function checkform_slidein() {
             </div>
 		</td>
 	</tr>
-	<tr><td width="180" height="9" style="width:180px; height:9px; padding:0px 0px; background:url(/display/css/e-com-2/images/bg-pro-info-foot.gif) no-repeat;">
+	<tr><td width="180" height="9" style="width:180px; height:9px; padding:0px 0px; background:url(http://cdn.quickoffice.com/display/css/e-com-2/images/bg-pro-info-foot.gif) no-repeat;">
 	</td>
 	</tr>
 </tbody></table>		<div style="clear: both;">
 <table cellpadding="0" cellspacing="0" width="180" align="center">
 	<tbody><tr>
-		<td style="line-height: 13px; width:180px; height:28px; font: bold 13px 'Arial',sans-serif; color: #3b5c7d; padding-left:10px; padding-right:10px; background:url(/display/css/e-com-2/images/bg-pro-info-head.gif) no-repeat; overflow:hidden;">
+		<td style="line-height: 13px; width:180px; height:28px; font: bold 13px 'Arial',sans-serif; color: #3b5c7d; padding-left:10px; padding-right:10px; background:url(http://cdn.quickoffice.com/display/css/e-com-2/images/bg-pro-info-head.gif) no-repeat; overflow:hidden;">
 		AlertMe! <trans>Newsletter</trans>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:180px; font: normal 11px 'Arial',sans-serif; color: #3b5c7d; padding: 5px 10px; background:url(/display/css/e-com-2/images/bg-pro-info-cont.gif) repeat-y;">
+		<td style="width:180px; font: normal 11px 'Arial',sans-serif; color: #3b5c7d; padding: 5px 10px; background:url(http://cdn.quickoffice.com/display/css/e-com-2/images/bg-pro-info-cont.gif) repeat-y;">
 			<form method="post" action="/newsletter_api/register_user_email.php" name="subscribeform" id="subscribeform">
             	<input type="hidden" name="list" value="CHECK_LIST_ARRAY">
-                <input type="hidden" name="newsletter_token" value="c719cdd60136ec2720d794bfb2930a2a">
+                <input type="hidden" name="newsletter_token" value="fa9db2e8a908920793fea8321855c24e">
                 <input type="hidden" name="return_page" value="/legal-policy/privacy-policy/">
 				<b><trans>Your e-mail</trans>: </b><br>
 				<input style="width: 135px;" type="text" name="email" id="email" value="">
@@ -448,7 +442,7 @@ function checkform() {
 		</td>
 	</tr>
 	<tr>
-		<td width="180" height="9" style="width:180px; height:9px; padding:0px 0px; background:url(/display/css/e-com-2/images/bg-pro-info-foot.gif) no-repeat;">
+		<td width="180" height="9" style="width:180px; height:9px; padding:0px 0px; background:url(http://cdn.quickoffice.com/display/css/e-com-2/images/bg-pro-info-foot.gif) no-repeat;">
 	</td></tr>
 </tbody></table>
 		</div>
@@ -542,7 +536,7 @@ This statement was last updated in August 2009.</div>
 		<div id="footer">
 	<div class="inner">
 		<div class="about-quickoffice">
-			<h3><trans>About</trans> Quickoffice</h3>
+			<h3><trans>About Quickoffice</trans></h3>
 			<p><trans>Installed on over 250 million devices in over 180 countries, Quickoffice is the world leader in mobile office applications.</trans></p>
 			
 			<ul>
@@ -560,7 +554,7 @@ This statement was last updated in August 2009.</div>
 		</div>
 		
 		<div class="shop-quickoffice">
-			<h3><trans>Shop</trans> Quickoffice.com</h3>
+			<h3><trans>Shop Quickoffice.com</trans></h3>
 			
 			<div class="shop-symbian">
 				<h4>Symbian S60</h4>
@@ -573,6 +567,8 @@ This statement was last updated in August 2009.</div>
 					<li><a href="http://www.quickoffice.com/quickclock/">Quickclock</a></li>
 					<li><a href="http://www.quickoffice.com/quickweather/">Quickweather</a></li>
 					<li><a href="http://www.quickoffice.com/quickid/">QuickID</a></li>
+					<li><a href="http://www.quickoffice.com/quickoffice_pro_symbian/">Quickoffice Pro Viewer</a></li>
+					<li><a href="http://www.quickoffice.com/worldmate_symbian/">WorldMate</a></li>
 				</ul>
 			</div>
 			
@@ -620,25 +616,27 @@ This statement was last updated in August 2009.</div>
 
 <div style="text-align: center;">Copyright © 2010 Quickoffice, Inc. All rights reserved.</div>	</div>
 
-
-	<div id="token">12295ad3d9ce59e8227edb107ad063ba9be8861a</div>
+	<div id="token">dd66fb3596087c0b2193651c6cd23968dff2303a</div>
 	<!-- Chat Support. Doesn't draw the icon here, draws it in a specific div. -->
-		<!--<script language="javascript" src="http://support.quickoffice.com/visitor/index.php?_m=livesupport&_a=htmlcode&departmentid=0&fullname=&email="></script>-->
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-if(document.location.protocol!='https:')
-  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(40382,0.01,"www");
-</script>
-<!-- ClickTale end of Bottom part -->
+	
 
-
-
-
-<script type="text/javascript">
+<script type="text/javascript"><!--
+function MarkPAPConversion(productID, orderID, value) {
+    if (typeof PostAffTracker != undefined && typeof productID != undefined) { // we have necessary PAP is active and productID value exists
+        if (orderID == undefined) { orderID = '' + new Date().getTime(); } // use current time value
+        if (value == undefined) { value = '0';}
+        var conversion_url = '';
+        if('https:' == document.location.protocol) {
+            conversion_url = 'https://';
+        } else {
+            conversion_url = 'http://';
+        }
+        conversion_url = conversion_url + 'affiliate.quickoffice.com/scripts/sale.php?TotalCost=' + encodeURIComponent(value) + '&OrderID=' + encodeURIComponent(orderID) + '&ProductID=' + encodeURIComponent(productID); 
+        $.getScript(conversion_url);
+    }
+}
+//-->
+</script><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -649,10 +647,9 @@ pageTracker._setLocalRemoteServerMode();
 pageTracker._initData();
 pageTracker._trackPageview();
 pageTracker._setVar("PC");
-</script>
-	<script>
+</script>	<script type="text/javascript">
 		var cookie_date = new Date();
 		cookie_date.setTime(cookie_date.getTime() + (365*24*60*60)); // set expiration to one year in future
 		document.cookie = "js_enabled=1; path=/; domain=" + COOKIE_DOMAIN + "; expires=" + cookie_date.toGMTString();
 	</script>
-</body></html>
+	</body></html>
