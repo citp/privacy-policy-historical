@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526175621id_/http%3A//joomseller.com/JS-TOS/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216204917id_/http%3A//joomseller.com/JS-TOS/privacy.html) for the most accurate reproduction.*
 
 # Privacy | JS TOS
 
-JoomSeller("Joomla Seller") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.JoomSeller.com on the World Wide Web (the "Site"), as well as for JoomSeller services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomSeller Privacy Policy.
+JoomSeller("Joomla® Seller") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.JoomSeller.com on the World Wide Web (the "Site"), as well as for JoomSeller services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomSeller Privacy Policy.
 
   * General Information
   * Information Collection and Use
@@ -19,7 +19,7 @@ JoomSeller may periodically update this Privacy Policy. If so, JoomSeller will p
 
 By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. **IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY JOOMSELLER AT THIS SITE.**
 
-Please note that the JoomSeller Users Forum is covered by its own privacy policy, which is available for review at any time. And has been protected by **joomla core**.
+Please note that the JoomSeller Users Forum is covered by its own privacy policy, which is available for review at any time. And has been protected by **Joomla® core**.
 
 ### Information Collection and Use
 
@@ -53,7 +53,7 @@ Except as described below, JoomSeller will only disclose your personally identif
 
 All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All JoomSeller employees, and all external service providers who may process and/or store customer data, are briefed about the company's privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom JoomSeller contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
 
-If you have any questions about the security at our Site, you can send an email to [admin@joomseller.com](mailto:admin@joomseller.com) .
+If you have any questions about the security at our Site, you can send an email to [admin@joomseller.com](mailto:admin@joomseller.com).
 
 Please note that this email address will reject messages with attachments of any kind.
 
@@ -64,6 +64,6 @@ You are free to update your information at any time directly through our Site. A
 To change your information, or request that your information be changed, please use one of the following options:
 
   * Log in at http://www.JoomSeller.com and click on "Your Details" link
-  * Send email to us at [admin@joomseller.com](mailto:admin@joomseller.com) . Please note that this email address will reject messages with attachments of any kind. 
+  * Send email to us at [admin@joomseller.com](mailto:admin@joomseller.com). Please note that this email address will reject messages with attachments of any kind. 
 
 
