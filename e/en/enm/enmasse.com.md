@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501122507id_/http%3A//www.enmasse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216033523id_/http%3A//en.enmasse.com/privacy) for the most accurate reproduction.*
 
 # En Masse Entertainment
 
