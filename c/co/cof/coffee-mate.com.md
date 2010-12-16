@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129155757id_/http%3A//www.coffee-mate.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffee-mate.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216023324id_/http%3A//www.coffee-mate.com/Privacy.aspx) for the most accurate reproduction.*
 
-# COFFEE-MATE - Privacy Policy
+# Privacy Policy | COFFEE-MATE®
 
 Effective Date: 10/25/2006  
 Last Updated On: 5/29/2009
