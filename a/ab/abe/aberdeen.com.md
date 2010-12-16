@@ -1,114 +1,121 @@
-> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005755id_/http%3A//www.aberdeen.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216124052id_/http%3A//www.aberdeen.com/_aberdeen/app/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Aberdeen Group Web Registration Terms and Conditions/Privacy Policy
+# Aberdeen Group: Get Smart. Read Research.
 
-| 
+**Harte-Hanks Website Privacy Policy**
 
-****Aberdeen Group Privacy Policy****
+Harte-Hanks, Inc. is a worldwide direct and targeted marketing company that provides marketing services and shopper advertising opportunities to local, regional, national and international consumer and business-to-business marketers. This privacy policy applies to the information that we collect online by means of our, and our subsidiary company, websites.
 
-This is a website of the Aberdeen Group Inc. (Aberdeen), a subsidiary of Harte-Hanks, Inc., a worldwide direct and targeted marketing company that provides marketing services and shopper advertising opportunities to local, regional, national and international consumer and business-to-business marketers. Aberdeen conducts research and performs key benchmark, best practices, and focus group studies for a variety of industries. On some occasions, Aberdeen performs research and prepares reports on behalf of its clients. On other occasions, Aberdeen does so independently, or in cooperation with other companies. 
+ **Contents**
 
-This privacy policy applies to any information that may be obtained from you through our website. In addition, this privacy policy applies to information that Aberdeen may obtain from you in the course of its independent or cooperative research activities. Notably, however, when performing research or otherwise working on behalf of clients, Aberdeen operates in accordance with the relevant client’s privacy policies. Thus, this Privacy Policy does not apply to information collected, stored, or utilized in the course of performing research or otherwise acting on behalf of our clients. 
-
-Contents
-
-  * Our Commitment To Privacy 
-  * Categories Of Information That We Collect, and How We Use That Information
-  * Information Provided to Us, Stays With Us, Except for Intended Research and Study Purposes
-  * Aberdeen Works To Keep Information Secure
-  * Aberdeen, You, and Information Concerning You
-  * This Website Is Not Intended For Children
-  * Participation In The United States - European Union "Safe Harbor" Program 
-  * How To Contact Us
+  * Our Commitment to Privacy
+  * Categories of Information That We Collect, and How We Use That Information
+  * Information Provided to Us, Stays with Us, with Limited Exceptions for Intended Research and Advertising Purposes
+  * Harte-Hanks Works to Keep Information Secure
+  * Harte-Hanks, You, and Information Concerning You
+  * This Website Is Not Intended for Children
+  * Participation in The United States - European Union and Switzerland "Safe Harbor" Programs
+  * How to Contact Us
   * Privacy Policy Updates
 
 
 
-Our Commitment to Privacy 
+ **Our Commitment to Privacy**
 
-Aberdeen is committed to fair marketing practices, including respect for your privacy and marketing preferences. Among other things, Aberdeen voluntarily supports marketing industry privacy standards, including the Direct Marketing Association's Online Privacy Principles, Guidelines for Ethical Business Practices, the DMA Privacy Promise to the American Consumer and the DMA Commitment to Consumer Choice (see [www.the-dma.org](http://www.the-dma.org/)). We also participate in the U.S. Department of Commerce - European Union "Safe Harbor" program, and we actively monitor and refine our practices in keeping with the various laws and regulations that govern the marketing industry’s privacy and data security practices. 
+Harte-Hanks respects your privacy and marketing preferences and voluntarily supports marketing industry privacy standards. We also participate in the U.S. Department of Commerce - European Union "Safe Harbor" program, and it is our policy to conform our practices to the various laws and regulations that govern the marketing industry's privacy and data security practices in the markets that we serve.
 
-Categories Of Information That We Collect, and How We Use That Information 
+ **Categories of Information that We Collect, and How We Use that Information**
 
-Website Usage Information 
+ **Website Usage Information**
 
-For each visitor to our website, we may collect information concerning the usage of our website by that visitor, including the visitor’s Internet domain and/or IP address, information concerning the visitor’s browser, and other access-related information. We also may assemble aggregate information (i.e., information obtained by compiling information from many different visitors) as to which pages visitors access or visit on our website. This information is used to analyze our website's utility, and to enhance the areas and functionality within our site that appear to be of interest to various users. 
+For each visitor to our website, we may collect information concerning the usage of our website by that visitor, including the visitor's Internet domain and/or IP address, information concerning the visitor's browser, and other access-related information. We also may assemble aggregate information (i.e., information obtained by compiling information from many different visitors) as to usage of our Web site. This information is used to analyze our website's utility and to enhance the areas and functionality within our site that appear to be of interest to various users.
 
-Also, we may use "cookies" or similar tools, which are typically small pieces of information that are delivered and received by our website servers and stored by your internet browser on your computer's hard drive. The information stored and transmitted by these tools may be used to facilitate the functionality of our website, to learn about your preferences and internet session information, to provide a more relevant online experience, to study the efficacy of marketing campaigns, and for other legitimate website operation and marketing purposes (although we do not use any of this information for behavioral, targeted advertising purposes). For more information about the use of cookies and other similar technology, please visit a not-for-profit information site such as [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+Also, we may use "cookies" or similar tools, which are typically small pieces of information that are delivered by our web servers and stored by your Internet browser on your computer's hard drive. The information stored and transmitted by these tools may be used to facilitate the functionality of our website, to learn about your preferences and internet session information, to provide a more relevant online experience, to study the efficacy of marketing campaigns, and for other legitimate website operation and marketing purposes. For more information about the use of cookies and other similar technology, please visit a not-for-profit information site such as: http://www.networkadvertising.org.
 
-Please note that Aberdeen does not currently use ad serving companies to place banner ads from other firms on its website, so there is no tracking by such third-party companies from any banner ads, bulletin boards or other interactive venues on this website. 
+ **Personal Information**
 
-Personal Information 
+We receive and collect personally identifiable information – such as name, telephone numbers, e-mail addresses, and/or postal addresses – from visitors to our website when they (i) submit inquiries or requests to us, (ii) become registered users of our websites, (iii) sign up to receive newsletters or bulletins from us, (iv) respond to (or post) Shopper advertisements, (v) participate in our research activities, (vi) purchase or download our research products, or (vii) choose to provide information to us for some other reason. Any personally identifiable information you provide will be used by us or our service providers in connection with providing services to you and in order to process any requests or inquiries that you initiate. While you can choose not to provide your personal information, that decision may limit our ability to contact you and our ability to provide services or products to you. Also, please note that if you have provided us with a postal address, an e-mail address, or a telephone number, a Harte-Hanks representative may contact you unless you have requested that we put you on one of our do-not-contact lists.
 
-We receive and collect personally identifiable information – such as name, telephone numbers, e-mail addresses, and postal addresses – from individuals when they (i) submit inquiries or requests to us, (ii) become registered users of our website, (iii) participate in our research activities, (iv) sign up to receive newsletters or bulletins from us, or (v) choose to provide information to us for some other reason. Any personally identifiable information you provide will be used by us or, our service providers in connection with providing our research services, or in connection with providing services to you and processing any requests or inquiries that you initiate. While you can choose not to provide your personal information, that decision may limit our ability to contact you and our ability to provide services to you. Also, please note that if you have provided us with a postal address, an e-mail address, or a telephone number, an Aberdeen representative may contact you unless you have requested that we put you on one of our do-not-contact lists. 
+We may also request you provide us with financial information required to facilitate financial transactions you initiate and, in certain circumstance, we may share this information with third parties, retained under contract with us, to facilitate such transactions. As described elsewhere within this policy, we implement safeguards designed to protect against the unauthorized use, or disclosure, of such information. Financial information provided to us to facilitate transactions is not otherwise used, or retained. Once terms have been established, and such transactions are complete, we destroy or otherwise obscure such financial information.
 
-Research Information 
+ **Supplemental Information**
 
-As stated above, information obtained during our research activities on behalf of clients are subject to the applicable client’s privacy policy, and not this privacy policy. Nonetheless, for all of research efforts, we typically aggregate information we obtain during our research activities in a manner that does not include any personally identifiable information, and we utilize that aggregated information within our research reports. Notably, however, when we are performing research in cooperation with another company, we typically share contact and other information obtained in the course of our research as part of our cooperative effort.. While you may choose not to participate in our research surveys at any time that decision may limit your access to valuable products or services that we or our clients provide. 
+We may obtain personally identifiable and other information about you from our parent, sister, and subsidiary companies and/or business partners and add it to information that you have previously provided to us in order to serve you better. From time to time, we may compare our contact lists to lists received from our parent, sister, and subsidiary companies or third party service providers to try to avoid sending you unwanted, unnecessary or duplicative messages. We may also utilize and incorporate information from other sources to update and supplement information concerning you. All such combined, updated, and supplemented information will be handled consistent with this Privacy Policy.
 
-Supplemental Information 
+ **Advertising**
 
-We may obtain personally identifiable and other information about you from our parent, sister, and subsidiary companies and/or business partners and add it to information that you have previously provided to us in order to serve you better. From time to time, we may compare our contact lists to lists received from our parent, sister, and subsidiary companies or third party service providers to try to avoid sending you unwanted, unnecessary or duplicative messages. We may also utilize and incorporate information from other sources to update and supplement information concerning you. All such combined, updated, and supplemented information will be handled consistent with this Privacy Policy. 
+Please note that some Harte-Hanks websites may use ad serving companies to place banner ads from other firms on our sites. As with similar online advertising techniques, your interaction with these advertisements may generate information associated with you, your computer, or the information related to the content present you were viewing. For more information about these marketing techniques and technologies, please visit a not-for-profit information site such as http://www.networkadvertising.org Please note that while portions of the investor relations section of our website are managed by our vendors, neither Harte-Hanks nor these vendors, when acting on our behalf, collect or receive personally identifiable information within the investor relations section of our website, other than for the purposes of satisfying or responding to information requests.
 
-Information Provided To Us, Stays with Us, Except for Intended Research and Study Purposes 
+ **Shopper Services**
 
-Except for the use of research information for the intended purposes described above, the information provided by you will not be sold, transferred, or traded to any unrelated third parties for the marketing of third parties’ goods or services without your consent. 
+If you place an ad using our Shoppers services you will be asked to provide contact information to be placed in the ad such that respondents can contact you regarding your ad. If you respond to a Shoppers service ad through our website, you will also be asked to provide contact information. In either instance, Harte-Hanks may share the contact information you provide us with third parties. If you do not want us to provide your contact information to third parties do not use the Shoppers service.
 
-In the course of our website and research operations,, we may provide personally identifiable, aggregate, and other information to third parties that provide services for us, including services such as shipping, payment processing, database management, and Internet services. We endeavor to require such third-party service providers to confirm that their privacy practices are consistent with this Privacy Policy. On occasion, we may also share personally identifiable and other information concerning you with our affiliates (such as a parent or sister company, or a subsidiary of our company) in furtherance of our operations (and those of our affiliates), and we may also share with our affiliates any requests that you may make (such as do-not-contact requests). 
+ **Research Activities and Products**
 
-In the event of a merger or acquisition of our company, the sale of substantially all of its assets related to the operation of our website or research activities, or other change of corporate control, all research information as well as information concerning website visitors and registered website users would be transferred to or controlled by the surviving or successor entity. Such information would remain subject to the principles and guidelines set forth in our Privacy Policy. 
+Some Harte-Hanks websites conduct business research activities and/or sell research products. Harte-Hanks wants you, and your company, to welcome our attempts to contact you regarding your business and your participation in our business research efforts is completely voluntary. You have a choice to request that you not be contacted for these activities, that we reschedule our research activities or contact you in a different manner. If you choose to participate in our business research activities or purchase our research products, Harte-Hanks may offer third parties the opportunity to purchase your information obtained via our business research efforts or share your personal information with our research sponsors. If you do not want us to provide your information to third parties do not participate in our research activities or receive our research products.
 
-We also will transfer personal and non-personal information when we believe the transfer is necessary to comply with the law, to protect our rights and our safety, or to protect the rights and safety of anyone else. In addition, we may provide personally identifiable information to credit bureaus or collection agencies if we are permitted or required to do so by law. 
+ **User Contributed Content**
 
-Aberdeen Works To Keep Information Secure 
+Some Harte-Hanks websites offer users opportunities to contribute content to our websites (contributed content.) Contributed content which appears on our websites is used for the exchange of information and opinions and is subject to "COMMUNICATION SERVICES; USER CONTRIBUTIONS" as stated in our Terms of Use. 
 
-Aberdeen follows generally accepted industry standards to protect the personal and other information covered by this Privacy Policy. We have training and other policies and procedures in place to cover and address the logical and physical security of our workplaces and the integrity and protection of electronic records stored in our systems and on our premises. 
+**Information Provided To Us, Stays with Us, With Limited Exceptions for Intended Research and Advertising Purposes**
 
-Unfortunately, no data security methodology is 100% safe, and we cannot guarantee absolute security. It is also important for you to protect yourself against unauthorized access to your information. Be sure to take simple steps, such as signing off and logging out after each use of a shared computer, keeping your passwords in a secure location, and not sharing your passwords with any third parties. 
+In general, the information provided by website visitors at our site will not be sold, transferred, or traded to any third parties for the marketing of third parties' goods or services without a visitor's consent. Some Harte-Hanks websites give you the opportunity to "opt-in" for data sharing with third parties and other Harte-Hanks websites give you the opportunity to "opt out" for sharing data with third parties. We will only share your data consistent with your "opt-in" or "opt out" preferences (and, if you "opt-in", you can subsequently "opt-out" using the contact methods set forth below).
 
-As with most websites, our website may contain links to other websites that are not owned or controlled by us. In addition, you may have linked to our website from another website that is not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of other such websites, and this Privacy Policy applies only to information as described within this policy. 
+However, as noted above, information we collect regarding you or your company in connection with your use of our Shoppers service and our research activities, may be shared with other parties so that they may contact you regarding products or services that they think may be of interest to you. If you do not want your information shared do not use the Shoppers service or participate in our business research. 
 
-Aberdeen, You, and Information Concerning You 
+As our privacy policy provides you with information on how you may "opt- in" or "opt-out" from our information sharing activities and direct marketing services, we do not maintain or disclose a list of parties which may have received your personal information. If you wish to request additional information about how to exercise your third party disclosure choices, contact us using one of contact methods listed below.
 
-Upon your verifiable inquiry or request (using any of the contact methods below) concerning personally identifiable information pertaining to you, we will provide and/or correct such information that we may have in our database in reasonably obtainable form. You may also contact us (using any of the contact methods below) to express your preferences on how we communicate with you, or to request that you be removed from our database. 
+In order to operate our website and provide services to you, we may provide personally identifiable, aggregate, and other information associated with our website to third parties that provide services for us, including services such as shipping, payment processing, database management, and Internet services. We endeavor to require such third-party service providers to confirm that their privacy practices are consistent with this Privacy Policy. On occasion, we may also share personally identifiable and other information concerning you with our affiliates (such as a parent or sister company, or a subsidiary of our company) in furtherance of our operations (and those of our affiliates) as well as any requests that you may make (such as responding to advertisements or do-not-contact requests).
 
-Please note that, as a provider of marketing services, Aberdeen may hold information about you on behalf of another company that is an Aberdeen client. As stated above, such information is handled under the privacy policies of our client, not this Privacy Policy. 
+In the event of a merger or acquisition of our company, the sale of substantially all of its assets related to the operation of our website, or other change of corporate control or in any line of business sale, all information concerning website visitors and registered website users may be transferred to or controlled by the surviving or successor entity. In such a case, such information would remain subject to our Privacy Policy as in effect from time to time.
 
-This Website Is Not Intended For Children 
+We also will transfer personal and non-personal information when we believe the transfer is necessary to comply with the law, to protect or enforce our rights and our safety, or to protect the rights and safety of anyone else. In addition, we may provide personally identifiable information to credit bureaus or collection agencies if we are permitted or required to do so by law.
 
-Our website is not intended for children. In addition, if you are between the ages of 13 and 17, you may use our website only with the permission of a parent or guardian. 
+ **Harte-Hanks Works to Keep Information Secure**
 
-Participation In The United States - European Union “Safe Harbor” Program 
+Harte-Hanks has training and other policies and procedures in place that are intended to cover and address the logical and physical security of our workplaces and the integrity and protection of electronic records stored in our systems and on our premises.
 
-Harte-Hanks, Inc. and its subsidiaries collect and process personal information in the United States. We are participants in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the American and European regulators. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor website. 
+Unfortunately, no data security methodology is 100% safe, and we cannot guarantee information security. It is also important for you to protect yourself against unauthorized access to your information. Be sure to take simple steps, such as signing off and logging out after each use of a shared computer, keeping your passwords in a secure location, and not sharing your passwords with any third parties.
 
-If you believe that we are not in compliance with the Safe Harbor principles, first contact us by any of the contact methods below. If you do not receive a prompt acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you can then contact the (U.S.) Direct Marketing Association (“DMA”) Safe Harbor Dispute Resolution Program. The DMA will then serve as a liaison to us to resolve your concerns in a timely manner. You can reach the DMA Safe Harbor Program at: 
+Our website may contain links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of other such websites, and this Privacy Policy applies only to information collected by us in connection with our website.
 
-Safe Harbor Line   
-Direct Marketing Association   
-1615 L Street, NW, Suite 1100   
-Washington, DC 20036-5624   
-Telephone: USA (202) 861-2445 
+ **Harte-Hanks, You, and Information Concerning You**
 
-How To Contact Us 
+Upon your verifiable inquiry or request (using any of the contact methods below) concerning personally identifiable information pertaining to you, we will provide and/or correct such information that we may have in our database in reasonably obtainable form. You may also contact us (using any of the contact methods below) to express your preferences on how we communicate with you, or to request that you be removed from our database.
 
-We can be contacted using any of the methods below in connection with the matters addressed in this Privacy Policy: 
+ **This Website Is Not Intended For Children**
 
-Traditional Mail:   
-Attention: Privacy Manager   
-2800 Wells Branch Parkway   
+Our website is not intended for children. In addition, if you are between the ages of 13 and 17, you may use our website only with the permission of a parent or guardian.
+
+ **Participation in the United States - European Union and Switzerland "Safe Harbor" Programs**
+
+Harte-Hanks, Inc. and its subsidiaries collect and process personal information in the United States. We are participants in the Safe Harbor program developed by the U.S. Department of Commerce, the European Union, and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles. For more information about the Safe Harbor and to view our certification, please visit the U.S. Department of Commerce's Safe Harbor website.
+
+If you believe that we are not in compliance with the Safe Harbor principles, first contact us by any of the contact methods below. If you do not receive a prompt acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you can then contact the (U.S.) Direct Marketing Association ("DMA") Safe Harbor Dispute Resolution Program. The DMA will then serve as a liaison to us to resolve your concerns in a timely manner. You can reach the DMA Safe Harbor Program at:
+
+ **Safe Harbor Line**  
+Direct Marketing Association  
+1615 L Street, NW, Suite 1100  
+Washington, DC 20036-5624  
+Telephone: USA (202) 861-2445
+
+ **How To Contact Us**
+
+We can be contacted using any of the methods below in connection with the matters addressed in this Privacy Policy:
+
+ **Traditional Mail:**
+
+Attention: Corporate Privacy Manager  
+2800 Wells Branch Parkway  
 Austin, TX 78728 USA 
 
-E-mail:   
+**E-mail:**  
 PSAC@harte-hanks.com 
 
-Telephone:   
-USA: (512) 434-1100 
+**Telephone:**  
+USA: (512) 434-1100
 
-Privacy Policy Updates 
+ **Privacy Policy Updates**
 
-If you choose to visit our website, your online visit and associated information is subject to our Privacy Policy and to the Terms and Conditions applicable to this website. This Privacy Policy (like the website Terms and Conditions) will be updated periodically to comply with the evolving legal framework and to conform to our current business practices. Unless stated otherwise, our current Privacy Policy applies to all information that we have collected concerning you in connection with this website. You are encouraged to re-visit our Privacy Policy, as posted on the website, from time to time to check for updates. Again, if you have any questions or concern about our privacy practices, please contact us. 
-
-Last Revised: December, 2008 
-
-| 
+If you choose to visit our website, your online visit and associated information is subject to our Privacy Policy and to all Terms of Use applicable to this website. This Privacy Policy (like the website Terms of Use) may be updated periodically. Unless stated otherwise, our current Privacy Policy applies to all information that we have collected concerning you in connection with this website. You are encouraged to re-visit our Privacy Policy, as posted on our websites, from time to time to check for updates. If you have any questions or concerns about our privacy practices, please contact us.
