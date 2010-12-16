@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032321id_/http%3A//www.navicat.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216100618id_/http%3A//navicat.com/en/privacy.html) for the most accurate reproduction.*
 
-# Navicat - Privacy statement - Navicat is the World's Best Oracle, MySQL & PostgreSQL database administration - Download Now! Support database migration, Access to MySQL, Excel to MySQL, MySQL editor, MySQL administrator, MySQL frontend, MySQL manager, phpmyadmin, MySQL management, MySQL administration, MySQL front, MySQL for Toad, MySQL query builder, MySQL download, MySQL migration, MySQL control centre, MySQL client and MySQL report builder
+# Navicat - Privacy statement - Navicat is the World's Best Oracle, SQLite, MySQL, SQL Server & PostgreSQL database conversion tool - Download Now!
 
 Privacy Statement
 
