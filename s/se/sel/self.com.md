@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613195401id_/http%3A//www.self.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216075613id_/http%3A//www.self.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Self.com
 
   * [SELF](https://web.archive.org/)
 
 
-  * [Print](https://web.archive.org/web/20100613195401id_/http://www.self.com/services/privacypolicy/?printable=true "Print this page")
-  * [E-Mail](https://web.archive.org/contact/emailFriend?referringPage=http://www.self.com%2Fservices%2Fprivacypolicy%2F&title=Privacy+Policy "E-mail this page to a friend")
+  * [Print](https://web.archive.org/web/20101216075613id_/http%3A//www.self.com/services/privacypolicy?printable=true "Print this page")
+  * [E-Mail](https://web.archive.org/contact/emailFriend?referringPage=http://www.self.com%2Fservices%2Fprivacypolicy&title=Privacy+Policy "E-mail this page to a friend")
   * [Feeds](https://web.archive.org/services/rss/summary "Sign up for an RSS feed from Self.com")
   * Favorite
 
@@ -57,6 +57,12 @@ Wilmington, DE 19801
 
 
 [](https://w1.buysub.com/loc/SLF/ATGFailsafe)
+
+### most viewed
+
+### top rated
+
+### most commented
 
 ##  [SELF Blogs](https://web.archive.org/blogs/search)
 
