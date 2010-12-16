@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oakleyvault.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708055949id_/http%3A//oakleyvault.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakleyvault.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216184526id_/http%3A//oakleyvault.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# OakleyVault.com - The Official Oakley Outlet Store
+# Legal - Internet Privacy Policy - Oakley Vault
 
 Our privacy and security measures are designed with deep bunker security in mind, so any personal information that you provide is used for the purpose of receiving Oakley communications, purchasing product, market research and personalizing and enhancing your web experience on OakleyVault.com and for no other purpose. Our specific privacy policies are outlined below.
 
@@ -28,11 +28,19 @@ The information we ask for when you order online is your name, address, phone nu
 
 The navigational information allows us to see which areas of our Website are most visited and helps us improve the quality of your online experience by recognizing and delivering more of the most desired features and services. Additional non-personally identifiable information (for example, browser version, IP address) may be collected which will provide information regarding the general use of our website.
 
-Oakley will never sell any information about you to anyone. “Cookies” are used by Oakley only to allow you to use our website in the most efficient manner.
+Oakley will never sell any information about you to anyone. We are part of a larger company and we may share information with our parent and affiliated companies. We do not share with others, or sell or rent to others, any personal information that you provide to us, except with your consent or as described in this Privacy Policy.
+
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+
+We share aggregated demographic information about our user base with our agents, including agencies or third party vendors so that they can provide marketing analysis and consult on advertising strategies. This information does not identify individual users.
+
+We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of Oakley, or any of our respective affiliates, business partners, customers or others. We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form.
+
+As with any business, it is possible that as our business develops, we might go through a business transition, such as a merger, acquisition by another company, sale of all or a portion of our assets or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. You will be notified via a prominent notice on our site for 30 days of any such change in ownership or control of your personal information. You consent to the transfer of your personally identifiable information to any such successor entity unless you notify us via email to the contrary.
 
 #### Cookies
 
-A cookie is a small removable data file that is stored by our web browser on our computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. For example, we use cookies to:
+A cookie is a small removable data file that is stored by our web browser on our computer. Cookies are used by Oakley only to allow you to use OakleyÕs web site in the most efficient manner. Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. For example, we use cookies to:
 
   * Remember the items in your shopping basket
   * Recognize you when you return to our website
@@ -50,7 +58,7 @@ We will only send emails to you if you ask for them and you can easily unsubscri
 
 ### Direct Mail
 
-If you would like to update your mailing information or want your name and address removed from Oakley’s direct mailing list you can give us a call at (888) 426-0065 6am-6pm PST M-F and 7am-4pm PST on Saturdays.
+If you would like to update your mailing information or want your name and address removed from Oakley’s direct mailing list you can give us a call at (866) 907-5708 6am-6pm PST M-F and 7am-4pm PST on Saturdays.
 
 ### Children’s Privacy
 
@@ -66,10 +74,10 @@ Our website’s bunker security system is armed with a sentry system to monitor 
 
 ### Opt Out / Unsubscribe
 
-You may request to stop receiving communications from Oakley.com and OakleyVault.com at anytime. You can choose to cancel emails only, snail mail only or both by calling our customer care department at (888) 426-0065 6am-6pm PST M-F and 7am-4pm PST on Saturdays.
+You may request to stop receiving communications from Oakley.com and OakleyVault.com at anytime. You can choose to cancel emails only, snail mail only or both by calling our customer care department at (866) 907-5708 6am-6pm PST M-F and 7am-4pm PST on Saturdays.
 
 Please note you may still receive catalogs or emails for several weeks after your request is received.
 
 ### Updates to Privacy Information
 
-Please review the site periodically to see any updates to the information provided here. This privacy policy was last updated on January 15, 2008.
+Please review the site periodically to see any updates to the information provided here. This privacy policy was last updated on May 18, 2010.
