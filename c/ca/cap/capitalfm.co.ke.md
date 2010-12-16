@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120050901id_/http%3A//www.capitalfm.co.ke/radio/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalfm.co.ke privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216013835id_/http%3A//www.capitalfm.co.ke/radio/privacy.php) for the most accurate reproduction.*
 
-# Capital FM Kenya: Experience all round entertainment with the Latest in Kenyan Music, International Gossip, and Live Chat with our Radio show presenters
+# Capital FM Kenya
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we provide no guarantees and we do not admit any liability arising from unauthorised access or disclosure of your information.
 
