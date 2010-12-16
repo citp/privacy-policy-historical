@@ -1,70 +1,49 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2008-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080726191954id_/http%3A//www.epals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216193451id_/http%3A//www.epals.com/groups/about/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ePals, Inc. Privacy Policy
+# Privacy Policy - About ePals - ePals Global Community
 
-|  **ePals, Inc. Privacy Policy**
+[I. PRIVACY NOTICE FOR CHILDREN UNDER 13](http://www.epals.com/groups/about/pages/privacy-policy.aspx#under13)
 
-I. PRIVACY NOTICE FOR CHILDREN UNDER 13
+[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Epals,%20Inc.&sealid=105&ctv_group=Epals) [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Epals,%20Inc.&sealid=102&ctv_group=Epals)
 
-  * Parental Consent
-  
-
-  * What Information Do We Collect From Children?
-  
-
-  * How Do We Use the Information We Collect From Children?
-  
-
-  * Will ePals Share My Child's Personal Information with Third Parties?
-  
-
-  * How Can I Review, Change or Delete the Personal Information ePals has Collected From My Child?
-  
+  * [Parental Consent](http://www.epals.com/groups/about/pages/privacy-policy.aspx#consent)
+  * [What Information Do We Collect From Children?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#collect)
+  * [How Do We Use the Information We Collect From Children?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#use)
+  * [Will ePals Share My Child's Personal Information with Third Parties?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#share)
+  * [How Can I Review, Change or Delete the Personal Information ePals has Collected From My Child?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#personal)
 
 
 
-II. INFORMATION THAT WE COLLECT FROM INDIVIDUALS 13 YEARS OLD AND OVER
+[II. INFORMATION THAT WE COLLECT FROM INDIVIDUALS 13 YEARS OLD AND OVER](http://www.epals.com/groups/about/pages/privacy-policy.aspx#over13)
 
-  * What Information Do We Collect From Individuals 13 Years Old and Over?
-  
-
-  * How Do We Use Information that We Collect From Individuals Over the Age of 13?
-  
-
-  * Will ePals Share Teens' and Adults' Personal Information with Third Parties?
-  
+  * [What Information Do We Collect From Individuals 13 Years Old and Over?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#collect2)
+  * [How Do We Use Information that We Collect From Individuals Over the Age of 13?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#use2)
+  * [Will ePals Share Teens' and Adults' Personal Information with Third Parties?](http://www.epals.com/groups/about/pages/privacy-policy.aspx#share2)
 
 
 
-III. LINKS TO THIRD PARTY WEB SITES
+[III. LINKS TO THIRD PARTY WEB SITES](http://www.epals.com/groups/about/pages/privacy-policy.aspx#links)
 
-IV. COOKIES
+[IV. COOKIES](http://www.epals.com/groups/about/pages/privacy-policy.aspx#cookies)
 
-V. SECURITY PRACTICES
+[V. SECURITY PRACTICES](http://www.epals.com/groups/about/pages/privacy-policy.aspx#security)
 
-VI. NOTICE OF CHANGES TO THIS POLICY
+[VI. NOTICE OF CHANGES TO THIS POLICY](http://www.epals.com/groups/about/pages/privacy-policy.aspx#changes)
 
-VII. FOR MORE INFORMATION
+[VII. FOR MORE INFORMATION](http://www.epals.com/groups/about/pages/privacy-policy.aspx#information)
 
-**EFFECTIVE DATE:** JUNE 6, 2007
+EFFECTIVE DATE: July 15, 2009
 
 ePals, Inc. ("ePals") is committed to protecting the privacy of students, parents, and educators, while providing students and schools with a dynamic learning and teaching environment made possible by the Internet. This privacy policy addresses the online privacy practices of ePals. 
 
-**ePals offers the following products and services:**
+ePals offers the following products and services: 
 
- **
   * In2Books® is a research-proven, curriculum-based product for classroom and home use. The program fosters reading, writing, and critical thinking skills across the curriculum. Through the pairing of learners with mentor pen pals, In2Books® produces real dialogue and real learning.
-  
-
   * ePals' SchoolMail™ is the leading school-safe email product, enabling learners around the world to connect and collaborate.
-  
-
   * ePals' award-winning SchoolBlog™ product makes it easy to create and maintain safe blogs for schools and classrooms.
-  
-
   * The ePals Global Community™ is the largest online community of K-12 learners, enabling more than 120,000 classrooms across 191 countries to safely connect, exchange ideas, and collaborate.
-**
-****
+
+
 
 The privacy policy is divided into two sections - the first addressing information collected from users who are under 13 years of age; the second addressing information collected from all other users. While many of ePals' products and services are intended for students, these products and services also include significant involvement by parents, teachers, and other adults as well. This policy is applicable to all ePals products and services. 
 
@@ -78,9 +57,9 @@ We require a parent or guardian to consent before a child under the age of 13 ca
 
 For some ePals' products and services, teachers and school administrators may provide consent on behalf of parents. Parents should consult the school's Acceptable Use Policy for more information about the school's policies and practices for protecting children on the Internet. 
 
-Parents can provide consent by email, fax, or postal mail for their children to use the following ePals products and services: SchoolMail™, SchoolBlog™, and the Global Community™. Complete email instructions are provided in the parental consent form available at [ www.epals.com/privacy/forms](http://www.epals.com/privacy/forms/).
+Parents can provide consent by email, fax, or postal mail for their children to use the following ePals products and services: SchoolMail™, SchoolBlog™, and the Global Community™. Complete email instructions are provided in the parental consent form available at [www.epals.com/privacy/forms](http://www.epals.com/privacy/forms/).
 
-To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-703-885-3491 or mail it to: 
+To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-309-412-0018 or mail it to: 
 
 ePals Legal Department  
 13625-A Dulles Technology Drive  
@@ -93,11 +72,11 @@ We will seek consent from parents for their children to use In2Books® products 
 
 #### What Information Do We Collect From Children? 
 
-**For all ePals products and services (i.e., SchoolMail™, SchoolBlog™, In2Books®, and the Global Community™)** : we may collect the following types of personally identifiable information directly from children: first name; last name; date of birth; email address; ePals email address; password; nickname; IP address; grade level; mailing address; and parent's name and email address. We may also generate a login ID for the child that is different than the child's actual name. 
+For all ePals products and services (i.e., SchoolMail™, SchoolBlog™, In2Books®, and the Global Community™): we may collect the following types of personally identifiable information directly from children: first name; last name; date of birth; email address; ePals email address; password; nickname; IP address; grade level; mailing address; and parent's name and email address. We may also generate a login ID for the child that is different than the child's actual name. 
 
-We may also passively collect any personally identifiable information that children choose to post on our online forums as well as cookies from children's computers. Click here for more about cookies
+We may also passively collect any personally identifiable information that children choose to post on our online forums as well as cookies from children's computers. [Click here for more about cookies](http://www.epals.com/groups/about/pages/privacy-policy.aspx#cookies).
 
-**Non-Personally Identifiable Information** : We may collect certain non-personally identifiable information from visitors to our site, such as the date and time of their visit, the type of browser used (e.g., Netscape, Internet Explorer), the type of operating system used (e.g., Windows 2000 or Mac OS), the ISP from which the visitor receives Internet access, and aggregate information regarding what pages users of the site access or visit. 
+Non-Personally Identifiable Information: We may collect certain non-personally identifiable information from visitors to our site, such as the date and time of their visit, the type of browser used (e.g., Netscape, Internet Explorer), the type of operating system used (e.g., Windows 2000 or Mac OS), the ISP from which the visitor receives Internet access, and aggregate information regarding what pages users of the site access or visit. 
 
 We may also collect non-personally identifiable information from registered members (such as the member's favorite pet or favorite book) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. 
 
@@ -117,23 +96,19 @@ We may disclose personally identifiable and non-personally identifiable informat
 
 Here is how the consent process works: 
 
-  * **For the ePals' Global Community™, SchoolMail™ , and SchoolBlog™** , teachers and/or school administrators will provide consent on behalf of the parents whose children attend school in those districts. 
-  
-
-  * **For In2Books® programs** , consent will be obtained from parents, who have been notified about our information collection practices, and parents will be required to use a credit card to register a child for the program, or parents will receive an email from ePals/In2Books® asking for their consent. Parents will be asked to provide consent by email, or fax. If a parent provides email consent, ePals will follow up with a confirmatory email to the parent. 
+  * For the ePals' Global Community™, SchoolMail™ , and SchoolBlog™ , teachers and/or school administrators will provide consent on behalf of the parents whose children attend school in those districts. 
+  * For In2Books® programs, consent will be obtained from parents, who have been notified about our information collection practices, and parents will be required to use a credit card to register a child for the program, or parents will receive an email from ePals/In2Books® asking for their consent. Parents will be asked to provide consent by email, or fax. If a parent provides email consent, ePals will follow up with a confirmatory email to the parent. 
 
 
 
-Please note that by their very nature email accounts, greeting cards, chatrooms, blogs, message boards, and other interactive services allow children to disclose personally identifiable information (such as their real names, addresses or phone numbers) about themselves or others. We strive to prevent children from disclosing personally identifiable information through our products and services. For example, we caution children not to disclose this information while using our products and services, and we endeavor to monitor our online forums and use filters, among other things, in order to prevent this information from appearing in public areas such as blogs and chatrooms on the sites when we see it. However, these methods are not foolproof, and children may nevertheless still sometimes disclose personally identifiable information with their correspondents (e.g., in their exchange of letters in the In2Books® programs), and in our online forums. **Parents and teachers should advise their children and students not to share any personally identifiable or contact information online, even if such personal information is provided in correspondence only between individuals.**
+Please note that by their very nature email accounts, greeting cards, chatrooms, blogs, message boards, and other interactive services allow children to disclose personally identifiable information (such as their real names, addresses or phone numbers) about themselves or others. We strive to prevent children from disclosing personally identifiable information through our products and services. For example, we caution children not to disclose this information while using our products and services, and we endeavor to monitor our online forums and use filters, among other things, in order to prevent this information from appearing in public areas such as blogs and chatrooms on the sites when we see it. However, these methods are not foolproof, and children may nevertheless still sometimes disclose personally identifiable information with their correspondents (e.g., in their exchange of letters in the In2Books® programs), and in our online forums. Parents and teachers should advise their children and students not to share any personally identifiable or contact information online, even if such personal information is provided in correspondence only between individuals.
 
 #### How Can I Review, Change or Delete the Personal Information ePals has Collected From My Child? 
 
 You can review your child's personal information at any time. You can also have your child's personal information deleted and refuse to permit further collection of such information by us. If you wish to view, delete or modify this information: 
 
-  * **For ePals' Global Community™, SchoolMail™, and SchoolBlog™** : Members (including parents) can review, edit, or delete any personal information (such as their name, phone number, email or postal address) by logging in to the Global Community™, SchoolMail™, or SchoolBlog™ and going to the preferences or settings page. Parents can also request that a child's account be deleted at any time by contacting [ePals Support](https://web.archive.org/feedback/form/form.e). 
-  
-
-  * **For In2Books®** : Members (including parents) can log into their accounts on www.In2Books.com, click the "Manage Account" button in the navigation bar, and then click on the "Personal Information and Security" link under the My Children column. To protect your child's personal information, you will be required to enter a user name and password and answer an account security question. 
+  * For ePals' Global Community™, SchoolMail™, and SchoolBlog™ : Members (including parents) can review, edit, or delete any personal information (such as their name, phone number, email or postal address) by logging in to the Global Community™, SchoolMail™, or SchoolBlog™ and going to the preferences or settings page. Parents can also request that a child's account be deleted at any time by contacting [ePals Support](http://www.epals.com/feedback/form/form.e). 
+  * For In2Books®: Members (including parents) can log into their accounts on www.In2Books.com, click the "Manage Account" button in the navigation bar, and then click on the "Personal Information and Security" link under the My Children column. To protect your child's personal information, you will be required to enter a user name and password and answer an account security question. For more information, or if you need assistance, [submit your questions to customer support](http://in2books.epals.com/support/feedback.aspx).
 
 
 
@@ -143,23 +118,23 @@ Our privacy practices for data that we collect online from individuals 13 years 
 
 #### What Information Do We Collect From Individuals 13 Years Old and Over? 
 
-**For all ePals' products (i.e., SchoolMail™, SchoolBlog™, In2Books®, and the Global Community™)** : We may collect personally identifiable and non-personally identifiable information including, but not limited to: first and last name, date of birth, credit card information, security question and answer, nickname, information related to hobbies and preferences, email address, unique login name and password, home street address and/or telephone number, grade level, school name and address, and school telephone number. We may also generate a unique login ID for use on the ePals site. 
+For all ePals' products (i.e., SchoolMail™, SchoolBlog™, In2Books®, and the Global Community™): We may collect personally identifiable and non-personally identifiable information including, but not limited to: first and last name, date of birth, credit card information, security question and answer, nickname, information related to hobbies and preferences, email address, unique login name and password, home street address and/or telephone number, grade level, school name and address, and school telephone number. We may also generate a unique login ID for use on the ePals site. 
 
 Teachers who register on our site may create and post an online profile, with fields for name, school name, school URL (optional), grade level taught, range of ages of students, languages spoken, total number of students in the class, any additional communication capabilities (optional), school street address, and a brief description of their class(es) for matching purposes. The profile can be viewed by any visitor to the site, though only registered ePals members can attempt to make contact with the teacher who created the profile. It is our policy not to create profiles for any user identified by our system as being under 13 years old or identified as a student. 
 
-We may allow ePals' members 13 years old and over to refer friends to the site. If this feature is used, we will ask the member for the friend's name and email address. ePals will automatically send the friend a one-time email inviting them to visit the site. If the recipient chooses not to register, he or she may [contact ePals](https://web.archive.org/feedback/form/form.e) and ask us to remove his or her name and email address from our database. 
+We may allow ePals' members 13 years old and over to refer friends to the site. If this feature is used, we will ask the member for the friend's name and email address. ePals will automatically send the friend a one-time email inviting them to visit the site. If the recipient chooses not to register, he or she may [contact ePals](http://www.epals.com/feedback/form/form.e) and ask us to remove his or her name and email address from our database. 
 
-**Non-Personally Identifiable Information** : We may use non-personally identifiable information that we collect from users over 13 years old to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage. 
+Non-Personally Identifiable Information: We may use non-personally identifiable information that we collect from users over 13 years old to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage. 
 
 We may also collect non-personally identifiable information from registered members (such as the member's music tastes or hobbies) and match it to personally identifiable information (such as the member's name) in our database. Such combined information is kept in our internal database under the member's user name. We do not share such information with third parties, but we may use it for statistical purposes. 
 
 #### How Do We Use Information that We Collect From Individuals Over the Age of 13? 
 
-We may use the personally identifiable information that we collect online from users over the age of 13 to obtain parental, teacher or school administrator consent for children to use the service, to provide an interactive online experience (including interactive features such as greeting cards and chatrooms), to send newsletters, to make reading recommendations, to facilitate collaborative projects, to provide educational content that we believe that the child may be interested in or would benefit from, and to collect, fulfill, and bill for books, products or services. 
+We may use the personally identifiable information that we collect online from users over the age of 13 to obtain parental, teacher or school administrator consent for children to use the service, to provide an interactive online experience (including interactive features such as greeting cards and chatrooms), to send newsletters, to make reading recommendations, to facilitate collaborative projects, to provide educational content that we believe that the child may be interested in or would benefit from, to collect, fulfill, and bill for books, products or services, and to post testimonials. We receive permission before testimonials are posted on our site. 
 
 #### Will ePals Share Teens' and Adults' Personal Information with Third Parties? 
 
-Yes, but only in limited circumstances. We may disclose personally identifiable and/or non-personally identifiable (i.e., aggregate, anonymous) information for educational research purposes. In addition, we may share such information with affiliates, trusted technology partners, and third party vendors who generate educational content, provide customer service or billing functions, process parental consents, and/or monitor online forums/chatrooms. These third parties have agreed to maintain the confidentiality, security and integrity of personally identifiable information. 
+Yes, but only in very limited circumstances. We may disclose personally identifiable and/or non-personally identifiable (i.e., aggregate, anonymous) information for educational research purposes. In addition, we may share such information with affiliates, trusted technology partners, and third party vendors who generate educational content, provide customer service or billing functions, process parental consents, and/or monitor online forums/chatrooms. These third parties have agreed to maintain the confidentiality, security and integrity of personally identifiable information. 
 
 ### III. LINKS TO THIRD PARTY WEB SITES
 
@@ -191,8 +166,8 @@ ePals Legal Department
 13625-A Dulles Technology Drive  
 Herndon, VA 20171  
 Phone: (703) 885-3401  
-[Contact ePals](http://www.epalscorp.com/contact.html)
+[Contact ePals](http://corp.epals.com/company/contact-us.php)
 
-[](https://web.archive.org/resc/resc.e/?url=/askepals/?ref=askepals_728x90f2b&ads_askepals_728x90_2bb.jpg)
+ePals, Inc. is a Participant in the TRUSTe Children's Online Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the site www.in2books.com and www.ePals.com.
 
-| 
+If you have questions or concerns regarding this statement, you should first contact us at <http://corp.epals.com/company/contact-us.php>. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
