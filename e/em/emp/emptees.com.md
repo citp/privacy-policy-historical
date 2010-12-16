@@ -1,67 +1,82 @@
-> *The following text is extracted and transformed from the emptees.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407032014id_/http%3A//www.emptees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptees.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216213041id_/http%3A//www.emptees.com/privacy) for the most accurate reproduction.*
 
 # Emptees - Privacy Policy
 
-#### Last updated 8/28/07
+Indie Labs, LLC ("Indie Labs", "we" or "us") takes your privacy seriously. Please read this Privacy Policy, which describes the types of information we collect through emptees.com (the "Site"), and how we use that information.
 
-Indie Labs, LLC, creators of Emptees (emptees.com), here forward referred to as ("Indie Labs", "we", "us") shares your concerns about the protection of your personal information online. This Privacy Policy ("Policy") describes our practices regarding the collection and use of information through our website Emptees, located at www.emptees.com (here forward referred to as the "Site"). By using the Site or obtaining any product or service through this Site, you agree to the collection and use of information as set forth in this Policy. If you do not agree to this Policy, you may not use our Site.
+Effective Date: May 19, 2010
 
-We may from time to time update this Policy. We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Effective Date of Current Policy" legend at the top of the Policy.
+## Overview
 
-### Information we collect
+This Privacy Policy is incorporated into and subject to the terms of the Site’s [Terms of Service Agreement](https://web.archive.org/terms). This Privacy Policy covers Indie Labs’ treatment of personally identifiable information ("Personal Information") and other non-personally identifiable information that we gather when you access the Site and when you register to receive services from Indie Labs (the "Services"). By visiting the Site or using the Services, you expressly acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to our use and disclosure of your Personal Information in the manner described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or the Services. If you have questions regarding this Privacy Policy, you may contact us at [contact (at) indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d).
 
-We collect non-personally identifiable information. When visitors come to our Site, we collect and aggregate information indicating, among other things, which pages of the Site were visited, the order in which they were visited and which links were "clicked." Collecting such information involves logging the IP addresses, operating system and browser software used by each visitor to the Site. Although such information is not personally identifiable, it may be possible to determine from an IP address a visitor’s Internet Service Provider and the geographic location of the visitor’s point of connectivity.
+## Information We Collect
 
-We also use "cookies" and other tracking technologies to collect non-personally identifiable information regarding you. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser. Cookies make it possible for us to recognize your browser when you visit our Site. By doing this, we can personalize your return visits and save you time during checkout. Your browser must be set to accept cookies in order for you to enjoy the benefits of being a registered user of the Site.
+If you choose to use the Site or the Services, we may require you to provide contact and identity information, billing information, and other Personal Information as indicated on the Site. Once you register on the Site, you are no longer anonymous to us. The information that we gather from you through the Site enables us to provide, maintain and improve the Site and the Services, personalize your experience, process your requests, and process the requests of others, and includes the following information:
 
-We also collect personally identifiable information. In general, our Site uses a registration form so that you can participate with other users on the Site. This forms requires that you provide us with personally identifiable information (such as your name and email address).
+  * Personal Information that you provide to us or otherwise disclose or post in connection with the Site or the Services, including the following: 
+    * Your name, address, email address, and other basic contact information;
+    * Your preferences, content, mobile device information, and credit card information;
+    * Discussion board posts, including photographs, videos and other content; and
+    * Communications and other messages, including correspondence between Indie Labs and you.
+  * Non-personally identifiable information that we gather on the Site, including your IP address, computer sign-on data, statistics on page views, traffic to and from the Site and individual pages on the Site and data that we may collect through cookies or other means. You can take steps to disable cookies on your browser; however, this may affect your ability to use the Site.
+  * General information regarding the Services you have registered to receive.
 
-### How we use collected information
 
-Please take some time to familiarize yourself with the different ways that Indie Labs uses the information that we gather. Keep in mind that, while we encourage all third parties involved in running our business to adhere to our policies regarding the privacy of our visitors and to otherwise handle personally identifiable information in a responsible manner, however we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from Indie Labs or independently.
 
-### Non-personally identifiable information
+## Our Use and Disclosure of Your Information
 
-Indie Labs uses non-personally identifiable information, such as your IP address and the pages that you visit on our Site, to help diagnose problems with our servers and to administer our Site and improve Site-related services and features. Your IP address and other non-personally identifiable information also may be used to gather broad demographic information and to recognize customer traffic patterns and Site usage trends. This information aids us in developing the design and layout of the Site.
+We may use your Personal Information to:
 
-We also may share aggregated statistical data and other non-personally identifiable information with our current and potential business partners, and with our service providers.
+  * provide the Services and products;
+  * resolve disputes, calculate and collect fees, and troubleshoot problems;
+  * verify users’ identity and the information users provide;
+  * encourage a safe online experience and enforce our policies;
+  * customize users’ experience, analyze usage of the Site, improve and measure interest in our Services, and inform users about Services, products and updates;
+  * provide users with information that may affect their use of the Site, the Services and products;
+  * communicate marketing and promotional offers to our users;
+  * provide customer service; and
+  * perform certain other business activities.
 
-### Personally identifiable information
 
-Indie Labs uses personally identifiable information collected from you to get in touch with you when necessary. We may also use personally identifiable information to contact you to make sure you are satisfied with our services or to find out how we can serve you better.
 
-You may, from time to time, receive information from us regarding new features, new products and services and special offers we think you'll find valuable.
+During the course of our business, we may use your Personal Information to deliver information to you that is targeted to your interests. Upon receipt of the first communication of this type, you will have the opportunity to opt-out of future communications by clicking on unsubscribe link or by following unsubscribe instructions described within the communication. If you do not want to receive email or other communications from us, you can also contact us at [contact (at) indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d). However, as part of your registration for the Services, you may receive certain communications from Indie Labs, such as administrative announcements and customer service messages regarding the Services and products, and you will not be able to opt out of receiving such communications.
 
-Other types of use by us of personally identifiable information are discussed below.
+From time to time, we may implement solutions designed to more efficiently capture your communications preferences. In any such event, we will strive to reflect any previously stated communicated preferences within such solutions.
 
-### Service Providers
+We do not sell or rent your Personal Information to third parties for their marketing purposes without your explicit consent. We may share and you hereby consent to our sharing of personal information with the following:
 
-We work with third parties who provide services, including but not limited to website hosting, e-commerce affiliation, data analysis, emailing and other services of an administrative nature.
+  * Corporate affiliates to help coordinate the Services or products we provide to you, enforce our Terms of Service and other agreements and to promote trust and safety.
+  * Service providers and others who help with our business operations and assist in the delivery of the Services and other products to our users. Examples include, but are not limited to, the following: maintaining servers, sending email, removing repetitive information from user lists, analyzing data, providing marketing assistance, processing payments, reviewing content and providing customer service. Unless we tell you differently, such service providers and other companies and people do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
+  * Third parties if we believe that disclosure is advisable or necessary to comply with the law, to enforce or apply our conditions of use and other agreements, or to protect the rights, property or safety of Indie Labs, our employees, our users or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * Entities who acquire Us or assets from Us. In some cases, we may choose to buy or sell assets. In these types of transactions, user information, including your Personal Information, is typically one of the business assets that are transferred. Moreover, if Indie Labs, all or our assets or the Site were acquired, or in the unlikely event that Indie Labs goes out of business or enters bankruptcy, user information, including your Personal Information, would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Indie Labs, our assets or the Site may continue to use your Personal Information as set forth in this Privacy Policy.
+  * Persons or entities with whom you consent to have your Personal Information shared. For instance, when you request information, Services or products from us, from our affiliates or a third party through us, or when you post information to the Site, you provide your consent for us to share that information with others. Please note that whenever you post information on or through the Site you are giving us your consent to share that information with third parties.
+  * Other users of the Site. Some information about you, your account on the Site, your account activity and, if applicable, your Store will be provided to or otherwise accessible by other users of the Site. This may include the date you last logged into your account, pages that you have visited, your location, your preferences and other information that you choose to make public. Your user name, but not your email address, may be displayed to other users of the Site when you engage in certain activities or indicate certain preferences on the Site. Other users may be able to contact you, and you may be able to contact other users, through the Site.
 
-Further, we may use selected reputable third parties for marketing, targeting and analysis purposes. Some of these third parties may be given access to some, or all, of the information that you provide to us and may use cookies or other tracking technologies in connection with providing their services. To the extent that we provide your personally identifiable information to such third parties, we seek to restrict their ability to use such information for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties.
 
-### Sale of Our Company
 
-As a natural consequence of the development of our company, we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information that we have collected may be transferred to the new company.
+## Third Party Websites & User Files
 
-### Online Surveys
+Emails from Indie Labs or its business partners, and the Site itself, may contain links to other Internet websites, including sites that may or may not be owned or operated by Indie Labs. You may also be able to access data, content, code, files or other material in any form that users post to the Site ("User Files") on or through the Site. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such websites and User Files, including the use of any information collected when email recipients or the Site’s visitors click through links to those sites or click on or download User Files. If you visit such websites or use User Files, we encourage you to become familiar with the applicable privacy practices and any terms of use.
 
-Indie Labs sometimes administers online surveys in connection with the Site in which we ask you for demographic information and opinions. We do not ask you for personally identifiable information as part of a survey. We use the collected survey data on an aggregated basis to better understand the needs of all of our customers.
+## Accessing, Reviewing and Changing Your Personal Information
 
-### Non-marketing uses
+If you are registered to receive Indie Labs Services, you can access, review and modify your personal information at any time by logging into your account on the Site. Please note, however, that we may maintain a copy of the unmodified information in our records.
 
-Indie Labs may send to you periodic announcements regarding status updates, service changes concerning the Site and other administrative matters.
+If You post messages using the Site’s community discussion boards or other message areas that may be made available on the Site, it will not be possible to later edit or delete those messages.
 
-Subject to applicable law, we reserve the right to release information concerning any Site visitor where such visitor is believed to be in violation of his or her obligations to us, is partaking (or is suspected of partaking) in any illegal activity, in response to civil subpoenas and discovery requests, to protect the interests of Indie Labs, our customers or others, and as otherwise permitted or required by law.
+You may contact us at [contact (at) indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d) to review any Personal Information we store about you that is not available on the Site. There may be a charge associated with such requests.
 
-### Third party websites
+We may delete Personal Information when we no longer need it for the purposes we described earlier. However, any information that you have made public may continue to be displayed unless you remove it. Additionally, We retain Personal Information as permitted by law to resolve disputes, enforce our policies, and help prevent bad guys from coming back.
 
-Emails from Indie Labs or its business partners, and the Site itself, may contain links to other Internet websites, including sites that may or may not be owned or operated by Indie Labs. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such websites, including such sites’ use of any information (such as IP number, browser type or operating system) collected when email recipients or Site visitors click through links to those sites. If you visit such websites, we encourage you to become familiar with the privacy practices of the sites.
+## Policy Toward Children
 
-### Storage of Information
+Indie Labs is concerned about the safety and privacy of children who use the Internet. Consistent with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request Personal Information from anyone less than 13 years of age without prior verifiable parental consent. If you become aware that your child under 13 years of age has provided us with Personal Information without prior verifiable parental consent, please contact us at [contact (at) indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d) and we will use our best efforts to promptly remove such information from our files.
 
-Indie Labs seeks to use reasonable security measures to help protect against the loss, misuse and alteration of personally identifiable information that is under our control. Unfortunately, no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure. As a result of the foregoing, while we seek to protect your personally identifiable information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and Indie Labs servers, or any information provided to us or to any third party through or in connection with the Site. You provide all such information at your own risk.
+## Notification of Changes
 
-### Contact Us
+We may amend this Privacy Policy at any time by posting the amended terms on the Site. In the event of amendment, all terms shall become effective immediately upon posting to the Site.
 
-If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, please contact: [contact [at] indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d)
+## Questions or Concerns
+
+If you have any questions or concerns regarding privacy at the Site, please send a detailed message to [contact (at) indielabs.com](mailto:%63%6f%6e%74%61%63%74@%69%6e%64%69%65%6c%61%62%73.%63%6f%6d). We will make every effort to resolve your concerns.
