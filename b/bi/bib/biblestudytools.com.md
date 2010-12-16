@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblestudytools.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209040434id_/http%3A//www.biblestudytools.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblestudytools.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216211140id_/http%3A//www.biblestudytools.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Bible Study Tools
 
@@ -44,3 +44,9 @@ Sometimes Salem posts optional, voluntary surveys in which we ask for personally
 
 **Contests and Sweepstakes**  
 From time to time runs voluntary contests and sweepstakes in which we ask for personally identifiable information such as your name, age, email address, or telephone number. That's so we can determine if you're eligible for the contest and to let you know if you win. Sometimes we request additional information such as your gender, marital status and income level. Here are some of the ways we might use the information that we collect:
+
+Free Newsletters
+
+To receive email newsletters, updates, and special offers from BibleStudyTools, select your newsletter(s), enter your email address and hit "Subscribe".
+
+[Privacy Policy](https://web.archive.org/web/20101216211140id_/http://www.biblestudytools.com/about-us/privacy-policy/) / [Terms of Use](https://web.archive.org/web/20101216211140id_/http://www.biblestudytools.com/about-us/terms-of-use/)
