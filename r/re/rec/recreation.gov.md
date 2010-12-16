@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011801id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216161859id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.*
 
 # New Document
 
@@ -34,7 +34,7 @@ Registered users may opt to receive links to other sites we think you will enjoy
 
 ### Secure Server
 
-This site uses the latest technology to ensure your personal and payment information is handled with confidentiality and security. Any personal information you provide through this Web site is encrypted through secure server technology using Secure Socket Layers (SSL). Once encrypted, this information travels from your computer to our servers. Only after your information reaches our servers, is your information decrypted and transferred to the NRRS™ reservation system. This technology ensures the security of your information. 
+This site uses the latest technology to ensure your personal and payment information is handled with confidentiality and security. Any personal information you provide through this Web site is encrypted through secure server technology using Secure Socket Layers (SSL). Once encrypted, this information travels from your computer to our servers. Only after your information reaches our servers, is your information decrypted and transferred to the NRRS� reservation system. This technology ensures the security of your information. 
 
 ### DISCLAIMER AND LIABILITY NOTICE
 
