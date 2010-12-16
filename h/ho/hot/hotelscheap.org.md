@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscheap.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619142010id_/http%3A//www.hotelscheap.org/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscheap.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216193315id_/http%3A//hotelscheap.org/service/privacy) for the most accurate reproduction.*
 
 # Hotels Cheap - Privacy Policy
 
