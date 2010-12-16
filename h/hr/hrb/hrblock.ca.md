@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210224747id_/http%3A//www.hrblock.ca/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216210609id_/http%3A//hrblock.ca/legal/privacy.asp) for the most accurate reproduction.*
 
 # H&R BLOCK Canada - Privacy Policy
 
@@ -30,7 +30,7 @@ As your trusted tax and financial advisor we want to help keep you informed. To 
 
 **Of course, we believe that you should have choices.**
 
-If you do _not_ want to receive additional financial or tax-related information, including information about available financial or tax-related services please contact us through the telephone number or email address listed below. H&R Block will continue to provide you with necessary account information and your yearly tax reminder notice.
+If you do **not** want to receive additional financial or tax-related information, including information about available financial or tax-related services please contact us through the telephone number or email address listed below. H&R Block will continue to provide you with necessary account information and your yearly tax reminder notice.
 
 **We only disclose the personal information we collect in limited circumstances.**
 
@@ -39,7 +39,6 @@ We never disclose your personal information to third parties except as described
   * to service providers employed or retained by us or the H&R Block Group to perform certain services or functions on our behalf, such as billing, processing of credit card transactions, data processing, collection or research services. In these cases, we restrict their use of your personal information to what is necessary to act on our behalf; 
   * within the H&R Block Group and to strategic financial services associates to deliver or provide a product or service you have requested, including Instant Cash Back; 
   * within the H&R Block Group and to strategic financial services associates so that they may offer you products and services which may be of interest to you (though you may of course choose not to receive these materials, in which case your information will not be disclosed);
-
   * to franchisees, where you have requested services in an area serviced by an H&R Block franchise; and 
   * in the event of a sale or transfer of our business or assets. 
 
@@ -65,8 +64,7 @@ You have the option, at any time, to call 1-800-561-2154 or e-mail us at [custom
 
 In addition, you can refuse to provide personal information to us and you may also at any time, on reasonable notice to us, in person or via telephone or email, withdraw your consent to any of our collection, use or disclosure of your information, unless it is required to provide you with the services you have requested or to provide you with necessary information relating to your accounts with us or as required by law.
 
-If you require further information about H&R Block's privacy policies or practices, or to access or update your personal information, please contact us at the phone number or e-mail address listed above.   
-
+If you require further information about H&R Block's privacy policies or practices, or to access or update your personal information, please contact us at the phone number or e-mail address listed above.
 
 **Changes to our policy.**
 
