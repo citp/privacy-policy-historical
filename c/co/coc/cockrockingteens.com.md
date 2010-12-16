@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockrockingteens.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201022059id_/http%3A//littlelara.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockrockingteens.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216023452id_/http%3A//cockrockingteens.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -29,6 +29,9 @@ How is this Information Used?
 We may use cookies and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. 
 
 We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.   
+
+
+We may also send you promotions/offers via email from time to time using the data you provided while joining one of our sites. The data collected while joining one of our sites belongs to us, and we do not share any Personal or Financial Data with any third parties. Personal Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information)    
 
 
 You Are Responsible For Information You Provide to Third Parties   
