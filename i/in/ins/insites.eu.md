@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insites.eu privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421084305id_/http%3A//www.insites.eu/InSites/Privacy-Statement/page.aspx/142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insites.eu privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216175944id_/http%3A//insites.eu/InSites/Privacy-Statement/page.aspx/142) for the most accurate reproduction.*
 
 # Privacy Statement - InSites Consulting
 
