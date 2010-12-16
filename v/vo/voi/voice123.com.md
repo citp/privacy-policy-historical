@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011005id_/http%3A//about.voice123.com/voice/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216161552id_/http%3A//about.voice123.com/voice/content/privacy_policy) for the most accurate reproduction.*
 
 # Voice123 Privacy Statement
 
 **Scope**
-
-[ ](http://www.truste.org/ivalidate.php?url=www.voice123.com&sealid=101)Voice123, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site Voice123. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [help@voice123](mailto:%20help@voice123.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [Truste](https://www.truste.org/pvr.php?page=complaint) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 This Privacy Policy describes how we handle your personal information for our services on the Voice123.com website. It applies generally to the Voice123.com website and other related websites where this policy appears in the footer of the page (“the Sites”). Some Voice123-branded websites, Voice123-sponsored, or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears in the footer of each website.
 
@@ -154,14 +150,3 @@ The Site may provide hyperlinks to third party Web sites or access to third part
 We may amend this Privacy Policy at any time by posting the amended terms on the Site. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 If you have any questions you can answer them online, you may write to us at: Voice123, LLC - P.O.BOX 1167 Secaucus, NJ, 07096 USA, or by clicking on the “Contact Us” link at [about Voice123](https://web.archive.org/).
-
-**
-
-Note:
-
-**
-
-This Privacy Policy applies with Truste for the Voice123.com domain and its subdomains.
-
-  
-
