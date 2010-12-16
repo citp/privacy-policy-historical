@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011101id_/http%3A//www.directorypress.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216162611id_/http%3A//www.directorypress.net/privacy) for the most accurate reproduction.*
 
 # DirectoryPress - Privacy Policy
 
@@ -26,4 +26,13 @@ You should be aware, however, that any information that you disclose in a public
   * Changes to this policy and questions about privacy. 
     * DirectoryPress reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to: [mark@markfail.com](mailto:mark@markfail.com).
 
+
+
+> What our customers have to say...
+> 
+> Fantastic piece of software.
+> 
+> **Mark -** | [ bouncycastlehire-uk.co.uk](http://bouncycastlehire-uk.co.uk/ "bouncycastlehire-uk.co.uk")
+
+  
 
