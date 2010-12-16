@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostrail.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515095511id_/https%3A//hostrail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostrail.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216215408id_/https%3A//hostrail.com/privacy.php) for the most accurate reproduction.*
 
 # HostRail - Privacy Policy
 
