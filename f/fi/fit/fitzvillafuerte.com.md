@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110132853id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216054238id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,12 +20,10 @@ This Web site contains links to other sites. Please be aware that I am not respo
 I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense and Nuffnang Philippines. Please check their websites for respective privacy policies.
 
 **Google and the[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)**  
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Affiliates**  
 I am also an affiliate for Paypal, dNeero Social Surveys, Amazon Associates and many other affiliate marketing companies. I do not have control over their privacy practices so I would advise that before you sign up for an account in these companies, please check their websites for their respective privacy statements.
 
 **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://fitzvillafuerte.com/contact "Contact Fitz").
-
-**Share This Article To Others:**
