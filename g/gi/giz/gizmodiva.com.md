@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411202926id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216121420id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   
----|---  
-  
 User Information
 
 Information We Collect
@@ -68,21 +65,18 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 
 by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:19 AM in [Other Stuff](http://www.gizmodiva.com/other_stuff/) | [**Comments** ()](http://www.gizmodiva.com/other_stuff/privacy_policy.php#comments)
 
-  
-
-
 ## Reader Comments
 
 [blog comments powered by ](http://disqus.com/)
 
 ## Recent Entries
 
-  * [Gizmodiva asks…how true are you to yourself? ](http://www.gizmodiva.com/other_stuff/gizmodiva_askshow_true_are_you_to_yourself.php)
-  * [Rawlings Recordable Autograph Ball gets you autographs and voice messages](http://www.gizmodiva.com/home_gadgets/rawlings_recordable_autograph_ball_gets_you_autographs_and_voice_messages.php)
-  * [USB Karaoke Mute-Mic absorbs horrible singing](http://www.gizmodiva.com/home_gadgets/usb_karaoke_mutemic_absorbs_horrible_singing.php)
-  * [The Book Belt eliminates the need for bags](http://www.gizmodiva.com/other_stuff/the_book_belt_eliminates_the_need_for_bags.php)
-  * [Bandai is out with iPad version of Pac-Man](http://www.gizmodiva.com/home_gadgets/bandai_is_out_with_ipad_version_of_pacman.php)
-  * [Sleep Scan by Tanita evaluates your sleep](http://www.gizmodiva.com/home_gadgets/sleep_scan_by_tanita_evaluates_your_sleep.php)
-  * [Samsung announces funky and colorful accessories for its N150 and X170 Notebooks](http://www.gizmodiva.com/home_gadgets/samsung_announces_funky_and_colorful_accessories_for_its_n150_and_x170_notebooks.php)
+  * [Christian Louboutin Louis Spikes Sneakers…Comfy and Cool](http://www.gizmodiva.com/fashion/christian_louboutin_louis_spikes_sneakerscomfy_and_cool.php)
+  * [Boox Store Boxes makes you look Intelligent, Tidy and Organized all at Once](http://www.gizmodiva.com/other_stuff/boox_store_boxes_makes_you_look_intelligent_tidy_and_organized_all_at_once.php)
+  * [iPhone Horn Stand…Pump it Up](http://www.gizmodiva.com/home_gadgets/iphone_horn_standpump_it_up.php)
+  * [Bloom Chair holds the Rich Only](http://www.gizmodiva.com/home_improvement/bloom_chair_holds_the_rich_only.php)
+  * [Who wouldn’t wanna drive this Wooden Car?](http://www.gizmodiva.com/wheels/who_wouldnt_wanna_drive_this_wooden_car.php)
+  * [Samsung and Lily Allen team up for a Super Stylish Notebook](http://www.gizmodiva.com/home_gadgets/samsung_and_lily_allen_team_up_for_a_super_stylish_notebook.php)
+  * [Circuitboard Coasters save your Furniture from Stains](http://www.gizmodiva.com/home_improvement/circuitboard_coasters_save_your_furniture_from_stains.php)
 
 
