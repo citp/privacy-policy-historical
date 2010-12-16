@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504170428id_/http%3A//newspaperarchive.com/HtmlViewer.aspx%3Fctl%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216174322id_/http%3A//newspaperarchive.com/HtmlViewer.aspx%3Fctl%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # NewspaperARCHIVE.com - Search Old Newspaper Articles Online
 
-[](https://web.archive.org/web/20100504170428id_/http%3A//newspaperarchive.com/FreePdfViewer.aspx?img=33985189) **Oakland Tribune**  
+[](https://web.archive.org/web/20101216174322id_/http%3A//newspaperarchive.com/FreePdfViewer.aspx?img=33985189) **Oakland Tribune**  
 Friday, April 5, 1968
 
 "President Johnson today proclaimed Sunday a national day of mourning for Dr. Martin Luther King..." 
@@ -87,5 +87,5 @@ NewspaperArchive.com may occasionally run contests or other special promotions o
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact: 
 
 **NewspaperARCHIVE.com  
-4069 21st Avenue SW  
+4049 21st Ave SW  
 Cedar Rapids, IA 52404**
