@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaicanada.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604055820id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaicanada.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216191127id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hyundai Privacy Policy
 
