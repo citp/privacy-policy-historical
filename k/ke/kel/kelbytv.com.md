@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the kelbytv.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628122745id_/http%3A//kelbytv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbytv.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216115753id_/http%3A//kelbytv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kelby TV
 
-**OUR PRIVACY PLEDGE**
-
+**OUR PRIVACY PLEDGE**  
 This Privacy Policy applies to and is provided on behalf of Layers Magazine, L.L.C. and the Kelby Media Group family of companies (collectively referred to as "We," "Us," or "Our") and describes Our information gathering practices and policies in connection with this Site. We value your ("User," "You," or "Your") privacy and recognize the sensitivity of Your personal information. We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities. Use of this Site constitutes consent to Our collection and use of personal data as outlined herein.
 
-**COLLECTION AND USE OF PERSONAL INFORMATION FROM SITE USERS**
-
+**COLLECTION AND USE OF PERSONAL INFORMATION FROM SITE USERS**  
 We collect personally identifiable information from Users who provide it to us a voluntary basis. For example, We may collect Your name, street address, city, state, zip code, telephone number, email address, and possibly financial information, such as a credit card number, if You use the Site to register or renew a membership, register for an event or conference, subscribe to a newsletter or publication, order publications, request information, send a contribution, complete a survey or enter a contest, submit photographs, articles or manuscripts for posting or review. We may use this information to contact You regarding the status of Your membership, registrations, subscriptions, and orders placed, and to alert You to new information, products and services, events and other opportunities. We recognize that You may wish to limit the ways in which You are contacted and provide You with opt-out options below. Information about Our experiences and transactions with you, such as your payment history, types of services and/or products you purchased from us may be shared within the Kelby Media Group family of companies.
 
 We will not disclose to third parties (that is, people and companies that are not affiliated with Us) individually identifying information, such as names, postal and e-mail addresses, telephone numbers, and other personal information, except to the extent that it is necessary to process and provide You with Your order, subscription request or other request. Your contact information may also be provided to the extent necessary to comply with applicable laws or legal processes (e.g., subpoenas), or to protect Our rights or property. We will cooperate with all law enforcement authorities.
@@ -34,16 +32,11 @@ We maintain physical, electronic and procedural safeguards to prevent the unauth
 
 This Privacy Policy may be updated periodically and posted on this Site. It applies only to Our online practices and does not encompass other areas of the organization. We reserve the right to change this Policy at any time by posting revisions. By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site's Users. If You have any questions about this Policy, You may telephone, email, or write to:
 
-Kristen Kupniewski
-
-Executive Assistant
-
-National Association of Photoshop Professionals, Inc.
-
-333 Douglas Road East
-
+Kelby Media Group  
+ATTN: Privacy Policy Administrator  
+333 Douglas Road East  
 Oldsmar, FL 34677
 
-Tel. 813-749-4000
+Tel. 813.749.4000 x152
 
-KristenK@photoshopuser.com
+[privacy@kelbymediagroup.com](mailto:privacy@kelbymediagroup.com)
