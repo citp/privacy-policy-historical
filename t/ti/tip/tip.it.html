@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tip.it privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618054616id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tip.it privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216170000id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -19,14 +19,31 @@ RuneScape is a registered trademark of Jagex Ltd.
 
 <link rel="SHORTCUT ICON" href="http://www.tip.it/favicon.ico">
 <link rel="alternate" title="Tip.It News" type="application/rss+xml" href="inc/rss_news.xml">
-<link rel="alternate" title="Runescape News" type="application/rss+xml" href="inc/rss_runescape.xml">
+<link rel="alternate" title="Runescape News" type="application/rss+xml" href="http://services.runescape.com/m=news/latest_news.rss">
 <link rel="alternate" title="Tip.It Times" type="application/rss+xml" href="inc/rss_times.xml">
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<!--<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1669705-1";
 urchinTracker();
+_uff = 0;
+_uacct = "UA-6906304-2";
+</script>-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1669705-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['b._setAccount', 'UA-6906304-2']);
+  _gaq.push(['b._trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 <script language="javascript" type="text/javascript" src="scripts/index.js"></script>
@@ -34,7 +51,7 @@ urchinTracker();
 <script language="JavaScript" type="text/javascript">
 <!--
 /* Pre-loads images for layout */
-var images = new Array("styles/images/strip.gif","styles/images/left_bar.gif","styles/images/bar.gif","styles/images/news_bar_2.gif","styles/images/paypaldonate.gif");
+var images = new Array("styles/images/xmas_strip.gif","styles/images/xmas_left_bar.gif","styles/images/bar.gif","styles/images/news_bar_2.gif","styles/images/paypaldonate.gif");
 var preload = new Array ();
 for(var i=0; i < images.length; i++ )
 { preload[i] = new Image(); preload[i].src = images[i]; }
@@ -73,15 +90,18 @@ function scrollHash() {
 </script>
 <title>Tip.it RuneScape Help :: Privacy :: The Original RuneScape help site!</title>
 <!--Do not remove media attributes from links-->
-<link rel="stylesheet" type="text/css" href="styles/print.css" media="print">
-<link rel="stylesheet" type="text/css" href="styles/tip.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="styles/blue.css" media="screen, projection">
+<link rel="stylesheet" type="text/css" href="styles/print.css?v=1116888945" media="print">
+<link rel="stylesheet" type="text/css" href="styles/xmas_tip.css?v=1281972296" media="screen, projection">
+
+<link rel="stylesheet" type="text/css" href="styles/xmas_blue.css?v=1281972295" media="screen, projection"><link rel="stylesheet" type="text/css" href="styles/tip/jquery-ui-1.8.2.custom.css" media="screen, projection">
+<link rel="stylesheet" type="text/css" href="styles/slimbox2.css?v=1292381039" media="screen, projection">
+
 <script language="javascript" type="text/javascript" src="inc/poll.js"></script>
 </head>
 
 <body>
 <!-- Logo pic in top left -->
-<div id="topleft"><a href="/runescape/"><img src="styles/images/top_left.gif" height="165" width="184" alt="Tip.It!" border="0"></a></div>
+<div id="topleft"><a href="/runescape/"><img src="styles/images/xmas_top_left.gif" height="165" width="184" alt="Tip.It!" border="0"></a></div>
 
 <!-- Links along top strip -->
 <div id="toplinks">
@@ -145,7 +165,7 @@ function scrollHash() {
 <li><a href="?page=achievement_diary.htm">Diaries</a></li>
 <li><a href="?page=guild_guides.htm">Guild Guides</a></li>
 <li><a href="?page=monster_hunting.htm">Monster Hunting</a></li>
-<li><a href="?page=treasure_trails.htm">Treasure Trails</a></li>
+<li><a href="?page=treasure_trails_menu.htm">Treasure Trails</a></li>
 
 <li class="subheading">TOOLS</li>
 <li><a href="?page=skill_calculators.htm">Skill Calculators</a></li>
@@ -168,8 +188,9 @@ function scrollHash() {
 <li class="subheading">INFO</li>
 <li><a href="?page=beginners_guide.htm">Beginner's Basics</a></li>
 <li><a href="?page=security_centre.htm">Security Centre</a></li>
-<li><a href="?smithing_table">Smithing Tables</a></li>
-<li><a href="summoning_table.php">Summoning Tables</a></li>
+<li><a href="construction_table.php">Construction Table</a></li>
+<li><a href="?smithing_table">Smithing Table</a></li>
+<li><a href="summoning_table.php">Summoning Table</a></li>
 <li><a href="?page=new_members_P2P_guide.htm">New P2P Members</a></li>
 
 </ul>
@@ -184,14 +205,13 @@ function scrollHash() {
 <li><a href="?page=forum_guide.htm">Forum User Guide</a></li>
 <li><a href="?page=chat.htm">Chat</a></li>
 <li><a href="?page=jagex.htm">Jagex Page</a></li>
-<li><a href="http://lotro.tip.it/">LOTRO Tips</a></li>
 </ul>
 
 <h1>SITE INFO</h1>
 <ul>
 <li><a href="?page=about.htm">About</a></li>
 <li><a href="?page=faq.htm">FAQ</a></li>
-<li><a href="?page=staff.htm">Staff List</a></li>
+<li><a href="?stafflist">Staff List</a></li>
 <li><a href="?page=privacy.htm">Privacy Policy</a></li>
 <li><a href="/rsc/">RS Classic</a></li>
 </ul>
@@ -267,7 +287,7 @@ function scrollHash() {
 
         <div class="graybox">
           <div class="poll">
-            <script language="javascript" type="text/javascript">poll_write();</script><h1>Which is your favorite in-game dog?</h1><form action="index.php"><input type="hidden" name="poll" value="vote"><input type="hidden" name="poll_id" value="205"><table width="100%" cellspacing="1" cellpadding="0"><tbody><tr><td width="10"><input type="radio" name="Answer" value="1" id="p1"></td><td><label for="p1">Bulldog</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="2" id="p2"></td><td><label for="p2">Dalmatian</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="3" id="p3"></td><td><label for="p3">Sheepdog</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="4" id="p4"></td><td><label for="p4">Greyhound</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="5" id="p5"></td><td><label for="p5">Terrier</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="6" id="p6"></td><td><label for="p6">Labrador</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="7" id="p7"></td><td><label for="p7">None of these.</label></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="2" style="margin-top: 5px;"><tbody><tr><td align="center"><input type="submit" name="submit" value="Vote" class="button"></td><td align="center"><input type="submit" name="action" value="Results" class="button"></td></tr></tbody></table></form>
+            <script language="javascript" type="text/javascript">poll_write();</script><h1>How happy are you with the new wilderness changes?</h1><form action="index.php"><input type="hidden" name="poll" value="vote"><input type="hidden" name="poll_id" value="228"><table width="100%" cellspacing="1" cellpadding="0"><tbody><tr><td width="10"><input type="radio" name="Answer" value="1" id="p1"></td><td><label for="p1">Overly excited</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="2" id="p2"></td><td><label for="p2">Happy for change</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="3" id="p3"></td><td><label for="p3">Neutral</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="4" id="p4"></td><td><label for="p4">Upset</label></td></tr><tr><td width="10"><input type="radio" name="Answer" value="5" id="p5"></td><td><label for="p5">What changes?</label></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="2" style="margin-top: 5px;"><tbody><tr><td align="center"><input type="submit" name="submit" value="Vote" class="button"></td><td align="center"><input type="submit" name="action" value="Results" class="button"></td></tr></tbody></table></form>
 						<noscript>
 						  <div style="text-align:center; margin: 20px auto;">
 							  The Tip.It poll requires JavaScript <a href="?page=enable_js.htm">enabled</a>
@@ -276,26 +296,34 @@ function scrollHash() {
             <div class="bottom"><br><a href="?poll=archive">View Poll Archive</a></div>
           </div>
 		    </div>
+            
+		<div class="bar" onmouseover="show('circus_details');">
+		<p>Circus Location</p>
+	</div>
+	<div class="graybox" id="circus_details" style="display:none">
+		<p>
+		Seers Village<br>
+		<img src="img2/circus_seers_village.gif" width="138" height="138" alt="Circus"><br>
+		<a href="?weekly_locations#penguins">Penguin locations</a>
+		</p>
+	</div>
+	<div class="barbottom">
+	</div>
+	 
 
         <div class="bar">
           <p>Advert</p>
         </div>
         <div class="graybox">
 		
+<script type="text/javascript">
+   e9 = new Object();
+   e9.size = "160x600,120x600";
+   e9.noAd = 1;
+</script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/RuneTips/ROS1/tags.js"></script>
 
-<!-- BEGIN RICH-MEDIA Burst Network CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/v=2.3S/sz=120x600A|160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/v=2.3S/sz=120x600A|160x600A/23312/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad7397a-map.cgi/ns/v=2.3S/sz=120x600A|160x600A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/ns/v=2.3S/sz=120x600A|160x600A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END BURST CODE -->
-
-
-                 </div>
+                  </div>
 <div style="font: 11px verdana; text-align: right;"><a href="http://forum.tip.it/topic/16906-report-bad-ads-here/">Report Bad Ad</a></div>
 				<div class="bar">
           <p>Donate</p>
@@ -337,11 +365,11 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/v
 
     <div id="footer">
       <div style="margin-bottom: 5px;"><a href="#"><b>Return to Top</b></a></div>
-      © 1999 - 2010      RuneScape Tips, all rights reserved. <br>
-      Reproducing or copying any material found on this page is not allowed.<br>
-      Rune Tips is best viewed in 1024x768 resolution or higher.<br>
-      Designed for IE 6+, Mozilla 1.0+, Netscape Navigator 5+, Opera 4+. <br>
-      Runescape ® is a trademark of Jagex © 2000-2010      Andrew Gower.
+      © 1999 - 2010      RuneScape Tips - All rights reserved <br>
+      Reproducing or copying any material found on this page is not allowed<br>
+      Rune Tips is best viewed in 1024x768 resolution or higher<br>
+      Designed for IE 6+, Mozilla 1.0+, Netscape Navigator 5+, Opera 4+ <br>
+      RuneScape ® is a trademark of Jagex © 2000-2010      Andrew Gower
     </div>
     <!-- END FOOTER -->
   </div>
@@ -355,16 +383,12 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/v
     <td width="184" height="90">&nbsp;</td>
     <td align="center" valign="middle">
 	
-<!-- BEGIN RICH-MEDIA Burst Network CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/v=2.3S/sz=468x60A|728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/v=2.3S/sz=468x60A|728x90A/60055/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad7397a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad7397a.cgi/ns/v=2.3S/sz=468x60A|728x90A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END BURST CODE -->
+<script type="text/javascript">
+   e9 = new Object();
+   e9.size = "728x90,468x60";
+   e9.noAd = 1;
+</script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/RuneTips/ROS1/tags.js"></script>
 
 	
     </td>
