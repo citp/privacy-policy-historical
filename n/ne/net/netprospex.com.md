@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403222845id_/http%3A//www.netprospex.com/np/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216023122id_/http%3A//www.netprospex.com/np/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetProspex
 
@@ -34,7 +34,7 @@ NetProspex uses cookies to store some non-sensitive personal preference informat
 
 We communicate with subscribers through e-mail. We do not share or sell your registration information for marketing purposes, however we will communicate with subscribers in accordance with subscriber preferences.
 
-Users may choose to opt out of receiving e-mail communications from NetProspex and clear opt-out instructions are included in e-mail messages or simply call us at 617 803 9999. However, we periodically communicate information to active customers about customer accounts, renewal notices and information about service changes in order to ensure the integrity of our services and such communications cannot be terminated by subscribers unless they cease to subscribe to the service.
+Users may choose to opt out of receiving e-mail communications from NetProspex and clear opt-out instructions are included in e-mail messages or simply call us at 1-888-826-4877. However, we periodically communicate information to active customers about customer accounts, renewal notices and information about service changes in order to ensure the integrity of our services and such communications cannot be terminated by subscribers unless they cease to subscribe to the service.
 
 ## Links to other sites
 
@@ -67,7 +67,7 @@ E-mail: [privacy@netprospex.com](mailto:privacy@netprospex.com)
 
 ## Feedback
 
-We welcome your comments on this Privacy Policy on our Contact Us page. For more information about NetProspex see our website <http://www.netprospex.com/>.
+We welcome your comments on this Privacy Policy on our Contact Us page. For more information about NetProspex see our website <https://www.netprospex.com/>.
 
 ## Modification of this policy
 
