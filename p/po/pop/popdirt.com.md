@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228031829id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216061009id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | popdirt.com
 
@@ -6,15 +6,17 @@ Popdirt.com, and its advertisers and affiliates are deeply committed to protecti
 
 During the process of delivering an ad to you, Popdirt.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address (unless you divulge this information when posting comments). However, Popdirt.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example).
 
-Popdirt.com works with a third party that serves ads to this site. Popdirt.com does not use cookies except for member login data and opinion poll cheating prevention, but the advertisers on the site may use cookies. These cookies the advertisers use do not identify you in any way, but are placed to help the advertisers find which products and services interest you. The information collected by advertisers on the site is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+Popdirt.com uses for remembering name and email when commenting on stories and opinion poll cheating prevention, but the advertisers on the site may use cookies.
+
+Popdirt.com allows third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/)
 
 To find out more about how our advertisers manage the privacy of information in conjunction with serving ads on this site, please go to:
 
-[valueclickmedia.com](http://www.valueclickmedia.com/privacy.shtml)  
+[valueclickmedia.com](http://www.valueclickmedia.com/about/privacy)  
 [burstmedia.com](http://www.burstmedia.com/privacy.asp)  
 [vibrantmedia.com](https://www.vibrantmedia.com/privacy.asp)  
 [tribalfusion.com](https://www.tribalfusion.com/TribalFusion/privacy.html)  
-[google.com](http://www.google.com/privacy.html)  
+[google.com](http://www.google.com/intl/en/privacy/)  
 [adtegrity.com](http://www.adtegrity.com/about/privacy-policy/)  
 [blogads.com](http://web.blogads.com/Documents/privacy_policy)  
 [hookedmediagroup.com](http://www.hookedmediagroup.com/)
