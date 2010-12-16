@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leasethis.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627121157id_/http%3A//leasethis.com/%3Fcmd%3DPage_Company_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasethis.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216072056id_/http%3A//www.leasethis.com/%3Fcmd%3DPage_Company_Privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Domain Name Leasing From LeaseThis.com
 
