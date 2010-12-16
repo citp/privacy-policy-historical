@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icbc.com privacy policy that was archived on 2010-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623063624id_/http%3A//www.icbc.com/Privacy%2520Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icbc.com privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216173920id_/http%3A//www.icbc.com/Privacy%2520Statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -123,14 +123,8 @@ catch(err) {}
 
 <!-- START OF HEADER WRAP -->
 <div id="header-wrap">
-<div id="header">
-<!-- START OF BRAND BAR -->
-	<div id="brand-bar">
-		<div class="logo"><a href="http://www.icbc.com"></a></div>
-<!-- START OF UTILITY BAR -->
-
 	
-	    
+		
 	
   
 
@@ -198,18 +192,29 @@ catch(err) {}
 
 
 	<div id="utility-bar">
-	  <a href="/about-ICBC">about ICBC</a> | <a href="/site-map">site map</a> | <a href="/glossary">glossary</a> | <a href="/faqs">faq</a> | <a href="/contact-us">contact us</a> <a href="http://partners.icbc.com/" class="traffic-cams">business partners</a>
-	  <div class="utility-bar-search">
-	  <form method="get" action="http://onlinebusiness.icbc.com/ces/icbccom.aspx" name="searchform">
-	  	<input name="q" type="text" class="utility-bar-form" id="site-search" value="search icbc.com" onfocus="if(this.value=='search icbc.com'){this.value=''}" onblur="if(this.value.replace(/\s/g,'')==''){this.value='search icbc.com'}" size="20"><button class="core-button" id="core-cove-search" type="submit" onclick="if(document.forms['searchform'].elements['q'].value=='search icbc.com'){alert('Please enter your search terms before pressing \'search\'.');return false;}"></button>
-	  </form>
-	  </div>
+		<ul>
+			<li><a href="/about-ICBC">about ICBC</a></li>
+			<li><a href="/site-map">site map</a></li>
+			<li><a href="/glossary">glossary</a></li>
+			<li><a href="/faqs">faq</a></li>
+			<li><a href="/contact-us">contact us</a></li>
+			<li><a href="http://partners.icbc.com/" class="no-border">business partners</a></li>
+			<li><a href="http://apps.icbc.com/translations/cn/default.asp" title="Chinese" id="language-chinese" class="no-border">Chinese</a></li>
+			<li><a href="http://apps.icbc.com/translations/pj/default.asp" title="Punjabi" id="language-punjabi" class="no-border">Punjabi</a></li>
+		</ul>
 	</div>
 
   
 
-
-<!-- END OF UTILITY BAR -->
+<div id="header">
+<!-- START OF BRAND BAR -->
+	<div id="brand-bar">
+		<div class="logo"><a href="http://www.icbc.com"></a></div>
+		<div id="utility-bar-search">
+			<form method="get" action="http://onlinebusiness.icbc.com/ces/icbccom.aspx" name="searchform">
+				<input name="q" type="text" class="utility-bar-form" id="site-search" value="search icbc.com" onfocus="if(this.value=='search icbc.com'){this.value=''}" onblur="if(this.value.replace(/\s/g,'')==''){this.value='search icbc.com'}" size="20"><button class="core-button" id="core-cove-search" type="submit" onclick="if(document.forms['searchform'].elements['q'].value=='search icbc.com'){alert('Please enter your search terms before pressing \'search\'.');return false;}"></button>
+			</form>
+		</div>
 	</div>
 <!-- END OF BRAND BAR -->
 </div>
@@ -789,6 +794,7 @@ Find a:<br>
 		
 	<option value="bodyshop">Auto body shop</option>
 	<option value="glassexpress">Glass Express shop</option>
+	<option value="chiropractors">Chiropractor </option>
 </select>
 <br class="clear">
 Enter postal code or name of city/town:
@@ -996,6 +1002,10 @@ Enter postal code or name of city/town:
 
 
 
+	
+
+
+
 
 
 
@@ -1007,15 +1017,6 @@ Enter postal code or name of city/town:
 
 	
 	
-
-
-	
-	
-	
-	
-	
-
-
 
 
 	
@@ -1041,12 +1042,54 @@ Enter postal code or name of city/town:
 	
 	
 	
+
+
+
+
+	
+	
+	
+	
+	
+
 
 
 
 <div id="footer">
-<a href="/contact-us">contact us</a> | <a href="/Privacy Statement">privacy statement</a> | <a href="/terms-conditions">terms and conditions</a> | <a href="/site-requirements">site requirements</a></div>
+	<a href="/contact-us">contact us</a> | <a href="/Privacy Statement">privacy statement</a> | <a href="/terms-conditions">terms and conditions</a> | <a href="/site-requirements">site requirements</a> |
 
+	<a href="http://partners.icbc.com/" title="Partners">business partners</a>
+
+
+	<div class="tri-logo">
+		<a href="http://www.icbc.com/registration-licensing/specialty-plates/Winter-Games"><img src="/ICBC/images/trilogo.gif" alt=""></a>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+function trackPDF(evt){
+	var pdfpath = (evt.srcElement) ? evt.srcElement.pathname : this.pathname;
+	pdfpath = (pdfpath.charAt(0)=="/") ? pdfpath : "/" + pdfpath;
+	if(pageTracker){ pageTracker._trackPageview(pdfpath); }
+}
+var pdfRE = /\.pdf$/i;
+var doclinks = document.links;
+for(var i=0,ilen=doclinks.length;i<ilen;i++){
+    var currlink = doclinks[i];
+    if(/^#Variables\._frag_$/.test(currlink.hash)){
+        void(currlink.hash = "");
+    }
+	var linkpath = currlink.pathname;
+    if(pdfRE.test(linkpath) && currlink.hostname==location.host){
+        if(currlink.addEventListener){
+            currlink.addEventListener('click',trackPDF, false);
+        }else if(currlink.attachEvent){
+            currlink.attachEvent('onclick',trackPDF);
+        } 
+    }
+}
+</script>
   
 
 
@@ -1064,6 +1107,9 @@ Enter postal code or name of city/town:
 
 	
 		
+
+
+
 	
 	
 
