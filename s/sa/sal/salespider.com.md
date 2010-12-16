@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617023303id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216164718id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # The Entrepreneur Network for Small Business, Home Business & Business Opportunity
-
-**_PRIVACY POLICY_**
 
 Your privacy is important to us, so Sales Spider Inc has created this Privacy Policy ( “Privacy Policy”) to explain how the information you provide through your use of the Sales Spider Inc website (“Salespider.com”) is protected, collected and used.  This Privacy Policy applies to your use of Salespider.com and other resources located at the domain [www.salespider.com](http://www.salespider.com/) , which is hosted by Sales Spider, Inc.  (“Sales Spider”).  By accessing the Salespider.com you agree to comply with and be bound by the Privacy Policy. 
 
@@ -10,7 +8,7 @@ As the host of Salespider.com, Sales Spider will have access to all of the infor
 
 This Privacy Policy may be updated from time to time.  You can always review the most current version by clicking on “Privacy Policy” at the bottom of each page of Salespider.com.  By using Salespider.com, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may change in the future.  Some information that you access via the Salespider.com may be located on third party websites.  If you click on that information, you will be taken to the third party website hosting such information and are subject to such third party’s privacy policy and terms of use.  Sales Spider is not responsible for such links or for information collected by such third parties.
 
-### I.              WHAT INFORMATION DO WE COLLECT?
+#### I.              WHAT INFORMATION DO WE COLLECT?
 
 #### A. Personally Identifying Information
 
@@ -36,7 +34,7 @@ We may use both session ID cookies and persistent cookies.  Session ID cookies 
 3. _Can you opt out of receiving emails?_ :  If you prefer not to receive direct communications sent by us, our advertisers or other third parties, you will be given an opportunity to decline at the time you provide any information.  If you decline at the time you provide us with information or choose to opt out later, you will not receive email or other communications sent directly by us or our advertisers utilizing information collected from Salespider.com. However, if you provide your personal information as part of your User Profile and you elect to receive notifications when other users communicate with you, you will continue to receive emails from other users.  Those emails are transmitted via our servers so they will still retain the Sales Spider designation, even though they are sent by other users and not by us.   
 4\. _How to opt out of emails_ :  You can opt out of receiving emails at the time you provide your information or at any other time.  When you submit personally identifying information, if the information might be used for emailing purposes, then you will be given the opportunity, at the time of submission, to decline to receive such communications.  You can also choose to opt out later by clicking the “Unsubscribe” button included on the bottom of every email you receive from us.  You may also pick and choose which newsletters you wish to receive by changing your Email Settings. 
 
-### II.             HOW DO WE USE THE INFORMATION WE COLLECT?
+### II.              HOW DO WE USE THE INFORMATION WE COLLECT?
 
 #### A. Purposes for Which Information Is Submitted
 
@@ -61,27 +59,27 @@ We may use these aggregate statistics to measure interest in various areas of Sa
 
 If you voluntarily supply personally identifiable information that includes contact information, we may, from time to time, contact you or give your contact information to third parties so that they may contact you, to call your attention to products or services that may be of interest to you.  When you submit personally identifying information, if the information might be used for this purpose, then you will be given the opportunity, at the time of submission, to decline to receive such communications.  If you decline at that time, or if you chose to opt out later, you will not receive such communications utilizing the personally identifiable information collected on Salespider.com.  You can choose to opt out later by clicking the “Unsubscribe” button included on the bottom of every email you receive from us. 
 
-## III.    THIRD PARTY COOKIES AND TRACKING
+### III.              THIRD PARTY COOKIES AND TRACKING
 
 We use third-party companies to serve advertisements on Salespider.com. These companies may use cookies and may collect other tracking information (not including your name, address, email address or telephone number) about your visits to Salespider.com and other websites.  These companies may use the information that they collect to measure and research the effectiveness of advertisements, to track page usage and paths followed during visits, and to provide advertisements about goods and services of interest to you. These companies may provide this data to us, but only in aggregate form. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>).
 
-## IV.      IS MY INFORMATION PROTECTED?
+### IV.              IS MY INFORMATION PROTECTED?
 
 We use reasonable administrative, technical, personnel and physical measures to safeguard personally identifying information against loss, theft and unauthorized use, disclosure or modification. Personally identifying information may also be stored on computers of third parties that provide technical support for the operation of Salespider.com.  As effective as our security measures are, no security system is impenetrable.  Moreover, we cannot guarantee that information that you supply will not be intercepted while being transmitted to us.
 
-## V.    DISCLOSURE
+### V.              DISCLOSURE
 
 As described above in Section II A, B, C, D, and E, certain uses of collected information may involve disclosure to third parties.  In addition, we may disclose collected information in the good faith belief that we are required to do so by law, or when doing so is reasonably necessary to: (1) comply with the law or legal process; (2) respond to any claims; (3) protect and defend the rights, property or personal safety of Daily News, L.P. or Sales Spider, Inc. and their subsidiaries and affiliates, as well as either party’s customers, users or the public; or (4) protect against misuse or unauthorized use of Salespider.com.  In addition, collected information may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition. 
 
-## VI.   THIRD PARTY SITES AND CONTENT
+### VI.              THIRD PARTY SITES AND CONTENT
 
 During your visit to Salespider.com you may view as part of a frame that includes our content, certain content and websites that are actually created, operated, owned and/or hosted by a third party or third parties.  You may also see links on Salespider.com to other websites.  We are not responsible for the privacy practices or the content of third parties.  You should check the applicable privacy policies of those third parties when providing personally identifying information.
 
-## VII. CHILDREN UNDER THE AGE OF 13
+### VII.              CHILDREN UNDER THE AGE OF 13
 
 We do not knowingly collect or solicit personally identifying information from or about children under the age of 13.  By submitting any personally identifying information, you certify that you are at least 13 years of age.  If we discover that we have received any information from or about a child under 13 in violation of this statement, we will delete that information.  If you believe that we have collected personally identifying information from or about a child under the age of 13, please contact us at the address provided in the “QUESTIONS” section below.
 
-## VIII. QUESTIONS
+### VIII.              QUESTIONS
 
 If you have any more questions, please email our webmaster at [support@salespider.com](mailto:support@salespider.com), or write to:
 
