@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113032128id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216191345id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # OfficialWire: The Affordable Business Wire of Choice For PR Professionals
 
@@ -54,13 +54,13 @@ We have put in place appropriate physical, electronic, and managerial procedures
 **How You Can Access Or Correct Information**   
 Access to personally identifiable information that is collected from our website may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our website, you can access that account to review the information you provided. 
 
-You may send an [email](https://web.archive.org/web/20100113032128id_/http%3A//www.officialwire.com/static.php?action=email_us) requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, email address and the password you use for said service.
+You may send an [email](https://web.archive.org/web/20101216191345id_/http%3A//www.officialwire.com/static.php?action=email_us) requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, email address and the password you use for said service.
 
 **Special Note For Parents**   
 The website you are visiting is one of our general audience sites. For more information about our online privacy practices for children's websites, consult the privacy notice at the children's website in which you are interested. 
 
 **How To Contact Us**   
-If you have any questions or concerns about the online privacy statement for this website or its implementation you may contact us by [email](https://web.archive.org/web/20100113032128id_/http%3A//www.officialwire.com/static.php?action=email_us). 
+If you have any questions or concerns about the online privacy statement for this website or its implementation you may contact us by [email](https://web.archive.org/web/20101216191345id_/http%3A//www.officialwire.com/static.php?action=email_us). 
 
 **Updates & Effective Date**   
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
