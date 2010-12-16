@@ -1,15 +1,12 @@
-<!--The following is the downloaded HTML source of the fbuds.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626183339id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fbuds.com privacy policy that was archived on 2010-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217001414id_/http%3A//www.fbuds.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
 <meta name="DESCRIPTION" content="">
 <meta name="KEYWORDS" content="">
 <meta name="ROBOTS" content="all">
-<meta name="verify-v1" content="dCa09zF4p3DtS7vYqr26W7mf6k6RpTp+9OowrXkOcTE=">
-<meta name="verify-v1" content="+GjPvXjJ8+nNLrVLhes8sq0gN5hTYuGFqDuwsXt8QgI=">
-<meta name="y_key" content="2cbf570061c1cbf1">
-<meta name="msvalidate.01" content="EF4FE7B516DE48D3B0BED7CDB63A0D35">
+<meta name="google-site-verification" content="lb7KLXQOPnhDJLhnitc0M34PgcGbs0_uCsO-3__Rtm4">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- This web site was designed and engineered by AsesoftNET. This site is a database-driven, dynamic web site. Should you, or your company, desire more information about database-driven web sites or different other applications, please contact us (support at asesoftnet dot com) -->
@@ -39,11 +36,12 @@ if (top != self) {
 top.location = location;
 }
 function toggle_nav_bar(){
-var cookie_pfk = get_cookie('pfk');
-var cookie_username = get_cookie('_USR[logins_username]');
+//var cookie_pfk = get_cookie('pfk');
+//var cookie_username = get_cookie('_USR[logins_username]');
+var cookie_username = '';
 var tab_welcome = dom_get_element("tab_welcome");
 var profile_link = "<a href='" + do_link("site.profile", "user=" + cookie_username) + "' class='top_menu bold'>" + cookie_username + "</a>";
-if ((cookie_pfk > 0) && (cookie_username != null)) {
+if (cookie_username.length>0) {		
 tab_welcome.innerHTML = "Welcome, " + profile_link + "!&nbsp;&nbsp;&nbsp;";
 }
 else {
@@ -80,11 +78,10 @@ alert("Please login first!");
 <div class="clearfix" style="width: 100%;">
 <div id="mobile" style="float: left; padding-top: 5px;">
 </div>
-<span id="ch_lang" onclick="return overlay_recc(this, &quot;subcontent&quot;, &quot;bottomleft&quot;);"><img src="/img/site/map.gif" alt="" width="34" height="18" align="absmiddle" style="margin-left: 5px; margin-right: 10px;"><a href="http://www.fbuds.com/privacy" onclick="return false;" id="lang_link" style="padding-top: 2px;" rel="">English</a></span>
+<span id="ch_lang" onclick="return overlay_recc(this, &quot;subcontent&quot;, &quot;bottomleft&quot;);"><img src="/img/site/map.gif" alt="" width="34" height="18" align="absmiddle" style="margin-left: 5px; margin-right: 10px;"><a href="http://www.fbuds.com/privacy" onclick="return false;" id="lang_link" style="padding-top: 2px;" rel="nofollow">English</a></span>
 <div id="top_menu" style="float: right;">
-<!-- has_cookie -->
+<!-- has_cookie --><!-- has_cookie -->
 <span id="tab_welcome" class="text_top"></span>
-<!-- has_cookie -->
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 <a href="http://www.fbuds.com/signup" rel="nofollow" class="bold">Create an account</a>
@@ -208,14 +205,14 @@ By using this site, you consent to the collection and use of this information by
 <span class="btm">
 <a href="http://www.fbuds.com/privacy" class="main_menu" rel="nofollow">Privacy Policy</a>
 &nbsp; | &nbsp;
-<a href="http://www.fbuds.com/terms" class="main_menu" rel="nofollow">User Agreement</a>
+<a href="http://www.fbuds.com/user_agreement" class="main_menu" rel="nofollow">User Agreement</a>
 &nbsp; | &nbsp;
 <a href="http://www.fbuds.com/faq" class="main_menu">FAQ</a>
 &nbsp; | &nbsp;
 <a href="http://www.fbuds.com/site_map" class="main_menu">Site Map</a>
 &nbsp; | &nbsp;
 <a href="http://www.fbuds.com/contact" class="main_menu" rel="nofollow">Contact Us</a>
- &nbsp; | &nbsp; <a href="http://de.fbuds.com" class="main_menu">Deutsch</a> &nbsp; | &nbsp; <a href="http://es.fbuds.com" class="main_menu">Spanish</a> &nbsp; | &nbsp; <a href="http://pt.fbuds.com" class="main_menu">Portuguese</a>
+ &nbsp; | &nbsp; <a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=es" class="main_menu">Spanish</a> &nbsp; | &nbsp; <a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=pt" class="main_menu">Portuguese</a> &nbsp; | &nbsp; <a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=de" class="main_menu">Deutsch</a> &nbsp; | &nbsp; <a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=fr" class="main_menu">French</a>
 </span>
 </div>
 <div style="font-size: 11px; text-align: center; background: url('/img/site/bg_footer.gif') no-repeat top center; padding-top: 5px;">
@@ -230,14 +227,13 @@ document.getElementById("photos_text").innerHTML = "All photos and images are of
 <div class="clearfix" style="clear: both; width: 100%;padding-top:5px;"></div>
 </div>
 </div>
-<div id="subcontent" class="clearfix" style="display: none;"><ul><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://de.fbuds.com" class="link_black" rel="">Deutsch</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://es.fbuds.com" class="link_black" rel="">Spanish</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://pt.fbuds.com" class="link_black" rel="">Portuguese</a></li></ul></div>
+<div id="subcontent" class="clearfix" style="display: none;"><ul><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=es" class="link_black" rel="nofollow">Spanish</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=pt" class="link_black" rel="nofollow">Portuguese</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=de" class="link_black" rel="nofollow">Deutsch</a></li><li class="clearfix" style="list-style: none; padding-left: 10px; width: 150px;"><img src="/img/site/beta.gif" style="display: inline; float: right; margin-top: 3px; margin-right: 5px;"><a href="http://www.fbuds.com/?cmd=set_lang&amp;lang=fr" class="link_black" rel="nofollow">French</a></li></ul></div>
 <script type="text/javascript">
 // <![CDATA[
 dom_get_element("mobile").innerHTML = "&nbsp; &nbsp; <img src=\"/img/site/tel.gif\" align=\"absmiddle\"> <a href=\"http://www.fbuds.com/mobile_version\" style=\"color: #FFFFFF; font-size: 10px;\">Mobile version (mobile.fbuds.com)</a>";
 // ]]>
 </script>
 <noscript><a href="http://mobile.fbuds.com/?mobile_loaded=on" class="link_black" rel="nofollow"><b>Your browser is not using JavaScript</b><br />Switch to Mobile version (mobile.fbuds.com)</a></noscript>
-
 <script type="text/javascript">
 // <![CDATA[
 start_lang_menu();
