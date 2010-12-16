@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526035811id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216220933id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.*
 
-# Flowserve Corporation - Privacy
+# Privacy - Flowserve Corporation
 
 This policy covers how we at Flowserve treat personal information that we collect and receive through our Web site.
 
