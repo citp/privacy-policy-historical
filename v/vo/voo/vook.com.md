@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vook.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514113218id_/http%3A//www.vook.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vook.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216195609id_/http%3A//vook.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D10) for the most accurate reproduction.*
 
-# Vook : Privacy Policy
+# Privacy Policy - Vook
 
 **Effective Date: July 31, 2009**
 
@@ -8,7 +8,7 @@ Protecting the privacy of our users is very important to VOOK.com (“VOOK”). 
 
 If you have questions or concerns regarding this statement, you should first contact VOOK Support at [ customersupport@vook.com](mailto:customersupport@vook.com).
 
-###  **Information Collection & Use**
+### **Information Collection & Use**
 
 We want your experience at VOOK to be satisfying and safe. Our data collection policies give you the option to choose how much information you provide to us, and what we do with the information you supply. Except as set forth below, your information will be kept within VOOK unless you consent to our supplying all or a portion of your information to third parties as a part of one of our service or product offerings. However, if you tell us not to send you further emails, this instruction may be communicated to third parties who send email on our behalf solely to allow us to comply with your instructions. VOOK collects information online to allow you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, contact phone number, credit card number or other information related to the service or product you are seeking. We request this information to deliver what you are requesting, and as well as to allow us to provide you a personalized online experience. Information collected online is often defined as being either anonymous or personally identifiable:
 
@@ -23,7 +23,7 @@ Personally Identifiable Information may also be provided to intermediaries and t
 
 Registering with VOOK will also cause a cookie to be issued; this cookie allows us to "recognize" you when you are on our site to allow us to personalize our service for you.
 
-###  **Cookies**
+### **Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We may link the information we store in cookies to any Personally Identifiable Information you submit while on our site. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.
 
@@ -35,17 +35,17 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 Some of our business partners (e.g., advertisers) may use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any business partners or advertisers on our web site. See "Third Party Advertisers."
 
-###  **Clear Gifs (Web Beacons/Web Bugs)**
+### **Clear Gifs (Web Beacons/Web Bugs)**
 
 We may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are close to the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers’ Personally Identifiable Information. You may not opt out of the use of these clear gifs.
 
 We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-###  **Third Party Advertisers**
+### **Third Party Advertisers**
 
 The ads appearing on this web site, if any, may be delivered to users by third-party advertising companies. Third-party advertising companies may use cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The companies serve their ads from their own web sites, independently from VOOK. The information that the third-party advertising companies collect and share through this technology is not personally identifiable, unless you provide such information in response to an advertisement.
 
-###  **Anonymous Information**
+### **Anonymous Information**
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
@@ -55,33 +55,33 @@ We may link this automatically-collected data to Personally Identifiable Informa
 
 VOOK is the sole owner of the information collected on WWW.VOOK.COM. We may collect Personally Identifiable Information from our users at several different points on our Web site.
 
-###  **Special Offers and Updates From Vook and Our Publishing Partner**
+### **Special Offers and Updates From Vook and Our Publishing Partner**
 
 We may occasionally send you information on services, special deals, products and/or promotions via email newsletters. You can opt out of receiving these newsletters by accessing your account and updating your “Newsletter subscription” preferences or selecting the “unsubscribe” function present in the message. If you have opted in to receive information on services, special deals, products and promotions from our publishing partners, then you will need to visit our publishing partner’s website to opt out or use the “unsubscribe” function present in their message.
 
-###  **Service-related Announcements**
+### **Service-related Announcements**
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance or other purposes, we might send you an email.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-###  **Customer Service**
+### **Customer Service**
 
 Based upon the Personally Identifiable Information you provide us, we may send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We may communicate with you by email or telephone, if you have provided such information.
 
-###  **Profile**
+### **Profile**
 
 We store information that we collect through cookies, log files, or clear gifs to create a “profile” of your preferences. We may tie your Personally Identifiable Information to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
 
-###  **Comment**
+### **Comment**
 
 If you post to a blog/forum/discussion group on this site, you should be aware that any information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personally Identifiable Information you choose to submit in these forums.
 
-###  **Email A Friend**
+### **Email A Friend**
 
 If you send an email using our Send to a Friend service to an email address that has not been registered in our system, we do not use that email address for any purpose other than to send your email, and for us to send automatically your friend a one-time email inviting him or her to visit the site. We store the email address in order to send this one-time email and to track the success of our referral program. We do not share this information with any third parties for their promotional purposes.
 
-###  **Links to Other Sites**
+### **Links to Other Sites**
 
 VOOK contains links to other sites that are not owned or controlled by VOOK. Please be aware that we are not responsible for the privacy practices of such other sites.
 
@@ -89,33 +89,33 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 This privacy statement applies only to information collected by this web site.
 
-###  **Access to Personally Identifiable Information**
+### **Access to Personally Identifiable Information**
 
 If your Personally Identifiable Information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by contacting us at [ customersupport@vook.com](mailto:customersupport@vook.com).
 
-###  **Security**
+### **Security**
 
 We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers. You the consumer are ultimately responsible for the security of your Member Name and Password. Please take care to store your Member Name separately from your account password, or better yet, choose a password that you don't need to write down at all.
 
-###  **Business Transitions**
+### **Business Transitions**
 
 In the event VOOK goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your Personally Identifiable Information may be disclosed and will likely be among the assets transferred. You will be notified via prominent notice on our web site for 30 days of any such change in ownership or control of your Personally Identifiable Information.
 
-###  **Legal Disclaimer**
+### **Legal Disclaimer**
 
 We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.
 
-###  **Changes in this Privacy Statement**
+### **Changes in this Privacy Statement**
 
 If we decide to make any material changes to our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate on our site so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently.
 
-###  **Contact Us**
+### **Contact Us**
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at [info@vook.com](mailto:info@vook.com).
 
-###  **Our mailing address is:**
+### **Our mailing address is:**
 
 1100 Marina Village Parkway, Suite 102   
-Alameda, CA 94501 USA 
+Alameda, CA 94501 USA
