@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the wego.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011442id_/http%3A//www.wego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wego.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216173137id_/http%3A//www.wego.com/privacy) for the most accurate reproduction.*
 
 # Wego.com
+
+## What the Wego Privacy Policy Covers
 
 The Privacy Policy covers our treatment of personally identifiable information that we collect when you are on the Wego site, and when you use our services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
 
 ## Information Collection and Use by Wego
 
-We collect personally identifiable information when you register to create a personal Wego account, when you visit Wego pages, and when you enter information to receive email newsletters or other offers and promotions. When you register with us, we ask for your name, email address, birth date, gender, postal code, occupation, industry, how often you travel and where you most frequently travel to. Once you register with us and sign in to our services, you are not anonymous to us. We also automatically receive and record information on our server logs from your browser including your IP address, Wego cookie information and the page you requested. We use information for three general purposes: to customise the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products.
+We collect personally identifiable information when you register to receive email newsletters or other offers and promotions. Once you register with us, theoretically you are no longer anonymous to us. We automatically receive and record information on our server logs from your browser including your IP address, Wego cookie information and the page you requested. We use information for three general purposes: to customise the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
 
 ## Information Sharing and Disclosure by Wego
 
@@ -18,11 +20,14 @@ We will not sell or rent your personally identifiable information to anyone. We 
   * We respond to subpoenas, court orders or legal process; or
   * We find that your actions on our web sites violate the Wego Terms of Service, or any of our usage guidelines for specific products or services.
 
+  
 
 
-## Your ability to edit your account information and preferences
+## Ad Networks and "Re-Marketing"
 
-We give you the ability to edit your Wego Account Information and preferences at any time, including whether you want us to contact you about specials and new products. 
+Wego utililses third party vendors, including Google, to show ads for Wego on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to www.wego.com. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+
+We're not currently using DoubleClick's re-marketing pixels, but it's possible we will in the future in which case you can opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## Changes to this Privacy Policy
 
