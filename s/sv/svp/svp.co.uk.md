@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svp.co.uk privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411011050id_/http%3A//www.svp.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svp.co.uk privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216063555id_/http%3A//www.svp.co.uk/content.php%3Fid%3D38%26title%3DPrivacy) for the most accurate reproduction.*
 
-# SVP.co.uk - Everything For Your Computer - Privacy Policy - SVP
+# www.svp.co.uk
 
 **Privacy Policy**  
 SVP are committed to protecting your privacy.
