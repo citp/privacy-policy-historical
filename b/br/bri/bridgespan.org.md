@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620062305id_/http%3A//www.bridgespan.org/About/Default.aspx%3Fid%3D824) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216135031id_/http%3A//www.bridgespan.org/About/Default.aspx%3Fid%3D824) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Introduction**    
-This privacy policy (“Policy”) describes the practices of The Bridgespan Group, Inc. ("Bridgespan") with respect to the gathering and use of personal information submitted to Bridgespan through the Bridgespan website (the "Bridgespan Site") and the Bridgestar website (the "Bridgestar Site", and together with the Bridgespan Site, the "Sites").  All capitalized terms not defined here, shall be given the same meaning as defined in the Bridgespan Group General [Terms and Conditions](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=826 "Terms of Use") ("Terms").
+**Introduction**   
+This privacy policy ("Policy") describes the practices of The Bridgespan Group, Inc. ("Bridgespan") with respect to the gathering and use of personal information submitted to Bridgespan through the Bridgespan website (the "Bridgespan Site") and the Bridgestar website (the "Bridgestar Site", and together with the Bridgespan Site, the "Sites").  All capitalized terms not defined here, shall be given the same meaning as defined in the Bridgespan Group General [Terms and Conditions](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=826 "Terms of Use") ("Terms").
 
 This Policy does not cover Bridgespan’s confidentiality and privacy obligations to the employers and search firms that submit job listings and related employment information to Bridgespan in connection with the Bridgestar recruiting services.  Such obligations are governed by a separate written agreement between each of the employers and search firms and Bridgespan.  This Policy also does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from the Sites. 
 
