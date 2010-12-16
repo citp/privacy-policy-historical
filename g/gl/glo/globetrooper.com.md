@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the globetrooper.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613182018id_/http%3A//globetrooper.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globetrooper.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216030039id_/http%3A//globetrooper.com/general/privacy) for the most accurate reproduction.*
 
-# Travel Partners for Group Adventure
-
-## General | Privacy Policy
+# Globetrooper Privacy Policy
 
 ### What information do we collect?
 
-We collect information from you when you register on our site or respond to a survey. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site.Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We collect information from you when you register on our site or respond to a survey. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ### What do we use your information for?
 
@@ -14,7 +12,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ### Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain informationWe use cookies to understand and save your preferences for future visits and .
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits.
 
 ### Do we disclose any information to outside parties?
 
