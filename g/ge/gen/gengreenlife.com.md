@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gengreenlife.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129102845id_/http%3A//gengreenlife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gengreenlife.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216055407id_/http%3A//www.gengreenlife.com/privacy.php) for the most accurate reproduction.*
 
-# GenGreen Life - The largest Local Green Business Directory in North America with: ratings and reviews, green events, tips and more!
+# Local Green Business Directory in North America with: ratings and reviews, green events, tips and more! GenGreen Life
 
 ## GenGreen Privacy Policy
 
-**Updated on January 1, 2008**
+**Updated on April 27, 2010**
 
-Thank you for visiting the GenGreen Network ("GenGreen") website. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
+Thank you for visiting a GenGreen network ("GenGreen") website. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
 Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See Privacy Act of 1974 (P.L. 93-579) for more information on your rights under the Privacy Act.
 
@@ -14,19 +14,15 @@ For the protection of users of our websites, we have safeguards in place to iden
 
 **Here is how we handle information about your visit to our website:**
 
-**Information Collected and Stored Automatically  
-**  
+**Information Collected and Stored Automatically**
+
 The GenGreen web server collects and saves only the default information customarily logged by our server software. Specifically, for each http request received, the date and time, the origination IP address, the object requested, and the completion status of the request is collected and saved.
 
-We analyze these logs regularly to determine the traffic through the server in hits, the number of pages served, and the level of demand for pages of interest. We may also analyze accesses to particular pages to determine state the IP address is most likely in, government agency and schools versus private use, and other statistics that may be of value to us in establishing priorities and allocating resources in order to better accomplish our dissemination mission.
-
-**Kids Pages**
-
-We are especially concerned about protecting the privacy of children. We hope parents and teachers are involved in children's internet explorations. We respect the need to protect the identity of any children who participate in an Internet exhibition of their work. We do not request any information from children on the Kids Pages. We do however, sometimes encourage them to participate in contests, but such participation is carried out through postal mail.
+We analyze these logs regularly to determine the traffic through the server in hits, the number of pages served, and the level of demand for pages of interest. We may also analyze accesses to particular pages to determine state the IP address is most likely in, government agency and schools versus private use, and other statistics that may be of value to us in establishing priorities and allocating resources in order to better accomplish our dissemination mission. 
 
 **Privacy Statement**
 
-The GenGreen Online Privacy Statement applies to data collected by GenGreen through the majority of its websites and services, as well as its offline product support services. It does not apply to those GenGreen sites, services and products that do not display or link to this statement or that have their own privacy statements.
+The GenGreen Online Privacy Statement applies to data collected by GenGreen through the majority of its websites and services, as well as its offline product support services. It does not apply to those GenGreen sites, services and products that do not display or link to this statement or that have their own privacy statements. 
 
 At some GenGreen sites, we ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service or make a donation, we will ask for additional information, such as your credit card number and billing address that is used to create a GenGreen billing account.
 
@@ -58,6 +54,5 @@ We may access and/or disclose your personal information if we believe such actio
 
 Many GenGreen sites and services are intended for general audiences and do not knowingly collect any personal information from children. When a GenGreen site does collect age information, and users identify themselves as under 13, the site will either block such users from providing personal information, or will seek to obtain consent from parents for the collection, use and sharing of their children's personal information . We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
 
-**Change to This Privacy Statement**
-
-We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how GenGreen will use your personal information, we will notify you either by prominently posting a notice or such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how GenGreen is protecting your information.
+**Change to This Privacy Statement**  
+We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how GenGreen will use your personal information, we will notify you either by prominently posting a notice or such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how GenGreen is protecting your information. 
