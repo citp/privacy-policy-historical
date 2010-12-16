@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627043805id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216232351id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Yipit
+
+* * *
 
 Yipit cares about your privacy and takes it very seriously. Please read the following to learn more about our privacy policy. By visiting the Yipit website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -52,7 +54,7 @@ Yipit is not intended for use by children, especially those under age 13. No one
 
 #### How do I Unsubscribe?
 
-To unsubscribe, click on the unsubscribe link in any Yipit email. You will be taken to a confirmation page. Click on the confirm link and you will be unsubscribe. You can also unsubscribe by sending an email to [unsubscribe@yipit.com](mailto:unsubscribe@yipit.com).
+To unsubscribe, click on the unsubscribe link in any Yipit email. You will be taken to a confirmation page. Click on the confirm link and you will be unsubscribed. You can also unsubscribe by sending an email to [unsubscribe@yipit.com](mailto:unsubscribe@yipit.com).
 
 As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
 
