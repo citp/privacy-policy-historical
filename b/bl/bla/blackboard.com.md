@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623050253id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216070437id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Blackboard Privacy Policy
 
@@ -51,7 +51,7 @@ In order to comply with the European Union’s Safe Harbor Principles, Blackboar
 
 If you have any questions regarding this policy, please contact:
 
-April Anderson  
+Barbara Lee  
 Blackboard Inc.  
 650 Massachusetts Avenue NW  
 6th Floor  
