@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605010333id_/http%3A//www.ncees.org/Supplemental_Pages/Privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216103051id_/https%3A//ncees.org/Supplemental_Pages/Privacy_statement.php) for the most accurate reproduction.*
 
 # NCEES: Privacy statement
 
