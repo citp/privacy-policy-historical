@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the easily.co.uk privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616141752id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easily.co.uk privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216165955id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Last-Modified" content="Wed, 16 Jun 2010 14:17:52 GMT">
-<meta http-equiv="Expires" content="Wed, 16 Jun 2010 14:21:52 GMT">
+<meta http-equiv="Last-Modified" content="Thu, 16 Dec 2010 16:59:55 GMT">
+<meta http-equiv="Expires" content="Thu, 16 Dec 2010 17:03:55 GMT">
 <meta name="revisit-after" content="15 days">
 <meta name="robots" content="all">
 <meta name="keywords" content="privacy policy, easily, web hosting, domains, email">
@@ -17,6 +17,52 @@
 <![endif]-->
 <title>Easily Privacy Policy</title>
 <script type="text/javascript" src="/scripts/kjax2.js"></script>
+<script type="text/javascript">
+<!--
+var xmlHttp = null;
+var thisspanId = null;
+
+function GetXmlHttpObject() {
+    try {
+        // Firefox, Opera 8.0+, Safari
+        xmlHttp=new XMLHttpRequest();
+    } catch (e) {
+        // Internet Explorer
+        try {
+            xmlHttp=new ActiveXObject(Msxml2.XMLHTTP);
+        } catch (e) {
+            xmlHttp=new ActiveXObject(Microsoft.XMLHTTP);
+        }
+    }
+    return xmlHttp;
+}
+
+function ajax_update(spanId,url,value) {
+    document.getElementById(spanId).innerHTML='<img src="/images/ajax-loader.gif" /> loading...';
+
+    if (value.length==0) {
+        document.getElementById(spanId).innerHTML='';
+    } else {
+        xmlHttp=GetXmlHttpObject();
+        url=url+'?value='+value;
+        if (xmlHttp==null) {
+            alert('Your browser does not support AJAX!');
+        } else {
+            thisspanId = spanId;
+            xmlHttp.onreadystatechange=stateChanged;
+            xmlHttp.open('GET',url,true);
+            xmlHttp.send(null);
+        }
+    }
+}
+
+function stateChanged() {
+    if (xmlHttp.readyState==4) {
+        document.getElementById(thisspanId).innerHTML = xmlHttp.responseText;
+    }
+}
+-->
+</script>
 
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" href="/style/page.css" type="text/css">
@@ -273,5 +319,6 @@ pageTracker._trackPageview();
 
 
 <script src="https://www.dwin1.com/1499.js" type="text/javascript"></script>
+
 
 </body></html>
