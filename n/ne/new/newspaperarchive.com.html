@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newspaperarchive.com privacy policy that was archived on 2010-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100504170428id_/http%3A//newspaperarchive.com/HtmlViewer.aspx%3Fctl%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newspaperarchive.com privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216174322id_/http%3A//newspaperarchive.com/HtmlViewer.aspx%3Fctl%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
 	NewspaperARCHIVE.com - Search Old Newspaper Articles Online
@@ -7,6 +7,7 @@
 		<meta name="keywords" content="Newspapers, Search, History, Today In History, Historic, Articles, Past Article, Archive, Archives, Genealogy, Birth Announcements, Birth Records, Headlines, News, Major Headlines, Sports Article, Sports Statistics, Ads, Advertisements, Comics, Funnies, Local Newspapers, Newspaper Obituaries, Family Tree, World Newspapers, This Day In History, Database">
     <meta name="description" content="NewspaperARCHIVE.com is the world's largest online provider of fully searchable historic newspaper articles.">
     <link href="/css/jquery-ui/jquery-ui.css" rel="stylesheet" type="text/css"><link href="/redesign-2009-12/css/screen.css" rel="stylesheet" type="text/css" media="screen"><link href="/redesign-2009-12/css/overlay.css" rel="stylesheet" type="text/css" media="screen"><link rel="stylesheet" type="text/css" href="/redesign-2009-12/scripts/shadowbox/shadowbox.css">
+		
 		<!--[if IE 6]><link href="/redesign-2009-12/css/ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 		<!--[if IE 7]><link href="/redesign-2009-12/css/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 		
@@ -24,7 +25,7 @@ var _pagetype;
 </script>
 <script type="text/javascript" src="/Scripts/search-ui.js"></script></head>
 <body>
-    <form name="aspnetForm" method="post" action="HtmlViewer.aspx?ctl=PrivacyPolicy" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="/HtmlViewer.aspx?ctl=PrivacyPolicy" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMzA2NDM2NDFkZA==" class="ignore">
 
 		<div id="class_wrap" class="anonymous">
@@ -37,41 +38,80 @@ var _pagetype;
 						<div id="nav_top_container" class="span-16 last">
 							<nav id="nav_top">
 								
-<!-- UserInfoAuthentication -->	
+<!-- UserInfoAuthentication -->
 <div id="auth_user_info">
-	<div id="auth_user_info_inner">
-    	<div id="logged_out" class="anonymous">
-				<div id="user_login_tab">
-					<a id="user_login_tab_link" href="/ForgotPassword.aspx">Login</a> | <a href="/Register/Premium.aspx">Create Account</a>
-				</div>
-				<div id="user_login_tray" class="ui-corner-all">
-					<div class="form-set">
-						<label for="user_login_name">Username: </label><br>
-						<input id="user_login_name" name="username" type="text" class="required ignore" onfocus="if(this.value=='Username'){this.value='';}" onblur="if (this.value==''){this.value='Username';}">
-						<!-- G Davis, Sept 23, 2009, bug tracker issue 19 fix -->
-						<!-- - add a hidden control for accepting the username value from the Username cookie, when the ASCX first loads -->
-						<input type="hidden" name="ctl00$UserAuth$hdnUserName" id="ctl00_UserAuth_hdnUserName" class="ignore">
-					</div>
-					<div class="form-set" id="password_set">
-						<label for="user_login_password">Password: </label><br>
-						<input id="user_login_password" type="password" class="required ignore" name="password" onkeydown="var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;if (keyCode == 13){$('#user_login_submit').click(); event.cancelBubble=true; event.returnValue=false;}">
-					</div>
-					<div class="form-set" id="login_set">
-						<input id="user_login_submit" type="submit" value="Login" class="ignore">
-						<div class="clear-flat"><!-- --></div>
-						<input id="user_login_remember" name="remember" type="checkbox" class="ignore"> <label for="user_login_remember">Remember Me</label>
-					</div>
-					<a id="lnkForgotPassword" href="/ForgotPassword.aspx" title="Forgot Password - NewspaperARCHIVE.com">Forgot Password?</a>
-				</div>
-			</div>
-			<div id="logged_in">
-				<div class="free premium">
-							<div id="user_info_welcome" class="free premium">Welcome back, <span id="user_info_name">Guest</span></div>
-							<div id="user_info_upgrade" class="hidden">You have <span id="user_info_views_remaining">3</span> page views remaining today. </div>
-							<span id="user_info_options" class="free premium"><a href="#" onclick="javascript:doLoginPostBack('btnMyAccount','');" onkeyup="javascript:doLoginPostBack('btnMyAccount','');">My Account</a> | <a href="#" onclick="javascript:doLoginPostBack('btnLogout','');" onkeyup="javascript:doLoginPostBack('btnLogout','');">Logout</a></span><span id="user_info_upgrade_offer" class="free"><a href="/Register/Upgrade.aspx?rc=ur">Upgrade</a> |&nbsp;</span>
-							
-					</div>
-					
+    <div id="auth_user_info_inner">
+        <input name="ctl00$UserAuth$hdnloginchk" type="hidden" id="ctl00_UserAuth_hdnloginchk" class="ignore">
+        <div id="logged_out" class="anonymous" style="">
+            <div id="user_login_tab">
+                <a id="user_login_tab_link" href="/ForgotPassword.aspx">Login</a> | <a href="#" class="paymentpop">
+                    Create Account</a>
+            </div>
+            <div style="z-index: 1000;">
+                <div id="user_login_tray" class="ui-corner-all">
+                    <div class="form-set">
+                        <label for="user_login_name">
+                            Username:
+                        </label>
+                        <br>
+                        <input id="user_login_name" name="username" type="text" class="required ignore" onfocus="if(this.value=='Username'){this.value='';}" onblur="if (this.value==''){this.value='Username';}">
+                        <!-- G Davis, Sept 23, 2009, bug tracker issue 19 fix -->
+                        <!-- - add a hidden control for accepting the username value from the Username cookie, when the ASCX first loads -->
+                        <input type="hidden" name="ctl00$UserAuth$hdnUserName" id="ctl00_UserAuth_hdnUserName" class="ignore">
+                    </div>
+                    <div class="form-set" id="password_set">
+                        <label for="user_login_password">
+                            Password:
+                        </label>
+                        <br>
+                        <input id="user_login_password" type="password" class="required ignore" name="password" onkeydown="var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;if (keyCode == 13){$('#user_login_submit').click(); event.cancelBubble=true; event.returnValue=false;}">
+                    </div>
+                    <div class="form-set" id="login_set">
+                        <input id="user_login_submit" type="submit" value="Login" class="ignore">
+                        <div class="clear-flat">
+                            <!-- -->
+                        </div>
+                        <input id="user_login_remember" name="remember" type="checkbox" class="ignore">
+                        <label for="user_login_remember">
+                            Remember Me</label>
+                    </div>
+                    <a id="lnkForgotPassword" href="/ForgotPassword.aspx" title="Forgot Password - NewspaperARCHIVE.com">
+                        Forgot Password?</a>
+                </div>
+            </div>
+        </div>
+        <div id="logged_in">
+            <div class="free premium">
+                <div id="user_info_welcome" class="free premium" style="">
+                    Welcome back, <span id="user_info_name">
+                        Guest</span></div>
+                <div id="user_info_upgrade" class="hidden">
+                    You have <span id="user_info_views_remaining">
+                        3</span>
+                    page views remaining today.
+                </div>
+                <div id="user_info_options" class="free premium" style="">
+                    <table cellpadding="0" cellspacing="0" border="0" width="" style="font-size:11px; white-space:nowrap;">
+                        <tbody><tr>
+                            <td style="white-space:nowrap;">
+                                <a href="../contactimporter.aspx">Invite Friends</a> |
+                            </td>
+                            <td style="white-space:nowrap;">
+                                <a href="#" onclick="javascript:doLoginPostBack('btnMyAccount','');" onkeyup="javascript:doLoginPostBack('btnMyAccount','');">My Account</a> |
+                            </td>
+                            <td style="white-space:nowrap;">
+                                <a href="#" onclick="javascript:doLoginPostBack('btnLogout','');" onkeyup="javascript:doLoginPostBack('btnLogout','');">Logout</a> |
+                            </td>
+                            
+                            <td style="white-space:nowrap;" id="user_info_upgrade_offer">
+                                <a href="Register/Upgrade.aspx?rc=ur">Upgrade</a></td>
+                        </tr>
+                    </tbody></table>
+                    
+                </div>
+                <span id="user_info_option" class="free premium"></span>
+            </div>
+            
 <div id="timer_offers" style="margin-bottom: 10px; display: none;">
     <!-- Hidden variables with plan id, start time, and time span -->
     
@@ -175,7 +215,7 @@ function cancelNow(plan) {
 </script>
 
 
-			</div>
+        </div>
     </div>
 </div>
 <span id="user_info_userclass" style="display: none;">anonymous</span>
@@ -185,17 +225,17 @@ function cancelNow(plan) {
 
 </select>
     <input type="hidden" name="__LOGINTARGET" id="__LOGINTARGET" value="" class="ignore">
-    <input type="hidden" name="__LOGINARGUMENT" id="__LOGINARGUMENT" value="" class="ignore">    
+    <input type="hidden" name="__LOGINARGUMENT" id="__LOGINARGUMENT" value="" class="ignore">
     <input type="hidden" name="displayFacebookStream" id="displayFacebookStream" value="" class="ignore">
 </span>
-
-
 <!-- REQUIRED Asp.Net JavaScript Code Block -->
+
 <script type="text/javascript">
 //<![CDATA[
 var theForm = document.forms['aspnetForm'];
 if (!theForm) 
 {
+    //alert("hello");
     theForm = document.aspnetForm;
 }
 
@@ -223,6 +263,7 @@ function doLoginPostBack(eventTarget, eventArgument) {
     {
 		theForm.__LOGINTARGET.value = eventTarget;
         theForm.__LOGINARGUMENT.value = eventArgument;
+        
         theForm.submit();
     }
 }
@@ -247,16 +288,61 @@ pageScripts.push("$('a#user_login_tab_link').toggle(function() { $(this).addClas
 pageScripts.push("$('#user_login_submit').click(function() { login_validate(); });");
 //]]>
 </script>
-<!-- END UserInfoAuthentication -->	
+
+<script language="javascript" type="text/javascript">
+ //fcnloginchk();
+    function fcnloginchk()
+    {
+        //alertdocument.getElementById("ctl00_UserAuth_hdnloginchk").value();
+        if(document.getElementById("ctl00_UserAuth_hdnloginchk").value=="1")
+        {
+            document.getElementById('logged_out').style.display="block";
+            document.getElementById('logged_in').style.display="none";
+        }
+        
+        //alert("hello");
+    }
+</script>
+
+<!-- END UserInfoAuthentication -->
+
 								
 <ul id="nav_main" class="sf-menu">
-		<li class="green anonymous"><a href="/Register/Premium.aspx">Get Started</a></li>
-		<li><a id="lnkBrowse" href="/Browse.aspx">Browse</a></li>
-		<li><a id="lnkAdvanceSearch" href="/AdvanceSearch.aspx">Search</a></li>
-		<li><a href="http://dailyperspective.newspaperarchive.com/">Daily Perspective</a></li>
-		<li><a id="lnkContact" href="/AboutUsContact.aspx">Contact</a></li>
-		<li class="last"><a id="lnkHelp" href="/Information/Help.aspx">Help</a></li>
+    <!-- li added by vijay for home tab by vijay prajapat on 29/07/2010-->
+        <li><a href="/" id="lnkhome">Home</a></li>
+       
+    <li class="green anonymous"><a href="#" class="paymentpop">Subscribe</a></li>
+    <li><a id="lnkAdvanceSearch" href="/AdvanceSearch.aspx">Search</a>
+        <ul>
+            <li style="width: 180px;"><a href="/AdvanceSearch.aspx">Advanced Search</a></li>
+            <li style="width: 180px;"><a href="/Browse.aspx">Browse Papers</a></li>
+            <li style="width: 180px;"><a href="/BrowseNewLocation.aspx">Newly Added Content</a></li>
+        </ul>
+    </li>
+    <li><a href="/Share.aspx">Share</a>
+        <ul>
+            <li><a href="http://www.facebook.com/pages/NewspaperARCHIVE/378374140848" title="Become our fan on Facebook" target="_blank">Facebook Fan</a></li>
+            <li><a href="http://apps.facebook.com/birthdaynewspaper/" title="Use our Birthday Newspaper application on Facebook" target="_blank">Birthday App</a></li>
+            <li><a href="http://dailyperspective.newspaperarchive.com/" title="Read our blog, The Daily Perspective">
+                Daily Perspective</a></li>
+            <!--<li><a href="/Microsites.aspx" title="See our Microsites">Microsites</a></li>
+          <li><a href="/WhatsNew.aspx" title="See what we have added Recently">Newly Added Content</a></li>-->
+        </ul>
+    </li>
+    <li><a id="lnkContact" href="/Reproductions.aspx">Store</a></li>
+    <li class="last"><a id="lnkHelp" href="/Information/Help.aspx">Help</a></li>
+    <li id="user_tools" class="free premium nav-item"><a href="/CrossPostSite.aspx?abandonsession=true&amp;url=https://secure2.newspaperarchive.com/MyAccount.aspx" title="My Account - NewspaperARCHIVE.com - Explore. Discover. Share.">My Account</a>
+        <ul id="sub_tools">
+            <li id="tools_file"><a href="/FileCabinet.aspx" title="My Filing Cabinet - NewspaperARCHIVE.com - Explore. Discover. Share.">
+                My Filing Cabinet</a></li>
+            <li id="tools_archive"><a href="/Community.aspx" title="My Archive - NewspaperARCHIVE.com - Explore. Discover. Share.">
+                My Archive</a></li>
+            <li id="tools_alerts"><a href="/SearchAlerts.aspx" title="My Search Alerts - NewspaperARCHIVE.com - Explore. Discover. Share.">
+                My Search Alerts</a></li>
+        </ul>
+    </li>
 </ul>
+
 							</nav>
 						</div>
 					</div>
@@ -370,7 +456,7 @@ Friday, April 5, 1968<br><br>
 			<br>
 			If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact:
 			<br><br>
-			<b>NewspaperARCHIVE.com<br>4069 21st Avenue SW<br>Cedar Rapids, IA 52404</b>
+			<b>NewspaperARCHIVE.com<br>4049 21st Ave SW<br>Cedar Rapids, IA 52404</b>
 			<br><br>
 
 	
@@ -381,131 +467,109 @@ Friday, April 5, 1968<br><br>
 				</section></div>
 			
 			<footer class="page">
-				<div class="container">
-					<div id="footer_container" class="span-24 last">
-							<div id="footer">
-								<div id="nav_bottom" class="container">
-									
-<div id="nav_bottom_search" class="span-5 nav-bottom-item">
+				<div class="footer-stripe">
+					<div class="footer-stripe-inner">
+					<div class="container">
+						<div id="footer_container" class="span-24 last">
+								<div id="footer">
+									<div id="nav_bottom" class="container">
+										
+<div class="span-3" style="position: relative;">
+	<div id="partner_ops"><a href="http://www.heritagearchives.org/" title="Click here to learn more about our Partnership Opportunities"><img src="/redesign-2009-12/images/elements/partner_ops.jpg"></a></div>
+</div>
+<div id="nav_bottom_search" class="span-18 nav-bottom-item">
 	<nav>
-		<h4>Search</h4>
 		<ul>
-			<li><a href="AdvanceSearch.aspx">Advanced Search</a></li>
-			<li><a href="Browse.aspx">Browse Available Papers</a></li>
-			<li><a href="Information/Help.aspx">Help</a></li>
+			<li><a href="About-Us.aspx">About Us</a> | </li>
+			<li><a href="AboutUsContact.aspx">Contact Us</a> | </li>
+			<li><a href="HtmlViewer.aspx?ctl=PrivacyPolicy">Privacy Policy</a> | </li>
+			<li><a href="HtmlViewer.aspx?ctl=TermsofUse" id="ctl00_FooterNav_A3">Terms of Use</a> | </li>
+			<li><a href="HtmlViewer.aspx?ctl=TermsConditions" id="ctl00_FooterNav_A4">Terms &amp; Conditions</a> | </li>
+			<li><a href="HtmlViewer.aspx?ctl=Copyright" id="ctl00_FooterNav_A1">Copyright</a></li>
 		</ul>
 	</nav>
 </div>
-<div id="nav_bottom_newsletters" class="span-5 nav-bottom-item">
-	<nav>
-		<h4>NewspaperARCHIVE</h4>
-		<ul>
-			<li><a href="/About-Us.aspx">About Us</a></li>
-			<li><a href="http://dailyperspective.newspaperarchive.com/">The Daily Perspective</a> ®</li>
-		</ul>
-	</nav>
-</div>
-<div id="nav_bottom_featured" class="span-5 nav-bottom-item">
-	<nav>
-		<h4>Featured</h4>
-		<ul>
-			<li><a href="http://apps.facebook.com/birthdaynewspaper/">Headlines From Your Birthday</a></li>
-			<li><a href="about-us/heritage-family.aspx">Other Heritage Sites</a></li>
-			<!--<li><a href="ReproMain.aspx">Reproductions</a></li>-->
-		</ul>
-	</nav>
-</div>
-<div id="nav_bottom_contact" class="span-5 nav-bottom-item">
-	<nav>
-		<h4>Contact</h4>
-		<ul>
-			<li><a href="AboutUsContact.aspx">Contact Us</a></li>
-			<li><a href="AboutUsContact.aspx">Advertising Inquiries</a></li>
-			<li><a href="http://affiliates.newspaperarchive.com" target="_blank">Affiliate Marketing</a></li>
-		</ul>
-	</nav>
-</div>
-<div id="McAfee_badge" class="span-4 last">
+<div id="McAfee_badge" class="span-3 last">
 	<!-- START SCANALERT CODE -->
 	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.newspaperarchive.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/survey/www.newspaperarchive.com/13.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 	<!-- END SCANALERT CODE -->
 </div>
+									</div>
 								</div>
-							</div>
+						</div>
+					</div>
 					</div>
 				</div>
-				<div class="clear-flat"><!-- --></div>
 				<div id="copyright_container">
-					<div id="copyright" class="container">
-						
-Copyright ©  <a href="http://www.heritagemicrofilm.com" title="Heritage Microfilm" target="_blank">Heritage Microfilm</a>, Inc. All rights reserved. <a href="HtmlViewer.aspx?ctl=Copyright" id="ctl00_Copyright_A1">Copyright</a> | <a href="HtmlViewer.aspx?ctl=PrivacyPolicy" id="ctl00_Copyright_A2">Privacy Policy</a> | <a href="HtmlViewer.aspx?ctl=TermsofUse" id="ctl00_Copyright_A3">Terms of Use</a> | <a href="HtmlViewer.aspx?ctl=TermsConditions" id="ctl00_Copyright_A4">Terms &amp; Conditions</a> | Site performance ensured by <a href="http://www.ascendview.com/wildmetrix/sol_aspdotnet.asp?l=2">WildMetrix™</a> | <a href="http://the-acap.org/acap-enabled.php" target="_blank"><img src="../images/acap_enabled_small.gif" style="vertical-align:text-top" alt="ACAP Enabled"></a>
+					<div id="copyright">
+						<div class="container">
+							
+Copyright © 2010<!-- <a href="http://www.heritagemicrofilm.com" title="Heritage Microfilm" target="_blank">Heritage Microfilm</a>, Inc -->. All rights reserved.
+						</div>
 					</div>
 				</div>
 			</footer>
     
 		
-<div id="membership_required" style="display: none; overflow: hidden; color: #6f2208; background-color: #FFF;" class="overlay" title="Preview - Membership Required">
-	<div class="content span-22" style="background-color: #FFFFFF;">
-		<div id="overlay_header" class="span-22">
-			<div id="overlay_logo" class="na span-8">
-				<img src="/redesign-2009-12/images/logos/NA.com_Logo.jpg" alt="NewspaperARCHIVE.com Logo">
-			</div>
-			<div id="overlay_bullets" class="span-14 last">
-				<ul>
-						<li><strong>Explore</strong> the past with over a billion historic newspaper articles</li>
-						<li><strong>Discover</strong> the stories that are personal to you with our powerful search tools</li>
-						<li><strong>Share</strong> your unique memories with family and friends</li>
-				</ul>
-			</div>
-		</div>
-		<div id="overlay_content" class="span-22" style="background-color: #f3f3f3; margin-top: 10px;">
-			<div id="overlay_preview" class="span-7" style="margin: -10px auto;">
-				<div class="results">
-						<div class="teaser-image-preview results" style="text-align: center;">
-								<img src="/images/example-newspaper-thumb.jpg" alt="View the full version of this page with your premium membership">
-						</div>
-						
-				</div>
-				<div class="loading" style="text-align: center; display: none;">
-						<img class="preview-image" alt="loading..." src="/images/ajax-loader.gif"><br>Image loading
-				</div>
-			</div>
-			<div class="span-15 last">
-				<div class="results-container">
-						<div class="results results-search" style="text-align: center; margin-bottom: 10px; padding-top: 15px;">
-								<h2 id="h1Results">We discovered <em><span id="spnSearchResults"></span></em> <span class="result-type">results</span> for <em><span id="teaserSearchTerms"></span></em><span class="result-after"> in newspaper articles found in our archive!</span></h2>
-								<h2 id="h3LastNameArea" class="hidden">We found an additional <em><span id="teaser_ln_results_count"></span></em> results for <em><span id="teaser_ln_results_term"></span></em></h2>
-						</div><!-- /.results -->
-					<div class="loading" style="text-align: center; display: none;">
-								<img class="preview-image" alt="loading..." src="/images/ajax-loader.gif"><br>Retrieving results...
-						</div><!-- /.loading -->
-						<div id="overlay_calltoaction" class="center">
-							<h3>Special Offer for New Members!</h3>
-							<div class="center vertical-padding"><a class="button large" href="/Register/Premium.aspx">Get Started!</a></div>
-						</div>
-				</div><!-- /.results-container -->
-			</div>
-		</div>
-		<div id="overlay_footer" class="span-22 prepend-top">
-			<div class="span-7 center">
-				<div class="teaser-image-meta" style="font-size: .8em; font-weight: bold;">Meta Data</div>
-			</div>
-			<div class="span-15 last center">
-				<h2 class="bottom">The world's largest online newspaper archive!</h2>
-				<h3 class="top bottom">Questions? Comments? Call us at 888.845.2887 or email us</h3>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="membership_required_error" style="display: none;">
+<div id="membership_required" style="display: none; overflow: hidden; color: #6f2208;" class="overlay" title="Preview - Membership Required">
+	<div class="content span-22">
+        <div id="focus" style="padding-top: 10px;">
+        	<div class="span-7">
+            	<div class="ui-corner-all" style="background-color: #ECE6C2; border: 1px solid #6E2208; padding-top: 5px;">
+                    <div id="teaser_image_box" style="margin: 14px;">
+                        <div class="results">
+                            <div class="teaser-image-preview results" style="text-align: center; display: none;">
+                                <img src="/images/example-newspaper-thumb.jpg" alt="View the full version of this page with your premium membership">
+                            </div>
+                            <div class="teaser-image-meta" style="font-size: .8em; font-weight: bold;"></div>
+                        </div>
+                        <div class="loading" style="text-align: center;">
+                            <img class="preview-image" alt="loading..." src="/images/ajax-loader.gif"><br>Image loading
+                        </div>
+                        <!--<div id="teaser_image_preview_count_info" style="text-align: center; line-height: 28px; width: 240px; margin: 5px auto auto;"><span class="ui-state-default ui-corner-all" style="float: right; padding: 4px;"><a class="ui-icon ui-icon-circle-triangle-e" style="text-decoration: none;" href="#" id="next" onclick="nextImage(); return false;"></a></span><span class="ui-state-default ui-corner-all" style="float: left; padding: 4px;"><a class="ui-icon ui-icon-circle-triangle-w" style="text-decoration: none;" href="#" id="prev" onclick="prevImage(); return false;">&lt;</a></span><span class="1" id="teaser_image_results_count">1</span> of <span id="teaser_image_results_page_total">10</span></div>-->
+                        
+                        <div class="clear-both">&nbsp;</div>
+                    </div>
+                </div><!-- /.ui-corner-all -->
+            </div><!-- /.span-7 -->
+            
+            <div class="span-13 last">
+                <div class="results-container">
+                    <div class="results results-search ui-corner-all" style="text-align: center; display: none; border: solid 1px #6f2208; margin-bottom: 10px; padding-top: 15px;">
+                        <h1 id="h1Results" style="font-weight: bold;  color: #6f2208; line-height: 1.4em;">We discovered <strong><em style="color: #006699; font-size: larger;"><span id="spnSearchResults"></span></em></strong> <span class="result-type">results</span> for <br><strong><em style="color: #006699; font-size: larger;"><span id="teaserSearchTerms"></span></em></strong><span class="result-after"><br>in newspaper articles<br>found in our archive!</span></h1>
+                        <h3 id="h3LastNameArea" class="hidden">We found an additional <strong><em style="color: #006699; font-size: larger;"><span id="teaser_ln_results_count"></span></em></strong> results for <strong><em style="color: #006699; font-size: larger;">"<span id="teaser_ln_results_term"></span>"</em></strong></h3>
+                    </div><!-- /.results -->
+                	<div class="loading" style="text-align: center;">
+                        <img class="preview-image" alt="loading..." src="/images/ajax-loader.gif"><br>Retrieving results...
+                    </div><!-- /.loading -->
+                </div><!-- /.results-container -->
 
+				<div class="text">
+										<p style="font-size: 1.4em; font-weight: bold; line-height: 2.2em;"><a href="#" class="paymentpop" style="padding: 5px 1px; float: right; margin-top: 12px; font-weight: bold;"><img src="/images/pricing/btn-getstarted-2.gif"></a><span style="line-height:4em;">Special Offer for New Members!</span></p>
+	<!--  BEGIN DISCLUDE
+                <div class="text">
+										<p style="font-size: 1.4em; font-weight: bold; line-height: 1.2em;"><a id="overlay_get_started" class="ui-state-default ui-corner-all na-button" href="/Register/Premium.aspx" style="float: right; padding: 5px 15px; margin-top: 12px; font-weight: bold;">Get Started</a><img src="/images/icons/checkmark-large.gif" style="vertical-align: middle;" />Begin Your Membership Now!</p>
+	END DISCLUDE -->
+                    <p><strong>With your membership you'll be able to:</strong></p>
+                    <ul>
+                        <li><strong>Explore</strong> the past with over a billion historic newspaper articles</li>
+                        <li><strong>Discover</strong> the stories that are personal to you with our powerful search tools</li>
+                        <li><strong>Share</strong> your unique memories with family and friends</li>
+                    </ul>
+										<h3 style="margin: 20px 0 15px;"><strong style="color: #567B20;">Questions? Comments? Call us at 888.845.2887</strong></h3>
+                </div><!-- /.text -->
+            </div><!-- /.span-13 .last -->
+						<br>
+        </div>       
+    </div>
 </div>
+
 <script type="text/javascript">
 function openDialog(el,query,text,lname) {
 	if (query != _queries[_queries.length-1]) {
 		$(el+" .loading").show();
 		$(el+" .results").hide();
-		$(el+" #h3LastNameArea").addClass('hidden');
+		$(el+" #h3LastNameArea").addClass('hidden').hide();
 		$.ajax({
 			type: "GET",
 			url: _search_api_url,
@@ -522,7 +586,6 @@ function openDialog(el,query,text,lname) {
 						$(".result-after").removeClass('hidden');
 					}
 					$(el+" .teaser-image-preview img").attr('src',_currentSearchResults.results[0].thumbsource);
-					
 					$(el+" .teaser-image-meta").html("<div style='margin: 10px 0; display: none;'>Result 1 of XXXXX</div>"+getPreviewMeta(_currentSearchResults));
 					$(el+" #spnSearchResults").text(_currentSearchResults.totalcount);
 				} else {
@@ -532,32 +595,31 @@ function openDialog(el,query,text,lname) {
 				$(el+" .results").show();
 				$(el+" .loading").hide();
 				_queries.push(query);
-				shadowboxInlineOpen("membership_required","You Searched for \""+text+"\"");
 			},
 			error: function(data, textStatus, errorThrown) {
 				//alert(data+","+textStatus+","+errorThrown);
-				shadowboxInlineOpen("membership_required_error","Error",300,300);
 			}
 		});
 		if (lname != "" && lname != undefined && lname != null) {
 			$.ajax({
 				type: "GET",
 				url: _search_api_url,
-				data: "search=TEXT:"+lname+";&returns=XML:title;&parameters=MAX_RESULTS:0;",
+				data: "search=TEXT:"+lname+";&returns=XML:title;&parameters=MAX_RESULTS:1;",
 				success: function(data,textStatus) {
 					var lnQuery = new ResultSet(data);
 					$(el+" #teaser_ln_results_count").text(lnQuery.totalcount);
 					$(el+" #teaser_ln_results_term").text(lname);
-					$(el+" #h3LastNameArea").removeClass('hidden');
+					$(el+" #h3LastNameArea").removeClass('hidden').show();
 				}, error: function(data, textStatus, errorThrown) {
 				//alert(data+","+textStatus+","+errorThrown);
 				}
 			});
 		} else {
-			$(el+"  #h3LastNameArea").addClass('hidden').hide();
+			$(el+" #h3LastNameArea").addClass('hidden').hide();
 		}
 	}
-	Shadowbox.open({content: 'http://www.newspaperarchive.com/images/searching_progress.gif',player: 'img',title: "Loading..."});
+	if ($.browser.msie && $.browser.version <=6) { $(".overlay-logo").ifixpng(); }
+	$(el).dialog('open');
 }
 
 function getPreviewMeta(source) {
@@ -568,22 +630,11 @@ function getPreviewMeta(source) {
 	return html;
 }
 
-function shadowboxInlineOpen(id,title,height,width) {
-	if (!height) {
-		var height = 500;
-	}
-	if (!width) {
-		var width = 880;
-	}
-	Shadowbox.open({
-			content:    $('#'+id).html(),
-			player:     "html",
-			title:      title,
-			width: width,
-			height: height
-	});
-}
+pageScripts.push("$('#membership_required').dialog({ autoOpen: false, modal: true, width: 835, resizable: false, title: '<img class=\"overlay-logo\" src=\"/images/na-ball-large.png\" style=\"vertical-align: middle;\" /> Explore. Discover. Share.', open: function() { $(this).show(); urchinTracker('/Register/Preview.aspx'); }, close: function() { $('#membership_required .loading').show; $('#membership_required .results').hide; urchinTracker(window.location); } });");
 </script>
+		<div id="message_premium" style="display: none; padding-bottom: 0;" class="ui-dialog-content ui-widget-content">
+            <iframe src="MiddleNA.aspx" id="paymentpopup" width="600" height="1010" frameborder="0" style="border: 0px;" scrolling="no"></iframe>
+        </div>
     </form>
 
 <!--<script src="/redesign-2009-12/scripts/shadowbox/shadowbox.js"></script>-->
@@ -678,6 +729,24 @@ $(document).ready(function() {
 });
 //]]>
 </script>
+<script type="text/javascript" language="javascript">   
+    $(function(){
+        $('.paymentpop').click(function(){
+        $('#message_premium').dialog({ autoOpen: true, modal: true, draggable: false, width: 650, resizable: false, title: '<img class=\"overlay-logo\" src=\"../images/na-ball-large.png\" style=\"vertical-align: middle;\" /> Become a Member', open: function() { $(this).show(); }, close: function() { dialogClose1(); } }); if ($('#user_info_userclass').text() == 'anonymous') {  }; 
+        $('.ui-widget-overlay').css('min-height','1300px');
+        });
+    });
+            
+            //$('#message_premium').dialog({ autoOpen: true, modal: true, draggable: false, width: 750, resizable: false, title: '<img class=\"overlay-logo\" src=\"../images/na-ball-large.png\" style=\"vertical-align: middle;\" /> Become a Member', open: function() { $(this).show(); }, close: function() { dialogClose1(); } }); if ($('#user_info_userclass').text() == 'anonymous') {  }; 
+            
+            function dialogClose1()
+            {
+                var sPath = window.location.pathname;
+                var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+                location.href=sPage;
+            }
+
+    </script>
 
 
 </body></html>
