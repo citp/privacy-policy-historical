@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instacashkeywords.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513022817id_/http%3A//www.instacashkeywords.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacashkeywords.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216152434id_/http%3A//instacashkeywords.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # InstaCash Keywords - Privacy Policy
 
