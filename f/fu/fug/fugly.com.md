@@ -1,11 +1,53 @@
-> *The following text is extracted and transformed from the fugly.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216164720id_/http%3A//www.fugly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fugly.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216210232id_/http%3A//www.fugly.com/privacy) for the most accurate reproduction.*
 
 # Fugly.com Privacy Policy
 
-**  
-**  
-Updated April 8, 2009   
+|  |  | 
+
+**DAILY STUFF**  
   
+---|---|---  
+|  |   
+|  |  [Home](http://www.fugly.com/)  
+[Videos](http://www.fugly.com/videos/)  
+[Pictures](http://www.fugly.com/pictures/)  
+[Audio](http://www.fugly.com/audio/)  
+[Flash](http://www.fugly.com/flash/)  
+[Forums](http://forums.fugly.com/)
+
+[The Scary Maze Game](http://www.fugly.com/flash/709/Scary_Maze_Game.html)  
+[The History of the Maze](http://www.fugly.com/winnarr/)
+
+[Submit Material](http://www.fugly.com/submit.php)  
+  
+|  |   
+|  |   
+|  | **FEATURES**  
+|  |   
+|  |  [Bloodninja ](http://www.fugly.com/victims/bloodninja.php)   
+[IM Chats ](http://www.fugly.com/victims/)   
+[Horoscopes](http://www.fugly.com/horoscope/)   
+[C.R.A.P. Game](http://www.fugly.com/contests/crap/)   
+[Are you Fugly?](http://www.fugly.com/ornot/fugly/)  
+[Features](http://www.fugly.com/features/)   
+  
+|  |   
+|  | **NEWS AND INFO**  
+|  |   
+|  |  [Our Staff](http://www.fugly.com/staph/)  
+[Contact Info](http://www.fugly.com/contact/)  
+[Press](http://www.fugly.com/press/)  
+|  |   
+|  |  **BUDDY SITES**  
+|  |   
+|  |  [Cranky In Columbia](http://crankyincolumbiamd.blogspot.com/)  
+|  |   
+|  |  **RANDOM MEDIA**  
+|  |   
+|  |    
+  
+  |   |    
+|   
 ---  
   
 > The following discloses the information gathering and dissemination practices for **Fugly,** located at [http://www.fugly.com](http://www.fugly.com/)  
