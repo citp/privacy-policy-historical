@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pajiba.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617062237id_/http%3A//www.pajiba.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajiba.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216060801id_/http%3A//www.pajiba.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Pajiba - Scathing Reviews for Bitchy People
 
@@ -8,7 +8,9 @@ Pajiba.com collects personal information when you submit a comment to us — spe
 
 Pajiba.com uses any such collected information for the purpose of better serving you. Pajiba.com does not rent, sell or otherwise share personal information about you with other people or nonaffiliated companies unless we are responding to subpoenas, court orders, or legal processes, or to establish or exercise our legal rights or defend against legal claims.
 
-In addition, some of the companies that advertise on Pajiba.com may use cookies on our site. However, Pajiba.com has no access to or control over these cookies once we have given permission for them to set cookies for advertising.
+In addition, some of the companies that advertise on Pajiba.com may use cookies on our site. However, Pajiba.com has no access to or control over these cookies once we have given permission for them to set cookies for advertising. For more on that, we turn to the NAI disclaimer:
+
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
   
 [](http://creativecommons.org/licenses/by-nc-nd/2.5/)  
