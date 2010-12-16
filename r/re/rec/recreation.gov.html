@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617011801id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216161859id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+	  <script> 
+		window.name="ra";
+	  </script>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
 	    
 	  <style type="text/css"> @import url('/style/common.css');</style>
@@ -181,7 +184,7 @@ We use demographic information to tailor the Site and communications to the inte
 Registered users may opt to receive links to other sites we think you will enjoy. These sites operate independently of Recreation.gov and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.
 <p>
 </p><h3>Secure Server</h3> 
-This site uses the latest technology to ensure your personal and payment information is handled with confidentiality and security. Any personal information you provide through this Web site is encrypted through secure server technology using Secure Socket Layers (SSL). Once encrypted, this information travels from your computer to our servers. Only after your information reaches our servers, is your information decrypted and transferred to the NRRS™ reservation system. This technology ensures the security of your information.
+This site uses the latest technology to ensure your personal and payment information is handled with confidentiality and security. Any personal information you provide through this Web site is encrypted through secure server technology using Secure Socket Layers (SSL). Once encrypted, this information travels from your computer to our servers. Only after your information reaches our servers, is your information decrypted and transferred to the NRRS� reservation system. This technology ensures the security of your information.
 <p>
 </p><h3>DISCLAIMER AND LIABILITY NOTICE</h3> 
 This website and the information it contains are provided as a public service by ReserveAmerica, Inc., under contract to the U.S. Department of Agriculture, Forest Service, and other NRRS participating agencies. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for comparable purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
@@ -291,7 +294,20 @@ This site is operated and maintained by ReserveAmerica under contract with USDA,
 
 <!-- /footer -->
 	</div>
-
+	<div id="fb-root"></div>
+	<script>
+	if (document.getElementById('socialplugins')) {
+	  window.fbAsyncInit = function() {
+	    FB.init({appId: 'your app id', status: true, cookie: true,
+	             xfbml: true});
+	  };
+	  (function() {
+	    var e = document.createElement('script'); e.async = true;
+	    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+	    document.getElementById('fb-root').appendChild(e);
+	  }());
+	}
+	</script>
 
 	
 <!-- SiteCatalyst code version: H.21. Copyright 1996-2010 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
@@ -301,13 +317,13 @@ s_account="anreserveamericaprod,anglobalprod";
 s_tan=s_gi(s_account);
 s_tan.linkInternalFilters="javascript:,www.recreation.gov";
 /* You may give each page an identifying name, server, and channel on the next lines. */
-s_tan.pageName="recreation";
+s_tan.pageName="recreation:default";
 s_tan.channel="recreation";
-s_tan.prop1="recreation";
-s_tan.prop2="recreation";
-s_tan.prop3="recreation";
-s_tan.prop7="activecampgrounds";
-s_tan.hier1="recreation";
+s_tan.prop1="recreation:default";
+s_tan.prop2="recreation:default";
+s_tan.prop3="recreation:default";
+s_tan.hier1="recreation,default";
+s_tan.prop7="activeoutdoors";
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s_tan.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.21. -->
