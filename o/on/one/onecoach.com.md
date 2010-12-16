@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615173402id_/http%3A//onecoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216030802id_/http%3A//onecoach.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# OneCoach Privacy Policy
 
-### Privacy Policy
+###  Privacy Policy 
 
 **Dec. 2, 2008**
 
@@ -83,9 +83,9 @@ OneCoach will use commercially reasonable efforts to protect clients' personal i
 
 OneCoach will afford you a reasonable opportunity to review the personal information in your file, upon request to the Privacy Officer at info or by writing to: 
 
-OneCoach   
-5963 La Place Court, Suite 105   
-Carlsbad, CA 92008   
+OneCoach  
+5963 La Place Court, Suite 105  
+Carlsbad, CA 92008  
 760.904.5287 
 
 If OneCoach is not able to provide access to some aspect of a client's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is onfidential commercial information or attorney-client privileged ommunications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual. 
