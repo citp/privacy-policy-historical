@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moovyshoovy.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604023334id_/http%3A//www.moovyshoovy.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moovyshoovy.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216093833id_/http%3A//www.moovyshoovy.com/privacy-policy.php) for the most accurate reproduction.*
 
 # MoovyShoovy.com - Disclaimer
 
