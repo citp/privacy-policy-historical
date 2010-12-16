@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617220043id_/http%3A//www.pragmaticmarketing.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216210202id_/http%3A//www.pragmaticmarketing.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — World's most popular product management training by Pragmatic Marketing, 60,000 have attended.
+# Privacy Policy — Pragmatic Marketing, world's most popular product management training
 
 The Pragmatic Marketing website, [www.PragmaticMarketing.com](http://www.pragmaticmarketing.com/) (referred to as "website"), gathers information about each site visitor. This statement is provided to explain Pragmatic Marketing's commitment to privacy.
 
