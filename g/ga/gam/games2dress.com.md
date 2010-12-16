@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2dress.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528131612id_/http%3A//games2dress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2dress.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216100411id_/http%3A//games2dress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - games2dress - best free online flash games website for girls
 
