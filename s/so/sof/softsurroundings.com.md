@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061015id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216061002id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
 
 # Soft Surroundings - Customer Care - Privacy Policy & Terms of Use
+
+## Privacy Policy & Terms of Use
 
 Last updated: February 25, 2010
 
