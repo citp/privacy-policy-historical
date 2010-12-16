@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912123336id_/http%3A//www.marketingmag.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216024151id_/http%3A//marketingmag.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Marketing Magazine
 
@@ -6,7 +6,7 @@ At Marketing we understand that privacy is important, and we've created this pol
 
 We revaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
-Privacy Officer Niche Media Pty Ltd. 170 Dorcas Street South Melbourne VIC 3205 AUSTRALIA
+Privacy Officer Niche Media Pty Ltd. 142 Dorcas Street South Melbourne VIC 3205 AUSTRALIA
 
 Or to [websupport@niche.com.au](mailto:websupport@niche.com.au)
 
@@ -14,7 +14,7 @@ Please note that this privacy policy may change from time to time. We will post 
 
 ### Marketing Online Privacy Policy
 
-Marketing collects data, including personally identifying information, from people who use [www.marketingmag.com.au](). This section of our privacy policy explains how we collect and use this data. Please note that Marketing print edition subscriber data is maintained separately from data gathered from our online users.
+Marketing collects data, including personally identifying information, from people who use [www.marketingmag.com.au](http://www.marketingmag.com.au/). This section of our privacy policy explains how we collect and use this data. Please note that Marketing print edition subscriber data is maintained separately from data gathered from our online users.
 
 ### Information we collect and how we use it
 
