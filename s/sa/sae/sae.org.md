@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617010334id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216124925id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
@@ -80,22 +80,22 @@ If you have comments or questions about this Policy, please contact us at:
 
 | 
 
+SAE Update online a membership publication
+
+| 
+
+Performance Review Institute an affiliate of SAE International
+
+| 
+
 Join SAE Today!
 
 | 
 
-SAE Off-Highway Engineering Online
+When you need to reach engineers worldwide SAE has a solution
 
 | 
 
-eBooks from SAE
-
-| 
-
-Membership saves you money on these special programs
-
-| 
-
-Support science, engineering & math education  
+Performance Review Institute Registrar - Let our passion become your performance!  
   
 ---|---|---|---|---
