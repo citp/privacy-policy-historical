@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetfreedom.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612230656id_/http%3A//internetfreedom.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetfreedom.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216053524id_/http%3A//internetfreedom.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Internet Freedom Consortium
 
