@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617195927id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dpchq.policies.general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216234541id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dabout.policies.general) for the most accurate reproduction.*
 
-# General Policies | Policies | Agency Jobs and Info | Peace Corps
+# General Policies | Policies | About Us | Peace Corps
 
 ## Use of Links
 
@@ -24,9 +24,11 @@ Peace Corps has created this statement in order to demonstrate our firm commitme
 
 ### Reading or Downloading
 
-We collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; and the Internet address of the Web site from which you linked to our site.
+In order to help make our Web site more useful to visitors, we utilize web measurement technologies to collect information on the number of visitors to the different sections of our site. Specifically, we use persistent cookie technology to measure multiple session traffic to our domain, peacecorps.gov and compile reports with Google Analytics and MediaMind. We do not collect any personally identifiable information and collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; the Internet address of the Web site from which you linked to our site, and select browser information including version number, Java and Flash support level, screen resolution and language.
 
-We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
+Peace Corps will only use this information internally to analyze current Web site usage and determine the most effective way to customize and deliver our online content. We will not disclose this information to others. For data protection, we set first-party cookies and send information only to the servers of our domain, ensuring that the information cannot be altered or retrieved by any service on another domain. Additionally, all persistent cookies are set to expire within one year, consistent with OMB guidelines.
+
+By default, most browsers enable persistent cookies. If you wish to opt-out of our web measurement you may do so by disabling persistent cookies in your browser. General instructions on how to alter the settings of commonly used web browsers may be found at <http://www.usa.gov/optout_instructions.shtml>. Opting-out of our web measurement will still permit you to access all of our Web site content.
 
 ### Online Application
 
@@ -54,4 +56,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
 
-Last updated Sep 30 2008
+Last updated Sep 21 2010
