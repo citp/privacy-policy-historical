@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235352id_/http%3A//www.ieee.org/security_privacy.html%3FWT.mc_id%3Dhpf_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216172231id_/http%3A//www.ieee.org/security_privacy.html%3FWT.mc_id%3Dhpf_priv) for the most accurate reproduction.*
 
 # IEEE - About Your Security and Privacy
 
