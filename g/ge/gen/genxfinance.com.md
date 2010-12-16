@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the genxfinance.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526002020id_/http%3A//genxfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genxfinance.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216031320id_/http%3A//genxfinance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Generation X Finance
-
-##  [Privacy Policy](http://genxfinance.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 The privacy of our visitors to genxfinance.com is important to us.
 
@@ -14,7 +12,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 ### Cookies and Web Beacons
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
 We also use third party advertisements on genxfinance.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
