@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218202030id_/http%3A//www.goaheadtours.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216181905id_/http%3A//goaheadtours.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Go Ahead Tours
 
@@ -11,6 +11,8 @@ We are a member of the Better Business Bureau serving Eastern Massachusetts, Mai
 On our site, you can reserve and pay for your vacation with a credit card. GoAheadTours.com maintains the confidentiality, security and integrity of personal information that we obtain from our users. The personal information collected includes your name, address, email address, phone number and credit/debit card information. 
 
 When you request a newsletter subscription we ask for your name, email address, and city. To send a digital postcard or tell a friend about a particular tour, we ask for the recipient's name and email address. 
+
+Go Ahead Tours does not solicit, request or knowingly collect personal information from individuals under the age of 13. Go Ahead Tours complies in all respects with the Children’s Online Privacy Protection Act (“COPPA”). Go Ahead Tours may request certain information, such as name and age, about Your children if you register for an account on the Site, but in no event will Go Ahead Tours attempt to contact any individuals under the age of 13 directly. All information regarding children under the age of 13 will be obtained from such children’s parents or legal guardians and will be utilized and shared in accordance with all applicable laws, Go Ahead Tours’ Terms and Conditions and this Privacy Policy.
 
 If you need to change any information you have given goaheadtours.com, you can do so by calling our toll-free number **1-800-597-0350** or contacting us online. 
 
