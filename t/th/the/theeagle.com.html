@@ -1,28 +1,17 @@
-<!--The following is the downloaded HTML source of the theeagle.com privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618054952id_/http%3A//www.theeagle.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theeagle.com privacy policy that was archived on 2010-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216170030id_/http%3A//www.theeagle.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy Statement</title>
 
-
-
 <link href="http://www.theeagle.com/style/EagleIndex.css" rel="stylesheet" type="text/css">
 <link href="http://www.theeagle.com/style/EagleSections.css" rel="stylesheet" type="text/css">
-
-<!-- Begin of Most Popular 300 wide box -->
-<script src="/scripts/MostPopular300.js" type="text/javascript"></script>
-<link href="/style/mMostPopular300.css" rel="stylesheet" type="text/css">
-<!-- End of Most Popular 300 wide box -->
-
-<!-- Begin of Top Ads 252 wide box -->
-<script src="/scripts/TopAds300.js" type="text/javascript"></script>
-<link href="/style/mTopAds300.css" rel="stylesheet" type="text/css">
-<!-- End of Top Ads 252 wide box -->
 
 <link href="http://www.theeagle.com/style/TopNavBarTabs.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://www.theeagle.com/scripts/jTopNavBarTabs.js"></script>
 
+<script src="http://www.theeagle.com/scripts/theeagle/TopAds.js" type="text/javascript"></script>
 
 	<script type="text/javascript" src="/scripts/pluck/global.js"></script>
 <script type="text/javascript">
@@ -87,11 +76,78 @@ document.getElementById('Pluckcomments').innerHTML = commentsHtml + "</ul>";
 }
 </script>
 
-<script type="text/javascript">
-      document.domain = "theeagle.com";
-    </script>
-    <script type="text/javascript" src="http://sitelife.theeagle.com/ver1.0/Direct/DirectProxy">
+
+<!-- check Pluck Cookies and Sign In redirect -->
+<script type="text/javascript" language="javascript">
+			function redirectToLogin() {
+				window.location = "http://www.theeagle.com/user/signin/?returnURL=" + escape(window.location);
+			}
+			function GetCookieUserId() {
+				if ((Get_HD_Cookie("at") != null) || (Get_HD_Cookie("AT") != null)) {
+					var cookieVal = Get_HD_Cookie("at");
+					if (cookieVal == null) cookieVal = Get_HD_Cookie("AT");
+					var cookieValArray = cookieVal.split('&');
+					var i = 0;
+					for (i = 0; i < cookieValArray.length; i++) {
+						var tempVar = cookieValArray[i].split('=');
+						if ((tempVar[0] == "u") && (tempVar.length > 1)) {
+							return tempVar[1];
+						}
+					}
+					return null;
+				} else 
+					if ((Get_HD_Cookie("hd") != null) || (Get_HD_Cookie("HD") != null)) {
+						var cookieVal = Get_HD_Cookie("hd");
+						if (cookieVal == null) cookieVal = Get_HD_Cookie("HD");
+						var cookieValArray = cookieVal.split('|');
+						return cookieValArray[0];
+					} else {
+						return null;
+				}				
+			}
+			function Get_HD_Cookie( check_name ) {
+				// first we'll split this cookie up into name/value pairs
+				// note: document.cookie only returns name=value, not the other components
+				var a_all_cookies = document.cookie.split( ';' );
+				var a_temp_cookie = '';
+				var cookie_name = '';
+				var cookie_value = '';
+				var b_cookie_found = false; // set boolean t/f default f
+
+				for ( i = 0; i < a_all_cookies.length; i++ ) {
+					// now we'll split apart each name=value pair
+					a_temp_cookie = a_all_cookies[i].split( '=' );
+
+					// and trim left/right whitespace while we're at it
+					cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+					// if the extracted name matches passed check_name
+					if ( cookie_name.toLowerCase() == check_name.toLowerCase() ) {
+						b_cookie_found = true;
+						// we need to handle case where cookie has no value but exists (no = sign, that is):
+						if ( a_temp_cookie.length > 1 ) {
+							cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+						}
+						// note that in cases where cookie is initialized but no value, null is returned
+						//added this line here because at cookies have = signs included and our split above messes those up
+						if (check_name.toLowerCase() == "at") cookie_value = a_all_cookies[i].substring(3,a_all_cookies[i].length);
+						if (cookie_value.substring(0,1) == "=") cookie_value = cookie_value.substring(1);
+						return cookie_value;
+						break;
+					}
+					a_temp_cookie = null;
+					cookie_name = '';
+				}
+				if ( !b_cookie_found ) {
+					return null;
+				}
+			}
 </script>
+
+<script type="text/javascript">
+	document.domain = "theeagle.com";
+</script>
+<script type="text/javascript" src="http://sitelife.theeagle.com/ver1.0/Direct/DirectProxy"></script>
 
 <script type="text/javascript" src="/scripts/jquery.js"></script>
 <script type="text/javascript" src="/scripts/jquery.validate.js"></script>
@@ -148,6 +204,15 @@ contestEmail: "Please enter a valid email address"
 });;  
  </script> 
 
+<link href="http://www.theeagle.com/style/theeaglev2/RightRailTabs.css" rel="stylesheet" type="text/css">
+<link href="http://www.theeagle.com/style/theeaglev2/RightRailMostPopTab.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.theeagle.com/scripts/RightRailMostPopTab.js"></script>
+
+<!-- Added 12.1.2010 by BSW -->
+<!-- Fixes Most Popular in right rail -->
+<script src="http://www.theeagle.com/scripts/theeagle/MostPopular.js" type="text/javascript"></script>
+<!-- END: Added by BSW -->
+
 
 </head>
 <body>
@@ -174,68 +239,74 @@ contestEmail: "Please enter a valid email address"
 
 <div style="position: relative; left: 0px; top: 0px; height: 8px; font-size: 8px;"></div>
 <div id="p7TP1" class="p7TPpanel">
-  <div class="p7TPwrapper">
-    <div class="p7TP_tabs">
-      <div id="p7tpb1_1" class="down"><a class="down" href="http://www.theeagle.com/" title="Brazos Valley News, Weather, Business, and Aggie Sports | Bryan/College Station, Texas - The Eagle">Home</a></div>
-      <div id="p7tpb1_2"><a href="http://www.theeagle.com/news/" title="Local News | Bryan/College Station, Texas - The Eagle">News</a></div>
-      <div id="p7tpb1_3"><a href="http://www.theeagle.com/police/" title="Police Blotter | Bryan/College Station, Texas - The Eagle">Police Blotter</a></div>
-      <div id="p7tpb1_4"><a href="http://www.theeagle.com/health/" title="Health | Bryan/College Station, Texas - The Eagle">Health</a></div>
-      <div id="p7tpb1_5"><a href="http://www.theeagle.com/sports/" title="Local Sports | Bryan/College Station, Texas - The Eagle">Sports</a></div>
-      <div id="p7tpb1_6"><a href="http://weather.theeagle.com/US/TX/College_Station.html" title="Local Weather | Bryan/College Station, Texas - The Eagle"> Weather </a></div>
-      <div id="p7tpb1_7"><a href="http://www.theeagle.com/video/" title="Local Video | Bryan/College Station, Texas - The Eagle">Video</a></div>
-      <div id="p7tpb1_8"><a href="http://www.theeagle.com/entertainment/" title="Local Entertainment | Bryan/College Station, Texas - The Eagle">Entertainment</a></div>
-      <div id="p7tpb1_9"><a href="http://www.legacy.com/obituaries/theeagle/" title="Local Obituaries | Bryan/College Station, Texas - The Eagle">Obits</a></div>
-      <div id="p7tpb1_10"><a href="http://www.theeagle.com/announcements/" title="Local Announcements | Bryan/College Station, Texas - The Eagle">Announcements</a></div>
-      <div id="p7tpb1_11"><a href="http://www.theeagle.com/opinions/" title="Local Opinions | Bryan/College Station, Texas - The Eagle">Opinions</a></div>
-      <div id="p7tpb1_12"><a href="http://www.theeagle.com/brazoslife/" title="Brazos Life | Bryan/College Station, Texas - The Eagle">Brazos Life</a></div>
-
-      <div id="p7tpb1_13" style="float: right;"><a href="http://www.adtaking.com" title="Place A Classified | Bryan/College Station, Texas - The Eagle">Place an Ad</a></div>  
-      <div id="p7tpb1_14" style="float: right;"><a href="http://www.bvhomefinder.com" title="Real Estate | Bryan/College Station, Texas - The Eagle">Homes</a></div>
-      <div id="p7tpb1_15" style="float: right;"><a href="http://www.brazosautos.com/autos/listings2.asp?region=Texas" title="Automotives | Bryan/College Station, Texas - The Eagle">Autos</a></div>
-      <div id="p7tpb1_16" style="float: right;"><a href="http://www.theeagle.com/Classifieds/Search/Employment/" title="Employment | Bryan/College Station, Texas - The Eagle">Jobs</a></div>      
-      <div id="p7tpb1_17" style="float: right;"><a href="http://www.theeagle.com/classifieds/" title="Local Classifieds | Bryan/College Station, Texas - The Eagle">Classifieds</a></div> 
-      <div id="p7tpb1_18" style="float: right;"><a href="http://www.shopbrazos.com/" target="_blank" title="Shopbrazos | Bryan/College Station, Texas - The Eagle">ShopBrazos</a></div>
-     
-      <br class="p7TPclear">
-    </div>
-    <div class="p7TPcontent">
-		<div id="p7tpc1_1"> 
-		<a href="http://www.theeagle.com/" title="Bryan/College Station, Texas - The Eagle">Main Index</a>| 
-		<a href="http://www2.theeagle.com/archives/archives.php" title="Online Archives | Bryan/College Station, Texas - The Eagle">Archives</a> | 
-		<a href="http://www.theeagle.com/classifieds/" title="Local Classifieds | Bryan/College Station, Texas - The Eagle">Classifieds</a> | 
-		<a href="http://www.theeagle.com/classifieds/" title="Buy/Sell A Car | Bryan/College Station, Texas - The Eagle">Buy/Sell a Car</a> | 
-		<a href="http://bcscene.theeagle.com/" title="Share Photos on BCScene | Bryan/College Station, Texas - The Eagle">Share Photos on BCScene</a> | 
-		<a href="http://www.theeagle.com/advertise/contact/" title="Advertise with Us | Bryan/College Station, Texas - The Eagle">Advertise with Us</a> | 
-		<a href="http://www.theeagle.com/contact/contactus/" title="Contact Us | Bryan/College Station, Texas - The Eagle">Contact Us</a> | 
-		<a href="http://www.theeagle.com/contact/ourstaff/" title="Our Staff | Bryan/College Station, Texas - The Eagle">Our Staff</a> | 
-		<a href="http://www.theeagle.com/contact/faqs/" title="FAQ | Bryan/College Station, Texas - The Eagle">FAQ</a> | 
-		<a href="http://www.theeagle.com/about/privacy/" title="Privacy | Bryan/College Station, Texas - The Eagle">Privacy</a> | 
-		<a href="http://www.theeagle.com/about/termsofuse/" title="Terms of Use | Bryan/College Station, Texas - The Eagle">Terms of Use</a> 
+	<div class="p7TPwrapper">
+		<div class="p7TP_tabs">
+			<div id="p7tpb1_1" class="down"><a class="down" href="http://www.theeagle.com/" title="Brazos Valley News, Weather, Business, and Aggie Sports | Bryan/College Station, Texas - The Eagle">Home</a></div>
+			<div id="p7tpb1_2"><a href="http://www.theeagle.com/news/" title="Local News | Bryan/College Station, Texas - The Eagle">News</a></div>
+			<div id="p7tpb1_3"><a href="http://www.theeagle.com/blogs/" title="Blogs | Bryan/College Station, Texas - The Eagle">Blogs</a></div>
+			<div id="p7tpb1_4"><a href="http://www.theeagle.com/health/" title="Health | Bryan/College Station, Texas - The Eagle">Health</a></div>
+			<div id="p7tpb1_5"><a href="http://www.theeagle.com/sports/" title="Local Sports | Bryan/College Station, Texas - The Eagle">Sports</a></div>
+			<div id="p7tpb1_6"><a href="http://weather.theeagle.com/US/TX/College_Station.html" title="Local Weather | Bryan/College Station, Texas - The Eagle"> Weather </a></div>
+			<div id="p7tpb1_7"><a href="http://www.theeagle.com/video/" title="Local Video | Bryan/College Station, Texas - The Eagle">Video</a></div>
+			<div id="p7tpb1_8"><a href="http://www.theeagle.com/entertainment/" title="Local Entertainment | Bryan/College Station, Texas - The Eagle">Entertainment</a></div>
+			<div id="p7tpb1_9"><a href="http://www.legacy.com/obituaries/theeagle/" title="Local Obituaries | Bryan/College Station, Texas - The Eagle">Obits</a></div>
+			<div id="p7tpb1_10"><a href="http://www.theeagle.com/announcements/" title="Local Announcements | Bryan/College Station, Texas - The Eagle">Announcements</a></div>
+			<div id="p7tpb1_11"><a href="http://www.theeagle.com/opinions/" title="Local Opinions | Bryan/College Station, Texas - The Eagle">Opinions</a></div>
+			<div id="p7tpb1_12"><a href="http://www.theeagle.com/brazoslife/" title="Brazos Life | Bryan/College Station, Texas - The Eagle">Brazos Life</a></div>
+			<div id="p7tpb1_13" style="float: right;"><a href="http://www.adtaking.com" title="Place A Classified | Bryan/College Station, Texas - The Eagle">Place an Ad</a></div>	 
+			<div id="p7tpb1_14" style="float: right;"><a href="http://www.bvhomefinder.com" title="Real Estate | Bryan/College Station, Texas - The Eagle">Homes</a></div>
+			<div id="p7tpb1_15" style="float: right;"><a href="http://www.brazosautos.com/autos/listings2.asp?region=Texas" title="Automotives | Bryan/College Station, Texas - The Eagle">Autos</a></div>
+			<div id="p7tpb1_16" style="float: right;"><a href="http://www.theeagle.com/Classifieds/Search/Employment/" title="Employment | Bryan/College Station, Texas - The Eagle">Jobs</a></div>			 
+			<div id="p7tpb1_17" style="float: right;"><a href="http://www.theeagle.com/classifieds/" title="Local Classifieds | Bryan/College Station, Texas - The Eagle">Classifieds</a></div> 
+			<div id="p7tpb1_18" style="float: right;"><a href="http://www.shopbrazos.com/" target="_blank" title="Shopbrazos | Bryan/College Station, Texas - The Eagle">ShopBrazos</a></div>
+			<br class="p7TPclear">
 		</div>
-		
-		<div id="p7tpc1_2"> 
-		<a href="http://www.theeagle.com/local/" title="Local News | Bryan/College Station, Texas - The Eagle">Local</a> | 
-		<a href="http://www.theeagle.com/am/" title="A&amp;M | Bryan/College Station, Texas - The Eagle">A&amp;M</a> | 
-		<a href="http://www.theeagle.com/schools/" title="Schools | Bryan/College Station, Texas - The Eagle">Schools</a> | 
-		<a href="http://www.theeagle.com/texas/" title="Texas | Bryan/College Station, Texas - The Eagle">Texas</a> | 
-		<a href="http://www.theeagle.com/nation/" title="Nation | Bryan/College Station, Texas - The Eagle">Nation</a> | 
-		<a href="http://www.theeagle.com/world/" title="World | Bryan/College Station, Texas - The Eagle">World</a> | 
-		<a href="http://www.theeagle.com/politics/" title="Politics | Bryan/College Station, Texas - The Eagle">Politics</a> | 
-		<a href="http://www.theeagle.com/entertainment/" title="Entertainment | Bryan/College Station, Texas - The Eagle">Entertainment</a> | 
-		<a href="http://www.theeagle.com/business/" title="Business | Bryan/College Station, Texas - The Eagle">Business</a> | 
-		<a href="http://www.landandlivestockpost.com" title="Agriculture | Bryan/College Station, Texas - The Eagle">Agriculture</a> | 
-		<a href="http://www.theeagle.com/opinions/" title="Opinions | Bryan/College Station, Texas - The Eagle">Opinions</a> | 
-		<a href="http://www.legacy.com/theeagle/obituaries.asp" title="Obituaries | Bryan/College Station, Texas - The Eagle">Obituaries</a> | 
-		<a href="http://www.theeagle.com/health_fitness/" title="Health &amp; Fitness | Bryan/College Station, Texas - The Eagle">Health &amp; Fitness</a> | 
-		<a href="http://www.theeagle.com/faith_values/" title="Faith &amp; Values | Bryan/College Station, Texas - The Eagle">Faith &amp; Values</a> | 
-		<a href="http://www.theeagle.com/gardening/" title="Gardening | Bryan/College Station, Texas - The Eagle">Gardening</a> 
-		</div>
-        
-      	<div id="p7tpc1_3"> 
-		<a href="http://www.theeagle.com/police/" title="Local Crime | Bryan/College Station, Texas - The Eagle">Crime</a> 
-		</div>
-        
-      	<div id="p7tpc1_4"> 
+		<div class="p7TPcontent">
+			<div id="p7tpc1_1"> 
+				<a href="http://www.theeagle.com/" title="Bryan/College Station, Texas - The Eagle">Main Index</a>| 
+				<a href="http://www2.theeagle.com/archives/archives.php" title="Online Archives | Bryan/College Station, Texas - The Eagle">Archives</a> | 
+				<a href="http://www.theeagle.com/classifieds/" title="Local Classifieds | Bryan/College Station, Texas - The Eagle">Classifieds</a> | 
+				<a href="http://www.theeagle.com/classifieds/" title="Buy/Sell A Car | Bryan/College Station, Texas - The Eagle">Buy/Sell a Car</a> | 
+				<a href="http://bcscene.theeagle.com/" title="Share Photos on BCScene | Bryan/College Station, Texas - The Eagle">Share Photos on BCScene</a> | 
+				<a href="http://www.theeagle.com/advertise/contact/" title="Advertise with Us | Bryan/College Station, Texas - The Eagle">Advertise with Us</a> | 
+				<a href="http://www.theeagle.com/contact/contactus/" title="Contact Us | Bryan/College Station, Texas - The Eagle">Contact Us</a> | 
+				<a href="http://www.theeagle.com/contact/ourstaff/" title="Our Staff | Bryan/College Station, Texas - The Eagle">Our Staff</a> | 
+				<a href="http://www.theeagle.com/contact/faqs/" title="FAQ | Bryan/College Station, Texas - The Eagle">FAQ</a> | 
+				<a href="http://www.theeagle.com/about/privacy/" title="Privacy | Bryan/College Station, Texas - The Eagle">Privacy</a> | 
+				<a href="http://www.theeagle.com/about/termsofuse/" title="Terms of Use | Bryan/College Station, Texas - The Eagle">Terms of Use</a> 
+			</div>
+			<div id="p7tpc1_2"> 
+				<a href="http://www.theeagle.com/local/" title="Local News | Bryan/College Station, Texas - The Eagle">Local</a> | 
+				<a href="http://www.theeagle.com/police/" title="Local Crime | Bryan/College Station, Texas - The Eagle">Crime</a> |
+				<a href="http://www.theeagle.com/am/" title="A&amp;M | Bryan/College Station, Texas - The Eagle">A&amp;M</a> | 
+				<a href="http://www.theeagle.com/schools/" title="Schools | Bryan/College Station, Texas - The Eagle">Schools</a> | 
+				<a href="http://www.theeagle.com/texas/" title="Texas | Bryan/College Station, Texas - The Eagle">Texas</a> | 
+				<a href="http://www.theeagle.com/nation/" title="Nation | Bryan/College Station, Texas - The Eagle">Nation</a> | 
+				<a href="http://www.theeagle.com/world/" title="World | Bryan/College Station, Texas - The Eagle">World</a> | 
+				<a href="http://www.theeagle.com/politics/" title="Politics | Bryan/College Station, Texas - The Eagle">Politics</a> | 
+				<a href="http://www.theeagle.com/entertainment/" title="Entertainment | Bryan/College Station, Texas - The Eagle">Entertainment</a> | 
+				<a href="http://www.theeagle.com/business/" title="Business | Bryan/College Station, Texas - The Eagle">Business</a> | 
+				<a href="http://www.landandlivestockpost.com" title="Agriculture | Bryan/College Station, Texas - The Eagle">Agriculture</a> | 
+				<a href="http://www.theeagle.com/opinions/" title="Opinions | Bryan/College Station, Texas - The Eagle">Opinions</a> | 
+				<a href="http://www.legacy.com/theeagle/obituaries.asp" title="Obituaries | Bryan/College Station, Texas - The Eagle">Obituaries</a> | 
+				<a href="http://www.theeagle.com/health_fitness/" title="Health &amp; Fitness | Bryan/College Station, Texas - The Eagle">Health &amp; Fitness</a> | 
+				<a href="http://www.theeagle.com/faith_values/" title="Faith &amp; Values | Bryan/College Station, Texas - The Eagle">Faith &amp; Values</a> | 
+				<a href="http://www.theeagle.com/gardening/" title="Gardening | Bryan/College Station, Texas - The Eagle">Gardening</a> 
+			</div>
+			<div id="p7tpc1_3"> 
+				<a href="http://www.aggiesports.com/blogs/croomescorner/" title="Croome's Corner | Bryan/College Station, Texas - The Eagle">Croome's Corner</a> | 
+<a href="http://www.aggiesports.com/blogs/aggiesports/" title="Aggie Sports | Bryan/College Station, Texas - The Eagle">Aggie Sports</a> | 
+				<a href="http://www.theeagle.com/blogs/business_and_city/" title="Business and City | Bryan/College Station, Texas - The Eagle">Business and City</a> | 
+				<a href="http://www.theeagle.com/blogs/intheschools/" title="In the Schools | Bryan/College Station, Texas - The Eagle">In the Schools</a> | 
+				<a href="http://www.theeagle.com/blogs/wideworldofcourts/" title="Wide World of Courts | Bryan/College Station, Texas - The Eagle">Wide World of Courts</a> | 
+				<a href="http://www.theeagle.com/blogs/cheapthoughts/" title="Cheap Thoughts | Bryan/College Station, Texas - The Eagle">Cheap Thoughts</a> | 
+				<a href="http://www.brazossports.com/blogs/prepwork/" title="Prep Work | Bryan/College Station, Texas - The Eagle">Prep Work</a> | 
+				<a href="http://www.theeagle.com/blogs/policebeat/" title="Police Beat | Bryan/College Station, Texas - The Eagle">Police Beat</a> |			
+				<a href="http://www.theeagle.com/blogs/aggieland/" title="Aggieland | Bryan/College Station, Texas - The Eagle">Aggieland</a> |			
+				<a href="http://www.theeagle.com/blogs/fishstories/" title="Fish Stories | Bryan/College Station, Texas - The Eagle">Fish Tales</a>
+			</div>
+				
+				<div id="p7tpc1_4"> 
 		<a href="http://www.theeagle.com/health/" title="Health News | Bryan/College Station, Texas - The Eagle">Health</a> 
 		</div>
 
@@ -312,11 +383,11 @@ contestEmail: "Please enter a valid email address"
 		
 		
 		
-      	<div id="p7tpc1_13"> 
+				<div id="p7tpc1_13"> 
 		<a href="http://www.adtaking.com" title="Place Online Classifieds | Bryan/College Station, Texas - The Eagle">Place an Ad</a> 
 		</div>
 
-      	<div id="p7tpc1_17"> 
+				<div id="p7tpc1_17"> 
 		<a href="http://www.theeagle.com/Classifieds/Search/Announcements/" title="Announcements Classifieds | Bryan/College Station, Texas - The Eagle">Announcements</a> | 
 		<a href="http://www.theeagle.com/Classifieds/Search/Services/" title="Service Directory Classifieds | Bryan/College Station, Texas - The Eagle">Service Directory</a> | 
 		<a href="http://www.theeagle.com/Classifieds/Search/GeneralMerchandise/" title="Merchandise Classifieds | Bryan/College Station, Texas - The Eagle">Merchandise</a> | 
@@ -334,9 +405,9 @@ contestEmail: "Please enter a valid email address"
 		<a href="http://www.theeagle.com/Classifieds/Search/Cars4kto7k/" title="Cars $4K - $7K Classifieds | Bryan/College Station, Texas - The Eagle">Cars $4K - $7K</a> | 
 		<a href="http://www.theeagle.com/Classifieds/Search/Cars10kto15k/" title="Cars $10K - $15K Classifieds | Bryan/College Station, Texas - The Eagle">Cars $10K - $15K</a> | 
 		<a href="http://www.theeagle.com/Classifieds/Search/SUVs10kto15k/" title="SUVs $10K - $15K Classifieds | Bryan/College Station, Texas - The Eagle">SUVs $10K - $15K</a> | 
-		<a href="http://www.theeagle.com/Classifieds/Search/4x2Truccks6kto10k/" title="4x2 Trucks $6K to $10K  Classifieds | Bryan/College Station, Texas - The Eagle">4x2 Trucks $6K to $10K</a> | 
+		<a href="http://www.theeagle.com/Classifieds/Search/4x2Truccks6kto10k/" title="4x2 Trucks $6K to $10K	 Classifieds | Bryan/College Station, Texas - The Eagle">4x2 Trucks $6K to $10K</a> | 
 		<a href="http://www.theeagle.com/Classifieds/Search/VansOver10K/" title="Vans over $10K Classifieds | Bryan/College Station, Texas - The Eagle">Vans over $10K</a>
-        </div>
+				</div>
 		
 		<div id="p7tpc1_16"> 
 		<a href="http://www.theeagle.com/Classifieds/Search/DriversTransportation/" title="Drivers/Transportation Classifieds | Bryan/College Station, Texas - The Eagle">Drivers/Transportation</a> | 
@@ -357,13 +428,13 @@ contestEmail: "Please enter a valid email address"
 		<a href="http://www.theeagle.com/Classifieds/Search/HomesOver400K/" title="Real Estate Over $400K Classifieds | Bryan/College Station, Texas - The Eagle">Over $400K</a> 
 		</div>
 
-      	<div id="p7tpc1_18"> 
+				<div id="p7tpc1_18"> 
 		<a href="http://www.shopbrazos.com/" target="_blank" title="ShopBrazos | Bryan/College Station, Texas - The Eagle">ShopBrazos.com</a> | <a href="http://www.shopbrazos.com/menus/" target="_blank" title="Local Menus provided by ShopBrazos.com | Bryan/College Station, Texas">Menus</a> | <a href="http://www.shopbrazos.com/TX/food-and-dining/" target="_blank" title="Food and Dining listings provided by ShopBrazos.com | Bryan/College Station, Texas">Food &amp; Dining</a> | <a href="http://www.shopbrazos.com/coupons/" target="_blank" title="Coupons provided by ShopBrazos.com | Bryan/College Station, Texas">Coupons</a> | <a href="http://www.shopbrazos.com/TX/arts-and-entertainment/" target="_blank" title="Entertainment listings provided by ShopBrazos.com | Bryan/College Station, Texas">Entertainment</a> | <a href="http://www.shopbrazos.com/TX/beauty-salons-spas/" target="_blank" title="Beauty Salons and Spas listings provided by ShopBrazos.com | Bryan/College Station, Texas">Beauty &amp; Salons</a> | <a href="http://www.shopbrazos.com/TX/real-estate/" target="_blank" title="Real Estate listings provided by ShopBrazos.com | Bryan/College Station, Texas">Real Estate</a> | <a href="http://www.shopbrazos.com/TX/home-and-garden/" target="_blank" title="Home &amp; Garden listings provided by ShopBrazos.com | Bryan/College Station, Texas">Home &amp; Garden</a> | <a href="http://www.shopbrazos.com/weddings/" target="_blank" title="Weddings listings provided by ShopBrazos.com | Bryan/College Station, Texas">Weddings</a>
 
 		</div>
 
-    </div>
-  </div>
+		</div>
+	</div>
 </div>
 
 <script type="text/javascript">P7_initTP(1,0);</script>
@@ -372,8 +443,8 @@ contestEmail: "Please enter a valid email address"
       
      
       <div id="searchbox_left">
-      <div class="search_text_button"> Friday, June 18, 2010 </div>
-      <div class="search_text_button"> &nbsp;&nbsp;&nbsp;Daily Archives&nbsp;&nbsp; <a href="/archives/sunday/">SU</a>&nbsp;|&nbsp;<a href="/archives/monday/">MO</a>&nbsp;|&nbsp;<a href="/archives/tuesday/">TU</a>&nbsp;|&nbsp;<a href="/archives/wednesday/">WE</a>&nbsp;|&nbsp;<a href="/archives/thursday/">TH</a>&nbsp;|&nbsp;<a href="/archives/friday/">FR</a>&nbsp;|&nbsp;<a href="/archives/saturday/">SA</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/RSS/"><img src="/images/rss.gif" border="0" align="absmiddle"></a>&nbsp;&nbsp;<a href="/RSS/">RSS</a> &nbsp;&nbsp;&nbsp;<img src="/images/icon_pda.gif" align="absmiddle">&nbsp;&nbsp;<a href="/mobile/">Mobile Edition</a> &nbsp;&nbsp;&nbsp;<img src="/images/icon_email.gif" align="absmiddle">&nbsp;&nbsp;<a href="/dailyemails/">Daily Email Updates</a> </div>
+      <div class="search_text_button"> Thursday, December 16, 2010 </div>
+      <div class="search_text_button"> &nbsp;&nbsp;&nbsp;Daily Archives&nbsp;&nbsp; <a href="/archives/sunday/">SU</a>&nbsp;|&nbsp;<a href="/archives/monday/">MO</a>&nbsp;|&nbsp;<a href="/archives/tuesday/">TU</a>&nbsp;|&nbsp;<a href="/archives/wednesday/">WE</a>&nbsp;|&nbsp;<a href="/archives/thursday/">TH</a>&nbsp;|&nbsp;<a href="/archives/friday/">FR</a>&nbsp;|&nbsp;<a href="/archives/saturday/">SA</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </div>
 </div>
 <div id="searchbar_form">
  <form method="get" action="/results/">
@@ -393,8 +464,8 @@ contestEmail: "Please enter a valid email address"
 
 
 <div id="main_content_box">
-<div id="section_content_box">
-<center><b>WEBSITE PRIVACY STATEMENT</b></center>
+	<div id="section_content_box">
+		<center><b>WEBSITE PRIVACY STATEMENT</b></center>
 
 <p>Welcome to the website for The Eagle, <a href="http://www.theeagle.com">www.theeagle.com</a> (the "Site").  This Site is an online service owned by Bryan/College Station Communications Inc. (the "Company" or "us"), and powered by Mediaspan Online Services ("Mediaspan").  We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information.  In order to address those concerns we have developed this Website Privacy Statement. </p>
 
@@ -467,20 +538,16 @@ Email:  <a href="mailto:mike.albin@theeagle.com">mike.albin@theeagle.com</a><br>
 
 
 </div>
-
-
-  <!-- Right Rail and Footer -->
-  
-  <div class="section_right_rail">
-
-<div class="weather_box_border">
-<iframe src="http://weather.theeagle.com/US/TX/College_Station.html?snippet=1&amp;Custom2=1" frameborder="0" width="290" height="90" scrolling="no"></iframe> 
-</div>
-<div class="spacer5px">&nbsp;</div>
-<span id="adpositionb" style="float: left;" width="300" height="250"><iframe id="a5c1610b" name="a5c1610b" src="http://test.theeagle.com/server/www/delivery/afr.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="300" height="250" allowtransparency="true"><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe></span>
- <br clear="all">
-<div class="spacer5px">&nbsp;</div>
-<div class="greatfindsboxborder">
+		<!-- Right Rail and Footer -->
+		<div class="section_right_rail">
+	<div class="weather_box_border">
+		<iframe src="http://weather.theeagle.com/US/TX/College_Station.html?snippet=1&amp;Custom2=1" frameborder="0" width="290" height="90" scrolling="no"></iframe>
+	</div>
+	<div class="spacer5px">&nbsp;</div>
+	<span id="adpositionb" style="float: left;" width="300" height="250"><iframe id="a5c1610b" name="a5c1610b" src="http://test.theeagle.com/server/www/delivery/afr.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="300" height="250" allowtransparency="true"><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe></span>
+		<br clear="all">
+	<div class="spacer5px">&nbsp;</div>
+	<div class="greatfindsboxborder">
 <iframe width="300px" height="320px" scrolling="no" frameborder="0" src="http://www.shopbrazos.com/widgets/greatfinds-iframe.php?numItems=3"></iframe>
 </div>      
 
@@ -491,153 +558,21 @@ Email:  <a href="mailto:mike.albin@theeagle.com">mike.albin@theeagle.com</a><br>
 
 
 
-<div class="spacer5px">&nbsp;</div>
-<style type="text/css">
-.MostPopular300Tab { padding-left: 4px; padding-right: 4px; width: 79px; }
-
-</style>
-<div id="MostPopular300Title" style="height: 16px; width: 298px; "> &nbsp;&nbsp;&nbsp;&nbsp;MOST POPULAR
-</div>
-<div id="MostPopular3001" class="MostPopular300" style="margin: 0px 0px 5px 0px; width: 298px;">
-
-  <ul class="MostPopular300TabGroup">
-    <li class="MostPopular300Tab">Emailed</li>
-    <li class="MostPopular300Tab">Viewed</li>
-    <li class="MostPopular300Tab MostPopular300TabSelected">Commented</li>
-  </ul>
-  <div class="MostPopular300ContentGroup">
-    <div class="MostPopular300Content" style="display: none;">
-
-
-      <ul>
-      
-
-<li><a href="http://www.theeagle.com/business/Farmers--Market-hosts-demo-day" target="_blank">Farmers' Market hosts demo day</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/business/Ice-center-hosting-Camp-Cool-in-July" target="_blank">Ice center hosting Camp Cool in July</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/police/Driver-taken-in-on-drug-charges" target="_blank">Driver taken in on drug charges</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/texas/48-illegal-immigrants-in-closed-trailer-at-Laredo" target="_blank">48 illegal immigrants in closed trailer at Laredo</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/local/Calendar2010-06-17T22-06-35" target="_blank">Calendar</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/politics/White--Perry-is-a-part-timer" target="_blank">White: Perry is a part-timer</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/police/Two-CS-women-face-felony-drug-charges" target="_blank">Two CS women face felony drug charges</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/police/Police-say-man-had-illegal-mushrooms" target="_blank">Police say man had illegal mushrooms</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/gardening/Fight-plum-pests-with-Malathion" target="_blank">Fight plum pests with Malathion</a>  </li>
-
-
-
-
-      
-
-<li><a href="http://www.theeagle.com/police/CS-man-accused-of---burglary-and-theft" target="_blank">CS man accused of   burglary and theft</a>  </li>
-
-
-
-
-      
-      </ul>
-       
-
- 
-    </div>
-    <div class="MostPopular300Content" style="display: none;"> 
-
-      <ul>
-      
-
-<li><a href="http://www.theeagle.com/police/Slaying-suspect-arrested" target="_blank">Suspect in 2008 slaying arrested</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/police/Police--CS-man-had-marijuana-in-home" target="_blank">Police: CS man had marijuana in home</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/business/Area-welcomes-four-new-businesses" target="_blank">Area welcomes four new businesses</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/police/One-of-men-wanted-in-Bryan-detained" target="_blank">One of two men wanted in Bryan detained</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/police/Dallas-men-arrested-at-Bryan-s-IBC-Bank" target="_blank">Dallas men arrested at Bryan's IBC Bank</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/local/Payment-is-due-on--the-Queen" target="_blank">Payment is due on the Queen</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/police/2-arrested-for-pot-possession-during-traffic-stop" target="_blank">2 arrested for pot possession during traffic stop</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/local/Celebrating--complete--freedom" target="_blank">Family celebrates 'complete' freedom on Juneteenth</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/police/Driver-taken-in-on-drug-charges" target="_blank">Driver taken in on drug charges</a></li>
-
-      
-
-<li><a href="http://www.theeagle.com/texas/Faster-Internet-for-rural-Texas" target="_blank">Faster Internet for rural Texas</a></li>
-
-      
-      </ul>
-       
- </div>
-
-    <div class="MostPopular300Content MostPopular300ContentVisible" style="display: block;">
-
-
-    <script type="text/javascript">
+	<div class="spacer5px">&nbsp;</div>
+	<center>
+<div class="RightRailTabBox">
+    <div class="RightRailTabContainer">
+<div class="RightRailTabTitle">The Eagle's Most Popular</div>
+	<div id="TabbedPanels1" class="TabbedPanels">
+  		<ul class="TabbedPanelsTabGroup">
+    		<li class="TabbedPanelsTab" tabindex="0">Commented</li>
+    		<li class="TabbedPanelsTab" tabindex="0">Emailed</li>
+            <li class="TabbedPanelsTab" tabindex="0">Viewed</li>
+ 		</ul>
+  		<div class="TabbedPanelsContentGroup">
+<div class="TabbedPanelsContent">
+<script type="text/javascript">
+  $(document).ready(function() {
        var serverUrl =  "http://sitelife.theeagle.com/ver1.0/Direct/Process";
        var requestBatch =  new RequestBatch();
      
@@ -647,129 +582,262 @@ Email:  <a href="mailto:mike.albin@theeagle.com">mike.albin@theeagle.com</a><br>
         var contentTypeDisco = new ContentType("Article");
        var limitToContributorsDisco = new Array();
        requestBatch.AddToRequest(new DiscoverContentAction(searchSections, searchCategories, limitToContributorsDisco, activityDisco, contentTypeDisco, 6, 10));
+        var comCount = "";
+	function readyToLoadCount() {
+		if (!(!(document.getElementById("newMostCommented")))) {
+		/* DOM ready - lets load it */
+		document.getElementById("newMostCommented").innerHTML = "<a href='[zWebSite][category]/[subcategory][slugline]' class='headlinetext'><img src='/images/comment.gif' border='none' /> " + comCount + " Comment(s)</a> ";
+		} 
+                else { 
+                   /* DOM not ready - wait a split sec and try again */       
+                   setTimeout("readyToLoadCount()", 150); }
+		}
+
         var processDiscoveryResponse = function(responseBatch)
-        {   
+        { 
+
           if (responseBatch.Messages[0].Message != "ok")
             alert("Error:"  + responseBatch.Messages[0].Message);
            else {
              discoveredContent = responseBatch.Responses[0].DiscoverContentAction.DiscoveredContent;
-            discoveryHTML  = "";
-             
+            discoveryHTML  = "<ul id='MenuBar1' class='MenuBarVertical'>";
+            var tabCount = 0;
              // display loop 
+
              for (i in discoveredContent) {
-                newdiscoveryHTML = "<ul><li>" + "<a href=\"" + discoveredContent[i].PageUrl + "\" style=\"font-size:12px; font-weight:normal;\">" + discoveredContent[i].PageTitle + " (" + discoveredContent[i].Comments.NumberOfComments + ")</a></li></ul>";
+             tabCount++;
+             j = tabCount.toString();
+
+           newdiscoveryHTML = "<li><a href=\"" + discoveredContent[i].PageUrl + "\" >" +  j + ". " + discoveredContent[i].PageTitle + " (" + discoveredContent[i].Comments.NumberOfComments + ")</a></li>";
                discoveryHTML += newdiscoveryHTML.replace("| Bryan/College Station, Texas - The Eagle", ""); 
+
              }
+
          }
-          document.getElementById("output_div").innerHTML = discoveryHTML;
+          document.getElementById("newMostCommented").innerHTML = discoveryHTML + "</ul>";
         }
-        
+      
        requestBatch.BeginRequest(serverUrl, processDiscoveryResponse);
+});  
      </script>  
+                 
+              <span id="newMostCommented"></span>
+                     <div class="clear1pxspacer">  </div>
+                 </div>
+<div class="TabbedPanelsContent">
+<script type="text/javascript">
+var j = 1;
+document.write("<ul id='MenuBar1' class='MenuBarVertical'><li><a href='http://www.theeagle.com/local/Debts-force-Stover-Boys-to-close' target='_blank' >");
+document.write( j + ". Debts force Stover Boys to close</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/Registration-open-for-self-defense-classes' target='_blank' >");
+document.write( j + ". Registration open for self-defense classes</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/police/Man-accused-of-trashing-A-amp-amp-M-truck' target='_blank' >");
+document.write( j + ". Man accused of trashing A&amp;M truck</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/BTU-s-top-salary-info-released' target='_blank' >");
+document.write( j + ". BTU's top salary info released</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/BTU-salary-disclosure-reveals-general-manager-is-highest-paid-c' target='_blank' >");
+document.write( j + ". BTU salary disclosure reveals general manager is highest-paid city employee</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/texas/Texas-braces-for-another-drought' target='_blank' >");
+document.write( j + ". Texas braces for another drought</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/Teachers-spreading-holiday-cheer' target='_blank' >");
+document.write( j + ". Teachers spreading holiday cheer</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/Sheriff-s-Academy-looking-for-students' target='_blank' >");
+document.write( j + ". Sheriff's Academy looking for students</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/business/Getting-pecans-to-Texas-tables' target='_blank' >");
+document.write( j + ". Getting pecans to Texas tables</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/spotlight/A-holiday-break-for-the-locals' target='_blank' >");
+document.write( j + ". A holiday break for the locals</a>");
+j++;
+document.write("</li></ul><div class='clear1pxspacer'></div>");
+</script><ul id="MenuBar1" class="MenuBarVertical"><li><a href="http://www.theeagle.com/local/Debts-force-Stover-Boys-to-close" target="_blank">1. Debts force Stover Boys to close</a></li><li><a href="http://www.theeagle.com/local/Registration-open-for-self-defense-classes" target="_blank">2. Registration open for self-defense classes</a></li><li><a href="http://www.theeagle.com/police/Man-accused-of-trashing-A-amp-amp-M-truck" target="_blank">3. Man accused of trashing A&amp;M truck</a></li><li><a href="http://www.theeagle.com/local/BTU-s-top-salary-info-released" target="_blank">4. BTU's top salary info released</a></li><li><a href="http://www.theeagle.com/local/BTU-salary-disclosure-reveals-general-manager-is-highest-paid-c" target="_blank">5. BTU salary disclosure reveals general manager is highest-paid city employee</a></li><li><a href="http://www.theeagle.com/texas/Texas-braces-for-another-drought" target="_blank">6. Texas braces for another drought</a></li><li><a href="http://www.theeagle.com/local/Teachers-spreading-holiday-cheer" target="_blank">7. Teachers spreading holiday cheer</a></li><li><a href="http://www.theeagle.com/local/Sheriff-s-Academy-looking-for-students" target="_blank">8. Sheriff's Academy looking for students</a></li><li><a href="http://www.theeagle.com/business/Getting-pecans-to-Texas-tables" target="_blank">9. Getting pecans to Texas tables</a></li><li><a href="http://www.theeagle.com/spotlight/A-holiday-break-for-the-locals" target="_blank">10. A holiday break for the locals</a></li></ul><div class="clear1pxspacer"></div>
+</div>  
 
-    <!--<div class="MostPopular300Content">-->
-           <div id="output_div"></div>
-	   	
-             <br> 
+<div class="TabbedPanelsContent">
+<script type="text/javascript">
+var j = 1;
+document.write("<ul id='MenuBar1' class='MenuBarVertical'><li><a href='http://www.aggiesports.com/football/A-amp-amp-M--LSU-have-extended-layoff' target='_blank' >");
+document.write(j + ". A&amp;M, LSU have extended layoff</a>");
+j++;
+document.write("</li><li><a href='http://www.aggiesports.com/football/A-amp-amp-M-football-team-now-in-spotlight' target='_blank' >");
+document.write(j + ". A&M football team now in spotlight</a>");
+j++;
+document.write("</li><li><a href='http://www.aggiesports.com/football/Aggies--Miller-All-America' target='_blank' >");
+document.write(j + ". Aggies' Miller All-America</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/Debts-force-Stover-Boys-to-close' target='_blank' >");
+document.write(j + ". Debts force Stover Boys to close</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/Brazos-Animal-Shelter-director-resigns' target='_blank' >");
+document.write(j + ". Brazos Animal Shelter director resigns</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/BTU-salary-disclosure-reveals-general-manager-is-highest-paid-c' target='_blank' >");
+document.write(j + ". BTU salary disclosure reveals general manager is highest-paid city employee</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/BTU-s-top-salary-info-released' target='_blank' >");
+document.write(j + ". BTU's top salary info released</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/police/Man-accused-of-trashing-A-amp-amp-M-truck' target='_blank' >");
+document.write(j + ". Man accused of trashing A&amp;M truck</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/local/Interest-high-in-Calvert-police-openings' target='_blank' >");
+document.write(j + ". Interest high in Calvert police openings</a>");
+j++;
+document.write("</li><li><a href='http://www.theeagle.com/politics/GOP-gains-House-supermajority' target='_blank' >");
+document.write(j + ". GOP gains House supermajority</a>");
+j++;
+document.write("</li></ul><div class='clear1pxspacer'></div>");
+
+</script><ul id="MenuBar1" class="MenuBarVertical"><li><a href="http://www.aggiesports.com/football/A-amp-amp-M--LSU-have-extended-layoff" target="_blank">1. A&amp;M, LSU have extended layoff</a></li><li><a href="http://www.aggiesports.com/football/A-amp-amp-M-football-team-now-in-spotlight" target="_blank">2. A&amp;M football team now in spotlight</a></li><li><a href="http://www.aggiesports.com/football/Aggies--Miller-All-America" target="_blank">3. Aggies' Miller All-America</a></li><li><a href="http://www.theeagle.com/local/Debts-force-Stover-Boys-to-close" target="_blank">4. Debts force Stover Boys to close</a></li><li><a href="http://www.theeagle.com/local/Brazos-Animal-Shelter-director-resigns" target="_blank">5. Brazos Animal Shelter director resigns</a></li><li><a href="http://www.theeagle.com/local/BTU-salary-disclosure-reveals-general-manager-is-highest-paid-c" target="_blank">6. BTU salary disclosure reveals general manager is highest-paid city employee</a></li><li><a href="http://www.theeagle.com/local/BTU-s-top-salary-info-released" target="_blank">7. BTU's top salary info released</a></li><li><a href="http://www.theeagle.com/police/Man-accused-of-trashing-A-amp-amp-M-truck" target="_blank">8. Man accused of trashing A&amp;M truck</a></li><li><a href="http://www.theeagle.com/local/Interest-high-in-Calvert-police-openings" target="_blank">9. Interest high in Calvert police openings</a></li><li><a href="http://www.theeagle.com/politics/GOP-gains-House-supermajority" target="_blank">10. GOP gains House supermajority</a></li></ul><div class="clear1pxspacer"></div>
+</div>			
+<div class="clear1pxspacer">  </div>
 </div>
 
+  		</div>
+    <div class="clear1pxspacer">  </div>
+</div>
+    <div class="clear1pxspacer">  </div>
+</div>
+</center>
 
+<script type="text/javascript">
+	Rounded( "div.RightRailTabBox", "#D5D5D5", "#FFFFFF");
+	Rounded( "div.AccordionPanelTab","#FFFFFF","#f4f4f3");
+	Rounded( "div.AccordionPanelContent","#FFFFFF","#f4f4f3");
+</script>
+<script type="text/javascript">
+<!--
+var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
 
+//-->
+</script>
 
-  </div>
+	<div class="RightRailTopAdsBox">
+	<div class="rightrail_titles">Top Ads</div>
+	<div id="TheEagleTopAds1" class="TheEagleTopAds">
+		<ul class="TheEagleTopAdsTabGroup">
+			<li class="TheEagleTopAdsTab"><span>Jobs</span></li>
+			<li class="TheEagleTopAdsTab"><span>Cars</span></li>
+			<li class="TheEagleTopAdsTab"><span>Homes</span></li>
+			<li class="TheEagleTopAdsTab"><span>Merchandise</span></li>
+		</ul>
+		<div class="TheEagleTopAdsContentGroup">
+			<div class="TopAdsTabsContent">
+				<div class="clear5pxspacer"> </div>
+                
+                <script type="text/javascript">
+				
+					// Unique random numbers generator function			
+					function uniqueRandomNumber(inPutArray){
+							var sArray = new Array();
+							var storeList = new Array();
+							// Inserts Numbers in Array
+							for(var i= 1; i<=inPutArray; i++){
+								sArray.push(i);
+							}
+							// Outputs numbers non-repeated
+							for(var k= 1; k<=inPutArray; k++){
+								// Search for value inside the Array in a random position
+								var randomPos= Math.floor( Math.random() * sArray.length );
+								// Selects value and removes it from Array
+								var valueFromArray = sArray.splice(randomPos, 1);
+								// Converts value in number
+								var numberRand = parseInt(valueFromArray);
+								//store and make array key for as like 0,1,2 for length :3
+								storeList.push(numberRand-1);
+							}  
+							//alert(storeList);
+							return storeList;
+					}
+				</script>
+                
+                
+				
+					<script type="text/javascript">				
+						var topjobs = new Array("CAREGIVER: for young adult special needs male in our CS home. Feed, change, ...  <a href=\"/Classifieds/Detail/00261899\"> More Details</a>","TEACHERS NEEDED:&nbsp;St. Joseph Eagle's Nest  Preschool Teacher positions  ...  <a href=\"/Classifieds/Detail/00262090\"> More Details</a>","DRIVER:&nbsp;Hebbronville&nbsp;Lone Star Rentals&nbsp;Has a job opening for ...  <a href=\"/Classifieds/Detail/00261912\"> More Details</a>","CDL TRUCK DRIVER&nbsp;Needed asap! Construction exp. a must. TX DOT exp. a  ...  <a href=\"/Classifieds/Detail/00261675\"> More Details</a>","COOK &amp; DISHWASHER: Hiring professional cook, preferred culinary experie ...  <a href=\"/Classifieds/Detail/00262280\"> More Details</a>","CHEF: Hiring a self-motivating chef w/computer skills at College Station. C ...  <a href=\"/Classifieds/Detail/00262111\"> More Details</a>","RESTAURANT:&nbsp;Now Hiring&nbsp;POPEYE&#146;S&nbsp;General Managers &amp;& ...  <a href=\"/Classifieds/Detail/00261515\"> More Details</a>","COOK &#150; Head &nbsp;Start in Hearne&nbsp;Cook breakfast, lunch, and snac ...  <a href=\"/Classifieds/Detail/00260336\"> More Details</a>","MEDICAL FRONT OFFICE Seeking Eligibility &amp; Benefits Coordinator. Previo ...  <a href=\"/Classifieds/Detail/00262468\"> More Details</a>","MEDICAL FRONT OFFICE  Motivated, spanish speaking and computer savy.  Must  ...  <a href=\"/Classifieds/Detail/00262467\"> More Details</a>","Weekend RN&nbsp;Franklin Nursing Home is in need of an Weekend RN. Apply in ...  <a href=\"/Classifieds/Detail/00262231\"> More Details</a>","DENTAL HYGIENIST &amp; FRONT OFFICE ASST:&nbsp;for pediatric dental office. ...  <a href=\"/Classifieds/Detail/00262293\"> More Details</a>","AUTO GLASS REPAIR TECH: no exper. nec.- will train $400/wk. Send resume pat ...  <a href=\"/Classifieds/Detail/00262240\"> More Details</a>","PHARMACY TECH&nbsp;Licensed &amp; ID required.  Nuclear pharmacy training p ...  <a href=\"/Classifieds/Detail/00262234\"> More Details</a>","Director of &nbsp;Dining Services&nbsp;If you have a winning attitude and a ...  <a href=\"/Classifieds/Detail/00261347\"> More Details</a>","LVN &nbsp;Full-time&nbsp;WE OFFER:&nbsp;A competitive salary and comprehens ...  <a href=\"/Classifieds/Detail/00262054\"> More Details</a>","RN: FT, needed for Pre/Post OP in endo center. Benefits available. Fax Resu ...  <a href=\"/Classifieds/Detail/00261950\"> More Details</a>","LVN &nbsp;Now hiring part-time/ full-time/PRN  with experience.  Apply in p ...  <a href=\"/Classifieds/Detail/00261803\"> More Details</a>","LVN/MA &nbsp;for multi-specialty group. full-time. Excellent benefits packa ...  <a href=\"/Classifieds/Detail/00261652\"> More Details</a>","MEDICAL RECEPTIONIST:&nbsp;Entry-Level position in a busy medical practice. ...  <a href=\"/Classifieds/Detail/00260652\"> More Details</a>","LVN/MA&nbsp;Full-time with OB/GYN exper. Must be able to multi-task. Benefi ...  <a href=\"/Classifieds/Detail/00259351\"> More Details</a>","OFFICE MANAGER:&nbsp;Seeking energetic person for mgmt position. Excellent  ...  <a href=\"/Classifieds/Detail/00262225\"> More Details</a>","MAINTENANCE&nbsp;COORDINATOR&nbsp;Full time to schedule vendors, make ready ...  <a href=\"/Classifieds/Detail/00261555\"> More Details</a>","OFFICE ASSISTANT:&nbsp;PT/FT,  with exper in Word, Excel &amp; QuickBooks P ...  <a href=\"/Classifieds/Detail/00261533\"> More Details</a>","OFFICE ASST: Electrical Contractor seeking a full time office assistant at  ...  <a href=\"/Classifieds/Detail/00259186\"> More Details</a>", " ")
+						var randomJobArray = uniqueRandomNumber(topjobs.length);
+						
+						//alert(randomJobArray);
+						
+						for (k=0;k<10;k++)
+						{
+						   document.write("<div style='margin: 10px 5px;'>" + topjobs[randomJobArray[k]] + "</div>")
+						}
+					</script><div style="margin: 10px 5px;">MEDICAL FRONT OFFICE  Motivated, spanish speaking and computer savy.  Must  ...  <a href="/Classifieds/Detail/00262467"> More Details</a></div><div style="margin: 10px 5px;">RESTAURANT:&nbsp;Now Hiring&nbsp;POPEYE’S&nbsp;General Managers &amp;&amp; ...  <a href="/Classifieds/Detail/00261515"> More Details</a></div><div style="margin: 10px 5px;">CAREGIVER: for young adult special needs male in our CS home. Feed, change, ...  <a href="/Classifieds/Detail/00261899"> More Details</a></div><div style="margin: 10px 5px;">COOK &amp; DISHWASHER: Hiring professional cook, preferred culinary experie ...  <a href="/Classifieds/Detail/00262280"> More Details</a></div><div style="margin: 10px 5px;">OFFICE ASSISTANT:&nbsp;PT/FT,  with exper in Word, Excel &amp; QuickBooks P ...  <a href="/Classifieds/Detail/00261533"> More Details</a></div><div style="margin: 10px 5px;">LVN/MA &nbsp;for multi-specialty group. full-time. Excellent benefits packa ...  <a href="/Classifieds/Detail/00261652"> More Details</a></div><div style="margin: 10px 5px;">TEACHERS NEEDED:&nbsp;St. Joseph Eagle's Nest  Preschool Teacher positions  ...  <a href="/Classifieds/Detail/00262090"> More Details</a></div><div style="margin: 10px 5px;">CDL TRUCK DRIVER&nbsp;Needed asap! Construction exp. a must. TX DOT exp. a  ...  <a href="/Classifieds/Detail/00261675"> More Details</a></div><div style="margin: 10px 5px;">MEDICAL FRONT OFFICE Seeking Eligibility &amp; Benefits Coordinator. Previo ...  <a href="/Classifieds/Detail/00262468"> More Details</a></div><div style="margin: 10px 5px;">LVN &nbsp;Now hiring part-time/ full-time/PRN  with experience.  Apply in p ...  <a href="/Classifieds/Detail/00261803"> More Details</a></div>
+                  
+			</div>
+			<div class="TopAdsTabsContent"> 
+				
+					<script type="text/javascript">
+						var topjobs = new Array("MAZDA: 2008 Miata. RHT. 6-spd manual. Black w/tan leather. Htd seats. New t ...  <a href=\"/Classifieds/Detail/00262461\"> More Details</a>","BUICK: 2007 Lacrosse 14,500mi, $12,500. &nbsp;(979) 776-6026  &nbsp;&nbsp;  <a href=\"/Classifieds/Detail/00262413\"> More Details</a>","JEEP: 2000 Wrangler, new soft top, 4x4, manual custom wheels,  red, 95,000  ...  <a href=\"/Classifieds/Detail/00261449\"> More Details</a>","CHEVROLET: 2002 Silverado Ext Cab, 133,000 mi, grey, bedliner, dual exhaust ...  <a href=\"/Classifieds/Detail/00261536\"> More Details</a>","FORD: 2005 F-150, $9,750, XLT 5.4L engine with new tires.  107K miles and r ...  <a href=\"/Classifieds/Detail/00261528\"> More Details</a>","NISSAN: 2001 Infiniti QX4. 4WD. $7950. Tuscan Beige. 94K miles. Excellent c ...  <a href=\"/Classifieds/Detail/00261518\"> More Details</a>","TOYOTA: 2007 Avalon Limited, 4 door, less than 50K miles, runs great, auto, ...  <a href=\"/Classifieds/Detail/00261670\"> More Details</a>","NISSAN: 1997 Maxima, 5 spd, all power, leather, sunroof, 4 door, grey, $265 ...  <a href=\"/Classifieds/Detail/00261902\"> More Details</a>","PONTIAC: 1990 Bonneville, 4 door, all pwr, AM/FM, cassette, 1 owner. 82,317 ...  <a href=\"/Classifieds/Detail/00261489\"> More Details</a>","VOLKSWAGON: 2005 Passat Wagon. 79,000 miles. Silver. 4 cyl. turbo. Automati ...  <a href=\"/Classifieds/Detail/00261375\"> More Details</a>","HONDA: 2007 CRV EX-L, black w/tan leather, 4wd, navigation, extended warran ...  <a href=\"/Classifieds/Detail/00261195\"> More Details</a>","FORD: 200D F-350, diesel,  4WD, pickup, extended cab, long bed, bed liner,  ...  <a href=\"/Classifieds/Detail/00261187\"> More Details</a>","FORD: 2007 Focus, auto, 4 door, AM/FM/CD, ac,  pwr locks, cruise control, 7 ...  <a href=\"/Classifieds/Detail/00260258\"> More Details</a>","TOYOTA: 2001 CAMRY CE, Gray Exterior/Interior, Power, Well-Maintained, Good ...  <a href=\"/Classifieds/Detail/00259627\"> More Details</a>","CHEVROLET: 2001 Suburban, fully loaded, heated heats, rear air, high mileag ...  <a href=\"/Classifieds/Detail/00259407\"> More Details</a>","HONDA: 1993 Accord, auto, good shape, good dependable  car. 172K mi, $2500/ ...  <a href=\"/Classifieds/Detail/00259183\"> More Details</a>","FORD: 2004 Taurus, excel cond, all power, new tires, 4 door, grey, 1 owner, ...  <a href=\"/Classifieds/Detail/00259034\"> More Details</a>","PONTIAC: 2002 Grand Am SE, 2dr, 140kmi, black/ grey, clean, 32mpg, great st ...  <a href=\"/Classifieds/Detail/00259259\"> More Details</a>","DODGE: 2005 Crew Cab 4x4, all pwr, Hemi eng, auto, bed cover,  4 door,   wh ...  <a href=\"/Classifieds/Detail/00259245\"> More Details</a>","STERLING BOBTAIL:&nbsp;Cat C-12 engine, 10 speed, wet kit, 90% tires. Ready ...  <a href=\"/Classifieds/Detail/00258378\"> More Details</a>","PONTIAC: 1999 Grand Am White with dark charcoal cloth interior. Very clean, ...  <a href=\"/Classifieds/Detail/00258305\"> More Details</a>","TOYOTA: 2006 Matrix, 4 door, hatchback, auto, sunroof, alloy wheels, silver ...  <a href=\"/Classifieds/Detail/00258491\"> More Details</a>","DODGE: 2008 Ram 1500, 4 door, HEMI, Lonestar Pkg, white, great shape! $14,0 ...  <a href=\"/Classifieds/Detail/00258211\"> More Details</a>","JEEP:  2005 Wrangler, &nbsp;X-Sport, 4x4, auto,  59,000 mi CD player, black ...  <a href=\"/Classifieds/Detail/00257987\"> More Details</a>","CHEVROLET: 1989 Blazer K-2, new motor, new tires, new rear end, 4WD,  $6800 ...  <a href=\"/Classifieds/Detail/00257678\"> More Details</a>", " ")
+						var randomJobArray = uniqueRandomNumber(topjobs.length);
+						
+						//alert(randomJobArray);
+						
+						for (k=0;k<10;k++)
+						{
+						   document.write("<div style='margin: 10px 5px;'>" + topjobs[randomJobArray[k]] + "</div>")
+						}
+					</script><div style="margin: 10px 5px;">JEEP: 2000 Wrangler, new soft top, 4x4, manual custom wheels,  red, 95,000  ...  <a href="/Classifieds/Detail/00261449"> More Details</a></div><div style="margin: 10px 5px;">DODGE: 2005 Crew Cab 4x4, all pwr, Hemi eng, auto, bed cover,  4 door,   wh ...  <a href="/Classifieds/Detail/00259245"> More Details</a></div><div style="margin: 10px 5px;">PONTIAC: 2002 Grand Am SE, 2dr, 140kmi, black/ grey, clean, 32mpg, great st ...  <a href="/Classifieds/Detail/00259259"> More Details</a></div><div style="margin: 10px 5px;">NISSAN: 1997 Maxima, 5 spd, all power, leather, sunroof, 4 door, grey, $265 ...  <a href="/Classifieds/Detail/00261902"> More Details</a></div><div style="margin: 10px 5px;">DODGE: 2008 Ram 1500, 4 door, HEMI, Lonestar Pkg, white, great shape! $14,0 ...  <a href="/Classifieds/Detail/00258211"> More Details</a></div><div style="margin: 10px 5px;">TOYOTA: 2001 CAMRY CE, Gray Exterior/Interior, Power, Well-Maintained, Good ...  <a href="/Classifieds/Detail/00259627"> More Details</a></div><div style="margin: 10px 5px;">BUICK: 2007 Lacrosse 14,500mi, $12,500. &nbsp;(979) 776-6026  &nbsp;&nbsp;  <a href="/Classifieds/Detail/00262413"> More Details</a></div><div style="margin: 10px 5px;">HONDA: 2007 CRV EX-L, black w/tan leather, 4wd, navigation, extended warran ...  <a href="/Classifieds/Detail/00261195"> More Details</a></div><div style="margin: 10px 5px;">VOLKSWAGON: 2005 Passat Wagon. 79,000 miles. Silver. 4 cyl. turbo. Automati ...  <a href="/Classifieds/Detail/00261375"> More Details</a></div><div style="margin: 10px 5px;">PONTIAC: 1990 Bonneville, 4 door, all pwr, AM/FM, cassette, 1 owner. 82,317 ...  <a href="/Classifieds/Detail/00261489"> More Details</a></div>
+				 	
+			</div>
+			<div class="TopAdsTabsContent">
+				
+					<script type="text/javascript">
+						var topjobs = new Array("COLLEGE STATION: 3/3 mobile home on 1 ac, quiet country living, 2 car garag ...  <a href=\"/Classifieds/Detail/00262351\"> More Details</a>","BRYAN:&nbsp;FOURPLEXES &nbsp;REDUCED $10,000! &nbsp;Great investment opport ...  <a href=\"/Classifieds/Detail/00262107\"> More Details</a>","$20,000 Holiday &nbsp;Buyers Allowance&nbsp;Upscale New Builder Garden Home ...  <a href=\"/Classifieds/Detail/00261818\"> More Details</a>","BRYAN: 3/2 completely remodeled, appliances,16x76 shaded lot in quiet gated ...  <a href=\"/Classifieds/Detail/00261842\"> More Details</a>","COLLEGE STATION:4/3/3 Pebble Creek, 819 Plum Hollow Dr. Marriot built, plan ...  <a href=\"/Classifieds/Detail/00261883\"> More Details</a>","The Isaac&nbsp;Team&nbsp;WE BUY Comm&#146;l &amp; Rental Properties, Shoppi ...  <a href=\"/Classifieds/Detail/00261429\"> More Details</a>","TAX REFUND =&nbsp;DOWN PAYMENT!&nbsp;SAVE THOUSAND$ ON END OF YEAR CLOSE- O ...  <a href=\"/Classifieds/Detail/00261677\"> More Details</a>","BRAZOS VALLEY:&nbsp;Before you buy a Mobile Home, check w/ Southwest homes  ...  <a href=\"/Classifieds/Detail/00261070\"> More Details</a>","SOUTHWEST HOMES:&nbsp;All you need is a lot, we will build &amp; finance yo ...  <a href=\"/Classifieds/Detail/00261068\"> More Details</a>","BRYAN/CS: To be Moved, 1997 Oakwood Dblewide 3/2. $21,000. (979) 777-0415,  ...  <a href=\"/Classifieds/Detail/00261377\"> More Details</a>","COLLEGE STATION:&nbsp;Houses for Sale&nbsp;Ed Froehling Builder&nbsp;pays $ ...  <a href=\"/Classifieds/Detail/00260960\"> More Details</a>","BRAZOS AREA: Owner Financing/BCS Area!  Why rent WHEN you can own? &#147;Se ...  <a href=\"/Classifieds/Detail/00260957\"> More Details</a>"," BRYAN PLACE &nbsp;Great central location on Texas Ave. Office space as low ...  <a href=\"/Classifieds/Detail/00260490\"> More Details</a>","BRYAN: 5000 sq ft, dock high w/fenced yard. Avail at Carrabba Industrail Pa ...  <a href=\"/Classifieds/Detail/00260693\"> More Details</a>","BRYAN: 3000 sq ft of office warehouse space, corner FM 158 &amp; Wildflower ...  <a href=\"/Classifieds/Detail/00260450\"> More Details</a>","BRYAN: 3/1 new setup wooded lot remodeled frig, stove, front/back decks lot ...  <a href=\"/Classifieds/Detail/00260574\"> More Details</a>","BRYAN: 135 Acres of development land located just off Earl Rudder Freeway.  ...  <a href=\"/Classifieds/Detail/00260179\"> More Details</a>","BRYAN:  (3) Office warehouses on 19 acres,  development potential. Seller w ...  <a href=\"/Classifieds/Detail/00259886\"> More Details</a>","BRYAN: 3/2, `91 Redmond&nbsp;18x76, 1368sqft, appl, W/D, new fridge. Metal  ...  <a href=\"/Classifieds/Detail/00259640\"> More Details</a>","BRYAN/CS: 1996 Palm Harbor $25,000 obo. 3/2, 1330sqft.for more info call Ka ...  <a href=\"/Classifieds/Detail/00259349\"> More Details</a>","COLLEGE STATION:&nbsp;Landscaped country home on 2.2 ac, 3/2,5 plus office, ...  <a href=\"/Classifieds/Detail/00259479\"> More Details</a>","YEAR-END CLEARANCE &nbsp;Buy the 2010 Home of the Year. Lowest price ever!  ...  <a href=\"/Classifieds/Detail/00255108\"> More Details</a>","SUPER SALE &nbsp;17 repos &amp; trade-ins singlewides; Dblewides 2,3, &amp; ...  <a href=\"/Classifieds/Detail/00255107\"> More Details</a>","COLLEGE STATION: Office avail near TAMU across from Best Buy. 200 sq.ft., a ...  <a href=\"/Classifieds/Detail/00259141\"> More Details</a>","BRYAN: at Austin Estates. 4/3 2638 sqft. 10' ceilings,  granite tops, lrg m ...  <a href=\"/Classifieds/Detail/00258517\"> More Details</a>", " ")
+						var randomJobArray = uniqueRandomNumber(topjobs.length);
+						
+						//alert(randomJobArray);
+						
+						for (k=0;k<10;k++)
+						{
+						   document.write("<div style='margin: 10px 5px;'>" + topjobs[randomJobArray[k]] + "</div>")
+						}
+					</script><div style="margin: 10px 5px;">BRYAN: at Austin Estates. 4/3 2638 sqft. 10' ceilings,  granite tops, lrg m ...  <a href="/Classifieds/Detail/00258517"> More Details</a></div><div style="margin: 10px 5px;">BRAZOS VALLEY:&nbsp;Before you buy a Mobile Home, check w/ Southwest homes  ...  <a href="/Classifieds/Detail/00261070"> More Details</a></div><div style="margin: 10px 5px;">$20,000 Holiday &nbsp;Buyers Allowance&nbsp;Upscale New Builder Garden Home ...  <a href="/Classifieds/Detail/00261818"> More Details</a></div><div style="margin: 10px 5px;">BRYAN: 3/2 completely remodeled, appliances,16x76 shaded lot in quiet gated ...  <a href="/Classifieds/Detail/00261842"> More Details</a></div><div style="margin: 10px 5px;"> </div><div style="margin: 10px 5px;">BRAZOS AREA: Owner Financing/BCS Area!  Why rent WHEN you can own? “Se ...  <a href="/Classifieds/Detail/00260957"> More Details</a></div><div style="margin: 10px 5px;">BRYAN: 135 Acres of development land located just off Earl Rudder Freeway.  ...  <a href="/Classifieds/Detail/00260179"> More Details</a></div><div style="margin: 10px 5px;">BRYAN:&nbsp;FOURPLEXES &nbsp;REDUCED $10,000! &nbsp;Great investment opport ...  <a href="/Classifieds/Detail/00262107"> More Details</a></div><div style="margin: 10px 5px;">BRYAN:  (3) Office warehouses on 19 acres,  development potential. Seller w ...  <a href="/Classifieds/Detail/00259886"> More Details</a></div><div style="margin: 10px 5px;">COLLEGE STATION:&nbsp;Houses for Sale&nbsp;Ed Froehling Builder&nbsp;pays $ ...  <a href="/Classifieds/Detail/00260960"> More Details</a></div>				
+            	 
+			</div>
+			<div class="TopAdsTabsContent"> 
+				
+					<script type="text/javascript">
+						var topjobs = new Array("MATTRESS: Double bed mattress, box spring and frame. &#160;Used 2 months. $ ...  <a href=\"/Classifieds/Detail/00262464\"> More Details</a>","TABLE: Set, all oak, 48" round table w/4 chairs and 24" leaf; and 48" wide  ...  <a href=\"/Classifieds/Detail/00262460\"> More Details</a>","KAYAK: Tarpon 120, in hull fish ginder, batteries, chargers, AT paddle, anc ...  <a href=\"/Classifieds/Detail/00262448\"> More Details</a>","DAY BED: with trundle, mattresses  &amp; linens. $150; KIrby Vacuum w/all a ...  <a href=\"/Classifieds/Detail/00262420\"> More Details</a>","MENS OVERCOAT: Banana Relublic,  Genuine leather, size large,  great cond.  ...  <a href=\"/Classifieds/Detail/00262417\"> More Details</a>","BLOODHOUND PUPS&nbsp;AKC Pups, reds.  black/tan, wrinkles, $450.. 936- 873- ...  <a href=\"/Classifieds/Detail/00262400\"> More Details</a>","TV: 32&#148; Phillips Magnavox with remote control. Fully functional. $60.& ...  <a href=\"/Classifieds/Detail/00262389\"> More Details</a>","ELLINGTON FARMS&nbsp;OAK FIREWOOD &nbsp;Full Cord-$140&nbsp;1/2 Cord- $80.& ...  <a href=\"/Classifieds/Detail/00255495\"> More Details</a>","CHIHUAHUAS: CKC 2 male &amp; 2 females, born 10/31, all shots &amp; wormed  ...  <a href=\"/Classifieds/Detail/00261901\"> More Details</a>","SHIH-TZU: AKC Puppies, 2 males, 1 female, beautiful! Ready by 12/22, $400 m ...  <a href=\"/Classifieds/Detail/00262365\"> More Details</a>","STOVE: Maytag Gemini  Black Electric  smooth surface cooktop, dbl oven. Onl ...  <a href=\"/Classifieds/Detail/00262364\"> More Details</a>","MALTESE: Puppies, will be very small, must see. Great for Christmas, all sh ...  <a href=\"/Classifieds/Detail/00262356\"> More Details</a>","TABLE: Hillsdale Cumberland Counter Height table, 4 chairs, 54"x54"x36"tall ...  <a href=\"/Classifieds/Detail/00262355\"> More Details</a>","LABRADOR: AKC, choc. pups born 11/17, dewclaws removed, $350. 936-825- 8387 ...  <a href=\"/Classifieds/Detail/00262265\"> More Details</a>","KARAOKE EQUIPMENT: Just in time for Christmas!  Speakers-Yamaha, Receiver & ...  <a href=\"/Classifieds/Detail/00262258\"> More Details</a>","HORNEDTOAD WOOD WORKS Vintage &amp; Antique Furn. Call for viewing, Open Sa ...  <a href=\"/Classifieds/Detail/00262245\"> More Details</a>","HOUSE SITTING/CLEANING Retired couple  will do work in  B/CS. Refer avail.  ...  <a href=\"/Classifieds/Detail/00262229\"> More Details</a>","ANTIQUE BEDROOM SET:  Carved headboard bed, dbl size, &amp; dresser.  $275. ...  <a href=\"/Classifieds/Detail/00262222\"> More Details</a>","ANTIQUE JEWELRY BOX: On legs, standing  approx 4.5&#146; high, hangerson si ...  <a href=\"/Classifieds/Detail/00262220\"> More Details</a>","TABLE: Wine Serving    Table, black rod iron, $125. (979) 268-4798  <a href=\"/Classifieds/Detail/00262178\"> More Details</a>","CHIWEENIES: Pups, 2 males, 2 females, 8 wks, 2 tan, black &amp; tan, black  ...  <a href=\"/Classifieds/Detail/00262167\"> More Details</a>","LABRADOR: AKC Puppies, ready for christmas, mother and father on site, hunt ...  <a href=\"/Classifieds/Detail/00262275\"> More Details</a>","BOSTON TERRIER: Pups CKC, Born on Halloween and ready to go for Chrsistmas. ...  <a href=\"/Classifieds/Detail/00262276\"> More Details</a>","CLASSIC&nbsp;CONSIGNMENTS&nbsp;Buy &amp; sell, Furn &amp; Decor. 3219 S. Te ...  <a href=\"/Classifieds/Detail/00261989\"> More Details</a>","COLLIE: AKC, born 10.22.10, shots &amp; wormed, excellent pedigree, 1 femal ...  <a href=\"/Classifieds/Detail/00262109\"> More Details</a>", " ")
+						var randomJobArray = uniqueRandomNumber(topjobs.length);
+						
+						//alert(randomJobArray);
+						
+						for (k=0;k<10;k++)
+						{
+						   document.write("<div style='margin: 10px 5px;'>" + topjobs[randomJobArray[k]] + "</div>")
+						}
+					</script>				
+                 
+			</div>
+		</div>
+	</div>
+        <div class="clear5pxspacer"> </div>
 </div>
 <script type="text/javascript">
 <!--
-var MostPopular3001 = new Spry.Widget.MostPopular300("MostPopular3001");
+var TheEagleTopAds1 = new Spry.Widget.TheEagleTopAds("TheEagleTopAds1");
 //-->
 </script>
-<br clear="all">
-<div style="height: 5px; font-size: 5px;">&nbsp;</div>
 
-
-<div id="TopAdsTabsTitle" style="width: 298px;">&nbsp;&nbsp;&nbsp;&nbsp;TOP ADS</div>
-<div id="TopAds3001" class="TopAds300" style="margin: 0px 0px 5px 0px; width: 298px; padding-top: 0px;">
-    
-  <ul class="TopAds300TabGroup">
-<li class="TopAds300Tab TopAds300TabSelected" tabindex="0">Jobs</li>
-    <li class="TopAds300Tab" tabindex="0">Cars</li>
-    <li class="TopAds300Tab" tabindex="0">Homes</li>
-    
-    <li class="TopAds300Tab" tabindex="0">Merchandise</li>
-  </ul>
-  <div class="TopAds300ContentGroup">
-<div class="TopAdsTabsContent TopAds300ContentVisible" style="display: block;"> 
-<div style="height: 5px;"></div>
-  
 <script type="text/javascript">
-var topjobs = new Array("PART TIME&nbsp;DRIVER/&nbsp;WAREHOUSE&nbsp;Person needed.  Must be availabl ...  <a href=\"/Classifieds/Detail/00240701\"> More Details</a>","MEDICAL:&nbsp;LVN &nbsp;For College Station Pediatric and OB Clinic. Prefer ...  <a href=\"/Classifieds/Detail/00240776\"> More Details</a>","CASE MANAGER&nbsp;For Burleson and Washington Counties. Requires travel. Du ...  <a href=\"/Classifieds/Detail/00239658\"> More Details</a>","TELEPHONE &nbsp;SURVEYORS &nbsp;NEEDED:&nbsp;Evening &amp; weekend work. No ...  <a href=\"/Classifieds/Detail/00235977\"> More Details</a>","MECHANIC&nbsp;Truck &amp; trailer maintenance.  Diesel knowledge  desirable ...  <a href=\"/Classifieds/Detail/00239595\"> More Details</a>","ADMINISTATIVE &nbsp;ASSISTANT&nbsp;Engineering Firm seeks Administrative As ...  <a href=\"/Classifieds/Detail/00239569\"> More Details</a>","CUSTODIAN&nbsp;Britt Rice Electric is seeking a full time Custodian Mon.-Fr ...  <a href=\"/Classifieds/Detail/00239301\"> More Details</a>","CHAIRSIDE ASSISTANT/ BUSINESS ASSISTANT:&#160; Quality dental practice need ...  <a href=\"/Classifieds/Detail/00238307\"> More Details</a>","MAINTENANCE:&nbsp;Building &nbsp;Maintenance &nbsp;Instructional Team Leade ...  <a href=\"/Classifieds/Detail/00238033\"> More Details</a>","TELEMARKETERS&nbsp;Expanding our Sales Department.&nbsp;Need energetic, dep ...  <a href=\"/Classifieds/Detail/00237102\"> More Details</a>", " ")
-var randomjobs = Math.floor(Math.random()*(topjobs.length-11));
-for (i=randomjobs;i<(randomjobs+11);i++)
-{
-document.write(topjobs[i] + "<br /><br />")
-}
-</script>PART TIME&nbsp;DRIVER/&nbsp;WAREHOUSE&nbsp;Person needed.  Must be availabl ...  <a href="/Classifieds/Detail/00240701"> More Details</a><br><br>MEDICAL:&nbsp;LVN &nbsp;For College Station Pediatric and OB Clinic. Prefer ...  <a href="/Classifieds/Detail/00240776"> More Details</a><br><br>CASE MANAGER&nbsp;For Burleson and Washington Counties. Requires travel. Du ...  <a href="/Classifieds/Detail/00239658"> More Details</a><br><br>TELEPHONE &nbsp;SURVEYORS &nbsp;NEEDED:&nbsp;Evening &amp; weekend work. No ...  <a href="/Classifieds/Detail/00235977"> More Details</a><br><br>MECHANIC&nbsp;Truck &amp; trailer maintenance.  Diesel knowledge  desirable ...  <a href="/Classifieds/Detail/00239595"> More Details</a><br><br>ADMINISTATIVE &nbsp;ASSISTANT&nbsp;Engineering Firm seeks Administrative As ...  <a href="/Classifieds/Detail/00239569"> More Details</a><br><br>CUSTODIAN&nbsp;Britt Rice Electric is seeking a full time Custodian Mon.-Fr ...  <a href="/Classifieds/Detail/00239301"> More Details</a><br><br>CHAIRSIDE ASSISTANT/ BUSINESS ASSISTANT:&nbsp; Quality dental practice need ...  <a href="/Classifieds/Detail/00238307"> More Details</a><br><br>MAINTENANCE:&nbsp;Building &nbsp;Maintenance &nbsp;Instructional Team Leade ...  <a href="/Classifieds/Detail/00238033"> More Details</a><br><br>TELEMARKETERS&nbsp;Expanding our Sales Department.&nbsp;Need energetic, dep ...  <a href="/Classifieds/Detail/00237102"> More Details</a><br><br> <br><br>    
-     
-    </div>
-    <div class="TopAdsTabsContent" style="display: none;">
-    
-  <div style="height: 5px;"></div>  
-    
-<script type="text/javascript">
-
-var topautos = new Array("OLDSMOBILE: 1995  88 141k miles, 3.8 v6, auto trans, ac, power locks power  ...  <a href=\"/Classifieds/Detail/00240691\"> More Details</a>","CHEVROLET: 1985 1/2 ton, auto, new CD Ipod ready, runs great. New starter.  ...  <a href=\"/Classifieds/Detail/00240795\"> More Details</a>","JEEP: 1988 Wrangler, 258 6 cyl, 5 spd, 3&#148; lift kit, big tires, 3 tops, ...  <a href=\"/Classifieds/Detail/00240486\"> More Details</a>","CHEVROLET: 2005 Trailblazer, 28,500 mi., excellent condition, &#36;11,900 ( ...  <a href=\"/Classifieds/Detail/00240517\"> More Details</a>","PONTIAC: 2001 Sunfire, CD, auto, 2 door, very very clean. Cold AC.  Good ti ...  <a href=\"/Classifieds/Detail/00240500\"> More Details</a>","TOYOTA: 2001 4Runner, 84K miles, auto, leather, nice, &#36;8750, 903-931-35 ...  <a href=\"/Classifieds/Detail/00240418\"> More Details</a>","CHRYSLER: 2005 Sebring Limited convertible, white 2-door coupe, V6, interio ...  <a href=\"/Classifieds/Detail/00240052\"> More Details</a>","ISUZU:1999 Trooper, 3.5L V6, 4wd, auto, sun roof, 6 disc cd, power locks, a ...  <a href=\"/Classifieds/Detail/00239802\"> More Details</a>","VOLKSWAGON: 1973 Bug good cond, runs good, good, cond, 4spd, yellow, no a/c ...  <a href=\"/Classifieds/Detail/00239490\"> More Details</a>","FORD: 1998 Contour, &nbsp;light blue, &#36;3400. (979)696-1310 ...  <a href=\"/Classifieds/Detail/00239572\"> More Details</a>","TOYOTA: 2000 Avalon XLS, ecel cond., silver, leather seats, all power, moon ...  <a href=\"/Classifieds/Detail/00239051\"> More Details</a>","TOYOTA: 2006 RAV 4, 37,500 orig owner mi, brand new tires. Divorce forces s ...  <a href=\"/Classifieds/Detail/00239456\"> More Details</a>","FORD: 2008 F150, 4K mi, ext cab, pwr windows &amp; doors, Michelin tires, F ...  <a href=\"/Classifieds/Detail/00238228\"> More Details</a>","CHEVROLET: 1994 2500 Ext Cab, long bed, tool box, 8 cyl, turbo charged, die ...  <a href=\"/Classifieds/Detail/00237746\"> More Details</a>","DODGE: 2002 2500 Diesel 2x4, Ext bed, brand new tires, brand new trans, run ...  <a href=\"/Classifieds/Detail/00237506\"> More Details</a>","VOLVO: 2005 V50 2.4i,    sun roof, keyless entry, power driver seat, locks, ...  <a href=\"/Classifieds/Detail/00237517\"> More Details</a>","CHEVY: 1965 Truck in original condition. Good shape, with few body rust spo ...  <a href=\"/Classifieds/Detail/00237027\"> More Details</a>","MAZDA: 1991 Mazda,       116 K, rag and hard top, leather, mechanically exc ...  <a href=\"/Classifieds/Detail/00237009\"> More Details</a>","TOYOTA: 2007 FJ Cruiser 4x4, blue, locker differential, brand new tires, in ...  <a href=\"/Classifieds/Detail/00236475\"> More Details</a>","MERCEDES-BENZ: 2008 GL 550 4MATIC, 5.5L, black/black, navigator, 2 DVDs, re ...  <a href=\"/Classifieds/Detail/00236585\"> More Details</a>","SENTRA: 1999 GXE, 135K miles, 4 dr, auto, all pwr, runs great, cruise, tilt ...  <a href=\"/Classifieds/Detail/00236110\"> More Details</a>","CHRYSLER: 2005 PT Cruiser Convertible GT, 5-speed HD manual, inferno red wi ...  <a href=\"/Classifieds/Detail/00236214\"> More Details</a>","NISSAN: 2002 Xterra XE, V6, 4X4, manual 5 speed, 136K mi., 1 owner, class A ...  <a href=\"/Classifieds/Detail/00235973\"> More Details</a>","BMW: 2009 BMW 335i Coupe Sport Pkg. Twin Turbo 300 hp, 300 lb./ft. torque,  ...  <a href=\"/Classifieds/Detail/00235690\"> More Details</a>","CADILLAC: 2006 DTS, white w/ tan interior, 44,500 mi., 6 CD changer, 55,000 ...  <a href=\"/Classifieds/Detail/00235167\"> More Details</a>", " ")
-var randomauto = Math.floor(Math.random()*(topautos.length-11));
-for (i=randomauto;i<(randomauto+10);i++)
-{
-document.write(topautos[i] + "<br /><br />")
-}
-</script>CHEVROLET: 2005 Trailblazer, 28,500 mi., excellent condition, $11,900 ( ...  <a href="/Classifieds/Detail/00240517"> More Details</a><br><br>PONTIAC: 2001 Sunfire, CD, auto, 2 door, very very clean. Cold AC.  Good ti ...  <a href="/Classifieds/Detail/00240500"> More Details</a><br><br>TOYOTA: 2001 4Runner, 84K miles, auto, leather, nice, $8750, 903-931-35 ...  <a href="/Classifieds/Detail/00240418"> More Details</a><br><br>CHRYSLER: 2005 Sebring Limited convertible, white 2-door coupe, V6, interio ...  <a href="/Classifieds/Detail/00240052"> More Details</a><br><br>ISUZU:1999 Trooper, 3.5L V6, 4wd, auto, sun roof, 6 disc cd, power locks, a ...  <a href="/Classifieds/Detail/00239802"> More Details</a><br><br>VOLKSWAGON: 1973 Bug good cond, runs good, good, cond, 4spd, yellow, no a/c ...  <a href="/Classifieds/Detail/00239490"> More Details</a><br><br>FORD: 1998 Contour, &nbsp;light blue, $3400. (979)696-1310 ...  <a href="/Classifieds/Detail/00239572"> More Details</a><br><br>TOYOTA: 2000 Avalon XLS, ecel cond., silver, leather seats, all power, moon ...  <a href="/Classifieds/Detail/00239051"> More Details</a><br><br>TOYOTA: 2006 RAV 4, 37,500 orig owner mi, brand new tires. Divorce forces s ...  <a href="/Classifieds/Detail/00239456"> More Details</a><br><br>FORD: 2008 F150, 4K mi, ext cab, pwr windows &amp; doors, Michelin tires, F ...  <a href="/Classifieds/Detail/00238228"> More Details</a><br><br>    
-     
-    </div>
-    <div class="TopAdsTabsContent" style="display: none;"> 
-<div style="height: 5px;"></div>    
-    
-<script type="text/javascript">
-var tophomes = new Array("BRYAN: Darling 3/2, huge rooms, appl. 2104 Hidden Hollow,  &#36;825&nbsp;BC ...  <a href=\"/Classifieds/Detail/00240802\"> More Details</a>","BRYAN: Huge 4  bdrm, 2.5 bath, huge kitchen,  2200 Nuches,   &#36;1275 &nbs ...  <a href=\"/Classifieds/Detail/00240844\"> More Details</a>","COLLEGE STATION:&nbsp;WON'T LAST LONG 4/2, 2 Living, 2 dining, wood floors. ...  <a href=\"/Classifieds/Detail/00240841\"> More Details</a>","BRYAN:  CUTE 1/1,      studio, shuttle.   &#36;385&nbsp;BCR REALTY&nbsp; 69 ...  <a href=\"/Classifieds/Detail/00240839\"> More Details</a>","COLLEGE STATION: &nbsp;READY 2/2, 1150 sq ftbcr., courtyard, Treehouse &#36 ...  <a href=\"/Classifieds/Detail/00240838\"> More Details</a>","COLLEGE STATION: &nbsp;ON SHUTTLE, LOVELY 2/2.5, 11&#146; ceilings, 400 Sum ...  <a href=\"/Classifieds/Detail/00240836\"> More Details</a>","COLLEGE STATION: &nbsp;DOVE CROSSING 3 bdrm + study 2 bath, Big BDRMS fence ...  <a href=\"/Classifieds/Detail/00240833\"> More Details</a>","COLLEGE STATION: &nbsp;AFFORDABLE 3/2, super location. Pierre  &#36;1200&nb ...  <a href=\"/Classifieds/Detail/00240832\"> More Details</a>","COLLEGE STATION: &nbsp;GIGANTIC 4/2, shuttle, entertain under huge patio, A ...  <a href=\"/Classifieds/Detail/00240831\"> More Details</a>","COLLEGE STATION: &nbsp;BIG 4/2, 2000 sq.ft. &#36;1575 2008 Angelina&nbsp;BC ...  <a href=\"/Classifieds/Detail/00240830\"> More Details</a>","COLLEGE STATION:  Spacious 3/2, fenced, pets ok. 903 Willow Pond,  &#36;975 ...  <a href=\"/Classifieds/Detail/00240821\"> More Details</a>","BRYAN: Ready 2/1, central location, pets OK, fenced. 2804 Sprucewood. &#36; ...  <a href=\"/Classifieds/Detail/00239974\"> More Details</a>","COLLEGE STATION:&nbsp;CUSTOM/READY 3/3, gorgeous tile, huge living &#36;107 ...  <a href=\"/Classifieds/Detail/00239970\"> More Details</a>","BRYAN:NEAR BRYAN HIGH big 3/2, FP, fenced 3706 Valley Oak, &#36;1150. &nbsp ...  <a href=\"/Classifieds/Detail/00240009\"> More Details</a>","COLLEGE STATION:&nbsp;PRICED TO MOVE 2/2, shuttle, 405 Summer. &#36;565.  & ...  <a href=\"/Classifieds/Detail/00240006\"> More Details</a>","COLLEGE STATION:&nbsp;MOST BILLS  PAID. 1/1 or 2/2 SHUTTLE, Summer. &#36;62 ...  <a href=\"/Classifieds/Detail/00239996\"> More Details</a>","COLLEGE STATION:&nbsp;FREE RENT 2/2, shuttle, appl + W/D. &#36;645,  &nbsp; ...  <a href=\"/Classifieds/Detail/00239995\"> More Details</a>","COLLEGE STATION:&nbsp;PRICED TO MOVE. HUGE 2/1.5, Gigantic bdrms, covered p ...  <a href=\"/Classifieds/Detail/00239993\"> More Details</a>","COLLEGE STATION:&nbsp;READY 2/1, kitchen appl + W/D, remodeled, shttle. &#3 ...  <a href=\"/Classifieds/Detail/00239988\"> More Details</a>","COLLEGE STATION:&nbsp;CUTE 1/1, big bdrm &amp; closets, shuttle, &#36;465.  ...  <a href=\"/Classifieds/Detail/00239985\"> More Details</a>","COLLEGE STATION: &nbsp;ATTENTION STUDENTS! GORGEOUS NEWER 4/3, beautiful in ...  <a href=\"/Classifieds/Detail/00239981\"> More Details</a>","BRYAN- Great Deal! 3/2, ceramic tile, fenced, pets ok, shuttle.  &#36;800&n ...  <a href=\"/Classifieds/Detail/00237849\"> More Details</a>","COLLEGE STATION&nbsp;&nbsp;HUGE 3/3 + BONUS ROOM/STUDY, PETS. 100 KLEINE    ...  <a href=\"/Classifieds/Detail/00237850\"> More Details</a>","COLLEGE STATION:&nbsp;2/2, huge master, shuttle, appl +w/d.    &#36;625 &nb ...  <a href=\"/Classifieds/Detail/00237881\"> More Details</a>","COLLEGE STATION:&nbsp;BEAT THIS-&#36;99 DEPOSIT 2/1.5, most bills paid, shu ...  <a href=\"/Classifieds/Detail/00237873\"> More Details</a>", " ");
-var randomhomes = Math.floor(Math.random()*(tophomes.length-11));
-for (h=randomhomes;h<(randomhomes+10);h++)
-{
-document.write(tophomes[h] + "<br /><br />")
-}
-</script>BRYAN: Huge 4  bdrm, 2.5 bath, huge kitchen,  2200 Nuches,   $1275 &amp;nbs ...  <a href="/Classifieds/Detail/00240844"> More Details</a><br><br>COLLEGE STATION:&nbsp;WON'T LAST LONG 4/2, 2 Living, 2 dining, wood floors. ...  <a href="/Classifieds/Detail/00240841"> More Details</a><br><br>BRYAN:  CUTE 1/1,      studio, shuttle.   $385&nbsp;BCR REALTY&nbsp; 69 ...  <a href="/Classifieds/Detail/00240839"> More Details</a><br><br>COLLEGE STATION: &nbsp;READY 2/2, 1150 sq ftbcr., courtyard, Treehouse $ ...  <a href="/Classifieds/Detail/00240838"> More Details</a><br><br>COLLEGE STATION: &nbsp;ON SHUTTLE, LOVELY 2/2.5, 11’ ceilings, 400 Sum ...  <a href="/Classifieds/Detail/00240836"> More Details</a><br><br>COLLEGE STATION: &nbsp;DOVE CROSSING 3 bdrm + study 2 bath, Big BDRMS fence ...  <a href="/Classifieds/Detail/00240833"> More Details</a><br><br>COLLEGE STATION: &nbsp;AFFORDABLE 3/2, super location. Pierre  $1200&amp;nb ...  <a href="/Classifieds/Detail/00240832"> More Details</a><br><br>COLLEGE STATION: &nbsp;GIGANTIC 4/2, shuttle, entertain under huge patio, A ...  <a href="/Classifieds/Detail/00240831"> More Details</a><br><br>COLLEGE STATION: &nbsp;BIG 4/2, 2000 sq.ft. $1575 2008 Angelina&nbsp;BC ...  <a href="/Classifieds/Detail/00240830"> More Details</a><br><br>COLLEGE STATION:  Spacious 3/2, fenced, pets ok. 903 Willow Pond,  $975 ...  <a href="/Classifieds/Detail/00240821"> More Details</a><br><br>    
-     
-    </div>
-    
-    <div class="TopAdsTabsContent" style="display: none;"> 
-    
-<div style="height: 5px;"></div>
-<script type="text/javascript">
-var topmerchandise = new Array("DACHSHUNDS: Miniature, &nbsp;APRI Reg.,   6wks old with 1st shots &amp; pup ...  <a href=\"/Classifieds/Detail/00240620\"> More Details</a>","GLOCK: sub compact model 29 10mm. In new cond. includes 2 10 rnd.mags and A ...  <a href=\"/Classifieds/Detail/00240663\"> More Details</a>","RIDING MOWER: 46&#148; cut, Husqvarna, like new. &#36;1200. Scag Comm&#146; ...  <a href=\"/Classifieds/Detail/00240696\"> More Details</a>","CEMENT MIXER: &nbsp;Electric, 1/3 HP, &#36;125. (979)260-3456 ...  <a href=\"/Classifieds/Detail/00240722\"> More Details</a>","AIR COMPRESSOR: New, 26 gal., comes with own air tools, &#36;250. (979)218- ...  <a href=\"/Classifieds/Detail/00240781\"> More Details</a>","KINDLE: New, Latest generation, lots of books on it, &#36;200. (979)218-402 ...  <a href=\"/Classifieds/Detail/00240780\"> More Details</a>","TREADMILL: New, Nordic Track, A2550 PRO, cushionshox space saver, &#36;550. ...  <a href=\"/Classifieds/Detail/00240778\"> More Details</a>","RAT TERRIERS: Miniature, 1 female; spayed, 1 male. 2 yrs. old, All shots. N ...  <a href=\"/Classifieds/Detail/00240762\"> More Details</a>","HAVAPOOS:Raised in my home; small, smart &amp; shedless. Parents on site. R ...  <a href=\"/Classifieds/Detail/00240829\"> More Details</a>","BEAGLES: AKC shots wormed &#36;200-&#36;400 Request pictures at kubena@ ver ...  <a href=\"/Classifieds/Detail/00240492\"> More Details</a>","PIT BULL: Blue, male, UKC/ABKC Reg., 5 mon., 100% razors edge, &#36;600. my ...  <a href=\"/Classifieds/Detail/00240588\"> More Details</a>","DOWNSIZING SALE: 4 pc. sectional w/ sofa bed &amp; matching recliners; Larg ...  <a href=\"/Classifieds/Detail/00240571\"> More Details</a>","STORAGE CONTAINERS:&nbsp;New/Used 20' &amp; 40'&nbsp;Buy/Rent/Rent-to-Own&n ...  <a href=\"/Classifieds/Detail/00240567\"> More Details</a>","MINIATURE PINCHER: &nbsp;mix pups, 7 wks old, 1st shots, dewormed, 2 black/ ...  <a href=\"/Classifieds/Detail/00240550\"> More Details</a>","LAPTOPS: (2) Toshiba 17 in. laptops. Original disks &amp; ext. ras &#36;85. ...  <a href=\"/Classifieds/Detail/00240642\"> More Details</a>","REMINGTON: Model 700 ADL Rifle. 243 caliber with a 3x9x40 scope, some ammo. ...  <a href=\"/Classifieds/Detail/00240629\"> More Details</a>","WINCHESTER: Model 1200, 12 ga. pump, 28&#148; barrel, 2 3/4&#148; chamber.  ...  <a href=\"/Classifieds/Detail/00240627\"> More Details</a>","SHI-TZU:  Full blood, no papers, born 5-27-10. 4 females &#36;350 ea, 1 mal ...  <a href=\"/Classifieds/Detail/00240612\"> More Details</a>","POODLE:  Miniature toy poodle, I male left. &#36;300.  (979)204-9481 ...  <a href=\"/Classifieds/Detail/00240677\"> More Details</a>","DOG KENNELS: Stackable dog kennels on wheels, 6 to unit, 7 units, &#36;150  ...  <a href=\"/Classifieds/Detail/00240666\"> More Details</a>","POMERANIAN: AKC puppies, 1 female-3 males, DOB 4/11/10, champion blood line ...  <a href=\"/Classifieds/Detail/00240656\"> More Details</a>","BLUE  LACY: Puppies, born 4-26-10, Medium size breed.   &#36;350 ea  Call 9 ...  <a href=\"/Classifieds/Detail/00240648\"> More Details</a>","ANTIQUE MIRROR:&nbsp;29.5&#148;x43.5&#146;.  &#36;80.&nbsp;Call Mickey&nbsp ...  <a href=\"/Classifieds/Detail/00240455\"> More Details</a>","GERMAN SHEPHERD: &nbsp;White, male, 11 months, all shots &amp; dewormed. Gr ...  <a href=\"/Classifieds/Detail/00240548\"> More Details</a>","OFFICE FURNITURE:&nbsp;GOING OUT OF BUSINESS!!  Desk, &#36;225; Chair &#36; ...  <a href=\"/Classifieds/Detail/00240444\"> More Details</a>", " ")
-var randommerch = Math.floor(Math.random()*(topmerchandise.length-16));
-for (i=randommerch;i<(randommerch+10);i++)
-{
-document.write(topmerchandise[i] + "<br /><br />")
-}
-</script>AIR COMPRESSOR: New, 26 gal., comes with own air tools, $250. (979)218- ...  <a href="/Classifieds/Detail/00240781"> More Details</a><br><br>KINDLE: New, Latest generation, lots of books on it, $200. (979)218-402 ...  <a href="/Classifieds/Detail/00240780"> More Details</a><br><br>TREADMILL: New, Nordic Track, A2550 PRO, cushionshox space saver, $550. ...  <a href="/Classifieds/Detail/00240778"> More Details</a><br><br>RAT TERRIERS: Miniature, 1 female; spayed, 1 male. 2 yrs. old, All shots. N ...  <a href="/Classifieds/Detail/00240762"> More Details</a><br><br>HAVAPOOS:Raised in my home; small, smart &amp; shedless. Parents on site. R ...  <a href="/Classifieds/Detail/00240829"> More Details</a><br><br>BEAGLES: AKC shots wormed $200-$400 Request pictures at kubena@ ver ...  <a href="/Classifieds/Detail/00240492"> More Details</a><br><br>PIT BULL: Blue, male, UKC/ABKC Reg., 5 mon., 100% razors edge, $600. my ...  <a href="/Classifieds/Detail/00240588"> More Details</a><br><br>DOWNSIZING SALE: 4 pc. sectional w/ sofa bed &amp; matching recliners; Larg ...  <a href="/Classifieds/Detail/00240571"> More Details</a><br><br>STORAGE CONTAINERS:&nbsp;New/Used 20' &amp; 40'&nbsp;Buy/Rent/Rent-to-Own&amp;n ...  <a href="/Classifieds/Detail/00240567"> More Details</a><br><br>MINIATURE PINCHER: &nbsp;mix pups, 7 wks old, 1st shots, dewormed, 2 black/ ...  <a href="/Classifieds/Detail/00240550"> More Details</a><br><br>    
-     
-     </div>
-
-  </div>
-</div>
-<script type="text/javascript">
-<!--
-var TopAds3001 = new Spry.Widget.TopAds300("TopAds3001");
-//-->
+  Rounded("div.RightRailTopAdsBox","#CCCCCC","#FFFFFF");
 </script>
-<br clear="all">
-<div style="height: 5px;">&nbsp;</div>
-<span id="adpositionc" style="float: left;" width="120" height="600"><iframe id="a5c1610b" name="a5c1610b" src="http://test.theeagle.com/server/www/delivery/afr.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="120" height="600" allowtransparency="true"><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe></span>
-<span id="adpositiond" style="float: right;" width="160" height="600"><iframe id="adpositiond" name="adpositiond" src="http://test.theeagle.com/server/www/delivery/afr.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="160" height="600" allowtransparency="true"><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe></span>
+	<br clear="all">
+	<div style="height: 5px;">&nbsp;</div>
+	<span id="adpositionc" style="float: left;" width="120" height="600"><iframe id="a5c1610b" name="a5c1610b" src="http://test.theeagle.com/server/www/delivery/afr.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="120" height="600" allowtransparency="true"><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe></span>
+	<span id="adpositiond" style="float: right;" width="160" height="600"><iframe id="adpositiond" name="adpositiond" src="http://test.theeagle.com/server/www/delivery/afr.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="160" height="600" allowtransparency="true"><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe></span>
 </div>
-
-
-
-
 <br clear="all">
 <br>
 <table width="990" align="center" cellspacing="0" cellpadding="0" border="0">
@@ -784,7 +852,7 @@ var TopAds3001 = new Spry.Widget.TopAds300("TopAds3001");
 <tr>
 <td class="footertext" align="center">
 <hr>
-<b>© 2008 The Bryan College Station Eagle</b><br>
+<b>© 2010 The Bryan College Station Eagle</b><br>
           <a href="/contact/contactus/">Contact Us</a> | <a href="/subscribe/">Subscribe/Customer Care</a> | <a href="/about/privacy/">Privacy Policy</a> | <a href="/about/termsofuse/">Terms of Use</a> | <a href="/contact/faqs/">FAQ</a> | <a href="#">RSS Feeds</a> | <a href="/dailyemails/">E-mail News</a> </td>
 </tr>
 
@@ -817,23 +885,18 @@ s.prop13="about"
 
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.10. -->
-
 <script language="javascript">
-document.getElementById("adpositiona").innerHTML = "<iframe id='a5c1610b' name='a5c1610b' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=96&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='728' height='90' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=96&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
+	document.getElementById("adpositiona").innerHTML = "<iframe id='a5c1610b' name='a5c1610b' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=96&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='728' height='90' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=96&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
 </script>
-
 <script language="javascript">
-document.getElementById("adpositionb").innerHTML = "<iframe id='a5c1610b' name='a5c1610b' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='300' height='250' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
+	document.getElementById("adpositionb").innerHTML = "<iframe id='a5c1610b' name='a5c1610b' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='300' height='250' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=97&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
 </script>
-
 <script language="javascript">
-document.getElementById("adpositionc").innerHTML = "<iframe id='a5c1610b' name='a5c1610b' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='120' height='600' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
+	document.getElementById("adpositionc").innerHTML = "<iframe id='a5c1610b' name='a5c1610b' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='120' height='600' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=98&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
 </script>
-
 <script language="javascript">
-document.getElementById("adpositiond").innerHTML = "<iframe id='adpositiond' name='adpositiond' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='160' height='600' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
+	document.getElementById("adpositiond").innerHTML = "<iframe id='adpositiond' name='adpositiond' src='http://test.theeagle.com/server/www/delivery/afr.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE' framespacing='0' frameborder='no' scrolling='no' width='160' height='600' allowtransparency='true'><a href='http://test.theeagle.com/server/www/delivery/ck.php?n=af535574&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.theeagle.com/server/www/delivery/avw.php?zoneid=100&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af535574' border='0' alt='' /></a></iframe>";
 </script>
 
 
-
- </div></body></html>
+</div></body></html>
