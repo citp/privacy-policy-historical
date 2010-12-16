@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kokugamer.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608230046id_/http%3A//kokugamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokugamer.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216192552id_/http%3A//kokugamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koku Gamer
 
