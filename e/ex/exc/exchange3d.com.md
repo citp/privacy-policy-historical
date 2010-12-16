@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411024424id_/http%3A//www.exchange3d.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216215017id_/http%3A//exchange3d.com/index.php%3Fact%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Models and 3D Graphics in Exchange3D Media Store
 
-In order to provide uninterrupted services to you as a visitor or a user of our site, Exchange3D, it is necessary that you provide us with your complete and correct personal information ("Personal Data") when you are applying to us and/or continue to subscribe with us for service(s) and/or product(s) ("Services").
+In order to provide uninterrupted services to you as a visitor or a user of our site, Exchange3D, it is necessary that you provide us with your complete and correct personal information ('Personal Data') when you are applying to us and/or continue to subscribe with us for service(s) and/or product(s) ('Services').
 
 Your Personal Data shall be strictly kept confidential at all times which have been and will be our policies and practices with respect to the use, collection, retention, transfer, disclosure, security and access of Personal Data.
 
@@ -27,5 +27,7 @@ You agree that, by providing us with your Personal Data, you allow us to use and
 (vi)  | Processing of any benefits stemming from or in connection with the Services.  
   
 In relating to the mentioned purposes above, you also accept our disclosure and transferring to any third party service providers, any credit providers, banks, financial institutions, any third party collection agencies, any credit reference agencies, any security agencies, our agents, contractors, our professional advisers, any other persons under a duty of confidentiality to us and any of our actual or proposed assignees or transferees of our rights with respect to you of using, disclosing, processing, holding, retaining or transferring such Personal Data. 
+
+You also understand and agree that your Personal Data will be transferred in the event of a sale or transfer of all or substantially all the stock or assets of the company. 
 
 In case we deemed it necessary, we reserve the right to amend this Statement without prior notice. So, regular checking for any amendments is advisable. 
