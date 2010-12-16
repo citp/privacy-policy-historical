@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516045555id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216054325id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
 # HillaryClinton.com - Privacy Policy
 
@@ -31,6 +31,6 @@ If you have any questions about our privacy policy, corrections to the informati
 In the event that this site links to other websites, Friends of Hillary is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. Friends of Hillary will occasionally update this privacy policy as changes to the site necessitate it. We encourage you to periodically review this policy to be informed of how we are protecting your information.  
 You can also reach us via U.S. Mail at:  
 Friends of Hillary  
-1825 K Street NW  
-Suite 1000  
-Washington, DC 20006
+1900 M Street, NW  
+Suite 500  
+Washington, DC 20036 
