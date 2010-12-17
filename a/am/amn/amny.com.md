@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531214526id_/http%3A//www.amny.com/amny-com-privacy-policy-1.1836216) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217194348id_/http%3A//www.amny.com/amny-com-privacy-policy-1.1836216) for the most accurate reproduction.*
 
 # amNY.com Privacy policy - am New York
 
@@ -60,3 +60,7 @@ amNY330 34th StreetNew York, New York 10001 or amny@amny.com       
 Copyright © 2010, Newsday LLC.  
 Version: March 2010  
  
+
+Rate this:
+
+(Click to rate)
