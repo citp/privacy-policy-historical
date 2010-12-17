@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexcycle.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621012228id_/http%3A//www.lexcycle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexcycle.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217030743id_/http%3A//www.lexcycle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lexcycle
 
