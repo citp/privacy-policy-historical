@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.edu.sg privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192807id_/http%3A//www.ntu.edu.sg/Pages/Footer.aspx%3FContentPageURL%3Dhttp%3A//www.ntu.edu.sg/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.edu.sg privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217084440id_/http%3A//www.ntu.edu.sg/Pages/Footer.aspx%3FContentPageURL%3Dhttp%3A//www.ntu.edu.sg/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Nanyang Technological University Privacy Statement
 
@@ -14,7 +14,11 @@
 
   6. Our mechanisms and processes are in place to receive and address complaints or enquiries about our policies and procedures relating to the handling of personal data.  Appropriate measures will be taken to amend policies and procedures if a complaint is found to be justified.  
 
-  7. This site may contain links to other sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy notices of those sites.
+  7. This site may contain links to other sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy notices of those sites.  
+
+  8. Children (users under the age of 18 years) are not eligible to use our services or purchase any products online unsupervised.  
+
+  9. We request that children do not submit any personal information to us online. If you are under the age of 18 years, you may only surf the Sites only if you have obtained consent from your parents/legal guardian or if you are under the supervision of your parent or legal guardian.
 
 
 
