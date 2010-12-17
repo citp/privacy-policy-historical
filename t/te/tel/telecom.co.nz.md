@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604222829id_/http%3A//www.telecom.co.nz/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217084303id_/http%3A//www.telecom.co.nz/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy : Telecom New Zealand Limited
 
