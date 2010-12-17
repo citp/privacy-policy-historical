@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lasership.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526124538id_/http%3A//www.lasership.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasership.com privacy policy that was archived on 2010-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217110742id_/http%3A//www.lasership.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/design.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -145,6 +145,27 @@ Supply Chain Management, Distribution, Low Cost shipping, Rush Delivery, Ground 
 						</div>
 					</form>
 					<div class="clear"></div>
+<!--[if gt IE 5]>
+<style>
+#blogs
+{
+	margin: 0 0 16px 0;
+}
+</style>
+<![endif]-->
+					<div id="blogs">
+						<!--<div id="blogs_tab">LaserShip Blogs</div>-->
+						<div id="blogs_box_content">
+							<div id="blogs_box_inner">
+								<ul>
+									<li><a href="http://lasership.wordpress.com/" target="_blank">LaserWorld</a></li>
+									<li class="blog_margin"><a href="http://www.laserday.blogspot.com/" target="_blank">LaserDay</a></li>
+									<li class="blog_margin"><a href="http://www.lasershiptech.blogspot.com/" target="_blank">LaserShip Tech</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
 					<div id="bundles_area">
 						<script type="text/javascript">
 						new fadeshow(fadeimages, 261,152, 0, 3000, 1, "R")
@@ -171,127 +192,7 @@ Supply Chain Management, Distribution, Low Cost shipping, Rush Delivery, Ground 
 </div>
 <!--END globalWrapperHome-->
 <!-- InstanceBeginEditable name="Scripts" --><!-- InstanceEndEditable -->
-<script type="text/javascript">
-
-var DoNotMigrate = ["017248","018264","0110303","025921","103203","103400","103514","110303","110383","296468","296612","1010079","1010080","1010081","1010082","1010083","1010084","1010259","1010354","1010363","1010364","1010365","1010366","1010381","1010382","1010383","1010384","1010385","1010386","1010388","1010389","1010390","1010392","1010395","1010398","1010401","1010411","1010436","1010448","1010449","1010450","1010451","1010452","1010453","1010454","1010455","1010456","1010457","1010458","1010459","1010460","1010461","1010462","1010463","1010464","1010465","1010466","1010467","1010468","1010469","1010470","1010471","1010472","1010473","1010474","1010475","1010476","1010477","1010478","1010479","1010480","1010481","1010482","1010483","1010484","1010485","1010486","1010487","1010488","1010489","1010490","1010491","1010492","1010493","1010494","1010495","1010496","1010497","1010498","1010499","1010500","1010501","1010502","1010503","1010504","1010505","1010506","1010509","1010532","1010533","1010541","1010547","1010554","1010561","1010566","1010567","1010575","2910273","1010086","1010087","1010088","1010089","1010090","1010091","1010092","1010093","1010100","1010102","1010103","1010108","1010146","1010178","1010558","1010380","035651","035649","035640","029662","281006","281012","265010","265011","265012","265014","146026","140175"];
-var DoNotMigrateCheck = function()
-{
-	var AccountLogin = jQuery('form input[name="email"]').val();
-	if ((jQuery.inArray(AccountLogin, DoNotMigrate) != -1) || (AccountLogin.substring(0, 2) == '41'))
-	{
-		jQuery('form[name="loginform"]').attr('action', 'https://v7.lasership.com/login2.php');
-	} //if
-	else
-	{
-		jQuery('form[name="loginform"]').attr('action', 'https://order.lasership.com/login.php');
-	} //else
-} //function
-jQuery(document).ready(function()
-{
-	jQuery('#first_time_overlay').overlay(
-	{
-		closeOnClick: false,
-		api: true,
-		expose:
-		{
-			color: '#333333',
-			loadSpeed: 200,
-			opacity: 0.5
-		}
-	} //options
-	);
-	jQuery('#first_time_overlay_2').overlay(
-	{
-		closeOnClick: false,
-		api: true,
-		expose:
-		{
-			color: '#333333',
-			loadSpeed: 200,
-			opacity: 0.5
-		}
-	} //options
-	);
-	jQuery('#first_time').bind('click', function()
-	{
-		jQuery('#first_time_overlay').overlay().load();
-	} //function
-	);
-	jQuery('#migrate_error').bind('click', function(EventObject)
-	{
-		if (jQuery(EventObject.target).hasClass('close2'))
-		{
-			jQuery('#first_time_overlay').overlay().close();
-			jQuery('form input[name="email"]').focus();
-		} //if
-	} //function
-	);
-	jQuery('#first_time_2').bind('click', function()
-	{
-		jQuery('#first_time_overlay').overlay().load();
-	} //function
-	);
-	jQuery('#migrate_button').bind('click', function()
-	{
-		var Password = jQuery('#migrate_password').val();
-		if ((Password.length > 2) && (jQuery('#migrate_account_id').val().length > 4))
-		{
-			jQuery.ajax(
-			{
-				type: 'POST',
-				url: '/migrate_user.php',
-				async: true,
-				dataType: 'json',
-				data: 'account_id=' + jQuery('#migrate_account_id').val() + '&password=' + Password,
-				success: function(Data)
-				{
-					if (Data.Success)
-					{
-						jQuery('#login_migrated_email').val(Data.AccountID);
-						jQuery('#login_migrated_password').val(Password);
-						jQuery('#first_time_overlay').overlay().close();
-						jQuery('#migrate_account_id').val('');
-						jQuery('#migrate_password').val('');
-						jQuery('#first_time_overlay_2').overlay().load();
-					} //if
-					else
-					{
-						jQuery('#migrate_error').html(Data.Message);
-						jQuery('#migrate_error').show();
-					} //else
-				} //function
-			}
-			);
-		} //if
-		else
-		{
-			jQuery('#migrate_error').html('Please enter your Account and Password to continue.');
-			jQuery('#migrate_error').show();
-		} //else
-		return false;
-	} //function
-	);
-	var LocationHref = location.href;
-	//console.log(LocationHref);
-	//if (LocationHash.length == 0)
-	if (LocationHref.indexOf('error=1') != -1)
-	{
-		jQuery('#migrate_error').text('Sorry, we are unable to find your email in LaserWeb 8.0. If you currently have an online account on our old website please use this form to update your online profile in LaserWeb 8.0.');
-		jQuery('#migrate_error').show();
-		jQuery('#first_time_overlay').overlay().load();
-	} //if
-	if (LocationHref.indexOf('migrate=1') != -1)
-	{
-		jQuery('#migrate_error').text('');
-		jQuery('#migrate_error').hide();
-		jQuery('#first_time_overlay').overlay().load();
-	} //if
-	jQuery('form input[name="email"]').bind('blur', DoNotMigrateCheck);
-	jQuery('form input[name="email"]').bind('change', DoNotMigrateCheck);
-} //function
-);
-
-</script>
+<script type="text/javascript" src="/js/login.js"></script>
 <div id="first_time_overlay" class="smaller">
 	<h2>Welcome to LaserWeb 8.0</h2>
 	<p>Register your e-mail to your current online account.</p>
@@ -327,6 +228,10 @@ jQuery(document).ready(function()
 	</div>
 	<a href="mailto:shippingconsultant@lasership.com?Subject=Multiple Account Access&amp;Body=Please activate me also for the following accounts:">Register for Additional Accounts.</a>
 </div>
+<script type="text/javascript" src="/js/awstats_misc_tracker.js"></script><img src="/js/awstats_misc_tracker.js?screen=800x600&amp;win=1366x768&amp;cdi=24&amp;java=false&amp;shk=n&amp;fla=n&amp;rp=n&amp;mov=n&amp;wma=n&amp;pdf=n&amp;uid=awsuser_id1580350139618r2990&amp;sid=awssession_id1580350139618r2990" height="0" width="0" border="0">
+<noscript>
+<p><img src="/js/awstats_misc_tracker.js?nojs=y" alt="" height="0" width="0" class="hide" /></p>
+</noscript>
 
 <!-- InstanceEnd -->
 </body></html>
