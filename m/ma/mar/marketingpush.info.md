@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the marketingpush.info privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504130534id_/http%3A//www.marketingpush.info/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingpush.info privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217113154id_/http%3A//marketingpush.info/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Marketing push,free marketing articles
 
   
-  
-Sponsored Ads: [Free article directory](http://www.tunspace.com/) | [Pagerank checker tool](http://prdeep.info/) | [wickipedia](http://wickipedia-info.blogspot.com/)
+[](http://aymenbnr.extraff.hop.clickbank.net/)
 
 **This can be edited in admin panel.**
 
