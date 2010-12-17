@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoora.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617150058id_/http%3A//thoora.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoora.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217070846id_/http%3A//thoora.com/company/privacy) for the most accurate reproduction.*
 
 # Thoora.com | Privacy Policy
 
