@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thedrum.co.uk privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617163632id_/http%3A//www.thedrum.co.uk/information/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedrum.co.uk privacy policy that was archived on 2010-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217075955id_/http%3A//www.thedrum.co.uk/information/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,12 +10,10 @@
 	</title>
 	<meta name="title" content="Privacy Policy">
 	<meta name="msvalidate.01" content="1ECE496D8F8F55F7323C71B43E502C5F">
-	<meta name="y_key" content="5b241350236ee74a">
 	<meta name="robots" content="index, follow">
-	<meta name="ROBOTS" content="NOYDIR,NOODP,NOARCHIVE">
 	<meta name="rating" content="General">
 	<meta http-equiv="content-language" content="en">
-        <link rel="alternate" type="application/rss+xml" title="News by RSS from The Drum" href="/news/rss/">
+        <link rel="alternate" type="application/rss+xml" title="News by RSS from The Drum" href="http://feeds.feedburner.com/thedrummagazine">
 		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
     	<meta name="keywords" xml:lang="en" lang="en" content="THE DRUM">
@@ -40,6 +38,23 @@
   		})();
 
 	</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
+<script type="text/javascript" src="http://www.thedrum.co.uk/directory/js/jquery-1.4.2.min.js"></script>   
+<script type="text/javascript">
+
+   var $gjq = jQuery.noConflict();
+   
+</script>
+<script type="text/javascript" src="http://carnyx.ctml2.com/carnyxlz//CommuniGator_WebTracking.js"></script>
+<script type="text/javascript">
+
+   $gjq(document).ready(function () {
+    CommuniGator_WebTracking.url = 'http://carnyx.ctml2.com/carnyxlz/';
+    CommuniGator_WebTracking.InitialiseTracker();
+   });
+
+</script>
+    
+    
     
 	
 	<script type="text/javascript">
@@ -52,14 +67,16 @@
 	<script language="javascript" type="text/javascript" src="/scripts/misc/ox.js"></script>
 
 
-
-	<link href="/css/core.css" rel="stylesheet" type="text/css">
-	<link href="/css/drum.css" rel="stylesheet" type="text/css">
-		<link href="/css/print.css" rel="stylesheet" media="print" type="text/css">
+	<link href="/css/drum.min.css" rel="stylesheet" type="text/css">
+					<link href="/css/print.css" rel="stylesheet" media="print" type="text/css">
 
 	<!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="/css/iehacks.css" />
 	<![endif]-->
+
+
+<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery-1.3.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/jquery/jquery-ui-1.7.2.custom.min.js"></script>
 
 	<meta name="robots" xml:lang="en" lang="en" content="index,follow">
 <meta name="DC.Description" xml:lang="en" lang="en" content="The privacy of your personal data is important to Carnyx Group Ltd. The following sets out what we do and what we do not do with the information we collect using this Website:">
@@ -68,8 +85,85 @@
 
 
 
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	var ld_open = false;
+	$(".login-dialog").click(function(){
+		if(ld_open){
+			$(this).closest("li").removeClass("current");
+			$("#login-hover-bg").fadeOut(500);
+			ld_open = false;
+		}else{
+			$(this).closest("li").addClass("current");
+			$("#login-hover-bg").fadeIn(500);
+			ld_open = true;
+		}
+		
+		
+	});
+});
+</script>
+
+
+
+
 	</head><body id="page_privacypolicy">
-<div id="wrapper">
+
+<!--Login Bar --> 
+ <div id="login-bar1">
+
+ 
+	<div class="padder">
+	 <div style="float:right;margin-right:50px;">
+ 	<div class="welcome"></div>
+ 	  	  	<ul class="sf-menu">
+            <li>
+				<a href="http://www.thedrum.co.uk/contact-us">Contact</a>
+			</li>
+			 <li>
+				<a href="http://www.thedrum.co.uk/information/media-info/">Advertise</a>
+			</li>
+			<li>
+				<a href="http://www.thedrum.co.uk/newsletter">Newsletter</a>
+			</li>
+			<li>
+				<a href="/account/register/">Register</a>
+			</li>
+			
+			<li>
+				<a href="https://www.thedrum.co.uk/christmas-offer/">Subscribe</a>
+			</li>
+			<li style="background-color:#707070"><span class="login-dialog">Log in</span></li>	
+	</ul>
+ 	 	
+	
+	</div>
+		<div id="login-hover-bg">
+		<div id="login-content">
+			<div id="close" class="login-dialog">&nbsp;</div>
+			<form action="/account/login/" method="post" id="login-hover-form">
+			<p><label for="hover-email">Email</label><br></p>
+			<input type="text" name="email" id="hover-email" class="text">	
+			<p><label for="hover-password">Password</label><br></p>
+			<input type="password" name="password" id="hover-password" class="text">
+			<p>
+			<input type="checkbox" name="remember" value="1"> Remember Me	
+			<input type="submit" value="Log in" class="button" style="float:right;margin-right:15px;">
+			</p>	
+			<p><a href="/account/forgot-password">Forgotten Password?</a></p>
+			</form>
+		</div>
+	</div>
+
+ </div>		
+</div>
+<!-- End Login Bar -->
+
+
+
+<div id="wrapper" style="padding-top:10px;">
 			<!-- main starts -->
 				<div id="main" class="clearfix">
 			<!-- header starts -->
@@ -84,26 +178,27 @@
 						</div>
 						<div id="accounts">
 							
-                                									<a href="/account/login/"><img src="/img/icons/top_signin.gif" alt="Sign In"></a>
-									<p>Not registered? <br><a href="/account/register/">Register</a></p>
-                                							
+                               							
 						</div>
 						<div id="networking-icons">
 							<a href="http://www.facebook.com/pages/The-Drum/246394715021?v=wall&amp;ref=search" id="facebook" title="Follow us on Facebook" target="_blank">&nbsp;</a>
 								<a href="http://twitter.com/thedrum" id="twitter" title="Follow us on Twitter" target="_blank">&nbsp;</a>
 							<div style="clear:both">&nbsp;</div>
 						</div>
-						<div id="bnr">
-														<script type="text/javascript">
-							<!--// <![CDATA[
-							OA_adjs(1,'pub1a32c3bc');
-							// ]]> -->
-							</script><script language="JavaScript" type="text/javascript" src="/ox/www/delivery/ajs.php?n=pub1a32c3bc&amp;zoneid=1&amp;source=edition=all;url=drum/information/privacy/&amp;exclude=,&amp;r=539601221&amp;loc=https%3A//web.archive.org/web/20100617163632id_/http%3A//www.thedrum.co.uk/information/privacy/"></script>
-							<noscript>
-							  <a target="_blank" href="/ox/www/delivery/ck.php?n=pub1a32c3bc">
-							  <img border="0" alt="" src="/ox/www/delivery/avw.php?zoneid=1&n=pub1a32c3bc" /></a>
-							</noscript>
+						<div id="bnr" style="z-index: 1; position:relative;margin-left:342px;">
+						
+																<script type="text/javascript">
+								<!--// <![CDATA[
+								OA_adjs(1,'pub1a32c3bc');
+								// ]]> -->
+								</script><script language="JavaScript" type="text/javascript" src="/ox/www/delivery/ajs.php?n=pub1a32c3bc&amp;zoneid=1&amp;source=edition=all;url=drum/information/privacy/&amp;exclude=,&amp;r=497920721&amp;loc=https%3A//web.archive.org/web/20101217075955id_/http%3A//www.thedrum.co.uk/information/privacy/"></script>
+								<noscript>
+								  <a target="_blank" href="/ox/www/delivery/ck.php?n=pub1a32c3bc">
+								  <img border="0" alt="" src="/ox/www/delivery/avw.php?zoneid=1&n=pub1a32c3bc" /></a>
+								</noscript>
 
+							
+							
 						</div>
 						<div id="overall_nav">
 							<div id="content_select">
@@ -144,6 +239,10 @@
 			<li id="nav_blogs">
 			<a href="/blogs/" title="Blogs">
 				Blogs			</a>
+					</li>
+			<li id="nav_store">
+			<a href="/store/" title="Store">
+				Store			</a>
 					</li>
 	</ul>
 						</div>
@@ -203,7 +302,7 @@ If you have any questions in relation to the above please contact Nick Creed, Di
 					<!--// <![CDATA[
 					OA_adjs(2,'pub15a5b66b');
 					// ]]> -->
-					</script><script language="JavaScript" type="text/javascript" src="/ox/www/delivery/ajs.php?n=pub15a5b66b&amp;zoneid=2&amp;source=edition=all;url=drum/information/privacy/&amp;exclude=,&amp;r=539601221&amp;loc=https%3A//web.archive.org/web/20100617163632id_/http%3A//www.thedrum.co.uk/information/privacy/"></script>
+					</script><script language="JavaScript" type="text/javascript" src="/ox/www/delivery/ajs.php?n=pub15a5b66b&amp;zoneid=2&amp;source=edition=all;url=drum/information/privacy/&amp;exclude=,&amp;r=497920721&amp;loc=https%3A//web.archive.org/web/20101217075955id_/http%3A//www.thedrum.co.uk/information/privacy/"></script>
 					<noscript>
 					  <a target='_blank' href='/ox/www/delivery/ck.php?n=pub15a5b66b'>
 					  <img border='0' alt='' src='/ox/www/delivery/avw.php?zoneid=2&n=pub15a5b66b' /></a>
@@ -298,7 +397,7 @@ If you have any questions in relation to the above please contact Nick Creed, Di
             
             						
 						<li><a href="/inbox/" title="Editor's Inbox">Inbox</a></li>
-						<li><a href="http://www.thedrumtraining.co.uk/" title="The Drum Training">Training</a></li>
+<!--					<li><a href="http://www.thedrumtraining.co.uk/" title="The Drum Training">Training</a></li> -->
 						<li><a href="/subscribe/" title="Subscribe to The Drum">Subscribe</a></li>
 						<li><a href="/information/media-info/" title="Media Informtaion">Advertise</a></li>						
 						<li><a href="/information/privacy/" title="Privacy Policy">Privacy</a></li>
