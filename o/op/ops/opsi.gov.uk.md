@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opsi.gov.uk privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225075005id_/http%3A//www.opsi.gov.uk/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opsi.gov.uk privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217160551id_/http%3A//www.opsi.gov.uk/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
