@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630200231id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217182306id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planned Parenthood
 
 We at Planned Parenthood Federation of America, Inc. ("PPFA" or "Planned Parenthood") want this site to be a safe and private place for users. We will do our part by not requiring you to register or provide any information at all to use most sections and features of this Web site. In turn, you can do your part by reading this policy and taking the steps outlined below.
 
-There are certain actions and areas of the site that will require you to provide personal information, such as: 
+There are certain actions and areas of the site that will require you to provide personal information, such as:
 
-  1. becoming a member of our activist network 
-  2. sending an e-mail question 
-  3. making a donation 
+  1. becoming a member of our activist network
+  2. sending an e-mail question
+  3. making a donation
   4. applying for a part-time, full-time, or volunteer position
 
 
@@ -19,11 +19,11 @@ Any time you provide personal information, this privacy policy will govern our u
 
 ## Personal Information You Choose to Provide
 
-In order to gain access to certain areas of our site or to use certain features, you may choose to provide personal information. **If you do submit information to us, we will use that information for the purposes for which it was submitted. We may also use your information in other ways, such as to contact you about other Planned Parenthood related activities and/or fundraising campaigns or as otherwise disclosed to you at the point of collection, and we may share your information with other like-minded organizations, including other Planned Parenthood entities, for similar purposes.**
+In order to gain access to certain areas of our site or to use certain features, you may choose to provide personal information. **If you do submit information to us, we will use that information for the purposes for which it was submitted. We may also use your information in other ways, such as to contact you about other Planned Parenthood activities and/or fundraising campaigns or as otherwise disclosed to you at the point of collection, and we may share your information with other organizations.**
 
 **For example:**
 
-If you make an online donation to us, your information will be added to one or more of our supporter lists and databases, and you will be contacted about other Planned Parenthood activities, news, and/or fundraising campaigns. 
+If you make an online donation to us, your information will be added to one or more of our supporter lists and databases, and you will be contacted about other Planned Parenthood activities, news, and/or fundraising campaigns.
 
 If you join or opt-in to our activist network, you will receive informational updates and action alerts about reproductive health and rights issues. Our activist network is an electronic network, and therefore we need an e-mail address to contact you. We also need your full postal address in order for our systems to match you to the correct state and federal districts, thereby ensuring that you are primarily sending messages to your designated elected officials.
 
@@ -106,8 +106,7 @@ You may contact us by mail, e-mail, or telephone, as follows:
 Mail: Member Services, PPFA, 434 West 33rd Street, New York, NY 10001  
 E-mail: [member.services@ppfa.org](mailto:member.services@ppfa.org)  
   
-Phone: 1-800-430-4907  
-
+Phone: 1-800-430-4907
 
 Policy Last Updated: January 15, 2009
 
