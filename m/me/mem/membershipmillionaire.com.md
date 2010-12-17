@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershipmillionaire.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615081340id_/http%3A//www.membershipmillionaire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipmillionaire.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218000302id_/http%3A//www.membershipmillionaire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy MembershipMillionaire.com
 
