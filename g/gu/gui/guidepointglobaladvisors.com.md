@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidepointglobaladvisors.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323124846id_/http%3A//www.guidepointglobaladvisors.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidepointglobaladvisors.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217135740id_/http%3A//www.guidepointglobaladvisors.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # GUIDEPOINT GLOBAL ADVISORS - Privacy Policy
 
