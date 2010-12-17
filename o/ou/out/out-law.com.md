@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618133504id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217154243id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
 
 # Privacy | OUT-LAW.COM by Pinsent Masons LLP
+
+_This policy was last updated on 14/10/2010._
 
   * [Safeguarding your rights](http://www.out-law.com/page-293#1578)
   * [What information do we collect?](http://www.out-law.com/page-293#1399)
   * [What do we use personal information for?](http://www.out-law.com/page-293#1459)
   * [OUT-LAW Weekly Round-up](http://www.out-law.com/page-293#1078)
+  * [Your comments on our site](http://www.out-law.com/page-293#yourcomments)
   * [Contacting you for other purposes](http://www.out-law.com/page-293#1706)
   * [Information collected automatically](http://www.out-law.com/page-293#1171)
   * [Cookies](http://www.out-law.com/page-293#1623)
@@ -39,6 +42,18 @@ We want to provide a service which is personalised to each of our visitors. We a
 ## OUT-LAW Weekly Round-up
 
 If you decide you would like to receive our OUT-LAW News weekly round-up, you will receive this e-mail once per week only. Sometimes this will be sponsored by a third party, so its details may also appear on the email. However, your details will never be given to any such party without your consent.
+
+[Back to top](http://www.out-law.com/page-293#1148)
+
+## Your comments on our site
+
+It is possible to add comments to some pages of OUT-LAW. In doing so, your IP (internet protocol) address and any other information that you choose to provide (e.g. your email address) will be transferred to [Disqus](http://www.disqus.com/), a US-based company.
+
+This information is not made available to users of OUT-LAW.COM but it will be transferred to Pinsent Masons. We will store this data for six months and then delete it.
+
+We will not use this information for marketing and we will only disclose this information to third parties for the purpose of or in connection with any legal proceedings (including prospective legal proceedings) or as otherwise necessary for the purposes of establishing, exercising or defending legal rights or to the extent that we are required to do so by law. Its retention by Disqus is subject to Disqus’s own policies.
+
+Comments on OUT-LAW.COM are governed by our [comments policy](http://www.out-law.com/page-11437).
 
 [Back to top](http://www.out-law.com/page-293#1148)
 
@@ -76,7 +91,7 @@ More information about cookies, including how to block them or delete them, can
 
 ## Transferring information overseas
 
-Outside the UK, Pinsent Masons has offices in Dubai, Hong Kong, Beijing and Shanghai. It is possible that your details or information collected may be passed to these offices – but only where we think this may be of benefit to you.
+Outside the UK, Pinsent Masons has offices in Dubai, Singapore, Hong Kong, Beijing and Shanghai. It is possible that your details or information collected may be passed to these offices – but only where we think this may be of benefit to you.
 
 [Back to top](http://www.out-law.com/page-293#1148)
 
