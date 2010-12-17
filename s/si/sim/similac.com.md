@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the similac.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521110423id_/http%3A//abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similac.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217055021id_/http%3A//abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
 
 # Abbott Laboratories Privacy Policy - US Residents Only
 
