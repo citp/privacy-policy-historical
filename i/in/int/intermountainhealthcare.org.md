@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108055731id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217083811id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
 
 # Intermountain Healthcare Notice of Privacy Practices - Salt Lake City, Utah
 
@@ -95,7 +95,7 @@ You have the right to:
 
 This notice describes the privacy practices of IHC Health Services, Inc. Intermountain Healthcare includes hospitals, clinics, doctor offices, and other healthcare facilities owned by IHC Health Services, Inc., as well as the Intermountain employees and volunteers at those facilities. This notice also describes the privacy practices of affiliated providers while they are performing services in an Intermountain facility, unless they provide you with a notice of their specific privacy practices. Affiliated providers are not employed by Intermountain but are either authorized to provide services to patients in an Intermountain facility or are approved participants on the panel of SelectHealth providers. 
 
-  1. More information about [SelectHealth privacy practices](http://selecthealth.org/portal/site/selecthealth/menuitem.b7a5a65f28a9a0c3348b8eb4e4744df9/?vgnextoid=3a24cb04b30e8010VgnVCM10000029fad49fRCRD). 
+  1. More information about [SelectHealth privacy practices](http://selecthealth.org/plans/individual/services/Pages/Privacy.aspx). 
   2. For information regarding privacy practices on Intermountain's public website, review [Detailed Notice of Privacy Practices](https://web.archive.org/info/privacy/Pages/detailed.aspx). 
 
 
@@ -106,8 +106,8 @@ If you would like further information about your privacy rights, are concerned t
 
   * The privacy coordinator in the Intermountain facility where you received care. 
   * **Intermountain Privacy Office**  
-3930 W. Parkway Blvd.  
-Salt Lake City, UT 84120  
+36 S. State Street   
+Salt Lake City, UT 84111   
 Toll free: **1-800-442-4845  
 **Email: [privacy@imail.org](mailto:privacy@intermountainmail.org)
 
@@ -117,7 +117,7 @@ We will investigate all complaints and will not penalize or treat you any differ
 
 ## Privacy Practices on IntermountainHealthcare.org 
 
-**Public Information** – This site offers access to information on Intermountain services and facilities, affiliated physicians, and other health-related content to anyone who accepts the [Terms of Use](https://web.archive.org/info/copyright). Intermountain Healthcare, through [intermountainhealthcare.org](https://web.archive.org/), makes this information publicly available without the need for the user to disclose any personally identifiable information. 
+**Public Information** – This site offers access to information on Intermountain services and facilities, affiliated physicians, and other health-related content to anyone who accepts the [Terms of Use](https://web.archive.org/info/terms). Intermountain Healthcare, through [intermountainhealthcare.org](https://web.archive.org/), makes this information publicly available without the need for the user to disclose any personally identifiable information. 
 
 **Proprietary Information** – In addition to the publicly available information, [intermountainhealthcare.org](https://web.archive.org/) also provides access to personal health-related information to those who provide the necessary information to make that possible. For example, in the "My Health" section on intermountainhealthcare.org, a user can view his or her personal online health records, provided that they have registered and logged in a user name and password. 
 
@@ -127,8 +127,8 @@ We will investigate all complaints and will not penalize or treat you any differ
 
 **Third Party Services** – [Intermountainhealthcare.org](https://web.archive.org/) offers the opportunity to apply online for employment with Intermountain. This online employment service is provided through a third party entity ("Taleo") under contract with Intermountain. A statement of Taleo's privacy practices can be accessed and viewed online: 
 
-  * [Taleo Privacy Statement ](http://www.taleo.com/privacy/privacy-policy.php)
+  * [Taleo Privacy Statement ](http://www.taleo.com/privacy/privacy-policy)
 
 
 
-**Use of Cookies** – Like many sites, [intermountainhealthcare.org](https://web.archive.org/) utilizes "cookies." A cookie is an alphanumeric file that transfers to the user's computer during a session to help improve the Internet experience. [intermountainhealthcare.org](https://web.archive.org/) uses cookies: (1) to keep track of the pages previously selected during the session, in order to enable "Back to Previous Section" capability; (2) to enable general usability statistics that can be used to make the site better; and (3) in situations where users proactively identify themselves (e.g., with a user name and password), cookies help serve up personalized functionality without the need for users to continually re-identify themselves during their session. Cookies are randomly generated, are used only for one session and are then destroyed, and are incapable of identifying the user. Intermountain does not control the use of cookies used or linked by contracted or third party services (such as Taleo).
+**Use of Cookies** – Like many sites, i[ntermountainhealthcare.org](https://web.archive.org/) utilizes "cookies." A cookie is an alphanumeric file that transfers to the user's computer during a session to help improve the Internet experience. [intermountainhealthcare.org](https://web.archive.org/) uses cookies: (1) to keep track of the pages previously selected during the session, in order to enable "Back to Previous Section" capability; (2) to enable general usability statistics that can be used to make the site better; and (3) in situations where users proactively identify themselves (e.g., with a user name and password), cookies help serve up personalized functionality without the need for users to continually re-identify themselves during their session. Cookies are randomly generated, are used only for one session and are then destroyed, and are incapable of identifying the user. Intermountain does not control the use of cookies used or linked by contracted or third party services (such as Taleo). – Like many sites, utilizes "cookies." A cookie is an alphanumeric file that transfers to the user's computer during a session to help improve the Internet experience. uses cookies: (1) to keep track of the pages previously selected during the session, in order to enable "Back to Previous Section" capability; (2) to enable general usability statistics that can be used to make the site better; and (3) in situations where users proactively identify themselves (e.g., with a user name and password), cookies help serve up personalized functionality without the need for users to continually re-identify themselves during their session. Cookies are randomly generated, are used only for one session and are then destroyed, and are incapable of identifying the user. Intermountain does not control the use of cookies used or linked by contracted or third party services (such as Taleo).
