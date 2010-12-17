@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622010516id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217093927id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # Private Policy - OregonLive.com
 
@@ -58,8 +58,8 @@ If you have any concerns or questions about any aspect of this policy, please fe
 
 Privacy Policy Coordinator  
 **Oregon Live LLC**  
-**921 SW Washington Avenue, Suite 550**  
-**Portland, OR 97205**
+**620 SW 5th Avenue, STE 300**  
+**Portland, OR 97204**
 
 **[Contact Us](https://web.archive.org/contactus/)**
 
