@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kic.org.uk privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609183626id_/http%3A//www.kic.org.uk/en/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kic.org.uk privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217040928id_/http%3A//kic.org.uk/en/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Kaplan International Colleges
 
