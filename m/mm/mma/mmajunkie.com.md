@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the mmajunkie.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316161752id_/http%3A//mmajunkie.com/misc/Privacy-Policy.mma) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmajunkie.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217104734id_/http%3A//mmajunkie.com/misc/Privacy-Policy.mma) for the most accurate reproduction.*
 
 # MMAjunkie.com Privacy Policy | MMAjunkie.com
 
-**MMAjunkie.com Privacy Policy** [Last updated January 09, 2008]
+**MMAjunkie.com Privacy Policy [Last updated July 07, 2010]**
 
-  
 This privacy statement (the "Privacy Policy") applies to all personally identifiable information (collectively, "Personal Data") and other information that is collected by MMAjunkie.com LLC. ("MMAjunkie.com") through its website, including www.mmajunkie.com and forums.mmajunkie.com, (collectively, the "Site"). 
 
 Please review this Privacy Policy carefully before using the Site. 
 
-MMAjunkie.com takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@mmajunkie.com](mailto:privacy@mmajunkie.com?subject=MMAjunkie.com%20Privacy%20Policy)
+MMAjunkie.com takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@mmajunkie.com](mailto:privacy@mmajunkie.com)
 
 **MMAjunkie.com Registered Users - Collection of Personal Data**
 
@@ -17,9 +16,7 @@ To support the provision of certain features on this Site, MMAjunkie.com may col
 
 If you become a MMAjunkie.com Registered User, from time to time MMAjunkie.com may request information, including Personal Data about you such as your name and email addresses. Providing Personal Data is entirely optional, although some Site features may not work without it. Wherever we request Personal Data we make an effort to provide a link to this Privacy Policy. 
 
-By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us via the Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Quantcast and the authorized third parties referred to herein for the purposes described in this Privacy Policy. 
-
-**Using "Cookie" Technology**
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us via the Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Quantcast and the authorized third parties referred to herein for the purposes described in this Privacy Policy. Using "Cookie" Technology 
 
 MMAjunkie.com and certain MMAjunkie.com Partners use a software technology called "cookies" to collect non-personal information about Internet visitors. Cookies are small text files that uniquely identify the browser you use to access the Internet. We use cookies to understand your use of Internet sites, remember your preferences and improve your experience when using the Services. Most browsers come pre-configured to accept cookies, but you can adjust your browser settings to refuse all cookies or to specify the conditions under which it will allow a cookie to be set. Some MMAjunkie.com features may not function correctly if cookies are disabled. 
 
@@ -31,15 +28,21 @@ We use IP addresses to analyze trends, administer the Site, and gather broad Int
 
 The Site and the servers upon which the Site are hosted are located in the United States. All matters and material related to the site is governed by the laws of the State of Missouri in the United States. Any Personal Data that users outside of the U.S. provide via the Site will be transferred to the United States, and by visiting the Site and submitting Personal Data, you authorize this transfer. 
 
+**Third-Party Advertising**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+
 **Sharing and Disclosing Your Personal Data**
 
-In addition to the disclosures of Personal Data described above, there are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
+In addition to the disclosures of Personal Data described above, there are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: Sale of MMAjunkie.com: In the event of a sale or transfer of the assets of our business we may transfer information, including Personal Data to the acquiring entity. We will include provisions in any selling agreement that the purchaser treat Personal Data in the same manner required by this Privacy Policy, inclusive of any amendments to this Privacy Policy. All information, including Personal Data, collected through our Site is considered a trade secret of MMAjunkie.com. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
 
-Sale of MMAjunkie.com: In the event of a sale or transfer of the assets of our business we may transfer information, including Personal Data to the acquiring entity. We will include provisions in any selling agreement that the purchaser treat Personal Data in the same manner required by this Privacy Policy, inclusive of any amendments to this Privacy Policy. All information, including Personal Data, collected through our Site is considered a trade secret of MMAjunkie.com. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets. 
+**Agents, Consultants and Related Third Parties**
 
-Agents, Consultants and Related Third Parties: MMAjunkie.com sometimes hires other companies to perform certain business-related functions. Examples include maintaining databases and processing payments. When we employ another company to perform a function of this nature, we endeavor to provide them only with the information that they need to perform their specific function. 
+MMAjunkie.com sometimes hires other companies to perform certain business-related functions. Examples include maintaining databases and processing payments. When we employ another company to perform a function of this nature, we endeavor to provide them only with the information that they need to perform their specific function. 
 
-Legal Requirements: MMAjunkie.com reserves the right to use or disclose any Personal Data without notice or consent as needed to comply with federal and state law; to conduct investigations of complaints; to protect the integrity of our Site; to protect the safety of our visitors or others; and to cooperate in any legal investigation. 
+**Legal Requirements**
+
+MMAjunkie.com reserves the right to use or disclose any Personal Data without notice or consent as needed to comply with federal and state law; to conduct investigations of complaints; to protect the integrity of our Site; to protect the safety of our visitors or others; and to cooperate in any legal investigation. 
 
 **Linked Sites**
 
@@ -61,4 +64,4 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 **Quantcast Traffic Reporting**
 
-MMAjunkie.com participates in Quantcast traffic metric report. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. All of the analysis conducted by the Quantcast system is done using anonymous internet usage information. For further information please review the [Quantcast privacy policy](http://www.quantcast.com/privacy.jsp "Privacy Policy"). 
+MMAjunkie.com participates in Quantcast traffic metric report. Quantcast does not collect any personally identifiable information; that is, information that could be used to uniquely identify or locate an individual. All of the analysis conducted by the Quantcast system is done using anonymous internet usage information. For further information please review the Quantcast privacy policy. 
