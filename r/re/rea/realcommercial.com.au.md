@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618062012id_/http%3A//www.realcommercial.com.au/cgi-bin/rsearch%3Fcu%3Dfn-realcom%26a%3Dv%26id%3D734) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217045334id_/http%3A//www.realcommercial.com.au/cgi-bin/rsearch%3Fcu%3Dfn-realcom%26a%3Dv%26id%3D734) for the most accurate reproduction.*
 
 # Commercial Real Estate for Sale and Commercial Property for Lease in Australia - realcommercial.com.au
 
