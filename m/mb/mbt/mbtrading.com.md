@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520020308id_/http%3A//mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217041223id_/http%3A//mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
 
 # MB Trading - Stocks Options Futures Forex Online Discount Trading
 
@@ -22,22 +22,20 @@ This notice will help you understand our overall privacy policy and the type of 
 
 We collect personal and financial information to open your account, to process your transactions, to administer your account, to verify your identity, employment, creditworthiness, and to carry out your request for other products and services. The following categories are examples of personal nonpublic information that will be requested from you: (1) name, (2) date of birth, (3) trading history, (4) total assets, (5) social security number, (6) cash balance, (7) margin information, and (8) positions. We have implemented procedures to protect your nonpublic personal and financial information.
 
-We do not disclose your nonpublic information to nonaffiliated third parties unless to facilitate your written requests or instructions, or it is permitted or otherwise required by law. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson GHCO (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). "Required by law" examples include court orders and regulatory investigations.
+We do not disclose your nonpublic information to nonaffiliated third parties unless (1) to facilitate your written requests or instructions; (2) to help us improve services; or (3) it is permitted or otherwise required by law. Examples of “improve services” include Experian Marketing Solutions, Inc. “Cheetah Mail”, which helps us with (1) client satisfaction surveys and (2) helps us to analyze and identify client needs and notify clients of product and service offerings. Examples of "permitted by law" include our clearing firms: Penson Financial Services, Inc. (which clears and settles your securities transactions) and Penson Futures (which clears and settles your futures transactions); and credit bureaus (e.g. Experian, Equifax, and Trans Union). Examples of "required by law" include court orders and regulatory investigations.
 
-We do not sell your personal information to third-party marketers or any other entity for any purpose.
-
-Our commitment to privacy protection extends to both current and former customers, except as permitted or required by law.
+We do not sell, license, lease or otherwise disclose your personal information to third-party marketers or any other entity for any purpose. Our commitment to privacy protection extends to both current and former customers, except as permitted or required by law or to improve our services.
 
 **RESOURCES**
 
 Our employees or representatives may collect nonpublic personal information about you from various sources including: 
 
   * Your account application or other supplemental account forms.
-  * Your transactional history with affiliates MB Trading and/or MB Trading Futures, Inc.
-  * Your account records including transactional history with nonaffiliates Penson Financial Services, Inc. and Penson GHCO, where it is appropriate
-  * Information from credit reporting agencies (e.g. Experian, Equifax, and Trans Union).
-  * Current and prior employers, federal and state agencies.
-  * Consumer reporting agencies such as McDonald Information Service, Inc.
+  * Your transactional history with affiliates MB Trading and/or MB Trading Futures, Inc. 
+  * Your account records including transactional history with nonaffiliates Penson Financial Services, Inc. and Penson Futures, where it is appropriate 
+  * Information from credit reporting agencies (e.g. Experian, Equifax, and Trans Union). 
+  * Current and prior employers, federal and state agencies. 
+  * Consumer reporting agencies such as McDonald Information Service, Inc. 
 
 
 
@@ -51,17 +49,35 @@ Information collected is used to process your transactions, update your account 
 
 We limit access to only those employees or representatives that need to know the information in order to assist in carrying out your request for products or services. We have policies and procedures that give direction to our employees, and representatives acting on our behalf, regarding how to protect and use nonpublic personal information. Further, we maintain physical, electronic, and procedural safeguards that comply with federal and state regulations to guard your information.
 
+**AFFILIATED COMPANIES**
+
+We will share information with affiliates if the information is required to provide a product or service you have requested. Additionally, we may share information with our affiliates about our experiences or transactions with you or your account in order to make you aware of services and products from which you may benefit. Information that may be shared with affiliates include your name, email address, mailing address, age, employment status, general account and demographic information and account history with us.
+
+An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. MB Trading, MB Trading Futures, Inc. and WGAL, LLC are affiliates of each other. 
+
 **NONAFFILIATED THIRD PARTIES**
 
-We do not share nonpublic personal information about you with nonaffiliated third parties, unless otherwise permitted or required by law, which does not aid in the carrying out of your request or instructions. These nonaffiliated third parties include government/regulatory organizations, such as the Internal Revenue Service (IRS), the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), Financial Industry Regulatory Authority (FINRA), National Futures Associations (NFA) and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed us to make are permitted.
+We do not share nonpublic personal information about you with nonaffiliated third parties unless otherwise improve our services to you, or is permitted or required by law, or to carry out your request or instructions. These nonaffiliated third parties include Experian Marketing Solutions, Inc. “Cheetah Mail”, government/regulatory organizations, such as the Internal Revenue Service (IRS), the Securities and Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), Financial Industry Regulatory Authority (FINRA), National Futures Associations (NFA) and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed us to make are permitted.
 
 We require all entities with which we share your nonpublic personal information agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.
 
-Our privacy policy applies, to the extent required by law, to employees and representatives that act on the firm's behalf. Additionally, we regularly review privacy policies of third parties for administrative services and joint marketing agreements to ensure compliance with appropriate federal and state regulations.
+Our privacy policy applies, to the extent required by law, to employees and representatives that act on our behalf. Additionally, we regularly review privacy policies of third parties for administrative services and joint marketing agreements to ensure compliance with appropriate federal and state regulations.
 
 **OPT OUT OF DISCLOSURE**
 
-The law allows you to "opt out" of our sharing nonpublic personal information about you in certain circumstances with affiliated and nonaffiliated companies; that is, you may direct us to not make such disclosures. We do not currently share information about you with any affiliate or third party that triggers this opt-out right. Therefore, there is no need for you to opt out. If in the future we desire to disclose your information in a way that is inconsistent with this policy, we will notify you in advance and provide you with the opportunity to opt out of such disclosure.
+The law allows you to "opt out" of our sharing nonpublic personal information about you in certain circumstances with affiliated and nonaffiliated companies; that is, you may direct us to not make such disclosures. 
+
+However, we do not currently share information about you with any affiliate or third party that triggers this opt-out right. Therefore, there is no need for you to opt out. If in the future we desire to disclose your information in a way that is inconsistent with this policy, we will notify you in advance and provide you with the opportunity to opt out of such disclosure through one of the options listed below.
+
+If you elect to opt-out of information sharing, it will remain inforce until you tell us to change your choice or for at least five years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to opt-out of information sharing for at least another five years. You can opt back in at any time. An opt-out election must be made for each account you maintain with us.
+
+Options to opt-out of the sharing of information: 
+
+  * Contact us by phone at (866) 628-3001 
+  * Login to the secured website and select “Opt-Out of Information Sharing”
+  * Send an email through the secured customer website to [optout@mbtrading.com](mailto:optout@mbtrading.com) with the words "Opt-Out of Information Sharing" in the subject line and your MBT account number in the body copy.
+
+
 
 **USE OF COOKIES TECHNOLOGY**
 
@@ -80,8 +96,7 @@ If you do not want to receive any commercial communications from the DMA in the 
 The Direct Marketing Association  
 Attn: Customer Service, Opt Out  
 1120 Avenue of the Americas  
-New York, NY 10036-6700  
-
+New York, NY 10036-6700 
 
 When contacting the DMA, please be sure to include complete information about each name, address, and telephone number that you would like to have excluded from their national contact lists. If you have moved within the past year, you should also include your old address and phone number. This is also true for name changes and the addresses and phone numbers associated with each name.
 
@@ -89,4 +104,4 @@ If you have questions regarding our privacy policy, or to update your account in
 
 **THIS PRIVACY NOTICE IS PROVIDED TO YOU FOR INFORMATIONAL PURPOSES ONLY. YOU DO NOT NEED TO CALL OR TAKE ANY ACTION IN RESPONSE TO THIS NOTICE. WE RECOMMEND THAT YOU READ AND RETAIN THIS NOTICE FOR YOUR PERSONAL RECORDS.**
 
-Effective date: June 16, 2005
+Effective date: June 22, 2010
