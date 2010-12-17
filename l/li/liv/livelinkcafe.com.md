@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005028id_/http%3A//www.livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217174924id_/http%3A//www.livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
-# Live Link Cafe: FREE Advertising For Instant Real Live Visitors To Your Website
+# Live Link Cafe - Free Exchange Link Network | Add My URL
 
 |  |  |  | 
 
@@ -12,9 +12,7 @@
   
 ---|---  
   
-[View](https://web.archive.org/web/20100507005028id_/http%3A//www.livelinkcafe.com/how_to.php) **** 10 = **1** Post Pt.   
-  
-Members: [ **2918** ]  
+Members: [ **6221** ]  
   
 * * *  
   
