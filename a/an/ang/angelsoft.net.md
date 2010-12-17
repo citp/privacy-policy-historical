@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213257id_/http%3A//angelsoft.net/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelsoft.net privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217015311id_/http%3A//angelsoft.net/a/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Angelsoft
 
@@ -136,4 +136,4 @@ If you have any questions about this Privacy Policy, or believe that its terms h
 Back to Top
 
 Policy last updated May 1, 2007  
-© Copyright 2010 Angelsoft, Inc. All rights reserved. 
+© 2010 Angelsoft, Inc. All rights reserved. 
