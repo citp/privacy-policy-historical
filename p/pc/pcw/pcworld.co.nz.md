@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617062717id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218003222id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
 
 # Fairfax Media Business Group > Corporate > Privacy Policy
 
