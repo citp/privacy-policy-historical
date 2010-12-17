@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freehotvideo.info privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511232423id_/http%3A//freehotvideo.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehotvideo.info privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217212606id_/http%3A//freehotvideo.info/privacy-policy) for the most accurate reproduction.*
 
-# Sex - Privacy Policy | Free Hot Video
+# Privacy Policy | freehotvideo.info
 
 This document details important information regarding the use and disclosure of User Data collected on FreeHotVideo.info
 
