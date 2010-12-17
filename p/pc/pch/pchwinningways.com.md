@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchwinningways.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205190949id_/http%3A//www.pch.com/infocenter/privacypolicy.shtml%3Fcm_re%3DPCH.com-_-BotNav-_-Dec08Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchwinningways.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217160612id_/http%3A//www.pch.com/infocenter/privacypolicy.shtml%3Fcm_re%3DPCH.com-_-TopShell-_-Dec08Privacy) for the most accurate reproduction.*
 
 # Welcome to pch.com. It's all about winning!
 
