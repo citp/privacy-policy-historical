@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524160356id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217013337id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
 
 # Jorge Cruise: #1 bestselling author featured on oprah, today and cnn - Privacy Policy
 
