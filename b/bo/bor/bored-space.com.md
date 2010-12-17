@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bored-space.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908085419id_/http%3A//www.bored-space.com/index.php/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored-space.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217155630id_/http%3A//www.bored-space.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D27%26Itemid%3D46) for the most accurate reproduction.*
 
-# Bored Space - Kill your Bored Time - Privacy Policy
+# Privacy Policy
 
 _**Bored-space.com**_ has created this privacy statement in order to demonstrate   
 our firm commitment to privacy. The following discloses the information gathering   
