@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617185931id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217142329id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
 
 # HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!
 
@@ -10,7 +10,30 @@
 ---  
 | [HOME](http://www.monoprice.com/ "Go back to Monoprice home page") > Privacy Policy  
   
-This is the privacy policy for all web sites operated by Monoprice, Inc. (DBA. Monoprice.com).  Monoprice, Inc.  
+**Monoprice.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.**
+
+  
+|  This privacy statement covers the site http://www.monoprice.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+
+If you have questions or concerns regarding this statement, you should first contact Monoprice.com Webmaster, at privacy@monoprice.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at 
+
+_http://www.truste.org/consumers/watchdog_complaint.php_. TRUSTe will then serve as a liaison with Monoprice.com to resolve your concerns.
+
+By displaying the TRUSTe trustmark, our website, Monoprice.com has agreed to inform you on:
+
+* What personally identifiable information of yours Monoprice.com collects.
+* The organization collecting the information.
+* How the information is used.
+* With whom the information may be shared.
+* What choices are available to you regarding collection, use and distribution of the information.
+* The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Monoprice.com control.
+* How you can correct any inaccuracies in the information.   
+---|---  
+[](http://www.truste.org/ivalidate.php?url=www.monoprice.com&sealid=101%20)  
+  
+This is the privacy policy for all web sites operated by Monoprice, Inc. (DBA. Monoprice.com).
+
+Monoprice, Inc.  
 Attn: Privacy Policy  
 11701 6th Street  
 Rancho Cucamonga, CA 91730  
