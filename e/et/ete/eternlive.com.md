@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eternlive.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201031142id_/http%3A//eternlive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternlive.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217013646id_/http%3A//eternlive.com/privacy) for the most accurate reproduction.*
 
-# EternLive Free Articles
+# Eternlive Articles
 
 This Privacy Policy covers the our treatment of personal information that is recorded when you submit an article, or request an article via email or other methods.
 
@@ -9,7 +9,7 @@ This Privacy Policy covers the our treatment of personal information that is rec
 
 ## Information Collection
 
-**EternLive Free Articles** collects minimal personal information when you request or submit an article. However, other non-personally identifying information may be collected when you enter or leave our site(s).
+**Eternlive Articles** collects minimal personal information when you request or submit an article. However, other non-personally identifying information may be collected when you enter or leave our site(s).
 
   * **Cookies:** A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information. We only use cookies to record session information. Once the user closes their browser, the cookie simply terminates
   * **Log Files:** For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, Browser Information (such as client, and version), Username (If registered), Referring page, pages viewed on our servers and duration of each page view. We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
@@ -19,9 +19,9 @@ This Privacy Policy covers the our treatment of personal information that is rec
 
 ## Information Disclosure
 
-**EternLive Free Articles** maintains your email address and other pertinent information submitted when registering for an account. Your contact information will never be released or sold to any vendor, partner or outside agency unless we are legally required to do so, such as but not limited to, the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site(s) and applicable laws or to protect against misuse or unauthorized use of our Web site(s).
+**Eternlive Articles** maintains your email address and other pertinent information submitted when registering for an account. Your contact information will never be released or sold to any vendor, partner or outside agency unless we are legally required to do so, such as but not limited to, the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site(s) and applicable laws or to protect against misuse or unauthorized use of our Web site(s).
 
-We reserve the right to deliver notices to authors and publishers regarding changes or updates to the **EternLive Free Articles** website and service. Any email notices or update announcements from **EternLive Free Articles** will include detailed unsubscribe information, giving you the option to remove yourself from future mailings at any time.
+We reserve the right to deliver notices to authors and publishers regarding changes or updates to the **Eternlive Articles** website and service. Any email notices or update announcements from **Eternlive Articles** will include detailed unsubscribe information, giving you the option to remove yourself from future mailings at any time.
 
   
 
@@ -39,7 +39,7 @@ We can be reached via our Contact Us form, from which you can make any query, in
 
 ## Privacy Policy Exceptions
 
-This privacy statement applies solely to information collected by this website. Our policy does not apply to the practices of other companies advertised, linked to or otherwise listed, on the **EternLive Free Articles** website, nor does it extend to people that **EternLive Free Articles** does not employ or manage.
+This privacy statement applies solely to information collected by this website. Our policy does not apply to the practices of other companies advertised, linked to or otherwise listed, on the **Eternlive Articles** website, nor does it extend to people that **Eternlive Articles** does not employ or manage.
 
 This web site contains links to other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every web site they visit that collects personally identifiable information.
 
@@ -48,15 +48,15 @@ This web site contains links to other sites. We encourage our users to be aware 
 
 ## Privacy Policy Changes
 
-**EternLive Free Articles** may amend this policy from time to time. If changes are made in the way your personal information is used, we will post a prominent announcement on our Homepage notifying you of the change.
+**Eternlive Articles** may amend this policy from time to time. If changes are made in the way your personal information is used, we will post a prominent announcement on our Homepage notifying you of the change.
 
   
 
 
 ## Disclaimer
 
-**EternLive Free Articles** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are onbly provided for information and redistribution as outlined in our guidelines. Use of this web site is provided "AS IS" with no warranty whatsoever.
+**Eternlive Articles** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are onbly provided for information and redistribution as outlined in our guidelines. Use of this web site is provided "AS IS" with no warranty whatsoever.
 
-**EternLive Free Articles** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **EternLive Free Articles** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
+**Eternlive Articles** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **Eternlive Articles** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
 
 **All terms and conditions are subject to change without prior notice.**
