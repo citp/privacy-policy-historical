@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129121225id_/http%3A//www.innovid.com//privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217013636id_/http%3A//www.innovid.com/privacy.php) for the most accurate reproduction.*
 
 # Innovid - Privacy policy
 
