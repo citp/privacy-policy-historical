@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509164523id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217144533id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Metrodate.com
 
 ## Privacy Statement for [Metrodate.com](http://www.metrodate.com/)
 
+_Last Updated: March 20, 2009_
+
 Metrodate.com takes member privacy very seriously. We use all reasonable efforts to protect our members' information. The purpose of this policy is to help our members recognize our firm commitment to their privacy, while having a complete understanding of how their information is used by our service. 
 
-This policy was last revised on April 10, 2003. Our policy may change at any time. Members are encouraged to review it regularly, and contact us with any questions. We tried to address all major concerns regarding privacy in this document, written in a non-legalese format that is hopefully easy to understand. By using Metrodate.com, you are agreeing to these policies. 
+Our policy may change at any time. Members are encouraged to review it regularly, and contact us with any questions. We tried to address all major concerns regarding privacy in this document, written in a non-legalese format that is hopefully easy to understand. By using Metrodate.com, you are agreeing to these policies. 
 
 ## Children
 
@@ -24,11 +26,11 @@ Only you can give another member your true name or contact information. Even you
 
 ## Cookies
 
-In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site �remembers� who you are until you log off. Cookies make this possible. 
+In order for a web site to be truly interactive, sessions are usually required. For example, once you log on to the site, a user can go from page to page while the site "remembers" who you are until you log off. Cookies make this possible. 
 
 Disabling cookies on your browser will mean you will not be able to utilize Metrodate.com, because you won't be able to log on. 
 
-We also save other information as cookies to speed up the web site and add other features for you. For example, there is a cookie to remember your user id so that the next time you visit the site you don't have to retype it. We do not save any confidential information in cookies such as your password, payment information, etc. This is particularly important if you are using a shared computer. 
+We also save other information as cookies to speed up the web site and add other features for you. For example, there is a cookie to remember your user id so that the next time you visit the site you don't have to retype it. 
 
 ## Information Provided by Our Members
 
@@ -48,6 +50,10 @@ Like most web sites, our traffic logs record your IP address, the web site you c
 
 We also log various events such as each time a user logs in and performs certain actions on the web site, such as placing orders or participating in various promotions. This information is used to help us support our members. 
 
+## Information Provided to Third Parties
+
+Metrodate.com utilizes monitoring tools including Google Analytics for traffic reporting. Third party tools are also used for displaying advertising on Metrodate.com, including Google AdSense and Google Ad Manager. These systems require sending various traffic information to these third parties, in order to get detailed traffic reports, to learn from site usage, and to show targeted advertising to visitors. 
+
 ## Disclosure of Private Information to Government Authorities
 
 Under various circumstances, it may be necessary for Metrodate.com to disclose private information about our members to government agencies such as law enforcement. In addition, we may report Metrodate users to the authorities in the case of legal wrongdoing, such as attempting to use a stolen credit card. 
@@ -62,7 +68,7 @@ Metrodate does **not** do background checks on our members. When you meet people
 
 ## Updating Your Information
 
-At any time our members can update their member information by visiting the various sections under �Member Services� such as �Personal Info� or �Public Profile�. We encourage our members to review their own profile (also available under �Member Services�) to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to �Account Info� from the �Member Services� menu. 
+At any time our members can update their member information by visiting the various sections under "My Profile" menu such as the "About Me" page. Location and more personal information is available form the "Account Info" page under the Home menu. We encourage our members to review their own profile to see what information is being provided to other members. If users wish to cancel service, they can do so at any time by going to "Account Info" from the "Home" menu. 
 
 ## Contacting Metrodate.com
 
@@ -74,6 +80,5 @@ Willow Grove, PA 19090-1742
 [Click here](https://web.archive.org/asp/help.asp) to contact us online  
 
 
-Copyright 1998 - 2005   
-Metrodate.com  
-
+Copyright 1998 - 2009   
+Metrodate.com
