@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localmole.co.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606174249id_/http%3A//www.localmole.co.uk/legals/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmole.co.uk privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217011005id_/http%3A//www.localmole.co.uk/legals/privacypolicy) for the most accurate reproduction.*
 
-# LocalMole.co.uk
+# LocalMole UK Business Directory - Privacy Policy
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY** **Trinity Mirror Regionals Plc, a company incorporated in England and Wales, whose registered office is One Canada Square, Canary Wharf, London, E14 5AP ("Trinity Mirror Regionals Plc").** **ON THIS WEB SITE**
 
