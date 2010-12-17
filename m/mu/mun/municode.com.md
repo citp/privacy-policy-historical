@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613105704id_/http%3A//municode.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217211455id_/http%3A//www.municode.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Municipal Code Corporation - Privacy Policy
 
@@ -78,7 +78,7 @@ Municipal Code Corporation protects user information with the following security
 
 
 
-If you have any further questions about privacy or security, please [contact us](https://web.archive.org/web/20100613105704id_/http%3A//municode.com/Email.aspx) . 
+If you have any further questions about privacy or security, please [contact us](https://web.archive.org/web/20101217211455id_/http%3A//www.municode.com/Email.aspx) . 
 
 This policy was last updated on October 6th, 2009. 
 
