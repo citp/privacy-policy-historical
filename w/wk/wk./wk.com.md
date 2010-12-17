@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wk.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522031729id_/http%3A//www.wk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wk.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217023623id_/http%3A//www.wk.com/legal/privacy) for the most accurate reproduction.*
 
 # Wieden+Kennedy | Full Service Integrated Advertising Agency
 
