@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listmillion.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502011227id_/http%3A//listmillion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmillion.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217030115id_/http%3A//listmillion.com/privacy.php) for the most accurate reproduction.*
 
 # List Million Privacy Policy
 
