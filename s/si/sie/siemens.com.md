@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siemens.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063230id_/http%3A//www.siemens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siemens.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217022613id_/http%3A//www.siemens.com/privacy) for the most accurate reproduction.*
 
-# Siemens Corporate Website - Privacy
+# Privacy Policy - Siemens Global Website
 
 #### Siemens Commitment to Data Privacy Protection
 
