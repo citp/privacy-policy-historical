@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegsteakhouse.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625153308id_/http%3A//www.kegsteakhouse.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegsteakhouse.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217013852id_/http%3A//www.kegsteakhouse.com/en/privacy-policy) for the most accurate reproduction.*
 
 # The Keg Steakhouse & Bar | Privacy Policy
 
