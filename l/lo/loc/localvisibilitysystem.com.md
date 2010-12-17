@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localvisibilitysystem.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327235128id_/http%3A//localvisibilitysystem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvisibilitysystem.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217044714id_/http%3A//localvisibilitysystem.com/privacy.html) for the most accurate reproduction.*
 
 # LocalVisibilitySystem.com--Privacy Policy
 
