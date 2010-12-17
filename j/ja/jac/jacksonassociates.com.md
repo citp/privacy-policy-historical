@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911082845id_/http%3A//www.jacksonassociates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217200809id_/http%3A//jacksonassociates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Jackson Associates | Research Simplified
 
 **Privacy Policy**
 
-**Your privacy is important to us. We want you to be comfortable viewing our web site and providing information to us.**
+**Your privacy is important to us. We want you to be comfortable viewing our web site  
+and providing information to us.**
 
 **What we do**  
 Jackson Associates is in the business of data collection for the purpose of tailoring marketing and advertising to better serve consumer needs. We maintain a database of respondent information in order to more efficiently locate and screen potential participants for marketing research studies. While we screen, recruit and host the marketing research studies, it is our clients who determine the nature of the study, as well as the criteria required for participation.
@@ -12,7 +13,7 @@ Jackson Associates is in the business of data collection for the purpose of tail
 **Information gathering and security**  
 Registration for our database is voluntary. Complete only the information that you are comfortable sharing. You may register two ways:
 
-  * Sign up online using a form that is electronically transmitted via email to a private email address, or
+  * Sign up online using a form that is electronically transmitted via email to a private email address or database, or
   * Call 770-394-1701, ext. 705 and leave your complete name and address. A data processing representative will mail you our standard form.
 
 
@@ -47,7 +48,7 @@ Survey screening and interviewing calls may be monitored for training and for qu
 **Web site / Internet security**
 
 > **Site traffic monitoring**  
->  Jackson Associates does not currently collect anonymous information about visits to our web site. We currently obtain general web site traffic reports upon request by Earthlink, our Internet Service Provider. The information is used for web site enhancement and improvement.
+>  Jackson Associates does not currently collect anonymous information about visits to our web site. We currently obtain general web site traffic reports from Google Analytics. The information is used for web site enhancement and improvement.
 > 
 > **Cookies**  
 >  We do not currently employ the use of cookies to monitor and store information about your computer usage and navigation of our site. Should we elect to use cookies in the future, this policy will be updated accordingly.
