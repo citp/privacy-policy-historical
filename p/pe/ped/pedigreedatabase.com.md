@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303233103id_/http%3A//www.pedigreedatabase.com/dogs/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigreedatabase.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217014309id_/http%3A//www.pedigreedatabase.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - The Pedigree Database - German shepherd dog
 
 > 1.      What personally identifiable information pedigreedatabase.com collects.
 > 
@@ -82,7 +82,13 @@
 > 
 > ### Third Party Advertisers
 > 
-> pedigreedatabase.com shares Web site usage information about users with a reputable third party for the purpose of targeting our Internet banner advertisements on this site and other sites.  The information they collect and share through this technology is not personally identifiable. 
+> pedigreedatabase.com shares Web site usage information about users with a reputable third party for the purpose of targeting our Internet banner advertisements on this site and other sites. The information they collect and share through this technology is not personally identifiable. 
+> 
+>   * Google, as a third party vendor, uses cookies to serve ads on your site. 
+>   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+>   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+> 
+
 > 
 > We **DO NOT** Share Personal Information with Third Parties]
 > 
