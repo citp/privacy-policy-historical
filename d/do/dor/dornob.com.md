@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dornob.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617204719id_/http%3A//dornob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dornob.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217045207id_/http%3A//dornob.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Protections for Dornob Visitors « Dornob
+# Privacy Policy | Protections for Dornob Visitors | Designs & Ideas on Dornob
 
 Privacy Policy | Protections for Dornob Visitors
 
@@ -10,7 +10,7 @@ The privacy of visitors to dornob.com is important to us. We collect information
 
 **Personal Information:** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Cookies:** This website uses Cookies. These are files that a site or its service provider transfers to your computers hard drive through your web browser which, if you allow them, enable the sites or service provider systems to recognize your browser to capture and remember certain information. We use cookies to keep track of advertisements displayed to visitors. To learn more or for opt-out options, visitÂ [Network Advertising dot org](http://www.networkadvertising.org/managing/opt_out.asp)
+**Cookies:** This website uses Cookies. These are files that a site or its service provider transfers to your computers hard drive through your web browser which, if you allow them, enable the sites or service provider systems to recognize your browser to capture and remember certain information. We use cookies to keep track of advertisements displayed to visitors. To learn more or for opt-out options, visit [Network Advertising dot org](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Google:** Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Other third-party vendors use cookies as well.
 
