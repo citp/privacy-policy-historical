@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the juno.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202818id_/http%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.co.uk privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217160645id_/http%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Help » Privacy Policy
 
 **Our policy**  
-Juno Records takes the privacy of its customers very seriously, and will only collect information in order to fulfill customer orders and (if requested by the customer) to provide information via our e-mail new release lists. We never send unsolicited e-mails to customers, and we do not sell mailing lists or customer information to any other companies or individuals. 
+Juno Records takes the privacy of its customers very seriously, and will only collect information in order to fulfill customer orders and (if requested by the customer) to provide information via our e-mail new release lists. We do not sell or share mailing lists or customer information with any other companies or individuals. 
 
 **Information collected**  
 To process an order, we require your name, e-mail address, delivery address, credit card number and expiry date. To receive our new release information e-mails, we require only your e-mail address. 
