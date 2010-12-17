@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220160222id_/http%3A//masterresellrights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217164632id_/http%3A//masterresellrights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
