@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the bloggista.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213123207id_/http%3A//bloggista.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggista.net privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217084534id_/http%3A//bloggista.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bloggista.net
+# Bloggista.net Privacy Policy | Bloggista.net Social Blogs
 
-**Scope.** This Privacy Policy covers all Bloggista.net network of websites and blogs, including its subdomains and partner sites.
+Bloggista.net has to serve ads from third party networks like Google, AdBrite, BidVertiser, Infolinks, Chitika and other reputable companies in order to finance some aspects of its operations. These advertisements labeled either as _Sponsored Links, Ads, Advertisements_ are displayed throughout the site where they are strategically placed, and are governed by the following **Privacy Policy**.
 
-This Privacy Policy is effective starting 14-April-2008. Any revision will be covered by a Version revision number. **Purpose.**
+**Scope.**
+
+This Privacy Policy covers all Bloggista.net network of websites and blogs, including its subdomains and partner sites.
+
+This Privacy Policy is effective starting 14-April-2008. Any revision will be covered by a Version revision number. ****
+
+**Purpose.**
 
 The Privacy Policy is meant to inform all visitors of this blog regarding how information (personal information, that is) are collected, in what form, and the types of information collected.
 
@@ -32,6 +38,7 @@ Names (real names, nicknames, user names, alias) may be collected, including the
   2. Subscription to this blog’s RSS Feeds.
   3. Subscribing to this blog’s contests from time to time.
   4. Application for a free blog.
+  5. Participating in the social network activities of the site, like posting comments and replies on member profile walls, participating in Groups and Forums, etc.
 
 
 
@@ -49,11 +56,11 @@ Emails and names collected are used for the purpose of identifying this site’s
 
 **Privacy Commitment.**
 
-It is [Bloggista.net](http://bloggista.net/about/privacy-policy/ "Bloggista.net Privacy Policy")’s commitment and assurance that any vital personal information given by its visitors will be treated with utmost confidentiality and will be strictly kept private. Should a visitor feel that his/her privacy has been violated by any of this site’s contents and links, he/she can contact the [Bloggista.net Site Admin](http://bloggista.net/about/ "Contact Bloggista.net").
+It is [Bloggista.net](http://bloggista.net/about/privacy-policy/ "Bloggista.net Privacy Policy")‘s commitment and assurance that any vital personal information given by its visitors will be treated with utmost confidentiality and will be strictly kept private. Should a visitor feel that his/her privacy has been violated by any of this site’s contents and links, he/she can contact the [Bloggista.net Site Admin](http://bloggista.net/about/ "Contact Bloggista.net").
 
 **Revisions and Updates.**
 
 This Privacy Policy may be revised or updated to better serve the visitor’s interest on keeping personal information safe. All revisions and/or updates will be covered by tracking revision numbers.
 
-_Current Privacy Policy Version – BLOGGISTA PP Ver. 1 rev. 1. Effective since 14-April-2008. Last revision on 22-August-2009.  
+_Current Privacy Policy Version – BLOGGISTA PP Ver. 1 rev. 2. Effective since 14-April-2008. Last revision on 17-May-2010.  
 _
