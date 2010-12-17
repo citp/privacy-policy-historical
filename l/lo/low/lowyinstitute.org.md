@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510135633id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217141800id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Lowy Institute for International Policy
 
@@ -37,7 +37,7 @@ This web site will be continually improved and updated. This may change the way 
 
 [](http://www.pacificfriendsglobalfund.org/ "Pacific Friends of the Global Fund")
 
-[](https://wic006v.server-secure.com/vs153842_secure/LowySubscriptions/WLLC_Subscription.asp "Wednesday Lowy Lunch Club")
+[](https://wic027v.server-secure.com/vs153842_secure/LowySubscriptions/WLLC_Subscription.asp "Wednesday Lowy Lunch Club")
 
 | [](https://web.archive.org/RSSFeeds.asp "Recent Publications RSS Feed")  
 ---  
