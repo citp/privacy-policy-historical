@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexclub.biz privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523193812id_/http%3A//www.forexclub.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexclub.biz privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217131928id_/http%3A//www.forexclub.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
