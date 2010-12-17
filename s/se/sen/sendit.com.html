@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the sendit.com privacy policy that was archived on 2010-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100411082031id_/http%3A//www.sendit.com/privacy-policy.info) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sendit.com privacy policy that was archived on 2010-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217042814id_/http%3A//www.sendit.com/privacy-policy.info) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
 
 
-<!-- Webserver =  || www.sendit.com || 192.168.10.242 -->
+<!-- Webserver =  || www.sendit.com || 192.168.10.51 -->
 
 
 
@@ -169,6 +169,12 @@
 	
 	
 	
+	
+	
+	
+	
+	
+    
     
     
     
@@ -249,10 +255,14 @@
 <link rel="stylesheet" href="/common/css/common.css?v=3" type="text/css" media="screen">
 
 
+	
+	
+		
 
 
 
-<link rel="stylesheet" href="css/screen.css?v=10" type="text/css" media="screen">
+
+<link rel="stylesheet" href="css/screen.css?v=10.2" type="text/css" media="screen">
 
 
 	
@@ -261,16 +271,14 @@
 	<style type="text/css">
 		.controls #pause {background: url('images/slideshow/slideshow-controls-ie6.png') top left no-repeat;}
 		.controls #play {background: url('images/slideshow/slideshow-controls-ie6.png') top right no-repeat;}
-		#middle-rail #slides-nav {background: url('images/slideshow/slideshow-todaysoffers-ie6.png') center left no-repeat;}
+		#middle-rail #slides-nav {background: url('images/slideshow/slideshow-todaysoffers-ie6-v2.png') center left no-repeat;}
 		#slides-nav li a {background: url('images/slideshow/slideshow-paging-numbers-ie6.png') no-repeat;}
 		.ui-tabs-nav a, .ui-tabs-nav a span {background: url(images/ie6-tabs.png) no-repeat;}
 	</style>
 	<![endif]-->
+	
 
 
-
-
-<link rel="stylesheet" href="css/print.css?v=1" type="text/css" media="print">
 
 
 
@@ -287,27 +295,65 @@
 
 
 
-
 <script type="text/javascript">
-	var showExtras = false, showFlashBanner = false;
-	var strTrailerWidth = '400';
+	document.getElementsByTagName('html')[0].className = 'js';
+
+	var siteObj = {
+			siteCode: 'sendit',
+			siteNonSecureURL: 'http://www.sendit.com/',
+			siteSecureURL: 'https://www.sendit.com/sendit',
+			siteBasketURL: 'https://www.sendit.com/sendit/my.basket',
+			siteID: 16,
+			siteDefaultLocale: 'en_GB',
+			dept: '',
+			
+			showVP: false,
+			props: {
+				product: {
+					viewLargerImageLinkText: "View Larger Image",
+					imagePopup: {
+						zoomInText: "Zoom in",
+						zoomOutText: "Zoom out"
+					},
+					reviews: {
+						containsAverageRatingCheckText: "Average Rating"
+					}
+				},
+				account: {
+					ajaxFAQs: {
+						notFoundTheAnswerText: "Not found the answer you're looking for?"
+					}
+				}
+			}
+		},
+		showExtras = false,
+		showFlashBanner = false,
+		strTrailerWidth = '400',
+		flashBannerSets = [],
+		flashBannerIds = [],
+		flashBannerHeights = [],
+		flashBannerWidths = [],
+		flashBannerSwfs = [],
+		flashBannerLinks = [],
+		shopSifr = false;
 	
-	var flashBannerSets = [];
-	var flashBannerIds = [];
-	var flashBannerHeights = [];
-	var flashBannerWidths = [];
-	var flashBannerSwfs = [];
-	var flashBannerLinks = [];	
-	var shopSifr = false;
 	
-	var siteObj = new Object();
-	siteObj.siteCode = 'sendit';
-	siteObj.siteNonSecureURL = 'http://www.sendit.com/';
-	siteObj.siteSecureURL = 'https://www.sendit.com/sendit';
-	siteObj.siteBasketURL = 'https://www.sendit.com/sendit/my.basket';
-	siteObj.siteID = 16;
 		
+			siteObj.affiliate = '';
+		
+		
+	
+	
 </script>
+	
+
+	
+	
+	
+	
+
+
+
 
 
 
@@ -348,9 +394,12 @@
         
         <img src="images/header-sendit-logo.gif" width="219" height="66" alt="Sendit.com" title="Sendit.com">
     </div>
-    <div id="takeover-promo">
-        <a href="http://www.sendit.com/games/inspiration/splinter-cell-conviction.list " rel="sendit-takeover-promo-header-1"><img src="http://thehut.pantherssl.com/banners/20100331-S-NR-splintercell-strip-v2.jpg" border="0" height="100" width="440" alt="Splinter Cell" class="bannertrack"></a>
-    </div>    
+    
+		<div id="takeover-promo">
+	        <a href="http://www.sendit.com/games/inspiration/kinect.list" rel="sendit-takeover-promo-header-1"><img src="http://thehut.pantherssl.com/banners/20101210-S-NR-Kinect-strip-v3.jpg" border="0" height="100" width="440" alt="Kinect for Xbox 360" class="bannertrack"></a>
+	    </div>
+   	
+
 	<div id="utilities" class="cf">
     
         <div id="user-options">
@@ -387,7 +436,6 @@
 					
 						
 						
-						                        
 						
 						
 						
@@ -395,22 +443,14 @@
 						
 						
                         
-                        
-                        
-                                                
-                        
-                        
-                        
-                        
-                        
-                            
-                        
-                              
-                        
-                        
-                                          
-                        
 						
+						   
+						
+						
+                        
+
+						
+
 						
 							<li>
 								<a accesskey="1" class="home" href="home.dept" title="Go to the Sendit.com homepage">Home</a>
@@ -418,12 +458,12 @@
 							</li>
                             
                             <li>
-								<a accesskey="3" class="blu-ray" href="blu-ray.dept" title="Go to the Blu-ray page">Blu-ray</a>
+								<a accesskey="2" class="blu-ray" href="blu-ray.dept" title="Go to the Blu-ray page">Blu-ray</a>
 								
 							</li>
                             
 							<li>
-								<a accesskey="2" class="dvds" href="dvd.dept" title="Go to the DVDs page">DVDs</a>
+								<a accesskey="3" class="dvds" href="dvd.dept" title="Go to the DVDs page">DVDs</a>
 								
                             
 							</li><li>
@@ -458,25 +498,24 @@
 								<a accesskey="10" class="clothing" href="clothing.dept" title="Go to the Clothing page">Clothing</a>
 								
 							</li>
-							
 							<li>
-								<a accesskey="12" class="gifts" href="gifts.dept" title="Go to the Gifts page">Gifts</a>
+								<a accesskey="11" class="toys" href="toys.dept" title="Go to the Toys page">Toys</a>
 								
-							</li>                        
-							
+							</li>							
+							<li>
+								<a accesskey="12" class="outlet" href="shops/outlet.list" title="Go to the Sendit Outlet page">Sendit Outlet</a>
+								
+							</li>
+							<li>
+								<a accesskey="13" class="gifts" href="gifts.dept" title="Go to the Gifts page">Gifts</a>
+								
+							</li>							
 						
 					
 				</ul>
-                
-                
-				<!--<ul id="nav-right">
-					<li class="my-shop"><a title="Log In to your Account" href="accountHome.secure" class="myshop">My Shop</a></li>
-					<li class="mycheckout"><a title="Go to Checkout" href="https://www.sendit.com/sendit/my.basket" class="checkout">Checkout</a></li>
-					<li class="help"><a id="help" title="Help and FAQs" href="http://www.sendit.com/help.info" class="helpcursor">Help</a></li>
-				</ul>-->
-                
-                
-                
+
+				
+
 			</div>
 		</div>
 	</div>
@@ -492,7 +531,12 @@
 	
 		<fieldset>
 			<legend>Search Sendit.com</legend>
-			<label for="search-text"><span>Search:</span></label>
+			<label for="search-text"><span>
+				
+					
+					Search:
+				
+			</span></label>
 			
 				
 				
@@ -540,11 +584,10 @@
         
       
     
-    
-    
-    
-    
-    
+
+	<div class="service-message">
+		<!--No Banners for sendit-service-message-->
+	</div>
 </div>
 
 	
@@ -587,7 +630,10 @@
   
   
   
+
   
+
+ 
   
 
   
@@ -600,6 +646,10 @@
   
   
         
+		
+			
+		
+  
   
   
   
@@ -626,9 +676,6 @@
   
   
 
-  
-
-  
   
   
   
@@ -637,16 +684,14 @@
 
 
   
-  
+	
 
 
   
   
-
-
 
  
-  
+
 
   
   
@@ -678,6 +723,19 @@
 			
 			
 			
+						
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 			
@@ -693,10 +751,7 @@
 			
 			
             
-            
-			
-			
-			            
+                        
 			
 			
 			
@@ -704,9 +759,7 @@
             
 		    
             
-            
-            
-		
+            		
 			
 			
 			
@@ -786,6 +839,7 @@
 			
 			
 			
+            
             
             
             
@@ -871,7 +925,8 @@
 				
 			
 					
-
+			
+			
 			
 			
 			
@@ -1004,13 +1059,18 @@
       
       
       
+            
       
       
       
       
       
       
+	  
+	   
       
+
+
       
 
 
@@ -1044,6 +1104,7 @@
 
 <div id="footer">
   <div id="footer-top">
+			
   	<div id="left">
     	<ul>
     		<li><a accesskey="1" class="home-on" href="home.dept" title="Home">Home</a></li>
@@ -1057,7 +1118,8 @@
 			<li><a accesskey="9" class="health-beauty" href="health-beauty.dept" title="Health &amp; Beauty">Health &amp; Beauty</a></li>
 			<li><a accesskey="10" class="clothing" href="clothing.dept" title="Clothing">Clothing</a></li>
             <li><a accesskey="11" class="sports" href="sports.dept" title="Sports">Sports</a></li>
-            <li class="last"><a accesskey="11" class="gifts" href="gifts.dept" title="Gifts">Gifts</a></li>
+            <li class="last"><a accesskey="12" class="gifts" href="gifts.dept" title="Gifts">Gifts</a></li>
+			
     	</ul>
     </div>
     <div id="right">
@@ -1081,7 +1143,7 @@
     	<li><a href="blu-ray/best-selling.list" title="Best Selling Blu-rays">Best Selling</a></li>
         <li><a href="blu-ray/coming-soon.list" title="Coming Soon Blu-rays">Coming Soon</a></li>
         <li><a href="blu-ray/latest-releases.list" title="Blu-ray Latest Releases">Latest Releases</a></li>
-		<li><a href="offers/blu-ray.dept" title="Blu-ray Offers">Offers</a></li>	        	
+		<li><a href="blu-ray/offers.list" title="Blu-ray Offers">Offers</a></li>	        	
      </ul>    
      
      <ul>
@@ -1127,33 +1189,28 @@
 	 
 	 <ul class="wide">
 	 	<li class="first"><a href="health-beauty.dept" title="Go to the Sendit.com Health &amp; Beauty Department">Health &amp; Beauty</a></li>
-		<li><a href="perfume/aftershave.list" title="Aftershave">Aftershave</a></li>
-		<li><a href="perfume/best-selling-perfume.list" title="Best Selling Perfume">Best Selling</a></li>
-		<li><a href="perfume/brands.list" title="Brands">Brands</a></li>
-		<li><a href="perfume/cosmetics.list" title="Cosmetics">Cosmetics</a></li>
-		<li><a href="perfume/perfume.list" title="Perfume">Perfume</a></li>
-		<li><a href="perfume/perfume-deals-of-the-week.list" title="Perfume Deals of the Week">Weekly Deals</a></li>
-		<li><a href="perfume/suncream.list" title="Suncream">Suncream</a></li>
-        
+		<li><a href="health-beauty/aftershave.list" title="Aftershave">Aftershave</a></li>
+		<li><a href="health-beauty/brands.list" title="Brands">Brands</a></li>
+		<li><a href="health-beauty/cosmetics.list" title="Cosmetics">Cosmetics</a></li>
+		<li><a href="health-beauty/perfume.list" title="Perfume">Perfume</a></li>
+		<li><a href="health-beauty/suncream.list" title="Suncream">Suncream</a></li>        
 	 </ul>
 	 
 	 <ul>
 	 	<li class="first"><a href="clothing.dept" title="Go to the Sendit.com Clothing Department">Clothing</a></li>
-		<li><a href="lingerie/best-selling-lingerie.list" title="Best Selling Lingerie">Best Selling</a></li>
-		<li><a href="lingerie/brands.list" title="Brands">Brands</a></li>
-		<li><a href="lingerie/bras.list" title="Bras">Bras</a></li>
-		<li><a href="lingerie/control-wear.list" title="Control Wear">Control Wear</a></li>
-		<li><a href="lingerie/knickers.list" title="Knickers">Knickers</a></li>
-		<li><a href="lingerie/lingerie-deals-of-the-week.list" title="Lingerie Deals of the Week">Weekly Deals</a></li>
-		<li><a href="lingerie/lingerie-offers.list" title="Lingerie Offers">Offers</a></li>
-		<li><a href="lingerie/maternity.list" title="Maternity">Maternity</a></li>
-		<li><a href="lingerie/mens-underwear.list" title="Mens Underwear">Mens Underwear</a></li>
-		<li><a href="lingerie/party-solutions.list" title="Party Solutions">Party Solutions</a></li>
-		<li><a href="lingerie/swimwear.list" title="Swimwear">Swimwear</a></li>
-		<li><a href="lingerie/underwear.list" title="Underwear">Underwear</a></li>
+		<li><a href="clothing/men/clothing/best-selling.list" title="Best Selling Lingerie">Men Best Selling</a></li>
+		<li><a href="clothing/women/clothing/best-selling.list" title="Best Selling Lingerie">Women Best Selling</a></li>
+		<li><a href="clothing/women/lingerie/offers.list" title="Lingerie Deals of the Week">Lingerie Weekly Deals</a></li>
+		<li><a href="clothing/women/lingerie/product-types/briefs.list" title="Knickers">Knickers</a></li> 
+		<li><a href="clothing/men/underwear.list" title="Mens Underwear">Mens Underwear</a></li>
+		<li><a href="clothing/men/underwear/product-types/swimwear.list" title="Swimwear">Men Swimwear</a></li>
+		<li><a href="clothing/women/lingerie/product-types/swimwear.list" title="Swimwear">Women Swimwear</a></li>
+		<li><a href="clothing/women/lingerie/product-types/bras.list" title="Bras">Bras</a></li> 
+		<li><a href="clothing/offers.list" title="Offers">Offers</a></li>
 	 </ul>    
 	 
      </div>
+	
      <div class="banner">
 	 	
 			
@@ -1183,14 +1240,9 @@
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-5.min.js"></script>
+<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-9.min.js"></script>
 
-
-	
-	
-		<script type="text/javascript" src="/common/scripts/common.js?v=5"></script>
-	
-
+<script type="text/javascript" src="/common/scripts/common.js?v=6.4"></script>
 
 
 
@@ -1201,40 +1253,95 @@
 	
 	
 	
+	
+  	
+
+	
+
+	
+	
+	
+	
+	
+	
+    
+   
+	
+    
+     
+    
+	
+    
+	
+	
+	
+    
+	
+    
+	
+    
+	
+    
+		
+    
+    
+    
+	
+    
+    
+	
+	
+    
+    
+    
+    
+    
+    
+    
+	
+    
 	
 		
-	    
-    
-    
-	
-    
-	
-    
-    
-    
-    
-	
-	
-		
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.mtabs.1.2.3.4.min.js"></script>
+		<script type="text/javascript" src="/common/scripts/plugins/jquery.mtabs.1.2.4.min.js"></script>
 		<script type="text/javascript" src="/common/scripts/plugins/jquery.cycle.all.min.js"></script>
 		<script type="text/javascript" src="scripts/sendit.js?v=2"></script>
 	
+    
 	
     
     
     
+    
+    
+    
+    
+    
+	
+	
 		
+    
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 
 
 
-	<script type="text/javascript" src="/dwr/interface/BasketAjaxInterface.js"></script>		
+	
+		
+			<script type="text/javascript" src="/dwr/interface/BasketAjaxInterface.js"></script>		
+		
+		
+		
+	<script type="text/javascript" src="/dwr/interface/AjaxInterface.js"></script>
+	<script type="text/javascript" src="/dwr/engine.js"></script>
 
-
-<script type="text/javascript" src="/dwr/interface/AjaxInterface.js"></script>
-<script type="text/javascript" src="/dwr/engine.js"></script>
 
 
 
@@ -1248,9 +1355,14 @@
 
 
 	
+
 	
 	
 	
+	
+	
+	
+
 
 
 
@@ -1272,6 +1384,7 @@
 			<script type="text/javascript">
 				var pageTracker = _gat._getTracker("UA-59323-24");
 				pageTracker._initData();				
+				
 				
 				
 				
@@ -1308,43 +1421,18 @@
 
 
 
-	<!-- Begin comScore Tag -->
-	<script type="text/javascript">
-		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-	</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-	
-	<script type="text/javascript">
-	  COMSCORE.beacon({
-		c1:2,
-		c2:6999415,
-		c3:"",
-		c4:"",
-		c5:"",
-		c6:"",
-		c15:""
-	  });
-	</script>
-	<noscript>
-	  <img src="//b.scorecardresearch.com/p?c1=2&c2=6999415&c3=&c4=&c5=&c6=&c15=&cj=1" />
-	</noscript>
-	<!-- End comScore Tag -->
-
-   
-	
-	
 
 
 
 
-
-
-
-
-			
 	
 	
 	
-	
+
+
+
+
+
 
 
 
@@ -1357,9 +1445,29 @@
 	
 	
 	
+
+
+
+
+
+
+
+
 	
 	
-		
+	
+	
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1379,6 +1487,11 @@
 	
 
 
+
+
+
+
+<!-- 0101010001101000011001010111001001100101001000000110100101110011001000000110111001101111001000000111001101110000011011110110111101101110 -->
 
 
 
