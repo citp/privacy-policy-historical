@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookstrand.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617230436id_/https%3A//www.bookstrand.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookstrand.com privacy policy that was archived on 2010-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217201452id_/https%3A//www.bookstrand.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -39,7 +39,7 @@
 <script type="text/javascript" src="/sites/all/modules/jquery_update/compat.js"></script>
 <script type="text/javascript" src="/sites/all/modules/thickbox/thickbox.js"></script>
 <script type="text/javascript" src="/misc/autocomplete.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "cron": { "basePath": "/poormanscron", "runNext": 1276835401 }, "base_path": "/", "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } } });</script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "cron": { "basePath": "/poormanscron", "runNext": 1292635801 }, "base_path": "/", "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } } });</script>
 <script type="text/javascript">
   var GB_SITEPATH = '/modules/greybox';
   var GB_ANIMATION = 0;
@@ -75,6 +75,7 @@
 <ul class="menu">
 <li class="leaf"><a href="/user" title="Login to Your Account">Login</a></li>
 <li class="leaf"><a href="/wishlist" title="See Your Current Wishlist">My Wishlist</a></li>
+<li class="leaf"><a href="http://www.myearnestreviews.com" title="My Earnest Reviews">My Earnest Reviews</a></li>
 <li class="leaf"><a href="/help" title="Need help?  Just ask.">Help</a></li>
 <li class="leaf"><a href="/contact" title="Contact BookStrand">Contact Us</a></li>
 <li class="leaf"><a href="/cart" title="View Your Current Cart">View Cart</a></li>
@@ -89,6 +90,8 @@
 <li class="leaf"><a href="/mainstream-romance-bestsellers" title="See Our Mainstream Bestsellers!">Mainstream Bestsellers</a></li>
 <li class="leaf"><a href="/newarrivals" title="See the Latest Books We Have to Offer!">New Arrivals</a></li>
 <li class="leaf"><a href="/coming-soon" title="See Our New and Exciting Upcoming Releases!">Coming Soon</a></li>
+<li class="leaf"><a href="/free-reads">Free Reads</a></li>
+<li class="leaf"><a href="http://www.strandpub.com" title="Visit Strand Pub">Visit Strand Pub</a></li>
 
 </ul>
 </div>
@@ -102,24 +105,61 @@
     <td class="leftNavCol">
     	<div id="sidebar-left">
           
-  <div class="block block-search" id="block-search-0">
+  <div class="block block-block" id="block-block-15">
     <h2 class="title"></h2>
-    <div class="content"><form action="/privacy/" accept-charset="UTF-8" method="post" id="search-block-form">
-<div><div class="block block-views_filterblock" id="block-views_filterblock-0"><div class="content">
-
-<div id="searchdiv">
-<label for="filter0">Find <strong>ebooks</strong> by Title, Author, Publisher, or Keyword</label><br><br>
-<!--<input type="text" size="15" maxlength="128" name="search_block_form_keys" id="edit-search_block_form_keys"  value="" title="Enter the terms you wish to search for." class="searchTextInput" />-->
-<div class="form-item" id="edit-search-block-form-keys-wrapper">
- <input type="text" maxlength="128" name="search_block_form_keys" id="edit-search-block-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text form-autocomplete" autocomplete="OFF">
+    <div class="content">	<div class="block block-views_filterblock" id="block-views_filterblock-0"><div class="content">
+	<div id="searchdiv">
+	<label for="search_select"><strong>Search by:</strong><br></label>
+	<form action="/privacy/" accept-charset="UTF-8" method="post" id="bookstrand-custom-search-form">
+<div><div class="form-item" id="edit-search-select-wrapper">
+ <select name="search_select" class="form-select" id="edit-search-select"><option value="title">Title</option><option value="author">Author</option><option value="publisher">Publisher</option></select>
 </div>
-<input class="autocomplete" type="hidden" id="edit-search-block-form-keys-autocomplete" value="http://www.bookstrand.com/search_autocomplete" disabled="disabled"><input type="submit" name="op" value="Go">
-<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
-<input type="hidden" name="form_token" id="a-unique-id" value="c37924110772128cd3a25a7c26e0c4d2"></div>
-</div></div>
+<div class="form-item" id="edit-title-search-wrapper">
+ <input type="text" maxlength="128" name="title_search" id="edit-title-search" size="20" value="" class="form-text form-autocomplete" autocomplete="OFF">
+</div>
+<input class="autocomplete" type="hidden" id="edit-title-search-autocomplete" value="http://www.bookstrand.com/custom_search/title" disabled="disabled"><div class="form-item" id="edit-author-search-wrapper">
+ <input type="text" maxlength="128" name="author_search" id="edit-author-search" size="20" value="" style="display:none" class="form-text form-autocomplete" autocomplete="OFF">
+</div>
+<input class="autocomplete" type="hidden" id="edit-author-search-autocomplete" value="http://www.bookstrand.com/custom_search/author" disabled="disabled"><div class="form-item" id="edit-publisher-search-wrapper">
+ <input type="text" maxlength="128" name="publisher_search" id="edit-publisher-search" size="20" value="" style="display:none" class="form-text form-autocomplete" autocomplete="OFF">
+</div>
+<input class="autocomplete" type="hidden" id="edit-publisher-search-autocomplete" value="http://www.bookstrand.com/custom_search/publisher" disabled="disabled"><input type="submit" name="op" id="edit-search" value="Search" class="form-submit">
+<input type="hidden" name="form_id" id="edit-bookstrand-custom-search-form" value="bookstrand_custom_search_form">
 
 </div></form>
-</div>
+	</div>
+	</div>
+	</div>
+  
+
+	<script type="text/javascript">
+	$(document).ready(function(){
+		//$("#edit-title-search").autocomplete("/custom_search/title");
+});	
+		
+		$('#edit-search-select').change(function() {
+			var selection = $('#edit-search-select').val();
+  			if(selection == "publisher")
+			{
+				$('#edit-title-search').hide();
+				$('#edit-author-search').hide();
+				$('#edit-publisher-search').show();
+			}
+			if(selection == "title")
+			{
+				$('#edit-publisher-search').hide();
+				$('#edit-author-search').hide();
+				$('#edit-title-search').show();
+			}
+			if(selection == "author")
+			{
+				$('#edit-publisher-search').hide();
+				$('#edit-title-search').hide();
+				$('#edit-author-search').show();
+			}
+		});
+	</script>
+	</div>
  </div>
 	    
   <div class="block block-uc_catalog" id="block-uc_catalog-0">
@@ -276,7 +316,7 @@
     <div class="content"><img src="/images/bestsellers.gif" alt="Best Sellers" class="topCatImg">
 Past 14 days<br>
 Updated hourly
-<ol><li><a class="nobold" href="/dark-desire">Dark Desire</a><br> by Leah Brooke</li><li><a class="nobold" href="/caught-by-the-master">Caught by the Master</a><br> by Cooper McKenzie</li><li><a class="nobold" href="/mating-games">Mating Games</a><br> by Stormy Glenn, Joyee Flynn</li><li><a class="nobold" href="/sunset-hearts">Sunset Hearts</a><br> by Macy Largo</li><li><a class="nobold" href="/the-cowboys-ride-again">The Cowboys Ride Again</a><br> by Sofia Hunt</li><li><a class="nobold" href="/saving-grace">Saving Grace</a><br> by Stacey Espino</li><li><a class="nobold" href="/anna-rides-the-desperados">Anna Rides the Desperados</a><br> by Christine Michaels</li><li><a class="nobold" href="/his-subs-submissive">His Sub's Submissive</a><br> by Cooper McKenzie</li><li><a class="nobold" href="/kansas-heat">Kansas Heat</a><br> by Jenny Penn</li><li><a class="nobold" href="/haileys-game">Hailey's Game</a><br> by Jenny Penn</li><li><a class="nobold" href="/male-me">Male Me</a><br> by Amarinda Jones</li><li><a class="nobold" href="/chameleon-wolf">Chameleon Wolf</a><br> by Stormy Glenn, Joyee Flynn</li><li><a class="nobold" href="/the-billionaires-mate">The Billionaire's Mate</a><br> by Cooper McKenzie</li><li><a class="nobold" href="/her-mates">Her Mates</a><br> by Suzanne Thomas</li><li><a class="nobold" href="/sudden-devotion">Sudden Devotion</a><br> by Nicole Morgan</li><li><a class="nobold" href="/eris">Eris</a><br> by D. Renee Bagby</li><li><a class="nobold" href="/hanging-on">Hanging On</a><br> by Michele Zurlo</li><li><a class="nobold" href="/the-stagers">The Stagers</a><br> by Louisa Neil</li><li><a class="nobold" href="/stake-his-claim">Stake His Claim</a><br> by Lisa Perry</li><li><a class="nobold" href="/salsa-nights">Salsa Nights</a><br> by Chalee Mar</li></ol><ul class="menu"><li><a href="/bestsellers"><b>See All Bestsellers</b></a></li><li><a href="/mainstream-romance-bestsellers"><b>See Mainstream Bestsellers</b></a></li></ul></div>
+<ol><li><a class="nobold" href="/alpha-born">Alpha Born</a><br> by Stormy Glenn</li><li><a class="nobold" href="/a-dillon-sandwich">A Dillon Sandwich</a><br> by Joyee Flynn</li><li><a class="nobold" href="/cowboy-domination">Cowboy Domination</a><br> by Stacey Espino</li><li><a class="nobold" href="/love-under-two-wildcatters">Love Under Two Wildcatters</a><br> by Cara Covington</li><li><a class="nobold" href="/her-gentle-giant-part-1">Her Gentle Giant, Part 1: No Regrets</a><br> by Heather Rainier</li><li><a class="nobold" href="/for-the-love-of-anna">For the Love of Anna</a><br> by Dixie Lynn Dwyer</li><li><a class="nobold" href="/snowbound-holiday">Snowbound Holiday</a><br> by Eden Cole</li><li><a class="nobold" href="/two-masters-for-samantha">Two Masters for Samantha</a><br> by Michele Zurlo</li><li><a class="nobold" href="/secret-cravings">Secret Cravings</a><br> by Kris Cook</li><li><a class="nobold" href="/the-cats-meow">The Cat's Meow</a><br> by Stormy Glenn</li><li><a class="nobold" href="/overheated">Overheated</a><br> by Laina Kenney</li><li><a class="nobold" href="/rachels-seduction">Rachel's Seduction</a><br> by Jenny Penn</li><li><a class="nobold" href="/in-debt-to-the-dom">In Debt to the Dom</a><br> by Jan Bowles</li><li><a class="nobold" href="/away-from-me">Away From Me</a><br> by Sophie Oak</li><li><a class="nobold" href="/destinies-in-darkness-part-1">Destinies in Darkness, Part 1</a><br> by Scarlet Hyacinth</li><li><a class="nobold" href="/divine-grace">Divine Grace</a><br> by Heather Rainier</li><li><a class="nobold" href="/corralling-the-stones-part-1-the-chase">Corralling the Stones, Part 1: The Chase</a><br> by Ava Mitchell, Sydney Holiday</li><li><a class="nobold" href="/heart-song">Heart Song</a><br> by Stormy Glenn</li><li><a class="nobold" href="/stefan">Stefan</a><br> by Joyee Flynn</li><li><a class="nobold" href="/untamed-desire">Untamed Desire</a><br> by Lana Dare, Leah Brooke</li></ol><ul class="menu"><li><a href="/bestsellers"><b>See All Bestsellers</b></a></li><li><a href="/mainstream-romance-bestsellers"><b>See Mainstream Bestsellers</b></a></li></ul></div>
  </div>
 	    
   <div class="block block-block" id="block-block-2">
@@ -334,16 +374,91 @@ Updated hourly
 
 <p align="center"><b><font size="2" color="#ff0000" face="Verdana">  			&nbsp;BOOKSTRAND<br>NEWEST RELEASES</font></b></p> 
 
-<p align="center"></p><p align="center"><a href="/can-you-trust-a-cowboy"><img src="/files/books/images/krb-cytac3.jpg" alt="Can You Trust a Cowboy?" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/can-you-trust-a-cowboy">Can You Trust a Cowboy?</a></strong><br> </font><em><font size="1"><a href="/k-r-bailey">K. R. Bailey</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
+<p align="center"></p><p align="center"><a href="/anastasia-and-the-cuban"><img src="/files/books/thumbs/jlz-aatc3.jpg" alt="Anastasia and the Cuban" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/anastasia-and-the-cuban">Anastasia and the Cuban</a></strong><br> </font><em><font size="1"><a href="/jennifer-lawson-zepeda">Jennifer Lawson-Zepeda</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
 
-<p align="center"></p><p align="center"><a href="/texas-lady"><img src="/files/books/images/ss-tl3.jpg" alt="Texas Lady" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/texas-lady">Texas Lady</a></strong><br> </font><em><font size="1"><a href="/sandy-sullivan">Sandy Sullivan</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
+<p align="center"></p><p align="center"><a href="/solo-honeymoon"><img src="/files/books/thumbs/jc-sh3.jpg" alt="Solo Honeymoon" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/solo-honeymoon">Solo Honeymoon</a></strong><br> </font><em><font size="1"><a href="/jillian-chantal">Jillian Chantal</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
 
-<p align="center"></p><p align="center"><a href="/betrayal-the-awakening"><img src="/files/books/images/as-bta3.jpg" alt="Betrayal: The Awakening" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/betrayal-the-awakening">Betrayal: The Awakening</a></strong><br> </font><em><font size="1"><a href="/angela-steed">Angela Steed</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
+<p align="center"></p><p align="center"><a href="/kiss-noir"><img src="/files/books/thumbs/rc-kn3.jpg" alt="Kiss Noir" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/kiss-noir">Kiss Noir</a></strong><br> </font><em><font size="1"><a href="/robynn-clairday">Robynn Clairday</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
 
-<p align="center"></p><p align="center"><a href="/un-sweet-dreams"><img src="/files/books/images/sw-ud3.jpg" alt="Un-Sweet Dreams" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/un-sweet-dreams">Un-Sweet Dreams</a></strong><br> </font><em><font size="1"><a href="/lashawna-wall">Shawn Wall</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
+<p align="center"></p><p align="center"><a href="/tomorrow-cries"><img src="/files/books/thumbs/dr-tc3.jpg" alt="Tomorrow Cries" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/tomorrow-cries">Tomorrow Cries</a></strong><br> </font><em><font size="1"><a href="/debora-ryan">Debora Ryan</a></font></em></font></p><p align="center"><font face="Verdana"><em><font size="1">&nbsp;</font></em></font></p><font face="Verdana"><em><font size="1">
 
 
-    </font></em></font></font></em></font></font></em></font></font></em></font></span></td>  		</tr>  		</tbody></table>  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</font></em></font></font></em></font></font></em></font></font></em></font></span><font face="Verdana"><em><font size="1"><font face="Verdana"><em><font size="1"><font face="Verdana"><em><font size="1">
+
+
+    </font></em></font></font></em></font></font></em></font></td>  		</tr>  		</tbody></table>  	
 <table style="border-collapse: collapse;" id="table113" bordercolorlight="#c0c0c0" bordercolordark="#c0c0c0" width="180" bgcolor="#ffffff" border="0" bordercolor="#000000" cellpadding="5">  		
 <tbody><tr>  			<td>  			
 		<p align="center">&nbsp;&nbsp; </p>
@@ -353,16 +468,7 @@ Updated hourly
 <td bgcolor="#FFFFCC">  			
 <span align="center">  			<p align="center"><b><font size="2" color="#ff0000" face="Verdana">RETRO RELEASE</font></b></p> 
 
-
-
-
-
-<p align="center">
-
-
-</p><p align="center"><a href="/cross-country-chaos"><img src="/files/books/images/lr-ccc3_2.jpg" alt="Cross Country Chaos" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/cross-country-chaos">Cross Country Chaos</a></strong><br> </font><em><font size="1"><a href="/lesli-richardson">Lesli Richardson</a>
-
-<br>
+<p align="center"><a href="/spanish-eyes"><img src="/files/books/thumbs/pc-se3.jpg" alt="Spanish Eyes" width="67"></a><br><font face="Verdana"><font size="1"><strong><a href="/spanish-eyes">Spanish Eyes</a></strong><br> </font><em><font size="1"><a href="/phyllis-campbell">Phyllis Campbell</a>
 <font size="1" face="Verdana">BookStrand Romance<br>
 
 
@@ -372,7 +478,53 @@ Updated hourly
 	</font></em></font></span></td>  		</tr>  		</tbody></table>  	
   		</span>
 
+	
+	<br>
+	<table width="179" cellpadding="5"><tbody><tr><td>
+	<p align="center">
+	<span align="center">
+	<font size="2" color="#ff0000" face="Verdana"><b>Latest Review<br> Posted at<br>MY EARNEST REVIEWS</b></font>	
+	<br><br>
+	<a href="/myearnestreview/show/?id=808912"><img align="center" src="/files/books/images/so-ttr3.jpg" height="150" width="100"></a>	</span>
+	</p>
+	</td></tr></tbody></table>
+	<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		<p align="center">&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <span align="center">
@@ -382,15 +534,25 @@ Updated hourly
 
 <span align="center">  			<p style="margin: 0px 0px 10px;" align="center"><b>  			
 <font size="4" color="#ff0000" face="Arial">  			<a href="/url_redirect/?url=d3d3LnNpcmVuYm9va3N0cmFuZC5jb20vY2FsZW5kYXIv">CALENDAR</a><br>  			</font>  			
-<font size="2" color="#ff0000" face="Arial">  			<a href="/url_redirect/?url=d3d3LnNpcmVuYm9va3N0cmFuZC5jb20vY2FsZW5kYXIv">Upcoming Releases</a></font></b></p></span></td>  		</tr>  		<tr>  			
+<font size="2" color="#ff0000" face="Arial">  			<a href="/url_redirect/?url=d3d3LnNpcmVuYm9va3N0cmFuZC5jb20vY2FsZW5kYXIv">Upcoming Releases</a></font></b></p></span></td>  		</tr>  		
+
+
+
+<tr>  			
 <td bgcolor="#FFFFFF" align="center">  			
 
-<span align="center">                                    <font size="2" face="Verdana">                                    <a href="/url_redirect/?url=dHdpdHRlci5jb20vc2lyZW5ib29rc3RyYW5k" target="twitter">                                      
-<img src="/sites/all/themes/bookstrand/images/twitter.jpg" alt="TWITTER: Follow Us" width="85" border="0" height="32"></a></font></span></td>  		</tr>  		<tr>  			
-<td bgcolor="#FFFFFF" align="center">  			
+<a target="twitter" href="http://www.facebook.com/siren.bookstrand">
+<img border="0" src="http://www.sirenpublishing.com/images/facebook_Logo.jpg" alt="Facebook" width="41" height="48"></a>&nbsp;<a target="twitter" href="http://twitter.com/sirenbookstrand"><img border="0" src="http://www.sirenpublishing.com/images/Twitter_Logo.jpg" alt="TWITTER: Follow Us" width="48" height="49"></a><a target="twitter" href="http://www.myspace.com/sirenbookstrand"><img border="0" src="http://www.sirenpublishing.com/images/myspace_Logo.jpg" alt="MySpace" width="49" height="51"></a>
+</td>  		</tr> 
 
-<a target="ms" href="/url_redirect/?url=d3d3Lm15c3BhY2UuY29tL3NpcmVuYm9va3N0cmFuZA%3D%3D">
-<img border="0" src="/sites/all/themes/bookstrand/images/myspace.jpg" width="91" height="39"></a></td>  		</tr>  		</tbody></table>  	
+
+
+
+
+
+
+
+ 		</tbody></table>  	
   </span></td>  		</tr>  	</tbody></table>  	
 
 
@@ -401,74 +563,142 @@ Updated hourly
 
 
 
+<p>
+<span align="center">                                    
+<a href="http://www.strandpub.com/">
+<img border="0" src="http://www.sirenbookstrand.com/images/strandpubsign150.jpg" alt="Strand Pub : Gather at our PUB 'round the clock! "></a>
+</span>
+</p>
 
-<p align="center"><a href="http://readers.sirenbookstrand.com/">
-<img border="0" src="http://www.sirenpublishing.com/images/summersizzlers.jpg" alt="Summer Sizzlers"></a><br></p><br>
 
 <hr size="1" color="#9136ad" noshade="noshade">
+
 <br>
-
-
-
-
-
 
 
 
  			<p align="center">  			<span style="color: rgb(0, 0, 102);" align="center">  			<a style="color: rgb(103, 40, 178); text-decoration: none;" target="_blank" href="/url_redirect/?url=cmVhZGVycy5zaXJlbmJvb2tzdHJhbmQuY29tLw%3D%3D">  			
 	<img style="border-width: 0px;" alt="Visit the Readers' Group" src="/sites/all/themes/bookstrand/images/readers.jpg" width="150" border="0" height="107"></a><br>  			&nbsp;&nbsp;&nbsp;  			<a style="color: rgb(103, 40, 178); text-decoration: none;" target="new" href="/url_redirect/?url=Z3JvdXBzLnlhaG9vLmNvbS9ncm91cC9TaXJlbkJvb2tTdHJhbmQvam9pbg%3D%3D">  			
 	<img style="border-width: 0px;" alt="Click here to join Siren-BookStrand readers' group" src="/sites/all/themes/bookstrand/images/b-join.gif" width="91" border="0" height="52"></a></span><br>  			&nbsp; </p>  			<hr size="1" color="#9136ad" noshade="noshade"></td>  		</tr>  		<tr>  			<td>  			<p align="center"><b><font size="2" color="#612998" face="Verdana">  			&nbsp;&nbsp;</font></b></p>  			<p align="center"><b><span style="font-style: italic;">  			<font size="1" color="#612998" face="Verdana">Articles &amp; Musings</font></span><font style="font-style: italic;" size="1" color="#612998" face="Verdana"><br>  			Siren-BookStrand Authors'<br>  			</font></b><span align="center"><font size="2" face="Verdana">  			<a target="blog" href="/url_redirect/?url=YmxvZy5zaXJlbmJvb2tzdHJhbmQuY29tLw%3D%3D">  			
-		<img alt="Visit our Blog at Blogspot" src="/sites/all/themes/bookstrand/images/blog-logo.jpg" width="165" border="0" height="120"></a></font></span></p>  			<p align="center">&nbsp;</p></td>  		</tr>  		<tr>  			<td>  			<div align="center">  				<table style="border-collapse: collapse;" id="table119" bordercolorlight="#c0c0c0" bordercolordark="#c0c0c0" border="1" cellpadding="5">  					<tbody><tr>  						<td>  						<p align="center"><b>  						<font size="1" color="#ff0000" face="Verdana">FREE READ!</font></b><font size="1" color="#ff0000" face="Verdana"><b><br>  						</b></font><span align="center">  						<font size="2" face="Verdana">  						
-		<a target="free" href="http://judahraine.blogspot.com">  						
-		<img alt="The Neverending Story" src="/sites/all/themes/bookstrand/images/free-tns.jpg" width="160" border="0" height="82"></a></font></span><br>  						<font size="1" color="#612998" face="Verdana">brought to   						you by the<b><br>  						</b></font><b>  						
-		<a target="free" href="http://judahraine.blogspot.com">  						<font size="1" color="#612998" face="Verdana">  						RomanticSynonymous</font></a></b><font size="1" color="#612998" face="Verdana"><b><br>  						</b>write team<b><br>  						&nbsp;</b></font></p></td>  					</tr>  				</tbody></table>  			</div>  			</td>  		</tr>  		<tr>  			<td><span align="center">  			<p align="center">&nbsp;&nbsp;</p>  			<p align="center"><b><font size="2" color="#ff0000" face="Verdana">  			AUTHOR CHAT DATES</font></b></p>
+		<img alt="Visit our Blog at Blogspot" src="/sites/all/themes/bookstrand/images/blog-logo.jpg" width="165" border="0" height="120"></a></font></span></p>  			<p align="center">&nbsp;</p></td>  		</tr>  		<tr>  			<td>  			<div align="center">  				
 
 
 
 
 
 
-<font face="Verdana"><span align="center">
-<p align="center"><b><font size="1">Wed. June 9<br>
-</font><span style="font-weight: 400;"><font size="1">
-<a target="_blank" href="http://groups.yahoo.com/group/manicreaders/">Manic 
-Readers</a><br>
-</font></span><font size="1"><span style="font-weight: 400;">2nd Wednesday 
-monthly</span></font></b></p>
-<p align="center"><b><font size="1">Sat. June 19<br>
-<span style="font-weight: 400;">
-<a target="_self" href="http://groups.yahoo.com/group/FallenAngelReviewChatters/">
-Fallen Angel</a><br>
-<a target="_self" href="http://groups.yahoo.com/group/FallenAngelReviewChatters/">
-Review Chatters</a></span></font></b><font size="1"><br>
-</font><b><font size="1"><span style="font-weight: 400;">3rd Saturday monthly</span></font></b></p>
-<p align="center"><b><font size="1">Wed. June 16<br>
-</font><span style="font-weight: 400;">
-<a target="_self" href="http://groups.yahoo.com/group/TalkingTwoLips/">
-<font size="1">Talking Two Lips</font></a></span><font size="1"><br>
-<span style="font-weight: 400;">3rd Wednesday monthly</span></font></b></p>
-<p align="center"><b><font size="1">Tue. June 22<br>
-</font><span style="font-weight: 400;"><font size="1">
-<a target="_blank" href="http://groups.yahoo.com/group/RoRRChatters/">Rites of 
-Romance</a><br>
-</font></span><font size="1"><span style="font-weight: 400;">4th Tuesday monthly</span></font></b></p>
-<p align="center"><b><font size="1">Wed. July 7 <br>
-</font><span style="font-weight: 400;">
-<a target="_blank" href="http://groups.yahoo.com/group/novelsisterhood/">
-<font size="1">Novel Sisterhood</font></a><font size="1"><br>
-1st Wednesday monthly</font></span></b></p>
-</span></font>
 
-
-
-
-                                  
+ 			</div>  			</td>  		</tr>  		
 
 
 
 
 
 
+
+
+<tr>  			<td>	
+
+
+<span align="center">
+<table style="border-collapse: collapse;" id="table123" bordercolorlight="#c0c0c0" bordercolordark="#c0c0c0" width="179" border="1" bordercolor="#000000" cellpadding="5" cellspacing="0">  		
+<tbody><tr>  			
+<td>  			
+
+
+<span align="center">  			
+
+<p align="center"><b><font size="2" color="#ff0000" face="Verdana">FREE E-BOOK<br>DOWNLOAD!</font></b></p> 
+
+
+<p align="center">
+
+<a href="http://www.bookstrand.com/all-the-right-reasons"><img src="http://www.sirenbookstrand.com/authors/sandyjames/sj-atrr-s.jpg" border="0"></a><br>
+<font face="Verdana" size="1"><b>
+<a href="http://www.bookstrand.com/all-the-right-reasons">ALL THE RIGHT REASONS</a><br>
+</b>by <b><a href="http://www.bookstrand.com/sandy-james">Sandy James</a></b><br>
+(Word count: 113,271)<br></font>
+</p>
+
+<p align="center">&nbsp;</p>
+
+<hr>
+
+<span align="center">  			
+
+<p align="center"><font face="Verdana" size="1">5-YEAR ANNIVERSARY CELEBRATION</font><br><b><font size="2" color="#ff0000" face="Verdana">3 MORE FREE<br>E-BOOK DOWNLOADS!</font></b><br>
+
+</p> 
+
+
+
+<p align="center">
+<br>
+<a href="http://www.bookstrand.com/tarbaby-trouble"><img src="http://www.sirenbookstrand.com/authors/phoebematthews/pm-tt-s.jpg" border="0"></a><br>
+<font face="Verdana" size="1"><b>
+<a href="http://www.bookstrand.com/tarbaby-trouble">TARBABY TROUBLE</a><br>
+</b>by <b><a href="http://www.bookstrand.com/phoebe-matthews">Phoebe Matthews</a></b>
+<br>
+(Word count: 96,000)<br>
+Offer ends 2/14/2011<br>
+</font>
+</p>
+
+
+
+<p align="center">&nbsp;</p>
+
+<p align="center">
+<a href="http://www.bookstrand.com/flavias-secret"><img src="http://www.sirenbookstrand.com/authors/lindsaytownsend/lt-fs-s.jpg" border="0"></a><br>
+<font face="Verdana" size="1"><b>
+<a href="http://www.bookstrand.com/flavias-secret">FLAVIA'S SECRET</a><br>
+</b>by <b><a href="http://www.bookstrand.com/lindsay-townsend">Lindsay Townsend</a></b>
+<br>
+(Word count: 83,000)<br>
+Offer ends 2/14/2011<br>
+</font>
+</p>
+
+
+
+
+<p align="center">&nbsp;</p>
+
+
+<p align="center">
+<a href="http://www.bookstrand.com/trinity-magic"><img src="http://www.sirenpublishing.com/ambercarlton/ac-tm-s.jpg" border="0"></a><br>
+<font face="Verdana" size="1"><b>
+<a href="http://www.bookstrand.com/trinity-magic">TRINITY MAGIC</a><br>
+</b>by <b><a href="http://www.bookstrand.com/amber-carlton">Amber Carlton</a></b>
+<br>
+(Word count: 135,232)<br>
+Offer ends 2/14/2011<br>
+</font>
+</p>
+
+
+<p align="center">&nbsp;</p>
+<hr>
+
+<p align="center">&nbsp;</p>
+
+<p align="center"><b><font size="2" color="#ff0000" face="Verdana">40 TO 60% OFF!</font></b></p> 
+
+<p align="center"><font size="1">Celebrate Christmas and New Year with 
+<a href="http://www.bookstrand.com/sandy-james">SANDY</a>, 
+<a href="http://www.bookstrand.com/phoebe-matthews">PHOEBE</a>, 
+<a href="http://www.bookstrand.com/lindsay-townsend">LINDSAY</a>, and 
+<a href="http://www.bookstrand.com/amber-carlton">AMBER</a>! Stock up on all their books for $2.50 to $3.99 each! Offer ends 1/3/2011.</font></p><font size="1"> 
+
+
+
+
+
+</font><p align="center"><font size="1">
+
+&nbsp;</font></p>
+	</span></span></td>  		</tr>  		</tbody></table>  	
+  		
 
 
 
@@ -476,24 +706,18 @@ Romance</a><br>
 
 <p align="center"> &nbsp;</p> </span> </td> </tr>
 <tr>  			<td>
-<span align="center">  			<div align="center">  				
-			<table style="border-collapse: collapse;" id="table124" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" border="1" cellpadding="5" width="179">  					<tbody><tr>  						<td>  						
-<span align="center">
-				<p align="center"><b>
-				<font face="Verdana" size="1" color="#FF0000">&nbsp;&nbsp;&nbsp;
-				<br>
-				Newest Imprint<br>
-				MÉNAGE EVERLASTING</font></b><font size="1" color="#ff0000" face="Verdana"><b><br>  						</b></font>  						<font size="2" face="Verdana">  						
-				<a target="sme" href="http://www.sirenpublishing.com/everlasting/lost/">  						
-				<img alt="Siren Menage Everlasting: The story behind The Lost Collection" src="/sites/all/themes/bookstrand/images/the-lost-collection1.gif" border="0"></a></font><br>  						
-				<font face="Verdana" size="1" color="#612998">the story behind<b><br>  						</b>
-				</font><b>  						
-				<a target="sme" href="http://www.sirenpublishing.com/everlasting/lost/">
-				<font size="1" color="#612998" face="Verdana">  						
-				The LOST Collection</font></a></b><br>
-&nbsp; </p></span></td>  					</tr>  				</tbody></table>  			</div>  			</span>
 		<p align="center">&nbsp;</p>
-		<p align="center">&nbsp;</p></td>  		</tr>  	</tbody></table>  	&nbsp;&nbsp;</span></div></div>
+		<p align="center">&nbsp;</p></td>  		</tr>  	
+
+
+
+
+
+
+
+
+
+</tbody></table>  	&nbsp;&nbsp;</span></div></div>
  </div>
 	    </div>	</td>    
   </tr>
