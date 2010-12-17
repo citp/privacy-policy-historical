@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariansweb.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109105751id_/http%3A//mariansweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariansweb.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217165337id_/http%3A//mariansweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
