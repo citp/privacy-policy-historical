@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217060031id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217185324id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
 # LWW.com
 
@@ -21,7 +21,7 @@ LWW.com gathers **personal information** from customers in two places: registrat
 
 If you register on LWW.com, you will also be prompted to sign up for **LWW.com News, Coupons and Product Updates** , which include the _LWW.com Insider_ and _LWW.com Essentials_ e-newsletters. If you sign up for LWW.com News, Coupons and Product Updates, we will ask you if you can receive HTML e-mail messages, if you are a faculty member and where you teach. You will be able to select the specialties you wish to receive Updates in as well as the _Essentials_ e-newsletters that best fit your profession or work setting. 
 
-LWW.com News, Coupons and Product Updates are sent from "Lippincott Williams & Wilkins" [ **orders@lww.com** ] and "LWW Alerts" [ **alerts@LWW-Alerts.com** ]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
+LWW.com News, Coupons and Product Updates are sent from "Lippincott Williams & Wilkins" [ **orders@lww.com** , **orders@lww.lww.com** , and **orders@optin.lww.com** ] and "LWW Alerts" [ **alerts@LWW-Alerts.com** ]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
 
 This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
 
