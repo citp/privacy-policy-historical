@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yadsi.in privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128162317id_/http%3A//www.yadsi.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yadsi.in privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217020510id_/http%3A//www.yadsi.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Yadsi.in - Free Online Indian Classifieds
 
