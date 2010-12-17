@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305103008id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217180211id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie - Privacy Policy
 
@@ -34,9 +34,9 @@ If you decide to create a 'My Lilypie' account through our site we will collect 
     2. **Newsletter**  
 If you sign up for the free newsletter, we will send you newsletters periodically to let you know what is new on the site.
     3. **Contact Information**  
-If you contact Lilypie.com through the [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php), by e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php) we will gather information about your browser, IP and from your Lilypie cookies in order to help you with any problems.
+If you contact Lilypie.com through the [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php), by e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php) we will gather information about your browser, IP and from your Lilypie cookies in order to help you with any problems. If you contact us through the Lilypie [Contact Developer](http://apps.facebook.com/lilypie/contactFB.php) link on Facebook (http://apps.facebook.com/lilypie/contactFB.php), we will also gather your numeric Facebook ID in order to check on the status of your tickers.
     4. **Cookies**  
-We use cookies to track user data, and in the operation of password protected areas of our website.
+We use cookies in the operation of password protected areas of our website and to remember your selected language.
 TOP  
 
   3. **With whom do we share your information?**  
@@ -54,7 +54,7 @@ TOP
 
 
   5. **Lilypie.com use of cookies.**  
-Lilypie.com Cookies: Cookies are used to store your language choice and when you use password or keyword protected areas of our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Lilypie.com. Our cookies store randomly assigned user identification numbers, IDs, and the date of your last visit. You will be unable to use password protected areas on our site without your browser being set to accept cookies.  
+Lilypie.com Cookies: Cookies are used to store your language choice and when you use password or keyword protected areas of our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Lilypie.com. Our cookies store randomly assigned user identification numbers and IDs. You will be unable to use password protected areas on our site without your browser being set to accept cookies.  
 TOP  
 
   6. **Advertisers use of cookies**  
