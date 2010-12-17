@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comcastsupport.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614200720id_/http%3A//www.comcast.com/corporate/legal/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastsupport.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217095533id_/http%3A//www.comcast.com/corporate/legal/privacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
