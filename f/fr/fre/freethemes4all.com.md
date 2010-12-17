@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619082636id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217044514id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Website Templates
 
@@ -8,7 +8,7 @@ Like many other Web sites, www.freethemes4all.com makes use of log files. The in
 **Cookies and Web Beacons**  
 www.freethemes4all.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  
 www.freethemes4all.com has no access to or control over these cookies that are used by third-party advertisers.  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.  
 www.freethemes4all.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
