@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoheap.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401191346id_/http%3A//www.seoheap.com/inc/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoheap.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217215756id_/http%3A//www.seoheap.com/inc/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,7 +75,7 @@ Such activities are beyond our control and this policy.
 
 We do not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. 
 
-If you believe we have any information from or about anyone under 13, please private PM us through our [forum](https://web.archive.org/forum/) or email us at _contact[AT]seoheap.com_
+If you believe we have any information from or about anyone under 13, please email us at _contact[AT]seoheap.com_
 
 **Changes to this Policy**
 
