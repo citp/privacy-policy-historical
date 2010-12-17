@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jonesday.com privacy policy that was archived on 2010-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602045038id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jonesday.com privacy policy that was archived on 2010-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217112415id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     <title>
@@ -8,7 +8,7 @@
 		<meta name="keywords" content="Jones Day jones day international law firm legal attorney lawyer litigation bankruptcy mergers acquisitions government regulation tax technology health care energy Atlanta Beijing Brussels Chicago Cleveland Columbus Dallas Frankfurt Hong Kong Houston Irvine London Los Angeles Madrid Menlo Park Milan Munich New York Paris Pittsburgh San Diego San Francisco Shanghai Singapore Sydney Taipei Tokyo Washington law school recruiting careers">
 		<meta name="description" content="With more than 2300 lawyers around the world, Jones Day ranks among the largest, most geographically diverse law firms. The Firm represents more than half of the Fortune 500 companies, as well as a wide variety of other entities, including privately held companies, financial institutions, investment firms, health care providers, retail chains, foundations, educational institutions, and individuals.">
 		<link href="/FCWSite/Include/sitev2/general.css" rel="stylesheet" type="text/css">
-		<link href="/mainrss.aspx" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+		<link href="/admin/rss.aspx" rel="alternate" type="application/rss+xml" title="RSS 2.0">
 		<link rel="stylesheet" href="/FCWSite/Include/sitev2/print.css" type="text/css" media="print">
 		
 		<script type="text/javascript" src="/FCWSite/Include/sitev2/jquery.js"></script>
@@ -64,6 +64,8 @@
                 document.writeln("body.offices .centerWide .chart table#tabdata_Publications {margin-top:30px;}");
                 document.writeln("body.offices .centerWide .resultsTable {margin-top:11px;}");
                 document.writeln(".whitebackground {top:54px;}");
+                document.writeln(".centerWide .bioSubNav ul li.dtabon div { display:inline-block;}");
+                document.writeln(".centerWide .bioSubNav ul li.dtab div { display:inline-block;}");
             }
             document.writeln("</style>");
         </script><style type="text/css">
@@ -107,12 +109,7 @@
             <img src="/include_common/NetInsight/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
             </noscript>
             <!-- END: Unica Page Tag --><script src="/FCWSite/Include/spamproof.js" type="text/javascript"></script>
-		    <script type="text/javascript" src="/FCWSite/Features/_Ajax/ajaxtabs.js"></script><script type="text/javascript" src="/FCWSite/Include/sitev2/jquery.rightClick.js"></script><script type="text/javascript">
-var debugMode = true;
-var AjaxRoot = '/ajax/AjaxData.aspx';
-var LoadingImageUrl = '/FCWSite/img/sitev2/ajax-loader.gif';
-var LoadingImageText = 'Loading...';
-var ClearAjaxTargetBeforeGet = true;
+		    <script type="text/javascript">$.get("/ajax/AjaxData.aspx?jsdetect=true");</script><script type="text/javascript" src="/FCWSite/Features/_Ajax/ajaxtabs.js"></script><script type="text/javascript" src="/FCWSite/Include/sitev2/jquery.rightClick.js"></script><script type="text/javascript">
 </script>
 <style type="text/css">
 .loadingImage { display:none;position:absolute;z-index:3001; }.holderiframe  {display:none;height:180px;width:350px;}</style>
@@ -140,8 +137,14 @@ var ClearAjaxTargetBeforeGet = true;
     <!--
     var searchtype = "site";
     
-    function SearchService()
-    {	
+    function SearchService() {
+        var defVal = $("#HeaderSearchText").attr("defaultvalue");
+        var searchTerm = $("#HeaderSearchText").val();
+        searchTerm = $.trim(searchTerm);
+        if (defVal == searchTerm || searchTerm == "") {
+            alert("Please enter search criteria");
+            return false;
+        }
     	if (searchtype == "site") 
 		{
 			window.location.href = '/Search.aspx?qu=' + escape($('#HeaderSearchText').val());	
@@ -199,6 +202,7 @@ var ClearAjaxTargetBeforeGet = true;
         if (menuname == "people") {
             var defaultValue = $("#menusearchpeople_input").attr("defaultvalue");
             var currentValue = $("#menusearchpeople_input").attr("value");
+            currentValue = trimAll(currentValue);
             if (defaultValue != currentValue) {
                 qString += "lastname=" + escape(currentValue) + "&";
             }
@@ -221,7 +225,7 @@ var ClearAjaxTargetBeforeGet = true;
                 pageUrl = "/newsknowledge/publicationresults.aspx?";
             }
             if (defaultValue != currentValue) {
-                qString += "keywordphrase=" + escape(currentValue);  //+ "&" + "ktypes=" + $("#menusearchnewsknowledge_select option:selected").attr("value") + "&";
+                qString += "keywordphrase=" + escape($.trim(currentValue));  //+ "&" + "ktypes=" + $("#menusearchnewsknowledge_select option:selected").attr("value") + "&";
             }
             //pageUrl = "/newsknowledge/newsknowledge.aspx?"
         }
@@ -229,6 +233,19 @@ var ClearAjaxTargetBeforeGet = true;
             document.location.href = CultureRoot + pageUrl + qString;
         }
     }
+
+    function trimAll(sString) {
+        while (sString.substring(0, 1) == ' ') {
+            sString = sString.substring(1, sString.length);
+        }
+        while (sString.substring(sString.length - 1, sString.length) == ' ') {
+            sString = sString.substring(0, sString.length - 1);
+        }
+        return sString;
+    }
+
+
+    
     function showOfficeMenuRollover(clickItem) {
         var sourceID = "#officeMenu_Rollover_" + $(clickItem).attr("officeid");
         $("#officeMenu_RolloverTarget").html($(sourceID).html());
@@ -366,95 +383,95 @@ var ClearAjaxTargetBeforeGet = true;
     //-->
 </script>
 <script type="text/javascript">var dynamicImg0On = new Image();
-dynamicImg0On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctAboutUsNavText_off.gif";
+dynamicImg0On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctAboutUsNavText_gray.gif";
 var dynamicImg1On = new Image();
-dynamicImg1On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctAboutUsNavText_on.gif";
+dynamicImg1On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctExperiencePracticeNavText_gray.gif";
 var dynamicImg2On = new Image();
-dynamicImg2On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctAboutUsNavText_gray.gif";
+dynamicImg2On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctPeopleNavText_gray.gif";
 var dynamicImg3On = new Image();
-dynamicImg3On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctExperiencePracticeNavText_off.gif";
+dynamicImg3On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctOfficeNavText_gray.gif";
 var dynamicImg4On = new Image();
-dynamicImg4On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctExperiencePracticeNavText_on.gif";
+dynamicImg4On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctNewsKnowledgeNavText_gray.gif";
 var dynamicImg5On = new Image();
-dynamicImg5On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctExperiencePracticeNavText_gray.gif";
+dynamicImg5On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctCareersNavText_gray.gif";
 var dynamicImg6On = new Image();
-dynamicImg6On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctPeopleNavText_off.gif";
+dynamicImg6On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctLanguagesNavText_gray.gif";
 var dynamicImg7On = new Image();
-dynamicImg7On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctPeopleNavText_on.gif";
+dynamicImg7On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctAboutUsNavText_off.gif";
 var dynamicImg8On = new Image();
-dynamicImg8On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctPeopleNavText_gray.gif";
+dynamicImg8On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctAboutUsNavText_on.gif";
 var dynamicImg9On = new Image();
-dynamicImg9On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctOfficeNavText_off.gif";
+dynamicImg9On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctExperiencePracticeNavText_off.gif";
 var dynamicImg10On = new Image();
-dynamicImg10On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctOfficeNavText_on.gif";
+dynamicImg10On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctExperiencePracticeNavText_on.gif";
 var dynamicImg11On = new Image();
-dynamicImg11On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctOfficeNavText_gray.gif";
+dynamicImg11On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctPeopleNavText_off.gif";
 var dynamicImg12On = new Image();
-dynamicImg12On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctNewsKnowledgeNavText_off.gif";
+dynamicImg12On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctPeopleNavText_on.gif";
 var dynamicImg13On = new Image();
-dynamicImg13On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctNewsKnowledgeNavText_on.gif";
+dynamicImg13On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctOfficeNavText_off.gif";
 var dynamicImg14On = new Image();
-dynamicImg14On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctCareersNavText_off.gif";
+dynamicImg14On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctOfficeNavText_on.gif";
 var dynamicImg15On = new Image();
-dynamicImg15On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctCareersNavText_on.gif";
+dynamicImg15On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctNewsKnowledgeNavText_off.gif";
 var dynamicImg16On = new Image();
-dynamicImg16On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctNewsKnowledgeNavText_gray.gif";
+dynamicImg16On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctNewsKnowledgeNavText_on.gif";
 var dynamicImg17On = new Image();
-dynamicImg17On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctLanguagesNavText_off.gif";
+dynamicImg17On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctCareersNavText_off.gif";
 var dynamicImg18On = new Image();
-dynamicImg18On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctLanguagesNavText_on.gif";
+dynamicImg18On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctCareersNavText_on.gif";
 var dynamicImg19On = new Image();
-dynamicImg19On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctCareersNavText_gray.gif";
+dynamicImg19On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctLanguagesNavText_off.gif";
 var dynamicImg20On = new Image();
-dynamicImg20On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctLanguagesNavText_gray.gif";
+dynamicImg20On.src = "/files/ImageControl/ImageGenerator/7483b893-e478-44a4-8fed-f49aa917d8cf/ctLanguagesNavText_on.gif";
 var dynamicImg21On = new Image();
-dynamicImg21On.src = "/files/ImageControl/ImageGenerator/87756a85-c6ba-4115-a38f-1a9754f29935/ctOfficeNavText_off.gif";
+dynamicImg21On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctExperiencePracticeNavText_off.gif";
 var dynamicImg22On = new Image();
-dynamicImg22On.src = "/files/ImageControl/ImageGenerator/87756a85-c6ba-4115-a38f-1a9754f29935/ctOfficeNavText_on.gif";
+dynamicImg22On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctExperiencePracticeNavText_on.gif";
 var dynamicImg23On = new Image();
-dynamicImg23On.src = "/files/ImageControl/ImageGenerator/745978db-0c76-43c9-86f8-1a934bd5bd63/ctOfficeNavText_off.gif";
+dynamicImg23On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctPeopleNavText_off.gif";
 var dynamicImg24On = new Image();
-dynamicImg24On.src = "/files/ImageControl/ImageGenerator/745978db-0c76-43c9-86f8-1a934bd5bd63/ctOfficeNavText_on.gif";
+dynamicImg24On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctPeopleNavText_on.gif";
 var dynamicImg25On = new Image();
-dynamicImg25On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctExperiencePracticeNavText_off.gif";
+dynamicImg25On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctOfficeNavText_off.gif";
 var dynamicImg26On = new Image();
-dynamicImg26On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctExperiencePracticeNavText_on.gif";
+dynamicImg26On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctOfficeNavText_on.gif";
 var dynamicImg27On = new Image();
-dynamicImg27On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctPeopleNavText_off.gif";
+dynamicImg27On.src = "/files/ImageControl/ImageGenerator/e16545ad-bd5e-4ef9-8d0d-23b9409b6e3e/ctOfficeNavText_off.gif";
 var dynamicImg28On = new Image();
-dynamicImg28On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctPeopleNavText_on.gif";
+dynamicImg28On.src = "/files/ImageControl/ImageGenerator/e16545ad-bd5e-4ef9-8d0d-23b9409b6e3e/ctOfficeNavText_on.gif";
 var dynamicImg29On = new Image();
-dynamicImg29On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctOfficeNavText_off.gif";
+dynamicImg29On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6-25507d1f7048/ctOfficeNavText_off.gif";
 var dynamicImg30On = new Image();
-dynamicImg30On.src = "/files/ImageControl/ImageGenerator/1a244e7f-fd90-4deb-8fe8-1d6d8ecdd0e3/ctOfficeNavText_on.gif";
+dynamicImg30On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6-25507d1f7048/ctOfficeNavText_on.gif";
 var dynamicImg31On = new Image();
-dynamicImg31On.src = "/files/ImageControl/ImageGenerator/b916e24f-4fba-40d1-97c3-1e54b6a3381b/ctOfficeNavText_off.gif";
+dynamicImg31On.src = "/files/ImageControl/ImageGenerator/59119984-8841-45c2-a4b2-0416d4029052/ctOfficeNavText_off.gif";
 var dynamicImg32On = new Image();
-dynamicImg32On.src = "/files/ImageControl/ImageGenerator/b916e24f-4fba-40d1-97c3-1e54b6a3381b/ctOfficeNavText_on.gif";
+dynamicImg32On.src = "/files/ImageControl/ImageGenerator/59119984-8841-45c2-a4b2-0416d4029052/ctOfficeNavText_on.gif";
 var dynamicImg33On = new Image();
-dynamicImg33On.src = "/files/ImageControl/ImageGenerator/5c6bc4ac-50c1-4fb2-9218-986942309757/ctOfficeNavText_off.gif";
+dynamicImg33On.src = "/files/ImageControl/ImageGenerator/f0550aa4-40af-4b10-a799-26001d35a925/ctOfficeNavText_off.gif";
 var dynamicImg34On = new Image();
-dynamicImg34On.src = "/files/ImageControl/ImageGenerator/5c6bc4ac-50c1-4fb2-9218-986942309757/ctOfficeNavText_on.gif";
+dynamicImg34On.src = "/files/ImageControl/ImageGenerator/f0550aa4-40af-4b10-a799-26001d35a925/ctOfficeNavText_on.gif";
 var dynamicImg35On = new Image();
-dynamicImg35On.src = "/files/ImageControl/ImageGenerator/008cea85-6bf8-4fc0-b193-98dfd507290a/ctOfficeNavText_off.gif";
+dynamicImg35On.src = "/files/ImageControl/ImageGenerator/b916e24f-4fba-40d1-97c3-1e54b6a3381b/ctOfficeNavText_off.gif";
 var dynamicImg36On = new Image();
-dynamicImg36On.src = "/files/ImageControl/ImageGenerator/008cea85-6bf8-4fc0-b193-98dfd507290a/ctOfficeNavText_on.gif";
+dynamicImg36On.src = "/files/ImageControl/ImageGenerator/b916e24f-4fba-40d1-97c3-1e54b6a3381b/ctOfficeNavText_on.gif";
 var dynamicImg37On = new Image();
-dynamicImg37On.src = "/files/ImageControl/ImageGenerator/59119984-8841-45c2-a4b2-0416d4029052/ctOfficeNavText_off.gif";
+dynamicImg37On.src = "/files/ImageControl/ImageGenerator/745978db-0c76-43c9-86f8-1a934bd5bd63/ctOfficeNavText_off.gif";
 var dynamicImg38On = new Image();
-dynamicImg38On.src = "/files/ImageControl/ImageGenerator/59119984-8841-45c2-a4b2-0416d4029052/ctOfficeNavText_on.gif";
+dynamicImg38On.src = "/files/ImageControl/ImageGenerator/745978db-0c76-43c9-86f8-1a934bd5bd63/ctOfficeNavText_on.gif";
 var dynamicImg39On = new Image();
-dynamicImg39On.src = "/files/ImageControl/ImageGenerator/e16545ad-bd5e-4ef9-8d0d-23b9409b6e3e/ctOfficeNavText_off.gif";
+dynamicImg39On.src = "/files/ImageControl/ImageGenerator/87756a85-c6ba-4115-a38f-1a9754f29935/ctOfficeNavText_off.gif";
 var dynamicImg40On = new Image();
-dynamicImg40On.src = "/files/ImageControl/ImageGenerator/e16545ad-bd5e-4ef9-8d0d-23b9409b6e3e/ctOfficeNavText_on.gif";
+dynamicImg40On.src = "/files/ImageControl/ImageGenerator/87756a85-c6ba-4115-a38f-1a9754f29935/ctOfficeNavText_on.gif";
 var dynamicImg41On = new Image();
-dynamicImg41On.src = "/files/ImageControl/ImageGenerator/f0550aa4-40af-4b10-a799-26001d35a925/ctOfficeNavText_off.gif";
+dynamicImg41On.src = "/files/ImageControl/ImageGenerator/5c6bc4ac-50c1-4fb2-9218-986942309757/ctOfficeNavText_off.gif";
 var dynamicImg42On = new Image();
-dynamicImg42On.src = "/files/ImageControl/ImageGenerator/f0550aa4-40af-4b10-a799-26001d35a925/ctOfficeNavText_on.gif";
+dynamicImg42On.src = "/files/ImageControl/ImageGenerator/5c6bc4ac-50c1-4fb2-9218-986942309757/ctOfficeNavText_on.gif";
 var dynamicImg43On = new Image();
-dynamicImg43On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6-25507d1f7048/ctOfficeNavText_off.gif";
+dynamicImg43On.src = "/files/ImageControl/ImageGenerator/008cea85-6bf8-4fc0-b193-98dfd507290a/ctOfficeNavText_off.gif";
 var dynamicImg44On = new Image();
-dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6-25507d1f7048/ctOfficeNavText_on.gif";
+dynamicImg44On.src = "/files/ImageControl/ImageGenerator/008cea85-6bf8-4fc0-b193-98dfd507290a/ctOfficeNavText_on.gif";
 </script>
                 <!-- Header -->
                 <div class="whitebackground" id="whiteOverlay"><img src="/FCWSite/Img/spacer.gif"></div>
@@ -475,7 +492,7 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
         <div class="contentbox">
             <div class="subtitle">Commitment to Client Service</div>
             <div class="narrative">
-                Today, Jones Day is one of the largest law firms in the world, with&nbsp;more than&nbsp;2,500 lawyers&nbsp;in&nbsp;four continents. This global legal institution is based on a set of core principles to which all our lawyers and staff can commit - the most critical of which is a relentless focus on client service that transcends individual interests. We are One Firm Worldwide.
+                Jones Day,&nbsp;a legal institution with&nbsp;more than&nbsp;2,500 lawyers&nbsp;on four&nbsp;continents, is based on a set of core principles - the most critical of which is a relentless focus on client service that transcends individual interests. We are One Firm Worldwide.
             </div>
             <br><div class="readmore"><a href="http://www.jonesday.com/aboutus/" target="">Read More »</a></div>
             <div class="divider">&nbsp;</div> 
@@ -483,8 +500,9 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
     
     
     <div class="column">
-        See our <a href="http://www.jonesdayprobono.com/" target="_blank">Pro Bono Site</a><br>
-<br>See our <a href="http://jonesdaydiversity.com/" target="_blank">Diversity Site</a>
+        <a href="http://www.jonesday.com/aboutus/">Principles &amp; Values</a><br><a href="http://www.jonesday.com/aboutus/howdifferent/">How We Are Different</a><br><a href="http://www.jonesday.com/aboutus/whydifferent/">Why We Are Different</a><br><a href="http://www.jonesday.com/aboutus/clientservices/">Commitment to Client Service</a><br><a href="http://www.jonesday.com/aboutus/compensation/">Compensation<br></a><a href="http://www.jonesday.com/aboutus/firmhistory/">Firm History</a><br><a href="http://www.jonesday.com/aboutus/recognitions/">Recognitions</a><br><a href="http://www.jonesday.com/aboutus/clientlist/">Client List</a><br>
+<br>&nbsp;<br>
+<br><a href="http://www.jonesdayprobono.com/" target="_blank">Pro Bono Site</a><br><a href="http://jonesdaydiversity.com/" target="_blank">Diversity Site</a>
     </div>
     <div class="clear"></div>
 </div>
@@ -544,20 +562,20 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
         
                 <div class="column">
                     <div class="spotlight">
-                        <div class="pic"><img border="0" height="68px" src="/files/RepresentativeExperience/ee67af85-dc8d-4af5-9e17-c45c684a60e8/Presentation/ceExperienceHomePageImageFile/p_MarinePolymer_b.jpg" width="68px"></div>
+                        <div class="pic"><img border="0" height="68px" src="/files/RepresentativeExperience/e82484bd-5663-4ca0-be35-2297c173115c/Presentation/ceExperienceHomePageImageFile/p_RJR.jpg" width="68px"></div>
                         <div class="narrative">
-                            <div class="headline">Marine Polymer awarded $29.4 million in patent infringement case against HemCon directed to biocompatible polymers</div> 
-                            <div class="readmore"><a href="/Marine-Polymer-awarded-294-million-in-patent-infringement-case-against-HemCon-directed-to-biocompatible-polymers">Read More »</a></div>
+                            <div class="headline">R.J. Reynolds maintains winning streak with seventh defense verdict in "<em>Engle</em> progeny" lawsuits</div> 
+                            <div class="readmore"><a href="/RJ-Reynolds-maintains-winning-streak-with-sixth-defense-verdict-in-EMEngleEM-Progeny-lawsuits">Read More »</a></div>
                         </div>
                     </div>
                 </div>
             
                 <div class="column">
                     <div class="spotlight">
-                        <div class="pic"><img border="0" height="68px" src="/files/RepresentativeExperience/f9a216ee-b18a-49a6-90b3-7e91bbfd2f49/Presentation/ceExperienceHomePageImageFile/p_chrysler_b.jpg" width="68px"></div>
+                        <div class="pic"><img border="0" height="68px" src="/files/RepresentativeExperience/b582a5b6-8bf1-42a4-9c7a-2cc11acd1f0b/Presentation/ceExperienceHomePageImageFile/p_United_b.jpg" width="68px"></div>
                         <div class="narrative">
-                            <div class="headline">Chrysler sold to Fiat-led "New Chrysler" after historic court proceedings</div> 
-                            <div class="readmore"><a href="/Chrysler-sells-assets-to-Fiat-led-New-Chrysler-after-unprecedented-court-proceedings">Read More »</a></div>
+                            <div class="headline">Continental Airlines and United merge in $8.5 billion all-stock merger of equals</div> 
+                            <div class="readmore"><a href="/Continental-Airlines-and-United-merge-in-an-85-billion-all-stock-merger-of-equals">Read More »</a></div>
                         </div>
                     </div>
                 </div>
@@ -766,6 +784,9 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
                      <div><a href="/munich" onmouseover="showOfficeMenuRollover(this);" officeid="24"><img src="/FCWSite/Img/sitev2/bullet_square.gif" class="bullet">Munich</a></div>
                      
                 
+                     <div><a href="/newdelhi" onmouseover="showOfficeMenuRollover(this);" officeid="36"><img src="/FCWSite/Img/sitev2/bullet_square.gif" class="bullet">New Delhi</a></div>
+                     
+                
                      <div><a href="/newyork" onmouseover="showOfficeMenuRollover(this);" officeid="16"><img src="/FCWSite/Img/sitev2/bullet_square.gif" class="bullet">New York</a></div>
                      
                 
@@ -863,7 +884,7 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
                 <div class="pic"><img border="0" src="/files/Office/ec423132-9c67-414c-b329-4eb6dcc15460/Presentation/OfficePhoto/p_dubai.jpg"></div>
                 <div class="phone"><span class="uppercase">(T)</span> +971.4.709.8484</div>
                 <div class="fax"><span class="uppercase">(F)</span> +971.4.709.8499</div>
-                <div class="address"><p align="left">Al Fattan Currency Tower<br>Floor 33<br>Dubai International Financial Center<br>PO&nbsp;Box 506662<br>Dubai, United Arab Emirates</p></div>
+                <div class="address"><p align="left">Al Fattan Currency Tower<br>Floor 33<br>Dubai International Financial Centre<br>P.O.&nbsp;Box 506662<br>Dubai, United Arab Emirates</p></div>
             </div>
         
             <div class="officeinfo" style="display:none;" id="officeMenu_Rollover_5">
@@ -941,6 +962,13 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
                 <div class="phone"><span class="uppercase">(T)</span> +49.89.20.60.42.200</div>
                 <div class="fax"><span class="uppercase">(F)</span> +49.89.20.60.42.293</div>
                 <div class="address">Prinzregentenstr. 11<br>80538 Munich<br>Federal Republic of Germany</div>
+            </div>
+        
+            <div class="officeinfo" style="display:none;" id="officeMenu_Rollover_36">
+                <div class="pic"><img border="0" src="/files/Office/21b93826-34f8-4746-a6f2-6140e6254783/Presentation/OfficePhoto/p_newdelhi.JPG"></div>
+                <div class="phone"><span class="uppercase">(T)</span> +91.11.4139.3939</div>
+                <div class="fax"><span class="uppercase">(F)</span> +91.11.2335.0416</div>
+                <div class="address">1st Floor, Dr Gopal Das Bhavan<br>28 Barakhamba Road<br>New Delhi - 110 001<br>India</div>
             </div>
         
             <div class="officeinfo" style="display:none;" id="officeMenu_Rollover_16">
@@ -1051,10 +1079,9 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
             <div class="subtitle">What's New</div>
             
             <div class="narrative">
-                <p style="MARGIN: 0in 0in 12pt">See what's new at the Firm, including important press releases and contact information for the press, commentaries on current legal issues, and seminars and other events. Select one of the categories below to read more. To search, enter a keyword and select a category.<br>
-</p><p style="MARGIN: 0in 0in 12pt"><br>
-</p><p style="MARGIN: 0in 0in 12pt"><a href="http://www.jonesday.com/newsknowledge/News.aspx"><strong>NEWS</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp; </strong><a href="http://www.jonesday.com/newsknowledge/Publications.aspx"><strong>PUBLICATIONS</strong></a><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><a href="http://www.jonesday.com/newsknowledge/Events.aspx"><strong>EVENTS</strong></a>
-            </p></div>
+                News &amp; Knowledge lets you know what's new at the Firm - press releases, contact information for the press, commentaries on current legal issues,&nbsp;seminars, and events. To search this section, enter a keyword and select the type of information you are looking for or browse each section.<br>
+<br><a href="http://www.jonesday.com/newsknowledge/NewsKnowledge.aspx">Features</a><br><a href="http://www.jonesday.com/newsknowledge/newsresults.aspx?type=18">News</a><br><a href="http://www.jonesday.com/newsknowledge/Publications.aspx">Publications</a><a href="http://www.jonesday.com/newsknowledge/News.aspx"><br></a><a href="http://www.jonesday.com/newsknowledge/Events.aspx">Events</a>
+            </div>
             
         </div>
     	<div class="divider">&nbsp;</div>
@@ -1079,17 +1106,17 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
           <div id="newslisttitle" class="subtitle">Recent News &amp; Knowledge</div>
             
                     <div class="article">
-                        <div class="snippet"><a href="/Christopher-Hilbert-Joins-Jones-Day-in-New-York-06-01-2010">Christopher Hilbert joins Jones Day in New York <span class="italic">June 2010</span></a></div>
+                        <div class="snippet"><a href="/Jones-Day-names-36-new-partners-12-16-2010">Jones Day names 36 new partners <span class="italic">December 2010</span></a></div>
                     </div>
                  
             
                     <div class="article">
-                        <div class="snippet"><a href="/Jones-Day-and-ECTA-Publish-Seventh-European-Regulatory-Scorecard-for-2009-06-01-2010">Jones Day and ECTA Publish Seventh European Regulatory Scorecard for 2009 <span class="italic">June 2010</span></a></div>
+                        <div class="snippet"><a href="/Antitrust-Alert--Foreign-Documents-in-Files-of-US-Counsel-Must-Be-Produced-Pursuant-to-DOJ-Grand-Jury-Subpoena-12-13-2010">Antitrust Alert:  Foreign Documents in Files of U.S. Counsel Must Be Produced Pursuant to DOJ Grand Jury Subpoena <span class="italic">December 2010</span></a></div>
                     </div>
                  
             
                     <div class="article">
-                        <div class="snippet"><a href="/unclaimed-property-event">What Corporate Executives Need to Know About Unclaimed Property <span class="italic">June 2, 2010</span></a></div>
+                        <div class="snippet"><a href="/PLIs-Mergers--Acquisitions-2011-Trends-and-Developments-01-10-2011">PLI’s Mergers &amp; Acquisitions 2011: Trends and Developments <span class="italic">January 10-11, 2011</span></a></div>
                     </div>
                  
         </div>
@@ -1126,6 +1153,17 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
     
     
     
+    <div class="msgbox">
+        <div class="msg">
+            
+            <div class="subtitle">Read more about</div>
+            <div class="narrative">
+               <a href="http://www.jonesdaycareers.com/offices/office_detail.aspx?office=26&amp;subsection=1">Summer Program</a><br><a href="http://www.jonesdaycareers.com/" target="_blank">Careers</a><br><a href="http://www.jonesdaycareers.com/jonesdayway/">The Jones Day Way</a><br><a href="http://www.jonesdaydiversity.com/" target="_blank">Diversity Site</a><br><a href="http://www.jonesdayprobono.com/" target="_blank">Pro Bono Site</a><br><a href="http://www.jonesdaycareers.com/opportunities/" target="_blank">Opportunities</a><br><a href="http://www.jonesdaycareers.com/faq/" target="_blank">FAQ's</a> 
+            </div>
+            <div class="readmore"></div>
+        </div>
+    </div>
+    
 </div>
                                         	</td>
                                         </tr>
@@ -1150,7 +1188,11 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
         
             
             
-                <li><a href="/">English </a></li>
+            
+                <li><a href="/de/firmoverview_lang">Deutsch</a></li>
+            
+        
+            
             
             
         
@@ -1158,12 +1200,6 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
             
             
                 <li><a href="/es/firmoverview_lang">Español</a></li>
-            
-        
-            
-            
-            
-                <li><a href="/de/firmoverview_lang">Deutsch</a></li>
             
         
             
@@ -1260,7 +1296,7 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
             
 
 <script type="text/javascript">
-    var pdfUrlOverride = "";
+    var pdfUrlOverride;
     var isAttorneyLongBio = false; 
     function getPdfUrl(e) {
         var pdfurl = "/";
@@ -1271,7 +1307,10 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
         if ("0" == "0") {
             pdfurl += currentPath + "?print=true";
         } else {
-            pdfurl += "privacy/" + "" + "&print=true";
+        pdfurl += "privacy/" + "" + "&print=true";
+        }
+        if("privacy/" == "newsknowledge/" && '-1' == '-1'){
+            pdfurl += "&section=Results";
         }
         try {
             if (typeof (pdfUrlOverride) != "undefined" && pdfUrlOverride != null && pdfUrlOverride != "") {
@@ -1279,19 +1318,26 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
             }
         } catch (exception1) { }
         try {
-            if (ajaxtabs.length > 1) {
+            if (ajaxpage.tabArray.length > 1) {
                 var currentTabName = ajaxpage.getActiveTabName();
                 if (currentTabName != null && currentTabName != "") {
                     pdfurl += "&ajaxoff=true";
-                    pdfurl += "&section=" + currentTabName;
+                    //pdfurl += "&section=" + currentTabName;
+                    if (currentTabName == "Directions") {
+                        pdfurl += "&section=" + currentTabName;
+                    }
                     if (ajaxtabs[currentTabName].isAjaxTab) {
                         if (pdfurl.indexOf("page") < 0) {
                             pdfurl += "&page=" + ajaxtabs[currentTabName].bdscurrentpage;
                         }
+                        if (ajaxtabs[currentTabName].bdscurrentpagesize == "all") {
+                            pdfurl += "&pagesize=all";
+                        }
+                        
                     }
                 }
             }
-        } catch (exception) { }
+        } catch (exception) {alert(exception); }
         var abcUrl = "/abc2.aspx?";
         if ($.browser.msie) {
             if (e.ctrlKey) { abcUrl += "debugMode=true&"; }
@@ -1311,9 +1357,9 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
             pageurl += "privacy/" + "";
         }
         if ("80" == "" || "80" == "80") {
-            pageurl = "http://www.jonesday.com" + "" + pageurl;
+            pageurl = "http://jonesday.com" + "" + pageurl;
         } else {
-            pageurl = "http://www.jonesday.com:80" + "" + pageurl;
+            pageurl = "http://jonesday.com:80" + "" + pageurl;
         }
         var emailUrl = "/emailthispage/email.aspx?";
         var documentTitle = document.title;
@@ -1412,11 +1458,21 @@ dynamicImg44On.src = "/files/ImageControl/ImageGenerator/33355f01-98e0-4e13-a4d6
 </div>
             <div class="clear"></div>
             <div class="dottedline2"></div>
-            <div class="breadcrumbs2"><ul class="wide400"><li>
+            
+    <div class="breadcrumbs2"><ul class="wide400">
 
-<a href="/en-us/Home.aspx">Home</a></li><li class="separator">:</li><li class="youarehere">
-Privacy
-</li></ul></div>
+    <li>
+        
+        <a href="/en-us/Home.aspx">Home</a>
+    </li>
+<li class="separator">:</li>
+    <li class="youarehere">
+        Privacy
+        
+    </li>
+
+    </ul></div>
+
             <div class="clear"></div>
             <div class="dottedline2"></div>
         </td>
@@ -1478,14 +1534,6 @@ Privacy
         
             
                 
-                <li class="nav"><a href="/telemediaact/">§5 Tele Media Act</a>
-                
-                </li>
-                
-            
-        
-            
-                
                 <li class="nav"><a href="/copyright/">Copyright</a>
                 
                 </li>
@@ -1520,6 +1568,8 @@ Privacy
         
             
         
+            
+        
     </ul>
     <img src="/FCWSite/Img/spacer.gif" class="leftNav_spacer menu_leftNav" id="leftNav_spacer">
 </div>
@@ -1531,7 +1581,7 @@ Privacy
     <td valign="top" class="centerWide">
         <div class="content" style="border:none;margin-left:0px; margin-top: 30px; padding-top: 0px;">
             <b>Privacy Policy</b><br>
-<br>Jones Day is committed to protecting your privacy. Please read the following Privacy Policy to understand how your personal information will be treated as you use this web site. When you use this web site, you consent to the use of your personal information by Jones Day in the manner specified in this Privacy Policy. This policy may change periodically, so please check back from time to time.&nbsp;The date of the last update to this Privacy Policy is&nbsp;July 2004.<br><br><b>This policy will explain:</b><br><br>1. What information we collect from you and how we use that information<br>2. How we protect your information<br>3. Questions about the Privacy Policy<br><br><b>1. What information we collect from you and how we use that information</b><br>Jones Day does not collect any personally identifiable information from you (<i>e.g.</i>, name, address, telephone number, e-mail address) unless you voluntarily choose to submit or otherwise disclose such information to us, including information submitted or disclosed by mail, telephone, fax, or electronically. We will not sell, trade, or rent your personally identifiable information to third parties. Jones Day will only use your information to respond to your request for information or, if appropriate, to consider your request for consideration of employment with Jones Day. If you wish to change any information submitted to Jones Day, or if you wish to opt out of our mailing list, please do so using the&nbsp;<a href="http://www.jonesday.com/pubs/unsubscribe.aspx">publication unsubscribe</a>&nbsp;form on this site.<br><br>Information from children: Jones Day does not direct its web site to children under thirteen (13) years of age. Individuals under eighteen (18) should consult with their parent or guardian about the use of this web site.<br><br>Monitoring, enforcement, and legal requests: Jones Day is not obligated to&nbsp;monitor this&nbsp;web site or its use,&nbsp;or to retain the content of any user session; however, Jones Day reserves the right at all times to monitor, review, retain, and/or disclose any information as necessary to satisfy any applicable law, regulation, legal process, or governmental request, or to cooperate with law enforcement and other authorities in investigating a claim of illegal activity. We may use IP addresses to identify a user when we feel it is necessary to protect our service, web site, clients, potential clients, or others.<br><br>Other web sites: Except as otherwise expressly discussed in this Privacy Policy, this policy only addresses Jones Day's use and disclosure of information we collect from you. To the extent that you disclose personal information to other web sites, you are subject to the privacy customs and policies of those other sites. We encourage you to ask questions before you disclose any personal information.<br><br><b>2. How we protect your information</b><br>Transmission errors or unauthorized acts: Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent&nbsp;secure. As a result, while we strive to protect your personal information, Jones Day cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Jones Day will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.&nbsp;Once we receive your transmission, we will do our best to ensure its security on our systems by making reasonable efforts to protect the information.<br><br>Security: Any information provided to Jones Day is treated with care and discretion. Jones Day will take a proactive approach to ensure the information is kept private and is&nbsp;not misused.<br><br><b>3. Questions about the Privacy Policy</b><br>Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you.&nbsp;We are committed to building a trusting relationship with you, and we&nbsp;will continually monitor feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy or&nbsp;the practices of this web site,&nbsp;or if you would like to provide comments, please send us an e-mail using our&nbsp;<a href="http://www.jonesday.com/contact/contact.aspx">Contact Us</a>&nbsp;form.&nbsp; You may also contact us&nbsp;by telephone at 1.216.586.3939 or by regular mail at:<br><br>Jones Day<br>901 Lakeside Avenue<br>Cleveland, OH&nbsp; 44114<br>Attention: Business Development and Communications <!----------end COLUMN 2-----------><!----------end CONTENT----------->
+<br>Jones Day is committed to protecting your privacy. Please read the following Privacy Policy to understand how your personal information will be treated as you use this web site. When you use this web site, you consent to the use of your personal information by Jones Day in the manner specified in this Privacy Policy. This policy may change periodically, so please check back from time to time.&nbsp;The date of the last update to this Privacy Policy is&nbsp;July 2004.<br><br><b>This policy will explain:</b><br><br>1. What information we collect from you and how we use that information<br>2. How we protect your information<br>3. Questions about the Privacy Policy<br><br><b>1. What information we collect from you and how we use that information</b><br>Jones Day does not collect any personally identifiable information from you (<i>e.g.</i>, name, address, telephone number, e-mail address) unless you voluntarily choose to submit or otherwise disclose such information to us, including information submitted or disclosed by mail, telephone, fax, or electronically. We will not sell, trade, or rent your personally identifiable information to third parties. Jones Day will only use your information to respond to your request for information or, if appropriate, to consider your request for consideration of employment with Jones Day. If you wish to change any information submitted to Jones Day, or if you wish to opt out of our mailing list, please do so using the&nbsp;<a href="http://www.jonesday.com/pubs/unsubscribe.aspx">publication unsubscribe</a>&nbsp;form on this site.<br><br>Information from children: Jones Day does not direct its web site to children under thirteen (13) years of age. Individuals under eighteen (18) should consult with their parent or guardian about the use of this web site.<br><br>Monitoring, enforcement, and legal requests: Jones Day is not obligated to&nbsp;monitor this&nbsp;web site or its use,&nbsp;or to retain the content of any user session; however, Jones Day reserves the right at all times to monitor, review, retain, and/or disclose any information as necessary to satisfy any applicable law, regulation, legal process, or governmental request, or to cooperate with law enforcement and other authorities in investigating a claim of illegal activity. We may use IP addresses to identify a user when we feel it is necessary to protect our service, web site, clients, potential clients, or others.<br><br>Other web sites: Except as otherwise expressly discussed in this Privacy Policy, this policy only addresses Jones Day's use and disclosure of information we collect from you. To the extent that you disclose personal information to other web sites, you are subject to the privacy customs and policies of those other sites. We encourage you to ask questions before you disclose any personal information.<br><br><b>2. How we protect your information</b><br>Transmission errors or unauthorized acts: Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent&nbsp;secure. As a result, while we strive to protect your personal information, Jones Day cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. Jones Day will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.&nbsp;Once we receive your transmission, we will do our best to ensure its security on our systems by making reasonable efforts to protect the information.<br><br>Security: Any information provided to Jones Day is treated with care and discretion. Jones Day will take a proactive approach to ensure the information is kept private and is&nbsp;not misused.<br><br><b>3. Questions about the Privacy Policy</b><br>Privacy and security is important to us all. We pursue a full-disclosure approach to responsibly care for the information you have entrusted with us, and we depend on information sharing as our principal means to best serve you.&nbsp;We are committed to building a trusting relationship with you, and we&nbsp;will continually monitor feedback and seek to improve our services to meet your needs. If you have any questions about this Privacy Policy or&nbsp;the practices of this web site,&nbsp;or if you would like to provide comments, please send us an e-mail using our&nbsp;<a href="http://www.jonesday.com/contactus/">Contact Us</a>&nbsp;form.&nbsp; You may also contact us&nbsp;by telephone at 1.216.586.3939 or by regular mail at:<br><br>Jones Day<br>901 Lakeside Avenue<br>Cleveland, OH&nbsp; 44114<br>Attention: Business Development and Communications <!----------end COLUMN 2-----------><!----------end CONTENT----------->
             
         </div>
     </td> 
@@ -1548,7 +1598,7 @@ Privacy
                 <div class="footer">
                     <div class="divider2"></div>
                     <ul>
-                        <li><a href="/contactus">Contact Us</a></li><li class="separator">|</li><li><a href="/attorneyadvertising">Attorney Advertising</a></li><li class="separator">|</li><li><a href="/disclaimers">Disclaimers</a></li><li class="separator">|</li><li><a href="/privacy">Privacy</a></li><li class="separator">|</li><li><a href="/telemediaact">§5 Tele Media Act</a></li><li class="separator">|</li><li><a href="/copyright">Copyright</a></li><li class="separator">|</li><li><a href="/newsknowledge/PublicationSignup.aspx">Subscribe</a></li><li class="separator">|</li><li><a href="/newsknowledge/rss.aspx">RSS</a></li><li class="separator">|</li><li><a href="/sitemap">Site Map</a></li>
+                        <li><a href="/contactus">Contact Us</a></li><li class="separator">|</li><li><a href="/attorneyadvertising">Attorney Advertising</a></li><li class="separator">|</li><li><a href="/disclaimers">Disclaimers</a></li><li class="separator">|</li><li><a href="/privacy">Privacy</a></li><li class="separator">|</li><li><a href="/copyright">Copyright</a></li><li class="separator">|</li><li><a href="/newsknowledge/PublicationSignup.aspx">Subscribe</a></li><li class="separator">|</li><li><a href="/newsknowledge/rss.aspx">RSS</a></li><li class="separator">|</li><li><a href="/sitemap">Site Map</a></li>
                     </ul>
                     
                 </div>
