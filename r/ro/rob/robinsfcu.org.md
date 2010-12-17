@@ -1,59 +1,9 @@
-> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530032328id_/http%3A//www.robinsfcu.org/Forms_Applications/Disclosures/Privacy%2520Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217204640id_/https%3A//www.robinsfcu.org/Forms_Applications/Disclosures/Privacy%2520Notice.pdf) for the most accurate reproduction.*
 
-# &&
+# 7/10
 
-                                                                                                                                            Online Services And E-Mail Offers
-                                                                                                                                            If you register for Online Banking, Online Bill Pay, or other
-                                                                                                                                            online services offered by the Credit Union, we may send you
-                                                                                                                                            e-mail offers of other Credit Union products and services. We
-                                                                                                                                            will not share e-mail addresses with other companies for them
-                                                                                                                                            to market their own products and services directly to you. All
-                                                                                                                                            e-mail offers from the Credit Union will include a separate
-                                                                                                                                            opportunity to Opt-Out of receiving future e-mail offers.
-                              Please complete and detach, then place in an envelope and mail or deliver to:
-                                                                                                                                            What Members Can Do To Help
-                                                                                                                                            Robins Federal Credit Union is committed to protecting the
-                                                                                                                                            privacy of its members. Members can help by following
-                                                                                                                                            these simple guidelines:                                              Robins Federal
-                                                                                                                                            – Protect your account numbers, debit and credit card
-                                                                                                                                              numbers, PINs (personal identification numbers), or
-                                                                                                                                              passwords. Never keep your PIN with your card, which
-                                                                                                                                                                                                                  Credit Union
-                                                                                                                                              can provide free access to your accounts if your card is
-                                                                                                                                              lost or stolen.
-                                                                                                                                                                                                                     Privacy
-                                                                                                              Robins Federal Credit Union
-                                                                                                                                                                                                                       &
-                                                                                                                                            – Use caution when disclosing your account numbers or
-Robins Federal Credit Union                                                                                                                   Social Security numbers to other persons. If someone
-                                                                                                                                              calls you explaining the call is on behalf of Robins Federal
-Attn: Research Department
-                                                                                                                                              Credit Union and asks for your account number, you
-                                                                                                                                              should beware. Authorized credit union staff will have
-                                                                                                                                              access to your information and will not need to ask for it.
-803 Watson Boulevard
-                                                                                                                                            – Keep your information with us current. If your address
-                                                                                                                                              or phone number changes, please let us know. It is
-                                                                                                                                                                                                                    Opt-Out
-                                                                                                                    Opt-Out Form
-                                                                                                                                              important that we have current information on how
-P.O. Box 6849                                                                                                                                 to reach you. If we detect potentially fraudulent or
-                                                                                                                                              unauthorized activity or use of an account, we will                  Notification
-Warner Robins, GA 31095
-                                                                                                                                              attempt to contact you immediately.
-                                                                                                                                                                                                                     Policy
-                                                                                                                                            Modifications
-                                                                                                                                            The Credit Union reserves the right to modify, change, or
-                                                                                                                                            amend this Privacy and Opt-Out Notification Policy at any
-                                                                                                                                            time without notice other than as expressly required by
-                                                                                                                                            applicable law.
-                                                                                                                                            Please call us if you have any questions; we are here to serve you!
-                                                                                                                                                                                                                         P.O. Box 6849
-                                                                                                                                                                                                                   Warner Robins, GA 31095
-                                                                                                                                                                                                                    Local: (478) 923-3773
-                                                                                                                                                                                                                   Toll-free: (800) 241-2405
-                                                                                                                                                                                                                      www.robinsfcu.org
-                                                                                                                                                                           7/08
+7/
+ 10
 
 
 TRUST has always been the foundation of the Credit Union’s        To protect your privacy, we only work with companies that
@@ -67,11 +17,11 @@ explains how we collect, use, and safeguard your personal         From Us Where 
 financial information.                                            We may disclose non-public personal information about you
                                                                   to the following types of third parties:
 Information We Collect
-                                                                     Robins Investment & Retirement Services, owned by RFCU,
+                                                                     Robins Investment & Retirement Services provides our
                                                                                                                                                                                                                                                                                                                                     ACCOUNT NUMBER
-We collect information about our members for lawful                  provides our members with retirement, insurance, and
-business purposes, or as otherwise required by applicable law.       investment services; these services are offered through
-We collect non-public personal information about you from            CUNA Brokerage Services Incorporated (CBSI).
+We collect information about our members for lawful                  members with retirement, insurance, and investment
+business purposes, or as otherwise required by applicable law.       services; these services are offered through CUNA
+We collect non-public personal information about you from            Brokerage Services Incorporated (CBSI).
 the following sources:
  (a) Information we receive from you on membership and loan       Although joint marketing agreements are permissible by law,
      applications and other forms and any communications          the Credit Union will allow you to Opt-Out of certain
@@ -111,7 +61,7 @@ public personal information about you:                            Disclosure Of 
                                                                   will not share information we have collected about you, except
                                                                                                                                                                                                                                                                            companies listed within.
      telephone number, e-mail address, and income;                as permitted or required by law.
-(b) Information about your transactions with us or other
+ (b)Information about your transactions with us or other
      companies that work closely with us to provide you with      How We Protect Your Information
      financial products and services, such as account balances,   We restrict access to non-public personal information about
      payment history, and credit card usage;                      you to those employees who have a specific business purpose in
