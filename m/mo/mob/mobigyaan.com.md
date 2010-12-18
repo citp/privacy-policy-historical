@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mobigyaan.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507005727id_/http%3A//www.mobigyaan.com/privacy-policy-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobigyaan.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218212153id_/http%3A//mobigyaan.com/privacy-policy-) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **P** **rivacy Policy**
 
-**Introduction**
+ **Introduction**
 
 MobiGyaan.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices. If you have any questions or comments about our policy, please feel free to contact us.
 
   
-**Personal Information**  
+ **Personal Information**  
 The personal information you enter on MobiGyaan.com is not for sale. Using MobiGyaan.com will not cause you to receive unsolicited email. 
 
 **Third Party Advertising**  
