@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619092015id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218193138id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : ERE.net
+# Privacy Policy - ERE.net
 
 The Electronic Recruiting Exchange is firmly committed to safeguarding your online privacy. Please read the following policy statement, which explains how your personal information will be treated as you make full use of our many free features.
 
