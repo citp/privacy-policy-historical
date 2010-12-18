@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524203437id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218113143id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechSliver
+# Privacy Policy
+
+## [ Privacy Policy ](http://www.techsliver.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 At our website, the privacy of our visitors is of _extreme_ importance to us. This privacy policy document outlines the types of personal information is received and collected by our website and how it is used.
 
