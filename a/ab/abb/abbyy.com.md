@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617053726id_/http%3A//www.abbyy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbyy.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218032653id_/http%3A//www.abbyy.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ At ABBYY, privacy on the Internet means that:
 
 
 
-**_Terms of Use_**. ABBYY values the privacy of those who provide private personal information to the Company. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to information privacy. 
+ ** _Terms of Use_**. ABBYY values the privacy of those who provide private personal information to the Company. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to information privacy. 
 
 _**Information Collection**_. ABBYY only will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that is voluntarily provided through our website or e-mail correspondence. We will collect general information (such as the type of browser used, the files requested, and the domain name and country which requests information) to improve our website and better meet customer needs. 
 
