@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525154507id_/http%3A//www.newharbinger.com/LinkClick.aspx%3Flink%3D241%26tabid%3D241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218015016id_/http%3A//newharbinger.com/LinkClick.aspx%3Flink%3D241%26tabid%3D241) for the most accurate reproduction.*
 
 # Privacy
 
