@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todo.ly privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510142752id_/http%3A//todo.ly/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todo.ly privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218050929id_/http%3A//todo.ly/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Todo.ly
 
