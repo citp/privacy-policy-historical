@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myleadsystempro.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619171531id_/http%3A//www.mlmleadsystempro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleadsystempro.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218062334id_/http%3A//www.mlmleadsystempro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO™
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
+This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for the website that linked you here. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future.
 
 By using our services or submitting information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to provide our services. Similarly, we need you to provide accurate personal information so that you can be contacted and use our website and related services. You can opt-out and decide not to provide the requested personal information. However, by doing so, we will not be able to contact you and you will not be able to use our website and/or services.
 
@@ -25,4 +25,4 @@ Upwards Enterprises, LLC
 8605 Santa Monica Blvd #32665  
 Los Angeles, California 90069
 
-This privacy policy is effective as of May 1, 2009.
+This privacy policy is effective as of Sept 7, 2010.
