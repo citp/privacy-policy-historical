@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realestateview.com.au privacy policy that was archived on 2008-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080519182634id_/http%3A//www.realestateview.com.au/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateview.com.au privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218040457id_/http%3A//www.realestateview.com.au/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Real Estate View
+# Real Estate Australia on realestateview.com.au - Australian property listings
 
 ## realestateview.com.au Limited
 
@@ -21,7 +21,7 @@ The following statement sets out:
 
 ### For what purposes do we collect personal information?
 
-We only collect personal information about you for the purpose of delivering and improving the site and the services we provide. Generally, those services relate to advertising real estate, and any other services such as finance, conveyancing, removalist services, property maintenance and any other related real estate service.
+We only collect personal information about you for the purpose of delivering and improving the site and the services we provide and to enhance and develop our relationship with you. Generally, those services relate to advertising real estate, and any other services such as finance, conveyancing, removalist services, property maintenance and any other related real estate service.
 
 ### When do we collect personal information?
 
@@ -54,7 +54,7 @@ We only use the information logged by our server for the purpose of statistical 
 
 ### Cookies
 
-We may use a feature of your browser called a 'cookie' to assign a user ID. Cookies identify your computer to our servers when you visit our site. We only use cookies to store the sites or databases that a user has selected. Cookies are not used for any other purpose. You do not need to have configured your browser to enable the accepting or sending of cookies in order to use this site.
+We use a feature of your browser called a 'cookie' to assign a user ID. Cookies identify your computer to our servers when you visit our site. You need to have configured your browser to enable the accepting or sending of cookies in order to use the full functionality of this site. Cookies from third parties, for example banner ads, may also be used, depending on the policies of the third party suppliers of banner ads and other site add-ons. If you do not want information collected through the use of cookies, you may be able to change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not.
 
 ### Search terms
 
@@ -102,6 +102,8 @@ Some of the ways we protect personal information include:
 
 
 
+The internet is not a secure environment. If you use the internet to send us any information, including your email address, it is sent at your own risk.
+
 ### We will correct inaccurate information
 
 We rely on the personal information we hold in conducting our business. Therefore, it is very important that the information we hold is accurate, complete and up-to-date.
@@ -116,7 +118,7 @@ You may gain access to the information that we have collected about you, by cont
 
 ### Third party web sites
 
-This site contains links to other sites which are owned or operated by third parties independent of us. Those owners or operators are responsible for informing you about their security and privacy practices. We are not responsible for the privacy practices or the content of any sites linked to our site.
+This site contains links to other sites which are owned or operated by third parties independent of us. Those owners or operators are responsible for informing you about their security and privacy practices. We are not responsible for the privacy practices or the content of any sites linked to our site. Therefore, prior to disclosing your personal information on any other website, we recommend that you review the terms and conditions of use for that website and its privacy statement.
 
 ### Resolving concerns
 
