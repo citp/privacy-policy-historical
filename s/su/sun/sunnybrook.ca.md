@@ -1,10 +1,25 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528010306id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218174226id_/http%3A//www.sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
 
-# Privacy & Confidentiality - Sunnybrook Health Sciences Centre
+# Privacy & Confidentiality - Sunnybrook Hospital
 
-Sunnybrook Health Sciences Centre is responsible for personal health information under its control and is committed to a high standard of privacy for their information practices. We are committed to ensuring that staff and patients understand the importance of privacy rights and obligations. The Personal Health Information Protection Act (PHIPA) balances an individual's right to privacy with the need of health care providers to access and share this information. PHIPA gives an individual the ability to control how his/her own personal health information is collected, used and disclosed. 
+At Sunnybrook Health Sciences Centre, we are responsible for personal health information under our control and are committed to a high standard of privacy for our information practices. We are committed to ensuring that staff and patients understand the importance of privacy rights and obligations.
 
-At Sunnybrook we collect personal health information about you directly from you or from the person acting on your behalf. The personal health information we collect may include, for example, your name, date of birth, address, health card number and extended health insurance numbers, health history, records of your visits to Sunnybrook and the care that you received during those visits. Occasionally, we collect personal health information about you from other sources, if we have obtained your consent to do so or if the law permits.
+The Personal Health Information Protection Act (PHIPA) balances an individual's right to privacy with the need of health care providers to access and share this information. PHIPA gives an individual the ability to control how his/her own personal health information is collected, used and disclosed. 
+
+At Sunnybrook we collect personal health information about you directly from you or from the person acting on your behalf.
+
+This information may include, for example:
+
+  * Name
+  * Date of birth
+  * Address
+  * Health card & extended health insurance numbers
+  * Health history
+  * Records of your visits to Sunnybrook and the care that you received during those visits. 
+
+
+
+Occasionally, we collect personal health information about you from other sources, if we have obtained your consent to do so or if the law permits.
 
   * Providing health care or assisting in providing health care to an individual;
   * Planning or delivering patient care programs or services funded by Sunnybrook;
