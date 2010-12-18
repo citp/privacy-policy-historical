@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625002040id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218030118id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Links
 
 **Privacy Policy Statement For Free Links**
 
-This is the web site of Christopher Logan. 
+This is the web site of FREELINKS.COM LLC. 
 
 Our postal address is  
-PO Box 2453  
-Silverthorne, CO 80498-2453
+2719 Floral Trl  
+Long Beach, IN 46360
 
-We can be reached via e-mail at webmaster@freelinks.com. 
+We can be reached via e-mail at freelinksllc@gmail.com. 
 
 For each visitor to our web page, our web server does not automatically recognize any information regarding the visitor's domain or e-mail address. 
 
