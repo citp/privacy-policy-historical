@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621081141id_/http%3A//www.hclibrary.org/index.php%3Fpage%3D464) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218110304id_/http%3A//hclibrary.org/index.php%3Fpage%3D464) for the most accurate reproduction.*
 
 # Howard County Library - Privacy Statement
 
@@ -6,9 +6,16 @@ Privacy Statement
 
 * * *
 
+Donations to Howard County Library  
 Howard County Library (HCL) has partnered with BB&T (and their payment provider Authorize.Net) to securely process your online credit card donation. While we use personal information (such as name, address, phone, email address, organization name, credit card number, and transaction identification) required to complete and review the transaction, **we do not store credit card information** since we currently process transactions on a one-time basis exclusively. Review Authorize.Net's privacy policy at [www.authorize.net/company/privacy](http://www.authorize.net/company/privacy).
 
-Your credit card statement will list Howard County Library.  
+Your credit card statement will list Howard County Library.
+
+Memberships to Friends of Howard County Library  
+The Friends of Howard County Library (Friends of HCL) has partnered with e-tapestry (and their payment provider IATS) to securely process your online credit card donation.  We use personal information (such as name, address, phone, email address, organization name, credit card number, and transaction identification) required to complete and review the transaction.  Review IATS privacy policy at <http://www.iatspayments.com/english/privacy_policy.html>.
+
+Your credit card statement will list Friends of HCL.
+
   
 How We Protect Your Privacy  
 _Effective Date: January 8, 2010_
