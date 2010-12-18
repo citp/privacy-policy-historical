@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603030156id_/http%3A//kia-buzz.com/%3Fpage_id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165933id_/http%3A//kia-buzz.com%3Fpage_id%3D17%26PHPSESSID%3De9584df31129b9c144d2e6bd00ea3779) for the most accurate reproduction.*
 
 # Privacy Policy
 
