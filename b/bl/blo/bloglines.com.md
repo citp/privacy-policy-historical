@@ -1,53 +1,59 @@
-> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529072215id_/http%3A//www.bloglines.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218150806id_/http%3A//bloglines.com/about/privacy) for the most accurate reproduction.*
 
 # Bloglines | Privacy Policy
 
 ## Privacy Policy
 
-Respecting users' privacy is important to Bloglines. Read this page to learn about personal information that Bloglines collects and how it may be used. 
+At MerchantCircle we want to keep offering you outstanding value so that you continue to use our services. We believe you should be able to share and collaborate on our platform and use our Service in a secure hosted environment. 
 
-If you have any questions please contact [Bloglines user support](http://www.bloglines.com/contact). 
+Because we want you to understand the collections and uses of data that are necessary and possible on the MerchantCircle platform and with the services, and to show our respect for your privacy, we have established this privacy policy. We reserve the right to change this Statement and will provide notification of any material change via a posting to the merchantcircle.com website. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. You may contact us with any questions pertaining to this policy at [privacy@merchantcircle.com](mailto:privacy@merchantcircle.com). 
 
-## What Information Is Collected?
+## Collected Information
 
-We may collect information from you through our website, when you download our products, and when you purchase or register for our service. Below are the specific details on what, where, when, and why this information is collected and how it is used. 
+MerchantCircle may collect and process information that you voluntarily communicate to us in order to access or use our Service. The registration process, we collect registration information from our users, including name, user name, and password, contact information such as email, address and telephone number, contact lists and billing information such as credit card number. Each of these different types of information is used to provide the MerchantCircle service. Registration information is used to authenticate users and recall their merchant sites, contact information is used to provide information on service updates, and billing information is used to charge for our services. 
 
-## Registration
+In the operation of the MerchantCircle service, we collect and store merchant and consumer information in order to provide couponing and other connection services. This data is gathered from a variety of sources and enables us to prepare merchant sites, provide services to consumers with minimal data entry, and verify that sites are validly controlled by those who claim to represent businesses. MerchantCircle will continue to make your data available to you on the MerchantCircle platform as long as you are a user according to the terms and conditions of the MerchantCircle Terms of Service. Please consult that agreement as well as this policy to understand your rights and responsibilities as a user of the MerchantCircle platform. 
 
-The term "personally identifiable information" means any information that may be used to identify you, including, but not limited to, your name, address, email address, Internet Protocol address, phone number, billing information, or other contact information. You may be asked for certain personally identifiable information when registering for or accessing a particular product or service. We do not share this information with any third parties. 
+MerchantCircle may also collect and analyze from visitors and users certain information regarding the use of MerchantCircle's services and MerchantCircle site activity. Information collected may include, but is not limited to origin of connection (ISP), IP address, web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc. This information is logged to help diagnose technical problems, administer the site, and improve the quality and types of service delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the actions of our visitors and customers to third parties in order to demonstrate the value we deliver to users and maintain the service we provide. 
 
-## Bloglines Database
+## Shared Information
 
-Bloglines is used to subscribe to news feeds. We store this subscription information in our database. We use this information in aggregate to generate statistics and other usage information. We share this information with you, other end users, and other third parties. 
+We may share your personal or business information as described below: 
+
+Affiliated Businesses We Do Not Control: We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate stores at our website, sell items to you through the website or offer you products or services that may be of interest to you. In other situations, MerchantCircle may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with a particular opportunity or transaction, and we will share user information that is related to such opportunity or transaction with that affiliated business. 
+
+Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, MerchantCircle's agents do not have any right to use personal information we share with them beyond what is necessary to assist us. 
+
+Business profiles: Business profile information including business name, address, phone number and email address is displayed to users publicly in connection with our service. As part of our website and our services, you will receive from MerchantCircle and other users and partners of MerchantCircle email and other communication relating to your business and/or the products and services you offer. You may also, from time-to-time, receive promotional emails from MerchantCircle partners. Please see the “Communication Preferences” section below for details. 
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if MerchantCircle, or substantially all of its assets were acquired, or in the unlikely event that MerchantCircle goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of MerchantCircle may continue to use your information as set forth in this policy. 
+
+Protection of MerchantCircle and Others: We may release personal and business information when we believe in good faith that release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of MerchantCircle, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection. With Your Consent: Except as set forth above, you will be notified when your personally identifiable individual information may be shared with third parties, and will be given the option to prevent the sharing of this information. 
 
 ## Cookies
 
-Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain Bloglines service. 
+MerchantCircle uses cookies to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID cookies are used to identify unique visitors to our sites and to provide you with easy access to your files. In addition, MerchantCircle may use third-party advertising companies to serve ads and send cookies to your computer. Such cookies may be used to tailor content, goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
-## Use of Contractors
+## Third Party Sites
 
-We may retain the service of outside contractors to perform services on our behalf (for example, to help provide technical support services or deliver new products or services). At times, we must disclose relevant personally identifiable information about you to our contractors so they may provide these specific services for us. We require our contractors to keep this information confidential and to only use the information on our behalf. 
+MerchantCircle sites are collaborative, and may contain links to multiple third party sites on the Internet, including many that have different privacy and security policies and practices than MerchantCircle. MerchantCircle makes no representations or warranties about and is not responsible for the policies and practices of sites that are linked to by MerchantCircle or its users. We urge you to consult the policies available on those sites to further understand their practices. 
 
-## Email Communications
+## Security
 
-Periodically, we may send email to you if you have indicated a preference to receive news, updates, special offers, and other information relating to our service. You may unsubscribe from these email subscriptions at the profile web page for your account on our website. 
+MerchantCircle has implemented processes designed to protect user information and maintain security. Each registered user is assigned a unique user name and password, which is required to access their user information. It is the user's responsibility to protect the security of their login information. MerchantCircle's servers are located in secure server environments. Firewalls and other security technologies are employed to prevent interference or access from outside intruders, however, MerchantCircle cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. 
 
 ## Updating Your Information
 
 If you desire to change or modify any of the information that you have previously provided to us, you may do so at the Account web page for your account on our website. 
 
-## Children
+## Accessing, Correcting and Revising Registration and Contact Information
 
-Our service are intended solely for persons 13 years of age and older. If you are under the age of 13 you may not access or use our service. By using our service you represent and warrant to us that you are 13 years of age or older. 
+If you need to update or change your registration information, you may so by editing your user record on the MerchantCircle service. To update your record, log on to the MerchantCircle system and select the available site management pages. If you choose to cancel your account and leave the MerchantCircle service, please be aware that MerchantCircle may for a time retain residual information in our backup and/or archival copies of our database. 
 
-## Links to Third Party Web Sites
+## Information Regarding Children
 
-Our service may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order o understand their privacy and information collection practices. 
+As a business service, MerchantCircle does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age. 
 
-## Disclosures Required by Law
+## Communication Preferences
 
-We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or when we believe disclosure is necessary to protect or enforce our rights or the rights of another user. 
-
-## No Error-Free Performance
-
-We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy. 
+As part of the MerchantCircle Service, you may receive email and/or telephone communications from time-to-time. These communications may include, but are not limited to, system-generated emails about your account, third party offers and marketing messages. To stop receiving marketing emails from MerchantCircle, visit [www.merchantcircle.com/optout.](https://web.archive.org/web/20101218150806id_/http://www.bloglines.com/about/privacy/www.merchantcircle.com/optout) Some service-related communications are not subject to opt-out. Review our Terms of Service for more information at [www.merchantcircle.com/corporate/tos.html.](https://web.archive.org/web/20101218150806id_/http://www.bloglines.com/about/privacy/www.merchantcircle.com/corporate/tos.html) Effective date: 8/31/05 
