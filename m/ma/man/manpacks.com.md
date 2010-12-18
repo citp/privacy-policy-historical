@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331193959id_/http%3A//manpacks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165207id_/http%3A//manpacks.com/about/privacy) for the most accurate reproduction.*
 
-# Manpacks - Simplify the basics
+# About Manpacks, a subscription service for your socks, t-shirts and underwear
 
-## Here at Manpacks we take your privacy very seriously. 
+## Your Privacy
+
+### Here at Manpacks we take your privacy very seriously. 
 
 We collect information in order to:
 
