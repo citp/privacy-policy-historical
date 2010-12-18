@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the colemanfurniture.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518175312id_/http%3A//www.colemanfurniture.com/article.asp%3Fpage_ID%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colemanfurniture.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218044820id_/http%3A//www.colemanfurniture.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Coleman Furniture.com
 
-**_Privacy Statement_**
-
-Coleman Furniture is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coleman Furniture Web site and governs data collection and usage. By using the Coleman Furniture website, you consent to the data practices described in this statement.
+is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coleman Furniture Web site and governs data collection and usage. By using the Coleman Furniture website, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
