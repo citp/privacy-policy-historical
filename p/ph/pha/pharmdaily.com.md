@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmdaily.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424220240id_/http%3A//www.pharmdaily.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmdaily.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218152039id_/http%3A//pharmdaily.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # PharmDaily.com | Privacy Policy
 
