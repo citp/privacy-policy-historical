@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626181303id_/http%3A//www.nature.org/aboutus/misc/%3Fsrc%3Df6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218194016id_/http%3A//www.nature.org/aboutus/misc/%3Fsrc%3Df6) for the most accurate reproduction.*
 
 # About The Nature Conservancy - The Nature Conservancy's Privacy Policy - Online Privacy Statement
 
