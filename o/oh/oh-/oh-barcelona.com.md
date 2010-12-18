@@ -1,32 +1,8 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105929id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218055806id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
 
 # Privacy statement of Open House Spain S.L.
 
-| 
-
-Open House Spain, S.L. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.oh-barcelona.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  If users have questions or concerns regarding this statement, they should first contact Jörg Lahmann by:
-
-Phone: +34 93 467 37 79  
-Fax : + 34 93 467 37 62  
-Email: 
-
-[_info@oh-barcelona.com_](mailto:info@oh-barcelona.com)
-
-Postal Address: Open House Spain, S.L.  
-Roger de Lluria 50, 1  
-08009 Barcelona  
-SPAIN  
-
-
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([ _http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php)).TRUSTe will serve as a liaison with the Web site to resolve users concerns.
-
-**This statement was last updated on 25/05/2007**
-
-Open House Spain S.L. is the sole owner of the information collected on the oh-barcelona.com website. Acceding to present privacy policies, OPEN HOUSE SPAIN, S.L. would like to inform users of its web, in accordance with Regulation 15/1999 of 13 Decemeber 1999 of the Protection of Information of Personal Stature, about our policy of protection of personal information.
-
-** PRIVACY STATEMENT - accommodation bookings in Barcelona**
-
-INDEX  
+Index  
 1\. _Information Collection_  
 2\. _Information Use_  
 3\. _Communications from the Site_   
@@ -89,7 +65,7 @@ We communicate with users on a regular basis to provide requested services and w
 
 * * *
 
-We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (marketing2@oh-barcelona.com). You can also opt-out by calling us at phone: +34 93 467 37 82. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication.
+We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (info@openhousespain.com). You can also opt-out by calling us at phone: +34 93 467 37 82. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication.
 
 **Links**
 
