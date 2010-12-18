@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the resellitforprofit.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223185611id_/http%3A//resellitforprofit.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellitforprofit.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218043656id_/http%3A//resellitforprofit.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Get your own Privacy Policy [here](http://www.prioritydigital.com/)! 
 
 **RESELL IT FOR PROFIT  
 
 
 ## PRIVACY POLICY
 
-**Welcome to Resell It For Profit (the "Site").
+**
+
+Welcome to Resell It For Profit (the "Site").
 
 We understand that privacy online is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
@@ -38,6 +42,8 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 **Are Cookies Used on the Site?**  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
 **How does Resell It For Profit use login information?**  
 Resell It For Profit uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
@@ -67,5 +73,4 @@ This Site is not directed at children. Visitors and Authorized Customers are req
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
 © 2007 **Resell It For Profit** , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)! 
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
