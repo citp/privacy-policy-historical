@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325030721id_/http%3A//gofiveguys.com/FAQ/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218035309id_/http%3A//gofiveguys.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,9 +72,9 @@ You may contact the Privacy Officer to access, correct or delete your Personal I
 
 If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [admins@gomobo.com](mailto:admins@gomobo.com); or by mail at:
 
-> Mobo Systems, Inc.  
+> GoMobo  
 >  84 Wooster St.  
->  Ground Floor  
+>  Suite 301  
 >  New York, NY 10012 USA  
 >  Attn: Privacy Officer 
 
