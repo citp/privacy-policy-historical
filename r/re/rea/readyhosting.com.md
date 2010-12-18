@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618113256id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218195409id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # ReadyHosting's Privacy Policy
 
@@ -18,8 +18,6 @@
 |     [Affiliate Agreement](https://web.archive.org/affiliate/affiliateagreement.bml)  
 |     [Referral Program Agreement](https://web.archive.org/referral/referral_tos.bml)  
   
-  
-|    
 
 
 Your privacy is very important to ReadyHosting ("ReadyHosting"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
@@ -68,7 +66,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   14. **ReadyHosting's Commitment to Data Security.** Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts.
   
 
-  15. **How to Access or Modify Your Information.** To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact ReadyHosting Support by phone or through our online support form.
+  15. **How to Access or Modify Your Information.** To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact ReadyHosting Support by phone or through our online support form.
   
 
   16. **Where to Direct Questions About ReadyHosting's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, ReadyHosting, 70 Blanchard Road 3rd Floor, Burlington, MA 01803 or support@readyhosting-inc.com.
@@ -111,5 +109,6 @@ Please note: ReadyHosting reserves the right to send e-mail communications relat
   20. **Revisions to This Policy.** ReadyHosting reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: January 2020   
 
+
+This file was last modified September 8, 2010.
