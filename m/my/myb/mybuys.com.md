@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605180324id_/http%3A//www.mybuys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219003508id_/http%3A//mybuys.com/privacy) for the most accurate reproduction.*
 
 # MyBuys - Privacy
 
