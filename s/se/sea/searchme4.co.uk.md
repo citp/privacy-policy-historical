@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618131707id_/http%3A//www.searchme4.co.uk/Public/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218044740id_/http%3A//www.searchme4.co.uk/Public/Privacy.aspx) for the most accurate reproduction.*
 
-# SearchMe4 | www.searchme4.co.uk
+# Business Directory, Business Directories, Business Search, UK
 
 Business Name: Business Type: Location:
 
