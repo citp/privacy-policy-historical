@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618130022id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218043014id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Fodors.com Privacy Policy
 
