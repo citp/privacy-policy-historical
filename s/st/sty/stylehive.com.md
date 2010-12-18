@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylehive.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618125151id_/http%3A//blog.stylehive.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylehive.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218035136id_/http%3A//blog.stylehive.com/index.php/privacy) for the most accurate reproduction.*
 
 # Stylehive - Privacy Policy
 
