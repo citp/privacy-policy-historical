@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312000750id_/http%3A//michiganbulb.com/article.asp%3Fai%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218083435id_/http%3A//michiganbulb.com/article.asp%3Fai%3D131) for the most accurate reproduction.*
 
 # <b>Michigan Bulb Company Privacy Policy</b>
 
@@ -47,7 +47,9 @@ There may be times (such as when you place an order, sign up to receive catalogs
 
 **Using Information About You**
 
-Gardens Alive! Brands will use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order or registration, analyzing trends and statistics, informing you of our products, services and special offers, and providing you with information from and about Gardens Alive! Brands. From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Marketing Partners. In the course of such business relationships we might share and cross-reference information, including personally identifiable information about you, that will enable such persons or entities to contact you regarding products and services that may be of interest to you. 
+Gardens Alive! Brands will use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order or registration, analyzing trends and statistics, informing you of our products, services and special offers, and providing you with information from and about Gardens Alive! Brands. Our brands are[ Gardens Alive](http://gardensalive.com/), [ Audubon Workshop](http://audubonworkshop.com/), [New Holland Bulb](http://newhollandbulb.com/), [ Spring Hill Nursery](http://springhillnursery.com/), [ Annual Flower Store](http://annualflowerstore.com/), [ Iris Lovers](http://irislovers.com/), [ Daylily Lovers](http://day-lily.com/), [ Gurneys](http://gurneys.com/), [ Tomato and Pepper Plants](http://tomatoandpepperplants.com//), [ Vegetable and Flower Seeds](http://vegetableandflowerseeds.com/), [ Henry Fields](http://henryfields.com/), [ Brecks](http://brecks.com/), [ Michigan Bulb Company](http://michiganbulb.com/), [ TouchStone](http://touchstonecatalog.com/), [ RSH](http://rshcatalog.com/), [ Bits and Pieces](http://bitsandpieces.com/), [ The Paragon](http://theparagon.com/), [ Images Of America](http://imagesofamericacatalog.com/) & [Thompson & Morgan](http://www.tmseeds.com/). 
+
+From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Marketing Partners. In the course of such business relationships we might share and cross-reference information, including personally identifiable information about you, that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
 
 To serve you better, we may combine information you give us online, over the phone or through the mail. We may also combine that information with publicly available information and information we receive from our Marketing Partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and special offers that may be of interest to you, and for other promotional purposes. 
 
@@ -95,7 +97,12 @@ From time to time, it may become necessary for us to change our privacy policy i
 
 If you would like to give us your feedback regarding our privacy policy and practice, please do so by emailing us or writing to us at Gardens Alive! Brands, Marketing Dept., 110 W Elm Street, Tipp City, OH 45371. 
 
-|  |    
+|  | 
+
+**We are now taking orders for Spring 2011.**
+
+  
+  
   
   
   
@@ -103,7 +110,7 @@ If you would like to give us your feedback regarding our privacy policy and prac
 
 * * *
 
-[ ](https://web.archive.org/web/20090312000750id_/http%3A//michiganbulb.com/article.asp?ai=129)   
+[ ](https://web.archive.org/web/20101218083435id_/http%3A//michiganbulb.com/article.asp?ai=129)   
 
 
 * * *
