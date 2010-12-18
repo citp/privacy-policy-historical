@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gorillaz.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629074518id_/http%3A//gorillaz.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillaz.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218164810id_/http%3A//gorillaz.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[](http://www.addthis.com/bookmark.php?v=20)
 
 **PRIVACY  **
 
