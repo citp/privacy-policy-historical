@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531155013id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218150822id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Pitchup.com
+# Privacy policy | Pitchup.com
+
+### Privacy policy
 
 This privacy policy sets out how we will process and use any Personal Information that you provide to us, or that we may collect as a result of visiting Pitchup.com. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
@@ -8,7 +10,9 @@ For the purposes of the Data Protection Act 1998, the identity of our data contr
 
 Any changes to the Pitchup.com privacy policy will be made to this page. Your continued use of the Website will constitute your agreement to the changed Terms.
 
- **INFORMATION WE MAY COLLECT FROM YOU**
+We do not store any financial details such as credit or debit card numbers.
+
+#### Information we may collect from you
 
 We may collect and process the following data (“Personal Information”) about you:
 
@@ -20,7 +24,7 @@ We may collect and process the following data (“Personal Information”) about
 
 (d) Details of transactions you may carry out through our site and of the completion of your orders.
 
- **IP ADDRESSES AND COOKIES**
+####  **IP addresses and cookies**
 
 We may collect information about your computer; this is statistical data concerning your browsing actions enabling us to tailor the site to match your interests and preferences, and does not identify you individually. This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers.
 
@@ -34,13 +38,13 @@ In addition to this we use Google Analytics, a web analytics service provided by
 
 Pitchup.com regards the databases of site visitors’ information (which may include your Personal Information) as a valuable asset. Should Pitchup.com sell or transfer any of Pitchup.com’s business assets this may include the sale or transfer of such databases of information to third parties. Such a transfer or sale may mean that your Personal Information is transferred to countries outside the EEA. In using the Website and accepting the Terms you consent to such use of your Personal Information.
 
- **WHERE WE STORE YOUR PERSONAL DATA**
+#### Where we store your personal data
 
 Any data that we collect from you may be stored at, and transferred to, a destination outside the European Economic Area (EEA). This data may also be processed by staff who operate outside the EEA working for us or one of our suppliers.  In submitting your personal data, you agree to such a transfer and the storing and processing of this data.  To ensure that your data is treated securely and in accordance with this privacy policy we will endeavour to take all reasonable necessary steps in protecting your privacy.
 
 We will do our best to protect your personal data, unfortunately, the transmission of information over the internet is not entirely secure and we cannot guarantee the security of data transmitted to our sites.  Any transmission of data is at your own risk.
 
- **USES MADE OF THE INFORMATION**
+#### Uses made of the information
 
 We may use the information held about you in the following ways:
 
@@ -62,7 +66,7 @@ We may use the information held about you in the following ways:
 
 (i) Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you. We may also also permit selected third parties to provide information on goods and services that may be of interest to you.  If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data. You have the right to revoke such consent by being in touch with Pitchup.com, and Pitchup.com will stop transmitting your information.
 
- **DISCLOSURE OF YOUR INFORMATION**
+####  **Disclosure of your information**
 
 We may disclose your personal information to third parties:
 
@@ -80,19 +84,19 @@ We may disclose your personal information to third parties:
 
 (g) If we are under a duty to comply with any legal obligation to disclose or share your personal data, to protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site.  For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations. ** **
 
- **THIRD PARTY WEBSITES**
+####  **Third-party websites**
 
 From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data. We cannot accept any responsibility or liability for these policies.
 
- **ACCESS TO INFORMATION**
+####  **Access to information**
 
 In accordance with the Act you can exercise the right to access any information we hold about you. 
 
- **CHANGES TO OUR PRIVACY POLICY**
+####  **Changes to our privacy policy**
 
 We will where appropriate notify you by email of any changes made to our privacy policy and these changes will also be posted on this page.
 
- **CONTACT**
+####  **Contact**
 
 We welcome any questions, comments and requests regarding this privacy policy and should be emailed to [managers@pitchup.com](mailto:managers@pitchup.com).
 
