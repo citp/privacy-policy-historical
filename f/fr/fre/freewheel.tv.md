@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124075411id_/http%3A//www.freewheel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewheel.tv privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218033333id_/http%3A//www.freewheel.tv/privacy) for the most accurate reproduction.*
 
 # FreeWheel
+
+## Privacy
 
 This privacy statement (this “Statement”) describes the types of information that FreeWheel Media, Inc. (“FreeWheel” or “we”) collects from users of its corporate Web site ([www.freewheel.tv](http://www.freewheel.tv/)) and the Web site that its customers use to use and access the services FreeWheel provides to its customers ([mrm.freewheel.tv](http://mrm.freewheel.tv/)). This Statement also describes the services that we provide to our customers, including our hosted solution that enables our customers to manage and monetize online video advertising (the "Services"). This Statement also contains our end user opt-out mechanism. Unless otherwise provided in this Statement, this Statement does not cover our offline data practices.
 
   
-This Statement is effective as of the date set forth above. We encourage you to check this Statement from time to time. If we make material changes that will affect any personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to opt-out. Your continued use of this Web Site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at [privacy@freewheel.tv](mailto:privacy@freewheel.tv).
+This Statement is effective as of the date set forth above. We encourage you to check this Statement from time to time. If we make material changes that will affect any personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes[ ](http://google.com/)and to give you the opportunity to opt-out. Your continued use of this Web Site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at .
 
 ## Privacy policy for the FreeWheel Web Sites
 
@@ -13,7 +15,7 @@ You can visit and navigate through our main, corporate Web Site ([www.freewheel.
 
 You may wish to request information about our Services or our company. In order to facilitate the distribution of this content, you will be asked to provide information that could identify you personally, such as your name, company, title, phone number, e-mail address, site name, URL and address. Based on the nature of your request, FreeWheel may also ask for additional information, such as number of page views your site receives, how you anticipate you will make use of our products and services, and how you heard about us. Again, all of this information is provided by you on a voluntary basis only and is not required in order for you to use and enjoy our corporate Web Site.
 
-If you are a customer, you will be required to enter certain information that can identify you personally (such as username and password) in order to access our user interface ([mrm.freewheel.tv](http://www.freewheel.tv/mrm.freewheel.tv)).
+If you are a customer, you will be required to enter certain information that can identify you personally (such as username and password) in order to access our user interface ([mrm.freewheel.tv](http://mrm.freewheel.tv/)).
 
 FreeWheel may use the information that you provide to us to contact you to further discuss your interest in our company and our Services, and to send information regarding our company or partners (such as marketing promotions and events). This information may also be used to improve the Services we provide you. The information is collected and stored in a manner that is appropriate for the nature of the data that we collect and the need to fulfill your request. This information is not shared with third parties for their own use, unless you specifically authorize such sharing.
 
@@ -62,9 +64,6 @@ We provide all visitors to our web site with the opportunity to review, modify a
 If you have any questions about this Statement, the practices of this site, or your dealings with this website, you can contact:
 
 FreeWheel Media, Inc.  
-2 W. Fifth Avenue, Suite 401  
-San Mateo, CA 94402  
+20 E 3rd Avenue  
+San Mateo, CA 94401  
 Attn: FreeWheel Webmaster
-
-
-
