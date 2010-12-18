@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617015428id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218064715id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Search Agency
 
-[](http://www.truste.org/ivalidate.php?url=www.thesearchagency.com&sealid=101)
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.thesearchagency.com/seal_m "Validate TRUSTe privacy certification")
 
 Protecting your privacy is important to us at The Search Agency. The following privacy policy covers The Search Agency's collection, storage, use and disclosure of personal information of our clients and of users of our online services through the "Client Control Center" area of our website located at www.thesearchagency.com and www.thesearchagents.com (the "Site"). For the purposes of this privacy policy, "personal information" or "information" refers to identifying information such as your name, physical address, email address, telephone number, etc. This privacy policy is effective as of December 15, 2009. Please take a moment to read the following to learn about our information collection, storage, use, and disclosure practices.
 
@@ -28,7 +28,12 @@ If you no longer wish to receive our promotional communications, you may opt-out
 When you use widgets to bookmark or share our products and Site, you will be taken to a third party site. These third party sites also collect additional information about third parties such as name and email address. Please note that their privacy policy governs the collection and use of the information collected on those sites.
 
 **Automatic Collection of Information.  
-**Like many websites on the Internet, we employ the use of "cookies" in certain areas of our Site to allow us to provide information which is targeted to Site users and clients' interests. A cookie is a small amount of data that is sent to a user's browser from a Web server and stored on their computer's hard drive. The Search Agency does not allow other companies to deliver cookies to Site users or clients while on the Site. We also use the cookies set in our client's websites in order to gather accurate client site tracking information (e.g. clicks, sign-ups, and revenues). We may link the information we store in cookies to the personally identifiable information you submit while on our Site, including your name and login ID. We use this information in order to provide services to our clients. You are always free to decline any cookies we use, if your browser permits. 
+**Like many websites on the Internet, we employ the use of "cookies" in certain areas of our Site to allow us to provide information which is targeted to Site users and clients' interests. A cookie is a small amount of data that is sent to a user's browser from a Web server and stored on their computer's hard drive. We also use the cookies set in our client's websites in order to gather accurate client site tracking information (e.g. clicks, sign-ups, and revenues). We may link the information we store in cookies to the personally identifiable information you submit while on our Site, including your name and login ID. We use this information in order to provide services to our clients. You are always free to decline any cookies we use, if your browser permits. 
+
+We use third party companies to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+**Web Beacons  
+**Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 **Who is Collecting Your Information?  
 **When you provide information through the Site, the information is transmitted through the Internet and stored on servers that The Search Agency owns and maintains. We do not share the information stored on our server with third parties unless our clients are informed in advance otherwise. 
