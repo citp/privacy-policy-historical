@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921073300id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218130105id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Playgroundonline: online shopping India | buy sports goods, apparel, shoes, health & fitness, Toys & games.
 
@@ -103,7 +103,7 @@ You further agree that you are solely responsible and liable for, and shall inde
 
 **Policy Compliance**
 
-[Playgroundonline.com](http://www.playgroundonline.com/) regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or [Playgroundonline.com's](http://www.playgroundonline.com/) treatment of personal information by contacting us through this Website or by e-mailing to us at [contact@Playgroundonline.com](mailto:contact@Playgroundonline.com). When we receive complaints at this address, it is [ Playgroundonline.com's](http://www.playgroundonline.com/) policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between [Playgroundonline.com](http://www.playgroundonline.com/) and an individual.
+[Playgroundonline.com](http://www.playgroundonline.com/) regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or [Playgroundonline.com's](http://www.playgroundonline.com/) treatment of personal information by contacting us through this Website or by e-mailing to us at [info@Playgroundonline.com](mailto:info@Playgroundonline.com). When we receive complaints at this address, it is [ Playgroundonline.com's](http://www.playgroundonline.com/) policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between [Playgroundonline.com](http://www.playgroundonline.com/) and an individual.
 
 **Disputes**
 
