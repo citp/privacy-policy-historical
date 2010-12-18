@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327163217id_/http%3A//www.topweddingsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218023629id_/http%3A//www.topweddingsites.com/privacy.php) for the most accurate reproduction.*
 
 # TeamWedding.Com Privacy Policy
 
-When you use Team Wedding, Home of Top Wedding Sites, you agree to the terms and conditions listed below, without modification. We may update the terms and conditions of use from time to time.
+When you use Team Wedding, Home of Top Wedding Sites™, you agree to the terms and conditions listed below, without modification. We may update the terms and conditions of use from time to time.
 
 ## The Information Collected and How it is Used
 
@@ -40,4 +40,4 @@ This site gives users options for changing and modifying information previously 
 
 Please contact us by e-mail through our [online contact form.](http://www.topweddingsites.com/contact.php)
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact Top Wedding Sites by e-mail through our [online contact form.](http://www.topweddingsites.com/contact.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact Top Wedding Sites™ by e-mail through our [online contact form.](http://www.topweddingsites.com/contact.php)
