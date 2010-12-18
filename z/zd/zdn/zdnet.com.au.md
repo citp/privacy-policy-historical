@@ -1,66 +1,102 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216053927id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218180813id_/http%3A//www.cnetnetworks.com/editorial/privacy.html) for the most accurate reproduction.*
 
-# Security & Privacy Statement - ZDNet Australia
+# CBS Interactive Privacy Policy Highlights
 
-## About ZDNet Australia’s Privacy Policy
+###  CBS Interactive Privacy Policy Highlights 
 
-At ZDNet Australia we recognise the importance of protecting the privacy of personally identifiable information collected about our customers. We want your on-line experience to be enjoyable and we take care to respect your privacy when you visit our web site. As a member of the Australian Direct Marketing Association (ADMA), we abide by a strict Code of Practice that demands we handle your personal details responsibly.
+#### 
 
-ZDNet Australia is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried out in the course of journalism. ZDNet Australia is exempt from complying with the Privacy Act in relation to journalism activities.
+Note: The CBS Interactive Privacy Policy has been updated effective November 16, 2009. [Click here](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1285 "Click here") for more information about the updates.  
+  
+---  
+| 
 
-ZDNet Australia may, from time to time, review and update this policy to take account of new laws and technology and changes to ZDNet's operations. All personal information held by ZDNet Australia will be governed by ZDNet Australia's most recent policy, posted on the ZDNet Australia site.
+**Scope of Privacy Policy**
 
-ZDNet Australia is a wholly owned subsidiary of CBS Interactive and is part of a world wide network of sites providing information about technology. As such ZDNet Australia also adheres to the policy guidelines set down by CBS Interactive.
+| 
 
-## What is CBS Interactive?
+**Information Collected**  
+  
+---|---  
+  
+CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268 "CBS Interactive Privacy Policy") (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective November 16, 2009, is guided by a core set of [Privacy Principles](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1266 "Privacy Principles") and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
 
-CBS Interactive is a worldwide media company and creator of content environments for the interactive age. CBS Interactive takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CBS Interactive's leading brands--such as CNET, GameSpot, MP3.com and ZDNet--focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe. For more information about the company [click here](http://www.cbsinteractive.com/?tag=cnetfd.ft).
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full01Scope "Read more")
 
-**1\. What personally identifiable information does ZDNet Australia collect?**
+| 
 
-ZDNet Australia's primary goal in collecting personal information is to provide you with the best and most useful content and services. Because ZDNet Australia derives its revenue mainly from advertising, collecting information is essential to keeping our services free to users.
+We collect a variety of information about you, including:
 
-Several of these services and features that ZDNet Australia offers require you to provide us with information as a condition of usage. Some of them include registration on our sites, subscriptions for an e-mail newsletter, access to certain products or services and participation in auctions and message boards.
+· Information you provide directly to a CBS Interactive Web Site.
 
-ZDNet Australia collects personally identifiable information, such as your name, e-mail address, postal address, phone number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
+· Information about your computer and browsing activities on the Web Sites, including through [cookies, web beacons, and other technologies](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1267 "cookies, web beacons, and other technologies").
 
-Once you register with one of our ZDNet sites you are no longer anonymous to us.
+· Information about you from other sources where permitted by law.
 
-**2\. What anonymous information does ZDNet Australia collect?**
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full02Collection "Read more")  
+  
+**Use of Information**
 
-_Cookies_  
-Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the ZDNet Australia site, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser.
+| 
 
-_Web Bugs & Servers_  
-We use electronic images known as Web bugs - sometimes called single-pixel GIFs, transparent GIFs, or clear gifs- that allow us to track general user traffic patterns. ZDNet Australia also automatically receives and records information from our servers and from your browser including your IP address, the time, and information about the page you requested.
+**Disclosure of Information**  
+  
+We use the information we collect to:
 
-We use tracking technologies in a variety of ways, including:
+· Provide the services you request.
 
-  * keeping count of return visits to our site or our advertiser' or partners' sites
-  * accumulate and report anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage
-  * determining which features users like best
-  * saving your password so you don't have to re-enter it each time you visit our sites
+· Tell you about offers we think you will value.
 
+· Customize the content and advertising you see.
 
+· Improve your experience on CBS Interactive Web Sites.
 
-_Third-Party Advertisement Servers_  
-ZDNet Australia uses the DoubleClick DART technology for serving advertisements on its web pages. To view the DoubleClick privacy policy [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp).
+· As otherwise described to you at the point of collection or with your consent.
 
-Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full03Use "Read more")
 
-ZDNet Australia allows a trusted 3rd party utilising anonymous and aggregated data collection. Cookies may be used by this 3rd party to gather statistical information that will assist us in understanding what uses find interesting and useful on our website. These cookies are known as your "Unique Visitor Cookie", a small piece of data, identifying you only by a random number (eg # 12489). No personal information can be identified about the users through cookies.
+| 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We may share your information:
 
-**3\. How does ZDNET Australia use the information?**
+· Where we have obtained your consent.
 
-ZDNet Australia uses the information we gather for four general purposes: 
+· With our third-party service providers.
 
-  * to customise the advertising and content you see, which helps keep our services free to users
-  * to enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you
-  * to fulfil your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in polls, contests, message boards, and auctions
-  * to send you information you agreed to receive about topics we think will be of interest to you
+· With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Web Site.
 
+· Within the family of CBS Interactive Web Sites and other CBS businesses.
 
+· If a CBS Interactive Web Site is sold to another company.
 
-[Next page »](https://web.archive.org/services/privacy/page2.htm)
+· To protect or defend the rights of CBS Interactive or our users.
+
+· When required by law or public authorities.
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full04Disclosure "Read more")  
+  
+**Your Choices**
+
+| 
+
+**Other Information**  
+  
+· If you choose to share contact information with us, you will have the opportunity to update that information.
+
+· You can stop the delivery of commercial email messages from a CBS Interactive Web Site or service by following the instructions in any such email you receive.
+
+· You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of [third-party online advertising](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272 "third-party online advertising").
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full05Choices "Read more")
+
+| 
+
+· CBS Interactive is committed to working with you to obtain a fair resolution of any privacy concern.
+
+· We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
+
+· For more information about our privacy practices, please review the full [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268 "CBS Interactive Privacy Policy").  
+  
+**How to Contact Us**  
+  
+If you have questions regarding the CBS Interactive Privacy Policy, please [contact us](http://cbsiprivacy.custhelp.com/app/ask).
