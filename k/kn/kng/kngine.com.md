@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kngine.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307020326id_/http%3A//kngine.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kngine.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218230232id_/http%3A//kngine.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kngine
 
