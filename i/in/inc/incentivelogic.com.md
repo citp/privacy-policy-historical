@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603033725id_/http%3A//www.incentivelogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218223516id_/http%3A//incentivelogic.com/privacy-policy) for the most accurate reproduction.*
 
-# We Respect Your Privacy | Incentive Logic
+# We Respect Your Privacy & Incentive Logic
 
 ## We Respect Your Privacy
 
@@ -11,7 +11,7 @@ We use the information we gather from our site to improve the service we provide
 **Incentive Logic, Inc.**  
 7835 E. McClain Dr.  
 Scottsdale, Arizona 85260  
-[support@incentivelogic.com](mailto:support@incentivelogic.com)   
+[support@incentivelogic.com](mailto:support@incentivelogic.com)  
 480-776-0800
 
 * * *
