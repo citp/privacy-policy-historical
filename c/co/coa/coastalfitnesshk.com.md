@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coastalfitnesshk.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423174739id_/http%3A//www.coastalfitnesshk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalfitnesshk.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218074920id_/http%3A//www.coastalfitnesshk.com/privacy-policy) for the most accurate reproduction.*
 
-# Coastal Fitness - Personal Trainer & Corporate Fitness Training - Hong Kong - Privacy Policy
-
-## PRIVACY POLICY
+# Privacy Policy : Coastal Fitness HK (Hong Kong)
 
 ### Our commitment to privacy
 
@@ -50,4 +48,4 @@ Payment to Coastal Fitness can be made through cash, cheque or bank transfer. Pa
 
 Trademarks, service marks, product names and company names or logos appearing on coastalfitnesshk.com that are not owned by coastalfitnesshk.com may not be used or distributed without express permission from their owners. There may be links to other websites from the coastalfitnesshk.com website; however, these other websites are not controlled by coastalfitnesshk.com and we are not responsible for any content contained on any such websites or any loss suffered by you in relation to your use of such websites. You waive any and all claims against coastalfitnesshk.com and its directors, employees, affiliates or other representatives regarding the inclusion of links to outside websites or your use of those websites. The content of this website, including but not limited to text, graphics, designs, photographs, are protected by copyrights and other intellectual property rights. Except as expressly provided in these Terms of Use, no part of the website may be copied, reproduced, republished, posted, publicly displayed, transmitted or distributed in any way, without coastalfitnesshk.comâ€™s express prior written consent. This Agreement shall be governed by the laws of Hong Kong SAR, CN.
 
-If you have any questions, concerns, or comments, feel free to send us an email at: info@coastalfitnesshk.com 
+If you have any questions, concerns, or comments, feel free to send us an email at: info@coastalfitnesshk.com
