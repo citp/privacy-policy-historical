@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323004825id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218051401id_/http%3A//smartcruiser.com/privacy) for the most accurate reproduction.*
 
-# SmartCruiser.com: A Discount Cruise Site featuring Discount Cruises and Cruise Deals on Carnival, Celebrity, Cunard, Holland America, Norwegian, Princess, Royal Caribbean, Windstar and more
+# SmartCruiser — A Discount Cruise Site featuring Discount Cruises and Cruise Deals
 
 This privacy statement discloses the privacy practices for Palm Coast Travel. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. We have agreed to advise you of:
 
