@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503085918id_/http%3A//www.ryobi.com.au/getdoc/f571b61e-d20f-4888-aae0-a5b9e706b456/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218235119id_/http%3A//www.ryobi.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Ryobi - Privacy
 
-**WEB SITE PRIVACY POLICY**
-
-Techtronic Industries Australasia Pty Ltd, Ryobi Power Tools (“we”, “us”, “our”, or “Ryobi”) created this Web Site Privacy Policy (“Privacy Policy”) in order to ensure the confidence of visitors and customers (“you” or “your”) of and to our Web site (the “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy. 
+Techtronic Industries Australasia Pty Ltd, Ryobi Power Tools (“we”, “us”, “our”, or “Ryobi”) created this Privacy Policy (“Privacy Policy”) in order to ensure the confidence of visitors and customers (“you” or “your”) of and to our website (the “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy. 
 
 **1\. Types of Information Collected**
 
@@ -51,7 +49,4 @@ or contests.
 
 **  11.    Further Information **
 
-     If you have comments or questions about our Privacy Policy,   
-you may contact us as follows: 
-
-**Customer Service: customer.service@ttibrands.com.au**
+     If you have comments or questions about our Privacy Policy, you may contact us as follows: [**customer.service@ttibrands.com.au**](mailto:customer.service@ttibrands.com.au?subject=Privacy%20Policy%3A%20RYOBI%20Website)
