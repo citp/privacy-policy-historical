@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mybangalore.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619123451id_/http%3A//mybangalore.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mybangalore.com privacy policy that was archived on 2010-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218060058id_/http%3A//www.mybangalore.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,11 +12,15 @@
 	<meta name="keywords" content=""> 
 
 	<link rel="shortcut icon" type="image/ico" href="/site_media/themes/green/images/ico/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="/site_media/themes/green/css/main.css">
+	<link rel="stylesheet" type="text/css" href="/site_media/themes/green/css/main.css?1">
 	<script type="text/javascript" src="/site_media/js/jquery/jquery.js"></script>
 	<script type="text/javascript" src="/site_media/js/general/adbanner.js"></script>
-	<script type="text/javascript" src="http://adbob.com/openx/www/delivery/spcjs.php"></script>
-	<link rel="stylesheet" type="text/css" href="/site_media/themes/green/css/feedback.css">
+	<script type="text/javascript" src="http://d1.openx.org/spcjs.php"></script>
+	<script type="text/javascript">
+		function get_deal_banner(id){
+			$('#'+id).html('False');
+		}
+	</script>
 	  
 </head>  
 <body id="Bangalore" class="yui-skin-sam ">
@@ -26,13 +30,20 @@
         	<div class="hdr_inner">
 				<div id="media_nav">
                     <ul>
-                        <li><a href="/advertise/" title="">Advertise</a></li>
-                        <li><a href="/contact/" title="">Contact</a></li>
-                        <li><a href="/partner/" title="">Partner</a></li>
+                        <li><a href="/advertise/" title="Advertise With Us">Advertise</a></li>
+						<li><a href="/careers/" title="We Are Hiring">Careers</a></li>
+						<li><a href="/investors/" title="Investors">Investors</a></li>
+                        <li><a href="/contact/" title="Contact Us">Contact</a></li>
                     </ul>
                 </div>  
                 <div id="guest_nav">
                     <ul><li><a href="/accounts/signin/">Sign in</a></li><li><a href="/accounts/signup/">Register</a></li>   
+			 <li id="fblogin" class="fb_connect">
+                   <div class="fb_button" id="fb-login" style="_width:60px;">
+        
+                    <a href="#" title="Connect with Facebook" id="fb_login_image" class="fb_login_image">Facebook Connect</a>
+                     </div>
+                   </li>
                     </ul>
                 </div>
 			</div>                
@@ -46,116 +57,136 @@
                         </a>
                     </h1>
                 </div>
-		 	<div id="hdr-search">
+				
+				
+				 <div id="hdr_deal" onclick="window.location.replace('/club/');">
+					<img src="/site_media/themes/green/images/global/banner_400x65-anim.gif"> 
+				</div>
+				
+				
+		 		<div id="hdr-search">
                     <form action="/search/" method="GET">
+                    	
                         <div class="ftr-search-datacntr">
-                            <div class="ftr-search-tfield"><input type="text" id="hdr-search-box" value="" maxlength="41" size="12" name="query"></div>
+                            <div class="ftr-search-tfield"><input type="text" class="placeholder" id="hdr-search-box" value="Search Anything..." maxlength="41" size="12" name="query" onblur="if (this.value == '') { this.className = 'textinput placeholder'; this.value = 'Search Anything...'; }" onfocus="if (this.value == 'Search Anything...') { this.className = 'textinput'; this.value = ''; }"></div>
                             <div class="ftr-search-sicon"><input width="28" height="27" type="image" alt="" src="/site_media/themes/green/images/ico/global_search.gif"></div>
 						</div>
 						                  
                     </form>
-                </div>			
-				<div id="worldcup"><a href="/fifa-worldcup" title="Fifa WorldCup 2010" name="Fifa WorldCup 2010">World Cup</a></div>
-				
-				
+                </div>
+				<!-- div id="worldcup"><a href="/fifa-worldcup" title="Fifa WorldCup 2010" name="Fifa WorldCup 2010">World Cup</a></div -->
             </div>
         </div> <!-- close hdr_main --> 
 		
         	
+<div id="hdr_nav">
+        	<div id="nav_step1">
+                <ul id="main_menu">
+                    <li class=" br_none"><a href="/" title="Home">Home</a></li>
+                    <li class=""><a href="/events/" title="Events">Events</a></li>
+                    <li class=""><a href="/gallery/" title="Gallery">Gallery</a></li>
+                    <li class=""><a href="/movies/" title="Movies">Movies</a></li>
+                    <li class=""><a href="/people/" title="People">People</a></li>
+                    <!--li class=""><a href="/deals/" title="Hot Deals" id="as_deals_li">Hot Deals<span>&nbsp;</span></a></li-->
+					<li class=""><a href="/club/" title="The CLUB" id="as_deals_li">The CLUB<span>&nbsp;</span></a></li>
+                    <li class=""><a href="/offers/" title="Offers" id="as_offers_li">Exclusive Offers<span>&nbsp;</span></a></li>
+                    <li class=""><a href="/classifieds/" title="Classifieds">Classifieds</a></li>
+                    <li class=""><a href="/property/" title="Property" id="as_re_li">Property<span>&nbsp;</span></a></li>
+                    <li class=""><a href="/business/" title="Yellow Pages">Yellow Pages</a></li>
+                </ul>
+			</div>
+            <div id="nav_step2">
+                <ul id="bookmark_menu">
+                	<li class="bmenue_title"><h4>Channels:</h4></li>
+                    <li><a class="nav-on" href="/artandculture/" title="Art &amp; Culture">Art &amp; Culture</a></li>
+                    <li><a href="/food-drinks/" title="Food &amp; Drink">Food &amp; Drinks</a></li>
+                    <!--li><a href="#" title="Nightlife &amp; Parties">Nightlife &amp; Parties</a></li-->
+                    <li><a href="/beauty-fashion/" title="Beauty &amp; Fashion">Beauty &amp; Fashion</a></li>
+                    <li><a href="/health-wellness/" title="Health &amp; Wellness">Health &amp; Wellness</a></li>
+                    <!--li><a href="#" title="Shopping">Shopping</a></li-->
+                    <li><a href="/entertainment/" title="Entertainment">Entertainment</a></li>
+                    <li><a href="/technology/" title="Technology">Technology</a></li>
+                    <li><a href="/education/" title="Education">Education</a></li>
 
-		<div id="hdr_nav">
-            <ul id="main_menu">
-                <li><a id="t_home" class="" href="/" title="">Home</a></li>
-				<li><a id="t_events" class="" href="/events/" title="">Events</a></li>
-				<li><a id="t_movies" class="" href="/movies/" title="movies">Movies</a></li>
-                <li><a id="t_gallery" class="" href="/gallery/" title="">Gallery</a></li>
-				<li><a id="t_buzz" class="" href="/buzz/" title="">Buzz</a></li>
-				<!--li><a id="t_news" class="" href="/news/" title="">News</a></li-->
-                <li><a id="t_cityOffers" class="" href="/offers/" title="">City Offers</a></li>
-                <li><a id="t_localQA" class="" href="/advice/" title="advice">Local Q&amp;A</a></li>
-				<li><a id="t_lifestyle" class="" href="/lifestyle/" title="lifestyle">Lifestyle</a></li>
-                <li><a id="t_artCulture" class="" href="/artandculture/" title="">Art &amp; Culture</a></li>
-                <li><a id="t_forum" class="" href="/forum/" title="forum">Forum</a></li>            
-                <li><a id="t_classifieds" class="" href="/classifieds/" title="classifieds">Classifieds</a></li>
-				<li><a id="t_business" class="" href="/business/" title="business">Business Directory</a></li>
-            </ul>
-        </div>
+                </ul>
+            </div>
+            <div id="nav_step3">
+            	<div class="flt_left">
+                	<span style="color:#000;margin-right:8px;font-weight:bold; ">Explore</span>
+                    <a href="/bookmarks/" title="Bookmarks">Bookmarks</a>
+                    <a href="/buzz/" title="Buzz">Buzz</a>
+                    <a href="/discounts/" title="City Offers">City Offers</a>
+                    <a href="/news/" title="News">News</a>
+                    <a href="/weather-forecast/" title="Weather Forecast">Weather Forecast</a>
+                    <a href="/resources/" title="Resources">Resources</a>
+                    <a href="/localities/" title="Localities">Localities</a>
+                    <a href="/advice/" title="Advice">Advice</a>
+                    <a href="/forum/" title="Forum">Forum</a>
+				</div>                    
+				<div id="nav_right" class="flt_right">
+                	<ul id="subscribe_nav">
+                    	<!--li><a href="#1" target="_blank" title="Mybangalore.com Google Profile"><img src="/site_media/themes/green/images/ico/subscribe_buzz.png" class="fix_ie6png" height="16" width="16"></a></li-->
+                        <li><a id="header_subscribe_facebook_notext" rel="nofollow" href="http://www.facebook.com/mybangalore" title="Become A Fan"><img src="/site_media/themes/green/images/ico/subscribe_facebook.png" class="fix_ie6png" height="16" width="16"></a></li>
+                        <li><a id="header_subscribe_twitter_notext" rel="nofollow" href="http://www.twitter.com/mybangalore" title="Follow Us"><img src="/site_media/themes/green/images/ico/subscribe_twitter.png" class="fix_ie6png" height="16" width="16"></a></li>
+                        <!--li><a id="header_subscribe_email_notext" class="as_news_letter" rel="nofollow" href="#1" title="Get Weekly Alert" onclick="as_cm_lb_show_content('newsletter');return false"><img src="/site_media/themes/green/images/ico/subscribe_email.png" class="fix_ie6png"height="16" width="16"></a></li-->
+						
+						<li id="as_news_letter_li">
+							<a id="header_subscribe_email_notext" class="as_news_letter" title="Get Weekly Alert" rel="nofollow" href="#1" style="position:relative" onclick="return false;"><img src="/site_media/themes/green/images/ico/subscribe_email.png" class="fix_ie6png" height="16" width="16"></a>
+						    <div class="group" id="newsletter_signup">
+									<div id="newsletter" class="tellfriend" style="padding:0px;">
+	<form>	
+		<h4><span style="color:#069;font-weight:bold;font-size:14px">Subscribe Newsletter</span></h4>
+		<h4 id="as_news_heading">Get it delivered on your mobile or email.</h4>
+		<label for="to_news_number">Mobile Number:</label>
+		
+		<p>
+			<input style="width:200px;" type="text" maxlength="10" autocomplete="off" size="10" name="to_news_number" id="to_news_number" class="input_text">
+			<small class="as_news_isNaN" style="display:block">(Eg:9886098860)</small>
+    	</p>
+		
+		<label for="to_number">Email Address:</label>
+		<p>
+			<input style="width:200px;" type="text" autocomplete="off" size="10" name="to_news_email" id="to_news_email" class="input_text">
+			<small class="as_news_isemail" style="display:block">(Eg:yourname@domain.com)</small>
+    	</p>
+		
+		<div class="form_footer">
+			<button type="submit" class="button super green small click_pvnt as_news_submit" onclick="send_newsletter();return false;"><span>Subscribe</span></button>
+			<p id="news_letter_status"></p>
+		</div>
+	</form>
+</div>
+						    </div>                        
+						</li>	
+                        
+						<li><a id="header_subscribe_rss_notext" href="/rss/" rel="nofollow" type="application/rss+xml" title="RSS"><img src="/site_media/themes/green/images/ico/subscribe_rss.png" class="fix_ie6png" height="16" width="16"></a></li>
+						<li id="hdr_subscribe_label">Subscribe:</li>
+					</ul>
+					<div class="clear"></div>
+				</div>
+            </div>            
+</div>    
+
+<style>
+#main_menu li #as_re_li ,#main_menu li #as_offers_li { position:relative }
+#main_menu li #as_re_li span , #main_menu li #as_offers_li span{
+background:transparent url(/site_media/themes/green/images/global/deal_new.png) no-repeat scroll 0 0;
+display:block;
+float:right;
+height:12px;
+margin-top:2px;
+position:absolute;
+right:-14px;
+top:0;
+width:40px;	
+}
+
+</style>
 		
     </div> <!-- close header --> 
 	
 	<div id="content">
     	<div id="content_inner">
-    		
-			<!-- Feedback code begin -->   
-     		<div class="feedback_outer">
-			<div class="feedback_content_holder">
-     			<a href="#" class="call_feedback lb_close fix_ie6png enlarge click_pvnt"></a>
-				<div class="feedback_content">
-				<!-- Put all your contents only inside this "lightbox_content" div -->
-				
-				<!-- Feedback begin -->
-				<div id="feedback_div">
-				<input autocomplete="off" type="hidden" id="fdbk_radio" name="content_id" value="no">
-				<div class="tellfriend" style="padding:0px;">
-				    <h3>Send us your feedback</h3>
-					<form id="fdbk_form" method="post" action="/feedback/">
-						<label for="fdbk_from_name">Your Name:</label>
-						<p>
-							<input type="text" maxlength="15" autocomplete="off" size="30" name="fdbk_name" id="fdbk_name" class="input_text">
-				    	</p>
-						
-						<input type="hidden" name="direct_submit" value="yes" style="border:none;">
-				
-						<label for="fdbk_to_email">Your Email:</label>
-						<p>
-							<input type="text" maxlength="50" size="30" name="fdbk_to_email" id="fdbk_to_email" class="input_text">
-				    	</p>
-						
-						<p>
-							<label id="fdbk_type">Choose one:</label>
-							<input id="s" class="fdbk_radio" type="radio" name="type" value="suggestion" autocomplete="off"> Suggestion 
-							<input id="p" class="fdbk_radio" type="radio" name="type" value="problem" autocomplete="off"> Problem
-						</p>
-						
- 						<p>
-							<label id="fdbk_select_lbl">Section:</label>
-							<select name="topic" id="fdbk_select">
-								<option id="fdbk_option" selected="selected" value="deafult">Select one..</option>
-								<option value="home">Home</option>
-								<option value="events">Events</option>
-								<option value="movies">Movies</option>
-								<option value="gallery">Gallery</option>
-								<option value="buzz">Buzz</option>
-								<option value="cityoffers">City Offers</option>
-								<option value="localq&amp;a">Local Q&amp;A</option>
-								<option value="Lifestyle">Lifestyle</option>
-								<option value="Art&amp;Culture">Art &amp; Culture</option>
-								<option value="Forum">Forum</option>
-								<option value="Classifieds">Classifieds</option>
-								<option value="BusinessDirectory">Business Directory</option>
-								<option value="Others">Others</option>
-							</select>  
-						</p>
-				    
-						<label for="fdbk_msg">Message:</label>
-				        <textarea rows="5" name="fdbk_msg" id="fdbk_msg" cols="30" class="medium field"></textarea>
-						
-						<div class="form_footer">
-							<button type="submit" class="button super green large fdbk_submit"><span>Submit</span></button>
-							<p id="fdbk_status"></p>
-						</div>
-				    </form>
-				</div>
-				</div>
-				<!-- Tell a friend end -->
-				
-				<!-- put your contents only iside "lightbox_content" div -->		
-				</div>			
-			</div>
-			</div>
-			<div class="feedback_background"></div>
-			<!-- Feedback code end -->
-			
     		
 
 <!-- static content inserted start-->
@@ -225,135 +256,23 @@ Karnataka, INDIA</address>
 			<div class="clear"></div>
             <div id="global_footer">
 				
-									<div id="ftr_biz_dir">
-                	<div class="bar">
-                    	<div class="cap">&nbsp;</div>
-                    	<h2>Business directory</h2>
-	 					<form action="/business/" method="get" class="biz_search" name="f_footersearch">
-	 						<input type="hidden" name="search" value="1">
-                            <label for="biz_keyword">Search for</label>
-                            <input name="q" id="biz_keyword" class="field" value="" type="text">
-							<label for="biz_locality">Near</label>
-                            <input name="location" id="biz_locality" class="field" type="text" value="">                            
-                           	<a id="" class="btn_blue" href="#ftr_biz_dir" onclick="window.document.f_footersearch.submit();"><span>Search</span></a>
-                        </form><!--/biz_search-->
-                    </div>
-                    <div class="bar boot"></div><!--/bar-->
-                	<div id="ftr_biz_dir_nav">
-                        <div class="col_114 first">
-                            <h3>Shopping</h3>
-                            <ul>
-                            	<li><a href="/business/apparels/">Apparels</a></li>
-                                <li><a href="/business/accessories/">Accessories</a></li>
-                                <li><a href="/business/consumer-electronics/">Consumer Electronics</a></li>
-                                <li><a href="/business/supermarket/">Supermarket</a></li>
-                                <li><a href="/business/music-books/">Music &amp; Books</a></li>
-                                <li><a href="/business/shopping-others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114-->
-                        <div class="col_114">
-                            <h3>Food &amp; Drinks</h3>
-                            <ul>
-                                <li><a href="/business/restaurant/">Restaurants</a></li>
-                                <li><a href="/business/pubs-lounges/">Pubs &amp; Lounges</a></li>
-                                <li><a href="/business/coffee-shops/">Coffee Shops</a></li>
-                                <li><a href="/business/ice-cream-parlors/">Ice-cream Parlors</a></li>
-                                <li><a href="/business/wine-shops/">Wine Shops</a></li>
-								<li><a href="/business/food-drink-others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114-->
-                        <div class="col_114">
-                            <h3>Entertainment &amp; Arts</h3>
-                            <ul>
-                                <li><a href="/business/theatres-multiplexes/">Theatres &amp; Multiplexes</a></li>
-                                <li><a href="/business/amusement-parks/">Amusement Parks</a></li>
-                                <li><a href="/business/game-parlors/">Game Parlors</a></li>
-                                <li><a href="/business/art-galleries/">Art Galleries</a></li>
-                                <li><a href="/business/arts-institutes/">Arts institutes</a></li>
-								<li><a href="/business/arts-others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114-->
-                        <div class="col_114 first">
-                            <h3>RealEstate</h3>
-                            <ul>
-                            	<li><a href="/business/real-estate-agents/">RealEstate Agents</a></li>
-                                <li><a href="/business/real-estate-builders/">RealEstate Builders</a></li>
-                                <li><a href="/business/interior-designers/">Interior Designers</a></li>
-                                <li><a href="/business/construction-materials/">Construction Materials</a></li>
-                                <li><a href="/business/realestate-others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114-->
-                        <div class="col_114">
-                            <h3>Home &amp; Garden</h3>
-                            <ul>
-                                <li><a href="/business/household-products/">Household Products</a></li>
-                                <li><a href="/business/household-services/">Household Services</a></li>
-                                <li><a href="/business/home-appliances/">Home Appliances</a></li>
-                                <li><a href="/business/repairs-services/">Repairs &amp; Services</a></li>
-                                <li><a href="/business/furniture-interiors/">Furniture &amp; Interiors</a></li>
-                                <li><a href="/business/home-garden-others/">Others</a></li> 
-                            </ul>
-                        </div><!--/col_114-->
-                        <div class="col_114">
-                            <h3>Automotives</h3>
-                            <ul>
-                                <li><a href="/business/new-vehicle-dealers/">New Vehicle Dealers</a></li>
-                                <li><a href="/business/used-vehicle-dealers/">Used Vehicle Dealers</a></li>
-                                <li><a href="/business/spares-accessories/">Spares &amp; Accessories</a></li>
-                                <li><a href="/business/driving-schools/">Driving Schools</a></li>
-                                <li><a href="/business/service-station/">Service Station</a></li>
-                                <li><a href="/business/automotive-others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114-->                                                
-                        <div class="col_114">
-                            <h3>Accommodation</h3>
-                            <ul>
-                                <li><a href="/business/hotels/">Hotels</a></li>
-                                <li><a href="/business/service-apartments/">Service Apartments</a></li>
-                                <li><a href="/business/resorts/">Resorts</a></li>
-                                <li><a href="/business/hostels/">Hostels</a></li>
-                                <li><a href="/business/pg-accommodation/">PG Accommodation</a></li>
-                                <li><a href="/business/others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114--> 
-                        <div class="col_114 last">
-                            <h3>Health Care</h3>
-                            <ul>
-                                <li><a href="/business/beauty-products/">Beauty Products</a></li>
-                                <li><a href="/business/medical-shops/">Medical Shops</a></li>
-                                <li><a href="/business/meditation-centers/">Meditation Centers</a></li>
-                                <li><a href="/business/spas-saloons/">Spas &amp; Saloons</a></li>
-                                <li><a href="/business/fitness-centers/">Fitness Centers</a></li>
-                                <li><a href="/business/health-care-others/">Others</a></li>
-                            </ul>
-                        </div><!--/col_114-->
-                        <ul class="text_link lst_group">
-                            <li><a href="/business/" class="text_link first">Browse all categories</a></li>
-                            <li><a href="/company/?view=addbusiness" class="text_link">List your business</a></li>
-                        </ul>
-                       <!--<a href="#" class="btn_green"><span>List your business</span></a>-->
-                       <div class="clear"></div>
-                    </div><!--/ftr_biz_dir_nav-->
-            	</div><!--/ftr_biz_dir-->
-				
-				
 			
             	
             	<div class="section_links_box thick_divider">
                     <div id="toolbar_weather">
-                      <p><a href="#" class="icon"><img id="weatherImage" src="" alt="Overcast" width="52" height="52" class="fix_ie6png"></a>
-                        <a href="#">°C <span class="conditions"></span></a></p>
-                      <p class="forecast"><a href="#">weather forecast</a></p>
+                      <p><a href="javacript:void(0);" class="icon"><img id="weatherImage" src="/site_media/images/weather/93/30.png" alt="Overcast" width="52" height="52" class="fix_ie6png"></a>
+                        <a href="javacript:void(0);">22°C <span class="conditions">Partly Cloudy</span></a></p>
+                      <p class="forecast"><a href="javacript:void(0);">weather forecast</a></p>
 					 </div>
  					<ul class="section_links lst_group">
                         <li><strong>Resources</strong></li>
-                        <li><a href="#" class="first">Emergency Services</a></li>                        
-                        <li><a href="#">Transport</a></li>
-                        <li><a href="#">Tourism</a></li>
-                        <li><a href="#">Train Timings</a></li>
-                        <li><a href="#">Government</a></li>
-                        <li><a href="#">Pin Codes</a></li>
-                        <li><a href="#">Misc</a></li>                        
+                        <li><a href="/resources/emergency-services/" class="first">Emergency Services</a></li>                        
+                        <li><a href="/resources/transport/">Transport</a></li>
+                        <li><a href="/resources/tourism/">Tourism</a></li>
+                        <li><a href="/resources/train/bangalore-cty/">Train Timings</a></li>
+                        <li><a href="/resources/misc/#governmental_org">Government</a></li>
+                        <li><a href="/resources/misc/#pincode">Pin Codes</a></li>
+                        <li><a href="/resources/misc/">Misc</a></li>                        
                     </ul><!--/section_links-->
  					<ul class="section_links lst_group">
                         <li><strong>Localities</strong></li>
@@ -377,13 +296,14 @@ Karnataka, INDIA</address>
                     </ul><!--/section_links-->                                                   	
 				</div><!--/section_links_box-->
 				<div class="company_links_box">	
-                    <p class="company_links"><a href="/advertise/">Advertise</a> with us, send us <a href="/contact/">Suggestions</a>, work for us <a href="/hiring/reporter/">We are Hiring</a>, visit our <a href="http://blog.doublespring.com">Blog</a> and find more about <a href="/about/">MyBangalore</a>.</p><!--/company_links-->
+                    <p class="company_links"><a href="/advertise/">Advertise</a> with us, send us <a href="/contact/">Suggestions</a>, work for us <a href="/careers/">We are Hiring</a>, visit our <a href="http://blog.doublespring.com">Blog</a> and find more about <a href="/about/">MyBangalore</a>.</p><!--/company_links-->
                     <ul class="online_links lst_group">
-                        <li><a href="#" class="first">Newsletters </a></li>
-                        <li><a href="#">SMS Alert</a></li>
+                    	<li><a href="/sitemap/" class="first">Sitemap</a></li>
+                        <li><a href="javacript:void(0);">Newsletters </a></li>
+                        <li><a href="javacript:void(0);">SMS Alert</a></li>
                         <li><a href="http://www.twitter.com/mybangalore/" target="_blank">Twitter</a></li>
                         <li><a href="http://www.facebook.com/mybangalore/" target="_blank">Facebook</a></li>
-                        <li><a href="#">RSS Feeds</a></li>
+                        <li><a href="/rss/">RSS Feeds</a></li>
                     </ul><!--/online_links-->
 				</div><!--/company_links_box-->
                 <div class="rights_links">
@@ -398,11 +318,15 @@ Karnataka, INDIA</address>
 			</div><!-- /global_footer -->   
 		</div>
 	</div>
-	<div id="user_feedback" class="user_feedback_clr"><a href="#" class="click_pvnt fix_ie6png" id="user_feedback_tab">Open Feedback Dialog</a></div>
-	<script type="text/javascript" src="/site_media/js/general/ds_common.js"></script>
-	<script type="text/javascript" src="/site_media/js/general/feedback.js"></script>
-	<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
-	<script type="text/javascript"> FB.init("230b91a411d5751626e0f021b56f4c95","/fbconnect/xd_receiver"); </script>  
+	<script type="text/javascript" src="/site_media/js/general/ds_common.js?1"></script>
+	<script src="http://static.ak.fbcdn.net/connect/en_US/core.js"></script> <script>  FB.init({ apiKey: '230b91a411d5751626e0f021b56f4c95' ,status: true, cookie: true, xfbml: true}); </script> 
+<script> document.getElementById('fb-login').onclick = function() { 
+FB.login(function(response) { 
+if (response.session) { 
+window.location="/fbconnect/process/"
+ } }); };
+  </script>
+	
 	<script type="text/javascript" src="/site_media/js/general/user_status.js"></script>
 	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -417,4 +341,5 @@ Karnataka, INDIA</address>
   
     
   
-  </body></html>
+  
+</body></html>
