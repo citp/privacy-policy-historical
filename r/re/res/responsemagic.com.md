@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609063402id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218043614id_/http%3A//responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Email Marketing System | Email Marketing Software | Email Responder | Auto Responder | Email Deliverabiliy
 
