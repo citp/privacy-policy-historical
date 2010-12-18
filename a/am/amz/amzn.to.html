@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amzn.to privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628061151id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amzn.to privacy policy that was archived on 2010-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218111327id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.-->
 
 <html><head>
  
@@ -245,6 +245,31 @@ div.blurb div.title
 }
 
 
+
+
+.sBox .sBoxT,
+.sBox .sBoxB,
+.sBox .sBoxTL,
+.sBox .sBoxTR,
+.sBox .sBoxBL,
+.sBox .sBoxBR
+{
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBox1._V188578666_.png);
+    background-repeat: no-repeat;
+}
+
+.sBox .sBoxL
+{
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBoxL._V188578692_.png);
+    background-position: top left;
+}
+.sBox .sBoxR
+{    
+    background-image: url(http://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBoxR._V188578410_.png);      
+    background-position: top right;    
+}
+
+
 --></style>
 
 
@@ -279,17 +304,17 @@ Amazon.com Help: Privacy Notice
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/fruitCSS/US/combined-3446052479._V214198738_.css">
+<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/fruitCSS/US/combined-2897731928._V196377925_.css">
 
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/x-locale/cs/help/css/help_3.0.5._V192627576_.css" media="screen">
- <link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/mergedCore/mergedCore-5699720663.css._V192084132_.css" rel="stylesheet">
-<link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/navbarCSSUSSA185/navbarCSSUSSA185-navbarUSSA185-22077.css._V191210799_.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/x-locale/cs/help/css/help_3.0.6._V195018897_.css" media="screen">
+ <link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-1.2.6/site-wide-4554862633.css._V198028282_.css" rel="stylesheet">
 
   <script type="text/javascript">
 
+    window.jQueryPatchIPadOffset = false;
     var amznJQ = {
         addLogical: function() {},
         addStyle: function() {},
@@ -314,63 +339,6 @@ Amazon.com Help: Privacy Notice
 </head>
  <body>
  <!-- BeginNav -->
-
-<script type="text/javascript"><!--
-  function Navbar(options) {
-    options = options || {};
-
-    this._loadedCount = 0;
-    this._hasUedata = (typeof uet == 'function');
-    this._finishLoadQuota = options['finishLoadQuota'] || 2;
-    this._startedLoading = false;
-
-    this._btfFlyoutContents = [];
-    
-    this._saFlyoutHorizOffset = -16;
-    this._saMaskHorizOffset = -17;
-
-    this.addToBtfFlyoutContents = function(content, callback) {
-      this._btfFlyoutContents.push({content: content, callback: callback});
-    }
-
-    this.getBtfFlyoutContents = function() {
-      return this._btfFlyoutContents;
-    }
-
-    this.loading = function() {
-      if (!this._startedLoading && this._isReportingEvents()) {
-        uet('ns');
-      }
-
-      this._startedLoading = true;
-    }
-
-    this.componentLoaded = function() {
-      this._loadedCount++;
-      if (this._startedLoading && this._isReportingEvents() && (this._loadedCount == this._finishLoadQuota)) {
-        uet('ne');
-      }
-    }
-
-    this._isReportingEvents = function() {
-      return this._hasUedata;
-    }
-  }
-
-  _navbar = new Navbar({ finishLoadQuota: 1});
-  _navbar.loading();
-
-  amznJQ.available('jQuery', function() {
-    _navbar._navPopoverBorderSpriteImage_h = new Image();
-    _navbar._navPopoverBorderSpriteImage_h.src = 'http://g-ecx.images-amazon.com/images/G/01/gno/popover/sprites-h._V192570380_.gif';
-    _navbar._navPopoverBorderSpriteImage_v = new Image();
-    _navbar._navPopoverBorderSpriteImage_v.src = 'http://g-ecx.images-amazon.com/images/G/01/gno/popover/sprites-v._V192570383_.gif';
-  });
-
-  window.navSAFlyoutDelay = 0;
-
-
---></script>
 <style type="text/css"><!--
 
 
@@ -385,12 +353,6 @@ Amazon.com Help: Privacy Notice
 
 .navSpritePopoverV {
   background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/popover/sprites-v._V192570383_.gif);
-}
-
-#navbar .tiny,
-.navbar .tiny {
-  font-family: Arial, sans-serif;
-  font-size: x-small;
 }
 
 .nav_popover .header .l {
@@ -426,42 +388,60 @@ Amazon.com Help: Privacy Notice
 }
 
 
-
-.suggest_link
-{
+.suggest_link {
   background-color: #FFF;
   padding: 2px 6px 2px 6px;
 }
 
-.suggest_link_over
-{
+.suggest_nm {
+  display: block;
+}
+
+.suggest_link_over {
   background-color: #146EB4;
   color: #FFF;
   padding: 2px 6px 2px 6px;
 }
 
-.suggest_link .suggest_category
-{
+.suggest_link .suggest_category {
   color: #039;
 } 
 
-.suggest_link_over .suggest_category
-{
-  color: #FFF
+.suggest_link_over .suggest_category {
+  color: #FFF;
 }
 
-#sugdivhdr
-{
-  font-size: 10px;
+#srch_sggst {
+  background-color: #FFF;
+  border: 1px solid #5C8295;
+  color: #000;
+  position: absolute;
+  text-align: left;
+  z-index: 130;
+}
+
+#sugdivhdr {
   color: #888;
+  font-size: 10px;
   line-height: 12px;
   padding-right: 4px;
+  text-align: right;
 }
-
 
 
 
 --></style>
+
+
+
+
+
+
+
+
+<script type="text/javascript"><!--
+  window._navbarSpriteUrl = "http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navPackedSprites-US-16._V212310439_.png";
+--></script>
 <img src="http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navPackedSprites-US-16._V212310439_.png" style="display:none" alt="">
 <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="">
 
@@ -470,7 +450,64 @@ Amazon.com Help: Privacy Notice
 
 
 
-<!-- Tilu -->
+<!--Pilu -->
+<script type="text/javascript"><!--
+  if (typeof window.Navbar == 'undefined') {
+    window.Navbar = function(options) {
+      options = options || {};
+
+      this._loadedCount = 0;
+      this._hasUedata = (typeof uet == 'function');
+      this._finishLoadQuota = options['finishLoadQuota'] || 2;
+      this._startedLoading = false;
+
+      this._btfFlyoutContents = [];
+    
+      this._saFlyoutHorizOffset = -16;
+      this._saMaskHorizOffset = -17;
+
+      this.addToBtfFlyoutContents = function(content, callback) {
+        this._btfFlyoutContents.push({content: content, callback: callback});
+      }
+
+      this.getBtfFlyoutContents = function() {
+        return this._btfFlyoutContents;
+      }
+
+      this.loading = function() {
+        if (!this._startedLoading && this._isReportingEvents()) {
+          uet('ns');
+        }
+
+        this._startedLoading = true;
+      }
+
+      this.componentLoaded = function() {
+        this._loadedCount++;
+        if (this._startedLoading && this._isReportingEvents() && (this._loadedCount == this._finishLoadQuota)) {
+          uet('ne');
+        }
+      }
+
+      this._isReportingEvents = function() {
+        return this._hasUedata;
+      }
+    }
+
+    window._navbar = new Navbar({ finishLoadQuota: 1});
+    _navbar.loading();
+
+    amznJQ.available('jQuery', function() {
+      _navbar._navPopoverBorderSpriteImage_h = new Image();
+      _navbar._navPopoverBorderSpriteImage_h.src = 'http://g-ecx.images-amazon.com/images/G/01/gno/popover/sprites-h._V192570380_.gif';
+      _navbar._navPopoverBorderSpriteImage_v = new Image();
+      _navbar._navPopoverBorderSpriteImage_v.src = 'http://g-ecx.images-amazon.com/images/G/01/gno/popover/sprites-v._V192570383_.gif';
+    });
+
+    window.navSAFlyoutDelay = 0;
+
+  }
+--></script>
 
 
 
@@ -497,6 +534,7 @@ Amazon.com Help: Privacy Notice
 
 
 
+  <!-- navp-YNE5elhK0MhcjRZO9MRKZY4z/wk/dQ9TmGpKlJkU/I4H/YGFHR7oxo//LMSljdjw rid-0VFBPQ002EGMNAC4TEBQ -->
 
 
 
@@ -505,17 +543,19 @@ Amazon.com Help: Privacy Notice
 
 
 
-<div id="navbar" style="padding:0px;" class="navbar">
+
+<div id="navbar" style="padding:0; margin-top:0;" class="navbar">
 
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
+
 <tbody><tr>
     <td rowspan="2" align="left" width="185" valign="bottom"><a id="navLogo" class="nonGateway" href="/">
   <span id="navLogoPrimary" class="navSprite"><span>amazon.com</span></span>
   <span id="navLogoSecondary" class="navSprite nonPrime"></span>
 </a></td>
     <td width="100%" align="left" height="26">
-      <table width="100%" id="welcomeRowTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+      <table width="100%" id="welcomeRowTable" cellspacing="0" cellpadding="0" border="0" style="height: 69px; background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/holiday10/holiday_marquee_us_final._V197261024_.png); background-position: -590px 0px"><tbody><tr>
         <td align="left" valign="bottom" class="navGreetingBkg"><div id="navidWelcomeMsg" style="white-space: nowrap;">
   <span class="navGreeting">Hello.</span>
   <span class="navMessage" style="white-space: nowrap;"><a href="/gp/yourstore?ie=UTF8&amp;signIn=1" rel="nofollow">Sign in</a> to get personalized recommendations.</span>
@@ -523,19 +563,16 @@ Amazon.com Help: Privacy Notice
 </div></td>
         <td align="left">&nbsp;</td>
         <td id="navSwmSlot" align="right" valign="center" height="26">
-<table id="navSwmSkedPop" border="0" cellspacing="0" cellpadding="0" height="100%" width="100%">
+<table id="navSwmHoliday" cellspacing="0" style="height: 69px; ">
   <tbody><tr>
-    <td align="right" valign="bottom">
-      <div id="navSwmMainHdgDiv" style="padding-bottom: 3px;">
-          <a id="navSwmMainHeading" href="/gp/product/B0015T963C">
-            Kindle: Now Just $189
-          </a>
-      </div>
-    </td>
-    <td align="left" valign="bottom" width="5" rowspan="1"><div id="navSwmFlyoutTrigger" style="display:none; height:13px; width:13px; margin:2px 3px 3px 3px;">
-      <a name="navSwmSkedPop|he|navSwmSkedPop_content"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" alt="" class="default navSprite" id="navSwmFlyoutImage" height="1" border="0"></a>
-      </div>
-    </td>
+    <td style="background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/holiday10/holiday_marquee_us_final._V197261024_.png); padding-left: 180px; height: 69px; ">
+    <ul class="navSwmHolidayUl">
+	      <li class="navSwmHolidayHead"><a href="/gp/gift-central/event/holiday-shipping">1 day left to order for Christmas</a></li>
+			  <li class="navSwmHolidaySubhead">with FREE Super Saver Shipping</li>
+	      <li class="navSwmHolidayNote"><a href="/FREE-Super-Saver-Shipping-Help/b?ie=UTF8&amp;node=527692">Restrictions apply</a></li>
+	      <li class="navSwmHolidaySponsor"><a href="/gp/gift-central/event/holiday-shipping">Sponsored by Discover Card</a></li>
+    </ul>
+    </td> 
   </tr>
 </tbody></table>        </td>
       </tr></tbody></table>
@@ -581,27 +618,46 @@ Amazon.com Help: Privacy Notice
       <div class="navSprite icon"></div>
       <a class="destination" href="/gp/cart/view.html" rel="nofollow"><span class="text">Cart</span></a>
     </div>
-  </div></td>
+  </div>
+<script type="text/javascript"><!--
+  _navbar._lightningDealsData = {"activeItems":[],"marketplaceID":"ATVPDKIKX0DER","customerID":0};
+--></script></td>
   <td align="right" style="padding-right:0px;"><div id="navYourListsButton" class="navButton navBlueButton">
   <div class="navSprite left"></div>
   <div class="navSprite right"></div>
   <a class="destination" href="/wishlist"><span class="text">Wish List</span></a>
   <a class="flyoutAnchor"><span class="navSprite downArrow"></span></a>
 </div></td>
-  <td class="navSprite navSearchEnd">
-  </td></tr></tbody></table></td>
+  <td class="navSprite navSearchEnd"></td>
+  </tr></tbody></table></td>
 </tr>
 
+
+  <tr id="navSubnavRowTR" width="100%" height="26" style="display: none;">
+    <td colspan="2" width="100%">
+      <table id="navCatSubnav" cellspacing="0">
+<tbody><tr>
+  <td class="navCatLeft navSprite" width="7"><div class="navCatLeftSpc"></div></td>
+  <td class="navCat"><div class="navCatSpc"><a class="navCatA" href=""></a></div></td>
+  <td class="navSubLeft" width="1"><div class="navSubLeftSpc"></div></td>
+  <td class="navSubItem"><a class="navSubA" href=""></a></td>
+  <td class="navSubMid navSprite" width="3"><div class="navSubMidSpc"></div></td>
+  <td class="navSubRight navSprite" width="6"><div class="navSubRightSpc"></div></td>
+</tr></tbody>
+</table>
+
+    </td>
+  </tr>
+  <tr id="navSubnavBorderTR" style="display: none;">
+    <td colspan="2" width="100%" height="2" style="background-color:#146eb4"></td>
+  </tr>
 
 </tbody></table>
 
 
 
-
-
 </div>
 
-<!--Pilu -->
 
 
 
@@ -611,13 +667,18 @@ Amazon.com Help: Privacy Notice
 
 
 
+<script type="text/javascript"><!--
+  if (typeof _navbar._navEndRun == 'undefined') {
+    _navbar._navEndRun = true;
 
 
+    _navbar._endSpriteImage = new Image();
+    _navbar._endSpriteImage.onload = function() {_navbar.componentLoaded(); };
+    _navbar._endSpriteImage.src = window._navbarSpriteUrl;
+  }
 
-
-
-<img alt="" style="display:none" onload="_navbar.componentLoaded()" src="http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navPackedSprites-US-16._V212310439_.png">
-
+--></script>
+<!-- Tilu -->
 
 <!-- EndNav -->
 
@@ -644,6 +705,12 @@ Amazon.com Help: Privacy Notice
 
 
 
+
+
+
+
+
+
  <table width="100%" border="0" cellpadding="0" cellspacing="0" class="cs-help-page">
  <tbody><tr>
  <td valign="top" width="230" class="nav-col">
@@ -662,72 +729,69 @@ Amazon.com Help: Privacy Notice
   <span class="cBoxBR"><!-- &nbsp; --></span>
   <span class="cBoxB"><!-- &nbsp; --></span>
   <h2>Topics</h2>
-  <div class="cBoxInner"><div class="cs-list-header">Privacy, Security &amp; Accessibility</div><ul class="dynamic-nav-topics"><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496">Privacy Notice</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088">Conditions of Use</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200259430">Amazon Accessibility Resources</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=10412241">Safety and Security Tips</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=4060771">Our Efforts to Stop Spoofing</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508092">Your Amazon.com Bill of Rights</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=537868">A-to-z Guarantee Protection</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=15835501">Identifying Amazon E-mail</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=15836841">Phishing or Spoofed E-mails</a></li></ul><div class="cs-divider"></div><div class="cs-first-head-flexi"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_header?nodeId=468520">Shipping &amp; Delivery</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_track?nodeId=468530">Tracking Packages</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_rates?nodeId=468636">U.S. Shipping Rates and Times</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_int?nodeId=596184">International Shipping</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_prime?nodeId=13819211">Amazon Prime</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_sss?nodeId=527692">FREE Super Saver Shipping</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_feedback?nodeId=200325950">Packaging Feedback</a></div> 
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnship_shipmore?nodeId=468520">More...</a></div> 
+  <div class="cBoxInner">
 
 
 
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_header?nodeId=901888">Returns and Refunds</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_pol?nodeId=901888#policy">Return Policy</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_gift?nodeId=15015731">Gift Returns</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_ex?nodeId=557204">Exchanging a Broken or Incorrect Item</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_pak?nodeId=901924">Packing and Sending Your Return</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_merch?nodeId=12277491">Returns to Amazon Merchants</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnret_retmore?nodeId=901888">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_header?nodeId=468536">Using Your Account</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_header?nodeId=595034">Reviewing &amp; Changing Your Orders</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_prob?nodeId=557204">Problem with an Order?</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_chng?nodeId=468548">Changing Address or Payment for an Order</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_cncl?nodeId=595034">Canceling Orders</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_comb?nodeId=595034#adding">Combining Orders</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnorch_orchmore?nodeId=595034">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lndig_header?nodeId=515724">Digital Products</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lndig_kindle?nodeId=200127470">Amazon Kindle<br>Wireless Reading Device</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lndig_video?nodeId=3757">Amazon Video On Demand</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lndig_mp3?nodeId=200143320">Amazon MP3 Music Downloads</a></div>   <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lndig_soft?nodeId=200205010">Games &amp; Software Downloads</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lndig_digmore?nodeId=515724">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_header?nodeId=551434">Privacy, Security &amp; Accessibility</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_az?nodeId=537868">A-to-z Guarantee Protection</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_phish?nodeId=15835501">Identifying Phishing E-Mails</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_tips?nodeId=10412241">Safety &amp; Security Tips</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_cc?nodeId=518224">Credit Card Security</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_note?nodeId=468496">Privacy Notice</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpriv_privmore?nodeId=551434">More...</a></div> 
-
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_header?nodeId=468466">Ordering from Amazon.com</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_new?nodeId=524700">New Customers</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_app?nodeId=200235960">Mobile Shopping</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_merch?nodeId=537794">Amazon Merchants</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_one?nodeId=468480">1-Click Ordering</a></div> 
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_recall?nodeId=565166">Product Recalls</a></div> 
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnor_ormore?nodeId=468466">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpay_header?nodeId=513058">Payment, Pricing &amp; Promotions</a></div>
-
- <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpay_meth?nodeId=513058">Payment Methods We Accept</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpay_gc?nodeId=200138510">Gift Cards</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpay_reb?nodeId=468518">Rebates</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpay_promo?nodeId=565778">Promotional Offers</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpay_paymore?nodeId=513058">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lngift_header?nodeId=525378">Gifts, Gift Cards &amp; Gift Registries</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lngift_send?nodeId=759346">Sending Gifts</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lngift_wish?nodeId=897204">Wish Lists</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lngift_baby?nodeId=524172">Baby Registry</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lngift_gc?nodeId=200138510">Gift Cards</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lngift_giftmore?nodeId=525378">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnfeat_header?nodeId=16465201">Amazon.com Site Features</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnfeat_yc?nodeId=200259560">Your Content</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnfeat_asf?nodeId=468594">Advanced Shopping Features</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnfeat_yml?nodeId=200128600">Your Media Library</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnfeat_rss?nodeId=200202840">RSS Feeds</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnfeat_featmore?nodeId=16465201">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnsell_header?nodeId=1161232">Selling at Amazon.com</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnsell_intro?nodeId=1161232">Introduction to Selling<br></a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnsell_qs?nodeId=1161234">Quick Start Guide<br></a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnsell_acct?nodeId=1161260">Seller Account and Settings<br></a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnsell_pa?nodeId=1161272">Policies and Agreements<br></a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnsell_sellmore?nodeId=1161232">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpub_header?nodeId=14061711">Publisher &amp; Vendor Guides</a></div> 
-
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpub_bks?nodeId=14061761">List and Sell Books</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpub_dvd?nodeId=15015751">List and Sell DVDs</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpub_odp?nodeId=13685731">On-Demand Publishing</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnpub_pubmore?nodeId=14061711">More...</a></div> 
-
-<div class="cs-orange-head"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnbus_header?nodeId=16465271">Business Opportunities</a></div> 
-
-<div class="cs-caret-list nav"><a href="http://advantage.amazon.com/gp/vendor/public/join/">Advantage</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200310620">Amazon Payments</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnbus_assoc?nodeId=508504">Associates</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnbus_web?nodeId=1086640">Web Services</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnbus_turk?nodeId=16465291">Mechanical Turk</a></div> <div class="cs-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnbus_ws?nodeId=200217340">WebStore by Amazon</a></div> <div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html/ref=hp_navbox_lnbus_busmore?nodeId=16465271">More...</a></div>
+<div class="nav-level step1"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=551434">Privacy, Security &amp; Accessibility</a></div><ul class="nav-siblings step1"><li class="selected">Privacy Notice</li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088">Conditions of Use</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200259430">Amazon Accessibility Resources</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=10412241">Safety and Security Tips</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=4060771">Our Efforts to Stop Spoofing</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508092">Your Amazon.com Bill of Rights</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=537868">A-to-z Guarantee Protection</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=15835501">Identifying Amazon E-mail</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=15836841">Phishing or Spoofed E-mails</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200536400">E-mail Account Verification</a></li></ul>
 </div>
 </div>  
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="cBox secondary">
+  <span class="cBoxTL"><!-- &nbsp; --></span>
+  <span class="cBoxTR"><!-- &nbsp; --></span>
+  <span class="cBoxR"><!-- &nbsp; --></span>
+  <span class="cBoxBL"><!-- &nbsp; --></span>
+  <span class="cBoxBR"><!-- &nbsp; --></span>
+  <span class="cBoxB"><!-- &nbsp; --></span>
+  
+  <div class="cBoxInner"><span class="cs-list-header">Other Help Areas</span><div class="cs-divider"></div><ul class="nav-topics">
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_sd?nodeId=468520">Shipping &amp; Delivery</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_chng?nodeId=595034">Changing or Canceling Orders</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_ret?nodeId=901888">Returns and Refunds</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_prob?nodeId=557204">Problem with an Order</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_pay?nodeId=513058">Payment, Pricing &amp; Promotions</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_place?nodeId=468466">Placing an Order</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_kin?nodeId=200127470">Kindle</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_dig?nodeId=515724">Digital Products</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_gift?nodeId=525378">Gifts, Gift Cards &amp; Gift Registries</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_priv?nodeId=551434">Privacy, Security &amp; Accessibility</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_site?nodeId=16465201">Site Features</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_espanol?nodeId=200576860">Ayuda en Español</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_sell?nodeId=1161232">Selling at Amazon.com</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_pub?nodeId=14061711">Author, Publisher &amp; Vendor Guides</a></li>
+
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_bus?nodeId=16465271">Business Opportunities</a></li>
+
+</ul>
+</div>
+</div>  
+
 
 
 
@@ -749,23 +813,22 @@ Amazon.com Help: Privacy Notice
   <span class="cBoxB"><!-- &nbsp; --></span>
   
   <div class="cBoxInner">
-
 <div>
 
-   <form name="search-help" id="search-help" method="post" action="/gp/help/customer/display.html/ref=hp_search_request">
+   <form name="search-help" id="search-help" method="post" action="/gp/help/customer/display.html/ref=hp_search_request_C">
 
 	 <div>
 <table cellpadding="0" cellspacing="0">
+
 <tbody><tr>
 <td width="100%">
-	 <input autocomplete="off" id="helpsearch" name="keywords" value="" type="text" maxlength="2048">
+	 <input autocomplete="off" id="helpsearch" name="help_keywords" value="" type="text" maxlength="2048">
 </td>
 <td width="*">
 	<input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/button-search-help._V192250720_.gif" width="86" alt="Search Help Topics" align="absbottom" id="helpSearchSubmit" height="22" border="0">
 </td>
 </tr>
 </tbody></table>
-
 	 <input name="nodeId" value="468496" type="hidden">
 	 <input name="search" value="true" type="hidden">
 	 <input name="kwHidden" id="searchPlaceholder" value="true" type="hidden">
@@ -848,7 +911,7 @@ Our site includes third-party advertising and links to other Web sites. We do no
 <br><br>
 These third-party Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a> offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. 
 <br><br>
-Amazon.com also displays personalized third-party advertising based on personal information about customers, such as purchases on Amazon.com, visits to Amazon Associate Web sites, or use of payment services like Checkout by Amazon on other Web sites. <a href="#examples">Click here</a> for more information about the personal information that we gather.  Although Amazon.com does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought or browsed for classical music).  If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your <a href="http://www.amazon.com/gp/advertising/oo/apn">Advertising Preferences</a>.
+Amazon.com also displays personalized third-party advertising based on personal information about customers, such as purchases on Amazon.com, visits to Amazon Associate Web sites, or use of payment services like Checkout by Amazon on other Web sites. <a href="#examples">Click here</a> for more information about the personal information that we gather.  Although Amazon.com does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the northwestern United States who bought or browsed for classical music).  If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your <a href="http://www.amazon.com/gp/gss/ccp/">Advertising Preferences</a>.
 
 <a name="access"></a><p></p><b class="sans"><font color="#cc6600">Which Information Can I Access?</font></b><br>
 Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. <a href="#examples">Click here</a> to see some examples, the list of which will change as our Web site evolves. 
@@ -857,8 +920,8 @@ Amazon.com gives you access to a broad range of information about your account a
 <ul>
 <li>As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as <a href="/gp/pdp/">Your Profile</a>, <a href="/gp/registry/wishlist-homepage.html/">Wish Lists</a>, <a href="/gp/customer-reviews/top-reviewers.html">Customer Reviews</a>, and <a href="/gp/browse.html/?node=13819211">Amazon Prime</a>. 
 </li><li>You can add or update certain information on pages such as those referenced in the "<a href="#access">Which Information Can I Access?</a>" section. When you update information, we usually keep a copy of the prior version for our records. 
-</li><li>If you do not want to receive e-mail or other mail from us, please adjust your <a href="/gp/gss/ccp/">Customer Communication Preferences</a>. (If you do not want to receive <a href="/gp/browse.html/?node=508088">Conditions of Use</a> and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-</li><li>If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your <a href="http://www.amazon.com/gp/advertising/oo/apn">Advertising Preferences</a>.
+</li><li>If you do not want to receive e-mail or other mail from us, please adjust your <a href="/gp/gss/ccp">Customer Communication Preferences</a>. (If you do not want to receive <a href="/gp/browse.html/?node=508088">Conditions of Use</a> and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
+</li><li>If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your <a href="http://www.amazon.com/gp/dra/info">Advertising Preferences</a>.
 </li><li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 </li></ul>
 
@@ -932,25 +995,6 @@ Examples of information you can access easily at Amazon.com include up-to-date i
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
 <div class="cBox secEyebrow">
   <span class="cBoxTL"><!-- &nbsp; --></span>
   <span class="cBoxTR"><!-- &nbsp; --></span>
@@ -959,12 +1003,8 @@ Examples of information you can access easily at Amazon.com include up-to-date i
   <span class="cBoxBR"><!-- &nbsp; --></span>
   <span class="cBoxB"><!-- &nbsp; --></span>
   <h2>Self-Service</h2>
-  <div class="cBoxInner"><div class="cs-list-header">Most Popular</div><ul class="cs-list-jq default-actions"><li><a href="https://www.amazon.com/gp/css/history/view.html">Track or Manage Purchases</a></li><li><a href="/gp/css/account/cards/view.html">Manage Payment Options</a></li><li><a href="/gp/css/returns/homepage.html">Return Items</a></li><li><a href="/gp/css/account/info/view.html">Change Name, E-mail, or Password</a></li><li><a href="/gp/css/account/address/view.html">Manage Address Book</a></li></ul><div class="cs-divider"></div><div class="cs-list-header">Other Self-Service</div><div class="cs-list"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496&amp;os=profile" class="expander">Account Profile</a></div><div><ul class="cs-list-jq cs-none"><li><a href="/gp/css/account/info/view.html">Change Name, E-mail, or Password</a></li><li><a href="/gp/subs/primeclub/account/homepage.html">Manage Prime Membership</a></li><li><a href="/gp/gss/ccp">Update E-mail Communication Preferences</a></li><li><a href="/gp/ens/your-account/alerts/home">Amazon Alerts E-mails</a></li><li><a href="/gp/specialoccasions/alternative">Special Occasion Reminders</a></li></ul></div><div class="cs-list"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496&amp;os=billing" class="expander">Billing &amp; Addresses</a></div><div><ul class="cs-list-jq cs-none"><li><a href="/gp/css/account/cards/view.html">Manage Payment Options</a></li><li><a href="/gp/css/account/address/view.html">Manage Address Book</a></li></ul></div><div class="cs-list"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496&amp;os=ordering" class="expander">Ordering Settings</a></div><div><ul class="cs-list-jq cs-none"><li><a href="/gp/css/account/address/view.html">Update 1-Click Settings</a></li><li><a href="/gp/subscribe-and-save/manager/viewsubscriptions">Subscribe &amp; Save Settings</a></li></ul></div><div class="cs-list"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496&amp;os=lists" class="expander">Lists</a></div><div><ul class="cs-list-jq cs-none"><li><a href="/gp/rsl/shoppinglist/yourshoppinglist">Shopping List</a></li><li><a href="/gp/registry/wishlist">Wish List</a></li><li><a href="/gp/baby/homepage">Baby Registry</a></li><li><a href="/gp/wedding/homepage">Wedding Registry</a></li></ul></div><div class="cs-list"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496&amp;os=content" class="expander">Your Content</a></div><div><ul class="cs-list-jq cs-none"><li><a href="/gp/ays">Your Media Library</a></li><li><a href="/gp/history">Your Browsing History</a></li><li><a href="/gp/yourstore/home">Recommended for You</a></li><li><a href="/gp/yourstore/iyr">Improve Your Recommendations</a></li></ul></div><div class="cs-divider"></div><div class="cs-widget-text">Get Express customer service or contact us by e-mail or phone.</div><div class="cs-widget-text"><div id="displayLink"><a href="https://www.amazon.com/gp/help/browse-form-dispatch/dispatch.html?ie=UTF8&amp;nodeId=468496"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/cs-customer-service-btn._V192250723_.gif" width="104" alt="contact us" height="22" border="0"></a></div></div></div>
+  <div class="cBoxInner"><ul class="cs-list-jq default-actions"><li><a href="https://www.amazon.com/gp/css/history/view.html">Track or Manage Purchases</a></li><li><a href="/gp/css/account/cards/view.html">Manage Payment Options</a></li><li><a href="/gp/css/returns/homepage.html">Return Items</a></li><li><a href="/gp/css/account/info/view.html">Change Name, E-mail, or Password</a></li><li><a href="/gp/css/account/address/view.html">Manage Address Book</a></li><li><a href="/gp/digital/fiona/manage">Manage Your Kindle</a></li></ul><div class="cs-divider"></div><div class="cs-widget-text"><div id="displayLink"><a href="https://www.amazon.com/gp/help/browse-form-dispatch/dispatch.html?ie=UTF8&amp;nodeId=468496"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/cs-customer-service-btn._V192250723_.gif" width="104" alt="contact us" height="22" border="0"></a></div></div></div>
 </div>  
-
-
-
-
 
 
 
@@ -1028,6 +1068,7 @@ helpCSTools.suggestions.init();
 <ul>
 <li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fwww.amazonservices.com%2Fcontent%2Fsell-on-amazon.htm%3Fld%3DAZFSSOA&amp;token=1E60AB4AC0ECCA00151B45353E21782E539DC601">Sell on Amazon</a></li>
 <li><a href="https://affiliate-program.amazon.com">Join Associates</a></li>
+<li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fwww.amazonservices.com%2Fcontent%2Fproduct-ads-on-amazon.htm%3Fld%3DAZPADSFooter&amp;token=1E60AB4AC0ECCA00151B45353E21782E539DC601">Advertise Your Products</a></li>
 <li><a href="/gp/seller-account/mm-summary-page.html?ie=UTF8&amp;ld=AZFooterSelfPublish&amp;topic=200260520">Self-publish with Us</a></li>
 <li><span class="navFooterRightArrowBullet">›</span> <a href="/gp/seller-account/mm-landing.html?ie=UTF8&amp;ld=AZSOAviewallMakeM">See all</a></li>
 </ul>
@@ -1038,7 +1079,8 @@ helpCSTools.suggestions.init();
 <ul>
 <li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468520">Shipping Rates &amp; Policies</a></li>
 <li><a href="/gp/subs/primeclub/signup/main.html">Amazon Prime</a></li>
-<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=901888">Returns</a></li>
+<li><a href="/gp/css/returns/homepage.html">Returns</a></li>
+<li><a href="/gp/digital/fiona/manage">Manage Your Kindle</a></li>
 <li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510">Help</a></li>
 </ul>
 </td>
@@ -1058,6 +1100,7 @@ helpCSTools.suggestions.init();
 <a href="http://www.amazon.cn">China</a>
 <a href="http://www.amazon.fr">France</a>
 <a href="http://www.amazon.de">Germany</a>
+<a href="http://www.amazon.it">Italy</a>
 <a href="http://www.amazon.co.jp">Japan</a>
 <a href="http://www.amazon.co.uk">United Kingdom</a>
 
@@ -1065,7 +1108,7 @@ helpCSTools.suggestions.init();
         <div class="navFooterLine navFooterLinkLine navFooterDescLine">
           <table cellspacing="0">
             <tbody><tr>
-              <td class="navFooterDescSpacer" style="width: 30.0%"></td>
+              <td class="navFooterDescSpacer" style="width: 28.0%"></td>
 <td class="navFooterDescItem"><a href="http://wireless.amazon.com">AmazonWireless<br> <span class="navFooterDescText">Cellphones &amp;<br> Wireless Plans</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://askville.amazon.com">Askville<br> <span class="navFooterDescText">Community<br> Answers</span></a></td>
@@ -1074,20 +1117,22 @@ helpCSTools.suggestions.init();
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.dpreview.com">DPReview<br> <span class="navFooterDescText">Digital<br> Photography</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.endless.com">Endless<br> <span class="navFooterDescText">Shoes &amp;<br> Handbags</span></a></td>
+<td class="navFooterDescItem"><a href="http://www.endless.com">Endless<br> <span class="navFooterDescText">Shoes<br> &amp; More</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.fabric.com">Fabric<br> <span class="navFooterDescText">Sewing, Quilting<br> &amp; Knitting</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.imdb.com">IMDb<br> <span class="navFooterDescText">Movies, Films<br> &amp; Actors</span></a></td>
+<td class="navFooterDescItem"><a href="http://www.imdb.com">IMDb<br> <span class="navFooterDescText">Movies, TV<br> &amp; Celebrities</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.shopbop.com/welcome">Shopbop<br> <span class="navFooterDescText">Designer<br> Fashion Brands</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.smallparts.com">Small Parts<br> <span class="navFooterDescText">Tools, Parts<br> &amp; Materials</span></a></td>
+<td class="navFooterDescItem"><a href="http://www.smallparts.com">Small Parts<br> <span class="navFooterDescText">Industrial<br> Supplies</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.warehousedeals.com">Warehouse Deals<br> <span class="navFooterDescText">Open-Box<br> Discounts</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href="http://www.woot.com">Woot<br> <span class="navFooterDescText">Never Gonna<br> Give You Up</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.zappos.com">Zappos<br> <span class="navFooterDescText">Shoes &amp;<br> Clothing</span></a></td>
-<td class="navFooterDescSpacer" style="width: 30.0%"></td>
+<td class="navFooterDescSpacer" style="width: 28.0%"></td>
 
             </tr>
           </tbody></table>
@@ -1106,10 +1151,12 @@ helpCSTools.suggestions.init();
 
   </tbody></table>
 </div>
-<!-- whfh-/UCLYwE2MiU7Kae+zJinAhauhCdMkrKa rid-11M4Y027H8DSPA8P357J -->
+<!-- whfh-Yuk/D28q5NChf5Z0uhgN4pPz0f/Ob+I+5bvOCvITy4iMfVSGC4ISP0289rPG2LhZ rid-0VFBPQ002EGMNAC4TEBQ -->
 
  
  
+
+
 
 
 </body></html>
