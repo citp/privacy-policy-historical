@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233756id_/http%3A//www.audionetworkplc.com/content/uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218053501id_/http%3A//www.audionetwork.com/content/uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Data Protection Information
 [  
 www.audionetworkplc.com](http://www.audionetworkplc.com/) is owned and operated by Audio Network Plc.
 
-Audio Network Plc and its subsidiary companies Audio Network US Inc and Audio Network Australia Pty Ltd. maintain a strict customer information privacy policy to protect any personal information that you may give us.
+Audio Network Plc and its subsidiary companies Audio Network US Inc, Audio Network Australia Pty Ltd, Audio Network Canada Inc and Audio Network (Holland) BV maintain a strict customer information privacy policy to protect any personal information that you may give us.
 
 We recognise that the growth of internet services, has created additional privacy concerns. We take these concerns very seriously.
 
