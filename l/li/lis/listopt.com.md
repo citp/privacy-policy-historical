@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listopt.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416094947id_/http%3A//listopt.com/legal/form-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listopt.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218212951id_/http%3A//listopt.com/legal/form-privacy.html) for the most accurate reproduction.*
 
 # General Privacy Policies
 
