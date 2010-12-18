@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shareview.co.uk privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126053911id_/http%3A//www.shareview.co.uk/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareview.co.uk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219002119id_/https%3A//www.shareview.co.uk/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## How your personal information is used by the Equiniti  
+## How your personal information is used by Equiniti  
 
 
 We (Equiniti Limited and Equiniti Financial Services Limited) may keep the personal details that you or others give us during your relationship with us on an Equiniti database. These details may include:
