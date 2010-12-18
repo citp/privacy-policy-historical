@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622123232id_/http%3A//www.jigsaw-online.com/privacypolicy.aspx%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218054107id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Women's Fashion Clothes – Online Shop
 
@@ -10,7 +10,7 @@ We have the utmost respect for the privacy of our online customers. Any informat
 
 You can access and browse our website without having to disclose any personal data. 
 
-By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy Policy below and in the [Terms and Conditions ](http://www.jigsaw-online.com/termsandconditions.aspx?pagename=siteterms)provided on the site.
+By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy Policy below and in the [Terms and Conditions ](http://jigsaw-online.com/termsandconditions.aspx?pagename=siteterms)provided on the site.
 
 ### Personal Information Collected
 
