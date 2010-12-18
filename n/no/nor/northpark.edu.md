@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpark.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527092231id_/http%3A//www.northpark.edu/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpark.edu privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219000804id_/http%3A//www.northpark.edu/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - North Park University - Christian, Urban, Multicultural
 
@@ -70,5 +70,3 @@ North Park University will post any and all changes to its Privacy Policy on thi
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us by [email](https://web.archive.org/About/Contact-North-Park/Email-North-Park) or by phone at (773) 244-5215.
-
-[](http://www.addthis.com/bookmark.php)
