@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602100848id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165851id_/http%3A//www.newyorklife.com/nyl/v/index.jsp%3FcontentId%3D10564%26vgnextoid%3Ddb00a2b3019d2210a2b3019d221024301cacRCRD) for the most accurate reproduction.*
 
 # New York Life Online Privacy Policy
 
@@ -11,7 +11,7 @@ We have built our business on a foundation of integrity, honesty, and trust. The
 
 On www.newyorklife.com we strive to provide you with the most comprehensive and dependable source of life insurance and financial products information on the Web. You can access this information on our various sites with complete anonymity. Whether researching our products and services, using our planning tools, or accessing our educational content, you need provide no personal information whatsoever. Whenever you do supply personal information, such as your name, address, telephone number, or e-mail address, it is kept secure and used solely to answer your inquiry, comply with your request, or supply you with information about new products and services to help you meet your needs. 
 
-If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here](http://www.newyorklife.com/cda/0,3254,11102,00.html).. 
+If you are a customer of the New York Life Family, and you use any of our service areas to change your accounts or account information, we will handle that information in accordance with our Customer Privacy Policy, which you can access by [clicking here](https://web.archive.org/nyl/v/index.jsp?contentId=11102&vgnextoid=0dd6a2b3019d2210a2b3019d221024301cacRCRD).. 
 
 We will follow the privacy law in your state if that law is different than the policy described in this notice. 
 
@@ -29,7 +29,7 @@ To meet our users' insurance and financial needs, we gather and maintain many ty
 
 
 **Our Online Information Practices**   
-For a more detailed explanation of the policies and procedures we use online to protect the privacy of your information, including the types of information we may collect online and how we use that information, please [click here](https://web.archive.org/cda/0,3254,11092,00.html). 
+For a more detailed explanation of the policies and procedures we use online to protect the privacy of your information, including the types of information we may collect online and how we use that information, please [click here](https://web.archive.org/nyl/v/index.jsp?contentId=11092&vgnextoid=e596a2b3019d2210a2b3019d221024301cacRCRD). 
 
 We may disclose information to non-affiliated entities when required by law, such as to respond to a subpoena, to prevent fraud, or to comply with an inquiry by a governmental agency. 
 
@@ -45,7 +45,7 @@ New York Life P.O. Box 6916 Cleveland, OH 44101
 
 New York Life Insurance Company | McMorgan Funds  
 ---|---  
-NYLife Insurance and Annuity Corporation | McMorgan & Company LLC  
+New York Life Insurance and Annuity Corporation | McMorgan & Company LLC  
 New York Life International, Inc. | NYL Executive Benefits LLC  
 NYLife Investment Management LLC | New York Life Retirement Plan Services  
 Eagle Strategies LLC | New York Life Trust Company  
@@ -55,4 +55,4 @@ Institutional Capital LLC | NYLIFE Securities LLC
 MainStay Funds | NYLIM Service Company LLC  
 MainStay VP Series Fund, Inc. | NYLINK Insurance Agencies, Inc.  
   
-If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/cda/0,3254,11092,00.html). 
+If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/nyl/v/index.jsp?contentId=11092&vgnextoid=e596a2b3019d2210a2b3019d221024301cacRCRD). 
