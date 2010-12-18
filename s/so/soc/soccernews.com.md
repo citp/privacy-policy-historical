@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419132817id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218055432id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ We may use anything we know about you to help us serve you better. We will not d
 * Assisting an agency perform research for us.  
 * Compliance with the law or request of a government agency for example, complying with a search warrant.  
 * Compliance with an audit our business.  
-* If we sell all or any part of our business or merge with another company. 
+* If we sell all or any part of our business or merge with another company.
 
 Generally, we will disclose only the information we consider reasonably necessary to disclose.
 
