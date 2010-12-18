@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617054730id_/http%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218193217id_/http%3A//brits.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Brit Awards 2010
+# Privacy Policy | The BRIT Awards 2011
 
 BRIT AWARDS LIMITED PRIVACY **POLICY**
 
