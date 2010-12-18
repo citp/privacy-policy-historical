@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2008-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080428212750id_/http%3A//goanimate.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218193321id_/http%3A//goanimate.com/privacy) for the most accurate reproduction.*
 
-# GoAnimate
-
-### GoAnimate, Inc. Privacy Policy
+# GoAnimate - We treat your personal information very carefully
 
 Thank you for visiting this GoAnimate, Inc. ("GoAnimate") Internet web site ("Site") located at the URL GoAnimate.com. This Privacy Policy details certain policies implemented throughout GoAnimate governing GoAnimate's use of personally identifiable information about users of our Site and users of our services (the "Services").   
 
