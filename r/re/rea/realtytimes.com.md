@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305035601id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218023947id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
@@ -74,7 +74,7 @@ The Privacy Notice posted on this site was updated on or about August 1, 2006.
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Banner_C32&LINK=http://info.marketleader.com/form/3329)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RT_MCR_Banner_C1&LINK=http://realtytimes.com/conditions.htm?open&promo=RTBANC1)
 
 |    
 
@@ -83,26 +83,28 @@ Real Estate News Network
 
 [ ](http://www.adobe.com/go/getflashplayer)
 
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\CoreLogic_Sponsor_C6&LINK=http://www.corelogic.com/realestatebroker)
+
 **Mortgage Rates**  
-30 Year Fixed: 5.05%  
-15 Year Fixed: 4.40%  
-1 Year Adj: 4.15%  
+30 Year Fixed: 4.83%  
+15 Year Fixed: 4.17%  
+1 Year Adj: 3.35%  
 (U.S. Weekly Averages)  
 
 
-Today's Headlines  
+Today's Headlines 08/10/2006  
 
 
-  * [Relationship Selling Begins With Databased Marketing](https://web.archive.org/rtpages/20100304_databased.htm)
-  * [Feds Help Speed Up Your Mortgage Modification](https://web.archive.org/rtpages/20100304_speedup.htm)
-  * [NAR Commercial A Leading Voice for the Industry, The Market, and the Investor](https://web.archive.org/rtpages/20100304_narcomm.htm)
-  * [Editorial: Banks Are Looking For More Bailouts](https://web.archive.org/rtpages/20100303_banks.htm)
-  * [Future Architects Design Sustainabale Architecture](https://web.archive.org/rtpages/20100303_sustain.htm)
-  * [Carrot or Stick Rules](https://web.archive.org/rtpages/20100303_carrot.htm)
-  * [What Canada's New Mortgage Rules Mean to You](https://web.archive.org/rtpages/20100302_newrules.htm)
-  * [Focusing on the Median Price Can Be Misleading](https://web.archive.org/rtpages/20100302_medianprice.htm)
-  * [Quick and Easy Interior Design for Home Sellers](https://web.archive.org/rtpages/20100302_design.htm)
-  * [Sellers: Staging is a Must](https://web.archive.org/rtpages/20100301_staging.htm)
+  * [The X Factor--Why Making An Offer On A Home Should Be Based On Value To You](https://web.archive.org/rtpages/20101217_xfactor.htm)
+  * [Buyer Consultation: Financial Options and Qualifications Section](https://web.archive.org/rtpages/20101217_consult.htm)
+  * [Mortgage Rates Continue to Climb](https://web.archive.org/rtpages/20101217_rates.htm)
+  * [Mortgage Fraud Up 20 Percent](https://web.archive.org/rtpages/20101216_fraud.htm)
+  * [Homes Values Continue to Fall](https://web.archive.org/rtpages/20101216_values.htm)
+  * [How Do I Get Contact Information from Open House Visitors?](https://web.archive.org/rtpages/20101216_openhouse.htm)
+  * [Pros and Cons of Condo Living](https://web.archive.org/rtpages/20101215_condoliving.htm)
+  * [Ask the HOA Expert](https://web.archive.org/rtpages/20101215_askhoa.htm)
+  * [Tips for Lowing Your Homeowners Insurance Bill](https://web.archive.org/rtpages/20101214_lower.htm)
+  * [Short Sale Advisory May Be A Case of Too Much Information](https://web.archive.org/rtpages/20101214_shortsale.htm)
 
   
 
@@ -112,4 +114,4 @@ Today's Headlines
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Spotlight_C25&LINK=http://info.marketleader.com/form/3329)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RealtorDotOrg_Spotlight_C11&LINK=http://marketing.realtor.com/cmp/sta/ba/buyera/111010/) [](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\CraigProctorProductions_Sponsor_C85&LINK=http://www.hypertracker.com/go/cp/rtsb101213)
