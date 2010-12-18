@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the halocharts.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617173122id_/http%3A//halocharts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halocharts.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218181453id_/http%3A//halocharts.com/privacy.php) for the most accurate reproduction.*
 
-# HaloCharts.com - Privacy Policy
+# HaloCharts.com - - Privacy Policy
 
-  
-
-
-| **HaloCharts.com Privay Policy**  
----  
 Thanks for visiting HaloCharts.com. This page will explain what we do with the data we collect. It would be good to read this before registering an account. By using the site, you are accepting the practices described here. Note: the privacy practices here apply to HaloCharts.com only. 
 
 **Collection of Information**  
@@ -22,11 +17,6 @@ We do not share any information that is provided with any 3rd parties, except wh
 The little personally identifiable information we collect is kept secure. Emails are not visible on the website. Passwords are not stored in clear-text and cannot be recovered. They can only be reset. 
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20090617173122id_/http%3A//halocharts.com/contact.php). 
+If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20101218181453id_/http%3A//halocharts.com/contact.php). 
 
-We reserve the right to make changes to this policy.   
-  
-HaloCharts.com was created under Microsoft's "[Game Content Usage Rules](http://www.xbox.com/en-US/community/developer/rules.htm)" using assets from Halo 3, © Microsoft Corporation.  
-Halo 3 is a registered trademark of Bungie, LLC. This website is in no way affiliated with Bungie, LLC.  
-Page generation time: 0.0038149  
-[Home](https://web.archive.org/web/20090617173122id_/http%3A//halocharts.com/index.php) \- [Privacy Policy](https://web.archive.org/web/20090617173122id_/http%3A//halocharts.com/privacy.php) \- [Contact Us](mailto:admin@halocharts.com) \- Back to Top \- T2 
+We reserve the right to make changes to this policy. 
