@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msichicago.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618125316id_/http%3A//www.msichicago.org/legal-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msichicago.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218035359id_/http%3A//www.msichicago.org/legal-links/privacy-policy) for the most accurate reproduction.*
 
 # Museum of Science and Industry | Legal Links | Privacy Policy
 
