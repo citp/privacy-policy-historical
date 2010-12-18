@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-gossip.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611223206id_/http%3A//www.celebrity-gossip.net/node/333729) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-gossip.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218122235id_/http%3A//www.celebrity-gossip.net/node/333729) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity-gossip.net
 
@@ -6,6 +6,6 @@ Absolutely no information given to the GossipCenter Network via membership, feed
 
 Placement of cookies and the collection of IP addresses is used for internal targeting purposes, and is never sold to third parties. If you wish to opt out of such use and placement of cookies and IP addresses please visit the link below:
 
-http://www.networkadvertising.org/managing/opt_out.asp
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Third Party Links: We offer affiliate links on our site. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those particular sites.
