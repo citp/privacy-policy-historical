@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629163955id_/http%3A//www.washingtongas.com/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218162456id_/http%3A//www.washingtongas.com/pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Washington Gas - Privacy Policy
 
