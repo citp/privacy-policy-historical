@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618131534id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218044740id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hardware Sphere
 
@@ -25,6 +25,10 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 ### Google and the DoubleClick DART Cookie
 
 Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables to serve ads to this site’s visitors based on their visit to this site and other sites on the Internet. Visitors may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+### NetworkAdvertising.org
+
+We also use third-party advertising companies to serve ads from Networkadvertising.org when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### More about our Privacy Policy
 
