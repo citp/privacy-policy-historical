@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomeelite.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602142945id_/http%3A//www.incomeelite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeelite.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218223643id_/http%3A//www.incomeelite.com/privacy.php) for the most accurate reproduction.*
 
 # Income Elite - Getting Started
 
@@ -93,5 +93,3 @@ Please let us know if the personal information which we hold about you needs to 
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [support@incomeelite.com](mailto:support@incomeelite.com) or by post to 3A Park Lane Business Centre, Park Lane, Basford, Nottingham, NG6 0DU England.   
 This privacy policy is based on a template created and distributed by www.website-law.co.uk.
-
-For Billing Enquiries Contact: URL: https://support.ccbill.com Phone: 1-888-596-9279 E-mail: ccbillsupport@ccbill.com
