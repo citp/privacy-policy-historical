@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myprops.org privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629035343id_/http%3A//myprops.org/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprops.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218190037id_/http%3A//myprops.org/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# MyProps.org - Privacy Policy
+# Privacy Policy - MyProps.org
 
   
 MyProps knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the MyProps website, you are accepting the practices outlined in this Privacy Policy. 
