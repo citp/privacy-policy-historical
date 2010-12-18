@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendcircles.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164459id_/http%3A//www.friendcircles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendcircles.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218062939id_/http%3A//www.friendcircles.com/privacy.htm) for the most accurate reproduction.*
 
 # FriendCircles.com - the largest collection of relationship networks, communities and groups!
 
