@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210903id_/http%3A//livescore.net/soccer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218142743id_/http%3A//livescore.net/soccer/policy) for the most accurate reproduction.*
 
-# LiveScore.com - Soccer Live Scores
+# LiveScore.com : Privacy Policy
 
   
 LiveScore Ltd, and its affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
