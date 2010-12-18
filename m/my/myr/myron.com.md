@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607074614id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218070244id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 This Privacy Policy sets forth the policies of Myron Corp. (“Myron,” “we,” “us” or “our”), located in the United States, with respect to personal information that is collected from Registered Users of the Site.  All capitalized terms not defined herein shall have the meaning attributed to them in the [Terms of Use](https://web.archive.org/eng/customerservice/termsofuse.cfm) of the Site. 
 
-**By voluntarily providing us with your personal information you expressly consent to the collectiCon and processing by Myron of your personal information in accordance with this Privacy Policy.**
+**By voluntarily providing us with your personal information you expressly consent to the collection and processing by Myron of your personal information in accordance with this Privacy Policy.**
 
 If you provide, or authorize the provision of your personal information to this Site, you acknowledge and expressly agree that such personal information may be transferred, for the purposes as defined in this Privacy Policy, from your current location to the offices and servers of Myron and the authorized third parties (the “Third Parties”) referred to herein located in countries outside of the United States, which may have different standards of data protection; your personal information will only ever be used in accordance with this Privacy Policy however).
 
