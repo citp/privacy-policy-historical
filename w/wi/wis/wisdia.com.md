@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wisdia.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512234829id_/http%3A//www.wisdia.com/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdia.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218031526id_/http%3A//www.wisdia.com/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
-|  | 
+| 
 
 Wisdia is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through Wisdia's Web site and governs online data collection and usage by Wisdia. 
 
@@ -33,7 +33,7 @@ Some of our Web pages may contain electronic images known as Web beacons, which 
 Wisdia employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information and we store data on multiple service systems, in controlled, secure environments. To maintain our level of security, we conduct both internal reviews and external audits of our security measures and procedures on a regular basis.
 
 **6\. Controlling your personal information**  
-A user may, at any time, change, correct, modify or delete any personal information they may have provided to Wisdia by visiting his profile on http://es.wisdia.com.
+A user may, at any time, change, correct, modify or delete any personal information they may have provided to Wisdia by visiting his profile on http://www.wisdia.com.
 
 **7\. Changes in corporate structure**  
 In developing our business, we might sell certain assets or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
@@ -42,6 +42,7 @@ In developing our business, we might sell certain assets or the company, or part
 We will occasionally update this Privacy Policy as necessary to maintain the highest protection for our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so.
 
 **9\. Contacting Wisdia**  
-If you have any questions about this Privacy Policy or our privacy practices, please email us at admin@monoprog.com  
-  
+If you have any questions about this Privacy Policy or our privacy practices, please email us at admin@monoprog.com
+
+|   
 ---|---
