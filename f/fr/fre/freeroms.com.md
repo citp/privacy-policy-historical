@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612003145id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218030821id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
 
-# FreeROMS.com Privacy Policy
+# Virtual Webs Privacy Policy for FreeROMS.com
 
 Virtual Webs has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
