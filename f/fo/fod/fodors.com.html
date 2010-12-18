@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fodors.com privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618130022id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fodors.com privacy policy that was archived on 2010-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218043014id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML 3.0//EN"><html><head>
 
@@ -73,22 +73,177 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		
 
 		
-	<div class="loginbox">
-		
-			<form id="nav-login" method="post" action="/login/login_catch.html" margin="0px;" padding="0px;">
-				<input type="hidden" name="url_certified" value="ddff371f09b3b9e6bed0c696d7c933ed-http://www.fodors.com/about/privacy/index.cfm">
-				<input type="hidden" name="label_certified" value="3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com">
-	 			Member name: <input id="login-member" type="text" name="member_id" value="" size="15">
-				Password: <input id="login-pw" type="password" name="password" size="15">
-				<input id="login-submit" type="submit" name="Submit" value="Sign in">
-				<input name="permanent_cookie" type="checkbox" value="true" checked=""> Remember Me | <a href="/login/register.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&amp;label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com" name="&amp;lpos=welcome-login" rel="nofollow"><strong>Not Yet a Member? Join Today!</strong></a>
-			</form>
-			
-		
-	</div>
-	<div style="clear:both;"></div>
+
+<style type="text/css">
+	.logged-out {
+		display:none;
+	}
+	
+	.register {
+		display:block;
+		float:left;
+		font-weight:bold;
+		line-height:30px;
+		margin-right:5px;
+	}
+
 	
 
+	.login-link,
+	.close-link {
+background: #f60;
+display: block;
+margin:5px 0 0 5px;
+padding: 5px 10px 6px;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+line-height: 1;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+/*border-bottom: 1px solid #222;*/
+position: relative;
+cursor: pointer;
+	}
+	.login-link {
+		float:left;
+	}
+	.close-link {
+		float:right;
+	}
+	
+	a.login-link,
+	a.close-link {
+		color:#fff;
+	}
+	a.close-link {
+		color:#fff;
+	}
+	.login-link:hover,
+	.close-link:hover							{ color:#fff; }
+	.login-link:active,
+	.close-link:active							{color:#fff; top: 1px; }
+	.login-link:visited,
+	.close-link:visited 			{ color:#fff;font-size: 11px; padding: ; }
+
+.logged-out {
+	position:absolute;
+	top:0;
+	right:0;
+	background:#fff;
+	float:right;
+	width:200px;
+	padding:10px;
+	border-right:1px #333 solid;
+	border-bottom:1px #333 solid;
+	border-left:1px #333 solid;
+	-moz-border-radius:0 0 5px 5px;
+	-webkit-border-radius:0 0 5px 5px;
+	border-radius:0 0 5px 5px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	z-index:10001;
+}
+
+</style>
+
+
+
+	<form id="social-login-form" method="post" action="/login/social-login.html" class="hidden">
+		<input id="social-login-hidden" type="hidden" name="json">
+	</form>
+	
+		<!-- socialize.js script should only be included once -->
+		<!--[if IE]>
+		<script type="text/javascript" src="/js/json2-min.js"></script>
+		<![endif]-->
+		<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2__v38Mh5WPUwshIKOtnlVP0sAtWwj2oxH3pfdF6GfkD_KShvaIf9v5LEiFIxHyqGH"></script>
+		<script type="text/javascript">
+			var conf= {
+				APIKey: '2__v38Mh5WPUwshIKOtnlVP0sAtWwj2oxH3pfdF6GfkD_KShvaIf9v5LEiFIxHyqGH',
+				enabledProviders: 'facebook,twitter'
+			};
+			function logout_event_handler(event) {
+				// console.log(JSON.stringify(event));
+				window.location = event.context.logout_link;
+			}
+			function logout() {
+				gigya.services.socialize.logout(conf,{
+					callback: logout_event_handler,
+					context: {
+						"logout_link": "/login/logout.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com"
+					},
+					cid: 'display_loginbox.cfm'
+				});
+				return(true);
+			}
+			function login_event_handler(event) {
+				// console.log(JSON.stringify(event));
+				var frm = document.getElementById("social-login-form");
+				var hidden = document.getElementById("social-login-hidden");
+				hidden.value = JSON.stringify(event);
+				frm.submit();
+			}
+
+			gigya.services.socialize.addEventHandlers(conf, {
+				context: {
+					"profile_link": "/login/profile.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com",
+					"login_link": "/login/?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com",
+					"logout_link": "/login/logout.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com",
+					"register_link": "/login/register.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com",
+					"forgot_password_link": "/login/forgot_password.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com",
+					"return_url": "http://www.fodors.com/about/privacy/index.cfm"
+				},
+				onLogin: login_event_handler
+			});
+		</script>
+		
+
+		<div class="loginbox">
+			
+				<div class="logged-out">
+				<a href="#" name="&amp;lpos=welcome-login" rel="nofollow" class="close-link">Close</a>
+				
+				
+				<script type="text/javascript">
+					var login_params= {
+						useHTML: 'true',
+						showTermsLink: 'false',
+						hideGigyaLink: 'true',
+						height: 35,
+						width: 75,
+						containerID: 'componentDiv',
+						UIConfig: '<config><body><controls><snbuttons buttonsize="25"></snbuttons></controls></body></config>',
+						useFacebookConnect: 'true'
+					}
+				</script>
+				<form id="nav-login" method="post" action="/login/login_catch.html" margin="0px;" padding="0px;">
+					<input type="hidden" name="url_certified" value="ddff371f09b3b9e6bed0c696d7c933ed-http://www.fodors.com/about/privacy/index.cfm">
+					<input type="hidden" name="label_certified" value="3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com">
+					Member Name:<br><input id="login-member" type="text" name="member_id" value="" size="15"><br>
+					Password:<br><input id="login-pw" type="password" name="password" size="15"><br>
+					<input id="login-submit" type="submit" name="Submit" value="Sign in">
+					<input name="permanent_cookie" type="checkbox" value="true" checked=""> Remember Me<br><br>
+				<a href="/login/forgot_password.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&amp;label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com">Forgot password?</a>
+				</form>
+				<h3>—OR—</h3>
+				<h2>Sign In Using:</h2><div id="componentDiv"></div>
+				<script type="text/javascript">
+					gigya.services.socialize.showLoginUI(conf,login_params);
+				</script>
+				</div>
+				
+				<a href="/login/register.html?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&amp;label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com" name="&amp;lpos=welcome-login" rel="nofollow" class="register">Register</a>
+				<a href="/login/?url_certified=ddff371f09b3b9e6bed0c696d7c933ed-http%3A%2F%2Fwww.fodors.com%2Fabout%2Fprivacy%2Findex.cfm&amp;label_certified=3d15bac2d2d7dfda2781cb1ccf8f9873-Fodors.com" name="&amp;lpos=welcome-login" rel="nofollow" class="login-link">Login</a>
+
+			
+		</div>
+		<div style="clear:both;"></div>
+	
 	</div>
 
 	<div id="header-wrapper">
@@ -102,9 +257,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		<div id="header-ad">
 			
 	<!-- Begin ad tag -->
-	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=1;dcopt=ist;sz=728x90;promo=;ord=6ecd8164639e7d60?" type="text/javascript"></script>
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=1;dcopt=ist;sz=728x90;promo=;ord=6ef1f34163e1f7f6?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=1;sz=728x90;promo=;ord=6ecd8164639e7d60?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=1;sz=728x90;promo=;ord=6ecd8164639e7d60?" width="728" height="90" border="0" alt=""></a>
+	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=1;sz=728x90;promo=;ord=6ef1f34163e1f7f6?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=1;sz=728x90;promo=;ord=6ef1f34163e1f7f6?" width="728" height="90" border="0" alt=""></a>
 	</noscript>
 	<!-- End ad tag -->
 
@@ -113,10 +268,6 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<div id="navigation" class="clearfix">
 		<div id="menu" class="clearfix">
 			<ul id="main-nav" class="clearfix">
-				
-				<li>
-					<a class="gray" id="unselected" href="/world/europe/itineraries/" name="&amp;lpos=top-nav">To Europe!</a>
-				</li>
 				
 				<li>
 					<a class="gray" id="unselected" href="/community/" name="&amp;lpos=top-nav">Forums</a>
@@ -231,9 +382,13 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				<li>
 				<a class="gray" id="unselected" href="/news/" name="&amp;lpos=top-nav">Blog</a>
 				</li>
-				<li style="border-right:none;">
+				<li>
 				<a class="gray" id="unselected" href="/guidebooks/" name="&amp;lpos=top-nav">Guidebooks</a>
 				</li>
+				<li class="last">
+				<a class="gray" id="unselected" href="/mobile-apps/" name="&amp;lpos=top-nav">Mobile Apps</a>
+				</li>
+
 			</ul>
 		</div>
 		
@@ -245,7 +400,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		</div>
 	</div>
 	</div>
-	
+
 
 <div id="destnav">
 
@@ -279,9 +434,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				<td valign="top">
 
 						<div class="aboutus_leftnav">
-			<div style="float: left" class="sdmenu1">
+			<div class="sdmenu1">
 				<div>
-					<span><a href="/about/us/ftp_about.cfm">About Fodor's Travel</a></span>
+					<span><a href="/about-us/">About Fodor's Travel</a></span>
 
 					<span><a href="/about/us/ftp_fast_facts.cfm">Fodor's Fast Facts</a></span>
 
@@ -300,10 +455,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 					<span><a href="/about/us/ftp_affiliate.cfm">Join Affiliate Program</a></span>
 
 					<span><a href="/about/us/ftp_link_to.cfm">Link to Us</a></span>
-
-					<span><a href="/feedback/index.cfm">Feedback Form</a></span>
-
-					<span><a href="/about/us/ftp_contact.cfm">Contact Us</a></span>
+					<span><a href="/contact-us/">Contact Us</a></span>
 
 					<span><a href="/about/subagree/index.cfm">Subscriber's Agreement</a></span>
 
@@ -389,9 +541,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 				
 	<!-- Begin ad tag -->
-	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=1;dcopt=ist;sz=160x600;promo=;ord=6ecd8164639e7d60?" type="text/javascript"></script>
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=2;dcopt=ist;sz=160x600;promo=;ord=6ef1f34163e1f7f6?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=1;sz=160x600;promo=;ord=6ecd8164639e7d60?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=1;sz=160x600;promo=;ord=6ecd8164639e7d60?" width="160" height="600" border="0" alt=""></a>
+	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=2;sz=160x600;promo=;ord=6ef1f34163e1f7f6?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=2;sz=160x600;promo=;ord=6ef1f34163e1f7f6?" width="160" height="600" border="0" alt=""></a>
 	</noscript>
 	<!-- End ad tag -->
 
@@ -413,22 +565,23 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<ul>
 		<li><a href="/" target="_top" name="&amp;lpos=bottom-nav">Fodors.com</a> |</li>
 		<li><a href="/world/" target="_top" name="&amp;lpos=bottom-nav">Destinations</a> |</li>
-		<li><a href="/80degrees/" target="_top" name="&amp;lpos=bottom-nav">80 Degrees Travel Planner</a> |</li>
 		<li><a href="/cruises/" target="_top" name="&amp;lpos=bottom-nav">Cruises</a> |</li>
 		<li><a href="http://www.randomhouse.com/category/fodors/" target="_top" name="&amp;lpos=bottom-nav">Bookstore</a> |</li>
 		<li><a href="/news/" target="_top" name="&amp;lpos=bottom-nav">Travel Blog</a> |</li>
 		<li><a href="/community/" target="_top" name="&amp;lpos=bottom-nav">Forums</a> |</li>
-		<li id="traveldeals-footer"><a href="/deals/" target="_top" name="&amp;lpos=bottom-nav" onclick="linkCode(this,'bottomnav-deals','event21');">Travel Deals</a></li>
+		<li id="traveldeals-footer"><a href="/deals/" target="_top" name="&amp;lpos=bottom-nav" onclick="linkCode(this,'bottomnav-deals','event21');">Travel Deals</a></li> |
+		<li><a href="/newsletter/signup.html" target="_top" name="&amp;lpos=bottom-nav">Sign Up For Our Free Newsletter</a></li>
 	</ul>
 
 	<ul>
 		<li><a href="/siteindex/" target="_top" name="&amp;lpos=bottom-nav">Site Map</a> |</li>
 		<li><a href="/about/privacy/" target="_parent" name="&amp;lpos=bottom-nav">Privacy Policy</a> |</li>
 		<li><a href="/about/subagree/" target="_top" name="&amp;lpos=bottom-nav">Subscriber's Agreement</a> |</li>
-		<li><a href="/about/us/ftp_about.cfm" target="_top" name="&amp;lpos=bottom-nav">About Us</a> |</li>
+		<li><a href="/about-us/" target="_top" name="&amp;lpos=bottom-nav">About Us</a> |</li>
+		<li><a href="/contact-us/" target="_top" name="&amp;lpos=bottom-nav">Contact Us</a> |</li>
 		<li><a href="/faq/" target="_top" name="&amp;lpos=bottom-nav">FAQ</a> |</li>
 		<li><a href="/about/us/ftp_affiliate.cfm" target="_top" name="&amp;lpos=bottom-nav">Affiliate Program</a> |</li>
-		<li><a href="/newsletter/signup.html" target="_top" name="&amp;lpos=bottom-nav">Sign Up For Our Free Newsletter</a></li>
+		
 	</ul>
 		<p>Copyright © 2010 <a href="/">Fodor's Travel</a>, a division of Random House, Inc.</p>
 </div>
