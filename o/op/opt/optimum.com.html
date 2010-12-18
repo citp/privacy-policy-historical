@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the optimum.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628224337id_/http%3A//www.optimum.net/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optimum.com privacy policy that was archived on 2010-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218172300id_/http%3A//www.optimum.net/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		
@@ -21,11 +21,23 @@
 		
 		
 					
-		<link rel="stylesheet" type="text/css" href="/styles/2009/global.css">
+		<link rel="stylesheet" type="text/css" href="/styles/2009/global.css">		
+		<link rel="stylesheet" type="text/css" href="/styles/uae/password.css">
+		<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="/styles/uae/passwordIEfix.css" />
+		<![endif]-->
+		<!--[if lt IE 6.5]>
+		<link rel="stylesheet" type="text/css" href="/styles/uae/passwordIE6fix.css" />		
+		<![endif]-->	
+		<script type="text/javascript" src="/js/popups.js"></script>		
 		<script type="text/javascript" src="/js/common2.js"></script>
 		<script type="text/javascript" src="/js/cookies.js"></script>
 		<script type="text/javascript" src="/js/mp.js"></script>
-		<script type="text/javascript" src="/js/fading.js"></script>	
+		<script type="text/javascript" src="/js/fading.js"></script>
+		<script type="text/javascript" src="/js/uae/pr.js"></script>		
+		<script type="text/javascript" src="/js/uae/browserDetect.js"></script>	
+		<script type="text/javascript" src="/js/uae/scripts.js"></script>	
+		<script type="text/javascript" src="/js/uae/ddBelatedPNG.js"></script>		
 	
 	
 	
@@ -47,13 +59,65 @@
 		 
 		<div id="tpGlassPaneDarkDiv" style="display: none;position:fixed">&nbsp;</div>
 
-				
+		
+		
+
+
+
+
+<div id="tpGlassPaneDarkDiv2" style="display: none;position:fixed">&nbsp;</div>
+<div id="tpPopupCloseButton" style="position: fixed; left: 392px; top: 90px; display: none;">
+
+<a href="javascript:hidePopup2()" onkeydown="var k=null;if(window.event) k=event.keyCode; else k=event.which; if(k==32||k==13) { hidePopup2();return false; } return true;"><img border="0" id="x_div_gray" src="/images/common/x_div_gray.png"></a>
+
+<script type="text/javascript">
+	
+	function fixPng(){
+		DD_belatedPNG.fix('#x_div_gray');
+	}
+	
+	if(BrowserDetect.browser=="Explorer" && BrowserDetect.version=="6"){
+		fixPng();
+		//addLoadEvent(fixPng);
+	}
+</script></div>		
+
+		<div id="mfWait"><p><img src="/images/password/busy.gif"> Please wait while your request is being processed.</p></div>
+		
+		<div id="mfRequest" class="mfSUCCESS">
+			<div>
+				<p id="mrRequestPopupText">Your request was processed successfully.</p>
+				<div id="btnBlue"><div style="width: 40px;" class="left">
+					<div class="right" onclick="mfHideAfterReloadPopup();return false;"><span class="txt"><a href="javascript:void(0);">OK</a></span></div>
+				</div></div>
+			</div>
+		</div>
+
+		<div id="mfWarnPopup" class="popup"><p>Are you sure you want to remove this schedule?</p>
+		<input type="button" value="" class="yesbtn" onclick="return mfRemove();">
+		<input type="button" value="" class="nobtn" onclick="hidePopup('mfWarnPopup');return false;"></div>
+
+		<div id="mfWarnPopup2" class="popup"><p id="mrWarnPopupText"></p><div id="mrWarnPopupBody">
+			<div id="btnBlue">
+				<div class="left">
+					<div class="right" onclick="mfHideAfterReloadPopup();return false;"><span class="txt"><a href="javascript:void(0);">Cancel</a></span></div>
+				</div>
+				<div style="margin-left:20px" class="left">
+					<div class="right" onclick="handlePopupOkClick();return false;"><span class="txt"><a href="javascript:void(0);">OK</a></span></div>
+			</div></div>	
+		</div>
+</div>
+
+
+
+			
 		
 		
 		<div class="wrapperMain">
 			
 			
-			
+					
+		
 		
 		<!--[if IE]>
 <link rel="stylesheet" type="text/css" href="http://img.optimum.net/styles/2009/iefix.css?zx33"/>
@@ -64,20 +128,19 @@
 <link rel="stylesheet" type="text/css" href="http://img.optimum.net/styles/2009/ie6fix.css?zx33"/>
 <![endif]-->
 <script type="text/javascript" src="http://img.optimum.net/js/popups.js"></script>
-<div id="tpGlassPaneDarkDiv"></div>
 <link rel="stylesheet" href="http://img.optimum.net/styles/2009/header_search.css?ab4" type="text/css">
 <div id="HeaderChannel" style="display:none;">Privacy</div>	
 		<div class="hdrWrapper clearfix">
 			<div class="hdrLeft"><a href="/"><img src="http://img.optimum.net/images/header/2009/logo_ool_v2.jpg" width="138" height="88"></a></div>
 			<div class="hdrMdl">				
-				<!-- header search -->						
+				<!-- header search-->						
 				<div class="hdrSearchNew">	
 					<div class="topLinks btmBorderNone"><a href="http://www.optonline.net/OV">Optimum Voice</a><span class="linkSpacer">|</span><a href="/PZN">My Personal Optimum Page</a><span class="linkSpacer">|</span><a href="/Article/MakeHomePage" onclick="tpSetHomePageFooter(this);return false;">Make us your home page</a></div>
 					<div class="srchTab">
 						<div class="srchTop">
-							<div id="t1" class="tab1DivOn" onclick="switchSrchTab('1',document.frmSearchNew);"><div class="label">Web</div></div>
+							<div id="t1" class="tab1DivOn" onclick="switchSrchTab('1');"><div class="label">Web</div></div>
 							<div id="tabMdl" class="tabMdl1Div"></div>
-							<div id="t2" class="tab2Div" onclick="switchSrchTab('2',document.frmSearchNew);"><div class="label">TV &amp; On Demand</div></div>
+							<div id="t2" class="tab2Div" onclick="switchSrchTab('2');"><div class="label">TV &amp; On Demand</div></div>
 							<div class="srchTopRt"></div>
 						</div>
 						<div class="srchBtm">
@@ -195,9 +258,9 @@ function tpSetHomePageFooter(obj)
 		   <![endif]-->
  	<div id="tpTopMenuBar" class="tnav">
    		<ul>
-  			<li><a id="tn0" href="/"><img src="http://img.optimum.net/images/header/2009/topmenu/home.jpg"></a>
+  			<li><a id="tn0" href="/"><img src="http://www.optimum.net/images/header/2009/topmenu/home.jpg"></a>
     	</li>
-  			<li><a id="tn1" href="/News/Local"><img src="http://img.optimum.net/images/header/2009/topmenu/local.jpg"></a>
+  			<li><a id="tn1" href="/News/Local"><img src="http://www.optimum.net/images/header/2009/topmenu/local.jpg"></a>
      		<div id="submenu1" class="submenu">     
  		    	<div>
      				<a href="/News/News12/Headlines" class="first"><span>News12</span></a> 
@@ -205,7 +268,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn2" href="/News"><img src="http://img.optimum.net/images/header/2009/topmenu/news.jpg"></a>
+  			<li><a id="tn2" href="/News"><img src="http://www.optimum.net/images/header/2009/topmenu/news.jpg"></a>
      		<div id="submenu2" class="submenu" style="width:377px;">     
  		    	<div style="float:left;width:188px;border-right:3px solid #07485e;">
      				<a href="/News/Local" class="first"><span>Local</span></a> 
@@ -251,7 +314,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn3" href="/Sports"><img src="http://img.optimum.net/images/header/2009/topmenu/sports.jpg"></a>
+  			<li><a id="tn3" href="/Sports"><img src="http://www.optimum.net/images/header/2009/topmenu/sports.jpg"></a>
      		<div id="submenu3" class="submenu" style="width:377px;">     
  		    	<div style="float:left;width:188px;border-right:3px solid #07485e;">
      				<a href="http://sports.optimum.net/merge/tsnform.aspx?c=cablevision&amp;page=nfl/news/indexsn.aspx?sport=AB" class="first"><span>Football</span></a> 
@@ -295,7 +358,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn4" href="/TV"><img src="http://img.optimum.net/images/header/2009/topmenu/tv.jpg"></a>
+  			<li><a id="tn4" href="/TV"><img src="http://www.optimum.net/images/header/2009/topmenu/tv.jpg"></a>
      		<div id="submenu4" class="submenu">     
  		    	<div>
      				<a href="http://tvlistings.optimum.net/grid.shtml" class="first"><span>TV Listings</span></a> 
@@ -304,7 +367,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn5" href="/Entertainment/Movies"><img src="http://img.optimum.net/images/header/2009/topmenu/movies.jpg"></a>
+  			<li><a id="tn5" href="/Entertainment/Movies"><img src="http://www.optimum.net/images/header/2009/topmenu/movies.jpg"></a>
      		<div id="submenu5" class="submenu">     
  		    	<div>
      				<a href="/Entertainment/Movies/NowPlaying" class="first"><span>In Theaters</span></a> 
@@ -317,7 +380,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn6" href="/Entertainment/Music"><img src="http://img.optimum.net/images/header/2009/topmenu/music.jpg"></a>
+  			<li><a id="tn6" href="/Entertainment/Music"><img src="http://www.optimum.net/images/header/2009/topmenu/music.jpg"></a>
      		<div id="submenu6" class="submenu">     
  		    	<div>
      				<a href="/Entertainment/Music/MusicChoice" class="first"><span>Music Choice</span></a> 
@@ -325,9 +388,9 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn7" href="http://games.optimum.net/index.aspx"><img src="http://img.optimum.net/images/header/2009/topmenu/games.jpg"></a>
+  			<li><a id="tn7" href="http://games.optimum.net/index.aspx"><img src="http://www.optimum.net/images/header/2009/topmenu/games.jpg"></a>
     	</li>
-  			<li><a id="tn8" href="/ExploreOptimum"><img src="http://img.optimum.net/images/header/2009/topmenu/exploreoptimum.jpg"></a>
+  			<li><a id="tn8" href="/ExploreOptimum"><img src="http://www.optimum.net/images/header/2009/topmenu/exploreoptimum.jpg"></a>
      		<div id="submenu8" class="submenu">     
  		    	<div>
      				<a href="/WiFi" class="first"><span>Optimum WiFi</span></a> 
@@ -336,8 +399,8 @@ function tpSetHomePageFooter(obj)
      					<li><a href="/WiFi/Find">Find</a></li> 
      					<li><a href="/WiFi/Share">Share</a></li> 
      					<li><a href="/WiFi/SetUp">Set Up</a></li> 
-     					<li><a href="/WiFi/FAQ">FAQ</a></li> 
-     					<li><a href="http://optimum.custhelp.com/cgi-bin/optimum.cfg/php/enduser/std_alp.php?p_search_text=wifi">WiFi Support</a></li> 
+     					<li><a href="/WiFi/FAQ">Frequently Asked Questions</a></li> 
+     					<li><a href="http://optimum.custhelp.com/app/answers/list/search/1/kw/wifi">WiFi Support</a></li> 
      					<li><a href="/WiFi/TOS">WiFi Terms Of Use</a></li> 
       				</ul><p></p>       
      				<a href="/OptimumSelect" class="sub"><span>Optimum Select</span></a> 
@@ -348,10 +411,10 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn9" href="/MyAccount"><img src="http://img.optimum.net/images/header/2009/topmenu/myaccount.jpg"></a>
+  			<li><a id="tn9" href="/MyAccount"><img src="http://www.optimum.net/images/header/2009/topmenu/myaccount.jpg"></a>
      		<div id="submenu9" class="submenu" style="width:377px;left:-254px;">     
  		    	<div style="float:left;width:188px;border-right:none;">
-     				<a href="javascript:popupNewWindow('/MyAccount/billpay/login')" class="first"><span>Pay My Bill</span></a> 
+     				<a href="https://idcenter.services.optimum.net/MyAccount/BillPay?requestedFlow=S" class="first"><span>Pay My Bill</span></a> 
      				<a href="/Support/PaymentCenters" class="sub"><span>Payment Centers</span></a> 
      				<a href="/MyAccount/OnDemandPurchases" class="sub"><span>On Demand Purchases</span></a> 
      				<a href="https://idcenter.services.optimum.net/OptimumID" class="sub"><span>ID Center</span></a> 
@@ -372,7 +435,7 @@ function tpSetHomePageFooter(obj)
      			</div>
      		</div>
     	</li>
-  			<li><a id="tn10" href="/Support"><img src="http://img.optimum.net/images/header/2009/topmenu/support.jpg"></a>
+  			<li><a id="tn10" href="/Support"><img src="http://www.optimum.net/images/header/2009/topmenu/support.jpg"></a>
      		<div id="submenu10" class="submenu" style="left:-70px;">     
  		    	<div>
      				<a href="/Support" class="first"><span>Customer Support</span></a> 
@@ -465,13 +528,14 @@ function tpSetHomePageFooter(obj)
 		</script>
 
 	
+		
 		<div class="wrapperInner">
 			<div class="roundedCorners">
 				<div class="topWrapper">
 					<div class="c"></div>
 				</div>
 				<div class="mdlWrapper">
-					<div class="c clearfix" style="text-align:left;padding:3px 16px 11px 16px;">	
+					<div class="c clearfix" style="text-align:left;padding:3px 16px 11px 16px;">						
 						
 		<div class="ltColWrapper">
 			
@@ -483,10 +547,10 @@ function tpSetHomePageFooter(obj)
 	<div class="rt"></div>
 </div>
 		<a href="/Privacy" class="mainSelectedSingle"><span>Privacy Policy</span><span class="arrow">&nbsp;</span></a>
-	<img src="http://img.optimum.net/images/leftmenu/2009/nav_bottom.jpg" width="210" height="13">
+	<img src="http://www.optimum.net/images/leftmenu/2009/nav_bottom.jpg" width="210" height="13">
 </div>
 <div align="center" class="center mrTop15" id="DCAdv">
-	<script type="text/javascript" src="http://img.optimum.net/js/sidebar/sidebarAdvertisement.js"></script>
+	<script type="text/javascript" src="http://www.optimum.net/js/sidebar/sidebarAdvertisement.js"></script>
 </div>
 
 	
@@ -801,8 +865,6 @@ function tpSetHomePageFooter(obj)
 		</div>
 </div>
 	
-
-			
 	
 		</div>
 		
@@ -812,8 +874,11 @@ function tpSetHomePageFooter(obj)
 
 
 
-<script type="text/javascript" src="http://img.optimum.net/js/omniture/s_code_h.js?2"></script>
-<script type="text/javascript" src="http://img.optimum.net/js/omniture/2h.js?3"></script>
+<div id="OmnitureIpMd5" style="display:none;">719c1872116f712cdde0da7994989d01</div>
+
+<script type="text/javascript" src="http://img.optimum.net/js/omniture/s_code_h.js?9"></script>
+
+<script type="text/javascript" src="http://img.optimum.net/js/omniture/2h.js?11"></script>
 		
 		
 		
