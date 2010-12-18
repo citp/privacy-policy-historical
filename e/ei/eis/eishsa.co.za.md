@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eishsa.co.za privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326023528id_/http%3A//www.eishsa.co.za/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eishsa.co.za privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218105856id_/http%3A//www.eishsa.co.za/Privacy_Policy.html) for the most accurate reproduction.*
 
 # EishSA - Privacy Policy
 
-[](http://www.eishsa.co.za/minisites/ads4life.html)
+[](https://web.archive.org/web/20101218105856id_/http%3A//www.eishsa.co.za/script-signup.html)
 
   
 
