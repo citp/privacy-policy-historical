@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510142146id_/http%3A//www.pcsecurityshield.com/dspPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218144215id_/http%3A//www.pcsecurityshield.com/dspPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PCSecurityshield.com :: Privacy Policy
 
@@ -21,7 +21,7 @@ PCSecurityShield works with FetchBack to display Retargeted ads to our site pros
 
 **SHIPPING POLICY**   
 **Canceled Orders**  
-PCSecurityShield will accept order cancelations within 30 days of purchase. ALL order cancelations will incur a $3.00 processing fee. Under no circumstances will this fee be waived. 
+PCSecurityShield will accept order cancelations within 30 days of purchase. 
 
 To cancel an order please contact us using our [Support Website](http://support.pcsecurityshield.com/contactUs/Default.aspx). 
 
@@ -44,7 +44,7 @@ Please feel free using our [Support Website](http://support.pcsecurityshield.com
 **Return Policy:**   
 PCSecurityShield will accept returns for up to 30 days after day of receipt of good. Item must be in good shape and a restocking fee may be charged if there is damage. PC Security Shield will not reimburse for return shipping fees. 
 
-After 20 days PCSecurityShield will issue a store credit only less fees.
+After 30 days PCSecurityShield will issue a store credit only less fees.
 
 **Lost Orders:**   
 Order sent via first class mail can take 5-10 days to arrive. PCSecurityShield will not reship lost order for 14 days after the original order was placed. 
