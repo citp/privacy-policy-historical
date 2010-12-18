@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the justinbenedick.com privacy policy that was archived on 2010-01-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100111051248id_/http%3A//www.justinbenedick.com/action/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justinbenedick.com privacy policy that was archived on 2010-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218121016id_/http%3A//justinbenedick.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -73,9 +73,9 @@
 
 <script type="text/javascript">
 
-	statusSettingUrl = 'http://justinbenedick.com/action/profile/settings/';
+	statusSettingUrl = 'http://justinbenedick.com/profileSettings.php';
 
-	logoutUrl = 'http://justinbenedick.com/action/logout/';
+	logoutUrl = 'http://justinbenedick.com/logout.php';
 
 
 	function blockError(){return true;}
@@ -95,42 +95,42 @@ function changeAction(){
 		return false;
 	switch (obj.soption.value){
 		case 'photos':
-			act_url = 'http://justinbenedick.com/action/photolist/photonew/?tags=';
+			act_url = 'http://justinbenedick.com/photoList.php?pg=photonew&tags=';
 			obj.action = act_url+obj.tags.value;
 			return true;
 			break;
 
 		case 'videos':
-			act_url = 'http://justinbenedick.com/action/videolist/videonew/?tags=';
+			act_url = 'http://justinbenedick.com/videoList.php?pg=videonew&tags=';
 			obj.action = act_url+obj.tags.value;
 			return true;
 			break;
 
 		case 'articles':
-			act_url = 'http://justinbenedick.com/action/articlelist/articlenew/?tags=';
+			act_url = 'http://justinbenedick.com/articleList.php?pg=articlenew&tags=';
 			obj.action = act_url+obj.tags.value;
 			return true;
 			break;
 
 		case 'musics':
-			act_url = 'http://justinbenedick.com/action/musiclist/musicnew/?tags=';
+			act_url = 'http://justinbenedick.com/musicList.php?pg=musicnew&tags=';
 			obj.action = act_url+obj.tags.value;
 			return true;
 			break;
 
 		case 'games':
-			act_url = 'http://justinbenedick.com/action/gamelist/gamenew/?tags=';
+			act_url = 'http://justinbenedick.com/gameList.php?pg=gamenew&tags=';
 			obj.action = act_url+obj.tags.value;
 			return true;
 			break;
 
 		case 'members':
-			act_url = 'http://justinbenedick.com/action/memberslist/?tags=';
+			act_url = 'http://justinbenedick.com/membersList.php?tags=';
 			obj.action = act_url + obj.tags.value;
 			return true;
 
 		case 'groups':
-			act_url = 'http://justinbenedick.com/action/group/?tags=';
+			act_url = 'http://justinbenedick.com/groupListAll.php?tags=';
 			obj.action = act_url + obj.tags.value;
 			return true;
 
@@ -146,13 +146,13 @@ function changeActionSub(){
 		return false;
 	switch (obj.soptionSub.value){
 		case 'photos':
-			act_url = 'http://justinbenedick.com/action/photolist/photonew/?tags=';
+			act_url = 'http://justinbenedick.com/photoList.php?pg=photonew&tags=';
 			obj.action = act_url+obj.tagsSub.value;
 			return true;
 			break;
 
 		case 'videos':
-			act_url = 'http://justinbenedick.com/action/videolist/videonew/?tags=';
+			act_url = 'http://justinbenedick.com/videoList.php?pg=videonew&tags=';
 			act_url = act_url+obj.tagsSub.value;
 			act_url = act_url+'&cid='+obj.catIdSub.value;
 			obj.action = act_url;
@@ -160,31 +160,31 @@ function changeActionSub(){
 			break;
 
 		case 'articles':
-			act_url = 'http://justinbenedick.com/action/articlelist/articlenew/?tags=';
+			act_url = 'http://justinbenedick.com/articleList.php?pg=articlenew&tags=';
 			obj.action = act_url+obj.tagsSub.value;
 			return true;
 			break;
 
 		case 'musics':
-			act_url = 'http://justinbenedick.com/action/musiclist/musicnew/?tags=';
+			act_url = 'http://justinbenedick.com/musicList.php?pg=musicnew&tags=';
 			obj.action = act_url+obj.tagsSub.value;
 			return true;
 			break;
 
 		case 'games':
-			act_url = 'http://justinbenedick.com/action/gamelist/gamenew/?tags=';
+			act_url = 'http://justinbenedick.com/gameList.php?pg=gamenew&tags=';
 			obj.action = act_url+obj.tagsSub.value;
 			return true;
 			break;
 
 		case 'members':
-			act_url = 'http://justinbenedick.com/action/memberslist/?tags=';
+			act_url = 'http://justinbenedick.com/membersList.php?tags=';
 			act_url = act_url + obj.tagsSub.value;
 			obj.action = act_url;
 			return true;
 
 		case 'groups':
-			act_url = 'http://justinbenedick.com/action/group/?tags=';
+			act_url = 'http://justinbenedick.com/groupListAll.php?tags=';
 			obj.action = act_url + obj.tagsSub.value;
 			return true;
 
@@ -345,12 +345,12 @@ pageTracker._trackPageview();
 
 
 
-          <li><a class="clsActiveLink" href="http://justinbenedick.com/action/index/">Home</a></li>
+          <li><a class="clsActiveLink" href="http://justinbenedick.com/index.php">Home</a></li>
 
           <li class="clsFilterStatusAlert">
 
         <span class="clsFilterStatus">Mature Warning: <span id="selContentFilterStatus">
-<a href="http://justinbenedick.com/members/action/profile/settings/">On</a></span></span>
+<a href="http://justinbenedick.com/members/profileSettings.php">On</a></span></span>
 
       </li>
 
@@ -359,11 +359,11 @@ pageTracker._trackPageview();
 
           
           
-          <li class=""><a href="http://justinbenedick.com/action/login/">Log in</a></li>
+          <li class=""><a href="http://justinbenedick.com/login.php">Log in</a></li>
 
           
           
-          <li class="clsNoBorder"><a class="" href="http://justinbenedick.com/action/signup/">Sign up</a></li>
+          <li class="clsNoBorder"><a class="" href="http://justinbenedick.com/signup.php">Sign up</a></li>
 
           
           
@@ -465,7 +465,7 @@ pageTracker._trackPageview();
 
                 </td>
 
-                <td><p class="clsUpload"><a href="http://justinbenedick.com/members/action/videouploadpopup/">upload</a></p></td>
+                <td><p class="clsUpload"><a href="http://justinbenedick.com/members/videoUploadPopUp.php">upload</a></p></td>
 
             </tr>
 
@@ -493,21 +493,21 @@ pageTracker._trackPageview();
         <div id="selNav">
 
           <dl class="clsMenu">
-            <dt id="dtmenu2" onmouseout="montreShowDefault('smenu2');" onmouseover="montre('smenu2');" class="clsSubMenu "><a href="http://justinbenedick.com/action/memberslist/"><span class="clsTabNavLink">Members</span></a></dt>
+            <dt id="dtmenu2" onmouseout="montreShowDefault('smenu2');" onmouseover="montre('smenu2');" class="clsSubMenu "><a href="http://justinbenedick.com/membersList.php"><span class="clsTabNavLink">Members</span></a></dt>
             <dd onmouseout="montreShowDefault('smenu2');" class="" style="display:none" id="smenu2" onmouseover="montre('smenu2');">
 			  <ul>
-              			    <li><a href="http://justinbenedick.com/action/memberslist/?browse=maleMostFriends">Most Friends</a></li>
+              			    <li><a href="http://justinbenedick.com/membersList.php?browse=maleMostFriends">Most Friends</a></li>
 			    <!--
-			    <li ><a href="http://justinbenedick.com/action/memberslist/?browse=femaleMostFriends">Female with most Friends</a></li>
+			    <li ><a href="http://justinbenedick.com/membersList.php?browse=femaleMostFriends">Female with most Friends</a></li>
 			    -->
-			    <li><a href="http://justinbenedick.com/action/memberslist/?browse=maleMostViewed">Most viewed</a></li>
+			    <li><a href="http://justinbenedick.com/membersList.php?browse=maleMostViewed">Most viewed</a></li>
 			    <!--
-			    <li ><a href="http://justinbenedick.com/action/memberslist/?browse=femaleMostViewed" >Most viewed Female</a></li>
+			    <li ><a href="http://justinbenedick.com/membersList.php?browse=femaleMostViewed" >Most viewed Female</a></li>
 			    -->
-			    <li><a href="http://justinbenedick.com/action/memberslist/?browse=recentMembers">Recent Members</a></li>
-			    <li><a href="http://justinbenedick.com/action/memberslist/?browse=onlineMembers">Who's Online</a></li>
-                <li><a href="http://justinbenedick.com/action/memberslist/?browse=pointRewardedMembers">Most point members</a></li>
-			    <li><a href="http://justinbenedick.com/action/memberslist/?browse=mostActiveUsers">Most active users</a>
+			    <li><a href="http://justinbenedick.com/membersList.php?browse=recentMembers">Recent Members</a></li>
+			    <li><a href="http://justinbenedick.com/membersList.php?browse=onlineMembers">Who's Online</a></li>
+                <li><a href="http://justinbenedick.com/membersList.php?browse=pointRewardedMembers">Most point members</a></li>
+			    <li><a href="http://justinbenedick.com/membersList.php?browse=mostActiveUsers">Most active users</a>
 
 
 
@@ -516,72 +516,72 @@ pageTracker._trackPageview();
 			</dd>
           </dl>
                     <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu3');" id="dtmenu3" onmouseover="montre('smenu3');" class="clsSubMenu "><a href="http://justinbenedick.com/action/videolist/videonew/"><span class="clsTabNavLink">Videos</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu3');" id="dtmenu3" onmouseover="montre('smenu3');" class="clsSubMenu "><a href="http://justinbenedick.com/videoList.php?pg=videonew"><span class="clsTabNavLink">Videos</span></a></dt>
             <dd onmouseout="montreShowDefault('smenu3');" class="" style="display:none" id="smenu3" onmouseover="montre('smenu3');">
 				<ul>
-					<li class=""><a href="http://justinbenedick.com/action/videolist/videonew/">Recently Added</a></li>
-					<!--<li class=""><a href="http://justinbenedick.com/action/videolist/videomostrecentlyviewed/">Recently Viewed</a></li>-->
-					<li class=""><a href="http://justinbenedick.com/action/videolist/videomostviewed/">Most Viewed</a>
-				    </li><li class=""><a href="http://justinbenedick.com/action/videolist/videotoprated/">Top Rated</a></li>
-				    <li class=""><a href="http://justinbenedick.com/action/videolist/videomostdiscussed/">Most Discussed</a>
-				    </li><li class=""><a href="http://justinbenedick.com/action/videolist/videomostfavorite/">Most Favorite</a>
-				    </li><li class=""><a href="http://justinbenedick.com/action/videolist/featuredvideolist/">Featured Videos</a>
-				    </li><li class=""><a href="http://justinbenedick.com/action/videolist/videomostlinked/">Most Linked</a>
-				    </li><li class=""><a href="http://justinbenedick.com/action/videolist/videomostresponded/">Most Responded</a>
+					<li class=""><a href="http://justinbenedick.com/videoList.php?pg=videonew">Recently Added</a></li>
+					<!--<li class=""><a href="http://justinbenedick.com/videoList.php?pg=videomostrecentlyviewed">Recently Viewed</a></li>-->
+					<li class=""><a href="http://justinbenedick.com/videoList.php?pg=videomostviewed">Most Viewed</a>
+				    </li><li class=""><a href="http://justinbenedick.com/videoList.php?pg=videotoprated">Top Rated</a></li>
+				    <li class=""><a href="http://justinbenedick.com/videoList.php?pg=videomostdiscussed">Most Discussed</a>
+				    </li><li class=""><a href="http://justinbenedick.com/videoList.php?pg=videomostfavorite">Most Favorite</a>
+				    </li><li class=""><a href="http://justinbenedick.com/videoList.php?pg=featuredvideolist">Featured Videos</a>
+				    </li><li class=""><a href="http://justinbenedick.com/videoList.php?pg=videomostlinked">Most Linked</a>
+				    </li><li class=""><a href="http://justinbenedick.com/videoList.php?pg=videomostresponded">Most Responded</a>
 				</li></ul>
 			</dd>
           </dl>
                               <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu4');" id="dtmenu4" onmouseover="montre('smenu4');" class="clsSubMenu "><a href="http://justinbenedick.com/action/articlelist/articlenew/"><span class="clsTabNavLink">Articles</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu4');" id="dtmenu4" onmouseover="montre('smenu4');" class="clsSubMenu "><a href="http://justinbenedick.com/articleList.php?pg=articlenew"><span class="clsTabNavLink">Articles</span></a></dt>
              <dd onmouseout="montreShowDefault('smenu4');" class="" style="display:none" id="smenu4" onmouseover="montre('smenu4');">
 				<ul>
-					<li class=""><a href="http://justinbenedick.com/action/articlelist/articlenew/">Recently Added</a></li>
-					<li class=""><a href="http://justinbenedick.com/action/articlelist/articlemostviewed/">Most Viewed</a>
-					</li><li class=""><a href="http://justinbenedick.com/action/articlelist/articletoprated/">Top Rated</a></li>
-					<li class=""><a href="http://justinbenedick.com/action/articlelist/articlemostdiscussed/">Most Discussed</a>
-					</li><li class=""><a href="http://justinbenedick.com/action/articlelist/articlemostfavorite/">Most Favorite</a>
+					<li class=""><a href="http://justinbenedick.com/articleList.php?pg=articlenew">Recently Added</a></li>
+					<li class=""><a href="http://justinbenedick.com/articleList.php?pg=articlemostviewed">Most Viewed</a>
+					</li><li class=""><a href="http://justinbenedick.com/articleList.php?pg=articletoprated">Top Rated</a></li>
+					<li class=""><a href="http://justinbenedick.com/articleList.php?pg=articlemostdiscussed">Most Discussed</a>
+					</li><li class=""><a href="http://justinbenedick.com/articleList.php?pg=articlemostfavorite">Most Favorite</a>
 				</li></ul>
 
 			</dd>
           </dl>
                                         <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu6');" id="dtmenu6" onmouseover="montre('smenu6');" class="clsSubMenu "><a href="http://justinbenedick.com/action/photolist/photonew/"><span class="clsTabNavLink">Photos</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu6');" id="dtmenu6" onmouseover="montre('smenu6');" class="clsSubMenu "><a href="http://justinbenedick.com/photoList.php?pg=photonew"><span class="clsTabNavLink">Photos</span></a></dt>
              <dd onmouseout="montreShowDefault('smenu6');" class="" id="smenu6" style="display:none" onmouseover="montre('smenu6');">
 				<ul>
-				    <li class=""><a href="http://justinbenedick.com/action/photolist/photonew/">Recently Added</a></li>
-				    <li class=""><a href="http://justinbenedick.com/action/photolist/photomostviewed/">Most Viewed</a>
-				    </li><li class=""><a href="http://justinbenedick.com/action/photolist/phototoprated/">Top Rated</a></li>
-				    <li class=""><a href="http://justinbenedick.com/action/photolist/photomostdiscussed/">Most Discussed</a>
-					</li><li class=""><a href="http://justinbenedick.com/action/photolist/photomostfavorite/">Most Favorite</a>
-					</li><li class=""><a href="http://justinbenedick.com/action/photolist/featuredphotolist/">Featured List</a></li>
+				    <li class=""><a href="http://justinbenedick.com/photoList.php?pg=photonew">Recently Added</a></li>
+				    <li class=""><a href="http://justinbenedick.com/photoList.php?pg=photomostviewed">Most Viewed</a>
+				    </li><li class=""><a href="http://justinbenedick.com/photoList.php?pg=phototoprated">Top Rated</a></li>
+				    <li class=""><a href="http://justinbenedick.com/photoList.php?pg=photomostdiscussed">Most Discussed</a>
+					</li><li class=""><a href="http://justinbenedick.com/photoList.php?pg=photomostfavorite">Most Favorite</a>
+					</li><li class=""><a href="http://justinbenedick.com/photoList.php?pg=featuredphotolist">Featured List</a></li>
 				</ul>
 
 			</dd>
           </dl>
                     
                     <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu9');" id="dtmenu9" onmouseover="montre('smenu9');" class="clsSubMenu "><a href="http://justinbenedick.com/action/community/"><span class="clsTabNavLink">Community</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu9');" id="dtmenu9" onmouseover="montre('smenu9');" class="clsSubMenu "><a href="http://justinbenedick.com/communityList.php"><span class="clsTabNavLink">Community</span></a></dt>
             <dd onmouseout="montreShowDefault('smenu9');" style="display:none" id="smenu9" class="" onmouseover="montre('smenu9');">
               <ul>
-                                <li class=""><a href="http://justinbenedick.com/action/group/">Groups</a></li>
-                                                <li class=""><a href="http://justinbenedick.com/action/bulletin/">Bulletin</a></li>
+                                <li class=""><a href="http://justinbenedick.com/groupListAll.php">Groups</a></li>
+                                                <li class=""><a href="http://justinbenedick.com/bulletinListAll.php">Bulletin</a></li>
                 
                 				  <li class=""><a href="http://justinbenedick.com/phpBB/index.php">Forum</a></li>
 				
 
-                                <li class=""><a href="http://justinbenedick.com/action/shoutouts/">Shoutouts</a></li>
+                                <li class=""><a href="http://justinbenedick.com/shoutouts.php">Shoutouts</a></li>
                                   
       
               </ul>
             </dd>
           </dl>
                               <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu10');" id="dtmenu10" onmouseover="montre('smenu10');" class="clsSubMenu "><a href="http://justinbenedick.com/action/bloglist/"><span class="clsTabNavLink">Blogs</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu10');" id="dtmenu10" onmouseover="montre('smenu10');" class="clsSubMenu "><a href="http://justinbenedick.com/blogList.php"><span class="clsTabNavLink">Blogs</span></a></dt>
              <dd onmouseout="montreShowDefault('smenu10');" class="" style="display:none" id="smenu10" onmouseover="montre('smenu10');">
 				<ul>
-				  	<li class=""><a href="http://justinbenedick.com/action/blogcategory/">Blog Categories</a></li>
-				  	<li class=""><a href="http://justinbenedick.com/action/bloglist/?pg=newblog">Recently Added</a></li>
-				  	<li class=""><a href="http://justinbenedick.com/action/bloglist/?pg=mostviewblog">Mostly Viewed</a></li>
+				  	<li class=""><a href="http://justinbenedick.com/blogCategory.php">Blog Categories</a></li>
+				  	<li class=""><a href="http://justinbenedick.com/blogList.php?pg=newblog">Recently Added</a></li>
+				  	<li class=""><a href="http://justinbenedick.com/blogList.php?pg=mostviewblog">Mostly Viewed</a></li>
 				</ul>
 
 			</dd>
@@ -589,13 +589,13 @@ pageTracker._trackPageview();
           
 
           <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu11');" id="dtmenu11" onmouseover="montre('smenu11');" class="clsSubMenu "><a href="http://justinbenedick.com/action/chat/"><span class="clsTabNavLink">Live Chat</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu11');" id="dtmenu11" onmouseover="montre('smenu11');" class="clsSubMenu "><a href="http://justinbenedick.com/chat.php"><span class="clsTabNavLink">Live Chat</span></a></dt>
   
           </dl>
            
  
            <dl class="clsMenu">
-            <dt onmouseout="montreShowDefault('smenu12');" id="dtmenu12" onmouseover="montre('smenu12');" class="clsSubMenu "><a href="http://justinbenedick.com/action/premium/"><span class="clsTabNavLink">Premium</span></a></dt>
+            <dt onmouseout="montreShowDefault('smenu12');" id="dtmenu12" onmouseover="montre('smenu12');" class="clsSubMenu "><a href="http://justinbenedick.com/premium.php"><span class="clsTabNavLink">Premium</span></a></dt>
   
           </dl>
                    
@@ -627,7 +627,7 @@ pageTracker._trackPageview();
             <div class="tlcmember">
               <div class="trcmember">
   <div class="clsMemberLogin"><h3>Member Login</h3>
-  <form id="formIndexLogin" name="formIndexLogin" method="post" action="http://justinbenedick.com/action/login/">
+  <form id="formIndexLogin" name="formIndexLogin" method="post" action="http://justinbenedick.com/login.php">
     <table>
       <tbody><tr>
         <td class="clsFormLabelCellDefault">User Name</td>
@@ -644,8 +644,8 @@ pageTracker._trackPageview();
         </td>
       </tr>
       <tr>
-        <td colspan="2" class="clsLoginLinks"><a id="selForgotPwd" href="http://justinbenedick.com/action/forgotpassword/">Forgot Your Password?</a>&nbsp;
-                    <a id="selSignUpLink" href="http://justinbenedick.com/action/signup/">Signup</a>
+        <td colspan="2" class="clsLoginLinks"><a id="selForgotPwd" href="http://justinbenedick.com/forgotPassword.php">Forgot Your Password?</a>&nbsp;
+                    <a id="selSignUpLink" href="http://justinbenedick.com/signup.php">Signup</a>
                   </td>
       </tr>
     </tbody></table>
@@ -669,7 +669,7 @@ pageTracker._trackPageview();
 			so1.addParam("allowFullScreen", "true");
 			//so1.addParam("wmode", "transparent");
 			so1.addParam("allowSciptAccess", "always");
-			so1.addVariable("config", "http://justinbenedick.com/videoMiniPlayerConfigXmlCode.php?pg=smallvideo_1496_no_0");
+			so1.addVariable("config", "http://justinbenedick.com/videoMiniPlayerConfigXmlCode.php?pg=smallvideo_2256_no_0");
 			so1.write("flashcontent2");
 		</script>
   <p></p>
@@ -685,20 +685,20 @@ pageTracker._trackPageview();
  <div class="clsSideBarRight">
  <div class="clsSideBarContent">
   <ul>
-      <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=3">Amateur</a>(2444)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=12">Athletes and Sports</a>(229)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=4">Beach Boys</a>(801)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=5">Celebrities</a>(712)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=16">Couple or Group Pics</a>(144)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=14">Eye Candies &amp; Twinks</a>(585)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=6">Magazine</a>(596)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=7">Male Models</a>(1839)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=15">Members Pics</a>(521)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=11">Military &amp; Uniform</a>(54)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=13">Muscles &amp; Beefcakes</a>(211)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=8">Party &amp; Events</a>(506)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=9">Playing</a>(395)</li>
-        <li><a href="http://justinbenedick.com/action/photolist/photonew/?cid=17">Underwear Shots</a>(533)</li>
+      <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=3">Amateur</a>(4329)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=12">Athletes and Sports</a>(467)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=4">Beach Boys</a>(1026)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=5">Celebrities</a>(1340)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=16">Couple or Group Pics</a>(320)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=14">Eye Candies &amp; Twinks</a>(988)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=6">Magazine</a>(840)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=7">Male Models</a>(4422)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=15">Members Pics</a>(793)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=11">Military &amp; Uniform</a>(90)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=13">Muscles &amp; Beefcakes</a>(555)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=8">Party &amp; Events</a>(408)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=9">Playing</a>(847)</li>
+        <li><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;cid=17">Underwear Shots</a>(1339)</li>
       </ul></div>
 </div></div></div>
 <div class="clsSideBarLinks" id="selPhotoTags">
@@ -710,28 +710,28 @@ pageTracker._trackPageview();
  <div class="clsSideBarRight">
   <div class="clsSideBarContent">
     <p>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=.." style="font-size:15px">..</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=..." style="font-size:25px">...</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=...." style="font-size:24px">....</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=....." style="font-size:28px">.....</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=........" style="font-size:17px">........</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=........." style="font-size:16px">.........</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=Adult" style="font-size:15px">Adult</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=Amateur" style="font-size:13px">Amateur</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=Asian" style="font-size:19px">Asian</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=Beach" style="font-size:13px">Beach</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=Boy" style="font-size:13px">Boy</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=Boys" style="font-size:13px">Boys</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=be..." style="font-size:13px">be...</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=dick" style="font-size:13px">dick</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=gay" style="font-size:19px">gay</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=hot" style="font-size:14px">hot</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=hunk" style="font-size:13px">hunk</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=model" style="font-size:17px">model</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=nude" style="font-size:13px">nude</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/photolist/photonew/?tags=pinoy" style="font-size:12px">pinoy</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=.." style="font-size:15px">..</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=..." style="font-size:28px">...</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=...." style="font-size:26px">....</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=....." style="font-size:27px">.....</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=......" style="font-size:17px">......</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=......." style="font-size:17px">.......</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=........" style="font-size:16px">........</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=........." style="font-size:16px">.........</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=..........." style="font-size:14px">...........</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=............" style="font-size:15px">............</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=............." style="font-size:13px">.............</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=Adult" style="font-size:13px">Adult</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=Asian" style="font-size:16px">Asian</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=Boy" style="font-size:13px">Boy</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=gay" style="font-size:15px">gay</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=hot" style="font-size:16px">hot</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=hunk" style="font-size:12px">hunk</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=model" style="font-size:15px">model</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=sex" style="font-size:13px">sex</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/photoList.php?pg=photonew&amp;tags=sexy" style="font-size:13px">sexy</a></span>
       </p>
-  <p class="clsMoreTags"><a href="http://justinbenedick.com/action/tags/photo/">More &gt;&gt;</a></p>
+  <p class="clsMoreTags"><a href="http://justinbenedick.com/tags.php?pg=photo">More &gt;&gt;</a></p>
   </div></div></div></div>
 <div class="clsSideBarLinks">
 <div class="clsSideBar"><div class="clsSideBarLeft">
@@ -741,16 +741,16 @@ pageTracker._trackPageview();
 <div class="clsSideBarRight">
 <div class="clsSideBarContent">
   <ul>
-      <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=3">Amateur and Spycam</a>(198)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=11">Asian Gay Movies</a>(445)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=13">Beach Fun</a>(11)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=2">Events and Parties</a>(76)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=4">Hot Models</a>(28)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=5">Male Model Shoot</a>(49)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=6">Movies and TV show</a>(51)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=16">Solo Play</a>(42)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=15">Sports &amp; Games</a>(9)</li>
-        <li><a href="http://justinbenedick.com/action/videolist/videonew/?cid=8">Variety show</a>(23)</li>
+      <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=3">Amateur and Spycam</a>(348)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=11">Asian Gay Movies</a>(700)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=13">Beach Fun</a>(21)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=2">Events and Parties</a>(280)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=4">Hot Models</a>(213)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=5">Male Model Shoot</a>(153)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=6">Movies and TV show</a>(147)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=16">Solo Play</a>(153)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=15">Sports &amp; Games</a>(30)</li>
+        <li><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;cid=8">Variety show</a>(63)</li>
       </ul>
 </div></div></div></div>
 <div class="clsSideBarLinks">
@@ -762,28 +762,28 @@ pageTracker._trackPageview();
   <div class="clsSideBarRight">
    <div class="clsSideBarContent">
     <p>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=..." style="font-size:28px">...</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=Adult" style="font-size:22px">Adult</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=Cum" style="font-size:14px">Cum</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=Hot" style="font-size:14px">Hot</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=JP" style="font-size:13px">JP</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=Japanese" style="font-size:13px">Japanese</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=Model" style="font-size:13px">Model</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=amateur" style="font-size:13px">amateur</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=asian" style="font-size:22px">asian</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=boy" style="font-size:13px">boy</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=fuck" style="font-size:14px">fuck</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=gay" style="font-size:23px">gay</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=japan" style="font-size:13px">japan</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=movie" style="font-size:13px">movie</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=muscle" style="font-size:13px">muscle</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=off" style="font-size:13px">off</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=pinoy" style="font-size:13px">pinoy</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=sex" style="font-size:22px">sex</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=suck" style="font-size:14px">suck</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/videolist/videonew/?tags=thai" style="font-size:12px">thai</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=..." style="font-size:28px">...</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=...." style="font-size:22px">....</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=Adult" style="font-size:18px">Adult</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=Cum" style="font-size:13px">Cum</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=Guy" style="font-size:13px">Guy</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=Hardcore" style="font-size:13px">Hardcore</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=Hot" style="font-size:13px">Hot</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=Japanese" style="font-size:13px">Japanese</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=amateur" style="font-size:13px">amateur</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=asian" style="font-size:19px">asian</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=big" style="font-size:13px">big</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=boy" style="font-size:13px">boy</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=fingering" style="font-size:12px">fingering</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=fuck" style="font-size:14px">fuck</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=gay" style="font-size:20px">gay</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=muscle" style="font-size:13px">muscle</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=pinoy" style="font-size:13px">pinoy</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=pussy" style="font-size:13px">pussy</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=sex" style="font-size:18px">sex</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/videoList.php?pg=videonew&amp;tags=suck" style="font-size:13px">suck</a></span>
       </p>
-  <p class="clsMoreTags"><a href="http://justinbenedick.com/action/tags/video/">More &gt;&gt;</a></p>
+  <p class="clsMoreTags"><a href="http://justinbenedick.com/tags.php?pg=video">More &gt;&gt;</a></p>
   </div></div></div></div>
 <div class="clsSideBarLinks">
 <div class="clsSideBar"><div class="clsSideBarLeft">
@@ -793,9 +793,9 @@ pageTracker._trackPageview();
  <div class="clsSideBarRight">
   <div class="clsSideBarContent">
   <ul>
-      <li><a href="http://justinbenedick.com/action/articlelist/articlenew/?cid=4">Asian GLBT Attractions</a>(0)</li>
-        <li><a href="http://justinbenedick.com/action/articlelist/articlenew/?cid=2">Justin Benedick News &amp; Updates</a>(5)</li>
-        <li><a href="http://justinbenedick.com/action/articlelist/articlenew/?cid=3">Photo Articles</a>(22)</li>
+      <li><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;cid=4">Asian GLBT Attractions</a>(0)</li>
+        <li><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;cid=2">Justin Benedick News &amp; Updates</a>(5)</li>
+        <li><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;cid=3">Photo Articles</a>(22)</li>
       </ul>
 </div></div></div></div>
 <div class="clsSideBarLinks">
@@ -807,28 +807,28 @@ pageTracker._trackPageview();
  <div class="clsSideBarRight">
   <div class="clsSideBarContent">
     <p>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=..." style="font-size:24px">...</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=...." style="font-size:28px">....</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=....." style="font-size:19px">.....</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=......" style="font-size:14px">......</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=......." style="font-size:14px">.......</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=........" style="font-size:17px">........</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=........." style="font-size:13px">.........</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=.........." style="font-size:12px">..........</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=..........." style="font-size:13px">...........</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=............" style="font-size:12px">............</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=............." style="font-size:12px">.............</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=aaaaaaaaa" style="font-size:13px">aaaaaaaaa</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=asian" style="font-size:13px">asian</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=crush" style="font-size:14px">crush</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=hot" style="font-size:13px">hot</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=mmm" style="font-size:14px">mmm</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=mmmm" style="font-size:16px">mmmm</a></span>
-        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=my" style="font-size:14px">my</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=nnnn" style="font-size:13px">nnnn</a></span>
-        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/action/articlelist/articlenew/?tags=yaoi" style="font-size:18px">yaoi</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=..." style="font-size:21px">...</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=...." style="font-size:28px">....</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=....." style="font-size:22px">.....</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=......" style="font-size:17px">......</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=......." style="font-size:16px">.......</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=........" style="font-size:19px">........</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=........." style="font-size:17px">.........</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=.........." style="font-size:14px">..........</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=..........." style="font-size:16px">...........</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=............" style="font-size:14px">............</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=............." style="font-size:13px">.............</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=asian" style="font-size:12px">asian</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=hot" style="font-size:13px">hot</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=mmm" style="font-size:13px">mmm</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=mmmm" style="font-size:13px">mmmm</a></span>
+        <span class="clsTagStyleGrey"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=my" style="font-size:13px">my</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=xxxx" style="font-size:13px">xxxx</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=xxxxxx" style="font-size:13px">xxxxxx</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=yaoi" style="font-size:14px">yaoi</a></span>
+        <span class="clsTagStyleOrange"><a href="http://justinbenedick.com/articleList.php?pg=articlenew&amp;tags=11" style="font-size:13px">11</a></span>
       </p>
-  <p class="clsMoreTags"><a href="http://justinbenedick.com/action/tags/article/">More &gt;&gt;</a></p>
+  <p class="clsMoreTags"><a href="http://justinbenedick.com/tags.php?pg=article">More &gt;&gt;</a></p>
   </div></div></div></div>
 <div class="clsSideBarLinks">
 <div class="clsSideBar"><div class="clsSideBarLeft">
@@ -839,28 +839,30 @@ pageTracker._trackPageview();
  <div class="clsSideBarRight">
   <div class="clsSideBarContent">
     <ul>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1284">whats up</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1283">..=)</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1282">..!</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1281">..?</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1280">....</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1279">jakol</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1278">,h,h</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1277">luyyo</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1276">ghjnrty</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1275">asd</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1274">asd</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1273">asdkln</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1272">hmmm</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1271">So good</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1270">blog</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1269">blog</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1268">blog</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1267">blog</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1266">blog</a></li>
-        <li><a href="http://justinbenedick.com/action/blogcomment/?blog_id=1265">blog</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=203">[Read this first before  ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=123">hottest blog</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=112">Screenshot from the New  ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=111">Stay tuned. We are ditch ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=110">Something to spice up yo ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=109">Andy Honda ~ Lucas into  ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=108">Andy Honda ~ Cody into L ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=107">Andy Honda Audition</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=106">Lean hunk Asian Part II</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=105">Andy Honda V: Amateur Sh ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=104">Join me in the bath tub?</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=103">Akihiro Sato</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=102">Andy Honda IV: Playing W ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=101">Asian Boy Compilation!</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=100">Yoshiya Minami</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=99">Andy Honda III: Bedroom  ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=98">Jeffierce</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=97">Grab 300 points* when yo ..</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=96">Lean hunky Asian Athlete</a></li>
+        <li><a href="http://justinbenedick.com/blogComment.php?blog_id=95">Hot, Boyish Thai Model</a></li>
       </ul>
-  <p class="clsMoreTags"><a href="http://justinbenedick.com/action/bloglist/">More &gt;&gt;</a></p>
+  
+  <p class="clsMoreTags"><a href="http://justinbenedick.com/blogList.php">More &gt;&gt;</a></p>
+  
   </div></div></div></div>
 <div class="clsSideBarLinks" id="selExtURL">
 <div class="clsSideBar"><div class="clsSideBarLeft">
@@ -901,7 +903,7 @@ pageTracker._trackPageview();
 			</div>
 		</li>
 	</ul>
-			  <p class="clsMoreTags"><a href="http://justinbenedick.com/action/exturl/">More</a></p>
+			  <p class="clsMoreTags"><a href="http://justinbenedick.com/exturl.php">More</a></p>
 
 </div></div></div></div>
 		
@@ -926,7 +928,7 @@ pageTracker._trackPageview();
                 <!-- END OF TAG FOR SLOT JB_Misc_RightCol_140x600
                      -->
                 
-              <p>.</p>
+              <p><!--START CameraBoys IFRAME <iframe src="http://iframes.awempire.com/?t_id=justinbenedick_02&psid=justinbenedick&pstour=t2&psprogram=PPS&site=cmb" scrolling="no" align="MIDDLE" width="135" height="600" frameborder="No" marginHeight="0" marginWidth="0"></iframe> END CameraBoys IFRAME--></p>
 
       <p></p>
 
@@ -1002,7 +1004,7 @@ pageTracker._trackPageview();
 
   <div id="selFooterCommonSearch">
 
-  <form name="searchFooterForm" onsubmit="if(trim($('tags_footer').value)!='') return true; else return false;" id="searchFooterForm" action="http://justinbenedick.com/action/searchlist/" method="get">  
+  <form name="searchFooterForm" onsubmit="if(trim($('tags_footer').value)!='') return true; else return false;" id="searchFooterForm" action="http://justinbenedick.com/searchList.php" method="get">  
 
   	<input type="hidden" name="search_type" value="video">
 
@@ -1042,21 +1044,21 @@ pageTracker._trackPageview();
 
     <ul>
 
-      <li><a href="http://justinbenedick.com/action/videolist/videonew/">videos</a></li>
+      <li><a href="http://justinbenedick.com/videoList.php?pg=videonew">videos</a></li>
 
-      <li><a href="http://justinbenedick.com/action/videoplaylist/">playlist</a></li>
+      <li><a href="http://justinbenedick.com/videoPlayList.php">playlist</a></li>
 
       <!--<li><a href="#">subscription</a></li>-->
 
       
 
 
-      <li><a href="http://justinbenedick.com/members/action/videolist/myfavoritevideos/">favourites</a></li>
+      <li><a href="http://justinbenedick.com/members/videoList.php?pg=myfavoritevideos">favourites</a></li>
 
 	
 
 
-      <li><a href="http://justinbenedick.com/action/mail/inbox/">inbox</a></li>
+      <li><a href="http://justinbenedick.com/members/mail.php?folder=inbox">inbox</a></li>
 
 	  
 
@@ -1069,8 +1071,8 @@ pageTracker._trackPageview();
   <h2>RSS</h2>
 
 			<ul>
-							    <li class="rss"><a href="http://justinbenedick.com/action/rssvideo/">RSS Video</a></li>
-															    <li class="rss"><a href="http://justinbenedick.com/action/rssphoto/">RSS photo</a></li>
+							    <li class="rss"><a href="http://justinbenedick.com/rss.php">RSS Video</a></li>
+															    <li class="rss"><a href="http://justinbenedick.com/rssPhoto.php">RSS photo</a></li>
                 </ul>
 				
   </div>
@@ -1087,10 +1089,10 @@ pageTracker._trackPageview();
 
     <ul>
 
-      <li><a href="http://justinbenedick.com/action/faq/">FAQ</a></li>
+      <li><a href="http://justinbenedick.com/faq.php">FAQ</a></li>
 
-				<li><a href="http://justinbenedick.com/action/static/codeofconduct/">Code of conduct</a></li>
-				<li><a href="http://justinbenedick.com/action/static/Copyright/">Copyright</a></li>
+				<li><a href="http://justinbenedick.com/staticPage.php?pg=codeofconduct">Code of conduct</a></li>
+				<li><a href="http://justinbenedick.com/staticPage.php?pg=Copyright">Copyright</a></li>
 	  
 
       <!--<li><a href="#">developer apls</a></li>
@@ -1113,10 +1115,10 @@ pageTracker._trackPageview();
 
     <ul>
 
-				<li><a href="http://justinbenedick.com/action/static/privacy/">privacy policy</a></li>
-				<li><a href="http://justinbenedick.com/action/static/toc/">Terms of Use</a></li>
-				<li><a href="http://justinbenedick.com/action/static/companyinfo/">About Us</a></li>
-				<li><a href="http://justinbenedick.com/action/static/advertiser/">Advertiser</a></li>
+				<li><a href="http://justinbenedick.com/staticPage.php?pg=privacy">privacy policy</a></li>
+				<li><a href="http://justinbenedick.com/staticPage.php?pg=toc">Terms of Use</a></li>
+				<li><a href="http://justinbenedick.com/staticPage.php?pg=companyinfo">About Us</a></li>
+				<li><a href="http://justinbenedick.com/staticPage.php?pg=advertiser">Advertiser</a></li>
 	 	
 
       <!--<li><a href="#">company info</a></li>
@@ -1133,7 +1135,7 @@ pageTracker._trackPageview();
 
       <li><a href="#">jobs</a></li>-->
 
-      <li><a href="http://justinbenedick.com/action/contactus/">contact</a></li>	  
+      <li><a href="http://justinbenedick.com/contactUs.php">contact</a></li>	  
 
     </ul>
 
@@ -1295,7 +1297,7 @@ pageTracker._trackPageview();
 <!--
 <benchmark>
   <parsetime>
-    <sec>4.60184</sec>
+    <sec>1.49073</sec>
   </parsetime>
 </benchmark>
 --><script language="javascript">
