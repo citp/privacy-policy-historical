@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624090640id_/http%3A//www.syntelinc.com/internal.aspx%3Fid%3D175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218154240id_/http%3A//www.syntelinc.com/internal.aspx%3Fid%3D175) for the most accurate reproduction.*
 
 # IT Outsourcing | BPO | KPO | Outsourcing Strategy | Innovation | Offshore Delivery | Syntel
 
