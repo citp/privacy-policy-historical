@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricesbolo.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230231648id_/http%3A//www.pricesbolo.com/WebUI/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricesbolo.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218033812id_/http%3A//www.pricesbolo.com/WebUI/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Pricesbolo Privacy Policy - pricesbolo.com
+# Privacy Policy of Pricesbolo.com - Online Shopping and Price Comparison in india
 
 At Pricesbolo.com we value your privacy. Our Privacy policy explains the information collected from you, when you use Pricesbolo.com services and also the steps taken by us in safeguarding your information. We hope this will make you comfortable in sharing your personal information with us.
 
