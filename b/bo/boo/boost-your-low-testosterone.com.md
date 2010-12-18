@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328085918id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218205340id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -49,6 +49,22 @@ Google, as a third party vendor, uses cookies to serve ads on your site.Google's
 Updates and Effective Date
 
 www.boost-your-low-testosterone.com reserves the right to make changes in this privacy policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+
+Update:
+
+Third party vendors, including Google, use cookies to serve ads based on a visitor's prior visits to this website.
+
+Google's use of the DART cookie enables it and its partners to serve ads to you, the visitor, based on your visit to this site and/or other sites on the Internet.
+
+You may opt out of the use of the DART cookie by visiting the advertising opt-out page at http://www.google.com/privacy_ads.html. Alternatively you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page at http://www.networkadvertising.org/managing/opt_out.asp
+
+Third party ad-serving by Google:
+
+Google serves ads on this site, and certifies vendors for third party ads. You can find a list of these vendors and ad networks here - https://www.google.com/adsense/support/ ... swer=94149
+
+You may visit those websites to opt out of cookies (if the vendor or ad network offers this capability).
+
+You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at http://www.networkadvertising.org/managing/opt_out.asp
 
 Agreeing to Terms
 
