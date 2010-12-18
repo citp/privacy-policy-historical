@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183831id_/http%3A//www.homemadeenergy.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218155324id_/http%3A//homemadeenergy.org/privacy.html) for the most accurate reproduction.*
 
 # Home Made Energy: Renewable Energy For The Rest Of Us
 
