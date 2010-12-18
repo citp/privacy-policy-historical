@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602011438id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218032500id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ We collect two types of information from users of our website: (1) personal info
 
 ## Personal Information
 
-You may be requested to provide personal information to us such as when you register with us, send an e-mail, or submit a résumé for review by us or through the _GEN_ careers JobMart. _GEN_ does not distribute email contact information. From time to time, we may provide select third-party distributors the opportunity to contact _GEN_ subscribers, clients, site visitors, and those who have dealings with _GEN_ or _GEN_ products; such opportunities are only for direct mailings to physical addresses and never for electronic distribution. _GEN_ may also contact you directly, by direct mail or email, to advise you of other _GEN_ editorial products and events we believe may be of service to you, given products and/or services you currently receive. You may opt out of all such contact by updating your personal information in the log-in page on the _GEN_ website, or by contacting us in writing.
+You may be requested to provide personal information to us such as when you register with us, send an e-mail, or submit a résumé for review by us or through the GENcareers JobMart. GEN does not distribute email contact information. From time to time, we may provide select third-party distributors the opportunity to contact GEN subscribers, clients, site visitors, and those who have dealings with GEN or GEN products; such opportunities are only for direct mailings to physical addresses and never for electronic distribution. GEN may also contact you directly, by direct mail or email, to advise you of other GEN editorial products and events we believe may be of service to you, given products and/or services you currently receive. You may opt out of all such contact by updating your personal information in the log-in page on the GEN website, or by contacting us in writing.
 
 When registering or otherwise providing required personal information, if you do not feel comfortable sharing information via our website, feel free to contact us via regular mail or telephone to submit the same information.
 
