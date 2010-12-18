@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618113856id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218025821id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
 
 # Privacy Policy : Documents : Small Cap Stocks and Penny Stocks For Big Returns - SmallCap Network
 
