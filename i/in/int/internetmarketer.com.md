@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketer.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628125126id_/http%3A//www.autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketer.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218133201id_/http%3A//www.autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
