@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522133253id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218114415id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
 
 # 
 
 |  | 
 
-**Last Updated, July 23, 2009**. To see what has changed [click here](https://web.archive.org/web/20100522133253id_/http%3A//www.imdb.com/privacy_change). 
+**Last Updated, November 15, 2010**. To see what has changed [click here](https://web.archive.org/web/20101218114415id_/http%3A//www.imdb.com/privacy_change). 
 
 IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, you are accepting the practices described in this Privacy Notice.**
 
@@ -23,6 +23,7 @@ The information we learn from users helps us personalize and continually improve
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as My Movies, local show times, and browsing preferences. 
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take full advantage of some of IMDb's essential features, we recommend that you leave them turned on. 
+  * We use web beacons (also known as “action tags” or “single-pixel gifs”) and other technologies to measure the effectiveness of certain site features and to conduct research and analysis. We also allow third parties to place web beacons and other technologies on our site to conduct research and analysis, but we do not provide personal information to such third parties.
 
 
 
