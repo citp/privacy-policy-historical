@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicskingdom.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426114328id_/http%3A//www.kingfeatures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicskingdom.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218023321id_/http%3A//www.kingfeatures.com/privacy.htm) for the most accurate reproduction.*
 
 # King Features Syndicate - Privacy Policies
 
