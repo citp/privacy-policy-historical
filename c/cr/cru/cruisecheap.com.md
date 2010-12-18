@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cruisecheap.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102034702id_/http%3A//www.cruisecheap.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecheap.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218040412id_/http%3A//www.cruisecheap.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
- 
 
 Protecting your privacy is important to us. This privacy statement covers CruiseCheap.com and all the websites of WMPH Incorporated (hereinafter referred to as "WMPH"). We hope the following statement will help you understand how WMPH collects, uses, and safeguards the personal information you provide us on our site. 
 
