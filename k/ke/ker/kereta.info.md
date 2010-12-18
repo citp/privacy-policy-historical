@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kereta.info privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020058id_/http%3A//kereta.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kereta.info privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218081740id_/http%3A//kereta.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KERETA INFO | MAJALAH KERETA MALAYSIA Car Automotive News Reviews Tips & Details
 
@@ -20,6 +20,6 @@ Advertisers
 I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense, Project Wonderful, Adbrite, Widgetbucks, Kontera and Chitika. Please check their websites for respective privacy policies.
 
 Contact Information  
-If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the contact form by clicking our “contact us” button.
+If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the contact form by clicking our “contact us” button. 
 
 #### Related car facts
