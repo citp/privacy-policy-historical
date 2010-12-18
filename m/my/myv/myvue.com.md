@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205050456id_/http%3A//myvue.com/privacy/index.asp%3FSessionID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvue.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218091650id_/http%3A//myvue.com/privacy/index.asp%3FSessionID%3D) for the most accurate reproduction.*
 
 # Privacy policy
 
