@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224434id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218171118id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy policy | For A Beautiful Web
 
@@ -31,7 +31,7 @@ When we collect your contact and personal information, we will never share it ou
 
 ### Contact information
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by email at [2009@forabeautifulweb.com](mailto:2009@forabeautifulweb.com), telephone us on +44 (0)1745 851848, or write to: For A Beautiful Web. [Stuff and Nonsense Ltd.](http://www.stuffandnonsense.co.uk/), The Cow Shed Studio, Eversleigh, Gwaenysgor, Flintshire, North Wales, LL18 6EJ, UK.
+If you have any questions or suggestions regarding our privacy policy, please contact us by email at [2010@forabeautifulweb.com](mailto:2010@forabeautifulweb.com), telephone us on +44 (0)1745 851848, or write to: For A Beautiful Web. [Stuff and Nonsense Ltd.](http://www.stuffandnonsense.co.uk/), The Cow Shed Studio, Eversleigh, Gwaenysgor, Flintshire, North Wales, LL18 6EJ, UK.
 
 ### Looking for fantastic   
 web site design?
