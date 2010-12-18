@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fxcash.com privacy policy that was archived on 2010-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627122635id_/http%3A//fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxcash.com privacy policy that was archived on 2010-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218105440id_/http%3A//www.fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -286,131 +286,131 @@ function isValidEmail(str) {
 }
 
 
-                function validate(){
+function validate(){
 
-                        var s2fform = document.getElementById('send2friend');
+        var s2fform = document.getElementById('send2friend');
 
-                        var yourNameErr = document.getElementById('yourNameErr');
-                        var yourEmailErr = document.getElementById('yourEmailErr');
-                        var friendsNamesErr = document.getElementById('friendsNamesErr');
-                        var friendsEmailsErr = document.getElementById('friendsEmailsErr');
-                        var emp_c = '_';
+        var yourNameErr = document.getElementById('yourNameErr');
+        var yourEmailErr = document.getElementById('yourEmailErr');
+        var friendsNamesErr = document.getElementById('friendsNamesErr');
+        var friendsEmailsErr = document.getElementById('friendsEmailsErr');
+        var emp_c = '_';
 
-                        var msg_1 = 'Please enter your name.';
-                        var msg_2 = 'Please enter your email.';
-                        var msg_3 = 'Please enter your email in correct format.';
-                        var msg_4 = 'Please enter your friend\'s name.';
-                        var msg_5 = 'Please enter your friend\'s email.';
+        var msg_1 = 'Please enter your name.';
+        var msg_2 = 'Please enter your email.';
+        var msg_3 = 'Please enter your email in correct format.';
+        var msg_4 = 'Please enter your friend\'s name.';
+        var msg_5 = 'Please enter your friend\'s email.';
 
-                        for(i=0;i < s2fform.elements.length;i++){
-                            if(s2fform.elements[i].name == 'yourName'){
-                                if(s2fform.elements[i].value.length == 0){
-                                    yourNameErr.textContent = msg_1;
-                                    yourNameErr.innerText = msg_1;
+        for(i=0;i < s2fform.elements.length;i++){
+            if(s2fform.elements[i].name == 'yourName'){
+                if(s2fform.elements[i].value.length == 0){
+                    yourNameErr.textContent = msg_1;
+                    yourNameErr.innerText = msg_1;
+                    return false;
+                }else{
+                    yourNameErr.textContent = emp_c;
+                    yourNameErr.innerText = emp_c;
+                }
+            }else{
+                if(s2fform.elements[i].name == 'yourEmail'){
+                    if(s2fform.elements[i].value.length == 0){
+                        yourEmailErr.textContent = msg_2;
+                        yourEmailErr.innerText = msg_2;
+                        return false;
+                    }else{
+                        if(isValidEmail(s2fform.elements[i].value) == false){
+                            yourEmailErr.textContent = msg_3;
+                            yourEmailErr.innerText = msg_3;
+                            return false;
+                        }else {
+                            yourEmailErr.textContent = emp_c;
+                            yourEmailErr.innerText = emp_c;
+                        }
+                    }
+                }else{
+                    if(s2fform.elements[i].name == 'friendsNames[]'){
+                        if(s2fform.elements[i].value.length == 0){
+                            friendsNamesErr.textContent = msg_4;
+                            friendsNamesErr.innerText = msg_4;
+                            return false;
+                        }else{
+                            friendsNamesErr.textContent = emp_c;
+                            friendsNamesErr.innerText = emp_c;
+                        }
+                    }else{
+                        if(s2fform.elements[i].name == 'friendsEmails[]'){
+                            if(s2fform.elements[i].value.length == 0){
+                                friendsEmailsErr.textContent = msg_5;
+                                friendsEmailsErr.innerText = msg_5;
+                                return false;
+                            }else{
+                                if(isValidEmail(s2fform.elements[i].value) == false){
+                                    friendsEmailsErr.textContent = msg_3;
+                                    friendsEmailsErr.innerText = msg_3;
                                     return false;
                                 }else{
-                                    yourNameErr.textContent = emp_c;
-                                    yourNameErr.innerText = emp_c;
-                                }
-                            }else{
-                                if(s2fform.elements[i].name == 'yourEmail'){
-                                    if(s2fform.elements[i].value.length == 0){
-                                        yourEmailErr.textContent = msg_2;
-                                        yourEmailErr.innerText = msg_2;
-                                        return false;
-                                    }else{
-                                        if(isValidEmail(s2fform.elements[i].value) == false){
-                                            yourEmailErr.textContent = msg_3;
-                                            yourEmailErr.innerText = msg_3;
-                                            return false;
-                                        }else {
-                                            yourEmailErr.textContent = emp_c;
-                                            yourEmailErr.innerText = emp_c;
-                                        }
-                                    }
-                                }else{
-                                    if(s2fform.elements[i].name == 'friendsNames[]'){
-                                        if(s2fform.elements[i].value.length == 0){
-                                            friendsNamesErr.textContent = msg_4;
-                                            friendsNamesErr.innerText = msg_4;
-                                            return false;
-                                        }else{
-                                            friendsNamesErr.textContent = emp_c;
-                                            friendsNamesErr.innerText = emp_c;
-                                        }
-                                    }else{
-                                        if(s2fform.elements[i].name == 'friendsEmails[]'){
-                                            if(s2fform.elements[i].value.length == 0){
-                                                friendsEmailsErr.textContent = msg_5;
-                                                friendsEmailsErr.innerText = msg_5;
-                                                return false;
-                                            }else{
-                                                if(isValidEmail(s2fform.elements[i].value) == false){
-                                                    friendsEmailsErr.textContent = msg_3;
-                                                    friendsEmailsErr.innerText = msg_3;
-                                                    return false;
-                                                }else{
-                                                    friendsEmailsErr.textContent = emp_c;
-                                                    friendsEmailsErr.innerText = emp_c;
-                                                }
-                                            }
-                                        }
-                                    }
+                                    friendsEmailsErr.textContent = emp_c;
+                                    friendsEmailsErr.innerText = emp_c;
                                 }
                             }
                         }
-
-                    s2fform.submit();
-                }
-
-                function shows2Form(){
-                    var s2f_div = document.getElementById('sendForm');
-
-                    if(s2f_div.style.display =='' | s2f_div.style.display == 'none'){
-                        s2f_div.style.display = 'block';
-                    }else{
-                        s2f_div.style.display = 'none';
                     }
                 }
-
-            function validateLogin(){
-                var form = document.getElementById('login');
-
-                var valid_user = false;
-                var valid_pass = false;
-
-                for(i=0;i<form.elements.length;i++){
-                    if(form.elements[i].id == "login_username"){
-                        if( (form.elements[i].value != form.elements[i].alt) && (form.elements[i].value != '')){
-                            valid_user = true;
-                        }else{
-                            valid_user = false;
-                        }
-                    }
-
-                    if(form.elements[i].id == "login_pass"){
-
-                        if( (form.elements[i].value != form.elements[i].alt)  && (form.elements[i].value != '')){
-                            valid_pass = true;
-                        }else{
-                            valid_pass = false;
-                        }
-                    }
-                }
-                        validated = (valid_user && valid_pass);
-
-                        if(validated){
-                            form.submit();
-                        }else{
-                                document.getElementById('hint_elogin').style.display = 'block';
-                                setTimeout('hideLoginTip()',1500);
-                        }
-
             }
+        }
 
-            function hideLoginTip(){
-                document.getElementById('hint_elogin').style.display = 'none';
+    s2fform.submit();
+}
+
+    function shows2Form(){
+        var s2f_div = document.getElementById('sendForm');
+
+        if(s2f_div.style.display =='' | s2f_div.style.display == 'none'){
+            s2f_div.style.display = 'block';
+        }else{
+            s2f_div.style.display = 'none';
+        }
+    }
+
+function validateLogin(){
+    var form = document.getElementById('login');
+
+    var valid_user = false;
+    var valid_pass = false;
+
+    for(i=0;i<form.elements.length;i++){
+        if(form.elements[i].id == "login_username"){
+            if( (form.elements[i].value != form.elements[i].alt) && (form.elements[i].value != '')){
+                valid_user = true;
+            }else{
+                valid_user = false;
             }
+        }
+
+        if(form.elements[i].id == "login_pass"){
+            if( (form.elements[i].value != form.elements[i].alt)  && (form.elements[i].value != '')){
+                valid_pass = true;
+            }else{
+                valid_pass = false;
+            }
+        }
+    }
+    validated = (valid_user && valid_pass);
+
+    if(validated){
+        form.submit();
+    }else{
+            document.getElementById('hint_elogin').style.display = 'block';
+            setTimeout('hideLoginTip()',1500);
+    }
+}
+
+function hideLoginTip(){
+    document.getElementById('hint_elogin').style.display = 'none';
+}
+
+
 </script>
 <style type="text/css">
 /* -----------------screenshots hovers--------------------- */
@@ -690,7 +690,7 @@ div#login_content a.btn-slide:hover {
 		<a href="/about/whyfxcash.php">Why FXCASH?</a><br>
 		<a href="/about/whatisfx.php">What is Forex?</a><br>
 		<a href="/about/aboutus.php">About Us</a><br>
-		<a href="/about/partners.php">Partners</a><br>
+		<a href="/about/merchants.php">Merchants</a><br>
         </div><!-- side nav -->
     </div><!-- left -->
     <div id="content">
@@ -802,43 +802,32 @@ div#login_content a.btn-slide:hover {
 </div><!--footer_signup_button-->
 
 <span><div id="footer_concept" class="stick fc"></div></span>
-<div id="footer_nav_1">
-		<h5>How it Works</h5>
-		<hr class="footernav_line">
-		<a href="/how/rp_trading.php">Revenue Programs</a><br>
-		<a href="/how/traffic_opt.php">Traffic Optimization</a><br>
-		<a href="/how/product_choice.php">Product Choice</a><br>
-		<a href="/how/send_traffic.php">Send Traffic</a><br>
-		</div><!-- footer nav 1-->
+	<div class="bottom_menu">
+	<h1>Main Navigation</h1>
+
+	<a href="/index.php">Home</a>&nbsp;&nbsp;&nbsp;
+	<a href="/about/whyfxcash.php">Why FXCASH?</a>&nbsp;&nbsp;&nbsp;
+	<a href="/how/how.php">How We Work</a>&nbsp;&nbsp;&nbsp;
+	<a href="http://fxcash.com/blog/">Blog</a>&nbsp;&nbsp;&nbsp;	
+	<a href="/about/merchants.php">Merchants</a>&nbsp;&nbsp;&nbsp;
+	<a href="/questions/contact.php">Contact</a>&nbsp;&nbsp;&nbsp;
+	<a href="/questions/faq.php">FAQ</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://secure.fxcash.com/affiliate_signup.html">Sign up!</a>
 
 
-		<div id="footer_nav_2">
-		<h5>About</h5>
-		<hr class="footernav_line">
-		<a href="/about/whyfxcash.php">Why FXCASH?</a><br>
-		<a href="/about/whatisfx.php">What is Forex?</a><br>
-		<a href="/about/aboutus.php">About Us</a><br>
-		<a href="/about/partners.php">Partners</a><br>
-		</div><!-- footer nav 2-->
+	</div><!-- footer nav -->
 
-		<div id="footer_nav_3">
-		<h5>Questions</h5>
-		<hr class="footernav_line">
-		<a href="/questions/faq.php">FAQ</a><br>
-		<a href="/questions/contact.php">Contact</a><br>
-		<a href="https://secure.fxcash.com/affiliate_signup.html">Sign Up</a><br>
-
-		</div><!-- footer nav 3-->
-		
 		<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-3530438-1");
-			pageTracker._initData();
-			pageTracker._trackPageview();
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-3530438-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
 		</script>
+
+        
    <div id="share">
 <br>
 <h4>Share FXCASH:</h4><br>
