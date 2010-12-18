@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619123409id_/http%3A//www.kuklaskorner.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218060102id_/http%3A//www.kuklaskorner.com/index.php/privacy) for the most accurate reproduction.*
 
 # KuklasKorner
 
