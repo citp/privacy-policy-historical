@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggers.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102191009id_/http%3A//bloggers.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggers.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218091358id_/http%3A//bloggers.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy at Bloggers.com
+# Privacy Policy / Bloggers
 
 BLOGGERS ( **BLOGGERS.com** ) operates several websites including BLOGGERS.com. It is **BLOGGERS.com** 's policy to respect your privacy regarding any information we may collect while operating our websites.
 
