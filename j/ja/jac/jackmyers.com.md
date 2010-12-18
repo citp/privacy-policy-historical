@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618155406id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218010805id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jack Myers
 
@@ -20,4 +20,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 _**How to Contact Us**_
 
-We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact [maryann@jackmyers.com](mailto:maryann@jackmyers.com) or write to us: JackMyers.com, Attn: Legal Department, PO Box 615, Pine Brook, NJ 07058.
+We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact [maryann@jackmyers.com](mailto:maryann@jackmyers.com) or write to us: JackMyers.com, Attn: Legal Department, PO Box 27740, Las Vegas, NV 89126.
