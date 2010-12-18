@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607102346id_/http%3A//www.sixwise.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixwise.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218090905id_/http%3A//www.sixwise.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -153,3 +153,6 @@ You can always choose not to provide information, even though it might be needed
 To get more information about this and other highly important topics, sign up for your free subscription to our weekly SixWise.com "Be Safe, Live Long & Prosper" e-newsletter.
 
 With every issue of the free SixWise.com newsletter, you’ll get access to the insights, products, services, and more that can truly improve your well-being, peace of mind, and therefore your life!
+
+| [Share](http://www.facebook.com/sharer.php) |  |  |   
+---|---|---|---
