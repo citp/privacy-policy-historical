@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the savevid.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619121004id_/http%3A//www.savevid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savevid.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218055414id_/http%3A//www.savevid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Savevid.com
-
-  * Views today: **64979**
-  * Total views: **69347929**
-  * Downloads today: **83286**
-  * Total downloads: **76488279**
-
-
 
 We recognize that your personal information is important. We do respect your privacy on savevid.com and we collect only vital data to enhance quality of your visits. Here is information on what types of information we collect on your visits.
 
