@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618205045id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218062642id_/http%3A//www.popcultcha.com.au/privacy-i-3.html) for the most accurate reproduction.*
 
-# Popcultcha - Buy Collectables, Action Figures, Trading Cards, T-Shirts, Twilight and Eclipse Merchandise
+# Buy Collectables, Action Figures, T-Shirts, Twilight & True Blood Merchandise from Popcultcha Australia
 
  
 
