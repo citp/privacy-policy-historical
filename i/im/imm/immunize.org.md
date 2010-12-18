@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619155200id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218062223id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
 
-# Immunization Topics: Dialysis
+# Immunization Action Coalition Privacy Policy
 
 | 
 
-| Privacy Policy  
+|   
 ---  
 The Immunization Action Coalition (IAC) treats the issue of privacy seriously. We do not sell, distribute, barter, or transfer email addresses or any other individually identifiable user information to third parties. Any information collected on this website is used only for the purposes stated.   
 Only persons who ask to be added to email lists or request information receive email communications. You may request that your email address be removed from the IAC subscriber lists at any time and we will do so promptly.  
