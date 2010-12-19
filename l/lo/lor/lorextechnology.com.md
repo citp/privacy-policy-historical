@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorextechnology.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603044148id_/http%3A//lorexstore.lorextechnology.com/article.aspx%3Faid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorextechnology.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219115146id_/http%3A//lorexstore.lorextechnology.com/article.aspx%3Faid%3D6) for the most accurate reproduction.*
 
 # Privacy Policy LOREX | LOREX TECHNOLOGY INC. | Wired Products - CCTV Security Observation Systems, Security Cameras, Surveillance DVRs
 
