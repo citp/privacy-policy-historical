@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309045737id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219222049id_/http%3A//inlovewithfashion.com/pages/Privacy.html) for the most accurate reproduction.*
 
-# In Love With Fashion - Women's Clothing Store, Online Fashion, Just As Found In Topshop. Our Privary Policy.
+# Privacy
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
+Privacy policy
 
-**The Information We Collect:**  
-This notice applies to all information collected or submitted on this website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation from time to time in place. 
+
+When you shop on this Website, we will ask you to input and will collect Personal Information from you such as your name, e-mail address, billing address, delivery address, telephone number, product selections, credit card or other payment information and a password. We may also collect, and our third party providers of advertisements and content may collect, information about where you are on the internet (eg the URL you came from, IP address, domain types like .co.uk and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website ("User Information"). We may collect this information even if you do not register with us. 
+
+You should be aware that this site is being monitored and may capture information about your visit that will help us improve the quality of our service.
+
+We confirm that any Personal Information which you provide to us (or which is available on public registers) and any User Information from which we can identify you, is held in accordance with the registration we have with the Data Commissioner's Office. We use your information only for the following purposes:
+
+  * Processing your orders; 
+  * For statistical purposes to improve this Website and its services to you; 
+  * To serve website content and advertisements to you; 
+  * To administer this website; 
+  * If you consent, to notify you of products or special offers that may be of interest to you. 
 
 
-> Name   
->  Address   
->  Email address   
->  Phone number 
 
-We do not store debit/credit card details
+You agree that you do not object to us contacting you for any of the above purposes whether by telephone, e-mail or in writing and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-**The Way We Use Information:**  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the emails received by us. Such addresses are not used for any other purpose and are not shared with outside parties. 
+When you create a shopping account while ordering online you will be given the option to receive information from Love by post, e-mail or telephone, about products, promotions or special offers which we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes please e-mail us customer.services@inlovewithfashion.com
 
-You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Your Personal Information may be disclosed to other reputable third parties who will help process your order. Love requires all such third parties to treat your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation from time to time in place. 
 
-**Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+You should be aware that if we are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide your Personal Information and /or User Information we are entitled do so. 
 
-**How You Can Access Or Correct Your Information**  
-You can access all your personally identifiable information that we collect online and maintain by calling us or sending us an email. We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please [contact us](mailto:info@inlovewithfashion.com).
+Questions regarding this Policy should be emailed to us at: customer.services@inlovewithfashion.com
