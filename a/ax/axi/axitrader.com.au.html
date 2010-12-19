@@ -1,21 +1,292 @@
-<!--The following is the downloaded HTML source of the axitrader.com.au privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616081127id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the axitrader.com.au privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219203331id_/http%3A//axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	AxiTrader - Privacy Policy
-</title><link href="fx.css" rel="stylesheet" type="text/css">
+</title><link href="/fx.css" rel="stylesheet" type="text/css">
+
+
+
+    <script language="JavaScript" type="text/javascript">
+<!--
+        //v1.7
+        // Flash Player Version Detection
+        // Detect Client Browser type
+        // Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
+        var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+        var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+        var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+        function ControlVersion() {
+            var version;
+            var axo;
+            var e;
+            // NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+            try {
+                // version will be set for 7.X or greater players
+                axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+                version = axo.GetVariable("$version");
+            } catch (e) {
+            }
+            if (!version) {
+                try {
+                    // version will be set for 6.X players only
+                    axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+
+                    // installed player is some revision of 6.0
+                    // GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+                    // so we have to be careful. 
+
+                    // default to the first public version
+                    version = "WIN 6,0,21,0";
+                    // throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+                    axo.AllowScriptAccess = "always";
+                    // safe to call for 6.0r47 or greater
+                    version = axo.GetVariable("$version");
+                } catch (e) {
+                }
+            }
+            if (!version) {
+                try {
+                    // version will be set for 4.X or 5.X player
+                    axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+                    version = axo.GetVariable("$version");
+                } catch (e) {
+                }
+            }
+            if (!version) {
+                try {
+                    // version will be set for 3.X player
+                    axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+                    version = "WIN 3,0,18,0";
+                } catch (e) {
+                }
+            }
+            if (!version) {
+                try {
+                    // version will be set for 2.X player
+                    axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+                    version = "WIN 2,0,0,11";
+                } catch (e) {
+                    version = -1;
+                }
+            }
+
+            return version;
+        }
+        // JavaScript helper required to detect Flash Player PlugIn version information
+        function GetSwfVer() {
+            // NS/Opera version >= 3 check for Flash plugin in plugin array
+            var flashVer = -1;
+
+            if (navigator.plugins != null && navigator.plugins.length > 0) {
+                if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+                    var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+                    var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+                    var descArray = flashDescription.split(" ");
+                    var tempArrayMajor = descArray[2].split(".");
+                    var versionMajor = tempArrayMajor[0];
+                    var versionMinor = tempArrayMajor[1];
+                    var versionRevision = descArray[3];
+                    if (versionRevision == "") {
+                        versionRevision = descArray[4];
+                    }
+                    if (versionRevision[0] == "d") {
+                        versionRevision = versionRevision.substring(1);
+                    } else if (versionRevision[0] == "r") {
+                        versionRevision = versionRevision.substring(1);
+                        if (versionRevision.indexOf("d") > 0) {
+                            versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+                        }
+                    }
+                    var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+                }
+            }
+            // MSN/WebTV 2.6 supports Flash 4
+            else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+            // WebTV 2.5 supports Flash 3
+            else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+            // older WebTV supports Flash 2
+            else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+            else if (isIE && isWin && !isOpera) {
+                flashVer = ControlVersion();
+            }
+            return flashVer;
+        }
+        // When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+        function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) {
+            versionStr = GetSwfVer();
+            if (versionStr == -1) {
+                return false;
+            } else if (versionStr != 0) {
+                if (isIE && isWin && !isOpera) {
+                    // Given "WIN 2,0,0,11"
+                    tempArray = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+                    tempString = tempArray[1]; 		// "2,0,0,11"
+                    versionArray = tempString.split(","); // ['2', '0', '0', '11']
+                } else {
+                    versionArray = versionStr.split(".");
+                }
+                var versionMajor = versionArray[0];
+                var versionMinor = versionArray[1];
+                var versionRevision = versionArray[2];
+                // is the major.revision >= requested major.revision AND the minor version >= requested minor
+                if (versionMajor > parseFloat(reqMajorVer)) {
+                    return true;
+                } else if (versionMajor == parseFloat(reqMajorVer)) {
+                    if (versionMinor > parseFloat(reqMinorVer))
+                        return true;
+                    else if (versionMinor == parseFloat(reqMinorVer)) {
+                        if (versionRevision >= parseFloat(reqRevision))
+                            return true;
+                    }
+                }
+                return false;
+            }
+        }
+        function AC_AddExtension(src, ext) {
+            if (src.indexOf('?') != -1)
+                return src.replace(/\?/, ext + '?');
+            else
+                return src + ext;
+        }
+        function AC_Generateobj(objAttrs, params, embedAttrs) {
+            var str = '';
+            if (isIE && isWin && !isOpera) {
+                str += '<object ';
+                for (var i in objAttrs) {
+                    str += i + '="' + objAttrs[i] + '" ';
+                }
+                str += '>';
+                for (var i in params) {
+                    str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+                }
+                str += '</object>';
+            }
+            else {
+                str += '<embed ';
+                for (var i in embedAttrs) {
+                    str += i + '="' + embedAttrs[i] + '" ';
+                }
+                str += '> </embed>';
+            }
+            document.write(str);
+        }
+        function AC_FL_RunContent() {
+            var ret =
+    AC_GetArgs
+    (arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+            AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+        }
+        function AC_SW_RunContent() {
+            var ret =
+    AC_GetArgs
+    (arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+            AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+        }
+        function AC_GetArgs(args, ext, srcParamName, classid, mimeType) {
+            var ret = new Object();
+            ret.embedAttrs = new Object();
+            ret.params = new Object();
+            ret.objAttrs = new Object();
+            for (var i = 0; i < args.length; i = i + 2) {
+                var currArg = args[i].toLowerCase();
+                switch (currArg) {
+                    case "classid":
+                        break;
+                    case "pluginspage":
+                        ret.embedAttrs[args[i]] = args[i + 1];
+                        break;
+                    case "src":
+                    case "movie":
+                        args[i + 1] = AC_AddExtension(args[i + 1], ext);
+                        ret.embedAttrs["src"] = args[i + 1];
+                        ret.params[srcParamName] = args[i + 1];
+                        break;
+                    case "onafterupdate":
+                    case "onbeforeupdate":
+                    case "onblur":
+                    case "oncellchange":
+                    case "onclick":
+                    case "ondblclick":
+                    case "ondrag":
+                    case "ondragend":
+                    case "ondragenter":
+                    case "ondragleave":
+                    case "ondragover":
+                    case "ondrop":
+                    case "onfinish":
+                    case "onfocus":
+                    case "onhelp":
+                    case "onmousedown":
+                    case "onmouseup":
+                    case "onmouseover":
+                    case "onmousemove":
+                    case "onmouseout":
+                    case "onkeypress":
+                    case "onkeydown":
+                    case "onkeyup":
+                    case "onload":
+                    case "onlosecapture":
+                    case "onpropertychange":
+                    case "onreadystatechange":
+                    case "onrowsdelete":
+                    case "onrowenter":
+                    case "onrowexit":
+                    case "onrowsinserted":
+                    case "onstart":
+                    case "onscroll":
+                    case "onbeforeeditfocus":
+                    case "onactivate":
+                    case "onbeforedeactivate":
+                    case "ondeactivate":
+                    case "type":
+                    case "codebase":
+                    case "id":
+                        ret.objAttrs[args[i]] = args[i + 1];
+                        break;
+                    case "width":
+                    case "height":
+                    case "align":
+                    case "vspace":
+                    case "hspace":
+                    case "class":
+                    case "title":
+                    case "accesskey":
+                    case "name":
+                    case "tabindex":
+                        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i + 1];
+                        break;
+                    default:
+                        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i + 1];
+                }
+            }
+            ret.objAttrs["classid"] = classid;
+            if (mimeType) ret.embedAttrs["type"] = mimeType;
+            return ret;
+        }
+// -->
+</script>
 </head>
 
 <body>
  <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRk7K6dUmsCQIMVVGXo/94TEBBT1Nc=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkSrSBnyk/JlWF1q9UMOk91YXMomg=">
 
 
   <table class="fulltable"><tbody><tr><td align="center">
     <table class="maintable">
-      <tbody><tr>
+      <tbody><tr valign="bottom">
         <td class="lgrad"></td>
-        <td><img src="images/header.png" alt="AxiTrader"></td>
+        <td class="head">
+          <div class="chineselinks" align="right">
+            <a class="chinese1" href="forex-trading-broker-simplified.aspx" target="_blank"></a>
+            <a class="chinese2" href="forex-trading-broker-traditional.aspx" target="_blank"></a>
+          </div>
+        </td>
         <td class="rgrad"></td>
       </tr>
       <tr>
@@ -23,8 +294,8 @@
         <td class="menubg" align="center">
           <div class="menu">&nbsp;
             <ul style="z-index: 2">
-              <li><a href="Default.aspx">Home</a><img src="images/ms.gif" alt=""></li>
-              <li><a href="what-is-fx.aspx">Forex</a><img src="images/ms.gif" alt="">
+              <li><a href="Default.aspx">Home</a><img src="/images/ms.gif" alt=""></li>
+              <li><a href="what-is-fx.aspx">Forex</a><img src="/images/ms.gif" alt="">
                 <ul>
                   <li><a class="first" href="what-is-fx.aspx">What is Forex Trading?</a></li>
                   <li><a class="second" href="advantages-of-fx.aspx">Advantages of Forex Trading</a></li>
@@ -35,35 +306,35 @@
                   <li><a class="third" href="margins.aspx">Margins</a></li>
                 </ul>
               </li>
-              <li><a href="why-trade-oil-with-axitrader.aspx">Oil</a><img src="images/ms.gif" alt="">
+              <li><a href="why-trade-oil-with-axitrader.aspx">Oil</a><img src="/images/ms.gif" alt="">
                 <ul>
                   <li><a class="first" href="why-trade-oil-with-axitrader.aspx">Why trade Oil with AxiTrader</a></li>
                   <li><a class="second" href="oil-rollover.aspx">Oil Rollover Explained</a></li>
-                  <li><a class="second" href="oil-spreads-and-trading-hours.aspx">Spreads and Trading Hours</a></li>
-                  <li><a class="third" href="open-account.aspx">Open a live Oil Account</a></li>
+                  <li><a class="third" href="oil-spreads-and-trading-hours.aspx">Spreads and Trading Hours</a></li>
+                  
                 </ul>
               </li>
-              <li><a href="gold-and-silver.aspx">Gold &amp; Silver</a><img src="images/ms.gif" alt=""></li>
-              <li><a href="cfd.aspx">CFDs</a><img src="images/ms.gif" alt="">
+              <li><a href="gold-and-silver.aspx">Gold &amp; Silver</a><img src="/images/ms.gif" alt=""></li>
+              <li><a href="cfd.aspx">CFDs</a><img src="/images/ms.gif" alt="">
                 <ul>
                   <li><a class="first" href="cfd.aspx">What are CFDs</a></li>
-                  <li><a class="second" href="dma-cfds.aspx">DMA CFDs</a></li>
+                  
                   <li><a class="second" href="stp-cfds.aspx">STP CFDs</a></li>
                   <li><a class="third" href="cfd-market-information-sheet.aspx">Product Schedule</a></li>
                 </ul>
               </li>
-              <li><a href="indices.aspx">Indices</a><img src="images/ms.gif" alt="">
+              <li><a href="indices.aspx">Indices</a><img src="/images/ms.gif" alt="">
                 <ul>
                   <li><a class="first" href="indices.aspx">What are Indices</a></li>
                   <li><a class="second" href="index-futures-rollover-explained.aspx">Index Futures Rollover Explained</a></li>
-                  <li><a class="second" href="indices-spreads-rollovers.aspx">Spreads, Margins and Rollovers</a></li>
+                  <li><a class="second" href="indices-spreads-rollovers.aspx">Indices Spreads and Market Hours</a></li>
                   <li><a class="third" href="cfd-market-information-sheet.aspx">Product Schedule</a></li>
                 </ul>
               </li>
-              <li><a href="the-axitrader-advantage.aspx">The AxiTrader Advantage</a><img src="images/ms.gif" alt=""></li>
-              <li><a href="futures.aspx">Futures &amp; Options</a><img src="images/ms.gif" alt="">
+              <li><a href="the-axitrader-advantage.aspx">The AxiTrader Advantage</a><img src="/images/ms.gif" alt=""></li>
+              <li><a href="futures.aspx">Futures &amp; Options</a><img src="/images/ms.gif" alt="">
               </li>
-              <li><a href="#">Partners</a><img src="images/ms.gif" alt="">
+              <li><a href="#">Partners</a><img src="/images/ms.gif" alt="">
                 <ul>
                   <li><a class="first" href="introducing-brokers.aspx">Introducing Brokers</a></li>
                   <li><a class="second" href="prime-brokerage.aspx">Prime Brokerage</a></li>
@@ -71,8 +342,15 @@
                   <li><a class="third" href="fund-managers.aspx">Fund Managers</a></li>
                 </ul>
               </li>
-              <li><a href="about-axitrader.aspx">About AxiTrader</a><img src="images/ms.gif" alt=""></li>
-              <li><a href="forex-faqs.aspx">Trader Support</a><img src="images/ms.gif" alt="">
+              <li><a href="about-axitrader.aspx">About AxiTrader</a><img src="/images/ms.gif" alt="">
+                 <ul>
+                  <li><a class="first" href="files/AxiTrader-Product_Disclosure_Statement.pdf">Download our PDS</a></li>
+                  <li><a class="second" href="files/AxiTrader-Client_Agreement.pdf">Download our CA</a></li>
+                  <li><a class="second" href="files/AxiTrader-Financial_Services_Guide.pdf">Download our FSG</a></li>
+                  <li><a class="third" href="files/AxiTrader-CA-FSG-PDS.pdf">Download all documents combined</a></li>
+                </ul>
+              </li>
+              <li><a href="forex-faqs.aspx">Trader Support</a><img src="/images/ms.gif" alt="">
                 <ul>
                   <li><a class="first" href="forex-faqs.aspx">FAQs</a></li>
                   <li><a class="second" href="useful-links.aspx">Useful Links</a></li>
@@ -87,7 +365,7 @@
       </tr>
       <tr>
         <td class="lgrad"></td>
-        <td><img src="images/Header2.png" alt="AxiTrader"></td>
+        <td><img src="/images/Header2.png" alt="AxiTrader"></td>
         <td class="rgrad"></td>
       </tr>
       <tr>
@@ -96,18 +374,22 @@
            <table class="contenttable">
               <tbody><tr>
                 <td class="contentleft" style="padding: 5px 0px 5px 5px">
-                  <a href="https://www.fxstatement.com/" onclick="window.open(this.href,'child','titlebar=no,toolbar=no,height=750,width=450,resizable=yes,status=no'); return false"><img src="images/lmenu-statement.gif" alt="View your statements online" border="0"></a>
-                  <a href="howto-fund-account.aspx"><img src="images/lmenu-fund.gif" border="0" alt="How to fund your account"></a><br>
-                  <a href="credit-card-funding.aspx"><img src="images/lmenu-credit.gif" border="0" alt="Credit card funding"></a><br>
-                  <a href="Market-News.aspx"><img src="images/lmenu-news.gif" border="0" alt="Market News"></a><br>
-                  <a href="Trading-Challenge.aspx"><img src="images/lmenu-CTC.gif" border="0" alt="CFD Trading Challenge"></a><br>
-                  <img src="images/lmenu-download.png" width="150" height="225" usemap="#download" border="0" alt="Download Metatrader">
+                  
+                  <a href="howto-fund-account.aspx"><img src="/images/lmenu-fund.gif" border="0" alt="How to fund your account"></a><br>
+                  <a href="credit-card-funding.aspx"><img src="/images/lmenu-credit.gif" border="0" alt="Credit card funding"></a><br>
+                  <a href="Market-News.aspx"><img src="/images/lmenu-news.gif" border="0" alt="Market News"></a><br>
+                  <a href="Scholarship-Promotion.aspx"><img src="/images/lmenu-scholarship.gif" border="0" alt="Scholarship Promotion"></a><br>
+                  <a href="Trading-Challenge.aspx"><img src="/images/lmenu-CTC.gif" border="0" alt="CFD Trading Challenge"></a><br>
+                  <img src="/images/lmenu-download.png" width="150" height="225" usemap="#download" border="0" alt="Download Metatrader">
                   <map id="download" name="download">
                     <area shape="rect" coords="0,66,142,148" href="metatrader-download.aspx" alt="Download MetaTrader 4">
                   </map>
                   
                 </td>
                 <td class="contentmid" style="padding: 5px 0px 5px 0px">
+                  
+<img src="images/banners/AxiTrader-Banner-493x180-iPhone-Winners.png" alt="Winners of the iPhones" border="0">
+
   <table class="innertable">
     <tbody><tr><td class="ctrtl"></td><td class="ctrtm"><h1>Privacy Policy</h1></td><td class="ctrtr"></td></tr>
     <tr><td class="ctml"></td><td class="ctm"><br>
@@ -168,16 +450,19 @@
     </td><td class="ctmr"></td></tr>
     <tr><td class="ctll"></td><td class="ctl"></td><td class="ctlr"></td></tr>
   </tbody></table>
-</td>                  
+
+
+                </td>                  
                 <td class="contentright" style="padding: 5px 0px 5px 0px"> 
                   
                   
-                  <a href="metatrader-download.aspx"><img src="images/rmenu-1click.gif" border="0" alt="Open a free practice account!"></a><br>
-                  <a href="open-account.aspx"><img src="images/rmenu-open.png" border="0" alt="Open an Account"></a><br>
-                  <a href="Education.aspx"><img src="images/rmenu-education.png" border="0" alt="Forex and CFD Training"></a><br>
-                  <a href="attend-a-seminar.aspx"><img src="images/rmenu-seminar.png" border="0" alt="Attend a Seminar"></a><br>
-                  <a href="introducing-brokers.aspx"><img src="images/rmenu-partners.png" border="0" alt="Partners"></a><br>
-                  <a href="metatrader-download-refer-a-lead.aspx"><img src="images/rmenu-refer.png" border="0" alt="Refer a friend"></a>
+                  <a href="forex-trading-broker.aspx" target="_blank"><img src="/images/rmenu-1click.gif" border="0" alt="Open a free practice account!"></a><br>
+                  <a href="open-account.aspx"><img src="/images/rmenu-open.png" border="0" alt="Open an Account"></a><br>
+                  <a href="Education.aspx"><img src="/images/rmenu-education.png" border="0" alt="Forex and CFD Training"></a><br>
+                  <a href="MYFX-Information.aspx"><img src="/images/rmenu-myfx.png" border="0" alt="MYFX"></a><br>
+                  <a href="attend-a-seminar.aspx"><img src="/images/rmenu-seminar.png" border="0" alt="Attend a Seminar"></a><br>
+                  <a href="introducing-brokers.aspx"><img src="/images/rmenu-partners.png" border="0" alt="Partners"></a><br>
+                  <a href="metatrader-download-refer-a-lead.aspx"><img src="/images/rmenu-refer.png" border="0" alt="Refer a friend"></a>
                   <br><br><br><br><br>
                 </td>
               </tr>
