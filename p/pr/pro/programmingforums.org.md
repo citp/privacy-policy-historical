@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmingforums.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619090402id_/http%3A//www.daniweb.com/forums/faq.php%3Ffaq%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingforums.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219113602id_/http%3A//www.daniweb.com/forums/faq.php%3Ffaq%3Dprivacy_policy) for the most accurate reproduction.*
 
 # DaniWeb IT Discussion Community - FAQ: Privacy Statement
 
