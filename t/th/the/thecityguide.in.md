@@ -1,0 +1,63 @@
+> *The following text is extracted and transformed from the thecityguide.in privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219094758id_/http%3A//thecityguide.in/PrivacyPolicy.html) for the most accurate reproduction.*
+
+# Privacy Policy |TheCityGuide.in
+
+**Last Updated on 27th March, 09**
+
+ITLaddu Technology Private Limited has created this privacy statement in order to keep the information of our users, viewers, audience & customers to privacy. The following discloses our information gathering and dissemination practices for our website [thecityguide.in](http://thecityguide.in/). 
+
+thecityguide.in reserves the right to update and modify the Privacy Polices practiced on the website.
+
+thecityguide.in contains links to other sites. ITLaddu Technology Private Limited and [thecityguide.in](http://thecityguide.in/) is not responsible for the privacy practices or the content of such Web sites.
+
+This page is to ensure the users that whatever personal information exchanged between the user and the website is purely confidential and undisclosed. It may be used by the company for contact purposes only. The Company is not authorized to disclose such information to the public or any other website that may be linked to thecityguide.in.
+
+BY USING THECITYGUIDE.IN, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THECITYGUIDE.IN WEBSITE. 
+
+  * **Information Collection and Use** :
+
+
+
+  * **Account information** : If you create an account to take advantage of the full range of services offered on thecityguide.in, we ask for and store personal information such as your Name, Address, Phone Mobile No. and email address etc. We use your email address to send you updates and newsletters, and contact you on behalf of other users (Like other users who send you greetings, messages, Listing Details, SMS Message or favorite reviews). You may choose not to receive e-mails of this type by accessing the "My Account" tab and updating your profile notification settings.
+  * **Feedback** : You can contact us regarding feedback, complaints, or queries. We will store your personal information and other content that you provide in your communication so that thecityguide.in can effectively respond to your messages. 
+  * **Submission** : We store and may or may not publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your Name, Age, sex, Zodaic sign Profession etc. Your submitted information will be for public display, like business ratings, reviews, photos, video reviews, pictures, photograph comments, your hobbies and the information that you display as part of your account profile.
+  * **Personal messaging** : In order to allow you to send and receive personal messages/SMS to other registered users of thecityguide.in, we store the messages that you send and receive using our personal messaging feature. 
+  * **Activity** : We record information relating to your use of the thecityguide.in like the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this information to administer TheCityGuide and to render the best of our services to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of thecityguide.in. You cannot be identified from this aggregate information.
+  * **Cookies** : To distinctively recognize your browser, we dispatch small pieces of information more commonly known as cookies to your computer's hard drive while you are viewing the site. This enhances the quality of our service and if deleted, thecityguide.in may not function properly.
+  * **Enforcement** : With the information that we collect with your use of TheCityGuide sites we investigate, inspect, enforce and apply our Privacy Policy and Terms of Service. 
+
+
+
+  * **Information Sharing and Disclosure** :
+
+
+
+  * **Share of personal information** \- While suggestions are most welcome in the website, our users must be aware of the fact that third parties allied with the company do possess the right to attain such submissions and can openly display or publish them in their own websites and media platforms. To warrant your contentment with the services offered in TheCityGuide, personal information is shared with third parties who conduct quality testing, facilitate creation of accounts, provide technical and customer support, or other services such as synchronization of your contacts with other software applications, in compliance with your instructions. Third parties are of course prohibited to use that personal information for anything else other than providing the users with the services requested.
+  * **Mandatory disclosing of personal information** \- Revealing of personal information to third parties is permissible and is accepted only if necessary action is to be taken (a) regarding suspected illegal activities; (b) to impose or employ our Terms of Service and Privacy Policy; (c) to act in accordance with legal procedure such as a search warrant, statute, or court order, or (d) to defend the rights, reputation and assets of the company or that of our users, associates and the public. While doing so we do not have the authority to question or challenge the validity of any such action given by the government. 
+  * **Parties permitted to obtain personal information** \- Besides third parties, personal information is also made accessible to the parent company, subsidiaries, joint ventures and other companies holding a common power. The privacy policy is nonetheless respected. On the occasion of another company acquiring authority over our company, the former shall take over personal information and shall take upon itself the rights and regulations as described in this privacy policy.
+  * **Information for assessments and statistics** \- Advertisements, content developers and the likes, with actual or potential business relations also fall under the third party category and personal information may be disclosed to them as well. While ads are displayed on TheCityGuide site, advertising companies may derive information concerning users’ visits to certain websites so as to provide ads about goods and services that may interest them. If however, you seek more information regarding this procedure or want to know of the choices available to you about not having this information disclosed, [click here](http://thecityguide.in/TermsOfUse.html). 
+
+
+
+  * **Controlling Your Personal Data** :
+
+
+
+  * **Personal information disclosed** \- The degree of personal information shown in your submissions is only at your own risk. Uploading of photographs and contact details is of course well received and permissible however, this may allow third parties to identify and differentiate you from other users. In case you expect to keep information which you deem private, please do not reveal it in your submissions. We cannot assure you discretion in this area. Rather than real names, fake and fictitious names are preferred if you wish to deter recognition.
+  * **Account Control** : Registered as a member of TheCityGuide sites, personal information and privacy preferences ca be customized and personalized by accessing the "Account" feature included in the website. In case the user wishes to close his/her account, he/she can do so by the features available, hence, TheCityGuide will terminate the account and discontinue showing the users submissions. Registered users who wish to close their account may [click here](mailto:support@thecityguide.in).
+  * **Messages Control** \- The personal messages feature is personal only up to the level that both sender and receiver consider it personal. We have no control over the privacy or publicity of these messages. 
+  * **Ending of Opinions** : Opinions and reviews are duly accepted by us, in addition to this, users are also permitted to amend their previous estimations. 
+
+
+
+  * Your thecityguide.in Account Information is password-protected for your privacy with a high level of encrypted security system.
+  * In confident areas thecityguide.in uses industry-standard SSL-encryption to protect data transmissions. 
+
+
+
+  * **Modifications of Privacy Policy** We reserve the right to revise the Privacy Policy at any time. Users will be notified of this revision 30 days prior to effective change and can be informed via email or by posting a prominent notice on the website. It is therefore mandatory for users to update their email id. If you disagree with the changes proposed, you can give notice to us prior to the effectual date of alteration that you wish to neutralize your account with us. **Your continued use of the website after amendment indicates your approval of the modification.**
+  * **E-mails and Eschew** Settings may at any time be changed with regard to notifications and messages. Explicit users may also be blocked from your account thereby preventing messages from such users. Unregistered users may also avoid receiving emails from us by the instructions contained in our e-mails subscribed. In spite of your indicated e-mail preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy through e-mail. E-mail communication is a mode of contact for us with our users, although there are provisions for mobile messaging as well.
+  * **Links** : The TheCityGuide Sites may contain links to third party websites to which we have no association. As proposed here, ITLaddu Technology Private Limited does not share, rent or disclose information to any other third parties and is not legally responsible for their privacy practices(Terms Conditions, Disclaimers) hence; we recommend that the privacy practices(Terms Conditions, Disclaimers) on all such third party websites or links be understood. 
+  * **Questions or Suggestions & Conflict Resolution:**
+
+
