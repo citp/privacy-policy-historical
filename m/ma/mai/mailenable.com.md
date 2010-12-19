@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailenable.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216032044id_/http%3A//mailenable.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailenable.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220000755id_/http%3A//mailenable.com/policies/privacy.asp) for the most accurate reproduction.*
 
 # MailEnable - Privacy Policy
 
@@ -18,7 +18,7 @@ MailEnable will not intentionally release any confidential customer related info
 
 **MailEnable Spyware/Adware Policy**
 
-MailEnable’s policy on Spyware and Adware is that NO Spyware or Adware of any kind will ever be included with any of the products downloaded from this web site. Our products will never install any tracking software on your system or collect personal information about you and your browsing habits. 
+MailEnable�s policy on Spyware and Adware is that NO Spyware or Adware of any kind will ever be included with any of the products downloaded from this web site. Our products will never install any tracking software on your system or collect personal information about you and your browsing habits. 
 
 Specifically, MailEnable asserts that the MailEnable website and associated programs;
 
