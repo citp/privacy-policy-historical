@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529142042id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219030311id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy|Your Insider Referral Network- Jobirn
 
   
 
 
-## **Last Updated:** April 2, 2010
+## **Last Updated:** Oct 14, 2010
 
 At InsidersReferral.com, Inc. ("Jobirn" or "we"), we know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose your Personal Information. 
 
@@ -46,7 +46,7 @@ Use of our invitation or get recommended service to tell a friend about our Site
 
 **_Use of Personally Identifiable Information by Other Users:_**
 
-Other users will be able to search and view the personally identifiable information that you provide on your profile, except your contact information and resume (could search, but can't view). Only your targeted referrers or recruiters could view your resume, for the purpose of employment. 
+Other users will be able to search and view the personally identifiable information that you provide on your profile, except your contact information and resume (could search, but can't view). We allow referrers or recruiters to view and download your resume, for the purpose of employment. 
 
 Other users may choose to contact you, and you may choose to contact other users. Jobirn has developed a process that uses a "double-blind" email system, which hides the IM/email addresses of both the sender and recipient of messages to protect the privacy of both the sender and receiver. When using the process on the site, it is up to you to choose when you are comfortable disclosing your IM/email address, or any other contact information, to others through private communications. 
 
@@ -54,7 +54,7 @@ Your contact information will only be shared with another user if both of you ha
 
 ## **Information Sharing and Disclosure**
 
-We do not disclose personal information about your individual visits to Jobirn, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties without your permission, except when we believe the law requires it and otherwise as described in this Privacy Policy or if you affirmatively consent to our doing so. If you choose to receive a service offered on Jobirn, and if that that service is provided by a partner or third-party company (e.g. education opportunity, resume services which are provided by third parties), personal information about you (such as your contact information and other information collected during your visit to Jobirn) may be shared with those partners to the extent necessary for them to provide these services. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services.
+We do not disclose personal information about your individual visits to Jobirn, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties without your permission, except when we believe the law requires it and otherwise as described in this Privacy Policy or if you affirmatively consent to our doing so. If you choose to receive a service offered on Jobirn, and if that that service is provided by a partner or third-party company (e.g. education opportunity, resume services which are provided by third parties), personal information about you (such as your contact information and other information collected during your visit to Jobirn) will be shared with those partners to the extent necessary for them to provide these services. Third party lead generation company may contact you by phone and/or by email to provide education related information. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services.
 
 In addition, if we sell all or part of our business or make a sale or transfer of all or a material part of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your personal information to the party or parties involved as part of that transaction. 
 
