@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420080158id_/http%3A//smsbag.com/sms/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbag.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219042302id_/http%3A//www.smsbag.com/sms/policy.php) for the most accurate reproduction.*
 
 # smsBAG - SMS Gateway...your No1 SMS link to the World
 
@@ -49,5 +49,9 @@ smsbag doesn't warrant that the website and its servers are free from viruses or
 The information supplied in this website is smsbag sole property and copyright.
 
 The reproduction, duplication, distribution, publication, modification, copying or translation of any of the material contained in this website for commercial purposes without the express authorization of smsbag is strictly prohibited. Counterfeiting shall be pursued.
+
+**Refund Policy:**
+
+Payments are return within 24 hours in case of excess payments or Payment Gateway over charge
 
 Contact: [legal@smsbag.com](mailto:legal@smsbag.com). 
