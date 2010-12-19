@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609093621id_/http%3A//www.computervalley.ca/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219221309id_/http%3A//www.computervalley.ca/main/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : Computer Valley, Laptops, Computers, Printers, Scanners, Toner, Monitors, Projectors, GPS, & More at computervalley.ca
+# Privacy Notice : Online Computer Store Canada | Computer Store Online, Computer Parts Store | Computer Shop, Computer Hardware Store | Computer Valley â€“ New Products
 
 **Our Privacy Commitment**  
 At ComputerValley.ca we know how important it is to protect your personal information. When you are shopping with us online we want to make every customer experience safe and secure. In keeping with that goal, we have developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information.
@@ -169,8 +169,12 @@ Email:
 [Click here](mailto:info@computervalley.ca) (please read the Important Reminder below)  
   
 ---|---  
+  
 |   
+  
+  
 |   
+  
   
 We will respond to your request or investigate your concern as quickly as we can, but no later than 30 days from the date of receipt of your query.
 
