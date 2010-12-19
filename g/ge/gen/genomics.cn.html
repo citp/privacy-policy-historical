@@ -1,127 +1,219 @@
-<!--The following is the downloaded HTML source of the genomics.cn privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617071947id_/http%3A//www.genomics.cn/en/alonepage.php%3Fid%3D4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genomics.cn privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219195426id_/http%3A//www.genomics.cn/en/alonepage.php%3Fid%3D4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="all">
 <meta name="author" content="wolf.sky">
-<meta name="copyright" content="华大基因,Bgi">
-<meta name="Description" content="华大基因,Bgi">
-<meta name="Keywords" content="华大基因,Bgi">
+<meta name="copyright" content="BGI">
+<meta name="Description" content="BGI">
+<meta name="Keywords" content="BGI">
 <title>BGI</title>
 <link href="css/css.css" rel="stylesheet" type="text/css">
-<link href="css/menu.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">document.execCommand("BackgroundImageCache", false, true);</script>
-<script language="JavaScript" src="js/showLayers.js"></script>
-</head>
+<link href="newimage/jquery-treeview/jquery.treeview.css" rel="stylesheet" type="text/css">
+<!-- <link href="css/menu.css" rel="stylesheet" type="text/css" /> -->
+<script type="text/javascript">//document.execCommand("BackgroundImageCache", false, true);</script>
+<script type="text/javascript" src="js/showLayers.js"></script>
+<script type="text/javascript" src="newimage/jquery.min.js"></script>
+<style type="text/css">
+body, td, h2, p, span{color: #666}
+h2{font-size:14px;line-height:200%}
+img{border:0;}
+.menu {
+	font-family:Tahoma;
+	font-size:13px;
+	padding-bottom:0px;
+	width:964px;
+	background:url(newimage/nav_bg.jpg) no-repeat;
+	height:37px;
+	/*line-height:37px;*/
+	position:absolute;
+	z-index:999999;
+}
+.menu a{text-decoration:none;}
+.menu ul{
+	list-style:none;
+	margin:0;padding:0;
+}
+#submenu{margin-left:10px;}
+
+	.menu li {
+		display:inline;
+		float:left;
+		width:165px;
+		text-align:center;
+		line-height:37px;
+		position:relative;
+	}
+	/*.menu ul > li > a:link, .menu ul > li > a:visited{*/
+	.menu ul li a:link, .menu ul li a:visited{
+		color:white;
+		font-weight:bold;
+		background:transparent;
+		display:inline-block;
+		padding:0 5px;
+		width:155px;
+		height:37px;
+	}
+	/*.menu ul > li > a:hover{*/
+	.menu ul li a:hover{
+		color: #005ca2;
+		background-image:url(newimage/bg_on.jpg);
+		background-repeat:repeat-x;
+	}
+	/*.menu > ul > li > ul {*/
+	.menu ul li ul {
+		display:none;
+		line-height:28px;
+		position:absolute;
+		top:37px;
+		/*z-index:999999;*/
+		font-size:12px;
+		left:0;
+	}
+
+	/*.menu > ul > li > ul > li, .menu ul > li > ul >li > ul > li{*/
+	.menu ul li ul li, .menu ul li ul li ul li{
+		line-height:28px;
+		background:#F7F7F7;
+	}
+	/*.menu ul > li > ul > li a:link, .menu ul > li > ul > li a:visited{*/
+	.menu ul li ul li a:link, .menu ul li ul li a:visited{
+		width:155px;
+		font-weight:normal;
+		line-height:28px;
+		height:auto;
+		/*overflow:hidden;
+		white-space:nowrap;*/
+		color:#666;
+	}
+	.menu ul li ul li a:hover{
+		text-decoration:none;
+	}
+	/*.menu ul > li > ul > li > ul {*/
+	.menu ul li ul li ul {
+		position:absolute;
+		display:none;
+	}
+	#nav{font-weight:bold;padding-bottom:15px;margin-bottom:15px;border-bottom:1px solid #337db5}
+	#nav a:link, #nav a:visited{color:#666;font-size:13px}
+</style><script type="text/javascript">
+	$(document).ready(function(){
+		$('.menu>ul>li').hover(function(){
+			$(this).find('>a').css({'background':'url(newimage/bg_on.jpg)','color':'#005ca2'});
+			$(this).find('>ul').fadeIn();
+		},function(){
+			$(this).find('>a').css({'background':'transparent','color':'white'});
+			$(this).find('>ul').fadeOut();
+		});
+		$('.menu>ul>li>ul>li').hover(function(){
+			$(this).find('>a').css({'background':'#0083E3','color':'white'});
+			$(this).find('ul').css({'left':'165px','top':0});
+			$(this).find('ul').show();
+		},function(){
+			$(this).find('>a').css({'background':'#F7F7F7','color':'#666'});
+			$(this).find('ul').fadeOut();
+		});
+		$('.menu ul li ul li ul li a').hover(function(){
+			$(this).css({'background':'#0083E3','color':'white'});
+		},function(){
+			$(this).css({'background':'#F7F7F7','color':'#666'});
+		});
+		$('#keywords').css('color','#aaa');
+		$('#keywords').click(function(){
+			if ($(this).val() == 'Keywords'){
+				$(this).css('color','#444');
+				$(this).val('');
+			}
+		});
+		$('#keywords').blur(function(){
+			if ($(this).val() == ''){
+				$(this).css('color','#aaa');
+				$(this).val('Keywords');
+			}
+		});
+		$('#head_right a').css('color','#666');
+	});
+	</script></head>
+
+
 <body>
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<table width="964" border="0" align="center" cellpadding="0" cellspacing="0" id="head_right">
   <tbody><tr>
-    <td width="480" height="80"><a href="index.php"><img src="images/top_001.gif" width="130" height="70" border="0"></a></td>
+    <td width="644" height="80"><a href="index.php" style="color: rgb(102, 102, 102);"><img src="newimage/logo.png" height="40" border="0"></a></td>
 	
     <td width="320"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr><td></td>
-        <td height="30" align="right" style="padding-left:20px;padding-right:0px;margin-right:0px;"><a href="../index.php" class="lj1"><img src="../images/cn.gif" border="0" style="padding-left:40px"></a></td>
+        <tbody><tr><td height="30" align="right" style="padding-left:20px;padding-right:0px;margin-right:0px;font-size:16px;font-weight:bold;color:#005DA2;font-family:Arial"> 
+			<img src="newimage/tel.jpg" align="absmiddle"> &nbsp;
+			400-706-6615
+		</td>
       </tr>
       <tr>
-        <td style="padding-right:5px;"> </td>
-        <td height="30"><form id="form1" name="form1" method="get" action="search.php">
-            <table width="188" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td width="90%"><input name="keywords" type="text" id="keywords" size="20">                </td>
-                <td width="10%"><input name="image" type="image" src="images/search_en.gif">                </td>
-              </tr>
-            </tbody></table>
-        </form></td>
-      </tr>
+		 <td height="30" align="right">
+			<a href="http://chat16.live800.com/live800/chatClient/chatbox.jsp?companyID=94757&amp;configID=657&amp;jid=1352009834&amp;enterurl=http%3A%2F%2Fwww%2Egenomics%2Ecn%2Findex%2Ephp&#10;" style="color: rgb(102, 102, 102);">Online Customer Service</a>
+			<a href="http://CDTS.genomics.org.cn" style="color: rgb(102, 102, 102);">&nbsp;&nbsp;&nbsp;Login&nbsp;&nbsp;&nbsp;</a>
+			<a href="../index.php" style="color: rgb(102, 102, 102);">中&nbsp;文</a></td><td>
+      </td></tr>
     </tbody></table></td>
   </tr>
 </tbody></table>
 
 
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="964" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td>
+	
 <div class="menu">
-<ul>
 
-<li class="selfm"><a href="index.php">Home<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-
-<li class="selfm"><a href="bgi.php?id=158">About&nbsp;BGI<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
-<li><a href="bgi.php?id=158">Overview<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="bgi.php?id=11">History<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="bgi.php?type=show&amp;id=265">International Visitors  </a></li><li><a href="bgi.php?type=show&amp;id=264">Academic Visitors </a></li><li><a href="bgi.php?type=show&amp;id=449">Memorabilia 2007-</a></li><li><a href="bgi.php?type=show&amp;id=452">Memorabilia  1999-2006</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="bgi.php?id=12">Culture<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="bgi.php?type=show&amp;id=97">Caring for People in the Drought Area</a></li><li><a href="bgi.php?type=show&amp;id=98">Supporting People Devastated by Sichuan Earthquake</a></li><li><a href="bgi.php?type=show&amp;id=451">DNA Identification of Indian Ocean Tsunami Victims</a></li><li><a href="bgi.php?type=show&amp;id=450">SARS Project</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="bgi.php?id=159">Contact us<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-
+<ul id="submenu">
 <li><a href="research.php?id=22">Programs&amp;Projects
-  <!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
+  </a>
+
 <ul>
-<li><a href="research.php?id=22">Research Interests<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="research.php?type=show&amp;id=324">Whole genome sequencing</a></li><li><a href="research.php?type=show&amp;id=325">Genome/gene variation study</a></li><li><a href="research.php?type=show&amp;id=326">Study gene regulation</a></li><li><a href="research.php?type=show&amp;id=327">Find genes</a></li><li><a href="research.php?type=show&amp;id=328">Metagenomics</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="research.php?id=230">Research Projects<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="research.php?id=233">Human Genetics</a></li><li><a href="research.php?id=235">Plant &amp; Animal</a></li><li><a href="research.php?id=238">Microorganism</a></li><li><a href="research.php?id=262">Epigenetics</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="research.php?id=24">Software, Databases and Publications<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="research.php?id=182">Publications</a></li><li><a href="research.php?id=192">Software development</a></li><li><a href="research.php?id=193">Databases</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<li><a href="research.php?id=22">Research Interests<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="research.php?type=show&amp;id=324">Whole genome sequencing</a></li><li><a href="research.php?type=show&amp;id=325">Genome/gene variation study</a></li><li><a href="research.php?type=show&amp;id=326">Study gene regulation</a></li><li><a href="research.php?type=show&amp;id=327">Find genes</a></li><li><a href="research.php?type=show&amp;id=328">Metagenomics</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="research.php?id=230">Research Projects<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="research.php?id=233">Human Genetics</a></li><li><a href="research.php?id=235">Plant &amp; Animal Genome</a></li><li><a href="research.php?id=238">Microorganism Genome</a></li><li><a href="research.php?id=262">Epigenetics</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="research.php?id=24">Software, Databases and Publications<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="research.php?id=182">Publications</a></li><li><a href="research.php?id=192">Software development</a></li><li><a href="research.php?id=193">Databases</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
+
 </li>
 
 
 <li><a href="platform.php?id=135">Technology&amp;Platforms
-<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
+  </a>
+
 <ul>
-<li><a href="platform.php?id=135">New  Generation Sequencing <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=160">Illumina Genome Analyzer</a></li><li><a href="platform.php?id=161">AB SOLiD System</a></li><li><a href="platform.php?id=162">Roche GS FLX Titanium System</a></li><li><a href="platform.php?id=259">Quality Management</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=62">Target Region Capture<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=130">NimbleGen Hybridization System</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=61">Bioinformatics Analysis<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=174">Solexa  Data  Processing</a></li><li><a href="platform.php?id=175">De novo Sequencing</a></li><li><a href="platform.php?id=176">Evolution &amp; Comparative Genomics</a></li><li><a href="platform.php?id=177">Transcription and Regulation Analysis </a></li><li><a href="platform.php?id=178">Metagenomics &amp; Bacteria</a></li><li><a href="platform.php?id=179">Molecular Breeding</a></li><li><a href="platform.php?id=180">Software Development,Database, IT and System</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=248">Computing Platform<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=249">Hardware Resources</a></li><li><a href="platform.php?id=250">Computing Services</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=241">Proteomics Mass Spectrometry Platform<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=247">LTQ Orbitrap Velos</a></li><li><a href="platform.php?id=242">ultrafleX</a></li><li><a href="platform.php?id=244">maXis</a></li><li><a href="platform.php?id=245">QTRAP® 5500</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=66">Transgenic <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=173">Plant Transgenic</a></li><li><a href="platform.php?id=126">Transgenic Animal </a></li><li><a href="platform.php?id=125">Cell Banks</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=67">Animal Cloning<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=170">Handmade Cloning(HMC)</a></li><li><a href="platform.php?id=171">Embryo Transplantation</a></li><li><a href="platform.php?id=172">Embryo  Cryopreservation</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=64">Real-time Quantitative PCR<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?type=show&amp;id=297">Fusion Gene Diagnose </a></li><li><a href="platform.php?type=show&amp;id=298">Gene Expression Analysis</a></li><li><a href="platform.php?type=show&amp;id=296">Pathogen Identification</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=63">SNP and STR Genotyping<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=165">The MassARRAY System</a></li><li><a href="platform.php?id=166">AB 3130xl Genetic Analyzer</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=65">Immune Markers<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=167">ELISA And CLIA</a></li><li><a href="platform.php?id=168">Array-ELISA</a></li><li><a href="platform.php?id=169">Gold Immuno Chromatographic Assay </a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=136">Sanger Sequencing <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=164">Capillary Electrophoresis Sequencing</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=68">Others<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=96">Equipment R &amp; D</a></li><li><a href="platform.php?id=195">Oligonucleotide Synthesis</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<li><a href="platform.php?id=135">New  Generation Sequencing <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=160">Illumina HiSeq 2000</a></li><li><a href="platform.php?id=161">AB SOLiD System</a></li><li><a href="platform.php?id=162">Roche GS FLX Titanium System</a></li><li><a href="platform.php?id=259">Quality Management</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=62">Target Region Capture<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=130">NimbleGen Hybridization System</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=61">Bioinformatics Analysis<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=174">Solexa  Data  Processing</a></li><li><a href="platform.php?id=175">De novo Sequencing</a></li><li><a href="platform.php?id=176">Evolution &amp; Comparative Genomics</a></li><li><a href="platform.php?id=177">Transcription and Regulation Analysis </a></li><li><a href="platform.php?id=178">Metagenomics &amp; Bacteria</a></li><li><a href="platform.php?id=179">Molecular Breeding</a></li><li><a href="platform.php?id=180">Software Development,Database, IT and System</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=248">Computing Platform<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=249">Hardware Resources</a></li><li><a href="platform.php?id=250">Computing Services</a></li><li><a href="http://www.genomics.cn/en/s_p.php?id=148">Bio-cloud computing</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=241">Proteomics Mass Spectrometry Platform<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=247">LTQ Orbitrap Velos</a></li><li><a href="platform.php?id=242">maXis</a></li><li><a href="platform.php?id=245">QTRAP® 5500</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=66">Transgenic <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=173">Plant Transgenic</a></li><li><a href="platform.php?id=126">Transgenic Animal </a></li><li><a href="platform.php?id=125">Cell Banks</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=67">Animal Cloning<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=170">Handmade Cloning(HMC)</a></li><li><a href="platform.php?id=171">Embryo Transplantation</a></li><li><a href="platform.php?id=172">Embryo  Cryopreservation</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=64">Real-time Quantitative PCR<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?type=show&amp;id=297">Fusion Gene Diagnose </a></li><li><a href="platform.php?type=show&amp;id=298">Gene Expression Analysis</a></li><li><a href="platform.php?type=show&amp;id=296">Pathogen Identification</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=63">SNP and STR Genotyping<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=165">The MassARRAY System</a></li><li><a href="platform.php?id=166">AB 3130xl Genetic Analyzer</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=65">Immune Markers<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=167">ELISA And CLIA</a></li><li><a href="platform.php?id=168">Array-ELISA</a></li><li><a href="platform.php?id=169">Gold Immuno Chromatographic Assay </a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=136">Sanger Sequencing <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=164">Capillary Electrophoresis Sequencing</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="platform.php?id=68">Others<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="platform.php?id=96">Equipment R &amp; D</a></li><li><a href="platform.php?id=195">Oligonucleotide Synthesis</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
+
 </li>
 
 
-<li><a href="s_p.php?id=202">Cooperation&amp;Services
-<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
+<li><a href="s_p.php?id=202">Collaboration&amp;Service
+  </a>
+
 <ul>
-<li><a href="s_p.php?id=202">Collaboration &amp; Services<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=203">New Generation Sequencing<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="s_p.php?id=206">Plant &amp; Animal Genome</a></li><li><a href="s_p.php?id=207">Microorganism Genome</a></li><li><a href="s_p.php?id=208">Complex Disease Research</a></li><li><a href="s_p.php?id=209">Transcriptome/DGE/Small RNA</a></li><li><a href="s_p.php?id=210">Epigenomics</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=148">Bio-cloud computing<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=255">Proteomics<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="s_p.php?id=256">Full spectrum analysis</a></li><li><a href="s_p.php?id=257">Modification analysis</a></li><li><a href="s_p.php?id=258">Quantitative analysis</a></li><li><a href="s_p.php?id=260">signal transduction</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=147">Sanger sequencing services<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=199">Contact us<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<li><a href="s_p.php?id=202">Collaboration &amp; Services<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=284">Comprehensive Solutions for Disease Genomics <!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="s_p.php?id=306">Finding the Missing Heritability by Next-Gen GWAS</a></li><li><a href="s_p.php?id=309">Cancer Genomics By Next Generation Sequencing  </a></li><li><a href="s_p.php?id=313">Transcriptomics in Cancer research</a></li><li><a href="s_p.php?id=318">1000 Mendelian Disorders Project</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=324">Metagenome Sequencing<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="s_p.php?id=325">16S rDNA metagenome sequencing</a></li><li><a href="s_p.php?id=326">Whole genome Metagenome survey</a></li><li><a href="s_p.php?id=327">Establish Microbial Gene set</a></li><li><a href="s_p.php?id=328">Human microbe related disease association analysis</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=203">New Generation Sequencing<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="s_p.php?id=206">Plant &amp; Animal Genome</a></li><li><a href="s_p.php?id=209">RNA Sequencing</a></li><li><a href="s_p.php?id=207">Microorganism Genome</a></li><li><a href="s_p.php?id=208">Complex Disease Research</a></li><li><a href="s_p.php?id=210">Epigenomics</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=148">Bio-cloud computing<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=255">Proteomics<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="s_p.php?id=256">Whole Proteome analysis</a></li><li><a href="s_p.php?id=258">Quantitative Proteome analysis</a></li><li><a href="s_p.php?id=257">Protein/Proteome Modification analysis</a></li><li><a href="s_p.php?id=301">Target proteomics</a></li><li><a href="s_p.php?id=300">Genomics &amp; Transcriptomics &amp; Proteomics </a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=147">Sanger sequencing services<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="http://ldl.genomics.org.cn/event/index.jsp">Meeting<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="s_p.php?id=199">Contact us<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
+
 </li>
 
 
-<li><a href="edu.php?id=14">Education<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
+<li><a href="edu.php?id=14">Education</a>
+
 <ul>
-<li><a href="edu.php?id=14">Education<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="edu.php?type=show&amp;id=100">Innovative Program for Undergraduate Students</a></li><li><a href="edu.php?type=show&amp;id=103">Graduate Students </a></li><li><a href="edu.php?type=show&amp;id=101">Dual and Joint Degree Program of Bioengineering Master</a></li><li><a href="edu.php?type=show&amp;id=102">International Students</a></li><li><a href="edu.php?type=show&amp;id=476">Faculties &amp; Staffs</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="edu.php?id=15">Training<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="edu.php?id=32">Internal Training</a></li><li><a href="edu.php?id=33">External</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="edu.php?id=201">Popularization of Science<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+<li><a href="edu.php?id=14">Education<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="edu.php?id=267">Innovative Program for Undergraduate Students</a></li><li><a href="edu.php?id=268">Graduate Students </a></li><li><a href="edu.php?id=269">Dual and Joint Degree Program of Bioengineering Ma</a></li><li><a href="edu.php?id=265">International Students</a></li><li><a href="edu.php?id=271">Faculties &amp; Staffs</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="edu.php?id=15">Training<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="edu.php?id=32">Internal Training</a></li><li><a href="edu.php?id=33">External</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="edu.php?id=201">Popularization of Science<!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="1234"></a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
+
 </li>
 
-
-<li class="selfm"><a href="hr/hr.php">Careers<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul>
-<li><a href="hr/hr.php">Experienced</a></li>
-<li><a href="hr/hr_school.php">Graduates</a></li>
-<li><a href="hr/hr_global.php">Overseas</a></li>
-<li><a href="hr.php">Help</a></li>
 </ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
+<form id="form1" name="form1" method="get" action="search.php" style="margin:0;padding:0;float:right;background:url(newimage/search.jpg) no-repeat;width:270px;height:35px;margin-right:20px;">
+	<input type="submit" style="float:right;background:transparent;border:0;width:50px;height:26px;margin-top:6px;" value="&nbsp;">
+    <input name="keywords" value="Keywords" type="text" id="keywords" style="width: 182px; margin-left: 10px; margin-top: 10px; border: 0px; color: rgb(170, 170, 170);">
+</form>
+<div style="clear:both;font-size:0;line-height:0;height:0"></div>
 </div>
-	</td>
+</td>
   </tr>
 </tbody></table>
-<!-- menu -->
-
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
-
+<table width="964" border="0" align="center" cellpadding="0" cellspacing="0" height="55">
   <tbody><tr>
-    <td><img src="images/a_001.gif" width="800" height="84"></td>
-  </tr>
-  <tr>
-    <td height="10"></td>
-  </tr>
-</tbody></table>
+    <td>&nbsp;</td></tr></tbody></table>
     <table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
       <tbody><tr>
         <td><table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#d2d3d5">
@@ -133,8 +225,7 @@
 
                   <tbody><tr>
                     <td align="left"><p class="h20">
-                      </p><p style="text-justify: inter-ideograph; line-height: 150%; text-align: justify"><span lang="EN-US" style="font-size: 9pt; line-height: 150%; font-family: 'Calibri','sans-serif'; mso-bidi-font-family: Arial; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin"><br>
-BGI group is committed to protecting your privacy on the Internet. We believe that it is important for you to know what we do with your personal information. When it comes to consumer data collected electronically, BGI Group will provide notice, choice, access and security in ways described below. In general, you, as our guest, can visit BGI Group on the World Wide Web without having to reveal any personal information that you do not want to disclose.<br>
+                      </p><p class="MsoNormal" style="text-align: justify; margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-family: &quot;Arial Unicode MS&quot;,&quot;sans-serif&quot;; font-size: 9pt">BGI group is committed to protecting your privacy on the Internet. We believe that it is important for you to know what we do with your personal information. When it comes to consumer data collected electronically, BGI Group will provide notice, choice, access and security in ways described below. In general, you, as our guest, can visit BGI Group on the World Wide Web without having to reveal any personal information that you do not want to disclose.<br>
 <br>
 Our web servers collect domain names and not the e-mail addresses. This information may be aggregated on a "no names" basis just to measure the number of visits, average time spent on the site, or pages viewed. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer‘s hard drive which allows the server to recognize the computer when it visits again. This helps track statistical information about navigation through our site. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation. BGI Group uses these data to measure the usage of, and improve the content of our sites.<br>
 <br>
@@ -142,32 +233,36 @@ In an effort to make your visit both efficient and safe, all transfers of person
 <br>
 Occasionally, our site may contain electronic links to other sites. In case you choose to go to those sites, their own privacy policy and privacy preferences will apply.<br>
 <br>
-If you feel that the BGI site (<a href="http://www.genomics.org.cn/">http://www.genomics.org.cn</a>) is not abiding by its posted privacy policy, contact the Webmaster or send your concerns to the BGI Headquarters, Beishan Industrial Zone, Yantian, Shenzhen,China.</span></p>                    <p></p></td>
+If you feel that the BGI site (<a href="http://www.genomics.org.cn/">http://www.genomics.org.cn</a>) is not abiding by its posted privacy policy, contact the Webmaster or send your concerns to the BGI Headquarters, Beishan Industrial Zone, Yantian, Shenzhen,China.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align: justify; margin: 0cm 0cm 0pt">&nbsp;</p>                    <p></p></td>
                   </tr>
                 </tbody></table></td>
             </tr>
         </tbody></table></td>
       </tr>
     </tbody></table>
-<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="15" colspan="2"></td>
-  </tr>
-  <tr>
-    <td width="496" height="30"><span class="STYLE6"><script language="javascript" src="http://chat16.live800.com/live800/chatClient/monitor.js?jid=1352009834&amp;companyID=94757&amp;configID=487&amp;codeType=custom"></script><script language="javascript" src="http://chat16.live800.com/live800/chatClient/textButton.js?jid=1352009834&amp;companyID=94757&amp;configID=6463&amp;codeType=custom"></script><script id="write" language="javascript">function writehtml(){var temptext=text_generate();document.getElementById('live6463').innerHTML=temptext;setTimeout('write.src',9000);}writehtml();</script>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bmc.genomics.org.cn/" class="lj3" target="_blank">BMC</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="alonepage.php?id=2" class="lj3">Legal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="alonepage.php?id=3" class="lj3">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="alonepage.php?id=4" class="lj3">Privacy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="alonepage.php?id=5" class="lj3">Contact</a></span></td>
-    <td width="304" align="right"><strong class="STYLE6">Copyright © 1999-2009 BGI</strong></td>
+<style type="text/css">
+table#footer{margin:20px auto;clear:both;}
+table#footer td,table#footer td a{color:#888;}
+table#footer td#about a{display:inline-block;margin:0 52px;}
+</style>
+<table width="964" border="0" align="center" cellpadding="0" cellspacing="0" id="footer">
+  <tbody><tr height="36">
+  <td width="4"><div style="background:url(newimage/corn_lt.jpg);font-size:0;line-height:4px;height:4px;width:4px;"></div>
+  <div style="font-size:0;line-height:0;height:28px;background:#F7F7F7;"></div>
+  <div style="background:url(newimage/corn_lb.jpg);font-size:0;line-height:4px;height:4px;width:4px;"></div>
+  </td>
+  <td align="center" style="background:#F7F7F7;font-weight:bold" id="about">
+	<a href="http://www.genomics.cn/HR/">Join us</a><a href="bgi.php?id=158">BGI</a><a href="alonepage.php?id=5" class="lj3">Contact</a><a href="alonepage.php?id=2" class="lj3">Legal</a><a href="alonepage.php?id=4" class="lj3">Privacy</a><a href="alonepage.php?id=3" class="lj3">Site Map</a></td>
+  <td width="4"><div style="background:url(newimage/corn_rt.jpg);font-size:0;line-height:4px;height:4px;width:4px;"></div>
+  <div style="font-size:0;line-height:0;height:28px;background:#F7F7F7;"></div>
+  <div style="background:url(newimage/corn_rb.jpg);font-size:0;line-height:4px;height:4px;width:4px;"></div>
+  </td>
+   </tr>
+   <tr height="36">
+    <td align="right" colspan="3">2010Copyright © 1999-2010 BGI</td>
   </tr>
 </tbody></table>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -182,7 +277,8 @@ var pageTracker = _gat._getTracker("UA-7856573-22");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-
-
+    
+  
+    
 
 </body></html>
