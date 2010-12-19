@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420085839id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219070922id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
 
 # AdEngage - Privacy Policy
 
@@ -56,4 +56,4 @@ By visiting the Site or using the Company Features, you consent to the collectio
 
 If you have any questions about our privacy practices or your dealings with the Company Features, please do not hesitate to contact: [contact@adengage.com](mailto:contact@adengage.com)
 
-Please also read the [Terms of Service](https://web.archive.org/web/20100420085839id_/http%3A//www.adengage.com/terms.cfm) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Company Features. 
+Please also read the [Terms of Service](https://web.archive.org/web/20101219070922id_/http%3A//www.adengage.com/terms.cfm) establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Company Features. 
