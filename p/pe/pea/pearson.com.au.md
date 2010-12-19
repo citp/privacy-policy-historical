@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601025540id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219013750id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Pearson Australia - Privacy Policy
 
