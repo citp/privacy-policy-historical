@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423134912id_/http%3A//www.osa.org/aboutosa/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219022434id_/http%3A//osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Learn About OSA Home Page
+# About OSA
 
 ## **OSA Privacy Policy**
 
@@ -37,7 +37,7 @@ Database download logs track which articles have been downloaded by which IP (fo
 **Notifications  
 **OSA may use your information to provide you with information on new products, services, or upcoming events. More and more OSA information is provided by email, so you may not receive notices on these subjects if you opt-out. If you wish not to receive email from OSA, you may use the “unsubscribe” link provided at the bottom of every email. 
 
-OSA may also use your contact information to reach you through phone, mail or fax. Please send an email to custserv@osa.org or call 202.416.1907 or 1.800.766.4672 if you wish to be removed from all contacts by these methods. 
+OSA may also use your contact information to reach you through phone, mail or fax. Contact [Customer Service](http://help.osa.org/) or call 202.416.1907 or 1.800.766.4672 if you wish to be removed from all contacts by these methods. 
 
 If you are an OSA member, you may not opt out of OSA business mailings such as the election mailing. 
 
@@ -55,11 +55,7 @@ SSL encryption software is used on forms requesting financial information. Full 
 User information is restricted within the OSA offices. Employees who need the information to perform a specific job are granted access to personally identifiable information. Servers that store personally identifiable information are in a locked facility.   
 **  
 Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user's personally identifiable information changes, or if a user no longer desires the services provided, send an email to Customer Service at 
-
-custserv@osa.org
-
-, or contact OSA by telephone or postal mail at the contact information listed below. 
+If a user's personally identifiable information changes, or if a user no longer desires the services provided, contact [Customer Service](http://help.osa.org/), or contact OSA by telephone or postal mail at the contact information listed below. 
 
 **Modifications to the Policy  
 **OSA may modify, add or remove portions of the Privacy Policy at any time. Customer information may be used for new, unanticipated uses not previously disclosed in the privacy notice. Information practice changes will be posted on this Web site. 
