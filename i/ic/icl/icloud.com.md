@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icloud.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618151546id_/http%3A//www.icloud.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icloud.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219120120id_/http%3A//icloud.com/en/privacy-policy) for the most accurate reproduction.*
 
 # icloud - Your friends, files and digital life on any computer
 
