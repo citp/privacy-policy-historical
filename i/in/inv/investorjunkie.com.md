@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the investorjunkie.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620002823id_/http%3A//investorjunkie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorjunkie.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219122549id_/http%3A//investorjunkie.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Investor Junkie - My Business and Financial Freedom Journey
+# Privacy
 
-## [Privacy](http://investorjunkie.com/about/privacy "Privacy")
+## Privacy
 
 The privacy of our visitors to Investor Junkie is important to us.
 
@@ -21,4 +21,4 @@ We also use third party advertisements on Investor Junkie to support our site. S
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
   
-Last Updated: Tuesday, 12 January 2010
+Last Updated: Monday, 18 October 2010
