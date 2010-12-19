@@ -1,297 +1,771 @@
-<!--The following is the downloaded HTML source of the newsminer.com privacy policy that was archived on 2009-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091016120637id_/http%3A//www.newsminer.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsminer.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219191534id_/http%3A//www.newsminer.com/pages/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html><head><style>
+
+
+.top_leaderboard {
+         margin-bottom: 10px;
+         margin-top: 30px;
+         width: 960px;
+         background: #FFFFFF;
+         height: 100;
+         padding-top: 10px;
+}
+
+
+</style>
+
+
+
+
+<link rel="shortcut icon" href="/sites/635/assets/favicon_good.png">
+
+<title>Fairbanks Daily News-Miner - The voice of Interior Alaska since 1903</title>
+<meta name="keywords" content="Fairbanks, Alaska, News-Miner, Daily, News-Miner">
+<meta name="description" content="The Fairbanks Daily News-Miner - news, weather, sports, Arctic Cam, lifestyles and more about living in Alaska's Interior">
+<link id="default_facebook_image" rel="image_src" href="/images/article.jpg">
+
+<link href="http://assets.matchbin.com/sites/635/stylesheets/newsminer.com.css" media="all" rel="Stylesheet" type="text/css">
+<script type="text/javascript" charset="utf-8" src="http://assets.matchbin.com/javascripts/jsball.js"></script>
+
+</head><body><div id="content_container" align="left">	<div>
+	<script>
+	function toggleSearch(which) {
+		$A($('pt1_search_element_bar').childNodes).each(function(element) {
+			if(element.tagName == 'DIV') {
+				element.style.display = 'none'
+			}
+		})
+		
+		$('pt1_search_' + which).style.display = 'block'
+		$('pt1_search_element_select').style.display = 'block'
+		
+		$('pt1_search_dropdown').value = which
+	}
+
+	function initSearch() {
+		var pages = [
+			/* Default page */
+			[/\/$/, 'content'],
+			/* Others */
+			[/\/news/, 'content'],
+			[/\/results_content/, 'content'],
+			[/\/business_directory/, 'businesses'],
+			[/\/business_details/, 'businesses'],
+			[/\/results_businesses/, 'businesses'],
+                        [/\/my_buddies/, 'profiles'],
+                        [/\/news_.*/, 'content'],
+                        [/\/sports_.*/, 'content'],
+                        [/\/opinion_.*/, 'content'],
+                        [/\/feat_.*/, 'content'],
+                        [/\/features/, 'content'],
+                        [/\/ara_.*/, 'content'],
+                        [/\/community_main/, 'content'],
+                        [/\/blogs/, 'content'],
+                        [/\/forum/, 'content'],
+                        [/\/my_events/, 'events'],
+			[/\/events/, 'events'],
+			[/klass=event/, 'events'],
+			[/klass=profile/, 'profiles'],
+			[/\/my_profiles/, 'profiles']
+		]
+
+		var which_search = 'ads'
+
+		pages.each(function(element) {
+			if(document.URL.search(element[0]) != -1) { which_search = element[1] }
+		})
+
+		toggleSearch(which_search)
+		
+		/* Do a little cascading initializing */
+		initWeather()
+		initMenu()
+	}
+
+	function initWeather() {
+        if(!$('xml_feed_data_weather_weather')) { return false }
+
+        
+        document.body.appendChild(Builder.node('div', { id:'rendered_weather' }, ''))
+        $('rendered_weather').appendChild(Builder.node('div', { id:'rendered_weather_icon' }, ' '))
+        $('rendered_weather').appendChild(Builder.node('div', { id:'rendered_weather_label' }, ''))
+        $('rendered_weather_label').appendChild(Builder.node('span', { id:'rendered_weather_label_temperature' }, $('xml_feed_data_weather_temp_f').value + '°'))
+        $('rendered_weather_label').appendChild(Builder.node('span', { id:'rendered_weather_label_conditions' }, $('xml_feed_data_weather_weather').value))
+        $('rendered_weather').appendChild(Builder.node('a', { id:'rendered_weather_link', href:$('xml_feed_weather_more_info').value, target:'_NEW', className:'link' }, 'more'))
+
+        w = $('xml_feed_data_weather_weather').value
+        c = $('rendered_weather_icon')
+
+        if(w.search(/Cloud|Overcast|Fog|Smoke|Haze/) != -1) { c.className = 'weatherCloudyIcon' }
+        if(w.search('Snow') != -1) { c.className = 'weatherSnowIcon' }
+        if(w.search(/Fair|Clear/) != -1) { c.className = 'weatherClearIcon' }
+        if(w.search('Thunder') != -1) { c.className = 'weatherThunderIcon' }
+        if(w.search(/Ice|Hail/) != -1) { c.className = 'weatherThunderShowersIcon' }
+        if(w.search(/Showers|Drizzle/) != -1) { c.className = 'weatherShowersIcon' }
+        if(w.search('Rain') != -1) { c.className = 'weatherRainIcon' }
+    
+        setWeatherPositions()
+    }
+    
+    window.onresize=setWeatherPositions;
+    
+    function setWeatherPositions()
+    {
+        if(!$('rendered_weather')){return false}
+        var y_offset_from_top_of_page = 20
+        var x_offset_from_left_edge_of_banner = 175
+        
+        /* Weather widget location */
+        var window_width = Position.getPageSize().window.width
+        var left_margin = (window_width) / 2 //assuming that the page is centered left to right - it's true in this case. TODO: fix
+        if (left_margin < 0){left_margin = 0} //ignore it - this prevents movement when the page is smaller than the bar(~960)
+
+        $('rendered_weather').style.left = x_offset_from_left_edge_of_banner + left_margin
+        $('rendered_weather').style.top = y_offset_from_top_of_page
+    }
+    
 	
-	<title>newsminer.com • Privacy policy</title>
+	function toggleMenu(which) {
+		$A($('pt1_main_menu').childNodes).each(function(element) {
+			if(element.className == 'pt1_item_active') {
+				element.className = 'pt1_item'
+			}
+		})
+		
+		$A($('pt1_sub_menu').childNodes).each(function(element) {
+			if(element.className == 'pt1_menu_group') {
+				element.style.display = 'none'
+			}
+		})
+		
+		$(which).className = 'pt1_item_active'
+		$(which + '_group').style.display = 'block'
+	}
 	
-	
-		<link href="http://media.newsminer.com/css/base.css" rel="stylesheet" type="text/css" media="all">
-		<!--[if IE]><link type="text/css" rel="stylesheet" href="http://media.newsminer.com/css/ie.css"><![endif]-->
-		<!--[if lt IE 7]><link type="text/css" rel="stylesheet" href="http://media.newsminer.com/css/ie.css"><![endif]-->
-		<link href="http://media.newsminer.com/css/section_default.css" rel="stylesheet" type="text/css" media="all">
-<link href="http://media.newsminer.com/css/forms.css" rel="stylesheet" type="text/css" media="all">
+	function initMenu() {
+		var pages = [
+			/* Default page */
+			[/\/$/, 'home'],
+			/* Others */
+			[/\/about_us/, 'home'],
+			[/\/account/, 'my_content'],
+			[/\/ad_details/, 'classifieds'],
+			[/\/blogs/, 'community'],
+                        [/\/forum/, 'community'],
+                        [/\/community_main/, 'community'],
+			[/\/browse/, 'classifieds'],
+			[/\/browse_by_category/, 'classifieds'],
+			[/\/business.*/, 'businesses'],
+			[/\/catalogue/, 'publication'],
+			[/\/chat/, 'my_content'],
+			[/\/classifieds/, 'classifieds'],
+			[/\/clone_ad/, 'classifieds'],
+			[/\/contact_us/, 'home'],
+                        [/\/citizen_journal/, 'community'],
+			[/\/edit_ad/, 'classifieds'],
+			[/\/edit_fob_profile/, 'my_content'],
+			[/\/edit_print_ad/, 'classifieds'],
+			[/\/edit_profile/, 'my_content'],
+			[/\/events/, 'calendar'],
+			[/\/feedback/, 'community'],
+                        [/\/features_main/, 'features'],
+                        [/\/milestones_main/, 'features'],
+                        [/\/feat_.*/, 'features'],
+			[/\/full_story/, 'home'],
+			[/\/home/, 'home'],
+                        [/\/ara/, 'living'],
+                        [/\/ara_.*/, 'living'],
+			[/\/login/, 'home'],
+			[/\/matchbin/, 'home'],
+			[/\/matchbinfaq/, 'home'],
+			[/\/my_.*/, 'my_content'],
+                        [/\/news_.*/, 'news'],
+                        [/\/news_multimedia/, 'multimedia'],
+                        [/\/main_slideshows/, 'multimedia'],
+                        [/\/main_videos/, 'multimedia'],
+                        [/\/sports_main/, 'sports'],
+                        [/\/sports_.*/, 'sports'],
+			[/\/news_obituaries/, 'features'],
+                        [/\/opinion_main/, 'opinion'],
+                        [/\/opinion_.*/, 'opinion'],
+			[/\/purchase/, 'home'],
+			[/\/recommend_ad/, 'classifieds'],
+			[/\/respond/, 'classifieds'],
+			[/\/results/, 'classifieds'],
+			[/\/results_businesses/, 'businesses'],
+			[/\/results_content/, 'home'],
+			[/\/signup/, 'classifieds'],
+			[/\/simple_signup/, 'classifieds'],
+                        [/\/sports_main/, 'sports'],
+			[/\/support/, 'home'],
+			[/\/upgrade/, 'home'],
+			[/\/user_details/, 'community'],
+			[/\/view_blog/, 'community'],
+			[/\/view_fob/, 'community'],
+			[/\/welcome/, 'community']
+		]
 
-	
-	
-	
-	<!--YAHOO ADS--><script type="text/javascript" language="JavaScript">
-		//General Information
-		yld_mgr = {};
-		yld_mgr.slots = {};
-		yld_mgr.pub_id="20948585578";
-		yld_mgr.site_name="www.newsminer.com";
-		yld_mgr.container_type="js";
-		yld_mgr.request_type="ac";	
-		yld_mgr.clk_dest="_blank";
-		yld_mgr.ad_output_encoding="utf-8";
-		yld_mgr.max_count=3;	
-		yld_mgr.content_lang="en-US";
-		yld_mgr.disable_content_send="0";
-		yld_mgr.cstm_sctn_list=["section"];  // section or article
-		yld_mgr.content_topic_id_list=["20275001"]; //Currently configured for news - adjust for content based on NCtaxIDs.xls spreadsheet		      
-		var sectionKeywords = [""]; //Custom Content Category - max 10 variables, lower case, comma separated, must start with a letter, accepted characters a-z and 0-9 EXAMPLE - "rockiesbaseball","coorsfield"
-		var content_type_list = ["fn_news"];	
-		var reporting_tag_list = ["News"];  //This is the section name
+		var which_page = 'home'
 
-		//Ad slot configs  - Remove slots that are not used on the page and the corresponding DIV tag       		
+		pages.each(function(element) {
+			if(document.URL.search(element[0]) != -1) { which_page = element[1] }
+		})
 
-			//Above the Fold 728x90						                		
-			yld_mgr.slots.adPos0={};
-			yld_mgr.slots.adPos0.ad_size_list=["728x90"];
-			yld_mgr.slots.adPos0.ad_delivery_mode="ipatf";
-			yld_mgr.slots.adPos0.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos0.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos0.content_type_list=content_type_list;
-			yld_mgr.slots.adPos0.reporting_tag_list=reporting_tag_list;
+		toggleMenu('main_menu_' + which_page)
 
-			//Above the Fold 300x100												
-			yld_mgr.slots.adPos1={};
-			yld_mgr.slots.adPos1.ad_size_list=["300x100"];
-			yld_mgr.slots.adPos1.ad_delivery_mode="ipatf";
-			yld_mgr.slots.adPos1.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos1.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos1.content_type_list=content_type_list;
-			yld_mgr.slots.adPos1.reporting_tag_list=reporting_tag_list;
-
-			//Above the Fold 300x250										
-			yld_mgr.slots.adPos9={};
-			yld_mgr.slots.adPos9.ad_size_list=["300x250"];
-			yld_mgr.slots.adPos9.ad_delivery_mode="ipatf";
-			yld_mgr.slots.adPos9.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos9.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos9.content_type_list=content_type_list;
-			yld_mgr.slots.adPos9.reporting_tag_list=reporting_tag_list;
-
-			//Spans the Fold 125x125																			
-			yld_mgr.slots.adPos4={};
-			yld_mgr.slots.adPos4.ad_size_list=["125x125"];
-			yld_mgr.slots.adPos4.ad_delivery_mode="ipstf";
-			yld_mgr.slots.adPos4.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos4.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos4.content_type_list=content_type_list;
-			yld_mgr.slots.adPos4.reporting_tag_list=reporting_tag_list;
-
-			//Below the Fold 125x125																		
-			yld_mgr.slots.adPos5={};
-			yld_mgr.slots.adPos5.ad_size_list=["125x125"];
-			yld_mgr.slots.adPos5.ad_delivery_mode="ipbtf";
-			yld_mgr.slots.adPos5.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos5.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos5.content_type_list=content_type_list;
-			yld_mgr.slots.adPos5.reporting_tag_list=reporting_tag_list;
-
-			//Above the Fold 160x600														
-			yld_mgr.slots.adPos10={};
-			yld_mgr.slots.adPos10.ad_size_list=["160x600"];
-			yld_mgr.slots.adPos10.ad_delivery_mode="ipatf";
-			yld_mgr.slots.adPos10.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos10.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos10.content_type_list=content_type_list;
-			yld_mgr.slots.adPos10.reporting_tag_list=reporting_tag_list;	
-
-			//Below the Fold 728x90														
-			yld_mgr.slots.adPos14={};
-			yld_mgr.slots.adPos14.ad_size_list=["728x90"];
-			yld_mgr.slots.adPos14.ad_delivery_mode="ipbtf";
-			yld_mgr.slots.adPos14.ad_format_list=["Standard Graphical","Rich Media"];
-			yld_mgr.slots.adPos14.cstm_content_cat_list=sectionKeywords;
-			yld_mgr.slots.adPos14.content_type_list=content_type_list;
-			yld_mgr.slots.adPos14.reporting_tag_list=reporting_tag_list;
-
-			</script><script type="text/javascript" language="JavaScript" src="http://e.yieldmanager.net/script.js"></script>
-			
-			
-			
-			<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-375478-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-			
-			
-			
-
-			<script type="text/javascript"><!--//--><![CDATA[//><!--
-			sfHover = function() {
-				var sfEls = document.getElementById("drop").getElementsByTagName("LI");
-				for (var i=0; i<sfEls.length; i++) {
-					sfEls[i].onmouseover=function() {
-						this.className+=" sfhover";
-					}
-					sfEls[i].onmouseout=function() {
-						this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-					}
+		$('pt1_content_container').onmouseover = function() {
+			toggleMenu(eval('main_menu_' + which_page).id)
+		}
+		
+		$A($('pt1_main_menu').childNodes).each(function(element) {
+			if(element.className == 'pt1_item' || element.className == 'pt1_item_active') {
+				element.onmouseover = function() {
+					toggleMenu(element.id)
 				}
 			}
-			if (window.attachEvent) window.attachEvent("onload", sfHover);
+		})
+	}
+</script>
+</div>
+</div>
+<div id="content_container" align="left">	<div>
+	<!--YAHOO ADS--><script type="text/javascript" language="JavaScript">
+
+            //General Information
+
+            yld_mgr = {};
+
+            yld_mgr.slots = {};
+
+            yld_mgr.pub_id="20948585578";
+
+            yld_mgr.site_name="www.newsminer.com";
+
+            yld_mgr.container_type="js";
+
+            yld_mgr.request_type="ac";       
+
+            yld_mgr.clk_dest="_blank";
+
+            yld_mgr.ad_output_encoding="utf-8";
+
+            yld_mgr.max_count=3;  
+
+            yld_mgr.content_lang="en-US";
+
+            yld_mgr.disable_content_send="0";
+
+            yld_mgr.cstm_sctn_list=["section"];  // section or article
+
+            yld_mgr.content_topic_id_list=["20339501"]; //Currently configured for Homepage - adjust for content based on NCtaxIDs.xls spreadsheet                           
+
+            var sectionKeywords = [""]; //Custom Content Category - max 10 variables, lower case, comma separated, must start with a letter, accepted characters a-z and 0-9 EXAMPLE - "rockiesbaseball","coorsfield"
+
+            var content_type_list = ["fn_news"];        
+
+            var reporting_tag_list = ["Home"];  //This is the section name
+
+                                                                                                                                                                       
+
+            //Ad slot configs  - Remove slots that are not used on the page and the corresponding DIV tag                    
+
+                       
+
+                        //Above the Fold 728x90                                                                                                
+
+                        yld_mgr.slots.adPos0={};
+
+                        yld_mgr.slots.adPos0.ad_size_list=["728x90"];
+
+                        yld_mgr.slots.adPos0.ad_delivery_mode="ipatf";
+
+                        yld_mgr.slots.adPos0.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos0.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos0.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos0.reporting_tag_list=reporting_tag_list;
+
+                       
+
+                        //Above the Fold 300x100                                                                                                                                              
+
+                        yld_mgr.slots.adPos1={};
+
+                        yld_mgr.slots.adPos1.ad_size_list=["300x100"];
+
+                        yld_mgr.slots.adPos1.ad_delivery_mode="ipatf";
+
+                        yld_mgr.slots.adPos1.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos1.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos1.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos1.reporting_tag_list=reporting_tag_list;
+
+                       
+
+                        //Above the Fold 300x250                                                                                                                      
+
+                        yld_mgr.slots.adPos9={};
+
+                        yld_mgr.slots.adPos9.ad_size_list=["300x250"];
+
+                        yld_mgr.slots.adPos9.ad_delivery_mode="ipatf";
+
+                        yld_mgr.slots.adPos9.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos9.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos9.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos9.reporting_tag_list=reporting_tag_list;
+
+                       
+
+                        //Spans the Fold 125x125                                                                                                                                                                                                                                  
+
+                        yld_mgr.slots.adPos4={};
+
+                        yld_mgr.slots.adPos4.ad_size_list=["125x125"];
+
+                        yld_mgr.slots.adPos4.ad_delivery_mode="ipstf";
+
+                        yld_mgr.slots.adPos4.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos4.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos4.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos4.reporting_tag_list=reporting_tag_list;
+
+           
+
+                        //Below the Fold 125x125                                                                                                                                                                                                                      
+
+                        yld_mgr.slots.adPos5={};
+
+                        yld_mgr.slots.adPos5.ad_size_list=["125x125"];
+
+                        yld_mgr.slots.adPos5.ad_delivery_mode="ipbtf";
+
+                        yld_mgr.slots.adPos5.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos5.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos5.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos5.reporting_tag_list=reporting_tag_list;
+
+ 
+
+                        //Above the Fold 160x600                                                                                                                                                                      
+
+                        yld_mgr.slots.adPos10={};
+
+                        yld_mgr.slots.adPos10.ad_size_list=["160x600"];
+
+                        yld_mgr.slots.adPos10.ad_delivery_mode="ipatf";
+
+                        yld_mgr.slots.adPos10.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos10.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos10.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos10.reporting_tag_list=reporting_tag_list;        
+
+ 
+
+                        //Below the Fold 728x90                                                                                                                                                            
+
+                        yld_mgr.slots.adPos14={};
+
+                        yld_mgr.slots.adPos14.ad_size_list=["728x90"];
+
+                        yld_mgr.slots.adPos14.ad_delivery_mode="ipbtf";
+
+                        yld_mgr.slots.adPos14.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos14.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos14.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos14.reporting_tag_list=reporting_tag_list;
+
+                                                                                                                                                 
+      yld_mgr.slots.adPos13={};
+
+                        yld_mgr.slots.adPos13.ad_size_list=["160x600"];
+
+                        yld_mgr.slots.adPos13.ad_delivery_mode="ipatf";
+
+                        yld_mgr.slots.adPos13.ad_format_list=["Standard Graphical","Rich Media"];
+
+                        yld_mgr.slots.adPos13.cstm_content_cat_list=sectionKeywords;
+
+                        yld_mgr.slots.adPos13.content_type_list=content_type_list;
+
+                        yld_mgr.slots.adPos13.reporting_tag_list=reporting_tag_list; 
 
 
-			//--><!]]></script>
+
+//Below the Fold 300x250
+
+                         yld_mgr.slots.adPos8={};
+
+                         yld_mgr.slots.adPos8.ad_size_list=["300x250"];
+
+                         yld_mgr.slots.adPos8.ad_delivery_mode="ipbtf";
+
+                         yld_mgr.slots.adPos8.ad_format_list= 
+["Standard Graphical","Rich Media"];
+
+                          
+yld_mgr.slots.adPos8.cstm_content_cat_list=sectionKeywords;
+
+                          
+yld_mgr.slots.adPos8.content_type_list=content_type_list;
+
+                          
+yld_mgr.slots.adPos8.reporting_tag_list=reporting_tag_list;
+
+
+
+                                                                                  
+
+                        </script><script type="text/javascript" language="JavaScript" src="http://e.yieldmanager.net/script.js"></script>
+
+
+</div>
+</div>
+
+<script type="text/javascript" charset="utf-8" src="http://analytics.matchbin.com/javascripts/analytics.js"></script>
+
+
+
+<div id="pt1_page">
+	<div id="pt1_header">
+		<div id="pt1_branding"> 
+
+<div class="ebutton_styles">
+
+<a href="http://fairbanksdailynews.ak.newsmemory.com/"><img src="/sites/635/assets/ebutton.png"></a>
+
+</div>
+
+		</div>
+		<div id="content_menu_container" align="left">	<div>
+	<style>
+classifieds li {
+           width: 160px;
+}
+
+
+
+
+</style>
+
+
+<div id="pt1_menu" style="background:#5982A2 url('/sites/635/assets/menu_image.jpg ') 0px 0px no-repeat; height:30px;width:960px_width:960px;">
+	<div id="pt1_main_menu">
+
+<ul id="ddUL">
+<li style="width: 55px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/">Home</a>
+		</li>
+	
+
+<li style="width:75px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/subscribe_new_subscription">Subscribe</a><br>
+
+		<ul>
+                      <li style="width: 140px;"><a href="/pages/subscribe_new_subscription">New Subscription</a></li>
+		      <li><a href="/pages/subscribe_purchase_single_issue">Purchase Single Issue</a></li>
+                      <li><a href="/pages/subscribe_change_address">Change Address</a></li>
+                      <li><a href="/pages/subscribe_delivery_problems">Delivery Problems</a></li>
+                      <li><a href="/pages/subscribe_vacation_stop">Vacation Stop</a></li>
+</ul>
+</li>
+
+
+
+
+<li style="width:90px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/business_directory">Marketplace</a><br>
+
+</li>
+
+
+
+
+
+
+
+
+
+<li style="width: 85px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="http://classifieds.newsminer.com/">Classifieds</a><br>
+<ul>
+<classifieds>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=9&amp;page=1&amp;sort=">Aircraft &amp; Boats</a></li>
+	    <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=1&amp;page=1&amp;sort=">Announcements</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=10&amp;page=1&amp;sort=">Automotive</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=2&amp;page=1&amp;sort=">Employment</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=3&amp;page=1&amp;sort=">Financial</a></li>
+            <li style="padding-left: 1px; width: 140px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=8&amp;page=1&amp;sort=">General Merchandise</a></li>
+            <li style="padding-left: 1px; width: 140px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=1&amp;cid=1&amp;page=1&amp;sort=">Legal Ads</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=7&amp;page=1&amp;sort=">Livestock &amp; Pets</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=5&amp;page=1&amp;sort=">Real Estate</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/index.php?pid=11">Services</a></li>
+            <li style="padding-left: 1px;"><a href="http://classifieds.newsminer.com/browse/browse.php?pid=6&amp;page=1&amp;sort=">Rentals</a></li>
+            <li style="padding-left: 1px;"><a href="http://homes.newsminer.com/">Featured Homes</a></li>
+            <li style=":&quot;padding-left:" 1px;"=""><a href="http://newsminerextra.com/homes/rentals.php">Featured Rentals</a></li>
+            <li style=":&quot;padding-left:" 1px;"=""><a href="http://newsminerextra.com/homes/commercial.php">Commercial Property</a></li>
+            <li style=":&quot;padding-left:" 1px;"=""><a href="http://newsminerextra.com/homes/land.php">Land Sales</a></li>
+            <li style="padding-left: 1px;"><a href="/pages/jobs">Hot Jobs</a></li>
+
+            </classifieds>
+</ul>
+</li>
+
+
+
+
+
+
+
+<li style="width:75px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/my_content">My Content</a><br>
+
+		<ul>
+		       <li><a href="/pages/my_profiles">My Profiles</a></li>
+                        <li><a href="/pages/my_buddies">My Buddies</a></li>
+                        <li><a href="/pages/my_blogs">My Blogs</a></li>
+                        <li><a href="/pages/my_events">My Events</a></li>
+		</ul>
+</li>
+
+
+
+
+
+
+
+
+<li style="width:75px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/arcticcam">ArcticCam</a><br>
+
 		
-	
-	
-	
-	<link rel="icon" href="http://media.newsminer.com/images/favicon.png" type="image&quot;/x-icon" "="">
-	<link rel="shortcut icon" href="http://media.newsminer.com/images/favicon.png" type="image/x-icon">
-</head>
+</li>
+<li style="width:55px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/news">News</a><br>
+		<ul>
+                         <li><a href="http://www.legacy.com/newsminer/Obituaries.asp">Obituaries</a></li>
+						<li style="width: 140px"><a href="/pages/news_local_news">Local News</a></li>
+                        <li><a href="/pages/news_alaska_news">Alaska News</a></li>
+                        <li><a href="/pages/news_politics">Politics</a></li>
+                        <li><a href="/pages/news_public_safety_report">Public Safety Report</a></li>
+                        <li><a href="/pages/news_dermot_cole">Dermot Cole</a></li>
+                        <li><a href="/pages/news_couples">Couples</a></li>
+                        <li><a href="/pages/news_sarah_palin">Sarah Palin</a></li>
+                        <li><a href="/pages/news_business">Business</a></li>
+                        
+
+                       
+						<li><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=AKFAI&amp;CN=AP707&amp;SITE=AKFAI&amp;SECTION=MONEY_COMPLETE">Money &amp; Markets</a></li>
+		</ul> 
+</li>
 
 
 
-<body class="body" id="body">
+
+<li style="width:60px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/opinion">Opinion</a><br>
+
+		<ul>
+                        <li style="width:160px;"><a href="/pages/forum">Forum</a></li>
+<li style="width:160px;"><a href="/pages/opinion">Letters to the Editor</a></li>
+<li style="width:160px;"><a href="/pages/opinion">Community Perspective</a></li>
+<li style="width:160px;"><a href="/pages/opinion">Editorials</a></li>
+
+		</ul>	
+</li>
 
 
-<ul id="courtesy-nav">
-	<li><a href="#nav">Skip to navigation menu</a></li>
-	<li><a href="#primary">Skip to main content</a></li>
+
+
+
+
+<li style="width:60px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/sports">Sports</a><br>
+		<ul>
+		           <li style="width:120px;"><a href="/pages/sports_iditarod">Iditarod</a></li>    
+                        <li style="width:120px;"><a href="http://newsminer.com/pages/full_story/push?blog-On+The+Run+Again+With+Bob+Eley%20&amp;id=10369978&amp;instance=user_blogs">On the Run Again</a></li>
+<li style="width:120px;"><a href="/pages/sports">Local sports</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_uaf_nanooks">UAF Nanooks</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_fairbanks_grizzlies">Fairbanks Grizzlies</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_yukon_quest">Yukon Quest</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_ice_dogs">Ice Dogs</a></li>
+                        
+			            <li style="width:120px;"><a href="/pages/sports_nascar">NASCAR</a></li>
+		                <li style="width:120px;"><a href="/pages/sports_college_hoops">College Hoops</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_nfl">NFL</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_baseball">Baseball</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_nba">NBA</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_nhl">NHL</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_golf">Golf</a></li>
+                        <li style="width:120px;"><a href="/pages/sports_tennis">Tennis</a></li>
+ <li style="width:160px;"><a href="/pages/sports_winter_games">Winter Olympics / Alaska</a></li>
+						<li style="width:120px;"><a href="http://wintergames.ap.org/?site=AKFAI">Winter Olympics / US</a></li>
+
+</ul>
+		
+</li>
+
+<li style="width:65px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/features_latitude_65">Features</a><br>
+
+		<ul>
+		        <li style="width:130px;"><a href="/pages/features_latitude_65">Latitude 65</a></li>
+                        <li style="width:130px;"><a href="/pages/features_sundays">Sundays</a></li>
+                        <li style="width:130px;"><a href="/pages/features_outdoors">Outdoors</a></li>
+                        <li style="width:130px;"><a href="/pages/features_our_town">Our Town</a></li>
+                        <li style="width:130px;"><a href="/pages/features_youth">Youth</a></li>
+                        <li style="width:130px;"><a href="/pages/features_faith">Faith</a></li>
+                        <li style="width:130px;"><a href="/pages/features_food">Food</a></li>
+                        <li style="width:130px;"><a href="/pages/features_health">Health</a></li>
+                        <li style="width:130px;"><a href="http://www.uclick.com/client/fdm/cpa/">Comics</a></li>
+                        <li style="width:130px;"><a href="/pages/features_horoscope">Horoscope</a></li>
+                        <li style="width:130px;"><a href="/pages/features_tv_listings">TV Listings</a></li>
+		        <li style="width:130px;"><a href="/pages/features_strange_news">Strange News</a></li>
+<li style="width:130px;"><a href="/pages/games">Games/Puzzles</a></li>
+</ul>
+
+		
+</li> 
+
+<li style="width:85px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/multimedia">Multimedia</a><br>
+
+		<ul>
+						<li style="width:140px;"><a href="/pages/multimedia_photos">Photos</a></li>
+						<li style="width:140px;"><a href="/pages/multimedia_video">Video</a></li>   
+						<li style="width:140px;"><a href="/pages/multimedia_audio">Audio</a></li>   
+						<li style="width:140px;"><a href="http://newsminer.mycapture.com/mycapture/index.asp">Photo reprints</a></li>   
+
+
+                    
+		</ul>
+
+</li>
+
+<li style="width:85px;text-align:center;" onmouseover="this.className='msieFix'" onmouseout="this.className=''">
+<a href="/pages/features_our_town">Community</a><br>
+
+		<ul>
+		      <li><a href="/pages/features_our_town">Our Town</a></li>
+                      <li><a href="/pages/community_interior_blogs">Interior Blogs</a></li>
+                      <li><a href="/pages/community_columns">Local Columns</a></li>
+                      <li><a href="/pages/community_local_links">Local Links</a></li>
+
 </ul>
 
 
 
-<div id="wrapper">
+		
+</li>
+</ul>
+</div>
+</div>
+			<div id="pt1_search_controls" style="float: left;background:#FFF;height:30px;width:957px;_width:960px;padding-left:3px;padding-top:5px;margin-bottom:5px;">
+				<div id="pt1_search_bar_ajax_container"> <div id="content_container" align="left">	<div>
+	<div id="pt1_search_element_select" style="display: none;">
+	<select id="pt1_search_dropdown" onchange="toggleSearch(this.value)">
+		<option value="content">articles</option>
+		<option value="ads">ads</option>
+		<option value="businesses">businesses</option>
+		<option value="events">events</option>
+		<option value="profiles">profiles</option>
+	</select>
+</div>
+<div id="pt1_search_element_bar">
+	<div id="pt1_search_ads" style="display: none;">
+		<div id="search_bar_ads_container" align="left">
 
-	<div id="header">
-		
-			<p class="logo">
-				<a href="/">
-					<img src="http://media.newsminer.com/images/fdnm.gif" alt="Fairbanks Daily News-Miner">
-				</a>
-			</p>
-			<h1><a href="/">newsminer.com</a></h1>
-			<p class="slogan">The voice of Interior Alaska since 1903</p>
-			<ul id="drop">
-	<li class="nav-first-list-item nav-list-item"><a href="/">Home</a>
-	</li><li class="nav-list-item"><a href="/news/today/">News</a>
-		<ul>
-			<li><a href="/news/today/">Today's News</a></li>
-			<li><a href="/news/local/">Local News</a></li>
-			<li><a href="/news/palin/">Sarah Palin</a></li>
-	<!--	<li><a href="/news/special/stevens/">Ted Stevens</a></li> </ -->
-			<li><a href="/news/dermotcole/">Dermot Cole</a></li>
-			<li><a href="/news/local/public_safety/">Public Safety Report</a></li>
-			<li><a href="/couples/">Couples</a></li>
-			<li><a href="/obits/">Obituaries</a></li>
-			<li><a href="/news/alaska/">Alaska News</a></li>
-			<li><a href="/news/business/">Business</a></li>	
-			<li><a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=AKFAI&amp;CN=AP707&amp;SITE=AKFAI&amp;SECTION=MONEY_COMPLETE">Money &amp; Markets</a></li>	
-		</ul>
-	</li>
-	<li class="nav-list-item"><a href="/arcticcam/">ArcticCam</a></li>
-	<li class="nav-list-item"><a href="/news/opinion/">Opinion</a>
-		<ul>
-			<li><a href="/news/opinion/editorials/">News-Miner Editorials</a></li>
-			<li><a href="/news/opinion/letters/">Letters to the Editor</a></li>
-			<li><a href="/news/opinion/community/">Community Perspectives</a></li>
-			<li><a href="/photos/galleries/editorial-cartoons/">Editorial Cartoons</a></li>
-		</ul>
-	</li>
-	<li class="nav-list-item"><a href="/news/sports">Sports</a>
-		<ul>
-			<li><a href="/news/sports/">Local Sports</a></li>
-			<li><a href="/news/nanooks/">UAF Nanooks</a></li>
-			<li><a href="/news/yukon_quest2009/">Yukon Quest</a></li>
-			<li><a href="/news/Iditarod/">Iditarod</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/NASCAR05?SITE=AKFAI&amp;SECTION=HOME">NASCAR</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/COLLEGEBASKETBALL_25?SITE=AKFAI&amp;SECTION=HOME">College Hoops</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/FOOTBALL?SITE=AKFAI&amp;SECTION=HOME">NFL</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/BASEBALL?SITE=AKFAI&amp;SECTION=HOME">Baseball</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/BASKETBALL?SITE=AKFAI&amp;SECTION=HOME">NBA</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/HOCKEY?SITE=AKFAI&amp;SECTION=HOME">NHL</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/GOLF?SITE=AKFAI&amp;SECTION=HOME">Golf</a></li>
-			<li><a href="http://hosted.ap.org/dynamic/fronts/TENNIS?SITE=AKFAI&amp;SECTION=HOME">Tennis</a></li>
-			
-		</ul>
-	</li>
-	<li class="nav-list-item"><a href="/news/latitude65">Features</a>
-		<ul>
-			<li><a href="/news/latitude65/">Latitude 65</a></li>
-			<li><a href="/news/sundays/">Sundays</a></li>
-			<li><a href="/news/outdoors/">Outdoors</a></li>
-			<li><a href="/ourtown/">Our Town</a></li>
-			<li><a href="/news/youth/">Youth</a></li>
-			<li><a href="/news/faith/">Faith</a></li>
-			<li><a href="/news/food/">Food</a></li>
-			<li><a href="/news/health/">Health</a></li>
-			<li><a href="http://www.uclick.com/client/fdm/cpa/">Comics</a></li>
-			<li><a href="http://www.uclick.com/client/fdm/gpb/">Games</a></li>
-			<li><a href="/features/horoscope/">Horoscope</a></li>
-			<li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=fadamin">TV Listings</a></li>
-			<li><a href="/strange/">Strange News</a></li>
-		</ul>
-		
-		
-	</li>
-	<li class="nav-list-item"><a href="http://classifieds.newsminer.com">Classifieds</a>
-		<ul>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=9&amp;page=1&amp;sort=">Aircraft &amp; Boats</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=1&amp;page=1&amp;sort=">Announcements</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=10&amp;page=1&amp;sort=">Automotive</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=2&amp;page=1&amp;sort=">Employment </a></li>
-	<!--		<li><a href="http://fairbanks.uber.matchbin.net/pages/jobs/">HotJobs </a></li> -->
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=3&amp;page=1&amp;sort=">Financial</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=8&amp;page=1&amp;sort=">General Merchandise</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=7&amp;page=1&amp;sort=">Livestock &amp; Pets</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=5&amp;page=1&amp;sort=">Real Estate </a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/index.php?pid=11">Services</a></li>
-			<li><a href="http://classifieds.newsminer.com/browse/browse.php?pid=6&amp;page=1&amp;sort=">Rentals </a></li>
-			<li><a href="http://homes.newsminer.com">Featured Homes</a></li>
-			<li><a href="http://newsminerextra.com/homes/rentals.php">Featured Rentals</a></li>
-			<li><a href="http://newsminerextra.com/homes/commercial.php">Commercial Property</a></li>
-			<li><a href="http://newsminerextra.com/homes/land.php">Land Sales</a></li>
-			
-		</ul>
-	</li>
-	<li class="nav-list-item"><a href="/photos/">Photos</a>
+<form action="/pages/sports_yukon_quest/search_bar?link=search_bar::results&amp;instance=ads&amp;" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="item service job auto property rental">
+<input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
+
+  <input name="commit" type="submit" value="search">
+</form></div>
+	</div>
+	<div id="pt1_search_content" style="display: none;">
+		<div id="search_content_container" align="left">
+<form action="/pages/privacy_policy/search_content?link=search_content::results&amp;" id="search_content_form" method="post"><input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
+	<input name="commit" type="submit" value="search">
+</form></div>
+	</div>
+	<div id="pt1_search_businesses" style="display: none;">
+		<div id="search_bar_businesses_container" align="left">
+
+<form action="/pages/sports_yukon_quest/search_bar?link=search_bar::results&amp;instance=businesses&amp;" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="business">
+<input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
+
+  <input name="commit" type="submit" value="search">
+</form></div>
+	</div>
+	<div id="pt1_search_events" style="display: none;">
+		<div id="search_bar_events_container" align="left">
+
+<form action="/pages/sports_yukon_quest/search_bar?link=search_bar::results&amp;instance=events&amp;" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="event">
+<input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
+
+  <input name="commit" type="submit" value="search">
+</form></div>
+	</div>
+	<div id="pt1_search_profiles" style="display: none;">
+		<div id="search_bar_profiles_container" align="left">
+
+<form action="/pages/sports_yukon_quest/search_bar?link=search_bar::results&amp;instance=profiles&amp;" id="search_bar_form" method="post">  <input id="klass" name="klass" type="hidden" value="profile">
+<input class="searchBarStringField" id="string" name="string" size="30" type="text" value="">
+
+  <input name="commit" type="submit" value="search">
+</form></div>
+	</div>
+</div>
+</div>
+</div> </div><div id="pt1_login_controls">
+				<div id="user_menu_container" align="left">
+<div class="userMenu">
 	<ul>
-		 
-		 
-		 
+			<li id="sign_in"><a href="/pages/login/?">sign in</a></li>
+
 	</ul>
-	</li>
-	<li class="nav-list-item"><a href="/multimedia/">Multimedia</a>
-		<ul>
-			<li><a href="/photos/">Photos</a></li>
-			<li><a href="/photos/galleries/">Photo Galleries</a></li>
-			<li><a href="/videos/">Videos</a></li>
-			<li><a href="/audioclips/">Audio</a></li>
-		</ul>
-	</li>
-	<li class="nav-last-list-item nav-list-item"><a href="/weblogs">Blogs</a>
-		
-		
-		<ul>
-			<li><a href="/weblogs/dermot-cole/">Dermot Cole</a></li><li><a href="/weblogs/editors-desk/">Rod Boyce: The editor's desk</a></li><li><a href="/weblogs/capital-focus/">Capital Focus</a></li><li><a href="/weblogs/strong-side/">Strong Side</a></li><li><a href="/weblogs/offbeat-fairbanks/">Offbeat Fairbanks</a></li><li><a href="/weblogs/interior-blogroll/">Interior Blogroll</a></li><li><a href="/weblogs/fairbanks-beer-blog/">Fairbanks Beer Blog</a></li><li><a href="/weblogs/alaska-video-gamer/">Alaska Video Gamer</a></li><li><a href="/weblogs/alaska-gardening-roundtable/">Alaska Gardening Roundtable</a></li>
-		</ul>
-	</li>
-</ul>
-			
-			<form id="search-form" action="/search/" method="get">
-				<p>
-					</p><div id="search-field"><input type="text" name="q" size="25"></div>
-					<div id="search-submit"><input type="image" src="http://media.newsminer.com/images/blue/bg_search_right.gif" value="search"></div>
-				<p></p>
-				
-			</form>
-			
-			<p id="login">
-				
-					<a href="/accounts/login/">Login</a>
-				
-			</p>
-		
+</div></div>
+			</div>
+	
 	</div>
 
+</div>
+</div>
+	</div>
 	
-		
-		<div id="primary">
-			
+<div id="pt1_content_container">
 
-<div id="news-wrapper">
+		<div class="pt1_pane">
+
+<div class="pt1_pane_heading"></div>
+
+<div class="pt1_pane_body">
+
+<div class="paddedMore">
+
+
+
 
 	<h2>Privacy policy</h2>
 	
@@ -343,126 +817,233 @@ pageTracker._trackPageview();
 	
 	
 
-</div>
 
-<div id="sidebar">
-	<div class="sidebar_ads">
-		<!-- 300x250 ad size -->
-		<!-- 300x250 Above the Fold APT -->														
-		<div style="center" class="adElement" id="adPosition9"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos9");</script>
-		</div>
-		<!-- End 300x250 ad size -->
-	
-		<iframe style="padding:0;margin:0" src="http://newsminerextra.com/homes/includes/ad.php" id="homes_ad" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height:100%="">
-		</iframe>
-	
-		<!-- 300x100 ad size -->
-		<!-- 300x100 Above the Fold APT-->														
-		<div style="center" class="adElement" id="adPosition1"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos1");</script>
-		</div>
-		<!-- End 300x100 ad size -->
-	
-		<!-- this is where google analytics was located -->
-		<div id="small-box-ad-left">
-			<div style="center" class="adElement" id="adPosition5"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos5");</script>
-		</div>
-		<!-- 125x125 APT Below the Fold APT-->														
-		<div style="center" class="adElement" id="adPosition4"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos4");</script>
-		</div>
-		</div>
-	<!-- End google analytics? -->
-	
-	<!-- 125x125 ad right -->
-	<div id="small-box-ad-right">
-	<!-- 125x125 Below the Fold APT -->														
-		<div style="center" class="adElement" id="adPosition5"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos5");</script>
-		</div>
-	</div>
-</div>
 
+
+
+
+
+
+
+
+
+
+</div>
+</div>
 
 </div>
 
 
+<div class="newline"> </div>
 
-
-
-		
-		
-		<div class="banner-ad bottom-banner-ad">
-			<div style="center" class="adElement" id="adPosition14"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos14");</script>
-			</div>
-		</div>
-		
-		
-		<div id="extra-content">
-			
-			
-		</div>
-		</div>
+	<div class="pt1_pane">
+	<div class="pt1_pane_body" align="center">
+		<div id="content_container" align="center">
 
 	
+<div id="content_container" align="left">	<div>
+	<!-- 728x90 Below the Fold -->                                                                                                                                                               
 
-	<div id="footer">
-		
-		All site content © 2009 Fairbanks Daily News-Miner. All rights reserved. Member of <a href="http://www.centro.net/realcities/"><img src="http://media.newsminer.com/images/realcities.gif"></a>
-		
-	</div>
-	
+<div align="center" class="adElement" id="adPosition14"><script type="text/javascript" language="JavaScript">yld_mgr.place_ad_here("adPos14");</script></div>
+</div>
 </div>
 
-<div id="mini-site-map">
+</div>
+</div>
+</div>
+
+
+<div class="footer">
+				
+<div id="content_container" align="left">	<div>
+			<div id="site_footer_container" align="left">
+		
+	
+
     <dl>
-		<dt>Also inside</dt>
+		
+
 		<dd>
-			<a href="/news/today/">Today's news</a> /
-			<a href="/photos/">Photos</a> /
-			<a href="/news/local/">Local</a> /
-			<a href="/news/alaska/">Alaska</a> /
-			<a href="/news/sports/">Sports</a> /
-			<a href="/news/opinion/">Opinion</a>
+		    <span style="margin: 25px;"><font color="#5982A2">Also Inside</font></span>
+			<a href="/pages/news">Today's news</a> /
+			<a href="/pages/multimedia_photos">Photos</a> /
+			<a href="/pages/news_local_news">Local</a> /
+			<a href="/pages/news_alaska_news">Alaska</a> /
+			<a href="/pages/sports">Sports</a> /
+			<a href="/pages/opinion">Opinion</a>
+
 		</dd>
-		<dt>Features</dt>
+		<br>
 		<dd>
-			<a href="/news/sundays/">Sundays</a> /
-			<a href="/news/health/">Health</a> /
-			<a href="/news/food/">Food</a> /
-			<a href="/news/outdoors/">Outdoors</a> /
-			<a href="/news/latitude65/">Latitude 65</a> /
-			<a href="/news/youth/">Youth</a> /
-			<a href="/news/business/">Business</a>
+		<span style="margin: 25px;"><font color="#5982A2">Features</font></span>
+			<a href="/pages/features_sundays">Sundays</a> /
+			<a href="/pages/features_health">Health</a> /
+			<a href="/pages/features_food">Food</a> /
+			<a href="/pages/features_outdoors">Outdoors</a> /
+			<a href="/pages/features_latitude_65">Latitude 65</a> /
+			<a href="/pages/features_youth">Youth</a> /
+			<a href="/pages/news_business">Business</a>
+
 		</dd>
-		<dt>newsminer.com</dt>
+		<br>
 		<dd>
-			<a href="/search/archives/">Archives</a> /
-			<a href="/arcticcam/newsminer/">About</a> /
-			<a href="/submit/feedback/">Feedback</a> /
-			<a href="/privacy/">Privacy Policy</a> /
-			<a href="/user_agreement/">User Agreement</a> /
-			<a href="http://classifieds.newsminer.com/browse/browse.php?pid=2&amp;page=1&amp;sort=">Jobs</a> /
-			<!-- <a href="/sitemap/">Sitemap</a> /-->
-			<a href="/contact/">Contact</a> /
-			<a href="/rss/">Feeds</a> /
+		<span style="margin: 25px;"><font color="#5982A2">newsminer.com</font></span>
+                     <a href="/pages/archives">Archives</a> /
+			<a href="/pages/about_us">About</a> /
+			<a href="/pages/submit_feedback">Feedback</a> /
+			<a href="/pages/privacy_policy">Privacy Policy</a> /
+			<a href="/pages/user_agreement">User Agreement</a> /
+			<a href="/pages/jobs">Hot Jobs</a> /
+			<a href="/pages/contact_us">Contact</a> /
+			<a href="/pages/rss_feeds">RSS Feeds</a> /
 			<a href="http://twitter.com/newsminer">Twitter</a> /
-			<a href="http://www.youtube.com/user/newsminer">YouTube</a> /
-			<a href="/bookstore/">Bookstore</a>
+			<a href="http://www.youtube.com/user/newsminer">YouTube</a> 
+			
 		</dd>
-		<dt>Submit</dt>
+        <br>
 		<dd>
-			<!-- <a href="/submit/photos/">Photos</a> / -->
+		<span style="margin: 25px;"><font color="#5982A2">Submit</font></span>
+			
 			<!-- <a href="/submit/ourtown/">Our Town</a> / -->
-			<a href="/submit/letter_editor/">Letters to the Editor</a> /
-			<a href="/submit/applause/">Applause</a> /
-			<a href="/events/submit/">Events</a> /
-			<a href="/submit/obituary/">Obituaries</a>
-		</dd>
-	</dl>
+			<a href="/pages/submit_letters_to_editor">Letters to the Editor</a> /
+			<a href="/pages/submit_applause">Applause</a> /
+			<a href="/pages/submit_event">Events</a> /
+			<a href="http://www.legacy.com/newsminer/Obituaries.asp">Obituaries</a>
+			</dd>
+
+<script type="text/javascript" charset="utf-8" src="http://ads.matchbin.com/javascripts/matchbin_ad.js"></script>
+<script type="text/javascript" charset="utf-8">
+  //do not show ads on secure connections
+  if (window.location.protocol.match(/http:/)) {
+    _matchbin_ad.showAd({"site_id":635,"inline":null,"tags":"popunder_ad","height":"1","site_constraints_ignored":"dimensions","instance":"popunder_ad","width":"1"});
+  }
+</script>
+
+			
+<div align="center">
+  
+   
+
+  <br>
+  <br>
+	
+	<span class="footnote">software copyright © 2010 <a href="/pages/matchbin">matchbin inc.</a> content copyright © 2010 Fairbanks</span>
+	<br>
+	<span class="footnote bold">this software is in a public beta test phase</span> <a href="#1" onclick="newWindow = window.open('/help/privacy_policy', 'help', 'width=650,height=700,menubar=1,scrollbars=1,toolbar=0,resizable=1'); newWindow.focus;; return false;"><span class="link">read our privacy policy</span></a>
+
+	<br>
+	<span class="footnote">Fairbanks - The voice of Interior Alaska since 1903. is in fairbanks, AK</span>
+</div>
+</dl></div>
+
+
+
+</div>
+</div>
 </div>
 
 
+</div>
+</div>
 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-375478-1");
+pageTracker._trackPageview();
+} catch(err) {}</script> <script type="text/javascript">
+  if (typeof(_gat) == 'undefined') {
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  }
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
 
+try {
+  var matchbinPageTracker = _gat._getTracker("UA-2581399-1");
+  matchbinPageTracker._trackPageview();
+} catch(e) {
+  
+}
 
+try {
 
+matchbinReloadAds = function() {
+  var allFrames = $$('iframe');
+  for (var i = 0; i < allFrames.length; i++) {
+    try {
+      var frame = allFrames[i];
+      //change the src of the iframe to reload ad 
+      var src = frame.src;
+      var new_src = src.replace(/&random_for_refresh.*$/, '') + "&random_for_refresh=" + Math.random();
 
+      if (!src.match(/ads.matchbin.com/)) {
+        next;
+      }
+
+      if (Prototype.Browser.IE) {
+        //replace the iframe to avoid browser history problems
+        var new_iframe = frame.cloneNode(true);
+        //new_iframe.id = '';
+        var new_src = src.replace(/&random_for_refresh.*$/, '') + "&random_for_refresh=" + Math.random();
+        new_iframe.src = new_src;
+        //prevent flicker when ads are refreshed
+        if (parseInt(navigator.userAgent.substring(navigator.userAgent.indexOf("MSIE")+5)) >= 8) {
+          $(new_iframe).observe('load', (function(event) {
+            new_iframe.style.visibility = '';
+            new_iframe.style.position = '';
+            new_iframe.stopObserving();
+            if (frame.parentNode) {
+              frame.parentNode.replaceChild(new_iframe, frame);
+            }
+            new_iframe.id = frame.id;
+          }).bind(this));
+          new_iframe.style.visibility = 'hidden';
+          new_iframe.style.position = 'absolute';
+          frame.parentNode.appendChild(new_iframe);
+        } else {
+          frame.parentNode.replaceChild(new_iframe, frame);
+          frame.parentNode.removeChild(frame);
+        }
+      } else {
+        frame.src = new_src;
+      }
+    } catch (e) {
+      
+    }
+  }
+}
+
+matchbinAjaxHook = (function(url) {
+  try {
+    if (url && url.match && url.match(/pages|default|comment/) && !url.match(/account|noreload/)) {
+      matchbinPageTracker._trackPageview(url);
+      if (window.pageTracker) {
+        window.pageTracker._trackPageview(url);
+      }
+      if (typeof(window.ajaxAnalyticsHook) == 'function') {
+        window.ajaxAnalyticsHook(url);
+      }
+      matchbinReloadAds();
+    }
+  } catch (e) {
+    
+  }
+}).bind(this);
+} catch(e) {
+  
+}
+</script>
+<script type="text/javascript">
+var showTynt = (("ht" + "tp:") == document.location.protocol);
+if (showTynt) {
+  var tyntVariables = {"ap":"Read more: "};
+  document.write(unescape("%3Cscript src='ht" + "tp://tcr.tynt.com/javascripts/Tracer.js?user=d56qUQzfGr34Onadbi-bpO&amp;su=0&amp;st=1' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+
+<script type="text/javascript">initSearch()</script>
 </body></html>
