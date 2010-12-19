@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531083637id_/http%3A//www.allaboardtoys.com/pages/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219170443id_/http%3A//www.allaboardtoys.com/pages/Privacy-Security) for the most accurate reproduction.*
 
 # All Aboard Toys Privacy Policy
 
