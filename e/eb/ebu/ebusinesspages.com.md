@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ebusinesspages.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612192616id_/http%3A//ebusinesspages.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebusinesspages.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219193931id_/http%3A//ebusinesspages.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # eBusinessPages - Privacy Policy
-
-|  | 
-
-[](http://ebusinesspages.com/)
 
 PRIVACY POLICY 
 
@@ -28,7 +24,7 @@ Affiliated Businesses We Do Not Control: We anticipate that we may become affili
 
 Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, eBusinessPages's agents do not have any right to use personal information we share with them beyond what is necessary to assist us. 
 
-Business profiles: Business profile information including business name, address, phone number and email address is displayed to users publicly in connection with our service. As part of our website and our services, you will receive from eBusinessPages and other users and partners of eBusinessPages email and other communication relating to your business and/or the products and services you offer. You may also, from time-to-time, receive promotional emails from eBusinessPages partners. Please see the “Communication Preferences” section below for details. 
+Business profiles: Business profile information including business name, address, phone number and email address is displayed to users publicly in connection with our service. As part of our website and our services, you will receive from eBusinessPages and other users and partners of eBusinessPages email and other communication relating to your business and/or the products and services you offer. You may also, from time-to-time, receive promotional emails from eBusinessPages partners. 
 
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if eBusinessPages, or substantially all of its assets were acquired, or in the unlikely event that eBusinessPages goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of eBusinessPages may continue to use your information as set forth in this policy. 
 
@@ -57,5 +53,3 @@ If you choose to cancel your account and leave the eBusinessPages service, pleas
 INFORMATION REGARDING CHILDREN 
 
 As a business service, eBusinessPages does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age. 
-
-|  | 
