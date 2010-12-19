@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618132847id_/http%3A//www.mheducation.com/footer/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219220820id_/http%3A//mheducation.com/footer/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy - McGraw-Hill Education
 
