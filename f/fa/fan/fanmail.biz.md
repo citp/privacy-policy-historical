@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanmail.biz privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620003054id_/http%3A//www.fanmail.biz/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanmail.biz privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219232152id_/http%3A//www.fanmail.biz/privacy_statement.php) for the most accurate reproduction.*
 
 # ★ FanMail.biz: Privacy Statement
 
