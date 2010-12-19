@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the animethunder.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192911id_/http%3A//animethunder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animethunder.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219232202id_/http%3A//animethunder.com/privacy-policy) for the most accurate reproduction.*
 
-# Anime Thunder - Watch Online Anime 24/7 » Privacy Policy
-
-## Privacy Policy
+# Privacy Policy Privacy Policy • Anime Thunder - Watch Online Anime 24/7
 
 **AnimeThunder.com Agreement and Privacy Policy User Agreement**
 
