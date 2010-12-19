@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514235140id_/http%3A//www.pinnaclesports.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219104948id_/http%3A//www.pinnaclesports.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Online Sportsbetting & Latest Online Sports Betting Odds at PinnacleSports.com
-
-## **Privacy** Policy
-
-### Committed to protecting your privacy
-
-Pinnacle Sports collects information from our Internet clients at several different points on our Web site. We use this information to improve and maintain our Web site, and to provide our clients with the highest level of service available.
-
-Your privacy is of the utmost importance to Pinnacle. We feel that you have a right to know what information we collect, and how we use it. This statement discloses:
 
 ## What information do we gather from our Web site?
 
