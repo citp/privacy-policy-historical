@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620064319id_/http%3A//www.shoedazzle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219085247id_/http%3A//www.shoedazzle.com/privacy_policy) for the most accurate reproduction.*
 
 # ShoeDazzle - ShoeDazzle - Privacy Policy | Your Personal Shoe Stylist
 
@@ -61,7 +61,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 ###### OPT OUT/CORRECTIONS
 
-On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or emailing your request to our Client Services department at 1-888-508-1888 or [clientservices@shoedazzle.com](mailto:clientservices@shoedazzle.com). Please do not email your credit card number or other sensitive information. Canadian residents, please call 1-213-389-8889.
+On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or emailing your request to our Client Services department at 1.888.508.1888 or [clientservices@shoedazzle.com](mailto:clientservices@shoedazzle.com). Please do not email your credit card number or other sensitive information.
 
 ###### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
@@ -75,4 +75,4 @@ You may have received an offer from us. If you were a prior member, we may have 
 
 ###### UPDATES TO THIS POLICY
 
-If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Client Services at 1-888-508-1888 or [clientservices@shoedazzle.com](mailto:clientservices@shoedazzle.com). Canadian residents, please call 1-213-389-8889.
+If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Client Services at 1.888.508.1888 or [clientservices@shoedazzle.com](mailto:clientservices@shoedazzle.com).
