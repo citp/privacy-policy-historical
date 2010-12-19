@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526190048id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219202355id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
 
-# ArtMolds – Lifecasting, Mold Making and Casting Materials
+# Lifecasting, Mold Making, Molding Materials, and Casting Materials from EnvironMolds
 
-**Privacy Policy **
-
-This is the web site of **ArtMolds Sculpture Studio LLC** operating as **Life-casting.com.**
+This is the web site of **EnvironMolds LLC** operating as **Life-casting.com.**
 
 Our postal address is  
-**18 Bank Street**  
-**Summit NJ 07901**  
-We can be reached via e-mail at [info@artmolds.com](mailto:info@artmolds.com)  
-or you can reach us by telephone at 908 273-5401
+ **18 Bank Street**  
+ **Summit NJ 07901**  
+We can be reached via e-mail at 
+
+[info@environmolds.com](https://web.archive.org/mail:%20info@environmolds.com) you can reach us by telephone at 908 273-5401
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -48,6 +47,8 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at 
+
+[mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm)
 
 Thank you. 
