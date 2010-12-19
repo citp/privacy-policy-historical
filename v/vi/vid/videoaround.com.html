@@ -1,112 +1,294 @@
-<!--The following is the downloaded HTML source of the videoaround.com privacy policy that was archived on 2009-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090201172320id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videoaround.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219235148id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Video Around</title>
+<title>Aviation Videos Around HD</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta name="description" content="Video Around is the first aviation video community created and maintained by aviation enthusiasts. Here you can find plane disaster catch on video and many other videos from the aviation world.">
-<meta name="keywords" content="aviation video sharing community,plane crash,experimental aircraft,military aircraft,ultralight aircraft,free aviation video,mayday,airplane disaster,Radio control airplane">
+<meta name="title" content="Aviation Videos Around HD"> 
+<meta name="description" content="Aviation Videos Around is the first aviation video HD community created and maintained by aviation enthusiasts. Here you can find plane disaster catch on video and many other aviation videos.">
+<link rel="image_src" href="http://www.videoaround.com/images/thumb-facebook.jpg">
+<meta name="keywords" content="aviation videos sharing community,plane crash,experimental aircraft,military aircraft,ultralight aircraft,free aviation video,mayday,airplane disaster,Radio control airplane, Aviation videos HD">
 
 
-
+ 
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 newest videos" href="rss/new/">
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 most viewed videos" href="rss/views/">
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 most commented videos" href="rss/comments/">
+<!--!!!!!!!!!!!!!!!!!!!!!!!! LIBRARY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 <script type="text/javascript">
+
 var baseurl = 'http://www.videoaround.com/';
 var imgurl = 'http://www.videoaround.com/images';
+var page = 'index';
 </script>
+
+<script src="http://www.videoaround.com/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<!-- Sliding effect -->
+<script src="http://www.videoaround.com/js/slide.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js"></script>
+<script src="http://www.videoaround.com/js/jquery-videoaround-0.2.js" type="text/javascript"></script>
+<script src="http://www.videoaround.com/js/jquery.rotator-0.1.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.videoaround.com/js/jquery.jpassword.pack.js"></script>
+<script type="text/javascript" src="http://www.videoaround.com/js/jquery.contact.js"></script>
+
 <script src="http://www.videoaround.com/ajax/cpaint2.inc.js" type="text/javascript"></script>
 <script src="http://www.videoaround.com/js/myjavascriptfx.js" type="text/javascript"></script>
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+<!--!!!!!!!!!!!!!!!!!!!!!!!!! Processing SCRIPT !!!!!!!!!!!!!!!!!!!-->
 <script language="JavaScript" src="http://www.videoaround.com/js/indexonly.js" type="text/javascript"></script>
 <script language="JavaScript" src="http://www.videoaround.com/js/myjavascriptajax.js" type="text/javascript"></script>
 <script language="JavaScript" src="http://www.videoaround.com/js/myjavascript.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.videoaround.com/js/swfobject.js"></script>
-<link href="http://www.videoaround.com/css/upload-progress.css" rel="stylesheet" type="text/css">
-<link href="http://www.videoaround.com/css/style.css" rel="stylesheet" type="text/css">
 
+<script type="text/javascript" src="http://www.videoaround.com/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.videoaround.com/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.videoaround.com/js/sifr-config.js"></script>
+
+<link href="http://www.videoaround.com/css/slide.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.videoaround.com/css/styles.css" rel="stylesheet" type="text/css">
+<link href="http://www.videoaround.com/css/sifr.css" rel="stylesheet" type="text/css">
+<link href="http://www.videoaround.com/css/errors.css" rel="stylesheet" type="text/css">
+<!--ToolTips-->
+<link href="http://www.videoaround.com/css/tipTip.css" rel="stylesheet" type="text/css">
+
+
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+
+<script type="text/javascript" src="http://www.videoaround.com/js/custom_java.js"></script>
+<!--ToolTips-->
+<script type="text/javascript" src="http://www.videoaround.com/js/jquery.tipTip.js"></script>
+<script type="text/javascript" src="http://www.videoaround.com/js/jquery.tipTip.minified.js"></script>
 </head>
 <body>
-<div id="container"><!-- main container //-->
 
-	<div id="logo"><!-- logo //-->
-	<a href="http://www.videoaround.com/" title="Video Around"><img src="http://www.videoaround.com/images/logo.gif" alt="Video Around Home"></a>
-	</div><!-- end logo //-->
+<script type="text/javascript">
+$(function () {
+	var $alert = $('#alert');
+	if($alert.length)
+	{
+		var alerttimer = window.setTimeout(function () {
+			$alert.trigger('click');
+		}, 3000);
+		$alert.animate({height: $alert.css('height') || '80px'}, 200)
+		.click(function () {
+			window.clearTimeout(alerttimer);
+			$alert.animate({height: '0'}, 200);
+		});
+	}
+});
 
+<!--ToolTips-->
+	jQuery(function(){
+    jQuery(".Tips").tipTip({maxWidth: "150px", defaultPosition: "bottom", edgeOffset: 3});
+	jQuery(".TipsRight").tipTip({maxWidth: "150px", defaultPosition: "right", edgeOffset: 3});
+	jQuery(".promo_signin").tipTip({maxWidth: "150px", defaultPosition: "bottom", edgeOffset: 3});
+	jQuery(".flash_player_attention_close_btn").tipTip({maxWidth: "150px", defaultPosition: "top", edgeOffset: -10});
+	jQuery(".cloudtags").tipTip({maxWidth: "150px", defaultPosition: "top", edgeOffset: -10});
+			});
+</script>
 
-  
-  
-
-	<div id="login"><!-- login //-->
-	<a href="http://www.videoaround.com/login"> Login</a> | <a href="http://www.videoaround.com/signup"> Sign Up</a> | <a href="http://www.videoaround.com/help"> Help</a><form name="language_form" method="POST" action="">
-    <select name="session_language" onchange="document.language_form.submit();">
-    <option value="en_US" selected="selected">English</option>
-<option value="es_ES">Español</option>
-<option value="fr_FR">Français</option>
-<option value="de_DE">Deutsch</option>
-<option value="nl_NL">Dutch</option>
-<option value="it_IT">Italiano</option>
-<option value="pt_PT">Português</option>
-<option value="cn_CN">汉语/漢語</option>
-<option value="jp_JP">日本語</option>
-<option value="ko_KO">한국어</option>
-<option value="ar_AR">الْعَرَبيّة</option>
-<option value="ru_RU">Pусский</option>
-<option value="he_HE">עִבְרִית</option>
-<option value="tr_TR">Türkçe</option>
-<option value="ro_RO">Română</option>
-<option value="pl_PL">Polski</option>
-<option value="hr_HR">Hrvatski</option>
-<option value="lv_LV">Latviešu</option>
-<option value="si_SI">Slovenski</option>
-<option value="sr_SR">Srpski</option>
-    </select>
-    </form>
-	</div><!-- end login //-->
-	
-	<div id="search"><!-- search container //-->
-		  <form action="http://www.videoaround.com/search/" method="get" name="searchForm" id="searchForm"><!-- form //-->
-			<div class="search_rl"><img src="http://www.videoaround.com/images/search_left.gif" alt="search left"></div>
-	
-				<div id="search_form"><!-- search form //-->
-				Search for
-				<input size="40" tabindex="1" maxlength="22" name="search_id" value="" class="s_for">
-				in
+<!--start login/signup panel-->
+<div id="toppanel">
+	<div id="panel">
+		<div class="content clearfix">
+			<div class="left">
+				<h1>Welcome to Aviation Videos Around</h1>
+				<h2>Aviation Videos - Did you never thought to become a pilot in your life?</h2>		
+				<p class="grey">
+We are sure you did! The majority of people wander what pilots see from the cockpit during takeoff and landing, which maneuvers has to be taken during specify conditions etc.
+<br><br>
+Discover on video the 360 of the fascinating world of the aviation directly from your computer. Be part of aviation videos around community by sharing your passion with others.
 				
-				<select name="search_type" tabindex="2">
-                <option value="search_videos">Search Videos</option>
-                        <option value="search_users">Search Users</option>
-                        <option value="search_groups">Search Groups</option>
-              </select>
-			
-				<input type="submit" name="submit" value=" " class="search_button">
-				</div> <!--  end search form//-->
-				
-			<div class="search_rl"><img src="http://www.videoaround.com/images/search_right.gif" alt="search right"></div>
-		</form><!-- end form //-->
-	</div><!-- end search container //-->
-	
-	<div id="menu"> <!-- menu and upload bar //-->
-		<div class="search_rll"><img src="http://www.videoaround.com/images/menu_left.gif" alt="left bar"></div>
-			<div id="navigation">
-				<div class="navigation_title"><a href="http://www.videoaround.com/" id="currentTab">Home</a></div>
-				<div class="navigation_title"><a href="http://www.videoaround.com/videos">Watch</a></div>
-				<div class="navigation_title"><a href="http://www.videoaround.com/categories">Channels</a></div>
-				<div class="navigation_title"><a href="http://www.videoaround.com/usergroups">Groups</a></div>
-				<div class="navigation_title"><a href="http://www.videoaround.com/community">Community</a></div>
+</p>
+
 			</div>
-			<div id="upload_button"><a href="http://www.videoaround.com/upload"><img src="http://www.videoaround.com/images/upload.gif" alt="Upload"></a></div>
- 	<div class="search_rl"><img src="http://www.videoaround.com/images/menu_right.gif" alt="right bar"></div>
-	</div> <!--  end menu and upload bar //--><table width="100%" height="300" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><div class="main_title"><h1>Privacy Policy</h1></div><!-- title //-->
+			<div class="left">
+				<form id="loginForm" name="loginForm" class="clearfix" method="post" action="http://www.videoaround.com/login.php">
+					<h1 class="padlock">Member Login</h1>
+				        <label>User Name:</label>
+  		 		        <input type="text" name="username" tabindex="12" id="name" class="field">
+				        <label for="password">Password:</label>       
+				        <input name="password" type="password" id="password" class="field" tabindex="13" size="22">
+				        <div style="padding-top:5px;">
+					        <input name="login_remember" type="checkbox" class="checkbox">&nbsp;Remember me?
+					        <br>					        
+					        <a href="http://www.videoaround.com/recoverpassword" title="Forgot!" tabindex="14">Forgot your password?</a><br>
+					        <br>
+					        <input type="hidden" name="action_login" value="Log In">					    					        
+					    </div>
+                        <button id="login_signup_btn" class="rounded"><span>Login</span></button>
+				</form>
+			</div>
+			<div class="left right">		
 
-	<div id="main_content"><!-- left side //-->
+			  <h1>Not a member yet? Sign Up!</h1>
+		      <form id="signup-form" name="signupForm" method="post" action="http://www.videoaround.com/signup">
+		        
+		          <label for="fm-username">User Name: </label>
+		          <input maxlength="20" name="username" id="username" value="" class="field">
+		          <div id="status"></div>	
+		        
+		          <label for="fm-emailaddress">Email Address: </label>
+		          <input class="field" type="text" maxlength="60" size="20" name="email" value="">
+		       
+		          <label for="fm-password">Password: </label>
+                  <input type="password" maxlength="20" name="password1" id="jpassword_flat_generate" class="field">
+		      
+		          <label for="fm-confirmpassword">Confirm Password: </label>
+		          <input type="password" maxlength="20" name="password2" class="field">
+		                        <div style="margin:8px 0 5px 20px;" class="captcha">
+						<img src="http://www.videoaround.com/captcha.php" width="158" height="60" alt="Visual CAPTCHA"><br>
+			 	</div>        
+				
+		           <label for="fm-confirmpassword">Verification*:</label>
+		           <input type="text" class="field" name="capcha"> 
+		        		        
+		        		        <div class="signupstatement-header">
+		          <ul>
+		            <li>I certify I am over 14 years old</li>
+		            <li>I agree to the <a href="http://www.videoaround.com/terms" target="_blank">Terms of Use</a> and <a href="http://www.videoaround.com/privacy" target="_blank">Privacy Policy</a></li>
+		          </ul>
+		        </div>
+		        				  
+				  <input type="hidden" name="action_signup" value=" ">
+				  <button id="login_signup_btn" class="rounded"><span>Signup</span></button>
+		        
+		      </form>					
 
-<b>Privacy Policy</b>
+			</div>
+		</div>
+	</div> <!-- /login -->	
+
+    <!-- The tab on top -->	
+	<div class="tab">
+		<ul class="login">
+	    	<li class="left">&nbsp;</li>
+	    	<li>
+	        			    Hello Guest!
+			        	</li>	    	
+	    	
+			<li class="sep">|</li>
+			<li id="toggle">
+								<a id="open" class="open" href="#">Login | Sign Up</a>
+							
+			
+				<a id="close" style="display: none;" class="close" href="#">Close Panel</a>			
+			</li>
+			
+	    	<li class="right">&nbsp;</li>
+		</ul> 
+	</div> <!-- / top -->
+	
+</div> <!--panel -->
+
+<!--end login/signup form-->
+<div id="top-page-shadow"></div>
+<div class="clearfix" id="page-shadow">
+<div id="slidetopcnt">
+	<div id="pageContainer">
+       <div id="wraper">
+			<div id="content">
+        			<div id="signinLinks">
+        				
+						<div style="float:left;margin-top:5px;"> 
+                        	
+							<a href="http://www.videoaround.com/help">Help</a> 
+						</div>
+						<div style="float:left;margin-left:5px;">
+						                        	
+						    <ul id="lang">
+<li><a href="#" id="language_en_US_disabled"><img src="http://www.videoaround.com/images/flags/en.png" width="16" height="16"></a>
+<ul style="margin-top:-3px;margin-left:-60px;*margin-left:-85px;">
+<li><a href="#" id="language_en_US_active"><img src="http://www.videoaround.com/images/flags/en.png" width="16" height="16">English</a></li>
+<li><a href="#" id="language_es_ES_active"><img src="http://www.videoaround.com/images/flags/es.png" width="16" height="16">Español</a></li>
+<li><a href="#" id="language_fr_FR_active"><img src="http://www.videoaround.com/images/flags/fr.png" width="16" height="16">Français</a></li>
+<li><a href="#" id="language_de_DE_active"><img src="http://www.videoaround.com/images/flags/de.png" width="16" height="16">Deutsch</a></li>
+<li><a href="#" id="language_nl_NL_active"><img src="http://www.videoaround.com/images/flags/nl.png" width="16" height="16">Dutch</a></li>
+<li><a href="#" id="language_it_IT_active"><img src="http://www.videoaround.com/images/flags/it.png" width="16" height="16">Italiano</a></li>
+<li><a href="#" id="language_pt_PT_active"><img src="http://www.videoaround.com/images/flags/pt.png" width="16" height="16">Português</a></li>
+<li><a href="#" id="language_cn_CN_active"><img src="http://www.videoaround.com/images/flags/cn.png" width="16" height="16">汉语/漢語</a></li>
+<li><a href="#" id="language_jp_JP_active"><img src="http://www.videoaround.com/images/flags/jp.png" width="16" height="16">日本語</a></li>
+<li><a href="#" id="language_kr_KR_active"><img src="http://www.videoaround.com/images/flags/kr.png" width="16" height="16">한국어</a></li>
+<li><a href="#" id="language_sa_SA_active"><img src="http://www.videoaround.com/images/flags/sa.png" width="16" height="16">الْعَرَبيّة</a></li>
+<li><a href="#" id="language_ir_IR_active"><img src="http://www.videoaround.com/images/flags/ir.png" width="16" height="16">فارسی</a></li>
+<li><a href="#" id="language_ru_RU_active"><img src="http://www.videoaround.com/images/flags/ru.png" width="16" height="16">Pусский</a></li>
+<li><a href="#" id="language_il_IL_active"><img src="http://www.videoaround.com/images/flags/il.png" width="16" height="16">עִבְרִית</a></li>
+<li><a href="#" id="language_tr_TR_active"><img src="http://www.videoaround.com/images/flags/tr.png" width="16" height="16">Türkçe</a></li>
+<li><a href="#" id="language_se_SE_active"><img src="http://www.videoaround.com/images/flags/se.png" width="16" height="16">Svenska</a></li>
+<li><a href="#" id="language_ro_RO_active"><img src="http://www.videoaround.com/images/flags/ro.png" width="16" height="16">Română</a></li>
+<li><a href="#" id="language_no_NO_active"><img src="http://www.videoaround.com/images/flags/no.png" width="16" height="16">Norsk</a></li>
+<li><a href="#" id="language_pl_PL_active"><img src="http://www.videoaround.com/images/flags/pl.png" width="16" height="16">Polski</a></li>
+<li><a href="#" id="language_hr_HR_active"><img src="http://www.videoaround.com/images/flags/hr.png" width="16" height="16">Hrvatski</a></li>
+<li><a href="#" id="language_lv_LV_active"><img src="http://www.videoaround.com/images/flags/lv.png" width="16" height="16">Latviešu</a></li>
+<li><a href="#" id="language_al_AL_active"><img src="http://www.videoaround.com/images/flags/al.png" width="16" height="16">Shqip</a></li>
+<li><a href="#" id="language_si_SI_active"><img src="http://www.videoaround.com/images/flags/si.png" width="16" height="16">Slovenski</a></li>
+<li><a href="#" id="language_rs_RS_active"><img src="http://www.videoaround.com/images/flags/rs.png" width="16" height="16">Srpski</a></li>
+</ul>
+</li>
+</ul>
+							<form name="language_form" method="POST" action="" id="language_form">
+							    <input name="session_language" type="hidden" value="en_US">
+							</form>
+					  </div>
+						                    </div> 	
+                    <!-- Start Follow Facebook-->
+                    <div id="FollowFacebook"><a href="http://www.facebook.com/aviationvideos" class="Tips" title="Follow us on Facebook" target="_blank">Follow us on Facebook</a></div>
+                    <!-- End Follow Facebook-->	                    
+	        		 <div id="header">
+        				<div id="menu">
+            				<div id="logo_container">
+                					<a href="http://www.videoaround.com/" class="Tips" title="Aviation Videos Around"><img src="http://www.videoaround.com/images/logo-HD.png" align="Aviation Videos"></a>
+	                		</div>
+        					<div id="menu_container">
+        						<a href="http://www.videoaround.com/" id="currentTab">Home</a>
+        						<a href="http://www.videoaround.com/videos" id="watch">Videos</a>                                <a href="http://www.videoaround.com/categories" id="channels">Channels</a>    					        <a href="http://www.videoaround.com/usergroups" id="groups">Groups</a>    					        <a href="http://www.videoaround.com/community" id="community">Community </a>                            </div>
+        				</div>
+                        
+                        <div id="menu2_container">
+                     	<div id="upload_button_container">
+                                                            <a href="http://www.videoaround.com/upload"><img src="http://www.videoaround.com/images/upload_button.png" class="TipsRight" title="Click here to Upload your Video or Grab it from YouTube"></a>                                                    </div>
+                        <div id="menu2">
+                                                                                                                    <div style="margin-top:5px;"></div>
+<a href="http://www.videoaround.com/videos/basic/mr">Most Recent</a> |
+<a href="http://www.videoaround.com/videos/basic/mv">Most Viewed</a> |
+<a href="http://www.videoaround.com/videos/basic/md">Most Discussed</a> |
+<a href="http://www.videoaround.com/videos/basic/tf">Top Favorites</a> |
+<a href="http://www.videoaround.com/videos/basic/tr">Top Rated</a> |
+<a href="http://www.videoaround.com/videos/basic/rf">Recently Featured</a> |
+<a href="http://www.videoaround.com/videos/basic/rd">Random</a>                                                                            </div>
+<!--aici se termina head1-->                  <div id="search_content">
+                     <form action="http://www.videoaround.com/search/" method="get" name="searchForm" id="searchForm">
+                        <input type="text" name="search_id" value="" class="searchBoxTop">
+                        <span class="footer_small_text">in</span>
+                        <select class="searchSelect" name="search_type" tabindex="2">
+                                                          <option value="search_videos">Videos</option>
+                                                                                          <option value="search_users">Users</option>
+                                                                                          <option value="search_groups">Groups</option>
+                                                    </select>
+                        <input type="image" src="http://www.videoaround.com/images/search_button.png" tabindex="3" style="vertical-align:top;" title="Begin Searching" class="Tips">
+                      </form>
+                  </div>
+
+                </div><!-- menu2_container-->
+		</div><!-- header--><div class="clear"></div>
+<div id="page_content">
+      	<div id="page_content_box">
+      	<div class="videos_container">
+      	<div class="top_bar"></div>
+      	<div class="top_arrow"></div>
+      	<div id="navvideo">
+      	<h1>Privacy Policy</h1></div>
+        <div class="clear"></div>
+        <div class="clear"></div>
+       	<div id="viditem">
+      	<fieldset class="content_general">
 Videoaround recognizes that its customers, visitors, users, and others who use the site value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on thewebsite.<br>
 <br>
 Please note that any video, image, or other content posted at the direction of Users onto the VideoaAround Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.<br>
 <br>
-<b>Which informatios VideoaAround Collects</b><br>
+<strong>Which informatios VideoaAround Collects</strong><br>
 <ul>
 <li>
 User Provided Information: You provide certain personally identifiable information (such as your name and email address) to VideoAround when choosing to participate in various activities on the website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
@@ -118,8 +300,14 @@ Cookies Information: When you visit the VideoAround, we may send one or more coo
 Log File Information: When you use the website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 </li>
 </ul>
+<strong>Google and the <a href="http://www.doubleclick.com/privacy/faq.aspx" target="_blank">DoubleClick DART cookie</a></strong><br>
+<ul>
+<li>Google, as a third party vendor, uses cookies to serve ads on VideoAround.</li>
+<li>Google's use of the DART cookie enables it to serve ads to VideoAround users based on their visit to VideoAround and other sites on the Internet.</li>
+<li>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>. </li>
+</ul>
 
-<b>How we use uses Information</b>
+<strong>How we use uses Information</strong>
 
 <ul>
 <li>
@@ -133,30 +321,241 @@ We do not use your email address or other personally identifiable information to
 </li>
 </ul>
 
-<b>Our Commitment To Childrens' Privacy</b><br>
+<strong>Our Commitment To Childrens' Privacy</strong><br>
 <br>
 Protecting the privacy of young children is especially important. For that reason, does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the VideoAround Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the VideoAround Sites at any time or in any manner. If VideoAround learns that personally identifiable information of persons under 13 years of age has been collected on the VideoAround Sites without verified parental consent, then VideoAround will take the appropriate steps to delete this information.	
-		</div><!-- end left side //-->
-	
-	<div id="ads"><!-- ads //-->
-		
-	</div><!-- end ads //--></td></tr></tbody></table><br><br>
+        </fieldset>   	
+        </div>
+        </div>    
+</div>      	
+    <div id="smaller_left_container_main"><!-- Right Column -->     
+    <div class="smaller_left_container">
+	<div class="top_bar"></div>
+    <div class="top_arrow"></div>
+    <div class="tags_title">Channels</div>
+    <div class="clear"></div>
+    	    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/1/Civilian-Aircrafts">
+        <img src="http://www.videoaround.com/chimg/1.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/1/Civilian-Aircrafts">Civilian Aircrafts</a>
+        <br>
+        Videos of Civilian Aircraft from all...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/2/Military-Aircrafts">
+        <img src="http://www.videoaround.com/chimg/2.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/2/Military-Aircrafts">Military Aircrafts</a>
+        <br>
+        Video selecion of fixed-wing or...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/3/Helicopters">
+        <img src="http://www.videoaround.com/chimg/3.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/3/Helicopters">Helicopters</a>
+        <br>
+        A helicopter is an aircraft that is...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/4/Airliner">
+        <img src="http://www.videoaround.com/chimg/4.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/4/Airliner">Airliner</a>
+        <br>
+        An airliner is a large fixed-wing...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/5/Crash-and-Airplane-disasters">
+        <img src="http://www.videoaround.com/chimg/5.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/5/Crash-and-Airplane-disasters">Crash and...</a>
+        <br>
+        The most impressive crash and...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/6/Ultralight-Aircrafts">
+        <img src="http://www.videoaround.com/chimg/6.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/6/Ultralight-Aircrafts">Ultralight Aircrafts</a>
+        <br>
+        Ultralight Aircraft are defined as...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/7/Radio-Controlled-Planes">
+        <img src="http://www.videoaround.com/chimg/7.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/7/Radio-Controlled-Planes">Radio Controlled...</a>
+        <br>
+        Radio Controlled aircrafts (often...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/8/Radio-Controlled-Helicopters">
+        <img src="http://www.videoaround.com/chimg/8.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/8/Radio-Controlled-Helicopters">Radio Controlled...</a>
+        <br>
+        Radio-controlled helicopters,...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/9/Experimental-Aircrafts">
+        <img src="http://www.videoaround.com/chimg/9.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/9/Experimental-Aircrafts">Experimental...</a>
+        <br>
+        In generic use, an experimental...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/10/General-Planes">
+        <img src="http://www.videoaround.com/chimg/10.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/10/General-Planes">General Planes</a>
+        <br>
+        Various aircraft video's.</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/11/Airports">
+        <img src="http://www.videoaround.com/chimg/11.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/11/Airports">Airports</a>
+        <br>
+        An airport consists of at least one...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/12/Cockpits">
+        <img src="http://www.videoaround.com/chimg/12.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/12/Cockpits">Cockpits</a>
+        <br>
+        The cockpit of an aircraft contains...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/14/Flight-Simulator">
+        <img src="http://www.videoaround.com/chimg/14.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/14/Flight-Simulator">Flight Simulator</a>
+        <br>
+        A flight simulator is a system that...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/15/Aerobatic-aircrafts">
+        <img src="http://www.videoaround.com/chimg/15.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/15/Aerobatic-aircrafts">Aerobatic aircrafts</a>
+        <br>
+        Many aerobatic maneuvers involve...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/16/Aerospace">
+        <img src="http://www.videoaround.com/chimg/16.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/16/Aerospace">Aerospace</a>
+        <br>
+        Aerospace engineering is the branch...</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/17/Take-off-and-Landing">
+        <img src="http://www.videoaround.com/chimg/17.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/17/Take-off-and-Landing">Take off and Landing</a>
+        <br>
+        Take off and Landing.</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/19/Flight-Lessons">
+        <img src="http://www.videoaround.com/chimg/19.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/19/Flight-Lessons">Flight Lessons</a>
+        <br>
+        Flight Lessons.</div>        
+        </div>
+  		    	
+        <div id="channels_right_details">
+        <div class="pic"><a href="http://www.videoaround.com/categories/20/Others">
+        <img src="http://www.videoaround.com/chimg/20.jpg" width="80" height="60"></a></div>
+        <div class="det"><a href="http://www.videoaround.com/categories/20/Others">Others</a>
+        <br>
+        All other related videos</div>        
+        </div>
+  		        </div>
+    </div>
+    <!-- Advertisement --> 
+    <div id="adv_skyscraper"><img src="http://www.videoaround.com/images/120x600adv.jpg"></div>
+    <!-- End Advertisement --> 
+	</div>   
+    </div> <!-- End Right Column -->        <div id="footer">
+            <div class="footer_item">
+                <span class="footer_bold_text">Help</span><br>
+                <span class="footer_small_text"><a href="http://www.videoaround.com/help">FAQ</a></span>
+            </div>
+            <div class="footer_item">
+                <span class="footer_bold_text">Information</span><br>
+                <span class="footer_small_text">
+                        <a href="http://www.videoaround.com/about">About Us</a><br>
+                        <a href="http://www.videoaround.com/contact">Write to us</a><br>
+                        <a href="http://www.videoaround.com/advertise">Advertise</a><br>
+                </span>
+            </div>
+             <div class="footer_item" style="width:145px;">
+                <span class="footer_bold_text">Legal</span><br>
+                <span class="footer_small_text">
+                    <a href="http://www.videoaround.com/terms">Terms of Use</a><br>
+                   <a href="http://www.videoaround.com/privacy">Privacy Policy</a><br>
+                </span>
+            </div>
+            <div class="footer_item" style="width:145px;">
+                <span class="footer_bold_text">
+                    <a href="http://www.videoaround.com/categories">Channels</a> <br>
+                    <a href="http://www.videoaround.com/usergroups">Groups</a> <br>
+                    <a href="http://www.videoaround.com/userfriends">Friends</a><br>
+                    <a href="http://www.videoaround.com/community">Community </a><br>
+                    <a href="http://www.videoaround.com/rss"><img src="http://www.videoaround.com/images/rss_icon.png"> RSS</a> <br>
+                </span>
+            </div>
+            <div class="footer_item" style="width:190px;">
+                <span class="footer_bold_text">Some Stats</span><br>
+                <span class="footer_small_text">
+                    Public Videos: <b>323</b> <br>
+                    Private Videos: <b>1</b> <br>
+                    Members: <b>749</b> <br>
+                    Watched Videos: <b>542.795</b> <br>
+                    Online Visitors: <b>0</b> <br>
+                </span>
+            </div>
+            <div class="footer_item" style="width:200px;">
+                <img src="http://www.videoaround.com/images/logo_small.png"><br>
+                <span class="footer_small_text">© 2010 Video Around.</span> <br>
+                <form action="http://www.videoaround.com/search/" method="get" name="searchForm">
+                  <input type="text" class="searchBox" style="width:160px;" tabindex="1" name="search_id" value=""><br>
+                  <div style=" width:161px; float:right;">
+                      <span class="footer_bold_text">in</span>
+                      <select class="searchSelect" name="search_type" tabindex="2">
+                                                         <option value="search_videos">Videos</option>
+                                                                                          <option value="search_users">Users</option>
+                                                                                          <option value="search_groups">Groups</option>
+                                                    </select>
+                      <input type="image" src="http://www.videoaround.com/images/search_button.png" style="vertical-align:bottom; margin-left: 5px;" tabindex="3">
+                  </div>
+                </form>
+            </div>
+               <div id="bottom-page-shadow"></div>
+        	</div>
+    </div>
+    	</div> <!-- End wraper-->
+        	</div> <!-- Page Container -->
+            	</div> <!-- End Page Shadow-->
 
-	<div class="main_title"><!--footer //-->
 
-		<div id="footer_links"><!-- footer links //-->
-			<a href="http://www.videoaround.com/about">About Us</a>  |
-                    <a href="http://www.videoaround.com/help">Help</a> |
-                    <a href="http://www.videoaround.com/advertise">Advertise</a> |
-                    <a href="http://www.videoaround.com/terms">Terms of Use</a> |
-                    <a href="http://www.videoaround.com/privacy">Privacy Policy</a> |
-                    138 Online Visitors <a href="http://www.videoaround.com/rss"><img src="http://www.videoaround.com/images/rss.gif" align="absmiddle" border="0"></a>
-		</div><!-- end footer inks //-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-846872-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-<div class="copyright">Copyright (c) 2008-2009 Video Around. All rights reserved.</div>
-
-	</div><!-- end footer //-->
-
-	</div><!-- end main container //-->
 
 </body></html>
