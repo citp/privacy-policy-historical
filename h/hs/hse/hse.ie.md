@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622010358id_/http%3A//www.hse.ie/eng/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219052558id_/http%3A//hse.ie/eng/Privacy_Statement) for the most accurate reproduction.*
 
 # HSE.ie - Health Service Executive Website - Privacy Statement
 
