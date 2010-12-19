@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the socialgo.com privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309124934id_/http%3A//www.socialgo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialgo.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219085213id_/http%3A//www.socialgo.com/legal/privacy) for the most accurate reproduction.*
 
-# None
-
-[ ](https://web.archive.org/ "SocialGO Home") [](http://www.socialgo.com/blog/data-ownership-guarantee)
+# 
 
 ## SocialGO Privacy Policy
 
