@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogatize.net privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629134329id_/http%3A//blogatize.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogatize.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220005853id_/http%3A//blogatize.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogatize Network
 
