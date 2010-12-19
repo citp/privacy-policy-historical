@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618150101id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesray.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220004506id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # James Arthur Ray | Help zone | Create wealth in all areas of your life: Financial, Relational, Mental, Physical and Spiritual.
 
