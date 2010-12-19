@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the offwalk.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211093519id_/http%3A//www.offwalk.com/privacy-policy-t698/index.html%3Fs%3D876b51403ad8ec56aec500e7b41c03bf%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offwalk.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219062734id_/http%3A//offwalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Off topic General Discussion Forum | General Chat forum and discussion forums
+# OffWork - NetWork - Privacy Policy
 
 What information do we collect?
 
-We collect information from you when you Register on our forums and that is just for authentification purpose. 
+We collect information from you when you Register on our forums and that is just for authentification purpose. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways: 
 
 To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -28,7 +28,7 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
 Do we use cookies?
 
@@ -56,11 +56,11 @@ By using our site, you consent to our privacy policy.
 
 Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page. 
 
 Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 Offwalk.com  
 Privacy Policy Created by Free Privacy Policy 
