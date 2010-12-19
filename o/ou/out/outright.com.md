@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110122259id_/http%3A//outright.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outright.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219114537id_/http%3A//www.outright.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy_policy
 
 Outright is committed to maintaining the confidentiality and security of personal information collected from our users. Below is our privacy policy, which outlines what information we collect, how it is used, how it is stored and protected, and how you can control use of your data.
 
@@ -48,16 +48,3 @@ You may make changes to your personal data at any time. You may also choose to c
 ## Changes to this policy
 
 We reserve the right to modify this policy at any time. You agree to accept electronic communications and/or postings of an annual or revised Privacy Policy on the Outright web site, and that such electronic communications or postings constitute notice to you of the Privacy Policy.
-
-### What people are saying
-
-"There is some invaluable stuff on there. Not only do they help you keep basic records of income and expense, but they have pages upon pages of advice on how to spend smart, what you can expense, ideas on [how to be more green and save](http://blog.outright.com/home-business/5-ways-to-green-your-office-for-a-black-bottom-line/)...and the list goes on and on. I am sure the more I use it, the more I will find."
-
-Will Lindow; Will Makes Music
-
-"I love Bootstrap [ _sic_ Outright]. As a freelancer, this was the missing link in my bookkeeping without surrendering to the bloated overkill of QuickBooks. Freshbooks already does my invoicing, I just needed the profits/losses and expense-tracking features... and here it is."
-
-Eric Fields; Ericdfields.com
-
-© 2010 Outright. All Rights Reserved  
-A product of Bootstrap, Inc 
