@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510175808id_/http%3A//learnthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219195912id_/http%3A//learnthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Learnthat.com
-
-## Privacy Policy
 
 That Network has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learnthat.com. 
 
