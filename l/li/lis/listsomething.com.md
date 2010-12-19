@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620171042id_/http%3A//listsomething.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219143658id_/http%3A//listsomething.com/site/privacy) for the most accurate reproduction.*
 
 # ListSomething.com
 
