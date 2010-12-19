@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209221147id_/http%3A//giblink.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220004250id_/http%3A//giblink.com/component/content/article/650.html) for the most accurate reproduction.*
 
-# gibLink.com - Privacy Policies
+# Privacy Policy
 
 Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
 
