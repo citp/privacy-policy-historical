@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lucasarts.com privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616044333id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lucasarts.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219060324id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="shortcut icon" href="/favicon.ico">
@@ -24,25 +24,49 @@
 <div class="mainContainer">
 <!-- BEGIN TOP NAV -->
 <div class="topNavContainer" id="topNavDiv"><div id="noFlash">&nbsp;</div></div>
-<script type="text/javascript">
-	// <![CDATA[
-		var fo = new SWFObject("/meta/swf/main_nav.swf", "topNav", "990", "400", "8", "#FFFFFF");
-		fo.addParam("allowScriptAccess", "samedomain");
-		fo.addParam("quality", "high");
-		fo.addParam("menu",false);
-		fo.addParam("wmode", "transparent");
-		fo.addParam("quality","autohigh");
-		fo.addVariable("userName",userName);
-		fo.addVariable("urlPrefix",urlPrefix);
-		fo.write("topNavDiv");
-		redirectTimer = window.setTimeout("noFlash()",3000);
-	// ]]>
-</script>
+<img id="topNavImageMap" src="/img/global/topnav_alt.png" border="0" style="height:30px; width:764px; position:absolute; top:54px; left:105px; z-index:400; display:none" usemap="#topnavMap">
+<map name="topnavMap" id="topnavMap">
+  <area shape="rect" coords="9,0,59,30" href="/welcome/index.html">
+  <area shape="rect" coords="87,0,127,30" href="/games/platform.html">
+  <area shape="rect" coords="151,0,211,30" href="/whatsnew/index.html">
+  <area shape="rect" coords="237,0,297,30" href="/community/index.html">
+  <area shape="rect" coords="483,0,519,30" href="http://shop.starwars.com/catalog/category.xml?category_name=2;toptab=1&amp;rid=LACMWN00001" target="_blank">
+  <area shape="rect" coords="541,0,586,30" href="/support/index.html">
+  <area shape="rect" coords="608,0,665,30" href="/company/index.html">
+  <area shape="rect" coords="690,0,764,30" href="/international/index.html?con=5">
+</map>
 <div class="mainLogo"><img src="/img/global/main_logo.png" width="990" height="146" onload="fixPNG(this);"></div>
 <div class="topNavLogoLink"><img src="/img/global/spacer.gif" height="94" width="148" usemap="#logomap" border="0"></div>
 <map name="logomap" id="logomap">
 	<area shape="poly" coords="1,63,39,63,39,2,102,2,102,63,141,63,141,91,1,91" href="/index.htmls">
 </map>
+<script type="text/javascript">
+// <![CDATA[
+
+function writeTopNavStd() {
+	var fo = new SWFObject("/meta/swf/main_nav.swf", "topNav", "990", "400", "8", "#FFFFFF");
+	fo.addParam("allowScriptAccess", "samedomain");
+	fo.addParam("quality", "high");
+	fo.addParam("menu",false);
+	fo.addParam("wmode", "transparent");
+	fo.addParam("quality","autohigh");
+	fo.addVariable("userName",userName);
+	fo.addVariable("urlPrefix",urlPrefix);
+	fo.write("topNavDiv");
+	redirectTimer = window.setTimeout("noFlash()",3000);
+}
+
+function writeTopNavIphone() {
+	document.getElementById("topNavImageMap").style.display = "block";
+}
+
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+		writeTopNavIphone();
+	} else {
+		writeTopNavStd();
+}
+// ]]>
+</script>
 <!-- END TOP NAV -->
 	<div class="breadCrumbs" id="breadCrumbsDivLeft">
 		<a href="/index.htmls" style="background-image:none; padding-left:0px;">Home</a>
@@ -202,7 +226,7 @@ Our Web site may also use web beacons in conjunction with cookies. web beacons a
 
 <p><strong>Online Advertisements and Related Technologies (Third-Party Advertising Networks and Partners).</strong></p>
  
-<p>In addition to using cookies and related technologies as described above, we also use certain third-party companies to help us tailor advertising that we think may be of interest to you based on your usage of our Web sites.  These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use information (not including your name, address, email address or telephone number) about your visit to our Web site and other Web sites in order to provide advertisements about goods and services on this Web site or on other Web sites which use the services of such third-party companies. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies. If you would like more information about this practice and to learn your choices about limiting third-party access to such information, including opting-out of online behavioral advertising, <a target="_blank" href="http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp">click here</a>.</p>
+<p>In addition to using cookies and related technologies as described above, we also use certain third-party companies to help us tailor advertising that we think may be of interest to you based on your usage of our Web sites.  These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use information (not including your name, address, email address or telephone number) about your visit to our Web site and other Web sites in order to provide advertisements about goods and services on this Web site or on other Web sites which use the services of such third-party companies. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies. If you would like more information about this practice and to learn your choices about limiting third-party access to such information, including opting-out of online behavioral advertising, <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
 
 <p>You can find and evaluate information about third-party companies used on this Web site in connection with such automated processes at the end of this Privacy Policy as "Appendix A," and we will keep this list updated or you can access this information by <a href="/legal/privacy/index_a.html">clicking here</a>.</p>
 
@@ -341,7 +365,7 @@ Effective Date: 12/01/09<p><br><img src="/img/clear.gif" height="20" width="1" b
 </script>
 
 <!-- BEGIN NIELSEN TRACKING CODE -->
-<!-- START RedMeasure V4 - Java v1.1  $Revision: #44 $ -->
+<!-- START RedMeasure V4 - Java v1.1  $Revision: #46 $ -->
 <!-- COPYRIGHT 2000 RedSheriff Limited -->
 
 <script language="JavaScript"><!--
