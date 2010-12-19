@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614010630id_/http%3A//www.adicio.com/%3Fq%3Dnode/66) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219055730id_/http%3A//www.adicio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adicio Inc.
 
-Last Updated on 2/12/10  
-[](http://www.truste.org/ivalidate.php?url=www.adicio.com&sealid=102)
+Last Updated on 2/12/10 [](http://www.truste.org/ivalidate.php?url=www.adicio.com&sealid=102)
 
 ## Overview
 
