@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resellercamp.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323063152id_/http%3A//www.resellercamp.com/Hosting_Privacy_Policy_32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellercamp.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219135034id_/http%3A//resellercamp.com/Domain_Privacy_Policy_32) for the most accurate reproduction.*
 
-# ResellerCamp : Cheap Domain Reseller & Icann Accredited Registrar
+# ResellerCamp Privacy Policy :: Cheap Domain Reseller
 
 **Privacy Policy**
 
