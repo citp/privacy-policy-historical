@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218091300id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219123922id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
 
-# DHgate - China Wholesale Marketplace - Abuot Us
+# DHgate - China Wholesale Marketplace - About Us
 
 **Safety and Privacy on DHgate    
 **
 
-**How can we protect your privacy  
+**How can we protect your privacy?  
 **The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we have described in our Privacy Policy.
 
 **Safe purchase at DHgate  
@@ -17,18 +17,21 @@
 **What personal information do we collect?  
 **As set forth in more detail below, DHgate ("DHgate" or "We") collects personal information that you provide when using the DHgate web site ("Site"). This information includes your first and last name, email address and a password when you create your DHgate account. You can browse this Site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and the other DHgate services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity.
 
-DHgate does not intentionally collect personal information about children under the age of 13. If you are under the age of 18 but at least 13 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by the DHgate Terms of Use. Children under the age of 13 may not use this Site and parents or legal guardians may not agree to the DHgate Terms of Use on their behalf. If you do not agree to (or cannot comply with) any of the DHgate Terms of Use, do not use this Site. 
+DHgate does not intentionally collect personal information about children under the age of 13. If you are under the age of 18 but at least 13 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by the DHgate Terms of Use. Children under the age of 13 may not use this Site and parents or legal guardians may not agree to the DHgate Terms of Use on their behalf. If you do not agree to (or cannot comply with) any of the DHgate Terms of Use, do not use this Site.   
+ 
 
- _Purchase Information_
+**1.** Purchase Information 
 
 When you make a purchase from DHgate, we collect your name and payment method information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s).  
-When you create an account at DHgate, you can choose to save your billing information in "My DHgate." You can also save one or more shipping addresses in your DHgate Address Book. You may change or delete this saved information anytime. Simply go to My DHgate. Log in with your ID and password, then edit or delete whatever personal information you wish. 
+When you create an account at DHgate, you can choose to save your billing information in "My DHgate." You can also save one or more shipping addresses in your DHgate Address Book. You may change or delete this saved information anytime. Simply go to My DHgate. Log in with your ID and password, then edit or delete whatever personal information you wish.   
+ 
 
-_Services Account Information_
+**2.** Services Account Information 
 
-We collect personal information from users who wish to use any of the DHgate services, including but not limited to, DHgate's Transaction Platform. In order to use these services you must provide your email address and password or create an account at DHgate. 
+We collect personal information from users who wish to use any of the DHgate services, including but not limited to, DHgate's Transaction Platform. In order to use these services you must provide your email address and password or create an account at DHgate.   
+ 
 
- _Cookies and Other Computer Information_
+**3.** Cookies and Other Computer Information 
 
 When you visit DHgate, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit this Site so we can enhance and customize your online purchase experience.
 
@@ -61,7 +64,6 @@ Information we collect on DHgate may be used to enhance your shopping experience
   * Communicate great values and featured items to you
   * Find and stock the products you want
   * Customize your purchase experience
-  *  
 
 
 
