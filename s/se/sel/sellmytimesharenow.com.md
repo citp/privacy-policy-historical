@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430003911id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219155947id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy
 
