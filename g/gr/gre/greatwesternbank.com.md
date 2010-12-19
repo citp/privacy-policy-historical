@@ -1,51 +1,86 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630093108id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219191319id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy Explains How Great Western Bank is Dedicated to Protecting Your Privacy
 
-## Privacy Policy
+FACTS
 
-Protecting your privacy is important to Great Western Bank. We want you to understand what information we collect and how we use it. In order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible, we use technology and internal controls to manage and maintain customer information. The following policy serves as a standard for all Great Western Bank employees for collection, use, retention and security of nonpublic personal information.
+| 
 
-### Information We Collect
+WHAT DOES GREAT WESTERN BANK   
+DO WITH YOUR PERSONAL INFORMATION?  
+  
+---|---  
+  
+Why?
 
-We may collect “nonpublic personal information” about you from the following sources:
+| Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+---|---  
+  
+What?
 
-  * Information we receive from you on applications or other loan and account forms
-  * Information about your transactions with us, our affiliates or others
-  * Information we receive from third parties such as consumer reporting agencies
-  * When you send us an e-mail, we will retain your e-mail address, the content of the e-mail, and our response to better serve you and assist us with any follow-up questions 
+| The types of personal information we collect and share depend on the product or service you have with us. This information can include:  
+•   Social Security Number and Income  
+•   Account Balances and Payment History  
+•   Credit History and Credit Scores  
+---|---  
+  
+How?
 
+| All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Great Western Bank chooses to share; and whether you can limit this sharing.  
+---|---  
+**Reasons we can share your personal information** | **Does Great Western Bank share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes—**  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+**For our marketing purposes—**  
+to offer our products and services to you | No | We don't share  
+**For joint marketing with other financial companies** | No | We don't share  
+**For our affiliates’ everyday business purposes—**  
+information about your transactions and experiences | No | We don't share  
+**For our affiliates’ everyday business purposes—**  
+information about your creditworthiness | No | We don't share  
+**For nonaffiliates to market to you** | No | We don't share  
+  
+To limit our sharing
 
+| •   Call 1.800.952.2043 - our menu will prompt you through your choices, or  
+•   Complete the form below  
+**Please note:**  
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+However, you can contact us at any time to limit our sharing.  
+---|---  
+  
+Who we are  
+  
+---  
+**Who is providing this notice?** | Great Western Bank  
+  
+What we do  
+  
+---  
+**How does Great Western Bank protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does Great Western Bank collect my personal information?** | We collect your personal information, for example, when you:  
+•   Open an Account or Deposit Money  
+•   Pay Bills or Apply for a Loan  
+•   Use your Credit or Debit Card  
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+**Why can’t I limit all sharing?** | Federal law gives you the right to limit only:  
+•   Sharing your affiliates’ everyday business purposes— information about your creditworthiness  
+•   Affiliates from using your information to market to you  
+•   Sharing for nonaffiliates to market to you  
+State laws and individual companies may give you additional rights to limit sharing.  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on the account.  
+  
+Definitions  
+  
+---  
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
+•   Great Western Bank does not share with our affiliates.  
+**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
+•   Great Western Bank does not share with nonaffiliates so they can market to you.  
+**Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
+•   Great Western Bank doesn’t jointly market.  
+  
+* * *
 
-“Nonpublic personal information” is nonpublic information about you that we obtain in connection with providing a financial product or service to you. For example, nonpublic personal information includes your account balance, payment history, overdraft history, etc.
-
-### Information We Disclose
-
-We do not disclose any information you might consider to be private to nonaffiliated third parties, except as permitted by law, such as reports to credit bureaus or responses to subpoenas.
-
-We are permitted under law to share information about our experiences or transaction experience with you or your account to our affiliates. We also may share the following nonpublic personal information with our affiliated companies:
-
-  * Information we receive from you on applications or other forms, such as your name, address, assets and income
-  * Information we receive from a consumer reporting agency, such as credit worthiness and credit history
-
-
-
-_An affiliate is a company we own or control, or a company that owns or controls us. Our affiliate companies comprise the bank’s family of companies._
-
-### Benefits of Sharing Information
-
-The benefit of sharing information is to inform you of products or services available within our family of companies that may be beneficial to you in achieving financial goals.
-
-If you prefer that we not share your information with our affiliated companies, you may direct us not to share information except as permitted by law. To “opt out” of information sharing with our affiliates, call us at 1-888-620-2265 to request an opt out form.
-
-Note: Exercising your right to opt out may result in you not being informed about special products and savings available within our family of companies.
-
-If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice.
-
-### Safeguarding Customer Information
-
-We also take steps to safeguard customer information. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
-
-### E-mail
-
-All electronic transmissions on the World Wide Web cannot be guaranteed secure. If the information that you are sending via e-mail is of a confidential nature, please consider using the telephone, fax or mail.
+[Click here](https://web.archive.org/web/20101230183149/http://www.greatwesternbank.com/_files/files/GreatWesternBankPrivacyPolicy.pdf) to open a pdf version of Great Western Bank's Privacy Policy.
