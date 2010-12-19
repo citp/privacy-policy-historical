@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the lexialearning.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128203618id_/http%3A//lexialearning.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexialearning.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219013742id_/http%3A//www.lexialearning.com/privacy.html) for the most accurate reproduction.*
 
 # Lexia Learning > Privacy Policy
+
+  * [Home](https://web.archive.org/index.html)
+  * [Products](https://web.archive.org/products/index.html)
+  * [Research](https://web.archive.org/research/index.html)
+  * [Support](https://web.archive.org/support/index.html)
+  * [About](https://web.archive.org/about/index.html)
+
+
 
 ### Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below:
 
@@ -24,4 +32,42 @@ We release account and other personal information when we believe release is app
 
 Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-Last changed: March 10, 2009
+#### Types of information collected on lexialearning.com:
+
+Visitors to this website who have javascript enabled are tracked using **Google Analytics**. This data is used to determine follow how many visitors come to the website, where visitors come from, and what pages they view while on the site. **The following types of information are collected** :
+
+  * Type of web browser used, software manufacture and version number.
+  * Type of operating system
+  * Screen colors (color processing ability of the users screen)
+  * Javascript support
+  * Flash version
+  * Screen resolution
+  * Network location and IP address
+    * Can include country, city, state, region, county, or any other geographic data.
+    * Hostname
+    * Bandwidth (internet connection speed)
+  * Time of visit
+  * Pages visited
+  * Time spent on each page of the website
+  * Referring site statistics
+    * The website (URI) the user came through in order to arrive at this website (example: clicking on a hyperlink from Yahoo.com that took the user to this website)
+    * Search engine query used (example: typing in a phrase into a search engine like Google, and clicking on a link from that search engine)
+
+
+
+#### This data DOES NOT include any personalized identification information such as:
+
+  
+
+
+  * Names
+  * Phone Numbers
+  * Email Addresses
+  * Mailing Addresses
+  * Social Security Numbers
+  * Bank Account Numbers
+  * Credit Card Information
+
+
+
+**Last changed** : May 19, 2010
