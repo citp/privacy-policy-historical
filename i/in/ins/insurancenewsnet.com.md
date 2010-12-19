@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022107id_/http%3A//www.insurancenewsnet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219011432id_/http%3A//insurancenewsnet.com/privacy.aspx) for the most accurate reproduction.*
 
 # INN : Disclaimer and Privacy Information
 
@@ -36,7 +36,7 @@ We use this information for compiling research and creating research reports. We
 Refer an Associate
 
   
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. InsuranceNewsNet.com, Inc. does not store this information, it is for the sole purpose of sending this one-time email [and tracking the success of our referral program]. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. InsuranceNewsNet.com, Inc. does not store this information; it is for the sole purpose of sending this one-time email [and tracking the success of our referral program]. 
 
 Your referral’s contact information will not be captured or written to any database. 
 
@@ -87,7 +87,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 **Telephone:** 717-441-9357
 
-**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20100628022107id_/http%3A//www.insurancenewsnet.com/info@insurancenewsnet.com) or 
+**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20101219011432id_/http%3A//insurancenewsnet.com/info@insurancenewsnet.com) or 
 
 **Postal mail:** InsuranceNewsNet.com,   
 355 North 21st Street, Suite 211   
@@ -130,7 +130,7 @@ Access to Personally Identifiable Information
   
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page:
 
-[https://www.insurancenewsnet.com/subscription_update.aspx](https://web.archive.org/web/20100628022107id_/http%3A//www.insurancenewsnet.com/subscription_update.aspx)   
+[https://www.insurancenewsnet.com/subscription_update.aspx](https://web.archive.org/web/20101219011432id_/http%3A//insurancenewsnet.com/subscription_update.aspx)   
 or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: 
 
 InsuranceNewsNet.com,   
