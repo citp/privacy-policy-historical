@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listspeedster.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617062510id_/http%3A//listspeedster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listspeedster.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219222823id_/http%3A//listspeedster.com/privacy.php) for the most accurate reproduction.*
 
-# List Speedster!
+# List Speedster! List Builder and Mailer :: Email Advertising
 
 ListSpeedster Privacy Policy
 
@@ -32,6 +32,7 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) 2009 ListSpeedster All Rights Reserved 
+  
+Copyright (c) 2009-2010 ListSpeedster All Rights Reserved 
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)| 
