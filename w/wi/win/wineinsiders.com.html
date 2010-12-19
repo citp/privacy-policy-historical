@@ -1,45 +1,88 @@
-<!--The following is the downloaded HTML source of the wineinsiders.com privacy policy that was archived on 2010-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100324210102id_/http%3A//www.wineinsiders.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wineinsiders.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219071539id_/http%3A//www.wineinsiders.com/privacy.htm%3Femap%3D0) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Privacy Policy - A Taste of California Wine Clubs</title>
-
-
-
-	<link rel="shortcut icon" href="/css/favicon.ico" type="image/x-icon">
-	<link rel="STYLESHEET" href="/css/styles.css" type="text/css">	
-	<link rel="STYLESHEET" href="/css/aToc.css" type="text/css">
-	<link rel="STYLESHEET" href="/css/menu.css" type="text/css">
-	<link rel="STYLESHEET" href="/css/newstyles.css" type="text/css">
-
-<meta name="Content-Type" content="text/html;CHARSET=iso-8859-1">
-<meta name="resource-type" content="document">
-<meta http-equiv="author" content="Wine Insiders">
-<meta http-equiv="distribution" content="Global">
-<meta name="language" content="en-us">
-<meta name="classification" content="Wine Club, Wine Retailer">
-
-
-<meta name="keywords" content="wine clubs, california wine club, international wine club, wine recipes, food, wine cheese, sonoma wines, wine, napa valley california, wineries, winemaking, white wine, red wine, wine tips, cheese tips, wine cheese, wine food tips, wine of the month, connoiseur's selection, california wine finders, california phoenix wine tasters, wine gift baskets">
-
-<meta name="Description" content="Wine Insiders - Insider connections, access and knowledge - Our relationships with the world's top winemakers give us first pick of the best wines. Our expert wine panel evaluates thousands of bottles a year.  We ship direct to your door.">
-
-	<script language="JavaScript" type="text/javascript">
-	<!--   hide this script from non-javascript-enabled browsers
-	// function that displays status bar message
-		var showMsg = navigator.userAgent != "Mozilla/4.0 (compatible; MSIE 4.0; Mac_PowerPC)";
-		function dmim(msgStr){
-			document.returnValue = false;
-				if (showMsg) {
-					window.status = msgStr;
-					document.returnValue = true;
-				}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+		<title>
+			Privacy Policy - Wine Insiders Wine Clubs
+		</title>
+		<script type="text/javascript">
+		function ValidateCatalog()
+		{
+		    var err = true;
+		    var email=new RegExp(); 
+            email =/\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/;
+            if(document.getElementsByName("FormName")[0].value.toLowerCase() == "catalog")
+            {
+		        if(document.getElementsByName("colFirst_Name")[0].value.replace(/^\s+/, '').replace(/\s+$/, '') == "")
+		        {
+		            document.getElementById("errFirstName").style.display = "list-item";
+		            err = false;
+		        }
+		        else
+		        {document.getElementById("errFirstName").style.display = "none";}
+    		    
+		        if(document.getElementsByName("colLast_Name")[0].value.replace(/^\s+/, '').replace(/\s+$/, '') == "")
+		        {
+		            document.getElementById("errLastName").style.display = "list-item";
+		            err = false;
+		        }
+		        else
+		        {document.getElementById("errLastName").style.display = "none";}
+    		    
+		        if(document.getElementsByName("coladdress1")[0].value.replace(/^\s+/, '').replace(/\s+$/, '') == "")
+		        {
+		            document.getElementById("errAddress").style.display = "list-item";
+		            err = false;
+		        }
+		        else
+		        {document.getElementById("errAddress").style.display = "none";}
+    		    
+		        if(document.getElementsByName("colemail")[0].value.replace(/^\s+/, '').replace(/\s+$/, '') == "")
+		        {
+		            document.getElementById("errEmail").style.display = "list-item";
+		            err = false;
+		        }
+    		    else if(!email.test(document.getElementsByName("colemail")[0].value))
+		        {
+		            document.getElementById("errEmail").style.display = "none";
+		            document.getElementById("errValidEmail").style.display = "list-item";
+		            err = false;
+		        }
+		        
+		        var oDDL = document.all("colstate");
+    		    document.getElementById("hdnSelStateText").value = oDDL.options[oDDL.selectedIndex].text;
+		        document.getElementById("hdnIsCatalogValidated").value = err;
+		    }
+		    return err;
 		}
-		// stop hiding -->
-	</script>
+		
+		</script>
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
 
+		<link href="http://www.wineinsiders.com/Themes/wineinsiders/print.css" type="text/css" media="print" rel="stylesheet"><link href="http://www.wineinsiders.com/Themes/wineinsiders/styles.css" type="text/css" media="screen" rel="stylesheet">
+		<meta name="Description" content="Expertly chosen wines delivered to your door every month. Join a wine club yourself or send a club as the perfect gift. You’re guaranteed to love these wines, or your money back.">
+		<meta name="Keywords" content="wine gifts, wine club, wine clubs, online wine club">
+	</head>
+	<body>
+		<form name="Form1" method="post" action="custom.aspx?dir=&amp;page=privacy&amp;emap=0" id="Form1" onsubmit="return ValidateCatalog();">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwNzc5OTc1NDEPZBYIZg8WAh4NU3R5bGVTaGVldFVSTAUeVGhlbWVzL3dpbmVpbnNpZGVycy9zdHlsZXMuY3NzZAIBDxYCHgdDb250ZW50BbQBRXhwZXJ0bHkgY2hvc2VuIHdpbmVzIGRlbGl2ZXJlZCB0byB5b3VyIGRvb3IgZXZlcnkgbW9udGguIEpvaW4gYSB3aW5lIGNsdWIgeW91cnNlbGYgb3Igc2VuZCBhIGNsdWIgYXMgdGhlIHBlcmZlY3QgZ2lmdC4gWW914oCZcmUgZ3VhcmFudGVlZCB0byBsb3ZlIHRoZXNlIHdpbmVzLCBvciB5b3VyIG1vbmV5IGJhY2suZAICDxYCHwEFM3dpbmUgZ2lmdHMsIHdpbmUgY2x1Yiwgd2luZSBjbHVicywgb25saW5lIHdpbmUgY2x1YmQCAw9kFgwCAQ9kFgJmD2QWAgIBD2QWAgIBDw8WAh4HVmlzaWJsZWhkZAIDD2QWEAIBDxYCHgRocmVmBRxodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vFgICAQ8WAh4Dc3JjBStodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vaW1hZ2VzL2xvZ28uZ2lmZAIDD2QWAmYPZBYEAgEPDxYCHgRUZXh0BQowIFByb2R1Y3RzZGQCAw8PFgIfBQUFJDAuMDBkZAIFD2QWAmYPDxYEHgtOYXZpZ2F0ZVVybAUMfi9Mb2dpbi5hc3B4HwUFB1NpZ24gSW5kZAIHDw8WBB8GBTFodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vbXlhY2NvdW50X09yZGVycy5hc3B4HwUFDFlvdXIgQWNjb3VudGRkAgkPDxYEHwYFKGh0dHA6Ly93d3cud2luZWluc2lkZXJzLmNvbS9jb250YWN0LmFzcHgfBQUQQ3VzdG9tZXIgU2VydmljZWRkAgsPDxYEHwYFJ2h0dHA6Ly93d3cud2luZWluc2lkZXJzLmNvbS9zZWFyY2guYXNweB8FBQZTZWFyY2hkZAINDw8WBB8GBSVodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vY2FydC5hc3B4HwUFDVNob3BwaW5nIENhcnRkZAIPD2QWAgIBDxYCHwUFiBg8RElWIHN0eWxlPSJESVNQTEFZOiBub25lIiBpZD1tZW51MT48QSAgIGhyZWY9IlJlZF9XaW5lXzAwMDAwMDAxQy5odG1sIj5SZWQgV2luZTwvQT4gPEEgICBocmVmPSJXaGl0ZV9XaW5lXzAwMDAwMDAyQy5odG1sIj5XaGl0ZSBXaW5lPC9BPiA8QSAgIGhyZWY9IjEyLUJvdHRsZV9XaW5lX0Fzc29ydG1lbnRzXzAwMDAwMTMzQy5odG1sIj5XaW5lIEFzc29ydG1lbnRzPC9BPiAgIDwvRElWPiAgPERJViBzdHlsZT0iRElTUExBWTogbm9uZSIgaWQ9bWVudTI+PC9ESVY+ICA8RElWIHN0eWxlPSJESVNQTEFZOiBub25lIiBpZD1tZW51Mz48QSAgIGhyZWY9Ii9XaW5lX0dpZnRfQ2x1YnNfMDAwMDAwMjlDLmh0bWwiPldpbmUgR2lmdCBDbHViczwvQT4gPC9ESVY+ICA8RElWIHN0eWxlPSJESVNQTEFZOiBub25lIiBpZD1tZW51ND48QSAgIGhyZWY9Ii9mYXFzLmh0bSI+RkFRczwvQT4gPEEgICBocmVmPSIvY29udGFjdC5hc3B4Ij5Db250YWN0IFVzPC9BPiA8QSAgIGhyZWY9Ii9yZXF1ZXN0Lmh0bSI+UmVxdWVzdCBBIENhdGFsb2c8L0E+IDxBICAgaHJlZj0iL3NoaXBwaW5ncG9saWN5Lmh0bSI+U2hpcHBpbmc8L0E+IDxBICAgaHJlZj0ic2hpcHBpbmdwb2xpY3kuaHRtI1RDIj5UZXJtcyAmIENvbmRpdGlvbnM8L0E+IDxBICAgaHJlZj0iL25ld3NsZXR0ZXIuaHRtIj5OZXdzbGV0dGVyczwvQT4gICA8QSBocmVmPSIvcmVjaXBlcy5odG0iPlJlY2lwZXM8L0E+IDxBICAgaHJlZj0iL3RyaXZpYS5odG0iPlRyaXZpYTwvQT4gPEEgICBocmVmPSIvd2luZXRhc3RpbmdwYXJ0eS5odG0iPlBsYW4gQSBXaW5lIFRhc3RpbmcgICBQYXJ0eTwvQT4gIDxBIGhyZWY9Ii9XaW5ldHJpdmlhLmh0bSI+V2luZSAgIFRyaXZpYTwvQT4gPEEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vV2luZUluc2lkZXJzIiB0YXJnZXQ9Il9ibGFuayI+IEpvaW4gdXMgb24gRmFjZWJvb2s8L0E+ICA8QSBocmVmPSIvb3B0b3V0Lmh0bSI+RW1haWwgICBPcHQtT3V0PC9BPiA8QSBocmVmPSIvZGlzY2xhaW1lci5odG0iPkRpc2NsYWltZXJzPC9BPiAgIDxBIGhyZWY9Ii9wcml2YWN5Lmh0bSI+UHJpdmFjeTwvQT48QSBvbmNsaWNrPSJKYXZhU2NyaXB0OndpbmRvdy5vcGVuKCdHaWZ0Tm90aWZpY2F0aW9uLmFzcHgnLCdHaWZ0Tm90aWZpY2F0aW9uJywnd2lkdGg9ODAwLCBoZWlnaHQ9NjUwLCBtZW51YmFyPW5vLCBzY3JvbGxiYXJzPXllcywgcmVzaXphYmxlPW5vLCBzdGF0dXM9bm8sIHRvb2xiYXI9bm8nKSIgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApOyI+U2VuZCBhIEdpZnQgTm90aWZpY2F0aW9uPC9BPiA8L0RJVj4gIDxESVYgc3R5bGU9IkRJU1BMQVk6IG5vbmUiIGlkPW1lbnU1PjxBICAgaHJlZj0iIj5DYWxpZm9ybmlhICAgV2luZSBDbHViIEdpZnQgTWVtYmVyc2hpcDwvQT4gPEEgICBocmVmPSIiPldvcmxkICAgQ2xhc3NpYyBXaW5lIENsdWIgR2lmdCBNZW1iZXJzaGlwPC9BPiA8QSAgIGhyZWY9IiI+Q29ubm9pc3NldXIncyAgIFdpbmUgQ2x1YiBHaWZ0IE1lbWJlcnNoaXA8L0E+IDwvRElWPiAgICAgIDxUQUJMRSBpZD1tYWluTWVudSBib3JkZXI9MCBjZWxsU3BhY2luZz0wIGNlbGxQYWRkaW5nPTAgd2lkdGg9IjEwMCUiPiAgICAgICAgICA8VFI+ICAgICAgICAgICAgPFREIGFsaWduPW1pZGRsZT48QSBvbm1vdXNlb3Zlcj1idXR0b25Pbih0aGlzLnN0eWxlKSAgICAgICAgICAgICAgIG9ubW91c2VvdXQ9YnV0dG9uT2ZmKHRoaXMuc3R5bGUpICAgICAgICAgICAgICAgaHJlZj0iRGVmYXVsdC5hc3B4Ij5Ib21lPC9BPjwvVEQ+ICAgICAgICAgICAgPFREIGFsaWduPW1pZGRsZT48QSAgICAgICAgICAgICAgIG9ubW91c2VvdmVyPSJyZXR1cm4gZHJvcGRvd25tZW51KHRoaXMsIGV2ZW50LCBtZW51MSwgJzE1MHB4JykiICAgICAgICAgICAgICAgb25tb3VzZW91dD1kZWxheWhpZGVtZW51KCkgICAgICAgICAgICAgICBocmVmPSJTdG9yZV8wMDAwMDAyM0MuaHRtbCI+U2hvcCBGb3IgV2luZTwvQT48L1REPiAgICAgICAgICAgIDxURCBhbGlnbj1taWRkbGU+PEEgICAgICAgICAgICAgICBvbm1vdXNlb3Zlcj1idXR0b25Pbih0aGlzLnN0eWxlKSAgICAgICAgICAgICAgIG9ubW91c2VvdXQ9YnV0dG9uT2ZmKHRoaXMuc3R5bGUpICAgICAgICAgICAgICAgIGhyZWY9Ii9XaW5lX0dpZnRzXzAwMDAwMDI5Qy5odG1sIj5Kb2luIEEgQ2x1YjwvQT48L1REPiAgICAgICAgICAgIDxURCBhbGlnbj1taWRkbGU+PEEgICAgICAgICAgICAgICBvbm1vdXNlb3Zlcj0icmV0dXJuIGRyb3Bkb3dubWVudSh0aGlzLCBldmVudCwgbWVudTMsICcxNzBweCcpIiAgICAgICAgICAgICAgIG9ubW91c2VvdXQ9ZGVsYXloaWRlbWVudSgpICAgICAgICAgICAgICAgaHJlZj0iL1dpbmVfR2lmdHNfMDAwMDAwMjlDLmh0bWwiPlNlbmQgQSBHaWZ0PC9BPjwvVEQ+ICAgICAgICAgICAgPFREIGFsaWduPW1pZGRsZT48QSBvbm1vdXNlb3Zlcj1idXR0b25Pbih0aGlzLnN0eWxlKSAgICAgICAgICAgICAgIG9ubW91c2VvdXQ9YnV0dG9uT2ZmKHRoaXMuc3R5bGUpICAgICAgICAgICAgICAgaHJlZj0iYWJvdXR1cy5odG0iPkFib3V0IFVzPC9BPjwvVEQ+ICAgICAgICAgICAgPFREIGFsaWduPW1pZGRsZT48QSBvbm1vdXNlb3Zlcj1idXR0b25Pbih0aGlzLnN0eWxlKSAgICAgICAgICAgICAgIG9ubW91c2VvdXQ9YnV0dG9uT2ZmKHRoaXMuc3R5bGUpICAgICAgICAgICAgICAgaHJlZj0iY2FydC5hc3B4Ij5TaG9wcGluZyAgICAgICAgICAgICAgIENhcnQ8L0E+PC9URD4gICAgICAgICAgICA8VEQgYWxpZ249bWlkZGxlPjxBIG9ubW91c2VvdmVyPWJ1dHRvbk9uKHRoaXMuc3R5bGUpICAgICAgICAgICAgICAgb25tb3VzZW91dD1idXR0b25PZmYodGhpcy5zdHlsZSkgICAgICAgICAgICAgICBocmVmPSIvbG9naW4uYXNweCI+TG9naW48L0E+IDwvVEQ+ICAgICAgICAgICAgPFREPjxBICAgICAgICAgICAgICAgb25tb3VzZW92ZXI9InJldHVybiBkcm9wZG93bm1lbnUodGhpcywgZXZlbnQsIG1lbnU0LCAnMTcwcHgnKSIgICAgICAgICAgICAgICBvbm1vdXNlb3V0PWRlbGF5aGlkZW1lbnUoKSAgICAgICAgICAgICAgIGhyZWY9IiI+SGVscDwvQT48L1REPjwvVFI+ICA8L1RBQkxFPmQCBw8PFgIfBQUpUHJpdmFjeSBQb2xpY3kgLSBXaW5lIEluc2lkZXJzIFdpbmUgQ2x1YnNkZAIZDw8WAh8FBSlQcml2YWN5IFBvbGljeSAtIFdpbmUgSW5zaWRlcnMgV2luZSBDbHVic2RkAhsPDxYCHwUFzQ88VEFCTEUgYm9yZGVyPTAgY2VsbFNwYWNpbmc9MCBjZWxsUGFkZGluZz0wIHdpZHRoPTc1NyBhbGlnbj1jZW50ZXI+DQo8VEJPRFk+DQo8VFI+DQo8VEQgc3R5bGU9IlBBRERJTkctQk9UVE9NOiAwcHg7IFBBRERJTkctTEVGVDogMjBweDsgUEFERElORy1SSUdIVDogMjBweDsgUEFERElORy1UT1A6IDE1cHgiPg0KPFRBQkxFIHdpZHRoPSI4NSUiIGFsaWduPWNlbnRlcj4NCjxUQk9EWT4NCjxUUj4NCjxURCB2QWxpZ249dG9wIGFsaWduPWxlZnQ+DQo8VEFCTEUgYm9yZGVyPTAgY2VsbFNwYWNpbmc9MCBjZWxsUGFkZGluZz0wIHdpZHRoPSIxMDAlIj4NCjxUQk9EWT4NCjxUUj4NCjxURCBjbGFzcz1oZWFkbGluZSB3aWR0aD0iNTMlIj5Qcml2YWN5IFBvbGljeTwvVEQ+DQo8VEQgY2xhc3M9aGVhZGxpbmUgd2lkdGg9IjQ3JSI+PC9URD48L1RSPjwvVEJPRFk+PC9UQUJMRT48L1REPjwvVFI+DQo8VFIgdkFsaWduPXRvcD4NCjxURCBpZD1tYWluYXJlYSBjbGFzcz10ZXh0bm9ybSB2QWxpZ249dG9wPjxCUj4NCjxQPk91ciBQbGVkZ2UgdG8gWW91LCBPdXIgTWVtYmVyOiA8L1A+DQo8UD5XZSBiZWxpZXZlIHN0cm9uZ2x5IGluIHByb3RlY3RpbmcgdGhlIHByaXZhY3kgb2Ygb3VyIG1lbWJlcnMuIEFueSBpbmZvcm1hdGlvbiB5b3UgZ2l2ZSB1cywgc3VjaCBhcyB0ZWxlcGhvbmUgbnVtYmVyLCBjcmVkaXQgY2FyZCBudW1iZXIgb3IgZS1tYWlsIGFkZHJlc3MsIGlzIGhlbGQgd2l0aCB0aGUgdXRtb3N0IGNhcmUgYW5kIHNlY3VyaXR5LCBhbmQgd2lsbCBub3QgYmUgdXNlZCBpbiB3YXlzIHRvIHdoaWNoIHlvdSBoYXZlIG5vdCBjb25zZW50ZWQuPC9QPg0KPFA+V2Ugd2lsbCBub3QgY29sbGVjdCBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gYWJvdXQgaW5kaXZpZHVhbHMgZXhjZXB0IHdoZW4gc3BlY2lmaWNhbGx5IGFuZCBrbm93aW5nbHkgcHJvdmlkZWQgYnkgc3VjaCBpbmRpdmlkdWFscy4gT3VyIG9yZGVyIGZvcm0gcmVxdWlyZXMgeW91IHRvIHN1cHBseSBpbmZvcm1hdGlvbiBzcGVjaWZpYyB0byB5b3VyIHBhcnRpY3VsYXIgb3JkZXIsIGluY2x1ZGluZyB5b3VyIGJpbGxpbmcsIHNoaXBwaW5nIGFuZCBlLW1haWwgYWRkcmVzc2VzIGFzIHdlbGwgYXMgY3JlZGl0IGNhcmQgaW5mb3JtYXRpb24uIFRoaXMgZGF0YSBpcyB1c2VkIHRvIGV4cGVkaXRlLCBwcm9jZXNzIGFuZCBzaGlwIHlvdXIgb3JkZXIocykuIFdlIG1heSB1c2UgdGhlIGNvbnRhY3QgaW5mb3JtYXRpb24gaW4gY2FzZSB3ZSBuZWVkIHRvIGFsZXJ0IHlvdSB0byBhIHByb2JsZW0gd2l0aCB5b3VyIG9yZGVyLiBXZSBtYXkgYWxzbyB1c2UgdGhpcyBpbmZvcm1hdGlvbiB0byBub3RpZnkgeW91IG9mIHVwZGF0ZXMgdG8gb3VyIHdpbmUgaW52ZW50b3J5IGxpc3RzLjwvUD4NCjxQPldlIG1heSBhbHNvIHVzZSBhbnkgY29udGFjdCBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IHRvIG9jY2FzaW9uYWxseSBub3RpZnkgeW91IGFib3V0IGltcG9ydGFudCBmdW5jdGlvbmFsaXR5IGNoYW5nZXMgdG8gdGhlIHNpdGUsIG5ldyBXaW5lIEluc2lkZXJzIHNlcnZpY2VzIGFuZCBzcGVjaWFsIG9mZmVycyB3ZSB0aGluayB5b3UnbGwgZmluZCB2YWx1YWJsZS48L1A+DQo8UD5JZiB5b3Ugd291bGQgcmF0aGVyIG5vdCByZWNlaXZlIGFueSBjb21tdW5pY2F0aW9ucyBmcm9tIHVzIGF0IGluZm9Ad2luZWluc2lkZXJzLmNvbS4gV2Ugd2lsbCBiZSBoYXBweSB0byByZW1vdmUgeW91IGZyb20gYW55IG9mIG91ciBjb250YWN0IGxpc3RzLjwvUD4NCjxQPldpbmUgSW5zaWRlcnMgd2VsY29tZXMgeW91ciBxdWVzdGlvbnMgYW5kIGNvbW1lbnRzIGFib3V0IHByaXZhY3kuIElmIHlvdSB3b3VsZCBsaWtlIHRvIGVtYWlsIHVzLCBwbGVhc2UgPEEgaHJlZj0iY29udGFjdC5hc3B4Ij5jbGljayBoZXJlPC9BPiBvciBjYWxsIHVzIGF0IDEtODAwLTYxNS03MzA0LiA8L1A+DQo8UD4mbmJzcDs8L1A+PC9URD48L1RSPjwvVEJPRFk+PC9UQUJMRT48L1REPjwvVFI+PC9UQk9EWT48L3RhYmxlPmRkAh0PZBYOZg8PFgQfBQUESG9tZR8GBRxodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vZGQCAQ8PFgQfBQUNU2hvcHBpbmcgQ2FydB8GBSVodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vY2FydC5hc3B4ZGQCAg8PFgQfBQUMWW91ciBBY2NvdW50HwYFMWh0dHA6Ly93d3cud2luZWluc2lkZXJzLmNvbS9teWFjY291bnRfb3JkZXJzLmFzcHhkZAIDDw8WBB8FBRBDdXN0b21lciBTZXJ2aWNlHwYFKGh0dHA6Ly93d3cud2luZWluc2lkZXJzLmNvbS9Db250YWN0LmFzcHhkZAIEDw8WBB8FBQ5Qcml2YWN5IFBvbGljeR8GBShodHRwOi8vd3d3LndpbmVpbnNpZGVycy5jb20vUHJpdmFjeS5hc3B4ZGQCBw8PFgIfBQUvJmNvcHk7IFdpbmUgSW5zaWRlcnMgwq4gMTk5OS0yMDEwIENoaWNhZ28sIElMLiBkZAIIDw8WAh8FBRREaXNjb3VudCBJRDogTkZDLTAwMGRkZO//akg1gjNaPCottcB5oag05h3f">
 
-	
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLpx8zwDwLl9vnzAQKfufWNC2OcDPkn7YDej6vFNwjrs88eFXiE">
+					
+			<table cellspacing="0" cellpadding="0" border="0" id="container" align="center" class="stroke">
+				<tbody><tr>
+					<td>
+
+<script language="javascript" src="js/menu.js" type="text/javascript"></script><div id="dropmenudiv" style="visibility:hidden;width:auto;background-color:#cecba9" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<script language="javascript" type="text/javascript">
+function DoSearch()
+{
+	var URL = "Search.aspx?Keyword=";
+	URL = URL + document.all.item("KeywordField").value;
+        
+	location.href = URL;
+}
+</script>
 	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 	</script>
 	<script type="text/javascript">
@@ -47,8 +90,6 @@
 	_userv=2;
 	urchinTracker();
 	</script> 
-  
-
 <script language="javascript" type="text/javascript">
 //<![CDATA[
 var enqsiteid = '927e20-5bx7645';
@@ -57,211 +98,200 @@ document.writeln('<script language="javascript" src="'+ enqhost +'.enquisite.com
 //]]>
 </script><script language="javascript" src="https://logssl.enquisite.com/log.js?id=927e20-5bx7645" type="text/javascript"></script>
 
-</head>
- <body> <!--Output on Prod site --> 
-<div id="menu1" style="display:none">
-	<a href="/category.cfm?Category=8">Red Wine</a>
-	<a href="/category.cfm?Category=7">White Wine</a>
-	<a href="/category.cfm?Category=22">Wine Assortments</a>
-</div>
-
-<div id="menu2" style="display:none">
-	<a href="/moreinfo.cfm?Category=20&amp;Product_ID=31">California Wine Club</a>
-	<a href="/moreinfo.cfm?Category=20&amp;Product_ID=33">World Classics Wine</a>
-	<a href="/moreinfo.cfm?Category=20&amp;Product_ID=32">Connoisseurs Wine Club</a>
-</div>
-
-<div id="menu3" style="display:none">
-	<a href="/giftclubs.cfm">Wine Club Gifts</a>
-    <a href="/giftsets.cfm">Wine Gift Sets</a>
-	<a href="/moreinfo.cfm?Category=36&amp;Product_ID=354">Wine Gift Certificates</a>
-</div>
-
-<div id="menu4" style="display:none">
-	<a href="javascript:MM_openBrWindow('/shopping/checkout/printform.cfm','winCertForm','toolbar=no, location=no, menubar=no, status=no,scrollbars=yes,width=700,height=750,left=0,top=0');">Gift Notifications</a>
-	<a href="/faq.cfm">FAQs</a>
-	<a href="/contact.cfm">Contact Us</a>
-	<a href="/request.cfm">Request A Catalog</a>
-	<a href="/shippingpolicy.cfm">Shipping</a>
-	<a href="/newsletters/Wine-Newsletter.cfm">Newsletters</a>
-	<a href="/Recipes/Wine-Recipes.cfm">Recipes</a>
-	<a href="/trivia.cfm">Trivia</a>	
-	<a href="/wine-tasting-party.cfm">Plan A Wine Tasting Party</a>
-	<a href="/Referrals/refer.cfm">Refer Your Friends</a>
-	<a href="/wine/Wine-Trivia.cfm">Wine Trivia</a>
-	<a href="/upgrade/qup.cfm">Upgrade Your Membership</a>
-	<a href="/optout/optout.cfm">Email Opt-Out</a>
-	<a href="/disclaimer.cfm">Disclaimers</a>
-	<a href="/privacy.cfm">Privacy</a>
-</div>
-
-<div id="menu5" style="display:none">
-	<a href="/giftclub_detail.cfm?Category=2&amp;Product_ID=1">California Wine Club Gift Membership</a>
-	<a href="/giftclub_detail.cfm?Category=2&amp;Product_ID=41">World Classic Wine Club Gift Membership</a>
-	<a href="/giftclub_detail.cfm?Category=2&amp;Product_ID=44">Connoisseur’s Wine Club Gift Membership</a>
-</div>
 
 
-	<table width="757" border="0" align="center" cellpadding="0" cellspacing="0">
-	
-	<tbody><tr>
-		<td><img src="/images/clear.gif" width="1" height="5" border="0"></td>
-	</tr>
-	</tbody></table>
-	<table bgcolor="ffffff" width="757" border="0" align="center" cellpadding="0" cellspacing="0" class="stroke">
-	<tbody><tr>
-		<td valign="top"><a href="/"><img src="http://www.wineinsiders.com/images/hdr_tn_wineinsiders.gif" alt="Wine Insiders - Expertly Chosen Wines Delivered To Your Door" width="757" height="83" border="0"></a></td>
-	</tr>
-	
-	<tr>
-	    <td valign="top">
-			<table width="100%" cellspacing="0" cellpadding="0" border="0" id="mainMenu">
-			<tbody><tr>
-				<td align="center"><a href="/" onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)">Home</a></td>
-				<td align="center"><a href="/store.cfm" onmouseover="return dropdownmenu(this, event, menu1, '250px')" onmouseout="delayhidemenu()">Shop For Wine</a></td>
-				<td align="center"><a href="/clubs.cfm" onmouseover="return dropdownmenu(this, event, menu2, '200px')" onmouseout="delayhidemenu()">Join A Club</a></td>
-				<td align="center"><a href="/winegifts.cfm" onmouseover="return dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()">Send A Gift</a></td>
-				<td align="center"><a href="/aboutus.cfm" onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)">About Us</a></td>
-                <td align="center"><a href="/shopping/basket.cfm" onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)">Shopping Cart</a></td>
-				<td align="center">
-					<a href="/login.cfm" onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)">Login</a>
-	  			</td>
-                <td><a href="/contact.cfm" onmouseover="return dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()">Help</a></td>
-				
-				
-				
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	
-	<tr>
-		<td>
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td rowspan="2"><img src="/images/clear.gif" width="10" height="4" border="0"></td>
-				<td><img src="/images/clear.gif" width="175" height="4" border="0"></td>
-				<td rowspan="2"><img src="/images/clear.gif" width="4" height="4" border="0"></td>
-				<td><img src="/images/clear.gif" width="180" height="4" border="0"></td>
-				<td><img src="/images/clear.gif" width="368" height="4" border="0"></td>
-				<td rowspan="2"><img src="/images/clear.gif" width="10" height="4" border="0"></td>
-			</tr>
-			<script language="JavaScript">
-				function checkForm(form) {
-					if(form.string.value == "") {
-						alert("Please enter a keyword before clicking search.");
-						form.string.focus();
-						return false;
-					}
-				}
-			</script>
-			<form name="srchbox" id="srchbox" action="http://www.wineinsiders.com/results2.cfm?CFID=154349&amp;CFTOKEN=92565935" method="post" onsubmit="return checkForm(this)"></form>
-			<tr>
-				<td valign="top"><input id="SearchString" name="string" type="text" maxlength="80" class="headerSearchbox"></td>
-				<td valign="top"><input name="Submit" type="image" src="http://www.wineinsiders.com/images/homepage/search_button.jpg" class="submit" alt="Search"></td>
-		        <td valign="top" align="right"><a href="/emailsignup.cfm"><img src="http://www.wineinsiders.com/images/homepage/emailsignup_button.jpg" height="23" width="174" border="0" alt="Signup for Email Specials"></a></td>
-			</tr>
-			
-			<tr>
-				<td colspan="6"><img src="/images/clear.gif" width="1" height="4" border="0"></td>
-			</tr>
-			</tbody></table></td>
-	</tr>
-	<tr>
-		<td valign="top"><table width="757" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td valign="top" align="center">
-<!-- begin content table -->
-
-<table width="757" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-
-    <td style="padding:15px,20px,0px,20px;"> 
-    <table width="85%" align="center">
-              <tbody><tr> 
-          <td align="left" valign="top"> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  
-                      <td width="53%" class="headline">Privacy Policy</td>
-                      <td width="47%" class="headline"><img src="http://www.wineinsiders.com/images/logo.gif" alt="A Taste of Califonia Wine Clubs" width="221" height="70"></td>
-               </tr>
-             </tbody></table>
-     
-      </td>
-        </tr>   
-        <tr valign="top"> 
-          <td valign="top" class="textnorm" id="mainarea"> <br>
-<p>Our Pledge to You, 
-            Our Member: 
-            </p><p>We believe strongly in protecting the privacy of our members. Any 
-              information you give us, such as telephone number, credit card number 
-              or e-mail address, is held with the utmost care and security, and 
-              will not be used in ways to which you have not consented.</p>
-            <p>We will not collect any personal information about individuals 
-              except when specifically and knowingly provided by such individuals. 
-              Our order form requires you to supply information specific to your 
-              particular order, including your billing, shipping and e-mail addresses 
-              as well as credit card information. This data is used to expedite, 
-              process and ship your order(s). We may use the contact information 
-              in case we need to alert you to a problem with your order. We may 
-              also use this information to notify you of updates to our wine inventory 
-              lists.</p>
-            <p>We may also use any contact information we collect to occasionally 
-              notify you about important functionality changes to the site, new 
-              Wine Insiders services and special offers we think you'll 
-              find valuable.</p>
-            <p>If you would rather not receive any communications from us at info@wineinsiders.com. 
-              We will be happy to remove you from any of our contact lists.</p>
-            <p>Wine Insiders welcomes your questions and comments about 
-              privacy. If you would like to email us, please <a href="contact.cfm">click 
-              here</a> or call us at 1-800-615-7304. </p>
-            <p>&nbsp;</p></td>
-  </tr>
-</tbody></table>
-	</td>
-  </tr>
-</tbody></table>
-
-		<!-- end content table -->
-
-	<table width="757" border="0" align="center" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="center" class="footer">
-		<a href="/" class="foot">Home</a> | 
-		<a href="/giftclubs.cfm" class="foot">Wine Club Gifts</a> | 
-		<a href="/clubs.cfm" class="foot">Wine Clubs</a> |
-		<a href="/winegifts.cfm" class="foot">Gift Ideas</a> | 
-		<a href="/store.cfm" class="foot">Wine Store</a> | 
-		<a href="/termsandconditions.cfm" class="foot">Terms and Conditions</a> |
-		<a href="/aboutus.cfm" class="foot">About Us</a> | 
-		<a href="/shopping/basket.cfm" class="foot">Shopping Cart</a> |
-		Wine Insiders ® 1999-2008 Chicago, IL.
-		</td>
-	</tr>
-	<tr>
-		<td><img src="/images/clear.gif" width="1" height="5" border="0"></td>
-	</tr>
-	</tbody></table>
-	
-		       </td>
+<link href="Themes/wineinsiders/menu.css" rel="stylesheet" type="text/css">
+<div id="header">
+    <table id="BrandingArea" border="0" cellpadding="0" cellspacing="0" width="757px" height="83px">
+        <tbody><tr>
+            <td> <a href="http://www.wineinsiders.com/" id="Header1_lnkHome">
+                <img src="http://www.wineinsiders.com/images/logo.gif" id="Header1_LogoImage" border="0"></a></td>
+            <td align="right" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr><td align="right">
+           
+              <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fwineinsiders&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:23px;" allowtransparency="true"></iframe>
+                          
+                         </td></tr>
+                          <tr><td>
+		<img src="images/hdr_right.gif" border="0"></td>
 		</tr>
-	</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<table width="757" border="0" align="center" cellpadding="3" cellspacing="0">
-<tbody><tr>
-	<td align="right"><!-- webbot bot="HTMLMarkup" startspan -->
-<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- webbot bot="HTMLMarkup" endspan --></td>
-</tr>
-</tbody></table>
-<br>
-	<script language="JavaScript" src="/menu.js"></script>
+            </tbody></table>     <div id="Header1_MiniCartTotal_MiniCartTotal"><span id="MiniCart"><span id="ItemCount"><span id="Header1_MiniCartTotal_lblItemCount">0 Products</span></span>&nbsp;<span id="SubTotal"><span id="Header1_MiniCartTotal_lblSubTotal">$0.00</span></span></span></div>
+
+            </td>
+        </tr>
+    </tbody></table>
+    <div style="display:none">
+        <div id="Logo">
+           </div>
+        <div id="SiteMenu">
+            <ul>
+                <li>
+                    <a id="Header1_LoginStatusControl1_lnkStatus" href="Login.aspx">Sign In</a>
+</li>
+                <li>
+                    <a id="Header1_lnkMyAccount" href="http://www.wineinsiders.com/myaccount_Orders.aspx">Your Account</a></li>
+                <li>
+                    <a id="Header1_lnkCustomerService" href="http://www.wineinsiders.com/contact.aspx">Customer Service</a></li>
+                <li>
+                    <a id="Header1_lnkSearch" href="http://www.wineinsiders.com/search.aspx">Search</a></li>
+            </ul>
+            <div id="ShoppingCartLink">
+                <a id="Header1_lnkCart" href="http://www.wineinsiders.com/cart.aspx" target="_top">Shopping Cart</a></div>
+        </div>
+       
+    </div>
+    <div id="MnMenu">
+        
+<div id="MenuLevel1" style="cursor:pointer">
+	<div style="DISPLAY: none" id="menu1"><a href="Red_Wine_00000001C.html">Red Wine</a> <a href="White_Wine_00000002C.html">White Wine</a> <a href="12-Bottle_Wine_Assortments_00000133C.html">Wine Assortments</a>   </div>  <div style="DISPLAY: none" id="menu2"></div>  <div style="DISPLAY: none" id="menu3"><a href="/Wine_Gift_Clubs_00000029C.html">Wine Gift Clubs</a> </div>  <div style="DISPLAY: none" id="menu4"><a href="/faqs.htm">FAQs</a> <a href="/contact.aspx">Contact Us</a> <a href="/request.htm">Request A Catalog</a> <a href="/shippingpolicy.htm">Shipping</a> <a href="shippingpolicy.htm#TC">Terms &amp; Conditions</a> <a href="/newsletter.htm">Newsletters</a>   <a href="/recipes.htm">Recipes</a> <a href="/trivia.htm">Trivia</a> <a href="/winetastingparty.htm">Plan A Wine Tasting   Party</a>  <a href="/Winetrivia.htm">Wine   Trivia</a> <a href="http://www.facebook.com/WineInsiders" target="_blank"> Join us on Facebook</a>  <a href="/optout.htm">Email   Opt-Out</a> <a href="/disclaimer.htm">Disclaimers</a>   <a href="/privacy.htm">Privacy</a><a onclick="JavaScript:window.open('GiftNotification.aspx','GiftNotification','width=800, height=650, menubar=no, scrollbars=yes, resizable=no, status=no, toolbar=no')" href="javascript:void(0);">Send a Gift Notification</a> </div>  <div style="DISPLAY: none" id="menu5"><a href="">California   Wine Club Gift Membership</a> <a href="">World   Classic Wine Club Gift Membership</a> <a href="">Connoisseur's   Wine Club Gift Membership</a> </div>      <table id="mainMenu" border="0" cellspacing="0" cellpadding="0" width="100%">          <tbody><tr>            <td align="middle"><a onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)" href="Default.aspx">Home</a></td>            <td align="middle"><a onmouseover="return dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()" href="Store_00000023C.html">Shop For Wine</a></td>            <td align="middle"><a onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)" href="/Wine_Gifts_00000029C.html">Join A Club</a></td>            <td align="middle"><a onmouseover="return dropdownmenu(this, event, menu3, '170px')" onmouseout="delayhidemenu()" href="/Wine_Gifts_00000029C.html">Send A Gift</a></td>            <td align="middle"><a onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)" href="aboutus.htm">About Us</a></td>            <td align="middle"><a onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)" href="cart.aspx">Shopping               Cart</a></td>            <td align="middle"><a onmouseover="buttonOn(this.style)" onmouseout="buttonOff(this.style)" href="/login.aspx">Login</a> </td>            <td><a onmouseover="return dropdownmenu(this, event, menu4, '170px')" onmouseout="delayhidemenu()" href="">Help</a></td></tr>  </tbody></table>
+</div>
+<span id="Header1_MainMenu1_litMenuJS"></span>
+<div id="MenuLevel2">
 	
-	
+</div>
 
+    </div>
+<table border="0" cellspacing="0" cellpadding="0" width="757px">
+    <tbody><tr>
+        <td rowspan="2">
+            <img border="0" src="images/clear.gif" width="10" height="4"></td>
+        <td>
+            <img border="0" src="images/clear.gif" width="175" height="4"></td>
+        <td rowspan="2">
+            <img border="0" src="images/clear.gif" width="4" height="4"></td>
+        <td>
+            <img border="0" src="images/clear.gif" width="180" height="4"></td>
+        <td>
+            <img border="0" src="images/clear.gif" width="368" height="4"></td>
+        <td rowspan="2">
+            <img border="0" src="images/clear.gif" width="10" height="4"></td>
+    </tr>
+        
+        <tr>            
+      	    <td valign="top">
+		<input name="KeywordField" type="text" size="10" id="KeywordField" class="headerSearchbox">
+	    </td>
+            <td valign="top">
+		<img name="btnGoSearch" id="btnGoSearch" src="images/search_button.jpg" border="0" onclick="DoSearch()" style="cursor: hand">
+            </td>
+            <td valign="top" align="right">
+                <a href="Wine_Insiders_Email_Specials.htm">
+                    <img border="0" alt="Signup for Email Specials" src="images/emailsignup_button.jpg" width="174" height="23"></a>
+                       
+                        </td>
+        </tr>
+    <tr>
+        <td colspan="6">
+            <img border="0" src="images/clear.gif" width="1" height="4"></td>
+    </tr>
+</tbody></table>
 
+</div>
+</td>
+				</tr>
+				<tr>
+					<td id="Page">
+						<div id="maincontent"><div id="BreadCrumbs"><a id="TrailHomeLink" class="BreadCrumbTrailLink" href="default.aspx">Home</a><span class="BreadCrumbTrailSpacer">&nbsp;&gt;&nbsp;</span><span id="lblTrailThisPage">Privacy Policy - Wine Insiders Wine Clubs</span>
+							</div>
+							<table cellpadding="0" cellspacing="0" border="0" width="100%" style="padding-left:40px;"><tbody><tr><td>
+							
+							<ul id="errUl" style=" font-size:10pt;margin:0;padding:0;color:Red;">
+							<li id="errFirstName" style="display:none">Enter First Name</li>
+							<li id="errLastName" style="display:none">Enter Last Name</li>
+							<li id="errAddress" style="display:none">Enter Address1</li>
+							<li id="errEmail" style="display:none">Enter Email</li>
+							<li id="errValidEmail" style="display:none">Enter Valid Email</li>
+							</ul></td></tr></tbody></table>
+							<input name="hdnIsCatalogValidated" type="hidden" id="hdnIsCatalogValidated">
+							<input name="hdnSelStateText" type="hidden" id="hdnSelStateText">
+							
+							
+							<h1><span><span id="lblName">Privacy Policy - Wine Insiders Wine Clubs</span></span></h1>
+							<span id="lblContent"><table border="0" cellspacing="0" cellpadding="0" width="757" align="center">
+<tbody>
+<tr>
+<td style="PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 15px">
+<table width="85%" align="center">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="headline" width="53%">Privacy Policy</td>
+<td class="headline" width="47%"></td></tr></tbody></table></td></tr>
+<tr valign="top">
+<td id="mainarea" class="textnorm" valign="top"><br>
+<p>Our Pledge to You, Our Member: </p>
+<p>We believe strongly in protecting the privacy of our members. Any information you give us, such as telephone number, credit card number or e-mail address, is held with the utmost care and security, and will not be used in ways to which you have not consented.</p>
+<p>We will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Our order form requires you to supply information specific to your particular order, including your billing, shipping and e-mail addresses as well as credit card information. This data is used to expedite, process and ship your order(s). We may use the contact information in case we need to alert you to a problem with your order. We may also use this information to notify you of updates to our wine inventory lists.</p>
+<p>We may also use any contact information we collect to occasionally notify you about important functionality changes to the site, new Wine Insiders services and special offers we think you'll find valuable.</p>
+<p>If you would rather not receive any communications from us at info@wineinsiders.com. We will be happy to remove you from any of our contact lists.</p>
+<p>Wine Insiders welcomes your questions and comments about privacy. If you would like to email us, please <a href="contact.aspx">click here</a> or call us at 1-800-615-7304. </p>
+<p>&nbsp;</p></td></tr></tbody></table></td></tr></tbody></table></span>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+<div id="footer">
+	<div id="footermenu">
+		<a id="Footer1_linkHome" href="http://www.wineinsiders.com/">Home</a>&nbsp;|
+		<a href="Wine_Gift_Clubs_00000029C.html">Wine Club Gifts</a> | 
+		<a href="Wine_Clubs_00000024C.html">Wine Clubs</a> | 
+		<a href="Wine_Assortments_00000133C.html">Assortments</a> | 
+		<a href="Store_00000023C.html">Wine Store</a> | 
+		<a title="About Us" href="http://www.wineinsiders.com/aboutus.htm">About Us</a>&nbsp;|
+		<a id="Footer1_linkCart" href="http://www.wineinsiders.com/cart.aspx" target="_top">Shopping Cart</a>&nbsp;|
+		<a id="Footer1_linkMyAccount" href="http://www.wineinsiders.com/myaccount_orders.aspx">Your Account</a>&nbsp;|
+		<a id="Footer1_linkCustomerService" href="http://www.wineinsiders.com/Contact.aspx">Customer Service</a>&nbsp;|
+		<a title="Privacy" href="http://www.wineinsiders.com/Privacy.htm">Privacy Policy</a>&nbsp;
+		<a id="Footer1_linkPrivacy" href="http://www.wineinsiders.com/Privacy.aspx" style="display:none">Privacy Policy</a>		
+		<div id="footercustommenu" style="display:none"><a title="Contact" href="http://www.wineinsiders.com/contact.htm?emap=0">Contact</a>&nbsp;&nbsp;&nbsp;<a title="Disclaimer" href="http://www.wineinsiders.com/disclaimer.htm?emap=0">Disclaimer</a>&nbsp;&nbsp;&nbsp;<a title="Shipping Policy" href="http://www.wineinsiders.com/shippingpolicy.htm?emap=0">Shipping Policy</a>&nbsp;&nbsp;&nbsp;<a title="Wine Tasting Party" href="http://www.wineinsiders.com/winetastingparty.htm?emap=0">Wine Tasting Party</a>&nbsp;&nbsp;&nbsp;<a title="Privacy Policy" href="http://www.wineinsiders.com/privacy.htm?emap=0">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a title="Wine Newsletter" href="http://www.wineinsiders.com/newsletter.htm?emap=0">Wine Newsletter</a>&nbsp;&nbsp;&nbsp;<a title="Wine Trivia" href="http://www.wineinsiders.com/trivia.htm?emap=0">Wine Trivia</a>&nbsp;&nbsp;&nbsp;
 
-</body></html>
+	</div>
+	<!--  
+	<div id="seals" style="display: none">
+		<a href="/pricematch.htm"><img src="http://www.wineinsiders.com/Themes/allworldfurniture/Buttons/footer-pricematch.jpg"></a><a href="http://www.visa.com/" target="_blank"><img src="http://www.wineinsiders.com//images/Homepage/footer-visa.jpg"></a>
+		<a href="http://www.become.com/trustedmerchantprogram.html" target="_blank"><img src="http://www.wineinsiders.com/images/BecomeTrustedMerchant.gif"></a>
+		<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--113311.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/113311_medal.gif" alt="BizRate.com Customer Certified Site - Click to Verify" width="0" height="0" align="top" border="0" target="_blank"></a>
+                <script type="text/javascript" language="javascript">var ANS_customer_id="f7860a51-2446-4792-85e4-2b97bc906cee";</script><script type="text/javascript" language="javascript" src="//VERIFY.AUTHORIZE.NET/anetseal/seal.js" ></script>
+		<a href="http://www.mastercard.com/" target="_blank"><img src="http://www.wineinsiders.com/images/Homepage/footer-mastercard.jpg"></a><a href="http://www.instantssl.com/" target="_blank"><img src="http://www.wineinsiders.com//images/Homepage/footer-ssl.jpg"></a>
+	</div>
+	<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript" SRC="//smarticon.geotrust.com/si.js"></SCRIPT>
+	-->
+	<div id="poweredby"><span id="Footer1_PoweredBy"></span></div>
+	<div id="copyright">
+		<span id="Footer1_lblCopyright">© Wine Insiders ® 1999-2010 Chicago, IL. </span>		
+		<span id="Footer1_lblDiscountID" class="DiscountID">Discount ID: NFC-000</span>
+	</div>
+    </div>
+</div>
+
+<!-- Wine Insiders - non club event tag. Do not remove -->
+
+<script type="text/javaScript">
+na_oi='';
+na_ov='';
+na_ev='N';
+</script>
+
+<script type="text/javascript" src="http://e.nexac.com/e/a-748/s-1228.js"></script>
+<noscript><iframe src="http://f.nexac.com/e/a-748/s-1228.xgi" name="naframe2" height="0" width="0"
+frameborder="0" ></iframe>
+
+<!--End of Wine Insiders - non club event tag. Do not remove -->
+</td>
+				</tr>
+			</table>
+			<div id="extraDiv1"><span></span></div>
+			<div id="extraDiv2"><span></span></div>
+			<div id="extraDiv3"><span></span></div>
+			<div id="extraDiv4"><span></span></div>
+			<div id="extraDiv5"><span></span></div>
+			<div id="extraDiv6"><span></span></div>
+		</form>
+	</body>
+</HTML>
+</noscript></td></tr></tbody></table></form></body></html>
