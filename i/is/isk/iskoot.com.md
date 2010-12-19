@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516141403id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219012400id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Statement
 
