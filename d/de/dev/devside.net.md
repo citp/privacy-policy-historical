@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devside.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210143id_/http%3A//www.devside.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devside.net privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219234328id_/http%3A//www.devside.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -44,10 +44,12 @@ Privacy Policy v1.0 -- 4/23/08
 
 ### In the Spotlight
 
-Developing and Hosting PHP+MySQL based websites and applications has never been simpler. The Web.Developer Server Suite provides a Platform & Framework on which to create standards-based CSS, XSLT, and XHTML sites running on PHP and MySQL. Save your time, focusing on core business. Reduce complexity and maximize your productivity.
+Developing and Hosting PHP+MySQL based websites and applications has never been simpler. WampDeveloper provides a Platform & Framework on which to create standards-based CSS, XSLT, and XHTML sites running on PHP and MySQL. Save your time, focusing on core business. Reduce complexity and maximize your productivity.
+
+[Howto Install WordPress](http://www.devside.net/wordpress/howto-install-wordpress)
 
 ### Developers++
 
-The Web.Developer Server Suite is more than just a Windows based Apache|PHP|MySQL Platform. Suitable for novices and professionals alike, a complete Hosting Solution is provided that is capable of creating and deploying websites and web applications both locally and on the internet. Create, test, publish and maintain your websites in-house, on your own server, where you are in full control.
+WampDeveloper is more than just a Windows based Apache|MySQL|PHP Platform. Suitable for novices and professionals alike, a complete Hosting Solution is provided that is capable of creating and deploying websites and web applications both locally and on the internet. Create, test, publish and maintain your websites in-house, on your own server, where you are in full control.
 
 ### Newsletter Signup
