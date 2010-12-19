@@ -1,90 +1,102 @@
-> *The following text is extracted and transformed from the smartplanet.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212234141id_/http%3A//www.cnetnetworks.co.uk/aboutus/0%2C10000092%2C10000087%2C00.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartplanet.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219102838id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CNET NETWORKS UK
+# CBS Interactive Privacy Policy Highlights
 
-## Privacy Policy
+###  CBS Interactive Privacy Policy Highlights 
 
-We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the CNET Networks UK corporate website.
+#### 
 
-**1\. What Personally Identifiable Information Does CNET Networks Collect?**  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive our revenue mainly from advertising, collecting information is essential to keeping our services free to users. We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for an e-mail newsletter, when you use certain products or services, such as our Talkback service. Several of the services that we offer on our sites, such as our whitepaper database may require registration as a condition of use. Once you register with one of our sites you are no longer anonymous to us. CNET Networks may also receive information about you from other sources and add it to the information you have provided to us.
-
-**2\. What Anonymous Information Does CNET Networks Collect?**  
- _Cookies_  
-Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. You may elect not to allow cookies to be collected by adjusting your settings on your browser.
-
-_Web Bugs & Servers_  
-We use technologies, including electronic images known as Web bugs - sometimes called transparent GIFs, clear GIFs, or beacons - that allow us to track general user traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you unless you have specifically given us personally identifiable information, in which case we use the information to enhance your services in the ways described below.
-
-We use cookies and tracking technologies in a variety of ways, including:
-
-  * Keeping count of return visits to our site or our advertisers' or partners' sites 
-  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage 
-  * Determining which features our overall user population likes best 
-  * Saving your password so you don't have to re-enter it each time you visit our sites 
-  * Display the most appropriate advertising based on your interests   
-
-
-
-
-_Third-Party Advertisement Servers_  
-In the UK, we use the DoubleClick DART technology for serving advertisements on our web pages. To view the DoubleClick privacy policy please click here. You can opt-out of the DoubleClick ad-serving cookie via the [DoubleClick privacy policy.](http://emea.doubleclick.com/uk/privacy/)
-
-Additionally, some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
-
-**3\. How Does CNET Networks Use The Information?**  
-CNET Networks uses the information we gather for four general purposes:
-
-  * To customise the advertising and content you see 
-  * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you 
-  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in polls, contests and forums 
-  * To send you information you agree to receive about topics we think will be of interest to you 
-
-
-
+Note: The CBS Interactive Privacy Policy has been updated effective November 16, 2009. [Click here](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1285 "Click here") for more information about the updates.  
   
-**4\. How Does CNET Networks Share The Information?**  
- _Personally Identifiable Information  
-_ CNET Networks may make your personally identifiable information available to other companies or people when:
+---  
+| 
 
-  * We have your consent to share the information 
-  * We have engaged companies to work with or on behalf of CNET Networks to provide a product or service that you have requested, such as jobs by email announcements 
-  * You use co-branded services. When you use a co-branded service within our network of sites and you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies 
-  * We respond to injunctions, court orders or legal process; or we believe that your actions violate applicable laws or any usage guidelines for specific products or services, or threaten the rights, property or safety of our company, our users, or others   
+**Scope of Privacy Policy**
 
+| 
 
-
-
-_Aggregate Information_  
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
-
-_Business Transfers  
-_ We are always seeking to improve our network of websites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
-
-**5\. What Are My Options?**  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. We also give users the following options:
-
-  * Opt-in to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us; 
-  * Opting not to provide certain personal information when registering for a site, provided, however that you may not be able to utilise certain of our products or services without providing us with certain information. 
-
-
-
+**Information Collected**  
   
-**6\. How Can I Update My Personally Identifiable Information?**  
-You can correct or change the information collected during registration for any site. The instructions for doing this can be found in our member services areas. Users may change this information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
+---|---  
+  
+CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268 "CBS Interactive Privacy Policy") (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective November 16, 2009, is guided by a core set of [Privacy Principles](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1266 "Privacy Principles") and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
 
-**7\. How Will I Know If The Privacy Policy Is Changed?**  
-Any modifications to our privacy practices will be reflected first within this area of our network of websites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice of the change.
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full01Scope "Read more")
 
-Questions, Comments  
-Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to [ukmarketing@cnet.com](mailto:ukmarketing@cnet.com) or sent by mail to our offices at: 
+| 
 
-CNET Networks UK Ltd  
-5-11 Lavington Street London, SE1 0NZ
+We collect a variety of information about you, including:
 
-We read every message submitted and try to reply promptly to every one - please include the brand you are referring to when you contact us. We may also file your comments to improve the site and programme, or review and discard the information.
+· Information you provide directly to a CBS Interactive Web Site.
 
-E-mail contacts for questions - [ukmarketing@cnet.com](mailto:ukmarketing@cnet.com).
+· Information about your computer and browsing activities on the Web Sites, including through [cookies, web beacons, and other technologies](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1267 "cookies, web beacons, and other technologies").
 
-UPDATED DECEMBER 2006  
+· Information about you from other sources where permitted by law.
 
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full02Collection "Read more")  
+  
+**Use of Information**
+
+| 
+
+**Disclosure of Information**  
+  
+We use the information we collect to:
+
+· Provide the services you request.
+
+· Tell you about offers we think you will value.
+
+· Customize the content and advertising you see.
+
+· Improve your experience on CBS Interactive Web Sites.
+
+· As otherwise described to you at the point of collection or with your consent.
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full03Use "Read more")
+
+| 
+
+We may share your information:
+
+· Where we have obtained your consent.
+
+· With our third-party service providers.
+
+· With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Web Site.
+
+· Within the family of CBS Interactive Web Sites and other CBS businesses.
+
+· If a CBS Interactive Web Site is sold to another company.
+
+· To protect or defend the rights of CBS Interactive or our users.
+
+· When required by law or public authorities.
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full04Disclosure "Read more")  
+  
+**Your Choices**
+
+| 
+
+**Other Information**  
+  
+· If you choose to share contact information with us, you will have the opportunity to update that information.
+
+· You can stop the delivery of commercial email messages from a CBS Interactive Web Site or service by following the instructions in any such email you receive.
+
+· You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of [third-party online advertising](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272 "third-party online advertising").
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full05Choices "Read more")
+
+| 
+
+· CBS Interactive is committed to working with you to obtain a fair resolution of any privacy concern.
+
+· We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
+
+· For more information about our privacy practices, please review the full [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268 "CBS Interactive Privacy Policy").  
+  
+**How to Contact Us**  
+  
+If you have questions regarding the CBS Interactive Privacy Policy, please [contact us](http://cbsiprivacy.custhelp.com/app/ask).
