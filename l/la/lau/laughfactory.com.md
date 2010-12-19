@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughfactory.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171855id_/http%3A//laughfactory.com/content/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughfactory.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219135148id_/http%3A//www.laughfactory.com/content/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Laugh Factory - Privacy Policy
 
