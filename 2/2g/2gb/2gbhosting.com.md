@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2gbhosting.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529024450id_/http%3A//www.2gbhosting.com/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gbhosting.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219054432id_/http%3A//www.2gbhosting.com/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Policy United States (USA) | 2gbhosting.com
+# Privacy Policy United States (USA)
 
  Privacy Policy  
 ---  
