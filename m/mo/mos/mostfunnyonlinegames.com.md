@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostfunnyonlinegames.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629040856id_/http%3A//mostfunnyonlinegames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostfunnyonlinegames.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219030940id_/http%3A//mostfunnyonlinegames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fun games - Funny Games - Online games
 
