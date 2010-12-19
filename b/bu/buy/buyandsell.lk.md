@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyandsell.lk privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413071354id_/http%3A//www.buyandsell.lk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.lk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219070010id_/http%3A//www.buyandsell.lk/privacy-policy.html) for the most accurate reproduction.*
 
-# Sri Lanka Realestate, Classifieds for Sale, Rent, Lease
+# Online Solutions (Pvt) Ltd – Terms and Conditions
 
 |  |   |  |   
 ---  
