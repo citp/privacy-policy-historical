@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernjeweler.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104070927id_/http%3A//www.modernjeweler.com/online/contact/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernjeweler.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219101704id_/http%3A//modernjeweler.com/online/contact/privacy.jsp) for the most accurate reproduction.*
 
 # ModernJeweler.com - Modern Jeweler
 
