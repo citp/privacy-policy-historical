@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nashuatelegraph.com privacy policy that was archived on 2010-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100530115919id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nashuatelegraph.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219042518id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -50,6 +50,7 @@
   GA_googleAddSlot("ca-pub-2694382816359050", "Tele728x90-bottom");
   GA_googleAddSlot("ca-pub-2694382816359050", "Tele728x90-top");
   GA_googleAddSlot("ca-pub-2694382816359050", "telesearch728x90");
+  GA_googleAddSlot("ca-pub-2694382816359050", "Tele300x250pop");
   GA_googleAddSlot("ca-pub-2694382816359050", "TeleWeather728x90Excl");
 </script>
 <script type="text/javascript">
@@ -241,11 +242,26 @@
  
 
 <script type="text/javascript">
-   // track disqus post button
    jQuery("#CSLogOut").click(function(){
         eraseCookie("CSDisqus");
         eraseCookie("CSLoggedIn");
+        window.location = "https://home.nashuatelegraph.com/clickshare/logout.do?CSTargetURL=http://nashuatelegraph.com/PrivacyPolicy/"
     });
+    
+	function createCookie(name,value,days) {
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else { 
+			var expires = "";
+		}
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+	function eraseCookie(name) {
+		createCookie(name,"",-1);
+	}
 </script>
   </div>
   
@@ -274,7 +290,7 @@
     <ul id="navlist_right">
       <li><a href="/csp/cms/sites/Telegraph/assets/static/mediakit/index.html">advertising</a></li>
       <li><a href="/contact/">contact</a></li>
-      <li><a href="/subscribe/">subscribe</a></li>
+      <li><a href="https://home.nashuatelegraph.com/clickshare/subscriptionCenter.do">subscribe</a></li>
     </ul>
 
 </div> 
@@ -290,6 +306,8 @@
 <li id="active"> <a id="shop" href="http://www.getautosnh.com">cars</a> </li>
 <li id="active"> <a id="shop" href="http://www.classifiedsnh.com">ClassifiedsNH.com</a> </li>
 <li id="active"> <a id="shop" href="http://www.NHGiftCards.com">NH Gift Cards</a> </li>
+<li id="active"> <a id="shop" href="http://www.nashuatelegraph.com/localshopper">Local Shopper</a> </li>
+
 
 <li id="news"><a href="/news/">news</a></li>
 
@@ -313,10 +331,12 @@
 
 <li id="obits"><a href="/obituaries/">obituaries</a></li>
 
+	
+
 <!-- feat -->
 <li><a href="http://www.telegraphneighbors.com">neighbors</a></li>
-<li><a href="http://feastnh.com">Feast</a></li>
-<li><a href="http://www.encorebuzz.com">encore</a></li>
+<li><a href="http://feastnh.com">Food and Drink</a></li>
+<li><a href="http://www.encorebuzz.com">Entertainment</a></li>
 
 <li id="living"><a href="/living/">living</a></li>
 
@@ -325,7 +345,7 @@
 
 
 
-<li><a href="http://nhevents.com">Calendar</a></li>
+<li><a href="http://nhevents.com">Events Calendar</a></li>
 <li><a href="http://www.nh.com">NH.com</a></li>
 <li><a href="/events">Telegraph Events</a></li>
 
@@ -369,21 +389,31 @@
                 <div id="right_col_1" style="float:right;">
                     <br>
                   
-
 <script type="text/javascript">GA_googleFillSlot("Tele120x240-1");</script>
+
 <br>
+
 <script type="text/javascript">GA_googleFillSlot("Tele120x240-2");</script>
+
 <br>
+
 <script type="text/javascript">GA_googleFillSlot("Tele120x240-3");</script>
+
 <br>
+
 <script type="text/javascript">GA_googleFillSlot("Tele120x90-1");</script>
+
 <br>
+
 <script type="text/javascript">GA_googleFillSlot("Tele120x90-2");</script>
+
 <br>
+
 <script type="text/javascript">GA_googleFillSlot("Tele120x90-3");</script>
+
 <br>
-<script type="text/javascript">GA_googleFillSlot("Tele120x90-4");</script>
-<br>
+
+
 <!-- add new column -->
 <!-- conditional: ad if on a sports page -->
 
@@ -554,7 +584,7 @@
                jQuery.ajax({
                  url: "/csp/cms/sites/GetClassifiedsNH/assets/feed/topjobs.csp",
                  success: function(html){
-                   jQuery("#jb-results").prepend(html);
+                   jQuery("#jb-results") .prepend(html);
                    shuff();
                  }
                });
@@ -617,7 +647,7 @@
 
 </div>
     </div>
-    <!-- <dti:file:include base="assets" file="/includes/ads/stickyNote.csp"> -->
+    <!-- < d t i :file:include base="assets" file="/inclu des/ads/stickyNote.csp"> -->
 	<div id="vert_nav_bottom_1">
   <ul>
     <li style="color: #046835;">partners:</li>
@@ -660,6 +690,19 @@
 
 
 
+
+   
+
+      
+   
+    
+   
+<!-- global -->
+
+
+
+
+
 <!-- top of page link -->
 
 
@@ -681,6 +724,8 @@
      })();
     //]]>
 </script><script type="text/javascript" src="http://disqus.com/forums/nashuatelegraph/get_num_replies.js?"></script>
+
+
 
 
 <script type="text/javascript">
@@ -735,12 +780,5 @@ var secondTracker = _gat._getTracker("UA-291045-1");
 
 
 
-
-
-<script language="JavaScript">
-var zflag_nid="305"; var zflag_cid="1704/1"; var zflag_sid="626"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
-</script>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-<!-- end ZEDO for channel:  Nashua Telegraph , publisher: Nashua Telegraph , Ad Dimension: Pixel/Popup - 1 x 1 -->
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
