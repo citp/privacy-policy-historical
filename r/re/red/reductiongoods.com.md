@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reductiongoods.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527055907id_/http%3A//www.reductiongoods.com/index.php%3Foption%3Dcom_content%26view%3Dcategory%26layout%3Dblog%26id%3D52%26Itemid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reductiongoods.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219223140id_/http%3A//www.reductiongoods.com/index.php%3Foption%3Dcom_content%26view%3Dcategory%26layout%3Dblog%26id%3D52%26Itemid%3D130) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free Coupons, Coupon Codes, Online Coupons
 
 reductiongoods.com is strongly committed to protecting the privacy of this site's visitors. To that extent, we are the sole owners of all information collected on this site.
 
@@ -75,4 +75,4 @@ Ongoing Relevancy
 
 reductiongoods.com regularly reviews its policies and procedures to ensure we remain current with changing laws and evolving public expectations.
 
-reductiongoods.com welcomes comments and questions on this policy. Due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices, please contact us.
+reductiongoods.com welcomes comments and questions on this policy. Due to the evolving nature of the technologies we use to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices, please contact us at  [webmaster@reductiongoods.com](mailto:webmaster@reductiongoods.com) . 
