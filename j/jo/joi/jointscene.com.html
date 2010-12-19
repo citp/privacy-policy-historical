@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the jointscene.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617170006id_/http%3A//www.jointscene.com/php/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jointscene.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219135057id_/http%3A//jointscene.com/php/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
   <title></title>
   
 
@@ -22,10 +23,16 @@
     <div id="industry">
       <font color="red"><b>Please choose an industry &gt;</b></font>
 
-      <a div="industry_bollywood" href="javascript:set_industry('bollywood')"><font color="white">Bollywood (Hindi)</font></a>| 
-      <a div="industry_kollywood" href="javascript:set_industry('kollywood')"><font color="white">Kollywood (Tamil)</font></a>|
-       <a div="industry_other" class="selected" href="javascript:set_industry('all')"><font color="white">All</font></a>
+      <a div="industry_bollywood" href="javascript:set_industry('bollywood')"><font color="white" size="3">Hindi (Bollywood)</font></a>| 
+
+      <a div="industry_kollywood" href="javascript:set_industry('kollywood')"><font color="white" size="3">Tamil (Kollywood)</font></a>|
+
+      <a div="industry_tollywood" href="javascript:set_industry('tollywood')"><font color="white" size="3">Telugu (Tollywood)</font></a>|
+
+      <a div="industry_malluwood" href="javascript:set_industry('malluwood')"><font color="white" size="3">Malayalam (Malluwood)</font></a>|
+      <a div="industry_other" class="selected" href="javascript:set_industry('all')"><font color="white">All</font></a>
     </div>
+
     <div class="search" style="position: relative; bottom: 5px;">
       <input class="search_field" type="text" name="textfield" id="textfield1" value="Search for any movies, songs, or artists" onkeypress="javascript:test_for_enter(event,'textfield1');" onfocus="javascript:blank_this('textfield1');">
       <div class="search_button" onclick="javascript:do_search('textfield1');"></div>
@@ -40,8 +47,6 @@
 	  <li><a href="/php/index.php?tab=Movies"><img src="/images/nav/movies-off.png" alt="Movies"></a></li>
 	  <li><a href="/php/index.php?tab=Songs"><img src="/images/nav/songs-off.png" alt="Songs"></a></li>
 	  <li><a href="/php/index.php?tab=Artists"><img src="/images/nav/artists-off.png" alt="Artists"></a></li>
-	  <li><a href="/php/index.php?tab=Talent"><img src="/images/nav/got-talent-off.png" alt="Got Talent?"></a></li>
-	  <li><a href="/php/index.php?tab=Contests"><img src="/images/nav/contests-off.png" alt="Contests"></a></li>
 	  <li><a href="/php/news.php"><img src="/images/nav/news-off.png" alt="News"></a></li>
 	  <li><a href="/php/general_discuss.php"><img src="/images/nav/forums-off.png" alt="Forums"></a></li>
 	  <li><a href="/blog"><img src="/images/nav/blog-off.png" alt="Blog"></a></li>
@@ -58,7 +63,8 @@ function set_industry(industry)
 		//setCookie("default_industry",industry,'/php/');
 		//setCookie("default_industry",industry);
 	
-		window.location.reload();
+		//window.location.reload();
+		window.location = "http://www.jointscene.com";
 }
 </script>
 <link href="css/custom_css.css" rel="stylesheet" type="text/css">
@@ -420,6 +426,25 @@ try {
 var pageTracker = _gat._getTracker("UA-9069292-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+<script type="text/javascript">
+var _sf_async_config={uid:15592,domain:"jointscene.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
 
 
 <script language="javascript">
@@ -536,4 +561,4 @@ function do_search(param_field)
 }
 
 </script>
-</div></body></html>
+</div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
