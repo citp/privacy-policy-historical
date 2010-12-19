@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handygamez.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322222011id_/http%3A//www.handygamez.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handygamez.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219201410id_/http%3A//www.handygamez.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # HandyGamez, Download Games to get 1000’s of FREE Games!
 
