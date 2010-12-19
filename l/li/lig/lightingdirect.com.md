@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620013639id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219112757id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # LightingDirect.com: Security & Privacy
 
@@ -18,7 +18,7 @@ We work to protect the security of your information during transmission by using
 
 ## Information You Give Us
 
-We receive and store any information you enter on our Web site or give us in any other way with the exception of your credit card numbers. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and fulfilling your order.
+We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and fulfilling your order.
 
 From time to time, we may notify you of special offers that take into consideration your historic purchasing activity with us. We do not share or otherwise sell your contact information to unrelated third parties.
 
