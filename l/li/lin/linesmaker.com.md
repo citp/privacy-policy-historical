@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330002642id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219155723id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
 
 # LinesMaker.com: Protecting your privacy
 
