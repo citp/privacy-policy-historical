@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wouldyouhitthis.com privacy policy that was archived on 2010-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528003551id_/http%3A//www.wouldyouhitthis.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wouldyouhitthis.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219234939id_/http%3A//www.wouldyouhitthis.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <!-- <script language="JavaScript" src=" http://www.wouldyouhitthis.com/flashcoms/common/js/flashcoms.js"></script> //-->
@@ -10,6 +10,17 @@
 <script language="javascript" src="includes/browserdetect_lite.js" type="text/javascript"></script>
 <script language="javascript" src="includes/opacity.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://ads.ihiphop.com/www/delivery/spcjs.php?id=2&amp;target=_blank"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+	GS_googleAddAdSenseService("ca-pub-1694083939242708");
+	GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+	GA_googleAddSlot("ca-pub-1694083939242708", "Global_Site_PopUnder");
+</script>
+<script type="text/javascript">
+	GA_googleFetchAds();
+</script>
 <script language="JAVASCRIPT">
 	function disableForm(theform) {
 		if (document.all || document.getElementById) {
@@ -129,6 +140,20 @@
         'buyCredits': 'Buy Credits to Upgrade',
         'buyCreditsSendGifts': 'Buy Credits to Upgrade'
       }
+    },
+    notifications: {
+      gifting: function(data) {
+        var g = data.gifting;
+        var details = { id: g.id, giver_id: g.giver_id, receiver_id: g.receiver_id, created_at: g.created_at.toGMTString(),
+                        message: g.message, context: g.context, hidden: g.hidden, 
+                        anonymous: g.anonymous, private: g.private, completed: g.completed,
+                        'good[id]': g.good.id, 'good[name]': g.good.name, 'good[price]': g.good.price, 
+                        'good[media_url]': g.good.media_url, 'good[preview_url]': g.good.preview_url, 
+                        'good[media_type]': g.good.media_type
+                      };
+
+        viximo.jQuery.ajax( { url: '/viximo_gifting_callback.php', type: 'POST', data: details } );
+      }
     }
   });
 </script>
@@ -176,7 +201,7 @@
     <td width="3" background="images/main_border_left.gif"><img src="images/spacer.gif" width="3"></td>
     <td width="136" valign="top">
 
-	  <div class="header-bar" align="center"><a href="online.php" class="usersonline"><strong>174</strong> users online</a></div> 
+	  <div class="header-bar" align="center"><a href="online.php" class="usersonline"><strong>96</strong> users online</a></div> 
 	    
 	  	<div id="video_cta" class="box-left">
 	  	  <a href="http://triumphmedia.jambocast.com/vp.php?player_reference_id=12915">
@@ -193,7 +218,7 @@
   <form action="/privacy.php?" method="post" name="login">
           <div class="terms">Username:</div><input type="text" name="emailadd" class="login">
           <div class="terms"><script language="javascript">showPword('P');</script>Password:</div><input type="password" name="password" class="login">
-          <input type="hidden" name="logh" value="30a3cdb57e2c9f6c5380bb036857bf89">
+          <input type="hidden" name="logh" value="d12d46387dec95d73105a3b86a47cf30">
           <input type="submit" name="submit" value="Login!" class="login" id="button">
   </form>
   <a href="submit.php" class="menu"><strong>Not a member?</strong><br><br>No problem! Joining is quick, easy, and most importantly <strong><em>FREE!</em></strong><br><br>Just click here to begin!</a>
@@ -274,6 +299,13 @@ triumphmediasupport@gmail.com</div>
 	<a class="terms" href="myponies.php">Pony Bets</a> - <a class="terms" href="couples.php">Couple</a>
 </div>
 
+
+<!-- ca-pub-1694083939242708/Global_Site_PopUnder -->
+<script type="text/javascript">
+GA_googleFillSlot("Global_Site_PopUnder");
+</script>
+
+
 <!-- start Vibrant Media IntelliTXT script section -->
 <script type="text/javascript" src="http://hiphopcrack.us.intellitxt.com/intellitxt/front.asp?ipid=6642"></script>
 <!-- end Vibrant Media IntelliTXT script section -->
@@ -290,6 +322,9 @@ var pageTracker = _gat._getTracker("UA-4812446-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
+<script src="http://cdn.wibiya.com/Toolbars/dir_0598/Toolbar_598696/Loader_598696.js" type="text/javascript"></script>
+
 
 
 
