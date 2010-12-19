@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623112927id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219120838id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy for Experts Exchange
+
+This policy is presented to you in order to help you make an informed decision about using this service and to explain to you what information we collect, how we store that information and how we may use it. By using our website, you are consenting to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy. 
+
+Experts Exchange, LLC collects all data collected through [ experts-exchange.com](http://www.experts-exchange.com/) and is responsible for implementing and ensuring compliance with this privacy policy. Experts Exchange, LLC participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor website. 
 
 1\. What information do we collect? 
     
@@ -36,6 +40,8 @@ EXPERTS EXCHANGE works with third parties to serve ads on our site. These ads ma
     
 
 Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalized services cannot then be provided to that user. You can, should you chose, disable the cookies from your browser and delete all cookies currently stored on your computer. This may, however, prevent you from taking advantage services that EXPERTS EXCHANGE has to offer. 
+
+More information can be obtained on cookies by visiting [ www.allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.html) which is run by the Interactive Advertising Bureau. 
 
 4\. Our primary use of your personal information
     
@@ -80,7 +86,7 @@ We would like to provide you with information via email about new products, prom
 
 EXPERTS EXCHANGE does not share your information with any third party unless you specifically grant permission to EXPERTS EXCHANGE by consenting via an opt-in offer or promotion. EXPERTS EXCHANGE is not responsible for removing information from third party lists that members have previously granted authorization to share. To opt-out of receiving future communications, you may do one of the following: 
 
-  * You can send email to [ opt-out@experts-exchange.com ](mailto:opt-out@experts-exchange.com)
+  * You can send email to [ opt-out@experts-exchange.com](mailto:opt-out@experts-exchange.com)
   * You can send mail to the following postal address:   
 Experts Exchange LLC, Attn: Chief Privacy Officer, PO Box 1062 San Luis Obispo, CA 93406-1062 
 
@@ -110,7 +116,7 @@ This site contains links to other sites. EXPERTS EXCHANGE is not responsible for
 
 If you are under the age of 13, you are not permitted to register as a user of the EXPERTS EXCHANGE Web site. 
 
-A Note for Parents Concerning Privacy. EXPERTS EXCHANGE is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. EXPERTS EXCHANGE seeks to encourage children to consult with their parents before submitting their data. However, EXPERTS EXCHANGE believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a safe online environment for children to work within. These tools can also prevent children from disclosing personal information without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page which can be found at [ www.the-dma.org ](https://web.archive.org/web/20100623112927id_/http%3A//www.experts-exchange.com/www.the-dma.org)
+A Note for Parents Concerning Privacy. EXPERTS EXCHANGE is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. EXPERTS EXCHANGE seeks to encourage children to consult with their parents before submitting their data. However, EXPERTS EXCHANGE believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a safe online environment for children to work within. These tools can also prevent children from disclosing personal information without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page which can be found at [ www.the-dma.org](http://www.the-dma.org/)
 
 11\. Ownership Changes
     
@@ -127,10 +133,12 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have questions or concerns regarding this privacy policy, you should first contact our privacy staff as follows: 
 
-Mail: Experts Exchange Ltd. Att: Chief Privacy Officer, PO Box 1062 San Luis Obispo, CA 93406-1062 
+Mail: Experts Exchange, LLC Att: Chief Privacy Officer, PO Box 1062 San Luis Obispo, CA 93406-1062 
+
+Email: [ privacy@experts-exchange.com](mailto:privacy@experts-exchange.com)
 
 Telephone: 805.787.0603 
 
 You have the right to request a copy of the personal information EXPERTS EXCHANGE holds about you and to have any inaccuracies corrected. There may be a small charge for such administration requests. All such enquiries should be sent to our Chief Privacy Officer. Additionally, you may at any time change your information by updating your profile on the "My Profile - Edit" page. 
 
-If you do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact the Council of Better Business Bureaus, Inc. at [ eusafeharbor@council.bbb.org ](mailto:eusafeharbor@council.bbb.org) . 
+If you do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact the Council of Better Business Bureaus, Inc. at [ eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org). 
