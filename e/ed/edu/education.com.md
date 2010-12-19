@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620004744id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219071512id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,11 +27,11 @@ We gather two types of data about users:
 
 We collect personal information in several places on our Websites, which are set forth generally below. We will always provide a secure area of our Websites for you to enter your information.
 
-  * **Membership** ****
+  * **Membership**
 
 
 
-Currently, we do not require users to become members in order to have access to the free editorial and reference articles available on our flagship site, Education.com. However, if you’d like to gain access to the community features on our site, or comment/rate editorial content on Education.com, we require you to [register here](https://web.archive.org/web/20100620004744id_/http://register/) to become a member. In order to register, you’ll have to supply us with your name and email address, a unique User Name and password, and some additional information about you (e.g., the reason for your visit to Education.com, what kind of educational materials you are interested in receiving, etc.). Additionally, you will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
+Currently, we do not require users to become members in order to have access to the free editorial and reference articles available on our flagship site, Education.com. However, if you’d like to gain access to the community features on our site, or comment/rate editorial content on Education.com, we require you to [register here](https://web.archive.org/register/) to become a member. In order to register, you’ll have to supply us with your name and email address, a unique User Name and password, and some additional information about you (e.g., the reason for your visit to Education.com, what kind of educational materials you are interested in receiving, etc.). Additionally, you will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
 
   * **Premium Services**
 
@@ -93,19 +93,19 @@ We use personal information to enhance users’ experiences on our sites.
 
 
 
-If you’re a registered member, we use your email address to send you free email newsletters containing selected editorial, educational content, advertisements and links to our sites. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting your [Member Profile page](https://web.archive.org/web/20100620004744id_/http://profile/my/).
+If you’re a registered member, we use your email address to send you free email newsletters containing selected editorial, educational content, advertisements and links to our sites. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting your [Member Profile page](https://web.archive.org/profile/my/).
 
   * **Special Offers and Advertisements**
 
 
 
-We may from time to time send registered members of Education.com special offers and advertisements for products or services offered by our company or third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Member Profile page](https://web.archive.org/web/20100620004744id_/http://profile/my/).
+We may from time to time send registered members of Education.com special offers and advertisements for products or services offered by our company or third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on your [Member Profile page](https://web.archive.org/profile/my/).
 
   * **JustAsk Subscriptions**
 
 
 
-If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/web/20100620004744id_/http://answers/subscriptions/).
+If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/web/20101219071512id_/http://www.education.com/privacy/answers/subscriptions/).
 
   * **Webinars and Events**
 
@@ -137,7 +137,7 @@ We do not disclose personal information directly or indirectly to third parties 
 
 **Correcting and Updating Information**
 
-We offer members the ability to correct or update online certain information we collected during registration by visiting the [Member Profile page](https://web.archive.org/web/20100620004744id_/http://profile/my/).
+We offer members the ability to correct or update online certain information we collected during registration by visiting the [Member Profile page](https://web.archive.org/profile/my/).
 
 **Security**
 
