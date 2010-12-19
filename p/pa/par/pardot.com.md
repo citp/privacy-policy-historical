@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004404id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219093156id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Marketing Automation and Lead Management by Pardot
 
@@ -16,7 +16,7 @@ We may collect, store and use the following kinds of personal data:
 
 ### (2) Information about website visits
 
-We may collect information about you computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
+We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
 
 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -70,6 +70,6 @@ The website contains links to other websites. We are not responsible for the pri
 
 ### (9) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info (at) pardot.com or by post to Pardot LLC, 950 East Paces Ferry Rd, Suite 2440, Atlanta, GA 30326.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info (at) pardot.com or by post to Pardot LLC, 950 East Paces Ferry Rd, Suite 3300, Atlanta, GA 30326.
 
-Top of Page | [ < Legal](https://web.archive.org/web/20100619004404id_/http%3A//www.pardot.com/company/legal/index.html) | [Permission-Based Marketing Policy > ](https://web.archive.org/web/20100619004404id_/http%3A//www.pardot.com/company/legal/permission-based-marketing-policy.html)
+Top of Page | [ < Legal](https://web.archive.org/web/20101219093156id_/http%3A//www.pardot.com/company/legal/index.html) | [Permission-Based Marketing Policy > ](https://web.archive.org/web/20101219093156id_/http%3A//www.pardot.com/company/legal/permission-based-marketing-policy.html) | [Free Test Drive](https://web.archive.org/web/20101219093156id_/http%3A//www.pardot.com/products/marketing-automation/demos/test-drive.html)
