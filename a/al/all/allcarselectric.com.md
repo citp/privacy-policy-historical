@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcarselectric.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919075442id_/http%3A//www.allcarselectric.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcarselectric.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219090604id_/http%3A//www.allcarselectric.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - AllCarsElectric.com - AllCarsElectric.com
+# Privacy Policy - All Cars Electric - All Cars Electric
 
 Thank you for your interest in this website's services and privacy information. This privacy policy applies to all websites within the [High Gear Media Network](http://www.highgearmedia.com/oursites/). Because the network sites share a common platform and registration system, the information that you provide on one site may be used when you visit any other site within the network.
 
@@ -62,23 +62,23 @@ Web browsers, including Internet Explorer and Netscape Navigator, automatically 
 **What are the site's advertising practices?**  
 We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, including information collected through cookies, in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. <http://www.networkadvertising.org/managing/opt_out.asp>
 
-You can also learn more about specific companies we work with in this capacity and their policies regarding advertising targeting by visiting the following additional links: 
+You can also learn more about specific companies we may allow to place cookies on our site and their policies regarding use of that data and advertising targeting by visiting the following additional links: 
 
   * Exelate:  
-<http://exelate.com/new/consumers-optoutpreferencemanager.html>
-  
+<http://exelate.com/new/consumers-optoutpreferencemanager.html>   
 
   * Tacoda/Platform-A:  
-<http://www.platform-a.com/advertiser-solutions/audience-targeting/behavioral-targeting/consumer-notice>
-  
+<http://advertising.aol.com/privacy-policy/tacoda>   
 
   * Audience Science:  
-<http://audiencescience.com/privacy.asp>
-  
+<http://audiencescience.com/privacy.asp>   
 
   * Blue Kai:  
-<http://www.bluekai.com/optout.html>
-  
+<http://www.bluekai.com/optout.html>   
+
+  * Google/Doubleclick:  
+<http://www.google.com/intl/en/privacy_ads.html>   
+
 
 
 
