@@ -1,58 +1,101 @@
-> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229201257id_/http%3A//www.intermarkets.net/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219142221id_/http%3A//www.intermarkets.net/legal/index.html) for the most accurate reproduction.*
 
 # Intermarkets privacy policy
 
-Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. We have adopted the following privacy policy for the collection and use of all information regarding Users and Subscribers, and their activities at our Publishers' Websites. This policy tells you what information we may gather from you, how we may use or disclose that information, and our efforts to protect it. In addition, our advertising services may be delivered through our own domain located at: [www.mercuras.com](http://www.mercuras.com/).  Please read this policy carefully, and feel free to contact us at info@intermarkets.net if you have any questions regarding its contents. 
+Revised: August 23, 2010
 
-Information We May Gather  
-Intermarkets may obtain the following types of non-personally identifiable information from users and subscribers:
+Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites. 
 
-Site Usage Data  
-We collect non-identifiable information to measure how our Users and Subscribers use our Publishers' Web sites. This information may include statistics about the numbers and timing of unique visits to the Publishers' site, repeat visits, and which pages are viewed. 
+Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. This Privacy Policy applies to all of the products, services, and websites offered by Intermarkets or its subsidiaries or affiliated companies.  This Privacy Policy explains how we collect, use, protect, and share information when you are served an advertisement from when you use the Intermarkets website [www.intermarkets.net](http://www.intermarkets.net/) or one of the website publishers that are included in our Portfolio (collectively “Site”). For a current list of the websites within our Portfolio, please click [here](http://intermarkets.net/advertisers/mediaKit/index.html). This Privacy Policy also explains your choices for managing your information preferences.
 
-IP Address Data  
-We may use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
+By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that Intermarkets does not own, control, manage, or employ.
 
-Operating System and Web Browser Data  
-Additionally, we may collect information pertaining to the type of operating system and Web browser you are using and other non-personally identifiable technical specification information to prevent the attempt to deliver advertising that may not work on your computer.
+Intermarkets uses ADTECH as its ad server. ADTECH’s privacy policy can be found [here](http://www.adtechus.com/privacy/).
 
-Use of Personal Information  
-Your registration, subscription, and any other data will be closely protected.  
-Intermarkets has no access to your subscription data. We may provide our advertisers with non-identifiable, aggregated information about our Publishers' Web site traffic. This information may also be disclosed in describing our Web sites and services to prospective business partners and other third parties. This aggregated information about Web site traffic will not include personally-identifiable information such as registration, subscription, other data or individual page-views.     
-Intermarkets also reserves the right to disclose information as required by law, or to the extent that we believe in good faith that such disclosure is legally required or necessary to protect others' rights or property.
+We are committed to following the National Advertising Initiative’s (NAI) [privacy principles](http://www.networkadvertising.org/managing/principles.asp).
 
-Intermarkets does not rent to third parties our opt-in email lists.  These lists are comprised users of Intermarkets products. Our site provides users the opportunity to opt-out of receiving direct mail and/or electronic communications from us. To remove your information from our database so as to not receive future communications from Intermarkets; follow the unsubscribe instructions included with each e-mail and or publication and enter your email address or return to Intermarkets with opt-out in the heading.
+Information We Collect through the Site
 
-Cookies  
-Intermarkets does not use “cookies,” which are small files that Web sites send to your Internet browser for storage on your computer's hard drive. However, in the course of serving advertisements to a Publisher's site our third-party advertisers may place or recognize a unique “cookie” on your browser.     
-We use several third-party advertising companies to serve ads when you visit our Publishers' Web sites. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Publishers' sites and other Web sites in order to provide advertisements on the Publishers' sites and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here.](http://www.networkadvertising.org/optout_nonppii.asp)  
+**Personally Identifiable Information:** We collect information that personally identifies you, such as your name, username, email address, credit card details, and other information as we may from time to time request at our discretion (“Personally Identifiable Information”) only if you choose to share such information with us. For example, you may be asked to provide us with certain Personally Identifiable Information when you register with or use our services, when you register with or use the Site, and at other times. The decision to provide this information is optional; however, if you elect not to register with or provide such information, you may not be able to access certain content, features, or services available on or through the Site. We reserve the right to send you certain communications relating to the Intermarkets service, such as service announcements, administrative messages and Intermarkets newsletters, which are considered part of your account, without offering you the opportunity to opt out of receiving them. 
 
-Third Party Cookies  
-In the course of serving advertisements to the Publishers' sites, our third-party advertisers may place or recognize a unique "cookie" on your browser. Uses of the cookie may include:
+**Non-Personally Identifiable Information:** We automatically collect Non-Personally Identifiable Information when you use the Site. Non-Personally Identifiable Information includes demographic information (such as age, gender, city or state) and a user’s click stream information. Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages. Technologies used to collect this click stream data include cookies and Web beacons. Intermarkets collects Non-Personally Identifiable Information and stores it in log files. We use this information to help us understand how people use our Site. For example, each time you use the Site we automatically collect the type of Web browser you use, your operating system, your ISP, which pages you view, and the time and duration of your visits to the Site.
 
-  1. Keeping track of how many times we have served an advertiser’s banner to a particular user.
-  2. Keeping track of the number of unique users that visit each of our websites. We provide this information to advertisers so they may configure their ad campaigns accordingly.
-  3. Keeping you from seeing the same advertisement repeatedly.  
+We may augment our click stream data with non-personally-identifiable behavioral and demographic data from third party Services Providers (defined below) to target and serve some of the advertisements you see on the pages of our Site and those of our Portfolio publishers. This anonymous data may include such things as zip code, age, gender, and income range. We utilize the non-personal information described above to better customize the sort of advertisements you see. This information also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience. 
 
+The use and collection of information by our third-party advertising Service Providers is governed by the individual privacy policies of those providers.
 
+The majority of our advertising Service Providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Spyware or Adware  
-These terms refer to applications that are downloaded to your computer. These types of applications deliver ads (usually in the form of pop-up type ads) based on your Web usage. We do not participate in any way with spyware or adware applications, and we do not download these types (or any types) of applications without your expressed acceptance. Cookies and .swf files are not spyware or adware, and they are not harmful to your computer.
+**Cookies and Web Beacons:** We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site and to better target and analyze consumer behavior with the goal of providing better and more relevant advertising. Our cookie does not include your name or anything personal to you. It simply tells us that we have encountered your computer at some prior point. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Alternatively, you are always free to opt out of the cookies. 
 
-What We Won't Do  
-We do not engage in the collection, distribution, sale or use of personally identifiable information about Web users, such as email address, name, phone number and street address. We do not conduct individual web user "profiling". We do not deliver or install "spyware" or any other software on your computer to monitor your Web use.
+Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please click [here.](http://www.networkadvertising.org/managing/index.asp)
 
-How Ads May Be Served  
-When you visit one of the Publishers' Web sites, as the Publisher's page is loaded on your computer, the Publisher's site may contact our domain at www.mercuras.com or another third party ad server to deliver advertising on the Web page you are viewing. That process may entail redirecting the request for the ad to one or more additional, third party servers, and may include the use of Java scripts. During the process of loading the ads, your computer may connect to our servers to receive the advertising and/or to process the Java script. At no time do our servers intrude on your computer to extract any information other than the non-personally identifiable information described above nor do we install any software of any kind on your computer.  
+How We Use and Share Information Collected through the Site
 
-Additional Information  
-To learn more about our advertisers' privacy policies, please visit:  
-[valueclickmedia.com,](http://www.valueclickmedia.com/) [Tribalfusion.com,](http://www.tribalfusion.com/) [Advertising.com](http://www.advertising.com/) **   **[  
-](http://www.tribalfusion.com/)   
-For privacy policies for each of our publishers, please visit their sites. Links to the sites within each channel of the Intermarkets Portfolio in our [Media Kit](http://www.intermarkets.net/mediakit/mediakit.html), and on our [home page](http://www.intermarkets.net/). 
+**General:** We use Personally Identifiable Information and Non-Personally Identifiable Information for internal purposes only, such as to notify you of new products or services, to send service notifications, to customize the advertising and content you see, to fulfill your requests for products and services, to improve the Site, to conduct research, to solicit your feedback and input about the Site, and to provide more relevant and effective products, services, and advertisements on or through the Site. Personally Identifiable Information and Non-Personally Identifiable Information may be combined with data collected from other sources so that we may further improve the relevance and effectiveness of products, services, and advertisements offered on or through the Site. We will not sell, share, or rent Personally Identifiable Information and Non-Personally Identifiable Information to third parties, and we will not otherwise disclose Personally Identifiable Information and Non-Personally Identifiable Information to third parties, without your permission, except as expressly disclosed in this Privacy Policy.
 
-Intermarkets reserves the right to change this policy at any time by posting a revised privacy policy on this web page.
+**Service Providers:** Intermarkets may share Personally Identifiable Information with its service providers that help Intermarkets provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
 
-If you have any questions regarding the privacy policy or dealings with this web site, please send an e-mail to [info@intermarkets.net.](mailto:info@intermarkets.net.)
+**Non-Personally Identifiable Information Only:** We may use, and disclose to third parties, certain Non-Personally Identifiable Information regarding the Site ( _e.g._ , number of visits, page views, and the like) without your permission. However, such information does not identify you individually.
 
-Revised September 2, 2005.
+**Other Transfers:** We may share Personally Identifiable Information and Non-Personally Identifiable Information with businesses controlling, controlled by, or under common control with Intermarkets. If Intermarkets is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personally Identifiable Information and Non-Personally Identifiable Information in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+
+**Compliance with Laws and Law Enforcement:** Intermarkets cooperates with government and law enforcement officials and private parties to enforce and comply with the law. Intermarkets reserves the right to disclose Personally Identifiable Information and Non-Personally Identifiable Information to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of Intermarkets or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+## **Cookie Opt-Out Procedure**
+
+IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU TO USING OUR COOKIE, CLICK [**HERE**](http://www.adtechus.com/cookie_opt-out/) **** TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH AN OPT-OUT COOKIE.
+
+YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING [HERE](http://www.networkadvertising.org/managing/opt_out.asp).
+
+This opt-out functionality is cookie-based. When you receive this cookie, Intermarkets’ systems will know that you have opted out and will not attempt to assign other Intermarkets cookies in the future. In order for the opt-out to work on your computer, your Web browser must be set to accept third-party cookies and the Intermarkets opt-out cookie must remain on your computer for us to recognize you as an opt-out user. If you buy a new computer, change Web browsers, or delete this cookie, you will need to perform the opt-out task again.
+
+In some cases, Intermarkets works with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again.**
+
+**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites. You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Intermarkets has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.**
+
+## **Data Retention**
+
+Intermarkets does not keep data on its own servers; instead the data is kept on the End User’s computer in the Intermarkets cookie. The data is stored in the cookie until the cookie is deleted by the End User. End Users can delete the cookie at any time, as explained in this Privacy Policy. 
+
+## **Third Party Web Sites**
+
+The Site may contain links to websites or content operated and maintained by third parties. Intermarkets does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+## **Spyware or Adware**
+
+These terms refer to applications that are downloaded to your computer. These types of applications deliver ads (usually in the form of pop-up type ads) based on your web usage. We do not participate in any way with spyware or adware applications, and we do not download these types (or any types) of applications without your expressed acceptance. Cookies and .swf files are not spyware or adware, and they are not harmful to your computer.
+
+## **Public Forums**
+
+Please be advised that, whenever you voluntarily post information to any Intermarkets community page or any other public forums, such information can and may be accessed by the public. This means that any person or entity with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+
+## **Security**
+
+We recognize the importance of safeguarding the confidentiality of your information. Accordingly, we employ standard security measures designed to protect your information from unauthorized access. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. Therefore, while we strive to protect any information you transmit on or through the Site, please be advised that Intermarkets assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond Intermarkets’ reasonable control.
+
+## **Processing in the United States**
+
+We process and store all information in the United States. By using our Site, you agree that the collection, use, transfer, and disclosure of your Personally Identifiable Information will be governed by the applicable laws in the United States.
+
+## **Children's Privacy Statement**
+
+The Intermarkets Site is directed to, and intended for use by, adults only. We do not knowingly collect information from children under the age of 13. If we become aware that we have inadvertently received information from a child under the age of 13, we will delete such information from our records. Because we do not knowingly collect any information from children under the age of 13, we also do not knowingly distribute such information to third parties.
+
+## **Privacy Policy Changes**
+
+Intermarkets may update this Privacy Policy from time to time, and so you should review this Policy periodically. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the Revision Date shown at the top of the revised Privacy Policy. Your continued use of the Site constitutes your consent to the revised Privacy Policy.
+
+## **Acceptance of privacy policy**
+
+When you use the Intermarkets Site, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets Site. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to [info@intermarkets.net](mailto:info@intermarkets.net).  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+
+## **ADDITIONAL INFORMATION**
+
+For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our Media Kit and at <http://intermarkets.net/advertisers/mediaKit/index.html>. 
+
+RETURN TO TOP
+
+Copyright © 2010 Intermarkets, Inc. All rights reserved.
