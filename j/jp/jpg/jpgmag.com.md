@@ -1,70 +1,67 @@
-> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330052711id_/http%3A//www.jpgmag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpgmag.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219153752id_/http%3A//jpgmag.com/about/privacy) for the most accurate reproduction.*
 
 # JPG: About: Privacy policy
 
 ### Privacy policy
 
-This privacy policy pertains to the use of the JPG website at jpgmag.com.
+This Privacy Policy discloses the online privacy practices for JPG Magazine and applies to the information we collect through http://jpgmag.com (the “Site”). By accessing and/or using the Site, you are consenting to the collection, storage and disclosure of data as described in this Privacy Policy.
 
-#### Information we collect
+JPG Magazine reserves the right, at any time, to modify, alter, update or remove portions of this Privacy Policy. We will post any changes to this Policy on this page so you can readily review the most current version. We will alert you that changes have been made by indicating on the bottom of this Privacy Policy the date it was last updated. We encourage you to periodically review this Privacy Policy to stay informed about how JPG Magazine is helping to protect the personal information we collect. Your continued use of this Site constitutes your agreement to this Privacy Policy and any updates.
 
-  * When you register an account at JPG, we ask for your email address and certain optional information, such as your name.
-  * JPG automatically receives and records information in our server logs from your browser, including your IP address, cookies, and the page you request. This is normal website behavior.
-  * JPG uses information for the following general purposes: billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+#### IP addresses
 
+An Internet Protocol (IP) address is a number that is automatically assigned to your computer every time you browse the Internet. When a user requests a page from the Site, our servers will log the user's current IP address. We use IP addresses to help diagnose problems with our servers and to administer the Site.
 
+#### Cookies
 
-##### IP addresses
+This website uses cookies. A "cookie" is a small text file that contains a string of alphanumeric characters. There are two types of cookies that may be used: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the "Cookies" folder on your computer and remains in this "Cookies" folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is held temporarily in your computer's memory and disappears after you close your browser or shut off your computer. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. If you disable cookies, your browser may experience some erratic behavior on some portions of the Site.
 
-IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with JPG.
+Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. 
 
-IP addresses may be used for various purposes, including:
+#### Personal Information
 
-  * To diagnose or service technical problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
-  * To estimate the total number of users visiting JPG from specific geographical regions.
-  * To make sure that people are not abusing the voting or submission systems.
+When you opt in to fill out our contact form on the Site, we will ask you to provide us with information, including your name, address, e-mail address, phone number, and mailing address ("Personal Information")
 
+#### Use of Personal Information
 
+We will not sell, trade or otherwise provide Personal Information to any third party. We will use Personal Information only for the purposes of contacting you and sending you information regarding the Site and JPG Magazine services. We may compile and provide aggregate statistics about our Site visitors to third parties, but these statistics will not include any Personal Information.
 
-##### Cookies
+Personal Information collected on the Site will be stored and processed in the United States and by using the Site, you expressly consent to any such transfer of information outside of your country.
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a website's computers and stored on your computer's disk.
+#### Integrity of Your Personal Information
 
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-  * If you reject all cookies, you will not be able to use JPG services that require you to "log in" and you may not be able to take full advantage of the JPG service.
-  * JPG uses its own cookies for a number of purposes, including:  
+JPG Magazine is committed to protecting the security of your Personal Information. We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. You have the right to access and correct the Personal Information you have provided by contacting us using our contact form.
 
-    * To access your information when you "log in."
-    * To keep track of preferences you specify while you are using JPG's services.
-    * To display the most appropriate advertising, based on your interests and activity on JPG.
-    * To estimate and report our total audience size and traffic.
-    * To conduct research to improve JPG's content and services.
-  * JPG may let other companies (such as Google) that show advertisements on our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to JPG's cookies.
+#### Protection of Children’s Personal Information
 
+JPGMag.com is a general audience site and does not knowingly collect any personal information from children.
 
+#### Use of Submission Information
 
-#### Information sharing and disclosure
+Any other information other than Personal Information we collect through the Site (including, without limitation, feedback regarding the Site or any comments, ideas and suggestions you provide) is referred to in this Privacy Policy as "Submission Information."
 
-  * When you post a photo or write a story on JPG, your username or alias that you are posting under is visible to other users.
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. JPG does not rent or sell your personal information.
-  * Generally, JPG does not share personal information about you with other people or non-affiliated companies without your consent, except when compelled by subpoenas, warrants, court orders or legal process.
-  * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of JPG's terms of use, or as otherwise permitted or required by law. We will transfer information about you if JPG is acquired by or merged with another company. In this event, JPG will notify you by email or by putting a prominent notice on the JPG website before information about you is transferred and becomes subject to a different privacy policy. JPG may share demographic information with business partners, such as "53% of users who regularly use JPG are between the ages of 18 and 24" or the like. No personally identifiable information will ever be used without your permission.
+As described in our Terms of Use, JPG Magazine does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, we are free to use Submission Information for any purpose whatsoever.
 
+#### Disclosures to Third Parties
 
+Because JPG Magazine does not accept or collect Submission Information on a confidential or proprietary basis, from time to time JPG Magazine may disclose your Submission Information to third parties, including, without limitation, our consultants, our representatives and our affiliated companies.
 
-#### Editing and deleting account information
+#### Disclosures for Legal Reasons
 
-  * You can change your JPG profile information at any time, except your username which is fixed when created.
-  * We may send you certain communications relating to the JPG service, such as service announcements and administrative messages.
-  * You can delete your JPG account at any time via your account profile page or by [contacting us](https://web.archive.org/about/contact); however, please note that comments you have written on other JPG users' photos will still exist, in order to maintain discussion integrity.
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to fulfill their job duties.
-  * Your JPG profile information is password-protected.
-  * In certain areas, JPG uses SSL-encryption to protect data transmissions.
+JPG Magazine will also disclose Submission Information and Personal Information when it believes, in its sole discretion, that the law requires such disclosure or that such disclosure is necessary to comply with the law; protect and defend the rights or property of JPG Magazine or others; or act under exigent circumstances to protect the personal safety of the public or the users of the Site.
 
+#### Links
 
+This Privacy Policy applies only to information collected by JPG Magazine. Other websites (including those that we may link to) may have their own policies.
 
-#### Changes to this privacy policy
+JPG Magazine has no responsibility for or control over the information-collection practices of any other third party websites.
 
-JPG may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your JPG account or by placing a prominent notice on our site.
+#### Notification of Changes
 
-#### If you have any questions, please [contact us](https://web.archive.org/about/contact).
+If JPG Magazine is going to use Personal Information in a manner different from that stated at the time of collection through this Site, JPG Magazine will notify those from whom JPG Magazine has collected Personal Information via e-mail. You will then have a choice as to whether or not we may continue using your Personal Information in this different manner. In addition, if JPG Magazine decides to make any material changes in our privacy practices that do not affect Personal Information already collected through the Site, we will post a notice on the Site notifying users of the change.
+
+#### How to Contact Us
+
+If you have any questions about this Privacy Policy, please contact us via our [contact form](https://web.archive.org/about/contact).
+
+NAI - <http://www.networkadvertising.org/>
