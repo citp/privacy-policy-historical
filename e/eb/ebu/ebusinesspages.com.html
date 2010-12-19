@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ebusinesspages.com privacy policy that was archived on 2010-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612192616id_/http%3A//ebusinesspages.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebusinesspages.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219193931id_/http%3A//ebusinesspages.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>
 			eBusinessPages - Privacy Policy
 		</title>
@@ -9,57 +9,90 @@
 		<meta name="Description" content="eBusinessPages - Privacy Policy">
 		<meta name="Keywords" content="eBusinessPages - Privacy Policy">
 		<meta name="Robots" content="noindex,nofollow,nocache,noarchive">
-		<style type="text/css" media="screen"><!-- @import url( styles.css ); --></style>
-
+		<style type="text/css" media="screen"><!-- @import url( ebp.css ); --></style>
+		<script language="javascript" type="text/javascript" src="ebp.js">
+        </script>
 		
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+	<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script></head>
 	<body> 
 	
     <script type="text/javascript"> 
-     
-      var _gaq = _gaq || []; 
-      _gaq.push(['_setAccount', 'UA-15131747-1']); 
-      _gaq.push(['_trackPageview']); 
-     
+
+    var _gaq = _gaq || [];       
+    _gaq.push(['_setAccount', 'UA-15131747-1']);       
+    _gaq.push(['_trackPageview']); 
+
+
       (function() { 
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+        ga.src = 'http://www.google-analytics.com/ga.js'; 
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
-      })(); 
+      })();      
      
+     function trackPView(saction)
+    {
+        if(saction=='0')
+        {
+            VAjax('&CoEm=1');
+            saction = 'Click Email';
+        }
+        else if(saction=='1')
+        {
+            VAjax('&CoHr=1');
+            saction = 'Click Href';
+        }
+        else if(saction=='2')
+        {
+            VAjax('&CoCp=1');
+            saction = 'Select Telephone';
+        }
+     
+        _gaq.push(['_trackPageview']); 
+        _gaq.push(['_trackEvent', 'JS_Click', saction, document.location.href]);
+
+    }
+     
+    VAjax('');
     </script>	
     	
 	
-		<center>
+    <div class="fullwidth" id="header">
+    <div class="wrapper">
+        <a href="http://eBusinessPages.com/"><img id="imgLogo" src="i/US-Business-Directory-Logo.png" alt="US Business Directory"></a>
 
-			<table style="BORDER-COLLAPSE: collapse;width:80%;">
-				<tbody><tr height="8">
-					<td width="2"></td>
-					<td width="8" background="Images/bg_tl.png"></td>
-					<td background="Images/bg_tm.png"></td>
-					<td width="12" background="Images/bg_tr.png"></td>
-					<td width="2"></td>
-				</tr>
+        
+        <div class="follow">Follow us on: <a rel="nofollow" href="http://twitter.com/eBusinessPages"><img src="i/twitter30.png" alt="Follow us on twitter"></a>
+        </div>
+        
 
+        <div style="clear:right;"></div>
 
-				<tr valign="top" style="height:800px;width:800px;">
-					<td></td>
-					<td background="Images/bg_lm.png"></td>
-					<td bgcolor="#FFFFFF">
-						
-
-
-
-<p style="margin-top:15px;margin-bottom:5px;margin-left:20px;">
-<a href="http://eBusinessPages.com"><img border="0" style="float:left;" src="Images/eBusinessPages_logo.png"></a>
-</p><h1 align="center" style="margin:49px 0px 0px 0px;">eBusinessPages - Privacy Policy</h1>
-
-<p></p>
-
-<div style="clear:left;"></div>
-
-<div style="margin-top:15px;margin-bottom:5px;padding-left:20px;">
-
+        <div style="clear:right;margin-bottom:-64px" class="headerphrase" id="headerphrase"><h1 class="OrangeH1">PRIVACY POLICY</h1>
+        </div>
+        <div style="clear:right;"></div>
+        
+        <div class="SearchBar">
+        <form id="SearchForm" action="search.aspx" method="get" onsubmit="if(CheckSearchInput()) {document.getElementById('SearchForm').submit();} else {return false;}">
+            <div class="SearchLabel1"><b>What?</b></div><div class="SearchInput1"><input onfocus="clickSearch(1);" type="text" id="co" name="co"></div>
+            <div class="SearchLabel2"><b>Where?</b></div><div class="SearchInput2"><input onfocus="clickSearch(2);" type="text" id="loc" name="loc"></div>
+ 
+            <div class="Search"><a id="SearchMag" href="javascript:if(CheckSearchInput()) {document.getElementById('SearchForm').submit();} else {return false;}" onmouseover="SearchMouseOver(1);" onmouseout="SearchMouseOver(0);" onclick="if(CheckSearchInput()) {document.getElementById('SearchForm').submit();} else {return false;}"></a></div>
+            <input style="height:0px;width:0px;padding:0px;margin:-7px 2px 0px 0px;float:right;" type="submit">
+            <div style="clear:left;"></div>
+            <div class="SearchTelephone"><input type="checkbox" id="coTelephone" name="coTelephone" onclick="checkSearch(2);"> Search by Telephone Number</div>
+            <div class="SearchWhereDefault"><input type="checkbox" id="chkDefaultLocation">&nbsp;Set as my default location</div>
+            
+            <script type="text/javascript">checkSearch(0)</script>
+        </form>
+        </div>
+    </div>
+    </div>
+    
+    <div class="wrapper">
+    <div style="clear:both;"><br></div>
+    <div id="Companies">
+    
+    
 
 <br><br>PRIVACY POLICY
 <br><br>At eBusinessPages we provide the intelligent connection of customers with neighborhood businesses. Whether you are a consumer seeking a deal or a merchant trying to acquire or keep customers, we want to keep offering you outstanding value so that you continue to use our services. We believe you should be able to share and collaborate on our platform in a secure hosted environment.
@@ -72,7 +105,7 @@
 <br><br>We may share your personal or business information as described below:
 <br><br>Affiliated Businesses We Do Not Control: We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate stores at our website, sell items to you through the website or offer you products or services that may be of interest to you. In other situations, eBusinessPages may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with a particular opportunity or transaction, and we will share user information that is related to such opportunity or transaction with that affiliated business.
 <br><br>Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, eBusinessPages's agents do not have any right to use personal information we share with them beyond what is necessary to assist us.
-<br><br>Business profiles: Business profile information including business name, address, phone number and email address is displayed to users publicly in connection with our service. As part of our website and our services, you will receive from eBusinessPages and other users and partners of eBusinessPages email and other communication relating to your business and/or the products and services you offer. You may also, from time-to-time, receive promotional emails from eBusinessPages partners. Please see the “Communication Preferences” section below for details.
+<br><br>Business profiles: Business profile information including business name, address, phone number and email address is displayed to users publicly in connection with our service. As part of our website and our services, you will receive from eBusinessPages and other users and partners of eBusinessPages email and other communication relating to your business and/or the products and services you offer. You may also, from time-to-time, receive promotional emails from eBusinessPages partners.
 <br><br>Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if eBusinessPages, or substantially all of its assets were acquired, or in the unlikely event that eBusinessPages goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of eBusinessPages may continue to use your information as set forth in this policy.
 <br><br>Protection of eBusinessPages and Others: We may release personal and business information when we believe in good faith that release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of eBusinessPages, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
 <br><br>With Your Consent: Except as set forth above, you will be notified when your personally identifiable individual information may be shared with third parties, and will be given the option to prevent the sharing of this information.
@@ -95,41 +128,41 @@
 
 
 
-</div>
-			
-			
-			
-			
 
-					</td>
-					<td background="Images/bg_rm.png"></td>
-					<td></td>
-				</tr>
 
+	</div>
+    <div style="clear:both;"></div>
+    </div>
+    
+    <div style="clear:both;"><br></div>
+
+    <div class="fullwidth" id="browse">
+    <div class="wrapper">
+    <div class="browseList">
+
+        <h3>Business Location</h3>
+        <div class="browsegeo">		
+        <a href="Alabama_1.lst">Alabama</a><a href="Alaska_1f.lst">Alaska</a><a href="Arizona_3.lst">Arizona</a><a href="Arkansas_2.lst">Arkansas</a><a href="California_4.lst">California</a><a href="Colorado_5.lst">Colorado</a><a href="Connecticut_6.lst">Connecticut</a><a href="Delaware_8.lst">Delaware</a><a href="District-of-Columbia_7.lst">District of Columbia</a><a href="Florida_9.lst">Florida</a><a href="Georgia_a.lst">Georgia</a><a href="Hawaii_b.lst">Hawaii</a><a href="Idaho_d.lst">Idaho</a><a href="Illinois_e.lst">Illinois</a><a href="Indiana_f.lst">Indiana</a><a href="Iowa_c.lst">Iowa</a><a href="Kansas_g.lst">Kansas</a><a href="Kentucky_h.lst">Kentucky</a><a href="Louisiana_i.lst">Louisiana</a><a href="Maine_l.lst">Maine</a><a href="Maryland_k.lst">Maryland</a><a href="Massachusetts_j.lst">Massachusetts</a><a href="Michigan_m.lst">Michigan</a><a href="Minnesota_n.lst">Minnesota</a><a href="Mississippi_p.lst">Mississippi</a><a href="Missouri_o.lst">Missouri</a><a href="Montana_q.lst">Montana</a><a href="Nebraska_t.lst">Nebraska</a><a href="Nevada_x.lst">Nevada</a><a href="New-Hampshire_u.lst">New Hampshire</a><a href="New-Jersey_v.lst">New Jersey</a><a href="New-Mexico_w.lst">New Mexico</a><a href="New-York_y.lst">New York</a><a href="North-Carolina_r.lst">North Carolina</a><a href="North-Dakota_s.lst">North Dakota</a><a href="Ohio_z.lst">Ohio</a><a href="Oklahoma_10.lst">Oklahoma</a><a href="Oregon_11.lst">Oregon</a><a href="Pennsylvania_12.lst">Pennsylvania</a><a href="Rhode-Island_13.lst">Rhode Island</a><a href="South-Carolina_14.lst">South Carolina</a><a href="South-Dakota_15.lst">South Dakota</a><a href="Tennessee_16.lst">Tennessee</a><a href="Texas_17.lst">Texas</a><a href="Utah_18.lst">Utah</a><a href="Vermont_1a.lst">Vermont</a><a href="Virginia_19.lst">Virginia</a><a href="Washington_1b.lst">Washington</a><a href="West-Virginia_1d.lst">West Virginia</a><a href="Wisconsin_1c.lst">Wisconsin</a><a href="Wyoming_1e.lst">Wyoming</a>
+        </div>
+
+        <div style="clear:both;"></div>
+        
+        <h3>Business Category</h3>
+        <div class="browsecat">		
+        <a href="Agriculture%2c-Forestry-and-Fishing_!7pt.lst">Agriculture, Forestry and Fishing</a><a href="Mining_!7pu.lst">Mining</a><a href="Construction_!7pv.lst">Construction</a><a href="Manufacturing_!7pw.lst">Manufacturing</a><a href="Transportation_!7px.lst">Transportation</a><a href="Wholesale-Trade_!7py.lst">Wholesale Trade</a><a href="Retail-Trade_!7pz.lst">Retail Trade</a><a href="Finance%2c-Insurance-and-Real-Estate_!7q0.lst">Finance, Insurance and Real Estate</a><a href="Services_!7q1.lst">Services</a><a href="Public-Administration_!7q2.lst">Public Administration</a><a href="Communications_!b6q.lst">Communications</a><a href="Electric%2c-Gas-and-Sanitary-Services_!b8a.lst">Electric, Gas and Sanitary Services</a><a href="Business-Services_!ec3.lst">Business Services</a><a href="Information-Technology_!ela.lst">Information Technology</a>
+        </div>
+
+    </div>
+    </div>
+    </div>
+
+    <div style="clear:both;"></div>
+    <div class="footerbottom">
+    	        Copyright 2010 - eBusinessPages&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="AddCompany.aspx">Add Company</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="TermsAndConditions.html">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="PrivacyPolicy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="FAQ.html">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="Affiliates.html">Affiliates</a>
+
+    </div>	
+    
 
 	
-
-	
-
-				<tr height="8">
-					<td></td>
-					<td background="Images/bg_bl.png"></td>
-					<td background="Images/bg_bm.png"></td>
-					<td background="Images/bg_br.png"></td>
-					<td></td>
-				</tr>
-			</tbody></table>
-			
-
-					<div id="footer" style="Color:#FFFFFF; margin-top:20px;font-weight:bold;">Copyright 2010 - eBusinessPages
-					&nbsp;&nbsp;|&nbsp;&nbsp;<a href="AddCompany.html" style="color:White;">Add Company</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="TermsAndConditions.html" style="color:White;">Terms and Contitions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a rel="nofollow" href="PrivacyPolicy.html" style="color:White;">Privacy Policy</a>
-					</div>
-
-		</center>
-	
-
-
-	
-
 
 </body></html>
