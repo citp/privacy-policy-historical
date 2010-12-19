@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatesold.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604042158id_/http%3A//www.templatesold.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesold.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219105353id_/http%3A//www.templatesold.com/privacy.php) for the most accurate reproduction.*
 
-# WordPress Themes, WordPress Templates, Joomla, Website Templates - templatesold.com
+# WordPress Themes, WordPress Templates, Joomla, Website Templates - TemplateSOLD.com
 
 **1\. Information Collected During Your Use of the TemplateSOLD™ Service.**  
 In order to register, users are required to give us contact information (e.g., your name and email address), unique identifiers (e.g., your password), and demographic information (e.g., your zip code). Certain information, such as passwords and email addresses, is collected in order to verify your identity and for use in our records.
