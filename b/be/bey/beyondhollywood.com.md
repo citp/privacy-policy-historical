@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620011913id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219072127id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BeyondHollywood.com | Movie and TV News, Reviews, and Opinions
+# Privacy Policy | BeyondHollywood.com
 
 BeyondHollywood.com takes your privacy very seriously. Below, find our privacy policy, which is updated as of May 28, 2009:
 
@@ -32,4 +32,4 @@ BeyondHollywood.com contains links to other sites that we think are interesting 
 **  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the webmaster using the contact form below:
 
-**Your location has been identified as part of a reported spam network. Contact form has been disabled to prevent spam.**
+Powered by [Fast Secure Contact Form](http://wordpress.org/extend/plugins/si-contact-form/)
