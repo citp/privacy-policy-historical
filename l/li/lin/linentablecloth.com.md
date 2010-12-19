@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620183333id_/http%3A//www.linentablecloth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219235240id_/http%3A//www.linentablecloth.com/privacy-policy) for the most accurate reproduction.*
 
 # Collection and Use of Information - LinenTablecloth
 
