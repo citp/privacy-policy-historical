@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507022300id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219190518id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AuthorHouse
 
@@ -20,7 +20,7 @@ To better serve you, AuthorHouse may share your name and contact information wit
 
 Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, Trafford, Wordclay, and AuthorHive.
 
-We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you’ll find valuable. If you would rather not receive this information, you can change the preferences by [clicking HERE](https://web.archive.org/ContactUs/MarketingPreferences.aspx "clicking HERE").
+We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you’ll find valuable. If you would rather not receive this information, you can change the preferences by [clicking HERE](https://web.archive.org/MarketingPreferences.aspx "clicking HERE").
 
 We may release account information when we believe, in good faith, that such release is reasonably necessary to (1) comply with law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property, or safety of Author Solutions and its affiliated companies, our users, or others.
 
@@ -68,5 +68,5 @@ By using this Web site, products, and services, you consent to the terms of this
 
 ## TELL US WHAT YOU THINK
 
-We welcome your questions and comments about privacy. Please e-mail us using the [Contact Us](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=760 "Contact Us") page.  
+We welcome your questions and comments about privacy. Please e-mail us using the [Contact Us](https://web.archive.org/ContactUs/default.aspx "Contact Us") page.  
 
