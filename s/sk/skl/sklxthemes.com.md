@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sklxthemes.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618002742id_/http%3A//www.sklxthemes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sklxthemes.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219161355id_/http%3A//sklxthemes.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
