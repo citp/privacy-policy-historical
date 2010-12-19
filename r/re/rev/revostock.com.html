@@ -1,20 +1,14 @@
-<!--The following is the downloaded HTML source of the revostock.com privacy policy that was archived on 2010-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100218125704id_/http%3A//www.revostock.com/privacy/Content.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revostock.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219173815id_/http%3A//www.revostock.com/privacy/Content.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 
+
 <title>RevoStock: Affordable Stock Video Footage, After Effects Projects, Music and Sound Effects</title>
 
 
-<!--[if IE]>
-<link rel="stylesheet" type="text/css" href="http://lvs.revostock.com/themes/indiefootage/blueie.css" />
-<![endif]-->
-
-<!--[if !IE]-->
-<link rel="stylesheet" type="text/css" href="http://lvs.revostock.com/themes/indiefootage/blue.css">
-<!--[endif]-->
 
 
 
@@ -135,14 +129,20 @@ function toggle_header_ae(c) {
 		document.getElementById('hidden_header_cat1_5').value='';
 	}
 }
+function toggle_header_motion(c) {
+        if(c.checked) {
+                document.getElementById('hidden_header_cat1m_1').value='622';
+                document.getElementById('hidden_header_cat1m_2').value='623';
+        }
+        else {
+                document.getElementById('hidden_header_cat1m_1').value='';
+                document.getElementById('hidden_header_cat1m_2').value='';
+        }
+}
 </script>
 <script language="JavaScript1.2" src="http://www.revostock.com/js/menu_data.js" type="text/javascript"></script>
 <script language="JavaScript1.2" src="http://www.revostock.com/mm_menu.js" type="text/javascript"></script>
 
-
-<!--[if IE]>
-<link rel="stylesheet" type="text/css" href="/popup/gbie.css" />
-<![endif]-->
 
 <script type="text/javascript">
     var GB_ROOT_DIR = "http://www.revostock.com/popup/";
@@ -151,12 +151,19 @@ function toggle_header_ae(c) {
 </script>
 
 
-<script type="text/javascript" src="popup/AJS.js"></script>
-<script type="text/javascript" src="popup/AJS_fx.js"></script>
-<script type="text/javascript" src="popup/gb_scripts.js"></script>
 
 
 
+<script type="text/javascript" src="http://lvs.revostock.com/themes/indiefootage/js/AJS.js"></script>
+<script type="text/javascript" src="http://lvs.revostock.com/themes/indiefootage/js/AJS_fx.js"></script>
+<script type="text/javascript" src="http://lvs.revostock.com/themes/indiefootage/js/gb_scripts.js"></script>
+
+
+
+
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/popup/gbie.css" />
+<![endif]-->
 
 
 
@@ -201,16 +208,37 @@ window.onload=function(){enableTooltips()};
 </script>
 
 
-<script src="/js/flowplayer-3.0.1.min.js"></script>
+<script src="/js/flowplayer-3.2.2.min.js"></script>
 
 
 <!-- -->
 
 
-<script type="text/javascript" src="menus/ie5.js"></script>
-    <script type="text/javascript" src="menus/ajax-menu.files/dmenu.js"></script>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.revostock.com/themes/indiefootage/blueie.css" />
+<![endif]-->
+
+<!--[if !IE]-->
+<link rel="stylesheet" type="text/css" href="http://www.revostock.com/themes/indiefootage/blue.css">
+<!--[endif]-->
+
+
+<!--[if IE]>
+<script src=/popupclipplayerie.js></script>
+<![endif]-->
+
+<!--[if !IE]-->
+<script src="/popupclipplayer.js"></script>
+<!--[endif]-->
+
+
+<script type="text/javascript" src="/js/menus/ie5.js"></script>
+<!-- Deluxe Menu -->
+<noscript><a href=http://deluxe-menu.com/>Javascript Menu by Deluxe-Menu.com</a></noscript>
+<script type="text/javascript" language="JavaScript1.2" src="/js/menus/ajax-menu.files/dmenu.js"></script><noscript id="dmSup">a</noscript>
+<!-- (c) 2005, Deluxe-Menu.com, http://deluxe-menu.com -->
   <style type="text/css">#deluxeMenu{display:none}</style>
-  <noscript><link type="text/css" href="menus/ajax-menu.files/style.css" rel="stylesheet"></noscript>
+  <noscript><link type="text/css" href="/js/menus/ajax-menu.files/style.css" rel="stylesheet"></noscript>                                                 
 
 
 <script type="text/javascript">
@@ -311,7 +339,7 @@ ddaccordion.init({
 	animatedefault: false, //Should contents open by default be animated into view?
 	persiststate: true, //persist state of opened contents within browser session?
 	toggleclass: ["", ""], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
-	togglehtml: ["suffix", "<img src='http://beta.revostock.com/themes/indiefootage/images/plusbutton1234.gif' class='statusicon' />", "<img src='http://beta.revostock.com/themes/indiefootage/images/minusbutton1234.gif' class='statusicon' />"], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	togglehtml: ["suffix", "<img src='/themes/indiefootage/images/plusbutton1234.gif' class='statusicon' />", "<img src='/themes/indiefootage/images/minusbutton1234.gif' class='statusicon' />"], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
 	animatespeed: "fast", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
 	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
 		//do nothing
@@ -329,11 +357,46 @@ ddaccordion.init({
 <!--[if IE]>
 
 
-
-
-
-
 <style>
+
+
+div.affiliatebuttons{
+float: left; 
+background-image: url('http://www.revostock.com/themes/indiefootage/images/buttonbackimage12.gif'); 
+border: solid 1px #C8C8C8; 
+width: 160px; 
+margin-right: 5px; 
+padding-top: 6px; 
+background-color: #606060; 
+height: 30px; 
+font-weight: bold; 
+color: #ffffff; 
+font-size: 11px; 
+text-align: center;
+}
+
+p.manageaffiliate{
+width: 100%; 
+font-size: 12px;
+
+}
+
+img.manageaffiliate{
+ position: relative;
+ top: -15px;
+
+
+}
+
+
+div.frameboxforuploads1affiliate{
+width: 94%;
+position: relative;
+top: -40px;
+
+}
+
+
 
  div.clickhere{
  padding: 3px; 
@@ -357,51 +420,61 @@ ddaccordion.init({
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--[if !IE]-->
 
 <style>
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+div.sideinfo1234 { border-style: solid;
+border-width: 1px 1px 1px 1px; 
+border-color: #333333;
+background-color: #8B8B8B; 
+position: relative; 
+margin-top: -22px; 
+width: 155px; 
+height: 51px;
+left: 10px;
+padding: 6px;
+ }
+ }
+
+
+
+
+
+
+div.affiliatebuttons{
+float: left; 
+background-image: url('http://www.revostock.com/themes/indiefootage/images/buttonbackimage12.gif'); 
+border: solid 1px #C8C8C8; 
+width: 160px; 
+margin-right: 5px; 
+padding-top: 10px; 
+background-color: #606060; 
+height: 23px; 
+font-weight: bold; 
+color: #ffffff; 
+font-size: 11px; 
+text-align: center;
+}
+
+
+
+
+div.frameboxforuploads1affiliate{
+width: 98%;
+margin-top: -40px;
+}
+
+
+
+p.manageaffiliate{
+width: 100%; 
+font-size: 12px;
+margin-bottom: 15px;
+}
+
+
 
  div.clickhere{
  padding: 3px; 
@@ -425,7 +498,6 @@ ddaccordion.init({
 
 <!-- -->
 
-<script src="/popupclipplayer.js"></script>
 
 </head>
 
@@ -434,14 +506,14 @@ ddaccordion.init({
 
 <!-- -->
 
-
+ 
    <!--[if IE]>
  <body width="100%" style="background-color: #ebebeb; width: 100%; margin-right: 0px; padding: 0px; border: 0; overflow-y: hidden; overflow-x: auto; height: 100%; max-height: 100%;">
 <![endif]-->                                                                    
 
 
 <!--[if !IE]-->
-<body width="100%" style="background-color: #ebebeb; margin: 0; padding: 0; border: 0; overflow: auto; height: 100%; max-height: 100%;">
+<body width="100%" style="background-color: #ebebeb; margin: 0; padding: 0; border: 0; overflow-x: hidden; height: 100%; max-height: 100%;">
 <!--[endif]-->
 
 
@@ -578,14 +650,16 @@ ddaccordion.init({
                 <td class="buttons1234" width="20%"><font class="menu1234">NTSC</font></td>
                 <td class="buttons1234" width="12%"><input type="checkbox" name="FormatHD720" value="on"></td>
                 <td class="buttons1234" width="22%"><font class="menu1234">HD720</font></td>
-                <td class="buttons1234" width="13%"><input type="checkbox" name="FormatHD1080" value="on"></td>
-                <td class="buttons1234" width="21%"><font class="menu1234">HD1080</font></td>
+
               </tr>
               <tr>
                 <td class="buttons1234" width="12%"><input type="checkbox" name="FormatPAL" value="on"></td>
                 <td class="buttons1234" width="20%"><font class="menu1234">PAL</font></td>
-                <td class="buttons1234" width="12%"><input type="checkbox" name="FormatHDV" value="on"></td>
-                <td class="buttons1234" width="22%"><font class="menu1234">HDV</font></td>
+                
+                
+                <td class="buttons1234" width="12%"><input type="checkbox" name="FormatHD1080" value="on"></td>
+                <td class="buttons1234" width="22%"><font class="menu1234">HD1080</font></td>
+
                 <td class="buttons1234" width="13%"></td>
                 <td class="buttons1234" width="21%"></td>
               </tr>
@@ -615,8 +689,10 @@ ddaccordion.init({
                 <td class="buttons1234" align="left" width="90%"><a style="text-decoration: none; color: #ffffff" class="menu1234" href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=AND&amp;cat1%5B%5D=224&amp;cat1%5B%5D=225&amp;cat1%5B%5D=169&amp;cat1%5B%5D=425&amp;cat1%5B%5D=426&amp;cat1%5B%5D=528">After Effects Projects</a></td>
               </tr>
               <tr>
-                <td class="buttons1234" width="10%"></td>
-                <td class="buttons1234" align="left" width="90%"></td>
+                <td class="buttons1234" width="10%"><input type="hidden" name="cat1[]" value="" id="hidden_header_cat1m_1">
+<input type="hidden" name="cat1[]" value="" id="hidden_header_cat1m_2">
+<input type="checkbox" name="cat1[]" value="621" onclick="toggle_header_motion(this)"></td>
+                <td class="buttons1234" align="left" width="90%"><a style="text-decoration: none; color: #ffffff" class="menu1234" href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=AND&amp;cat1%5B%5D=621&amp;cat1%5B%5D=622&amp;cat1%5B%5D=623">Motion Templates</a></td>
               </tr>
             </tbody></table>
           </td>
@@ -625,12 +701,31 @@ ddaccordion.init({
       </tbody></table>
     </td>
   </tr>
+  <!-- NEW MENU -->
+    <tr><td style="height: 0px; line-height: 0px; margin: 0px; position: absolute;" colspan="2">
+  <div style="height: 0px; position: absolute; line-height: 0px; margin: 0px; padding: 0px;">
+ <div class="viewmediacategory">
+  <font class="viewmediatext">View Media By Category:</font>
+ </div>
+ </div>
+<div class="deluxemenudiv">
+<!-- Deluxe Menu -->
+<!-- Code for Deluxe Menu Items. Generated by Deluxe Tuner -->
+<ul id="deluxeMenu" style="display: none;">
+
+	<li class="istylei1"><a href="#"><span>Stock Video</span></a><a href="/menus/cat_video.html" style="display: none;"></a></li>
+	<li class="istylei2"><a href="#"><span>Stock Audio</span></a><a href="/menus/cat_audio.html" style="display: none;"></a></li>
+	<li class="istylei3"><a href="#"><span>AE Projects</span></a><a href="/menus/cat_ae.html" style="display: none;"></a></li>
+	<li class="istylei6"><a class="searchoptions" href="javascript:ajaxpage('http://www.revostock.com/extraforms.php/','contentarea');loadobjs('colorscript.js')">Click To Show all Search Options</a></li>
+</ul>
+<!-- End of Code for Deluxe Menu Items -->
+<script type="text/javascript" src="/js/menus/ajax-menu.files/data.js"></script><script src="https://web.archive.org/js/menus/ajax-menu.files/dmenu_ajax.js" type="text/javascript"></script><div id="d_dvA" style="position:absolute;cursor:default;width:60px;display:block;visibility:hidden;left:0;top:0;padding:2px;z-index:999999;border:solid 1px #AAAAAA;background-color:#FFFFFF;font:normal 12px Tahoma,Arial;color:#000000">Loading...</div><div id="dm0m0" onmouseover="dm_mouseSmOver('dm0m0')" onmouseout="dm_mouseSmOut('dm0m0');return true" style="position:static;left:0px;top:0px;;visibility:visible;z-index:1000;"><table id="dm0m0tbl" cellspacing="0" cellpadding="0" style="width:1px;height:1px;border-collapse:separate;padding:0px;margin:0px;;border-style:none;border-width:0px;border-color:#FFFFFF;;" border="0"><tbody><tr><td id="dm0m0i0td" style="background:transparent;border:none;padding:0px;"><table id="dm0m0i0it" title="" onmouseover="_dmzy(event,'dm0m0i0it');return true" onmouseout="_dmzt(event,'dm0m0i0it')" onclick="_dmlc(event,'dm0m0i0it');" class="TitleMenu" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="dm0m0i0tdT" nowrap="" style="background:transparent;border:none;width:100%;padding:;text-align:center;font:normal 11px tahoma,verdana,calibri,arial;color:; text-decoration:none;">Stock Video</td><td id="dm0m0i0tdA" style="background:transparent;border:none;padding:;"><img id="dm0m0i0d_rr" src="/menus/ajax-menu.files/dropdownarrow.png" style="display:block;" border="0"></td></tr></tbody></table></td><td id="dm0m0i1td" style="background:transparent;border:none;padding:0px;"><table id="dm0m0i1it" title="" onmouseover="_dmzy(event,'dm0m0i1it');return true" onmouseout="_dmzt(event,'dm0m0i1it')" onclick="_dmlc(event,'dm0m0i1it');" class="TitleMenu" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="dm0m0i1tdT" nowrap="" style="background:transparent;border:none;width:100%;padding:;text-align:center;font:normal 11px tahoma,verdana,calibri,arial;color:; text-decoration:none;">Stock Audio</td><td id="dm0m0i1tdA" style="background:transparent;border:none;padding:;"><img id="dm0m0i1d_rr" src="/menus/ajax-menu.files/dropdownarrow.png" style="display:block;" border="0"></td></tr></tbody></table></td><td id="dm0m0i2td" style="background:transparent;border:none;padding:0px;"><table id="dm0m0i2it" title="" onmouseover="_dmzy(event,'dm0m0i2it');return true" onmouseout="_dmzt(event,'dm0m0i2it')" onclick="_dmlc(event,'dm0m0i2it');" class="TitleMenu" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="dm0m0i2tdT" nowrap="" style="background:transparent;border:none;width:100%;padding:;text-align:center;font:normal 11px tahoma,verdana,calibri,arial;color:; text-decoration:none;">AE Projects</td><td id="dm0m0i2tdA" style="background:transparent;border:none;padding:;"><img id="dm0m0i2d_rr" src="/menus/ajax-menu.files/dropdownarrow.png" style="display:block;" border="0"></td></tr></tbody></table></td><td id="dm0m0i3td" style="background:transparent;border:none;padding:0px;"><table id="dm0m0i3it" title="" onmouseover="_dmzy(event,'dm0m0i3it');return true" onmouseout="_dmzt(event,'dm0m0i3it')" onclick="_dmlc(event,'dm0m0i3it');" class="TitleMenuSearch" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="dm0m0i3tdT" nowrap="" style="background:transparent;border:none;width:100%;padding:;text-align:center;font:normal 11px tahoma,verdana,calibri,arial;color:; text-decoration:none;">Click To Show all Search Options</td></tr></tbody></table></td></tr></tbody></table></div><div id="dmgk" style="z-index:2000;visibility:hidden;padding:3px;font:bold 11px Arial;background-color:#F5C4BE;position:absolute;"><a href="http://deluxe-menu.com"> Incorrect&nbsp;Key</a></div> <div id="dmD0" style=""></div><div id="dmFDIV0" style="z-index:999999;border:dotted 1px #000000;display:none;position:absolute;font:normal 1px Arial;">&nbsp;</div><style>.dmlinks{display:none} #dmlinks{display:none}</style>
+
+</div></td>
+  </tr>
   <tr>
   <td align="center" height="0" style="height: 0px;">
-  
-  <div class="searchoptionsbox">
-  <a class="searchoptions" style="color: #333333; text-decoration: none;" href="javascript:ajaxpage('http://www.revostock.com/extraforms.php/', 'contentarea'); loadobjs('colorscript.js')">Show all Search Options</a>
-  </div>
+
     <div class="cat">
 <table border="0" width="100%" height="0">
   <tbody><tr>
@@ -683,10 +778,9 @@ ddaccordion.init({
     </td>
   </tr>
 </tbody></table>
-
  
+    <!-- NEW MENU -->
 
- <!--<div class="usermessage" style="width: 955px; background-color: red; font-color: white;"><b>NOTE: </b>WE ARE CURRENTLY EXPERIENCING TECHNICAL DIFFICULTIES.  CERTAIN IMAGES/THUMBS MAY NOT APPEAR CORRECTLY.  WE ARE WORKING TO CORRECT THIS ISSUE.  THANKS FOR YOUR PATIENCE.</div>-->
 
 
 
@@ -699,10 +793,10 @@ ddaccordion.init({
   <tbody><tr>
     <td width="100%">
     <table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="mainframetop" height="8" valign="bottom"><img border="0" src="http://lvs.revostock.com/themes/indiefootage/images/topleftback1234.gif" width="8" height="8"></td>
-    <td class="mainframetopback">&nbsp;</td>
-    <td class="mainframetop" height="8" valign="bottom"><img border="0" src="http://lvs.revostock.com/themes/indiefootage/images/toprightback1234.gif" width="8" height="8"></td>
+    <tbody><tr>
+    <td class="mainframetop" height="5" valign="bottom"><img border="0" src="http://lvs.revostock.com/themes/indiefootage/images/topleftback1234.gif" width="8" height="8"></td>
+    <td class="mainframetopback" height="5"></td>
+    <td class="mainframetop" height="5" valign="bottom"><img border="0" src="http://lvs.revostock.com/themes/indiefootage/images/toprightback1234.gif" width="8" height="8"></td>
   </tr>
   <tr>
     <td style="width: 8px; height: 8px;" background="http://lvs.revostock.com/themes/indiefootage/images/newmain3_r6_c2.gif">&nbsp;</td>
@@ -717,6 +811,8 @@ ddaccordion.init({
       <tbody><tr>
         <td width="100%" valign="top">
           
+
+<a href="http://www.revostock.com/SearchResult-Empty.html?text=Christmas+|+Hannukah+|+Thanksgiving&amp;st=AND&amp;pool_id=&amp;CatType=&amp;length_from=&amp;ProgramVersion=&amp;length_to=&amp;ID=&amp;catID=&amp;cat1[]=1&amp;cat1[]=16&amp;cat1[]=47&amp;cat1[]=448&amp;cat1[]=78&amp;cat1[]=79&amp;cat1[]=224&amp;cat1[]=225&amp;cat1[]=425&amp;cat1[]=426&amp;cat1[]=528&amp;cat1[]=169&amp;cat1[]=&amp;cat1[]=&amp;cat1[]=&amp;Camera=&amp;ProducerName=&amp;HasPRO=&amp;HasPlugins=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.EditorsChoice+DESC%2C+u.add_date+DESC%2C+exact_match+DESC%2C+relevance1+DESC%2Crelevance2+DESC%2C+relevance3+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=20&amp;FormatNTSC=on&amp;FormatHDV=&amp;FormatHD720=on&amp;FormatHD1080=on&amp;FormatPAL=on&amp;makeFavoriteProducer=0&amp;makeNotFavoriteProducer=0&amp;makeEdChoice=0&amp;makeNotEdChoice=0&amp;makeFresh=0&amp;makeNotFresh=0" class="menu"><img style="margin-top: 7px; margin-left: 7px;" src="http://lvs.revostock.com/themes/indiefootage/images/holidaymediabanner.gif"></a>
 <div class="glossymenu">
 <a class="menuitem" href="http://www.revostock.com/Home-Empty.html"><img class="texttitle" src="http://lvs.revostock.com/themes/indiefootage/images/home1234.png"></a>
 
@@ -737,7 +833,12 @@ ddaccordion.init({
 	<ul>
 
 	<li><a href="/phpBB3/index.php" class="menu">Community</a></li>
-				<li><a href="http://www.revostock.com/PurchaseCredits-Empty.html" class="menu">Purchase Credits</a></li>
+
+    <li> <a class="menu" href="http://www.revostock.com/Affiliate-Empty.html">Affiliate/Referral Program</a></li>
+
+      
+          
+	<li><a href="http://www.revostock.com/PurchaseCredits-Empty.html" class="menu">Purchase Credits</a></li>
 
 	</ul>
 </div>
@@ -748,9 +849,9 @@ ddaccordion.init({
 	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.%60Downloads%60+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;FormatNTSC=on&amp;FormatHDV=on&amp;FormatHD=&amp;FormatHD720=on&amp;FormatHD1080=on&amp;FormatPAL=on&amp;ID=&amp;cat1[]=1&amp;cat1[]=16&amp;cat1[]=47&amp;cat1[]=448&amp;cat1[]=&amp;cat1[]=&amp;cat1[]=&amp;cat1[]">Most Downloaded</a></li>
 	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.EditorsChoice+DESC%2C+u.add_date+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;FormatNTSC=on&amp;FormatHDV=on&amp;FormatHD=&amp;FormatHD720=on&amp;FormatHD1080=on&amp;FormatPAL=on&amp;ID=&amp;cat1[]=1&amp;cat1[]=16&amp;cat1[]=47&amp;cat1[]=448&amp;cat1[]=&amp;cat1[]=&amp;cat1[]=&amp;cat1[]">Editor's Choice</a></li>
 	<li><a href="javascript:ajaxpage('http://www.revostock.com/extraforms.php', 'contentarea')">Find By Category</a></li>
-	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer">Find By Producer</a></li>
+	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer&amp;CatProducerPagerFilter=a.Approved+%3D+'1'">Find By Producer</a></li>
 
-	</ul>
+	</ul>                                                      
 </div>
  <a class="menuitem submenuheader" href="http://www.revostock.com"><img class="texttitle" src="http://lvs.revostock.com/themes/indiefootage/images/browseae1234.png"></a>
 <div class="submenu">
@@ -759,7 +860,7 @@ ddaccordion.init({
 	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.%60Downloads%60+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;cat1[]=224&amp;cat1[]=225&amp;cat1[]=169&amp;cat1[]=425&amp;cat1[]=426">Most Downloaded</a></li>
 	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.EditorsChoice+DESC%2C+u.add_date+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;cat1[]=224&amp;cat1[]=225&amp;cat1[]=169&amp;cat1[]=425&amp;cat1[]=426">Editor's Choice</a></li>
 	<li><a href="javascript:ajaxpage('http://www.revostock.com/extraforms.php', 'contentarea')">Find By Category</a></li>
-	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer">Find By Producer</a></li>
+	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer&amp;CatProducerPagerFilter=a.AEApproved+%3D+'1'">Find By Producer</a></li>
 
 	</ul>
 </div>
@@ -770,16 +871,30 @@ ddaccordion.init({
 	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.%60Downloads%60+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;cat1[]=78&amp;cat1[]=79">Most Downloaded</a></li>
 	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.EditorsChoice+DESC%2C+u.add_date+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;cat1[]=78&amp;cat1[]=79">Editor's Choice</a></li>
 	<li><a href="javascript:ajaxpage('http://www.revostock.com/extraforms.php', 'contentarea')">Find By Category</a></li>
-	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer">Find By Producer</a></li>
+	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer&amp;CatProducerPagerFilter=a.AApproved+%3D+'1'">Find By Producer</a></li>
 
 	</ul>
 </div>
+ <a class="menuitem submenuheader" href="http://www.revostock.com"><img class="texttitle" src="http://lvs.revostock.com/themes/indiefootage/images/browsemotion1234.png"></a>
+<div class="submenu">
+	<ul>
+	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.%60add_date%60+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;&amp;cat1[]=621&amp;cat1[]=622&amp;cat1[]=623">Newest Motion Templates</a></li>
+	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.%60Downloads%60+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;cat1[]=621&amp;cat1[]=622&amp;cat1[]=623">Most Downloaded</a></li>
+	<li><a href="http://www.revostock.com/SearchResult-Empty.html?text=&amp;st=&amp;pool_id=&amp;SearchResultPagerPage=&amp;SearchResultPagerOrder=u.EditorsChoice+DESC%2C+u.add_date+DESC&amp;SearchResultPagerFilter=&amp;SearchResultPagerQty=12&amp;cat1[]=621&amp;cat1[]=622&amp;cat1[]=623">Editor's Choice</a></li>
+	<li><a href="javascript:ajaxpage('http://www.revostock.com/extraforms.php', 'contentarea')">Find By Category</a></li>
+	<li><a class="menu" href="http://www.revostock.com/Cat.html?&amp;type=producer&amp;CatProducerPagerFilter=a.MotionApproved+%3D+'1'">Find By Producer</a></li>
+
+	</ul>
+</div>
+
+<a class="menuitem" href="http://www.revostock.com/BundleSearch-Empty.html"><img class="texttitle" src="http://lvs.revostock.com/themes/indiefootage/images/browsebundles1234.png"></a>
  <a class="menuitem submenuheader" href="http://www.revostock.com"><img class="texttitle" src="http://lvs.revostock.com/themes/indiefootage/images/sellyourmedia1234.png"></a>
 <div class="submenu">
 	<ul>
 	<li><a class="menu" href="http://www.revostock.com/SellYourVideo-Empty.html">Sell Your Footage</a></li>
 	<li><a class="menu" href="http://www.revostock.com/SellYourAudio-Empty.html">Sell Your Audio</a></li>
 	<li><a class="menu" href="http://www.revostock.com/SellYourProjects-Empty.html">Sell Your After Effects</a></li>
+	<li><a class="menu" href="http://www.revostock.com/SellYourMotion-Empty.html">Sell Your Motion Templates</a></li>
 	<li><a class="menu" href="http://www.revostock.com/Royalties-Empty.html">Royalty Rates</a></li>
 
 
@@ -792,7 +907,7 @@ ddaccordion.init({
 	<ul>
 	<li><a class="menu" href="http://www.revostock.com/FAQ-Empty.html">FAQ</a></li>
 	<li><a class="menu" href="http://www.revostock.com/Helpdesk-Empty.html">Helpdesk</a></li>
-	<li><a class="menu" href="http://www.revostock.com/contact/Content.html">Contact Us</a></li>
+	<li><a class="menu" href="http://www.revostock.com/Contact.html">Contact Us</a></li>
 
 	</ul>
 </div>		
@@ -856,7 +971,7 @@ ddaccordion.init({
 <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify;"><b><span style="font-size: 10pt; color: rgb(73, 73, 73); font-family: Tahoma;">AMENDMENT TO PRIVACY POLICY<o:p></o:p></span></b></p>
 <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify;"><b style=""><span style="font-size: 10pt; color: rgb(73, 73, 73); font-family: Tahoma;"><o:p>&nbsp;</o:p></span></b></p>
 <p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify;"><span style="font-size: 10pt; color: rgb(73, 73, 73); font-family: Tahoma;">This policy is subject to change.<span style="">&nbsp; </span>Any changes will be effective when a notice of the change is posted on the Website. <span style="">&nbsp;</span>Please check this Privacy Policy periodically so that You are aware of any changes.</span></p><p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify;"><br></p><p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: justify;"><a href="http://www.revostock.com/TextSitemap.html" title="Text Sitemap" name="Sitemap">Sitemap</a><br><span style="font-size: 10pt; color: rgb(73, 73, 73); font-family: Tahoma;"></span><span style="font-size: 10pt; font-family: Tahoma;"><o:p></o:p></span></p>		             
-    
+
     </td>
   </tr>
 </tbody></table>
@@ -942,9 +1057,13 @@ ddaccordion.init({
            <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="/Pricing.html">Pricing</a></div>
              <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="/HowItWorks.html">How RevoStock Works</a></div>
               <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="/PurchaseCredits.html">Purchase Credits</a></div>
-           <div style="margin-top: 7px;"></div>
+
+   <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="/Affiliate.html">Affiliate/Referral Program</a></div>
+
+      
+      
             <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="/Helpdesk.html">Helpdesk</a></div>
-             <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="http://www.revostock.com/contact/Content.html">Contact Us</a></div>
+             <div style="margin-top: 7px;"><a class="menuwhite" style="color: #ffffff;" href="http://www.revostock.com/Contact.html">Contact Us</a></div>
           </td>
           <td width="20%" valign="top">
                            <div style="border-style: solid;  color: #E6E6E6; font-size: 14px; font-weight: bold; border-width: 0px 0px 1px 0px; border-color: #E6E6E6;"><p style="margin-bottom: 5px;">Legal</p></div>
@@ -1008,7 +1127,7 @@ ddaccordion.init({
   <tbody><tr>
     <td width="100%" style="padding:10px; color: #EbEbEb">
 
-         Copyright 2006-2009 RevoStock, All Rights Reserved - Adobe, After Effects, are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+         Copyright 2006-2010 RevoStock, All Rights Reserved - Adobe, After Effects, are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
 
                        
     
@@ -1022,6 +1141,8 @@ ddaccordion.init({
 
 
 <!-- affiliate stuff -->
+<script>
+var revo_request_query_string = '?PageT=Content&Content-Code=privacy';</script>
 <script id="pap_x2s6df8d" src="http://www.revostock.com/affiliate/scripts/track.js" type="text/javascript">
 </script>
 
@@ -1045,5 +1166,6 @@ pageTracker._trackPageview();
 </div>
 <![endif]--> 
  
+
 
 		</body></html>
