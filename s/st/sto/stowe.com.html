@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stowe.com privacy policy that was archived on 2010-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325182445id_/http%3A//www.stowe.com/home/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stowe.com privacy policy that was archived on 2010-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219011233id_/http%3A//www.stowe.com/home/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,6 +12,36 @@
 <script type="text/javascript" src="/_common/js/common.js"></script>
 <script type="text/javascript" src="/_common/js/swfobject.js"></script>
 <script type="text/javascript" src="/includes/form_validation_opt.js"></script>
+
+<script>
+   function ebConversion(conversionID, redirURL, targetWin)
+   {
+      try
+      {
+         var elem = document.createElement("SCRIPT");
+         elem.src = "http://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&ActivityID=" + conversionID + "&rnd=" + (Math.round(Math.random() * 1000000));
+         document.body.appendChild(elem);
+         
+         if(typeof(redirURL) != "undefined")
+         {
+            if(typeof(targetWin) == "undefined" || targetWin == "_blank")
+            {
+               window.open(redirURL);
+            }
+            else
+            {
+               
+               var redirFunction = function() {document.location.href = redirURL};
+               setTimeout(redirFunction, 1000);
+            }
+         }
+      }
+      catch(e) {}
+   }
+   
+   
+</script>
+
 
 
 
@@ -43,7 +73,7 @@
 	    <ul>
 		<li><a href="/">Home </a>|</li>
 		<li><a href="/search/">Search </a>|</li>
-		<li><a onclick="pageTracker._trackPageview('/_events/click/link/exit/www.stowe.com/email/comp.php');" href="/email/comp.php" target="_blank">Newsletter</a> |</li>
+		<li><a onclick="pageTracker._trackPageview('/_events/click/link/exit/www.stowe.com/email/comp.php');" href="http://www.stowe.com/email/comp.php" target="_blank">Newsletter</a> |</li>
 		<li><a onclick="pageTracker._trackPageview('/_events/click/link/exit/www.stowked.com');" href="http://www.stowked.com" target="_blank">Get Stowked</a> |</li>
 		<li><a onclick="pageTracker._trackPageview('/_events/click/link/exit/www.gostowe.com');" href="http://www.gostowe.com" target="_blank">GoStowe</a> |</li>
 		<li><a onclick="pageTracker._trackPageview('/_events/click/link/internal/Summer');" href="http://summer.stowe.com" target="_blank">Summer</a></li>
@@ -132,9 +162,6 @@
 </div>
 -->
 
-
-
-
 			<div class="clear"></div>
 		</div><!-- /id=sidenav _wrapper -->
 		
@@ -197,9 +224,9 @@
 		
 		<tr>
         	<td colspan="2" class="dates pad">Arrive<br>
-			<input class="formText" style="width:60px" name="arrivaldate" type="text" value="03/25/2010"><a href="#" onclick="getCalendar('arrivaldate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar" title="Calendar"></a></td>
+			<input class="formText" style="width:60px" name="arrivaldate" type="text" value="12/18/2010"><a href="#" onclick="getCalendar('arrivaldate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar" title="Calendar"></a></td>
 			<td class="dates">Depart<br>
-			<input class="formText" style="width:60px" name="departuredate" type="text" value="03/30/2010"><a href="#" onclick="getCalendar('departuredate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar"></a></td>
+			<input class="formText" style="width:60px" name="departuredate" type="text" value="12/23/2010"><a href="#" onclick="getCalendar('departuredate'); return false;"><img src="/_common/img/icon_calendar.gif" alt="Calendar"></a></td>
 		</tr>
 		<tr>
 			<td class="drops pad">Adults<br>
@@ -333,7 +360,7 @@
 	lw_FieldNames["childcount"] = "Kids";
 
 </script>			
-			<!--form action="/cgi-bin/bulkmail.cgi" method="post" name="listForm" id="listForm" onSubmit="this.email.regex=reEmail;" -->
+                        <!--form action="/cgi-bin/bulkmail.cgi" method="post" name="listForm" id="listForm" onSubmit="this.email.regex=reEmail;" -->
 <form action="/press_room/mailing_list.php" method="post" name="listForm" id="listForm" onsubmit="this.email.regex=reEmail; return verify(this);">
 <input type="hidden" name="MailList[]" value="1">
 <div id="email_wrapper">
@@ -355,7 +382,8 @@
 	FieldNames['email'] = 'Email Address';
 	var reEmail = /^.+\@.+\..+$/
 	
-</script>			
+</script>
+			
 	<div id="widget_nav">
 	
 	
@@ -369,8 +397,8 @@
 </div>
 	
 	
-		<div id="reserve_lessons"><a href="/equipment/register/" onmouseout="if(document.activeTab != 'reserve_lessons_sub') {MM_swapImgRestore();}" onmouseover="MM_swapImage('reserve_lessons_bot','','/_common/img/button_reserve_lessons_on.jpg',1); void(PromoLinks('reserve_lessons_sub'));"><img src="/_common/img/button_reserve_lessons_off.jpg" alt="Reserve Lessons" id="reserve_lessons_bot" title="Reserve Lessons"></a></div>
-		<div id="reserve_lessons_sub" class="subitem" style="display:none;">Save time and reserve lessons now!<br><a href="/equipment/register/">Read More</a>
+		<div id="ski_snwbrd_lessons"><a href="/equipment/lessons/" onmouseout="if(document.activeTab != 'ski_snwbrd_lessons_sub') {MM_swapImgRestore();}" onmouseover="MM_swapImage('ski_snwbrd_lessons_bot','','/_common/img/button_ski_snwbrd_lessons_on.jpg',1); void(PromoLinks('ski_snwbrd_lessons_sub'));"><img src="/_common/img/button_ski_snwbrd_lessons_off.jpg" alt="Ski &amp; Snowboard Lessons" id="ski_snwbrd_lessons_bot" title="Ski &amp; Snowboard Lessons"></a></div>
+		<div id="ski_snwbrd_lessons_sub" class="subitem" style="display:none;">75 years of experience and passion…<br><a href="/equipment/lessons/">Read More</a>
 </div>
 	
 		
@@ -393,8 +421,8 @@ function PromoLinks(tabs){
 							document.getElementById('vacation_rewards_sub').style.display = 'none';
 				MM_swapImage('vacation_rewards_bot','','/_common/img/button_vacation_rewards_off.jpg',1);
 					
-							document.getElementById('reserve_lessons_sub').style.display = 'none';
-				MM_swapImage('reserve_lessons_bot','','/_common/img/button_reserve_lessons_off.jpg',1);
+							document.getElementById('ski_snwbrd_lessons_sub').style.display = 'none';
+				MM_swapImage('ski_snwbrd_lessons_bot','','/_common/img/button_ski_snwbrd_lessons_off.jpg',1);
 					
 					
 		}
@@ -407,13 +435,13 @@ function PromoLinks(tabs){
 							document.getElementById('vacation_rewards_sub').style.display = 'block';
 				MM_swapImage('vacation_rewards_bot','','/_common/img/button_vacation_rewards_on.jpg',1);
 					
-							document.getElementById('reserve_lessons_sub').style.display = 'none';
-				MM_swapImage('reserve_lessons_bot','','/_common/img/button_reserve_lessons_off.jpg',1);
+							document.getElementById('ski_snwbrd_lessons_sub').style.display = 'none';
+				MM_swapImage('ski_snwbrd_lessons_bot','','/_common/img/button_ski_snwbrd_lessons_off.jpg',1);
 					
 					
 		}
 		
-		if(tabs=='reserve_lessons_sub') {
+		if(tabs=='ski_snwbrd_lessons_sub') {
 		
 							document.getElementById('buy_tickets_sub').style.display = 'none';
 				MM_swapImage('buy_tickets_bot','','/_common/img/button_buy_tickets_off.jpg',1);
@@ -421,8 +449,8 @@ function PromoLinks(tabs){
 							document.getElementById('vacation_rewards_sub').style.display = 'none';
 				MM_swapImage('vacation_rewards_bot','','/_common/img/button_vacation_rewards_off.jpg',1);
 					
-							document.getElementById('reserve_lessons_sub').style.display = 'block';
-				MM_swapImage('reserve_lessons_bot','','/_common/img/button_reserve_lessons_on.jpg',1);
+							document.getElementById('ski_snwbrd_lessons_sub').style.display = 'block';
+				MM_swapImage('ski_snwbrd_lessons_bot','','/_common/img/button_ski_snwbrd_lessons_on.jpg',1);
 					
 					
 		}
@@ -444,7 +472,7 @@ function PromoLinks(tabs){
 <div class="clear"></div>
 	
 	<div id="footer">
-				<p style="float:right;"><a href="http://www.facebook.com/stowemountainresort" target="_blank"><img src="/_common/img/facebook.gif" width="29" height="29" border="0"></a><a href="http://www.youtube.com/user/StoweMountain" target="_blank"><img src="/_common/img/youtube.gif" width="32" height="29" border="0"></a><a href="http://twitter.com/stowemtresort" target="_blank"><img src="/_common/img/twitter.gif" width="32" height="29" border="0"></a></p>
+				<p style="float:right;"><a href="http://www.facebook.com/stowemountainresort" target="_blank"><img src="/_common/img/facebook.gif" width="29" height="29" border="0"></a><a href="http://www.youtube.com/user/StoweMountain" target="_blank"><img src="/_common/img/youtube.gif" width="32" height="29" border="0"></a><a href="http://twitter.com/stowemtresort" target="_blank"><img src="/_common/img/twitter.gif" width="32" height="29" border="0"></a><a href="http://www.stowemtresort.blogspot.com/" target="_blank"><img src="/_common/img/blogspot.gif" width="32" height="29" border="0"></a></p>
 		<div class="clear"></div>
 		<ul id="foot_nav">
 		<li><a href="/home/about/">About Us</a></li>
@@ -453,7 +481,8 @@ function PromoLinks(tabs){
 		<li> | <a href="/home/sitemap.php">Site Map</a></li>
 		<li> | <a href="/home/about/privacy/">Privacy Policy</a></li>
 		<li> | <a href="/home/contact/">Contact Us</a></li>
-		<li> | <a href="/mobile/">Mobile Site</a></li>		
+				<li> | <a href="/mobile/">Mobile Site</a></li>		
+				
 		</ul>
 		
 		<div class="clear"></div>
