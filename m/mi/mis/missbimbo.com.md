@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missbimbo.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430191134id_/http%3A//www.missbimbo.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missbimbo.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219204607id_/http%3A//missbimbo.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - MissBimbo.com
+# Privacy Policy - missbimbo.com
 
 Blouzar Ltd and Missbimbo.com do not collect and keep any personal information online from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information online from children under the age of 13 without consent of a parent or legal guardian, except in limited circumstances authorized by law and described in this policy. Please review the information below to familiarize yourself with our policies on website privacy, so that you can take full advantage of all the fun activities available at our sites for you and your family. By using this site you agree to the transfer, collection, processing and use of data by this site. 
 
