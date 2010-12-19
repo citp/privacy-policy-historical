@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413102553id_/http%3A//www.pingler.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219223957id_/http%3A//pingler.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Blog and Ping Tool - Use Pingler.com to Drive Traffic your Blogs and Websites
-
-[](https://web.archive.org/account/account.php) A basic premium account allows you to store the details of 25 websites in your account. These sites will be automatically pinged every three days. A premium account not only saves you the hassle of having to ping each of your sites manually, it ensures that pinging is performed frequently and in a timely manner. 
-
-[Sign up today](https://web.archive.org/account/account.php) to our basic package price of $2.99 / month and enjoy the best pinging site on the net. We offer different packages to suit your needs and right up to 500 websites!
-
-## Privacy Policy
 
 We respect your privacy and are committed to safeguarding your privacy while online at pingler.com. The following discloses the information gathering and dissemination practices for pingler.com. 
 
@@ -52,4 +46,5 @@ pingler.com uses outside ad companies to display ads, such as Google Adsense. Th
 
 ### Links to Advertisers and Affiliate Companies Privacy Policies
 
-[Google's privacy policy](http://www.google.com/privacypolicy.html)
+[Google's privacy policy](http://www.google.com/privacypolicy.html)  
+
