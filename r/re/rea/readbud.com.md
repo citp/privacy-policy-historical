@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readbud.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226122319id_/http%3A//www.readbud.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readbud.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219094656id_/http%3A//www.readbud.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - readbud - Get paid to read and rate articles!
 
@@ -9,6 +9,10 @@ As per our [Terms and Conditions](https://web.archive.org/Terms-and-Conditions),
 A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates unless the user wishes to store the cookie for auto-logging purposes which is at sole discretion of the user. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. In order to use our service as a member, cookies must be enabled. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 ### Log Files
 
