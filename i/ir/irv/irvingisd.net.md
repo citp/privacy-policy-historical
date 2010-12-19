@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irvingisd.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628230041id_/http%3A//www.irvingisd.net/PrivacyNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irvingisd.net privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219154728id_/http%3A//irvingisd.net/PrivacyNotice.htm) for the most accurate reproduction.*
 
 # Privacy Notice (Records and Data Confidentiality Agreement) - Irving ISD - Irving, Texas
 
