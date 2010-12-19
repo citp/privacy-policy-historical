@@ -1,32 +1,85 @@
-> *The following text is extracted and transformed from the fileaward.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172257id_/http%3A//www.fileaward.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileaward.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219035439id_/http%3A//fileaward.com/privacy.html) for the most accurate reproduction.*
 
-# Free Downloads
+# Privacy Policy
 
-|  |  | | 
+This document was last updated on October 02, 2010.
 
-> **Log Files**  
->  Like most standard website servers, we use log files.  These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp to analyze trends, administer the site and track user’s movement in the aggregate.  IP addresses, etc. are not linked to personally identifiable information. From time to time, we may ask users to provide an e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. 
-> 
-> **Cookies**  
->  FileAward may use cookies to ease storing and tracking your preferences.   
->  A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.   
->  FileAward allows other companies, called third-party ad servers or ad networks, to serve advertisements within the FileAward Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the FileAward Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.  
->  FileAward does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
-> 
-> **Security**  
->  This Website takes every precaution to protect our users’ information. When users submit sensitive information via the website, their information is protected both online and off-line. 
-> 
-> When our registration/order form asks users to enter sensitive information, that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked or open, when users are just "surfing".
-> 
-> **Links  
->  **This web site contains links to other sites. Please be aware that we FileAward.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-> 
-> **Contacting the Web Site**  
->  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](http://www.fileaward.com/contactus.html).
+* * *
 
-|   
----|---|---  
-| |   
-  
-| |  © 2007 All rights reserved |   
----|---|---|---
+## Section 1. Acknowledgement and Acceptance of Terms.
+
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+
+* * *
+
+## Section 2. Participating Merchant Policies
+
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+
+* * *
+
+## Section 3. Information We Collect and How We Use It
+
+Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
+
+* * *
+
+## a. Web Server Logs
+
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
+
+
+
+* * *
+
+## b. Use of Cookies
+
+This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+
+* * *
+
+## c. Use of Personal Information
+
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+
+* * *
+
+  * To fulfill your service requests for services,
+  * To protect ourselves from liability,
+  * To respond to legal process or comply with law, or
+  * In connection with a merger, acquisition, or liquidation of the company.
+
+
+
+* * *
+
+Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
+
+* * *
+
+## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
+
+This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
+
+* * *
+
+## 5\. Accessing Web Account Information
+
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
+
+* * *
+
+## 6\. Changes to this Statement
+
+We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+* * *
