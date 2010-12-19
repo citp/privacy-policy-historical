@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613055841id_/http%3A//www.psoriasis.org/NetCommunity/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219203720id_/http%3A//psoriasis.org/NetCommunity/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # National Psoriasis Foundation - Privacy Policy
 
+  
+
+
 ## Privacy policy
 
-This site is operated and maintained by:  
-National Psoriasis Foundation  
-6600 SW 92nd Ave., Suite 300  
+This site is operated and maintained by:
+
+The National Psoriasis Foundation  
+6600 SW 92nd Ave.,  
+Suite 300  
 Portland, OR 97223-7195  
 USA
 
@@ -24,7 +29,7 @@ We collect information such as your name, postal address and e-mail address when
 
 ### Opting Out of Communications
 
-We send out electronic and other communications to National Psoriasis Foundation site visitors to highlight news, information and opportunities available from the National Psoriasis Foundation. You can elect not to receive communications from us, either by updating the communications preferences on your [My Account page](https://web.archive.org/netcommunity/myaccount) or by contacting us at [privacy@psoriasis.org](mailto:privacy@psoriasis.org). In addition, all National Psoriasis Foundation e-mail communications have easy-to-follow unsubscribe instructions at the bottom of each e-mail.
+We send out electronic and other communications to National Psoriasis Foundation site visitors to highlight news, information and opportunities available from the National Psoriasis Foundation. You can elect not to receive communications from us, either by updating the communications preferences on your [My Account ](http://psoriasis.org/NetCommunity/Page.aspx?pid=850)page or by contacting us at [privacy@psoriasis.org](mailto:privacy@psoriasis.org). In addition, all National Psoriasis Foundation e-mail communications have easy-to-follow unsubscribe instructions at the bottom of each e-mail.
 
 ### Use of Cookies
 
@@ -40,18 +45,42 @@ We will also share such personal information when we believe release is appropri
 
 ### Children's Privacy Online
 
-Protecting the privacy of children is especially important. For that reason, we adhere to the Federal Trade Commission's 1998 [Children's Online Privacy Protection Act](http://www.onguardonline.gov/topics/kids-privacy.aspx) (COPPA). As a result, we require parental consent before children under 13 can access certain parts of the National Psoriasis Foundation website. We also provide parents reasonable access to information collected from their children and the ability to correct or remove that information.
+National Psoriasis Foundation ("NPF") produces websites, including, PsoMe.org, as well as the "Youth" section of NPF’s website (collectively, hereinafter, "Website,"), that are intended for use by children, including those under the age of thirteen. Protecting the privacy of children is especially important, and for this reason we have adopted certain policies and procedures to help do so.
 
-The "Youth" section of the National Psoriasis Foundation website includes several pages where children are directly asked to provide certain personal information. This information is limited to:
-
-  * First name, age, country of residence and e-mail address (on pages where children submit a question); 
-  * First name only and e-mail address (on specific message boards for kids, youth and teens; e-mail address is optional). 
-
-
-
-The National Psoriasis Foundation uses the information to help provide the most appropriate and thorough answer to questions, or in the case of the message boards, to help children identify themselves to other message board participants. E-mail addresses will only be used when necessary to seek more detailed information in order to answer a submitted question, when it is appropriate for providing a private answer to a question or when it is necessary to make direct contact because of a message post on message boards.
-
-Information about children is not collected for any other purposes, including marketing to children or disclosure to a third party.
+> 1\. The Information We Collect  
+> As described in this Privacy Policy, we directly collect personally identifiable information from a child when a user submits a form through our Website. This information may include the child's name, age, email address, gender, address and country of residence. We may also request a user name and email address so that we may respond to an inquiry.
+> 
+> NPF uses personally identifiable information to help provide the most appropriate and thorough answers to questions. For example, NPF may use an email address to seek more detailed information in order to answer a submitted question or to provide a private answer to a question. Typically, NPF will not condition the child’s participation in any activity on the Website on the disclosure of any more information than is reasonably necessary to participate.
+> 
+> Additionally, when visitors come to our site, we may passively collect certain non-personally identifiable computer information. This information may include the user’s: type of computer operating system (e.g., Windows 7 or Mac OS X Snow Leopard), the user's IP Address, the user’s web browser (e.g., Mozilla Firefox or Internet Explorer), the frequency with which users visit various parts of our sites, and information regarding the user’s Internet service provider. We do this in order to make our sites more interesting and useful to you and for various purposes related to NPF. We may collect this non-personally identifiable information through the use of software technologies such as unique identifiers or "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. You can choose to have your computer warn you each time a cookie is sent, or you can choose to "turn off" the acceptance of cookies from any website. If you turn cookies off, you won't have access to many features that make your Web experience smoother, and some of our services may not function properly.
+> 
+> 2\. How We Use, Disclose, and Store the Information We Collect  
+> In addition to the purposes described in Section 1, we may actively collect and use personally identifiable information to track usage and to ensure users are following the site's Terms of Use. In addition, we may use personally identifiable information to ban a user temporarily or permanently from the Website if that user engages in inappropriate conduct on the site.
+> 
+> We may disclose information where we are required to do so by law, for example, in response to a court order or a subpoena, or for other judicial process. We may also disclose information reasonably necessary to protect the safety of a child or a participant on this Website. We may disclose information to service providers or other affiliated companies who provide support for the operations of our website and who we believe do not use or disclose the information for any other purpose. To the extent permitted by applicable law, we also may disclose personally identifiable information in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using our website, to protect the security or integrity of our website, or enable us to take precautions against liability. When possible, we will use reasonable methods of providing parents notice of this disclosure.
+> 
+> 3\. Collection of Information for Third-Party Sites and Sponsors  
+> Information about children is not collected for marketing purposes, and it is not disclosed to third parties. Nor do we allow third-party companies to advertise to our users. We intend to keep this site free from direct advertising.
+> 
+> 4\. Security  
+> We have established and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children.
+> 
+> 5\. Contact Us  
+> If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to kids@psoriasis.org or write us: 
+> 
+> PsoMe  
+> c/o National Psoriasis Foundation  
+> Attention: Outreach Department  
+> 6600 SW 92nd Ave., Suite 300  
+> Portland, OR 97223-7195  
+> USA
+> 
+> When contacting us, please be sure to provide us with your email address and a telephone number where we can reach you.
+> 
+> Unless you so request, any personal information that you provide in communications to the above e-mail and postal mail addresses will not be used to send you promotional materials.
+> 
+> 6\. Effective Date   
+> The privacy policy set out above is effective as of August 1, 2010, and applies to all information previously obtained by NPF. We reserve the right to change the privacy policy at our sole discretion. 
 
 ### Security
 
@@ -76,8 +105,7 @@ Portland, OR 97223-7195
 
 Phone: 503.244.7404 or 800.723.9166  
 Fax: 503.245.0626  
-E-mail: [privacy@psoriasis.org](mailto:privacy@psoriasis.org)
-
-Our regular business hours are Monday through Friday, 8:00 a.m. to 5:00 p.m. Pacific Time.
-
-Revised 7.2.09
+E-mail: [privacy@psoriasis.org](mailto:privacy@psoriasis.org)  
+Our regular business hours are Monday through Friday, 8:00 a.m. to 5:00 p.m. Pacific Time.  
+  
+Revised 9.15.10
