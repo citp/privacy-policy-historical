@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maritime-executive.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205603id_/http%3A//maritime-executive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritime-executive.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219152637id_/http%3A//maritime-executive.com/privacypolicy) for the most accurate reproduction.*
 
-# The Maritime Executive Magazine :: /privacypolicy/ ::
+# The Maritime Executive Magazine :: /privacypolicy/
 
 **Our Commitment to Privacy**
 
