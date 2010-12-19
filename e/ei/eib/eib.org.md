@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eib.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620004011id_/http%3A//www.eib.org/infocentre/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eib.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219072541id_/http%3A//www.eib.org/infocentre/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and data protection
 
 The European Investment Bank is committed to user privacy.
 
-The policy on "protection of individuals with regard to the processing of personal data by the Community institutions" is based on Regulation (EC) N° 45/2001 Pdf [234 KB] of the European Parliament and of the Council of 18 December 2000.
+The policy on "protection of individuals with regard to the processing of personal data by the Community institutions" is based on Regulation (EC) N° 45/2001 of the European Parliament and of the Council of 18 December 2000.
 
 This general policy covers the European Union's family of institutional Web Sites, within the eu domain and including those of the European Investment Bank.
 
@@ -16,7 +16,7 @@ Web Sites that require such information treat it according to the policy describ
 
   * For each specific e-service, a controller determines the purposes and means of the processing of personal data and ensures conformity of the specific e-service with the privacy policy;
   * Within each Institution, a Data Protection Officer ensures that the provisions of the Regulation are applied and advises controllers on fulfilling their obligations (see art. 24 of the Regulation);
-  * For all the Institutions, the European Data Protection Supervisor Pdf [98 KB] will act as an independent supervisory authority (see art. 41 to 45 of the Regulation).
+  * For all the Institutions, the European Data Protection Supervisor will act as an independent supervisory authority (see art. 41 to 45 of the Regulation).
 
 
 
