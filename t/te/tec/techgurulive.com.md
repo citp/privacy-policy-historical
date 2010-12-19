@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the techgurulive.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231042308id_/http%3A//techgurulive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgurulive.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219084058id_/http%3A//techgurulive.com/privacy) for the most accurate reproduction.*
 
-# None
+# privacy
 
-[](http://techgurulive.com/directory)   
-[](http://techgurulive.com/) [](http://techgurulive.com/categories/) [](http://techgurulive.com/archives/) [](http://techgurulive.com/forum/) [](http://techgurulive.com/directory/) [](http://techgurulive.com/subscribe/) [](http://techgurulive.com/about-us/)   
-
-
-This is the web site of **TechguruLive**. 
+This is the web site of **TechguruLive**.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -27,8 +23,4 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .
 
-Consumers can access this information by e-mail us at the above address. 
-
-[About Us](http://techgurulive.com/about-us/) | [Contact Us](http://techgurulive.com/about-us/) | [Privacy Policy](http://techgurulive.com/privacy.php/) | [Forums ](http://techgurulive.com/forum/) | [Sitemap](http://techgurulive.com/archives/) | [Directory](http://techgurulive.com/directory)
-
-Copyright © 2008 - 2009 Techgurulive
+Consumers can access this information by e-mail us at the above address.
