@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stocktwits.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529163928id_/http%3A//stocktwits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktwits.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219070516id_/http%3A//stocktwits.com/privacy) for the most accurate reproduction.*
 
-# StockTwits® - Share Investing Ideas and Learn from Professional Investors
+# StockTwits Privacy Policy
 
 StockTwits® provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.StockTwits.com ("Site" ), or collected through our social networking service, including via [SMS, WAP and Instant Messaging] (together with the Site, the "Service" ). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
