@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721143505id_/http%3A//www.onstreammedia.com/portal/common/article/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219080419id_/http%3A//onstreammedia.com/privacy.php) for the most accurate reproduction.*
 
-# Onstream Media Corporation Internet Video Broadcasting & Video Conferencing Software
+# Onstream Media :: Privacy Policy
 
 **COLLECTION OF PERSONAL INFORMATION**  
 In general, you can visit us on the internet without telling us who you are or giving us personal information. There are times when we may need information from you, for instance: to process an information request or order, to correspond, to provide a subscription or in connection with a job application. We may supplement this information to complete a transaction or to provide a better service.
