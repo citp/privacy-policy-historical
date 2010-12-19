@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mrintech.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128002338id_/http%3A//mrintech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrintech.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219092151id_/http%3A//mrintech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MrinTech
+
+## Privacy
 
 ### **Privacy Policy for MrinTech.com**
 
@@ -41,7 +43,7 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 **MrinTech.com** has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **MrinTech.com** ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **MrinTech.com** ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
@@ -49,4 +51,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 When you make a comment or contact us using the [**Contact Page**](http://mrintech.com/contact), your E-mail Address  is required. Please be assured that your E-mail address will only be used for responding to your E-mail or Comment and will never be made publicly available. We will never sell your email address to any third parties, ever.
 
-**Feel free to contact the Blog Author using the[Contact Page](https://web.archive.org/web/20100128002338id_/http%3A//contact), for any other query/information.**
+**Feel free to contact the Blog Author using the[Contact Page](https://web.archive.org/web/20101219092151id_/http%3A//contact), for any other query/information.**
