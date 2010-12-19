@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314135158id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219085234id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Gather
 
