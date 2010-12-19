@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322022525id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219101109id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
 # Jobsite Privacy Statement
 
-**Jobsite has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all web sites operated by Jobsite UK (Worldwide) Ltd.**
+**Jobsite has created this privacy statement in order to demonstrate our firm commitment to privacy. At Jobsite and our Associated Companies, we take your privacy seriously. Please be assured that we will safeguard any information that you provide. We will never release your personal details to other companies without your express permission. The following discloses our information gathering and dissemination practices for all web sites operated by Jobsite UK (Worldwide) Ltd.**
 
 ### The Protection of Your CV
 
@@ -22,7 +22,7 @@ The Jobs by Email service matches a job seekers requirements for employment with
 
 ### Email-a-Friend
 
-Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email-a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose than the fulfilment of this service. 
+Our Email-a-Friend service makes it easy for our users to recommend jobs to friends or relatives. Simply complete the Email-a-Friend form and we will send an email to your specified recipient(s) containing a link to the selected job. We will not use your recipient's details for any other purpose than the fulfillment of this service. 
 
 ### Application Forms and Psychometric Tests
 
@@ -56,7 +56,7 @@ Demographic and profile data is also collected at our site. We use this data to 
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
-We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please [contact our Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html). 
+We may use your personal data to contact you from time to time and provide you with marketing information about us, other companies within our parent group (www.dmgt.co.uk) or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information you can opt-out of any unwanted emails or alternatively please [contact our Customer Support Team using our online form](https://web.archive.org/home/help_candidate.html). 
 
 ### Security
 
