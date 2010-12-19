@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivgstores.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314140213id_/http%3A//www.ivgstores.com/Pages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivgstores.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219082945id_/http%3A//www.ivgstores.com/Pages/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This site mechanically receives and records information on our servers from your
 This site contains links to websites that are not part of the ivgStores family, and ivgStores is not responsible for the privacy practices or the content of these sites. 
 
 **Address and Contact Information**  
-We collect the contact information you provide to us, so that you can order products and services on our sites including your name, address, email address, phone number and financial information. Information gathered is used for the following purposes: to track program participation; to customize the content you see; to carry out your requests for products and services; and to contact you for billing or other related matters regarding an order you placed. 
+We collect the contact information you provide to us, so that you can order products and services on our sites including your name, address, email address, phone number and financial information. Information gathered is used for the following purposes: to track program participation; to customize the content you see; to carry out your requests for products and services; and to contact you for billing or other related matters regarding an order you placed. We may share your address and contact information with our suppliers and fulfillment providers in order to provide you with the products and/or services you requested. 
 
 **Business Relationship with Our Customers**  
 Once you've ordered from this or other ivgStores sites, we enter into a business relationship, which may require direct communication about your order. We respect this relationship, and will only contact you for promotions not related to your order(s) when you give us p ermission (opt in) to do so. Your permission can be revoked at any time if you choose to Opt Out. The demographic and profile data collected is used to tailor your experiences at our site, to offer content that we think you might be interested in, and to display the content according to your preferences. Customer information is a confidentially protected asset of ivgStores, LLC. It may be transferred to another company as part of an acquisition of ivgStores but would remain protected as described here. 
