@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codango.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619085606id_/http%3A//www.codango.com/cdg/fnc/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codango.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219115155id_/http%3A//www.codango.com/cdg/fnc/legal/privacy) for the most accurate reproduction.*
 
 # Codango: Legal Terms
 
