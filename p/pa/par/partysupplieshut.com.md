@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partysupplieshut.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102115523id_/http%3A//partysupplieshut.com/kids/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partysupplieshut.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219032213id_/http%3A//partysupplieshut.com/kids/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,13 +16,11 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on PartySuppliesHut.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. Give you’re soon to be husband the best gift ever. Surprised him with a scrap books with your initials and wedding date on the very top of the scrap book, leave extra room at the very end for upcoming wedding pictures. This will amaze him as you put much of your time to get it together and to look perfect.
 
 Do enjoy the season with free party games:  
-[Chinese New Year Party Games](http://partysupplieshut.com/chinese-new-year/chinese-new-year-party-games.htm "Chinese New Year Party Games")  
-[Groundhog Day Party Games](http://partysupplieshut.com/groundhog-day/groundhog-day-party-games.htm "Groundhog Day Party Games")  
-[Mardi Gras Party Games](http://partysupplieshut.com/mardi-gras/mardi-gras-party-games.htm "Mardi Gras Party Games")  
-[Martin Luther King Party Games](http://partysupplieshut.com/martin-luther-king/martin-luther-king-party-games.htm "Martin Luther King Party Games")  
-[Super Bowl Party Games](http://partysupplieshut.com/super-bowl/super-bowl-party-games.htm "Super Bowl Party Games")  
-[Oscar Award Party Games](http://partysupplieshut.com/oscar/oscar-party-games.htm "Oscar Award Party Games")  
-[Valentines Day Party Games](http://partysupplieshut.com/valentines-day/valentines-day-party-games.htm "Valentines Day Party Games")
+[Chanukah Party Games](http://partysupplieshut.com/chanukah/chanukah-party-games.htm "Chanukah Party Games")  
+[Christmas Party Games](http://partysupplieshut.com/christmas/christmas-party-games.htm "Christmas Party Games")  
+[Hanukkah Party Games](http://partysupplieshut.com/hanukkah/hanukkah-party-games.htm "Hanukkah Party Games")  
+[Kwanzaa Party Games](http://partysupplieshut.com/kwanzaa/kwanzaa-party-games.htm "Kwanzaa Party Games")  
+[New Years Eve Party Games](http://partysupplieshut.com/new-years-eve/new-years-eve-party-games.htm "New Years Eve Party Games")
