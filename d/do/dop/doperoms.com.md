@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528081145id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220054503id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Doperoms.com
+# DopeROMs
 
 [](http://www.doperoms.com/ "Dope Roms")
 
@@ -14,7 +14,9 @@ Advertisement
   
 ---  
   
-During the process of delivering our service to you, DopeROMs.com does not collect any personally identifiable information about you such as name, address, phone number. However, DopeROMs.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by DopeROMs.com is used for the purpose of demographics. 
+During the process of delivering our service to you, DopeROMs.com does not collect any personally identifiable information about you such as name, address, phone number. However, DopeROMs.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). The information collected by DopeROMs.com is used for the purpose of demographics. 
 
 In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, DopeROMs.com may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, DopeROMs.com may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
 
@@ -28,4 +30,4 @@ Doperoms.com does not guarantee any files linked on doperoms.com are clean and v
 [DMCA Policy](https://web.archive.org/dmca.php) \- [Advertise on DopeRoms](https://web.archive.org/advertise.php) \- [Site Map](https://web.archive.org/sitemap.php)
 
 Copyright DopeROMS.com 2010 All Rights Reserved | Content Copyright Respective Owners   
-Compression: No | Cache: On | Database: On | 2 Queries Used | 0.35166 Seconds.
+Server 2 | Compression: No | Cache: On | Database: On | 2 Queries Used | 0.14574 Seconds.
