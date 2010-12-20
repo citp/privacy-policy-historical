@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619101247id_/http%3A//www.basementsystems.com/company/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220053934id_/http%3A//www.basementsystems.com/company/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement by Basement Systems for Customers and Site Visitors
 
@@ -28,5 +28,3 @@ Our site may use forms that require users to give us contact information (like t
 This site contains links to other sites. Basement Systems Inc. is not responsible for the privacy practices or the content of such Web sites. 
 
 To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers through cooperative arrangements with providers that specialize in operating such services. And, of course, our sites include links to plenty of other websites whose privacy policies we don't control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
-
-Back to previous page 
