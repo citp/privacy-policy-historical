@@ -1,20 +1,36 @@
-<!--The following is the downloaded HTML source of the meredosto.com privacy policy that was archived on 2010-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100514023413id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meredosto.com privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220160916id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="robots" content="noodp,noydir">
-    <meta name="description" content=" Meredosto helps you connect and share with dosto and people. People utilise meredosto to keep in touch with friends, upload photos, send wires and post blogs, and know more about people.">
+	<meta name="description" content="Meredosto is Free Social Networking, helps you connect and share with dosto and people. Mere dosto or    Meredosto, means My friends or Myfriends. People and dosto use meredosto to find old friends &amp; connect with new, share favourite photos, Message friends(in private), share views &amp; comments via blogs. Anyone can join, register for free. ">
 	<title>Meredosto</title>
-
 	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
 	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery.form.js"></script>
-	<script type="text/javascript" src="http://meredosto.com/_css/js.php?lastcache=1273761146&amp;js=initialise_elgg&amp;viewtype=default"></script>
+	<script type="text/javascript" src="http://meredosto.com/_css/js.php?lastcache=1292832174&amp;js=initialise_elgg&amp;viewtype=default"></script>
 	<!-- include the default css file -->
-	<link rel="stylesheet" href="http://meredosto.com/_css/css.css?lastcache=1273761146&amp;viewtype=default" type="text/css">
+	<link rel="stylesheet" href="http://meredosto.com/_css/css.css?lastcache=1292832174&amp;viewtype=default" type="text/css">
 
-	
+	<meta name="keywords" content="meredosto">
+<meta name="keywords" content="videos">
+<meta name="keywords" content="music">
+<meta name="keywords" content="make friends">
+<meta name="keywords" content="photo albums">
+<meta name="keywords" content="voting poll">
+<meta name="keywords" content="submit blog">
+<meta name="keywords" content="timeline">
+<meta name="keywords" content="community">
+<meta name="keywords" content="friends">
+<meta name="keywords" content="love">
+<meta name="keywords" content="chat">
+<meta name="keywords" content="room">
+<meta name="keywords" content="chatroom">
+<meta name="keywords" content="chatrooms">
+<meta name="keywords" content="">
+
 		
 		<script type="text/javascript">
 		 jQuery(document).ready(function($) {
@@ -108,52 +124,221 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 }
 }
 
-</script><script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/default.js"></script>	<script type="text/javascript">
+</script>
+
+	
+
+	<meta name="river_comment_release" content="0.2.5">
+	<meta name="river_comment_version" content="2010071201">	
+
+	<meta name="likes_comment_release" content="0.3.3">
+	<meta name="likes_comment_version" content="2010071201">
+<script type="text/javascript" src="http://meredosto.com/mod/chat/chat.js"></script>
+
+	<script type="text/javascript">
+	    function simpleusermanagementSearchInvalidUsers() {
+            var criteria = jQuery("#search_criteria").attr("value");
+			var data = "search_criteria=" + criteria + "&__elgg_ts=1292861367&__elgg_token=d4c9994f7b25976fe919725b39e66e14";
+			jQuery.ajax({
+				url: "http://meredosto.com/mod/simpleusermanagement/actions/search_for_disabled_users.php",
+			    type: "POST",
+			    data: data,
+				success: function (data) {
+					jQuery("#simpleusermanagement_disabled_users_content").empty();
+					jQuery("#simpleusermanagement_disabled_users_content").append(data);
+				},
+				error: function() {}
+			});
+		}
+
+	    function simpleusermanagementDisplayPopup(mask_id, id) {
+			var maskHeight = jQuery(document).height();
+			var maskWidth = jQuery(document).width();
+
+			jQuery(mask_id).css({'width':maskWidth,'height':maskHeight});
+
+			jQuery(mask_id).fadeIn(1000);
+			jQuery(mask_id).fadeTo("slow",0.8);
+
+			var windowHeight = jQuery(window).height();
+			var windowWidth = jQuery(window).width();
+
+			jQuery(id).css('top', windowHeight/2-jQuery(id).height()/2);
+			jQuery(id).css('left', windowWidth/2-jQuery(id).width()/2);
+
+			jQuery(id).fadeIn(1000);
+		}
+
+		function simpleusermanagementShowEmailChange(guid, email) {
+			simpleusermanagementDisplayPopup("#simpleusermanagement_email_mask", "#simpleusermanagement_email_form");
+			jQuery("input[name='new_email']").val(email);
+			jQuery("input[name='user_guid']").val(guid);
+		}
+
+		function simpleusermanagementCloseEmailChange() {
+			jQuery("#simpleusermanagement_email_mask").hide();
+			jQuery("#simpleusermanagement_email_form").hide();
+
+			jQuery("input[name='new_email']").val('');
+			jQuery("input[name='user_guid']").val('');
+		}
+    </script>
+<script type="text/javascript">
+  var videoplay_page_url = 'http://meredosto.com/pg/videos/playvideo/';
+  var video_loading_image = 'http://meredosto.com/mod/izap_videos/_graphics/ajax-loader.gif';
+  var play_image = 'http://meredosto.com/mod/izap_videos/_graphics/play_button.png';
+
+  $(document).ready(function() {
+            $(".izap_ajaxed_thumb").live('click', function() {
+          $("#load_video_" + this.rel).attr('style', '');
+        $("#load_video_" + this.rel).html('<img src="'+video_loading_image+'" />');
+        $("#load_video_" + this.rel).load(videoplay_page_url + this.rel);
+        return false;
+      });
+    });
+</script>
+<script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/default.js"></script>
+<script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/jquery.expander.js"></script><script language="javascript" type="text/javascript" src="http://meredosto.com/mod/mood/vendors/msdropdown/js/jquery.dd.js"></script>
+<link rel="stylesheet" type="text/css" href="http://meredosto.com/mod/mood/vendors/msdropdown/dd.css">
+ 
+    	<script type="text/javascript">
 		jQuery(document).ready(function($) {
 		});
 	</script>
-	<link rel="stylesheet" href="http://meredosto.com/mod/theme_oldgold/js/jslogin/stylesheets/front.css" media="screen, projection" type="text/css">
-	<script type="text/javascript">
-        $(document).ready(function() {
-
-            $(".signin").click(function(e) {
-                e.preventDefault();
-                $("fieldset#signin_menu").toggle();
-                $(".signin").toggleClass("menu-open");
-            });
-
-            $("fieldset#signin_menu").mouseup(function() {
-                return false
-            });
-            $(document).mouseup(function(e) {
-                if($(e.target).parent("a.signin").length==0) {
-                    $(".signin").removeClass("menu-open");
-                    $("fieldset#signin_menu").hide();
-                }
-            });            
-
-        });
-</script>
 </head>
 
 <body>
+<img src="http://meredosto.com/_graphics/ajax_loader.gif" class="preload">
 
+<div id="elgg_topbar" class="elgg_topbar_loggedout">
+	<div id="elgg_topbar_container_search">
+				<div id="elgg_topbar_container_middle">			
+			<form id="loginform_top" action="http://meredosto.com/action/login" method="POST">
+			<a class="loginbox_top_link" href="http://meredosto.com/">Register</a>
+				<a class="loginbox_top_link" href="http://meredosto.com/account/forgotten_password.php">Lost password</a>
+				<input type="hidden" name="__elgg_token" value="d4c9994f7b25976fe919725b39e66e14"><input type="hidden" name="__elgg_ts" value="1292861367">				<small>email/username</small>
+				<input type="text" name="username" value="" id="username">
+				<small>Password</small>
+				<input type="password" name="password" value="" id="password"> 
+				<input id="login_remember" type="checkbox" value="true" name="persistent">
+				Remember me				<input class="login_button" type="submit" src="" value="Login">
 
+ 				<!-- <a href="http://meredosto.com/account/register.php">register:short</a>--> 
+			</form>
+		</div>
+	</div>
+		</div><!-- /#elgg_topbar -->
+	
+	<div class="clearfloat"></div>
+	
+	
 
-<div id="globalheader_wrapper">
-<div id="layout_header">
+	<script type="text/javascript">
+        // opacity
+        function opacity(element, value) {
+            var value_noie = value / 100;
+            $(element).css('filter', 'alpha(opacity=' + value + ')');
+            $(element).css('-moz-opacity', value_noie);
+            $(element).css('-khtml-opacity', value_noie);
+            $(element).css('opacity',value_noie);
+        }   
+        // center horizontally
+        function centerHoriz(lo_que) {
+            var x = parseFloat($(window).width()) / 2 - parseFloat($(lo_que).width()) / 2;
+            var y = $(window).scrollTop() + $(window).height() / 2 - parseFloat($(lo_que).height()) / 2;
+            x = x + 'px';
+            y = y + 'px';
+            $(lo_que).css({'left': x, 'top': y});
+        }
+        // center vertically
+        function centerVert(lo_que) {
+        	lo_que_height = $(lo_que).height();
+            window_height = $(window).height();
+            document_height = $(document).height();
+            var y = $(window).scrollTop(); //Default value
+            if (window_height > lo_que_height) {
+	            y = $(window).scrollTop() + parseInt(window_height / 2) - parseInt(lo_que_height / 2);
+            } else {
+                //this code fix the problem of infinity scroll
+	            if (y > document_height-lo_que_height) {
+					y = document_height-lo_que_height;
+		        }
+            }            
+            $(lo_que).css({'top': y});
+        }
+		
+        // lightbox
+				function showLB(lb) {
+                    $('#fonLB').css('width', $(window).width() + 'px');
+                    $('#fonLB').css('height', $(document).height() + 'px');
+                    
+                    opacity('#fonLB', 70);
+                    centerHoriz(lb);
+                    centerVert(lb);
+                    
+                    $('#fonLB').fadeIn('normal', function() {$(lb).fadeIn('normal');});
+                }
+                function closeLB() {
+                    $('.lb').fadeOut('normal', function() {$('#fonLB').fadeOut('normal');});
+                }
 
-	<!-- display the page title -->
-	<div id="site_logo">
-		<a href="http://meredosto.com/">
-			<img src="http://meredosto.com/mod/theme_oldgold/graphics/meredosto.jpg" border="0">
-		</a>
+                function clearLBClass() {
+                	$('.lb .lightbox-content').attr('class','lightbox-content');
+                }                
+
+                $(document).ready(function(){
+	                $('#fonLB, .lbHome .cerrar').click(
+	                    function() {	
+	                        closeLB();
+	                        clearLBClass();
+	                        return false;
+	                    }
+	                );
+	                $(window).scroll(
+	                    function() {
+	                        if($('.lb').is(':visible')) {
+	                            centerVert($('.lb'));
+	                        }
+	                    }
+	                );
+                });
+	</script>
+
+	<div id="fonLB">&nbsp;</div>
+	<div class="lb lbHome">
+		<div class="lightbox-content">
+		</div>
+	    <div class="cerrar">X</div>
 	</div>
 	
-</div><!-- /#layout_header -->
-</div><!-- /#globalheader_wrapper -->
+	<div id="globalheader_wrapper">
+	<div id="globalheader">
+		  <!-- 	
+	<div id="login-box">
+	<h2>Log in</h2>
+		<form    action="http://meredosto.com/action/login" method="post" >
+<input type="hidden"  name="__elgg_token"  value="d4c9994f7b25976fe919725b39e66e14" /><input type="hidden"  name="__elgg_ts"  value="1292861367" /><p class="loginbox"><label>Username/Email<br />
+<input type="text"   name="username"  value="" class="login-textarea"/></label><br /><label>Password<br />
+<input type="password"   name="password"  value="" class="login-textarea" /></label><br /><input name=""  type="submit" class="submit_button"  value="Log in"  /> <div id="persistent_login"><label><input type="checkbox" name="persistent" value="true" />Remember me</label></div></p><p class="loginbox"><a href="http://meredosto.com/account/register.php">Register</a> | <a href="http://meredosto.com/account/forgotten_password.php">Lost password</a></p></form>	</div> --> 
+	
+		<div id="site_logo">
+	<a href="http://meredosto.com/">
+			<img src="http://meredosto.com/mod/theme_bhopoo/graphics/meredosto.jpg" border="0">
+		</a>
+	</div>
+
+	</div>
+</div>
+
 <div id="page_container">
 <div id="page_wrapper">
+
+<div id="layout_header">
+<div id="wrapper_header">
+	<!-- display the page title -->
+	
+</div><!-- /#wrapper_header -->
+</div><!-- /#layout_header -->
 <!-- main contents -->
 
 <!-- display any system messages -->
@@ -194,9 +379,257 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 </div><!-- /#layout_canvas -->
 
 
-
 <!-- footer -->
 
+<script type="text/javascript">
+	$(document).ready(function(){
+		lkPrepareItems();
+	})
+	
+	function lkPrepareItems(){
+		//Execute the action
+		$('.river_action_links a.likes_action').unbind('click')
+		$('.river_action_links a.likes_action').click(function(e) {
+			e.stopPropagation();
+			readyToAnnotate(this);
+			return false;
+		});
+
+		//Show a lightbox
+		$('.likes a.who_else').unbind('click');
+		$('.likes a.who_else').click(function(e) {
+			e.stopPropagation();
+			showWhoElse(this);
+			return false;
+		});
+	}
+
+	function readyToAnnotate(oObject) {
+		var refToUpdate = $(oObject).parent().attr('rel'); 
+		var oContainerLikes = $(oObject).parents('.river_item').find('.' + refToUpdate);
+		//var oContainerButton = $('#' + refToUpdate).parents('.river_item').find('.likes_action_container');
+		oContainerButton = $(oObject).parent();
+		var sUrl = "http://meredosto.com/mod/likes/endpoint/ping.php";
+		//var sCallBack = nextToAnnotate(refToUpdate);
+		//executeAction(oObject, oContainer, sUrl, sCallBack);
+
+		var sQueryString = extractQueryString(oObject)
+		var sActionFile = extractActionFile(oObject);
+
+		oLinkButton = oContainerButton.find('a');
+		//console.log(oLinkButton.html());
+		//var oldColor = oLinkButton.css('color');
+		//oLinkButton.css('color', '#ccc');
+		oContainerButton.html("· <span class='likes_loading'>&nbsp;</span>");
+
+//		if(oLinkButton.hasClass('.working')) {
+//			console.log('si tiene');
+//			return false;
+//		}
+
+		$.getJSON(sUrl + sQueryString + sActionFile, function(data){
+			//oLinkButton.addClass('working');
+			oContainerLikes.html(data.status);
+			//oContainerLikes.append(data.button)
+			oContainerButton.html(data.button);
+
+//			console.log(data);
+
+			lkPrepareItems();
+
+			//oLinkButton.css('color', oldColor);
+			
+			//nextToAnnotate(refToUpdate);
+			//console.log(data);
+			//console.log(data['status']);
+		});
+		
+	}
+
+	function nextToAnnotate(refToUpdate){
+		var oContainer = $('#' + refToUpdate).parents('.river_item').find('.likes_action_container');
+		var oObject = $('a[rel='+ refToUpdate + ']');
+		var sUrl = "http://meredosto.com/mod/likes/endpoint/likes_status.php";
+		var sCallBack = lkPrepareItems;
+		executeAction(oObject, oContainer, sUrl, sCallBack);
+	}	
+
+	function showWhoElse(oObject){
+		oContainer = $('.lb .lightbox-content');
+		//add special Class.
+		$(oContainer).addClass('likes-content');
+		sUrl = "http://meredosto.com/pg/likes/who/";
+		sCallBack = showLB('.lbHome');
+		executeAction(oObject, oContainer, sUrl, sCallBack);
+	}
+
+	function executeAction(oObject, oContainer, sUrl, sCallBack) {
+		var sQueryString = extractQueryString(oObject)
+		var sActionFile = extractActionFile(oObject);
+		
+		//$(oContainer).ajaxComplete(function(e, xhr, settings) {
+			//Remove empty likes wrapper
+			//$('.likes:empty').parent().remove();
+		//});
+		$(oContainer).load(sUrl + sQueryString + sActionFile, sCallBack);
+	}
+
+	function extractQueryString(oObject) {
+		var queryString = '';
+		if (oObject != null) {
+			oObject = $(oObject);
+			var linkElement = oObject.attr('href');
+			var queryStringAux = linkElement.split('?');
+			if (typeof queryStringAux[1] != 'undefined') {
+				queryString = '?' + queryStringAux[1] + '&callback=true';
+			}
+		}
+		return queryString;
+	}
+	function extractActionFile(oObject){
+		var actionFile = '';
+		if (oObject != null) {
+			oObject = $(oObject);
+			var linkElement = oObject.attr('href');
+			var sQueryStringAux = linkElement.split('?');
+
+			if (typeof sQueryStringAux[0] != 'undefined') {
+				var actionAux = sQueryStringAux[0];
+				actionAux = actionAux.split('/');
+				if (actionAux.length > 0) {
+					actionAux = actionAux[actionAux.length-1];
+					actionFile = "&action_file=" + actionAux; 	
+				}
+			}
+			return actionFile;
+		}
+	} 
+	
+	
+</script>		<script type="text/javascript" src="http://meredosto.com/mod/river_comments/vendors/jquery.elastic/jquery.elastic.js"></script>	<script type="text/javascript">
+
+		function rcPrepareItems() {
+			//Hide all the buttons submit
+			$('.collapsable_box_content .comment_box_submit').hide();
+			
+			//Add events
+			$('.comment_add_box textarea').unbind('click');
+			$('.comment_add_box textarea').click(function(){ readyToWrite(this) });
+			$('.comment_add_box textarea').unbind('blur');
+			$('.comment_add_box textarea').blur(function() { blurTextArea(this) });
+			$('.jump_to_comment').unbind('click');
+			$('.jump_to_comment').click(function(e){
+				e.stopPropagation();
+				jumpToComment(this)
+				return false;	 
+			});
+			
+				$('.comment_reduced a').unbind('click');
+				$('.comment_reduced a').click(function(e){
+					e.stopPropagation();
+					getMoreComments(this);
+					return false;
+				})
+			
+			//The user can post comment via ajax
+			$('.comment_box_submit input').unbind('click');
+			$('.comment_box_submit input').click(function(e){
+				e.stopPropagation();
+				postComment(this);
+				return false;
+			})
+		}
+
+		function jumpToComment(oObject) {
+			oParent = $(oObject).parents('.river_item');
+			oParent.find('.comment_add_box textarea').click().focus();
+		}
+
+		function blurTextArea(oObject) {
+			oObject = $(oObject);
+			if (oObject.val() ==  "") {
+				//Close if one textarea is open
+				oObjectToClose = $('.comment_add_box textarea.current');
+				oObjectToClose.removeClass('current');
+				oObjectToClose.parent().find('.comment_icon').hide();
+				oObjectToClose.parent().find('.comment_box_submit').hide();
+				oObjectToClose.val("Write a comment...");
+			}	
+		}
+
+		function readyToWrite(oObject) {
+			oObject = $(oObject);
+			if (oObject.val() ==  "Write a comment...") {
+				oObject.val("");
+			}
+			oObject.addClass('current');
+			//Show the user photo
+			oObject.parent().find('.comment_icon').show();
+			oObject.parent().find('.comment_box_submit').show();
+			//Add elastic support
+			$(oObject).elastic();
+		}
+
+		function getMoreComments(oObject) {
+			oObject = $(oObject);
+			oParent = oObject.parent();
+			oMaster = oObject.parents('.feed_comments');
+			oTextArea = oMaster.find('.comment_add_box textarea');
+			oParent.addClass('river_comment_loading');
+			//Prepare for delete...when the comments are loaded
+			oParent.parent().parent().addClass('to_remove');
+			//Delete all the warning
+			oMaster.find('.river_error').remove();
+			//Get the content via ajax.
+			$.get(oObject.attr('href') + '&callback=1', function(data){
+			   if(data != 'loginerror' && data.length > 0) {
+				   oParent.parents('.feed_comments').prepend(data);
+				   oParent.parents('.feed_comments').find('.to_remove').remove();
+				} else {
+					oTextArea.after("<span class='river_error'>You are not logged in, please refresh the page.</span>");
+				} 
+			 });
+		}
+
+		function getMoreCommentsViaWidgets(oObject){
+			rcPrepareItems(); 
+			getMoreComments(oObject); 
+			return false;
+		}
+
+		function postComment(oObject) {
+			oObject = $(oObject);
+			oMaster = oObject.parents('.feed_comments');
+			oTextArea = oMaster.find('.comment_add_box textarea');
+			oHiddenGuid = oMaster.find('input:hidden[name=guid]');
+			endpoint = "http://meredosto.com/mod/river_comments/endpoint/comment.php";
+			dataPost = new Object();
+			dataPost.river_comment_text = oTextArea.val();
+			dataPost.guid = oHiddenGuid.val();
+			//Disable the botton
+			oTextArea.attr('disabled', 'disabled');
+			oObject.attr('disabled', 'disabled');
+			//Delete all the warning
+			oMaster.find('.river_error').remove();
+			$.post(endpoint, dataPost, function(data){
+				if (data.length > 0) {
+					if(data != 'loginerror') {
+						oMaster.find('.comment_add_box').before(data);
+					} else {
+						oTextArea.after("<span class='river_error'>You are not logged in, please refresh the page.</span>");
+					} 
+				}
+				//Reset the textarea for write comments
+				oTextArea.val("Write a comment...");
+				oObject.removeAttr('disabled');
+				oTextArea.removeAttr('disabled');
+			});
+		}
+
+		$(document).ready(function(){
+			rcPrepareItems();
+		})
+	</script>
 <div class="clearfloat"></div>
 
 <div id="layout_footer">
@@ -224,11 +657,10 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 
 		<td width="748" height="28" align="right">
 		<p class="footer_legal_links"><small>
-		Meredosto, social networking platform
-		</small>
 		<a href="http://www.elgg.org" target="_blank">
 		<img src="http://meredosto.com/_graphics/powered_by_elgg_badge_drk_bckgnd.gif" border="0">
 		</a>
+		</small>
 		</p>
 		</td>
 	</tr>
@@ -241,4 +673,35 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 </div><!-- /#page_container -->
 <!-- insert an analytics view to be extended -->
 
+ 
+<script type="text/javascript">
+
+$("#myfriendsWrapper").width("50px");
+$('#myfriendsClose').hide();
+
+var toggle_state = 0;
+
+function myfriends_Toggle()
+{
+    if ( toggle_state ) 
+    {
+      toggle_state = 0;
+      $("#myfriendsWrapper").width("50px");
+      $("#myfriendsTogglerLink").html('');
+      $('#myfriendsFormInputs').show();
+			$("#myfriendsFormStatus").html("");
+      $('#myfriendsClose').hide();
+    }
+    else 
+    {
+      toggle_state = 1;
+      $("#myfriendsWrapper").width("450px");
+      $("#myfriendsTogglerLink").html('');
+    }
+
+    $("#myfriendsContent").toggle();
+}
+
+
+</script>
 </body></html>
