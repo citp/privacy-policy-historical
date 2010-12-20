@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620073005id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220094817id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
 
 # OnlineAthens.com: Privacy Policy
 
-**OnlineAthens.com Privacy Policy**
-
- **Privacy Policy**
+**Privacy Policy**
 
 OnlineAthens.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. OnlineAthens.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by OnlineAthens.com online and does not impact information collected or used by OnlineAthens.com or its affiliates through other means.
 
