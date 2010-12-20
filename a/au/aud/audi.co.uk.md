@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audi.co.uk privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523215504id_/http%3A//www.audi.co.uk/footer/secondary/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audi.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220020011id_/http%3A//www.audi.co.uk/footer/secondary/privacy.html) for the most accurate reproduction.*
 
 # Privacy < Secondary < Footer < Audi UK
 
@@ -32,7 +32,7 @@ If you want, you can deactivate the use of cookies any time by changing the pref
 
 ### Local Shared objects (Flash Cookies)
 
-We use the Adobe flash player throughout the site to deliver services such as the Audi channel to you. Local Shared Objects, or Flash Cookies as they are commonly known, are used to store user preferences and settings. They work in a similar way to browser cookies above, but are managed differently. If you wish to disable or remove these cookies, please follow the instructions contained in this link (<http://kb2.adobe.com/cps/526/52697ee8.html>). Please be aware that removing or disabling cookies may affect the features and behaviour of the website.
+We use the Adobe flash player throughout the site to deliver services such as the Audi channel to you. Local Shared Objects, or Flash Cookies as they are commonly known, are used to store user preferences and settings. They work in a similar way to browser cookies above, but are managed differently. If you wish to disable or remove these cookies, please visit the Adobe site ([http://www.adobe.com](http://www.adobe.com/)) for instructions. Please be aware that removing or disabling cookies may affect the features and behaviour of the website.
 
 ### Security
 
