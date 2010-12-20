@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the take180.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621001823id_/http%3A//take180.com/cms.do%3Fpage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take180.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220111820id_/http%3A//www.take180.com/cms.do%3Fpage%3Dprivacy_policy.html) for the most accurate reproduction.*
 
 # Take180.com / Privacy Policy
 
