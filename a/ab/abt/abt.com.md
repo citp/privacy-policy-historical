@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612095032id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220171117id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
 
-# Abt - Consumer Electronics Store and Appliance Store | Electronics
+# Abt Electronics And Appliance Store- HDTVs, Refrigerators and More
 
-| 
-
-|  | 
-
-|   
 ---  
   
 | 
@@ -39,6 +34,4 @@ Glenview, IL 60025
   
 This Privacy Policy does not apply to other Web sites that may be accessible through the Abt.com site. Our sites contain links to other sites operated by third parties, including but not limited to third party sites that display Abt Electronics trademarks. We encourage you to read the privacy policies of those other sites to learn how they collect and use information about you.   
   
-[](http://www.abt.com/custserv/abtContact.php3)
-
-[](http://www.abt.com/blog/)
+[ ](http://www.abt.com/blog/)
