@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loopygadgets.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619060225id_/http%3A//www.loopygadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopygadgets.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220105125id_/http%3A//www.loopygadgets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Loopy Gadgets and consumer electronics
+# Privacy Policy « Daily Gadgets and Consumer Electronics Reviews
 
 Welcome to Loopy Gadgets. Com, We are a dedicated online gadget magazine which showcase the latest consumer electronics, Gizmos and Gadgets. [More on LoopyGadgets.com >>](http://www.loopygadgets.com/about/)
 
