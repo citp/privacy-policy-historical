@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607230807id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220204050id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Woodcraft's Privacy Policy
 
@@ -21,7 +21,7 @@ Or send us an email at [custserv@woodcraft.com](mailto:custserv@woodcraft.com)
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings from Woodcraft, please contact us at the address listed above. 
 
-You may voluntarily sign up to receive our Woodcraft eNewsletter to learn more about special offers. For this service we need an e-mail address and zip code which we use to send the information you requested. E-mail addresses are not used for any other purpose and are not shared with outside parties. 
+You may voluntarily sign up to receive our Woodcraft Email to learn more about special offers. For this service we need an e-mail address and zip code which we use to send the information you requested. E-mail addresses are not used for any other purpose and are not shared with outside parties. 
 
 When you enter a contest or other promotional feature, we may ask for your name, address, phone number and e-mail address, so we can administer the contest and notify winners. 
 
