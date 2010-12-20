@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619051342id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220171939id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Genome.gov | Web Site Privacy Policy
 
@@ -37,4 +37,4 @@ NHGRI's public Web sites comply with P3P (Platform for Privacy Preferences Proje
 
 * * *
 
-_Last Reviewed: June 19, 2009_
+_Last Reviewed: November 4, 2010_
