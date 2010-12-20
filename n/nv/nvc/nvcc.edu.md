@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620184957id_/http%3A//www.nvcc.edu/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024006id_/http%3A//www.nvcc.edu/resources/privacy) for the most accurate reproduction.*
 
 # Web Privacy Statement | Northern Virginia Community College
 
@@ -25,3 +25,7 @@ _Approved by ITC and Admin. Council 11/07/00_
 Northern Virginia Community College ensures the integrity of our systems and that the data we store is protected. The college has gone beyond industry standards to protect our systems by using firewalls, IDS/ISP devices, NAC protection, requiring authentication (systems, networks and data), requiring encryption of all sensitive data and applying all physical security possible. We perform monitoring of all systems and networks; network modeling and shaping, employ the latest Anti-virus / Anti Spam protection, and performing audits of all systems and networks. We instill the concept of security and data protection in everything we do including our day to day business practices; new systems, network and building designs; and as a overall part of the colleges desire to keep our environment and data safe and private. 
 
 For more information on Security at NOVA [click here](http://www.nvcc.edu/legal/) or the [VCCS College Security Program.](http://www.vccs.edu/FacultyStaff/InformationTechnology/Security/tabid/354/Default.aspx)
+
+## **Records Privacy**
+
+The College complies with the Family Educational Rights and Privacy Act of 1974, Sec. 438, Publ. L. 90–247, as amended, which sets forth requirements governing protection of the right to privacy of educational records, and affords the right to inspect such records.  For more specific information, see “Student Records” in the Student and Faculty Handbooks. 
