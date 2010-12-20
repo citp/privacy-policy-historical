@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616071242id_/http%3A//www.plasticsnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224223id_/http%3A//plasticsnews.com/privacy.html) for the most accurate reproduction.*
 
 # Plastics News - Privacy Policy
 
