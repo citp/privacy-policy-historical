@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitara.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605075703id_/http%3A//www.pitara.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitara.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220223328id_/http%3A//www.pitara.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Pitara Kids Network : Privacy Policy
 
