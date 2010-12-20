@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614201830id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220170640id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Japanese Cars, Automotive Events, News and Rumors : 7Tune.com
+# Privacy Policy : 7Tune.com
 
-| 
+  
 
-7tune.com >
-
-[Home](http://www.7tune.com/ "Browse to: Home") / [About 7Tune](http://www.7tune.com/about/ "Browse to: About 7Tune") / Japanese Cars, Automotive Events, News and Rumors 
 
 PRIVACY POLICY for www.7tune.com  
 At 7Tune we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by “<http://www.legalcentre.co.uk/ecommerce/privacy-policy-template.php>” website privacy policy provider LegalCentre.co.uk.  
@@ -53,5 +50,3 @@ You mind find links to third party websites on our website. These websites shoul
 
 **Contacting Us**  
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. [Please do not hesitate to contact us](http://www.7tune.com/contact-page/).
-
-| 
