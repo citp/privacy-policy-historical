@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychotactics.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618213817id_/http%3A//www.psychotactics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychotactics.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220025854id_/http%3A//www.psychotactics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Psychotactics - Big and Small Business Ideas
 
@@ -6,7 +6,7 @@
 
 Psychotactics.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Psychotactics.com, you are accepting the practices described in this Privacy Notice.
 
-This is the hard nosed version. There is also a **'Care, Guidance and Protection'** policy that we follow, which is the overriding ethos of PsychoTactics. It is in article form, and [can be read here](http://www.psychotactics.com/can-three-words-in-websters-dictionary-be-the-key-to-customer-loyalty).
+This is the hard nosed version. There is also a **'Care, Guidance and Protection'** policy that we follow, which is the overriding ethos of PsychoTactics. It is in article form, and [can be read here](http://www.psychotactics.com/tactics/can-three-words-in-websters-dictionary-be-the-key-to-customer-loyalty).
 
 ### What Personal Information About Customers Does Psychotactics.com Gather?
 
