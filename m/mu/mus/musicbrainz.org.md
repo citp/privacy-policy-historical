@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicbrainz.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235024id_/http%3A//musicbrainz.org/doc/MusicBrainz_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicbrainz.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220233549id_/http%3A//musicbrainz.org/doc/MusicBrainz_Privacy_Policy) for the most accurate reproduction.*
 
 # MusicBrainz Privacy Policy - MusicBrainz
 
@@ -49,7 +49,7 @@ In a practice similar to other web sites we keep logs of all web requests made a
 
 ###  Third-party content 
 
-The only third-party content loaded by MusicBrainz web pages are the album cover art images that are provided by the various [cover art sites](http://musicbrainz.org/doc/Cover_Art_Sites "WikiDocs: Cover Art Sites") that have given MusicBrainz permission to do so. This means that the relevant site will know (if they want to) your IP address, User-Agent string, etc., and which MusicBrainz web page you were visiting (the one which included the cover art image). 
+The only third-party content loaded by MusicBrainz web pages are the album cover art images that are provided by the various [cover art sites](http://musicbrainz.org/doc/Cover_Art_Sites "Wiki: Cover Art Sites") that have given MusicBrainz permission to do so. This means that the relevant site will know (if they want to) your IP address, User-Agent string, etc., and which MusicBrainz web page you were visiting (the one which included the cover art image). 
 
 If you have created an account and logged-in, you may opt out of displaying cover art images if you wish. 
 
@@ -75,7 +75,7 @@ This does not provide "perfect" privacy though, in some cases it will be possibl
 
 ##  Mailing lists 
 
-MusicBrainz has a number of [mailing lists](http://musicbrainz.org/doc/Mailing_List "WikiDocs: Mailing List") which you can subscribe to by providing your email address. 
+MusicBrainz has a number of [mailing lists](http://musicbrainz.org/doc/Mailing_List "Wiki: Mailing List") which you can subscribe to by providing your email address. 
 
 This email address will not be revealed to anyone, unless you post a message to a list, in which case your email address will be revealed to all subscribers of the list(s) to which you posted on. Additionally, every mailing list has multiple public archives, and any posts made will contain the email address of the poster (albeit in a form intended to provide some anti-spam protection). 
 
