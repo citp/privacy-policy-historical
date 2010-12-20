@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeigniter.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619051317id_/http%3A//codeigniter.com/terms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeigniter.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220090218id_/http%3A//codeigniter.com/terms/privacy_policy) for the most accurate reproduction.*
 
 # CodeIgniter - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Please note that this Privacy Policy applies to all the EllisLab Network sites: EllisLab.com, ExpressionEngine.com, CodeIgniter.com, and pMachinePro.com.
+Please note that this Privacy Policy applies to all the EllisLab Network sites: EllisLab.com, ExpressionEngine.com, CodeIgniter.com, MojoMotor.com and pMachinePro.com.
 
 At EllisLab, Inc. and our affiliated companies we are committed to respecting and protecting your online privacy. We have established this Online Privacy Policy in order for you to understand our policies with regard to your personal information.
 
