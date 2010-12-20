@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619091848id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220062651id_/http%3A//blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: BlackWasp Software Development
 
 ## Personal Information Collection
 
-Your personal information will only be collected if you submit it to BlackWasp using the contact form. Your name, email address and any comments you make will be retained. If you elect not to have your details recorded by indicating that you do not want to be contacted then your details will be erased after your query is answered.
+Your personal information will only be collected if you submit it to BlackWasp using the contact form. Your name, email address and any comments you make will be retained if you have specified that you permit this. If you elect not to have your details recorded by indicating that you do not want to be contacted then your details will be erased after your query is answered. If you later decide that you wish this information to be deleted, please request this using the [contact form](https://web.archive.org/web/20101220062651id_/http%3A//blackwasp.co.uk/Contact.aspx).
 
 ## Web Site Logs
 
@@ -12,7 +12,7 @@ Information is gathered automatically in the form of web site logs and using Goo
 
 ## Use of Information
 
-Your personal information will be used to contact you when new developments are made to the web site or when new articles or other items are published to the web site. Your information will not be distributed to third parties unless this is required by law.
+Your personal information may be used to contact you when new developments are made to the web site or when new articles or other items are published to the web site. Your information will not be distributed to third parties except where this becomes required by law. Your details will not be passed to third parties.
 
 ## Linked Web Sites
 
@@ -20,7 +20,7 @@ The BlackWasp web site contains links to other web sites. The privacy policy of 
 
 ## Advertising
 
-This web site is funded by advertising placements. The advertisement code may create cookies on your browser and read the contents of these cookies. The advertisements may also use web beacons to collect browsing information. This information is not retained by BlackWasp. Some advertising on the BlackWasp web site is provided by the Google Adsense programme. This includes interest-based avertising. The following information relates to Google's system:
+This web site is funded by advertising placements. The advertisement code may create cookies on your browser and reads the contents of these cookies. The advertisements may also use web beacons to collect browsing information. This information is not used, gathered or retained by BlackWasp. Some advertising on the BlackWasp web site is provided by the Google Adsense programme. This includes interest-based advertising. The following information relates to Google's system:
 
   * Google, as a third-party vendor, uses cookies to serve ads on the web site.
   * Google's use of the DART cookie enables it to serve ads to you based on your visit to this web site and other sites on the Internet.
