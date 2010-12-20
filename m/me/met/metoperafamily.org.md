@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190729id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220074701id_/http%3A//metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,3 +51,5 @@ All users, including those who access the web sites from a country other than th
 
 If you have any questions regarding this privacy policy, please contact:  
 E-mail: [_metinfo@metopera.org_](mailto:metinfo@metopera.org) 
+
+If you have made a donation to The Metropolitan Opera, enter a Metropolitan Opera prize drawing or otherwise text The Metropolitan Opera using the mobile giving channel, the mobile giving application service provider, MPower, will provide the information it collects from you to The Metropolitan Opera. The Metropolitan Opera may send you text messages. If you do not wish to receive text messages, please notify us at 212-362-6000. We will add information collected about you through the mobile channel, including your phone number, to our database. Unless you provide your email address in response to a prize drawing or opt in through the mobile channel to receive communications from The Metropolitan Opera by email or mail or have used our websites, we will not contact you by these means. Information collected through the mobile channel may be used for analytical and research purposes. However, no personally identifiable information will be used in such research or analysis.
