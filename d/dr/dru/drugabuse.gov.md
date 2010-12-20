@@ -1,68 +1,65 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527095853id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220174411id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
 
-\- Information Collected and Stored Automatically  
-\- Personally Provided Information  
-\- Disclosure  
-\- Intrusion Detection  
-\- Systems of Records  
-\- Security  
-\- Cookies
+Thank you for visiting one of the National Institute on Drug Abuse websites. 
 
-* * *
+Protecting your privacy is very important to us. We do not collect any personally identifiable information (PII) about you during your visit to NIDA Web sites unless you choose to provide it to us. We do, however, collect some data about your visit to our Web site to help us better understand how the public uses the site and how to make it more helpful. We collect information from visitors who read, browse, and/or download information from our Web site. NIDA never collects information for commercial marketing or any purpose unrelated to NIDA's mission and goals. 
 
-Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.gov_ , _www.sarasquest.gov_ , _www.steroidabuse.gov_ , _www.marijuana-info.org_ , _hiv.drugabuse.gov_ , _teens.drugabuse.gov_ , _international.drugabuse.gov_ is clear: 
+When visitors send email messages containing personal information to the general NIDA email box Information@nida.nih.gov, NIDA staff responds to the letters and files them. Only designated staff members requiring access to the emails to respond may view or answer them. 
 
-> **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
+**Types of Information Collected**
 
-* * *
+When you browse through any Web site, certain information about your visit can be collected. We automatically collect and temporarily store the following type of information about your visit: 
 
-#### Information Collected and Stored Automatically:
-
-When you browse through any web site, certain personal information about you can be collected. We automatically collect and temporarily store the following information about your visit: 
-
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain), and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website 
-  * The type of browser and operating system used to access our site, 
-  * The date and time you access our site, 
-  * The pages you visit, and 
-  * If you linked to our website from another website, the address of that website. 
+  * Domain from which you access the Internet 
+  * IP address (an IP address is a number that is automatically assigned to a computer when surfing the Web)
+  * Operating system and information about the browser used when visiting the site
+  * Date and time of your visit
+  * Pages you visited
+  * Address of the Web site that connected you to a NIDA Web site (such as google.com or bing.com)
 
 
 
-We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you. 
+We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors. 
 
-#### Personally Provided Information:
+**How NIDA Collects Information**
 
-You do not have to give us personal information to visit our web sites.
+NIDA web sites use Google Analytics measurement software to collect the information in the bulleted list in the _Types of Information Collected_ section above. Google Analytics collects information automatically and continuously. No personally identifiable information is collected. The NIDA staff conducts analyses and reports on the aggregated data from Google Analytics. The reports are only available to NIDA web staff, and other designated staff who require this information to perform their duties. 
 
-If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication.
+NIDA retains this data as long as needed to support the mission of the NIDA web sites. 
 
-However, all communications addressed to information@nida.nih.gov or the Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
+**How NIDA Uses Cookies**
 
-#### Disclosure:
+The Office of Management and Budget Memo M[-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov//sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies. 
 
-NIDA does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute. 
+When you visit any Web site, its server may generate a piece of text known as a "cookie" to place on your computer. The cookie allows the server to "remember" specific information about your visit while you are connected. 
 
-#### Intrusion Detection:
+The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from NIDA Web pages only collect information about your browsers visit to the site; they do not collect personal information about you. 
+
+There are two types of cookies, single session (temporary) and multi-session (persistent). Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods. 
+
+_Session Cookies_ : We use session cookies for technical purposes such as to enable better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as Usage Tier 1Single Session. The policy says, This tier encompasses any use of single session web measurement and customization technologies. 
+
+_Persistent Cookies_ : We use persistent cookies to enable Google Analytics to differentiate between new and returning NIDA visitors. Persistent cookies remain on your computer between visits to NIDA web sites until they expire.  The OMB Memo 10-22 Guidance defines our use of persistent cookies as Usage Tier 2 Multi-session without Personally Identifiable Information (PII). The policy says, This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected. 
+
+**How to Opt Out or Disable Cookies**
+
+If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at the NIDA web sites. Instructions for disabling or opting out of cookies in the most popular browsers are located at <http://www.usa.gov/optout_instructions.shtml> Please note that by following the instructions to opt-out of cookies, you will disable cookies from all sources, not just those from NIDA. 
+
+**How Personal Information Is Protected**
+
+You do not have to give us personal information to visit the NIDA Web sites. However, if you choose to receive alerts or e-newsletters, we collect your email address to complete the subscription process. 
+
+If you choose to provide us with personally identifiable information, that is, information that is personal in nature and which may be used to identify you, through an e-mail message, request for information, paper or electronic form, questionnaire, customer satisfaction survey, epidemiology research study, etc., we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
+
+The NIDA Privacy policy is adapted from the NIH Privacy Policy. For further information about the NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426 or visit <http://oma.od.nih.gov/ms/privacy/privacyact.html>
+
+**Intrusion Detection**
 
 This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
 
-#### Systems of Records:
-
-Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
-
-#### Security:
-
-Information collected online in the form of server logs, form submissions or e-mail to information@nida.nih.gov are stored securely and have limited access by NIDA staff. Archival data is stored offline in a secured storage facility.
-
-#### Cookies:
-
-A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session while you are connected. 
-
-The NIDA site is running a customer satisfaction survey that employs persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites.
-
-  
+**Additional Links** \- [Privacy Notice, Part 2 - How NIDA uses Third-Party Web sites and Applications](https://web.archive.org/web/20101220174411id_/http%3A//www.drugabuse.gov/tools/privacy2.html)   
 
