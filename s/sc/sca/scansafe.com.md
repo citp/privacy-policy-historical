@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scansafe.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311123611id_/http%3A//www.scansafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansafe.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220231535id_/http%3A//scansafe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ScanSafe - Speed. Scalability. Security.
 
