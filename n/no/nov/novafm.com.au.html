@@ -1,341 +1,345 @@
-<!--The following is the downloaded HTML source of the novafm.com.au privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522173511id_/http%3A//www.novafm.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novafm.com.au privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220145048id_/http%3A//www.novafm.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="/style/default_theme.css" rel="stylesheet" type="text/css"><style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
 
-div#fauxBg {background: #58080c url(/lib/theme/Nova100/Machine/rpt_machine.jpg) repeat-y 50% 0; }
+div#fauxBg {background: #ffffff url(/lib/theme/Nova100/rocking/rpt_rocking.jpg) repeat-y 50% 0; }
 
-div#body {background:  url(/lib/theme/Nova100/Machine/bkg_machine.jpg) no-repeat 50% 0; }
+div#body {background:  url(/lib/theme/Nova100/rocking/bkg_rocking.jpg) no-repeat 50% 0; }
 
-div#Footer {background:  url(/lib/theme/Nova100/Machine/ftr_machine.jpg) no-repeat 50% 0;}
+div#Footer {background:  url(/lib/theme/Nova100/rocking/footer_rocking.jpg) no-repeat 50% 0;}
 
-#header #SiteLogo  {background: url(app_themes/nova1069/Nova1069B.png) no-repeat 369px 26px; } 
+#header #SiteLogo  {background: url(app_themes/nova969/Nova969B.png) no-repeat 369px 26px; } 
 
-</style><meta name="Description"><link rel="icon" href="img/main/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="img/main/favicon.ico" type="image/x-icon"><link href="Style/Screen.css" rel="stylesheet" type="text/css"><link href="Style/Music.css" rel="stylesheet" type="text/css">
-
+</style><link rel="icon" href="/img/main/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/img/main/favicon.ico" type="image/x-icon"><link href="/style/Screen.css" rel="stylesheet" type="text/css">
+    <!--<link href="/style/Music.css" rel="stylesheet" type="text/css" />-->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-
-    <script type="text/javascript" src="script/dmg-utils.js"></script>
-
+    <script type="text/javascript" src="http://dmgradio.com.au/dmgairplayer/installBadge/nowplayingbadge.js"></script>
+    <script type="text/javascript" src="/script/dmg-utils.js"></script>
+    <script src="/Script/swfobject.js" type="text/javascript"></script>
     
-    <!--[if IE]><link href="Style/iestyles.css" rel="stylesheet" type="text/css" /><![endif]-->
-    <!--[if IE 6]><link href="Style/ie6styles.css" rel="stylesheet" type="text/css" /><![endif]-->
-    <!--[if IE 7]><link href="Style/ie7styles.css" rel="stylesheet" type="text/css" /><![endif]-->
-    <title>
+    <!--[if IE]><link href="/style/iestyles.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <!--[if IE 6]><link href="/style/ie6styles.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <!--[if IE 7]><link href="/style/ie7styles.css" rel="stylesheet" type="text/css" /><![endif]-->
+    
+    
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            var boxWidth = $('.scroll-box').width();
+            var textWidth = $('.scroll-text', $(this)).width();
+            var textPos = $('.scroll-text').position().left;
+            var offset = textWidth - boxWidth;
+
+            $('.scroll-box').mouseenter(scroll).mouseleave(reset);
+
+            function scroll() {
+                $('.scroll-text').stop();
+                if (textWidth > boxWidth) {
+                    var animSpeed = (textWidth - boxWidth) * 20;
+                    $('.scroll-text').animate({ 'left': -offset }, animSpeed);
+                }
+            }
+
+            function reset() {
+                $('.scroll-text').stop();
+                $('.scroll-text').animate({ 'left': 0 }, 1000)
+            }
+        });
+    </script>
+<title>
 	Privacy Statement - NovaFM
 </title></head>
 <body>
+<form name="aspnetForm" method="post" action="/privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDI0NTI4NzVkZLCJ9nbvwFsY1CtRFO8SewY5xoua">
+
+    <!-- Tool bar container -->
+    <div id="toolBarContainer">
+        <div id="toolBar">
+            <ul id="leftTools">
+                <li id="novaBut"><a href="http://www.novafm.com.au/nova969/home"></a></li>
+                <li id="listenLiveFlash">
+                    <object height="28" width="300">
+						<param value="/img/flash/teaser.swf?site=Nova969" name="movie">
+						<param value="always" name="allowscriptaccess">
+						<param value="transparent" name="wmode">
+						<param value="bgcolor" name="#000000">
+						<embed height="28" bgcolor="#000000" width="300" wmode="transparent" allowscriptaccess="always" type="application/x-shockwave-flash" src="/img/flash/teaser.swf?site=Nova969">
+					</object>
+                </li>
+                <li id="listenLive"> 
+                    <a id="streamButton" href="/player.aspx?site=Nova969" onclick="var test = window.open('/player.aspx?site=Nova969','Streaming','left=20,top=20,width=750,height=600,toolbar=0,resizable=0');return false;" "=""></a>
+                    <div class="scroll-box">
+                        <div class="scroll-text">
+                            
+                                <span class="songTitle">Just A Dream</span>
+                                <span style="color:#888888">by </span>
+                                <span class="songArtist">Nelly</span>                   
+                            
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <ul id="rightTools">
+                
+                
+                    <li id="signTool"><a href="login?returnUrl=%2fprivacy" id="ctl00_lnkSignIn">Sign In</a></li>
+                    <li id="registerTool"><a href="signup" id="ctl00_lnkRegister">Register</a></li>
+                
+                
+
+<script type="text/javascript">
+    var url = "http://novafm.com.au/privacy";
+    var desc = "<p>Hi {friendName}</p><p>{userName} reckons that {url} is pretty interesting.  Go and check it out!</p><p>Cheers</p><p>{userName}</p>";
+</script>
+<li class="last" id="shareTool"><a href="#">Share</a>
+    <ul id="shareList">
+        <li>Share this page</li>
+        <li><a id="facebook" title="Post this story to Facebook" rel="nofollow" href="http://www.facebook.com/sharer.php" onclick="window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(url), 'Facebook','toolbar=no,width=700,height=400'); return false;"></a></li>
+        <li><a id="twitter" title="Post this story to Twitter" rel="nofollow" href="http://twitter.com/home" onclick="window.open('/sharetwitter.aspx?t='+encodeURIComponent(document.title)+'&amp;u='+encodeURIComponent(url), 'Twitter','toolbar=no,width=880,height=400'); return false;"></a></li>
+        <li><a id="myspace" title="Post this story on MySpace" rel="nofollow" href="http://myspace.com/" onclick="window.open('http://www.myspace.com/index.cfm?fuseaction=postto&amp;t='+encodeURIComponent(document.title)+'&amp;c='+encodeURIComponent(url)+'&amp;l=3', 'MySpace','toolbar=no,width=700,height=400'); return false;"></a></li>
+        <li><a title="Post this story on StumbleUpon" href="http://www.stumbleupon.com/submit" onclick="window.open('http://www.stumbleupon.com/submit?title='+encodeURIComponent(document.title)+'&amp;url='+encodeURIComponent(url), 'StumbleUpon','toolbar=no, width=730, height=650'); return false;" id="stumbleupon"></a></li>
+        <li><a title="Post this story on Google Buzz" href="http://www.google.com/buzz/post" onclick="window.open('http://www.google.com/buzz/post?url='+encodeURIComponent(url), 'Buzz','toolbar=no, width=730, height=650'); return false;" id="buzz"></a></li>
+        <li><a id="email" title="Share this with your friends" rel="nofollow" href="/share" onclick="window.open('/share?t='+encodeURIComponent(document.title)+'&amp;u='+encodeURIComponent(url)+'&amp;sharedesc='+desc, 'Share','toolbar=no,width=700,height=400'); return false;"></a></li>
+    </ul>
+</li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Tool bar container -->
     <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
     <div id="fauxBg">
         <div id="body">
+        
+            <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+            <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+            <script type="text/javascript">
+                GS_googleAddAdSenseService("ca-pub-5737505327911656");
+                GS_googleEnableAllServices();
+            </script>
             
-            <form name="aspnetForm" method="post" action="/privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDI0NTI4NzVkZLCJ9nbvwFsY1CtRFO8SewY5xoua">
-
+            <script type="text/javascript">
+                GA_googleFetchAds();
+            </script>
+            
+            
+        
+            
+                
                 <div id="main">
                     
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-
-<script type="text/javascript">
-    GS_googleAddAdSenseService("ca-pub-5737505327911656");
-    GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-    GA_googleFetchAds();
-</script>
-
-
 
 <div id="header">
 
-<link href="style/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
-<script src="script/jquery.alerts.js" type="text/javascript"></script>
-<link href="Style/jquery.rating_audio.css" type="text/css" rel="stylesheet">
-<script src="Script/jquery.rating.pack.js" type="text/javascript" language="javascript"></script>
-<script type="text/javascript">
-var phFaveAction = $('#FaveControlxx');
-var ratePars2 = 'u=0&i=105184&t=58';
-$(document).ready(function(){
-    $("#StarRating2").show();
-    if($('input.star2').length != 0)
-    {
-        $('input.star2').rating({callback: function(value, link){doAudioRate(value);},split: 2,required: true});
-        $('input.star2').rating('disable');
-    }
-});
-</script>
-<div id="DMGPlayer">
-    <div id="DMGPlayerInner">
-        <div id="PlayingInfo">
-            <div id="playerButtons">
-                <a id="NowPlayingButton" href="http://www.novafm.com.au/Nova1069/Streaming.aspx" target="_blank" onclick="OpenStreaming('http://www.novafm.com.au/Nova1069/Streaming.aspx');return false;">Now Playing</a>
-                <ul>
-                    <li class="favBut"></li>
-                    <li class="iTunesBuyBut"><a href="http://itunes.apple.com/au/album/look-me-in-the-eye-sister/id351574465?i=351574476&amp;uo=4&amp;partnerId=1002" id="ctl00_header_audio_lnkiTunes" target="_blank"><img style="width:15px; height:15px;" src="img/main/player_itunesIcon.PNG"></a></li>
-                </ul>
-            </div>
-            <img id="ctl00_header_audio_imgSong" class="thumb" src="http://www.novafm.com.au/lib/images/song/thumb/Look-Me-In-The-Eye-Sister-134531.jpg" border="0">
-            <ul class="nowPlayingInfo">
-                <li><img id="ctl00_header_audio_imgNowPlaying" src="img/main/player_nowPlaying.PNG" border="0"></li>
-                <li class="title"><a href="Song_Look-Me-In-The-Eye-Sister_105184">Look Me In The Eye Sister</a></li>
-                <li class="artist"><span>by</span> <a href="Artist_Groove-Armada_228">Groove Armada</a> </li>
-            </ul>
-        </div>
-        <ul id="playerBottom">
-            <li><a id="PlayListMore" href="">Show Playlist</a></li>
-            <li class="rating">
-                <div id="StarRating2" style="display:none;">
-                  <input type="radio" class="star2" name="star2" value="0.5">
-                  <input type="radio" class="star2" name="star2" value="1">
-                  <input type="radio" class="star2" name="star2" value="1.5">
-                  <input type="radio" class="star2" name="star2" value="2">
-                  <input type="radio" class="star2" name="star2" value="2.5">
-                  <input type="radio" class="star2" name="star2" value="3">
-                  <input type="radio" class="star2" name="star2" value="3.5">
-                  <input type="radio" class="star2" name="star2" value="4">
-                  <input type="radio" class="star2" name="star2" value="4.5">
-                  <input type="radio" class="star2" name="star2" value="5">
-                </div>
-            </li>
-        </ul>
+<div id="leaderBoardContainer">
+    <div id="leaderBoard">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
     </div>
 </div>
-<div id="DMGPlayList">
-    <ul id="playlist">
-        <li class="heading">
-            <ul>
-                <li><p>ARTISTS &amp; SONGS</p></li>
-                <li class="fav"><p>+FAVS</p></li>
-            </ul>
-        </li>
-        
-            <li class="song">
-                <ul id="songDetails">
-                    <li class="title"><p>Look Me In The Eye Sister</p></li>
-                    <li class="artist"><a href="Artist_Groove-Armada_228">Groove Armada</a> </li>
-                    <li class="fav"></li>
-                </ul>
-            </li>
-        
-            <li class="song">
-                <ul id="songDetails">
-                    <li class="title"><p>Shiny Disco Balls</p></li>
-                    <li class="artist"><a href="Artist_Who-Da-Funk_4241">Who_Da_Funk</a> </li>
-                    <li class="fav"></li>
-                </ul>
-            </li>
-        
-            <li class="song">
-                <ul id="songDetails">
-                    <li class="title"><p>Shiny Disco Balls</p></li>
-                    <li class="artist"><a href="Artist_Who-Da-Funk_4241">Who_Da_Funk</a> </li>
-                    <li class="fav"></li>
-                </ul>
-            </li>
-        
-            <li class="song">
-                <ul id="songDetails">
-                    <li class="title"><p>Meet Me Halfway</p></li>
-                    <li class="artist"><a href="Artist_Black-Eyed-Peas_127">Black Eyed Peas</a> </li>
-                    <li class="fav"></li>
-                </ul>
-            </li>
-        
-            <li class="song">
-                <ul id="songDetails">
-                    <li class="title"><p>Meet Me Halfway</p></li>
-                    <li class="artist"><a href="Artist_Black-Eyed-Peas_127">Black Eyed Peas</a> </li>
-                    <li class="fav"></li>
-                </ul>
-            </li>
-        
-    </ul>
+
+<div id="flash-logo">
+    <object width="200" height="30">
+        <param name="movie" value="/img/flash/Nova969.swf">
+        <param name="allowscriptaccess" value="always">
+        <param name="wmode" value="transparent">
+        <embed src="/img/flash/Nova969.swf" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" width="200" height="30">
+    </object>
 </div>
-
-    <div id="DMGGoogleAdFloat">
-       <script type="text/javascript">
-           GA_googleAddSlot("ca-pub-5737505327911656", "NovaFM_1_NowPlaying_239x82");
-           GA_googleFillSlot("NovaFM_1_NowPlaying_239x82");
-       </script>
-    </div>
-
-<h1 id="SiteLogo"><a href="Home">NovaFM</a></h1>
-
-
-    <div id="flash-logo">
-        <object width="200" height="30">
-            <param name="movie" value="img/flash/Nova1069.swf">
-            <param name="allowscriptaccess" value="always">
-            <param name="wmode" value="transparent">
-            <embed src="img/flash/Nova1069.swf" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" width="200" height="30">
-        </object>
-    </div>
-
 
 <div id="toolbar">
-<fb:profile-pic id="facebook-profile" uid="loggedinuser" width="16" height="16" facebook-logo="true" style="position: absolute; top: 4px; left: 1px; display: none;"></fb:profile-pic>
-<p>Welcome<span id="ctl00_header_litUser" class="user-name"></span>, you are at </p> 
-
-<div id="site-select">
-    <ul>
-        <li>NovaFM
-            <ul>
-                <li class="group-title ss-nova">Nova fm</li>
-                <li><a href="http://www.novafm.com.au/Nova1069">Nova 1069</a></li>
-                <li><a href="http://www.novafm.com.au/Nova969">Nova 969</a></li>
-                <li><a href="http://www.novafm.com.au/Nova100">Nova 100</a></li>
-                <li><a href="http://www.novafm.com.au/Nova919">Nova 919</a></li>
-                <li><a href="http://www.novafm.com.au/Nova937">Nova 937</a></li>                
-                
-                <li class="group-title ss-vega">Classic Rock fm</li>
-                <li><a href="http://www.classicrockfm.com.au/953">Classic Rock 95.3</a></li>
-                <li><a href="http://www.classicrockfm.com.au/915">Classic Rock 91.5</a></li>
-                
-                <li class="group-title ss-other">Other</li>
-                <li><a href="http://www.novanation.com.au">NovaNation</a></li>
-                <li><a href="http://www.koffee.com.au">Koffee</a></li>
-                <li><a href="http://www.star1045.com.au">Star1045</a></li>
-                <li><a href="http://www.fiveaa.com.au">FIVEaa</a></li>
-            </ul>
-        </li>
-    </ul>            
-</div>
-
-
-<a id="ctl00_header_btnLogin" class="Rego" href="javascript:__doPostBack('ctl00$header$btnLogin','')">Sign In</a><a id="ctl00_header_btnSignUp" class="Rego" href="javascript:__doPostBack('ctl00$header$btnSignUp','')">Register</a>
-</div>
-
+    <div id="site-select">
+        <ul>
+            <li>NovaFM
+                <ul>
+                    <li class="group-title ss-nova">Nova fm</li>
+                    <li><a href="http://www.novafm.com.au/nova1069">Nova 1069</a></li>
+                    <li><a href="http://www.novafm.com.au/nova969">Nova 969</a></li>
+                    <li><a href="http://www.novafm.com.au/nova100">Nova 100</a></li>
+                    <li><a href="http://www.novafm.com.au/nova919">Nova 919</a></li>
+                    <li><a href="http://www.novafm.com.au/nova937">Nova 937</a></li>
+                                    
+                    <li class="group-title ss-vega">Classic Rock fm</li>
+                    <li><a href="http://www.classicrockfm.com.au/953">Classic Rock 95.3</a></li>
+                    <li><a href="http://www.classicrockfm.com.au/915">Classic Rock 91.5</a></li>
+                    
+                    <li class="group-title ss-other">Other</li>
+                    <li><a href="http://www.novanation.com.au">NovaNation</a></li>
+                    <li><a href="http://www.koffee.com.au">Koffee</a></li>
+                    <li><a href="http://www.star1045.com.au">Star1045</a></li>
+                    <li><a href="http://www.fiveaa.com.au">FIVEaa</a></li>
+                </ul>
+            </li>
+        </ul>            
+    </div>
+</div><!-- End toolbar -->
 
 <div id="menu">
  <ul>
-    <li><a id="m-Home" class="selected" href="http://www.novafm.com.au/Nova1069/Home">Home</a></li>
-    <li><a id="m-Shows" href="http://www.novafm.com.au/Nova1069/Shows">Shows</a>
+    <li><a id="m-Home" class="selected" href="http://www.novafm.com.au/nova969/home">Home</a></li>
+    <li><a id="ctl00_header_m-Shows" href="http://www.novafm.com.au/nova969/shows">Shows</a>
         <ul>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Meshel-Tim-and-Marty_9">Meshel, Tim and Marty</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_action-battle-team_153">Action Battle Team</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Whippy_15">Whippy</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_harlee-mcleod_19">Harlee McLeod</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Cat_16">Cat</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_jamie-row_20">Jamie Row</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Ryan-Monty-and-Wippa_79">Ryan, Monty and Wippa</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_ryan-monty-and-wippa_78">Ryan, Monty and Wippa</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Merrick-Dools-Ricki-Lee_170">Merrick, Dools &amp; Ricki-Lee</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_dan-and-leon_310">Dan and Leon</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Nova-Top-Ten_131">Nova Top Ten</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_the-music-lab_264">The Music Lab</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Action-Battle-Team_157">Action Battle Team</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_merrick-dools-ricki-lee_166">Merrick, Dools &amp; Ricki-Lee</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Nova-iTunes_216">Nova + iTunes</a></li>
-            
-            <li><a href="http://www.novafm.com.au/Nova1069/Show_Sounds-Like-New_201">Sounds Like New</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/show_sounds-like-new_205">Sounds Like New</a></li>
             
             
-            <li><a href="http://www.novanation.com.au/Show_Novanation-with-John-Course-Grant-Smillie_116" target="_blank">novanation</a></li>
+            <li><a href="http://www.novanation.com.au/Show_Novanation-with-John-Course-Grant-Smillie_116">novanation</a></li>
             
         </ul>
     </li>
     
-    <li><a id="m-Music" href="http://www.novafm.com.au/Music">Music</a>
+    <li><a id="ctl00_header_m-Music" href="http://www.novafm.com.au/nova969/Vertical_music_270">Music</a>
         <ul>
-            <li><a href="http://www.novafm.com.au/Artists" id="NavFeaturedArtists">Featured Artists</a></li>
-            <li><a href="http://www.novafm.com.au/SearchMusic" id="NavSearchMusic">Music Search</a></li>
+            <li><a href="http://www.novafm.com.au/artists" id="NavFeaturedArtists">Featured Artists</a></li>
+            <li><a href="http://www.novafm.com.au/searchmusic" id="NavSearchMusic">Music Search</a></li>
             
-            <li><a href="http://www.novafm.com.au/nova1069/Articles?s=162">Playlists</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/Vertical_music_270">music central</a></li>
             
-            <li><a href="http://www.novafm.com.au/nova1069/Competition_I-AM-WITH-THE-BAND_609">I Am With The Band</a></li>
+            <li><a href="http://secure-au.imrworldwide.com/cgi-bin/b?cg=clicks&amp;ci=nova969&amp;tu=http://www.mymusiclab.com.au" target="_blank">my music lab</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/Articles?s=163">Playlists</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/Competition_I-AM-WITH-THE-BAND_608">I Am With The Band</a></li>
             
         </ul>
     </li>
     
-    <li><a id="m-Competitions" href="http://www.novafm.com.au/Nova1069/Competitions">Win</a>
+    <li><a id="ctl00_header_m-Competitions" href="http://www.novafm.com.au/nova969/competitions">Win</a>
     
         <ul>
             
-            <li><a href="http://www.novafm.com.au/nova1069/Competitions">recent competitions</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/Competitions">recent competitions</a></li>
             
         </ul>
     
     </li>
-    <li><a id="m-Features" href="http://www.novafm.com.au/Nova1069/Articles">Features</a>
+    <li><a id="ctl00_header_m-Features" href="http://www.novafm.com.au/nova969/articles">Features</a>
         <ul>
-            <li><a href="http://www.novafm.com.au/Nova1069/Articles#recent" id="NavRecentArticles">Recent Articles</a></li> 
-            <li><a href="http://www.novafm.com.au/Nova1069/Articles#popular" id="NavPopularArticles">Best Articles</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/articles#recent" id="NavRecentArticles">Recent Articles</a></li> 
+            <li><a href="http://www.novafm.com.au/nova969/articles#popular" id="NavPopularArticles">Best Articles</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Vertical_Entertainment_227">Entertainment</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/vertical_marry-me-microsoft_317">Marry Me Microsoft</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Vertical_Fashion_210">Fashion</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/vertical_dj-hero-party_298">DJ Hero Party</a></li>
             
-            <li><a href="http://www.novafm.com.au/Nova1069/Vertical_Not-Just-a-Car_195">Not Just a Car</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/vertical_music-central_270">music central</a></li>
             
+            <li><a href="http://www.novafm.com.au/nova969/vertical_nicabate_259">Nicabate</a></li>
             
-            <li><a href="http://www.novafm.com.au/nova1069/Competition_RACQ-Insurance-Nova-Sandmans_392">Nova Sandmans</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/vertical_entertainment_226">Entertainment</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/vertical_fashion_209">Fashion</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/vertical_not-just-a-car_194">Not Just a Car</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/vertical_nova-festival-guide_142">Nova Festival Guide</a></li>
+            
             
         </ul>
     </li>
     <li>
-    <a id="m-Photos" href="http://www.novafm.com.au/Nova1069/Galleries">Pics</a>
+    <a id="ctl00_header_m-Photos" href="http://www.novafm.com.au/nova969/galleries">Pics</a>
         <ul>
-            <li><a href="http://www.novafm.com.au/Nova1069/Galleries#gallery" id="NavRecentAlbums">Recent Albums</a></li> 
-            <li><a href="http://www.novafm.com.au/Nova1069/Galleries#recent" id="NavRecentPhotos">Recent Photos</a></li> 
-            <li><a href="http://www.novafm.com.au/Nova1069/Galleries#popular" id="NavPopularPhotos">Best Photos</a></li>
-            <li><a href="http://www.novafm.com.au/Nova1069/Galleries#user" id="NavUserPhotos">User Photos</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/galleries#gallery" id="NavRecentAlbums">Recent Albums</a></li> 
+            <li><a href="http://www.novafm.com.au/nova969/galleries#recent" id="NavRecentPhotos">Recent Photos</a></li> 
+            <li><a href="http://www.novafm.com.au/nova969/galleries#popular" id="NavPopularPhotos">Best Photos</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/galleries#user" id="NavUserPhotos">User Photos</a></li>
             
         </ul>
     </li>
-    <li><a id="m-Videos" href="http://www.novafm.com.au/Nova1069/Videos">Videos</a>
+    <li><a id="ctl00_header_m-Videos" href="http://www.novafm.com.au/nova969/videos">Videos</a>
         <ul>
-            <li><a href="http://www.novafm.com.au/Nova1069/Videos#recent" id="NavRecentVideos">Recent Videos</a></li> 
-            <li><a href="http://www.novafm.com.au/Nova1069/Videos#popular" id="NavPopularVideos">Best Videos</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/videos#recent" id="NavRecentVideos">Recent Videos</a></li> 
+            <li><a href="http://www.novafm.com.au/nova969/videos#popular" id="NavPopularVideos">Best Videos</a></li>
             
         </ul>                
     </li>
-    <li><a id="m-Audios" href="http://www.novafm.com.au/Nova1069/Audios">Audio</a>
+    <li><a id="ctl00_header_m-Audios" href="http://www.novafm.com.au/nova969/audios">Audio</a>
         <ul>
-            <li><a href="http://www.novafm.com.au/Nova1069/Audios#recent" id="NavRecentAudios">Recent Audio</a></li>
-            <li><a href="http://www.novafm.com.au/Nova1069/Audios#popular" id="NavPopularAudios">Best Audio</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/audios#recent" id="NavRecentAudios">Recent Audio</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/audios#popular" id="NavPopularAudios">Best Audio</a></li>
             
         </ul>                
     </li>
-    <li><a id="m-Events" href="http://www.novafm.com.au/Nova1069/Events">Events</a>
+    <li><a id="ctl00_header_m-Events" href="http://www.novafm.com.au/nova969/events">Events</a>
     
     </li>
-    <li><a id="m-Polls" href="http://www.novafm.com.au/Nova1069/Polls">Polls</a>
+    <li><a id="ctl00_header_m-Polls" href="http://www.novafm.com.au/nova969/polls">Polls</a>
     
     </li>
-    <li><a id="m-Forum" href="http://www.novafm.com.au/Nova1069/Forum">Forum</a>
+    <li><a id="ctl00_header_m-Forum" href="http://www.novafm.com.au/nova969/forum">Forum</a>
         <ul>
-            <li><a href="http://www.novafm.com.au/Nova1069/Forum#recent" id="NavRecentForum">Recent Discussions</a></li>
-            <li><a href="http://www.novafm.com.au/Nova1069/Forum#popular" id="NavPopularForum">Popular Discussions</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/forum#recent" id="NavRecentForum">Recent Discussions</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/forum#popular" id="NavPopularForum">Popular Discussions</a></li>
             
         </ul>
     </li>
 </ul>
-        <div id="Searcher"><input name="ctl00$header$txtSearcher" type="text" id="ctl00_header_txtSearcher" class="SearcherBox">
-    <input type="submit" name="ctl00$header$btnSearcher" value="Go" id="ctl00_header_btnSearcher" class="SearcherButton"></div>
+<div id="Searcher"><input name="ctl00$header$txtSearcher" type="text" id="ctl00_header_txtSearcher" class="SearcherBox" onkeypress="return clickButton(event,'ctl00_header_btnSearcher')">
+<input type="submit" name="ctl00$header$btnSearcher" value="Go" id="ctl00_header_btnSearcher" class="SearcherButton"></div>
 </div>
 
-
 </div>
+
 <script type="text/javascript" language="javascript">
-    function onLogout() {
-        FB.Connect.ifUserConnected(
-            function() {
-                FB.Connect.logout(function() {
-                    window.location.href = 'Logout';
-                    return true;
-                });
-            },
-            function() {
-                window.location.href = 'Logout';
-                return true;
+    //$(document).ready(function() {
+        if ($("#ctl00_header_txtSearcher").val() === '') {
+            $("#ctl00_header_txtSearcher").val("Keyword search").addClass("searchBlur");
+        }    
+        
+        $("#ctl00_header_txtSearcher").blur(function () {
+            if (this.value === '') {
+                $("#ctl00_header_txtSearcher").val("Keyword search").addClass("searchBlur");
             }
-        );
-        window.location.href = 'Logout';
-        return true;
-    }
+        });
+        
+        $("#ctl00_header_txtSearcher").click(function() {
+            if (this.value === "Keyword search") {
+                $("#ctl00_header_txtSearcher").val("").removeClass("searchBlur");
+            }
+        });
+    //});
 </script>
-
                     
                     
                     <div id="Content" class="clearfix">
@@ -460,7 +464,7 @@ $(document).ready(function(){
 <p><strong>10 Codes of Practice</strong></p>
 <p>The Commercial Radio Codes of Practice registered by the Australian Broadcasting Authority also impose some relevant privacy obligations on us. We are committed to complying with these Codes of Practice.</p>
 <p><strong>11 Privacy Officer</strong></p>
-<p>If you have any concerns, complaints or questions, please contact our Privacy Officer - <a href="mailto:rwright@dmgradio.com.au">rwright@dmgradio.com.au</a></p>
+<p>If you have any concerns, complaints or questions, please contact our Privacy Officer - <a href="mailto:stinsley@dmgradio.com.au">stinsley@dmgradio.com.au</a></p>
 </div>
 
 </div>
@@ -469,130 +473,142 @@ $(document).ready(function(){
 
                     </div>
                 </div>
+                <div class="clearer">&nbsp;</div>
                 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-    var pageTracker = _gat._getTracker("UA-3822537-9");
+    try {
+        var pageTracker = _gat._getTracker("UA-3822537-9");
 
-    var slot = 1;
+        if (ga_PillarsArray.length > 0) {
+            pageTracker._setCustomVar(1, "pillar", ga_PillarsArray[0].toLowerCase(), 3);
+        }
 
-    if (ga_PillarsArray.length > 0) {
-        pageTracker._setCustomVar(slot, "pillar", ga_PillarsArray[0], 3);
-        slot++;
-    }
+        if (ga_AuthorsArray.length > 0) {
+            pageTracker._setCustomVar(2, "author", ga_AuthorsArray[0], 3);
+        }
 
-    if (ga_AuthorsArray.length > 0) {
-        pageTracker._setCustomVar(slot, "author", ga_AuthorsArray[0], 3);
-    }
-    
-    pageTracker._trackPageview();
-} catch (err) { }
+        if (ga_SourceId != '') {
+            pageTracker._setCustomVar(3, "sourceid", ga_SourceId.toLowerCase(), 3);
+        }
+
+        pageTracker._trackPageview();
+    } catch (err) { }
 </script>
 
-<!-- START Nielsen Online SiteCensus V6.0 -->
-<!-- COPYRIGHT 2009 Nielsen Online -->
-<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
-</script>
-<script type="text/javascript">
- var pvar = { cid: "novafm", content: "0", server: "secure-au" };
- var trac = nol_t(pvar);
- trac.record().post();
-</script>
-<noscript>
- <div>
- <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=novafm&amp;cg=0&amp;cc=1&amp;ts=noscript"
- width="1" height="1" alt="" />
- </div>
-</noscript>
-<!-- END Nielsen Online SiteCensus V6.0 -->
+    <!-- START Nielsen Online SiteCensus V6.0 -->
+    <!-- COPYRIGHT 2009 Nielsen Online -->
+    <script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
+    </script>
+    <script type="text/javascript">
+     var pvar = { cid: "novafm", content: "0", server: "secure-au" };
+     var trac = nol_t(pvar);
+     trac.record().post();
+    </script>
+    <noscript>
+        <div>
+            <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=novafm&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+
+
 
 <div id="FooterAd">
-<script type="text/javascript">
-    GA_googleAddSlot("ca-pub-5737505327911656", "NovaFM_1_ROS_728x90");
-    GA_googleFillSlot("NovaFM_1_ROS_728x90");
-</script>
+    
+        <script type="text/javascript">
+            GA_googleAddSlot("ca-pub-5737505327911656", "NovaFM_1_ROS_728x90");
+            GA_googleFillSlot("NovaFM_1_ROS_728x90");
+        </script>
+    
+    
 </div>
-
-<div id="Footer">
-<div id="Footer-i">
-    
-    <ul>
-        <li><h2><a href="http://www.novafm.com.au/Nova1069/Shows">Shows</a></h2></li>
-        
-        <li><a href="http://www.novafm.com.au/Nova1069/Show_Action-Battle-Team_157">Action Battle Team</a></li>
-        
-        <li><a href="http://www.novafm.com.au/Nova1069/Show_Cat_16">Cat</a></li>
-        
-        <li><a href="http://www.novafm.com.au/Nova1069/Show_Merrick-Dools-Ricki-Lee_170">Merrick, Dools &amp; Ricki-Lee</a></li>
-        
-        <li><a href="http://www.novafm.com.au/Nova1069/Show_Meshel-Tim-and-Marty_9">Meshel, Tim and Marty</a></li>
-        
-        <li><a href="http://www.novafm.com.au/Nova1069/Show_Nova-iTunes_216">Nova + iTunes</a></li>
-        
-    </ul>
-    <ul>
-        <li><h2><a href="Music">Music</a></h2></li>
-        
-        <li><a href="Artist_Cheryl-Cole_3239">Cheryl Cole</a></li>
-        
-        <li><a href="Artist_Vampire-Weekend_489">Vampire Weekend</a></li>
-        
-        <li><a href="Artist_Sia_1008">Sia</a></li>
-        
-        <li><a href="Artist_Orianthi_427">Orianthi</a></li>
-        
-        <li><a href="Artist_Ke-ha_494">Ke$ha</a></li>
-        
-        <li><a href="Artist_Angus-Julia-Stone_984">Angus &amp; Julia Stone</a></li>
-        
-        <li><a href="Artist_Lady-Gaga_16">Lady Gaga</a></li>
-        
-        <li><a href="Artist_La-Roux_128">La Roux</a></li>
-        
-    </ul>
-    <ul>
-       <li><h2>More</h2></li>
-        
-        <li><a href="http://www.novafm.com.au/Video_Janelle-Monae-performs-Tightrope-on-David-Letterman_102865">Janelle Monae perform...</a></li>
-        
-        <li><a href="http://www.novafm.com.au/Video_Goldfrapp-Alive-video-clip_102830">Goldfrapp "Alive" vid...</a></li>
-        
-        <li><a href="http://www.novafm.com.au/Video_Usher-is-mates-with-Barack-Obama_102766">Usher is mates with B...</a></li>
-        
-    </ul>
-    <ul>
-        <li><h2>Nav</h2></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Galleries">Gallery</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Articles">Features</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Videos">Videos</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Events">Events</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Polls">Polls</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Forum">Forums</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Audios">Audio</a></li>
-        <li><a href="http://www.novafm.com.au/Nova1069/Comps">Competitions</a></li>
-    </ul>
-    <ul id="extraFooterLinks">
-            <li><a id="dmgRadio-footer" href="http://www.dmgradio.com.au" target="_blank"><span></span></a></li>
-            <li><a id="nowplaying-footer" href="/Nova1069/streaming.aspx" onclick="var test = window.open('/Nova1069/streaming.aspx','Streaming','left=20,top=20,width=750,height=600,toolbar=0,resizable=0');return false;"><span></span></a></li>
-            <li>Copyright 2009 © dmgRadio Australia<br><a href="terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Statement</a> <br> <a href="http://www.dmgconnect.com.au" style="font-size:1.1em;" target="_blank"><strong>Advertise</strong></a> | <a href="contactus">Contact Us</a></li>
+<div id="Footer" class="clearfix">
+    <div id="Footer-i">
+        <ul>
+            <li><h2><a href="http://www.novafm.com.au/nova969/shows">Shows</a></h2></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_action-battle-team_153">Action Battle Team</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_harlee-mcleod_19">Harlee McLeod</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_jamie-row_20">Jamie Row</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_ryan-monty-and-wippa_78">Ryan, Monty and Wippa</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_dan-and-leon_310">Dan and Leon</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_the-music-lab_264">The Music Lab</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_merrick-dools-ricki-lee_166">Merrick, Dools &amp; Ricki-Lee</a></li>
+            
+            <li><a href="http://www.novafm.com.au/nova969/show_sounds-like-new_205">Sounds Like New</a></li>
+            
         </ul>
-    
-</div></div>
-
+        <ul>
+            <li><h2><a href="http://www.novafm.com.au/music">Music</a></h2></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_david-guetta_84">David Guetta</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_cassette-kids_483">Cassette Kids</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_jane-s-addiction_2847">Jane's Addiction</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_paramore_48">Paramore</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_basement-jaxx_21">Basement Jaxx</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_art-vs-science_1150">Art Vs Science</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_the-avett-brothers_3309">The Avett Brothers</a></li>
+            
+            <li><a href="http://www.novafm.com.au/artist_jason-derulo_496">Jason Derulo</a></li>
+            
+        </ul>
+        <ul>
+            <li><h2>More</h2></li>
+            
+            <li><a href="http://www.novafm.com.au/article_how-do-you-know-live-premiere_106199">How Do You Know...</a></li>
+            
+            <li><a href="http://www.novafm.com.au/article_first-look-at-new-pirates-of-the-caribbean-on-stranger-tides-trailer_106195">First look at new...</a></li>
+            
+            <li><a href="http://www.novafm.com.au/video_miley-cyrus-gets-the-taiwan-animation-treatment_108931">Miley Cyrus gets...</a></li>
+            
+        </ul>
+        <ul>
+            <li><h2>Nav</h2></li>
+            <li><a href="http://www.novafm.com.au/nova969/galleries">Gallery</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/articles">Features</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/videos">Videos</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/events">Events</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/polls">Polls</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/forum">Forums</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/audios">Audio</a></li>
+            <li><a href="http://www.novafm.com.au/nova969/competitions">Competitions</a></li>
+        </ul>
+        <ul id="extraFooterLinks">
+            <li><a id="dmgRadio-footer" href="http://www.dmgradio.com.au" target="_blank"><span></span></a></li>
+            <li><a id="nowplaying-footer" href="/player.aspx?site=Nova969" onclick="var test = window.open('/player.aspx?site=Nova969','Streaming','left=20,top=20,width=750,height=600,toolbar=0,resizable=0');return false;"><span></span></a></li>
+            <li>Copyright 2009 © dmgRadio Australia<br><a href="http://www.novafm.com.au/nova969/terms">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Statement</a> <br> <a href="http://www.dmgconnect.com.au" target="_blank" style="font-size:1.1em;"><strong>Advertise</strong></a> | <a href="http://www.novafm.com.au/nova969/contactus">Contact Us</a></li>
+        </ul>
+    </div>
+</div>
 <div class="clearer">&nbsp;</div>
-            </form>
+            
         </div>
     </div>
-    <script type="text/javascript">
+        <script type="text/javascript">
         FB_RequireFeatures(["Connect"], function() {
             FB.Facebook.init('b44af8f40fe7c8aa730d82b1b11995b0', '/Facebook/xd_receiver.htm');
             
         });
     </script>
+</form>
 
 
 </body></html>
