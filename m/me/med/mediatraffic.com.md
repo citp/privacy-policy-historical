@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608072722id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220043912id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Media Traffic - CPV PPV Contextual Advertising - Privacy Policy
-
-## 2\. Information Collected and How It's Used
-
-**Your IP address**  
-An IP (Internet Protocol) address is automatically assigned to your computer every time you establish a connection on the Internet. Mediatraffic.com uses your IP address to help diagnose problems with our server and to administer our web site. When you open an account on mediatraffic.com, your ip address will be associated with personally identifiable information.
-
-**Cookies**  
-In computer language, a cookie is used to store data on your computer's hard drive. We use cookies to store your account number once you register. We never use cookies to capture or contain personal information from your computer. The only personal information mediatraffic.com has is what you give to us.
 
 **Third Party Cookies**  
 From time to time we employ the services of a third party agent in tracking statistical data on the Site. This agent may utilize cookies and web beacons to facilitate the service. A web beacon is a 1x1 image that tracks site traffic and isn't tied to any personal information. We are not responsible for, nor have any control over these third party cookies. We use this aggregated information to improve our Site functionality.
