@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604134716id_/http%3A//copyright.com/viewPage.do%3FpageCode%3Di3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220202330id_/http%3A//www.copyright.com/viewPage.do%3FpageCode%3Di3) for the most accurate reproduction.*
 
 # Privacy Policy - Copyright Clearance Center
 
