@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recovery-cd.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525110357id_/http%3A//www.recovery-cd.com/System/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovery-cd.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024721id_/http%3A//recovery-cd.com/System/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statment
 
