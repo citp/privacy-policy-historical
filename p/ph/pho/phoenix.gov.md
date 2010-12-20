@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629105825id_/http%3A//phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220170453id_/http%3A//phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
 
 # PHOENIX.GOV SECURITY AND PRIVACY STATEMENTS
 
@@ -46,7 +46,7 @@ Non-persistent cookies are automatically destroyed when you close your Web brows
 
 As a governmental agency, we are governed by public records laws. Any information that we receive through the use of our site is subject to the same provisions as information provided on paper.
 
-If you send us e-mail, we may redirect your message to another governmental agency or person who is in a better position to answer your question or handle your message. We only share the information you provide with another agency if your inquiry relates to that agency or as otherwise required by law.
+If you send us e-mail, we may redirect your message to another governmental agency or person who is in a better position to answer your question or handle your message. We only share the information you provide with another agency if your inquiry relates to that agency or as otherwise required by law. Your e-mail and information contained within it could also be released to a media outlet through a formal public records request. This may include your name and e-mail address. Therefore, before you submit e-mail to the city of Phoenix, you should understand it is not private or confidential. 
 
 Otherwise, we do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties. This information is not reported or used in any manner that would reveal personally identifying information and is not released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
@@ -58,4 +58,4 @@ The City's site has many links to other Websites, such as those operated by othe
 
 If you have questions about this privacy policy, or if you believe that the City of Phoenix is using your personally identifying information for a purpose other than described here, please contact the City's [Information Security & Privacy Office](https://web.archive.org/email/emprvcy.html).
 
-_Last modified on 12/04/2009 14:33:13_
+_Last modified on 09/04/2010 08:05:16_
