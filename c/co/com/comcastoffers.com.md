@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619060310id_/http%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220094609id_/http%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
 
 # Comcast High-Speed Internet | ComcastOffers.com
 
@@ -24,7 +24,7 @@ This Privacy Policy applies to ComcastOffers.com's method of collection and use 
 **Security**  
 We believe that protecting the security of your Personal Information is very important. Therefore, we have put strong security measures in place to attempt to protect your Personal Information. Access to Personal Information is limited to ComcastOffers.com employees or other authorized individuals, and a limited number of our fulfillment partners. Identities are verified by internal network access rules and application username/password pairs. Data fields that identify individuals are separated from non-sensitive data fields. Data identifying Personal Information is encrypted through use of industry standard AES encryption methods and practices. Data decryption keys are kept physically separate from encryption keys and encrypted data. Records are marked with tamper-proof authentication digests.
 
-ComcastOffers.com requires internal users to use MediacomCableOffers.com's standardized methods of data transfer, encryption and storage. We encourage external parties, service providers and vendors to use our standardized methods of data transfer, encryption and storage, or an equivalent method.
+ComcastOffers.com requires internal users to use ComcastOffers.com's standardized methods of data transfer, encryption and storage. We encourage external parties, service providers and vendors to use our standardized methods of data transfer, encryption and storage, or an equivalent method.
 
 We also monitor hardware and software logs for operational compliance with security policies. ComcastOffers.com quarantines data that arrives on a channel not approved in the policy until its source and disposition can be determined in accordance with the security policy. Consequences of non-compliance range from delay in reporting response times to refusal to accept or verify data, in accordance with penalties specified by contract.
 
