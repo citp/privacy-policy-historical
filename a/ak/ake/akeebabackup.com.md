@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the akeebabackup.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617013156id_/http%3A//www.akeebabackup.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akeebabackup.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220225515id_/http%3A//www.akeebabackup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AkeebaBackup.com Privacy Policy
+# Privacy Policy
 
-##  Privacy Policy 
-
-[](https://www.akeebabackup.com/privacy-policy/privacy-policy.pdf "PDF")[](https://www.akeebabackup.com/index.php?view=article&id=337%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=186 "Print")[](https://www.akeebabackup.com/index.php?option=com_mailto&tmpl=component&link=aHR0cHM6Ly93d3cuYWtlZWJhYmFja3VwLmNvbS9wcml2YWN5LXBvbGljeS9wcml2YWN5LXBvbGljeS5odG1s&Itemid=186 "E-mail")
-
-Written by Akeeba Backup Team  Thursday, 18 February 2010 19:37 
+Thursday, 18 February 2010 11:37 
 
 ### Summary
 
