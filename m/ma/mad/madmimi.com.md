@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612064301id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220041520id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
 
 # Mad Mimi Email Marketing
 
@@ -29,7 +29,7 @@ Mad Mimi, LLC
 1 Prospect Park SW  
 Suite 4N  
 Brooklyn, New York 11215  
-support@madmimi.com
+help@madmimi.com
 
 #### Periodic emails from Mad Mimi
 
