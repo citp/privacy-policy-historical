@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspeedmaximizer.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611064757id_/http%3A//avanquest.com/USA/corporate/legal/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedmaximizer.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220012826id_/http%3A//avanquest.com/USA/corporate/legal/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
