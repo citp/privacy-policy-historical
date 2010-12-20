@@ -1,257 +1,2394 @@
-<!--The following is the downloaded HTML source of the tyndale.com privacy policy that was archived on 2001-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010408172927id_/http%3A//www.tyndale.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tyndale.com privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220035130id_/http%3A//www.tyndale.com/00_Home/privacy.php) for the most accurate reproduction.-->
 
-<html><head><title>Tyndale House Publishers Privacy Policy</title></head>
-<body background="images/background.gif">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />  -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+
+<!-- TURN OFF CLIENT SIDE BROWSER CACHING 
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="Fri, 22 Jan 2010 11:12:01 GMT">
+-->
+
+
+<title> Tyndale House Publishers - Christian Fiction, Nonfiction, Children's Books and Bibles  </title>
+
+
+<script src="/includes/libraries/spry/SpryAccordion.js" type="text/javascript"></script>
+<link href="/includes/libraries/spry/SpryAccordion.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/includes/libraries/spry/SprySlidingPanels.js"></script>
+<link href="/includes/libraries/spry/SprySlidingPanels.css" rel="stylesheet" type="text/css">
+<link href="/includes/styles/tags.css" rel="stylesheet" type="text/css">
+<link href="/includes/styles/template.css" rel="stylesheet" type="text/css">
+<link href="/includes/styles/content.css" rel="stylesheet" type="text/css">
+<link href="/favicon.png" rel="icon" type="image/png">
+<script type="text/javascript" src="/includes/libraries/jquery/jquery.js"></script>
+<script type="text/javascript" src="/includes/libraries/flash/swfobject.js"></script>
+<script type="text/javascript" src="/includes/libraries/spry/xpath.js"></script>
+<script type="text/javascript" src="/includes/libraries/spry/SpryData.js"></script>
+<script type="text/javascript" src="/includes/libraries/spry/SpryJSONDataSet.js"></script>
+<script type="text/javascript" src="/includes/scripts/global_events.js"></script>
+<script type="text/javascript" src="/includes/scripts/global_operations.js"></script>
+<script type="text/javascript" src="/includes/libraries/date/PhpDate.js"></script>
+<script type="text/javascript">var request = [];</script>
+<script type="text/javascript" src="/includes/libraries/spry/SimpleAutoSuggest.js"></script>
+
+
+<!-- Tyndale Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3191772-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+
+<!-- AddThis Tracking -->
+<script type="text/javascript">   try{      var pageTracker = _gat._getTracker("UA-3191772-3");      pageTracker._trackPageview();   } catch(err) {}</script>
+<!--|| local <head> section ||-->
+<style type="text/css">
+/* Widget Placement */
+
+/* Other Local Styles */
+.Privacy_Container
+{
+    margin-left:25px;
+    overflow:auto;
+    margin-right:15px;
+}
+</style>
+<!--|| end local </head> section ||-->
+
+    	<meta name="keywords" content=" Tyndale House Publishers - Christian Fiction, Nonfiction, Children's Books and Bibles  ">
+		<meta name="description" content=" Tyndale publishes Christian fiction, nonfiction, children's books, and other resources, including Bibles in the New Living Translation (NLT).  Find new book releases, bestselling titles, author news and more. ">
+    
+<script type="text/javascript">
+
+
+
+/* -------------- AUTO SUGGEST FUNCTION ------------------ */
+/*
+		var searchHead_isEng = 1;
+		var searchHead_isSpa = 0;
+	
+	
+	// product data stuff
+	var searchHead_stringLength = 0;
+	var searchHead_dsProducts = new Spry.Data.JSONDataSet();	
+
+	//observers to put in animated gif
+	searchHead_dsProducts.addObserver(searchHead_dsProducts_Observer);
+
+function searchHead_dsProducts_Observer(notificationType, dataSet, data)
+{
+	var searchHead_indicator = document.getElementById ('searchHead_indicator');
+	if (notificationType !== 'onDataChanged' ) {
+		searchHead_indicator.style.visibility = 'visible';
+	}
+	else 
+	{
+		searchHead_indicator.style.visibility = 'hidden';
+	}
+}
+
+function searchHead_GetProductsByString(searchStr)
+{
+	searchHead_dsProducts.setURL('/00_Home/search_autoSuggest_handler.php?searchStr='+searchStr+'&amp;isEng='+searchHead_isEng+'&amp;isSpa='+searchHead_isSpa, { sortOnLoad: "Suggestions", useCache:false });
+	searchHead_dsProducts.loadData();
+}
+
+
+function searchHead_MyQueryFunc(autoCompleteWidget, str, dataSet, columnName)
+{
+	if ( dataSet.getLoadDataRequestIsPending() ) { return; }
+	
+	if ( dataSet.getUnfilteredData().length > 0 )
+	{
+		autoCompleteWidget.showSuggestions(true);
+		
+		if ( str.length < searchHead_stringLength )
+		{ searchHead_GetProductsByString(str); return; }
+		searchHead_stringLength = str.length;
+		
+		if ( dataSet.getUnfilteredData().length >= 20 )
+		{ searchHead_GetProductsByString(str); return; }
+	}
+	else
+	{ searchHead_GetProductsByString( str ); return; }
+}
+		
+//shows auto-suggest window
+function searchHead_ShowASW() {
+var searchHead_asw2 = document.getElementById ("searchHead_productMenu");
+		searchHead_asw2.style.visibility = "visible";
+		searchHead_asw2.style.display = "block";
+}
+
+//hides auto-suggest window
+function searchHead_HideASW () {
+var searchHead_asw2 = document.getElementById ("searchHead_productMenu");
+		searchHead_asw2.style.visibility = "hidden";
+		searchHead_asw2.style.visibility = "visible";
+}
+
+//submits form when someone selects a title from the ASW
+function searchHead_ASWSubmit () {
+
+//	var searchHead_asw2 = document.getElementById ("searchHead_productMenu");
+	var searchHead_asw2 = document.getElementById ("template_search_input");
+
+//	alert(searchHead_asw2.value);
+	document.searchHead_searchForm.submit();
+}
+*/
+
+</script>
+
+<style type="text/css">
+
+	/* product selector styles */	
+	#searchHead_productMenu {
+		width:214px;
+		height:280px;
+		border: 1px solid #999999;
+		cursor: select;
+		padding: 0px;
+		position: absolute;
+		left: 0px;
+		background-color: #ffffff;
+		overflow:auto;
+	}
+	.searchHead_productMenuItem {
+		width:190;
+		/*height:60px;*/
+		padding: 3px;
+		clear:both;
+		border-bottom: 1px solid #999999;
+	}
+	
+	#searchHead_productSample {
+		position: relative;
+	}
+	.searchHead_hover {
+		background-color: #eff4f5;
+	}
+	
+	.searchHead_indicator { visibility:hidden ; }
+
+</style>
+
+</head>
+
+<body id="template_body"> <!-- onload for calendar -->
+
+
+<div id="template_flash_error" style="display:none;"><!-- Convert to XML -->
+    <strong>You need to upgrade your Flash Player</strong>
+    Please visit <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;promoid=BIOW" class="mainLink" target="_blank">Adobe.com</a> to
+    get your free Flash Player.
+</div>
+<div id="template_modal" style="width: 964px; height: 3377px; position: absolute; left: 202px; top: 135px;">&nbsp;</div>
 <center>
-<img src="images/splash_header.gif" border="0" height="74" width="470" alt="Tyndale House Publishers"></center>
-<p>
-<font face="arial" "helvetica"=""><b>Tyndale House Privacy Policy 10/18/00</b>
-</font></p><p><font face="arial" "helvetica"="">
-         WELCOME TO TYNDALE HOUSE PUBLISHING!
-</font></p><p><font face="arial" "helvetica"="">
-          Tyndale.com, the Internet site located at <a href="http://www.tyndale.com">http://www.tyndale.com</a> (the "Site"), is operated and
-          maintained by Tyndale House Publishers ("Tyndale").  This Privacy Policy describes Tyndale's policies and
-          procedures for the collection of personal information by this Site, and our use and dissemination of such
-          information. If you do not feel comfortable with Tyndale's Privacy Policy, please do not use this Site
-          or allow your children to use it. 
-</font></p><p><font face="arial" "helvetica"="">
-          From time to time Tyndale may revise this Privacy Policy. Therefore you should review it
-          periodically so that you are up to date on our policies and practices. If there is a material change in
-          those policies or practices that relate to the collection, use or disclosure of children's personal
-          information, Tyndale will notify parents who have consented to their children providing us with such
-          information in the past. If you want to communicate with us about our Privacy Policy, please contact us
-          at:
-<br>
-          Tyndale House Publishers
-<br>      Attn: Internet Group
-<br>      351 Executive Drive
-<br>      Carol Stream, IL  60188
-<br>      Telephone: 630-784-5555
-<br>      Email: <a href="mailto:comments@tyndale.com">comments@tyndale.com</a>
-</font></p><p><font face="arial" "helvetica"="">
-Tyndale.com's policy is to respect and protect the privacy of our users.  This policy's statement tells you how we collect information from you and how we use it.  Using the internet should be a fun and positive experience and we want to help you enjoy it.
-</font></p><p><font face="arial" "helvetica"="">
-This Privacy Policy consists of two sections. Section I describes Tyndale's policies that apply to the
-          collection, use and disclosure of personal information furnished to us by visitors to our Site who are age
-          13 and over. Section II describes the special additional policies Tyndale applies to the collection,
-          use and disclosure of personal information about visitors to our Site who are under age 13. Parents
-          should read both Sections to obtain a full understanding of Tyndale's privacy policies and practices. 
-</font></p><p><font face="arial" "helvetica"="">
-<b>          I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION BY TYNDALE</b></font></p><p><font face="arial" "helvetica"=""><b>
+<!--	<div style="width:964px; margin-left:auto; margin-right:auto;">-->
+    	
+        <div id="template_container" style="1px solid #ff0000; margin-top:0px; padding-top:17px;">
+			<div style="width:960px;">
+                <!-- Display Top Right Nav -->
+				<div id="template_nav_top_right">
+                							<img src="/images/template/menus/top_right/top_right_nav_eng.gif" width="300" border="0" usemap="#Map" alt="eng|spa" style="float:right; margin-right:12px; position:relative; left:5px;">
+                            <map name="Map" id="Map">
+								<area shape="rect" coords="0,0,78,10" href="/00_Home/enewsletters.php" alt="enewsletters">
+								<area shape="rect" coords="83,0,135,10" href="/00_Home/contact.php" alt="contact">
+								<area shape="rect" coords="139,0,162,10" href="/00_Home/faq.php" alt="faq">
+								<area shape="rect" coords="167,0,214,10" href="/00_Home/sitemap.php" alt="site map">
+								<area shape="rect" coords="220,0,316,10" href="/00_Home/store_locator.php" alt="store locator">
+                            </map>
+										</div>
+			</div>   
+            <div id="template_header">
+            	<a href="/"><img src="/images/template/tyndale_house_publishers_logo.jpg" border="0" alt="  Tyndale House Publishers  "></a>
+                <div id="template_nav_main">
+	<a href="/00_Home/index.php">
+				 
+				<img src="/images/template/menus/main/home_on.gif" alt="home">
+				 
+			</a><a href="/10_Authors/">
+				 
+				<img src="/images/template/menus/main/authors.gif" alt="authors" onmouseover="src='/images/template/menus/main/authors_on.gif';" onmouseout="src='/images/template/menus/main/authors.gif';">
+				 
+			</a><a href="/20_Bibles/">
+				 
+				<img src="/images/template/menus/main/bibles.gif" alt="bibles" onmouseover="src='/images/template/menus/main/bibles_on.gif';" onmouseout="src='/images/template/menus/main/bibles.gif';">
+				 
+			</a><a href="/30_Books/">
+				 
+				<img src="/images/template/menus/main/books.gif" alt="books" onmouseover="src='/images/template/menus/main/books_on.gif';" onmouseout="src='/images/template/menus/main/books.gif';">
+				 
+			</a><a href="/40_Multimedia/">
+				 
+				<img src="/images/template/menus/main/multimedia.gif" alt="multimedia" onmouseover="src='/images/template/menus/main/multimedia_on.gif';" onmouseout="src='/images/template/menus/main/multimedia.gif';" style="margin-right:0px;">
+				 
+			</a><a href="/50_Company/">
+				 
+				<img src="/images/template/menus/main/company.gif" alt="company" onmouseover="src='/images/template/menus/main/company_on.gif';" onmouseout="src='/images/template/menus/main/company.gif';" style="margin-right:0px;float:right;">
+				 
+			</a> 
+</div>                            </div>
+            <div id="template_top_tools">
+				<!-- searchbox begins -->  
+				<div style="margin-top:10px; background-color:#ffffff;">
+					<form action="/00_Home/search.php" method="post" name="searchHead_searchForm" style="display:inline;">
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td valign="top">  
+									<!-- <input id="template_search_input" name="searchHead_search_str" type="text" onKeyUp="javascript: searchHead_ShowASW();" />  -->
+																		<input id="template_search_input" name="searchHead_search_str" type="text" autocomplete="on" value="title, author or keyword" onfocus="if(this.value=='title, author or keyword') this.value='';" onblur="if(this.value.replace(' ','')=='') this.value='title, author or keyword';">
+									<br clear="all">
+					 
+									<div id="searchHead_ASW_Container" style="z-index: 55555; position: absolute; left: 855px; display: block;">    
+								   <!--NO DROPDOWN BOX FOR THE HOMEPAGE FOR NOW 
+										<div id="searchHead_productMenu" spry:region="searchHead_dsProducts" style="display: none;">
+											<div spry:repeat="searchHead_dsProducts" spry:hover="searchHead_hover" spry:suggestion="{Suggestions}" class="searchHead_productMenuItem" onMouseOver="javascript: searchHead_ShowASW();" onClick="javascript: searchHead_ASWSubmit();">
+												{Suggestions}
+											</div>
+										</div>
+								  -->
+									</div>
+								</td>
+								<td valign="top">
+									<div style="margin-left: 10px; margin-right:10px;">   
+										<input type="image" id="template_btn_search" src="/images/template/btn_search_eng.gif" alt="  search  " style="float:right">
+									</div>
+								</td>
+								<td>
+									<!-- <div id="searchHead_indicator" class="searchHead_indicator"><center><img src="/images/0_home/001_search/load_ani_IR.gif" /></center></div> -->
+								</td>
+							</tr>
+						</tbody></table>
+					</form>
+                
+					<!-- NO DROPDOWN BOX ON THE HOMEPAGE FOR NOW
+					<script type="text/javascript">
+						var searchHead_asw2 = new Spry.Widget.SimpleAutoSuggest("template_search_input", "searchHead_productMenu", function(searchHead_acWidget, searchHead_str) { searchHead_MyQueryFunc(searchHead_acWidget, searchHead_str, searchHead_dsProducts, "Suggestions"); });
+					</script>
+					-->
+                
+                </div>
+                <!-- end of searchbox -->
+                                <div style="margin-bottom:13px;">
+                    <img src="/images/template/btn_english_spanish_english_eng.gif" id="template_btn_spanish_english" usemap="#template_btn_spanish_englishMap">
+                    <map name="template_btn_spanish_englishMap" id="template_btn_spanish_englishMap">
+                        <area shape="rect" coords="1,1,46,13" href="/00_Home/privacy.php?lang=eng" alt="  switch to english  ">
+                        <area shape="rect" coords="46,1,94,13" href="/00_Home/privacy.php?lang=spa" alt="  switch to spanish  ">
+                    </map>
+                    <a href="/issue_report.php" style="display:none;"><img src="/images/template/btn_report_issue.gif" id="issue_report_link" style="float:right; margin-top:-17px;"></a>
+                </div>
+            </div>    
+    <!--|| local <body> section ||-->
+    <div class="content_shadowbox">
+    <img src="/images/content/bg_shadowbox_top.gif" class="content_shadowbox_top" alt=""><br>
+         <div class="content_shadowbox_mid">
+            <div class="content_mid_container">  
+                <div class="Privacy_Container">
+					
+			 
+			<strong>Tyndale House Publishers Privacy Policy</strong> 
+			  
+		<br><br>
+					
+					
+			
+Tyndale.com, the Internet site located at http://www.tyndale.com (the "Site"), is operated and maintained by Tyndale House Publishers ("Tyndale"). This Privacy Policy describes Tyndale's policies and procedures for the collection of personal information by this Site, and our use and dissemination of such information. If you do not feel comfortable with Tyndale's Privacy Policy, please do not use this Site or allow your children to use it.
+<br><br>
+From time to time Tyndale may revise this Privacy Policy. Therefore you should review it periodically so that you are up to date on our policies and practices. If there is a material change in those policies or practices that relate to the collection, use or disclosure of children's personal information, Tyndale will notify parents who have consented to their children providing us with such information in the past. If you want to communicate with us about our Privacy Policy, please contact us at:<br>
+Tyndale House Publishers<br>
+Attn: Internet Group<br>
+351 Executive Drive<br>
+Carol Stream, IL 60188<br>
+Telephone: 630-784-5555<br>
+Email: <a href="/00_Home/contact.php">click here</a><br><br>
 
-          General.</b> Personally identifiable information about visitors to this Site (that is, information such as a
-          visitor's name, email address, mailing address, or telephone number) is collected only when knowingly
-          and voluntarily submitted. Such information may be requested in connection with our sweepstakes,
-          contests, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards,
-          guestbooks, requests for suggestions, visitors' requests for products or services, and visitors' requests
-          for additional information. Tyndale does not require a visitor to disclose more information than is
-          reasonably necessary to participate in the online activity he or she is interested in.
-</font></p><p><font face="arial" "helvetica"="">
-          Joint Collection of Personal Information. Sometimes Tyndale collects personal information jointly
-          with business partners or sponsors. The identity of the entities collecting personal information will be
-          clear at the time your personal information is collected. 
-</font></p><p><font face="arial" "helvetica"="">
-        <b>  WHAT TYNDALE DOES (AND DOESN'T DO) WITH THE PERSONAL
-          INFORMATION WE COLLECT</b>
-</font></p><p><font face="arial" "helvetica"="">
-         <b> General.</b> Tyndale uses personally identifiable information only for the purpose for which it is
-          submitted unless we disclose other uses at the time of collection, in which case you will have the
-          opportunity to instruct us not to use your data in other ways (i.e., "opt-out").
-</font></p><p><font face="arial" "helvetica"="">
-          Sharing Personal Information. Tyndale may share personally identifiable information with our affiliates or with 
-          some of our business partners who would like to send you information about their products or services. However, 
-          when we collect your information you will have the opportunity to instruct us not to share your information in these 
-          ways (i.e., opt-out"). 
-</font></p><p><font face="arial" "helvetica"="">
+Tyndale.com's policy is to respect and protect the privacy of our users. This policy's statement tells you how we collect information from you and how we use it. Using the internet should be a fun and positive experience and we want to help you enjoy it.
+<br><br>
+This Privacy Policy consists of two sections. Section I describes Tyndale's policies that apply to the collection, use and disclosure of personal information furnished to us by visitors to our Site who are age 13 and over. Section II describes the special additional policies Tyndale applies to the collection, use and disclosure of personal information about visitors to our Site who are under age 13. Parents should read both Sections to obtain a full understanding of Tyndale's privacy policies and practices.
+<br><br>
+<strong>I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION BY TYNDALE</strong>
+<br><br> 
+<strong>General.</strong> Personally identifiable information about visitors to this Site (that is, information such as a visitor's name, email address, mailing address, or telephone number) is collected only when knowingly and voluntarily submitted. Such information may be requested in connection with our sweepstakes, contests, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, guestbooks, requests for suggestions, visitors' requests for products or services, and visitors' requests for additional information. Tyndale does not require a visitor to disclose more information than is reasonably necessary to participate in the online activity he or she is interested in.
+<br><br>
+Joint Collection of Personal Information. Sometimes Tyndale collects personal information jointly with business partners or sponsors. The identity of the entities collecting personal information will be clear at the time your personal information is collected.
+<br><br>
+<strong>WHAT TYNDALE DOES (AND DOESN'T DO) WITH THE PERSONAL INFORMATION WE COLLECT</strong>
+<br><br>
+General. Tyndale uses personally identifiable information only for the purpose for which it is submitted unless we disclose other uses at the time of collection, in which case you will have the opportunity to instruct us not to use your data in other ways (i.e., "opt-out").
+<br><br>
+Sharing Personal Information. Tyndale may share personally identifiable information with our affiliates or with some of our business partners who would like to send you information about their products or services. However, when we collect your information you will have the opportunity to instruct us not to share your information in these ways (i.e., "opt-out").
+<br><br>
+<strong>LINKS/CO-BRANDED SITES</strong>
+<br><br>
+Tyndale has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites, may be "co-branded" with a Tyndale logo; however, they are not operated or maintained by Tyndale. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners.
+<br><br>
+Tyndale chooses its advertisers and business partners carefully. However, Tyndale is not responsible for the content or practices of web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Tyndale of the content, policies or practices of such third party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third party site.
+<br><br>
+This Site may also be linked to web sites operated by companies affiliated with Tyndale. Tyndale may share information collected by these affiliated companies; however, this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
+<br><br>
+<strong>NON-PERSONALLY IDENTIFIABLE INFORMATION</strong>
+<br><br>
+When visitors come to our Site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor. Tyndale, like most major web sites, collects such information by placing small bits of information, known as "cookies", on the hard drive of your computer to log IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet service providers (e.g., AOL or NET.COM) used by each visitor to the Site.
+<br><br>
+Cookies enable us to do a number of things to make your visit and future visits to the site more enjoyable. For example, cookies allow a visitor to quickly log on to a site he/she has used before by storing a password. By tracking how many people visit our Site and where they go, we are able to determine which part of the Site users like the best, which part needs some improvement and what changes should be made. By obtaining this information, we are able to continually improve our Site and bring you the best online experience possible.
+<br><br>
+Although the cookie itself does not collect any personally identifiable information about a visitor, and Tyndale does not use cookies in order to obtain such information, the cookie can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet. Tyndale may also disclose some of the non-personally identifiable information we obtain to advertisers to inform them how many people have seen or linked to their advertisements on our Site. However, we do not disclose personally identifiable information to these advertisers. Visitors may also receive cookies from third parties, but Tyndale cannot control the content of these cookies.
+<br><br>
+Tyndale does not save credit card information in a cookie.
+<br><br>
+You should consult your browser owner's manual for instructions on how to refuse cookies.
+<br><br>
+<strong>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION</strong>
+<br><br>
+Visitors may review or delete personal information from our records at any time. If you would like to know the types of personal information Tyndale collects from visitors to the Site, please contact us using the form on our contact page (<a href="/00_Home/contact.php">click here</a>) or write to us at Tyndale House Publishers Attn: Internet Group, 351 Executive Drive, Carol Stream, IL 60188. If you would like to know whether we have collected personal information about you, please provide us with the activities that you participated in on the Site, which requested personal information. After we have reviewed the relevant databases, we will confirm whether we have collected such information about you. Prior to changing or deleting such information, we require that you provide us with proof of your name and address, such as a valid driver's license. Once we have received such proof and determined that it is satisfactory, we will immediately delete or modify your information in our database and refrain from collecting any other personally identifiable information from you, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+<br><br>
+<strong>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</strong>
+<br><br>
+Tyndale has established and maintains reasonable procedures to protect the confidentiality, security and integrity of personal information collected by this Site.
+<br><br>
+<strong>II. ADDITIONAL POLICIES THAT APPLY TO CHILDREN UNDER 13 KIDS AND INTERNET SAFETY</strong>
+<br><br>
+We at Tyndale understand that the Internet presents an opportunity for us to reach the public in new and exciting ways with information about our programming, fun games, exciting sweepstakes and contests, email, chat rooms, bulletin boards, and other forms of interactivity. Tyndale also recognizes the privacy concerns of parents, and the importance of protecting the privacy of the information this Site collects from children. Parents of children who visit this Site can be confident that any personal information that may be provided to this Site will be collected and maintained in accordance with the Children's Online Privacy Protection Act ("COPPA"). Tyndale encourages parents to supervise their children's activities online and to participate with their children's online activities whenever possible. However, we understand that parents may not always be able to supervise their children's activities on the Internet. That's why Tyndale has developed a Site that parents can feel is safe for their children and kids will find cool, informative, educational, and fun! Because there's always room for improvement, Tyndale welcomes any suggestions on how to make the Site a better, safer place to hang out.
+<br><br>
+<strong>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</strong>
+<br><br>
+When a visitor to our Site is under the age of 13, Tyndale does not require the disclosure of more personally identifiable information than is reasonably necessary for him or her to participate in an activity as a condition of such participation.
+<br><br>
+Tyndale may use different types of personally identifiable information submitted to this Site by children under 13 in a variety of ways, which are described below. In each instance, we comply with the parental consent requirements of COPPA.
+<br><br>
+A. Use of a Child's Information by Tyndale
+<br><br>
+    * We may collect a child's email address in connection with a contest, sweepstakes or game for the sole purpose of communicating with the child on a one-time-only basis (i.e., to contact a contest winner). This information will not be used to re-contact the child, and will be deleted from our records when the contest or game is over. Parental consent will be obtained before we send the winner a prize.
+<br><br>
+    * We may collect a child's email address in order to respond more than once to a child's specific request. For example, the child may want to subscribe to an online newsletter or receive other online communications from Tyndale. In these instances Tyndale will also obtain a parent's email address along with the child's. Before any further contact with the child, Tyndale will send an email to the parent (a) notifying him or her we have collected the child's email address in order to respond more than once to the child's request for a subscription, information, etc; (b) informing the parent that he or she can refuse us permission to contact the child, and how to do so; and (c) informing the parent that if he or she does not respond to the email within 72 hours, Tyndale may use the child's information for the purpose for which it was submitted.
+<br><br>
+    * We may collect a child's personally identifiable information (including name, email address, mailing address and phone number) for such activities as chats, forums, surveys, games, guestbooks, bulletin boards, requests for suggestions, subscription registrations, content submissions, requests for products or services, or requests for additional information. In these instances we will initially collect only the child's name and online contact information and the email address of the child's parent. Before using this information for any purpose, we will send the parent an email that (a) informs the parent that we wish to collect and use the child's personal information and need the parent's consent to do so, and (b) provides the parent with a link to access to this Privacy Policy, which describes our information collection and use policies as required by COPPA. If the proposed use of the child's personal information does not involve disclosure to a third party, then Tyndale will ask the parent to provide consent by return email. Upon receipt of the email consent, we will send the parent a confirming email. If the proposed use of the child's personal information involves disclosure to third parties, the email we send to the parent will ask the parent either to (i) return by postal mail or fax a consent form that will be attached to the email, or (ii) call a toll free number where consent can be given over the phone. If parental consent is not obtained by one of these methods within one week Tyndale will delete all of the child's and parent's personally identifiable information from its records. In addition, parents can revoke a prior consent at any time.
+<br><br>
+    * We may collect a child's name and email address to the extent reasonably necessary to protect the security of this Site, to protect against liability or as required or permitted by law. Information collected for these reasons will not be used for any other purpose. 
+<br><br>
+B. Sharing Children's Personal Information With Third Parties.
+<br><br>
+Tyndale may share a child's personal with other affiliates who may send you information about their products or services. These third parties have agreed to maintain the confidentiality, security and integrity of the personal information they obtain from Tyndale. As noted above, parents may exercise their option not to consent to the disclosure of their child's personal information to third parties. Parents may consent to Tyndale's collection and use of a child's personal information without consenting to the disclosure of the information to third parties.
+<br><br>
+<strong>LINKS/CO-BRANDED SITES</strong>
+<br><br>
+As noted in Section I of this Privacy Policy, this Site may link directly to sites operated by Tyndale House Publishers advertisers, business partners and affiliated companies. Those sites, which are not controlled by Tyndale House Publishers may collect personal information from your child. Parents should therefore check the relevant site's privacy policy to understand how it collects and uses children's personal information. Tyndale House Publishers will not share in any personal information obtained by a site from a child under the age of 13 unless that site follows the requirements of COPPA.
+<br><br>
+<strong>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION COLLECTED FROM CHILDREN UNDER 13</strong>
+<br><br>
+Parents of children under age 13 may review or delete personal information about their children from our records at any time. If you would like to know the types of personal information we collect, please contact us using the form on our contact page (<a href="/00_Home/contact.php">click here</a>) or write to us at Tyndale House Publishers Attn: Internet Group 351 Executive Drive, Carol Stream, IL 60188. If you would like to know whether we have collected personal information about your child, please provide us with the activities that he or she participated in on the Site which requested personal information. After we have reviewed the relevant databases, we will confirm whether we have collected such information about your child. Prior to changing or deleting such infromation, we require that you provide us with proof of your name and address, such as a valid driver's license, and proof that your child resides with you or is otherwise in your custody. Once we have received such proof and determined that it is satisfactory, we will immediately delete or modify your child's information in our database and refrain from collecting any other personally identifiable information from your child, if you so request. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information. This residual information will not be given to any other third party or used for any commercial purpose.
+<br><br>
+<strong>YOUR ACCEPTANCE OF THESE TERMS</strong>
+<br><br>
+By using this site, you signify your assent to Tyndale House Publishers and Tyndale.com. If you do not agree to this policy, please do not use our sites. Your continued use of the Tyndale.com and affiliated sites after the posting of changes to these terms will mean you accept those changes.
+top
+			 
+		                </div>
+            </div>
+                <div>
+                     <img src="/images/content/bg_shadowbox_bottom.gif " class="content_shadowbox_bottom" alt=""><br>  
+                </div>    
+        </div>
+    </div>
 
-   <b>       LINKS/CO-BRANDED SITES</b>
-</font></p><p><font face="arial" "helvetica"="">
-          Tyndale has established relationships with advertisers and reputable business partners that allow
-          visitors to our Site to link directly to sites operated by these partners. Some of these sites, may be
-          "co-branded" with a Tyndale logo; however, they are not operated or maintained by Tyndale.
-          These sites may collect personal information from you. This Privacy Policy will apply to any personal
-          information we obtain in this manner from our partners.
-</font></p><p><font face="arial" "helvetica"="">
-          Tyndale chooses its advertisers and business partners carefully. However, Tyndale is not
-          responsible for the content or practices of web sites operated by third parties that are linked to our
-          Site. These links are meant for the user's convenience only. Links to third party sites do not constitute
-          sponsorship, endorsement or approval by Tyndale of the content, policies or practices of such third
-          party sites. We are not responsible for any information these sites may obtain and do not oversee their
-          policies or practices in collecting personal information. Therefore, once you have left this Site via such a
-          link, you should check the applicable privacy policy of the third party site. 
-</font></p><p><font face="arial" "helvetica"="">
-          This Site may also be linked to web sites operated by companies affiliated with Tyndale.
-          Tyndale may share information collected by these affiliated companies; however, this
-          Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated
-          sites should still refer to their separate privacy policies and practices when providing any personally
-          identifiable information.
-</font></p><p><font face="arial" "helvetica"="">
-   <b>       NON-PERSONALLY IDENTIFIABLE INFORMATION</b>
-</font></p><p><font face="arial" "helvetica"="">
-          When visitors come to our Site, we collect and aggregate information indicating, among other things,
-          which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were
-          "clicked" by the visitor. Tyndale, like most major web sites, collects such information by placing
-          small bits of information, known as "cookies", on the hard drive of your computer to log IP addresses,
-          operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator
-          or Internet Explorer), and Internet service providers (e.g., AOL or NET.COM) used by each visitor to
-          the Site. 
-</font></p><p><font face="arial" "helvetica"="">
-          Cookies enable us to do a number of things to make your visit and future visits to the site more
-          enjoyable. For example, cookies allow a visitor to quickly log on to a site he/she has used before by
-          storing a password. By tracking how many people visit our Site and where they go, we are able to
-          determine which part of the Site users like the best, which part needs some improvement and what
-          changes should be made. By obtaining this information, we are able to continually improve our Site and
-          bring you the best online experience possible.
-</font></p><p><font face="arial" "helvetica"="">
-          Although the cookie itself does not collect any personally identifiable information about a visitor, and
-          Tyndale does not use cookies in order to obtain such information, the cookie can be used to
-          determine the IP address of the visitor's Internet Service Provider and the geographic location of his or
-          her point of connectivity to the Internet. Tyndale may also disclose some of the non-personally
-          identifiable information we obtain to advertisers to inform them how many people have seen or linked
-          to their advertisements on our Site. However, we do not disclose personally identifiable information to
-          these advertisers. Visitors may also receive cookies from third parties, but Tyndale cannot control
-          the content of these cookies.
-</font></p><p><font face="arial" "helvetica"="">
-          Tyndale does not save credit card information in a cookie.
-</font></p><p><font face="arial" "helvetica"="">
-          You should consult your browser owner's manual for instructions on how to refuse cookies.
-</font></p><p><font face="arial" "helvetica"="">
+    <!--|| end local </body> section ||-->
 
-   <b>       REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE
-          INFORMATION </b>
-</font></p><p><font face="arial" "helvetica"="">
-          Visitors may review or delete personal information from our records at any time. If you would like to
-          know the types of personal information Tyndale collects from visitors to the Site, please contact us
-          at <a href="mailto:comments@tyndale.com">comments@tyndale.com</a> or write to us at Tyndale House Publishers Attn: Internet Group, 
-          351 Executive Drive, Carol Stream, IL 60188. If you would like to know whether we have collected personal
-          information about you, please provide us with the activities that you participated in on the Site, which
-          requested personal information. After we have reviewed the relevant databases, we will confirm
-          whether we have collected such information about you. Prior to changing or deleting such information,
-          we require that you provide us with proof of your name and address, such as a valid driver's license.
-          Once we have received such proof and determined that it is satisfactory, we will immediately delete or
-          modify your information in our database and refrain from collecting any other personally identifiable
-          information from you, if you so request. However, there may be residual information that will remain
-          within our databases that may or may not contain personally identifiable information. This residual
-          information will not be given to any other third party or used for any commercial purpose.
-</font></p><p><font face="arial" "helvetica"="">
-<b>          SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
-</font></p><p><font face="arial" "helvetica"="">
-          Tyndale has established and maintains reasonable procedures to protect the confidentiality, security
-          and integrity of personal information collected by this Site.
-</font></p><p><font face="arial" "helvetica"="">
-   <b>       II. ADDITIONAL POLICIES THAT APPLY TO CHILDREN UNDER 13 KIDS AND INTERNET SAFETY</b>
-</font></p><p><font face="arial" "helvetica"="">
-          We at Tyndale understand that the Internet presents an opportunity for us to reach the public in new
-          and exciting ways with information about our programming, fun games, exciting sweepstakes and
-          contests, email, chat rooms, bulletin boards, and other forms of interactivity. Tyndale also recognizes
-          the privacy concerns of parents, and the importance of protecting the privacy of the information this
-          Site collects from children. Parents of children who visit this Site can be confident that any personal
-          information that may be provided to this Site will be collected and maintained in accordance with the
-          Children's Online Privacy Protection Act ("COPPA"). Tyndale encourages parents to supervise their
-          children's activities online and to participate with their children's online activities whenever possible.
-          However, we understand that parents may not always be able to supervise their children's activities on
-          the Internet. That's why Tyndale has developed a Site that parents can feel is safe for their children
-          and kids will find cool, informative, educational, and fun! Because there's always room for
-          improvement, Tyndale welcomes any suggestions on how to make the Site a better, safer place to
-          hang out.
-</font></p><p><font face="arial" "helvetica"="">
-   <b>       COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM
-          CHILDREN UNDER 13</b>
-</font></p><p><font face="arial" "helvetica"="">
-          When a visitor to our Site is under the age of 13, Tyndale does not require the disclosure of more
-          personally identifiable information than is reasonably necessary for him or her to participate in an
-          activity as a condition of such participation. 
-</font></p><p><font face="arial" "helvetica"="">
-          Tyndale may use different types of personally identifiable information submitted to this Site by
-          children under 13 in a variety of ways, which are described below. In each instance, we comply with
-          the parental consent requirements of COPPA.
-</font></p><p><font face="arial" "helvetica"="">
-          
+        </div>
+		        <div class="template_footer_spacer">&nbsp;</div>
+        <div id="template_footer_container">
+        	<div id="template_footer">
+            	<img src="/images/template/logo_footer.gif" alt="Tyndale House Publishers" style="float:left;">
+            	<img src="/images/template/footer_slogan_eng.gif" alt="Together In Truth" style="float:left;">
+				<div id="template_footer_copyright">©2010 Tyndale House Publishers<br><a href="/00_Home/trademarks.php">Trademarks</a>|<a href="/00_Home/privacy.php">Privacy Policy</a>|<a href="/00_Home/author_photo_copyright.php">Author Photo Copyright</a></div>
+				<div id="template_footer_websites">Tyndale Website Listings<br><a id="footer_item_book_product" href="javascript:toggleWebListingModal('book_product');">Book/Product</a>|<a id="footer_item_author" href="javascript:toggleWebListingModal('author');">Author Sites</a>|<a id="footer_item_espanol" href="javascript:toggleWebListingModal('espanol');">Español</a>|<a id="footer_item_bible" href="javascript:toggleWebListingModal('bible');">Bible</a>|<a id="footer_item_other" href="javascript:toggleWebListingModal('other');">Other</a></div>
+            </div>
+        </div></center>
+    
+<div id="footer_menu_book_product" class="template_subnav_websitelisting_menu" style="visibility:hidden; position:absolute; top:0px;">
+					<img src="/images/template/btn_x.gif" alt="close menu" style="cursor:pointer; position:absolute; top:10px; right:10px;" onclick="toggleWebListingModal('book_product');">
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">6 Rules Every Man Must Break</div>
+							<div style="width:360px;float:left;"><a href="http://www.millionmightymen.com">http://www.millionmightymen.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Are We Living in the End Times?</div>
+							<div style="width:360px;float:left;"><a href="http://leftbehind.com">http://leftbehind.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Asking for Trouble</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarynHenley.com">http://www.KarynHenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Beautiful Everyday (Inspire Life) NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.inspirelifenow.org">http://www.inspirelifenow.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bible Jumble</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndale.com/Jumble/">http://www.tyndale.com/Jumble/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bible Promises Jumble Crosswords</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndale.com/Jumble/">http://www.tyndale.com/Jumble/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Biblia compacta NTV</div>
+							<div style="width:360px;float:left;"><a href="http://www.bibliaNTV.com">http://www.bibliaNTV.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Biblia para nuevos creyentes Nuevo Testamento NTV</div>
+							<div style="width:360px;float:left;"><a href="http://www.BibliaNTV.com">http://www.BibliaNTV.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Biblia Vida abundante NTV</div>
+							<div style="width:360px;float:left;"><a href="http://www.BibliaNTV.com">http://www.BibliaNTV.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Blackout</div>
+							<div style="width:360px;float:left;"><a href="http://rileycovington.com">http://rileycovington.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Blown Coverage</div>
+							<div style="width:360px;float:left;"><a href="http://rileycovington.com">http://rileycovington.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bold Beauty</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">bolsillo ultrafina c/Salmos y Proverbios NT NTV</div>
+							<div style="width:360px;float:left;"><a href="http://www.bibliaNTV.com">http://www.bibliaNTV.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bound for Glory Parallel Bible KJV/NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bound for Glory Parallel Bible KJV/NLT: TuTone</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Buckskin Bandit</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Canyon Echoes</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Cards</div>
+							<div style="width:360px;float:left;"><a href="http://www.ForbiddenDoors.com">http://www.ForbiddenDoors.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Cause within You</div>
+							<div style="width:360px;float:left;"><a href="http://www.dreamcenter.org">http://www.dreamcenter.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Compact Edition NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Constantine Codex</div>
+							<div style="width:360px;float:left;"><a href="http://www.dosimetryresources.com/PLM/PLM.htm">http://www.dosimetryresources.com/PLM/PLM.htm</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Courage to Stand</div>
+							<div style="width:360px;float:left;"><a href="http://www.couragetostandthebook.com">http://www.couragetostandthebook.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Daily Walk Bible KJV</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com/05discoverthenlt/dwb.asp">http://www.newlivingtranslation.com/05discoverthenlt/dwb.asp</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Daily Walk Bible NIV</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com/05discoverthenlt/dwb.asp">http://www.newlivingtranslation.com/05discoverthenlt/dwb.asp</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Daily Walk Bible NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com/05discoverthenlt/dwb.asp">http://www.newlivingtranslation.com/05discoverthenlt/dwb.asp</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Daniel Fast</div>
+							<div style="width:360px;float:left;"><a href="http://www.daniel-fast.com/">http://www.daniel-fast.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Day by Day Begin-to-Read Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarynHenley.com">http://www.KarynHenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Day by Day Devotions</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarynHenley.com">http://www.KarynHenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Day by Day Kid's Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarynHenley.com">http://www.KarynHenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dead End</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Delusion of Disbelief</div>
+							<div style="width:360px;float:left;"><a href="http://www.isanyoneupthere.com/">http://www.isanyoneupthere.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Desert Gift</div>
+							<div style="width:360px;float:left;"><a href="http://www.sally-john.com">http://www.sally-john.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Discover God Study Bible</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.newlivingtranslation.com/05discoverthenlt/dgsb....">http://ttp://www.newlivingtranslation.com/05discoverthenlt/dgsb....</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Divanomics</div>
+							<div style="width:360px;float:left;"><a href="http://divanomicsthebook.com/">http://divanomicsthebook.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Double Fault</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Eager Star</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">El Evangelio de Juan NTV 10-paquetes</div>
+							<div style="width:360px;float:left;"><a href="http://www.BibliaNTV.com">http://www.BibliaNTV.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Eleventh Guest</div>
+							<div style="width:360px;float:left;"><a href="http://www.thoenebooks.com">http://www.thoenebooks.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Encounter</div>
+							<div style="width:360px;float:left;"><a href="http://www.ForbiddenDoors.com">http://www.ForbiddenDoors.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">End of the Spear</div>
+							<div style="width:360px;float:left;"><a href="http://endofthespear.com">http://endofthespear.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Escaping Darkness</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Faith Devotional New Testament (w/Psalms and Proverbs)</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">False Witness</div>
+							<div style="width:360px;float:left;"><a href="http://www.randysinger.net">http://www.randysinger.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Fighting for David</div>
+							<div style="width:360px;float:left;"><a href="http://www.fightingfordavid.com/index.html">http://www.fightingfordavid.com/index.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The First Escape</div>
+							<div style="width:360px;float:left;"><a href="http://www.DoppleGangerChronicles.com">http://www.DoppleGangerChronicles.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The First Gardener</div>
+							<div style="width:360px;float:left;"><a href="http://www.denisehildreth.com">http://www.denisehildreth.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Freedom's Stand</div>
+							<div style="width:360px;float:left;"><a href="http://www.jeanettewindle.com">http://www.jeanettewindle.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Friendly Foal</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Futurecast</div>
+							<div style="width:360px;float:left;"><a href="http://www.georgebarna.com">http://www.georgebarna.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gift Horse</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">God Cares for You</div>
+							<div style="width:360px;float:left;"><a href="http://www.pawsandtalesgames.com">http://www.pawsandtalesgames.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">God Sightings: The One Year Bible NIV</div>
+							<div style="width:360px;float:left;"><a href="http://www.mygodsightings.com/">http://www.mygodsightings.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">God Sightings: The One Year Bible NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.mygodsightings.com/">http://www.mygodsightings.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Grave Shadows</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Great Parents, Lousy Lovers</div>
+							<div style="width:360px;float:left;"><a href="http://greatparentslousyloversthebook.com">http://greatparentslousyloversthebook.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Guardian</div>
+							<div style="width:360px;float:left;"><a href="http://www.ForbiddenDoors.com">http://www.ForbiddenDoors.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Handbook on Thriving as an Adoptive Family</div>
+							<div style="width:360px;float:left;"><a href="http://ifgoddisappears.blogspot.com/">http://ifgoddisappears.blogspot.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Hands-On Bible NLT: Gospel of Luke sampler</div>
+							<div style="width:360px;float:left;"><a href="http://www.myhandsonbible.com">http://www.myhandsonbible.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Haunted Waters</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Haunting</div>
+							<div style="width:360px;float:left;"><a href="http://www.ForbiddenDoors.com">http://www.ForbiddenDoors.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Hidden Riches</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">High-Performance Ethics</div>
+							<div style="width:360px;float:left;"><a href="http://highperformanceethics.com/index-7.html">http://highperformanceethics.com/index-7.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Hollywood Holdup</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Holy Bible: Mosaic NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.holybiblemosaic.com/">http://www.holybiblemosaic.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Hungry Planet Bible Project NT NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.hpbp.org">http://www.hpbp.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">In the Beginning</div>
+							<div style="width:360px;float:left;"><a href="http://www.WhatsintheBible.com">http://www.WhatsintheBible.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Inside Threat</div>
+							<div style="width:360px;float:left;"><a href="http://www.rileycovington.com">http://www.rileycovington.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Instant Menace</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Leadership above the Line</div>
+							<div style="width:360px;float:left;"><a href="http://www.leadershipabovetheline.com/">http://www.leadershipabovetheline.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Lessons from San Quentin</div>
+							<div style="width:360px;float:left;"><a href="http://www.lessonsfromsanquentin.com/">http://www.lessonsfromsanquentin.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Let Every Heart Prepare Him Room</div>
+							<div style="width:360px;float:left;"><a href="http://www.nancyguthrie.com">http://www.nancyguthrie.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Let My People Go!</div>
+							<div style="width:360px;float:left;"><a href="http://www.WhatsintheBible.com">http://www.WhatsintheBible.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Letters to Darcy</div>
+							<div style="width:360px;float:left;"><a href="http://letterstodarcy.com">http://letterstodarcy.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Life Recovery Bible NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.liferecoveryproducts.com/">http://www.liferecoveryproducts.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Life Recovery Bible NLT, Personal Size TuTone</div>
+							<div style="width:360px;float:left;"><a href="http://www.liferecoveryproducts.com/">http://www.liferecoveryproducts.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Life Recovery Bible NLT, TuTone</div>
+							<div style="width:360px;float:left;"><a href="http://www.liferecoveryproducts.com/">http://www.liferecoveryproducts.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Life Recovery Bible, Personal Size NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.liferecoveryproducts.com/">http://www.liferecoveryproducts.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Listen</div>
+							<div style="width:360px;float:left;"><a href="http://listentoyourself.net">http://listentoyourself.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Live NLT</div>
+							<div style="width:360px;float:left;"><a href="http://roughedit.group.com/">http://roughedit.group.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Look to the East</div>
+							<div style="width:360px;float:left;"><a href="http://www.maureenlang.com">http://www.maureenlang.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">LT &amp; Me</div>
+							<div style="width:360px;float:left;"><a href="http://www.ltandme.com/">http://www.ltandme.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Manga Bible</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.newlivingtranslation.com/05discoverthenlt/detai...">http://ttp://www.newlivingtranslation.com/05discoverthenlt/detai...</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">McGee and Me! Recharged 1</div>
+							<div style="width:360px;float:left;"><a href="http://www.McGeeandMe.com">http://www.McGeeandMe.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">McGee and Me! Recharged 2</div>
+							<div style="width:360px;float:left;"><a href="http://www.McGeeandMe.com">http://www.McGeeandMe.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">McGee and Me! Recharged 3</div>
+							<div style="width:360px;float:left;"><a href="http://www.McGeeandMe.com">http://www.McGeeandMe.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">McGee and Me! Recharged 4</div>
+							<div style="width:360px;float:left;"><a href="http://www.McGeeandMe.com">http://www.McGeeandMe.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">McGee and Me! Recharged 4-Pack DVD</div>
+							<div style="width:360px;float:left;"><a href="http://www.McGeeandMe.com">http://www.McGeeandMe.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Metal Bible NLT (Metal Diamond Plate)</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Midnight Mystery</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Missing Pieces</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Monday Night Jihad</div>
+							<div style="width:360px;float:left;"><a href="http://www.mondaynightjihad.com/">http://www.mondaynightjihad.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">My First Hands-On Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.MyHandsonBible.com">http://www.MyHandsonBible.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">My Foolish Heart</div>
+							<div style="width:360px;float:left;"><a href="http://www.susanmaywarren.com">http://www.susanmaywarren.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">My Learn-to-Pray Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarynHenley.com">http://www.KarynHenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The New Dare to Discipline</div>
+							<div style="width:360px;float:left;"><a href="http://www.bringingupboys.com/">http://www.bringingupboys.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The New Living Translation</div>
+							<div style="width:360px;float:left;"><a href="http://www.NewLivingTranslation.com">http://www.NewLivingTranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The New Living Translation : Life Application Study Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.NewLivingTranslation.com/LASB">http://www.NewLivingTranslation.com/LASB</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The New Living Translation : One Year Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.NewLivingTranslation.com/05DiscoverTheNLT/OYB.asp">http://www.NewLivingTranslation.com/05DiscoverTheNLT/OYB.asp</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nicolae</div>
+							<div style="width:360px;float:left;"><a href="http://www.leftbehind.com">http://www.leftbehind.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Night Light</div>
+							<div style="width:360px;float:left;"><a href="http://www.myfamilytalk.com">http://www.myfamilytalk.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Study Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltstudybible.com/">http://www.nltstudybible.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Study Bible Genesis sampler</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltstudybible.com/">http://www.nltstudybible.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Study Bible, Personal Size</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltstudybible.com/">http://www.nltstudybible.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Study Bible, TuTone</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltstudybible.com/">http://www.nltstudybible.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Not the Religious Type</div>
+							<div style="width:360px;float:left;"><a href="http://notreligious.typepad.com/">http://notreligious.typepad.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NTV: Cada día es bello</div>
+							<div style="width:360px;float:left;"><a href="http://www.inspirelifenow.com">http://www.inspirelifenow.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The One Year At the Cross Devotional</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The One Year Book of Encouragement</div>
+							<div style="width:360px;float:left;"><a href="http://TheOneYear.com">http://TheOneYear.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The One Year Designer Genes Devo</div>
+							<div style="width:360px;float:left;"><a href="http://www.designergenesdevo.wordpress.com">http://www.designergenesdevo.wordpress.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The One Year Love Language Minute Devotional</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndale.com/theoneyear/">http://www.tyndale.com/theoneyear/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Operation Worship Bible (Homefront edition)</div>
+							<div style="width:360px;float:left;"><a href="http://www.operationworship.com/">http://www.operationworship.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Operation Worship Compact NLT (Air Force edition)</div>
+							<div style="width:360px;float:left;"><a href="http://www.operationworship.com/">http://www.operationworship.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Operation Worship Compact NLT (Army edition)</div>
+							<div style="width:360px;float:left;"><a href="http://www.operationworship.com/">http://www.operationworship.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Operation Worship Compact NLT (Marine Corps edition)</div>
+							<div style="width:360px;float:left;"><a href="http://www.operationworship.com/">http://www.operationworship.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Operation Worship Compact NLT (Navy edition)</div>
+							<div style="width:360px;float:left;"><a href="http://www.operationworship.com/">http://www.operationworship.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Overcoming Fears</div>
+							<div style="width:360px;float:left;"><a href="http://www.pawsandtalesgames.com">http://www.pawsandtalesgames.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Phantom Writer</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Revelations of a Single Woman</div>
+							<div style="width:360px;float:left;"><a href="http://www.connallyg.com/">http://www.connallyg.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Run to Overcome</div>
+							<div style="width:360px;float:left;"><a href="http://www.runmeb.com">http://www.runmeb.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Safely Home</div>
+							<div style="width:360px;float:left;"><a href="http://www.epm.org">http://www.epm.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sanctuary NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Scream</div>
+							<div style="width:360px;float:left;"><a href="http://www.ForbiddenDoors.com">http://www.ForbiddenDoors.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Secret Holocaust Diaries</div>
+							<div style="width:360px;float:left;"><a href="http://secretholocaustdiaries.com/">http://secretholocaustdiaries.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Secret of Indigo Moon</div>
+							<div style="width:360px;float:left;"><a href="http://www.dopplegangerchronicles.com">http://www.dopplegangerchronicles.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Shame Lifter</div>
+							<div style="width:360px;float:left;"><a href="http://www.shamelifter.blogspot.com/">http://www.shamelifter.blogspot.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Shattered</div>
+							<div style="width:360px;float:left;"><a href="http://www.frankpastore.com">http://www.frankpastore.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">She Did What She Could (SDWSC)</div>
+							<div style="width:360px;float:left;"><a href="http://www.shedidwhatshecould.com">http://www.shedidwhatshecould.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Showing Grace to Others</div>
+							<div style="width:360px;float:left;"><a href="http://www.pawsandtalesgames.com">http://www.pawsandtalesgames.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">So Long, Insecurity</div>
+							<div style="width:360px;float:left;"><a href="http://www.solonginsecurity.com">http://www.solonginsecurity.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">So Long, Insecurity Group Experience</div>
+							<div style="width:360px;float:left;"><a href="http://www.solonginsecurity.com">http://www.solonginsecurity.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">So Long, Insecurity Group Experience Leader's Guide</div>
+							<div style="width:360px;float:left;"><a href="http://www.solonginsecurity.com">http://www.solonginsecurity.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Son of Hamas</div>
+							<div style="width:360px;float:left;"><a href="http://sonofhamas.com">http://sonofhamas.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sons of Encouragement</div>
+							<div style="width:360px;float:left;"><a href="http://www.francinerivers.com">http://www.francinerivers.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Spell</div>
+							<div style="width:360px;float:left;"><a href="http://www.ForbiddenDoors.com">http://www.ForbiddenDoors.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Springtime of the Spirit</div>
+							<div style="width:360px;float:left;"><a href="http://www.maureenlang.com">http://www.maureenlang.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Stolen Secrets</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Through Thick &amp; Thin</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarynHenley.com">http://www.KarynHenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Transforming Church</div>
+							<div style="width:360px;float:left;"><a href="http://www.transformingchurch.net/Books.html">http://www.transformingchurch.net/Books.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Twelfth Imam</div>
+							<div style="width:360px;float:left;"><a href="http://www.joelrosenberg.com">http://www.joelrosenberg.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Twelfth Imam sampler</div>
+							<div style="width:360px;float:left;"><a href="http://joelrosenber.com">http://joelrosenber.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Twelfth Prophecy</div>
+							<div style="width:360px;float:left;"><a href="http://www.thoenebooks.com">http://www.thoenebooks.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Select NLT</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Unhappy Appy</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Voyage with the Vikings</div>
+							<div style="width:360px;float:left;"><a href="http://www.whitsend.org/imagination/clickbook/clickbook.html">http://www.whitsend.org/imagination/clickbook/clickbook.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">When Invisible Children Sing</div>
+							<div style="width:360px;float:left;"><a href="http://www.kayachildren.org">http://www.kayachildren.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Whisper on the Wind</div>
+							<div style="width:360px;float:left;"><a href="http://www.maureenlang.com">http://www.maureenlang.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Wild Rescue</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Wild Thing</div>
+							<div style="width:360px;float:left;"><a href="http://www.WinnietheHorseGentler.com">http://www.WinnietheHorseGentler.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Wind Chill</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Windy City Danger</div>
+							<div style="width:360px;float:left;"><a href="http://www.RedRockMysteries.com">http://www.RedRockMysteries.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">The Woman of Mystery</div>
+							<div style="width:360px;float:left;"><a href="http://www.thewomanofmystery.com/">http://www.thewomanofmystery.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Your Life in Rhythm</div>
+							<div style="width:360px;float:left;"><a href="http://yourlifeinrhythm.wordpress.com/">http://yourlifeinrhythm.wordpress.com/</a></div>
+						</div>
+						</div><div id="footer_menu_author" class="template_subnav_websitelisting_menu" style="visibility:hidden; position:absolute; top:0px;">
+					<img src="/images/template/btn_x.gif" alt="close menu" style="cursor:pointer; position:absolute; top:10px; right:10px;" onclick="toggleWebListingModal('author');">
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">David Aikman</div>
+							<div style="width:360px;float:left;"><a href="http://www.davidaikman.com/default.php">http://www.davidaikman.com/default.php</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">. AIO Team</div>
+							<div style="width:360px;float:left;"><a href="http://www.whitsend.org/">http://www.whitsend.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Randy Alcorn</div>
+							<div style="width:360px;float:left;"><a href="http://www.epm.org">http://www.epm.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sandra P. Aldrich</div>
+							<div style="width:360px;float:left;"><a href="http://www.sandraaldrich.com/">http://www.sandraaldrich.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dan B. Allender</div>
+							<div style="width:360px;float:left;"><a href="http://thepathlesschosen.com/">http://thepathlesschosen.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Rebecca Nichols Alonzo</div>
+							<div style="width:360px;float:left;"><a href="http://www.beckyalonzo.com/">http://www.beckyalonzo.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Stephen Arterburn</div>
+							<div style="width:360px;float:left;"><a href="http://newlife.com/">http://newlife.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sarah Arthur</div>
+							<div style="width:360px;float:left;"><a href="http://www.saraharthur.com">http://www.saraharthur.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nicole Baart</div>
+							<div style="width:360px;float:left;"><a href="http://www.nicolebaart.com">http://www.nicolebaart.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">George Barna</div>
+							<div style="width:360px;float:left;"><a href="http://www.barna.org">http://www.barna.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">George Barna</div>
+							<div style="width:360px;float:left;"><a href="http://www.georgebarna.com">http://www.georgebarna.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matthew Barnett</div>
+							<div style="width:360px;float:left;"><a href="http://dreamcenter.org/">http://dreamcenter.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matthew Barnett</div>
+							<div style="width:360px;float:left;"><a href="http://dreamcenter.org/dcLive/">http://dreamcenter.org/dcLive/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matthew Barnett</div>
+							<div style="width:360px;float:left;"><a href="http://www.TheCauseWithinYou.com ">http://www.TheCauseWithinYou.com </a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ron Blue</div>
+							<div style="width:360px;float:left;"><a href="http://www.ronblue.com/">http://www.ronblue.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ron Blue</div>
+							<div style="width:360px;float:left;"><a href="http://www.kingdomadvisors.org/index.html">http://www.kingdomadvisors.org/index.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kenneth Boa</div>
+							<div style="width:360px;float:left;"><a href="http://www.kenboa.org/">http://www.kenboa.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Crystal Bowman</div>
+							<div style="width:360px;float:left;"><a href="http://www.crystalbowman.com">http://www.crystalbowman.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jill Briscoe</div>
+							<div style="width:360px;float:left;"><a href="http://www.tellingthetruth.org/default.asp">http://www.tellingthetruth.org/default.asp</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Stuart Briscoe</div>
+							<div style="width:360px;float:left;"><a href="http://www.tellingthetruth.org/default.asp">http://www.tellingthetruth.org/default.asp</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jeffrey Brown</div>
+							<div style="width:360px;float:left;"><a href="http://www.drjeffbrown.com/">http://www.drjeffbrown.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kurt Bruner</div>
+							<div style="width:360px;float:left;"><a href="http://www.kurtbruner.com/">http://www.kurtbruner.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gracia Burnham</div>
+							<div style="width:360px;float:left;"><a href="http://www.graciaburnham.org/">http://www.graciaburnham.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bill Butterworth</div>
+							<div style="width:360px;float:left;"><a href="http://billbutterworth.com/">http://billbutterworth.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sandra Byrd</div>
+							<div style="width:360px;float:left;"><a href="http://www.sandrabyrd.com">http://www.sandrabyrd.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Terry Caffey</div>
+							<div style="width:360px;float:left;"><a href="http://terrycaffey.com/">http://terrycaffey.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Candace Calvert</div>
+							<div style="width:360px;float:left;"><a href="http://candacecalvert.com/">http://candacecalvert.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ken R. Canfield</div>
+							<div style="width:360px;float:left;"><a href="http://www.fathers.com/">http://www.fathers.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Melody Carlson</div>
+							<div style="width:360px;float:left;"><a href="http://melodycarlson.com">http://melodycarlson.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Randy Carlson</div>
+							<div style="width:360px;float:left;"><a href="http://www.theintentionallife.com/">http://www.theintentionallife.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gary Chapman</div>
+							<div style="width:360px;float:left;"><a href="http://www.garychapman.org">http://www.garychapman.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gary Chapman</div>
+							<div style="width:360px;float:left;"><a href="http://www.fivelovelanguages.com/">http://www.fivelovelanguages.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Todd Clements</div>
+							<div style="width:360px;float:left;"><a href="http://www.drtoddclements.com/">http://www.drtoddclements.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dinesh D Souza</div>
+							<div style="width:360px;float:left;"><a href="http://www.dineshdsouza.com">http://www.dineshdsouza.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tony Dale</div>
+							<div style="width:360px;float:left;"><a href="http://www.thekarisgroup.com/index.html">http://www.thekarisgroup.com/index.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tony Dale</div>
+							<div style="width:360px;float:left;"><a href="http://www.tonyandfelicitydale.com/">http://www.tonyandfelicitydale.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tony Dale</div>
+							<div style="width:360px;float:left;"><a href="http://www.house2house.com/">http://www.house2house.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tony Dale</div>
+							<div style="width:360px;float:left;"><a href="http://www.simplechurch.com/">http://www.simplechurch.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Felicity Dale</div>
+							<div style="width:360px;float:left;"><a href=" http://www.simplechurch.com/"> http://www.simplechurch.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Felicity Dale</div>
+							<div style="width:360px;float:left;"><a href="http://www.tonyandfelicitydale.com/">http://www.tonyandfelicitydale.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Felicity Dale</div>
+							<div style="width:360px;float:left;"><a href="http://www.house2house.com/">http://www.house2house.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bill Dallas</div>
+							<div style="width:360px;float:left;"><a href="http://www.lessonsfromsanquentin.com/">http://www.lessonsfromsanquentin.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">C.J. Darlington</div>
+							<div style="width:360px;float:left;"><a href="http://www.cjdarlington.com/">http://www.cjdarlington.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Howard L. Dayton, Jr.</div>
+							<div style="width:360px;float:left;"><a href="http://www.crown.org/">http://www.crown.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Janet Denison</div>
+							<div style="width:360px;float:left;"><a href="http://www.janetdenison.com/">http://www.janetdenison.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James Denison</div>
+							<div style="width:360px;float:left;"><a href="http://www.godissues.org/registration?src=twitter">http://www.godissues.org/registration?src=twitter</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James Denison</div>
+							<div style="width:360px;float:left;"><a href="http://jamesdenison.com/">http://jamesdenison.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James Denison</div>
+							<div style="width:360px;float:left;"><a href="http://www.informedfaith.com/">http://www.informedfaith.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Hayley DiMarco</div>
+							<div style="width:360px;float:left;"><a href="http://www.hungryplanetmedia.com/">http://www.hungryplanetmedia.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Michael DiMarco</div>
+							<div style="width:360px;float:left;"><a href="http://www.hungryplanetmedia.com/">http://www.hungryplanetmedia.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Michael DiMarco</div>
+							<div style="width:360px;float:left;"><a href="http://www.michaeldimarco.com/">http://www.michaeldimarco.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Megan DiMaria</div>
+							<div style="width:360px;float:left;"><a href="http://www.megandimaria.com">http://www.megandimaria.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Megan DiMaria</div>
+							<div style="width:360px;float:left;"><a href="http://www.examiner.com/x-5787-denver-writing-examiner">http://www.examiner.com/x-5787-denver-writing-examiner</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ryan Dobson</div>
+							<div style="width:360px;float:left;"><a href="http://www.myfamilytalk.com/Default.aspx">http://www.myfamilytalk.com/Default.aspx</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tony Dungy</div>
+							<div style="width:360px;float:left;"><a href="http://www.allprodad.com">http://www.allprodad.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tony Dungy</div>
+							<div style="width:360px;float:left;"><a href="http://www.coachdungy.com/">http://www.coachdungy.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gene Edwards</div>
+							<div style="width:360px;float:left;"><a href="http://www.geneedwards.com/">http://www.geneedwards.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Lynn Eib</div>
+							<div style="width:360px;float:left;"><a href="http://www.cancerpatientadvocate.com/">http://www.cancerpatientadvocate.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Chris Fabry</div>
+							<div style="width:360px;float:left;"><a href="http://chrisfabry.com">http://chrisfabry.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bill Farrel</div>
+							<div style="width:360px;float:left;"><a href="http://farrelcommunications.com/">http://farrelcommunications.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Deanna Favre</div>
+							<div style="width:360px;float:left;"><a href="http://www.deannafavre4hope.com/">http://www.deannafavre4hope.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">David Ferguson</div>
+							<div style="width:360px;float:left;"><a href="http://www.greatcommandment.net/content.php?id=1">http://www.greatcommandment.net/content.php?id=1</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Teresa Ferguson</div>
+							<div style="width:360px;float:left;"><a href="http://www.greatcommandment.net/content.php?id=1">http://www.greatcommandment.net/content.php?id=1</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kevin G. Ford</div>
+							<div style="width:360px;float:left;"><a href="http://www.tagconsulting.org/">http://www.tagconsulting.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kevin G. Ford</div>
+							<div style="width:360px;float:left;"><a href="http://www.transformingchurch.net">http://www.transformingchurch.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Cheri Fuller</div>
+							<div style="width:360px;float:left;"><a href="http://www.cherifuller.com/">http://www.cherifuller.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Denise George</div>
+							<div style="width:360px;float:left;"><a href="http://www.authordenisegeorge.com/">http://www.authordenisegeorge.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Joe Gibbs</div>
+							<div style="width:360px;float:left;"><a href="http://www.joegibbsracing.com/">http://www.joegibbsracing.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Joe Gibbs</div>
+							<div style="width:360px;float:left;"><a href="http://gameplanforlife.com/">http://gameplanforlife.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Connally Gilliam</div>
+							<div style="width:360px;float:left;"><a href="http://www.connallygilliam.org/">http://www.connallygilliam.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jenna Glatzer</div>
+							<div style="width:360px;float:left;"><a href="http://www.jennaglatzer.com/">http://www.jennaglatzer.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">John Granger</div>
+							<div style="width:360px;float:left;"><a href="http://www.hogwartsprofessor.com">http://www.hogwartsprofessor.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Susan Gregory</div>
+							<div style="width:360px;float:left;"><a href="http://daniel-fast.com/">http://daniel-fast.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nancy Guthrie</div>
+							<div style="width:360px;float:left;"><a href="http://nancyguthrie.com/">http://nancyguthrie.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Rene Gutteridge</div>
+							<div style="width:360px;float:left;"><a href="http://www.renegutteridge.com">http://www.renegutteridge.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gary R. Habermas</div>
+							<div style="width:360px;float:left;"><a href="http://www.garyhabermas.com/">http://www.garyhabermas.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Michelle McKinney Hammond</div>
+							<div style="width:360px;float:left;"><a href="http://www.michellehammond.com/">http://www.michellehammond.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Lisa Harper</div>
+							<div style="width:360px;float:left;"><a href="http://www.lisaharper.net">http://www.lisaharper.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Archibald D. Hart</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.hartinstitute.com/index.php?str_string=Home~non...">http://ttp://www.hartinstitute.com/index.php?str_string=Home~non...</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">David Hawkins</div>
+							<div style="width:360px;float:left;"><a href="http://yourrelationshipdoctor.com/">http://yourrelationshipdoctor.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jack Hayford</div>
+							<div style="width:360px;float:left;"><a href="http://www.jackhayford.org/">http://www.jackhayford.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Skip Heitzig</div>
+							<div style="width:360px;float:left;"><a href="http://www.skipheitzig.com/">http://www.skipheitzig.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dee Henderson</div>
+							<div style="width:360px;float:left;"><a href="http://www.deehenderson.com/">http://www.deehenderson.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jim Henderson</div>
+							<div style="width:360px;float:left;"><a href="http://off-the-map.org">http://off-the-map.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Karyn Henley</div>
+							<div style="width:360px;float:left;"><a href="http://karynhenley.com">http://karynhenley.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Mark Herringshaw</div>
+							<div style="width:360px;float:left;"><a href="http://www.markherringshaw.com">http://www.markherringshaw.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Denise Hildreth</div>
+							<div style="width:360px;float:left;"><a href="http://www.denisehildreth.com">http://www.denisehildreth.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Mark Hitchcock</div>
+							<div style="width:360px;float:left;"><a href="http://marklhitchcock.com/">http://marklhitchcock.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">David A. Holland</div>
+							<div style="width:360px;float:left;"><a href="http://www.cobaltbridgemultichannel.com">http://www.cobaltbridgemultichannel.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gina Holmes</div>
+							<div style="width:360px;float:left;"><a href="http://ginaholmes.com">http://ginaholmes.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ann-Margret Hovsepian</div>
+							<div style="width:360px;float:left;"><a href="http://www.annhovsepian.com/">http://www.annhovsepian.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Chi Cheng Huang</div>
+							<div style="width:360px;float:left;"><a href="http://www.kayachildren.org/">http://www.kayachildren.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Angela Elwell Hunt</div>
+							<div style="width:360px;float:left;"><a href="http://www.angelahuntbooks.com">http://www.angelahuntbooks.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Chip Ingram</div>
+							<div style="width:360px;float:left;"><a href="http://www.livingontheedge.org/home/">http://www.livingontheedge.org/home/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Chip Ingram</div>
+							<div style="width:360px;float:left;"><a href="http://www.venturechristian.org/">http://www.venturechristian.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Stephen James</div>
+							<div style="width:360px;float:left;"><a href="http://www.stephenanddavid.com">http://www.stephenanddavid.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Stephen James</div>
+							<div style="width:360px;float:left;"><a href="http://www.sagehillinstitute.org/">http://www.sagehillinstitute.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jerry B. Jenkins</div>
+							<div style="width:360px;float:left;"><a href="http://www.jerryjenkins.com">http://www.jerryjenkins.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jerry B. Jenkins</div>
+							<div style="width:360px;float:left;"><a href="http://www.christianwritersguild.com/">http://www.christianwritersguild.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jerry B. Jenkins</div>
+							<div style="width:360px;float:left;"><a href="http://jenkins-entertainment.com">http://jenkins-entertainment.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">David Jeremiah</div>
+							<div style="width:360px;float:left;"><a href="http://www.davidjeremiah.org/site/default.aspx">http://www.davidjeremiah.org/site/default.aspx</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sally John</div>
+							<div style="width:360px;float:left;"><a href="http://www.sally-john.com">http://www.sally-john.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kaylene Johnson</div>
+							<div style="width:360px;float:left;"><a href="http://kaylene.us/">http://kaylene.us/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Abby Johnson</div>
+							<div style="width:360px;float:left;"><a href="http://abbyjohnson.org">http://abbyjohnson.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Meb Keflezighi</div>
+							<div style="width:360px;float:left;"><a href="http://www.runmeb.com/">http://www.runmeb.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Meb Keflezighi</div>
+							<div style="width:360px;float:left;"><a href="http://www.marathonmeb.com/">http://www.marathonmeb.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Meb Keflezighi</div>
+							<div style="width:360px;float:left;"><a href="http://www.RunToOvercome.com">http://www.RunToOvercome.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Karen Kingsbury</div>
+							<div style="width:360px;float:left;"><a href="http://www.KarenKingsbury.com">http://www.KarenKingsbury.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tim LaHaye</div>
+							<div style="width:360px;float:left;"><a href="https://timlahaye.com/">https://timlahaye.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Maureen Lang</div>
+							<div style="width:360px;float:left;"><a href="http://www.maureenlang.com">http://www.maureenlang.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Carolyn Larsen</div>
+							<div style="width:360px;float:left;"><a href="http://www.carolynlarsen.com">http://www.carolynlarsen.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Cathy Liggett</div>
+							<div style="width:360px;float:left;"><a href="http://www.cathyliggett.com">http://www.cathyliggett.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matt Litton</div>
+							<div style="width:360px;float:left;"><a href="http://www.mattlitton.com">http://www.mattlitton.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Max Lucado</div>
+							<div style="width:360px;float:left;"><a href="http://maxlucado.com/">http://maxlucado.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James R. Lucas</div>
+							<div style="width:360px;float:left;"><a href="http://jamesrlucas.com/">http://jamesrlucas.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James R. Lucas</div>
+							<div style="width:360px;float:left;"><a href="http://highperformanceethics.com/">http://highperformanceethics.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James R. Lucas</div>
+							<div style="width:360px;float:left;"><a href="http://lumaninternational.com/">http://lumaninternational.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">James R. Lucas</div>
+							<div style="width:360px;float:left;"><a href="http://www.relationshiptruth.org/">http://www.relationshiptruth.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Erwin Lutzer</div>
+							<div style="width:360px;float:left;"><a href="http://www.moodychurch.org/radio/">http://www.moodychurch.org/radio/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dandi Daley Mackall</div>
+							<div style="width:360px;float:left;"><a href="http://www.dandibooks.com">http://www.dandibooks.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Paul L. Maier</div>
+							<div style="width:360px;float:left;"><a href="http://www.paulmaier.com">http://www.paulmaier.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bruce D. Main</div>
+							<div style="width:360px;float:left;"><a href="http://www.urbanpromiseusa.org/">http://www.urbanpromiseusa.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kevin Malarkey</div>
+							<div style="width:360px;float:left;"><a href="http://www.prayforalex.com">http://www.prayforalex.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kevin Malarkey</div>
+							<div style="width:360px;float:left;"><a href="http://www.theboywhocamebackfromheaven.com/">http://www.theboywhocamebackfromheaven.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Alex Malarkey</div>
+							<div style="width:360px;float:left;"><a href="http://www.prayforalex.com">http://www.prayforalex.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Alex Malarkey</div>
+							<div style="width:360px;float:left;"><a href="http://www.theboywhocamebackfromheaven.com/">http://www.theboywhocamebackfromheaven.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Stephen Mansfield</div>
+							<div style="width:360px;float:left;"><a href="http://www.mansfieldgroup.com/">http://www.mansfieldgroup.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dennis McCallum</div>
+							<div style="width:360px;float:left;"><a href="(null)http://www.xenos.org/personal/den.htm">(null)http://www.xenos.org/personal/den.htm</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Josh D. McDowell</div>
+							<div style="width:360px;float:left;"><a href="http://www.josh.org">http://www.josh.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Josh D. McDowell</div>
+							<div style="width:360px;float:left;"><a href="http://www.myspace.com/joshmcdowellministry">http://www.myspace.com/joshmcdowellministry</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Josh D. McDowell</div>
+							<div style="width:360px;float:left;"><a href="http://www.morethanacarpenter.info/">http://www.morethanacarpenter.info/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sean McDowell</div>
+							<div style="width:360px;float:left;"><a href="http://www.seanmcdowell.org">http://www.seanmcdowell.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Henry McLaughlin</div>
+							<div style="width:360px;float:left;"><a href="http://henrymclaughlin.org/">http://henrymclaughlin.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Paul Meier</div>
+							<div style="width:360px;float:left;"><a href="http://www.meierclinics.com/">http://www.meierclinics.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Paul Meier</div>
+							<div style="width:360px;float:left;"><a href="http://www.mybrainproduct.com/">http://www.mybrainproduct.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dean Merrill</div>
+							<div style="width:360px;float:left;"><a href="http://www.deanmerrill.com/">http://www.deanmerrill.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matt Mikalatos</div>
+							<div style="width:360px;float:left;"><a href="http://www.imaginaryjesus.com/">http://www.imaginaryjesus.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matt Mikalatos</div>
+							<div style="width:360px;float:left;"><a href="http://www.myimaginaryjesus.com/">http://www.myimaginaryjesus.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ellen Miller</div>
+							<div style="width:360px;float:left;"><a href="http://www.ellenmiller.com">http://www.ellenmiller.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">DiAnn Mills</div>
+							<div style="width:360px;float:left;"><a href="http://www.diannmills.com/">http://www.diannmills.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Mark Mittelberg</div>
+							<div style="width:360px;float:left;"><a href="http://www.choosingyourfaith.com">http://www.choosingyourfaith.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Beth Moore</div>
+							<div style="width:360px;float:left;"><a href="http://www.lproof.org/">http://www.lproof.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Elisa Morgan</div>
+							<div style="width:360px;float:left;"><a href="http://www.fullfill.org/">http://www.fullfill.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nancy Moser</div>
+							<div style="width:360px;float:left;"><a href="http://www.nancymoser.com">http://www.nancymoser.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bill Myers</div>
+							<div style="width:360px;float:left;"><a href="http://www.billmyers.com">http://www.billmyers.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Chuck Norris</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.tyndale.com/images/content/RandyAlcorn_MaxLucad...">http://ttp://www.tyndale.com/images/content/RandyAlcorn_MaxLucad...</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Calvin Nowell</div>
+							<div style="width:360px;float:left;"><a href="http://www.calvinnowell.com/">http://www.calvinnowell.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Mel Odom</div>
+							<div style="width:360px;float:left;"><a href="http://www.melodom.net/">http://www.melodom.net/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nancy Ortberg</div>
+							<div style="width:360px;float:left;"><a href="http://www.teamworx2.com">http://www.teamworx2.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Rick Osborne</div>
+							<div style="width:360px;float:left;"><a href="http://lightwavepublishing.com">http://lightwavepublishing.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Philip L. Ostergard</div>
+							<div style="width:360px;float:left;"><a href="http://www.philipostergard.com/">http://www.philipostergard.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Catherine Palmer</div>
+							<div style="width:360px;float:left;"><a href="http://catherinepalmer.com/">http://catherinepalmer.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Les Parrott</div>
+							<div style="width:360px;float:left;"><a href="http://www.realrelationships.com">http://www.realrelationships.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Leslie Parrott</div>
+							<div style="width:360px;float:left;"><a href="http://www.realrelationships.com/">http://www.realrelationships.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Frank Pastore</div>
+							<div style="width:360px;float:left;"><a href="http://www.FrankPastore.com">http://www.FrankPastore.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ben Patterson</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.westmont.edu/_current_students/pages/campus_pas...">http://ttp://www.westmont.edu/_current_students/pages/campus_pas...</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tom Pawlik</div>
+							<div style="width:360px;float:left;"><a href="http://www.tompawlik.com/">http://www.tompawlik.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kathy Peel</div>
+							<div style="width:360px;float:left;"><a href="http://www.familymanager.com/index.php">http://www.familymanager.com/index.php</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bill Peel</div>
+							<div style="width:360px;float:left;"><a href="http://www.24sevenfaith.com/">http://www.24sevenfaith.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bill Perkins</div>
+							<div style="width:360px;float:left;"><a href="http://www.billperkins.com">http://www.billperkins.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Myra Perrine</div>
+							<div style="width:360px;float:left;"><a href="http://www.crmleaders.org/home">http://www.crmleaders.org/home</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Allison Pittman</div>
+							<div style="width:360px;float:left;"><a href="http://www.allisonpittman.com">http://www.allisonpittman.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Patricia Raybon</div>
+							<div style="width:360px;float:left;"><a href="http://www.patriciaraybon.com/">http://www.patriciaraybon.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Francine Rivers</div>
+							<div style="width:360px;float:left;"><a href="http://www.francinerivers.com">http://www.francinerivers.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Francine Rivers</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.christianspeakerservices.com/css_rivers_francin...">http://ttp://www.christianspeakerservices.com/css_rivers_francin...</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tom Rodgers</div>
+							<div style="width:360px;float:left;"><a href="http://www.becomingafamilythatheals.com/">http://www.becomingafamilythatheals.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bev Rodgers</div>
+							<div style="width:360px;float:left;"><a href="http://www.becomingafamilythatheals.com/">http://www.becomingafamilythatheals.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Joel C. Rosenberg</div>
+							<div style="width:360px;float:left;"><a href="http://www.joelrosenberg.com">http://www.joelrosenberg.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Joel C. Rosenberg</div>
+							<div style="width:360px;float:left;"><a href="http://www.joshuafund.net">http://www.joshuafund.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Joel C. Rosenberg</div>
+							<div style="width:360px;float:left;"><a href="http://www.epicenterconference.com/">http://www.epicenterconference.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ryan Rush</div>
+							<div style="width:360px;float:left;"><a href="http://www.bbcfamily.com/">http://www.bbcfamily.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Ryan Rush</div>
+							<div style="width:360px;float:left;"><a href="http://faithbreakthroughs.com/">http://faithbreakthroughs.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Steve Saint</div>
+							<div style="width:360px;float:left;"><a href="http://www.itecusa.org/">http://www.itecusa.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Steve Saint</div>
+							<div style="width:360px;float:left;"><a href="http://itecusa.org/">http://itecusa.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tim Sanders</div>
+							<div style="width:360px;float:left;"><a href="http://www.timsanders.com/about/tim-sanders.html">http://www.timsanders.com/about/tim-sanders.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dave Schmelzer</div>
+							<div style="width:360px;float:left;"><a href="http://www.bostonvineyard.org/first-visit/service/sermons/">http://www.bostonvineyard.org/first-visit/service/sermons/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Dave Schmelzer</div>
+							<div style="width:360px;float:left;"><a href="http://notreligious.typepad.com/">http://notreligious.typepad.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jennifer Schuchmann</div>
+							<div style="width:360px;float:left;"><a href="http://www.jenniferschuchmann.com/">http://www.jenniferschuchmann.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jennifer Schuchmann</div>
+							<div style="width:360px;float:left;"><a href="http://www.booktour.com/author/jennifer_schuchmann">http://www.booktour.com/author/jennifer_schuchmann</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jim Seybert</div>
+							<div style="width:360px;float:left;"><a href="http://jimseybert.com">http://jimseybert.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Wolfgang Simson</div>
+							<div style="width:360px;float:left;"><a href="http://www.simsonwolfgang.de/html/welcome.html">http://www.simsonwolfgang.de/html/welcome.html</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Randy Singer</div>
+							<div style="width:360px;float:left;"><a href="http://www.randysinger.net/">http://www.randysinger.net/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nancy Sleeth</div>
+							<div style="width:360px;float:left;"><a href="http://www.nancysleeth.com">http://www.nancysleeth.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nancy Sleeth</div>
+							<div style="width:360px;float:left;"><a href="http://www.blessedearth.org">http://www.blessedearth.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gary Smalley</div>
+							<div style="width:360px;float:left;"><a href="http://www.smalleyonline.com/">http://www.smalleyonline.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Erin Smalley</div>
+							<div style="width:360px;float:left;"><a href="http://www.smalleymarriage.com/">http://www.smalleymarriage.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">R. C. Sproul</div>
+							<div style="width:360px;float:left;"><a href="http://www.ligonier.org/">http://www.ligonier.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Steve Stephens</div>
+							<div style="width:360px;float:left;"><a href="http://www.drstevestephens.com/">http://www.drstevestephens.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Sarah Sumner</div>
+							<div style="width:360px;float:left;"><a href="http://www.sumnerconsulting.com/">http://www.sumnerconsulting.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Beverly Hubble Tauke</div>
+							<div style="width:360px;float:left;"><a href="http://www.beverlytauke.com/">http://www.beverlytauke.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">George Taweel</div>
+							<div style="width:360px;float:left;"><a href="http://www.taweel.com/">http://www.taweel.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">G. P. Taylor</div>
+							<div style="width:360px;float:left;"><a href="http://www.gptaylor.info/">http://www.gptaylor.info/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bodie Thoene</div>
+							<div style="width:360px;float:left;"><a href="http://www.thoenebooks.com">http://www.thoenebooks.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Bodie Thoene</div>
+							<div style="width:360px;float:left;"><a href="http://www.familyaudiolibrary.com">http://www.familyaudiolibrary.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Brock Thoene</div>
+							<div style="width:360px;float:left;"><a href="http://www.thoenebooks.com">http://www.thoenebooks.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Brock Thoene</div>
+							<div style="width:360px;float:left;"><a href="http://www.familyaudiolibrary.com">http://www.familyaudiolibrary.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Curt Thompson</div>
+							<div style="width:360px;float:left;"><a href="http://curtthompsonmd.com/">http://curtthompsonmd.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Curt Thompson</div>
+							<div style="width:360px;float:left;"><a href="http://beingknown.com">http://beingknown.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Chris Tiegreen</div>
+							<div style="width:360px;float:left;"><a href="http://www.indeedmagazine.org/">http://www.indeedmagazine.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Loreane Tomlinson</div>
+							<div style="width:360px;float:left;"><a href="http://www.ltandme.com/">http://www.ltandme.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Rick Tramonto</div>
+							<div style="width:360px;float:left;"><a href="http://tramontocuisine.com">http://tramontocuisine.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jim Tressel</div>
+							<div style="width:360px;float:left;"><a href="http://www.coachtressel.com/">http://www.coachtressel.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jim Tressel</div>
+							<div style="width:360px;float:left;"><a href="http://www.thewinnersmanual.com/">http://www.thewinnersmanual.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jennifer Erin Valent</div>
+							<div style="width:360px;float:left;"><a href="http://www.jennifervalent.com">http://www.jennifervalent.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Lisa Velthouse</div>
+							<div style="width:360px;float:left;"><a href="http://lisavelthouse.com">http://lisavelthouse.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Frank Viola</div>
+							<div style="width:360px;float:left;"><a href="http://www.frankviola.com/">http://www.frankviola.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Frank Viola</div>
+							<div style="width:360px;float:left;"><a href="http://www.paganchristianity.org">http://www.paganchristianity.org</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Frank Viola</div>
+							<div style="width:360px;float:left;"><a href="http://ajesusmanifesto.wordpress.com/">http://ajesusmanifesto.wordpress.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Phil Vischer</div>
+							<div style="width:360px;float:left;"><a href="http://www.whatsinthebible.com">http://www.whatsinthebible.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">John F. Walvoord</div>
+							<div style="width:360px;float:left;"><a href="http://www.walvoord.com/">http://www.walvoord.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Michael Ward</div>
+							<div style="width:360px;float:left;"><a href="http://narniacode.com">http://narniacode.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Michael Ward</div>
+							<div style="width:360px;float:left;"><a href="http://michaelward.net">http://michaelward.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Michael Ward</div>
+							<div style="width:360px;float:left;"><a href="http://www.narniacode.co.uk">http://www.narniacode.co.uk</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kurt Warner</div>
+							<div style="width:360px;float:left;"><a href="http://www.kurtwarner.org/">http://www.kurtwarner.org/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Susan May Warren</div>
+							<div style="width:360px;float:left;"><a href="http://www.susanmaywarren.com/">http://www.susanmaywarren.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jan Watson</div>
+							<div style="width:360px;float:left;"><a href="http://www.janwatson.net">http://www.janwatson.net</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Matthew West</div>
+							<div style="width:360px;float:left;"><a href="http://www.matthewwest.com">http://www.matthewwest.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nathan Whitaker</div>
+							<div style="width:360px;float:left;"><a href="http://nathanwhitaker.com/">http://nathanwhitaker.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jeremy L. White</div>
+							<div style="width:360px;float:left;"><a href="http://www.blythewhite.com/new/blythewhite/flash2.htm">http://www.blythewhite.com/new/blythewhite/flash2.htm</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Jeanette Windle</div>
+							<div style="width:360px;float:left;"><a href="http://www.jeanettewindle.com/">http://www.jeanettewindle.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gary Witherall</div>
+							<div style="width:360px;float:left;"><a href="http://ttp://www.facebook.com/people/Gary-Witherall/762884916#/o...">http://ttp://www.facebook.com/people/Gary-Witherall/762884916#/o...</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Robert Wolgemuth</div>
+							<div style="width:360px;float:left;"><a href="http://www.robertwolgemuth.com/">http://www.robertwolgemuth.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Steve Yohn</div>
+							<div style="width:360px;float:left;"><a href="http://www.shelfari.com/o1517985658">http://www.shelfari.com/o1517985658</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Mosab Hassan Yousef</div>
+							<div style="width:360px;float:left;"><a href="http://www.sonofhamas.com/">http://www.sonofhamas.com/</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Gayla Zoz</div>
+							<div style="width:360px;float:left;"><a href="http://www.praesentiainc.com/home.aspx">http://www.praesentiainc.com/home.aspx</a></div>
+						</div>
+						</div><div id="footer_menu_espanol" class="template_subnav_websitelisting_menu" style="visibility:hidden; position:absolute; top:0px;">
+					<img src="/images/template/btn_x.gif" alt="close menu" style="cursor:pointer; position:absolute; top:10px; right:10px;" onclick="toggleWebListingModal('espanol');">
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Español</div>
+							<div style="width:360px;float:left;"><a href="http://www.TyndaleEspanol.com">http://www.TyndaleEspanol.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Nueva Traduccion Viviente</div>
+							<div style="width:360px;float:left;"><a href="http://www.nuevatraduccionviviente.com">http://www.nuevatraduccionviviente.com</a></div>
+						</div>
+						</div><div id="footer_menu_bible" class="template_subnav_websitelisting_menu" style="visibility:hidden; position:absolute; top:0px;">
+					<img src="/images/template/btn_x.gif" alt="close menu" style="cursor:pointer; position:absolute; top:10px; right:10px;" onclick="toggleWebListingModal('bible');">
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Study Bible</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltstudybible.com">http://www.nltstudybible.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Blog</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltblog.com">http://www.nltblog.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NLT Study Bible Blog</div>
+							<div style="width:360px;float:left;"><a href="http://www.nltstudybible.com/blog">http://www.nltstudybible.com/blog</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">NewLivingTranslation.com</div>
+							<div style="width:360px;float:left;"><a href="http://www.newlivingtranslation.com">http://www.newlivingtranslation.com</a></div>
+						</div>
+						</div><div id="footer_menu_other" class="template_subnav_websitelisting_menu" style="visibility:hidden; position:absolute; top:0px;">
+					<img src="/images/template/btn_x.gif" alt="close menu" style="cursor:pointer; position:absolute; top:10px; right:10px;" onclick="toggleWebListingModal('other');">
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Blog</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndale.com/blog">http://www.tyndale.com/blog</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">TyndaleBookSellers.com</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndalebooksellers.com">http://www.tyndalebooksellers.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Christian Book Guides</div>
+							<div style="width:360px;float:left;"><a href="http://www.christianbookguides.com">http://www.christianbookguides.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Cool2Read.com</div>
+							<div style="width:360px;float:left;"><a href="http://www.cool2read.com">http://www.cool2read.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Kenneth N. Taylor Memorial</div>
+							<div style="width:360px;float:left;"><a href="http://www.kennethntaylor.com">http://www.kennethntaylor.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Church Resources</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndalechurchresources.com">http://www.tyndalechurchresources.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Promo Network</div>
+							<div style="width:360px;float:left;"><a href="http://www.tyndale.com/tpn">http://www.tyndale.com/tpn</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Media Center</div>
+							<div style="width:360px;float:left;"><a href="http://MediaCenter.Tyndale.com">http://MediaCenter.Tyndale.com</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale Blog Network</div>
+							<div style="width:360px;float:left;"><a href="http://MediaCenter.Tyndale.com/TBN">http://MediaCenter.Tyndale.com/TBN</a></div>
+						</div>
+						
+						<div style="clear:both; padding:10px 0px 10px 0px;">
+							<div style="width:180px;float:left;font-weight:bold;padding-right:20px;">Tyndale House Catalogs</div>
+							<div style="width:360px;float:left;"><a href="http://catalog.tyndale.com">http://catalog.tyndale.com</a></div>
+						</div>
+						</div>
 
-          A. Use of a Child's Information by Tyndale
-</font></p><ul><font face="arial" "helvetica"="">
-    <li>     We may collect a child's email address in connection with a contest, sweepstakes or game for the sole
-          purpose of communicating with the child on a one-time-only basis (i.e., to contact a contest winner).
-          This information will not be used to re-contact the child, and will be deleted from our records when the
-          contest or game is over. Parental consent will be obtained before we send the winner a prize.<p>
 
-    </p></li><li>     We may collect a child's email address in order to respond more than once to a child's specific
-          request. For example, the child may want to subscribe to an online newsletter or receive other online
-          communications from Tyndale. In these instances Tyndale will also obtain a parent's email address
-          along with the child's. Before any further contact with the child, Tyndale will send an email to the
-          parent (a) notifying him or her we have collected the child's email address in order to respond more
-          than once to the child's request for a subscription, information, etc; (b) informing the parent that he or
-          she can refuse us permission to contact the child, and how to do so; and (c) informing the parent that if
-          he or she does not respond to the email within 72 hours, Tyndale may use the child's information for
-          the purpose for which it was submitted.<p>
-
-     </p></li><li> We may collect a child's personally identifiable information (including name, email address, mailing
-          address and phone number) for such activities as chats, forums, surveys, games, guestbooks, bulletin
-          boards, requests for suggestions, subscription registrations, content submissions, requests for products
-          or services, or requests for additional information. In these instances we will initially collect only the
-          child's name and online contact information and the email address of the child's parent. Before using this
-          information for any purpose, we will send the parent an email that (a) informs the parent that we wish to
-          collect and use the child's personal information and need the parent's consent to do so, and (b)
-          provides the parent with a link to access to this Privacy Policy, which describes our information
-          collection and use policies as required by COPPA. If the proposed use of the child's personal
-          information does not involve disclosure to a third party, then Tyndale will ask the parent to provide
-          consent by return email. Upon receipt of the email consent, we will send the parent a confirming email.
-          If the proposed use of the child's personal information involves disclosure to third parties, the email we
-          send to the parent will ask the parent either to (i) return by postal mail or fax a consent form that will be
-          attached to the email, or (ii) call a toll free number where consent can be given over the phone. If
-          parental consent is not obtained by one of these methods within one week Tyndale will delete all of
-          the child's and parent's personally identifiable information from its records. In addition, parents can
-          revoke a prior consent at any time.<p>
-
-     </p></li><li> We may collect a child's name and email address to the extent reasonably necessary to protect the
-          security of this Site, to protect against liability or as required or permitted by law. Information collected
-          for these reasons will not be used for any other purpose.
-</li></font></ul><font face="arial" "helvetica"="">
-<p>
-          B. Sharing Children's Personal Information With Third Parties. 
-</p><p>
-          Tyndale may share a child's personal with other affiliates who may send you information about their products or
-          services. These third parties have agreed to maintain the confidentiality, security and integrity of the
-          personal information they obtain from Tyndale. As noted above, parents may exercise their option
-          not to consent to the disclosure of their child's personal information to third parties. Parents may
-          consent to Tyndale's collection and use of a child's personal information without consenting to the
-          disclosure of the information to third parties. 
-</p><p>
-   <b>       LINKS/CO-BRANDED SITES</b>
-</p><p>
-          As noted in Section I of this Privacy Policy, this Site may link directly to sites operated by Tyndale House Publishers
-          advertisers, business partners and affiliated companies. Those sites, which are not controlled by
-          Tyndale House Publishers may collect personal information from your child. Parents should therefore check the
-          relevant site's privacy policy to understand how it collects and uses children's personal information.
-          Tyndale House Publishers will not share in any personal information obtained by a site from a child under the age of 13
-          unless that site follows the requirements of COPPA.
-</p><p>
-   <b>       REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE
-          INFORMATION COLLECTED FROM CHILDREN UNDER 13</b>
-</p><p>
-          Parents of children under age 13 may review or delete personal information about their children from
-          our records at any time. If you would like to know the types of personal information we collect, please
-          contact us at <a href="mailto:comments@tyndale.com">comments@tyndale.com</a> or write to us at Tyndale House Publishers Attn: Internet Group
-          351 Executive Drive, Carol Stream, IL 60188.  If you would like to know whether we have collected 
-          personal information about your child, please provide us with the activities that he or she participated in
-          on the Site which requested personal information. After we have reviewed the relevant databases, we
-          will confirm whether we have collected such information about your child. Prior to changing or deleting
-          such infromation, we require that you provide us with proof of your name and address, such as a valid
-          driver's license, and proof that your child resides with you or is otherwise in your custody. Once we
-          have received such proof and determined that it is satisfactory, we will immediately delete or modify
-          your child's information in our database and refrain from collecting any other personally identifiable
-          information from your child, if you so request. However, there may be residual information that will
-          remain within our databases that may or may not contain personally identifiable information. This
-          residual information will not be given to any other third party or used for any commercial purpose.
-</p><p>
-<b>YOUR ACCEPTANCE OF THESE TERMS </b>
-</p><p>
-By using this site, you signify your assent to Tyndale House Publishers and Tyndale.com. If you do not agree to this policy, please do not use our sites. Your continued use of the Tyndale.com and affiliated sites after the posting of changes to these terms will mean you accept those changes. 
-</p><p>
-October 18, 2000
-</p><p>
-</p><center><a href="http://www.tyndale.com">Back to Tyndale</a></center>
-</font>
 
 </body></html>
