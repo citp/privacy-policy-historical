@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406062046id_/http%3A//kbhgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024544id_/http%3A//kbhgames.com/privacy) for the most accurate reproduction.*
 
-# KBH Games » Free Games » Online Games » New Games Daily
+# Free Online Games - Privacy - Kaboohoo Games
 
 We get asked a lot what our policy is on the games we put up. It's really very simple. We put up games that we find fun and we don't alter them in anyway and we always try to give credit to their creators. That's really important to us. 
 
@@ -22,4 +22,4 @@ Your profile information will be available to anyone who chooses to view it. Do 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of these sites. 
 
 **CONTACT US**  
-If you have any comments or questions about this privacy statement, don't hesitate to contact us using the [contact form](http://watchmovie247.com/contact-us/)
+If you have any comments or questions about this privacy statement, don't hesitate to contact us using the [contact form](http://kbhgames.com/contact/)
