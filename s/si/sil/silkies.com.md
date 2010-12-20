@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silkies.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608112553id_/http%3A//www.silkies.com/Privacy.asp%3Fp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkies.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220092826id_/http%3A//www.silkies.com/Privacy.asp%3FLGError%3D%2520) for the most accurate reproduction.*
 
-# Pantyhose, Hosiery, Shapewear, Tights, summer hosiery, toeless styles and more at Silkies Official Site.
+# Silkies | Pantyhose, Shapewear, Tights, Leggings, Toeless Hosiery, Knee-highs, Nylons
 
 **Privacy Policy Statement**
 
