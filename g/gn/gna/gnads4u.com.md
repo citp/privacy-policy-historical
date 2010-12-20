@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619044943id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220111212id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
 
 # GNAds4U.com - Privacy policy
 
@@ -10,7 +10,7 @@ Join gnads4u.com NOW for FREE. You will be able to save your search queries and 
 
 ## 
 
-Quick & easy way to place your ads in Gulf News Classifieds print products.
+Easy way to place your ads in GNAds4U & in Gulf News Classifieds print products.
 
 ## Privacy policy
 
