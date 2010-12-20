@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lepak.tv privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615172722id_/http%3A//www.lepak.tv/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lepak.tv privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220202318id_/http%3A//www.lepak.tv/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Lepak.TV - Privacy Policy
 
