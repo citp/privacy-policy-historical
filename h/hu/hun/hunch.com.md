@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hunch.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173910id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunch.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024003id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunch
 
-Effective May 17, 2010
+Effective September 13, 2010
 
 This Privacy Policy covers Hunch's treatment of personal information that Hunch gathers when you are on the Hunch website ("the Site") and when you use Hunch services.
 
@@ -12,7 +12,7 @@ Your privacy is protected when you use the Hunch Site. We're here to help you ge
 
 Like a knowledgeable expert who gets to know you better over time, Hunch provides increasingly accurate recommendations to you the more you answer questions and provide feedback about the recommendations you've already received. It's up to you how your answers to these questions are shared and stored:
 
-  * You can control whether your THAY answers are visible in your account profile, using the 'Preferences' tab in your Hunch account profile. External applications that you authorize may also give you options to share your answers with other users or to make changes to your Hunch account preferences. 
+  * You can control whether your Teach Hunch About You ("THAY") answers are visible in your account profile, using the 'Preferences' tab in your Hunch account profile. External applications that you authorize may also give you options to share your answers with other users or to make changes to your Hunch account preferences. 
   * You can also choose to delete any previous THAY answers and/or disable the 'remember answers' feature for future questions. These options are available in the 'Preferences' tab of your Hunch account profile.
   * You can review or remove third party external applications which you've authorized to access your Hunch data, by going to hunch.com/authorize.
 
@@ -20,13 +20,11 @@ Like a knowledgeable expert who gets to know you better over time, Hunch provide
 
 ### How Your Personal Information Is Used:
 
-The Hunch basics: You can use basic features of Hunch without being logged in and without providing any personal information at all. In order to improve the quality of your recommendations as you use Hunch repeatedly, Hunch may use a temporary session cookie to remember how you recently answered previous questions. This temporary answer history is not stored on your computer and is not tied to personally identifiable information.
-
-The cooler Hunch stuff: Certain other functions of Hunch are only available if you create and are logged in to a Hunch account:
-
   * We ask for your email address and a password when you create your account in order to control access to it. Your username is used to identify you to other Hunch users when you elect to share information or contribute reviews to Hunch.
-  * You may choose to spruce up your user profile be adding a photo, descriptive text, your location or other information. This content may be shown to other Hunch users anywhere your username would otherwise appear (for example, adjacent to an item review you submitted.) That's the whole point!
-  * THAY ANSWERS: By default when you are logged in, Hunch remembers your answers to THAY questions. Over time this will increase the accuracy of the recommendations you receive. Alternatively, you can use your account profile settings to disable this feature or delete previously stored answers.
+  * When you create a Hunch account using an external application such as Facebook or Twitter, or when you connect your Hunch account to external applications, Hunch may access data from those applications. Examples would be things you like, who you follow, or who your friends are on those applications. A data disclosure page will be shown in these cases and you can decide whether to proceed or not.
+  * You may choose to spruce up your Hunch profile be adding a photo, descriptive text, tags, your location or other information. This content is public and can be viewed by people not logged into Hunch.
+  * Other portions of your Profile can be customized by you to be either public or not. The 'Preferences' tab of your account profile gives you many options to control what you want to display and what you don't.
+  * THAY (Teach Hunch About You) ANSWERS: By default when you are logged in, Hunch remembers your answers to THAY questions. Over time this will increase the accuracy of the recommendations you receive. Alternatively, you can use your account profile settings to disable this feature or delete previously stored answers.
   * SHARED ANSWERS: By default when you are logged in, your answers to THAY questions are not visible by other users on your account profile. If, on the other hand, you decide to be more social and let the world gain some insight into what you like and don't, this setting can be enabled from your user profile. External applications which you authorize may also give you the option to share your THAY answers within the application.
   * While you are logged in we hope you'll provide written commentary and pros/cons about the recommendation outcomes on Hunch. Your submissions will be publicly credited to your username, and they're subject to Hunch's [Terms of Service](https://web.archive.org/info/terms-of-service/) and [Community Guidelines](https://web.archive.org/info/community-guidelines/).
   * We also welcome your suggested contributions for topics, questions/answers and recommendation outcomes. These contributions are also subject to Hunch's [Terms of Service](https://web.archive.org/info/terms-of-service/) and [Community Guidelines](https://web.archive.org/info/community-guidelines/) and may be credited to your username.
@@ -64,7 +62,7 @@ Reviewing, Updating or Deleting Your Personal Information
 You can visit your account profile page at any time to:
 
   * Update or correct your personal profile information, photo, or email preferences
-  * Delete some or all of your THAY answers to past questions
+  * Delete some or all of your Teach Hunch About You (THAY) answers to past questions
   * Disable the 'remember answers' feature for future questions
   * Block other users from seeing your previously answered questions by setting your THAY answers to 'private' mode
   * Delete your account completely
