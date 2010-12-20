@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011103id_/http%3A//www.redherring.com/Home/pages/page/%3Fpgid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220235235id_/http%3A//www.redherring.com/Home/pages/page/%3Fpgid%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,4 +65,4 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 1900 Alameda de las Pulgas  
 San Mateo, CA 94403  
 650.428.2900  
-[ _privacy@redherring.com_](mailto:privacy@redherring.com)
+[ _info@redherring.com_](mailto:info@redherring.com)
