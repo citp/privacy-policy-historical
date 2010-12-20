@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 4adventure.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621015041id_/http%3A//www.seaworldparksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4adventure.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220123038id_/http%3A//www.seaworldparksblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SeaWorld Parks Blog
-
-## Privacy Policy
 
 At SeaWorld Parks & Entertainment and its affiliates, we are committed to protecting your privacy.
 
@@ -37,7 +35,3 @@ Under California Law SB 27, California residents have the right to receive, once
 This policy was last updated on December 1, 2009
 
 Thank you for visiting our site.
-
-  * [](http://www.addthis.com/bookmark.php)
-
-
