@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rajattokasworld.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518202220id_/http%3A//www.rajattokasworld.com/rtw/%3Fpage_id%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajattokasworld.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220160843id_/http%3A//www.rajattokasworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rajat Tokas World
-
-## Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
