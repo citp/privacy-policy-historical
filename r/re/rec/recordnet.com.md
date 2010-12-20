@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordnet.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622001848id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordnet.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220173327id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Recordnet.com | San Joaquin County News, Jobs, Cars, Real Estate and more
 
@@ -105,7 +105,7 @@ You must update your preferences for each of our publications separately, as ind
   * recordnet.com  
 To opt out of receiving marketing from recordnet.com, if you are a subscriber visit our E-Mail Center. Others may notify us by contacting Customer Service at [onlinesupport@recordnet.com](maito:onlinesupport@recordnet.com) or by calling us at 800-606-9742.
   * The Record   
-To opt out of receiving marketing from The Record print edition and/or promotional offers from third parties notify us by e-mail at [homedelivery@s-t.com](mailto:homedelivery@s-t.com) or by postal mail at P.O. Box 900, Stockton, CA 95201.
+To opt out of receiving marketing from The Record print edition and/or promotional offers from third parties notify us by e-mail at [onlinesupport@recordnet.com](mailto:onlinesupport@recordnet.com) or by postal mail at P.O. Box 900, Stockton, CA 95201.
 
 
 
@@ -118,7 +118,7 @@ You may review and update the personally identifiable information that you have 
   * recordnet.com  
 Subscribers to the recordnet.com may contact Customer Service at [onlinesupport@recordnet.com](mailto:onlinesupport@recordnet.com), or by calling us at 800-606-9742.
   * The Record   
-Subscribers to The Record print edition may contact Customer Service by e-mail at [homedelivery@s-t.com](mailto:homedelivery@s-t.com), calling 800-606-9742 or by postal mail at P.O. Box 900, Stockton, CA 95201.
+Subscribers to The Record print edition may contact Customer Service by e-mail at [onlinesupport@recordnet.com](mailto:onlinesupport@recordnet.com), calling 800-606-9742 or by postal mail at P.O. Box 900, Stockton, CA 95201.
 
 
 
