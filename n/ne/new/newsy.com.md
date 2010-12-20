@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316042015id_/http%3A//www.newsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024058id_/http%3A//www.newsy.com/privacy) for the most accurate reproduction.*
 
-# Newsy | Privacy Policy | The News With More Views
+# Newsy | Privacy Policy | Multisource Video News Analysis
 
-NEWSY.COM PRIVACY STATEMENT
+## NEWSY.COM PRIVACY STATEMENT
 
 Thank you for visiting NEWSY.COM. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
 
