@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maplesoft.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629185151id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maplesoft.com privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220034834id_/http%3A//maplesoft.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -7,30 +7,31 @@
 <script language="javascript" src="/omniture/s_code.js" type="text/javascript"></script></head><body><img name="s_i_albertotresemmecom" height="1" width="1" border="0" alt="">
 <script language="javascript" src="/omniture/mbox.js" type="text/javascript"></script><style>.mboxDefault { visibility:hidden; }</style>
 <script src="/js/jquery.js" type="text/javascript"></script>
+<script src="/js/ui/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <script src="/js/common.js" type="text/javascript"></script>
 <script language="javascript" type="text/javascript">
-//populates the MSegment variable with the value of the .MemberSegment cookie
-	var MSegment="";
-	
-	var found=1;
+    //populates the MSegment variable with the value of the .MemberSegment cookie
+    var MSegment = "";
+
+    var found = 1;
 
     var dc = document.cookie;
     var prefix = ".MemberSegment=";
     var begin = dc.indexOf("; " + prefix);
     if (begin == -1) {
         begin = dc.indexOf(prefix);
-        if (begin != 0) found=0;
+        if (begin != 0) found = 0;
     } else {
         begin += 2;
     }
-    
-    if (found != 0){
-		var end = document.cookie.indexOf(";", begin);
-		if (end == -1) {
-			end = dc.length;
-		}
-		MSegment = unescape(dc.substring(begin + 15, end));
-	}
+
+    if (found != 0) {
+        var end = document.cookie.indexOf(";", begin);
+        if (end == -1) {
+            end = dc.length;
+        }
+        MSegment = unescape(dc.substring(begin + 15, end));
+    }
 </script>
 
 
@@ -60,12 +61,12 @@
             <option value="http://search.maplesoft.com/search?q=" selected="selected">Maplesoft.com</option>
             <option value="http://www.maplesoft.com/applications/search.aspx?term=">Applications</option>
             <option value="http://www.maplesoft.com/support/help/search.aspx?term=">Online Help</option>
-            <option value="http://www.mapleprimes.com/search/node/">MaplePrimes</option>
-            <option value="http://search.maplesoft.com/search?q=site:http://www.maplesoft.com/teacherresource ">Teacher Resource Center</option>
+            <option value="http://www.mapleprimes.com/search/?term=">MaplePrimes</option>
+            <option value="http://search.maplesoft.com/search?site=my_collection&amp;output=xml_no_dtd&amp;client=my_collection&amp;proxystylesheet=my_collection&amp;q=site:http://www.maplesoft.com/teacherresource ">Teacher Resource Center</option>
         </select>
         <input type="image" src="/images/template/images/search_03.png" alt="go" width="23" height="20" name="btnG" value="Maplesoft Site Search" id="searchGo">
         </form>
-        <div id="socialLinks">
+      <div id="socialLinks">
             <a href="http://www.facebook.com/maplesoft" onclick="var s=s_gi('maplesoftcom'); 
                     s.linkTrackVars='None'; 
                     s.linkTrackEvents='None'; 
@@ -85,8 +86,9 @@
                         s.linkTrackVars='None'; 
                         s.linkTrackEvents='None'; 
                         s.tl(this,'o','Header:YouTube');">
-                <img src="/common/images/youtube.png" alt="YouTube" width="22" height="21" border="0"></a>
-        </div>
+                <img src="/common/images/youtube.png" alt="YouTube" width="22" height="21" border="0"></a><br>
+	    <a href="/subscribe/"><img src="/common/images/mail_icon.gif" width="72" height="10" hspace="3" border="0"><br>
+	    </a>        </div>
     </div>
 </div>
 <div id="secondRow">
@@ -110,7 +112,7 @@
             <img src="/images/template/images/header_12.jpg" alt="Solutions" over="/images/template/images/header_on_12.jpg" width="67" height="43" border="0"></a>
                 <br class="clearing">
         <ul>
-            <li><a href="#">For Engineering</a>
+            <li><a href="/solutions/engineering/">For Engineering</a>
                 <ul>
                     <li><a href="/engineering/mechatronics/">Mechatronics</a></li>
                     <li><a href="/engineering/Machine_design/">Machine Design</a></li>
@@ -120,7 +122,7 @@
 					<li><a href="/engineering/electronics/">Electronics</a></li>
                 </ul>
             </li>
-            <li><a href="#">For Education</a>
+            <li><a href="/solutions/education/">For Education</a>
 			     <ul>
                     <li><a href="/academic_math/">Mathematics Education</a></li>
                     <li><a href="/education/engineering/">Engineering Education</a></li>
@@ -129,7 +131,7 @@
 					<li><a href="/products/Student/">Students</a></li>
                 </ul>
 			</li>
-            <li><a href="#">For Applied Research</a>
+            <li><a href="/solutions/applied_research/">For Applied Research</a>
 			     <ul>
                     <li><a href="/applied_research/Financial/">Financial Modeling</a></li>
                     <li><a href="/applied_research/operations/">Operations Research</a></li>
@@ -137,7 +139,7 @@
                     <li><a href="/applied_research/HPC/">High Performance Computing</a></li>
                 </ul>
 			</li>
-            <li><a href="#">For Automotive</a>
+            <li><a href="/solutions/automotive/">For Automotive</a>
 			       <ul>
                     <li><a href="/industries/automotive/powertrain/">Powertrain design and control</a></li>
                     <li><a href="/industries/automotive/vehicle_dynamics/">Vehicle dynamics and stability control</a></li>
@@ -216,7 +218,6 @@
 			</li>
             <li><a href="/tacontent/index.aspx">Maple T.A. Content Center</a></li>
             <li><a href="http://www.mapleprimes.com/">MaplePrimes</a></li>
-            <li><a href="/academic/adoption/index.aspx">Adoption Program</a></li>
             <li><a href="/developers/index.aspx">Third Party Developers</a></li>
             <li><a href="/members/member_center_main.aspx">My Member Profile</a></li>
         </ul>
@@ -261,7 +262,7 @@
 <div class="mboxDefault" style="visibility: visible; display: block;"></div>
 <script type="text/javascript">
 	mboxCreate('Step-GlobalMaplesoftcom');
-</script><div id="mboxMarker-default-Step-GlobalMaplesoftcom-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://maplesoft.tt.omtrdc.net/m2/maplesoft/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580375854617-146748&amp;mboxPage=1580375859059-309429&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;mbox=Step-GlobalMaplesoftcom&amp;mboxId=0&amp;mboxTime=1580375859295&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100629185151id_%2Fhttp%3A%2F%2Fwww.maplesoft.com%2Fprivacy%2F&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script> <!-- SiteCatalyst code version: H.14. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript">/* You may give each page an identifying name, server, and channel on the next lines. */
+</script><div id="mboxMarker-default-Step-GlobalMaplesoftcom-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://maplesoft.tt.omtrdc.net/m2/maplesoft/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580375857941-300281&amp;mboxPage=1580375862284-357838&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;mbox=Step-GlobalMaplesoftcom&amp;mboxId=0&amp;mboxTime=1580375862918&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101220034834id_%2Fhttp%3A%2F%2Fmaplesoft.com%2Fprivacy%2F&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script> <!-- SiteCatalyst code version: H.14. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript">/* You may give each page an identifying name, server, and channel on the next lines. */
 s.pageName="Privacy Policy"
 s.server="North America"
 s.channel="Company"
@@ -469,7 +470,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
                   <br>
                   <b>Privacy Policy</b><br>
         Maplesoft recognizes that appropriate protection and management of personal
-        information is critical and is responsible for personal information in its possession or custody. . We have adopted the following privacy principles for
+        information is critical and is responsible for personal information in its possession or custody. We have adopted the following privacy principles for
         the protection of the personal information of Users.
 		            </p><ol>
         <li> Maplesoft will provide Users with easily
@@ -496,8 +497,9 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
                           support and service obligations to the User; or                      
                       </li><li>Where the User is a resident of a jurisdiction other than Canada or the United States, Maplesoft may also disclose personal information to our authorized third party partner located in the jurisdiction where the User resides.  Please visit <a href="http://www.maplesoft.com/contact/international/" class="plainlink">http://www.maplesoft.com/contact/international/</a> to view a list of our authorized third partners by jurisdiction.                      
                       </li></ul>
-					</li><li>Maplesoft uses contractual or other means to provide protection for the personally identifiable information that is disclosed third parties.
-				    </li></ol>
+					</li><li>Maplesoft uses contractual or other means to provide protection for the personally identifiable information that is disclosed third parties.                    
+					</li><li>Maplesoft may share personal information gathered through the Services and amongst our corporate parents (including, without limitation, Cybernet Systems Co., LTD.), subsidiaries, affiliates or divisions for internal business purposes in accordance with this Privacy Policy. If Maplesoft shares your information within its corporate family, we will ensure that your information continues to be used only in accordance with this Privacy Policy and your expressed choices.
+		            </li></ol>
 					
 		            <p><strong>Commercial E-mail Communications</strong><br>
 		Maplesoft operates multiple commercial e-mail lists that interested parties can opt-in or opt-out of at any time from the <a href="/subscribers/subscription_list.aspx" class="plainlink">e-mail management area</a> of the Web Site.  If you are a member of the Web Site, you can also manage your preferences from within the <a href="/Members/member_center_main.aspx" class="plainlink">Member Center</a>.
