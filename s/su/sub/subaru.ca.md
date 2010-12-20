@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419012052id_/http%3A//www.subaru.ca/content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.ca privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220182920id_/http%3A//www.subaru.ca/content/7907/Media/en-ca/LegalText/Corporate/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Subaru Canada, Inc.
 
