@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628161953id_/http%3A//www.tictacti.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220130146id_/http%3A//www.tictacti.com/Privacy-Policy) for the most accurate reproduction.*
 
-# TicTacTi - Broadband Video Commercials
+# TicTacTi
 
-|  | [](http://tictacti.com/Interactive-Overlay-Ads) |   
----|---  
-  
-
-
-### TicTacTi Privacy Policy - Your privacy is important to us.
+### Privacy Policy - Your privacy is important to us.
 
 This privacy policy describes how TicTacTi treats certain information provided by you in connection with your access to and use of the TicTacTi website (the "Service"). This privacy policy does not apply to people not employed by TicTacTi or to entities not owned or controlled by TicTacTi. 
 
@@ -30,8 +25,4 @@ The service is not structured to attract children under 13 years of age. Our ter
 **How to contact us.**  
 Should you have any questions or concerns about these privacy policies, including any questions or concerns about the management or use of personal information, please send us an email at privacy@TicTacTi-inc.com. Our postal mailing address is  
 TicTacTi, Ltd.  
-8 Nachalat Yizhak Street 
-
-Tel Aviv
-
-Israel
+Nemal Tel Aviv 36, 2nd floor, Tel Aviv 63506 Israel 
