@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412075636id_/http%3A//www.gamestation.co.uk/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220215424id_/http%3A//www.gamestation.co.uk/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Statement at Gamestation.co.uk
 
@@ -41,6 +41,8 @@ We use CyberSource for processing of security information and this data is passe
 
 
 ### Use of the Information supplied by you
+
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Identity Reference Agency which may keep a record of the information. You can rest assured that this is done only to confirm your identity and that there is active credit at the name and address supplied. Please note that although an actual credit check is not performed the search may be logged on your file but your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
 We will share your details with companies directly involved in getting you the product you have ordered. In these cases Gameplay (GB) Ltd. trading as Gamestation.co.uk will ensure that there is no further use of your data other than to deliver you the product and arrange for that delivery, and to support guarantees or maintenance in the future. In the majority of cases they will have no right to market to you directly unless you specifically request it, and will be registered under UK data protection law, where they do have the right to market to you direct you will be specifically asked to opt-in.
 
