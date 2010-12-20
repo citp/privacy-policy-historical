@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucbcomedy.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619021105id_/http%3A//www.ucbcomedy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbcomedy.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220090027id_/http%3A//www.ucbcomedy.com/pages/privacy) for the most accurate reproduction.*
 
-# UCBcomedy.com : Privacy
+# Privacy • UCB Comedy
 
 
     This website, accessible through www.UCBcomedy.com and
