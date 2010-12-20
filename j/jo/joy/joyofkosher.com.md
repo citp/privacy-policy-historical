@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619143607id_/http%3A//www.joyofkosher.com/PrivacyRights.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220085311id_/http%3A//www.joyofkosher.com/PrivacyRights.aspx) for the most accurate reproduction.*
 
 # Joyofkosher.com
 
@@ -54,7 +54,7 @@ Joyofkosher.com may contain links to other websites.  If you choose to visit ot
 
 **Contacting Us:**
 
-If you have any questions about this policy, our practices related to this site, please feel contact us at the following address:[info@joyofkosher.com](mailto:info@joyofkosher.com). 
+If you have any questions about this policy, our practices related to this site, please feel contact us at the following address: [info@joyofkosher.com](mailto:info@joyofkosher.com). 
 
 **Updates and Changes:**
 
