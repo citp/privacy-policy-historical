@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalspy.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420060450id_/http%3A//www.digitalspy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224539id_/http%3A//www.digitalspy.com/about/privacy-policy) for the most accurate reproduction.*
 
 # About Us - Information - Privacy Policy - Digital Spy
 
@@ -22,4 +22,4 @@ Digital Spy reserves the right, at any time, to modify, alter, or update this pr
 Our web site uses third party advert servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
  **NAI Opt-out**  
-To opt-out of a Network Advertising Initiative member's behavioural advertising programme, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+To opt-out of a Network Advertising Initiative member's behavioural advertising program, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
