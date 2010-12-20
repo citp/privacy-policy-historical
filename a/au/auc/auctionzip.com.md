@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430032640id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220010528id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
 
 # AuctionZip, LLC Privacy Policy
 
-  
-AUCTIONZIP PRIVACY POLICY
+## AUCTIONZIP PRIVACY POLICY
 
-AuctionZip, LLC ("AuctionZip") is a Delaware Limited Liability Company based in Bedford, Pennsylvania.   AuctionZip provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
+AuctionZip, LLC ("AuctionZip") is a Delaware Limited Liability Company based in Bedford, Pennsylvania.   AuctionZip provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets. 
 
-Our policies have been developed with the recognition that Internet technologies and underlying business models are rapidly evolving.   Accordingly, our policies are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect, and registered users will be notified as appropriate.
+Our policies have been developed with the recognition that Internet technologies and underlying business models are rapidly evolving.   Accordingly, our policies are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect, and registered users will be notified as appropriate. 
 
-As a condition of using AuctionZip.com, users must confirm their adult status.   In accordance with the Children's Online Privacy Protection Act (COPPA), AuctionZip.com does not collect or store any personal information, even in aggregate, about children under the age of 13.
+As a condition of using AuctionZip.com, users must confirm their adult status.   In accordance with the Children's Online Privacy Protection Act (COPPA), AuctionZip.com does not collect or store any personal information, even in aggregate, about children under the age of 13. 
 
-Please read this Privacy Policy carefully so that you understand our online privacy practices regarding:
+Please read this Privacy Policy carefully so that you understand our online privacy practices regarding:  
+
 
 1) INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
@@ -23,13 +23,16 @@ Please read this Privacy Policy carefully so that you understand our online priv
 
 5) SECURITY AND PROTECTION OF YOUR INFORMATION
 
-6) HOW TO CONTACT US
+6) HOW TO CONTACT US 
 
-**1) INFORMATION WE COLLECT AND HOW WE COLLECT IT**
+##  **1) INFORMATION WE COLLECT AND HOW WE COLLECT IT**
 
-The information we gather on our site falls into two categories: (1) tracking information collected as you navigate through our site, and (2) personal information you supply when you register or subscribe:
+The information we gather on our site falls into two categories: (1) tracking information collected as you navigate through our site, and (2) personal information you supply when you register or subscribe: 
 
- _Tracking Information_
+_Tracking Information_
+
+  
+
 
 Tracking information is collected and stored whenever a request is made for any page or image on our servers. This information can be analyzed and presented in the aggregate or organized by user sessions. We use it for analysis and reporting on site activity. For example, we may want to know how long the average user spends on our site, or which pages or features get the most attention.
 
@@ -45,7 +48,7 @@ A "cookie" is a small amount of data that is sent to your browser from a web ser
 
 The help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you won't be able to use any feature that requires registration or subscription.
 
-**2) HOW YOUR INFORMATION WILL BE USED**
+## **2) HOW YOUR INFORMATION WILL BE USED**
 
 AuctionZip uses personally identifiable information in a limited number of ways, in general falling into the following categories:
 
@@ -85,13 +88,13 @@ AuctionZip will share some or all of your personal information with another busi
 
 If it is clear from the information that you provide us that you are a member of the antiques, art, auction or related trades we may, in our sole discretion list you in directories, or other areas of our site, and may use the name of your firm and your relationship to us in marketing or advertising on our site, or in our promotional materials, paid advertising, or other media in order to promote our services. We will not display the content of your email submissions about our services as testimonials for promotional purposes without your express permission.
 
-**3) HOW YOU CAN CORRECT INFORMATION**
+## **3) HOW YOU CAN CORRECT INFORMATION**
 
-Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your AuctionZip Home and AuctionZip User Home page.    
+Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your AuctionZip Home and AuctionZip User Home page. 
 
-**4) OUR E-MAIL POLICIES**
+## **4) OUR E-MAIL POLICIES**
 
- _Account and Services Related E-mail_
+_Account and Services Related E-mail_
 
 We will send you e-mails relating to your account. These include order confirmations, renewal/expiration notices, and credit card problem notifications.  
 
@@ -105,9 +108,9 @@ We may offer e-mail newsletters.   If you do not wish to receive newsletters, 
 
  _Promotional E-mails_
 
-We may e-mail you messages that we think may be of interest to you about other products and services. You can choose not to receive additional future messages by following the 'unsubscribe' instructions located near the bottom of each e-mail."
+We may e-mail you messages that we think may be of interest to you about other products and services. You can choose not to receive additional future messages by following the 'unsubscribe' instructions located near the bottom of each e-mail." 
 
-**5) SECURITY AND PROTECTION OF YOUR INFORMATION**
+## **5) SECURITY AND PROTECTION OF YOUR INFORMATION**
 
 We take very seriously our commitment to protect your personal information. To this end, we maintain a secure process to collect, transmit and store your personally identifiable information including credit card details.
 
@@ -115,18 +118,16 @@ Subscribers can review or change their registration, or subscription information
 
 We urge you to keep your password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This ensures that others cannot access your account, especially if you are sharing a computer with someone else or using a computer in a public place.
 
-As a dynamic and growing Site, AuctionZip may contain links to other sites that are not under our control.   Those Web sites have their own policies regarding privacy.   For your own protection, you should review their policies upon visiting these other sites to make sure they meet your expectations of privacy.
+As a dynamic and growing Site, AuctionZip may contain links to other sites that are not under our control.   Those Web sites have their own policies regarding privacy.   For your own protection, you should review their policies upon visiting these other sites to make sure they meet your expectations of privacy. 
 
-**6) HOW TO CONTACT US**
+## **6) HOW TO CONTACT US**
 
-If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the AuctionZip Privacy Policy or its implementation, please contact us by email at: feedback@AuctionZip.com, or by mail at:
+If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the AuctionZip Privacy Policy or its implementation, please contact us by email at: [feedback@AuctionZip.com](mailto:feedback@AuctionZip.com), or by mail at:
 
 AuctionZip, LLC
 
-Attention: Steve Johnson
+113 West Pitt St, Suite C
 
-105 S. Richard St, Suite B
+Bedford, PA 15522 
 
-Bedford, PA 15522
-
-This policy document was last revised Feb 9, 2010.
+This policy document was last revised 12/03/2010. 
