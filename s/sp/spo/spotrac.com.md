@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603045030id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220094021id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
 
 # Spotrac.com :: The Spot for Sports Contracts :: Privacy Policy
 
