@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securegatewayaccess.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003143id_/http%3A//www.securegatewayaccess.com/sga/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securegatewayaccess.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221001435id_/http%3A//securegatewayaccess.com/sga/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
