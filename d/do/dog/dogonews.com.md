@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618142621id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220083317id_/http%3A//dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Kids news - Privacy Policy
 
