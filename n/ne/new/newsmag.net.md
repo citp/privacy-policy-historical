@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsmag.net privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601013444id_/http%3A//newsmag.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmag.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224348id_/http%3A//newsmag.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NEWS MAG Weekly Magazine
+# Privacy Policy - Free Press Release
 
 At Newsmag.net [NEWS MAG Weekly Magazine] we respect your privacy. Here you will find details outlining our privacy policy.
 
