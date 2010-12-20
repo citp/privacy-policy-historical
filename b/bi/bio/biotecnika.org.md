@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529122908id_/http%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220154414id_/http%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BioTecNika.Org
+# Privacy Policy | BioTecNika
 
-You are here: [Home](https://web.archive.org/) » Privacy Policy
+[](http://gate.biotecnika.org/gate-e-learner)
 
 This is the web site of **BIOTECNIKA INC.**  
 **Bangalore**
@@ -35,20 +35,5 @@ For More contacts visit our [Contact Us](https://web.archive.org/contact-us/) pa
   * If you feel that this site is not following its stated information policy, you may contact us at the above said addresses.
 
 
+  
 
-
-[](http://www.gyanbinduacademy.com/)
-
-## Support Us
-
-##  **_Support Biotecnika_**
-
-Biotecnika Encyclopedia is a collective effort by a handful of Biotechnologists. For running this Online revolution we need your support
-
-If you want to support the BioTecNika Online Encyclopedia then Please inform all your friends to join BioTecNika
-
-## Subscribe Via Email
-
-[](http://www.biotecnika.org/email-alerts)
-
-* * *
