@@ -1,43 +1,62 @@
-> *The following text is extracted and transformed from the crescentelectronics.co.uk privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424080950id_/http%3A//www.crescentelectronics.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crescentelectronics.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220071939id_/http%3A//www.crescentelectronics.co.uk/privacy) for the most accurate reproduction.*
 
-# Crescent Electronics, sim free mobile phone,
+# Privacy Policy
 
-  
-This is the web site of Crescent Electronics Ltd.
+**Crescent Electronics Privacy Policy**
 
-Our postal address is  
-9A High Street  
-East Sussex, TN6 2QA
+This privacy policy sets out how Crescent Electronics uses and protects any information that you give when you use this website.   
+Crescent Electronics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.   
+Crescent Electronics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Thursday, 27 May 2010.
 
-We can be reached via e-mail at contact@crescentelectronics.co.uk  
-or you can reach us by telephone at 01892665401
+**What we collect**  
+We may collect the following information: 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+  * name and title
+  * contact information including email address
+  * Credit/Debit card details
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used for internal review and is then discarded.
 
-With respect to cookies: We use cookies to store visitors preferences.
+**What we do with the information we gather**  
+Credit/Debit card details
 
-If you do not want to receive e-mail from us in the future, please let us know by or Unticking the selection in your account.
+  * We require this information to process your orders
+  * We do not store your card and CCV numbers
+  * We use SagePay to process all payment transactions
+  * We use your address details to dispatch goods to
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+**Email address**  
+If you select the newsletter checkbox, or sign up to our newsletter
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+**Security**  
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-If you feel that this site is not following its stated information policy, you may contact or your local trading standards office for advice. 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.   
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+**Links to other websites**  
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**  
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:   
+Crescent Electronics   
+Vision House   
+Crowborough Hill   
+Crowborough   
+East Sussex   
+TN6 2EG
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
