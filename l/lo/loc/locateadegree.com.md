@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locateadegree.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620063629id_/http%3A//www.locateadegree.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadegree.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220183329id_/http%3A//www.locateadegree.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to Locate a Degree
 
