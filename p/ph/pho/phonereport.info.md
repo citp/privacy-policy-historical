@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonereport.info privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513175250id_/http%3A//phonereport.info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonereport.info privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220235119id_/http%3A//phonereport.info/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PhoneReport v2.0
 
