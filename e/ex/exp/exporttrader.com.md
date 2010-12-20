@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exporttrader.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607123709id_/http%3A//www.exporttrader.com/section/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exporttrader.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220081848id_/http%3A//www.exporttrader.com/section/policy) for the most accurate reproduction.*
 
-# car export usa - EXPORTTRADER.COM
+# export car - EXPORTTRADER.COM
 
 **EXPORTTRADER.com** is committed to respecting and protecting your privacy. Please carefully read the following privacy policy, which explains how we collect, safeguard and disclose information that results from your use of our website. By using our website, you are agreeing to all the terms and conditions of our privacy policy.
 
