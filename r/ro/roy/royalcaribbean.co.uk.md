@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226035201id_/http%3A//www.royalcaribbean.co.uk/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220062829id_/http%3A//www.royalcaribbean.co.uk/privacyPolicy.do) for the most accurate reproduction.*
 
 # Royal Caribbean International
 
@@ -51,4 +51,6 @@ If you have any further questions or comments **regarding our Privacy Policy** ,
 
 This privacy policy was last modified on 20 March 2002.  
   
-| 
+|   
+  
+|  |  | 
