@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613011601id_/http%3A//www.psi.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220030301id_/http%3A//www.psi.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSI
 
@@ -58,5 +58,3 @@ Washington, DC 20036
 Fax: (202) 785-0120
 
 You can also send an email to: [webmaster@psi.org](mailto:webmaster@psi.org)
-
-[](http://psi.org/print/2993 "Display a printer-friendly version of this page.")[](http://psi.org/printmail/2993 "Send this page by e-mail.") [](http://www.addthis.com/bookmark.php)
