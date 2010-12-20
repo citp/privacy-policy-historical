@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622231927id_/http%3A//www.nomorepanic.co.uk/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220065538id_/http%3A//www.nomorepanic.co.uk/articles/privacy) for the most accurate reproduction.*
 
 # No More Panic - Privacy
 
@@ -74,9 +74,9 @@ By using our sites, or by entering a competition, you consent to the collection 
 
 Any personal information submitted via our websites or by text is treated in accordance with the Data Protection Act 1998. To find out more about your entitlements under this legislation, visit the Information Commissioner's website:[www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/ "www.dataprotection.gov.uk") or read the Act online at:[www.hmso.gov.uk/acts/acts1998/19980029.htm](http://www.hmso.gov.uk/acts/acts1998/19980029.htm "www.hmso.gov.uk/acts/acts1998/19980029.htm").
 
-If you would like to review or revise information you have previously provided to us online, you may do so by emailing [nomorepanic](http://www.nomorepanic.co.uk/mailto:nomorepanic@btinternet.com).
+If you would like to review or revise information you have previously provided to us online, you may do so by emailing [nomorepanic](mailto:nomorepanic@btinternet.com).
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you or if you have any questions relating to this Privacy Policy or how we use the personal information we have about you, please email [nomorepanic](http://www.nomorepanic.co.uk/mailto:nomorepanic@btinternet.com).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you or if you have any questions relating to this Privacy Policy or how we use the personal information we have about you, please email [nomorepanic](mailto:nomorepanic@btinternet.com).
 
 
 
