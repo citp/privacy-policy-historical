@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloson.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508091654id_/http%3A//www.bloson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloson.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220155536id_/http%3A//www.bloson.com/privacy.php) for the most accurate reproduction.*
 
 # Bloson - Enjoy the best music, videos and shopping while helping a cause
 
