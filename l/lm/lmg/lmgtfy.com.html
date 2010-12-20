@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lmgtfy.com privacy policy that was archived on 2010-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100127090140id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lmgtfy.com privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220095754id_/http%3A//lmgtfy.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta content="text/html;charset=UTF-8" http-equiv="content-type">
@@ -10,68 +10,79 @@
     <link href="lmgtfy.xml" rel="search" title="LMGTFY" type="application/opensearchdescription+xml">
     <title>Let me google that for you</title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-    <script src="bundle.js?1264544720" type="text/javascript"></script>
+    <script src="bundle.js?1292533262" type="text/javascript"></script>
     <style rel="text/css">
-      * { font-family: arial,sans-serif; }
+      * { font-family: arial, sans-serif; }
       
-      body { background-color: #fff; color: #333; }
+      body { background-color: white; color: #333333; }
       
       #logo { margin-top: -1em; position: relative; top: 2em; }
       
-      .logo { font-size: 1.5em; color: #444; }
+      .logo { font-size: 1.5em; color: #444444; }
       
-      input.text { font-size: 1em; }
+      input { -moz-box-sizing: content-box; font-family: inherit; }
+      
+      input.text { background: white; border: 1px solid #cccccc; border-bottom-color: #999999; border-right-color: #999999; color: black; font: 18px arial, sans-serif bold; height: 25px; margin: 0; padding: 5px 8px 0 6px; vertical-align: top; }
+      
+      input.text:focus { outline: none; }
+      
+      input#search, input#lucky { background: url("http://www.google.com/images/srpr/nav_logo13.png") repeat scroll center bottom transparent; border: medium none; color: black; cursor: pointer; font: 15px arial, sans-serif; height: 30px; margin: 0; outline: 0 none; vertical-align: top; }
+      
+      .button_wrapper { border-bottom: 1px solid #e7e7e7; border-right: 1px solid #e7e7e7; display: inline-block; margin: 3px 0 4px 4px; }
+      .button_wrapper .inner { background: none repeat scroll 0 0 #eeeeee; border-color: #cccccc #999999 #999999 #cccccc; border-style: solid; border-width: 1px; display: block; height: 30px; }
       
       #fake_mouse { position: absolute; top: 100px; left: 100px; }
       
-      #instructions { margin-top: 40px; font-size: 1.1em; color: #999; width: 350; height: 84px; background: transparent url(images/instructions_bg.png) no-repeat top center; }
+      #instructions { margin-top: 40px; font-size: 1.1em; color: #999999; width: 350; height: 84px; background: transparent url(images/instructions_bg.png) no-repeat top center; }
       #instructions div { line-height: 84px; }
       
       #link_placeholder { height: 90px; }
       
       #link { position: absolute; display: none; padding-bottom: 28px; }
       
-      input.link { width: 312px; font-size: 1.2em; text-align: center; border: 1px solid #c2c9ff; color: #555; background-color: #f4fbff; cursor: pointer; }
+      input.link { width: 312px; font-size: 1.2em; text-align: center; border: 1px solid #c2c9ff; color: #555555; background-color: #f4fbff; cursor: pointer; }
       
-      #footer { margin-top: 40px; color: #999; border-top: solid 1px #ddd; padding-top: 0.5em; text-align: center; }
-      #footer a { color: #999; text-decoration: none; padding: 0 1em; }
+      #footer { margin-top: 40px; color: #999999; border-top: solid 1px #dddddd; padding-top: 0.5em; text-align: center; }
+      #footer a { color: #999999; text-decoration: none; padding: 0 1em; }
       #footer a:hover { text-decoration: underline; }
       
-      #about { margin-top: 0.5em; color: #666; text-align: center; }
+      #about { margin-top: 0.5em; color: #666666; text-align: center; }
       
-      #language { margin-top: 1em; color: #666; text-align: center; background: #fff url(/images/worldwide.png) no-repeat center; }
+      #language { margin-top: 1em; color: #666666; text-align: center; background: white url(/images/worldwide.png) no-repeat center; }
       #language select { width: 200px; opacity: 0; }
       
-      #copyright { margin-top: 40px; padding: 0.25em; text-align: center; font-size: 0.75em; color: #bbb; background-color: #fff; }
+      #copyright { margin-top: 40px; padding: 0.25em; text-align: center; font-size: 0.75em; color: #bbbbbb; background-color: white; }
       
       #link_buttons, #link_message { position: absolute; display: none; }
       
-      a.link_button { display: block; float: left; width: 60px; height: 20px; margin: 0 2px; padding: 5px 0; background: transparent url(images/link_button.png) no-repeat center center; color: #fff; line-height: 20px; text-align: center; font-size: 0.8em; text-decoration: none; }
+      a.link_button { display: block; float: left; width: 60px; height: 20px; margin: 0 2px; padding: 5px 0; background: transparent url(images/link_button.png) no-repeat center center; color: white; line-height: 20px; text-align: center; font-size: 0.8em; text-decoration: none; }
       a.link_button:hover { background-image: url(images/link_button_hover.png); }
       
-      #link_message { z-index: 99; width: 332px; height: 32px; background: url(images/link_message.png); color: #fff; line-height: 32px; text-align: center; font-size: 1em; }
+      #link_message { z-index: 99; width: 332px; height: 32px; background: url(images/link_message.png); color: white; line-height: 32px; text-align: center; font-size: 1em; }
       
-      #sponsor { display: none; margin: 0 auto; text-align: center; font-size: 0.9em; }
-      #sponsor a { display: block; margin: 0 auto; width: 225px; text-decoration: none; }
-      #sponsor a img { padding-bottom: 5px; width: 120px; height: 90px; border: 0; }
-      #sponsor p { margin-top: 0; text-align: center; color: #444; }
-      #sponsor em { font-weight: bold; font-style: normal; background-color: #ff9; }
-      * { font-family: georgia,serif; letter-spacing: 0.01em; }
+      #sponsor { display: none; margin: 0 auto; text-align: center; font-size: 0.9em; /* .bsa_it, .one */ /*   :position static */ /* .bsa_it_ad */ /*   :background-color #fff */ /*   :border none */ /*   :padding 0 */ /* .bsa_it_ad, .bsa_it_i */ /*   :float none */ /*   :margin 0 */ /* .bsa_it_t */ /*   :display none */ /* .bsa_it_d */ /*   :font-size 15px */ /*   :color #444 */ /*   :margin 5px 0 */ /* .bsa_it_p */ /*   :display none */ }
+      #sponsor img { border: none; }
+      #sponsor .bsap { width: 100%; text-align: center; }
+      #sponsor .bsap a { margin: 10px; display: inline-block; width: 125px; height: 125px; }
+      #sponsor .bsap a img { vertical-align: middle; }
+      #sponsor .bsap a.adhere { line-height: 125px; background-color: #cccccc; color: #888888; }
+      #sponsor .bsap a.adhere:hover { background-color: #aaaaaa; color: #666666; }
+      * { font-family: georgia, serif; letter-spacing: 0.01em; }
       
-      em { background-color: #ff6; font-weight: bold; font-style: normal; }
+      em { background-color: #ffff66; font-weight: bold; font-style: normal; }
       
-      body { background-color: #fff; color: #111; }
+      body { background-color: white; color: #111111; }
       
-      h1 { color: #fff; background-color: #237EC5; margin: 0px; padding: 0.5em; text-align: center; }
+      h1 { color: white; background-color: #237ec5; margin: 0px; padding: 0.5em; text-align: center; }
       
       h2 { font-size: 2em; text-align: center; font-weight: normal; margin-bottom: 0.3em; }
       
-      #subtext { color: #666; text-align: center; font-size: 1.3em; margin-bottom: 2em; }
+      #subtext { color: #666666; text-align: center; font-size: 1.3em; margin-bottom: 2em; }
       
       #ad_location { text-align: center; font-size: 1.2em; }
       #ad_location #locations { margin: auto; width: 530px; }
       #ad_location #locations:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
-      #ad_location #locations * a { color: #111; text-decoration: none; }
+      #ad_location #locations * a { color: #111111; text-decoration: none; }
       #ad_location #locations * a:hover { text-decoration: underline; }
       #ad_location #locations #location_1 { float: left; width: 200px; }
       #ad_location #locations #location_2 { float: right; width: 200px; }
@@ -84,13 +95,13 @@
       #nuggets .nugget h3 { margin: 0em 0em 0.5em 0em; }
       #nuggets .nugget p { margin: 0em 0em 1.5em 0em; }
       #nuggets .nugget.email_ad_button { text-align: center; background: url(/images/email_ads_button.png) no-repeat top left; }
-      #nuggets .nugget.email_ad_button h3 { color: #fff; font-size: 1em; padding: 1em 3em; line-height: 1.4em; font-weight: normal; }
+      #nuggets .nugget.email_ad_button h3 { color: white; font-size: 1em; padding: 1em 3em; line-height: 1.4em; font-weight: normal; }
       #nuggets .nugget.email_ad_button a { display: block; position: relative; top: -15px; left: 53px; width: 229px; height: 44px; }
       
       #program_details { width: 700px; margin: auto; }
       #program_details h2 { text-align: left; }
       
-      #copyright { margin-top: 40px; padding: 0.25em; text-align: center; font-size: 0.75em; color: #999; background-color: #fff; }
+      #copyright { margin-top: 40px; padding: 0.25em; text-align: center; font-size: 0.75em; color: #999999; background-color: white; }
       a { color: #000; }
     </style>
   </head>
@@ -125,7 +136,7 @@
       <a href="advertise.html" rel="localize[advertise]">Advertise for $199</a>
     </div>
     <div id="about" style="display: none">
-      <p rel="localize[pitch]">This is for all those people that find it more convenient to bother you with their question rather than google it for themselves.</p>
+      <p rel="localize[pitch]">This is for all those people who find it more convenient to bother you with their question rather than google it for themselves.</p>
       <p rel="localize[credit]">Created by @coderifous and @rmm5t.</p>
       <p rel="localize[genesis]">Inspired during a lunch conversation with @coderifous, @tmassing, @rmm5t, @EricStratton, and @methodvon.</p>
       <p rel="localize[translated_by]"></p>
