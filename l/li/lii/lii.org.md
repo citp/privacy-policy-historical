@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lii.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612185251id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lii.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220222625id_/http%3A//www.ipl.org/div/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: Agreement to Conditions of Use of ipl2 - About ipl2
+
+_**ipl2** is the result of a merger of the Internet Public Library (IPL) and the Librarians' Internet Index (LII)._
 
 _Benefits of ipl2:_ Using ipl2 collections benefits you by providing links to more than 45,000 evaluated information resources on hundreds of topics. ipl2 contains vetted information and strives to be a safe site. Electing to seek help from ipl2's "Ask an ipl2 Librarian" service benefits you from the research provided to you by a mentored student or volunteer. Client identities are never shared and you can participate anonymously. 
 
