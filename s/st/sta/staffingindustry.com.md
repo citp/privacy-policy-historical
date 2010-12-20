@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staffingindustry.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417103554id_/http%3A//www.staffingindustry.com/ME2/dirmod.asp%3Fsid%3D%26type%3Dgen%26mod%3DCore%2BPages%26gid%3D64B84D4EEE904A9ABE273301B7EF58A1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staffingindustry.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220221722id_/http%3A//www.staffingindustry.com/ME2/dirmod.asp%3Fsid%3D%26type%3Dgen%26mod%3DCore%2BPages%26gid%3D64B84D4EEE904A9ABE273301B7EF58A1) for the most accurate reproduction.*
 
 # Privacy Policy | Staffing Industry Analysts
 
