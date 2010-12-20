@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtpersonals.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411210354id_/http%3A//rtpersonals.com/go/page/privacy.html%3Fsite%3Dffadult%26dcb%3Drtpersonals.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtpersonals.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220083956id_/http%3A//rtpersonals.com/go/page/privacy.html%3Fdcb%3Drtpersonals.com%26who%3Dr%2Cw8/ccZZ1l1mNFt8XN93OOSTUU7wYC5A2EQOZbXhuCC5Ly/tvSXFLzUlyy4QIq2DdiLMj8dzpziUeUF1Z_kZftWD06DiZmFOBjArhiCThX/eBmeBk5iovMw4MyXAEJOsloAWy83UU45h7LExM6X/HkDv3gQJp_Z2GujdUuHNUCsw-) for the most accurate reproduction.*
 
 # Redtube Dating - Redtube Dating PRIVACY POLICY
 
