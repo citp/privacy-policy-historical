@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tornadovideos.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621053008id_/http%3A//www.tornadovideos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tornadovideos.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220045102id_/http%3A//www.tornadovideos.net/privacy) for the most accurate reproduction.*
 
 # TornadoVideos.Net | Privacy Policy
 
