@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the latonas.com privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621053744id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the latonas.com privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220145522id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <title>Latona's Brokerage and Auction House</title>
@@ -9,24 +9,12 @@
 <meta name="author" content="Manuel Galgana">
 <meta name="COPYRIGHT" content="Copyright (c) by Latona's Domain Auctions">
 <link rel="shortcut icon" href="resource/img/homepage/favicon.ico">
-<link rel="stylesheet" href="resource/css/stylelatonas.css?051310" type="text/css" media="screen">
+<link rel="stylesheet" href="resource/css/stylelatonas.css?070610" type="text/css" media="screen">
 <script type="text/javascript" src="resource/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" language="JavaScript" src="resource/js/window.js"></script>
 <script language="JavaScript">
 window.onload = function()
-	{
-		var lis = document.getElementsByTagName('li');
-		for(i = 0; i < lis.length; i++)
-		{
-			var li = lis[i];
-			if (li.className == 'headlink')
-			{
-				li.onmouseover = function() { this.getElementsByTagName('ul').item(0).style.display = 'block'; }
-				li.onmouseout = function() { this.getElementsByTagName('ul').item(0).style.display = 'none'; }
-			}
-		}
-	}
-
+	
 	$(document).ready(function(){
 		$('li.headlink').hover(
 			function() { $('ul', this).css('display', 'block'); },
@@ -75,23 +63,39 @@ window.onload = function()
 		<br class="clearfloat">
 		<div id="mainmenu">
 			  						<ul id="cssdropdown">
-	<li class="headlink menusizetab"><a href="mainportal.prt" class="auctionbutton">Auctions</a>
-	<ul>
-	<li><a href="auctions.prt?action=auctionList&amp;limit=now">Active Auctions</a></li>
-	<li><a href="auctions.prt?action=auctionList&amp;limit=soon">Upcoming Auctions</a></li>
-	<li><a href="auctions.prt?action=auctionList&amp;limit=old">Auction Results</a></li>
-	<li><a href="auctions.prt?action=domainSearch">Search Auctions</a></li>	
-</ul>
-
+	<li class="headlink"><a class="auctionbutton" href="mainportal.prt">Auctions</a>
+	<ul class="submenubox">
+	<li>
+		<ul class="productcategorynav">
+		<h3>Domains</h3>
+			<li><a href="auctions.prt?action=auctionList&amp;limit=now">Active Auctions</a></li>
+			<li><a href="auctions.prt?action=auctionList&amp;limit=soon">Upcoming Auctions</a></li>
+			<li><a href="auctions.prt?action=auctionList&amp;limit=old">Auction Results</a></li>
+			<li><a href="auctions.prt?action=domainSearch">Search Auctions</a></li>
+			<li><a href="mainportal.prt">Live Auction Info</a></li>
+		</ul>
 	</li>
-	<li class="headlink menusizetab2"><a href="mainportal.prt?action=buying">Buying</a>
+	<li>
+		<ul class="productcategorynav2">
+		<h3>Watches</h3>
+			<li><a href="watches.prt?saleMens">Men's Watches</a></li>
+			<li><a href="watches.prt?saleWomens">Women's Watches</a></li>
+			<li><a href="watches.prt?saleAll">View All Watches</a></li>
+			<li><a href="watches_submission_form.prt">Sell Your Watch</a></li>
+			<li><a href="watches_activeoffer.usr?activeOffers">My Offers</a></li>
+		</ul>
+	</li>
+</ul>
+	</li>
+	<li class="headlink"><a href="mainportal.prt?action=buying">Buying</a>
 	<ul>
 	<li><a href="mainportal.prt?action=buying">Buying Guide</a></li>
 	<li><a href="auctions.prt?action=auctionList&amp;limit=now">Active Auctions</a></li>
 	<li><a href="mainportal.prt?action=reg">Registration</a></li>
+	<li><a href="auctionLotExpo.usr?action=viewLotExpo&amp;type=featured">Featured Domains</a></li>
 </ul>
 	</li>
-	<li class="headlink menusizetab2"><a href="mainportal.prt?action=selling">Selling</a>
+	<li class="headlink"><a href="mainportal.prt?action=selling">Selling</a>
 	<ul>
 	<li><a href="mainportal.prt?action=selling">Selling Guide</a></li>
 	
@@ -102,8 +106,8 @@ window.onload = function()
 	<li><a href="mainportal.prt?action=reg">Registration</a></li>
 </ul>
 	</li>
-	<li class="headlink menusizetab2"><a href="mainportal.prt?action=financing">Financing</a></li>
-	<li class="headlink menusizetab2"><a href="mainportal.prt?action=aboutus">About Us</a>
+	<li class="headlink"><a href="mainportal.prt?action=financing">Financing</a></li>
+	<li class="headlink"><a href="mainportal.prt?action=aboutus">About Us</a>
 	<ul>
 	<li><a href="mainportal.prt?action=who">Who we are</a></li>
 	<li><a href="mainportal.prt?action=history">Our History</a></li>
@@ -118,7 +122,7 @@ window.onload = function()
 
 	<div id="search">
 			<form id="findDomainerForm" "="">
-			<label>Search</label><input id="domainBox2" type="text" onkeypress="if (checkEnter(event)) {location.href='auctions.prt?action=domainSearch&amp;lotName=' + document.getElementById('domainBox2').value ; return false;}">
+			<input id="domainBox2" type="text" onkeypress="if (checkEnter(event)) {location.href='auctions.prt?action=domainSearch&amp;lotName=' + document.getElementById('domainBox2').value ; return false;}">
 			<input type="submit" value="Search" onclick="location.href='auctions.prt?action=domainSearch&amp;lotName=' + document.getElementById('domainBox2').value ; return false;">
 			</form>
 	</div>	
