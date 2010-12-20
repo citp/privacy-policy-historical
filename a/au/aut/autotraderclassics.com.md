@@ -1,136 +1,55 @@
-> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401234230id_/http%3A//www.oldcartrader.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220011427id_/http%3A//www.autotraderclassics.com/help/privacy-statement.xhtml) for the most accurate reproduction.*
 
-# Old Car Trader - Classic and Antique Cars, Trucks, Tractors and More
+# AutoTraderClassics.com - Privacy Statement
 
-## OldCarTrader.com Privacy Policy Statement
+Effective Date: **March 7, 2009**
 
-oldcartrader.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the oldcartrader.com Classifieds. This policy may change from time to time so please check back periodically. 
+ **AutoTraderClassics.com** respects the privacy of visitors to our website. Please read this Privacy Statement carefully so that you understand what information we collect through our website and what we do with that information. This Privacy Statement applies only to information collected online through the AutoTraderClassics.com website and does not describe the ways in which we may collect or use information obtained offline or through any means other than our website. If you have any questions about this Privacy Statement, please [contact Customer Service](mailto:classicscustomerservice@autotrader.com).
 
-This policy will let you know: 
+##### PROTECTING THE PRIVACY OF CHILDREN
 
-  1. What personally identifiable information is collected from you
-  2. What cookies are and how they are used
-  3. How your information is used
-  4. Who is collecting your information
-  5. With whom your information may be shared
-  6. What choices are available to you regarding collection, use, and distribution of your information
-  7. How you can access, update or delete your information
-  8. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  9. How oldcartrader.com protects children's privacy
-  10. What else you should know about your online privacy
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Our website is not directed at children under 13 and we won't knowingly allow anyone under 13 to provide us any personally identifying information; if you're under 13, please don't provide any information about yourself on this website.
 
+##### WHAT INFORMATION WE COLLECT AND HOW WE USE IT
 
+The information we gather falls into two categories: (1) information voluntarily supplied by visitors to the site, such as information submitted when visitors list a car for sale, perform a search, enter a sweepstakes or other promotional contest, inquire about a vehicle listed for sale or about another product or service offered through our website, register to access certain services on our website, or use our discussion forums, photo- or video-sharing pages, email services or social networking features; and (2) tracking information gathered as visitors navigate through our website and review our email newsletters and other email messages. Third-party providers featured on or linked to by our website, such as vendors of products and services offered through our site, may be gathering information, as well, through processes we don't control.
 
-* * *
+ **Searches and Listings** To make use of certain features on our site, visitors need to provide limited information about themselves and their interests so that we can tailor the information we provide to their needs. For example, to help you find the car you want close to home, we need to know what kind of car you're looking for and your zip code. We ask you to provide this information when you perform a search. We use this information to help you find the car you're looking for. If you find a listing that interests you and elect to send the seller an email through our website, we'll share with the seller the contact information you supply through our online "Email this Seller" form. Some dealerships that list vehicles for sale on our site use third-party service providers to manage their "leads" (that is, the inquiries they receive from consumers who are interested in the vehicles they've listed for sale). If a dealership has designated a provider of lead management services, we may also share with that provider any information you elect to send to the dealership through our "Email this Seller" form. If you do not wish to share your email address or other contact information with sellers who advertise on our website or their lead management service providers, you should not use our "Email Seller" contact form. Many of the dealership listings that appear on our website include toll-free telephone numbers that can be used to contact the dealership that is selling the advertised vehicle. If you call a dealership using one of these toll-free numbers, we may provide the dealership with the date, time, and duration of your call, as well as the number from which your call originated. If you wish to contact a dealership that advertises on our website without disclosing this information, please contact the dealership by email or by dialing its local telephone number. When you list a car for sale, we ask for information on the car and on how you can be contacted by potential buyers. We also ask for your credit card number and the expiration date on your card. We use this information to create your ad and to process your payment.
 
-**What personally identifiable information is collected from you**
+ **Sweepstakes and Other Promotions** From time to time, we may offer sweepstakes or other promotions on our website. If you enter a sweepstakes or promotional contest, we'll ask you to provide information about yourself (such as your name, address, and email address). Among other things, we'll need this information to contact you if you win, and we may also use this information for marketing purposes. We may share this information with any co-sponsor of the contest or sweepstakes; we'll identify the co-sponsor in the contest rules. We may also share this information with shipping or fulfillment companies or other third-party service providers that help administer our promotions, such as by conducting drawings, and/or delivering prizes to winners. If you don't want us to collect the information requested in the contest or sweepstakes registration form or to provide it to co-sponsors, please do not enter the contest or sweepstakes.
 
-The oldcartrader.com Classifieds collects information in several ways from different parts of our web site. 
+ **Online Surveys** From time to time, we survey our users to measure their satisfaction with our site and other sites and to help us learn more about our audience and how they interact with our site. Third-party research firms often conduct these surveys on our behalf. We use the survey results to help us improve the services we offer to you. Except in the circumstances described below in the "Other Disclosures" section of this policy, we will not share, without your consent, any personally-identifying information you submit in response to an AutoTraderClassics.com survey with any company other than the research firm conducting the survey. We will, however, take the information you provide and aggregate it on an anonymous basis with data collected from other survey participants. We may use and disclose that pool of anonymous information as we see fit, without identifying you personally.
 
-Some personal information is gathered when you register. During registration, we ask for your name and email address. The system will also ask for your street address, city, state/province, zip/postal code, country, telephone number, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to oldcartrader.com - you have a username and are able to take full advantage of the many offerings of the oldcartrader.com Classifieds. 
+You may also find on our site invitations to participate surveys conducted by our advertisers, whose privacy practices we don't control. These invitations will usually link to an online survey form that is hosted either by the advertiser conducting the survey or by a third-party research firm working on the advertiser's behalf. When you access an advertiser's survey through our website, use and disclosure of any information you submit will be governed by the advertiser's privacy policy (or by the privacy policy of the advertiser's research firm), which may differ from ours. If you can't find the applicable privacy policy via a link either from the advertiser's survey invitation or from the online survey form, you should contact the advertiser directly for more information.
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you place ads or take advantage of the other features of the oldcartrader.com Classifieds. If you contact us, we may keep a record of that correspondence. Every page within the oldcartrader.com Classifieds includes a link to this Privacy Policy. 
+ **Email Addresses** If you provide us your email address, we may email you about our website or our services, or to inquire about your experience using our website or sites operated by others. From time to time, we'll also send you emails that may include automotive information, special promotions and other commercial offers that we think may be of interest to you. Though we hope you'll find these communications informative and useful, if you don't, you can always unsubscribe by following the simple instructions included in each email. And you can opt-out of receiving these types of commercial offers at all by indicating, either in the settings under your user account, or when you list a car for sale or inquire about a car listed on our website, that you'd prefer not to receive these communications.
 
-Back to Top
+ **Cookies** To help us tailor our website to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in text file, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see the same ad repeatedly during a single visit to our site. Cookies don't reveal personally identifying information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read unrelated data off your hard drive. Our advertisers and third parties that provide products and/or services through our site may also assign their own cookies, a process we don't control. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. Our "Find My Car" feature, for example, won't work properly if you configure your browser not to accept cookies.
 
-* * *
+ **Web Beacons** To help us (and in some cases our advertisers) keep track of how many users are accessing particular pages and listings within our website, and to track how users respond to ads we place on third-party websites, we may place a small file, called a web beacon, on some of our pages and on some of the listings we distribute. In combination with cookies, these web beacons allow us (or our advertisers) to track the number of users who view particular pages and listings to fine tune the advertising messages delivered to users of this and other websites, including sites in the AutoTrader.com Access advertising network ([www.autotraderaccess.com](http://www.autotraderaccess.com/)), which is operated by our affiliate, AutoTrader.com. We may use "clickstream" data collected using web beacons and cookies to help us tailor the content of promotional messages, including email messages, to the perceived interests of our users. Advertising networks with which we are affiliated and third-party advertising services that we use may also use web beacons on our site to gather similar anonymous "clickstream" information, which is used to fine tune advertising messages delivered to our visitors and visitors to other websites. (See "Data Collected in Connection with Ad Serving and Targeting," below, for more information.).
 
-**What cookies are and how they are used**
+ **Browser Level Information** Our web server automatically collects limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to make our site as useful as we can for as many users as possible.
 
-As part of offering and providing customizable and personalized services, the oldcartrader.com Classifieds may use [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of the oldcartrader.com Classifieds require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.) 
+ **Data Collected in Connection with Ad Serving and Targeting** AutoTraderClassics.com works with leading third-party advertising companies, including, among others, DoubleClick, Advertising.com and Tacoda. Their services include targeting and serving some of the advertisements, promotions, or other marketing messages you see on the pages of our site and other websites. Our affiliate, AutoTrader.com also operates an advertising network of automotive specialty sites known as the AutoTrader.com Access network ([www.autotraderaccess.com](http://www.autotraderaccess.com/)). Anonymous tracking information called "clickstream" data is collected from our website and other websites so that DoubleClick, Advertising.com, Tacoda, AutoTrader.com, and others can use such information, sometimes in conjunction with similar anonymous information gathered through other websites, to deliver advertisements tailored to match the perceived interests of consumers. Clickstream information collected from users of AutoTraderClasics.com is used to serve targeted advertisements on this site and other websites, including sites in the AutoTrader.com Access advertising network. This clickstream data does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer. We also use DoubleClick software to serve our own ads and collect similar information in the process. DoubleClick, Advertising.com and Tacoda may also use cookies and/or web beacons to collect anonymous information directly from our users. If you would like to know more about DoubleClick's information gathering practices and opt-out procedures, please see the privacy statement on the [DoubleClick website](http://www.doubleclick.com/us/about_doubleclick/privacy/). To opt out of DoubleClick's ad targeting program, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/). If you would like to learn more about Advertising.com's information collection practices and opt-out procedures, please see the privacy statement on the [Advertising.com website](http://www.advertising.com/privacy_policy.php). For more information on Tacoda's information collection practices and opt-out procedures, please read the privacy policy posted on the [Tacoda website](http://www.tacoda.com/).
 
-Generally, we use cookies for the following purposes: 
+ **Aggregated Information** We may collect, or have a third party collect on our behalf, aggregated statistical information about how visitors use and navigate around our site, such as the number of users who visit various pages within the site, what they click on, whether they scroll up or down on particular pages, fill out forms, etc. This aggregated information does not identify you personally. We use this information to improve our site. We may also disclose this aggregated information to third parties. When we present information to our advertisers - to help them understand our audience and confirm the value of advertising on our website - it is usually in the form of aggregated statistics on traffic to various pages within our site.
 
-(1) To identify and label all "new" ads since your last visit to the site. 
+ **Credit Card Information** Any credit card information you may provide to us is secured during transmission over the Internet using industry - standard secure socket layer (SSL) encryption and is stored on our secure servers. (See "Security," below.) We use your credit card information only to bill you for the products and services you order from us. We don't share your credit card information with anyone, except as may be necessary to process your transactions or comply with law.
 
-(2) Optionally to permanently save your password on your computer so you don't have to re-enter it each time you visit our site. 
+ **Information You Post to Discussion Forums and Community Posting Areas** Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-(3) To enable you to "checklist" ads that you want to mark for future retrieval and viewing. 
+##### LINKS AND FEATURES OFFERED IN CONJUNCTION WITH OTHER PROVIDERS
 
-Advertising networks that serve ads onto the oldcartrader.com Classifieds may also use their own cookies. 
+To make our website more valuable to our visitors, we feature some products and services that come from other providers. Our finance, insurance, warranty, and inspection services, for example, are made available through cooperative arrangements with companies that specialize in providing such services. We share with these third parties such information as is necessary for them to provide the products or services. We have a strategic partnership with Kable Fulfillment Services, which is a subscription fulfillment company that process all online subscription orders for AutoTrader Classics print publications. When you visit our site to purchase a subscription to an AutoTrader Classics print publication, you will be redirected to a web page hosted by Kable Fulfillment Services to complete your subscription order. Any information you submit on forms that appear on web pages hosted by Kable Fulfillment Services will be collected and used pursuant to Kable Fulfillment Services' privacy policy. (You can tell which site hosts the page you're viewing by looking at the location bar at the top of your web browser. If it references "Kable," you're on a page hosted by Kable Fulfillment Services.) Of course, our site includes links to other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another website or purchase products or services or conduct other transactions through our website, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. When you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services. The provider's privacy policy may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from their site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.
 
-The oldcartrader.com Classifieds may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers. 
+##### OTHER DISCLOSURES
 
-Back to Top
+We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, our customers, the public or AutoTraderClassics.com. As our business grows, we may buy or sell various assets. In the unlikely event that AutoTraderClassics.com or substantially all of its assets is acquired by another company, information on our visitors would be among the transferred assets. If you choose to unsubscribe in response to an email message that we send on behalf of an advertiser, we will share your email address and opt-out instructions with the advertiser to ensure that your email privacy preferences are honored. Similarly, if we ask a third-party company to send its customers email offers on our behalf, we will share with that company (or its agent) a list of email addresses collected from website visitors who have opted out of our email program to ensure that their privacy preferences are honored. We may allow others to search some of our databases (our listings database, for example) and to analyze the data they find there or aggregate it with other data, either for their business purposes, or ours. Though some of the information in our databases may be personally identifying (such as the contact information included in a vehicle listing), we'll only allow searches of the portions of our database that contain information that is otherwise publicly available on our website. When we use other companies to help us operate our site or improve the services we offer to you, we may provide them with information about our visitors that is necessary for them to perform their services. We require that these companies commit to use the information only to perform the services that we request.
 
-* * *
+##### SECURITY
 
-**How your information is used**
+Information we gather on our website is stored within AutoTraderClassics.com-controlled databases (or databases hosted on our behalf) on servers maintained in protected environments. Any credit card information you provide us is secured for transmission over the Internet using industry-standard secure sockets layer (SSL) encryption. [Click here](http://www.webopedia.com/TERM/S/SSL.html) to learn more about the SSL protocol on webopedia.com. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a vehicle listing is available to anyone with Internet access.
 
-The primary goal of the oldcartrader.com Classifieds in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the oldcartrader.com Classifieds. 
+##### CHANGES TO THIS PRIVACY STATEMENT
 
-Back to Top
-
-* * *
-
-**Who is collecting your information**
-
-When you are asked for personal information on the oldcartrader.com Classifieds, you are sharing that information with the oldcartrader.com Classifieds alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the oldcartrader.com Classifieds. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise. 
-
-Back to Top
-
-* * *
-
-**With whom your information may be shared**
-
-As a general rule, oldcartrader.com will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. 
-
-oldcartrader.com may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the oldcartrader.com or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the oldcartrader.com, other users of the oldcartrader.com, or anyone else that could be harmed by such activities. oldcartrader.com may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
-
-Back to Top
-
-* * *
-
-**What choices are available to you regarding collection, use, and distribution of your information**
-
-If you choose not to register or provide personal information, you can still use most of the oldcartrader.com Classifieds, but you will not be able to access areas or use features that require registration. 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the oldcartrader.com Classifieds that require registration in order to participate. These services include the identification of new ads that have been posted since your last visit, auto-fillin of the logon form, and the Checklist feature. You can still use most of the features of the oldcartrader.com Classifieds even if you do not accept cookies. 
-
-The oldcartrader.com does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
-
-Back to Top
-
-* * *
-
-**How you can access, update or delete your information**
-
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the oldcartrader.com Classifieds, your information will stay with you until or unless you click on the "Logoff" link, which is accessible from within the "My Profile" screen. 
-
-If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our "Forgot Password" feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means. 
-
-Your oldcartrader.com Classifieds account can be deleted, but doing so will result in not being able to access any of the features of the program that require user registration. 
-
-Back to Top
-
-* * *
-
-**The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
-
-Other than the administrator of the oldcartrader.com Classifieds or other authorized personnel of the oldcartrader.com, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access. 
-
-We recommend that you do not divulge your password to anyone. oldcartrader.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session in the oldcartrader.com Classifieds. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, oldcartrader.com cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
-
-Back to Top
-
-* * *
-
-**How oldcartrader.com protects children's privacy**
-
-oldcartrader.com is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. oldcartrader.com does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, oldcartrader.com will not send any direct email offers to users who indicate they are under the age of 13. 
-
-Back to Top
-
-* * *
-
-**What else you should know about your online privacy**
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example in ads that you post or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-Back to Top
-
-* * *
+The web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes to this Privacy Statement on this website and update the reference to the effective date to reflect the date of the amendment. By visiting AutoTraderClassics.com, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [Visitor Agreement](https://web.archive.org/help/visitor-agreement.xhtml).
