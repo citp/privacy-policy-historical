@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423071054id_/http%3A//www.klikadvertising.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220094532id_/http%3A//klikadvertising.com/privacy_policy.php) for the most accurate reproduction.*
 
-# KlikAdvertising - Таргетированный трафик высочайшего качества!
+# KlikAdvertising - Targeted traffic of the highest quality!
 
 KlikAdvertising.com is committed to protecting your privacy. This Privacy Policy explains the type of information KlikAdvertising.com collects through its website and what KlikAdvertising.com does with it. Please read the following privacy policy carefully before using the KlikAdvertising.com website. If you use the KlikAdvertising.com website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. KlikAdvertising.com does not attempt to determine the identity of any KlikAdvertising.com user by analyzing Web usage paths.
 
