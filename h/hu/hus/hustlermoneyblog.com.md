@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620033603id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220062520id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Hustler Money Blog
+# Privacy
 
 **HustlerMoneyBlog** is committed to protecting your privacy when you visit  
 our Web site. You can access **HustlerMoneyBlog** and browse our site without  
@@ -49,6 +49,8 @@ that might collect personally identifying information.
 This privacy statement applies solely to information collected by **HustlerMoneyBlog**. If you have any questions or concerns about our privacy  
 policy, please contact:  **HustlerMoneyBlog** **[at] gmail.com**
 
-Tags: 
+**Related posts:**
 
-### Comments
+  1. [Finweb.com gives you good financial information](http://www.hustlermoneyblog.com/finwebcom-gives-you-good-financial-information/ "Permanent Link: Finweb.com gives you good financial information")
+
+
