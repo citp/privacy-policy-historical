@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynameworld.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628200620id_/http%3A//www.babynameworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynameworld.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220022910id_/http%3A//www.babynameworld.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 ### Privacy Policy
 
-This policy tells you, among other things, what information we gather from you, how we may use or disclose that information, and our efforts to protect it. Please read this policy carefully, and feel free to [contact us](https://web.archive.org/web/20100628200620id_/http%3A//www.babynameworld.com/contact.asp) if you have any questions regarding its contents. You can opt out of third party and advertising networks by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
+This policy tells you, among other things, what information we gather from you, how we may use or disclose that information, and our efforts to protect it. Please read this policy carefully, and feel free to [contact us](https://web.archive.org/web/20101220022910id_/http%3A//www.babynameworld.com/contact.asp) if you have any questions regarding its contents. You can opt out of third party and advertising networks by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Types of Information Collected and Security**
 
