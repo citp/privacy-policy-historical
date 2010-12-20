@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thephoenix.com privacy policy that was archived on 2010-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201153931id_/http%3A//thephoenix.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thephoenix.com privacy policy that was archived on 2010-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220132148id_/http%3A//thephoenix.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_ctl00_Head1">
         <link rel="shortcut icon" href="http://cache.thephoenix.com/favicon.ico">
@@ -12,10 +12,10 @@
 <link rel="apple-touch-icon" href="http://cache.thephoenix.com/i/nav/logo.gif">
 <meta name="viewport" content="width=1000">
 <meta http-equiv="imagetoolbar" content="no">
-<meta name="copyright" content="© 2008 Phoenix Media/Communications Group. All Rights Reserved.">
+<meta name="copyright" content="© 2010 Phoenix Media/Communications Group. All Rights Reserved.">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <link href="/rss/Boston/" rel="alternate" type="application/rss+xml" title="thePhoenix.com - Latest in Boston">
-
+<meta name="fb:app_id" content="72223150591">
 <!--METAContent End-->
 
 <!--CSSContent Start-->
@@ -23,7 +23,7 @@
 OAS_sitepage = 'www.thephoenix.com';
 var OAS_listpos = '';
 </script>
-<link href="/css.ashx?v=2.6" rel="stylesheet" type="text/css">
+<link href="/css.ashx?v=2.7" rel="stylesheet" type="text/css">
 <!--CSSContent End-->
 <!--ADContent Start-->
         
@@ -35,22 +35,12 @@ var OAS_listpos = '';
 
 <!--ADContent End-->
 <!--JSContent Start-->
-<script src="/js.ashx?v=2.6" type="text/javascript"></script>
+<script src="/js.ashx?v=2.9" type="text/javascript"></script>
         
 <script type="text/javascript">
-var usr
-$(document).ready(function(){
-    $.get("/community/phx/", function(data){
-        usr = data;
-        if (usr!=""){
-            $("span#loggedin").append("<a href=\"/community/members/" + usr + "/\">" + usr + "</a> &nbsp;|&nbsp; <a href=\"/community/user/EditProfile.aspx?ReturnUrl=%2f\">Edit</a> &nbsp;|&nbsp; <a href=\"/community/logout.aspx\">Log out</a> &nbsp;|&nbsp; ");
-            $("span.isuser").hide();
-        }else{
-            $("span#loggedin").append("<a href=\"/Community/Login.aspx\">Sign In</a> &nbsp;|&nbsp; <a href=\"/Community/user/CreateUser.aspx\">Join</a> &nbsp;|&nbsp; ");
-            $("span.notuser").hide();
-        }
-    });
-});
+//<![CDATA[
+var usr;
+//]]>
 </script>
 
 <!--JSContent End-->
@@ -219,10 +209,6 @@ $(document).ready(function(){
 <div style="float:left;margin-top:9px;height:40px;max-width:210px;overflow:hidden;">
 <span style="font-size:14px;color:#333333;"><b>HOT TOPICS:</b></span><br>
 	
-        <a href="/Boston/Topic/Barack-Obama.aspx">Barack Obama</a>
-		, 
-        <a href="/Boston/Topic/Charlie-Baker.aspx">Charlie Baker</a>
-		
 	</div>
 
 
@@ -290,7 +276,7 @@ $(document).ready(function(){
     <div id="ctl00_ctl00_BODYContent_BREAKINGNEWSContent_SupplementAd_pnl">
 	
 
-<a href="/thebest/" target="_blank"><img title="Nominate-best-2010" border="0" alt="Nominate-best-2010" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplement_Ad/Boston/TheBest10_top-ad.jpg"></a>
+<a href="/supplements/2010/giftguide/" target="_blank"><img title="GG-1000x50" border="0" alt="GG-1000x50" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplement_Ad/Boston/GG-1000x50.jpg"></a>
 
 </div>
 <!---->
@@ -332,41 +318,380 @@ $(document).ready(function(){
     
         <div id="ctl00_ctl00_BODYContent_MAINBODYContent_SIDEContent_SideBarTopAll1_pnl">
 	
+<div align="center" style="text-align:center; padding-bottom:10px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td style="padding:10px 0px;" align="center" id="tdActivity" class="phxSideTabOff"><a style="cursor: pointer;" onclick="MVChooseTab('Activity');">&nbsp;Friends' Activity&nbsp;</a></td>
+					<td style="padding:10px 0px;" align="center" id="tdRecommendations" class="phxSideTabOff"><a style="cursor: pointer;" onclick="MVChooseTab('Recommendations');">&nbsp;Popular&nbsp;</a></td>
+					<td style="padding:10px 0px;" align="center" id="tdMostViewed" class="phxSideTabOff"><a style="cursor: pointer;" onclick="MVChooseTab('MostViewed');">&nbsp;Most Viewed&nbsp;</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td style="border:0; padding:8px; background-color:#fff;">
+			<div id="MVActivity" style="overflow:hidden;overflow-y:scroll;height:110px;width:290px;padding:0px;">
+				<div style="width:290px;height:480px;overflow:hidden;" class="embedholder">
+					<!--<iframe src="http://www.facebook.com/plugins/activity.php?site=thephoenix.com&width=275&height=500&header=false&colorscheme=light&font&border_color=%23ffffff" rel="nofollow" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:480px;  border:0;" allowTransparency="true" rel="nofollow">Loading...</iframe>-->
+				</div>
+				<div style="margin:0px;color:#444444;padding-top:10px;"><img style="position:relative;top:1px;" src="http://cache.thephoenix.com/i/Nav/more_arrow.gif" alt="">&nbsp; <a href="/social/">See more</a></div>
+			</div>
+			<div id="MVRecommendations" class="invisible" style="display:none;overflow:hidden;overflow-y:scroll;height:110px;width:290px;padding:0px;">
+				<div style="width:290px;height:480px;overflow:hidden;" class="embedholder">
+					<!--<iframe src="http://www.facebook.com/plugins/recommendations.php?site=thephoenix.com&width=275&height=500&header=false&colorscheme=light&font&border_color=%23ffffff" rel="nofollow" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:480px;  border:0;" allowTransparency="true" rel="nofollow">Loading...</iframe>-->
+				</div>
+				<div style="margin:0px;color:#444444;padding-top:10px;"><img style="position:relative;top:1px;" src="http://cache.thephoenix.com/i/Nav/more_arrow.gif" alt="">&nbsp; <a href="/social/">See more</a></div>
+			</div>
+			<div id="MVMostViewed" class="invisible" style="display:none;overflow:hidden; overflow-y:scroll; height:110px; width:290px; padding:0px;">
+				<div class="articleSideBarContentDiv" style="padding:5px;">
+					<ul class="ltBlueListSpaced">
+					
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/movies/112144-black-swan/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Movies/Reviews/blackswan-1(2).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Review: Black Swan
+							</a><br>
+							<span style="color:#666666;">  Fowl play: Aronofsky, Portman take flight  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/music/112769-100-essential-hip-hop-tracks-for-2010/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Music/Features/PN24735(3).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							100 Essential Hip-Hop Tracks for 2010
+							</a><br>
+							<span style="color:#666666;">   As good a snapshot of no-bullshit hip-hop in 2010 as you'll get anywhere. &nbsp;  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/arts/113061-photos-the-slutcracker-2010/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Arts/Theatre/DSC_3743_list.jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Photos: The Slutcracker 2010
+							</a><br>
+							<span style="color:#666666;">  A burlesque take on  The Nutcracker   </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/movies/112311-fighter/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Movies/Reviews/fighter-mark-wahlberg-chris(2).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Review: The Fighter
+							</a><br>
+							<span style="color:#666666;">  Family feud: the&nbsp;toughest bouts are outside the ring  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/life/112770-photos-santa-speedo-run-2010/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Life/Lifestyle_Features/IMG_5294_list.jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Photos: Santa Speedo Run 2010
+							</a><br>
+							<span style="color:#666666;">  Santa Speedo Run 2010 | Boylston Street | December 13, 2010 
+  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/movies/112819-tron-legacy/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Movies/Reviews/TRON_Jeff-Bridges-and-Garre(2).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Review: Tron: Legacy
+							</a><br>
+							<span style="color:#666666;">  True grid: F/X up, IQ down  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/news/112910-her-campus-knows-what-girls-want-and-isnt-too-shy/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Life/Lifestyle_Features/HerCampus_2945(3).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Her Campus knows what girls want and isn't too shy to sell it to them
+							</a><br>
+							<span style="color:#666666;">  Brand aid  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/news/112901-last-weed-defendant/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/News/News_Stories/COV_Handcuffs(2).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							The Last Weed Defendant
+							</a><br>
+							<span style="color:#666666;">  Why is John Rockett still in court for holding half an ounce?  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/arts/112791-dance-critics-take-on-black-swan/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Arts/Dance/URBAN_TOP_original(3).jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							A dance critic's take on Black Swan
+							</a><br>
+							<span style="color:#666666;">  Bad-girl chat  </span>
+							
+							</li>
+						
+							<li class="blackList" style="height:36px; overflow:hidden; padding: 6px 0 10px 2px;">
+							<a class="HeaderLink" style="font:bold 12px Arial;" href="/Boston/music/113075-photos-weezer-at-the-orpheum-theatre/">
+							<img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Music/Live_Review/Weezer-(2)_list.jpg" style="width:35px;height:35px;float:left;padding-right:5px;border:0;">
+							Photos: Weezer at the Orpheum Theatre
+							</a><br>
+							<span style="color:#666666;">  Weezer | Orpheum Theatre | December 14, 2010  </span>
+							
+							</li>
+						
+					</ul>
+				</div>
+				<div style="margin:0px;color:#444444;padding-top:10px;"><img style="position:relative;top:1px;" src="http://cache.thephoenix.com/i/Nav/more_arrow.gif" alt="">&nbsp; <a href="/social/">See more</a></div>
+			</div>
+		</td>
+	</tr>
+</tbody></table>
+
+<script>
+    var mostviewedtabs = new Array("Activity", "Recommendations", "MostViewed");
+    function MVGetElem(id) {
+        if (document.getElementById) {
+            return document.getElementById(id);
+        } else if (document.all) {
+            return document.all[id];
+        }
+    }
+    function MVShow(id, td) {
+        $("#" + id).show();
+        elem = MVGetElem(td);
+        elem.className = "phxSideTabOn";
+        elem.style.backgroundColor = "#FFFFFF";
+    }
+    function MVHide(id, td) {
+        $("#" + id).hide();
+        elem = MVGetElem(td);
+        elem.className = "phxSideTabOff";
+        elem.style.backgroundColor = "#FFFFFF";
+    }
+    function MVChooseTab(id) {
+        for (i = 0; i < mostviewedtabs.length; i++) {
+            if (mostviewedtabs[i] == id) {
+                MVShow("MV" + mostviewedtabs[i], "td" + mostviewedtabs[i]);
+            } else {
+                MVHide("MV" + mostviewedtabs[i], "td" + mostviewedtabs[i]);
+            }
+        }
+    }
+    MVChooseTab('Activity');
+</script>
+</div>
+<style>
+#deals {
+width:293px;
+padding:3px;
+margin: 0;
+border: 0;
+}
+#deals-list {
+border: 0;
+padding: 0;
+margin: 0;
+}
+#deals-list ul {
+list-style:none;
+margin:5px 0;
+padding:5px 0 ;
+border-top:solid 3px #1a1a1a;
+border-bottom:solid 3px #1a1a1a;
+}
+
+.deal1 {
+background-color:#eeeeee;
+border-bottom:solid 1px #CCCCCC;
+border-top:solid 1px #CCCCCC;
+padding:7px 5px;
+}
+
+.deal2 {
+background-color:#FFFFFF;
+padding:7px 5px;
+}
+
+.deals-client {
+padding-left:5px;
+width:150px;
+}
+
+.deals-counter {
+color:#FF0000;
+margin-right:15px; 
+}
+
+.deals-price {
+font-weight:bold;
+}
+
+.deals-seemore {
+text-align:right;
+font-size:12px;
+}
+</style>
+<script type="text/javascript">
+var deals;
+$(document).ready(function(){
+    $.get("/tools/deals/", function(data){
+        var deals = data;
+        $("#deals-list").html(deals);
+    });
+});
+</script>
+<div class="sbItem">
+<div id="deals">
+<a href="/deals/"><img src="http://cache.phx.com/i/deals/deals-sidebarheader.jpg" border="0"></a>
+<div id="deals-list"></div>
+<div class="deals-seemore"><a href="/deals/">See more deals</a></div>
+</div>
+</div>
 <!--<div class="sbItem">
     <div class="sbHeader">THE BEST 2009</div>
 	<a href="/thebest/Boston/Vote/"><img src="http://cache.thephoenix.com/i/best/2009/sidebar/default.gif" onerror="this.src='http://cache.thephoenix.com/i/best/2009/sidebar/default.gif'" border="0"/></a>
 </div>-->
 
-<!--PicksBoston start-->
 
-<div class="sbHeader">Today's Event Picks</div>
-<div class="sbItem" style="height:80px; padding:3px; background:#777; ">
-    
-        <div class="mnu" style="height: 65px; width: 246px; position:absolute; margin-left:57px; z-index:10; background: url(http://cache.thephoenix.com/i/sidebar/talkballoon.gif);
-            float: right;">
-            <div style="height: 45px; width: 200px; margin: 5px 7px 5px 35px; overflow: hidden; vertical-align:middle">
-                <strong>[WORDS]</strong>
-                <a href="/Boston/Picks/">
-                    Thomas Ricks's "The Gamble: General David Petraeus and the American Military Adventure" </a></div>
-        </div>
-        <div class="mnu" style="float:left; position:absolute; margin:10px 5px 9px 2px; width:125px; height:60px; overflow:hidden; border:4px solid black;">
-            <img src="http://i.phx.com/Tools/Image/Resize.ashx?url=http://thephoenix.com/BLOGS/blogs/8days/Thomas-Ricks.jpg&amp;width=125&amp;height=125&amp;fit=crop" style="width:125px;">
-        </div>
-    
-        <div id="ctl00_ctl00_BODYContent_MAINBODYContent_SIDEContent_SideBarTopAll1__19af134_ctl00_MoreEvents_Today_ctl02_MoreEventsLink" style="position:absolute; margin: 65px 0 0 145px; width:150px; text-align:right;">
-            
-        </div>
+<style type="text/css">
+#EventsSB {
+        width:300px;
+        height:auto;
+        padding:6px;
+        margin:0 0 6px 0;
+        text-align:center;
+        font-family:Arial;
+        font-size:12px;
+        line-height:18px;
+        background-color:#fff;
+        }
+
+#EventsSBHeader {
+	    background-image:url('http://cache.thephoenix.com/i/sidebar/events/eventsSBHeader.jpg');
+	    width:296px;
+	    margin:1px;
+	    height:52px;
+	    text-align:right;
+	    }
+
+#EventsSBHeader a {
+	    position:relative;
+	    top:27px;
+	    right:5px;
+	    color:#bbb;
+	    text-decoration:none;
+	    font-size:12px;
+	    }
+
+#EventsSBHeader a:hover {
+	    color:#fff;
+	    }
+
+.EventsSBitem {
+        text-align:left;
+        margin:5px 7px;
+        padding:0px;
+        }
+        
+.EventsSBitemAlt {
+	    text-align:left;
+        padding:4px 5px;
+        background-color:#eee;
+        margin:0px 2px;
+        border-top:1px solid #ddd;       
+        }   
+        
+.EventsSBdte {
+        font-size:14px;
+        color:#232323;
+        font-weight:bold;
+        }    
+
+.EventsSBgrey {
+	    color:#888;
+	    } 
+      
+a.EventsSBvenue {
+        text-decoration:none;
+        color:#232323;
+        font-size:12px;
+        }
+
+a.EventsSBartist {
+        font-size:14px;
+        font-weight:normal;
+        text-decoration:none;
+        color:#1d90d8;
+        }
+        
+a.SbBottomLink {
+	    color:#232323;
+	    text-decoration:none;
+	    }
+     
+a:hover.SbBottomLink {
+	    background-color:#232323;
+	    color:#fff;
+	    text-decoration:underline;
+	    }
+        
+a:hover.EventsSBartist {
+	    background-color:#1d90d8;
+	    color:#fff;
+        text-decoration:underline;
+        }
+
+a:hover.EventsSBvenue {
+        text-decoration:underline;
+        }
+ 
+ul#EventsSBfooter {
+        list-style-type:none;
+        margin:0 0 0 2px;
+        padding:0px;
+	    }
+
+ul#EventsSBfooter li {
+	    float:left;
+	    margin:3px 2px 0 0;
+	    }
+ 
+</style>
+
+
+<div id="EventsSB">
+<div id="EventsSBHeader">
+<a href="/Boston/Picks/" title="More">view all</a>
 </div>
-    
+
+<div class="EventsSBitem">
+<span class="EventsSBgrey">[ <span class="EventsSBdte">12/20</span> ]</span>
+&nbsp;&nbsp;<a class="EventsSBartist" href="/Boston/Events/89220-Slutcracker-A-Burlesque/" title="The Slutcracker: A Burlesque">The Slutcracker: A Burlesque</a>
+&nbsp;@&nbsp;Somerville Theatre
+</div>
+
+<div class="EventsSBitemAlt">
+<span class="EventsSBgrey">[ <span class="EventsSBdte">12/20</span> ]</span>
+&nbsp;&nbsp;<a class="EventsSBartist" href="/Boston/Events/81975-Disfarmer-Photos/" title="" disfarmer="" photos""="">"Disfarmer Photos"</a>
+&nbsp;@&nbsp;Massachusetts Museum of Contemporary Art
+</div>
+
+<div class="EventsSBitem">
+<span class="EventsSBgrey">[ <span class="EventsSBdte">12/20</span> ]</span>
+&nbsp;&nbsp;<a class="EventsSBartist" href="/Boston/Events/84507-Frances-Stark-This-could-become-a-gimick-[sic]-or-an-honest-articulation-of-the-workings-of-the-mind/" title="Frances Stark: " this="" could="" become="" a="" gimick="" [<i="">sic] or an honest articulation of the workings of the mind""&gt;Frances Stark: "This could become a gimick [<i>sic</i>] or an honest articulation of the workings of the mind"</a>
+&nbsp;@&nbsp;MIT List Visual Arts Center
+</div>
+
+</div>
 
 
-<!--PicksBoston end-->
 </div>
         
             <div id="ctl00_ctl00_BODYContent_MAINBODYContent_SIDEContent_SIDETOPContent_SideBarTop1_pnl">
 
 </div>
-<!--2/1/2010 10:24:32 AM-->
+<!--12/20/2010 8:18:42 AM-->
         
         
 <div class="bigAd" style="width:300px;">
@@ -387,7 +712,7 @@ jsmiddlead();
             <div id="ctl00_ctl00_BODYContent_MAINBODYContent_SIDEContent_SIDEBOTTOMContent_SideBarBottom1_pnl">
 	
     <div class="sbItem">
-        <div style="float: left; padding-right: 10px;"><a href="/Boston/Archive/"><img src="/community/photos/cover_art/images/641101/78x100.aspx" style="border: 1px solid #000"></a></div>
+        <div style="float: left; padding-right: 10px;"><a href="/Boston/Archive/"><img src="/community/photos/cover_art/images/711280/78x100.aspx" style="border: 1px solid #000"></a></div>
 	<div style="line-height:18px;">
 	<div class="sbHeader">THE CURRENT ISSUE</div>
 	<p style="padding:3px 0px;font-size:12px;font-weight:bold;">
@@ -412,69 +737,38 @@ jsmiddlead();
     <div class="sbBody">
 	<div style="color:#666666;font-size:11px;padding:5px 0px;line-height:18px;">
 
-        <a style="font-size:14px;font-weight:bold;" href="/blogs/643668.aspx">Don Draper for Mass. Senate?</a><br>
-				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/643668.aspx">Phlog</a>&nbsp;&nbsp;|&nbsp;
-        February 01, 2010 at 9:45 AM
+        <a style="font-size:14px;font-weight:bold;" href="/blogs/710547.aspx">Film pick: The Hebrew Hammer</a><br>
+				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/710547.aspx">Outside The Frame</a>&nbsp;&nbsp;|&nbsp;
+        December 19, 2010 at 12:30 PM
 		
 		<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 
-        <a style="font-size:14px;font-weight:bold;" href="/blogs/643405.aspx">Phoenix wins 2010 Grammy for Best Alternative Album, credits free downloads with success</a><br>
-				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/643405.aspx">On The Download</a>&nbsp;&nbsp;|&nbsp;
-        January 31, 2010 at 7:01 PM
+        <a style="font-size:14px;font-weight:bold;" href="/blogs/711556.aspx">[in memoriam] Don Van Vliet a/k/a Captain Beefheart, 1941-2010</a><br>
+				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/711556.aspx">On The Download</a>&nbsp;&nbsp;|&nbsp;
+        December 18, 2010 at 3:04 PM
 		
 		<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 
-        <a style="font-size:14px;font-weight:bold;" href="/blogs/643386.aspx">Weekend in review: Obama rips Coakley, Scott Brown admits larceny, and Talk Soup finds the best-hung weatherman in Boston</a><br>
-				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/643386.aspx">Phlog</a>&nbsp;&nbsp;|&nbsp;
-        January 31, 2010 at 5:16 PM
+        <a style="font-size:14px;font-weight:bold;" href="/blogs/710544.aspx">Film pick: Time of the Wolf</a><br>
+				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/710544.aspx">Outside The Frame</a>&nbsp;&nbsp;|&nbsp;
+        December 17, 2010 at 6:30 PM
 		
 		<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 
-        <a style="font-size:14px;font-weight:bold;" href="/blogs/642275.aspx">Ctrl+Alt+Del's Winter-een-mas spontaneously aborts</a><br>
-				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/642275.aspx">Laser Orgy</a>&nbsp;&nbsp;|&nbsp;
-        January 29, 2010 at 11:49 AM
+        <a style="font-size:14px;font-weight:bold;" href="/blogs/711382.aspx">[mp3 + video + photo] 'Solo Circuit' profile add-ons </a><br>
+				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/711382.aspx">On The Download</a>&nbsp;&nbsp;|&nbsp;
+        December 17, 2010 at 2:59 PM
 		
 		<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 
-        <a style="font-size:14px;font-weight:bold;" href="/blogs/642054.aspx">A Plea To Ignore O'Keefe</a><br>
-				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/642054.aspx">Talking Politics</a>&nbsp;&nbsp;|&nbsp;
-        January 28, 2010 at 9:45 PM
+        <a style="font-size:14px;font-weight:bold;" href="/blogs/711346.aspx">DregNog Video Advent Calendar, Day #10: 'Tis the Season to Lose Your Sanity, City of Lost Children-style</a><br>
+				<a style="font-size:11px;text-transform:uppercase;" href="/blogs/711346.aspx">Laser Orgy</a>&nbsp;&nbsp;|&nbsp;
+        December 17, 2010 at 11:41 AM
 		
 		</div>
 	<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>			
     <img style="position:relative;top:1px;" src="http://cache.thephoenix.com/i/Nav/more_arrow.gif" alt="">&nbsp;More: <a href="/Blogs/Phlog/">Phlog</a> &nbsp;|&nbsp; <a href="/Blogs/OnTheDownload/">Music</a> &nbsp;|&nbsp; <a href="/blogs/OutsidetheFrame/">Film</a> &nbsp;|&nbsp; <a href="/blogs/WordUp/">Books</a> &nbsp;|&nbsp; <a href="/blogs/TalkingPolitics/">Politics</a> &nbsp;|&nbsp; <a href="/blogs/dontquoteme/">Media</a> &nbsp;|&nbsp; <a href="/blogs/toteboard/">Election '08</a> &nbsp;|&nbsp; <a href="/blogs/freeforall/">Free Speech</a> &nbsp;|&nbsp; <a href="/Blogs/">All Blogs</a>
     </div>
-</div>
-
-<div class="sbItem">
-    <div class="sbHeader">LATEST VIDEO</div>
-    <div class="sbVideo">
-    <div style="float:left;text-align:center;width:45%;padding:0px 7px;">
-        <a href="/Boston/video/?bctid=57939870001">
-            <img src="http://brightcove.vo.llnwd.net/d8/unsecured/media/1155246428/1155246428_57943188001_th-57936321001.jpg?pubId=1155246428"><br>
-            Live: Eli "Paperboy" Reed, "Christmas Tears" (2009)
-        </a>
-    </div>
-    
-    
-    <div style="float:left;text-align:center;width:45%;padding:0px 7px;">
-        <a href="/Boston/video/?bctid=58548476001">
-            <img src="http://brightcove.vo.llnwd.net/d8/unsecured/media/1155246428/1155246428_58561486001_th-58554831001.jpg?pubId=1155246428"><br>
-            Live: Raekwon (2009)
-        </a>
-    </div>
-    
-    
-        <div style="clear:both;"></div>
-    </div>
-    
-    <p style="margin:0px;color:#444444;">
-        <img style="position:relative;top:1px;" src="http://cache.thephoenix.com/i/Nav/more_arrow.gif" alt="">&nbsp;More Video:
-        <a href="/Boston/Video/">All Video</a> | 
-        <a href="/Boston/Video/Music/">Music</a> | 
-        <a href="/Boston/Video/Movies/">Movies</a> | 
-        <a href="/Boston/Video/WFNX/">WFNX</a>
-    </p>
 </div>
 
 <a href="/FWB/"><img src="http://cache.thephoenix.com/i/sidebar/email-banner.jpg" border="0"></a>
@@ -485,174 +779,28 @@ jsmiddlead();
 <div class="sbItem">
 <div class="sbHeader">Special Issues</div>
 <div class="sbBody" style="padding:6px 0px 0px 0px;">
-<p><span class="HTML_TAG"> <a href="/Boston/life/95185-continuing-education-2010/" target="_blank"><img title="Green-education-supplement-2010" border="0" alt="Green-education-supplement-2010" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/green-education-supp-2010.jpg"></a><br><a href="/thebest/" target="_blank"><img title="The_Best-2009-specialissues" border="0" alt="The_Best-2009-specialissues" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/Best09-300x39.jpg"></a><br><a title="Best Music Poll" href="/BMP/" target="_blank"><img title="Best Music Poll" border="0" alt="Best Music Poll" src="http://cache.thephoenix.com/i/sidebar/supplements_bestMusicPoll.jpg" width="300" height="39"></a><br><span class="HTML_TAG"><a title="Unsexiest Men 2009" href="/unsexy/"> <img title="Unsexiest Men of 2009" border="0" alt="Unsexiest Men of 2009" src="http://cache.thephoenix.com/i/sup/2009/US09-banner.jpg" width="300" height="39"> </a></span> </span></p>
+<p><span class="HTML_TAG"> <a href="/supplements/2010/50games/" target="_blank"><img title="" border="0" alt="" src="http://cache.thephoenix.com/i/sup/2010/50games/Top50Games300x40.jpg"></a><br><span class="HTML_TAG"> <a href="/supplements/2010/billyruane/"><img title="BillyRuane-30039" border="0" alt="BillyRuane-30039" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/BillyRuane-30039.jpg"></a><br> </span> </span><span class="HTML_TAG"> <a href="/Supplements/2010/50States/" target="_blank"><img title="50states2010-300x39" border="0" alt="50states2010-300x39" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/50states-300x39.jpg"></a><br><a href="/bmp"><img title="bmp 2010" border="0" alt="bmp 2010" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/bmp-300x39-2010.jpg"></a><br><a href="/thebest" target="_blank"><img title="Best-2010-special" border="0" alt="Best-2010-special" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/Best10-special.jpg"></a><br><a href="/unsexy" target="_blank"><img title="Unsexy 2010" border="0" alt="Unsexy 2010" src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/ZZZ/Supplements_Sidebar/unsexy-300-by-39-graphic.jpg"></a> </span></p>
 </div>
 </div>
 
-<div class="sbItem">
-<div class="sbHeader">
-<div style="float:right;position:relative;top:-3px;">
-<a href="/rss/Boston/MostPopular/"><img alt="RSS Feed of for the most popular articles" src="http://cache.thephoenix.com/images/tool-rss3.gif" border="0"></a>
-</div>
-MOST POPULAR
-<div style="clear:both;"></div>
-</div>
-
-
-<div align="center">
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-	<tbody><tr>
-		<td>
-			<table cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td style="padding:10px 0px;border-left:1px solid #CCCCCC;border-bottom:0px solid #cccccc;" align="center" id="tdMostViewed" class="phxSideTabOff"><a style="cursor: pointer;" onclick="ChooseTab('MostViewed','tdMostViewed');">&nbsp;Most Viewed&nbsp;</a></td>
-					<td style="padding:10px 0px;border-right:1px solid #CCCCCC;border-left:1px solid #cccccc;border-bottom:0px solid #cccccc;" align="center" id="tdMostEmailed" class="phxSideTabOff"><a style="cursor: pointer;" onclick="ChooseTab('MostEmailed','tdMostEmailed');">&nbsp;Most Emailed&nbsp;</a></td>
-					
-<!--					<td align="center" id="tdMostCommented" class="phxSideTabOff"><a style="cursor: pointer;" onclick="ChooseTab('MostCommented','tdMostCommented');">&nbsp;COMMENTED&nbsp;</a></td>-->
-					
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td style="border-bottom:solid 1px #cccccc;border-left:solid 1px #cccccc;border-right:solid 1px #cccccc;padding:0px 5px;">
-			<div id="MostViewed" class="invisible">
-				<div class="articleSideBarContentDiv">
-					<ul class="ltBlueListSpaced">
-					
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/movies/96357-is-there-hope-in-hollywood/">
-							Is there 'hope' in Hollywood?
-							</a><br>
-							  Three controversial (and sure to be Oscar-nominated) films tackle race in the age of Obama  
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/news/96346-brave-new-globe/">
-							Brave new Globe?
-							</a><br>
-							   With a new publisher and a bevy of edit changes, is the  Boston Globe &nbsp;poised for a new chapter?   
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/movies/96168-oscar-predictions-2010/">
-							Oscar predictions 2010
-							</a><br>
-							  With 10 Best Picture noms, is Oscar up in the air? Our critic predicts.  
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/food/96358-house-of-chang/">
-							House of Chang
-							</a><br>
-							  A welcome change in the neighborhood  
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/music/95824-beach-house-teen-dream-2010/">
-							Beach House | Teen Dream
-							</a><br>
-							  Sub Pop (2010)  
-							
-							</li>
-						
-					</ul>
-				</div>
-			</div>
-			<div id="MostEmailed" class="invisible">
-				<div class="articleSideBarContentDiv">
-					<ul class="ltBlueListSpaced">
-					
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/movies/96357-is-there-hope-in-hollywood/">
-							Is there 'hope' in Hollywood?
-							</a><br>
-							  Three controversial (and sure to be Oscar-nominated) films tackle race in the age of Obama  
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/news/96340-in-pawtucket-a-haitian-american-family-anxiously-/">
-							In Pawtucket, a Haitian-American family anxiously waits
-							</a><br>
-							  Dispatches  
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/news/96346-brave-new-globe/">
-							Brave new Globe?
-							</a><br>
-							   With a new publisher and a bevy of edit changes, is the  Boston Globe &nbsp;poised for a new chapter?   
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/news/96327-orwell-and-shakespeare-in-a-minute/">
-							Orwell and Shakespeare in a Minute
-							</a><br>
-							  Second-Hand Books Dept.  
-							
-							</li>
-						<div style="padding:0px;margin:6px 0px;border-top:solid 1px #f1f1f1;height:1px;"></div>
-							<li class="blackList">
-							<a class="HeaderLink" style="font:bold 14px Arial;" title="" href="/Boston/news/95977-how-brown-won/">
-							How Brown won
-							</a><br>
-							  While Massachusetts Democrats assess blame for who lost the Senate seat, the truth is that Scott Brown won it  
-							
-							</li>
-						
-					</ul>
-				</div>
-			</div>
-			<div id="MostCommented" class="invisible">
-				<div class="articleSideBarContentDiv">
-					<ul class="ltBlueListSpaced">
-					
-					</ul>
-				</div>
-			</div>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-</div>
-
-<script>
-    ChooseTab('MostViewed', 'tdMostViewed');
-</script>
 <div class="sbItem">
     <div class="sbHeader" onclick="location.href='/Boston/promos/'">CURRENT PROMOTIONS</div>
     <div class="sbBody">
 
 	    <div style="padding:3px 0px;line-height:18px;">
-            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">Edge of Darkness - Movie Tickets</a><br>
+            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">Despicable Me- DVD Giveaway</a><br>
         </div> 
 <div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 	    <div style="padding:3px 0px;line-height:18px;">
-            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">Frozen - Movie Tickets</a><br>
+            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">The Town- DVD Giveaway</a><br>
         </div> 
 <div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 	    <div style="padding:3px 0px;line-height:18px;">
-            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">The Book of Eli - Movie tickets</a><br>
+            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">The Sorcerer's Apprentice- DVD/Blu Ray Giveaway</a><br>
         </div> 
 <div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
 	    <div style="padding:3px 0px;line-height:18px;">
-            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">Smokin’ Aces 2 - DVD release</a><br>
-        </div> 
-<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
-	    <div style="padding:3px 0px;line-height:18px;">
-            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">Southland - DVD release</a><br>
-        </div> 
-<div style="padding:0px;margin:7px 0px 0px 0px;border-top:solid 1px #f1f1f1;height:7px;"></div>
-	    <div style="padding:3px 0px;line-height:18px;">
-            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">American Pie Presents: The Book of Love - DVD release</a><br>
+            <a style="font-size:14px;font-weight:bold;" href="/Boston/promos/">Inception- DVD Giveaway</a><br>
         </div> 
 
     <div style="margin-top:6px;">    
@@ -663,14 +811,13 @@ MOST POPULAR
 
 
 </div>
-<!--2/1/2010 10:22:09 AM-->
+<!--12/20/2010 8:17:10 AM-->
         
         <div id="ctl00_ctl00_BODYContent_MAINBODYContent_SIDEContent_SideBarBottomAll1_pnl">
 	
-<div class="sbItem">Advertisement: <a href="http://www.sextoy.com/" target="_blank">Buy Adult Novelties Online</a></div>
 
 </div>
-<!--2/1/2010 10:24:32 AM-->
+<!--12/20/2010 8:18:42 AM-->
     
 <p></p>
 </div>
@@ -791,6 +938,22 @@ TODAY'S FEATURED ADVERTISERS
 
 <!--FOOTERNAVContent END-->
 </div>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+    $.get("/community/phx/", function(data){
+        usr = data;
+        if (usr!=""){
+            $("span#loggedin").append("<a href=\"/community/members/" + usr + "/\">" + usr + "</a> &nbsp;|&nbsp; <a href=\"/community/user/EditProfile.aspx?ReturnUrl=%2f\">Edit</a> &nbsp;|&nbsp; <a href=\"/community/logout.aspx\">Log out</a> &nbsp;|&nbsp; ");
+            $("span.isuser").hide();
+        }else{
+            $("span#loggedin").append("<a href=\"/Community/Login.aspx\">Sign In</a> &nbsp;|&nbsp; <a href=\"/Community/user/CreateUser.aspx\">Join</a> &nbsp;|&nbsp; ");
+            $("span.notuser").hide();
+        }
+    });
+});
+//]]>
+</script>
 
 <!--BODYContent End-->
         </form>
