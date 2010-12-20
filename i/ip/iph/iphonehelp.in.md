@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonehelp.in privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620201651id_/http%3A//iphonehelp.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonehelp.in privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220030120id_/http%3A//iphonehelp.in/privacy) for the most accurate reproduction.*
 
 # Privacy | All on the iPhone, iPod touch & iPad
 
