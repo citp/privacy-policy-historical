@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225144348id_/http%3A//www.egreetings.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224732id_/http%3A//www1.egreetings.com/privacy-policy) for the most accurate reproduction.*
 
-# Find out more about Egreetings.com!
-
-| 
+# www.egreetings.com
 
 ## Last updated: November 2008
 
@@ -14,7 +12,7 @@ At the Egreetings.com Network ("Egreetings.com"), protecting our users' privacy 
 
 **Scope of Policy**
 
-This Policy applies to Egreetings.com, a member of the AmericanGreetings.com ("AG") network of sites. It does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information. 
+This Policy applies to Egreetings.com, a member of the AmericanGreetings.com ("AG") network of sites. It does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.
 
 #### INFORMATION ABOUT YOU
 
@@ -22,7 +20,7 @@ This Policy applies to Egreetings.com, a member of the AmericanGreetings.com ("A
 
 **Aggregate Data**
 
-We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible. We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about you or any of our users. 
+We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible. We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about you or any of our users.
 
 **Cookies**
 
@@ -47,7 +45,7 @@ From time to time, we may use cookies to track your exposure to certain areas of
 
 We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message. 
 
-Egreetings.com INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH ECARD NOTIFICATION E-MAIL IT SENDS. IT IS AVAILABLE TO THE ECARD RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL. THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC ECARDS. ELECTRONIC ECARDS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR [TERMS OF SERVICE](http://www.egreetings.com/legal.pd). 
+Egreetings.com INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH ECARD NOTIFICATION E-MAIL IT SENDS. IT IS AVAILABLE TO THE ECARD RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL. THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC ECARDS. ELECTRONIC ECARDS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR [TERMS OF SERVICE](http://www.egreetings.com/legal). 
 
 **When You Send An eCard**
 
@@ -91,7 +89,7 @@ This program is conducted strictly on an opt-in basis. In order to receive the o
 
 **Mandatory Communications**
 
-Egreetings.com reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www.egreetings.com/legal.pd). These communications are mandatory. 
+Egreetings.com reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www.egreetings.com/legal). These communications are mandatory. 
 
 **Information Gathered From Members**
 
@@ -203,5 +201,3 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, [click here](http://www.getnetwise.org/) for the Internet Education Foundation's Online Safety Guide for Kids. 
 
 If you have any questions, please feel free to review our [help center](http://www.egreetings.com/customer/index.pd). 
-
-| 
