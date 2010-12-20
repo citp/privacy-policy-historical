@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620034542id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220155541id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
 
 # Celebrity news and entertainment from In Touch Weekly
 
