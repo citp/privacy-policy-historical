@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheblogginginstitute.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617071646id_/http%3A//nicheblogginginstitute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheblogginginstitute.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220142129id_/http%3A//nicheblogginginstitute.com/privacy.html) for the most accurate reproduction.*
 
 # Your NBI Membership Options | NicheBloggingInstitute.com
 
