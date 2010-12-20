@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absolutepoker.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617072540id_/http%3A//www.absolutepoker.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutepoker.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220163148id_/http%3A//www.absolutepoker.com/support/privacy) for the most accurate reproduction.*
 
-# Support - Privacy Policy
+# Support - Privacy Policy | Absolute Poker
 
 Absolute Poker is actively committed to offering the highest-quality online poker experience combined with the highest level of [integrity](https://web.archive.org/online-poker-security) in dealing with our players. This policy was created to help you understand how we collect, use, and protect the personal information that you provide us. Use it as a guide to make informed decisions when using our products and services. We will frequently refer to and reassess this agreement to reflect new technologies, business practices and your needs as a player at Absolute Poker.
 
