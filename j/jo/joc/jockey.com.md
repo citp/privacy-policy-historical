@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620211057id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220033752id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
@@ -28,7 +28,7 @@ Personal information may include your name, address, e-mail address, telephone n
 
   * Create or update a personal account on our Site;
   * Visit a Jockey owned and operated retail location;
-  * Join the Jockey Club®;
+  * Join Jockey Rewards®;
   * Shop online and check the status of a purchase order;
   * Sign up to receive e-mail communications from Jockey on products and promotions;
   * Participate in a contest, giveaway or other similar type of product promotion;
