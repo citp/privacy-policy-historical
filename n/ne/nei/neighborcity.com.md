@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighborcity.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621060831id_/http%3A//www.neighborcity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborcity.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220113427id_/http%3A//www.neighborcity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Neighborcity.com
 
