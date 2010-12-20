@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsdealsandmore.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619051856id_/http%3A//couponsdealsandmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsdealsandmore.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220093729id_/http%3A//couponsdealsandmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Coupons, Deals and More
 
