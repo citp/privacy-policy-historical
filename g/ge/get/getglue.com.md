@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getglue.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630225430id_/http%3A//getglue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getglue.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220044812id_/http%3A//getglue.com/privacy) for the most accurate reproduction.*
 
-# Get Glue: Privacy
+# GetGlue: Privacy
 
 ## Glue's Privacy Policy
 
