@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livableworld.org privacy policy that was archived on 2008-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081126205643id_/http%3A//livableworld.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livableworld.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220100622id_/http%3A//livableworld.org/privacy) for the most accurate reproduction.*
 
 # Council for a Livable World: Privacy Policy
 
