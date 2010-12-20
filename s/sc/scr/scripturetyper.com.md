@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514154722id_/http%3A//scripturetyper.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220042053id_/http%3A//scripturetyper.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Scripture Typer - Privacy Policy
 
