@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneforty.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529024419id_/http%3A//oneforty.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneforty.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220084355id_/http%3A//oneforty.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - oneforty
 
