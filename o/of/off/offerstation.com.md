@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116075352id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220154948id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
-# OfferStation.com >> Privacy Policy
+# Contact Us | OfferStation.com
 
- | 
-
- ** _OFFERSTATION'S PRIVACY POLICY_**
+PRIVACY POLICY
 
 OfferStation takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -48,4 +46,63 @@ Changes to this Privacy Policy
 OfferStation reserves the right to modify, update, and change this policy at our discretion at any time.   
 
 
-|  
+  
+  
+
+
+[
+
+## "The fun of Christmas comes to life at IKANO"
+
+](http://www.offerstation.com/happenings-events/65749/the-fun-of-christmas-comes-to-life-at-ikano.htm)
+
+[
+
+## Holiday Programme "Craft In Science" at CYW Art & Craft
+
+](http://www.offerstation.com/happenings-events/63536/holiday-programme-craft-in-science-at-cyw-art-and-craft.htm)
+
+[
+
+## "Under The Christmas Tree" at the Curve
+
+](http://www.offerstation.com/happenings-events/65399/under-the-christmas-tree-at-the-curve.htm)
+
+[
+
+## Win a Toshiba Refrigerator at Carrefour
+
+](http://www.offerstation.com/contest-prizes/64583/win-a-toshiba-refrigerator-at-carrefour.htm)
+
+[
+
+## Win an iPad with New Zealand Natural 
+
+](http://www.offerstation.com/contest-prizes/64996/win-an-ipad-with-new-zealand-natural.htm)
+
+[
+
+## San Francisco Steakhouse Christmas Promotion
+
+](http://www.offerstation.com/dining-food-offers/65503/san-francisco-steakhouse-christmas-promotion.htm)
+
+[
+
+## Property Fair by REHDA - 3 Days Only
+
+](http://www.offerstation.com/happenings-events/11304/property-fair-by-rehda--3-days-only.htm)
+
+[
+
+## New MBO Cinemas 
+
+](http://www.offerstation.com/whats-new/65949/new-mbo-cinemas.htm)
+
+FROM FACEBOOK
+
+LATEST COMMENTS
+
+REMINDERS
+
+  
+
