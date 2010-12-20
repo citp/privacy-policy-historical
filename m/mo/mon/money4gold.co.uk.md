@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money4gold.co.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623021128id_/http%3A//www.money4gold.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money4gold.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220232416id_/http%3A//money4gold.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Money4gold Official Website - The trusted place in the UK to Sell Gold Jewelry and earn Cash
 
