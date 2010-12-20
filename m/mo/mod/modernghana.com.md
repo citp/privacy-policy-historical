@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620172812id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220175558id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
 
 # Modern Ghana Privacy
 
