@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515220801id_/http%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220032153id_/http%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
 
-# B2B Yellow Pages: Business to Business (B2B) Yellow Pages, Business Search, B2B Companies, Information.
+# Privacy Policy at b2bYellowpages.com
 
-**This Privacy Policy was last modified March 6, 2007**
+**This Privacy Policy was last modified March 13, 2009**
 
 The following policy applies to all the websites owned and operated by b2bBiz.com, Inc., the parent corporation of b2bYellowpages.com on the World Wide Web. 
 
@@ -24,13 +24,11 @@ b2bYellowpages.com uses all information to customize your experience and to impr
 
 **b2bYellowpages.com uses cookies.**
 
-A cookie is a piece of data that identifies you and/or your computer as a unique user. b2bYellowpages.com uses "cookies" to help personalize your experience. Internet cookies save the visitor's name, password, user name, screen preferences, the pages of the company's web site viewed by the visitor and the advertisements clicked by the visitor. The cookies enable b2bYellowpages.com, Inc. to personalize its web site for each user. 
+A "cookie" is a piece of data that identifies you and/or your computer as a unique user. Internet cookies could save the pages of our web site viewed by a visitor or user, a members password and user name upon log-in as well as the advertisements clicked upon. 
 
-When the visitor re-visits the web site, b2bYellowpages.com will recognize the visitor by the Internet cookie and customize the visitor's experience accordingly. Internet cookies are stored on the visitor's hard drive and are not stored in any form on any equipment owned by b2bYellowpages.com. 
+The cookies enable b2bYellowpages.com to personalize its web site for each visitor. When the visitor uses or re-visits our web site, b2bYellowpages.com will recognize information about the user by the Internet cookie and customize the visitors experience accordingly. Internet cookies are stored on the visitors hard drive and are not stored in any form on any equipment owned by b2bYellowpages.com. You can edit your browser so as not to accept our cookies, but features of the web site may not function properly if you do not accept the cookies. 
 
-You can edit your browser so as not to accept cookies, but features of the web site may not function properly if you do not accept the cookies. No other company has access to our cookies. 
-
-b2bYellowpages.com lets other companies that show advertisements on our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not b2bYellowpages.com. Advertisers or other companies do not have access to b2bYellowpages.com cookies. 
+Advertisers or other companies do not have access to the b2bYellowpages.com cookies. b2bYellowpages.com lets other companies that show advertisements on our pages set and access their own cookies on your computer. Other companies use of their cookies is subject to their own privacy policies, not b2bYellowpages.com. Google is a third party vendor who use [DoubleClick DART cookies](http://www.doubleclick.com/privacy/faq.aspx) to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to b2bYellowpages.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **With whom does b2bYellowpages.com share the collected information?**
 
@@ -58,4 +56,4 @@ b2bYellowpages.com may also transfer any information in its possession in connec
 
 **What if I have questions or comments about this privacy policy?**
 
-You can direct all additional questions and comments regarding our privacy policy through our **[feedback form.](https://web.archive.org/web/20080515220801id_/http%3A//www.b2byellowpages.com/feedback.shtml)**
+You can direct all additional questions and comments regarding our privacy policy through our **[feedback form.](https://web.archive.org/web/20101220032153id_/http%3A//www.b2byellowpages.com/feedback.shtml)**
