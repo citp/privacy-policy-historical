@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novafm.com.au privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522173511id_/http%3A//www.novafm.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novafm.com.au privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220145048id_/http%3A//www.novafm.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - NovaFM
 
@@ -233,4 +233,4 @@ The Commercial Radio Codes of Practice registered by the Australian Broadcasting
 
 **11 Privacy Officer**
 
-If you have any concerns, complaints or questions, please contact our Privacy Officer - [rwright@dmgradio.com.au](mailto:rwright@dmgradio.com.au)
+If you have any concerns, complaints or questions, please contact our Privacy Officer - [stinsley@dmgradio.com.au](mailto:stinsley@dmgradio.com.au)
