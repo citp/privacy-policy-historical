@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525211420id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221002943id_/http%3A//www.brooklynmuseum.org/privacy.php) for the most accurate reproduction.*
 
 # Brooklyn Museum: About: Privacy Policy
 
-The Brooklyn Museum is deeply committed to safeguarding your privacy online. We do not collect personally identifiable information about individuals—such as names and postal and/or e-mail addresses—except when it is knowingly provided by said individuals. This Privacy Policy only applies to transactions made and data gathered on the brooklynmuseum.org Web site and does not apply to any other Web site. The terms of this Privacy Policy shall govern all interactions with the Museum through either the Museum's Web site or e-mail. By using the Museum's Web site or communicating with the Museum by e-mail, you agree to the terms of this Privacy Policy. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement.  
+The Brooklyn Museum is deeply committed to safeguarding your privacy online. We do not collect personally identifiable information about individuals—such as names and postal and/or e-mail addresses—except when it is knowingly provided by said individuals. This Privacy Policy only applies to transactions made and data gathered on the brooklynmuseum.org website and does not apply to any other website. The terms of this Privacy Policy shall govern all interactions with the Museum through either the Museum's website or e-mail. By using the Museum's website or communicating with the Museum by e-mail, you agree to the terms of this Privacy Policy. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement.  
 
 
 ### Information Provided by Visitors  
 
 
  **When You Register**  
-You may use the Brooklyn Museum's Web site without registering or submitting any personally identifiable information. However, in order to have access to certain options, such as our Commentary Feature (The Posse) and the Museum's e-mail newsletters, you must register with us online.
+You may use the Brooklyn Museum's website without registering or submitting any personally identifiable information. However, in order to have access to certain options, such as our Commentary Feature (The Posse) and the Museum's e-mail newsletters, you must register with us online.
 
 If you decide to register with us online, you will be asked to provide personally identifiable information that may include a user name and password, your name, e-mail address, postal address, and phone number. Online memberships are processed through a secure server, [NetSolutions](https://dnbweb1.blackbaud.com/OPXREPHIL/Privacy.asp?cguid=0710A1AE%2D6E5C%2D4BA1%2DB78C%2D0AD017D7204C&sid=B1ACE6AD%2DFCA0%2D48BC%2DB235%2DA7963F6404A1).
 
@@ -46,9 +46,9 @@ It is required that you provide your e-mail information in order to be a member 
 
 
  **Cookies**  
-The Brooklyn Museum Web site does not use cookies to collect or store any personally identifying information about users. A cookie is a small amount of data that is exchanged between your browser and the Brooklyn Museum Web server and is unique to your browsing session. Cookies are used to provide a consistent experience for users that tag, comment, and choose favorite items in the online collection. Cookies are also necessary for some advanced Posse features such as set creation and the games _Tag! You’re It!_ and _Freeze Tag!_ If you choose to reject cookies, you will still be able to use the Brooklyn Museum Web site (including commenting and tagging), but you will not be able to participate in advanced Posse features.
+The Brooklyn Museum website does not use cookies to collect or store any personally identifying information about users. A cookie is a small amount of data that is exchanged between your browser and the Brooklyn Museum Web server and is unique to your browsing session. Cookies are used to provide a consistent experience for users that tag, comment, and choose favorite items in the online collection. Cookies are also necessary for some advanced Posse features such as set creation and the games _Tag! You’re It!_ and _Freeze Tag!_ If you choose to reject cookies, you will still be able to use the Brooklyn Museum website (including commenting and tagging), but you will not be able to participate in advanced Posse features.
 
-A cookie is also sent to your browser when you visit our online Brooklyn Museum Shop, where it is only used to keep track of the items in your shopping order. If you choose to reject cookies, you will still be able to use the Brooklyn Museum Web site but you will not be able to build a shopping order. [See the Brooklyn Museum Shop Privacy Policy](http://shop.brooklynmuseum.org/privacypolicy.html).
+A cookie is also sent to your browser when you visit our online Brooklyn Museum Shop, where it is only used to keep track of the items in your shopping order. If you choose to reject cookies, you will still be able to use the Brooklyn Museum website but you will not be able to build a shopping order. [See the Brooklyn Museum Shop Privacy Policy](http://shop.brooklynmuseum.org/privacypolicy.html).
 
 **PatronMail**  
 If you sign up for our PatronMail newsletter or special interest alert, you will receive the information that you have requested; you have the option of unsubscribing or removing your name from the list at any time. Any information you choose to provide regarding special interests may be used for marketing and promotional purposes. For further inquiries regarding PatronMail's Privacy Policy please see [Patron Technology's Privacy Policy](http://www.patrontechnology.com/privacy).
@@ -57,9 +57,9 @@ If you sign up for our PatronMail newsletter or special interest alert, you will
 
 Unless otherwise noted, all content copyright © 2004 the Brooklyn Museum. Some rights reserved. Non-commercial use of text and images, with attribution, is permitted under the terms of a [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 
-Copyright and other proprietary rights may be held by individuals or entities other than, or in addition to, the Brooklyn Museum. The Museum does not warrant that the use of materials displayed on this Web site will not infringe on the rights of third parties, such as artists or artists' heirs holding the rights to these works. For works of art from other museums, institutions, or owners reproduced on this site, contact the institution or owners credited in the work's caption.
+Copyright and other proprietary rights may be held by individuals or entities other than, or in addition to, the Brooklyn Museum. The Museum does not warrant that the use of materials displayed on this website will not infringe on the rights of third parties, such as artists or artists' heirs holding the rights to these works. For works of art from other museums, institutions, or owners reproduced on this site, contact the institution or owners credited in the work's caption.
 
-See [Image Services](https://web.archive.org/web/20100525211420id_/http%3A//www.brooklynmuseum.org/image_services.php) for information on licensing text or images for reproduction.
+See [Image Services](https://web.archive.org/web/20101221002943id_/http%3A//www.brooklynmuseum.org/image_services.php) for information on licensing text or images for reproduction.
 
 ### Changes to Privacy Policy  
 
@@ -70,5 +70,5 @@ The Brooklyn Museum may revise its Privacy Policy at any time. We encourage you 
 ### Third-Party Links  
 
 
-The Brooklyn Museum's Web site contains links to other Internet sites. We encourage all of our partners, contributors, and third parties to implement policies and practices that respect the privacy of our users. However, the Brooklyn Museum is not responsible for the privacy practices or content of such Web sites. Once you leave this Web site the Privacy Policy will not apply.  
+The Brooklyn Museum's website contains links to other Internet sites. We encourage all of our partners, contributors, and third parties to implement policies and practices that respect the privacy of our users. However, the Brooklyn Museum is not responsible for the privacy practices or content of such websites. Once you leave this website the Privacy Policy will not apply.  
 
