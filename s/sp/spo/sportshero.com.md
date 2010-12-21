@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportshero.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509122432id_/http%3A//www.sportshero.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportshero.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105943id_/http%3A//sportshero.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# privacy_policy
+# SportsHero: Fantasy Premier League,Play Prediction Sports,Leagues
 
 SportsHero.com - Privacy Policy
 
