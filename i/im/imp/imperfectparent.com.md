@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621035333id_/http%3A//www.imperfectparent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221023505id_/http%3A//www.imperfectparent.com/privacy) for the most accurate reproduction.*
 
 # The Imperfect Parent || Privacy Policy
 
@@ -22,5 +22,3 @@ If you have any questions about our privacy policy, please write to [prescott@im
 
 
 _Last updated 05/03/10_
-
-"A diamond with a flaw is worth more than a pebble without imperfections." _\-- Chinese Proverb_
