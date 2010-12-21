@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtyconnect.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013319id_/http%3A//naughtyconnect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtyconnect.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221191817id_/http%3A//www.naughtyconnect.com/privacy.php) for the most accurate reproduction.*
 
 # NaughtyConnect Adult Dating, Sex and Swingers Personals
 
@@ -24,7 +24,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
 
-We may also use personally identifiable information about you to deliver the information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions.
+We may also use personally identifiable information about you to deliver the information to you that, in some cases, is targeted to your interests, such as targeted banners and email promotions.
 
 We also send periodic informational updates to our members via email.
 
