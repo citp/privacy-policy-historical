@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ansblog.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621130321id_/http%3A//ansblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansblog.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221233039id_/http%3A//ansblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy >> Ansblog - Answer to your search on Web - Answer Blog
+# Privacy Policy - Ansblog - Answer to your search on Web - Answers Blog
 
 **Privacy Policy for http://ansblog.com**
 
