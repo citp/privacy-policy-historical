@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidpit.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609172943id_/http%3A//www.androidpit.com/en/android/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidpit.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221030450id_/http%3A//www.androidpit.com/en/android/privacy) for the most accurate reproduction.*
 
 # Android Apps, Tests, Blog, News and Forum - AndroidPIT
 
