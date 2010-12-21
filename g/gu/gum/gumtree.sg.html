@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gumtree.sg privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625040918id_/http%3A//singapore.gumtree.sg/p-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gumtree.sg privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221211645id_/http%3A//singapore.gumtree.sg/p-Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- Start of HtmlPageHtmlHead --><head>
 		<!-- Help -->
@@ -9,29 +9,26 @@
 
 			
 		<meta name="uniq_GUMTREE_SINGAPORE_page_token_name" content="Privacy">
-			<meta name="DCSext.locale" content="en_SG">
-			<meta name="DCSext.page" content="Privacy">
-			<meta name="WT.pi" content="singapore">
-			<meta name="DCSext.loc1" content="gumtree.sg">
 			<meta name="DCSext.loc2" content="singapore">
+			<meta name="DCSext.loc1" content="gumtree.sg">
+			<meta name="WT.pi" content="singapore">
+			<meta name="DCSext.page" content="Privacy">
+			<meta name="DCSext.locale" content="en_SG">
+	
+	
 		<link rel="SHORTCUT ICON" href="http://pic.classistatic.com/image/pics/classifieds/gumtreeFavicon.ico">		
 	
-		<link href="http://include.classistatic.com/include/c3css/brands/common.css" rel="stylesheet" type="text/css">
-		<link href="http://include.classistatic.com/include/c3css/brands/gumtree/brand.css" rel="stylesheet" type="text/css">
-		<link href="http://include.classistatic.com/include/c3css/brands/gumtree/SG/country.css" rel="stylesheet" type="text/css">
-		<link href="http://include.classistatic.com/include/c3css/brands/gumtree/SG/en.css" rel="stylesheet" type="text/css">
+		<link href="http://include.classistatic.com/include/e700/c3css/brands/gumtree/SG/all-en.css" rel="stylesheet" type="text/css">
 	<!--
-		host: 1202@kj-classy010
+		host: 29728@kj-classy008
 	-->
 	<script type="text/javascript">
 	//<!--
 		var picsPath = "http://pic.classistatic.com/image/pics/classifieds/";
-		var staticPath = "http://include.classistatic.com/include/c3js/classifieds/rel1/";
+		var staticPath = "http://include.classistatic.com/include/e700/c3js/classifieds/rel1/";
 		//-->
 	</script>
-	<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/c3js/classifieds/rel1/jquery-1.2.6.js"></script>
-	<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/c3js/classifieds/rel1/basic.js"></script>
-
+	<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/e700/c3js/classifieds/rel1/jquery-1.2.6-basic-min.js"></script>
 
 	<script type="text/javascript">
 	//<!--
@@ -76,7 +73,7 @@
 						<table height="25" border="0" cellpadding="0" cellspacing="0">
 						<tbody><tr>
 							<td class="signin-left"></td>
-							<td nowrap="true">
+							  <td nowrap="true">
 								<div class="signin">
 										<div id="withoutGreetings">
 												<a href="https://secure.gumtree.sg/singapore/s-SignIn?rup=Privacy" style="text-decoration:none;color:#003399;">Sign In</a>
@@ -123,35 +120,157 @@
 				</td>
 			</tr>
 			</tbody></table>
-			<table width="100%" height="0" border="0" cellpadding="0" cellspacing="0">
+			<noscript>
+			 <style>
+			   .msgbar{
+			     padding-top:5px;
+			   }
+			 </style>
+			</noscript>
+			
+			<table width="100%" height="0" border="0" cellpadding="0" cellspacing="0" class="msgbar">
 			<tbody><tr>
-				<td align="left" nowrap="true" valign="middle">
-				</td>
-				<td valign="bottom" nowrap="true" align="right" style="padding-right:10px;">
+			   <td valign="bottom" nowrap="true" align="left" style="padding-right:10px;">
 					<table border="0" cellpadding="0" cellspacing="0">
 					<tbody><tr>
 						<td valign="center" height="55">
 							<b><span class="citytitle_top">Singapore</span></b>
-							<span class="chg_city" id="chg_city">
-							</span>
+										<span class="chg_city" id="chg_city">
+										</span>
 						</td>
 					</tr>
 					</tbody></table>
 				</td>
-			</tr>
+				<td style="padding-right:10px" nowrap="true" valign="middle">
+				</td>
+			  </tr>
 			</tbody></table>
 		</td>
 	</tr>
 	</tbody></table>
 	<script type="text/javascript">
+	  
 			var autoOptions = {maxChars : 4,
-								hideLabel : 'Hide',
-								timeout : 1,
-								maxEntries : 7,
-					baseUrl : "http://ac.classistatic.com/ac/" + "10026/198/en_SG/"};
+							hideLabel : 'Hide',
+							timeout : 1,
+							maxEntries : 7,
+							containerStyleClass:'keySpan',
+							submitOnlick:true,
+							baseUrl : "http://ac.classistatic.com/ac/10026/198/en_SG/"};
+			
+			
+	    	function updateFormField(form,name,value){
+				  if(form[name]){
+				      form[name].value=value;
+				   }else{
+				      createHidden(name,value,form);
+				   }
+			}
+			function createHidden(name,value,form){
+			  var elem = document.createElement('input');
+			  elem.type = "hidden";elem.name = name;elem.value = value;
+			  form.appendChild(elem);
+			}
+			function removeElem(name){
+			  $('input[name='+name+']').remove();
+			}
+			function trim(str) {
+				return str.replace(/^\s+|\s+$/g,"");
+			}
+			
+			function removeAllLocSearchElms(){
+				var elems = ["AddressLatitude","AddressLongitude","AddressConfidenceLevel","AddressCity","AddressZip","AddressRegion","MapAddress"];
+				for(var i=0;i<elems.length;++i){
+					removeElem(elems[i]);
+				}
+			}
+	    
 			$(document).ready(function(){
-				$("input.keyword").autocomplete(autoOptions);
+				    $("input.keyword").autocomplete(autoOptions);
+						
+				$('input[name=lsn]').blur(function(){
+			 	  locationSearchGeoCodeHelper.existingLocation = false;
+				});
+				$('input[name=lsn]').bind("existingLocation", function() {
+				   locationSearchGeoCodeHelper.existingLocation = true;
+				});
+				
+				$("form#frmSearchAd").submit(function(){
+				    $("#searchAd").attr("disabled", "true");
+				       if($('input[name=lsn]').hasClass('tipField')){
+					    	$('input[name=lsn]').val('');
+					    }
+				     	if($('input[name=lsn]').length && trim($('input[name=lsn]').val()).length >0 && !locationSearchGeoCodeHelper.existingLocation ){
+					    	return locationSearchGeoCodeHelper.getGoogleGeoCode();//this will submit the form too. do all other validations before this
+					    }else{
+					    	removeAllLocSearchElms();
+					    }
+					if($('input[name=Keyword]').hasClass('tipField')){
+				    	$('input[name=Keyword]').val('');
+				    }
+				    return true;
+				 });
 			});
+		  
+		  var locationSearchGeoCodeHelper ={
+		    existingLocation: false,
+		    locGoogleLoaded:false,
+		    locGoogleGeocode:function locGoogleGeocode () {
+		            var searchForm = $("#frmSearchAd").get(0);
+		            var addr = searchForm.lsn.value;
+	             	var googleGeocoder = new google.maps.ClientGeocoder();
+					googleGeocoder.getLocations(addr+","+country, function (obj) {
+						if (obj && obj.Placemark && obj.Placemark.length>0) {
+							var place = obj.Placemark[0]; // pick 1st result
+							if(place.Point.coordinates && place.Point.coordinates.length >1){
+							   updateFormField(searchForm,"AddressLongitude",place.Point.coordinates[0]);
+							   updateFormField(searchForm,"AddressLatitude",place.Point.coordinates[1]);
+							}else{
+							   removeElem("AddressLatitude");
+							   removeElem("AddressLongitude");
+							}
+							if(place.AddressDetails && place.AddressDetails.Accuracy){
+							   updateFormField(searchForm,"AddressConfidenceLevel",place.AddressDetails.Accuracy);
+							}else if(place.AddressDetails && place.AddressDetails.Accuracy == 0){//Accuracy can be zero also.
+							   updateFormField(searchForm,"AddressConfidenceLevel",place.AddressDetails.Accuracy);
+							}else{
+							   removeElem("AddressConfidenceLevel");
+							}
+							if(place.AddressDetails && place.AddressDetails.Country && place.AddressDetails.Country.AdministrativeArea && place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea && place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality && place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.LocalityName  ){
+							   updateFormField(searchForm,"AddressCity",place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.LocalityName);
+							}else{
+							   removeElem("AddressCity");
+							}
+							if(place.AddressDetails && place.AddressDetails.Country && place.AddressDetails.Country.AdministrativeArea &&  place.AddressDetails.Country.AdministrativeArea.Locality && place.AddressDetails.Country.AdministrativeArea.Locality.PostalCode && place.AddressDetails.Country.AdministrativeArea.Locality.PostalCode.PostalCodeNumber  ){
+							   updateFormField(searchForm,"AddressZip",place.AddressDetails.Country.AdministrativeArea.Locality.PostalCode && place.AddressDetails.Country.AdministrativeArea.Locality.PostalCode.PostalCodeNumber);
+							}else{
+							   removeElem("AddressZip");
+							}
+							if(place.AddressDetails && place.AddressDetails.Country && place.AddressDetails.Country.AdministrativeArea && place.AddressDetails.Country.AdministrativeArea.AdministrativeAreaName  ){
+							   updateFormField(searchForm,"AddressRegion",place.AddressDetails.Country.AdministrativeArea.AdministrativeAreaName );
+							}else{
+							   removeElem("AddressRegion");
+							}
+							if(searchForm["MapAddress"]){
+								searchForm["MapAddress"].value = addr;
+							}else{
+								createHidden("MapAddress",addr,searchForm);
+							}
+						}else{
+							removeAllLocSearchElms();
+						}
+						searchForm.submit();
+					});
+			},
+			getGoogleGeoCode:function(){
+			    if (!this.locGoogleLoaded) {
+			        google.load('maps' , '2', {"callback":this.locGoogleGeocode,"other_params":"client=gme-marktplaats&sensor=false&hl="+google_hl});
+		    	   this.locGoogleLoaded=true;
+		    	 } else this.locGoogleGeocode();
+		    	 return false;
+			}
+	   	}
+		
 	</script>
 	<script type="text/javascript">
 		var browsedata = "\004\0030\003Apartment / House, Real Estate\003http://singapore.gumtree.sg/f-Apartment-House-Real-Estate-W0QQCatIdZ2\004\0030\003Community\003http://singapore.gumtree.sg/f-Community-W0QQCatIdZ6\004\0030\003Stuff for Sale\003http://singapore.gumtree.sg/f-Stuff-for-Sale-W0QQCatIdZ4\004\0030\003Cars / Vehicles / Motorbikes / Parts\003http://singapore.gumtree.sg/f-Cars-Vehicles-Motorbikes-Parts-W0QQCatIdZ5\004\0030\003Events\003http://singapore.gumtree.sg/f-Events-W0QQCatIdZ62\004\0030\003Jobs\003http://singapore.gumtree.sg/f-Jobs-W0QQCatIdZ8\004\0030\003Business Services\003http://singapore.gumtree.sg/f-Business-Services-W0QQCatIdZ9\004\0030\003Want Ads\003http://singapore.gumtree.sg/f-Classifieds-W0QQAdTypeZ1QQLocationZ2800001\004\0030\003Freebies\003http://singapore.gumtree.sg/f-Classifieds-W0QQLocationZ2800001QQPriceAlternativeZ3";
@@ -185,6 +304,7 @@
 	</script>
 		<div id="pagestatus_new" style="">	
 	</div>
+
 		</div>
 		<div id="middle">
 	<table cellpadding="0" cellspacing="0" border="0" width="100%">
@@ -283,14 +403,14 @@ you prefer not to receive such communications. If you don't wish to receive mark
 preference by following the directions provided with the communication. </p>
 
 <p>You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our 
-<a href="p-TermsAndConditions">Terms of Use</a> or <a href="p-Privacy">Privacy Policy</a>. We may automatically scan and 
+<a href="p-TermsAndConditions"><b><u>Terms of Use</u></b></a> or <a href="p-Privacy"><b><u>Privacy Policy</u></b></a>. We may automatically scan and 
 manually filter messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently 
 store such messages. If you use our tools to send content to a friend, we don’t permanently store your friends’ addresses or use 
-or disclose them for marketing purposes. To report spam from other users, please contact us <a href="c-ContactUs"> here</a>.</p>
+or disclose them for marketing purposes. To report spam from other users, please contact us <a href="c-ContactUs"><b><u>here</u></b></a>.</p>
  
 <p><strong>Access, Modification, and Deletion</strong>. You can see, modify or erase your personal information by reviewing your 
-posting or account status page. Contact us <a href="c-ContactUs">here</a> to review any personal information we store that is not 
-available on Gumtree.   There may be a charge associated with such requests but these will not exceed the amounts permitted by law.
+posting or account status page. Contact us <a href="c-ContactUs"><b><u>here</u></b></a> to review any personal information we store that is not 
+available on Gumtree.  There may be a charge associated with such requests but these will not exceed the amounts permitted by law.
 We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as 
 permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.</p>
 
@@ -334,7 +454,7 @@ policy please contact us here. </p>
 	</div>
 	<!-- Start of HtmlPageTail -->
 	
-	<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/c3js/classifieds/rel1/jquery.core.js"></script>
+	<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/e700/c3js/classifieds/rel1/jquery.core-min.js"></script>
 	
 	 
 	 
@@ -358,7 +478,7 @@ policy please contact us here. </p>
 		    	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
 			}
 		</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsdh95n910000cduxoo3lxer_8o8m/wtid.js"></script>
-		<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/c3js/classifieds/rel1/webtrends_common.js"></script>
+		<script type="text/javascript" language="JavaScript" src="http://include.classistatic.com/include/e700/c3js/classifieds/rel1/webtrends_common.js"></script>
 	
 	<!-- GoogleAnalytics Tracker-->
 	<!-- End of GoogleAnalytics Tracker-->
@@ -405,7 +525,7 @@ try {var pageTracker = _gat._getTracker("UA-9157674-1");pageTracker._trackPagevi
 			}			
 			if (DetectFlashVer(8,0,0)) {
 			        document.write("<div id=\"fmachdiv\" style='position:fixed;top:0;left:0;width:1px;height:1px'>");
-			       	fmObjectActivateWrite("fmach","http://include.classistatic.com/include/c3js/classifieds/rel1/FLASH/getMachId3.swf?current=" + cookylet + "&ie=" + isIE,"100%", "1", "true", "high", "#FFFFFF", ".");
+			       	fmObjectActivateWrite("fmach","http://include.classistatic.com/include/e700/c3js/classifieds/rel1/FLASH/getMachId3.swf?current=" + cookylet + "&ie=" + isIE,"100%", "1", "true", "high", "#FFFFFF", ".");
 					document.write("</div>");
 					addOnLoadFunction("fmachdiv()");
 			} else {
