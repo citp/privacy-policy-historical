@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buycheapr.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420062328id_/http%3A//www.buycheapr.com/us/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapr.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001038id_/http%3A//www.buycheapr.com/us/privacy_policy.jsp) for the most accurate reproduction.*
 
 # BuyCheapr.com - Privacy Policy
 
-### Privacy Policy
+**Privacy Policy**
 
 This privacy policy sets out how BuyCheapr.com uses and protects any information that you give BuyCheapr.com when you use this website.
 
