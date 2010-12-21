@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527144512id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221184527id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
 
 # Days of Wonder Privacy Policy - Get Board Game Fever! | Days of Wonder
 
@@ -38,6 +38,14 @@ Days of Wonder will never share, sell, rent or otherwise provide your personal i
 
 A "cookie" is a small file that we save on your computer's hard drive which contains non-personal information. Cookies help us give you faster access to pages you have already visited, allow you to personalize your pages, and they help you to participate in some online activities on our sites. For administrative purposes, we also collect IP addresses, which is the automatic number assigned to your computer when you surf the Web. Your IP address and cookie is not connected to any personally identifiable or online contact information, so you remain anonymous to us.
 
+## Unsubscribing from Announcements - Opt-out Policy
+
+From time to time, we send announcements by e-mail: news about coming games, important changes in our Web sites or online games, special offers, etc... Like you, we despise "spam", so we are very reasonable in the number of messages we send (typically no more than 1 or 2 a month). We also try to only send messages that are relevant to your profile. For example, we send pre-order offers of Memoir '44 expansions only to users who registered their copy of Memoir '44. Likewise, we will send you a warning e-mail 15 days before your discount coupons expire. You may choose to completely turn off these announcements at any time by going to [your profile](https://web.archive.org/en/myprofile/). If you are not logged in to your account, you may also use the [Unsubscribe page](https://web.archive.org/en/unsubscribe/) and enter the e-mail address that you used for your account. Please note that if you unsubscribe, you will not receive any e-mails from us _at all_ \- even privileged offers. If you change your mind later, you may turn the announcements back on by returning to [your profile](https://web.archive.org/en/myprofile/).
+
+## Cancelling your Account
+
+To cancel your account, contact us using the [Account Cancellation page](http://www.daysofwonder.com/en/contact/sublevel/?entry_id=29). After cancellation, you will not be able to use your Days of Wonder Online account anymore. Online gaming, services, privileges and other features will no longer be available to you. No refund will be issued for features or services that you have previously paid for.
+
 ## Privacy Policy Questions
 
 If you have any questions regarding our Privacy Policy, contact us at:
@@ -47,7 +55,9 @@ Privacy Policy
 334 State Street, Suite 203  
 Los Altos, CA 94022, USA  
 fax: 415-480-1314  
-[customerservice@daysofwonder.com](mailto:customerservice@daysofwonder.com)
+
+
+or use the [Contact us](https://web.archive.org/en/about/contact) page for a faster response.
 
 |   
 ---|---|---|---
