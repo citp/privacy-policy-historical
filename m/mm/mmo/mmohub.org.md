@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmohub.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630084653id_/http%3A//mmohub.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmohub.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221024534id_/http%3A//mmogames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MMO Hub.org
+# Privacy Policy MMO LIFE
 
 This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by MMO LIFE BV. with its offices at Kenaupark 2, 2011 MS Haarlem, The Netherlands, (hereinafter referred to as "MMO LIFE") on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). MMO LIFE is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). MMO LIFE may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.
 
@@ -10,7 +10,7 @@ When you visit the Website, our servers automatically save your computer's IP ad
 
   2. ## Cookies and web beacons
 
-    1. MMO LIFE may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to 
+    1. MMO LIFE may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to
       1. operate and improve offerings through the Website;
       2. help authenticate you when you are on the Website;
       3. remember your preferences and registration information, as the case may be;
