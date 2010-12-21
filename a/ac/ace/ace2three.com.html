@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the ace2three.com privacy policy that was archived on 2010-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100326050001id_/http%3A//ace2three.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ace2three.com privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221113427id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/innerpage.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy - 13 card Rummy, Indian Card games,Online Indian Rummy Game</title>
+<title>Play Indian Rummy Card Games Online and Win Cash Prizes</title>
 <!-- InstanceEndEditable -->
 <!-- Styles -->
 <link rel="stylesheet" href="css/main.css" type="text/css">
@@ -17,14 +17,28 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
 <!-- Scripts -->
-<script type="text/javascript" src="Scripts/jquerynew.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="Scripts/jquerynew.js"></script>
 <script src="Scripts/nodownloadscript.js" type="text/javascript"></script>
 <script type="text/javascript" src="Scripts/jquery.validate.js"></script>
+<script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
+
 <script language="javascript" type="text/javascript">
 	var name = "#floatMenu";
 	var menuYloc = null;
 
-		$(document).ready(function(){
+		$(document).ready(function()
+                {
+                    var remember = $.cookie('remember');
+                    if ( remember == 'true' )
+                    {
+
+                    var username = $.cookie('username');
+                    var password = $.cookie('password');
+                    // autofill the fields
+                    $('#textfield3').attr("value", username);
+                    $('#textfield4').attr("value", password);
+                    $('#checkbox3').attr("checked",true);
+                    }
 			menuYloc = parseInt($(name).css("top").substring(0,$(name).css("top").indexOf("px")))
 			$(window).scroll(function () {
 				offset = menuYloc+$(document).scrollTop()+"px";
@@ -34,7 +48,22 @@
                         $("#loginform").validate({ rules: {userid: {required: true,minlength: 4,maxlength: 12 },pwd:{required: true,minlength:6,maxlength:20 }}});
                         $("#Submit3").click(function()
                          {
-
+                             if ($('#checkbox3').attr('checked'))
+                             {
+                                var username = $('#textfield3').attr("value");
+                                var password = $('#textfield4').attr("value");
+                                // set cookies to expire in 14 days
+                                $.cookie('username', username, { expires: 14 });
+                                $.cookie('password', password, { expires: 14 });
+                                $.cookie('remember', true, { expires: 14 });
+                             }
+                             else
+                             {
+                                // reset cookies
+                                $.cookie('username', null);
+                                $.cookie('password', null);
+                                $.cookie('remember', null);
+                             }
 
                                if($("#loginform").valid())
                                {
@@ -78,11 +107,9 @@
 
 
 <!-- Ace2Three SEO -->
-<meta name="keywords" content="Online Rummy, Indian Rummy, Rummy Game,13card Rummy, Indian Card Games,Classical Rummy Desi Rummy,Indian online games, Free online games, Play and win, Win Prizes, multiplayer games, download free games, top gaming site in India, Play for free.">
+<meta name="keywords" content="rummy online game, rummy cards, rummy, cards game, card rummy">
 
-<meta name="description" content="Ace2Three offers a comprehensive collection of Indian card games like Classical Rummy,
-Online Rummy, Indian Rummy, 13 cards Rummy, Indian Card games, Desi rummy, Win Cash Prizes,  Play and Win Prizes,  Multi-Player Rummy, download free games,
- top gaming site in India, online card games,  Play for free">
+<meta name="description" content="Play online card games at home with Friends with Multi-Level Collapsible Stake Tournaments and Multi-Player options, India’s top cards gaming site.">
 
 <meta name="author" content="Betrand">
 <meta name="ROBOTS" content="index, follow, ALL">
@@ -99,19 +126,21 @@ Online Rummy, Indian Rummy, 13 cards Rummy, Indian Card games, Desi rummy, Win C
     <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="323"><a href="http://www.ace2three.com/"><img src="images/home/ace2three_logo.jpg" alt="Ace2Three Logo"></a></td>
-            <td class="header_bg"><!-- InstanceBeginEditable name="Navigation" -->
-              <table width="95%" border="0" align="right" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-     		<td class="nav_btn"><a href="aboutgame.html" title="About Online Card Game Rummy"> About Rummy</a></td>
+
+           <tbody><tr>
+            <td width="323"><a href="http://www.ace2three.com"><img src="images/home/ace2three_logo.jpg" alt="Ace2Three Logo"></a></td>
+            <td class="header_bg_index">
+                 <div class="header-div"></div>
+            <table width="95%" border="0" align="right" cellpadding="0" cellspacing="0">
+
+              <tbody><tr>
+    		<td class="nav_btn"><a href="aboutgame.html" title="About Online Card Game Rummy"> About Rummy</a></td>
                 <td class="nav_btn"><a href="tourneyInfo.html" title="Online Rummy Tournaments">Tournaments</a></td>
                 <td class="nav_btn"><a href="downloads.html" title="Online Rummy Downloads">Download </a></td>
                 <td class="nav_btn"><a href="ace2threePromotions.html" title="Online Rummy Promotional Offers">Promotions </a></td>
                 <td class="nav_btn"><a href="newFeatures.html" title="New Features">What's New</a></td>
-                </tr>
-              </tbody></table>
-            <!-- InstanceEndEditable --></td>
+              </tr>
+            </tbody></table></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -225,12 +254,12 @@ Online Rummy, Indian Rummy, 13 cards Rummy, Indian Card games, Desi rummy, Win C
                           <br>
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tbody><tr>
-                              <td width="6%" height="40" valign="top" class="text_01">a) </td>
-                              <td width="94%" height="40" valign="top">if, in our current website or software, a user identifies himself or  herself as a child under the age of 13, we will not collect, store or  use any personal information.</td>
+                              <td width="6%" valign="top" class="text_01">a) </td>
+                              <td width="94%" valign="top" class="text_01">If, in our current website or software, a user identifies himself or  herself as a child under the age of 13, we will not collect, store or  use any personal information.</td>
                             </tr>
                             <tr>
                               <td valign="top" class="text_01">b)</td>
-                              <td height="40" valign="top"> if we receive personal information that we discover was provided by  a child under the age of 13, we shall promptly delete this information  in a secure manner.</td>
+                              <td valign="top" class="text_01"> If we receive personal information that we discover was provided by  a child under the age of 13, we shall promptly delete this information  in a secure manner.</td>
                             </tr>
                           </tbody></table></td>
                       </tr>
@@ -250,7 +279,7 @@ Online Rummy, Indian Rummy, 13 cards Rummy, Indian Card games, Desi rummy, Win C
                     <!-- InstanceEndEditable -->
                     </td>
                     <td width="200" valign="top">
-                   <div id="floatMenu"><a href="#"><img src="images/inner/Playnow_btn.gif" title="click here to play now" alt="Play Now " width="159" height="47" onclick="openWindow()"></a></div>
+                  <div id="floatMenu"><a href="#"><img src="images/inner/Playnow_btn.gif" title="Click here to play now" onclick="openWindow()" alt="Play Now " width="159" height="47"></a></div>
                     </td>
                   </tr>
                   <tr>
@@ -270,23 +299,23 @@ Online Rummy, Indian Rummy, 13 cards Rummy, Indian Card games, Desi rummy, Win C
           </tr>
         </tbody></table></td>
       </tr>
-      <tr>
-          <td height="100" class="ftr_links"><table width="975" align="center" border="0" cellpadding="0" cellspacing="0">
+     <tr>
+          <td height="100" class="ftr_links" align="left" valign="middle"><table width="975" align="left" border="0" cellpadding="0" cellspacing="0">
           <tbody><tr>
-            <td class="fotter_bg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td class="ftr_pay_opt"><table width="180" border="0" cellspacing="0" align="left" cellpadding="0">
-                      <tbody><tr>
-                          <td>Payment Options : </td>
-                        <td><a href="http://www.mol.com" target="new" title="MOL"><img src="images/mol_logo.png" width="50" height="37" alt=""></a></td>
-                      </tr>
-                  </tbody></table></td>
-                  <td width="125" class="ftr_copyrights">© 2007 Ace2Three</td>
-                </tr>
-            </tbody></table></td>
+            <td class="fotter_bg"><table border="0" cellpadding="5" cellspacing="0" class="ftr_pay_opt" width="990">
+  <tbody><tr>
+      <td width="300px">&nbsp;</td>
+      <td align="left" valign="middle"><img src="images/hdfc-logo.gif" width="132" height="39" alt="HDFC"></td>
+    <td align="center" valign="middle"><img src="images/ccavenue_logo.gif" width="153" height="22" alt="CCAvenue"></td>
+    <td align="center" valign="middle"><img src="images/techPRO.png" width="101" height="39" alt="TechProcess"></td>
+    <td align="center" valign="middle"><img src="images/mol_logo.png" width="50" height="37" alt="MOL"></td>
+    <td align="center" valign="middle"><img src="images/RNG_Blue.gif" width="94" height="32" alt="RNG"></td>
+    <td align="center" valign="middle" width="250px">© 2007 Ace2Three</td>
+  </tr>
+</tbody></table></td>
           </tr>
           <tr>
-            <td class="ftr_links"><a href="privacypolicy.html">Privacy Policy</a> | <a href="disclaimer.html">Disclaimer</a> | <a href="termsandconditions.html">Terms and Conditions</a> | <a href="aboutus.html">About Us</a> | <a href="inviteFriend.html">Refer a friend</a> | <a href="jobs.html">We are hiring</a>  | <a href="contact.html">Contact Us</a></td>
+              <td class="ftr_links"><a href="privacypolicy.html">Privacy Policy</a> | <a href="disclaimer.html">Disclaimer</a> | <a href="termsandconditions.html">Terms and Conditions</a> | <a href="aboutus.html">About Us</a> | <a href="inviteFriend.html">Refer &amp; Earn</a> | <a href="news.html">Ace2Three in the News</a> | <a href="certification.html">Certification</a> | <a href="sitemap.html">Site Map</a> | <a href="jobs.html">We are hiring</a> | <a href="contact.html">Contact Us</a></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -294,13 +323,19 @@ Online Rummy, Indian Rummy, 13 cards Rummy, Indian Card games, Desi rummy, Win C
   </tr>
 </tbody></table>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5620305-1");
-pageTracker._trackPageview();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5620305-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
+
 
 <!-- InstanceEnd -->
 </body></html>
