@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtv.com privacy policy that was archived on 2010-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627145035id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtv.com privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221150052id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,12 +11,17 @@
 <link rel="shortcut icon" type="image/x-icon" href="http://www.mtv.com/favicon.ico">
 
 <link rel="stylesheet" type="text/css" media="screen, print, projection" href="/sitewide/css/charlie/screen.jhtml">
+<!--[if lte IE 6]><link rel="stylesheet" href="/sitewide/css/charlie/ie6.css" type="text/css"/><![endif]-->
 
 <link rel="stylesheet" href="/sitewide/legal/css/styles.css" type="text/css">
 
 <script type="text/javascript" src="/sitewide/scripts/mtv.jhtml"></script>
 
 <script type="text/javascript" src="/global/music/scripts/includes/geo.jhtml"></script>
+
+
+
+
 
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="/global/music/scripts/pngfix.js"></script>
@@ -45,12 +50,24 @@ document.write('<link id="theme" rel="stylesheet" type="text/css" media="screen,
 
 <body>
 
-<script type="text/javascript" src="http://widgets3.flux.com/Loader" id="D3FCFFFF0002D51D0002FFFFFCD3"></script>
-<script type="text/javascript" src="http://widgets3.flux.com/context/short/D3FCFFFF0002D51D0002FFFFFCD3"></script> 
+<script type="text/javascript">
+
+MTV.Flux.ucid = "D3FCFFFF0002D51D0002FFFFFCD3";
+
+if(typeof(MTVN.Player) != "undefined") 
+if(MTVN.Player.feed.document!=undefined)
+if(MTVN.Player.feed.document.ucid!=undefined)
+MTV.Flux.ucid = "0ABEFFFF01F364840002FFFFBE0A";
+
+if (!jQuery.browser.safari)
+MTV.initArray.unshift(MTV.loadFluxLibs);
+
+</script>
 
 <script type="text/javascript">MTV.hatTrick();</script>
 
 <div id="container-outer">
+<div id="backgroundAd" style="position: absolute; width:100%; height:100%;"> </div>
 <div id="container">
 <div id="container-inner" class="">
 <script type="text/javascript">
@@ -106,7 +123,7 @@ runMiniAdBanner();
 </a>
 
 </span></p><p>
-<b>Last Modified:</b> October 19, 2009 </p>
+<b>Last Modified:</b> September 10, 2010</p>
 
 <p>
 This is the privacy policy ("<u>Privacy Policy</u>") for mtv.com ("<u>Site</u>," "<u>we</u>," "<u>us</u>," or "<u>our</u>"), an Internet website offered in cooperation with the MTV television channel or programming service ("<u>MTV Channel</u>"). The MTV Channel and the Site (together, "MTV") are provided by MTV Networks ("<u>MTVN</u>"), a division of Viacom International Inc. (together, MTVN and Viacom International Inc., the "<u>Parent Companies</u>"). 
@@ -202,10 +219,10 @@ If you are located in the European Union or elsewhere outside of the U.S., you d
 <a name="3">
 <img src="/sitewide/images/spaceer.gif" class="spacer">
 </a>
-<h2 class="title2">3.	Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).</h2>
+<h2 class="title2">3. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).</h2>
 
 <p>
-When we use the term "<u>Personal Information</u>" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term "<u>Other Information</u>", we mean any information other than Personal Information collected by the Site (Personal Information and Other Information, together, the "<u>Information</u>"). 
+When we use the term "<u>Personal Information</u>" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term "<u>Other Information</u>", we mean any information other than Personal Information that may be collected about you (Personal Information and Other Information, together, the "<u>Information</u>"). 
 </p>
 
 <p>
@@ -225,20 +242,23 @@ When we use the term "<u>Personal Information</u>" we mean information that woul
 </p>
 
 <p>
-<strong>b. Information Collected Through Use of Cookies and Other Tracking Technologies.</strong> The Site and/or third parties may use "cookies", "web beacons" (also known as image tags, GIF or web bugs), "embedded scripts" and other similar tracking technologies (collectively, "<u>Tracking Technologies</u>") to collect Other Information automatically as you browse the Site and the web. 
+<strong>b. Information Collected Through Use of Cookies and Other Tracking Technologies.</strong> 
+"Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. "Web beacons" (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. The Site and/or third parties may use "cookies", "web beacons" and other similar tracking technologies (collectively, "<u>Tracking Technologies</u>") to collect Other Information automatically as you browse the Site and the web.
 </p>
 
 <p>
-We use Tracking Technologies to collect "click stream" data and additional Other Information regarding your visits to the Site, such as your visits to the Site's webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site ("<u>Identifier</u>"). Your Identifier is automatically assigned to the Device you use to access the Site. Your Personal Information is not collected as part of this process. By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site.
-</p> 
-
+We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information", "<a href="#3cii">Other Information Collected by Us</a>" section below. These Tracking Technologies collect "click stream" data and additional Other Information regarding your visits to the Site, such as your visits to the Site's webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site ("<u>Identifier</u>"). Your Identifier is automatically assigned to the Device you use to access the Site. Your Personal Information is not collected as part of this process. 
+</p>
 <p>
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "<u>Third Party Advertising Service Providers</u>") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("<u>Targeting Services</u>"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
+By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies.
+</p>
+<p>
+This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
 </p>
 
 <p>
-Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser and/or they may otherwise have access to Other Information about you.
-</p> 
+Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+</p>
 
 <p>
 <b>c.	Use of Information. </b>As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates. 
@@ -307,9 +327,11 @@ For other purposes disclosed at the time you provide the Personal Information.
 </li>
 </ul>
 
+<a name="3cii">
 <p>
 <b>ii.	Other Information Collected by Us. </b>We, and/or our Parent Companies and Affiliates, use the Other Information we collect from you in a variety of ways, including: 
 </p>
+</a>
 
 <ul>
 <li>
@@ -371,7 +393,9 @@ For other purposes disclosed at the time you provide the Other Information.
 </ul>
 
 <p>
-<b>iii.	Other Information Collected by Third Party Advertising Service Providers and Advertisers.</b>The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see "<b>Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than <a href="#5">Wireless Marketing Services and Associated Promotional Opportunities</a>)</b>" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
+<b>iii.	Other Information Collected by Third Party Advertising Service Providers and Advertisers.</b>
+The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. 
+This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see "<b>Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than <a href="#5">Wireless Marketing Services and Associated Promotional Opportunities</a>)</b>" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 </p> 
 
 <a name="4">
@@ -399,60 +423,69 @@ For other purposes disclosed at the time you provide the Other Information.
 </p>
 
 <p>
-<b>b.	Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.</b> With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
-</p>
-
-<ul>
-<li>
-<p>
-With respect to the serving of ads by DoubleClick to you, please visit <a href="http://www.doubleclick.com/us/about_doubleclick/privacy" target="_blank">http://www.doubleclick.com/us/about_doubleclick/privacy</a> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
-</p>
-</li>
-<li>
-<p>
-To opt-out of Tracking Technologies set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.
-</p>
-</li>
-
-<li>
-<p>
-You can choose to delete the Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. 
-</p>
-</li>
-<li>
-<p>
-You can choose to disable or turn Tracking Technologies off. Additional information on disabling or turning Tracking Technologies off may be available through your browser's support feature.
-</p>
-</li>
-</ul>
-
-<p>
-Opting-out of, deleting or disabling Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads. Opting-out to, deleting or disabling Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. 
+<b>b.	Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.</b>
 </p> 
 
 <p>
-With respect to the Tracking Technologies set by the Site, you have a number of options: 
+<b>i.	Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.</b>
+With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
 </p>
+
 <ul>
 <li>
 <p>
-You can choose to delete the Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature.
+With respect to the serving of ads by DoubleClick to you, please visit <a href="http://www.doubleclick.com/us/about_doubleclick/privacy" target="_blank">http://www.doubleclick.com/us/about_doubleclick/privacy</a> for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
 </p>
 </li>
 <li>
 <p>
-You can choose to disable or turn Tracking Technologies off. Additional information on disabling or turning Tracking Technologies off may be available through your browser's support feature.
+To opt-out of most Tracking Technologies (other than Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
+</p>
+</li>
+
+<li>
+<p>
+You can choose to delete most Tracking Technologies (other than Flash cookies) through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.)
 </p>
 </li>
 <li>
 <p>
-You can choose to have the Device you use to access the Site warn you each time a cookie, image tag or other Tracking Technology is being sent, or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature.
+You can choose to reject, disable or turn most Tracking Technologies off (other than Flash cookies). Additional information on rejecting, disabling or turning most Tracking Technologies off may be available through your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.)
 </p>
 </li>
 </ul>
 
 <p>
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete or disable Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. 
+Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads. Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. 
+</p> 
+
+<p>
+<b>ii.	Tracking Technologies Set By the Site.</b> With respect to the Tracking Technologies set by the Site, you have a number of options: 
+</p>
+<ul>
+<li>
+<p>
+You can choose to delete most Tracking Technologies (other than Flash cookies) through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.)
+</p>
+</li>
+<li>
+<p>
+You can choose to disable or turn most Tracking Technologies off (other than Flash cookies). Additional information on disabling or turning most Tracking Technologies off may be available through your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.)
+</p>
+</li>
+<li>
+<p>
+You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being sent (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature.
+</p>
+</li>
+</ul>
+
+<p>
+Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. 
+</p>
+
+<p>
+<b>iii.	Flash Cookies.</b> Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <a href="http://kb2.adobe.com/cps/526/52697ee8.html" target="_blank">http://kb2.adobe.com/cps/526/52697ee8.html</a> or <a href="http://epic.org/privacy/cookies/flash.html" target="_blank">http://epic.org/privacy/cookies/flash.html</a>.
 </p>
 
 <a name="5">
@@ -491,7 +524,7 @@ Users that register for MTV's wireless marketing services acknowledge, understan
 <img src="/sitewide/images/spaceer.gif" class="spacer">
 </a>
 <p>
-<b>Termination of Wireless Services by User. </b>Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from MTV by the following procedure: 
+<b>b. Termination of Wireless Services by User. </b>Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from MTV by the following procedure: 
 </p>
 
 <p>
@@ -513,8 +546,8 @@ A user may cancel one or more services via his or her wireless device at any tim
 <img src="/sitewide/images/spaceer.gif" class="spacer">
 </a>
 <p>
-<b>6. Sharing and Disclosure of Personal Information and Other Information.</b>
-</p>
+</p><h2 class="title2">6. Sharing and Disclosure of Personal Information and Other Information.</h2>
+<p></p>
 
 <p>
 <b>a.	Sharing and Disclosure of Personal Information. </b> Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy. 
@@ -673,16 +706,16 @@ Further, if you use any of the Communities features and functions made available
 <p>
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 </p> 
-<!-- p>
-Copyright © 2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
-</p -->
+<p>
+Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+</p>
 
 <p></p>
 </div>
 
 <script type="text/javascript">
 $j('#description').jTruncate({ 
-length: 10000
+length: 50000
 });
 </script>
 </div>
@@ -713,7 +746,7 @@ length: 10000
 <div class="noindex" id="gft">
 <div class="gft-row" id="gft-search">
 <a href="/" id="gft-search-logo">
-<img src="/sitewide/images/u/logo-mtv-white-small.gif" alt="MTV HOME">
+<span class="mtv-logo">MTV Logo: </span>
 </a>
 <div id="searchmtvF">
 <form name="searchF" action="/search/" method="get">
@@ -735,6 +768,9 @@ length: 10000
 <a href="http://buzzworthy.mtv.com/">Buzzworthy Blog</a>
 </li>
 <li>
+<a href="http://clutch.mtv.com/">Guys Blog</a>
+</li>
+<li>
 <a href="http://hollywoodcrush.mtv.com/">Hollywood Crush</a>
 </li>
 <li>
@@ -742,6 +778,9 @@ length: 10000
 </li>
 <li>
 <a href="http://hatsblog.mtv.com/">MTV Hats Blog</a>
+</li>
+<li>
+<a href="http://style.mtv.com/">MTV Style</a>
 </li>
 <li>
 <a href="http://multiplayerblog.mtv.com/">Multiplayer Blog</a>
@@ -792,9 +831,6 @@ length: 10000
 <a href="http://www.facebook.com/MTV">MTV On Facebook</a>
 </li>
 <li>
-<a href="http://www.mtv.com/toolbar/main/home/download.jhtml?xrs=toolbar_footer_1">Download MTV Toolbar For Your Browser</a>
-</li>
-<li>
 <a href="http://twitter.com/MTV">MTV On Twitter</a>
 </li>
 <li>
@@ -811,7 +847,7 @@ length: 10000
 </li>
 </ul>
 <ul class="gft-col">
-<li class="gft-col-header">FEEDBACK</li>
+<li class="gft-col-header">FEEDBACK / HELP</li>
 <li>
 <a href="http://community.mtv.com/Content/Discussions/DiscussionResults.aspx?tcid=22916">Site Feedback</a>
 </li>
@@ -824,14 +860,17 @@ length: 10000
 <li>
 <a href="http://community.mtv.com/Content/Discussions/DiscussionResults.aspx?tcid=22920">Technical Support</a>
 </li>
+<li>
+<a href="/sitewide/legal/tips_and_resources.jhtml">Dealing With An Issue? Get Help Now</a>
+</li>
 </ul>
 <ul class="gft-col">
 <li class="gft-col-header">TERMS / POLICY</li>
 <li>
-<a href="/sitewide/legal/terms.jhtml">Terms of Use</a>
+<a href="/sitewide/legal/terms.jhtml">Terms of Use - Updated 9/28/10</a>
 </li>
 <li>
-<a href="/sitewide/legal/privacy.jhtml">Privacy Policy / Your CA Privacy Rights</a>
+<a href="/sitewide/legal/privacy.jhtml">Privacy Policy / Your CA Privacy Rights - Updated 9/10/10</a>
 </li>
 <li>
 <a href="/sitewide/legal/copyright_compliance.jhtml">Copyright Compliance Policy</a>
@@ -869,6 +908,11 @@ length: 10000
 </ul>
 </div>
 </div>
+<div class="gft-row" id="gft-sponsors">
+<div class="gft-row-subrow">
+<div class="gft-row-header">SPONSORS</div>AD: <script type="text/javascript">mtvn.btg.Controller.placeAd({size:'1x4'});</script>
+</div>
+</div>
 <div class="gft-row" id="gft-network">
 <div class="gft-row-header">MORE FROM MTV NETWORKS</div>
 <div class="gft-row-subrow">
@@ -884,16 +928,16 @@ length: 10000
 <a href="http://www.cmt.com/artists/az/paisley_brad/artist.jhtml">Brad Paisley</a>
 </li>
 <li>
-<a href="http://www.vh1.com/music/you_oughta_know/the_script/main.jhtml">The Script</a>
+<a href="http://www.vh1.com/artists/az/bruno_mars/artist.jhtml">Bruno Mars</a>
 </li>
 <li>
 <a href="http://www.mtv.com/music/artist/aguilera_christina/artist.jhtml">Christina Aguilera</a>
 </li>
 <li>
-<a href="http://www.cmt.com/artists/az/johnson_jamey/artist.jhtml">Jamey Johnson</a>
+<a href="http://www.vh1.com/music/you_oughta_know/grace_potter_and_the_nocturnals/main.jhtml">Grace Potter</a>
 </li>
 <li>
-<a href="http://www.vh1.com/music/you_oughta_know/angel_taylor/main.jhtml">Angel Taylor</a>
+<a href="http://www.cmt.com/artists/az/johnson_jamey/artist.jhtml">Jamey Johnson</a>
 </li>
 <li>
 <a href="http://www.cmt.com/artists/az/lady_antebellum/artist.jhtml">Lady Antebellum</a>
@@ -914,7 +958,7 @@ length: 10000
 <a href="http://www.cmt.com/artists/az/swift__taylor/artist.jhtml">Taylor Swift</a>
 </li>
 <li>
-<a href="http://www.mtvtr3s.com/music/artist/wisin_yandel/artist.jhtml">Wisin Y Yandel</a>
+<a href="http://www.tr3s.com/music/artists/wisin--yandel/">Wisin Y Yandel</a>
 </li>
 <li>
 <a href="http://www.cmt.com/video/music-videos/">Country Music Videos</a>
@@ -923,7 +967,25 @@ length: 10000
 <ul class="gft-col">
 <li class="gft-col-header">Shows</li>
 <li>
+<a href="http://www.mtv.com/news/topic/american_idol/">American Idol</a>
+</li>
+<li>
 <a href="http://remotecontrol.mtv.com/tag/audrina-patridge/">Audrina Patridge</a>
+</li>
+<li>
+<a href="http://www.vh1.com/shows/a_family_business/season_2/series.jhtml">Brandy and Ray J</a>
+</li>
+<li>
+<a href="http://www.vh1.com/shows/bret_michaels_life_as_i_know_it/series.jhtml">Bret Michaels</a>
+</li>
+<li>
+<a href="http://www.vh1.com/shows/celebrity_rehab_with_dr_drew/season_4/series.jhtml">Celebrity Rehab</a>
+</li>
+<li>
+<a href="http://www.vh1.com/shows/events/critics_choice/_2011">Critics' Choice</a>
+</li>
+<li>
+<a href="http://www.vh1.com/shows/fantasia_for_real/season_2/series.jhtml">Fantasia</a>
 </li>
 <li>
 <a href="http://remotecontrol.mtv.com/tag/kristin-cavallari/">Kristin Cavallari</a>
@@ -932,31 +994,19 @@ length: 10000
 <a href="http://remotecontrol.mtv.com/tag/lauren-conrad/">Lauren Conrad</a>
 </li>
 <li>
-<a href="http://remotecontrol.mtv.com/tag/whitney-port/">Whitney Port</a>
-</li>
-<li>
-<a href="http://www.vh1.com/shows/what_chilli_wants/series.jhtml">Chilli</a>
-</li>
-<li>
-<a href="http://www.vh1.com/shows/bret_michaels_life_as_i_know_it/series.jhtml">Bret Michaels</a>
-</li>
-<li>
-<a href="http://www.vh1.com/shows/a_family_business/series.jhtml">Brandy &amp; Ray J</a>
-</li>
-<li>
-<a href="http://www.mtv.com/news/topic/american_idol/">American Idol</a>
-</li>
-<li>
 <a href="http://www.afterellen.com/">Lesbian TV</a>
 </li>
 <li>
-<a href="http://www.vh1.com/shows/the_to_show/series.jhtml">Terrell Owens</a>
+<a href="http://www.vh1.com/shows/mario_lopez_saved_by_the_baby/series.jhtml">Mario Lopez</a>
+</li>
+<li>
+<a href="http://remotecontrol.mtv.com/tag/whitney-port/">Whitney Port</a>
 </li>
 </ul>
 <ul class="gft-col">
 <li class="gft-col-header">News</li>
 <li>
-<a href="http://www.mtv.com/news/latest/celebrity.jhtml">Celebrity News</a>
+<a href="http://www.thefablife.com">Celebrity News</a>
 </li>
 <li>
 <a href="http://newsroom.mtv.com/category/top_categories/concerts/">Concert Reviews</a>
@@ -989,16 +1039,25 @@ length: 10000
 <ul class="gft-col">
 <li class="gft-col-header">Entertainment</li>
 <li>
+<a href="http://www.addictinggames.com/">Games</a>
+</li>
+<li>
 <a href="http://www.tripoutgaytravel.com/">Gay Travel</a>
 </li>
 <li>
 <a href="http://www.LogoTV.com/">Gay Video</a>
 </li>
 <li>
-<a href="http://www.bestweekever.tv/tag/lost-recap/">Lost Recap</a>
+<a href="http://www.thefablife.com/tag/kristen-stewart-photos">Kristen Stewart Photos</a>
 </li>
 <li>
 <a href="http://www.thefablife.com/tag/lady-gaga-outfits/">Lady Gaga Outfits</a>
+</li>
+<li>
+<a href="http://www.bestweekever.tv/tag/lost-recap/">Lost Recap</a>
+</li>
+<li>
+<a href="http://www.shockwave.com/">Online Games</a>
 </li>
 <li>
 <a href="http://www.thefablife.com/tag/rihanna-fashion/">Rihanna Fashion</a>
@@ -1007,7 +1066,7 @@ length: 10000
 <a href="http://www.thefablife.com/tag/robert-pattinson-photos">Robert Pattinson Photos</a>
 </li>
 <li>
-<a href="http://www.thefablife.com/tag/kristen-stewart-photos">Kristen Stewart Photos</a>
+<a href="http://www.jokes.com/">Stand-Up Comedy</a>
 </li>
 <li>
 <a href="http://remotecontrol.mtv.com/">TV Gossip</a>
@@ -1016,7 +1075,10 @@ length: 10000
 <a href="http://www.bestweekever.tv/tag/viral-videos/">Viral Videos</a>
 </li>
 <li>
-<a href="http://www.addictinggames.com/">Games</a>
+<a href="http://www.indecisionforever.com/">2010 Election Political Humor</a>
+</li>
+<li>
+<a href="http://www.rockband.com">Rock Band</a>
 </li>
 </ul>
 <ul class="gft-col">
@@ -1037,7 +1099,7 @@ length: 10000
 <a href="http://hollywoodcrush.mtv.com/category/twilight-categories/">Robert Pattinson</a>
 </li>
 <li>
-<a href="http://www.nextmovie.com/">Next Movie</a>
+<a href="http://www.nextmovie.com/">NextMovie</a>
 </li>
 </ul>
 </div>
@@ -1058,12 +1120,12 @@ length: 10000
 </div>
 <div id="gft-mtvnetworks">
 <div id="gft-logo">
-<img width="136" height="24" border="0" src="/widgets/assets/mtvn.gif" alt="MTV Networks">
+<span class="mtv-logo-wide">MTV Logo: </span>
 </div>
 <div id="gft-copy">© 2010 MTV Networks, © and ™ MTV Networks. All Rights Reserved.</div>
 </div>
 </div>
-<div id="nav" class="globalNav noindex">
+<div id="nav" class="noindex globalNav">
 <div id="memberbar">
 <div class="memberbarlinks">
 <a href="http://www.mtv.com" class=" first">Home</a>
@@ -1095,7 +1157,7 @@ length: 10000
 </ul>
 </li>
 </ul>
-<a href="http://www.mtv.com/ontv/movieawards/2010/" class=" last">2010 Movie Awards</a>
+<a href="http://www.mtv.com/geek/" class=" last">MTV Geek!</a>
 </div>
 <div class="fluxWidget" id="wQuickMenu">
 <code class="hide"><!--{"widget": "QuickMenu", "args":{"containerId":"wQuickMenu", "contentUri": "http://www.mtv.com"}}--></code>
@@ -1132,6 +1194,9 @@ mtv
 <li class="">
 <a href="/mobile/">mobile</a>
 </li>
+<li class="">
+<a href="http://shop.mtv.com/?utm_source=mtv:siteintegration:topnav">shop</a>
+</li>
 </ul>
 <ul id="navlist">
 <li id="n-music" class="toplvl">
@@ -1153,16 +1218,13 @@ mtv
 <a onclick="MTVN.UI.Tab.open(this); return false;" href="/news/#music/">Music News</a>
 </li>
 <li>
-<a href="/music/radio/">Radio</a>
+<a href="/music/radio/index.jhtml">Radio</a>
 </li>
 <li>
 <a href="/lyrics/">Lyrics</a>
 </li>
 <li>
-<a href="http://community.mtvmusic.com/top100/" target="_blank">Video Charts</a>
-</li>
-<li>
-<a href="/toolbar/main/home/download.jhtml?xrs=toolbar_header_music">One-Click Access To Video Premieres</a>
+<a href="/music/videos/">Music Video Charts</a>
 </li>
 <li class="azBrowserHeader">
 <a href="/music/artists/browse.jhtml?chars=a">Artists A-Z</a>
@@ -1246,13 +1308,10 @@ mtv
 <a href="http://buzzworthy.mtv.com/category/push/">PUSH: Artist Of The Week</a>
 </li>
 <li>
-<a href="/music/posted/all-time-low/">All Time Low: Posted</a>
+<a href="/music/posted/best-of-2010/">Posted</a>
 </li>
 <li>
 <a href="/videos/?id=1611126">The 5: Artist Interviews</a>
-</li>
-<li>
-<a href="/music/discover_download/">Discover &amp; Download: New Artists</a>
 </li>
 <li>
 <a href="/music/photos/">Exclusive Artist Photos</a>
@@ -1263,25 +1322,22 @@ mtv
 <span>Specials</span>
 </li>
 <li>
-<a href="/shows/spring_break/2010/series.jhtml">Spring Break 2010</a>
+<a href="/specials/best_of/2010/">Best Of 2010</a>
 </li>
 <li>
-<a href="/specials/hope-for-haiti-now/">Hope For Haiti Now</a>
-</li>
-<li>
-<a href="/music/the_leak/">The Leak: Full Album Previews</a>
-</li>
-<li>
-<a href="/music/unplugged/">MTV Unplugged</a>
+<a href="/shows/ema/series.jhtml">EMA</a>
 </li>
 <li>
 <a href="/ontv/vma/">Video Music Awards</a>
 </li>
 <li>
-<a href="http://www.mtv.com/ontv/woodieawards/2009/" target="_blank">mtvU Woodie Awards</a>
+<a href="/music/live_in_nyc/main.jhtml">Live In NYC</a>
 </li>
 <li>
-<a href="/specials/best_of/2009/">Best Of 2009</a>
+<a href="/music/unplugged/">MTV Unplugged</a>
+</li>
+<li>
+<a href="http://www.mtv.com/ontv/woodieawards/" target="_blank">mtvU Woodie Awards</a>
 </li>
 </ul>
 <ul class="centerCol">
@@ -1362,9 +1418,6 @@ mtv
 <a href="http://remotecontrol.mtv.com">MTV Shows Gossip Blog</a>
 </li>
 <li>
-<a href="http://soundtrack.mtv.com">Music in Shows</a>
-</li>
-<li>
 <a href="/ontv/photos/">Show Photos</a>
 </li>
 <li>
@@ -1372,9 +1425,6 @@ mtv
 </li>
 <li>
 <a href="http://shop.mtv.com/content/Shows.htm?utm_source=mtv:site:topnav:shows" target="_blank">Shop MTV Shows</a>
-</li>
-<li>
-<a href="/toolbar/main/home/download.jhtml?xrs=toolbar_header_shows">One-Click Access to Full Episodes </a>
 </li>
 </ul>
 <ul class="centerCol wide">
@@ -1392,10 +1442,13 @@ mtv
 <a href="/ontv/dyn/dance_crew/series.jhtml">America's Best Dance Crew</a>
 </li>
 <li>
-<a href="/shows/buried_life/series.jhtml">The Buried Life</a>
+<a href="/shows/bully_beatdown/season_3/series.jhtml">Bully Beatdown</a>
 </li>
 <li>
-<a href="/shows/rwrr_challenge/fresh_meat_2/series.jhtml">The Challenge: Fresh Meat II</a>
+<a href="/shows/buried_life/season_2/series.jhtml">The Buried Life</a>
+</li>
+<li>
+<a href="/shows/rwrr_challenge/cutthroat/series.jhtml">The Challenge: Cutthroat</a>
 </li>
 <li>
 <a href="/shows/the-city/series.jhtml">The City</a>
@@ -1407,21 +1460,21 @@ mtv
 <a href="/shows/disaster_date/series.jhtml">Disaster Date</a>
 </li>
 <li>
-<a href="/shows/downtown_girls/series.jhtml">Downtown Girls</a>
-</li>
-</ul>
-<ul>
-<li>
 <a href="/shows/hard_times/series.jhtml">The Hard Times Of RJ Berger</a>
 </li>
 <li>
 <a href="/shows/the_hills/series.jhtml">The Hills</a>
 </li>
-<li>
-<a href="/shows/hired/series.jhtml">MTV's Hired</a>
-</li>
+</ul>
+<ul>
 <li>
 <a href="/shows/if_you_really_knew_me/series.jhtml">If You Really Knew Me</a>
+</li>
+<li>
+<a href="/shows/is_she_really/series.jhtml">Is She Really Going Out With Him?</a>
+</li>
+<li>
+<a href="/shows/i_used_to_be_fat/series.jhtml">I Used To Be Fat</a>
 </li>
 <li>
 <a href="/shows/jersey_shore/series.jhtml">Jersey Shore</a>
@@ -1430,25 +1483,28 @@ mtv
 <a href="/shows/made/series.jhtml">MADE</a>
 </li>
 <li>
+<a href="/shows/megadrive/series.jhtml">Megadrive</a>
+</li>
+<li>
+<a href="/shows/moving_in/series.jhtml">Moving In</a>
+</li>
+<li>
 <a href="/ontv/shorts/">MTV Shorts</a>
 </li>
 <li>
 <a href="/music/unplugged/">MTV Unplugged</a>
 </li>
 <li>
-<a href="/shows/parkour/series.jhtml">MTV's Ultimate Parkour Challenge</a>
-</li>
-<li>
 <a href="/shows/mylifeasliz/series.jhtml">My Life As Liz</a>
 </li>
-</ul>
-<ul>
 <li>
 <a href="/shows/parental_control/series.jhtml">Parental Control</a>
 </li>
 <li>
 <a href="/shows/pranked/series.jhtml">Pranked</a>
 </li>
+</ul>
+<ul>
 <li>
 <a href="/shows/real_world/neworleans2/series.jhtml">Real World: New Orleans</a>
 </li>
@@ -1456,22 +1512,34 @@ mtv
 <a href="/ontv/dyn/fantasy_factory/series.jhtml">Rob Dyrdek's Fantasy Factory</a>
 </li>
 <li>
+<a href="/shows/the_seven/series.jhtml">The Seven</a>
+</li>
+<li>
 <a href="/ontv/dyn/silent_library/series.jhtml">Silent Library</a>
+</li>
+<li>
+<a href="/shows/skins/series.jhtml">Skins</a>
 </li>
 <li>
 <a href="/ontv/dyn/teen_cribs/series.jhtml">Teen Cribs</a>
 </li>
 <li>
-<a href="/shows/teen_mom/season_1/series.jhtml">Teen Mom</a>
+<a href="/shows/teen_mom/season_2/series.jhtml">Teen Mom</a>
+</li>
+<li>
+<a href="/shows/teen_mom_2/season_1/series.jhtml">Teen Mom 2</a>
 </li>
 <li>
 <a href="/shows/truelife/series.jhtml">True Life</a>
 </li>
 <li>
-<a href="/shows/warren_the_ape/series.jhtml">Warren the Ape</a>
+<a href="/shows/vice_guide_to_everything/series.jhtml">The Vice Guide To Everything</a>
 </li>
 <li>
 <a href="/shows/when_i_was_17/series.jhtml">When I Was 17</a>
+</li>
+<li>
+<a href="/shows/world_of_jenks/series.jhtml">World Of Jenks</a>
 </li>
 <li class="allshowsLabel">
 <a href="/ontv/all/" class=" allshows">
@@ -1485,19 +1553,31 @@ All Shows
 <span>specials</span>
 </li>
 <li>
+<a href="/shows/ema/series.jhtml">2010 EMA</a>
+</li>
+<li>
 <a href="/ontv/movieawards/2010/">2010 Movie Awards</a>
+</li>
+<li>
+<a href="/ontv/vma/2010/">2010 Video Music Awards</a>
+</li>
+<li>
+<a href="/specials/best_of/2010/">Best of 2010</a>
 </li>
 <li>
 <a href="/specials/hope-for-haiti-now/">Hope For Haiti Now</a>
 </li>
 <li>
-<a href="/ontv/woodieawards/2009/">mtvU Woodie Awards</a>
+<a href="/ontv/woodieawards/">mtvU Woodie Awards</a>
 </li>
 <li>
-<a href="/shows/spring_break/2010/series.jhtml">Spring Break 2010</a>
+<a href="/shows/psycho_16_2/series.jhtml">My Super Psycho Sweet 16 Part 2</a>
 </li>
 <li>
-<a href="/shows/summit_on_the_summit/series.jhtml">Summit on the Summit</a>
+<a href="/shows/no_easy_decision/series.jhtml">No Easy Decision</a>
+</li>
+<li>
+<a href="/shows/spring_break/2010/series.jhtml">Spring Break</a>
 </li>
 <li>
 <a href="/ontv/vma/">Video Music Awards</a>
@@ -1518,9 +1598,6 @@ All Shows
 </li>
 <li>
 <a href="/shows/daria/series.jhtml">Daria</a>
-</li>
-<li>
-<a href="/ontv/dyn/jackass/series.jhtml">Jackass World</a>
 </li>
 <li>
 <a href="/shows/laguna_beach/season_1/series.jhtml">Laguna Beach</a>
@@ -1562,16 +1639,13 @@ All Shows
 <a href="/news/">News Main</a>
 </li>
 <li>
-<a href="http://twitter.com/mtvnews" target="_blank">MTV News On Twitter</a>
+<a href="http://www.facebook.com/mtvnews" target="_blank">MTV News On Facebook</a>
 </li>
 <li>
 <a href="/news/video/">Video News &amp; Interviews</a>
 </li>
 <li>
-<a href="http://bit.ly/bNlehX" target="_blank">Get The MTV News iPhone App</a>
-</li>
-<li>
-<a href="/toolbar/main/home/download.jhtml?xrs=toolbar_header_news">One-Click Access to Breaking MTV News</a>
+<a href="http://exodus.mtv.com/site/signup">MTV News Daily Newsletter</a>
 </li>
 </ul>
 <ul class="centerCol">
@@ -1607,6 +1681,9 @@ All Shows
 <li>
 <a href="http://newsroom.mtv.com/category/top_categories/behind-the-scenes/">Behind The Scenes</a>
 </li>
+<li>
+<a href="http://newsroom.mtv.com/category/top_categories/television/">Television</a>
+</li>
 </ul>
 <ul class="centerCol">
 <li class="first">
@@ -1636,9 +1713,6 @@ All Shows
 <a href="/news/correspondents/kash/">Tim Kash</a>
 </li>
 <li>
-<a href="/news/correspondents/loder/">Kurt Loder</a>
-</li>
-<li>
 <a href="/news/correspondents/sway/">Sway</a>
 </li>
 </ul>
@@ -1663,38 +1737,72 @@ All Shows
 <a href="/movies/photo/">Red Carpet &amp; On Set Photos</a>
 </li>
 <li>
-<a href="/toolbar/main/home/download.jhtml?xrs=toolbar_header_movies">One-Click Access to HD Movie Trailers</a>
+<a href="http://exodus.mtv.com/site/signup">Movies Insider Newsletter</a>
 </li>
 </ul>
 <ul class="centerCol">
 <li class="first">
-<span>trailers &amp; reviews</span>
+<span>news &amp; video</span>
+</li>
+<li>
+<a href="/movies/features_interviews/morevideo.jhtml">Interviews</a>
 </li>
 <li>
 <a href="/movies/trailer_park/">Trailers</a>
 </li>
+<li id="newsMain3Tab">
+<a onclick="MTVN.UI.Tab.open(this); return false;" href="/news/#movie">Movie News</a>
+</li>
+</ul>
+<ul class="centerCol">
+<li class="first">
+<span>movies blog</span>
+</li>
 <li>
-<a href="/movies/news/loder/">Kurt Loder Film Reviews</a>
+<a href="http://moviesblog.mtv.com/">Latest Posts</a>
+</li>
+<li>
+<a href="http://moviesblog.mtv.com/category/humor/">Humor</a>
+</li>
+<li>
+<a href="http://moviesblog.mtv.com/category/commentary/">Commentary</a>
+</li>
+<li>
+<a href="http://moviesblog.mtv.com/tag/harry-potter/">'Harry Potter' News</a>
+</li>
+</ul>
+<ul class="centerCol">
+<li class="first">
+<span>teen hollywood blog</span>
+</li>
+<li>
+<a href="http://hollywoodcrush.mtv.com/">Latest Posts</a>
+</li>
+<li>
+<a href="http://hollywoodcrush.mtv.com/category/twilight-categories/">'Twilight' News</a>
+</li>
+<li>
+<a href="http://hollywoodcrush.mtv.com/category/eye-candy/">Eye Candy</a>
+</li>
+<li>
+<a href="http://hollywoodcrush.mtv.com/category/loveactually/">Celebrity Couples</a>
 </li>
 </ul>
 <ul class="centerCol last">
 <li class="first">
-<span>news &amp; blogs</span>
-</li>
-<li id="newsMain3Tab">
-<a onclick="MTVN.UI.Tab.open(this); return false;" href="/news/#movie">Movies News</a>
+<span>comic movies blog</span>
 </li>
 <li>
-<a href="http://moviesblog.mtv.com">Movies Blog</a>
+<a href="http://splashpage.mtv.com/">Latest Posts</a>
 </li>
 <li>
-<a href="http://splashpage.mtv.com">Comic Book Movies Blog</a>
+<a href="http://splashpage.mtv.com/tag/green-lantern/">'Green Lantern' News</a>
 </li>
 <li>
-<a href="http://hollywoodcrush.mtv.com/">Young Hollywood Blog</a>
+<a href="http://splashpage.mtv.com/tag/captain-america/">'Captain America' News</a>
 </li>
 <li>
-<a href="/movies/features_interviews/morevideo.jhtml">Video News &amp; Interviews</a>
+<a href="http://splashpage.mtv.com/tag/the-avengers/">'Avengers' News</a>
 </li>
 </ul>
 </div>
@@ -1709,6 +1817,14 @@ All Shows
 <button id="searchweb-btn" class="web">WEB</button>
 </form>
 </div>
+</div>
+<div id="adContainer6x6">
+<script type="text/javascript">mtvn.btg.Controller.placeAd({size:'6x6'});</script>
+</div>
+</div>
+<div id="hiddenQuickMenu" class="noindex" style="visibility: hidden; position: absolute; width: 1px; height: 1px; overflow: hidden;">
+<div class="fluxWidget" id="wQuickMenu2">
+<code class="hide"><!--{"widget": "QuickMenu", "args":{"containerId":"wQuickMenu2", "contentUri": "http://www.mtv.com"}}--></code>
 </div>
 </div>
 </div>
@@ -1752,6 +1868,10 @@ src="http://www.googleadservices.com/pagead/conversion/1052525703/?label=zh_FCJe
 </div>
 </noscript>
 
+<script type="text/javascript">
+if (jQuery.browser.safari) 
+MTV.loadFluxLibs();
+</script>
 
 
 <!-- PAGEOK -->
