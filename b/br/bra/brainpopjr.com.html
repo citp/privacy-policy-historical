@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brainpopjr.com privacy policy that was archived on 2010-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620004435id_/http%3A//www.brainpopjr.com/support/tech_support/privacy_policy.weml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainpopjr.com privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221190942id_/http%3A//www.brainpopjr.com/support/tech_support/privacy_policy.weml) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -19,25 +19,120 @@ td.grid {
 }
 </style>
  
-<script language="JavaScript" src="/js/show_embed.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" src="/js/show_embed.js" type="text/javascript"></script>
 
 <!-- google analytics -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-1890016-1";
-_userv=2;
-urchinTracker();
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1890016-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 <!-- google analytics -->
+
 </head>
 <body bgcolor="#FFCC66" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" vlink="#000000" link="#000000" alink="#000000">
-<br> <table align="center" border="0" cellpadding="0" cellspacing="0" width="620">
+<br> <script src="http://limelight.brainpopjr.com/js/jquery-1.4.2.min.js" type="text/javascript"></script> 
+	<link rel="stylesheet" href="http://limelight.brainpopjr.com/js/jquery.generic.autocomplete.css" type="text/css">
+	<script src="http://limelight.brainpopjr.com/js/jquery.autocomplete.js" type="text/javascript"></script>
+	<script src="http://limelight.brainpopjr.com/js/jquery.corner.js" type="text/javascript"></script>
+	
+	<form name="frm_search" action="/search/" style="display: none;">
+	<input type="hidden" id="keyword" name="keyword">
+	</form>
+	<form name="frm_login" action="/user/loginDo.weml" style="display: none;">
+		<input type="hidden" id="username" name="username">
+		<input type="hidden" id="password" name="password">
+		<input type="hidden" id="refer" name="refer" value="/support/tech_support/privacy_policy.weml">
+	</form>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+    	$.ajax({
+    		url: "/topic_keywords.txt",
+    		async: false,
+    		success: function(html){
+    			
+    			$("#ckeyword").autocomplete(html.split("^"), {selectFirst : false} );
+    		}
+    	});
+
+    	$('#ckeyword').keyup(function(e) {
+    		if(e.keyCode == 13) {
+    			$("#csearch").trigger("click");
+    		}
+    	});
+    	
+    	$('#cusername').keyup(function(e) {
+    		if(e.keyCode == 13) {
+    			$("#clogin").trigger("click");
+    		}
+    	});
+    	
+    	$('#cpassword').keyup(function(e) {
+    		if(e.keyCode == 13) {
+    			$("#clogin").trigger("click");
+    		}
+    	});
+    	
+    	$("#csearch").click(function(event){
+        	if(jQuery.trim($('#ckeyword').val())!=''){
+        		$('#keyword').val($('#ckeyword').val());
+        		document.frm_search.submit();
+    		}
+        });
+        
+        $("#clogin_link").click(function(event){
+        	$("#search_mode").hide();
+        	$("#login_mode").fadeIn(1500);
+        });
+        
+        $("#clogin").click(function(event){
+        	if((jQuery.trim($('#cusername').val())!='')&&(jQuery.trim($('#cpassword').val())!='')){
+        		$('#username').val($('#cusername').val());
+        		$('#password').val($('#cpassword').val());
+        		document.frm_login.submit();
+    		}
+        });
+
+    	$("#ckeyword").focus();
+	$(".login_bar_button").corner();
+    });
+</script>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="620">
 <tbody><tr>
- 
-<td colspan="17" align="left" height="" valign="bottom">
-	<script type="text/javascript">show_flash("/login_manager.swf","620","22","&loggedIn=false&refer=/support/tech_support/&colorBG=%23ffcc66&colorLight=%23993300&field_outline=%23a4b97f&logout_url=/user/logout.weml&login_link=/user/loginDo.weml&search_link=/search/index.weml&account_url=/user/&");</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20061018150257/http://active.macromedia.com/flash2/cabs/swflash.cab#version=3,0,0,0" id="ECHOECHO" width="620" height="22"><param name="movie" value="https://web.archive.org/web/20061018150257/http://limelight.brainpopjr.com/login_manager.swf"><param name="bgcolor" value="#FFFFFF"><param name="quality" value="AUTOLOW"><param name="play" value="true"><param name="wmode" value="transparent"><param name="menu" value="false"><param name="flashvars" value="&amp;loggedIn=false&amp;refer=/support/tech_support/&amp;colorBG=%23ffcc66&amp;colorLight=%23993300&amp;field_outline=%23a4b97f&amp;logout_url=/user/logout.weml&amp;login_link=/user/loginDo.weml&amp;search_link=/search/index.weml&amp;account_url=/user/&amp;"><embed src="https://web.archive.org/web/20061018150257/http://limelight.brainpopjr.com/login_manager.swf" bgcolor="#FFFFFF" swliveconnect="FALSE" width="620" height="22" quality="AUTOLOW" menu="false" play="true" flashvars="&amp;loggedIn=false&amp;refer=/support/tech_support/&amp;colorBG=%23ffcc66&amp;colorLight=%23993300&amp;field_outline=%23a4b97f&amp;logout_url=/user/logout.weml&amp;login_link=/user/loginDo.weml&amp;search_link=/search/index.weml&amp;account_url=/user/&amp;" wmode="transparent" type="application/x-shockwave-flash" pluginspage="https://web.archive.org/web/20061018150257/http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
+<td width="18" height="3"><img border="0" src="http://limelight.brainpopjr.com/grid/space.gif" width="18" height="3"></td> 
+<td colspan="15" valign="bottom">
+<div id="search_mode" style="text-align: center; width: 584px;">
+	<table class="login_bar" cellspacing="0" cellpadding="0">
+		<tbody><tr>		
+			
+				<td align="left" class="login_bar_button" style="width: 80px;"><a href="#" id="clogin_link" class="login_bar">log in</a></td>
+			
+			<td align="right" class="login_bar" style="padding-right: 10px;"><span style="padding-right:5px;">search</span><input type="text" id="ckeyword" class="login_bar"></td><td>
+			</td><td align="right" class="login_bar_button" style="width: 40px; padding-bottom: 2px;"><a class="login_bar" href="#" id="csearch">go</a></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div id="login_mode" style="display: none; width: 584px;">
+	<table class="login_bar" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="login_bar">username:</td>
+			<td class="login_bar"><input class="login_bar" type="text" id="cusername"></td>
+			<td class="login_bar">password: </td>
+			<td class="login_bar"><input class="login_bar" type="password" id="cpassword"></td>
+			<td class="login_bar_button" style="width: 40px; padding-bottom: 2px;"><a href="#" id="clogin" class="login_bar">go</a></td>
+		</tr>
+	</tbody></table>
+</div>
 </td>
+<td width="18" height="3"><img border="0" src="http://limelight.brainpopjr.com/grid/space.gif" width="18" height="3"></td> 
 </tr>
 <tr>
 	<td width="18" height="5"><img border="0" src="http://limelight.brainpopjr.com/grid/space.gif" width="18" height="5"></td>
@@ -58,7 +153,7 @@ urchinTracker();
 	 <td width="3" height="5"><img border="0" src="http://limelight.brainpopjr.com/grid/space.gif" width="3" height="5"></td>
 	 <td width="18" height="5"><img border="0" src="http://limelight.brainpopjr.com/grid/space.gif" width="18" height="5"></td>
 </tr>
-
+ 
 <style type="text/css">
 td.grid {
 	background-color: #FF9900;
