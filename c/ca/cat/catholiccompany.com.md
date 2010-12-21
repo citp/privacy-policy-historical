@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catholiccompany.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421090923id_/http%3A//www.catholiccompany.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholiccompany.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221113614id_/http%3A//www.catholiccompany.com/privacy.cfm) for the most accurate reproduction.*
 
-# Shop CatholicCompany.com Catholic Store for all your Catholic needs. First Communion Gifts, Catholic gifts, Catholic bibles, Catholic books, rosaries, Catholic Bibles and more.
+# Privacy Policy | The Catholic Company
 
 Thank you for visiting The Catholic Company. The Catholic Company follows a strict privacy policy that keeps your personal information safe. This privacy policy tells you how we use personal information collected at this site. We are committed to protecting your privacy at The Catholic Company. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.   
 
@@ -24,7 +24,7 @@ We do not share your email address with anyone. We may, on limited occasion, sha
 
 **Third Parties**
 
-The Catholic Company uses third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! [_click here_](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).   
+The Catholic Company uses third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! [_click here_](http://info.yahoo.com/privacy/us/yahoo/webbeacons/).   
 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. Our Privacy Policy was updated on September 15, 2009.
