@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flvpro.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520050733id_/http%3A//www.flvpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvpro.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221102950id_/http%3A//www.flvpro.com/privacy.html) for the most accurate reproduction.*
 
-# FLVDirect
+# FLV Pro
 
 **Version 1.0 (February 2, 2009)**
 
