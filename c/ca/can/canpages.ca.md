@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canpages.ca privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330143645id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canpages.ca privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221034220id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.*
 
 # Canpages
 
