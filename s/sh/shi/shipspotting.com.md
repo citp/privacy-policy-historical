@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the shipspotting.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618141747id_/http%3A//www.shipspotting.com/modules/pico/index.php%3Fcontent_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipspotting.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221020846id_/http%3A//shipspotting.com/about/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy : Ship Photos - AIS - Free Membership - The worlds largest archive
+# Privacy Policy - ShipSpotting.com - Ship Photos and Ship Tracker
 
-**Privacy**
-
+**Privacy**  
 Your privacy is important to us. Please take a moment to read through our Privacy Policy that will tell you a bit about how we handle the information you supply and what other information we collect. 
 
 General for all information submitted to Shipspotting is that we will never release name or other personal information about a Member without the permission of that Member. We reserve the right to distribute aggregated demographic information provided by Members. 
@@ -13,7 +12,7 @@ In the registration process you submit personal data. This is called Personally 
 
 We also collect what is called Anonymous Information, exemplified by your IP address, the type of browser you use, the pages on our Sites that you have visited, and the advertisements that you have clicked on. WE DO NOT match your Personally Identifiable Information to your Anonymous Information. What you do and where you go is your business only. We use this aggregated information solely to be able to optimize the website based on how our visitors use it.
 
- **Cookies**  
+**Cookies**  
 Like many Internet sites, we also use cookies. We do this to better support services for registered users and to collect statistics on how our website is used. A cookie is a small data file that we transfer to your computer and is stored on your hard drive. When you visit our Site(s) the cookie identifies your computer to us so that you do not have to re-register each time you visit. We may also use cookies to measure the traffic to our Sites and the use of different services and features of the Sites. 
 
 Advertisers that appear on Shipspotting may place cookies on your computer and their use of the information stored on those cookies is subject to their own privacy policies. You should visit their sites to learn about their information practices. Advertisers or other companies do not have access to Shipspotting cookies.
@@ -40,4 +39,4 @@ The exchange between Shipspotting and the Member of information such as password
 Communication  
 Postings and other communications with Shipspotting are not private and may be published and edited at the discretion of Shipspotting unless specifically instructed otherwise.
 
- **We hope that you will enjoy our service.**
+**We hope that you will enjoy our service.**
