@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culvers.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326070528id_/http%3A//www.culvers.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culvers.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221102804id_/http%3A//www.culvers.com/legal.aspx) for the most accurate reproduction.*
 
 # Culvers: Experience fresh, delicious food served with a great big side of friendly smiles and warm hospitality.
 
@@ -6,7 +6,7 @@ Culver Franchising System, Inc. respects your privacy. We have provided this Pri
 
 Our goal is to make the site fun and interactive for both kids and parents. TeamScoopie.com allows us to provide kids with interactive games, menus, and coloring sheets, as well as games and activities for kids to enjoy offline. These games and activities may be updated from time to time. Because the visitors to TeamScoopie.com are primarily under 13, we ensure that the content is appropriate for this audience. 
 
-We encourage parents to monitor their children’s online activities. Please instruct your children never to give out their names, addresses, phone numbers or e-mail addresses to anyone on the web without your permission. This site complies with the Children’s Online Privacy Protection Act (COPPA), which governs information collected from children under 13. For more information about COPPA or children’s privacy, please visit <http://www.ftc.gov/kidzprivacy>. 
+We encourage parents to monitor their children’s online activities. Please instruct your children never to give out their names, addresses, phone numbers or e-mail addresses to anyone on the web without your permission. This site complies with the Children’s Online Privacy Protection Act (COPPA), which governs information collected from children under 13. For more information about COPPA or children’s privacy, please visit <http://www.onguardonline.gov/topics/kids-privacy.aspx>. 
 
 ### Collecting Information
 
