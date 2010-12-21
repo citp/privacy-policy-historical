@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotiveforums.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104025501id_/http%3A//www.automotiveforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotiveforums.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221120150id_/http%3A//www.automotiveforums.com/privacy.php) for the most accurate reproduction.*
 
 # AutomotiveForums.com - Privacy Statement
 
