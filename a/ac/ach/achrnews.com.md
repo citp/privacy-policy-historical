@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619091744id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221120105id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - HTML - BNP Media
 
@@ -13,7 +13,7 @@
   [Custom Media](http://custommedia.bnpmedia.com/)  
   [About BNP Media](https://web.archive.org/HTML/b485b8896fbcd010VgnVCM100000f932a8c0____)  
   [List Rental](https://web.archive.org/listrental)  
-  [Subscription Rates](https://web.archive.org/web/20100619091744id_/http://www.bnpmedia.com/HTML/523067c1575fd010VgnVCM100000f932a8c0____)  
+  [Subscription Rates](https://web.archive.org/web/20101221120105id_/http://www.bnpmedia.com/HTML/523067c1575fd010VgnVCM100000f932a8c0____)  
   [Back Issues](https://web.archive.org/HTML/523067c1575fd010VgnVCM100000f932a8c0____#backissues)  
   
 BNP MEDIA PRIVACY POLICY  
