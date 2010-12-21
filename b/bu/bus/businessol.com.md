@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607084628id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221010936id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessOnLine
 
@@ -6,7 +6,7 @@ BusinessOnLine respects and protects the privacy of its customers.  Therefore, 
 
 ## Personal Information
 
-BusinessOnLine collects personal information (e.g., names, addresses, telephone numbers and email) only from visitors to our Website that fill out the BusinessOnLine “Get a Quote” Registration form.  If you fill out the Registration form, the personal information provided by you to BusinessOnLine could be used by us to process your order, to initiate contact with you regarding your request for a quote, to deliver services, process payments, update our records, and communicate with you about our services and to generally maintain your accounts with us.  We do not sell, trade or rent your personal information to third parties.   
+BusinessOnLine collects personal information (e.g., names, addresses, telephone numbers and email) only from visitors to our Website that fill out an onlone form.  If you fill out a form, the personal information provided by you to BusinessOnLine could be used by us to process your order, to initiate contact with you regarding your request for a quote, to deliver services, process payments, update our records, and communicate with you about our services and to generally maintain your accounts with us.  We do not sell, trade or rent your personal information to third parties.   
 
 ## Security Measures
 
