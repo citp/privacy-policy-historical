@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513215819id_/http%3A//www.fashionfling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfling.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001225id_/http%3A//www.fashionfling.com/privacy.php) for the most accurate reproduction.*
 
-# FashionFling: Privacy Policy
+# FashionFling.com: Privacy Policy
 
-We ([http://www.fashionfling.com](http://www.fashionfling.com/)) value and respect our visitors privacy. That is the reason why we included this privacy policy to make sure that your privacy is not being violated. If you have any questions concerning our Privacy Policy, please do not hesitate to ask! 
+** We ([http://www.fashionfling.com](http://www.fashionfling.com/)) value and respect our visitors privacy. That is the reason why we included this privacy policy to make sure that your privacy is not being violated. If you have any questions concerning our Privacy Policy, please do not hesitate to ask! 
 
 **What kind of information does FashionFling.com collect?**
 
@@ -17,3 +17,5 @@ All merchants and advertisers have their own privacy policy, and we advise you t
 **_Children_**
 
 We do not collect personal information from children under 13 without appropriate parental notice and consent. **Note: Visit<http://www.ftc.gov/kidzprivacy> for information from the Federal Trade Commission about protecting children's privacy online.**
+
+**
