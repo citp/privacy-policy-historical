@@ -1,30 +1,8 @@
-> *The following text is extracted and transformed from the quotelicious.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102204908id_/http%3A//quotelicious.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelicious.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221151836id_/http%3A//quotelicious.com/privacy.php) for the most accurate reproduction.*
 
-# QuoteLicious - Privacy Policy
+# Privacy Policy | Quotelicious.com
 
-| 
-
-  
-
-
- Quotes
-
- Celebrity
-
- TV Movie
-
- Links
-
- Misc
-
-| 
-
-  
-
-
-Privacy Policy
-
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -42,6 +20,4 @@ Most browsers are initially set up to accept cookies, but you can reset your bro
 
 However, some some features and services may not function properly if your cookies are disabled. 
 
-If you have any questions feel free to email me at: quotelicious.com@gmail.com 
-
-|  | 
+If you have any questions, send an e-mail to quotelicious.com@gmail.com 
