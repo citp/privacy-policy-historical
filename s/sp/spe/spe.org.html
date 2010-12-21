@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spe.org privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621235030id_/http%3A//www.spe.org/about/governance/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spe.org privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222001526id_/http%3A//www.spe.org/about/governance/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/sub_all.dwt.php" codeOutsideHTMLIsLocked="true" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -61,17 +61,28 @@
 		<area shape="rect" coords="704,6,876,30" href="../../industry/" alt="Industry and Technical Resources">
 		<area shape="rect" coords="886,6,964,30" href="../../about/" alt="About SPE">
 	</map>
-	<div id="srch_bar">
-		<div id="srch_bdy">
-			<form class="searchForm" name="searchForm" method="post" onsubmit=" return checkSearch()" action="/spe-app/basicSearchRD.do">
-				<input name="selectedDatabaseNames" type="hidden" id="selectedDatabaseNames" value="SPEWEB,SPEWEB_JPT,SPEWEB_MEETINGS,ConsDirDB,TSPRODDB,RPPRODDB,SHAREPOINT">
-				<label>Search</label>
-				<input name="searchText" type="text" id="searchText" size="50" maxlength="100">
-				<input name="searchSelect" type="hidden" id="searchSelect" value="0">
-				<input name="Submit" type="image" id="Submit" value="Submit" src="/img/gen/srch_go.gif" alt="Submit">
-			</form>
-		</div>
-	</div>
+	  <div id="srch_bar">
+    <div id="srch_bdy">
+      <form class="searchForm" name="searchForm" method="post" onsubmit=" return checkSearch()" action="/spe-app/basicSearchRD.do">
+        <input name="selectedDatabaseNames" type="hidden" id="selectedDatabaseNames" value="SPEWEB,SPEWEB_JPT,SPEWEB_MEETINGS,ConsDirDB,TSPRODDB,RPPRODDB,SHAREPOINT,JOURNAL,SPE, Meetings, Publications, Career, energy4me, Industry">
+        <input name="searchText" type="text" id="searchText" size="50" maxlength="100">
+        <input name="searchSelect" type="hidden" id="searchSelect" value="0">
+        <input name="Submit" type="image" id="Submit" value="Submit" src="/img/gen/btn_search.png" alt="Search">
+
+				<input id="adv_search_url_prefix" type="hidden" value="http://www.spe.org/Advanced_Search/user/home/home.jsp?param_autonomyretrieval_1_iPage=doQuery.jsp&amp;param_autonomyretrieval_1_iExpansionPath=&amp;param_autonomyretrieval_1_iParametricBrowsingValue=&amp;param_autonomyretrieval_1_iQueryText=">
+				<input id="adv_search_url_suffix" type="hidden" value="&amp;param_autonomyretrieval_1_iQueryText=&amp;param_autonomyretrieval_1_iInfoSources=Career&amp;param_autonomyretrieval_1_iInfoSources=Communities&amp;param_autonomyretrieval_1_iInfoSources=Meetings&amp;param_autonomyretrieval_1_iInfoSources=Industry&amp;param_autonomyretrieval_1_iInfoSources=OnePetro&amp;param_autonomyretrieval_1_iInfoSources=Publications&amp;param_autonomyretrieval_1_iInfoSources=SPE&amp;param_autonomyretrieval_1_iInfoSources=energy4me&amp;param_autonomyretrieval_1_iSortBy=Categories#autonomyretrieval_1queryResultsTop">
+				<img id="adv_search_btn" src="/img/gen/adv_srch.png" alt="Advanced Search" title="Advanced Search">
+        <script language="JavaScript">
+        $(function() {
+        	$('#adv_search_btn').click(function(){
+        		window.location=$('#adv_search_url_prefix').val()+$('#searchText').val()+$('#adv_search_url_suffix').val();
+        		return false;
+        	});
+        });
+        </script>
+      </form>
+    </div>
+  </div>
 	<div id="srch_sh"><img src="../../img/gen/1x1.gif" alt="spacer"></div>
 </div>
 <!-- end  -->
@@ -109,7 +120,6 @@
 		<ul>
 			<li><a href="/about/honors/spe_awards.php">International Awards</a></li>
 			<li><a href="/about/honors/regional_awards.php">Regional Awards</a></li>
-			<li><a href="/about/honors/SPE_Awards_FAQ_2010.php"> Awards FAQ</a></li>
 	  </ul>
 	</li>
 	<li><a href="../../about/media/">Media Center</a>
@@ -190,7 +200,7 @@
 		      does not make available the email addresses of SPE members or customers for
 		      non-SPE business.</p>
 		    <p>SPE makes information from its membership database available to other
-		      members through the online <a href="/mbrservices/directory/index.cfm" target="_blank">Membership Directory</a>. &nbsp;SPE’s <a href="data_use_pol.php">Data Use Policy</a> covers the use of information from the Membership Directory.</p>
+		      members through the online <a href="http://mynetwork.spe.org/formservertemplates/advancedsearch.aspx" target="_blank" class="domain_specific">Membership Directory</a>. &nbsp;SPE’s <a href="data_use_pol.php">Data Use Policy</a> covers the use of information from the Membership Directory.</p>
 		    <h3>Payment Information</h3>
 		    <p>SPE collects payment information (such as a credit card number) for the
 		      purpose of completing transactions. SPE does not disclose credit card or other
@@ -306,7 +316,25 @@
 	<div id="footer">
 		
 
-<!-- begin footer1: 2010-06-21 @ 18:50:30 (Anonymous Guest) -->
+<!-- begin footer1: 2010-12-21 @ 18:15:26 (Anonymous Guest) -->
+
+<script type="text/javascript">
+$(document).ready(function(){
+  if(!window.location.hostname.match(/^www\./)){
+    var split_hostname = window.location.hostname.split(/\./);
+    $("a.domain_specific").each(function(e,i){
+      var split_link = $(this).attr("href").split(/\./);
+      var subdomain = split_link[0];
+      if(split_link[0].charAt(0)!="/"){
+        split_link[0] = subdomain.replace("www",'')+split_hostname[0];
+      }
+      var link = split_link.join('.');
+      link = link.replace("ERIGHTS_TARGET=http:\/\/www","ERIGHTS_TARGET=http://"+split_hostname[0]);
+      $(this).attr("href",link);
+    })
+  }
+})
+</script>
 
 
 
@@ -368,6 +396,8 @@ var _tag=new WebTrends();
 _tag.dcsGetId();
 //]]>>
 </script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs5rvqrv10000gkepiix4rfz_1q3w/wtid.js"></script>
+
+
 
 
 
