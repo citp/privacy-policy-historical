@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623070421id_/http%3A//www.fantage.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221090939id_/http%3A//www.fantage.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to a Fantastic Age!
 
-**Privacy Policy**  
-  
   
 **1\. What information is collected?**  
-We do not ask for any personal information from our users except for their age. Input of age is required so that we can verify which users are under 13 years old. Users under 13 years of age must also supply the email address of a parent or legal guardian. We tell our users not to use any recognizable personal information for their ID. 
-
+We do not ask for any personal information from our users except for their age. Input of age is required so that we can verify which users are under 13 years old. Users under 13 years of age must also supply the email address of a parent or legal guardian. We tell our users not to use any recognizable personal information for their ID.   
+  
 **2\. How is the information collected?**  
 The only way a child's personal information is collected is directly from the child when he or she registers. No cookies are used to collect personal information. 
 
