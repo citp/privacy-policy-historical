@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the the-scientist.com privacy policy that was archived on 2010-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622170031id_/http%3A//www.the-scientist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the the-scientist.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222003510id_/http%3A//www.the-scientist.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="expires" content="0">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
@@ -51,7 +51,7 @@
   GA_googleAddSlot("ca-pub-3798189751150834", "StandardBannerONLY3");
   
   
-        GA_googleAddAttr("Keyword", "no keywords available");
+        GA_googleAddAttr("Keyword", "");
   
 
   
@@ -67,48 +67,23 @@
     
 
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/reinvention.css">
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/article_styles.css">
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/redesign.css">
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/toolBox.css">
+<link rel="stylesheet" type="text/css" href="/stylesheets/thescientist-redesign.css">
 
 
 <script src="/js/SpryEffects.js" type="text/javascript"> </script>
 
 
-<style>
-#pageToolsMenu {
-	padding:0px;
-	height: 0px;
-	overflow: hidden;
-	z-index: 99;
-}
-#panel2Content {
-	display: none;
-}
-#closeWindowImg {
-	display: none;
-}
-</style>
-
-
-
 <script src="/js/mailForm.js" language="javascript" type="text/javascript"></script>
 
 
+<!--
 <script src="/js/sifr.js" language="javascript" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="/stylesheets/sIFR-screen.css">
+<link rel='stylesheet' type='text/css' href='/stylesheets/sIFR-screen.css'>
+-->
 
 
 <script src="/js/html_helper.js" language="javascript" type="text/javascript"></script>
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print">
 </head>
 
 
@@ -117,7 +92,7 @@
 <div id="wrapper">
 <!-- 468x60 Banner Ad -->
 
-<div id="adbanner1">
+<div class="adbanner1">
 	<!-- Begin 468x60 Banner Ad -->
 <script type="text/javascript">
   GA_googleFillSlot("topBanner");
@@ -132,24 +107,22 @@
 
 
 
+
 <!-- Open Header -->
 
-<div id="header">
-	<!-- Logo & Nav Header -->
-	<div id="logo">
-		<img src="http://images.the-scientist.com/graphics/interface/toptoolbar/logo.gif" alt="TheScientist.com - Magazine of the Life Sciences, Every Day, Online" width="378" height="56">
+<div class="header">
+	<a href="http://f1000.com" target="_self" title="F1000 - Post-publication peer review"><img class="logo" src="http://images.the-scientist.com/graphics/redesign/logo-f1000.png" alt="F1000-post-publication peer review"></a>
+	<div class="headerUser">
+			<!-- welcom message or user name here -->
+           <!--  <table width="100%"><tr valign="top"><td><div class="smaller" style="color:#ffffff"><b>&nbsp;&nbsp;Welcome</b> </div></td><td align="right"><div class="smaller" style="color:#ffffff">Please <a href="http://registration.the-scientist.com/registration" id="login">login or register</a></div></td></tr></table> -->
+		   &nbsp;
+			 
+           
+		
 	</div>
-	<!-- Open Search -->
-	<div id="searchBox">
-		<!--  <table width="100%"><tr valign="top"><td><div class="smaller" style="color:#ffffff"><b>&nbsp;&nbsp;Welcome</b> </div></td><td align="right"><div class="smaller" style="color:#ffffff">Please <a href="http://registration.the-scientist.com/registration" id="login">login or register</a></div></td></tr></table> -->
-		
-		<div id="welcomeMsg">
-			&nbsp;&nbsp;Please <a href="/login">Login</a> or <a href="/templates/trackable/registration/register.jsp?registrantType=registrant">Register</a>
-		</div>
-		
-		
-		
-		
+	<div class="headerSearch scienceSearch">
+                <script src="/js/jquery.js" type="text/javascript"></script>
+
 
 
 
@@ -161,195 +134,94 @@
 
 
 
+<script type="text/javascript">
+	$(document).ready(function() {
+	    // Remove the watermark class when the inputbox comes in focus
+	    $(".headerSearchInput #textbox").focus(function() {
+	                    $(this).filter(function() {
+	                                    return $(this).val() == "" || $(this).val() == "The Scientist"
+	                    }).removeClass("watermark").val("");
+	    });
+	    // Add the watermark class and default text
+	    $(".headerSearchInput #textbox").blur(function() {
+	                    $(this).filter(function() {
+	                                    // Add the watermark class and the default value when nothing is entered
+	                                    return $(this).val() == ""
+	                    }).addClass("watermark").val("The Scientist");
+	    });
+	});
+</script>
 
+<div class="linkAdvancedSearch">
+	<a href="/search/advanced_search.jsp">Advanced Search</a>
+</div> 
                 
                       <!-- Google CSE Search Box Begins  -->
-<form action="http://www.the-scientist.com/search/search_results.jsp" id="cse-search-box">
-  <input type="hidden" name="cx" value="003264466409666250718:qrpes37jcpu">
-  <input type="hidden" name="cof" value="FORID:11">
-  <input type="text" name="q" size="25">
-  <input type="submit" name="sa" value="Search">
+<form action="/search/search_results.jsp" id="cse-search-box">
+	<div class="headerSearchInput">
+		<input type="hidden" name="cx" value="003264466409666250718:qrpes37jcpu">
+		<input type="hidden" name="cof" value="FORID:11">
+		<input id="textbox" class="watermark" value="The Scientist" type="text" name="q" size="25">
+	</div>
+	<input class="headerSearchSubmit" name="sa" type="submit" value="&nbsp;">
 </form>
-<div id="welcomemsg"><a href="http://www.the-scientist.com/search/advanced_search.jsp">Advanced Search</a></div>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <!-- Google CSE Search Box Ends -->
 
 
 
 
-		<!-- Close Search -->
+ 	<!-- Close Search -->
 	</div>
-	<!-- Open Top Nav -->
-	<div id="topNav" class="topNav">
-		<ul>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			<li> <a href="http://www.the-scientist.com/"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/home_a.gif" alt="Home" width="45" height="27" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/home_b.gif" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/home_a.gif"></a> </li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			<li> <a href="http://www.the-scientist.com/community/"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/community_a.gif" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/community_b.gif" alt="Community" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/community_a.gif"></a> </li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"></li>
-			<li> <a href="/toc/2010/06/"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/currissue_a.gif" alt="Current Issue" width="102" height="27" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/currissue_b.gif" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/currissue_a.gif"></a></li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			<li> <a href="/2010/"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/browse_a.gif" alt="Browse Archive" width="117" height="27" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/browse_b.gif" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/browse_a.gif"></a></li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			<li> <a href="/careers/"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/careers_a.gif" alt="Careers" width="62" height="27" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/careers_b.gif" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/careers_a.gif"></a> </li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			<li> <a href="/webextra/"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/video_a.gif" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/video_b.gif" alt="Video &amp; Multimedia" width="141" height="27" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/video_a.gif"></a></li>
-			
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			<li> <a href="http://blog.the-scientist.com"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/blog_a.gif" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/blog_b.gif" alt="Blog" width="43" height="27" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/blog_a.gif"></a></li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"> </li>
-			
-			<li> <a href="/strutsActions/registration/subscribeRedirect"><img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/subscribe_a.gif" class="domroll http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/subscribe_b.gif" alt="Subscribe" xsrc="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/subscribe_a.gif"></a> </li>
-			<li> <img src="http://images.the-scientist.com/graphics/interface/toptoolbar/buttons/topnav_divider.gif" width="5" height="27"></li>
+	<div id="navigation">
+		<ul id="navList">
+			<li class="first"><a href="http://f1000.com/evaluations">Evaluations</a></li>
+			<li><a href="http://f1000.com/rankings">Rankings</a></li>
+			<li><a href="http://f1000.com/reports">Reports</a></li>
+			<li><a href="http://posters.f1000.com/">Posters</a></li>
+			<li class="currentNav"><a href="http://the-scientist.com">Magazine</a></li>
+			<li><a href="http://f1000.com/thefaculty">Faculty</a></li>
 		</ul>
-		<!-- Close Top Nav -->
+		<ul id="userNavigation">
+			   
+					<li><a href="/login">Sign In</a></li>
+					<li><a href="/templates/trackable/registration/register.jsp?registrantType=registrant">Register</a></li>
+	                     						
+		</ul>
 	</div>
-	<!-- Close Logo & Nav Header -->
-	<br class="clearfloat">
-</div>
-
-
-
-
-
-                                    
-
-
-<!-- cache this !-->
-<!-- Body Wrapper -->
-
-<div id="homeBodyWrapper">
-
-<!-- Left Nav -->
-<div id="leftNavWrapper">
-<!--current thescientist cover-->
-  <div id="coverImg"> <a href="/toc/2010/6/"><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/issues/2010/6.jpg" alt="Front Cover" border="1" height="175" width="150"></a> </div>
-<!--PremiumButton-->
-  <div class="leftCalloutWrapper" style="margin-bottom: 1px">
-
-	<div align="center" style="background-color:#FFFFFF; border-left:none; border-right:none; border-bottom:1px; border-top:1px;   border-top-style:solid;border-bottom-style:solid; border-top-color:#CCCCCC;border-bottom-color:#CCCCCC;width:150px;height:175px; vertical-align:middle; text-align:left     font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px;">
-	  <div align="center"><span style="color: #CCCCCC;">Advertisement</span><br>
-	    <script type="text/javascript">
-		  GA_googleFillSlot("PremiumButton");
-		</script>
-	  </div>
+	<div class="scienceNav">
+		<a href="/" title="The Scientist"><img alt="" src="http://images.the-scientist.com/graphics/redesign/logo-thescientist.png"></a>
+		<ul>
+			<li class="currentNav"><a href="/news" title="News">News</a></li>
+			<li><a href="/toc/2010/12/" title="Current Issue">Current Issue</a></li>
+			<li><a href="/2010/" title="Archive">Archive</a></li>
+			<!--
+			<li><a href="#" title="Surveys &#38; Supplements">Surveys &#38; Supplements</a>
+			-->
+			<li class="suryveys-and-supplements">Surveys &amp; Supplements
+				<ul>
+					<li><a href="/supplements">Supplements</a></li>
+					<li><a href="/nrw">NRW: Biotechnology in North Rhine-Westphalia</a></li>
+					<li><a href="/supplement/2008-7-1/">Life Sciences in Ireland</a></li>
+					<li><a href="/supplement/2007-12-1/">Schizophrenia</a></li>
+					<li><a href="/supplement/2007-5-1/">Autoimmunity</a></li>
+					<li><a href="/bptw/">Best Places to Work</a></li>
+					<li><a href="/salarysurvey/">$alary $urvey</a></li>
+					<li><a href="/videoawards">The Scientist Video Awards</a></li>
+					<li><a href="/winners/index/">Lab Web Site and Video Awards</a></li>
+				</ul>
+			</li>
+			<li><a href="http://blog.the-scientist.com" title="Naturally Selected Blog">Naturally Selected</a></li>
+		</ul>
+		<ul class="follow">
+			<li><a href="http://www.facebook.com/F1000"><img src="http://images.the-scientist.com/graphics/redesign/fb.gif" alt="Facebook :: F1000"></a></li>
+			<li><a href="http://twitter.com/f1000"><img src="http://images.the-scientist.com/graphics/redesign/twitter.gif" alt="Twitter :: F1000"></a></li>
+			<li><a href="http://www.youtube.com/facultyof1000"><img src="http://images.the-scientist.com/graphics/redesign/youtube.gif" alt="Youtube :: F1000"></a></li>
+		</ul>
 	</div>
-  </div>
-
-  <!--current supplement cover-->
-  <div id="coverImg2" style="border: 1px solid black; float: left;"> <a href="/supplements/ontario/toc.jsp"><img src="http://images.the-scientist.com/supplements/ontario/cover2.jpg" alt="Life Sciences in Ontario" border="0" height="173" width="150"></a> </div>
-
-<!-- supplements-->
-   <div class="leftCalloutWrapper">
-    <div class="leftNavLinks">
-      <div class="leftCalloutTop"></div>
-      <div class="leftNavTitle"><a href="http://www.the-scientist.com/supplements">Supplements</a></div>
-      <ul>
-      <li>
-       <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <a href="http://www.the-scientist.com/nrw">NRW: Biotechnology in North Rhine-Westphalia</a></li>
-
-      	<li>
-       <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <a href="http://www.the-scientist.com/supplement/2008-7-1/">Life Sciences in <br>Ireland</a></li>
-
-        <li>
-        <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <a href="http://www.the-scientist.com/supplement/2007-12-1/">Schizophrenia</a></li>
-        <li>
-        <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <a href="http://www.the-scientist.com/supplement/2007-5-1/">Autoimmunity</a></li>
-      </ul>
-    </div>
-      <br class="clearfloat">
-    <div class="leftCalloutBottom"></div>
-    <br class="clearfloat">
-  </div>
-<!-- supplements end-->
-<!--current supplement cover2-->
-  <div id="coverImg2" style="border: 1px solid black; float: left;"> <a href="/supplements/thailand/toc.jsp"><img src="http://images.the-scientist.com/supplements/thailand/cover2.jpg" alt="Transformational Science: Life Sciences in Thailand" border="0" height="173" width="150"></a> </div>
-
-
-    <div class="leftCalloutWrapper">
-    <div class="leftNavLinks">
-      <div class="leftCalloutTop"></div>
-      <div class="leftNavTitle">Survey Series</div>
-      <ul>
-
-
-         <li>
-       <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-       <strong><a href="/bptw/">Best Places to Work</a></strong></li>
-        <li>
-        <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <strong><a href="/salarysurvey/">$alary $urvey</a></strong></li>
-   	<li>
-        <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <a href="http://www.the-scientist.com/videoawards"><strong>The Scientist Video Awards<br></strong></a></li>
-   		<li>
-        <img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif">
-        <a href="http://www.the-scientist.com/winners/index/"><strong>Lab Web Site and<br>
-        Video Awards </strong></a></li>
-      </ul>
-    </div>
-    <div class="leftCalloutBottom"></div>
-    <br class="clearfloat">
-  </div>
-
-  <div class="leftCalloutWrapper">
-    <div class="leftNavLinks">
-      <div class="leftCalloutTop"></div>
-      <div style="margin-left: 11px;"><a href="http://www.the-scientist.com/register/"><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_daily1.jpg" border="0"></a>      </div>
-      <div class="leftNavTitle">The Scientist Daily</div>
-      <ul>
-       <li style="margin:0;padding:0;"><a href="http://www.the-scientist.com/register/">Science headlines delivered daily. <br>
-        Register today.</a></li>
-
-      </ul>
-    </div>
-    <div class="leftCalloutBottom"></div>
-    <br class="clearfloat">
-  </div>
-<!--
-<div class="leftCalloutWrapper" style="margin-bottom: 1px">
-<a href="http://www.the-scientist.com/scienceconnection/"><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/scgraphic2.gif" border="0" class="domroll http://images.the-scientist.com/graphics/interface/lefttoolbar/scgraphic2_white.gif"/></a>
-</div>
--->
-  <div class="leftCalloutWrapper">
-    <div class="leftNavLinks">
-      <div class="leftCalloutTop"></div>
-      <div class="leftNavTitle">Institutions</div>
-      <ul>
-        <li><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif"><a href="/fragments/libraries/">For Librarians</a></li>
-        <li><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif"><a href="/fragments/libraries/recommend.jsp">Recommend Us to Your Librarian</a></li>
-      </ul>
-    </div>
-    <div class="leftCalloutBottom"></div>
-    <br class="clearfloat">
-  </div>
+</div><!-- <div class="header"> -->
 
 
 
-
-  <div class="leftCalloutWrapper">
-    <div class="leftNavLinks">
-      <div class="leftCalloutTop"></div>
-      <div class="leftNavTitle">For Advertisers</div>
-      <ul>
-        <li><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif"><a href="/about/advertising/">Advertise with Us</a></li>
-        <li><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif"><a href="/about/advertising/adsales/">Contact Ad Team</a></li>
-        <li><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/left_callout_bullet.gif"><a href="http://www.the-scientist.com/mediakit/">2010 Media Kit</a></li>
-      </ul>
-    </div>
-    <div class="leftCalloutBottom"></div>
-    <br class="clearfloat">
-  </div>
-  <!--Close Left Nav-->
-  <br class="clearfloat">
-</div>
-
-
-<!-- cache this !-->
 
 
 
@@ -437,34 +309,91 @@ The Scientist creates  aggregate reports on user demographics and traffic patter
 
                                     
 
-	
+
+
 
 
  <div class="skyscraper">
-    <div align="right">
+ 
+     <div class="skyscraper-left">
+		<!-- Left Nav -->
+	
+		<!--current thescientist cover-->
+	  	<div id="coverImg"> <a href="/toc/2010/12/"><img src="http://images.the-scientist.com/graphics/interface/lefttoolbar/issues/2010/12.jpg" alt="Front Cover" border="1" height="175" width="150"></a> </div>
+		<!--PremiumButton-->
+		<div class="promoBox">
+			<h3>
+				<img alt="" src="http://images.the-scientist.com/graphics/redesign/promobox-getscientist.gif">
+			</h3>
+			<h4>
+				<img alt="" src="http://images.the-scientist.com/graphics/redesign/promobox-bullet-1.gif">
+				<span>Register for FREE Online Access</span>
+			</h4>
+			<ul>
+				<li><span class="listBullet">»</span><span class="listContent">Current issue</span></li>
+				<li><span class="listBullet">»</span><span class="listContent">Best Places to Work and Salary surveys</span></li>
+				<li><span class="listBullet">»</span><span class="listContent">Daily news and monthly contents emails</span></li>
+			</ul>
+			<p>
+				<a href="/templates/trackable/registration/register.jsp?registrantType=registrant">Register »</a>
+			</p>
+			<h4>
+				<img alt="" src="http://images.the-scientist.com/graphics/redesign/promobox-bullet-2.gif" style="vertical-align:top;">
+				<span>Subscribe to the Magazine</span>
+			</h4>
+			<ul>
+				<li><span class="listBullet">»</span><span class="listContent">Monthly print issues</span></li>
+				<li><span class="listBullet">»</span><span class="listContent">Unlimited online access</span></li>
+				<li><span class="listBullet">»</span><span class="listContent">Special offers on books, apparel, and more</span></li>
+			</ul>
+			<p>
+				<a href="/strutsActions/registration/subscribeRedirect">Subscribe »</a>
+			</p>
+			<p>
+				<a href="/fragments/libraries/">Library Subscriptions</a>
+				<br>
+				<a href="/fragments/libraries/recommend.jsp">Recommend to a Librarian</a>
+			</p>
+		</div><!-- end <div class="promoBox"> -->
+		<div class="promoBox">
+			<h3>
+				Surveys &amp;
+				<br>
+				Supplements
+			</h3>
+			<ul>
+				<li><a href="/bptw/"><span class="listBullet">»</span><span class="listContent">Best Places to Work</span></a></li>
+				<li><a href="/salarysurvey/"><span class="listBullet">»</span><span class="listContent">$alary $urvey</span></a></li>
+				<li><a href="/videoawards"><span class="listBullet">»</span><span class="listContent">The Scientist Video Awards</span></a></li>
+				<li><a href="/winners/index/"><span class="listBullet">»</span><span class="listContent">Lab Website and Video Awards</span></a></li>
+				<li><a href="/nrw"><span class="listBullet">»</span><span class="listContent">NRW: Biotechnology in North Rhine-Westphalia</span></a></li>
+				<li><a href="/supplement/2008-7-1/"><span class="listBullet">»</span><span class="listContent">Life Sciences in Ireland</span></a></li>
+				<li><a href="/supplement/2007-12-1/"><span class="listBullet">»</span><span class="listContent">Schizophrenia</span></a></li>
+				<li><a href="/supplement/2007-5-1/"><span class="listBullet">»</span><span class="listContent">Autoimmunity</span></a></li>
+			</ul>
+		</div><!-- end <div class="promoBox"> -->
+	<!-- cache this !-->
+	</div>
+ 
+    <div class="skyscraper-right">
 
-<!------ AD 'Right1' begin ------>
+        <!------ AD 'Right1' begin ------>
 
-<script type="text/javascript">
-  GA_googleFillSlot("RightSkyscraper");
-</script>
-<br><br>
-<!------ AD 'Right1' end ------>
-<script type="text/javascript"><!--
-google_ad_client = "pub-3798189751150834";
-/* TheScientist_skyscraper_wide160x600 */
-google_ad_slot = "9187285935";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
+        <script type="text/javascript">
+        GA_googleFillSlot("RightSkyscraper");
+        </script>
+        <br><br>
+        <!------ AD 'Right1' end ------>
+        <script type="text/javascript"><!--
+        google_ad_client = "pub-3798189751150834";
+        /* TheScientist_skyscraper_wide160x600 */
+        google_ad_slot = "9187285935";
+        google_ad_width = 160;
+        google_ad_height = 600;
+        //-->
+        </script>
 
-
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
-</div>
+    </div>
   </div>
 
 				
@@ -482,29 +411,19 @@ google_ad_height = 600;
 
 
 
-
-
-
-  <div id="footer"><a href="/about/index/">About TS</a> | <a href="/about/themagazine/contact/">Contact</a> | <a href="/about/advertising/">Advertise</a> | <a href="/about/themagazine/editorialboard/">Editorial Advisory Board</a> | <a href="/privacy/">Privacy Policy</a>
-
-    <br>
-    © 1986-2010 <i>The Scientist</i><br>
-    <div style="overflow: hidden; text-indent: -9999em; height:1px;">
-		<a title="Web Developer - Jason Barry" href="http://jcbarry.com">Web Developer - Jason Barry</a>
-		<a title="NJ Wedding Photography" href="http://www.bellemorephotography.com/wedding_locations/new-jersey/new-jersey-wedding-photographer.htm">NJ Wedding Photography</a>
-		<a title="PA Wedding Photography" href="http://www.bellemorephotography.com/wedding_locations/pennsylvania/pennsylvania-wedding-photographer.htm">PA Wedding Photography</a>
-
-	</div>
-
-  </div>
-<!-- Close Wrapper -->
+<div id="footerScientist-container">
+<div class="footerScientist">
+	<a href="/about/themagazine/masthead/">Masthead</a> |
+	<a href="/about/themagazine/contact/">Contact</a> |
+	<a href="/about/advertising/mediakit2011/">Advertise</a> |
+	<a href="/privacy/">Privacy Policy</a>
+	<br>
+	 © 1986-2010 The Scientist
 </div>
 
-
 </div>
-
 <!-- 468x60 Banner Ad -->
-<div id="adbanner1">
+<div class="adbannerBottom">
 
 <script type="text/javascript">
   GA_googleFillSlot("bottomBanner");
@@ -512,6 +431,54 @@ google_ad_height = 600;
 
   <!-- Close 468x60 Banner Ad -->
 </div>
+<!-- NEW FOOTER -->
+<div id="footer-container">
+<div class="footerF1000">
+	<h2>Faculty of 1000</h2>
+	<ul>
+		<li><b>Faculty of 1000 Ltd</b></li>
+		<li>Science Navigation Group </li>
+		<li>Middlesex House </li>
+		<li>34-42 Cleveland Street </li>
+		<li>London W1T 4LB  UK </li>
+	</ul>
+	<ul class="footerNavigation">
+		<li><a href="http://f1000.com">Home</a></li>
+		<li><a href="http://f1000.com/about/whatis">About</a></li>
+		<li><a href="http://f1000.com/about/faqs">FAQs</a></li>
+		<li><a href="http://f1000.com/about/newsroom">Newsroom</a></li>
+		<li><a href="http://f1000.com/about/contact">Contact F1000</a></li>
+	</ul>
+	<ul class="footerNavigation">
+		<li><a href="http://f1000.com/rankings">Rankings</a></li>
+		<li><a href="http://f1000.com/thefaculty">Faculty</a></li>
+		<li><a href="/">The Scientist</a></li>
+		<li><a href="http://f1000.com/reports">F1000 Reports</a></li>
+		<li><a href="http://f1000.com/evaluations">Evaluations</a></li>
+	</ul>
+	<ul class="footerNavigationLast">
+		<li><a href="http://f1000.com/register">Register</a></li>
+		<li><a href="http://f1000.com/request/subscription/main/academic">Subscribe</a></li>
+		<li><a href="http://f1000.com/about/accessing/sponsorship">Sponsorship</a></li>
+		<li><a href="http://f1000.com/about/affiliates">Affiliates</a></li>
+		<li><a href="http://sciencenavigation.com">Science Navigation Group</a></li>
+	</ul>
+	<div class="footerLastCol">
+		<h3>Follow F1000:</h3>
+		<a href="http://blog.the-scientist.com/"><img alt="Blog :: F1000" src="http://images.the-scientist.com/graphics/redesign/follow-blog.png"></a>
+		<a href="http://twitter.com/f1000"><img alt="Twitter :: F1000" src="http://images.the-scientist.com/graphics/redesign/follow-twitter.png"></a>
+		<a href="http://www.linkedin.com/groups?gid=1971657"><img alt="Linkedin :: F1000" src="http://images.the-scientist.com/graphics/redesign/follow-linkedin.png"></a>
+		<a href="http://www.facebook.com/F1000"><img alt="Facebook :: F1000" src="http://images.the-scientist.com/graphics/redesign/follow-facebook.png"></a>
+		<a href="http://www.youtube.com/facultyof1000"><img alt="Youtube :: F1000" src="http://images.the-scientist.com/graphics/redesign/follow-youtube.png"></a>
+	</div>
+	<div id="copyright">
+		© 2000-<script type="text/javascript">var d=new Date();document.write(d.getFullYear());</script>2020 Faculty of 1000 Ltd. ISSN 1759-796X <a class="copyrightLegal" href="/about/legal">Legal</a> | Partner of <a target="_blank" href="http://www.who.int/hinari/en/">HINARI</a><a target="_blank" href="http://crossref.org/">CrossRef</a> <a target="_blank" href="http://www.inasp.info/file/5f65fc9017860338882881402dc594e4/perii.html">PERii</a>
+	</div>
+</div>
+</div>
+<!-- end NEW FOOTER-->
+
+
 <script src="/js/chrisdomroll.js" language="javascript" type="text/javascript"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ?
@@ -525,7 +492,7 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <script type="text/javascript">tyntVariables = {"ap":""};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cOr02-gL4r36U7adbiUt4I&amp;s=121&amp;st=1&amp;lang=en"></script>
-
+</div> <!-- homeBodyWrapper div end-->
 
 
 
