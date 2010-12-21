@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mtv.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627145035id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221150052id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.*
 
 # MTV Sitewide - Legal
 
-**Last Modified:** October 19, 2009 
+**Last Modified:** September 10, 2010
 
 This is the privacy policy (" _Privacy Policy_ ") for mtv.com (" _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website offered in cooperation with the MTV television channel or programming service (" _MTV Channel_ "). The MTV Channel and the Site (together, "MTV") are provided by MTV Networks (" _MTVN_ "), a division of Viacom International Inc. (together, MTVN and Viacom International Inc., the " _Parent Companies_ "). 
 
@@ -47,7 +47,7 @@ If you are located in the European Union or elsewhere outside of the U.S., you d
 
 ## 3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
 
-When we use the term " _Personal Information_ " we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term " _Other Information_ ", we mean any information other than Personal Information collected by the Site (Personal Information and Other Information, together, the " _Information_ "). 
+When we use the term " _Personal Information_ " we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term " _Other Information_ ", we mean any information other than Personal Information that may be collected about you (Personal Information and Other Information, together, the " _Information_ "). 
 
 **a. Information We Collect that You Provide Us.**
 
@@ -57,13 +57,15 @@ When we use the term " _Personal Information_ " we mean information that would a
 
 **iii. In Connection with Promotions such as Contests and Sweepstakes.** There may be a separate registration process to enter Promotions such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion, but submission of such Information may be optional. The Promotion's entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (" _Advertisers_ ") as a result of your use of the Site in connection with many of these types of Promotions. 
 
-**b. Information Collected Through Use of Cookies and Other Tracking Technologies.** The Site and/or third parties may use "cookies", "web beacons" (also known as image tags, GIF or web bugs), "embedded scripts" and other similar tracking technologies (collectively, " _Tracking Technologies_ ") to collect Other Information automatically as you browse the Site and the web. 
+**b. Information Collected Through Use of Cookies and Other Tracking Technologies.** "Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. "Web beacons" (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. The Site and/or third parties may use "cookies", "web beacons" and other similar tracking technologies (collectively, " _Tracking Technologies_ ") to collect Other Information automatically as you browse the Site and the web. 
 
-We use Tracking Technologies to collect "click stream" data and additional Other Information regarding your visits to the Site, such as your visits to the Site's webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site (" _Identifier_ "). Your Identifier is automatically assigned to the Device you use to access the Site. Your Personal Information is not collected as part of this process. By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site. 
+We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information", "Other Information Collected by Us" section below. These Tracking Technologies collect "click stream" data and additional Other Information regarding your visits to the Site, such as your visits to the Site's webpages, use of our features, and purchasing history or preferences and may also collect your IP address or some other identifier unique to the Device you use to access the Site (" _Identifier_ "). Your Identifier is automatically assigned to the Device you use to access the Site. Your Personal Information is not collected as part of this process. 
 
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, " _Third Party Advertising Service Providers_ ") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (" _Targeting Services_ "). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
+By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies. 
 
-Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser and/or they may otherwise have access to Other Information about you. 
+This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
+
+Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you. 
 
 **c. Use of Information.** As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates. 
 
@@ -121,7 +123,7 @@ Although these Third Party Advertising Service Providers do not have access to T
 
 
 
-**iii. Other Information Collected by Third Party Advertising Service Providers and Advertisers.** The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see " **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other thanWireless Marketing Services and Associated Promotional Opportunities)**" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers. 
+**iii. Other Information Collected by Third Party Advertising Service Providers and Advertisers.** The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see " **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other thanWireless Marketing Services and Associated Promotional Opportunities)**" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers. 
 
 ## 4\. Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). 
 
@@ -133,33 +135,37 @@ Although these Third Party Advertising Service Providers do not have access to T
 
 **iii. Certain Continuing Rights Regardless of Opt-Outs.** However, even if you exercise your opt-out rights above, we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the "Use of Information" Section above, such as for maintenance and administrative purposes. 
 
-**b. Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
+**b. Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.**
 
-  * With respect to the serving of ads by DoubleClick to you, please visit <http://www.doubleclick.com/us/about_doubleclick/privacy> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+**i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
 
-  * To opt-out of Tracking Technologies set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit <http://www.networkadvertising.org/managing/opt_out.asp> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+  * With respect to the serving of ads by DoubleClick to you, please visit <http://www.doubleclick.com/us/about_doubleclick/privacy> for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies. 
 
-  * You can choose to delete the Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. 
+  * To opt-out of most Tracking Technologies (other than Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit <http://www.networkadvertising.org/managing/opt_out.asp> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies. 
 
-  * You can choose to disable or turn Tracking Technologies off. Additional information on disabling or turning Tracking Technologies off may be available through your browser's support feature. 
+  * You can choose to delete most Tracking Technologies (other than Flash cookies) through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.) 
 
-
-
-
-Opting-out of, deleting or disabling Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads. Opting-out to, deleting or disabling Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. 
-
-With respect to the Tracking Technologies set by the Site, you have a number of options: 
-
-  * You can choose to delete the Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. 
-
-  * You can choose to disable or turn Tracking Technologies off. Additional information on disabling or turning Tracking Technologies off may be available through your browser's support feature. 
-
-  * You can choose to have the Device you use to access the Site warn you each time a cookie, image tag or other Tracking Technology is being sent, or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature. 
+  * You can choose to reject, disable or turn most Tracking Technologies off (other than Flash cookies). Additional information on rejecting, disabling or turning most Tracking Technologies off may be available through your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.) 
 
 
 
 
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete or disable Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. 
+Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads. Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. 
+
+**ii. Tracking Technologies Set By the Site.** With respect to the Tracking Technologies set by the Site, you have a number of options: 
+
+  * You can choose to delete most Tracking Technologies (other than Flash cookies) through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.) 
+
+  * You can choose to disable or turn most Tracking Technologies off (other than Flash cookies). Additional information on disabling or turning most Tracking Technologies off may be available through your browser's support feature. (See the "help" section of your browser for more information and see below for more information on removing Flash cookies.) 
+
+  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being sent (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature. 
+
+
+
+
+Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. 
+
+**iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <http://kb2.adobe.com/cps/526/52697ee8.html> or <http://epic.org/privacy/cookies/flash.html>. 
 
 ## 5\. Wireless Marketing Services and Associated Promotional Opportunities. 
 
@@ -177,7 +183,7 @@ Users that register for MTV's wireless marketing services acknowledge, understan
 
 **iii. Double Opt-in (SMS/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. MTV will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from MTV to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of MTV's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that MTV may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while MTV continues to offer the specific wireless marketing service. 
 
-**Termination of Wireless Services by User.** Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from MTV by the following procedure: 
+**b. Termination of Wireless Services by User.** Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from MTV by the following procedure: 
 
 A user may cancel one or more services via his or her wireless device at any time by using the unsubscribe mechanism provided by MTV at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". MTV will terminate the user's registration for the most recent wireless service sent to the user. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with MTV. If the user unsubscribes from one or all of MTV service(s) via his or her wireless device, the service(s) will be terminated immediately and will cancel the user's previous opt-in. 
 
@@ -185,7 +191,7 @@ A user may cancel one or more services via his or her wireless device at any tim
 
 **d. Use of Information.** MTV will not use a wireless telephone number, wireless or conventional Internet email address, or other Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share any Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share Personal Information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates. 
 
-**6\. Sharing and Disclosure of Personal Information and Other Information.**
+## 6\. Sharing and Disclosure of Personal Information and Other Information.
 
 **a. Sharing and Disclosure of Personal Information.** Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy. 
 
@@ -263,3 +269,5 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our [Terms of Use Agreement](https://web.archive.org/sitewide/legal/terms.jhtml) which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately. 
+
+Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved. 
