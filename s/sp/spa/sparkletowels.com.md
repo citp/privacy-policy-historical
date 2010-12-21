@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221083605id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Georgia-Pacific Privacy Notice
 
-California Residents [[Click here]](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/privacy/California.asp)
+California Residents[Click here]
 
-Georgia-Pacific and its subsidiaries and affiliates (collectively "Georgia-Pacific") respect your concerns about privacy and value their relationship with you. This Privacy Notice applies to the Georgia-Pacific websites [[listed here]. ](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/privacy/privacysites.asp) The Notice describes the types of information we collect at these sites, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at these sites. 
+Georgia-Pacific and its subsidiaries and affiliates (collectively "Georgia-Pacific") respect your concerns about privacy and value their relationship with you. This Privacy Notice applies to the Georgia-Pacific websites [[listed here]. ](https://web.archive.org/web/20101221083605id_/http%3A//www.gp.com/privacy/privacysites.asp) The Notice describes the types of information we collect at these sites, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at these sites. 
 
 Click on one of the links below to jump to the listed section:
 
@@ -76,7 +76,7 @@ Return To Top _**Contests, Sweepstakes and Other Promotions**_
 
 On our websites, you may choose to participate in contests, sweepstakes and other promotions. Through these promotions, you may choose to participate in activities such as sending e-Cards, sharing information found on our websites with others, and sending email invitations. If you choose to participate in these promotions, we may ask you for information such as your name, email address, postal address and telephone number, as well as the names and email addresses of individuals with whom you choose to share information. 
 
-By providing another person's contact information to us, you acknowledge that you have obtained appropriate consent to provide this information and to have this individual receive the information you have asked us to send. We use the information you provide to administer contests, sweepstakes and other promotions. We also may use the information to communicate with you, or the other people you select, about our products and services. We will not use information you provide about other people for any purpose except the purpose you direct without first getting their consent.
+By providing another person's contact information to us, you acknowledge that you have obtained appropriate consent to provide this information and to have this individual receive the information you have asked us to send. We use the information you provide to administer contests, sweepstakes and other promotions. We also may use the information to communicate with you, or the other people you select, about our products and services. We will not use information you provide about other people for any purpose except the purpose you direct without first getting their consent. 
 
 Return To Top _**Sign Up for Email**_
 
@@ -120,7 +120,7 @@ On our secure websites, you may be able to register to gain access to informatio
 
 Return To Top _**Other Website Features**_
 
-We offer visitors to our websites various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features.
+We offer visitors to our websites various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features. Additional terms or practices may apply to your use of a specific portion of our websites. If there is a conflict between this Privacy Notice and terms or practices posted for a specific portion of our websites, the additional terms or practices apply to your use of that portion of our websites.
 
 Return To Top _**Other Uses of Information**_
 
@@ -150,13 +150,13 @@ We do not sell or otherwise disclose information about our website visitors, exc
 
 If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) among our affiliates for their marketing purposes, if the affiliates are separate legal entities. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Notice. 
 
-If you are located in the European Economic Area, please visit our Safe Harbor Privacy Notice [[Click here]](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/privacy/safeharbor.asp) to learn how you can exercise and amend your choices. 
+If you are located in the European Economic Area, please visit our Safe Harbor Privacy Notice [[Click here]](https://web.archive.org/web/20101221083605id_/http%3A//www.gp.com/privacy/safeharbor.asp) to learn how you can exercise and amend your choices. 
 
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided through our websites in a manner that is consistent with this Privacy Notice.
 
 Return To Top **Links to Other Sites**
 
-Our websites may provide links to other websites for your convenience and information. These websites may operate independently from Georgia-Pacific. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not part of the Georgia-Pacific family, we are not responsible for their content, any use of the sites, or the privacy practices of the sites.
+Our websites may provide links to other websites for your convenience and information. These websites may operate independently from Georgia-Pacific. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not part of the Georgia-Pacific family, we are not responsible for their content, any use of the sites, or the privacy practices of the sites. 
 
 Return To Top **How We Protect Personal Information**
 
@@ -180,15 +180,15 @@ Websites to which this Safe Harbor Privacy Notice ("Notice") applies are United 
 
 
 
-[[Click here]](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/privacy/safeharbor.asp) to view our Safe Harbor Privacy Notice. 
+[[Click here]](https://web.archive.org/web/20101221083605id_/http%3A//www.gp.com/privacy/safeharbor.asp) to view our Safe Harbor Privacy Notice. 
 
 Return To Top **Access and Correction**
 
-Georgia-Pacific provides website visitors with reasonable access to personal information they provide through our sites and the ability to review and correct it, as applicable. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your information.
+Georgia-Pacific provides website visitors with reasonable access to personal information they provide through our sites and the ability to review and correct it, as applicable. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your information. 
 
 Return To Top **Your Choices**
 
-If you would like to update your contact information or preferences, or have your information removed from our mailing lists, please [[click here]](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or write to: 
+If you would like to update your contact information or preferences, or have your information removed from our mailing lists, please [[click here]](https://web.archive.org/web/20101221083605id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or write to: 
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -203,9 +203,9 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 Return To Top **How to Contact Us**
 
-IIf you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
 
-Contacting us through our website: [ Click here](https://web.archive.org/web/20100614082717id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or
+Contacting us through our website: [ Click here](https://web.archive.org/web/20101221083605id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or
 
 Writing to: 
 
@@ -215,3 +215,5 @@ Attention: Privacy Office
 P.O. Box 105605   
 Atlanta, GA 30348  
 USA 
+
+Last updated: September 28, 2010
