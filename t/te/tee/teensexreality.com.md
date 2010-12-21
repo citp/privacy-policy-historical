@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensexreality.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025552id_/http%3A//teensexreality.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensexreality.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221194152id_/http%3A//teensexreality.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** teensexreality.com
 
@@ -30,4 +30,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [support@teensexreality.com](https://web.archive.org/web/20100617025552id_/http%3A//teensexreality.com/support.html).
+Should you have other questions or concerns about these privacy policies, please send us an email at: [support@teensexreality.com](https://web.archive.org/web/20101221194152id_/http%3A//teensexreality.com/support.html).
