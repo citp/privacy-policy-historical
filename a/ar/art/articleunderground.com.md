@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127100854id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleunderground.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221050945id_/http%3A//www.articleunderground.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Article Underground Privacy Policy
 
@@ -6,7 +6,9 @@
 
 **Privacy Policy** ****
 
-My name is Mike Liebner of ArticleUnderground.com owned and operated by my company Creative Power of Studio City, California. This is our Privacy Policy.
+Updated 6-15-2010
+
+My name is Mike Liebner of ArticleUnderground.com which is owned and operated by my company Creative Power of Studio City, California. This is our Privacy Policy.
 
 Your privacy and security are very important to us. We appreciate the subscribers, members and visitors who visit this web site and understand the value of protecting your rights. We want you to be able to enjoy our information and services with complete confidence that your privacy and safety will be our highest concern.
 
@@ -23,6 +25,12 @@ ArticleUnderground.com contracts with third party service partners to provide us
 Cookies
 
 A "cookie" is a small data file transferred by a Web site to your computer's hard drive. We may send cookies when you view our web pages, make purchases, request information, or register yourself for certain services. Accepting the cookies used on our site does not give us access to your Personally Identifiable Information, but we may use the cookies to identify your computer for enhanced features.
+
+Third party vendors, including Google may show ads on sites on the internet. 
+
+Third party vendors, including Google may use cookies to serve ads based on prior visits to this website. 
+
+Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
 
 ArticleUndergound.com does contain links to other sites. ArticleUndergound.com is not responsible for the privacy practices or the content of such websites. 
 
