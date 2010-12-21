@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wondershare.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410063354id_/http%3A//www.wondershare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wondershare.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105504id_/http%3A//www.wondershare.com/privacy.html) for the most accurate reproduction.*
 
 # Wondershare Inc.-Privacy
 
