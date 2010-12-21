@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddcast.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503014909id_/http%3A//www.oddcast.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddcast.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221022944id_/http%3A//www.oddcast.com/privacy_policy) for the most accurate reproduction.*
 
 # Oddcast.com
 
