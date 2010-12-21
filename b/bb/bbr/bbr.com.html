@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bbr.com privacy policy that was archived on 2010-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621120856id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbr.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222005333id_/http%3A//www.bbr.com/about/privacy%3Flinkid%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>
@@ -11,8 +11,8 @@ Berry Bros &amp; Rudd - Privacy and Security
 <link rel="icon" href="http://cdn.bbr.com/images/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://cdn.bbr.com/images/favicon.ico" type="image/x-icon">
 <link rel="canonical" href="http://www.bbr.com/about/privacy">
-<link rel="stylesheet" type="text/css" href="http://cdn.bbr.com/css/main-v36.css">
-<script language="JavaScript" type="text/javascript" src="http://cdn.bbr.com/js/main-v58.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.bbr.com/css/main-v46.css">
+<script language="JavaScript" type="text/javascript" src="http://cdn.bbr.com/js/main-v71-m.js"></script>
 <link rel="alternate" type="application/rss+xml" title="Berry Bros and Rudd Wine Podcasks" href="http://www.bbr.com/feed/rss-feed-output.lml?feed=podcask">
 <link rel="alternate" type="application/rss+xml" title="Berry Bros. &amp; Rudd Bordeaux 2009 En Primeur Releases" href="http://www.bbr.com/feed/rss-feed-output.lml?feed=bordeaux-2009">
 </head>
@@ -26,52 +26,36 @@ Berry Bros &amp; Rudd - Privacy and Security
 </div>
 <div id="headerRight">
 <!-- basket_id =  -->
-<div id="headerRight_nobasket" style="display: none;">
+<div id="headerRight_nobasket">
 <table width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td id="yourBasket2" colspan="2">
-<div style="float:left; line-height:21px; padding: 0 5px; 0 5px;" class="yourBasketEmpty">Your Basket Is Empty</div>
-<div style="float:left; padding: 3px 0 0 0;"><img src="http://cdn.bbr.com/images/header/basket/basket.png" width="19" height="14" alt="Basket"></div>
+<td id="yourBasket2" colspan="3">
+<div class="yourBasketHeader">Your Basket</div>
+<div class="basketImage"><img src="http://cdn.bbr.com/images/header/basket/basket.png" width="19" height="14" alt="Basket"></div>
 </td>
+</tr>
+<tr id="basketCountItems">
+<td class="basketTotalRight" align="center">0 items in basket</td>
 </tr>
 </tbody></table>
 </div>
-<div id="headerRight_basket" style="display: block; width: 100%;">
+<div id="headerRight_basket" style="display: none;">
 <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#242b4c">
 <tbody><tr>
 <td id="yourBasket" colspan="3">
-<div style="float:left; line-height:25px; padding: 0 5px; 0 5px;">
-<a style="font-size: 1em" id="toggleBasket" href="#" onclick="javascript: return showBasketItems();">Your Basket</a>
+<div class="yourBasketHeader">
+<a id="toggleBasket" href="#">Your Basket</a>
+<script type="text/javascript">
+  $('#toggleBasket').bind('click', showBasketItems);
+</script>
 </div>
-<div style="float:left; padding: 3px 0 0 0;"><img src="http://cdn.bbr.com/images/header/basket/basket.png" width="19" height="14" alt="Basket"></div>
-<div id="basketShowButton" style="float:right; padding: 3px 3px 0 0; display: block;">
+<div class="basketImage"><img src="http://cdn.bbr.com/images/header/basket/basket.png" width="19" height="14" alt="Basket"></div>
+<div id="basketShowButton">
 <a href="#" onclick="javascript: return showBasketItems();"><img src="http://cdn.bbr.com/images/header/basket/basket-show.png" width="53" height="17" alt="show"></a>
 </div>
-<div id="basketHideButton" style="float:right; padding: 3px 3px 0 0; display: none;">
+<div id="basketHideButton" style="display: none;">
 <a href="#" onclick="javascript: return hideBasketItems();"><img src="http://cdn.bbr.com/images/header/basket/basket-hide.png" width="57" height="17" alt="hide"></a>
 </div>
-</td>
-<td rowspan="4"><img src="http://cdn.bbr.com/images/spacer.gif" width="1" height="108" alt="-"></td>
-</tr>
-<tr id="basketCountItems">
-<td width="100%"></td>
-<td class="basketTotalLeft" style="font-weight:bold; line-height:25px;" width="50" id="basketItemsCount">
-8
-</td>
-<td class="basketTotalRight" width="60">Items</td>
-</tr>
-<tr class="basketTotal">
-<td></td>
-<td class="basketTotalLeft" style="font-weight:bold; line-height:25px;" id="basketItemsTotal">
-£&nbsp;3875.00
-</td>
-<td class="basketTotalRight">Total&nbsp;price</td>
-</tr>
-<tr>
-<td id="basketCheckout2" colspan="1" valign="middle" align="right"></td>
-<td id="basketCheckout" colspan="2" valign="middle" align="right">
-<a href="http://www.bbr.com/shopping/your-basket" rel="nofollow">
-<img src="http://cdn.bbr.com/images/buttons/button-checkout.png" width="84" height="20" border="0" alt="Checkout" onclick="submitBasket();"></a>
 </td>
 </tr>
 </tbody></table>
@@ -79,67 +63,15 @@ Berry Bros &amp; Rudd - Privacy and Security
 <div id="basketItems">
 <form name="basket" id="basket" action="/GB/shopping/your-basket" method="GET" onsubmit="return check_form_basket();">
 <table width="100%" cellspacing="0" cellpadding="1" border="0">
-<tbody><tr class="basketItem">
-<td class="basketItemLeft">
-<a href="http://www.bbr.com/product-769280-liquid-gold-assortment-case-sauternes-24x37-5cl">
-2009 Liquid Gold Assortment Case Sauternes (24x37.5cl)</a></td>
-<td style="width: 6px">
-<div id="basket_dec_1">
-<a href="javascript:newBasketUpdate('add', '769280', -1, 1, '', 'N');">
-<img src="http://cdn.bbr.com/images/white-chevron-left.gif" width="6" height="9" alt="Less" border="0"></a>
-</div>
-</td>
-<td style="width: 20px;">
-<input type="text" class="basketQuantity" style="width: 18px; text-align: right; padding-right: 1px;" id="basketQty1" name="basketQty1" value="7" onchange="newBasketUpdate('set', '769280', this.value, 1, '', 'N');">
-</td>
-<td style="width: 6px">
-<div id="basket_inc_1">
-<a href="javascript:newBasketUpdate('add', '769280', 1, 1, '', 'N');">
-<img id="basket_inc_1" src="http://cdn.bbr.com/images/white-chevron-right.gif" width="6" height="9" alt="More" border="0"></a>
-</div>
-</td>
-<td class="basketItemRight" id="basketTotal1">
-£&nbsp;3360.00</td>
-<td class="basketItemRemove" id="basketRemove1">
-<a href="javascript:newBasketUpdate('set', '769280', 0, 1, '', 'N');">
-<img src="http://cdn.bbr.com/images/checkout/bin.gif" width="12" height="14" alt="Remove from basket"></a>
-</td>
-</tr><tr class="basketItem">
-<td class="basketItemLeft">
-<a href="http://www.bbr.com/product-76485S-ch-giscours-margaux">
-2009 Ch. Giscours, Margaux</a></td>
-<td style="width: 6px">
-<div id="basket_dec_2" style="display:none;">
-<a href="javascript:newBasketUpdate('add', '76485S', -1, 1, '', 'N');">
-<img src="http://cdn.bbr.com/images/white-chevron-left.gif" width="6" height="9" alt="Less" border="0"></a>
-</div>
-</td>
-<td style="width: 20px;">
-<input type="text" class="basketQuantity" style="width: 18px; text-align: right; padding-right: 1px;" id="basketQty2" name="basketQty2" value="1" onchange="newBasketUpdate('set', '76485S', this.value, 1, '', 'N');">
-</td>
-<td style="width: 6px">
-<div id="basket_inc_2">
-<a href="javascript:newBasketUpdate('add', '76485S', 1, 1, '', 'N');">
-<img id="basket_inc_2" src="http://cdn.bbr.com/images/white-chevron-right.gif" width="6" height="9" alt="More" border="0"></a>
-</div>
-</td>
-<td class="basketItemRight" id="basketTotal2">
-£&nbsp;515.00</td>
-<td class="basketItemRemove" id="basketRemove2">
-<a href="javascript:newBasketUpdate('set', '76485S', 0, 1, '', 'N');">
-<img src="http://cdn.bbr.com/images/checkout/bin.gif" width="12" height="14" alt="Remove from basket"></a>
-</td>
-</tr></tbody></table>
+</table>
 </form>
 </div>
 <script type="text/javascript">
   addAgainButtons = [];
-  noMoreStockYN = [];
+  noMoreStock = [];
+  noMoreStockCase = [];
   qtyInBasket = [];
-  addAgainButtons['769280'] = true;
-  qtyInBasket['769280'] = 7;
-  addAgainButtons['76485S'] = true;
-  qtyInBasket['76485S'] = 1;
+  basketMode = '';
 </script>
 </div>
 <div id="headerMiddle">
@@ -158,11 +90,47 @@ Berry Bros &amp; Rudd - Privacy and Security
 <div style="clear:both;"></div>
 </div>
 <!-- top-nav read from cache -->
-<div id="navContainer" style="clear:both;" role="navigation"><table cellspacing="0" cellpadding="0" border="0" width="100%" id="nav"><tbody><tr><td colspan="20" style="width:100%; height:2px; background:white;"></td></tr><tr><td class="firstNavItem"></td><td class="navItem" id="topNav0"><a id="nav1" href="http://www.bbr.com/" title="Home" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav1\', \'nav1\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Home</a></td><td class="navItem" id="topNav1"><a id="nav2" href="http://www.bbr.com/buy-wine" title="Buy Wine" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav2\', \'nav2\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Buy Wine</a></td><td class="navItem" id="topNav2"><a id="nav3" href="http://www.bbr.com/fine-wine" title="Fine Wine" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav3\', \'nav3\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Fine Wine</a></td><td class="navItem" id="topNav3"><a id="nav4" href="http://www.bbr.com/wine-events/events" title="Wine Events" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav4\', \'nav4\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Wine Events</a></td><td class="navItem" id="topNav4"><a id="nav5" href="http://www.bbr.com/wine-knowledge" title="Wine Knowledge" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav5\', \'nav5\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Wine Knowledge</a></td><td class="navItem" id="topNav5"><a id="nav6" href="http://www.bbr.com/wine-club" title="Wine Club" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav6\', \'nav6\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Wine Club</a></td><td class="navItem" id="topNav6"><a id="nav7" href="http://www.bbr.com/cellar-plan" title="Cellar Plan" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav7\', \'nav7\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Cellar Plan</a></td><td class="navItem" id="topNav7"><a id="nav8" href="http://www.bbr.com/whiskies-and-spirits" title="Spirits" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav8\', \'nav8\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Spirits</a></td><td class="navItem" id="topNav8"><a id="nav9" href="http://www.bbr.com/services" title="Services" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav9\', \'nav9\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">Services</a></td><td class="lastNavItem" id="topNav9"><a id="nav10" href="http://www.bbr.com/about" title="About Us" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'subNav10\', \'nav10\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">About Us</a></td></tr><tr><td colspan="20" id="navFooter" style="width:100%; height:3px;"></td></tr></tbody></table></div>
+<div id="navContainer" style="clear:both;" role="navigation">
+<table cellspacing="0" cellpadding="0" border="0" width="100%" id="nav">
+<tbody><tr><td colspan="20" style="width:100%; height:2px; background:white;"></td></tr>
+<tr><td class="firstNavItem"></td>
+<td class="navItem" id="topNav0">
+<a id="nav1" href="http://www.bbr.com/" title="Home" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav1\', \'#nav1\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Home</a></td>
+<td class="navItem" id="topNav1">
+<a id="nav2" href="http://www.bbr.com/buy-wine" title="Buy Wine" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav2\', \'#nav2\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Buy Wine</a></td>
+<td class="navItem" id="topNav2">
+<a id="nav3" href="http://www.bbr.com/fine-wine" title="Fine Wine" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav3\', \'#nav3\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Fine Wine</a></td>
+<td class="navItem" id="topNav3">
+<a id="nav4" href="http://www.bbr.com/wine-events/events" title="Wine Events" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav4\', \'#nav4\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Wine Events</a></td>
+<td class="navItem" id="topNav4">
+<a id="nav5" href="http://www.bbr.com/wine-knowledge" title="Wine Knowledge" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav5\', \'#nav5\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Wine Knowledge</a></td>
+<td class="navItem" id="topNav5">
+<a id="nav6" href="http://www.bbr.com/wine-club" title="Wine Club" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav6\', \'#nav6\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Wine Club</a></td>
+<td class="navItem" id="topNav6">
+<a id="nav7" href="http://www.bbr.com/cellar-plan" title="Cellar Plan" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav7\', \'#nav7\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Cellar Plan</a></td>
+<td class="navItem" id="topNav7">
+<a id="nav8" href="http://www.bbr.com/whiskies-and-spirits" title="Spirits" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav8\', \'#nav8\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Spirits</a></td>
+<td class="navItem" id="topNav8">
+<a id="nav9" href="http://www.bbr.com/services" title="Services" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav9\', \'#nav9\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+Services</a></td>
+<td class="lastNavItem" id="topNav9">
+<a id="nav10" href="http://www.bbr.com/about" title="About Us" onmouseover="subNavShowTimeout = setTimeout('showSubNav(\'#subNav10\', \'#nav10\')', 200);" onmouseout="clearTimeout(subNavShowTimeout); subNavTimeout = setTimeout('hideSubNav()', 200);">
+About Us</a></td>
+</tr><tr><td colspan="20" id="navFooter" style="width:100%; height:3px;"></td>
+</tr></tbody></table></div>
+
 <script language="Javascript" type="text/javascript">
 <!--
 // Highlight current top nav item
-xAddClass("topNav10","current");
+$("#topNav10").addClass("current");
 // -->
 </script>
 <div id="bodyContainer"> <div id="mainBody"> <div id="row1"> <div style="clear:both;"></div>
@@ -171,7 +139,7 @@ xAddClass("topNav10","current");
 <div style="background: url('http://cdn.bbr.com/images//titles/general-blue-3-bg.jpg') no-repeat right; background-color:#214a84; width:755px; height:44px;"></div>
 <div style="position:relative">
 <div style="position:absolute; top:-33px; left:8px;" class="imageHeader">
-<h1>Berry Bros &amp; Rudd Privacy  Policy</h1>
+<h1 style="color:#ffffff;">Berry Bros &amp; Rudd Privacy  Policy</h1>
 </div>
 </div>
 <div style="clear:both; height:8px;"><!-- --></div>
@@ -418,12 +386,7 @@ require payment of a reasonable fee.</p>
 <!-- including utils/page/variable-element.lml -->
 </div><!--- end right hand block -->
 <div style="clear:both; height:8px;"><!-- --></div>
-</div> </div> <div id="leftColumn"> <div class="popup" style="width: 200px; height: 175px;" id="loginPopUp">
-<div class="popupClose">
-<a onclick="javascript:return hideLogin();" href="#" title="Close">
-&nbsp;
-</a>
-</div>
+</div> </div> <div id="leftColumn"> <div id="loginDialogContainer" style="display:none;">
 <div style="text-align: center;">
 <form name="login" method="post" action="http://www.bbr.com/account/login-complete" onsubmit="return check_form_login('login')" style="margin:0; padding:0;">
 <input type="HIDDEN" name="ID" value="null">
@@ -445,8 +408,7 @@ Email or Account Number
 </div>
 <div style="float:left; padding: 5px 0 0 10px;">
 <label for="login_password">
-Password
-</label>
+Password &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </label>
 </div>
 <div style="float:left; padding: 0 0 0 10px;">
 <input name="password_F" type="PASSWORD" id="login_password" style="color:#555555; width:180px; height: 15px;" onkeypress="return submitLoginFormOnEnter(this,event)">
@@ -458,7 +420,7 @@ Remember me
 </label>
 </div>
 <div style="float:right; padding: 4px 4px 0px 0px;">
-<input type="image" src="http://cdn.bbr.com/images/buttons/button-go.gif" alt="Go" align="bottom">
+<input type="image" src="http://cdn.bbr.com/images/buttons/go-red.gif" alt="Go" align="bottom">
 </div>
 <div style="clear:both"></div>
 <div class="popupLink" style="float:left; padding: 20px 0 0 10px;"><a href="http://www.bbr.com/account/forgot-password">Forgotten your password?</a></div>
@@ -471,8 +433,8 @@ Remember me
 <div id="welcomeBack"> <div class="leftColumnHeader" style="background-color: #242B4C">
 <a href="/account/" class="leftColumnHeaderText" style="float:left">Your <b>Account</b></a>
 <span style="float:right">
-<a href="?linkid=login" onclick="javascript:return showLogin();" target="_new" id="toggleLogin">
-<img src="http://cdn.bbr.com/images/buttons/button-login-dark.png" width="59" height="19" alt="log in" title="log in" style="padding:3px 3px 0 0"></a>
+<a href="?linkid=login" id="toggleLogin">
+<img src="http://cdn.bbr.com/images/buttons/log-in.gif" width="52" height="16" alt="Log in" title="Log in" style="padding:3px 3px 0 0"></a>
 </span>
 </div>
 <div class="li_name">
@@ -492,7 +454,7 @@ Remember me
 <div style="position:absolute; top:-6px; left:140px;"></div>
 <div id="searchInput" align="center">
 <input maxlength="40" id="search_keywords" name="keywords_F" value="" class="searchTextBox" style="width:140px;">
-<input type="IMAGE" name="search_both_F" src="http://cdn.bbr.com/images/buttons/button-go.gif" alt="Search Box" align="top">
+<input type="IMAGE" name="search_both_F" src="http://cdn.bbr.com/images/buttons/go-red.gif" alt="Search Box" align="top">
 </div>
 <div id="searchHelp">
 <a href="http://www.bbr.com/shopping/advanced-wine-search?currency_code_F=GBP">Advanced Wine Search</a>
@@ -562,7 +524,7 @@ London</a></div></div>
 <div id="subMenu281" style="display: none;">
 <div class="menuLevel3" id="menuItem32291"><div>
 <span><a>&nbsp;</a></span>
-<a href="http://www.bbr.com/london-latestoffers?linkid=leftmenu">
+<a href="http://www.bbr.com/about/london-latestoffers?linkid=leftmenu">
 London Shop Offers</a></div></div>
 <div class="menuLevel3" id="menuItem32292"><div>
 <span><a>&nbsp;</a></span>
@@ -626,9 +588,19 @@ Berrys' Social Networks</a></div></div>
 BBR Virtual Tour</a></div></div>
 <div id="subMenu33892" style="display: none;">
 <div class="menuLevel2" id="menuItem33905"><div>
-<span><a>&nbsp;</a></span>
+<span id="toggle33905" class="wkClosed"><a href="javascript:wkToggle('33905');" onclick="this.blur();">&nbsp;</a></span>
 <a href="http://www.bbr.com/virtual-tour-shop?linkid=leftmenu">
 London Shop</a></div></div>
+<div id="subMenu33905" style="display: none;">
+<div class="menuLevel3" id="menuItem38591"><div>
+<span><a>&nbsp;</a></span>
+<a href="http://www.bbr.com/virtual-tour-delft-room-a?linkid=leftmenu">
+Delft Room Ground Floor</a></div></div>
+</div>
+<div class="menuLevel2" id="menuItem38592"><div>
+<span><a>&nbsp;</a></span>
+<a href="http://www.bbr.com/virtual-tour-spirits-room?linkid=leftmenu">
+Spirits Room</a></div></div>
 <div class="menuLevel2" id="menuItem33906"><div>
 <span><a>&nbsp;</a></span>
 <a href="http://www.bbr.com/virtual-tour-pickering-cellar?linkid=leftmenu">
@@ -637,14 +609,18 @@ Pickering Cellar</a></div></div>
 <span><a>&nbsp;</a></span>
 <a href="http://www.bbr.com/virtual-tour-napoleon-cellar?linkid=leftmenu">
 Napoleon Cellar</a></div></div>
+<div class="menuLevel2" id="menuItem33909"><div>
+<span><a>&nbsp;</a></span>
+<a href="http://www.bbr.com/virtual-tour-delft-room-b?linkid=leftmenu">
+Delft Room Ground Floor</a></div></div>
 <div class="menuLevel2" id="menuItem33908"><div>
 <span><a>&nbsp;</a></span>
 <a href="http://www.bbr.com/virtual-tour-long-room?linkid=leftmenu">
 Long Room</a></div></div>
-<div class="menuLevel2" id="menuItem33909"><div>
+<div class="menuLevel2" id="menuItem38593"><div>
 <span><a>&nbsp;</a></span>
-<a href="http://www.bbr.com/virtual-tour-delft-room-b?linkid=leftmenu">
-Delft Room</a></div></div>
+<a href="http://www.bbr.com/virtual-tour-delft-room-a?linkid=leftmenu">
+Delft Room 2ndFloor</a></div></div>
 <div class="menuLevel2" id="menuItem35093"><div>
 <span><a>&nbsp;</a></span>
 <a href="http://www.bbr.com/virtual-tour-bfo?linkid=leftmenu">
@@ -733,6 +709,10 @@ En Primeur Terms</a></div></div>
 <span><a>&nbsp;</a></span>
 <a href="http://www.bbr.com/about/website-terms?linkid=leftmenu">
 Website Use Terms</a></div></div>
+<div class="menuLevel2" id="menuItem31062"><div>
+<span><a>&nbsp;</a></span>
+<a href="http://www.bbr.com/about/bbx-terms?linkid=leftmenu">
+BBX Terms</a></div></div>
 </div>
 <div class="menuLevel1" id="menuItem130"><div>
 <span><a>&nbsp;</a></span>
@@ -743,7 +723,7 @@ Contact Us</a></div></div>
 <script language="Javascript" type="text/javascript">
 <!--
 // Highlight current menu item
-xAddClass("menuItem287","current");
+$("#menuItem287").addClass("current");
 // Open parent menu items so current one becomes visible
 
 wkToggle(287);
@@ -763,62 +743,57 @@ wkToggle(128);
 <a href="http://www.bbr.com/services/rss"><img src="http://cdn.bbr.com/images/rss.png" width="38" height="15" alt="RSS" align="top"></a>
 </li>
 <li>
-<a href="http://www.bbr.com/?linkid=footer" target="">
+<a href="http://www.bbr.com/?linkid=footer">
 Home</a>
 </li>
 <li>
-<a href="http://www.bbr.com/site-map?linkid=footer" target="">
+<a href="http://www.bbr.com/site-map?linkid=footer">
 Site Map</a>
 </li>
 <li>
-<a href="http://www.bbr.com/delivery?linkid=footer" target="">
+<a href="http://www.bbr.com/delivery?linkid=footer">
 Delivery Info</a>
 </li>
 <li>
-<a href="http://www.bbr.com/contact-form?contact_form_name_F=orders&amp;linkid=footer" target="">
+<a href="http://www.bbr.com/contact-form?contact_form_name_F=orders&amp;linkid=footer">
 Contact Us</a>
 </li>
 <li>
-<a href="http://www.bbr.com/about/terms?linkid=footer" target="">
+<a href="http://www.bbr.com/about/terms?linkid=footer">
 Terms</a>
 </li>
 <li>
-<a href="http://www.bbr.com/services/iphone?linkid=footer" target="">
+<a href="http://www.bbr.com/services/iphone?linkid=footer">
 iPhone App</a>
 </li>
 <li>
-<a href="http://bbrblog.com?linkid=footer" target="_blank">
+<a href="http://bbrblog.com?linkid=footer">
 Blog</a>
 </li>
 <li>
-<a href="http://www.facebook.com/berryswine?linkid=footer" target="_blank">
+<a href="http://www.facebook.com/berryswine?linkid=footer">
 Facebook</a>
 </li>
 <li>
-<a href="http://www.bbr.com/about/twitter?linkid=footer" target="">
+<a href="http://www.bbr.com/about/twitter?linkid=footer">
 Twitter</a>
 </li>
 <li>
-<a href="http://www.bbr.com/about/pressenquiries?linkid=footer" target="">
+<a href="http://www.bbr.com/about/pressenquiries?linkid=footer">
 Press Enquiries</a>
 </li>
 <li>
-<a href="http://www.bbr.com/about/privacy?linkid=footer" target="">
+<a href="http://www.bbr.com/about/privacy?linkid=footer">
 Privacy and Security</a>
 </li>
 <li>
-<a href="http://www.bbr.com/account/settings?linkid=footer" target="">
+<a href="http://www.bbr.com/account/settings?linkid=footer">
 Settings</a>
 </li>
 </ul>
 <div style="clear:both; width: 965px; height:2px; background-color: #242b4c; padding:0; margin: 0;"><!-- --></div>
 </div>
-<div class="popup" id="newsletterPopUp">
-<div class="popupClose">
-<a onclick="javascript:return hideNewsletter();" href="#" title="Close">
-&nbsp;
-</a>
-</div>
+<div id="newsletterDialogContainer" style="display:none;">
 <form name="nl" method="post" action="http://www.bbr.com/about/privacy?linkid=footer" style="margin:0; padding:0;">
 <input type="HIDDEN" name="newsletter_submit_F" value="1">
 <input type="HIDDEN" name="submit_from_F" value="/about/privacy">
@@ -826,24 +801,40 @@ Settings</a>
 <input type="HIDDEN" name="hear_F" value="other-homepage-signup">
 <input type="HIDDEN" name="fine_wine_ok_F" value="Y">
 <div class="clearFloats"></div>
+<table> <tbody><tr>
+<td>
 <label for="full_name_F">
 Name *
 </label>
-<input type="text" name="full_name_F" value="" maxlength="30" id="full_name_F">
+</td>
+<td>
+<input type="text" name="full_name_F" value="" size="30" maxlength="30" id="full_name_F">
+</td>
+</tr>
+<tr>
+<td>
 <label for="email_F">
 Email *
 </label>
-<input type="TEXT" name="email_F" value="" maxlength="30" id="email_F">
-<br>* Required
-<input type="IMAGE" src="http://cdn.bbr.com/images/buttons/button-go.gif" alt="Submit" align="bottom" class="buttonGo">
+</td>
+<td>
+<input type="TEXT" name="email_F" value="" size="30" maxlength="30" id="email_F">
+</td>
+</tr>
+<tr>
+<td colspan="2">
+* Required
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<input type="IMAGE" src="http://cdn.bbr.com/images/buttons/go-red.gif" alt="Submit" align="bottom" class="buttonGo">
+</td>
+</tr>
+</tbody></table>
 </form>
 </div>
-<div class="popup" id="emailAFriendPopUp">
-<div class="popupClose">
-<a onclick="javascript:return hideEmailAFriend();" href="#" title="Close">
-&nbsp;
-</a>
-</div>
+<div id="emailAFriendDialogContainer" style="display:none;">
 <form name="emailafriend" method="post" action="http://www.bbr.com/about/privacy?linkid=footer" onsubmit="return check_email_form(); showEmailAFriend();">
 <input type="HIDDEN" name="email_a_friend_submit_F" value="1">
 <table>
@@ -872,7 +863,6 @@ Your email *
 <label for="friend_name_F">
 Friend's name *
 </label>
-
 </td>
 <td>
 <label for="friend_email_F">
@@ -893,7 +883,7 @@ Friend's email *
 <label for="message_F">
 Message
 </label>
-<input type="text" name="message_F" value="" id="message_F">
+<input type="text" name="message_F" value="" id="message_F" size="50">
 </td>
 </tr>
 <tr>
@@ -909,7 +899,7 @@ Send to your email address also
 * Required
 </td>
 <td>
-<input type="image" src="http://cdn.bbr.com/images/buttons/button-go.gif" name="email_a_friend_submit_F" id="email_a_friend_submit_F" alt="Submit" align="bottom" class="buttonGo">
+<input type="image" src="http://cdn.bbr.com/images/buttons/go-red.gif" name="email_a_friend_submit_F" id="email_a_friend_submit_F" alt="Submit" align="bottom" class="buttonGo">
 </td>
 </tr>
 <tr>
@@ -924,12 +914,7 @@ party, ever.
 </tbody></table>
 </form>
 </div>
-<div class="popup" id="changeSitePopUp">
-<div class="popupClose">
-<a onclick="javascript:return hideChangeSite();" href="#" title="Close">
-&nbsp;
-</a>
-</div>
+<div id="changeSiteDialogContainer" style="display:none;">
 <form name="changeSite" method="post" action="http://www.bbr.com/change-site.lml">
 <input type="HIDDEN" name="goto_F" value="/index.lml">
 <div class="flag">
@@ -967,7 +952,7 @@ Ireland
 Hong Kong
 </label>
 </div>
-<input type="image" src="http://cdn.bbr.com/images/buttons/button-go.gif" alt="Go" align="bottom" class="buttonGo">
+<input type="image" src="http://cdn.bbr.com/images/buttons/go-red.gif" alt="Go" align="bottom" class="buttonGo">
 </form>
 </div>
 <div style="clear:both; HEIGHT:10px;"></div>
@@ -982,18 +967,14 @@ Hong Kong
 <a href="/contact-form?contact_form_name_F=orders&amp;linkid=sub-footer">+44 (0)800 280 2440</a>
 </li>
 <li class="email" id="topBarEmailAFriendLink">
-<!--- on click event should fire javascript else fire href into new window with the signup box for non-javascript users -->
-<a href="?linkid=email-this-page" onclick="javascript:return showEmailAFriend();" target="_new" id="emailPage">email this page</a>
+<a href="?linkid=email-this-page" id="emailPage">email this page</a>
 </li>
 <li class="mail" id="topBarNewsletterLink">
-<!--- on click event should fire javascript else fire href into new window with the signup box for non-javascript users -->
-<a href="?linkid=email-signup" onclick="javascript:return showNewsletter();" target="_new" id="newsletterSignup">
-email sign up
-</a>
+<a href="?linkid=email-signup" id="newsletterSignup">email sign up</a>
 </li>
 <li class="print"><a href="javascript:window.print();">print this page</a></li>
 <li class="changeSiteUK" id="changeSiteLink">
-<a href="?linkid=change-site" onclick="javascript:return showChangeSite();" target="_new" id="toggleSite">
+<a href="?linkid=change-site" id="toggleSite">
 <strong> UK</strong>
 - change site</a>
 </li>
@@ -1001,151 +982,186 @@ email sign up
 </div>
 <div id="footer-seo" class="bodyText" align="center">
 <table class="footer-seo-table">
-<tbody><tr>
-<td class="fst-nobg"><b>Bordeaux:</b></td>
-<td rowspan="13" class="fst-bg">&nbsp;</td>
-<td class="fst-nobg"><b>Burgundy:</b></td>
-<td rowspan="13" class="fst-bg">&nbsp;</td>
-<td class="fst-nobg"><b>Port:</b></td>
-<td rowspan="13" class="fst-bg">&nbsp;</td>
-<td class="fst-nobg"><b>Other Popular Wines:</b></td>
-<td rowspan="13" class="fst-bg">&nbsp;</td>
-<td class="fst-nobg"><b>Spirits:</b></td>
+<tbody>
+<tr>
+<td class="fst-nobg">
+<b>Bordeaux:</b></td>
+<td class="fst-bg" rowspan="13">
+&nbsp;</td>
+<td class="fst-nobg">
+<b>Burgundy:</b></td>
+<td class="fst-bg" rowspan="13">
+&nbsp;</td>
+<td class="fst-nobg">
+<b>Port:</b></td>
+<td class="fst-bg" rowspan="13">
+&nbsp;</td>
+<td class="fst-nobg">
+<b>Other Popular Wines:</b></td>
+<td class="fst-bg" rowspan="13">
+&nbsp;</td>
+<td class="fst-nobg">
+<b>Spirits:</b></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-250-chateau-lafite-rothschild">Château
-Lafite</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1594-chablis-premier-cru">Chablis Premier
-Cru</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-4382-vintage-port">Vintage
-Port</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-3612-barolo">Barolo</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-54-speyside">Speyside
-Whisky</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-250-chateau-lafite-rothschild">Château Lafite</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1594-chablis-premier-cru">Chablis Premier Cru</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-4382-vintage-port">Vintage Port</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-3612-barolo">Barolo</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-54-speyside">Speyside Whisky</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-270-chateau-latour">Château Latour</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1593-chablis-grand-cru">Chablis Grand Cru</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-1202-quinta-do-vesuvio">Quinta do Vesuvio</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-715-chapoutier">Chapoutier
-Wines</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-49-highlands">Highlands
-Whisky</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-270-chateau-latour">Château Latour</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1593-chablis-grand-cru">Chablis Grand Cru</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-1202-quinta-do-vesuvio">Quinta do Vesuvio</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-715-chapoutier">Chapoutier Wines</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-49-highlands">Highlands Whisky</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-340-chateau-margaux">Château
-Margaux</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1641-chambolle-musigny">Chambolle Musigny</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-587-fonseca">Fonseca
-Port</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1026-chateauneuf-du-pape">Châteauneuf du
-Pape</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-50-islay">Islay
-Whisky</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-340-chateau-margaux">Château Margaux</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1641-chambolle-musigny">Chambolle Musigny</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-587-fonseca">Fonseca Port</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1026-chateauneuf-du-pape">Châteauneuf du Pape</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-50-islay">Islay Whisky</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-360-chateau-mouton-rothschild">Mouton
-Rothschild</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1599-vougeot">Clos
-Vougeot</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-588-graham">Graham
-Port</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-3754-chianti-classico">Chianti Classico</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-48-lowlands">Lowland
-Whisky</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-360-chateau-mouton-rothschild">Mouton Rothschild</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1599-vougeot">Clos Vougeot</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-588-graham">Graham Port</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-3754-chianti-classico">Chianti Classico</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-48-lowlands">Lowland Whisky</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-190-chateau-haut-brion">Haut Brion</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1639-gevrey-chambertin">Gevrey Chambertin</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-615-taylor">Taylor
-Port</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-3607-cloudy-bay">Cloudy
-Bay</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-51-campbeltown">Campbeltown&nbsp;Whisky</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-190-chateau-haut-brion">Haut Brion</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1639-gevrey-chambertin">Gevrey Chambertin</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-615-taylor">Taylor Port</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-3607-cloudy-bay">Cloudy Bay</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/GB/region-51-campbeltown">Campbeltown&nbsp;Whisky</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-370-chateau-palmer">Château Palmer</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1608-meursault">Meursault</a></td>
-<td>&nbsp;</td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-1002-e.-lustau">Lustau
-Sherry</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/whiskies/berrys-own-selection-whiskies">Berrys' Own
-Whiskies</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-370-chateau-palmer">Château Palmer</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1608-meursault">Meursault</a></td>
+<td>
+&nbsp;</td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-1002-e.-lustau">Lustau Sherry</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/whiskies/berrys-own-selection-whiskies">Berrys' Own Whiskies</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-16-chateau-leoville-las-cases">Leoville Las
-Cases</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1601-nuits-saint-georges">Nuits St. Georges</a></td>
-<td><b>Champagne:</b></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-992-central-vineyards">Sancerre</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/whiskies/cognac">Cognac</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-16-chateau-leoville-las-cases">Leoville Las Cases</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1601-nuits-saint-georges">Nuits St. Georges</a></td>
+<td>
+<b>Champagne:</b></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-992-central-vineyards">Sancerre Pouilly-Fumé</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/whiskies/cognac">Cognac</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-130-chateau-ducru-beaucaillou">Ducru
-Beaucaillou</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-1990-puligny-montrachet">Puligny-Montrachet</a></td>
-<td>&nbsp; <a href="http://www.bbr.com/producer-15-bollinger">Bollinger</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-4008-ridge">Ridge Monte
-Bello</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/whiskies/cognac">Vintage
-Armagnac</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-130-chateau-ducru-beaucaillou">Ducru Beaucaillou</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-1990-puligny-montrachet">Puligny-Montrachet</a></td>
+<td>
+&nbsp; <a href="http://www.bbr.com/producer-15-bollinger">Bollinger</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-4008-ridge">Ridge Monte Bello</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/whiskies/cognac">Vintage Armagnac</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-320-chateau-lynch-bages">Château &nbsp;Lynch
-Bages</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-927-leflaive">Domaine
-Leflaive</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-1303-pol-roger">Pol
-Roger</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-240-rioja">Rioja
-Wines</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-320-chateau-lynch-bages">Château &nbsp;Lynch Bages</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-927-leflaive">Domaine Leflaive</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-1303-pol-roger">Pol Roger</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-240-rioja">Rioja Wines</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-170-chateau-giscours">Château
-Giscours</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-826-de-la-romanee-conti-drc">Romanée
-Conti</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-595-krug">Krug</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-717-chateau-beaucastel">Château
-Beaucastel</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-170-chateau-giscours">Château Giscours</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-826-de-la-romanee-conti-drc">Romanée Conti</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-595-krug">Krug</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-717-chateau-beaucastel">Château Beaucastel</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-280-chateau-leoville-barton">Léoville-Barton</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-3891-des-lafon">Dom. des
-Comtes Lafon</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-3505-gosset">Gosset</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-93-yarra-yering">Yarra
-Yering, Australia</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-280-chateau-leoville-barton">Léoville-Barton</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-3891-des-lafon">Dom. des Comtes Lafon</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-3505-gosset">Gosset</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-93-yarra-yering">Yarra Yering, Australia</a></td>
 </tr>
 <tr>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/fine-wine/bordeaux-2009">Bordeaux
-Vintage 2009</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-838-nicolas-potel">Nicolas
-Potel</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/region-4412-rose">Rosé
-Champagne</a></td>
-<td>&nbsp;&nbsp;<a href="http://www.bbr.com/producer-76-vega-sicilia">Vega
-Sicilia</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/fine-wine/bordeaux-2009">Bordeaux 2009</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-838-nicolas-potel">Nicolas Potel</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/region-4412-rose">Rosé Champagne</a></td>
+<td>
+&nbsp;&nbsp;<a href="http://www.bbr.com/producer-76-vega-sicilia">Vega Sicilia</a></td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 <div id="disclaimer">
 <table>
-<tbody><tr>
-<td>&nbsp;</td>
+<tbody>
+<tr>
+<td>
+&nbsp;</td>
 </tr>
 <tr>
-<td>+44 (0)800 280 2440&nbsp;(Monday to Friday 9am-6pm, Saturday
-10am-4pm)</td>
+<td>
+Registered company 05492886. BB&amp;R Limited, trading as Berry Bros &amp; Rudd, 3 St James's Street, London, SW1A 1EG.</td>
 </tr>
 <tr>
-<td>Registered company 05492886. BB&amp;R Limited, trading as Berry Bros &amp;
-Rudd, 3 St James's Street, London, SW1A 1EG.</td>
+<td>
+All rights reserved. You must be 18 or over to order. * Calls may be recorded.</td>
 </tr>
 <tr>
-<td> All rights reserved. You must be 18 or over to order. *
-Calls may be recorded.</td>
+<td>
+&nbsp;</td>
 </tr>
-<tr></tr></tbody></table>
+</tbody>
+</table>
 </div>
 </div>
 </div> </div> </div> <script type="text/javascript">
@@ -1160,35 +1176,419 @@ pageTracker._initData();
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <!-- sub-nav read from cache -->
-      <div id="subNav1" class="subNav" onmouseover="showSubNav('subNav1', 'nav1'); xGetElementById('nav1').className = (xGetElementById('nav1').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav1').className = (xGetElementById('nav1').className == 'over') ? '' : 'over' ;"></div>
-      <div id="subNav2" class="subNav" onmouseover="showSubNav('subNav2', 'nav2'); xGetElementById('nav2').className = (xGetElementById('nav2').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav2').className = (xGetElementById('nav2').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/browse-wine">Browse Wine</a><a href="http://www.bbr.com/shopping/offers">Latest Wine Offers</a><a href="http://www.bbr.com/shopping/advanced-wine-search">Advanced Wine Search</a><a href="http://www.bbr.com/shopping/berrys-own-selection">Berrys' Own Selection</a><a href="http://www.bbr.com/shopping/staff-tips">Berrys' Staff Tips</a><a href="http://www.bbr.com/shopping/mixed-cases">Mixed Cases</a><a href="http://www.bbr.com/shopping/new-wines">New Wines</a><a href="http://www.bbr.com/shopping/press-wines">Wines In The Press</a><a href="http://www.bbr.com/bestsellers">Bestsellers</a><a href="http://www.bbr.com/shopping/top-search-cloud">Popular Searches</a><a href="http://www.bbr.com/shopping/faq">Buy Wine FAQs</a><a href="http://www.bbr.com/shopping/wine-accessories">Wine Accessories</a><a href="http://www.bbr.com/shopping/organic-biodynamic-wine-list">Organic &amp; Biodynamic </a><a href="http://www.bbr.com/shopping/gift-packaging">Gift Packaging</a></ul></div>
-      <div id="subNav3" class="subNav" onmouseover="showSubNav('subNav3', 'nav3'); xGetElementById('nav3').className = (xGetElementById('nav3').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav3').className = (xGetElementById('nav3').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/fine-wine/bordeaux-2009">Bordeaux 2009</a><a href="http://www.bbr.com/fine-wine/offers">Fine Wine Offers</a><a href="http://www.bbr.com/download/broking_list.pdf">Broking List</a><a href="http://www.bbr.com/fine-wine-list">Fine Wine List</a><a href="http://www.bbr.com/fine-wine/en-primeur">En Primeur</a><a href="http://www.bbr.com/fine-wine/first-growths">First Growths</a><a href="http://www.bbr.com/cellar-plan">Cellar Plan</a><a href="http://www.bbr.com/fine-wine/alternative-investment">Guide to Wine Investment </a><a href="http://www.bbr.com/wine-storage">Wine Storage</a><a href="http://www.bbr.com/fine-wine/fine-wine-team">Fine Wine Team</a></ul></div>
-      <div id="subNav4" class="subNav" onmouseover="showSubNav('subNav4', 'nav4'); xGetElementById('nav4').className = (xGetElementById('nav4').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav4').className = (xGetElementById('nav4').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/browse-events">Browse All Events</a><a href="http://www.bbr.com/wine-events/tasting-events-calendar">Wine Events Calendar</a><a href="http://www.bbr.com/wine-events/school">Wine School</a><a href="http://www.bbr.com/producer-1561-cellar-tastings">Wine Tastings</a><a href="http://www.bbr.com/wine-events/luncheons">Wine Luncheons</a><a href="http://www.bbr.com/wine-events/dinners">Wine Dinners</a><a href="http://www.bbr.com/producer-1562-food-wine-events">Food &amp; Wine Events</a></ul></div>
-      <div id="subNav5" class="subNav" onmouseover="showSubNav('subNav5', 'nav5'); xGetElementById('nav5').className = (xGetElementById('nav5').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav5').className = (xGetElementById('nav5').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/regions">Wine Regions</a><a href="http://www.bbr.com/producers">Wine Producers</a><a href="http://www.bbr.com/wine-knowledge/maps">Wine Maps</a><a href="http://www.bbr.com/vintage-chart">Vintage Chart</a><a href="http://www.bbr.com/grape-varieties">Wine Grapes</a><a href="http://www.bbr.com/wine-knowledge/bordeaux-wine-guide">Bordeaux Wine Guide</a><a href="http://www.bbr.com/wine-knowledge/burgundy-wine-guide">Burgundy Wine Guide</a><a href="http://bbrblog.com" target="_blank">Wine Blog</a><a href="http://www.bbr.com/newsletter">Newsletter</a><a href="http://www.bbr.com/wine-knowledge/podcask">Podcasks</a><a href="http://www.bbr.com/wine-events/school">Wine School</a><a href="http://www.bbr.com/wine-knowledge/faq">Wine FAQs</a><a href="http://www.bbr.com/wine-knowledge/food-and-wine">Food &amp; Wine Matching</a><a href="http://www.bbr.com/pronunciation">Wine Pronunciation</a><a href="http://www.bbr.com/wine-knowledge/game">Wine Game</a><a href="http://www.bbr.com/quiz">Wine Quiz</a><a href="http://www.bbr.com/wine-knowledge/links">Wine Links</a><a href="http://www.bbr.com/about/masters-of-wine">Masters of Wine</a></ul></div>
-      <div id="subNav6" class="subNav" onmouseover="showSubNav('subNav6', 'nav6'); xGetElementById('nav6').className = (xGetElementById('nav6').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav6').className = (xGetElementById('nav6').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/wine-club/signup-plan">Manage Your Wine Club</a><a href="http://www.bbr.com/wine-club/options">Wine Club Options</a><a href="http://www.bbr.com/wine-club/benefits">Wine Club Benefits</a><a href="http://www.bbr.com/wine-club/discounts">Wine Club Offers</a><a href="http://www.bbr.com/shopping/wine-club/wine-club-news">Wine Club News</a><a href="http://www.bbr.com/wine-club/wine-tasting-events">Wine Club Events</a><a href="http://www.bbr.com/wine-club/wine-recipe-matching">Recipe Matching Service</a><a href="http://www.bbr.com/shopping/wine-club/wine-club-faq">Wine Club FAQs</a><a href="http://www.bbr.com/wine-club/membership-gift">Wine Club Gift</a><a href="http://www.bbr.com/wine-club/testimonials">Wine Club Testimonials</a><a href="http://www.bbr.com/wine-club/newsletter">Wine Club Newsletter</a><a href="http://www.bbr.com/contact-form?contact_form_name_F=wineclub">Contact Us</a></ul></div>
-      <div id="subNav7" class="subNav" onmouseover="showSubNav('subNav7', 'nav7'); xGetElementById('nav7').className = (xGetElementById('nav7').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav7').className = (xGetElementById('nav7').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/cellar-plan/signup-payments">Manage Your Plan</a><a href="http://www.bbr.com/cellar-plan/options">Cellar Plan Options</a><a href="http://www.bbr.com/cellar-plan/benefits">Cellar Plan Benefits</a><a href="http://www.bbr.com/cellar-plan/faq">Cellar Plan FAQs</a><a href="http://www.bbr.com/cellar-plan/payments">Cellar Plan Payments</a><a href="http://www.bbr.com/cellar-plan/investment">Investment Potential</a><a href="http://www.bbr.com/cellar-plan/storage">Cellar Plan Storage</a><a href="http://www.bbr.com/cellar-plan/inspirational-cellars">Inspirational Cellars</a><a href="http://www.bbr.com/contact-form?contact_form_name_F=cellplan">Contact Us</a><a href="http://www.bbr.com/cellar-plan/newsletter">Cellar Plan Newsletter</a></ul></div>
-      <div id="subNav8" class="subNav" onmouseover="showSubNav('subNav8', 'nav8'); xGetElementById('nav8').className = (xGetElementById('nav8').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav8').className = (xGetElementById('nav8').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/whiskies/new-whisky-spirits">New this Month</a><a href="http://www.bbr.com/browse-scotch-whiskies">Browse Scotch</a><a href="http://www.bbr.com/browse-all-spirits">Browse All Spirits</a><a href="http://www.bbr.com/region-45-scotch-whisky">Whisky Regions</a><a href="http://www.bbr.com/producers-45-scotch-whisky">Scotch Brands</a><a href="http://www.bbr.com/whiskies/berrys-own-selection-whiskies">Berrys' Own Whiskies</a><a href="http://www.bbr.com/whiskies/berrys-own-range-spirits">Berrys' Own Spirits</a><a href="http://www.bbr.com/whiskies/world-whiskies">World Whiskies</a><a href="http://www.bbr.com/producer-981-glenrothes-distillery-speyside">Glenrothes</a><a href="http://www.bbr.com/region-5410-blended-whiskies">Blended Whiskies</a><a href="http://www.bbr.com/region-5409-blended-malts">Blended Malts</a><a href="http://www.bbr.com/whiskies/armagnac">Armagnacs</a><a href="http://www.bbr.com/whiskies/cognac">Cognacs</a><a href="http://www.bbr.com/whiskies/calvados">Calvados</a><a href="http://www.bbr.com/whiskies/gin">Gin</a><a href="http://www.bbr.com/whiskies/other-spirits">Other Spirits</a></ul></div>
-      <div id="subNav9" class="subNav" onmouseover="showSubNav('subNav9', 'nav9'); xGetElementById('nav9').className = (xGetElementById('nav9').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav9').className = (xGetElementById('nav9').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/delivery">Delivery</a><a href="http://www.bbr.com/wine-events/events">Wine Events</a><a href="http://www.bbr.com/cellar-plan">Cellar Plan</a><a href="http://www.bbr.com/wedding-service">Wedding Service</a><a href="http://www.bbr.com/wine-club">Wine Club</a><a href="http://www.bbr.com/services/hospitality">Hospitality</a><a href="http://www.bbr.com/services/iphone">iPhone App</a><a href="http://www.bbr.com/services/corporate">Corporate Sales</a><a href="http://www.bbr.com/wine-storage">Wine Storage</a><a href="http://www.bbr.com/fine-wine/investment">Wine Investment</a><a href="http://www.bbr.com/services/rss">RSS Feeds</a><a href="http://www.bbr.com/services/ecards">Wine E-cards</a><a href="http://www.bbr.com/contact-form?contact_form_name_F=orders">Contact Us</a></ul></div>
-      <div id="subNav10" class="subNav" onmouseover="showSubNav('subNav10', 'nav10'); xGetElementById('nav10').className = (xGetElementById('nav10').className == 'over') ? '' : 'over' ;" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); xGetElementById('nav10').className = (xGetElementById('nav10').className == 'over') ? '' : 'over' ;"><ul role="navigation" class="subNavList"><a href="http://www.bbr.com/about/who-we-are">Who We Are</a><a href="http://www.bbr.com/about/history">Our History</a><a href="http://www.bbr.com/about/shops">Shops</a><a href="http://www.bbr.com/about/berrys-social-networks">Berrys' Social Networks</a><a href="http://www.bbr.com/virtual-tour">BBR Virtual Tour</a><a href="http://www.bbr.com/about/accolades">Accolades</a><a href="http://www.bbr.com/about/mws">Berrys' MWs</a><a href="http://www.bbr.com/fine-wine/fine-wine-team">Fine Wine Team</a><a href="http://www.bbr.com/about/website-team">Web Marketing Team</a><a href="http://www.bbr.com/about/environmental-policy">Environment</a><a href="http://www.bbr.com/about/eco-information">Eco Information</a><a href="http://www.bbr.com/about/jobs">Jobs</a><a href="http://www.bbr.com/about/pressenquiries">Press Enquiries</a><a href="http://www.bbr.com/about/terms">Terms</a><a href="http://www.bbr.com/contact-form?contact_form_name_F=orders">Contact Us</a></ul></div>
+<div id="subNav1" class="subNav" onmouseover="showSubNav('#subNav1', '#nav1'); $('#nav1').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav1').toggleClass('over');">
+</div>
+<div id="subNav2" class="subNav" onmouseover="showSubNav('#subNav2', '#nav2'); $('#nav2').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav2').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/browse-wine">
+Browse Wine</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/christmas-offers">
+Christmas Offers</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/advanced-wine-search">
+Advanced Wine Search</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/berrys-own-selection">
+Berrys' Own Selection</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/wine-gifts">
+Gifts</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/mixed-cases">
+Mixed Cases</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/new-wines">
+New Wines</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/press-wines">
+Wines In The Press</a></li>
+<li>
+<a href="http://www.bbr.com/bestsellers">
+Bestsellers</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/top-search-cloud">
+Popular Searches</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/faq">
+Buy Wine FAQs</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/wine-accessories">
+Wine Accessories</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/organic-biodynamic-wine-list">
+Organic &amp; Biodynamic </a></li>
+<li>
+<a href="http://www.bbr.com/shopping/staff-tips">
+Berrys' Staff Tips</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/gift-packaging">
+Gift Packaging</a></li>
+<li>
+<a href="http://www.bbr.com/product-F00199">
+Inside Burgundy - The Book</a></li>
+</ul>
+</div>
+<div id="subNav3" class="subNav" onmouseover="showSubNav('#subNav3', '#nav3'); $('#nav3').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav3').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/fine-wine-list">
+Fine Wine List</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/offers">
+Fine Wine Offers</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/bbx">
+BBX</a></li>
+<li>
+<a href="http://www.bbr.com/broking-list">
+Buy Wines on BBX</a></li>
+<li>
+<a href="http://www.bbr.com/new-to-broking-last-week">
+New Wines on BBX</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/en-primeur">
+En Primeur</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan">
+Cellar Plan</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/first-growths">
+First Growths</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/alternative-investment">
+Guide to Wine Investment </a></li>
+<li>
+<a href="http://www.bbr.com/wine-storage">
+Wine Storage</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/fine-wine-team">
+Fine Wine Team</a></li>
+</ul>
+</div>
+<div id="subNav4" class="subNav" onmouseover="showSubNav('#subNav4', '#nav4'); $('#nav4').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav4').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/browse-events">
+Browse All Events</a></li>
+<li>
+<a href="http://www.bbr.com/wine-events/tasting-events-calendar">
+Wine Events Calendar</a></li>
+<li>
+<a href="http://www.bbr.com/wine-events/school">
+Wine School</a></li>
+<li>
+<a href="http://www.bbr.com/producer-1561-cellar-tastings">
+Wine Tastings</a></li>
+<li>
+<a href="http://www.bbr.com/wine-events/luncheons">
+Wine Luncheons</a></li>
+<li>
+<a href="http://www.bbr.com/wine-events/dinners">
+Wine Dinners</a></li>
+<li>
+<a href="http://www.bbr.com/producer-1562-food-wine-events">
+Food &amp; Wine Events</a></li>
+<li>
+<a href="http://www.bbr.com/services/hospitality">
+Hospitality</a></li>
+</ul>
+</div>
+<div id="subNav5" class="subNav" onmouseover="showSubNav('#subNav5', '#nav5'); $('#nav5').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav5').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/regions">
+Wine Regions</a></li>
+<li>
+<a href="http://www.bbr.com/producers">
+Wine Producers</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/maps">
+Wine Maps</a></li>
+<li>
+<a href="http://www.bbr.com/vintage-chart">
+Vintage Chart</a></li>
+<li>
+<a href="http://www.bbr.com/grape-varieties">
+Wine Grapes</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/bordeaux-wine-guide">
+Bordeaux Wine Guide</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/burgundy-wine-guide">
+Burgundy Wine Guide</a></li>
+<li>
+<a href="http://www.bbr.com/product-F00199">
+Inside Burgundy - The Book</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/berrys-newsletter">
+Newsletter</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/podcask">
+Podcasks</a></li>
+<li>
+<a href="http://www.bbr.com/wine-events/school">
+Wine School</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/faq">
+Wine FAQs</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/food-and-wine">
+Food &amp; Wine Matching</a></li>
+<li>
+<a href="http://www.bbr.com/pronunciation">
+Wine Pronunciation</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/game">
+Wine Game</a></li>
+<li>
+<a href="http://www.bbr.com/quiz">
+Wine Quiz</a></li>
+<li>
+<a href="http://www.bbr.com/wine-knowledge/links">
+Wine Links</a></li>
+<li>
+<a href="http://www.bbr.com/about/masters-of-wine">
+Masters of Wine</a></li>
+<li>
+<a href="http://bbrblog.com" target="_blank">
+Wine Blog</a></li>
+</ul>
+</div>
+<div id="subNav6" class="subNav" onmouseover="showSubNav('#subNav6', '#nav6'); $('#nav6').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav6').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/wine-club/signup-plan">
+Manage Your Wine Club</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/options">
+Wine Club Options</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/benefits">
+Wine Club Benefits</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/discounts">
+Wine Club Offers</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/wine-club/wine-club-news">
+Wine Club News</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/wine-tasting-events">
+Wine Club Events</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/wine-recipe-matching">
+Recipe Matching Service</a></li>
+<li>
+<a href="http://www.bbr.com/shopping/wine-club/wine-club-faq">
+Wine Club FAQs</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/membership-gift">
+Wine Club Gift</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/testimonials">
+Wine Club Testimonials</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club/email-newsletter">
+Wine Club Newsletter</a></li>
+<li>
+<a href="http://www.bbr.com/contact-form?contact_form_name_F=wineclub">
+Contact Us</a></li>
+</ul>
+</div>
+<div id="subNav7" class="subNav" onmouseover="showSubNav('#subNav7', '#nav7'); $('#nav7').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav7').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/cellar-plan/signup-payments">
+Manage Your Plan</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/options">
+Cellar Plan Options</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/benefits">
+Cellar Plan Benefits</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/faq">
+Cellar Plan FAQs</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/payments">
+Cellar Plan Payments</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/investment">
+Investment Potential</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/storage">
+Cellar Plan Storage</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/inspirational-cellars">
+Inspirational Cellars</a></li>
+<li>
+<a href="http://www.bbr.com/contact-form?contact_form_name_F=cellplan">
+Contact Us</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan/email-newsletter">
+Cellar Plan Newsletter</a></li>
+</ul>
+</div>
+<div id="subNav8" class="subNav" onmouseover="showSubNav('#subNav8', '#nav8'); $('#nav8').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav8').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/producer-981-glenrothes-distillery-speyside">
+The Glenrothes</a></li>
+<li>
+<a href="http://www.bbr.com/producer-1874-no3-london-dry-gin">
+No3 London Dry Gin</a></li>
+<li>
+<a href="http://www.bbr.com/producer-1824-the-king-s-ginger">
+The King's Ginger</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/berrys-own-range-spirits">
+Berrys' Own Spirits</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/berrys-own-selection-whiskies">
+Berrys' Own Whiskies</a></li>
+<li>
+<a href="http://www.bbr.com/browse-all-spirits">
+Browse All Spirits</a></li>
+<li>
+<a href="http://www.bbr.com/browse-scotch-whiskies">
+Browse Scotch</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/world-whiskies">
+World Whiskies</a></li>
+<li>
+<a href="http://www.bbr.com/region-45-scotch-whisky">
+Whisky Regions</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/cognac">
+Cognacs</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/armagnac">
+Armagnacs</a></li>
+<li>
+<a href="http://www.bbr.com/region-5410-blended-whiskies">
+Blended Whiskies</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/calvados">
+Calvados</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/other-spirits">
+Other Spirits</a></li>
+<li>
+<a href="http://www.bbr.com/whiskies/new-whisky-spirits">
+New this Month</a></li>
+</ul>
+</div>
+<div id="subNav9" class="subNav" onmouseover="showSubNav('#subNav9', '#nav9'); $('#nav9').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav9').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/delivery">
+Delivery</a></li>
+<li>
+<a href="http://www.bbr.com/cellar-plan">
+Cellar Plan</a></li>
+<li>
+<a href="http://www.bbr.com/wine-club">
+Wine Club</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/bbx">
+BBX</a></li>
+<li>
+<a href="http://www.bbr.com/wedding-service">
+Wedding Service</a></li>
+<li>
+<a href="http://www.bbr.com/wine-events/events">
+Wine Events</a></li>
+<li>
+<a href="http://www.bbr.com/services/hospitality">
+Hospitality</a></li>
+<li>
+<a href="http://www.bbr.com/wine-storage">
+Wine Storage</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/investment">
+Wine Investment</a></li>
+<li>
+<a href="http://www.bbr.com/services/iphone">
+iPhone/ iPad App</a></li>
+<li>
+<a href="http://www.bbr.com/services/ecards">
+Wine E-cards</a></li>
+</ul>
+</div>
+<div id="subNav10" class="subNav" onmouseover="showSubNav('#subNav10', '#nav10'); $('#nav10').toggleClass('over');" onmouseout="subNavTimeout = setTimeout('hideSubNav()',200); $('#nav10').toggleClass('over');">
+<ul role="navigation" class="subNavList">
+<li>
+<a href="http://www.bbr.com/about/who-we-are">
+Who We Are</a></li>
+<li>
+<a href="http://www.bbr.com/about/history">
+Our History</a></li>
+<li>
+<a href="http://www.bbr.com/about/shops">
+Shops</a></li>
+<li>
+<a href="http://www.bbr.com/about/berrys-social-networks">
+Berrys' Social Networks</a></li>
+<li>
+<a href="http://www.bbr.com/virtual-tour">
+BBR Virtual Tour</a></li>
+<li>
+<a href="http://www.bbr.com/about/accolades">
+Accolades</a></li>
+<li>
+<a href="http://www.bbr.com/about/mws">
+Berrys' MWs</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/fine-wine-team">
+Fine Wine Team</a></li>
+<li>
+<a href="http://www.bbr.com/about/website-team">
+Web Marketing Team</a></li>
+<li>
+<a href="http://www.bbr.com/about/environmental-policy">
+Environment</a></li>
+<li>
+<a href="http://www.bbr.com/about/eco-information">
+Eco Information</a></li>
+<li>
+<a href="http://www.bbr.com/about/jobs">
+Jobs</a></li>
+<li>
+<a href="http://www.bbr.com/about/pressenquiries">
+Press Enquiries</a></li>
+<li>
+<a href="http://www.bbr.com/about/terms">
+Terms</a></li>
+<li>
+<a href="http://www.bbr.com/contact-form?contact_form_name_F=orders">
+Contact Us</a></li>
+<li>
+<a href="http://www.bbr.com/fine-wine/bbx">
+BBX</a></li>
+</ul>
+</div>
+
 
 
 <!--
-host: 
+host: mcrae
 ID: null
 pages: 1
 site: GB
 page: /about/privacy
 page-id:  1000090
-generated: 2010/06/21 13:08:55
+generated: 2010/12/22 00:53:32
 acc: 
-runtime: 0.382443
-db-calls: 1
-sql-time: 0.051497
-db-time: 0.028624
-memcache-reads: 24
+runtime: 0.106569
+db-calls: 6
+sql-time: 0.052145
+sql-waittime: 0.000288
+db-time: 0.027591
+memcache-reads: 21
 memcache-writes: 
-includes count: 74
-log count: 16
+includes count: 69
+log count: 18
 fileinfo count: 1
 dirinfo count: 0
 read count: 0
