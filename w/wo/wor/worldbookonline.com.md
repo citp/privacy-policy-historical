@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221162324id_/http%3A//www.worldbookonline.com/wb/subscribe/Help%3Fid%3Dprivacy.html) for the most accurate reproduction.*
+
+# World Book Online Subscription
+
+World Book is concerned about privacy on the Web. We have created this Privacy Policy to let you know how World Book collects, uses and safeguards the information that is collected and used on the Site. This Privacy Policy works in conjunction with the [Terms and Conditions](https://web.archive.org/wb/subscribe/Help?id=terms.html) of Use but does not modify or supercede them.
+
+World Book ("WB") will not publish (or authorize the publishing of) your name, payment method information, e-mail or physical address in connection with any information you provide to WB or communications you send to WB without your consent except that: 1) WB may share information with third parties in any aggregated form that does not specifically identify any particular user; 2) WB may provide your payment method information as reasonably required to obtain payment; and 3) WB or third parties may publish information and communications that you send WB.
+
+You agree that WB may use and share with third parties (such as affiliates, licensors, contractors, or consultants) the data related to this Agreement. You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.
+
+You agree that the content posted in chat rooms, bulletin boards, and similar forums ("Forums") are not endorsed by, and shall not be considered reviewed, screened or approved by, WB or any party on their behalf. However, WB reserves the right for any reason to remove any such content and to restrict or deny, in its sole discretion, any user access to Forums without notice.
+
+****
+
+In the course of using the Site, World Book may ask you for your name, e-mail address, postal address, telephone number, fax number and other registration information. World Book also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using, the type of operating system you are using, the domain name of your ISP (Internet service provider), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited.
+
+****
+
+World Book uses the non-personally identifiable information (" ** _Aggregate Data_** ") to improve the design and content of the Site. World Book may use the Aggregate Data to analyze Site usage as well as create products and services to fit your needs. Also, World Book may share this Aggregate Data with World Book's sponsors, advertisers and other third-party vendors. You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area. World Book shall own such Aggregate Data and might maintain copies of such as part of its records.
+
+Except as otherwise indicated, World Book uses the personally identifiable information (" ** _Personal Information_** ") you provide: (a) to communicate with you and to assist you with any questions you have about your subscription and the Site; (b) to cooperate with government officials or parties in litigation under process of law, or as otherwise required by law; (c) to protect the security or integrity of the Site; (d) to protect against a threat to safety or destruction of property; and/or (e) to protect against legal liability. In all cases, however, World Book agents, employees and licensors who have access to Personal Information are required to protect this information in a manner that is consistent with this Privacy Policy. World Book will not use the Personal Information, except as set forth herein, without your permission; provided, however, World Book shall own all such Personal Information and maintain copies of such as part of its records and you agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.
+
+World Book may use the Personal Information that it collects to offer you other products or services that World Book believes may be of interest to you. Some of World Book's third-party licensors related to your transactions may be supplied with your Personal Information and may use your Personal Information for their own marketing purposes; however, as with World Book personnel, any parties with access to such Personal Information are required to act in a manner consistent with this Privacy Policy. World Book also may make its mailing list available to companies whose products and services might interest you. If you do not wish to receive any such information or to allow World Book the right to use your Personal Information as described in this paragraph, please contact World Book in the manner identified in the " **Opt-Out** " section below. The Aggregate Information and Personal Information may be transferred, distributed or sold as part of World Book or its assets.
+
+****
+
+You may choose not to receive such marketing information and/or to allow World Book to use your information to send you information regarding products and services that might be of interest to you by simply notifying World Book directly at http://store.worldbook.com/wb/register? or, if you are a home user of the Site, please go to the "My Account" tab on the home page to change your Contact Information. Upon receipt and processing of an "opt-out" request, World Book will, within a commercially reasonable amount of time, remove your information from any future marketing communications.
+
+****
+
+World Book has implemented security measures to help protect against the risk of loss, misuse and alteration of any information under World Book's control. Personal Information provided to World Book is encoded using Secure Socket Layer (SSL) technology, a powerful encryption protocol that protects data as it travels over the Internet, provided your browser supports it. Nevertheless, such security measures may not prevent all loss, misuse or alteration of information on the Site, and World Book and its third-party licensor's are not responsible for any damages or liabilities relating to any such security failures. Furthermore, the Site contains links to other sites. World Book is not responsible for nor can World Book ensure the privacy practices or content of such other sites. 
+
+****
