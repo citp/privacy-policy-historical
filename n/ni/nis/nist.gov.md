@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615132214id_/http%3A//www.nist.gov/public_affairs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221233118id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Statement/Security Notice/Accessibility Statement
+# Privacy Statement/SecurityNotice/Accessibility Statement
 
-**Cookie Disclaimer | Privacy Policy | Security Notice | Accessibility Statement | [NIST Privacy Impact Assessments](http://cio.nist.gov/policies/index.htm)**
+[](http://www.addthis.com/bookmark.php?v=250&pub=usnistgov)
 
-**Cookie disclaimer:** “Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”). NIST does not use persistent cookies or any other persistent tracking technology. However, for some videos that are visible on www.nist.gov, a "persistent cookie" is set by third party providers when you click to play a video. These videos are identified with a link to a cookie disclaimer under the video and are used by the third party provider to collect statistics on the number of unique Web visitors viewing specific videos. A waiver has been issued by the White House Counsel's office to allow for the use of these types of persistent cookies by third parties on the White House Web site and NIST is following the White House example by providing an alternative method for viewing these videos. If you would like to view a video without the use of persistent cookies, click on the link that reads "download mp4."  If you experience any difficulties, please [contact us](mailto:DOwebmaster@nist.gov).
+**Cookie disclaimer:** “Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”). NIST does not use persistent cookies or any other persistent tracking technology. However, for some videos that are visible on www.nist.gov, a "persistent cookie" is set by third party providers when you click to play a video. These videos are identified with a link to a cookie disclaimer under the video and are used by the third party provider to collect statistics on the number of unique Web visitors viewing specific videos. A waiver has been issued by the White House Counsel's office to allow for the use of these types of persistent cookies by third parties on the White House Web site and NIST is following the White House example by providing an alternative method for viewing these videos. If you would like to view a video without the use of persistent cookies, click on the link that reads "download mp4." If you experience any difficulties, please [contact us](mailto:DOwebmaster@nist.gov).
 
-Currently, we are using session cookies as part of a Web customer satisfaction survey we are conducting in collaboration with ForeSee Results. The sole purpose of the session cookies is to cause the survey to be displayed to a small percentage of our Web site visitors as they leave the NIST Web site. NIST does not retain any information collected by these session cookies. Session cookies are automatically deleted at the end of a session, that is, when you close your browser. Additional privacy information related to the survey is available from a link on the survey itself. 
+Currently, we are using session cookies as part of a Web customer satisfaction survey we are conducting in collaboration with ForeSee Results. The sole purpose of the session cookies is to cause the survey to be displayed to a small percentage of our Web site visitors as they leave the NIST Web site. NIST does not retain any information collected by these session cookies. Session cookies are automatically deleted at the end of a session, that is, when you close your browser. Additional privacy information related to the survey is available from a link on the survey itself.
 
 **Privacy Policy**
 
-**** Thank you for visiting the National Institute of Standards and Technology Web site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us. 
+Thank you for visiting the National Institute of Standards and Technology Web site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
 
 Here is how we handle information about your visit to our Web site.
 
@@ -25,7 +25,8 @@ Here is how we handle information about your visit to our Web site.
 
 
 
-We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
+  
+We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
 **Information protection:** For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law.
 
@@ -43,13 +44,12 @@ Also, NIST is not responsible for the privacy practices employed by non-NIST sit
 
 **Links to other sites:** Our Web site contains links to various other federal agencies and private organizations. Once you link to another site, you are then subject to the privacy policies of the new site. It is always a good idea to read the Privacy Policy of any site you visit.
 
-Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: [http://www.cftc.gov/foi/foiareference/index.htm](http://www.nist.gov/cgi-bin/exit_nist.cgi?url=http://www.cftc.gov/foi/foiareference/index.htm)
+Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: <http://www.cftc.gov/foi/foiareference/index.htm>
 
-**Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998. 
+**Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998.
 
 If you have difficulty obtaining information from any NIST Web site, please contact [inquiries@nist.gov](mailto:inquiries@nist.gov) to get the material in another format. You should provide the URL of the Web site referencing that information.
 
 If you have any 508-related questions, comments, or suggestions for improvement, please contact the NIST Office of the Chief Information Officer by email at [nistcio@nist.gov](mailto:nistcio@nist.gov).
 
-[**See NIST disclaimer**](http://www.nist.gov/public_affairs/disclaim.htm).  
-
+**See** [**NIST disclaimer**](https://web.archive.org/public_affairs/disclaimer.cfm).
