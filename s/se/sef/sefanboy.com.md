@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sefanboy.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423072529id_/http%3A//sefanboy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sefanboy.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221212913id_/http%3A//sefanboy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phone Blog
 
@@ -22,5 +22,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-how to disable cookies on the k850i (1)management and policies of sony ericsson (1)
-
+You can leave a response, or [trackback](http://sefanboy.com/privacy-policy-statement/trackback/) from your own site. Follow any responses to this page through the [RSS 2.0](http://sefanboy.com/privacy-policy-statement/feed/) feed. 
