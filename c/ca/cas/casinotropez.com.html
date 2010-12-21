@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the casinotropez.com privacy policy that was archived on 2008-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081013025951id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casinotropez.com privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221025244id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Privacy Statement</title>
+    <title>Protecting your privacy</title>
     <meta http-equiv="imagetoolbar" content="no">
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta name="robots" content="index, follow">
@@ -11,13 +11,16 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <style type="text/css" media="screen">
-					@import url('http://cachewww.casinotropez.com/style/300.css');
+					@import url('http://cachewww.casinotropez.com/style/300.1291642905.css');
 				</style>
     <!--[if lt IE 7]>
-				<style type="text/css" media="all">@import url('http://cachewww.casinotropez.com/style/300_ie.css');</style>
+				<style type="text/css" media="all">@import url('http://cachewww.casinotropez.com/style/300_ie.1291642905.css');</style>
 				<![endif]-->
-    <!--[if IE 7]>
-				<style type="text/css" media="all">@import url('http://cachewww.casinotropez.com/style/300_ie7.css');</style>
+    <!--[if lt IE 8]>
+				<style type="text/css" media="all">@import url('http://cachewww.casinotropez.com/style/300_ie7.1291642905.css');</style>
+				<![endif]-->
+    <!--[if IE 8]>
+				<style type="text/css" media="all">@import url('http://cachewww.casinotropez.com/style/300_ie8.1291642905.css');</style>
 				<![endif]-->
     <script src="/urchin.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -25,6 +28,7 @@
 					_udn="casinotropez.com";
 					urchinTracker();
 					</script>
+    <script language="javascript" type="text/javascript" src="/jquery.js"></script>
     <script language="javascript" type="text/javascript" src="/Trck.js"></script>
     <script language="javascript" type="text/javascript" src="/BTrck_en.js"></script>
     <script language="javascript" type="text/javascript" src="/generic.js"></script>
@@ -45,6 +49,7 @@
     <script language="javascript" type="text/javascript" src="/jquery.js"></script>
     <script language="javascript" type="text/javascript" src="/j_tree_cookie.js"></script>
     <script language="javascript" type="text/javascript" src="/slider.js"></script>
+    <script language="javascript" type="text/javascript" src="/scripts/saf.js"></script>
     <script language="javascript" type="text/javascript" src="/expander.js"></script>
     <script language="javascript" type="text/javascript">
       <!--
@@ -56,140 +61,158 @@
 			var exitalert = span.innerHTML.replace('&amp;', '&');
 
 			function on_load(){
-	bt = new BTrck('http://banner.casinotropez.com/cgi-bin/SetupCasino.exe', 'en+300+-+privacy');
+			bt = new BTrck('http://banner.casinotropez.com/cgi-bin/SetupCasino.exe', 'en+300+-+privacy');
 			enok();
 				var cookiestring = document.cookie;
 				document.cookie = 'current_website_language=en;PATH=/;EXPIRES=' + getexpirydate(1);
-
+			
 			}
 
 			function on_unload() {
 				
 					bt.exitPage('en', exitalert);
+					alert ('test');
 				
-			}
+                }
+                error_location = 'http://banner.casinotropez.com/cgi-bin/SetupCasino.exe?creferer=dp:en+300+-+privacy+error';
+                function t_do() {
+                try{bt.openexitstatus = 0;}
+                catch (ex) {location.href=error_location;}
+                }
 
-			function t_do() {
-				try{bt.openexitstatus = 0;}
-				catch (ex) {location.href="http://banner.casinotropez.com/cgi-bin/SetupCasino.exe";}
-			}
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
 
-			function t_d(cref, win) {
+
+                function t_d(cref, win) {
 				try{
-					if (cref == 'maindownload') {
-						return bt.downloadRedirect(cref, win, 'download.html');
-					} else {
-						return !bt.download(cref, win);
-					}
+                       
+                                return bt.downloadRedirect(cref, win, 'download.html');
+                           
 				}
-				catch (ex) {location.href="http://banner.casinotropez.com/cgi-bin/SetupCasino.exe";}
-			}
-
-			function t_da(cr, src_page){
-		    	try{
-		    		if (src_page) {
-		    			bt.download(cr, window, src_page);
-		    		} else {
-						bt.download(cr, window);
-					}
-				}
-				catch (ex) {location.href="http://banner.casinotropez.com/cgi-bin/SetupCasino.exe";}
-			}
-
-			function t_daF() {
-				try {
-					bt.dnldAfterRedir(window);
-				}
-				catch (ex) {location.href="http://banner.casinotropez.com/cgi-bin/SetupCasino.exe";}
-			}
-
-			function t_r(cr) {
-				try{
-					return bt.downloadRedirect(cr, window, 'blackjack_live.html');
-				}
-				catch (ex) {location.href="http://banner.casinotropez.com/cgi-bin/SetupCasino.exe";}
+				catch (ex) {location.href=error_location;}
 			}
 
 
-			function t_r1(cr) {
-				try{
-					return bt.downloadRedirect(cr, window, 'blackjack_tournament.html');
-				}
-				catch (ex) {location.href="http://banner.casinotropez.com/cgi-bin/SetupCasino.exe";}
-			}
 
 
-			function enok(){
-			
+                function t_da(cr, src_page){
+                try{
+                if (src_page) {
+                bt.download(cr, window, src_page);
+                } else {
+                bt.download(cr, window);
+                }
+                }
+                catch (ex) {location.href=error_location;}
+                }
+
+                function t_daF() {
+                try {
+                bt.dnldAfterRedir(window);
+                }
+                catch (ex) {location.href=error_location;}
+                }
+
+                function t_r(cr) {
+                try{
+                return bt.downloadRedirect(cr, window, 'blackjack_live.html');
+                }
+                catch (ex) {location.href=error_location;}
+                }
+
+
+                function t_r1(cr) {
+                try{
+                return bt.downloadRedirect(cr, window, 'blackjack_tournament.html');
+                }
+                catch (ex) {location.href=error_location;}
+                }
+
+
+                function enok(){
+                
 			}
 			function status_text(){
 				window.status='Clicking Open or Run on the next page is the easiest way to install the casino';
 			}
 
-			-->
+            
+
+			
+			//-->
     </script>
   </head>
-  <body id="privacy" onload="on_load()" onunload="on_unload()">
+  <body id="privacy" class="lang_en" onload="on_load()">
     <div id="top">
       <ul id="curr">
         <li>
-          <a href="download.html" onclick="return t_d('currency',window);"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/cusd.gif" alt=""></a>
+          <a href="/" onclick="t_do();"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/cusd.gif" alt=""></a>
+        </li>
+        <li><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/ceur.gif" alt=""></li>
+        <li>
+          <a href="/uk/" onclick="t_do();"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/cgbp.gif" alt=""></a>
         </li>
         <li>
-          <a href="download.html" onclick="return t_d('currency',window);"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/ceur.gif" alt=""></a>
-        </li>
-        <li>
-          <a href="download.html" onclick="return t_d('currency',window);"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/cgbp.gif" alt=""></a>
-        </li>
-        <li>
-          <a href="download.html" onclick="return t_d('currency',window);"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/zar.gif" alt=""></a>
+          <a href="/za/" onclick="t_do();"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/zar.gif" alt=""></a>
         </li>
       </ul>
       <ul id="flags">
         <li>
-          <a onclick="t_do();" href="/"><img alt="English" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/en.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/"><img alt="English" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/en.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/uk/"><img alt="United Kingdom" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/uk.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/uk/"><img alt="United Kingdom" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/uk.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/de/"><img alt="German" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/de.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/de/"><img alt="German" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/de.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/fr/"><img alt="French" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/fr.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/fr/"><img alt="French" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/fr.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="http://casinotropez.com/it/"><img alt="Italian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/it.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/nl/"><img alt="Netherlands" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/nl.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/nl/"><img alt="Netherlands" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/nl.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/sv/"><img alt="Sweden" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/sw.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/sv/"><img alt="Sweden" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/sw.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/da/"><img alt="Danish" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/da.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/da/"><img alt="Danish" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/da.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/es/"><img alt="Spanish" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/es.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/es/"><img alt="Spanish" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/es.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/pt/"><img alt="Portuguese" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/pt.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/pt/"><img alt="Portuguese" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/pt.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/no/"><img alt="Norwegian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/no.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/no/"><img alt="Norwegian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/no.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/ru/"><img alt="Russian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/ru.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/ru/"><img alt="Russian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/ru.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://casinotropez.com/it/"><img alt="Italian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/it.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/ro/"><img alt="Romanian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/ro.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/ro/"><img alt="Romanian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/ro.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/pl/"><img alt="Polish" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/pl.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/pl/"><img alt="Polish" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/pl.gif" width="20" height="12" border="0"></a>
         </li>
         <li>
-          <a onclick="t_do();" href="/za/"><img alt="South Africa" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/sa.gif" width="20" height="12" border="0" hspace="1" vspace="1"></a>
+          <a onclick="t_do();" href="http://www.casinotropez.com/za/"><img alt="South Africa" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/sa.gif" width="20" height="12" border="0"></a>
+        </li>
+        <li>
+          <a onclick="t_do();" href="http://www.casinotropez.com/hu/"><img alt="Hungarian" src="http://cachewww.casinotropez.com/tpl/300/shared/images/flags/hu.gif" width="20" height="12" border="0"></a>
         </li>
       </ul>
     </div>
@@ -198,41 +221,49 @@
         <a onclick="t_do();" href="/" class="first">Home</a>
       </li>
       <li>
-        <a onclick="t_do();" href="promotion.html">Promotions</a>
+        <a onclick="t_do();" href="/promotion.html">Promotions
+            </a>
+        <ul>
+          <li>
+            <a onclick="t_do();" href="/free_casino_christmas_bonuses.html">Christmas &nbsp; bonus</a>
+          </li>
+        </ul>
       </li>
       <li>
-        <a onclick="t_do();" href="cashier.html">Cashier</a>
+        <a onclick="t_do();" href="/cashier.html">Cashier</a>
       </li>
       <li>
-        <a onclick="t_do();" href="responsible_gambling.html">Fair Gaming</a>
+        <a onclick="t_do();" href="/responsible_gambling.html">Fair Gaming</a>
       </li>
       <li>
-        <a onclick="t_do();" href="help.html">24/7 Support</a>
+        <a onclick="t_do();" href="/help.html">24/7 Support</a>
       </li>
       <li>
-        <a onclick="t_do();" href="winners.html">Winners</a>
+        <a onclick="t_do();" href="/winners.html">Winners</a>
       </li>
       <li>
-        <a onclick="t_do();" href="playersclub.html">Players Club</a>
+        <a onclick="t_do();" href="/playersclub.html">Players Club</a>
       </li>
       <li>
-        <a onclick="t_do();" href="download.html">Download</a>
+        <a onclick="t_do();" href="/download.html">Download</a>
       </li>
     </ul>
     <div class="mainin" id="maininner">
-      <a href="download.html" onclick="return t_d('inner_logo',window);"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/innerlogo.gif" id="innerlogo" alt=""></a>
+      <a href="http://www.casinotropez.com/en/" onclick="t_do();"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/innerlogo.gif" id="innerlogo" alt=""></a>
       <h1>Privacy Statement</h1>
       <hr>
       <div id="content">
         <ul id="inner">
           <li id="i_bonus" class="clearfix">
-            <a href="download.html" onclick="return t_d('inner_bonus',window);"><img id="bonus_inner" src="http://cachewww.casinotropez.com/tpl/300/en/images/bonus_inner.gif" alt=""></a>
+            <a href="/download.html" onclick="return t_d('inner_bonus',window);"><img id="bonus_inner" src="http://cachewww.casinotropez.com/tpl/300/en/images/bonus_inner.gif" alt=""></a>
             <a href="promotion.html" id="readmore" onclick="t_do();">More Info</a>
           </li>
-          <a href="download.html" onclick="return t_d('inner_download',window);"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/download_inner.gif" alt=""></a>
+          <li id="i_dwn">
+            <a href="/download.html" onclick="return t_d('inner_download',window);"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/download_inner.gif" alt=""></a>
+          </li>
           <li id="i_support"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/prog_bullet.gif" alt="" class="bullet"><p>
               <strong>Toll Free Phone:</strong>
-              <br>Canada: +1-800-947-1328<br> &nbsp;&nbsp;&nbsp; UK: 0800-047-0541
+              <br>Canada: +1-888-367-2184<br> &nbsp;&nbsp;&nbsp; UK: 0800-047-0541
 			</p>
             <p>
               <strong>&nbsp;&nbsp;&nbsp;&nbsp;International:</strong>
@@ -250,8 +281,8 @@
 			document.write('</a>');
 		</script><a href="mailto:support@casinotropez.com" title="">support@casinotropez.com</a>
           </li>
-          <li id="i_customer"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/prog_bullet.gif" alt="" class="bullet"><h5>Customer Care</h5>
-            <p>Let us know what you think! <a title="" onclick="t_do();" href="pop_feedback.html">Click Here</a>
+          <li id="i_customer"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/prog_bullet.gif" alt="" class="bullet"><h5>XMAS OFFER</h5>
+            <p>Get cash prizes every day!<a onclick="t_do();" href="/pop_feedback.html">Click Here</a>
             </p>
           </li>
           <li id="i_extra"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/prog_bullet.gif" alt="" class="bullet"><h5>15% Extra Bonus</h5>
@@ -261,7 +292,7 @@
         <div id="body">
           <h5>Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy.</h5>
           <p>The following statement discloses the information gathered by Casino Tropez.</p>
-          <div class="promo">
+          <div class="promo clearfix">
             <div class="hright">
               <div class="hleft">
                 <div class="hmiddle">Web Site Information</div>
@@ -270,26 +301,19 @@
             <p>As part of the web site's operation and for our own statistical analysis of site traffic, our web site automatically logs Internet IP addresses accessing our site. We do NOT log any e-mail address of web site visitors.</p>
             <hr>
           </div>
-          <div class="promo">
-            <div class="hright">
-              <div class="hleft">
-                <div class="hmiddle">Advertising System</div>
-              </div>
-            </div>
-            <p>Our advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any e-mail addresses.</p>
-            <hr>
-          </div>
-          <div class="promo">
-            <div class="hright">
-              <div class="hleft">
-                <div class="hmiddle">Account Creation Information</div>
-              </div>
-            </div>
-            <p>The account information supplied during the account creation process is kept strictly confidential for our own purpose. We do NOT share this information with any third-party company and/or organization.</p>
-            <p>This information includes customer e-mail addresses and other personal information supplied upon registration. If you supply us with your personal details, the information will only be used for its intended use, such as allowing us to send you cash-out checks and other information which you request.</p>
-            <p>E-mail Addresses are NOT shared with any other organization for commercial or noncommercial purposes. E-mail addresses will only be used to provide our customers with information regarding new software updates, promotional material, and miscellaneous casino operations, such as deposits and withdrawals.</p>
-            <p>We collect e-mail addresses of those who communicate with us via e-mail.</p>
-            <p>If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to <script type="text/javascript" language="javascript">
+          <div class="promo clearfix">
+            <p>Mail policy</p>
+            <p>We do not tolerate spam. 
+			<br>We received your consent for communication via email. 
+			<br> We send you promotional emails and updates until such time as you inform us that you do not wish to continue to receive them. 
+			<br>
+              <br>You may notify us of your wish to unsubscribe at any time by:
+			<br>
+              <br>• Click on the unsubscribe link shown in all casinotropez.com email offers and follow the instructions.
+			<br>• Call us, Tol Free - Canada: +1-800-947-1351 <br> &nbsp; &nbsp; UK: 0800-047-0695
+			<br>&nbsp; &nbsp;		International phone - +632-756-7946 
+			<br>• online chat
+			<br>• email us to <script type="text/javascript" language="javascript">
 			document.write('<a href="mailto:support');
 			document.write('@');
 			document.write('casinotropez.com" title="">');
@@ -299,10 +323,98 @@
 			document.write('casinotropez.com');
 				
 			document.write('</a>');
-		</script><a href="mailto:support@casinotropez.com" title="">support@casinotropez.com</a>.</p>
+		</script><a href="mailto:support@casinotropez.com" title="">support@casinotropez.com</a>
+              <br>
+              <br>On receiving your notice, we will immediately stop sending you such e-mails and updates. 
+			<br>
+              <br>If you continue to receive from us promotional e-mails and updates or any other unsolicited 
+			communication after you have asked us to unsubscribe, please report to us at <script type="text/javascript" language="javascript">
+			document.write('<a href="mailto:abuse');
+			document.write('@');
+			document.write('casinotropez.com" title="">');
+			
+			document.write('abuse');
+			document.write('@');
+			document.write('casinotropez.com');
+				
+			document.write('</a>');
+		</script><a href="mailto:abuse@casinotropez.com" title="">abuse@casinotropez.com</a>.
+			</p>
             <hr>
           </div>
-          <div class="promo">
+          <div class="promo clearfix">
+            <div class="hright">
+              <div class="hleft">
+                <div class="hmiddle">Advertising System</div>
+              </div>
+            </div>
+            <p>Our advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any e-mail addresses.</p>
+            <hr>
+          </div>
+          <div class="promo clearfix">
+            <div class="hright">
+              <div class="hleft">
+                <div class="hmiddle">Account Creation Information</div>
+              </div>
+            </div>
+            <p>
+              <strong>Information collected</strong>
+              <br>
+We collect personal information from visitors to this web site through the use of online forms and every time you e-mail us your details. We also collect information about the transactions you undertake including details of payment cards used. The personal information that we collect may include your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which we, or undertakings engaged by us for such purpose, shall undertake.</p>
+            <p>
+              <strong>Use of personal information</strong>
+              <br>
+              <br>
+We process your personal information for the purposes of:
+<br>
+              <br>
+              </p><ul>
+                <li>(a) creating and managing player accounts and records;</li>
+                <li>(b) administering player accounts;</li>
+                <li>(c) providing and personalising our services;</li>
+                <li>(d) dealing with your enquiries and requests;</li>
+                <li>(e) notifying you about updates to our software and/or services;</li>
+                <li>(f) ensuring we are able to fulfil our regulatory responsibilities by verifying the accuracy of any information you give us;</li>
+                <li>(g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with requests for information by authorised entities for the sharing of information;</li>
+                <li>(h) carrying out market research campaigns;</li>
+                <li>(i) providing you with information about and support for products and services;</li>
+                <li>(j) marketing our services or products or those of other entities within our group of companies; and</li>
+                <li>(k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information.</li>
+              </ul>
+These are the <b>“Purposes”</b> for which we may collect personal data. <br>
+              <br>
+
+If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to <script type="text/javascript" language="javascript">
+			document.write('<a href="mailto:support');
+			document.write('@');
+			document.write('casinotropez.com" title="">');
+			
+			document.write('support');
+			document.write('@');
+			document.write('casinotropez.com');
+				
+			document.write('</a>');
+		</script><a href="mailto:support@casinotropez.com" title="">support@casinotropez.com</a>
+            <p></p>
+            <p>
+              <strong>Disclosure of personal information</strong>
+              <br>
+              <br>
+We may, for the Purposes, disclose your personal information to any of the following recipients (“Recipients”):
+<br>
+              <br>
+              </p><ul>
+                <li>(i) any companies within our group and to their employees who have a need to know such information;</li>
+                <li>(ii) any third parties which provide services to us in order to allow or enable us to provide you with gaming services, including by way of example payment processors and data verifiers;</li>
+                <li>(iii) any third parties who provide services to us in relation to the operation of Casino Tropez;</li>
+                <li>(iv) any auditors, contractors or other advisers auditing any of our business processes or who have the need to access such information for the purpose of advising us;</li>
+                <li>(v) any regulatory body or authorised entity who may have any reasonable requirement to access such personal information; and</li>
+                <li>(vi) any potential purchasers of the Casino Tropez business or any investors in it or in any company within our group.</li>
+              </ul>
+            <p></p>
+            <hr>
+          </div>
+          <div class="promo clearfix">
             <div class="hright">
               <div class="hleft">
                 <div class="hmiddle">Winnings</div>
@@ -311,7 +423,7 @@
             <p>Your winnings and cash-outs are kept strictly confidential, and winnings information is stored in secure operating environments. Casino Tropez keeps your winnings information private and does not provide this information to any third party unless such information is required to be disclosed by law, regulation or any governmental or competent regulatory authority. </p>
             <hr>
           </div>
-          <div class="promo">
+          <div class="promo clearfix">
             <div class="hright">
               <div class="hleft">
                 <div class="hmiddle">Security</div>
@@ -321,7 +433,7 @@
             <p>If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our Customer Support center at any time, 24 hours a day, 7 days a week. Our representatives will be more than happy to assist you.</p>
             <hr>
           </div>
-          <div class="promo">
+          <div class="promo clearfix">
             <div class="hright">
               <div class="hleft">
                 <div class="hmiddle">Our Certifications and What They Mean</div>
@@ -329,22 +441,6 @@
             </div>
             <p><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/godaddyssl.gif" border="0" alt=""><b>Turbo SSL® certificate</b>
               <br>Casino Tropez under the name of the casino group uses a GoDaddy.com Turbo SSL® certificate to ensure 100% security and protection. A SSL certificate is a digital certificate that authenticates the identity of a Web site to visiting browsers and encrypts information for the server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to safeguard sensitive data) and high-grade 256-bit SSL encryption to secure online transactions.</p>
-            <p><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol1.gif" border="0" alt=""><b>Under-Age Gambling.</b>
-              <br>
-				It is absolutely against the law to gamble if you are under the age of 18. Secondly, it is against our own Terms of Use. Casino Tropez is opposed to gambling by minors, and has taken steps to prevent it. This logo shows that we make every effort to prevent gaming by those under 18, which is illegal in all jurisdictions and under our Gambling Registration (see also Terms of Use page, Section 3 – Legal Requirements).</p>
-            <p>
-              <b>Parents:</b>
-              <br>
-				if your computer is accessed by under-age children, you can prevent their gambling. It’s very simple: there are “site-filter” programs like NetNanny, PC TimeCop or BrightFilter that will prevent minors from accessing gambling sites. </p>
-            <p><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/ka.gif" border="0" alt=""><b>Kahnawake Gaming Commission.</b>
-              <br> 
-				We are licensed by the Kahnawake Gaming Commission, an international gaming licensing and regulatory authority. Their regulations state, in part:						
-				</p><ul>The Regulations are designed to ensure that all interactive gaming and gaming- related activities satisfy three basic principles:
-					<li>1.	That only suitable persons and entities are permitted to operate;</li>
-                <li>2.	That the games offered are fair to the player; </li>
-                <li>3.	That winners are paid. </li>
-              </ul>
-            <p></p>
             <p><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol7.gif" border="0" alt=""><b>TST Technical Systems Testing.</b>
               <br>
 				TST Technical Systems Testing North America Incorporated is a well-known and respected statistical and technical software testing firm, located in Vancouver, BC Canada. They test all of our poker and casino games to industry-standard levels of fairness and accuracy, and issue letters of compliance for sites that satisfy these stringent standards.
@@ -359,54 +455,56 @@
       </div>
       <hr>
       <ul id="previewbar_inner">
-        <li id="ic1"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_roulette.gif" id="im_ic1" alt="" onclick="javascript:t_do(); document.location.href='preview.html';"></li>
-        <li id="ic2"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_blackjack.gif" id="im_ic2" alt="" onclick="javascript:t_do(); document.location.href='preview.html';"></li>
-        <li id="ic3"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_videopoker.gif" id="im_ic3" alt="" onclick="javascript:t_do(); document.location.href='preview.html';"></li>
-        <li id="ic4"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_slots.gif" id="im_ic4" alt="" onclick="javascript:t_do(); document.location.href='preview.html';"></li>
-        <li id="ic5"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_livedealers.gif" id="im_ic5" alt="" onclick="javascript:t_do(); document.location.href='preview.html';"></li>
+        <li id="ic1"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_roulette.gif" id="im_ic1" alt="" onclick="javascript:t_do(); document.location.href='http://banner.casinotropez.com/SAFgame.php?game=rop&amp;profile=flashro&amp;affiliateRedirectMode=flash';"></li>
+        <li id="ic2"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_blackjack.gif" id="im_ic2" alt="" onclick="javascript:t_do(); document.location.href='http://banner.casinotropez.com/SAFgame.php?game=bj&amp;profile=flashb&amp;affiliateRedirectMode=flash';"></li>
+        <li id="ic3"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_videopoker.gif" id="im_ic3" alt="" onclick="javascript:t_do(); document.location.href='http://banner.casinotropez.com/SAFgame.php?game=dw&amp;profile=flashdw&amp;affiliateRedirectMode=flash';"></li>
+        <li id="ic4"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_slots.gif" id="im_ic4" alt="" onclick="javascript:t_do(); document.location.href='http://banner.casinotropez.com/SAFgame.php?game=ct&amp;profile=flashct&amp;affiliateRedirectMode=flash';"></li>
+        <li id="ic5"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/ici_livedealers.gif" id="im_ic5" alt="" onclick="javascript:t_do(); document.location.href='http://banner.casinotropez.com/SAFgame.php?game=hr&amp;profile=flashhr&amp;affiliateRedirectMode=flash';"></li>
         <li id="ic70">
           <a href="preview.html" onclick="t_do();"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/70games.gif" alt=""></a>
         </li>
       </ul>
       <ul id="bottommenu">
         <li>
-          <a href="about.html" onclick="t_do();" class="first">About Us</a>
+          <a onclick="t_do();" href="/about.html" class="first">About Us</a>
         </li>
         <li>
-          <a href="acclaim.html" onclick="t_do();">Acclaim</a>
+          <a onclick="t_do();" href="/acclaim.html">Acclaim</a>
         </li>
         <li>
-          <a href="preview.html" onclick="t_do();">Preview Games</a>
+          <a onclick="t_do();" href="/preview.html">Preview Games</a>
         </li>
         <li>
-          <a href="terms.html" onclick="t_do();">Terms of Use</a>
+          <a onclick="t_do();" href="/terms.html">Terms of Use</a>
         </li>
         <li>
-          <a href="privacy.html" onclick="t_do();">Privacy Statement</a>
+          <a onclick="t_do();" href="/privacy.html">Privacy Statement</a>
         </li>
         <li>
-          <a href="http://www.europartners.com/" onclick="t_do();" target="_blank" class="aff">Affiliate Program</a>
+          <a onclick="t_do();" href="http://www.europartners.com/" target="_blank" class="aff">Affiliate Program</a>
         </li>
         <li>
-          <a href="sitemap.html" onclick="t_do();">Site Map</a>
+          <a onclick="t_do();" href="/sitemap.html">Site Map</a>
         </li>
         <li>
-          <a href="casino_games.html" onclick="t_do();">Casino Games</a>
+          <a onclick="t_do();" href="/casino_games.html">Casino Games</a>
+        </li>
+        <li>
+          <a onclick="t_do();" href="/mobile/">Mobile</a>
         </li>
       </ul>
     </div>
     <div id="copy">
       <div id="symbols">
-        <a title="" onclick="t_do();" href="responsible_gambling.html#techsys"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol7.gif" border="0" alt=""></a>
-        <a title="" onclick="t_do();" href="http://www.kahnawake.com/gamingcommission/" target="_blank"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/ka.gif" border="0" alt=""></a>
-        <a title="" onclick="t_do();" href="about.html"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol14.gif" border="0" alt=""></a>
-        <a title="" onclick="t_do();" href="responsible_gambling.html#age18"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol1.gif" border="0" alt=""></a>
-        <a title="" onclick="t_do();" href="responsible_gambling.html"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/symbol9.gif" border="0" alt=""></a>
-        <a title="" onclick="t_do();" href="http://www.europartners.com/" target="_blank"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/cpr.gif" border="0" alt=""></a>
-        <a title="" onclick="t_do();" href="privacy.html"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/lock2.gif" border="0" alt=""></a>
-      </div>
-		Copyright © 2008 <a title="online casino" onclick="t_do();" href="/">Online Casino</a>. All Rights Reserved. www.casinotropez.com is a site of Fastengine Limited, Cyprus.
-	</div>
+        <a onclick="t_do();" rel="nofollow" href="/responsible_gambling.html#techsys"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol7.gif" border="0" alt=""></a>
+        <a onclick="t_do();" href="http://www.antiguagaming.gov.ag/SealValidator.asp?ID=2063090404" target="_blank"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/seall.png" border="0" alt=""></a>
+        <a onclick="t_do();" rel="nofollow" href="/about.html"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol14.gif" border="0" alt=""></a>
+        <a onclick="t_do();" rel="nofollow" href="/responsible_gambling.html#age18"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/symbol1.gif" border="0" alt=""></a>
+        <a onclick="t_do();" rel="nofollow" href="/responsible_gambling.html"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/symbol9.gif" border="0" alt=""></a>
+        <a onclick="t_do();" href="http://www.europartners.com/" target="_blank"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/cpr.gif" border="0" alt=""></a>
+        <a onclick="t_do();" rel="nofollow" href="/privacy.html"><img src="http://cachewww.casinotropez.com/tpl/300/en/images/lock2.gif" border="0" alt=""></a>
+        <a onclick="t_do();" href="http://www.gambleaware.co.uk/" target="_blank"><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/gambleaware.gif" border="0" alt=""></a>
+      </div><img src="http://cachewww.casinotropez.com/tpl/300/shared/images/rights_en.gif"></div>
   
 
 </body></html>
