@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenstryanal.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226011752id_/http%3A//teenstryanal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenstryanal.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221184124id_/http%3A//teenstryanal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
