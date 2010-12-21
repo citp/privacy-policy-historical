@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206220158id_/http%3A//www.picturepeople.com/fp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221073712id_/http%3A//picturepeople.com/privacy-policy) for the most accurate reproduction.*
 
-# Picture People - Privacy Pledge
+# Privacy Policy | Picture People - Professional Studio Portrait Photography
+
+## The Picture People Privacy Pledge
 
 We might be all about fun when it comes to taking portraits, but your privacy and security is something we take very seriously. This page contains our policy on how we collect and use personal information, and how we work to maintain the security of that information. Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers. We reserve the right to change and update the privacy policy and these changes will be posted on our web site. We encourage you to visit this page from time to time to ensure you are aware of any changes we may have made.
 
@@ -9,10 +11,10 @@ We might be all about fun when it comes to taking portraits, but your privacy an
 We collect personally identifiable information about you that you specifically provide to us. This includes, for example, the data you provide when you request further information, sign up for a service, respond to a survey or enter a contest or a sweepstakes online or when you visit a studio.  
 We use this information:
 
-  * To provide you with the products, services or benefits you request
-  * To develop and improve our products and services
-  * To improve the content of our site and its usefulness to you
-  * For marketing and promotional purposes
+  * To provide you with the products, services or benefits you request 
+  * To develop and improve our products and services 
+  * To improve the content of our site and its usefulness to you 
+  * For marketing and promotional purposes 
 
 
 
@@ -29,10 +31,14 @@ If you do not want THE PICTURE PEOPLE to share your information please send an e
 **Information That You Provide To Us**  
 We collect information you provide when you visit our physical studios, register with us, open an account, place an order, upload photos, invite others to view your photos, send us an e-mail or call us, enter a sweepstakes or enroll in a club or service. This information may include the following:
 
-  * Your name
-  * Your mailing address
-  * Your e-mail address
-  * Your phone number
-  * The names and birthdates of your children
+  * Your name 
+  * Your mailing address 
+  * Your e-mail address 
+  * Your phone number 
+  * The names and birthdates of your children 
 
 
+
+[
+
+](https://web.archive.org/portrait-products/portrait-club)
