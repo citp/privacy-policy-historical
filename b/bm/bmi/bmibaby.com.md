@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523231714id_/http%3A//www.bmibaby.com/bmibaby/about_us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221194258id_/http%3A//www.bmibaby.com/bmibaby/about_us/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
