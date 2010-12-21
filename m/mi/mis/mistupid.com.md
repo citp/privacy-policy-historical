@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mistupid.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620005208id_/http%3A//mistupid.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mistupid.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221033100id_/http%3A//mistupid.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,12 +22,14 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>
+
 **E-Mail**  
 We collect the e-mail addresses of those who post messages to our discussion board, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or newsletter registrations.
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site. E-mail addresses are not shared with other organizations.
 
-Send to Friend   [Printable Page](https://web.archive.org/web/20100620005208id_/http%3A//mistupid.com/phprint.php)   [Register for Updates](http://newsletter.mistupid.com/?p=subscribe&id=1)  [](http://www.addthis.com/bookmark.php)
+Send to Friend   [Printable Page](https://web.archive.org/web/20101221033100id_/http%3A//mistupid.com/phprint.php)   [Register for Updates](http://newsletter.mistupid.com/?p=subscribe&id=1)  [](http://www.addthis.com/bookmark.php)
 
 Other Links:   
-[Contact](https://web.archive.org/web/20100620005208id_/http%3A//mistupid.com/utils/contact.htm), [About](https://web.archive.org/web/20100620005208id_/http%3A//mistupid.com/about.htm)
+[Contact](https://web.archive.org/web/20101221033100id_/http%3A//mistupid.com/utils/contact.htm), [About](https://web.archive.org/web/20101221033100id_/http%3A//mistupid.com/about.htm)
