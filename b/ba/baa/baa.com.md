@@ -1,68 +1,78 @@
-> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118093523id_/http%3A//www.baa.com/portal/page/Misc/BAA%2BAirports%255EMisc%255EPrivacy%2Bpolicy/7666eb29465be110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221111442id_/http%3A//www.baa.com/portal/page/Misc/BAA%2BAirports%255EMisc%255EPrivacy%2Bnotice/7666eb29465be110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
-# BAA: Privacy policy
+# BAA: BAA Privacy notice
 
-Updated February 2009
+Last updated: February 2010
 
-_Please read carefully_
+How we use your information
 
-1\. Introduction
+This privacy notice tells you what to expect when BAA collects personal information via our websites.  BAA Ltd and its group companies (“BAA”) each take their obligations with regard to your personal information seriously.  For a list of BAA group companies, please click here.  This privacy notice applies to information we collect about:
 
-BAA Airports Limited and its group companies ("BAA") each take their obligations with regard to your personal information seriously. For a list of BAA group companies, please click here. This privacy policy sets out the ways BAA handles your personal information collected via our websites (our "Websites") and through your participation and contribution in BAA-related activities. BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
+  * people who purchase BAA products and services, e.g. car parking
+  * people who purchase third party services which are offered via BAA websites, e.g. Flights and Hotels;
+  * people who subscribe or register to receive information from BAA e.g. Airport Newsletters;
+  * people who participate in BAA research and surveys;
+  * people who enter competitions;
+  * people who provide feedback to BAA via our websites;
+  * job applicants;
+  * visitors to our website.
 
-2\. The information we collect about you and the way we use it
 
-You may be asked to give us personal details when purchasing, registering or subscribing to an Airport service or product, taking part in customer research and surveys, service or product trials, entering competitions or providing feedback on various issues relating to BAA. If you give us your personal details we will inform you of the uses we make of that information at the time we collect it from you.
 
-If you are giving us your personal details in the course of purchasing, registering or subscribing for a service, then we will of course use it in order to provide you with that service. We will use your information to communicate with you and to personalise our service. We may contact you by post, email, or telephone (including mobile SMS).
+If you are giving us your personal information in the course of purchasing, registering, or subscribing to a service or product, then we will only use your information in order to provide you with that service or for closely related purposes.  We use some carefully selected third parties to help us deliver these services and products to you but they are only allowed to use your personal information to deliver the service or product you have purchased, registered or subscribed to.  Some of our trusted third parties in supporting these services will transfer your information overseas.
 
-We may use your information to send you offers and news about our airport services or products or those of other carefully selected companies which we think may be of interest to you. Your confirmation emails (which may include details of bookings, airport services, product registration or subscription made through our Websites) may also include marketing material which we think may be of interest to you. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+We will keep your personal information relating to services or products purchased in line with our retention policy which ensures that we keep your details for no longer than is necessary.  Your information will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
 
-Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, immigration and customs control, safety and security, administrative and legal purposes, statistical and marketing analysis with a view to improving our products and services, the Websites and the user experience, systems testing, maintenance and development, customer research and surveys, customer relations and to help us in future dealings with you. If we use your information for the purposes of statistical or marketing analysis, your information will be anonymised so you cannot be personally identified from it.
+When you purchase certain products and services from BAA we may send you confirmation emails; these may also include marketing which may be of interest to you.  We do our best to tailor this information so that it is useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication. 
 
-We may disclose your personal information to others where we are required or permitted to do so by law, or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so.
+Access to personal information
 
-If you are under 16 you must obtain consent from a parent or guardian before providing us with any personal information.
+Individuals can find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998.  If we do hold information about you we will:
 
-All personal information is held in a secure environment. All personal data that BAA collects is used in accordance with the Data Protection Act 1998.
+  * give you a description of it;
+  * tell you why we were holding it;
+  * tell you who it could be disclosed to;
+  * let you have a copy of the information in an intelligible form.
 
-BAA may use third party processors to handle personal data collected, these processors may be located in the UK or abroad. When using processors, we ensure that appropriate contractual safeguards, as dictated by the Data Protection Act 1998, are put in place.
 
-3\. Cookies
 
-BAA collects information about your use of the Websites from cookies.
+To make a request to BAA for any personal information we may hold you need to put a request in writing using the contact details at the end of this notice.
 
-When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
+If we do hold information about you, you can ask us to correct any mistakes by contacting us using the contact details provided.
 
-BAA cookies record those areas of the Websites that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Websites, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
+Complaints and Queries
 
-In addition, we would also like to make you aware that, although external to BAA, third party cookies are served on the Websites and can be used to track internet activity after a user has left the Website. Third party cookies usually have a long lifetime as they are "harvested" and "refreshed" whenever a user visits a page where the same or a similar cookie is being used.
+BAA tries to meet the highest standards when collecting and using personal information.  For this reason we take any complaints we receive about this seriously.  We encourage people to bring it to our attention if they think our collection or use of personal information is unfair, misleading or inappropriate.
 
-You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
+Disclosure of personal information
 
-4\. Your rights under the Data Protection Act
+In the majority of cases we will not disclose your personal information to others unless we have previously gained your consent.  However there will be circumstances where we may disclose your personal information without your consent e.g. where we are required by law to disclose information or where the information is required to prevent or detect a crime.  In the case of all disclosures we will always ensure the disclosure is legitimate and proportionate for the purpose. 
 
-Under the Data Protection Act, you have the right to ask us what information we hold about you, the source of that information, and the uses to which it has been put. Such a request must be in writing and should be directed to the address below.
+Visitors to our websites
 
-5\. Contact us
+When someone visits our websites we collect standard internet log information and details of visitor behaviour patterns.  We do this by using cookies which record those areas of our websites that have been visited by your computer, for how long and what activity was undertaken on our website.  We do this so we can understand which are the most popular parts of our websites, and also to improve your experience.  We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website.
 
-If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from BAA in the future, you can contact:
+You are not obliged to accept cookies.  You have the opportunity to set  your computer to either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time.  To find out more about cookies, [visit www.aboutcookies.org](http://www.aboutcookies.org/ "link opens in a new window")
+
+Links to other websites
+
+This privacy notice does not cover the links within this site linking to other websites.  We encourage you to read the privacy statements on the other websites you visit.
+
+Changes to this privacy notice
+
+We keep our privacy notice under regular review and we will place any updates on this webpage.  At the start of this privacy notice we will tell you when it was last updated.
+
+How to contact us
 
 Data Protection Manager  
-BAA Airports Limited  
+BAA Ltd  
 The Compass Centre  
 Nelson Road  
-London Heathrow Airport  
 Hounslow  
+Middlesex  
 TW6 2GW
 
-6\. Links to third party websites
-
-This privacy policy applies solely to the Websites and does not apply to any third-party websites you may access from the Websites.
-
-7\. Updates to the privacy policy
-
-BAA may amend this privacy policy from time to time in order to meet change in the regulatory environment, business needs, or to satisfy the needs of our customers, properties, strategic marketing partners, and service providers. Updated versions will be posted to our Websites and date-stamped so that you are aware of when the Privacy policy was last updated.
+This privacy notice does not provide exhaustive detail of all aspects of BAA’s collection and use of personal information.  However, we are happy to provide any additional information or explanation needed.  Any requests for this should be sent to the contact address above.
 
 List of BAA group companies
 
@@ -75,5 +85,3 @@ Heathrow Airport Limited
 Heathrow Express Operating Company Limited  
 Southampton International Airport Limited  
 Stansted Airport Limited
-
-[Back to top]
