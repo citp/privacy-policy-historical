@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the devry.edu privacy policy that was archived on 2010-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527120508id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devry.edu privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221151241id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,6 +17,7 @@
 <script type="text/javascript" src="resources/javascript/jquery-1.3.2.js"></script>
 
 
+
 <script type="text/javascript" src="resources/javascript/ui.core.js"></script>
 <script type="text/javascript" src="resources/javascript/ui.tabs.js"></script>
 <script type="text/javascript" src="resources/javascript/ui.accordion.js"></script>
@@ -29,6 +30,17 @@
 <script type="text/javascript" src="resources/javascript/ui.tooltips.js"></script>
 <script type="text/javascript" src="resources/javascript/ui.more-about.js"></script>
 <script type="text/javascript" src="resources/javascript/persistentsourcecode.js"></script>
+<script type="text/javascript" src="resources/javascript/video_adder.js"></script>
+<script type="text/javascript" src="resources/javascript/qw/swfobject.js"></script>
+<script type="text/javascript" src="resources/javascript/hero_lightbox.js"></script>
+
+<script type="Text/javascript">
+function closeVideo(){
+swfobject.embedSWF("fake.swf", "hero_lightbox", "0", "0", "9.0.0");
+				$('#hero_cover, #hero_wrapper').fadeOut('fast');
+				
+}
+</script>
 <script type="text/javascript" src="resources/javascript/this-tabs.js"></script>
 <script type="text/javascript" src="resources/javascript/SDC.js"></script>
 <script type="text/javascript" src="resources/javascript/FPC.js"></script>
@@ -40,9 +52,11 @@
 <!--[if lte IE 6]>
     <link rel="stylesheet" type="text/css" href="resources/css/ie6.css" />
 <![endif]-->
+<script type="text/javascript" src="resources/javascript/devry_google_analytics.js"></script>
 </head>
 
-<body>
+<body><div id="hero_cover"></div><div id="hero_wrapper"><div id="hero_lightbox"></div></div>
+
     <div id="html_container">
         <div id="html_center">
             <div id="header_container">
@@ -75,11 +89,11 @@ $(function(){
 <li class="title">Menu</li>
 <li><a href="whydevry/quality_education.jsp"><img src="assets/images/nav-why-devry.gif" alt="Why DeVry"></a>
 </li>
-<li><a href="degree-programs/colleges-overview.jsp"><img src="assets/images/nav-programs.gif" alt="Programs"></a>
+<li><a href="degree-programs/colleges-degree-programs-overview.jsp"><img src="assets/images/nav-programs.gif" alt="College &amp; Degree Programs"></a>
 </li>
 <li><a href="locations/search_locations.jsp"><img src="assets/images/nav-locations.gif" alt="Locations"></a>
 </li>
-<li><a href="online-options/online-options-overview.jsp"><img src="assets/images/nav-online-options.gif" alt="Online Options"></a>
+<li><a href="online-options/online-degree-programs.jsp"><img src="assets/images/nav-online-options.gif" alt="Online Options"></a>
 </li>
 <li><a href="financial-aid-tuition/financial-aid-tuition-overview.jsp"><img src="assets/images/nav-financial.gif" alt="Financial Aid &amp; Tuition"></a>
 </li>
@@ -100,6 +114,8 @@ $(function(){
             <div id="main_container">
                 <div id="title_pic"><h1>
                         Privacy Policy</h1>
+                                              						
+                    
                     <img src="assets/images/bg-title.gif" alt=" "></div>
                     <div id="content_container">
                     <h2>
@@ -125,7 +141,51 @@ Highland Landmark V<br>
 3005 Highland Parkway<br>
 Downers Grove, IL 60515-5683<br>
 800/73-DEVRY (800/733-3879)</p></div><!--content_container end-->
-                <div id="sidebar">    
+                <div id="sidebar"> 
+                
+                <!--Intro-->
+<div id="hero_container_sidebar" class="sidebar_vid sidebar_intro">
+	<h2>An Introduction</h2>
+	<div id="flash_container_sidebar">
+		<img src="http://www.devry.edu/resources/images/intro_video_sidebar.jpg" alt="Watch Video" class="hero_lightbox_trigger" rel="LightboxIntroPlayer">
+	</div>
+	<p style="cursor:default;">
+		Learn what makes this university different. <span class="sidebar_lightbox hero_lightbox_trigger" rel="LightboxIntroPlayer" href="#">Watch video</span>
+	</p>
+</div>
+
+<!--Degreees Emplyers Value-->
+<div id="hero_container_sidebar" class="sidebar_vid sidebar_degrees">
+	<h2>A Respected Degree</h2>
+	<div id="flash_container_sidebar">
+		<img src="http://www.devry.edu/resources/images/accredited_video_sidebar.jpg" alt="Watch Video" class="hero_lightbox_trigger" rel="LightboxContinuingEdAidPlayer">
+	</div>
+	<p style="cursor:default;">
+		We work with today's top businesses to create degree programs that are valued. <span class="sidebar_lightbox hero_lightbox_trigger" rel="LightboxContinuingEdAidPlayer" href="#">Watch video</span>
+	</p>
+</div>
+
+<!--Senior Projects--> 
+<div id="hero_container_sidebar" class="sidebar_vid sidebar_senior">
+		<h2>Senior Projects</h2>
+	<div id="flash_container_sidebar">
+		<img src="http://www.devry.edu/resources/images/seniorprojects_video_sidebar.jpg" alt="Watch Video" class="hero_lightbox_trigger" rel="LightboxSeniorProjectsPlayer">
+	</div>
+	<p style="cursor:default;">
+	See how our students get real work experience in the classroom. <span class="hero_lightbox_trigger sidebar_lightbox" rel="LightboxSeniorProjectsPlayer">Watch video</span>
+	</p>
+</div>   
+
+<!-- Alumni -->
+<div id="hero_container_sidebar" class="sidebar_vid sidebar_alumni">
+	<h2>Our Alumni</h2>
+	<div id="flash_container_sidebar">
+		<img src="http://www.devry.edu/resources/images/alumni_video_sidebar.jpg" alt="Watch Video" class="hero_lightbox_trigger" rel="LightboxAlumniPlayer">
+	</div>
+	<p style="cursor:default;">
+		Graduates discuss how their degrees have helped them move forward. <span class="sidebar_lightbox hero_lightbox_trigger" rel="LightboxAlumniPlayer" href="#">Watch video</span>
+	</p>
+</div>
                     <div id="chat_live">
             <h4>Chat live</h4>
             <form id="_lpChatBox" target="chat32483171" method="get" onsubmit="return openchatwindow(this,'chat32483171');" action="http://service.liveperson.net/hc/32483171/">
@@ -162,25 +222,24 @@ Downers Grove, IL 60515-5683<br>
                                 </div> 
                             <input type="button" class="go-btn" value="Go" id="toolbox1" trackingdscuri="DeVry.edu: Toolbox-I am a button" trackingwtti="DeVry.edu: Toolbox-I am a button" onclick="if(document.getElementById('toolbox0').value!=-1){if(document.getElementById('toolbox0').value.indexOf('http')>-1){document.getElementById('goForm').target='_blank'}else{document.getElementById('goForm').target='_self'} document.getElementById('goForm').action=document.getElementById('toolbox0').value;document.getElementById('goForm').submit();}"> 
                         </form>
-                        <h2>Is DeVry University right for you?</h2>
                         <h6><img src="assets/images/ico-toolbox.gif" alt=" ">
                             <a href="http://www.devry.edu/online-videos/virtual-advisor.jsp" id="toolbox2" trackingdscuri="DeVry.edu: Toolbox-Virtual Advisor" trackingwtti="DeVry.edu: Toolbox-Virtual Advisor" target="_blank">
-                            Launch our virtual advisor</a>
+                            <strong>Grads! Ready for DeVry?<br>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Try the DeVry Virtual Advisor</strong></a>
                         </h6>
                         <h6><img src="assets/images/ico-toolbox-00.gif" alt=" ">
-                            <a href="http://www.devry.edu/online-videos/dvu-tube/playlist.htm" id="toolbox3" trackingdscuri="DeVry.edu: Toolbox-Video Library" trackingwtti="DeVry.edu: Toolbox-Video Library" target="_blank">
+                            <a href="http://www.youtube.com/user/TheDevryUniversity" id="toolbox3" trackingdscuri="DeVry.edu: Toolbox-Video Library" trackingwtti="DeVry.edu: Toolbox-Video Library" target="_blank">
                             Video Library</a>
                         </h6>
                         <h6><img src="assets/images/ico-toolbox-05.gif" alt=" ">
-                            <a href="/uscatalog/index.jsp" id="toolbox4" trackingdscuri="DeVry.edu: Toolbox-View Academic Catalogs" trackingwtti="DeVry.edu: Toolbox-View Academic Catalogs" target="_blank">
+                            <a href="http://www.devry.edu/uscatalog/" id="toolbox4" trackingdscuri="DeVry.edu: Toolbox-View Academic Catalogs" trackingwtti="DeVry.edu: Toolbox-View Academic Catalogs" target="_blank">
                             View Academic Catalogs</a>
                         </h6>
                         <div class="hidden_list">  
                             <h2><img src="assets/images/ico-toolbox-01.gif" alt=" ">Online Demos</h2> 
                             <ul> 
                                 <li>» 
-                                    <a title="See how easy online learning can be." href="http://www.devry.edu/tools/online-learning-experience/OnlineCourseTour.htm" id="toolbox5" trackingdscuri="DeVry.edu: Toolbox-Online Learning Experience" trackingwtti="DeVry.edu: Toolbox-Online Learning Experience" target="_blank">
-                                        Online Learning Experience</a>
+                                    <a title="See how easy online learning can be." href="http://www.devry.edu/tools/online-learning-experience/online-college-course-demo.htm" id="toolbox5" trackingdscuri="DeVry.edu: Toolbox-Online Learning Experience" trackingwtti="DeVry.edu: Toolbox-Online Learning Experience" target="_blank">
+                                        Online College Course Demo</a>
                                 </li> 
                                 <li>» 
                                     <a title="Take a virtual tour of a DeVry University campus." href="http://www.devry.edu/tools/etour/etour.html" id="toolbox6" trackingdscuri="DeVry.edu: Toolbox-Etour" trackingwtti="DeVry.edu: Toolbox-Etour" target="_blank">
@@ -190,16 +249,16 @@ Downers Grove, IL 60515-5683<br>
                             <h2><img src="assets/images/ico-toolbox-02.gif" alt=" ">Calculators</h2> 
                             <ul> 
                                 <li>» 
-                                    <a title="Discover the difference a degree makes." href="http://www.devry.edu/tools/earnings-calculator/earnings-calculator.html" id="toolbox7" trackingdscuri="DeVry.edu: Toolbox-Earnings Calculator" trackingwtti="DeVry.edu: Toolbox-Earnings Calculator" target="_blank">
-                                        Earnings Calculator</a>
-                                </li> 
-                                <li>» 
-                                    <a title="Find out how much college may cost." href="financial-aid-tuition/financial-aid-calculator.jsp" id="toolbox8" trackingdscuri="DeVry.edu: Toolbox-Financial Aid Calculator" trackingwtti="DeVry.edu: Toolbox-Financial Aid Calculator">
+                                    <a title="Find out how much college may cost." href="financial-aid-tuition/financial-aid-calculator.jsp" id="toolbox7" trackingdscuri="DeVry.edu: Toolbox-Financial Aid Calculator" trackingwtti="DeVry.edu: Toolbox-Financial Aid Calculator">
                                         Financial Aid Calculator</a>
                                 </li> 
                                 </ul> 
                             <h2><img src="assets/images/ico-toolbox-03.gif" alt=" ">Decision-Making Tools</h2> 
                             <ul> 
+                                <li>» 
+                                    <a title="Find a Major that fits you." href="http://www.high-school.devry.edu/major-decisions/questions.htm" id="toolbox8" trackingdscuri="DeVry.edu: Toolbox-Major Decisions" trackingwtti="DeVry.edu: Toolbox-Major Decisions" target="_blank">
+                                        Major Decisions</a>
+                                </li> 
                                 <li>» 
                                     <a title="Chart your professional career path to see what it takes to succeed." href="http://www.devry.edu/tools/career-path-tool/professional_career_paths.html" id="toolbox9" trackingdscuri="DeVry.edu: Toolbox-Career Path Tool" trackingwtti="DeVry.edu: Toolbox-Career Path Tool" target="_blank">
                                         Career Path Tool</a>
@@ -247,7 +306,7 @@ Downers Grove, IL 60515-5683<br>
 			<li class="first"> 
 				<ul> 
 					<li class="title">Prospective Students</li> 
-					<li><a id="more-about-call" track="DeVry.edu: Footer- Degree Programs" href="degree-programs/colleges-overview.jsp">Degree Programs</a></li>                             
+					<li><a id="more-about-call" track="DeVry.edu: Footer- Degree Programs" href="degree-programs/colleges-degree-programs-overview.jsp">Degree Programs</a></li>                             
 					<li><a track="DeVry.edu: Footer- Schedule a Campus Tour" href="https://www.devry2.com/Landing38/index.html?vc=160053" target="_blank">Campus Tour</a></li>
 					<li><a track="DeVry.edu: Footer- Request Information" class="rivc" href="https://www.devry2.com/landing6_1/default.aspx?vc=140427" target="_blank">Request Information</a></li>
 					<li><a track="DeVry.edu: Footer- Academic Catalogs" href="uscatalog/">Academic Catalogs</a></li>
@@ -297,7 +356,7 @@ Downers Grove, IL 60515-5683<br>
 			<li class="last"> 
 				<ul> 
 					<li class="title">Online Communities</li> 
-					<li><img class="icon" src="resources/images/icon-facebook.gif"><a track="DeVry.edu: Footer- Facebook" href="http://www.facebook.com/pages/DeVry-University/90558947243?v=wall&amp;viewas=736396132&amp;ref=search" target="_blank">Facebook</a></li> 
+					<li><img class="icon" src="resources/images/icon-facebook.gif"><a track="DeVry.edu: Footer- Facebook" href="http://www.facebook.com/DEVRYUNIVERSITY" target="_blank">Facebook</a></li> 
 					<li><img class="icon" src="resources/images/icon-linkedin.gif"><a track="DeVry.edu: Footer- LinkedIn" href="http://www.linkedin.com/groups?gid=36138&amp;trk=anetsrch_name&amp;goback=.gdr_1258641799789_1" target="_blank">LinkedIn</a></li> 
 					<li><img class="icon" src="resources/images/icon-twitter.gif"><a track="DeVry.edu: Footer- Twitter" href="http://twitter.com/DeVryUniv" target="_blank">Twitter</a></li> 
 					<li><img class="icon" src="resources/images/icon-youtube.gif"><a track="DeVry.edu: Footer- YouTube" href="http://www.youtube.com/user/TheDevryUniversity" target="_blank">YouTube</a></li> 
@@ -329,7 +388,7 @@ Downers Grove, IL 60515-5683<br>
                 <a id="sitemap-call" track="DeVry.edu: Footer- Site Map" href="javascript:void(0)">Sitemap</a> | <strong>Call us: 866-338-7934</strong>
             </div> 
             <div id="disclaimer">
-                *<a track="DeVry.edu: Footer- Career Success" href="career-services/employment-statistics.jsp">Career Success</a><font color="black">: Since 1975, 237,957 undergraduate students system-wide have graduated from DeVry, and 90% of those in the active job market were employed in career-related positions within six months of graduation. Active job market includes those employed prior to graduation.</font><br> In New York, DeVry University operates as DeVry College of New York. DeVry University operates as DeVry Institute of Technology in Calgary, Alberta. AC0060.
+                *<a track="DeVry.edu: Footer- Career Success" href="career-services/employment-statistics.jsp">Career Success</a><font color="black">: Since 1975, 245,988 undergraduate students system-wide have graduated from DeVry, and 90% of those in the active job market were employed in career-related positions within six months of graduation. Active job market includes those employed prior to graduation.</font><br> DeVry University operates as DeVry Institute of Technology in Calgary, Alberta. <font color="black"><b>In New York, DeVry University operates as DeVry College of New York.</b></font><br>Certified to operate by the State Council of Higher Education for Virginia. AC0060. Program availability varies by location.
             </div> 
 
 			<script type="text/javascript">
@@ -348,7 +407,7 @@ Downers Grove, IL 60515-5683<br>
     
 
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1193&amp;ref2=elqNone&amp;tzo=0&amp;ms=668" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2768&amp;ref2=elqNone&amp;tzo=0&amp;ms=374" border="0" width="1" height="1"></layer>
 <!--
 ==================
 = Webtrends Only =
