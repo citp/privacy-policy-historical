@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redtubeit.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621000919id_/http%3A//redtubeit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubeit.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221011340id_/http%3A//redtubeit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policies | Redtube
+# Redtube » Privacy Policies
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site redtubeit.com HERE. The following discloses the information gathering and dissemination practices for this Web site.
 
