@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612214202id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221101816id_/http%3A//www.incansoft.com/TestSite/Privacy_Statement.html) for the most accurate reproduction.*
 
-# Incansoft | Experience The Difference Today!
+# Incansoft | Privacy Statement
 
-**Incansoft Privacy Statement**
+See Also: [Copyright Information](http://www.incansoft.com/TestSite/Copyright_Information.html) | [Disclaimer](http://www.incansoft.com/TestSite/Disclaimer.html) | [Terms Of Use](http://www.incansoft.com/TestSite/Terms_Of_Use.html)
+
+* * *
+
+**General Privacy Policies**
 
 We respect your interest in your privacy and as a result we have created this informational disclosure. 
 
 We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. 
 
 Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below. 
+
+You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen. 
 
 **Information Collected by our ISP**
 
@@ -58,7 +64,14 @@ Your information may be stored and processed in any country in which we maintain
 
 After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged. 
 
-Sincerely, 
+**Policy Changes**
 
-Michalis " **BIG Mike** " Kotzakolios and his Trusty Sidekick **Diego Hernando**   
-[Niche Mania](http://www.niche-mania.com/) & Incansoft | _Experience The Difference Today!_
+These policies may be amended by us at any time and without notice, but will be posted at this page. 
+
+You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment. 
+
+Effective Date: **August 9, 2002**
+
+* * *
+
+ _Our most important goal at Incansoft is to leave you feeling delighted with your experience with us!_
