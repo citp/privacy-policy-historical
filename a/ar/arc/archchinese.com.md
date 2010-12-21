@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archchinese.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522231128id_/http%3A//www.archchinese.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archchinese.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222002820id_/http%3A//www.archchinese.com/privacy.html) for the most accurate reproduction.*
 
 # Arch Chinese - Free Chinese Character Learning, Free Character Stroke Order Animation and Dictionary, Free Chinese Character Flashcards, Free Chinese character stroke sequence, Free Chinese Character Writing Worksheet,Chinese-English dictionary, Chinese Characters, chinese word stroke order, animated chinese characters strokes , mandarin writing worksheet,Chinese characters pinyin English, chinese radicals learning software,chinese radicals characterlearning software Linux,Chinese radicals character learning software Mac OS X, chinese characters flashcards print, animated chinese characters strokes, mandarin writing worksheet
 
@@ -18,4 +18,7 @@ Arch Chinese maintains a member database that contains names, email addresses, m
 We do not log or maintain visitor information. The web traffic is tracked by third parties. 
 
 **4\. Personal Information**  
-Other than names and email addresses, we do not gather or maintain any other personal information. Membership payment is securely handled by PayPal payment service. 
+Other than names and email addresses, we do not gather or maintain any other personal information. Membership payment is securely handled by PayPal payment service or Google Checkout. 
+
+**5\. Compliance with Children's Online Privacy Protection Act**  
+As an online learning service, we do not target our offerings toward, and do not knowingly collect any personal information from users under 13 years of old. 
