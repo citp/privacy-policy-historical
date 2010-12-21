@@ -1,66 +1,61 @@
-> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426131316id_/http%3A//www.speedo.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D302%26Itemid%3D153%26lc%3Den%26cc%3Dglobal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedo.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221040415id_/http%3A//www.speedousa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# Speedo - Privacy Policy
+# SPDO - Help : Privacy Policy
 
-Speedo and/or any of its international partners, subsidiaries or associated companies (“Speedo” or “we” or “us”) take our relationship with all our users seriously, and this includes how we handle the data you give us.
+SpeedoUSA respects your privacy and, therefore, SpeedoUSA does not sell or rent the personal information you provide to us to any third party. SpeedoUSA will not share your personal information with any unaffiliated third party without your consent, unless as stated herein. 
 
-Speedo is committed to meeting the requirements of all relevant laws and codes including the Data Protection Act 1998 and is registered with the Information Commission under registration no Z6162114 as a Data Controller. This Privacy Policy sets out the ways we process any personal data collected via our Website. 
+SpeedoUSA may, from time to time, contract with unaffiliated third parties that assist us in providing our products and services to you; assist in maintaining and managing customer information to provide customer and internet services; to take and fulfill orders; to conduct SpeedoUSA promotions and surveys; or to more effectively communicate with our customers. These companies are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site. SpeedoUSA does not authorize any unaffiliated third party to make any other use of your information. 
 
-**1\. When do we collect personal information?  
-** Most of our Website is free for you to browse through and read. There are a few occasions when we ask you to fill in a form and give us some information about yourself. We only ask for your personal information for the following reasons:
+SpeedoUSA will add you to our mailing list when you supply us with your address. Sometimes SpeedoUSA makes our mailing list available to carefully screened companies whose products and services might interest you. If you do not wish to receive such mailings, please contact us via email. Include your name and address as it was supplied to us, and indicate "Do Not Share". 
 
-• If you want to create or update your personal profile;  
-• If you want to take part in a prize draw or competition;   
-• If you want to contact us, send us an email or offer feedback; or  
-• If you want to receive news and exclusive offers via email.
+If you have chosen not to receive email or postal mailings from SpeedoUSA prior to your participation in a contest, sweepstakes, promotion or survey, you may still receive information from SpeedoUSA in connection with such activity if you register for or participate in it. You may also choose not to participate in contests, sweepstakes, promotions or surveys if you do not wish to receive information about SpeedoUSA or share your information with SpeedoUSA and the other companies sponsoring such activities at any time by contacting us by either email, phone or post mail.
 
-We only collect personal information (such as your name and address details) if you choose to provide that information to us in response to our request. 
+SpeedoUSA may disclose your information in connection with law enforcement, fraud prevention, or other legal action as required by law or regulation, or if we reasonably believe it is necessary to protect us, our customers, or the public.
 
-What if I am under 15?  
-If you are a child under 15 and want to create a personal profile, we ask that you have a parent or guardian create a Speedo Family Account. By this we mean that a parent or guardian can register on your behalf using their details. We ask this so that as a child, your personal details are protected, and also to ensure that you have parental consent to take part. Speedo does not ask a person under 15 for more personal information as a condition of participation than is necessary for a given promotion.
+If you reach SpeedoUSA.com from a link on another web site or search engine, information about your visit to SpeedoUSA.com may be collected by the provider of the referring web site. You are encouraged to review the Privacy & Security Statement of these other web sites (or search engines). You can avoid this by entering SpeedoUSA.com directly into the address field of your browser.
 
-What if I am under 12?  
-We cannot accept requests from children under 12 to join our mailing list via our automated system. If you are a child under 12 and want to join our mailing list, please ask your parent or guardian to contact us at [info@speedo.com](mailto:speedoenquiries@pentland.com) and we will make arrangements to manually add you to our mailing list. 
+**Information Collected**  
+SpeedoUSA collects customer information in an effort to improve your shopping experience and to communicate with you about its products, services, contests, and promotions. SpeedoUSA recognizes that it must maintain and use customer information responsibly. 
 
-**2\. What do we do with the information?**  
-Providing personal information is up to you. We collect personal information to enter you in contests and notify you of results, to e-mail you with updates, news and special offers, to respond to your questions or comments, or to register you for certain features on the Website. 
+SpeedoUSA collects information (such as your name, email address, mailing address, and phone and credit card numbers) that you provide when you place an order, join our mailing list, register with us or participate in a contest, promotion or survey. SpeedoUSA also maintains a record of your product interests and your purchases online. 
 
-Speedo (and those people or companies employed by Speedo who help make this Website, its content and its services) will process and use your personal information in order to respond to your feedback - like responding to problems, improving our services and gearing what we do to suit your requirements further. 
+To serve you better, the information you supply to us is added to our customer database. SpeedoUSA will add you to its mailing list. From time to time, you may receive periodic mailings or emails from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such emails or mailings from us, please contact us via email, include your name and address as it was supplied to us, and indicate "Do Not Share". You may unsubscribe from our email list directly on the web site. 
 
-Beyond this, we will not share your information with any other company without your consent unless we are required to do so by law, if you have won a prize or if you have made a request for specific information. If you give us consent then we may share your information with our partners, subsidiaries or or subsidiary companies in order that they can contact you with information, promotions, products, services and offers that may be interesting to you.  
-We will never sell your information to any other company.
+SpeedoUSA may combine information you give us online with demographic information that is publicly available. SpeedoUSA uses this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, contests and promotions that may be of interest to you.
 
- **3\. Asking your permission**  
-If you register on the Website or make a purchase, we may also contact you via e-mail with further information or updates concerning our products. We don't want to bombard your inbox, so the most number of updates we will send you is one a week - but normally it is only one every fortnight or less. 
+**Updating or Changing Information**  
+If at any time you want to update or change your information, simply sign on to SpeedoUSA.com as usual, and click on [My Account](https://www.speedousa.com/coreg/index.jsp?step=register) on the navigation bar. Once logged in, you will be able to change any personal information.
 
-**4\. How to unsubscribe**  
-Our policy is to allow users to unsubscribe from our regular emails at any time. You can do this by clicking on the Unsubscribe link at the bottom of the email you've received. 
+**Your California Privacy Rights**  
+Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to SpeedoUSA about how we have shared your personal customer information with select third parties for their direct marketing purposes. In response to your written request, SpeedoUSA will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address. Please submit a written request to the address below.
 
-However, should you experience any problems, please call our Customer Service Team who will assist you.  
+**Cookies**  
+SpeedoUSA uses "cookies" to enhance your experience with our site. Cookies are text files we place in your computer's browser to store your preferences. SpeedoUSA uses cookies to understand site usage and to improve the content and offerings on our sites. For example, SpeedoUSA may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. SpeedoUSA also may use cookies to offer you products, programs, or services. You can refuse cookies by turning them off in your browser. But to take full advantage of the SpeedoUSA.com experience, we recommend that you leave them turned on. 
 
+**Children's Privacy**  
+SpeedoUSA does not sell or ship any items ordered through this web site directly to anyone who we know to be under the age of 18, nor does SpeedoUSA collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this web site only with the involvement of a parent or guardian and should not submit any personal information to us. 
 
-If you have asked us to stop sending emails, and this hasn’t happened, it may be because the email address to which we are sending them is not the same as the address you sent your request from. Please check the address we are using and include this information in your request. The easiest way to do this is to return to us the whole of the unwanted email. The address we are sending to is included at the bottom of the message.
+**Disclaimer**  
+You understand that SpeedoUSA cannot and does not promise, guarantee or warrant that files you download through the Internet will be free from viruses, worms, Trojan horses or other code that may be destructive. You are responsible for implementing sufficient safeguards for yourself. SpeedoUSA does not assume any responsibility for your use of the Internet. 
 
- **5\. Who processes your information?**  
-Speedo (and those people or companies employed by Speedo who help make this Website, its content and its services including Speedo International Limited and its employees) will process and use the information you tell us in order to respond to your feedback - like responding to problems, improving our services and gearing what we do to suit your requirements further.
+USE OF THIS SITE IS AT YOUR OWN RISK. THE CONTENT IS PROVIDED "AS IS" AND WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED. SPEEDOUSA DISCLAIMS ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. SPEEDOUSA DOES NOT WARRANT THAT THIS SITE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THIS SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL ELEMENTS. SPEEDOUSA DOES NOT WARRANT OR MAKE ANY REPRESENTATION REGARDING ANY USE OF THE CONTENT OR ACCURACY. SPEEDOUSA MAY MAKE CHANGES OR IMPROVEMENTS AT ANY TIME. YOU ASSUME THE ENTIRE COST OF ANY LOSS OR DAMAGE ARISING FROM THE USE OF THIS SITE OR ITS CONTENT. SPEEDOUSA MAKES NO WARRANTY THAT YOUR USE OF THE CONTENT WILL NOT INFRINGE THE RIGHTS OF OTHERS. SPEEDOUSA ASSUMES NO RESPONSIBILITY FOR ERRORS OR OMISSIONS IN SUCH CONTENT.
 
- **6\. Use of cookies**  
-We may use cookies in order to provide a better service or identify which pages on the Website are of special interest. A cookie is a small piece of information which a Website stores via your web browser on your PC and which can later be retrieved. Cookies cannot be read by a Website other than the one which set it. The main objective is to identify users and personalise their visit by customising web pages for them, for example by welcoming them by name next time they visit the same website. Most cookies last only through one session or visit to our Website. None will contain information that will enable anyone to contact you via telephone, e-mail, or any other means. You can set up your web browser to inform you when cookies are set or to prevent cookies form being set. 
+All of the information on this site is current only as of the date it is posted.
 
-**7\. What do we do to safeguard personal information?**  
-We have instituted safeguards to check that our internal procedures meet our high policy standards. We also use our best efforts to be sure that third parties who work with us as our agents to make this Website and its contents available to you, and to fulfil your orders and requests, agree to protect personal information that they must access in order to serve our Website and our visitors. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+**Hyperlinks**  
+SpeedoUSA may have hyper-links on this site to other sites that we think you might find interesting. Such other sites are not under our control and therefore we have not reviewed them and we are not responsible for their content. You click through at your own risk, and SpeedoUSA makes no representation or warranties about the content, completeness or accuracy of the sites hyper-linked to this site. A link to the site does not imply our endorsement or approval of its content or source.
 
-**8\. Links to other Websites**  
-We may offer links to other websites we use and recommend. However, we are not responsible for the content or information collection policies of websites operated by other companies. If you visit another website, we advise you to review their privacy and other policies. 
+**Intellectual Property**  
+All trademarks, service marks, and logos, text, copyrightable subject matter, images, graphics, designs and products appearing on this site belong to SpeedoUSA or in some cases to the party that authorized such use by SpeedoUSA
 
-**9\. Changes to our Privacy Policy**  
-Any changes to the Privacy Policy will be posted here.   
-If Speedo wishes to make material changes to the way we use your personal information we will ask for your consent before we do so. 
+**How to Opt-Out:**  
+You have the option of deciding not to receive any of our future mailings. You may log into your SpeedoUSA.com [Account](https://www.speedousa.com/coreg/index.jsp?step=register), click on Edit My Email preferences and uncheck the checkbox on the landing page next to "Yes, send me newsletters and notify me of sales and promotions." 
 
-**10\. Anything else I should know?  
-** Except as otherwise provided, we will NOT disclose any information processed by us to any third party, unless required to do so by law. 
+If you do not want to receive future paper mailings, [click here](http://www.speedousa.com/helpdesk/index.jsp?display=store&subdisplay=contact&stillHaveQuestion=yes) to send us an email to remove your name from the list. Please include your full name, street address and email address and specify "no mail".
 
-If you have any questions, wish to access, update or delete information, wish to opt out of receiving future communications, or have questions about our privacy policy, please contact the Website Moderator via email at [info@speedo.com](mailto:speedoenquiries@pentland.com), or at Speedo International Limited, Ascot Road, Nottingham, NG8 5AJ, England.  
-© Speedo International Limited 2008. All Rights Reserved.
+We also make information, including personal information, available to a select group of companies that we think may have products, contests, or services that you would enjoy. If you do not want to receive messages from third parties, please send us an email at [Service@SpeedoUSA.com](mailto:Service@SpeedoUSA.com). Please include your full name, street address, email address and specify that you do not wish to receive third party mailings. Or send a note to SpeedoUSA.com Customer Service, 3003 Scarlett Street, Suite 25, Brunswick, GA 31520 with your full name, street address, and the mailing label from a prior order or mailing if possible and specify that you do not wish to receive any future mailings from SpeedoUSA.com or any third party mailings.
 
-Copyright © 2008 Speedo International. All rights reserved. 
+**Contact Us**  
+If you have any questions about the Privacy Policy, the practices of our web site, or your interactions with our web site, you can contact us at: SpeedoUSA, 1201 W. 5th Street, Suite 1200, Los Angeles, CA 90017, or email us at [Service@SpeedoUSA.com](mailto:Service@SpeedoUSA.com). 
+
+Last updated: October 2009.
