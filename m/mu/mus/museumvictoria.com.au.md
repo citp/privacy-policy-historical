@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522112637id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221145338id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Museum Victoria: Privacy
 
@@ -8,7 +8,7 @@ Throughout this Website Privacy Statement, reference to your 'personal informati
 
 Any changes to this Website Privacy Statement will be posted on Museum Victoria’s website. We encourage you to review this Statement from time to time.
 
-Museum Victoria is committed to protecting your personal privacy. The principles that guide Museum Victoria in relation to collecting, handling and storing your personal information can be found in our Privacy Policy.
+Museum Victoria is committed to protecting your personal privacy. The principles that guide Museum Victoria in relation to collecting, handling and storing your personal information can be found in our Privacy Policy (see link at right).
 
 The following information pertains to your privacy and Museum Victoria’s website.
 
@@ -21,26 +21,31 @@ You can access and browse our website without disclosing personal information. W
 This site does not collect or use personal information except that which you choose to provide:
 
   * on online forms through ‘Contact Us’ either to ask a question or provide feedback; or through ‘E-news’, to subscribe to our online newsletter
-  * in e-mail messages, to make a booking or an enquiry.
+  * in e-mail messages, to make a booking or an enquiry
+  * in comments
 
 
 
+  
 We will only record your e-mail address and other contact details if you complete an online form or send us an e-mail message. This information will only be used to respond to your enquiry or feedback, and will not be added to a mailing list unless specifically requested. We will not use your personal information for any other purpose.
 
-  * For online ticketing purposes, Museum Victoria collects and uses your personal information to operate its online ticketing system and deliver the services you have requested. For this purpose, Museum Victoria needs to collect
+If you provide us with personal information about someone else, for example in an e-mail message or comment, you must tell them about our website privacy statement and ensure that they do not object to their personal information being disclosed to us.
+
+  * For online ticketing purposes, Museum Victoria collects and uses your personal information to operate its online ticketing system and deliver the services you have requested. For this purpose, Museum Victoria needs to collect 
     * Your name for validation purposes for ticket queries
     * Your e-mail address in order to e-mail you your ticket, and address any queries
     * Your phone number for a back up contact
     * Your post code and country details for understanding visitor demographics as part of the Museum visitor research program
     * It is your choice to provide street address details. If you provide these they may be used as an additional contact and/or additional validation for any ticket queries
-
-Please note that Museum Victoria stores the above personal information on our system. Access to this data is security controlled. Please also note that your credit card transactions are processed by a Payment Card Industry Data Security Standard (PCIDSS) compliant hosted secure service. For further information relating to PCIDSS please refer to: [PCI Security Standards Organisation](https://www.pcisecuritystandards.org/).
-
-We won’t send you any e-mails unless you tell us you want them. 
-
     * If you select the ‘receive news and updates from Museum Victoria’ option you agree to receive regular e-mail updates from Museum Victoria. Museum Victoria does not sell, rent or lease its customer lists to third parties. Museum Victoria may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party.
     * If, however, in an MV website you elect to receive information on future events directly from other parties, then we will provide those parties with your contact details to enable those parties to contact you.
 
+  
+Please note that Museum Victoria stores the above personal information on our system. Access to this data is security controlled. Please also note that your credit card transactions are processed by a Payment Card Industry Data Security Standard (PCIDSS) compliant hosted secure service. For further information relating to PCIDSS please refer to: [PCI Security Standards Organisation](https://www.pcisecuritystandards.org/).
+
+We won’t send you any e-mails unless you tell us you want them.
+
+  
 Please contact Museum Victoria’s Privacy Officer for further information:  
 Privacy Officer  
 Museum Victoria  
@@ -48,14 +53,23 @@ GPO Box 666
 Melbourne VIC 3001  
 or email [privacy@museum.vic.gov.au](mailto:privacy@museum.vic.gov.au)
 
-
-
-
 We may not be able to provide the full range of services through the Museum Victoria website if we are not provided with the information outlined above.
+
+  * To make a donation through the online form. In order to process online donations Museum Victoria needs to collect: 
+    * Your name to provide a tax deductible receipt 
+    * Your email address to send your tax deductible receipt
+    * It is your choice to provide street address details. If you provide these they may be used as an additional contact and/or additional validation for any queries
+
+The information provided by you will only be used for Museum Victoria purposes, such as the administration of your donation, fundraising, and record keeping. If you do not wish to receive updates and invitations from Museum Victoria you may select this option on the online form. You may also request not to receive further updates or invitations at any time. Museum Victoria does not sell, rent or lease its customer lists to third parties.
+
+Please note that Museum Victoria stores the above personal information on our system. Access to this data is security controlled. Please also note that your credit card transactions are processed by a Payment Card Industry Data Security Standard (PCIDSS) compliant hosted secure service. For further information relating to PCIDSS please refer to: [PCI Security Standards Organisation](https://www.pcisecuritystandards.org/).
+
+
+
 
 ### 1.1.3 Disclosure
 
-We will not disclose your personal information without your consent, unless required to do so by law.
+We will only disclose your personal information in accordance with this privacy statement, or where we otherwise have your consent or if we are required to do so or are authorised by law.
 
 ### 1.1.4 Access and Correction
 
@@ -64,7 +78,7 @@ Privacy Officer
 Museum Victoria  
 GPO Box 666  
 Melbourne VIC 3001  
-email the [Privacy Officer](mailto://http:25//museumvictoria.com.au/staff-mailer/?SM=Privacy+Officer&AI=privacy@museum.vic.gov.au).  
+email the [Privacy Officer](mailto:http://museumvictoria.com.au/Staff-Mailer/?SM=Privacy+Officer&AI=privacy@museum.vic.gov.au).  
 The Freedom of Information request process may be required, in order for Museum Victoria to recover the costs of servicing the enquiry. To find out more about this process please refer to [Freedom of Information Online](http://www.foi.vic.gov.au/), Victoria.
 
 ### 1.1.5 Internet Security
