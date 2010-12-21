@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529032017id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221021250id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy | American Family Insurance
 
@@ -13,7 +13,7 @@
 
 ### General Privacy Notice
 
-The companies of American Family Insurance Group (see [Company Identification](http://www.amfam.com/identification.asp)) recognize the importance of our customers’ trust. Keeping our customers’ personal information confidential is a top priority for all American Family Insurance employees, agents and their staff. This Notice, which is required by state and federal law, explains our Privacy Policies.
+The companies of American Family Insurance Group (see [Company Identification](http://www.amfam.com/security/identification.asp)) recognize the importance of our customers’ trust. Keeping our customers’ personal information confidential is a top priority for all American Family Insurance employees, agents and their staff. This Notice, which is required by state and federal law, explains our Privacy Policies.
 
   1. We safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers share with us. "Nonpublic, personal information", for example, would include such information as your name, address, social security number and credit information. We maintain safeguards, physical and electronic, to protect that information. We conduct our business in a manner that keeps personal customer information secure. 
   2. We limit the collection and use of customer information to the minimum we require to deliver superior service and to administer our business. We collect personal information about customers from the following sources:   
