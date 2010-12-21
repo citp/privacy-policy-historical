@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the portlandtribune.com privacy policy that was archived on 2010-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624005107id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the portlandtribune.com privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221074427id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -30,12 +30,12 @@
         <span class="ad_label">A D V E R T I S E M E N T</span><br>
         </p>
 
-
-
-<!--/* OpenX Javascript Tag v2.8.1 */-->
+<!--/* OpenX Javascript Tag v2.8.7 */-->
 
 <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://openx.pmgnews.com/www/delivery/ajs.php':'http://openx.pmgnews.com/www/delivery/ajs.php');
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://pmgwebads.com/www/delivery/ajs.php':'http://pmgwebads.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -46,9 +46,13 @@
    document.write ("&amp;loc=" + escape(window.location));
    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
    if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.pmgnews.com/www/delivery/ajs.php?zoneid=1&amp;cb=29404916531&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100624005107id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://openx.pmgnews.com/www/delivery/ck.php?n=a71486c7&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.pmgnews.com/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a71486c7' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://pmgwebads.com/www/delivery/ajs.php?zoneid=1&amp;cb=32023015054&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20101221074427id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://pmgwebads.com/www/delivery/ck.php?n=aba45932&amp;cb=129291746734832500' target='_blank'><img src='http://pmgwebads.com/www/delivery/avw.php?zoneid=1&amp;cb=129291746734832500&amp;n=aba45932&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+
 <br>        </div><!-- end leaderboard_ad -->
         <div id="page_container">
 						<script type="text/javascript">
@@ -70,7 +74,12 @@
 						</script>
 <!-- $keyword_string is  -->
 		        <div id="pt_nameplate_area">
-		            <img id="tribune_nameplate" src="/site_graphics/nameplates/news_nameplate_Entertainment.png" width="728" alt="The Portland Tribune">            <img id="nav_tabs" src="/site_graphics/nav_bars/pt_news_nav_bar_2009.gif" alt="Navigation bar" usemap="#nav_bar_map">
+		            <img id="tribune_nameplate" src="/site_graphics/nameplates/news_nameplate_Sports.png" width="728" alt="The Portland Tribune">
+		            <div id="pt_search_field">
+
+<a href="/news/calendar.php"><img src="/site_graphics/community_calendar_area.png" width="185" height="120" alt="Community Calendar"></a>
+
+	            </div>            <img id="nav_tabs" src="/site_graphics/nav_bars/pt_news_nav_bar_2009.gif" alt="Navigation bar" usemap="#nav_bar_map">
         </div><!-- end nameplate_area -->
             <div id="news_area_container">
 	<div id="cse" style="width: 98%;">Loading</div>
@@ -194,7 +203,8 @@
 </div>
             </div><!-- end news area container -->
     <div id="left_rail">
-                            <a href="http://politicaloregon.com" target="_blank"><img src="/site_graphics/promos/Political-Oregon-bug.png" alt="Political Oregon"></a>	    <img src="/site_graphics/left_rail_new/lr_entertainment.png" width="120"><!-- SELECT   version.section,
+                            <a href="http://politicaloregon.com" target="_blank"><img src="/site_graphics/promos/Political-Oregon-bug.png" alt="Political Oregon"></a>                    <a href="http://djcoregon.com/" target="_blank"><img src="/site_graphics/promos/djc_link2.gif" alt="Oregon Daily Journal of Commerce"></a>
+					<hr>	    <img src="/site_graphics/left_rail_new/lr_sports.png" width="120"><!-- SELECT   version.section,
                        headline,
                        story.story_id,
                        story.photo_id,
@@ -203,21 +213,21 @@
               WHERE    story.version_id = version.version_id
               AND      story.photo_id = photo.photo_id
               AND      display_on_web like '%The Portland Tribune%'
-              AND      version.section = 'features'
+              AND      version.section = 'sports'
               AND      (status = 'approved' OR status = 'breaking')
-              AND      pub_date_time <= '2010-06-23 17:51:07'
-              AND      pub_date_time > '2010-06-16 17:51:07'
+              AND      pub_date_time <= '2010-12-20 23:44:27'
+              AND      pub_date_time > '2010-12-13 23:44:27'
               AND      (cur_story_rank_pt = 'centerpiece' OR cur_story_rank_pt = 'banner-centerpiece')
               ORDER BY pub_date_time, cur_story_rank_pt
               LIMIT    1; -->
-        <img class="left_rail_photo_teaser" src="/news_graphics/127672769927806700.jpg" width="120">
-        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/features/story.php?story_id=127672024262891500">• <b><font color="#555555">IRAQ’S HONOR GUARD</font></b></a></p>
+        <img class="left_rail_photo_teaser" src="/news_graphics/129281891186353500.jpg" width="120">
+        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/sports/story.php?story_id=129281859655830300">• <b><font color="#555555">Wait and see on Brandon Roy</font></b></a></p>
         <hr>
-        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/features/story.php?story_id=127672026491260900">• <b><font color="#555555">Young filmmakers take a risk with ‘Gray Area’</font></b></a></p>
+        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/sports/story.php?story_id=129291511464403100">• <b><font color="#555555">Aldridge, Blazers hammer Bucks</font></b></a></p>
         <hr>
-        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/features/story.php?story_id=127672016132691500">• <b><font color="#555555">Tasty’s brunchy egg, potato dishes go over easy</font></b></a></p>
+        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/sports/story.php?story_id=129245100584407500">• <b><font color="#555555">Bond between Kelly, players grows strong</font></b></a></p>
         <hr>
-        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/features/story.php?story_id=127672018755264500">• <b><font color="#555555">The Short List</font></b></a></p>
+        <p class="left_rail_teasers"><a href="http://www.portlandtribune.com/sports/story.php?story_id=129245103109501100">• <b><font color="#555555">Scouts’ honor: To simulate Auburn</font></b></a></p>
     <img src="/site_graphics/left_rail_new/separation.png" width="120">    	  <a href="http://publicnotices.portlandtribune.com/?cat=14" target="_blank"><img class="news_link" src="/site_graphics/Button_PUBNOT.gif" alt="Click to read Local Area Public Notices"></a>
 		      <img src="/site_graphics/left_rail_new/separation.png" width="120">    
     <script type="text/javascript">
@@ -295,10 +305,7 @@ function MM_swapImage() { //v3.0
                 <p class="rail_item">
                 <a href="http://www.kpam.com" target="_blank"><img src="/site_graphics/news_links/kpam_tile.gif" alt="Link to KPAM"></a>
                 </p>
-                <hr>   			<p class="web_site_image_link">
-                   <a href="http://www.streetofaffordablehomes.com" target="_blank"><img class="news_link" src="/site_graphics/promos/streetofaffordablehomes-button.png" alt="Link to special event"></a>
-               </p>
-               <hr>				<script type="text/javascript" src="http://netwx.accuweather.com/netweatherV2.asp?zipcode=97201&amp;lang=eng&amp;size=5&amp;theme=1&amp;metric=0"></script>
+                <hr>				<script type="text/javascript" src="http://netwx.accuweather.com/netweatherV2.asp?zipcode=97201&amp;lang=eng&amp;size=5&amp;theme=1&amp;metric=0"></script>
                 <br>
                 <p class="ad_label">
                     <a href="http://wwwa.accuweather.com/index-forecast.asp?u=1&amp;partner=accuweather&amp;zipcode=97201" target="_blank">
@@ -318,10 +325,12 @@ function MM_swapImage() { //v3.0
 	        <p class="ad_label">
         ADVERTISEMENTS 
         </p><div>
-<!--/* OpenX Javascript Tag v2.8.1 */-->
+<!--/* OpenX Javascript Tag v2.8.7 */-->
 
 <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://openx.pmgnews.com/www/delivery/ajs.php':'http://openx.pmgnews.com/www/delivery/ajs.php');
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://pmgwebads.com/www/delivery/ajs.php':'http://pmgwebads.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -332,17 +341,23 @@ function MM_swapImage() { //v3.0
    document.write ("&amp;loc=" + escape(window.location));
    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
    if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1&amp;block=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.pmgnews.com/www/delivery/ajs.php?zoneid=4&amp;block=1&amp;cb=93237229434&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100624005107id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://openx.pmgnews.com/www/delivery/ck.php?n=adaa3919&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.pmgnews.com/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adaa3919' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://pmgwebads.com/www/delivery/ajs.php?zoneid=4&amp;block=1&amp;cb=52289925584&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20101221074427id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://pmgwebads.com/www/delivery/ck.php?n=a3aa5b4e&amp;cb=129291746734832500' target='_blank'><img src='http://pmgwebads.com/www/delivery/avw.php?zoneid=4&amp;cb=129291746734832500&amp;n=a3aa5b4e&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+
 </div>
 <br>
 
 <div>
-<!--/* OpenX Javascript Tag v2.8.1 */-->
+<!--/* OpenX Javascript Tag v2.8.7 */-->
 
 <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://openx.pmgnews.com/www/delivery/ajs.php':'http://openx.pmgnews.com/www/delivery/ajs.php');
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://pmgwebads.com/www/delivery/ajs.php':'http://pmgwebads.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -353,17 +368,23 @@ function MM_swapImage() { //v3.0
    document.write ("&amp;loc=" + escape(window.location));
    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
    if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1&amp;block=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.pmgnews.com/www/delivery/ajs.php?zoneid=2&amp;block=1&amp;cb=43995890925&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100624005107id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://openx.pmgnews.com/www/delivery/ck.php?n=a445f03a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.pmgnews.com/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a445f03a' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://pmgwebads.com/www/delivery/ajs.php?zoneid=2&amp;block=1&amp;cb=98018047813&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20101221074427id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://pmgwebads.com/www/delivery/ck.php?n=af7110d6&amp;cb=129291746734832500' target='_blank'><img src='http://pmgwebads.com/www/delivery/avw.php?zoneid=2&amp;cb=129291746734832500&amp;n=af7110d6&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+
 </div>
 <br>
 
 <div>
-<!--/* OpenX Javascript Tag v2.8.1 */-->
+<!--/* OpenX Javascript Tag v2.8.7 */-->
 
 <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://openx.pmgnews.com/www/delivery/ajs.php':'http://openx.pmgnews.com/www/delivery/ajs.php');
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://pmgwebads.com/www/delivery/ajs.php':'http://pmgwebads.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -374,17 +395,23 @@ function MM_swapImage() { //v3.0
    document.write ("&amp;loc=" + escape(window.location));
    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
    if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1&amp;block=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.pmgnews.com/www/delivery/ajs.php?zoneid=5&amp;block=1&amp;cb=1187437959&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100624005107id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://openx.pmgnews.com/www/delivery/ck.php?n=aae184bc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.pmgnews.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aae184bc' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://pmgwebads.com/www/delivery/ajs.php?zoneid=5&amp;block=1&amp;cb=76370199879&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20101221074427id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://pmgwebads.com/www/delivery/ck.php?n=a1966166&amp;cb=129291746734832500' target='_blank'><img src='http://pmgwebads.com/www/delivery/avw.php?zoneid=5&amp;cb=129291746734832500&amp;n=a1966166&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+
 </div>
 <br>
 
 <div>
-<!--/* OpenX Javascript Tag v2.8.1 */-->
+<!--/* OpenX Javascript Tag v2.8.7 */-->
 
 <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://openx.pmgnews.com/www/delivery/ajs.php':'http://openx.pmgnews.com/www/delivery/ajs.php');
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://pmgwebads.com/www/delivery/ajs.php':'http://pmgwebads.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
    document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
@@ -395,9 +422,13 @@ function MM_swapImage() { //v3.0
    document.write ("&amp;loc=" + escape(window.location));
    if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
    if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1&amp;block=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://openx.pmgnews.com/www/delivery/ajs.php?zoneid=6&amp;block=1&amp;cb=87393966903&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100624005107id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://openx.pmgnews.com/www/delivery/ck.php?n=a2d9b64a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.pmgnews.com/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2d9b64a' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://pmgwebads.com/www/delivery/ajs.php?zoneid=6&amp;block=1&amp;cb=12656612423&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20101221074427id_/http%253A//www.portlandtribune.com/news/privacy.php"></script><noscript><a href='http://pmgwebads.com/www/delivery/ck.php?n=af73da24&amp;cb=129291746734832500' target='_blank'><img src='http://pmgwebads.com/www/delivery/avw.php?zoneid=6&amp;cb=129291746734832500&amp;n=af73da24&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+
 </div>
 <br>
             	<hr>
@@ -410,16 +441,22 @@ function MM_swapImage() { //v3.0
                      <a href="http://www.dreamhost.com/r.cgi?473424" target="_blank"><img src="/site_graphics/120x90_dreamhost.gif" alt="Web hosting"></a>
     </p>	                <hr>
                 <p class="rail_item">
-                <a href="http://pamplinmediagroup.com/publications/osu-2010/" target="_blank"><img src="/site_graphics/promos/OSU2010_120x120.gif" alt="Link to Special Publication"></a>
+                <a href="http://pamplinmediagroup.com/publications/college-fair-2010/" target="_blank"><img src="/site_graphics/promos/college-fair-2010-button.png" alt="Link to Special Publication"></a>
                 </p>                <hr>
                 <p class="rail_item">
                 <a href="http://pamplinmediagroup.com/publications/entree-2010/" target="_blank"><img src="/site_graphics/promos/entree-button.png" alt="Link to Special Publication"></a>
                 </p>                <hr>
                 <p class="rail_item">
-                <a href="http://pamplinmediagroup.com/publications/remodel-pdx-mag-2010-2/" target="_blank"><img src="/site_graphics/promos/remodel-2010-button.png" alt="Link to Special Publication"></a>
+                <a href="http://pamplinmediagroup.com/publications/holiday-events-2010/" target="_blank"><img src="/site_graphics/promos/holiday-events-2010-button.png" alt="Link to Special Publication"></a>
                 </p>                <hr>
                 <p class="rail_item">
-                <a href="http://pamplinmediagroup.com/publications/style/" target="_blank"><img src="/site_graphics/promos/style-button.png" alt="Link to Special Publication"></a>
+                <a href="http://pamplinmediagroup.com/publications/2010holidaygiftguide/" target="_blank"><img src="/site_graphics/promos/2010holidaygiftguide.png" alt="Link to Special Publication"></a>
+                </p>                <hr>
+                <p class="rail_item">
+                <a href="http://pamplinmediagroup.com/publications/style-november-2010/" target="_blank"><img src="/site_graphics/promos/style-november-2010-button.gif" width="120px" alt="Link to Special Publication"></a>
+                </p>                <hr>
+                <p class="rail_item">
+                <a href="http://pamplinmediagroup.com/publications/osu-awards-2010/" target="_blank"><img src="/site_graphics/promos/osu-awards-2010-button.gif" width="120px" alt="Link to Special Publication"></a>
                 </p>                <hr>
                 <p class="rail_item">
                 <a href="http://pamplinmediagroup.com/publications/oregon2010eventscalendar/" target="_blank"><img src="/site_graphics/promos/OEC_button_120x120.png" alt="Link to Special Publication"></a>
@@ -454,9 +491,9 @@ function MM_swapImage() { //v3.0
                 </div>
                 <div class="bottom_text_ad_box">
                     <p class="text_ad_text">                    
-                    	<b>Bastyr University Open House, Spring 2010.</b> Discover a career in natural healthâ€¦ Tour campus &amp; clinic, meet faculty &amp; students. <a href="http://www.bastyr.edu/sub/adtrack.asp?adid=portt10" target="_blank"><u><b>Check the dates &amp; RSVP &gt;&gt;</b></u></a>. 
+                    	<b>Bastyr University events:</b> Match your career to your values - Discover the natural health arts and sciences! Start by attending a Bastyr event - live or virtual. <a href="http://www.bastyr.edu/sub/adtrack.asp?adid=portt12" target="_blank"><u><b>Check the dates &amp; RSVP.</b></u></a>
                     </p>
-                </div>
+                </div> 
             
 		<map name="nav_bar_map" id="nav_bar_map">
 			<area shape="poly" alt="Features" coords="239,-1, 330,-1, 340,21, 239,21" href="../features/index.php">
