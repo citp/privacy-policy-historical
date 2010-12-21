@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workoninternet.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421083907id_/http%3A//www.workoninternet.com/business/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workoninternet.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221113758id_/http%3A//www.workoninternet.com/business/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,8 +22,8 @@ Your privacy is of the utmost importance to the WorkOnInternet.com Online Commun
   
 Some basic personal information is required in order to register with the WorkOnInternet.com community:
 
-  * **Name** \- Your first and last name help us to personalize your online experience. 
-  * **Email Address** \- By providing your email address, you can receive important messages via your existing email account. Message board notifications, personalized My newsletters, and messages sent to you by other members rely on the email address you provide when you register. 
+  *  **Name** \- Your first and last name help us to personalize your online experience. 
+  *  **Email Address** \- By providing your email address, you can receive important messages via your existing email account. Message board notifications, personalized My newsletters, and messages sent to you by other members rely on the email address you provide when you register. 
   * **User Name** \- This is how you are identified when you participate in the community. While many other aspects of your account can be updated regularly, your user name cannot be changed.
 
 
@@ -52,7 +52,7 @@ The third-party advertising company that we currently uses is Google. For more i
 
 [   -top-](http://www.workoninternet.com/business/privacy-policy.html#top)  
   
-As a registered user, you may receive informational email messages from WorkOnInternet.com community from time to time. All registered members are required to receive such communications. If you wish to stop these emails, you may [terminate your membership](mailto:richard_hz@yahoo.com) at any time.
+As a registered user, you may receive informational email messages from WorkOnInternet.com community from time to time. All registered members are required to receive such communications. If you wish to stop these emails, you may This e-mail address is being protected from spambots. You need JavaScript enabled to view it at any time.
 
 [   -top-](http://www.workoninternet.com/business/privacy-policy.html#top)  
   
