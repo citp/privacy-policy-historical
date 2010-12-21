@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011034id_/http%3A//goldenvoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221234336id_/http%3A//www.goldenvoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Goldenvoice
 
