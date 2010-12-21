@@ -1,17 +1,25 @@
-> *The following text is extracted and transformed from the bigcocks.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509053529id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dbigcocks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcocks.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221162255id_/http%3A//www.bigcocks.com/cimages/legal/privacy.html%3Fsite%3Dbigcocks) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by HOH Limited
+This website (the "Site") is operated by Protranstech BV and MDM Services Inc.
 
-HOH Limited  
-Themistokli Dervi, 12, 1st Floor  
-Palais D'lvorie  
-Nicosia  
-Cyprus  
-1066  
+Protranstech BV  
+Postbus 218  
+Ijmudien  
+Netherlands  
+1970AE  
+
+
+MDM Services Inc.  
+10250 Constellation Blvd.  
+19th Floor  
+Los Angeles  
+California  
+United States  
+90067  
 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
