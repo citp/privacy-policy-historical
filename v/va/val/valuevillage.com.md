@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206051632id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuevillage.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221133955id_/http%3A//www.valuevillage.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Value Village - good all around
+# Value Village - Good deeds. Great deals.
 
 Savers, Inc. is committed to protecting your privacy. To make your experience at our website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.
 
@@ -33,3 +33,5 @@ This website provides links to several other third party websites. While we choo
 ## For more information
 
 If you have any further questions regarding our privacy practices, please refer to the Contact Us section of this site.
+
+ 
