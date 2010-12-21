@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubturbo.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404004349id_/http%3A//www.dubturbo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubturbo.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221120921id_/http%3A//www.dubturbo.com/privacy.html) for the most accurate reproduction.*
 
 # DUBturbo - Make Beats Online - Privacy Policy
 
@@ -42,6 +42,4 @@ How We Use Personally-Identifiable Information: DubTurbo.com provides notice to 
 
 DubTurbo.com reserves the right to disclose information contained in our access logs concerning any user as we reasonably feel is necessary to protect our systems or business. In particular, we reserve the right to disclose such when a user is in violation of our current or later Terms of Service or other published guidelines, or initiates or participates (or is reasonably believed so) in any illegal activity, even without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, and as otherwise required by law. 
 
-In reviewing the information above, please keep in mind that DubTurbo.com cannot and does not assume any responsibility for any actions or omissions of third parties, including other Site users, including the manner in which they might use information received either from DubTurbo.com or independently.  
-  
-\---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In reviewing the information above, please keep in mind that DubTurbo.com cannot and does not assume any responsibility for any actions or omissions of third parties, including other Site users, including the manner in which they might use information received either from DubTurbo.com or independently.
