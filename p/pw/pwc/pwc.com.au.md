@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pwc.com.au privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503143632id_/http%3A//www.pwc.com.au/contact-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.com.au privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221194811id_/http%3A//www.pwc.com.au/contact-us/privacy-policy.htm) for the most accurate reproduction.*
 
 # PwC PricewaterhouseCoopers Australia - CONTACT US - Privacy Policy
 
 **Working Together**
 
-This privacy policy applies to PricewaterhouseCoopers (ABN 52 780 433 757) and any entity owned or controlled by PricewaterhouseCoopers (“Related Entity”) in relation to PricewaterhouseCoopers' and its Related Entities' (together “PricewaterhouseCoopers”) operations in Australia. This policy explains how PricewaterhouseCoopers handles personal information and complies with the requirements of the Australian Privacy Act 1988 (Cth) (“Privacy Act”). If you have any further questions in relation to this policy, please contact our Privacy Officer at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
+This privacy policy applies to PricewaterhouseCoopers (ABN 52 780 433 757) and any entity owned or controlled by PricewaterhouseCoopers ("Related Entity") in relation to PricewaterhouseCoopers' and its Related Entities' (together "PricewaterhouseCoopers") operations in Australia. This policy explains how PricewaterhouseCoopers handles personal information and complies with the requirements of the Australian Privacy Act 1988 (Cth) ("Privacy Act"). If you have any further questions in relation to this policy, please contact our Privacy Officer at [privacy.officer@au.pwc.com](mailto:privacy.officer@au.pwc.com).
 
 This policy relates to PricewaterhouseCoopers' collection and handling of personal information that is covered by the Privacy Act. It is not intended to cover categories of personal information that are not covered by the Privacy Act.
 
