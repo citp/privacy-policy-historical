@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentnow.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531061645id_/http%3A//www.talentnow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentnow.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221052149id_/http%3A//talentnow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # talentnow: Privacy Policy
 
