@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625143651id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221074739id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hollywood Street King
 
-[Tweet This Story!](http://twitter.com/home?status=Peep%20This%20%26%20RT%20%23HSK%20-%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
+[Tweet This Story!](http://twitter.com/home?status=RT%20%23HSK%20-%20Peep%20This%3A%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
 
 Last updated: January 31, 2009
 
@@ -74,3 +74,5 @@ Diaryofahollywoodstreetking.com does **NOT** sell products for purchase by child
 If you choose to visit Diaryofahollywoodstreetking.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Diaryofahollywoodstreetking.com, please contact us with a thorough description, and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+[](http://tellafriend.socialtwist.com/)
