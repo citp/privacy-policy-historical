@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfish.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506115255id_/http%3A//www.superfish.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfish.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221133114id_/http%3A//superfish.com/privacy.jsp) for the most accurate reproduction.*
 
 # Superfish - Privacy
 
@@ -48,7 +48,7 @@ Third Party Links
 Superfish is not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
 
 Governing Terms  
-If you choose to use Superfish's sites and services your use and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20100506115255id_/http%3A//www.superfish.com/tou.jsp), including as regards limitations of liability and dispute resolution. 
+If you choose to use Superfish's sites and services your use and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20101221133114id_/http%3A//superfish.com/tou.jsp), including as regards limitations of liability and dispute resolution. 
 
 Questions  
 If you have any question or concern about the privacy of your personal information as used and collected within our site/service, or any other questions about this Privacy Policy, please send us a thorough description by clicking on the "Contact Us" link on our site or sending an email to: [legal@superfish.com](mailto:legal@superfish.com). 
