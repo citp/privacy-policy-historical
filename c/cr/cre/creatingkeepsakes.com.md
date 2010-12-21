@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114185404id_/http%3A//www.creatingkeepsakes.com/ckm_global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingkeepsakes.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221175807id_/http%3A//www.creatingkeepsakes.com/ckm_global/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Creating Keepsakes
 
@@ -12,7 +12,7 @@ We may also collect general information such as type of browser you use, your IP
 
 The information collected is used to better serve you and improve our services. We use this information to track orders, respond to your inquiries, welcome you to our sites, and to gauge user trends. We will not sell your information to third parties without your permission. We may provide general information and statistics, such as click-through rates and user trends, to advertisers, but we will not share personal information.
 
-To receive our email newsletters and special e-mail offers, you must voluntarily opt in to our mailing lists. **We do not buy or sell lists.** Any emails, articles, or other information you forward to friends from our sites is confidential, and we will not add your friends to our lists unless they choose to opt in. We may occasionally send you special third-party offers via e-mail. We maintain all personal information and do not give that information out to those third parties. You may opt out of these lists at any time by clicking here.
+To receive our email newsletters and special e-mail offers, you must voluntarily opt in to our mailing lists. **We do not buy or sell lists.** Any emails, articles, or other information you forward to friends from our sites is confidential, and we will not add your friends to our lists unless they choose to opt in. We may occasionally send you special third-party offers via e-mail. We maintain all personal information and do not give that information out to those third parties. You may opt out of these lists at any time by [clicking here](https://web.archive.org/newsletters/unsubscribe.html).
 
 If you subscribe to one of our magazines, you may receive special offers from Creative Crafts Group or our partners in the mail. You must opt out if you do not wish to receive information by mail by clicking here.
 
