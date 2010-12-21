@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altenergymag.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907073314id_/http%3A//www.altenergymag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altenergymag.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221013219id_/http%3A//www.altenergymag.com/privacy.php) for the most accurate reproduction.*
 
 # Terms & Conditions - Privacy Policy | AltEnergyMag
 
