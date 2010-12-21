@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the team-twilight.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610171412id_/http%3A//team-twilight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-twilight.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221163917id_/http%3A//team-twilight.com/privacy) for the most accurate reproduction.*
 
-# Team-Twilight Privacy Policy Team-Twilight | Movie News, Pics & Fan Site
+# Team-Twilight Privacy Policy | Team-Twilight
 
 This privacy statement covers Team-Twilight.com (“Team-Twilight”). Please read this statement carefully before using proceeding to access Team-Twilight. Your use of Team-Twilight indicates your agreement to abide by the Terms in effect.
 
@@ -18,10 +18,14 @@ Team-Twilight may use cookies. A cookie is a piece of data stored on the user’
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use any BE Publication products or services that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all BE Publications services require that you accept cookies.
 
-**Third Party Cookies**  
 Some of our business partners may use cookies on our site (for example, advertisers). However, Team-Twilight has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Team-Twilight only and does not cover the use of cookies by any advertisers.
 
-**Google Advertising**  
+**Third Party Advertisers**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+
+**Google Advertising**
+
 Some ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visits to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve Google ads to users on this site. For more information about Google and cookies, please click here.
 
 **Links**  
