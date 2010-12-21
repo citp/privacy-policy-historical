@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myharvestamerica.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323005553id_/http%3A//www.myharvestamerica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myharvestamerica.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221033733id_/http%3A//myharvestamerica.com/privacy.asp) for the most accurate reproduction.*
 
-# My Harvest America - PRIVACY POLICY
+# My Harvest America
 
 > **PRIVACY USE POLICY**
 > 
@@ -47,3 +47,7 @@
 > 
 > **Contact Us**  
 >  If you have any concerns about our use of your information or about this Privacy Statement, please email us at [support@myharvestamerica.com](mailto:support@myharvestamerica.com) .
+>
+>> > > >  
+
+| 
