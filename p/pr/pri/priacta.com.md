@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priacta.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205171454id_/http%3A//priacta.com/Information/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priacta.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221175525id_/http%3A//priacta.com/Information/Privacy.shtml) for the most accurate reproduction.*
 
 # Priacta Privacy Policy
 
