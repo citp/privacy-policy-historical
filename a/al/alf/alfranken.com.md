@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621142708id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221234813id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
 
 # Al Franken for Senate | privacypolicy
 
 **Privacy Policy**
 
-At Al Franken for Senate, we are putting forth every effort to ensure the privacy and security of information that you share with us online. In addition, we urge you to take steps to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, it is strongly advised that you use a firewall.
+At Al Franken for Senate 2014, we are putting forth every effort to ensure the privacy and security of information that you share with us online. In addition, we urge you to take steps to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, it is strongly advised that you use a firewall.
 
 Our privacy policy explains the information practices we use at AlFranken.com related to: 
 
@@ -14,7 +14,7 @@ Our privacy policy explains the information practices we use at AlFranken.com re
 
     * How to contact us about privacy
 
-Our site links to a limited number of other websites.  Al Franken for Senate is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit.  Al Franken for Senate will occasionally update this privacy policy as changes to the site necessitate it.  We encourage you to periodically review this policy to be informed of how we are protecting your information. 
+Our site links to a limited number of other websites.  Al Franken for Senate 2014 is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit.  Al Franken for Senate 2014 will occasionally update this privacy policy as changes to the site necessitate it.  We encourage you to periodically review this policy to be informed of how we are protecting your information. 
 
 **How do we protect your information?**
 
@@ -22,9 +22,9 @@ Our website has a number of security measures in place to protect against the lo
 
 **How do we use the information you provide?**
 
-On registration, sign-up and contribution forms on AlFranken.com, we may ask for your name, address, telephone number, and e-mail address, as well as who, if anyone, referred you to the site in order to credit those who are organizing volunteer support or fundraising for Al Franken for Senate. 
+On registration, sign-up and contribution forms on AlFranken.com, we may ask for your name, address, telephone number, and e-mail address, as well as who, if anyone, referred you to the site in order to credit those who are organizing volunteer support or fundraising for Al Franken for Senate 2014. 
 
-We will use your e-mail address to provide you news and information about Al Franken for Senate.  We may also use your zip code and state to send you e-mail messages about upcoming campaign events or activities in your area.
+We will use your e-mail address to provide you news and information about Al Franken for Senate 2014.  We may also use your zip code and state to send you e-mail messages about upcoming campaign events or activities in your area.
 
 We may also use the information that you provide online to contact you for other purposes or to solicit you for contributions.  When you register or sign-up online, we may share your contact information with successor organizations and other like-minded Democratic candidates and organizations, and they may contact you.  When you make a contribution to us, we may also exchange your contributor information with successor organizations and other like-minded Democratic candidates and organizations, and they may solicit you (see below for additional information regarding your contributor information).  However, we will not sell or exchange your credit card information to any other third party under any circumstances. 
 
@@ -60,7 +60,7 @@ If you wish to unsubscribe from our communications, please email us [**here**](h
 
 **Contacting us about privacy:**
 
-Al Franken for Senate  
+Al Franken for Senate 2014  
 P.O. Box 583144  
 Minneapolis, MN 55458-3144 **** 
 
