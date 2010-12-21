@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602165919id_/http%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001244id_/http%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
 
 # Privacy policy - PriceSpy - The new generation of price comparisons
 
-The internet offers the chance to collect information about site users. This information can be personally identifiable information or aggregated information. However your privacy is important to us at PriceSpy and we want to be sure that you understand the terms and conditions relating to the way in which we collect information and the use of that information.
+The internet offers the chance to collect information about site users. This information can be personally identifiable information or aggregated information. However, your privacy is important to us at PriceSpy and we want to be sure that you understand the terms and conditions relating to the way in which we collect information and the use of that information.
 
 This Privacy Policy tells you what information we collect, what we do with it and your rights to view, correct or change it.
 
