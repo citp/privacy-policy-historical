@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612051033id_/http%3A//www.lowcostholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221085027id_/http%3A//www.lowcostholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Low Cost Holidays | Search for cheap holidays, all inclusive holiday deals and city breaks
 
