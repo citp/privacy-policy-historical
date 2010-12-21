@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanapparel.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501140533id_/http%3A//www.americanapparel.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanapparel.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221012620id_/http%3A//www.americanapparel.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Shop American Apparel Online | Free Shipping on Orders over $75
 
