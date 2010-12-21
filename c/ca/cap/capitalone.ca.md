@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614042110id_/http%3A//www.capitalone.ca/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222005210id_/http%3A//www.capitalone.ca/about-us/privacy) for the most accurate reproduction.*
 
 # Capital One's Privacy Commitment
 
