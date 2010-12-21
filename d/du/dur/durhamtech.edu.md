@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235132id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221215006id_/http%3A//durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
 
 # Durham Technical Community College Web Site Privacy Policy
+
+Privacy Policy 
 
 The Durham Tech web site does not track, collect, or distribute personal information about visitors.
 
