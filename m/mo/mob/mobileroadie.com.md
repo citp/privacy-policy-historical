@@ -1,37 +1,71 @@
-> *The following text is extracted and transformed from the mobileroadie.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408014025id_/http%3A//mobileroadie.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileroadie.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221071326id_/http%3A//mobileroadie.com/home/privacy) for the most accurate reproduction.*
 
-# Mobile Roadie - iPhone and Android Apps for Everyone - Privacy
+# Mobile Roadie - iPhone, Android and Blackberry Apps for Everyone - Privacy Policy
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+_**Effective December 6, 2010**_
 
-* It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
+Mobile Roadie, LLC (“Mobile Roadie”, “we” or “us”) provides a platform to enable customers (“Mobile Roadie Customers”) to develop and manage mobile applications (“Applications”) as well as related hosting and support services (“Services”). This Privacy Policy is made available on our website at <http://mobileroadie.com/home/privacy> (“Site”), and provides information on our policies and procedures regarding the collection, use and disclosure of personal information we receive from (i) Mobile Roadie Customers, (ii) end users that download and use the Applications (“End Users”), and (iii) visitors just browsing the Site (“Visitors”). This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. 
 
-* We transfer information about you if Mobile Roadie is acquired by or merged with another company. In this event, Mobile Roadie will notify you before information about you is transferred and becomes subject to a different privacy policy.
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
-## Information Gathering and Usage
+ 
 
-* When you register for Mobile Roadie we ask for information such as your name, email address, billing address, credit card information.
+##  (A) Mobile Roadie Customers 
 
-* Mobile Roadie uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+  * If you are a Mobile Roadie Customer, when you register with us through the Site to create and manage Applications, we will ask you for personally identifiable information, such as your name, company name, email address, billing address, and credit card information. We use such personally identifiable information (in some cases, in conjunction with your non-identifying information, such as your zip code) mainly to provide the Services, complete your transactions, administer your inquiries, and contact Mobile Roadie Customers regarding account activities, new version and product offerings, or other communications relevant to the Services.
+  * In addition, we may collect information related to interactions of End Users with your Applications as described in part (B) below.
+  * We do not sell any personally identifiable information of Mobile Roadie Customers to any third parties. The instances where we may share such information with third parties are described in part (D) below.
+  * You may review and update the personally identifiable information in your registration profile by logging in and editing such information in your dashboard. If you decide to delete all of your information we may cancel your account. We may retain an archived copy of your records as required by law or for legitimate business purposes.
 
-## Cookies
 
-* A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
-* Cookies are required to use the Mobile Roadie service.
+##  (B) End Users 
 
-* We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Mobile Roadie Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+  * If you decide to download and use an Application, we will be collecting and storing on behalf of the applicable Mobile Roadie Customer any personally identifiable information that you provide to such Mobile Roadie Customer, such as, for instance, your name, email address, postal code, birthday, and other optional information that a Mobile Roadie Customer may choose to collect, which optional information is not required to use the Application.
+  * If you choose to allow an Application to collect your location data, such location data will be available to the applicable Mobile Roadie Customer. In addition, if you have an account with Facebook, Twitter, or Foursquare or other similar websites (each a “Social Network”), your Social Network identity, including your public picture, may be associated with your location data. THIS MEANS THAT THE MOBILE ROADIE CUSTOMER WILL BE ABLE TO IDENTIFY YOU PERSONALLY AND SEE SPECIFIC LOCATIONS THAT YOU HAVE RECENTLY VISITED, INCLUDING, POTENTIALLY, YOUR REAL TIME LOCATION, AND MAY DECIDE TO CONTACT YOU, FOR INSTANCE, BY INFORMING YOU ABOUT EVENTS OR PRODUCT OFFERINGS AVAILABLE IN YOUR AREA. YOU MAY AT ANY TIME TURN OFF THIS FUNCTIONALITY BY USING THE IN-APP PRIVACY SETTINGS.
+  * You may allow other End Users to send you personal messages, in which case we may send you alerts when you get a new message. YOU MAY AT ANY TIME TURN OFF THIS FUNCTIONALITY BY USING THE IN-APP PRIVACY SETTINGS.
+  * We may also collect your IP addresses as well as non-identifying details such as the geographic location of the IP address you are using to access the Internet, the type of browser used, which and how many web pages have been viewed by you, which applications you have used, search terms used, referring/exit pages, platform type and date/time information.
+  * We do not sell any personally identifiable information of End Users to any third parties. The instances where we may share such information with third parties are described in part (D) below.
+  * You may be asked by Mobile Roadie Customers to provide additional information to them, including your personally identifiable information, to be used and shared pursuant to their own privacy policies. We encourage you to read such privacy policies before providing any information to any Mobile Roadie Customers or other third parties. While working with reputable customers is a top priority for us, we are not responsible for the use of your information by Mobile Roadie Customers, and disclaim any liability related thereto.
 
-## Data Storage
 
-Mobile Roadie uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Mobile Roadie. Although Mobile Roadie owns the code, databases, and all rights to the Mobile Roadie application, you retain all rights to your data.
 
-* Mobile Roadie may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+**Advertisement Links**
 
-## Changes
+The Applications may contain links to other websites. Such websites may use cookies and/or other data collection tools. Mobile Roadie is not responsible for the privacy practices, policies or the content of such websites. Mobile Roadie encourages you to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Mobile Roadie has no control over the use of your personally identifiable information by third party websites, and you should exercise caution when deciding to disclose any personally identifiable information. Additionally, Mobile Roadie does not have access to, or control of, the cookies and/or other data collection tools that may be placed on any advertisement by a third party, including those of our Mobile Roadie Customers, and this Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party. 
 
-Mobile Roadie may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Mobile Roadie primary account holder account or by placing a prominent notice on our site.
+##  (C) Visitors 
 
-## Questions
+This section describes the information that we may collect from Visitors. To the extent you are a Mobile Roadie Customer or an End User and visit the Site, this section will apply to you as well. 
 
-Any questions about this Privacy Policy should be addressed to [help@mobileroadie.com](mailto:help@mobileroadie.com).
+  * If you contact us by email or by filling-out a registration form, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you. In addition, we may use the personal information described above to send you information regarding the Sites and/or the Services. If you decide at any time that you no longer wish to receive such information or communications from us, email us at [hello@mobileroadie.com](mailto:hello@mobileroadie.com) and request to be removed from our list. 
+  * When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s IP address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Services and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. 
+  * Like many websites, we may use both session cookies and persistent cookies to better understand how you interact with the Site, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and the Services. In addition, please be aware that other parties may also place their own cookies on the Site, and may collect or solicit personal information from you. A session cookie enables certain features of the Sites and the Services and is deleted from your computer when you disconnect from or leave the Sites. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. As described above, most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+
+
+
+##  (D) General 
+
+The following provisions apply to everybody (Mobile Roadie Customers, End Users and Visitors). 
+
+**Sharing**
+
+We may share and/or disclose information that we collect from Mobile Roadie Customers, End Users and Visitors in the following instances: 
+
+Aggregate Information and Non-Identifying Information. We may share aggregated information that does not include personally identifiable information and we may otherwise disclose non-identifying information and Log Data with third parties for industry analysis, demographic profiling and other purposes.
+
+Service Providers. We may employ third party companies and individuals to facilitate our Site and Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties have access to information that we collect from Mobile Roadie Customers, End Users and Visitors only to perform these tasks on our behalf. 
+
+Business Transfers. Mobile Roadie may sell, transfer or otherwise share some or all of its assets, including personally identifiable information collected from Mobile Roadie Customers, End Users and Visitors, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+
+Compliance with Laws and Law Enforcement. Mobile Roadie cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information collected from Mobile Roadie Customers, End Users and Visitors to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Mobile Roadie or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+
+**Security.** Mobile Roadie is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+**International Transfer.** Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Mobile Roadie transfers personally identifiable information to the United States and processes it there. Whether you are a Mobile Roadie Customer, an End-User or a Visitor, your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links to Other Sites.** Our Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+**Our Policy Toward Children.** This Site or Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [hello@mobileroadie.com](mailto:hello@mobileroadie.com). If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
+
+**Contacting Us.** If you have any questions about this Privacy Policy, please contact us at [hello@mobileroadie.com](mailto:hello@mobileroadie.com).
