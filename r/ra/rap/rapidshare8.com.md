@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidshare8.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516033134id_/http%3A//www.rapidshare8.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidshare8.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221011514id_/http%3A//www.rapid4search.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
-# Privacy Policy - Rapidshare Search Engine - Rapidshare8.com
+# Privacy Policy - Rapidshare Search - Rapid4search.com
 
 **Privacy Policy**
 
