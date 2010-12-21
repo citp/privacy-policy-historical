@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527220615id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221130857id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
 
-# North Point Ministries :: Miscellaneous Pages :: Privacy Statement
+# North Point Ministries :: Privacy Statement
 
 ### Internet Privacy Policy
 
