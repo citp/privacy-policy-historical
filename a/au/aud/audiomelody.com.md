@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiomelody.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617024328id_/http%3A//www.audiomelody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomelody.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221092705id_/http%3A//www.audiomelody.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AudioMelody
 
@@ -11,3 +11,6 @@ In the course of delivering an ad to you, AudioMelody does not collect any perso
 
 Third Party Advertising  
 We use Casale Media, Burst Media, Valueclick Media, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit any of the network sites or the Network Advertising Initiative
+
+Behavioural Advertising  
+Some of the advertising networks employ behavioural advertising techniques to better target adverts. To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
