@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the personalitycafe.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102145725id_/http%3A//personalitycafe.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalitycafe.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221081919id_/http%3A//personalitycafe.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PersonalityCafe
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Administrator@admin.personalitycafe.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@personalitycafe.com.
 
 At PersonalityCafe, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://personalitycafe.com and how it is used. 
 
