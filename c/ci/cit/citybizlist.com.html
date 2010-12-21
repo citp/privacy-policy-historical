@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the citybizlist.com privacy policy that was archived on 2010-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630041759id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citybizlist.com privacy policy that was archived on 2010-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221083041id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="_ctl0_head"><meta name="keywords" content="Local B to B Network,Local Business Services,Local Office Space,Local Commercial Real Estate,Local Business,Barter Business,Local Classifieds,Business Listings,Local Business Listing"><meta name="description" content="citybizlist is a city-based network that includes classifieds, news, press releases, events, announcements/community, business services, jobs, blogs, barter, consulting, marketplace/for sale and sponsored links."><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	Citybizlist Baltimore Privacy Policy
+	Citybizlist  Privacy Policy
 </title>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="/js/200910/fontsizer.jquery.js"></script>
@@ -10,6 +10,10 @@
 <script type="text/javascript" src="/js/200910/jquery.twitter.js"></script>
 <script type="text/javascript" src="/js/200910/utils.js"></script>
 <script type="text/javascript" src="/js/200910/sub.js"></script>
+
+
+<script type="text/javascript" src="https://my.socialtoaster.com/api/6CRprnEP.js"></script>
+
 <link href="/css/200910/shared.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/200910/sub.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/200910/print.css" type="text/css" rel="stylesheet" media="print"><link href="/css/200910/gigya.css" type="text/css" rel="stylesheet" media="screen"><link rel="alternate" title="Citybizlist RSS" href="/rss/rss.aspx" type="application/rss+xml">
 
 <!--[if IE 6]>
@@ -29,13 +33,14 @@ $(function(){
 <!-- Gigya Script -->
 
 <script src="http://cdn.gigya.com/js/socialize.js?apiKey=2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ" type="text/javascript"></script>
+<script src="http://cdn.gigya.com/wildfire/js/wfapiv2.js" type="text/javascript"></script>
 
 	<script type="text/javascript">
 		var conf =
 {
 	APIKey: '2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ'
 	, enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger'
-	, shortURLs: 'whenRequired'
+	, shortURLs: 'always'
 }
 
 	</script>
@@ -100,7 +105,7 @@ $(function(){
 			{
 				useHTML: true
 				, showTermsLink: false
-				, height: 20
+				, height: 32
 				, width: 110
 				, containerID: 'gigyaUserMiniLogin'
 				, UIConfig: '<config><body><controls><snbuttons buttonsize="12"></snbuttons></controls></body></config>'
@@ -109,6 +114,7 @@ $(function(){
 				, showCaption: false
 				//, captionText: 'Connect to update your status and update your activity on citybizlist.com'
 				, hideGigyaLink: true
+				, showEditLink: false
 			};
 
 			//Params for Edit Connections Object
@@ -137,7 +143,8 @@ $(function(){
      , loginUI: 'default'  
      , loginUIConfig: '<config><body><captions background-color="#52A4DA" color="#FFFFFF"></captions><texts color="#353535"><links color="#0000FF"></links></texts><controls><snbuttons color="#000000"></snbuttons><scrollingarrow color="#BBE4FF"></scrollingarrow></controls><background frame-color="Transparent"></background></body></config>' //UI XML  
      , friendSelectorUIConfig: '<config><body><texts color="#2B2B2B"></texts><background background-color="Transparent" frame-color="#AAAAAA"></background></body></config>' //UI XML
-     , invitationText: "Come See CityBizList" //invitation text  
+     , invitationText: "Come See CityBizList" //invitation text 
+, invitationSubject: "Come see CitybizList" // invitation subject  
      , invitationURL: window.location.href //link back URL in invitation  
           , cid: 'newsfeed' //context id to tag data
 		};
@@ -234,10 +241,8 @@ $(function(){
 			}
 
 			var act = new gigya.services.socialize.UserAction();
-			act.setUserMessage("");
-
+			act.setUserMessage("From citybizlist:");
 			act.setTitle(title);
-
 			act.setLinkBack(window.location.href);
 			var image = {
 				src: 'http://a3.twimg.com/profile_images/178700859/cbl_bigger.gif',
@@ -245,18 +250,22 @@ $(function(){
 				type: 'image'
 			}
 			act.addMediaItem(image);
+			
 
 			// Parameters for the showShareUI method, including the UserAction object
 			var share_params =
 			{
 				userAction: act,
+				useHTML: true,
 				onError: onError,
 				onSendDone: onSendDone,
-				showEmailButton: true,
+				showEmailButton: false,
 				showMoreButton: true,
 				enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger',
 				scope: 'both',
+				useFBDialog:	true,
 				privacy: 'public'
+				
 			};
 
 			// Show the "Share" dialog
@@ -276,16 +285,52 @@ $(function(){
                             'The Social Network has been posted to: '
 		            + event.providers;
 		}
+
+		function showWildfire() {
+			if (document.all) {
+				title = document.getElementsByTagName('h1')[0].innerText;
+				//title = document.getElementById('ititle').innerText;
+			}
+			else {
+				title = document.getElementsByTagName('h1')[0].textContent;
+				//title = document.getElementById('ititle').textContent;
+			}
+		
+		
+			var pconf = {
+				useFacebookMystuff: 'false',
+				widgetTitle: 'Email this to a friend',
+				contentIsLayout: 'false',
+				emailSubject: '$sender$ has sent you an interesting link from citybizlist',
+				emailBody: '<p>The following email has been sent to you as a courtesy of citybizlist.com by $sender$, along with the following message:</p>' +
+					'<p>$userMsg$<br/><strong>'+title+'</strong></p><p>To view this page,  $URL$</p><p>This page can also be accessed if you copy and paste the entire address' +
+					'below into your web browser: '+window.location.href,
+				companyName: 'Citybizlist.com',
+				defaultEmailMessage: 'From citybizlist:',
+				UIConfig: '<config baseTheme="v2"><display showEmail="true" showPost="false" showBookmark="false" showCloseButton="true"></display></config>'
+			};
+			pconf['onClose'] = closeWildfire;
+			Wildfire.initPost('1304591', 'GigyaWildfireEmailDiv', 300, 200, pconf);
+			document.getElementById('GigyaWildfireEmailDiv').style.display = "block";
+			document.getElementById('GigyaWildfireEmailDiv').focus();
+		}
+		
+    	function closeWildfire(eventObj) {
+    		document.getElementById('GigyaWildfireEmailDiv').innerHTML = "";
+    		//GigyaWildfireEmailDiv.textContent = "";
+    		//document.getElementById('GigyaWildfireEmailDiv').style.display = "none";
+    		document.getElementById('GigyaWildfireEmailDiv').style.height = "0";
+    	}
 </script>
 
  </head>
 <body>
-    <form name="aspnetForm" method="post" action="privacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WAh4HQ0JMQ2l0eTLiAgABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUuaS1iM29uN3csIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAASY2l0eWJpei5DQkxDaXR5XzA5CQAAAAhfaW50Q2l0eQxfc3RyQ2l0eU5hbWUNX2lzUmVhbEVzdGF0ZRJfYXBwbGljYXRpb25TdGF0dXMKX3N0cllCQ2l0eQhfc3RyUGF0aAdzdHJSb290FF9zdHJUYWdsaW5lSW1hZ2VOYW1lE19zdHJCYW5uZXJJbWFnZU5hbWUAAQABAQEBAQEIAQIAAAABAAAABgMAAAAJQmFsdGltb3JlAAYEAAAABGxpdmUJAwAAAAYGAAAAAAYHAAAAFGh0dHA6Ly8yMDcuMjIuNjYuMzcvBggAAAANYmFsdGltb3JlLmpwZwkIAAAAC2QWBAIBD2QWBgIRDxYCHgRUZXh0BQxjaXR5Yml6Ym1vcmVkAhMPFgIfAQVCMl82OUwwenpUUUFOZElTYmh3NTl2U1NLM2o2LU1xSzMzeUdRTHE5YTh0d3h1MHJJQWJBeHNwMGk1ZDM0ZkFwM3dKZAIVDxYCHwEFQjJfNjlMMHp6VFFBTmRJU2JodzU5dlNTSzNqNi1NcUszM3lHUUxxOWE4dHd4dTBySUFiQXhzcDBpNWQzNGZBcDN3SmQCAw9kFggCAQ9kFgJmDxYCHgVjbGFzcwUJQmFsdGltb3JlFgpmDxYCHgdWaXNpYmxlaGQCAQ9kFgJmDxYCHwEF7AE8aWZyYW1lIHNyYz0naHR0cDovL3RoaXMuY29udGVudC5zZXJ2ZWQuYnkuYWRzaHVmZmxlLmNvbS9wL2tsLzQ2Lzc5OS9yLzEyLzQvOC9hc3QwazNuL2VYd3kzWmVrMmN0NkxzN1laYlNiNmc9PS92aWV3Lmh0bWwnIGhlaWdodD0nOTAnIHdpZHRoPSc3MjgnIHNjcm9sbGluZz1ubyBmcmFtZWJvcmRlcj0wIGFsbG93dHJhbnNwYXJlbmN5PSd0cnVlJyBtYXJnaW53aWR0aD0wIG1hcmdpbmhlaWdodD0wPjwvaWZyYW1lPmQCAg8WAh4LXyFJdGVtQ291bnQCFBYoZg9kFgJmDxUCATEQQWNjb3VudGluZyBGaXJtc2QCAQ9kFgJmDxUCATIUQWR2ZXJ0aXNpbmcgQWdlbmNpZXNkAgIPZBYCZg8VAgEzEkFyY2hpdGVjdHVyZSBGaXJtc2QCAw9kFgJmDxUCATQMQXNzb2NpYXRpb25zZAIED2QWAmYPFQICMTYHQ2FwaXRhbGQCBQ9kFgJmDxUCAjE5CUNFTy9Cb2FyZGQCBg9kFgJmDxUCATUOSGVhbHRoIFN5c3RlbXNkAgcPZBYCZg8VAgE2EEludmVzdG1lbnQgRmlybXNkAggPZBYCZg8VAgE3CUxhdyBGaXJtc2QCCQ9kFgJmDxUCAjE3Fk1lcmdlcnMgJiBBY3F1aXNpdGlvbnNkAgoPZBYCZg8VAgE4GU1pbm9yaXR5LU93bmVkIEJ1c2luZXNzZXNkAgsPZBYCZg8VAgE5Dk1vbmV5IE1hbmFnZXJzZAIMD2QWAmYPFQICMTAYTm9uLVByb2ZpdCBPcmdhbml6YXRpb25zZAIND2QWAmYPFQICMTERUHJpdmF0ZSBDb21wYW5pZXNkAg4PZBYCZg8VAgIxMhBQdWJsaWMgQ29tcGFuaWVzZAIPD2QWAmYPFQICMTMMU2VhcmNoIEZpcm1zZAIQD2QWAmYPFQICMjALVGhlIEQgTGlzdCBkAhEPZBYCZg8VAgIxOA9WZW50dXJlIENhcGl0YWxkAhIPZBYCZg8VAgIxNBVWZW50dXJlIENhcGl0YWwgRmlybXNkAhMPZBYCZg8VAgIxNRZXb21hbi1Pd25lZCBCdXNpbmVzc2VzZAIDD2QWBAIBDxYCHwQCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8EAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCBg8WAh8DaBYCAgMPFgIfBAILFhZmD2QWAmYPFQIpaHR0cDovL2F0bGFudGFSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCK2h0dHA6Ly9iYWx0aW1vcmVSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8JQmFsdGltb3JlZAICD2QWAmYPFQIoaHR0cDovL2Jvc3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZCb3N0b25kAgMPZBYCZg8VAjJodHRwOi8vY2hhcmxvdHRlUmFsZWlnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCKGh0dHA6Ly9kYWxsYXNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GRGFsbGFzZAIFD2QWAmYPFQIpaHR0cDovL2hvdXN0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HSG91c3RvbmQCBg9kFgJmDxUCKWh0dHA6Ly9uZXd5b3JrUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIoaHR0cDovL3BoaWxseVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwxQaGlsYWRlbHBoaWFkAggPZBYCZg8VAixodHRwOi8vcGl0dHNidXJnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIJD2QWAmYPFQIuaHR0cDovL3NvdXRoZmxvcmlkYVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIkaHR0cDovL2RjUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVdhc2hpbmd0b24gRENkAgMPDxYCHwNoZBYCZg8WAh8CBRNCYWx0aW1vcmVSZWFsZXN0YXRlFgJmD2QWBAIBDxYCHwQCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8EAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCCQ9kFgICAQ8PFgIfA2hkZAILDw8WAh8DaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRZfY3RsMDpoZWFkZXI6YnRuU2VhcmNovEX7dU8DJBRq3gSfxfhcQZoN0ck=">
+    <form name="aspnetForm" method="post" action="/privacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WAh4HQ0JMQ2l0eTLKAgABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUudjE5NTByaDgsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAASY2l0eWJpei5DQkxDaXR5XzA5CQAAAAhfaW50Q2l0eQxfc3RyQ2l0eU5hbWUNX2lzUmVhbEVzdGF0ZRJfYXBwbGljYXRpb25TdGF0dXMKX3N0cllCQ2l0eQhfc3RyUGF0aAdzdHJSb290FF9zdHJUYWdsaW5lSW1hZ2VOYW1lE19zdHJCYW5uZXJJbWFnZU5hbWUAAQABAQEBAQEIAQIAAAAAAAAABgMAAAAAAAYEAAAABGxpdmUJAwAAAAkDAAAABgYAAAAUaHR0cDovLzIwNy4yMi42Ni4zNy8JAwAAAAkDAAAAC2QWBAIBD2QWBgIRDxYCHgRUZXh0BQxjaXR5Yml6Ym1vcmVkAhMPFgIfAQVCMl82OUwwenpUUUFOZElTYmh3NTl2U1NLM2o2LU1xSzMzeUdRTHE5YTh0d3h1MHJJQWJBeHNwMGk1ZDM0ZkFwM3dKZAIVDxYCHwEFQjJfNjlMMHp6VFFBTmRJU2JodzU5dlNTSzNqNi1NcUszM3lHUUxxOWE4dHd4dTBySUFiQXhzcDBpNWQzNGZBcDN3SmQCAw9kFggCAQ9kFgJmDxYCHgVjbGFzcwUMTWFpbkhvbWVwYWdlFgpmDxYCHgdWaXNpYmxlaGQCAQ9kFgJmDxYCHwEF7AE8aWZyYW1lIHNyYz0naHR0cDovL3RoaXMuY29udGVudC5zZXJ2ZWQuYnkuYWRzaHVmZmxlLmNvbS9wL2tsLzQ2Lzc5OS9yLzEyLzQvOC9hc3QwazNuL2VYd3kzWmVrMmN0b0xrM2l2NXJzdlE9PS92aWV3Lmh0bWwnIGhlaWdodD0nOTAnIHdpZHRoPSc3MjgnIHNjcm9sbGluZz1ubyBmcmFtZWJvcmRlcj0wIGFsbG93dHJhbnNwYXJlbmN5PSd0cnVlJyBtYXJnaW53aWR0aD0wIG1hcmdpbmhlaWdodD0wPjwvaWZyYW1lPmQCAg8WAh4LXyFJdGVtQ291bnQCEBYgZg9kFgJmDxUCATEQQWNjb3VudGluZyBGaXJtc2QCAQ9kFgJmDxUCATIgQWR2ZXJ0aXNpbmcvTWVkaWEvQ29tbXVuaWNhdGlvbnNkAgIPZBYCZg8VAgIxNgdDYXBpdGFsZAIDD2QWAmYPFQICMTkJQ0VPL0JvYXJkZAIED2QWAmYPFQICMjEjQ29tbWVyY2lhbCBSZWFsIEVzdGF0ZS9Db25zdHJ1Y3Rpb25kAgUPZBYCZg8VAgIyMhBHZW5lcmFsIEJ1c2luZXNzZAIGD2QWAmYPFQIBNQ5IZWFsdGgvQmlvdGVjaGQCBw9kFgJmDxUCAjIzE0ludGVybmV0L1RlY2hub2xvZ3lkAggPZBYCZg8VAgE2EEludmVzdG1lbnQgRmlybXNkAgkPZBYCZg8VAgE3CUxhdyBGaXJtc2QCCg9kFgJmDxUCAjE3Fk1lcmdlcnMgJiBBY3F1aXNpdGlvbnNkAgsPZBYCZg8VAgE5Dk1vbmV5IE1hbmFnZXJzZAIMD2QWAmYPFQICMjAGUGVvcGxlZAIND2QWAmYPFQICMTERUHJpdmF0ZSBDb21wYW5pZXNkAg4PZBYCZg8VAgIxMhBQdWJsaWMgQ29tcGFuaWVzZAIPD2QWAmYPFQICMTgPVmVudHVyZSBDYXBpdGFsZAIDD2QWBAIBDxYCHwQCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8EAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCBg8WAh8DaBYEAgMPFgIfBAILFhZmD2QWAmYPFQIfaHR0cDovL2F0bGFudGEuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIhaHR0cDovL2JhbHRpbW9yZS5jaXR5Yml6bGlzdC5jb20vCUJhbHRpbW9yZWQCAg9kFgJmDxUCHmh0dHA6Ly9ib3N0b24uY2l0eWJpemxpc3QuY29tLwZCb3N0b25kAgMPZBYCZg8VAihodHRwOi8vY2hhcmxvdHRlUmFsZWlnaC5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIeaHR0cDovL2RhbGxhcy5jaXR5Yml6bGlzdC5jb20vBkRhbGxhc2QCBQ9kFgJmDxUCH2h0dHA6Ly9ob3VzdG9uLmNpdHliaXpsaXN0LmNvbS8HSG91c3RvbmQCBg9kFgJmDxUCH2h0dHA6Ly9uZXd5b3JrLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAh5odHRwOi8vcGhpbGx5LmNpdHliaXpsaXN0LmNvbS8MUGhpbGFkZWxwaGlhZAIID2QWAmYPFQIiaHR0cDovL3BpdHRzYnVyZ2guY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIJD2QWAmYPFQIkaHR0cDovL3NvdXRoZmxvcmlkYS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAhpodHRwOi8vZGMuY2l0eWJpemxpc3QuY29tLw1XYXNoaW5ndG9uIERDZAIFDxYCHwQCCxYWZg9kFgJmDxUCKWh0dHA6Ly9hdGxhbnRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0F0bGFudGFkAgEPZBYCZg8VAitodHRwOi8vYmFsdGltb3JlUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCUJhbHRpbW9yZWQCAg9kFgJmDxUCKGh0dHA6Ly9ib3N0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIyaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2hSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8RQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAihodHRwOi8vZGFsbGFzUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkRhbGxhc2QCBQ9kFgJmDxUCKWh0dHA6Ly9ob3VzdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAilodHRwOi8vbmV3eW9ya1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwhOZXcgWW9ya2QCBw9kFgJmDxUCKGh0dHA6Ly9waGlsbHlSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8MUGhpbGFkZWxwaGlhZAIID2QWAmYPFQIsaHR0cDovL3BpdHRzYnVyZ2hSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCLmh0dHA6Ly9zb3V0aGZsb3JpZGFSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NU291dGggRmxvcmlkYWQCCg9kFgJmDxUCJGh0dHA6Ly9kY1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLw1XYXNoaW5ndG9uIERDZAIDDw8WAh8DaGQWAmYPFgIfAgUKUmVhbGVzdGF0ZRYCZg9kFgQCAQ8WAh8EAgsWFmYPZBYCZg8VAh9odHRwOi8vYXRsYW50YS5jaXR5Yml6bGlzdC5jb20vB0F0bGFudGFkAgEPZBYCZg8VAiFodHRwOi8vYmFsdGltb3JlLmNpdHliaXpsaXN0LmNvbS8JQmFsdGltb3JlZAICD2QWAmYPFQIeaHR0cDovL2Jvc3Rvbi5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCKGh0dHA6Ly9jaGFybG90dGVSYWxlaWdoLmNpdHliaXpsaXN0LmNvbS8RQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAh5odHRwOi8vZGFsbGFzLmNpdHliaXpsaXN0LmNvbS8GRGFsbGFzZAIFD2QWAmYPFQIfaHR0cDovL2hvdXN0b24uY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIfaHR0cDovL25ld3lvcmsuY2l0eWJpemxpc3QuY29tLwhOZXcgWW9ya2QCBw9kFgJmDxUCHmh0dHA6Ly9waGlsbHkuY2l0eWJpemxpc3QuY29tLwxQaGlsYWRlbHBoaWFkAggPZBYCZg8VAiJodHRwOi8vcGl0dHNidXJnaC5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAiRodHRwOi8vc291dGhmbG9yaWRhLmNpdHliaXpsaXN0LmNvbS8NU291dGggRmxvcmlkYWQCCg9kFgJmDxUCGmh0dHA6Ly9kYy5jaXR5Yml6bGlzdC5jb20vDVdhc2hpbmd0b24gRENkAgMPFgIfBAILFhZmD2QWAmYPFQIpaHR0cDovL2F0bGFudGFSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCK2h0dHA6Ly9iYWx0aW1vcmVSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8JQmFsdGltb3JlZAICD2QWAmYPFQIoaHR0cDovL2Jvc3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZCb3N0b25kAgMPZBYCZg8VAjJodHRwOi8vY2hhcmxvdHRlUmFsZWlnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCKGh0dHA6Ly9kYWxsYXNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GRGFsbGFzZAIFD2QWAmYPFQIpaHR0cDovL2hvdXN0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HSG91c3RvbmQCBg9kFgJmDxUCKWh0dHA6Ly9uZXd5b3JrUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIoaHR0cDovL3BoaWxseVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwxQaGlsYWRlbHBoaWFkAggPZBYCZg8VAixodHRwOi8vcGl0dHNidXJnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIJD2QWAmYPFQIuaHR0cDovL3NvdXRoZmxvcmlkYVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIkaHR0cDovL2RjUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVdhc2hpbmd0b24gRENkAgkPZBYCAgEPDxYCHwNoZGQCCw8PFgIfA2hkFgICAQ8PFgIfA2hkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWX2N0bDA6aGVhZGVyOmJ0blNlYXJjaKI+1Sf1yfOKThegtgdm13hEimkx">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK+hpPACQL/7a7WDwKT7fiPBpkbn7u4EJ60U6A92dQ+oOSRF/4P">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKak8tdAv/trtYPApPt+I8G3F12Vy2nt6YOSITmTL2Yc8z6j8A=">
         <div id="top">
-            <div id="_ctl0_header_headerWrapper" class="Baltimore">
+            <div id="_ctl0_header_headerWrapper" class="MainHomepage">
      <div id="header">			
 			
 		        <a href="/" id="logo">CityBizList</a>
@@ -293,173 +338,110 @@ $(function(){
 				
 					
 										
-					<iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ct6Ls7YZbSb6g==/view.html" height="90" width="728" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>		
+					<iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ctoLk3iv5rsvQ==/view.html" height="90" width="728" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>		
             
 				</div>
 				
         <ul id="nav">
-            <li id="nav1" class="current"><a href="#">Latest News</a>
+            <li id="nav1" class="current"><a href="/yourcitybiznews/financial-news.aspx">Latest News</a>
             <div class="bottom">
     	            <div class="top">
         	            <div class="menus">
-                            <ul class="first">
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Accounting">Accounting</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Financial">Financial</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Biotech">Biotech</a></li>
-                                
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Healthcare">Healthcare</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Internet%2fTechnology">Internet/Technology</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Industrials+%26+Materials">Industrials &amp; Materials</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Law+Firms">Law firms</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Nonprofit+organizations">Nonprofit organizations</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Transport">Transport</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Utilities">Utilities</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Media%2fCommunications">Media/Communications</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Internet">Internet</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Telecom+%26+Wireless">Telecom &amp; Wireless Minority Owned Business</a></li>
-                            </ul>
-                            <ul>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Hardware">Hardware</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Networking">Networking</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Semis">Semis</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=General+Business">General Business Retail</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Careers%2c+Education%2c+%26+Training">Careers, Education, &amp; Training</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Hospitality+%26+Tourism">Hospitality &amp; Tourism</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Professional+Services">Professional Service</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Art%2fMusic%2fCulture">Art/Music/Culture</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Auctions">Auctions</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Chamber%2fClasses">Chamber/Classes</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Events">Events</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Lectures">Lectures</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Public Notice/Government">Public Notice/Government</a></li>
-                            </ul>
-                         </div>
-                    </div>
-                </div>
-            </li>
-            <li id="nav8" class="single"><a href="#">Topics</a>
-              <div class="bottom">
-                	<div class="top">
-                    	<div class="menus">
                             <ul>
 															
 																	<li>
-																		<a href="/topics/index.aspx?t=1">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=1">
 																			Accounting Firms
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=2">
-																			Advertising Agencies
+																		<a href="/yourcitybiznews/financial-news.aspx?t=2">
+																			Advertising/Media/Communications
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=3">
-																			Architecture Firms
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=4">
-																			Associations
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=16">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=16">
 																			Capital
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=19">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=19">
 																			CEO/Board
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=5">
-																			Health Systems
+																		<a href="/yourcitybiznews/financial-news.aspx?t=21">
+																			Commercial Real Estate/Construction
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=6">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=22">
+																			General Business
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/yourcitybiznews/financial-news.aspx?t=5">
+																			Health/Biotech
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/yourcitybiznews/financial-news.aspx?t=23">
+																			Internet/Technology
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/yourcitybiznews/financial-news.aspx?t=6">
 																			Investment Firms
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=7">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=7">
 																			Law Firms
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=17">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=17">
 																			Mergers &amp; Acquisitions
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=8">
-																			Minority-Owned Businesses
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=9">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=9">
 																			Money Managers
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=10">
-																			Non-Profit Organizations
+																		<a href="/yourcitybiznews/financial-news.aspx?t=20">
+																			People
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=11">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=11">
 																			Private Companies
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=12">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=12">
 																			Public Companies
 																		</a>
 																	</li>
 																
 																	<li>
-																		<a href="/topics/index.aspx?t=13">
-																			Search Firms
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=20">
-																			The D List 
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=18">
+																		<a href="/yourcitybiznews/financial-news.aspx?t=18">
 																			Venture Capital
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=14">
-																			Venture Capital Firms
-																		</a>
-																	</li>
-																
-																	<li>
-																		<a href="/topics/index.aspx?t=15">
-																			Woman-Owned Businesses
 																		</a>
 																	</li>
 																
@@ -467,14 +449,14 @@ $(function(){
                          </div>
                     </div>
                 </div>
-            </li>            
+            </li>         
             <li id="nav2"><a href="#">Business Resources</a>
             <div class="bottom">
     	            <div class="top">
         	            <div class="menus">
                             <ul class="first">
                                 <li><a href="/newhome.aspx#resources">Stock Quotes</a></li>
-                                <li><a href="/newhome.aspx#resources">Top Baltimore Lawyers</a></li>
+                                <li><a href="/newhome.aspx#resources">Top  Lawyers</a></li>
 																<li><a href="/clips.aspx">Citybiz Clips</a></li>
                             </ul>
                             <ul>
@@ -687,12 +669,15 @@ $(function(){
             	    
                 </ul>	
                 <ul id="text-sizer">
+									<!--
 									<li id="_ctl0_gigyaTopShare" class="gigyaTool"><a href="javascript:showShareUI()">Share</a></li>
-									
-            	    <li class="print"><a href="#" onclick="window.print();">Print this page</a></li>
-                    <li class="text-size">Text Size:</li>
-                    <li><a href="#" class="smallFont">A</a></li>
-                    <li><a href="#" class="largeFont">A</a></li>
+									-->
+            	    <li class="email"><a href="/multCityEmail.aspx" class="toolTip">Get Email Newsletter</a></li>
+									<li class="rss"><a href="/rss/index.aspx" class="toolTip">Subscribe to RSS</a></li>
+                    <li class="text-size">Text Size:
+                     <a href="#" class="smallFont">A</a>
+                     <a href="#" class="largeFont">A</a>
+                    </li>
                 </ul>
                 
                 <div id="content">
@@ -701,14 +686,10 @@ $(function(){
 <div id="sub-nav">
 	<ul class="links">
 	    <li class="nav1"><a href="/yourcitybiznews/submitnews.aspx" title="Share Your News Today!">Contribut to Citybizlist</a></li>
-      <li class="nav2"><a href="/yourcitybiznews/index.aspx" title="Read What our Users Are Contributing">User-generated News</a></li>
-      <li class="nav3"><a href="/yourcitybiznews/citybizNews.aspx" title="Read All Local Business News">Citybizlist Local Business News</a></li>
+      
+      <li class="nav3"><a href="/yourcitybiznews/financial-news.aspx" title="Read All Local Business News">Citybizlist Local Business News</a></li>
       <li class="nav4"><a href="http://www.citybizjobs.personforce.com/job-board.php" title="Find a job or find employees" target="_blank">Citybizjobs</a></li>
       
-      <li class="nav7"><a href="http://citybizmarketplace.com/" title="Buy, sell and trade locally" target="_blank">Citybizmarketplace</a></li>
-      
-      <li class="nav9"><a href="/citybizB2B.aspx" title="Advertise on citybizB2B">citybizB2B</a></li>
-      <li class="nav10"><a href="http://citybizlist.collectivex.com/main/summary" title="Powered by Collective X" target="_blank">Citybiznetwork</a></li>
       <li class="nav11">Citbizquicks Twitter Updates:</li>
 	</ul>  
 	<div id="twitter-text">
@@ -770,17 +751,19 @@ $(function(){
                 
  
 <div id="sponsors">
-
+		<!--
     <ul id="twitter-rss">
 	    <li><a href="/multCityEmail.aspx" id="newsletter" title="Get Email Newsletter">Get Email Newsletter</a></li>
         <li><a href="http://www.citybizquicks.com/follow" id="twitter" title="Follow Us On Twitter">Follow Us On Twitter</a></li>
         <li><a href="/rss/index.aspx" id="rss-feeds" title="RSS Feeds">RSS Feeds</a></li>
     </ul>
-        
+    -->
     <div id="gigya" class="sub">
+    
+    <!--
 			<div id="gigyaBottom">
-				<h1>
-					Recent Activity</h1>
+				<h2>
+					Recent Activity</h2>
 					
 				<div id="gigyaLogin">
 					<p class="connect">
@@ -799,14 +782,53 @@ $(function(){
 					<div id="welcomewrapper">
 						<span id="gigyaUserGreeting" class="greeting"></span>
 					</div>
-					<img id="gigyaUserImage" src="">
-					<span id="updateMessage" style="display: none;">Update your Status</span> <a id="updateOpen" href="javascript:openUpdateBox()">Update Your Status</a> <a id="updateClose" href="javascript:closeUpdateBox()" style="display: none;">Hide Status Box</a>
-					<br>
+					<img id="gigyaUserImage" src="" />
+					<span id="updateMessage" style="display: none;">Update your Status</span> <a id="updateOpen"
+						href="javascript:openUpdateBox()">Update Your Status</a> <a id="updateClose" href="javascript:closeUpdateBox()"
+							style="display: none;">Hide Status Box</a>
+					<br />
 					
 					<div id="updatepanel" style="display: none;">
 						<p id="gigyaUserStatus">
 							<textarea id="newstatustext" cols="16" rows="4">&nbsp;</textarea>
-							<input type="button" id="setGigyaStatus" onclick="javascript:setStatus()" value="Update">
+							<input type="button" id="setGigyaStatus" onclick="javascript:setStatus()" value="Update" />
+						</p>
+					</div>
+					
+					<div id="gigyaUserMiniLogin">
+					</div>
+					<span id="editConnections"><a
+						href="javascript:editConnections()">Edit Connections</a> </span>
+				</div>
+			</div>
+		-->
+		<div id="gigyaBottom">
+				
+					
+				<div id="gigyaLogin">
+					<p class="connect">
+						<strong>Sign-in</strong> with your network to connect with your friends on Citybizlist</p>
+                        
+					<div id="GigyaDiv" style="width: 200px; height: 30px;"><table width="100%" cellspacing="0" cellpadding="0" style="margin: 0px; padding: 0px; border: 0px none; line-height: normal; font-family: arial; background-color: transparent; vertical-align: middle; width: 200px; height: 30px;" valign="middle"><tbody><tr><td style="vertical-align: middle; margin: 0px; padding: 0px; border: 0px none;"><center><table width="100%" cellspacing="0" cellpadding="0" align="center" valign="middle" style="margin: 0px; padding: 0px; border: 0px none; vertical-align: middle; height: 30px;"><tbody><tr><td width="48%" align="right" style="margin: 0px; padding: 0px; border: 0px none; vertical-align: middle;"></td><td nowrap="" align="center" id="GigyaDiv_page" style="width: 145px; margin: 0px; padding: 0px; border: 0px none; vertical-align: middle;"><table cellspacing="0" cellpadding="0" align="center" id="GigyaDiv_p0" style="margin: 0px; padding: 0px; border: 0px none;"><tbody><tr><td align="center" style="margin: 0px; padding: 0px; border: 0px none; vertical-align: middle;"><table cellspacing="0" cellpadding="0" align="center" style="margin: 0px; padding: 0px; border: 0px none;"><tbody><tr><td style="margin: 0px; padding: 0px 5px 0px 0px; border: 0px none; line-height: normal; font-family: arial; font-size: 11px; color: rgb(155, 155, 155); text-align: center; vertical-align: top;"><center><div style="cursor: pointer; width: 20px;" title="LinkedIn" onclick="gigya.services.socialize.plugins.login.providerClick('GigyaDiv','linkedin')"><div style="width: 20px; height: 20px;"><img width="20" height="20" src="http://cdn.gigya.com/gs/i/HTMLLogin/linkedin_20.png"></div></div></center></td><td style="margin: 0px; padding: 0px 5px 0px 0px; border: 0px none; line-height: normal; font-family: arial; font-size: 11px; color: rgb(155, 155, 155); text-align: center; vertical-align: top;"><center><div style="cursor: pointer; width: 20px;" title="Facebook" onclick="gigya.services.socialize.plugins.login.providerClick('GigyaDiv','facebook')"><div style="width: 20px; height: 20px;"><img width="20" height="20" src="http://cdn.gigya.com/gs/i/HTMLLogin/facebook_20.png"></div></div></center></td><td style="margin: 0px; padding: 0px 5px 0px 0px; border: 0px none; line-height: normal; font-family: arial; font-size: 11px; color: rgb(155, 155, 155); text-align: center; vertical-align: top;"><center><div style="cursor: pointer; width: 20px;" title="Twitter" onclick="gigya.services.socialize.plugins.login.providerClick('GigyaDiv','twitter')"><div style="width: 20px; height: 20px;"><img width="20" height="20" src="http://cdn.gigya.com/gs/i/HTMLLogin/twitter_20.png"></div></div></center></td><td style="margin: 0px; padding: 0px 5px 0px 0px; border: 0px none; line-height: normal; font-family: arial; font-size: 11px; color: rgb(155, 155, 155); text-align: center; vertical-align: top;"><center><div style="cursor: pointer; width: 20px;" title="Yahoo" onclick="gigya.services.socialize.plugins.login.providerClick('GigyaDiv','yahoo')"><div style="width: 20px; height: 20px;"><img width="20" height="20" src="http://cdn.gigya.com/gs/i/HTMLLogin/yahoo_20.png"></div></div></center></td><td style="margin: 0px; padding: 0px 5px 0px 0px; border: 0px none; line-height: normal; font-family: arial; font-size: 11px; color: rgb(155, 155, 155); text-align: center; vertical-align: top;"><center><div style="cursor: pointer; width: 20px;" title="Google" onclick="gigya.services.socialize.plugins.login.providerClick('GigyaDiv','google')"><div style="width: 20px; height: 20px;"><img width="20" height="20" src="http://cdn.gigya.com/gs/i/HTMLLogin/google_20.png"></div></div></center></td><td style="margin: 0px; padding: 0px; border: 0px none; line-height: normal; font-family: arial; font-size: 11px; color: rgb(155, 155, 155); text-align: center; vertical-align: top;"><center><div style="cursor: pointer; width: 20px;" title="Messenger" onclick="gigya.services.socialize.plugins.login.providerClick('GigyaDiv','messenger')"><div style="width: 20px; height: 20px;"><img width="20" height="20" src="http://cdn.gigya.com/gs/i/HTMLLogin/messenger_20.png"></div></div></center></td></tr></tbody></table></td></tr></tbody></table></td><td width="48%" style="margin: 0px; padding: 0px; border: 0px none; vertical-align: middle;"></td></tr></tbody></table></center></td></tr></tbody></table></div>
+				</div>
+				<h2>Recent Activity</h2>
+				<div id="gigyaContent">
+					<div id="NewsfeedWidgetDiv" style="width: 180px; height: 200px;"><div style="font-family: arial; font-variant: inherit; font-weight: normal; font-size: 11px; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); background-color: white;" id="NewsfeedWidgetDiv_top"><table cellspacing="0" cellpadding="0" style="font-family: arial; font-variant: inherit; font-weight: normal; font-size: 11px; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); background-color: white; border: 1px solid rgb(170, 170, 170); width: 180px; min-height: 200px; height: 200px;"><tbody><tr height="20px;"><td valign="top" height="20px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0" style="font-size: 1em; font-weight: inherit; font-style: inherit; font-variant: inherit;"><tbody><tr id="NewsfeedWidgetDiv_tabsTR"><td width="33%" align="center" onclick="gigya.services.socialize.plugins.newsfeed.instances[this.id.substring(0,this.id.lastIndexOf('_'))].activateTab('E');" style="cursor: pointer; font-family: arial; font-variant: inherit; font-weight: bold; font-size: 11px; font-style: inherit; text-decoration: none; color: rgb(58, 58, 58); background-color: white; border-bottom: 1px solid white; border-right: 1px solid rgb(170, 170, 170);" class="tab" id="NewsfeedWidgetDiv_ET"><div width="100%">Everyone</div></td><td width="33%" align="center" onclick="gigya.services.socialize.plugins.newsfeed.instances[this.id.substring(0,this.id.lastIndexOf('_'))].activateTab('F');" style="cursor: pointer; font-family: arial; font-variant: inherit; font-weight: bold; font-size: 11px; font-style: inherit; text-decoration: none; color: rgb(58, 58, 58); background-color: rgb(232, 232, 232); border-bottom: 1px solid rgb(170, 170, 170); border-right: 1px solid rgb(170, 170, 170);" class="tab" id="NewsfeedWidgetDiv_FT"><div width="100%">Friends</div></td><td width="33%" align="center" onclick="gigya.services.socialize.plugins.newsfeed.instances[this.id.substring(0,this.id.lastIndexOf('_'))].activateTab('M');" style="cursor: pointer; border-right: medium none; font-family: arial; font-variant: inherit; font-weight: bold; font-size: 11px; font-style: inherit; text-decoration: none; color: rgb(58, 58, 58); background-color: rgb(232, 232, 232); border-bottom: 1px solid rgb(170, 170, 170);" class="tab" id="NewsfeedWidgetDiv_MT"><div width="100%">Me</div></td></tr></tbody></table></td><td></td></tr><tr height="99%"><td valign="middle" height="100%"><div align="center" id="NewsfeedWidgetDiv_Progress" style="display: none;"><img src="http://cdn.gigya.com/gs/i/progress_ani.gif"></div><div style="overflow-x: hidden; overflow-y: scroll; font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: inherit; height: 178px;" id="NewsfeedWidgetDiv_EF"><table width="99%" cellspacing="0" cellpadding="0" style="font-size: 1em; font-weight: inherit; font-style: inherit; font-variant: inherit; color: inherit;"><tbody><tr><td><span style="height: 1px; width: 17px; overflow: hidden; display: inline-block;"></span></td><td><div style="height: 13px; overflow: hidden;"></div><div style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: inherit;">Recent user activity on Citybizlist:</div><div style="height: 8px; overflow: hidden;"></div><div id="NewsfeedWidgetDiv_EF_items"><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>RockstahRealtor :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://baltimorerealestate.citybizlist.com/yourcitybiznews/detail.aspx?id=88527">PG County Awards $41.5M of Bond Financing</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88606">Dow Jones Appoints David Chivers VP of Factiva Products</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88572">Brean Murray, Carret &amp; Co. Names Joseph LaBianca as Managing Director</a> …</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88562">Garrick M. Gelinas Joins The Halo Group as Director of Client Services…</a></div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88666">Quad-C Management Acquires Joerns Healthcare from Vestar Capital Partn…</a></div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88630">ConvergEx Grows Its NorthPoint Boutique Prime Services Business</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88608">With CHL Medical, Domain, ParinGenix Nearly Completes $5M Offering - c…</a></div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88589">Stephen Farley, Farley Capital II Report $4.6M Stake in Peoples Federa…</a></div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88577">Connecticut Water Service, Inc. Reports Q2 Net Income of $2.3M</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybiznewyork :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://newyork.citybizlist.com/yourcitybiznews/Detail.aspx?id=88557">My Damn Channel Closes $4.4M Series B Financing</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizTheBurgh :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://pittsburgh.citybizlist.com/yourcitybiznews/Detail.aspx?id=88599">Horsehead Holding Corp. Announces Q2 2010 Earnings</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizTheBurgh :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://pittsburgh.citybizlist.com/yourcitybiznews/Detail.aspx?id=88569">PNC Announces Redemption of Series C and D Preferred Stock</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88603">Cyberonics Board of Directors Nominates Jon T. Tremmel</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88583"> T&amp;K Attorney Elected to Texas CASA Board</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88559">Mark Perry to Lead New Managed Solutions Business at GlobalSPACE</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88639">Regency Energy Partners to Acquire Zephyr Gas Services for $185M</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88594">U.S. Concrete's Michigan JV to Buy Back Shares of Partners - cbl</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88565">Targa Resources Partners LP Agrees to Acquire Assets From Targa Resour…</a></div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88582">Rosetta Resources Inc. Announces Second Quarter 2010 Results</a> :"<span style=""></span>"</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table><div style="height: 5px; overflow: hidden;"><div style="height: 2px; overflow: hidden;"></div><div style="height: 1px; overflow: hidden; background-color: rgb(0, 0, 0); width: 100%;"></div><div style="height: 2px; overflow: hidden;"></div></div><table width="100%" cellspacing="0" cellpadding="0" border="0" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(93, 93, 93); line-height: 117%;"><tbody><tr><td width="45"><div style="overflow: hidden; width: 45px; height: 45px;"><table width="100%" height="100%" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" align="center"><img height="45" align="center" onerror="this.src='http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif';this.onerror=null;" src="http://cdn.gigya.com/gs/i/defaultNewsfeedImage.gif" onload="if (this.width>45 || this.height>45) {if ( this.width>this.height) {this.width=45} else {this.height=45}};this.onload=null;" valign="middle"></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 11px; overflow: hidden; display: inline-block;"></span></td><td><div>citybizHouston :<br><div class="titleAndDesc"><a style="font-weight: bold; text-decoration: none; color: rgb(34, 93, 183);" href="http://houston.citybizlist.com/yourcitybiznews/Detail.aspx?id=88551">Delta Seaboard International to Commence Trading Today on the OTCBB</a> :"…</div></div></td></tr><tr><td colspan="3"><div align="right" style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: rgb(176, 176, 176);">less than an hour ago</div></td></tr></tbody></table></div></td><td><span style="height: 1px; width: 14px; overflow: hidden; display: inline-block;"></span></td></tr></tbody></table></div><div style="display: none; height: 178px; overflow-x: hidden; font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: inherit; padding-left: 0px; padding-right: 0px;" id="NewsfeedWidgetDiv_FF"><table width="99%" cellspacing="0" cellpadding="0" style="font-size: 1em; font-weight: inherit; font-style: inherit; font-variant: inherit; color: inherit;"><tbody><tr><td><span style="height: 1px; width: 10px; overflow: hidden; display: inline-block;"></span></td><td><div id="NewsfeedWidgetDiv_friendsTemplateLoggedOut"><div style="height: 45px; overflow: hidden;"></div><center><div style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: inherit;">Log in to see your friends actions on Citybizlist:</div><div style="height: 10px; overflow: hidden;"></div><div id="NewsfeedWidgetDiv_loginUIContainerFriends" style="width: 160px; height: 50px; z-index: 10000000; top: 286px; left: 760px;"><embed width="160" height="50" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" swliveconnect="true" flashvars="ContainerAndSWF=NewsfeedWidgetDiv_loginUIContainerFriends|Gigya.Socialize.Login_en&amp;SWFModuleID=NewsfeedWidgetDiv_loginUIContainerFriends|Gigya.Socialize.Login_en&amp;now=1281381592770" salign="" allowscriptaccess="always" allowfullscreen="false" menu="true" devicefont="false" scale="showall" loop="true" play="true" quality="high" src="http://cdn.gigya.com/GS/swf/Gigya.Socialize.Login_en.swf" name="NewsfeedWidgetDiv_loginUIContainerFriends_Gigya.Socialize.Login_en" wmode="transparent" id="NewsfeedWidgetDiv_loginUIContainerFriends_Gigya.Socialize.Login_en"> </div></center></div></td><td><span style="height: 1px; width: 10px; overflow: hidden; display: inline-block;"></span></td></tr></tbody></table></div><div style="display: none; height: 178px; overflow-x: hidden; font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: inherit; padding-left: 0px; padding-right: 0px;" id="NewsfeedWidgetDiv_MF"><table width="99%" cellspacing="0" cellpadding="0" style="font-size: 1em; font-weight: inherit; font-style: inherit; font-variant: inherit; color: inherit;"><tbody><tr><td><span style="height: 1px; width: 10px; overflow: hidden; display: inline-block;"></span></td><td><div id="NewsfeedWidgetDiv_meTemplateLoggedOut"><div style="height: 45px; overflow: hidden;"></div><center><div style="font-family: inherit; font-variant: inherit; font-weight: inherit; font-size: 1em; font-style: inherit; text-decoration: inherit; color: inherit;">Log in to review your actions on Citybizlist:</div><div style="height: 10px; overflow: hidden;"></div><div id="NewsfeedWidgetDiv_loginUIContainerMe" style="width: 160px; height: 50px; z-index: 10000001; top: 286px; left: 760px;"><embed width="160" height="50" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" swliveconnect="true" flashvars="ContainerAndSWF=NewsfeedWidgetDiv_loginUIContainerMe|Gigya.Socialize.Login_en&amp;SWFModuleID=NewsfeedWidgetDiv_loginUIContainerMe|Gigya.Socialize.Login_en&amp;now=1281381592775" salign="" allowscriptaccess="always" allowfullscreen="false" menu="true" devicefont="false" scale="showall" loop="true" play="true" quality="high" src="http://cdn.gigya.com/GS/swf/Gigya.Socialize.Login_en.swf" name="NewsfeedWidgetDiv_loginUIContainerMe_Gigya.Socialize.Login_en" wmode="transparent" id="NewsfeedWidgetDiv_loginUIContainerMe_Gigya.Socialize.Login_en"> </div></center></div></td><td><span style="height: 1px; width: 10px; overflow: hidden; display: inline-block;"></span></td></tr></tbody></table></div></td><td width="0%" valign="top" style="width: 0px;"><div align="center" style="margin-left: -180px; height: 0pt; display: none; position: relative; top: 0pt; max-height: 0px; min-height: 0px;" id="NewsfeedWidgetDiv_Message"><div style="height: 45px; overflow: hidden;"></div><table style="font-family: Arial; font-variant: inherit; font-weight: inherit; font-style: inherit; text-decoration: inherit; color: rgb(58, 58, 58); background-color: rgb(255, 251, 219); border: 1px solid rgb(235, 227, 161);"><tbody><tr><td><span style="height: 1px; width: 10px; overflow: hidden; display: inline-block;"></span></td><td valign="middle" align="center"><div style="height: 8px; overflow: hidden;"></div><span id="NewsfeedWidgetDiv_messageText">Invites Sent</span><div style="height: 12px; overflow: hidden;"></div><img onclick="gigya.services.socialize.plugins.newsfeed.instances[this.id.substring(0,this.id.lastIndexOf('_'))].onMessageOKClick({eventName:'onMessageOKClick'})" src="http://cdn.gigya.com/gs/i/Button_OK.gif" style="cursor: pointer;" id="NewsfeedWidgetDiv_messageOKButton"><div style="height: 8px; overflow: hidden;"></div><span style="height: 1px; width: 104px; overflow: hidden; display: inline-block;"></span></td><td><span style="height: 1px; width: 10px; overflow: hidden; display: inline-block;"></span></td></tr></tbody></table></div></td></tr></tbody></table></div><span id="NewsfeedWidgetDiv_Scripts"><script src="http://livechat.gigya.com/newsfeed/read?apikey=2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ&amp;uid=&amp;l=1281381114592&amp;lf=0&amp;rid=R1281382020014_0.11639515940522593&amp;cb=gigya.services.socialize.plugins.newsfeed.onUpdate"></script></span></div>
+				</div>
+				
+				<div style="display: none;" id="gigyaUser">
+					
+					<div id="welcomewrapper">
+						<span class="greeting" id="gigyaUserGreeting"></span>
+					</div>
+					<img src="" id="gigyaUserImage">
+					<span style="display: none;" id="updateMessage">Update your Status</span> <a href="javascript:openUpdateBox()" id="updateOpen">Update Your Status</a> <a style="display: none;" href="javascript:closeUpdateBox()" id="updateClose">Hide Status Box</a>
+					<br>
+					
+					<div style="display: none;" id="updatepanel">
+						<p id="gigyaUserStatus">
+							<textarea rows="4" cols="16" id="newstatustext">&nbsp;</textarea>
+							<input type="button" value="Update" onclick="javascript:setStatus()" id="setGigyaStatus">
 						</p>
 					</div>
 					
@@ -815,7 +837,10 @@ $(function(){
 					<span id="editConnections"><a href="javascript:editConnections()">Edit Connections</a> </span>
 				</div>
 			</div>
-
+			
+			<script type="text/javascript">
+				$(document).ready(function() { gigya.services.socialize.showLoginUI(conf, connect_params); gigya.services.socialize.showNewsfeedUI(conf, newsfeed_params); })
+			</script>
 		</div>
     
     <div class="content-bottom">
@@ -824,11 +849,11 @@ $(function(){
         
 			
       <div class="ad">
-          <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cvQ~sl~cJj6Gq4dA==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
+          <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cs3j7OoM7iBRQ==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
       </div>
        
       <div class="ad">
-        <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cuT~sl~MwReRMg9w==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
+        <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ctx95Iztvo9Mw==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
       </div>
        
     </div>
@@ -836,10 +861,7 @@ $(function(){
    
 </div> <!-- end sponsors -->
 
-			<script type="text/javascript">
-				$(document).ready(function() { gigya.services.socialize.showLoginUI(conf, connect_params); })
-			</script>
-			<!--gigya.services.socialize.showNewsfeedUI(conf, newsfeed_params); -->
+			
             </div> <!-- end container -->
 						
 
