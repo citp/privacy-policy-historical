@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrtzcmp3.net privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624082210id_/http%3A//www.mrtzcmp3.net/Pages%3Fi%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrtzcmp3.net privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221012041id_/http%3A//www.mrtzcmp3.net/Pages%3Fi%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Mrtzcmp3 PrivacyPolicy
 
