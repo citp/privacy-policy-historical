@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619064126id_/http%3A//www.babycenter.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222004759id_/http%3A//www.babycenter.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,4 +86,5 @@ http://www.babycenter.com.au/about/contact
 
 ## Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 1.0) was last updated on September 20, 2005. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 1.0) was last updated on September 20, 2005.   
+
