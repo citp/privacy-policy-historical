@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the officiallondontheatre.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002231id_/http%3A//www.officiallondontheatre.co.uk/buy_tickets/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officiallondontheatre.co.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221071430id_/http%3A//officiallondontheatre.co.uk/buy_tickets/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Official London Theatre Guide
+
+## Privacy Policy
 
 The London Theatre Guide online ticketing service is powered by Ticketmaster (UK) Ltd on behalf of the Society of London Theatre. Any financial transactions will occur on a designated server of Ticketmaster (UK) Ltd. Please read the following Privacy Statement provided by Ticketmaster (UK) Ltd.
 
