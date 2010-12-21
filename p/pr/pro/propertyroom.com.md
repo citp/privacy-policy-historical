@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyroom.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011914id_/http%3A//www.propertyroom.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyroom.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221111357id_/http%3A//www.propertyroom.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PropertyRoom.com Privacy Policy
 
