@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623031919id_/http%3A//www.axway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105606id_/http%3A//www.axway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Axway - Global
 
