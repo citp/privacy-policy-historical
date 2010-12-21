@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630041759id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221083041id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Citybizlist Baltimore Privacy Policy
+# Citybizlist Privacy Policy
 
 Citybizlist’s privacy policy is established to explain how your information is collected, used and protected. When this policy is updated, citybizlist will provide notice of any material changes to this policy by posting the new information on the site.
 
