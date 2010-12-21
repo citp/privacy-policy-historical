@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.co.za privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114416id_/http%3A//www.jobs.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.co.za privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221035252id_/http%3A//www.jobs.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for JOBNAVIGATOR (PTY) LTD
 
