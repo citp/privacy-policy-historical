@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2008-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081013025951id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221025244id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Protecting your privacy
 
 ##### Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy.
 
@@ -10,21 +10,70 @@ As part of the web site's operation and for our own statistical analysis of site
 
 * * *
 
+Mail policy
+
+We do not tolerate spam.   
+We received your consent for communication via email.   
+We send you promotional emails and updates until such time as you inform us that you do not wish to continue to receive them. 
+
+You may notify us of your wish to unsubscribe at any time by: 
+
+• Click on the unsubscribe link shown in all casinotropez.com email offers and follow the instructions.   
+• Call us, Tol Free - Canada: +1-800-947-1351   
+    UK: 0800-047-0695   
+    International phone - +632-756-7946   
+• online chat   
+• email us to [support@casinotropez.com](mailto:support@casinotropez.com)
+
+On receiving your notice, we will immediately stop sending you such e-mails and updates. 
+
+If you continue to receive from us promotional e-mails and updates or any other unsolicited communication after you have asked us to unsubscribe, please report to us at [abuse@casinotropez.com](mailto:abuse@casinotropez.com). 
+
+* * *
+
 Our advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any e-mail addresses.
 
 * * *
 
 Account Creation Information
 
-The account information supplied during the account creation process is kept strictly confidential for our own purpose. We do NOT share this information with any third-party company and/or organization.
+**Information collected**   
+We collect personal information from visitors to this web site through the use of online forms and every time you e-mail us your details. We also collect information about the transactions you undertake including details of payment cards used. The personal information that we collect may include your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which we, or undertakings engaged by us for such purpose, shall undertake.
 
-This information includes customer e-mail addresses and other personal information supplied upon registration. If you supply us with your personal details, the information will only be used for its intended use, such as allowing us to send you cash-out checks and other information which you request.
+**Use of personal information**
 
-E-mail Addresses are NOT shared with any other organization for commercial or noncommercial purposes. E-mail addresses will only be used to provide our customers with information regarding new software updates, promotional material, and miscellaneous casino operations, such as deposits and withdrawals.
+We process your personal information for the purposes of: 
 
-We collect e-mail addresses of those who communicate with us via e-mail.
+  * (a) creating and managing player accounts and records;
+  * (b) administering player accounts;
+  * (c) providing and personalising our services;
+  * (d) dealing with your enquiries and requests;
+  * (e) notifying you about updates to our software and/or services;
+  * (f) ensuring we are able to fulfil our regulatory responsibilities by verifying the accuracy of any information you give us;
+  * (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with requests for information by authorised entities for the sharing of information;
+  * (h) carrying out market research campaigns;
+  * (i) providing you with information about and support for products and services;
+  * (j) marketing our services or products or those of other entities within our group of companies; and
+  * (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information.
 
-If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to [support@casinotropez.com](mailto:support@casinotropez.com).
+
+
+These are the **“Purposes”** for which we may collect personal data. 
+
+If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to [support@casinotropez.com](mailto:support@casinotropez.com)
+
+**Disclosure of personal information**
+
+We may, for the Purposes, disclose your personal information to any of the following recipients (“Recipients”): 
+
+  * (i) any companies within our group and to their employees who have a need to know such information;
+  * (ii) any third parties which provide services to us in order to allow or enable us to provide you with gaming services, including by way of example payment processors and data verifiers;
+  * (iii) any third parties who provide services to us in relation to the operation of Casino Tropez;
+  * (iv) any auditors, contractors or other advisers auditing any of our business processes or who have the need to access such information for the purpose of advising us;
+  * (v) any regulatory body or authorised entity who may have any reasonable requirement to access such personal information; and
+  * (vi) any potential purchasers of the Casino Tropez business or any investors in it or in any company within our group.
+
+
 
 * * *
 
@@ -42,22 +91,6 @@ Our Certifications and What They Mean
 
 **Turbo SSL® certificate**   
 Casino Tropez under the name of the casino group uses a GoDaddy.com Turbo SSL® certificate to ensure 100% security and protection. A SSL certificate is a digital certificate that authenticates the identity of a Web site to visiting browsers and encrypts information for the server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to safeguard sensitive data) and high-grade 256-bit SSL encryption to secure online transactions.
-
-**Under-Age Gambling.**   
-It is absolutely against the law to gamble if you are under the age of 18. Secondly, it is against our own Terms of Use. Casino Tropez is opposed to gambling by minors, and has taken steps to prevent it. This logo shows that we make every effort to prevent gaming by those under 18, which is illegal in all jurisdictions and under our Gambling Registration (see also Terms of Use page, Section 3 – Legal Requirements).
-
-**Parents:**   
-if your computer is accessed by under-age children, you can prevent their gambling. It’s very simple: there are “site-filter” programs like NetNanny, PC TimeCop or BrightFilter that will prevent minors from accessing gambling sites. 
-
-**Kahnawake Gaming Commission.**   
-We are licensed by the Kahnawake Gaming Commission, an international gaming licensing and regulatory authority. Their regulations state, in part: 
-
-The Regulations are designed to ensure that all interactive gaming and gaming- related activities satisfy three basic principles: 
-  * 1\. That only suitable persons and entities are permitted to operate;
-  * 2\. That the games offered are fair to the player; 
-  * 3\. That winners are paid. 
-
-
 
 **TST Technical Systems Testing.**   
 TST Technical Systems Testing North America Incorporated is a well-known and respected statistical and technical software testing firm, located in Vancouver, BC Canada. They test all of our poker and casino games to industry-standard levels of fairness and accuracy, and issue letters of compliance for sites that satisfy these stringent standards. Note: all our gaming software is written by PlayTech, the leading software provider in the gaming industry. Therefore, the TST compliance letters feature PlayTech’s name. As a PlayTech client, we use their software without alteration and therefore can display this logo and the compliance letter that it links to. TST compliance letters for our poker and casino games can be accessed from the hyperlinks at the bottom of our webpage. 
