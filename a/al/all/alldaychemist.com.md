@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509054928id_/https%3A//www.alldaychemist.com/content/6-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221031330id_/https%3A//www.alldaychemist.com/content/6-Privacy) for the most accurate reproduction.*
 
-# Prescription Medicines - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 Our Privacy Policy is designed to assist you-businesses, consumers and the general public-in understanding how we collect and use the personal information you provide to us, and to help you make informed decisions when using our web site and all of our related services therein.
 
