@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onboardmag.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004854id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onboardmag.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221101033id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // About // Mpora Extreme Sports
 
