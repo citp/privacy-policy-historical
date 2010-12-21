@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621165412id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221133123id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,8 +58,9 @@ The messages you send on Connexion are private. They are not normally read by an
 
 A list of contacts for Connexion can be obtained [here](http://www.connexion.org/contactus.cfm). Or you can write or call us at:  
 Connexion  
-Denver CO 80206  
-303-322-4804
+191 University Blvd. # 163  
+Denver CO 80206-4613   
+303-322-4804 
 
 If you have any questions about our website or this privacy policy, please feel free to contact us.
 
