@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessdb.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606143522id_/http%3A//www.businessdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222005802id_/http%3A//www.businessdb.com/privacy) for the most accurate reproduction.*
 
-# Privacy - businessdb.com - Add and Boost Your Business
+# Privacy Policy - BusinessDb
 
 Effective date April 25, 2009 
 
