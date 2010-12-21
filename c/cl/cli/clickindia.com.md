@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918225029id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221113219id_/http%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-PRIVACY POLICY
 
 This Privacy Policy sets out our practices with respect to the collection, use and disclosure of personal information in connection with www.ClickIndia.com (the Site). This Privacy Policy may be updated by us at any time by posting on the site without any prior notice. Also, this Privacy Statement may be supplemented or modified by agreements entered into between us and an individual from time to time. In this Privacy Statement, personal information means any information about an identifiable individual, including contact and demographic details, not including collective information or information regarding a group in summarized form.  
 
