@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151848id_/http%3A//www.timeoutsydney.com.au/Global/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221080625id_/http%3A//www.timeoutsydney.com.au/Global/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Time Out Sydney
 
@@ -24,6 +24,8 @@ We will not disclose information that personally identifies you to any third par
 
 We may provide certain information about you including your personal information to our related bodies corporate, or to third parties, were necessary in the normal course of business, for example, to facilitate prize fulfilment.
 
+If you enter any competitions, we may share your details that you enter with the sponsor/prize provider for that competition. See our **[Standard terms and conditions of entry](http://www.timeoutsydney.com.au/competitions/standard-terms-and-conditions.aspx)**.
+
 **4\. Access to your personal information**  
 If you wish to access your personal information held by us, you may contact us (see below) to see what personal information we hold and if it is up to date. This will be subject to any exemptions allowed under the Privacy Act.
 
@@ -31,7 +33,8 @@ If you wish to access your personal information held by us, you may contact us (
 All reasonable steps are taken by us to ensure that your personal information held by us is accurate, complete and up to date. If you believe that any of your personal information is inaccurate, please contact us (see below) and we will take all reasonable steps to correct it.
 
 **6\. Third Parties and your information**  
-We will only collect, store, use or disseminate information that personally identifies you as set out in this Privacy Statement unless we are required to protect our rights or property (or those of any third party), or to avoid injury to any person, by law.  
+We will only collect, store, use or disseminate information that personally identifies you as set out in this Privacy Statement unless we are required to protect our rights or property (or those of any third party), or to avoid injury to any person, by law.
+
 Although the Site may link directly to websites operated by third parties (Linked Sites), you acknowledge that such Linked Sites are not operated by us. We encourage you to always read the applicable privacy statement of any Linked Site on entering a Linked Site. We are not responsible for the content or practices of the Linked Sites or their privacy policies regarding the collection, storage, use and dissemination of your personal information.
 
 **7\. Your consent**  
