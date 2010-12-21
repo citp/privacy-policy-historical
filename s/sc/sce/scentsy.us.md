@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210834id_/http%3A//www.scentsy.net/en-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221234030id_/http%3A//www.scentsy.net/en-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Scentsy: Privacy Policy
 
