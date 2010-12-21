@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the megagoods.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216003407id_/http%3A//www.megagoods.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagoods.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221102522id_/http%3A//www.megagoods.com/privacy.php) for the most accurate reproduction.*
 
 # MegaGoods.com Wholesale Consumer Electronics DropShipper.
-
-[](http://www.storeb2b.com/index.php?AID=bujx15z0&ref=megagoods)
 
 ## MegaGoods.com Privacy Policy
 
