@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thekartel.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621042013id_/http%3A//www.thekartel.com/godfather/blog/2009/09/29/the_kartels_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekartel.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222003449id_/http%3A//www.thekartel.com/godfather/blog/2009/09/29/the_kartels_privacy_policy) for the most accurate reproduction.*
 
-# The Kartel > The Kartel's Privacy Policy
+# > Blog Post, thekartel.com
 
 It’s time to get into the juicy stuff. That is, if you like to real long drawn out legal notices and stuff. Hey, don’t knock it. Some people love this stuff. Today’s topic du jour: Privacy.
 
