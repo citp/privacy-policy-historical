@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verizon.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629121645id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizon.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001234id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
 
 # Verizon | About Verizon - Privacy Policy Summary
 
