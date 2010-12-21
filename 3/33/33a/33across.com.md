@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103045818id_/http%3A//www.33across.com/doc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33across.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221093608id_/http%3A//www.33across.com/privacy.php) for the most accurate reproduction.*
 
 # 33Across - Privacy Policy
 
-_December 2, 2008_
+_June 30, 2010_
 
-33Across, Inc. ("33Across") provides marketing technology and services to website owners and online marketers (our "Clients"). Our mission is to improve the online experience by delivering more relevant advertising to consumers. We consider the protection of user privacy and anonymity to be of paramount importance, and provide this privacy policy to inform consumers about how our technology collects and uses consumer data. This policy also outlines our privacy practices on our corporate Website ("Website"), www.33across.com. If you have any questions about this privacy policy, please feel free to contact us at [](https://web.archive.org/web/20100103045818id_/http%3A//www.33across.com/contact.php?d=pri). By visiting the Website, you are accepting the practices outlined in this privacy policy. This privacy policy does not apply to the practices of third parties that 33Across does not employ or manage.
+33Across, Inc. ("33Across") provides marketing technology and services to website owners and online marketers (our "Clients"). Our mission is to improve the online experience by delivering more relevant advertising to consumers. We consider the protection of user privacy and anonymity to be of paramount importance, and provide this privacy policy to inform consumers about how our technology collects and uses consumer data. This policy also outlines our privacy practices on our corporate Website ("Website"), www.33across.com. If you have any questions about this privacy policy, please feel free to contact us at [](https://web.archive.org/web/20101221093608id_/http%3A//www.33across.com/contact.php?d=pri). By visiting the Website, you are accepting the practices outlined in this privacy policy. This privacy policy does not apply to the practices of third parties that 33Across does not employ or manage.
 
 ## Privacy Practices for our Technology
 
@@ -12,7 +12,7 @@ _December 2, 2008_
 
 33Across provides technology services to Clients that enable them to collect and use Social Engagement Data to improve the relevance of advertising which appears on web pages. "Social Engagement Data" consists of anonymous information regarding the relationships between people, the website pages they visit and/or the actions they take on a website, such as installing or sharing applications, widgets or other content. For example, 33Across may collect Social Engagement Data when an individual visits a Client's webpage, installs or shares an application, or connects with friends from within one of our Client(s) websites. Data is only collected from the websites of Clients who use our services.
 
-Clients use the Social Engagement Data we capture to classify website users who are likely to share similar interests or preferences. For example, if a person expresses an interest in comedy films, our technology would help our Clients identify other people who are likely to enjoy comedy films based on similarities in Social Engagement Data between the different people. By using our technology, Clients categorize people with similar characteristics or interests, improving their ability to deliver more relevant advertising.
+Clients use the Social Engagement Data we capture to classify website users who are likely to share similar interests or preferences. For example, if a person expresses an interest in comedy films, our technology would help our Clients identify other people who are likely to enjoy comedy films based on similarities in Social Engagement Data between the different people. By using our technology, Clients categorize people with similar characteristics or interests, improving their ability to deliver more relevant advertising. 33Across maintains Social Engagement Data for up to 60 days for purposes of identifying people with similar characteristics or interests. After 60 days, Social Engagement Data is no longer used for these purposes, but is used for research and reporting on an aggregated basis for up to 2 years.
 
 You may encounter our technology when: you visit one of our Clients' websites; we purchase online advertisements on a website that you visit; and/or when our Clients purchase online advertisements on a website that you visit.
 
@@ -32,7 +32,9 @@ Nearly all websites, including those of our Clients, use a feature of your inter
 
 You are always free to decline to receive cookies, but by doing so you may not be able to use many common website features or take advantage of targeted advertising. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. (Each browser is different, so check the ''Help'' menu of your browser to learn how to change your cookie preferences.)
 
-Alternatively, you may click [HERE](https://web.archive.org/web/20100103045818id_/http%3A//www.33across.com/doc/optout.php "Clicking here will set an opt-out cookie") to opt-out of data collection and targeting cookies from 33Across. Opting out does not mean you will no longer receive online advertising. It does mean that 33Across will no longer deliver ads tailored to your Web preferences and usage patterns. The 33Across Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
+You may click [HERE](https://web.archive.org/web/20101221093608id_/http%3A//www.33across.com/opt-out.php?s=4 "Clicking here will set an opt-out cookie") to opt-out of data collection and targeting cookies from 33Across. Additionally, 33Across is a member of the Network Advertising Initiative (NAI) and is compliant with the NAI's Self-Regulatory Principles. You may click [HERE](http://www.networkadvertising.org/managing/opt_out.asp) to find out more about the NAI's Self-Regulatory Program and to opt out of 33Across and other NAI member company advertising programs.
+
+Opting out does not mean you will no longer receive online advertising. It does mean that 33Across will no longer deliver ads tailored to your Web preferences and usage patterns. The 33Across Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
 
 ## Privacy Practices for our Website
 
@@ -46,7 +48,7 @@ We collect Non-Personally Identifiable Information ("Non-PII") from all visitors
 
 ### Cookies
 
-We use persistent cookies on this Website in order to help us manage the opt-out process for our technology. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For more information about cookies please visit http://www.allaboutcookies.org/cookies/. No PII is collected by or associated with cookies from this Website. We do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is. For information on our opt-out process, please review the section of this privacy policy entitled "Usage of Cookies" above. Some of our business partners may use cookies on our Website (for example, advertisers). However, we have no access to or control over these cookies.
+We use persistent cookies on this Website in order to help us manage the opt-out process for our technology. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For more information about cookies please visit [All About Cookies](http://www.allaboutcookies.org/cookies/). No PII is collected by or associated with cookies from this Website. We do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is. For information on our opt-out process, please review the section of this privacy policy entitled "Usage of Cookies" above. Some of our business partners may use cookies on our Website (for example, advertisers). However, we have no access to or control over these cookies.
 
 ### Third Party Websites
 
@@ -54,7 +56,7 @@ The 33Across Website may contain links to and advertisements for websites operat
 
 ### Updating / Deleting your PII
 
-Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the 33Across Website, please send your request to us at [](https://web.archive.org/web/20100103045818id_/http%3A//www.33across.com/contact.php?d=pri) and we will process your request within a reasonable period of time after receipt. Please note that some information may remain in our records after your deletion request.
+Although we don't collect PII via our Technology, if you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the 33Across Website, please send your request to us at [](https://web.archive.org/web/20101221093608id_/http%3A//www.33across.com/contact.php?d=pri) and we will process your request within a reasonable period of time after receipt. Please note that some information may remain in our records after your deletion request.
 
 ## General Privacy Information
 
@@ -62,11 +64,11 @@ Although we don't collect PII via our Technology, if you'd like us to update, co
 
 The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to, the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
-If you have any questions about our security practices, please send an email to us at [](https://web.archive.org/web/20100103045818id_/http%3A//www.33across.com/contact.php?d=pri).
+If you have any questions about our security practices, please send an email to us at [](https://web.archive.org/web/20101221093608id_/http%3A//www.33across.com/contact.php?d=pri).
 
 ### Information Relating to Children
 
-Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records.
+Our products and services are designed for those 18 years of age and older. We do not knowingly collect any data from anyone under the age of 13. If we are made aware that we have received any data from anyone under the age of 13, we will use reasonable efforts to remove that information from our records.
 
 ### Disclosure of Information to Third Parties
 
@@ -88,7 +90,7 @@ If you decide to visit the Website, your visit and any possible dispute over pri
 
 ### Contact Information
 
-For questions or concerns relating to privacy, please send us an email at [](https://web.archive.org/web/20100103045818id_/http%3A//www.33across.com/contact.php?d=pri). Alternatively, you may contact us at the address below:
+For questions or concerns relating to privacy, please send us an email at [](https://web.archive.org/web/20101221093608id_/http%3A//www.33across.com/contact.php?d=pri). Alternatively, you may contact us at the address below:
 
 33Across Inc.  
 Attn: Privacy Officer  
