@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618091046id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221094759id_/http%3A//nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Nethouseprices.com - Privacy
 
@@ -21,10 +21,13 @@ Occasionally the selections you make when using our services may indicate inform
 **4\. How we use the Information you provide**   
 We use the information we collect to supply our services to you. We may also use your contact details to communicate with you. We may contact you by email. If you do not wish us to contact you - you may cancel your membership at any time. We may use your information to send you information on Nethouseprices, the UK property market and special offers or promotions relating to Nethouseprices. When we send general property market information it may contain links to other sites of interest offering promotion
 
-**5\. Other web sites**   
+**5\. Other web sites**  
 Please note that where we provide links to third party websites that are not affiliated with Nethouseprices such sites are out of our control and are not covered by this privacy policy, regardless of whether they use our branding or logo on their websites. If you access third party sites using the links provided, the operators of these sites may collect information from you that could be used by them, in accordance with their own privacy policies.
 
-**6\. Cookies**   
+**6\. Advertisements**  
+Our Web site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Web site. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and the opt-out procedures of Hi-media generally, please visit the information on URL <http://www.hi-media.com/infoLegale.html?lang=en>. Furthermore, the Company agrees that at all times during the term of this Agreement that it will comply with all applicable privacy and data protection laws including, but not limited to European Directive 95/46/EC.
+
+**7\. Cookies**   
 **Use of Cookies on our site**   
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. 
 
@@ -97,10 +100,10 @@ The called P3P (Privacy Preferences Platform) to match your preferences with the
 Set preferences on [Netscape 7](http://www.allaboutcookies.org/manage-cookies/pref-netscape7.html)  
 
 
-**7\. Children**   
+**8\. Children**   
 We do not allow persons who we know to be 18 or younger to become members of Nethouseprices.com and do not, therefore, knowingly solicit personal information from persons aged 18 or younger or share such information with third parties. 
 
-**8\. General**   
+**9\. General**   
 Your personal information will be held and used by us in accordance with UK data protection legislation. You have a right to access the personal information that is held about you. To obtain a copy of the personal information Nethouseprices holds relating to you, please write to us at Nethouseprices (for full address please see our Contact page), enclosing your name, address, and a cheque for £10 payable to Nethouseprices Ltd., giving details of your name, address and email address. 
 
 We may change this privacy policy from time to time. Any change will take effect once the revised privacy policy is available on the Nethouseprices.com home page. 
