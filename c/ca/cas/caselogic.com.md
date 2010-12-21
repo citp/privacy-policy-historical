@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622040224id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221224917id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
 # CD Cases, DVD Cases, MP3 Cases, Laptop Cases, Camera Cases, CD Wallets, DVD Wallets, iPod Cases, Laptop Sleeves - Case Logic
 
-[Home](https://web.archive.org/index.cfm) › [Help Center](https://web.archive.org/help/) › Privacy
-
-## Our Privacy Policy
-
-Last Updated: 7/14/05; We understand and share your concern about privacy. We want to assure you that Case Logic and its vendors (collectively, "Case Logic" or "We" or "Our") respect your privacy and treat your personal information with the highest commercially reasonable standards of safety, security and confidentiality. To better protect your privacy, We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [help@online.caselogic.com](mailto:help@online.caselogic.com).
+We understand and share your concern about privacy. We want to assure you that Case Logic and its vendors (collectively, "Case Logic" or "We" or "Our") respect your privacy and treat your personal information with the highest commercially reasonable standards of safety, security and confidentiality. To better protect your privacy, We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [help@online.caselogic.com](mailto:help@online.caselogic.com).
 
   * What information does Case Logic collect?
   * Our use of your information
