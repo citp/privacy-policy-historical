@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510073340id_/http%3A//pinoyjobs.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221083527id_/http%3A//pinoyjobs.ph/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Find pinoy jobs, trabaho at PinoyJobs.ph - Jobs in Philippines
+# Privacy Policy - Free Online Job Posting - PinoyJobs.ph
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
