@@ -1,45 +1,8 @@
-> *The following text is extracted and transformed from the ticketsatwork.com privacy policy that was archived on 2007-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071030183627id_/http%3A//ticketsatwork.com/tickets/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsatwork.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221033122id_/https%3A//ticketsatwork.com/tickets/privacy.php) for the most accurate reproduction.*
 
 # TicketsAtWork.com
 
-Walt Disney World®Resort
-
-, , , , , , , , , , , , , , , , , 
-
-Universal Orlando® Resort
-
-Orlando & Tampa Attractions
-
-, , , , , , , , , , , , , , , , 
-
-South Florida Attractions
-
-South Florida Event Specials, Concerts & Sports
-
-California Theme Parks & Attractions
-
-, , , , , , , , , , , , , , , , , 
-
-New York Event & Broadway Specials
-
-_Cirque Du Soleil_ \- Touring Across America
-
-Nationwide Theme Parks & Attractions
-
-, , , , , , , , , , 
-
-Movie Tickets & Rentals
-
-, , , , , , , , , , , , , , 
-
-City Pass Tickets
-
-Rental Cars
-
-|  **Advertisement**  
----  
-[](http://www.premiumseatsusa.com/)  
-| 
+|  | 
 
 **Privacy Policy**
 
@@ -47,15 +10,15 @@ TicketsAtWork.com is owned and operated by Entertainment Benefits Group, Inc. /E
 
 The following discloses our information gathering and dissemination practices. Entertainment Benefits Group, Inc. / EBG is strongly committed to protecting the privacy of its Members. The intent of this privacy policy is to detail the information EBG may gather about individuals who visit its Web sites, how that information is used, and its disclosure practices. Please note that this policy applies only to EBG's websites and not to the Web sites of our partners, other companies, or organizations to which we provide links. 
 
-**Your Personal Information** We do not collect personal information when you visit our site unless you complete an optional registration, submit a survey, or enter a contest. If you do register, submit a survey or enter a contest, it is Entertainment Benefits Group, Inc.'s, practice never to disclose any of your personal information to third parties. When providing personal information, we may ask for contact information such as name, postal address and email address. With your permission, we will use this contact information to send newsletters, information about EBG or other promotional materials. You always have the option of discontinuing future mailings. To do so, please contact the company directly by using the information found in the "Contact Us" section below, or simply follow the link provided in any mailing. 
+**Your Personal Information** We do not collect personal information when you visit our site unless you complete an optional registration, submit a survey, make a purchase, or enter a contest. If you do register, submit a survey, make a purchase or enter a contest, it is Entertainment Benefits Group, Inc.'s, practice never to disclose any of your personal information to third parties. When providing personal information, we may ask for contact information such as name, postal address and email address. With your permission in providing your information to us, we will use this contact information to send newsletters, information about EBG or other promotional materials. You always have the option of discontinuing future mailings. To do so, please contact the company directly by using the information found in the "Contact Us" section below, or simply follow the link provided in any mailing. 
 
 We use email links or Web forms throughout our site for customer comments and suggestions. We will make every effort to respond to your questions or comments in a prompt manner. Any information we collect from emails or Web forms is used for the purpose of responding to the questions or comments. We may also file your comments to improve the site and program, or review and discard the information. 
 
-EBG is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. EBG may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless we either have your permission or believe in good faith that the law requires it. 
+EBG is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. EBG may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless you have provided us with your information by registering or making a purchase, we either have your permission or believe in good faith that the law requires it. 
 
 **Third Parties** TicketsAtWork.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. EBG recommends you consult the privacy policies of our third party partners prior to providing any personal information. 
 
-**Purchases** When you place an order on TicketsAtWork.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). If necessary, we will use your personal information to contact you for account purposes. 
+**Purchases** When you place an order on TicketsAtWork.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). If necessary, we will use your personal information to contact you for account purposes and/or to present you with new offers and promotions. Please note that on all correspondence, with respect to sending you electronic communications with new offers and special discounts- you have the ability to unsubscribe from receiving additional emails from EBG by clicking the "unsubscribe" link.. 
 
 **Contests or Surveys** In the case of promotions or surveys, personal data will be collected. Such surveys or contests may ask you for personal information, which may include demographic details (e.g., ZIP code, age or income level). If necessary, we will use your personal information to contact you regarding your entry. This information is also collected for the purpose of verifying eligibility and in some case entrant preferences. In these cases information will be passed on only in anonymous aggregate form unless otherwise specifically stated. Whereas it is specifically stated that this information will be passed on there will be an option available to have personal information withheld and information will only be used for clearly defined purposes. 
 
@@ -76,8 +39,11 @@ We use industry-standard SSL authentication to protect the confidentiality and p
 Direct questions or concerns to:
 
 Email: [privacyissues@entertainmentbenefits.com](mailto:privacyissues@entertainmentbenefits.com)  
-Address: One Oakwood Blvd, Suite 140   
-Hollywood, FL 33020  
+Address: 19495 Biscayne Boulevard Suite 600  
+Aventura, FL 33180  
 Fax: (954) 342-2906 
 
 Thank you for taking the time to review our privacy policy. Your privacy is very important to us we promise to protect it. 
+
+|   
+---|---|---|---
