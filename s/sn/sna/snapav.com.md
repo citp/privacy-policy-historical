@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapav.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601074543id_/http%3A//www.snapav.com/snapav/StaticPages.ASPX%3FID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapav.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221170637id_/http%3A//www.snapav.com/snapav/StaticPages.ASPX%3FID%3D26) for the most accurate reproduction.*
 
-# SnapAV Static Pages
+# SnapAV
 
 ## Privacy Policy:
 
