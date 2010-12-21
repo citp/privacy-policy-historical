@@ -1,28 +1,20 @@
-> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207194547id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221165158id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.html) for the most accurate reproduction.*
 
 # MySQL :: Web Privacy Policy
 
+Personal information you provide (or have provided) to MySQL or Sun Microsystems Inc. may be shared with Oracle to support ongoing business and communication processes. If you do not wish to be contacted Oracle, please see "Choice/Opt out Procedure" below or send an email to [privacy_ww@oracle.com](mailto:privacy_ww@oracle.com).
+
 ## Purpose and Scope
 
-This policy discloses what information we gather about you when you visit MySQL.com or any other web site that MySQL AB controls ("Web site") or when you buy products or services directly from us via this Web site. It describes how we use your information and how you can control it.
+This policy discloses what information we gather about you when you visit dev.MySQL.com ("Web site") or when you buy products or services directly from us via this Web site. It describes how we use your information and how you can control it.
 
 Whatever individually identifiable information we may have about you, you may at any time ask us to stop using it (see Choice / Opt out section below).
 
-## Information MySQL Gathers and Tracks
+## Information dev.MySQL Gathers and Tracks
 
-MySQL AB and its subsidiaries ("MySQL") collect and use two kinds of information about our web users:
+Dev.MySQL.com and MySQL.com ("MySQL") may collect and use two kinds of information about our web users:
 
-  1. data that users volunteer to provide by 
-    * subscribing to the MySQL Newsletters
-    * registering for white papers, webinars (i.e. web seminars) or other events that MySQL hosts (e.g. User Conference)
-    * voluntary registering in conjunction with a download
-    * contacting MySQL
-    * through the "Contact Us" button on the Web site
-    * entering contests
-    * completing surveys
-    * buying directly from us via this Web site or downloading the MySQL software products
-    * registering as a partner
-    * reporting support incidents to MySQL; and
+  1. data that users volunteer to provide by subscribing to the MySQL Newsletters registering for white papers, webinars (i.e. web seminars) or other events that MySQL hosts (e.g. User Conference) voluntary registering in conjunction with a download contacting MySQL through the "Contact Us" button on the Web site entering contests completing surveys buying directly from us via this Web site or downloading the MySQL software products registering as a partner reporting support incidents to MySQL; and
   2. aggregated tracking data we collect when users interact with us.
 
 
@@ -31,7 +23,7 @@ MySQL AB and its subsidiaries ("MySQL") collect and use two kinds of information
 
 Our Web site offers various options to contact us and to provide personal information to MySQL. If you decide to provide personal information to us you may at any time at your convenience opt-out of any future use of your data and request the deletion of information you have provided to us before (see Choice / Opt out section below).
 
-When you complete the [MySQL Contact and Questions Form](http://www.mysql.com/company/contact/) you have to provide the following mandatory information: first and last name, e-mail address, state/province, country, ZIP/postal code, subject, your question/comments, and the intended primary use of MySQL products/services. MySQL may add further mandatory fields such as the version of the MySQL software you intend to use.
+When you complete the [MySQL Contact and Questions Form](https://web.archive.org/contact/) you have to provide the following mandatory information: first and last name, e-mail address, state/province, country, ZIP/postal code, subject, your question/comments, and the intended primary use of MySQL products/services. MySQL may add further mandatory fields such as the version of the MySQL software you intend to use.
 
 When you register for a white paper or webinar you are asked to provide your first and last name, job function, company/organization, primary business activity, e-mail address, state/province, country, ZIP/postal code, and the intended primary use of MySQL products/services. MySQL may add further mandatory fields.
 
@@ -51,7 +43,7 @@ MySQL may decide to change the composition of the data forms on the Web site at 
 
 We use your personal information to send you information, contact you, fulfill orders, and for other uses described below as the case may be. The specific use of your personal information varies, depending on how you contact us. For instance:
 
-  * When you subscribe to the public MySQL mailing lists to receive MySQL news and product information, you must provide your correct email address. Please note that MySQL mailing lists are archived by several third party sites and your email address can be found from their archives. MySQL AB doesn't operate or have control over those archives.
+  * When you subscribe to the public MySQL mailing lists to receive MySQL news and product information, you must provide your correct email address. Please note that MySQL mailing lists are archived by several third party sites and your email address can be found from their archives. MySQL doesn't operate or have control over those archives.
   * When you order or download any MySQL product or service or request information from us or register for a white paper or Webinar, we add you to our mailing lists and will contact you from time to time with respect to MySQL related issues. We may also occasionally share such information with selected MySQL resellers and partners who may contact you to further discuss your needs for additional products and services.
   * When you enter a contest or survey, we may ask for your name, address, and email address so we can administer the contest and notify winners. You may also decide to enter a contest or survey in an anonymous mode without our ability to identify you as a winner.
   * In general, we use your contact information from the entry form to send you information about our company and its products, or to contact you when it becomes necessary (notices like updates, patches, etc.).
@@ -62,7 +54,7 @@ We use your personal information to send you information, contact you, fulfill o
 
 MySQL's personnel and entrusted third parties may have access to the personal information you provide to us on a need-to-know basis from any country in which MySQL's personnel is located. This means that your information may be accessed also from countries like the United States of America which may not have an adequate or similar level of data protection as your home country. We still take your privacy seriously and protect your personal information in all such countries as set forth in this Web Privacy Policy.
 
-We will disclose your personal information in order to comply with applicable law, to respond to legal demands such as subpoena or search warrants, to protect the rights, property, or safety of MySQL AB and our users. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We will disclose your personal information in order to comply with applicable law, to respond to legal demands such as subpoena or search warrants, to protect the rights, property, or safety of MySQL and our users. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 In addition, MySQL and its partners or sponsors may engage in joint events or resell each others products. Such promotions will always reference the partners involved. Both MySQL and the partner(s) will have access to the information you provide when you register for such joint or sponsored event on the Website. We may also entrust a partner or third party to contact our users in order to promote the MySQL products and services.
 
@@ -74,13 +66,15 @@ Our website also automatically captures IP addresses of our visitors. We use IP 
 
 As part of our approach to providing personalized services on our web site, MySQL uses cookies to store and sometimes track information about you. A cookie is a small data file sent to your browser from a web server to be stored on your hard drive that allows easier access the next time the same page is visited. For example, a cookie is sent when you register or sign in to this site. With your consent, cookies can store information from forms you fill out to create a user profile so that you do not have to re-enter the information each time you visit. Cookies may also be used to identify from and to which other web sites you accessed our Web site.
 
-If you do not want your personal information to be stored by cookies, you can configure your browser so that it notifies you whenever a cookie is received so you can decide each time if you accept them or not. However, the use of cookies may be necessary to provide certain features and choosing to reject cookies may reduce the functionality of the site. Your browser help should include precise instructions explaining how to define the acceptance of cookies.
+If you do not want your personal information to be stored by cookies, you can configure your browser so that it notifies you whenever a cookie is received so you can decide each time if you accept them or not. However, the use of cookies may be necessary to provide certain features and choosing to reject cookies may reduce the functionality of the site. 
+
+Your browser help should include precise instructions explaining how to define the acceptance of cookies.
 
 We use this tracking information to improve our sites, to make customized information and offers available to our users (e.g. advertisements) and to understand purchasing habits of our customers. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user.
 
 ## Disclaimer for Links
 
-This Web site contains links to other sites. MySQL AB is not responsible for the privacy practices or the content of other sites even if MySQL doesn't expressly disclaim the liability for a linked site. You may determine whether or not MySQL is responsible for the content of the site by reviewing the URL and confirming the ownership of the applicable domain by means of a service such as [whois.com](http://whois.com/).
+This Web site contains links to other sites and we are not responsible for the privacy practices or the content of other sites even if MySQL doesn't expressly disclaim the liability for a linked site. You may determine whether or not MySQL is responsible for the content of the site by reviewing the URL and confirming the ownership of the applicable domain by means of a service such as [whois.com](http://whois.com/).
 
 ## Security
 
@@ -98,19 +92,26 @@ Our Web site provides users the opportunity to opt-out of receiving communicatio
 
 This site also gives users the following options for removing their information from our database so that they no longer receive future communications or access to our other services:
 
-  1. You can send email to [privacy@mysql.com](mailto:privacy@mysql.com), stating your request.
+  1. You can send email to [privacy_ww@oracle.com](mailto:privacy_ww@oracle.com), stating your request.
   2. You can reply to any unwanted communications that you receive, stating your request or unsubscribe.
 
 
 
 ## Reviewing personal data
 
-You can review and validate the information, that we have collected about you by sending email to [privacy@mysql.com](mailto:privacy@mysql.com) and requesting a review of your personal data. You may be asked to present documentation that identifies you as the person whose data is concerned.
+You can review and validate the information, that we have collected about you by sending email to [privacy_ww@oracle.com](mailto:privacy_ww@oracle.com) and requesting a review of your personal data. You may be asked to present documentation that identifies you as the person whose data is concerned.
 
 ## Contacting the Web Site
 
-If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, we welcome you to contact [webmaster@mysql.com](mailto:webmaster@mysql.com) and/or [privacy@mysql.com](mailto:privacy@mysql.com).
+If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, we welcome you to contact [privacy_ww@oracle.com](mailto:privacy_ww@oracle.com).
 
-[**Download Web Privacy Policy (PDF)  »**](https://web.archive.org/web/20100207194547id_/http%3A//www.mysql.com/about/legal/mysql_web_privacy_policy.pdf)
+## Corporate Headquarters
 
-**Last modified: January 1, 2008**
+Our corporate headquarters is located at:
+
+500 Oracle Parkway  
+Redwood Shores, CA 94065  
+Tel: +1 650.506.7000  
+Fax: +1 650.506.7200
+
+**Last modified: April 9, 2010**
