@@ -1,36 +1,22 @@
-> *The following text is extracted and transformed from the nsspy.org privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224181555id_/http%3A//www.nsspy.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsspy.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221112248id_/http%3A//nsspy.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - NSSpy.org
 
-**PRIVACY STATEMENT**
+The privacy of our visitors to nsspy.org is important to us.
 
-Thank you for visiting www.nsspy.org (our "Site"). We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information and whether we disclose that information to anyone. 
+At nsspy.org, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit nsspy.org, and how we safeguard your information. We never sell your personal information to third parties.
 
-**What Information We Collect and How We Use It**
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-Any information we collect on our Site generally falls into the Personally Identifiable Information category.
+**Cookies and Web Beacons**  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-Personally Identifiable Information: This refers to information that lets us know specifically who you are. In general, you can visit our Site without telling us who you are or revealing any Personally Identifiable Information. 
+We also use third party advertisements on nsspy.org to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
-Ordering - When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transaction information). We use this information to deliver your order, process payment, and to communicate with you about the status of your order. Credit card information submitted with your order is used only for payment processing and is not retained on our Site. You may request your purchase be shipped by common carrier, in which case certain information will be shared with the respective carrier for delivery purposes. 
+**DoubleClick DART cookies**  
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
-**Sharing Your Information**
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Except as disclosed in this Privacy Statement, we do not sell, trade, rent, or otherwise retransmit any Personally Identifiable Information we collect online unless we have your permission. Any Personally Identifiable Information you provide to us will be used for your purchases and retained in hard copy form of the original invoice as well as within our database system, which generates our invoices. 
-
-From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Limited Warranty or to protect the rights, property, and safety of others and ourselves. 
-
-**Links To Other Web Sites**
-
-Links to third-party Web sites may be provided solely for your information and convenience, or to provide additional information for various other goods and services. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those Web sites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit. 
-
-**Changes To This Statement**
-
-Any updates or changes to the terms of this Privacy Statement will be posted here on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. 
-
-By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
-
- **Contact Us**
-
-If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to [info@nsspy.org](mailto:info@nsspy.org). We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.  
-
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
