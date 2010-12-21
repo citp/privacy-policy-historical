@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the questional.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326095824id_/http%3A//questional.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questional.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221013408id_/http%3A//questional.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Questional
+# Privacy Policy
 
 **Effective Date February 8, 2009**
 
