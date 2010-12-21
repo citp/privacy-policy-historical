@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411091913id_/http%3A//servicearizona.com/content.jsp%3FdocName%3DSAZHomePrivacy%26h%3D1600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221034915id_/http%3A//servicearizona.com/content.jsp%3FdocName%3DSAZHomePrivacy%26h%3D1600) for the most accurate reproduction.*
 
 # ServiceArizona - Privacy Policy
 
@@ -19,7 +19,7 @@ Your rights to privacy are of utmost importance to the Arizona Department of Tra
 
 ##  Online Customer Service and Alternatives
 
-ServiceArizona offers many of the services online that you might otherwise transact in person with MVD. Our goal is to provide citizens with a more convenient and efficient means in which to interact with Arizona Government. If at any time you choose not to proceed with a transaction offered through the ServiceArizona web site, your choice will in no way affect your ability to receive services. If you prefer to apply for services in person, you may do so at one of MVD's field offices or Authorized Third Party Provider locations. [For a listing of those locations nearest to you, click on "Nearest Offices" on the ServiceArizona main page's Information section.](http://www.dot.state.az.us/mvd/OfficeHourssql/ofclink.asp)
+ServiceArizona offers many of the services online that you might otherwise transact in person with MVD. Our goal is to provide citizens with a more convenient and efficient means in which to interact with Arizona Government. If at any time you choose not to proceed with a transaction offered through the ServiceArizona web site, your choice will in no way affect your ability to receive services. If you prefer to apply for services in person, you may do so at one of MVD's field offices or Authorized Third Party Provider locations. [For a listing of those locations nearest to you, click on "Nearest Offices" on the ServiceArizona main page's Information section.](http://www.azdot.gov/mvd/OfficeHourssql/ofclink.asp)
 
 ##  Collection and Use of Information
 
