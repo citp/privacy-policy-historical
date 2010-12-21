@@ -1,59 +1,35 @@
-> *The following text is extracted and transformed from the motocross.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629011004id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motocross.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221095905id_/http%3A//www.motocross.com/moto/page/service) for the most accurate reproduction.*
 
-# GrindTV.com Privacy Policy
+# Motocross, Motocross Gear, Motocross and Supercross Videos, Motocross Race Coverag, Motocross Riding Apparel, Motocross News, Motocross Girls - Motocross.com
 
-### General
+**General**
 
-#### GrindTV.com collects personal information when you register with or subscribe to GrindTV.com, when you use GrindTV.com services, when you visit GrindTV.com pages or the pages of certain GrindTV.com partners, and when you enter promotions or sweepstakes. GrindTV.com may combine information about you that we have with information we obtain from business partners or other companies. 
+Motocross.com collects anonymous information for the following general purposes: to customize the advertising and content you see, improve our products and services, and provide anonymous reporting for internal and external clients.
 
-When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with GrindTV.com and sign in to our services, you are not anonymous to us. 
+From time to time, Motocross.com may collects personal information when you provide product reviews or subscribe to Motocross.com newsletters, emails, or promotions. Should you voluntarily provide Motocross.com personal information to us, your use of our site will remain anonymous to us, or partners, and any other parties.
 
-GrindTV.com collects information about your transactions with us and with some of our business partners. 
+Motocross.com automatically receives and records information on our server logs including browser type and language, your IP address, the date and time of your visit, and the pages your browse. This information is used for the sole purpose of improving our service, monitoring trends, and is completely anonymous.
 
-GrindTV.com automatically receives and records information on our server logs from your browser, including your IP address, GrindTV.com cookie information, and the pages of videos you request. 
+Motocross.com may provide you with one or more cookies which facilitate access to our website(s) and to personalize your online experience. Our cookies do not contain personal information about you.
 
-GrindTV.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+**Information Collected by 3rd Parties**
 
-### Information Sharing and Disclosure
+Motocross.com allows third parties to display, advertise, and market their products and services on Motocross.com. These service providers may collect information about you using cookies that are intended to track the performance and/or effectiveness of their advertising. Motocross.com does not share your information with these companies.
 
-#### GrindTV.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+During the course of browsing Motocross.com you may click on a link to another websites, retailer, or other online resouce. Motocross.com does not provide your personal information to these websites; however, we may provide them with limited information about your click such as the time and date of your click.
 
-We provide the information to trusted partners who work on behalf of or with GrindTV.com under confidentiality agreements. These companies may use your personal information to help GrindTV.com communicate with you about offers from GrindTV.com and our marketing partners. However, these companies do not have any independent right to share this information. 
+These websites may independently collect information, including personal information, from you as necessary to complete a purchase and or participate in promotions. Motocross.com does not collect your personal information, or have access to personal information you may provide from these websites during your visit; however in some instances, these websites may provide us with anonymous non-personally identifying information about your activities, purchases, registrations, etc while visiting these websites. 
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+**Information Sharing and Disclosure**
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of GrindTV.com's terms of use, or as otherwise required by law. 
+Motocross.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstance:
 
-We transfer information about you if GrindTV.com is acquired by or merged with another company. In this event, GrindTV.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+We are legally required to through subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
 
-GrindTV.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, men ages 18-24 from a particular geographic area. 
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding situations involving potential threats to the physical safety of any person, violations of Motocross.com's terms of use, illegal activities, suspected fraud, or as otherwise required by law.
 
-GrindTV.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+We believe the personal information my be from children under the age of 13 and are doing so to comply with the Children's Online Privacy Protection Act.
 
-GrindTV.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+**Changes to this Policy**
 
-GrindTV.com works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
-
-### Cookies
-
-####  GrindTV.com may set and access GrindTV.com cookies on your computer. 
-
-GrindTV.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to GrindTV.com's cookies. 
-
-GrindTV.com may use web beacons to access GrindTV.com cookies inside and outside our network of web sites and in connection with GrindTV.com products and services. 
-
-### Confidentiality and Security
-
-#### We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-We have physical and procedural safeguards to protect personal information about you. 
-
-### Changes to this Privacy Policy
-
-#### GrindTV.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your GrindTV.com account or by placing a prominent notice on our site.
-
-### Questions and Suggestions
-
-####  If you have questions or suggestions, please contact us at [help@grindtv.com](mailto:help@grindtv.com "help@grindtv.com")
-
- _Effective Date: September 1, 2005_
+From time to time, Motocross.com may amend, change, or update this privacy policy. Should these changes modify the way we use personal information prided to us, we will notify you by sending you an email to the email address you provided and updating our website.
