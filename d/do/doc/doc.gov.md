@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630162818id_/http%3A//www.commerce.gov/ssNODELINK/286) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221140230id_/http%3A//www.commerce.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Commerce
 
@@ -72,4 +72,4 @@ Except for authorized law enforcement investigations, no other attempts are made
 
 The Office of the Secretary may share information received from its Web sites with other Federal agencies. For example, if a breach of our IT security protections were to occur, the information collected by our servers and staff could be shared with appropriate law enforcement and Homeland Security officials. Department of Commerce Endorsement Policy: links to web sites outside the U.S. Federal Government or the use of trade, firm, or corporation names within the Department of Commerce web sites are for the convenience of the user. Such use does not constitute an official endorsement or approval by the U.S. Commerce Department of any private sector website, product, or service. 
 
-**Dispute Resolution:** If for some reason you believe this site has not adhered to these principles, please notify the U.S Department of Commerce, Office of the CIO by e-mail at [webmaster@doc.gov](mailto:webmaster@doc.gov). If our web pages are not fully in compliance with our stated policies, they will be corrected.
+**Dispute Resolution:** If for some reason you believe this site has not adhered to these principles, please notify the U.S Department of Commerce, Office of the CIO by e-mail at [webmaster[at]doc[dot]gov](https://web.archive.org/contact/webmaster/doc/gov). If our web pages are not fully in compliance with our stated policies, they will be corrected.
