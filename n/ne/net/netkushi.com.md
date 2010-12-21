@@ -1,45 +1,27 @@
-> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305234609id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221215713id_/http%3A//netkushi.com/privacy-policy) for the most accurate reproduction.*
 
-# netkushi.com Social networking site (Friends Community)
+# Privacy Policy for netkushi.com
 
-Netkushi.com endeavors to be as up front as possible about the personal information collected in our site. In an effort to maintain this stance, we provide this privacy statement.
+Privacy Policy for netkushi.com
 
- **Site Content**
+The privacy of our visitors to netkushi.com is important to us.
 
-This site may contain links and content to other sites outside our control. Netkushi.com is not responsible for the privacy practices or the content of such websites.
+At netkushi.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit netkushi.com, and how we safeguard your information. We never sell your personal information to third parties.
 
- **Security**
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here – http://www.networkadvertising.org/managing/opt_out.asp.
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+Log Files  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
- **Information Collected**
+Cookies and Web Beacons  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.  Furthermore,
 
-1\. THIS SITE USES cookies to store personal data. This practice is in no way an effort to compromise privacy but instead simplifies site administration and site use by recording commonly used data.  
-2\. WE WILL collect the personal data that you may volunteer while using our services.  
-3\. WE WILL NOT collect information about our visitors from other sources, such as public records or bodies, or private organizations.  
-4\. WE WILL NOT disclose your personal data to our subsidiaries or other organizations. 
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Children's Guidelines**
+We also use third party advertisements on netkushi.com  to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-1\. WE WILL NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.  
-2\. WE WILL NOT collect personally identifiable offline contact information without prior parental consent.  
-3\. WE WILL NOT distribute to third parties any personally identifiable information without prior parental consent.  
-4\. WE WILL NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
- **Choice/Opt-Out**
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-You can send us e-mail to roveralex18@yahoo.com or contact@netkushi.com 
-
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-You can send us e-mail to roveralex18@yahoo.com or contact@netkushi.com 
-
-**Contacting the website**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
-
-roveralex18@yahoo.com or contact@netkushi.com
+Rating: 0.0/ **10** (0 votes cast)
