@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mybusinessin20minutes.com privacy policy that was archived on 2010-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100519110636id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusinessin20minutes.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221130320id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 **Privacy Policy**
 
-The Copywriting Secret, LLC has been in business since 1999. We take your privacy and security very seriously. 
+117Network, LLC has been in business since 2008. We take your privacy and security very seriously. 
 
 In order to demonstrate our commitment to share our policies on information gathering, privacy, security, return, and more...
 
