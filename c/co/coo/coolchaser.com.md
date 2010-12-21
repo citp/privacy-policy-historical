@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603034651id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221071730id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CoolChaser
 
@@ -49,6 +49,8 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
     * Google, as a third party vendor, uses cookies to serve ads on your site.
     * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
     * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_cookies.html)
+    * Some third-party advertising companies use Flash cookies, users may remove and reject all Flash cookies directly from [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 
 
