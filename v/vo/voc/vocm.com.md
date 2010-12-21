@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the vocm.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414192507id_/http%3A//www.ncc.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocm.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221025042id_/http%3A//www.ncc.ca/privacy.asp) for the most accurate reproduction.*
 
 # NewCap Radio | Privacy Policy
 
-  
 This privacy policy applies to the use of all newcap radio websites 
 
 We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
@@ -68,3 +67,23 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 902-468-7557 
 
 This privacy policy was last updated on April 1, 2008. 
+
+12/9/2010
+
+NEWFOUNDLAND CAPITAL CORPORATION LIMITED ANNOUNCES DECLARATION OF DIVIDEND
+
+[](https://web.archive.org/web/20101221025042id_/http%3A//www.ncc.ca/docs/854140_12-9-2010.pdf)
+
+11/19/2010
+
+NCC Purchases Shares Under Its Normal Course Issuer Bid
+
+[](https://web.archive.org/web/20101221025042id_/http%3A//www.ncc.ca/docs/561368_11192010.pdf)
+
+10/28/2010
+
+Newfoundland Capital files amended Normal Course Issuer Bid notice with the TSX
+
+[](https://web.archive.org/web/20101221025042id_/http%3A//www.ncc.ca/docs/290307_oct282019.pdf)
+
+[](http://support.streamtheworld.com/help_streaming.php)
