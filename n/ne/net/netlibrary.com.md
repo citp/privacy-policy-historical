@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210195933id_/http%3A//www.netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221083910id_/http%3A//netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NetLibrary - Privacy Policy
 
-NetLibrary, a division of OCLC Online Computer Library Center, Inc., an Ohio nonprofit corporation, is committed to protecting end-user privacy online. We believe that electronic privacy is crucial for the ongoing success of the Internet. Except as provided in this policy, we will not disclose personally-identifiable information about an end-user to any third party without the end-user's consent. 
+NetLibrary, a division of EBSCO Publishing, is committed to protecting end-user privacy online. We believe that electronic privacy is crucial for the ongoing success of the Internet. Except as provided in this policy, we will not disclose personally-identifiable information about an end-user to any third party without the end-user's consent. 
 
 I. **Information We Collect**
 
