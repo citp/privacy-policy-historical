@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the eventbee.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528104009id_/http%3A//www.eventbee.com/portal/helplinks/privacystatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbee.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221223442id_/http%3A//www.eventbee.com/portal/helplinks/privacystatement.jsp) for the most accurate reproduction.*
 
 # Eventbee
 
-|  |  |  |   
 | 
 
 Eventbee PRIVACY POLICY 
@@ -56,6 +55,4 @@ Correcting and Updating Your Information
 To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a Eventbee Web site, click the My profile link after login. You can also correct and update information by e-mailing support@Eventbee.com   
 Additional Information  
   
-Questions regarding this Privacy Policy or the security practices of the Services should be directed to Eventbee's Security Administrator by e-mailing support@eventbee.com.   
-|  |  |  |  |   
----|---|---|---|---|---
+Questions regarding this Privacy Policy or the security practices of the Services should be directed to Eventbee's Security Administrator by e-mailing support@eventbee.com. 
