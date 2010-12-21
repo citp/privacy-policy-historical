@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbodydesign.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043742id_/http%3A//www.carbodydesign.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbodydesign.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222005416id_/http%3A//www.carbodydesign.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Car Body Design
 
@@ -93,8 +93,9 @@ This Site contains content, services, advertising and other materials that link 
 > **FTM Studio S.r.L.**
 > 
 > Via Attilio Friggeri 96  
->  00136 Rome (Italy)  
->  Email: info@ftmstudio.net
+>  00136 Rome (Italy)
+> 
+> Email: info@ftmstudio.net
 
 **E-mail Newsletter**
 
