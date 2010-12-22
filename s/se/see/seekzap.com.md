@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831104813id_/http%3A//www.seekzap.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222134310id_/http%3A//www.seekzap.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Seekzap Web Directory of Quality Internet Resources - Privacy Policy
+# Add Url - Submit Site - Privacy Policy - Seekzap Web Directory
 
 ## Seekzap Directory Privacy Policy
 
