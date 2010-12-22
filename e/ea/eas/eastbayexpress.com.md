@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eastbayexpress.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028003603id_/http%3A//www.eastbayexpress.com/ebx/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastbayexpress.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222143651id_/http%3A//www.eastbayexpress.com/ebx/PrivacyPolicy/Page) for the most accurate reproduction.*
 
-# East Bay Express
-
-## Privacy Policy
+# East Bay Express | Privacy Policy
 
 The _East Bay Express_ respects your privacy. We will not sell or share any of your personal information to a third party unless you say it's okay. We will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. 
 
