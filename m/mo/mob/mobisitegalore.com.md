@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601033917id_/http%3A//www.mobisitegalore.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222075226id_/http%3A//www.mobisitegalore.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Free mobile wap sites
+# Mobile Website ! Best mobile websites ( mobile web ) build easily with our mobi site builder.
 
 This Privacy Statement governs the manner in which mobiSiteGalore ("mobiSiteGalore" or "we") collects, uses, maintains and discloses information collected from customers in connection with mobiSiteGalore web services including web hosting, secure certificates, E-Commerce Solutions, and other internet services. mobiSiteGalore reserves the right to change this Privacy Statement and its policies prospectively at any time, subject to applicable laws and regulations, by posting notice of such changes on its web sites.
 
