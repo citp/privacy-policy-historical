@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317110508id_/http%3A//www.outback.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222185256id_/http%3A//www.outback.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Outback Steakhouse
+# Privacy Policy - Outback Steakhouse
 
 OSI Restaurant Partners, LLC (Outback) values your privacy and is committed to protecting it. This policy provides our customers with information about how we use information we gather on-line.
 
