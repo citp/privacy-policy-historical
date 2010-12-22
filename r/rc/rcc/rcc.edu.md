@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcc.edu privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224004412id_/http%3A//www.rcc.edu/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcc.edu privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222154338id_/http%3A//www.rcc.edu/privacy/index.cfm) for the most accurate reproduction.*
 
 # Riverside Community College District
 
@@ -36,4 +36,4 @@ Riverside Community College (RCC) respects your privacy and is committed to prot
 
 * General.
 
- If you have questions regarding our Privacy Statement, please contact the [webmaster](https://web.archive.org/district/email.cfm?ID=1BC0456A7EB0F4037DD9416CE472F926726F8B288808B912).
+ If you have questions regarding our Privacy Statement, please contact the [webmaster](https://web.archive.org/district/email.cfm?ID=184B34638759BA4FF6E407B14929510BDDC12ED8C3D2DB5D).
