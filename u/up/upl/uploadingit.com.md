@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadingit.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601144252id_/http%3A//uploadingit.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadingit.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222182713id_/http%3A//uploadingit.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Uploadingit
 
