@@ -1,327 +1,220 @@
-<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2010-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100221161756id_/http%3A//bytescout.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bytescout.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222124710id_/http%3A//bytescout.com/misc/privacy_statement.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>ByteScout.Com Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="bytescout, privacy statement, cookies, information, swreg">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Privacy Statement | Software for home, business and developers</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <meta name="description" content="ByteScout.com privacy statement">
-<link rel="stylesheet" href="mainstyles.css" type="text/css">
-<link rel="stylesheet" href="css/left_menu.css" type="text/css">
+<meta name="keywords" content="bytescout, privacy statement, cookies, information">
+<meta name="keywords" content="bytescout, software, developer, .net, c#, visual basic, pdf, swf, barcode, spreadsheet, xls, xlsx">
+<meta name="description" content="ByteScout software for personal and business user, for Windows software developers. ">
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/theme/content-module.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/dhtml_menu/dhtml_menu.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/geshifilter/geshifilter.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/tagadelic/tagadelic.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/modules/fieldgroup/fieldgroup.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/views/css/views.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/style.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/icons.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/dblog.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/theme_settings/fixed.css?V">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/theme_settings/fonts_1.css?V">
+    <!--[if IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/ie7-fixes.css" />
+    <![endif]-->
+    <!--[if lte IE 6]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/ie6-fixes.css" />
+    <![endif]-->
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/acquia_marina/local.css">
+        <script type="text/javascript" src="/misc/jquery.js?V"></script>
+<script type="text/javascript" src="/misc/drupal.js?V"></script>
+<script type="text/javascript" src="/modules/dhtml_menu/dhtml_menu.js?V"></script>
+<script type="text/javascript" src="/sites/all/themes/acquia_marina/script.js?V"></script>
 <script type="text/javascript">
-
-function ShowDiv(divID) {
-	var divele = document.getElementById(divID);
-	divele.style.display = "block";
-}
-
-function left_menu(id) {
-	if (!document.getElementById || !document.getElementsByTagName)
-		return false;
-	this.menu = document.getElementById(id);
-	this.submenus = this.menu.getElementsByTagName("div");
-	this.remember = true;
-	this.speed = 3;
-	this.markCurrent = true;
-	this.oneSmOnly = false;
-}
-left_menu.prototype.init = function() {
-	var mainInstance = this;
-	for (var i = 0; i < this.submenus.length; i++)
-		this.submenus[i].getElementsByTagName("span")[0].onclick = function() {
-			mainInstance.toggleMenu(this.parentNode);
-		};
-	if (this.markCurrent) {
-		var links = this.menu.getElementsByTagName("a");
-		for (var i = 0; i < links.length; i++)
-			if (links[i].href == document.location.href) {
-				links[i].className = "current";
-				break;
-			}
-	}
-	if (this.remember) {
-		var regex = new RegExp("left_menu_" + encodeURIComponent(this.menu.id) + "=([01]+)");
-		var match = regex.exec(document.cookie);
-		if (match) {
-			var states = match[1].split("");
-			for (var i = 0; i < states.length; i++)
-				this.submenus[i].className = (states[i] == 0 ? "collapsed" : "");
-		}
-	}
-};
-left_menu.prototype.toggleMenu = function(submenu) {
-	if (submenu.className == "collapsed")
-		this.expandMenu(submenu);
-	else
-		this.collapseMenu(submenu);
-};
-left_menu.prototype.expandMenu = function(submenu) {
-	var fullHeight = submenu.getElementsByTagName("span")[0].offsetHeight;
-	var links = submenu.getElementsByTagName("a");
-	for (var i = 0; i < links.length; i++)
-		fullHeight += links[i].offsetHeight;
-	var moveBy = Math.round(this.speed * links.length);
-	
-	var mainInstance = this;
-	var intId = setInterval(function() {
-		var curHeight = submenu.offsetHeight;
-		var newHeight = curHeight + moveBy;
-		if (newHeight < fullHeight)
-			submenu.style.height = newHeight + "px";
-		else {
-			clearInterval(intId);
-			submenu.style.height = "";
-			submenu.className = "";
-			mainInstance.memorize();
-		}
-	}, 30);
-	this.collapseOthers(submenu);
-};
-left_menu.prototype.collapseMenu = function(submenu) {
-	var minHeight = submenu.getElementsByTagName("span")[0].offsetHeight;
-	var moveBy = Math.round(this.speed * submenu.getElementsByTagName("a").length);
-	var mainInstance = this;
-	var intId = setInterval(function() {
-		var curHeight = submenu.offsetHeight;
-		var newHeight = curHeight - moveBy;
-		if (newHeight > minHeight)
-			submenu.style.height = newHeight + "px";
-		else {
-			clearInterval(intId);
-			submenu.style.height = "";
-			submenu.className = "collapsed";
-			mainInstance.memorize();
-		}
-	}, 30);
-};
-left_menu.prototype.collapseOthers = function(submenu) {
-	if (this.oneSmOnly) {
-		for (var i = 0; i < this.submenus.length; i++)
-			if (this.submenus[i] != submenu && this.submenus[i].className != "collapsed")
-				this.collapseMenu(this.submenus[i]);
-	}
-};
-left_menu.prototype.expandAll = function() {
-	var oldOneSmOnly = this.oneSmOnly;
-	this.oneSmOnly = false;
-	for (var i = 0; i < this.submenus.length; i++)
-		if (this.submenus[i].className == "collapsed")
-			this.expandMenu(this.submenus[i]);
-	this.oneSmOnly = oldOneSmOnly;
-};
-left_menu.prototype.collapseAll = function() {
-	for (var i = 0; i < this.submenus.length; i++)
-		if (this.submenus[i].className != "collapsed")
-			this.collapseMenu(this.submenus[i]);
-};
-left_menu.prototype.memorize = function() {
-	if (this.remember) {
-		var states = new Array();
-		for (var i = 0; i < this.submenus.length; i++)
-			states.push(this.submenus[i].className == "collapsed" ? 0 : 1);
-		var d = new Date();
-		d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000));
-		document.cookie = "left_menu_" + encodeURIComponent(this.menu.id) + "=" + states.join("") + "; expires=" + d.toGMTString() + "; path=/";
-	}
-};
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "clone": "clone", "siblings": 0, "relativity": 0, "children": 0, "doubleclick": 0 }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" } });
+//--><!]]>
 </script>
+  </head>
 
-<script type="text/javascript">
-var MenuObj;
-
-window.onload = setLinkBehaviours;
-
-
-function setLinkBehaviours()
-{
-	// now initialize the menu
-		MenuObj = new left_menu("menu1");
-		MenuObj.init();
-}
-</script>
-
-	  
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0px;padding:0px ">
-<table width="99%" border="0" align="left" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td width="212" valign="top">
-      <div style="padding-top:5; padding-top:5; ">
-<a href="http://bytescout.com/"><img src="/images/main_logo.png" alt="Home" border="0"></a>
-</div>
-
-<!-- suggestion box - begin -->
-
-<div style="padding-left:5;padding-bottom: 5px;"> 
-
-<font class="textblack">
-<a id="displaySuggestionBox" href="javascript:ShowDiv('SuggestionBox');" class="textblue1">
-<strong><img src="/images/comment.png" border="0"> Suggestion or Comment?</strong></a><strong>
-</strong></font><strong>
-
-<div id="SuggestionBox" style="display: none">
-
-<form method="POST" action="sendmail.php">
-  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td height="140" valign="top">
+  <body class="not-logged-in not-front full-node node-type-page layout-first-main">
+    <div id="page" class="clearfix">
       
-
-<input type="hidden" name="presubject" value="SUGGESTION">
-<input type="hidden" name="subject" value="">
-
-<div align="left"> 
- <textarea name="message" cols="5" rows="13" style="width:200" class="textblack" onclick="javascript:if (this.value == 'Enter your feedback here..') { this.value = ''; }">Enter your feedback here..</textarea>
+              <div id="skip">
+          <a href="#main-content">Skip to Main Content</a>
+        </div>
+            <div id="header-wrapper">
+        <div id="header" class="clearfix">
+          
+                    <div id="search-box">
+            <form action="/misc/privacy_statement.html" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-fdab69b3626cd193253353cb1fa1852a" value="form-fdab69b3626cd193253353cb1fa1852a">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 </div>
 
-<br>
-<input name="email" type="text" size="10" maxlength="100" class="textblack" style="width:200px " value="Your Email (if you want a reply)" onclick="javascript:if (this.value == 'Your Email (if you want a reply)') { this.value = ''; }">
-<br>            
-
-                                    
-        <!-- spam protection number - begin -->
-        <font class="textblack"><strong>AntiSPAM 
-          protection, </strong><br>
-          Please Enter <br>
-
-          <b><font size="+1"> 
-          <script language="JavaScript" type="text/JavaScript">
-var kl_number = 19; var l_b = 5; var h_b = 12;
-var myinteger = 15+kl_number*(l_b+Math.floor(Math.random()*(h_b-l_b))); 
-var mys1 = myinteger;document.write(mys1);
-</script>167
-<noscript>
-PLEASE ENABLE JAVASCRIPT TO ENABLE ANTI-SPAM PROTECTION 
-</noscript>          </font></b></font><b> 
-          <input type="text" name="aspm" maxlength="10" class="textblack" value="" style="width:60px">
-        
-        <!-- spam protection number - end -->
+</div></form>
+          </div><!-- /search-box -->
                 
-      </b></td>
-    </tr>
-    <tr>
-
-      <td align="left" valign="top">
-        <div style="padding-left:10">
-          <div align="left">
-            <input type="submit" name="Submit" value="Submit">
-          </div>
+          <div id="header-first">
+             
+            <div id="logo">
+              <a href="/" title="Home"><img src="/images/main_logo.png" alt="Home"></a>
+            </div>
+                                    <h1><a href="/" title="Home">ByteScout</a></h1>
+                                  </div><!-- /header-first -->
+  
+         <div id="header-middle"> 
+                        
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+        
+        <div id="block-block-44" class="block block-block">
+                    <div class="content">
+            <div id="google_translate_element">Language:<nobr>&nbsp;</nobr></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>          </div>
         </div>
-      </td>
-    </tr>
-	
-  </tbody></table>
-</form>
-
-<font class="textblack">
-<p>
-Our E-Mail: <a onmouseover="email = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m','?','s','u','b','j','e','c','t','=','[','Q','u','e','s','t','i','o','n',']');this.href='mailto:';for(i=0;i<email.length;i++){this.href+=email[i]}" href="blockme@relays.osirusoft.com"><script>text = new Array('s','u','p','p','o','r','t','@','b','y','t','e','s','c','o','u','t','.','c','o','m');for(i=0;i<text.length;i++) {document.write(text[i])}</script>support@bytescout.com</a>
-</p>
-
-<p>Manage your previous requests<br> 
-<a href="https://bytescout.com/support/">login here</a></p>
-
-<p>
-Our secure tickets system (recommended): <a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2" style="color:#4687B6;text-decoration:none ">Click Here</a>
-</p>
-						  
-
-</font>
-
+  
+    
 </div>
-
-<!-- suggestion box - end -->
-
-
-      <p class="textblack"><strong>About Us <br>
-        <br>
-        </strong><a href="about_us.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-        about us</font></a><br>
-        <a href="press.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-        press</font></a><br>
-        <a href="privacy_statement.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-        privacy statement</font></a><br>
-        <a href="partner_solutions.html" style="color:#4687B6;text-decoration:none "><img src="images/strela_19.jpg" vspace="0" border="0"><font class="textblue1"> 
-        partner solutions </font></a></p>
-      <br>
-<table>
-
-
-
-<tbody><tr><td valign="top">
-<!-- menu begin -->
-<div style="float: left; padding-left:5;" id="menu1" class="left_menu"> 
-        <div> <span>Products</span> 
-		<a href="spreadsheettools.html">Spreadsheet Tools</a> 
-		<a href="watermarkingpro.html">Watermarking PRO (with EXIF macros)</a> 
-		<a href="watermarking.html">Watermarking</a> 
-		  <a href="graphdigitizerscout.html">Graph 
-          Digitizer Scout</a> <a href="moviesextractorscout.html">Movies Extractor 
-          Scout</a> <a href="swftovideoscout.html">SWF To Video Scout</a> <a href="swftovideoscoutpro.html">SWF 
-          To Video Scout PRO</a> 
-		  <a href="swftoscreensaverscout.html">SWF To Screensaver Scout</a> 		  
-		  <a href="ppttovideoscout.html">PPT To Video Scout</a> 
-		  <a href="ppttoswfscout.html">PPT To SWF Scout</a> 		  
-		  <a href="lossless_video_codec_for_avi.html">Lossless Video Codec</a> 		  
-		  <a href="screencapturing.html">Screen Video Capturing</a> 		  
+<!-- /end block.tpl.php -->
+                     </div> <!-- /header-middle -->
+      
+         <div id="header-last">
+                        
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+        
+        <div id="block-block-24" class="block block-block">
+                    <div class="content">
+            <p style="text-align: right;"><strong>QUESTIONS OR COMMENTS? WRITE US AT <a href="mailto:support@bytescout.com?subject=[QUESTION]">SUPPORT@BYTESCOUT.COM</a> OR USE <a href="https://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2">THIS FORM</a></strong></p>          </div>
         </div>
-        <div class="collapsed"> 
-		<span>For Software Developers</span> 
-<a href="screencapturingsdk.html">Screen Capturing SDK</a>		
-<a href="swftovideosdk.html">SWF To Video SDK</a>		
-<a href="bytescoutbarcodesdk.html">BarCode (generator) SDK for .NET</a>
-<a href="bytescoutbarcodereadersdk.html">BarCode Reader SDK for .NET</a>
-<a href="bytescoutspreadsheetsdk.html">Spreadsheet SDK for .NET <i>(former Bytescout.XLS)</i></a>
-<a href="watermarkingsdk.html">Watermarking SDK for .NET</a> 		  
-<a href="swfscout.html">SWF 
-          Scout library</a> <a href="swfslideshowscout.html">SWF SlideShow Scout 
-          library</a> 
-		  
-		  <a href="bytescoutscansdk.html">Scan SDK for .NET</a> 		  
-		  <a href="pdfimagesextractorsdk.html">PDF Images Extractor for .NET</a> 		  
-		  
-		  <a href="rss2htmlpro.html">RSS2HTMLPro.ASP script</a> 
+  
+    
+</div>
+<!-- /end block.tpl.php -->
+                      </div><!-- /header-last -->
+      
+        </div><!-- /header -->
+      </div><!-- /header-wrapper -->
+      
+      <div id="primary-menu-wrapper" class="clearfix">
+                <div id="primary-menu">
+          <ul class="menu"><li class="leaf first no-dhtml "><a href="/" title="" id="dhtml_menu-196">Home</a></li>
+<li class="expanded  no-dhtml "><a href="/" title="" id="dhtml_menu-197">Products For Home &amp; Business</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/products/enduser/watermarking/watermarkingpro.html" title="" id="dhtml_menu-255">Watermarking Pro</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/watermarking/watermarking.html" title="" id="dhtml_menu-306">Watermarking</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/graphdigitizerscout/graphdigitizerscout.html" title="" id="dhtml_menu-256">Graph Digitizer Scout</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/ppttovideoscout/ppttovideoscout.html" title="" id="dhtml_menu-261">PPT To Video Scout</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/swftoscreensaverscout/swftoscreensaverscout.html" title="" id="dhtml_menu-260">SWF To Screensaver Scout</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/swftovideoscout/swftovideoscout.html" title="" id="dhtml_menu-258">SWF To Video Scout (Pro)</a></li>
+<li class="expanded last no-dhtml "><a href="/download/download_freeware.html" title="" id="dhtml_menu-290">Misc Freeware</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/products/enduser/misc/ppttopdfscout.html" title="" id="dhtml_menu-293">PPT To PDF Scout</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/losslessvideocodec/lossless_video_codec_for_avi.html" title="" id="dhtml_menu-262">Lossless Video Codec</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/moviesextractorscout/moviesextractorscout.html" title="" id="dhtml_menu-257">Movies Extractor Scout</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/misc/barcodegenerator.html" title="" id="dhtml_menu-291">BarCode Generator</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/misc/barcodereader.html" title="" id="dhtml_menu-292">BarCode Reader</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/misc/ppttoswfscout.html" title="" id="dhtml_menu-294">PPT To SWF Scout</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/misc/swfmixer.html" title="" id="dhtml_menu-295">SWF Mixer</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/misc/xlsviewer.html" title="" id="dhtml_menu-296">XLS Viewer</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/screencapturing/screencapturing.html" title="" id="dhtml_menu-263">Screen Capturing</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/spreadsheettools/spreadsheettools.html" title="" id="dhtml_menu-237">Spreadsheet Tools</a></li>
+<li class="leaf last no-dhtml "><a href="/products/enduser/misc/pdfviewer.html" title="View PDF, convert PDF to text, PDF to HTML, PDF to Word with Bytescout PDF Viewer Freeware" id="dhtml_menu-467">PDF Viewer</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded  no-dhtml "><a href="/#developertools" title="" id="dhtml_menu-210">Tools For Developers</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/products/developer/barcodesdk/bytescoutbarcodesdk.html" title="" id="dhtml_menu-235">BarCode Generator SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/barcodereadersdk/bytescoutbarcodereadersdk.html" title="" id="dhtml_menu-236">BarCode Reader SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/imagetovideosdk/imagetovideosdk.html" title="Image To Video SDK converts JPG, PNG images into WMV, AVI video slideshow with effects" id="dhtml_menu-251">Image To Video SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/pdfdocscoutsdk/pdfdocscout.html" title="" id="dhtml_menu-273">PDFDoc Scout SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/pdfextractorsdk/index.html" title="Extract text, images, authoring information from PDF files in .NET and ActiveX interfaces with Bytescout PDF Extractor SDK" id="dhtml_menu-462">PDF Extractor SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/pdfsdk/bytescoutpdf.html" title="" id="dhtml_menu-274">PDF SDK for .NET</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/screencapturingsdk/screencapturingsdk.html" title="" id="dhtml_menu-264">Screen Capturing SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/spreadsheetsdk/bytescoutspreadsheetsdk.html" title="" id="dhtml_menu-266">Spreadsheet SDK</a></li>
+<li class="collapsed  no-dhtml "><a href="/products/developer/swfscoutsdk/swfscout.html" title="" id="dhtml_menu-204">SWF Scout SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/swfslideshowsdk/swfslideshowscout.html" title="" id="dhtml_menu-269">SWF SlideShow Scout SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/swftovideosdk/swftovideosdk.html" title="" id="dhtml_menu-265">SWF To Video SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/watermarkingsdk/watermarkingsdk.html" title="" id="dhtml_menu-267">Watermarking SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/documentsdk/index.html" title="Generate Word documents DOC, DOCX in ASP.NET, VB.NET and C# with Bytescout Document SDK" id="dhtml_menu-464">Document SDK beta</a></li>
+<li class="leaf  no-dhtml "><a href="/products/developer/qtsourcefilter/index.html" title="Read MOV, MP4, 3GP, QTIF video files from your video application with Bytescout QT Source Filter" id="dhtml_menu-463">QT Source Filter beta</a></li>
+<li class="leaf  no-dhtml "><a href="/products/enduser/ppttovideoscout/how_to_automate_conversion_of_powerpoint_to_video.html" title="" id="dhtml_menu-275">PPT To Video Scout Command Line</a></li>
+<li class="expanded last no-dhtml "><a href="/download/download_freeware.html" title="" id="dhtml_menu-276">Misc Freeware</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/products/developer/rss2htmlpro/rss2htmlpro.html" title="" id="dhtml_menu-272">RSS2HTMLPro.ASP</a></li>
+<li class="leaf last no-dhtml "><a href="/products/developer/scansdk/bytescoutscansdk.html" title="" id="dhtml_menu-270">Scan SDK</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf  no-dhtml "><a href="/download/download.html" title="Download" id="dhtml_menu-212">Download</a></li>
+<li class="expanded  no-dhtml "><a href="/buy/purchase.html" title="Purchase - Home And Business Software for Windows" id="dhtml_menu-297">Purchase</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/buy/purchase.html" title="" id="dhtml_menu-319">Personal &amp; Business Software</a></li>
+<li class="expanded last no-dhtml "><a href="/buy/purchase.html#developertools" title="" id="dhtml_menu-320">Developer Tools (SDK)</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/buy/barcodesdk.html" title="" id="dhtml_menu-318">BarCode Generator SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/barcodereadersdk.html" title="" id="dhtml_menu-308">BarCode Reader SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/imagetovideosdk.html" title="" id="dhtml_menu-317">Image To Video SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/pdfdocscoutsdk.html" title="" id="dhtml_menu-309">PDFDoc Scout SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/pdfextractorsdk.html" title="" id="dhtml_menu-465">PDF Extractor SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/pdfsdk.html" title="" id="dhtml_menu-316">PDF SDK for .NET</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/screencapturingsdk.html" title="" id="dhtml_menu-311">Screen Capturing SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/spreadsheetsdk.html" title="" id="dhtml_menu-315">Spreadsheet SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/swfscoutsdk.html" title="" id="dhtml_menu-314">SWF Scout SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/swfslideshowscoutsdk.html" title="" id="dhtml_menu-322">SWF SlideShow Scout SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/swftovideosdk.html" title="" id="dhtml_menu-313">SWF To Video SDK</a></li>
+<li class="leaf  no-dhtml "><a href="/buy/watermarkingsdk.html" title="" id="dhtml_menu-310">Watermarking SDK</a></li>
+<li class="leaf last no-dhtml "><a href="/buy/ppttovideoscout_developer.html" title="" id="dhtml_menu-312">PPT To Video Scout Command Line Edition</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded  no-dhtml "><a href="https://bytescout.com/support/" title="" id="dhtml_menu-200">Support</a><ul class="menu"><li class="leaf first no-dhtml "><a href="https://bytescout.com/support/index.php?_m=knowledgebase&amp;_a=view" title="" id="dhtml_menu-301">Browse the Knowledgebase</a></li>
+<li class="leaf  no-dhtml "><a href="mailto:support@bytescout.com?subject=[QUESTION]" title="" id="dhtml_menu-300">Send Us E-Mail</a></li>
+<li class="leaf last no-dhtml "><a href="http://bytescout.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2" title="" id="dhtml_menu-299">Submit A Ticket</a></li>
+</ul></li>
+<li class="expanded last no-dhtml "><a href="/contacts.html" title="" id="dhtml_menu-302">Company</a><ul class="menu"><li class="leaf first no-dhtml "><a href="/contacts.html" title="" id="dhtml_menu-303">Contact Us</a></li>
+<li class="leaf  no-dhtml "><a href="/press/press.html" title="" id="dhtml_menu-305">Press</a></li>
+<li class="leaf last no-dhtml "><a href="/about_us.html" title="" id="dhtml_menu-304">About Us</a></li>
+</ul></li>
+</ul>        </div><!-- /primary_menu -->
+              </div><!-- /primary-menu-wrapper -->
 
-<a href="pdfdocscout.html">PDFDoc Scout library</a>  
-          <a href="bytescoutpdf.html">Bytescout.PDF for .NET</a> 
-		  
-		  <a href="how_to_automate_conversion_of_powerpoint_to_video.html">PPT 
-          To Video command-line</a> <a href="swftovideo_using_command_line_interface_to_automate.html">SWF 
-          To Video command-line</a> 
-		 </div>
-        <div> 
-		<span>Download</span> 
-		<a href="download.html">Free Trial Versions</a>
-		<a href="download_freeware.html">Freeware Software</a> 
-        </div>
-        <div> 
-		<span>Purchase</span> 
-		 <a href="purchase.html">Online Shop</a> 
-		 <a href="purchase_resellers.html">Worldwide Resellers</a> 
-        </div>		
-        <div class="collapsed"> 
-		<span>Support</span> 
-		  <a href="support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=2">Submit a Ticket</a> 
-		  <a href="mailto:support@bytescout.com?subject=[Question]">Submit a Ticket via E-Mail</a> 
-		  <a href="support/">Manage Tickets</a> 
-		</div>
-      </div>
-<!-- menu end -->
-</td></tr>
+      <div id="preface">
+              </div><!-- /preface -->
 
-<tr>
-<td valign="top">
-
-<div style="padding-left:5;"> 
-
-<!-- subscription form -->
-
-<form method="post" action="http://bytescout.com/mail/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);">
-<script type="text/javascript">
-// <![CDATA[
+      <div id="main-wrapper">
+        <div id="main" class="clearfix">
+          
+                    <div id="breadcrumb">
+            <div class="breadcrumb"><a href="/">Home</a> » Privacy Statement</div>          </div><!-- /breadcrumb -->
+                  
+                    <div id="sidebar-first">
+            
+<!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+     <!-- see preprocess_block() -->
+  <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+        <div id="block-block-26" class="block block-block">
+                                <div class="block-icon pngfix"></div>
+                      <h2 class="title block-title pngfix">OUR NEWSLETTER</h2>
+                    <div class="content">
+            <!-- subscription form --><form action="http://bytescout.com/mail/form.php?form=1" id="frmSS1" method="post" onsubmit="return CheckForm1(this);"><script type="text/javascript">
 
 			function CheckMultiple1(frm, name) {
-				for (var i=0; i < frm.length; i++)
+				for (var i=0; i<frm.length; i++)
 				{
 					fldObj = frm.elements[i];
 					fldId = fldObj.id;
@@ -346,239 +239,84 @@ Our secure tickets system (recommended): <a href="http://bytescout.com/support/i
 				return true;
 			}
 		
-// ]]>
-</script>
-<div id="SignUp">
-<table class="signupframe" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr>
-<td><font class="textblack"> Subscribe to Our Bi-Monthly Newsletter (tips, new releases, specials):</font></td>
-</tr>
-	<tr>	  
-      <td align="left">
-        <input type="text" name="email" value="Enter Email (required)" onclick="javascript:if (this.value == 'Enter Email (required)') { this.value = ''; }">
-      </td>
-	</tr>
-	<tr>
-	 <td align="left">
-	<input type="text" name="CustomFields[2]" id="CustomFields_2_1" value="First Name" onclick="javascript:if (this.value == 'First Name') { this.value = ''; }">
-       </td>
-    </tr>
-    <input type="hidden" name="listid" value="75100">
-    <input type="hidden" name="format" value="h">
-
-    <input type="hidden" name="clientid" value="484438">
-    <input type="hidden" name="formid" value="4245">
-    <input type="hidden" name="reallistid" value="1">
-    <input type="hidden" name="doubleopt" value="1">
-    <tr>
-      <td><input type="submit" name="Submit" value="Submit"></td>
-    </tr>
-    </tbody></table>
+</script><div>Subscribe to Our Newsletter (tips, new releases, specials):<br>
+<input name="listid" value="75100" type="hidden"><input name="format" value="h" type="hidden"><input name="clientid" value="484438" type="hidden"><input name="formid" value="4245" type="hidden"><input name="reallistid" value="1" type="hidden"><input name="doubleopt" value="1" type="hidden"><input name="email" onclick="javascript:if (this.value == 'Enter Email (required)') { this.value = ''; }" value="Enter Email (required)" type="text"> <input id="CustomFields_2_1" name="CustomFields[2]" onclick="javascript:if (this.value == 'First Name') { this.value = ''; }" value="First Name" type="text"> <input name="Submit" value="Submit" type="submit"></div><!-- subscription form --></form>          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
 </div>
-</form>
-<!-- subscription form -->
+<!-- /end block.tpl.php -->
+          </div><!-- /sidebar-first -->
+          
+          <div id="content-wrapper">
 
-<font class="textblack"> 
-<a href="http://feeds2.feedburner.com/Bytescout" style="color:#4687B6;text-decoration:none "><img src="images/feed-icon16x16.png" width="16" height="16" border="0">&nbsp;Subscribe 
-in a reader</a> </font>
-</div>
-</td></tr>	
-</tbody></table>  		
-	  
-    </strong></div></td>
-    <td width="99%" align="left" valign="top"> 
-      <div style="padding-left: 4px; padding-top: 4px"> 
-<form action="/search/search.php" method="get">
- <font class="textblue1">
-
- &nbsp;<a href="/index.php" style="color:#4687B6;text-decoration:none ">PRODUCTS</a> 
- &nbsp;|&nbsp; <a href="/download.html" style="color:#4687B6;text-decoration:none ">DOWNLOAD</a> 
- &nbsp;|&nbsp; <a href="/purchase.html" style="color:#4687B6;text-decoration:none ">PURCHASE</a> 
- &nbsp;|&nbsp; <a href="/support.html" style="color:#4687B6;text-decoration:none ">SUPPORT</a> 
-<!--  |  <a href="/contacts.html" style="color:#4687B6;text-decoration:none ">CONTACTS</a> -->
- &nbsp;|&nbsp; <a href="/random_quote.php?all" style="color:#4687B6;text-decoration:none ">TESTIMONIALS</a>&nbsp; 
- &nbsp;|&nbsp; <a href="/support/index.php?_m=news&amp;_a=view" style="color:#4687B6;text-decoration:none ">NEWS</a> 
- &nbsp;|&nbsp;  </font>
- <input name="zoom_query" type="text" length="15"><input type="submit" name="Submit" value="Search"></form>
-  <hr>
-<!-- special discount -->  
-<!-- 
-<p class="DiscountBox">
-</p>
--->
-<!-- special discount -->
-</div>
-	  
-      <div style="padding-left:5;padding-right:5;padding-bottom:5 "> 
-        <div style="padding-left:5 "><strong>Privacy Statement</strong></div>
-        <div style="padding-left:15 "> 
-          <p class="textblack">ByteScout is committed to 
-            protecting your privacy. The following discloses the information gathering 
-            and dissemination practices for this Web site: www.ByteScout.com.</p>
-          <p class="textblack"><b>Information Automatically Logged</b><br>
-            We may use your IP address to help diagnose problems with our server and 
-            to administer our Web site. This information can also be used to allow 
-            us to determine the statistical usage of the Web site.</p>
-          <p class="textblack">The referring URL (address of a  web page you left before 
-            coming to the www.ByteScout.com web page, if any) is logged whenever 
-            you view a page on the www.ByteScout.com website. This allows us to 
-            determine which areas on the Web Site are more popular than others and paths 
-            taken to reach each page. It also allows us to measure the effectiveness 
-            of promotional programs we may be running on the Web site.</p>
-          <p class="textblack">All such information is gathered globally not 
-            individually and no such information is linked to any identifying 
-            information about you as a visitor.</p>
-          <p class="textblack"><b>Cookies</b><br>
-            Our site uses cookies to track the aggregate information about our 
-            visitors. This information is not linked to individual visitors.</p>
-          <p class="textblack"><b>Order Forms</b><br>
-            ByteScout has partnered with <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
-            Regnow</font></a> and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-            e-commerce providers to accept your orders. Both <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
-            Regnow</font></a> and <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-            provide secure order forms for you to buy our products. When you place 
-            an order, <a href="http://www.regnow.com" style="color:#4687B6;text-decoration:none "><font class="textblue1">Plimus, 
-            Regnow</font></a> or <a href="http://www.shareit.com/" style="text-decoration:none" class="textblue1">Share-It</a> 
-            collects contact information (like your email address), and financial 
-            information (like your credit card number). Contact information from 
-            the order forms is used <strong>only</strong> to get in touch with you when necessary. 
-            This includes sending you the product(s) you ordered, notifying you 
-            about new versions of the product(s) you ordered, and contacting you 
-            if there is a problem with your order. Financial information that is 
-            collected is used to bill you for the order. </p>
-          <p class="textblack"><b>Newsletter</b><br>
-            We allow our visitors to sign up for our free newsletter(s) by providing 
-            an email address. The email address you provide is used only to send 
-            you the the newsletter(s).</p>
-          <p class="textblack"><b>External Links</b><br>
-            This site contains links to other sites. ByteScout is not responsible for the privacy practices or the content of these web sites.</p>
-          <p class="textblack"><b>Security</b><br>
-            This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.</p>
-                      </div>
+            
+                        
+            <div id="content">
+              <a name="main-content" id="main-content"></a>
+              
+              
+              <div id="content-inner">
+                
+                              
+                                <h1 class="title">Privacy Statement</h1>
+                                <div id="content-content">
+                  
+<!-- start node.tpl.php -->
+<div id="node-553" class="node odd full-node node-type-page">
+  
+  
+  <div class="meta">
       </div>
-      
-    </td>
-  </tr>
-  <tr> 
-    <td colspan="2"> 
-        <hr>
 
-<div style="padding-left:5; padding-top:5; ">
-        <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="50%" align="center"> 
- <font class="textblue1">
-  <a href="/index.php" style="color:#4687B6;text-decoration:none ">HOME</a> 
-<!--  |  <a href="/download.html" style="color:#4687B6;text-decoration:none ">DOWNLOAD</a> 
-  |  <a href="/purchase.html" style="color:#4687B6;text-decoration:none ">PURCHASE</a> 
-  |  <a href="/support.html" style="color:#4687B6;text-decoration:none ">SUPPORT</a> 
---> 
- &nbsp;|&nbsp; <a href="/contacts.html" style="color:#4687B6;text-decoration:none ">CONTACT US</a>
-<!--  |  <a href="/random_quote.php?all" style="color:#4687B6;text-decoration:none ">TESTIMONIALS</a>
-  |  <a href="/support/index.php?_m=news&_a=view" style="color:#4687B6;text-decoration:none ">NEWS</a> -->
+  <div class="content">
+    <div style="padding-left: 15px;"><p class="textblack">ByteScout is committed to protecting your privacy. The following discloses the information gathering and dissemination practices for this Web site: <a href="http://www.ByteScout.com" title="www.ByteScout.com">www.ByteScout.com</a>.</p><p class="textblack"><b>Information Automatically Logged</b><br>
+We may use your IP address to help diagnose problems with our server, to administer our Web site, to fight spam messages sent through a forms on the web-site. This information can also be used to allow us to determine the statistical usage of the Web site.</p><p class="textblack">The referring URL (address of a web page you left before coming to the <a href="http://www.ByteScout.com" title="www.ByteScout.com">www.ByteScout.com</a> web page, if any) is logged whenever you view a page on the <a href="http://www.ByteScout.com" title="www.ByteScout.com">www.ByteScout.com</a> website. This allows us to determine which areas on the Web Site are more popular than others and paths taken to reach each page. It also allows us to measure the effectiveness of promotional programs we may be running on the Web site.</p><p class="textblack">All such information is gathered globally not individually and no such information is linked to any identifying information about you as a visitor.</p><p class="textblack"><b>Cookies</b><br>
+Our site uses cookies to track the aggregate information about our visitors. This information is not linked to individual visitors.</p><p class="textblack"><b>Order Forms</b><br>
+ByteScout has partnered with <a href="http://www.regnow.com/" style="color: rgb(70, 135, 182); text-decoration: none;"><font class="textblue1">Plimus, Regnow</font></a> and <a class="textblue1" href="http://www.shareit.com/" style="text-decoration: none;">Share-It</a> e-commerce providers to accept your orders. Both <a href="http://www.regnow.com/" style="color: rgb(70, 135, 182); text-decoration: none;"><font class="textblue1">Plimus, Regnow</font></a> and <a class="textblue1" href="http://www.shareit.com/" style="text-decoration: none;">Share-It</a> provide secure order forms for you to buy our products. When you place an order, <a href="http://www.regnow.com/" style="color: rgb(70, 135, 182); text-decoration: none;"><font class="textblue1">Plimus, Regnow</font></a> or <a class="textblue1" href="http://www.shareit.com/" style="text-decoration: none;">Share-It</a> collects contact information (like your email address), and financial information (like your credit card number). Contact information from the order forms is used <strong>only</strong> to get in touch with you when necessary. This includes sending you the product(s) you ordered, notifying you about new versions of the product(s) you ordered, and contacting you if there is a problem with your order. Financial information that is collected is used to bill you for the order.</p><p class="textblack"><b>Newsletter</b><br>
+We allow our visitors to sign up for our free newsletter(s) by providing an email address. The email address you provide is used only to send you the the newsletter(s).</p><p class="textblack"><b>External Links</b><br>
+This site contains links to other sites. ByteScout is not responsible for the privacy practices or the content of these web sites.</p><p class="textblack"><b>Security</b><br>
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.</p></div><div id="disqus_thread"></div><noscript><div class="disqus-noscript"><a href="http://bytescout.disqus.com/?url=http%3A%2F%2Fbytescout.com%2Fnode%2F553">View the discussion thread.</a></div></noscript>  </div>
 
+    <div class="terms">
+    <ul class="taxonomy"><li class="vocab vocab-2"><span class="vocab-name">Products:</span> <ul class="vocab-list"><li class="vocab-term"><a href="/taxonomy/term/27" rel="tag" title="">None</a></li></ul></li></ul>  </div>
+    
+  
+  </div>
+<!-- /#node-553 -->
+                </div>
+              </div><!-- /content-inner -->
+            </div><!-- /content -->
 
- </font>
-
-
-		</td>
-
-        </tr>
-      </tbody></table>
-</div>
-      <br> 
-                  <div style="padding-left:5 ">
-			<font class="textblack" style="color:#4C4C4C "> 
-              Copyright © ByteScout, 2003-2010. <font class="textblue1"><a href="privacy_statement.html" style="color:#4687B6;text-decoration:none ">Privacy Statement</a></font>
-			  <br>
-			  Microsoft®, Windows®, Windows 2000®, Windows Server®, Windows Vista®, Internet Explorer®, .NET Framework®, ActiveX®, Visual Basic®, Visual C#®, ASP®, ASP.NET®, Excel®, PowerPoint®, are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. 
-			  Adobe®, Flash® and Acrobat® are registered trademarks of Adobe Systems, Incorporated. Mozilla®, Firefox® and the Mozilla and Firefox Logos are registered trademarks of the Mozilla Foundation.
-			 Other product names or brandnames used herein are for identification purposes only and might be trademarks or registered trademarks of their respective companies. We disclaim any and all rights to those marks. 		 
-				</font></div>	  
-    </td>
-  </tr>
-</tbody></table>
+                      </div><!-- /content-wrapper -->
+          
+          
+                    
+          
+                    <div id="footer" class="clearfix">
+                                                Copyright © ByteScout, 2003-2010. <a href="/misc/privacy_statement.html">Privacy Statement</a><br>
+Microsoft®, Windows®, Windows 2000®, Windows Server®, Windows Vista®, Internet Explorer®, .NET Framework®, ActiveX®, Visual Basic®, Visual C#®, ASP®, ASP.NET®, Excel®, PowerPoint®, are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Adobe®, Flash® and Acrobat® are registered trademarks of Adobe Systems, Incorporated. Mozilla®, Firefox® and the Mozilla and Firefox Logos are registered trademarks of the Mozilla Foundation. Other product names or brandnames used herein are for identification purposes only and might be trademarks or registered trademarks of their respective companies. We disclaim any and all rights to those marks.                       </div><!-- /footer -->
+                    
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+    </div><!-- /page -->
+    <script type="text/javascript">var disqus_url = "http://bytescout.com/node/553";var disqus_title = "Privacy Statement";var disqus_message = "ByteScout is committed to protecting your privacy. The following discloses the information gathering and dissemination practices for this Web site: www.ByteScout.com.Information Automatically Logged  We may use your IP address to help diagnose problems with our server, to administer our Web site, to fight spam messages sent through a forms on the web-site. This information can also be used to allow us to determine the statistical usage of the Web site.";var disqus_identifier = "node/553";</script><script type="text/javascript" src="http://disqus.com/forums/bytescout/embed.js"></script><script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?V"></script>
 <script type="text/javascript">
-//	This script has been provided by Goodwebpractices.com
-//	Thanks to ShoreTel, MerryMan and Colm McBarron
-//
-//	www.goodwebpractices.com
-//	VKI has made changes as indicated below.								
-
-if (document.getElementsByTagName) {
-        // Initialize external link handlers
-        var hrefs = document.getElementsByTagName("a");
-        for (var l = 0; l < hrefs.length; l++) {
-				// try {} catch{} block added by erikvold VKI
-			try{
-	                //protocol, host, hostname, port, pathname, search, hash
-	                if (hrefs[l].protocol == "mailto:") {
-	                        startListening(hrefs[l],"click",trackMailto);
-	                } else if (hrefs[l].hostname == location.host) {
-	                        var path = hrefs[l].pathname + hrefs[l].search;
-							var isDoc = path.match(/\.(?:doc|eps|jpg|png|svg|xls|ppt|pdf|xls|zip|txt|vsd|vxd|js|css|rar|exe|wma|mov|avi|wmv|mp3)($|\&|\?)/);
-	                        if (isDoc) {
-	                                startListening(hrefs[l],"click",trackExternalLinks);
-	                        }
-	                } else {
-	                        startListening(hrefs[l],"click",trackExternalLinks);
-	                }
-			}
-			catch(e){
-					continue;
-			}
-        }
-}
-
-function startListening (obj,evnt,func) {
-        if (obj.addEventListener) {
-                obj.addEventListener(evnt,func,false);
-        } else if (obj.attachEvent) {
-                obj.attachEvent("on" + evnt,func);
-        }
-}
-
-function trackMailto (evnt) {
-        var href = (evnt.srcElement) ? evnt.srcElement.href : this.href;
-        var mailto = "/mailto/" + href.substring(7);
-        if (typeof(pageTracker) == "object") pageTracker._trackPageview(mailto);
-}
-
-function trackExternalLinks (evnt) {
-        var e = (evnt.srcElement) ? evnt.srcElement : this;
-        while (e.tagName != "A") {
-                e = e.parentNode;
-        }
-        var lnk = (e.pathname.charAt(0) == "/") ? e.pathname : "/" + e.pathname;
-        if (e.search && e.pathname.indexOf(e.search) == -1) lnk += e.search;
-		var isExternal = false;
-        if (e.hostname != location.host) {lnk = "/external/" + e.hostname + lnk; isExternal=true;}
-        if (typeof(pageTracker) == "object") pageTracker._trackPageview(lnk); 
-
-		if (!isExternal){
-					var isFile = lnk.match(/\.(?:exe|zip)($|\&|\?)/);
-	                if (isFile) {
-							 // if this is file download then redirecting to the thanks_for_downloading page		
-							var destination = "thanks_for_downloading.html";
-							setTimeout("window.location='"+destination+"'",2000);
-							return true;		
-	                }
-		
-		}
-
-}
-</script>
-
-<script type="text/javascript">
-// google analytics code itself below
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-96647-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-96647-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+  
 
 </body></html>
