@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtotuneaguitar.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620233520id_/http%3A//www.howtotuneaguitar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtotuneaguitar.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222163200id_/http%3A//www.howtotuneaguitar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
