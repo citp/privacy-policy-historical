@@ -1,40 +1,47 @@
-<!--The following is the downloaded HTML source of the trueknowledge.com privacy policy that was archived on 2010-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100418020639id_/http%3A//www.trueknowledge.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trueknowledge.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222164326id_/http%3A//www.trueknowledge.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<title>Privacy - True Knowledge</title>
 <link rel="icon" href="/skins/opensite/image/favicon.png" type="image/png">
-<link type="text/css" href="/skins/opensite/css/cms_CB22058M.css" rel="stylesheet" media="screen">
-<link type="text/css" href="/skins/opensite/css/style_CB22058M.css" rel="stylesheet" media="screen">
-<link type="text/css" href="/skins/opensite/css/basic_CB22058M.css" rel="stylesheet" media="screen">
-<script type="text/javascript" src="/libraries/javascript/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/67b7d41eabcbae6006b1e5c83be198ba.min.js"></script>
-<script type="text/javascript" src="/js/e9ea0b8ff8eea321378b471633309afd.min.js"></script>
-<script type="text/javascript" src="/js/da4b4b87e54dbe780d82709a5648412b.min.js"></script>
+<link type="text/css" href="/skins/opensite/css/style_CB30419M.css" rel="stylesheet" media="screen">
+<link type="text/css" href="/skins/opensite/css/basic_CB30419M.css" rel="stylesheet" media="screen">
+<link type="text/css" href="/skins/opensite/css/cms_CB30419M.css" rel="stylesheet" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/libraries/javascript/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/0e7747c124b178cf07bf298f0a7ff417.min.js"></script>
+<script type="text/javascript" src="/js/5bc4f84ca5df966043a372e46da90e70.min.js"></script>
+<script type="text/javascript" src="/js/c8af5ffe918d6a00528fc5657895cc26.min.js"></script>
 <script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+<script type="text/javascript" src="/js/b99cb97c77d79114839194c171a95e2d.min.js"></script>
 <script type="text/javascript">
 <!--
 
-$(document).ready(function(){corporate_js_initialize();$("#tk_answer_form").tkautocomplete();$("#signin").tklogin({source:"#loginform",veil:false,centered:false,cssClass:"tkDialog",target:"#page",speed:250,css:{width:340,backgroundColor:"#ECEADE"}});$("#register").tkregister({source:"#registerform",veil:false,centered:false,cssClass:"tkDialog",target:"#page",speed:250,css:{width:340,backgroundColor:"#ECEADE"}});});(function($){$.fn.hint=function(blurClass){if(!blurClass){blurClass='blur';}
-return this.each(function(){var $input=$(this),title=$input.attr('title'),$form=$(this.form),$win=$(window);function remove(){if($input.val()===title&&$input.hasClass(blurClass)){$input.val('').removeClass(blurClass);}}
-if(title){$input.blur(function(){if(this.value===''){$input.val(title).addClass(blurClass);}}).focus(remove).blur();$form.submit(remove);$win.unload(remove);}});};})(jQuery);var RegisterForm=function(form,settings)
-{var self=this;this.model=new formModel([{'#email':"input[name='email']"},{'#username':"input[name='username']"},{'#password1':"input[name='password1']"},{'#password2':"input[name='password2']"},{'challenge':Recaptcha.get_challenge},{'response':Recaptcha.get_response}]);this.url='/ajax/register/command';this.discrete=false;this.targetNode=form;var enableJoin=function(){var pass1=$("input[name='password1']",form).val();var pass2=$("input[name='password2']",form).val();if(pass1&&pass2&&pass1.substr(0,pass2.length)!==pass2){$('#error_password2_match').show();}else{$('#error_password2_match').hide();}
-var enabled=$("input[name='email']",form).val().length&&$("input[name='username']",form).val().length&&pass1.length&&pass2.length&&$("#recaptcha_response_field",form).val().length;$('#join',form).trigger('widget'+(enabled?'On':'Off'));}
-$('#join',form).onoff({state:false,on:'<em></em>',off:'<span></span>',onAction:function(e){$('#join, .register .no').hide();self.dispatchCommand.apply(self,[e.target,'register']);}});$('.no',form).removeAttr('href').css('cursor','pointer').click(function(e){form.trigger('widgetHide');});$('.no div',form).tkrollover();$('#top_signin',form).css('cursor','pointer').click(function(e){var data=null;form.trigger('widgetHide');if('onLogin'in settings&&typeof settings.onLogin==='function'){data={onLogin:settings.onLogin};}
-$('#signin').trigger('widgetShow',data);return false;});$("input[name='email']",form).blur(function(e){if($(this).val().length){self.dispatchCommand.apply(self,[e.target,'check email']);}}).keyup(enableJoin).focus();$("input[name='username']",form).blur(function(e){if($(this).val().length){self.dispatchCommand.apply(self,[e.target,'check username']);}}).keyup(enableJoin);$("input[name='password1']",form).keyup(enableJoin);$("input[name='password2']",form).keyup(enableJoin);$("#recaptcha_response_field",form).keyup(enableJoin);$('#forgotten',form).css('cursor','pointer').removeAttr('href').click(function(e){self.dispatchCommand.apply(self,[e.target,'reset password']);$('.preregistation',form).hide();$('#registationreset',form).show();});$('#registationreset #ok',form).onoff({on:'<em></em>',off:'<span></span>',onAction:function(e){form.trigger('widgetHide');return false;}});this.dcc.registerDecorator('a.signin','complete',function(data){return{data:data,handler:function(data){if('identity'in data)$('div.session_info').html(data.identity);$('div.preregistation',form).hide();$('div.postregistation span',form).text(data.email);$('div.postregistation',form).show();$('div.postregistation em',form).css('cursor','pointer').click(function(){form.trigger('widgetHide');if('onLogin'in settings&&typeof settings.onLogin==='function'){settings.onLogin(data);}});}}});this.dcc.registerDecorator('error',function(data){Recaptcha.reload();$('#join, .register .no').show();return data;});var recaptcha=$('#recaptcha_widget',form);Recaptcha.create($('.key',recaptcha).text(),recaptcha.get(0),{theme:'custom',lang:'en',custom_theme_widget:'recaptcha_widget'});};RegisterForm.inherits(TkAjaxController);$.fn.tkregister=function(options){var onLoginHandler=(options&&'onclose'in options)?options.onclose:false;var defaults={url:'/ajax/register/',speed:200,onLoad:function(){var form=new RegisterForm(this,{onLogin:onLoginHandler});}};var settings=$.extend(defaults,options);return this.each(function(){var self=$(this).removeAttr('href').css('cursor','pointer').click(function(){self.tkdialog(settings);}).bind('widgetShow',function(e,eventSettings){if(!tk.data.loginOpen){if(eventSettings&&'onLogin'in eventSettings){onLoginHandler=eventSettings.onLogin;}
-self.tkdialog($.extend({},settings,eventSettings));}});});};$.fn.tkstaticregisterinplace=function(options){var defaults={source:'#registerform'};var settings=$.extend(defaults,options);return this.each(function(){var self=$(this);var form;self.html($(settings.source).html());$('.no',self).remove();$('.top_navigation',self).remove();form=new RegisterForm(self,{onLogin:(options&&'onclose'in options)?options.onclose:false});});};var LoginForm=function(form,settings)
-{var self=this;this.model=new formModel([{'#username':"input[name='username']"},{'#password':"input[name='password']"},{'#email':"input[name='email']"},{'#rememberme':"input[name='rememberme']"},{'#timestamp':"input[name='timestamp']"}]);this.url='/ajax/login/command';this.discrete=false;this.targetNode=form;$('.signin',form).tkrollover().click(function(e){$('#login1 .signin, #login1 .no').hide();self.dispatchCommand.apply(self,[e.target,'login']);e.preventDefault();});$("input[name='password']",form).keypress(function(e){if(e.which===13){$('#login1 .signin, #login1 .no').hide();self.dispatchCommand.apply(self,[e.target,'login']);}});$('.no',form).css('cursor','pointer').click(function(e){form.trigger('widgetHide');return false;});$('#login3 #ok',form).onoff({on:'<em></em>',off:'<span></span>',onAction:function(e){form.trigger('widgetHide');return false;}});$('#top_register',form).css('cursor','pointer').click(function(e){var data=null;form.trigger('widgetHide');if('onLogin'in settings&&typeof settings.onLogin==='function'){data={onLogin:settings.onLogin};}
-$('#register').trigger('widgetShow',data);return false;});$('#reset',form).onoff({on:'<em></em>',off:'<span></span>',onAction:function(e){self.dispatchCommand.apply(self,[e.target,'reset password']);$('#login2',form).hide();$('#login3',form).show();},state:false});$("#login2  input[name='email']",form).commandListener({action:function(e){self.dispatchCommand.apply(self,[e.target,'check email']);},abortaction:function(e){self.stopCommand.apply(self,[e.target,'check email']);}});$('#forgotten',form).css('cursor','pointer').removeAttr('href').click(function(){$('#login1',form).hide();$('#login2',form).show();$("#loginform  input[name='email']",form).focus();});$('.fields #join',form).css('cursor','pointer').removeAttr('href').click(function(){if('onRegister'in settings){settings.onRegister(form);}});this.dcc.registerDecorator('a.signin','error',function(data){$('#login1 .signin, #login1 .no').show();return data;});this.dcc.registerDecorator('a.signin','complete',function(data){return{data:data,handler:function(data){$('div.session_info').html(data.identity);form.trigger('widgetHide');if('onLogin'in settings&&typeof settings.onLogin==='function'){settings.onLogin(data);}}}});$("input[name='username']",form).focus();$('.no',form).tkrollover();};LoginForm.inherits(TkAjaxController);$.fn.tklogin=function(options){var onLoginHandler=(options&&'onclose'in options)?options.onclose:false;var defaults={url:'/ajax/login/',speed:200,onClose:function(){tk.data.loginOpen=false;},onLoad:function(){var form;tk.data.loginOpen=true;form=new LoginForm(this,{onLogin:onLoginHandler,onRegister:function(target){$.ajax({url:'/ajax/register/',dataType:'html',success:function(data,textSatus){$(target).html(data);form=new RegisterForm(target,onLoginHandler);}})}});}};var settings=$.extend({},defaults,options);return this.each(function(){var self=$(this).removeAttr('href').css('cursor','pointer').click(function(){if(!tk.data.loginOpen){self.tkdialog(settings)}}).bind('widgetShow',function(e,eventSettings){if(!tk.data.loginOpen){if(eventSettings&&'onLogin'in eventSettings){onLoginHandler=eventSettings.onLogin;}
-self.tkdialog($.extend({},settings,eventSettings));}});});};$.fn.tkstaticlogininplace=function(options){var defaults={source:'#loginform'};var settings=$.extend(defaults,options);return this.each(function(){var self=$(this);var form;self.html($(settings.source).html());$('.no',self).remove();$('.top_navigation',self).remove();form=new LoginForm(self,{onLogin:(options&&'onclose'in options)?options.onclose:false,onRegister:function(target){$.ajax({url:'/ajax/register/',dataType:'html',success:function(data,textSatus){$(target).html(data);$('.no',self).remove()
-form=new RegisterForm(target,(options&&'onclose'in options)?options.onclose:false);}})}});});};var AutocompleteForm=function(form){var self=this;this.model=new formModel(['general_prompt','general_submit','autocomplete']);this.url='/libraries/ajax_libraries/autocomplete.php';this.discrete=false;this.spinner=false;var dismissed=false;var prompt=$('#general_prompt',form);prompt.commandListener({action:function(e){if(prompt.hasClass('ask')){$("input[name='autocomplete']").val('0');dismissed=false;self.dispatchCommand.apply(self,[e.target,'list_questions']);}},navigation:true,wait:100,onEmpty:function(e){prompt.trigger('popdown');}}).near('form').submit(function(e){self.abortAjax('merged');dismissed=true;prompt.pngSpinner();});this.dcc.registerDecorator('#general_prompt','menu',function(data,name){var result=[];var options={clickAwayHide:true,inline:false,keyPressHide:false};if(data.length>0&&!dismissed){var div;var odd=true;$.each(data,function(i){if(form.options.highlight!='off'){var thing=new RegExp("^("+$('#general_prompt',form).val()+")([^\?]*)(.*)$","i");var matches=thing.exec(this.string);if(matches){var stuff=matches[1]+"<b><em>"+matches[2]+"</em>"+matches[3]+"</b>";div=$('<span><a href="javascript:void(0)">'+stuff+'</a></span>');}}else{div=$('<span><a href="javascript:void(0)">'+this.string+'</a></span>');}
-$('a',div).click(function(){$(name).val($(this).text());});div.mouseenter(function(){var index=i;$(name).trigger('widgetMouseEnter',[i]);}).click(function(){$("input[name='autocomplete']").val('1');$(name).val(this.string)
-$('form',form).submit();});result=result.concat({string:div});});var response={items:result,options:options,cssClass:'tkPopupMenu answer_field'};if(form.options.footer!='off'){response.footer={string:'<span class="yesno" id="auto_complete_switch_off"><a class="autocomplete_switch_off" onclick="javascript:autocomplete_switch_off();" href="#">switch completion off</a></span>&nbsp;<span class="yesno"><a class="autocomplete_close" href="#">close</a></span>&nbsp;',cssClass:'dismiss'};}
-return response;}else{dismissed=false;return false;}});};AutocompleteForm.inherits(TkAjaxController);$.fn.tkautocomplete=function(options){return this.each(function(){var self=$(this);if(!options){options={};}
-self.options=options;var form=new AutocompleteForm(self);});};function autocomplete_switch_off()
-{$('#general_prompt').removeClass('ask');$.post("/libraries/ajax_libraries/autocomplete.php",{"command[]":"switch_off"});}
+$(document).ready(function(){corporate_js_initialize();$("#tk_answer_form").tkautocomplete();$("#signin").tklogin({source:"#loginform",veil:false,centered:false,cssClass:"tkDialog",target:"#page",speed:250,css:{width:340,backgroundColor:"#ECEADE"}});$("#register").tkregister({source:"#registerform",veil:false,centered:false,cssClass:"tkDialog",target:"#page",speed:250,css:{width:340,backgroundColor:"#ECEADE"}});});
+//-->
+</script><script type="text/javascript">
+<!--
+
+      var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2682584-2']);
+    _gaq.push(['_setCustomVar', 1, 'Skin', 'opensite']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['rollupTracker._setAccount', 'UA-11193466-1']);
+    _gaq.push(['rollupTracker._setCustomVar', 1, 'Skin', 'opensite']);
+    _gaq.push(['rollupTracker._setAllowHash',false]);
+    _gaq.push(['rollupTracker._setDomainName','.a.com']);
+    _gaq.push(['rollupTracker._setAllowLinker',true]);
+    _gaq.push(['rollupTracker._trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
 //-->
 </script>
+
 </head>
 <body>
     <script type="text/javascript">
@@ -43,7 +50,7 @@ self.options=options;var form=new AutocompleteForm(self);});};function autocompl
   </script>
   	<div id="page">
 	<div id="header">
-	  <div id="logo"><a href="/"><img src="/skins/opensite/image/tk_logo.png" alt="True Knowledge — The Internet Answer Engine"></a></div>
+	  <div id="logo"><a href="/">True Knowledge — The Internet Answer Engine</a></div>
 		<div class="session_info">
 			<ul class="top_navigation">
     <li><a href="/register/" id="register">register</a></li>
@@ -52,13 +59,12 @@ self.options=options;var form=new AutocompleteForm(self);});};function autocompl
 
 		</div>
 	</div>
-  <div id="tk_content">
-<div><div id="moremenu">
+  <div id="tk_content"><div><div id="moremenu">
 <ul>
-<li><a href="http://www.twitter.com/trueknowledge"><img src="/skins/opensite/image/basic/twitter-icon.png" alt="Twitter"> @trueknowledge on Twitter</a></li>
-<li><a href="http://www.facebook.com/pages/True-Knowledge/35485728549"><img src="/skins/opensite/image/basic/facebook-icon.png" alt="Facebook"> True Knowledge on Facebook</a></li>
-<li><a href="http://blog.trueknowledge.com/"><img src="/skins/opensite/image/basic/rss-icon.png" alt="Blog"> True Knowledge Blog</a></li>
-<li><a href="/help/"><img src="/skins/opensite/image/basic/help-icon.png" alt="Help"> Help/Contact Us</a></li>
+<li class="twitter"><a href="http://www.twitter.com/trueknowledge"><img src="/skins/opensite/image/sprite.png" alt=""> @trueknowledge on Twitter</a></li>
+<li class="facebook"><a href="http://www.facebook.com/pages/True-Knowledge/35485728549"><img src="/skins/opensite/image/sprite.png" alt=""> True Knowledge on Facebook</a></li>
+<li class="blog"><a href="http://blog.trueknowledge.com/"><img src="/skins/opensite/image/sprite.png" alt=""> True Knowledge Blog</a></li>
+<li class="help"><a href="/help/"><img src="/skins/opensite/image/sprite.png" alt=""> Help/Contact Us</a></li>
 </ul>
 </div></div>
 <div><div id="tk_result_main">
@@ -70,9 +76,10 @@ self.options=options;var form=new AutocompleteForm(self);});};function autocompl
         <tbody><tr>
           <td>
            <input type="hidden" id="javascript_detect_field" name="use_javascript" value="0">
+           <input type="hidden" id="prompt_cursor_pos" name="prompt_cursor_pos" value="">
            <input id="general_prompt" title="Type your question in here" class="answer_field ask" autocomplete="off" type="text" name="input" value="">
-            <img class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
-            <input type="hidden" name="autocomplete">            
+            <img alt="" class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
+            <input type="hidden" name="autocomplete">
           </td>
           <td>
             <input type="image" class="tk_q_submit" name="ask" src="/skins/opensite/image/basic/trans.gif" id="general_submit" value="answer">
@@ -81,173 +88,146 @@ self.options=options;var form=new AutocompleteForm(self);});};function autocompl
       </tbody></table>
     </form>
   </div>
-</div></div></div>
+</div><div class="clear"></div>
+</div></div>
 <div id="tk_also" class="corporate">
   <div id="tk_corporate">
     <div class="alsorounded cms">
-      <h1>Privacy Policy
-</h1>
-      <ul class="corp_menu">
+				<h1>Privacy Policy</h1>
+    <ul class="corp_menu">
   <li>
-          <a href="http://www.trueknowledge.com/about">about us</a>
+          <a href="/about">about us</a>
         <ul>
       <li>
-                  <a href="http://www.trueknowledge.com/news">news</a>
+                  <a href="/news">news</a>
               </li>
       <li>
-                  <a href="http://www.trueknowledge.com/press">press</a>
+                  <a href="/press">press</a>
               </li>
       <li>
                   <a href="http://blog.trueknowledge.com/">blog</a>
               </li>
       <li>
-                  <a href="http://www.trueknowledge.com/management">management team</a>
+                  <a href="/management">management team</a>
               </li>
     </ul>
   </li>
   
   <li>
-          <a href="http://www.trueknowledge.com/technology">technology</a>
+          <a href="/technology">technology</a>
         <ul>
       <li>
-                  <a href="http://www.trueknowledge.com/architecture">architecture</a>
+                  <a href="/architecture">architecture</a>
               </li>
       <li>
-                  <a href="http://www.trueknowledge.com/demo-video">demo video</a>
+                  <a href="/demo-video">demo video</a>
               </li>
     </ul>
   </li>
   
   <li>
-          <a href="http://www.trueknowledge.com/developer">developer</a>
-        <ul>
-        <li>
-                  <a href="http://www.trueknowledge.com/direct-answer">direct answer</a>
-              </li>
-      <li>
-                  <a href="http://www.trueknowledge.com/query-service">query service</a>
-              </li>
-      <li>
-          <a href="http://www.trueknowledge.com/api/signup">sign up</a>
-      </li>
-      <li>
-          <a href="http://www.trueknowledge.com/api/reset">forgotten details?</a>
-      </li>
-    </ul>
-  </li>
-  <li>
-          <a href="http://www.trueknowledge.com/jobs">careers</a>
+          <a href="http://developer.trueknowledge.com/">developer</a>
       </li>
   <li>
-          <a href="http://www.trueknowledge.com/contact">contact us</a>
+          <a href="/jobs">careers</a>
       </li>
-</ul>      <div class="corp_content">
-        
-<p>
-  True Knowledge Limited is committed to protecting the privacy and confidentiality of information
-  provided by all users of
-  <a href="http://www.trueknowledge.com/" title="http://www.trueknowledge.com/">http://www.trueknowledge.com/</a>.
-  Please read the following privacy policy to understand how we use and protect the information
+  <li>
+          <a href="/contact">contact us</a>
+      </li>
+</ul>    <div class="corp_content">
+			<div class="entry">
+				<p>
+  True Knowledge Limited is committed to protecting the privacy and confidentiality of information<br>
+  provided by all users of<br>
+  <a href="http://www.trueknowledge.com/" title="http://www.trueknowledge.com/">http://www.trueknowledge.com/</a>.<br>
+  Please read the following privacy policy to understand how we use and protect the information<br>
   that is provided to us by users of this website.
 </p>
-
 <h2 style="margin-bottom: 15px;">
-  By visiting and/or registering on this site, you consent to the collection,
-  use and transfer of your information under the terms of this policy.
+  By visiting and/or registering on this site, you consent to the collection,<br>
+  use and transfer of your information under the terms of this policy.<br>
 </h2>
-
 <h3>Information that we collect from you</h3>
-
 <p>
-  When you visit or register on
-  <a href="http://www.trueknowledge.com/" title="http://www.trueknowledge.com/">http://www.trueknowledge.com/</a>
-  (and all other subdomains of trueknowledge.com) you may be asked to provide certain information about yourself
-  including your name, contact details and credit or debit card information. We may also collect information about
-  your use of our website as well as information about you by the use of cookies (see below), information you post
+  When you visit or register on<br>
+  <a href="http://www.trueknowledge.com/" title="http://www.trueknowledge.com/">http://www.trueknowledge.com/</a><br>
+  (and all other subdomains of trueknowledge.com) you may be asked to provide certain information about yourself<br>
+  including your name, contact details and credit or debit card information. We may also collect information about<br>
+  your use of our website as well as information about you by the use of cookies (see below), information you post<br>
   to the website and e-mails or letters you send to us.
 </p>
-
 <h3>Information that we collect from you via the True Knowledge browser add-on</h3>
-
 <p>
-  When you use the True Knowledge browser add-on (also called Google Enhancer - True
-  Knowledge and the True Knowledge Firefox add-on), the add-on will transmit to True
-  Knowledge's servers information relating to your use of certain internet search engines.
-  This information includes the search terms you use, what search engine you are using and
-  which version of the add-on you have installed.  All use of the add-on is anonymous, we do
-  not associate any personally identifiable information with the information transmitted to
+  When you use the True Knowledge browser add-on (also called Google Enhancer – True<br>
+  Knowledge and the True Knowledge Firefox add-on), the add-on will transmit to True<br>
+  Knowledge’s servers information relating to your use of certain internet search engines.<br>
+  This information includes the search terms you use, what search engine you are using and<br>
+  which version of the add-on you have installed.  All use of the add-on is anonymous, we do<br>
+  not associate any personally identifiable information with the information transmitted to<br>
   our servers via the add-on.
 </p>
-
 <h3>Information posted by third parties</h3>
-
 <p>
-  Users of this website may submit personal information about third parties to the
-  True Knowledge database through this website. We do not verify the content of any personal
-  information posted to this website by third parties over whom we have no control. Although
-  every reasonable effort is made to ensure that the information on this website is accurate
-  at the time of publication, it is subject to variation at any time without notice and True
-  Knowledge gives no warranty whatsoever that any such information will be accurate or complete
-  at any particular time. Please refer to our <a href="/legal/" title="terms of use">terms of use</a>
-  for further information. We reserve the right at any time and at our sole discretion to remove any
+  Users of this website may submit personal information about third parties to the<br>
+  True Knowledge database through this website. We do not verify the content of any personal<br>
+  information posted to this website by third parties over whom we have no control. Although<br>
+  every reasonable effort is made to ensure that the information on this website is accurate<br>
+  at the time of publication, it is subject to variation at any time without notice and True<br>
+  Knowledge gives no warranty whatsoever that any such information will be accurate or complete<br>
+  at any particular time. Please refer to our <a href="/legal/" title="terms of use">terms of use</a><br>
+  for further information. We reserve the right at any time and at our sole discretion to remove any<br>
   information or to correct any information which has been posted to this website.
 </p>
 <h3>Cookies</h3>
-
 <p>
-  Cookies are small amounts of information which are stored on your computer.
-  Using cookies enables us to monitor website traffic and to personalise the content
-  of our site to your requirements. This maximises the benefits you gain in using our
+  Cookies are small amounts of information which are stored on your computer.<br>
+  Using cookies enables us to monitor website traffic and to personalise the content<br>
+  of our site to your requirements. This maximises the benefits you gain in using our<br>
   website and makes it easier for you to log on and use the site during any future visits.
 </p>
-
 <p>
-  We may use cookies to collect information about your use of
-  our website (whether you register on our site or not). As soon as you
+  We may use cookies to collect information about your use of<br>
+  our website (whether you register on our site or not). As soon as you<br>
   enter or register on our site, our system will issue cookies to your computer whenever you log on.
 </p>
 <p>
-  The first time you use the True Knowledge browser add-on,
-  our service sends a cookie to your computer.  The cookie is used to facilitate
-  the collection of the information described in the paragraph above titled: Information
+  The first time you use the True Knowledge browser add-on,<br>
+  our service sends a cookie to your computer.  The cookie is used to facilitate<br>
+  the collection of the information described in the paragraph above titled: Information<br>
   that we collect from you when you use the True Knowledge browser add-on.
 </p>
-
 <p>
-  You may disable the use of cookies in your internet browser but this may limit your access
+  You may disable the use of cookies in your internet browser but this may limit your access<br>
   to our website or adversely affect your use of features or functions on certain web pages on it.
 </p>
-
 <h3>Use of your information</h3>
 <p>
-  The information we collect from you will enable us to provide you with access
-  to all parts of our website and the services you have requested. We will also
-  keep records of those who have requested access to secure parts of our website
-  and use and analyse the information we collect so that we can administer, support,
+  The information we collect from you will enable us to provide you with access<br>
+  to all parts of our website and the services you have requested. We will also<br>
+  keep records of those who have requested access to secure parts of our website<br>
+  and use and analyse the information we collect so that we can administer, support,<br>
   improve and develop our business.
 </p>
 <p>
-  In particular, we may use the information we collect from you to contact you for your views
-  on our products and services and to notify you occasionally about important changes or developments
-  to them or to the site. Where you have consented to us doing so, we might also use the information we
-  collect from you to let you know about other products and services which we offer which may be of interest
-  to you and we may contact you by post, telephone or fax, as well as by e-mail. If you change your mind
+  In particular, we may use the information we collect from you to contact you for your views<br>
+  on our products and services and to notify you occasionally about important changes or developments<br>
+  to them or to the site. Where you have consented to us doing so, we might also use the information we<br>
+  collect from you to let you know about other products and services which we offer which may be of interest<br>
+  to you and we may contact you by post, telephone or fax, as well as by e-mail. If you change your mind<br>
   about being contacted in the future, please let us know.
 </p>
-
 <h3>Disclosure of your information</h3>
 <p>
-  When you post knowledge and/or other materials to this website, you will be identified as
+  When you post knowledge and/or other materials to this website, you will be identified as<br>
   having posted such information by whatever user name you selected when you registered with this website.
 </p>
-
 <p>
-  trueknowledge.com is a community powered question answering
-  site where the community can help get questions answered by adding and
-  correcting knowledge. For this reason, questions that you ask on the
-  www.trueknowledge.com website may be published for the benefit of other users.
-  To avoid personal identification, we will not without your express consent,
-  associate your user name or other identifiable information with the questions asked,
+  trueknowledge.com is a community powered question answering<br>
+  site where the community can help get questions answered by adding and<br>
+  correcting knowledge. For this reason, questions that you ask on the<br>
+  www.trueknowledge.com website may be published for the benefit of other users.<br>
+  To avoid personal identification, we will not without your express consent,<br>
+  associate your user name or other identifiable information with the questions asked,<br>
   nor will we group your questions together as being associated with a single user.
 </p>
 <p>The information you provide to us will be held on our computers in the UK and may be accessed by or given to our staff working outside the UK and third parties including companies within the True Knowledge group some of whom are located in the US who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you.</p>
@@ -255,13 +235,10 @@ self.options=options;var form=new AutocompleteForm(self);});};function autocompl
 <p>Unless required to do so by law or as otherwise set out in this privacy policy, we will not share, sell or distribute any of your personal information without your consent.</p>
 <p>We only collect information via the True Knowledge Firefox add-on in order to facilitate the function of the add-on and for internal statistical and analytical use.  The information we collect via the add-on is kept private.</p>
 <h3>Protection of personal data</h3>
-
 <p>We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.</p>
-
 <h3>Links</h3>
 <p>True Knowledge is not responsible for the privacy and data protection practices of other websites which may be reached through links contained in this website. Users should be aware when they leave this website and move into any linked website and should read the privacy and data protection policies and statements contained on any such linked website.</p>
 <h3>Accessing and updating</h3>
-
 <p>You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
 <h3>Changes to our privacy policy</h3>
 <p>Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.</p>
@@ -271,18 +248,15 @@ self.options=options;var form=new AutocompleteForm(self);});};function autocompl
 m='privacy'+String.fromCharCode(31+33)+'trueknowledge.com'
 document.write('<a href="mailto:'+m+'">'+m+'</a>')
 //-->
-</script><a href="mailto:privacy@trueknowledge.com">privacy@trueknowledge.com</a> .
-</p>
+</script><a href="mailto:privacy@trueknowledge.com">privacy@trueknowledge.com</a> .</p>
 
-
-
-      </div>
-      <div class="clear"></div>
+				
+			</div>
+		</div>
+			      <div class="clear"></div>
     </div>
   </div>
-</div>
-
-</div><div id="footer">
+</div></div><div id="footer">
   <div id="footer_content">
     <div class="clear"></div>
     <div id="subject_directories">
@@ -403,7 +377,7 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
       <li><a href="/jobs">careers</a></li>
       <li><a href="/news">news</a></li>
       <li>&nbsp;</li>
-      <li><a href="/developer">developer</a></li>
+      <li><a href="http://developer.trueknowledge.com/">developer</a></li>
       <li><a href="http://support.trueknowledge.com/">support</a></li>
       <li><a href="http://blog.trueknowledge.com">blog</a></li>
       <li>&nbsp;</li>
@@ -412,7 +386,7 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
       <li><a href="http://support.trueknowledge.com/forums">community</a></li>
     </ul>
     
-    <div id="patent_info">Protected by US patent 7,013,308.<br>Other US and international patents pending.</div>
+    <div id="patent_info">Protected by US patents 7,013,308 and 7,707,160.<br>Other US and international patents pending.</div>
     <div class="clear"></div>
   </div>
 </div>
@@ -436,10 +410,11 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
               <input type="hidden" name="timestamp" value="">
               <div class="rememberme_area">
                   <input type="checkbox" name="rememberme" value="Y" id="rememberme" tabindex="3">
+                  <input type="hidden" name="skin" value="">
                   <label for="rememberme">Remember me</label>
               </div>
               <div class="dialogButtons">
-                  <img class="spinner" src="/skins/spin/transparentpixel.gif" width="16" height="16" style="z-index: -1000;">
+                  <img alt="" class="spinner" src="/skins/spin/transparentpixel.gif" width="16" height="16" style="z-index: -1000;">
                   <a href="#" class="no" tabindex="5"></a>
                   <a href="#" class="signin" tabindex="4"></a>
               </div>
@@ -454,11 +429,11 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
             </p>
             <label for="forgotten_email">Please type your email:</label>
             <input type="text" name="email" id="forgotten_email">
-            <img class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
+            <img alt="" class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
           </div>
           <div class="dialogButtons">
-              <a href="#" class="no"><div></div></a>
-              <a href="#" id="reset"><div class="statefull_element widget_off"></div></a>
+              <a href="#" class="no"><span></span></a>
+              <a href="#" id="reset"><span class="statefull_element widget_off"></span></a>
           </div>
       </div>
       <div id="login3" style="display: none">
@@ -467,7 +442,7 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
               You will shortly recieve an email with intructions on how to reset your password.
           </div>
           <div class="dialogButtons">
-              <a href="#" id="ok"><div class="statefull_element widget_off"></div></a>
+              <a href="#" id="ok"><span class="statefull_element widget_off"></span></a>
           </div>
       </div>
   </div>
@@ -484,28 +459,29 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
           <div class="fields">
               <div>
                 <label for="email">Please type your email address:</label>
+                <input type="hidden" name="skin" value="">
                 <input type="text" name="email" id="email">
-                <img class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
+                <img alt="" class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
                 <br>
                 <div>
-                  <span class="error" id="error_emailexists">This email address is already registered - 
-                  <a href="#" id="forgotten">click here</a> to be mailed a new password</span>
+                  <span class="error" id="error_emailexists">This email address is already registered -
+                  <a href="#" id="already_registered">click here</a> to be mailed a new password</span>
                 </div>
                 <div>
                   <span class="error" id="error_email"></span>
                 </div>
               </div>
-              
+
               <div>
-                <label for="username">Please choose a username:</label>
-                <input type="text" name="username" id="username">
-                <img class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
+                <label for="register_username">Please choose a username:</label>
+                <input type="text" name="username" id="register_username">
+                <img alt="" class="spinner over" style="display:none;" src="/skins/spin/transparentpixel.gif" width="16" height="16">
                 <br>
                 <div>
                   <span class="error" id="error_username"></span>
                 </div>
               </div>
-              
+
               <div>
                 <label for="password1">Please type a password …</label>
                 <input type="password" name="password1" id="password1"><br>
@@ -513,7 +489,7 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
                   <span class="error" id="error_password1"></span>
                 </div>
               </div>
-              
+
               <div>
                 <label for="password2">… and re-type your password to confirm:</label>
                 <input type="password" name="password2" id="password2"><br>
@@ -522,20 +498,20 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
                 </div>
                 <div>
                   <span class="error" id="error_password2_match" style="display:none">These passwords are not the same</span>
-                </div>                
+                </div>
               </div>
-              
-              <div>            
-                <div id="recaptcha_widget" style="display:none">                
+
+              <div>
+                <div id="recaptcha_widget" style="display:none">
                   <span style="display:none" class="key">6LfieQUAAAAAAGttTDsRqWxpJDhdrJBDKtA4BY52</span>
                   <div id="recaptcha_image"></div>
-                  <div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>                  
+                  <div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
                   <span class="recaptcha_only_if_image">Enter the words above:</span>
-                  <span class="recaptcha_only_if_audio">Enter the numbers you hear:</span>                  
+                  <span class="recaptcha_only_if_audio">Enter the numbers you hear:</span>
                   <input type="text" id="recaptcha_response_field" name="recaptcha_response_field">
                   <div>
                     <span class="error" id="error_captcha"></span>
-                  </div> 
+                  </div>
                   <ul>
                     <li><a href="javascript:Recaptcha.reload()">Get another CAPTCHA</a></li>
                     <li class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')">Get an audio CAPTCHA</a></li>
@@ -543,13 +519,13 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
                     <li><a href="javascript:Recaptcha.showhelp()">Help</a></li>
                   </ul>
               </div>
-              
-            </div>              
+
+            </div>
           </div>
           <div class="dialogButtons">
-              <img class="spinner" src="/skins/spin/transparentpixel.gif" width="16" height="16">
-              <a href="#" class="no"><div></div></a>
-              <a href="#" id="join"><div class="statefull_element"></div></a>
+              <img alt="" class="spinner" src="/skins/spin/transparentpixel.gif" width="16" height="16">
+              <a href="#" class="no"><span></span></a>
+              <a href="#" id="join"><span class="statefull_element"></span></a>
           </div>
       </div>
       <div class="postregistation" style="display: none">
@@ -560,7 +536,7 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
           </div>
           <div class="dialogButtons">
               <em>OK</em>
-          </div>        
+          </div>
       </div>
       <div id="registationreset" style="display: none">
           <h2>Reset request sent</h2>
@@ -568,31 +544,10 @@ document.write('<a href="mailto:'+m+'">'+m+'</a>')
               You will shortly recieve an email with intructions on how to reset your password.
           </div>
           <div class="dialogButtons">
-              <a href="#" id="ok"><div class="statefull_element widget_off"></div></a>
+              <a href="#" id="reset_ok"><span class="statefull_element widget_off"></span></a>
           </div>
-      </div>      
+      </div>
   </div>
-</div><script type="text/javascript">
-<!--
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//-->
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-try {
-var pageTracker = _gat._getTracker("UA-2682584-2");
-pageTracker._initData();
-pageTracker._trackPageview();
-var rollupTracker = _gat._getTracker("UA-11193466-1");
-rollupTracker._setAllowHash(false);
-rollupTracker._setDomainName(".a.com");
-rollupTracker._setAllowLinker(true);
-rollupTracker._trackPageview();
-} catch(err) {}
-
-//-->
-</script>
-
+</div>
 
 </body></html>
