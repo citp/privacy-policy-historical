@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the browserdefender.com privacy policy that was archived on 2010-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622233716id_/http%3A//www.browserdefender.com/info/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the browserdefender.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222172550id_/http%3A//www.browserdefender.com/info/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -43,15 +43,35 @@
 	</script>
 	<div id="header">
 	<a href="/"><img class="logo" src="/res/images/logo.png" alt="Browser Defender™ powered by PC Tools"></a>
-	<!-- span class="language">Change Language:
-		<a href="/de/info/privacypolicy/"><img src="/res/images/flags/de.gif" alt="Deutsch"> Deutsch</a>
-</span-->
-	</div>
+	<div style="float: right; padding-top: 30px;">
+	<script type="text/javascript">
+	function select_language() {
+		change_to = document.getElementById('lang').value;
+		if(change_to != "") {
+			document.location.href=change_to;
+		}
+	}
+	</script>
+	<form action="/" style="margin: 0pt; padding: 10px 16px 0pt 0pt;" method="POST">
+		<select id="lang" onchange="select_language();" size="1" name="language" style="visibility: visible;">
+		<option selected="">English</option><option value="/de/info/privacypolicy/">Deutsch</option>
+		</select>
+		<script type="text/javascript">
+		document.getElementById('lang').style.visibility = 'visible';
+		</script>
+		<noscript>
+		&lt;select name="language" size="1"&gt;
+		<option selected="">English</option><option value="/de/info/privacypolicy/">Deutsch</option>
+		&lt;/select&gt;
+		&lt;input type="submit" value="Go!" style="width: 30px;"&gt;
+		</noscript>
+	</form>
+</div>	</div>
 	<ul id="nav">
 		<li class="home"><a href="/">Home</a></li>
 		<li class="download"><a href="/download/">Download</a></li>
 		<li class="company"><a href="/company/">Company</a></li>
-		<li class="blog"><a href="http://blog.pctools.com/browserdefender//">Blog</a></li>
+		<li class="blog"><a href="http://www.pctools.com/security-news/">Blog</a></li>
 		<li class="help"><a href="/help/">Help</a></li>
 		<li class="corner-right"><img src="/res/images/navbg-right.gif"></li>
 		<li class="search">
@@ -71,22 +91,22 @@
 		<div class="footer-content">
 			<ul>
 				<li class="footer-header">Security Products</li>
-				<li><a href="http://www.pctools.com/spyware-doctor-antivirus/">Spyware Doctor with AntiVirus</a></li>
-				<li><a href="http://free.pctools.com/free-antivirus/">PC Tools AntiVirus Free</a></li>
-				<li><a href="http://www.pctools.com/internet-security/">PC Tools Internet Security</a></li>
-				<li><a href="http://www.pctools.com/firewall/">PC Tools Firewall Plus</a></li>
+				<li><a href="http://www.pctools.com/internet-security/">PC Tools™ Internet Security</a></li>
+				<li><a href="http://www.s/spyware-doctor-antivirus/">PC Tools Spyware Doctor™ with AntiVirus</a></li>
+				<li><a href="http://www.pctools.com/spyware-doctor/">PC Tools Spyware Doctor™</a></li>
 				<li><a href="http://www.threatfire.com/">ThreatFire</a></li>
-				<li><a href="http://www.pctools.com/spam-monitor/">Spam Monitor</a></li>
-				<li><a href="http://www.iantivirus.com/">iAntiVirus for Mac OSX</a></li>
-				<li><a href="http://www.pctools.com/netbook-security/">PC Tools Security for Netbooks</a></li>
+				<li><a href="http://www.browserdefender.com//">Browser Defender</a></li>
+				
 			</ul>
 			<ul>
 				<li class="footer-header">Utility Products</li>
-				<li><a href="http://www.pctools.com/registry-mechanic/">Registry Mechanic</a></li>
-				<li><a href="http://www.pctools.com/desktop-maestro/">Desktop Maestro</a></li>
-				<li><a href="http://www.pctools.com/file-recover/">File Recover</a></li>
-				<li><a href="http://www.pctools.com/privacy-guardian/">Privacy Guardian</a></li>
-				<li><a href="http://www.pctools.com/disk-suite/">PC Tools Disk Suite</a></li>
+				<li><a href="http://www.pctools.com/performance-toolkit/">PC Tools™ Performance Toolkit</a></li>
+				<li><a href="http://www.pctools.com/registry-mechanic/">PC Tools Registry Mechanic™</a></li>
+				<li><a href="http://www.pctools.com/simple-backup/">PC Tools™ Simple Backup</a></li>
+				<li><a href="http://www.pctools.com/file-recover/">PC Tools™ File Recover</a></li>
+				<li><a href="http://www.pctools.com/privacy-guardian/">PC Tools™ Privacy Guardian</a></li>
+				<li><a href="http://www.pctools.com/password-manager/">RoboForm Pro</a></li>				
+				<li><a href="http://www.pctools.com/synchronize/">GoodSync Pro</a></li>		
 			</ul>
 			<ul class="narrow">
 				<li class="footer-header">Links</li>
@@ -121,7 +141,7 @@
 						$.get(	'/res/ajax/newsletter.php',
 								{
 									email: document.getElementById('newsletter_email').value,
-									language: 'en'
+									language: ''
 								},
 								function(data) {
 									$('#subscriberesult').html(data);
