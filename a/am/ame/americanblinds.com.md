@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325123044id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222210912id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
 
-# American Blinds Wallpaper and More : Resource Center: American Blinds Wallpaper and More
+# Privacy and Security | American Blinds and Wallpaper
 
-**Privacy and Security** This privacy policy is for American Blinds, Wallpaper & More. Our homepage on the Web is located at[ www.americanblinds.com](http://www.americanblinds.com/default.asp). The full text of our privacy policy is stated below. Users may go to [our registration section](https://www.americanblinds.com/register/default.asp) to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+**Privacy and Security**
 
-**American Blinds, Wallpaper & More  
+This privacy policy is for American Blinds, Wallpaper & More. Our homepage on the Web is located at[ www.americanblinds.com](http://century.dev.blinds.net/). The full text of our privacy policy is stated below. Users may go to our registration section to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+
+**American Blinds  
 Att: E-Commerce Dept.  
-31557 Schoolcraft Rd.  
-Livonia, MI 48150-1847  
-USA  
-**  
-You may contact us by e-mail by [clicking here](https://www.americanblinds.com/customer/email_request.asp?msgid=6). 
+** 1302 Waugh Dr, #943  
+Houston, TX 77019-3908
 
-You may call us at **1- 800- 509- 8222**
+Contact us by e-mail [customerserviceteam@AmericanBlinds.com ](mailto:customerserviceteam@AmericanBlinds.com) . 
+
+You may call us at **800-575-8016**
 
 **Dispute Resolution**  
-Privacy/Security Dispute: If you have a question regarding our privacy policy or wish to dispute a privacy related issue, please contact our Customer Service department at 1-800-575-9019. **
+Privacy/Security Dispute: If you have a question regarding our privacy policy or wish to dispute a privacy related issue, please contact our Customer Service department at 800-575-8016. **
 
 Additional Information
 
@@ -72,7 +73,7 @@ When you place an order or register on our site, we require you to provide your 
 
 We utilize third-party companies to perform certain functions for us. Examples include order fulfillment, package delivery, the sending of emails and direct mail, data analysis, marketing optimization programs, credit card processing, etc. These third parties are given only the data that they need to perform the function that they are engaged in, and are not allowed to use it for any other purpose. We may be required to disclose your personal information to third parties to comply with applicable laws, subpoenas, or court orders. 
 
-We do make our customer postal mailing list available to other reputable organizations from time to time. You may opt out of this process by going to [our registration section](https://www.americanblinds.com/register/default.asp). 
+We do make our customer postal mailing list available to other reputable organizations from time to time. You may opt out of this process by going to our registration section. 
 
 In the event of a merger or acquisition, your information may be transferred to the successor entity.  
 
