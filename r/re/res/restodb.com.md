@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102022413id_/http%3A//www.restodb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222074357id_/http%3A//restodb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Restaurant and Dining Guide - Directory, Review, Articles, Photos
 
@@ -43,6 +43,6 @@ Ada yg bisa share gimana dapatin disc. card dari shangri-la hotel. bisa di ...
 
 Latest Articles Posted
 
-[]()[](https://web.archive.org/indonesia/articles/2009/12/31/year_end_sale_at_all_snack_zone_outlets/ "Year End Sale At All Snack Zone Outlets")
+[]()[](https://web.archive.org/indonesia/articles/2010/07/14/santapan_negeri_1001_malam/ "Santapan Negeri 1001 Malam")
 
-Program Year End Sale Khusus Diperuntukan Untuk Pemegang Kartu Kredit Bank ...
+Bagi Kaum Pencinta Daging, Disediakan Aneka Menu Utama Dari Negeri 1001 Mal ...
