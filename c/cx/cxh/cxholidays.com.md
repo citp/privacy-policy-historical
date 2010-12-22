@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232921id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222164658id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy - Cathay Pacific Holidays - Dragonair Holidays - Your holiday package travel agent
 
