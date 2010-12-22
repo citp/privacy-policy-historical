@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629014649id_/http%3A//www.kayak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222152312id_/http%3A//www.kayak.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KAYAK
+# KAYAK - Privacy Policy
 
 Our goal is to make Kayak the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the [privacy feedback form](https://web.archive.org/feedback/privacy).
 
