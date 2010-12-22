@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612005834id_/http%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222232222id_/http%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
 # Bidnapper : eBay Auction Sniper Will Snipe Online Auctions. Sniping wins more, free trial.
 
@@ -16,5 +16,4 @@ Bidnapper puts a cookie on your computer that identifies you as a registered use
 
 Payment to Bidnapper is done through our paymaster, Paypal and Stratus. Payer's personal information is not retained by Bidnapper. Payment information is transmitted to and from Paypal and Stratus utilizing Secure Socket Layer encryption software. 
 
-Bidnapper's privacy/security policy is subject to change at any time. Notification of changes to this policy will be made to current users via e-mail.    
-
+Bidnapper's privacy/security policy is subject to change at any time. Notification of changes to this policy will be made to current users via e-mail. 
