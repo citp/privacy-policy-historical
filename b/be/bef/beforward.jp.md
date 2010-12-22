@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322214932id_/http%3A//www.beforward.jp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222031303id_/http%3A//beforward.jp/privacy.php) for the most accurate reproduction.*
 
-# Beforward: Japanese Cars Exporter
+# Privacy Policy | BE FORWARD
 
 **Please read our Privacy Policy carefully !**  
 **1.** | **The Information We Collect**  
