@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alliedbarton.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220523id_/http%3A//www.alliedbarton.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedbarton.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222121813id_/http%3A//www.alliedbarton.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# AlliedBarton - Privacy Policy
-
-### Privacy Policy
+# Privacy Policy
 
 ##### Our Policy
 
@@ -35,4 +33,4 @@ None at present.
 ##### Contacting Us
 
 If you have any questions about this Privacy Policy, or if you would like to review, change or remove your personal information, you can e-mail us at [info@alliedbarton.com](mailto:info@alliedbarton.com). Additionally, you can contact us by writing to:  
-AlliedBarton, 3606 Horizon Drive, King of Prussia, PA 19406.
+AlliedBarton, 8 Tower Bridge, 161 Washington Street, Suite 600, Conshohocken, PA 19428.
