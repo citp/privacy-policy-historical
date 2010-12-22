@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megasearch.biz privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426095355id_/http%3A//www2.megasearch.biz/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megasearch.biz privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222143109id_/http%3A//www.megasearch.biz/privacy.aspx) for the most accurate reproduction.*
 
 # MegaSearch Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #####  Introduction 
 
-**MegaSearch** respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at **MegaSearch’s** Web site, [www.MegaSearch.biz](http://www.megasearch.biz/).
+**MegaSearch** respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at **MegaSearch’s** Web site.
 
 #####  Administration 
 
@@ -16,8 +16,8 @@ City: Overland Park
 State: Kansas  
 Zip Code: 66213  
 Country: United States  
-Website URL: [http://www.MegaSearch.biz](http://www.megasearch.biz/)  
-Website Email: [info@MegaSearch.biz](mailto:info@MegaSearch.biz)
+Website URL: MegaSearch.biz  
+Website Email: info@MegaSearch.biz
 
 #####  Part 1. Information Collection & Usage 
 
@@ -28,6 +28,8 @@ Website Email: [info@MegaSearch.biz](mailto:info@MegaSearch.biz)
 **Cookies** \-  Cookies are small bits of electronic information that a website can transfer to a visitor’s hard drive to help tailor and keep of visits to our Website.  The use of cookies is standard on the internet and many websites use them.  Cookies allow website operators to better customize visits to the site.  Although, **MegaSearch** does not currently utilize cookies on our Website, our third party advertising companies may, in fact, use them from time to time. 
 
 Although most Web browsers automatically accept cookies, You can usually change Your browser to prevent that or to notify You when You are sent a cookie.  This gives You the option to accept or not accept cookies. If You would like more information on cookies, we suggest You visit <http://www.cookiecentral.com/>. 
+
+Third Party Advertisers and cookies - MegaSearch uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Website, other web sites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Part II.   ****Compliance with Service or Process or Law Enforcement **
 
