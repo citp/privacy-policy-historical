@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517121454id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222075547id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Cheapflights (USA) Inc., which publishes Cheapflights.com, has created this privacy statement in order to demonstrate our firm commitment to user privacy. The following discloses our information gathering and dissemination practices for Cheapflights.com, as well as e-mail newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
+Cheapflights Media (USA) Inc., which publishes Cheapflights.com, has created this privacy statement in order to demonstrate our firm commitment to user privacy. The following discloses our information gathering and dissemination practices for Cheapflights.com, as well as e-mail newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
 
 This Privacy Policy only applies to information collected on Cheapflights.com and not to information that is collected by Cheapflights through any other means. Your visit to Cheapflights.com is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-and-conditions/)
 
@@ -80,7 +80,7 @@ In addition to this standard Privacy Policy, Cheapflights.com uses an electronic
 
 We have taken great measures to ensure that your visit to Cheapflights.com is an excellent one and that your privacy is respected. If you have any questions, comments or concerns about our privacy practices, please contact us by e-mail via our [Feedback](https://web.archive.org/help/contact-us/) link or by writing to the following address:
 
-Cheapflights (USA) Inc.  
+Cheapflights Media (USA) Inc.  
 Ten Post Office Square  
 Suite 1000, Tenth Floor  
 Boston MA 02109
@@ -89,4 +89,4 @@ Boston MA 02109
 
 We use the sharethis widget on this site to allow our users to tell their friends about the site, by allowing them to send a onetime email within the widget, inviting their friend to visit site. We do not have access to any of the Personal Information collected within this widget. We also use the sharethis widget to allow users to log into their third party social networking accounts and share a link to cheapflights with their friends.
 
-Updated: September 2009
+Updated: September 2011
