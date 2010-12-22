@@ -1,157 +1,184 @@
-<!--The following is the downloaded HTML source of the apture.com privacy policy that was archived on 2010-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622041214id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apture.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222111102id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<title>Privacy Policy – Apture</title>
-		<!--[if !IE]><!-->
-			<link type="text/css" rel="stylesheet" href="http://cdn.apture.com/media/core.css?v=2793022" media="screen">
-		<!-- <![endif]-->
-		<!--[if gt IE 6]>
-			<link type="text/css" rel="stylesheet" href="http://cdn.apture.com/media/core_ie.css?v=2793022" media="screen" />
-		<![endif]-->
-		<!--[if lte IE 6]>
-			<link type="text/css" rel="stylesheet" href="http://cdn.apture.com/media/core_ie6.css?v=2793022" media="screen" />
-		<![endif]-->
-		<link rel="icon" href="/favicon.ico?s" type="image/x-icon">
-        
-	</head>
+<!DOCTYPE html><html><head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Privacy Policy – Apture</title>
 
-	<body>
+    <!-- xxxxxxxxxxxxxxxxxxx IMPORT EXTERNAL SHEETS xxxxxxxxxxxxxxxxxxxxxxxxx -->
+    <link rel="stylesheet" type="text/css" title="global" media="screen" href="http://cdn.apture.com/media/global.css?v=18855496">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.apture.com/media/app.css?v=18855496">
+    <!--[if IE 6]>
+    	<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.apture.com/media/ie6.css?v=18855496">
+    <![endif]-->
 
-		
-		<div id="wrap">
-		    <div id="header">
-		    	<a href="/"><img id="logo" src="http://cdn.apture.com/media/imgs/logoHome.png" alt="Apture"></a>
-			
-		                        <p><span id="counter">00,000,000</span> visitors retained.&nbsp;
-				
-				<a href="/user/">Sign In</a></p>
-				
-				<script>
-				var QuickCounter = (function() {
-                    var $start = 12140524, // Number to start from, based on count on $startDate
-                        $startDate = Date.parse('03/31/2010'),
-                        $incr = 1000, // How often to update counter in ms.
-                        $rate = 30091, // # to increment PER day
+</head>
+<body class="secondary khtml">
+    <script>        
+        (function() {		
+            var browserVersion = function()
+            {
+                var browser = [];
+                if (/*@cc_on ! @*/ 0)
+                {
+                    // Some form of IE
+                    browser.push('ie');
 
-                        $lastCount = 0,
-                        $ratePerIncr = 0,
-                        $callback = null;
-
-                    function count()
+                    if (window.XMLHttpRequest /*@cc_on && @_jscript_version >= 5.7 @*/)
                     {
-                        $lastCount += $numPerIncr;
-
-                        var $newCount = '',
-                            $curCountLen;
-                        $count = '' + Math.floor($lastCount);
-
-                        $countLen = $count.length;
-                        $pos = $countLen;
-
-                        while($pos > 0)
+                        // IE7+
+                        if (0 /*@cc_on || @_jscript_version == 5.7 @*/)
                         {
-                            $newPos = ($pos >= 3 ? $pos - 3 : 0);
-                            $newCount = $count.substring($newPos, $pos) + ($newCount != '' ? ',' : '') + $newCount;
-                            $pos = $newPos;
-
+                            // IE7
+                            browser.push('ie7');
                         }
-
-                        $callback($newCount);
+                        else
+                        {
+                            // IE8+
+                            browser.push('ie8');
+                        }
                     }
-
-                    return function($cb) {
-                        $rateInMs = ($rate / 24 / 60 / 60 / 1000);
-                        $numPerIncr = $rateInMs * $incr;
-                        $callback = $cb;
-                        $lastCount = $start + (((new Date).getTime()) - $startDate) * $rateInMs;
-
-                        window.setInterval(count, $incr);
-                    };
-                })();
-                
-				QuickCounter(
-                    function($count)
+                    else
                     {
-                        document.getElementById('counter').innerHTML = $count;
+                        // IE6
+                        browser.push('ie6');
                     }
-                );
-				</script>
+                }
+                else if (document.childNodes && !document.all && !navigator.taintEnabled)
+                {
+                    // Webkit
+                    browser.push('khtml');
+                }
+                else if (document.getBoxObjectFor || (typeof window.mozInnerScreenX != 'undefined'))
+                {
+                    // gecko
+                    browser.push('gecko');
+                    // Get the ff version out of the userAgent. We'll return a float for easy comparison.
+                    // Note: this won't work on incremental version (ie, 3.5.10). We really shouldn't need THAT much granularity.
+                    var ffVersion = parseFloat((new RegExp(/Firefox\/([\d.]+)/)).exec(navigator.userAgent)[1]);
+                    if (ffVersion >= 3)
+                    {
+                        // FF 3.6
+                        browser.push('ff3');
+                        if (ffVersion <= 3.5)
+                        {
+                            browser.push('ff3.5');
+                        }
+                    }
+                    else if (ffVersion < 3)
+                    {
+                        browser.push('ff2');
+                    }
+                }
+                else
+                {
+                    // unknown
+                    browser.push('unk');
+                }
+                
+                return browser;
+            }
+            
+            document.body.className += ' ' + (browserVersion()).join(' ');
+        })();
+    </script>
+    <div class="top-stripe"></div>
+    <div class="container" id="contact">
+        <div class="column-row">
+            <div class="sixteen columns">
+                <a href="/" class="logo">Apture</a>
+                <ul class="nav">
+                    <li><a href="http://www.apture.com/contact/">Contact Us</a></li>
+                    <li>|</li>
+                    <li><a href="/user/">Sign In</a></li>
+                </ul>
+            </div><!--Close sixteen columns -->
 
-				
-				<ul id="navigation">
-                    <!-- <li class="bloggers"><a href="http://www.apture.com/bloggers/">For Bloggers</a></li> -->
-                    <!-- <li class="publishers"><a href="http://www.apture.com/publishers/">For Publishers</a></li> -->
-                    <!-- <li class="showcase"><a href="http://www.apture.com/showcase/">Showcase</a></li> -->
-                    <li class="siteBarOverview"><a href="http://www.apture.com/signup/">Site Bar Overview</a></li>
-                    <!-- <li class="experience"><a href="http://www.apture.com/experience/music/">Demo</a></li> -->
-                    <li class="aboutUs"><a href="http://www.apture.com/about/">About Us</a></li>
-				</ul>
-				
-			</div>
 
 
-			<div id="content">
-				<div id="content-primary">
-					<span id="aptureStartContent"></span>
-					<h1>Privacy Policy</h1>
-					
-	
-	
 
-					
-					<p class="lede">Please note that by using this website (the “Site”) or the services provided by Apture, Inc. (“Apture”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site or Apture’s services.</p>
 
-					<h2>What is the purpose of this Privacy Policy?</h2>
-					<p>This Privacy Policy discloses our personal information gathering and dissemination practices with respect to the Site and our services. Please read this Privacy Policy carefully.</p>
+            <div class="sixteen columns blocked">
+                <div class="two columns sidebar">
+                <ul class="sidebar-nav">
+    <li class="">
+        <a href="http://www.apture.com/about/">About</a>
+    </li>
+    <li class="">
+        <a href="http://www.apture.com/team/">Team</a>
+    </li>                
+    <li class="">
+        <a href="http://www.apture.com/management/">Investors</a>
+    </li>
+    <li class="">
+        <a href="http://www.apture.com/press/">Press</a>
+    </li>
+    <li class="">
+        <a href="http://www.apture.com/faq/">FAQ</a>
+    </li>
+    <li class="">
+        <a href="http://www.apture.com/contact/">Contact</a>
+    </li>
+    <li class="">
+        <a href="http://www.apture.com/jobs/">Jobs</a>
+    </li>
+</ul>
+
+                </div>
+                <div class="twelve columns content">
+                    <h2>Privacy Policy</h2>
+                    <p class="lede">Please note that by using this website or the services (the “Site”) provided by Apture, Inc. (“Apture”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.</p>
+
+					<h3>What is the purpose of this Privacy Policy?</h3>
+					<p>This Privacy Policy discloses our personal information gathering and dissemination practices with respect to the Site. Please read this Privacy Policy carefully.</p>
 					<p>We have also created this Privacy Policy to demonstrate our commitment to privacy. We recognize that when you provide us with information about yourself that you trust us to act in a responsible manner with that information, and we’re committed to making sure we earn that trust.</p>
 
-					<h2>What information do we collect from users and how is it used?</h2>
+					<h3>What information do we collect from users and how is it used?</h3>
 					<p>The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:</p>
 					<dl>
 						<dt>Registration</dt>
-						<dd>Before you can utilize certain services that we offer on the Site or otherwise, we may ask that you register with Apture and provide us with your email address, a password, your first and last name and other contact information and personal details. We request this information for identification purposes, to communicate with you regarding your account, and to facilitate the functioning of certain services. We may keep this information indefinitely.</dd>
+						<dd>Before you can utilize certain services that we offer, we may ask that you register with Apture and provide us with your email address, a password, your first and last name and other contact information and personal details. We request this information for identification purposes, to communicate with you regarding your account, and to facilitate the functioning of certain services. We may keep this information indefinitely.</dd>
 						<dt>Correspondence</dt>
 						<dd>If you correspond with us via email, we may gather in a file specific to you the information that you submit. We may keep this information indefinitely.</dd>
 						<dt>URL and IP address</dt>
-						<dd>Like many other websites, Apture collects information about users’ utilization and navigation of our Site. This information helps us to design our Site to better suit our users’ needs. For example, our Site will track the URL that you visited before you came to our Site, the URL to which you next go and your Internet Protocol (IP) address. We use your IP address to help diagnose problems with our server and to administer our Site. Your IP address also is used to help identify you and to gather broad demographic information.</dd>
+						<dd>Like many other websites, Apture collects information about users’ utilization and navigation of the Site. This information helps us to design the Site to better suit our users’ needs. For example, the Site will track the URL that you visited before you came to the Site, the URL to which you next go and your Internet Protocol (IP) address. We use your IP address to help diagnose problems with our server and to administer the Site. Your IP address also is used to help identify you and to gather broad demographic information.</dd>
 						<dt>Information Collected With Cookies</dt>
-						<dd>Like most major websites, Apture uses cookies on certain pages of our Site. Cookies make using the Internet easier by, among other things, saving your preferences for you. For example, a cookie lets the Site remember that you’ve registered, which allows us to speed up your future activities at our Site, and which allows you to enter your registration information less frequently while visiting our Site. We may also use cookies to deliver content tailored to your interests. Our cookies may enable us to relate your use of our Site to personally identifying information that you previously submitted, such as calling you by name when you return to our Site. If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of the Site may not be as efficient or as enjoyable as it would be if the cookie were enabled. The information that we collect with cookies allows us to improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings and to customize our Site’s content, layout and services. However, we only use information collected with cookies on an aggregated basis without the use of any information that personally identifies you.</dd>
+						<dd>Like most major websites, Apture uses cookies on certain pages of the Site. Cookies make using the Internet easier by, among other things, saving your preferences for you. For example, a cookie lets the Site remember that you’ve registered, which allows us to speed up your future activities at the Site, and which allows you to enter your registration information less frequently while visiting the Site. We may also use cookies to deliver content tailored to your interests. Our cookies may enable us to relate your use of the Site to personally identifying information that you previously submitted, such as calling you by name when you return to the Site. If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of the Site may not be as efficient or as enjoyable as it would be if the cookie were enabled. The information that we collect with cookies allows us to improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings and to customize the Site’s content, layout and services. However, we only use information collected with cookies on an aggregated basis without the use of any information that personally identifies you.</dd>
 					</dl>
 
-					<h2>To whom does Apture disclose information about you that we collect?</h2>
+					<h3>To whom does Apture disclose information about you that we collect?</h3>
 					<p>Apture will not share, rent, sell or otherwise disclose any of the personally identifiable information that we collect about you, except when we have your permission or in any of the following situations:</p> 
 					<ul>
 						<li>We may disclose information that we collect about you to our third-party contractors who perform services for Apture in order to provide certain services or to complete or confirm a transaction that you conduct with us.</li>
-						<li>We may disclose the results of aggregated data about you for marketing or promotional purposes (for instance, that a certain percentage of out Site’s users are living in the United States). In these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, is not disclosed to marketing advertisers at all, even in aggregate form.</li>
+						<li>We may disclose the results of aggregated data about you for marketing or promotional purposes (for instance, that a certain percentage of the Site’s users are living in the United States). In these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, is not disclosed to marketing advertisers at all, even in aggregate form.</li>
 						<li>Apture may disclose information about you as part of a merger, acquisition or other sale or transfer of its assets or business. Apture does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.</li>
-						<li>Moreover, we may be legally obligated to disclose information about you to the government or to third parties under certain circumstances, such as in connection with illegal activity on our Site or to respond to a subpoena, court order or other legal process. Apture reserves the right to release information that we collect to law enforcement or other government officials, as we, in our sole and absolute discretion, deem necessary or appropriate.</li>
+						<li>Moreover, we may be legally obligated to disclose information about you to the government or to third parties under certain circumstances, such as in connection with illegal activity on the Site or to respond to a subpoena, court order or other legal process. Apture reserves the right to release information that we collect to law enforcement or other government officials, as we, in our sole and absolute discretion, deem necessary or appropriate.</li>
 					</ul>
-					<p>If you use our Site or services outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely, which may involve the transfer of information out of countries located in the European Economic Area. By allowing Apture to collect information about you, you consent to such transfer and processing of your data.</p>
+					<p>If you use the Site outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely, which may involve the transfer of information out of countries located in the European Economic Area. By allowing Apture to collect information about you, you consent to such transfer and processing of your data.</p>
 
-					<h2>What security measures does the Site employ?</h2>
-					<p>To help protect the privacy of data you transmit through this Site, where personally identifiable information is requested, Apture uses technology designed to encrypt the information that you input before it is sent to us. In addition, Apture takes steps to protect the user data we collect against unauthorized access. However, you should keep in mind that this Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.</p>
+					<h3>What security measures does the Site employ?</h3>
+					<p>To help protect the privacy of data you transmit through the Site, where personally identifiable information is requested, Apture uses technology designed to encrypt the information that you input before it is sent to us. In addition, Apture takes steps to protect the user data we collect against unauthorized access. However, you should keep in mind that the Site runs on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.</p>
 					<p>Please also be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the Internet or encryption method can be guaranteed to be 100% secure.</p>
 
-					<h2>How can you correct or update information that we collect about you?</h2>
+					<h3>How can you correct or update information that we collect about you?</h3>
 					<p>You may correct or update information collected about you by managing your account profile or by contacting Apture at the email or mailing address noted below. We will use reasonable efforts to update our records. For our records, we may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting and agreement enforcement.</p>
 
-					<h2>What are the policies of linked Sites and other third parties?</h2>
+					<h3>What are the policies of linked Sites and other third parties?</h3>
 					<p>This Privacy Policy only addresses the use and disclosure of information we collect from you. You should be aware that when you are on the Site, you can be directed to other websites that are beyond our control, and Apture is not responsible for the privacy practices of third parties or the content of linked websites. We encourage you to read the posted privacy policy whenever interacting with any website.</p>
 
-					<h2>How will I know about changes in the Privacy Policy?</h2>
+					<h3>How will I know about changes in the Privacy Policy?</h3>
 					<p>Apture reserves the right to update this Privacy Policy from time to time. Please visit this page periodically so that you will be apprised of any changes.</p>
 
-					<h2>What is our policy on children users of our Site?</h2>
-					<p>We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of our Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SITE AT ANY TIME OR IN ANY MANNER. If Apture learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then Apture will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an Apture account, then you may alert Apture at the address below and request that we delete that child’s personal information from our systems.</p>
+					<h3>What is our policy on children users of the Site?</h3>
+					<p>We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of the Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS THE SITE AT ANY TIME OR IN ANY MANNER. If Apture learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then Apture will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an Apture account, then you may alert Apture at the address below and request that we delete that child’s personal information from our systems.</p>
 
-					<h2>Will my employer have access to information that we collect about you?</h2>
-					<p>If you access our Site as a representative of a third party, such as your employer, that party may review and modify your personal information, ask us to delete your personal information, or request that we cease collecting your personal information. If such a third party asks us to delete your personal information or cease collecting your personal information, we may terminate your right to access our Site.</p>
+					<h3>Will my employer have access to information that we collect about you?</h3>
+					<p>If you access the Site as a representative of a third party, such as your employer, that party may review and modify your personal information, ask us to delete your personal information, or request that we cease collecting your personal information. If such a third party asks us to delete your personal information or cease collecting your personal information, we may terminate your right to access the Site.</p>
 
-					<h2>What law governs my use of the Site and Apture’s services?</h2>
+					<h3>What law governs my use of the Site?</h3>
 					<p>By choosing to visit this Site, use our services, or otherwise provide information to Apture, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the State of California. You also agree to abide by any limitation on damages contained in our Terms of Service or other agreement that we have with you.</p>
 
-					<h2>How to contact us?</h2>
+					<h3>How to contact us?</h3>
 					<p>If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at <a href="mailto:contact@apture.com">contact@apture.com</a>, or by mail at:</p>
 					<p>
 						Apture, <abbr title="Incorporated">Inc.</abbr><br>
@@ -159,46 +186,51 @@
 						San Francisco, CA 94107<br>
 					</p>
 					<p><em>Last Updated: June 17, 2008</em></p>
-
-					<span id="aptureEndContent"></span>
-				</div><!--/#content-primary-->
-
-				<div id="content-secondary">
-					
-
-					<ul class="navigation">
-						<li class=""><a href="http://www.apture.com/about/">Company Background</a></li>
-						<li class=""><a href="http://www.apture.com/team/">Meet the Team</a></li>
-						<li class=""><a href="http://www.apture.com/management/">Investors</a></li>
-						<li class=""><a href="http://www.apture.com/jobs/">Jobs</a></li>
-						<li class=""><a href="http://www.apture.com/press/">Press</a></li>
-						<li class=""><a href="http://www.apture.com/faq/">Frequently Asked Questions</a></li>
-					</ul>
+ 
 
 
-				</div><!--/#content-secondary-->
-			</div>
+                </div>
+            </div>
 
-			
-			<div id="footer">
-	<p id="copyright">Copyright © 2010 Apture, Inc. Patents Pending</p>
-	<ul id="global-nav">
-		<li><a href="http://www.apture.com/about/">About</a></li>
-		<li><a href="http://www.apture.com/press/">Press</a></li>
-		<li><a href="http://www.apture.com/faq/">FAQ</a></li>
-		<li><a href="http://blog.apture.com/">Blog</a></li>
-		<li><a href="http://www.apture.com/contact/">Contact</a></li>
-		<li><a href="http://www.apture.com/jobs/">Jobs</a></li>
-		<li><a href="http://www.apture.com/privacy/">Privacy</a></li>
-		<li><a href="http://www.apture.com/terms/">Terms</a></li>
-	</ul>
-</div>
 
-			
-		</div>
 
-        
-		
+
+        </div>
+    </div>
+
+    <div id="footer">
+        <div class="container">
+            <p class="copyright">Copyright 2010, Apture, Inc Patents Pending</p>
+            <ul class="footer-nav">
+                <li>
+                    <a href="http://www.apture.com/about/">About</a>
+                </li>
+                <li>
+                    <a href="http://www.apture.com/press/">Press</a>
+                </li>
+                <li>
+                    <a href="http://www.apture.com/faq/">FAQ</a>
+                </li>
+                <li>
+                    <a href="http://blog.apture.com/">Blog</a>
+                </li>
+                <li>
+                    <a href="http://www.apture.com/contact/">Contact</a>
+                </li>
+                <li>
+                    <a href="http://www.apture.com/jobs/">Jobs</a>
+                </li>
+                <li>
+                    <a href="http://www.apture.com/privacy/">Privacy</a>
+                </li>
+                <li>
+                    <a href="http://www.apture.com/terms/">Terms</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -210,10 +242,6 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
-		
 
-		
 
-    
-	
 </body></html>
