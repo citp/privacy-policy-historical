@@ -1,37 +1,13 @@
-> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052042id_/http%3A//www.bandwidthplace.com/about/index.html%3Fv%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222014056id_/http%3A//www.bandwidthplace.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Bandwidth Place, About Us
+# Bandwidth Place | Privacy Policy
 
-**About us**  
+Privacy Policy for Bandwidthplace.com
 
+At Bandwidthplace.com, we realize the significance of personal information. We gather data enclosed in log files when running our speed test and tools. The information contains your IP address, ISP, web browser, the exact time you visited the site and which pages viewed - we utilize this data to produce the speed test results.
 
-| |   
+Our site is free to use, and support for our site is often because of outside advertisers. Some advertisers may use cookies and web beacons, and utilize the data to exhibit advertisements for applicable products and services in your geographical area.
 
+We make use of cookies to collect information when you go to Bandwithplace.com. These cookies permit us to save your previous test results when you return to the site. This allows for speed test comparisons.
 
- **Privacy policy**  
-
-
-  
-At Bandwidth Place we understand that submitting information about yourself or business is serious. Out of respect for our customer's privacy, Bandwidth Place has developed the following privacy statement that discloses our information gathering and dissemination practices. The purpose of this privacy policy is to let our users know what information of yours is collected through this web site, the organization collecting the information, how the information is used and with whom the information may be shared.
-
-This policy may be updated at any time without notice. This policy applies only to the information collected by Bandwidth Place on our own web site.
-
- **Information collection and use**
-
-Bandwidth Place is the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Bandwidth Place collects information from our users at several different points on our website.
-
-1.RFQ forms. The primary purpose of this collection is to provide that information to our affiliate partners for the purpose of the Request for Quote (RFQ) process. This includes your contact information and the particulars of your current and desired Internet connection. The RFQ form includes a number of required fields, which are essential for our affiliate partners to generate quotes. The form also contains a number of optional fields, which aid us and our affiliate partners in providing a more personalized and functional experience on our site. This information is passed on to our affiliate partners solely for the purposes of contact and quote generation and will not be used alternatively.
-
-2.Speed test. We store all data related to the speed test service, including, but not limited to, speed test results, user supplied information, surveys, forms, and the like for our own statistical use. We may, however, from time to time, share or sell this information to other 3rd parties. Use of the speed test services implies your understanding of and agreement to this use of information.
-
-3.Site stats. Our site uses various statistics software packages to measure our traffic and user demographics so that we can make our site the most useful it can be. We use IP addresses to analyze trends, administer the site, track user's movement, diagnose problems with our servers, and gather broad demographic information for aggregate use.
-
- **Cookies**
-
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Bandwidth Place uses optional cookies in our speed test and marketplace.
-
- **Links**
-
-Bandwidth Place contains many links to other web sites. These links are provided for the utility of our customers only, and we are not responsible for the privacy practices of these other sites. We encourage our users to be aware of this when they leave our site and to take the time to read the privacy policy of any web site requesting personal information.
-
-|  
+When registering with Bandwidthplace.com, you are required to provide your name and email address information. In the near future, you might receive offers and information related to the tools you use or Bandwidth related services you make use of. By registering with Bandwidthplace.com, you honor the fact that you may receive email offers from Bandwidthplace.com.
