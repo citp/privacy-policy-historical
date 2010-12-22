@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043212id_/http%3A//paktribune.com/mainlinks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222140123id_/http%3A//paktribune.com/mainlinks/privacy.php) for the most accurate reproduction.*
 
 # Pakistan News PakTribune.Com
 
