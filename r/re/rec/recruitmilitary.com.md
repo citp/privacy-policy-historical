@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510021215id_/https%3A//www2.recruitmilitary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmilitary.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222082009id_/http%3A//recruitmilitary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RecruitMilitary
 
 ## RecruitMilitary is a registered trademark of RecruitMilitary LLC, Loveland, Ohio.
 
-All trademarks, service marks and trade names of RecruitMilitary LLC used in the website (including but not limited to the RecruitMilitary name and the RecruitMilitary logo are registered trademarks of RecruitMilitary LLC. They may not be used without RecruitMilitary's prior written permission. Any other intellectual property in the website, including but not limited to patents, issued or pending, are the sole property of RecruitMilitary LLC.
+All trademarks, service marks and trade names of RecruitMilitary LLC used in the website (including but not limited to the RecruitMilitary name and the RecruitMilitary logo) are registered trademarks of RecruitMilitary LLC. They may not be used without RecruitMilitary's prior written permission. Any other intellectual property in the website, including but not limited to patents, issued or pending, are the sole property of RecruitMilitary LLC.
 
 RecruitMilitary has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our users. Your privacy is very important to us. We want to provide a safe, secure experience for all of our users. Because we gather certain types of information about users of our site, we feel you should be aware of the terms surrounding the capture and use of that information. Strong electronic privacy is an essential ingredient in the success of the Internet as an online medium. The following discloses what information we gather, how we use or disseminate it, and how you can change it.
 
