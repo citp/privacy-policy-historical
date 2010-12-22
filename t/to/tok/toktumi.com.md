@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524104550id_/http%3A//www.toktumi.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222022159id_/http%3A//www.toktumi.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Home Office and Small Business Phone System - Toktumi Office Phone Service
 
-**What this Privacy Policy Covers** This privacy policy explains how toktumi treats personally identifiable information that toktumi collects and receives. Personally identifiable information is information about our customers that can identify them, such as name, address, e-mail address or phone number. 
+This privacy policy explains how toktumi treats personally identifiable information that toktumi collects and receives. Personally identifiable information is information about our customers that can identify them, such as name, address, e-mail address or phone number. 
 
 This policy also applies to our use of what our industry calls "Customer Proprietary Network Information" (CPNI). CPNI relates to the use of toktumi voice services. It includes the length of calls, the phone numbers that customers call and similar information. CPNI does not include personally identifiable information such as name, telephone number and e-mail address.
 
@@ -42,7 +42,7 @@ This section identifies how toktumi and third parties use Web technologies such 
 Cookies are small text files placed on a computer's hard drive by a Web site when a customer visits that site. Cookies are used within the toktumi service as follows: 
 
   * Cookies identify a customer's computer and record customer preferences and other data about the visit. When customers return to the site, the site knows who they are and can personalize the visit to that site. toktumi uses cookies to collect information to improve and personalize our services and make suggestions to customers. In most cases your computer will provide you with the ability to clear cookies and to disable cookies (this depends on the browser you are using). 
-  * >When you log in to the web site or use your phone, toktumi recognizes your identity. Independently of cookies, toktumi may personalize your experience and suggestions on the web site or on your phone. 
+  * When you log in to the web site or use your phone, toktumi recognizes your identity. Independently of cookies, toktumi may personalize your experience and suggestions on the web site or on your phone. 
 
 toktumi may also place Web beacons on its site in conjunction with cookies to monitor how visitors are navigating and/or interacting with the site. A Web beacon is a small, sometimes transparent graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor the address and other information of the user visiting the Web site or sending or responding to the e-mail. Web beacons are used within the toktumi service as follows: 
   * When the Web beacon points to a site to retrieve the image, at the same time it can pass along information such as the IP address of the computer, the time the Web beacon was viewed and for how long and the type of browser that retrieved the image. 
@@ -73,15 +73,12 @@ As with any Web site, the security of information also depends on the safe compu
   * **should not** share passwords with others 
   * **should not** respond to e-mails or text messages asking for password information. 
 
-
-
+  
 **Changes to this Privacy Policy**   
 toktumi may update this policy from time to time if our practices change or if changes in the law require us to do so. We will notify customers about significant changes in the policy by sending a notice to the primary e-mail address specified in the toktumi account or by placing a prominent notice on our site.
 
 **Questions and Suggestions**  
-If you have questions or suggestions about this policy, you can contact us at:   
-Toktumi, Inc., 50 California Street, Suite 1500, San Francisco, CA 94111  
-privacy@toktumi.com 
+If you have questions or suggestions about this policy, you can contact us at: Toktumi, Inc., 50 California Street, Suite 1500, San Francisco, CA 94111 privacy@toktumi.com 
 
 **Update/Effective Date:**   
 This policy was last updated 11/19/2008   
