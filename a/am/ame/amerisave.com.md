@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107011146id_/http%3A//www.amerisave.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222015831id_/http%3A//www.amerisave.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Amerisave Privacy Policy
 
