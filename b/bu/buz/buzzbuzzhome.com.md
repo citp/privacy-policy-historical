@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzbuzzhome.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061607id_/http%3A//www.buzzbuzzhome.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzbuzzhome.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222190309id_/http%3A//www.buzzbuzzhome.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# BuzzBuzzHome - New Real Estate Developments Toronto Calgary Vancouver
+# BuzzBuzzHome - New Real Estate Developments Toronto Calgary Vancouver Montreal
 
 BuzzBuzzHome has created this Privacy Policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site. 
 
