@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015307id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151545id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | Gatorsports.com | The Gainesville Sun
 
-This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gatorsports.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Gainesville Sun” include Gatorsports.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
+This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gatorsports.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Gainesville Sun" include Gatorsports.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group ("NYTRMG") – a division of The New York Times Company.
 
 Third party sites that Gatorsports.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
@@ -43,7 +43,7 @@ The Gainesville Sun may collect personal information from readers in connection 
 
 ### Mobile Messaging Service
 
-We may elect to offer certain text messaging services (the “SMS Service”). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
+We may elect to offer certain text messaging services (the "SMS Service"). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
 
 The Gainesville Sun collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The Gainesville Sun. When you send a text message to The Gainesville Sun or via The Gainesville Sun, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The Gainesville Sun uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
 
@@ -51,7 +51,7 @@ The Gainesville Sun collects the mobile phone number you use to send us a text m
 
 ### Cookies and Other Technologies
 
-As is standard practice on many Web sites, The Gainesville Sun uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "Gatorsports.com" cannot access most areas of our sites.
+As is standard practice on many Web sites, The Gainesville Sun uses "cookies" and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "Gatorsports.com" cannot access most areas of our sites.
 
 We reserve the right to place a The Gainesville Sun Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
@@ -97,7 +97,7 @@ We offer message boards for readers in a number of areas throughout our Web site
 
 ### E-Mail Newsletters
 
-If you choose to receive them, The Gainesville Sun will periodically send you e-mail newsletters or promotional e-mail about services offered by The Gainesville Sun and its advertisers. For details about The Gainesville Sun e-mail, please see the next section, “What Is Our E-mail Policy?”.
+If you choose to receive them, The Gainesville Sun will periodically send you e-mail newsletters or promotional e-mail about services offered by The Gainesville Sun and its advertisers. For details about The Gainesville Sun e-mail, please see the next section, "What Is Our E-mail Policy?".
 
 ## What is our e-mail policy?
 
@@ -139,7 +139,7 @@ If you are a print subscriber to The Gainesville Sun and you subscribed either b
 
 We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for The Gainesville Sun, and they may not share or resell this data.
 
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
+We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the "Compliance with legal process" section of this policy.)
 
 ## How do I change or update my personal information?
 
