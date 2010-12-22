@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602035522id_/http%3A//www.freeview.co.uk/freeview/Privacy-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222092430id_/http%3A//www.freeview.co.uk/Privacy-Cookie-Policy) for the most accurate reproduction.*
 
-# Freeview - Home / Privacy & Cookie Policy
+# Freeview - Home Privacy & Cookie Policy
 
 #### 1\. Introduction
 
