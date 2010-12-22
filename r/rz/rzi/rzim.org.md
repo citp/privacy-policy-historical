@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rzim.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615072130id_/http%3A//www.rzim.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rzim.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222131357id_/http%3A//www.rzim.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Ravi Zacharias International Ministries
 
