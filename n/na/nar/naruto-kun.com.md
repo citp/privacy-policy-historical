@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020827id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222014201id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto-Kun
 
@@ -12,9 +12,9 @@ A cookie is a very small text file placed on your system upon logging on to Naru
 
 ### Children's Privacy
 
-Naruto-Kun does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a [member](https://web.archive.org/profile/ "member") of Naruto-Kun, and will not collect information from them. If Naruto-Kun learns that a child under the age of 13 has become a [member](https://web.archive.org/profile/ "member"), we will close that child's [account](https://web.archive.org/profile/ "account") and delete any information collected about the child. 
+Naruto-Kun does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a [member](https://web.archive.org/profile/ "member") of Naruto-Kun, and will not collect information from them. If Naruto-Kun learns that a child under the age of 13 has become a [member](https://web.archive.org/profile/ "member"), we will close that child's account and delete any information collected about the child. 
 
-Not withstanding the foregoing, Naruto-Kun may choose to retain some personal information such as the child's [e-mail](https://web.archive.org/contact/ "e-mail") address as a means to prevent the child from re-registering at our website. The Children's [Online](https://web.archive.org/users-online/ "Online") Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
+Not withstanding the foregoing, Naruto-Kun may choose to retain some personal information such as the child's [e-mail](https://web.archive.org/contact/ "e-mail") address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child. 
 
 ### Disclosing Information
 
@@ -22,7 +22,7 @@ Naruto-Kun may store and disclose personal information allowed or required by ap
 
 ### Security
 
-At Naruto-Kun we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your [account](https://web.archive.org/profile/ "account") on Naruto-Kun and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your [account](https://web.archive.org/profile/ "account") be fully terminated. 
+At Naruto-Kun we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on Naruto-Kun and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your [login](https://web.archive.org/login/ "login") credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated. 
 
 ### Third Parties
 
