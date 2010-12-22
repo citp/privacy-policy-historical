@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokervt.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526201854id_/http%3A//www.pokervt.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokervt.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222114515id_/http%3A//pokervt.com/privacy.cfm) for the most accurate reproduction.*
 
 # Poker VT™
 
