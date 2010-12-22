@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eq2flames.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820055149id_/http%3A//www.eq2flames.com/admin-requests-feedback/8562-eq2flames-com-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eq2flames.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222150849id_/http%3A//www.eq2flames.com/admin-requests-feedback/8562-eq2flames-com-privacy-policy.html) for the most accurate reproduction.*
 
 # EQ2Flames.com Privacy Policy - EQ2Flames Forum
 
@@ -79,8 +79,3 @@ Under Thirteen.** EQ2Flames.com is intended for users ages 13 and older only. Ac
 We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. We also offer you an opportunity to opt-out of certain communications through the User Profile screen. If you need assistance you may contact us at [eq2flames@comcast.net](mailto:eq2flames@comcast.net).
 
 If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
-
-__________________  
-**_[](http://www.eq2flames.com/vbimghost.php?do=displayimg&imgid=2715)  
-_ _"Bottom line: we're not all being honest with ourselves here."_ Become, Kraken forums  
-**
