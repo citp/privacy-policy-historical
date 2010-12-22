@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622055238id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180114id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Mom Kitchen
 
