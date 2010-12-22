@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608225041id_/http%3A//www.clamwin.com/content/view/171/107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151412id_/http%3A//www.clamwin.com/content/view/171/107) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
@@ -36,4 +36,5 @@ Our Web Site accepts donations via PayPal.com web site. Please see [PayPal Priva
 © 2010 ClamWin Free Antivirus  
 ClamWin™ is a trademark of ClamWin Pty Ltd.  
 Other trademarks are the property of the respective trademark holders.  
+[Terms and Conditions](http://www.clamwin.com/content/view/226/52)  
 [Privacy Statement](http://www.clamwin.com/content/view/171/107/)
