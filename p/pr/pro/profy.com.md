@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profy.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629220954id_/http%3A//profy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profy.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222130140id_/http%3A//profy.com/privacy) for the most accurate reproduction.*
 
 # Profy Privacy Policy | Profy | Internet news and commentary
 
@@ -14,7 +14,7 @@ Profy collects personal information when you leave comments on our pages. This i
 
 **Cookies**
 
-Profy website is supported by advertising that is served by third parties to the website visitors. In their services such third parties rely on cookies - a small file containing a string of characters. Cookies are sent to your computer or other device that uniquely identifies your browser so that advertisers could count statistics on performance of their advertising served to Profy visitors.
+Profy website is supported by advertising that is served by third parties to the website visitors. In their services such third parties rely on cookies – a small file containing a string of characters. Cookies are sent to your computer or other device that uniquely identifies your browser so that advertisers could count statistics on performance of their advertising served to Profy visitors.
 
 This Privacy Policy applies to Profy services only, for privacy statements of Profy advertising partners to know how they use the information collected automatically via the Profy website, we encourage you to read their privacy policies.
 
