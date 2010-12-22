@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunway.edu.my privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604003447id_/http%3A//www.sunway.edu.my/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunway.edu.my privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222033544id_/http%3A//sunway.edu.my/help/privacy-policy) for the most accurate reproduction.*
 
-# Help: Privacy Policy | Sunway University College
+# Help: Privacy Policy | Sunway University
 
 The University Web servers automatically collect standard, anonymous information, like the IP address of your computer, cookies, access times and the pages visited. This information is used in an anonymous form to monitor usage and to assess the effectiveness of the University website.
 
