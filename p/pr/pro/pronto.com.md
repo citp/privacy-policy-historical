@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pronto.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627180509id_/http%3A//www.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronto.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222152533id_/http%3A//www.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
@@ -97,7 +97,7 @@ New York, NY 10011
 [privacy@pronto.com](mailto:privacy@pronto.com)  
 
 
-© 2009 IAC/InterActiveCorp. All rights reserved. 
+© 2010 IAC/InterActiveCorp. All rights reserved. 
 
 ## pronto privacy policy – your privacy rights
 
@@ -242,7 +242,7 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [privacy@pronto.com](mailto:privacy@pronto.com).
 
-© 2009 IAC/InterActiveCorp. All rights reserved. 
+© 2010 IAC/InterActiveCorp. All rights reserved. 
 
 ##### Cookies
 
