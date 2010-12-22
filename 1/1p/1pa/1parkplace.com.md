@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1parkplace.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624025526id_/http%3A//www.1parkplace.com/page/1ParkPlace-Inc-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1parkplace.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222035519id_/http%3A//www.1parkplace.com/page/1ParkPlace-Inc-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # 1ParkPlace, Inc. Privacy Policy
 
