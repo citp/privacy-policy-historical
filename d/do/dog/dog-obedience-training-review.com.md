@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dog-obedience-training-review.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614213418id_/http%3A//www.dog-obedience-training-review.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog-obedience-training-review.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222040423id_/http%3A//www.dog-obedience-training-review.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dog-Obedience-Training-Review.com Privacy Policy and Disclaimer
 
@@ -89,7 +89,7 @@ Reproduction, distribution, republication, and/or retransmission of material con
 
 I receive many questions enquiring as to whether this website is for sale. The answer is basically "no", but for the right price it's "YES". 
 
-So if you're genuinely interested in purchasing this site and understand the true value of its web penetration, search engine rankings and traffic (10,000 unique visitors daily and growing) please email me (Chris) at clsmith1 @ gmail.com 
+So if you're genuinely interested in purchasing this site and understand the true value of its web penetration, search engine rankings and traffic (11,000 unique visitors daily and growing) please email me (Chris) at clsmith1 @ gmail.com 
 
 If you're ready to dominate the "dog" niche, I look forward to hearing from you. 
 
