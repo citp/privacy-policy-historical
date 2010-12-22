@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigideasmath.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402043830id_/http%3A//www.bigideasmath.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigideasmath.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222154908id_/http%3A//bigideasmath.com/company/privacy.php) for the most accurate reproduction.*
 
 # Big Ideas Learning - Privacy Policy
 
