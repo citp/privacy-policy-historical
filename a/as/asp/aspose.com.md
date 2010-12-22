@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspose.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610210544id_/http%3A//www.aspose.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspose.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222122637id_/http%3A//www.aspose.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Corporate - Aspose
 
