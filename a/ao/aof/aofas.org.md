@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202193304id_/http%3A//www.aofas.org/Scripts/4Disapi.dll/4DCGI/cms/review.html%3FAction%3DCMS_Document%26DocID%3D180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aofas.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222031748id_/http%3A//www.aofas.org/Scripts/4Disapi.dll/4DCGI/cms/review.html%3FAction%3DCMS_Document%26DocID%3D180) for the most accurate reproduction.*
 
 # AOFAS Privacy Statement and Usage Disclosure
 
