@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.ar.us privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630190657id_/http%3A//portal.arkansas.gov/Pages/policy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ar.us privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222112141id_/http%3A//portal.arkansas.gov/Pages/policy.aspx%23privacy) for the most accurate reproduction.*
 
 # Internet Policies
 
