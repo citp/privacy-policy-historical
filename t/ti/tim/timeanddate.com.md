@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831091033id_/http%3A//timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222064626id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
-Timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy. This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com. 
+timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy. This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com. 
 
 We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests. 
 
 If you register with the site, your email address is used as your login name. Your email address will not be shared with a third party. We will only send an email to your email address when you first register with the site, when you request your password to be reset, or for answering support questions. 
 
-This site contains links to other sites. **Timeanddate.com** is not responsible for the privacy practices or the content of such websites. 
+This site contains links to other sites. **timeanddate.com** is not responsible for the privacy practices or the content of such websites. 
 
 Our online surveys may ask visitors for contact information (such as their email address). The customer's contact information is used to contact the visitor when necessary. 
 
-We use external advertising representation companies to display ads on our site. These ads may contain cookies. While we use cookies within other parts of our website, cookies received with banner ads are collected by our advertising representation company and we do not have access to this information. Some customer data are shared with the advertising representation companies (not email addresses, but technical information like IP address/browser version). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ### Third-party Privacy Policies
 
@@ -21,8 +21,6 @@ We use external advertising representation companies to display ads on our site.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
-
-Timeanddate.com works with Burst Media as a third party that serves ads to this site. For information about their policy, please go to [Burst Media's Privacy policy](http://www.burstmedia.com/release/privacy.asp). 
 
 We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement "click-throughs", and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personal identifiable information is collected by or transferred to any party other than the advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://www.valueclickmedia.com/member_privacy.shtml>
 
