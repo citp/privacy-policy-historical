@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041238id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222051036id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vancouver School Board
 
@@ -24,3 +24,5 @@ The Vancouver School Board makes no attempt to link these addresses with the ide
 **Links to Other Web Sites**
 
 This web site contains links to other sites. The Vancouver School Board is not responsible for the content or the privacy practices of other web sites or organizations. You are encouraged to examine each site’s privacy policy and disclaimers and make your own decisions regarding the accuracy, reliability and correctness of material and information found.
+
+[](http://www.addthis.com/bookmark.php?v=250&username=xa-4bc5e9916822082f)
