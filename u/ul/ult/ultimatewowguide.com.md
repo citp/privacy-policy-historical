@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatewowguide.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505000335id_/http%3A//www.ultimatewowguide.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatewowguide.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222111651id_/http%3A//www.ultimatewowguide.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,9 +15,10 @@ Ultimatewowguide.com only collects your name and email address by signing-up to 
 
   * We may send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
 
-  * We do not share or sell your name and email address information to anyone, we hate spam as much as you do.
-
   * You can unsubscribed to our mailing list at any time by clicking on the link at the bottom of our newsletter. 
+
+  * Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information with any entity outside of UltimateWoWGuide.com
+  * We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so.
 
 
 
