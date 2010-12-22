@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesbeard.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041022id_/http%3A//www.jamesbeard.org/index.php%3Fq%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesbeard.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161900id_/http%3A//jamesbeard.org/index.php%3Fq%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to the James Beard Foundation
 
