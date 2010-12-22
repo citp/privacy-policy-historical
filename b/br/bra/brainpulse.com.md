@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the brainpulse.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227035526id_/http%3A//www.brainpulse.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpulse.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161748id_/http%3A//www.brainpulse.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # BrainPulse - Privacy Policy
 
 The privacy policy of BrainPulse Technologies reveals our dedication and commitment to the users of our website. The policy applies solely to the information gathered by the website. 
+
+  
+
 
 ### Information Collection and Sharing
 
