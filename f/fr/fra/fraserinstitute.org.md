@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529142007id_/http%3A//www.fraserinstitute.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222030538id_/http%3A//www.fraserinstitute.org/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Fraser Institute
 
-Privacy Policy   
-  
-Privacy Policy
+### Privacy Policy
 
 **1\. User Agreement**  
 By using this website, you signify your consent to and agreement to be bound by these terms, practices and policy. 
@@ -13,7 +11,7 @@ By using this website, you signify your consent to and agreement to be bound by 
 This policy applies to the fraserinstitute.org websites only. 
 
 **3\. Accountability**  
-If you have any questions or concerns regarding the privacy practice on this website please address them in writing to the Director of Communications by Email at **[communications@fraserinstitute.org](mailto:communications@fraserinstitute.org)** or by mail to The Fraser Institute, 4th Floor, 1770 Burrard Street, Vancouver, BC, V6J 3G7. 
+If you have any questions or concerns regarding the privacy practice on this website please address them in writing to the Director of Communications by Email at **[communications@fraserinstitute.org](mailto:communications@fraserinstitute.org?subject=Privacy%20policy%20-%20accountability "Privacy policy - accountability")** or by mail to The Fraser Institute, 4th Floor, 1770 Burrard Street, Vancouver, BC, V6J 3G7. 
 
 **4\. Consent**  
 THE FRASER INSTITUTE only collects personal information from users if that user voluntarily provides us with such information by subscribing to our Email updates, registering for events, purchasing a publication, becoming a member of The Fraser Institute, or by submitting a question or comment to THE FRASER INSTITUTE. Users are under no obligation to provide us with this information and may access our website without providing any personal information. By volunteering this information users agree to its collection for the purposes stated below. 
@@ -49,7 +47,7 @@ When a user purchases a copy of a FRASER INSTITUTE publication, registers for an
 
 
 
-When submitting a comment by email to THE FRASER INSTITUTE'S general mailbox **[info@fraserinstitute.org](mailto:info@fraserinstitute.org)** the following personal information is collected:
+When submitting a comment by email to THE FRASER INSTITUTE'S general mailbox **[info@fraserinstitute.org](mailto:info@fraserinstitute.org?subject=Privacy%20policy%20-%20collection%20of%20information "Privacy policy - collection of information")** the following personal information is collected:
 
   * Email address 
 
@@ -73,7 +71,7 @@ An individual's personal information is only used in connection with the purpose
 
 
 **8\. Ensuring Accuracy**  
-Users can [subscribe](http://www.fraserinstitute.org/newsletter.aspx) or to receive Email updates from THE FRASER INSTITUTE and [unsubscribe](http://www.fraserinstitute.org/Unsubscribe.aspx) to be removed from THE FRASER INSTITUTE'S Email updates list at any time. 
+Users can [subscribe](http://community.fraserinstitute.org/subscribe "subscribe") or to receive Email updates from THE FRASER INSTITUTE and [unsubscribe](http://community.fraserinstitute.org/subscribe/subscriptioncenter-optout?m=&r=&j=&mt=&webSyncID=db351ea8-f58f-4b10-85a0-cfe299967797&sessionGUID=4cc75b15-43cd-4a4a-9674-3f5473f3d0f4 "unsubscribe") to be removed from THE FRASER INSTITUTE'S Email updates list at any time. 
 
 **9\. Safeguards**  
 To ensure the protection of personal information collected by us, THE FRASER INSTITUTE employs the following physical, organizational and technological security safeguards:
@@ -88,7 +86,7 @@ To ensure the protection of personal information collected by us, THE FRASER INS
 THE FRASER INSTITUTE is committed to making readily available to individuals information on our policies and practices. 
 
 **11\. Individual Access**  
-To review your personal information collected by THE FRASER INSTITUTE, please direct your request in writing to the Director of Communications by Email at **[communications@fraserinstitute.org](mailto:communications@fraserinstitute.org)** or by mail to The Fraser Institute, 4th Floor, 1770 Burrard Street, Vancouver, BC, V6J 3G7. 
+To review your personal information collected by THE FRASER INSTITUTE, please direct your request in writing to the Director of Communications by Email at **[communications@fraserinstitute.org](mailto:communications@fraserinstitute.org?subject=Privacy%20policy%20-%20individual%20access "Privacy policy - individual access")** or by mail to The Fraser Institute, 4th Floor, 1770 Burrard Street, Vancouver, BC, V6J 3G7. 
 
 **12\. Challenging THE FRASER INSTITUTE'S Compliance**  
-If you wish to challenge THE FRASER INSTITUTE'S compliance with the Personal Information Protection and Electronic Documents Act please address your concerns in writing to the Director of Communications by Email at **[communications@fraserinstitute.org](mailto:communications@fraserinstitute.org)** or by mail to The Fraser Institute, 4th Floor, 1770 Burrard Street, Vancouver, BC, V6J 3G7. If you are not satisfied with our response to your challenge, you may submit a complaint to the Federal Privacy Commissioner within six months. Appeals from decisions of the Federal Privacy Commissioner may be made to the Federal Court of Canada within 45 days after the Commissioner's report is sent. 
+If you wish to challenge THE FRASER INSTITUTE'S compliance with the Personal Information Protection and Electronic Documents Act please address your concerns in writing to the Director of Communications by Email at **[communications@fraserinstitute.org](mailto:communications@fraserinstitute.org?subject=Privacy%20policy%20-%20challenging%20the%20Fraser%20Institute%27s%20compliance "Privacy policy - challenging the Fraser Institute's compliance")** or by mail to The Fraser Institute, 4th Floor, 1770 Burrard Street, Vancouver, BC, V6J 3G7. If you are not satisfied with our response to your challenge, you may submit a complaint to the Federal Privacy Commissioner within six months. Appeals from decisions of the Federal Privacy Commissioner may be made to the Federal Court of Canada within 45 days after the Commissioner's report is sent. 
