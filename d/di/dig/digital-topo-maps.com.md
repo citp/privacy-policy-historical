@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-topo-maps.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020940id_/http%3A//www.digital-topo-maps.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-topo-maps.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222041808id_/http%3A//www.digital-topo-maps.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Digital-Topo-Maps.com Privacy Policy
 
