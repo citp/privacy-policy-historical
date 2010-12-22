@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005247id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222143657id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
-# Run your Pool at runyourpool.com
+# Run your NFL Pool at runyourpool.com
+
+  
+
+
+**  Pool Login**
+
+for existing members
 
   
   
