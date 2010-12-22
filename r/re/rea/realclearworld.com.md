@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearworld.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622005600id_/http%3A//www.realclearworld.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearworld.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222080754id_/http%3A//www.realclearworld.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # RealClearWorld - Static Pages: Privacy Policy
 
@@ -18,16 +18,12 @@ Our primary goal in collecting personal information is to provide you with a fri
 
 **1\. Information You Provide to Us:**
 
-  
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide is used for such purposes as:  
+We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide is used for such purposes as:
 
-
-  
 **Registration:** In order for you to use RealClearWorld services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your email address, year of birth, and gender.
 
 **2\. Automatic Information:**
 
-  
 We receive and store certain types of information whenever you interact with us. RealClearWorld automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, RealClearWorld cookie information, and the page you requested. RealClearWorld uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
 
 
@@ -37,7 +33,8 @@ RealClearWorld may also add on any page display the total counts that page has b
 
 **Profile information:** RealClearWorld does not currently allow other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information.
 
-**Syndication:** RealClearWorld allows for the RSS syndication of all of its public content within the website.
+**Syndication:** RealClearWorld allows for the RSS syndication of all of its public content within the website.  
+
 
 Many companies offer programs that help you to visit websites anonymously. While RealClearWorld will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
@@ -81,12 +78,11 @@ As explained earlier, the "help" portion of the toolbar on the majority of brows
 
 ### Can Children Use RealClearWorld's Services?
 
-  
-You must be 13 years and older to register to use the RealClearWorld website. As a result, RealClearWorld does not specifically collect information about children.
+You must be 13 years and older to register to use the RealClearWorld website. As a result, RealClearWorld does not specifically collect information about children. 
 
 ### Conditions of Use
 
-If you decide to visit RealClearWorld website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Illinois state law.
+If you decide to visit RealClearWorld website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Illinois state law. 
 
 ### Privacy Policy Changes
 
