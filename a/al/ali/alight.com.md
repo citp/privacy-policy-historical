@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305164409id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222023949id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
