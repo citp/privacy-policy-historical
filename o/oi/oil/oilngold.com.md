@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oilngold.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020854id_/http%3A//www.oilngold.com/general/information/privacy-policy-200808281387) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilngold.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151808id_/http%3A//oilngold.com/general/information/privacy-policy-200808281387) for the most accurate reproduction.*
 
-# Privacy Policy - News, Analysis, Forecasts on WTI Crude Oil, Natural Gas, Gold, Silver - Oil N' Gold - Resources for Serious Traders
+# Privacy Policy
 
 OilnGold.com respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former members as well as our current members.
 
