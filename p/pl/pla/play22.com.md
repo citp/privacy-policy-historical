@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play22.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003124id_/http%3A//www.play22.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play22.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222152038id_/http%3A//www.play22.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Support at King.com - Play Free Games
 
