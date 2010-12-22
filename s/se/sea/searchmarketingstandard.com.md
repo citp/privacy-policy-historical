@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416190335id_/http%3A//www.searchmarketingstandard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222201352id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
 
-# Search Marketing Standard Magazine | Privacy Policy
+# iNET Interactive: Privacy Policy
 
-Protecting the information of our visitors is of paramount importance to us. Therefore, Search Marketing Standard, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for Search Marketing Standard, Inc.
+## Privacy Policy
 
-When you browse SearchMarketingStandard.com, your personal information is not revealed to us. Details such as your name and e-mail address remain anonymous. The only initial information recorded is your IP address, which helps us to administer our website and identify broad demographic information, such as your browser type and geographic location.
+This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users of the iNET Interactive Web Site (each, a “User”). 
 
-There are a number of registration and contact forms present throughout the SearchMarketingStandard.com website that allow users to voluntarily provide us with basic contact and demographic information, including but not limited to name, e-mail address and postal address. We sometimes use this information to send users information about our company and promotional material from some of our trusted partner firms, and also use it to contact the visitor when necessary. This information might also be shared with advertisers on an individual or aggregate basis.
+**Privacy**  
+iNET Interactive is committed to safeguarding the information Users entrust to iNET Interactive and believes every User should know how iNET Interactive utilizes the information collected from the Web Site. This Web Site is not directed at children under 13 years of age. 
 
-SearchMarketingStandard.com also contains hyperlinks to other sites outside our network. Search Marketing Standard, Inc. is not responsible for the privacy practices or the content of the sites that we knowingly or inadvertently link to, nor are these outside sites protected by this statement.
+**The Information We Collect**  
+iNET Interactive may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. iNET Interactive may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use “cookies” to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site. We currently use third party ad software to serve ads on our site. The cookies received with banner ads served by this software is used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals. 
 
-While browsing the sites of our advertisers, you may encounter “cookies” which collect information regarding your Web surfing habits. Search Marketing Standard, Inc. does not have direct access to the information these cookies collect.
+**How We Use Information**  
+iNET Interactive may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by iNET Interactive and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with iNET Interactive and such affiliates, independent contractors and business partners. iNET Interactive may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of iNET Interactive, its trusted affiliates, independent contractors and business partners. 
 
-Search Marketing Standard, Inc. has security measures in place to protect the loss, misuse and alteration of the information under our control, including server security features. These are updated on a regular basis to ensure the protection of your information. 
+**Disclosure of Information**  
+iNET Interactive may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of iNET Interactive’ business.  
+**  
+Maintenance of Information**  
+Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
+
+**Questions**  
+Users may direct questions concerning this Privacy Policy by email to privacy@inetinteractive.com. 
