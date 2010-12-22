@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620233315id_/http%3A//www.craftbeer.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222154858id_/http%3A//www.craftbeer.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # CraftBeer.com | Privacy Policy
 
@@ -26,7 +26,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ## Contacting this website
 
-For all privacy and policy questions with regards to this site, please contact [webmaster@brewersassociation.org](mailto:webmaster@brewersassociation.org).
+For all privacy and policy questions with regards to this site, please contact [webmaster@brewersassociation.org](mailto:webmaster@brewersassociation.org?subject=CraftBeer.com%20Help).
 
 Though this site can and may contain links to non-CraftBeer.com sites, the Brewers Association is not responsible for the privacy practices or the content of these websites.
 
