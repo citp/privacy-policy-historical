@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529022421id_/http%3A//www.directsattv.com/directv/privacylegal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222052220id_/http%3A//www.directsattv.com/directv/privacylegal.html) for the most accurate reproduction.*
 
 # Direct TV Phone Number, 888-357-3163 - DIRECT SAT TV
 
   
 
 
-[](https://web.archive.org/directv/specialoffers.html)
-
-800-400-0296
+866.310.4761 
 
   
 
