@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screw-paypal.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516021752id_/http%3A//www.screw-paypal.com/bottom_nav_homepage/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screw-paypal.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222145800id_/http%3A//screw-paypal.com/bottom_nav_homepage/privacy_policy.html) for the most accurate reproduction.*
 
 # Screw-PayPal.com Privacy Policy
 
