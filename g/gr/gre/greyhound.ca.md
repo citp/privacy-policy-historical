@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greyhound.ca privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202034459id_/http%3A//www.greyhound.ca/HOME/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greyhound.ca privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222211624id_/http%3A//greyhound.ca/HOME/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ Greyhound Canada Transportation Corp.
 877 Greyhound Way SW  
 Calgary, AB, T3C 3V8
 
-Facsimile: 403-260-0780
+Facsimile: 403-260-0747
 
 Telephone: 403-218-1100
 
