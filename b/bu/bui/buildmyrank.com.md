@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buildmyrank.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326132236id_/http%3A//www.buildmyrank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildmyrank.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222162034id_/http%3A//www.buildmyrank.com/privacy-policy) for the most accurate reproduction.*
 
-# BuildMyRank.com – High Quality One-Way Backlinks » Privacy Policy
+# BuildMyRank.com – Link Building Service Featuring High Quality One-Way Backlinks » Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
