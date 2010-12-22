@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ravetheweb.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013857id_/http%3A//ravetheweb.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravetheweb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222061200id_/http%3A//ravetheweb.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Add Link
+# Privacy Policy :: Directory Submission
 
 Rave the Web Directory feels your private information should be just that – held private and protected to the best of our ability during your interactions with our web site.
 
