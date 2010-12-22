@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509171341id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222183945id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,13 @@ Abazias.com is committed to ensuring a safe ordering process to protect you from
 
 ### Fraud protection
 
-During our checkout process, we employ several methods to protect you against online fraud and identity theft. First, we use the latest Address Verification System (AVS) to ensure that the address entered during checkout is the same as the address you have listed with your bank. We also employ the use of CVV2 code verification (your credit card identification code) to ensure that the credit card used is present during the time of purchase. Most importantly, however, is that we always contact and discuss the order with you before we capture any funds. We will never capture any funds during our online order process. We only authorize the card for available funds at the time of order. **We will never charge your credit card or ship an order without discussing it with you first.**
+During our checkout process, we employ several methods to protect you against online fraud and identity theft. First, we use the latest Address Verification System (AVS) to ensure that the address entered during checkout is the same as the address you have listed with your bank. We also employ the use of CVV2 code verification (your credit card identification code) to ensure that the credit card used is present during the time of purchase. Additional information may be required after your order has been placed to complete the processing. Most importantly, however, is that we always contact and discuss the order with you before we capture any funds. We will never capture any funds during our online order process. We only authorize the card for available funds at the time of order. **We will never charge your credit card or ship an order without discussing it with you first.**
+
+  
+
+
+### Use of Third-Party Web Beacons and/or cookies
+
+At Abazias, we utilize third-party web beacons from Yahoo.com to help determine how visitors are using our site. Yahoo may also use anonymous information, as we do, to improve its products and services. If you would like more information or would like to opt out this feature, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+
+ **These Privacy Principles apply to individuals, and we reserve the right to change them, along with related provisions at any time.**
