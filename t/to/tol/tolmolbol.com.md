@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolmolbol.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306202323id_/http%3A//www.tolmolbol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolmolbol.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222200217id_/http%3A//www.tolmolbol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tolmolbol
 
