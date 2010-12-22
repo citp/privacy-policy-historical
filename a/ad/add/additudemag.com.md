@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311080259id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222052851id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ADDitude: Information on Attention Deficit Symptoms, Diagnosis, Treatment, Parenting and More
 
-Thank you for visiting _ADDitude_ Magazine online. We respect our readers' right to privacy. To that end, we do not share the names of visitors to our website nor do we rent or sell our subscriber or e-mail lists to any individual or organization. 
+Thank you for visiting _ADDitude_ Magazine online. We respect our readers' right to privacy. To that end, we do not share the names of visitors to our website nor do we sell our subscriber or e-mail lists to any individual or organization. We do, from time to time, send out special offers for attention deficit disorder products and services that we think may be of interest to our E-Newsletter readers. If, for any reason, you do not wish to receive such offers from _ADDitude_ , click the "Manage Subscriptions" link at the bottom of any E-Newsletter you receive from us to indicate your preference. 
 
 Online registration is required to access our online community tools, to read the full text of most magazine stories, to post story comments and to fully participate in [ADDitudeMag.com](http://www.additudemag.com/ "http://www.additudemag.com"). This registration process is free and requires the submission of your full name, a password and a valid email address, however no other personal information is required. Users may change their log in information at any time via the live web site. 
 
