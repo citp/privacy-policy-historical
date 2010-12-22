@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213220354id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222153745id_/http%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Commitment
+# Privacy Commitment - BankBazaar
 
-Privacy Policy
+Thank you for the feedback. 
 
-BankBazaar is a financial services marketplace that saves you time and money. We take your privacy seriously and do not share your personal information with other people or non-affiliated companies except to provide services you've requested (for example: if you wish to apply for a loan, we will submit your loan application form to the bank you wish to apply to), when we have your permission, or under the following circumstances: 
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bankbazaar.com/seal_m "Validate TRUSTe privacy certification") BankBazaar is a financial services marketplace that saves you time and money. We take your privacy seriously and do not share your personal information with other people or non-affiliated companies except to provide services you've requested (for example: if you wish to apply for a loan, we will submit your loan application form to the bank you wish to apply to), when we have your permission, or under the following circumstances: 
 
   * BankBazaar may disclose to authorized law enforcement personnel the personal data from anyone who poses a threat to our interests. This might include those that are attempting to commit fraud or those who conduct activities that could bring harm to others. We assume that this is not you so please don't worry. 
   * We transfer your information if BankBazaar is acquired by or merged with another company. In this event, BankBazaar will notify you before information about you is transferred and becomes subject to a different privacy policy. 
@@ -37,6 +37,4 @@ BankBazaar may update this policy from time to time. We will notify you about si
 
 
   
-Questions and Suggestions 
 
-If you have questions or suggestions, please [email us](https://web.archive.org/contactus.html).
