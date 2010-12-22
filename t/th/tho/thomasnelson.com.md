@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnelson.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623234041id_/http%3A//www.thomasnelson.com/consumer/dept.asp%3Fdept_id%3D1117903%26category%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnelson.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161902id_/http%3A//www.thomasnelson.com/consumer/dept.asp%3Fdept_id%3D1117903%26category%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # Thomas Nelson Privacy Policy | Thomas Nelson | Publisher of Inspirational Books, Videos, Software, Bibles and Children's Books
 
@@ -10,7 +10,7 @@ No software or hardware techniques are employed to capture a visitor’s email a
 
 2\. How the Information You Provide Is Used
 
-Should you send us your comments or questions via email to any email address provided on our Site, we will only share your communications with our employees or agents most capable of addressing your questions and concerns.  We will retain your communication until we have done our very best to provide you with a complete and satisfactory response and then we will either discard it or, in some cases, archive it. We will only disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Site; or (4) protect the personal safety or property of our users or the public.We do not sell, rent or otherwise disclose personally identifiable information you may provide without your consent. 
+Should you send us your comments or questions via email to any email address provided on our Site, we will only share your communications with our employees or agents most capable of addressing your questions and concerns.  We will retain your communication until we have done our very best to provide you with a complete and satisfactory response and then we will either discard it or, in some cases, archive it. We will only disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Site; or (4) protect the personal safety or property of our users or the public.
 
 3. Security of Information Sent to Us
 
@@ -26,7 +26,7 @@ For your convenience, this Site may provide links to various web sites that we d
 
 6\. Access and Correction
 
-You have a right to know about the personal information that Thomas Nelson has collected through your requests as describe above, including the right to correct, amend or delete the information that Thomas Nelson has on file if it is incorrect. You may also change the status of whether you wish to receive Thomas Nelson alerts, newsletters and communications at anytime. If at any time you wish to exercise these rights, feel free to contact us by [email](https://web.archive.org/web/20100623234041id_/http%3A//www.thomasnelson.com/consumer/dept.asp?dept_id=1117905&TopLevel_id=100000) or by phone **(800) 251-4000**.
+You have a right to know about the personal information that Thomas Nelson has collected through your requests as describe above, including the right to correct, amend or delete the information that Thomas Nelson has on file if it is incorrect. You may also change the status of whether you wish to receive Thomas Nelson alerts, newsletters and communications at anytime. If at any time you wish to exercise these rights, feel free to contact us by [email](https://web.archive.org/web/20101222161902id_/http%3A//www.thomasnelson.com/consumer/dept.asp?dept_id=1117905&TopLevel_id=100000) or by phone **(800) 251-4000**.
 
 7\. Modifications to This Privacy Policy
 
@@ -34,7 +34,7 @@ By using this Site, you signify your agreement to the terms of our Privacy Polic
 
 Please bear in mind that we may change the content or design of our web site, and consequently, this Policy at any time in the future.  Notice of any revisions will be posted to this page, so please revisit this page from time to time to ensure that you are aware of any changes to it.  You are responsible for reviewing this Policy periodically, and your continued use of our Site following any modifications to this Policy will be conclusively deemed acceptance of any changes.
 
-Thomas Nelson welcomes comments and questions about this Policy and about our Site.  We are dedicated to protecting your personal information while providing a robust and friendly Web environment.  Any comments or questions regarding Thomas Nelson’s electronic information privacy practices may be directed to our [webmasters](https://web.archive.org/web/20100623234041id_/http%3A//www.thomasnelson.com/consumer/dept.asp?dept_id=1117905&TopLevel_id=100000).  You may also call us at **(800) 251-4000** or send a letter to:
+Thomas Nelson welcomes comments and questions about this Policy and about our Site.  We are dedicated to protecting your personal information while providing a robust and friendly Web environment.  Any comments or questions regarding Thomas Nelson’s electronic information privacy practices may be directed to our [webmasters](https://web.archive.org/web/20101222161902id_/http%3A//www.thomasnelson.com/consumer/dept.asp?dept_id=1117905&TopLevel_id=100000).  You may also call us at **(800) 251-4000** or send a letter to:
 
 Thomas Nelson, Inc.  
 Attn: Webmaster  
