@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steelmint.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630024649id_/http%3A//www.steelmint.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelmint.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222034902id_/http%3A//steelmint.com/privacypolicy) for the most accurate reproduction.*
 
-# ::: SteelMint ::: Iron ore prices
+# Steelmint - Steeling Is Basic | Live LME Prices | Steel Prices | Steel Reports | Steel News | Iron Ore Prices | Iron Ore CNF Prices | Iron Ore FOB Prices | Iron Ore Prices China | Steel Prices India | Steel Prices China | Steel Analysis | Steel Long NCDEX | Steel Futures India | Iron Ore Prices Orissa | Iron Ore Prices Karnataka | Steel Prices Mandi Gobindgarh
 
 **Use of your Personal Information**
 
