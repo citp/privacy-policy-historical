@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618112416id_/http%3A//www.sasktel.com/about-us/company-information/legal-and-regulatory/privacy.html%3FLink%3DPrivacy-Ftr%26campaign%3DHome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222131220id_/http%3A//www.sasktel.com/about-us/legal-and-regulatory/privacy.html%3FLink%3DPrivacy%26campaign%3DHome) for the most accurate reproduction.*
 
-# SaskTel - Privacy
+# Privacy - Legal and Regulatory - About Us -
 
 Protecting your privacy and safeguarding your personal information is one of our highest priorities **
 
@@ -25,7 +25,7 @@ Table of Contents
   
 
 
-### Our Privacy Commitment to You 
+##### Our Privacy Commitment to You 
 
 SaskTel places a high priority on the loyalty of our customers, and that loyalty is built on a foundation of good products, competitive prices, and, above all, excellent customer service.   
 Respecting your right to privacy is an important part of our service excellence commitment.  It is our goal to treat your personal information with the utmost respect. To us, this includes keeping you up-to-date on your rights as our customers and providing you with information on how we use your personal information. Our Privacy Statement outlines our commitment to protect the privacy and confidentiality of your personal information.   
@@ -33,7 +33,7 @@ SaskTel may update this statement from time to time as reflected in the date at 
   
 
 
-### Why We Collect Personal Information 
+##### Why We Collect Personal Information 
 
 Personal information is defined as information about an identifiable individual. This includes information about your product and service subscriptions and usage. Publicly available information, such as a public telephone book listing of your name, address and telephone number, is not considered personal information.    
 SaskTel collects information about you during the application process to confirm your identity and credit history, when communicating or transacting business with you, and when providing service to you. We may also collect information about you from third parties that have the right to disclose such information to us.  
@@ -48,7 +48,7 @@ Telephone calls to or from our service representatives may be monitored or recor
 
 
 
-### Sharing Your Personal Information 
+##### Sharing Your Personal Information 
 
 Personal information is not sold or rented to any parties outside of the SaskTel corporate family, without your consent or as permitted by SaskTel's Tariff.   
 We do share this information with the companies we select as our business partners, and who supply services to us. However, we require them by contract, to honour our privacy principles in the handling of personal information they obtain from us. The information provided to our business partners is used only for that purpose and any disclosure outside of SaskTel is made on a confidential basis **.** Should we sell a part of our business or merge or amalgamate part or all of our business with another entity, we may need to disclose customer information as part of the transaction. This is a normal business practice in any such transaction. Any such disclosure would be subject to appropriate privacy and security safeguards. In certain circumstances in which it is necessary to do so, or where permitted by law, we may disclose your personal information without your consent to the following parties: 
@@ -65,7 +65,7 @@ We do share this information with the companies we select as our business partne
 
 
 
-### SaskTel Personal Information Handling Principles 
+##### SaskTel Personal Information Handling Principles 
 
 SaskTel has always been, and will continue to be, committed to the privacy of your personal information. In addition to our existing procedures and our adherence to The Freedom of Information and Protection of Privacy Act (FOIP) which governs our approach to handling personal information, we have adopted the following privacy principles from the Canadian Standards Association's Model Code for the Protection of Personal Information: 
 
@@ -82,7 +82,7 @@ Principle 4 - Limiting Collection of Personal Information
 SaskTel will limit the collection of personal information to that which is necessary for the purposes identified by the company. SaskTel will collect personal information by fair and lawful means. 
 
 Principle 5 - Limiting Use, Disclosure and Retention of Personal Information   
-SaskTel will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. SaskTel retains personal information only as long as necessary for the fulfilment of those purposes. 
+SaskTel will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. SaskTel retains personal information only as long as necessary for the fulfillment of those purposes. 
 
 Principle 6 - Accuracy of Personal Information   
 Personal information will be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. 
@@ -102,7 +102,7 @@ A customer may address a challenge concerning compliance with the above principl
   
 
 
-### What Are Your Choices? 
+##### What Are Your Choices? 
 
 We would like to have your consent to continue to collect, use and disclose your personal information for the purposes that we have outlined. However, you do have choices. 
 
@@ -114,7 +114,7 @@ We would like to have your consent to continue to collect, use and disclose your
 
 When you contact us, we will confirm that you are the registered customer. Please know that withdrawing your consent may prevent us from providing you with service and products in certain circumstances. 
 
-### Your On-line Privacy on our web site 
+##### Your On-line Privacy on our web site 
 
 SaskTel collects some information about the ways you use our web site in order to make our site more interesting and useful to you. You are welcome to browse our web site anonymously at any time, without revealing any personal information. 
 
@@ -122,17 +122,17 @@ There are a few activities where the collection of personally identifiable infor
   
 
 
-### IP Address 
+##### IP Address 
 
 When you visit our site, your IP address is collected so that we know where to send the information you are requesting. This IP address does not personally identify you. 
 
-### Anonymous Information 
+**Anonymous Information**
 
 This is information that cannot be associated with a specific individual. Our web servers collect some anonymous information automatically when you visit our site. This information may include the pages you visited, what content you downloaded, the type of web browser you were using, and the level of encryption your browser supports. 
 
 This information is collected on an aggregated basis. No personal information is associated with these statistics. We use this information to determine what type of information is most useful to you so that we can improve our web sites to make it easier for you to access information. 
 
-### Cookies 
+**Cookies**
 
 Our site collects aggregated site-visitation statistics using cookies, small text files containing a unique identification number that identifies your browser to our computers. This small file of information allows the web site to remember important information that will make your use of the site more enjoyable. 
 
@@ -147,7 +147,7 @@ You do not need to accept cookies to visit our site. However, should you choose 
   
 
 
-### How We Safeguard Your Information 
+**How We Safeguard Your Information**
 
 The information you provide to us on our web site is securely maintained and kept confidential. Information is retained in secure facilities, and protected from unauthorized access. We provide technical, administrative, and physical security measures to protect your information against loss, misuse, and unauthorized access or disclosure. 
 
@@ -155,7 +155,7 @@ For some services, SaskTel uses service providers located in another country to 
   
 
 
-### Children 
+**Children**
 
 The privacy of children is important to us. We encourage parents to review our Privacy Statement and our Legal Notices and User Agreement documents. We ask that children do not submit any personal information to us. Our services are intended for individuals who can form legally binding contracts. SaskTel does not use our web site to intentionally collect or use a child's personal data.
 
@@ -165,7 +165,7 @@ SaskTel is also a sponsor of Project Cleanfeed Canada, an initiative involving C
   
 
 
-### Links to Other Web Sites 
+**Links to Other Web Sites**
 
 This web site may contain links to other sites that are not governed by this Privacy Statement. Please be aware that SaskTel is not responsible for the privacy practices of other such sites. This policy applies solely to information collected by this web site. 
 
@@ -173,7 +173,7 @@ Please note that when you click on one of these links, you are moving to another
   
 
 
-### Questions or Concerns 
+Questions or Concerns 
 
 SaskTel welcomes your comments regarding this Privacy Statement. Please contact us if you have questions about privacy and usage that were not answered here. You may address these concerns, in writing to us: 
 
