@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621234428id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222164454id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Use of Information | About | AllThingsD
 
-_Effective as of December 2, 2009_
+_Effective as of June 30, 2010_
 
 Dow Jones & Company Inc. and its affiliates (“Dow Jones”) are committed to maintaining the privacy of personal information that you provide to us when using **AllThingsD.com**. This Privacy Policy describes how we treat personal information received about you when you visit **AllThingsD.com**.
 
@@ -52,7 +52,7 @@ You can let us know that you do not wish to receive information about new featur
 
 Some of the advertisers and Web analytics firms used on this site may place “tracking cookies” on your computer. These are small text files that can tell such companies what you are doing online, even though they usually don’t record your name or other personally identifiable information. These cookies are used by these companies to try and match ads to a user’s interests. They are used all over the Web. But we want you to know how to get rid of these tracking cookies if you like. Here are links to pages where you can opt out of the cookies set by one of our ad placement contractors and our analytics contractor:
 
-  * <http://www.doubleclick.com/us/about_doubleclick/privacy/>
+  * <http://www.doubleclick.com/privacy/index.aspx>
   * <http://www.omniture.com/privacy/2o7>
 
 
@@ -88,4 +88,4 @@ Your information may be stored and processed in the United States or any other c
 
 When we make any material change to this Privacy Policy, we will inform you by updating the Policy’s date.
 
-This Privacy Policy was last updated on December 2, 2009.
+This Privacy Policy was last updated on June 30, 2010.
