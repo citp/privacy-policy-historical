@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604023327id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222075536id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
 
 # Reallusion 3d animation and text to speech software
 
