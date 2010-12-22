@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612124052id_/http%3A//dreammails.net/pages/privacy.php%3FPHPSESSID%3Df1a1c63612bcfa136cc7af58cd0f91b4oscghlqpwepvzsfebqeipfvaev083739) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222044423id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
 
 # DreamMails
 
@@ -7,7 +7,7 @@
 
 | 
 
-[](http://runner.dreammails.net/scripts/runner.php?BA=147&hash=7b05487a74177bae9ac3eb8ef869e172&url=http%3A%2F%2Fwww.freewebs.com%2Fearnpennies)  
+[](http://runner.dreammails.net/scripts/runner.php?BA=3677&hash=c4ca62744846ecf25bd42693a6818d3a&url=http%3A%2F%2Fwww.polarbearclicks.com%2Fpages%2Fxmassales.php)  
 
 
 |   
