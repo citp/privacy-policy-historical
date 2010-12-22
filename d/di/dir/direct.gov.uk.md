@@ -1,26 +1,48 @@
-> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222174707id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222080627id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
 
 # Your privacy : Directgov - Site information
 
-This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
+This page explains Directgov’s privacy policy. Find out how Directgov will use and protect any information about you that you provide when you visit this website.
 
 ### The Data Protection Act
 
-Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.
+Under the Data Protection Act, Directgov has a legal duty to protect any information they collect from you. Directgov uses leading technologies and encryption software to safeguard your data, and keeps strict security standards to prevent any unauthorised access to it.
 
-### What information do we collect?
+### What information does Directgov collect?
 
-We collect three kinds of information from visitors to Directgov: feedback (through visitors emailing us), customer satisfaction surveys (via online pop-up surveys) and site usage information, using cookies and page tagging techniques including JavaScript.
+Directgov collects the following kinds of information from visitors:
 
-### Feedback
+  * feedback (through visitors emailing Directgov)
+  * queries and customer satisfaction survey results (via the Directgov website)
+  * site usage information, using cookies and page tagging techniques including JavaScript
 
-We welcome your feedback.
 
-Should you send an email to us seeking advice or information that we are not in a position to give, we may pass your email to the appropriate government department, executive agency or Non Departmental Public Body who may be able to assist you further. Some examples of external bodies that provide services on Directgov are the Driver and Vehicle Licensing Agency (DVLA) and Student Finance England.
 
-Once we have replied to you, we keep a record of your message for a maximum of two months for reference and audit purposes, after which we will delete it.
+After Directgov replies to you a record of your message will be kept for up to two months before it's deleted.
 
-  * [Feedback](https://web.archive.org/en/Hl1/Help/ContactUs/FeedbackForm/DG_000721)
+### How Directgov uses your information
+
+Information collected by Directgov is used to:
+
+  * improve the content of Directgov
+  * change the content and/or layout of Directgov 
+  * tell visitors (with their permission) about updates to Directgov 
+  * contact visitors (with their permissionn) for marketing purposes
+  * contact visitors to respond to their queries
+
+
+
+Directgov does not share this infomation with other organisations for marketing, market research or other commercial purposes. 
+
+However, Directgov may give your personal details (eg your name and email address) to the appropriate government department, executive agency or non departmental public body. This is so Directgov can help you with your query. 
+
+Directgov may give your personal information to law-enforcement authorities (eg the police) to help them:
+
+  * prevent or detect a crime
+  * assess or collect any tax or duty
+
+
+  * [Contact Directgov Opens new window](https://forms.direct.gov.uk/forms/form/2/en/directgov-contact_us)
 
 
 
@@ -28,56 +50,60 @@ Once we have replied to you, we keep a record of your message for a maximum of t
 
 **Cookies**
 
-Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookies directory of your computer. Cookies are created when you visit Directgov.
+Cookies are pieces of data created when you visit a website, which are stored in the cookies directory of your computer. Cookies are created when you visit Directgov. Directgov cookies store a random number on your computer to help Directgov count the number of times visitors return to the site.
 
-Our cookies store a random number on your computer to help us count the number of times users return to our site.
+The cookies do not contain any personal information about you, and they can’t be used to identify an individual person.
 
-The cookies do not contain any personal information about you, and they cannot be used to identify an individual user.
+Some services, such as the benefits adviser and schools finder, will store a cookie on your computer while you use the service. The service will not work if you do not let it set the cookie on your computer.
 
-If you use the benefits adviser, it will store a cookie on your computer while you use the service. The service will not work if you do not let it set the cookie on your PC.
-
-You can set your browser not to accept cookies. If you do not know how to do this, contact us, giving details on the type of browser you are using, and we will do our best to help.
+You can set your browser not to accept cookies. If you don’t know how to do this, contact Directgov say what browser you’re using (eg Internet Explorer or Firefox).
 
  **Page tagging**
 
-We use JavaScript to aggregate and analyse customer usage patterns on all websites that are part of the Directgov domain. This provides us with data on usability and behaviour. We use this information to make changes to the layout of the website and to the information in it. This does not collect any personal or identifiable information about users.
+Directgov uses JavaScript (a computer language) to pull together and examine how people use the Directgov website. Directgov uses this information to improve the layout of the website and the information on it. This process doesn’t collect any personal or identifiable information about visitors.
 
-We sometimes tag pages on this website during promotion campaigns using pixel tags (which are sometimes called spotlight tags or web beacons). These tags enable us to find out which advertisements are successful in bringing users to our internet site(s). With this technology, the information that we collect and share is anonymous and not personally identifiable.
+Directgov sometimes tags pages on this website using pixel tags (sometimes called spotlight tags or web beacons). These tags help Directgov find out which adverts are successful in bringing visitors to the website. This information is anonymous and doesn’t collect indentifiable information about visitors.
 
-You can disable JavaScript on your computer. If you would like advice on how to disable JavaScript please contact us, giving details about the type of browser you use and we will do our best to help. Disabling JavaScript should not affect your ability to access Directgov’s internet site.
+You can turn off JavaScript on your computer and you can ask Directgov to help you do this. Contact Directgov and say what browser you’re using (eg Internet Explorer or Firefox). You should still be able to use the Directgov website with JavaScript turned off.
 
-  * [Privacy information about DoubleClick Opens new window](http://www.doubleclick.net/us/corporate/privacy)
+  * [Privacy information about cookies and page tagging Opens new window](http://www.doubleclick.net/us/corporate/privacy)
 
 
 
-### The Government Gateway
+### Registering with Government Gateway
 
-Some government transactions and services such as Tax Self Assessment and the State Pensions Forecast will require you to register with the Government Gateway. This site provides secure and encrypted online services and it has its own privacy policy.
+Some government transactions and services, eg Tax Self Assessment and the State Pensions Forecast, need you to register with the Government Gateway. This website provides secure and encrypted online services and has its own privacy policy (follow the link below).
 
   * [Government Gateway privacy policy Opens new window](http://www.gateway.gov.uk/Help/Help.aspx?content=help_privacy_policy.htm&languageid=0)
 
 
 
-### What happens when I link to another site?
+### What happens when you follow a link to another website?
 
-We do not pass on any personal information you have given us to any other site 
+####  **Keeping your data safe**
 
-Directgov contains links to other websites, both of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any other site(s) which collect personal information about you.
+Directgov doesn't pass on your personal information to any other website
 
-We do not pass on any personal information you have given us to any other site.
+Directgov contains links to websites of government departments and other organisations. This privacy policy applies only to the Directgov website. When you link to another website you should read the privacy policy on that website. Directgov doesn’t pass on any of your personal information to other websites (see ‘What information does Directgov collect?’ above).
 
-### What happens when I access the Directgov site through another site?
+### What happens when you come to the Directgov website from another website?
 
-Where you are directed to the Directgov site from another site (whether a third party site or a government site) we may receive personal information relating to you from the other site(s). You should read the privacy policies applicable to such sites as these will govern the use of any personal information that you provide when accessing such sites and which is provided to Directgov. 
+When you come to the Directgov website from a link on another website Directgov may get personal information about you from the other website. You should read the privacy policy of websites you visit that link you to Directgov. These policies will explain how they collect and use your personal information and whether they pass this onto websites they link you to.
 
 ### Access to your information and contacting Directgov
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by email.
+You can contact Directgov to see records of correspondence you’ve sent them, or if you have a query or complaint about this privacy policy. 
 
-  * [Contact Directgov form](https://web.archive.org/en/Hl1/Help/ContactUs/ContactUsForm/DG_179941)
+  * [Contact Directgov form Opens new window](https://forms.direct.gov.uk/forms/form/2/en/directgov-contact_us)
 
 
 
 ### Changes to this privacy policy
 
-If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+If this privacy policy changes Directgov will update this page. You should visit this page regularly so you know:
+
+  * what personal information Directgov collects
+  * how Directgov uses your personal information
+  * when (if ever) Directgov shares your personal information with someone else
+
+
