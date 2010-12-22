@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531012915id_/http%3A//www.abc15.com/dpp/about_us/legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222052549id_/http%3A//www.abc15.com/dpp/about_us/legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
