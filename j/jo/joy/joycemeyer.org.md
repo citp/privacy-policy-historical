@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614235100id_/http%3A//www.joycemeyer.org/AboutUs/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222201216id_/http%3A//www.joycemeyer.org/AboutUs/Privacy.htm) for the most accurate reproduction.*
 
 # Joyce Meyer Ministries — Privacy Policy
 
