@@ -1,255 +1,178 @@
-<!--The following is the downloaded HTML source of the bangyoulater.com privacy policy that was archived on 2010-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100414111653id_/http%3A//www.bangyoulater.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bangyoulater.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222230022id_/http%3A//www.bangyoulater.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Free Porn, Sex Videos, Pussy Movies, Porn Tube, Free XXX Porno</title>
-<meta name="description" content="Watch free porn sex videos and the best pussy movies. The ultimate sex porn tube download. Stream free porn xxx video movie clips online.">
-<meta name="keywords" content="free porn, porn, sex, sex videos, pussy movies, porn tube, free xxx porno, free sex videos, hardcore sex, free porn streaming, xxx porno, full sex movies, stream high definition porn, free porn videos">
-<link rel="stylesheet" type="text/css" href="http://tl-i03.bangyoulater.com/design.css">
-<link rel="alternate" type="application/rss+xml" title="Bang You Later RSS" href="http://www.bangyoulater.com/rss">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head> 
+		<title>Free Porn, Sex Videos, Pussy Movies, Porn Tube, Free XXX Porno</title>
+	<link rel="stylesheet" type="text/css" href="/css/design.css">
+<link rel="alternate" type="application/rss+xml" title="Bang You Later RSS" href="http://www.bangyoulater.com/rss.php">
+<meta name="google-site-verification" content="nrNFHDT-xHn3recenprFpnUt09w0UEykFJdL7mnaUHQ">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/css/other.js"></script> 
+		<link rel="stylesheet" type="text/css" href="/css/design.css">
+<link rel="alternate" type="application/rss+xml" title="Bang You Later RSS" href="http://www.bangyoulater.com/rss.php">
+<meta name="google-site-verification" content="nrNFHDT-xHn3recenprFpnUt09w0UEykFJdL7mnaUHQ">
+<script type="text/javascript" src="/css/other.js"></script> 
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head> 
+<body> 
+<div id="container"><!--Begin container--> 
+ 	<div id="container_content"> 
+	<div id="header"><!--Begin header--> 
+		<div id="header_top"> 
+					<div id="logo_div"><a href="/"><img src="/images/logo.jpg"></a></div>
+                        <div id="mobile_banner">
+                                <a href="http://mobile.bangyoulater.com"><img src="/images/mobile.jpg" width="155" height="68"></a>
+                                <a href="http://ipad.bangyoulater.com"><img src="/images/ipad.jpg" width="200" height="68"></a>
+				                        </div>
 
+                        <form action="/" method="POST">
+                        <div id="header_search_bar">
+                                <div id="seach_box">
+                                        <input type="text" border="none" name="search" id="search_input_box" value="">
+                                        <input type="hidden" id="search_type" name="search_type">
+                                        <span id="new_sort"></span>
+                                </div>
+                        </div>
+                        <div id="find_btn"><button type="submit" id="find_porn"></button></div>
+                        </form>
+			                        <div id="login_reg">
+				<div id="login_text"><a href="/login/">Login</a></div>
+				<div id="register_text"><a href="/register/">Register</a></div>
+                        </div>
+							</div><!---header top--->
+		<ul id="menu_tabs">
+                	<li class="selected"><a href="/">Home</a></li>
+			<li><a href="/videos/">Videos</a></li>
+                        <li><a href="/categories/">Categories</a></li>
+                        <li><a href="/community">Community</a></li>
+                        <li><a href="/blog">Blog</a></li>
+                        <li><a href="http://dating.bangyoulater.com" target="_blank">Dating</a></li>
+                        <li><a href="http://livesex.bangyoulater.com" target="_blank">Live Sex</a></li>
+                        <li><a href="http://premium.bangyoulater.com/index.php?adv_id=204923&amp;subprogram_id=5&amp;skin_group_id=11" target="_blank" class="premium">Premium</a></li>
+		</ul>
+                </div><!--End headed-->
 
-<script type="text/javascript" src="http://tl-i03.bangyoulater.com/jquery.js"></script>
-<script type="text/javascript">
-    JQ = $;
- </script>
-<script type="text/javascript" src="http://tl-i03.bangyoulater.com/ajaxform.js"></script>
-<script type="text/javascript" src="http://tl-i03.bangyoulater.com/tabular.js"></script>
-<script type="text/javascript" src="http://tl-i03.bangyoulater.com/preloadImages.js"></script>
-
-<script type="text/javascript" src="http://tl-i03.bangyoulater.com/scripts/prototype.js"></script>
-
-<script type="text/javascript">
-function rate_media(mid, rating, rval){
-	new Ajax.Request("/rate.php?ajax=true&id=" + mid + "&rating=" + rating, {
-		onComplete: function(transport){
-			if (200 == transport.status){
-				var parts = transport.responseText.split("|");
-				var w = parseInt(parts[0]);
-				document.getElementById(rval).innerHTML = "<div class=\"media_stars_selected\" id=\""+ rval + "_full\"></div>";
-				var nsize = w * 23;
-				document.getElementById(rval + "_full").style.width = nsize + "px";
-			}
-		}
-	});
-}
-
-var user = false;
-var map = "session_id";
-if(user == true){
-	var action = 'add';
-}
-</script>
-
-<script type="text/javascript">
-
-var c_image = 0;
-var o_image = new Array();
-var do_rotate = 0;
-
-function start_thumb_rotator(vid){
-	do_rotate = vid;
-	if (!o_image[vid])
-		o_image[vid] = document.getElementById('thumb_' + vid).src;
-	setTimeout('rotate_image(' + vid + ')', 1000);
-}
-
-function rotate_image(vid){
-	if (vid != do_rotate)
-		return false;
-	document.getElementById('thumb_' + vid).src = 'http://r-m25.bangyoulater.com/' + vid + '/' + ((c_image%4)+1) + '.jpg';
-	setTimeout('rotate_image(' + vid + ')', 1000);
-	c_image = (c_image+1)%5;
-}
-
-function end_thumb_rotator(vid){
-	if (do_rotate == vid)
-		do_rotate = 0;
-	document.getElementById('thumb_' + vid).src = o_image[vid];
-}
-
-</script>
-
-</head>
-<body>
-
-<div id="container"><!--Begin container-->
-
-	<div id="container_content">
-	<div id="header"><!--Begin header-->
-		<div id="header_top">
-			<div id="logo_div">
-				<a href="/"><img src="http://tl-i03.bangyoulater.com/images/logo.jpg"></a>
+		<div id="middle"> 
+			<div id="main_left_border">&nbsp;</div> 
+			<div id="main_content"><div id="middle_ddb"> 
+				<div id="recent_text"></div> 
+				<div id="invite_btn"><a href="/invite/"><img src="/images/invite_btn.jpg" width="177" height="36"></a></div> 
+				<div id="upload_btn"><a href="/upload/"><img src="/images/upload_btn.jpg" width="179" height="36"></a></div>
 			</div>
-			<div id="ifone_banner">
-				<a href="http://www.bangyoulater.com/mobileset.php?mobile=true"><img src="http://tl-i03.bangyoulater.com/images/ifone.jpg"></a>
-					</div>
-		<form action="/search.php" method="POST">
-			<div id="header_search_bar">
-				<div id="seach_box">
-						<input type="text" border="none" name="search" id="search_input_box">
-						<input type="hidden" id="search_type" name="search_type">
-					
-				<span id="new_sort"></span>
-				</div>
-				<!--<div id="middle_ddb3">
-					<div id="dd3_menu">
-						<a href="#" id="ddm3_header">All</a>
-						<ul>
-							<li><a href="#" onClick="setSort('All'); return false;">All</a></li>
-						        <li><a href="#" onClick="setSort('Featured'); return false;">Featured</a></li>		
-						        <li><a href="#" onClick="setSort('Members'); return false;">Members</a></li>
-						</ul>
-					</div>
-				</div>-->
-			</div>
-			<div id="find_btn">
-				<button type="submit" id="find_porn"></button>
-			</div>
-		</form>
-			<div id="login_reg">
-					<div id="login_text">
-					<a href="/login">Login</a>
-					</div>
-					<div id="register_text">
-					<a href="/register">Register</a>
-					</div>
-				</div>		</div><!---header top--->
-			<ul id="menu_tabs">
-				<li><a href="/">Home</a></li>
-				<li><a href="/Videos">Videos</a></li>
-				<li><a href="/Categories">Categories</a></li>
-				<li><a href="/Community">Community</a></li>
-				<li><a href="/blog">Blog</a></li>
-				<li><a href="http://forums.bangyoulater.com" target="_blank">Forum</a></li>
-				<li><a href="http://dating.bangyoulater.com/" target="_blank">Dating</a></li>
-				<li><a href="http://livesex.bangyoulater.com/" target="_blank">Live Sex</a></li>
 
-			</ul>
-		</div><!--End headed-->
-		<div id="middle">
-<div id="main_left_border">&nbsp;</div>
-			
-			
-<div id="main_content">			<div id="middle_ddb">
-					
-<div id="recent_text"> </div>
-					<div id="invite_btn"><a href="/invite-friends"><img src="http://tl-i03.bangyoulater.com/images/invite_btn.jpg" width="177" height="36"></a></div>
-					 <div id="upload_btn"><a href="/video-upload"><img src="http://tl-i03.bangyoulater.com/images/upload_btn.jpg" width="179" height="36"></a></div> 				</div><div id="footer_link_pages">
-     <div id="footer_link_page_text">
-<h1 style="font-size: 18px; text-align: center;">Privacy Policy</h1>
+			<div id="item_list">
+			<h1 style="font-size: 18px; text-align:left;color:white;">Privacy Policy</h1> 
+
+<div style="font-size:10px;padding:10px;line-height:200%;">
+
+<p>This document details important information regarding the use and disclosure of User Data collected on Bangyoulater.com</p><br>
+
+<p>The security of your Data is very important to us at Bangyoulater. We ensure that any information or data given by users will be confidential and will never be given out to any second or third party for commercial or marketing purposes without your consent.</p><br>
+
+<p>This site strictly limits its membership and viewing privileges to adults 18 years of age and over. All persons who do not meet its criteria are prohibited from accessing or viewing the contents of this Site.</p> <br>
+
+<p><strong>DATA COLLECTED</strong></p> 
+
 <p>
-This document details important information regarding the use and disclosure of User Data collected on Bangyoulater.com
-</p>
-<p>
-The security of your Data is very important to us at Bangyoulater. We ensure that any information or data given by users will be confidential and will never be given out to any second or third party for commercial or marketing purposes without your consent. 
-</p>
-<p>
-This site strictly limits its membership and viewing privileges to adults 18 years of age and over. All persons who do not meet its criteria are prohibited from accessing or viewing the contents of this Site. 
-</p>
-<p>
-DATA COLLECTED
-</p>
-<p>
-    * Personal Information:
-           Non-Registered users can watch videos without registration and without any information being collected. However the visitor's IP address will be recorded in the episode that there is any embezzlement of information and/or content.
-  </p>
-<p>        
-           Registered Members: Registration is required for accessing privileges such as video downloading. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information will not be required but may be added if desired by the user for contact and dating criteria.
-    * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by other members and non-members.
-    * Cookies: While visiting Bangyoulater.com, we may send one or more cookies to your computer that identifies your browser session. Bangyoulater.com uses both session cookies and persistent cookies. However if your settings prohibit persistent cookies, some video streaming may not function properly.
-* Log File Information: When you visit Bangyoulater.com, our servers automatically record information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-    * Emails: If you contact us, we may keep a record of that communication.
-</p>
-<p>
-USES
-</p>
-<p>
-    * Your Personally identifiable information submitted to Bangyoulater.com is used to provide to the user the website's features and special personalized features.
-    * Your chosen username is displayed to other Users alongside the content you upload such as videos and comments. Other Users can contact you through the private messaging system.
-    * Any videos that you submit to Bangyoulater.com may be redistributed through the Internet and other mediums for public viewing.
-    * We will not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-    * We may use your email address without further consent for non-marketing or administrative purposes (Website changes, emergencies etc.)
-    * We analyze combined user traffic information to help streamline our marketing and hosting operations to better serve our customers.
-</p>
-<p>
-DISCLOSURE OF INFORMATION
-</p>
-<p>
+	* Personal Information: Non-Registered users can watch videos without registration and without any information being collected. However the visitor's IP address will be recorded in the episode that there is any embezzlement of information and/or content.<br>
+	* Registered Members: Registration is required for accessing privileges such as video downloading. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information will not be required but may be added if desired by the user for contact and dating criteria.<br>
+	* Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by other members and non-members.<br>
+	* Cookies: While visiting Bangyoulater.com, we may send one or more cookies to your computer that identifies your browser session. Bangyoulater.com uses both session cookies and persistent cookies. However if your settings prohibit persistent cookies, some video streaming may not function properly.<br>
+	* Log File Information: When you visit Bangyoulater.com, our servers automatically record information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.<br>
+	* Emails: If you contact us, we may keep a record of that communication.<br>
+</p> 
+<p><strong>USES</strong></p> 
+<p> 
+	* Your Personally identifiable information submitted to Bangyoulater.com is used to provide to the user the website's features and special personalized features.<br>
+	* Your chosen username is displayed to other Users alongside the content you upload such as videos and comments. Other Users can contact you through the private messaging system.<br>
+	* Any videos that you submit to Bangyoulater.com may be redistributed through the Internet and other mediums for public viewing.<br>
+	* We will not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.<br>
+	* We may use your email address without further consent for non-marketing or administrative purposes (Website changes, emergencies etc.)<br>
+	* We analyze combined user traffic information to help streamline our marketing and hosting operations to better serve our customers.<br>
+</p><br>
+<p><strong>DISCLOSURE OF INFORMATION</strong></p><br>
+
+<p> 
     * It is the under duty to do so Bangyoulater.com may release data to comply with any legal obligation, Terms Of Service and protection of property rights. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Bangyoulater.com's policy, whenever possible and legally permissible, to immediately notify you upon an obligation to supply data to any third party.
     * Should you deliberately upload any illegal material Bangyoulater.com, we shall forward all available information to all relevant authorities and this without notice.
-</p>
-<p>
+</p> 
+ 
+<p> 
 SECURITY
-</p>
-<p>
+</p> 
+<p> 
 Upon registration to Bangyoulater.com, it is your duty to remember your username/password. We ask you not to disclose such information with anyone.
-</p>
-<p>
-
+</p> 
+<p> 
+ 
 YOUR RIGHTS
-</p>
-<p>
-You are entitled as a right to access and modify your Data by doing so directly on the website. If you run into any problems, donï¿½t hesitate to contact us at <script>document.write('<a h' + 'ref=' + '"mai' + 'lto:' + 'bang' + 'youl' + 'ater' + '@gma' + 'il.c' + 'om">' + 'bang' + 'youl' + 'ater' + '@gma' + 'il.c' + 'om</' + 'a>');</script><a href="mailto:bangyoulater@gmail.com">bangyoulater@gmail.com</a></p>
-</div>
+</p> 
+<p> 
+You are entitled as a right to access and modify your Data by doing so directly on the website. If you run into any problems, don't hesitate to contact us at <a href="mailto:bangyoulater@gmail.com">bangyoulater@gmail.com</a></p></div>
+			
 
-     <div id="right_ad_space_1">
-          <div id="right_ad_space_content_1" align="center"><iframe src="http://banners.getiton.com/go/page/iframe_cm_20394?lang=english&amp;pid=g1108234-po.subsky1" scrolling="no" align="middle" width="160" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe></div>
-          <div id="right_ad_space_content_1" align="center"><iframe src="http://banners.adultfriendfinder.com/go/page/iframe_cm_20653?lang=english&amp;pid=g1108234-pmo.subsky2" width="160" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" align="middle"></iframe></div>
-     </div>
-
-</div>
-
-</div>
-<div id="main_right_border">&nbsp;</div><div id="lower_ad_space">		<div id="bottom_ad_content">
-			<div style="margin: 10px;"> <iframe src="http://banners.adultfriendfinder.com/go/page/iframe_cm_19228?lang=english&amp;pid=g1108234-pmo.subfooterflash&amp;start=0" scrolling="no" align="middle" width="900" height="250" frameborder="no" marginwidth="0" marginheight="0"></iframe> </div>
+			<div style="clear:both; font-size:1px;">&nbsp;</div> 			
+			&nbsp;
+			</div> 
+			
+ 			<div id="right_ad_space_1">
+				<div id="right_ad_space_content_1" align="center">
+				<iframe width="160" height="600" src="http://textad.xxxmatch.com/if/1/2856/0/ref=58815;keyword=YOURKEYWORD" scrolling="no" frameborder="0"></iframe>				</div> 
+				<div id="right_ad_space_content" align="center">
+				<iframe width="160" height="600" src="http://textad.xxxmatch.com/if/1/2651/0/ref=58815;keyword=YOURKEYWORD" scrolling="no" frameborder="0"></iframe>				</div>
+			</div> 
 		</div>
 
-	</div>
-	</div>
+		<div id="main_right_border">&nbsp;</div>
+		<div id="lower_ad_space">
+			<div id="bottom_ad_content"> 
+			<iframe src="http://banners.adultfriendfinder.com/go/page/iframe_cm_23334?pid=g1108234-pmo" width="928" height="244" scrolling="no" frameborder="no" marginwidth="0" marginheight="0" allowtransparency="true"></iframe>	
+			</div> 
+		</div> 
+	</div> 
+ 
+	<div class="extra_text">We here want you to know that we take your privacy seriously, we believe that you have the right to surf for internet porn in the privacy of your own home, or on the subway on your way home from your iPad or mobile sex clips on your iPhone and Blackberry. We do require registration for specific things such as uploading your favorite pornstar sex clips, but hey this way you can share the best free porn on the best free porno tube site, and take pride that you are helping to create the premier hardcore pornography site of all time.</div> 
+ 
+			<div id="bottom">
+                        <div id="bottom_left_border">&nbsp;</div>
+                                <div id="bottom_content">
+                                        <div id="bottom_logo"><img src="/images/bottom_logo.jpg"></div>
+                                        <div id="copy_right" style="font-size:10px;">BangYouLater.com 2009-2010</div>
+                                        <div id="footer_links" style="padding-top:9px;float:right;">
+                                                <a href="/faq/">FAQ</a> |
+                                                <a href="/dmca/">DMCA</a> | 
+                                                <a href="/privacy/">Privacy Policy</a> |
+                                                <a href="/2257/">2257</a> |
+                                                <a href="/advertising/">Advertising</a> |
+						<a href="http://forums.bangyoulater.com">Forums</a>
+                                        </div>
+                                </div>
+                        <div id="bottom_right_border">&nbsp;</div>
+                </div>
 
-<div class="extra_text">
-	<p>
-	<span style="color: rgb(255, 140, 0);"><span style="font-size: 12px;"><span style="font-family: arial,helvetica,sans-serif;">If you love <strong>Sex</strong>, you will enjoy downloading <strong>Free Porn Videos</strong>!&nbsp; You can stream from the best free porn tube site, featuring the best sex movies. Every day we are adding new free porn movies to our site for you to watch and jerk off to on your computer and mobile phone. Stream a wide range of your favorite XXX categories of the best free porn sex videos on the Internet. At Bangyoulater, you can enjoy the best free porn of hot and wet sexy pussy dripping with our high definition video player. Our free sex porno browser, is a friendly interface that allows you to search for anything adult related. Our free pornstar database features the top actors and actresses in the adult film industry. See them all having sex in HD and HQ quality porn videos. With a 100% free porno tube site like ours, you are not limited to watching a few free porn pussy movies at a time. You can stream free sex videos all day and share unlimited hardcore porn clips with your friends. Finding new sex videos is easy too. Our free porno collection is set up in a way that you can search for your favorite porn stars by date of upload, or by tags and titles. Think of BYL like a free sex porn encyclopedia. Our carefully categorized free porn adult videos range from celebrity to hardcore drunk sex videos in order to serve the needs of gays, lesbians and straights. For those swingers looking for sex, quick fuck or online webcam videos, check out our dating section for adult sex chats and free live sex shows. With Bangyoulater, Why Wait… Masturbate!</span></span></span></p>
-</div>
-
-		<div id="bottom">
-			<div id="bottom_left_border">&nbsp;</div>
-				<div id="bottom_content">
-					<div id="bottom_logo">
-						<img src="http://tl-i03.bangyoulater.com/images/bottom_logo.jpg">
-					</div>
-					<div id="copy_right">
-						© BangYouLater.com 2009-2010					</div>
-					<div id="footer_links">
-						<a href="/">Home</a> | 
-						<a href="/videos">Videos</a> | 
-						<a href="/categories">Categories</a> | 
-						<a href="/community">Community</a> | 
-						<a href="/invite-friends">Invite Friends</a> | 
-						<a href="/frequently-asked-questions">FAQS</a> |
-						<a href="/dmca">DMCA</a> 
-						<a href="/privacy" style="padding-left: 70px;">Privacy Policy</a> |
-						<a href="/terms-and-conditions">Terms &amp; Conditions</a> |
-						<a href="/policy-2257">2257</a> |
-						<a href="/advertising">Advertising</a>
-					</div>
-				</div>
-			<div id="bottom_right_border">&nbsp;</div>
-		</div>
-	</div>
-
-</div>
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-8515165-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8515165-1']);
+  _gaq.push(['_setDomainName', 'www.bangyoulater.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+	</div> 
+ 
+</div> 
+ 
+ 
+ 
 </body></html>
