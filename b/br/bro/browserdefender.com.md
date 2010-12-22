@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browserdefender.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233716id_/http%3A//www.browserdefender.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browserdefender.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222172550id_/http%3A//www.browserdefender.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Browser Defender™ | Privacy Policy
 
