@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513205602id_/http%3A//www.webcpa.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222064454id_/http%3A//www.accountingtoday.com/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Free WebCPA Site Registration
-
-**Sign-up today** and take advantage of member-only content—the kind of timely, cutting-edge industry insight that only WebCPA.com can deliver.
-
-**Free site registration entitles you to:**
-
-  * Exclusive online-only content
-  * Newsletters
-  * Online seminars...and much more!
-
-
-
 ### Privacy Policy
 
-This Privacy Policy covers WebCPA's treatment of personally identifiable information we collect when you are on the WebCPA (AMG) site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies AMG does not own or control, or to individuals AMG does not employ or manage, including operators of sites to which you may link from the AMG Web site. 
+This Privacy Policy covers Accounting Today's treatment of personally identifiable information we collect when you are on the Accounting Today (AMG) site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies AMG does not own or control, or to individuals AMG does not employ or manage, including operators of sites to which you may link from the AMG Web site. 
 
 **What information do we gather?**  
 The only personally identifiable information we collect about you is that which you choose to share with us in registration or when responding to offers from AMG or from our business partners. We also collect information about aggregate site usage. The statistics we gather about unique visits, repeat visits and page views are all based on IP addresses, and are not associated with your personal information. 
