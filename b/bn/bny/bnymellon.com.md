@@ -1,47 +1,42 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223052842id_/http%3A//www.bnymellon.com/util/tononsecure.cfm%3FDest%3D/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222092100id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | BNY Mellon
 
 ## Online Privacy Policy
 
-The Bank of New York Mellon appreciates your concerns about the privacy of personal information that you provide to us through this website. Accordingly, we have posted this policy to explain how we will handle that information.
+BNY Mellon appreciates your concerns about the privacy of personal information that you provide to us through this Web site. Accordingly, we have posted this policy to explain how we will handle that information.
 
 (Note: Our Online Financial Products and Services, such as BNY Online, CRT and INFORM may have different online privacy policies. To view the privacy policy for a specific Online Financial Product or Service please click on the Privacy link on that site.)
 
-### Use of Our Website
-
-You may visit this website and read about our products and services and read our corporate information without providing any information about yourself.
-
 ### Privacy of Information Given by You
 
-If you do provide personal information about yourself, such as name, address or telephone numbers, we will endeavor to maintain that information in accordance with our internal policies governing use and disclosure of confidential information. We may disclose that information within our corporate enterprise. We may also disclose that information to unaffiliated third parties in order to respond to your inquiries, to provide services to you, to provide you with information concerning products and services that we offer, or to prevent or investigate fraud, illegal activity or misuse of this website. We may also disclose that information to unaffiliated third parties for other purposes if we have notified you in advance and you have not objected, you have requested or authorized us to do so, or we are required to do so by law.
+If you do provide personal information about yourself, such as name, address or telephone numbers, we will endeavor to maintain that information in accordance with our internal policies governing use and disclosure of confidential information. We may disclose that information within our corporate enterprise. We may also disclose that information to unaffiliated third parties in order to respond to your inquiries, to provide services to you, to provide you with information concerning products and services that we offer, or to prevent or investigate fraud, illegal activity or misuse of this Web site. We may also disclose that information to unaffiliated third parties for other purposes if we have notified you in advance and you have not objected, you have requested or authorized us to do so, or we are required to do so by law.
 
 ### Use of Cookies
 
-In order to provide better service, track usage of this website, and to address security hazards, we may occasionally use a "cookie." A cookie is a small piece of information which a website stores on your web browser on your PC and can later retrieve. We may use cookies for some administrative purposes; for example, to store your preferences for certain kinds of information or to store a password so that you do not have to input it every time you visit our site. None will contain information that will enable anyone to contact you via telephone, e-mail, or any other means.
+Cookies are small pieces of information that are passed through a browser and stored on your hard drive for later retrieval. The use of cookies is a common practice on the Internet. Many Web sites use cookies to personalize customer experience and most browsers are automatically set up to accept cookies. You may choose to reject cookies by changing designated settings on your Web browser. BNY Mellon uses cookies to provide better service, track usage of its Web site and to address security hazards. We also may use cookies for some administrative purposes, such as storing your preferences for certain kinds of information or to remember a password so that you do not have to input it every time you visit our site.
 
 ### Use of Action Tags
 
-When you utilize the Website, we may receive certain non-personally identifiable information about your use of the Website. Such information, which is collected passively using various technologies including, without limitation, action tags, cannot presently be used to specifically identify you.
+When you utilize the Web site, we may receive certain non-personally identifiable information about your use of the Web site. Such information, which is collected passively using various technologies including, without limitation, action tags, cannot presently be used to specifically identify you.
 
-We use third party advertising companies to serve ads on our behalf across the Internet. These companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information may include: date/time of banner ad shown, their cookie, and a portion of the IP address. These technologies do not collect personally identifiable information ("PII"). In addition, the data collected is not linked with any PII, such as name, email address, or phone number. The anonymous information can also be used for online preference marketing purposes.
+We use third party advertising companies to serve ads on our behalf across the Internet. These companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information may include: date/time of banner ad shown, their cookie, and a portion of the IP address. These technologies do not collect personally identifiable information ("PII"). In addition, the data collected is not linked with any PII, such as name, email address, or phone number. The anonymous information can also be used for online preference marketing purposes.
 
-We and our third party advertisers may use information about your visits to this and other websites in order to provide ads about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.atlassolutions.com/privacy.aspx).
+We and our third party advertisers may use information about your visits to this and other Web sites in order to provide ads about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.atlassolutions.com/privacy.aspx).
 
 ### Coverage of This Policy
 
 Specific privacy policies apply to non-public personal information concerning consumers of certain products and services that we offer. We make those policies available to our customers in accordance with federal law.
 
-NOTICE TO CALIFORNIA USERS REQUIRED BY STATE LAW: We retain information we receive through this website, including information you give us to open an account or purchase a product or service from us, information you give to us in inquiries and other communications, and records of any transactions you perform. We share this information with affiliated and nonaffiliated parties only as necessary to process and service your transactions with us, or as required by law. Such parties may include those who provide services to us in connection with your accounts or transactions, or who are involved in providing you the services you request. In certain instances they might include a purchaser or potential purchaser of an account. We also report information to credit bureaus in appropriate cases. And we share information with government agencies and law enforcement as necessary.
+NOTICE TO CALIFORNIA USERS REQUIRED BY STATE LAW: We retain information we receive through this Web site, including information you give us to open an account or purchase a product or service from us, information you give to us in inquiries and other communications, and records of any transactions you perform. We share this information with affiliated and nonaffiliated parties only as necessary to process and service your transactions with us, or as required by law. Such parties may include those who provide services to us in connection with your accounts or transactions, or who are involved in providing you the services you request. In certain instances they might include a purchaser or potential purchaser of an account. We also report information to credit bureaus in appropriate cases. And we share information with government agencies and law enforcement as necessary.
 
-This notice is effective July 1, 2007. Any changes to our policy will be reflected in this location.
+This notice is effective December 16, 2010. Any changes to our policy will be reflected in this location.
 
-##   
-Protection of Social Security Numbers
+## Protection of Social Security Numbers
 
 "We" refers to the family of companies owned by The Bank of New York Mellon Corporation.
 
-Like all financial services companies, we collect a variety of information about individuals, including but not limited to our customers and employees. In many cases that information includes individuals� Social Security numbers. We use records of Social Security numbers for many purposes, especially to comply with federal and state laws such as tax laws and anti-money-laundering laws.
+Like all financial services companies, we collect a variety of information about individuals, including but not limited to our customers and employees. In many cases that information includes individuals' Social Security numbers. We use records of Social Security numbers for many purposes, especially to comply with federal and state laws such as tax laws and anti-money-laundering laws.
 
 Our policy is (i) to comply with all laws restricting the use and disclosure of Social Security numbers, (ii) to protect the confidentiality of Social Security numbers, (iii) to prohibit the unlawful disclosure of Social Security numbers, and (iv) to limit access to Social Security numbers to our employees, and in certain cases to nonaffiliated parties that provide services to us, based on their responsibilities. To safeguard Social Security numbers, we maintain physical, electronic, and procedural safeguards that are designed to comply with applicable legal standards. Our employees are prohibited from disclosing Social Security numbers for unauthorized purposes.
 
