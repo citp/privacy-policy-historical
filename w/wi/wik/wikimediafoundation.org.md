@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190305id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222115417id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
-### From the Wikimedia Foundation
+From the Wikimedia Foundation
 
 The content of this page is an official policy approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). This policy may _not_ be circumvented, eroded, or ignored on local Wikimedia [projects](https://web.archive.org/wiki/Our_projects "Our projects"). 
 
 Wikimedia policies   
 ---  
   
-  * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
   * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
   * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_Privacy_Policy "Donor Privacy Policy")
+  * [Data retention](https://web.archive.org/wiki/Data_retention_policy "Data retention policy")
+  * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
   * [Trademarks](https://web.archive.org/wiki/Trademark_Policy "Trademark Policy")
 
 
