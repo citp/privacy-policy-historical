@@ -1,75 +1,35 @@
-> *The following text is extracted and transformed from the brickmarketing.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003031850id_/http%3A//www.brickmarketing.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickmarketing.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222133522id_/http%3A//www.brickmarketing.com/content/brick-marketing-privacy-policy) for the most accurate reproduction.*
 
-# Online Marketing Agency and Internet Marketing Solutions and Services Company
+# Brick Marketing Privacy Policy
 
-Brick Marketing strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Brick Marketing online and does not impact information collected or used by Brick Marketing or its affiliates through other means.
+Effective August 2010 
 
-## How we gather information from users.
+At Brick Marketing, we respect the privacy of our web site visitors. We do use information you provide to better serve your business needs. We also recognize that this information belongs to you and that we must treat it accordingly. The following statement spells out our privacy policy in more detail. The policy applies to [www.BrickMarketing.com](http://www.brickmarketing.com/ "www.BrickMarketing.com") and other sites on the World Wide Web owned and operated by Brick Marketing. If there are material changes to this policy in the future, information concerning any such change will be posted on this webpage.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
+Our Use of Personal and Non-Personal Information
 
-Like most Web sites, Brick Marketing also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.
+We collect two kinds of information about our on-line visitors, personal and non-personal information. Visitors are not required to register to access the public pages of Brick Marketing’s sites. Non-personal information is collected to track the total number of guests visiting Brick Marketing sites and to guide our efforts to improve our sites. The non-personal information we monitor includes the browser type and operating system being used by our visitors; areas of the sites visited; date and time of access; host or service-provider information, and identification of the referring site. This information is used exclusively for our internal purposes and is not disclosed to any third parties. 
 
-## What we do with the information we collect.
+Personal information that can identify a visitor, such as name, address or policy information, is collected only when voluntarily offered and solely for purposes that are clearly identified on our sites. Access to pages with content specific to agents, or customers is password-protected and requires pre-registration. Personal information acquired through registration is kept confidential and will not be disclosed to third parties except as may be required by law. Brick Marketing does not seek personal information from children.
 
-We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
+Our Use Of “Cookies”
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on WebMarketingResource.org to communicate with you regarding our Terms of Service and privacy policy, products and services offered by WebMarketingResource.org and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+Brick Marketing may place an electronic "cookie" in the browser files of a guest's computer. Cookies are pieces of information that a web site transfers to an individual’s computer hard drive for record-keeping purposes. Cookies themselves do not enable us to access any personal information about our visitors; however, they do allow Brick Marketing to analyze guests’ use of our sites. This analysis helps us better understand which areas of our sites are most useful and popular so we can plan improvements and updates accordingly. Brick Marketing does not use cookies to retrieve information from a visitor’s computer that was not originally sent in a cookie.
 
-Personally Identifiable Information collected by Brick Marketing may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
+Internet Communication
 
-As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
+The privacy of communication over the Internet cannot be guaranteed, because the Internet is not a secure medium. Brick Marketing does not assume any responsibility for any harm, loss, or damage you may experience or incur by the sending of personal or confidential information over the Internet by or to Brick Marketing.
 
-## Your choice to opt out.
+Consent
 
-The quality news and information on Brick Marketing is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf.
+By using this site, you signify your consent to Brick Marketing's on-line privacy policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this policy from time to time. 
 
-## Affiliated sites, linked sites and advertisements.
+Questions?
 
-Brick Marketing expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Brick Marketing page, certain content that is actually created or hosted by a third party. Also, through Brick Marketing you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Brick Marketing is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+If you have any questions regarding our Privacy Policy, please contact:
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Brick Marketing does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
-
-Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Brick Marketing and this policy.
-
-## Contacting us.
-
-We can be reached by contacting:  
 Brick Marketing, LLC  
-info@brickmarketing.com  
-781-777-2118
-
-## Changes to this policy.
-
-Brick Marketing reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-## Governing law.
-
-This policy and the use of this Site are governed by Massachusetts law. Any claim related to the Site or this policy shall be brought in a federal or state court in Boston, Massachusetts, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Brick Marketing consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Brick Marketing is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
-
-In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
-
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Brick Marketing does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
-
-Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Brick Marketing and this policy.
-
-## Contacting us.
-
-We can be reached by contacting:  
-Brick Marketing, LLC  
-info@brickmarketing.com  
-781-777-2118
-
-## Changes to this policy.
-
-Brick Marketing reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-## Governing law.
-
-This policy and the use of this Site are governed by Massachusetts law. Any claim related to the Site or this policy shall be brought in a federal or state court in Boston, Massachusetts, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Brick Marketing consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Brick Marketing is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
-
-In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
-
-## Online Ordering and Refund Policy
-
-All online orders are processed securely by the credit card processing company for Brick Marketing, 2Checkout.com. Any refunds can be done by contacting either Brick Marketing or 2Checkout.com directly.
+200 Boston Ave. Suite 2530  
+Medford, MA 02474  
+781-350-4365  
+[info@brickmarketing.com](mailto:info@brickmarketing.com)
