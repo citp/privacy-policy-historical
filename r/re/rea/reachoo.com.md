@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121065756id_/http%3A//reachoo.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222133241id_/http%3A//reachoo.com/privacy-policies) for the most accurate reproduction.*
 
 # Reachoo free classifieds - ad syndication | policies
 
