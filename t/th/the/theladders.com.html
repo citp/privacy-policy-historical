@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theladders.com privacy policy that was archived on 2010-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622233336id_/http%3A//www.theladders.com/abouttheladdersprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theladders.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222080530id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -71,10 +71,8 @@
 
 
 
-
 <div class="navigationBarWrapper">
   <div class="innerWrapper">
-    
     <a href="http://www.theladders.com/" class="branding">
       TheLadders.com :: The Most $100k+ jobs
     </a>
@@ -241,20 +239,20 @@ Like most websites, We collect Internet Protocol ("IP") address from all visitor
 		      </div>
 		      <div class="footerLinks">
 		        <ul class="otherLinks">
-		          <li><a href="http://www.theladders.com/abouttheladdersprivacy">Privacy</a><span>|</span></li>
-		          <li><a href="http://www.theladders.com/abouttheladdersterms">Terms of Use</a><span>|</span></li>
 		          <li><a href="http://www.theladders.com/affiliate-information">Affiliates</a><span>|</span></li>
 		          <li><a href="http://www.theladders.com/publisher-tools">Publisher Tools</a><span>|</span></li>
-		          <li><a href="http://www.theladders.com/abouttheladderscontact">Contact</a><span>|</span></li>
-		          <li><a href="http://workattheladders.typepad.com/">Work at TheLadders</a><span>|</span></li>
-		          <li><a href="http://www.theladders.com/abouttheladders">About TheLadders</a><span>|</span></li>
+		          <li><a href="http://www.theladders.com/theladders-contact">Contact</a><span>|</span></li>
+		          <li><a href="http://careers.theladders.com/">Work at TheLadders</a><span>|</span></li>
+		          <li><a href="http://www.theladders.com/theladders">About TheLadders</a><span>|</span></li>
 		          <li><a href="http://www.theladders.com/jobs">Jobs</a><span>|</span></li>  
-		          <li><a href="http://www.theladders.com/static/boom">Job Market Trends</a><span>|</span></li>
-		          <li><a href="http://www.theladders.com/job-directory">Job Directory</a><span>|</span></li>
+		          <li><a href="http://www.theladders.com/job-directory" id="jobDirectory">Job Directory</a><span>|</span></li>
+		          <li><a href="http://www.theladders.com/companies">Top Companies</a><span>|</span></li>
 		          <li><a href="http://resume.theladders.com/">Resume Services</a><span>|</span></li>
 		          <li><a href="http://www.career-line.com" title="Career Line News">Career Line News</a><span>|</span></li>
 		          <li><a href="http://www.theladders.com/help">Help</a><span>|</span></li>
-		          <li><a href="http://www.theladders.com/abouttheladderssitemap">Site Map</a></li>
+		          <li><a href="http://www.theladders.com/theladders-site-map">Site Map</a><span>|</span></li>
+              <li><a href="http://www.theladders.com/theladders-privacy">Privacy</a><span>|</span></li>
+              <li><a href="http://www.theladders.com/theladders-terms-use">Terms of Use</a><span></span></li>
 		          <li class="laddersCopyRight"><a class="generalLabelSecondary" href="http://www.theladders.com?LK_ID=310">© Copyright 2010 TheLadders</a></li>
 		        </ul>
 		      </div>
@@ -265,96 +263,6 @@ Like most websites, We collect Internet Protocol ("IP") address from all visitor
     
 
 
-
-<script type="text/javascript">
-
-var mouseClickedOnPage = false;
-document.onmousedown = recordMouseClick;
-function recordMouseClick(event)
-{
-  mouseClickedOnPage = true;
-}
-
-function createCookie(name,value,days)
-{
-  if (days)
-  {
-    var date = new Date();
-    date.setTime(date.getTime()+(days*24*60*60*1000));
-    var expires = "; expires="+date.toGMTString();
-  }
-  else var expires = "";
-  document.cookie = name+"="+value+expires+";domain=."+"theladders.com";
-}
-
-function readCookie(name)
-{
-  var nameEQ = name + "=";
-  var ca = document.cookie.split(';');
-  for(var i=0;i < ca.length;i++)
-  {
-    var c = ca[i];
-    while (c.charAt(0)==' ') c = c.substring(1,c.length);
-    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-  }
-  return null;
-}
-
-function loadornot()
-{
-  // check if there are cookies, only pop under when cookie is enabled.
-  if (readCookie(('sessionGuestPopUnder')) == null)
-  {
-    loadpopunder();
-    createCookie('sessionGuestPopUnder', '1', 365);
-  }
-  else if(readCookie(('sessionGuestPopUnder')) == 1)
-  {
-    var numTimesSeen = readCookie('sessionGuestPopUnder');
-    loadpopunder();
-    createCookie('sessionGuestPopUnder', parseInt(numTimesSeen) + 1, 365);
-  }
-}
-
-function runPopUnder()
-{
-  if (!mouseClickedOnPage)
-  {
-    if (hasSeenLessThanThreeTimes())
-    {
-      var popunder = window.open("http://www.theladders.com/puGuestSignUp",'TheNewpop','toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1,width=780,height=510');
-      popunder.blur();
-    }
-  }
-}
-
-function hasSeenLessThanThreeTimes()
-{
-  var numTimesSeen = readCookie('guestPopUnder');
-
-  if (numTimesSeen < 2 || numTimesSeen == null)
-  {
-    if (numTimesSeen == null)
-    {
-      createCookie('guestPopUnder', '1', 365);
-    }
-    else
-    {
-      createCookie('guestPopUnder', parseInt(numTimesSeen) + 1, 365);
-    }
-    return true;
-  }
-  return false;
-}
-
-function loadpopunder()
-{
-  window.onunload = runPopUnder;
-}
-
-loadornot();
-
-</script>
 
 
 
