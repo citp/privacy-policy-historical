@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revtrak.net privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503054145id_/http%3A//www.revtrak.com/company/security/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revtrak.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222072519id_/http%3A//www.revtrak.com/company/security/our-privacy-policy) for the most accurate reproduction.*
 
 # RevTrak - Our Privacy Policy
 
