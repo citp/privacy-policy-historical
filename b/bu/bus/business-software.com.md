@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the business-software.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820070104id_/http%3A//www.business-software.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-software.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222173435id_/http%3A//www.business-software.com/privacy-statement) for the most accurate reproduction.*
 
-# Business Software | Home
-
-## Privacy Statement
+# Privacy Statement
 
 This Privacy Policy discloses the privacy practices for the Business-Software.com site and various related services (together referred to as the "site"). Business-Software.com, the provider of the site (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site. 
 
