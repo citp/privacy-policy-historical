@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217175726id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180315id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
 
-# DakkaDakka - Privacy Policy | Instinctive behavior makes you lurk here.
+# DakkaDakka - Privacy Policy | Like other forums but with less CAPS LOCK.
 
 ## Dakka Privacy Policy
 
@@ -35,6 +35,8 @@ The Dakka Dakka Web site use "cookies" to help you personalize your online exper
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Dakka Dakka pages, or register with Dakka Dakka site or services, a cookie helps Dakka Dakka to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Dakka Dakka Web site, the information you previously provided can be retrieved, so you can easily use the Dakka Dakka features that you customized. 
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Dakka Dakka services or Web sites you visit. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 **Security of your Personal Information**
 
