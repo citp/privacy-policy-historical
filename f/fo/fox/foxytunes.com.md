@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxytunes.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619030340id_/http%3A//www.foxytunes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxytunes.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222115744id_/http%3A//www.foxytunes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FoxyTunes
 
@@ -10,9 +10,9 @@ Please Note: On February 4, 2008, FoxyTunes became part of the Yahoo! network of
 
 ## Personal information
 
-In order to make your FoxyTunes experience more personal, you may choose to create a FoxyTunes account. In order to create an account you may be asked to provide certain personal information including your email address. Your email address will help you recover lost or forgotten passwords, and may be used to send service-related announcements or periodic updates about FoxyTunes. We will always provide a clear way for you to opt out of receiving periodic updates about FoxyTunes. 
+In order to make your FoxyTunes experience more personal, you may choose to create a FoxyTunes account. In order to create an account you may be asked to provide certain personal information including your email address. Your email addre ss will help you recover lost or forgotten passwords, and may be used to send service-related announcements or periodic updates about FoxyTunes. We will always provide a clear way for you to opt out of receiving periodic updates about Fo xyTunes. 
 
-If you choose to provide personal information (such as your name or email address) to us, we will not share this information with third parties or other FoxyTunes users without your explicit permission, except when required by law, subpoena or court order. 
+If you choose to provide personal information (such as your name or email address) to us, we will not share this information with third parties or other FoxyTunes users without your explicit permission, except when required by law, subpo ena or court order. 
 
 When you are logged in to your FoxyTunes account you can share content with others via email, such as artist or song information, The personal information you provide when sharing content is only used to send the email on your behalf and is not collected or used for marketing purposes. 
 
@@ -28,19 +28,19 @@ Most Web browsers are initially configured to accept cookies, but you can change
 
 ## Web Site Visits
 
-The FoxyTunes server records certain information it automatically receives from the browser, such as the Web request, Internet Protocol (IP) addresses, browser type, language preference, referring site, pages viewed and the order of those pages. This information is used to help diagnose problems with our servers, to make the site more useful and to customize the site and personalize its content for you. 
+The FoxyTunes server records certain information it automatically receives from the browser, such as the Web request, Internet Protocol (IP) addresses, browser type, language preference, referring site, pages viewed and the order of thos e pages. This information is used to help diagnose problems with our servers, to make the site more useful and to customize the site and personalize its content for you. 
 
 ## Statistical information
 
-By analyzing the Web site usage as explained above, we may compile certain statistical information, such as most popular music or most visited FoxyTunes pages. This aggregate statistical information is not linked to any personal information. We may share such non-personal statistical information with our partners. 
+By analyzing the Web site usage as explained above, we may compile certain statistical information, such as most popular music or most visited FoxyTunes pages. This aggregate statistical information is not linked to any personal informat ion. We may share such non-personal statistical information with our partners. 
 
-When you use the FoxyTunes product via a web browser or a plug-in, certain statistical information may be gathered about your usage of the product and used for diagnostic purposes and improving FoxyTunes. This information may include your device's platform (e.g., OS X, Windows XP, etc.); and the version of FoxyTunes that you are using. We may share such aggregate and anonymous statistical information with our partners. 
+When you use the FoxyTunes product via a web browser or a plug-in, certain statistical information may be gathered about your usage of the product and used for diagnostic purposes and improving FoxyTunes. This information may include you r device's platform (e.g., OS X, Windows XP, etc.); and the version of FoxyTunes that you are using. We may share such aggregate and anonymous statistical information with our partners. 
 
 This information is aggregate and anonymous meaning it will not be linked to any personal information or your Yahoo ID even if you are signed into the Yahoo! Network. 
 
 ## Third Party Web Sites
 
-We may display links to 3rd party sites and some of our site pages (artist pages for example) display information from 3rd parties (such as Amazon, YouTube or Flickr). We cannot be held responsible for any 3rd party Web sites and accessing their content will be subject to their own privacy policies, which we advise you to check. 
+We may display links to 3rd party sites and some of our site pages (artist pages for example) display information from 3rd parties (such as Amazon, YouTube or Flickr). We cannot be held responsible for any 3rd party Web sites and accessi ng their content will be subject to their own privacy policies, which we advise you to check. 
 
 ## Changes
 
@@ -48,6 +48,6 @@ FoxyTunes may update this Privacy Policy from time to time - we encourage you to
 
 ## Comments and Questions
 
-If you have any comments or questions about our privacy policy please [contact us](http://www.foxytunes.com/feedback.html). 
+If you have any comments or questions about our privacy policy please [contact us](https://web.archive.org/feedback.html). 
 
 _Last updated: June 16, 2008_
