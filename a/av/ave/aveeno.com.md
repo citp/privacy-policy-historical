@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100140id_/http%3A//www.aveeno.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222125502id_/http%3A//www.aveeno.com/%3Fq%3Dnode/4) for the most accurate reproduction.*
 
-# AVEENO® Skin Care Products
+# Our Privacy Policy | AveenoÂ®Skin Care Products
 
 **PRIVACY POLICY**
 
@@ -52,4 +52,4 @@ This site may contain links or references to other websites to which this Privac
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: Johnson & Johnson Consumer Products Company Attn: Information Center 199 Grandview Road Skillman, NJ 08558-9418 1-888-638-5242
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 12, 2003. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 12, 2003.
