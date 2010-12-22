@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523001544id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222044843id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | PharmiWeb.com
 
@@ -47,7 +47,7 @@ The personal information collected throughout the Site is used by us to satisfy 
 
 The automatically retrieved information is only used in aggregate form and no individual will be identified. The aggregate data allows us to analyse the site traffic and manage our relationship with advertisers and thus provide a more relevant service to our users (please also see the section below relating to cookies).
 
-Email and postal addresses supplied to us allow us to send you important information about changes and improvements to the Site. Each time you receive a message or mail shot, you have the option to decline to receive further marketing information relating to our activities. 
+Email and postal addresses supplied to us allow us to send you important information about changes and improvements to the Site or special announcements which we feel will be of interest to you. Each time you receive a message or mail shot, you have the option to decline to receive further marketing information relating to our activities. 
 
 Through your use of the Site you may submit information to third parties, for example by applying to a job advertised on the Site or by allowing your CV to be searchable by companies looking for candidates to fill roles. We have no control over such third parties and we are not responsible for their use or retention of your personal information. We try to limit access to use of the job advertisement and Database services to paying employers, recruitment professionals, law enforcement and governmental bodies but we cannot guarantee this.
 
@@ -77,7 +77,7 @@ If you are a registered user of the Site our use of cookies also allows you to b
 
 Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies may restrict your use of Site.
 
-## 5b GOOGLE's DART COOKIE
+## 5a GOOGLE's DART COOKIE
 
   * Google, as a third-party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
@@ -99,4 +99,4 @@ If you have any queries please contact [corporate@pharmiweb.com](mailto:corporat
 
 **
 
-See also [Privacy Policy](https://web.archive.org/web/20100523001544id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20100523001544id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20100523001544id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
+See also [Privacy Policy](https://web.archive.org/web/20101222044843id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20101222044843id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20101222044843id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
