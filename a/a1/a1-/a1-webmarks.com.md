@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222025458id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
 
-# A1-Webmarks - Privacy Policy
+# Privacy Policy - A1-Webmarks
 
 ## Bottom Line
 
@@ -20,6 +20,8 @@ You may cancel your account at any time, in which case all data submitted from t
 
 We use Google Adsense as advertising service. Google uses cookies and similar techniques to collect data in the ad serving process. However, Google has no access to private data you provide on this site. Google uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
+We use the VigLink service to turn some external links into affiliate links. [Learn more](http://www.viglink.com/corp/ftc). 
+
 ## Information Usage
 
 The information collected by Q-Success is used to monitor this site's performance and to find ways to improve it. The information we collect will not be used to create customer profiles based on browsing history. We will not supplement information collected at our web site with data from other sources. Email addresses disclosed by users for sign-up are not used by Q-Success for other purposes and are not divulged to any third party.
@@ -32,5 +34,9 @@ We offer links to other web sites. Please note: When you click on links to other
 
 If you have any further questions about privacy, please contact us by sending an email to: [office@a1-webmarks.com](mailto:office@a1-webmarks.com).
 
+## Last Modification of this Page
+
+August 31, 2010
+
   
-[Terms of Use](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2009 Q-Success
+[Terms of Use](https://web.archive.org/web/20101222025458id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20101222025458id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20101222025458id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2010 Q-Success
