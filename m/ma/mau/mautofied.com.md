@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the mautofied.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623000136id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mautofied.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180151id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of Mautofie, Inc.
+This is the web site of Mautofied, Inc.
 
-Our postal address is   
-1855 S. Santa Cruz  
-Anaheim, CA 92887
+Our postal address is 
 
-We can be reached via e-mail at [admin@mautofied.com](mailto:admin@mautofied.com)  
-or you can reach us by telephone at 
+1407 N. Batavia Suite 103
+
+Orange, CA 92867
+
+We can be reached via e-mail at admin@mautofied.com
+
+or you can reach us by telephone at 1 800 991 7087
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -19,9 +22,9 @@ The information we collect is used to improve the content of our Web page, used 
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site .
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at <http://www.mautofied.com/account/?module=Account> or login and click Email Settings link..
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at http://www.mautofied.com/account/?module=Account or login and click Email Settings link..
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by visiting us at <http://www.mautofied.com/account/?module=Account>.
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by visiting us at http://www.mautofied.com/account/?module=Account.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
@@ -29,8 +32,10 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), a description of information that we maintain about them.
 
-Consumers can have this information corrected by visiting us at <http://www.mautofied.com/account/>.
+Consumers can have this information corrected by visiting us at http://www.mautofied.com/account/.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number or admin@mautofied.com.
