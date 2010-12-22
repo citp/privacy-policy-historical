@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004005id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151348id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Financial News
 
-### June 1, 2010
+### Effective as of October 1, 2010
 
 ### Overview
 
@@ -51,13 +51,15 @@ Further information about cookies may be found at [http://www.cookiecentral.com]
 
 Select the cookie page and then the link to 'The Dark Side.' This contains information on how to protect yourself from unwanted cookies. 
 
+**If you choose to opt out of online behavioural advertising, please click on the link below:<http://www.youronlinechoices.co.uk/opt-out> **
+
 ### E-mails
 
 All the emails that you receive as part of your Financial News Online service are sent directly by eFinancialNews Ltd. 
 
 ### Adverts
 
-Financial News Online house adverts are tracked through unique identification in order to make sure that you do not receive the same advert many times in one session. Some of the adverts that appear on our website are delivered to you by third party advertising organizations. Our advertising partners may serve ads that they believe are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). In order to do this, our advertising partners may need to place a cookie on your computer. We do not control these cookies and visitors to our web sites should check the privacy policy of the advertiser to see whether and how it uses cookies. For more information about this type of online behavioral advertising, about cookies, and about how to turn this feature off, please visit [esubs@efinancialnews.com](mailto:esubs@efinancialnews.com)
+Financial News Online house adverts are tracked through unique identification in order to make sure that you do not receive the same advert many times in one session. Some of the adverts that appear on our website are delivered to you by third party advertising organizations. Our advertising partners may serve ads that they believe are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). In order to do this, our advertising partners may need to place a cookie on your computer. We do not control these cookies and visitors to our web sites should check the privacy policy of the advertiser to see whether and how it uses cookies. For more information about this type of online behavioral advertising, about cookies, and about how to turn this feature off, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)
 
 ### Security Policy
 
