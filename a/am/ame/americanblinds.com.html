@@ -1,470 +1,457 @@
-<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2010-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325123044id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222210912id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.-->
 
-<html><head>
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">    
-<title>American Blinds Wallpaper and More : Resource Center: American Blinds Wallpaper and More</title>
-   
-<meta name="description" content="American Blinds, Wallpaper &amp; More - Shop for top brands, discount blinds, curtains, drapes, window blinds, window treatments, window coverings &amp; window shades. Guaranteed Lowest Prices - Hunter Douglas, Bali, Levolor, Graber, Kirsch, wood blinds, mini blinds">
-<meta name="keywords" content="Window blinds, wallpaper, discount blinds, window treatments, window coverings, curtains, drapes, mini blinds, Hunter Douglas, custom blinds">
-
-<meta name="robots" content="index,follow">
-
-<meta name="Robots" content="NOODP">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Information on dispute resolution, data collection, information sharing, cookies, security practices and our Safe Shopping Guarantee.">
+<meta name="keywords" content="">
+<title>Privacy and Security | American Blinds and Wallpaper</title>
+<link href="http://cache.americanblinds.com/12/skin07/style.css?2009-09-28" rel="stylesheet" type="text/css">
+<link href="http://cache.americanblinds.com/skin07/smallSwatch.css" rel="stylesheet" type="text/css">
+<link href="http://cache.americanblinds.com/skin07/cluetip/jquery.cluetip.css" rel="stylesheet" type="text/css">
+<link href="http://cache.americanblinds.com/skin07/js/jquery.combobox.css" rel="stylesheet" type="text/css">
 
-<link href="http://www.americanblinds.com/css/abwmstyles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
 
-<script language="javascript" type="text/javascript" src="/includes/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
-<script language="javascript" type="text/javascript" src="/includes/overlib.js"></script>
+//use browser sniffing to determine if IE or Opera (ugly, but required)
+var isModernBrowser = false;
 
-<style type="text/css">
-<!--
-#newbottomnav { display: none; }
--->
-</style>
+if (window.XMLHttpRequest) { isModernBrowser = true; }
 
-<style type="text/css">
-<!--
-body,td,th {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #000000;
+if(!isModernBrowser){
+//fix both IE and Opera (adjust when they implement this method properly)
+  document.nativeGetElementById = document.getElementById;
+  //redefine it!
+  document.getElementById = function(id){
+    var elem = document.nativeGetElementById(id);
+    if(elem){
+      //verify it is a valid match!
+      if(elem.attributes['id'] && elem.attributes['id'].value == id){
+        //valid match!
+        return elem;
+      } else {
+        //not a valid match!
+        //the non-standard, document.all array has keys for all name'd, and id'd elements
+        //start at one, because we know the first match, is wrong!
+        if(document.all[id]) {
+        for(var i=1;i<document.all[id].length;i++){
+          if(document.all[id][i].attributes['id'] && document.all[id][i].attributes['id'].value == id){
+            return document.all[id][i];
+          }
+        }
+        }
+      }
+    }
+    return null;
+  };
 }
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-}
-.style1 {color: #000000}
--->
-</style>
-<style>
-.backgroundcolor {
-background-color:#E5DEF4;
-}
-</style>
 
-<script>
-<!--
-function checkEmail(f){
-     if (f.email.value.length == 0){
-         f.email.value='e-mail address';
-     } 
-     f.submit();
-	 }
-//-->
+// cross-platform compatible function to grab DOM elements by their ID
+function getElement(id) {
+	var obj = (document.GetElementById) ? document.GetElementById(id) : document.all[id];
+	return obj;
+}
+
+try { document.execCommand("BackgroundImageCache",false,true); } catch(e) {};
+
+/*this should be at the top of the page*/
+function addLoadEvent(func) { 
+  var oldonload = window.onload; 
+  if (typeof window.onload != 'function') { 
+	window.onload = func; 
+  } else { 
+	window.onload = function() { 
+	  if (oldonload) { 
+		oldonload(); 
+	  } 
+	  func(); 
+	} 
+  } 
+} 
+//	addLoadEvent(preLoadBlindsRollovers); 
+//	addLoadEvent(function() { 
+//	});
+
 </script>
-<script language="JavaScript">
-<!-- Begin Blinds installer
-function popUpb(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=800,height=741,left = 150,top = 84');");
-}
-// End blinds installer-->
-</script><script language="JavaScript">
-  //Get rid of the frame from CJ affiliates sites on secure pages 
-<!--
+
+	<!-- ie specific css overrides -->
+<script type="text/javascript">
+	var bname = navigator.appName;
+	if (bname.search(/microsoft/i) == 0) {
+		var ie_curse = 1;
+	  	document.write('<link href="http://cache.americanblinds.com/skin07/style_ie.css" rel="stylesheet" type="text/css" />');
+	}
+	var noIEselect = 0; /* set to 1 on pages that are too broken to render the ie-compat select boxes (leftnav) */
+</script>
+<script type="text/javascript" src="http://cache.americanblinds.com/js/jquery-1.4.2.js"></script>
+<script type="text/javascript">
+	/* jQuery noConflict mode b/c of prototype in one section of one page.... */
+	var JQ = jQuery.noConflict();
+</script>
+
+<!--<script type='text/javascript' src='http://cache.americanblinds.com/skin07/cluetip/jquery.dimensions.m.js'></script>-->
+<!--<script type='text/javascript' src='http://cache.americanblinds.com/skin07/js/jquery.combobox.m.js'></script>-->
+<script type="text/javascript" src="http://cache.americanblinds.com/skin07/cluetip/jquery.cluetip.js"></script>
+<script type="text/javascript" src="http://cache.americanblinds.com/skin07/cluetip/lib/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="http://cache.americanblinds.com/skin07/js/jquery.flash.m.js"></script>
+<!--<script type='text/javascript' src='http://cache.americanblinds.com/skin07/js/jquery.focusfields.m.js'></script>-->
+<script type="text/javascript" src="http://cache.americanblinds.com/skin07/cluetip/lib/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="http://cache.americanblinds.com/js/smallSwatch.js"></script>
+
+<script type="text/javascript">
+		function nav_hilight(el,pel) {
+		}
+</script>
+
+
+
+    
+					<script type="text/javascript" language="javascript">
+			// leave this alone - rfinn
+			document.domain = "americanblinds.com";
+		</script>
 	
-change = 0
-//-->
-
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
-</script></head>
-
-
-
-
-
-
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#336699" vlink="#336699" alink="#336699">
-<a name="top"></a>
-
-<!-- SiteCatalyst code version: H.19.3.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script type="text/javascript" src="/omniture/s_code.js"></script>
-<script type="text/javascript">//<![CDATA[
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="resourcecenter:help:security"
-s.server="Webserver7"
-s.channel="resourcecenter"
-s.prop1="resourcecenter"
-s.prop2="resourcecenter:help"
-s.prop3="resourcecenter:help:security"
-s.prop4="resourcecenter"
-s.prop5=""
-s.prop6=""
-s.prop7=""
-s.prop8=""
-s.prop9=""    
-s.prop10=""
-s.prop11=""
-s.events=""
-s.products=""
-s.eVar1=""
-s.eVar3=""
-s.eVar4=""
-s.eVar11=""
-s.eVar18=""
-s.eVar19=""
-s.eVar20=""
-s.eVar21=""
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-s.t()//]]>
-
-</script>
-<!-- End SiteCatalyst code version: H.19.3. -->
-
-
-<table width="992" border="0" cellspacing="0" cellpadding="0" id="emailbanner">
-  
-	<tbody><tr>
-		<td align="right" nowrap="" width="43%" valign="middle" class="onlinecatalog">
+</head>
+<!-- end: std_head_07 -->
 		
-		</td>
-		<td align="right" nowrap="">
-			<table border="0" cellspacing="0" cellpadding="2">
-				<tbody><tr>
-<!-- PROGRAMMER NOTE - DISPLAY THIS CELL ONLY IF THE CUSTOMER IS LOGGED IN - NO DATE AND TIME - JUST THE NAME -->
-				    <td valign="middle" class="emailsignup">
-				        
-                    </td>
-					<td valign="middle" class="emailsignup">&nbsp;&nbsp;&nbsp;<img src="/images/envelope.gif" alt="email" width="20" height="16" hspace="0" vspace="0" border="0"></td>
-					<td valign="middle" class="emailsignup"><font color="#336699">&nbsp;Sign Up Now For EXCLUSIVE Offers!</font></td>
-					<form name="fEmail" method="post" action="https://www.americanblinds.com/register/email_reg.asp?omEreg=GPT"></form>					
-					<td valign="middle" class="emailsignup">
-					     <input name="email" type="text" class="emailsignup2" value="e-mail address" size="22" maxlength="40" onfocus="document.fEmail.email.select();">
-					</td>					     
-										     
-					<td valign="middle" class="emailsignup">
-				<!-- PROGRAMMER NOTE - CAPTURE THE EMAIL ADDRESS FOR THE DATABASE.  TAKE THE USER TO THE http://www.americanblinds.com/register/email_reg.asp PAGE.  POPULATE THE EMAIL FIELD ON THAT PAGE. -->
-						<table border="0" cellpadding="0" cellspacing="0" style="background-color:#336699">
-							<tbody><tr>
-								<td width="2"><img src="/images/nav/corners_topbar_left2.gif" width="2" height="18" hspace="0" vspace="0" border="0"></td>
-								<td align="center" valign="middle">
-									<table width="100%" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<!--<td nowrap="nowrap">&nbsp;<a href="https://www.americanblinds.com/register/email_reg.asp" class="signup"><font color="#ffffff">Sign Up</a>&nbsp;</td>-->
-										    <td nowrap="">&nbsp;<a href="#" class="signup" onclick="javascript:checkEmail(document.fEmail);"><font color="#ffffff">Sign Up</font></a><font color="#ffffff">&nbsp;</font></td>
-										</tr>
-									  
-									</tbody></table>
-								</td>
-								<td width="2"><img src="/images/nav/corners_topbar_right2.gif" width="2" height="18" hspace="0" vspace="0" border="0"></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<table width="992" border="0" cellspacing="0" cellpadding="0" id="topnav">
-	<tbody><tr>
-		<td>
-			
-      <table width="992" border="0" cellpadding="0" cellspacing="0" bordercolor="#FF0099">
+<body style="margin: 0px" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="#336699" vlink="#336699" alink="#336699">
+	<script language="JavaScript" src="http://cache.americanblinds.com/js/header.js"></script>
+    <script language="JavaScript" src="http://cache.americanblinds.com/12/js/mbox.js"></script>
+        <table cellspacing="0" cellpadding="0" width="1000" border="0">
+            <tbody><tr>
+              <td align="left" colspan="3">
+                <!-- begin: header table std_header_07 -->
+                    
+
+<table width="992" border="0" cellspacing="0" cellpadding="0" id="header_table">
+  <tbody><tr>
+    <td>
+	  <table width="992" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
-					<td width="280" rowspan="3" valign="bottom"><a href="http://www.americanblinds.com/Default.asp"><img src="/images/nav/ABWM_logo_topleft.jpg" alt="American Blinds Wallpaper and More" width="280" height="67" hspace="0" vspace="0" border="0"></a></td>
-					<td width="34" rowspan="3"><img src="/images/nav/spacer.gif" width="34" height="67" hspace="0" vspace="0" border="0"></td>
-					<td width="127" rowspan="3" align="center" valign="top">
-						<table width="127" border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-              					<td height="6" align="center"><img src="/images/nav/white_spacer.gif" width="85" height="6" hspace="0" vspace="0" border="0"></td>
-            				</tr>
-            				<tr>
-              					
-                <td height="35" align="center"> 
-                  <!-- PROGRAMMER NOTE - ADD HACKERSAFE CODE HERE AND REMOVE PLACEHOLDER IMAGE -->
-                  <a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.americanblinds.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.americanblinds.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-               </td>
-            				</tr>
-            				<tr>
-              					<td height="26" align="center">
-<!-- PROGRAMMER NOTE - IF CART EMPTY DISPLAY THE FOLLOWING SPACER.GIF.  OTHERWISE SHOW THE CART TABLE BELOW -->
-			                
-			                    <img src="/images/nav/spacer.gif" width="1" height="26" hspace="0" vspace="0" border="0">
-			               
-			  					</td>
-            				</tr>
-        				</tbody></table>
-					</td>
-        			<td width="551"><img src="/images/nav/white_spacer.gif" width="85" height="6" hspace="0" vspace="0" border="0"></td>
-      			</tr>
-      			<tr>
-        			<td>
-						<table width="551" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
-            				<tbody><tr>
-			  					<td width="134"><img src="/images/nav/abwm_phonenumber.gif" alt="800-575-8016" width="134" height="20" hspace="0" vspace="0" border="0"></td>
-              					<td width="2"><img src="/images/nav/corners_topbar_left.gif" width="2" height="20" hspace="0" vspace="0" border="0"></td>
-              					<td align="center" valign="middle" class="topNavloginbar">									
-                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                      <tbody><tr> 
-                                        <td width="20%"><div align="center"><a href="https://www.americanblinds.com/register/default.asp" class="topNavloginbar">Log In</a></div></td>                                                
-                                        <td width="25%">
-                                          <div align="center"><a href="https://www.americanblinds.com/customer/order_status.asp" class="topNavloginbar">Order 
-                                            Status</a></div></td>
-                                        <td width="25%"><div align="center"><a href="https://www.americanblinds.com/customer/callback.asp" class="topNavloginbar">Live Help</a></div></td>
-                                        <td width="15%"><div align="center"><a href="http://www.americanblinds.com/help/default.asp" class="topNavloginbar">Help</a></div></td>
-                                      </tr>
-                                    </tbody></table>
-							    </td>
-              					<td width="2"><img src="/images/nav/corners_topbar_right.gif" width="2" height="20" hspace="0" vspace="0" border="0"></td>
-            				</tr>
-                            </tbody></table>
-					
-              <img src="/images/nav/abwm_phonenumber2.gif" alt="734-266-3999" width="134" height="20" hspace="0" vspace="0" border="0"></td>
-      			</tr>
-      			<tr>
-        			<td nowrap="">
-						
-            <table width="551" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="100" height="41" rowspan="3"> 
-                  <table width="100" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr> 
-                      <td width="52"><img src="/images/nav/valprop_01_3reasons.gif" width="52" height="41" hspace="0" vspace="0" border="0"></td>
-                      <td valign="bottom" class="valueprops"><font color="#336699">Reasons<br>
-                        To Buy:</font><br>
-                        <img src="/images/nav/valprop_topspace02.gif" width="41" height="6" hspace="0" vspace="0" border="0"></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-                <td width="12"><img src="/images/nav/valprop_topspace01.gif" width="12" height="21" hspace="0" vspace="0" border="0"></td>
-                <td width="130"><img src="/images/nav/valprop_topspace02.gif" width="130" height="21" hspace="0" vspace="0" border="0"></td>
-                <td width="16"><img src="/images/nav/valprop_topspace03.gif" width="16" height="21" hspace="0" vspace="0" border="0"></td>
-                <!--<td width="128">&nbsp;</td>-->
-                <td width="100"><img src="/images/nav/valprop_topspace04.gif" width="100" height="21" hspace="0" vspace="0" border="0"></td>
-                <td width="17"><a href="#"><img src="/images/nav/valprop_topspace05.gif" width="17" height="21" hspace="0" vspace="0" border="0"></a></td>
-                <td width="132"><img src="/images/nav/valprop_topspace06.gif" width="132" height="21" hspace="0" vspace="0" border="0"></td>
-              </tr>
-              <tr> 
-                <td><a href="http://www.americanblinds.com/help/lowest.asp"><img src="/images/nav/valprop_num1.gif" width="12" height="14" hspace="0" vspace="0" border="0"></a></td>
-                <td nowrap=""><span class="style1"><a href="http://www.americanblinds.com/help/lowest.asp" class="valueprops"><font color="#336699">Lowest 
-                  Price Guarantee</font></a></span></td>
-                <td><a href="http://www.americanblinds.com/help/shipping.asp"><img src="/images/nav/valprop_num2.gif" width="16" height="14" hspace="0" vspace="0" border="0"></a></td>
-                <!--<td>&nbsp;</td>-->
-                <td nowrap=""><span class="style1"><a href="http://www.americanblinds.com/help/shipping.asp" class="valueprops"><font color="#336699">FREE 
-                  Ground Shipping</font></a></span></td>
-                <td><a href="http://www.americanblinds.com/help/guarantee.asp"><img src="/images/nav/valprop_num3.gif" width="17" height="14" hspace="0" vspace="0" border="0"></a></td>
-                <td nowrap=""><span class="style1"><a href="http://www.americanblinds.com/help/guarantee.asp" class="valueprops"><font color="#336699">100% 
-                  Satisfaction Guarantee</font></a> </span></td>
-              </tr>
-              <tr> 
-                <td colspan="7"><img src="/images/nav/valprop_btmspace.gif" width="445" height="6" hspace="0" vspace="0" border="0"></td>
-              </tr>
-            </tbody></table>
-					</td>
-      			</tr>
-    		</tbody></table>
-		</td>
-	</tr>
-  	<tr>
-    	
-    <td> 
-      
-        
-      <table width="992" border="0" cellpadding="0" cellspacing="0" style="background-color:#336699">
-        <tbody><tr> 
-          <td width="75" align="center" nowrap=""><a href="http://www.americanblinds.com/Default.asp"><img src="/images/nav/ABWM_logo_home_bg2.jpg" width="75" height="28" hspace="0" vspace="0" border="0"></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBarsLeft.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap=""><a href="http://www1.americanblinds.com/blindshome.aspx?ui=107375134&amp;lg=0&amp;cmad=" class="topNavLinksWhite" style="background-color:#336699"><font color="#ffffff">&nbsp;&nbsp;&nbsp;BLINDS&nbsp;&nbsp;&nbsp; 
-            <br>
-            <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
-            &nbsp;&nbsp;&nbsp;SHADES&nbsp;&nbsp;&nbsp; </font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;N=4294967258" class="topNavLinksWhite"><font color="#ffffff">WALLPAPER 
-            <br>
-            <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
-            FABRIC </font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/mural/mural_jump.asp?ui=107375134&amp;lg=0&amp;cmad=" class="topNavLinksWhite"><font color="#ffffff">DESIGN 
-            YOUR<br>
-            OWN WALLPAPER</font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=CU&amp;N=4294957587" class="topNavLinksWhite"><font color="#ffffff">CURTAINS 
-            <br>
-            <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
-            DRAPERIES </font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=HD&amp;N=4294956741" class="topNavLinksWhite"><font color="#ffffff">HARDWARE</font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap="" style="background-color:#336699"><a href="http://www.americanblinds.com/products/instock/index.asp?P=RU&amp;N=4294955199" class="topNavLinksWhite"><font color="#ffffff">AREA<br>
-            RUGS </font></a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" nowrap=""><a href="http://www.americanblinds.com/products/artwork/maw_jump.asp" class="topNavLinksWhite" style="background-color:#336699<font color=" #ffffff"="">POSTERS 
-            - PRINTS<br>
-            <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"><br>
-            FRAMED ART</a></td>
-          <td width="5"><img src="/images/nav/corners_navDividerBars_2.gif" width="5" height="28" hspace="0" vspace="0" border="0"></td>
-          <td align="center" bgcolor="#003399"><a href="http://www.americanblinds.com/commercialquote/default.asp" class="topNavLinksWhite">COMMERCIAL 
-            <br>
-            &amp; CONTRACT</a><br>
+          <td width="280" rowspan="3" valign="bottom"><a href="http://www1.americanblinds.com/"><img src="http://cache.americanblinds.com/images/nav/ABWM_logo_topleft2.jpg" alt="American Blinds Wallpaper and More" width="280" height="67" hspace="0" vspace="0" border="0"></a></td>
+          <td width="47" rowspan="3"><img src="http://cache.americanblinds.com/images/nav/spacer.gif" width="34" height="67" hspace="0" vspace="0" border="0" alt=""></td>
+          <td style="width: 667px"><img src="http://cache.americanblinds.com/images/nav/white_spacer.gif" width="85" height="6" hspace="0" vspace="0" border="0" alt=""></td>
+        </tr>
+        <tr>
+          <td style="width: 667px">
+              <table width="672" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="274" align="center">
+<a href="#OrderByPhone" class="header_phone">Want Designer Advice?</a><br>
+ <a href="#OrderByPhone" class="header_phone">Call 800-575-8016</a> <a href="http://www1.americanblinds.com/control/infopage?page=callback.html&amp;master=resourcecenter" class="header_phone"> Or <u>Get Online Help</u></a>                  </td>
+                  <td width="400">
+                  <table width="380" cellspacing="0" cellpadding="0" border="0" bgcolor="#666666" align="right">
+                        <tbody><tr>
+                            <td width="2"><img hspace="0" height="20" width="2" vspace="0" border="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_topbar_left.gif"></td>
+                            <td valign="middle" align="center" class="topNavloginbar">
+                                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                    <tbody><tr>
+                                        <td width="39%"><div align="center"><a class="topNavloginbar" href="http://www1.americanblinds.com/control/cart?">Shopping Cart</a></div></td>
+                                      <td width="27%"><div align="center"><a class="topNavloginbar" href="http://www1.americanblinds.com/control/orderStatus">Order Status</a></div></td>
+                                      <td width="34%"><div align="center"><a class="topNavloginbar" href="http://www1.americanblinds.com/control/infopage?page=resourcecenter.html&amp;master=resourcecenter">Resource Center</a></div></td>
+                                  </tr>
+                                </tbody></table>
+                            </td>
+                            <td width="2"><img hspace="0" height="20" width="2" vspace="0" border="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_topbar_right.gif"></td>
+                        </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
           </td>
-          <td width="3"><img src="/images/nav/corners_navDividerBarsRtA.gif" width="3" height="28"></td>
-          <td width="2" bgcolor="#990000"><img src="/images/nav/corners_navDividerBarsRtB.gif" width="2" height="28"></td>
-          <td align="center" nowrap="" bgcolor="#990000"><a href="http://www.americanblinds.com/clearance/default.asp" class="topNavLinksWhite">CLEARANCE<br>
-            OUTLET </a></td>
-          <td width="4" bgcolor="#990000"><img src="/images/nav/corners_navDividerBarsRt.gif" width="4" height="28" hspace="0" vspace="0" border="0"></td>
+        </tr>
+        <tr>
+            <td nowrap="" style="width: 667px" align="right">
+                <table width="553" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td height="41" width="100" rowspan="3">
+                        </td>
+                        <td width="12"><img hspace="0" height="21" border="0" width="12" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_topspace01.gif"></td>
+                        <td width="134"><img hspace="0" height="21" border="0" width="134" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_topspace02.gif"></td>
+                        <td width="16"><img hspace="0" height="21" border="0" width="16" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_topspace03.gif"></td>
+                        <td width="120"><img hspace="0" height="21" border="0" width="120" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_topspace04.gif"></td>
+                        <td width="17"><a href="#"><img hspace="0" height="21" border="0" width="17" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_topspace05.gif"></a></td>
+                        <td width="154"><img hspace="0" height="21" border="0" width="154" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_topspace06.gif"></td>
+                    </tr>
+                    <tr>
+                        <td nowrap="">&nbsp;</td>
+                        <td><span class="style1"><a style="color: rgb(51, 102, 153);" class="valueprops" href="http://www1.americanblinds.com/control/infopage?page=lowest.html&amp;master=resourcecenter">Lowest Price Guarantee</a> </span></td>
+
+                        <td nowrap="">&nbsp;|&nbsp;</td>
+                        <td><span class="style1"><a style="color: rgb(51, 102, 153);" class="valueprops" href="http://www1.americanblinds.com/control/infopage?page=shipping.html&amp;master=resourcecenter">FREE Ground Shipping</a> </span></td>
+                        <td nowrap=""> &nbsp;|&nbsp;</td>
+                        <td><span class="style1"><a style="color: rgb(51, 102, 153);" class="valueprops" href="http://www1.americanblinds.com/control/infopage?page=guarantee.html&amp;master=resourcecenter">100% Satisfaction Guarantee</a> </span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="6"><img hspace="0" height="6" border="0" width="445" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/valprop_btmspace.gif"></td>
+                    </tr>
+                </tbody></table>
+            </td>
         </tr>
       </tbody></table>
     </td>
-  	</tr>
-  	<tr>
-    	<td>
-			<table width="992" border="0" cellpadding="0" cellspacing="0" bgcolor="#cbcbcb">
-				<tbody><tr>
-        			<td width="9"><img src="/images/nav/corners_btmrow_left.gif" width="9" height="18" hspace="0" vspace="0" border="0"></td>
-        			<td nowrap="" class="topNavLinksblack">
-<!-- PROGRAMMER NOTE - ADD LINKS REFERRED TO AS LINKLIST HERE -->
-                    <a href="http://www.americanblinds.com/cart/default.asp" class="topNavLinksblack">My Cart</a> | <a href="http://www.americanblinds.com/scrapbook/default.asp" class="topNavLinksblack">Scrapbook</a> | <a href="https://www.americanblinds.com/customer/ellen.asp" class="topNavLinksblack">Decorate Today® with Ellen</a> | <a href="http://www.americanblinds.com/onlinecatalog.asp" class="topNavLinksblack">Online Catalog</a> | <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=5" class="topNavLinksblack">Contact The CEO</a></td>
-        			<td width="35"><img src="/images/nav/corners_btmrow_Rt_slider.gif" width="35" height="18" hspace="0" vspace="0" border="0"></td>
-        			<td width="100%" background="/images/nav/corners_btmrow_rt_bg.gif">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-          					<tbody><tr>
-            					<td bgcolor="#cbcbcb"><img src="/images/nav/spacer.gif" width="55" height="5" hspace="0" vspace="0" border="0" class="style3"></td>
-          					</tr>
-          					<tr>
-            					<td bgcolor="#FFFFFF"><img src="/images/nav/spacer.gif" width="55" height="13" hspace="0" vspace="0" border="0"></td>
-          					</tr>
-        				</tbody></table>
-					</td>
-					<td width="7"><img src="/images/nav/corners_btmrow_Rt_end.gif" width="7" height="18" hspace="0" vspace="0" border="0"></td>
+  </tr>
+  <tr>
+    <td>
+       <table width="992" border="0" cellpadding="0" cellspacing="0" style="background-color:#336699; color:#ffffff">
+         <tbody><tr> 
+           <td nowrap="" align="left" width="75" style="background-color: rgb(107, 138, 189);"><a href="http://www.americanblinds.com/"><img hspace="0" height="28" border="0" width="75" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/ABWM_logo_home_bg2.jpg"></a></td>
+          <td width="5"><img hspace="0" height="28" border="0" width="5" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBarsLeft.gif"></td>
+          <!--aitemp td align="center" nowrap width="88"--><td nowrap="" align="center" width="110"><a style="color: rgb(255, 255, 255);" class="topNavLinksWhite" href="http://www1.americanblinds.com/blinds/cellular_shades/11">&nbsp;&nbsp;&nbsp;BLINDS&nbsp;&nbsp;&nbsp; 
+            <br>
+            <img hspace="0" height="3" border="0" width="30" vspace="0" src="http://cache.americanblinds.com/images/nav/v_line.gif"><br>
+            &nbsp;&nbsp;&nbsp;SHADES&nbsp;&nbsp;&nbsp; </a></td>
+
+          <td width="5"><img hspace="0" height="28" border="0" width="5" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBars.gif"></td>
+          <!--aitemp td align="center" nowrap width="96"--><td nowrap="" align="center" width="100"><a style="color: rgb(255, 255, 255);" class="topNavLinksWhite" href="http://www.americanblinds.com/wallpaper/">WALLPAPER </a></td>
+          <td width="5"><img hspace="0" height="28" border="0" width="5" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBars.gif"></td>
+          <td nowrap="" align="center" width="114"><a style="color: rgb(255, 255, 255);" class="topNavLinksWhite" href="http://www.americanblinds.com/control/customWallpaper">DESIGN 
+            YOUR<br>
+            OWN WALLPAPER</a></td>
+
+          <td width="5"><img hspace="0" height="28" border="0" width="5" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBars.gif"></td>
+          <td nowrap="" align="center" width="62"><a style="color: rgb(255, 255, 255);" class="topNavLinksWhite" href="http://americanblinds.metaverse.com/">ART 
+            </a></td>
+          <!--td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"  alt="" /></td-->
+          <!--ai td align="center" nowrap width="88"><a href="http://www.americanblinds.com/products/instock/index.asp?P=HD&home=tab3&ui=104359706&lg=0&cust=n" class="topNavLinksWhite" style="color:#ffffff" >HARDWARE</a></td>
+          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0" alt="" /></td-->
+
+          <!--td align="center" nowrap width="80"><a href="http://www.americanblinds.com/products/instock/index.asp?P=RU&home=tab6&ui=104359706&lg=0&cust=n" class="topNavLinksWhite" style="color:#ffffff" >AREA RUGS </a></td>
+          <td width="5"><img src="/images/nav/corners_navDividerBars.gif" width="5" height="28" hspace="0" vspace="0" border="0"  alt=""/></td>
+          <td align="center" nowrap width="98" ><a href="http://www.americanblinds.com/products/artwork/maw_jump.asp?ui=104359706&lg=0&cust=n" class="topNavLinksWhite" style="color:#ffffff" >POSTERS 
+            - PRINTS <br>
+            <img src="/images/nav/v_line.gif" width="30" height="3" vspace="0" hspace="0" border="0"></a><a href="http://www.americanblinds.com/products/artwork/maw_jump.asp?ui=104359706&lg=0&cust=n" class="topNavLinksWhite" style="color:#ffffff" ><br>
+            FRAMED ART</a></td-->
+          <td width="1"><img hspace="0" height="28" border="0" width="3" vspace="0" src="http://cache.americanblinds.com/images/nav/corners_navDividerBars_2.gif"></td>
+          <td nowrap="" bgcolor="#003399" align="center" width="105"><a style="color: rgb(255, 255, 255);" class="topNavLinksWhite" href="http://www1.americanblinds.com/control/infopage?page=sampleswatches.html&amp;master=resourcecenter">SAMPLES</a></td>
+          <td width="5"><img height="28" width="5" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBarsRtA.gif"></td>
+          <td bgcolor="#990000" width="2"><img height="28" width="2" src="http://cache.americanblinds.com/images/nav/corners_navDividerBarsRtB.gif"></td>
+          <td nowrap="" bgcolor="#990000" align="center" width="89"><a style="color: rgb(255, 255, 255);" class="topNavLinksWhite" href="http://www.americanblinds.com/control/infopage?page=currentpromotions.html">ON SALE</a></td>
+          <td bgcolor="#990000" width="2"><img hspace="0" height="28" border="0" width="5" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBarsRt.gif"></td>
+
+
+          <td width="1"><img hspace="0" height="28" border="0" width="2" vspace="0" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBars.gif"></td>
+          <td width="210">
+<form action="/control/keywordSearch?" method="GET" name="s" id="a_search">
+  <fieldset>
+    <input type="text" class="search_input_box" name="q" id="textfield" value="search blinds &amp; shades" onfocus="this.value=&quot;&quot;;" size="16">
+    <input type="submit" value="Search" class="imageField" title="Search Blinds">
+  </fieldset>
+</form>
+          </td>
+          <td width="3"><img height="28" width="3" alt="" src="http://cache.americanblinds.com/images/nav/corners_navDividerBarsRtA.gif"></td>
+         </tr>
+       </tbody></table>
+     </td>
+  </tr>
+  <tr>
+    <td>
+	  <table width="992" border="0" cellpadding="0" cellspacing="0" bgcolor="#cbcbcb">
+        <tbody><tr>
+          <td nowrap="" class="topNavLinksblack">
+          </td>
+          <td width="100%">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td bgcolor="#cbcbcb"><img src="http://cache.americanblinds.com/images/nav/spacer.gif" width="55" height="5" hspace="0" vspace="0" border="0" class="style3" alt=""></td>
+                </tr>
+                <tr>
+                    <td bgcolor="#FFFFFF"><img src="http://cache.americanblinds.com/images/nav/spacer.gif" width="55" height="13" hspace="0" vspace="0" border="0" alt=""></td>
+                </tr>
+            </tbody></table>
+          </td>
+					<td width="7"><img src="http://cache.americanblinds.com/images/nav/corners_btmrow_Rt_end.gif" width="7" height="18" hspace="0" vspace="0" border="0" alt=""></td>
       			</tr>
-    		</tbody></table>
-		</td>
-  	</tr>
+      </tbody></table>
+	</td>
+  </tr>
 </tbody></table>
 
-<!-- PROGRAMMER NOTE - PLEASE ADD THE LINK LOGIC FOR BACK TO ONLINE CATALOG IN THE FOLLOWING TABLE AND ONLY SHOW THIS TABLE IF THE USER IS DETECTED TO HAVE COME FROM THE ONLINE CATALOG. -->
-
-
-<table><tbody><tr><td width="100">
-<!--
-<img src="http://www.americanblinds.com/images/horizontal_spacer.gif">
--->
-</td><td align="center">
-
-</td></tr></tbody></table>
-<table width="992" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-    	<td width="1" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="1" height="26"></td>
-    	<td width="165" valign="top" bgcolor="#ffffff"><table width="165" border="0" cellspacing="0" cellpadding="1">
-            <tbody><tr>
-              <td><img src="/images/resource/rc_s2.gif" width="163" height="41" hspace="0" vspace="0" border="0"><br>
-                  <table width="161" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                      <td><table width="161" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
-<div id="snavTitle">
-		<ul id="snavLink">
-			<li><a href="http://www.americanblinds.com/resourcecenter/default.asp" target="_parent">Resource Center Home</a></li>
-			<li><a href="http://www.americanblinds.com/measure/default.asp" target="_parent">How to Measure Blinds</a></li>
-			<li><a href="http://www.americanblinds.com/installation/default.asp" target="_parent">How to Install Blinds</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/videosandguides.asp" target="_parent">DIY Videos &amp; Guides</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/4ways.asp" target="_parent">Help &amp; Information</a></li>
-			<li><img src="/images/spacer.gif" width="10" height="15" hspace="0" vspace="0" border="0"></li>
-	 	</ul>
-	<img src="/images/resource/hi_ltnav.gif" width="161" height="27" hspace="0" vspace="0" border="0">
- 		<ul id="snavLink">
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/4ways.asp" target="_parent">General Help &amp; Policy</a></li>
-			<li><a href="http://www.americanblinds.com/measure/default.asp" target="_parent">Blinds Help</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/wp_default.asp" target="_parent">Wallpaper Help</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/cu_default.asp" target="_parent">Curtains Help</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/ar_default.asp" target="_parent">Area Rugs Help</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/options.asp" target="_parent">Glossaries &amp; Terms</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/gcFAQ.asp" target="_parent">Gift Card Help</a></li>
-			<li><img src="/images/spacer.gif" width="10" height="15" hspace="0" vspace="0" border="0"></li>
-  		</ul>
-	<img src="/images/resource/gh_ltnav.gif" width="161" height="27" hspace="0" vspace="0" border="0">
-		<ul id="snavLink">
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/4ways.asp" target="_parent">4 Easy Ways to Shop</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/lowest.asp" target="_parent">Lowest Price Guarantee</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/shipping.asp" target="_parent">Free Shipping</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/guarantee.asp" target="_parent">100% Satisfaction Guarantee</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/payment.asp" target="_parent">Payment Options</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/return.asp" target="_parent">Return Policy</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/tech_error.asp" target="_parent">Technical Help</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/shopping.asp" target="_parent">Shopping Cart</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/security.asp" target="_parent">Privacy &amp; Security</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/disclaimer.asp" target="_parent">Disclaimers</a></li>
-			<li><a href="http://www.americanblinds.com/resourcecenter/help/legal.asp" target="_parent">Legal Notices</a></li>
-		</ul>
-	<a href="https://www.americanblinds.com/customer/callback.asp" target="_parent"><img src="/images/livechatsmall.jpg" alt="Need Help?" width="110" height="133" hspace="25" vspace="2" border="0"></a><br>
-	<img src="/images/spacer.gif" width="10" height="15" hspace="0" vspace="0" border="0">
-</div>
-</td></tr></tbody></table></td>
-                    </tr>
-                </tbody></table></td>
+<!-- end: header table std_header_07 -->
+	
+              </td>
             </tr>
-        </tbody></table></td>
-    	<td width="1" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="1" height="26"></td>
-    	<td width="825" valign="top">
-			<table width="825" border="0" cellpadding="0" cellspacing="0">
-      			<tbody><tr background="/images/bg_border_gray.jpg">
-        			<td height="1" colspan="3" background="/images/bg_border_gray.jpg"><img src="/images/spacer.gif" width="825" height="1" hspace="0" vspace="0" border="0"></td>
-      			</tr>
-      			<tr>
-        			<td width="1" background="/images/bg_border_gray.jpg"><img src="/images/spacer.gif" width="1" height="56" hspace="0" vspace="0" border="0"></td>
-        			<td width="823"><table width="823" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="200" rowspan="2"><img src="/images/resource/title_security.gif" width="200" height="56" hspace="0" vspace="0" border="0"></td>
-                        <td width="623" height="0" valign="bottom" bgcolor="#FFFFFF"><table width="623" height="33" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr>
-                              <td height="33" align="right" valign="bottom" class="JumpTitle">&nbsp;</td>
-                            </tr>
-                        </tbody></table></td>
-                      </tr>
-                      <tr>
-                        <td colspan="2"><img src="/images/resource/rcline.gif" alt="navline" width="623" height="23" hspace="0" vspace="0" border="0"></td>
-                      </tr>
-                    </tbody></table></td>
-        <td width="1" background="/images/bg_border_gray.jpg"><img src="/images/spacer.gif" width="1" height="56" hspace="0" vspace="0" border="0"></td>
-     </tr>
-     <tr>
-       	<td width="1" background="/images/bg_border_gray.jpg"><img src="/images/spacer.gif" width="1" height="1"></td>
-        <td height="0" valign="top">
-			<table width="823" border="0" cellpadding="2" cellspacing="0">
-            	<tbody><tr>
-              		<td valign="top"><br>
+            <tr>
+              <td valign="top" rowspan="2" style="width: 170px;">
+		          <table width="165" border="0" cellspacing="0" cellpadding="1">
+    <tbody><tr>
+      <td><img src="http://cache.americanblinds.com/images/infopages/rc_s2.gif" width="163" height="41" hspace="0" vspace="0" border="0"><br>
+         <table width="161" border="0" cellpadding="0" cellspacing="0">
+           <tbody><tr>
+             <td>
+			   <table width="161" border="0" cellpadding="0" cellspacing="0">
+			     <tbody><tr>
+				   <td>
+					<div id="snavTitle">
+					 <ul id="snavLink">
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=resourcecenter.html&amp;master=resourcecenter" target="_parent">Resource Center Home</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=measure_default.html&amp;master=resourcecenter&amp;submaster=measure" target="_parent">How to Measure Blinds</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=installation_default.html&amp;master=resourcecenter&amp;submaster=installation" target="_parent">How to Install Blinds</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=videosandguides.html&amp;master=resourcecenter" target="_parent">DIY Videos &amp; Guides</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=troubleshoot.html&amp;master=resourcecenter&amp;submaster=installation" target="_parent">Troubleshooting Tips</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=care.html&amp;master=resourcecenter&amp;submaster=installation" target="_parent">Care  &amp; Cleaning </a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=lifetime.html&amp;master=resourcecenter" target="_parent">5 Year Limited Warranty</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=4ways.html&amp;master=resourcecenter" target="_parent">Help &amp; Information</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=wp_default.html&amp;master=resourcecenter&amp;submaster=wallpaper" target="_parent">Wallpaper Help</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=cu_default.html&amp;master=resourcecenter&amp;submaster=curtains" target="_parent">Curtains Help</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=4ways.html&amp;master=resourcecenter" target="_parent">Glossaries &amp; Terms</a></li>
+					   <img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="10" height="15" hspace="0" vspace="0" border="0">
+					 </ul>
+
+
+
+						
+					   <img src="http://cache.americanblinds.com/images/infopages/mi_leftnav_inthenews.gif" width="161" height="27" hspace="0" vspace="0" border="0">
+					 <ul id="snavLink">
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=pressreleases.html&amp;master=resourcecenter" target="_parent">Press Releases</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=art_main.html&amp;master=resourcecenter" target="_parent">Featured Articles</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=as_seen_on.html&amp;master=resourcecenter" target="_parent">As Seen On</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=testimonials.html&amp;master=resourcecenter" target="_parent">Customer Testimonials</a></li>
+					   <img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="10" height="15" hspace="0" vspace="0" border="0">
 					
-						<table width="100%" cellpadding="4" cellspacing="0" border="0">
-					<tbody><tr>
-						<td>
-	 <font face="arial, helvetica" size="3"><b>Privacy and Security</b></font> 
+					</ul>
+					   <img src="http://cache.americanblinds.com/images/infopages/mi_leftnav_decoratetoday.gif" width="161" height="27" hspace="0" vspace="0" border="0">
+					   <ul id="snavLink">
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=child_safety.html&amp;master=resourcecenter" target="_parent">Child Safety</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=eco.html&amp;master=resourcecenter" target="_parent">Eco-Friendly</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=decoratingtips.html&amp;master=resourcecenter" target="_parent">Decorating Tips</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=wallpapertrends.html&amp;master=resourcecenter" target="_parent">Wallpaper Trends</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=ellen.html&amp;master=resourcecenter" target="_parent">DecorateToday<img src="http://cache.americanblinds.com/images/infopages/regmark.gif" width="8" height="8" hspace="0" vspace="0" border="0"> with Ellen</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=sampleswatches.html&amp;master=resourcecenter" target="_parent">Order Blinds Samples</a></li>
+					 </ul>
+					   <a href="http://www1.americanblinds.com/control/infopage?page=callback.html&amp;master=resourcecenter" target="_parent"><img src="http://cache.americanblinds.com/images/infopages/livechatsmall.jpg" alt="Need Help?" width="110" height="133" hspace="25" vspace="2" border="0"></a><br>
+					   <img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="10" height="15" hspace="0" vspace="0" border="0"><br>
+
+					 
+					   <img src="http://cache.americanblinds.com/images/infopages/mi_leftnav_andmore.gif" width="161" height="27" hspace="0" vspace="0" border="0">
+					 <ul id="snavLink">
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=installer_services.html&amp;master=resourcecenter" target="_parent">Professional Installation</a></li>
+					   <li><a href="http://www1.americanblinds.com/control/infopage?page=subscribe.html&amp;master=resourcecenter" target="_parent">Exclusive Email Specials</a></li>    
+					 </ul>
+					 
+			        </div>
+		          </td>
+			    </tr>
+			  </tbody></table>
+		    </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>              </td>
+              <td valign="top">
+                <table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+                  <td valign="top" align="left" style="width: 100%;">
+                    <!-- begin: content block -->
+                        <div id="main_content_area">
+  
+
+    <style type="text/css">
+#right_nav {display:none;}
+    </style>
+    <title></title>
+  
+  
+    <a name="top"></a>
+    <table width="827" border="0" cellspacing="0" cellpadding="0">
+
+      <tbody><tr>
+        <td width="1" bgcolor="#FFFFFF">
+          <img src="/images/spacer.gif" width="1" height="26" alt="#########">
+        </td>
+        <td width="1" bgcolor="#FFFFFF">
+          <img src="/images/spacer.gif" width="1" height="26" alt="#########">
+        </td>
+        <td width="825" valign="top">
+          <table width="825" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr background="/images/infopages/bg_border_gray.jpg">
+              <td colspan="3" background="/images/infopages/bg_border_gray.jpg" height="1">
+                <img src="/images/infopages/spacer.gif" border="0" height="1" hspace="0" vspace="0" width="825" alt="#########">
+              </td>
+            </tr>
+            <tr>
+              <td background="/images/infopages/bg_border_gray.jpg" width="1">
+                <img src="/images/infopages/spacer.gif" border="0" height="56" hspace="0" vspace="0" width="1" alt="#########">
+
+              </td>
+              <td width="823">
+                <table border="0" cellpadding="0" cellspacing="0" width="823">
+                  <tbody>
+                    <tr>
+                      <td rowspan="2" width="200">
+                        <img src="/images/infopages/title_security.gif" border="0" height="56" hspace="0" vspace="0" width="200" alt="#########">
+                      </td>
+                      <td bgcolor="#FFFFFF" height="0" valign="bottom" width="623">
+
+                        <table border="0" cellpadding="0" cellspacing="0" height="33" width="623">
+                          <tbody>
+                            <tr>
+
+                            </tr>
+                          </tbody>
+                        </table>
+
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2" valign="bottom">
+                        <img src="/images/infopages/rcline.gif" alt="navline" width="623" height="23" hspace="0" vspace="0" border="0">                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+
+              </td>
+              <td background="/images/infopages/bg_border_gray.jpg" width="1">
+                <img src="/images/infopages/spacer.gif" border="0" height="56" hspace="0" vspace="0" width="1" alt="#########">
+              </td>
+            </tr>
+            <tr>
+              <td background="/images/infopages/bg_border_gray.jpg" width="1">
+                <img src="/images/infopages/spacer.gif" height="1" width="1" alt="#########">
+              </td>
+
+              <td height="0" valign="top">
+                <table id="Table_01" border="0" cellpadding="2" cellspacing="0" width="823">
+                  <tbody>
+                    <tr>
+                      <td valign="top">
+                        <table id="Table_01" border="0" cellpadding="5" cellspacing="0" width="100%">
+                          <tbody>
+                            <tr>
+                              <td class="JumpDescription" valign="top">
+
+                                <p>
+<font size="3" face="arial, helvetica"><b>Privacy and Security</b></font> 
       <br>
       <br>
-      <font face="arial, helvetica" size="2"> This privacy policy is for American Blinds, Wallpaper &amp; More. 
-      Our homepage on the Web is located at<a href="http://www.americanblinds.com/default.asp"> 
+      <font size="2" face="arial, helvetica"> This privacy policy is for American Blinds, Wallpaper &amp; More. 
+      Our homepage on the Web is located at<a href="http://century.dev.blinds.net/"> 
       www.americanblinds.com</a>. The full text of our privacy policy is stated 
-      below<!--<a href="/w3c/p3p.xml"></a>-->. Users may go to <a href="https://www.americanblinds.com/register/default.asp">our registration section</a> 
+      below<!--<a href="/w3c/p3p.xml"></a>-->. Users may go to our registration section
       to opt-in or opt-out of use of their information. We invite you to contact 
       us if you have questions about this policy. You may contact us by mail at 
-      the following address: 
-      <p><b>American Blinds, Wallpaper &amp; More<br>
-        Att: E-Commerce Dept.<br>
-        31557 Schoolcraft Rd.<br>
-        Livonia, MI&nbsp;48150-1847<br>
-        USA<br>
-        </b><br>
-        You may contact us by e-mail by <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=6">clicking 
-        here</a>. <br>
+      the following address:      </font></p><p><font size="2" face="arial, helvetica"><b>American Blinds<br>
+
+        Att: E-Commerce Dept.<br></b>
+        1302 Waugh Dr, #943<br>
+
+Houston, TX  77019-3908<br>
+
         <br>
-        You may call us at <b>1- 800- 509- 8222</b></p>
-      <b>Dispute Resolution</b><br>
+       Contact us by e-mail <a href="mailto:customerserviceteam@AmericanBlinds.com">customerserviceteam@AmericanBlinds.com </a> . 
+	   <br>
+        <br>
+        You may call us at <b>800-575-8016</b></font></p>
+<font size="2" face="arial, helvetica">      <b>Dispute Resolution</b><br>
       Privacy/Security Dispute: If you have a question regarding our privacy policy 
       or wish to dispute a privacy related issue, please contact our Customer 
-      Service department at 1-800-575-9019. <b><br>
+      Service department at 800-575-8016. <b><br>
       <br>
       Additional Information</b><br>
+
                         This policy is valid until 31 January 2011 at 12:00:00 
                         EST.<br>
       <br>
@@ -473,41 +460,46 @@ s.t()//]]>
       is maintained at the World Wide Web Consortium (W3C). P3P policies declare 
       the data they collect in groups (also referred to as "statements"). 
       This policy contains one data group. The data practices of this group are 
-      explained below. 
-      <p>Group: American Blinds, Wallpaper &amp; More<br>
+      explained below.      </font><p><font size="2" face="arial, helvetica">Group: American Blinds, Wallpaper &amp; More<br>
         <br>
-        We collect the following information:</p>
-      <p>Click-stream data<br>
+        We collect the following information:</font></p>
+
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">Click-stream data<br>
         HTTP cookies<br>
         Search terms<br>
         Transaction history<br>
         User's Name<br>
         Home mailing address<br>
+
         Home e-mail address<br>
         Unique identifiers<br>
         Computer information<br>
-        Interactive data</p>
-      <p>At the user's option, we may also collect the following data:</p>
-      <p>Name Prefix<br>
+        Interactive data</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">At the user's option, we may also collect the following data:</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">Name Prefix<br>
+
         User's Birth Date<br>
         Home telephone numbers<br>
-        Home fax number</p>
-      <p>This data will be used for the following purposes:</p>
-      <p>Completion and support of the current activity<br>
+        Home fax number</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">This data will be used for the following purposes:</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">Completion and support of the current activity<br>
         Web site and system administration<br>
+
         Research and development<br>
         One-time tailoring. The user is allowed to opt-out of this usage<br>
         Anonymous user analysis<br>
         Anonymous user profiling and decision-making<br>
         Contacting visitors for marketing of services or products<br>
-        This data will be used by our agents and ourselves</p>
-      <p>In addition, the following types of entities will receive this information:</p>
-      <p>Delivery services.<br>
+        This data will be used by our agents and ourselves</font></p>
+
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">In addition, the following types of entities will receive this information:</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">Delivery services.<br>
         Others following the same practices. The user must opt-in to this data 
         sharing.<br>
         Unrelated third parties. The user must opt-in to this data sharing.<br>
         <br>
         The following explanation is provided for why this data is collected:<br>
+
         <br>
         When you place an order or register on our site, we require you to provide 
         your name, e-mail address, mailing address, phone number, and credit card 
@@ -524,53 +516,57 @@ s.t()//]]>
         on our mailing list, or whether you would prefer to opt-out and not receive 
         such mailings. When you enter a contest or other promotional feature at 
         our site, we may again ask for your name, address, username and password 
-        so that we are able to better administer the contest and notify winners.</p>
-      <p><b>Information Sharing</b></p>
-      <p>We utilize third-party companies to perform certain functions for us. 
+        so that we are able to better administer the contest and notify winners.</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica"><b>Information Sharing</b></font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">We utilize third-party companies to perform certain functions for us. 
         Examples include order fulfillment, package delivery, the sending of emails 
         and direct mail, data analysis, marketing optimization programs, credit 
         card processing, etc. These third parties are given only the data that 
         they need to perform the function that they are engaged in, and are not 
         allowed to use it for any other purpose. We may be required to disclose 
         your personal information to third parties to comply with applicable laws, 
-        subpoenas, or court orders. </p>
-      <p>We do make our customer postal mailing list available to other reputable 
+        subpoenas, or court orders. </font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">We do make our customer postal mailing list available to other reputable 
         organizations from time to time. You may opt out of this process by going 
-        to <a href="https://www.americanblinds.com/register/default.asp">our registration section</a>. 
-      </p>
-      <p>In the event of a merger or acquisition, your information may be transferred 
+        to our registration section. 
+      </font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">In the event of a merger or acquisition, your information may be transferred 
         to the successor entity.<br>
-      </p>
-      <p></p>
-      <p><b>Cookies</b><br>
+
+      </font></p>
+<font size="2" face="arial, helvetica">      </font><p></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica"><b>Cookies</b><br>
         Cookies are a technology that can be used to provide you with tailored 
         information from a Web site. A cookie is an element of data that a Web 
         site can send to your browser, which may then store it on your system. 
         You can set your browser to notify you when you receive a cookie, giving 
         you the chance to decide whether to accept it.<br>
-        Our site makes use of cookies. Cookies are used for the following purposes:</p>
-      <p>Site administration<br>
+        Our site makes use of cookies. Cookies are used for the following purposes:</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">Site administration<br>
         Contacting users<br>
+
         Completing the user's current activity<br>
         User targeting<br>
         Pseudonymous analysis<br>
         Pseudonym-based decision-making<br>
         Research and development <br>
-      </p>
-      <p><a name="security"><b>Security Practices</b></a><br>
+      </font></p>
+
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica"><a name="security"><b>Security Practices</b></a><br>
         We have appropriate physical, electronic and procedural security safeguards 
-        in place to protect and secure the information we collect.</p>
-      <p>In addition, our web site uses Secure Sockets Layering (SSL) to encrypt 
+        in place to protect and secure the information we collect.</font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">In addition, our web site uses Secure Sockets Layering (SSL) to encrypt 
         your personal credit information, including your credit card number, before 
         it travels over the Internet. SSL is the industry standard for secure 
         online transactions. By using SSL, we make placing an order online at 
         our web site just as safe as giving your credit card number over the phone<br>
-      </p>
-      <p><b>Safe Shopping Guarantee</b><br>
+      </font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica"><b>Safe Shopping Guarantee</b><br>
         We guarantee that every transaction you make at americanblinds.com 
         will be safe and secure. In the unlikely event that unauthorized charges 
         are made to your card as a result of shopping at americanblinds.com, 
         you'll pay nothing.<br>
+
         <br>
         Under the Fair Credit Billing Act, your bank account cannot hold you liable 
         for more than $50.00 of fraudulent charges. If your bank does hold you 
@@ -578,123 +574,163 @@ s.t()//]]>
         the entire liability, up to the full $50.00. americanblinds.com 
         will cover this liability only if the unauthorized use of your credit 
         card resulted through no fault of your own from purchases made at americanblinds.com 
-        while using our secure server. </p>
-      </font><p><font face="arial, helvetica" size="2">In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. Any material changes to the privacy policy will be posted on the web site and communicated via 
-        e-mail. </font></p>
-						</td>
-					</tr>
-      					</tbody></table><br>
-						
-      						<p class="JumpDescription">&nbsp; </p>
+        while using our secure server. </font></p>
+<font size="2" face="arial, helvetica">      </font><p><font size="2" face="arial, helvetica">In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. Any material changes to the privacy policy will be posted on the web site and communicated via 
+        e-mail. </font>                                </p>                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
 
-					</td>
-            	</tr>
-			</tbody></table>
-		  </td><td width="1" background="/images/bg_border_gray.jpg"><img src="/images/spacer.gif" width="1" height="1"></td>
-		</tr>
-      	<tr>
-        	<td height="1" colspan="3" background="/images/bg_border_gray.jpg"><img src="/images/spacer.gif" width="825" height="1" hspace="0" vspace="0" border="0"></td>
-    	</tr>
-	</tbody></table>
-	<table width="825" border="0" cellspacing="0" cellpadding="0">
-  		<tbody><tr>
-    		<td><div align="center"><link href="/css/abwmstyles_btmNav.css" rel="stylesheet" type="text/css">
+              <td background="/images/infopages/bg_border_gray.jpg" width="1">
+                <img src="/images/infopages/spacer.gif" height="1" width="1" alt="#########">
+              </td>
+            </tr>
+            <tr background="/images/infopages/bg_border_gray.jpg">
+              <td colspan="3" background="/images/infopages/bg_border_gray.jpg" height="1">
+                <img src="/images/infopages/spacer.gif" border="0" height="1" hspace="0" vspace="0" width="825" alt="#########">
+              </td>
+            </tr><!--Finish source code RMR-->
 
-<script language="JavaScript">
-<!-- Begin
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=500,left = 262,top = 134');");
-}
-// End -->
-</script>
+          </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+  
+<div style="display:none;">
+<!-- SiteCatalyst code version: H.1.Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="/s_code.js"></script>
+<div class="mboxDefault"></div>
+<!-- MBOX: omniture start -->
+<script language="JavaScript1.2">mboxCreate("omniture");</script>
+<!-- MBOX: omniture end --> 
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s.pageName=document.title;
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="https://blindsmaincom.122.2O7.net/b/ss/blindsmaincom/1/H.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. --></div>
+</div>
+                    <!-- end: content block -->
+                  </td>
+                  <td valign="top" align="center" id="right_nav">
+				    <!-- begin: right_col_07 -->
+<!-- end: right_col_07 -->
 
-<script language="JavaScript">
-<!-- Begin
-function popUp2(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=620,height=500,left = 262,top = 134');");
-}
-// End -->
-</script>
-
-<br>
-
-<div id="newbottomnav_live">
-
+                  </td>
+                </tr></tbody></table>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" style="width: 660px;">
+                  <!--footer-->
+	<!-- begin: footer -->
+	<br>
 <table width="825" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td><img src="/images/nav/footerbar_825_hp.gif" alt="Design your look... Love our price" width="825" height="26"></td>
+    <td><img src="http://cache.americanblinds.com/images/nav/footerbar_825_hp.gif" alt="Design your look... Love our price" width="825" height="26"></td>
+
   </tr>
 </tbody></table>
+
 <table width="825" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <!-- <td><img src="/images/spacer.gif" alt="main" width="2" height="20" hspace="0" vspace="0" border="0" /></td> -->
     <td>
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" class="myborders">
-      <tbody><tr>
-        <td valign="top" class="btmNavBG"><table width="100%" border="0" cellspacing="0" cellpadding="3" class="myRTborders">
-          <tbody><tr>
-            <td bgcolor="#b4c6dd" class="btmNavHeaders">&nbsp;&nbsp;&nbsp;Shop for Blinds &amp; Shades </td>
-          </tr>
+      <!-- begin: footer_links_07 -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="myborders">
+    <tbody><tr>
+      <td valign="top" class="btmNavBG"><table width="100%" border="0" cellspacing="0" cellpadding="3" class="myRTborders">
+        <tbody><tr>
+          <td bgcolor="#b4c6dd" class="btmNavHeaders">&nbsp;&nbsp;&nbsp;Shop for Blinds &amp; Shades </td>
+
+        </tr>
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="10">
               <tbody><tr>
-                <td valign="top" class="btmnavLinks"><a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=4&amp;blindname=Cellular Shades" class="btmnavLinks">Cellular Shades</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=194&amp;blindname=Cornices" class="btmnavLinks">Cornices</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=183&amp;blindname=Faux  Wood Blinds" class="btmnavLinks">Faux Wood Blinds</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=1&amp;blindname=Mini Blinds" class="btmnavLinks">Mini Blinds</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=3&amp;blindname=Pleated Shades" class="btmnavLinks">Pleated Shades</a><br>
-				  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=5&amp;blindname=Roller Shades" class="btmnavLinks">Roller Shades</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=9&amp;blindname=Roman Shades" class="btmnavLinks">Roman Shades</a><br>
-					&nbsp; </td>
-                        <td valign="top" class="btmnavLinks"> <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=6&amp;blindname=Sheer Vertical Blinds" class="btmnavLinks">Sheer 
-                          Vertical Blinds</a> <br>
-				  <a href="http://www1.americanblinds.com/sunburst/sbInterior.aspx?ui=107375134&amp;lg=0&amp;cmad=" class="btmnavLinks">Shutters (Interior)</a> <br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=2&amp;blindname=Vertical Blinds" class="btmnavLinks">Vertical Blinds</a><br>
-				  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=8&amp;blindname=Window Shadings" class="btmnavLinks">Window Shadings</a><br>
-                  <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=7&amp;blindname=Wood Blinds" class="btmnavLinks">Wood Blinds</a><br>
-                          <a href="http://www1.americanblinds.com/BlindCategoryProduct.aspx?ui=107375134&amp;lg=0&amp;cmad=&amp;blindid=11&amp;blindname=Woven Woods" class="btmnavLinks">Woven 
-                          Woods</a><br>
-                          <br>
-                          <br>
-                          <br>
-                          <br>
-                        </td>
+                <td valign="top" class="btmnavLinks">
+                  <a href="http://www1.americanblinds.com/blinds/cellular_shades/11" class="btmnavLinks">Cellular Shades</a><br>
+                  <a href="http://www1.americanblinds.com/blinds/faux_wood_blinds/5" class="btmnavLinks">Faux Wood Blinds</a><br>
+                  <a href="http://www1.americanblinds.com/blinds/mini_blinds/28" class="btmnavLinks">Mini Blinds</a><br>
+                  <a href="http://www1.americanblinds.com/blinds/pleated_shades/16" class="btmnavLinks">Pleated Shades</a><br>
+				  <a href="http://www1.americanblinds.com/blinds/roller_and_solar_shades/17" class="btmnavLinks">Roller Shades</a><br>
+                  <a href="http://www1.americanblinds.com/blinds/roman_shades/18" class="btmnavLinks">Roman Shades</a><br>
+					&nbsp; 
+				</td>
+                <td valign="top" class="btmnavLinks"> 
+				  <a href="http://www1.americanblinds.com/blinds/sheer_vertical_blinds/51" class="btmnavLinks">Sheer Vertical Blinds</a> <br>
+				  <a href="http://www1.americanblinds.com/blinds/interior_shutters /22" class="btmnavLinks">Shutters (Interior)</a> <br>
+                  <a href="http://www1.americanblinds.com/blinds/vertical_blinds/14" class="btmnavLinks">Vertical Blinds</a><br>
+				  <a href="http://www1.americanblinds.com/blinds/window_shadings/46" class="btmnavLinks">Window Shadings</a><br>
+                  <a href="http://www1.americanblinds.com/blinds/wood_blinds/10" class="btmnavLinks">Wood Blinds</a><br>
+                  <a href="http://www1.americanblinds.com/blinds/woven_wood_shades/47" class="btmnavLinks">Woven Woods</a><br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                </td>
               </tr>
             </tbody></table></td>
           </tr>
         </tbody></table></td>
         <td valign="top" class="btmNavBG"><table width="100%" border="0" cellspacing="0" cellpadding="3" class="myRTborders">
+
           <tbody><tr>
             <td bgcolor="#b4c6dd" class="btmNavHeaders">&nbsp;&nbsp;&nbsp;Shop for Wallpaper </td>
           </tr>
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="10">
-                <tbody><tr>
-                  <td valign="top" class="btmnavLinks"><a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294943419&amp;Ne=94&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Bath" class="btmnavLinks">Bath</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294961523&amp;Ne=94&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Boys" class="btmnavLinks">Boys</a> <br>
-                    <a href="http://www.americanblinds.com/colors/colors_advanced.asp?sterm=NV&amp;sval=Color%20Search" class="btmnavLinks">Color Search</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294963532&amp;Ne=94&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Country" class="btmnavLinks">Country</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;results=1&amp;N=4294967258&amp;Ntk=search_book&amp;Ntt=eco friendly&amp;Nty=1&amp;Ntx=mode+matchallpartial&amp;Ns=p_bookName|0&amp;results=1&amp;sterm=NV&amp;sval=Eco%20Friendly" class="btmnavLinks">Eco Friendly</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294962485&amp;Ne=94&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Girls" class="btmnavLinks">Girls</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;N=4294967258&amp;Ntk=search_book&amp;Ntt=on sale&amp;Nty=1&amp;Ntx=mode+matchallpartial&amp;Ns=p_bookName|0&amp;results=1&amp;sterm=NV&amp;sval=Great%20Buy" class="btmnavLinks">Great Buys</a><br>
-					&nbsp;</td>
-                  <td valign="top" class="btmnavLinks"><a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;results=1&amp;N=4294967258&amp;Ntk=search_book&amp;Ntt=kitchen&amp;Nty=1&amp;Ntx=mode+matchallpartial&amp;Ns=p_bookName|0&amp;results=1&amp;sterm=NV&amp;sval=Kitchen" class="btmnavLinks">Kitchen</a> <br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;results=1&amp;N=4294967258&amp;Ntk=search_book&amp;Ntt=Mural&amp;Nty=1&amp;Ntx=mode+matchallpartial&amp;Ns=p_bookName|0&amp;results=1&amp;sterm=NV&amp;sval=Murals" class="btmnavLinks">Murals</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294966377&amp;Ne=94&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Textures" class="btmnavLinks">Textures</a> <br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;results=1&amp;N=4294967258&amp;Ntk=search_book&amp;Ntt=top sellers&amp;Nty=1&amp;Ntx=mode+matchallpartial&amp;Ns=p_bookName|0&amp;results=1&amp;sterm=NV&amp;sval=Top%20Sellers" class="btmnavLinks">Top Sellers</a><br>
-                    <a href="http://www.americanblinds.com/products/wallpaper/index.asp?P=WP&amp;active=1&amp;results=1&amp;N=4294967258+4294965533&amp;Ne=94&amp;home=tab1&amp;Ns=p_bookName|0&amp;Ntk=search_book&amp;sterm=NV&amp;sval=Traditional" class="btmnavLinks">Traditional</a> <br>
-                          <a href="http://www.americanblinds.com/wallpapertrends.asp?sterm=NV&amp;sval=Wallpaper%20Trends" class="btmnavLinks">Wallpaper 
-                          Trends</a> <br>
-                          <a href="http://www.americanblinds.com/products/mural/mural_jump.asp?cm_re=BottomNavHP-_-WALLPAPER-_-CUSTOMMURALS" class="btmnavLinks">Design Your Own Wallpaper</a>
-                          <br>
-                          <br>
-                          <br>
-                        </td>
-                </tr>
+              <tbody><tr>
+                <td valign="top" class="btmnavLinks">
+				  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=BATH&amp;cid=bathroom.html" class="btmnavLinks">Bath</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=BOYS+ROOMS&amp;cid=boys.html" class="btmnavLinks">Boys</a> <br>
+                  <a href="http://www.americanblinds.com/wallpaper/" class="btmnavLinks">Color Search</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=COUNTRY&amp;cid=country.html" class="btmnavLinks">Country</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=ECOLOGICALLY+FRIENDLY&amp;cid=eco_friendly.html" class="btmnavLinks">Eco Friendly</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=GIRLS+ROOMS&amp;cid=girls.html" class="btmnavLinks">Girls</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=ON+SALE&amp;cid=discount.html" class="btmnavLinks">Great Buys</a><br>
+		        </td>
+                <td valign="top" class="btmnavLinks">
+				  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=KITCHEN&amp;cid=kitchen.html" class="btmnavLinks">Kitchen</a> <br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=MURALS&amp;cid=murals.html" class="btmnavLinks">Murals</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=TEXTURED&amp;cid=textured.html" class="btmnavLinks">Textures</a> <br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=TOP+SELLERS&amp;cid=popular.html" class="btmnavLinks">Top Sellers</a><br>
+                  <a href="http://www.americanblinds.com/wallpaper/booksearch/?theme=TRADITIONAL&amp;cid=traditional.html" class="btmnavLinks">Traditional</a> <br>
+                  <a href="http://www1.americanblinds.com/control/infopage?page=wallpapertrends.html&amp;master=resourcecenter" class="btmnavLinks">Wallpaper Trends</a> <br>
+                  <!--a href="http://www.americanblinds.com/products/mural/mural_jump.asp?ui=104359706&lg=0&cust=n" class="btmnavLinks">Design Your Own Wallpaper</a--><br>
+                  <br>
+                  <br>
+                  <br>
+                </td>
+              </tr>
+
             </tbody></table></td>
           </tr>
         </tbody></table></td>
@@ -703,23 +739,25 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
             <td bgcolor="#b4c6dd" class="btmNavHeaders">&nbsp;&nbsp;&nbsp;Resource Center  </td>
           </tr>
           <tr>
+
             <td><table width="100%" border="0" cellspacing="0" cellpadding="10">
-                <tbody><tr>
-                  <td valign="top" class="btmnavLinks"><a href="http://www.americanblinds.com/measure/default.asp" class="btmnavLinks">How to Measure Blinds </a><br>
-                          <a href="http://www.americanblinds.com/installation/default.asp" class="btmnavLinks">How 
-                          to Install Blinds</a><br>
-                    <a href="http://www.americanblinds.com/resourcecenter/videosandguides.asp" class="btmnavLinks">Do it Yourself Videos</a><br>
-                    <a href="http://www.americanblinds.com/resourcecenter/decoratingtips.asp" class="btmnavLinks">Decorating Tips</a><br>
-                    <a href="http://www.americanblinds.com/resourcecenter/testimonials.asp" class="btmnavLinks">Customer Testimonials</a><br>
-                    <a href="http://www.americanblinds.com/resourcecenter/art_main.asp" class="btmnavLinks">Featured Articles</a><br>
-                          <a href="http://www.americanblinds.com/resourcecenter/installerservices.asp" class="btmnavLinks">Professional 
-                          Installation</a><br>
-                          <br>
-                          <br>
-                        </td>
-                  </tr>
-            </tbody></table></td>
+            <tbody><tr>
+              <td valign="top" class="btmnavLinks">
+			    <a href="http://www1.americanblinds.com/control/infopage?page=measure_default.html&amp;master=resourcecenter" class="btmnavLinks">How to Measure Blinds </a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=installation_default.html&amp;master=resourcecenter" class="btmnavLinks">How to Install Blinds</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=videosandguides.html&amp;master=resourcecenter" class="btmnavLinks">Do it Yourself Videos</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=decoratingtips.html&amp;master=resourcecenter" class="btmnavLinks">Decorating Tips</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=testimonials.html&amp;master=resourcecenter" class="btmnavLinks">Customer Testimonials</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=art_main.html&amp;master=resourcecenter" class="btmnavLinks">Featured Articles</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=installer_services.html&amp;master=resourcecenter" class="btmnavLinks">Professional Installation</a><br>
+                <br>
+                <br>
+                <br>
+              </td>
+            </tr>
+          </tbody></table></td>
           </tr>
+
         </tbody></table></td>
         <td valign="top" class="btmNavBG"><table width="100%" border="0" cellspacing="0" cellpadding="3">
           <tbody><tr>
@@ -727,68 +765,213 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
           </tr>
           <tr>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="10">
-                <tbody><tr>
-                  <td valign="top" class="btmnavLinks"><a href="http://www.americanblinds.com/commercialquote/default.asp" class="btmnavLinks">Commercial Quotes</a><br>
-                    <a href="http://www.americanblinds.com/sampleswatches/default.asp" class="btmnavLinks">Free Samples</a><br>
-                    <a href="https://www.americanblinds.com/offers/gift_card/order_form.asp" class="btmnavLinks">Gift Cards</a><br>
-                    <a href="http://www.americanblinds.com/offers/showrooms_SAH/default.asp" class="btmnavLinks">Michigan Design Center</a><br>
-                    <a href="https://www.americanblinds.com/local_SAH/local_sah_form.asp" class="btmnavLinks">Michigan Shop at Home</a><br>
-                    <a href="http://www.americanblinds.com/onlinecatalog.asp" class="btmnavLinks">Online Catalog</a><br>
-                    <a href="http://www.americanblinds.com/resourcecenter/help/payment.asp" class="btmnavLinks">Payment Options</a><br>
-                          <a href="https://www.americanblinds.com/register/email_reg.asp?omEreg=GPB" class="btmnavLinks">Exclusive 
-                          Email Specials</a><br>
-                          <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=2" class="btmNavBlue"><b>Email 
-                          Sales Support</b></a><br>
-                          <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=1" class="btmNavBlue"><b> 
-                          Email Customer Service</b></a><br>
-                        </td>
-                </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-	
-	
+              <tbody><tr>
+                <td valign="top" class="btmnavLinks">
+				<a href="http://www1.americanblinds.com/control/infopage?page=commercial_quote.html&amp;master=resourcecenter" class="btmnavLinks">Commercial Quotes</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=sampleswatches.html&amp;master=resourcecenter" class="btmnavLinks">Free Samples</a><br>
+                <!--ai<a href="https://www.americanblinds.com/offers/gift_card/order_form.asp?ui=104359706&lg=0&cust=n" class="btmnavLinks">Gift Cards</a><br />
+           		a href="http://www.americanblinds.com/offers/showrooms_SAH/default.asp?ui=104359706&lg=0&cust=n" class="btmnavLinks">Michigan Design Center</a><br />
+                <a href="https://www.americanblinds.com/local_SAH/local_sah_form.asp?ui=104359706&lg=0&cust=n" class="btmnavLinks">Michigan Shop at Home</a><br />
+                <a href="http://www.americanblinds.com/onlinecatalog.asp?ui=104359706&lg=0&cust=n" class="btmnavLinks">Online Catalog</a><br /-->
+                <a href="http://www1.americanblinds.com/control/infopage?page=payment.html&amp;master=resourcecenter" class="btmnavLinks">Payment Options</a><br>
+                <a href="http://www1.americanblinds.com/control/infopage?page=subscribe.html" class="btmnavLinks">Exclusive Email Specials</a><br>
+                    
+				<span class="btmnavLinks">
+				<a href="http://www1.americanblinds.com/control/infopage?page=email_request_sales.html&amp;master=resourcecenter" class="btmNavBlue"><b>Email Sales Support</b></a>
+				</span> 
+				<br>
+                <span class="btmnavLinks">
+				<a href="http://www1.americanblinds.com/control/infopage?page=email_request_cs.html&amp;master=resourcecenter" class="btmNavBlue"><b>Email Customer Service</b></a>
+				</span> 
+				</td>
+              </tr>
+            </tbody></table>
+		  </td>
+
+        </tr>
+      </tbody></table></td>
+    </tr>
+</tbody></table>
+<!-- Begin: 4q.iperceptions.com --><!--script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=a554f266-4570-3b15e3b2-c501-4477-b903-ef22aa0786c3&lID=1&loc=4Q-WEB2" type="text/javascript" defer="defer" ></script--><!-- End: 4q.iperceptions.com -->
+<!-- end: footer_links_07 -->
+
 	</td>
-   <!-- <td><img src="/images/spacer.gif" alt="main" width="2" height="20" hspace="0" vspace="0" border="0" /></td> -->
   </tr>
 </tbody></table>
- <table width="825" border="0" cellspacing="0" cellpadding="0">
+<table width="825" border="0" cellspacing="0" cellpadding="0">
+	<!-- begin: footer_badges_07 -->
    <tbody><tr>
-      <td align="center" valign="middle" height="67">
-        
-        <script src="https://seal.verisign.com/getseal?host_name=www.americanblinds.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+     <td align="left" valign="middle" colspan="2">
+<script>
+function popUp2(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=480,left = 277,top = 100');");
+}
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=500,left = 262,top = 134');");
+}
+function popUp3(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=800,height=741,left = 150,top = 84');");
+}
+function checkEmail(f){
+     if (f.email.value.length == 0){
+         f.email.value='e-mail address';
+     } 
+     f.submit();
+}
+
+</script>
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td align="right" nowrap="">
+			<table border="0" cellspacing="0" cellpadding="2">
+				<tbody><tr>
+				
+<!-- PROGRAMMER NOTE - DISPLAY THIS CELL ONLY IF THE CUSTOMER IS LOGGED IN - NO DATE AND TIME - JUST THE NAME -->
+					<td valign="middle" class="emailsignup"> </td>
+					<td valign="middle" class="emailsignup"> </td>
+
+					<td valign="middle" class="emailsignup">&nbsp;&nbsp;&nbsp;<img src="http://cache.americanblinds.com/images/infopages/envelope.gif" alt="email" width="20" height="16" hspace="0" vspace="0" border="0"></td>
+					<td valign="middle" class="emailsignup">&nbsp;&nbsp;Sign Up Now For EXCLUSIVE Offers!</td>
+<form id="fEmail" class="g_form" name="fEmail" method="post" action="/control/infopage?page=subscribe.html"></form>
+					<td valign="middle" class="emailsignup">
+					<input name="email" type="text" class="emailsignup2" value="e-mail address" size="22" maxlength="40" onfocus="document.fEmail.email.select();"></td>
+					<td valign="middle" class="emailsignup">
+				<!-- PROGRAMMER NOTE - CAPTURE THE EMAIL ADDRESS FOR THE DATABASE.  TAKE THE USER TO THE http://www.americanblinds.com/register/email_reg.asp PAGE.  POPULATE THE EMAIL FIELD ON THAT PAGE. -->
+						<table border="0" cellpadding="0" cellspacing="0" style="background-color:#336699; color:#ffffff">
+							<tbody><tr>
+
+								<td width="2"><img src="http://cache.americanblinds.com/images/nav/corners_topbar_left2.gif" width="2" height="18" hspace="0" vspace="0" border="0" alt=""></td>
+								<td align="center" valign="middle">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td nowrap="">&nbsp;<a href="#email" class="signup" onclick="javascript:checkEmail(document.fEmail); return false;"><font color="#ffffff">Sign Up</font></a><font color="#ffffff">&nbsp;</font></td>
+										</tr>
+									</tbody></table>
+								</td>
+
+								<td width="2"><img src="http://cache.americanblinds.com/images/nav/corners_topbar_right2.gif" width="2" height="18" hspace="0" vspace="0" border="0" alt=""></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+     
      </td>
-      <td align="center" valign="middle" height="67"><a href="https://www1.americanblinds.com/contest/sweepstakes/default.aspx?ui=107375134&amp;lg=0&amp;cmad="></a><a href="http://www.americanblinds.com/resourcecenter/help/payment.asp"><img src="/images/nav/footer_paymentoptions.gif" alt="We are proud to accept these payment options" width="335" height="30" hspace="0" vspace="0" border="0"></a><a href="javascript:popUp2('http://www.americanblinds.com/bml/default.asp')"><img src="/images/nav/footer_bmlLogo.gif" alt="BillMeLater" width="126" height="30" hspace="0" vspace="0" border="0"></a></td>
-      <td align="center" valign="middle" height="67"><a href="http://www.americanblinds.com/resourcecenter/installerservices.asp"><img src="/images/nav/footer_installersBTN.gif" alt="Find a Professional Installer" width="122" height="44" hspace="0" vspace="0" border="0"></a></td>
+     
+     <td align="center" valign="middle"><a href="http://www1.americanblinds.com/control/infopage?page=installer_services.html&amp;master=resourcecenter"><img src="http://cache.americanblinds.com/images/infopages/footer_installersBTN.gif" alt="Find a Professional Installer" width="122" height="44" hspace="0" vspace="0" border="0"></a></td>
+   </tr>
+
+   <tr>
+     <td align="center" valign="middle"><img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
+     
+    <td align="center" valign="middle"><a href="http://www1.americanblinds.com/control/infopage?page=payment.html&amp;master=resourcecenter"><img src="http://cache.americanblinds.com/images/infopages/footer_paymentoptions.gif" alt="We are proud to accept these payment options" width="271" height="30" hspace="0" vspace="0" border="0"></a><table border="0" cellpadding="0" cellspacing="0" width="350">
+          <tbody><tr>
+             <td align="center" valign="middle">
+                      <script src="https://seal.verisign.com/getseal?host_name=www1.americanblinds.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>             </td>
+             <td align="center" valign="middle"><a href="javascript:popUp('http://www.bbbonline.org/cks.asp?id=105101816741')"><img src="http://cache.americanblinds.com/images/infopages/footer_bbbonline_horiz.gif" alt="BBB Accredited Business" width="88" height="31" hspace="0" vspace="0" border="0"></a></td>
+            <td height="35" align="center" valign="middle"> <a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.americanblinds.com">
+            <img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.americanblinds.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>            </td>
+          </tr>
+        </tbody></table></td>
+     <td align="center" valign="middle"><img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
    </tr>
    
    <tr>
-     <td align="center" valign="middle"><a href="javascript:popUp('http://www.bbbonline.org/cks.asp?id=105101816741')"><img src="/images/nav/footer_bbbonline_horiz.gif" alt="BBB Accredited Business" width="88" height="31" hspace="0" vspace="0" border="0"></a></td>
-      <td align="center" valign="middle"><span class="btmnavLinks">Copyright American 
-        Blind and Wallpaper Factory, Inc. ©2009<br>
-      American Blind and Wallpaper Factory brings you DecorateToday.com</span><br>
-        <span class="btmnavLinks">*Prices on website already reflect discount.<br>
-        **Multiple discount codes cannot be combined. Discounts cannot be applied 
-        to prior orders. †<a href="http://www.americanblinds.com/resourcecenter/help/disclaimer.asp">Click 
-        for details.</a></span></td>
-     <td align="center" valign="middle"><img src="/images/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
+     <td align="center" valign="middle"><img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
+      <td align="center" valign="middle"><span class="btmnavLinks"><br>Copyright American 
+        Blinds and Wallpaper And More ©2010<br>
+      **Multiple discount codes cannot be combined. Discounts cannot be applied 
+      to prior orders. <a href="http://www1.americanblinds.com/control/infopage?page=disclaimers.html&amp;master=resourcecenter">Click for details.</a></span></td>
+     <td align="center" valign="middle"><img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
    </tr>
    <tr>
-     <td colspan="3" align="center"><span class="btmnavLinks"><a href="http://www.americanblinds.com/customer/default.asp" class="btmnavLinks">Contact Us</a> &nbsp;|&nbsp; <a href="https://www.americanblinds.com/customer/email_request.asp?msgid=5&amp;cm_re=BottomNavHP-_-Bottom-_-ContactTheCEO" class="btmnavLinks">Contact The CEO</a> &nbsp;|&nbsp; <a href="http://www.americanblinds.com/resourcecenter/help/security.asp" class="btmnavLinks">Privacy &amp; Security</a> &nbsp;|&nbsp;    <a href="http://www.americanblinds.com/resourcecenter/help/legal.asp" class="btmnavLinks">Legal Notices</a> &nbsp;|&nbsp;    <a href="http://www.americanblinds.com/resourcecenter/help/disclaimer.asp" class="btmnavLinks">Disclaimers</a> &nbsp;|&nbsp; <a href="http://www.americanblinds.com/affiliates/default.asp" class="btmnavLinks">Affiliate Program</a> &nbsp;|&nbsp;   <a href="http://www.americanblinds.com/customer/sitemap.asp" class="btmnavLinks">Site Map</a></span></td>
-   </tr>
- </tbody></table>
- </div>
- 
- 
 
-<!-- webserver = Webserver7-->
-</div></td>
-  		</tr>
-	</tbody></table></td>
-</tr>
-</tbody></table>
+     <td colspan="3" align="center"><span class="btmnavLinks"><a href="http://www1.americanblinds.com/control/infopage?page=customer.html&amp;master=resourcecenter" class="btmnavLinks">Contact Us</a> <!--&nbsp;|&nbsp; <a href="http://www1.americanblinds.com/control/infopage?page=email_request_ceo.html&master=resourcecenter" class="btmnavLinks">Contact The CEO</a--> &nbsp;|&nbsp; <a href="http://www1.americanblinds.com/control/infopage?page=security.html&amp;master=resourcecenter" class="btmnavLinks">Privacy &amp; Security</a> &nbsp;|&nbsp;    <a href="http://www1.americanblinds.com/control/infopage?page=legal.html&amp;master=resourcecenter" class="btmnavLinks">Legal Notices</a> &nbsp;|&nbsp;    <a href="http://www1.americanblinds.com/control/infopage?page=disclaimers.html&amp;master=resourcecenter" class="btmnavLinks">Disclaimers</a> &nbsp;|&nbsp; <a href="http://www1.americanblinds.com/control/infopage?page=affiliates_default.html&amp;master=resourcecenter" class="btmnavLinks">Affiliate Program</a> &nbsp;|&nbsp;   <a href="http://www1.americanblinds.com/control/infopage?page=sitemap.html&amp;master=resourcecenter" class="btmnavLinks">Site Map</a></span></td>
+
+   </tr>
+   <tr>
+     <td align="center" valign="middle"><img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
+     <td align="center" valign="middle">
+        
+     </td>
+     <td align="center" valign="middle"><img src="http://cache.americanblinds.com/images/infopages/spacer.gif" width="90" height="41" hspace="0" vspace="0" border="0"></td>
+   </tr>
+<!-- end:footer_badges_07 -->
+</tbody></table>   
+
+   
+
+<!-- set up tooltips -->
+<script type="text/javascript">
+var iteration = 0;
+var loopLimit = 1;
+
+function cluetipize(e_class) {
+JQ(e_class).cluetip({
+  cluetipClass: 'jtip', 
+  arrows: true, 
+  dropShadow: false,
+  hoverIntent: true,
+  sticky: false,
+  mouseOutClose: true,
+  closePosition: 'title',
+  width: '350',
+  closeText: '<img src="http://cache.americanblinds.com/skin07/cluetip/cross.png" alt="close" />'
+});
+}
+
+function make_tooltips() {
+//this creates the dictionary popovers
+	cluetipize('a.help');
+	//if (ie_curse == 1) JQ('#cluetip').bgiframe();
+}
+
+function input_highlighting() {
+        JQ("input").focusFields('transparent','0','lightyellow','black');
+}
+
+JQ(document).ready(function() { 
+	make_tooltips(); 
+	//input_highlighting(); /* highlights input.input_focus class elements on focus */
+});
+
+</script>
+
+
+<script type="text/javascript">
+// Google Analytics -ai
+//http://www.google.com/support/googleanalytics/bin/answer.py?hl=en&answer=55524
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15735360-1");
+pageTracker._setDomainName(".americanblinds.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+<!-- end: footer -->
+              </td>
+            </tr>
+        </tbody></table>
+
+
+	<!-- begin: CTA table -->
+			<!-- end: CTA table -->
+
 
 
 </body></html>
