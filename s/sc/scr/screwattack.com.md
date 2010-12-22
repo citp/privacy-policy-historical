@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419071010id_/http%3A//screwattack.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222170816id_/http%3A//screwattack.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ScrewAttack - Games. Community. Videos. Fun.
+# Privacy Policy | ScrewAttack - It's Old School Week!
 
 **We are committed to protecting your privacy**  
 We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
