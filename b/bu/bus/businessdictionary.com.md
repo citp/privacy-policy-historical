@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610091609id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222022036id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Copyright
 
@@ -10,6 +10,10 @@ We collect no information about our users that is not supplied voluntarily throu
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 All of our newsletters are opt-in, meaning that they are sent only to those who have specifically requested to receive them. Unsubscribe instructions are included at the bottom of each issue. Some newsletter issues include advertising, clearly identified as such. By signing up to receive our email newsletters, you also agree to receive occasional email announcements and special offers from our partners. However, no information gathered from newsletter subscribers, including email addresses, is ever shared with or sold to any third party, unless expressly requested by the user.
+
+**Information collected by third-parties**
+
+We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
 **Disclaimer**
 
@@ -25,4 +29,4 @@ We are very pleased to have partnered with Vijay Luthra to bring you this dictio
 
 Copyright©2007-2010 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
 
-Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20100610091609id_/contact.php).
+Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20101222022036id_/contact.php).
