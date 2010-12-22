@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419123902id_/http%3A//www.mixmatters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222033906id_/http%3A//mixmatters.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -43,13 +43,10 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 ](http://www.maxbounty.com/privacy.cfm)
   * [quantcast.com](http://www.quantcast.com/privacy.jsp)[  
 ](https://direct.rightmedia.com/)
-  * [direct.rightmedia.com  
-](http://www.rightmedia.com/content/company/privacy-policy/6,604.php)
   * [tribalfusion.com  
 ](http://www.tribalfusion.com/TribalFusion/privacy.html)
-  * [vizidirect.com  
-](http://www.vizidirect.com/privacy.html)
-  * [jambovideonetwork.com](http://www.vizidirect.com/privacy.html)
+  * [advertising.com  
+](http://advertising.aol.com/privacy)
 
 
 
@@ -63,4 +60,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
 
-[Back](https://web.archive.org/web/20100419123902id_/http%3A//www.mixmatters.com/index.html)
+[Back](https://web.archive.org/web/20101222033906id_/http%3A//mixmatters.com/index.html)
