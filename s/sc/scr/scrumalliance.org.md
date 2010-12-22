@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207200332id_/http%3A//www.scrumalliance.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222194310id_/http%3A//www.scrumalliance.org/privacy_policy) for the most accurate reproduction.*
 
-# Scrum Alliance -Privacy Policy
+# Scrum Alliance - Privacy Policy
 
 ## **Scrum Privacy Statement**
 
@@ -10,15 +10,15 @@ Protecting the individual's privacy on the Internet is crucial to the future of 
 
 If you want to use the Scrum Alliance Certification & Assessment Program, you will be asked for your consent to the collection and use of the information as described here.
 
-#### **Non-Disclosure of Exam Data**
+#### **Non-Disclosure of Evaluation Data**
 
-All Scrum Alliance certification exams, including the content and wording of exam questions, constitute confidential Scrum Alliance information that is protected by trade secret law. Anyone obtaining access to Scrum exams is obligated to maintain the confidentiality of this information.
+All Scrum Alliance certification evaluations , including the content and wording of evaluation questions, constitute confidential Scrum Alliance information that is protected by trade secret law. Anyone obtaining access to Scrum evaluations is obligated to maintain the confidentiality of this information.
 
-If an individual is caught violating this Non-Disclosure Agreement that all examinees must agree to before beginning any Scrum exam, the candidate will be permanently ineligible for any Scrum Alliance certification.
+If an individual is caught violating this Non-Disclosure Agreement that all examinees must agree to before beginning any Scrum Alliance evaluation, the candidate will be permanently ineligible for any Scrum Alliance certification.
 
-By complying with and enforcing this obligation, you help maintain the integrity of the Scrum program and the value of your certification. Please do your part by discouraging the sharing of exam questions and making others aware of this policy. We appreciate your cooperation.
+By complying with and enforcing this obligation, you help maintain the integrity of the Scrum program and the value of your certification. Please do your part by discouraging the sharing of evaluation questions and making others aware of this policy. We appreciate your cooperation.
 
-This exam is Scrum Alliance confidential and is protected by trade secret law. It is made available to you, the examinee, solely for the purpose of becoming certified in the technical area referenced in the title of this exam. You are expressly prohibited from disclosing, publishing, reproducing, or transmitting this exam, in whole or in part, in any form or by any means, verbal or written, electronic or mechanical, for any purpose, without the prior express written permission of Scrum Alliance. 
+This evaluation is Scrum Alliance confidential and is protected by trade secret law. It is made available to you, the examinee, solely for the purpose of becoming certified in the technical area referenced in the title of this evaluation. You are expressly prohibited from disclosing, publishing, reproducing, or transmitting this evaluation, in whole or in part, in any form or by any means, verbal or written, electronic or mechanical, for any purpose, without the prior express written permission of Scrum Alliance. 
 
 #### **Use and Purpose of Collected Personal Data**
 
