@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claimid.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113031653id_/http%3A//claimid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claimid.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222170429id_/http%3A//claimid.com/privacy) for the most accurate reproduction.*
 
 # claimID.com/privacy - Manage your online identity
 
