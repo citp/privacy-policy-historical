@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085036id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222040456id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
 
 # International Academy of Design & Technology - Tampa | Privacy
 
@@ -64,3 +64,5 @@ Tell us more about yourself and specify your campus and program of interest. An 
 ###  Step 2 of 2
 
 *How did you hear about us?
+
+_This information will be used to contact you through various means, which may include phone, text messaging, email, and postal mail, about the programs and services that are offered._
