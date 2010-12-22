@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619091945id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222170439id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - iPhone Applications | AppCraver: The Best Apps for iPhone, iPad and iPod touch
+# Privacy Statement - iPhone Applications AppCraver
 
 For the purposes of this privacy statement, the terms “we”, “us”, “our” and “Appcraver.com” refer to the iPhone Application site AppCraver.com. The terms “You” and “End-User” refer to You as a user of this Site.
 
@@ -22,7 +22,7 @@ Appcraver.com does not create individual profiles with the information You provi
 
 However, Your e-mail message, question, or comment may be forwarded to other Appcraver.com employees, contractors or subcontractors, who may be better able to help You. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations. However, e-mail and on-line forms are not secure against interception and senders cannot expect privacy.
 
-### **Security**
+###  **Security**
 
 Appcraver.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
