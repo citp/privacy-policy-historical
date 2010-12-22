@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the pipedns.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607020537id_/http%3A//pipedns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipedns.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222175211id_/http%3A//pipedns.com/privacy) for the most accurate reproduction.*
 
 # Pipe DNS
 
 ## Privacy Policy
 
-This is the web site of Pipe DNS Limited. (justhost.com)
+This is the web site of Pipe DNS. (pipedns.com)
 
-For legal and privacy issues, our UK address is:  
-Pipe DNS Limited.  
-A2 Segensworth Business Center,  
-Segensworth Road,  
-Fareham, Hampshire,  
-PO15 5RQ
+For legal and privacy issues is:  
+Pipe DNS  
+919 East Jefferson St.  
+Phoenix, AZ 85034  
+USA  
+
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
