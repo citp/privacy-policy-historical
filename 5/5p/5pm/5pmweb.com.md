@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the 5pmweb.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310200413id_/http%3A//www.5pmweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5pmweb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222133109id_/http%3A//www.5pmweb.com/privacy.php) for the most accurate reproduction.*
 
 # 5pm - project management on time. Privacy Policy.
 
-**Last updated: November 7, 2007**
+**Last updated: September 7, 2010**
 
-The www.5pmweb.com, www.qgsoftware.com, www.quatregroup.com and www.theoworlds.com web site(s) are maintained by the Quatre Group LLC. Our address is P.O. Box 18071, Fairfield, Ohio 45018-0071. Our data collection and use policies with respect to the site are set forth in this statement. By using these sites, you signify your acceptance of this policy.
+The www.5pmweb.com and www.theoworlds.com web site(s) are maintained by the Disarea LLC. Our address is P.O. Box 181167, Fairfield, OH 45018, USA. Our data collection and use policies with respect to the site are set forth in this statement. By using these sites, you signify your acceptance of this policy.
 
-Quatre Group LLC is committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our Web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. This policy applies only to users accessing our Web site from the United States.
+Disarea LLC is committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our Web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. This policy applies only to users accessing our Web site from the United States.
 
-As a part of our commitment to your privacy, Quatre Group LLC supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Quatre Group LLC.
+As a part of our commitment to your privacy, Disarea LLC supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Disarea LLC.
 
 #### Collecting Information About You
 
@@ -22,7 +22,7 @@ We use the personally identifiable information you provide for internal purposes
 
 To serve you better, we may combine information you give us online or off-line. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you about our products and events that may be of interest to you.
 
-Although unlikely, in certain instances we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Quatre Group LLC or to others. Quatre Group LLC may also disclose your personally identifiable information when we believe the law requires it.
+Although unlikely, in certain instances we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Disarea LLC or to others. Disarea LLC may also disclose your personally identifiable information when we believe the law requires it.
 
 #### Editing, Updating, Correcting and Deleting Information About You
 
@@ -34,7 +34,7 @@ Please remember, if you delete certain information you may not be able to contin
 
 #### Spam
 
-Quatre Group LLC never sells, rents or shares your email address. We are very concerned about the growth of spam email messages, and we know that you are, too. We believe that spam jeopardizes the right of legitimate companies to conduct business electronically, both now and in the future. The purpose of our email messages is to provide you with ideas or offers that will help you conduct business more successfully. Our emails are designed to be timely, targeted and interesting.
+Disarea LLC never sells, rents or shares your email address. We are very concerned about the growth of spam email messages, and we know that you are, too. We believe that spam jeopardizes the right of legitimate companies to conduct business electronically, both now and in the future. The purpose of our email messages is to provide you with ideas or offers that will help you conduct business more successfully. Our emails are designed to be timely, targeted and interesting.
 
 #### Cookies
 
