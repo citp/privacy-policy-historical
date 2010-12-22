@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125084648id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222164447id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
 
 # AnotherFriend.com - Privacy
 
@@ -72,12 +72,13 @@ If you have any questions about this privacy statement, the practices of our Sit
 
 **13\. Who is WebDev Ltd**
 
-WebDev Ltd is owned and operated by WebDev Limited, 64 O’Connell Street, Limerick, Company Number 333619 
+WebDev Ltd is owned and operated by WebDev Ltd, 47 O'Connell Street, Limerick, Ireland, Company Number 333619 
 
 **14\. Sale of business **  
 We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the Site Privacy Statement and provided that the third party only uses your personal data for the purposes that you provided it to us. You will be notified in the event of any such transfer. You may inform us of any changes in your personal information and data and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your personal data accordingly. To find out what personal data we hold on you or to have your personal data updated, amended or removed from our database, please unsubscribe from the service by logging on to your account and clicking on “permanently unsubscribe” or email your request to permanentlyunsubscribe@webdev.ie as the case may be. 
 
-WebDev Ltd   
-64 O'Connell Street   
+AnotherFriend.com  
+WebDev Ltd  
+47 O'Connell Street  
 Limerick   
 Ireland 
