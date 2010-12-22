@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511052632id_/http%3A//www.platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222015455id_/http%3A//platinumlive.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
 
-# PlatinumLive
+# PlatinumLive - Live Sex Web Cam Video Chat - Free Memberships, XXX Live Sex Girls
 
 Privacy Policy for [www.platinumlive.com](http://www.platinumlive.com/)
 
 Effective Date: January 1st 2005
 
-Last Updated: August 4th 2008
+Last Updated: July 28th 2010
 
 **I. General**
 
