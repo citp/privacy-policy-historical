@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306005029id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222162009id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
 
 # About Us
 
@@ -45,10 +45,14 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 We don’t share visitors e-mail addresses with third parties and we don’t collect postal addresses and we don’t send anything using the mail. We don’t collect phone numbers and don’t call our customers.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/privacy.html  
-http://info.yahoo.com/privacy/us/yahoo/details.html  
-http://privacy2.msn.com/en-my/default.aspx  
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
+http://www.google.com/privacy.html
+
+http://info.yahoo.com/privacy/us/yahoo/details.html
+
+http://privacy2.msn.com/en-my/default.aspx
+
 http://www.facebook.com/policy.php
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
@@ -71,18 +75,18 @@ Hi, my name is Rhen and I help run this site, and take care of the content side 
 
 If you have expertise in dating and would like to write for us, we pay $20 per 750 word+ blog post/article. And this goes up based on performance metrics, such as # of comments, replying to comments, etc. Could go up to $50 per blog post if services are retained for more than 6 months.
 
-We're looking for original, useful content (1x or 2x/week) to the male singles demographic aged 20 to 40.
+We’re looking for original, useful content (1x or 2x/week) to the male singles demographic aged 20 to 40.
 
-Topics could range from today's single scene, your adventures in your single life, sex, and anything that could appeal to the single male demographic. (age 20-45)
+Topics could range from today’s single scene, your adventures in your single life, sex, and anything that could appeal to the single male demographic. (age 20-45)
 
 Expertise in this field is a plus. You are not required to blog exclusively here. But will be required to contribute on a regular basis depending on quality of writing.
 
-Please submit some writing samples to and I'll get back in touch within a couple days time if there is a fit: [rhen@datingadvicesecrets.com](mailto:rhen@datingadvicesecrets.com)  
+Please submit some writing samples to and I’ll get back in touch within a couple days time if there is a fit: [rhen@datingadvicesecrets.com](mailto:rhen@datingadvicesecrets.com)  
 
 
 DATING COMPANIES/EXPERTS/PARTNERS:
 
-If you are a [dating expert](http://www.datingadvicesecrets.com/men/meet-the-dating-experts/) and want to get your name/company out to a very targeted demographic, you're at the right place. With over 150,000 unique singles that visit this site every month you will be talking to the right people, 100% of the time. You will get an nice author bio mentioned at the bottom of each post, that links back to your website, for increased traffic and business (for free).
+If you are a [dating expert](http://www.datingadvicesecrets.com/men/meet-the-dating-experts/) and want to get your name/company out to a very targeted demographic, you’re at the right place. With over 150,000 unique singles that visit this site every month you will be talking to the right people, 100% of the time. You will get an nice author bio mentioned at the bottom of each post, that links back to your website, for increased traffic and business (for free).
 
 I can help syndicate your content to a mass audience here. Please submit inquiries to:[rhen@datingadvicesecrets.com](mailto:rhen@datingadvicesecrets.com)
 
@@ -90,14 +94,10 @@ FOR ANYTHING ELSE:
 
 Suggestions, comments, etc. To contact me, simply use the contact form below.
 
-I'm also reachable by phone at 1-514-667-5568 from 10am - 6pm (Eastern Time)
+I’m also reachable by phone at 1-514-667-5568 from 10am – 6pm (Eastern Time)
 
 And via snail mail (not recommended:)):
 
 803 Pont-Viau  
 Laval, Quebec  
 H8N 2P9, Canada
-
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-Copy the code below to your web site.
