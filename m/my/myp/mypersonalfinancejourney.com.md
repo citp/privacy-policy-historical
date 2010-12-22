@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621023311id_/http%3A//www.mypersonalfinancejourney.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222040411id_/http%3A//www.mypersonalfinancejourney.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# My Money Blog - Personal Finance, Intelligent Investing, and Frugal Living: Privacy Policy
+# Privacy Policy - My Personal Finance Journey - Personal Finance, Intelligent Investing, And Frugal Living Tips
 
 Privacy Policy for <http://www.mypersonalfinancejourney.com/>
 
@@ -25,6 +25,10 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+ _Kontera Double Underlined Ads_
+
+These links are part of a pay per click advertising program called Kontera. Kontera is an In Text advertising service: they take my text and create links within it. If you hover with your mouse over these double underlined links, you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad page which is relevant to the text. [Click here to learn more about Kontera Double Underline Link Ads](http://www.kontera.com/about-us). 
 
 Thanks for visiting our site!
 
