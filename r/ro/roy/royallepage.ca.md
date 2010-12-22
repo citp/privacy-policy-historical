@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531214757id_/http%3A//www.royallepage.ca/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222181010id_/http%3A//www.royallepage.ca/en/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Royal LePage Real Estate Services
 
@@ -186,11 +186,10 @@ Top
 
 If you have any questions, concerns, or complaints about your Personal Information, or about the Royal LePage Privacy Policy, contact our privacy officer using the contact information provided below:
 
-Max M. Cohen  
-General Counsel and Secretary  
-Royal LePage Real Estate Services  
-41 Wynford Drive,  
-Don Mills, Ontario M3C 1K1
-
-Tel.: (416) 380-7551  
-E-mail: [mcohen@cohenlaw.ca](mailto:mcohen@cohenlaw.ca)
+Thomas A. Hogan  
+General Counsel  
+465 South Street, Suite 202  
+Morristown, NJ 07960  
+Tel: (973) 889-6150  
+Bizcom: No. 1-888-228-0715  
+[tom.hogan@brookfieldrps.com](mailto:tom.hogan@brookfieldrps.com) 
