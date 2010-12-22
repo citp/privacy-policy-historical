@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4videosoft.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412054703id_/http%3A//www.4videosoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4videosoft.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222210701id_/http%3A//www.4videosoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of 4Videosoft
 
@@ -7,10 +7,6 @@ Privacy Policy of 4Videosoft
 4Videosoft Studio is committed to protecting your privacy. Your privacy is a priority at 4Videosoft. We go to great lengths to protect it. This Customer Privacy Policy covers why we collect your personal information, what information we collect, what we use it for and how we protect it.
 
 Why we collect your personal information?
-
-We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
-
-What information do we collect? What do we use it for?
 
 We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
