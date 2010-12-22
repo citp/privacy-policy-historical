@@ -1,8 +1,38 @@
-> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913031717id_/http%3A//www.amp.com.au/retail/1column/0%2C4765%2CCH40885%25255FSI4305%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222042612id_/http%3A//www.amp.com.au/privacy%3Fiid%3DHP0001%3Afooterlinks%3A07%3Aprivacy) for the most accurate reproduction.*
 
-# AMP Privacy Statement - AMP
+# AMP Privacy Policy Statement - AMP
 
 Your privacy is important to us. This statement outlines AMP's policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the AMP group of companies in Australia.
+
+1\. AMP's privacy policy is based on openness
+
+2\. Why does AMP collect personal information?
+
+3\. What kind of personal information do we ask for?
+
+4\. How do we use this information and who may we disclose it to?
+
+5\. Sensitive information is subject to greater restrictions
+
+6\. Management of personal information
+
+7\. You have the right to check what personal information about you is held by us
+
+8\. What if you have a complaint?
+
+9\. How to contact us
+
+10\. AMP in Australia
+
+#### Privacy: Web supplement
+
+1\. Interactive tools
+
+2\. What is a Cookie and how does AMP use cookies?
+
+3\. Links to third party websites
+
+#### AMP Privacy Policy Statement
 
 #### Your privacy is important to AMP
 
@@ -14,13 +44,13 @@ AMP's Privacy Policy Statement will be reviewed from time to time to take accoun
 
 1 See AMP in Australia
 
-#### AMP's privacy policy is based on openness
+####  1\. AMP's privacy policy is based on openness
 
 We are committed to being open about how we use personal information.
 
 Where our documents ask for personal information, we will generally state the purposes for its use and to whom it may be disclosed.
 
-#### Why does AMP collect personal information?
+####  2\. Why does AMP collect personal information?
 
 Our business is to understand and meet our customers' needs over their lifetime for a wide range of financial and other services. To do this effectively, we need to collect certain personal information.
 
@@ -37,7 +67,7 @@ Our business units provide many financial products and services under the AMP br
 
 AMP Limited also maintains records of its shareholders and keeps them informed of AMP's business activities (including AMP's range of products and services that are available from time to time). Collecting personal information also allows us to meet legal obligations we might have.
 
-#### What kind of personal information do we ask for?
+####  3\. What kind of personal information do we ask for?
 
 Because of the nature of the products and services provided, government regulations and taxation laws, we ask for a range of personal information from our customers and shareholders.
 
@@ -49,15 +79,15 @@ We may ask for other information voluntarily from time to time (for example, thr
 
 Some of our insurance plans and other contracts also require us to collect sensitive information. For more details, see the section 'Sensitive information is subject to greater restrictions'.
 
-If you choose not to provide the information we need to fulfil your request for a specific product or service, we may not be able to provide you with the requested product or service.
+If you choose not to provide the information we need to fulfill your request for a specific product or service, we may not be able to provide you with the requested product or service.
 
-#### How do we use this information and who may we disclose it to?
+####  4\. How do we use this information and who may we disclose it to?
 
 While we may send you marketing material from time to time that we think will be useful to you, we are conscious of the need to respect your privacy.
 
 Unless you are informed otherwise, the personal information we hold is used for establishing and managing your financial products or services, reviewing your ongoing needs, enhancing customer service and product options and giving you ongoing information or opportunities that we believe may be relevant to your financial needs and other circumstances.
 
-We use the personal information we collect about AMP Limited's shareholders to fulfil our legal obligations and to keep our shareholders informed of AMP's progress and the products and services that we provide to our customers.
+We use the personal information we collect about AMP Limited's shareholders to fulfill our legal obligations and to keep our shareholders informed of AMP's progress and the products and services that we provide to our customers.
 
 Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to:
 
@@ -72,7 +102,7 @@ Depending on the product or service concerned and particular restrictions on sen
 
 Generally, we require that organisations outside the AMP group of companies who handle or obtain personal information as service providers to AMP acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the National Privacy Principles and this policy.
 
-#### Sensitive information is subject to greater restrictions
+####  5\. Sensitive information is subject to greater restrictions
 
 Some personal information we hold is 'sensitive'.
 
@@ -82,23 +112,23 @@ The way we use tax file numbers and information received from a credit reporting
 
 Sensitive information is usually needed for applications for death, sickness and disability insurance and to manage claims on those products. It may also be relevant to credit and other applications. It is AMP policy that sensitive information will be used and disclosed only for the purposes for which it was provided, unless the customer agrees otherwise or the use or disclosure of this information is allowed by law. Documents asking for sensitive information will explain this.
 
-#### Management of personal information
+####  6\. Management of personal information
 
 AMP trains its employees and financial planners who handle personal information to respect the confidentiality of customer information and the privacy of individuals. AMP regards breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
 
 AMP has appointed Privacy Officers to ensure that AMP's management of personal information is in accordance with this statement and the Privacy Act.
 
-#### How do we store personal information?
+### How do we store personal information?
 
 Safeguarding the privacy of your information is important to us, whether you interact with us personally, by phone, mail, over the internet or other electronic medium. We hold personal information in a combination of secure computer storage facilities and paper-based files and other records, and take steps to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure.
 
 We may need to maintain records for a significant period of time. However, when we consider information is no longer needed, we will remove any details that will identify you or we will securely destroy the records.
 
-#### How do we keep personal information accurate and up-to-date?
+### How do we keep personal information accurate and up-to-date?
 
-AMP endeavours to ensure that the personal information it holds is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone or via the AMP website.
+AMP endeavors to ensure that the personal information it holds is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone or via the AMP website.
 
-#### You have the right to check what personal information about you is held by us
+####  7\. You have the right to check what personal information about you is held by us
 
 Under the Commonwealth Privacy Act, you have the right to obtain a copy of any personal information which AMP holds about you and to advise AMP of any perceived inaccuracy. The Act does set out some exceptions to this.
 
@@ -106,62 +136,86 @@ To make a request, you will need to complete an application form verifying your 
 
 We will acknowledge your request within 14 days and respond promptly to it. We may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. If the information sought is extensive, we will advise the likely cost in advance and can help to refine your request if required.
 
-#### What if you have a complaint?
+####  8\. What if you have a complaint?
 
 If you consider that any action of AMP breaches this Privacy Policy Statement or the National Privacy Principles or otherwise doesn't respect your privacy, you can make a complaint. This will be acted upon promptly.
 
-To make a complaint, please telephone us on **131 267**.
+To make a complaint, please telephone us on 1300 157 173.
 
 If you are not satisfied with our response to your complaint, you can telephone the Commonwealth Privacy Commissioner's hotline on 1300 363 992.
 
-#### How to contact us
+####  9\. How to contact us
 
-If you want to:
+If you want to make a general enquiry about AMP's privacy policy, change your personal information or
 
-  * make a general enquiry about AMP's privacy policy
-  * change your personal information
-  * obtain an application form for access to your personal information
+obtain an application form for access to your personal information phone AMP on 1300 157 173.
 
-
-
-phone AMP on **131 267**.
-
-#### AMP in Australia
+####  10\. AMP in Australia
 
 AMP provides wealth creation and protection for customers through:
 
-**Life and general insurance:**
+Life and general insurance:
 
   * AMP Life Limited
+
   * AMP GI Distribution Pty Ltd
+
+
+
+
+Investments:
+
   * AMP Capital Investors Ltd
+
   * Australian Securities Administration Limited
+
   * Hillross Financial Services Limited
 
 
 
-**Superannuation and retirement income:**
+
+Superannuation and retirement income:
 
   * AMP Life Limited
+
   * AMP Superannuation Limited
 
 
 
-**Banking:**
+
+Banking:
 
   * AMP Bank Limited
 
 
 
-**Financial planning:**
+
+Financial planning:
 
   * AMP Financial Planning Pty Limited
+
   * Hillross Financial Services Limited
+
   * Magnify Financial Planners Limited
+
   * Arrive Wealth Management Limited
+
+
+
+
+Asset management:
+
   * AMP Capital Investors Ltd
+
   * AMP Shopping Centres Pty Ltd
-  * Cobalt Solutions Australia Limited
+
+
+
+
+Insurance Runoff Management Services
+
+  * Cobalt Runoff Services Limited
+
 
 
 
@@ -177,13 +231,13 @@ Alfred Street, Sydney NSW 2000
 
 This statement outlines some privacy issues specific to the amp.com.au website.
 
-#### Interactive tools
+####  1\. Interactive tools
 
 The AMP website provides you with many interactive tools designed to help you make an informed choice with certain financial and other decisions. Some of these tools include budget planners, debt reduction calculators, home loan comparison and superannuation calculators.
 
 AMP may collect personal information you enter when using the interactive tools on our website.
 
-#### What is a Cookie and How does AMP use cookies?
+####  2\. What is a Cookie and How does AMP use cookies?
 
 Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the web site, when you return to the web site, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the AMP web site, including presenting web pages according to your needs or preferences.
 
@@ -195,7 +249,7 @@ Cookies are frequently used on many websites on the internet and you can choose 
 
 AMP is constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
 
-#### Links to third party websites
+####  3\. Links to third party websites
 
 The AMP website has links to external third party websites that may benefit the user.
 
