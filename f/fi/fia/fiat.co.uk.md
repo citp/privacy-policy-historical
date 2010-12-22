@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617192856id_/http%3A//www.fiat.co.uk/Content/%3Fid%3D3024) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiat.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180829id_/http%3A//www.fiat.co.uk/Content/%3Fid%3D3024) for the most accurate reproduction.*
 
 # Fiat.co.uk | Privacy Information for www.fiat.co.uk Fiat.co.uk
 
