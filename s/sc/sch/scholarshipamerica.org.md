@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329134613id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222135705id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Scholarship Programs - College Scholarships from Scholarship America .
 
-## [](http://www.at15.com/points/big_give)
+................
 
-Scholarship America's Dollars for Scholars program is part of this quarter's Best Buy @15 Exchange program. Visit [at15.com](http://www.at15.com/points/big_give) to learn more about this unique opportunity.  
-
+## [](http://twitter.com/ScholAmerica)
 
 .......................
 
-[](http://www.facebook.com/pages/Scholarship-America/56858693504)
-
-................
+[](http://www.facebook.com/ScholarshipAmerica)
 
 | 
 
@@ -100,6 +97,6 @@ Over 1.5 million students have depended on Scholarship America. We depend on you
 ##   
 Families of Freedom Scholarship Fund 
 
-has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20100329134613id_/http%3A//scholarshipamerica.org/special-initiatives.php)
+has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20101222135705id_/http%3A//scholarshipamerica.org/special-initiatives.php)
 
 ................
