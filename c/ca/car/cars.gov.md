@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars.gov privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618233626id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars.gov privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222074242id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # U.S. Department of Transportation / Privacy Policy
 
@@ -41,7 +41,7 @@ We collect information to:
 
 ##  Sharing Your Information
 
-We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](https://web.archive.org/web/20100618233626id_/http%3A//www.dot.gov/DOTagencies.htm) and related entities, other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies. 
+We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](https://web.archive.org/web/20101222074242id_/http%3A//www.dot.gov/DOTagencies.htm) and related entities, other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies. 
 
 Also, the law may require us to share collected information with authorized law enforcement, homeland security, and national security activities. See the Privacy Act of 1974 below.
 
@@ -99,7 +99,7 @@ When the DOT collects information from you online that is subject to the Privacy
 
 
 
-[View our Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html)
+[View our Privacy Act Notices](http://www.dot.gov/privacy/privacyactnotices/index.htm)
 
 ## Our Privacy Practices
 
@@ -107,4 +107,4 @@ For more information or for comments and concerns on our privacy practices, plea
 
 DOT has conducted Privacy Impact Assessments on applicable systems.
 
-[View our Privacy Impact Assessments](https://web.archive.org/web/20100618233626id_/http%3A//www.dot.gov/pia.html)
+[View our Privacy Impact Assessments](https://web.archive.org/web/20101222074242id_/http%3A//www.dot.gov/pia.html)
