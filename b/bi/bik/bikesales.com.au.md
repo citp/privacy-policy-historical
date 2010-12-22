@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615000545id_/http%3A//www.bikesales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222055250id_/http%3A//www.bikesales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - bikesales.com.au
 
