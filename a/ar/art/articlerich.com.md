@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130091808id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerich.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222030136id_/http%3A//www.articlerich.com/privacy.php) for the most accurate reproduction.*
 
-# Article Directory | Read Free Articles | Submit Free Articles - ArticleRich.com
+# Free Ezine Articles Directory | Submit Articles - ArticleRich.com
 
 ArticleRich.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. **We respect your privacy,  **we will never sell, barter, or rent your email address to any unauthorized third party. 
 
@@ -23,6 +23,8 @@ Like other Web publishers, we collect information to enhance your visit and deli
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). 
 
 We may also use cookies and/or web beacons to collect data on the content you are viewing to ensure that advertisements are targeted to the content you are viewing.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
 
 Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
