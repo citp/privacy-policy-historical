@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509205633id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222230355id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Ratesupermarket.ca Privacy Policy
 
 RateSupermarket.ca ("We") believe that your personal information deserves protection and we subscribe to the privacy principles set out in the [ Government of Canada's Personal Information Protection and Electronic Documents Act](http://www.privcom.gc.ca/legislation/02_06_01_e.asp). This privacy policy describes our practices regarding the collection, use and sharing of your personal information. By using our website you consent and agree to the collection, use and disclosure of personal information and to the privacy practices set out in this policy. RateSupermarket.ca expressly reserves the right to change this privacy policy at any time. 
 
-## How do we collect and use personal information? 
+### How do we collect and use personal information? 
 
 RateSupermarket.ca is in the business of providing a comprehensive, informational website about financial rate comparisons, as part of providing this service, we may collect personal information from our users. 
 
@@ -18,7 +18,7 @@ We may wish, from time to time, to post your comments or submissions as sample t
 
 ### Statistics
 
-We may also use personal information and data collected through your emails and use of our website to generate statistics and aggregate reports for internal use and for sharing with our affiliates and advertisers. These statistics and aggregate reports will not contain any information that could identify you personally.
+We may also use information and data collected through your emails and use of our website to generate general, generic statistics and aggregate reports for internal use and for sharing with our affiliates and advertisers. These statistics and aggregate reports will not contain any personal information or contact details that could identify you personally.
 
 ### How do we use cookies? 
 
@@ -38,11 +38,11 @@ We may disclose personal information to our agents, suppliers and service provid
 
 From time to time, we run promotions and contests that may be operated or administered by third party service providers on behalf of RateSupermarket.ca, in which case personal information may be collected and stored by such third party, or disclosed to such third party by us, for the purpose of the contest. If you have opted to receive marketing materials from third parties or us on your contest entry form, the information may be used to send you such marketing materials. 
 
-## Exceptions 
+### Exceptions 
 
 We reserve the right to use and disclose personal information to comply with applicable laws and regulations and local, provincial and national governmental requests, to operate our websites properly, or to protect the rights and property of RateSupermarket.ca and its users, sponsors, providers, or licensors. 
 
-## Security
+### Security
 
 RateSupermarket.ca uses SSL (Secure Socket Layer) protocol, and GoDaddy.com certificates for securing the exchange of any and all data on the site. This security technology encrypts the information that you may send us (such as names and addresses), so that it can't be read as it is sent from your computer to the site.
 
@@ -50,7 +50,7 @@ You can see when the SSL connection is activated as the URL in your browser will
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For further information about security on the website please email: webmaster (at) RateSupermarket.ca.
 
-## Contact Information 
+### Contact Information 
 
 For questions or concerns regarding your personal information and our privacy policy, or to update, correct or delete your personal information, please contact: 
 
