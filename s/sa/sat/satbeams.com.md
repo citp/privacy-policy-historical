@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the satbeams.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525112108id_/http%3A//www.satbeams.com/website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satbeams.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222123622id_/http%3A//www.satbeams.com/website/privacy-statement) for the most accurate reproduction.*
 
 # SatBeams - Privacy Statement
 
+Written by Administrator      
+  
   1. User name, login, email address and coordinates are mandatory fields collected during the registration process. Any other personal information provided by user is not mandatory. 
   2. Personal information is stored in user profile and provides some advanced functionality that is available on the site or will become available in the future. 
   3. User markers placed on the maps are **anonymous** and only the antenna size and list of TPs/channels received at given spot will be visible to other site members. Registered users can send emails to marker owner through "captcha protected" email-form.
