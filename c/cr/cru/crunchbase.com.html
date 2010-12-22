@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the crunchbase.com privacy policy that was archived on 2010-01-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100130043502id_/http%3A//www.crunchbase.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crunchbase.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222090811id_/http%3A//www.crunchbase.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 		<title>CrunchBase Privacy Policy</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<!--removes image toolbar in ie6 when hovering over an image-->
@@ -13,8 +14,9 @@
 		<link rel="apple-touch-icon" href="/images/webclip.png">
 		<link rel="search" type="application/opensearchdescription+xml" title="CrunchBase" href="/opensearch.xml">
 		
-		<link href="http://www.crunchbase.com/stylesheets/all_1264821648.css" media="screen" rel="stylesheet" type="text/css">
-		<script src="http://www.crunchbase.com/javascripts/all_1264821648.js" type="text/javascript"></script>
+		<link href="http://www.crunchbase.com/stylesheets/all_1292980599.css" media="screen" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css">
+		<script src="http://www.crunchbase.com/javascripts/all_1292980599.js" type="text/javascript"></script>
     <script src="http://www.crunchbase.com/javascripts/calendar_date_select/calendar_date_select.js" type="text/javascript"></script>
 <link href="http://www.crunchbase.com/stylesheets/calendar_date_select/default.css" media="screen" rel="stylesheet" type="text/css">
 		<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -37,6 +39,7 @@
 		
 	</head>
 	<body>
+		<div id="welcome" style="display:none;"><div class="close" onclick="Effect.BlindUp('welcome', { duration: 1.0 });ignoreWelcome();return false;">x</div>Welcome to CrunchBase! <a href="/help/faq" onclick="ignoreWelcome();">Learn more</a></div>
 		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 		<script type="text/javascript">
 //<![CDATA[
@@ -84,15 +87,14 @@ FB.init('630ae13e6804e700382b9318a940937e','/xd_receiver.html', {});
 </div>							
 	<div id="session">
 	
-		<a href="/edits" title="Edits">Edits</a>&nbsp;|
-		<a href="/login" rel="nofollow" title="Login">Login</a>
-		<div style="height:13px;clear:both;"></div>
+		<a href="/account/signup" title="Register">Register</a>&nbsp;|
+		<a href="/login" rel="nofollow" title="Login">Login</a> or
 		<fb:login-button onlogin="window.location.href = &quot;/facebook_connect/connect&quot;;" v="2"></fb:login-button>						
 	
 </div>
 </div>
 
-	  <div id="strip">
+	  	<div id="strip">
 	<div id="strip_right">Browse:
 	  <a href="/companies" title="Companies">Companies</a> | <a href="/people" title="People">People</a> | <a href="/financial-organizations" title="Financial Organizations">Financial Organizations</a>
 	</div>
@@ -161,5 +163,38 @@ FB.init('630ae13e6804e700382b9318a940937e','/xd_receiver.html', {});
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/0873.js"> </script>
 
 
+		<script type="text/javascript">
+var _sf_async_config={uid:2905,domain:"crunchbase.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+		<script type="text/javascript">
+		document.observe("dom:loaded", function() {
+			if(document.cookie.length > 0 && document.cookie.indexOf("cbwelcome=") == -1){
+				editWelcomeCookie(true)
+			}else{
+				if(parseInt(getCookie("cbwelcome")) < 6){
+					editWelcomeCookie(false)	
+				}
+			}
+			if(parseInt(getCookie("cbwelcome")) <= 5){
+				Effect.BlindDown('welcome', { duration: 0.5 });	
+			}
+		});
+		</script>
 	
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
