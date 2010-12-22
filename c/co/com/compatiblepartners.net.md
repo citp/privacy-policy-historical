@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613102558id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222104258id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
 
 # Compatible Partners - Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.compatiblepartners.net&sealid=101)
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.compatiblepartners.net/seal_m "Validate TRUSTe privacy certification")
 
 TRUSTe is an independent, non-profit organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
@@ -20,7 +20,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 7\. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., P.O. Box 60157, Pasadena, California 91116 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., PO BOX 3640, Santa Monica, CA 90408 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
@@ -79,8 +79,7 @@ You may use the following options for removing your information from our e-mail 
   2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
 
 Compatible Partners   
-P.O. Box 60157  
-Pasadena, CA 91116 USA
+PO BOX 3640, Santa Monica, CA 90408 USA
 
 
 
@@ -100,8 +99,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Site Administrator  
 Compatible Partners  
-P.O. Box 60157  
-Pasadena, CA 91116 USA
+PO BOX 3640, Santa Monica, CA 90408 USA
 
 **Acceptance of Privacy Statement**
 
@@ -113,4 +111,4 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy statement was last revised on November 18, 2008.
+This privacy statement was last revised on December 10, 2010.
