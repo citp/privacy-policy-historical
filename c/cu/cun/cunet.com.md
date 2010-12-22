@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cunet.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501164608id_/http%3A//www.cunet.com/en/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cunet.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222193516id_/http%3A//www.cunet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# CUnet: Performance Marketing Solutions for Higher Education
+# Privacy Policy - CUnet
 
-**CUnet, LLC Privacy Policy**
+## CUnet, LLC Privacy Policy
 
 Cunet, LLC (the "Company") wants you to understand how we collect, protect, and use your personally identifiable information ("your information") and the choices you have about how your information is used. This policy covers the information handling practices of the Company; however, certain departments and/or products within the Company may have more restrictive information handling practices.
 
-**Online information**
+## Online information
 
 We are committed to providing you a useful and enjoyable online experience. When you access a Company Web site ("Company Site"), you can be sure that your information is protected by physical, procedural, and electronic safeguards. We collect information from your visit only in order to personalize and improve upon your experience with us.
 
