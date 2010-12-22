@@ -1,28 +1,16 @@
-> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813003622id_/http%3A//www.ashampoo.com/frontend/homepage/php/privacypolicy.php%3Fsession_langid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222132111id_/http%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.*
 
-# Ashampoo® - We Make Software!
+# Ashampoo® - Company - Privacy Policy
 
-### We at ashampoo
+## Analyses
 
-take the protection of your personal data very seriously and strictly conform to data protection laws. Personal data is being collected on this website only to the extent necessary for technical reasons. **By no means** will the collected data be sold or for any other reason given to third parties. The following statement gives you an overview of how we ensure this protection and what kind of data is being collected for what purpose. 
+When visiting our sites, special analysis software collects and stores anonymous data for marketing and optimization purposes. This data cannot be linked to your identity. 
 
-### Information you give us
+**Examples of data types we collect:**
 
-Information is transmitted e.g. whenever you search for a product, make a purchase via our websites or a third party vendor or enter details in “My Ashampoo” or your customer account (please note that you may maintain more than one customer account if you have registered with different e-mail addresses), if you communicate with us via e-mail or by another way, if you fill out a questionnaire or enter a contest or if you use other services which inform you personally about certain offers such as newsletters. 
-
-  
-
-
-### Analyses
-
-When visiting our sites, special analysis software collects and stores anonymized data for marketing and optimization purposes.   
-This data cannot be linked to your identity. 
-
-**Examples for types of data we collect:**
-
-  * Browser type and version 
+  * Browser type and version
   * Operating system and system language
-  * Referring website 
+  * Referring website
   * Host name of accessing computer (IP address)
   * Time of server request
   * Country/region of origin
@@ -30,55 +18,107 @@ This data cannot be linked to your identity.
 
 
 
-This data cannot be definitely linked to certain persons and only serves to optimize our online services. This data will not be merged with other data sources and will be deleted after statistical analysis. 
+This data cannot be linked to certain persons and only serves to optimize our online services. Furthermore, this data will not be merged with other data sources and will be deleted after statistical analysis. Back to top   
 
-### Cookies 
 
-This website uses cookies in several places. These cookies are used to make our services more user-friendly, more effective and more secure. Cookies are small text files that your browser saves on your computer. Most of the cookies we use are so-called “Session Cookies”. These will be automatically deleted after your visit. Cookies cannot do damage to your computer and do not  
-contain viruses. 
+## Cookies 
 
-Cookies can also be saved for a longer period of time, e.g. for a website to recognize your user profile without the need to log in. You can customize how cookies are handled in your browser settings. 
+This website uses cookies in several places. These cookies are used to make our services more user-friendly, more effective and more secure. Cookies are small text files that your browser saves on your computer. Most of the cookies we use are so-called “Session Cookies”. These will be automatically deleted after your visit. Cookies cannot do damage to your computer and do not contain viruses. Cookies can also be saved for a longer period of time, e.g. for a website to recognize your user profile without the need to log in. You can customize how cookies are handled in your browser settings. 
 
-### Newsletter 
+  * On some websites we use Google Ads. Google as a third party provider uses additional cookies to place ads on these websites. 
+  * The use of so-called DART cookies enables Google’s ad placement according to user visits on our websites and websites in the Ashampoo company group.
+  * Go to [ Privacy Policy for Google Ads and the Google content network ](http://www.google.com/privacy_ads.html) to deactivate the use of so-called DART cookies.
 
-If you want to receive the newsletter we offer on our website, we need a valid e-mail address as well as, for your own protection, information allowing us to verify the address you entered and make sure you are authorized to use that address and consent to receiving the newsletter. No further data will be collected.  
-You can revoke your consent to the collection of data, your e-mail address and receiving the newsletter at any time. 
 
-Some of the software we deliver leads to an entry into several distribution lists upon registration. You are informed about such an entry before or during the registration process, so you can decide at any time whether you want this or not. 
 
-### eCommerce 
+Back to top   
 
-In order to process an order we need your address data, your date of birth, e-mail, telephone number (if applicable), the total   
-purchase price, purchase order date and information about the handling of payments. 
 
-  * To secure your information in transmission we use Secure Sockets Layer software (SSL) where needed. This software encrypts the information you submit.
+## Advertising
+
+On some websites we make use of third party providers to place ads when you visit our website. These companies possibly use information (these don’t include your name, your address, e-mail address or phone number) on your visit of this and other websites in order to place ads on products and services that might interest you. If you would like to learn more about these techniques and would like to know what possibilities you have to prevent these companies from using that information, go [here](http://www.google.com/privacy_ads.html). Back to top   
+
+
+## Service Letter 
+
+If you want to receive the service letter we offer on our website, we need a valid e-mail address as well as, for your own protection, information allowing us to verify the address you entered and make sure you are authorized to use that address and consent to receiving the service letter. No further data will be collected.   
+You can revoke your consent to the collection of data, your e-mail address and receiving the service letter at any time. 
+
+Some of the software we deliver leads to an entry into several distribution lists upon registration. You are informed about such an entry before or during the registration process, so you can decide at any time whether you want this or not. Back to top   
+
+
+## eCommerce 
+
+In order to process an order we need your address data, your date of birth, e-mail, telephone number (if applicable), the total purchase price, purchase order date and information about the handling of payments. 
+
+  * To secure your information in transmission we use Secure Sockets Layer software (SSL) where needed. This software encrypts the information you submit. 
   * Of course this is also true for credit card payments. The credit card information is only stored temporarily and deleted after being handed on to the respective payment provider.
-  * It is important for you to take precautions against unauthorized access to your password and your computer. If you share   
-a computer with others, you should remember to always log off after each session.
+  * It is important for you to take precautions against unauthorized access to your password and your computer. If you share your computer with others, you should remember to always log off after each session.
 
 
 
-You can have your data deleted at any time. We use your data only to process your order, i.e. only information implicitly necessary   
-for possible claims for reimbursement is collected and handled. 
+You can have your data deleted at any time. We use your data only to process your order, i.e. only information implicitly necessary for possible claims for reimbursement is collected and handled. Back to top   
 
-### Miscellaneous
 
-  * **Promotions** : From time to time we send offers by order of a third party company to select customer groups. In this case,   
-that company receives neither your name, nor your address or any other information that could be used to personally   
-identify you. If you do not wish to receive such offers, you can simply stop them in your user account.
+## Software Installation and Activation
+
+When you purchase an Ashampoo software product, request an extension of a trial period or activate a free full version, you will receive a license key, generally by e-mail. Similar license keys are also used for trial period extensions and for unlocking free full versions of Ashampoo products. You activate a software product with a license key by entering the key in the appropriate dialog in the application for which you purchased the key. When using this dialog to activate a full version of a software product you must be connected to the Internet so that the validity of the key can be checked. When you activate the software a connection is made to the Ashampoo license server, which checks the key in our database. If the key is unknown or has already been activated an error will be displayed. The software product will still remain fully functional, even if you enter an invalid key. However, the license key error will continue to display when the program starts until you have completed the activation process with a valid key. 
+
+The following information is transmitted when you activate a program with a license key: 
+
+  * The license key
+  * A checksum
+  * The product code
+  * The version numbers
+  * The language setting
+
+
+
+You can check your current license keys at any time. Just visit MyAshampoo at <http://www.ashampoo.com/en/usd/mai>. Your personal MyAshampoo data is protected against unauthorized access, you can log in with your email address and a password you choose yourself. Your personal data will be stored anonymously unless you choose to enter your name, which is entirely optional. Our privacy policies for managing your data are very strict and we will never share your information with any third parties. Back to top   
+
+
+## Social Plugins
+
+Ashampoo uses so-called social plugins by Facebook like, for example, the “Recommend” or the “Like” button on the Ashampoo website as well as in Ashampoo products. These plugins are provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA and are characterized by either the Facebook logo or a “Thumbs up” symbol. If you open a website by Ashampoo that contains such a plugin, your browser will establish a connection to the Facebook servers. The content of the plugin is sent from Facebook directly to your browser and displayed accordingly on Ashampoo websites; without Ashampoo having any influence on the content of the plugins. 
+
+With the transfer of data Facebook might be able to trace your visit on our website and to associate it with your Facebook account, if you are a Facebook user or if you recently visited either a Facebook website or a website with content by Facebook. If you actively use those plugins, for example by clicking on a “recommend” or “like” button, information on this will be sent directly from your browser to Facebook, without Ashampoo having or being able to exert any influence on this. For information on to what extent or in what way your data are collected and sent to Facebook as well as for information on what happens to that information, please visit Facebook’s Privacy Policy (http://www.facebook.com/policy.php). Furthermore you can also learn about the rights to privacy (privacy protection) and you can adjust settings to protect your privacy on Facebook. 
+
+In order to avoid that Facebook collects information on your visits to our websites or when you use our software, you should log off Facebook before visiting our website or using Ashampoo software. You should also make sure that any possibly present cookies ([What are cookies?](http://www.ashampoo.com/en/eur/ppy#cookie)) by Facebook are deleted from your browser. 
+
+**Instructions on how to delete cookies for the most common browsers:**
+
+  * Microsoft Internet Explorer 7/8: [Instructions](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
+  * Mozilla Firefox: [Instructions](http://support.mozilla.com/en-US/kb/Deleting%20cookies)
+  * Google Chrome: [Instructions](http://www.google.com/support/chrome/bin/answer.py?hlrm=de&answer=95647)
+  * Apple Safari: [Instructions](http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html)
+  * Opera: [Instructions](http://help.opera.com/Windows/9.10/en/cookies.html)
+
+
+
+Back to top   
+
+
+## Other
+
+  * ****Promotions**** : From time to time we send offers by order of a third party company to selected customer groups. In this case, that company receives neither your name, nor your address or any other information that could be used to personally identify you. If you do not wish to receive such offers, you can simply stop them in your user account. 
   * Ashampoo and its affiliates can use the collected data for their own marketing purposes, in case you have agreed to this.
-  * **Service providers** : We commission other companies and individuals to perform tasks for us. Examples are, among other things, package deliveries and payment processing (credit card, direct debiting, purchase on account). These service providers have access to personal information that is required for their tasks. They are prohibited from using this information for other purposes. Moreover, they are obliged to handle the information in accordance with this privacy policy and German data protection laws.
-  * **Protection of Ashampoo and third parties** : We will disclose accounts and personal data of customers if we are bound by law to do so or if disclosure is necessary to enforce our General Terms and Conditions or other agreements or to protect our rights or the rights of third parties. This includes data exchange with companies specializing in preventing and minimizing the risk of violation and credit card fraud. We explicitly state that in this context no data will be passed on to those companies for economic use that would contradict this privacy policy.
-  * **With your consent** : In all other cases we will inform you if personal information is to be handed off to third parties and give you the chance to give your consent.
+  * **Service providers** : We commission other companies and individuals to perform tasks for us. Examples are, among other things, package deliveries and payment processing (credit card, direct debiting, purchase on account). These service providers have access to personal information that is required for their tasks. They are prohibited from using this information for other purposes. Moreover, they are obliged to handle the information in accordance with this privacy policy and German data protection laws. 
+  * **Protection of Ashampoo and third parties** : We will disclose accounts and personal data of customers, if we are bound by law to do so or if disclosure is necessary to enforce our General Terms and Conditions or other agreements or to protect our rights or the rights of third parties. This includes data exchange with companies specializing in preventing and minimizing the risk of violation and credit card fraud. We explicitly state that in this context no data will be passed on to those companies for economic use that would contradict this privacy policy.
+  * **With your consent** : In all other cases we will inform you if personal information is to be handed off to third parties and give you the chance to give your consent. 
 
 
 
-### Right of access to personal data 
+Back to top   
 
-You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection officer **Sebastian Strzelecki** , datenschutz[at]ashampoo.com. 
 
-We maintain physical, electronical and procedural safety measures in connection with the collection, storage and disclosure of personal information about our customers. These safety measures include occasionally asking you to provide proof of your identity before we disclose personal data to you. 
+## Right of access to personal data
 
-### Further information
+You have the right to be informed about stored data pertaining to your person, the origin and recipients of such data and the reason why this data was collected and stored. Information will be provided by our data protection advisor **Sebastian Strzelecki** , datenschutz[at]ashampoo.com. 
 
-your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection officer **Sebastian Strzelecki** , datenschutz[at]ashampoo.com. 
+We maintain physical, electronical and procedural safety measures in connection with the collection, storage and disclosure of personal information about our customers. These safety measures include occasionally asking you to provide proof of your identity before we disclose personal data to you. Back to top   
+
+
+## Further information
+
+Your trust is important to us. Thus we are always ready to answer your questions about the handling of your personal data. If, at any time, you have questions that this privacy policy could not answer or if you wish to receive more specific information about certain issues, please contact our data protection advisor **Sebastian Strzelecki** , datenschutz[at]ashampoo.com. Back to top   
+
