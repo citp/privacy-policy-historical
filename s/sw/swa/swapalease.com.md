@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110223401id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222182436id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Swapalease.com Worlds Largest Lease Marketplace
 
-## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 01/31/2010
+## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 09/29/2010
 
 Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.swapalease.com](https://web.archive.org/default.aspx) of Swapalease Inc.'s Website. 
 
@@ -114,6 +114,83 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
+| |   
+---|---|---  
+| 
+
+## Third Party Privacy Policy
+
+The Privacy Policy applies to the use of the software BTBUCKETS MANAGER, owned by BTBUCKETS. 
+
+This Privacy Policy was prepared to warn you (user) about the information we collect when you visit websites that use the software supplied by BTBUCKETS. We clarify that the websites that use our software are obliged, according to our instrument of license, to maintain a non-disclosure policy in line with current market practices, inform its users about the use of the BTBUCKETS software and how to proceed so that users may “OPT-OUT” from the collection of browsing information through the BTBUCKETS software.
+
+By accessing or using the websites that use the BTBUCKETS software, you will be automatically authorizing the use of your data according to our Non-Disclosure Policy. If you do not approve the capture, use and/or disclosure of your data, as described herein, you shall “OPT-OUT”.
+
+BTBUCKETS acknowledges that the non-disclosure policy is very important
+
+****WHAT INFORMATION WE COLLECT AND HOW WE USE IT****
+
+BTBUCKETS has conceived and developed the BTBUCKETS MANAGER software, which function, generally, is to group users with similar browsing characteristics, and analyze their behavior on the Internet. 
+
+Thus, the Software BTBUCKETS MANAGER will gather data while you are visiting the websites that use the Software of BTBUCKETS. This data includes information designated by the owner of the website, such as IP address, Web pages examined by you, date and time, domain type, among other browsing information and preferences. BTBUCKETS may use different types of technologies to collect this type of information, including “cookies”. 
+
+Websites that are using BTBUCKETS MANAGER are required to not collect personal identifiable information (PII) , which may lead to identification of the user who visits this website. 
+
+The user may decide to not permit that BTBUCKETS use its anonymous data through the Opt-Out procedure (“dispose of”), namely “withdraw my data from his database completely.” For this [click HERE](http://btbuckets.com/site/optout). 
+
+BTBUCKETS will use your non-personal information to analyze your behavior on the Internet, grouping it with other users who have similar browsing characteristics to your own. BTBUCKETS will segment the exhibition of contents with items that seem to be of interest to a certain group.
+
+**Certain browsing aspects in this website:**
+
+**Cookies:** A “cookie” is a fragment of information kept in the user’s computer, connected to his information. BTBUCKETS can use “cookies” (information sent by the server of BTBUCKETS to your computer, with the objective of identifying it). We use the cookies to store the preferences of users and follow up on trends. 
+
+We clarify that the majority of browsers are configured to accept cookies, but you can redefine your browser to reject all the cookies or indicate when a cookie is being sent. However, some resources and services of BTBUCKETS may not work correctly if the cookies are disabled.
+
+**Registration Information:** When you access websites that use the Software, BTBUCKETS automatically records on its servers the information that you sent through your browser while visiting the site. ****
+
+******Communication with the user:** When you send an e-mail or other communication to the website of BTBUCKETS, we can retain these communications to process your requests and improve our services. BTBUCKETS reserves itself the right to select the content to be posted in the forum of the website. ****
+
+Other sites: This site contains links to external sites, whose non-disclosure policies are not the responsibility of BTBUCKETS.
+
+**INFORMATION SHARING**
+
+By accessing the websites that use the BTBUCKETS Software, you are automatically authorizing the sharing of your anonymous behavioral data with BTBuckets and the site with Software installed. If you do not approve the capture, the use and disclosure your anonymous behavioral data, as described herein, use of the [Opt-Out tool](http://btbuckets.com/site/optout).
+
+When we need third parties to help process your information, we request that they comply with our Non-Disclosure policy and other appropriate safety and non-disclosure measures.
+
+**SAFETY OF INFORMATION**
+
+BTBUCKETS uses commercially reasonable physical, administrative and technical protections to preserve the integrity and safety of your information. We cannot, however, assure or guarantee the safety of any information that you transmit to specific media. Therefore, you so do at your own risk. Once we receive your transmission of information, BTBUCKETS makes commercially reasonable endeavors to ensure the safety of our systems. However, please observe that this is not a guarantee that such information cannot be accessed, revealed, altered or destroyed by violation of our physical, technical or administrative protections. 
+
+**INTEGRITY OF DATA**
+
+BTBUCKETS processes your information only for the purposes proposed and according to the Policy or any notice of non-disclosure of a specific applicable service. We review our data collection, storage and processing practices to ensure that we only collect, store and process information with the objective of grouping users with similar browsing characteristics.
+
+**PROPERTY RIGHTS**
+
+The intellectual property rights of the BTBUCKETS software, including its content, applications and systems, belong to BTBUCKETS, (ii) are licensed to the websites registered in the service and/or (iii) are free to use. 
+
+It is expressly prohibited to market, reproduce, modify, download, publish or distribute, at any title and in any way, the technical material and other contents existing in this website and in the Portal, without previous authorization from BTBUCKETS or third parties. 
+
+The right of use over the information contained in the website does not guarantee to the User the right to use any trademarks, logos, domain names, business names and any other distinctive signs of BTBUCKETS and/or of partners exposed in the website and in the Portal. 
+
+The User agrees that he will not remove, obscure or alter any information or content of the website. Commercial exploitation by third parties of the website’s content is expressly prohibited. 
+
+**CHANGES**
+
+**** The services available in the website may be modified, substituted or excluded without the User having any right or indemnity resulting from said change, amendment, substitution or exclusion. 
+
+This Policy may also be altered, and these alterations will come into effect at the time they are published in the website. Continuous use by the User after insertion of the alterations in this Policy will consist in consent by the User with such Non-Disclosure policy of the website of BTBUCKETS. 
+
+******ALTERATIONS IN THIS PRIVACY POLICY**
+
+This Privacy Policy may be altered periodically and without notice. BTBUCKETS may alter the Privacy Policy at any time, publishing the alterations on this page. Date presented below (YEAR-MONTH-DAY) reflects latest updates to this policy.
+
+LAST UPDATE: 2009-07-13
+
+|   
+| |   
+  
 ### Contact Information
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
