@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523105526id_/http%3A//www.forextraders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222045455id_/http%3A//www.forextraders.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy for Forextraders.com
 
-This privacy policy applies to the use of Forextraders.com.
+**This privacy policy applies to the use of Forextraders.com and its related services.**
 
 We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
@@ -34,7 +34,7 @@ Again, if you provide us with your email address and/or name for the purposes of
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by [contacting](http://www.forextraders.com/contact-us.html) us.
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by [contacting us](http://www.forextraders.com/contact-us.html).
 
 ## Security
 
@@ -54,4 +54,4 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you have any questions or concerns regarding this privacy policy, you may contact us using via our [contact form](http://www.forextraders.com/contact-us.html).
 
-This privacy policy was last updated on 04/28/09.
+This privacy policy was last updated on 12/13/2010.
