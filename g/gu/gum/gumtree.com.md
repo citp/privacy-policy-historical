@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701095701id_/http%3A//www.gumtree.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222124101id_/http%3A//www.gumtree.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Gumtree.com: UK's No. 1 in classifieds - jobs, property, cars and more
+# Jobs, Cars, Property, Free Classifieds and More - Gumtree.com
 
 ## Gumtree Privacy Policy
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, Registered Number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective January 1st, 2009. You can find the old Privacy Policy [here](https://web.archive.org/privacy_policy_2008.html). 
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective January 1st, 2009. You can find the old Privacy Policy [here](https://web.archive.org/privacy_policy_2008.html). 
 
 ## Collection
 
@@ -38,11 +38,11 @@ We don’t sell or rent your personal information to third parties for their mar
 
 
 
-## Cookies
+## Cookies (last updated 17 December 2009)
 
-We or our service providers may place "cookies" (a "cookie" is a small files placed on the hard drive of your computer) and 'web beacons' (a 'web beacon' is an electronic image, called a single-pixel or clear GIF placed in the web page code) on your computer when you visit portions of Gumtree. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session, for example, when you close your browser. We may use permanent or session cookies to help analyse our web page flow; customise our services, content and advertising; measure promotional effectiveness, and promote trust and safety. You can block our cookies by changing the settings on your browser (Find out more about [Accepting and Deleting Cookies](https://web.archive.org/accepting_deleting_cookies.html), but doing so may prevent us from delivering certain services to you. 
+We or our service providers may place "cookies" (a "cookie" is a small files placed on the hard drive of your computer) and 'web beacons' (a 'web beacon' is an electronic image, called a single-pixel or clear GIF placed in the web page code) on your computer when you visit portions of Gumtree. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session, for example, when you close your browser. We may use permanent or session cookies to help analyse our web page flow; customise our services, content and advertising; measure promotional effectiveness, and promote trust and safety. We offer certain features that are available only through the use of cookies. You can block our cookies by changing the settings on your browser (Find out more about [Accepting and Deleting Cookies](https://web.archive.org/accepting_deleting_cookies.html), but doing so may prevent us from delivering certain services to you. Find out more about why we use cookies, see [Cookies, Web Beacons, and Your Privacy](https://web.archive.org/cookies_beacons.html). 
 
-You may encounter cookies from third parties on certain pages of the site that we do not control. We use third-party ad-serving technologies, to serve ads, and they may place cookies on your computer. We do not allow these third parties to collect any personal information through the use of cookies in ads.
+You may encounter cookies from third parties on certain pages of the site that we do not control. We sometimes work with service providers who may place cookies on your computer to collect anonymous information about how you use websites owned by Gumtree and its affiliates. This information allows them to help us customize our content and advertising. We do not allow these companies to collect any personal information about you using these cookies. 
 
 ## Using Information from Gumtree
 
