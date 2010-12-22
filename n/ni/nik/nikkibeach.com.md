@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikkibeach.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422001141id_/http%3A//www.nikkibeach.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkibeach.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223000558id_/http%3A//www.nikkibeach.com/privacy.php) for the most accurate reproduction.*
 
 # Nikki Beach
 
