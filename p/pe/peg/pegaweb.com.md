@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegaweb.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528094124id_/http%3A//www.pegaweb.com/special/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegaweb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222173936id_/http%3A//pegaweb.com/special/privacy-policy.htm) for the most accurate reproduction.*
 
 # Pegaweb.com Privacy Policy
 
