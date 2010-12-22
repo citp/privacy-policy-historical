@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2010-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616155051id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222085605id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -88,8 +88,6 @@
 		}
 		
 
-		
-
 
 
 </script> 
@@ -101,8 +99,7 @@
 	      	
   </div>
 
-		
-	
+
 <div id="rmp_new_image"> <!-- Testin for QA PRocess in includes on 13-March-2008 -->
   <div id="rmp_header">
   <!-- Comment Added for QA Process testing on 17-March-2008 -->
@@ -111,16 +108,18 @@
       <div class="gutter" style="padding-bottom:14px;background-position:right;background-repeat:no-repeat"> 
         <ul class="options">
           <li><a href="/">Home</a></li>
-          <li><a href="/jive/vodka/viewForum.jsp?forum=2">Forum</a></li>
-          <li class="last"><a href="/referral.jsp">Tell a Friend</a></li>
+          <li><a href="http://forum.ratemyprofessors.com/">Forum</a></li>
+          
+          <li class="last"><a href="http://blog.ratemyprofessors.com">Blog</a></li> 
         </ul>
         
         <p>Hi, <span>Guest!</span> [ <a href="/join.jsp">create account</a> | 
           <a href="/member/">login</a> ]</p>
         
         
-        <form onsubmit="if(search.letter.value == '' || search.letter.value == 'Enter keywords (e.g. Sam Smith Ball State University)') {alert( 'Enter keywords (e.g. Sam Smith Ball State University)' );search.letter.focus();return false ;}return true;" id="search" name="search" method="post" action="/gSearchResults.jsp"> 
-		<input type="text" onfocus="if(this.value=='Enter keywords (e.g. Sam Smith Ball State University)'){this.value='';this.style.color='black'}" value="Enter keywords (e.g. Sam Smith Ball State University)" style="width: 290px; color: gray; float: left; font-size: 0.7em; height: 15px;" tabindex="1" name="letter" id="rmp_navFindTextInput"> 
+         
+          <form action="/SearchProfs.jsp" id="search" name="search" method="post" onsubmit="if(search.letter.value == '') {alert( 'Please enter name of the professor you want to search for.' );search.letter.focus();return false ;}return true;">
+		<input type="text" onfocus="if(this.value=='Enter a professor name'){this.value='';this.style.color='black'}" value="Enter a professor name" style="width: 290px; color: gray; float: left; font-size: 0.7em; height: 15px;" tabindex="1" name="letter" id="rmp_navFindTextInput"> 
 		<input type="submit" style="margin-left: 4px; color: rgb(0, 0, 0); float: left; font-size: 0.7em;" tabindex="2" value="Search" id="search_submit"> 
 		<input type="button" style="margin-left: 4px; color: rgb(0, 0, 0); float: left; font-size: 0.7em;" tabindex="3" value="Web" id="web_submit" onclick="javascript: document.location = 'http://search.live.com/results.aspx?q=' + document.getElementById('rmp_navFindTextInput').value + '&amp;mkt=en-US&amp;FORM=VCM018'"> 
 	</form>
@@ -156,6 +155,8 @@ var submitSwitch =
 			document.getElementById("search").submit();
 	}
 }
+
+document.domain = "ratemyprofessors.com";
 </script>
 			<!-- END HEADER -->
  
@@ -555,7 +556,7 @@ urchinTracker();
 </script>
 
 
-<font color="white">w2 </font>  
+<font color="white">web8 </font>  
 
 <center>
 			<!-- BEGIN FOOTER -->
@@ -567,7 +568,7 @@ urchinTracker();
 				<h2>Select Your Region</h2>
 				<div id="flags">
 					
-					<a href="/index.jsp?country=0" onmouseover="document.us_s.src='http://static.ratemyprofessors.com/images/site/flags/us_s.jpg'" onmouseout="document.us_s.src='http://static.ratemyprofessors.com/images/site/flags/us_s_faded.png'"><img name="us_s" alt="United States" title="United States" src="http://static.ratemyprofessors.com/images/site/flags/us_s_faded.png"></a>	
+					<a href="/index.jsp?country=0" id="current_flag"><img name="us_s" alt="United States" title="United States" src="http://static.ratemyprofessors.com/images/site/flags/us_s.jpg"></a>	
 					<a href="/index.jsp?country=1" onmouseover="document.ca_s.src='http://static.ratemyprofessors.com/images/site/flags/canada_s.jpg'" onmouseout="document.ca_s.src='http://static.ratemyprofessors.com/images/site/flags/canada_s_faded.png'"><img name="ca_s" alt="Canada" title="Canada" src="http://static.ratemyprofessors.com/images/site/flags/canada_s_faded.png"></a>
 					<a href="/index.jsp?country=2" onmouseover="document.uk_s.src='http://static.ratemyprofessors.com/images/site/flags/england_s.jpg'" onmouseout="document.uk_s.src='http://static.ratemyprofessors.com/images/site/flags/england_s_faded.png'"><img name="uk_s" alt="England" title="England" src="http://static.ratemyprofessors.com/images/site/flags/england_s_faded.png"></a>
 					<a href="/index.jsp?country=5" onmouseover="document.scotland_s.src='http://static.ratemyprofessors.com/images/site/flags/scotland_s.jpg'" onmouseout="document.scotland_s.src='http://static.ratemyprofessors.com/images/site/flags/scotland_s_faded.png'"><img name="scotland_s" alt="Scotland" title="Scotland" src="http://static.ratemyprofessors.com/images/site/flags/scotland_s_faded.png"></a>
