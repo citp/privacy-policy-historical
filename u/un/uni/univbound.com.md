@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the univbound.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323042552id_/http%3A//univbound.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univbound.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222115627id_/http%3A//www.univbound.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Univbound
 
