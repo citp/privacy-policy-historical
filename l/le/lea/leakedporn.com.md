@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leakedporn.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044507id_/http%3A//www.leakedporn.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakedporn.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222165023id_/http%3A//www.leakedporn.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
-# Leaked Amateur Porn movies and videos, homemade porn by real people. - Information
+# Leaked Amateur Porn movies and sex videos, full homemade porn by real people. - Information
 
 LeakedPorn.com allows you to visit the website without revealing any personal information about yourself. Your visit to this website is anonymous. We will only collect your contact information (first name, last name, billing address, phone number, email address and any other relevant information provided by you) as well as financial information (account or credit card numbers), with your permission and for the sole purpose of processing orders.
 
