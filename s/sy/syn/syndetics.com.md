@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the syndetics.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231162629id_/http%3A//www.bowker.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndetics.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222121250id_/http%3A//www.bowker.com/index.php/component/content/article/417) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Bowker
+# Privacy Policy
 
 R.R. Bowker, LLC ("Bowker") owns and operates this website.
 
 Our postal address is:  
 **R.R. Bowker  
 630 Central Ave.  
-New Providence, NJ  07974**
+New Providence, NJ 07974**
 
-If you would like to contact us for any reason regarding our privacy practices, please contact us by sending an e-mail to [marketing@bowker.com](mailto:marketing@bowker.com) or writing to the above postal address, Attention: Marketing Department.
+If you would like to contact us for any reason regarding our privacy practices, please contact us by sending an e-mail to [TechSupport@bowker.com](mailto:TechSupport@bowker.com) or by writing to the above postal address, Attention: Marketing Department.
 
 Your privacy is important to us. To better protect your privacy Bowker provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home pages and at every point where personally identifiable information may be requested.
 
@@ -17,7 +17,8 @@ This notice applies to all information collected from or submitted to all Bowker
 
 **Outside Links**
 
-Bowker has several links to outside resources in an effort to help individuals gather information. Bowker is not responsible for the content provided on these sites, their privacy policies, or how they treat information about their users.   
+Bowker has several links to outside resources in an effort to help individuals gather information. Bowker is not responsible for the content provided on these sites, their privacy policies, or how they treat information about their users.
+
 Some links, primarily to book industry sites and entities, are provided as a service to our users. Other links to suppliers are available as part of paid advertising packages.
 
 **Data Gathering & Usage**
@@ -48,4 +49,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 **Contact Us**
 
-If you would like to contact us for any reason regarding our privacy practices, please contact us by sending an e-mail to [marketing@bowker.com](mailto:marketing@bowker.com) or writing to the above postal address, Attention: Marketing Department.
+If you would like to contact us for any reason regarding our privacy practices, please contact us by sending an e-mail to [TechSupport@bowker.com](mailto:TechSupport@bowker.com) or writing to the above postal address, Attention: Marketing Department.
