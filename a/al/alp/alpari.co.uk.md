@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301181950id_/http%3A//www.alpari.co.uk/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222210414id_/http%3A//www.alpari.co.uk/en/privacy_policy.html) for the most accurate reproduction.*
 
-# Forex with Alpari (UK) - Privacy Policy
+# Privacy Policy - Alpari (UK)
 
 **Commitment**
 
