@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chw.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617041405id_/http%3A//www.chw.org/display/PPF/DocID/34931/router.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chw.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222074625id_/http%3A//www.chw.org/display/PPF/DocID/34931/router.asp) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -31,8 +31,8 @@ The materials on this Web site are copyrighted by us and/or by other applicable 
 This Web site contains HIV prevention messages that may not be appropriate for all audiences.  
   
   
-|   [Back to top](https://www.chw.org/display/router.asp?DocID=34931#top_of_page)  
+|   [Back to top](http://www.chw.org/display/router.asp?DocID=34931#top_of_page)  
 |  |  |   
 ---|---|---  
-[Health Information](https://www.chw.org/display/PPF/DocID/20003/router.asp)    [Programs & Clinics](https://www.chw.org/display/PPF/DocID/20877/router.asp)    [Find a Doctor](https://www.chw.org/display/PPF/DocID/20004/router.asp)    [Maps & Directions](https://www.chw.org/display/PPF/DocID/32979/router.asp)    [Giving & Volunteering](https://www.chw.org/display/PPF/DocID/20180/router.asp)  
-[News & Calendar](https://www.chw.org/display/PPF/DocID/32115/router.asp)    [Research](https://www.chw.org/display/PPF/DocID/32436/router.asp)    [Advocacy & Community](https://www.chw.org/display/PPF/DocID/32791/router.asp)    [Quality](https://www.chw.org/display/PPF/DocID/39522/router.asp)    [Careers](https://www.chw.org/display/PPF/DocID/24766/router.asp)    [Contact Us](https://www.chw.org/display/PPF/DocID/32419/router.asp)
+[Health Information](http://www.chw.org/display/PPF/DocID/20003/router.asp)    [Programs & Clinics](http://www.chw.org/display/PPF/DocID/20877/router.asp)    [Find a Doctor](http://www.chw.org/display/PPF/DocID/20004/router.asp)    [Maps & Directions](http://www.chw.org/display/PPF/DocID/32979/router.asp)    [Giving & Volunteering](http://www.chw.org/display/PPF/DocID/20180/router.asp)  
+[News & Calendar](http://www.chw.org/display/PPF/DocID/32115/router.asp)    [Research](http://www.chw.org/display/PPF/DocID/32436/router.asp)    [Advocacy & Community](http://www.chw.org/display/PPF/DocID/32791/router.asp)    [Quality](http://www.chw.org/display/PPF/DocID/39522/router.asp)    [Careers](http://www.chw.org/display/PPF/DocID/24766/router.asp)    [Contact Us](http://www.chw.org/display/PPF/DocID/32419/router.asp)
