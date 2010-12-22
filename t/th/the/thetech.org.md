@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623014420id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetech.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151453id_/http%3A//www.thetech.org/about/privacy) for the most accurate reproduction.*
 
 # The Tech Museum of Innovation | About Us | Privacy Policy
 
 ## Information Collection and Use
 
-The Tech Museum of Innovation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Tech Museum of Innovation collects information from our users at several different points on our website.
+The Tech Museum is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Tech Museum collects information from our users at several different points on our website.
 
 ## Registration
 
@@ -16,11 +16,11 @@ We request information from the user on our order forms. Here a user must provid
 
 ## Account Information and Email Usage
 
-You can edit your The Tech Museum account information including your email newsletter preferences at any time by visiting the [My Account](http://account.thetech.org/login.aspx) section of our website. 
+You can edit your museum account information including your email newsletter preferences at any time by visiting the [My Account](http://account.thetech.org/login.aspx) section of our website. 
 
 New categories of email newsletters might be added to the [My Account](http://account.thetech.org/login.aspx) preferences page from time to time. Users who visit this page can opt out of receiving future newsletters from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
 
-We reserve the right to send you certain communications relating to The Tech Museum, such as service announcements, administrative messages and our email newsletters, that are considered part of you're the Tech Museum account, while offering you the opportunity to opt out of receiving them by following instructions contained in the messages you receive. 
+We reserve the right to send you certain communications relating to The Tech Museum, such as service announcements, administrative messages and our email newsletters, that are considered part of your account, while offering you the opportunity to opt out of receiving them by following instructions contained in the messages you receive. 
 
 ## Cookies
 
