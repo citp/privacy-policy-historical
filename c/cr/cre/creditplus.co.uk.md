@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620114726id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222083754id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Finance from 7.9% APR – Guaranteed £0 Deposit Car Financing and Refinancing with Creditplus – Car Credit available now
 
-[Creditplus car finance](https://web.archive.org/web/20100620114726id_/http%3A//www.creditplus.co.uk/index.html "Creditplus car finance") [about our loans](https://web.archive.org/web/20100620114726id_/http%3A//www.creditplus.co.uk/about.html) car loan terms & conditions 
+[Creditplus car finance](https://web.archive.org/web/20101222083754id_/http%3A//www.creditplus.co.uk/index.html "Creditplus car finance") [about our loans](https://web.archive.org/web/20101222083754id_/http%3A//www.creditplus.co.uk/about.html) car loan terms & conditions 
 
 Please note that regrettably we are unable to offer car finance to customers located in Northern Ireland, the Isle of Man or the Channel Islands.
 
