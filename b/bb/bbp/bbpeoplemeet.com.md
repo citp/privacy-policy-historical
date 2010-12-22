@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbpeoplemeet.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506004931id_/http%3A//www.bbpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbpeoplemeet.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222103509id_/http%3A//www.bbpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # BBPeopleMeet.com - Privacy Policy
 
