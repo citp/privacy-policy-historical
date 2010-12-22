@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210831id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222142832id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
 
 # Search Engine Marketing Group Privacy Policy
 
@@ -16,3 +16,5 @@ We will only collect the minimum amount of information that is required to provi
 
 
 For questions regarding this privacy policy you may call 281-727-0484 or simply fill out the [contact form](http://sem-group.net/contact-search-engine-marketing-group/) with the words Privacy Policy in the subject line.
+
+[](http://sem-group.net/contact-search-engine-marketing-group/)
