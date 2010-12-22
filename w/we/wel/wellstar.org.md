@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215202254id_/http%3A//wellstar.org/assets/A105E6C8-CD2C-421E-A32E-67971EAFFEEA.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222144950id_/http%3A//www.wellstar.org/assets/A105E6C8-CD2C-421E-A32E-67971EAFFEEA.pdf) for the most accurate reproduction.*
 
 # 
 
