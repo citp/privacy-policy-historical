@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419044737id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222194120id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.*
 
 # ActiveDiner.com© Privacy Statement
 
@@ -10,7 +10,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ####  Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ####  Registration Forms 
 
@@ -37,8 +37,10 @@ This site contains links to other sites. **ActiveDiner** is not responsible for 
 
 ####  Choice/Opt-Out 
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners.  You can contact us [here](https://web.archive.org/web/20090419044737id_/http%3A//www.activediner.com/contactform.cfm). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners.  You can contact us [here](https://web.archive.org/web/20101222194120id_/http%3A//www.activediner.com/contactform.cfm). 
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20090419044737id_/http%3A//www.activediner.com/contactform.cfm). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20101222194120id_/http%3A//www.activediner.com/contactform.cfm). 
