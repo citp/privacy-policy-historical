@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fema.gov privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629130556id_/http%3A//www.fema.gov/help/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fema.gov privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222055702id_/http%3A//www.fema.gov/help/privacy.shtm) for the most accurate reproduction.*
 
 # FEMA: FEMA Privacy Policy
 
@@ -39,4 +39,10 @@ Unauthorized attempts to defeat or circumvent security features, to use the syst
 
 
 
-Last Modified: Thursday, 04-Jun-2009 12:55:37 EDT
+## Social Media
+
+FEMA has been engaging in Web 2.0 tools and on social media sites nationwide as part of its mission to prepare the nation for disasters. To view how FEMA is using Web 2.0 tools and for a complete list of FEMA’s on and off network Web 2.0 tools please see [www.fema.gov/help/social_media.shtm](https://web.archive.org/help/social_media.shtm).
+
+FEMA is not collecting or retaining any privacy information from our use of third party Web 2.0 application. We are however, retaining a copy of all comments posted to our sites as required by our records retention policy and will only be releasing them when required by Federal law. We ask that you do not provide any personally identifiable information such as: a FEMA case number, social security number, or any other information you do not want available to the general public in your comments to FEMA when using these applications. FEMA will attempt to remove any personally identifiable information from these sites, but may not be able to do so until after it has been made publically available. If you choose to post personally identifiable information on any public site you do so at your own risk. FEMA disclaims any liability for any loss or damage resulting from any comments posted on these applications. The privacy policies of all third party sites apply in the collection and dissemination of user data. FEMA encourages all users to read the privacy policies before registering or posting to any application. If you have any comments that you wish to share with FEMA involving personally identifiable information please contact the appropriate [FEMA program](http://faq.fema.gov/cgi-bin/fema.cfg/php/enduser/doc_serve.php?2=home).
+
+Last Modified: Wednesday, 11-Aug-2010 10:53:58 EDT
