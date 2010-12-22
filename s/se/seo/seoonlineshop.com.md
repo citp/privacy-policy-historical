@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seoonlineshop.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613234335id_/http%3A//www.seoonlineshop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoonlineshop.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222192904id_/http%3A//www.seoonlineshop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Seo Online Shop
 
-[](https://web.archive.org/web/20100613234335id_/http%3A//www.seoonlineshop.com/contact-us.php) Privacy Policy 
+[](https://web.archive.org/web/20101222192904id_/http%3A//www.seoonlineshop.com/contact-us.php) Privacy Policy 
 
 At SEOonlineshopping.com, we respect your privacy. You are free to browse any of the web pages without having to reveal your personal details, and we do not collect any personal information without your consent. We also do not place any cookies to track our visitors' behavior. However, when it comes to utilizing any of our services or purchasing our products, we do require some level of identifiable information to provide our services and support. These include your communicable address, phone numbers, credit card details and the like. 
 
