@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526063248id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222194619id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
-# AdSpeed.com - Privacy Statement
-
-### Testimonials
-
-  * > I am a Premium 300 member. So far I am very impressed with your service!
-> 
-> _Ron_  
->  ManualTrafficSurf
-
-  * > AdSpeed has been a very reliable service.
-> 
-> _Samir Delgado_  
-> 
-
-
-
+# Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
 AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](http://www.adspeed.com/Knowledges/188/Content/Privacy_Statement_Ad_Serving.html) served by AdSpeed. 
 
@@ -60,3 +45,18 @@ Our [Terms of Service](http://www.adspeed.com/Knowledges/2/Content/Terms_Service
 By registering as a member of our service, you are agreeing to accept this privacy policy. We reserve the right to modify this policy at any time prior to any notice. It is your own benefit to check for any update of the policy in case we have not yet noticed our members. 
 
 If you have any questions about this privacy statement, or the practices of AdSpeed.com, please contact us.
+
+## Testimonials for our Ad Servers
+
+  * > Banners showed up on my site less than a minute after adding. Beats the heck out of spending a couple days installing a buggy shareware script with little or no support.
+> 
+> _John_  
+> 
+
+  * > Thank you for very good answers! The private label is an excellent idea.
+> 
+> _Gary Cooley_  
+>  2Cooleys
+
+
+
