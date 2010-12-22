@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunherald.com privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629044526id_/http%3A//www.sunherald.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunherald.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222231643id_/http%3A//www.sunherald.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <!-- *** TEMPORARY STYLESHEET *** -->
@@ -230,25 +230,76 @@ var path = breadcrumb.toLowerCase();
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 <script type="text/javascript" src="http://media.sunherald.com/static/scripts/mi/mi_script_scheduler.js"></script>
 <script type="text/javascript" src="http://media.sunherald.com/static/scripts/site.js"></script>
-
- 
- 
 <script type="text/javascript">
-	if (sitelife_is_on && siteLife_master_switch_on) {
-	$(document).ready(function(){
-		document.domain="sunherald.com";
-		myGadgetCom.template = (document.getElementById("ComDiscTemplate")) ? document.getElementById("ComDiscTemplate").innerHTML : '';
-		myGadgetRec.template = (document.getElementById("RecDiscTemplate")) ? document.getElementById("RecDiscTemplate").innerHTML : '';
-		myGadgetAva.userTemplate  = (document.getElementById("userTemplate")) ? document.getElementById("userTemplate").innerHTML : '';
-		myGadgetAva.guestTemplate = (document.getElementById("anonTemplate")) ? document.getElementById("anonTemplate").innerHTML : '';
-		function pluckCallToAction() {requestBatch.BeginRequest(serverUrl, daapiCallback);};
-		new NYX.ieSafeExecution(pluckCallToAction).execute();
-	});
-}
+	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 140;
+
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
  
 
  
+
+
+
+
+
+
+
+    
+
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
+</script>
+
+ 
+
+
+
+
+
 
 <script type="text/javascript" src="http://media.sunherald.com/static/scripts/sectionfront-min.js"></script>
 
@@ -391,7 +442,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
 <script language="JavaScript1.1">
 _krdDartInc++;
 document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/'+src_string+';pos=corner;group=cube;sz=1x1;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sunherald.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=corner;group=cube;sz=1x1;tile=1;ord=1580390042145?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/sunherald.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;pos=corner;group=cube;sz=1x1;tile=1;ord=1580390045653?"></script>
 
 <noscript>
 <A HREF="http://ad.doubleclick.net/jump/'+src_string+';pos=corner;group=cube;sz=1x1;ord='+_krdDartOrd+'?" TARGET="_blank">
@@ -458,7 +509,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
          <div id="headerlinks">
               <a href="http://www.sunherald.com/rss">RSS Feeds</a>
-              <a href="http://sunherald.com/mobile">Mobile Edition</a>
+              <a href="http://m.sunherald.com/sun/index.htm">Mobile Edition</a>
               <a href="http://www.sunherald.com/reg-bin/tint.cgi?mode=edit&amp;version=newsletter">Newsletter</a>
               <!-- <a href="http://www.sunherald.com/138">Subscriber Services</a> -->
               <a href="https://subscriberservices.mcclatchy.com/biloxi/">Subscriber Services</a>
@@ -503,7 +554,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 				<div id="mi_weather" class="tabBody">				
 	             	<link href="http://media.sunherald.com/static/styles/accuweather.css" rel="stylesheet" type="text/css">
 <div id="weathernode" class="weathernode">
-<div id="mi_weather" class="tabBody">  <link href="/static/styles/accuweather.css" rel="stylesheet" type="text/css">  <div id="weathernode" class="weathernode">    <table>      <tbody><tr>        <td class="miWcolOne" valign="bottom" align="center">          <div class="miWicon">            <img id="icon" src="http://media.sunherald.com/static/images/mi/third_party/accuweather/default_lg/35.GIF"><br>            <span class="miWlink"><a href="http://www.sunherald.com/weather">Full Forecast</a></span>          </div>        </td>                <td class="miWcolTwo" valign="bottom">          <div class="miWlocation">            <a id="loc" href="http://www.sunherald.com/weather">Gulfport, MS</a>          </div>                  <div class="miWcurrent">            <span class="miWcurrentData">79°F&nbsp;&nbsp;<a href="http://www.sunherald.com/weather">Partly cloudy</a></span>          </div>          <div>            <span class="miWhi">High: 94°</span> <span class="miWlow">Low: 75°</span>          </div>        </td>      </tr>    </tbody></table>  </div>    </div>
+<div id="mi_weather" class="tabBody">  <link href="/static/styles/accuweather.css" rel="stylesheet" type="text/css">  <div id="weathernode" class="weathernode">    <table>      <tbody><tr>        <td class="miWcolOne" valign="bottom" align="center">          <div class="miWicon">            <img id="icon" src="http://media.sunherald.com/static/images/mi/third_party/accuweather/default_lg/03.GIF"><br>            <span class="miWlink"><a href="http://www.sunherald.com/weather">Full Forecast</a></span>          </div>        </td>                <td class="miWcolTwo" valign="bottom">          <div class="miWlocation">            <a id="loc" href="http://www.sunherald.com/weather">Gulfport, MS</a>          </div>                  <div class="miWcurrent">            <span class="miWcurrentData">74°F&nbsp;&nbsp;<a href="http://www.sunherald.com/weather">Partly sunny</a></span>          </div>          <div>            <span class="miWhi">High: 78°</span> <span class="miWlow">Low: 40°</span>          </div>        </td>      </tr>    </tbody></table>  </div>    </div>
 </div>		
 				</div>
 					
@@ -548,40 +599,53 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 	 
 <div class="block" id="site_search">
 
-	 
-<div id="userTemplate" class="currentUser" style="display: none;">
-	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar" width="35"></a>
 
-	<div id="pluckAvatarControls">
+  <div id="AvatarOutput_dynamicContent" class="currentUser">
+
+<div id="userTemplate" class="currentUser" style="display:none;">
+  <div id="pluckAvatarControls">
 		<div id="top">
 			<span id="pluckWelcomeMsg">Welcome 
 				<script type="text/javascript">
 					var user_run_mode = '';
 					document.write('<a class="pluckUser" href="/reg-bin/tint.cgi?mode=edit">' + account_user_name + '<\/a>');
 				</script>
+
 			</span> 
 		</div>
 		<div id="bottom">
 			<a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">Member Center</a> | 
 			<a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Log Out</a>
 		</div>
-		<div class="clear"></div>
-	</div>
+  </div>
+  <div style="clear: both;"></div>
 </div>
+
 <div id="anonTemplate" class="currentUser" style="display: none;">
-	<img src="http://media.sunherald.com/static/images/mi/pluck/default-user-image.gif" alt="current user avatar" width="35">
-	<div id="pluckAvatarControls">
+  <div id="pluckAvatarControls">
 		<div id="top">
 			<span id="pluckWelcomeMsg">Welcome <span class="pluckUser">Guest</span></span> | <a id="pluckSignIn" href="/static/insite/login.html">Sign In</a>
 		</div>
 		<div id="bottom">
 			<a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register">Become A Member</a>
 		</div>
-	</div>
-	<div class="clear"></div>
+  </div>
+  <div style="clear: both;"></div>
 </div>
-<div id="AvatarOutput_dynamicContent" class="currentUser" style="display: none;"></div>
- 
+
+<script type="text/javascript">
+$(document).ready( function(){
+  $("#anonTemplate").hide();
+  $("#userTemplate").hide();
+   if( 'Guest' == account_user_name ){
+      $("#anonTemplate").show();
+   } else {
+      $("#userTemplate").show();
+   }
+});
+</script>
+</div>
+
 
 	
 	<div id="search_form_wrapper">
@@ -626,6 +690,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
   	<div class="clearing"></div>
   	
 </div><!-- #masthead_wf4 .full_width -->
+
+<div class="clearing"></div>
 
  
 
@@ -737,22 +803,25 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 			</ul>
 		</li>
 
-		<li><a href="http://videos.sunherald.com" rel="nofollow">Multimedia</a>
+		<li><a href="http://www.sunherald.com/oilspill" rel="nofollow">Oil spill</a></li>
+
+<!--		<li><a href="http://videos.sunherald.com" rel="nofollow">Multimedia</a>
 			<ul>
                                <li align="center"> -VIDEOS-</li>
-                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&amp;genre=1186" rel="nofollow">News Videos</a></li>
-                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&amp;genre=1188" rel="nofollow">Sports Videos</a></li>
-                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&amp;genre=1191" rel="nofollow">Your Life Videos</a></li>
-                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&amp;genre=2650" rel="nofollow">Reader Videos</a></li>
+                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&genre=1186" rel="nofollow">News Videos</a></li>
+                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&genre=1188" rel="nofollow">Sports Videos</a></li>
+                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&genre=1191" rel="nofollow">Your Life Videos</a></li>
+                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=1&genre=2650" rel="nofollow">Reader Videos</a></li>
                                <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/upload" rel="nofollow">Upload Videos</a></li>
                                <li align="center"> -PHOTOS-</li>
                                <li><a href="http://www.sunherald.com/414" rel="nofollow">News Galleries</a></li>
                                <li><a href="http://www.sunherald.com/415" rel="nofollow">Sports Galleries</a></li>
                                <li><a href="http://www.sunherald.com/416" rel="nofollow">Your Life Galleries</a></li>
-                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=2&amp;genre=2650" rel="nofollow">Reader Photos</a></li>
+                               <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/grid?class_id=2&genre=2650" rel="nofollow">Reader Photos</a></li>
                                <li><a href="http://videos.sunherald.com/vmix_hosted_apps/p/upload" rel="nofollow">Upload Photos</a></li>
 			</ul>
 		</li>
+-->
                <li><a href="http://www.sunherald.com" rel="nofollow">Sites</a>
                        <ul>
                                <li><a href="http://www.sunherald.com/#sitemap" rel="nofollow">Site Map</a></li>
@@ -776,7 +845,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
      
                 <li class="classNav"><a href="http://www.sunherald.com/classifieds" rel="nofollow">Classifieds</a></li>
 				
-		<li class="classNav"><a href="http://www.sunherald.com/classifieds/real_estate" rel="nofollow">Real Estate</a></li>
+		<li class="classNav"><a href="http://www.sunherald.com/realestate" rel="nofollow">Real Estate</a></li>
 				
 		<li class="classNav"><a href="http://www.sunherald.com/classifieds/jobs" rel="nofollow">Jobs</a></li>
 				
@@ -928,7 +997,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
     
 //Context Parameters
-    ctxt_ad_url = window.location.href;     //context URL
+    ctxt_ad_url = window.location.href.split('?')[0].split('#')[0];     //context URL
     ctxt_ad_url_cat = 'news';     //fallback category name
     ctxt_ad_id = 'news';     //context ID name
     ctxt_ad_keywords = '';     //keywords (URL safe values only)
@@ -952,6 +1021,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
  <script type="text/javascript">
 <!--
 //Required Parameters
+	ctxt_ad_config = '1001507650';     //unique numeric partner id
     ctxt_ad_source = 'npc_mcclatchy_sunherald_t2_ctxt';     //provided by Account Manager
 
 //Context Parameters
@@ -1449,41 +1519,44 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
    <div id="most_read" class="tabBody">
       <ul>
          
-<li><a href="http://www.sunherald.com/2010/06/27/2290912/orange-oil-mass-moves-closer-to.html#storylink=omni_popular">OIL REACHES OUR BEACHES</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2731728/man-shot-to-death.html#storylink=omni_popular">Man shot to death</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2291967/gulfport-man-stabbed-to-death.html#storylink=omni_popular">Gulfport man stabbed to death</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730341/sex-lifes-disappeared-but-porn.html#storylink=omni_popular">Dear Abby: Sex life’s disappeared, but porn movies get play</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2291915/o-s-mayor-angered-by-lack-of-response.html#storylink=omni_popular">Ocean Springs mayor angered by lack of response</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730600/quick-and-easy-recipes-for-christmas.html#storylink=omni_popular">Cook's Exchange: Quick and easy recipes for Christmas</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2293494/most-wanted-found-at-hotel.html#storylink=omni_popular">‘Most wanted’ found at hotel</a></li>
+<li><a href="http://www.sunherald.com/2010/12/22/2731403/hancock-whitney-to-merge-companies.html#storylink=omni_popular">Hancock, Whitney to merge companies</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/28/2294620/ocean-springs-closes-front-beach.html#storylink=omni_popular">Ocean Springs to reopen beaches (Updated 5:40 p.m.)</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730726/kfc-spreads-christmas-cheer-with.html#storylink=omni_popular">KFC spreads Christmas cheer with ‘Festive Feast’</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/26/2291358/gulfport-man-stabbed-to-death.html#storylink=omni_popular">Gulfport man stabbed to death</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730596/start-your-holiday-with-a-breakfast.html#storylink=omni_popular">Down Home: Start your holiday with a breakfast strata</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2293468/taylor-flying-over-sound-in-epa.html#storylink=omni_popular">Taylor meeting with Coast Guard, governor on better response</a></li>
+<li><a href="http://www.sunherald.com/2010/12/20/2729846/rapper-magnolia-shorty-shot-to.html#storylink=omni_popular">Rapper ‘Magnolia Shorty’ shot to death in New Orleans</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2292056/sunherald-tv-oil-reaches-biloxi.html#storylink=omni_popular">SUNHERALD TV: Oil reaches Biloxi Bay and Mississippi Sound</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730709/barbour-defends-integration-remarks.html#storylink=omni_popular">Barbour defends integration remarks</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2293842/boats-docked-because-of-bad-weather.html#storylink=omni_popular">Boats docked because of bad weather on the water Updated 2 p.m.)</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730631/felon-sentenced-for-child-porn.html#storylink=omni_popular">Felon sentenced for child porn with snakes</a></li>
 
-<li><a href="http://www.sunherald.com/2010/06/27/2291920/tons-of-fun-at-crabfest-in-bay.html#storylink=omni_popular">Tons of fun at CrabFest in Bay St. Louis</a></li>
+<li><a href="http://www.sunherald.com/2010/12/21/2730717/volunteers-step-up-for-toddlers.html#storylink=omni_popular">Volunteers step up for toddlers, but program needs $100,000</a></li>
 
 
       </ul> 
    </div>
  
    <div id="most_commented" class="tabBody"> 
+
           
 
-<div id="ComDiscTemplate" style="display: none;">
-	<li class="discoArticle">
-		<a href="@Nyx.PageUrl@" class="pluckDiscoCount">@Nyx.NumberOfComments@</a> <a href="@Nyx.PageUrl@" class="pluckDiscoComImg"><img src="http://media.sunherald.com/static/images/pluck/comment-blue.gif"></a> <a href="@Nyx.PageUrl@" class="pluckDiscoTitle">@Nyx.PageTitle@</a>
-	</li>
+<div id="popularthreads" class="dsq-widget">
+	<script>
+	mi.commenting.displayPopular();
+	</script>
 </div>
-<ul id="ComDiscOutput_dynamicContent" class="discResults"></ul>
 
  
+
+
+
    </div>
                                                                                          
   </div>
@@ -1668,7 +1741,9 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
             <li class="column_list_item"><a href="http://www.legacy.com/sunherald/DeathNotices.asp" rel="nofollow">Obituaries</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/politics" rel="nofollow">Politics</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/state" rel="nofollow">State</a></li>
-            <li class="column_list_item"><a href="http://www.sunherald.com/news/transportation " rel="nofollow">Transportation</a></li>
+            <li class="column_list_item"><a href="http://www.sunherald.com/news/transportation" rel="nofollow">Transportation</a></li>
+            <li class="column_list_item"><a href="http://www.sunherald.com/neighbors" rel="nofollow">Neighbors</a></li>
+            <li class="column_list_item"><a href="http://videos.sunherald.com/vmix_hosted_apps/p/upload" rel="nofollow">Upload photos</a></li>
            </ul>
     </div>
     <div class="column">
@@ -1701,7 +1776,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
             <li class="column_list_item"><a href="http://www.sunherald.com/saints" rel="nofollow">Saints</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/scores" rel="nofollow">Scoreboard</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/scores_more" rel="nofollow">Scores &amp; More</a></li>
-            <li class="column_list_item"><a href="http://www.sunherald.com/seawolves" rel="nofollow">Sea Wolves</a></li>
+            <li class="column_list_item"><a href="http://www.sunherald.com/surge" rel="nofollow">Surge</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/goldeneagles" rel="nofollow">Southern Miss</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/tennis" rel="nofollow">Tennis</a></li>
             <li class="column_list_item"><a href="http://www.sunherald.com/thats_racin" rel="nofollow">That's Racin'</a></li>
@@ -1775,7 +1850,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
             <li class="column_list_item"><a href="http://www.sunherald.com/blogs" rel="nofollow">Blogs</a></li>
             <!--li class="column_list_item"><a href="/" rel="nofollow">Message Boards</a></li-->
             <li class="column_list_item"><a href="http://www.sunherald.com/columnists" rel="nofollow">Columnists</a></li>
-           </ul>
+            <li class="column_list_item"><a href="http://forums.sunherald.com" rel="nofollow">Forums</a></li>
+</ul>
     </div>
     <div class="column">
          <div class="column_title">Marketplace</div>
@@ -1797,7 +1873,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
             <li class="column_list_item"><a href="http://www.biloxi.com" rel="nofollow">Biloxi.com</a></li>
             <li class="column_list_item"><a href="http://www.beachblvdmagazine.com" rel="nofollow">beachblvd</a></li>
             <li class="column_list_item"><a href="http://newspaperads.sunherald.com/SS/Page.aspx?&amp;secid=41589&amp;pagenum=1&amp;facing=false" rel="nofollow">Physician's and Healthcare Directory</a></li>
-            <li class="column_list_item"><a href="http://www.sunherald.com/280/story/1084100.html" rel="nofollow">Buy Local in South Mississippi</a></li>
+            <li class="column_list_item"><a href="http://www.sunherald.com/2010/08/05/2385795/buy-local-and-keep-your-money.html" rel="nofollow">Buy Local in South Mississippi</a></li>
            </ul>
     </div>
   <div class="clear"></div>
@@ -1889,7 +1965,7 @@ mistats.adposition='';
 <script language="JavaScript" type="text/javascript" src="http://media.sunherald.com/mistats/products/pubsys.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://media.sunherald.com/mistats/finalizestats.js"></script>
 
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmbiloxi/1/H.10--NS/0?pageName=Section:%20Privacy%20Policy&server=www.sunherald.com&channel=Privacy%20Policy&c1=http%26%2358;%26%2347;%26%2347;www.sunherald.com%26%2347;140%26%2347;index.html&c3=Section&c4=&c6=SUN%7CSH&c28=&h1=SUN%7CSUNHERALD%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmbiloxi%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy&server%3Dwww.sunherald.com&channel%3DPrivacy%20Policy&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.sunherald.com%26%2347%3B140%26%2347%3Bindex.html&c3%3DSection&c4%3D&c6%3DSUN%7CSH&c28%3D&h1%3DSUN%7CSUNHERALD%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
  <!-- /mi/request/site/media_domain, format=>"[$analytics]", false_format=>' ' -->
