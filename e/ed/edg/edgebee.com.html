@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edgebee.com privacy policy that was archived on 2009-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090607071137id_/http%3A//www.edgebee.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edgebee.com privacy policy that was archived on 2010-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222093334id_/http%3A//www.edgebee.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>
@@ -21,10 +21,23 @@
     <script type="text/javascript" src="/static/scripts/jquery.simplemodal-1.1.1.min.js"></script>
     <script type="text/javascript" src="/static/scripts/jquery.cookie.min.js"></script>
     <script type="text/javascript" src="/static/scripts/jquery.cycle.min.js"></script>
-    <script type="text/javascript" src="/static/scripts/swfobject.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
 
     <!-- RECaptcha -->
+    
+<!--[if lte IE 6]>
+    <style type="text/css">
+        .package a.buyButton {
+            display: block;
+            position: static;
+            margin-top: 10px;
+            float: none;
+            font-size: 1.2em;
+            width: 100px;
+        }
+    </style>
+<![endif]-->
 
     <script type="text/javascript">
         session = 0;
@@ -46,7 +59,8 @@
                     <li><a href="/about">About us</a><span class="menuSep"> | </span></li>
                     <li><a href="/news">News</a><span class="menuSep"> | </span></li>
                     <li><a href="/community">Community</a><span class="menuSep"> | </span></li>
-                    <li><a href="/register">Sign up</a></li>
+                    <li><a href="/register">Sign up</a><span class="menuSep"> | </span></li>
+                    <li><a href="/support">Support</a></li>
                 </ul>
             </div>
         </div>
@@ -124,38 +138,54 @@
     <!-- used to make room for the #header -->
     </div>
 
+    <div id="fpWarning" style="display: none">
+        Your Adobe® Flash® Player plugin is too old, Edgebee games require the latest version of the plugin so it must be updated.<br><br>Please click this box to initiate Adobe® Express Install or just follow the link below to install the latest version.<br><br><span style="margin: 0 auto"><a href="http://www.adobe.com/go/getflashplayer" target="_blank" border="0"><img src="http://www.adobe.com/macromedia/style_guide/images/160x41_Get_Flash_Player.jpg"></a></span>
+    </div>
+
+    <div id="fpExpress" style="display: none">
+        <div id="fpExpressContent"></div>
+    </div>
+
+    <script>
+    $(document).ready(function(){
+        //check flash player version
+        if(!swfobject.hasFlashPlayerVersion("9.0.124")){
+            $("#fpWarning").css("display", "block");
+            $("#fpWarning").css("opacity", 0);
+            $("#fpWarning").animate({opacity: 1}, 1500);
+            if(swfobject.hasFlashPlayerVersion("6")){
+                $("#fpWarning").click(function(){
+                    $("#fpWarning").css("display", "none");
+                    $("#fpExpress").css("display", "block");
+                    swfobject.showExpressInstall({data:"/expressInstall.swf", width:"260", height:"160"},
+                                                 {}, "fpExpressContent", cancelExpressInstall);
+                });
+            }
+        }
+    });
+    function cancelExpressInstall(){
+        $("#fpExpress").css("display", "none");
+        $("#fpWarning").css("display", "block");
+        $("#fpWarning").css("opacity", 0);
+        $("#fpWarning").animate({opacity: 1}, 1500);
+    }
+    </script>
+
 
 <div id="left">
-     <h3>News headlines</h3>
-<ul class="headlines">
-    <li>
-        <a href="news?id=6">Games portal renamed</a>
-    </li>
-    <li>
-        <a href="news?id=5">Sorcery Quest episode 2 released</a>
-    </li>
-    <li>
-        <a href="news?id=4">Three new classes in Sorcery Quest</a>
-    </li>
-    <li>
-        <a href="news?id=3">New Edge Arcade portal launched</a>
-    </li>
-    <li>
-        <a href="news?id=2">Edge Arcade Launches!</a>
-    </li>
-</ul>
-
+     <div class="attract">Play <b>free multiplayer games</b> from any browser, anywhere, with <b>no required downloads</b>!</div>
 <br>
-<a href="/news" class="button">All news...</a>
-<br><br><br>
+<div class="statistics">
+Users: 232670<br>
+Online: 395<br>
+Newest member: x350<br>
+</div>
+<br>
 
 <br><br>
-<div class="statistics">
-Users: 17388<br>
-Online: 50<br>
-Newest member: ahall1989<br>
-</div>
-
+<!--div style="background-color:white;">
+<iframe src="http://www.facebook.com/plugins/likebox.php?id=144878975537307&amp;width=170&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:170px; height:255px;" allowTransparency="false"></iframe>
+</div-->
 </div>
 
 <div id="middle">
@@ -307,7 +337,8 @@ Policy</b></font></font></p>
     <li><a href="/terms">Terms of use agreement</a><span class="menuSep"> | </span></li>
     <li><a href="/privacy">Privacy policy</a><span class="menuSep"> | </span></li>
     <li><a href="/forums">Forums</a><span class="menuSep"> | </span></li>
-    <li><a href="/wiki">Wiki</a></li>
+    <li><a href="/wiki">Wiki</a><span class="menuSep"> | </span></li>
+    <li><a href="http://www.twitter.com/edgebeestudios"><img src="http://twitter-badges.s3.amazonaws.com/t_mini-b.png" alt="Follow edgebeestudios on Twitter"></a></li>
     </ul>
     <div class="copyright">© 2008 Edgebee Studios inc. All Rights Reserved. Sorcery Quest, Edgebee and the Edgebee logo are trademarks or registered trademarks of Edgebee Studios inc. in the U.S. and/or other countries</div>
 </div>
