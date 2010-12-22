@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susanireland.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010941id_/http%3A//susanireland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susanireland.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222165154id_/http%3A//susanireland.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Susan Ireland's Resume Site
 
