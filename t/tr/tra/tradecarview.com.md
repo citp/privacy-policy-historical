@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradecarview.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615165748id_/http%3A//www.tradecarview.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradecarview.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222023045id_/http%3A//www.tradecarview.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Japan car import and Japanese used cars exports [ tradecarview ]
 
