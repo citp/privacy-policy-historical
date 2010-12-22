@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcaremagic.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623061903id_/http%3A//www.healthcaremagic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaremagic.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222075713id_/http%3A//www.healthcaremagic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HealthcareMagic
 
@@ -17,7 +17,7 @@ Thank you for visiting HealthcareMagic. Your privacy is important to us. To bett
 4\. In the case of danger to self or others and in the case of any legal investigation, HealthcareMagic will have the right to share your information with the law enforcement authorities. 
 
    
-5\. Please remember that any information you reveal, including personally identifiable information in a public forum such as in a discussion forum or review, is not subject to this Privacy Policy and can be seen by third parties unrelated to HealthcareMagic. It is therefore important that you carefully consider what information you disclose in these areas.
+5\. Please remember that any information you reveal, including personally identifiable information in a public forum such as in a discussion forum or review, is not subject to this Privacy Policy and can be seen by third parties unrelated to HealthcareMagic. It is therefore important that you carefully consider what information you disclose in these areas. HealthcareMagic will not be responsible for the breach of privacy if you reveal your personally identifiable information on any section and service of the website without being asked for it explicitly by any HealthcareMagic personnel. 
 
    
 6\. HealthcareMagic's websites contain links to other sites. Please observe that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website collecting personally identifiable information.
