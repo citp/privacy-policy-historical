@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codebasehq.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611091107id_/http%3A//www.codebasehq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codebasehq.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222095032id_/http%3A//www.codebasehq.com/privacy) for the most accurate reproduction.*
 
 # Codebase - Privacy Policy
 
-To use Codebase you must agree to this privacy policy. When you signed up you agreed to this policy. We collect the following information automatically and it is only archived in system log files unless specified:
+To use Codebase you must agree to this privacy policy. When signing up, you agree to this policy. We collect the following information automatically and it is archived in system log files unless specified:
 
   * e-mail addresses of those who communicate with us by e-mail
   * IP addresses and page views for all users of the Codebase application and the Codebase website
@@ -15,6 +15,7 @@ To use Codebase you must agree to this privacy policy. When you signed up you ag
   * We will make every effort to maintain the security of all information stored within your Codebase account
   * We will comply with any legitimate requests from law enforcement agencies to disclose certain information to them to assist with their investigations
   * aTech Media Limited own all hardware, software, databases and all rights to the Codebase application, you retain all rights to any information you add or upload to your Codebase account, including repositories.
+  * We may occasionally send newsletters to existing customers by email or post
 
 
 
@@ -37,4 +38,4 @@ Codebase does not store your payment card details on it's system and Codebase st
 
 ### Feedback
 
-Please send any comments, suggestions or complaints to support@codebasehq.com
+Please send any comments, suggestions or complaints to support@codebasehq.com.
