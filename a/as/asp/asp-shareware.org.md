@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413232611id_/http%3A//www.asp-shareware.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222020122id_/http%3A//www.asp-software.org/policy.asp) for the most accurate reproduction.*
 
-# privacy - Association of Shareware Professionals
+# privacy - Association of Software Professionals
 
 **The web sites and services covered by this Policy**  
 We currently operate the following web sites (the "Sites"): 
@@ -16,8 +16,7 @@ In addition, we own other domain names (e.g. www.aspshareware.org ) that may red
 From time to time, we may add new sites that may not be listed above, but they will provide a link to this Privacy statement and will be governed by its terms. 
 
 **Information Logged Automatically**  
-The ASP maintains web logs to help diagnose problems with our server and to administer our web site. This information is primarily used to track page traffic, search phrases used to find our site, and browsers or operating systems used so we can better serve our visitors. This information is not made public.   
-
+The ASP maintains web logs to help diagnose problems with our server and to administer our web site. This information is primarily used to track page traffic, search phrases used to find our site, and browsers or operating systems used so we can better serve our visitors. This information is not made public. 
 
 **Information on Cookies**  
 ASP web sites may contain "cookies." A cookie is a piece of data that is sent to your browser, which will store the cookie on your computer if your browser is enabled to accept cookies.   
@@ -41,7 +40,7 @@ Company Name, Public Phone Number, Public Fax Number, Public Email Address, Webs
 
 **Opt-out, Reviewing and Changing Personal Data**  
 Our site provides members the opportunity to opt-out of receiving communications from us at the point where we request membership information.   
-Members can review or change their membership and opt-out information by going to the members only area and selecting the [Change my information](http://members1.asp-shareware.org/updatemember1.asp) link. 
+Members can review or change their membership and opt-out information by going to the members only area and selecting the [Change my information](http://members.asp-software.org/updatemember1.asp) link. 
 
 **Credit Card Information**  
 The ASP does not disclose credit card account information provided by its members. When members choose to pay using their credit cards, the ASP submits the information needed to obtain payment to the appropriate services. 
@@ -50,7 +49,7 @@ The ASP does not disclose credit card account information provided by its member
 The ASP is committed to protecting your privacy. We will not sell, rent, or otherwise disclose or share your email address or any other personal information to any third party without first obtaining your explicit consent. 
 
 **Contact Information**  
-If you have questions or suggestions regarding this Privacy Statement, the practices of this site, or your dealings with our web sites, please feel free to contact the ASP using the information provided on our [Contact Information page.](http://www.asp-shareware.org/contact.asp)
+If you have questions or suggestions regarding this Privacy Statement, the practices of this site, or your dealings with our web sites, please feel free to contact the ASP using the information provided on our [Contact Information page.](http://www.asp-software.org/contact.asp)
 
 **Consumer Rights Information**  
 California Civil Code Section 1789.3  
