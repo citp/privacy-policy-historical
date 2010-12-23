@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114225601id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223102532id_/http%3A//www.bikereg.com/privacy.aspx) for the most accurate reproduction.*
 
 # BikeReg.com - online cycling event registration
 
@@ -34,11 +34,11 @@ Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-For removing information from our database to not receive future communications or to no longer receive our service, you can send email to info@BikeReg.com.
+For removing information from our database to not receive future communications or to no longer receive our service, you can send email to [Info@BikeReg.com](mailto:Info@BikeReg.com).
 
 Correct/Update
 
-To change and modify information previously provided, visit http://www.BikeReg.com/ or email info@BikeReg.com.
+To change and modify information previously provided, visit http://www.bikereg.com or email [Info@BikeReg.com](mailto:Info@BikeReg.com).
 
 Contacting the Web Site
 
@@ -48,6 +48,5 @@ Customer Service
 BikeReg.com  
 5 Strong Avenue, Suite 6  
 Northampton, MA 01060  
-info@BikeReg.com  
+[Info@BikeReg.com](mailto:Info@BikeReg.com)  
 (888) 956-9560 
-
