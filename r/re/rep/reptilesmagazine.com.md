@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327184557id_/http%3A//www.bowtieinc.com/bowtieinc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223140435id_/http%3A//www.bowtieinc.com/bowtieinc/privacy_policy.html) for the most accurate reproduction.*
 
 # BowTie Inc.
 
@@ -32,7 +32,7 @@ The BowTie Websites use cookies, which are small pieces of non-personal informat
 
 We may use third-party advertising companies to serve or display ads on the BowTie Websites. These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous. 
 
-Finally, we may also allow third parties to collect aggregate and other anonymous information about our visitors through the BowTie Websites. Should we begin allowing third parties to collect personally identifiable information about visitors to the BowTie Websites, we will inform visitors of these activities at the location of the collection. 
+Finally, we may also allow third parties to collect aggregate and other anonymous information about our visitors through the BowTie Websites. [Click here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web site. Should we begin allowing third parties to collect personally identifiable information about visitors to the BowTie Websites, we will inform visitors of these activities at the location of the collection.
 
 **HOW WE USE COLLECTED INFORMATION**
 
@@ -68,7 +68,7 @@ Personally identifiable information that you disclose in a public area of the Bo
 
 **PRIVACY CONCERNS AND CHILDREN**
 
-The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old. We do not knowingly accept personally identifiable information from anyone under 13. Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/web/20100327184557id_/http%3A//www.bowtieinc.com/bowtieinc/terms_of_use.html). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians. Parents: if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties. Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums. 
+The BowTie Websites, including all public discussion forums, are intended for those who are at least 13 years old. We do not knowingly accept personally identifiable information from anyone under 13. Children under 13 are not permitted to use our public discussion forums or otherwise provide us with any personally identifiable information, as detailed in our [Terms of Use](https://web.archive.org/web/20101223140435id_/http%3A//www.bowtieinc.com/bowtieinc/terms_of_use.html). Likewise, those under the age of 18 are prohibited from making purchases, including subscriptions, on the BowTie Websites. Children under 18 should only use the BowTie Websites under the supervision of their parents or guardians. Parents: if your children disclose information about themselves in our public discussion forums, they may get unsolicited messages from other parties. Accordingly, you should discourage them from disclosing personally identifiable information in such discussion forums. 
 
 **CHANGES TO OUR PRIVACY POLICY**
 
