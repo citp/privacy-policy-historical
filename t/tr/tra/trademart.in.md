@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114155447id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223180300id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
 
-# Trademart.in - B2B Trade Directory,Indian Exporters Manufacturers,Buyers Importers Directories,Sellers Suppliers,India
+# Web Designing Solutions,Web Designing Services,Web Designing Applications,Web Designing Company,Web Designing Delhi,Web Designing India
 
 Trademart is completely committed to protect its users' privacy. We request you to read this privacy policy before or as soon as you start using Trademart.in. As soon as you use this website, you agree to our Privacy Policy defined below. The 'privacy policy' will help you understand how your personal and business information will be managed at Trademart.in, as you use our service for you business benefits. 
 
