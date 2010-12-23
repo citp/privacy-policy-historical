@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514082424id_/http%3A//www.cargill.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223095725id_/http%3A//www.cargill.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Cargill: Privacy
 
