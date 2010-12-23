@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwideworker.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514201849id_/http%3A//www.worldwideworker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwideworker.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223063328id_/http%3A//www.worldwideworker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Worldwideworker.com - The site for energy jobs
 
@@ -15,7 +15,12 @@ This statement also applies generally to all websites operated by Worldwideworke
 **Types and Uses of Personal Information**  
 If you use this website, personally identifiable information about you may be collected and processed by Worldwideworker employees and registered Employers. In general, we only collect such information (such as your name, address, phone number, e-mail address, CV / resume and type of business) when you knowingly provide it to us. Additionally, Worldwideworker may automatically collect or process personally identifiable data (such as your Internet domain or IP address) as part of the operation of this website or during the course of your activities on or use of this website. 
 
-Your information is used by Worldwideworker to allow optimal employment and recruitment services as is the purpose of the agreement between the User and Company. Part of this is communications with Users (like job alert emails or mailings about new products), carrying out market research, analyzing, producing and marketing User profiles . 
+Your information is used by Worldwideworker to allow optimal employment and recruitment services as is the purpose of the agreement between the User and Company Part of this is communications with Users, such as:  
+\- Job alert emails automatically or manually sent when a new job wholly or partially matching your profile is posted  
+\- Mailings about new products, or Recruitment Events, or potential job opportunities.  
+\- Mailings carrying out market research, analysis and marketing  
+\- Mailings containing Employer information and Employer Branding  information from Worldwideworker's Customers  
+\- Other relevant Job & Company related information which may be usefull for Users
 
 In nearly all cases this data may be collected or processed by, and transferred to, Worldwideworker facilities in the Netherlands and in other countries where Worldwideworker does business; the data is then subject to the legal systems of those countries. By using this website (which resides in part on servers located in the Netherlands), you unambiguously consent to any collection, processing, transfer or use of any personal data. If you do not consent to please discontinue use of this website.
 
