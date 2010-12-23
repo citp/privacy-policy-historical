@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2010-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100426160049id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223201436id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
