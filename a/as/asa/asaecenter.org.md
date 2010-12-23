@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asaecenter.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020419id_/http%3A//www.asaecenter.org/content.cfm%3FItemNumber%3D8088%26navItemNumber%3D16215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asaecenter.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223055035id_/http%3A//www.asaecenter.org/content.cfm%3FItemNumber%3D8088%26navItemNumber%3D16215) for the most accurate reproduction.*
 
-# ASAE and The Center for Association Leadership - Privacy Notice
-
-## Privacy Notice
+# Privacy Notice - ASAE
 
 ASAE & The Center for Association Leadership respects the privacy of its members and other visitors to its Web site. ASAE & The Center strongly believes that if electronic commerce and online activities are to flourish, consumers must be assured that information provided online is used responsibly and appropriately. To protect online privacy, ASAE & The Center has implemented the following policy.
 
