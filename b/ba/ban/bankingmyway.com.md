@@ -1,67 +1,105 @@
-> *The following text is extracted and transformed from the bankingmyway.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522170855id_/http%3A//www.bankingmyway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingmyway.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223123718id_/http%3A//www.bankingmyway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get the best rates on mortgage, home equity loans, CD, money markets and checking accounts | BankingMyWay
 
 Privacy Policy 
 
-BankingMyWay.com, LLC ('BankingMyWay'), values the privacy of each user who accesses our website. We have adopted this Internet Privacy and Security Policy ('Policy') to disclose our data collection and disclosure policies and practices for this website and all related web pages (the 'Site').
+Last Update: July 21, 2010
 
-**Consent**
+TheStreet, Inc. (“TheStreet”) shares your concern about the protection of your personal information online.  This is our Privacy Policy regarding the information we collect on our web sites.  Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page for your review.
 
-By using the Site, you consent to this Policy. If you do not consent to this Policy, please refrain from use of the Site. All information gathered from the Site, including any information specifically relating to you, will be stored and processed in the United States. If you access the Site from a location other than the United States, your use of the Site constitutes consent to the transfer of your information to the United States.
+Questions or comments regarding this policy should be directed to [privacy@thestreet.com](mailto:privacy@thestreet.com).
 
-**Third Party Sites**
+The websites covered by this policy are: TheStreet, MainStreet.com, Stockpickr.com, Rate-Watch.com and BankingMyWay.com. 
 
-The Site may contain links to other websites over which we have no control. BankingMyWay is not responsible for the privacy practices or policies of other websites and entities, even if another website is accessed or linked to or from the Site. We encourage you to review the privacy policies and terms and conditions of such websites so that you can understand how those entities collect, use, and share your information. This Policy applies only to the Site and information that BankingMyWay collects on this Site. The Policy does not apply to any information that BankingMyWay may collect by alternative means or media.
+**Information Gathered and Tracked by TheStreet**
 
-**Collection and Use of Information**
+We gather two types of data about our users: personal information and tracking information.
 
-Personal Information. BankingMyWay collects personal information from users only on a voluntary basis. When purchasing goods and services from the Site, we ask each user to provide items such as the user's name, address, e-mail address, telephone number, facsimile number, and credit card information. Each purchaser will have a username and password associated with their personal information.
+**Personal Information**
 
-We use your personal information to provide certain products and services you request through the Site, to operate and improve the Site, to improve existing or introduce new services, and to create a positive user experience. From time-to-time, we may also use information we gather to inform you of new products or services; however you may opt-out of such communications if you prefer not to receive them. You may also opt out of any opt-in email lists to which you subscribed. To opt-out of any such email communications from BankingMyWay, please follow the opt-out instructions in the email or send your request to opt-out to [mailto:info@bankingmyway.com](mailto:info@bankingmyway.com)
+Personal information is provided by users when registering as a member of TheStreet, our free flagship site, when registering as a subscriber to one of our premium subscription services, and voluntarily at certain other points, such as entering contests or completing surveys.  We will always provide a secure area of our sites for you to enter your information, but if you prefer, you may talk offline to a customer service representative and provide the required information by email at [members@TheStreet](mailto:members@thestreet.com).com, or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
 
-We will use telephone numbers only to contact you with information regarding purchases or other requests.
+Registering for Membership on TheStreet
 
-Non-Personal & Anonymous Information. Regardless of whether you register with the Site, BankingMyWay collects non-personal and anonymous information from all our users to be used in an aggregate fashion. This information helps us to determine how we can create a better experience for our users. Accordingly, BankingMyWay collects system-related information (such as an IP address, browser type, operating system type, and pages accessed) to be used for system administration purposes, to help diagnose problems with our servers, to monitor traffic patterns, to determine which services are used most frequently, and to assess site usage.
+Currently, we do not require users to become members of TheStreet in order to have access to the free commentary, analysis and news available on TheStreet.com.  However, if you would like to receive one or more of our free email newsletters, comment on articles, access our free portfolio tool or use certain other parts of our websites, we require you to [register here](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) to become a member.
 
-**Disclosure of Your Information**
+In order to register, you will have to supply us with your email address and choose a unique User Name and Password. You will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
 
-BankingMyWay does not sell or rent your personal information to third parties; however, BankingMyWay may share your personal information with third parties as explained in this Policy and as further described in our Notice of Privacy Practices.
+Subscribing to Premium Services
 
-To provide products or services you request, BankingMyWay shares your personal information with third parties in an effort to satisfy your request. For example, if you wish to purchase products or services through the Site, we may share your personal information with suppliers so that your purchase can be processed. We may also disclose your personal information to entities employed to perform functions on our behalf.
+If you would like access to one or more of our premium subscription-based services, you first must [register](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) as a member of TheStreet as described above.  Then, on the subscription registration page for the premium service you are interested in, you will need to supply us with the information specified to activate your free trial or paid subscription. This may include credit card or other payment account information which we maintain in encrypted form on secure servers.
 
-If one of BankingMyWay's business lines or the entire business is acquired or transferred, whether by merger, consolidation or purchase of a substantial portion of assets, BankingMyWay may disclose and transfer your personal information to such third party. In addition, if BankingMyWay becomes the subject of a bankruptcy or insolvency proceeding, whether voluntary or involuntary, BankingMyWay or its trustee in bankruptcy may sell, assign, license or otherwise transfer your personal information in a transaction approved by the appropriate court.
+Other Personal Information Collection:
 
-BankingMyWay may disclose your personal information to third parties when we believe, in good faith and in our sole discretion, that such disclosure is reasonably necessary to: (a) enforce or apply the terms of this terms and conditions of this Site; (b) comply with legal or regulatory requirements; (c) protect the rights, property or safety of BankingMyWay, our users or other third parties; or (d) prevent a crime or protect national security.
+· Portfolio Tool - We provide a free portfolio tool which registered members of TheStreet can use to stay current on stocks in their portfolio. Participant’s portfolio information is kept confidential.
 
-BankingMyWay may disclose de-identified aggregate information to its clients, business partners, merchants, advertisers, potential advertisers, investors, potential buyers and other third parties if BankingMyWay deems such disclosure, in its own discretion, to have sound business reasons or justification.
+· Blogs \- We offer blogs featuring running commentary throughout the trading day by some of our most popular contributors.  These blogs allow subscribers to respond to a blogger’s commentary or to another subscriber’s post.  Access to some blogs requires a paid subscription to one of our premium services.  We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment.  Please note that information submitted to the blogs will be available for any user of that service to read, and is no longer private.
 
-**Security of Your Information**
+· Surveys/Polls - At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, for example, your investment experience or your reaction to a particular article.  Because information obtained in these surveys is connected with individual subscribers and is used internally or by third-party partners to better market our services, participation is voluntary.  In addition, some columnists will on occasion take polls of their readers.  Such polls are solely for the editorial use of the individual columnists, and participation is voluntary. ****
 
-BankingMyWay saves your personal information in a secure environment so that you can easily use our services upon return visits. BankingMyWay may retain information we gather about you indefinitely.
+· Contests and Sweepstakes - We may offer contests or sweepstakes in which certain personal information is required for registration, for purposes of verifying the entrants’ identities and notifying the winners.  If the contest or sweepstakes is being administered or sponsored by a third party, this information will be disclosed to that third party.  However, entrants may select contest names distinct from their User Names, and the information is not connected with their User Names.
 
-We employ encryption technology in an attempt to prevent personal information from being intercepted during transmission over the Internet. Specifically, we use both Secure Socket Layer (SSL) based technologies and TripleDES encryption. Although BankingMyWay has implemented various measures to help protect your information, no technical measures are guaranteed to completely prevent unauthorized access, use, or disclosure, and BankingMyWay makes no such guarantees.
+**Tracking Information**
 
-Your account profile is password protected. Only you and any person to whom you disclose your password can access and modify your profile. Accordingly, you have the responsibility to protect and maintain the confidentiality of your password.
+Tracking information is automatically collected about all visitors to our sites. This information consists of both individual and aggregated tracking information and is automatically gathered using “cookies.”  A cookie is a small data file containing information, such as a user’s login name, that is written to the user’s hard drive by a web server and used to track the pages visited.
 
-**Cookies**
+We use cookies in several ways to track user behavior.  Cookies store visitors’ preferences and past activity in order to provide better service when visitors return. They are also used to customize the web page content on visitors’ browser type or other information that the visitor sends.  The information we gather on an individual basis is used for internal purposes only, such as accessing a member’s account information.  We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on our sites, and to provide anonymous reporting of usage for internal and external clients.  In all cases, cookies used by TheStreet are encoded and contain a unique digital signature to prevent tampering.  They do not contain user passwords. We also employ technology that is commonly referred to as “action tags” (also known as “web beacons,” “scripts” or “one pixel .gif files”) to measure the effectiveness of our advertisements. ** **
 
-The Site uses cookies. A cookie is a small text file that is recorded on your hard drive by a web page server. It is not used to deliver viruses or other harmful programs to your computer. Rather, cookies enable BankingMyWay to recognize a user without requiring the user to repeatedly log in when using the Site or other BankingMyWay websites. Additionally, cookies allow BankingMyWay to monitor traffic patterns and site usage, which help make the Site more useful.
+In addition to cookies placed by TheStreet or its agents, as described above, advertisers and third-party advertising vendors, including Google, that serve ads onto our web sites may use their own cookies or other tracking technologies. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors. Additionally, such third party advertising vendors, including Google, show our ads on sites on the Internet.  These companies utilize certain technologies including cookies to deliver targeted advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites.  If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
 
-Please note that most browsers can be set to accept or decline cookies. You also may be able to modify your browser setting to notify you each time a cookie is created and permit you to accept or decline cookies on an individual basis or to accept cookies from websites that meet certain disclosure and use specifications. However, please be advised that declining cookies may hinder performance of the Site and thereby negatively impact your experience using the Site if cookies are ever used on the Site.
+You can control your browser’s settings regarding cookies by selecting “Internet Options” or “Preferences” in the menu bar of your browser.  This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether.  However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on.
 
-Anonymous aggregate information collected on the Site may be used to provide advertisements of products or services that may interest you. When you click on any of these advertisements, a cookie may be placed on your computer by a third party. Use of this cookie would be subject to the third party's privacy policies; however, please note that these third parties and third party advertisers would not have access to BankingMyWay cookies placed on your computer. Children The Site is not intended for children. BankingMyWay does not knowingly or specifically collect personal information from users under 18 years of age or authorize such users to use the Site or BankingMyWay services. However, adults with custodial care of a minor may use the Site for entering a purchase order on behalf of the minor. If BankingMyWay becomes aware that it has collected personal information from a user under 18 years of age, it retains the right to take steps to delete such information from its database.
+**USE OF THE INFORMATION**
 
-**Policy Changes**
+TheStreet uses the personal information and tracking information obtained from its users as stated in this Privacy Policy, and for the following purposes:
 
-We reserve the right to change this Policy at any time and for any reason. In particular, BankingMyWay may modify this Policy from time-to-time to reflect changes in the way we collect, use or disclose information or to reflect changes in privacy laws, regulations and/or industry standards. We reserve the right to make the revised policy effective for information we already have about you as well as information received in the future. Accordingly, we encourage you to review this Policy from time to time in the future. Your continued use of the Site following changes to this Policy indicates your acceptance of those changes.
+· To enhance users’ experiences on our sites, including the display of customized content and advertising;
 
-**Applicable Law; User Terms**
+· To improve our content;
 
-This Policy is governed by the laws of the State of Wisconsin, without regard to conflicts of law principles. This Policy is further incorporated into by reference and made an integral part of the BankingMyWay Terms and Conditions of Website Use (&quot;Terms&quot;) that you have accepted in accessing this Site. All disputes arising hereunder shall be resolved in accordance with the dispute resolution procedures set forth in the Terms.
+· To notify visitors about updates to our web sites;
 
-**Viewing Information; Changes**
+· To maintain and improve our websites; and
 
-You may view your personal information online through your individual account. You may change your personal information by editing your account online or by contacting us at [info@bankingmyway.com](mailto:info@bankingmyway.com)
+· To ensure the technical functioning of our web sites.
 
-Please feel free to contact us with questions and comments regarding this Policy at [mailto:legal@bankingmyway.com](mailto:legal@bankingmyway.com)
+**Information Sharing**
+
+TheStreet does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:
+
+· In response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators; 
+
+· We provide the information to our subsidiaries and affiliated companies;
+
+· We provide the information on a confidential basis to nonaffiliated companies we engage as contractors or agents to perform services for us, such as maintaining software, sending direct mail or administering a sweepstakes or contest.  Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, and pursuant to confidentiality obligations;
+
+· If we sell or otherwise transfer substantially all of our assets related to any web site that we own or operate and any product or service that we offer. In that event, we will require such third party to honor our current Privacy Policy, until the third party provides you with notice of changes to our Privacy Policy and permits you to exercise any rights you may have under applicable law to limit disclosures of information about you;
+
+· We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or to third parties with whom we have joint marketing agreements;
+
+· We may share with third parties certain pieces of [aggregated, non-personal information](http://www.google.com/privacy_faq.html#toc-terms-aggregated-info), such as the number of users who clicked on a particular link or how many users clicked on a particular advertisement. Such information does not identify you individually; ****
+
+· If you are a registered member of TheStreet, we use your email address to send you free email newsletters containing selected stories, market information, advertisements and links to our sites.  You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account or contacting our customer service department by email at [members@thestreet](mailto:members@thestreet.com).com or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST;
+
+· If you are a subscriber to premium services, we use your email address, postal address or fax number, as applicable, to deliver our premium products and services.  You can view your account information at any time by visiting the Your Account or by contacting our customer service department by email at [members@thestreet](mailto:members@thestreet.com).com or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST; and ****
+
+· We may from time to time send you special offers and advertisements for products or services offered by third parties.  If you do not wish to receive third party offers and advertisements, please change your settings on our [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account, or contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST. ****
+
+**CORRECTING AND UPDATING THE INFORMATION**
+
+TheStreet offers to its members the ability to correct or update online the information we collected during registration by visiting the [Your Account page](https://secure2.thestreet.com/cap/selfserve/).  You may also contact our customer service department by email at members@thestreet.com or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
+
+**SECURITY**
+
+TheStreet limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you.  We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information.  However, no security system is impenetrable.  We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
+
+**FORMER CUSTOMERS**
+
+TheStreet discloses personal information about former customers only in accordance with this Privacy Policy.
+
+**YOUR INDEPENDENT RELATIONSHIPS WITH OTHER COMPANIES**
+
+Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on TheStreet’s sites. Those companies’ privacy policies will govern how they collect, use and disclose personal information that you provide to them. TheStreet is not responsible for the privacy practices or content of those websites. We encourage you to review the privacy policy of any company before submitting your personal information.
+
+Questions or comments regarding this policy should be directed to [privacy@thestreet.com](mailto:privacy@thestreet.com). TheStreet reserves the right to modify this policy.
