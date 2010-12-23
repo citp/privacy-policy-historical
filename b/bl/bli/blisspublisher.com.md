@@ -1,41 +1,54 @@
-> *The following text is extracted and transformed from the blisspublisher.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224231959id_/http%3A//blisspublisher.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blisspublisher.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223231633id_/http%3A//www.blisspublisher.com/privacy.htm) for the most accurate reproduction.*
 
-# BlissPublisher - Free Article Directory
+# Privacy Policy
 
-BLISSPublisher.com Privacy Policy
+**Blisspublisher.com Privacy Policy**
 
-BLISSPublisher.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+(’I’ and ‘we’ refers to Stephen Chua, owner of this website) 
 
-**How we gather information from users**
+I am committed to keeping all your personal details safe and secure. My privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, BLISSPublisher.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
+**Collecting Your Personal Information**
 
-**What we do with the information we collect**
+I am committed to protecting your privacy. I will only use the information that I collect about you lawfully (in accordance with the Data Protection Act 1998). I will not pass on your details to any third party and do not send out marketing e-mails to customers unless they have registered to receive such material, purchased from me, or downloaded one of my free or paid products.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+The type of information I ‘may’ collect about you includes:
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Your full name  
+Your e-mail address  
+Your postal address 
 
-We may use Personally Identifiable Information collected on www.BLISSPublisher.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.BLISSPublisher.com and other topics we think you might find of interest.
+Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. 
 
-Personally Identifiable Information collected by BLISSPublisher.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing "Your Email". If you find any inaccuracies we will delete or correct it promptly.
 
-**Affiliated sites, linked sites and advertisements**
+**How I Control Your Personal Information**
 
-BLISSPublisher.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.BLISSPublisher.com page, certain content that is actually created or hosted by a third party. Also, through BLISSPublisher.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. BLISSPublisher.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+I will not use your personal information for any other reason other than to contact you. We do not sell, give away or rent your email address to any third party. If in the future I did for any reason wish to rent, sell or use your email address for any other purpose we will ask you for your permission first.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. BLISSPublisher.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+**How We Use Your Personal Information  
+**  
+Your personal information is used for four main purposes and they are as follows:
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of BLISSPublisher.com and this policy.
+1\. To send out information, recommendations and resources to you.
 
-**Children**
+2\. To provide assistance to you after you have purchased products from me.
 
-BLISSPublisher.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe BLISSPublisher.com has any information from or about anyone under 13, please contact us at the address listed below.
+3\. To help me create and deliver content most relevant to you.
 
-**Contacting Us**
+4\. To enlighten you about new products, services, tool, upgrades, special offers and information which I feel may be of use to you. 
 
-We can be reached by using the contact form.
+I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: 
 
-**Changes to this Policy**
+(a) Conform to the edicts of the law or comply with legal process served on
 
-BLISSPublisher.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Blisspublisher.com
+
+(b) Protect and defend the rights or property of Blisspublisher.com  
+ 
+
+(c) Act in urgent circumstances to protect the personal safety of users of Blisspublisher.com
+
+Stephen Chua, Blisspublisher.com
+
+© Copyright  – Blisspublisher.com All Rights Reserved Worldwide.
