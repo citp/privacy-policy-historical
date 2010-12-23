@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419023130id_/http%3A//www.garnierusa.com/_en/_us/services/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223075805id_/http%3A//www.garnierusa.com/_en/_us/services/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Garnier
 
@@ -49,7 +49,7 @@ Garnier.com does not provide personally identifiable information to unaffiliated
 4\. Children's Privacy   
 This website is directed toward and designed for use by persons aged 13 or older. Garnier.com will not approve applications of, or establish or maintain accounts or memberships for, any child whom Garnier.com knows to be under the age of 13. Garnier.com does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Garnier.com nevertheless discovers that it has received personally identifiable information from an individual who indicates that he or she is, or whom Garnier otherwise has reason to believe is, under the age of 13, Garnier.com will delete such information from its systems. Additionally, a child's parent or legal guardian may request that the child's information be corrected or deleted from Garnier.com's files. Please 
 
-[_click here_](http://www.garnierusa.com/_en/_us/services/contacts.aspx)
+[_click here_](http://www.garnierusa.com/_en/_us/services/home_contact.aspx)
 
 to send your request.
 
@@ -71,14 +71,14 @@ Garnier.com maintains physical, electronic, and procedural safeguards to help gu
 8\. Choice/Opt-Out   
 In order to provide service to you, Garnier.com will send you communications related to your transactions, security or the administration of its website. From time to time, Garnier.com and its affiliates may also wish to send you other messages or updates about Garnier.com, its affiliates, or their promotions and other activities. If you do not wish to receive non-transaction/security related communications from Garnier.com and its affiliates, please 
 
-[_**click here**_](http://www.garnierusa.com/_en/_us/services/contacts.aspx)
+[_**click here**_](http://www.garnierusa.com/_en/_us/services/home_contact.aspx)
 
 to send your request.
 
 9\. Data Quality/Access   
 Garnier.com allows you to change, update, or delete the information you may provide in your optional registration form. If you would like to change, update, or delete your personal information, please 
 
-[_**click here**_](http://www.garnierusa.com/_en/_us/services/contacts.aspx)
+[_**click here**_](http://www.garnierusa.com/_en/_us/services/home_contact.aspx)
 
 to send your request.
 
