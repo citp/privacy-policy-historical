@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527181756id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223174639id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma Privacy Policy | Credit Karma
 
@@ -112,4 +112,4 @@ Credit Karma will promptly post any policy changes to this page.
 If there are any material changes in the way we treat personal information Credit Karma will notify you by sending a notice to the primary email address specified in your marketing preferences or by placing a prominent notice on our site. 
 
 Additional Information:  
-For additional information, or if you have questions regarding this policy or privacy practices at Credit Karma, please submit your questions or comments directly to [privacy@creditkarma.com](mailto:privacy@creditkarma.com) via email or write to us at: Credit Karma, Inc. Attention: Privacy Department, 577 Howard St, 4th Floor, San Francisco, CA 94105. 
+For additional information, or if you have questions regarding this policy or privacy practices at Credit Karma, please submit your questions or comments directly to [privacy@creditkarma.com](mailto:privacy@creditkarma.com) via email or write to us at: Credit Karma, Inc. Attention: Privacy Department, 27 South Park, Suite 101, San Francisco, CA 94107. 
