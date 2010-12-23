@@ -1,27 +1,51 @@
-> *The following text is extracted and transformed from the aquasana.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604183413id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquasana.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223105625id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Aquasana Water Filters - Privacy Policy
-
-Aquasana Privacy Policy
-
-* * *
 
 Aquasana® Privacy Policy  
 (last revised April 23, 2008) 
 
-Sun Water Systems, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").What Personal Information Do We Collect? Aquasana collects personal information from visitors to this Site such as names, postal addresses, e-mail addresses, user ID, password and, if you make an online purchase, credit card information. Personal information is collected only for specific purposes and with the knowledge of the person providing the personal information. To access the Site you are not required to register or submit any personal information.The content of this Site is not directed to children and Aquasana does not knowingly collect personal information from persons under eighteen years of age. Why Do We Collect This Personal Information?  
-Purposes for which Aquasana may collect personal information online include, but are not limited to: **"Contact Us" Features**.  
-Aquasana encourages visitors to the Site to contact us with questions and requests. Aquasana also offers e-mail news updates for visitors who expressly request that service. Personal information of persons using these features may be collected in order to facilitate our responses to those inquiries. **Product Registration**.  
-Purchasers of certain Aquasana products may want to register their purchases online so that they can take advantage of warranties, product updates and other benefits. Purchasers are asked to submit certain personal information such as names, postal addresses and e-mail addresses as part of the product registration process. **Water 4 Life® Program Registration**.  
-Aquasana offers the Water 4 Life® program which provides benefits to purchasers of Aquasana Drinking Water Filters and Shower Filters. The Water 4 Life® program online registration process requests personal information concerning the individual who signs up. Participants in the Water 4 Life® program also may need to provide personal information in order to redeem program benefits. **Requests for Consumer Brochures and Videos**.  
-Aquasana may offer product information, including brochures and videos, through the Site. Persons ordering those materials are asked to provide their name and postal address. What Other Information Do We Collect?  
-We collect non-personally identifiable information, which does not personally identify you, in the following ways: Aggregated Information  
-Additionally, we may aggregate personal information in a manner such that the information does not personally identify you or any other user of the Site, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code or follow a particular path through the Site. Such aggregate information is considered non-personally identifiable information for purposes of this Policy. "Clickstream" Data  
-The Site automatically collects certain data concerning its interactions with visitors that facilitate Site operation, management and planning. Such data may include the IP address of your computer, the date and time of an online request, the type of browser and operating system used by your computer, the time required to download information you requested, and error codes generated while your browser is in contact with the Site. Cookies and Other Technologies  
-Cookies are small text files, placed on the hard drive of a visitor's computer, that facilitate the operation of the Site and visitors' use of the Site. As is standard practice on most corporate websites, the Site uses cookies and other technologies, such as pixel tags and web beacons, to help us understand which websites our visitors are coming from and what websites they go to when they leave our Site, which parts of the Site are the most popular, and how much time they spend on our Site. We also use cookies and other technologies to facilitate participation in our loyalty programs as well as to customize your experience and provide greater convenience each time you interact with us. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so click the "Help" menu of your browser to learn how to change your cookie preferences.) If you reject all cookies, you will not be able to use those enhanced services on the Site. Some uses of cookies in connection with the Site may be under the control of third-party entities that Aquasana retains for the management of certain programs and fulfillment of specific visitor/consumer requests. Aquasana requests these entities to confine their use of cookies and similar technologies, but Aquasana cannot be responsible for third party uses of cookies. How Do We Use the Personal Information We Collect?  
-Personal information provided by consumers and visitors to our Site is used to fulfill requests and transactions submitted through the Site. For example, if you choose to purchase a product or service through the Site, we may use your personal information to process your transaction and fulfill your order. If you contact us through the Site, we will use your personal information to respond to your queries and requests. If you register a product through the Site, we will use your personal information to fulfill your registration, and if you sign up for the Water 4 Life® program, we will use your personal information to administer the program. From time to time, in our sole discretion, we may use your personal information to send to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, we recommend you not opt- out of receiving such communications, but you can opt-out at [www.aquasana.com/unsubscribe.php](https://web.archive.org/web/20090604183413id_/http%3A//www.aquasana.com/unsubscribe.php). 
+Sun Water Systems, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").
 
-We may use your personal information to send you marketing-related e-mails from us, but we have never, and do not intend to ever, send you marketing messages from other companies. If you would prefer not to receive such marketing-related e-mails, please opt-out at [www.aquasana.com/unsubscribe.php](https://web.archive.org/web/20090604183413id_/http%3A//www.aquasana.com/unsubscribe.php). 
+What Personal Information Do We Collect? Aquasana collects personal information from visitors to this Site such as names, postal addresses, e-mail addresses, user ID, password and, if you make an online purchase, credit card information. 
+
+Personal information is collected only for specific purposes and with the knowledge of the person providing the personal information. To access the Site you are not required to register or submit any personal information.The content of this Site is not directed to children and Aquasana does not knowingly collect personal information from persons under eighteen years of age. 
+
+Why Do We Collect This Personal Information?  
+Purposes for which Aquasana may collect personal information online include, but are not limited to:
+
+**"Contact Us" Features**.  
+Aquasana encourages visitors to the Site to contact us with questions and requests. Aquasana also offers e-mail news updates for visitors who expressly request that service. Personal information of persons using these features may be collected in order to facilitate our responses to those inquiries. 
+
+**Product Registration**.  
+Purchasers of certain Aquasana products may want to register their purchases online so that they can take advantage of warranties, product updates and other benefits. Purchasers are asked to submit certain personal information such as names, postal addresses and e-mail addresses as part of the product registration process. 
+
+**Water 4 Life® Program Registration**.  
+Aquasana offers the Water 4 Life® program which provides benefits to purchasers of Aquasana Drinking Water Filters and Shower Filters. The Water 4 Life® program online registration process requests personal information concerning the individual who signs up. Participants in the Water 4 Life® program also may need to provide personal information in order to redeem program benefits.
+
+**Requests for Consumer Brochures and Videos**.  
+Aquasana may offer product information, including brochures and videos, through the Site. Persons ordering those materials are asked to provide their name and postal address. 
+
+What Other Information Do We Collect?  
+We collect non-personally identifiable information, which does not personally identify you, in the following ways: 
+
+Aggregated Information  
+Additionally, we may aggregate personal information in a manner such that the information does not personally identify you or any other user of the Site, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code or follow a particular path through the Site. Such aggregate information is considered non-personally identifiable information for purposes of this Policy. 
+
+"Clickstream" Data  
+The Site automatically collects certain data concerning its interactions with visitors that facilitate Site operation, management and planning. Such data may include the IP address of your computer, the date and time of an online request, the type of browser and operating system used by your computer, the time required to download information you requested, and error codes generated while your browser is in contact with the Site. 
+
+Cookies and Other Technologies  
+Cookies are small text files, placed on the hard drive of a visitor's computer, that facilitate the operation of the Site and visitors' use of the Site. As is standard practice on most corporate websites, the Site uses cookies and other technologies, such as pixel tags and web beacons, to help us understand which websites our visitors are coming from and what websites they go to when they leave our Site, which parts of the Site are the most popular, and how much time they spend on our Site. We also use cookies and other technologies to facilitate participation in our loyalty programs as well as to customize your experience and provide greater convenience each time you interact with us. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so click the "Help" menu of your browser to learn how to change your cookie preferences.) If you reject all cookies, you will not be able to use those enhanced services on the Site. 
+
+Some uses of cookies in connection with the Site may be under the control of third-party entities that Aquasana retains for the management of certain programs and fulfillment of specific visitor/consumer requests. Aquasana requests these entities to confine their use of cookies and similar technologies, but Aquasana cannot be responsible for third party uses of cookies. 
+
+How Do We Use the Personal Information We Collect?  
+Personal information provided by consumers and visitors to our Site is used to fulfill requests and transactions submitted through the Site. For example, if you choose to purchase a product or service through the Site, we may use your personal information to process your transaction and fulfill your order. If you contact us through the Site, we will use your personal information to respond to your queries and requests. If you register a product through the Site, we will use your personal information to fulfill your registration, and if you sign up for the Water 4 Life® program, we will use your personal information to administer the program. 
+
+From time to time, in our sole discretion, we may use your personal information to send to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, we recommend you not opt- out of receiving such communications, but you can opt-out at [www.aquasana.com/unsubscribe.php](https://web.archive.org/web/20101223105625id_/http%3A//www.aquasana.com/unsubscribe.php). 
+
+We may use your personal information to send you marketing-related e-mails from us, but we have never, and do not intend to ever, send you marketing messages from other companies. If you would prefer not to receive such marketing-related e-mails, please opt-out at [www.aquasana.com/unsubscribe.php](https://web.archive.org/web/20101223105625id_/http%3A//www.aquasana.com/unsubscribe.php). 
 
 We may also use your personal information for our internal business purposes, such as for data analysis, for audits, to improve our website, to analyze usage patterns and to improve our services. 
 
@@ -48,7 +72,7 @@ Security
 Aquasana takes measures designed to prevent unauthorized intrusion to the Site and the alteration, acquisition or misuse of personal information. Aquasana cautions consumers and visitors to this Site, however, that no network is entirely secure. Accordingly, Aquasana cannot be responsible for loss, corruption or unauthorized acquisition of personal information furnished to this Site and/or stored by us, or for any damages resulting from such loss, corruption or unauthorized acquisition.
 
 Opt-Out Policy  
-If you change your mind, and do not wish to receive further marketing-related e-mails from us, you may opt- out of receiving such marketing-related e-mails by calling 1-866-662-6885 or clicking on the opt-out link located in the bottom of the marketing emails or by going to [www.aquasana.com/unsubscribe.php](https://web.archive.org/web/20090604183413id_/http%3A//www.aquasana.com/unsubscribe.php).
+If you change your mind, and do not wish to receive further marketing-related e-mails from us, you may opt- out of receiving such marketing-related e-mails by calling 1-866-662-6885 or clicking on the opt-out link located in the bottom of the marketing emails or by going to [www.aquasana.com/unsubscribe.php](https://web.archive.org/web/20101223105625id_/http%3A//www.aquasana.com/unsubscribe.php).
 
 Changing or Removing Your Personal Information  
 If you would like to review, correct, update or remove personal information that you have previously provided to us through the Site, you may do so by logging in to your account and making changes or by calling our customer service at (866) 662-6885.
@@ -73,10 +97,10 @@ If Warranty claims are presented directly to Aquasana by the Consumer, Aquasana 
 
 **EXCEPT FOR THE EXPRESS WARRANTIES IN THIS AGREEMENT, THE PRODUCTS ARE PROVIDED WITH NO OTHER WARRANTIES WHATSOEVER, AND THE COMPANY DISCLAIMS ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHT OF OTHERS. THE COMPANY DOES NOT WARRANT THAT THE OPERATION OF THE PRODUCTS WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ALL DEFECTS CAN BE CORRECTED. TO THE EXTENT THAT THE COMPANY MAY NOT, UNDER APPLICABLE LAW, DISCLAIM ANY IMPLIED WARRANTY, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW. THE COMPANY MAKES NO REPRESENTATION OR WARRANTY CONCERNING THE QUALITY, PERFORMANCE OR OTHER CHARACTERISTICS OF THE PRODUCTS OTHER THAN THOSE WHICH ARE CONSISTENT IN ALL RESPECT WITH, AND DO NOT EXPAND THE SCOPE OF, THE WARRANTIES EXPRESSLY STATED HEREIN.**
 
-Aquasana's Water 4 Life® program guarantees a lifetime warranty on all parts and workmanship for all Shower Water Filters and Drinking Water Filters that are current on their subscriptions on the Water 4 Life® program. Aquasana will repair or replace any broken or defective part for no charge other than a flat rate shipping charge of $9.50 for any warranty claim on any Aquasana Shower Water Filter or Aquasana Drinking Water Filter that is enrolled in the Aquasana Water 4 Life® program.
+Aquasana's Water for Life® program guarantees a lifetime warranty on all parts and workmanship for all Shower Water Filters and Drinking Water Filters that are current on their subscriptions on the Water 4 Life® program. Aquasana will repair or replace any broken or defective part for no charge other than a flat rate shipping charge of $9.50 for any warranty claim on any Aquasana Shower Water Filter or Aquasana Drinking Water Filter that is enrolled in the Aquasana Water 4 Life® program.
 
 Questions?  
-Questions regarding this Policy should be directed to the Aquasana Security Office/Privacy at info@Aquasana.com, or at the following physical mailing address: 
+Questions regarding this Policy should be directed to the Aquasana Security Office/Privacy at info@aquasana.com, or at the following physical mailing address: 
 
 > Aquasana Privacy Question  
 >  6310 Midway Rd.  
