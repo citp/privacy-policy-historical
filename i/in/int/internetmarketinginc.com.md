@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the internetmarketinginc.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624001734id_/http%3A//www.internetmarketinginc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketinginc.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223102651id_/http%3A//www.internetmarketinginc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Internet Marketing Inc.
 
-[](http://www.internetmarketinginc.com/request-a-proposal/ "Request A Media Kit")
+[](http://www.internetmarketinginc.com/request-a-proposal "Request A Media Kit")
 
-## Our Clients
-
-  
-
+[Home](http://www.internetmarketinginc.com/ "Go to Home.") » Privacy Policy 
 
 ### Privacy Policy
 
