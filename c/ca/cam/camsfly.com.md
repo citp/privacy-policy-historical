@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camsfly.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015749id_/http%3A//www.camsfly.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsfly.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091332id_/http%3A//www.camsfly.com/privacy.html%3F) for the most accurate reproduction.*
 
-# CamsFly - Privacy Policy
+# CamsFly - Privacy
 
 [Home](http://www.camsfly.com/) / Privacy Policy
 
