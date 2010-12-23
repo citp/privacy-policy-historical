@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnycrazygames.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803142741id_/http%3A//www.plemsoft.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnycrazygames.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223020551id_/http%3A//www.plemsoft.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,6 +7,8 @@
 **W** e have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+
+**W** e allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 **W** **e** might use third-party advertising companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
