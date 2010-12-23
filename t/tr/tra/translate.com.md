@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529223030id_/http%3A//www.translate.com/About_ENLASO/Privacy_Pledge.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223104003id_/http%3A//www.translate.com/About_ENLASO/Privacy_Pledge.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | ENLASO
 
@@ -54,6 +54,6 @@ Client information and data is stored in a secure facility within the ENLASO Cor
 
 ### Contact Us
 
-If you have any questions about this Privacy Statement or about ENLASO Corporation, please contact us directly at: phone (866-415-6820 x103) or email ([Marketing@translate.com](mailto:Marketing@translate.com)) .
+If you have any questions about this Privacy Statement or about ENLASO Corporation, please contact us directly at: phone (866-415-6820 x127) or email ([Marketing@translate.com](mailto:Marketing@translate.com)) .
 
 [Top of page]
