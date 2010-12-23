@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxee.tv privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618214152id_/http%3A//www.boxee.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxee.tv privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223182443id_/http%3A//www.boxee.tv/privacy) for the most accurate reproduction.*
 
 # Boxee - Privacy Policy
 
-Boxee provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of boxee.tv and subdomains ("Sites"). This Privacy Policy applies only to information that you provide to us through these Sites. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy for the Sites at [http://www.boxee.tv/static/privacy](https://web.archive.org/web/20100618214152id_/http%3A//www.boxee.tv/privacy)
+Boxee provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of boxee.tv and subdomains ("Sites"). This Privacy Policy applies only to information that you provide to us through these Sites. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy for the Sites at [http://www.boxee.tv/static/privacy.](https://web.archive.org/web/20101223182443id_/http%3A//www.boxee.tv/privacy)
 
 **1\. Information Collection: The Personally Identifiable Information We Collect**
 
