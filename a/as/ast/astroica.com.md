@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astroica.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227100124id_/http%3A//astroica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroica.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223103733id_/http%3A//www.astroica.com/privacy.htm) for the most accurate reproduction.*
 
 # Astroica.com - Privacy Policy
 
