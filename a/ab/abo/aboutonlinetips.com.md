@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutonlinetips.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630083558id_/http%3A//www.aboutonlinetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutonlinetips.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223162324id_/http%3A//www.aboutonlinetips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Binary Head
 
