@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621132816id_/http%3A//www.birminghampost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghampost.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223232721id_/http%3A//www.birminghampost.net/privacy-policy) for the most accurate reproduction.*
 
-# Birmingham Post - Privacy Statement
+# Privacy Statement - Birmingham Post
 
 ## IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED HERE ON THIS WEB SITE
 
