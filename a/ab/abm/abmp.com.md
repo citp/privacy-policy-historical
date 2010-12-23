@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abmp.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510181938id_/http%3A//www.abmp.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abmp.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223190250id_/http%3A//www.abmp.com/home/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Associated Bodywork and Massage Professionals
 
