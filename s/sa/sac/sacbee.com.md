@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624025523id_/http%3A//www.sacbee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacbee.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223123341id_/http%3A//www.sacbee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sacbee.com
 
@@ -34,7 +34,7 @@ Some of sacbee.com's third-party content providers also may place a cookie on yo
 
 We use services provided by Yahoo! to display advertising on sacbee.com, and we may use cookies in conjunction with displaying those ads. Please refer to Yahoo!'s privacy policy at <http://privacy.yahoo.com/> for further information concerning Yahoo!'s use of cookies.
 
-We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy-policy/tacoda>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
+We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy/tacoda>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
 
 In addition, advertisers may elect to use other advertising companies to serve their ads on sacbee.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.
 
@@ -104,7 +104,7 @@ In addition, our advertisers, content providers, partners and other Internet sit
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom sacbee.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [feedback@sacbee.com](https://web.archive.org/web/20100624025523id_/http://www.sacbee.com/privacy-policy/feedback@sacbee.com).
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom sacbee.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [feedback@sacbee.com](https://web.archive.org/web/20101223123341id_/http://www.sacbee.com/privacy-policy/feedback@sacbee.com).
 
 ### International users
 
