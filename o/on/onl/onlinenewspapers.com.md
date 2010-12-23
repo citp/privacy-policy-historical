@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinenewspapers.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430185210id_/http%3A//www.onlinenewspapers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenewspapers.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223051633id_/http%3A//www.onlinenewspapers.com/privacy.htm) for the most accurate reproduction.*
 
-# Thousands of newspapers on the Net
+# Privacy Policy OnlineNewspapers & OnlineMagazines Directories
 
 ### Privacy Policy
 
@@ -26,6 +26,8 @@ Web Wombat (though its website www.onlinenewspapers.com) does not collect any pe
 
 We may share information about the use of our site (www.onlinenewspapers.com) with advertisers, sponsors, content providers and other third parties. However, we only disclose aggregate, anonymous information about our users and will not disclose any personally identifiable information to any third party without your express consent.
 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like [**more information**](http://www.networkadvertising.org/managing/opt_out.asp) about this practice and to know your choices about not having this information used by these companies.
+
 For example, we may disclose the total number of "hits" the site receives, or how often the average user visits our site. Please be aware, however, that we will release any specific personal information we may hold about you if required by law.
 
 **Email**
@@ -46,4 +48,4 @@ We may change this Privacy Policy from time to time at our discretion and withou
 
 Please feel free to contact us if you have any questions, comments or would like more information. Our email address is [newspapers@webwombat.com.au](http://www.onlinenewspapers.com/emailform/Feedback.htm).
 
-This Privacy Statement is version 1.0, and replaces all previous versions.
+This Privacy Statement is version 2.0, and replaces all previous versions.
