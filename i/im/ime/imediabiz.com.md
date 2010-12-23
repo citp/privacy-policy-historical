@@ -1,131 +1,61 @@
-> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614214013id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223085033id_/http%3A//www.hostmop.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Hosting Australia - Cheap Web Hosting, Dedicated Server, Domain Name, and SSL Certificate :: Privacy Policy
+# HostMop : Privacy Policy
 
-|   
----  
-|   
----  
-| 
+We, **HostMop** , are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
-"Good services and very good customer support, thank you." **\- Keniten,IB -**  
+### We are committed to protecting your privacy
 
-|   
-|  |    [Home](https://web.archive.org/web/20100614214013id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/ "Go to Home") » Privacy Policy  
----  
-| **Our Basic Privacy Policy**  
----  
-  
-Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.   
-  
-  
-**What Information Do Web Collect?**  
----  
-  
-**1\. Personal Information You Choose to Provide**
+We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. The purpose of this Privacy Policy to enable you to understand which personal identifying information ("PII", "Personal Information") of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
 
-|   | _1.1. Credit Card Information_  
----|---  
-  | If you choose to purchase products or services from us or our partners, you may need to give personal information and authorisation to obtain information from various credit services. For example, you may need to provide the following information:   
-• Name  
-• Mailing Address  
-• E-Mail Address  
-• Credit Card Number  
-• Home and Busines Phone Number  
-• Other Personal Information (i.e. Mother's Maiden Name)   
-  |    
-  | _1.2. E-mail Information_  
-  | In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.   
-  
-**2\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilises a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual   
-  
-  
-**How Do We Use the Information You Provide to Us?**  
----  
-  
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information. As a customer, you will be given the opportunity, at least once annually, to notify us of your desire not to receive these offers.   
-  
-  
-**What are Cookies?**  
----  
-  
-Cookies are a feature of Web browser software that allows Web servers to recognise the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet.   
-  
-  
-**Notice of New Changes and Services**  
----  
-  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an email request at [sales@imediabiz.com](mailto:sales@imediabiz.com)  
-  
-  
-**How Do We Protect Your Information ?**  
----  
-  
-Information Security. We utilise encryption/security software to safeguard the Confidentiality of personal information we collect from unauthorised access or disclosure and accidental loss, alteration or destruction.  
-  
-  
-**Evaluation of Information Protection Practices**  
----  
-  
-Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, Confidentiality and quality of our information.  
-  
-  
-**Employee Access, Training and Expectations**  
----  
-  
-Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorised persons, processes and transactions.   
-  
-  
-**Do We Disclose Information to Outside Parties ?**  
----  
-  
-We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.  
-  
-  
-**What About Legally Compelled Disclosure of Information?**  
----  
-  
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.  
-  
-  
-**Your Consent**  
----  
-  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  
-  
-  
-**Our Policy on Data Collection**  
----  
-  
-In order to access certain subscriber services and restricted areas (the "Restricted Services") within the Imediabiz Web site (the "Site"), Imediabiz Pty Ltd ("Imediabiz") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. Imediabiz reserves the right to request any additional information necessary to establish and maintain your account for use of the Pay Services.  
-  
-  
-**Confidentiality**  
----  
-  
-Registration Data is the property of Imediabiz, subject to and protected by the Electronic Communications Privacy Act. Imediabiz will not sell, rent, swap, or otherwise disclose your Registration Data to any third party. Imediabiz maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.  
-  
-  
-**User Access to Information Collected**  
----  
-  
-Registration Data is the property of Imediabiz, subject to and protected by the Electronic Communications Privacy Act. Imediabiz will not sell, rent, swap, or otherwise disclose your Registration Data to any third party. Imediabiz maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.  
-  
-  
-**Lost of Stolen Information**  
----  
-  
-If your credit card or password is stolen or used without your permission, immediately notify Imediabiz. Upon notification Imediabiz will cancel your credit card number and/or password and update its records. You may be unable to access certain services while Imediabiz processes the credit card and/or password change.  
-  
-  
-**Cancellation**  
----  
-  
-You may cancel your account at any time by sending an e-mail to [accounting@imediabiz.com](mailto:accounting@imediabiz.com). Once Imediabiz has finished processing the cancellation, Imediabiz will delete all your Registration Data from its database.  
-  
-  
-**Updates**  
----  
-  
-Imediabiz reserves the right to change or update this Privacy Policy, or any other company policy or practice, at any time with reasonable notice to users of the Site. Any changes or updates will be effective immediately upon posting to the Site.
+### Information Collected
+
+We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inqury, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred. When transferring personal information a security icon will appear in your browser.
+
+### Information Use
+
+This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers’ needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. **HostMop** may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
+
+### Log Files
+
+We use IP addresses to analyse trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing.
+
+### Cookies
+
+Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognise your account. We use cookies to save your preferences and login information, and provide personalised functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the **HostMop** ’s website. More information about cookies can be found at <http://en.wikipedia.org/wiki/HTTP_cookie>.
+
+### Disclosing Information
+
+We do not disclose any personal information obtained about you from this website to third parties. We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to opt out from any mailing list or similar device. However, we may disclose aggregate, anonymous data based on information collected from users to potential partners, our affiliates, and reputable third parties. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.
+
+### Correcting/Updating Personal Information
+
+If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavour to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via our billing system at [http://my.hostmop.com](http://my.hostmop.com/). Otherwise, please contact us at [**sales@hostmop.com**](mailto:sales@hostmop.com)
+
+### Opt Out & Modifications
+
+By default, customers do receive any voluntary system updates, such as the newsletters, invoices, and mailings. Any customer who voluntarily receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary.
+
+### Security
+
+**HostMop**.com uses technical security measures to prevent the loss, misuse, alternation or unauthorised disclosure of information under our control. **HostMop**.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology.
+
+### Data and Information Submitted to another Person or Entity on Our Network
+
+As mentioned above, **HostMop**.com collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. 
+
+### Compliance with Laws and Law Enforcement
+
+We cooperate with government and law enforcement officials to enforce and comply with the law. We will disclose any information about Users upon valid request by government or law officials as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect your property and rights, or the property and rights of a third party, to protect the safety of the public or any person, or stop activity we consider illegal or unethical.
+
+### Changes to this Policy
+
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+
+### Enforcement and Dispute Resolution
+
+**HostMop**.com has established internal mechanisms to verify its ongoing adherence to its privacy policy. **HostMop** will seek to resolve any concerns. 
+
+### Contacting Us
+
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [**privacy@hostmop.com**](mailto:privacy@hostmop.com). You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at [**privacy@hostmop.com**](mailto:privacy@hostmop.com).
