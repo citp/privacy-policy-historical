@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330163728id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223232536id_/http%3A//www64.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wolfram|Alpha Privacy Policy
 
@@ -20,7 +20,7 @@ Your IP address is used to determine, when possible, your approximate geographic
 
 We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.
 
-We may also preserve, use, or disclose your information if necessary to enforce our [Terms of Use](https://web.archive.org/web/20100330163728id_/http%3A//www.wolframalpha.com/termsofuse.html) and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
+We may also preserve, use, or disclose your information if necessary to enforce our [Terms of Use](https://web.archive.org/web/20101223232536id_/http%3A//www64.wolframalpha.com/termsofuse.html) and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
 
 When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies.
 
