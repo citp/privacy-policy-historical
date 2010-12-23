@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831061439id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223234025id_/http%3A//www.avis.co.uk/AboutAvis/Privacy-Policy) for the most accurate reproduction.*
 
 # Avis Car Hire UK - Car Rental - Privacy Policy
 
 ## Controller of information
 
-Any personal information provided to or gathered by this website is controlled primarily by Avis Europe plc, whose registered office is at Avis House, Park Road, Bracknell RG12 2EW, United Kingdom.
+Any personal information provided to or gathered by this website is controlled primarily by Avis Europe plc, whose registered office is at Avis House, Park Road, Bracknell RG12 2EW, United Kingdom. 
 
 ## What data does Avis collect?
 
- **Booking Information:** When booking car rental services we ask for your name, postal address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of the booking. If you pay for your rental at the time of booking you will be asked to enter your payment card type, number and expiration date to enable us to take your payment.  
+**Booking Information:** When booking car rental services we ask for your name, postal address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of the booking. If you pay for your rental at the time of booking you will be asked to enter your payment card type, number and expiration date to enable us to take your payment.  
  **Online Account:** When you make a booking, we will give you the opportunity to create an online account. If you accept we will store the personal details you provide in our customer database. This will enable you to make future bookings more rapidly.  
  **Avis Preferred:** If you join our Avis Preferred service we will create an online account for you. Your account will include all the information you enter into the Avis Preferred Membership Form.  
  **Wizard Card Holders:** If you are a Wizard card holder we link your membership number to the information we keep in our main customer database in order to speed up your booking process.   
@@ -19,7 +19,7 @@ Session cookies are temporary and are automatically deleted once you leave our w
 
 ## How does Avis use your data?
 
- **Sharing Information**  
+**Sharing Information**  
 Avis will never release your personal details to any company that is not a member of the Avis Rent A Car System for marketing purposes.   
 As we are part of an international group operating the Avis Rent A Car System, we will from time to time share with other companies operating the Avis Rent A Car System (located inside and outside Europe) information relating to our car rental service operations, which may include your personal information. Unless you have given us your consent your personal information will not be used for any other purpose.  
  **Avis online competitions**  
