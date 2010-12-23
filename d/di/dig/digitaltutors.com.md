@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitaltutors.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429014413id_/http%3A//www.digitaltutors.com/digital_tutors/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltutors.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223170343id_/http%3A//www.digitaltutors.com/09/privacy_policy.php) for the most accurate reproduction.*
 
-# Digital-Tutors : Corporate / Privacy Policy
+# Digital-Tutors > Privacy Policy
 
 **Our Commitment to Privacy.  
 **  
-We, PL Studios, Inc. d/b/a/ Digital-Tutors ("DT," "we" or "us"), are committed to providing high quality service along with the highest level of integrity in dealing with our customers. As an extension of this commitment, this Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information we collect and to assist you in making informed decisions when visiting or purchasing goods through our web site (the "Site"). This Privacy Policy will be continuously assessed against new technologies, business practices and our customers’ needs and legal developments, and may be revised accordingly.
+We, PL Studios, Inc. d/b/a/ Digital-Tutors ("DT," "we" or "us"), are committed to providing high quality service along with the highest level of integrity in dealing with our customers. As an extension of this commitment, this Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information we collect and to assist you in making informed decisions when visiting or purchasing goods through our web site (the "Site"). This Privacy Policy will be continuously assessed against new technologies, business practices and our customers� needs and legal developments, and may be revised accordingly.
 
 By using the Site you consent to our collection and use of the information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post the revised Privacy Policy, including such changes, on our Site. For your convenience and future reference, the date of the version of the Privacy Policy set forth on our Site is listed below. You can print the version of our Privacy Policy that you reviewed and approved, and compare it to the version in effect when you use our Site in the future to determine what, if any, changes have been made, and whether you want to continue using our Site.
 
@@ -16,18 +16,18 @@ Please note that persons under the age of 18 ("Children") are not eligible to us
 
 If you choose to use the Site you may be required to provide personal information and authorization. Specifically, you may be asked to provide the following information:
 
-• Name  
-• Mailing address  
-• Email address  
-• Credit card number  
-• Home and business phone and/or fax numbers  
-• Other personal information (i.e., mother's maiden name)
+\- Name  
+\- Mailing address  
+\- Email address  
+\- Credit card number  
+\- Home and business phone and/or fax numbers  
+\- Other personal information (i.e., mother's maiden name)
 
 In addition to providing the foregoing information, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
 **How Do We Use the Information That We Obtain?  
 **  
-Broadly speaking, we will only use the personal information you provide to us or that is obtained through your use of the Site to administer our business activities and provide customers the products and services they have requested. If you have supplied us with personal information, we may combine such personal information with information we gather from your use of the Site and other information that we may obtain from other sources to design and arrange the Site in the most user-friendly manner and to continually improve the Site to better meet the needs of our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to the Site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards and are designed to safeguard the security and privacy of our customers’ personal information.
+Broadly speaking, we will only use the personal information you provide to us or that is obtained through your use of the Site to administer our business activities and provide customers the products and services they have requested. If you have supplied us with personal information, we may combine such personal information with information we gather from your use of the Site and other information that we may obtain from other sources to design and arrange the Site in the most user-friendly manner and to continually improve the Site to better meet the needs of our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to the Site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards and are designed to safeguard the security and privacy of our customers� personal information.
 
 **Third Party Marketers.  **
 
