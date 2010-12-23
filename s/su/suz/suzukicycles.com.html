@@ -1,32 +1,63 @@
-<!--The following is the downloaded HTML source of the suzukicycles.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526173132id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suzukicycles.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224001224id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="theHead"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta name="google-site-verification" content="xh9XGX82NTGgO_cV5cYYlc8mdV94XKLzPOC3GNVKGKk"><title>
 	Suzuki Cycles - Privacy
 </title><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="Shortcut Icon" href="/favicon.ico">
+		
 
-		<script type="text/javascript">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 		
 			var staticUrl = 'http://static.suzukicycles.com';
 			var servicesUrl = 'http://services.suzukicycles.com';
 			
 			function ipLookup()
 			{
-				return '204.236.235.245';
+				return '207.241.228.152';
 			}
-
+			
+			function nextRaceDate()
+			{
+				/*
+				var nextRace = [9,24,2010];
+				return nextRace;
+				*/
+				
+				// racing season is over, re-enable next year
+				return null;
+			}
 		</script>
 		
 		<script type="text/javascript">
+		/* returning true means that either the flyover is disabled in the cms or there is a cookie which means we've see the flyover already.
+		 * in this case we should not play the flyover.
+		 * returning false means the flyover is enabled and we haven't seen it so it should get played.
+		 */
 		function flyoverCookieExists()
         {
-	        return (Cookies.Get("FlyOverDisplayed") != null);
+	        var bFlyCookie = (Cookies.Get("FlyOverDisplayed") != null);
+	        var bFlyEnabled = false;
+
+			//alert('bFlyCookie: ' + bFlyCookie);
+			//alert('bFlyEnabled: ' + bFlyEnabled);
+	        	        
+	        // if there is no cookie but the flyover is enabled, tell flash to play the flyover
+	        if (!bFlyCookie && bFlyEnabled)
+	        {
+				//alert('play');
+		        return false;
+	        }
+	        else
+	        {
+				//alert('dont play');
+		        return true;
+	        }
         }
 		</script>
 		
 		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/prototype.js"></script>
-		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/jquery-1.js"></script>
-		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/tools.js?v=2"></script>
+		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/tools.js?v=3"></script>
 		
 		<script type="text/javascript">
 		
@@ -36,22 +67,21 @@
 		</script>
 
 		<script type="text/javascript">
-			
-			Tools.LoadIncludeFile("layout.css?nocache=1", "css", null);
-			Tools.LoadIncludeFile("home.css", "css", null);
+  			Tools.LoadIncludeFile("layout.css?v=11", "css", null);	
+			Tools.LoadIncludeFile("home.css?v=1", "css", null);
 			Tools.LoadIncludeFile("dealers.css", "css", null);
 			Tools.LoadIncludeFile("popup.css", "css", null);
 			Tools.LoadIncludeFile("about.css", "css", null);
 			Tools.LoadIncludeFile("search-popup.css", "css", null);
 			Tools.LoadIncludeFile("allcat.css", "css", null);
-			Tools.LoadIncludeFile("bubble-tooltip.css", "css", null);
+			Tools.LoadIncludeFile("bubble-tooltip.css?v=1", "css", null);
 			
 			Tools.LoadIncludeFile("scriptaculous.js", "js", null);
 			Tools.LoadIncludeFile("effects.js", "js", null);
-			Tools.LoadIncludeFile("nav.js?v=4", "js", null);
+			Tools.LoadIncludeFile("nav.js?v=10", "js", null);
 			Tools.LoadIncludeFile("AC_RunActiveContent.js", "js", null);
 
-			Tools.LoadIncludeFile("flyover.js?v=5", "js", null);				
+			Tools.LoadIncludeFile("flyover.js?v=6", "js", null);				
 
 			function getLanguage()
 			{
@@ -176,7 +206,9 @@
 			
 		<![endif]-->
 		
-		<meta name="title" content="Privacy Policy"><meta name="description" content="
+		<script type="text/javascript">var _gaq = _gaq || [];
+_gaq.push(['a._setAccount', 'UA-827894-2'],['a._trackPageview']);
+(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><meta name="title" content="Privacy Policy"><meta name="description" content="
 		<ul>
 <li><a id=&quot;top&quot; name=&quot;top&quot;></a><a class=&quot;privacyLink&quot; href=&quot;#limitation&quot;>Limitation on Scope of Contents</a> </li>
 <li><a class=&quot;privacyLink&quot; href=&quot;#warranty&quot;>No Representation or Warranty</a> </li>
@@ -232,24 +264,17 @@
 
 		<form name="frmMain" method="post" action="/Privacy.aspx" id="frmMain" style="position: relative;">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkzMTkzNzk5Mw9kFgICAQ9kFgICCQ8VOx5odHRwOi8vc3RhdGljLnN1enVraWN5Y2xlcy5jb20gaHR0cDovL3NlcnZpY2VzLnN1enVraWN5Y2xlcy5jb20PMjA0LjIzNi4yMzUuMjQ1Hmh0dHA6Ly9zdGF0aWMuc3V6dWtpY3ljbGVzLmNvbR5odHRwOi8vc3RhdGljLnN1enVraWN5Y2xlcy5jb20eaHR0cDovL3N0YXRpYy5zdXp1a2ljeWNsZXMuY29tAmVuAmVuAzE5NQI3NQJlbgMxMTECZW4CNjECZW4DMTAyAmVuAjc0AmVuAzEyMAJlbgI3MwJlbgMxMTECZW4CNzYCZW4CMjICMjMCZW4HUHJvZHVjdAtBY2Nlc3NvcmllcwROZXdzEFZpZXcgQWxsIFJlc3VsdHMRTm8gcmVzdWx0cyBmb3VuZC4CZW4SRHJpdmluZyBEaXJlY3Rpb25zGFBsZWFzZSBlbnRlciBhIHppcCBjb2RlLixQbGVhc2UgZW50ZXIgYSB6aXAgY29kZSBvciBhIGNpdHkgYW5kIHN0YXRlLjxQbGVhc2Ugd2FpdCBmb3IgdGhlIHBhZ2UgdG8gbG9hZCBiZWZvcmUgcGVyZm9ybWluZyBhIHNlYXJjaC4SU2VhcmNoIFJlc3VsdHMgZm9yD1Nob3dpbmcgUmVzdWx0cwpOZXcgU2VhcmNoDU1vZGlmeSBTZWFyY2gWTm8gcmVzdWx0cyB3ZXJlIGZvdW5kLlRUaGUgY2l0eSB5b3UgZW50ZXJlZCBjb3VsZCBub3QgYmUgZm91bmQuIFBsZWFzZSBjaGVjayB0aGUgc3BlbGxpbmcgYW5kIHNlYXJjaCBhZ2Fpbi4RUGxlYXNlIHRyeSBhZ2Fpbi4bUGxlYXNlIGJyb2FkZW4geW91ciBzZWFyY2guQFBsZWFzZSBlbnRlciBhIHppcCBjb2RlIG9yIGEgY2l0eSBhbmQgc3RhdGUgc2VwYXJhdGVkIGJ5IGEgY29tbWEOSW52YWxpZCBlbnRyeSExQ29va2llcyBtdXN0IGJlIGVuYWJsZWQgdG8gdXNlIHRoZSBzaG9wcGluZyBjYXJ0LgZQYXJ0ICMGUmVtb3ZlBVRvdGFsJllvdXIgc2hvcHBpbmcgY2FydCBpcyBjdXJyZW50bHkgZW1wdHkuCkxvYWRpbmcuLi5EZUVaSTN5M1YzNEYwTXdoaVhTVURJWXk1MGh0TlVKUWNzVk04UGgzbGNsVzlPM2FnZDBKUHhSS2l3TmtPVFZtX1dBLS0eaHR0cDovL3N0YXRpYy5zdXp1a2ljeWNsZXMuY29tHmh0dHA6Ly9zdGF0aWMuc3V6dWtpY3ljbGVzLmNvbWQYAQUQSlNFcnJvck5vdGlmaWVyMQ8PZGRkGaE++sVO7ciLhX2tU6Rg+ad8NGo=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMTk0NjY5MjgPZBYCAgEPZBYEAgkPFT0eaHR0cDovL3N0YXRpYy5zdXp1a2ljeWNsZXMuY29tIGh0dHA6Ly9zZXJ2aWNlcy5zdXp1a2ljeWNsZXMuY29tDzIwNy4yNDEuMjI4LjE1MgtbOSwyNCwyMDEwXQVmYWxzZR5odHRwOi8vc3RhdGljLnN1enVraWN5Y2xlcy5jb20eaHR0cDovL3N0YXRpYy5zdXp1a2ljeWNsZXMuY29tHmh0dHA6Ly9zdGF0aWMuc3V6dWtpY3ljbGVzLmNvbQJlbgJlbgMxOTUCNzUCZW4DMTExAmVuAjYxAmVuAzEwMgJlbgI3NAJlbgMxMjACZW4CNzMCZW4DMTExAmVuAjc2AmVuAjIyAjIzAmVuB1Byb2R1Y3QLQWNjZXNzb3JpZXMETmV3cxBWaWV3IEFsbCBSZXN1bHRzEU5vIHJlc3VsdHMgZm91bmQuAmVuEkRyaXZpbmcgRGlyZWN0aW9ucxhQbGVhc2UgZW50ZXIgYSB6aXAgY29kZS4sUGxlYXNlIGVudGVyIGEgemlwIGNvZGUgb3IgYSBjaXR5IGFuZCBzdGF0ZS48UGxlYXNlIHdhaXQgZm9yIHRoZSBwYWdlIHRvIGxvYWQgYmVmb3JlIHBlcmZvcm1pbmcgYSBzZWFyY2guElNlYXJjaCBSZXN1bHRzIGZvcg9TaG93aW5nIFJlc3VsdHMKTmV3IFNlYXJjaA1Nb2RpZnkgU2VhcmNoFk5vIHJlc3VsdHMgd2VyZSBmb3VuZC5UVGhlIGNpdHkgeW91IGVudGVyZWQgY291bGQgbm90IGJlIGZvdW5kLiBQbGVhc2UgY2hlY2sgdGhlIHNwZWxsaW5nIGFuZCBzZWFyY2ggYWdhaW4uEVBsZWFzZSB0cnkgYWdhaW4uG1BsZWFzZSBicm9hZGVuIHlvdXIgc2VhcmNoLkBQbGVhc2UgZW50ZXIgYSB6aXAgY29kZSBvciBhIGNpdHkgYW5kIHN0YXRlIHNlcGFyYXRlZCBieSBhIGNvbW1hDkludmFsaWQgZW50cnkhMUNvb2tpZXMgbXVzdCBiZSBlbmFibGVkIHRvIHVzZSB0aGUgc2hvcHBpbmcgY2FydC4GUGFydCAjBlJlbW92ZQVUb3RhbCZZb3VyIHNob3BwaW5nIGNhcnQgaXMgY3VycmVudGx5IGVtcHR5LgpMb2FkaW5nLi4uRGVFWkkzeTNWMzRGME13aGlYU1VESVl5NTBodE5VSlFjc1ZNOFBoM2xjbFc5TzNhZ2QwSlB4Uktpd05rT1RWbV9XQS0tHmh0dHA6Ly9zdGF0aWMuc3V6dWtpY3ljbGVzLmNvbR5odHRwOi8vc3RhdGljLnN1enVraWN5Y2xlcy5jb21kAgsPFQGzAzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgX2dhcSA9IF9nYXEgfHwgW107DQpfZ2FxLnB1c2goWydhLl9zZXRBY2NvdW50JywgJ1VBLTgyNzg5NC0yJ10sWydhLl90cmFja1BhZ2V2aWV3J10pOw0KKGZ1bmN0aW9uKCkge3ZhciBnYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOyBnYS50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7IGdhLmFzeW5jID0gdHJ1ZTtnYS5zcmMgPSAoJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgPyAnaHR0cHM6Ly9zc2wnIDogJ2h0dHA6Ly93d3cnKSArICcuZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnO3ZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOyBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGdhLCBzKTt9KSgpOzwvc2NyaXB0PmQYAQUQSlNFcnJvck5vdGlmaWVyMQ8PZGRkYrU+33wXJLvHmyILrF28ULpDYBw=">
 </div>
 
 
-<script type="text/javascript">
-//<![CDATA[
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script src="/WebResource.axd?d=I8a0aXmia9cTX_lco1wRAqqvQrVx1diTfS4E9o_UCQQEr7f94CxSfH_orCwY4qamwXYEpyBJzo9CI8g61Jgyvg2&amp;t=634097790600000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=-19sWkCiayT3eQftcuaY6HHa3fYwrldpAX8wNYLQjVtV9FTskGF2nInHHpb3DCBEiETRhsgWlYvTbsRwosT8SQ2&amp;t=634267539000000000" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An application error occurred but technical support was unable to be notified.'});//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=1SzcPHDb2z_r-egcMbGvBSbqrxl5W8XpgnJYkUUyX0VVxkVuzsuBKkUM8Ic3CM78zisMLJjcxpWEO6guyx5OlZqwbmuCNC-cRb_a85q-ac81&amp;t=f216580" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=O5azN0lalUANv9Wsvj4QTtdio9LHJlJ98oWTZavP2hescUNywPpggvIllROZwDzdv6XJ3fpVJnoALkfRKl1eli8n2_pQO5yIXZm2r8PoOV81&amp;t=f216580" type="text/javascript"></script>
 		
             
 	        
@@ -318,7 +343,7 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 						); //end AC code
 					}
 				
-				</script><noscript><div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="940" height="90" id="expandoFlash"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="movie" value="/~/media/Expando/expando.ashx?sc_lang=en" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="FlashVars" value="isDhtml=true" /><embed src="/~/media/Expando/expando.ashx?sc_lang=en" FlashVars="isDhtml=true" quality="high" width="940" height="90" name="expandoFlash" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="opaque"></embed></object></div></noscript><div class="clear"></div></div><div class="motos" id="motos"><div class="elastic fixme" style="background-image: url(/~/media/Expando/ExpandoImages/Expand.ashx?sc_lang=en);"></div><div class="cycles-image4 fixme"></div><div class="cycles-image3 fixme"></div><div class="cycles-image2 fixme"></div><div class="cycles-image1 fixme"></div></div><a href="javascript:void(0);" id="mask"></a></div>
+				</script><noscript><div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="940" height="90" id="expandoFlash"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="movie" value="/~/media/Expando/expando.ashx?sc_lang=en" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="FlashVars" value="isDhtml=true" /><embed src="/~/media/Expando/expando.ashx?sc_lang=en" FlashVars="isDhtml=true" quality="high" width="940" height="90" name="expandoFlash" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="opaque"></embed></object></div></noscript><div class="clear"></div></div><div class="motos" id="motos"><div class="elastic fixme" style="background-image: url(/~/media/Expando/ExpandoImages/Expand.ashx?sc_lang=en);"></div><div class="cycles-image4 fixme" style="background: url(/~/media/expando/icons/image4.ashx?sc_lang=en) no-repeat;"></div><div class="cycles-image3 fixme" style="background: url(/~/media/expando/icons/image3.ashx?sc_lang=en) no-repeat;"></div><div class="cycles-image2 fixme" style="background: url(/~/media/expando/icons/image2.ashx?sc_lang=en) no-repeat;"></div><div class="cycles-image1 fixme" style="background: url(/~/media/expando/icons/image1.ashx?sc_lang=en) no-repeat;"></div></div><a href="javascript:void(0);" id="mask"></a></div>
 											
 											<div id="dealer-popup" class="popup hidden">
 											
@@ -330,7 +355,7 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 													</tr>
 													<tr>
 														<td class="left"></td>
-														<td class="content">
+														<td class="content" id="dealer-popup-content">
 														    <div><a class="hide" id="hideDealerPopUp" style="background-image: url(/~/media/Buttons/Hide.ashx?sc_lang=en);"></a></div>
 															
 															<div class="clear"></div>
@@ -339,30 +364,24 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 															    <div>
 																    <div class="title" id="searched-zip" style="background-image: url(/~/media/Labels/DealersNearestTo.ashx?sc_lang=en);"></div>
 															    </div>
-																
-																<div id="map-dhtml"></div>
+															    
+															    <div id="search-results-dhtml"></div>
 																
 															</div>
 															
 															<div class="right-column">
-															    <div>
-																    <div class="dhtml-go-button" onclick="if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en', 3);" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></div>
-				                                                </div>
-				                                                <div>												
-																    <p>
+															    <div id="zipGroup">			
+																	    <span class="dhtml-go-button" onclick="if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else { Tools.TrackClick('dealersearch', 'popup'); dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en', 3); }" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></span>												    
 																	    <label for="zip-dhtml">Zip Code:</label>
-																	    <br>
-																	    <input id="zip-dhtml" name="zip-dhtml" type="text" class="text" onkeyup="if (event.keyCode == '13') { if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en'); }" style="">
-																    </p>
+																	    
+																	    <input id="zip-dhtml" name="zip-dhtml" type="text" class="text" onkeyup="if (event.keyCode == '13') { if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else { Tools.TrackClick('dealersearch', 'popup'); dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en'); }}" style="">
+															
 																</div>
 																
-																<div class="links">
+																<div class="links" style="display:block;">
 																    <div><a href="http://suzukicycles.com/Dealers.aspx" id="dealers">OTHER SEARCH OPTIONS</a></div>													
 																	
 																	<div id="once-expanded">
-																	    <div><a href="javascript:void(window.location = 'http://suzukicycles.com/Dealers.aspx?zip=' + $('zip-dhtml').value + '&amp;distance=50&amp;hasCycles=true&amp;hasAtvs=true&amp;hasScooters=true&amp;country=en');" id="dealersLargerMap">View Larger Map</a></div>
-																		
-																		<div class="clear"></div>
 																		
 																		<div class="dealer-icons-top">
 																		
@@ -378,9 +397,15 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 																	
 																</div>
 																
+																
+																<div id="map-dhtml"></div>
+																		
+																		<div class="clear"></div>
+																<div class="links">
+																	    <div id="otherMap"><a href="javascript:void(window.location = 'http://suzukicycles.com/Dealers.aspx?zip=' + $('zip-dhtml').value + '&amp;distance=50&amp;hasCycles=true&amp;hasAtvs=true&amp;hasScooters=true&amp;country=en');" id="dealersLargerMap">View Larger Map</a></div>
+					</div>												    
 															</div>
 															
-															<div id="search-results-dhtml"></div>
 															
 														</td>
 														<td class="right"></td>
@@ -409,10 +434,8 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 															<div class="clear"></div>
 															
 															<div id="search-frm">
-															    <div>
-																    <div class="dhtml-go-button" onclick="InvokeASHX();" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></div>
-															    </div>
-																<div><input type="text" id="search-q" name="search-q" onkeyup="if (event.keyCode == '13') InvokeASHX();" style=""></div>
+																    <span class="dhtml-go-button" onclick="InvokeASHX();" style="margin-right: 6px; background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></span>
+																<input type="text" id="search-q" name="search-q" onkeyup="if (event.keyCode == '13') InvokeASHX();" style="">
 																
 																<div class="clear"></div>
 																
@@ -572,7 +595,7 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 							
 						</div>						
 						
-						<div class="seo-nav"><div class="block"><h3><a href="http://suzukicycles.com/en/Product Lines/Cycles.aspx">Motorcycles</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Sportbike.aspx">Sportbike</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Cruiser.aspx">Cruiser</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Touring.aspx">Touring</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Motocross.aspx">Motocross</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Standard.aspx">Standard</a></li></ul></div><div class="column"><ul><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/DualSport.aspx">DualSport</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Supermoto.aspx">Supermoto</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Off Road.aspx">Off Road</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Kids.aspx">Kids</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Scooters.aspx">Scooters</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Product Lines/ATVs.aspx">ATV</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Product Lines/ATVs/Categories/Utility Sport.aspx">Utility Sport</a></li><li><a href="http://suzukicycles.com/en/Product Lines/ATVs/Categories/Sport.aspx">Sport</a></li><li><a href="http://suzukicycles.com/en/Product Lines/ATVs/Categories/Kids ATV.aspx">Kids ATV</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Accessories.aspx">Accessories</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Accessories.aspx">Care &amp; Maintenance</a></li><li><a href="http://suzukicycles.com/en/Accessories.aspx">Riding Gear</a></li><li><a href="http://suzukicycles.com/en/Accessories.aspx">Suzuki Style</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Dealers.aspx">Dealers</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Dealers.aspx">Locate a Dealer</a></li><li><a href="http://suzukicycles.com/en/Financing/Step1.aspx">Special Offers</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Racing.aspx">Racing</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Racing/ATV.aspx">ATV</a></li><li><a href="http://suzukicycles.com/en/Racing/Motocross.aspx">Motocross</a></li></ul></div><div class="column"><ul><li><a href="http://suzukicycles.com/en/Racing/Off Road.aspx">Off Road</a></li><li><a href="http://suzukicycles.com/en/Racing/Road Racing.aspx">Road Racing</a></li></ul></div></div><div class="block last"><h3><a href="http://suzukicycles.com/en/About.aspx">About Suzuki</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/History.aspx">History</a></li><li><a href="http://suzukicycles.com/en/News.aspx">News &amp; Events</a></li></ul></div></div></div><div class="footer"><div class="link-set-1"><a href="http://suzukicycles.com/Contact.aspx" id="footer-contact">Contact Us</a><span class="pipe">|</span><a href="http://suzukicycles.com/Recalls.aspx" id="footer-recalls">Recalls</a><span class="pipe">|</span><a href="http://suzukicycles.com/eNewsletter.aspx" id="footer-newsletter">Newsletters</a><span class="pipe">|</span><a href="http://suzukicycles.com/Privacy.aspx" id="footer-privacy">Privacy Policy</a><span class="pipe">|</span><a href="http://suzukicycles.com/Press.aspx" id="footer-press">Press</a><span class="pipe">|</span><a href="http://suzukicycles.com/Careers.aspx" id="footer-careers">Careers</a><span class="pipe">|</span><a href="http://suzukicycles.com/Rider Education.aspx" id="footer-ridereducation">Rider Education</a></div><div class="link-set-2"><a href="http://www.suzukiauto.com/" id="footer-auto">Auto</a><span class="pipe">|</span><a href="http://suzukicycles.com" class="highlight" id="footer-suzuki">Motorcycle ATV</a><span class="pipe">|</span><a href="http://www.suzukimarine.com/" id="footer-marine">Marine</a><span id="flag-pin"></span></div><div class="link-set-3"><a href="http://www.facebook.com/pages/Suzuki-Scoop/264730448656" target="_blank" id="footer-facebook">
+						<div class="seo-nav"><div class="block"><h3><a href="http://suzukicycles.com/Product Lines/Cycles.aspx">Motorcycles</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Sportbike.aspx">Sportbike</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Cruiser.aspx">Cruiser</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Touring.aspx">Touring</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Motocross.aspx">Motocross</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Standard.aspx">Standard</a></li></ul></div><div class="column"><ul><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/DualSport.aspx">DualSport</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Supermoto.aspx">Supermoto</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Off Road.aspx">Off Road</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Kids.aspx">Kids</a></li><li><a href="http://suzukicycles.com/Product Lines/Cycles/Categories/Scooters.aspx">Scooters</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/Product Lines/ATVs.aspx">ATV</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/Product Lines/ATVs/Categories/Utility Sport.aspx">Utility Sport</a></li><li><a href="http://suzukicycles.com/Product Lines/ATVs/Categories/Sport.aspx">Sport</a></li><li><a href="http://suzukicycles.com/Product Lines/ATVs/Categories/Kids ATV.aspx">Kids ATV</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/Accessories.aspx">Accessories</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/Accessories.aspx">Care &amp; Maintenance</a></li><li><a href="http://suzukicycles.com/Accessories.aspx">Riding Gear</a></li><li><a href="http://suzukicycles.com/Accessories.aspx">Suzuki Style</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/Dealers.aspx">Dealers</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/Dealers.aspx">Locate a Dealer</a></li><li><a href="http://suzukicycles.com/Financing/Step1.aspx">Special Offers</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/Racing.aspx">Racing</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/Racing/ATV.aspx">ATV</a></li><li><a href="http://suzukicycles.com/Racing/Motocross.aspx">Motocross</a></li></ul></div><div class="column"><ul><li><a href="http://suzukicycles.com/Racing/Off Road.aspx">Off Road</a></li><li><a href="http://suzukicycles.com/Racing/Road Racing.aspx">Road Racing</a></li></ul></div></div><div class="block last"><h3><a href="http://suzukicycles.com/About.aspx">About Suzuki</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/History.aspx">History</a></li><li><a href="http://suzukicycles.com/News.aspx">News &amp; Events</a></li></ul></div></div></div><div class="footer"><div class="link-set-1"><a href="http://suzukicycles.com/Contact.aspx" id="footer-contact">Contact Us</a><span class="pipe">|</span><a href="http://suzukicycles.com/Recalls.aspx" id="footer-recalls">Recalls</a><span class="pipe">|</span><a href="http://suzukicycles.com/eNewsletter.aspx" id="footer-newsletter">Newsletters</a><span class="pipe">|</span><a href="http://suzukicycles.com/Privacy.aspx" id="footer-privacy">Privacy Policy</a><span class="pipe">|</span><a href="http://suzukicycles.com/Press.aspx" id="footer-press">Press</a><span class="pipe">|</span><a href="http://suzukicycles.com/Careers.aspx" id="footer-careers">Careers</a><span class="pipe">|</span><a href="http://suzukicycles.com/Rider Education.aspx" id="footer-ridereducation">Rider Education</a></div><div class="link-set-2"><a href="http://www.suzukiauto.com/" id="footer-auto">Auto</a><span class="pipe">|</span><a href="http://suzukicycles.com" class="highlight" id="footer-suzuki">Motorcycle ATV</a><span class="pipe">|</span><a href="http://www.suzukimarine.com/" id="footer-marine">Marine</a><span id="flag-pin"></span></div><div class="link-set-3"><a href="http://www.facebook.com/suzukiscoopfans" target="_blank" id="footer-facebook">
           facebook
           <img src="/~/media/FooterIcons/facebook_icon.ashx?h=15" alt="facebook"></a>&nbsp;<span class="pipe">|</span><a href="http://www.twitter.com/suzukiscoop" target="_blank" id="footer-twitter">
           twitter
@@ -590,15 +613,7 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 			
 			
 			
-			<img src="http://ads.undertone.com/ti.php?trackerid=438&amp;cb=[634104667048973750]" style="display:none;" width="0" height="0" alt="">
-
-			<div id="uprMain" style="display:none;">
-	
-				
-					<div id="update-progress" style="position: fixed;"><img src="/images/misc/loading-icon.gif" width="16" height="16" alt="">Loading...</div>
-					
-				
-</div>
+			<img src="http://ads.undertone.com/ti.php?trackerid=438&amp;cb=[634287175461128750]" style="display:none;" width="0" height="0" alt="">
 
 			<!--[if lt IE 7]>
 			    <div><script type="text/javascript" src="http://static.suzukicycles.com/includes/js/ie6_upgrade.js"></script></div>
@@ -616,8 +631,6 @@ JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An ap
 <script type="text/javascript">
 //<![CDATA[
 try {
-var pageTracker = _gat._getTracker("UA-827894-2");
-pageTracker._trackPageview();
 Event.observe(window, 'load', function ()
 {
 $$('a').each(function (item)
@@ -626,7 +639,7 @@ item.observe('click', function (event)
 {
 if(this.id != '')
 {
-pageTracker._trackPageview('Link:' + this.id);
+_gaq.push(['a._trackEvent', 'Link', this.id]);
 }
 });
 });
