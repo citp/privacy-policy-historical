@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413142529id_/http%3A//www.amember.com/p/Main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223142857id_/http%3A//www.amember.com/p/Main/Privacy) for the most accurate reproduction.*
 
-# Membership software - aMember Pro
+# Privacy Policy | aMember
 
 ### Introduction
 
