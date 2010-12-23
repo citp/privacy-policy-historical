@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webupon.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102084315id_/http%3A//webupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webupon.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223065355id_/http%3A//webupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Webupon
 
