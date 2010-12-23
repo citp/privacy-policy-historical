@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the starwoodhotels.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516043546id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starwoodhotels.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223193543id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<!--
-houwebpas07 : WEB-P-Res-C-HOUWEBPAS07-9080
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- Valhalla
+houwebpas11 : WEB-P-Res-C-HOUWEBPAS11-9083
 -->
 
   
@@ -13,7 +13,13 @@ houwebpas07 : WEB-P-Res-C-HOUWEBPAS07-9080
 	<script type="text/javascript" src="/dp/en_US/common/imageRollover.js"></script>
 	<script type="text/javascript" src="/dp/en_US/common/flashSniff.js"></script>
 	<script type="text/javascript" src="/dp/en_US/common/browserOSSniff.js"></script>
-	<script type="text/javascript">
+      <script type="text/javascript" src="/common/js/lib/yahoo/yahoo-dom-event/yahoo-dom-event.js"></script>
+  <script type="text/javascript" src="/common/js/lib/yahoo/animation/animation-min.js"></script>
+  <script type="text/javascript" src="/common/js/lib/starwood/starwood.js"></script>
+  <script type="text/javascript" src="/common/js/lib/starwood/widgets.js"></script>
+  <script type="text/javascript" src="/corporate/js/global/global.js"></script>
+  <script type="text/javascript" src="/common/js/lib/starwood/core-extensions.js"></script>
+    <script type="text/javascript">
 	<!--
     // Left Navigation BGColor - Corp
     var onColor = "#3399CC";
@@ -25,9 +31,10 @@ houwebpas07 : WEB-P-Res-C-HOUWEBPAS07-9080
 	<link rel="stylesheet" type="text/css" href="/common/css/global/global_footer.css">
 	<link rel="stylesheet" type="text/css" href="/corporate/css/global/global.css">
 	<link rel="stylesheet" type="text/css" href="/Static/CSS/Corporate/styles_all.css">
-	<link rel="stylesheet" type="text/css" href="/corporate/css/local/components/content/global_footer_popup.css">
-	<link rel="shortcut icon" type="image/x-icon" href="/en_US/Media/ICO/Corp/corp.ico">
-	<link rel="icon" type="image/x-icon" href="/en_US/Media/ICO/Corp/corp.ico">
+    <link rel="stylesheet" type="text/css" href="/corporate/css/local/components/content/globalFooterCorporate.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/en_US/Media/ICO/Corp/corp.ico">
+    <link rel="icon" type="image/x-icon" href="/en_US/Media/ICO/Corp/corp.ico">
+    <link rel="canonical" href="http://www.starwoodhotels.com/corporate/privacy_policy.html">
 </head>
 <body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff">
 
@@ -54,27 +61,49 @@ houwebpas07 : WEB-P-Res-C-HOUWEBPAS07-9080
 
 
 
-<form name="internationalizationForm" method="GET" action="/language.do" class="starForm" id="langSwitchForm">
-<select name="localeCode" onchange="this.form.submit();" class="dropDownLanguage">
-  <option value="" selected="selected">Language</option>
 
-  <option value="en_US">English</option>
 
-  <option value="fr_FR">Français</option>
 
-  <option value="es_ES">Español</option>
 
-  <option value="de_DE">Deutsch</option>
 
-  <option value="ja_JP">日本語</option>
+    
+        
+    
+    
 
-  <option value="zh_CN">中文(简体)</option>
 
-  <option value="it_IT">Italiano</option>
+<div id="languageSelector" class="dhtmlSelect">
+    <span class="dhtmlSelectTrigger">Language</span>
+    
+    <div id="languages">
+    <ul>
+		
+        <li><a href="?brandName=corporate&amp;language=en_US&amp;localeCode=en_US" onclick="trackLanguageChange('en_US')">English</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=fr_FR&amp;localeCode=fr_FR" onclick="trackLanguageChange('fr_FR')">Français</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=es_ES&amp;localeCode=es_ES" onclick="trackLanguageChange('es_ES')">Español</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=de_DE&amp;localeCode=de_DE" onclick="trackLanguageChange('de_DE')">Deutsch</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=ja_JP&amp;localeCode=ja_JP" onclick="trackLanguageChange('ja_JP')">日本語</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=zh_CN&amp;localeCode=zh_CN" onclick="trackLanguageChange('zh_CN')">中文(简体)</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=it_IT&amp;localeCode=it_IT" onclick="trackLanguageChange('it_IT')">Italiano</a></li>
+		
+        <li><a href="?brandName=corporate&amp;language=pt_BR&amp;localeCode=pt_BR" onclick="trackLanguageChange('pt_BR')">Português</a></li>
+        
+    </ul>
+    </div>
+</div>
 
-</select>
-<input type="hidden" name="returnURL" value="http://www.starwoodhotels.com/corporate/privacy_policy.html">
-</form>
+<script type="text/javascript">
+    function trackLanguageChange(language) {
+        s.prop20 = "LPQ:"+s.prop3+":"+language;
+        s.t();
+    }
+</script>
 
 					</div>
 				</div>
@@ -104,15 +133,15 @@ houwebpas07 : WEB-P-Res-C-HOUWEBPAS07-9080
 </script>
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="761">
+<table cellpadding="0" cellspacing="0" border="0" width="825">
 	<tbody><tr>
 		<td rowspan="6" width="11"><img src="/en_US/Media/Graphics/Common/shim.gif" height="1" width="11" border="0" title="" alt=""></td>
 		<td>
-			<table cellpadding="0" cellspacing="0" border="0" width="750">
+			<table cellpadding="0" cellspacing="0" border="0" width="825">
 				<tbody><tr>
 					<td valign="top"><img src="/en_US/Media/Graphics/Common/shim.gif" height="1" width="11" border="0" title="" alt=""></td>
-					<td valign="top"></td>
-						</tr></tbody></table><table cellpadding="0" cellspacing="0" border="0" width="750">
+					<td valign="top">
+						<table cellpadding="0" cellspacing="0" border="0" width="825">
 							<tbody><tr>
 								<td width="1" class="bgcolorVertical1"><img src="/en_US/Media/Graphics/Common/shim.gif" height="1" width="1" border="0" title="" alt=""></td>
 								<td valign="top" align="center" width="185">
@@ -121,7 +150,7 @@ houwebpas07 : WEB-P-Res-C-HOUWEBPAS07-9080
 									<!-- BEGIN OPTIONAL MESSAGING -->
 										
 									<!-- //END OPTIONAL MESSAGING -->
-								<img src="/en_US/Media/Graphics/Common/shim.gif" height="1" width="185" border="0" title="" alt="">
+								    <img src="/en_US/Media/Graphics/Common/shim.gif" height="1" width="185" border="0" title="" alt="">
 								</td>
 								<td width="1" class="bgcolorVertical2"><img src="/en_US/Media/Graphics/Common/shim.gif" height="1" width="1" border="0" title="" alt=""></td>
 								<td valign="top" width="563">
@@ -608,135 +637,175 @@ are always aware of when the Privacy Statement was last updated.</p>
 
 
 
-
-
-<div id="globalFooterContainer">
-
-    <div id="globalFooterBrandNavigatorContainer">
-        <div id="brandNavigatorContainer">
+<div id="globalFooterContainer"> 
+    
+    
+    
+        
             
-
-<a id="youAreOnLink" href="http://www.StarwoodHotels.com" target="_parent">You are on StarwoodHotels.com</a>
-
-<div id="otherStarwoodBandsContainer">
-	<a id="otherStarwoodBrandsLink" href="javascript:brandNavOpen();">Other Starwood Brands &gt;</a>
-	<iframe id="brandNavIframeShim" src="/common/blank.jsp" scrolling="no" frameborder="no" style="display:none;"></iframe>
-	<div id="brandNavBrandList" onmouseover="brandNavOpen();" onmouseout="brandNavClose();">
-		<a href="http://www.fourpoints.com" target="_parent">Four Points</a>
-		<a href="http://www.sheraton.com" target="_parent">Sheraton</a>
-		<a href="http://www.alofthotels.com" target="_parent">aloft</a>
-		<a href="http://www.whotels.com" target="_parent">W Hotels</a>
-		<a href="http://www.lemeridien.com" target="_parent">Le Méridien</a>
-		<a href="http://www.luxurycollection.com" target="_parent">Luxury Collection</a>
-		<a href="http://www.elementhotels.com" target="_parent">element</a>
-		<a href="http://www.westin.com" target="_parent">Westin</a>
-		<a href="http://www.stregis.com" target="_parent">St. Regis</a>
-		<hr size="1">
-		<a href="/index.html" target="_parent">Starwood Hotels</a>
-		<a href="javascript:popUp('/corporate/common/components/content/global_footer_brand_popup.html',558,625)">Learn about our brands</a>
-	</div>
-</div>
-
-<script type="text/javascript">
-function brandNavClose()	{
-	document.getElementById("brandNavBrandList").style.visibility = "hidden";
-	document.getElementById("brandNavIframeShim").style.display = "none";
-}
-
-function brandNavOpen()	{
-	document.getElementById("brandNavBrandList").style.visibility = "visible";
-	document.getElementById("brandNavIframeShim").style.display = "block";
-}
-
-function popUp(URL,popWidth,popHeight) {
-	day = new Date();
-	id = day.getTime();
-	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width="+popWidth+",height="+popHeight+",left=242,top=114');");
-}
-</script>
- 
-        </div>
-        <div id="spgComponentContainer">
-
             
-
-
-<a href="http://www.starwoodhotels.com/preferredguest/index.html" target="_parent" id="spgReg">Starwood Preferred Guest ®</a>
-
-<form action="/preferredguest/account/sign_in.html" name="footerLogin" method="get" target="_parent">
-    <input type="hidden" name="returnURL" value="https://www.starwoodhotels.com/corporate/privacy_policy.html">
-
-    <a href="javascript:document.forms['footerLogin'].submit();" id="spgSignIn">Sign In</a> |
-
-    <a href="http://www.starwoodhotels.com/preferredguest/account/enroll/index.html" target="_parent" id="spgJoin">Join</a>
-</form>
-
-
-
-        </div>
-    </div>
-
-    <div id="globalFooterLegal">
+            
+            
+            
+        
+                
         
 
 
-    <a href="http://www.starwoodhotels.com/bestrate/index.html" target="_parent" id="bestRateLink">Best Rate Guarantee</a> |
-
-    <a href="http://www.starwoodhotels.com/corporate/careers/index.html" target="_parent" id="careersLink">Starwood Hotels Careers</a> |
-
-    <a href="http://www.starwoodhotels.com/corporate/search/hotel_directory.html" target="_parent" id="hotelDirectoryLink">Hotel Directory</a> |
-
-    <a href="http://www.starwoodhotels.com/corporate/terms_conditions.html" target="_parent" id="termsConditionsLink">Terms &amp; Conditions for Use</a> |
-    <a href="http://www.starwoodhotels.com/corporate/privacy_policy.html" target="_parent" id="privacyLink">Privacy Statement</a>
-
-<br><nobr><span id="copyright"><a href="http://www.starwoodhotels.com/index.html" target="_parent" id="copyWriteLink">© 2008 Starwood Hotels &amp; Resorts Worldwide, Inc. All rights reserved.</a></span></nobr>
 
 
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+<div id="globalFooterLegal">
+<a id="bestRateLink" href="/bestrate/index.html" target="_parent">Best Rate Guarantee</a> |
+    
+        <a id="careersLink" href="/corporate/careers/index.html" target="_parent">Starwood Hotels Careers</a> |
+    
+
+    
+        
+        
+            <a id="hotelDirectoryLink" href="/corporate/directory/index.html" target="_parent">
+                
+                Hotel Directory
+            </a> |
+            
+            
+                <a id="termsConditionsLink" href="/corporate/terms_conditions.html" target="_parent">Website Terms of Use</a> |
+                <a id="privacyLink" href="/corporate/privacy_policy.html" target="_parent">Privacy Statement</a>
+        
+    
+        
+</div>
+        
+
+
+
+
+
+<div id="globalFooterBrandBar">
+    <table cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+            <td class="firstCell"><a title="Starwood Preferred Guest" id="logoPos1" href="/preferredguest/index.html" target="_parent"></a></td>
+            <td class="spacerCell"><div>&nbsp;</div></td>
+            <td id="globalFooterLogoContainer">
+                <a title="Le Méridien" id="logoPos2" href="/lemeridien/index.html" target="_parent"></a>
+                <a title="aloft" id="logoPos3" href="/alofthotels/index.html" target="_parent"></a>
+                <a title="The Luxury Collection" id="logoPos4" href="/luxury/index.html" target="_parent"></a>
+                <a title="Westin" id="logoPos5" href="/westin/index.html" target="_parent"></a>
+                <a title="Four Points by Sheraton" id="logoPos6" href="/fourpoints/index.html" target="_parent"></a>
+                <div id="brandBarDivider"></div>
+                <a title="element" id="logoPos7" href="/element/index.html" target="_parent"></a>
+                <a title="Sheraton" id="logoPos8" href="/sheraton/index.html" target="_parent"></a>
+                <a title="St. Regis" id="logoPos9" href="/stregis/index.html" target="_parent"></a>
+                <a title="W Hotels" id="logoPos10" href="/whotels/index.html" target="_parent"></a>
+            </td>
+            <td id="brandBarDividerTail"></td>
+            <td id="navigationLinkContainer">
+                
+
+
+
+
+
+
+
+
+
+<div id="globalFooterBrandNavigatorContainer">
+    <div id="brandNavigatorContainer">
+        
+            
+                
+                    <a id="youAreOnLink" href="http://www." target="_parent">You are on </a>
+                
+                
+            
+        
+
+
+        <div id="otherStarwoodBandsContainer">
+            
+                <script type="text/javascript">
+                function brandNavClose()	{
+                    document.getElementById("brandNavBrandList").style.visibility = "hidden";
+                    document.getElementById("brandNavIframeShim").style.display = "none";
+                }
+
+                function brandNavOpen()	{
+                    document.getElementById("brandNavBrandList").style.visibility = "visible";
+                    document.getElementById("brandNavIframeShim").style.display = "block";
+                }
+
+                function popUp(URL,popWidth,popHeight, scrollbars) {
+                    var useScrollBars = scrollbars || "0";
+                    day = new Date();
+                    id = day.getTime();
+                    eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars="+useScrollBars+",location=0,statusbar=0,menubar=0,resizable=0,width="+popWidth+",height="+popHeight+",left=242,top=114');");
+                }
+                </script>                
+                <a id="otherStarwoodBrandsLink" href="javascript:brandNavOpen();">Other Starwood Brands &gt;</a> <span class="verticalDivider">|</span>
+                <iframe id="brandNavIframeShim" src="/common/blank.jsp" scrolling="no" frameborder="0" style="display:none;"></iframe>
+                <div id="brandNavBrandList" onmouseover="brandNavOpen();" onmouseout="brandNavClose();">
+                    <a href="http://www.fourpoints.com" target="_parent">Four Points</a>
+                    <a href="http://www.sheraton.com" target="_parent">Sheraton</a>
+                    <a href="http://www.alofthotels.com" target="_parent">Aloft</a>
+                    <a href="http://www.whotels.com" target="_parent">W Hotels</a>
+                    <a href="http://www.lemeridien.com" target="_parent">Le Méridien</a>
+                    <a href="http://www.luxurycollection.com" target="_parent">Luxury Collection</a>
+                    <a href="http://www.elementhotels.com" target="_parent">Element</a>
+                    <a href="http://www.westin.com" target="_parent">Westin</a>
+                    <a href="http://www.stregis.com" target="_parent">St. Regis</a>
+                    <hr size="1">
+                    <a href="http://www.preferredguest.com" target="_parent">Starwood Preferred Guest</a>
+                    <a href="/index.html" target="_parent">Starwood Hotels</a>
+                    <a href="javascript:popUp('//common/components/content/global_footer_brand_popup.html',575,780,'yes')" class="lastItem">Learn about our brands</a>
+                </div>
+
+            
+            <a href="/index.html" target="_parent">Starwood Hotels &amp; Resorts</a>
+        </div>
+
+        <div id="footerCopyright">
+            
+            <p>© 2010 Starwood Hotels &amp; Resorts Worldwide, Inc.</p>
+            <p>All rights reserved.</p>
+        </div>
     </div>
+</div>
 
-    <div id="globalFooterBrandBar">
 
-        <table cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td id="first"><a href="/index.html" target="_parent"><img src="/common/images/logos/white/corp_white.gif" alt="Starwood Hotels &amp; Resorts" title="Starwood Hotels &amp; Resorts" height="28" width="72"></a></td>
 
-	<td class="verticalSeperator"><img src="/common/images/logos/white/vr_white.gif" alt="" title="" height="37" width="1"></td>
 
-	<td><a href="/sheraton/index.html" target="_parent"><img src="/common/images/logos/white/si_white.gif" alt="Sheraton" title="Sheraton" height="35" width="40"></a></td>
 
-	<td><a href="/fourpoints/index.html" target="_parent"><img src="/common/images/logos/white/4p_white.gif" alt="Four Points by Sheraton" title="Four Points by Sheraton" height="40" width="70"></a></td>
 
-	<td><a href="/whotels/index.html" target="_parent"><img src="/common/images/logos/white/wh_white.gif" alt="W Hotels" title="W Hotels" height="34" width="31"></a></td>
-
-	<td><a href="/alofthotels/index.html" target="_parent"><img src="/common/images/logos/white/al_white.gif" alt="Aloft" title="Aloft" height="38" width="38"></a></td>
-
-	<td><a href="/luxury/index.html" target="_parent"><img src="/common/images/logos/white/lc_white.gif" alt="The Luxury Collection" title="The Luxury Collection" height="35" width="79"></a></td>
-	
-	<td><a href="/lemeridien/index.html" target="_parent"><img src="/common/images/logos/white/md_white.gif" alt="Le Méridien" title="Le Méridien" height="35" width="56"></a></td>
-	
-	<td><a href="/element/index.html" target="_parent"><img src="/common/images/logos/white/el_white.gif" alt="element" title="element" height="41" width="43"></a></td>
-	
-	<td><a href="/westin/index.html" target="_parent"><img src="/common/images/logos/white/wi_white.gif" alt="Westin" title="Westin" height="35" width="46"></a></td>
-
-	<td><a href="/stregis/index.html" target="_parent"><img src="/common/images/logos/white/st_white.gif" alt="St. Regis" title="St. Regis" height="35" width="40"></a></td>
-
-	<td class="verticalSeperator"><img src="/common/images/logos/white/vr_white.gif" alt="" title="" height="37" width="1"></td>
-
-	<td id="last" valign="top"><a href="/preferredguest/index.html" target="_parent"><img src="/common/images/logos/white/spg_white.gif" alt="Starwood Preferred Guest" title="Starwood Preferred Guest" height="32" width="67"></a></td>
-
-</tr>
-</tbody></table>
-
-    </div>
-
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+    
+        
 </div>
 
 					</td>
 				</tr>
 			</tbody></table>
-		
-	
-
+		</td>
+	</tr>
+</tbody></table>
 
 
 <br><br>
@@ -775,17 +844,39 @@ if (typeof(aLinkBase)!='undefined'){
 
 
 
-<!-- SiteCatalyst code version: H.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- SiteCatalyst code version: H.20.3.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript">
+
+<script type="text/javascript">
     var s_omnitureAccount = "swhstarwoodver2";
 </script>
+<script type="text/javascript" src="/common/js/omniture/s_code.js"></script>
+<script type="text/javascript" src="/common/js/omniture/s_code_library.js"></script>
 
-<script language="JavaScript" src="/common/js/omniture/s_code.js"></script>
-
-<script language="JavaScript" src="/common/js/omniture/s_code_library.js"></script>
-<script language="JavaScript"><!--
+<script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 
@@ -797,17 +888,17 @@ the next lines. */
 
 
 
-    s.server = "houwebpas07:WEB-P-Res-C-HOUWEBPAS07-9080";
+    s.server = "houwebpas11:WEB-P-Res-C-HOUWEBPAS11-9083";
     s.channel = "Branded Websites";
 
     s.campaign = "";
     s.eVar30 = "";
     s.eVar31 = "";
 
-    s.eVar36 = "";
+    s.eVar36 = "|";
     s.eVar37 = "";
     s.eVar38 = "";
-
+    s.eVar26 = "Y"
     s.prop1 = "noID";
     s.prop2 = "CORP";
     s.prop3 = "en_US";
@@ -819,7 +910,7 @@ the next lines. */
     s.prop9 = "About";
     s.prop10 = "About:Legal";
     s.prop11 = "About:Legal:Privacy";
-    s.prop12 = "About:Legal:Privacy";
+    
     s.prop13 = "CORP:About";
     s.prop14 = "CORP:About:Legal";
     s.prop15 = "CORP:About:Legal:Privacy";
@@ -827,26 +918,32 @@ the next lines. */
     s.prop17 = "en_US:About";
     s.prop18 = "en_US:About:Legal";
     s.prop19 = "en_US:About:Legal:Privacy";
-    s.prop20 = "en_US:About:Legal:Privacy";
+    
     s.prop21 = "CORP:en_US:About";
     s.prop22 = "CORP:en_US:About:Legal";
-    s.prop23 = "CORP:en_US:About:Legal:Privacy";
-    s.prop24 = "CORP:en_US:About:Legal:Privacy";
+    
+    
     s.prop25 = "noID:About:Legal";
     s.prop26 = "noID:About:Legal:Privacy";
-    s.prop27 = "noID:About:Legal:Privacy";
+    
     s.prop28 = "Non-SPG";
-
+    s.prop31 = "Y";
     s.prop32 = "noID:en_US:About:Legal";
-    s.prop33 = "noID:en_US:About:Legal:Privacy";
-    s.prop34 = "noID:About";
+    s.prop33 = "";
+    
     s.prop35 = "";
-    s.prop36 = "";
+    
     s.prop37 = "";
-    s.prop38 = "";
+    
 
     s.prop41 = "";
-    s.prop43 = "<null> | 39958D10233C102307A383790B82180E | 39958D10233C102307A383790B82180E";
+    
+
+    s.eVar46 = "CORP:AboutLegal:4";
+    s.prop46 = "CORP:AboutLegal:4";
+    s.prop48 = "";
+    s.eVar35 = "";
+    trackingPage = "Privacy";
 
 
 
@@ -859,6 +956,9 @@ the next lines. */
 
 
 
+
+
+        
 
 
 
@@ -875,18 +975,17 @@ the next lines. */
 
         /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
         var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-        <script language="JavaScript"><!--
+        <script type="text/javascript"><!--
         if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
         //--></script><noscript><img
-        src="http://metrics.starwoodhotels.com/b/ss/swhstarwoodver2/1/H.1--NS/0?pageName=en_US%3ACORP%3AnoID%3AAbout%3ALegal%3APrivacy&server=houwebpas07%3AWEB-P-Res-C-HOUWEBPAS07-9080&ch=Branded+Websites&ce=UTF-8&c1=noID&c2=CORP&c3=en_US&c4=&c5=&c6=&c7=&c8=CORP%3Aen_US&c9=About&c10=About%3ALegal&c11=About%3ALegal%3APrivacy&c12=About%3ALegal%3APrivacy&c13=CORP%3AAbout&c14=CORP%3AAbout%3ALegal&c15=CORP%3AAbout%3ALegal%3APrivacy&c16=CORP%3AAbout%3ALegal%3APrivacy&c17=en_US%3AAbout&c18=en_US%3AAbout%3ALegal&c19=en_US%3AAbout%3ALegal%3APrivacy&c20=en_US%3AAbout%3ALegal%3APrivacy&c21=CORP%3Aen_US%3AAbout&c22=CORP%3Aen_US%3AAbout%3ALegal&c23=CORP%3Aen_US%3AAbout%3ALegal%3APrivacy&c24=CORP%3Aen_US%3AAbout%3ALegal%3APrivacy&c25=noID%3AAbout%3ALegal&c26=noID%3AAbout%3ALegal%3APrivacy&c27=noID%3AAbout%3ALegal%3APrivacy&c28=Non-SPG&c29=&c30=&c31=&c32=noID%3Aen_US%3AAbout%3ALegal&c33=noID%3Aen_US%3AAbout%3ALegal%3APrivacy&c34=noID%3AAbout&c35=&c36=&c37=&c38=&c41=&c43=%3Cnull%3E+%7C+39958D10233C102307A383790B82180E+%7C+39958D10233C102307A383790B82180E&events=&products=&v0=&v21=&v30=&v31=&v36=&v37=&v38="
+        src="http://metrics.starwoodhotels.com/b/ss/swhstarwoodver2/1/H.20.3--NS/0?pageName=en_US%3ACORP%3AnoID%3AAbout%3ALegal%3APrivacy&amp;server=houwebpas11%3AWEB-P-Res-C-HOUWEBPAS11-9083&amp;ch=Branded+Websites&amp;ce=UTF-8&amp;c1=noID&amp;c2=CORP&amp;c3=en_US&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c8=CORP%3Aen_US&amp;c9=About&amp;c10=About%3ALegal&amp;c11=About%3ALegal%3APrivacy&amp;c13=CORP%3AAbout&amp;c14=CORP%3AAbout%3ALegal&amp;c15=CORP%3AAbout%3ALegal%3APrivacy&amp;c17=en_US%3AAbout&amp;c18=en_US%3AAbout%3ALegal&amp;c19=en_US%3AAbout%3ALegal%3APrivacy&amp;c21=CORP%3Aen_US%3AAbout&amp;c22=CORP%3Aen_US%3AAbout%3ALegal&amp;c25=noID%3AAbout%3ALegal&amp;c26=noID%3AAbout%3ALegal%3APrivacy&amp;c28=Non-SPG&amp;c29=&amp;c30=&amp;c31=Y&amp;c32=noID%3Aen_US%3AAbout%3ALegal&amp;c33=&amp;c35=&amp;c37=&amp;c41=&amp;c48=&amp;events=&amp;products=&amp;v0=&amp;v21=&amp;v30=&amp;v31=&amp;v35=&amp;v36=%7C&amp;v26=Y&amp;v37=&amp;v38=&amp;c46=CORP%3AAboutLegal%3A4&amp;v46=CORP%3AAboutLegal%3A4"
         height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-        <!-- End SiteCatalyst code version: H.1. -->
+        <!-- End SiteCatalyst code version: H.20.3. -->
 
 
 
 
-
-
+    
 
 
     
@@ -894,6 +993,7 @@ the next lines. */
         
         
     
+
 
 
 
