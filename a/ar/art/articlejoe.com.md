@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlejoe.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105051329id_/http%3A//www.articlejoe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlejoe.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223111620id_/http%3A//www.articlejoe.com/privacy.php) for the most accurate reproduction.*
 
 # 100% Free Article Directory at ArticleJoe.com
 
