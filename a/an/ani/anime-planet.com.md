@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208230916id_/http%3A//www.anime-planet.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223063811id_/http%3A//www.anime-planet.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Anime-Planet
 
@@ -16,6 +16,8 @@ At Anime-Planet, we value your privacy. Your personal information (email, IP add
 
 
 
+Anime-Planet uses third-party advertising companies to serve ads and collect information when you visit our site. These companies may use cookies to collect information (such as which ads you have seen already or which ads you have clicked) in order to provide additional advertisements. If you would like more information and to know how to opt-out, see <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 Access to personal information is limited to specific staff members who need it to complete their duties (such as contacting a user regarding rule-breaking recommendations). We may provide this information to third parties (such as to send you a contest prize), but only with your expressed permission.
 
 Anime-Planet reserves the right to share statistical data with third parties; this does not include personal items such as IP, email, or mailing address. 
@@ -23,3 +25,5 @@ Anime-Planet reserves the right to share statistical data with third parties; th
 Anime-Planet reserves the right to modify this policy at any time. Though we take heavy precautions to safeguard your personal information, we are not responsible for information that is unlawfully obtained from our servers. We are not responsible for any information publicly disclosed by an individual regarding him or herself by means of our services, including the chat room, forum, blogs, or profile.
 
 If you have additional questions about our privacy policy, please contact us.
+
+© Anime-Planet, 2001-2010 — Graphics, logos, designs, page headers, button icons, scripts, and other service names are the trademarks of Anime-Planet. 
