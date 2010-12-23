@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061545id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223151052id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
 
-# File recovery and data recovery software - QueTek Consulting Corporation
+# Privacy
 
-  
-**Privacy Policy - Protecting Your Billing Information**
-
-Protecting your private data is of utmost concern to us.  When you purchase our products with a credit card, the billing information is encrypted and securely forwarded to a highly respected online credit card processing agent. We do not retain the complete credit card number on any computer equipment. Our agent is [Card Service International](http://www.cardservice.com/), an industry leader in credit card processing for Internet businesses. 
+Protecting your private data is of utmost concern to us.  When you purchase our products with a credit card, the billing information is encrypted and securely forwarded to a highly respected online credit card processing agent. We do not retain the complete credit card number on any computer equipment. Our agents are [First Data](http://www.firstdata.com/fdis/) and [PayPal](http://merchant.paypal.com/), industry leaders in credit card processing for Internet businesses. 
 
 Effective Date: August 27, 2007
 
@@ -17,7 +14,7 @@ To request a correction or deletion of your private information, or if you have 
 
 E-mail:  [help@quetek.com](mailto:help@quetek.com)
 
-Surface mailing address: |     |  QueTek Consulting Corporation  
+| Surface mailing address: |     |  QueTek Consulting Corporation  
 Attention: Customer Service Team  
 2650 Fountain View Drive  
 Suite 122  
