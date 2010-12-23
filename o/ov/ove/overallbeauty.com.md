@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514011325id_/http%3A//www.overallbeauty.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223031016id_/http%3A//www.overallbeauty.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice : Overall Beauty
 
-|  |   
----  
-  
 Our mailing address is:  
 Overall Beauty  
 ATTN: Kim Snyder  
@@ -50,14 +47,10 @@ If you click on ads, banners or hyperlinks, information will be collected by tho
 With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.  
 To protect our customers and our reputation, OverallBeauty.com is committed to providing a safe, comfortable online shopping environment. Our servers are secured and access to personal information is limited. OverallBeauty.com guarantees the safety of your information and will only charge you for purchases that are properly authorized. If you have any comments or concerns, you may either e-mail us at support@overallBeauty.com or call us toll-free at (888)422-2694, leave a messenge and someone will get back with you the next day.
 
+Update: If we feel that a credit card may of been used that does not belong to the person who has ordered, if there is a chance that fraud has taken place, we reserve the right to cancel the order in question and refund back to the credit card holder. We also reserve the right not to take your order,  and will refund the order. If there is a possible missmatching of address to credit card holder we reserve the right not to take your order.
+
+  
 Questions about This Policy  
 We reserve the right to modify, revise, amend, or change this Privacy Policy, Terms of Use Policy, Purchase Agreement, or any other policy by simply making and reposting the policy. By revisiting this site after reposting, you accept the new policy.   
 If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact OverallBeauty directly at: support@overallBeauty.com  
-  
-|   
----  
-  
-|   
----  
-  
-0 items
+
