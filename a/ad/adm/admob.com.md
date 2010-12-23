@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the admob.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510010534id_/http%3A//www.admob.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admob.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223045029id_/http%3A//www.admob.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AdMob
 
 **Last Updated -- October 30th 2009**
 
-This privacy statement ("Privacy Policy") explains how information is collected and utilized by AdMob, Inc. ("AdMob" or "we", "us", "our") its subsidiaries and affiliated companies. This Privacy Policy applies to the AdMob website at www.admob.com, (the "Site") and AdMob's other online services. If you have any concerns about privacy on the Site, please send an email to privacy@admob.com and we will try to address it.
+This privacy statement ("Privacy Policy") explains how information is collected and utilized by AdMob Google Inc. ("AdMob" or "we", "us", "our") its subsidiaries and affiliated companies. This Privacy Policy applies to the AdMob website at www.admob.com, (the "Site") and AdMob's other online services. If you have any concerns about privacy on the Site, please send an email to privacy@admob.com and we will try to address it.
 
 **What Personal Information Does AdMob Collect?**
 
