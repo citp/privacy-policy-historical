@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacyescrow.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131211638id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacyescrow.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223124604id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Online Pharmacy Privacy Policy
 
@@ -126,4 +126,12 @@ Back to Top
 |   
 
 
-[ ](http://server.iad.liveperson.net/hc/73507357/?cmd=file&file=visitorWantsToChat&site=73507357&byhref=1&imageUrl=http://www.pharmacyescrow.com/images/timpani/)
+[ ](http://server.iad.liveperson.net/hc/73507357/?cmd=file&file=visitorWantsToChat&site=73507357&byhref=1&imageUrl=http://www.pharmacyescrow.com/images/timpani/)  
+  
+By using this site you agree to our [Terms and Conditions](https://web.archive.org/terms.aspx) © 2004-2010, PharmacyEscrow.com  
+Our pharmacy escrow service does not allow shipments to any Canadian address. _  
+** Please note that all information provided on this site is for informational purposes only.  
+Information is provided by the U.S. Food & Drug Administration as well as each medications individual manufacturer.   
+Please consult your physician before using any information/medication you see listed on this site. ** _
+
+PharmacyEscrow.com is an [Online Pharmacy](https://web.archive.org/) Escrow Service that ships medications World Wide. Our pharmacies carry everything you need, including the most popular erectile dysfunction medications [Viagra](https://web.archive.org/s3668-s-VIAGRA.aspx), [Cialis](https://web.archive.org/s3163-s-CIALIS.aspx), and [Levitra](https://web.archive.org/s3257-s-LEVITRA.aspx). Order today by calling 1-877-888-3562.
