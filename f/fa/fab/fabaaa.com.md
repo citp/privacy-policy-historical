@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabaaa.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107184245id_/https%3A//www.fabaaa.com/conditions.php%3FosCsid%3D4c33310a657def37ceda9306227bed4d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabaaa.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223010708id_/https%3A//www.fabaaa.com/conditions.php) for the most accurate reproduction.*
 
-# FABAAA | Best Louis Vuitton Gucci Balenciaga Hermes Burberry Fendi YSL handbag replica.
+# Privacy/Security Statement - FABAAA - replica, Louis Vuitton, lv, Gucci, Mulberry, Hermes, designer, knockoff, handbag
 
 Privacy 
 
