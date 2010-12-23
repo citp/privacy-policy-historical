@@ -1,56 +1,39 @@
-> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106155529id_/http%3A//www.50states.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223074710id_/http%3A//www.50states.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_does not_ collect any personal information from our site visitors. We respect your and your student's or children's privacy. We urge students and children to check for a privacy policy at any site that asks them for any information about themselves. 
+Marchex, Inc., its subsidiaries and affiliates (collectively "we" or "Marchex") respect your privacy. Our purpose in collecting information from you is to help us better understand our user base and to accordingly provide quality service. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.
 
-### **Collection and Use of Electronic Information**
+## What Information Do We Collect?
 
-For each visitor to our Web site, our Web server automatically recognizes the domain name (IP address) and the operating system of the computer used to contact us, _**but not the E-mail address**_. We use this information to track and analyze the number of visits to each individual page on our site and for no other purpose.
+We may request that an entity applying for an account with Marchex provide us with certain personal information (such as its name, email address, etc.) relevant to our provision of the various services offered on our site. We do not collect any personal information other than that which is specifically and knowingly provided to us. When we request information, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us.
 
-We collect the E-mail addresses of those who communicate with us via E-mail.  
-The E-mail information we collect is used to:
+## Cookies and Other Monitoring Technologies?
 
-  * Reply to questions and suggestions. 
+Like most sites, for account management purposes, Marchex may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. In limited instances, we may allow third party business partners to monitor our sites for the purpose of reporting user traffic, statistics, advertisements, "click-throughs" and/or other activities and to set their cookies on your computer, subject to agreement between such business partner and us and subject to such business partnerÂ’s privacy policy. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized advertising. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. In addition, you may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking.
 
+## Links to Other Sites?
 
+The Marchex website contains links to other sites. Those sites may send their own cookies to users, collect data, or solicit personal information. We are not responsible or liable for the privacy practices or content of such sites since we do not control them.
 
-We _do not_ share our E-mail list and _do not_ send broadcast mailings.
+## With Whom Do We Share Information?
 
-### Guest book / Message Board
+Marchex may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). This information may allow such third parties to provide you customized advertising.
 
-If you voluntarily disclose personal information (e.g., user name, real name, E-mail address) on 50states.com's online Guest book or Message Board please be aware that such information can be collected and used by others and may result in unsolicited messages from other posters or parties. You are not required to supply any personal information to use our guest book or message board.
+In addition, Marchex may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose.
 
-Our incoming E-mail, guest book and message board is reviewed at least once every 24 hours by the webmaster or his designate.
+Marchex may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities.
 
-### **Persons under 16**
+## Business Transfers?
 
-No information should be submitted to or posted at 50states.com's Web sites by children 16 years of age or under without their parent's or guardian's consent. 
+In the event of a transfer of ownership of Marchex, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred.
 
-### **Cookies / Portal site**
+## Consent and Changes to this Privacy Statement?
 
-50states.com _does not_ collect cookies. However, due to the nature of our site being a _portal_ to other sites you should be aware that some of those sites may and do collect cookies.
+By using our site or services, you consent to the collection and use of your information as we have outlined in this privacy statement and consent to our Terms of Use. Additionally, if you are using any of our services, we may also collect and use information in accordance with such service's applicable Terms and Conditions. Marchex may decide to change this privacy statement from time to time. If and when we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
-Cookies are pieces of information that a Web site transfers to any individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving information about your visit that will be useful on a return visit. The use of cookies is an industry standard -- you'll find them at most major Web sites.
+## Who Can I Ask If I Have Additional Questions?
 
-In a number of areas on sites that we link, visitors are given the opportunity to voluntarily provide additional information, including name, E-mail address, credit card information, postal address, etc. in order to accomplish a purchase or to receive specialized services. You may want to investigate their Privacy Policy before submitting information.
+Feel free to [contact us](http://www.50states.com/contact/) at any time with any questions you may have regarding our privacy statement.
 
-### **Read the Privacy Statement of our Advertising Agency.**
-
-"50states uses a reputable third party to serve the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please click here."  
-[Sonar Network Privacy Statement](http://www.sonar.com/content/privacy.htm)
-
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
-
- **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ï¿½cookieï¿½ on your browser.
-
-### **Acceptance**
-
-By using 50states.com, you signify your agreement with our Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. If you wish to be notified of changes please send an E-mail to: [postmaster@50states.com](mailto:%20postmaster@50states.com). This policy statement was posted on September 4, 1999. Modified February 17, 2000 to include Sonar Network link. Your continued use of 50states.com following the posting of any changes to this policy will signify your acceptance of the revised terms.
-
-### **More Information Regarding Privacy**
-
-In the event you have a question about this important subject, visit the Federal Trade Commission (FTC) website.  
-[Site Seeing On The Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html)
+Effective October 25 2010 
