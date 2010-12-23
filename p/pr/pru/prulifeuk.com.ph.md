@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prulifeuk.com.ph privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612025202id_/http%3A//www.prulifeuk.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prulifeuk.com.ph privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223105006id_/http%3A//www.prulifeuk.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PRU LIFE U.K
 
