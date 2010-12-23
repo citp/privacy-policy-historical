@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103052900id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223145710id_/http%3A//explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
-_Last updated: 10 February 2009._
+_Last updated: 27 May 2010._
 
 We take the issue of Internet privacy (what happens to people's personal information) very seriously.
 
@@ -10,11 +10,17 @@ Here (in plain English) are full details explaining what information our site co
 
 ### What information do we collect?
 
-Like every other website on the Net, our site is hosted on a web server (a powerful computer at our ISP) that keeps a log of all the pages and graphics it serves and where it sends them to. This information is essentially anonymous and statistical (it tells us how many people from Iceland looked at our site last Thursday), but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time. 
+Like every other website on the Net, our site is hosted on a web server (a powerful computer at our ISP) that keeps a log of all the pages and graphics it serves and where it sends them to. This information is essentially anonymous and statistical: it tells us how many people from Iceland looked at our site last Thursday, but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time. 
 
-The logs don't tell us who you are or where you live—but they do record your IP number (a number that uniquely identifies your computer). They also note how much information you downloaded, the operating system and browser you're using, the date and time of your visit, how you came to our site, and so on. None of this information is personally identifiable. We can figure out some things about what computer 12.34.56.78 was doing at 5am on Thursday, October 5 2007, if we really want to, but we don't know who that computer belongs to—and frankly we've got much better things to do with our time. 
+The logs don't tell us who you are or where you live—but they do record your IP number (a number that uniquely identifies your computer). They also note what you looked at or downloaded, the operating system and browser you're using, the date and time of your visit, how you came to our site, and so on. Here is an example of one line from our log, recording one hit from one visitor using the (made-up) IP number 12.34.56.78:
 
-How do we use this information? We view the access logs in a very general way using a statistical package called [AWStats](http://awstats.sourceforge.net/). (If you're really interested, you can see a [demo](http://awstats.sourceforge.net/#DEMO) of the kind of statistics that we can see.) What do they tell us? If we know certain pages are unpopular, we can improve them or discontinue them. If we know our server is about to crash because too many people are looking at our global warming page again, we can get a bigger server. If we know our RSS feeds are growing in popularity, we will start to update them more often. This is the kind of thing we do with our logs. Broadly speaking, they help us improve our website so it better meets your needs.
+12.34.56.78 - - [25/May/2010:13:05:41 +0100] "GET /transformers.html HTTP/1.0" 200 19986 "http://www.google.co.in/search?hl=en&q=why+we+use+transformers&meta= &aq=4m&aqi=g-c1g-m4&aql=&oq=use+transformers&gs_rfai=" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+
+What can we deduce from this? That someone using computer 12.34.56.78 wanted to find out "why we use transformers" at 13:05 on Tuesday May 25 2010. They used Google India to get to our site, which they viewed using a Mozilla/Firefox browser running under Windows. That's about it. The information logged here is not personally identifiable, so we don't know who made this search or why—and frankly, we don't care.
+
+How do we use this information? Contrary to what we've said, we don't actually look at our raw access logs: a typical day's log has hundreds of thousands of entries like the one above! Instead, we run the logs through a statistical package called [AWStats](http://awstats.sourceforge.net/) to show up daily, weekly, monthly, and yearly patterns in how people use our site. (If you're really interested, you can see a [demo](http://awstats.sourceforge.net/#DEMO) of the kind of statistics that we can see.) What does this tell us? If we know certain pages are unpopular, we can improve them or discontinue them. If we know our server is about to crash because too many people are looking at our global warming page again, we can get a bigger server. If we know our RSS feeds are growing in popularity, we will start to update them more often. This is the kind of thing we do with our logs. Broadly speaking, they help us improve our website so it better meets your needs.
+
+Our website hosting system keeps each log until the end of the current month and then erases it before starting a new one for the next month. So the absolute maximum amount of time for which information about your visit to our site is retained on our system is one month. (If you visit on the 31st of the month, the information is kept for only a day.)
 
 ### We do not use cookies—but our advertisers and affiliate partners do
 
@@ -44,4 +50,4 @@ These sites may help you:
 
 
 
-We hope this answers any concerns you have about privacy. If you have any further queries, please don't hesitate to contact us at the email address shown on our [about us](https://web.archive.org/web/20100103052900id_/http%3A//www.explainthatstuff.com/aboutus.html) page. 
+We hope this answers any concerns you have about privacy. If you have any further queries, please don't hesitate to contact us at the email address shown on our [about us](https://web.archive.org/web/20101223145710id_/http%3A//explainthatstuff.com/aboutus.html) page. 
