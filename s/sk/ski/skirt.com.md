@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the skirt.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504043704id_/http%3A//www.skirt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skirt.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223115621id_/http%3A//skirt.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Skirt.com | Skirt! Magazine | Skirt! Books
+# Privacy Policy | skirt!
 
-## Privacy Policy
-
-skirt.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. skirt.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by skirt.com online and does not impact information collected or used by skirt.com or its affiliates through other means. 
+skirt.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. skirt.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by skirt.com online and does not impact information collected or used by skirt.com or its affiliates through other means.
 
 ### How we gather information from users
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, blogs, message boards and chat rooms and other interactive areas of our site. Like most Web sites, skirt.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use “cookie” technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site. Additionally we may not be able to customize the site’s features according to your preferences. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, blogs, message boards and chat rooms and other interactive areas of our site. Like most Web sites, skirt.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use “cookie” technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site. Additionally we may not be able to customize the site’s features according to your preferences.
 
 ### What we do with the information we collect
 
@@ -18,7 +16,7 @@ We also collect information to enhance your visit and deliver more individualize
 
 Personally Identifiable Information collected by skirt.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
-As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases. 
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
 
 ### Affiliated sites, linked sites and advertisements
 
@@ -28,7 +26,7 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of skirt.com and this policy.
 
-### Children 
+### Children
 
 skirt.com does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe skirt.com has any information from or about anyone under the age of 13, please contact us at [webmaster@skirt.com](mailto:webmaster@savannahnow.com)
 
@@ -38,15 +36,10 @@ We may disclose personal information if we are required to do so by law or we in
 
 ### How To Contact Us
 
-For any questions or comments, you may contact us: 
+For any questions or comments, you may contact us:
 
-> Skirt!® Magazine   
-> 7 Radcliffe Street, Suite 302   
-> Charleston, SC 29403   
-> 843/958-0027 Editorial   
-> 843/958-0028 Sales   
-> 843/958-0029 FAX   
-> 
-
-  
-
+> skirt.com   
+>  P.O. Box 936  
+>  Augusta, GA  30903   
+>  706.724.0851 Phone  
+>  706.828.4361 FAX 
