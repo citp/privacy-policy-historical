@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wednesdaygift.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612085556id_/http%3A//www.wednesdaygift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wednesdaygift.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223123535id_/http%3A//www.wednesdaygift.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wednesday Gift
+# WednesdayGift - Every Wednesday A New Gift
 
 We want our users and customers to always be aware of any information we collect, how we use it, and under what cicumstances, if any, we disclose it. We are also committed to providing you with the very best experience we can on our Website. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically.
 
