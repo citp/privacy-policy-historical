@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505150145id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223141021id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Speed Max PC
+# SpeedMaxPC Privacy Policy » Speed Max PC
+
+##  SpeedMaxPC Privacy Policy 
 
 SpeedMaxPC is committed to protecting the privacy &  personal information you may provide to us when using any of our online services or products. This Privacy Policy describes how we treat information we receive when you transmit data to our websites.
 
@@ -15,19 +17,15 @@ We may automatically collect IP addresses and Web site usage information when yo
 **How Information Is Used When Collected**  
 We may use information collected in the following ways:
 
+**To process,** validate and verify purchases.  
+**To contact** you to reconfirm or verify accuracy of information provided.  
+**To register** you as a customer.To open and maintain a support account for you.  
+**To send email** notifications about new, existing, enhanced products or services.  
+**To send** information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services.
 
+**To enable** us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations.
 
-  * To process, validate and verify purchases.
-  * To contact you to reconfirm or verify accuracy of information provided.
-  * To register you as a customer.
-  * To open and maintain a support account for you.
-  * To send email notifications about new, existing, enhanced products or services.
-  * To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services.
-  * To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations.
-  * To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license.
-
-
-
+**To provide** advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license.
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the SpeedMaxPC software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so.
 
