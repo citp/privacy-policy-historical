@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ilike.com privacy policy that was archived on 2010-02-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100202213739id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ilike.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223091918id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
       <title>iLike - Privacy Policy</title>
   <link rel="search" type="application/opensearchdescription+xml" href="http://s1.ilike.com/osd.xml" title="iLike.com">
 
@@ -14,19 +14,25 @@
 
 <link rel="shortcut icon" href="http://s2.ilike.com/favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://s2.ilike.com/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://s1.ilike.com/ilike.css?v=45108">
+<link rel="stylesheet" type="text/css" href="http://s1.ilike.com/ilike.css?v=3724">
+
+<link rel="stylesheet" type="text/css" href="http://s1.ilike.com/stylesheets/fb_mfriend_sel.css?v=d89f">
+
 
 
 
 <script src="http://s2.ilike.com/js/browser_sniff.js?v=1" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js" type="text/javascript"></script>
 <script src="http://s3.ilike.com/js/swfobject.js?v=1_4_4" type="text/javascript"></script>
-<script src="http://s2.ilike.com/js/application.js?v=44308" type="text/javascript"></script>
-<script src="http://s1.ilike.com/js/util.js?v=44950" type="text/javascript"></script>
-<script src="http://s1.ilike.com/js/song.js?v=41240" type="text/javascript"></script>
-<script src="http://s1.ilike.com/js/tooltip.js?v=45110" type="text/javascript"></script>
+<script src="http://s2.ilike.com/js/application.js?v=5d72" type="text/javascript"></script>
+<script src="http://s1.ilike.com/js/util.js?v=b035" type="text/javascript"></script>
+<script src="http://s1.ilike.com/js/song.js?v=0393" type="text/javascript"></script>
+<script src="http://s1.ilike.com/js/tooltip.js?v=d07c" type="text/javascript"></script>
 
- 
+<script src="http://s1.ilike.com/js/fb_mfriend_sel.js?v=0d10" type="text/javascript"></script>
+
+
+
 
 
   </head>
@@ -35,12 +41,13 @@
     <div id="fixed_width">
       <div id="page">
         <div id="banner">
-          <div class="topHdr">
+           
+<div class="topHdr">
   <div class="searchBox">
     
 <form name="s" id="artist_search_form" method="get" action="/artist/search">
   <span class="input"><input id="artist_qp" name="artist_qp" type="text" class="search_dimmed_text" value=""></span>
-  <input class="image" type="image" align="absbottom" style="vertical-align:bottom;" src="/images/magGlass.gif" title="Search" value="Search">
+  <input class="image" type="image" align="absbottom" style="vertical-align:bottom;" src="/images/magGlass_transparent.gif" title="Search" value="Search">
 
 </form>
 
@@ -52,17 +59,31 @@
     </ul>
   </div>
 </div>
-<div id="welcome" class="welcome">
+  
+<div id="welcome" class="welcome" style="padding-bottom: 15px; margin-top: -5pxpx;">
   <div style="float:right" class="helpfaq">
     <span style="font-size:12px; color:#72746d;">
-      In partnership with MySpace Music&nbsp;|
+      In partnership with <a href="http://music.myspace.com">Myspace Music</a>&nbsp;|
     </span>
-      <span style="font-size:12px; color:#656b6f;">
-            <a rel="nofollow" href="http://www.ilike.com/faq/ilike">Help / FAQ</a>
+    <span style="font-size:12px; color:#656b6f;">
+      <a rel="nofollow" href="http://faq.myspace.com/ilike">Help / FAQ</a>
     </span>  
   </div>
   <div id="welcome_bar">
-      <div class="welcomeText">
+    <div class="welcomeText">
+      
+      
+        <span id="fbc_top_button" style="clear: none;" class="fbcloggedout">
+            <fb:login-button perms="publish_stream,offline_access,user_likes" size="small" id="fbc_login_button">Connect</fb:login-button>
+        </span>
+      
+      <span id="signup_and_login_links" style="padding-left: 15px; word-spacing: 5px; color: #72746D;">
+        <a id="login_link_na" href="/account/login" style="cursor: pointer;">Login</a> | 
+        <a href="/create" style="cursor: pointer;">Signup</a>
+      </span>
+    </div>
+  
+        <div class="welcomeText" style="display: none;">
 
 
       <a rel="nofollow" href="/account/login" id="login_link">Sign in</a>
@@ -78,7 +99,7 @@
   </div>
   
   <div id="login_dialog_content" class="content">  
-    <div class="existing_users" id="existing_users">
+    <div class="existing_users" id="existing_users" style="padding-top: 35px;">
       <form action="https://www.ilike.com/account/authenticate" id="login_dialog_form" method="post">
         <div style="float:right;margin:7px 5px 0 0;">
           <img style="margin:0;border:0;" src="http://s0.ilike.com/images/purchase/secure.gif" alt="Your information is secure">
@@ -132,6 +153,16 @@
         <a rel="nofollow" href="/create">Learn more</a>
       </p>
     </div>
+
+    
+    <div class="new_users">
+      <h2>Facebook users:</h2>
+      
+        <fb:login-button perms="publish_stream,offline_access,user_likes">Login / Signup via Facebook</fb:login-button>
+      
+    </div>
+  
+
     <div class="clear"></div>
 
   </div>
@@ -144,8 +175,10 @@
 
 
 
+    <div class="clear"></div>
   </div>
 </div>
+
 
 
 <script type="text/javascript">
@@ -481,10 +514,10 @@ will only acquire your personally identifiable information subject to the terms 
       <span class="sep">//</span> <a rel="nofollow" href="/about" title="About">About</a>
     </li>
     <li>
-      <span class="sep">//</span> <a rel="nofollow" href="http://www.ilike.com/faq" title="Help">Help</a>
+      <span class="sep">//</span> <a rel="nofollow" href="http://faq.myspace.com/ilike" title="Help">Help</a>
     </li>
     <li>
-      <span class="sep">//</span> <a rel="nofollow" href="http://c.ilike.com/conv_click.php?a=0&amp;c=index&amp;h=9562809b381c9e8650cb906b69d99c6f&amp;i=artist_signup_link_footer&amp;u=http%3A%2F%2Fwww.ilike.com%2Faccount%2Fartist_signup" title="Artist sign-up">Artist sign-up</a>
+      <span class="sep">//</span> <a rel="nofollow" href="http://c.ilike.com/conv_click.php?a=0&amp;c=index&amp;h=21aff301827e2aed08d1f58f4e765c85&amp;i=artist_signup_link_footer&amp;u=http%3A%2F%2Fwww.ilike.com%2Faccount%2Fsignup" title="Artist and Venue Sign-up">Artist and Venue Sign-up</a>
     </li>
     <li>
       <span class="sep">//</span> <a rel="nofollow" href="/advertise" title="Advertise">Advertise</a>
@@ -493,7 +526,7 @@ will only acquire your personally identifiable information subject to the terms 
       <span class="sep">//</span> <a rel="nofollow" href="/privacy" title="Privacy">Privacy</a>
     </li>
     <li>
-      <span class="sep">//</span> <a rel="nofollow" href="http://www.ilike.com/faq/artistservices/answers/36" title="Report infringing content">Report infringing content</a>
+      <span class="sep">//</span> <a rel="nofollow" href="http://faq.myspace.com/app/answers/detail/a_id/1033/" title="Report infringing content">Report infringing content</a>
     </li>
     <li>
       <span class="sep">//</span> <a href="/download" title="Download the iLike Sidebar">Download iLike Sidebar</a>
@@ -501,11 +534,115 @@ will only acquire your personally identifiable information subject to the terms 
 
   </ul>
 
+  <div>Our sister sites for <a href="http://www.rottentomatoes.com">movie reviews</a> and <a href="http://www.flixster.com">movie fans</a></div>
+
   <div id="footer_tm" style="line-height:1.4em; padding-top:10px;">
     * iLike is a trademark of iLike.com and not affiliated with Apple Computer. Reproduction,
     publication, or public exhibition of materials provided at this site is prohibited.
   </div>
 </div>
+
+<div id="fb_connect_initial_dialog" style="display: none;" class="lightbox_dialog">
+  <div id="fb_connect_initial_close" class="top_bar">
+    <a style="cursor: pointer;" id="fb_connect_initial_close_link" onclick="FB.api({method: 'auth.revokeAuthorization'}, function(response) {}); return false;"><img src="http://s2.ilike.com/images/purchase/close.gif" alt="Close"></a>
+  </div>
+  <div id="fb_connect_initial_content" class="content">
+    Loading...
+  </div>
+</div>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '114486945280436', status: true, cookie: true, xfbml: true});
+    FB.Event.subscribe('auth.sessionChange', function(response) {
+      if (response.session) {
+        fb_connect_setup_if_new_user();
+        } else {
+        fbc_top_button_logout();
+      }
+    });
+    check_fbc_login();
+    FB.Event.subscribe('auth.logout', function(response) {
+      //we have been logged out, swap upper button if present
+      //with connect button
+      check_fbc_login();
+    });
+    //universal catcha-all for any el's named fbc_name
+    if($('fbc_name')) {
+      FB.api('/me', function(response) {
+        $('fbc_name').update(response.name);
+      });
+    }
+  };
+  (function() {
+    var e = document.createElement('script'); 
+    e.async = true;
+    e.src = document.location.protocol +
+    '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+  var fb_connect_setup = function() {
+      new Ajax.Request("/account/fbc_initial_setup", {onSuccess: function(t) { 
+          Event.stopObserving('login_overlay', 'mousedown');
+          }, onComplete: function(t) {
+          if($('fbc_name')) {
+            FB.api('/me', function(response) {
+              $('fbc_name').update(response.name);
+              $('hidden_fbc_name').setValue(response.name);
+              $('user_firstname').focus();
+            });
+          }
+      }});
+      fbcl = new iLike.LoginDialog('fb_connect_initial'); 
+      fbcl.onClickLogin(false);
+  }
+  var fb_connect_setup_if_new_user = function() {
+    new Ajax.Request("/account/fbc_needs_setup", 
+    {onSuccess: function(t) {
+        if(parseInt(t.responseText) == 1) {
+          fb_connect_setup();
+          } else {
+          check_fbc_login();
+        }
+    }});
+  }
+  var fbc_top_button_login = function(response) {
+     if($('fbc_top_button').hasClassName("fbcloggedout")) { 
+          $('fbc_top_button').update('<img src="http://graph.facebook.com/'+response.session.uid+'/picture?type=square" style="max-height: 25px; vertical-align: middle;" /> '+
+          '<a href="#" onclick="new Ajax.Request(\'/account/fbc_login\', {asynchronous:true, evalScripts:true}); return false;">Login with Facebook</a> or '+
+          ' <a href="/account/login?emaillogin=1">Login with Email</a>');
+          $('signup_and_login_links').style.display = 'none';
+          if($('boxed_fbc_login').style.display == '') {
+            $('boxed_fbc_login').style.display = 'none';
+          }
+        }
+    }
+    var fbc_top_button_logout = function() {
+      if(!$('fbc_top_button').hasClassName("fbcloggedout")) {
+        $('fbc_top_button').update("<fb:login-button perms='publish_stream,offline_access,user_likes' size='small' >Connect</fb:login-button>");
+        if($('signup_and_login_links')) {
+          $('signup_and_login_links').style.display = '';
+        }
+        $('fbc_top_button').addClassName("fbcloggedout");
+        FB.init({appId: '114486945280436', status: true, cookie: true, xfbml: true});
+      }
+  }
+  var check_fbc_login = function() {
+    if($('fbc_top_button')) {
+      FB.getLoginStatus(function(response) {
+        if (response.session) {
+          //ok we are on the home page and logged in, so lets
+          //hide the connect box and put their image there
+          fbc_top_button_login(response);
+          } else {
+          fbc_top_button_logout();
+        }
+      });
+    }
+  }
+</script>
+
+
 </div>
       </div>
     </div>
@@ -535,7 +672,7 @@ will only acquire your personally identifiable information subject to the terms 
 
 <object style="position:absolute; top:0; left:0;" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,&#10;22,0" width="0" height="0" id="action_queue_processor" align="middle">
   <param name="allowScriptAccess" value="always">
-  <param name="movie" value="http://swfs.ilike.com/swfs/actionQueueProcessor.swf?v=45315">
+  <param name="movie" value="http://swfs.ilike.com/swfs/actionQueueProcessor.swf?v=9c4c">
   <param name="quality" value="high">
   <param name="bgcolor" value="#ffffff">
 
@@ -547,12 +684,12 @@ will only acquire your personally identifiable information subject to the terms 
 
 <script type="text/javascript">
   <!--
-  var g_data = {"ctmt_login_url":"\/static\/ctmt_login?page=privacy"};
+  var g_data = {"ctmt_login_url":"/static/ctmt_login?page=privacy"};
   var g_baseUrl = "/";
   var g_facebookBaseUrl = "http://www.ilike.com/";
   var g_baseKeywordImageUrl = 'http://c.ilike.com/conv_click.php?u=http%3A%2F%2Fs0.ilike.com%2Fimages%2Fpixel.gif&h=0072ac51ee3ddc6b3c8951c640ebb916&i=';
   var g_swfBaseUrl = "http://swfs.ilike.com/swfs/";
-  var g_swfVersion = '45315';
+  var g_swfVersion = '9c4c';
   // -->
 </script>
 <script type="text/javascript">
