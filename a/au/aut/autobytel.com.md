@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531085731id_/http%3A//www.autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223163804id_/http%3A//www.autobytel.com/content/home/help/index.cfm%3Fid%3D4%3BABTL%26action%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Autobytel.com
 
 ### Autobytel Consumer Privacy and Security Policy
 
