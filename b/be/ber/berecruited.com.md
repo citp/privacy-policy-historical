@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2010-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100319003315id_/http%3A//www.berecruited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223183100id_/http%3A//www.berecruited.com/privacy) for the most accurate reproduction.*
 
 # beRecruited.com: Free College Recruiting Service and NCAA Athletic Scholarships Network
 
@@ -8,7 +8,7 @@ We at beRecruited, Inc. ("we", "beRecruited.com" and/or "the Site") have created
 
 ### Overview
 
-The most important benefit of using beRecruited.com is the ability to share your profile information and connect with college coaches for recruiting purposes. The information you provide may also be shared with other select organizations to enable colleges and universities to contact you. In some cases, you and your family may also receive information from non-profit and for-profit organizations and government agencies, including offers for educational products and services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps.  beRecruited does not share or sell your information to commercial marketers offering to sell you non-education-related products and services unless you choose to opt-in to these service by responding to an advertisement on the beRecruited.com Website. The sections that follow explain in more detail how we collect and handle your personal information. 
+The most important benefit of using beRecruited.com is the ability to share your profile information and connect with college coaches for recruiting purposes. The information you provide may also be shared with other select organizations to enable colleges and universities to contact you. In some cases, you and your family may also receive information from non-profit and for-profit organizations and government agencies, including offers for educational products and services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps.  beRecruited does not share or sell your information to commercial marketers offering to sell you non-education and/or non-sports related products and services unless you choose to opt-in to these service by responding to an advertisement on the beRecruited.com Website. The sections that follow explain in more detail how we collect and handle your personal information. 
 
 ### Your IP Address
 
@@ -44,7 +44,7 @@ We may review all demographic information. We may use public information to enab
 
 ### Our Security Precautions
 
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) for financial transactions through our partner Verisign, Inc. is the industry standard and among the best software available today for secure commerce transactions. All financial transactions are handled by Verisign and beRecruited.com does not retain any of this financial information. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. 
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. beRecruited.com does not retain any of this financial information. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. 
 
 ### Changing our Privacy Policy for Previously Gathered Information
 
