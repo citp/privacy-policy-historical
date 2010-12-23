@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polishbigboobs.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624024102id_/http%3A//polishbigboobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polishbigboobs.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223112921id_/http%3A//polishbigboobs.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect:**  
-This notice applies to all information collected or submitted to polishbigboobs.com. On some pages, you can purchase a Membership to polishbigboobs.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. Should you choose to purchase a Membership to polishbigboobs.com, we use CCbill and PaycomEU, a third-party credit card processing services, who will obtain additional information such as your address, phone number, and credit card data. 
+This notice applies to all information collected or submitted to polishbigboobs.com. On some pages, you can purchase a Membership to polishbigboobs.com, make requests, and register to receive materials. The types of personal information collected at these pages are name, age, email address, sexual orientation, etc. Should you choose to purchase a Membership to polishbigboobs.com, we use CCbill and Epoch, a third-party credit card processing services, who will obtain additional information such as your address, phone number, and credit card data. 
 
 **The Way We Use Information:**  
 The information collected by polishbigboobs.com is used solely for the creation and maintenance of your Membership account. We do not sell, loan, lease, swap, trade or otherwise disclose your personal data. That information collected by credit card processing services is used for the purpose of processing payment of your Membership to polishbigboobs.com. 
