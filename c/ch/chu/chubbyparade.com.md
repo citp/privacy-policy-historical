@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619080638id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223202157id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Chubby Parade Privacy Policy
 
