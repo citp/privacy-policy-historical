@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617135813id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223103839id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Glassdoor.com - Privacy Policy
 
