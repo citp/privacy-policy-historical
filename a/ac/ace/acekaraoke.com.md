@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acekaraoke.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514101212id_/http%3A//www.acekaraoke.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acekaraoke.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223145559id_/http%3A//www.acekaraoke.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
