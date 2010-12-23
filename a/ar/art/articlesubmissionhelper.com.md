@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesubmissionhelper.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613183220id_/http%3A//www.articlesubmissionhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesubmissionhelper.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223071243id_/http%3A//www.articlesubmissionhelper.com/privacy-policy) for the most accurate reproduction.*
 
 # Article Submission Software – Article Submitter » Privacy Policy
 
