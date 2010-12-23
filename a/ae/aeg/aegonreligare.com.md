@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aegonreligare.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021206id_/http%3A//www.aegonreligare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegonreligare.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223201156id_/http%3A//www.aegonreligare.com/privacy.php) for the most accurate reproduction.*
 
-# Disclaimer
+# Privacy Policy - AEGON Religare Life Insurance Company
 
 We are committed to protecting your privacy and have taken reasonable steps to protect the confidentiality of the Personal Information You have furnished to us and its transmission through the world wide web.
 
