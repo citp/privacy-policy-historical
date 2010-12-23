@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010335id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223044046id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Endicia Privacy Policy
 
@@ -131,8 +131,8 @@ If you have any questions or suggestions about our privacy policy, or if you wan
 ---  
 **Endicia Internet Postage**  
 IBIP Privacy  
-247 High Street  
-Palo Alto, CA 94301-1099  
+385 Sherman Ave  
+Palo Alto, CA 94306  
   
   
 **Privacy Policy Changes**
