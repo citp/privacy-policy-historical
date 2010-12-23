@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305054833id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223175243id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
 
-# Win Lotto
+# Privacy Statement
 
 ## **Privacy Statement** **  
 From Ken Silver  
@@ -19,7 +19,7 @@ I want to demonstrate my **total commitment** to your privacy, so I'm going to t
 
 
 
-If you think I'm not sticking by my statements here, let me know by emailing me: [Email me](http://www.silverlotto.com/support.htm)
+If you think I'm not sticking by my statements here, let me know by emailing me: [Email me](http://www.askkensilver.com/)
 
 * * *
 
@@ -83,4 +83,4 @@ If I decide to change my privacy policy, I will post those changes here so you a
 
 Ken Silver
 
-|[ Email Me](http://www.silverlotto.com/support.htm)[ ](http://www.honestlotto.com/email.htm) |
+|[ Email Me](http://www.askkensilver.com/)[ ](http://www.honestlotto.com/email.htm) |
