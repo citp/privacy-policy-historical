@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2009-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604183413id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223105625id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+
 		<title>Aquasana Water Filters - Privacy Policy</title>
+		<link rel="shortcut icon" href="http://www.aquasana.com/favicon.ico" type="image/x-icon">
 		<meta name="description" content="Aquasana Privacy Policy">
 		<meta name="keywords" content="Water Filter, water filters, Water filtration systems, water purifiers, aquasana water filters, home water filtration, contact aquasana, contact us">
 		<meta name="resource-type" content="document">
@@ -11,8 +13,12 @@
 		<meta name="distribution" content="global">
 		<meta name="rating" content="general">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script type="text/javascript">
+
+
+<script language="JavaScript" type="text/javascript">
 <!--
+if (top.location != location) top.location.href = document.location.href;
+
 var preloadFlag = false;
 
 function newImage(arg) {
@@ -26,22 +32,25 @@ function newImage(arg) {
 	}
 }
 
-function changeImages(e,i) {
-	if (document.images && (preloadFlag == true)) {
-		document[e].src = i;
-	}
+function preloadImages() {
+	var imgLogin = newImage("/images/login_over.gif");
+	var imgRetrievepassword = newImage("/images/retrievepassword_over.gif");
+	var imgSubmit = newImage("/images/submit_over.gif");
+	var imgKeepshopping = newImage("/images/keepshopping_over.gif");
+	var imgEmptycart = newImage("/images/emptycart_over.gif");
+	var imgUpdatecart = newImage("/images/updatecart_over.gif");
+	var imgCheckout = newImage("/images/checkout_over.gif");
+	var imgCancel = newImage("/images/cancel_over.gif");
+	var imgEditinfo = newImage("/images/editinfo_over.gif");
+	var imgCancel = newImage("/images/cancel_over.gif");
+	var imgPlaceorder = newImage("/images/placeorder_over.gif");
+	preloadFlag = true;
 }
 
-function preloadImages() {
-	if (document.images) {
-		var menubar_03_over = newImage("images/menubar_03-over.gif");
-		var menubar_04_over = newImage("images/menubar_04-over.gif");
-		var menubar_05_over = newImage("images/menubar_05-over.gif");
-		var menubar_06_over = newImage("images/menubar_06-over.gif");
-		var menubar_07_over = newImage("images/menubar_07-over.gif");
-		var menubar_08_over = newImage("images/menubar_08-over.gif");
-		preloadFlag = true;
-	}
+function changeImages(e,i) {
+	//if (document.images && (preloadFlag == true)) {
+		document.getElementById(e).src = i;
+	//}
 }
 
 function popWindow(url,width,height) {
@@ -49,118 +58,308 @@ function popWindow(url,width,height) {
 }
 
 function launchVideoWindow(video) {
-	height=350;
+	height=400;
 	width=400;
-	var videoWindow = window.open('videos/video.php?video='+video,'aquasanavideoWnd','alwaysRaised=yes,directories=no,height='+height+',width='+width+',menubar=no,resizable=no,toolbar=no,scrollbars=no,left='+(screen.availWidth-width)/2+',top='+(screen.availHeight-height)/2);
+	var videoWindow = window.open('/videos/'+video+'/','aquasanavideoWnd','alwaysRaised=yes,directories=no,height='+height+',width='+width+',menubar=no,resizable=no,toolbar=no,scrollbars=no,left='+(screen.availWidth-width)/2+',top='+(screen.availHeight-height)/2);
 	videoWindow.focus();
+}
+
+function blurSubscribeEmail() {
+	e = document.getElementById('subscribe_email');
+	if(e.value == '') e.value = "Enter your email address"
+}
+
+function submitAddForm() {
+	if (arguments.length == 3 || arguments.length == 4) {
+		f = arguments[0];
+		o = arguments[1];
+		t = arguments[2];
+		w = (arguments.length == 4) ? arguments[3] : ""; 
+		for (i=0;i<document.forms.length;i++) {
+			if (document.forms[i].name == f) {
+				formToSubmit = document.forms[i];
+			}
+		}
+		if (formToSubmit != undefined) {
+			if (w != "") formToSubmit.wfl.value = w;
+			if (o != "") {
+				if (document.getElementById(o).value == "") {
+					alert("You must select a " + t);
+				}
+				else {
+					formToSubmit.submit();
+				}
+			}
+			else {
+				formToSubmit.submit();
+			}
+		}
+	}
+	else {
+		alert(arguments.length);
+	}
 }
 
 // -->
 </script>
-<!-- End Preload Script -->
 
-<link rel="stylesheet" href="styles.css">
+<!--springbox provided -->
+<script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<!--springbox IE 6 PNG fix -->
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>  
+<style type="text/css">
+	.ShopNow, .AddToCart .AddToCartW, #navigationDiv, #info, #mask, #rotatorLockupTitle img, #rotatorLockupOffer img, #footer img, .OurProductContent img, .ProductContainerText img, #RightGutterCallOut img, .JoinWaterForLife, #lockups2, #lockups0, #lockups1
+	{ behavior: url(js/iepngfix.htc) }
+</style> 
+
+	<script type="text/javascript">
+		var t;
+		$(document).ready(function() {
+		    var visible = false;
+		    $('#images li:first-child').css({ display: 'block' });
+		    $('#info li:first-child').css({ display: 'block' });
+		    $('#spots li:first-child div').css('display', 'block').parent().addClass('active');
+		    $('#spots li').click(function() {
+		        if (!$(this).hasClass('active')) {
+		            clearTimeout(t);
+		            var curIndex = $('#spots li').index($('#spots li.active'));
+		            var index = $('#spots li').index($(this));
+					//comment out the line below to stop the animation if drop clicked.
+		            goToItem(curIndex, index);
+		        }
+		    }).hover(function() {
+		        $(this).addClass('hover');
+		    }, function() {
+		        $(this).removeClass('hover');
+		    });
+			
+			$('#lockups1, #lockups2').hide();
+
+		    t = setTimeout('rotate()', 10000);
+
+		    $('#navigationUL > li').hover(function() {
+		        $(this).find('> div').show();
+		    }, function() {
+		        $(this).find('> div').hide();
+		    });
+
+		});
+		
+		function rotate(){
+			var visLi = $('#images li:visible');
+			var visLiNext;
+			var curIndex = $('#images li').index($(visLi));
+			var nextIndex = curIndex + 1;
+			
+			visLiNext = $(visLi).next();
+			
+			if(curIndex == $('#images li').length - 1){
+				visLiNext = $('#images li:first-child');
+				nextIndex = 0;
+			}
+			
+			//Kill the div animation
+			//$('#info').animate({ top: '-=174px' }, 500, function(){
+			//	$('#info li:eq(' + curIndex + ')').hide();
+			//	$('#info li:eq(' + nextIndex + ')').css({ display: 'block' });
+			//	$(this).animate({ top: '0px' }, 500);
+			//});
+			//Kill the div animation
+			
+			$(visLiNext).css({
+				left: '980px',
+				display: 'block'
+			}).animate({ left: '-=980px' }, 1000);
+			
+			$(visLi).animate({ left: '-=980px' }, 1000, function(){
+				$(this).hide();
+				t = setTimeout('rotate()', 10000);
+			});
+			
+			$('#lockups' + curIndex).animate({ left: '-=980px' }, 1000, function() {});
+			$('#lockups' + nextIndex).css({
+			    left: '1345px',
+			    display: 'block'
+			}).animate({ left: '-=980px' }, 1000, function() {});
+			$('#spots li').removeClass('active');
+			//$('#spots li:eq(' + curIndex + ') div').fadeTo(0, 0.0,function(){
+			//	$('#spots li:eq(' + nextIndex + ') div').fadeTo(0, 1.0).parent().addClass('active');
+			//});
+			$('#spots li:eq(' + curIndex + ') div').css('display', 'none');
+			$('#spots li:eq(' + nextIndex + ') div').css('display', 'block').parent().addClass('active');
+			
+		}
+		
+		function goToItem(curIndex, goToIndex){
+			var curIndex = curIndex;
+			var nextIndex = goToIndex;
+			
+			$('#images li:eq(' + nextIndex + ')').css({
+				left: '980px',
+				display: 'block'
+			}).animate({ left: '-=980px' }, 250);
+			
+			$('#images li:eq(' + curIndex + ')').animate({ left: '-=980px' }, 250, function(){
+				$(this).hide();
+				//t = setTimeout('rotate()', 10000);
+			});
+			
+			$('#lockups' + curIndex).animate({ left: '-=980px' }, 250, function() {});
+			$('#lockups' + nextIndex).css({
+			    left: '1345px',
+			    display: 'block'
+			}).animate({ left: '-=980px' }, 250, function() {});
+			$('#spots li').removeClass('active');
+			//$('#spots li:eq(' + curIndex + ') div').fadeTo(0, 0.0, function(){
+			//	$('#spots li:eq(' + nextIndex + ') div').fadeTo(0, 1.0).parent().addClass('active');
+			//});
+			$('#spots li:eq(' + curIndex + ') div').css('display', 'none');
+			$('#spots li:eq(' + nextIndex + ') div').css('display', 'block').parent().addClass('active');
+		}
+	</script>
+<!--END springbox provided -->
+<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<!-- Google Analytics Stuff -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var aggregateTracker = _gat._getTracker("UA-3695031-5"); //code for aggregate tracking new profile and code
+aggregateTracker._setDomainName("none");
+aggregateTracker._setAllowLinker(true);
+aggregateTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+try {
+var aquasanaTracker = _gat._getTracker("UA-3695031-2"); //code for aquasana.com
+aquasanaTracker._trackPageview();
+} catch(err) {}</script>
+
 </head>
 
 <body>
+	<div id="outer">
+		<div id="container"><!--Start of container-->
+        <div id="header">
+		            <a href="http://www.aquasana.com/"><img id="Logo" src="/images/Logo.jpg" alt="Water Filter"></a>
+            <div id="EmailSignUp">
+								<h1>866-662-6885</h1>
+								Sign up for exclusive offers, product info and more:<br>
+                <div id="emailInput">
+									<form action="/subscribe.php" method="POST" style="float:right;">
+                    <input value="Enter your email address" class="subscribe_email" id="subscribe_email" name="email" onclick="this.value=''" onblur="javascript:blurSubscribeEmail()">
+										<input id="go_cta" type="image" src="/images/go_blue.gif">
+									</form>
+                </div>
+            </div>
+            
+            <div id="navigationDiv">
+                <ul id="navigationUL">
+                    <li class="navigationLI" id="liProducts">
+                        <a class="NavHref" href="http://www.aquasana.com/products.php"></a>
+                            <div id="SubNavProducts">
+                                <ul id="SubNavProductsUL">
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=1" style="margin-top:5px; height:35px;">Drinking Water Filters</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=2" style="margin-top:5px; height:35px;">Shower Filters</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=4">Whole House Water Filters</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=5">Replacement Cartridges</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=8">Water Bottles &amp; Totes</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=3">Water Filter Combo Packs</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=6">Water Filter Accessories</a></li>
+                                    <li><a href="http://www.aquasana.com/mywater.php">myWater</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php" style="margin-top:-5px; height:35px;">View All Products</a></li>
+                                </ul>
+                            </div>
+                    </li>
+                    <li class="navigationLI" id="liWater4Life">
+                        <a class="NavHref" href="http://www.aquasana.com/water4life.php"></a>
+                    </li>
+                    <li class="navigationLI" id="liYourWater">
+                        <a class="NavHref" style="cursor:default;"></a>
+                        <div id="SubNavYourWater">
+                                    <ul id="SubNavYourWaterULOne">
+                                        <li><a href="http://www.aquasana.com/prevention.php" style="height:32px; margin-top:5px;">Prevention &amp; Healing</a></li>
+                                        <li><a href="http://www.aquasana.com/asthma.php">Asthma</a></li>
+                                        <li><a href="http://www.aquasana.com/skin_disorders.php">Skin Disorders</a></li>
+                                        <li><a href="http://www.aquasana.com/contamination.php">Water Contamination</a></li>
+                                        <li><a href="http://www.aquasana.com/healthy.php">Healthy Lifestyle</a></li>
+                                        <li><a href="http://www.aquasana.com/water_faqs.php">Water FAQs</a></li>
+                                        <li><a href="http://www.aquasana.com/raising_children.php">Raising Small Children</a></li>
+                                    </ul>
+                                    <ul id="SubNavYourWaterULTwo">
+                                        <li><a href="http://www.aquasana.com/importance.php" style="padding-top:6px;height:40px; margin-top:5px;line-height:15px;">Importance of Water in<br>Health and Fitness</a></li>
+                                        <li><a href="http://www.aquasana.com/bottled_water.php" style="height:44px;line-height:15px;"><div style="padding-top:8px;">Is Bottled Water the <br>Right Choice?</div></a></li>
+                                        <li><a href="http://www.aquasana.com/how_much.php" style="height:44px;line-height:15px;"><div style="padding-top:8px;">How Much Water Should<br>I Drink?</div></a></li>
+                                        <li><a href="http://www.aquasana.com/dieting.php" style="height:44px;line-height:15px;"><div style="padding-top:8px;">Weight Loss, Dieting<br>and Skin Care</div></a></li>
+                                        <li><a href="http://www.aquasana.com/mywater.php" style="padding-top:2px;height:44px;line-height:15px;"><div style="padding-top:8px;">myWater</div></a></li>
+                                    </ul>
+                        </div>
+                    </li>
+										<li class="navigationLI" id="liAbout">
+                        <a class="NavHref" href="http://www.aquasana.com/about_us.php"></a>
+                            <div id="SubNavAbout">
+                                    <ul id="SubNavAboutUL">
+                                        <li><a style="margin-top:5px; height:31px;" href="http://www.aquasana.com/water_filters.php">Water Filters</a></li>
+                                        <li><a href="http://www.aquasana.com/shower_filters.php">Shower Filters</a></li>
+                                        <li><a href="http://www.aquasana.com/international.php">International Dealers</a></li>
+                                        <li><a href="http://www.aquasana.com/blog/">Aquasana Blog</a></li>
+                                        <li><a href="http://www.aquasana.com/leadership.php">Leadership</a></li>
+                                    </ul>
+                                </div>
+                    </li>
+                    <li class="navigationLI" id="liContact">
+                        <a class="NavHref" href="http://www.aquasana.com/contact_us.php"></a>
+                    </li>
+                    <li class="navigationLI" id="liItems">
+                        <span id="MyCart">My Cart has <a id="liItemsAnchor" href="http://www.aquasana.com/cart.php" class="ItemAcct" rel="nofollow">0 items</a></span>
+                    </li>
+                    <li class="navigationLI" id="liAcct">
+                        <a href="https://www.aquasana.com/account.php" id="liAcctAnchor" class="ItemAcct">My Account</a>
+                    </li>
+                </ul>
+            </div>
+        
+        </div><!--end of header-->
+        
+        <div style="clear:both;"></div>
 
-<div id="top_container">
-<div id="topbanner"><a href="http://www.aquasana.com/"><img src="images/topbanner.jpg" border="0" alt="Aquasana.Com"></a></div>
-
-<table id="topnav" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<a href="allaboutwater.php">ABOUT WATER</a>
-		</td>
-		<td width="1">
-			<img src="images/nav_sep.jpg">
-		</td>
-		<td>
-			<a href="lifestyle.php">LIFESTYLE</a>
-		</td>
-		<td width="1">
-			<img src="images/nav_sep.jpg">
-		</td>
-		<td>
-			<a href="products.php">PRODUCTS</a>
-		</td>
-		<td width="1">
-			<img src="images/nav_sep.jpg">
-		</td>
-		<td>
-			<a href="about_us.php">ABOUT US</a>
-		</td>
-		<td width="1">
-			<img src="images/nav_sep.jpg">
-		</td>
-		<td>
-			<a href="site_map.php">SITE MAP</a>
-		</td>
-		<td width="1">
-			<img src="images/nav_sep.jpg">
-		</td>
-		<td>
-			<a href="contact_us.php">CONTACT US</a>
-		</td>
-		<td width="1">
-			<img src="images/nav_sep.jpg">
-		</td>
-		<td>
-			<a href="international.php">INTERNATIONAL DEALERS</a></td>
-	</tr>
-</tbody></table>
-
-<div id="top_cart_acct">
-	<table width="100%" border="0" cellpadding="0" cellspacing="0" height="30">
-		<tbody><tr>
-			<th>
-				<a href="http://www.aquasana.com/water4life.php"><img src="images/wfl_topbanner.gif" border="0" alt="Water 4 Life Auto-Ship Cartridge Replacement Program" title="Water 4 Life Auto-Ship Cartridge Replacement Program"></a>
-			</th>
-			<td>
-				<a href="http://www.aquasana.com/cart.php"><img src="images/shopping-cart.gif" border="0">	my cart: 0 items</a>
-				<div id="top_cart_acct_sep">|</div>
-				<a href="https://www.aquasana.com/account.php"><img src="images/user_login.gif" border="0"> my account</a>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
+<p>&nbsp;</p>
+<table width="100%">
+  <tbody><tr>
+    <td valign="top">
+							<div id="page-content-main">
 
 
-</div>
-
-<table width="800" border="0" cellpadding="0" cellspacing="0" align="center">
-	<tbody><tr>
-		<td colspan="2">&nbsp;</td>
-	</tr>
-  <tr>
-    <td width="570" class="main-text" valign="top">
-							<span class="huge">Aquasana Privacy Policy</span>
-				<hr size="1" color="#8398EB">
+				<h1>Aquasana Privacy Policy</h1>
 <p><span class="heading">Aquasana® Privacy Policy</span><br>
 (last revised April 23, 2008)
-</p>Sun Water Systems, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").<p>
-</p>What Personal Information Do We Collect?
-Aquasana collects personal information from visitors to this Site such as names, postal addresses, e-mail addresses, user ID, password and, if you make an online purchase, credit card information. <p>
-</p>Personal information is collected only for specific purposes and with the knowledge of the person providing the personal information. To access the Site you are not required to register or submit any personal information.The content of this Site is not directed to children and Aquasana does not knowingly collect personal information from persons under eighteen years of age. <p>
-</p><span class="heading">Why Do We Collect This Personal Information?</span><br>
-Purposes for which Aquasana may collect personal information online include, but are not limited to:<p>
-</p><b>"Contact Us" Features</b>.<br> Aquasana encourages visitors to the Site to contact us with questions and requests. Aquasana also offers e-mail news updates for visitors who expressly request that service. Personal information of persons using these features may be collected in order to facilitate our responses to those inquiries. <p>
-</p><b>Product Registration</b>.<br> Purchasers of certain Aquasana products may want to register their purchases online so that they can take advantage of warranties, product updates and other benefits. Purchasers are asked to submit certain personal information such as names, postal addresses and e-mail addresses as part of the product registration process. <p>
-</p><b>Water 4 Life® Program Registration</b>.<br> Aquasana offers the Water 4 Life® program which provides benefits to purchasers of Aquasana Drinking Water Filters and Shower Filters. The Water 4 Life® program online registration process requests personal information concerning the individual who signs up. Participants in the Water 4 Life® program also may need to provide personal information in order to redeem program benefits.<p>
-</p><b>Requests for Consumer Brochures and Videos</b>.<br> Aquasana may offer product information, including brochures and videos, through the Site. Persons ordering those materials are asked to provide their name and postal address. <p>
-</p><span class="heading">What Other Information Do We Collect?</span><br>
-We collect non-personally identifiable information, which does not personally identify you, in the following ways: <p>
-</p><span class="heading">Aggregated Information</span><br>
-Additionally, we may aggregate personal information in a manner such that the information does not personally identify you or any other user of the Site, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code or follow a particular path through the Site. Such aggregate information is considered non-personally identifiable information for purposes of this Policy. <p>
-</p><span class="heading">"Clickstream" Data</span><br>
-The Site automatically collects certain data concerning its interactions with visitors that facilitate Site operation, management and planning. Such data may include the IP address of your computer, the date and time of an online request, the type of browser and operating system used by your computer, the time required to download information you requested, and error codes generated while your browser is in contact with the Site. <p>
-</p><span class="heading">Cookies and Other Technologies</span><br>
+</p>
+<p>Sun Water Systems, Inc. and its affiliates and subsidiaries (collectively, "Aquasana") are committed to the protection and appropriate use of the information you submit to us online. This Privacy Policy (the "Policy") describes how we collect, use and safeguard personal information obtained from individual consumers in the United States through this website (the "Site").</p>
+<p>What Personal Information Do We Collect?
+Aquasana collects personal information from visitors to this Site such as names, postal addresses, e-mail addresses, user ID, password and, if you make an online purchase, credit card information. </p>
+<p>Personal information is collected only for specific purposes and with the knowledge of the person providing the personal information. To access the Site you are not required to register or submit any personal information.The content of this Site is not directed to children and Aquasana does not knowingly collect personal information from persons under eighteen years of age. </p>
+<p><span class="heading">Why Do We Collect This Personal Information?</span><br>
+Purposes for which Aquasana may collect personal information online include, but are not limited to:</p>
+<p><b>"Contact Us" Features</b>.<br> Aquasana encourages visitors to the Site to contact us with questions and requests. Aquasana also offers e-mail news updates for visitors who expressly request that service. Personal information of persons using these features may be collected in order to facilitate our responses to those inquiries. </p>
+<p><b>Product Registration</b>.<br> Purchasers of certain Aquasana products may want to register their purchases online so that they can take advantage of warranties, product updates and other benefits. Purchasers are asked to submit certain personal information such as names, postal addresses and e-mail addresses as part of the product registration process. </p>
+<p><b>Water 4 Life® Program Registration</b>.<br> Aquasana offers the Water 4 Life® program which provides benefits to purchasers of Aquasana Drinking Water Filters and Shower Filters. The Water 4 Life® program online registration process requests personal information concerning the individual who signs up. Participants in the Water 4 Life® program also may need to provide personal information in order to redeem program benefits.</p>
+<p><b>Requests for Consumer Brochures and Videos</b>.<br> Aquasana may offer product information, including brochures and videos, through the Site. Persons ordering those materials are asked to provide their name and postal address. </p>
+<p><span class="heading">What Other Information Do We Collect?</span><br>
+We collect non-personally identifiable information, which does not personally identify you, in the following ways: </p>
+<p><span class="heading">Aggregated Information</span><br>
+Additionally, we may aggregate personal information in a manner such that the information does not personally identify you or any other user of the Site, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code or follow a particular path through the Site. Such aggregate information is considered non-personally identifiable information for purposes of this Policy. </p>
+<p><span class="heading">"Clickstream" Data</span><br>
+The Site automatically collects certain data concerning its interactions with visitors that facilitate Site operation, management and planning. Such data may include the IP address of your computer, the date and time of an online request, the type of browser and operating system used by your computer, the time required to download information you requested, and error codes generated while your browser is in contact with the Site. </p>
+<p><span class="heading">Cookies and Other Technologies</span><br>
 Cookies are small text files, placed on the hard drive of a visitor's computer, that facilitate the operation of the Site and visitors' use of the Site. As is standard practice on most corporate websites, the Site uses cookies and other technologies, such as pixel tags and web beacons, to help us understand which websites our visitors are coming from and what websites they go to when they leave our Site, which parts of the Site are the most popular, and how much time they spend on our Site. We also use cookies and other technologies to facilitate participation in our loyalty programs as well as to customize your experience and provide greater convenience each time you interact with us. 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so click the "Help" menu of your browser to learn how to change your cookie preferences.) If you reject all cookies, you will not be able to use those enhanced services on the Site. <p>
-</p>Some uses of cookies in connection with the Site may be under the control of third-party entities that Aquasana retains for the management of certain programs and fulfillment of specific visitor/consumer requests. Aquasana requests these entities to confine their use of cookies and similar technologies, but Aquasana cannot be responsible for third party uses of cookies. <p>
-</p><span class="heading">How Do We Use the Personal Information We Collect?</span><br>
-Personal information provided by consumers and visitors to our Site is used to fulfill requests and transactions submitted through the Site. For example, if you choose to purchase a product or service through the Site, we may use your personal information to process your transaction and fulfill your order. If you contact us through the Site, we will use your personal information to respond to your queries and requests. If you register a product through the Site, we will use your personal information to fulfill your registration, and if you sign up for the Water 4 Life® program, we will use your personal information to administer the program. <p>
-</p>From time to time, in our sole discretion, we may use your personal information to send to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, we recommend you not opt- out of receiving such communications, but you can opt-out at <a href="unsubscribe.php">www.aquasana.com/unsubscribe.php</a>.  <p>We may use your personal information to send you marketing-related e-mails from us, but we have never, and do not intend to ever, send you marketing messages from other companies. If you would prefer not to receive such marketing-related e-mails, please opt-out at <a href="unsubscribe.php">www.aquasana.com/unsubscribe.php</a>. 
+You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so click the "Help" menu of your browser to learn how to change your cookie preferences.) If you reject all cookies, you will not be able to use those enhanced services on the Site. </p>
+<p>Some uses of cookies in connection with the Site may be under the control of third-party entities that Aquasana retains for the management of certain programs and fulfillment of specific visitor/consumer requests. Aquasana requests these entities to confine their use of cookies and similar technologies, but Aquasana cannot be responsible for third party uses of cookies. </p>
+<p><span class="heading">How Do We Use the Personal Information We Collect?</span><br>
+Personal information provided by consumers and visitors to our Site is used to fulfill requests and transactions submitted through the Site. For example, if you choose to purchase a product or service through the Site, we may use your personal information to process your transaction and fulfill your order. If you contact us through the Site, we will use your personal information to respond to your queries and requests. If you register a product through the Site, we will use your personal information to fulfill your registration, and if you sign up for the Water 4 Life® program, we will use your personal information to administer the program. </p>
+<p>From time to time, in our sole discretion, we may use your personal information to send to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, we recommend you not opt- out of receiving such communications, but you can opt-out at <a href="unsubscribe.php">www.aquasana.com/unsubscribe.php</a>.  </p><p>We may use your personal information to send you marketing-related e-mails from us, but we have never, and do not intend to ever, send you marketing messages from other companies. If you would prefer not to receive such marketing-related e-mails, please opt-out at <a href="unsubscribe.php">www.aquasana.com/unsubscribe.php</a>. 
 </p><p>We may also use your personal information for our internal business purposes, such as for data analysis, for audits, to improve our website, to analyze usage patterns and to improve our services. </p>
 <p>When Do We Disclose the Personal Information We Collect?<br>
 We may provide your personal information to our third party service providers to fulfill requests and transactions submitted through the Site. For example, Aquasana may use third party service providers to conduct consumer surveys. Aquasana may also share certain information with third party organizations for the purpose of processing your credit card transactions. Aquasana seeks to restrict third parties' use of such data to the purposes for which it has been provided and to ensure the third parties do not disclose that information to unauthorized parties. </p>
@@ -191,64 +390,135 @@ Sun Water Systems, Inc., the manufacturer of the Aquasana products, has chosen t
 The Company warrants that all the Products shall be free from defects in materials and workmanship for a period of one-hundred (100) days from the date of purchase by the customer (except that all versions of the EQ-300 Whole House Water Filtration System are warranted for a period of one (1) year). This warranty is limited to repair or replacement of defective Products upon return with proof of purchase date by the customer to Aquasana. Aquasana is not responsible for defects or damages due to improper use or installation. This warranty does not cover clogged or exhausted filter cartridges as the Company has no way to control or determine excessive sediment or contaminant levels in water supplies.</p>
 <p>If Warranty claims are presented directly to Aquasana by the Consumer, Aquasana agrees to handle the claims according to the terms of the Warranty information supplied with each Product (the "Conditions") and in a timely and professional manner.</p>
 <p><b>EXCEPT FOR THE EXPRESS WARRANTIES IN THIS AGREEMENT, THE PRODUCTS ARE PROVIDED WITH NO OTHER WARRANTIES WHATSOEVER, AND THE COMPANY DISCLAIMS ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHT OF OTHERS.  THE COMPANY DOES NOT WARRANT THAT THE OPERATION OF THE PRODUCTS WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ALL DEFECTS CAN BE CORRECTED.  TO THE EXTENT THAT THE COMPANY MAY NOT, UNDER APPLICABLE LAW, DISCLAIM ANY IMPLIED WARRANTY, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW.  THE COMPANY MAKES NO REPRESENTATION OR WARRANTY CONCERNING THE QUALITY, PERFORMANCE OR OTHER CHARACTERISTICS OF THE PRODUCTS OTHER THAN THOSE WHICH ARE CONSISTENT IN ALL RESPECT WITH, AND DO NOT EXPAND THE SCOPE OF, THE WARRANTIES EXPRESSLY STATED HEREIN.  </b></p>
-<p>Aquasana's Water 4 Life® program guarantees a lifetime warranty on all parts and workmanship for all Shower Water Filters and Drinking Water Filters that are current on their subscriptions on the Water 4 Life® program. Aquasana will repair or replace any broken or defective part for no charge other than a flat rate shipping charge of $9.50 for any warranty claim on any Aquasana Shower Water Filter or Aquasana Drinking Water Filter that is enrolled in the Aquasana Water 4 Life® program.</p>
+<p>Aquasana's Water for Life® program guarantees a lifetime warranty on all parts and workmanship for all Shower Water Filters and Drinking Water Filters that are current on their subscriptions on the Water 4 Life® program. Aquasana will repair or replace any broken or defective part for no charge other than a flat rate shipping charge of $9.50 for any warranty claim on any Aquasana Shower Water Filter or Aquasana Drinking Water Filter that is enrolled in the Aquasana Water 4 Life® program.</p>
 <p><span class="heading">Questions?</span><br>
-Questions regarding this Policy should be directed to the Aquasana Security Office/Privacy at info@Aquasana.com, or at the following physical mailing address:
+Questions regarding this Policy should be directed to the Aquasana Security Office/Privacy at info@aquasana.com, or at the following physical mailing address:
 </p><blockquote>
 Aquasana Privacy Question<br>
 6310 Midway Rd.<br>
 Haltom City, Texas 76117
 </blockquote>
 <p></p>
-<p>Please note that this Policy applies to all of our Sites hosted in the United States.</p>
+<p>Please note that this Policy applies to all of our Sites hosted in the United States.</p>				</div>
     </td>
-    <td width="220" align="center" valign="top">
-					</td>
+    <td width="237" align="right" valign="top">
+			<div style="text-align:left;"><p class="category-product-cell-price">Recommended Products:</p><form name="form1" action="/addtocart.php"><table style="margin-top:10px;"><tbody><tr><td valign="top" style="padding:10px 0px;"><a href="/product_detail.php?product_id=1"><img src="/images/CartImages/water_filter_cart.jpg" border="0"></a></td><td valign="top" class="category-product-cell"><h2>Countertop Water Filter</h2><p><i>Model # AQ-4000</i></p><p></p><p><a href="/product_detail.php?product_id=1">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form1','',''); return false;" class="AddToCart"></p></td></tr></tbody></table><input type="hidden" name="add" value="1"><input type="hidden" name="qty" value="1"></form><form name="form2" action="/addtocart.php"><table style="margin-top:10px;"><tbody><tr><td valign="top" style="padding:10px 0px;"><a href="/product_detail.php?product_id=2"><img src="/images/CartImages/aq4100_cart.jpg" border="0"></a></td><td valign="top" class="category-product-cell"><h2>Shower Filter</h2><p><i>Model # AQ-4100</i></p><p></p><p><a href="/product_detail.php?product_id=2">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form2','',''); return false;" class="AddToCart"></p></td></tr></tbody></table><input type="hidden" name="add" value="2"><input type="hidden" name="qty" value="1"></form><form name="form27" action="/addtocart.php"><table style="margin-top:10px;"><tbody><tr><td valign="top" style="padding:10px 0px;"><a href="/product_detail.php?product_id=27"><img src="/images/CartImages/eq300_cart.jpg" border="0"></a></td><td valign="top" class="category-product-cell"><h2>Rhino® Whole House Water Filter</h2><p><i>Model # EQ-300</i></p><p></p><p><a href="/product_detail.php?product_id=27">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form27','',''); return false;" class="AddToCart"></p></td></tr></tbody></table><input type="hidden" name="add" value="27"><input type="hidden" name="qty" value="1"></form><form name="form55" action="/addtocart.php"><table style="margin-top:10px;"><tbody><tr><td valign="top" style="padding:10px 0px;"><a href="/product_detail.php?product_id=55"><img src="/images/CartImages/under_sink_filter_cart.jpg" border="0"></a></td><td valign="top" class="category-product-cell"><h2>Under Counter Water Filter</h2><p><i>Model # AQ-4500</i></p><p></p><p><a href="/product_detail.php?product_id=55">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form55','',''); return false;" class="AddToCart"></p></td></tr></tbody></table><input type="hidden" name="add" value="55"><input type="hidden" name="qty" value="1"></form></div>		</td>
   </tr>
 </tbody></table>
 
-<table width="800" border="0" cellpadding="0" cellspacing="0" align="center">
-	  <tbody><tr>
-    <td height="70">
-			<a href="http://www.aquasana.com/water4life.php"><img src="images/w4lfooter.gif" border="0" alt="Join Aquasana's Water4Life® Auto-ship Program" title="Join Aquasana's Water4Life® Auto-ship Program and get replacement water filter cartridges shipped automatically every 6 months!  The ultimate in value and convenience!"></a>
-		</td>
-  </tr>
-		<tr>
-		<td class="bottom-links" align="center">
-			<a class="bottom-links" href="http://www.aquasana.com/water_filters.php">Water Filtration Systems</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/category.php?category_id=1">Drinking Water Filtration Systems</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/category.php?category_id=2">Shower Water Filtration Systems</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/product_detail.php?product_id=27">Whole House Filter</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/product_which.php">Filters vs. Purifiers</a><br> 
-			<a class="bottom-links" href="http://www.aquasana.com/importance.php">Health and Fitness</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/healthy.php">Healthy Water</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/water4life.php">Water 4 Life® Auto-Ship Program</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/category.php?category_id=5">Replacement Cartridges</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/about_us.php">About Us</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/site_map.php">Site Map</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/contact_us.php">Contact Us</a> | 
-			<a class="bottom-links" href="http://www.aquasana.com/privacy_policy.php">Privacy Policy</a> | 
-			<a class="bottom-links" href="https://www.aquasana.com/account.php">My Account</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="copyright" align="center">
-			Copyright © 2002 - 2009, Sun Water Systems
-		</td>
-	</tr>
-</tbody></table>
-<div style="height:10px;"></div>
-<!-- Google Analytics stuff -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3695031-2");
-pageTracker._initData();
-pageTracker._trackPageview();
+		</div><!--End of container-->
+
+		<div id="PreFooter">
+				<div id="FooterCustomerService">
+						<h2>CUSTOMER SERVICE</h2>
+						Mon-Fri 7am-9pm<br>
+						Sat 10am-2pm (CT)<br>
+						<span class="NoBottle">866-NO-BOTTLE<br>866-662-6885</span>
+				</div>
+				<div id="FooterBadges">
+						<div class="FooterBadge">
+								<img src="/images/icon72-inc500-aquasana-water-filters.gif" alt="Sun Water Systems makes the Inc 500">
+						</div>
+						<div class="FooterBadge">
+								<img src="/images/icon72-UL-waterfilter-certified.gif" alt="water filters tested to NSF standards by Underwriters Laboratories">
+						</div>
+						<div class="FooterBadge">
+								<img src="/images/icon72-healthy-water-filter.gif" alt="award winning Aquasana water filters">
+						</div>
+				</div>
+				<div id="FooterIcons">
+						<div class="FooterIcon">
+							<a href="http://www.facebook.com/aquasana" target="_blank"><img src="/images/icon32-facebook-aquasana-water-filters.gif" border="0"></a>
+						</div>
+						<div class="FooterIcon">
+							<a href="http://twitter.com/aquasana" target="_blank"><img src="/images/icon32-twitter-aquasana-water-filters.gif" border="0"></a>
+						</div>
+						<div class="FooterIcon2">
+							<a href="http://www.flickr.com/photos/aquasana" target="_blank"><img src="/images/icon32-flickr-aquasana-water-filters.gif" border="0"></a>
+						</div>
+						<div class="FooterIcon2">
+							<a href="http://www.youtube.com/aquasana" target="_blank"><img src="/images/icon32-youtube-aquasana-water-filters.gif" border="0"></a>
+						</div>
+				</div>
+				<div id="FooterElse">
+					<a href="http://www.aquasana.com/assets/PressKit/aquasana_presskit.pdf">
+						<div class="FooterGoLink">
+							<h2>Download our press kit</h2>
+							<p>Click here to download the PDF</p>
+						</div>
+						<div class="FooterGo">
+							<img src="/images/go_blue.gif" border="0">
+						</div>
+					</a>
+					<a href="http://www.aquasana.com/water4life.php">
+						<div class="FooterGoLink">
+							<h3>All About Water for Life</h3>
+							<p>Click here for more information</p>
+						</div>
+						<div class="FooterGo">
+							<img src="/images/go_teal.gif" border="0">
+						</div>
+					</a>
+				</div>
+		</div> <!-- End PreFooter -->
+
+	</div> <!-- End of outer -->
+
+	<div id="footer">
+		<div id="footerContent">
+			<a href="http://www.aquasana.com/contact_us.php">CONTACT US</a>
+			<a href="http://www.aquasana.com/site_map.php">SITE MAP</a>
+			<a href="http://www.aquasana.com/privacy_policy.php">PRIVACY POLICY</a>
+			<a href="http://www.aquasana.com/international.php">INTERNATIONAL DEALERS</a>
+			<a href="http://www.aquasana.com/water4life.php">WATER FOR LIFE PROGRAM</a>
+		</div>
+		<div id="copyrightInfo">
+			Copyright 2002 - 2010 Sun Water Systems 
+		</div>
+<script language="JavaScript" type="text/javascript">
+<!-- Yahoo! Inc.
+var ysm_accountid  = "128K7R8EU7D3UKMQ7MB8AC408O4";
+document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
++ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
++ "></SCR" + "IPT>");
+// -->
+</script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=128K7R8EU7D3UKMQ7MB8AC408O4"></script>
+
+<!-- Channeladvisor tracking pixel -->
+<script language="JavaScript">
+<!--
+{
+	if ("https:" != document.location.protocol) {
+		document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=2136&x="+escape(document.referrer)+" width=1 height=1>");
+	}
+}
+//-->
 </script>
-<!-- End Google Analytics stuff -->
+
+<!-- Google Code for Have visited Aquasana.com Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1071440505;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "Zjj8CJmxuwEQ-cTz_gM";
+var google_conversion_value = 0;
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071440505/?label=Zjj8CJmxuwEQ-cTz_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+
+	</div> <!-- End of Footer -->
+
 
 
 </body></html>
