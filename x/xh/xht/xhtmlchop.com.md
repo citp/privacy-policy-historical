@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xhtmlchop.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625011914id_/http%3A//xhtmlchop.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhtmlchop.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223105627id_/http%3A//xhtmlchop.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Xhtmlchop - Privacy Policy
 
