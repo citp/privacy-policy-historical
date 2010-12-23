@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220035937id_/http%3A//www.donbest.com/sports/Customers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223171652id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Customers | DonBest
+# Privacy Statement - Customers - DonBest.com
 
 **DON BEST SPORTS IS COMMITTED TO YOUR PRIVACY**
 
-This website is managed by SBR Netmarketing and Consulting S.A. for Don Best Sports (hereinafter both entities will collectively be referred to as “us, we, our”).  
-
+This website is managed by SBR Netmarketing and Consulting S.A. for Don Best Sports (hereinafter both entities will collectively be referred to as “us, we, our”).
 
 We value your patronage and respect your privacy rights. As part of the normal operation of our services, we collect and, in some cases, may disclose information about you. We have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to us and is maintained electronically, whether you provide the information through our website located at www.donbest.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any Personal Information (defined below) obtained from your use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies.  
-This Privacy Policy is governed by our Terms of Use found at www.donbest.com. We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact us at [webmaster@donbest.com](mailto:webmaster%40donbest.com).  
+This Privacy Policy is governed by our Terms of Use found at www.donbest.com. We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact us at [webmaster@donbest.com](mailto:webmaster%40donbest.com) .
 
+**SPECIAL NOTE ABOUT CHILDREN**
 
-**SPECIAL NOTE ABOUT CHILDREN**  
+This Site is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any Personal Information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any Personal Information on our website. In the event that we discover that a child under the age of 13 has provided Personal Information to us, in accordance with the United States Children's Online Privacy Protection Act (please see the Federal Trade Commission's website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy "www.ftc.gov/kidzprivacy") for more information about this Act), we will delete the child's Personal Information from our files to the extent technologically possible.
 
-
-This Site is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any Personal Information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any Personal Information on our website. In the event that we discover that a child under the age of 13 has provided Personal Information to us, in accordance with the United States Children's Online Privacy Protection Act (please see the Federal Trade Commission's website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy "www.ftc.gov/kidzprivacy") for more information about this Act), we will delete the child's Personal Information from our files to the extent technologically possible.  
-
-
-**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**  
+**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**   
 We collect and maintain a variety of Personal Information about you to enable us to provide you with the best service. "Personal Information" is information about you by which you may be identified. We currently collect Personal Information through e-mail and the various online inquiry forms on the Site. The Personal Information we collect and maintain about you includes:
 
   * your name, your phone number and address (street and e-mail) 
@@ -27,43 +23,42 @@ We collect and maintain a variety of Personal Information about you to enable us
 
 We only collect Personal Information that you voluntarily provide to us or voluntarily provide to our Partners (defined below) who share that information with us. We also use your Personal Information for other things that may include, but are not limited to, the following: 
 
-  * **_Contacting You_**
+  * **_Contacting You_ **
 
 
 
 We use your Personal Information to communicate with you in the event we have any questions with regard to your online inquiry. We may also contact you to tell you about products and services provided by our Partners, other affiliates and other third-party organizations.
 
-  * **_Interactions_**
+  * **_Interactions_ **
 
 
 
 Each time you interact with our Site, the details of your interaction are collected and retained. 
 
-  * **_Correspondence_**
+  * **_Correspondence_ **
 
 
 
 We intend to retain any correspondence, including facsimiles, mail and e-mails, set to us. We also may retain correspondence such as customer service e-mails from us to you. We may delete such records over time. 
 
-  * **_Use of IP Address_**
+  * **_Use of IP Address_ **
 
 
 
 IP addresses are numbers that are automatically assigned to your computer, and, if associated with other individually identifiable information, could be considered personal information. Your user IP address information is used only for our internal tracking purposes. 
 
-  * **_Use of Cookies_**
+  * **_Use of Cookies_ **
 
 
 
 Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive by sending a small string of text to your browser. They make your use of this Site more pleasing and efficient by "personalizing" your Site experience and gathering Site statistical data, such as which parts of the Site you have previously visited, what material you downloaded, your Internet provider's domain name and country, and the addresses of websites you visited immediately before and after our Site. They enable us to tailor the information you receive and to assist our Partners or other third party organizations with whom we have strategic alliances by identifying you as our customer or Site user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. Typically, we do not use cookies, however, if we so chose to use cookies in order for us to provide you with services on our Site, your browser must accept cookies, as they are essential for site administration and security. We do not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier.
 
-  * **_Provision of Personal Information to Third Parties_**
+  * **_Provision of Personal Information to Third Parties_ **
 
 
 
 It should be clearly understood that the contact coordinates relating to each person which accesses our (or any of our affiliates') websites or purchases any of our (or any of our affiliates') services and which we access to their respective contact coordinates may be provided to third parties (in exchange for compensation or otherwise) for an indefinite period of time without any compensation being payable to the subject person. Such third parties may be using this personal information to contact you to solicit, advertise or market their products and/or services to you.   
-Should you have any questions, concerns or disagree with the possible provision of your personal information in the manner that is described herein, please contact our Chief Privacy Officer ("CPO") at the contact coordinates noted below.  
-
+Should you have any questions, concerns or disagree with the possible provision of your personal information in the manner that is described herein, please contact our Chief Privacy Officer ("CPO") at the contact coordinates noted below.
 
 **WHAT GENERAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**
 
@@ -87,7 +82,7 @@ We generally keep user data on our server or in our archives for as long as we r
 
 **PERSONAL CHOICE IN THE DISCLOSURE OF YOUR INFORMATION**
 
-If you do not want us to share your Personal Information with our Partners for marketing purposes, or if you do not want to receive certain communications and offers from us you can "opt out" of such sharing, communications by contacting us via email at [webmaster@donbest.com](mailto:webmaster%40donbest.com), or write us at:  
+If you do not want us to share your Personal Information with our Partners for marketing purposes, or if you do not want to receive certain communications and offers from us you can "opt out" of such sharing, communications by contacting us via email at [webmaster@donbest.com](mailto:webmaster%40donbest.com) , or write us at:  
 Don Best Sports  
 1311 Howe Street, Suite 401  
 Vancouver, British Columbia V6Z 2P3  
@@ -115,9 +110,9 @@ With respect to the collection, storage, use and retention of your personal info
 
 **Management** : All employees and third-party staff who in any way handle or manage personal information have been made aware of this Privacy Management Plan and the supporting procedures. Our CPO: For further information concerning our privacy policy, please contact:
 
-**Chief Privacy Officer**  
+**Chief Privacy Officer**   
 Subject: Privacy Policy Inquiry  
-[webmaster@donbest.com](mailto:webmaster%40donbest.com)  
+[webmaster@donbest.com](mailto:webmaster%40donbest.com)   
 or write the CPO at  
 Don Best Sports  
 1311 Howe Street, Suite 401  
