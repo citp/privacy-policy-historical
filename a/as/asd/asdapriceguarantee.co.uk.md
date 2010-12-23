@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asdapriceguarantee.co.uk privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520035334id_/http%3A//www.asdapriceguarantee.co.uk/Administration/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdapriceguarantee.co.uk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223202048id_/http%3A//www.asdapriceguarantee.co.uk/Administration/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ASDA Price Guarantee
 
