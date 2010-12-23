@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mouser.com privacy policy that was archived on 2010-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623020442id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mouser.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223030429id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_header"><title>
 	Mouser Electronics - Electronic Component Distributor
@@ -19,19 +19,33 @@ electronic parts, components, distributor, connectors, semiconductors, integrate
             MsgWindow = window.open(URL, "MsgWindow","scrollbars=1,height=500,width=650,menubar=0,resizable=1");
         }
     </script>
-   
+
 </head>
 <body id="ctl00_body">
+    <!--Begin Coremetrics -->
+    <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+    <script type="text/javascript" src="../JavaScript/cmcustom.js"></script>
+    <script type="text/javascript">cmSetClientID("90354505", true, "data.coremetrics.com", "mouser.com");</script>
+    <!--End Coremetrics --> 
     <script type="text/javascript">
 	    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'	type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script src="../Javascript/jquery-1.3.2.min.js" type="text/javascript"></script>
-     
+ 
+    <script src="../Javascript/jquery-1.4.2.min.js" type="text/javascript"></script>
+
+
     <script src="../Javascript/jquery.url.js" type="text/javascript"></script>
+
     <script src="../Javascript/jquery.tooltip.pack.js" type="text/javascript"></script>
+
     <script src="../Javascript/track.js" type="text/javascript"></script>
+
     <script src="../JavaScript/thickbox_1.js" type="text/javascript"></script>
+    <script src="../Javascript/Minified/jquery.translate-1.3.9.min.js" type="text/javascript"></script>
+    <script src="../Javascript/Translation.js" type="text/javascript"></script>
+    
     <script src="../Javascript/default.js" type="text/javascript"></script>
+
     <script src="../Javascript/jquery.pngFix.pack.js" type="text/javascript"></script>
 
     <form name="aspnetForm" method="post" action="" id="aspnetForm">
@@ -54,7 +68,7 @@ function ChangeCurrencyToUSD() {
   ChangeCurrencyToUSD2();
 }
 function ChangeCurrencyToUSD2() {
-  ChangeCurrency('www', 'USDu');ChangeSubdomain('www')
+  ChangeCurrency(usdSubdomain, 'USDu');ChangeSubdomain(usdSubdomain)
 }
 function ChangeLanguageImpl(val) {
   var date = new Date();
@@ -66,9 +80,6 @@ function ChangeLanguageImpl(val) {
 </script>
 
     
-    
-
-
 <script type="text/javascript">
     function OpenCurrencyPopup() {
         $("#tblink").trigger('click');
@@ -82,11 +93,11 @@ function ChangeLanguageImpl(val) {
         window.location.reload();
     }
 </script>
-
+<noscript><style type="text/css">.hidden_englishonly{display:inline;}</style></noscript>
 <div id="header">
-    <h1 id="logo">
+    <div id="logo">
         <a id="ctl00_NavHeader_linkHomeLogo" href="../" target="_self"><img id="ctl00_NavHeader_imgLogo" src="../Images/mouser-reg-logo.gif" alt="Mouser Electronics - Electronic Component Distributor" border="0"></a>
-    </h1>
+    </div>
     <div id="contact">
         <a href="http://www.mouser.com:80/contact/" id="ctl00_NavHeader_A1" class="smallgrey" title="Contact Us">
             <img id="ctl00_NavHeader_imgPhone" src="../images/icon-phone.gif" border="0">&nbsp;<span id="ctl00_NavHeader_lblContactPhoneNumber">(800) 346-6873</span></a>&nbsp;&nbsp;
@@ -110,11 +121,11 @@ function ChangeLanguageImpl(val) {
                 <li>
                     <a id="ctl00_NavHeader_lnkCatalog" title="Catalog" href="http://www.mouser.com:80/CatalogRequest/Catalog.aspx">Catalog</a></li>
                 <li>
-                    <a id="ctl00_NavHeader_lnkProject" title="Project Manager" href="http://www.mouser.com:80/OrderHistory/OrderHistoryView.aspx?Tab=6">Project Manager</a></li>
+                    <a id="ctl00_NavHeader_lnkProject" title="Project Manager" href="http://www.mouser.com:80/OrderHistory/ProjectsView.aspx">Project Manager</a></li>
                 <li>
                     <a id="ctl00_NavHeader_lnkTools" title="EZ Buy" href="http://www.mouser.com:80/tools/tools.aspx">EZ Buy</a></li>
                 <li>
-                    <a id="ctl00_NavHeader_lnkOrderStatus" title="Order History" href="https://www.mouser.com/OrderHistory/OrderHistoryLogin.aspx">Order History</a></li>
+                    <a id="ctl00_NavHeader_lnkOrderStatus" title="Order History" href="https://www.mouser.com/OrderHistory/OrderHistoryLogin.aspx?Tab=1">Order History</a></li>
                 <li>
                     <a id="ctl00_NavHeader_lnkHelp" title="Help" href="http://www.mouser.com:80/Help/Help.aspx">Help</a></li>
             </ul>
@@ -137,14 +148,14 @@ function ChangeLanguageImpl(val) {
                 <span id="ctl00_NavHeader_lblCurrencies" style="display: inline;">USD</span>
             </div>
             
-        </div><div id="dogear" style="position: relative; margin: -30px 0px; float: left;"> 
-            <a id="ctl00_linkCatalogViewer" href="http://web.archive.org/enhanced_catalog/"><img id="ctl00_Image1" src="../Images/digital-catalog-dogear.png" border="0"></a>
-     </div>
+        </div><div id="dogear" style="position: relative; margin: -30px 0px; float: left;">
+        <a id="ctl00_linkCatalogViewer" href="http://web.archive.org/enhanced_catalog/"><img id="ctl00_Image1" src="../Images/digital-catalog-dogear.png" border="0"></a>
+    </div>
     </div>
     <div id="search">
         <div id="search-block">
             <div id="search-title">
-                Part # / Keyword (English Only)
+                Part # / Keyword&nbsp;<span id="ctl00_NavHeader_lblEnglishOnly"> (English Only)</span>
             </div>
             <div id="search-bar">
                 <div id="ctl00_NavHeader_pnlSearch">
@@ -154,54 +165,57 @@ function ChangeLanguageImpl(val) {
                 
 </div>
             </div>
-            
         </div>
         <div id="account" style="padding: 5px 110px 0 0;">
             <a id="ctl00_NavHeader_lnkMyMouser" title="My Account" href="https://www.mouser.com/MyMouser/AccountSummary.aspx">My Account</a>&nbsp;&nbsp;
             <a id="ctl00_NavHeader_lnkLogin" title="Log In" href="https://www.mouser.com/MyMouser/MouserLogin.aspx?qs=0gZ0gv0KDwuZTTCx7egbc2LB%252b%252bHvUAcCc7AZ8tnT9KWaCl8H6TitjSgTV6BHuMBF61iiSLwxMR8=">Log In</a>&nbsp;&nbsp;
             <a id="ctl00_NavHeader_lnkCreateAccount" title="Create Account" href="https://www.mouser.com/MyMouser/CreateAccount.aspx">Create Account</a>
+            <a id="ctl00_NavHeader_HyperLink1" title="Subscription" href="http://www.mouser.com:80/SubscriptionCenter/ManageSubscription.aspx">Subscription</a>
             <div id="livechat">
                 <a href="http://www.mouser.com:80/Chat/LiveChat.aspx" id="ctl00_NavHeader_A4" title="Click Here to Chat!">
                     <img src="../images/livechat-header-icon.gif" id="ctl00_NavHeader_Img1" alt="Click Here to Chat!"></a>
             </div>
         </div>
     </div>
-    
+</div>
+<div style="visibility: hidden;">
+    <input name="ctl00$NavHeader$lblTrdTerm" type="text" id="ctl00_NavHeader_lblTrdTerm">
+    <input name="ctl00$NavHeader$lblIsNewTerm" type="text" id="ctl00_NavHeader_lblIsNewTerm">
 </div>
 
 <script type="text/javascript" src="../javascript/genLib.js"></script>
 
 
-        <div id="content-container">
-       
+    <div id="content-container">
         <table>
             <tbody><tr>
-                <td style="padding:0;" valign="top">
+                <td style="padding: 0;" valign="top">
+                    
 
 <div class="navMenu">
         <h3><b><a id="ctl00_LeftNavMain1_linkProductFinder" href="../search/default.aspx">Product Finder</a></b></h3>
       
       <ul>
          <li><a id="ctl00_LeftNavMain1_linkAllProducts" href="../search/default.aspx">VIEW ALL PRODUCTS</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkOptoelectronics" href="../Optoelectronics/">Optoelectronics</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkEmbeddedSol" href="../Embedded-Solutions/">Embedded Solutions</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkSemi" href="../Semiconductors/">Semiconductors</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkDiscreteSemiconductors" href="../Discrete-Semiconductors/"> - Discrete Semiconductors</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkIntegratedCircuits" href="../Integrated-Circuits/"> - Integrated Circuits (ICs)</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkEngineeringDevelopmentTools" href="../Development-Tools/"> - Development Tools</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkCircuit" href="../Circuit-Protection/">Circuit Protection</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkOptoelectronics" href="../Optoelectronics/_/N-5g5v/">Optoelectronics</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkEmbeddedSol" href="../Embedded-Solutions/_/N-5g1k/">Embedded Solutions</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkSemi" href="../Semiconductors/_/N-5gcb/">Semiconductors</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkDiscreteSemiconductors" href="../Discrete-Semiconductors/_/N-6hpe7/"> - Discrete Semiconductors</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkIntegratedCircuits" href="../Integrated-Circuits/_/N-6j73k/"> - Integrated Circuits (ICs)</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkEngineeringDevelopmentTools" href="../Development-Tools/_/N-6hpeq/"> - Development Tools</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkCircuit" href="../Circuit-Protection/_/N-5g3c/">Circuit Protection</a></li>
 
-         <li><a id="ctl00_LeftNavMain1_linkPassive" href="../Passive-Components/">Passive Components</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkInterconnects" href="../Interconnects/">Interconnects</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkWireCable" href="../Wire-Cable/">Wire &amp; Cable</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkElectro" href="../Electromechanical/">Electromechanical</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkSensors" href="../Sensors/">Sensors</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkPassive" href="../Passive-Components/_/N-5g73/">Passive Components</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkInterconnects" href="../Interconnects/_/N-5g3y/">Interconnects</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkWireCable" href="../Wire-Cable/_/N-5ggl/">Wire &amp; Cable</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkElectro" href="../Electromechanical/_/N-5g1x/">Electromechanical</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkSensors" href="../Sensors/_/N-5gej/">Sensors</a></li>
 
-         <li><a id="ctl00_LeftNavMain1_linkEnclosures" href="../Enclosures/">Enclosures</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkThermal" href="../Thermal-Management/">Thermal Management</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkPower" href="../Power/">Power</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkTest" href="../Test-Measurement/">Test &amp; Measurement</a></li>
-         <li><a id="ctl00_LeftNavMain1_linkTools" href="../Tools-Supplies/">Tools &amp; Supplies</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkEnclosures" href="../Enclosures/_/N-5g3o/">Enclosures</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkThermal" href="../Thermal-Management/_/N-5gfs/">Thermal Management</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkPower" href="../Power/_/N-5gbh/">Power</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkTest" href="../Test-Measurement/_/N-5gf3/">Test &amp; Measurement</a></li>
+         <li><a id="ctl00_LeftNavMain1_linkTools" href="../Tools-Supplies/_/N-5gg1/">Tools &amp; Supplies</a></li>
      </ul>
 </div>
 
@@ -213,13 +227,13 @@ function ChangeLanguageImpl(val) {
     <h3><a id="ctl00_LeftNavMain1_linkWhatsNew" href="../newest/"><strong>What's New</strong></a></h3>
     <ul>
          <li><a id="ctl00_LeftNavMain1_linkNewestProducts" href="../newest/">NEWEST Products</a></li>
-         <li><span class="highlight">(Updated 6/21/2010)</span></li>
+         <li><span class="highlight">(Updated 12/20/2010)</span></li>
          <li><a id="ctl00_LeftNavMain1_linkNewProducts" href="../new/">New Products</a></li>
          <li><a id="ctl00_LeftNavMain1_linkNewSuppliers" href="../newsuppliers/">New Suppliers</a></li>
          <li><a id="ctl00_LeftNavMain1_linkNewTech" href="../newtechnology/">New Technologies</a></li>
          <li class="no-hover">
              <div id="left-enews">
-                 <a id="ctl00_LeftNavMain1_linkEnewsButton" href="../eNews/eNewsConfirm.aspx">New Product Announcements
+                 <a id="ctl00_LeftNavMain1_linkEnewsButton" href="../SubscriptionCenter/ManageSubscription.aspx">New Product Announcements
                      <br>
                      <img src="../images/left-arrow-icon.gif" style="vertical-align: middle;">
                      <span class="signup">
@@ -270,8 +284,9 @@ function ChangeLanguageImpl(val) {
  
         
  </div>           
-     </td>
-                <td style="padding:0;" valign="top">
+     
+                </td>
+                <td style="padding: 0;" valign="top">
                     <div id="content-fixed-with-nav">
                         
     	
@@ -345,13 +360,10 @@ your shopping cart or to create/log into a My Mouser account.</p>
                     </div>
                 </td>
             </tr>
-        
         </tbody></table>
-         
-        </div>
-         
-        <div id="footer">
-            <div id="ctl00_Footer1_boxFooter" class="white-round-box">
+    </div>
+    <div id="footer">
+        <div id="ctl00_Footer1_boxFooter" class="white-round-box">
 	<div class="t">
 		<div class="r">
 			<div class="b">
@@ -363,7 +375,7 @@ your shopping cart or to create/log into a My Mouser account.</p>
 									<div class="padding5">
 										
     <div id="ftImg">
-        <a id="ctl00_Footer1_AdRotator" target="_top"><img src="/images/rep-footer-singapore.gif" alt="" border="0"></a>
+        <a id="ctl00_Footer1_AdRotator" target="_top"><img src="/images/ft-sp-05.gif" alt="" border="0"></a>
     </div>
     <h5 style="padding: 5px 0 5px 5px;">
         <span id="ctl00_Footer1_lblYearFirstPart">Copyright © 1996 -</span>
@@ -374,13 +386,15 @@ your shopping cart or to create/log into a My Mouser account.</p>
         <span id="ctl00_Footer1_lblRestMElectronicsAdd">Mouser Electronics®  | 1000 North Main Street | Mansfield, TX 76063-1514</span>
     </p>
     <p>
-        <a id="ctl00_Footer1_lnkContact" href="../contact/">Corporate Contact Information</a>
+        <a id="ctl00_Footer1_lnkContact" href="../contact/">Contact Information</a>
         &nbsp;&nbsp;|&nbsp;&nbsp;
         <a id="ctl00_Footer1_lnkPrivacy" href="./">Privacy Policy</a>
         &nbsp;&nbsp;|&nbsp;&nbsp;
         <a id="ctl00_Footer1_lnkTerms" href="../saleterms/">Terms and Conditions</a>
         &nbsp;&nbsp;|&nbsp;&nbsp;
         <a id="ctl00_Footer1_HyperLink1" href="../browsersupport/">Browser Support</a>
+         &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a id="ctl00_Footer1_lnkMobile" class="ft-mobile" href="javascript:__doPostBack('ctl00$Footer1$lnkMobile','')">Mobile</a> 
         <br>
         Quick Reference: 
         <a id="ctl00_Footer1_linkCategory" href="../parts/">Product Category</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
@@ -395,7 +409,7 @@ your shopping cart or to create/log into a My Mouser account.</p>
         <span id="ctl00_Footer1_pTradeMark">Mouser® and Mouser Electronics® are registered trademarks of Mouser Electronics,        Inc.<br>        Other products, logos and company names mentioned herein, may be trademarks of their        respective owners.</span>
     </p>
         
-    
+    <span id="ctl00_Footer1_litCountries" class="Footer-Countries"><p></p></span>
     <div class="clear">
     </div>
 
@@ -435,16 +449,18 @@ your shopping cart or to create/log into a My Mouser account.</p>
     </div>
 
 
-        </div>
-        
-            <script type="text/javascript">
+    </div>
+    
+
+    <script type="text/javascript">
 		        try	{
 		            var pageTracker = _gat._getTracker("UA-521079-1");
 		            pageTracker._setLocalRemoteServerMode();
 		            pageTracker._trackPageview();
 		        } catch(err) { }
-            </script>
-        
+    </script>
+
+    
 
 <script type="text/javascript">
 //<![CDATA[
@@ -453,12 +469,19 @@ $(document).ready(function() {
     ChangeLanguageImpl($("option:selected", this).val());
   });
 });
+var usdSubdomain = 'www';var coremetricsDomain = 'data.coremetrics.com';
 //]]>
 </script>
 </form>
-    <script src="../flash/AC_RunActiveContent.js" type="text/javascript"></script>
-    <script src="../flash/peel/peel.js" type="text/javascript"></script>
-     
 
+    <script src="../flash/AC_RunActiveContent.js" type="text/javascript"></script>
+
+    <script src="../flash/peel/peel.js" type="text/javascript"></script>
+
+    
+    <script src="../Javascript/cmtaggingservices.js" type="text/javascript"></script>
+    
+
+    
 
 <div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
