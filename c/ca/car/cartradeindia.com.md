@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cartradeindia.com privacy policy that was archived on 2008-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080314010500id_/http%3A//www.cartradeindia.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartradeindia.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223190727id_/http%3A//www.cartradeindia.com/company/privacypolicy) for the most accurate reproduction.*
 
-# CarTradeIndia - india cars on sale buy a car buy used cars india new cars india car finance india
+# Privacy Policy | CarTradeIndia.com
 
-Company >> Privacy Policy
+## Company >> Privacy Policy
+
+## Privacy Policy 
 
 During your use of CarTradeIndia.com, we will collect certain information about you (in the following, ‘you’ refers to any visitor using the website CarTradeIndia.com, in general or in the use of specific functions). We highly value your privacy and the privacy statement that follows explains exactly what data we collect and how it will be used. Rest assured that we collect data solely with the purpose of serving you better.
 
@@ -16,15 +18,15 @@ When you wish to sell one or more vehicles, it is obviously necessary to collect
 
 _Contacting a seller_
 
-When you contact a seller using the contact form, we will store your e-mail address on our servers to allow us to contact you if necessary. Your contact data will not be provided to any other parties, and will be removed when you unsubscribe from our mailing list.
+When you contact a seller using the contact form, we will store your email address on our servers to allow us to contact you if necessary. Your contact data will not be provided to any other parties, and will be removed when you unsubscribe from our mailing list.
 
 _CarTradeAlert_
 
-When you make use of our CarTradeAlert, we will store your vehicle preferences and your e-mail address. This will be used only to supply you relevant advertisement information. This information will be stored on our own servers, and will not be directly provided to any sellers. The information will be deleted when you unsubscribe from the CarTradeAlert.
+When you make use of our CarTradeAlert, we will store your vehicle preferences and your email address. This will be used only to supply you relevant advertisement information. This information will be stored on our own servers, and will not be directly provided to any sellers. The information will be deleted when you unsubscribe from the CarTradeAlert.
 
 _Mailing List_
 
-While providing your e-mail address to CarTradeIndia, either during the sale of a vehicle, while using the CarTradeAlert, or while contacting a buyer, you agree to be included in our mailing list. Our mailing list is an opt-in mailing list, and you can unsubscribe by using the relevant link in the e-mail. Your mail address will not be provided to any outside party.
+While providing your email address to CarTradeIndia, either during the sale of a vehicle, while using the CarTradeAlert, or while contacting a buyer, you agree to be included in our mailing list. Our mailing list is an opt-in mailing list, and you can unsubscribe by using the relevant link in the email. Your mail address will not be provided to any outside party.
 
 _Security_
 
@@ -38,7 +40,8 @@ _Agreement_
 
 By use of CarTradeIndia.com you agree to be aware of our privacy policy and your approval of the same. You further understand that this policy may be altered in due course, and that it is your responsibility to regularly monitor this policy.
 
+_On Sale_
+
+Personal information collected may be transferred and shared in the event of a sale..
+
 If you have any questions about our privacy policy, please contact us on [privacy@cartradeindia.com](mailto:privacy@cartradeindia.com).
-
-  
-
