@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speaklight.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306181704id_/http%3A//www.speaklight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaklight.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223053228id_/http%3A//www.speaklight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | LightCMS
+# Privacy Policy for LightCMS | LightCMS
 
 **INFORMATION WE COLLECT**
 
