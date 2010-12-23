@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130091342id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223161826id_/http%3A//medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
@@ -27,8 +27,6 @@ When Medallia surveys respondents on its own behalf, it typically does not colle
 Medallia does not collect or receive sensitive personal information such as: credit card numbers, social security numbers, financial account and transaction information, medical or health information, political opinions, religious or philosophical beliefs, or trade union membership. Medallia does collect demographic information for statistical purposes. Responses to demographic questions are entirely voluntary.
 
 Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers.
-
-Medallia does not use cookies on its www.medallia.com site.
 
 ## Voluntary Participation
 
@@ -86,4 +84,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or comments about this privacy statement or the practices of this site, please contact Medallia by e-mailing info@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Amy Pressman, President, Medallia, Inc., 800 El Camino Real, Suite 400, Menlo Park, CA 94025. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
-Effective date: September 24, 2004. Last reviewed and updated, July 15, 2009.
+Effective date: September 24, 2004. Last reviewed and updated, December 13, 2010.
