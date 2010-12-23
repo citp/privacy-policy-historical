@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528115013id_/http%3A//www.seizethedeal.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223021920id_/http%3A//www.seizethedeal.com/privacystatement) for the most accurate reproduction.*
 
-# Seize the Deal -
-
-## Privacy Policy
+# Seize the Deal | Privacy Policy
 
 **READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
