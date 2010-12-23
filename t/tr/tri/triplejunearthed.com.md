@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525182644id_/http%3A//www.triplejunearthed.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplejunearthed.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223020108id_/http%3A//www.triplejunearthed.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# triple j Unearthed
+# Privacy - triple j Unearthed - free music | new Australian music | independent music
 
 ABC Online and DestraMusic.com is committed to protecting your privacy. We are also committed to providing you the very best experience. This Policy is subject to the Terms and Conditions and you expressly consent to the use of Your Data in accordance with this Policy. 
 
