@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216112740id_/http%3A//www.bangornews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223170816id_/http%3A//www.bangordailynews.com/privacy.html) for the most accurate reproduction.*
 
 # Bangor Daily News Privacy Policy - Bangor Daily News
 
 This Privacy Policy discloses the general privacy practices for Bangor Daily News web sites, including Bangordailynews.com. 
-
-If you have any inquiry about our privacy policy, please contact: 
-
-Todd Benoit  
-Bangor Daily News/Bangordailynews.com  
-Address: PO Box 1329 Bangor, ME 04402-1329  
-Phone: 207-990-8299  
-Fax: 207-990-8081  
-email: [feedback@bangordailynews.net](mailto:feedback@bangordailynews.net)
 
 Bangor Daily News is committed to respecting your privacy rights when visiting any Bangor Daily News web site, such as this one. To protect your personal information, Bangor Daily News has adopted the guidelines outlined below. 
 
@@ -36,7 +27,7 @@ What happens with the information collected in a cookie? The information stored 
 Bangor Daily News does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. 
 
 **Use of Personal Information**  
-We believe in protecting your privacy, and will not share personal information with third parties outside of Bangor Daily News except as described in this Privacy Policy. We believe that we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content and product offerings and to personalize the site's content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions. 
+We believe in protecting your privacy, and will not share personal information (not including your screen name or registered name) with third parties outside of Bangor Daily News except as described in this Privacy Policy. We believe that we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content and product offerings and to personalize the site's content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions. 
 
 Bangor Daily News may match specific and/or aggregated personal information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. Bangor Daily News also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. As part of your experience on our site, you may receive communications from us related to products and services that might interest you. While we believe these services will enhance your experience at our site, you will at all times be able to opt out from receiving these communications, either by specifically opting out of these services or by deleting your profile from our database. 
 
@@ -81,3 +72,6 @@ Bangor Daily News maintains industry standard safeguards to ensure the security,
 
 **Contacting Us**  
 If you have any questions or comments about our Privacy Policy, please e-mail us at [feedback@bangordailynews.net](mailto:feedback@bangordailynews.net)
+
+|   
+---|---
