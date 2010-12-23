@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the phila.gov privacy policy that was archived on 2009-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090622043250id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phila.gov privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223194136id_/http%3A//phila.gov/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<link rel="SHORTCUT ICON" href="../styles/Master_pages/Favicon.ico"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="cache-control" content="no-cache">
     <title>PHILA.GOV | Welcome to the City of Philadelphia</title>
     <link href="../styles/stylesMS.css" rel="stylesheet" type="text/css">
     <link href="../styles/subscribe.css" rel="stylesheet" type="text/css">
@@ -22,6 +24,7 @@
 	
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  trackGoogleEvent(grpHomeSiteNav, actDeptDropdown, selObj.options[selObj.selectedIndex].text);
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;
 }
@@ -40,13 +43,95 @@ function RunSearch()
 <style>
 
 body {
-background:url("http://www.phila.gov/images/bg_new4.jpg") repeat-x fixed;
+background:url("http://www.phila.gov/images/pageBG.jpg") repeat-x fixed bottom;
 }
 
 div.TopNavMenu a:hover {
 text-decoration:none;
 color:#FFFFFF;
 }
+
+/* ACCORDIAN STYLES */
+
+ul#menu, ul#menu ul {
+font-size:11px;
+line-height:18px;
+list-style-type:none;
+background:#e1e1e1;
+margin: 0px;
+padding: 0px;
+width:195px;
+}
+
+ul#menu a {
+display: block;
+text-decoration: none;	
+}
+
+ul#menu li {
+margin:2px 0px 3px 0px;
+}
+
+ul#menu a.hasSubMenu {
+background:url("http://www.phila.gov/images/BlueArrow2.gif") no-repeat center right #e1e1e1;
+border-bottom:1px solid #223e66;
+margin:0px 0px 3px 0px;
+}
+
+ul#menu li a {
+background: #e1e1e1;
+color:#223e66;	
+padding:0px 0px 0px 5px;
+margin:0px 0px 3px 0px;
+}
+
+ul#menu li a:hover {
+background:#ffffff;
+}
+
+ul#menu li ul li a {
+background:#e1e1e1;
+color:#223e66;
+padding-left:20px;
+margin:0px 0px 3px 0px;
+}
+
+ul#menu li ul li a:hover {
+background:#ffffff;
+border-left:5px #223e66 solid;
+padding-left: 15px;
+color:#223e66;
+}
+
+.code { 
+border: 1px solid #ccc;
+list-style-type:decimal-leading-zero;
+padding: 5px;
+margin: 0;
+}
+
+.code code { 
+display: block; 
+padding: 3px; 
+margin-bottom: 0; 
+}
+
+.code li { 
+background: #ddd; 
+border: 1px solid #ccc; 
+margin: 0 0 2px 2.2em; 
+}
+
+.indent1 { 
+padding-left: 1em; 
+}
+
+.indent2 { 
+padding-left: 2em; 
+}
+
+
+
 </style>
 
 <script>
@@ -55,12 +140,58 @@ win = window.open("http://moiswebdev01.phila.gov/Subscription/SubscriptionForm.a
 }
 </script>
 
+<script src="http://code.jquery.com/jquery-1.4.1.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" language="javascript">
+function initMenu() {
+  $('#menu ul').hide();
+  $('#menu ul:first').show();
+  $('#menu li a').click(
+    function() {
+      var checkElement = $(this).next();
+      if((checkElement.is('ul')) && (checkElement.is(':visible'))) {
+        return false;
+        }
+      if((checkElement.is('ul')) && (!checkElement.is(':visible'))) {
+        $('#menu ul:visible').slideUp('normal');
+        checkElement.slideDown('normal');
+        return false;
+        }
+      }
+    );
+  }
+$(document).ready(function() {initMenu();});
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+</script>
+
+
 
 <title>PHILA.GOV | Welcome to the City of Philadelphia</title>
  
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="../styles/stylesMS.css" rel="stylesheet" type="text/css">
-<script language="javascript" src="../flash/background.js"></script></head><body background="http://www.phila.gov/images/bannerD.jpg" bgcolor="#FFFFFF" link="000000" alink="000000" vlink="000000">
+<script language="javascript" src="../flash/background.js"></script></head><body background="http://www.phila.gov/images/bannerE.jpg" bgcolor="#FFFFFF" link="000000" alink="000000" onload="MM_preloadImages('http://www.phila.gov/images/icon_Facebook02.gif','http://www.phila.gov/images/icon_Twitter02.gif','http://www.phila.gov/images/icon_Flickr02.gif')" vlink="000000">
 
 <style type="text/css">
 <!--
@@ -72,325 +203,432 @@ body {
 -->
 </style>
 
+
 <div align="center">
-<div style="background-color:#FFFFFF; width:964px; padding:0px; margin:0 auto;">
-    <div class="pageWrapper" style="border:1px solid #000000; ">
-    
-        <div id="divHeader" style="width:100%; margin: 0px 0px 0px 0px; height: 150px; background:url('http://www.phila.gov/ImgGen') top #233e66 no-repeat;">
-        
-        
-        <!-- SUBSCRIPTION TAB START
-        	//////////////////////////////////////////   -->       
-        
-        <!--
-        <div style="float:right; margin:0px 20px 0px 0px" align="right">
-        
-        <div class="subscribeContent" id="tabContent">
-            <FORM name="SubscribeForm" id="subscribeForm" action="http://webapps.phila.gov/Subscription/SubscriptionForm.aspx" target="newwin" method="POST"
-            onsubmit ="return window.open('','newwin','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,copyhistory=no,scrollbars=no,width=480,height=705')">
 
-            <div class="label">Email</div>
-                    <div class="field">
-                        <span id="cust_emailAddress">
-                        <input name="email" type="text" id="email" size="28" />
-                        </span>    
-                    </div>
-                    <div class="clear"></div>
-                    
-            <div class="label">Zip Code</div>
-                    <div class="field"><span id="cust_PostalCode">
-                    <input type="text" name="postalcode" id="postalcode" size="10" />
-                    </span>    
-                    </div>
-                    
-                    <div class="buttonHolder">
-                        <div class="button">
-						
-                        <input type="image" src="http://www.phila.gov/images/BTN_Send2.gif"/>
-                        
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    
-                </form>
-                
-        </div>
-                   
-            <div class="tab" id="tabHeader" onClick="subscribe('tabHeader','tabContent')">
-            </div>
+<div class="globalNav">
+    <div class="content" align="center">
+    <div class="linkArea">
+    	<ul>
+            <li><a onclick="trackGoogleEvent(grpHomeSiteNav , actGlobalNav , 'Phila.gov');" href="http://www.phila.gov" style="font-size:15px; padding-top:0px;">Phila.gov</a></li>
+            <li><a onclick="trackGoogleEvent(grpHomeSiteNav , actGlobalNav , 'Mayors Office');" href="http://www.phila.gov/mayor">Mayor's Office</a></li>
+            <li><a onclick="trackGoogleEvent(grpHomeSiteNav , actGlobalNav , 'City Council');" href="http://www.phila.gov/cityCouncil">City Council</a></li>
+            <li><a onclick="trackGoogleEvent(grpHomeSiteNav , actGlobalNav , 'Business');" href="http://www.phila.gov/business">Business</a></li>
+            <li><a onclick="trackGoogleEvent(grpHomeSiteNav , actGlobalNav , 'Residents');" href="http://www.phila.gov/Residents">Residents</a></li>
+            <li><a onclick="trackGoogleEvent(grpHomeSiteNav , actGlobalNav , 'Leisure');" href="http://www.phila.gov/visitors">Leisure</a></li>
+        </ul>
     </div>
-        <div class="clear"></div>
-        -->
+    <div class="helpArea">
+    <a href="http://www.phila.gov/311">3-1-1</a> | 
+    <a href="http://www.phila.gov/globalPhiladelphia/">Language Assistance</a> | 
+    <a href="http://www.phila.gov/phoneDir/">Phone Directory</a>
+      <!-- | Help--></div>
+    <div class="clear"></div>
+    </div>
+</div>
 
-        <!--	//////////////////////////////////////////
-        SUBSCRIPTION TAB END  -->
+    <div class="clear"></div>
+</div>
+    
+<div align="center">
+        <div style="background-color:#eeeeee; width:964px; padding:0px; margin:0 auto;" align="center">
         
-
-			<!--
-            <script language="JavaScript" type="text/javascript">
-	        var images = new Array(); 
-          
-	        var n = 0;
-	        var iWidth = 964;
-	        var iHeight = 150;
-  	        var sAlternateText = "Welcome to the City of Philadelphia, Mayor Michael Nutter";
-	        var sTitle = "Welcome to the City of Philadelphia, Mayor Michael Nutter";
-	        var sId = "WelcomeBanner";
-        	
-	        images[n++] = "http://www.phila.gov/images/bannerA.jpg";
-	        images[n++] = "http://www.phila.gov/images/bannerB.jpg";
-	        images[n++] = "http://www.phila.gov/images/bannerC.jpg";
-	        images[n++] = "http://www.phila.gov/images/bannerD.jpg";
-	        images[n++] = "http://www.phila.gov/images/bannerE.jpg";
-	        images[n++] = "http://www.phila.gov/images/bannerF.jpg";
-	        images[n++] = "http://www.phila.gov/images/bannerG.jpg";
-	        //Just keep adding
-
-	        rnd = Math.floor(Math.random() * n) ; 
-
-	        document.write(
-	            "<img " 
-	            + " id='"       + sId               + "'"
-	            + " name='"     + sId               + "'"
-	            + " src='"      + images[rnd]       + "'"
-		        + " width='" 	+ iWidth            + "'"
-		        + " height='" 	+ iHeight           + "'"
-		        + " title='" 	+ sTitle            + "'"
-		        + " alt='"  	+ sAlternateText    + "'"
-		        + ">"
-		        );
-            </script>
-            -->
-        </div>
-        <!-- TOP NAVIGATION - START -->
-        <div class="TopNavWrapper" style="border-top:1px solid #223e66;">
-            <div style="padding-left: 5px; float: left;">
-              <form action="/styles/Master_pages" method="get" name="frmSearch" id="frmSearch" onsubmit="RunSearch(); return false;" style="margin: 0px 0px 0px 0px; padding-top:-5px;">
-                <span class="quickhit-title"><strong>Search:</strong></span>
-                <input id="q" name="q" onchange="RunSearch(); return false;">
-                <!--                  <input name="Search" type="image" id="FormsButton2" src="../images/go_button_new.gif"
-                        align="middle" style="width: 20px; height: 15px; border: 0;" />
-                       
--->
-                <input name="input" type="button" value="GO»" style="width: 27px; height: 16px; border: 0;" onclick="RunSearch(); return false;">
-              </form>
-            </div>
-            <div class="TopNavMenu" style="color: #ffffff;">
-                <a href="http://www.phila.gov">HOME</a> <span>| </span><a href="../../residents/">
-                    RESIDENTS</a> <span>| </span><a href="../../business/">BUSINESS</a>
-                <span>| </span>
-                <a href="../../visitors/" target="_blank" title="">LEISURE</a>
-                <span>|</span>
-                <a href="../../311/" title="Philly311, Your connection to City Hall">3-1-1</a>
-                <span>|</span>
-
-                <form id="form1" method="post" action="/styles/Master_pages" style="display: inline; margin: 0px 0px 0px 0px;">
-                    <select name="departments" class="smallText" onchange="MM_jumpMenu('parent',this,0)">
-                        <option selected="selected">Select a City Department</option>
-                        <option>-----------------------</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phl.org">Airport (Philadelphia Int'l)</option>
-                        <option value="http://www.phila.gov/antigraffiti/">Anti-Graffiti Program</option>
-                        <option value="http://www.phila.gov/artincityhall/">Art In City Hall</option>
-                        <option value="http://www.phila.gov/dbhmrs/">Behavioral Health (DBH/MRS)</option>
-                        <option value="http://brtweb.phila.gov/">Board of Revision of Taxes</option>
-                        <option value="http://www.phila.gov/cpo/">Capital Program Office</option>
-                        <option value="http://www.phila.gov/phils/">City Archive (PHILS)</option>
-                        <option value="http://www.phila.gov/commissioners.html">City Commissioners</option>
-                        <option value="http://www.philadelphiacontroller.org">City Controller</option>
-							 <option value="http://citymaps.phila.gov/">City Maps</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philaplanning.org/">
-                            City Planning Commission</option>                       
-                     
-                        <option value="http://www.phila.gov/commerce/rep/">City Representative</option>
-                        <option value="http://www.phila.gov/civilservice/">Civil Service</option>
-                        <option value="http://www.phila.gov/quartersessions/">Clerk Of Quarter Sessions</option>
-                        <option value="http://www.phila.gov/mcpd/">Comm on People with Disabilities</option>
-                        <option value="http://www.phila.gov/commerce/comm/">Commerce</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philadelphiacommercial.org/">
-                            Commercial Development</option>
-                        <option value="http://www.phila.gov/aging/">Commission on Aging</option>
-                        <option value="http://www.phila.gov/mocs/">Community Services (MOCS)</option>
-                        <option value="http://www.courts.phila.gov/">Courts</option>
-                        <option value="http://courts.phila.gov/common-pleas/orphans/">Courts - Orphans'</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.superior.court.state.pa.us/">
-                            Courts - Superior</option>
-                        <option value="http://www.phila.gov/redirect/redirect.asp?url=http://www.courts.state.pa.us/Index/Supreme/indexSupreme.asp">
-                            Courts - Supreme</option>
-                        <option value="http://www.phila.gov/destinationfellowship/">Destination Fellowship</option>
-                        <option value="http://www.phila.gov/districtattorney/index.html">District Attorney Office</option>
-                        <option value="http://www.phila.gov/dot/">Division of Technology (DOT)</option>
-                        <option value="http://www.phila.gov/ready/">Emergency Management</option>
-                        <option value="http://www.phila.gov/ethicsboard/">Ethics Board</option>
-                        <option value="http://www.phila.gov/fairhousing/">Fair Housing </option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.fairmountpark.org/">Fairmount Park</option>
-                        <option value="http://www.phila.gov/finance/">Finance</option>
-                        <option value="http://www.phila.gov/fire/about/index_homepage.html">Fire</option>
-                        <option value="http://www.phila.gov/fleet/">Fleet Management</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pgworks.com/">Gas Commission (PGW)</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.govengine.com/">Government Info (State/Fed)</option>
-                        <option value="http://www.phila.gov/health">Health Department</option>
-                        <option value="http://www.phila.gov/historical/">Historical Commission</option>
-                        <option value="http://www.phila.gov/ohcd/">Housing &amp; Comm Dev (OHCD)</option>
-                        <option value="http://www.pha.phila.gov/">Housing Authority</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phdchousing.org/about.htm">Housing Development</option>
-                        <option value="http://www.phila.gov/humanrelations/">Human Relations Commission</option>
-                        <option value="http://dhs.phila.gov/intranet/PGintrahome_pub.nsf">Human Services (DHS)</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pidc-pa.org/">Industrial Development (PIDC)</option>
-                        <option value="http://www.phila.gov/oig/">Inspector General</option>
-                        <option value="http://www.phila.gov/law/index.html">Law Department</option>
-                        <option value="http://www.library.phila.gov/">Library</option>
-                        <option value="http://www.phila.gov/li/index.html">Licenses and Inspections</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philaliteracy.org/">Literacy</option>
-                        <option value="http://www.phila.gov/mdo/">Managing Director</option>
-                        <option value="http://www.phila.gov/action/">Mayor's Action Center</option>
-                        <option value="http://www.phila.gov/immigrant/redirect.asp">Mayor's Commission on African and Caribbean Immigrant Affairs</option>
-                        <option value="http://mcot.phila.gov/">Mayor's Commission on Technology</option>
-                        <option value="http://www.phila.gov/green/">Mayor's Office of Sustainability</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.muralArts.org">Mural Arts</option>
-                        <option value="http://www.phila.gov/nti/">Neighborhood Transformation</option>
-                        <option value="http://mbec.phila.gov/home/">Office of Economic Opportunity</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philapark.org/homeFlash.aspx">Parking Authority</option>
-                        <option value="http://www.phila.gov/pensions/">Pensions</option>
-                        <option value="http://www.phila.gov/mcpd/">People with Disabilities</option>
-                        <option value="http://www.phila.gov/personnel/">Personnel</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.ppdonline.org/">Police</option>
-                        <option value="http://www.phila.gov/pac/">Police Advisory Commission</option>
-                        <option value="http://www.phila.gov/prisons/">Prisons</option>
-                        <option value="http://mbec.phila.gov/procurement/">Procurement</option>
-                        <option value="http://www.phila.gov/publicart/index.html">Public Art in Philadelphia</option>
-                        <option value="http://www.phila.gov/defender/">Public Defender</option>
-                        <option value="http://www.phila.gov/health/index.html">Public Health</option>
-                        <option value="http://www.phila.gov/property/">Public Property</option>
-                        <option value="http://www.phila.gov/quality/">Quality Management (MDO)</option>
-                        <option value="http://www.phila.gov/records/">Records</option>
-                        <option value="http://www.phila.gov/recreation/index.html">Recreation</option>
-                        <option value="http://www.phila.gov/rda/">Redevelopment Authority</option>
-                        <option value="http://www.phila.gov/reentry/">Re-entry for Ex-Offenders</option>
-                        <option value="http://secureprod.phila.gov/wills/">Register of Wills</option>
-                        <option value="http://www.phila.gov/commerce/rep/index.htm">City Representatives</option>
-                        <option value="http://www.phila.gov/revenue/">Revenue</option>
-                        <option value="http://www.phila.gov/risk/">Risk Management</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philasd.org">School District</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phillysheriff.com/">Sheriff</option>
-                        <option value="http://www.phila.gov/sinking/">Sinking Fund</option>
-                        <option value="http://www.phila.gov/osp/">Strategic Planning</option>
-                        <option value="http://www.phila.gov/streets/index.html">Streets</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philadelphiataxreform.org/">Tax Reform Commission</option>
-                        <option value="http://www.phila.gov/trb/">Tax Review Board</option>
-                        <option value="http://mcot.phila.gov/">Technology Commission (MCOT)</option>
-                        <option value="http://www.phila.gov/oess/">Temporary Shelter (OESS)</option>
-                        <option value="http://www.phila.gov/treasurer/">Treasurer's Office</option>
-                        <option value="http://www.phila.gov/veterans">Veterans Advisory Commission</option>
-                        <option value="http://www.phila.gov/virtualch">Virtual City Hall</option>
-                        <option value="http://www.phila.gov/water/index.html">Water</option>
-                        <option value="http://www.phila.gov/revenue/index.shtml">Water Revenue</option>
-                       
-                      </select>
-                </form>
-            </div>
-          <div style="clear: both;">
-            </div>
-        </div>
-        <!-- TOP NAVIGATION - END -->
-        <div class="fullBodyWrapper">
-            <div class="leftNavWrapper" style="text-align:left;">
-                <div class="leftNavMenu2">
-                    <div class="leftNavSubMenu2">
-                        <a class="departtxt" href="http://www.phila.gov/mayor">MAYOR'S OFFICE</a>
-                        <a class="departtxt" href="http://www.phila.gov/citycouncil" target="_blank">CITY COUNCIL</a>
-                        <a class="departtxt" href="http://ework.phila.gov/philagov/news/index.html">NEWS</a>
-                        <a class="departtxt" href="http://www.phila.gov/phone/index.asp">PHONE DIRECTORY</a>
-                    </div>
-                </div>
-                <div class="leftNavMenu">
-                    <div class="helpme">
-                        <a href="../features/index.html">SPECIAL FEATURES</a></div>
-                    <div class="helpme">
-                        <a href="../applications/index.html">ONLINE APPLICATIONS</a></div>
-                    <div class="helpme">
-                        <a href="../reports/index.html">DOWNLOADS</a></div>
-                </div>
-                <div class="leftNavMenu">
-                    <strong class="textRed">Help Me</strong>
-              <div class="leftNavSubMenu">
-                        <p><a href="http://pdreports.phila.gov/arpublic/" title="Lookup Police Accident and Incident Reports">Accident and Incident Reports</a><a href="http://www.phila.gov/aco/" title="Help for People with Disabilities"><strong>Help for People with Disabilities</strong></a><a href="http://potholes.phila.gov/" target="_blank">Report a Pothole</a></p>
-                        <p>
-                            <a href="http://www.phila.gov/oig" target="_blank">Report Fraud, Corruption in City Government</a>
-                            <a href="http://www.ppdonline.org/rpts/" target="_blank">Report Illegal Activity</a>
-                          <a href="https://secure.phila.gov/ivrtoweb/">Vendor Invoice Information</a> </p>
-              </div>
-              </div>
-          <div class="leftNavMenu">
-                    <strong class="textRed">Find...</strong>
-                    <div class="leftNavSubMenu">
-                        <a href="http://www.phillysos.org/" target="_blank" title="Find Child Care, Afterschool Programs and other Community Services">Child Care, After School
-                            Programs &amp; Community Services</a>
-                            
-                        <a href="http://www.phila.gov/aco/" target="_blank">Disability Resources</a>
-                        
-                        <a href="http://www.phila.gov/health/units/ahs/HealthCenter_map1.htm" target="_blank" title="Location a Philadelphia Health Center">Health
-                            Centers</a>
-                            
-                        <a href="http://www.phila.gov/personnel/announce/index.html" target="_blank" title="Job Opportunities and Job Descriptions">Jobs</a>
-
-                        <a href="http://www.phila.gov/cgi-bin/recreation/phillarec/index.cgi" title="Find a nearby Philadelphia Recreation Center">Recreation Centers</a>
-                        
-                        <a href="http://www.phila.gov/skateparks">Skate Parks</a>
-                        <a href="http://www.phillyelection.com">Voter Information</a><br>                        
-                    </div>
-                </div>
-                <div class="leftNavMenu">
-                    <div align="left" class="textRed">
-                        <strong>Licenses, Certificates &amp; Permits</strong></div>
-                        <div class="leftNavSubMenu">
-                            <a href="http://webapps.phila.gov/li/" target="_blank" title="Building (including Fast Form Permits) and Contruction Permits">Building and Construction Permits</a>
-                           
-                            <a href="https://secure.phila.gov/li-rent/" target="_blank">Certification of Rental
-                                Suitability</a>
-                                
-                            <a href="http://ework.phila.gov/psc-onlinev2/" target="_blank">Property Sales Certification</a>
-                            
-                            <!--
-                            <a href="https://mylocalgov.com/CityOfPhiladelphiaPA/OnlinePaymentRouting.asp?countyname2=philadelphia&paymenttype=Housing%20Inspection%20Renewals"
-                                target="_blank">Housing Inspection Renewal</a>
-                            -->
-                                
-                            <a href="http://www.petdata.com/cs/phl/" target="_blank">Animal License</a>
-
-                            <a href="http://www.dsf.health.state.pa.us/health/CWP/view.asp?A=168&amp;QUESTION_ID=202219">
-                                Birth Certificate</a>
-                                
-                            <a href="http://www.dsf.health.state.pa.us/health/cwp/view.asp?a=168&amp;Q=202275">Death
-                                Certificate</a>
-                                
-                            <a href="http://secureprod.phila.gov/wills/marriagelicense.aspx" target="_blank">Marriage
-                                License</a>
-                                
-                            <a href="http://www.phila.gov/streets/blockparty.html" target="_blank">Block Party Permit</a>
-                            
-                            <a href="http://www.phila.gov/mdo/Permits.html">Demonstration and Special Events Permits</a>
-                            
-                            <a href="http://www.phila.gov/streets/SpecialHaulingPermitApplication.pdf" target="_blank">
-                                Special Hauling Permit</a>
-                        </div>
-                </div>
-                <div class="leftNavMenu">
-                    <strong class="textRed">Property Information</strong>
-                    <div class="leftNavSubMenu">
-                        <a href="http://brtweb.phila.gov/" target="_blank">Search Property Assessments</a>
-                        
-                        <a href="http://webapps.phila.gov/li/" target="_blank"></a>
-                        
-                        <a href="http://www.phila.gov/build" target="_blank">BUILD (Comprehensive Property Info)</a>
-
-                        <a href="http://ework.phila.gov/revapp/delinqtax/index.aspx">
-                            Real Estate Tax Balances</a>
-                        
-                        <a href="http://citymaps.phila.gov/citymaps/" target="_blank">City Maps</a>                    </div>
-              </div>
-            </div>
-            <div class="bodyWrapper">
+            <div class="pageWrapper" style="border:none; background:#eeeeee;" align="center">
+            
+              <div style="width:100%; margin:0px; height:100px; text-align:left; background:#ffffff;">
                 
+                <div style="width:auto; float:left;">
+                <img src="http://www.phila.gov/images/cityBranding.jpg" width="295" height="90" align="left" style="margin:5px 0px;">
+                </div>
+                
+                <div class="searchArea">
+                 <form class="search" action="/styles/Master_pages" method="get" name="frmSearch" id="frmSearch" onsubmit="RunSearch(); return false;">
+                        <div class="formWrapper">
+                        <div class="left">
+                        <label for="q">SEARCH</label><input type="text" name="search" id="q">
+                        </div>
+                        <div class="right">
+                        <input type="image" name="searchBTN" id="searchBTN" src="http://www.phila.gov/images/searchSubmit.gif" class="btn" onclick="RunSearch(); return false;">
+                        </div>
+                        </div>
+                      </form>
+                        
+                      </div>
+                <div class="clear"></div>
+                
+                <!-- TOP NAVIGATION - START -->
+                <div class="TopNavWrapper">
+                         <form id="form1" method="post" action="/styles/Master_pages" style="margin:3px 10px; float:right;">
+                    <select name="departments" class="smallText" onchange="MM_jumpMenu('parent',this,0)">
+                                                    <option selected="selected">Select a City Department</option>
+                                                    <option>-----------------------</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phl.org">Airport (Philadelphia Int'l)</option>
+                                                    <option value="http://www.phila.gov/antigraffiti/">Anti-Graffiti Program</option>
+                                                    <option value="http://www.phila.gov/artincityhall/">Art In City Hall</option>
+                                                    <option value="http://www.phila.gov/visitors/arts.html">Arts, Culture and the Creative Economy</option>
+                                                    <option value="http://www.phila.gov/dbhmrs/">Behavioral Health (DBH/MRS)</option>
+                                                    <option value="http://brtweb.phila.gov/">Board of Revision of Taxes</option>
+                                                    <option value="http://www.phila.gov/cpo/">Capital Program Office</option>
+                                                    <option value="http://www.phila.gov/phils/">City Archive (PHILS)</option>
+                                                    <option value="http://www.phila.gov/commissioners.html">City Commissioners</option>
+                                                    <option value="http://www.philadelphiacontroller.org">City Controller</option>
+                                                         <option value="http://citymaps.phila.gov/">City Maps</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philaplanning.org/">
+                                                        City Planning Commission</option>                       
+                                                 
+                                                    <option value="http://www.phila.gov/commerce/rep/">City Representative</option>
+                                                    <option value="http://www.phila.gov/personnel/CivilService.html">Civil Service</option>
+                                                    <option value="http://www.phila.gov/quartersessions/">Clerk Of Quarter Sessions</option>
+                                                    <option value="http://www.phila.gov/mcpd/">Comm on People with Disabilities</option>
+                                                    <option value="http://www.phila.gov/commerce/comm/">Commerce</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philadelphiacommercial.org/">
+                                                        Commercial Development</option>
+                                                    <option value="http://www.phila.gov/aging/">Commission on Aging</option>
+                                                    <option value="http://www.phila.gov/mocs/">Community Services (MOCS)</option>
+                                                    <option value="http://www.courts.phila.gov/">Courts</option>
+                                                    <option value="http://courts.phila.gov/common-pleas/orphans/">Courts - Orphans'</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.superior.court.state.pa.us/">
+                                                        Courts - Superior</option>
+                                                    <option value="http://www.phila.gov/redirect/redirect.asp?url=http://www.courts.state.pa.us/Index/Supreme/indexSupreme.asp">
+                                                        Courts - Supreme</option>
+                                                    <option value="http://www.phila.gov/destinationfellowship/">Destination Fellowship</option>
+                                                    <option value="http://www.phila.gov/districtattorney/index.html">District Attorney Office</option>
+                                                    <option value="http://www.phila.gov/dot/">Division of Technology (DOT)</option>
+                                                    <option value="http://www.phila.gov/ready/">Emergency Management</option>
+                                                    <option value="http://www.phila.gov/ethicsboard/">Ethics Board</option>
+                                                    <option value="http://www.phila.gov/fairhousing/">Fair Housing </option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.fairmountpark.org/">Fairmount Park</option>
+                                                    <option value="http://www.phila.gov/finance/">Finance</option>
+                                                    <option value="http://www.phila.gov/fire/about/index_homepage.html">Fire</option>
+                                                    <option value="http://www.phila.gov/fleet/">Fleet Management</option>
+                                                    <option value="http://www.phlgc.net">Gas Commission </option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.govengine.com/">Government Info (State/Fed)</option>
+                                                    <option value="http://www.phila.gov/health">Health Department</option>
+                                                    <option value="http://www.phila.gov/historical/">Historical Commission</option>
+                                                    <option value="http://www.phila.gov/ohcd/">Housing &amp; Comm Dev (OHCD)</option>
+                                                    <option value="http://www.pha.phila.gov/">Housing Authority</option>
+                                                    <option value="http://www.phdchousing.org/homepage.html">Housing Development</option>
+                                                    <option value="http://www.phila.gov/humanrelations/">Human Relations Commission</option>
+                                                    <option value="http://dhs.phila.gov/intranet/PGintrahome_pub.nsf">Human Services (DHS)</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pidc-pa.org/">Industrial Development (PIDC)</option>
+                                                    <option value="http://www.phila.gov/oig/">Inspector General</option>
+                                                    <option value="http://www.phila.gov/law/index.html">Law Department</option>
+                                                    <option value="http://www.freelibrary.org/">Library</option>
+                                                    <option value="http://www.phila.gov/li">Licenses and Inspections</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philaliteracy.org/">Literacy</option>
+                                                    <option value="http://www.phila.gov/mdo/">Managing Director</option>
+                                                    <!-- <option value="http://www.phila.gov/action/">Mayor's Action Center</option> -->
+                                                    <!-- <option value="http://www.phila.gov/immigrant/redirect.asp">Mayor's Commission on African and Caribbean Immigrant Affairs</option> -->
+                                                    <option value="http://mcot.phila.gov/">Mayor's Commission on Technology</option>
+                                                    <option value="http://www.phila.gov/green/">Mayor's Office of Sustainability</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.muralArts.org">Mural Arts</option>
+                                                    <!-- <option value="http://www.phila.gov/nti/">Neighborhood Transformation</option> -->
+                                                    <option value="http://oeo.phila.gov/">Office of Economic Opportunity</option>
+                                                    <option value="http://www.phila.gov/opa">Office of Property Assessment (OPA)</option>
+                                                    <option value="http://www.phila.gov/osh/">Office of Supportive Housing (OSH)</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philapark.org/homeFlash.aspx">Parking Authority</option>
+                                                    <option value="http://www.phila.gov/pensions/">Pensions</option>
+                                                    <option value="http://www.phila.gov/mcpd/">People with Disabilities</option>
+                                                    <option value="http://www.phila.gov/personnel/">Office of Human Resources (OHR)</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.ppdonline.org/">Police</option>
+                                                    <option value="http://www.phila.gov/pac/">Police Advisory Commission</option>
+                                                    <option value="http://www.phila.gov/prisons/">Prisons</option>
+                                                    <option value="http://mbec.phila.gov/procurement/">Procurement</option>
+                                                    <option value="http://www.phila.gov/publicart/index.html">Public Art in Philadelphia</option>
+                                                    <option value="http://www.phila.gov/defender/">Public Defender</option>
+                                                    <option value="http://www.phila.gov/health/index.html">Public Health</option>
+                                                    <option value="http://www.phila.gov/property/">Public Property</option>
+                                                    <!-- <option value="http://www.phila.gov/quality/">Quality Management (MDO)</option> -->
+                                                    <option value="http://www.phila.gov/records/">Records</option>
+                                                    <option value="http://www.phila.gov/recreation/index.html">Recreation</option>
+                                                    <option value="http://www.phila.gov/rda/">Redevelopment Authority</option>
+                                                    <option value="http://www.phila.gov/reentry/">Re-entry for Ex-Offenders</option>
+                                                    <option value="http://secureprod.phila.gov/wills/">Register of Wills</option>
+                                                    <option value="http://www.phila.gov/commerce/rep/index.htm">City Representatives</option>
+                                                    <option value="http://www.phila.gov/revenue/">Revenue</option>
+                                                    <option value="http://www.phila.gov/risk/">Risk Management</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philasd.org">School District</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phillysheriff.com/">Sheriff</option>
+                                                    <option value="http://www.phila.gov/sinking/">Sinking Fund</option>
+                                                    <option value="http://www.phila.gov/osp/">Strategic Planning</option>
+                                                    <option value="http://www.phila.gov/streets/index.html">Streets</option>
+                                                    <option value="http://www.phila.gov/taxpolicy/">Tax Policy, Mayor's Task Force on</option>
+                                                    <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philadelphiataxreform.org/">Tax Reform Commission</option>
+                                                    <option value="http://www.phila.gov/trb/">Tax Review Board</option>
+                                                    <option value="http://mcot.phila.gov/">Technology Commission (MCOT)</option>
+                                                    <option value="http://www.phila.gov/treasurer/">Treasurer's Office</option>
+                                                    <option value="http://www.phila.gov/veterans">Veterans Advisory Commission</option>
+                                                    <option value="http://www.phila.gov/virtualch">Virtual City Hall</option>
+                                                    <option value="http://www.phila.gov/water/index.html">Water</option>
+                                                    <option value="http://www.phila.gov/revenue/index.shtml">Water Revenue</option>
+                                                    <option value="http://www.phila.gov/youthcommission/">Youth Commission</option>
+                                                   
+   </select>
+                                            <div class="clear"></div>
+                  </form>    
+        
+                     <!--   <div class="TopNavMenu" style="width:955px; margin:0 auto; padding:8px 0px 0px 0px; text-align:center;" align="center">
+                            <a href="http://www.phila.gov">HOME</a> | 
+                            <a href="http://www.phila.gov/business">BUSINESS</a> | 
+                            <a href="http://www.phila.gov/residents">RESIDENTS</a> | 
+                            <a href="http://www.phila.gov/visitors">LEISURE</a> | 
+                            <a href="http://www.phila.gov/311">3-1-1</a>
+                        </div>-->
+                </div>
+                <div class="clear"></div>
+                <!-- TOP NAVIGATION - END -->
+                <div class="fullBodyWrapper">
+                    <div class="leftNavWrapper" style="text-align:left;">
+                        
+                        <ul id="menu" style="margin-top:5px;">
+                <li style="margin:0px;">
+                <a href="#" onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Make A Payment');" class="hasSubMenu">Make a Payment</a>
+            <ul>
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay Water Bill');" href="http://secure.phila.gov/waterbill2/accountlookup.aspx" title="Pay Water Bill">Pay Water Bill</a>
+                </li>
+                
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay &amp; File Taxes');" href="https://ework.phila.gov/revenue/default.asp" title="Pay &amp; File Taxes">Pay &amp; File Taxes</a>
+                </li>
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay Real Estate Taxes');" href="http://www.phila.gov/revenue/RealEstateTax/" title="Pay Real Estate Taxes">Pay Real Estate Taxes</a>
+                </li>
+                
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay Parking Tickets');" href="https://wmq.etimspayments.com/pbw/include/philadelphia_parking/input.jsp" title="Pay Parking Tickets" target="_blank">Pay Parking Tickets</a>
+                </li>
+                
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay Alarm Registration/Fines');" href="https://wmq.etimspayments.com/pbw/include/philadelphia_alarms/input.jsp" title="Pay Parking Tickets" target="_blank">Pay Alarm Registration/Fines</a>
+                </li>
+                
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay Street Closure Permit');" href="https://secure.phila.gov/PaymentCenter/AccountLookup/" title="Pay Streets Closure Permit" target="_blank">Pay Street Closure Permit</a></li>
+                
+                <li style="margin:0px; height:25px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'Pay Code Violation Notices');" href="https://wmq.etimspayments.com/pbw/include/philadelphia_sweep/input.jsp" title="Pay for Philadelphia CVNs (Code Violation Notices)" target="_blank"><strong>P</strong>ay <strong>C</strong>ode <strong>V</strong>iolation <strong>N</strong>otices</a>
+                </li>
+                
+                <li style="margin:0px; height:25px;">
+                  <div align="right">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideMakePayment , 'More Payment Links');" href="http://www.phila.gov/paymentpage/payment.html" title="View Payment History" target="_blank">more  links...</a>
+                  </div>
+                </li>
+                
+                </ul>
+                </li>
+                <li style="margin:0px;">
+                <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideHelpMe , 'Help Me Tab');" href="#" class="hasSubMenu">Help Me</a>
+                    <ul>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideHelpMe , 'Accident Reports');" href="http://pdreports.phila.gov/arpublic/ARPubHome.asp" title="Accident and Incident Reports">Accident Reports</a></li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideHelpMe , 'Report a Pothole');" href="http://potholes.phila.gov/" title="Report a Pothole">Report a Pothole</a></li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideHelpMe , 'Report Fraud / Corruption');" href="http://www.phila.gov/oig/" title="Report Fraud / Corruption">Report Fraud / Corruption</a></li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideHelpMe , 'Vendor Invoice Information');" href="https://secure.phila.gov/ivrtoweb/" title="Vendor Invoice Information">Vendor Invoice Information</a></li>
+                    </ul>
+                </li>
+                <li style="margin:0px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Find Tab');" href="#" class="hasSubMenu">Find...</a>
+                        <ul>
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Child Care Programs');" href="http://www.connect211.org" title="Child Care / After School Programs" target="_blank">Child Care Programs</a>
+                        </li>
+                        
+                      <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Disability Resources');" href="http://www.phila.gov/aco/" title="Disability Resources">Disability Resources</a>
+                      </li>
+                      
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Downloads');" href="../reports/index.html" title="Downloads">Downloads</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Health Centers');" href="http://www.phila.gov/health/Services/Serv_MedicalCare.html" title="Locate a Health Center">Health Centers</a>                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Jobs');" href="http://www.phila.gov/personnel/Jobs.html" title="Jobs">Jobs</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Minority Vendor Directory');" href="http://mbec.phila.gov/home/directory.asp" title="Minority Vendor Directory">Minority Vendor Directory</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Recreation Centers');" href="http://www.phila.gov/findrec/" title="Find a Recreation Center">Recreation Centers</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Skate Parks');" href="http://www.phila.gov/skateparks" title="Find a Skate Park">Skate Parks</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideFind , 'Voter Information');" href="http://phillyelection.com/" title="Voter Information" target="_blank">Voter Information</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideLicenses , 'Licenses Tab');" href="#" class="hasSubMenu">Licenses</a>
+                    <ul>
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideLicenses , 'Animal License');" href="http://www.petdata.com/cs/phl/" title="Animal License" target="_blank">Animal License</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideLicenses , 'Marriage License');" href="http://secureprod.phila.gov/wills/marriagelicense.aspx" title="Marriage License">Marriage License</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideLicenses , 'Street Closure Application');" href="http://www.phila.gov/streets/pdfs/Lane_Closure_EQUIPME.pdf" title="Street Closure Application">Street Closure Application</a>
+                        </li>
+                        
+                    </ul>
+                </li>
+                <li style="margin:0px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Permits &amp; Certif Tab');" href="#" class="hasSubMenu">Permits &amp; Certificates</a>
+                    <ul>
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Block Party Permit');" href="http://www.phila.gov/streets/blockparty.html" title="Block Party Permit">Block Party Permit</a>
+                        </li>
+                         
+                         <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Birth Certificate');" href="http://www.portal.state.pa.us/portal/server.pt/community/birth_certificates/14121" title="Birth Certificate" target="_blank">Birth Certificate</a>
+                         </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Building and Construction');" href="http://business.phila.gov/Pages/Result.aspx?stage=Start&amp;type=All%20Business%20Types&amp;section=Permits%20%26%20Certificates" title="Building and Construction Permits" target="_blank" class="yuimenuitemlabel">Building and Construction</a>
+                        </li>
+                      
+                      <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Death Certificate');" href="http://www.portal.state.pa.us/portal/server.pt/community/department_of_health_home/17457" title="Death Certificate" target="_blank">Death Certificate</a>
+                      </li>
+                         
+                         <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Property Sales Certification');" href="https://secure.phila.gov/PSC-Onlinev2/" title="Property Sales Certification" target="_blank">Property Sales Certification</a>
+                         </li>
+                         
+                      <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Rental Suitability Certification');" href="https://secure.phila.gov/CRS-Onlinev2/" title="Rental Suitability Certification" target="_blank">Rental Suitability Certification</a>
+                      </li>
+                      
+                      <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Special Events Permits');" href="http://www.phila.gov/mdo/Permits.html" title="Demonstration and Special Events Permits">Special Events Permits</a>
+                      </li>
+                      
+                       <li style="margin:0px; height:25px;">
+                        <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePermitsCertif , 'Special Hauling Permit');" href="http://www.phila.gov/streets/pdfs/SpecialHaulingPermit.pdf" title="Special Hauling Permit">Special Hauling Permit</a>
+                       </li>
+                       
+                    </ul>
+                </li>
+                <li style="margin:0px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePropInfo , 'Property Information Tab');" href="#" class="hasSubMenu">Property Information</a>
+                    <ul>
+                        <li style="margin:0px; height:25px;"> 
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePropInfo , 'City Maps');" href="http://citymaps.phila.gov/Map/" title="City Maps">City Maps</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePropInfo , 'Property Assessments');" href="http://opa.phila.gov/" title="Search Property Assessments">Property Assessments</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePropInfo , 'Public Property Listings');" href="http://www.phila.gov/publicproperty/listings/" title="Public Property Listings">Public Property Listings</a>
+                        </li>
+                        
+                        <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSidePropInfo , 'Real Estate Tax Balances');" href="http://www.phila.gov/revenue/RealEstateTax/" title="Real Estate Tax Balances">Real Estate Tax Balances</a>
+                        </li>
+                        
+                    </ul>
+                </li>
+                <li style="margin:0px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Quick Hits Tab');" href="#" class="hasSubMenu">Quick Hits</a>
+                    <ul>
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Contracts Online');" href="http://www.phila.gov/contracts" title="Contracts Online">Contracts Online</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Tier II Reporting');" href="http://philadelphia.idsimaps.com/submit" title="Tier II Reporting" target="_blank">Tier II Reporting</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'City Code and Charter');" href="http://www.amlegal.com/library/pa/philadelphia.shtml" title="City Code and Charter" target="_blank">City Code and Charter</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Civil Docket');" href="http://fjdefile.phila.gov/docket/fjd1/repl1/zk_fjd_public_qry_00.zp_main_idx.html" title="Civil Docket">Civil Docket</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Commonwealth of PA');" href="http://www.state.pa.us/" title="Commonwealth of PA" target="_blank">Commonwealth of PA</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Executive Orders');" href="http://www.phila.gov/executive_orders/index.html" title="Executive Orders">Executive Orders</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Internet Surplus Auction');" href="http://www.govdeals.com/eas/advSearchResults.cfm?sortoption=DA&amp;StartRow=1&amp;inv_nbr=&amp;myselectbox=00&amp;desc=&amp;myseller=1095&amp;mystate=" title="Internet Surplus Auction" target="_blank">Internet Surplus Auction </a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Public Records (Billboards)');" href="http://www.phila.gov/records/PublicRecords/Outdoor_Advertising.html" title="Public Records (Billboards)">Public Records (Billboards)</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Request for Proposals (RFP)');" href="http://www.phila.gov/rfp/index.html" title="Request for Proposals (RFP)">Request for Proposals (RFP)</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Tax Forms');" href="http://www.phila.gov/revenue" title="Tax Forms">Tax Forms</a>
+                            </li>
+                            
+                            <li style="margin:0px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Right to Know Policy');" href="http://www.phila.gov/privacy/pdfs/FinalCityOpenRecords.pdf" title="Right to Know Policy" target="new">Right to Know Policy </a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'U.S. Government');" href="http://www.firstgov.gov/" title="U.S. Government" target="_blank">U.S. Government </a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Recycling');" href="http://phillyrecyclingpays.com/" title="Recycling" target="_blank">Recycling</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'Philly Neighborhoods');" href="http://www.phila.gov/redirect/redirect.asp?url=http://www.phillyneighborhoods.org/" title="Philly Neighborhoods" target="_blank">Philly Neighborhoods</a>
+                            </li>
+                            
+                            <li style="margin:0px; height:25px;">
+                    <a onclick="trackGoogleEvent(grpHomeSiteNav , actSideQuickHits , 'more Quick Hits');" href="http://www.phila.gov/applications/index.html" title="more online applications...">more online applications...</a>
+                            </li>
+                            
+                    </ul>
+                </li>
+            </ul> 
+            
+            <p style="margin:8px;">
+            
+              <a href="http://www.facebook.com/pages/Philadelphia-PA/City-of-Philadelphia/23587514958" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Facebook','','http://www.phila.gov/images/icon_Facebook02.gif',1)"><img name="Facebook" src="http://www.phila.gov/images/icon_Facebook01.gif" alt="Find us on Facebook" width="36" height="36" border="0" style="margin:0px 10px 0px 0px;" align="left"></a>
+              
+              <a href="http://twitter.com/PhiladelphiaGov" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Twitter','','http://www.phila.gov/images/icon_Twitter02.gif',1)"><img name="Twitter" src="http://www.phila.gov/images/icon_Twitter01.gif" alt="Follow us on Twitter" width="36" height="36" border="0" style="margin:0px 10px 0px 0px;" align="left"></a>
+              
+              <a href="http://www.flickr.com/photos/phillycityrep" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Flickr','','http://www.phila.gov/images/icon_Flickr02.gif',1)"><img name="Flickr" src="http://www.phila.gov/images/icon_Flickr.gif" alt="View the City of Philadelphia Flickr Photos" width="36" height="36" border="0" style="margin:0px 10px 0px 0px;" align="left"></a>
+              
+              </p>
+        
+                  </div>
+      <div class="bodyWrapper">
+                        
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr> 
 
@@ -491,37 +729,57 @@ body {
   </tr>
 </tbody></table>
 
+                    </div>
+                    <div class="clear"></div>
+                </div>
             </div>
-            <div style="clear: both;">
-        </div>
-        <div class="translationWrapper">
-            <div align="center" style="border-top: 1px solid #233e66; padding-top: 8px;">
-                <span class="mayor"><a href="http://www.phila.gov/phils" target="_blank">City Archive -
-                    PHILS</a> <span>| </span>Technical problems: <a href="mailto:webissues@phila.gov">webissues@phila.gov</a>
-                    <span>| <a href="index.html">HIPAA </a></span><a href="index.html">privacy policy</a> <span>| <a href="http://www.phila.gov/privacy/pdfs/FinalCityOpenRecords.pdf" target="_blank">Right To Know Policy</a> | </span>
-                    <a href="../tos/index.html">Terms of Use</a> </span>
-                <!--
--->
             </div>
-          <div align="center" class="mayor" style="padding-top: 8px; margin: 0 auto;"></div>
-          <div>
+            <div class="clear"></div>
             </div>
-        </div>
-    </div>
-    </div>
-    </div>
+                <div class="footer">
+                <div class="footerContent">
+                    <a href="http://www.phila.gov/phils" target="_blank">City Archive - PHILS</a> | 
+                    Technical problems: <a href="mailto:webissues@phila.gov">webissues@phila.gov</a> | 
+                    <a href="index.html">HIPAA </a> | <a href="index.html">privacy policy</a> | 
+                    <a href="http://www.phila.gov/privacy/pdfs/FinalCityOpenRecords.pdf" target="_blank">Right To Know Policy</a> | 
+                    <a href="../tos/index.html">Terms of Use</a>
+                </div>
+                </div>
+</div>
 
+<script type="text/javascript" language="javascript" src="http://www.phila.gov/Scripts/GoogleTracking.js"></script>
+
+<!-- NEW TRACKER -->
     <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+// ----------------------------------------- //
+// GOOGLE EVEN TRACKING - HELPER VARS
+// ----------------------------------------- //
+// METHOD: trackGoogleEvent(category, action, label, opt_IntegerValue);
+// PARAMETERS: 
+// 		category			-	Category of Actions/Events
+// 		action 				-	Specific Action Taken
+// 		label				-	Label of value measured in Google Analytics
+// 		opt_IntegerValue	-	(OPTIONAL) Integer value used to give a weighted value to a specific action label
+// ----------------------------------------- //
+// EXAMPLE: trackGoogleEvent(grpHomeSiteNav, actGlobalNav, "Mayors Office");
+// ----------------------------------------- //
+// CATEGORIES
+// ----------------------------------------- //
+var grpHomeSiteNav = 'Home Site Navigation';
+// ----------------------------------------- //
+// ACTIONS
+// ----------------------------------------- //
+var actGlobalNav = "Global Navigation";
+var actDeptDropdown = "Department/Agency Dropdown";
+var actSideMakePayment = "SideNav - Make A Payment";
+var actSideHelpMe = "SideNav - Help Me";
+var actSideFind = "SideNav - Find";
+var actSideLicenses = "SideNav - Licenses";
+var actSidePermitsCertif = "SideNav - Permits & Certificates";
+var actSidePropInfo = "SideNav - Property Information";
+var actSideQuickHits = "SideNav - Quick Hits";
+</script>
 
-    <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3290126-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-    </script>
 
 
-
-</div></body></html>
+</body></html>
