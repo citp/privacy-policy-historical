@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cutoutandkeep.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613183900id_/http%3A//www.cutoutandkeep.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutoutandkeep.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223175513id_/http%3A//www.cutoutandkeep.net/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | About
+# Privacy Policy | About | Cut Out + Keep
 
 **Cut Out + Keep respects your privacy:**
 
