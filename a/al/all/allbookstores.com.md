@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514200009id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223173047id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
 
-# Compare prices on new and used books and textbooks
+# AllBookstores.com Privacy Policy
+
+Privacy Statement 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. 
 
@@ -8,6 +10,12 @@ We collect the domain name of visitors to our Web page, the e-mail addresses of 
 
 The information we collect is used for internal review, and used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual consumer and **not shared** with other organizations for commercial purposes.
 
-**We NEVER make our customers e-mail or address list available to any other organizations**.
+**We NEVER make our customers e-mail or address list available to any other organizations**. 
 
-|    | 
+Ads served by Google:
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
