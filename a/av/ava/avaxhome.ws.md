@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avaxhome.ws privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629012841id_/http%3A//avaxhome.ws/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaxhome.ws privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223191318id_/http%3A//avaxhome.ws/policy.html) for the most accurate reproduction.*
 
-# AvaxHome
+# Privacy Policy
 
 **
 
