@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011850id_/http%3A//insight.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223104255id_/http%3A//insight.ly/privacy) for the most accurate reproduction.*
 
-# Insightly - Privacy Policy
+# Insightly: Privacy Policy
 
 When You register for Insightly You can be certain that we have implemented comprehensive security practices to ensure that only You and those people You provide authorized access to can see your Insightly site. We respect your right to privacy and feel it is important for You to know how we handle the information we receive from You via our website at www.insight.ly (the “Site”) and through our on-demand business productivity software, our support platform, and tools and services offered on the Site (the “Service”).
 
 ## Information You Provide
 
-When You register for the Service with Google, we receive information such as your name, e-mail address and Google Apps domain information. 
+When You register for the Service with Google, we receive information such as your name, e-mail address and Google Apps domain information. If You sign up for a paid plan, Insightly will use a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on Insighly’s behalf.
 
 You can modify your account information at anytime by clicking on the Settings icon in the global navigation bar at the top right of the screen. Insightly’s practice is not to use such personal information for marketing purposes unless explicitly authorised. Insightly may use the collected personal information and other information Insightly collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact You about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site.
 
-Insightly may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your personal information be transferred from Your current location to the offices and servers of Insightly and the authorized third parties referred to here. Although Insightly owns the software, code, databases, all rights to the Insightly application, You retain all rights to your data.
+Insightly may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your personal information be transferred from Your current location to the offices and servers of Insightly and the authorized third parties referred to here. Although Insightly owns the software, code, databases, and all rights to the Insightly application, You retain all rights to your data.
 
 ## Cookies
 
