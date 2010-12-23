@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the clubwpt.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424195700id_/http%3A//www.clubwpt.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubwpt.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223172428id_/http%3A//www.clubwpt.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ClubWPT
 
-This Privacy Policy describes the information we collect from you when you visit our Website (“Website”), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the Website. This Privacy Policy applies only to information you provide to us on-line while visiting or using our Website or using our Materials. It does not apply to information we have obtained or may obtain offline through other traditional means. The Privacy Policy should be read in conjunction with the Terms of Use located on the Website.
+| Effective Date: **August 2010**  
+---|---  
+  
+This Privacy Policy describes the information we collect from you when you visit our Website (“Website”), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the Website. This Privacy Policy applies only to information you provide to us on-line while visiting or using our Website or using our Software. It does not apply to information we have obtained or may obtain offline through other traditional means. The Privacy Policy should be read in conjunction with the Terms of Use located on the Website.
 
   
 When you use our Website, we receive and collect certain information. The information that we receive and collect depends on what you do when you visit our Website.
@@ -17,6 +20,10 @@ We use this information to monitor the usage of our Website, assess its performa
 
 Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent graphical images placed on a website. We use these items on its Website for reasons similar to those described above in the Cookies section.
 
+## Personal Information
+
+We consider information that may be used to identify an individual, including, but not limited to, first and last name, date of birth, home or other physical address, email address, phone number or other contact information to be Personal Information (“Personal Information”). You may be asked to provide Personal Information when you use the Site, register for an account or to use the Software. The Personal Information that we collect may include information such as: contact information (including telephone number), shipping information, transaction history, website usage preferences, and feedback regarding the Software. We do not collect Personal Information about you on the Website or the Software without your knowledge.
+
   
 The Website is targeted entirely for use by adults. We do not market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any personal information from children under the age of 13 years. In the event that we discover that a child under the age of 13 has provided personally identifiable information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at www.ftc.gov/kidzprivacy for more information about this Act), we will delete the child’s personally identifiable information from our files to the extent technologically possible.
 
@@ -26,13 +33,17 @@ When you send an e-mail to us, or provide your e-mail address to us, you are com
 **If you no longer wish to receive marketing e-mail, you may unsubscribe by doing any one of the following:**
 
 **a.** Send an e-mail with your request and current contact information to [privacy@theclubservices.com](mailto:privacy@theclubservices.com);  
-**b.** Send us a fax with your request and current contact information at (702) 920-7652 ; or  
+**b.** Send us a fax with your request and current contact information at (323) 330-9902 ; or  
 **c.** Send a request in writing with your current contact information to:
 
-**Club WPT, LLC**  
+**Club Services, Inc.**  
 Attn: General Counsel  
-PO Box 30488  
-Las Vegas Nevada 89173
+5657 Wilshire Blvd.  
+PMB 130-2  
+Los Angeles, California 90036
+
+  
+Personal Information collected on the Website may be stored and processed in any country in which we or our affiliates, suppliers, or agents maintain facilities. By using the Website and/or the Software, you expressly consent to any transfer of information outside of your country.
 
   
 You have several options when deciding how you can best protect your User Information. One option is simply not to volunteer it. As stated above, this approach would allow you to still visit our website – although it will prevent you, for example, from ordering merchandise on-line or providing us with your comments or questions. The Federal Trade Commission’s website, www.ftc.gov, also offers useful information about how to protect personally identifiable information provided to a website.
@@ -45,10 +56,11 @@ If we change our Privacy Policy, we will post those changes on our website so yo
 
 **  
 a.** Send an e-mail with your request and current contact information to [privacy@theclubservices.com](mailto:privacy@theclubservices.com);  
-**b.** Send us a fax with your request and current contact information at (702) 920-7652 ; or  
+**b.** Send us a fax with your request and current contact information at (323) 330-9902 ; or  
 **c.** Send a request in writing with your current contact information to:
 
-**Club WPT, LLC**  
+**Club Services, Inc.**  
 Attn: General Counsel  
-PO Box 30488  
-Las Vegas Nevada 89173
+5657 Wilshire Blvd.  
+PMB 130-2  
+Los Angeles, California 90036
