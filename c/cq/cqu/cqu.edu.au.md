@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021420id_/http%3A//content.cqu.edu.au/FCWViewer/view.do%3Fpage%3D3921) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223101931id_/http%3A//content.cqu.edu.au/FCWViewer/view.do%3Fpage%3D3921) for the most accurate reproduction.*
 
 # CQUniversity Privacy Policy - CQUniversity Web Standards
 
@@ -60,4 +60,5 @@ When you pay an account or purchase something through our website, your personal
 
   **Contact Person - Privacy and Security**
 
-If you have queries about our privacy and security practices, please contact the Office of the Executive Director (Corporate Services) on 07 4930 9575 or by email to [k.window@cqu.edu.au](mailto:k.window@cqu.edu.au) in the first instance.
+If you have queries about our privacy and security practices, please contact the Governance Directorate on 07 4923 2551 or by email to [k.white@cqu.edu.au](mailto:k.white@cqu.edu.au) in the first instance.  
+
