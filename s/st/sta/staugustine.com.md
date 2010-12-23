@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307154231id_/http%3A//staugustine.com/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223182918id_/http%3A//staugustine.com/resources/privacy) for the most accurate reproduction.*
 
 # StAugustine.com Privacy Policy and Terms of Use | StAugustine.com
 
