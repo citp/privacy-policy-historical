@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chachingonashoestring.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518044558id_/http%3A//www.chachingonashoestring.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chachingonashoestring.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223185915id_/http%3A//www.chachingonashoestring.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -72,3 +72,5 @@ If you have any questions about this privacy policy or ChaChingonaShoestring.com
 ### This Privacy Statement
 
 This privacy statement is based on a precedent created by [Employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/ "Employmentlawcontracts.co.uk") and [Automattic Inc.](http://automattic.com/privacy/ "Automattic Inc."), and is available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike") license.
+
+[](http://www.printfriendly.com/ "Print an optimized version of this web page")
