@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528043104id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223211725id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
 
   * [Print](https://web.archive.org/privacy/index.cfm?print=go)
   * [Email](https://web.archive.org/email_page/?title=FAA%20Privacy%20and%20Website%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)
-  * |  Updated: 3:41 pm ET August 10, 2009
+  * |  Updated: 9:58 am ET September 22, 2010
 
 
 
@@ -109,10 +109,10 @@ When FAA collects information from you online that is subject to the Privacy Act
 
 
 
-View our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html).
+View our [Privacy Act Notices](http://www.dot.gov/privacy/privacyactnotices/).
 
 ## Our Privacy Practices
 
-For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Carla Mauney, by [email](https://web.archive.org/contact_faa/?returnPage=2%2FV%5D%2FNKB8789CIXL%2AE%5B%24RA9B%3F%0A&mailto=44WY%2FOZ%5F7%3CYXYH%28%207LJ%5D%5DA%5D%225B8L%20%0A&subject=00%26U4I%3A%5E%3A1%5D%5C%2FH8L%2DE%5BMRE0%20%20%0A). Also, DOT has conducted a Privacy Impact Assessment on some systems.
+For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Carla Scott, by [email](https://web.archive.org/contact_faa/?returnPage=2%2FV%5D%2FNKB8789CIXL%2AE%5B%24RA9B%3F%0A&mailto=3%3CWY%2FOZ%5F739PCNI%24NE%2AA%5DR%29F%3DD%20%20%20%0A&subject=00%26U4I%3A%5E%3A1%5D%5C%2FH8L%2DE%5BMRE0%20%20%0A). Also, DOT has conducted a Privacy Impact Assessment on some systems.
 
 View our [Privacy Impact Assessments](http://www.dot.gov/pia.html).
