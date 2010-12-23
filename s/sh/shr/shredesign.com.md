@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504051140id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223030128id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photoshop Tutorials - Design and Photo Effects
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. shredesign.com is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.shredesign.com/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.shredesign.com/contact-us "contact us").
