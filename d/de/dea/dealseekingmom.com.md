@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealseekingmom.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604003923id_/http%3A//dealseekingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealseekingmom.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223224206id_/http%3A//dealseekingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Would you like to have these great bargains delivered right to your inbox? Join over 50,000 fellow deal seekers and subscribe to my[daily email digest](http://www.dealseekingmom.com/subscribe-by-email/). Or you can also subscribe to my [RSS feed](http://www.dealseekingmom.com/subscribe-to-deal-seeking-mom-in-a-feed-reader/). Thanks for visiting!_
+Would you like to have these great bargains delivered right to your inbox? Join over 65,000 fellow deal seekers and [subscribe to Deal Seeking Mom](http://dealseekingmom.com/subscribe-to-the-blog/). Also become a [fan of Deal Seeking Mom](http://facebook.com/dealseekingmom) on Facebook for more conversation, additional deals and a peek at the freebies I receive in the mail. Thanks for visiting!
 
 ### **:: Our Commitment to Privacy**
 
@@ -41,4 +41,4 @@ Before I collect any personally identifiable information, I will provide an expl
 
 While Deal Seeking Mom is highly selective about which sites we provide links to, I do not control these web sites, nor do I endorse or otherwise accept responsibility for the content or privacy policies of those sites. I encourage you to review the privacy policies posted on third party sites.
 
-[Disclaimer](http://www.dealseekingmom.com/disclaimer/) | [Disclosure Policy](http://www.dealseekingmom.com/disclosure-policy/) | Privacy Policy | [User Agreement](http://www.dealseekingmom.com/user-agreement/)
+[Disclaimer](http://dealseekingmom.com/disclaimer/) | [Disclosure Policy](http://dealseekingmom.com/disclosure-policy/) | Privacy Policy | [User Agreement](http://dealseekingmom.com/user-agreement/)
