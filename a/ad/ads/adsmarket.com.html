@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adsmarket.com privacy policy that was archived on 2010-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100221214839id_/http%3A//www.adsmarket.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adsmarket.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223083512id_/http%3A//www.adsmarket.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
@@ -10,7 +10,9 @@
 <link href="css/ltr.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="js/jquery-1.2.6.js"></script>
 <script type="text/javascript" src="js/jquery.flash.js"></script>
-<script type="text/javascript" src="js/script.js"></script>    
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/adam_slider.js"></script>
+<link href="css/adam_slider.css" rel="stylesheet" type="text/css">    
     <script type="text/javascript" language="javascript">
     /* <![CDATA[ */    
     	var o_wn = window;
@@ -43,11 +45,11 @@
     <div class="headerInner">
     <div class="container">
         <!--LOGO-->
-        <a href="index.php" class="logo" style="padding-left:42px;">
-        	            <img alt="AdsMarket" src="images/adsmarket_logo.jpg">
-         	        </a>
+		<a href="index.php" class="logo" style="padding: 13px 0 0 40px;">
+        	<img alt="AdsMarket" src="images/AMlogo.png">
+        </a>
         <div id="peel" style="position:absolute; top:0px; left:315px"></div>
-        <div class="headerMenu container" style="position:absolute; top:80px; left:100; width:550px; padding-left:9px;">
+        <div class="headerMenu container" style="position:absolute; top:80px; left:100; width:550px; padding-left:4px;">
 			    <ul>
 			        <li><a href="index.php" title="Home">Home</a></li>
 			        <li><a href="about.php" title="About Us">About Us</a></li>
@@ -55,49 +57,23 @@
 			        <li><a href="advertisers.php" title="Advertisers">Advertisers</a></li>
 			        <li><a href="news.php" title="News&nbsp;&amp;&nbsp;Events">News&nbsp;&amp;&nbsp;Events</a></li>
 			        <li><a href="contact.php" title="Contact Us">Contact Us</a></li>
-			        							<li><a href="http://blog.adsmarket.com" title="Contact Us">Blog</a></li>
-										    </ul>
+			        <li><a href="/searchIndex.php" title="Search Offers">Search Offers</a></li>
+			    </ul>
 				</div>
         <!--LOGIN-->
                 <form id="login" name="login" action="https://network.adsmarket.com/site/LoginAttempt" method="post">
-        <div class="loginBox" style="top:19px; left:565px">
-            <div class="floatDir" style="border:0px solid white">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td>
-                            <img src="images/titles/logIn.gif" alt="">
-                        </td>
-                        <td style="width:5px;"></td>                        
-                        <td>
-                            <input onkeypress="if (window.event &amp;&amp; window.event.keyCode == 13){ document.forms[0].submit();}" id="usr_Email" name="usr_Email" class="inputbox" style="width:108px" value="Username" type="text" onfocus="if(this.value == 'Username') {this.value = ''}; this.select();">
-                        </td>
-                        <td style="width:5px;"></td>
-                        <td>
-                            <input onkeypress="if (window.event &amp;&amp; window.event.keyCode == 13){ document.forms[0].submit();}" id="usr_Pwd" name="usr_Pwd" class="inputbox" style="width:108px" value="Password" type="password" onfocus="if(this.value == 'Password') {this.value = ''}; this.select();">
-                        </td>
-                        <td style="width:4px;">
-                        </td>
-                        <td>
-                            <input style="#margin-top:4px;" id="btnSubmit" title="Go!" onclick="document.forms[0].submit(); return false;//OpenDialog();" type="image" src="images/btnGo.gif" value="submit">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="4">
-                        	&nbsp;
-                        </td>
-                        <td colspan="3">
-                            <a class="white xxSmall" href="https://network.adsmarket.com/site/ForgotPassword" title="Forgot Password?">Forgot Password?</a> 
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-            <!--
-            <div class="floatDir langSelector" style="margin-top:-3px;">
-                <a href="#" id="langSelector" title="Change Language">Eng</a>
-            </div>
-            //-->
-        </div>
-      	</form>
+			<div class="loginBox" style="top:13px;">
+				<div class="floatDir">
+					<div>
+						<div class="loginBtn" onclick="document.forms[0].submit(); return false;//OpenDialog();">LOG IN</div>
+						<input onkeypress="if (window.event &amp;&amp; window.event.keyCode == 13){ document.forms[0].submit();}" id="usr_Email" name="usr_Email" class="inputbox" style="width:108px" value="Username" type="text" onfocus="if(this.value == 'Username') {this.value = ''}; this.select();">
+						<input onkeypress="if (window.event &amp;&amp; window.event.keyCode == 13){ document.forms[0].submit();}" id="usr_Pwd" name="usr_Pwd" class="inputbox" style="width:108px" value="Password" type="password" onfocus="if(this.value == 'Password') {this.value = ''}; this.select();">
+						<input id="btnSubmit" type="hidden" value="submit">
+					</div>
+					<div><a class="white xxSmall" href="https://network.adsmarket.com/site/ForgotPassword" title="Forgot Password?">Forgot Password?</a> </div>
+				</div>
+			</div>
+		</form>
       	    </div>
 </div>    <div class="contentWrapper">
         <div class="container" style="padding-top:27px">
@@ -240,27 +216,16 @@
         <li><a class="red xSmall" href="#" title="Russian">RU</a></li>
         <li class="lastItem"><a class="red xSmall" href="#" title="English">EN</a></li>
     </ul>
-</div> <div class="boxSize2">
-    <div onclick="window.location='publishers.php'" id="box3" class="flashTitle1"><a href="publishers.php"><img border="0" width="256" height="100" src="images/publishers.jpg"></a></div>
-    <div class="orangeButton orangeButtonSmaller center">
-        <a href="registerPub2.php" title="Open an Account">
-            <img src="images/trans.gif" alt="Open an Account">
-        </a>
-    </div>
-</div><div class="boxSize2">
-    <div id="box4" class="flashTitle1"><a href="advertisers.php"><img border="0" width="256" height="100" src="images/advertisers.jpg"></a></div>
-    <div class="orangeButton orangeButtonSmaller center">
-        <a href="register1.php" title="Open an Account">
-            <img src="images/trans.gif" alt="Open an Account">
-        </a>
-    </div>
+</div> <div class="homeBox homeBoxPub">
+	<div class="hoverBtn regBtn" onclick="window.location='registerPub2.php'"></div>
+</div><div class="homeBox homeBoxAdv">
+	<div class="hoverBtn regBtn" onclick="window.location='register1.php'"></div>
 </div>                                 
             </div>    
         </div>    
     </div>
     <!--FOOTER-->
-    
-<div class="footerMenu container">
+    <div class="footerMenu container">
     <ul>
         <li><a href="index.php" title="Home">Home</a></li>
         <li class="sep">|</li>
@@ -297,44 +262,9 @@
 <div class="footerWrapper" align="center">
     <div class="footerCredits container" align="center">
         <ul align="center">
-            <!--
-            <li><a href="#" title="PYCCKNN">PYCCKNN</a></li>
-            <li class="sep">|</li>
-            
-            <li><a href="#" title="FRANCAIS">FRANCAIS</a></li>
-            <li class="sep">|</li>        
-            
-            <li><a href="#" title="ESPANOL">ESPANOL</a></li>
-            <li class="sep">|</li>
-           
-            <li><a href="#" title="ENGLISH">ENGLISH</a></li>
-            <li class="sep">|</li>
-            
-            <li><a href="#" title="�����">�����</a></li>
-            <li class="sep">|</li>        
-            <li style="padding:0 4px"></li>
-            //-->
             <li>
-                <span>© 2008 Adsmarket, Ltd. All Rights Reserved</span>
+                <span>© 2010 Adsmarket, Ltd. All Rights Reserved</span>
             </li>
-            <li class="sep">|</li>
-            <li>
-                <span>Design by</span>
-            </li> 
-            <li><a class="inkodLogo" href="http://inkod-hypera.com" target="_blank" title="INKOD-HYPERA">INKOD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HYPERA</a></li>
-            <!--<li class="sep">|</li>
-            <li><a target="_blank" href="http://www.facebook.com/pages/Adsmarketcom-The-Science-of-Performance/52855998396?ref=ts"><img src="images/facebook_ico.gif"</a></li>
-            <li><a target="_blank" href="http://www.twitter.com/adsmarket"><img src="images/twitter2.gif"</a></li>
-            <li><a target="_blank" href="http://www.linkedin.com/companies/adsmarket"><img src="images/in_ico.gif"</a></li>
-            <li><a target="_blank" href="http://blog.adsmarket.com" title="Adsmarket Blog"><img src="images/adsmarketBlog.gif"</a></li>-->
-            
-            <!--
-            <li style="position:relative;">
-                <a style="position:absolute; top:-25px; #top:-10px" class="inkodLogo" href="http://www.verisign.com/" target="_blank" title="VeriSign Security">
-                    <img src="images/verisign_logo.gif" alt="VeriSign Security" />
-                </a>
-            </li>
-            //-->
        </ul>
     </div>
 </div>
