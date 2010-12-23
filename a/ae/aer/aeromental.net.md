@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeromental.net privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608150203id_/http%3A//www.aeromental.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeromental.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223174734id_/http%3A//www.aeromental.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
