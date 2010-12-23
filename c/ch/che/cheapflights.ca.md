@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528194406id_/http%3A//www.cheapflights.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223194428id_/http%3A//www.cheapflights.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Cheapflights.ca, which is operated by Cheapflights (USA) Inc has created this privacy statement in order to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for Cheapflights.ca as well as email newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
+Cheapflights.ca, which is operated by Cheapflights Media (USA) Inc. has created this privacy statement in order to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for Cheapflights.ca as well as email newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
 
 This Privacy Policy only applies to information collected on Cheapflights.ca and not to information that is collected by Cheapflights through any other means. Your visit to Cheapflights.ca is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-and-conditions/).
 
@@ -28,7 +28,7 @@ Cheapflights uses email addresses to send its newsletters and occasional mailing
 
 We sometimes run sweepstakes with our partners and sweepstakes entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. We try to make it very clear when this is the case and we have no responsibility for subsequent use or distribution of email addresses by our partners.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at cheapflights@list.cheapflights.ca. Alternatively, please visit <http://www.cheapflights.ca/email-newsletter/> to be removed from future communications.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [cheapflights@list.cheapflights.ca](mailto:cheapflights@list.cheapflights.ca). Alternatively, please visit [Email Newsletter](https://web.archive.org/email-newsletter/) to be removed from future communications.
 
 The security of your personal information, including your email address and zip code, is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during registration and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100 per cent secure, however. Therefore, though we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -40,7 +40,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
  **3\. Access to Personally Identifiable Information**
 
-If your email address changes, or if you no longer desire our service, you may correct, update, delete or deactivate your details by visiting the Contact Us page at <http://www.cheapflights.ca/contact/>.
+If your email address changes, or if you no longer desire our service, you may correct, update, delete or deactivate your details by visiting the [Contact Us](https://web.archive.org/contact/) page.
 
  **4\. Tracking Technologies**
 
@@ -48,11 +48,11 @@ Tracking technologies are set up via the Cheapflights newsletter to monitor open
 
  **5\. Cookies**
 
-Cheapflights USA (Inc) uses cookies to improve user experience such as improving navigation and relevancy of product and information on the site. Your web browser should allow you to choose whether or not to allow cookies - you can still use our site if you have them disabled. For more information on cookies, you can visit [www.cookiecentral.com](http://www.cookiecentral.com/).
+Cheapflights Media (USA) Inc. uses cookies to improve user experience such as improving navigation and relevancy of product and information on the site. Your web browser should allow you to choose whether or not to allow cookies - you can still use our site if you have them disabled. For more information on cookies, visit [www.cookiecentral.com](http://www.cookiecentral.com/).
 
  **6\. Third Party Sites and Booking Tools**
 
-Cheapflights USA (Inc) does not sell you travel products or services, but directs you to third party Web sites that do. These sites may collect personally identifiable information from you, such as your name, address, credit card details or details pertaining to other methods of payment. These sites may have their own privacy policies which will govern how such sites use and share your personally identifiable information. In addition, Cheapflights.ca displays third party booking tools. When you utilize these third party booking tools, you are subject to the terms, conditions and privacy policies of those third parties.
+Cheapflights Media (USA) Inc. does not sell you travel products or services, but directs you to third party Web sites that do. These sites may collect personally identifiable information from you, such as your name, address, credit card details or details pertaining to other methods of payment. These sites may have their own privacy policies which will govern how such sites use and share your personally identifiable information. In addition, Cheapflights.ca displays third party booking tools. When you utilize these third party booking tools, you are subject to the terms, conditions and privacy policies of those third parties.
 
 This Privacy Policy applies only to the information we collect on Cheapflights.ca. Please note that Cheapflights has no input into, and is not responsible for, the privacy practices of other Web sites. We encourage you to read the privacy policies of other web sites you link to from Cheapflights.ca.
 
@@ -70,17 +70,17 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 
  **10\. Electronic Privacy Policy (P3P)**
 
-In addition to this standard Privacy Policy, Cheapflights USA (Inc) uses an electronic privacy policy (P3P) that can be automatically retrieved and interpreted by certain Web browsers. Our P3P policy states that it is valid for 52 weeks from the time it is loaded by a user.
+In addition to this standard Privacy Policy, Cheapflights Media (USA) Inc. uses an electronic privacy policy (P3P) that can be automatically retrieved and interpreted by certain Web browsers. Our P3P policy states that it is valid for 52 weeks from the time it is loaded by a user.
 
  **11\. Comments**
 
 We have taken great measures to ensure that your visit to Cheapflights.ca is an excellent one and that your privacy is respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email via our [Feedback](https://web.archive.org/help/contact-us/) link or by writing to the following address:
 
 Content Editor  
-Cheapflights (USA) Inc.  
+Cheapflights Media (USA) Inc.  
 10 Post Office Square  
 Boston  
 MA 02109  
 USA
 
-March 2010
+September 2010
