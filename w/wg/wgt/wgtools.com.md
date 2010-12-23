@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wgtools.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526161659id_/http%3A//wgtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgtools.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223225940id_/http%3A//wgtools.com/privacy-policy) for the most accurate reproduction.*
 
 # WGTools.com • Privacy Policy
-
-Privacy Policy For WGTools.com
 
 At wgtools.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by wgtools.com and how it is used. We also will **_never_** sell your personal information to third parties.
 
@@ -16,9 +14,7 @@ Like many other Web sites, wgtools.com makes use of log files. The information i
 **Cookies and Web Beacons**  
 WGTools.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners may use cookies and web beacons on our site. One of our advertising partners is BurstMedia
-
-.
+Some of our advertising partners may use cookies and web beacons on our site. Examples of our advertising partners are BurstMedia, Google Adsense and CPX Interactive.
 
 These third-party ad servers or ad networks use technology to the advertisements that appear on wgtools.com sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
