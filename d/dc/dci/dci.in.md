@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dci.in privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516142934id_/http%3A//www.dotcominfoway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dci.in privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223200903id_/http%3A//www.dotcominfoway.com/privacy-policy) for the most accurate reproduction.*
 
 # Dot Com Infoway - Privacy Policy
 
@@ -15,7 +15,7 @@ We collect the following information from you:
 Usage of Information
 
   * We keep all the business conversations, mail correspondences and documents confidential.
-  * We use the information you provide, such as e-mail ID and IM Chat address only to respond to your requests.
+  * We use the information you provide, such as e-mail ID and IM Chat address only to respond to your requests and email you updated on our latest service offerings.
   * When you are logged on to Live Chat assistance, we use the information provided by you to direct you to particular web pages in order to increase the relevance of the information you access through our website.
   * We get the details of the web pages visited by you and the number of page hits per week in order to customize our pages or services and thereby enhance our site’s usability.
   * Third party service providers used by Dot Com Infoway perform certain functions which may include data processing. Such companies are under a duty of confidentiality of Dot Com Infoway.
