@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522222850id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223082335id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
 
 # NASDAQ OMX Privacy Statement
 
@@ -15,7 +15,7 @@ If you purchase a product or service from us, we request certain personally iden
 We only use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
 **Uses of Information**  
-NASDAQ OMX uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQ OMX will be used for internal these purposes only. We will not disclose or divulge such data outside of NASDAQ OMX, other than to third party providers (such as Tickerhound.com) that assist us in providing the services. NASDAQ OMX does not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes. 
+NASDAQ OMX uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQ OMX will be used for internal these purposes only. We will not disclose or divulge such data outside of NASDAQ OMX, other than to third party providers that assist us in providing the services. NASDAQ OMX does not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes. 
 
 _**Communications from the Site**_
 
@@ -76,6 +76,11 @@ Some cookies contain the email address, site logon or first name provided by you
 
 This privacy statement covers the use of cookies by all NASDAQ OMX web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising " section.] 
 
+**Flash LSOs** Some third parties use Flash LSOs also known as Flash cookies, on our sites to display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:   
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
 **Clear Gifs (Web Beacons/Web Bugs/ Embedded Pixels)**  
 In an effort to provide users with the most relevant Web site content, we may also use embedded pixel technologies to help track site usage, these technologies are used on selected pages for the purposes of identifying unique user visits as opposed to aggregate hits. The site usage information collected by these technologies is associated with cookies and may provide data about site use by registered users of NASDAQ OMX Web sites. This information is used to evaluate site content, navigability and composition as well as page response rates. Any data linking the information gathered by clear gifs to a user's personally identifiable information is used for internal tracking purposes only. We will not disclose or divulge such data linkages outside of NASDAQ OMX. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. To learn more about our advertising company’s use of clear gifs, please go to <http://www.omniture.com/>
 
@@ -124,7 +129,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20100522222850id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20101223082335id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -140,8 +145,8 @@ Website: <http://www.nasdaqinsurance.com/>
 Website: <http://www.nasdaqtrader.com/>  
 Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20100522222850id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20101223082335id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
-Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
