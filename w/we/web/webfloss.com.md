@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the webfloss.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102013512id_/http%3A//webfloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfloss.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223155528id_/http%3A//webfloss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | High Class Living on a Middle Class Budget
+# Privacy Policy — High Class Living on a Middle Class Budget
 
-Submitted by: SoFlossy on April 20, 2009       Font Size: 
+_Welcome Back! You seem to like it here! Did you know that you can subscribe to the[Daily Deals Digest](http://feedburner.google.com/fb/a/mailverify?uri=HighClassLivingOnAMiddleClassBudget) and have the latest deals sent to your inbox once per day!?_
 
-[](http://webfloss.com/privacy-policy/#comments)
-
+  
 **Privacy Policy**
 
 WebFloss is committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how information is processed and used.
@@ -18,14 +17,11 @@ What Information is WebFloss gathering about its visitors and how is it being us
 
 Every computer connected to the Internet is provided with a domain name (e.g. earthlink.net) and an IP Address (e.g. 192.164.13.145). When a visitor requests a page from within the Web Floss website, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you. In fact, the only information that we automatically gather and log is as follows:
 
-• The IP Address of the Site that may have Referred you.  
-• Your IP Address  
-• The Web Page that you may have linked to us from, if any.  
-• The Product Identifier for Version and Make of Browser (e.g. Firefox 3.0)  
-• Search Words or Terms that are passed from a Search Engine (e.g. Google, Yahoo, or MSN) 
-
-
-
+> • The IP Address of the Site that may have Referred you.  
+>  • Your IP Address  
+>  • The Web Page that you may have linked to us from, if any.  
+>  • The Product Identifier for Version and Make of Browser (e.g. Firefox 3.0)  
+>  • Search Words or Terms that are passed from a Search Engine (e.g. Google, Yahoo, or MSN) 
 
 There is absolutely nothing special about the information just described, and the practice of collecting this data has been generally standardized by virtually every Web Server on the Internet today.
 
@@ -55,6 +51,4 @@ Webfloss.com reserves the right to change the Privacy Policy at any time. Any ch
 
 Added October 2009:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
-
-_\- Updated October 2009_
+_We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp_
