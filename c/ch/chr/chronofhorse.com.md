@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512052345id_/http%3A//www.chronofhorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223215444id_/http%3A//chronofhorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chronicle of the Horse
 
 Thank you for visiting THE CHRONICLE OF THE HORSE. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by us.
 
- **The Information We Collect**  
+**The Information We Collect**  
 Through The Chronicle of the Horse publications, websites, and other media, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
@@ -30,9 +30,8 @@ We may transfer your personally identifiable information to other Chronicle offi
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
 
-**Privacy Options**
-
-If we disclose personally identifiable information to companies not owned by the Chronicle who want to market products or services to you, we will provide you with an opportunity to opt out or block such uses. 
+**Privacy Options  
+** If we disclose personally identifiable information to companies not owned by the Chronicle who want to market products or services to you, we will provide you with an opportunity to opt out or block such uses. 
 
 We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.   
 The Chronicle of the Horse will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
@@ -51,9 +50,8 @@ We use cookies to understand Internet usage and to improve our content, offering
 
 We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
 
-**Our Commitment to Security**
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
+**Our Commitment to Security  
+** We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
 
   
 **Special Note for Parents**  
