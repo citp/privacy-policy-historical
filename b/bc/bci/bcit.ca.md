@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020055id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223152741id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : legal : : your privacy at bcit
 
 **BCIT and protection of personal information  
-** As a public body, BCIT complies with the following privacy provisions of BC's [_Freedom of Information and Protection of Privacy Act_](http://www.oipcbc.org/) (RSBC 1996 ch. 165):
+**As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Information and Protection of Privacy Act_  ](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01)(RSBC 1996 ch. 165):
 
-  * Personal information is collected directly from the individual about whom it relates
-  * Personal information is secured from unauthorized access
-  * Personal information is collected, used, and disclosed for purposes consistent with BCIT's program and service offerings
-  * Individuals have the right of access to and a right to request correction of their own personal information
-  * Personal information is retained for the time period to fulfill the purposes for which it was collected
-  * Individuals will be notified about the purposes for which information is collected, and when information is collected for an optional use individuals will consent to the information collection
+  * Personal information is collected directly from the individual about whom it relates 
+  * Personal information is secured from unauthorized access 
+  * Personal information is collected, used, and disclosed for purposes consistent with BCIT's program and service offerings 
+  * Individuals have the right of access to and a right to request correction of their own personal information 
+  * Personal information is retained for the time period to fulfill the purposes for which it was collected 
+  * Individuals will be notified about the purposes for which information is collected, and when information is collected for an optional use, individuals will consent to the information collection 
 
 
 
@@ -18,7 +18,7 @@ You may refer to BCIT's policy [6700 Freedom of Information and Protection of Pr
 
 For more information about BCIT's privacy procedures, you may contact:
 
-Manager, Records, FOIPOP, and Copyright  
+Associate Director, Privacy and Records Management  
 British Columbia Institute of Technology  
 3700 Willingdon Avenue  
 Burnaby, B.C., Canada V5G 3H2
@@ -26,11 +26,11 @@ Burnaby, B.C., Canada V5G 3H2
 Tel: 604-432-8508
 
 **Notification regarding BCIT's web site and personal information  
-** As a visitor to BCIT's Web site, BCIT's Web servers automatically collect informaton that is essential to operating and maintaining the site's security. The information collected includes:
+**As a visitor to BCIT's Web site, BCIT's Web servers automatically collect informaton that is essential to operating and maintaining the site's security. The information collected includes:
 
-  * Browser type
-  * Internet service provider (ISP) name
-  * IP address
+  * Browser type 
+  * Internet service provider (ISP) name 
+  * IP address 
 
 
 
