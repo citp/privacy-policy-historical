@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604013718id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223104819id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: SailPoint Home
+
+[](http://www.bizjournals.com/austin/stories/2010/05/17/daily68.html)
+
+Customer Successes
 
 Identity Gets Smart
 
 Mark McClain, CEO & Founder opens up to InformationWeek about identity governance. Watch the video »
 
-Identity Governance Buyer's Guide
+Identity Governance Buyer's Guide - 2nd Edition
 
 [](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG)Contains tools to help you identify your priorities, conduct side-by-side product analysis and find a solution that suits your needs. [Download the Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG)
 
