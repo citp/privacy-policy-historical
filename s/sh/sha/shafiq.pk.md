@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617131114id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223044418id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | shafiq.pk - Latest Technology Updates
 
@@ -10,9 +10,9 @@ Details of these collected information is described below in [Privacy Policy](ht
 
 ### Privacy Policy
 
-  * We use different tracking tools to track visitors information. We are using Google Analytics and Ice Rocket Tracker to track visitors information including IP address, Operating System and [Web browser](http://shafiq.pk/category/web-browser/ "Web browser") etc. We guaranteed you that we do not sharing this sensitive information with any third party. We collect this data just to increase our sites performance so that we can serve you in a better way.
+  * We use different tracking tools to track visitors information. We are using Google Analytics and Ice Rocket Tracker to track visitors information including IP address, Operating System and Web browser etc. We guaranteed you that we do not sharing this sensitive information with any third party. We collect this data just to increase our sites performance so that we can serve you in a better way.
   * shafiq.pk is hosted on bluehost.com but we do not share any information with the host.
-  * We are using [Wordpress](http://shafiq.pk/category/wordpress/ "Wordpress") which is an open source software written in php. When visitors comment on our site, it stores small piece of data on users computer just to identify when user comes back again. This information is simply a text file and is not in anyway a malware or virus thing.
+  * We are using WordPress which is an open source software written in php. When visitors comment on our site, it stores small piece of data on users computer just to identify when user comes back again. This information is simply a text file and is not in anyway a malware or virus thing.
   * We use third party advertising companies like Google Adsense and Chitika Inc. to serve the ads. These companies may collect your information (This doesn’t include your name, email, address or phone number) about your website browsing behaviors
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
