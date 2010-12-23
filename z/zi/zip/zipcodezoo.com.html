@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zipcodezoo.com privacy policy that was archived on 2010-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610191832id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipcodezoo.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223192944id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ZipcodeZoo Privacy Highlights</title>
@@ -45,36 +45,39 @@ Nifty("div.blurbbrown","tl br big");
       Font Face: <a id="changeVerdana" title="Verdana" href="javascript:void(0)"> Verdana </a> | <a id="changeGeneva" title="Geneva" href="javascript:void(0)"> Geneva </a> | <a id="changeGeorgia" title="Georgia" href="javascript:void(0)"> Georgia </a> </p>
   </div>
 </div>
-<!-- begin headermenu.inc -->
+<!-- begin /includes/v2/headermenu.inc -->
 <div id="header">
+
 <div id="logo"><img src="/Common/V2/images/zipcodezoo300x110.jpg" width="291" height="105" alt=""></div>
-<!-- begin headsearch.inc --> <div id="headsearch">
-<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+<div id="headsearch">
+<script language="JavaScript" type="text/javascript"> 
+<!--
+
   function doSrch() { 
-    var sf = document.getElementById("srchform");  
-    if (sf.SearchPhrase.value == "search ZipcodeZoo..."  
-     || sf.SearchPhrase.value == '') { 
-      sf.SearchPhrase.value = "";
-      return false
-    }
     document.documentElement.style.cursor="wait";
-    sf.Submit.value="Please Wait...";
-    sf.Submit.disabled="True";
-    return true;
+    srchform.Submit.value="Please Wait...";
+    srchform.Submit.disabled="True";
   }
 
-//--><!]]></script>
+// -->
+</script>
 
-<form name="srchform" id="srchform" method="post" action="/utilities/srch.asp" onsubmit="return doSrch();">
-  <input type="text" name="SearchPhrase" id="SearchPhrase" class="txt" value="search ZipcodeZoo..." onfocus="{srchform.Submit.disabled=false; if(this.value==this.defaultValue) this.value='';} ">
-  <input type="submit" name="Submit" value="Go!" title="Search Zipcode Zoo" class="btn" disabled="disabled">
+<form name="srchform" method="post" action="/utilities/srch.asp" onsubmit="doSrch();">
+  <input type="text" name="SearchPhrase" class="txt" value="search ZipcodeZoo..." onfocus="if(this.value==this.defaultValue) this.value='';">
+  <input type="submit" name="Submit" value="Go!" title="Search Zipcode Zoo" class="btn">
 </form>
-</div> <!-- end headsearch.inc -->
-
 </div>
-<!-- begin topmenu.inc -->
+</div>
+
+
+
+
+
+
 <span class="preload1"></span>
 <span class="preload2"></span>
+
 
 <ul class="zzdropmenu">
 	<li class="first"></li>
@@ -83,7 +86,7 @@ Nifty("div.blurbbrown","tl br big");
 		<ul class="sub">
 			<li><a href="/default.asp">ZipcodeZoo Home</a></li>
                         <li><a href="/Rangers/">Ranger Home</a></li>
-                        <li><a href="/Utilities/setloc.asp">Set My Location</a></li>        
+                        <li><a href="/Utilities/Register.asp">Set My Location</a></li>        
                         <li><a href="http://the2050project.com/">The 2050 Project</a></li>
 						<li><a href="/Trends/">Global Trends</a></li>
 		</ul>
@@ -93,9 +96,8 @@ Nifty("div.blurbbrown","tl br big");
 <li class="top"><a href="javascript:void(0)" id="menu-listfind" class="top_link"><span class="down">List &amp; Find</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub">
-                        <li><a href="/utilities/search.asp">Search using Google™</a></li>
-                        <li><a href="/List/Proximity.asp">List Near You or Any Location</a></li>
 			<li><a href="/List/Regions.asp">List for Country or Region</a></li>
+                        <li><a href="/List/Proximity.asp">Proximity List for Lat./Long.</a></li>
                         <li><a href="/List/PlantFinder.asp">Plant Finder</a></li>
                         <li><a href="/List/BirdFinder.asp">Bird Finder</a></li>
                         <li><a href="/List/ButterflyFinder.asp">Butterfly Finder</a></li>
@@ -189,7 +191,6 @@ Nifty("div.blurbbrown","tl br big");
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
-	
 <li class="top"><a href="javascript:void(0)" id="menu-donate" class="top_link"><span class="down">Get Involved!</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub">
@@ -197,11 +198,18 @@ Nifty("div.blurbbrown","tl br big");
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>	
-
 <li class="last"></li>
 </ul>
-<!-- end topmenu.inc -->
-<!-- end headermenu.inc -->
+<!-- begin announcement  -->
+<div style="background:#FF0000;text-align: center;font-weight: bold;padding: 4px;border-top: 5px solid #5A7945;"> 
+<div style="background:#fff; width: 70%;margin: auto;padding: 4px;border: 2px solid #004400;">  
+Wuzzup?  ZipcodeZoo's creators have a new creation that you should see.<br>
+<a href="http://BugBopper.com">Click here to learn about Wuzzup.</a>  
+</div>
+</div>
+<!-- end announcement -->
+
+<!-- end /includes/v2/headermenu.inc -->
 <div id="maindiv">
   <div id="maindivcon" class="full">
     <h2 class="blue">ZipcodeZoo Privacy Highlights</h2>
