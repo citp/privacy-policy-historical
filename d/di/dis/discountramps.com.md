@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114051005id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223121336id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Discount Ramps.com - Privacy Policy
 
@@ -20,7 +20,7 @@ Use of your Personal Information
 Discount Ramps.Com LLC and its operational service partners collect and use your personal information to process product orders and deliver the products requested. It is possible that Discount Ramps.Com LLC may also use personal information to inform you of other products or services available from Discount Ramps.Com LLC and its affiliates. Discount Ramps.Com LLC may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 Discount Ramps.Com LLC does not sell, rent or lease its customer lists to third parties. Discount Ramps.Com LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.  
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
 Discount Ramps.Com LLC does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.  
 Discount Ramps.Com LLC may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Discount Ramps.Com LLC or the site; (b) protect and defend the rights or property of Discount Ramps.Com LLC , including its Web site; or (c) act under exigent circumstances to protect the personal safety of users of Discount Ramps.Com LLC or the public.
@@ -42,7 +42,7 @@ Information we collect on the Discount Ramps.Com LLC and it's Affiliate Sites ma
 
 
 Control your Personal Information  
-Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20100114051005id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records. Alternatively, if you created an account with Discount Ramps.Com LLC you may log in to your account via the "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)" area and make adjustments to your personal information online.  
+Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20101223121336id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records. Alternatively, if you created an account with Discount Ramps.Com LLC you may log in to your account via the "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)" area and make adjustments to your personal information online.  
 **Note:** You may also stop the delivery of future promotional e-mail from Discount Ramps.Com LLC by responding directly to any email you receive with a request to remove you from the mailing list.
 
 Do not share your Discount Ramps.Com LLC account password with anyone. Other than on the Discount Ramps.Com LLC and it's Affiliate Websites, Discount Ramps.Com LLC will never ask you for your password information.
@@ -59,7 +59,7 @@ When you visit DiscountRamps.Com LLC or it's Affiliates, you may be assigned a p
 How can I contact DiscountRamps.Com LLC with questions about my privacy?  
 If you have questions or comments about the DiscountRamps.Com LLC privacy policy, please contact us in any of the following ways:
 
-Online: [Contact Us](https://web.archive.org/web/20100114051005id_/http%3A//www.discountramps.com/contact.htm)
+Online: [Contact Us](https://web.archive.org/web/20101223121336id_/http%3A//www.discountramps.com/contact.htm)
 
 By Phone: 888-651-3431 
 
