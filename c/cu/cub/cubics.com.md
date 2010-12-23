@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubics.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413083705id_/http%3A//advertiser.cubics.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubics.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223174413id_/http%3A//advertiser.cubics.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Adknowledge/Cubics Privacy Policy
 
