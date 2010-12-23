@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getscholarship.net privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523043934id_/http%3A//www.getscholarship.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getscholarship.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223060824id_/http%3A//www.getscholarship.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Scholarship - Undergraduate and Graduate Scholarships and Financial Aid, PhD and Postdoctoral Fellowships
 
