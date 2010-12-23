@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coloradotech.edu privacy policy that was archived on 2010-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602031611id_/http%3A//www.coloradotech.edu/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coloradotech.edu privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223190914id_/http%3A//www.coloradotech.edu/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="verify-v1" content="lTBVZ/Jo6a7kpwAs59LStd6kdD2F2w6FsK0FoDW5zBM="><meta name="robots" content="index,follow"><title>
 	Colorado Technical University - CTU
@@ -27,6 +27,9 @@ try {
 var pageTracker = _gat._getTracker("UA-9890061-1");
 pageTracker._setDomainName("none");
 pageTracker._setAllowLinker("true");
+var regex = new RegExp("cd=([0-9]+)");
+var match = regex.exec(document.referrer);
+if (match) { _pageTracker._setCustomVar(2,'Google_Rank',match[1],2); }
 pageTracker._trackPageview();
 
 var cecTracker = _gat._getTracker ("UA-11922702-1"); 
@@ -60,14 +63,14 @@ cecTracker._trackPageview(location.host);
 </div>
 
 
-<script src="/ScriptResource.axd?d=tfiAc8eM4KYhrn8_bKOvwin9L36t4fuGQChLVEwRd2V_RxdDOEvLNWwPTknSoI34Z13yW0lbkAf59IBE2P6A9DxcpmM5NEmOcTK-5GnAKZU1&amp;t=3e2cbc48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jEtquGWbyXhjo103ZNwXWa1qlv2x_GJsdNU6-GuqPpn284DP-MZrB5V9QUjaFC3r0uLykaMzb1917r7Kg0vb9SKuNTUAg-1pQ2nLNF2Z0vVQu6lBaaoJZjZ3jLiI2_Fr5dbtP7FwBTNqbj7PD3YKJeGk8IA1&amp;t=ffffffffa9514a0d" type="text/javascript"></script>
     
     
     <div id="main">
         <div id="container">
             <div id="content">
                 <a name="top" id="top"></a>
-                <ul class="top-nav"><li class="print"><a href="#" id="print_this">Print</a></li><li class="bookmark"><a href="javascript:addBookmark();">Bookmark</a></li><li class="share"><script type="text/javascript"></script><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onclick="return addthis_sendto();">Share</a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script></li></ul>
+                <ul class="top-nav"><li class="print"><a href="#" id="print_this">Print</a></li><li class="bookmark"><a href="javascript:addBookmark();">Bookmark</a></li><li class="share"><script type="text/javascript"></script><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=cecsocial" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onclick="return addthis_sendto();">Share</a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js#username=cecsocial"></script></li></ul>
                 
         <ul class="breadcrumbs"><li>
     
@@ -132,130 +135,41 @@ Phone: 847-781-3600</p>
                 <div id="ShortBottomForm">
                     
 
-<script type="text/javascript">
+<script type="text/javascript" src="/scripts/Global/FlexForm.js"></script>
 
-    function moveFlexForm(displayFieldsID) {
-    }
-
-    function NextClick(pv) {
-        jQuery('#step_2').slideToggle(400);
-        jQuery('#step_3').css("display", "inline"); //submit button
-        jQuery('a#next_step').css("display", "none");   //next button        
-        trackPageView(pv);
-        var hidItm = document.getElementById("nextClickRecorder");
-        if (hidItm != null) {
-            hidItm.value = 'true';
-        }
-        return false;
-    }
-
-    function trackPageView(pv) {
-        if (pageTracker != null) {
-            pageTracker._trackPageview(pv);
-        }
-    }
-
-    function NextClickFast() {
-        jQuery('#step_2').slideToggle("fast");
-        jQuery('#step_3').css("display", "inline"); //submit button
-        jQuery('a#next_step').css("display", "none");   //next button
-        var hidItm = document.getElementById("nextClickRecorder");
-        if (hidItm != null) {
-            hidItm.value = 'true';
-        }
-        return false;
-    }
-
-
-    function showLongForm() {
-        var submitBtn = document.getElementById("step_3");
-        if (submitBtn != null) {
-            submitBtn.style.display = 'inline';
-        }
-
-        var step2 = document.getElementById("step_2");
-        if (step2 != null) {
-            step2.style.display = 'none';
-        }
-
-        var nextBtn = document.getElementById("step_1");
-        if (nextBtn != null) {
-            nextBtn.style.display = 'none';
-        }
-        //        
-        //        NextClick();
-    }
-
-    function showShortForm() {
-        var submitBtn = document.getElementById("step_3");
-        if (submitBtn != null) {
-            submitBtn.style.display = 'none';
-        }
-
-        var step2 = document.getElementById("step_2");
-        if (step2 != null) {
-            step2.style.display = 'none';
-        }
-
-        var nextBtn = document.getElementById("step_1");
-        if (nextBtn != null) {
-            nextBtn.style.display = 'inline';
-        }
-    }
-
-    function hideTY(fldsPnl, tyPnl) {
-        var pnl1 = document.getElementById(fldsPnl);
-        pnl1.style.display = 'inline';
-
-        var pnl2 = document.getElementById(tyPnl);
-        pnl2.style.display = 'none';
-    }
-
-    function redirector(fldsPnl, tyPnl, oneSiteAddr) {
-        if (oneSiteAddr.toString().length > 0) {
-            if (oneSiteAddr != "#thankyou") {
-                setTimeout("window.location = '" + oneSiteAddr + "';", 5000);
-            }
-        }
-
-        var pnl1 = document.getElementById(fldsPnl);
-        pnl1.style.display = 'none';
-
-        var pnl2 = document.getElementById(tyPnl);
-        pnl2.style.display = 'inline';
-    }
+<script language="javascript" type="text/javascript">
 
     function reloadForm(GUID) {
 
+        var x = 'phshortform_0_changeFlexForm';
+        var y = 'phshortform_0_pnlThankyou';
         var tBox = document.getElementById('hidRequestedFormRequestedForm');
-        var changeFlexFormBtn = document.getElementById('phshortform_0_changeFlexForm');
-        var thankYouPanel = document.getElementById('phshortform_0_pnlThankyou');
-        
-        //alert(tBox);
-        
-        //alert('phshortform_0_changeFlexForm');
-        //alert(GUID);
+        var changeFlexFormBtn = document.getElementById(x);
+        var thankYouPanel = document.getElementById(y);
+
+//        alert(tBox);
+//        alert(changeFlexFormBtn);
+//        alert(GUID);
 
         if (thankYouPanel != null) {
             if (thankYouPanel.style.display == 'none') {
 
                 if (tBox != null) {
-                    //alert('setting');
+//                    alert('setting');
                     tBox.value = GUID;
                 }
 
                 if (changeFlexFormBtn != null) {
-                    //alert('clicking');
+//                    alert('clicking');
                     changeFlexFormBtn.click();
                 }
             }
         }
     }
-   
+    
 </script>
-
 <input id="hidRequestedFormRequestedForm" name="hidRequestedFormRequestedForm" type="hidden" value="">
-<span id="phshortform_0_upDisplayFields" style="display: inline;">
+<span id="phshortform_0_upDisplayFields">
         <div id="information_request" class="flexform">
             <fieldset id="form_content">
                 <h2 id="phshortform_0_displayTitle">Request More Info!</h2>
@@ -263,11 +177,14 @@ Phone: 847-781-3600</p>
 		<p>Tell us more about yourself and specify your campus and program of interest. An admissions representative will contact you to provide you with more information.</p>
 </span>
                 <input id="nextClickRecorder" name="nextClickRecorder" type="hidden" value="false">
+                <input id="remember" name="remember" type="hidden" value="">
                 <div id="phshortform_0_dvValidator">
                     <div id="phshortform_0_dvRequiredFields" class="required">
                         <p>
+                            </p><div id="valSummary">
+                            </div>
                             
-                        </p>
+                        <p></p>
                         <p>
                             * = required fields</p>
                     </div>
@@ -275,8 +192,8 @@ Phone: 847-781-3600</p>
                 </div>
                 <div id="step_0">
                     <h3>
-                        Step 1 of 2</h3>
-                    <fieldset id="phshortform_0_fSetWhichschoolorca" class="location"><label id="phshortform_0_lblWhichschoolorcaLabel"><span>* </span>Campus of Interest:</label><select name="phshortform_0$DDLWhichschoolorca" id="phshortform_0_DDLWhichschoolorca">
+                        <span id="phshortform_0_litStep1">Step 1 of 2</span></h3>
+                    <fieldset id="phshortform_0_fSetWhichschoolorca" class="location"><label id="phshortform_0_lblWhichschoolorcaLabel"><span>* </span>Campus of Interest:</label><select name="phshortform_0$DDLWhichschoolorca" id="phshortform_0_DDLWhichschoolorca" onblur="ValidatePage(this, 'FF_CampusLocation', '* Please select the location you are most interested in attending.', '');">
 	<option value="">-- Select --</option>
 	<option value="{7EA1C8D5-D2DD-423E-8FC0-43D6A4CECCAA}">Colorado Springs - Colorado Springs, CO</option>
 	<option value="{D8C083D3-17E1-45EE-A80C-F5F92DFC500C}">CTU Online</option>
@@ -286,16 +203,16 @@ Phone: 847-781-3600</p>
 	<option value="{FF4A7CF8-4033-4915-937C-2889D11EFB6D}">Pueblo - Pueblo, CO</option>
 	<option value="{A281E3F1-B725-4861-88B5-84ED9A1516B9}">Sioux Falls - Sioux Falls, SD</option>
 
-</select></fieldset><fieldset id="phshortform_0_fSetWhattypeofdegre" class="program"><label id="phshortform_0_lblWhattypeofdegreLabel"><span>* </span>Program of Interest:</label><select name="phshortform_0$DDLWhattypeofdegre" id="phshortform_0_DDLWhattypeofdegre">
-	<option value="">-- Select --</option>
+</select></fieldset><fieldset id="phshortform_0_fSetWhattypeofdegre" class="program"><label id="phshortform_0_lblWhattypeofdegreLabel"><span>* </span>Program of Interest:</label><select name="phshortform_0$DDLWhattypeofdegre" id="phshortform_0_DDLWhattypeofdegre" disabled="disabled" onmousedown="DDMouseDown(this);" onchange="DDMouseOut(this);" onblur="ValidatePage(this, 'FF_Program', '* Please select the program you are most interested in.', ''); DDMouseOut(this);">
+	<option value="">Please select a campus</option>
 
-</select></fieldset><fieldset id="phshortform_0_fSetWhatConcentrati" class="concentration"><label id="phshortform_0_lblWhatConcentratiLabel">Concentration of Interest</label><select name="phshortform_0$DDLWhatConcentrati" id="phshortform_0_DDLWhatConcentrati">
-	<option value="">-- Select --</option>
+</select></fieldset><fieldset id="phshortform_0_fSetWhatConcentrati" class="concentration"><label id="phshortform_0_lblWhatConcentratiLabel">Concentration of Interest</label><select name="phshortform_0$DDLWhatConcentrati" id="phshortform_0_DDLWhatConcentrati" disabled="disabled">
+	<option value="">Please select a program</option>
 
 </select></fieldset>
                 </div>
                 <br clear="all">
-                <div id="step_1" style="display: inline;">
+                <div id="step_1">
                     <a href="#next_step" name="next_step" id="next_step" onclick="NextClick('/ga_virtual/Privacy Statement/QuickLeadStep1');">
                         <img id="phshortform_0_imgNext" src="/~/media/CTU/Images/Banners_Buttons/next.ashx" style="border-width:0px;"></a>
                 </div>
@@ -303,7 +220,7 @@ Phone: 847-781-3600</p>
                 <div id="step_2" style="display: none;">
                     <h3>
                         Step 2 of 2</h3>
-                    <fieldset id="phshortform_0_fSetFirstname" class="first-name"><label id="phshortform_0_lblFirstnameLabel"><span>* </span>First Name</label><input name="phshortform_0$TBFirstname" type="text" id="phshortform_0_TBFirstname"></fieldset><fieldset id="phshortform_0_fSetLastname" class="last-name"><label id="phshortform_0_lblLastnameLabel"><span>* </span>Last name</label><input name="phshortform_0$TBLastname" type="text" id="phshortform_0_TBLastname"></fieldset><fieldset id="phshortform_0_fSetEmailAddress" class="email"><label id="phshortform_0_lblEmailAddressLabel"><span>* </span>Email</label><input name="phshortform_0$TBEmailAddress" type="text" id="phshortform_0_TBEmailAddress"></fieldset><fieldset id="phshortform_0_fSetEveningphone" class="phone ph-main"><label id="phshortform_0_lblEveningphoneLabel"><span>* </span>Phone</label><input name="phshortform_0$TBEveningphone1" type="text" maxlength="3" id="phshortform_0_TBEveningphone1" class="phone1"><input name="phshortform_0$TBEveningphone2" type="text" maxlength="3" id="phshortform_0_TBEveningphone2" class="phone2"><input name="phshortform_0$TBEveningphone3" type="text" maxlength="4" id="phshortform_0_TBEveningphone3" class="phone3"></fieldset><fieldset id="phshortform_0_fSetHowdidyouhearab" class="howheard"><label id="phshortform_0_lblHowdidyouhearabLabel"><span>* </span>How did you hear about us?</label><select name="phshortform_0$DDLHowdidyouhearab" id="phshortform_0_DDLHowdidyouhearab">
+                    <fieldset id="phshortform_0_fSetFirstname" class="first-name"><label id="phshortform_0_lblFirstnameLabel"><span>* </span>First Name</label><input name="phshortform_0$TBFirstname" type="text" id="phshortform_0_TBFirstname" onblur="ValidatePage(this, '', '* Please enter your first name.', '');"></fieldset><fieldset id="phshortform_0_fSetLastname" class="last-name"><label id="phshortform_0_lblLastnameLabel"><span>* </span>Last name</label><input name="phshortform_0$TBLastname" type="text" id="phshortform_0_TBLastname" onblur="ValidatePage(this, '', '* Please enter your last name.', '');"></fieldset><fieldset id="phshortform_0_fSetEmailAddress" class="email"><label id="phshortform_0_lblEmailAddressLabel"><span>* </span>Email</label><input name="phshortform_0$TBEmailAddress" type="text" id="phshortform_0_TBEmailAddress" onblur="ValidatePage(this, 'FF_Email', '* Please enter your email address.', '* Please enter a valid e-mail in the format: test@test.com');"></fieldset><fieldset id="phshortform_0_fSetEveningphone" class="phone ph-main"><label id="phshortform_0_lblEveningphoneLabel"><span>* </span>Phone</label><input name="phshortform_0$TBEveningphone" type="text" maxlength="16" id="phshortform_0_TBEveningphone" onblur="ValidatePage(this, 'FF_Phone', '* Please enter your phone number.', '* Please enter a valid phone number in the Phone field in the format: 1234567890');"></fieldset><fieldset id="phshortform_0_fSetHowdidyouhearab" class="howheard"><label id="phshortform_0_lblHowdidyouhearabLabel"><span>* </span>How did you hear about us?</label><select name="phshortform_0$DDLHowdidyouhearab" id="phshortform_0_DDLHowdidyouhearab" onblur="ValidatePage(this, 'FF_DropDown', '* Please tell us how you heard about us.', '');">
 	<option value="">-- Select --</option>
 	<option value="{74DD8C7F-18DA-4107-A9AE-91611D72ACC7}">Internet</option>
 	<option value="{CFFE1915-8685-438A-B06F-104BD2C6F6FC}">Direct Mail</option>
@@ -325,14 +242,21 @@ Phone: 847-781-3600</p>
 </select></fieldset><fieldset id="phshortform_0_fSetIunderstandanad" class="agree"><input id="phshortform_0_CBIunderstandanad" type="checkbox" name="phshortform_0$CBIunderstandanad"><label id="phshortform_0_lblIunderstandanadLabel"><span>* </span>I understand that an admissions representative will contact me.</label></fieldset>
                 </div>
                 <div id="step_3" style="display: none;">
-                    <input type="image" name="phshortform_0$ImageButton1" id="phshortform_0_ImageButton1" src="/~/media/CTU/Images/Banners_Buttons/btn-submit_mid.ashx" alt="Submit Request" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;phshortform_0$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+                    
+                    <input type="image" name="phshortform_0$ImageButton1" id="phshortform_0_ImageButton1" src="/~/media/CTU/Images/Banners_Buttons/btn-submit_mid.ashx" alt="Submit Request" onclick="disableInlineValidation();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;phshortform_0$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+                    <p align="center">
+                        <em>This information will be used to contact you through various means, which may include:
+                        phone, text messaging, email, and postal mail, about the programs and services that
+                        are offered.</em>
+                    </p>
                 </div>
-                <input type="image" name="phshortform_0$changeFlexForm" id="phshortform_0_changeFlexForm" src="" style="width:0px;border-width:0px;display: none">
+                <input type="image" name="phshortform_0$changeFlexForm" id="phshortform_0_changeFlexForm" src="" style="width:0px;border-width:0px;display: none;">
+                <input type="image" src="/images/flex-form-focusholder.gif" style="width: 1px;" id="formfocus">
                 
             </fieldset>
         </div>
     </span>
-<div id="phshortform_0_pnlThankyou" style="display: none;">
+<div id="phshortform_0_pnlThankyou">
 	
         <div id="phshortform_0_pnlTrackingPixels">
 		
@@ -355,6 +279,39 @@ Phone: 847-781-3600</p>
     //    var myA = document.getElementById("sometest");
     //    myA.setAttribute('onclick', 'alert("hello");');
     //    alert(myA.getAttribute('onclick'));
+
+    function ValidatorCommonOnSubmit() {
+        //        alert('validating');
+        var dvValSummary1 = document.getElementById('valSummary');
+        if (dvValSummary1 != null)
+        { dvValSummary1.style.display = 'none'; }
+        var result = !Page_BlockSubmit;
+        Page_BlockSubmit = false;
+        try {
+            transmitErrorsToLivePerson();
+        }
+        catch (err) {
+        }
+        return result;
+    }
+
+    function remembertheFields(x) {
+        if ((x != null) && (x != 'undefined')) {
+            var rememb = document.getElementById("remember");
+            if (rememb != null) {
+                rememb.value = x;
+            }
+        }
+    }
+
+    function disableInlineValidation() {
+        validationsChecked = 'true';
+        remembertheFields('validationsChecked');
+        for (z = 0; z < byPassExceptions.length; z++) {
+            byPassExceptions[z] = '';
+        }
+        return true;
+    }
 </script>
 
 
@@ -385,7 +342,7 @@ Phone: 847-781-3600</p>
 	
         <div class="form">
             <input name="header_0$txtSearch" type="text" value="Search" id="header_0_txtSearch" class="text-inp" onfocus="if(this.value.toLowerCase() == 'search') this.value = '';" onblur="if(this.value.toLowerCase() == '') this.value = 'search';">
-            <a id="header_0_lnkSearch" href="javascript:__doPostBack('header_0$lnkSearch','')"><img src="/~/media/CTU/Images/Banners_Buttons/btn-go.ashx?as=0&amp;dmc=0&amp;h=14&amp;thn=0&amp;w=25" class="btn-search" alt="Go" width="25" height="14"></a>
+            <a id="header_0_lnkSearch" href="javascript:__doPostBack('header_0$lnkSearch','')"><img src="/~/media/CTU/Images/Banners_Buttons/btn-go.ashx" class="btn-search" alt="Go" width="25" height="14"></a>
         </div>
     
 </div>
@@ -421,22 +378,16 @@ Phone: 847-781-3600</p>
         </li>
         <li class="chat">
             
-<div class="bg-holder">
-    <img src="/~/media/Global/Images/Header/chat.ashx?as=0&amp;dmc=0&amp;h=62&amp;thn=0&amp;w=54" alt="Chat Live 24/7" width="54" height="62">
-</div>
+<!--<div class="bg-holder">
+    <img src="/~/media/Global/Images/Header/chat.ashx" alt="Chat Live 24/7" width="54" height="62" />
+</div>-->
 <div class="text-wrapper">
-    <div id="lp-chat-ctuonline-general-english_div" onclick="return OmnitureTracking_LiveChatClick('careductup');">
-    </div>
-
+    <div id="lp-chat-ctuonline-general-english_div" onclick="return OmnitureTracking_LiveChatClick('careductup');"></div>
     <script type="text/javascript">
         if (typeof (lpMTagConfig.dynButton) != "undefined")
-            lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = { 'name': "chat-ctuonline-general-english-Main", 'pid': 'lp-chat-ctuonline-general-english_div' };
+            lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = { 'name': "chat-ctuonline-general-english-MainNew", 'pid': 'lp-chat-ctuonline-general-english_div' };
     </script>
-
-    <div>
-        <noscript>
-            To Chat Live you must <a href="http://www.google.com/support/websearch/bin/answer.py?hl=en&answer=23852"
-                target="_new">enable javascript</a>.</noscript></div>
+    <div><noscript> To Chat Live you must <a href="http://www.google.com/support/websearch/bin/answer.py?hl=en&answer=23852" target="_new">enable javascript</a>.</noscript></div>
 </div>
         </li>
     </ul>
@@ -516,7 +467,7 @@ Phone: 847-781-3600</p>
     <div class="box-holder">
       <ul>
         <li>
-          <a href="/About-CTU/Welcome-From-the-Chancellor">Welcome to CTU</a>  </li>
+          <a href="/About-CTU/Welcome-From-the-President-and-CEO">Welcome to CTU</a>  </li>
         <li>
           <a href="/About-CTU/About-Colorado-Tech">About CTU</a>  </li>
         <li>
@@ -551,7 +502,7 @@ Phone: 847-781-3600</p>
         <li>
           <a href="/Degree-Programs/?degreelevel=3">Master's Degrees</a> </li>
         <li>
-          <a href="/Degree-Programs/?degreelevel=4">Doctorate Degrees</a> </li>
+          <a href="/Degree-Programs/?degreelevel=4">Doctoral Degrees</a> </li>
         <li>
           <a href="/Degree-Programs/Colleges-Of-CTU.aspx">Colleges Of CTU</a> </li>
       </ul>
@@ -617,18 +568,13 @@ Phone: 847-781-3600</p>
       </ul>
     </div>
 
-		<div class="footer-btm">
-CTU does not guarantee employment or salary<br>
+		<div class="footer-btm">CTU does not guarantee employment or salary<br>
 <span>©2009 Colorado Technical University. All rights reserved.</span>
 <ul class="btm-nav">
-<li><a href="/Privacy">Privacy Statement </a></li>
-<li><a href="/Terms">Legal Terms and Conditions</a></li>
-<li><a href="/Sitemap">Sitemap</a>&nbsp;</li>
-</ul>
-<ul class="cont">
-<li>Colorado Technical University - Colorado Springs </li>
-<li>4435 North Chestnut Street </li><li>Colorado Springs, CO 80907 </li>
-<li>1-866-942-6555&nbsp;</li>
+<li><a href="/Privacy">Privacy Statement</a> </li>
+<li><a href="/Terms">Legal Terms and Conditions</a> </li><li><a href="~/media/CTU/Files/PDF/CTU-Outcomes-Disclosures.ashx" target="_blank">Student Outcomes/Disclosures</a>&nbsp;</li>
+<li><a href="/Sitemap">Sitemap</a>&nbsp;</li></ul><ul class="cont"><li>Colorado Technical University - Colorado Springs </li>
+<li>4435 North Chestnut Street </li><li>Colorado Springs, CO 80907 </li><li>1-866-942-6555&nbsp;</li>
 </ul>
 </div>
 
@@ -658,10 +604,9 @@ CTU does not guarantee employment or salary<br>
 	<noscript>
 		<img src="http://pixel.quantserve.com/pixel/p-75FJkXug41BPg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
 	</noscript>
-<!-- End Quantcast tag --><!-- SiteCatalyst code for ColoradoTech.edu version: H.20.3.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript">
+<!-- End Quantcast tag --><!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com --><script language="JavaScript" type="text/javascript">
     var s_account = "careductup"
     var vlinkInternalFilters = "javascript:,coloradotech.edu"
 </script>
@@ -676,36 +621,20 @@ if(s.channel=='') { s.channel='unknown'; }
 
 s.pageType=""
 s.hier1=""
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-s.eVar6=""
-s.eVar7=""
-s.eVar8=""
-s.eVar9=""
-s.eVar10=""
-s.eVar11=""
-s.eVar12=""
-s.eVar13=""
-s.eVar14=""
+s.pageType=""
+s.linkTrackVars = "events";
+s.linkTrackEvents = "event8";
+s.events += ",event8";
+
 /*s.eVars 15-22 are in the omniture conversion pixel*/
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
-//-->
-</script>
-<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://careductup.112.2O7.net/b/ss/careductup/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://careereducationcorp.112.2o7.net/b/ss/careductup/1/H.22.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. --><script src="http://ctech.netmng.com/?aid=220" type="text/javascript" defer="defer"></script><!-- Yahoo! Web Analytics - All rights reserved --> <script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"> </script> <script type="text/javascript"> var YWATracker = YWA.getTracker("10002104497762"); YWATracker.submit(); </script> <noscript> <div><img src="http://a.analytics.yahoo.com/p.pl?a=10002104497762&amp;js=no" width="1" height="1" alt="" /></div> </noscript>
+<!-- End of Yahoo! Web Analytics Code -->
     
 <script language="javascript" type="text/javascript"> 
 var lpUASsiteName = "marketing site"; 
@@ -720,7 +649,20 @@ lpAddVars("page","CTUSection",lpUASctuSection);
 //<![CDATA[
 moveFlexForm(document.getElementById('phshortform_0_upDisplayFields'));//]]>
 </script>
-<script type="text/javascript">hideTY('phshortform_0_upDisplayFields', 'phshortform_0_pnlThankyou');</script><script type="text/javascript">showShortForm();</script>
+<script type="text/javascript">hideTY('phshortform_0_upDisplayFields', 'phshortform_0_pnlThankyou');</script><script type="text/javascript">showShortForm();</script><script type="text/javascript">var validatedFields = new Array();</script>
+    <script type="text/javascript">
+    function setFocustoSubmitButton(enableBtn) {
+    var btn = document.getElementById('phshortform_0_ImageButton1');
+    if (btn != null) {
+    btn.focus();
+    }
+    }
+    </script>
+<script language="javascript" type="text/javascript"> 
+try {  
+ lpAddVars('visitor','VisitorID',''); 
+ } catch (err) { }
+    </script>
 <script type="text/javascript">
 //<![CDATA[
 var b = document.getElementById('header_0_lnkSearch');if (b && typeof(b.click) == 'undefined') {b.click = function() {  var result = true;if (b.onclick) result = b.onclick();if (typeof(result) == 'undefined' || result) {eval(b.getAttribute('href'));}}}Sys.Application.initialize();
