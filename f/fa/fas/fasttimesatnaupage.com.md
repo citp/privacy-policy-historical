@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasttimesatnaupage.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620170157id_/http%3A//www.national.edu/PrivacyStatement/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttimesatnaupage.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223102643id_/http%3A//www.national.edu/PrivacyStatement/Pages/default.aspx) for the most accurate reproduction.*
 
 # National American University - Privacy Statement
 
