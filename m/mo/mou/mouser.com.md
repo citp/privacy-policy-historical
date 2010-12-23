@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020442id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223030429id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
 
