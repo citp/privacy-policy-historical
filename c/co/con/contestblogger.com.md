@@ -1,34 +1,31 @@
-> *The following text is extracted and transformed from the contestblogger.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502090741id_/http%3A//www.contestblogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestblogger.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223194004id_/http%3A//www.contestblogger.com/privacy-policy) for the most accurate reproduction.*
 
-# Contest Blogger Privacy Policy and Disclaimer | Contest Blogger
+# Privacy Policy
 
-[Return to Forum](http://www.contestblogger.com/)
+## [Contest Blogger](https://web.archive.org/)
 
-The privacy of your personal information is important to us. Here is information on what types of personal information we receive and collect when you use visit Contest Blogger, and how we safeguard your information. We never share or sell your personal information or email addresses to third parties.
+### The Best Website for __Thousands__ of Daily Contests & Sweepstakes!
 
-**Log Files**
+[](http://www.facebook.com/contestblogger)
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site, the time you visited our websites and which pages you visited throughout our websites.
+We are committed to protecting your privacy at Contest Blogger. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.
 
-**Cookies and Web Beacons**
+**Cookies**
 
-We do use cookies to store information, such as your personal preferences when you visit Contest Blogger. This could include the ability to login to some of our features, such as forums.
+Like many other Web sites, Contest Blogger uses cookies to identify members so they don’t have to re-enter a user id and password when they, for example, wish to post to a discussion. Cookies also help us improve your experience and display more prominently goods and services that might interest you. If you do not have cookies enabled, you must enter your password each time you access our site or any of its member features.
 
-We also use third party advertisements on to support Contest Blogger. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our websites, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit Contest Blogger, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.  **Because Contest Blogger is monetized using Google Adsense, you can find a list of current Google third party ad providers below.**
+**Third parties**
 
-  
-List provided courtesy of [blogsblogsblogs.com](http://google-third-party-ads.blogsblogsblogs.com/)
+Contest Blogger may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month but does not contain behavioral or identifying information about any individual member, unless that member has given us permission to share that information. We may also provide log files and other databases of user information to third parties for analysis, so we can get a better understanding of traffic through our site and thus improve our content offerings. Contest Blogger also may use third party companies to provide delivery of e-mail newsletters and other messages over e-mail. Contest Blogger uses a third-party advertising company to serve ads when you visit our sites. This company may use information about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our sites. Also be aware that we may buy and sell business assets and/or divisions; customer information is generally part of such a sale.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in security programs. However, this can affect how you are able to interact with Contest Blogger as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Security**
 
-**Other Important Information**
+We use reasonable precautions to keep the personal information you disclose both in your browsing and your purchases and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties.
 
-Contest Blogger is intended only for people who are eighteen (18) years of age or older. We are NOT responsible for the privacy policies of websites, blogs and pages linked to anywhere on Contest Blogger. We reserve the right to change our privacy policy at any time.
+**Obtaining your consent**
 
-If you have any questions or concerns regarding Contest Blogger, or about our privacy policy or the safety of your private information when you visit Contest Blogger, please contact us by posting a message in one of our forums.
+By using our Web site, you give Contest Blogger permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at Contest Blogger, you authorize Contest Blogger to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. Contest Blogger may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time.
 
-**Important Disclaimer**
+**Questions?**
 
-The webmaster, hosting service and administrators do not create, run, take part in, endorse, recommend or approve of any of the contests, sweepstakes, giveaways, free samples, offers, programs, games, software, graphics, coupons or websites listed, linked to or referred to on Contest Blogger.
-
-It is your responsibility to determine the validity and safety of each offer. The webmaster, hosting service and administrators are not responsible for any loss of funds, property, information or time resulting from taking part in contests, sweepstakes, giveaways, programs and offers on Contest Blogger, from visiting websites linked to on these sites, or from downloading software, programs, and files linked to on Contest Blogger.
+If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us by using [our contact form](http://www.contestblogger.com/contact-contest-blogger/).
