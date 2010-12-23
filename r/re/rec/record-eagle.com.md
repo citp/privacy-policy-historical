@@ -1,69 +1,51 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011113211id_/http%3A//www.record-eagle.com/lib/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091616id_/http%3A//record-eagle.com/privacy) for the most accurate reproduction.*
 
-# Traverse City Record-Eagle privacy policy
+# Inside index
 
-> PRIVACY POLICY
-> 
-> This privacy policy was last updated on 6/22/01.
-> 
-> Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "Ottaway Web Sites"). This Privacy Policy describes how we treat personal information received about you when you visit the Ottaway Web Sites. 
-> 
-> Information Collected
-> 
-> Web Site Usage Information: We automatically collects IP addresses and web site usage information from you when you visit the Ottaway Web Sites. This information helps us in evaluating how our visitors use and navigate the Ottaway Web Sites on an aggregate basis, including the number and frequency of visitors to each page of the Ottaway Web Sites, and the length of their visits.   
->  Special Features: When you use some of the special features of the Ottaway Web Sites and at other times, we may collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your interests and similar information.   
->  Surveys and Form: We may conduct occasional online surveys or ask you to fill in forms. For example, when you are within the Ottaway Web Sites, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys and forms are entirely voluntary and you may easily decline to participate.  
->  Children: We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children´s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on the Ottaway Web Sites without their permission.
-> 
-> How We Use Information Collected
-> 
-> We may use information that you provide us in the following ways:   
->  For the purposes for which you specifically provided the information, for example, when you request that additional information be sent to you, we will use your personal information to process your request.   
->  To send you e-mail notifications about our new or existing services, special offers, or to otherwise contact you.   
->  To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences.  
->  To enhance existing features or develop new features, products and services.   
->  To provide advertisers and other third parties with aggregate information about our user base and usage patterns.   
->  We may combine the information that we collect from you on the Ottaway Web Sites with information that you provide to us in connection with your use of our other products, services and web sites.   
->  We use third party network advertisers to deliver ads to you on our behalf. We may also use third-party service providers to contact you on our behalf, or facilitate some aspects of our services or fulfill your requests. These network advertisers and service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.   
->  We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use (for example, when necessary to protect our intellectual property rights) or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Ottaway Web Sites. We may also disclose personally identifiable information when we, in good faith, believe that the law requires us to do so. As we develop our business, we might sell or buy businesses or assets. In transactions such as these, customer information is generally one of the transferred business assets. Moreover, in the unlikely event that we or one of our publishing lines are acquired, customer information may be one of the transferred assets.  
->  Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of Ottaway unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
-> 
-> Your Ability to Choose
-> 
-> You can always decide not to provide your personal information to the Ottaway Web Sites, however in some cases failing to provide such information may limit your ability to use certain or features available at the Ottaway Web Sites. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: dnielsen@record-eagle.com
-> 
-> Cookies 
-> 
-> We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site´s special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer´s memory. Cookies are small files (just a few hundred bytes) and should not pose any significant disk-space concerns. When you visit the Ottaway Web Sites, or use some of the features, like saving your personalized Ottaway Web Sites settings, we may pass cookies to your computer. Some of the cookies that we pass to your computer are long term. Otherwise, we would need to ask you for certain information with each new session, such as your login information. Some cookies do expire after a short period of time.  
->  Other cookies that you will receive during your sessions here are from third-party service providers or third party network advertisers. These network advertisers may use their own cookies in order to serve ads on the Ottaway Web Sites, ensuring that you will not see the same ads over and over again. We are not responsible for the cookies of such third parties or any use of your personal information collected by such third parties.
-> 
-> Ottaway Web Sites Ads
-> 
-> When you view an ad for the Ottaway Web Sites on other sites, our third party advertising company may place or recognize a unique cookie on your browser. The Ottaway Web Sites and the advertising company may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which Ottaway Web Sites pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts.
-> 
-> Links to Third Party Web Sites
-> 
-> We may make third party content or services from other web sites available to you from links located on the Ottaway Web Sites. These other web sites are not subject to this Privacy Policy. We recommend that you review the terms of use and privacy policy at each such web site to determine how that site protects your privacy. We are not responsible for the content of those web sites or the actions of third party web site operators.
-> 
-> Security
-> 
-> The personally identifiable information we collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information. 
-> 
-> Review and Correction
-> 
-> You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: webmaster@record-eagle.com
-> 
-> Exclusions 
-> 
-> Any submissions that you make to any public areas of the Ottaway Web Sites including but not limited to, chat services, bulletin boards, reviews, letters to the editor (collectively "Public Areas") will be public and will not be subject to this Privacy Policy. We do not control, and are not responsible for, the actions of other users of the Ottaway Web Sites with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by us and by others to send you unsolicited messages and for other purposes. 
-> 
-> Policy Modifications
-> 
-> We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
-> 
-> Comments and Questions
-> 
-> If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [zfleet@record-eagle.com](mailto:zfleet@record-eagle.com) or by regular mail at: P.C. Box 401, Campbell Hall, NY 10916, Attn: Peter Stone. 
-> 
-> All rights reserved. Ottaway Newspapers, Inc. Copyright © 2001.   
->  The Community Newspaper Subsidiary of Dow Jones & Co. Inc.
+## Effective
+
+This Policy was last modified on October 18, 2007.
+
+## Information Practices
+
+Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "Company") understand that security and privacy are important issues for visitors to our web site, (the "Site") and recognize our obligation to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent. Please note that the Policy applies only to information collected by Company through the Site, as specified below, and does not govern or apply to any information collected or used by Company through other means.
+
+## Collection of Information
+
+You may be asked to voluntarily provide your name, billing address, shipping address, phone number, credit card number, email addressor other personally identifiable information ("Personal Information") to make purchases or to have access to some features of the Site. By using the Site and providing us with your Personal Information, you consent to our use of such information as described in this Policy. You may always refuse to provide your Personal Information, and this may lead to our inability to provide you with certain products or services. We or our business partners may also collect information that is anonymous, such as your IP number (a number used to identify your computer on the Internet) or the type of browser you are using ("Anonymous Information"), through the use of cookies or by other means. Because this information helps us in evaluating how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each page of the Site, and the length of visits, we hope that, by using Anonymous Information, we can update the Site to make it more useful to you and other users. We reserve the right to maintain, update, disclose or otherwise use Anonymous Information, without limitation.
+
+## Use of Information
+
+We use your Personal Information for the following purposes: to process your orders and administer your account; to administer and improve the Site and related services; to personalize the content of the Site to your preferences; to process requests made by you; to notify you of our products, services, promotional events or special offers that maybe of interest to you; to provide Internet security; where reasonably necessary to enforce our Legal Terms and Conditions of Use; and if there is a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request. Company may work with our business partners who may perform certain functions on our behalf, such as fulfilling orders, sending email messages, managing data, processing credit card payments or providing customer service. These business partners have access to your Personal Information only to the extent necessary to perform these specific functions and may not use it for any other purpose. Other than for the specific purposes set forth in this Policy, we will not disclose your Personal Information unless we obtain your prior consent or are legally required to do so. We may use third party advertising companies to place ads on the Site and to place our ads on other web sites. These companies may use Anonymous Information about your visits to this and other web sites to provide advertisements on the Site and other sites about goods and services that may be of interest to you. If Company is involved in the sale of a substantial portion of its business assets, Anonymous or Personal Information maybe among the transferred assets.
+
+## Privacy of Children
+
+We encourage parents and guardians to be aware of and participate in their children's online activities. We strictly adhere to the Children's Online Privacy Protection Act and will not knowingly collect, use or disclose Personal Information from any child under the age of 13 in any manner that violates this law. Please note that the Site may contain links to other sites on the Internet that are owned and operated by third parties ("Third Party Sites") which may request Personal Information from children under the age of 13. Company is not responsible for the collection or use of Personal Information collected from any child under the age of 13 at any Third Party Sites. We encourage parents and guardians to review the privacy policies contained on the Third Party Sites. Company disclaims any liability for any third party's use of such Personal Information obtained through using the Third Party Site.
+
+## Your Opportunity to Opt-out of Email Advertising
+
+In the event you do not wish to receive promotional email from us, follow the opt-out instructions contained within the body of any email message you receive.
+
+## Cookies
+
+When you visit the Site, we or a third party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that can help us in many ways. A "cookie" is a small computer file that is transferred to a computer's hard drive and which permits us to know about site visits. We may use cookies to improve your experience on the Site by making it easier for you to navigate through the Site or to make a site feature work better. Information collected from a "cookie" might include information regarding your browser, type of computer, operating system, Internet service provider and other similar information. Cookie technology may also gather information about the areas you visit on our Site and about the links you may select from within our Site to other areas of the Internet. We use such information in the aggregate to understand which services and resources our visitors prefer and how those services and resources are used. Cookies also allow us to remember you between visits, for example, they may be used for any auto-login feature on the Site or to save any customized preference settings for future visits. We do not extract Personal Information during this process. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions. If you reject cookies, functionality of the Site may be limited, and you may not be able to take advantage of many of the Site's features.
+
+## Links
+
+The Site may contain links to Third Party Sites. Company is not responsible for the collection or use of your Personal or Anonymous Information at any Third Party Sites. Therefore, Company disclaims any liability for any third party's use of your Personal or Anonymous Information obtained through using the Third Party Site.
+
+## Surveys
+
+From time to time, Company may conduct online surveys through the Site. For example, an opportunity to participate in a survey may be presented in a pop-up window. All surveys are completely voluntary and you may always decline to participate. The information you provide in response to a survey may be shared with our business partners and other third parties, but only in the aggregate, unless we notify you otherwise at the time of collection.
+
+## Public Areas
+
+Company makes some public chat rooms, forums, message boards, and news groups available to you. Please remember that these areas of the Site are public areas and may be viewed by other visitors to the Site. You should not post any Personal Information in these areas. Any information that is voluntarily disclosed by you in these areas is not proprietary or protected. Please see the section on Submitted Information in the Company's Legal Terms and Conditions of Use for additional information and restrictions regarding these submissions.
+
+## Security
+
+We have policies and procedures in place to protect the privacy and confidentiality of your Personal Information that we collect and maintain. All Personal Information is stored on our secured servers, behind a firewall at a data center with access to data strictly controlled. We use Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. Any unauthorized use of the Site may result in criminal and/or civil prosecution.
+
+## AP News Registry
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx for further information.
