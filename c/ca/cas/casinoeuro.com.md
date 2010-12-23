@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the casinoeuro.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522182128id_/http%3A//www.casinoeuro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoeuro.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223200432id_/http%3A//www.casinoeuro.com/privacy-policy) for the most accurate reproduction.*
 
 # Europe's online casino - CasinoEuro
+
+## Privacy policy
 
   
 
