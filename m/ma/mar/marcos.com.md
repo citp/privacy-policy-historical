@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcos.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623235538id_/http%3A//marcos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcos.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223105925id_/http%3A//marcos.com/privacy-policy) for the most accurate reproduction.*
 
 # Marco's Pizza - Privacy Policy
 
