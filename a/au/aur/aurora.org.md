@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626084612id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223125913id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/index.asp) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
 
 ## THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-[ [View the Spanish version (PDF document)](https://web.archive.org/web/20100626084612id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/art/Spanish-Notice.pdf) ]
+[ [View the Spanish version (PDF document)](https://web.archive.org/web/20101223125913id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/art/Spanish-Notice.pdf) ]
 
 ### OUR COMMITMENT
 
