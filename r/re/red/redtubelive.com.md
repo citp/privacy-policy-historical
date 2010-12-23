@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redtubelive.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109112556id_/http%3A//www.redtubelive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubelive.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223073856id_/http%3A//www.redtubelive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# RedTubeLive - Privacy Policy
+# RedTubeLive - Privacy
 
 [Home](http://www.redtubelive.com/) / Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-RedTubeLive.com LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! RedTubeLive.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+RedTubeLive LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! RedTubeLive is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
