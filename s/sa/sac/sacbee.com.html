@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sacbee.com privacy policy that was archived on 2010-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624025523id_/http%3A//www.sacbee.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sacbee.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223123341id_/http%3A//www.sacbee.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -41,9 +41,10 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 
 
 <meta name="keywords" content="Privacy Policy, sacbee.com, Sacramento, California, News, newspaper">
-<meta name="publication_date" content="06/11/10">
+<meta name="publication_date" content="12/16/10">
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta http-equiv="Content-Language" content="EN-US">
 <meta http-equiv="ImageResize" content="no">
 <meta http-equiv="ImageToolbar" content="no">
@@ -169,25 +170,83 @@ div .static li { margin-top: 5px; }
 	}
 </script>
 
- 
- 
 <script type="text/javascript">
-	if (sitelife_is_on && siteLife_master_switch_on) {
-	$(document).ready(function(){
-		document.domain="sacbee.com";
-		myGadgetCom.template = (document.getElementById("ComDiscTemplate")) ? document.getElementById("ComDiscTemplate").innerHTML : '';
-		myGadgetRec.template = (document.getElementById("RecDiscTemplate")) ? document.getElementById("RecDiscTemplate").innerHTML : '';
-		myGadgetAva.userTemplate  = (document.getElementById("userTemplate")) ? document.getElementById("userTemplate").innerHTML : '';
-		myGadgetAva.guestTemplate = (document.getElementById("anonTemplate")) ? document.getElementById("anonTemplate").innerHTML : '';
-		function pluckCallToAction() {requestBatch.BeginRequest(serverUrl, daapiCallback);};
-		new NYX.ieSafeExecution(pluckCallToAction).execute();
-	});
-}
+	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 1385;
+
+<!-- assignment_type: section-front -->
+
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://media.sacbee.com/static/scripts/sectionfront-min.js"></script>
+
+
+
+
  
 
  
-<script type="text/javascript" src="http://media.sacbee.com/static/scripts/sectionfront-min.js"></script>
+
+
+
+
+
+
+
+    
+
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
+</script>
+
+ 
 
 
 <script type="text/javascript">
@@ -277,18 +336,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
        	<div id="usertools">
 	<div id="insite">
-		<div id="avatarImage">
-			<div id="userTemplate" class="currentUser" style="display: none;">
-	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar"></a>
-</div>
 
-<div id="anonTemplate" class="currentUser" style="display: none;">
-	<img src="http://media.sacbee.com/static/images/mi/pluck/default-user-image.gif" alt="current user avatar">
-</div>
-
-<div id="AvatarOutput_dynamicContent" class="currentUser" style="display: none;"></div>
-
-		</div>		  
 		<div id="insite_links">
 			<div id="nonmember" class="insite_login">
 				<ul>
@@ -302,7 +350,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 						var user_run_mode = '';
 						document.write(' <li><a href="http://www.sacbee.com/reg-bin/tint.cgi?mode=edit">' + account_user_name + '</a></li>');
 					</script>
-					<li><a href="http://www.sacbee.com/reg-bin/tint.cgi?mode=logout">Logout</a></li>
+					<li><a id="pluckLogOut" href="http://www.sacbee.com/reg-bin/tint.cgi?mode=logout">Logout</a></li>
 				</ul>
 			</div>
 		</div>
@@ -316,7 +364,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 				<li><a href="http://www.sacbee.com/reg-bin/tint.cgi?mode=edit">Manage your sacbee.com account</a></li>
 				<li><a href="https://subscriberservices.mcclatchy.com/sacb/TransactionType.asp">Manage your subscription</a></li>
                 <li><a href="http://www.sacbee.com/account/">Make a payment</a></li>
-				<li><a href="http://www.sacbee.com/vipmember/">VIP Club</a></li>
+				<li><a href="http://www.sacbee.com/beebuzzpoints/">BeeBuzzPoints Reader Rewards</a></li>
 				<li><a href="http://guide.sacbee.com/105/story/21.html">Order reprints</a></li>
 				<li><a href="http://www.sacbee.com/contact/">Contact us</a></li>
 			</ul>
@@ -329,6 +377,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 				<li><a href="http://www.sacbee.com/sbmobile/">Mobile</a></li>
 				<li><a href="http://www.sacbee.com/e-edition/">e-Edition</a></li>
 				<li><a href="http://www.sacbee.com/kindle/">Kindle</a></li>
+        <li><a href="http://ebookstore.sony.com/periodical/_/R-400000000000000255675">Sony eReader</a></li>
 				<li><a href="http://www.sacbee.com/109/story/7178.html">Archives</a></li>
 				<li><a href="http://www.sacbee.com/contact/">Contact us</a></li>
 			</ul>
@@ -368,7 +417,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 
 
-       	 
+       	  
 <!-- <script type="text/javascript" src="http://media.sacbee.com/static/scripts/toolTips.js"></script> -->
 <div id="main-nav">
   <ul>
@@ -376,35 +425,35 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
       <ul class="subnav subnav2">
         <li class="first"><a href="http://www.sacbee.com/business/">Business</a></li>
         <li><a href="http://www.sacbee.com/local/">Local</a></li>
+        <li><a href="http://www.sacbee.com/medical/">Medical</a></li>
         <li><a href="http://www.sacbee.com/elections/">Elections</a></li>
-        <li><a href="http://www.sacbee.com/environment/">Environment</a></li>
         <li><a href="http://www.sacbee.com/obituaries/">Obituaries</a></li>
-        <li><a href="http://topics.sacbee.com/" onclick="s.tl(this,'o','Lingospot-topnav');">Topics</a></li>
+        <li><a href="http://www.sacbee.com/marijuana/">Marijuana</a></li>
         <li><a href="http://www.sacbee.com/datacenter/">Data&nbsp;Center</a></li>
         <li><a href="http://www.sacbee.com/investigations/">Investigations</a></li>
         <li><a href="http://www.sacbee.com/nationworld/">Nation/World</a></li>
-        <li><a href="http://www.sacbee.com/blogs/#news">Blogs/Columnists</a></li>
-        <li class="last"><a href="http://www.sacbee.com/live/">Live</a></li>
+        <li><a href="http://topics.sacbee.com/" onclick="s.tl(this,'o','Lingospot-topnav');">Topics</a></li>
+        <li class="last"><a href="http://www.sacbee.com/blogs/#news">Blogs/Columnists</a></li>
       </ul>
-      <!--<ul class="subnav sponsor right">
+      <ul class="subnav sponsor right">
         <li>
-          <div class="rsponsorcontainer sponsorsullivan" onclick="window.open('http://www.thesullivanautogroup.com/site')">
+          <div class="rsponsorcontainer sponsortoyota" onclick="window.open('http://www.rosevilletoyota.com')">
             <div class="rsponsorleft"></div>
             <div class="rsponsorcenter">
               <div class="rsponsorby"></div>
-              <div class="rsponsortext">SULLIVAN&nbsp;AUTO&nbsp;GROUP</div>
+              <div class="rsponsortext">ROSEVILLE&nbsp;TOYOTA</div>
             </div>
             <div class="rsponsorright"></div>
           </div>
         </li>
-      </ul> -->
+      </ul>
     </li>
     <li class="" id="nav-capital"><a href="http://www.sacbee.com/capitolandcalifornia"><span>Capitol&nbsp;&amp;&nbsp;California</span></a>
       <ul class="subnav subnav2" style="width: 760px;">
         <li class="first"><a href="http://www.sacbee.com/politics/">State&nbsp;Politics</a></li>
         <li><a href="http://www.sacbee.com/state/">State&nbsp;News</a></li>
-        <li><a href="http://www.sacbee.com/gov2010/">Gov 2010</a></li>
-        <li><a href="http://www.thevoterguide.org/v/sacbee/index.do">Voter Guide</a></li>
+        <li><a href="http://www.sacbee.com/gov2010/">Governor</a></li>
+        <li><a href="http://www.sacbee.com/elections/">Elections</a></li>
         <li><a href="http://www.sacbee.com/budget/">Budget</a></li>
         <li><a href="http://www.sacbee.com/prop8/">Prop&nbsp;8</a></li>
         <li><a href="http://topics.sacbee.com/Arnold%20Schwarzenegger/">Arnold</a></li>
@@ -426,7 +475,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
       </ul>
     </li>
     <li id="nav-business"><a href="http://www.sacbee.com/ourregion"><span>Our&nbsp;Region</span></a>
-      <ul class="subnav subnav2" style="width: 770px;">
+      <ul class="subnav subnav2">
         <li class="first"><a href="http://www.sacbee.com/business">Business</a></li>
         <li><a href="http://www.sacbee.com/realestatenews">Real&nbsp;Estate</a></li>
         <li><a href="http://www.sacbee.com/crime">Crime</a></li>
@@ -439,11 +488,11 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
       </ul>
       <ul class="subnav sponsor right">
         <li>
-          <div class="rsponsorcontainer sponsorhyundai" onclick="window.open('http://www.rosevillehyundai.com/')">
+          <div class="rsponsorcontainer sponsorsullivan" onclick="window.open('http://www.folsomlaketoyota.com')">
             <div class="rsponsorleft"></div>
             <div class="rsponsorcenter">
               <div class="rsponsorby"></div>
-              <div class="rsponsortext">Roseville&nbsp;and&nbsp;Sacramento&nbsp;Hyundai</div>
+              <div class="rsponsortext">FOLSOM LAKE TOYOTA</div>
             </div>
             <div class="rsponsorright"></div>
           </div>
@@ -468,39 +517,39 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                 <li class="last"><a href="#">Economy</a></li>
             </ul>
         </li>
--->
+--> 
     </li>
     <li id="nav-sports"><a href="http://www.sacbee.com/sports/"><span>Sports</span></a>
-      <ul class="subnav subnav2">
+      <ul class="subnav subnav2" style="width: 760px;">
         <li class="first"><a href="http://www.sacbee.com/kings/">Kings/NBA</a></li>
         <li><a href="http://www.sacbee.com/sf49ers/">49ers</a></li>
         <li><a href="http://www.sacbee.com/raiders/">Raiders</a></li>
         <li><a href="http://www.sacbee.com/ufl/">UFL</a></li>
         <li><a href="http://www.sacbee.com/mlb/">A's/Giants</a></li>
-        <li><a href="http://www.sacbee.com/rivercats/">River Cats</a></li>
+        <li><a href="http://www.sacbee.com/rivercats/">River&nbsp;Cats</a></li>
         <li><a href="http://www.sacbee.com/preps/">High&nbsp;Schools</a></li>
         <li><a href="http://www.sacbee.com/collegesports/">Colleges</a></li>
         <li><a href="http://www.sacbee.com/run/">Running</a></li>
         <li><a href="http://www.sacbee.com/golf/">Golf</a></li>
         <li class="last"><a href="http://www.sacbee.com/blogs/#sports">Blogs/Columnists</a></li>
       </ul>
-      <!--<ul class="subnav sponsor right">
+      <ul class="subnav sponsor right">
         <li>
-          <div class="rsponsorcontainer sponsorsullivan" onclick="window.open('http://www.thesullivanautogroup.com/site')">
+          <div class="rsponsorcontainer sponsorsullivan" onclick="window.open('http://www.johnlsullivanchevrolet.com/')">
             <div class="rsponsorleft"></div>
             <div class="rsponsorcenter">
               <div class="rsponsorby"></div>
-              <div class="rsponsortext">Sullivan&nbsp;Auto&nbsp;Group</div>
+              <div class="rsponsortext">JOHN&nbsp;L.&nbsp;SULLIVAN&nbsp;CHEVROLET</div>
             </div>
             <div class="rsponsorright"></div>
           </div>
         </li>
-      </ul> -->
+      </ul>
     </li>
     <li id="nav-livinghere"><a href="http://www.sacbee.com/livinghere"><span>Living&nbsp;Here</span></a>
-      <ul class="subnav subnav2">
+      <ul class="subnav subnav2" style="width: 830px;">
         <li class="first"><a href="http://www.sacbee.com/books">Books&nbsp;&amp;&nbsp;Media</a></li>
-        <li><a href="http://www.sacbee.com/family">Family</a></li>
+        <li><a href="http://www.sacbee.com/sacmomsclub">Moms&nbsp;&amp;&nbsp;Family</a></li>
         <li><a href="http://www.sacbee.com/foodwine">Food&nbsp;&amp;&nbsp;Wine</a></li>
         <li><a href="http://www.sacbee.com/outbound">Outbound</a></li>
         <li><a href="http://www.sacbee.com/home_garden">Home&nbsp;&amp;&nbsp;Garden</a></li>
@@ -523,7 +572,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
       </ul>
     </li>
     <li id="nav-entertainment"><a href="http://www.sacbee.com/entertainment"><span>Entertainment</span></a>
-      <ul class="subnav subnav2">
+      <ul class="subnav subnav2" style="width: 830px;">
         <li class="first"><a href="http://events.sacbee.com">Calendar</a></li>
         <li><a href="http://www.sacbee.com/movienews/">Movies</a></li>
         <li><a href="http://events.sacbee.com/restaurants">Restaurants</a></li>
@@ -534,7 +583,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
         <li><a href="http://www.sacbee.com/music/">Music</a></li>
         <li><a href="http://www.sacbee.com/onstage/">Theater&nbsp;&amp;&nbsp;Art</a></li>
         <li><a href="http://www.sacbee.com/blogs/#features">Blogs/Columnists</a></li>
-        <li class="last"><a href="http://www.sacbee.com/vip/">VIP&nbsp;Club</a></li>
+        <li class="last"><a href="http://www.sacbee.com/beebuzzpoints/">Buzz&nbsp;Points</a></li>
       </ul>
       <ul class="subnav sponsor right" style="display:none">
         <li>
@@ -563,7 +612,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
     </li>
     <li id="nav-cars" class="right"><a href="http://www.sacbee.com/cars"><span>Cars</span></a>
       <ul class="subnav ie6navchangesver6">
-        <li class="first"><a href="http://www.sacbee.com/cars/">Buy/Sell</a></li>
+        <li class="first"><a href="http://www.sacbee.com/sacautoshow/">Auto Show</a></li>
+        <li><a href="http://www.sacbee.com/cars/">Buy/Sell</a></li>
         <li><a href="http://www.cars.com/go/crp/index.jsp;?aff=sacbee">Research</a></li>
         <li><a href="http://www.sacbee.com/easyfindautos/">Easy&nbsp;Find&nbsp;Autos</a></li>
         <li><a href="http://www.cars.com/go/advice/index.jsp;?aff=sacbee">Shopping&nbsp;Advice</a></li>
@@ -583,13 +633,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
             <div style="float: left; position: relative; width: 15px; height: 34px; background-image: url(http://media.sacbee.com/static/img/sponsoredby/lsponsorright.gif);"></div>
           </div>
         </li>
-      </ul> -->
+      </ul> --> 
     </li>
     <li id="nav-jobs" class="right"><a href="http://www.sacbee.com/jobs"><span>Jobs</span></a>
       <ul class="subnav ie6navchangesver2">
         <li class="first"><a href="http://www.sacbee.com/1078">Healthcare/Social&nbsp;Service&nbsp;Careers</a></li>
         <li><a href="http://www.sacbee.com/1079">Training&nbsp;and&nbsp;Education</a></li>
-        <li><a href="http://guide.sacbee.com/112/story/251.html">Career&nbsp;Fairs&nbsp;and&nbsp;Events</a></li>
+        <li><a href="http://www.virtualcareerevent.com/sacbee">Career&nbsp;Fairs&nbsp;and&nbsp;Events</a></li>
         <li><a href="http://www.careerbuilder.com/share/login.aspx?lr=cbmc_sb&amp;siteid=mc_sbmyc_1">Post&nbsp;a&nbsp;Resume</a></li>
         <li><a href="http://www.careerbuilder.com/jobseeker/companies/companysearch.aspx?lr=cbmc_sb&amp;siteid=mc_sbcatg_1">Who's&nbsp;Hiring</a></li>
         <li><a href="http://www.careerbuilder.com/JobPoster/Products/PostJobsInfo.aspx?lr=cbmc_sb">Employer&nbsp;Resources</a></li>
@@ -610,7 +660,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
         <li>
           <div class="ie6leftsponsoredby left" style="display:none" onclick="window.open('http://www.sheahomes.com/find-a-new-home/Sacramento-New-Homes.cfm')">
             <div style="float: left; position: relative; width: 2px; height: 34px; background-image: url(http://media.sacbee.com/static/img/sponsoredby/lsponsorleft.gif);"></div>
-            <div style="float: left; position: relative; height: 34px; padding: 0px 5px 0px 4px; width: 71px;">
+            <div style="float: left; position: relative; height: 34px; padding: 0px 5px 0px 4px; width: 71px;"> 
               <!--  <img src="http://media.sacbee.com/static/img/sponsoredby/sponsorspacer.gif"/><br/> -->
               <div style="position: absolute; left: 2px; top: 7px; width: 68px; height: 5px; background-image: url(http://media.sacbee.com/static/img/sponsoredby/sponsoredby.gif); font-size: 4px;"></div>
               <div style="position: absolute; top: 14px; left: 4px; font-face: arial; font-size: 10px; text-transform: uppercase;">Shea&nbsp;Homes</div>
@@ -628,26 +678,22 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
         <li class="last"><a href="http://www.sacbee.com/placead/">Place&nbsp;a&nbsp;classified&nbsp;ad</a></li>
       </ul>
     </li>
-    <li id="nav-shopping" class="last right"><a href="http://www.sacbee.com/shopping"><span id="marketplace">Shopping</span></a>
+    <li id="nav-shopping" class="last right"><a href="http://findnsave.sacbee.com/"><span id="marketplace">Find&nbsp;n&nbsp;Save</span></a>
       <ul class="subnav ie6navchangesver5">
-        <li class="first"><a href="http://shopping.sacbee.com/ROP/Advertisers.aspx">View&nbsp;Bee&nbsp;Advertisers</a></li>
-        <li><a href="http://www.sacbee.com/coupons">Coupons</a></li>
+        <li class="first"><a href="http://findnsave.sacbee.com/Daily-Deal">Daily&nbsp;Deal</a></li>
+        <li><a href="http://findnsave.sacbee.com/Coupons">Local&nbsp;Coupons</a></li>
+        <li><a href="http://findnsave.sacbee.com/Local-Ads">Local&nbsp;Ads</a></li>
         <li><a href="http://www.sacbee.com/golfcard">Golf&nbsp;Card</a></li>
         <li><a href="http://localsearch.sacbee.com/sp?aff=1160&amp;skin">Business&nbsp;Directory</a></li>
         <li class="last"><a href="http://www.sacbee.com/circulars">Weekly&nbsp;Inserts&nbsp;&amp;&nbsp;Gift&nbsp;Cards</a></li>
       </ul>
-      <!--
-            <ul class="subnav">
-                <li class="first last"><a href="http://www.sacbee.com/advertise">Place&nbsp;your&nbsp;ad&nbsp;with&nbsp;The&nbsp;Sacramento&nbsp;Bee</a></li>
-            </ul>
-         -->
     </li>
   </ul>
 </div>
 <script type="text/javascript">
 	enable_navbar();
-</script>
-<!-- /#main-nav -->
+</script> 
+<!-- /#main-nav --> 
  
 
         <div id="headerdate">
@@ -690,8 +736,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
        	<div id="weathertraffic">
 	<a href="http://www.sacbee.com/weather/" class="weather">Weather</a> | <a href="http://www.sacbee.com/traffic/" class="traffic">Traffic</a>
-	<img src="http://media.sacbee.com/static/img/weather-sunny.gif" alt="Clear">
-	<div class="temperature">86° F</div>
+	<img src="http://media.sacbee.com/static/img/weather-fog.gif" alt="fog">
+	<div class="temperature">47° F</div>
 </div><!-- /#weathertraffic -->
 
 
@@ -703,6 +749,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 
 	 
+
+
 <div class="static">
 <h1>Privacy Policy</h1>
 <h5>Effective Date: 10-19-09</h5>
@@ -734,7 +782,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 <p>We use services provided by Yahoo! to display advertising on sacbee.com, and we may use cookies in conjunction with displaying those ads.  Please refer to Yahoo!'s privacy policy at <a href="http://privacy.yahoo.com/">http://privacy.yahoo.com/</a> for further information concerning Yahoo!'s use of cookies.</p>
 
-<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy-policy/tacoda">http://www.platform-a.com/privacy-policy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
+<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy/tacoda">http://www.platform-a.com/privacy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
 
 <p>In addition, advertisers may elect to use other advertising companies to serve their ads on sacbee.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.</p>
 
@@ -811,6 +859,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 <h3>Contact Information</h3>
 <p>If you have any questions or comments about our policies, we may be reached at sacbee.com, 2100 Q St., Sacramento, California 95816, at 916-321-1000 or at <a href="mailto:feedback@sacbee.com">feedback@sacbee.com</a>.</p>
 </div>
+
+
  
 
             
@@ -878,6 +928,146 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
 
 <!-- begin above tabs element -->
 
+<div class="railunit">
+	<!-- Social Media Widget -->
+<style type="text/css">
+#followUs {width:300px;position:relative;}
+#FUmessage {margin-bottom:8px;}
+.FUpadRt {margin-right:15px;}
+.FUtool {display:none;color:grey;}
+.FUdefault {color:grey;}
+#followUs a {height:50px!IMPORTANT;}
+#followUs a img {border:none;}
+#daBlogs {
+position:absolute;
+width:180px;
+height:220px;
+border:solid 1px grey;
+overflow:auto;
+background-color:#eee;
+left:114px;
+top:65px;
+z-index:1000;
+display:none;
+
+}
+#daBlogs a {
+display:block;
+padding-left:5px;
+padding-right:5px;
+height:auto!important;
+}
+#daBlogs a:hover {
+background-color:#F1EAD7;
+}
+
+#daFB {
+position:absolute;
+width:180px;
+height:160px;
+border:solid 1px grey;
+overflow:auto;
+background-color:#eee;
+left:46px;
+top:65px;
+z-index:1000;
+display:none;
+
+}
+#daFB a {
+display:block;
+padding-left:5px;
+padding-right:5px;
+height:auto!important;
+}
+#daFB a:hover {
+background-color:#F1EAD7;
+}
+</style>
+
+<div id="followUs">
+<div id="FUmessage"><span><strong>FOLLOW US</strong></span>
+<span class="FUdefault" id="FUm"> | Get more from sacbee.com</span>
+
+<span class="FUtool" id="FU1"> | Follow us on Twitter</span>
+
+<span class="FUtool" id="FU2"> | Become a fan on Facebook</span>
+<span class="FUtool" id="FU3"> | Get news in your inbox</span>
+<span class="FUtool" id="FU4"> | View our mobile versions</span>
+<span class="FUtool" id="FU5"> | e-edition: Print edition online</span>
+<span class="FUtool" id="FU6"> | What our bloggers are saying</span>
+
+</div>
+<a href="http://www.sacbee.com/twitter"><img src="http://www.sacbee.com/static/social_widget/tw.gif" id="FU1a" class="FUpadRt"></a><a href="http://www.sacbee.com/facebook" onmouseover="javascript:document.getElementById('daFB').style.display='block'" onmouseout="javascript:document.getElementById('daFB').style.display='none'"><img src="http://www.sacbee.com/static/social_widget/fb.gif" id="FU2a" class="FUpadRt"></a><a href="http://www.sacbee.com/email"><img src="http://www.sacbee.com/static/social_widget/nl.gif" id="FU3a" class="FUpadRt"></a><a href="http://www.sacbee.com/sbmobile/"><img src="http://www.sacbee.com/static/social_widget/mobile.gif" id="FU4a" class="FUpadRt"></a><a href="http://www.sacbee.com/e-edition/"><img src="http://www.sacbee.com/static/social_widget/new_e.gif" id="FU5a" class="FUpadRt"></a><a href="http://www.sacbee.com/blogs/" onmouseover="javascript:document.getElementById('daBlogs').style.display='block'" onmouseout="javascript:document.getElementById('daBlogs').style.display='none'"><img src="http://www.sacbee.com/static/social_widget/bg.gif" id="FU6a"></a>
+
+<div id="daBlogs" onmouseover="javascript:document.getElementById('daBlogs').style.display='block'" onmouseout="javascript:document.getElementById('daBlogs').style.display='none'">
+<a href="http://www.sacbee.com/blogs/">Sacbee Blogs Home</a>
+<a href="http://blogs.sacbee.com/ticket/">21Q Entertainment</a>
+<a href="http://blogs.sacbee.com/49ers/">49ers Blog</a>
+<a href="http://blogs.sacbee.com/dining/">Appetizers</a>
+<a href="http://blogs.sacbee.com/capitolalertlatest/">Capitol Alert</a>
+<a href="http://blogs.sacbee.com/photos/">The Frame</a>
+<a href="http://blogs.sacbee.com/sports/kings/">Kings Blog</a>
+<a href="http://blogs.sacbee.com/preps/">Prep Sports Blog</a>
+<a href="http://blogs.sacbee.com/the-public-eye/">The Public Eye</a>
+<a href="http://blogs.sacbee.com/crime/">Sacto 9-1-1</a>
+<a href="http://blogs.sacbee.com/shop_cheap/">Shop Cheap</a>
+<a href="http://blogs.sacbee.com/the_state_worker/">The State Worker</a>
+<a href="http://blogs.sacbee.com/the_swarm/">The Swarm</a>
+<a href="http://blogs.sacbee.com/weed-wars/">Weed Wars</a>
+<a href="http://blogs.sacbee.com/bee-in-the-community/">Bee in the Community</a>
+</div>
+
+
+<div id="daFB" onmouseover="javascript:document.getElementById('daFB').style.display='block'" onmouseout="javascript:document.getElementById('daFB').style.display='none'">
+<b>Bee Facebook Pages:</b><br>
+<a href="http://www.facebook.com/sacramentobee" target="_blank">Sacramento Bee</a>
+<a href="http://www.facebook.com/pages/Capitol-Alert/447030270486" target="_blank">Capitol Alert</a>
+<a href="http://www.facebook.com/pages/Sacramento-Kings-Corner-SacBee/163267787852" target="_blank">Kings Corner</a>
+<a href="http://www.facebook.com/pages/Sacramento-Connect/281064267348" target="_blank">Sacramento Connect</a>
+<a href="http://www.facebook.com/pages/SacMomsClub/179655798025" target="_blank">Sac Moms Club</a>
+<a href="http://www.facebook.com/pages/Sac-Paws/188377602678" target="_blank">Sac Paws</a>
+<a href="http://www.facebook.com/pages/Sacramento-Bee-High-School-Sports-SacBee/141392222567239" target="_blank">Sacbee Preps</a>
+<a href="http://www.facebook.com/marcosbreton" target="_blank">Marcos Breton</a>
+<a href="http://www.facebook.com/sacbeeeditboard" target="_blank">Bee Editorial Board</a>
+<a href="http://www.facebook.com/pages/Sacramento-CA/BeeBuzzPoints/165049646851055" target="_blank">Bee Buzz Points</a>
+</div>
+</div>
+
+<script type="text/javascript">
+for (i=1; i<7; i++) {
+	var q = document.getElementById('followUs').children[i].children[0];
+	if(q.addEventListener) {
+		q.addEventListener('mouseover', FUshow, false);
+		q.addEventListener('mouseout', FUhide, false);
+	} else if (q.attachEvent) {
+		q.attachEvent('onmouseover', FUshow);
+		q.attachEvent('onmouseout', FUhide);
+	}
+}
+function FUshow(event) {
+	document.getElementById('FUm').style.display = 'none';
+	try {
+		q = this.id.substring(0,3);
+	} catch(err) {}
+	try {
+		q = event.srcElement.id.substring(0,3);
+	} catch(err) {}
+	document.getElementById(q).style.display = 'inline';
+}
+function FUhide() {
+	try {
+		q = this.id.substring(0,3);
+	} catch(err) {}
+	try {
+		q = event.srcElement.id.substring(0,3);
+	} catch(err) {}
+	document.getElementById(q).style.display = 'none';
+	document.getElementById('FUm').style.display = 'inline';
+}
+</script></div>
+
+
 	        
 	<!-- end above tabs element -->
 
@@ -895,25 +1085,25 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
         <div id="viewed" class="tabbody clearfix ui-tabs-panel">
             <ul class="stories">
                 
-<li><a href="http://www.sacbee.com/2010/06/23/2842017/sacramento-city-council-debates.html#storylink=omni_popular">Council votes 7-2 against latest strong mayor plan</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277239/sacramento-school-districts-consider.html#storylink=omni_popular">Sacramento school districts consider selling naming rights to campus properties</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841929/big-risks-rewards-in-home-flipping.html#storylink=omni_popular">Big risks, rewards in home 'flipping'</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277332/singletary-going-with-troy-smith.html#storylink=omni_popular">Singletary going with Troy Smith</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2843112/bicyclist-dies-after-collapsing.html#storylink=omni_popular">Bicyclist dies after collapsing on Folsom trail</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277224/failed-choral-flash-mob-may-not.html#storylink=omni_popular">Failed choral 'flash mob' may not have qualified for term</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841998/dog-park-punching-case-set-for.html#storylink=omni_popular">Dog park punching case set for July 20 arraignment</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277334/westphal-punishes-cousins-for.html#storylink=omni_popular">Westphal punishes Cousins for 'immature' gesture during game</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841937/driver-had-mix-of-drugs-before.html#storylink=omni_popular">Driver had mix of drugs before crash, trial told</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277106/the-state-worker-layoffs-contracts.html#storylink=omni_popular">The State Worker: Layoffs, contracts and furlough fights</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841728/kings-lawsuit.html#storylink=omni_popular">Sacramento Kings executive pulled into developer husband's legal woes</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277335/leading-off-adelman-decison-looks.html#storylink=omni_popular">Leading Off: Adelman decison looks pretty bad now</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841843/ailene-voisin-petrie-has-made.html#storylink=omni_popular">Ailene Voisin: Petrie has made some huge draft picks for Kings</a></li>
+<li><a href="http://www.sacbee.com/2010/12/21/3272408/choir-flash-mob-packs-mall-forces.html#storylink=omni_popular">Westfield Galleria open for shopping day after evacuation</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841930/copper-thieves-hit-hard-in-sacramento.html#storylink=omni_popular">Copper thieves hit hard in Sacramento area</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277225/acquaintance-rape-cases-among.html#storylink=omni_popular">Acquaintance rape cases among   hardest to resolve</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841606/state-must-act-to-cap-vacation.html#storylink=omni_popular">Editorial: State must act to cap vacation payouts</a></li>
+<li><a href="http://www.sacbee.com/2010/12/23/3277226/hmong-students-in-sacramento-learn.html#storylink=omni_popular">Hmong students in Sacramento learn of culture's Chinese roots</a></li>
 
-<li><a href="http://www.sacbee.com/2010/06/23/2841725/marcos-breton-how-sacramento-came.html#storylink=omni_popular">Marcos Breton: How Sacramento came to boycott Arizona</a></li>
+<li><a href="http://www.sacbee.com/2010/12/22/3274807/big-names-emerge-in-push-for-new.html#storylink=omni_popular">Big names emerge in push for new Sacramento arena</a></li>
 
 
             </ul>
@@ -1108,386 +1298,132 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
 <div id="cars" class="railunit">
 	
 <!-- START cars.com widget --> 
-<div class="beeWidget" id="cars" style="width:100%; background-color: #efefef;">
-	<style type="text/css">
-	span.widget1 {
-	margin: 0px;
-	font-family:Arial,verdana,sans-serif; 
-	font-size:18pt;
-	font-weight:bold;
-	color:#3F25AE
-	}
-	span.widget2 {
-	margin: 0px;
-	font-family:Arial,verdana,sans-serif; 
-	font-size:13pt;
-	font-weight:bold;
-	color:#EB5900
-	}
-	span.widget3 {
-	margin: 0px;
-	font-family:Arial,verdana,sans-serif; 
-	font-size:8pt;
-	font-weight:bold;
-	color:Black
-	}
-	span.widget4 {
-	margin: 0px;
-	font-family:Arial,verdana,sans-serif; 
-	font-size:9.25pt;
-	color:Black
-	}
-	select.widget {
-	margin: 0px;
-	font-size: 13px;
-	}
-	select.widgetmm {
-	margin: 0px;
-	font-size: 13px;
-	width: 100%;
-	}
-	input.text.widget {
-	margin: 0px;
-	font-size: 13px;
-	}
-	a.widget { 
-	font-family:Arial,verdana,sans-serif;
-	font-size:8pt;
-	font-weight:bold;
-	}
-	a.widget:active { color: #3F25AE; text-decoration: underline; }
-	a.widget:visited { color: #3F25AE; text-decoration: underline; }
-	a.widget:hover { text-decoration: none; }
-
-	a.widgetsm { 
-	font-family:Arial,verdana,sans-serif;
-	font-size:8pt;
-	}
-	a.widgetsm:active { color: #3F25AE; text-decoration: underline; }
-	a.widgetsm:visited { color: #3F25AE; text-decoration: underline; }
-	a.widgetsm:hover { text-decoration: none; }
-	a.widgetlg { 
-	font-family:Arial,verdana,sans-serif;
-	font-size:7.5pt;
-	font-weight:bold;
-	}
-	a.widgetlg:active { color: #3F25AE; text-decoration: underline; }
-	a.widgetlg:visited { color: #3F25AE; text-decoration: underline; }
-	a.widgetlg:hover { text-decoration: none; }
-	ul.widget{
-	list-style-position: inside;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 10px;
-	}
-	li.widget{
-	margin-top: 0px;
-	margin-bottom: 0px;
-	list-style:square;
-	color:#EB5900;
-	}
-	table.widget{
-	white-space: no-wrap;
-	}
-	.BttnPill { display: inline; white-space: no-wrap;}
-	.BttnPill a { text-decoration: none; width: auto; }
-	.BttnPill a:link, .BttnPill a:active, .BttnPill a:visited { color: #fff; text-decoration: none; }
-	.BttnPill a:hover { color: #fc0; cursor: pointer; text-decoration: none; }
-	.BttnPill .bttntxt a{ padding-left: 20px; }
-	/* ? */.BttnPill .bttntxtalt a{ padding-left: 10px; }
-	.bttntxt{ 	float: left; font-family: Verdana, Arial, sans-serif; font-size: 10px; font-weight: bold; padding: 0 2px 1px 0; height: 17px; line-height: 16px; }
-	/* ? */	.bttntxtalt { background: transparent url(http://www.cars.com/images/long_back_orng_no_arrow.gif) no-repeat left top; } 
-	.bttntxt { background: transparent url(http://www.cars.com/images/long_back_orng.gif) no-repeat left top; } 
-	.bttncap { float: left; width: 8px; height: 17px; padding: 0;} 
-	.bttncap { background: transparent url(http://www.cars.com/images/bttncapOrngR.gif) no-repeat top left; }
-	</style>
-
+<div class="beeWidget" id="cars_widget" style="width:100%; background-color: #efefef;">
+	<link rel="stylesheet" href="http://media.sacbee.com/static/styles/cars/cars_widget.css">
 	<table width="100%" border="0">
-	<tbody><tr>
-
-		<td align="left" valign="top">
-		<span class="widget1">Buy</span>
-		</td>
-		<td>
-
-		<a href="http://www.sacbee.com/cars"><img src="http://www.cars.com/test/widget/Custom/carslogo71x34.jpg" border="0" alt="" align="right"></a></td>
-
-	</tr>
+		<tbody><tr>
+			<td align="left" valign="top">
+				<span class="widget1">Buy</span>
+			</td>
+			<td>
+			<a href="http://www.sacbee.com/cars"><img src="http://www.cars.com/test/widget/Custom/carslogo71x34.jpg" border="0" alt="" align="right"></a></td>
+		</tr>
 	</tbody></table>
-	
-	
-<!-- ********************************************* USED widget code ************************************ -->
-<div style="background-color: #f9f9f9; padding: 5px; border: 3px solid #efefef; border-top: none;">
+	<!-- USED widget code  -->
+	<div style="background-color: #f9f9f9; padding: 5px; border: 3px solid #efefef; border-top: none;">
 		<script language="javascript" type="text/javascript" src="http://www.cars.com/includes/js/used-car-widget_driver.js"></script><!-- pulls in our model table.  cars.com hosts the script to ensure its accuracy -->
-		<script language="javascript" type="text/javascript" src="http://www.cars.com/includes/js/makemodels-used.js">
-		</script>
-			
+		<script language="javascript" type="text/javascript" src="http://www.cars.com/includes/js/makemodels-used.js"></script>
 		<span class="widget2">Used Cars</span>
-
 		<br>
 		<span class="widget4">Dealer and private-party ads</span>
-<form name="QuickForm" action="http://www.cars.com/go/search/search.jsp" method="get" target="_top">
-
-<!--USED CAR SEARCH INPUTS -->
-<input name="aff" type="hidden" value="sacbee">
-
-<!-- variables for application, leave in place -->
-<input type="hidden" name="tracktype" value="usedcc">
-<input type="hidden" name="searchType" value="38">
-<input name="srv" type="hidden" value="adlocator">
-<input name="act" type="hidden" value="search">
-<input type="hidden" name="sb" value="ftr">
-<input name="flt" type="hidden" value="zr,n_ms,used">
-<input name="so" type="hidden" value="desc">
-
-<input type="hidden" name="referrer" value="richmedia">
-
-<!-- *************************************** USED-CAR SEARCH SELECT ********************************** -->
-
-
-<span class="widget3">Make:</span>
-<br>
-<select name="mknm" id="usedmk" class="widgetmm" onfocus="nMakePrevSelected=mknm.selectedIndex;" onchange="PopulateClient(this,nMakePrevSelected);">
-<option value="">===============
-</option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option>
-</option></select>
-<br>	 
-
-<span class="widget3">Model:</span>
-
-<br>
-<select name="mdnm" id="usedmd" class="widgetmm" onchange="validateModel();">
-<option value="">===============
-</option><option></option><option></option><option></option><option></option><option></option><option></option><option></option><option>
-</option></select>
-
-
-<br>
-<span class="widget3">Price Range:</span>
-<br>
-
-<select name="minp" class="widget">
-<option value="0">$0</option>
-<option value="1000">$1,000</option>
-<option value="2000">$2,000</option>
-<option value="3000">$3,000</option>
-<option value="4000">$4,000</option>
-
-<option value="5000">$5,000</option>
-<option value="6000">$6,000</option>
-<option value="7000">$7,000</option>
-<option value="8000">$8,000</option>
-<option value="9000">$9,000</option>
-<option value="10000">$10,000</option>
-
-<option value="11000">$11,000</option>
-<option value="12000">$12,000</option>
-<option value="13000">$13,000</option>
-<option value="14000">$14,000</option>
-<option value="15000">$15,000</option>
-<option value="16000">$16,000</option>
-
-<option value="17000">$17,000</option>
-<option value="18000">$18,000</option>
-<option value="19000">$19,000</option>
-<option value="20000">$20,000</option>
-<option value="21000">$21,000</option>
-<option value="22000">$22,000</option>
-
-<option value="23000">$23,000</option>
-<option value="24000">$24,000</option>
-<option value="25000">$25,000</option>
-<option value="30000">$30,000</option>
-<option value="35000">$35,000</option>
-<option value="40000">$40,000</option>
-
-<option value="45000">$45,000</option>
-<option value="50000">$50,000</option>
-<option value="75000">$75,000</option>
-<option value="99000">$99,000</option>
-</select>
-
-<span class="widget4">  to   </span>
-
-
-<select name="maxp" class="widget">
-<option value="">No Max</option>
-<option value="1000">$1,000</option>
-<option value="2000">$2,000</option>
-<option value="3000">$3,000</option>
-<option value="4000">$4,000</option>
-
-<option value="5000">$5,000</option>
-<option value="6000">$6,000</option>
-<option value="7000">$7,000</option>
-<option value="8000">$8,000</option>
-<option value="9000">$9,000</option>
-<option value="10000">$10,000</option>
-
-<option value="11000">$11,000</option>
-<option value="12000">$12,000</option>
-<option value="13000">$13,000</option>
-<option value="14000">$14,000</option>
-<option value="15000">$15,000</option>
-<option value="16000">$16,000</option>
-
-<option value="17000">$17,000</option>
-<option value="18000">$18,000</option>
-<option value="19000">$19,000</option>
-<option value="20000">$20,000</option>
-<option value="21000">$21,000</option>
-<option value="22000">$22,000</option>
-
-<option value="23000">$23,000</option>
-<option value="24000">$24,000</option>
-<option value="25000">$25,000</option>
-<option value="30000">$30,000</option>
-<option value="35000">$35,000</option>
-<option value="40000">$40,000</option>
-
-<option value="45000">$45,000</option>
-<option value="50000">$50,000</option>
-<option value="75000">$75,000</option>
-<option value="99000">$99,000</option>
-<option value="100000000">$99,000+</option>
-</select>
-
-<br>
-<span class="widget3">Search within:</span>
-<br>      
-<select name="rd" class="widget">
-<option value="10">10
-</option><option value="20">20
-</option><option value="30" selected="">30
-</option><option value="40">40
-</option><option value="50">50
-</option><option value="75">75
-</option><option value="100">100
-</option><option value="250">250
-</option><option value="500">500
-</option><option value="10000">All
-</option></select>
-
-<span class="widget4"> miles of ZIP </span>
-<input type="text" size="5" maxlength="5" name="zc" class="widget" value="95814">
-<span class="widget3"><br><br></span>
-
-<div class="BttnPill"><span class="bttntxt"><a href="javascript:submitUsedForm();">Search used</a></span><span class="bttncap"></span></div>
-
-<p align="left" style="clear:left;"> 
-<a href="http://www.cars.com/go/search/advanced_search.jsp?tracktype=usedcc&amp;aff=national" class="widget"> 
-Advanced Search</a>
-
-<span> | </span>
-<a href="http://www.cars.com/go/search/advanced_search.jsp?tracktype=usedcc&amp;type=antique&amp;aff=national" class="widget">1982 &amp; Older</a></p>
-
-</form>
-
-<script language="javascript" type="text/javascript">
-initDocument();
-</script>
-	
-</div>	
+		<form name="QuickForm" action="http://www.cars.com/go/search/search.jsp" method="get" target="_top">
+			<!--USED CAR SEARCH INPUTS -->
+			<input name="aff" type="hidden" value="sacbee">
+			<!-- variables for application, leave in place -->
+			<input type="hidden" name="tracktype" value="usedcc">
+			<input type="hidden" name="searchType" value="38">
+			<input name="srv" type="hidden" value="adlocator">
+			<input name="act" type="hidden" value="search">
+			<input type="hidden" name="sb" value="ftr">
+			<input name="flt" type="hidden" value="zr,n_ms,used">
+			<input name="so" type="hidden" value="desc">
+			<input type="hidden" name="referrer" value="richmedia">
+			<!-- USED-CAR SEARCH SELECT -->
+			<span class="widget3">Make:</span>
+			<br>
+			<select name="mknm" id="usedmk" class="widgetmm" onfocus="nMakePrevSelected=mknm.selectedIndex;" onchange="PopulateClient(this,nMakePrevSelected);">
+				<option value="">===============</option>
+			</select>
+			<br>	 
+			<span class="widget3">Model:</span>
+			<br>
+			<select name="mdnm" id="usedmd" class="widgetmm" onchange="validateModel();">
+				<option value="">===============</option>
+			</select>
+			<br>
+			<span class="widget3">Price Range:</span>
+			<br>
+			<select name="minp" class="widget">
+				<option value="0">$0</option><option value="1000">$1,000</option><option value="2000">$2,000</option><option value="3000">$3,000</option><option value="4000">$4,000</option><option value="5000">$5,000</option><option value="6000">$6,000</option><option value="7000">$7,000</option><option value="8000">$8,000</option><option value="9000">$9,000</option><option value="10000">$10,000</option>
+				<option value="11000">$11,000</option><option value="12000">$12,000</option><option value="13000">$13,000</option><option value="14000">$14,000</option><option value="15000">$15,000</option><option value="16000">$16,000</option><option value="17000">$17,000</option><option value="18000">$18,000</option><option value="19000">$19,000</option><option value="20000">$20,000</option>
+				<option value="21000">$21,000</option><option value="22000">$22,000</option><option value="23000">$23,000</option><option value="24000">$24,000</option><option value="25000">$25,000</option>
+				<option value="30000">$30,000</option><option value="35000">$35,000</option><option value="40000">$40,000</option><option value="45000">$45,000</option>
+				<option value="50000">$50,000</option><option value="75000">$75,000</option><option value="99000">$99,000</option>
+			</select>
+			<span class="widget4">  to   </span>
+			<select name="maxp" class="widget">
+				<option value="">No Max</option>
+				<option value="1000">$1,000</option><option value="2000">$2,000</option><option value="3000">$3,000</option><option value="4000">$4,000</option><option value="5000">$5,000</option><option value="6000">$6,000</option><option value="7000">$7,000</option><option value="8000">$8,000</option><option value="9000">$9,000</option><option value="10000">$10,000</option>
+				<option value="11000">$11,000</option><option value="12000">$12,000</option><option value="13000">$13,000</option><option value="14000">$14,000</option><option value="15000">$15,000</option><option value="16000">$16,000</option><option value="17000">$17,000</option><option value="18000">$18,000</option><option value="19000">$19,000</option><option value="20000">$20,000</option>
+				<option value="21000">$21,000</option><option value="22000">$22,000</option><option value="23000">$23,000</option><option value="24000">$24,000</option><option value="25000">$25,000</option>
+				<option value="30000">$30,000</option><option value="35000">$35,000</option><option value="40000">$40,000</option>
+				<option value="45000">$45,000</option><option value="50000">$50,000</option><option value="75000">$75,000</option><option value="99000">$99,000</option>
+				<option value="100000000">$99,000+</option>
+			</select>
+			<br>
+			<span class="widget3">Search within:</span>
+			<br>      
+			<select name="rd" class="widget">
+				<option value="10">10</option><option value="20">20</option><option value="30" selected="">30</option><option value="40">40</option><option value="50">50</option><option value="75">75</option><option value="100">100</option><option value="250">250</option><option value="500">500</option><option value="10000">All</option>
+			</select>
+			<span class="widget4"> miles of ZIP </span>
+			<input type="text" size="5" maxlength="5" name="zc" class="widget" value="95814">
+			<span class="widget3"><br><br></span>
+			<div class="BttnPill"><span class="bttntxt"><a href="javascript:submitUsedForm();">Search used</a></span><span class="bttncap"></span></div>
+			<p align="left" style="clear:left;"> 
+			<a href="http://www.cars.com/go/search/advanced_search.jsp?tracktype=usedcc&amp;aff=national" class="widget"> 
+			Advanced Search</a>
+			<span> | </span>
+			<a href="http://www.cars.com/go/search/advanced_search.jsp?tracktype=usedcc&amp;type=antique&amp;aff=national" class="widget">1982 &amp; Older</a></p>
+		</form>
+		<script language="javascript" type="text/javascript">
+		initDocument();
+		</script>
+	</div>	
 </div>
 <!-- End of cars.com widget -->
-
-<!-- Begin Marketplace widget -->
-<div id="mktplace-widget">
-  <style type="text/css">
-    #mktplace-widget { width: 298px; height: 300px; position: relative; margin: 0; padding: 0; font-family: Verdana, Geneva, Helvetica, sans-serif; border: 1px solid #bbb; }
-    #mktplace-widget a { color: #024a82; }
-    #mktplace-widget-title { height: 24px; font-family: Verdana, Geneva, Helvetica, sans-serif; font-size: 14px; text-transform: uppercase; color: #053e5c; background: url(/static/img/widgets-title-bg.png) repeat-x; padding-left: 8px; padding-top: 0px; }
-    #mktplace-widget-title a { text-decoration: none; }
-    #mktplace-widget-title a:hover { border-bottom: 1px solid #ccc; }
-    #mktplace-widget-fcategories { border-bottom: 3px solid #eee; height: 75px; }
-    #mktplace-widget-fcategories h3 { position: absolute; top: 38px; left: 10px; }
-    #mktplace-widget-fcategories a { font-size: 12px; font-weight: bold; text-decoration: none; position: absolute; }
-    #mktplace-widget-fcategories a:hover { border-bottom: 1px solid #ccc; }
-    #mktplace-widget #fcatA { top: 55px; left: 12px; }
-    #mktplace-widget #fcatB { top: 55px; left: 82px; }
-    #mktplace-widget #fcatC { bottom: 210px; left: 42px; }
-    #mktplace-widget #fcatD { bottom: 210px; left: 142px; }
-    #mktplace-widget #fcatE { bottom: 210px; left: 222px; font-weight: normal; font-size: 10px; background: url(/static/img/mktplace-rarrow.png) no-repeat right center; padding-right: 8px; padding-bottom: 1px; }
-    #mktplace-widget a#fcatC:hover, #mktplace-widget a#fcatD:hover, #mktplace-widget a#fcatE:hover { bottom: 209px; }
-    #mktplace-widget label, #mktplace-widget-fcategories h3 { font-size: 10px; color: #666; font-weight: bold; display: block; }
-    #mktplace-keywords { position: absolute; width: 280px; height: 42px; top: 114px; left: 10px; }
-    #mktplace-keyword-input { width: 270px; height: 24px; font-size: 18px; border: 1px solid #ccc; background-color: #f9f9f9; }
-    #mktplace-category { position: absolute; width: 170px; height: 42px; top: 164px; left: 10px; }
-    #mktplace-category-input { width: 170px; font-color: #444; }
-    #mktplace-radius { position: absolute; width: 130px; height: 42px; top: 164px; left: 190px; }
-    #mktplace-search-button { position: absolute; width: 108px; height: 32px; top: 221px; left: 11px; border: none; background: url(/static/img/mktplace-search-button.png) no-repeat; cursor: pointer; }
-    #mktplace-adv-search { position: absolute; top: 226px; left: 140px; font-size: 11px; }
-    #mktplace-credits { position: absolute; height: 22px; line-height: 22px; bottom: 0px; left: 0px; right: 0px; width: auto; font-size: 10px;  text-align: right; padding-right: 10px; text-transform: lowercase; color: #999; }
-    #mktplace-credits a { text-decoration: none;  }
-    #mktplace-credits a:hover { border-bottom: 1px solid #999; }
-  </style>
-  <h4 id="mktplace-widget-title"><a href="http://localsearch.sacbee.com/sp?aff=1160&amp;skin">SacBee Marketplace</a></h4>
-  <div class="widget-body">
-    <div id="mktplace-widget-fcategories">
-      <h3>Featured Categories</h3>
-      <a id="fcatA" href="http://localsearch.sacbee.com/sp?aff=1161&amp;catId=11180000&amp;skin=100">Legal</a>
-      <a id="fcatB" href="http://localsearch.sacbee.com/sp?aff=1161&amp;catId=12030100&amp;skin=100">Worship</a>
-      <a id="fcatC" href="http://localsearch.sacbee.com/sp?aff=1161&amp;catId=14000000&amp;skin=100">Education</a>
-      <a id="fcatD" href="http://localsearch.sacbee.com/sp?aff=1161&amp;catId=18000000&amp;skin=100">Health</a>
-      <a id="fcatE" href="http://localsearch.sacbee.com/sp?aff=1160&amp;skin">View all</a>
-    </div>
-    <form action="http://sacbee.planetdiscover.com/sp" method="get">
-      <div id="mktplace-keywords">
-        <input type="hidden" name="aff" value="9109"><label for="keywords">Keywords:</label>
-        <input id="mktplace-keyword-input" type="text" name="keywords" value="" size="15">
-      </div>
-      <div id="mktplace-category">
-        <label for="catId">Category:</label>
-        <select name="catId" id="mktplace-category-input">
-          <option value="Category">Select Category:</option>
-          <option value="">All Categories</option>
-          <option value="10000000">Agriculture</option>
-          <option value="12010000">Arts &amp; Entertainment</option>
-          <option value="21000000">Autos &amp; Vehicles</option>
-          <option value="11000000">Business Services</option>
-          <option value="12000000">Community</option>
-          <option value="13000000">Construction &amp; Materials</option>
-          <option value="99887766">Cozi</option>
-          <option value="14000000">Education</option>
-          <option value="15000000">Finance</option>
-          <option value="16000000">Food &amp; Dining</option>
-          <option value="17000000">Government</option>
-          <option value="18000000">Health &amp; Medical</option>
-          <option value="20000000">Industry &amp; Manufacturing</option>
-          <option value="22000000">Personal Services</option>
-          <option value="24000000">Real Estate</option>
-          <option value="25000000">Shopping</option>
-          <option value="25060000">Sports &amp; Recreation</option>
-          <option value="27000000">Travel &amp; Transportation</option>
-          <option value="99000000">Unknown</option>
-          <option value="99887767">Guide to the Bee</option>
-          <option value="6">Political Columnist Sites</option>
-          <option value="5">Political Opinion and Editorial Sites</option>
-          <option value="2">Political news sites</option>
-          <option value="4">SacBee Political</option>
-        </select>
-      </div>
-      <div id="mktplace-radius">
-        <label for="maxDistance">Search Within:</label>
-        <select class="PD-adv-distance" name="maxDistance">
-          <option value="">Distance:</option>
-          <option value="5">5 miles</option>
-          <option value="10">10 miles</option>
-          <option value="15" selected="selected">15 miles</option>
-          <option value="25">25 miles</option>
-          <option value="50">50 miles</option>
-        </select>
-      </div>
-      <input type="submit" name="submit" id="mktplace-search-button" value="" title="Search">
-      <div id="mktplace-adv-search"><a href="http://localsearch.sacbee.com/sp?aff=1160&amp;skin">Advanced Search</a></div>
-    </form>
-  </div>
-  <div id="mktplace-credits">Powered by <a href="http://www.planetdiscover.com">Planet Discover</a></div>
-</div><!-- End Marketplace widget -->
+<!-- begin Find n Save 300x250 widget -->
+<link type="text/css" media="screen" rel="stylesheet" href="http://media.mcclatchyinteractive.com/creative/fns/widgets/coupons.css">
+<script type="text/javascript">
+	//<[CDATA[
+	$(document).ready(function() {
+		$.getJSON("http://findnsave.sacbee.com/api/groupon.json?callback=?", function(json) {GrouponMain(json)});
+	});
+	function GrouponMain(data) {
+		$('.fns_td_wrap .groupon_deal_title').html(data.result.deal.announcementTitle);
+		$('.fns_td_wrap .bestPrice').html(data.result.deal.bestPrice);
+		$('.fns_td_wrap .bestValue').html(data.result.deal.offerValue+' Value<br>Save '+ data.result.deal.offerDiscountPercent);
+		$('.fns_td_wrap .sidebarimage').attr('src',data.result.deal.sidebarImageUrl);
+	};
+	//]]>
+</script>
+<div class="fns_td_wrap" id="groupon_bigbox_display">
+	<h2><a href="http://findnsave.sacbee.com#navlink=fns_groupon300"><img src="http://media.mcclatchyinteractive.com/creative/fns/widgets/images/fnsLogo_130x22.png" width="130" height="22" alt="Find n Save Daily Deal"></a>Get the Deal!</h2>
+	<div class="fns_td_container">
+		<!-- DEAL OF THE DAY -->
+		<div class="fns_feature">
+			<h3><b>Today's Big Deal:&nbsp;</b> <a class="groupon_deal_title" href="http://findnsave.sacbee.com/Daily-Deal#navlink=fns_groupon300">title</a></h3>
+			<div class="groupon_details"><!-- sidebarImageUrl-->
+				<a href="http://findnsave.sacbee.com#navlink=fns_groupon300"><img class="sidebarimage" src="http://media.mcclatchyinteractive.com/creative/fns/widgets/images/deal_placeholder.jpg" alt="announcementTitle"></a>
+				<div class="pricetag">
+					<div class="deal_price bestPrice"><!-- bestPrice --></div>
+					<div class="deal_value bestValue"><!--offerValue--></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div><!-- .fns_feature -->
+		<h5><a class="fns_button" href="http://findnsave.sacbee.com/Daily-Deal#navlink=fns_groupon300">Interested?</a><img class="powered_by" src="http://media.mcclatchyinteractive.com/creative/fns/widgets/images/groupon_powered.gif" alt="Powered by Groupon"></h5>
+	</div>
+	<h6 class="fns_footer">
+		Find more great deals!<br>
+		<a href="http://findnsave.sacbee.com#navlink=fns_groupon300">findnsave.sacbee.com</a>
+	</h6>
+</div>
+<!-- /end Find n Save 300x250 widget -->
 <!-- rotation script -->
 <script>
-  (function() { 
-    (Math.floor(Math.random()*6) % 2) == 0 ? $('#cars #mktplace-widget').hide() : $('#cars #cars').hide();
+  (function() {
+    (Math.floor(Math.random()*6) % 2) == 0 ? $('#groupon_bigbox_display').hide() : $('#cars_widget').hide();
   })();
 </script>
 <!-- end widget rotation script -->
@@ -1540,7 +1476,7 @@ initDocument();
 
     
 //Context Parameters
-    ctxt_ad_url = window.location.href;     //context URL
+    ctxt_ad_url = window.location.href.split('?')[0].split('#')[0];     //context URL
     ctxt_ad_url_cat = 'news';     //fallback category name
     ctxt_ad_id = 'news';     //context ID name
     ctxt_ad_keywords = '';     //keywords (URL safe values only)
@@ -1564,6 +1500,7 @@ initDocument();
  <script type="text/javascript">
 <!--
 //Required Parameters
+    ctxt_ad_config = '1001507650';     //unique numeric partner id
     ctxt_ad_source = 'npc_mcclatchy_sacramentobee_t2_ctxt';     //provided by Account Manager
 
 //Context Parameters
@@ -1584,11 +1521,12 @@ initDocument();
 
 
        	<div class="ads">
-<a href="http://www.sacramentoconnect.com/"><img src="http://media.sacbee.com/static/img/partner_tiles/sacconnect_150x50.png" alt="Sacramentoconnect.com" border="0" style="margin:2px 20px 2px 20px"></a>
-<a href="http://www.sacwineregion.com"><img src="http://media.sacbee.com/static/img/partner_tiles/sacwineregion_150x50.png" alt="SacWineRegion.com" border="0" style="margin:2px 20px 2px 20px"></a>
-<a href="http://www.sacmomsclub.com"><img src="http://media.sacbee.com/static/img/partner_tiles/sacmomsclub_150x50.png" alt="SacMomsclub.com" border="0" style="margin:2px 20px 2px 20px"></a>
-<a href="http://www.sacpaws.com"><img src="http://media.sacbee.com/static/img/partner_tiles/sacpaws_150x50.png" alt="SacPaws.com" border="0" style="margin:2px 20px 2px 20px"></a>
-<a href="http://www.sacbee.com/vip"><img src="http://media.sacbee.com/static/img/partner_tiles/vipclub_150x50.png" alt="VIP Club" border="0" style="margin:2px 20px 2px 20px"></a></div>
+<a href="http://www.sacramentoconnect.com/"><img src="http://media.sacbee.com/static/img/partner_tiles/sacconnectbeta_150x50.png" alt="Sacramentoconnect.com" border="0" style="margin:2px 2px 2px 2px"></a>
+<a href="http://www.sacwineregion.com"><img src="http://media.sacbee.com/static/img/partner_tiles/sacwineregion_150x50.png" alt="SacWineRegion.com" border="0" style="margin:2px 2px 2px 2px"></a>
+<a href="http://www.sacmomsclub.com"><img src="http://media.sacbee.com/static/img/partner_tiles/newsacmomsclub_150x50.png" alt="SacMomsclub.com" border="0" style="margin:2px 2px 2px 2px"></a>
+<a href="http://www.sacpaws.com"><img src="http://media.sacbee.com/static/img/partner_tiles/sacpaws_150x50.png" alt="SacPaws.com" border="0" style="margin:2px 2px 2px 2px"></a>
+<a href="http://www.sacbee.com/beebuzzpoints"><img src="http://media.sacbee.com/static/img/partner_tiles/beebuzzpoints_60x50.png" alt="BeeBuzz Points" border="0" style="margin:2px 2px 2px 2px"></a>
+<a href="http://findnsave.sacbee.com"><img src="http://media.sacbee.com/static/img/partner_tiles/findnsave_150x50.png" alt="Find n Save" border="0" style="margin:2px 2px 2px 2px"></a></div>
 
     </div><!-- .lower .partner .tier -->
     
@@ -1618,9 +1556,8 @@ initDocument();
 	<div class="col3">
 		<h6><a href="http://www.sacbee.com/advertise/">Advertise With Us</a></h6>
 		<ul class="links">
-			<li><a href="http://www.sacbee.com/placead/">Place a classified ad</a></li>
-			<li><a href="http://www.sacbee.com/placead/">Place a real estate ad</a></li>
-			<li><a href="http://www.sacbee.com/placead/">Place a rental ad</a></li>
+			<li><a href="http://www.sacbee.com/placead/">Place a real estate or rental ad</a></li>
+			<li><a href="http://www.sacbee.com/static/live/ads/mediakit/">Place an online ad</a></li>
 			<li><a href="http://www.sacbee.com/static/live/marketing/images/Ad_site/site/g.htm">Place a newspaper ad</a></li>
 		</ul>
 	</div><!-- /.col3 -->
@@ -1693,7 +1630,7 @@ initDocument();
 	});
 
 	// Story asset videos
-	 jQuery("#story_assets object").each(function (x) {
+	/* jQuery("#story_assets object").each(function (x) {
 		if (this.width > 200) {
 			jQuery(this).addClass(sharable_class_name);
 		}
@@ -1702,7 +1639,7 @@ initDocument();
 		if (this.width > 200) {
 			jQuery(this).addClass(sharable_class_name);
 		}
-	});
+	}); */
  
 	// Gallery slideshows
 	jQuery('div.slides ul li img').each(function (x) {
@@ -1752,7 +1689,7 @@ mistats.channel='Privacy Policy';
 <script language="JavaScript" type="text/javascript" src="http://media.sacbee.com/mistats/products/pubsys.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://media.sacbee.com/mistats/finalizestats.js"></script>
 
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmsacramento/1/H.10--NS/0?pageName=Section:%20Privacy%20Policy&server=www.sacbee.com&channel=Privacy%20Policy&c1=http%26%2358;%26%2347;%26%2347;www.sacbee.com%26%2347;1385%26%2347;index.html&c3=Section&c4=&c6=sac%7Csacbee&c28=&h1=SAC%7CSACBEE%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmsacramento%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy&server%3Dwww.sacbee.com&channel%3DPrivacy%20Policy&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.sacbee.com%26%2347%3B1385%26%2347%3Bindex.html&c3%3DSection&c4%3D&c6%3Dsac%7Csacbee&c28%3D&h1%3DSAC%7CSACBEE%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
  
@@ -1760,7 +1697,7 @@ mistats.channel='Privacy Policy';
 
 
 
-<script type="text/javascript" src="http://get.lingospot.com/ls.js?key=3_Sacbee"></script>
+<script type="text/javascript" src="http://init.lingospot.com/ls.js?key=3_Sacbee"></script>
 </div>
 
 </body></html>
