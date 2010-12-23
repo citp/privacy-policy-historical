@@ -1,60 +1,43 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020020136id_/http%3A//www.lungusa.org/site/pp.asp%3Fc%3DdvLUK9O0E%26b%3D38462) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224005316id_/http%3A//www.lungusa.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - American Lung Association site
+# Privacy Policy - American Lung Association
 
-The American Lung Association® is dedicated to protecting the privacy of our online visitors. You may choose to supply personal information in eight different areas on this site: 
+American Lung Association has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web sites located at the URLs lungusa.org and action.lungusa.org.
 
-> * _**"Site Membership" Registration:**_   
->  When you register as a "member" of the nationwide American Lung Association web site,[www.lungusa.org](https://web.archive.org/web/20091020020136id_/http%3A//www.lungusa.org/site/www.lungusa.org), you will be required to provide the following information: your name, e-mail address, zip code, age, member name and password. 
-> 
-> In addition, you have the option of letting the American Lung Association contact you in the future. This form also requests additional information, including: your address, household income, education, marital status and occupation. This information helps us define the demographic make-up or our visitors online.
-> 
-> *  _ **"Donating" to the American Lung Association:**_   
->  When you donate to the American Lung Association online you submit highly sensitive credit card information, contact information, and acknowledge whether you would like to be contacted by ALA via email in the future. We recognize the importance of respecting the integrity of this material and limit access _only_ to personnel authorized to process your request. 
-> 
-> You may also choose to make a gift donation. When you make a gift donation, the amount of your gift is shown only on your receipt. The person or family you designate will receive an acknowledgment card in your name. We collect this prospect information in order to honor your request to send an acknowledgement card. Prospect information is forwarded to the local lung association associated with the prospect, but is not included on any Direct Mail listings for the American Lung Association. E-communications from the American Lung Association are only issued through the direct consent of each unique visitor. 
-> 
-> Online donors are also offered the option of choosing to let the American Lung Association contact them via email in the future. 
-> 
-> * **_The "Ask ALA" Option:_**   
->  Lung health questions may be submitted to the American Lung Association, along with individual contact information in the _Ask ALA_ area of the site. 
-> 
-> This form also offers _Ask ALA_ users a future contact option. 
-> 
-> * _**The "ALA Survey":**_   
->  During any number of site promotions ( _want to win a t-shirt?_ ), visitors may be encouraged to fill out an online survey for the American Lung Association. This survey asks for contact information and user profile information like sex, age, education, internet connection, whether a family member has lung disease, area of lung health interest and occupation. We also ask if the visitor has ever donated online, and if so, how much, and whether the visitor has ever done any volunteering in the past year. These questions help us define the needs of our users. 
-> 
-> We also ask if the visitor would allow the American Lung Association to contact them in the future via email. 
-> 
-> * _**Online "Volunteerism" Submissions:**_   
->  The online form in the Volunteer section of the site requests state, name, mailing address, email address, and a place where you can describe your area of interest. The information that you provide here is forwarded to the local lung association in your area, who will then contact you about volunteerism opportunities best suited to your interests. 
-> * **_Signing up for an American Lung Association Listserv:_** You may choose to submit your email address in the Publications Index, and sign up for the _"Weekly Breather"_ and/or _"Breathe Easy®/Asthma Digest"_ listservs. 
-> * **_Signing the "Wall of Remembrance" or the "Living with Lung Disease Wall"_**   
->  When you choose to sign either one of our two _'Walls,'_ you are posting a user name, email address, and message that you define on a public forum. 
-> 
-> Should you have trouble with your posting to either of the _'Walls,'_ feel free to contact [webmaster@lungusa.org](mailto:webmaster@lungusa.org) for assistance. 
-> 
-> * **_Registering for "Freedom From Smoking® Online:"_**   
->  Registrants to our free online smoking cessation program fill out a form that supplies _required_ and _unrequired_ information. The _required_ information enables the American Lung Association to better support your smoking cessation effort, allowing you to opt-in to further email contact by the American Lung Association. The _unrequired_ information mirrors questions asked in our "off-line" smoking cessation program and offers valuable demographic information on Freedom From Smoking® online users. 
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. American Lung Association reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
-_The American Lung Association reserves the right to offer an e-communication option to our web visitors._ **Our Commitment To Data Security**
+  1. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of; 
+  2. What personally identifiable information of yours is collected through the Site; 
+  3. Who collects such information; 
+  4. How such information is used; 
+  5. With whom your information may be shared; 
+  6. What choices you have regarding collection, use and distribution of your information; 
+  7. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; 
+  8. How you can correct any inaccuracies in your information.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-The information we collect on this web site is used to improve the navigation and/or content of our web site and to notify you about updates to this web site as requested. This information is maintained in a retrievable format and may be amended by contacting [webmaster@lungusa.org](mailto:webmaster@lungusa.org)
 
-If you would like to request access to review, update or change the information you have you have supplied in any way, you may do so by sending an e-mail to [webmaster@lungusa.org](mailto:webmaster@lungusa.org). You can correct factual errors in your personally identifiable information by sending us a request the credibly shows error. We use this procedure to better safeguard your information. To protect your privacy and security, we will also take steps to verify your identity before granting access or making corrections.
+Questions regarding this statement should be directed to American Lung Association by sending an email to [webmaster@lungusa.org](mailto:webmaster@lungusa.org?Subject=Privacy%20Policy%20Questions). Please reference this Privacy Policy in your subject line.
 
-**Third Party Release Protection**
+**What Information We Collect and How We Use That Information:**  
+Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers.
 
-Except as provided herein, the American Lung Association will not sell to any third party your name, address, e-mail address and member name, unless you provide your informed consent, except to the extent necessary to comply with applicable laws, police investigations, or in legal proceedings where such information is relevant. The American Lung Association allows access to database information by third parties providing technical services, such as e-mail. In those instances, the third party is bound by these terms and have agreed to hold this information in confidence. Your informed consent shall be in the form of an "opt in" or similar policy. You understand and agree that the American Lung Association may disclose to third parties your zip code, gender and/or age, but only in the form of aggregated information.
+**Internet Protocol Address:**  
+We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track user's movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
 
-The American Lung Association reserves the right to offer you third party services and products based on the preferences that you identify during the registration process and based on your subsequent preferences; such offers may be provided to you by the American Lung Association.
+**Use of "Cookies":**  
+Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
 
-The American Lung Association reserves the right to terminate your account if it learns that you have provided false or misleading registration information. 
+Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them.
 
-The Privacy Policy for this site pertains to [www.lungusa.org](http://www.lungusa.org/) only and does not cover the ALA Web Network, the network of independent local lung association web sites linked to this site. Local lung association web sites will be incorporating this Privacy Policy on an individual basis. 
+**Security:**  
+All information provided to American Lung Association is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of American Lung Association. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
 
-**Contact Information**
+**Tell-A-Friend:**  
+If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. American Lung Association will automatically send the friend a one-time email inviting them to visit the Site. American Lung Association stores this information for the sole purpose of sending this one-time email.
 
-If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them. Please contact us at (212) 315-8799 or email us at [webmaster@lungusa.org.](mailto:webmaster@lungusa.org)
+**Other Web Sites:**  
+Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which American Lung Association has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
+
+**Contacting the Web Site:**  
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can send an email to: [webmaster@lungusa.org](mailto:webmaster@lungusa.org?Subject=Privacy%20Policy%20%20Questions)
