@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizes.co.uk privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615014137id_/http%3A//www.prizes.co.uk/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizes.co.uk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223184805id_/http%3A//prizes.co.uk/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,4 +119,4 @@ Company may use your personal information in the following ways:
 
 **5\. Foreign use of the Website.** To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States. 
 
-If you have questions about this policy, please contact us by clicking [here](http://intela.com/reachus.php). 
+If you have questions about this policy, please contact us by clicking [here](mailto:support@prizes.co.uk). 
