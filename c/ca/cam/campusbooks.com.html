@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the campusbooks.com privacy policy that was archived on 2010-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100515154248id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campusbooks.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223012050id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -10,26 +10,35 @@
 		<meta name="keywords" content="CampusBooks Privacy Statement">
 		
 	<!-- CSS -->
-	<link href="/_css/styles.global.css?20090815" rel="stylesheet" type="text/css" media="screen,projection">
-	<link href="/_css/cb.legacy.css?20090815" rel="stylesheet" type="text/css" media="screen,projection">
+	<link href="/_css/styles.global.css?20100701" rel="stylesheet" type="text/css" media="screen,projection">
+	<link href="/_css/cb.legacy.css?20100701" rel="stylesheet" type="text/css" media="screen,projection">
 	<!--link href="/design200908/styles.navigation.css" rel="stylesheet" type="text/css" media="screen,projection" />
 	<link href="/design200908/styles.navigation-light.css" rel="stylesheet" type="text/css" media="screen,projection" /-->
+	<script type="text/javascript">
+		//<![CDATA[ 
+		var jsCss = document.createElement('link');
+		jsCss.rel = 'stylesheet';
+		jsCss.href = '/_css/javascript.css';
+		jsCss.type = 'text/css';
+		document.getElementsByTagName('head')[0].appendChild(jsCss);
+		//]]>
+	</script><link rel="stylesheet" href="/_css/javascript.css" type="text/css">
 	
 	<!-- Javascript -->
-	<script type="text/javascript" src="/_js/jquery.js?20090810"></script>
-	<script type="text/javascript" src="/_js/jquery.global.js?20090810"></script>
-	<script type="text/javascript" src="/_js/legacy.js?20090810"></script>
+	<script type="text/javascript" src="/_js/jquery.js?20100701"></script>
+	<script type="text/javascript" src="/_js/jquery.global.js?20100701"></script>
+	<script type="text/javascript" src="/_js/legacy.js?20100701"></script>
 	
 </head>
 
-<body id="campusbooks-com" class=" legal">
+<body id="campusbooks-com" class="buy legal">
 
 <!-- BEGIN: site-wrapper -->
 <div id="site-wrapper">
 	
 	<!-- BEGIN: site-branding -->
 	<div id="site-branding">
-		<a rel="nofollow" href="/" title="CampusBooks Home"><img src="/images/logo-campusbooks.gif?20080815" alt="image" width="291" height="50"></a>
+		<a rel="nofollow" href="/" title="CampusBooks Home"><img src="/images/logo-campusbooks.png?20080815" alt="image" width="291" height="50"></a>
 	</div>
 	<!-- END: site-branding -->
 	
@@ -212,13 +221,21 @@ San Diego , CA 92122<br>
 		<ul id="navigation-main">
 			<li id="navigation-home"><a href="/">Home</a></li>
 			<li id="navigation-buy"><a href="/books/buy.php">Buy Textbooks</a></li>
+			<li id="navigation-rent"><a href="/rental/">Rent Textbooks</a></li>
 			<li id="navigation-sell"><a href="/books/sell.php">Sell Textbooks</a></li>
 			<li id="navigation-search">
-				<form action="/books/search.php" method="post" id="navigation-searchbox">
+                    <form action="/books/search.php" method="post" id="navigation-searchbox">
 					<input type="hidden" name="search_type" id="search_type" value="single">
 					<input type="hidden" name="isbn" id="isbn" value="">
-					<input name="keywords" id="keywords2" type="text" class="navsearch-text { defaultvalue: 'ISBN, Title, Author or Keyword' } defaultVal defaultVal_default" value="">
-					<input type="image" name="submit" src="/design200908/navigation-search-dark.png" alt="Search Textbooks" class="navsearch-submit">
+					<input name="keywords" id="keywords2" type="text" class="navsearch-text" value="">
+					<div class="cbForm-select_wrapper"><span>New &amp; Used</span>
+						<select name="buysellrent" class="cbForm-select">
+							<option value="buy" selected="selected">New &amp; Used</option>
+							<option value="rent">Rental</option>
+							<option value="sell">Buyback</option>
+						</select>
+					</div>
+					<input type="image" name="submit" src="/design200908/nav-search-btn.png" alt="Search Textbooks" class="navsearch-submit">
 				</form>
 			</li>
 		</ul>
@@ -253,7 +270,7 @@ San Diego , CA 92122<br>
 		<li>
 			<ul>
 								<li><a href="/company/link_to.php" title="Link to Campusbooks">Link To Us</a></li>
-				<li><a href="/iphone/" title="iBookstore iPhone App">iPhone App</a></li>
+				<li><a href="/smartphones" title="CampusBooks Smartphone Apps">SmartPhone Apps</a></li>
 												<li><a href="/" title="Bookmark Campusbooks" onclick="window.external.AddFavorite(&quot;http://www.campusbooks.com/?bookmark&quot;,&quot;Campusbooks.com - Cheap Textbooks&quot;)">Bookmark Us</a></li>
 												<li><a href="/company/tell_a_friend.php" title="tell a friend">Tell A Friend</a></li>
 								<li><a href="/college_bookstores/" title="Campus bookstore directory">Campus Bookstore Directory</a></li>
@@ -262,7 +279,7 @@ San Diego , CA 92122<br>
 		<li>
 			<ul>
 				<li><a href="/blog/" title="blog">Textbook Blog</a></li>
-								<li><a href="/on-the-go/" title="On-The-Go">On-The-Go</a></li>
+								<li><a href="/mobile_local" title="Mobile &amp; Local">Mobile &amp; Local</a></li>
                 				<li><a href="/company/press.php" title="press">Press</a></li>
 								<li><a href="/company/affiliates.php" title="Affiliates">Affiliates</a></li>
 								<li><a href="/company/contact.php" title="Feedback">Feedback</a></li>
@@ -270,12 +287,12 @@ San Diego , CA 92122<br>
 		</li>
 	</ul>
 	
-	<form action="/books/search.php" method="post" id="navigation-searchbox">
+	<!--form action="/books/search.php" method="post" id="navigation-searchbox">
 		<input type="hidden" name="search_type" id="search_type" value="single">
 		<p>
-			<input name="keywords" type="text" class="navsearch-text { defaultvalue: 'ISBN, Title, Author or Keyword' } defaultVal defaultVal_default" value=""><input type="image" name="submit" src="/design200908/navigation-search-dark.png" alt="Search Textbooks" class="navsearch-submit">
+			<input name="keywords" type="text" class="navsearch-text { defaultvalue: 'ISBN, Title, Author or Keyword' }" value="" /><input type="image" name="submit" src="/design200908/navigation-search-dark.png" alt="Search Textbooks" class="navsearch-submit" />
 		</p>
-	</form>
+	</form-->
 	
 	<p>Content Copyright © 1999-2010 <a href="/legal/disclaimer.php" title="Terms and Conditions">Terms and Conditions of Use</a>, <a href="/legal/security.php" title="Security">Security</a> and <a href="/legal/privacy.php" title="Privacy">Privacy Policy</a> | Resources: <a href="/help/resources_1.php" title="Resources">1</a> <a href="/help/resources_2.php" title="Resources">2</a> <a href="/help/resources_3.php" title="Resources">3</a> | <a href="/sitemap.php" title="Site Map">Site Map</a></p>	
 </div>
