@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcanadiansuperstore.ca privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523160947id_/http%3A//www.realcanadiansuperstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcanadiansuperstore.ca privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223082029id_/http%3A//www.realcanadiansuperstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Real Canadian Superstore - Privacy Policy
 
