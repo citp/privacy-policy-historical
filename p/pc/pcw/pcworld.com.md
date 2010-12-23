@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327143954id_/http%3A//www.pcworld.com/resource/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223230352id_/http%3A//www.pcworld.com/resource/privacy.html) for the most accurate reproduction.*
 
 # PCWorld.com Privacy Policy - PCWorld
 
@@ -145,11 +145,11 @@ PCWorld is part of the IDG Publishing Network, a group of Web sites for the IDG 
 
 #### IDG Publishing Network Privacy Policy
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on [www.idg.com](https://web.archive.org/web/20100327143954id_/http%3A//www.pcworld.com/resource/www.idg.com).
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on [www.idg.com](https://web.archive.org/web/20101223230352id_/http%3A//www.pcworld.com/resource/www.idg.com).
 
 #### About the IDG Publishing Network
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including PCWorld, Macworld, Computerworld, CIO, CSO, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, javaworld.com, cio.com, csoonline.com, computerworld.com, infoworld.com, and networkworld.com. A complete listing is available at [www.idg.com](https://web.archive.org/web/20100327143954id_/http%3A//www.pcworld.com/resource/www.idg.com).
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including PCWorld, Macworld, Computerworld, CIO, CSO, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, javaworld.com, cio.com, csoonline.com, computerworld.com, infoworld.com, and networkworld.com. A complete listing is available at [www.idg.com](https://web.archive.org/web/20101223230352id_/http%3A//www.pcworld.com/resource/www.idg.com).
 
 To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the specific privacy policy of the site to which you provided the information, as may be updated from time to time.
 
