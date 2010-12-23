@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015100id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223121715id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Extreme micro and mini bikinis for women. The-Bikini.com sexy micro bikinis for women and men
+# Extreme micro and mini bikinis. The-Bikini.com sexy micro bikinis, thongs and strings for women and men
 
   
   
 
 
-Latest Comments
+Bikini Fashion Show
 
-Thank you for your great speedy service, your products are fantastic.  
-Thank you  
-Amanda & Paul  
+[](https://web.archive.org/movies/defile.html)  
+
+
+  
+  
+
+
+Latest Comment
+
+Thanks for that message Pat,very thoughtful of you,,we now have 3 peekaboo string briefs each,,and must say how we both enjoy the feeling that they give,,it is a good feeling..I will check out your stock and see what else could be of interest before Christmas,,cheers Terry.   
 [more comments...](https://web.archive.org/information/?action=comments)
 
   
@@ -44,17 +51,9 @@ It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOM
   
 
 
-Our Group at
-
-[ ](http://www.facebook.com/group.php?gid=49149592191#)  
-
-
-  
-
-
 Webmasters
 
-If you have a website, you can sell our bikinis. Sign up on our affiliate sales program!  
+If you have a website, you can sell our bikinis and make money!!!. Sign up on our affiliate sales program!  
 [Sign Up!](http://www.the-bikini.com/cmd.php?cmd=signup)  
 [Log In!](http://www.the-bikini.com/cmd.php?cmd=login)
 
@@ -117,4 +116,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20100624015100id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20101223121715id_/http%3A//www.the-bikini.com/contact/). 
