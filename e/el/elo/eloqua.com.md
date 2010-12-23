@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616135727id_/http%3A//www.eloqua.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223085739id_/http%3A//www.eloqua.com/trust/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Privacy - Marketing Automation | Demand Generation | Eloqua
+# Privacy Policy - Marketing Automation | Demand Generation | Eloqua
 
 Effective Date: 19 May 2009
 
