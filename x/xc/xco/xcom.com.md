@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the xcom.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508150524id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcom.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223194738id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
 
 # TAKE TWO INTERACTIVE'S PRIVACY POLICY
 
   
-[EN](http://www.take2games.com/privacy/) | [DE](https://web.archive.org/web/20100508150524id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20100508150524id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20100508150524id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20100508150524id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20100508150524id_/http://www.take2games.com/privacy/NL.html)
+[EN](http://www.take2games.com/privacy/) | [DE](https://web.archive.org/web/20101223194738id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20101223194738id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20101223194738id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20101223194738id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20101223194738id_/http://www.take2games.com/privacy/NL.html)
 
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=102) [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=105) [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=102)
 
