@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the adkreator.com privacy policy that was archived on 2009-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090814063701id_/http%3A//www.adkreator.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adkreator.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223172239id_/http%3A//www.adkreator.com/privacypolicy.php) for the most accurate reproduction.*
 
-# AdKreator.com - Do it Yourself Banner Design and Creation
+# AdKreator.com - DIY Splash Page Banner Design and Creation
 
 ### AdKreator PRIVACY POLICY
 
   
-Last Updated: June 2009
+Last Updated: May 2010
 
 **By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy.**
 
 AdKreator is committed to protecting your privacy. This privacy policy tells you about our online collection, use and disclosure of personal information. The terms of this policy apply to all personal information collected by AdKreator on the website AdKreator.com and other country-specific AdKreator websites which are linked to AdKreator.com.
 
-This site is operated by DIYShark (AdKreator), and may be accessed in USA and abroad. For personal information protection purposes, AdKreator is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
+This site is operated by Justin Ledvina (AdKreator), and may be accessed in USA and abroad. For personal information protection purposes, AdKreator is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
 
 **Consent to Collection of Your Personal Information**
 
@@ -53,7 +53,7 @@ If you have entered into and/or won an AdKreator contest, we or a contest sponso
 
 **Accessing Your Personal Information**
 
-If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact by email at service@AdKreator.com for assistance.
+If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact by email at support@AdKreator.com for assistance.
 
 **Use of Cookies and Other Technologies**
 
@@ -87,7 +87,7 @@ If a password is used to protect your account and personal information, it is yo
 
 **Forums & Other Interactive Services **
 
-Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at service@AdKreator.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at support@AdKreator.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
 
 **Email Referrals**
 
@@ -104,5 +104,3 @@ We may link to websites, including those of our subsidiaries and third-party con
 **Changes to This Privacy Policy**
 
 We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how AdKreator will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
-
-© 2009 AdKreator | DIYShark. All rights reserved. Privacy Policy. 
