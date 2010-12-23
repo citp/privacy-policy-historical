@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the slimwareutilities.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510004938id_/http%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimwareutilities.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223060255id_/http%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# SlimWare Utilities - Privacy Policy
 
 ### Web Information
 
-When the customer, hereafter represented as "you" and "your", agrees to purchase Slimware Utilities software, we may collect a limited amount of personal information. This information includes your address, email address and name and constitutes the the minimal data required to record and fulfill a business transaction. If and when we use the services of a payment processing merchant, we take pains to ensure that the same security measures governing the transaction of data on SlimwareUtilities.com are in place regarding transactions withthis merchant.
+When the customer, hereafter represented as "you" and "your," agrees to purchase Slimware Utilities software, we may collect a limited amount of personal information. This information includes your address, email address and name and constitutes the the minimal data required to record and fulfill a business transaction. If and when we use the services of a payment processing merchant, we take pains to ensure that the same security measures governing the transaction of data on SlimwareUtilities.com are in place regarding transactions with this merchant.
 
 **We never knowingly collect personal data from any person or persons under the age of eighteen.**
 
-### The use of Cookies
+### The Use of Cookies
 
 A cookie is a small data string of information that is stored automatically on your computer when you access our servers. The various products distributed by SlimWare Utilities use cookies, so defined, in order to provide to our customers and affiliates faster services, to deter Denial of Service (DoS) attacks on our servers, to deter fraudulent transactions and to facilitate the proper distribution of sales credit to our partners.
 
-Every cookie that is assigned to a system that accesses our servers is non-unique and non-identifiable. All cookies distributed by SlimwareUtilities.com or by any Slimware Utilities subsidiary web-service is designate secure and non-invasive by the following criteria: 
+Every cookie that is assigned to a system that accesses our servers is non-unique and non-identifiable. All cookies distributed by SlimwareUtilities.com or by any Slimware Utilities subsidiary Web-service is designate secure and non-invasive by the following criteria: 
 
   * The cookies are smaller than 5KB in length
   * The cookies are of a limited duration
   * The cookies are visible only to SlimWareUtilities.com
   * The cookies contain no personally identifying information
   * The cookies are not unique to a given computer system
+
+
 
 Slimware Utilities products use cookies to track affiliate sales and not to build customer profiles. This tracking process allows Slimware Utilities to assign correct payment to affiliates for their sales and for tracing activities directly related to their affiliated relationship with us. 
 
@@ -32,7 +34,7 @@ We may use information in the following ways:
 
   * To process, validate and verify purchases.
   * To register you as a customer of a Slimware Utilities Poduct. This process facilitates our creating and maintaining a customer support account on your behalf.
-  * To send out email notifications concerning existing products or new products and/or services. Emails are also sent out to notify you of special offers when they are issued, and to contact you to confirm of verify (if needed) the accuracy of information provided to us.
+  * To send out email notifications concerning existing products or new products and/or services. Emails are also sent out to notify you of special offers when they are issued, and to contact you to confirm or verify (if needed) the accuracy of information provided to us.
   * To obtain feedback so as to help enhance existing product features or provide additional products and services.
 
 We retain the right to disclose personally identifying information in special circumstances wherein it is necessary to protect our service or enforce our agreements. We may invoke this retention if doing so will help us protect our intellectual property rights. We may also disclose or use personally identifying information if and when we believe, in good faith, that the law requires us to do so.
@@ -52,4 +54,4 @@ All Slimware Utilities products routinely communicate with our server to receive
 
 We reserve the right to, from time to time, change this Privacy Policy without notice. Any changes will be posted here, so please check this page periodically for the most up-to-date information. 
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [_support@SlimWareUtilities.com_](mailto:support@fixcleaner.com). 
+If you have any questions or concerns regarding this privacy policy, please contact us at [_support@SlimWareUtilities.com_](mailto:support@slimwareutilities.com). 
