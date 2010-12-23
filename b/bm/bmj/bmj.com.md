@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020922id_/http%3A//group.bmj.com/group/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091607id_/http%3A//group.bmj.com/group/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — BMJ Group
 
@@ -32,7 +32,7 @@ For users who have opted to receive marketing emails from BMJ Group, and visit o
 
 _1.2 BMJ Learning Users_
 
-In addition to other uses of your personal data which are set out herein, the information that you add to your plan, including the areas of improvement you identify, the classes you have taken, and other such information, is considered private. Our technicians have access to it in order to fix problems and maintain the site. However, we do not read this information unless necessary, and will not release it to other people or organisations, without your prior consent. However we reserve the right to release anonymised group data to third parties related to the use of specific modules.
+In addition to other uses of your personal data which are set out herein, the information that you add to your plan, including the areas of improvement you identify, the classes you have taken, and other such information, is considered private. Our technicians have access to it in order to fix problems and maintain the site. However, we do not read this information unless necessary, and subject to clause 4 we will not release it to other people or organisations, without your prior consent. However we reserve the right to release anonymised group data to third parties related to the use of specific modules.
 
 You are able to give feedback about a learning module after completing it, and in the learning resources section of the site. This information is visible to other users of the site, including guest users. We will also use it to improve our site.
 
@@ -60,7 +60,7 @@ In addition to responding to complaints or claims received or discovered referre
 
 **2\. How long do we keep the information we collect?**
 
-We keep (including via our contractors) your personal information for as long as necessary to fulfil our obligations to you and to protect our legal interests.
+We keep (including via our contractors) your personal information for as long as necessary to fulfil our obligations to you and to protect our legal interests or as otherwise stated to you when such data is collected.
 
 **3\. Use of cookies**
 
@@ -89,7 +89,9 @@ Other than as expressly agreed by you or stated when data is collected or within
 
 (vi) in the case of BMJ Learning only, to your primary care trust (and only your name, contact details, whether you have completed a Form 4, and the means for them to email you) and to the BMA in relation to the fact that you have signed up for access to BMJ Learning; and
 
-(vii) in the case of registered GP’s in New Zealand who are official members of the Royal New Zealand College of GP’s, whilst we have an agreement with them, details of modules you have passed.
+(vii) in the case of registered GP’s in New Zealand who are official members of the Royal New Zealand College of GP’s, whilst we have an agreement with them, details of modules you have passed; and
+
+(viii) in the case that you are registered with the BMJ Learning Iraq channel then we may provide your personal data, including details of your usage of the site, to the Iraq Ministry of Health.
 
 **5\. How personal information stored and protected**
 
@@ -129,6 +131,6 @@ Thank you for reviewing this information.
 
 If you have any questions, please send us an e-mail through our Contact us section.
 
-[View Policy as a PDF](http://group.bmj.com/downloads/PrivacyPolicy1October09.pdf "PrivacyPolicy1October09")
+[View Policy as a PDF](http://group.bmj.com/downloads/PrivacyPolicy12Nov2010.pdf "Privacy Policy 12 Nov 2010")
 
-Last updated January 2010
+Last updated November 2010
