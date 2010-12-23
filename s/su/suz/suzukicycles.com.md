@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526173132id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224001224id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Suzuki Cycles - Privacy
 
