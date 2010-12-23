@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430055009id_/http%3A//www.starkey.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223055149id_/http%3A//www.starkey.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Starkey - Privacy Policy
 
@@ -47,4 +47,4 @@ Starkey approaches Internet communications with a strong commitment to individua
 
 ####  Contact Us
 
-If you have questions about the Privacy Policy or your experience with any of our sites, please [contact us](https://web.archive.org/en/corporate/contact-us).
+If you have questions about the Privacy Policy or your experience with any of our sites, please [contact us](https://web.archive.org/corporate/contact-us).
