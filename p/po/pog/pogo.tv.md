@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528092348id_/http%3A//www.pogo.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223113632id_/http%3A//www.pogo.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - POGO! The best place for kids!
 
