@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091744id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP
 
@@ -62,6 +62,6 @@ You can respond to ADP secure emails with secure replies, and there is also a me
 
 **Where can I get more information?**
 
-[Secure Email User Guide](https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/~/media/PDF/Privacy/Clients%20Secure%20Email%20User%20Guide.ashx)
+[Secure Email User Guide](https://web.archive.org/web/20101223091744id_/http%3A//www.adp.com/~/media/PDF/Privacy/Clients%20Secure%20Email%20User%20Guide.ashx)
 
-[Secure Email Quick Reference](https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/~/media/PDF/Privacy/Clients%20Secure%20Email%20Quick%20Reference.ashx)
+[Secure Email Quick Reference](https://web.archive.org/web/20101223091744id_/http%3A//www.adp.com/~/media/PDF/Privacy/Clients%20Secure%20Email%20Quick%20Reference.ashx)
