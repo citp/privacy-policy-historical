@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205025705id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223175719id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
 
 # Cherry Blossoms: Online picture personal ads for internet dating, friendship, love & romance. Meet US, Asian, European, Russian, & Latin Men & Women
 
@@ -74,7 +74,7 @@ Cherry Blossoms, Inc. and Blossoms.com Members have the following choices to mod
 * Send an email to office@blossoms.com;  
 * Log in with your password and modify/remove your profile;  
 * Send a snail mail to Cherry Blossoms, Inc. and Blossoms.com, Att: Customer Service, P.O. Box 190, Kapaau, Hawaii 96755, USA;  
-* Call us at (808) 889-0101  
+* Call us at (808) 889-6209  
 If you have any questions or suggestions regarding our privacy policy, please contact us at:   
 General Counsel, Cherry Blossoms, Inc. and Blossoms.com,  
 P.O. Box 190, Kapaau, Hawaii 96755, USA  
