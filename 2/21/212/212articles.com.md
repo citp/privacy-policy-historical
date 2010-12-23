@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 212articles.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210183517id_/http%3A//www.212articles.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 212articles.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223080008id_/http%3A//www.212articles.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
