@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306171426id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224002551id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Baby Names, Baby Boy Names, Baby Girl Names, Baby Name Meanings
 
+  
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 **What Information Do We Collect?**
