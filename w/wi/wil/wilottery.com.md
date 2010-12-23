@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004000id_/http%3A//www.wilottery.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223112434id_/http%3A//www.wilottery.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# Wisconsin Lottery Web Site Privacy Notice
+# Web Site Privacy Notice
 
 State of Wisconsin laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records provided by both state and federal laws. These exceptions include the privacy of individuals. 
 
