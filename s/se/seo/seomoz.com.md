@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomoz.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629114650id_/http%3A//www.seomoz.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomoz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223165853id_/http%3A//www.seomoz.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,8 +27,6 @@ Your browser installs a cookie on your computer when you visit our site. A cooki
 We use cookies to record current session information, encrypted users’ login information, provide services, and compile analytics about our users.
 
 In addition, our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
-
-We also use standard internet tools, such as third-party web beacons from Yahoo!, to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! click [here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
 
 SEOmoz uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, enforce our Terms of Use, and research. We never use this information for the provision of SEO consulting services so you do not need to worry that entering your information will be used against you or your clients by SEOmoz.
 
