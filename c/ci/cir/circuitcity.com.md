@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the circuitcity.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804080216id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitcity.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223182353id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at CircuitCity.com
+
+ONE DAY EXCLUSIVE OFFER! Sign up for our Circuit City Exclusive Email Offers and get  
+ **$10 Off YOUR NEXT ORDER**
+
+* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add CircuitCity@circuitcity-online.com to your address book. 
+
+THANK YOU for your email submission
+
+You have one more step to get your $10 discount. Just confirm your entry via the confirmation email to validate your email address and then we will send you a $10 discount link.   
+
+
+* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add CircuitCity@circuitcity-online.com to your address book. 
 
 TV & HOME ENTERTAINMENT
 
