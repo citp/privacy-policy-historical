@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524005903id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223214748id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,12 +78,10 @@ This policy was last modified on August 2nd, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Integrity Ecommerce Inc
+The Cardboard Connection Sports Card and Memorabilia Report
 
 http://www.cardboardconnection.com
 
 1860 Sandy Plains Road, Ste 204-137  
 Marietta, GA 30066  
-United States  
-support@cardboardconnection.com  
-
+United States
