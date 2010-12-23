@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624010357id_/http%3A//www.edenproject.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091429id_/http%3A//www.edenproject.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Eden Project privacy policy
 
