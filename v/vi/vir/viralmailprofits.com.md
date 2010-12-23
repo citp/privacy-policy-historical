@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624024151id_/http%3A//viralmailprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223122702id_/http%3A//viralmailprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Viral Mail Profits | Mailing To The Max!
 
@@ -16,4 +16,4 @@ Financial information is used solely to bill the user for products and/or servic
 
 VMP reserves the right to investigate using any and all means necessary, should there be reason to believe unauthorized transactions are processed in your name. We will then take every precaution possible to protect our members from identify theft both here at VMP and elsewhere.
 
-[Home](https://web.archive.org/web/20100624024151id_/http%3A//viralmailprofits.com/index.php) | [Join](http://www.viralmailprofits.com/signup.php) | [Login](http://viralmailprofits.com/login.php) | [Contact Us](http://www.kinder-rash-marketing.com/support/index.php?department=19) | [Terms](http://www.viralmailprofits.com/terms.php) | [Privacy](http://www.viralmailprofits.com/privacy.php)
+[Home](https://web.archive.org/web/20101223122702id_/http%3A//viralmailprofits.com/index.php) | [Join](http://www.viralmailprofits.com/signup.php) | [Login](http://viralmailprofits.com/login.php) | [Contact Us](http://www.kinder-rash-marketing.com/support/index.php?department=19) | [Terms](http://www.viralmailprofits.com/terms.php) | [Privacy](http://www.viralmailprofits.com/privacy.php)
