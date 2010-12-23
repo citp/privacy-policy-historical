@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the dotcominfoway.com privacy policy that was archived on 2010-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100516142934id_/http%3A//www.dotcominfoway.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotcominfoway.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223200903id_/http%3A//www.dotcominfoway.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
   <base href="http://www.dotcominfoway.com/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -12,20 +13,47 @@
   <link href="/templates/dotcomlayout_application/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="http://www.dotcominfoway.com/plugins/content/attachments.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mail.js"></script>
-  <script type="text/javascript">
-/*<![CDATA[*/
-	var jax_live_site = 'http://www.dotcominfoway.com/index.php';
-/*]]>*/
-</script><script type="text/javascript" src="http://www.dotcominfoway.com/plugins/system/pc_includes/ajax.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
-<link href="/templates/dotcomlayout_application/css/template.css" rel="stylesheet" type="text/css">
+<link href="/templates/dotcomlayout_application/css/template1.css" rel="stylesheet" type="text/css">
 <link href="/templates/dotcomlayout_application/css/dropline9.css" rel="stylesheet" type="text/css">
-  
-<script type="text/javascript" src="js/jquery.js"></script>
-  
+<link rel="shortcut icon" href="http://www.dotcominfoway.com/templates/dotcomlayout_application/favicon.gif">
 
-<script type="text/javascript" src="js/jquerycssmenu.js"></script>
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+
+
+<script type="text/javascript" charset="utf-8">
+ $(document).ready(function () {
+
+   $('#reset').click(function () {
+$("#captcha_img").attr("src", "http://www.dotcominfoway.com/templates/dotcomlayout_application/images/loader.gif");
+      $.ajax({
+       type: "POST",
+       url: "/modules/mod_quick_form/img.php",
+       success: function(msg){
+var nurl="components/com_chronocontact/chrono_verification.php?imtype=0&amp;random="+Math.random();
+$("#captcha_img").attr("src", nurl);
+$("#chrono_verification").attr("value", "");
+
+        
+       }
+      });
+   }); 
+
+ 
+ });
+
+</script>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+  
+   <script type="text/javascript" src="/js/flash/swfobject.js"></script>
+<script type="text/javascript" src="/js/jquerycssmenu.js"></script>
 
 <meta http-equiv="Content-Language" content="en"></head>
 <body>
@@ -51,22 +79,27 @@
                 <li>|</li>
                 <li><a href="http://www.dotcominfoway.com/careers" onfocus="this.blur()">Careers</a></li>
                 <li>|</li>
-                <li><a href="http://www.dotcominfoway.com/world-wide" onfocus="this.blur()">Worldwide</a></li>
+                <li><a href="http://www.dotcominfoway.com/news-room/" onfocus="this.blur()">News Room</a></li>
               </ul>
              </div>
  <div style="clear:both;"></div>
      			   <div style="float:right; width:180px; padding-top:10px; color:#a5a5a5;">
-			          
-<script type="text/javascript" src="/templates/dotcomlayout_new/html/mod_search/js/check.js">
-</script>
+			          <script type="text/javascript" src="/js/forms/search-validation.js"></script>
 
-<form action="http://www.dotcominfoway.com/" method="post" name="form" onsubmit="return checkresults();">
-	<div style=" width:180px; float:left;">
-		<div class="searchtext"><input name="searchword" id="mod_search_searchword" maxlength="30" alt="Search" class="inputbox" type="text" size="30" value="SEARCH" onblur="if(this.value=='') this.value='SEARCH';" onfocus="if(this.value=='SEARCH') this.value=''; "></div><div id="button_mod"><input type="image" alt="" value="" src="/templates/dotcomlayout_application/images/search_icon.jpg" onclick="return checkresults();"></div></div>
-	<input type="hidden" name="task" value="search">
-	<input type="hidden" name="option" value="com_search">
+<form action="http://www.dotcominfoway.com/search" id="cse-search-box" name="custom_search">
+  <div>
+    <input type="hidden" name="cx" value="015319324325463892470:nixo3x0inua">
+    <input type="hidden" name="cof" value="FORID:11;NB:1">
+    <input type="hidden" name="ie" value="UTF-8">
+   <div class="searchtext"> <input type="text" name="q" maxlength="320" class="inputbox" onfocus="if(this.value=='SEARCH') this.value=''; " onblur="if(this.value=='') this.value='SEARCH';" value="SEARCH" size="30"> 
+ </div>
+
+<div id="button_mod">
+ <input type="image" name="sa" src="/templates/dotcomlayout_application/images/search_icon.jpg" onclick="return checkresults();" alt="Search">
+</div>
+   
+</div>
 </form>
-
    			  </div>
 
 		</div>	
@@ -77,27 +110,27 @@
 <div id="myjquerymenu" class="jquerycssmenu">		
  
 		  
-<ul><li> <a href="/application-development/" onfocus="this.blur()">Application Development</a><ul id="Application_Development"><li class="bg"><a href="/application-development/web" onfocus="this.blur()">Web Application</a></li><li class="bg"><a href="/application-development/enterprise" onfocus="this.blur()">Enterprise Application</a></li><li class="bg"><a href="/application-development/desktop" onfocus="this.blur()">Desktop Application</a></li><li class="bg"><a href="/application-development/flex-application" onfocus="this.blur()">Flex Application</a></li><li class="bg"><a href="/application-development/widgets-development" onfocus="this.blur()">Widget Development</a></li><li class="bg"><a href="/application-development/maintenance-enhancement" onfocus="this.blur()">Maintenance and Enhancement</a></li><li class="bg"><a href="/application-development/migration" onfocus="this.blur()">Migration</a></li><li class="bg"><a href="/application-development/testing" onfocus="this.blur()">Testing</a></li>
+<ul><li> <a href="/application-development/" onfocus="this.blur()">Application Development</a><ul id="Application_Development"><li class="bg"><a href="http://www.dotcominfoway.com/application-development/web" onfocus="this.blur()">Web Application</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/enterprise" onfocus="this.blur()">Enterprise Application</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/desktop" onfocus="this.blur()">Desktop Application</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/flex-application" onfocus="this.blur()">Flex Application</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/widgets-development" onfocus="this.blur()">Widget Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/maintenance-enhancement" onfocus="this.blur()">Maintenance and Enhancement</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/migration" onfocus="this.blur()">Migration</a></li><li class="bg"><a href="http://www.dotcominfoway.com/application-development/testing" onfocus="this.blur()">Testing</a></li>
 	<li class="layout_header_nav_sub_bl"></li>
                   <li class="layout_header_nav_sub_bottom"></li>
                   <li class="layout_header_nav_sub_br"></li> 
-</ul></li><li> <a href="/web-development/" onfocus="this.blur()">Web Development</a><ul id="Web_Development"><li class="bg"><a href="/web-development/css" onfocus="this.blur()">CSS Development</a></li><li class="bg"><a href="/web-development/web2-0" onfocus="this.blur()">Web 2.0</a></li><li class="bg"><a href="/web-development/ecommerce-solutions" onfocus="this.blur()">E-commerce Solutions</a></li><li class="bg"><a href="/web-development/community-website" onfocus="this.blur()">Community Website</a></li><li class="bg"><a href="/web-development/portals" onfocus="this.blur()">Portal Development</a></li><li class="bg"><a href="/web-development/portlets" onfocus="this.blur()">Portlets</a></li><li class="bg"><a href="/web-development/open-source-solutions" onfocus="this.blur()">Open Source Solutions</a></li><li class="bg"><a href="/web-development/cms/" onfocus="this.blur()">Content Management System</a></li><li class="bg"><a href="/web-development/social-engine-development" onfocus="this.blur()">Social Engine</a></li>
+</ul></li><li> <a href="/web-development/" onfocus="this.blur()">Web Development</a><ul id="Web_Development"><li class="bg"><a href="http://www.dotcominfoway.com/web-development/design/" onfocus="this.blur()">Web Design</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/web2-0" onfocus="this.blur()">Web 2.0</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/ecommerce-solutions" onfocus="this.blur()">E-commerce Solutions</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/community-website" onfocus="this.blur()">Community Website</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/portals" onfocus="this.blur()">Portal Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/portlets" onfocus="this.blur()">Portlets</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/open-source-solutions" onfocus="this.blur()">Open Source Solutions</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/cms/" onfocus="this.blur()">Content Management System</a></li><li class="bg"><a href="http://www.dotcominfoway.com/web-development/social-engine-development" onfocus="this.blur()">Social Engine</a></li>
 	<li class="layout_header_nav_sub_bl"></li>
                   <li class="layout_header_nav_sub_bottom"></li>
                   <li class="layout_header_nav_sub_br"></li> 
-</ul></li><li> <a href="/mobile-application-development/" onfocus="this.blur()">Mobile Application Development</a><ul id="Mobile_Application_Development"><li class="bg"><a href="/mobile-application-development/iphone" onfocus="this.blur()">iPhone Application Development</a></li><li class="bg"><a href="/mobile-application-development/blackberry" onfocus="this.blur()">BlackBerry Application Development</a></li><li class="bg"><a href="/mobile-application-development/android" onfocus="this.blur()">Android Application Development</a></li><li class="bg"><a href="/mobile-application-development/windows" onfocus="this.blur()">Windows Application Development</a></li><li class="bg"><a href="/mobile-application-development/symbian/" onfocus="this.blur()">Symbian Application Development</a></li><li class="bg"><a href="/mobile-application-development/ipad" onfocus="this.blur()">iPad Application Development</a></li><li class="bg"><a href="/mobile-application-development/mobile-apps-marketing/" onfocus="this.blur()">Mobile Apps Marketing</a></li><li class="bg"><a href="/mobile-application-development/iphone-web-apps" onfocus="this.blur()">iPhone Web Apps</a></li>
+</ul></li><li> <a href="/mobile-application-development/" onfocus="this.blur()">Mobile Application Development</a><ul id="Mobile_Application_Development"><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/iphone" onfocus="this.blur()">iPhone Application Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/ipad" onfocus="this.blur()">iPad Application Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/blackberry" onfocus="this.blur()">BlackBerry Application Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/android" onfocus="this.blur()">Android Application Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/windows" onfocus="this.blur()">Windows Application Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/symbian/" onfocus="this.blur()">Symbian Application Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/mobile-apps-marketing/" onfocus="this.blur()">Mobile Apps Marketing</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/iphone/enterprise-apps" onfocus="this.blur()">Enterprise iPhone Apps</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/iphone-web-apps" onfocus="this.blur()">iPhone Web Apps</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/html-5" onfocus="this.blur()">HTML 5 Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/bada" onfocus="this.blur()">BADA Application Development</a></li>
 	<li class="layout_header_nav_sub_bl"></li>
                   <li class="layout_header_nav_sub_bottom"></li>
                   <li class="layout_header_nav_sub_br"></li> 
-</ul></li><li> <a href="/internet-marketing/" onfocus="this.blur()">Internet Marketing</a><ul id="Internet_Marketing"><li class="bg"><a href="/internet-marketing/search-engine-optimization" onfocus="this.blur()">Search Engine Optimization</a></li><li class="bg"><a href="/internet-marketing/seo-copywriting" onfocus="this.blur()">SEO Copywriting</a></li><li class="bg"><a href="/internet-marketing/ppc-management" onfocus="this.blur()">Pay Per Click</a></li><li class="bg"><a href="/internet-marketing/search-engine-marketing" onfocus="this.blur()">Search Engine Marketing</a></li><li class="bg"><a href="/internet-marketing/social-media-marketing" onfocus="this.blur()">Social Media Marketing</a></li><li class="bg"><a href="/internet-marketing/google-analytics-services" onfocus="this.blur()">Google Analytics Services</a></li>
+</ul></li><li> <a href="/internet-marketing/" onfocus="this.blur()">Internet Marketing</a><ul id="Internet_Marketing"><li class="bg"><a href="http://www.dotcominfoway.com/internet-marketing/search-engine-optimization" onfocus="this.blur()">Search Engine Optimization</a></li><li class="bg"><a href="http://www.dotcominfoway.com/internet-marketing/seo-copywriting" onfocus="this.blur()">SEO Copywriting</a></li><li class="bg"><a href="http://www.dotcominfoway.com/internet-marketing/ppc-management" onfocus="this.blur()">Pay Per Click</a></li><li class="bg"><a href="http://www.dotcominfoway.com/internet-marketing/search-engine-marketing" onfocus="this.blur()">Search Engine Marketing</a></li><li class="bg"><a href="http://www.dotcominfoway.com/internet-marketing/social-media-marketing" onfocus="this.blur()">Social Media Marketing</a></li><li class="bg"><a href="http://www.dotcominfoway.com/internet-marketing/google-analytics-services" onfocus="this.blur()">Google Analytics Services</a></li>
 	<li class="layout_header_nav_sub_bl"></li>
                   <li class="layout_header_nav_sub_bottom"></li>
                   <li class="layout_header_nav_sub_br"></li> 
-</ul></li><li> <a href="/technology/" onfocus="this.blur()">Technology</a><ul id="Technology"><li class="bg"><a href="/technology/dotnet" onfocus="this.blur()">.NET Development</a></li><li class="bg"><a href="/technology/php" onfocus="this.blur()">PHP Development</a></li><li class="bg"><a href="/technology/java" onfocus="this.blur()">Java Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/iphone" onfocus="this.blur()">Objective C</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/blackberry" onfocus="this.blur()">Java ME</a></li><li class="bg"><a href="/technology/cloud-computing" onfocus="this.blur()">Cloud Computing</a></li><li class="bg"><a href="/technology/saas" onfocus="this.blur()">SaaS</a></li><li class="bg"><a href="/technology/ruby-on-rails" onfocus="this.blur()">Ruby on Rails</a></li>
+</ul></li><li> <a href="/technology/" onfocus="this.blur()">Technology</a><ul id="Technology"><li class="bg"><a href="http://www.dotcominfoway.com/technology/dotnet" onfocus="this.blur()">.NET Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/technology/sharepoint" onfocus="this.blur()">SharePoint</a></li><li class="bg"><a href="http://www.dotcominfoway.com/technology/php" onfocus="this.blur()">PHP Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/technology/java" onfocus="this.blur()">Java Development</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/iphone" onfocus="this.blur()">Objective C</a></li><li class="bg"><a href="http://www.dotcominfoway.com/mobile-application-development/blackberry" onfocus="this.blur()">Java ME</a></li><li class="bg"><a href="http://www.dotcominfoway.com/technology/cloud-computing" onfocus="this.blur()">Cloud Computing</a></li><li class="bg"><a href="http://www.dotcominfoway.com/technology/saas" onfocus="this.blur()">SaaS</a></li><li class="bg"><a href="http://www.dotcominfoway.com/technology/ruby-on-rails" onfocus="this.blur()">Ruby on Rails</a></li>
 	<li class="layout_header_nav_sub_bl"></li>
                   <li class="layout_header_nav_sub_bottom"></li>
                   <li class="layout_header_nav_sub_br"></li> 
-</ul></li><li> <a href="/products/" onfocus="this.blur()">Products</a><ul id="Products"><li class="bg"><a href="/products/coredna" onfocus="this.blur()">coreDNA</a></li><li class="bg"><a href="/products/planningforce" onfocus="this.blur()">PlanningForce</a></li><li class="bg"><a href="/products/planningforge" onfocus="this.blur()">PlanningForge</a></li><li class="bg"><a href="/products/ebookengine" onfocus="this.blur()">eBook Engine</a></li>
+</ul></li><li> <a href="/products/" onfocus="this.blur()">Products</a><ul id="Products"><li class="bg"><a href="http://www.dotcominfoway.com/products/coredna" onfocus="this.blur()">coreDNA</a></li><li class="bg"><a href="http://www.dotcominfoway.com/products/planningforce" onfocus="this.blur()">PlanningForce</a></li><li class="bg"><a href="http://www.dotcominfoway.com/products/planningforge" onfocus="this.blur()">PlanningForge</a></li><li class="bg"><a href="http://www.dotcominfoway.com/products/ebookengine" onfocus="this.blur()">Moblish(eBook Engine)</a></li>
 	<li class="layout_header_nav_sub_bl"></li>
                   <li class="layout_header_nav_sub_bottom"></li>
                   <li class="layout_header_nav_sub_br"></li> 
@@ -113,13 +146,11 @@
 </div>
 
 					<div class="lhs_header_layout">
-					 <!--<div class="lhs_header"></div> --><!-- image header -->
 					 <!-- application development tile bar-->
 	                    						 <!-- about us -->
 										 <!-- methodology -->
-										
-										
-																				<!-- content main content(component) -->
+																				
+                                                                                 																				<!-- content main content(component) -->
 																				     					  
 <div class="common_cont1">
 <div id="page">
@@ -131,7 +162,6 @@
 
 <p class="buttonheading">
 	</p>
-
 
 
 
@@ -149,7 +179,7 @@
 <div class="newsideheadings_links">
 <ul style="text-align:left;">
 <li>We keep all the business conversations, mail correspondences and documents confidential.</li>
-<li>We use the information you provide, such as e-mail ID and IM Chat address only to respond to your requests.</li>
+<li>We use the information you provide, such as e-mail ID and IM Chat address only to respond to your requests and email you updated on our latest service offerings.</li>
 <li>When you are logged on to Live Chat assistance, we use the information provided by you to direct you to particular web pages in order to increase the relevance of the information you access through our website.</li>
 <li>We get the details of the web pages visited by you and the number of page hits per week in order to customize our pages or services and thereby enhance our site’s usability.</li>
 <li>Third party service providers used by Dot Com Infoway perform certain functions which may include data processing. Such companies are under a duty of confidentiality of Dot Com Infoway.</li>
@@ -183,108 +213,82 @@
 				
 				<div class="rhs_innerpage_content">
 							
-<div class="rhs_reqt_service">
-<div class="rhs_heading"><a href="/contact/request-for-services">REQUEST FOR SERVICE</a></div>
-</div><!--<div class="rhs_reqt_service"><div class="rhs_heading">Request for Service</div></div>-->
+<!--<div class="rhs_reqt_service"><div class="rhs_heading">Request for Service</div></div>-->
 				<!--Round-->
 
 				<div style="padding-bottom:7px"></div>
 				<div class="rhs_contact">
-                                <div><img src="/templates/dotcomlayout_application/images/top_round_rect.jpg" border="0" alt=""></div>
-<div class="rhs_contact_round">
+                                
+<div class="lhs_contact">
+                                <div><img border="0" src="/templates/dotcomlayout_application/images/top_round_rect.jpg" alt=""></div>
+<div class="rhs_contact_round_contact">
 <div class="rhs_contact_bgimg">
 <div class="rhs_casestudy_heading">Contact Us</div>
 </div>
-<div class="rhs_contact_content"><span class="rhs_org_content">Email us: <br></span><a href="mailto:ask@dotcominfoway.com?subject=Enquiry%20from%20Dot%20Com%20Infoway" onclick="javascript:pageTracker._trackPageview('/outgoing/mail/ask');">ask@dotcominfoway.com</a><br><br></div>
+<div class="rhs_contact_content_contact">
+<p class="email_us_para">
+<span class="email_us_span">
+<a onfocus="this.blur()" onclick="javascript:pageTracker._trackPageview('/outgoing/mail/ask');" href="mailto: ask@dotcominfoway.com?subject=DCI Service Requisition: December 23, 2010 - 20:09"><img src="/templates/dotcomlayout_application/images/email-us.jpg" border="1" alt="Email Us"></a>
+</span>
+<span class="rhs_org_content">
+<a onfocus="this.blur()" onclick="javascript:pageTracker._trackPageview('/outgoing/mail/ask');" href="mailto: ask@dotcominfoway.com?subject=DCI Service Requisition: December 23, 2010 - 20:09">Email Us</a> <br>
+</span>
+</p>
+
+<p class="email_us_para1">
+<span class="email_us_span1">
+<a onfocus="this.blur()" onclick="javascript:pageTracker._trackPageview('/Right side/Request for Service');" href="http://www.dotcominfoway.com/contact/request-for-services"><img src="/templates/dotcomlayout_application/images/request-a-quote.jpg" border="1" alt="Request For a Quote"></a>
+</span>
+<span class="rhs_org_content1">
+<a onfocus="this.blur()" onclick="javascript:pageTracker._trackPageview('/Right side/Request for Service');" href="http://www.dotcominfoway.com/contact/request-for-services">Request For Quote</a> <br>
+</span>
+</p>
+
 </div>
-<div><img src="/templates/dotcomlayout_application/images/bttm_round_rect.jpg" border="0" alt=""></div>
+</div>
+<div><img border="0" src="/templates/dotcomlayout_application/images/bttm_round_rect.jpg" alt=""></div>
 				</div>
-   	<script type="text/javascript" src="/js/signup.js">
 
-	</script>
-	<script type="text/javascript">
-	function formsubmit1(task)
-	{
-		var form = document.subscribeFormModule;
-		if(task == "addSubscriber")
-		{
-			if(form.name.value== "")
-			{
-				alert('');
-			}
-			else if(form.email == "")
-			{
-				alert('Enter valid email id');
-			}
-			else if(!verif_mail1())
 
-			{
 
-				return false;
-
-			}
-			
-			else
-			{
-				form.task.value = "addSubscriber";
-				form.submit();
-			}
-		}
-		else if(task == "removeSubscriberByEmail")
-		{
-			if(form.email == "")
-			{
-				alert('Enter valid email id');
-			}
-			else if(( form.email.search("@") == -1) || ( form.email.search("[.*]" ) == -1 ))
-			{
-				alert('Enter valid email id');
-			}
-			else
-			{
-				form.task.value = "removeSubscriberByEmail";
-				form.submit();
-			}
-		}
-	}
-	</script>
-
+				</div>
+ 
+  
+<script type="text/javascript" src="/js/signup.js">	</script>
 	<div style="padding-top:7px;"></div>
  <div class="rhs_box1">
- <form action="/index.php?option=com_ccnewsletter&amp;view=ccnewsletter" method="post" name="subscribeFormModule" id="subscribeFormModule">
-	    <div><img border="0" src="/templates/dotcomlayout_application/images/top_round_rect.jpg" alt=""></div>
-		<!-- <p></p> -->
-		    
-		
-				<div class="rhs_port_round">
+<form name="ccoptin" id="form-ccsignup" action="http://visitor.constantcontact.com/d.jsp" method="post" target="_blank">
+   <div><img border="0" alt="" src="/templates/dotcomlayout_application/images/top_round_rect.jpg"></div>
+<div class="rhs_port_round">
      
 		  <div class="rhs_subscribe_bgimg"> 
          <div class="rhs_casestudy_heading">Subscribe</div>
 
-      </div>   	
+      </div>       
+		
+					
 				<div class="quick_container1">
-				<input type="hidden" name="name" id="name" value="DCI">
-			<input type="text" name="email" id="email" onfocus="if(this.value=='E-Mail') this.value=''; " onblur="if(this.value=='') 
-			this.value='E-Mail';" class="quickfrm_txtbox" value="E-Mail">
-			</div>
-							<div class="quick_btn_container">
 
+	<input type="hidden" name="m" value="1101063570257">
+	<input type="hidden" name="p" value="oi">
+	<input type="text" name="ea" size="18" value="E-Mail" onfocus="if(this.value=='E-Mail') this.value=''; " onblur="if(this.value=='') 
+			this.value='E-Mail';" class="quickfrm_txtbox">
+</div>
+	<!-- <input type="submit" name="" value="" class="button" /> -->
+<div class="quick_btn_container">
 <div class="quick_text_style1">
-<input class="button1" type="image" id="addSubscriber" name="addSubscriber" src="/templates/dotcomlayout_application/images/btn-subscribe.jpg" onclick="return formsubmit1('addSubscriber');">
-				<!-- <input class="button1" type="button" id="addSubscriber" name="addSubscriber" value=""  onclick="formsubmit('addSubscriber');"/> -->
-				<!--<p><center><input  type="image" src="images/back_f2.png" id="addSubscriber" name="addSubscriber" value=""  onclick="formsubmit('addSubscriber');"/></center></p>-->
-						</div></div>
-			</div>	
- <div><img border="0" src="/templates/dotcomlayout_application/images/bttm_round_rect.jpg" alt=""></div>
+<input class="button1" type="image" id="addSubscriber" name="addSubscriber" src="/templates/dotcomlayout_application/images/btn-subscribe.jpg" onclick="return formsubmit2();">
+				
+						</div></div></div>
+			
+ <div><img border="0" alt="" src="/templates/dotcomlayout_application/images/bttm_round_rect.jpg"></div>
 
-						<input type="hidden" name="option" value="com_ccnewsletter">
-			<!--<input type="hidden" name="task" value="addSubscriber" />-->
-			<input type="hidden" name="task" value="">
-		</form>
-		</div>
+</form>
+</div>
 
 
 
+<div style="padding-bottom:7px"></div>
  				<div style="padding-bottom:7px"></div>
 				<div class="rhs_contact">
 				 <div><img src="/templates/dotcomlayout_application/images/top_round_rect.jpg" border="0" alt=""></div>
@@ -313,7 +317,23 @@
 				</div>
 				<div style="padding-bottom:7px"></div>
  				<div class="rhs_contact">
-				<div><img src="templates/dotcomlayout_application/images/top_round_rect.jpg" alt=""></div>
+				<div><img src="/templates/dotcomlayout_application/images/top_round_rect.jpg" border="0" alt=""></div>
+<div class="rhs_contact_round">
+<div class="rhs_links_bgimg">
+<div class="rhs_links_heading">Related Links</div>
+</div>
+<div class="rhs_round_content">
+<div style="padding-bottom: 5px">
+<div class="rhs_pdf_img"><img src="/templates/dotcomlayout_application/images/arrow1.jpg" border="0" alt=""></div>
+<div class="rhs_pdf_text"><a href="http://www.dotcominfoway.com/internet-marketing/">Internet Marketing</a></div>
+</div>
+<div>
+<div class="rhs_pdf_img"><img src="/templates/dotcomlayout_application/images/arrow1.jpg" border="0" alt=""></div>
+<div class="rhs_pdf_text"><a href="http://www.dotcominfoway.com/methodology/">Methodology</a></div>
+</div>
+</div>
+</div>
+<div><img src="/templates/dotcomlayout_application/images/bttm_round_rect.jpg" border="0" alt=""></div><div><img src="templates/dotcomlayout_application/images/top_round_rect.jpg" alt=""></div>
 <div class="rhs_contact_round">
 <div class="rhs_paper_bgimg">
 <div class="rhs_casestudy_heading">White Papers</div>
@@ -331,52 +351,26 @@
 </div>
 
 <div><img src="templates/dotcomlayout_application/images/bttm_round_rect.jpg" alt=""></div>
-<div style="clear:both; padding-bottom:10px;"></div><div><img src="/templates/dotcomlayout_application/images/top_round_rect.jpg" border="0" alt=""></div>
-<div class="rhs_contact_round">
-<div class="rhs_links_bgimg">
-<div class="rhs_links_heading">Related Links</div>
-</div>
-<div class="rhs_round_content">
-<div style="padding-bottom: 5px">
-<div class="rhs_pdf_img"><img src="/templates/dotcomlayout_application/images/arrow1.jpg" border="0" alt=""></div>
-<div class="rhs_pdf_text"><a href="http://www.dotcominfoway.com/internet-marketing/">Internet Marketing</a></div>
-</div>
-<div>
-<div class="rhs_pdf_img"><img src="/templates/dotcomlayout_application/images/arrow1.jpg" border="0" alt=""></div>
-<div class="rhs_pdf_text"><a href="http://www.dotcominfoway.com/methodology/">Methodology</a></div>
-</div>
-</div>
-</div>
-<div><img src="/templates/dotcomlayout_application/images/bttm_round_rect.jpg" border="0" alt=""></div>
+<div style="clear:both; padding-bottom:10px;"></div>
 				</div>
  				
 				</div>
 		  </div>
 		  
 
+<div class="clearboth"></div> 
 			<div align="left" class="footer_icon_outerwrap">
 			<div align="left" class="icons_rinnerwrap">
-<div class="print_txt">
+<div class="print_txt_enterprise">
   	
-<div class="joomla_add_this">
-<!-- ADDTHIS BUTTON BEGIN -->
-<script type="text/javascript" language="javascript">
-addthis_pub             = 'ajaylulia'; 
-addthis_logo            = 'http://www.joomlaserviceprovider.com/images/jsp_icon.png';
-addthis_logo_background = 'EFEFFF';
-addthis_logo_color      = '666699';
-addthis_brand           = '';
-addthis_options         = 'favorites, digg, delicious, google, myspace, facebook, reddit, newsvine, live, more';
-</script>
-
-<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="/templates/dotcomlayout_application/images/button1-addthis.gif" width="125" height="16" border="0" alt=""></a>
-<script type="text/javascript" src="/js/addthis_widget.js"></script>
-<!-- ADDTHIS BUTTON END -->
+<div class="joomla_sharethis">
+<!-- SHARETHIS BUTTON BEGIN -->
+<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=&amp;headerbg=%23000099&amp;inactivebg=%23CCCCCC&amp;inactivefg=%23000000&amp;linkfg=%23000099&amp;buttonText=ShareThis"></script><!-- SHARETHIS BUTTON END -->
 
 </div>
  
  </div>
-				<a href="javascript:;" onclick="OpenBrWindow('/go_green.php','Test','','476','500','true')"><img src="/templates/dotcomlayout_application/images/print_icon.jpg" width="19" height="23" border="0" alt="print_icon"></a>
+				<a href="javascript:;" onclick="OpenBrWindow('/go_green.php','Test','','476','500','true')"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/print_icon.jpg" width="19" height="23" border="0" alt="print_icon"></a>
 <div class="print_txt"><a href="javascript:;" onclick="OpenBrWindow('/go_green.php','Print This PAge','','476','500','true')">Print this page</a></div>
 
 </div>
@@ -384,10 +378,12 @@ addthis_options         = 'favorites, digg, delicious, google, myspace, facebook
 
 
 <div align="left" class="icons_rinnerwrap_right">
-<a target="blank" rel="nofollow" href="http://www.facebook.com/pages/Chennai-India/Dot-Com-Infoway/8832585350"><img src="templates/dotcomlayout_application/images/dci-facebook.jpg" alt="DCI on Facebook"></a>
-<a target="blank" rel="nofollow" href="http://www.youtube.com/dotcominfowayltd"><img src="templates/dotcomlayout_application/images/dci-you-tube.jpg" alt="DCI on Youtube"></a>
-<a target="blank" rel="nofollow" href="http://twitter.com/dotcominfoway"><img src="templates/dotcomlayout_application/images/dci-twitter.gif" alt="DCI on Twitter"></a>
-<a target="blank" rel="nofollow" href="http://www.linkedin.com/groups?gid=1614927"><img src="templates/dotcomlayout_application/images/dci-linkedin.jpg" alt="DCI on Linkedin"></a>
+<a target="blank" rel="nofollow" href="http://www.facebook.com/DotComInfoway"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/dci-facebook.jpg" title="DCI on Facebook" alt="DCI on Facebook"></a>
+<a target="blank" rel="nofollow" href="http://www.youtube.com/dotcominfowayltd"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/dci-you-tube.jpg" title="DCI on Youtube" alt="DCI on Youtube"></a>
+<a target="blank" rel="nofollow" href="http://twitter.com/dotcominfoway"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/dci-twitter.gif" title="DCI on Twitter" alt="DCI on Twitter"></a>
+<a target="blank" rel="nofollow" href="http://www.linkedin.com/groups?gid=1614927"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/dci-linkedin.jpg" title="DCI on Linkedin" alt="DCI on Linkedin"></a>
+<a target="blank" rel="nofollow" href="http://feeds.feedburner.com/DCI-Blog"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/dci-rss-feed.jpg" title="Subscribe DCI Blog" alt="Subscribe DCI Blog"></a>
+
 </div>
 
 
@@ -411,7 +407,7 @@ addthis_options         = 'favorites, digg, delicious, google, myspace, facebook
 <div class="customenu_footer_right">
 <a href="http://www.dotcominfoway.com/methodology/" title="Methodology">
 <span class="span_link_1"><span class="span_active">Methodology</span></span></a>
-<a href="http://www.dotcominfoway.com/business-models/" title=""><span class="span_link_4"><span class="span_normal" onmouseover="this.className='span_hover'" onmouseout="this.className='span_normal'">Business Models</span></span></a>
+<a href="http://www.dotcominfoway.com/business-models/" title="Business Models"><span class="span_link_4"><span class="span_normal" onmouseover="this.className='span_hover'" onmouseout="this.className='span_normal'">Business Models</span></span></a>
 <a href="http://www.dotcominfoway.com/privacy-policy/" title="Privacy Policy">
 <span class="span_link_2"><span class="span_normal" onmouseover="this.className='span_hover'" onmouseout="this.className='span_normal'">Privacy Policy</span></span></a>
 <a href="http://www.dotcominfoway.com/sitemap/" title="Sitemap"><span class="span_link_3"><span class="span_normal" onmouseover="this.className='span_hover'" onmouseout="this.className='span_normal'">Sitemap</span></span></a>
@@ -421,35 +417,33 @@ addthis_options         = 'favorites, digg, delicious, google, myspace, facebook
 
 </div>
                 <div class="copyright">Copyright © 2008-2010 <a href="http://www.dotcominfoway.com/">Dot Com Infoway</a></div> 
-<div class="w3c_logo"><a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" rel="nofollow"><img src="templates/dotcomlayout_application/images/w3ccss.jpg" width="84" height="14" alt="valid_css"></a>&nbsp;&nbsp;&nbsp;<a href="http://validator.w3.org/check?uri=referer" target="_blank" rel="nofollow"><img src="templates/dotcomlayout_application/images/w3cxhtml.jpg" width="84" height="14" alt="valid_xhtml"></a></div>
+<div class="w3c_logo"><a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" rel="nofollow"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/w3ccss.jpg" width="84" height="14" alt="valid_css"></a>&nbsp;&nbsp;&nbsp;<a href="http://validator.w3.org/check?uri=referer" target="_blank" rel="nofollow"><img src="http://www.dotcominfoway.com/templates/dotcomlayout_application/images/w3cxhtml.jpg" width="84" height="14" alt="valid_xhtml"></a></div>
 </div>
 	
 	
 </div>
 
 <!-- Google analytics  starts here -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='http://www.dotcominfoway.com/js/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="http://www.dotcominfoway.com/js/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-5797872-1");
 pageTracker._trackPageview();
-var pageTracker1 = _gat._getTracker("UA-11953318-1");
-pageTracker1._trackPageview();
+
 </script>
  <!-- Google analytics ends here -->
 
+
+ 
 <!-- Start of StatCounter Code -->
 <script type="text/javascript">
-var sc_project=5116622; 
-var sc_invisible=1; 
-var sc_partition=58; 
-var sc_click_stat=1; 
-var sc_security="acfc8dc4"; 
+var sc_project=5116622;
+var sc_invisible=1;
+var sc_security="acfc8dc4";
+var sc_remove_link=1;
 </script>
 
-<script type="text/javascript" src="/js/counter_xhtml.js"></script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<!-- End of StatCounter Code -->
 
 
 
