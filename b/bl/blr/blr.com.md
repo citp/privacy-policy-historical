@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607200125id_/http%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223191046id_/http%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Privacy Statement | BLR.com
 
