@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gptupload.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004225id_/http%3A//gptupload.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptupload.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223092806id_/http%3A//gptupload.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# ImgBux-Revenue Sharing Image Hosting Site
+# GPTupload.com-Revenue Sharing Image Hosting Site
 
 When you sign up for an account with GPTupload.eu, we collect personal information from you including your email address and a password. 
 
