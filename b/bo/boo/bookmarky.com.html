@@ -1,0 +1,569 @@
+<!--The following is the downloaded HTML source of the bookmarky.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223065950id_/http%3A//www.bookmarky.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Bookmarky - Privacy</title>
+<meta name="description" content="Bookmarky - Privacy.">
+<meta name="keywords" content="Bookmarky, Privacy">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/structure/global.css?v2">
+<link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/structure/header.css?v2">
+<link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/bookmark/ovl_registration.css?v6">
+<link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/bookmark/ovl_bookmark.css?v1">
+<!--[if lte IE 7]>
+<style type="text/css">
+body {
+behavior:url("/jslib/csshover3.htc");
+}
+</style>
+<![endif]-->  
+<!--[if lte IE 6]>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/externals/pngFix.js?v1"></script>
+<script type="text/javascript">
+     DD_belatedPNG.fix('.pngie6');  
+     </script>
+<![endif]-->
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/externals/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/jslib/globalConfig.php"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/translations/translationsHandler.js?v1"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/header/header.js?v1"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/externals/jquery/plugins/tools.tooltip-1.1.0.js"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/externals/jquery/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/overlayers/userlogin.js?v3"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/utils/formFunctions.js?v4"></script>
+<script type="text/javascript" src="http://static.bookmarky.com/javascript/common/externals/jquery/plugins/easySlider1.5.js"></script>
+<script type="text/javascript" src="/jslib/minify.php?files=/jslib/md5.js,/jslib/PageFunctions.js,/js/languages/common_en_US.js,/js/languages/header_en_US.js"></script>
+<script language="javascript" type="text/javascript">
+    // Fix IE6 flicker issues
+    try {
+        document.execCommand("BackgroundImageCache", false, true);
+    } catch(err) {}
+</script>
+<link rel="shortcut icon" href="http://media.bookmarky.com/images/common/favicon/favicon.ico">
+</head>
+<body>
+<div id="wrapper">
+<div id="header" class="pngie6">
+<div id="user_logout" class="side-header" style="display:none;">
+<a href="#" class="avatar"><img id="user_logout_avatar" src="http://media.bookmarky.com/images//common/elements/avatar/micro/green.png"></a>
+<a id="user_logout_uname" title="" target="_self" href="/profile/" class="data"></a>
+<a title="" target="_self" href="#" class="log" onclick="return logOff();">Logout</a>
+</div>
+<div id="user_login" class="side-header" style="display:block;">
+<a title="" target="_self" class="data" id="signupheader" rel="#overlay-registration" href="javascript:refreshOvlCaptcha();" onclick="return signUpOverlay();">SignUp</a>
+<a title="" class="log" id="loginheader" rel="#overlay-registration" href="" onclick="return loginOverlay();">Login</a> with <a href="" onclick="return openIdOverlay();">Openid</a>
+<div class="openid-login">
+<ul>
+<li><a title="" target="_self" href="#" class="yahoo" onclick="return openIdRequest('yahoo');">yahoo</a></li>
+<li><a title="" target="_self" href="#" class="google" onclick="return openIdRequest('google');">google</a></li>
+<li><a id="openidheader" title="" target="_self" class="openid" rel="#overlay-registration" href="" onclick="return openIdOverlayIcon();">openid</a></li>
+</ul>
+</div>
+</div>
+<div id="logo"><a title="Bookmarky - Privacy" href="/" class="pngie6">Bookmarky - Privacy</a></div>
+<div class="search">
+<form action="/tag/" id="searchForm" method="post">
+<input class="pngie6" type="text" value="Search by Tag..." id="searchInput" name="searchInput" gtbfieldid="1">
+<input class="pngie6" type="submit" id="searchsubmit" value="Search">
+</form>
+</div>
+</div>
+<script type="text/javascript" language="Javascript">
+    
+    refreshOvlCaptcha();
+    var li = "";
+
+    function refreshOvlCaptcha() {
+        if($('#ovl-tmpCaptcha').length <= 0) {
+            $("#ovl-cccode_span").append('<img id="ovl-tmpCaptcha"></img>');
+        }
+        $("#ovl-tmpCaptcha").attr("src", "/jslib/Captcha.php?"+Math.floor(Math.random()*1000));
+        $("#ovl-tmpCaptcha").attr("height", "60");
+        $("#ovl-tmpCaptcha").attr("width", "180");
+    }
+</script>
+<!-- header -->
+<div class="top_corner pngie6"></div>
+<div id="layout_body">
+<table cellspacing="0" cellpadding="0" id="wrap">
+<tbody>
+<tr>
+<td width="940" valign="top">
+<div style="width:940px;" id="left_col">
+<!-- colonna sinistra -->
+<div class="box-notitle">
+<div class="content_raw_notitle ext_page">
+<div class="box-notitle">
+<style type="text/css">
+.content_raw_notitle {
+margin:0;
+padding:5px;
+font-size:13px;
+line-height:19px;
+} 
+.content_raw_notitle h3.title, .content_raw_notitle h3.title a{
+font-size:21px;
+color:#36c;
+}
+.content_raw_notitle ul li {
+margin-bottom:8px;
+}
+.ext_page {
+width:90%;
+}
+.ext_page h4 {
+color:#36c;
+border-bottom:1px solid #ddd;
+padding:2px;
+margin-bottom:2px;
+}
+.ext_page p {
+margin-bottom:7px;
+text-align:justify;
+}
+</style>
+<h3 class="title">Privacy Policy</h3>
+<p>Respecting users' privacy is a key value for Bookmarky. To learn about what personal information Bookmarky collects and how it may be used, please read Bookmarky 's privacy policy here below. If you have any questions, please contact Bookmarky user support. Thank you.
+<br>
+<br>We will comply with the Data Protection Act 1998 and any other applicable data protection legislation. By registering for the Bookmarky services you consent to our using and/or disclosing your personal information for the following purposes:
+<br>
+<br>- providing, or arranging for third parties to provide, help desk facilities which may be available to you which may involve disclosing your personal information to third parties solely for those purposes;
+<br>
+<br>- providing, or arranging for third parties to provide, any additional services you request from us;
+<br>
+<br>- as required or permitted by law from time to time.
+<br>
+<br>We will not use your personal data for marketing other Bookmarky  products and services or any third party products and services without having given you the opportunity to opt out of such marketing opportunities.
+<br>
+<br>We are committed to protecting your right to privacy. Any information you provide to us will be held on computers that are based in Italy. We collect information about our users in order to help continually improve the Bookmarky services. We also use the information you provide us to enter into commercial arrangements, including the sale of advertising space, which allow the Bookmarky service to remain free for all our users. We will always adhere to the Data Protection Act 1998 (UK) in relation to our use of your information and any other applicable data protection laws. This Privacy Policy relates only to our use of the information you provide us and your use of Bookmarky and does not extend to your use of the Internet other than Bookmarky.
+</p>
+<br>
+<h4>What data do we collect from you?</h4>
+<p>
+We collect the personal data you provide when you register for Bookmarky services with us. We also collect any other personal data that you provide when using Bookmarky, for example, to enter competitions. We also use cookie technology to monitor which areas of Bookmarky you prefer. The information obtained from the cookies is not stored alongside your personal data and will only be used on an anonymous, aggregated basis. We may also hold information relating to any transactions that you enter into with us or any of our third party retail partners.
+<br>
+<br>We use the advertising agencies to serve ads when you visit Bookmarky  Sites. These companies may use information about your visits to Bookmarky  Sites, including the searches you conduct while on Bookmarky  Sites. None of this information is used to identify you personally. This information is used to present you with relevant advertisements on other Websites that you may visit.
+</p>
+<br>
+<h4>What we do with the data we collect from you?</h4>
+<p>
+We may use the personal information we collect from you to build up a profile of your interests and preferences. This information may be disclosed to other Bookmarky  group companies and carefully selected third parties and/or used to make you aware of products or services that you may find of interest. If you do not wish to have your details passed on to carefully selected third parties or if you do not wish to receive unsolicited mailings from us, you may anytime opt out in the user profile section of Bookmarky.
+</p>
+<br>
+<h4>Third Party Advertising</h4>
+<p>
+The advertisements appearing on the Bookmarky services are delivered to you by ourselves and by advertising agencies. Information about your visit to Bookmarky, such as the number of times you have viewed a particular advertisement (but not information about you, such as your name, address or any other personal information) is used to decide which advertisements to serve to you.
+<br>
+<br>In the course of serving advertisements to you cookie technology may be used, but such cookies will not be used to collect any personally identifiable information about you.
+</p>
+<br>
+<h4>Private Communications</h4>
+<p>It is our policy to respect the privacy of private communications. We will not intentionally inspect the contents of private communications sent or received using the Bookmarky  Portal except as required or permitted to do so by law.
+</p>
+<br>
+<h4>Children and Bookmarky </h4>
+<p>
+We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information. Where children are specifically encouraged to participate within Bookmarky, they will always be advised that they should seek parental permission before they continue with the activity. We recommend that parents actively participate and where possible monitor their children's use of Bookmarky.
+<br>Keeping your details private
+<br>
+<br>The use of Newsgroups or Forums/Chat, either within the Bookmarky  Portal or on the Internet, is at your own risk. This may result in you receiving unsolicited messages from other parties who have picked up your details from such services. Further, do not forget that if you enter your details in the Bookmarky  Users Directory they will be generally available to all Bookmarky  users.
+<br><br>
+</p>
+<h4>Disclosure of data in accordance with law</h4>
+<p>
+We may need to disclose your data to appropriate persons where required or permitted by law (for example, to law enforcement authorities in relation to the investigation of a suspected criminal offence).
+<br><br></p>
+<h4>Changing contact details</h4>
+<p>
+You can update or amend your contact details at any time from within the Bookmarky  Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at:
+<br>
+<br>Goadvertising LTD
+<br>Huband House, 16 Upper Mount Street
+<br>Dublin 2 
+<br>Ireland
+<br>
+<br>
+</p>
+<h4>Changes to the Policy</h4>
+<p>We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the Bookmarky  Portal. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. The Privacy Policy will always be easily accessible online throughout Bookmarky.
+</p>
+</div>
+</div>	
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="bottom_corner pngie6"></div>
+<div id="footer">
+<p>Copyright 2010 Populis ltd</p>
+<ul>
+<li><a title="Disclaimer" href="/disclaimer">Disclaimer</a></li>
+<li><a title="Privacy" href="/privacy">Privacy</a></li>
+<li><a href="mailto:contact@bookmarky.com?subject=(USA)">Contact us</a></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript "+"s"+"r"+"c='" + gaJsHost + "google-analytics" + ".com" + "/" + "ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-12060042-1");
+                pageTracker._setDomainName(".bookmarky.com");
+                pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
+<div id="overlay-registration" style="display:none;">
+<div id="close-ovl">
+<a href="#" title="Close" onclick="return closeRegOverlay();"><img class="pngie6" src="http://media.bookmarky.com/images/common/elements/registration/close.png" alt="Close"></a>
+</div>  
+<div class="clear"></div>
+<div id="registration">
+<div id="tabs">
+<ul class="tabs_nav">
+<li id="tab-login">
+<span><a href="login" id="tab-login-h">Login</a></span>
+<p><a href="#" id="tab-recover-h">Recover Password</a></p>
+</li>
+<li id="tab-openid">
+<span><a id="tab-openid-h" href="login_openid">Login with OpenId</a></span>
+</li>
+<li id="tab-signup">
+<span><a onclick="refreshOvlCaptcha();" id="tab-signup-h" href="signup" class="selected">SignUp</a></span>
+<p><a href="#" id="tab-resend-h">Resend Invitation Email</a></p>
+</li>
+</ul>
+</div>  
+<div id="signup" class="form-container" style="display:none;">
+<div class="error_msg" id="ovl-signup-error_msg" style="display:none;">
+<span class="heading">Oops. We've noticed some errors.</span>
+<ol id="ovl-signup-err-ol">
+</ol>
+</div>
+<div class="success_msg" id="ovl-signup-success_msg" style="display: none;">
+<span class="heading">Your registration has worked!</span>
+<span class="heading">Check your email to finish things off..</span>
+</div>
+<form method="post" class="ovl-form" id="ovl-form-signup">
+<fieldset>
+<legend><span>Get going with Bookmarky</span></legend>
+<ol>
+<li>
+<label for="username">Username<em>*</em></label>
+<input type="text" id="signup-username" name="username">
+</li>
+<li>
+<label for="password">Password:<em>*</em></label>
+<input type="password" id="signup-password" name="password">
+</li>
+<li>
+<label for="confirmpassword">Confirm Password<em>*</em></label>
+<input type="password" id="signup-confirm" name="confirmpassword">
+</li>   
+<li>
+<label for="email">Email<em>*</em></label>
+<input type="text" id="signup-email" name="email">
+</li>                   
+<li class="captcha">
+<label for="captcha">Insert the code below<em>*</em></label>
+<input type="text" id="signup-captcha" name="captcha">
+</li>
+<li>
+<label>
+<a id="Ovl-captchaAId" alt="Refresh" title="Refresh" href="javascript:refreshOvlCaptcha();">
+<img src="http://media.bookmarky.com/images/common/elements/registration/arrow_refresh.jpg" alt="refresh">
+</a>
+</label>
+<span id="ovl-cccode_span">
+<img width="180" height="60" id="ovl-tmpCaptcha" src="../images/Captcha.jpeg">
+</span>
+</li>
+<li>
+<label>&nbsp;</label>
+<input name="Signup to Bookmarky" class="rounded-button" value="Signup to Bookmarky" type="submit">
+</li>   
+<li class="mandatory">* Mandatory fields</li>
+</ol>
+</fieldset>
+</form> 
+</div>
+<script type="text/javascript" language="Javascript">
+
+    refreshOvlCaptcha();
+    var li = ""; 
+
+    function refreshOvlCaptcha() {
+        if($('#ovl-tmpCaptcha').length <= 0) {
+            $("#ovl-cccode_span").append('<img id="ovl-tmpCaptcha"></img>');
+        }
+        $("#ovl-tmpCaptcha").attr("src", "/jslib/Captcha.php?"+Math.floor(Math.random()*1000));
+        $("#ovl-tmpCaptcha").attr("height", "60");
+        $("#ovl-tmpCaptcha").attr("width", "180");
+    }
+</script>
+<div id="login_openid" class="form-container" style="display:none">
+<p class="description">OpenID is a single username or password that lets you login from any computer, anywhere. (Meaning you don't have to flaff around remembering a different password for every site you visit)</p>
+<div class="error_msg" id="ovl-login_openid-error_msg" style="display:none;">
+<span class="heading">Oops. We've noticed some errors.</span>
+<ol id="ovl-openid-err-ol">
+</ol>
+</div>
+<form method="post" class="ovl-form" id="openid-form">
+<fieldset>
+<legend><span>Login With Other Accounts</span></legend>
+<ul class="icons">
+<li>
+<a href="#" title="openid" onclick="return showOpenIdField();"><img src="http://media.bookmarky.com/images//common/elements/social/small/openid.png" alt="openid"></a>
+</li>
+<li>
+<a href="#" title="yahoo" onclick="return openIdRequest('yahoo');"><img src="http://media.bookmarky.com/images//common/elements/social/small/yahoo.png" alt="yahoo"></a>
+</li>
+<li>
+<a href="#" title="google" onclick="return openIdRequest('google');"><img src="http://media.bookmarky.com/images//common/elements/social/small/google.png" alt="google"></a>
+</li>                       
+</ul>   
+<ol>
+<li>
+<label for="openid" id="openidlabel">Openid<em>*</em></label>
+<input type="text" id="openidfield" name="openidfield">
+<input name="login" id="openidbutton" class="rounded-button" value="Login" type="submit" onclick="return sendOpenIdRequest();">
+</li>                   
+</ol>
+</fieldset>
+</form>             
+</div>
+<div id="login" class="form-container" style="display:none;">
+<div class="error_msg" id="ovl-login-err_msg" style="display:none;">
+<span class="heading">Oops. We've noticed some errors.</span>
+<ol id="ovl-login-err-ol">
+</ol>
+</div>
+<form id="ovl-form-login" method="post" class="ovl-form">
+<fieldset>
+<legend><span>Login To Bookmarky</span></legend>
+<ol>
+<li>
+<label for="login-user">Username</label>
+<input type="text" id="login-user" name="username">
+</li>                   
+<li>
+<label for="login-password">Password:</label>
+<input type="password" id="login-password" name="password ">
+</li>                   
+<li>
+<label>&nbsp;</label>
+<input name="login" class="rounded-button" value="Login" type="submit">
+</li>   
+</ol>
+</fieldset>
+</form> 
+</div>
+<div id="ovl-forgot_password" class="form-container" style="display:none">
+<div class="error_msg" id="ovl-forgot-password-error_msg" style="display:none;">
+<span class="heading">Oops. We've noticed some errors.</span>
+<ol id="ovl-forgot-password-err-ol">
+</ol>
+</div>      
+<div class="success_msg" id="ovl-forgot-password-success_msg" style="display:none;">
+<span class="heading">Thanks!</span>
+<ol id="ovl-forgot-password-success-ol">
+</ol>
+</div>      
+<form method="post" class="ovl-form" id="ovl-forgot-password-form">
+<fieldset>
+<legend><span>Recover Password</span></legend>
+<ol>
+<li>
+<label for="forgot-email">Email</label>
+<input type="text" name="ovl-forgotp-email" id="ovl-forgotp-email">
+<input name="recover" class="rounded-button" value="Recover" type="submit">
+</li>                   
+</ol>
+</fieldset>
+</form> 
+</div>
+<div id="ovl-verification_email" class="form-container" style="display:none">
+<div class="error_msg" style="display:none;" id="ovl-verification_email-error_msg">
+<span class="heading">Oops. We've noticed some errors.</span>
+<ol id="ovl-verification_email-err-ol">
+</ol>
+</div>          
+<div class="success_msg" style="display:none;" id="ovl-verification_email-success_msg">
+<span class="heading">Thanks!</span>
+<ol id="ovl-verification_email-success-ol">
+</ol>
+</div>          
+<form method="post" class="ovl-form" id="ovl-verification_email-form">
+<fieldset>
+<legend><span>Resend Invitation Email</span></legend>
+<ol>
+<li>
+<label for="invitation-email">Email</label>
+<input type="text" id="ovl-verification-email" name="ovl-verification-email">
+<input name="send" class="rounded-button" value="Send" type="submit">
+</li>                   
+</ol>
+</fieldset>
+</form> 
+</div>      
+</div>    
+</div>            
+<!-- message dialog --> 
+<div id="overlay-alert" class="ovl-bookmark" style="display:none;">
+<div id="close-ovl">
+<a href="#" title="Close" onclick="return closeAlertOverlay();"><img class="pngie6" src="http://media.bookmarky.com/images//common/elements/registration/close.png" alt="Close"></a>
+</div>  
+<div class="clear"></div>
+<div id="del-bookmark">
+<div class="question" id="alertTitle"></div>
+<p>
+<a class="rounded-button gray" onclick="return closeAlertOverlay();" href="#" id="cancel">Close</a>
+</p>
+</div>  
+</div>                            
+<div id="overlay-addbookmark" class="ovl-bookmark" style="display:none;">
+<div id="close-ovl">
+<a href="#" title="Close" onclick="return closeSaveOverlay();"><img class="pngie6" src="http://media.bookmarky.com/images/common/elements/registration/close.png" alt="Close"></a>
+</div>
+<div class="clear"></div>
+<div id="add-bookmark">
+<div class="error_msg" id="error_msg_add" style="display:none;">
+<span class="heading">Oops. We've noticed some errors.</span>
+<ol class="cs"></ol>
+</div>
+<div class="success_msg" id="success_msg_add" style="display: none;">
+<span class="heading"><strong>Your bookmark has been properly added.</strong></span>
+<span class="heading">The list of bookmarks will be updated in the next 20 minutes</span>
+</div>
+<form method="post" class="ovl-form" name="add-bookmark" id="ovl_add_bookmark">
+<fieldset>
+<legend><span>Add bookmark</span></legend>
+<ol>                    
+<li>
+<label for="url">Url<em>*</em></label>
+<p>
+<input type="text" id="url" name="url" onblur="getInfoUrl();return false;">
+</p>
+</li>              
+<div id="loader-gif" style="display:none;"><span></span></div>
+<div class="clear"></div>
+<li>
+<label for="title">Title<em>*</em></label>
+<p>
+<input type="text" id="title" name="title">
+</p>
+</li>                                      
+<div class="clear"></div>                   
+<li>
+<label for="tags">Tags<em>*</em></label>
+<p>
+<input type="text" id="tags" name="tags">
+<br>
+<span>Separate with comma</span>
+</p>
+</li>       
+<div class="clear"></div>      
+<li>
+<label for="note">Note</label>
+<p>
+<textarea id="description" type="textarea" name="description"></textarea>
+<br>
+<span></span>
+</p>
+</li>   
+<div class="clear"></div>
+<li>
+<label>&nbsp;</label>
+<p><input id="bookmarkBtn" name="addBookmark" class="rounded-button" value="Save" type="button" onclick="return checkField();"></p>
+</li>  
+<div class="clear"></div>
+<li class="mandatory">* Mandatory fields</li>
+<div class="clear"></div>                   
+</ol>
+</fieldset>
+</form> 
+</div>
+</div>
+<script language="Javascript">
+
+var scrollable = $('div.scrollable').scrollable({api:true});
+if(scrollable != undefined){
+    scrollable.getConf().keyboard = false;
+    scrollable.reload();
+}
+
+function getInfoUrl(){
+    if(!toEdit) { 
+        if($("#error_msg_add").length != 0){
+            $("#error_msg_add").css('display', 'none');
+        }
+        $('ol.cs').remove();
+        $("#ol").remove();
+        $("#url").removeClass("missed");
+
+        if($('#url').val() == ""){
+            return false;
+        }
+        else{
+
+            $("#loader-gif").css("display", "block");
+
+            var params = new Array();
+                params['link'] = $('#url').val();
+                params['market'] = globalMarket;
+                params['brand'] = siteModule;
+                params['brandgroup'] = siteModule;
+                params['theme'] = siteTheme;
+                params['country'] = siteCountry;
+
+            $.ajax({
+                    type: "POST",
+                    url: "/ajaxServer.php?gjaction=bookmarkUrlInfo",
+                    data: http_build_query(params),
+                    dataType : "script"
+                    });
+
+            return false;
+        }
+    }
+}
+</script>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+      setTimeout(function()
+           {
+             var url = "http" +
+                   (/https:/.test(document.location.href) ? "s" : "") +
+                   "://beacon.scorecardresearch.com/scripts/beacon.dll" +
+                   "?c1=2&c2=6035239&c3=&c4=www.bookmarky.com/privacy&c5=&c6=&c7=" + escape(document.location.href) +
+                   "&c8=" + escape(document.title) +
+                   "&c9=" + escape(document.referrer) +
+                   "&c10=" + escape(screen.width+'x'+screen.height) +
+                   "&c15=" +
+                   "&rn=" + (new Date()).getTime();
+             var i = new Image();
+             i.src = url;
+           }, 1);
+</script>
+<noscript>
+<img src="https://beacon.scorecardresearch.com/scripts/beacon.dll?c1=2&c2=6035239&c3=&c4=www.bookmarky.com/privacy&c5=&c6=&c7=&c15=&x=NOJAVASCRIPT" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript">
+            var realDomain = 'us';
+            var domain = 'www.bookmarky.com';
+            var goaGroup = 'bookmarky';
+            if(realDomain == 'us'){
+                var goaRealDomain = 'www.bookmarky.com';
+            }
+            else{
+                var goaRealDomain = realDomain + '.bookmarky.com';
+            }
+        </script>
+<script type="text/javascript" src="http://service.goadv.com/roi/js/track.js"></script>
+
+</body></html>
