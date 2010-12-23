@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fitnessfirst.com.au privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012141432id_/http%3A//www.fitnessfirst.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.com.au privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223020708id_/http%3A//www.fitnessfirst.com.au/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy statement | Fitness First Australia | Fitness, Health club, Gym, Training, Weight loss, Exercise, Aerobics, Personal training
+# Privacy statement | Fitness First Australia | Real Fitness, Health club, Gym, Training, Weight loss, Exercise, Aerobics, Personal training, Fitness Equipment Sales
 
-[Home](http://www.fitnessfirst.com.au/ "Home") > Privacy statement **As a leading Australian health club operator, Fitness First Australia Pty Limited (Fitness First) needs a wide range of "personal information" in order to carry out its business. "Personal information" is essentially information from which you can be identified. This Privacy Policy explains Fitness First's approach to the handling of personal information, and how we comply with our privacy obligations.  
+**As a leading Australian health club operator, Fitness First Australia Pty Limited (Fitness First) needs a wide range of "personal information" in order to carry out its business. "Personal information" is essentially information from which you can be identified. This Privacy Policy explains Fitness First's approach to the handling of personal information, and how we comply with our privacy obligations.  
 **  
 Fitness First is bound by the National Privacy Principles contained in the _Privacy Act_ 1988\. If you provide us with information about your health, we also strive to ensure that our handling of that information complies with applicable State and Territory health records legislation.  
 
@@ -34,7 +34,11 @@ We also collect:
 
 
 For example, if you are a member, will use your personal information to process your membership application, charge you membership fees and administer your account. We will also use your personal information to communicate with you, including answering any enquires you may have.  
+
+
 Unless you tell us otherwise, we may also use members' personal information to mail out special promotions, newsletters and other marketing material.  
+
+
 For instance, Fitness First may mail its members information about its own promotions, or those offered by our business partners. If you don't want us to do this, we give you an opportunity to "opt out" from receiving such material on our pre-exercise questionnaire form. However, you can opt out at any time by contacting our Privacy Officer (see details at section 8 below).  
 
 
@@ -44,8 +48,8 @@ For instance, Fitness First may mail its members information about its own promo
 Like most businesses, sometimes we outsource or "contract out" specific support services from time to time, and this may mean that our contractors see your personal information. For instance, sometimes we may engage IT contractors to maintain our databases. All our contractors are subject to strict confidentiality obligations, which means that they are authorised only to use personal information in order to provide the services or to perform the functions required by us.  
   
 We will disclose personal information if we are under a legal requirement to do so (eg under a court order, or if required under legislation), or if an authorised request is made from a law enforcement agency.  
-Otherwise, we will only disclose personal information with the consent of the relevant individuals. For example, if you are a member, _with your consent (and only with your consent):  
-_ - we may provide personal information to Fitness First's personal trainers to assist you to improve your fitness and well being, and so they can advise you which fitness programs are suitable for you. If personal trainers are contractors (rather than Fitness First employees), their contracts with us require them to keep your personal information confidential. Of course, all our employees are required to keep your personal information confidential also; and  
+Otherwise, we will only disclose personal information with the consent of the relevant individuals. For example, if you are a member, with your consent (and only with your consent):  
+- we may provide personal information to Fitness First's personal trainers to assist you to improve your fitness and well being, and so they can advise you which fitness programs are suitable for you. If personal trainers are contractors (rather than Fitness First employees), their contracts with us require them to keep your personal information confidential. Of course, all our employees are required to keep your personal information confidential also; and  
 - we may disclose personal information to our business partners so that they can contact you directly with special offers, discounts or other membership benefits.  
 
 
@@ -80,8 +84,8 @@ Our website uses up-to-date technology to maximise the security of your personal
 
 **8\. Contact details and other information**  
 If you have any queries or concerns about privacy or this Privacy Policy, you can either provide a written request or complaint at one of our clubs, or you can contact our Privacy Officer as follows;  
-- by letter: Privacy Officer, Fitness First Head Office, Level 3/ 55 Grafton St, Bondi Junction NSW, 2022;  
-- by telephone: (02) 9387 5266; or  
+- by letter: Privacy Officer, Fitness First Head Office, PO Box 715, Bondi Junction NSW, 2022;  
+- by telephone: (02) 8117 2200; or  
 - by email to [privacy@fitnessfirst.com.au](mailto:privacy@fitnessfirst.com.au)   
 This Privacy Policy applies to Fitness First Australia Pty Limited, its employees and contractors.  
 Fitness First may change its Privacy Policy at any time. This Privacy Policy was last updated in September 2006.  
