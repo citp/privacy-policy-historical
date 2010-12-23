@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606040610id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223050110id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Holistic Health Blog
 
@@ -27,3 +27,5 @@ Concerns or questions about this privacy policy can be directed to support@natur
 ## Email Policy
 
 We take our readers’ privacy very seriously. You can rest assured that your email address, name or any other personal information will be shared for any reason. Email addresses are collected for the purpose of sending article updates from Natural Holistic Health Blog and for no other purpose. Natural Holistic Health Blog Article updates are sent, on average, only once per week.
+
+Technorati Tags: [health](http://technorati.com/tag/health), [holistic health](http://technorati.com/tag/holistic+health)
