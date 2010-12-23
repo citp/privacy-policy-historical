@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarmarket.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004056id_/http%3A//scholarmarket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarmarket.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223230558id_/http%3A//scholarmarket.com/privacy.htm) for the most accurate reproduction.*
 
 # :: Welcome To Our Website ::
 
