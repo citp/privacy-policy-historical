@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the baydin.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128232337id_/http%3A//www.baydin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baydin.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223093057id_/http%3A//www.baydin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Baydin - Privacy Policy
 
+  
 **General Information** Baydin respects the privacy of visitors to our online sites. Any personal information gathered on this site will be kept strictly confidential and will only be used in ways for which you have specifically consented. We will never sell or rent any personal information collected from you to any third party. We will take special care to protect the privacy and security of your information. All Personally Identified Information gathered on this website is in accordance with the Privacy Policy. This policy came into affect on the 16th June 2009.
 
 **Privacy Contact Information** You can contact Baydin regarding privacy matters via our online form at info@baydin.com
