@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622094125id_/http%3A//www.mozilla.org/about/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223093013id_/http%3A//www.mozilla.org/about/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
 
-Last Updated: February 24, 2010
+Last Updated: June 30, 2010 | [Download printable format (PDF, 78kb)](http://static.mozilla.com/moco/en-US/pdf/mozilla_privacypolicy.pdf)
 
 This privacy policy applies to all web sites and web services operated by Mozilla Corporation or the Mozilla Foundation unless the web site or service has a separate privacy policy. Since the Mozilla Corporation and the Mozilla Foundation individually operate these sites but share many of the same privacy practices, we will refer to them collectively as “Mozilla” in this policy when describing practices that apply to both of them.
 
@@ -66,6 +66,8 @@ You may request access, correction, or deletion of your personally identifiable 
 Mozilla will use the web analytics data only to determine aggregate usage patterns for our web sites as described above. Mozilla web sites do this by using either our own internal analytics software or by sending this information to a third-party service provider to help Mozilla analyze this data. The Mozilla web sites using third-party web analytics tools are listed [here](http://www.mozilla.com/third-party.html). Mozilla has agreements with its third-party service providers that they will not share this information with others or use the information for purposes other than to maintain the services they provide to Mozilla. It is possible to link cookies and clear gifs to personally identifying information, thereby permitting web site operators, including our third-party analytics providers, to track the online movements of particular individuals. Mozilla does not do so and its third-party service providers are not allowed to correlate Mozilla data with any other data.
 
 Mozilla uses the information provided by cookies and clear gifs to develop a better understanding of how Mozilla's visitors use Mozilla's web sites, and to facilitate those visitors' interactions with Mozilla's web sites. Mozilla may make the aggregate data obtained from web analytics (including from our third-party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information
+
+**Other Third Party Cookies.** Content from other sources that is hosted on Mozilla web sites may sometimes contain cookies that send information to those third parties. In certain cases, often associated with embedded content such as YouTube videos and other site linking buttons, a third party cookie may be set by the 3rd party content or provider. In these cases, the privacy policy of the 3rd party governs with respect to information that may be collected by and sent to the respective 3rd party. If you are concerned about these third party cookies, please see the information below on how to decline cookies.
 
 **How to Control the Use of Cookies.** You have the ability to accept or decline cookies. Mozilla visitors who do not wish to have cookies placed on their computers by Mozilla, its contractors, or third-party service providers should set their browsers to refuse cookies before linking to Mozilla's web sites. Certain features of Mozilla's web sites may not function properly without the aid of cookies.
 
