@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314051305id_/http%3A//www.directagents.com/aboutus/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223171718id_/http%3A//www.directagents.com/aboutus/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Agents, Inc.
 
@@ -29,6 +29,10 @@ Direct Agents and its affiliated websites are hosted securely in order to protec
 #### Foreign Use of the Website
 
 Foreign Domiciled users accessing this Website, acknowledge and consent that personal information provided to Direct Agents is collected and stored in the United States.  You therefore consent to the transfer of such information out of your country of domicile, to the United States. 
+
+#### US � EU Safe Harbor Compliance
+
+Direct Agents complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Direct Agents has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company�s certification, please email us at [privacy@directagents.com](mailto:privacy@directagents.com). 
 
 #### Contact Information
 
