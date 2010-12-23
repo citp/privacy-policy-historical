@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603132139id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223141722id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure | Mojosavings.com
-
-  * Nov 30,2009 
-  * In: [savings](http://mojosavings.com/category/savings/ "View all posts in savings")
-
-
 
 **Privacy Policy for www.mojosavings.com**
 
@@ -56,6 +51,4 @@ The compensation received will never influence the content, topics or posts made
 
 The owner(s) of this blog is not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
 
-This blog does not contain any content which might present a conflict of interest. 
-
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
+This blog does not contain any content which might present a conflict of interest.
