@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davey.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509115703id_/http%3A//www.davey.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davey.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223183431id_/http%3A//www.davey.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Davey Tree : Expert Tree Service Since 1880 : About : Privacy Policy
 
