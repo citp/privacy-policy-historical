@@ -1,14 +1,25 @@
-> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505001553id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223170248id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.*
 
 # Colorado Public Radio - Privacy Statement
 
-Colorado Public Radio's Privacy Statement
+  * My CPR
+  * Search Results
+  * CPR Content
+  * My Profile
+
+
+
+## Loading CPR Website Widgets...
+
+### Privacy Statement
+
+**Colorado Public Radio's Privacy Statement**
 
 Colorado Public Radio does not collect personally-identifying information from visitors to our web site unless visitors choose to provide that information.
 
 Colorado Public Radio does NOT use "cookies" or other methods of user tracking on our web site. Like most Web servers, Colorado Public Radio's Web server automatically creates log files for each visitor who accesses our site. The access logs do NOT record any personally-identifying information; they contain some or all of the following information:
 
-The Internet Protocol Address (IP Address) of the machine which accessed this site. 
+The Internet Protocol Address (IP Address) of the machine which accessed this site. 
 
 The date and time of the visit.
 
@@ -16,12 +27,14 @@ The path taken through this site.
 
 The browser being used.
 
-A list of files downloaded or viewed. 
+A list of files downloaded or viewed.
 
-The amount of time spent listening to RealAudio� or Windows Media files.   
+The amount of time spent listening to MP3, OGG Vorbis, or Windows Media files.  
 
-Any errors encountered. 
+Any errors encountered. 
 
 Colorado Public Radio does request name and contact information for website visitors who use our question, comment and other response forms in order to facilitate replies, but does not use this information for any other purpose.
 
 Additionally, visitors who subscribe to Colorado Public Radio using our secure subscription form are asked to include name and contact information in order to facilitate their subscriptions. Occasionally, Colorado Public Radio makes subscribers' names available to other non-profit organizations. All visitors completing the online subscription form are given the opportunity to say that they prefer not to have their name and contact information made available.
+
+Tags: No Tags 
