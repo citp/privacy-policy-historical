@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616124923id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223155352id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BIGADDA.com
 
@@ -92,11 +92,11 @@ We are committed to resolving disputes as soon as feasible and shall endeavor to
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
 E-mail: [customercare@bigadda.com](mailto:customercare@bigadda.com?subject=Query)  
 Telephone: +91 22 3290 0061  
-Postal Address: Ground Floor, Champion Estate, 15 Parsi Panchayat Road, Off WE Highway, Andheri (E), Mumbai - 400 069.
+Postal Address: 5th Floor, 49/50 Maruti Chambers, Veera Desai Extension Road, Off New Link Road, Andheri (W), Mumbai - 400 053.
 
 **Website Administration**  
 Business Name: BIGADDA.com  
-Address: Ground Floor, Champion Estate, 15 Parsi Panchayat Road, Off WE Highway, Andheri (E), Mumbai - 400 069.  
+Address: 5th Floor, 49/50 Maruti Chambers, Veera Desai Extension Road, Off New Link Road, Andheri (W), Mumbai - 400 053.  
 City: Mumbai  
 State: Maharashtra  
 Country: India  
