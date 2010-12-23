@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interspire.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623031849id_/http%3A//www.interspire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interspire.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223081744id_/http%3A//www.interspire.com/privacy.php) for the most accurate reproduction.*
 
 # Interspire - Privacy Policy
 
