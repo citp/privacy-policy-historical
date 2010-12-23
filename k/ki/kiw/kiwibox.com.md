@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwibox.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214160601id_/http%3A//www.kiwibox.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwibox.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091322id_/http%3A//www.kiwibox.com/about/privacy) for the most accurate reproduction.*
 
 # About us | Kiwibox Community
 
