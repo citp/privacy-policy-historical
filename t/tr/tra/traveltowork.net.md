@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217050636id_/http%3A//www.traveltowork.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223095447id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel, Work, Life...!
+# Privacy Policy | Travel Blog
 
 Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
