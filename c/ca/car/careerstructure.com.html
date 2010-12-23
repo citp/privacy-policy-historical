@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careerstructure.com privacy policy that was archived on 2010-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100521035118id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerstructure.com privacy policy that was archived on 2010-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223193949id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  <title>CareerStructure.com</title>
@@ -14,7 +14,7 @@
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEzMzg3MzgwMw9kFgICBBBkZBYGAgMPZBYCAgEPZBYGZg8WAh4HVmlzaWJsZWgWAgIGDw8WAh4QQ2F1c2VzVmFsaWRhdGlvbmhkZAICDxYCHwBoFgICAw8PFgIfAWhkZAIEDxYCHwBnFgQCAQ8PFgIeC05hdmlnYXRlVXJsBU0vQXV0aGVudGljYXRlZC9VbkF1dGgvTmV3VXNlci5hc3B4P1JldHVyblVybD0lMmZDb250ZW50cyUyZlByaXZhY3lQb2xpY3kuYXNweGRkAgMPDxYCHwIFRC9BdXRoZW50aWNhdGVkL0xvZ2luLmFzcHg/UmV0dXJuVXJsPSUyZkNvbnRlbnRzJTJmUHJpdmFjeVBvbGljeS5hc3B4ZGQCBQ9kFgICAg8PFggeCENzc0NsYXNzBQlqYi1zdGF0dXMfAgUZL0pvYlNlYXJjaC9Kb2JCYXNrZXQuYXNweB4EVGV4dAUfSm9iIGJhc2tldCA8c3Ryb25nPlswXTwvc3Ryb25nPh4EXyFTQgICZGQCDQ9kFgJmDw8WAh8CBQEvFgIeB29uY2xpY2sFG3JldHVybiBhY2NlcHRDb29raWVzKHRydWUpO2Rk">
 </div>
 
-<script type="text/javascript" src="/pjb_ui_v2/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/pjb_ui_v2/jquery/jquery-1.4.4.min.js"></script>
 <script type="text/javascript" src="/pjb_ui/MicrosoftAjaxLibrary/System.Web.Extensions/1.0.61025.0/Globalization/en-GB.js"></script>
 <script type="text/javascript" src="/pjb_ui/MicrosoftAjaxLibrary/System.Web.Extensions/1.0.61025.0/MicrosoftAjax.js"></script>
 <script type="text/javascript" src="/pjb_ui/CommonAjax.js"></script>
@@ -138,9 +138,9 @@ Welcome to CareerStructure.com, please <a id="Navigation_LoginStatusDisplay_lnkR
         <li><a id="Navigation_lnkUpldCv" rel="nofollow" href="/Authenticated/Profile.aspx">Upload your CV</a></li>
         <li><a id="Navigation_lnkJobsByEmail" href="/JobSearch/JobsByEmailSetup.aspx">Jobs By Email</a></li>
         <li><a id="Navigation_lnkCareerAdvice" href="/careers-advice">Career advice</a></li>
-        <li><a id="Navigation_lnkSearchSpecialism" class="MultiLine" href="/JobSelector.aspx">Search by <br>specialism</a></li>
+        <li><a id="Navigation_lnkSearchSpecialism" class="MultiLine" href="/search/construction-job-sectors">Search by <br>specialism</a></li>
         <li><a id="Navigation_lnkWhosRecruiting" class="MultiLine" href="/CompanySearch/CompanyIndex.aspx">Who's <br>recruiting</a></li>
-        <li><a id="Navigation_lnkBrowseJobs" href="/Browse/Browse/BrowseJobs.html">Browse jobs</a></li>
+        <li><a id="Navigation_lnkBrowseJobs" href="/browse-construction-jobs">Browse jobs</a></li>
         <li class="LINavRec"><a id="Navigation_lnkForRecruiters" href="http://recruiter.CareerStructure.com/">For Recruiters</a></li>	
         <li class="gradLnk" title="Graduate Zone"><a href="/Graduate.aspx">GradZone</a></li>	
         <li class="greenLnk" title="Green Jobs"><a href="/GreenJobs.aspx">Green Jobs</a></li>
@@ -234,7 +234,7 @@ The site is protected against unauthorised access using the latest security devi
 	<div>
 		<a id="Footer_lnkTextOnly" href="/Accessible/JobSearch/JobSearch.aspx">Text only site</a>
 		|
-		<a id="Footer_lnkSitemap" href="/JobSeeking/SiteMap.aspx">Site map</a>
+		<a id="Footer_lnkSitemap" href="/sitemap">Site map</a>
 		|
 		<a id="Footer_lnkAdvertiseJob" href="http://recruiter.CareerStructure.com">Advertise a job</a>
 		|
@@ -265,20 +265,24 @@ The site is protected against unauthorised access using the latest security devi
   
  
 <script type="text/javascript">
-	function pageInit() {
+(function($) {
+function pageInit() {
 	Sys.Application.initialize();
 	Sys.Application.add_init(function() {
-$create(PJB.UI.JobSeekers.Controls.AjaxIPPopup, {"IPAddress":"204.236.235.245"}, null, null, $get('ctl00'));
+$create(PJB.UI.JobSeekers.Controls.AjaxIPPopup, {"IPAddress":"10.55.128.146"}, null, null, $get('ctl00'));
 });
 
-	}
-	function pageLoad() {
+}
+function pageLoad() {
 	
-	}
-	pageInit();
-	if (typeof(Sys) === 'undefined') {
-	    window.onload = pageLoad;
-	}
+}
+pageInit();
+if (typeof(Sys) === 'undefined') {
+    window.onload = pageLoad;
+}
+$(document).ready(function() {
+});
+})(jQuery);
 
 </script></form>
 <script src="/pjb_ui/Controls/WebTrends/AtlasTagging.js" type="text/javascript"></script>		
@@ -306,7 +310,7 @@ var DCSext = {};
 var gImages = [];
 var gIndex = 0;
 var gQP = [];
-</script><script language="Javascript">SDCPathNameOverride="/Contents/PrivacyPolicy.aspx";WT.sv="P104";</script><script type="text/javascript">
+</script><script language="Javascript">SDCPathNameOverride="/Contents/PrivacyPolicy.aspx";WT.sv="307V";</script><script type="text/javascript">
 
 function DcsInit(){
 	this.dcsid=gDcsId;
