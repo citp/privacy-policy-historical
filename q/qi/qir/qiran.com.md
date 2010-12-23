@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qiran.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409072526id_/http%3A//www.qiran.com/docs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiran.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223052042id_/http%3A//www.qiran.com/docs/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Qiran.com, Muslim Matrimonial & Muslim Marriage
+# Privacy Policy - Qiran.com, Muslim Matrimonial, Muslim Marriage, Muslim Singles
 
 Qiran.com is strongly committed to protect your privacy. This statement discloses the information gathering process and the privacy and dissemination practices for this website. Qiran.com has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy.
 
