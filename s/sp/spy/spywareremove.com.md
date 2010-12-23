@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spywareremove.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329234846id_/http%3A//www.spywareremove.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareremove.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223182723id_/http%3A//www.spywareremove.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: SpywareRemove.com
+# Spyware Remove :: Spyware Descriptions and Removal Instructions.
 
 This Privacy Policy was last revised on 1/23/09.
 
@@ -21,7 +21,7 @@ SpywareRemove.com is the sole owner of the information collected on its web prop
 
 **Registration**
 
-In order to use SpywareRemove.com services at any level, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address), and a unique identifier. We use this information to contact the user about services on our site for which the user has expressed interest. By providing SpywareRemove.com your email address you consent to our using the email address to send you service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of service-related e-mails. We may also use your email address to send you other messages, such as newsletters, changes to features of the service, or special offers. If you do not want to receive such email messages, you may opt out by [contacting us](https://web.archive.org/contact_us.php "contacting us") and sending an email message with the word "No email" in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
+In order to use SpywareRemove.com services at any level, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address), and a unique identifier. We use this information to contact the user about services on our site for which the user has expressed interest. By providing SpywareRemove.com your email address you consent to our using the email address to send you service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of service-related e-mails. We may also use your email address to send you other messages, such as newsletters, changes to features of the service, or special offers. If you do not want to receive such email messages, you may opt out by [contacting us](http://www.spywareremove.com/contact_us.php "contacting us") and sending an email message with the word "No email" in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
 
 **Children's Privacy**
 
@@ -97,4 +97,4 @@ We reserve the right to change our Privacy Policy at any time. Changes to this P
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change.
 
-If you have any questions about this Privacy Policy, the practices of any of our Web sites, or your dealings with any of our Web sites, please [contact us](https://web.archive.org/contact_us.php "contact us"). 
+If you have any questions about this Privacy Policy, the practices of any of our Web sites, or your dealings with any of our Web sites, please [contact us](http://www.spywareremove.com/contact_us.php "contact us"). 
