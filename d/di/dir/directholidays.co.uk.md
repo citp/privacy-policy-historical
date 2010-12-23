@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312091458id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224003901id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Cheap Holidays & Package Holiday Deals - directholidays.co.uk
+# Privacy Policy - Direct Holidays
 
 ## Direct Holidays Privacy Policy
 
