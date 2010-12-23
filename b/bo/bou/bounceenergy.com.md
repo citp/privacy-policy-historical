@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bounceenergy.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525104920id_/http%3A//www.bounceenergy.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bounceenergy.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223154855id_/http%3A//www.bounceenergy.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bounce Energy
 
