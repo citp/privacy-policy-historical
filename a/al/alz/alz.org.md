@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612185638id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223223132id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
-# About This Site
+# Alzheimer's Association - About This Site
 
 ## Introduction
 
