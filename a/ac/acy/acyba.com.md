@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618214412id_/http%3A//www.acyba.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223042628id_/http%3A//www.acyba.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,6 +51,6 @@ Our website may contain links to other websites of interest. However, once you h
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to ACYBA SARL, 110 chemin de Bonlieu, 39000 Lons Le Saunier, FRANCE.  
+According to the law n°78-17 of the January 6th 1978 concerning the protection of persons concerning the processing of personal information and modified by the law n°2007-801 of the August 6th 2004 (BOEM 160* and 722),  the automated gathering, recording and conservation of the personal information on this website is done following a declaration of information handling to the Commission Nationale de l'Informatique et des Libertés (CNIL). Accordingly to the article 34 and following, you have the right to ask access and rectification of your personal information by e-mail at [privacy@acyba.com](mailto:privacy@acyba.com).  
   
-Last Updated on Thursday, 08 October 2009 23:43 
+Last Updated on Monday, 28 June 2010 13:24 
