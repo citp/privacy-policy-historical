@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531085830id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingcoach.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223210910id_/http%3A//www.accountingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingCoach.com
 
@@ -16,9 +16,9 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.accountingcoach.com&sealid=101)
 
-AccountingCoach, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.accountingcoach.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+AccountingCoach, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website www.accountingcoach.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Harold Averkamp by using our **[email contact form](https://web.archive.org/web/20100531085830id_/http%3A//www.accountingcoach.com/contact.html)**.
+If you have questions or concerns regarding this statement, you should first contact Harold Averkamp by using our **[email contact form](https://web.archive.org/web/20101223210910id_/http%3A//www.accountingcoach.com/contact.html)**.
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should **[contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=)**. TRUSTe will then serve as a liaison with us to resolve your concerns. AccountingCoach, LLC does not share, rent, trade or sell your personal information other than as described within this privacy policy. 
 
@@ -48,7 +48,7 @@ PayPal and Google both share a limited amount of your information with us such a
   
 
   3. **Registering to participate in our online forum**  
-We collect the username and email address you provide when registering to use our online forum. We do not use this information for any purpose; however, we at this community reserve the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you. We log all internet protocol addresses accessing this web site. You can read more about our **[Terms of Service](https://web.archive.org/accounting/termsofservice.php)**.
+We collect the username and email address you provide when registering to use our online forum. We do not use this information for any purpose; however, we at this community reserve the right to reveal your identity (or whatever information we know about you) in the event of a complaint or legal action arising from any message posted by you. We log all internet protocol addresses accessing this website. You can read more about our **[Terms of Service](https://web.archive.org/accounting/termsofservice.php)**.
 
   
 
@@ -78,7 +78,7 @@ If you wish to join our affiliate program you will be directed to a third-party 
 
 ### **Legal disclaimer**
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
 
   
   
@@ -86,7 +86,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### **Forum**
 
-If you use the forum or blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+If you use the forum or blog on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
   
   
@@ -102,7 +102,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 ### **Customer testimonials**
 
-We post customer testimonials on our web site which may contain personally identifiable information. Prior to posting a customer's testimonial we do obtain the customer's consent to post their name along with their testimonial.
+We post customer testimonials on our website which may contain personally identifiable information. Prior to posting a customer's testimonial we do obtain the customer's consent to post their name along with their testimonial.
 
   
   
@@ -115,7 +115,7 @@ We follow generally accepted industry standards to protect the personally identi
   
 
 
-If you have any questions about security on our website, you can email us by using our ******[email contact form](https://web.archive.org/web/20100531085830id_/http%3A//www.accountingcoach.com/contact.html)**.
+If you have any questions about security on our website, you can email us by using our ******[email contact form](https://web.archive.org/web/20101223210910id_/http%3A//www.accountingcoach.com/contact.html)**.
 
   
   
@@ -151,7 +151,7 @@ Our third-party advertising partner employs a software technology called clear g
 
 ### **Updating or correcting personally identifiable information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our ******[contact form](https://web.archive.org/web/20100531085830id_/http%3A//www.accountingcoach.com/contact.html)**.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our ******[contact form](https://web.archive.org/web/20101223210910id_/http%3A//www.accountingcoach.com/contact.html)**.
 
   
   
@@ -167,7 +167,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### **How to contact us**
 
-Should you have other questions or concerns about these privacy policies, please contact us by using our ******[email contact form](https://web.archive.org/web/20100531085830id_/http%3A//www.accountingcoach.com/contact.html)** or the following postal address.
+Should you have other questions or concerns about these privacy policies, please contact us by using our ******[email contact form](https://web.archive.org/web/20101223210910id_/http%3A//www.accountingcoach.com/contact.html)** or the following postal address.
 
 > _AccountingCoach, LLC  
 >  1109 W. Blackhawk Dr.  
