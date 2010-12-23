@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successquik.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102011927id_/http%3A//successquik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successquik.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223064938id_/http%3A//successquik.com/privacy.php) for the most accurate reproduction.*
 
 # SuccessQUIK - Generate income and advertising for any product or service!
 
