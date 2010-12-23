@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406090042id_/http%3A//www.paydayuk.co.uk/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223134727id_/http%3A//www.paydayuk.co.uk/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # PaydayUK – Privacy policy
 
