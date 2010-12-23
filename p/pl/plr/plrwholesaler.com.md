@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrwholesaler.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529135740id_/http%3A//www.plrwholesaler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrwholesaler.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223073320id_/http%3A//www.plrwholesaler.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for PLRWholesaler.com
 
