@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614110153id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223051115id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : ecigexpress: Electronic Cigarettes | Electronic Cigarette Starter Kits | e-Juice | e-liquid
+# Privacy Notice : E Cig Liquid, E-Liquid, Electronic Cigarette USA
 
 ### Cookies
 
