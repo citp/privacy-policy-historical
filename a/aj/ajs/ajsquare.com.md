@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205043552id_/http%3A//ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223214027id_/http%3A//ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
 
 # Privacy Policy | About AJ Square
 
@@ -11,7 +11,7 @@ AJ Square, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is 
 [](http://www.truste.org/ivalidate.php?url=www.ajsquare.com&sealid=101)  
    
   
-If you have any questions or concerns regarding this statement, you should first contact support person at [ ](maillto: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy45014 = 'support' + '@'; addy45014 = addy45014 + 'ajsquare' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy45014 + '\\'>' \); document.write\( addy45014 \); document.write\( '<\\/a>' \); //-->\\n </script> <script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[support@ajsquare.com](mailto:support@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
+If you have any questions or concerns regarding this statement, you should first contact support person at [ ](maillto: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy12356 = 'support' + '@'; addy12356 = addy12356 + 'ajsquare' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy12356 + '\\'>' \); document.write\( addy12356 \); document.write\( '<\\/a>' \); //-->\\n </script> <script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[sales@ajsquare.com](mailto:sales@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
   
    
 **What This Privacy Policy Covers**  
@@ -109,7 +109,8 @@ AJ Square Inc., may update this policy. We will notify you about significant cha
 3422, Old capitol trial,   
 Suite 700, Wilmington 19808  
 Delaware, United States of America,   
-Ph: (302) 804 1400 Fax:(302) 397 0990  
+Ph: +1 804 7677 548 , (302) 804 1400  
+Fax:(302) 397 0990  
    
 ****  
   
@@ -138,6 +139,6 @@ The Lords Garden,
 1-12, Villacheri Main Road,Villacheri,  
 Madurai - 625006  
 TamilNadu, India.   
-Ph: +91 (0) 452 6632 000, 6632 001, 6632 002, 6632 003  
+Ph: +91 (0) 452 3917700, 3917701, 3917702, 3917703, 3917704  
 Fax: +91 (0) 452 2484600.  
 **Effective Date:** 10/25/2007
