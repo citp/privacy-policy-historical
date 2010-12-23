@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610052149id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223152145id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - StatSheet.com
+# College Basketball, NBA, NASCAR, College Football, and NFL Stats, Scores, and Analysis - StatSheet.com
 
 StatSheet.com, Inc. ("StatSheet.com") recognizes that its customers, visitors, users, and others who use [www.StatSheet.com](http://www.statsheet.com/) or other web sites owned or operated by StatSheet.com (the "StatSheet.com Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the StatSheet.com Sites. StatSheet.com provides this Privacy Policy to help you make an informed decision about whether to use or continue using the StatSheet.com Sites.
 
@@ -10,19 +10,19 @@ Please note that any video, image, or other content posted at the direction of U
 
 ## The Information StatSheet.com Collects
 
-### User Provided Information
+#### User Provided Information
 
 You provide certain personally identifiable information (such as your name and email address) to StatSheet.com when choosing to participate in various activities on the StatSheet.com Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
 
-### Cookies Information
+#### Cookies Information
 
 When you visit the StatSheet.com Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. StatSheet.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the StatSheet.com Sites may not function properly if the ability to accept cookies is disabled. 
 
-### Log File Information
+#### Log File Information
 
 When you use the StatSheet.com Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
-### Clear GIFs Information
+#### Clear GIFs Information
 
 When you use the StatSheet.com Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
 
