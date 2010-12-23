@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airspacemag.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628155006id_/http%3A//www.airspacemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airspacemag.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223173435id_/http%3A//www.airspacemag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Air & Space Magazine
 
@@ -23,15 +23,17 @@ If you visit our website, we automatically gather and store the following inform
 
 **Cookies**
 
-In addition to information collected automatically, we use cookies, which are small pieces of information sent to your browser by a website that you visit. These cookies do not collect personally identifiable information.  Cookies are used to track usage patterns, traffic trends, and customer behavior, as well as to record other information from the website. When you register on the website, cookies also allow us to save information so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. Information that we collect from cookies will not be used to create profiles of users and will only be used in aggregate form.
+In addition to information collected automatically, we use cookies, which are small pieces of information sent to your browser by a website that you visit. These cookies do not collect personally identifiable information. Cookies are used to track usage patterns, traffic trends, and customer behavior, as well as to record other information from the website. When you register on the website, cookies also allow us to save information so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. Information that we collect from cookies will not be used to create profiles of users and will only be used in aggregate form.
 
 SE employs outside companies to provide marketing services on our behalf. With our approval, these third parties also may place cookies during your visit. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies only will collect non-personally identifiable information about your visit or transaction, such as the URLs which lead you to, around, and from our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.
 
-SE uses third party advertising and analytic companies to serve ads on and about our website.  These companies may use information (not including your name, address, e-mail address or telephone number) about your visit to this website or other websites in order to provide relevant advertisements and offers that may be of interest to you. 
+SE uses third party advertising and analytic companies to serve ads on and about our website. These companies may use information (not including your name, address, e-mail address or telephone number) about your visit to this website or other websites in order to provide relevant advertisements and offers that may be of interest to you.
+
+SE uses third party research companies that may use information (not including your name, address, e-mail address or telephone number) about your visit to this website or other websites in order to provide quantitative analysis about our audience.
 
 You may set your browser to refuse cookies from any website that you visit. If you choose to do so, you may still gain access to most of SE’s websites, but you may not be able to take advantage of some of the interactive elements offered.
 
-If you would like more information about cookies and the option not to have them used by third-party companies during your visit, please visit the following website, <http://www.networkadvertising.org/managing/opt_out.asp>
+If you would like more information about cookies and the option not to have them used by third-party companies during your visit, please visit the following websites: <http://www.networkadvertising.org/managing/opt_out.asp> and <http://scorecardresearch.com/about.aspx>.
 
 **If You Send Us Personal Information**
 
