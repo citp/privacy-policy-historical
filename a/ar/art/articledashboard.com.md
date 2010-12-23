@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the articledashboard.com privacy policy that was archived on 2008-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080725123757id_/http%3A//www.articledashboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledashboard.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223184006id_/http%3A//www.articledashboard.com/privacy.php) for the most accurate reproduction.*
 
 # Article Dashboard Directory | Submit Articles | Search Find Free Content | Author Submission
-
-Article Dashboard Privacy Policy
 
 ArticleDashboard.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
