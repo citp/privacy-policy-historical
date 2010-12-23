@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leapswitch.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514174146id_/http%3A//www.leapswitch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapswitch.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223140350id_/http%3A//www.leapswitch.com/privacy-policy.html) for the most accurate reproduction.*
 
-# LeapSwitch Networks | Privacy Policy | LeapSwitch.com
+# Privacy Policy | LeapSwitch.com
 
 **The LeapSwitch Privacy Policy**
 
