@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624010505id_/http%3A//www.slicethepie.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223121554id_/http%3A//www.slicethepie.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Slicethepie - Privacy policy
+# Privacy policy > Slicethepie
 
 Outline of our policy on the holding and use of personal information gathered by Slicethepie and the rights and responsibilities of Slicethepie and the user to whom the information relates.
 
