@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the techno360.in privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608193333id_/http%3A//www.techno360.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techno360.in privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223115017id_/http%3A//www.techno360.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy   of  [www.techno360.in](http://www.techno360.in/)**
+**DISCLAIMER** :
+
+ **We Declare that Techno360 DO NOT stream Sports live actions or anything from our site**. We just share the links we found through internet and that too legal (see disclaimers of Sopcast, Ustream,Freedocast,Justin TV…Etc) and put it at one place.
+
+We usually get the links from sopcast, justin tv, ustream, freedocast and similar sites and put it to you and nothing else. All broadcaster allow to embed the live video legally and we do the same. Hence, we are responsible in the maintaining copyright laws. If you think live streaming is breaching copyright act then please contact the owner of the live streaming videos (justin tv, ustream, freedocast, tvu, p2p , sopcast etc.) and ask them to stop.
+
+If you think that any streaming links that are shared in this site is infringing some copyright issues, then contact the respective broadcaster and owner. **We are just sharing links.** We shall not be held responsible for any consequences. If you have any legal issues please contact **admin@techno360.in**
+
+###  **Privacy Policy   of  [www.techno360.in](http://www.techno360.in/)**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  **admin@techno360.in**
 
 At [www.techno360.in,](http://www.techno360.in/) the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.techno360.in ](http://www.techno360.in/)and how it is used.
 
- **Log Files**  
+ **Log Files :**
+
+ ****  
 Like many other Web sites, [www.techno360.in](http://www.techno360.in/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
  **Cookies and Web Beacons**  
@@ -24,12 +34,12 @@ Like many other Web sites, [www.techno360.in](http://www.techno360.in/) makes us
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
- **Google Adsense,** **Adbrite,chitka**
+ **Google Adsense,** **Adbrite,chitka,**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.techno360.in ](http://www.techno360.in/)send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 [www.techno360.in](http://www.techno360.in/) has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.techno360.in](http://www.techno360.in/)’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.techno360.in](http://www.techno360.in/)‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
