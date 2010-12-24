@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611122506id_/http%3A//www.wesbanco.com/Global/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224115158id_/http%3A//www.wesbanco.com/Global/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # WesBanco Inc.
 
@@ -42,7 +42,7 @@ Parents may exercise control over which areas of the Internet their children acc
 
 WesBanco is committed to protecting the confidentiality of the personal information you share with us and in keeping you informed of the privacy and security principles we adopt to do so. You can expect this commitment to extend equally whether you visit us in person, over the telephone, or through our website or online banking service. 
 
-This privacy policy applies to personal information gathered and used in your covered transactions with WesBanco companies that are for personal, family, or household purposes, as required by the Gramm-Leach-Bliley Act and any implementing regulation. These companies include WesBanco Bank, Inc., WesBanco Trust and Investment Services, WesBanco Securities, Inc., WesBanco Insurance Services, and Hometown Finance Company. This policy is subject to change at any time without prior notice given to you unless otherwise required by law or regulation. If any change would result in you having the right to “opt out” of information sharing as provided for in any law or regulation, i.e., to direct us not to share your information, you would be given a reasonable time to exercise this right prior to the revised policy becoming effective. 
+This privacy policy applies to personal information gathered and used in your covered transactions with WesBanco companies that are for personal, family, or household purposes, as required by the Gramm-Leach-Bliley Act and any implementing regulation. These companies include WesBanco Bank, Inc., WesBanco Bank Community Development Corporation, WesBanco Securities, Inc., WesBanco Insurance Services, Inc. and WesBanco Title Agency, LLC. This policy is subject to change at any time without prior notice given to you unless otherwise required by law or regulation. If any change would result in you having the right to “opt out” of information sharing as provided for in any law or regulation, i.e., to direct us not to share your information, you would be given a reasonable time to exercise this right prior to the revised policy becoming effective. 
 
 If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice. 
 
