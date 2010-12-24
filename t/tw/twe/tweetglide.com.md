@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetglide.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330134747id_/http%3A//tweetglide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetglide.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224152355id_/http%3A//tweetglide.com/privacy) for the most accurate reproduction.*
 
 # TweetGlide - Privacy
 
