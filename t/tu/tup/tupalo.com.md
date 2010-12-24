@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102021130id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224200026id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tupalo.com Press
 
