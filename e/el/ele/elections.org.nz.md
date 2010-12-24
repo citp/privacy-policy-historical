@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604222500id_/http%3A//www.elections.org.nz/sitehelp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224131427id_/http%3A//www.elections.org.nz/sitehelp/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Elections New Zealand
 
