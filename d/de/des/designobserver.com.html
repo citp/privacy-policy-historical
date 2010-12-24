@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the designobserver.com privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524192259id_/http%3A//designobserver.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designobserver.com privacy policy that was archived on 2010-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225003753id_/http%3A//designobserver.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
 <title>Design Observer</title>
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/designobserver/main">
 
@@ -10,23 +13,83 @@
 
 <link rel="icon" href="/favicon.ico" type="ioje/x-icon">
 <link rel="shortcut icon" href="/favicon.ico">
-
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link href="/common/sitestyles.css" type="text/css" rel="stylesheet" media="all">
 <script type="text/javascript" language="javascript" src="/common/matching_columns.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+
+<script type="text/javascript">
+	// Setup silo and master trackers
+    var _gaq = _gaq || [];
+    _gaq.push(
+        ['masterTracker._setAccount', 'UA-7175561-1'],
+        ['masterTracker._setDomainName', '.designobserver.com'],
+        ['masterTracker._trackPageview'],
+        ['siloTracker._setAccount', 'UA-7175561-6'],
+        ['siloTracker._setDomainName', '.designobserver.com'],
+        ['siloTracker._trackPageview']
+    );
+
+	// Main GA JS
+	(function() {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	 })();
+
+	// Handle bounces when switching subdomains 
+	$('a[href*="designobserver.com"]').click(function(d){
+		var a = this.href.split("/")[2];
+		var b = location.href.split("/")[2];
+		if (a != b) {
+			_gaq.push(["siloTracker._trackPageview", a])
+		}
+	});
+</script>
+
+<script type="text/javascript">
+function IP4places()
+ {
+   mywindow = window.open ("http://places.designobserver.com/media/flash/Interboro_MadeinMidtown/GarmentDistrict.html", "neww","toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1, width=900,height=1000");
+ } 
+</script>
 
 <!-- fancybox -->
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-        <link rel="stylesheet" type="text/css" href="/common/fancybox/jquery.fancybox-1.2.6.css" media="screen">
+		
+        <link rel="stylesheet" type="text/css" href="/common/fancybox/jquery.fancybox-1.3.1.css" media="screen">
 
-        <script type="text/javascript" src="/common/fancybox/jquery.fancybox-1.2.6.pack.js"></script>
+        <script type="text/javascript" src="/common/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
         <script type="text/javascript">
                 $(document).ready(function() {
                         $("a.zoom").fancybox();
 
+                        $("a.asfzoom").fancybox({
+                                'autoScale' : false
+                        });
+                        
+                        $("a.popswf").fancybox({
+                                'type' : 'swf',
+                                'width' : 960,
+                                'height' : 720
+                        });
                 });
         </script>
 <!-- /fancybox -->
 
+<script language="javascript" src="/common/tweet/jquery.tweet.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".tweet").tweet({
+        username: ["johnthackara", "langealexandra","marklamster"],
+        count: 10,
+        loading_text: "loading tweets..."
+        });
+    });
+</script>
 
 </head>
 <body>
@@ -36,11 +99,12 @@
 	
 		<div id="subscribe">
 	
-		<a href="http://designobserver.com/emailsignup.html">Subscribe to Email</a> | 
+		<a href="http://designobserver.com/emailsignup.html" class="emailsubscribe">Subscribe to Email</a> | 
 		<a href="http://designobserver.com/subscribe.html">Subscribe to RSS</a> | 
 		<a href="http://twitter.com/designobserver" target="_blank">Follow on Twitter</a> |
 		<a href="http://facebook.com/designobserver" target="_blank">Join Facebook Page</a> | 
-		<a href="http://designobserver.com/suggestalink.html">Suggest A Link</a>
+		<a href="http://designobserver.com/suggestalink.html">Suggest A Link</a> | 
+		<a href="http://itunes.apple.com/us/app/design-observer/id394896830?mt=8" class="emailsubscribe" target="_blank">iPhone App</a>
 		
 		</div>
 
@@ -59,34 +123,29 @@
 		<a href="http://designobserver.com"><img src="/images/dogroupheader.gif" alt="The Design Observer Group" border="0"></a>
 		</div>
 		
-		<a href="http://observatory.designobserver.com/entry.html?entry=1937"><img src="/media/pastposts/pastposts_image_74.jpg" alt="Personal History" align="left" style="padding-right:4px" border="0"></a>
-		<a href="http://observatory.designobserver.com/entry.html?entry=11597"><img src="/media/pastposts/pastposts_image_89.jpg" alt="Nabokov Covers" align="left" style="padding-right:4px" border="0"></a>
-		<a href="http://observatory.designobserver.com/entry.html?entry=2937"><img src="/media/pastposts/pastposts_image_53.jpg" alt="Bodies &amp; Fonts" align="left" style="padding-right:4px" border="0"></a>
-
 
 		<a href="http://designobserver.com/"><img src="/images/nav_do_357.gif" alt="Design Observer" align="left" style="padding-right:4px" border="0"></a>
 		<a href="http://observatory.designobserver.com/"><img src="/images/nav_observatory_88.gif" alt="Observatory" align="left" style="padding-right:4px" border="0"></a>
 		<a href="http://changeobserver.designobserver.com/"><img src="/images/nav_co_88.gif" alt="Change Observer" align="left" style="padding-right:4px" border="0"></a>
 		<a href="http://places.designobserver.com/"><img src="/images/nav_places_88.gif" alt="Places" align="left" style="padding-right:4px" border="0"></a>
-		<a href="http://observermedia.designobserver.com/"><img src="/images/nav_media_88.gif" alt="Observer Media" align="left" border="0"></a>
+		<a href="http://observermedia.designobserver.com/"><img src="/images/nav_media_88.gif" alt="Observer Media" align="left" style="padding-right:4px" border="0"></a>
+		<a href="http://observersroom.designobserver.com/"><img src="/images/nav_observersroom_88.gif" alt="Observers Room" align="left" style="padding-right:4px" border="0"></a>
+
+
+		<a href="http://observatory.designobserver.com/entry.html?entry=5097"><img src="/media/pastposts/40.jpg" alt="Sister Corita" align="left" style="padding-right:4px" border="0"></a>
+		<a href="http://observatory.designobserver.com/entry.html?entry=3347"><img src="/media/pastposts/pastposts_image_46.jpg" alt="Design B.S." align="left" border="0"></a>
 
 
 	<br clear="all">
 	
 		<div style="border-top:solid 2px black; margin-top:5px">
 
-		<div class="pastposttext">
-		<a style="color:black;" href="http://observatory.designobserver.com/entry.html?entry=1937">Personal History</a>
-		</div>
-		<div class="pastposttext">
-		<a style="color:black;" href="http://observatory.designobserver.com/entry.html?entry=11597">Nabokov Covers</a>
-		</div>
-		<div class="pastposttext">
-		<a style="color:black;" href="http://observatory.designobserver.com/entry.html?entry=2937">Bodies &amp; Fonts</a>
-		</div>
-
-
-
+			<div class="pastposttext" style="margin-left: 818px;">
+			<a style="color:black;" href="http://observatory.designobserver.com/entry.html?entry=5097">Sister Corita</a>
+			</div>
+			<div class="pastposttext">
+			<a style="color:black;" href="http://observatory.designobserver.com/entry.html?entry=3347">Design B.S.</a>
+			</div>
 
 		<br clear="all">
 		</div>
@@ -183,12 +242,12 @@ Observer’s Privacy Policy may be revised or updated at any time and we encoura
      (new Date().getTime()) + '"></' + 'script>');
 })("DO");
 //]]>
-</script><script type="text/javascript" src="http://www.northmay.com/deck/deckDO_js.php?1580389884676"></script>
+</script><script type="text/javascript" src="http://www.northmay.com/deck/deckDO_js.php?1580389884566"></script>
 			</div>
 			<div style="width:45%; position:relative; float:left; padding-left:10px">
 			<h4>DESIGN OBSERVER JOBS</h4><br>
 			
-			<script language="javascript" src="http://designobserver.coroflot.com/job_feed.aspx"></script>
+			<script language="javascript" src="http://jobfeeds.coroflot.com/design_observer.js"></script>
 
 			<br>
 			</div>
@@ -211,6 +270,7 @@ Observer’s Privacy Policy may be revised or updated at any time and we encoura
 <div style="position:relative; float:right">
 <a href="http://designobserver.com/contact.html">Contact</a> 
 | <a href="http://designobserver.com/commentpolicy.html">Comments Policy</a>
+| <a href="mailto:designobserver@winterhouse.com">Support</a>
 | <a href="http://designobserver.com/privacypolicy.html">Privacy Policy</a> 
 | <a href="http://designobserver.com/termsofuse.html">Terms of Use</a>
 </div>
@@ -219,17 +279,6 @@ Observer’s Privacy Policy may be revised or updated at any time and we encoura
 </div>
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7175561-1");
-pageTracker._setDomainName(".designobserver.com");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
@@ -243,8 +292,28 @@ qacct:"p-8bd07kq3rK2XQ"
 </noscript>
 <!-- End Quantcast tag -->
 
+<script type="text/javascript">
+var _sf_async_config={uid:14189,domain:"designobserver.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
 
 
 
 
-</body></html>
+
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
