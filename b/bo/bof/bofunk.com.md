@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bofunk.com privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107065216id_/http%3A//bofunk.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bofunk.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224010712id_/http%3A//www.bofunk.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Funny Videos, Funny Clips, Funny Stuff, Crazy Videos, Funny Pictures
 
@@ -26,7 +26,7 @@ Our Website contains links, including banner and other ads, to other Websites. W
 
 **Third Party Ad Servers**
 
-Bofunk, and / or its advertisers, may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, and not that of Bofunk. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here, <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **Sharing Information**
 
@@ -36,7 +36,7 @@ We may request demographic information from you (for example, your age, educatio
 
 **Opting-Out**
 
-If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or Opt-Out) either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on such e-mails. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails. 
+If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or Opt-Out) either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on such e-mails. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. Additional information regarding opting out of network advertising is located at http://www.networkadvertising.org/managing/opt_out.asp. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails 
 
 **Children Under 13**
 
@@ -68,4 +68,4 @@ Staff [@] Bofunk.com
 
 Use of our site is subject to this Privacy Policy and our Terms & Conditions. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms & Conditions. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
-Revised 4/29/08. 
+Revised 12/10/09. 
