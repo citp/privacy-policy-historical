@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210193920id_/http%3A//www.lynda.com/aboutus/lotPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224053549id_/http%3A//www.lynda.com/aboutus/lotPrivacy.aspx) for the most accurate reproduction.*
 
-# lynda.com Online Training Library: Privacy
+# lynda.com Online Training Library®: Privacy
 
 lynda.com, Inc. (“lynda.com”) has created this Privacy Policy to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -42,29 +42,25 @@ You should promptly notify lynda.com if your account, user name or password have
 
 ## Anti-Spam Policy/Opt-out Choice
 
-We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications from lynda.com. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to new users who have requested or consented to receive e-mails about our services and products. We do not send unsolicited commercial e-mails (“spam”), buy or sell e-mail lists, or use purchased or harvested e-mail lists. We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. If you would like to opt-out of receiving further communications, please follow the directions in the e-mail received or contact us using one of the following modes: 
+We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications from lynda.com. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to new users who have requested or consented to receive e-mails about our services and products. We do not send unsolicited commercial e-mails (“spam”), buy or sell e-mail lists, or use purchased or harvested e-mail lists. We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. If you would like to opt-out of receiving further communications, please visit the [Newsletter Preferences page](http://www.lynda.com/news/NewsletterPreferences.aspx) or contact us using the following address:
 
-E-mail: traininglibrary@lynda.com  
----  
-   
-Postal mail: | 4171 Market Street, Suite C  
-  | 
+Postal mail:  
+6410 Via Real  
+Carpinteria, CA 93013
 
-Ventura, CA 93003-8300  
-  
 Please note that we may not include the opt-out information in non-commercial e-mails (i.e., e-mails concerning your order, the website’s Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please contact us using the information under “Contacting lynda.com” below.
 
-## Removal and/or Modification of Contact Information and/or Financial Information
+## Modification of Contact Information and/or Financial Information
 
-If you would like to remove or modify your contact and/or financial information from our database, please log onto your account by clicking on the “Login” link on the website. Once logged on, click on the “My Account” link and the “Edit Contact Info” link. You will be able to edit your contact and financial information on the “Edit Contact Info” page. If you have any questions or concerns, or would like to remove or modify your information offline, please contact lynda.com using one of the following modes:
+If you would like to modify your contact and/or financial information on our database, please log onto your account by clicking the “Login” link on the website. Once logged on, click on the “My Account” link and the “Edit Contact Info” link. You will be able to edit your contact and financial information on the “Edit Contact Info” page. If you have any questions or concerns, or would like to remove or modify your information offline, please contact lynda.com using one of the following modes:
 
-E-mail: cs@lynda.com  
+E-mail: [cs@lynda.com](http://www.lynda.com/support/contact.aspx?lpk34=3)  
 ---  
    
-Postal mail: | 4171 Market Street, Suite C  
+Postal mail: | 6410 Via Real  
   | 
 
-Ventura, CA 93003-8300  
+Carpinteria, CA 93013  
   
    
 Telephone: 1-888-335-9632  
@@ -77,16 +73,16 @@ lynda.com may change this Privacy Policy from time to time in its sole and absol
 
 If you have any questions about this Privacy Policy, the practices of lynda.com or your dealings with this website, please contact our customer service department using one of the following modes:
 
-E-mail: cs@lynda.com  
+E-mail: [cs@lynda.com](http://www.lynda.com/support/contact.aspx?lpk34=3)  
 ---  
    
-Postal mail: | 4171 Market Street, Suite C  
+Postal mail: | 6410 Via Real  
   | 
 
-Ventura, CA 93003-8300  
+Carpinteria, CA 93013  
   
    
 Telephone: 1-888-335-9632  
   
 Effective Date  
-August 08, 2008
+February 10, 2010
