@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariahcarey.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617185602id_/http%3A//www.mariahcarey.com/policies/%3FgoTo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariahcarey.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224161231id_/http%3A//www.mariahcarey.com/policies/%3FgoTo%3Dprivacy) for the most accurate reproduction.*
 
 # Official Site and Honey B. Fly Fan Club for Mariah Carey aup.aup
 
