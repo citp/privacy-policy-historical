@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # DesertUSA General Information
 
@@ -24,11 +24,11 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
   * A link from DesertUSA to your existing Web site 
   * Your own DesertUSA Web Page
-  * A [Banner Ad ](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
+  * A [Banner Ad ](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/ads/du_adrates.html)strategically placed within the DesertUSA Web site
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -57,11 +57,11 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
-If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
+If you would like to submit a news item for the news blog, [DesertUSAblog.com](http://www.desertusa.com/desertblog), please [click here](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/who/du_talk.html#news) for more information.
 
-If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20100330161908id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
+If you would like to submit and essay or photos for our [Desert Talk](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/who/du_talk.html) area, please [click here](https://web.archive.org/web/20101224221949id_/http%3A//www.desertusa.com/who/du_talk.html#essay) for more information.
 
 ### 
 
@@ -70,7 +70,7 @@ If you would like to submit and essay or photos for our [Desert Talk](https://we
   
 Disclaimer
 
-DesertUSA makes every effort to provide accurate, error-free, up-to-date information. DesertUSA cannot, however, make any guarantees that any information is accurate or up-to-date. Ultimately, the user is responsible for verifying that the information is correct and current. DesertUSA provides contact information for parks, monuments and other organizations where information can be verified.
+DesertUSA and Digital West Media, Inc. make every effort to provide accurate, error-free, up-to-date information. DesertUSA and Digital West Media Inc. cannot, however, make any guarantees that any information is accurate or up-to-date. Ultimately, the user is responsible for verifying that the information is correct and current and suitable for their purposes. DesertUSA and Digital West Media, Inc. provide contact information for parks, monuments and other organizations where information can be verified. The site, including without limitation the site information and all other content provided on the site, are provided to you "as is", and you assume the entire risk as to your use of the site, the site information and the results and performance of the site and your actions with regard to the information provided. DesertUSA and Digital West Media, Inc., hereby disclaim all warranties, duties or conditions (if any), whether express or implied, with regard to the site or any content provided on the site, including but not limited to implied warranties of merchantability, fitness for a particular purpose, workmanlike effort, and lack of negligence. DesertUSA and Digital West Media, Inc., give no warranty against interference with your enjoyment of the site, against infringement, or as to title, or that information provided on the site, the site itself, or DesertUSA's and Digital West Media, Inc.'s efforts, will fulfill any of your particular purposes or needs. Furthermore, DesertUSA and Digital West Media, Inc., give no warranties as to the availability of the site at any particular time; functionality; timeliness of services; accuracy or currency of content; lack of viruses; or any other warranty.
 
 ### Copyright
 
