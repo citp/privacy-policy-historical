@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anthropologie.eu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626091506id_/http%3A//www.anthropologie.eu/page/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.eu privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224034710id_/http%3A//www.anthropologie.eu/page/privacyandsecurity) for the most accurate reproduction.*
 
-# Privacy & Security at Anthropologie
+# Privacy & security | Anthropologie
 
 Ensuring the privacy and security of your personal information is very important to us. Our Privacy & Security Policy outlines the information we collect about you, how we use, disclose and otherwise manage this information and the choices you have to restrict our usage of this information.
 
@@ -46,6 +46,8 @@ We may transfer (or otherwise make available) your personal information to other
 
 All of our service providers are required to maintain the confidentiality and security of your personal information and to use it only in compliance with applicable privacy laws. These companies are not authorised to use your information in any manner, other than in helping us to provide you with products and services or as otherwise required by applicable law.
 
+At various times we may also ask you whether you would be happy for your personal information to be shared with other companies which are not associated with the Anthropologie corporate family. Where you agree to this, once we have shared your personal information with those other companies, this Privacy & Security Policy will not apply to their use of your personal information and their own policies will apply.
+
 We may also disclose specific personal information about you if required by law, governmental request or court order if, based on our good faith belief, it is necessary to conform or comply with such law, request or court order.
 
 ## SALE OF BUSINESS
@@ -68,13 +70,15 @@ back to top
 
 We may periodically update this Privacy & Security Policy for new, unanticipated uses not previously disclosed. Any changes made will be posted here. We will treat your personal information in accordance with the Privacy & Security Policy in place at the time your information was collected. 
 
+This Privacy & Security Policy was updated on 10 September 2010 to take account of your ability to agree to us sharing your personal information with with other companies which are not associated with the Anthropologie corporate family.
+
 ## CONTACT US
 
 Feel free to contact us with any questions about our Privacy & Security Policy or the manner in which we treat your personal information or to withdraw your name from an email or other marketing list.
 
 If you wish to access or update the personal information we have about you, or to correct factual errors in our records, please contact us as set out below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-  * EMAIL: [info@anthropologie.eu](mailto:info@anthropologie.eu)
+  * EMAIL: [service@anthropologie.eu](mailto:service@anthropologie.eu)
   * MAIL: Anthropologie UK
   * Stephenson Harwood
   * 1 St Paul’s Churchyard
@@ -86,6 +90,6 @@ Anthropologie is a trading name of URBN UK Limited, a UK registered company (com
 
 ## ANTHRO EMAIL SUBSCRIPTIONS
 
-If you have chosen to receive emails from Anthropologie, we will offer you advanced notice of sales, new merchandise, store openings and other Anthropologie news. Email addresses provided to Anthropologie are only used internally for the purpose of sending you communication from Anthropologie. We respect your privacy rights and will not sell or rent your email address to other companies. If you would like to unsubscribe from our email list, please contact us at info@anthropologie.eu. You may also click on the unsubscribe link at the bottom of our emails. We will remove your name from our email list as soon as possible. Please recognize that you may receive another email before we are able to remove you. 
+If you have chosen to receive emails from Anthropologie, we will offer you advanced notice of sales, new merchandise, store openings and other Anthropologie news. Email addresses provided to Anthropologie are only used internally for the purpose of sending you communication from Anthropologie. We respect your privacy rights and will not sell or rent your email address to other companies. If you would like to unsubscribe from our email list, please contact us at service@anthropologie.eu. You may also click on the unsubscribe link at the bottom of our emails. We will remove your name from our email list as soon as possible. Please recognize that you may receive another email before we are able to remove you. 
 
 back to top
