@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the torrentavi.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626103556id_/http%3A//www.torrentavi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentavi.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224202844id_/http%3A//www.torrentavi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Torrent Avi, Movie Releases, Torrent Movies
 
 ## Privacy Policy
 
-**Torrent AVI values your privacy. We will never disclose your personal information (email address, IP addresses, etc.) and associated activity on this Web site to any third party, without your permission. We also will not retain your personal information for any longer than necessary for administrative purposes.**
+**Torrent AVI values your privacy. We will never disclose your personal information (email address, IP addresses, etc.) and associated activity on this Web site to any third party, without your permission. We also will not retain your personal information for any longer than necessary for administrative purposes. Our google analytics collects cookies and other info while you browse the site. More specifically the DoubleClick DART cookie is used by Google in the adsense ads served on this website.**
 
 **IP Addresses**
 
