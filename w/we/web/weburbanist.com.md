@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627175837id_/http%3A//weburbanist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224103824id_/http%3A//weburbanist.com/privacy-policy) for the most accurate reproduction.*
 
-# WebUrbanist + WebEcoist | Privacy Policy | WebUrbanist | Art & Design
+# WebUrbanist + WebEcoist | Privacy Policy | WebUrbanist
 
 The privacy of visitors to WebUrbanist.com and WebEcoist.com is important to us. We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form. When registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
