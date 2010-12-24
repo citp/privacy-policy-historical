@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619082143id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224123246id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
 # Big Blue Interactive » BigBlueInteractive.com Privacy Policy
 
@@ -17,7 +17,7 @@ _BBI_ will not sell any personal information gathered to third parties. _BBI_ wi
 
 
 
-_BBI_ will remove any personal information gathered from its database(s) upon written request from any registered users within a 30 day time period following the removal request. Removal from the _BBI_ database(s) will no longer afford the registered user the ability to participate in [The Corner Forum](http://corner.bigblueinteractive.com/index.php) or other such activities conducted on the site at _BBI_ ’s discretion, and without prior notice.
+_BBI_ will remove any personal information gathered from its database(s) upon written request from any registered users within a 30 day time period following the removal request. Removal from the _BBI_ database(s) will no longer afford the registered user the ability to participate in [The Corner Forum](http://corner.bigblueinteractive.com/index.php) or other such activities conducted on the site at _BBI_ ‘s discretion, and without prior notice.
 
 **Direct Advertisers/Advertising Affiliates/Third-Party Vendors/Advertising Networks:**
 
@@ -25,12 +25,11 @@ _BBI_ employs direct advertisers, advertising affiliates, third-party vendors, a
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). To find out more about how direct advertisers/advertising affiliates/third-party vendors/advertising networks that _BBI_ works with manage the privacy of information in conjunction with selling products and/or serving ads on this site, please see their respective privacy policies at:
 
-  * [ADSDAQ by ContextWeb](http://www.contextweb.com/ppolicy.html)
+  * [ContextWeb](http://www.contextweb.com/privacy_policy)
   * [TribalFusion](http://www.tribalfusion.com/TribalFusion/privacy.html)
-  * [BurstMedia ](http://www.burstmedia.com/isl/privacy.asp)
-  * [Amazon](http://www.amazon.com/gp/help/customer/display.html/105-0187941-1017254?ie=UTF8&nodeId=468496)
-  * [TicketCity](http://www.ticketcity.com/Privacy-Policy.html)
-  * [NFLShop.com](http://www.nflshop.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=botnav_privacy_txt)
+  * [BurstMedia ](http://www.burstmedia.com/privacy.asp)
+  * [Amazon](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
+  * [TicketCity](http://www.ticketcity.com/helpful-links/privacy-policy.html)
 
 
 
@@ -66,6 +65,6 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such.
 
-_This Document Was Last Updated on October 7, 2009_
+_This Document Was Last Updated on October 7, 2010_
 
 [](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page")
