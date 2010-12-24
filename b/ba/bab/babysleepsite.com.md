@@ -1,37 +1,106 @@
-> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608002608id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224084142id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Baby Sleep Site™ - Baby Sleep Help | Toddler Sleep Help | Custom Sleep Help
 
-PickNicksBrain publishes content on this website as a resource for information. PickNicksBrain values the privacy of our visitors and users. Any personal information that may be made available to PickNicksBrain when you browse or navigate the site shall be kept confidential. 
+**What information do we collect?**
 
-Domain Information Collection
+We collect information from you when you subscribe to our newsletter. 
 
-PickNicksBrain may collect domain information to enable us to analyze how our visitors use this site. This data enables us to become more familiar with which people visit the blog, how often they visit, and what parts of the site they visit most often. PickNicksBrain will use this information to improve our Internet offerings. This information is collected automatically and requires no action on your part.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-Use of Cookies and Tracking User Traffic
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-PickNicksBrain’s blog may use “cookies” – small files that the site places on your hard drive for identification purposes. A cookie file can contain information such as a user ID to track the pages visited, but the only personal information a cookie can contain is information you supply yourself. These files are used for site registration and customization the next time you visit us. Please note that cookies cannot read data off of your hard drive. Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. If you prefer not to receive cookies while browsing, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site.
+**What do we use your information for?**
 
-Information Sharing and Disclosure
+Any of the information we collect from you may be used in one of the following ways: 
 
-Your personal information is never shared outside the PickNicksBrain site without your permission. The PickNicksBrain site will only disclose your personal information if we are required to do so by law, or in urgent circumstances, such as to protect personal safety, the public or our sites.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Internet Security
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-PickNicksBrain strives to protect your personal information; however, we urge you to take every precaution to protect your personal data when you are on the Internet. You should, for example, change your passwords often, use a combination of letters and numbers, and take other reasonable precautions to make and keep your password private.
+• To send periodic emails
 
-Protecting the Privacy of Children
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-Children under 13 years old are not the target audience for PickNicksBrain. To protect their privacy, PickNicksBrain prohibit the solicitation of personal information from these children.
+Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you can e-mail contact@babysleepsite.com to send a separate request..
 
-Links to Third Party Sites
+• To administer a contest, promotion, survey or other site feature
 
-PickNicksBrain contains links to other sites. PickNicksBrain does not share your personal information with those Web sites, and we are not responsible for their privacy practices. We strongly encourage you to learn about the privacy policies of those companies and service providers yourself.
+**How do we protect your information?**
 
-Changes to this Privacy Policy
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request or place an order. 
 
-PickNicksBrain reserve the right to change, modify or update this policy at any time without notice. Any substantial changes in the way we use your personal information will be posted on this site.
+These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely. 
 
-If you have questions or concerns about PickNicksBrain privacy policy, please contact us by email (info AT picknicksbrain DOT com).
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.babysleepsite.com/terms-of-use.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **October 12, 2010**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+BabySleepSite.com  
+7385 N. State Rt 3   
+Westerville, OH 43082  
+United States  
+support@babysleepsite.com  
+(888) 599-1665
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
+
+Respectfully,
+
+Nicole Johnson President/Owner  
+http://www.babysleepsite.com
 
 [](http://www.addthis.com/bookmark.php?v=250&username=picknicksbrain)
