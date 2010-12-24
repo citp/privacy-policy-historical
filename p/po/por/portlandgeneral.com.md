@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407023046id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224211417id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -39,14 +39,12 @@ If you no longer wish to access your account online, you can cancel your online 
 
 Back to top
 
-Communications from the site  
-Online account e-mails: New customers who prefer to receive communications from PGE by e-mail receive a welcome e-mail.
+E-mail communications to customers  
+Online account e-mails: We send registered customers e-mails related to their PGE electric service and their online account. These may include welcome messages, online transaction confirmations, customer service notices and messages required by the Oregon Public Utility Commission. Generally, customers may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.
 
-We send registered customers e-mails related to their PGE electric service and their online account. These may include welcome messages, online transaction confirmations, changes in PGE prices or services and messages required by the Oregon Public Utility Commission. Generally, customers may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.
+Other e-mail communications: By establishing service online or by registering for a PGE online account, you agree to receive the following types of e-mail communications: newsletters and occasional e-mails related to your PGE service, including information on energy efficiency, safety and outages, surveys and promotions such as energy-saving offers. You may opt out of specific types of e-mail communications at any time using the link provided in each e-mail: “Manage Your Subscriptions/Unsubscribe.”
 
-Other e-mail communications: By registering for a PGE online account, you agree to receive the following types of e-mail communications: a monthly newsletter, alerts, surveys and occasional promotions such as energy savings offers. You may opt-out of specific types of e-mail communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?”
-
-Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?”
+Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Manage Your Subscriptions/Unsubscribe.”
 
 Back to top
 
@@ -108,6 +106,6 @@ We welcome your questions and comments regarding this policy. [E-mail](mailto:cu
 Back to top
 
 Notification of changes  
-The privacy policy was effective as of Jan. 10, 2003, and last updated Oct. 6, 2009. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
+The privacy policy was effective as of Jan. 10, 2003, and last updated Dec. 20, 2010. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
 
 Back to top
