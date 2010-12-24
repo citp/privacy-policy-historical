@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exotissimo.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507161619id_/http%3A//www.exotissimo.com/exotravel/otherlink_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exotissimo.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224161803id_/http%3A//www.exotissimo.com/exotravel/otherlink_policy) for the most accurate reproduction.*
 
 # Exotissimo Travel Privacy Policiy | Exotissimo
 
