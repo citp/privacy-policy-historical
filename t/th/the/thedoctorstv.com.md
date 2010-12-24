@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501001712id_/http%3A//www.thedoctorstv.com/main/content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224061655id_/http%3A//www.thedoctorstv.com/main/content/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,33 +6,33 @@ Effective Date: September 7, 2009
 
 This Privacy Policy applies only to TheDoctorsTV.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), which is owned or controlled by Stage 29 Productions, LLC. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through TheDoctorsTV.com and that post a link to this Privacy Policy (collectively, the "Web Site"). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated).
 
-Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](http://www.thedoctorstv.com/main/content/Terms_of_Use), which govern your use of the Web Site and the content you submit to the Web Site, respectively.
+Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/main/content/Terms_of_Use), which govern your use of the Web Site and the content you submit to the Web Site, respectively.
 
 TABLE OF CONTENTS
 
   
-[TYPES OF INFORMATION THAT MAY BE COLLECTED](http://www.thedoctorstv.com/main/content/Privacy_Policy#1)  
-            [Information You Provide Us](http://www.thedoctorstv.com/main/content/Privacy_Policy#2)  
-            [Information from Other Sources](http://www.thedoctorstv.com/main/content/Privacy_Policy#3)  
-            [Information We Collect As You Access And Use The Web Site](http://www.thedoctorstv.com/main/content/Privacy_Policy#4)  
-            [Cookies](http://www.thedoctorstv.com/main/content/Privacy_Policy#5)  
-            [Web Beacons](http://www.thedoctorstv.com/main/content/Privacy_Policy#6)  
-            [Embedded Scripts](http://www.thedoctorstv.com/main/content/Privacy_Policy#7)  
-[IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT](http://www.thedoctorstv.com/main/content/Privacy_Policy#8)  
-[HOW WE USE THE INFORMATION COLLECTED](http://www.thedoctorstv.com/main/content/Privacy_Policy#9)  
-[THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES](http://www.thedoctorstv.com/main/content/Privacy_Policy#10)  
-[WITH WHOM INFORMATION MAY BE SHARED](http://www.thedoctorstv.com/main/content/Privacy_Policy#11)  
-            [Third parties providing services on our behalf](http://www.thedoctorstv.com/main/content/Privacy_Policy#12)  
-            [When You Agree To Receive Information From Third Parties](http://www.thedoctorstv.com/main/content/Privacy_Policy#13)  
-            [Sweepstakes, Contests and Promotions](http://www.thedoctorstv.com/main/content/Privacy_Policy#14)  
-            [Business Transfers](http://www.thedoctorstv.com/main/content/Privacy_Policy#15)  
-            [Legal Protections and Law Enforcement](http://www.thedoctorstv.com/main/content/Privacy_Policy#16)  
-[UPDATING YOUR SUBSCRIPTIONS](http://www.thedoctorstv.com/main/content/Privacy_Policy#17)  
-[THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES](http://www.thedoctorstv.com/main/content/Privacy_Policy#18)  
-[CONSENT TO TRANSFER](http://www.thedoctorstv.com/main/content/Privacy_Policy#19)  
-[SECURITY](http://www.thedoctorstv.com/main/content/Privacy_Policy#20)  
-[A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY](http://www.thedoctorstv.com/main/content/Privacy_Policy#21)  
-[NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY](http://www.thedoctorstv.com/main/content/Privacy_Policy#22)
+[TYPES OF INFORMATION THAT MAY BE COLLECTED](https://web.archive.org/main/content/Privacy_Policy#1)  
+            [Information You Provide Us](https://web.archive.org/main/content/Privacy_Policy#2)  
+            [Information from Other Sources](https://web.archive.org/main/content/Privacy_Policy#3)  
+            [Information We Collect As You Access And Use The Web Site](https://web.archive.org/main/content/Privacy_Policy#4)  
+            [Cookies](https://web.archive.org/main/content/Privacy_Policy#5)  
+            [Web Beacons](https://web.archive.org/main/content/Privacy_Policy#6)  
+            [Embedded Scripts](https://web.archive.org/main/content/Privacy_Policy#7)  
+[IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT](https://web.archive.org/main/content/Privacy_Policy#8)  
+[HOW WE USE THE INFORMATION COLLECTED](https://web.archive.org/main/content/Privacy_Policy#9)  
+[THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES](https://web.archive.org/main/content/Privacy_Policy#10)  
+[WITH WHOM INFORMATION MAY BE SHARED](https://web.archive.org/main/content/Privacy_Policy#11)  
+            [Third parties providing services on our behalf](https://web.archive.org/main/content/Privacy_Policy#12)  
+            [When You Agree To Receive Information From Third Parties](https://web.archive.org/main/content/Privacy_Policy#13)  
+            [Sweepstakes, Contests and Promotions](https://web.archive.org/main/content/Privacy_Policy#14)  
+            [Business Transfers](https://web.archive.org/main/content/Privacy_Policy#15)  
+            [Legal Protections and Law Enforcement](https://web.archive.org/main/content/Privacy_Policy#16)  
+[UPDATING YOUR SUBSCRIPTIONS](https://web.archive.org/main/content/Privacy_Policy#17)  
+[THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES](https://web.archive.org/main/content/Privacy_Policy#18)  
+[CONSENT TO TRANSFER](https://web.archive.org/main/content/Privacy_Policy#19)  
+[SECURITY](https://web.archive.org/main/content/Privacy_Policy#20)  
+[A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY](https://web.archive.org/main/content/Privacy_Policy#21)  
+[NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY](https://web.archive.org/main/content/Privacy_Policy#22)
 
  **TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
@@ -70,9 +70,9 @@ If you register to join the Web Site (" **Member** "), you may be able to create
 
 The Web Site may contain public areas to which you can contribute your original text and audio or video content, such as comments the message boards, blog comments areas, personal blog, online chat features, and the public portion of your Profile (collectively, " **Public Areas** ").
 
-If you submit comments, message board posts, blog comments, votes, reviews, suggestions, chat messages, photographs, videos, audio recordings, music, text or other content other content to Public Areas (" **User Content** "), **it may be published online or offline in any media or format (currently existing or later developed)**. Other users of the Web Site will have access to your User Content and may have the ability to share it with third parties across the Internet, including through the use of Web Site features allowing users to share links to User Content with third party web sites (such as Blogger, Facebook, Twitter and similar sites). **Company may use your User Content, or any portion, for advertising, marketing, publicity and promotional activities. For the full terms and conditions regarding User Content you submit to the Web Site, please review the Web Site's[Terms of Use](http://www.thedoctorstv.com/main/content/Terms_of_Use)**.  
+If you submit comments, message board posts, blog comments, votes, reviews, suggestions, chat messages, photographs, videos, audio recordings, music, text or other content other content to Public Areas (" **User Content** "), **it may be published online or offline in any media or format (currently existing or later developed)**. Other users of the Web Site will have access to your User Content and may have the ability to share it with third parties across the Internet, including through the use of Web Site features allowing users to share links to User Content with third party web sites (such as Blogger, Facebook, Twitter and similar sites). **Company may use your User Content, or any portion, for advertising, marketing, publicity and promotional activities. For the full terms and conditions regarding User Content you submit to the Web Site, please review the Web Site's[Terms of Use](https://web.archive.org/main/content/Terms_of_Use)**.  
  **  
-If you submit to Company and/or the Web Site any User Content including comments, message board posts, blog comments, votes, reviews, suggestions, chat messages, photographs, videos may be published online or offline (including, without limitation, on The Doctors Show, on a CD or DVD, or any other electronic or non-electronic media or format currently existing or later developed). We may publish your name, voice, likeness and other Personal Information in connection with publishing the User Content or any thereof, and we may use the User Content and any excerpt thereof in connection with advertising, marketing, publicity and promotional activities. For the full terms and conditions regarding User Content you submit to the Web Site, please review the Web Site's[Terms of Use](http://www.thedoctorstv.com/main/content/Terms_of_Use).**
+If you submit to Company and/or the Web Site any User Content including comments, message board posts, blog comments, votes, reviews, suggestions, chat messages, photographs, videos may be published online or offline (including, without limitation, on The Doctors Show, on a CD or DVD, or any other electronic or non-electronic media or format currently existing or later developed). We may publish your name, voice, likeness and other Personal Information in connection with publishing the User Content or any thereof, and we may use the User Content and any excerpt thereof in connection with advertising, marketing, publicity and promotional activities. For the full terms and conditions regarding User Content you submit to the Web Site, please review the Web Site's[Terms of Use](https://web.archive.org/main/content/Terms_of_Use).**
 
 You also may have the ability to interact and communicate other Members on the Site. Please use caution when interacting and communicating with people that you do not know personally. Please note that Company cannot ensure the security of any information you choose to make public and cannot ensure that parties who have access to such publicly available information will respect your privacy. Therefore, use caution when including Personal Information in User Content or a Public Area or any message that you send using the Web Site (for example, do not post your real name, e-mail address, phone number or physical address).  
  **  
