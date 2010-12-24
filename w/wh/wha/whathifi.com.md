@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025836id_/http%3A//whathifi.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224153406id_/http%3A//www.whathifi.com/Privacy-Policy) for the most accurate reproduction.*
 
 # The world’s No.1 home cinema, hi-fi and TV buying guide – from the experts at whathifi.com
 
