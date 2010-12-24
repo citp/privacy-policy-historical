@@ -1,189 +1,137 @@
-> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630170154id_/http%3A//mediaplex.com/mplx_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224040150id_/http%3A//www.mediaplex.com/mojo-privacy-statement) for the most accurate reproduction.*
 
-# Mediaplex - Privacy Policy
+# Privacy Statement | Mediaplex
 
-Mediaplex Privacy Policy
+Last Updated:  September 9, 2010
 
-Last updated January 15, 2004
+**I. OVERVIEW**
 
-Contents
+Mediaplex, Inc. is dedicated to providing our products and services in a way that best assures the privacy of Internet Users. This privacy policy ("Privacy Policy") sets forth the privacy policies and practices of Mediaplex, Inc. ("Mediaplex", "we", "our" or "us"), a ValueClick, Inc. company ("ValueClick"), in providing services for our marketing clients ("Clients"), and to individuals who receive email or use a browser to access websites ("Internet Users").
 
-Overview
+For more information about ValueClick and other ValueClick companies please visit [www.ValueClick.com](http://www.valueclick.com/)
 
-Online Advertising Privacy
+**II. SCOPE & APPLICATION**
 
-Opting Out of Online Advertising from Mediaplex Products
+Mediaplex provides products and services to deliver and track advertisements and marketing messages over the Internet on behalf of clients such as advertisers, marketers and website publishers ("Clients"). Advertisements and communications sent through Mediaplex products and services derive from the sending Client, with Mediaplex acting as the delivery agent.
 
-Blocking all Cookies
+The collection, use, and disclosure of data collected by Mediaplex pursuant to its provision of services and products for its Client ("Mediaplex Services") are governed by this Privacy Policy. The collection, use and disclosure of data collected by any Client in connection with such Client's use of Mediaplex Services are governed by such Client's privacy policy which may differ from this Privacy Policy. While Mediaplex strongly encourages its Clients and business partners to adopt responsible approaches to online privacy, Mediaplex is not responsible for the information practices of Clients or their partners.
 
-Email Privacy
+Please note that if you voluntarily choose to provide information to Mediaplex you consent to the practices and procedures detailed herein.
 
-Opting out of Email
+To the extent there is a conflict between the terms of this Privacy Policy and a written agreement to which Mediaplex is party, the terms of such agreement shall prevail with respect to the parties to that agreement.
 
-General Mediaplex Privacy Policies
+**III. INFORMATION WE COLLECT.**
 
-Cookies
+**A. Online Advertising**
 
-Web Beacons
+Mediaplex offers Clients various online advertising products, including without limitation, MOJO Adserver, MOJO Publisher, and MOJO SEM. In the process of providing online advertising, Mediaplex does not collect any personally identifiable data, which is data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address ("PII") from Internet users with respect to such online advertising products. We may use technology such as click-stream, cookies, web beacons, log files and HTTP protocol elements to collect general data on the performance of our advertising campaigns so we can report aggregated results. This data is collected on an anonymous and non-personally identifiable basis. The non-personally identifiable information that Mediaplex collects may include, as an example, IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity "Non-PII").
 
-Use of Data
+The Non-PII collected is used for the enhancement of our services to our Clients, marketing, and to more effectively match advertisements and website content to Internet users.
 
-Data Security
+**B. Email Marketing**
 
-Retention Policy
+Mediaplex offers Clients an email marketing product, MOJO Mail. MOJO Mail is used to configure and send email communications and promotional offers to permission-based email lists provided by its Clients. In this process, certain PII is stored and managed in MOJO Mail. This PII is provided by Client to Mediaplex. Mediaplex does collect general email campaign performance data in order to report aggregated results to Clients.
 
-P3P Privacy Policy
+**C. Cookies, Web Beacons, and Log Files**
 
-Mediaplex.com
+Mediaplex may serve online advertising as part of its Mediaplex Services. In doing so, Mediaplex may use Log files, Web beacons or Cookies on your computer and will use Non-PII collected as part of the Mediaplex Services to serve online advertisements for the Client.
 
-Privacy Affiliations
+"Log files" track actions occurring on websites and collect data, which may include your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed.
 
-TRUSTe Privacy Program
+"Web beacons" are electronic files used to track your data, which may include the navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior.
 
-Network Advertising Initiative
+"Cookies" are files (e.g. HTTP cookies) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see online advertisements. We may use Cookies to estimate the total reach of an advertising campaign, as well as frequency of display. This allows Clients to determine with greater accuracy the composition of the audience they reach. Cookies are also used to control the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement.
 
-Privacy Information
+There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies", if used, are used only during your visit to the Sites and are erased once you close your browser, and (ii) "Persistent Cookies" remain on your browser for up to 3 years from your last visit to the Sites and enable us to remember you on subsequent visits to the Sites and provide more relevant content to you on such Sites.
 
-Federal Trade Commission (FTC)
+There are many misconceptions about cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. Mediaplex does not and cannot use cookies, log files or web beacons to retrieve PII from your computer.
 
-Safe Harbor
+A useful resource on understanding cookies may be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Better Business Bureau
+**IV. INFORMATION MANAGEMENT**
 
-Privacy Policy Changes
+Data, including any PII or Non-PII, collected by Mediaplex from the Mediaplex Services shall be defined as "Information". Mediaplex may, from time to time, provide Information to third-party administrative vendors for efficiency purposes in providing administrative or program management services such as billing, delivery and payouts. Any such third-party vendor agrees to protect the confidentiality of Information provided by Mediaplex. Mediaplex may periodically use Information for strategic marketing information and other business related communications.
 
-Contacting Us
+Please be aware that the websites of our Clients as well as the websites on which we serve advertisements or any third party websites may collect information from you. Such information may include non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with such websites. You should check the applicable privacy policies of such websites you visit to determine how they handle any information they collect from you. Mediaplex also shares data that it collects in the provision of its Services to its related Clients and its affiliated entities for marketing purposes that includes providing advertisements about goods or services likely to be of greater interest to you.  With respect to online behavioral advertising, such Clients and/or affiliated entities may use non-personally identifiable information collected or shared, including, but not limited to providing advertisements about goods and services likely to be of greater interest to you. Typically a cookie or third party web beacon is used to collect this information. To learn more about this behavioral advertising practice, please click on the following link:  [www.networkadvertising.org](http://www.networkadvertising.org/), or to opt-out of this type of advertising, please click on the following link: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-Advertisers, marketers, and website publishers use Mediaplex products – MOJO Adserver, MOJO Mail, and MOJO Publisher – to deliver and track advertisements and marketing messages over the Internet. Advertisements and communications sent through one of these Mediaplex products belong to the sender, with Mediaplex acting as the delivery agent. Mediaplex stores data received from these processes on behalf of our clients. Mediaplex does not retain, use, or sell the data collected for our own purposes other than for aggregate statistical reporting, such as the total client advertisements served or emails sent.
+Please note that such data collected and shared pursuant to the above does not include PII; however, such Clients and affiliated entities may combine such Information with any PII that you may choose to give in registering and transacting with their websites, services or platforms.
 
-Mediaplex is dedicated to providing our products and services in a way that best assures the privacy of Internet Users. Mediaplex is a subsidiary of ValueClick, Inc., operating under the distinct privacy policies described below. 
+Mediaplex may release any Information we hold, when we believe release is appropriate to respond to a subpoena or otherwise to comply with any laws, rules and regulations; enforce or apply our terms and conditions and other agreements; or protect the rights, property, or safety of Mediaplex, ValueClick, Inc. and its subsidiaries and affiliates, or its Clients. This includes exchanging Information with other companies and organizations for fraud protection.
 
-In this privacy discussion, there are three parties: 
+Mediaplex also reserves the right to share any Non-PII with our affiliated entities, which may be combined with any PII that such affiliated entities have, or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, or reorganization or liquidation of any of the ValueClick companies.
 
-1.)    Mediaplex
+**V. Data Security**
 
-2.)    Clients: Companies that use Mediaplex products, including MOJO Adserver, MOJO Publisher, and MOJO Mail to deliver advertising, marketing messages, and email over the Internet.
+Mediaplex employs reasonable measures to ensure the security of all Information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services.
 
-3.)    Internet Users: Computer users who receive email or use a browser to access websites.
+No transmission of data over the Internet is guaranteed to be completely secure. While we strive to protect your data, it may be possible for third parties not under the control of Mediaplex to unlawfully intercept or access transmissions or private communications. Mediaplex cannot ensure or warrant the security of information you transmit to us. You acknowledge and assume this risk when communicating with Mediaplex.
 
-Mediaplex markets MOJO Adserver and MOJO Publisher application service provider (ASP) products for advertisers and marketers to send advertisements to Internet Users. Advertising and marketing provide revenue for websites, the same way advertising subsidizes television, magazines, and newspapers.
+**VI. CHOICE AND ACCESS**
 
-Mediaplex does not collect personally identifiable information in the process of providing online advertising. Mediaplex does not know or retain personally identifiable information (PII), such as the names, telephone numbers, home addresses or email addresses of Internet Users to whom we deliver banner advertisements on behalf of our clients. The only personal information Mediaplex may have is the information an Internet User volunteers, such as in an email inquiry.
+**A. Opting Out of Interest Based Advertising**
 
-Mediaplex does collect general data on the performance of our advertising campaigns so we can provide aggregated results reports to Clients. This data may include the total number of advertisements delivered or the number of clicks resulting from banner advertisements. Mediaplex calculates the success of advertising campaign by correlating advertising results, such as a purchase made later on an advertiser’s website, by using cookie data. These results calculations are done anonymously. The user’s privacy is maintained while Mediaplex can report the campaign’s result to our Client.
+Mediaplex also offers an "opt-out Cookie" to block the placement of future Mediaplex Cookies on your system for 10 years from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process.
 
-## Opting Out of Online Advertising from Mediaplex Products
+[ Click Here to Install Mediaplex Opt-out Cookie
 
-Internet Users may opt-out of receiving a unique Mediaplex cookie, disabling unique data collection. If an Internet User opts-out, Mediaplex sets a cookie that is generic, the same opt-out cookie as all other users who have opted out of Mediaplex advertising. This generic cookie lets Mediaplex know you have opted out, and you will not receive any future Mediaplex cookies. This opt-out cookie is effective for the life of your hard drive or until you delete the cookie.
+](https://web.archive.org/opt-out-complete)
 
-If you subsequently wish to receive Mediaplex advertising, you may opt back in at any time.
+Please note that use of the opt-out Cookie will affect Mediaplex’s ability to provide you content and advertisements that will more effectively match your interests, and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process to: customersupport@mediaplex.com.
 
-## Blocking all Cookies
+Most Internet browsers give you the option of adjusting their settings which allow you to automatically refuse cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
 
-Most Internet browsers give you the option of blocking all cookies.
+**B. Opting Out of Email**
 
-### Microsoft Internet Explorer 6.x
+You can control the email you receive through Mediaplex MOJO Mail. To opt-out of emails sent by Mediaplex Clients using MOJO Mail:
 
-To block all cookies in Internet Explorer 6.x:
+  § Click the unsubscribe link that at the bottom of the email.  
+  § Reply to the message with "unsubscribe" in the Subject line or body of the email.
 
-1.      In the menu, select Tools > Internet Options 
+If you have attempted to opt out without success, forward a copy of the email you are trying to opt-out of along with your full name and email address to [customersupport@mediaplex.com](mailto:customersupport@mediaplex.com) so that we can investigate and resolve the problem.
 
-2.      Select the Privacy tab
+**C. Accessing Consumer Information.**
 
-3.      Move the slider to Block All Cookies
+Mediaplex does not maintain a process for an individual consumer to review or change PII collected.
 
-4.      Click OK
+**VII. DATA RETENTION**
 
-### Netscape Navigator 7.x 
+We retain non-personally identifiable information to more effectively match advertisements and website content to your interests for no more than eighteen (18) months.  Aggregate reports generated from such data may be retained for a longer period.
 
-To block all cookies in Internet Explorer 7.x:
+**VIII. CONSENT AND CHANGES**
 
-1.      In the menu, select Edit >Preferences
+As the standards governing Internet privacy continue to evolve, Mediaplex may find it appropriate or necessary to update this Privacy Policy from time to time. As a result, we reserve the right to change this Privacy Policy at any time. Changes and updates to this Privacy Policy will be posted on this page with a date indicating when such Privacy Policy was last updated. We encourage you to review the Privacy Policy whenever you use this Website to make sure you understand how your information will be used.
 
-2.      Click the triangle next to Privacy & Security
+**IX. EMAIL SPAM**
 
-3.      Select Cookies
+Mediaplex promotes proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701) which requires advertisers to provide an opt-out mechanism for consumers to unsubscribe from future emails. Mediaplex does not allow clients to use MOJO Mail to send unsolicited commercial email ("UCE" a/k/a spam). MOJO Mail may only be used for communications to Internet users who have opted-in to receive the Client's email marketing messages.
 
-4.      Click the Disable Cookies radio button
+**X. SAFE HARBOR**
 
-5.      Click OK
+The European Union ("EU") maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a SafeHarbor that defines mutually acceptable privacy operations. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-### Other Browsers
+Mediaplex complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-For other browsers, consult your browser’s help or instruction manual. 
+In compliance with the Safe Harbor Principles,we commit to resolve complaints about your privacy and our collection or use of your personal information.  In the first instance, European Union citizens with inquiries or complaints regarding this privacy policy should first contact: [customersupport@mediaplex.com](mailto:customersupport@mediaplex.com).  Mediaplex has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mediaplex you may contact:  
 
-Mediaplex Clients use MOJO Mail to configure and send email communications and promotional offers. In the process, the Client stores and manages personally identifiable information in MOJO Mail. This information typically includes data provided by Internet Users to the Client, such as email address, name, and other related information.  This data belongs to the Client and its use is fully controlled by the Client. Mediaplex does not use the personally identifiable Client data stored in Mediaplex applications, except as directed by the Client to personalize and target opt-in email messages to those Internet users who have requested to receive them. Mediaplex does collect general data on the performance of our email campaigns so that we can provide aggregated results reports to Clients.
+Council of Better Business Bureaus, Inc.  
+BBB EU Safe Harbor  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.us.bbb.org](http://www.us.bbb.org/)  
+Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)  
+ 
 
-Mediaplex does not allow clients to use MOJO Mail to send unsolicited commercial email (UCE) or spam. Mediaplex strictly enforces Client usage of MOJO Mail. MOJO Mail may only be used by Clients for communications to Internet Users who have opted in to the receive Client email marketing messages.
+**XI. NETWORK ADVERTISING INITIATIVE**
 
-## Opting out of Email
+Mediaplex is a member of the Network Advertising Initiative ("NAI"). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-You can control the email you receive through Mediaplex. To opt-out of emails sent by Mediaplex Clients using MOJO Mail:
+**XII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
 
-§         Click the unsubscribe link that at the bottom of every email sent through Mediaplex.
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER THE PRIVACY OF MEDIAPLEX DATA OR MEDIAPLEX'S PRACTICES IS SUBJECT TO THE PROVISIONS THIS PRIVACY POLICY AND APPLICABLE TERMS AND ANY APPLICABLE CONDITIONS AND POLICIES (WHICH MAY INCLUDE LIMITATIONS ON DAMAGES AND/OR ARBITRATION OF DISPUTES). YOU AGREE THAT MEDIAPLEX'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY MEDIAPLEX OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. YOU FURTHER AGREE THAT THIS AGREEMENT IS GOVERNED BY CALIFORNIA LAW WITHOUT REGARD TO CHOICE OF LAW PRINCIPLES AND THAT ANY ACTION ARISING FROM OR RELATED TO THIS POLICY WILL BE EXCLUSIVELY VENUED IN A STATE OR FEDERAL COURT SITUATED IN EITHER SAN FRANCISCO COUNTY OR LOS ANGELES COUNTY, CALIFORNIA.
 
-§         Visit the sending company's website and follow the opt-out procedure posted there. 
+It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
 
-§         If you have attempted to opt out without success, forward a copy of the email you are trying to opt-out of to [info@mediaplex.com](mailto:info@mediaplex.com) so that we can investigate and resolve the problem.
+**XIII. CONTACT US**
 
-## Cookies
-
-A cookie is a small text file sent to your PC that lets Mediaplex identify your browser without violating your personal privacy. Mediaplex cookies do not contain personally identifiable information. Mediaplex uses cookies to the most effective advertising possible. For example, a cookie allows Mediaplex to ensure that you do not see the same ad over and over, ensuring delivery of diverse offers and promotions. 
-
-## Web Beacons
-
-A web beacon is an invisible 1x1 pixel GIF included in a Client web page. When the Internet User’s browser loads the Client web page, a request is sent to Mediaplex for the 1x1 clear GIF, signaling that the page was displayed. Using the cookie, Mediaplex can then correlate that the same anonymous Internet User saw or clicked an ad, and subsequently visited the Client’s web page, and can report a correlation back to the Client.
-
-## Use of Data
-
-Mediaplex does not rent, sell, or share Internet User personally identifiable information. 
-
-## Data Security
-
-Mediaplex adheres to strict security measures to ensure that data retained by Mediaplex is not lost, shared, sold, or accessed by unauthorized users. Access by Mediaplex staff and clients is password-protected and limited to individuals at Mediaplex whose job responsibilities require the access.
-
-## Data Retention Policy
-
-Mediaplex uses transaction log files to generate aggregated reporting data for Clients. Mediaplex retains these log files of individual online advertisements and email transactions for a minimum of 90 days, and retain summary information for up to three years. 
-
-## P3P Privacy Policy
-
-Mediaplex has implemented the Platform for Privacy Preferences (P3P) Project based on the specifications defined by the World Wide Web Consortium (W3C). The full XML Policy Reference file for Mediaplex website and Mediaplex products may be found at [www.mediaplex.com/w3c/p3p.xml](http://www.mediaplex.com/w3c/p3p.xml). For more information see  [www.w3c.org/p3p](http://www.w3c.org/P3P). 
-
-## Mediaplex.com
-
-Mediaplex does not track visitors to mediaplex.com. Cookies are only written or modified if a visitor clicks the opt-in or opt-out buttons, or if an authorized user clicks the login links to Mediaplex products.
-
-As part of Mediaplex’s consumer privacy, we are involved with the following privacy groups: 
-
-##  TRUSTe Privacy Program
-
-Mediaplex is endorsed by TRUSTe online privacy programs. TRUSTe enables individuals and organizations to establish trusting relationships based on respect for personal identity and information. For more information see [www.truste.com](http://www.truste.com/).
-
-## Network Advertising Initiative
-
-Mediaplex’s parent company, ValueClick, is a Network Advertising Initiative (NAI) Associate Member. The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. In addition, Mediaplex is a Member of the NAI Email Service Provider Coalition (ESPC), working with other leading email service providers to alleviate problems of unsolicited email, or Spam. For more information see [www.networkadvertising.org](http://www.networkadvertising.org/).
-
-Further consumer privacy information is available at:
-
-## Federal Trade Commission (FTC)
-
-The US Government’s Federal Trade Commission maintains a site dedicated to issues of personal information privacy. For more information see [www.ftc.gov/privacy](http://www.ftc.gov/privacy).
-
-## Safe Harbor
-
-The European Union (EU) maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. Mediaplex adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor/sh_overview.html).
-
-## Better Business Bureau
-
-Internet Users with complaints not resolved by Mediaplex may file a complaint through the Better Business Bureau at [www.bbbonline.com](http://www.bbbonline.com/).
-
-Mediaplex will address concerns related to this Privacy Policy and will work to correct problems. Mediaplex reserves the right to modify this policy statement at any time without notice. Changes will be posted to this site.
-
-Questions, concerns, comments, and complaints regarding this privacy statement can be addressed to:
-
-§         Email: [info@mediaplex.com](mailto:info@mediaplex.com)
-
-§         Mail: ValueClick, Attn: General Counsel, 4360 Park Terrace Drive, Suite 100 Westlake Village, CA 91361.
-
-Questions and complaints may also be addressed to the Network Advertising Initiative at [www.networkadvertising.org](http://www.networkadvertising.org/). For concerns about personal information recorded by cookies used by Mediaplex products contact TRUSTe at [www.truste.org](http://www.truste.org/).
+For more information or if you have questions or concerns regarding the Mediaplex Privacy Policy, please email us at: [customersupport@mediaplex.com](mailto:customersupport@mediaplex.com) or you can send correspondence to the following address: Mediaplex, Attn: Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.
