@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetsbot.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510152819id_/http%3A//www.tweetsbot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetsbot.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224035749id_/http%3A//www.tweetsbot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
