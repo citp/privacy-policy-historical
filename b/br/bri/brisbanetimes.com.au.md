@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brisbanetimes.com.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526000551id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisbanetimes.com.au privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224224358id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
