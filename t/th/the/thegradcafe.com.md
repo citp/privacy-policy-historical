@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegradcafe.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104033010id_/http%3A//www.thegradcafe.com/TermsofService.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegradcafe.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224093736id_/http%3A//thegradcafe.com/TermsofService.html) for the most accurate reproduction.*
 
 # Terms of Service
 
@@ -8,7 +8,7 @@ www.theGradCafe.com
 
 Description
 
-[http://www.theGradCafe.com](http://www.thegradcafe.com/) was created to accommodate the success of the Graduate School Admissions Survey. We are hosted by ijneb Consulting! Inc., and the “Forum” and “Wall” are independent add-ons offered by the respective authors. The owner and maintainers of the website respect your privacy, and we will not give out any information related to your identity that is gathered through survey results or community participation. The “Forum” and “Wall” are used at your own risk.
+[http://www.theGradCafe.com](http://www.thegradcafe.com/) was created to accommodate the success of the Graduate School Admissions Survey. We are hosted by Jump Networks Ltd, in England, U.K; the "Forum" and other independent add-ons are offered by the respective authors. The owner and maintainers of the website respect your privacy, and we will not give out any information related to your identity that is gathered through survey results or community participation. The "Forum" and "Survey" are used at your own risk.
 
 Survey and Results
 
@@ -16,7 +16,7 @@ theGradCafe.com in no way assures the accuracy of the results within the survey.
 
 Copyright
 
-While an automatic survey or idea of an admissions database cannot be claimed through copyright, the results obtained are eligible. This is part of the database copyright permissions offered through the United States Copyright Office. Implied copyright begins when publication occurs, and theGradCafe.com has a registered copyright for the results database _only_ , that will go into effect March 10, 2006. All rights are reserved, and permission must be granted before using the results in any way that brings revenue to the perpetrator. For non-profit use of the results, we ask only ask that you credit us.  
+Extraction or re-utilisation without prior consent of data made available through this site is prohibited by the The Copyright and Rights in Databases Regulations 1997.  
 
 Privacy / Cookies
 
