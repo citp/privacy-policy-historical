@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630205247id_/http%3A//www.teamer.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224034313id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
 
 # teamer: sports team management - teamer.net privacy statement
-
-You must login to perform that action.
 
 Teamer.net is the sport team management site which makes it easy for sports team organizers to communicate with their team members, and provides team members with a private online community to talk tactics, chat and share photo’s. 
 
