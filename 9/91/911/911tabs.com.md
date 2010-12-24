@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 911tabs.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331224748id_/http%3A//www.911tabs.com/about/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 911tabs.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224224921id_/http%3A//www.911tabs.com/about/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ 911Tabs.Com
 
@@ -100,4 +100,4 @@ Acceptance of This Privacy Policy
 
 By using this site, you consent to the collection and use of your Personal Information by 911tabs.com in accordance with this Privacy Policy. 
 
-[Add your site](https://web.archive.org/about/add_your_site.htm) \- [Advertising](https://web.archive.org/about/advertising_info.htm) \- [About](https://web.archive.org/about/) \- [Contact info](https://web.archive.org/about/contact.htm)  **2004 © 911Tabs.Com**
+[Add your site](https://web.archive.org/about/add_your_site.htm) \- [Advertising](https://web.archive.org/about/advertising_info.htm) \- [About](https://web.archive.org/about/) \- [Contact info](https://web.archive.org/about/contact.htm)  **2010 © 911Tabs.Com**
