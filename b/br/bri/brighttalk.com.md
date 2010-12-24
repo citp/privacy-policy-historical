@@ -1,74 +1,68 @@
-> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517163638id_/http%3A//www.brighttalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004625id_/http%3A//www.brighttalk.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# privacy
+# Privacy policy | brighttalk.com
 
-**Our Approach to Privacy**
+#### BrightTALK™  
+PRIVACY POLICY
 
-Your privacy and the privacy of all registered users of the services of BrightTALK, is important to us. We understand your need for privacy when using the Web for your communications and we have developed our Privacy Policy to demonstrate our commitment to privacy. 
+Date of Last Revision: 12 August 2010
 
-The following provides an overview of how we protect your privacy. ****
+#### 1 INTRODUCTION
 
-**Information Collected**
+BrightTALK™ recognises that privacy is important when using the Web for communications. This policy explains how BrightTALK collects, stores, uses and shares personal information and information about your visits to the network, including the pages you view, the links you click and other actions taken in connection with any Web site with the brighttalk.com domain (the “Site”) which is owned by BrightTALK Ltd, and from time to time its subsidiary corporations, its successors and its assigns (collectively referred to as “BrightTALK”). Personal information is information from which you can be personally identified, such as your name, address, email address, or telephone number, and demographic or other information about you when such information is tied to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. It is important that you read and understand this Privacy Policy (“Policy”). You must accept all the terms and conditions of this Policy and the General User Agreement before accessing any service provided on, through or by brighttalk.com (“Services”). If you do not accept the terms and conditions of this Policy, then you cannot access the Services. 
 
-In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. Information on BrightTALK is gathered indirectly through the site's technology and directly when you provide information on various pages. 
+BrightTALK may update this Policy at any time. In the event there are material changes in the way we treat your personal information, we will notify you by email. Unless stated otherwise, our current Policy applies to all personal information that we have about you and your account. This policy in no way restricts or limits our collection and use of aggregate information.
 
-**Indirect Information**
+Minors under the age of eighteen years old are not eligible to use brighttalk.com and we therefore ask that minors do not submit any personal information to us or use any of the services provided on, through or by brighttalk.com (the "Services").
 
-For example, indirect information is gathered through our Internet access logs, including: Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), platform type, and date/time stamp. 
+If you have questions or concerns regarding this Policy, please contact BrightTALK at the address below.
 
-**Direct Information**
+For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is BrightTALK Limited of Cedar House, Breckland, Linford Wood, Milton Keynes, Buckinghamshire, MK14 6EX.
 
-Direct Information is collected in a variety of ways including the use of cookies, system tests and through voluntary submission. 
+#### 2 PRIVACY RIGHTS FOR CALIFORNIA RESIDENTS
 
-**Cookies**
+Under California law, customers who are California residents are entitled to annually request and obtain information about the personal information we shared, if any, with other businesses for their own direct marketing. If applicable, the information would include the categories of personal information and the names and addresses of those businesses with which we shared personal information for the immediately prior calendar year. To make such a request, please send a written request to The Secretary, BrightTALK Inc., 501 Folsom Street, San Francisco, CA 94105, USA. Please note that not all information sharing is covered under the California law, and only information on covered sharing will be included in our response
 
-Our website uses cookies to keep track of your session identity and to provide you with a better service. A cookie is a unique piece of data that is generated by a website that is stored on your computer. Each time you access that website the contents of that cookie are sent back to the website. This means that the web server can be aware that you have visited before and that you are returning, or perhaps loading up another page on the same site. A cookie may collect information about, for example, how you entered the site, how you navigate through it, and what information was of interest to you. 
+#### 3 INFORMATION COLLECTED
 
-The cookies we use identify you as a number and cannot, by themselves, reveal any personal details about you or your computer's setup. Cookies do not contain executable code and cannot be used for infecting your computer with a virus. 
+**3.1Personal Information**  
+We may collect certain information you voluntarily provide to us which may contain personal information. For example, to set up a brighttalk.com account you are required to complete the registration process. This process requires you to provide certain personal information such as your name, email address, telephone number, company name and job title as well as information about your company such as country and industry sector. We may also collect user profile information such as age, gender, postcode, survey responses, voting choices and areas of special interest to you. 
 
-You have the option of configuring your browser to accept all cookies, reject all cookies or notify you when a cookie is sent. You can change your settings in the preferences or options menu of your browser. 
+If you choose to become a Channel Owner (for the purposes of this Policy, “Channel Owner” means someone who sets up, manages, and populates a Channel, and “Channel” means an embeddable webcast player on which the Channel Owner can provide Subscribers with access to upcoming, live and recorded webcasts), a Sponsor (for the purposes of this Policy, Sponsor has the meaning given in paragraph 4.2 below) or to subscribe to a paid for service, we will ask for additional information such as your credit card details and/or billing details.
 
-**System tests**
+**3.2Cookies**  
+In common with standard industry practice, BrightTALK uses cookies to track site usage. A cookie is a small text file containing a unique identification number that is placed on the hard disk of your computer by a Web page server, enabling the Web server to identify your web browser and passively track its activities on that website. Cookies do not contain any executable code and cannot be used for infecting your computer with a virus. Most Web browsers automatically accept cookies but usually provide the option of configuring your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. You can change your settings in the preferences or options menu of your browser. If you choose to decline cookies, certain features of our Services may not be available to you.
 
-Our website can carry out a system test on your computer if you request it, or if you select the Contact Customer Support page. Our system test will make an enquiry to your computer to determine your browser settings, operating system, media players, screen resolution, sound card capability and current bandwidth available. 
+**3.3Web Beacons**  
+Web beacons, sometimes called single-pixel GIFs, are small electronic image files that we may place on brighttalk.com Web pages and within certain email. Combined with cookies, Web beacons allow us to count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use Web beacons to let us know how many people opened certain types of email. Information we may collect using Web beacons will be in aggregate form only and will not contain your personal information. Third party advertisers may use Web beacons in their advertisements on BrightTALK Web sites. This enables us to compile aggregated statistics and determine the effectiveness of promotional campaigns. We do not allow Web beacons on our Web sites to be used by third parties to collect or access your personal information.
 
-The system test that we carry out does not reveal any personal details about you. 
+**3.4Log Information**  
+When you use brighttalk.com, our servers record, in a server log, information that your browser sends whenever you visit a website. Server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-**Voluntary submission**
+**3.5User Communications**  
+When you send email or other communication to BrightTALK or another user, we may retain those communications in order to process your enquiries, respond to your requests and to improve our services.
 
-We also collect information when you voluntarily submit it to us. Throughout our site, we provide the opportunity to register for an event or conference, to book a service, or to participate in an online survey. For example, when you register to use our site, we ask for and store your and/or your business' name, address, email address and other identifying contact data. We may also receive information about you through the websites of the companies for which we provide services. 
+**3.6Affiliated Sites**  
+We may offer services in connection with other Web sites or suppliers. Personal information that you provide to those sites may be sent to us in order to deliver these services. We process such information in accordance with this Privacy Policy. 
 
-When we collect this type of information we will make it clear why we are asking for this information and how it will be used. It is up to you whether or not you wish to provide it. 
+#### 4 USE AND SHARING OF INFORMATION
 
-**Use of Information**
+**4.1BrightTALK’s Use of Information**  
+BrightTALK collects and uses your personal, profile and activity information (together referred to as “Profile Information”) as described in this Policy, to operate and improve its services, to carry out the transactions you request, to provide you with information you request or to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use, and our administration, of the Site, and for the purpose for which the information was provided. These uses may include making our services easier to use by eliminating the need for you to enter the same information repeatedly, for research and analysis to improve our services and technologies, to display customised content and advertising, to contact you in connection with your enquiries, surveys, your Account or to deliver promotional material, and to provide anonymous reporting to BrightTALK Channel Owners.
 
-Personally identifiable information may be combined with other information about your use of our site in order to improve our services and products. Some examples of how we might use your personally identifiable information include: 
+BrightTALK may store and process personal information collected on brighttalk.com or other BrightTALK Web sites in the UK or any other country including outside the European Economic Area (“EEA”) in which BrightTALK or its affiliates, subsidiaries or agents maintain facilities, and by using a BrightTALK service, you consent to any such transfer of your information outside your country and the EEA. 
 
-  * Our server will recognise your domain name and the pages that you visit. This data is gathered for quality control and to help us improve the site. 
-  * When an email is sent to us we will use your email address to respond to you. 
-  * We will collect information that you provide to us in surveys or feedback forms. We will use that information to improve the running of our own business and may aggregate it with other responses to provide as abstracted information in a report, not specific to any individual or company. 
-  * When contacting customer support we request your contact details and your system details (entered automatically) to help our technical staff to provide you with a speedy response to your question. 
-  * We may use your contact details to communicate with you about your account and to ensure that you are aware of any upcoming events for which you are registered. 
-  * We may also contact you to offer new products and services. If you do not want to receive this information, please inform our data controller at [data.controller@bright-talk.com ](mailto:data.controller@bright-talk.com). 
+**4.2Sharing of Information**  
+BrightTALK does not share or sell your Profile Information with third parties or non-affiliated companies except to provide the products or services you have requested, when we have your permission, or under the following circumstances:
 
+When you subscribe to a Channel or a specific BrightTALK™ Conference (each a "Subscription") or attend or view a Summit or webcast, BrightTALK may share your Profile Information including your email address and telephone number (as well as details and viewing times of the Content you have viewed on that Channel, Conference, Summit or webcast) with that Channel Owner or with the Sponsor of that Conference, Summit or webcast. For the purposes of this Policy, “BrightTALK Conference” means an online seminar that is broadcast live through brighttalk.com and also available for later on-demand viewing, "Summit" means a collection of various webcasts on a particular topic that may include webcasts from more than one Channel and “Sponsor” means someone who sponsors a BrightTALK Conference, Summit or webcast in exchange for brand promotion, thought leadership opportunities, and the leads generated from the BrightTALK Conference, Summit or webcast audience where applicable. In subscribing to a Channel or a BrightTALK Conference or attending or viewing a Summit or webcast, you consent to our sharing your Profile Information with the Sponsor or Channel Owner who may use such information to provide you with marketing messages, and we encourage you to review the Sponsor’s or Channel Owner’s own Privacy Policy to ensure you are satisfied with the provisions. BrightTALK does not control or limit, and we are not responsible for, the activities of Sponsors and Channel Owners in the use, control and protection of personal information. We may provide your Profile Information including your email address and telephone number to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Profile Information on our behalf. These parties are required to process such information based on our instructions and in accordance with this Policy. They do not have any independent right to share this information. We may share your personal information with a credit checking company or with a credit card processing company to bill users for our services. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality requirements which limit their use of such information. We may disclose such personal information to satisfy any applicable law, regulation, legal process or enforceable government request, to enforce our General User Agreement and investigate violations thereof, to prevent, detect and address fraud, security or technical issues, or to protect against harm to the rights and property of BrightTALK and its users as required or permitted by law. We may disclose or transfer your Profile Information if BrightTALK is acquired by or merged with another company or in the event of a sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of BrightTALK. We will provide notice before this occurs and will post a new Privacy Policy if necessary. Sharing your Profile Information in the circumstances described above may involve your personal information being transferred outside your country and the EEA and in accepting this Policy and using the Services you consent to any such transfer.
 
+#### 5 ACCESSING AND AMENDING YOUR ACCOUNT INFORMATION
 
-**Disclosure of Information**
+You can amend your account information and/or cancel your Subscription at any time by visiting your account page on brighttalk.com. If you cancel your Subscription we will remove your personal details from the subscriber base for that Channel or Conference, but if your personal information has been previously shared with the Channel Owner or with any Sponsor, you will need to contact the Channel Owner or Sponsor directly to request your information be removed from its database. You can close your account in accordance with our General User Agreement. If you close your account, we may retain your personal information but only for the purposes of preventing fraud or future abuse, enforcing our General User Agreement, protecting against harm to the rights and property of BrightTALK and its users, and if required or permitted by law. All retained information will continue to be subject to the terms of this Policy. You have a right under the Act to access information held about you, subject to an administrative fee to meet our reasonable costs. You may also ask us to stop processing your personal information at any time.
 
-We do not release your personally identifying information, and information about your activities and preferences, to other companies wishing to contact you about products and services. We may, however, share your information with partner and suppliers involved in delivering our service proposition. Our partners and suppliers, who receive your personal data, will also not provide your data to other companies wishing to contact you about products and services. 
+#### 6 SECURITY
 
-We may provide third parties with collective profiles of our user groups and their activities and preferences. Such collective profiles may also be disclosed in describing our site and services to prospective partners and other third parties, and for other lawful purposes. 
+To secure your personal information, access to your data is password protected, and sensitive information is protected by encryption when it is exchanged between your Web browser and our Web site. It is your responsibility to keep your password confidential and not to share this information with anyone. To protect data stored on our servers, we regularly audit our system for possible vulnerabilities and attacks and we use only secured access tier 1 data centres.
 
-We may disclose your information, as necessary, to fulfil legal and regulatory requirements; to effect a sale, assignment, or other transfer of our assets or one or more of our service agreements; or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm. 
-
-**Sensitive Information**
-
-We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this Privacy Statement. 
-
-**Rights of Access**
-
-You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by contacting our data controller at [data.controller@bright-talk.com ](mailto:data.controller@bright-talk.com). 
-
-**Data Security**
-
-We store your sensitive information in secure operating environments that are not available to unauthorised people. We have taken all necessary safeguards and security measures to protect your privacy, however, you should understand and accept that under the current technology, the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. BrightTALK in no way whatsoever provides or implies an absolute warranty of security and protection to you.
+Whilst we will implement the security measures detailed above, transmission of information via the internet is not completely secure and therefore transmission via the internet is at your own risk.
