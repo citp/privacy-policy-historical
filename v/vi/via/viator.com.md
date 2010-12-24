@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605131603id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224070910id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -28,17 +28,21 @@ In order to purchase our products or services, it is necessary for you to disclo
 
 When you register with Viator, we ask for basic information including your name, email address and ask you to create a unique password and user id along with a password hint. To help us send more relevant communications to you (if you choose to receive them) we keep track of all website searches and bookings. For example, if you frequently visit Paris and London, we may send you special notices listing deals and popular products for those destinations. If you subscribe to any of our email marketing communications - including newsletters and destination alerts, it is necessary to disclose your name, your home country, and email address.
 
-In some instances we may also ask for personal demographic data such as your country of residence, gender, age, travel habits, etc.
+In some instances we may also ask for personal demographic data such as your country of residence, gender, age, travel habits, etc. We also use cookies (as discussed below) to collect information about the performance and usability of our websites.
 
-We also use cookies (as discussed below) to collect information about the performance and usability of our websites.
+We ask for and store information about you when you create an account on the site, such as your name, email address, and signup location.
+
+You can contribute to the site in a number of different ways, including writing reviews, uploading photos, filling out your public profile, and rating other users' contributions. We may store these contributions (your "Content"), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Content.
 
 ### Cookies, and How We Use Them
 
-"Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies in and of themselves only identify your computer; they do not personally identify you.
+"Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies in and of themselves only identify your computer; they do not personally identify you. 
 
-At Viator we make limited use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs.
+First-Party Cookies: At Viator we make limited use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs. We also use cookies to analyze and measure the effectiveness of our email communications, website features and offerings, and advertisements. We do not use cookies to track your movements after leaving our websites. 
 
-We do **not** use cookies to identify specific users for marketing purposes. We do not match cookies to your purchase information. And we do not use cookies to track your movements after leaving our websites. Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.
+Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.
+
+Third-Party Cookies: We also use third-party advertising companies to serve ads while you are visiting our websites and permit these companies to place and access their own cookies on your computer in the course of serving advertisements. Such advertisers do not have access to the information we collect through Viator cookies. Other companies' use of their cookies is subject to their own privacy policies and not ours. 
 
 ### How We Use Your Personal Information
 
@@ -65,7 +69,7 @@ We only provide our service providers with your name and your local contact deta
 
 We also share your personal information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third party marketing partners.
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out" of our ability to analyze such data by [clicking here](http://www.omniture.com/privacy/product#optout).
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by our marketing company on this website. The information we collect helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out" of our ability to analyze such data by [clicking here](http://www.omniture.com/privacy/product#optout).
 
 Finally, rest assured that unless you expressly authorize us to do so, we do not share your personal information with third-party organizations who are not involved in fulfilling the purchases you have made from us or who are not contracted by us. 
 
@@ -120,4 +124,4 @@ To correct or update any other personal information, or if you have questions ab
 
 ### Further Information About Privacy Laws
 
-There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the [Australian National Privacy Principles](http://www.privacy.gov.au/publications/nppgl_01.html). In the United States that means adhering to the [Federal Trade Commission's](http://www.ftc.gov/privacy/) privacy guidelines. In Europe the regulations are based on [EC Directive 95/46/EC](http://www.cdt.org/privacy/eudirective/EU_Directive_.html).
+There is no single global entity that regulates personal information online. Instead, Viator has made a conscious choice to follow the privacy guidelines as established by law in the major markets where we operate and where we have offices. In Australia that means being guided by the [National Privacy Principles](http://www.privacy.gov.au/publications/nppgl_01.html "National Privacy Principles"). In the United States that means adhering to the Federal Trade Commission's [guidelines](http://www.ftc.gov/privacy/ "guidelines"). In Europe that means adhering to EC Directive 95/46/EC and complying with the EU Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from the European Union.
