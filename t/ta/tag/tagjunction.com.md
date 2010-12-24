@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagjunction.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628223346id_/http%3A//www.tagjunction.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagjunction.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224044735id_/http%3A//www.tagjunction.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Tag Junction Privacy Policy,Affiliate Network Privacy Policy,FAQs
 
