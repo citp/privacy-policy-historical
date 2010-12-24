@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102152749id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224192717id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.*
 
-# Free Full Porn Videos DVDs - Watch FREE Porn Full Length Porn Movies Sex XXX Porntube
+# Privacy Policy - Pornflakez
 
-## PRIVACY POLICY
+## PRIVACY
 
 This document details important information regarding the use and disclosure of User Data collected on Pornflakez.com 
 
