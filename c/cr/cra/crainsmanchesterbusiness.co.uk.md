@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crainsmanchesterbusiness.co.uk privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625022750id_/http%3A//www.crainsmanchesterbusiness.co.uk/apps/pbcs.dll/section%3FCategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsmanchesterbusiness.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224210442id_/http%3A//crainsmanchesterbusiness.co.uk/apps/pbcs.dll/section%3FCategory%3Dprivacy) for the most accurate reproduction.*
 
 # Crain's Manchester Business
 
@@ -29,3 +29,24 @@ This Web site is operated in the United States. If you are located in the Europe
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc. Legal Department at [sbell@crain.com](mailto:sbell@crain.com) or 0161 209 5819. 
 
 Policy last updated: January 2010 
+
+## **Readers' Poll**
+
+Will Spinningfields work as a fine dining destination?
+
+A: Yes, thanks to plenty of well-heeled footfall
+
+B: Yes, but restaurants will need three years rent free to get started
+
+C: No, fine dining won't work anywhere in the city centre
+
+  
+Votes cast: **337**
+
+[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.crainsmanchesterbusiness.co.uk/privacy/index/15620892959@Top,Middle,Middle1,TopLeft,Right1,Position1,Position2,Position3,Position4,TopRight,x01,x02,x03,Bottom!Middle1?)
+
+## **This Week's Issue**
+
+* * *
+
+* * *
