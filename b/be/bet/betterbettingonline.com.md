@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterbettingonline.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613052135id_/http%3A//www.betterbettingonline.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbettingonline.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224044943id_/http%3A//www.betterbettingonline.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
