@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mypornprofile.com privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625005500id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mypornprofile.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224202752id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>MyPornProfile | Privacy Policy</title>
@@ -9,15 +9,63 @@
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
-		
-		<link href="/blog/wp-content/themes/mypornprofile/style.css?1" rel="stylesheet" type="text/css">
+
+		<link href="/blog/wp-content/themes/mypornprofile/style-11.css?4" rel="stylesheet" type="text/css">
+				<link rel="stylesheet" type="text/css" href="/css/fan-promo.css">
+				<link rel="stylesheet" type="text/css" href="/css/overrides.css">
 				
-		<script src="http://cdn.jquerytools.org/1.1.2/full/jquery.tools.min.js" type="text/javascript"></script>
+		<script src="http://cdn.jquerytools.org/1.2.2/full/jquery.tools.min.js" type="text/javascript"></script>
 		<script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=tweettrackjs&amp;apiKey=R_7e9987b2fd13d7e4e881f9cbb168f523"></script>
 		<script type="text/javascript" charset="utf-8" src="http://s.bit.ly/TweetAndTrack.js?v=1.01"></script>
 		<script src="/js/global.js" type="text/javascript" charset="utf-8"></script>
 		
-									</head> 
+								
+		
+						
+		<script type="text/javascript">
+		$(function() {
+			var h = $('.heighter').height();
+		$('.expander').toggle(function(){
+		$('.full-list').animate({height: h}, 2000);
+		$(this).html('collapse list');
+		},
+		function() {
+		$('.full-list').animate({height: '240px'}, 2000);
+		$(this).html('expand list');
+			}
+		);	
+		
+			
+				
+		});
+		
+		function nextNotification() {
+		  if (currentMessage < totalMessages) {	
+		  notifications.eq(currentMessage).addClass('hidden').removeClass('visible');
+		  currentMessage += 1;
+		  notifications.eq(currentMessage).removeClass('hidden').addClass('visible');
+		  } else {
+		  notifications.addClass('hidden').removeClass('visible');
+		  notifications.eq(0).removeClass('hidden').addClass('visible');
+		  currentMessage = 0;
+		  }			
+		}
+		
+		function prevNotification() {
+		  if (currentMessage > 0) {	
+		  notifications.eq(currentMessage).addClass('hidden').removeClass('visible');
+		  currentMessage -= 1;
+		  notifications.eq(currentMessage).removeClass('hidden').addClass('visible');
+		  } else {
+		  notifications.addClass('hidden').removeClass('visible');
+		  notifications.eq(totalMessages).removeClass('hidden').addClass('visible');
+		  currentMessage = totalMessages;
+		  }			
+		}
+		</script>
+		
+		
+	</head> 
 	<body>
 
 		<div id="wrapper">
@@ -25,29 +73,40 @@
 				<div class="header clean">
 					<a class="logo" href="/" title="My Porn Profile"><span></span>My Porn Profile</a>
 					<div class="menu">
-						<ul>
-							<li><a href="/" class="home"><span></span>Home</a></li>
-							<li><a href="/blog/" class="blog"><span></span>Blog</a></li>
-							<li><a href="/profile/showlist/" class="browse"><span></span>Browse Profiles</a></li>
-							<li><a href="/page/signupOne/" class="add"><span></span>Add Profile</a></li>
+	<ul>
+          <li><a href="/" class="home"><span></span>Home</a></li>
+          <li><a href="/profile/showlist/" class="browse">Profiles</a></li>
+          <li><a href="/page/signupOne/" class="add">Create a Profile</a></li>
+          <li><a href="http://forum.mypornprofile.com" class="forums">Forums</a></li>
+          <li><a href="http://mypornprofilecams.com" target="_blank" class="cams">Cams</a></li>
+          <li><a href="/blog" class="blog">Blog</a></li>
+        </ul>
+						
+										
 							
-							<li><a href="http://mypornprofilecams.com" target="_blank" class="cams"><span></span>Cams</a></li>
-							
-						</ul>
-						<div id="top-login-menu">
+						
+						
+						
+	
+        <div class="f-right">
+          <div id="top-login-menu">
 														<a id="forgot-password" href="/page/forgotPassword/">Forgot password?</a>
 							<a href="/page/signin/">Login</a>
-													</div>
-						<div class="wrapper-search">
-							<form method="get" action="/profile/search/" id="search-form">
-							<table><tbody>
-								<tr>
-									<td><input name="q" type="text" class="input"></td>
-									<td><span class="icons pic-search" onclick="$('#search-form').submit();"></span></td>
-								</tr>
-							</tbody></table>
-							</form>
-						</div>
+								  </div>
+          <div class="clear"></div>
+          <div class="wrapper-search">
+		<form method="get" action="/profile/search/" id="search-form">
+		<table><tbody>
+			<tr>
+				<td><input name="q" type="text" class="input"></td>
+				<td><span class="icons pic-search" onclick="$('#search-form').submit();"></span></td>
+			</tr>
+		</tbody></table>
+		</form>
+          </div>
+          <div class="clear"></div>
+        </div>	
+					
 					</div>
 				</div> 
 				
@@ -106,7 +165,7 @@ If you would like to learn more about our privacy policy please write us at mypo
 														<li><a href="/misc/page/About/">About </a></li>
 							<li><a href="/misc/contact/">Contact</a></li>
 							<li><a href="/misc/page/Services/">Services</a></li>
-													</ul>
+																				</ul>
 					</div>
 					<div class="bot-menu bot-menu-grey">
 						<ul>
@@ -122,6 +181,5 @@ If you would like to learn more about our privacy policy please write us at mypo
 				</div>
 			</div>
 		</div>
-		
-	
+			
 </body></html>
