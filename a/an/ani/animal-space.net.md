@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625024146id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224161245id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Animal Space - a place for animals: Privacy Policy
 
@@ -11,7 +11,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Cookies and Web Beacons**  
 Animal-space.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
