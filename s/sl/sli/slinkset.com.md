@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slinkset.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211223259id_/http%3A//slinkset.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slinkset.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224173707id_/http%3A//slinkset.com/privacy_policy) for the most accurate reproduction.*
 
 # slinkset.com: share -> vote -> comment
 
