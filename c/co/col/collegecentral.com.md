@@ -1,55 +1,72 @@
-> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208065459id_/http%3A//www.collegecentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224070850id_/http%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
 
-# College Central Network - Privacy Statement
+# College Central Network - Privacy Policy
 
-**College Central Network's Privacy Statement**
+This Privacy Policy statement discloses the type of information College Central Network, Inc. ("College Central Network", "CCN" or "we") collect and store about our Users, our usage policy, and who to contact with questions or concerns you may have.
 
-College Central Network is committed to the responsible management of client information and abides by all rules, both ethical and legal, with respect to the use of such information. We strictly adhere to all industry guidelines, and are continuously monitoring and enhancing how we manage the use and security of client information to uphold your rights.
+College Central Network is committed to the responsible use and management of personal information of its registered users ("User" or "Users" or "you") and abides by all prevailing rules, both ethical and legal, with respect to the use of such information. We strictly adhere to all industry standard guidelines, and are continuously monitoring and enhancing how we manage the use and security of your information to uphold your rights.
 
-This statement outlines the type of information we collect and store, our usage policy, and who to contact with questions or concerns.
+College Central Network's technology is utilized by more than 500 college and university career and employment centers ("CCN Client Schools") to manage student, alumni and employer/recruiter data and to automate and web-enable their career/employment center functions and processes. In addition, job seekers attending thousands of colleges and universities that are not CCN Client Schools also use College Central Network's free, web-based services (collectively, the "CCN Site" or the "Site").
 
-**Personal**
+If a career/employment center is powered by CCN's technology and therefore is a CCN Client School, that CCN Client School has entered into a legal agreement with CCN, and that school's career/employment center staff and administrators will have the ability to access personal information from the CCN Site belonging to students and alumni of their respective schools, as well as information regarding the employers/recruiters who recruit at their schools. This access includes, without limitation, the ability to send emails to users and, only if authorized by you, to refer or forward your résumé and/or career portfolio to employers seeking to hire job seekers from their school.
 
-On College Central Network, we will not collect any personally identifiable information about you (name, address, telephone number, email address) unless you provide it to us voluntarily. If you do not want your personal information collected, please do not register on our sites.
+CCN Client School career/employment centers, and the activities and practices of their staff and administrators are not subject to this Privacy Policy, and CCN is not responsible for how they use or what they do with personal information about that school's students, alumni and employers/recruiters which is available or accessible to them on or through their CCN licensed technology. If you have specific questions regarding the privacy practices and policies of your school's career/employment center with respect to your personal information, we recommend that you contact your CCN Client School directly. The career/employment center contact information is available to all users once you are logged into your CCN user account, and lists both the CCN Client School's email contact address and phone number.
 
-_Employers_
+We may make content or services from other websites available to you from links located on the CCN Site. These other websites also are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such website to determine how that site uses your information and protects your privacy.
 
-All employers registering online are required to submit valid email and postal addresses to utilize our services. You may receive periodic mailings from us with information on new services or products. If you do not wish to receive such mailings, please let us know by contacting us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com) or at the mail address listed at the bottom of this Statement.
+## Personally Identifiable Information Collected by CCN
 
-If you have already submitted this information and would like for us to remove it from our files, please contact us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com) or by the mail address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+The CCN Site requires that you provide your name, address, telephone number, and email address on the registration form, but does not disclose this information to any outside third parties without your permission except as specifically stated in this Privacy Policy regarding your CCN Client School or for "Necessary Disclosures" as defined below. If you do not want to provide this information, you cannot use our Site.
 
-We will not sell or otherwise make available your personally identifiable information to third parties unrelated to the specific operation of this site, such as companies seeking to contact you with offers of products or services.
+### Particularly Pertaining to Students/Alumni
 
-We may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the law or legal process; (2) protect or defend our rights or property or those of our users, and (3) act as immediately necessary in order to protect the safety of our users or the public.
+If you are a registered user of the CCN Site and your school is a CCN Client School, you will have the option of having your information available only to your school, or you may also allow it to be searched by employers approved by your school if you have uploaded a résumé or career portfolio to our database. You may also receive mailings or emails from your school about upcoming career-related events or job opportunities.
 
-_Students/Alumni_
+Employers cannot search any personal information whatsoever if you are not attending a CCN Client School. If you have uploaded a résumé or career portfolio to our database and have personally chosen to submit or forward it to an employer when applying for a job, this is the only information that will be accessible to employers.
 
-If you register in Student or Alumni Central, you will have the option of having your information available only to your school, or you may also allow it to be searched by employers approved by your school if you have uploaded a résumé to our database. If your school is a Career Services Central client of College Central, you may also receive mailings and e-mails from your school about upcoming events and other job-related topics.
+You may also elect whether or not you wish to receive email notifications from CCN of new job postings that match your job search criteria. If you change your mind and do not wish to receive such mailings after you have registered, you may so update the applicable Résumé and/or Career Portfolio Authorization in your account. You may also unsubscribe by clicking the Unsubscribe link at the bottom of one of these emails or by contacting us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com).
 
-You may also elect whether or not you wish to receive email notifications of new job postings which match your job search criteria. If you do not wish to receive such mailings after you have registered, you may update the authorizations on your registration form. You may also unsubscribe using the information at the bottom of one of these emails or by contacting us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com) or at the mail address listed at the bottom of this Statement.
+CCN will not sell or otherwise make available your personally identifiable information to third parties unrelated to the specific operation of this Site, such as companies seeking to contact you with offers of products or services.
 
-We will not sell or otherwise make available your personally identifiable information to third parties unrelated to the specific operation of this site, such as companies seeking to contact you with offers of products or services.
+We may disclose your personally identifiable information if required by law or in our good-faith belief that such action is necessary to: (1) conform to the law or legal process; (2) protect or defend the rights or property of our Users; or (3) act as we deem reasonably necessary to protect the safety of our Users, CCN Client Schools, the public and/or to prevent or mitigate harm (individually and collectively, "Necessary Disclosures").
 
-We may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the law or legal process; (2) protect or defend our rights or property or those of our users, and (3) act as immediately necessary in order to protect the safety of our users or the public.
+CCN Users should be aware that when you voluntarily display or distribute personal information (such as your email address, résumé or career portfolio) to others (by applying to job postings, etc.), that information could be collected and used by others in a manner other or beyond what you may originally have intended. This may result in, among other things, unsolicited messages from third parties, for which CCN is not responsible.
 
-**Non-Personally Identifiable Information Collected Automatically**
+### Particularly Pertaining to Employers
 
-For each visitor to College Central Network, our Web server automatically recognizes your domain, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the Web site from which you linked to our site. This non-personally identifiable information is collected as a matter of course during the website viewing process.
+All employers registering on CCN to post jobs on EmployerCentral.com are required to submit valid email, phone number, and postal addresses in order to use our services. You may receive periodic mailings from us with information on new services or products. If you do not wish to receive such mailings, please let us know by contacting us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com). If you have already provided this information and at any time thereafter would like for us to remove it from our files, please contact us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com). We will use reasonable efforts to delete your information promptly after receipt of your notice to do so from any future files.
 
-**Who to Contact**
+## Other Information Collected Automatically
 
-Any person may request removal of his or her name from the College Central Network database by sending e-mail to [privacy@collegecentral.com](mailto:privacy@collegecentral.com). You must provide your name, complete street address, city, state, zip code and e-mail address. We will use reasonable efforts to delete this information from our existing files.
+For each visitor to College Central Network, our Site server automatically recognizes your domain, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our Site. This non-personally identifiable information is collected as a matter of course during your website viewing process and CCN may disclose such non-personally identifiable information to third parties in aggregate and/or custom sorted ways.
 
-You may also use snail mail to request removal of your information by sending your name, address, complete street address, city, state, zip code and e-mail address to:
+## Aggregated User Data
 
-College Central Network  
+We collect and monitor data and information about the activities of our Users on CCN collectively. We only use such data anonymously and in the aggregate. This data is not used to track or monitor personally identifiable information of individual Users. We gather and monitor this data to analyze trends, administer the Site, identify Users when they visit the Site, track Users' movements on the Site and gather broad demographic information for aggregate use. We may share, license or sell this aggregate and/or custom sorted information with our partners so that they too may understand our User base and CCN usage patterns, but only in a manner that does not reveal any personally identifiable information about any individual User.
+
+## Cookies
+
+Cookies are small text files recorded on a User's hard drive that are employed by many websites, including our Site, to enhance and facilitate the users' Web browsing experience. CCN Site cookies cannot damage User files, nor can they read information from a User's hard drive. Cookies allow sites and advertisers to "remember" Users across pages of a site and across multiple visits to a site. Cookies themselves do not personally identify Users, although they do identify a User's computer. CCN uses cookies for remembering User preferences and current session information. Because of our use of cookies, we can deliver faster service, more consistent, updated results, and a more personalized Site experience to our Users. You can disable or limit cookies by adjusting settings on your computer, but if cookies are disabled or deleted, the full capacity of the CCN Site will not be available to you.
+
+## Security
+
+The CCN account containing your registration information, profile and résumé is password protected, so only you (and/or third parties you provide your password to, either directly or indirectly) can access your account. All personally identifiable information CCN collects about you is stored on limited-access servers. CCN has high level technical, administrative and physical security measures and safeguards in place to protect against the loss, misuse and alteration of the information under our direct control. While we are committed to placing reasonable and appropriate safeguards to protecting your information against foreseeable risks, please know that no computer system or information can ever be fully protected against every possible hazard, and we cannot guarantee that unauthorized third parties will not be able to circumvent those safeguards and gain unauthorized access to or use your personal information for improper purposes. If we determine or are notified by your School or by you through our user feedback system that your User account information has been "hacked" or otherwise compromised, we will notify you and respond to remedy the situation as promptly as practicable.
+
+## Updating Account Information
+
+You may change or correct your personal information on CCN at any time. To do so, simply log in to your CCN account, go to your profile, and edit the information you have previously submitted.
+
+## Privacy Policy Changes
+
+CCN may deem it necessary or appropriate from time to time to modify this Privacy Policy to reflect changes in the way it collects or uses information or to respond to changes in privacy-related laws, regulations or industry standards. Accordingly, CCN reserves the right to change its Privacy Policy at any time by posting the revised policy on this CCN Site. As part of your logging on, you will be notified of and asked to accept any material or substantive changes to our Privacy Policy. Information will be handled according to the Privacy Policy statement in effect at the time the information is used. Your continued use of CCN following the posting of, and your acceptance of, changes to this Privacy Policy will confirm that you agree to those changes.
+
+## Who to Contact
+
+Any person may request removal of his or her information from the College Central Network database by sending an email to [privacy@collegecentral.com](mailto:privacy@collegecentral.com). You must provide your name, complete street address, city, state, zip code, phone number, and email address. We may request further information from you to validate your request. Promptly after the validation of your request, we will use reasonable efforts to delete your information from our then current and any future database files.
+
+You may also use snail mail to request removal of your information by sending your name, address, complete street address, city, state, zip code, phone number, and email address to:
+
+College Central Network, Inc.  
 Removal Request  
 245 8th Avenue, #892  
 New York, NY 10011
-
-Back to:  
-[College Central Network](http://www.collegecentral.com/)  
-[Student Central](http://www.studentcentral.com/)  
-[Alumni Central](http://www.alumnicentral.com/)  
-[Employer Central](http://www.employercentral.com/)  
-[Career Services Central](http://www.careerservicescentral.com/)
