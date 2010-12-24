@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickequations.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004916id_/http%3A//www.clickequations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickequations.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225005627id_/http%3A//www.clickequations.com/privacy-policy) for the most accurate reproduction.*
 
 # ClickEquations Privacy Policy
 
-The privacy of your personal information is very important to us but we need to use it in a number of ways to provide our service to you. This statement outlines what personal information ClickEquations, Inc. (”ClickEquations”) collects about you and how we use it to operate the ClickEquations service and our other Web-based services (collectively, the “Service”). If you have any questions or concerns relating to privacy or security, please send an email to [](mailto:privacy@clickequations.com)[privacy@clickequations.com](mailto:privacy@cli%63k%65%71%75%61t%69o%6es%2eco%6d).
+The privacy of your personal information is very important to us but we need to use it in a number of ways to provide our service to you. This statement outlines what personal information ClickEquations, Inc. (”ClickEquations”) collects about you and how we use it to operate the ClickEquations service and our other Web-based services (collectively, the “Service”). If you have any questions or concerns relating to privacy or security, please send an email to [](mailto:privacy@clickequations.com)[privacy@clickequations.com](mailto:pri%76acy@%63%6cickequa%74i%6fns%2ecom).
 
 ## What Information We Collect
 
@@ -42,7 +42,7 @@ If you respond to any surveys or polls on our site, we may ask you for demograph
 
 ## Children
 
-The Service is not targeted to people under the age of 18. If you become aware that a child has used the Service and/or provided personal information, please contact ClickEquations immediately at [](mailto:privacy@clickequations.com)[privacy@clickequations.com](mailto:priv%61%63%79@cl%69%63kequa%74%69on%73.%63%6fm). If we become aware that a child under the age of 13 has provided personal information, we will promptly remove such information from our servers.
+The Service is not targeted to people under the age of 18. If you become aware that a child has used the Service and/or provided personal information, please contact ClickEquations immediately at [](mailto:privacy@clickequations.com)[privacy@clickequations.com](mailto:p%72%69%76acy%40cl%69cke%71%75%61%74%69on%73.co%6d). If we become aware that a child under the age of 13 has provided personal information, we will promptly remove such information from our servers.
 
 ## Other Web Sites and Content
 
@@ -54,4 +54,4 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 ## Questions
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [](mailto:privacy@clickequations.com)[privacy@clickequations.com](mailto:pr%69%76%61cy%40%63li%63keq%75at%69%6f%6es%2ecom).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [](mailto:privacy@clickequations.com)[privacy@clickequations.com](mailto:priv%61cy@cli%63keq%75%61tion%73%2ec%6fm).
