@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615023845id_/http%3A//www.dma.org.uk/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224083534id_/http%3A//www.dma.org.uk/content/privacy.asp) for the most accurate reproduction.*
 
 # DMA: General Information - Privacy Policy
-
-## General Information
-
-Privacy Policy 
-
-|  | 
 
 The Direct Marketing Association (UK) Ltd ('DMA') takes the confidentiality of personal data seriously. Please contact the DMA's legal department on 020 7291 3300 if you have any questions or comments on this Privacy Policy. 
 
@@ -88,17 +82,17 @@ Verification, updating or amendment of personal data takes place within 2 workin
 
 ###### Cookies
 
-A "cookie" is a small text file that is placed on a user's computer hard drive by a website. There are several types of cookie and the most common are often referred to as 'session' cookies. These are used to keep track of information needed by a user as they travel from page to page within a website. These cookies have a short lifetime and expire within a few minutes of the user leaving the site. 
+A "cookie" is a small text file that is placed on a user's computer hard drive by a website. There are several types of cookie and the most common are often referred to as 'session' cookies. These are used to keep track of information needed by a user as they travel from page to page within a website. These cookies have a short lifetime and expire within a few minutes of the user leaving the site. The DMA site also uses a simple cookie to �remember� your login details so that users who choose can be automatically logged in when they next visit the site. These cookies last for 30 days and are refreshed on each visit. 
 
 Other types of cookies can be used to track internet activity after the user has left a website. These are usually sponsored by organisations external to the website being visited and are generally known as 'third party' cookies. These usually have a long lifetime with several months being quite common. They are 'harvested' and 'refreshed' whenever the user visits a page where the same or a similar cookie is being used. 
 
-The DMA uses benign, short lived 'session' cookies to tell whether a website user has logged, in, where to find details that can be used to pre-fill parts of on-line forms and to personalise the user's visit to the website. They are also used to track anonymously which areas of the site are popular and which are not used, this allows us to target carefully our website resources. 
+The DMA uses benign, short lived 'session' and �remember me� cookies to tell whether a website user has logged, in, where to find details that can be used to pre-fill parts of on-line forms and to personalise the user's visit to the website. They are also used to track anonymously which areas of the site are popular and which are not used, this allows us to target carefully our website resources. 
 
 The DMA also uses cookies in its email communications to personalise the email and track whether the mail has been opened or read and whether the recipient has used any website links contained in the email communication. This allows us to monitor and improve our email communications and website. 
 
 DMA cookies do not analyse visits to other website or any searches undertaken whilst on the DMA website. 
 
-Internet browsers normally accept cookies by default; however, it is possible to set a browser to reject cookies. If this is done it is important not to exclude the benign and useful session cookies. Choose an option that rejects all third party and long lived cookies. 
+Internet browsers normally accept cookies by default; however, it is possible to set a browser to reject cookies. If this is done it is important not to exclude the benign and useful session cookies. Choose an option that rejects all third party cookies. 
 
 ###### Links to Third Party Websites
 
@@ -117,25 +111,3 @@ If you have any questions about security please contact the DMA on 020 7291 3300
 The DMA will notify all members of any changes it makes to its Privacy Policy. If the DMA decides to change its Privacy Policy, it will post such changes on this page so that you are always aware of how the DMA uses your personal data. 
 
 Users have the right to ask the DMA, in writing, for a copy of all the personal data held about them upon payment of a fee ("subject access request") and to request that the DMA correct any inaccuracies in that information. 
-
-|  | 
-
-  
-
-
-  
-
-
-For more information please contact the DMA.  
-  
-**Phone:** 020 7291 3300  
-  
-**Email:** [ dma@dma.org.uk](mailto:dma@dma.org.uk "dma@dma.org.uk")
-
-[ ](http://www.mydm.co.uk/)  
-
-
-The DMA promotes direct marketing and informs consumers of the safeguards that exist, and promotes the DMA as their protector, contact point and regulator of best practice. 
-
-  
-
