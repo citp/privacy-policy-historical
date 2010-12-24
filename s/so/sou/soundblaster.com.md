@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715230451id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224090419id_/http%3A//www.creative.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# Creative Sound Blaster Privacy Policy
+# Creative Worldwide - Sound Blaster, MP3 Players, Speakers, Web Cameras and more.
 
-Last revised 03 September, 2007
+Last revised 05 September, 2007
 
 Creative Technology Ltd and its subsidiary and affiliated companies (or "Creative", "we" "our" and "us") adheres strictly to best privacy practices to ensure that your privacy is respected and all personal information you provide to us is kept confidential. 
 
@@ -22,7 +22,7 @@ You may have the opportunity to participate in any of the following activities a
 **_How may we use the information?_**  
 Creative will not sell, rent, loan or lease your personal information to others unless we have your express permission or are required by law to do so. Creative will not use or share the personally identifiable information that you provide to us online in ways unrelated to those described herein without first letting you know and offering you a choice to opt out.
 
-If you have any problems exercising your choice to opt out, please contact us.
+If you have any problems exercising your choice to opt out, please [contact us](http://www.creative.com/privacy/contactus/).
 
 Because Creative operates globally, we may need to share your personal information with our worldwide business units. We will only share your information with other Creative entities (including subsidiaries and affiliates) and/or business partners who are acting on our behalf to provide the necessary service or information requested by you, to consolidate data storage, or to simplify the management of customer information. Such Creative entities and/or business partners are governed by our Privacy Policy with respect to the use of this data and are bound by appropriate confidentiality agreements.
 
@@ -32,7 +32,7 @@ __i) The Creative Online Store__
 To process your order, we will ask you for your personal information such as: name, e-mail address, delivery address, telephone number and credit card information.
 
 _ii) Online Registration_  
-You can register your Creative product using an online registration application or via [creative.com/register](http://www.creative.com/register/). By registering your Creative product, you will be eligible to receive product support. The level of support available is dependent on the type of Creative product purchased. For more details, visit [sg.creative.com/support](http://sg.creative.com/support/). Personal information collected from online registration will be used to improve our products and services. Creative's internal reports will not contain personal individual data. With your permission, we will send you information about new products or services from Creative.
+You can register your Creative product using an online registration application or via [creative.com/register](http://www.creative.com/register/). By registering your Creative product, you will be eligible to receive product support. The level of support available is dependent on the type of Creative product purchased. For more details, visit [creative.com/support](http://www.creative.com/support/). Personal information collected from online registration will be used to improve our products and services. Creative's internal reports will not contain personal individual data. With your permission, we will send you information about new products or services from Creative.
 
 _iii) Surveys/Polls/Contests/Promotions_  
 From time to time, our Sites may request information from you via surveys/polls/contests/promotions and other marketing activities. Participation in these activities is completely voluntary and you have a choice whether or not to disclose any information. Information requested may include contact information; such as your name and your shipping address to notify the winner(s) and demographic information; such as your age, for eligibility purposes. Survey information will be used for the purposes of monitoring or improving the use and satisfaction of our Sites.
@@ -56,14 +56,32 @@ Please note that our Privacy Policy only applies to sites controlled by Creative
 You are entitled to ask for a copy of the personal information we hold about you at any time (for which we may charge a small administration fee). We will correct any inaccuracies in your personal information at your request.
 
 **_Contacting Us_**   
-We value your opinions. If you have any questions or comments about our Privacy Policy or questions or concerns about the use of your personal information, please contact us. You can send your request to:
+We value your opinions. If you have any questions or comments about our Privacy Policy or questions or concerns about the use of your personal information, please [contact us](http://www.creative.com/privacy/contactus/). You can send your request to:
 
+ **Asia, Oceania, Middle East & Africa:**  
 Data Privacy (Legal Department)  
 Creative Technology Ltd  
 31, International Business Park  
 Creative Resource  
 Singapore 609921  
-Singapore
+Singapore 
+
+**Europe:**  
+Data Privacy (Legal Department)  
+Creative Labs (Irl) Ltd.  
+Ballycoolin Business Park  
+Blanchardstown  
+Dublin 15  
+Ireland  
+Registered in Ireland (No. 207960) 
+
+**Americas:**  
+Data Privacy (Legal Department)  
+Creative Labs, Inc.  
+1901 McCarthy Blvd.  
+Milpitas, CA 95035  
+USA  
+
 
 Return to previous page  
 
