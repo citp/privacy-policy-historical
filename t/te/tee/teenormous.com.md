@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teenormous.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003204id_/http%3A//teenormous.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenormous.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224032316id_/http%3A//teenormous.com/pages/privacy) for the most accurate reproduction.*
 
-# Teenormous - Funny t-shirts, vintage tees, custom tshirts and cool shirts from all over the internet
+# Teenormous Privacy Policy - Funny, vintage, custom, cool, cotton, women's, men's and kids tees
 
 **Effective 07/01/2008** **Privacy Notice Table Of Contents**
 
