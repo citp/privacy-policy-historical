@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629052956id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224183824id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Gamestop.com - Buy New and Used Games
+# Buy New and Used Games | GameStop
 
 Last updated: January 9, 2007
 
