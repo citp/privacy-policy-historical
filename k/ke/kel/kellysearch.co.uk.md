@@ -1,27 +1,49 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719153605id_/http%3A//www.kellysearch.co.uk/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224205202id_/http%3A//www.kellysearch.co.uk/info/privacy.html) for the most accurate reproduction.*
 
-# Find UK suppliers with the Kellysearch B2B product search engine
+# Kellysearch - Privacy Policy
 
-Reed Business Information Limited ("RBI") collects and uses information from users of its websites and subscription services in the following ways. By using this website or service you consent to this collection and use of information.
+## Kellysearch Privacy Policy
 
-We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve our website or online service.
+  
 
-Contact details provided by you (such as your name, job title, telephone and fax number and your e-mail and postal addresses) may be used occasionally to tell you about important changes to the service or website and its functionality. They may also be used by us and other businesses within RBI to provide you with information about their services and products. If you do not wish us to use this information in this way, please refer to the data protection page of our website at <http://www.reedbusiness.co.uk/dataprotection>
 
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose information obtained by the use of cookies to third parties.
+### Your privacy is important to us
 
-In addition, the third party companies who sell and provide advertisements to the site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the websites of our third party supplier [Adtech](http://www.adtech.info/en/cookie_opt-out.html).
+Kellysearch is owned and operated by Reed Business Information Limited. We also publish industrial/commercial directories including Kelly's Industrial Directory in printed, CD and online formats.
 
-E-Mails sent to companies via this RBI Website will be monitored by RBI for statistical purposes and these statistics may be passed onto to advertisers on the website.
+### Visitors to the site
 
-Details of personnel provided to us in company entries will be published in our industrial/commercial directories in printed, CD and online formats. The individuals named in these entries may also receive direct marketing material from Reed Business Information and from other companies, which may involve their data being transferred to countries outside the European Economic Area where data protection laws may be less rigorous than in the UK. For more information and choices please refer to the data protection page of our website at <http://www.reedbusiness.co.uk/dataprotection>
+In general, you can browse the Kellysearch website without disclosing any information about yourself at all. Submitting personal information on our site is optional.
 
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
+When you submit an enquiry we ask for information such as your name, email address, phone number and criteria specific to your enquiry. This information will be released to a small number of our registered suppliers so that they can contact you regarding the project in question. Your personal information is password-protected so that only Kellysearch and the suppliers selected to receive the enquiry have access to an enquirer's personal information. 
 
-Please refer to <http://www.adtech.info/en/cookie_opt-out.html>
+Calls made to companies registered with Kellysearch using the number available on the site will be recorded on a password-protected telephone tracking system. Kellysearch has access to these telephone records and will make no use of them other than for quality and training purposes.
 
-Changes to this policy will be posted here.
+You will not receive unsolicited mail from Kellysearch and/or from third parties. We may, however, mail you occasionally with information about Kellysearch or important changes to our service. 
 
-If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](https://web.archive.org/MyKellysearch/EmailLead.aspx) service
+### Supplier Entries
 
-Please send any comments about this website or privacy policy to: [kellys.mktg@reedinfo.co.uk](mailto:kellys.mktg@reedinfo.co.uk)
+To register your company on Kellysearch as a supplier you must provide a contact name, phone number, email address and postal address, as well as information about your business, brand details and testimonials. All this information is made available to the public as a listing in our categories and to Kellysearch users to whom you send a reply to an enquiry.
+
+Details of personnel provided to us in supplier entries will also be published in our industrial/commercial directories. This may involve their data being transferred to countries outside the European Economic Area. Named individuals may also receive direct marketing material from Reed Business Information Limited about our other products and services and from users of the directories. For more information and choices please refer to the data protection page of our website at <http://www.reedbusiness.co.uk/dataprotection>.
+
+### How else does Kellysearch use personal information?
+
+Kellysearch may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration and analysis. 
+
+We monitor customer traffic patterns and site usage in order to help develop the design and layout of our web system.
+
+For these purposes we may send your information to countries outside the European Economic Area.
+
+### Access to your personal information
+
+You have the right to request a copy of the personal information Kellysearch holds about you and to have any inaccuracies corrected. There will be an administrative charge of £10 for any information requests Please address any requests to [Askus@kellysearch.co.uk](mailto:Askus@kellysearch.co.uk)
+
+### Use of cookies
+
+Kellysearch collects information about your preferences in relation to this site by analysing site traffic and for suppliers to login, which includes the use of cookies. Cookies are pieces of computer code which are stored on your computer and which allow us to recognise the fact that you have visited our site previously. Most browsers can be altered to prevent your computer from accepting cookies, although this may mean that some of the features of this site will not work properly. 
+
+### Your consent
+
+By disclosing your personal information to Kellysearch, you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy Policy.   
+
