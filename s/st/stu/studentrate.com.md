@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentrate.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004114id_/http%3A//www.studentrate.com/StudentRate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentrate.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224103634id_/http%3A//studentrate.com/StudentRate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.*
 
 # StudentRate - Privacy Statement
 
