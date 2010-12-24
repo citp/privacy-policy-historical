@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancientfaces.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020038id_/http%3A//www.ancientfaces.com/site/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancientfaces.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224081510id_/http%3A//www.ancientfaces.com/site/content/privacy) for the most accurate reproduction.*
 
 # 
 
