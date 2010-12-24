@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629035553id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224065428id_/http%3A//personalmba.com/privacy) for the most accurate reproduction.*
 
-# Personalmba.com Privacy Policy - The Personal MBA
+# Personalmba.com Privacy Policy - The Personal MBA: Master the Art of Business
 
 This website is owned and operated by [Worldly Wisdom Ventures LLC](http://worldlywisdomventures.com/).
 
