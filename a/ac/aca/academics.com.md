@@ -1,44 +1,66 @@
-> *The following text is extracted and transformed from the academics.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230161222id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academics.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004702id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.*
 
-# academics.com - Your Career in Research and Higher Education - Privacy Policy
+# academics.com -
 
-The academics GmbH ("academics"), has created this privacy policy in order to demonstrate its firm commitment to privacy. The following discloses academics' information gathering and dissemination practices for the information collected through this web site. We encourage you to read this Policy before using this Site. Your use of this web site signifies that you agree with all terms of this Policy, so please do not use this Site if you disagree with any part of this Policy. 
+academics GmbH operates it's website academics.com with the utmost care, whereby the site's excellent user friendliness, up-to-date contents, reliability and high availability should offer an optimal user experience. Despite this, the web server and database server may not be 100% available. academics GmbH shall neither assume any liability for this nor for the possible failure of individual components of the online content on academics.com. academics.com grants the revocable permission to establish a hyperlink to the homepage or individual website pages of the online content providing the following conditions are fulfilled: 
 
-#### PRIVACY STATEMENT
+1\. The link must cause the linked academics.com page to be completely reloaded without the academics.de target page being set in and/or integrated into a frame (inline link, frame and/or similar). 
 
-  
+2\. academics.com must be sent a notification e-mail to info@academics.com within 24 hours of the link being created. 
 
+3\. The hyperlink to the linked pages must be designed in such a manner that either the name academics.com or the title of the page/article of the corresponding web page being linked to is used. In the latter case, the identifier academics.com must also be displayed so that viewers are aware that they are being referred to academics.com contents. 
 
-### I. academics' collection and use of information
+4\. The internet service that provides a hyperlink to academics.com shall ensure that it does not breach any legal regulations. The internet service shall, in particular, observe the existing copyrights and property rights of third parties as well as all legal provisions. If any claims are filed against academics.com on the grounds of the content and/or usage of the linking internet service, this internet service shall indemnify academics.com against all claims. 
 
-### A. Personally identifiable information
+### Copyright Notice
 
-We will collect personally identifiable information about you, such as your name and email address, when you provide it to us while on this Site such as when you create an account, sign up for newsletters, participate in a survey, contact customer service or otherwise interact with this website. Your personally identifiable information may be used by us for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, for administrative purposes such as conducting contests, tracking which parts of the Site are of interest to you, processing prizes. We may use your personally identifiable information for internal business purposes, such as optimizing Site experiences and analyzing and managing our businesses. 
+The contents, programs, software components, related databases, program and data concepts and the design of the web pages are subject to the copyright of academics GmbH. Propagation is subject to written permission. This shall also apply to records stored in electronic databases and copies made on any forms of digital media. academics GmbH reserves all rights. Reproduction or modification in whole or in part without expressed written permission is prohibited. In the event of infringement, academics GmbH shall take legal action in line with the applicable law, exhausting all legal remedies. Particular reference is made to the criminal liability in accordance with Section 106 of the German Copyright Act (UrhG).   
+All rights reserved. Reproduction or modification in whole or in part without expressed written permission is prohibited. 
 
-### B. Passive collection of non-personal information
+### Liability Notice
 
-This Site often requires the use of encrypted or non-encrypted cookies. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites, and help facilitate users' ongoing access to and use of a particular web site, for example by providing information used to deliver content specific to your interests and for other purposes, such as security and other account administrative functions, and which may track personal identifying information.   
-Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie to you can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there are simple procedures in most browsers that allow you to delete existing cookies, to automatically decline cookies, or to be given the choice of declining or accepting the transfer of particular cookies to your computer. Please refer to your browser instructions or help screen to learn more about these functions. You should note, however, that declining cookies may make it difficult or impossible for you to use portions of the Site.   
-Some uses of cookies in connection with the site may be under the control of unaffiliated entities that academics retains for the management of certain programs and fulfillment of specific visitor/customer requests. academics requires these entities to confine their use of cookies to the uses permitted by this Policy, but academics cannot be responsible for third party uses of cookies.   
-The site may use so-called "pixel tags" to compile aggregate statistics about Site usage and response rates. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened. 
+No liability shall be assumed for contents, programs and links published on this website or damages that arise from inaccurate information or faulty programs unless such damages result from the intent or gross negligence of the publisher or its employees. 
 
-academics also collects "referrers" information, IP addresses and various environmental variables. 
+### Privacy Statement
 
-  * A "referrer" is information the Web browser passes along to our web servers that references the URL from which you came.   
+academics.com wishes to protect your personal information. Personal information shall mean all information stored in conjunction with your name and person. academics.com shall exclusively use your information for evaluation purposes and to provide the services/options that you have selected. To this end, a record is also made of your website usage. Your personal information shall not be disclosed to third parties. academics.com shall take the greatest possible measures to ensure the non-disclosure of your information. 
 
-  * The "IP address" is a number used by computers on the network to identify your computer so that data can be transmitted to you.   
+The information that we collate includes: 
 
-  * "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed this site, type of Web browsers and operating system or platform used, the Internet address of the web site you left to visit this Site, the names of the pages you visit while at this site, and the Internet address of the web site you then visit.   
+(a) personal information that you voluntarily enter by registering for our newsletters, placing an order, completing a survey, participating in our discussion forums, entering a competition or using similar services. 
 
+academics.com is entitled to collate, process, save and use your personal information provided in relation to the use of its service in so far as this is necessary to enable you to use the service. If you register your personal information (name, address, date of birth, telephone number etc.) with academics.com for additional services (e.g. newsletters, competitions, market research), the information entered will be collated, saved and processed within the scope of the agreed service. 
 
+academics.com guarantees that your information will be treated as confidential. 
 
+Following your voluntary consent, academics.com shall be entitled to collate, process and save your personal information as well as to combine this with other information, archive and use it. This consent shall be provided either in writing or by clicking in acceptance of an appropriate declaration. Following your consent, academics.com shall be entitled to disclose your personal information to third parties for marketing and market research purposes and in relation to other commercial services. The declarations can be viewed online at any time. If you have authorised the use of your personal information for particular purposes that are subject to a declaration of consent, you can revoke this consent at any time. The information shall then be deleted from academics.com. If information has been disclosed to third parties with your consent, these third parties shall be immediately notified of the revocation and instructed to delete your information. You are entitled to restrict the consent you have provided for the use of your information. In such cases, the deletion shall only occur within the scope of the restriction. 
 
-This information is collected for academics internal use such as to enhance web site security, to detect broad demographic trends, to assist academics in providing content tailored to your interests, and to otherwise enhance your experience on this Site. This information may also be shared with third parties on an aggregate and non-personally identifiable basis. 
+academics.com shall be entitled to access this information to prevent technical faults and fulfil its legal and contractual duties. academics.com shall be entitled to disclose your information without your permission in the following cases: 
 
-### II. Disclosure of information to third parties
+\- When working with other companies that provide us with order processing support, e.g. to process orders or invoices, provide customer service, dispatch goods or conduct other functions necessary to provide the services. 
 
-Any personal data relating to you will be used by us or by a company we have commissioned to do our data processing. We will only share your information with a third party if this is in accordance with current data protection legislation and only then if it serves a legitimate interest that is not outweighed by your need for protection. Furthermore, we will not share your information with third parties unless you have given us express permission to do so. We appreciate the trust you have placed in us, and will take the greatest care to protect your personal data. 
+\- If we are required by law or court order to disclose your personal information we will - in so far as is permissible - immediately notify you of this disclosure. 
 
-### III. Links and third parties' privacy practices
+You are entitled to view, amend or delete the personal information you have provided at any time. If this is not technically possible at the address at which you have entered your information, your personal information can be requested and reviewed by contacting the following address: info@academics.com. Information deletion or amendment requests shall be quickly processed via this contact address. 
 
-This Site may contain links to other sites which are not operated by academics. ACADEMICS IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEB SITES, INCLUDING WEB SITES OPERATED BY AFFILIATED ENTITIES. We provide such links only as a convenience, and the inclusion of a link on the site does not imply endorsement of the linked site by academics. If you provide any personally identifiable information through any such third party web site, your transaction will occur on such third party's web site (and not on this site) and the personally identifiable information you provide will be collected by, and controlled by the privacy policy of, that third party. academics recommends that you review the privacy policy of third party web sites arrived at from links on this site. 
+(b) Tracking information collated during your use of our website: 
+
+This website uses Google Analytics, a web analysis service provided by Google Inc. ('Google'). Google Analytics uses what are known as 'cookies': text files that are stored on your computer and can be used to analyse your usage of the website. The information generated by the cookie about your usage of this website (including your IP address) is transferred to a Google server in the USA, where it is saved. Google uses this information to evaluate your usage of the website and create a website activity report for the website operator, as well as to provide further services relating to the website and internet usage. Google may also pass on this information to third parties if legally required or if it has contracted them to process the information. Under no circumstances will Google connect your IP address to other Google information. You can prevent cookies from being installed by activating the corresponding browser software settings; please note, however, that if you do this, you may not have full and comprehensive use of this website's functions. By using this website, you agree to Google processing the information collated about you in the manner and for the purposes described above. 
+
+academics.com uses social plugins ('plugins') from the social networking website facebook.com operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ('Facebook'). The plugins are marked with a Facebook logo or the addendum 'Facebook social plugin'. 
+
+If you access an academics.com website that contains this type of plugin, your browser will establish a direct connection with the Facebook servers. The plugin's content will be directly transmitted from Facebook to your browser, which will integrate it into the website. 
+
+The connection to the plugin notifies Facebook that you have accessed the corresponding page on our website. If you are logged in to Facebook, Facebook can assign your visit to your Facebook account. If you interact with the plugins, for example by clicking the 'Like' button or making a comment, the corresponding information will be transmitted directly from your browser to Facebook where it will be stored. 
+
+For details of the purpose and scope of the data collection and the further processing and usage of the information by Facebook as well as your related rights and setting options in relation to the protection of your privacy, please see Facebook's Privacy Policy. 
+
+If you do not want Facebook to collate information about you via our website, please log out of Facebook before visiting our website. 
+
+Please do not hesitate to contact us if you have any questions about our Privacy Statement. We will be happy to help: 
+
+academics GmbH   
+Speersort 1   
+20095 Hamburg   
+Telephone: 0049 (0)40-320 273-3   
+info@academics.com 
