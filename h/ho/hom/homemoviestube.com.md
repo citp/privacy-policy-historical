@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homemoviestube.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020403id_/http%3A//www.homemoviestube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemoviestube.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224081603id_/http%3A//www.homemoviestube.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy at HomeMoviesTube.com
+# Homemade Sex Tube, Free Homemade Porn, Amateur Sex
 
 This document details important information regarding the use and disclosure of User Data collected on HomeMoviesTube.com 
 
