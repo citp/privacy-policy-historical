@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427005356id_/http%3A//www.redcross.org.uk/49555) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224095308id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy | British Red Cross
+# Privacy policy | British Red Cross
 
-At British Red Cross (BRCS) we are committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to BRCS’s data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact the Legal Department at BRCS
+At British Red Cross (BRCS) we are committed to protecting your privacy. This statement is made in light of the requirements of the Data Protection Act 1998 in order to alert you to BRCS's data processing practices which will govern the processing of your data. If you have any queries about this statement, please contact the Legal Department at BRCS
 
 ## How do we collect information? 
 
@@ -24,8 +24,7 @@ We will not share your information with other like minded organisations for the 
 
 BRCS may store information about you and your activity in cookies. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.
 
-  
-If you want to stop cookies being filed on your computer in the future, please refer to your internet browser’s instructions. Please note that by deleting or disabling future cookies you may not be able to access certain parts of our site.
+If you want to stop cookies being filed on your computer in the future, please refer to your internet browser's instructions. Please note that by deleting or disabling future cookies you may not be able to access certain parts of our site.
 
 ## How do we protect personal information?
 
