@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altimetergroup.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524185348id_/http%3A//www.altimetergroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altimetergroup.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224213622id_/http%3A//www.altimetergroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Altimeter Group : A Holistic Approach To Emerging Technologies
 
