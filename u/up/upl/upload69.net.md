@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the upload69.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161916id_/http%3A//www.upload69.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upload69.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224190333id_/http%3A//www.upload69.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Upload69.NET » More Information » Privacy Policy
+# Upload69.Net » More Information » Privacy Policy
 
-When you sign up for an account with Upload69.NET, we collect personal information from you including your e-mail address, and a password. 
+When you sign up for an account with Upload69.Net, we collect personal information from you including your email address and a password. 
 
-We may also collect the URL from which you linked into our site, your IP address, and your browser type and version, all of which are collected in an anonymous manner without being linked to any of your personal information. 
+We may also collect the URL from which you linked into our site, your IP address, and your browser type and version. All of which are collected in an anonymous manner without being linked to any of your personal information. 
 
-User privacy is something we take very seriously at Upload69.NET. We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our users to any parties outside of Upload69.NET. We use account information for the purposes of creating and maintaining individual user accounts, contacting users in case of a problem with their account, sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, and to provide technical support. All of our development is done in-house, and hence no contracted parties will ever have access to individual account information. 
+User privacy is something we take very seriously at Upload69.Net. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of Upload69.Net. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
 If you have any question, please do not hesitate to [contact us](http://upload69.net/contact.php?act=contact_us). 
