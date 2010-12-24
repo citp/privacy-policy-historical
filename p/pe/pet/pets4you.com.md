@@ -1,82 +1,91 @@
-> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209002948id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets4you.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224061106id_/http%3A//www.pets4you.com/privacy.html) for the most accurate reproduction.*
 
-# Pets 4 You - Privacy Policy
+# Privacy Policy | Pets4You.com
 
-| **We want our users to always be aware of any information we collect, how we use it,  
-and under what circumstances, if any, we disclose it. **  
----  
-  
-  
-WEBSITE ADMINISTRATION  
-  
-Business name:  |  Original Services  
-Address:  |  P.O. Box 948  
-City:  |  Tucson  
-State/Province:  |  AZ  
-ZIP:  |  85702  
-Country:  |  USA   
-Website URL:  |  [http://www.pets4you.com](http://www.pets4you.com/)  
-Website e-mail: |  [webmaster@pets4you.com](mailto:webmaster@pets4you.com)  
-|   
-  
-  
-INFORMATION COLLECTION AND USE  
-  
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website.   
-**For each visitor to our website, our web server automatically recognizes information regarding the domain and other traffic analysis.**  
-**  
-The information we collect is:
+#### What information do we collect?
 
-  * used to improve the content of our Web page. 
-  * never shared with other organizations for commercial purposes.
-  * not used to collect or track sensitive personally identifiable information of internet users. 
+We collect information from you when you register on our site or fill out a form. 
 
-**  
-**Registration is not required to enter our site.**  
-**We have an order form.**  
-**We require information from the user on our order form.   A user must provide contact information (such as name and email) and possibly financial information (such as credit card number, expiration date).  If we have trouble processing an order, we use the information to contact the user.  This information is used: 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-  * for billing purposes.
-  * to fill the customer orders.
+#### What do we use your information for?
 
-**  
-When we transfer and receive certain types of sensitive information such as financial, we redirect visitors to a secure server and use a trusted third party ecommerce service to process credit card and billing information.  
-   
-  
-  
-NOTIFICATION OF CHANGES  
-  
-**If we decide to change our privacy policy, we will post those changes to:
+Any of the information we collect from you may be used in one of the following ways: 
 
-  * this privacy statement.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**  
-  
-  
-CONFLICT RESOLUTION  
-  
-**We are committed to resolving disputes within 2-3 business days.**  
-**If problems arise, users may contact us by
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-  * email [ webmaster@pets4you.com](mailto:webmaster@pets4you.com). 
-  * telephone (520) 623-4365. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**  
-  
-  
-CONTACT INFORMATION  
-  
-If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Telephone: |  (520) 623-4365  
-Email: |  [webmaster@pets4you.com](mailto:webmaster@pets4you.com)  
-Postal Address:  
-|  P.O. Box 948  
-Tucson, AZ  
-USA 85702  
-Website URL: |  [http://www.pets4you.com](http://www.pets4you.com/)  
-  
-This site is served, operated and maintained by   
-[ Pets4You.com](mailto:webmaster@pets4you.com)®  
-P.O. Box 948 - Tucson, AZ  85702  
-Phone: 520-623-4365 / Fax: 520-623-0808  
-All rights reserved. Copyright ©2006-2009
+• To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+• To administer a contest, promotion, survey or other site feature
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+#### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+#### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+#### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+#### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+#### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+#### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+#### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+#### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.pets4you.com](http://www.pets4you.com/)
+
+#### Your Consent
+
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+
+#### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+#### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+**Address:** P.O. Box 948  
+             Tucson, AZ 85702  
+             USA  
+ **Telephone:** (520) 623-4365  
+ **Website:** http://www.pets4you.com/  
+ **Email:** webmaster@pets4you.com
