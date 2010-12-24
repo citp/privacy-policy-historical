@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211144251id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224213030id_/http%3A//www.admuncher.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ad Muncher - Privacy Policy
 
@@ -35,22 +35,28 @@ We will never send regular unsolicited emails (eg: newsletters) unless specifica
 Information provided to our staff will not be sold, rented or traded to any third party under any conditions.
 
 **Privacy Policy Changes**  
-Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20100211144251id_/http%3A//www.admuncher.com/contact.shtml). 
+Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20101224213030id_/http%3A//www.admuncher.com/contact.shtml). 
 
-"Absolutely indispensable"  
-\- Donald Johnston, Canada
+"Simply the best"  
+\- Tonya Allen, United States
 
-"One of the few pieces of software that I'd gladly pay for!"  
-\- Ben Walker
+"Works flawlessly!"  
+\- Bhanche Prasad
 
-"I have tried many, but Ad-Muncher is king of them all. A really great program"  
-\- Fred Noakes of Ontario, Canada
+"Keep up the good work!"  
+\- Martin Herbert, Netherlands
 
-"I know I've got a fat belly, and no I do't want to loose it in 3 weeks. . It was worth the money just to stop seeing that advert"  
-\- David, Cyprus
+"A must for web surfing!"  
+\- FileForum.com
 
-"It has helped me so much. I have Parkinsons and I really get upset with all the popup ads. Now I can use my computer without having to stop and close those ads"  
-\- J Perry Hartley, United States
+"Wouldn't be without it!!"  
+\- Pat Gilbert, United Kingdom
+
+"Ad Muncher is the best ad blocker I've ever used"  
+\- Frank-Lutz, Germany
+
+"This is one of the best programs I have had the pleasure of using. It does exactly what it says on the tin, couldn't ask for better"  
+\- Peter Waters
 
   
 
