@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstructor.org privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606185730id_/http%3A//theconstructor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstructor.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224231020id_/http%3A//theconstructor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Constructor
 
@@ -8,7 +8,7 @@ Our site, like most other sites, uses cookies to provide you with a more persona
 
 We may use an outside ad company to display ads on our Site. These ads may contain cookies and are collected by our ad company, and we do not have access to this information.
 
-We may also log IP addresses for the purposes of systems administration or to report information in [aggregate](http://theconstructor.org/category/practical-guide/material-testing/aggregate/ "aggregate") form to our advertisers (e.g., how many visitors logged in to our Website). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink, chances are that your IP address varies each session, thus making it effectively impossible for us to use your IP address to determine who you are.
+We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Website). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider such as AOL or Earthlink, chances are that your IP address varies each session, thus making it effectively impossible for us to use your IP address to determine who you are.
 
 In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
 
