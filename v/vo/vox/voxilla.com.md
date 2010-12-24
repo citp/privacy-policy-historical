@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxilla.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615054923id_/http%3A//voxilla.com/voxilla/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxilla.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224151053id_/http%3A//voxilla.com/voxilla/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
