@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195829id_/http%3A//www.demotix.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224062614id_/http%3A//www.demotix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Demotix.com
 
@@ -72,9 +72,9 @@ We strive to maintain the reliability, accuracy, completeness and currency of Pe
 Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will (subject to the exceptions to the requirement to disclose under the DPA) disclose to you the Personal Data we hold about you, for which we may make a small charge. Requests to delete Personal Data are subject to any applicable legal and regulatory requirements or document retention obligations and any of our current contracts which are still in force. If you wish to make a subject access request, relating to Personal Data held about you by Demotix Ltd, please write to: 
 
 Demotix  
-5-7 Hillgate Stree  
-London W8 7LP  
-England
+Newcombe House  
+10th Floor, 45 Notting Hill Gate  
+London, W11 3LQ
 
 ### Inaccurate Data
 
@@ -113,6 +113,7 @@ We welcome comments about this Privacy Policy. If you have any questions about t
 Our address is: 
 
 Demotix  
-5-7 Hillgate Stree  
-London W8 7LP  
+Newcombe House  
+10th Floor, 45 Notting Hill Gate  
+London, W11 3LQ  
 England
