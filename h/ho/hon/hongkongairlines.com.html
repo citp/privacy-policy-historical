@@ -1,0 +1,2749 @@
+<!--The following is the downloaded HTML source of the hongkongairlines.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224100631id_/http%3A//hongkongairlines.com/eng/aboutUs/FAQ.aspx%3FMenuID%3D130409) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="xiaohe">
+<title>Welcome to HONG KONG AIRLINES</title>
+<link rel="stylesheet" type="text/css" href="../css/index.css">
+<script src="../js/nav.js" type="text/javascript"></script>
+
+</head>
+<body>
+
+<div id="head">
+    
+
+<script type="text/javascript" src="../js/cart.js"></script>
+
+<!--setCookie-->
+
+<script type="text/javascript">
+        
+        
+        function search()
+        {
+            //alert(document.getElementById('txtsee').value);
+            location.href='../aboutUs/search.aspx?name='+escape(document.getElementById('txtsee').value);
+        }
+        
+ function checksee()
+{
+    if(document.getElementById('txtsee').value!="search")
+    {
+        document.getElementById('txtsee').value=document.getElementById('txtsee').value;
+    }
+    else
+    {
+    document.getElementById('txtsee').value="";
+    }
+}
+</script>
+
+<script type="text/javascript">
+    function checkhref()
+    {      
+        delCookie("shopingproductid");
+        delCookie("shopingproductsum");
+        if(document.getElementById('webSite').value=="eng")
+        {
+        //location.href="eng/index.aspx";
+        }
+        else if(document.getElementById('webSite').value=="schi")
+        {
+            location.href="../../schi/index.aspx";
+        }else if(document.getElementById('webSite').value=="tchi")
+        {
+            location.href="../../tchi/index.aspx";
+        }
+    }
+    
+    function changeArea(s){
+        delCookie("shopingproductid");
+        delCookie("shopingproductsum");
+        setCookie("webArea",s,1);
+//        alert(s);
+        location.href="../../index.aspx";
+    }
+</script>
+
+<div class="hone">
+    <div class="posssearch">
+        <div class="search">
+            <input name="txt1" type="text" class="txtsearch" id="txtsee" value="search" onclick="checksee()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="btn1" type="button" value="" class="btnsearch" onclick="search()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <select name="webArea" id="webArea" style="width: 140px;" onchange="changeArea(this.value);">
+                <option value="hkg">Hong Kong</option>
+                <option value="china">China</option>
+                <option value="tai">Taiwan</option>
+                <option value="jap">Japan</option>
+                <option value="yin">Indonesia</option>
+                <option value="yue">Vietnam</option>
+                <option value="fei">Philippines</option>
+                <option value="elu">Russia</option>
+                <option value="oth">Other Country</option>
+            </select>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="webSite" id="webSite" style="width: 110px;" onchange="checkhref();">
+            <option value="tchi">繁体中文</option><option value="eng">ENGLISH</option></select>
+             
+<div class="newslogin"><img src="../images/n_logo.jpg"> <a href="http://ffp.hnair.com/FFPCluben/" target="_blank"><img src="../images/n_login.jpg"></a> <a href="../FFP/application.aspx"><img src="../images/n_reg.jpg"></a></div>
+            </div>
+    </div>
+    
+    <div class="logo">
+        <a href="../index.aspx">
+            <img src="../images/nlogo.gif" title="Hong Kong AIRLINES"></a><a href="../index.aspx"><img src="../images/nlogoexp.gif" title="Hong Kong Express"></a></div>
+</div>
+<script type="text/javascript">
+
+    //默认香港区
+    if(getCookie("webArea") == null)
+    {
+//        alert("cookie NULL");
+        setCookie("webArea","hkg",1);
+        
+    }else{
+        //否则根据Cookie设置
+        var area=getCookie("webArea");
+//        alert("一加载判断cookie不为空 为"+area);
+        document.getElementById("webArea").value=area;
+        
+        if(area=="china"){
+            var oSel=document.getElementById("webSite");
+            var oOption = document.createElement("option"); 
+            oOption.value = "schi";
+            oOption.text = "简体中文";
+            oSel.options.add(oOption);
+            var oOption = document.createElement("option"); 
+            oOption.value = "eng";
+            oOption.text = "ENGLISH";
+            oSel.options.add(oOption);
+            
+            oSel.value="eng";
+        }
+        else if(area=="hkg" || area=="tai"){
+            var oSel=document.getElementById("webSite");
+            var oOption = document.createElement("option"); 
+            oOption.value = "tchi";
+            oOption.text = "繁体中文";
+            oSel.options.add(oOption);
+            var oOption = document.createElement("option"); 
+            oOption.value = "eng";
+            oOption.text = "ENGLISH";
+            oSel.options.add(oOption);
+            
+            oSel.value="eng";
+        }
+        else{
+            var oSel=document.getElementById("webSite");
+            var oOption = document.createElement("option"); 
+            oOption.value = "eng";
+            oOption.text = "ENGLISH";
+            oSel.options.add(oOption);
+        }
+    }
+    
+    //默认简体版
+    if(getCookie("webSite")==null){
+        setCookie("webSite","eng",1);
+    }
+</script>
+
+
+</div>
+
+<div id="wrap">
+
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/cart.js"></script>
+ 
+<script type="text/javascript"> 
+ 
+function register1()
+{
+     if($("#txtname1").val() != "")
+    {
+       if($("#txtpwd1").val()!="")
+        {
+             $.ajax({
+                    type: "POST",
+                    url: "../FFP/login.aspx?name="+$("#txtname1").val()+"&pwd="+$("#txtpwd1").val(),
+                    data: "",
+                    success: function(msg){	
+                        if(msg=="1"){
+                            //alert('祅?Θ');
+                           setCookie("username",$("#txtname1").val(),1);
+                           setCookie("password",$("#txtpwd1").val(),1);
+                           location.href='../FFP/userinfo.aspx';
+                           //location.href=document.url;
+                             return;                                
+                        }
+                        else
+                        {
+                            alert('Your user name and password is incorrect!');
+                        }
+                    }
+    			
+             });
+         }
+         else
+         {
+         //alert(this.replace(/[^\x00-\xff]/g,$("#txtUserNO").val()).length);
+            alert('Login password can not be empty, enter');
+            $("#txtpwd1").focus();
+         }
+         
+    }
+    else
+    {
+        alert('Login user name can not be empty!');
+        $("#txtname1").focus();
+    }
+   
+}
+</script>
+
+<div class="navs">
+    <div class="navone" style="display:none;">
+        <div class="l">
+            <ul>
+                <li><a href="../index.aspx">
+                    <img src="../images/home.jpg"></a></li>
+                <li><a href="../aboutUs/profile.aspx">
+                    <img src="../images/aboutus.jpg"></a></li>
+            </ul>
+        </div>
+        <div class="r">
+            <div class="login">            
+                <table width="100%" border="0" cellspacing="0" class="logintable" id="showlogin" style=" margin-left:202px;">
+                    <tbody><tr>
+                        <td width="10%" style="display:none;">
+                            User name</td>
+                        <td width="27%" style="display:none;">
+                            <input name="txtname1" id="txtname1" type="text" class="txtlogin" title="Please use your E-mail login"></td>
+                        <td width="10%" style="display:none;">
+                            Password</td>
+                        <td width="26%" style="display:none;">
+                            <input name="txtpwd1" id="txtpwd1" type="password" class="txtlogin"></td>
+                        <td width="30%"></td>
+                                    <td width="27%"></td>
+                                <td width="8%">
+                                <a href="http://ffp.hnair.com/FFPClub/" target="_blank"><img src="../images/btn_login.jpg"></a></td>
+                        <td width="14%">
+                            <input type="button" name="btnreg" value="" class="btnreg" onclick="javascript:location.href='../FFP/application.aspx'"></td>
+                    </tr>
+                </tbody></table>                
+                <table width="100%" border="0" cellspacing="0" class="logintable" id="showmsg">
+                    <tbody><tr>
+                        <td width="20%" style="letter-spacing:3px">
+                            Welcome to HONG KONG AIRLINES,&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="exit();">Quit</a></td>                        
+                    </tr>
+                </tbody></table>
+                
+            </div>
+        </div>
+    </div>
+    <div class="cls">
+    </div>
+    <div class="navtwo">
+        <ul class="navlist">
+            
+            <li id="nav2" onmouseover="navTab('nav',2,4)" onmouseout="navTabout('nav',2,4)" style="width: 110px;">
+                <a href="#">Plan &amp; Book</a>
+                <div class="play" id="con_nav_2">
+                    <div class="navlistbox" style="width: 106px; padding-left: 2px; padding-right: 2px;">
+                        <a href="../Plan/onlineBooking.aspx">Flight Booking</a> <a href="http://www.agoda.com/promotion/hongkong_airline.html" target="_blank">Hotel Booking</a> <a href="http://www.hkairlinesholidays.com" target="_blank">Package</a> <a href="../Plan/check-in.aspx" target="_blank">Online Check-in</a><a href="../Plan/insurance.aspx">Travel Smart</a>
+                    </div>
+                </div>
+            </li>
+            <li id="nav3" onmouseover="navTab('nav',3,4)" onmouseout="navTabout('nav',3,4)" style="width: 156px;">
+                <a href="#">Destinations &amp; Offers</a>
+                <div class="play" id="con_nav_3">
+                    <div class="navlistbox" style="width: 152px; padding-left: 2px; padding-right: 2px;">
+                        <a href="../Plan/schedules.aspx">Flight Schedule</a> <a href="../Plan/flightStatus.aspx">Flight Status</a> <a href="../Offers/destinations.aspx">Destination Guide</a> <a href="../Offers/topOffers.aspx">Top Offers</a>
+                    </div>
+                </div>
+            </li>
+            <li id="nav1" onmouseover="navTab('nav',1,4)" onmouseout="navTabout('nav',1,4)" style="width: 136px;">
+                <a href="#">Our Service</a>
+                <div class="play" id="con_nav_1">
+                    <div class="navlistbox" style="width: 132px; padding-left: 2px; padding-right: 2px;">
+                    <a href="../services/hkAirport.aspx">Hong Kong Airport</a> <a href="../services/airports.aspx">Airports Worldwide</a> <a href="../services/baggage.aspx">Manage the Baggage</a> <a href="../services/specialNeeds.aspx?MenuID=130304">Special Needs</a> <a href="../services/classes.aspx?MenuID=130601">Travel Classes</a> <a href="../services/meals.aspx">Meals</a> <a href="../services/entertainment.aspx">Entertainment</a> <a href="../skyshop/index.aspx">Shopping</a> <a href="../services/crew.aspx">Our Crew</a> <a href="../aboutUs/profile.aspx?MenuID=13040102">Our Fleet</a> 
+                        
+                    </div>
+                </div>
+            </li>
+            <li id="nav4" onmouseover="navTab('nav',4,4)" onmouseout="navTabout('nav',4,4)" style="width: 140px;">
+                <a href="#">Frequent Flyers</a>
+                <div class="play" id="con_nav_4">
+                    <div class="navlistbox" style="width: 176px; padding-left: 2px; padding-right: 2px;">
+                        <a href="../FFP/index.aspx">Frequent Flyers Program</a>
+                    </div>
+                </div>
+            </li>
+            <li style="width: 94px;"><a href="../skyshop/index.aspx">Skyshop</a></li>
+            <li style="width: 61px;"><a href="http://www.hxagents.com/">B2B</a></li>
+            <li style="width: 160px;"><a href="http://www.hxagents.com/">Corporate
+                Booking</a></li>
+            <li style="width: 68px;"><a href="../Cargo/index.aspx">Cargo</a></li>
+        </ul>
+    </div>
+</div>
+<div class="cls"></div>
+
+
+ 
+
+
+
+  <div class="cls"></div>
+
+
+<!--main star-->
+<div class="mian">
+<!--mleft star-->
+<div class="mleft">
+<div class="leftone">
+<div class="navbox">
+    
+<div class="conbox">
+<ul>
+<li id="tb_1" class="hovertab" onmouseover="x:HoverLim(1);"><img src="../images/mmbox1.jpg" id="navImg_1" height="66"> </li>
+<li id="tb_2" class="hovertab" onmouseover="x:HoverLim(2);"><img src="../images/mbox2.jpg" id="navImg_2" height="67"> </li>
+<li id="tb_3" class="hovertab" onmouseover="x:HoverLim(3);"><img src="../images/mbox3.jpg" id="navImg_3" height="67"> </li>
+<li id="tb_4" class="hovertab" onmouseover="x:HoverLim(4);"><img src="../images/mbox4.jpg" id="navImg_4" height="67"></li>
+<li id="tb_5" class="hovertab" onmouseover="x:HoverLim(5);"><img src="../images/mbox5.jpg" id="navImg_5" height="67"></li>
+</ul>
+</div>
+<div class="box1">
+    
+<!--bookhotel-->
+
+<script src="../js/common.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="../js/cities_ch.js"></script>
+
+<script type="text/javascript" src="../js/search.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="../js/calendar_JS/CalendarPopup.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="../js/calendar_JS/common.js"></script>
+
+<script type="text/javascript">
+function show()
+{
+    document.getElementById('show1').style.display="none";
+    document.getElementById('show2').style.display="";
+}
+function showflight()
+{
+    document.getElementById('show1').style.display="";
+    document.getElementById('show2').style.display="none";
+}
+</script>
+<!--bookfare calendar-->
+
+<!--Haihang-->
+<script type="text/javascript">
+        function fltBookingFormValidates(f){
+
+	if(document.getElementById("FROMHai").value == "-"){
+		alert("Please Select an origin!");
+		document.getElementById("FROMHai").focus();
+		return false;
+	}else if(document.getElementById("TOHai").value=="-"){
+		alert("Please select a destination!");
+		document.getElementById("TOHai").focus();
+		return false;
+	}else if(document.getElementById("FROMHai").value == document.getElementById("TOHai").value){
+		alert("Origin and Destination cannot be the same");
+		document.getElementById("TOHai").focus();
+		return false;
+	}else if(countryOfRoute[document.getElementById("FROMHai").value] == countryOfRoute[document.getElementById("TOHai").value]){
+		alert("We do not have any online fares for the city pair you have selected!");
+		document.getElementById("TOHai").focus();
+		return false;	
+	}
+
+    if(!checkDate(f.DepMMYYHai.value.substring(3,7), f.DepMMYYHai.value.substring(0,2), f.DepDDHai.value)){
+      var myDateStr = f.DepMMYYHai.value.substring(3,7)+'年'+f.DepMMYYHai.value.substring(0,2)+'月'+f.DepDDHai.value + '日';
+      alert('Invalid date format, please input again !' );
+      f.DepDDHai.focus();
+      return false;
+   }
+   
+   
+    var myDate = new Date();
+    var depDate = new Date(f.DepMMYYHai.value.substring(3,7), f.DepMMYYHai.value.substring(0,2)-1, f.DepDDHai.value);
+	var retDate = new Date(f.RetMMYYHai.value.substring(3,7), f.RetMMYYHai.value.substring(0,2)-1, f.RetDDHai.value);
+
+
+  var earlyDepDate = new Date("2010","11","27");
+	//Validate - departure & return date should larger then today
+  if(depDate < earlyDepDate){
+		alert("The requested departure date is too soon. Valid dates are 24 hours from now !\n Departure Date should not be earlier than2010年12月25日");
+		return false;
+	}
+	
+	if(!checkDate(f.RetMMYYHai.value.substring(3,7), f.RetMMYYHai.value.substring(0,2), f.RetDDHai.value)){
+      var myDateStr = f.RetMMYYHai.value.substring(3,7)+'年'+f.RetMMYYHai.value.substring(0,2)+'月'+f.RetDDHai.value + '日';
+      alert('Invalid date format, please input again !' );
+      f.RetDDHai.focus();
+      return false;
+   }
+
+	//Only compare the dep & return date if trip type is Round Trip
+	if(getCheckedValue(f.TRIP_TYPEHai)!="O"){
+
+    //Validate - departure & returndate should larger then today
+    if(retDate < earlyDepDate){
+			alert("The requested departure date is too soon. Valid dates are 24 hours from now !\n Return Date should not be earlier than2010年12月25日");
+			return false;
+		}
+	
+		//validate departure and return date
+		if((retDate-depDate)/(24*60*60*1000) <0){
+			alert("Departure Date should not be later than Return Date!");
+			return false;
+		}
+
+	}
+
+	if((parseInt(f.ADTHai.value) + parseInt(f.CHDHai.value))>9){
+		alert("Limit to 9 tickets per passenger!");
+		return false;
+	}
+	
+	
+	document.getElementById("Form_Haihang").submit();
+}
+</script>
+
+
+
+<script type="text/javascript" language="JavaScript">
+    
+    function getDateStrings(my_obj,d_obj) {
+	        var my = my_obj.options[my_obj.selectedIndex].value;
+	        var m = my.substring(0,my.indexOf("-"));
+	        var y = my.substring(my.indexOf("-")+1,my.length);
+
+	        //var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        return str= y+'-'+m+'-'+d;
+        }
+    
+    
+        function setMultipleValuesDropDownLists(y,m,d,ddlDD,ddlMMYY) {
+            
+	        for (var i=0; i<ddlDD.options.length; ++i) {
+		        if (ddlDD.options[i].value==d) {
+			        ddlDD.selectedIndex=i;
+              break;
+		        }
+	        }
+
+	        //Add by SW
+	        var td = new Date("2010","11","27");//当天加一天减一个月
+	        //alert("earlyDepdate :"+td);
+	        thisYear = td.getFullYear();
+	        //thisMonth = td.getMonth();
+	        thisMonth = td.getMonth()+1;
+	        //alert("thisMonth:"+thisMonth);
+
+	        var monthIndex = 0;
+        	
+	        if(y>thisYear){
+		        //alert("Yr:"+(y-thisYear));
+		        monthIndex = m+(12-thisMonth);
+	        }else{
+		        monthIndex = m - thisMonth;
+	        }
+	        //alert("monthIndex:"+monthIndex);
+	        ddlMMYY.selectedIndex=monthIndex;
+        } //end function setMultipleValuesDropDownList
+
+        var calDepartFBs = new CalendarPopup();
+        calDepartFBs.setMonthNames('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+        calDepartFBs.setDayHeaders('S','M','T','W','T','F','S');
+        calDepartFBs.setTodayText('');
+        calDepartFBs.addDisabledDates(null,"2010-12-24");//当天
+        calDepartFBs.addDisabledDates("2011-07-24",null);//当天加7个月
+        calDepartFBs.setReturnFunction("setDepartFBs");
+
+        function setDepartFBs(y,m,d) {//alert("");
+          setMultipleValuesDropDownLists(y,m,d,document.Form_Haihang.DepDDHai,document.Form_Haihang.DepMMYYHai);
+        }//end function setDepartFB
+
+        var calReturnFBs = new CalendarPopup();
+        calReturnFBs.setMonthNames('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+        calReturnFBs.setDayHeaders('S','M','T','W','T','F','S');
+        calReturnFBs.setTodayText('');
+        calReturnFBs.addDisabledDates(null,"2010-12-24");//当天
+        calReturnFBs.addDisabledDates("2011-07-24",null);//当天加7个月
+        calReturnFBs.setReturnFunction("setReturnFBs");
+
+        function setReturnFBs(y,m,d) {
+          setMultipleValuesDropDownList(y,m,d,document.Form_Haihang.RetDDHai,document.Form_Haihang.RetMMYYHai);
+        }//end function setReturnFB
+
+        /*
+        function getDateString(y_obj,m_obj,d_obj) {
+	        var y = y_obj.options[y_obj.selectedIndex].value;
+	        var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        return str= y+'-'+m+'-'+d;
+        }*/
+
+        //Amend by SW
+        function getDateStrings(my_obj,d_obj) {
+	        var my = my_obj.options[my_obj.selectedIndex].value;
+	        var m = my.substring(0,my.indexOf("-"));
+	        var y = my.substring(my.indexOf("-")+1,my.length);
+
+	        //var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        //alert(y+'-'+m+'-'+d);
+	        return str= y+'-'+m+'-'+d;
+        }
+</script>
+<!--endHaihang-->
+
+
+
+<script type="text/javascript" language="JavaScript">
+    
+    function getDateString(my_obj,d_obj) {
+	        var my = my_obj.options[my_obj.selectedIndex].value;
+	        var m = my.substring(0,my.indexOf("-"));
+	        var y = my.substring(my.indexOf("-")+1,my.length);
+
+	        //var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        return str= y+'-'+m+'-'+d;
+        }
+    
+    
+        function setMultipleValuesDropDownList(y,m,d,ddlDD,ddlMMYY) { //alert("aa");          
+	        for (var i=0; i<ddlDD.options.length; ++i) {
+		        if (ddlDD.options[i].value==d) {
+			        ddlDD.selectedIndex=i;
+              break;
+		        }
+	        }
+
+	        //Add by SW
+	        var td = new Date("2010","11","25");//当天加一天减一个月
+	        //alert("earlyDepdate :"+td);
+	        thisYear = td.getFullYear();
+	        //thisMonth = td.getMonth();
+	        thisMonth = td.getMonth()+1;
+	        //alert("thisMonth:"+thisMonth);
+
+	        var monthIndex = 0;
+        	
+	        if(y>thisYear){
+		        //alert("Yr:"+(y-thisYear));
+		        monthIndex = m+(12-thisMonth);
+	        }else{
+		        monthIndex = m - thisMonth;
+	        }
+	        //alert("monthIndex:"+monthIndex);
+	        ddlMMYY.selectedIndex=monthIndex;
+        } //end function setMultipleValuesDropDownList
+
+        var calDepartFB = new CalendarPopup();
+        calDepartFB.setMonthNames('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+        calDepartFB.setDayHeaders('S','M','T','W','T','F','S');
+        calDepartFB.setTodayText('');
+        calDepartFB.addDisabledDates(null,"2010-12-24");//当天
+        calDepartFB.addDisabledDates("2011-07-24",null);//当天加7个月
+        calDepartFB.setReturnFunction("setDepartFB");
+
+        function setDepartFB(y,m,d) {
+          setMultipleValuesDropDownList(y,m,d,document.Form_fltBooking.DepDD,document.Form_fltBooking.DepMMYY);
+        }//end function setDepartFB
+
+        var calReturnFB = new CalendarPopup();
+        calReturnFB.setMonthNames('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+        calReturnFB.setDayHeaders('S','M','T','W','T','F','S');
+        calReturnFB.setTodayText('');
+        calReturnFB.addDisabledDates(null,"2010-12-24");//当天
+        calReturnFB.addDisabledDates("2011-07-24",null);//当天加7个月
+        calReturnFB.setReturnFunction("setReturnFB");
+
+        function setReturnFB(y,m,d) {
+          setMultipleValuesDropDownList(y,m,d,document.Form_fltBooking.RetDD,document.Form_fltBooking.RetMMYY);
+        }//end function setReturnFB
+
+        /*
+        function getDateString(y_obj,m_obj,d_obj) {
+	        var y = y_obj.options[y_obj.selectedIndex].value;
+	        var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        return str= y+'-'+m+'-'+d;
+        }*/
+
+        //Amend by SW
+        function getDateString(my_obj,d_obj) {
+	        var my = my_obj.options[my_obj.selectedIndex].value;
+	        var m = my.substring(0,my.indexOf("-"));
+	        var y = my.substring(my.indexOf("-")+1,my.length);
+
+	        //var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        return str= y+'-'+m+'-'+d;
+        }
+</script>
+
+<!--fltSchedule calendar-->
+
+<script type="text/javascript" language="JavaScript">
+        var calFS15 = new CalendarPopup();
+        calFS15.setMonthNames('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+        calFS15.setDayHeaders('S','M','T','W','T','F','S');
+        calFS15.setTodayText('Today');
+        calFS15.addDisabledDates(null,"2010-12-23");//当天减一天
+        calFS15.addDisabledDates("2011-10-23",null);//当天减一天加10个月
+        calFS15.setReturnFunction("setMultipleValuesFS4");
+
+        function setMultipleValuesFS4(y,m,d) {
+	        //document.Form_fltSchedule.DepYY.value=y;
+	        //document.Form_fltSchedule.DepMM.selectedIndex=m;
+	        for (var i=0; i<document.Form_fltSchedule.FltSchDepDD.options.length; i++) {
+		        if (document.Form_fltSchedule.FltSchDepDD.options[i].value==d) {
+			        document.Form_fltSchedule.FltSchDepDD.selectedIndex=i;
+			    }
+	        }
+        	
+	        //Add by SW
+	        var td = new Date();
+	        thisYear = td.getFullYear();
+	        thisMonth = td.getMonth()+1;
+	        var monthIndex = 0;
+        	
+        	
+	        if(y>thisYear){
+		        //alert("Yr:"+(y-thisYear));
+		        monthIndex = m+(12-thisMonth);
+	        }else{
+		        monthIndex = m - thisMonth;
+	        }
+        	
+		        document.Form_fltSchedule.FltSchDepMMYY.selectedIndex=monthIndex;
+		        //document.Form_fltSchedule.FltSchDepDD.selectedIndex=d;
+        	
+        }//end function setMultipleValuesFS4
+
+        var calFS16 = new CalendarPopup();
+        calFS16.setMonthNames('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+        calFS16.setDayHeaders('S','M','T','W','T','F','S');
+        calFS16.setTodayText('Today');
+        calFS16.addDisabledDates(null,"2010-12-23");//当天减一天
+        calFS16.addDisabledDates("2011-10-23",null);//当天减一天加10个月
+        calFS16.setReturnFunction("setMultipleValuesFS5");
+
+        function setMultipleValuesFS5(y,m,d) {
+	        //document.Form_fltSchedule.RetYY.value=y;
+	        //document.Form_fltSchedule.RetMM.selectedIndex=m;
+	
+            for (var i=0; i<document.Form_fltSchedule.FltSchRetDD.options.length; i++) {
+	            if (document.Form_fltSchedule.FltSchRetDD.options[i].value==d) {
+		            document.Form_fltSchedule.FltSchRetDD.selectedIndex=i;
+		        }
+	        }
+    	
+	        //Add by SW
+	        var td = new Date();
+	        thisYear = td.getFullYear();
+	        thisMonth = td.getMonth()+1;
+	        var monthIndex = 0;
+        	
+        	
+	        if(y>thisYear){
+		        //alert("Yr:"+(y-thisYear));
+		        monthIndex = m+(12-thisMonth);
+	        }else{
+		        monthIndex = m - thisMonth;
+	        }
+    	
+		    document.Form_fltSchedule.FltSchRetMMYY.selectedIndex=monthIndex;
+
+        }
+        
+        //Amend by SW
+        function getFSDateString(my_obj,d_obj) {
+	        var my = my_obj.options[my_obj.selectedIndex].value;
+	        var y = my.substring(0,my.indexOf("-"));
+	        var m = my.substring(my.indexOf("-")+1,my.length);
+
+	        //var m = m_obj.options[m_obj.selectedIndex].value;
+	        var d = d_obj.options[d_obj.selectedIndex].value;
+	        if (y=="" || m=="") { return null; }
+	        if (d=="") { d=1; }
+	        return str= y+'-'+m+'-'+d;
+        }
+</script>
+
+<!--bookfare-->
+
+<script type="text/javascript">
+    function fltBookingFormValidate(f){
+
+	    if(document.getElementById("FROM").value == "-"){
+		    alert("Please Select an origin!");
+		    document.getElementById("FROM").focus();
+		    return false;
+	    }else if(document.getElementById("TO").value=="-"){
+		    alert("Please select a destination!");
+		    document.getElementById("TO").focus();
+		    return false;
+	    }else if(document.getElementById("FROM").value == document.getElementById("TO").value){
+		    alert("Origin and Destination cannot be the same!");
+		    document.getElementById("TO").focus();
+		    return false;
+	    }else if(countryOfRoute[document.getElementById("FROM").value] == countryOfRoute[document.getElementById("TO").value]){
+		    alert("We do not have any online fares for the city pair you have selected!");
+		    document.getElementById("TO").focus();
+		    return false;	
+	    }
+
+    
+        if(!checkDate(f.DepMMYY.value.substring(3,7), f.DepMMYY.value.substring(0,2), f.DepDD.value)){
+          var myDateStr = f.DepMMYY.value.substring(3,7)+'年'+f.DepMMYY.value.substring(0,2)+'月'+f.DepDD.value + '日';
+          alert('Invalid date format, please input again !' );
+          f.DepDD.focus();
+          return false;
+       }
+    
+        
+        var myDate = new Date();
+
+	    var depDate = new Date(f.DepMMYY.value.substring(3,7), f.DepMMYY.value.substring(0,2)-1, f.DepDD.value);
+	    var retDate = new Date(f.RetMMYY.value.substring(3,7), f.RetMMYY.value.substring(0,2)-1, f.RetDD.value);
+//	    alert("depDate: "+depDate);
+//	    alert("retDate: "+retDate);
+
+        var earlyDepDate = new Date("2010","11","25");
+	    //Validate - departure & return date should larger then today
+        if(depDate < earlyDepDate){
+		    alert("The requested departure date is too soon. Valid dates are 24 hours from now !\n Departure Date should not be earlier than2010年12月25日");
+		    return false;
+	    }
+	
+
+
+	//Only compare the dep & return date if trip type is Round Trip
+	if(getCheckedValue(f.TRIP_TYPE)!="O"){
+
+        if(!checkDate(f.RetMMYY.value.substring(3,7), f.RetMMYY.value.substring(0,2), f.RetDD.value)){
+          alert('Invalid date format, please input again !' );
+          f.RetDD.focus();
+          return false;
+       }
+
+        //Validate - departure & returndate should larger then today
+         if(retDate < earlyDepDate){
+			alert("The requested departure date is too soon. Valid dates are 24 hours from now !\n Return Date should not be earlier than2010年12月25日");
+			return false;
+		 }
+	
+		//validate departure and return date
+		if((retDate-depDate)/(24*60*60*1000) <0){
+			alert("Departure Date should not be later than Return Date!");
+			return false;
+		}
+
+	}
+	
+
+	//validate no. of passenger not exceed 4 per booking
+	if((parseInt(f.ADT.value) + parseInt(f.CHD.value))>4){
+		alert("Limit to 4 tickets per passenger!");
+		return false;
+	}
+	
+	return true;
+}
+</script>
+
+<script type="text/javascript">
+        var countryOfRoute = new Array();
+	    countryOfRoute['PEK'] = "China"; 
+	    countryOfRoute['CSX'] = "China"; 
+	    countryOfRoute['CTU'] = "China"; 
+	    countryOfRoute['DPS'] = "Indonesia"; 
+	    countryOfRoute['KWL'] = "China"; 
+	    countryOfRoute['KWE'] = "China"; 
+	    countryOfRoute['HAK'] = "China"; 
+	    countryOfRoute['HGH'] = "China"; 
+	    countryOfRoute['HAN'] = "Vietnam"; 
+	    countryOfRoute['HRB'] = "China"; 
+	    countryOfRoute['HKG'] = "HKSAR"; 
+	    countryOfRoute['KMG'] = "China"; 
+	    countryOfRoute['MNL'] = "Philippines"; 
+	    countryOfRoute['SVO'] = "Russian"; 
+	    countryOfRoute['OKA'] = "Japan"; 
+	    countryOfRoute['SYX'] = "China"; 
+	    countryOfRoute['CTS'] = "Japan"; 
+	    countryOfRoute['PVG'] = "China"; 
+</script>
+
+<script type="text/javascript">
+        function getCheckedValue(radioObj) {
+	        if(!radioObj)
+		        return "";
+	        var radioLength = radioObj.length;
+	        if(radioLength == undefined)
+		        if(radioObj.checked)
+			        return radioObj.value;
+		        else
+			        return "";
+	        for(var i = 0; i < radioLength; i++) {
+		        if(radioObj[i].checked) {
+			        return radioObj[i].value;
+		        }
+	        }
+	        return "";
+        }
+        
+        function disable_retDate(){
+	        document.getElementById("RetDD").disabled = true;
+	        document.getElementById("RetMMYY").disabled = true;	
+        }
+
+        function enable_retDate(){
+	        document.getElementById("RetDD").disabled = false;
+	        document.getElementById("RetMMYY").disabled = false;	
+        }
+        
+        
+    
+</script>
+
+<!--FltStatus-->
+
+<script type="text/javascript">
+
+        function getCheckedValue(radioObj) {
+	        if(!radioObj)
+		        return "";
+	        var radioLength = radioObj.length;
+	        if(radioLength == undefined)
+		        if(radioObj.checked)
+			        return radioObj.value;
+		        else
+			        return "";
+	        for(var i = 0; i < radioLength; i++) {
+		        if(radioObj[i].checked) {
+			        return radioObj[i].value;
+		        }
+	        }
+	        return "";
+        }
+
+        function validateFormSearchFltStatus(f)
+        {
+	        if(getCheckedValue(f.elements['RadioGroup'])=="rbFlightRoute") {
+		        //*** Check O&D ****//
+		        if(f.strFrom.value == "-") {
+			        alert("Please select origin!");
+			        f.strFrom.focus();
+			        return false;
+		        } else if(f.strTo.value == "-") {
+			        alert("Please select destination!");
+			        f.strTo.focus();
+			        return false;
+		        } else if(f.strFrom.value == f.strTo.value) {
+			        alert("Origin & Destination cannot be the same!");
+			        f.strFrom.focus();
+			        return false;
+		        }
+	        } else {
+		        //*** Check Flt No. ****//
+		        var objFltNo = f.strFlightNo;
+		        var sFltNo = (objFltNo.value).toString();
+		        if(objFltNo.value == null || sFltNo.length<3){
+				        alert("Please input the valid flight no.!");
+				        objFltNo.focus();
+				        return false;
+		        } else if(sFltNo.length<4) {
+			        //add leading 0 to flight No
+			        document.Form_fltStatus.strFlightNo.value = "0"+objFltNo.value;
+
+		        } else {
+			       document.Form_fltStatus.strFlightNo.value = objFltNo.value;
+		        }
+          }
+          return true;
+
+        }
+</script>
+
+<!--fltSchedule-->
+
+<script type="text/javascript">
+        
+        function disable_FltSchRetDate(){
+	        document.getElementById("FltSchRetDD").disabled = true;
+	        document.getElementById("FltSchRetMMYY").disabled = true;	
+        }
+
+        function enable_FltSchRetDate(){
+	        document.getElementById("FltSchRetDD").disabled = false;
+	        document.getElementById("FltSchRetMMYY").disabled = false;	
+        }
+
+        function getCheckedValue(radioObj) {
+	        if(!radioObj)
+		        return "";
+	        var radioLength = radioObj.length;
+	        if(radioLength == undefined)
+		        if(radioObj.checked)
+			        return radioObj.value;
+		        else
+			        return "";
+	        for(var i = 0; i < radioLength; i++) {
+		        if(radioObj[i].checked) {
+			        return radioObj[i].value;
+		        }
+	        }
+	        return "";
+        }
+
+        function getDropListValue(listObj){
+        	
+           var w = listObj.selectedIndex;
+           return listObj.options[w].value;
+           //alert(selected_Val);
+        }
+
+
+        function fltScheduleFormValidate(f){
+
+	        if(document.getElementById("fsFROM").value == "-"){
+		        alert("Please Select an origin!");
+		        document.getElementById("fsFROM").focus();
+		        return false;
+	        }else if(document.getElementById("fsTO").value=="-"){
+		        alert("Please select a destination!");
+		        document.getElementById("fsTO").focus();
+		        return false;
+	        }else if(document.getElementById("fsFROM").value == document.getElementById("fsTO").value){
+		        alert("Origin and Destination cannot be the same!");
+		        document.getElementById("fsTO").focus();
+		        return false;
+	        }
+        	
+        	if(!checkDate(f.FltSchDepMMYY.value.substring(0,4), f.FltSchDepMMYY.value.substring(5,7), f.FltSchDepDD.value)){
+              var myDateStr = f.FltSchDepMMYY.value.substring(0,4)+'年'+f.FltSchDepMMYY.value.substring(5,7)+'月'+f.FltSchDepDD.value + '日';
+              alert('Invalid date format, please input again !' );
+              f.FltSchDepDD.focus();
+              return false;
+           }
+        	
+            var schToday = new Date("2010","11","24");
+//            alert(schToday);
+	        var FltSchDepDate = new Date(f.FltSchDepMMYY.value.substring(0,4), f.FltSchDepMMYY.value.substring(5,7)-1, f.FltSchDepDD.value);
+	        var FltSchRetDate = new Date(f.FltSchRetMMYY.value.substring(0,4), f.FltSchRetMMYY.value.substring(5,7)-1, f.FltSchRetDD.value);
+	        
+//	        alert("FltSchDepDate: "+FltSchDepDate);
+//	        alert("FltSchRetDate: "+FltSchRetDate);
+        		
+	        
+	        if(FltSchDepDate < schToday){
+	            
+		        alert("Departure Date should not  earlier than today");
+		        return false;
+	        }
+	        
+
+	        //Only compare the dep & return date if trip type is Round Trip
+	        if(getCheckedValue(f.fsTRIP_TYPE)=="R"){
+	        
+	            if(!checkDate(f.FltSchRetMMYY.value.substring(0,4), f.FltSchRetMMYY.value.substring(5,7), f.FltSchRetDD.value)){
+                  alert('Invalid date format, please input again !' );
+                  f.FltSchRetDD.focus();
+                  return false;
+               }
+               
+		        if(FltSchRetDate < schToday){
+			        alert("Reture  Date should not  earlier than today");
+			        return false;
+		        }
+        	
+		        if((FltSchRetDate -FltSchDepDate)/(24*60*60*1000) <0){
+			        alert("Departure  Date should not  later than Reture  Date");
+			        return false;
+		        }
+	        }
+        	
+
+	        return true;
+        	
+        }
+</script>
+
+<div class="dis" id="tbc_01">
+<div id="show1">
+    <form method="POST" action="../fltBooking.aspx" target="_parent" name="Form_fltBooking" id="Form_fltBooking">
+        <table width="160" border="0" cellspacing="0" class="boxtable">
+            <tbody><tr>
+                <td colspan="2">
+                    <p class="b">
+                        From:</p>
+                    <p>
+                        <select name="FROM" style="width: 120px;" id="FROM">
+                            <option value="-" selected="">[Please select]</option>
+                            <option value="BKK">Bangkok-BKK</option>
+	<option value="CTS">Sapporo-CTS</option>
+	<option value="DPS">Bali,Denpasar -DPS</option>
+	<option value="HAK">Haikou-HAK</option>
+	<option value="HAN">Hanoi-HAN</option>
+	<option value="HGH">Hangzhou-HGH</option>
+	<option value="HKG">Hong Kong-HKG</option>
+	<option value="HRB">Harbin-HRB</option>
+	<option value="KIX">Osaka-KIX</option>
+	<option value="KMG">Kunming-KMG</option>
+	<option value="KWL">Guilin-KWL</option>
+	<option value="MNL">Manila-MNL</option>
+	<option value="OKA">Okinawa-OKA</option>
+	<option value="PEK">Beijing-PEK</option>
+	<option value="SHA">Shanghai-SHA</option>
+	<option value="SYX">Sanya-SYX</option>
+	<option value="BER">Berlin-BER</option>
+	<option value="BRU">Brussels-BRU</option>
+	<option value="BUD">Budapest-BUD</option>
+	<option value="SEA">Seattle-SEA</option>
+	<option value="NRT">Tokyo-NRT</option>
+	<option value="SVO">Moscow-SVO</option>
+	<option value="SIN">Singapore-SIN</option>
+	
+                            
+                        </select>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        To:</p>
+                    <p>
+                        <select name="TO" style="width: 120px;" id="TO">
+                            <option value="-" selected="">[Please select]</option>
+                            <option value="BKK">Bangkok-BKK</option>
+	<option value="CTS">Sapporo-CTS</option>
+	<option value="DPS">Bali,Denpasar -DPS</option>
+	<option value="HAK">Haikou-HAK</option>
+	<option value="HAN">Hanoi-HAN</option>
+	<option value="HGH">Hangzhou-HGH</option>
+	<option value="HKG">Hong Kong-HKG</option>
+	<option value="HRB">Harbin-HRB</option>
+	<option value="KIX">Osaka-KIX</option>
+	<option value="KMG">Kunming-KMG</option>
+	<option value="KWL">Guilin-KWL</option>
+	<option value="MNL">Manila-MNL</option>
+	<option value="OKA">Okinawa-OKA</option>
+	<option value="PEK">Beijing-PEK</option>
+	<option value="SHA">Shanghai-SHA</option>
+	<option value="SYX">Sanya-SYX</option>
+	<option value="BER">Berlin-BER</option>
+	<option value="BRU">Brussels-BRU</option>
+	<option value="BUD">Budapest-BUD</option>
+	<option value="SEA">Seattle-SEA</option>
+	<option value="NRT">Tokyo-NRT</option>
+	<option value="SVO">Moscow-SVO</option>
+	<option value="SIN">Singapore-SIN</option>
+	
+                        </select>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        Departure Date:</p>
+                    <p>
+                        <select name="DepDD" id="DepDD" style="width: 40px;">
+
+                            <script type="text/javascript">
+                                var today = new Date("2010","11","25");
+                                for (i = 1; i < 32; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (i< 10) document.write("0");
+                                    document.write(i+"\"");
+                                    if(today.getDate()==i){document.write(" selected ");}
+                                    document.write(">");
+                                    document.write(i);
+                                    document.write("</option>");
+                                }
+                            </script><option value="01">1</option><option value="02">2</option><option value="03">3</option><option value="04">4</option><option value="05">5</option><option value="06">6</option><option value="07">7</option><option value="08">8</option><option value="09">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25" selected="">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+                        </select>
+                        <select name="DepMMYY" id="DepMMYY" style="width: 85px;">
+
+                            <script type="text/javascript">
+                                var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                                var today = new Date("2010","11","25");
+                                for (i = 0; i < 7; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                    document.write((today.getMonth() + i) % 12 + 1);
+                                    document.write("-");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                    document.write("\">");
+                                     document.write(monthArray[(today.getMonth() + i) % 12]+" ");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                   
+                                    document.write(" ");
+                                    document.write("</option>");
+                                }
+                            </script><option value="12-2010">Dec 2010 </option><option value="01-2011">Jan 2011 </option><option value="02-2011">Feb 2011 </option><option value="03-2011">Mar 2011 </option><option value="04-2011">Apr 2011 </option><option value="05-2011">May 2011 </option><option value="06-2011">Jun 2011 </option>
+
+                        </select>
+                        <a href="#" onclick="calDepartFB.showCalendar('anchorDepartFB',getDateString(document.Form_fltBooking.DepMMYY,document.Form_fltBooking.DepDD)); return false;" name="anchorDepartFB" id="anchorDepartFB" title="Calendar">
+                            <img src="../images/time.jpg" style="vertical-align: middle"></a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        Return Date:</p>
+                    <p>
+                        <select name="RetDD" style="width: 40px;" id="RetDD">
+
+                            <script type="text/javascript">
+                                var today = new Date("2010","11","25");
+                                for (i = 1; i < 32; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (i< 10) document.write("0");
+                                    document.write(i+"\"");
+                                    if(today.getDate()==i){document.write(" selected ");}
+                                    document.write(">");
+                                    document.write(i);
+                                    document.write("</option>");
+                                }
+                            </script><option value="01">1</option><option value="02">2</option><option value="03">3</option><option value="04">4</option><option value="05">5</option><option value="06">6</option><option value="07">7</option><option value="08">8</option><option value="09">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25" selected="">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+                        </select>
+                        <select name="RetMMYY" style="width: 85px;" id="RetMMYY">
+
+                            <script type="text/javascript">
+                                var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                                var today = new Date("2010","11","25");
+                                for (i = 0; i < 7; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                    document.write((today.getMonth() + i) % 12 + 1);
+                                    document.write("-");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                    document.write("\">");  
+                                    document.write(monthArray[(today.getMonth() + i) % 12]+" ");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                               
+                                    document.write(" ");
+                                    document.write("</option>");
+                                }
+                            </script><option value="12-2010">Dec 2010 </option><option value="01-2011">Jan 2011 </option><option value="02-2011">Feb 2011 </option><option value="03-2011">Mar 2011 </option><option value="04-2011">Apr 2011 </option><option value="05-2011">May 2011 </option><option value="06-2011">Jun 2011 </option>
+
+                        </select>
+                        <a href="#" onclick="var d=getDateString(document.Form_fltBooking.RetMMYY,document.Form_fltBooking.RetDD); calReturnFB.showCalendar('anchorReturnFB',(d==null)?getDateString(document.Form_fltBooking.RetMMYY,document.Form_fltBooking.RetDD):d); return false;" name="anchorReturnFB" id="anchorReturnFB" title="Calendar">
+                            <img src="../images/time.jpg" style="vertical-align: middle"></a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td width="33%" valign="top" style="padding-top: 5px;">
+                    Type:</td>
+                <td valign="top" style="padding-top: 5px;">
+                    <p>
+                        <input name="TRIP_TYPE" type="radio" id="TRIP_TYPE" value="R" checked="" onclick="enable_retDate();">
+                        <span class="hei1">Round Trip</span><br>
+                        <input type="radio" name="TRIP_TYPE" id="Radio1" value="O" onclick="disable_retDate();">
+                        <span class="hei1">One-way</span>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                    <a href="../Plan/multiStopOver.aspx" target="_parent">Stopover/Multi-city</a></td>
+            </tr>
+            <tr>
+                <td>
+                    Class</td>
+                <td>
+                    <select name="CABIN" style="width: 70px;" id="CABIN">
+                        <option value="B">Business</option>
+                        <option value="E" selected="">Economy</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Adult(s)&nbsp;&nbsp;
+                    <select name="ADT" class="AccorTabContent" id="ADT" onchange="setChildOptions(this.options[this.selectedIndex].value, this.form);">
+                        <option value="1" selected="selected">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Children&nbsp;
+                    <select name="CHD" class="AccorTabContent" id="CHD">
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                    </select>
+                    &nbsp;(2-11years)
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="left" valign="bottom" style="padding-top:1px">
+                    <input type="submit" class="btnbooknow" value="" onclick="return fltBookingFormValidate(document.getElementById('Form_fltBooking'));">
+                <br>&nbsp;&nbsp;&nbsp;&nbsp;<a style="cursor:pointer; font-size:12px; padding-top:4px; padding-left:40px;" onclick="show()">Search Schedule</a></td>
+            </tr>
+            
+        </tbody></table>
+    </form>
+    </div>
+    
+    <div id="show2" style="display:none;"><form method="POST" name="Form_fltSchedule" id="Form_fltSchedule" action="../Plan/schedules.aspx" target="_parent">
+        <input type="hidden" name="flag" value="flag">
+        <table width="155" class="boxtable" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    From :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="MiddleRedbold">
+                    <select name="fsFROM" class="AccorTabContent" id="fsFROM">
+                        <option value="-" selected="">[Please Select]</option>
+                        <option value="BKK">Bangkok-BKK</option>
+	<option value="CTS">Sapporo-CTS</option>
+	<option value="DPS">Bali,Denpasar -DPS</option>
+	<option value="HAK">Haikou-HAK</option>
+	<option value="HAN">Hanoi-HAN</option>
+	<option value="HGH">Hangzhou-HGH</option>
+	<option value="HKG">Hong Kong-HKG</option>
+	<option value="HRB">Harbin-HRB</option>
+	<option value="KIX">Osaka-KIX</option>
+	<option value="KMG">Kunming-KMG</option>
+	<option value="KWL">Guilin-KWL</option>
+	<option value="LAO">Laoag-LAO</option>
+	<option value="MNL">Manila-MNL</option>
+	<option value="OKA">Okinawa-OKA</option>
+	<option value="PEK">Beijing-PEK</option>
+	<option value="SHA">Shanghai-SHA</option>
+	<option value="RMQ">Taichung-RMQ</option>
+	<option value="SWA">Shantou-SWA</option>
+	<option value="SYX">Sanya-SYX</option>
+	<option value="BER">Berlin-BER</option>
+	<option value="BRU">Brussels-BRU</option>
+	<option value="BUD">Budapest-BUD</option>
+	<option value="SEA">Seattle-SEA</option>
+	<option value="NRT">Tokyo-NRT</option>
+	<option value="PVG">Shanghai-PVG</option>
+	<option value="SVO">Moscow-SVO</option>
+	<option value="SIN">Singapore-SIN</option>
+	
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    To :</td>
+            </tr>
+            <tr>
+                <td align="left" class="MiddleRedbold">
+                    <select name="fsTO" class="AccorTabContent" id="fsTO">
+                        <option value="-" selected="">[Please select]</option>
+                        <option value="BKK">Bangkok-BKK</option>
+	<option value="CTS">Sapporo-CTS</option>
+	<option value="DPS">Bali,Denpasar -DPS</option>
+	<option value="HAK">Haikou-HAK</option>
+	<option value="HAN">Hanoi-HAN</option>
+	<option value="HGH">Hangzhou-HGH</option>
+	<option value="HKG">Hong Kong-HKG</option>
+	<option value="HRB">Harbin-HRB</option>
+	<option value="KIX">Osaka-KIX</option>
+	<option value="KMG">Kunming-KMG</option>
+	<option value="KWL">Guilin-KWL</option>
+	<option value="LAO">Laoag-LAO</option>
+	<option value="MNL">Manila-MNL</option>
+	<option value="OKA">Okinawa-OKA</option>
+	<option value="PEK">Beijing-PEK</option>
+	<option value="SHA">Shanghai-SHA</option>
+	<option value="RMQ">Taichung-RMQ</option>
+	<option value="SWA">Shantou-SWA</option>
+	<option value="SYX">Sanya-SYX</option>
+	<option value="BER">Berlin-BER</option>
+	<option value="BRU">Brussels-BRU</option>
+	<option value="BUD">Budapest-BUD</option>
+	<option value="SEA">Seattle-SEA</option>
+	<option value="NRT">Tokyo-NRT</option>
+	<option value="PVG">Shanghai-PVG</option>
+	<option value="SVO">Moscow-SVO</option>
+	<option value="SIN">Singapore-SIN</option>
+	
+
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    Departure Date :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="content">
+                    <select name="FltSchDepDD" class="AccorTabContent" id="FltSchDepDD">
+
+                        <script type="text/javascript">
+                            var today = new Date("2010","11","24");
+                            for (i = 1; i < 32; ++i)
+                            {
+                                document.write("<option value=\"");
+                                if (i< 10) document.write("0");
+                                document.write(i+"\"");
+                                if(today.getDate()==i){document.write(" selected ");}
+                                document.write(">");
+                                document.write(i);
+                                document.write("</option>");
+                            }
+                        </script><option value="01">1</option><option value="02">2</option><option value="03">3</option><option value="04">4</option><option value="05">5</option><option value="06">6</option><option value="07">7</option><option value="08">8</option><option value="09">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24" selected="">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+                    <option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                    <select name="FltSchDepMMYY" class="AccorTabContent" id="FltSchDepMMYY">
+
+                        <script type="text/javascript">
+                            var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                            var today = new Date();
+                            for (i = 0; i < 11; ++i)
+                            {
+                                document.write("<option value=\"");
+                                document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                document.write("-");
+                                if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                document.write((today.getMonth() + i) % 12 + 1);
+                                document.write("\">");
+                                document.write(monthArray[(today.getMonth() + i) % 12]+" ");
+                                document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                
+                                document.write(" ");
+                                document.write("</option>");
+                            }
+                        </script><option value="2020-02">Feb 2020 </option><option value="2020-03">Mar 2020 </option><option value="2020-04">Apr 2020 </option><option value="2020-05">May 2020 </option><option value="2020-06">Jun 2020 </option><option value="2020-07">Jul 2020 </option><option value="2020-08">Aug 2020 </option><option value="2020-09">Sep 2020 </option><option value="2020-10">Oct 2020 </option><option value="2020-11">Nov 2020 </option><option value="2020-12">Dec 2020 </option>
+
+                    </select>
+                    <a href="#" onclick="calFS15.showCalendar('anchorFS15',getFSDateString(document.Form_fltSchedule.FltSchDepMMYY,document.Form_fltSchedule.FltSchDepDD)); return false;" name="anchorFS15" id="anchorFS15" title="Calendar">
+                        <img src="../images/time.jpg" style="vertical-align: middle"></a>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    Return Date :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="content">
+                    <select name="FltSchRetDD" class="AccorTabContent" id="FltSchRetDD">
+
+                        <script type="text/javascript">
+                            var today = new Date("2010","11","24");
+                            for (i = 1; i < 32; ++i)
+                            {
+                                document.write("<option value=\"");
+                                if (i< 10) document.write("0");
+                                document.write(i+"\"");
+                                if(today.getDate()==i){document.write(" selected ");}
+                                document.write(">");
+                                document.write(i);
+                                document.write("</option>");
+                            }
+                        </script><option value="01">1</option><option value="02">2</option><option value="03">3</option><option value="04">4</option><option value="05">5</option><option value="06">6</option><option value="07">7</option><option value="08">8</option><option value="09">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24" selected="">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+                    <option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                    <select name="FltSchRetMMYY" class="AccorTabContent" id="FltSchRetMMYY">
+
+                        <script type="text/javascript">
+                            var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                            var today = new Date();
+                            for (i = 0; i < 11; ++i)
+                            {
+                                document.write("<option value=\"");
+                                document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                document.write("-");
+                                if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                document.write((today.getMonth() + i) % 12 + 1);
+                                document.write("\">");
+                                document.write(monthArray[(today.getMonth() + i) % 12]+" ");
+                                document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                
+                                document.write(" ");
+                                document.write("</option>");
+                            }
+                        </script><option value="2020-02">Feb 2020 </option><option value="2020-03">Mar 2020 </option><option value="2020-04">Apr 2020 </option><option value="2020-05">May 2020 </option><option value="2020-06">Jun 2020 </option><option value="2020-07">Jul 2020 </option><option value="2020-08">Aug 2020 </option><option value="2020-09">Sep 2020 </option><option value="2020-10">Oct 2020 </option><option value="2020-11">Nov 2020 </option><option value="2020-12">Dec 2020 </option>
+
+                    </select>
+                    <a href="#" onclick="var d=getFSDateString(document.Form_fltSchedule.FltSchRetMMYY,document.Form_fltSchedule.FltSchRetDD); calFS16.showCalendar('anchorFS16',(d==null)?getFSDateString(document.Form_fltSchedule.FltSchRetMMYY,document.Form_fltSchedule.FltSchRetDD):d); return false;" name="anchorFS16" id="anchorFS16" title="Calendar">
+                        <img src="../images/time.jpg" style="vertical-align: middle"></a></td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="content">
+                    <table border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td width="40%" align="left" valign="bottom" class="AccorTabLabel">
+                                Type :</td>
+                            <td align="left" valign="bottom" class="AccorTabContent">
+                                <input name="fsTRIP_TYPE" type="radio" id="fsTRIP_TYPE" value="R" checked="checked" onclick="enable_FltSchRetDate();">
+                                Round Trip</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="bottom">&nbsp;
+                                </td>
+                            <td align="left" valign="bottom" class="AccorTabContent">
+                                <input type="radio" name="fsTRIP_TYPE" id="Radio3" value="O" onclick="disable_FltSchRetDate();">
+                                One way</td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" valign="bottom" class="content">
+                    <input type="submit" value="" class="btnbooksearch" onclick="return fltScheduleFormValidate(document.getElementById('Form_fltSchedule'));">&nbsp;<a style="cursor:pointer; font-size:12px;" onclick="showflight()">Flights</a>
+                </td>
+            </tr>
+        </tbody></table>
+    </form></div>
+    
+</div>
+<div class="undis" id="tbc_02">
+    <!--bookHotel -->
+    <div id="agoda_searchbox"><img src="http://ajaxsearch.partners.agoda.com/affiliates/images/ajaxloader.gif" width="32" height="32" alt="Loading search box ..."></div>
+    <!--<form name="testform" onsubmit="return makeURL()" action="" method="post" target="_blank">
+        <input type="hidden" id="language" name="language" value="EN">
+        <table class="boxtable" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td align="left" valign="bottom">
+                    <strong>Select Destination / City</strong></td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <select name="country1" style="width: 150px; overflow: hidden;" id="country1" onChange="addOptions(cities[this.options[this.selectedIndex].text], document.testform.destination);">
+                        <option selected="selected">[Please select Country]</option>
+                        <option>Antigua &amp; Barbuda</option>
+                        <option>Argentina</option>
+                        <option>Australia</option>
+                        <option>Austria</option>
+                        <option>Bahamas</option>
+                        <option>Belgium</option>
+                        <option>Bolivia</option>
+                        <option>Bosnia</option>
+                        <option>Botswana</option>
+                        <option>Brazil</option>
+                        <option>Brunei Darussalam</option>
+                        <option>Bulgaria</option>
+                        <option>Cambodia</option>
+                        <option>Canada</option>
+                        <option>Chile</option>
+                        <option>China</option>
+                        <option>Colombia</option>
+                        <option>Cook Islands</option>
+                        <option>Costa Rica</option>
+                        <option>Croatia</option>
+                        <option>Cuba</option>
+                        <option>Cyprus</option>
+                        <option>Czech Republic</option>
+                        <option>Denmark</option>
+                        <option>Dominican Republic</option>
+                        <option>Ecuador</option>
+                        <option>Egypt</option>
+                        <option>Estonia</option>
+                        <option>Fiji</option>
+                        <option>Finland</option>
+                        <option>France</option>
+                        <option>French Polynesia</option>
+                        <option>Germany</option>
+                        <option>Greece</option>
+                        <option>Guadeloupe</option>
+                        <option>Guam</option>
+                        <option>Hong Kong</option>
+                        <option>Hungary</option>
+                        <option>Iceland</option>
+                        <option>India</option>
+                        <option>Indonesia</option>
+                        <option>Irish Republic</option>
+                        <option>Israel</option>
+                        <option>Italy</option>
+                        <option>Jamaica</option>
+                        <option>Japan</option>
+                        <option>Jordan</option>
+                        <option>Kenya</option>
+                        <option>Kuwait</option>
+                        <option>Laos</option>
+                        <option>Latvia</option>
+                        <option>Lebanon</option>
+                        <option>Lithuania</option>
+                        <option>Luxembourg</option>
+                        <option>Macau</option>
+                        <option>Malaysia</option>
+                        <option>Malta</option>
+                        <option>Mauritius</option>
+                        <option>Mexico</option>
+                        <option>Micronesia</option>
+                        <option>Morocco</option>
+                        <option>Myanmar</option>
+                        <option>Namibia</option>
+                        <option>Nepal</option>
+                        <option>Netherlands</option>
+                        <option>Netherlands Antilles</option>
+                        <option>New Caledonia</option>
+                        <option>New Zealand</option>
+                        <option>Northern Mariana Island</option>
+                        <option>Norway</option>
+                        <option>Oman</option>
+                        <option>Palau</option>
+                        <option>Panama</option>
+                        <option>Paraguay</option>
+                        <option>Peru</option>
+                        <option>Philippines</option>
+                        <option>Poland</option>
+                        <option>Portugal</option>
+                        <option>Puerto Rico</option>
+                        <option>Qatar</option>
+                        <option>Romania</option>
+                        <option>Russia</option>
+                        <option>Saudi Arabia</option>
+                        <option>Seychelles</option>
+                        <option>Singapore</option>
+                        <option>Slovakia</option>
+                        <option>Slovenia</option>
+                        <option>South Africa</option>
+                        <option>South Korea</option>
+                        <option>Spain</option>
+                        <option>Sri Lanka</option>
+                        <option>St Lucia</option>
+                        <option>Sweden</option>
+                        <option>Switzerland</option>
+                        <option>Syria</option>
+                        <option>Taiwan</option>
+                        <option>Tanzania</option>
+                        <option>Thailand</option>
+                        <option>Tonga</option>
+                        <option>Trinidad &amp; Tobago</option>
+                        <option>Tunisia</option>
+                        <option>Turkey</option>
+                        <option>Turks &amp; Caicos</option>
+                        <option>United Arab Emirates</option>
+                        <option>United Kingdom</option>
+                        <option>United States</option>
+                        <option>Uruguay</option>
+                        <option>Vietnam</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <select name="destination" style="width: 150px; overflow: hidden;" id="destination">
+                        <option value="0" selected="selected">[Select City]</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    <strong>Check-in Date</strong></td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <select name="checkinday" class="body" id="checkinday" onchange="DGE('checkin').value=DGE('checkinday').value+'/'+DGE('checkinmonth').value;">
+                        <option value="">-</option>
+                        <option value="01">01</option>
+                        <option value="02">02</option>
+                        <option value="03">03</option>
+                        <option value="04">04</option>
+                        <option value="05">05</option>
+                        <option value="06">06</option>
+                        <option value="07">07</option>
+                        <option value="08">08</option>
+                        <option value="09">09</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31</option>
+                    </select>
+                    <select name="checkinmonth" id="checkinmonth" onchange="DGE('checkin').value=DGE('checkinday').value+'/'+DGE('checkinmonth').value;"
+                        class="body">
+
+                        <script type="text/javascript">
+                            var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                            var today = new Date();
+                            for (i = 0; i < 13; ++i)
+                            {
+                                document.write("<option value=\"");
+                                if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                document.write((today.getMonth() + i) % 12 + 1);
+                                document.write("/");
+                                document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                document.write("\">");
+                                document.write(monthArray[(today.getMonth() + i) % 12]);
+                                document.write(" ");
+                                document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                document.write("</option>");
+                            }
+                        </script>
+
+                    </select>
+                    <input type="hidden" name="checkin" id="checkin" /></td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom">
+                    <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                        <tr>
+                            <td valign="bottom" width="49%" class="AccorTabLabel">
+                                <strong>No. of Night(s)</strong></td>
+                            <td valign="bottom" width="51%" class="AccorTabLabel">
+                                <strong>No. of Room(s)</strong></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input class="body" id="nights" onfocus="this.select()" tabindex="3" size="2" value="1"
+                                    name="nights" /></td>
+                            <td>
+                                <select class="body" id="rooms" tabindex="5" name="rooms">
+                                    <option value="1" selected="selected">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                </select>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="56%" valign="bottom">
+                                <span class="AccorTabLabel"><strong>Occupancy</strong></span></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="b12">
+                                    <select class="body" id="roomtype" tabindex="5" name="roomtype">
+                                        <option value="SB" selected="selected">Single Room</option>
+                                        <option value="TB">Twin Room</option>
+                                        <option value="DB">Double Room</option>
+                                        <option value="TR">Triple Room</option>
+                                        <option value="TS">Twin for Sole Use</option>
+                                        <option value="Q">Quard Room</option>
+                                    </select>
+                                </span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    Nationality</td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <select class="body" id="country" tabindex="8" name="country">
+                        <option value="AF">Afghanistan</option>
+                        <option value="AX">Aland Islands</option>
+                        <option value="AL">Albania</option>
+                        <option value="DZ">Algeria</option>
+                        <option value="AS">American Samoa</option>
+                        <option value="AD">Andorra</option>
+                        <option value="AO">Angola</option>
+                        <option value="AI">Anguilla</option>
+                        <option value="AQ">Antarctica</option>
+                        <option value="AG">Antigua &amp; Barbuda</option>
+                        <option value="AR">Argentina</option>
+                        <option value="AM">Armenia</option>
+                        <option value="AU">Aruba</option>
+                        <option value="AA">Australia</option>
+                        <option value="A">Austria</option>
+                        <option value="AZ">Azerbaijan</option>
+                        <option value="BS">Bahamas</option>
+                        <option value="BN">Bahrain</option>
+                        <option value="BD">Bangladesh</option>
+                        <option value="WB">Barbados</option>
+                        <option value="BY">Belarus</option>
+                        <option value="B">Belgium</option>
+                        <option value="BZ">Belize</option>
+                        <option value="BJ">Benin</option>
+                        <option value="BA">Bermuda</option>
+                        <option value="BT">Bhutan</option>
+                        <option value="BO">Bolivia</option>
+                        <option value="BH">Bosnia Herzegovina</option>
+                        <option value="BW">Botswana</option>
+                        <option value="BV">Bouvet Island</option>
+                        <option value="BR">Brazil</option>
+                        <option value="IO">British Ind</option>
+                        <option value="VG">British Virgin Isl</option>
+                        <option value="BU">Brunei Darussalam</option>
+                        <option value="BG">Bulgaria</option>
+                        <option value="BF">Burkina Faso</option>
+                        <option value="BI">Burundi</option>
+                        <option value="KH">Cambodia</option>
+                        <option value="CM">Cameroon</option>
+                        <option value="CA">Canada</option>
+                        <option value="CV">Cape Verde</option>
+                        <option value="CP">Cayman Islands</option>
+                        <option value="CF">Central African Rep</option>
+                        <option value="TD">Chad</option>
+                        <option value="CL">Chile</option>
+                        <option value="CN">China</option>
+                        <option value="CX">Christmas Island</option>
+                        <option value="CC">Cocos Islands</option>
+                        <option value="CO">Colombia</option>
+                        <option value="KM">Comoros</option>
+                        <option value="CG">Congo</option>
+                        <option value="ZM">Congo Democratic Rep</option>
+                        <option value="CK">Cook Islands</option>
+                        <option value="CS">Costa Rica</option>
+                        <option value="CR">Croatia</option>
+                        <option value="CU">Cuba</option>
+                        <option value="UU">Cvn</option>
+                        <option value="CY">Cyprus</option>
+                        <option value="C">Czech Republic</option>
+                        <option value="DK">Denmark</option>
+                        <option value="DJ">Djibouti</option>
+                        <option value="DM">Dominica</option>
+                        <option value="DR">Dominican Republic</option>
+                        <option value="EC">Ecuador</option>
+                        <option value="UN">Egypt</option>
+                        <option value="SV">El Salvador</option>
+                        <option value="GQ">Equatorial Guinea</option>
+                        <option value="ER">Eritrea</option>
+                        <option value="ES">Estonia</option>
+                        <option value="ET">Ethiopia</option>
+                        <option value="FK">Falkland Islands</option>
+                        <option value="FO">Faroe Islands</option>
+                        <option value="FI">Fiji</option>
+                        <option value="SF">Finland</option>
+                        <option value="F">France</option>
+                        <option value="GF">French Guiana</option>
+                        <option value="PF">French Polynesia</option>
+                        <option value="TF">French Soutern Terr.</option>
+                        <option value="GA">Gabon</option>
+                        <option value="GM">Gambia</option>
+                        <option value="GE">Georgia</option>
+                        <option value="D">Germany</option>
+                        <option value="GH">Ghana</option>
+                        <option value="GK">Gibraltar</option>
+                        <option value="GR">Greece</option>
+                        <option value="GZ">Greenland</option>
+                        <option value="GD">Grenada</option>
+                        <option value="GP">Guadeloupe</option>
+                        <option value="GU">Guam</option>
+                        <option value="GT">Guatemala</option>
+                        <option value="GN">Guinea</option>
+                        <option value="GW">Guinea-Bissau</option>
+                        <option value="GY">Guyana</option>
+                        <option value="HT">Haiti</option>
+                        <option value="HM">Heard &amp; Mcdonald Isl</option>
+                        <option value="HN">Honduras</option>
+                        <option value="HX" selected>Hong Kong</option>
+                        <option value="H">Hungary</option>
+                        <option value="IS">Iceland</option>
+                        <option value="IN">India</option>
+                        <option value="IA">Indonesia</option>
+                        <option value="IR">Iran</option>
+                        <option value="IQ">Iraq</option>
+                        <option value="EI">Irish Republic</option>
+                        <option value="IL">Israel</option>
+                        <option value="I">Italy</option>
+                        <option value="CI">Ivory Coast</option>
+                        <option value="JA">Jamaica</option>
+                        <option value="J">Japan</option>
+                        <option value="JO">Jordan</option>
+                        <option value="KA">Kazakhstan</option>
+                        <option value="KE">Kenya</option>
+                        <option value="KI">Kiribati</option>
+                        <option value="KT">Kuwait</option>
+                        <option value="KG">Kyrgyzstan</option>
+                        <option value="LA">Laos</option>
+                        <option value="LV">Latvia</option>
+                        <option value="LE">Lebanon</option>
+                        <option value="LS">Lesotho</option>
+                        <option value="LR">Liberia</option>
+                        <option value="LY">Libya</option>
+                        <option value="FL">Liechtenstein</option>
+                        <option value="LI">Lithuania</option>
+                        <option value="LU">Luxembourg</option>
+                        <option value="MO">Macau</option>
+                        <option value="MK">Macedonia</option>
+                        <option value="MG">Madagascar</option>
+                        <option value="MT">Malawi</option>
+                        <option value="MA">Malaysia</option>
+                        <option value="MV">Maldives</option>
+                        <option value="ML">Mali</option>
+                        <option value="MW">Malta</option>
+                        <option value="MH">Marshall Islands</option>
+                        <option value="MQ">Martinique</option>
+                        <option value="MR">Mauritania</option>
+                        <option value="IW">Mauritius</option>
+                        <option value="YT">Mayotte</option>
+                        <option value="ME">Mexico</option>
+                        <option value="FM">Micronesia</option>
+                        <option value="MD">Moldova</option>
+                        <option value="MC">Monaco</option>
+                        <option value="MN">Mongolia</option>
+                        <option value="MS">Montserrat</option>
+                        <option value="M">Morocco</option>
+                        <option value="MZ">Mozambique</option>
+                        <option value="MM">Myanmar</option>
+                        <option value="NA">Namibia</option>
+                        <option value="NR">Nauru</option>
+                        <option value="NP">Nepal</option>
+                        <option value="NL">Netherlands</option>
+                        <option value="AN">Netherlands Antilles</option>
+                        <option value="NC">New Caledonia</option>
+                        <option value="NZ">New Zealand</option>
+                        <option value="NI">Nicaragua</option>
+                        <option value="NE">Niger</option>
+                        <option value="NG">Nigeria</option>
+                        <option value="NU">Niue</option>
+                        <option value="NF">Norfolk Island</option>
+                        <option value="NS">North Cyprus</option>
+                        <option value="KP">North Korea</option>
+                        <option value="MP">Northern Mariana</option>
+                        <option value="N">Norway</option>
+                        <option value="OM">Oman</option>
+                        <option value="PK">Pakistan</option>
+                        <option value="PW">Palau</option>
+                        <option value="PS">Palestine</option>
+                        <option value="PG">Panama</option>
+                        <option value="PA">Papua New Guinea</option>
+                        <option value="PY">Paraguay</option>
+                        <option value="PE">Peru</option>
+                        <option value="PH">Philippines</option>
+                        <option value="PN">Pitcairn</option>
+                        <option value="PL">Poland</option>
+                        <option value="P">Portugal</option>
+                        <option value="PT">Puerto Rico</option>
+                        <option value="DH">Qatar</option>
+                        <option value="RE">Reunion</option>
+                        <option value="R">Romania</option>
+                        <option value="RU">Russia</option>
+                        <option value="RW">Rwanda</option>
+                        <option value="WS">Samoa</option>
+                        <option value="SM">San Marino</option>
+                        <option value="ST">Sao Tome &amp; Principe</option>
+                        <option value="SJ">Saudi Arabia</option>
+                        <option value="SN">Senegal</option>
+                        <option value="YU">Serbia &amp; Montenegro</option>
+                        <option value="FZ">Seychelles</option>
+                        <option value="SI">Sierra Leone</option>
+                        <option value="SG">Singapore</option>
+                        <option value="SR">Slovakia</option>
+                        <option value="SL">Slovenia</option>
+                        <option value="SB">Solomon Islands</option>
+                        <option value="SO">Somalia</option>
+                        <option value="SA">South Africa</option>
+                        <option value="GS">South Georgia</option>
+                        <option value="K">South Korea</option>
+                        <option value="E">Spain</option>
+                        <option value="CE">Sri Lanka</option>
+                        <option value="SH">St Helena</option>
+                        <option value="KC">St Kitts &amp; Nevis</option>
+                        <option value="LC">St Lucia</option>
+                        <option value="GL">St Martin (F)</option>
+                        <option value="PM">St Pierre &amp; Miquelon</option>
+                        <option value="VE">St Vincent &amp; Grenadi</option>
+                        <option value="SD">Sudan</option>
+                        <option value="SK">Suriname</option>
+                        <option value="QS">Svalbard &amp; Jan Mayen</option>
+                        <option value="SZ">Swaziland</option>
+                        <option value="S">Sweden</option>
+                        <option value="CH">Switzerland</option>
+                        <option value="SY">Syria</option>
+                        <option value="TW">Taiwan</option>
+                        <option value="TJ">Tajikistan</option>
+                        <option value="TZ">Tanzania</option>
+                        <option value="TH">Thailand</option>
+                        <option value="TL">Timor-Leste</option>
+                        <option value="TG">Togo</option>
+                        <option value="TK">Tokelau</option>
+                        <option value="TO">Tonga</option>
+                        <option value="TB">Travel Bound</option>
+                        <option value="TT">Trinidad &amp; Tobago</option>
+                        <option value="TN">Tunisia</option>
+                        <option value="TR">Turkey</option>
+                        <option value="TU">Turkmenistan</option>
+                        <option value="TC">Turks &amp; Caicos</option>
+                        <option value="TV">Tuvalu</option>
+                        <option value="UG">Uganda</option>
+                        <option value="UK">Ukraine</option>
+                        <option value="EM">United Arab Emirates</option>
+                        <option value="GB">United Kingdom</option>
+                        <option value="US">United States</option>
+                        <option value="UY">Uruguay</option>
+                        <option value="UM">Us Minor Outer Isles</option>
+                        <option value="VN">Us Virgin Islands</option>
+                        <option value="UZ">Uzbekistan</option>
+                        <option value="VU">Vanuatu</option>
+                        <option value="VA">Vatican City</option>
+                        <option value="VC">Venezuela</option>
+                        <option value="VI">Vietnam</option>
+                        <option value="WF">Wallis &amp; Futuna Isl</option>
+                        <option value="EH">Western Sahara</option>
+                        <option value="YE">Yemen</option>
+                        <option value="ZA">Zambia</option>
+                        <option value="ZW">Zimbabwe</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td height="30" align="right" valign="bottom">
+                    <input type="button" value="" class="btnbooksearch" onclick="makeURL();" />
+                </td>
+            </tr>
+        </table>
+    </form>-->
+    <span id="alertSpan"></span>
+</div>
+<div class="undis" id="tbc_03">
+    <!--flightStatus-->
+    <form method="POST" action="../Plan/flightStatus.aspx" name="Form_fltStatus" id="Form_fltStatus" target="_parent">
+        <input type="hidden" name="flag" value="flag">
+        <table width="155" class="boxtable" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td align="left" class="AccorTabLabel">
+                    <input name="RadioGroup" type="radio" id="RadioGroup" value="rbFlightRoute" checked="">Flight
+                    Route :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    From :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="MiddleRedbold">
+                    <select name="strFrom" class="AccorTabContent" id="Select1">
+                        <option value="-" selected="">[Please select]</option>
+                        <option value="BKK">Bangkok-BKK</option>
+	<option value="CTS">Sapporo-CTS</option>
+	<option value="DPS">Bali,Denpasar -DPS</option>
+	<option value="HAK">Haikou-HAK</option>
+	<option value="HAN">Hanoi-HAN</option>
+	<option value="HGH">Hangzhou-HGH</option>
+	<option value="HKG">Hong Kong-HKG</option>
+	<option value="HRB">Harbin-HRB</option>
+	<option value="KIX">Osaka-KIX</option>
+	<option value="KMG">Kunming-KMG</option>
+	<option value="KWL">Guilin-KWL</option>
+	<option value="LAO">Laoag-LAO</option>
+	<option value="MNL">Manila-MNL</option>
+	<option value="OKA">Okinawa-OKA</option>
+	<option value="PEK">Beijing-PEK</option>
+	<option value="SHA">Shanghai-SHA</option>
+	<option value="RMQ">Taichung-RMQ</option>
+	<option value="SWA">Shantou-SWA</option>
+	<option value="SYX">Sanya-SYX</option>
+	<option value="BER">Berlin-BER</option>
+	<option value="BRU">Brussels-BRU</option>
+	<option value="BUD">Budapest-BUD</option>
+	<option value="SEA">Seattle-SEA</option>
+	<option value="NRT">Tokyo-NRT</option>
+	<option value="PVG">Shanghai-PVG</option>
+	<option value="SVO">Moscow-SVO</option>
+	<option value="SIN">Singapore-SIN</option>
+	
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    To :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="MiddleRedbold">
+                    <select name="strTo" class="AccorTabContent" id="Select2">
+                        <option value="-" selected="">[Please select]</option>
+                        <option value="BKK">Bangkok-BKK</option>
+	<option value="CTS">Sapporo-CTS</option>
+	<option value="DPS">Bali,Denpasar -DPS</option>
+	<option value="HAK">Haikou-HAK</option>
+	<option value="HAN">Hanoi-HAN</option>
+	<option value="HGH">Hangzhou-HGH</option>
+	<option value="HKG">Hong Kong-HKG</option>
+	<option value="HRB">Harbin-HRB</option>
+	<option value="KIX">Osaka-KIX</option>
+	<option value="KMG">Kunming-KMG</option>
+	<option value="KWL">Guilin-KWL</option>
+	<option value="LAO">Laoag-LAO</option>
+	<option value="MNL">Manila-MNL</option>
+	<option value="OKA">Okinawa-OKA</option>
+	<option value="PEK">Beijing-PEK</option>
+	<option value="SHA">Shanghai-SHA</option>
+	<option value="RMQ">Taichung-RMQ</option>
+	<option value="SWA">Shantou-SWA</option>
+	<option value="SYX">Sanya-SYX</option>
+	<option value="BER">Berlin-BER</option>
+	<option value="BRU">Brussels-BRU</option>
+	<option value="BUD">Budapest-BUD</option>
+	<option value="SEA">Seattle-SEA</option>
+	<option value="NRT">Tokyo-NRT</option>
+	<option value="PVG">Shanghai-PVG</option>
+	<option value="SVO">Moscow-SVO</option>
+	<option value="SIN">Singapore-SIN</option>
+	
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    <input name="RadioGroup" type="radio" id="Radio2" value="rbFlightNo">Flight No.
+                    :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="MiddleRedbold">
+                    <select name="airline" class="AccorTabContent" id="Select3">
+                        <option value="HX" selected="">HX</option>
+                        <option value="UO">UO</option>
+                    </select>
+                    <input name="strFlightNo" type="text" class="normal" id="strFlightNo" onkeyup="value=value.replace(/[^\d]/g,'');" onclick="document.Form_fltStatus.RadioGroup[1].checked=true;" size="4" maxlength="4">
+                </td>
+            </tr>
+            <tr>
+                <td align="left" valign="bottom" class="AccorTabLabel">
+                    Date :</td>
+            </tr>
+            <tr>
+                <td align="left" valign="top" class="MiddleRedbold">
+                    <select name="strStartTime" class="AccorTabContent" id="strStartTime">
+                    <option value="2010-12-23">23-12-2010</option><option value="2010-12-24">24-12-2010</option><option value="2010-12-25">25-12-2010</option></select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right" valign="bottom" class="content">
+                    <input type="submit" value="" class="btnbooksearch" onclick="return validateFormSearchFltStatus(document.getElementById('Form_fltStatus'));">
+                </td>
+            </tr>
+        </tbody></table>
+    </form>
+</div>
+<div class="undis" id="tbc_04">
+<form method="POST" action="../fltHaiBooking.aspx" target="_parent" name="Form_Haihang" id="Form_Haihang">
+        <table width="160" border="0" cellspacing="0" class="boxtable">
+            <tbody><tr>
+                <td colspan="2">
+                    <p class="b">
+                        From:</p>
+                    <p>
+                        <select name="FROMHai" style="width: 110px;" id="FROMHai">
+                            <option value="-" selected="">[Please Select]</option>
+                            <option value="AEB">Baise</option>
+                            <option value="DAT">Datong</option>
+                            <option value="HYN">Huangshan</option>
+                            <option value="JIL">Jilin</option>
+                            <option value="BAV">Baotou</option>
+                            <option value="PEK">Beijing</option>
+                            <option value="CGQ">Changchun</option>
+                            <option value="CSX">Changsha</option>                            
+                            <option value="CIH">Changzhi</option>
+                            <option value="CTU">Chengdu</option>
+                            <option value="CIF">Chifeng</option>
+                            <option value="CKG">Chongqing</option>
+                            <option value="DLU">Dali</option>
+                            <option value="DLC">Dalian</option>
+                            <option value="DOY">Dongying</option>
+                            <option value="DNH">Duanhuang</option>                            
+                            <option value="ENH">Enshi</option>
+                            <option value="FOC">Fuzhou</option>
+                            <option value="CAN">Guangzhou</option>
+                            <option value="KWL">Guilin</option>
+                            <option value="KWE">Guiyang</option>
+                            <option value="HRB">Haerbin</option>
+                            <option value="HAK">Haikou</option>
+                            <option value="HLD">Hailaer</option>                            
+                            <option value="HZG">Hanzhong</option>
+                            <option value="HGH">Hangzhou</option>
+                            <option value="HFE">Hefei</option>
+                            <option value="HET">Huhehaote</option>
+                            <option value="JGN">Jiayuguan</option>
+                            <option value="JMU">Jiamushi</option>
+                            <option value="JJN">Jinjiang</option>                            
+                            <option value="JZH">Jiuzhaigou</option>
+                            <option value="KHG">Kashi</option>
+                            <option value="KMG">Kunming</option>
+                            <option value="LXA">Lasa</option>
+                            <option value="LHW">Lanzhou</option>
+                            <option value="NZH">Manzhouli</option>
+                            <option value="MDG">Mudanjiang</option>
+                            <option value="KHN">Nanchang</option>
+                            <option value="NKG">Nanjing</option>
+                            <option value="NNG">Nanning</option>
+                            <option value="NGB">Ningbo</option>
+                            <option value="NDG">Qiqihaer</option>
+                            <option value="TAO">Qingdao</option>
+                            <option value="IQN">Qingyang</option>                            
+                            <option value="SYX">Sanya</option>
+                            <option value="SWA">Santou</option>
+                            <option value="SHA">Shanghai Hongqiao</option>
+                            <option value="PVG">Shanghai Pudong</option>
+                            <option value="SZX">Shenzhen</option>
+                            <option value="SHE">Shenyang</option>
+                            <option value="SJW">shijiazhuang</option>
+                            <option value="TYN">Taiyuan</option>                            
+                            <option value="TSN">Tianjin</option>
+                            <option value="TGO">Tongliao</option>
+                            <option value="WEH">Weihai</option>
+                            <option value="WEF">Weifang</option>
+                            <option value="WNZ">Wenzhou</option>
+                            <option value="HLH">Wulanhaote</option>                            
+                            <option value="URC">Wurumuchi</option>
+                            <option value="WUH">Wuhan</option>                            
+                            <option value="XIY">Xi An</option>
+                            <option value="XNN">Xining</option>
+                            <option value="XMN">Xiamen</option>
+                            <option value="XUZ">Xuzhou</option>
+                            <option value="YNZ">Yancheng</option>
+                            <option value="ENY">Yan An</option>
+                        </select>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        To:</p>
+                    <p>
+                        <select name="TOHai" style="width: 110px;" id="TOHai">
+                            <option value="-" selected="">[Please Select]</option>
+                            <option value="AEB">Baise</option>
+                            <option value="DAT">Datong</option>
+                            <option value="HYN">Huangshan</option>
+                            <option value="JIL">Jilin</option>
+                            <option value="BAV">Baotou</option>
+                            <option value="PEK">Beijing</option>
+                            <option value="CGQ">Changchun</option>
+                            <option value="CSX">Changsha</option>                            
+                            <option value="CIH">Changzhi</option>
+                            <option value="CTU">Chengdu</option>
+                            <option value="CIF">Chifeng</option>
+                            <option value="CKG">Chongqing</option>
+                            <option value="DLU">Dali</option>
+                            <option value="DLC">Dalian</option>
+                            <option value="DOY">Dongying</option>
+                            <option value="DNH">Duanhuang</option>                            
+                            <option value="ENH">Enshi</option>
+                            <option value="FOC">Fuzhou</option>
+                            <option value="CAN">Guangzhou</option>
+                            <option value="KWL">Guilin</option>
+                            <option value="KWE">Guiyang</option>
+                            <option value="HRB">Haerbin</option>
+                            <option value="HAK">Haikou</option>
+                            <option value="HLD">Hailaer</option>                            
+                            <option value="HZG">Hanzhong</option>
+                            <option value="HGH">Hangzhou</option>
+                            <option value="HFE">Hefei</option>
+                            <option value="HET">Huhehaote</option>
+                            <option value="JGN">Jiayuguan</option>
+                            <option value="JMU">Jiamushi</option>
+                            <option value="JJN">Jinjiang</option>                            
+                            <option value="JZH">Jiuzhaigou</option>
+                            <option value="KHG">Kashi</option>
+                            <option value="KMG">Kunming</option>
+                            <option value="LXA">Lasa</option>
+                            <option value="LHW">Lanzhou</option>
+                            <option value="NZH">Manzhouli</option>
+                            <option value="MDG">Mudanjiang</option>
+                            <option value="KHN">Nanchang</option>
+                            <option value="NKG">Nanjing</option>
+                            <option value="NNG">Nanning</option>
+                            <option value="NGB">Ningbo</option>
+                            <option value="NDG">Qiqihaer</option>
+                            <option value="TAO">Qingdao</option>
+                            <option value="IQN">Qingyang</option>                            
+                            <option value="SYX">Sanya</option>
+                            <option value="SWA">Santou</option>
+                            <option value="SHA">Shanghai Hongqiao</option>
+                            <option value="PVG">Shanghai Pudong</option>
+                            <option value="SZX">Shenzhen</option>
+                            <option value="SHE">Shenyang</option>
+                            <option value="SJW">shijiazhuang</option>
+                            <option value="TYN">Taiyuan</option>                            
+                            <option value="TSN">Tianjin</option>
+                            <option value="TGO">Tongliao</option>
+                            <option value="WEH">Weihai</option>
+                            <option value="WEF">Weifang</option>
+                            <option value="WNZ">Wenzhou</option>
+                            <option value="HLH">Wulanhaote</option>                            
+                            <option value="URC">Wurumuchi</option>
+                            <option value="WUH">Wuhan</option>                            
+                            <option value="XIY">Xi An</option>
+                            <option value="XNN">Xining</option>
+                            <option value="XMN">Xiamen</option>
+                            <option value="XUZ">Xuzhou</option>
+                            <option value="YNZ">Yancheng</option>
+                            <option value="ENY">Yan An</option>
+                        </select>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        Departure Date:</p>
+                    <p>
+                        <select name="DepDDHai" id="DepDDHai" style="width: 40px;">
+
+                            <script type="text/javascript">
+                                var today = new Date("2010","11","27");
+                                for (i = 1; i < 32; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (i< 10) document.write("0");
+                                    document.write(i+"\"");
+                                    if(today.getDate()==i){document.write(" selected ");}
+                                    document.write(">");
+                                    document.write(i);
+                                    document.write("</option>");
+                                }
+                            </script><option value="01">1</option><option value="02">2</option><option value="03">3</option><option value="04">4</option><option value="05">5</option><option value="06">6</option><option value="07">7</option><option value="08">8</option><option value="09">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27" selected="">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+                        </select>
+                        <select name="DepMMYYHai" id="DepMMYYHai" style="width: 85px;">
+
+                            <script type="text/javascript">
+                                var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                                var today = new Date("2010","11","27");
+                                for (i = 0; i < 7; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                    document.write((today.getMonth() + i) % 12 + 1);
+                                    document.write("-");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                    document.write("\">");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                    document.write(monthArray[(today.getMonth() + i) % 12]);
+                                    document.write(" ");
+                                    document.write("</option>");
+                                }
+                            </script><option value="12-2010">2010Dec </option><option value="01-2011">2011Jan </option><option value="02-2011">2011Feb </option><option value="03-2011">2011Mar </option><option value="04-2011">2011Apr </option><option value="05-2011">2011May </option><option value="06-2011">2011Jun </option>
+
+                        </select>
+                        <a href="#" onclick="calDepartFBs.showCalendar('aa1',getDateStrings(document.Form_Haihang.DepMMYYHai,document.Form_Haihang.DepDDHai)); return false;" name="aa1" id="aa1" title="Calendar"><img src="../images/time.jpg" style="vertical-align: middle"></a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <p>
+                        Return Date:</p>
+                    <p>
+                        <select name="RetDDHai" style="width: 40px;" id="RetDDHai">
+
+                            <script type="text/javascript">
+                                var today = new Date("2010","11","27");
+                                for (i = 1; i < 32; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (i< 10) document.write("0");
+                                    document.write(i+"\"");
+                                    if(today.getDate()==i){document.write(" selected ");}
+                                    document.write(">");
+                                    document.write(i);
+                                    document.write("</option>");
+                                }
+                            </script><option value="01">1</option><option value="02">2</option><option value="03">3</option><option value="04">4</option><option value="05">5</option><option value="06">6</option><option value="07">7</option><option value="08">8</option><option value="09">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27" selected="">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+                        </select>
+                        <select name="RetMMYYHai" style="width: 85px;" id="RetMMYYHai">
+
+                            <script type="text/javascript">
+                                var monthArray = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+                                var today = new Date("2010","11","25");
+                                for (i = 0; i < 7; ++i)
+                                {
+                                    document.write("<option value=\"");
+                                    if (((today.getMonth() + i) % 12 + 1) < 10) document.write("0");
+                                    document.write((today.getMonth() + i) % 12 + 1);
+                                    document.write("-");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                    document.write("\">");
+                                    document.write(today.getFullYear() + parseInt((today.getMonth() + i) / 12, 10));
+                                    document.write(monthArray[(today.getMonth() + i) % 12]);
+                                    document.write(" ");
+                                    document.write("</option>");
+                                }
+                            </script><option value="12-2010">2010Dec </option><option value="01-2011">2011Jan </option><option value="02-2011">2011Feb </option><option value="03-2011">2011Mar </option><option value="04-2011">2011Apr </option><option value="05-2011">2011May </option><option value="06-2011">2011Jun </option>
+
+                        </select>
+                        <a href="#" onclick="var d=getDateStrings(document.Form_Haihang.RetMMYYHai,document.Form_Haihang.RetDDHai); calReturnFBs.showCalendar('aa2',(d==null)?getDateStrings(document.Form_Haihang.RetMMYYHai,document.Form_Haihang.RetDDHai):d); return false;" name="aa2" id="aa2" title="Calendar">
+                            <img src="../images/time.jpg" style="vertical-align: middle"></a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td width="33%" valign="top" style="padding-top: 5px;">
+                    Type:</td>
+                <td valign="top">
+                    <p>
+                        <input name="TRIP_TYPEHai" type="radio" id="TRIP_TYPEHai" value="R" checked="" onclick="enable_retDate();">
+                        <span class="hei1">Round Trip</span><br>
+                        <input type="radio" name="TRIP_TYPEHai" id="Radio5" value="O" onclick="disable_retDate();">
+                        <span class="hei1">One-way </span><br>
+                        <input type="radio" name="TRIP_TYPEHai" id="Radio4" value="O" onclick="javascript:window.open('http://global.hnair.com/multi.php')">
+                        <span class="hei1">Multi-Destination</span>
+                    </p>
+                </td>
+            </tr>
+            <tr style="display:none;">
+                <td>
+                </td>
+                <td>
+                    <a href="http://global.hnair.com/multi.php" target="_parent">Stopover/Multi-city</a></td>
+            </tr>
+            <tr>
+                <td>
+                    Class</td>
+                <td>
+                    <select name="CABINHai" style="width: 70px;" id="CABINHai">
+                        <option value="E" selected="">Economy</option>
+                        <option value="F">First</option>
+                        <option value="B">Business</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Adults&nbsp;
+                    <select name="ADTHai" class="AccorTabContent" id="ADTHai" onchange="setChildOptionsHai(this.options[this.selectedIndex].value, this.form);">
+                        <option value="1" selected="selected">1</option>
+                           <option value="2">2</option>
+                           <option value="3">3</option>
+                           <option value="4">4</option>
+                           <option value="5">5</option>
+                           <option value="6">6</option>
+                           <option value="7">7</option>
+                           <option value="8">8</option>
+                           <option value="9">9</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Children&nbsp;
+                    <select name="CHDHai" class="AccorTabContent" id="CHDHai">
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                       <option value="5">5</option>
+                       <option value="6">6</option>
+                    </select>
+                    &nbsp;(2-11 age)
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center" valign="bottom">
+                    <input type="button" class="btnbooknow" value="" onclick="return fltBookingFormValidates(document.getElementById('Form_Haihang'));">
+                &nbsp;</td>
+            </tr>
+        </tbody></table>
+    </form>
+
+    <!--fltSchedule-->
+    
+</div>
+<div class="undis" id="tbc_05">
+    <form method="post" name="searchForm" action="http://en.hx.travelsky.com/webcki/GetCussSeg.do" target="_parent">
+        <table class="boxtable" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td valign="bottom" colspan="2">
+                    Name:</td>
+            </tr>
+            <tr>
+                <td valign="top" colspan="2">
+                    <input type="text" name="passname" id="passname"></td>
+            </tr>
+            <tr>
+                <td valign="bottom" colspan="2">
+                    Input Type:</td>
+            </tr>
+            <tr>
+                <td valign="bottom" colspan="2">
+                    <select name="idtype" style="display: block">
+                        <option value="ETNO">Ticket No.</option>
+                        
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" valign="bottom">
+                    Input Number:</td>
+            </tr>
+            <tr>
+                <td colspan="2" valign="top">
+                    <input type="text" name="idno" id="idno">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Depart:</td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <select name="org" style="width: 145px; overflow: hidden;">
+                        <option value="HKG">Hong Kong Airport</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <br>
+                    <input type="hidden" name="orgid" value="HXUOAIR">
+                    <input type="hidden" name="language" value="en">
+                    <input name="mobileno" type="hidden" value="-">
+                    <input type="submit" value="" onclick="return check();" class="btn_booknowen1">
+                    <br>
+                    <br>
+                    <input type="button" value="" onclick="return gosearch();" class="btn_booknowen2">
+                </td>
+            </tr>
+        </tbody></table>
+    </form>
+</div>
+<!--FltStatus-->
+
+<script type="text/javascript">
+    var oSel=document.getElementById("strStartTime");
+    var oOption = document.createElement("option"); 
+    oOption.value = "2010-12-23";
+    oOption.text = "23-12-2010";
+    oSel.options.add(oOption);
+    var oOption = document.createElement("option"); 
+    oOption.value = "2010-12-24";
+    oOption.text = "24-12-2010";
+    oSel.options.add(oOption);
+    var oOption = document.createElement("option"); 
+    oOption.value = "2010-12-25";
+    oOption.text = "25-12-2010";
+    oSel.options.add(oOption);
+    
+</script>
+
+<!--fltSchedule-->
+
+<script type="text/javascript">
+    var oSel = document.getElementById("FltSchDepDD"); 
+    for (i = 1; i < 32; i++) {
+       var oOption = document.createElement("option"); 
+       oOption.value = i;
+       oOption.text = i;
+       oSel.options.add(oOption); 
+    }
+    oSel.value="24";
+    
+    var rSel = document.getElementById("FltSchRetDD"); 
+    for (i = 1; i < 32; i++) {
+       var oOption = document.createElement("option"); 
+       oOption.value = i;
+       oOption.text = i;
+       rSel.options.add(oOption); 
+    }
+    rSel.value="24";
+    
+</script>
+
+<!--在线值机-->
+
+<script type="text/javascript">
+    function check(){
+        var info=document.getElementById("passname");
+        if(info.value==""){
+            alert("Please enter the value of aircraft name!");
+            info.focus();
+            return false;
+        }
+        info=document.getElementById("idno");
+        if(info.value==""){
+            alert("Please enter the Input No.!");
+            info.focus();
+            return false;
+        }
+        return true;
+    }
+
+    function gosearch(){
+        var info=document.getElementById("passname");
+        if(info.value==""){
+            alert("Please enter the value of aircraft name!");
+            info.focus();
+            return false;
+        }
+        info=document.getElementById("idno");
+        if(info.value==""){
+            alert("Please enter the Input No.!");
+            info.focus();
+            return false;
+        }
+        
+        document.searchForm.action="http://en.hx.travelsky.com/webcki/CussQueryFront.do";
+        document.searchForm.submit();
+    }
+    
+</script>
+
+<!-- Agoda Start Search Box Scripts, place this just above or below the end body tag (</BODY>) -->
+<script type="text/javascript" src="http://ajaxsearch.partners.agoda.com/affiliates/js/agoda_search.js"></script>
+<script type="text/javascript">
+var so = new SrchObject();
+so.clientID('1440865');
+so.addParam('countryid','');
+so.addParam('usecal','true');
+so.addParam('hidehotel','true');
+so.setColor('text','#990000');
+//so.setColor('bg','#ffffff');
+//so.setColor('border','#000000');
+so.setColor('button_text','#ffff99');
+so.setColor('button_bg','#ed000d');
+so.useStyleSheet('http://www.hongkongairlines.com/css/HXagoda.css');
+so.addParam('headerlink','http://www.hongkongairlines.com/Agoda/agodaHeader_e.html');
+so.addParam('backlink','http://www.hongkongairlines.com/eng/');
+so.displaySearch('agoda_searchbox');
+</script>
+<!-- Agoda End Search Box Scripts -->
+
+
+
+ 
+</div>
+
+</div>
+</div>
+
+<!-- mleft two-->
+	<div class="lefttwo">
+			
+<script type="text/javascript" src="../js/cart.js"></script>
+<div style="position:relative;">
+                    <div style="position:absolute; top:48px; left:95px; z-index:9999;width:168px; height:108px; overflow:hidden;"><a href="../contact/world.aspx" style=" width:168px; height:108px; display:block;">
+                        <img src="../../tchi/images/touming.gif" width="168" height="108"></a>
+                        </div>
+                        <!-- live2support.com tracking codes starts -->
+                        <div id="l2s_trk" style="z-index: 99; visibility: hidden;">
+                            <a href="http://live2support.com" style="font-size: 1px;">Live Chat</a></div>
+                            
+                            
+                        <script type="text/javascript">
+                        
+                        if(getCookie("webArea")=="china")
+                        {
+                            <!--  
+
+var l2s_lang='572';
+ var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:';  var off2="http://www.hkairlines.com/web/scImages/HX_liveHelp_offline_CN_e.jpg"; var on2="http://www.hkairlines.com/web/scImages/HX_liveHelp_online_CN_e.jpg"; var dept="0"; function l2s_load() { document.write('<scr'+'ipt type="text/javascr'+'ipt" src ="'+unescape(l2s_pht)+'//sa.live2support.com/js/lsjs1.php?stid=14335&cmi=1"  defer=true>'+'</scr'+'ipt>');  } 
+
+ 
+
+l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //-->
+
+                        }
+                        else
+                        {//alert(getCookie("webArea"));
+                             <!--  
+var l2s_lang='572';
+ var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:'; function l2s_load() { document.write('<scr'+'ipt type="text/javaScr'+'ipt" src="'+unescape(l2s_pht)+'//sa.live2support.com/js/lsjs1.php?stid=14335"  defer=true>'+'</scr'+'ipt>');  } 
+
+ 
+
+l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; //-->
+
+                        }
+                        </script><script type="text/javaScript" src="https://sa.live2support.com/js/lsjs1.php?stid=14335" defer="true"></script>
+
+
+                        <!-- live2support.com tracking codes closed -->
+                    </div>
+                    <a href="http://www.facebook.com/HKAirlinesLtd">
+                            <img src="../../upfile/Images/20107/20100728120659.jpg" alt="join us on facebook"></a>
+		</div>
+<!-- mleft two-->
+
+</div>
+
+<!--mleft over-->
+
+<!--mright star-->
+<div class="mright">
+<form name="Form1" method="post" action="/eng/aboutUs/FAQ.aspx?MenuID=130409" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMDI1MTU1MDFkZLBlw4i1vgSENkF2MYOwviL0ExNk">
+
+<div class="curr">
+<div class="f_r"><img src="../images/curr_right.jpg"></div>
+<div class="currleft"><a href="../index.aspx">Home</a> &gt; Privacy </div>
+</div>
+<div class="cls"></div>
+
+<div class="mcon">
+<div class="rtop"></div>
+<!--content star -->
+<div class="rcontent">
+<div class="content">
+<div class="ban"><img src="../images/ban_feiji.jpg"></div>
+<div class="aboutcontent1">
+
+<style type="text/css">  
+<!--  
+.style2 {  
+    color: #FF0000;  
+    font-weight: bold;  
+}  
+-->  
+</style>
+
+<p><font face="Arial">Hong Kong Airlines Limited &amp; Hong Kong Express Airways Limited ("Our Company") respects the privacy of the information provided by users and will endeavor to ensure that proper protection is given to such information.<br>Our Company pledges to meet, and where possible exceed, internationally recognized standards of data privacy protection, in complying with the law of confidence and/or the requirements of the Personal Data (Privacy) Ordinance, whichever is applicable. In doing so, Our Company will ensure compliance by our staff with the strictest standards of security and confidentiality.</font></p>
+<p><br><font face="Arial"><span class="style2">Corporate/Personal Information :</span><br>When you use our web site, Our Company may request you to provide us with your corporate/personal data as may be required by Our Company from time to time.&nbsp; </font></p>
+<p><br><strong class="style2"><font face="Arial">Methods in Collecting Corporate/Personal Data :</font></strong></p>
+<ol>
+<li><font face="Arial">The input of figures for all calculations; </font>
+</li><li><font face="Arial">Enquiry forms and information provided by you in your enquiry; </font>
+</li><li><font face="Arial">Messages by you in our web site; </font>
+</li><li><font face="Arial">Questionnaire submitted by you; </font>
+</li><li><font face="Arial">The email between you and Our Company; </font>
+</li><li><font face="Arial">Your activity record of our website; </font>
+</li><li><font face="Arial">Cookies files to store and track your information without your notice; </font></li></ol>
+<p><font face="Arial">Any other means as reasonably accessible to Our Company from time to time.&nbsp; </font></p>
+<p><br><strong class="style2"><font face="Arial">Purposes for Collection of Corporate/Personal Data :</font></strong></p>
+<ol>
+<li><font face="Arial">To compile the general statistical database of our web site, for instance, number of browsers, time of visits, occupation and gender distribution of visitors and members.&nbsp; </font>
+</li><li><font face="Arial">The introduction or supply of suitable products and service in accordance with your interest and habits.&nbsp; </font>
+</li><li><font face="Arial">The delivery of products and service information requested by you.&nbsp; </font>
+</li><li><font face="Arial">The collection of identity documentation number for the purpose of verification.&nbsp; </font>
+</li><li><font face="Arial">To facilitate Our Company to verify and follow up any matters and questions (including but not limited to overdue payments) in respect of any account maintained by yourself with Our Company (and/or with any of Our Company's holding company, subsidiaries and associates). For this purpose, you hereby authorize Our Company to furnish, transfer and disclose all or any of your corporate/personal data to any party(ies) to follow up and settle the said matters and questions.&nbsp; </font>
+</li><li><font face="Arial">To facilitate the implementation of any activities or services to be co-organized by Our Company and our business partners.&nbsp; </font></li></ol>
+<p><font face="Arial">To facilitate Our Company to design and provide you with better and more tailored-made services and to facilitate Our Company to develop and promote the business of Our Company. </font></p>
+<p><br><strong class="style2"><font face="Arial">Guidelines for disclosure of Corporate/ Personal Data to Third Parties :</font></strong></p>
+<ol>
+<li><font face="Arial">The corporate/personal data collected by Our Company, Our Company's holding company, subsidiaries and associates would be exchanged when required to perform any of the aforesaid purposes for collection of corporate/personal data and other matters and arrangements which can facilitate the said performance;&nbsp; </font>
+</li><li><font face="Arial">The companies and contractors who provide services to Our Company may obtain corporate/personal data collected by Our Company to perform any of the aforesaid purposes for collection of corporate/personal data and other matters and arrangements which can facilitate the said performance. These data will only be protected by their own corporate/personal data (protection of privacy) rules. However, Our Company will use our best endeavor to keep the collected corporate/personal data confidential.&nbsp; </font>
+</li><li><font face="Arial">When you activate any link and access to websites operated by others from Our Company's website, any of your corporate/personal data released and/or obtained by others at the said other link and websites will not be under the protection of our Privacy Policy.&nbsp; </font>
+</li><li><font face="Arial">Clients' identifiable information will not be disclosed to our advertisers. But, Our Company will deliver notice and email to targeted advertising audience to provide statistical data of our web site to them.&nbsp; </font>
+</li><li><font face="Arial">In activities or services co-organized by Our Company and our business partners, shared information will include the corporate/personal records which are necessary for the implementation of such activities and services.&nbsp; </font></li></ol>
+<p><font face="Arial">To perform any of the aforesaid purposes for collection of corporate/personal data and other matters and arrangements which can facilitate the said performance and/or to facilitate any due diligence exercise in respect of any potential acquisition/merger transaction(s) involving Our Company, Our Company is entitled to furnish, transfer and disclose any of your corporate/personal data obtained as aforesaid to any person under a duty of confidentiality to Our Company. Our Company will use our best endeavor to keep the collected corporate/personal data confidential. </font></p>
+<p><br><font face="Arial"><strong class="style2">Other Information Collectors</strong><br>Except as otherwise stated, this Privacy Policy governs and addresses only the use and disclosure of the information we collect from you. As far as the information that you disclose to other parties, including but not limited to the advertisers, business partners and our strategic alliances on our system or other sites throughout the Internet, is concerned, different rules and policies shall apply to their respective use or disclosure of your information. To the extent that we use third party advertisers, they have their own privacy customs and policies. Since Our Company and/or its other related companies do not have control of the privacy policies of third parties, your information disclosed to them is subject to their privacy customs and policies. It is thus advisable for you to ensure that you understand the effect of the privacy customs and policies of other third parties before you disclose your corporate/personal information to them.<br>While we strive to protect your corporate/personal information, Our Company and/or its other related companies cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In addition, third party Internet sites and other third party's services accessible through our sites or other parties which are collecting data in connection with sweepstakes, promotions, etc., have separate and independent privacy and data collection practices. Under no circumstances should Our Company and/or its other related companies be held responsible and liable for these other and independent policies, actions and/or any loss, damages and claim that you may suffer in relation thereto. Please be careful and responsible whenever you are online.</font></p><font face="Arial">Our Company reserves the right to amend our Privacy Policy to enable your corporate/personal data to be fully protected. </font>
+</div>
+
+
+
+
+
+<!--about over-->
+</div>
+</div>
+<!--content over -->
+<div class="rbottom"></div>
+
+</div>
+
+</form> 
+</div>
+
+<!--mright over-->
+
+
+
+
+
+</div>
+
+<div class="cls"></div>
+
+<!--foot start-->
+<div class="foot">
+    
+<div class="fuzhu">
+<a href="../aboutUs/profile.aspx">About Us</a><a href="../aboutUs/mediaCenter.aspx">Media Center</a><a href="../aboutUs/contactUs.aspx">Contact Us</a><a href="../aboutUs/career.aspx">Career</a><a href="../aboutUs/FAQ.aspx?MenuID=130405">FAQs</a><a href="../aboutUs/FAQ.aspx?MenuID=130407">Site Map</a><a href="../aboutUs/FAQ.aspx?MenuID=130408">Disclaimer</a><a href="../aboutUs/FAQ.aspx?MenuID=130409">Privacy</a>
+   </div>
+<div class="copyright">
+    Copyright © Hong Kong Airlines Ltd&nbsp;<span style="display:none;"> powered by:<a href="http://www.toprand.com">www.toprand.com</a></span>
+  
+</div>
+<!--setCookie-->
+
+
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-5232511-1");
+
+pageTracker._trackPageview();
+
+</script>
+
+
+	
+</div>
+
+</div>
+		
+
+
+
+
+</body></html>
