@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114234103id_/http%3A//crowdflower.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224151955id_/http%3A//crowdflower.com/general/privacy) for the most accurate reproduction.*
 
 # CrowdFlower
-
-## Privacy Policy
 
 CrowdFlower knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the CrowdFlower site, you are accepting the practices described in this Privacy Notice.
 
@@ -18,7 +16,7 @@ The information we learn from users helps us personalize and continually improve
 
 **Information from Other Sources:** We might receive information about you from other sources and add it to our account information.
 
-### What About Cookies?
+## What About Cookies?
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of the CrowdFlower sites features, and in order to participate, you must leave them turned on.
 
@@ -36,13 +34,23 @@ Information about our users is an important part of our business, and we are not
 
 **Protection of CrowdFlower and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Participation Agreement and other agreements; or protect the rights, property, or safety of CrowdFlower, our users, or others. This includes (1) exchanging information with other companies and organizations for fraud protection and credit risk reduction; and (2) if you are a provider of a service on the CrowdFlower site, we will release your name and address only to requesters for whom you provide services so that those requestors can comply with tax and other legal obligations they might have. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
-### How Secure Is Information About Me?
+## How Secure Is Information About Me?
 
 We work to protect the security of your information during transmission by using Secure Socket Layer (SSL) software, which encrypts information you input.
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-### What Choices and Access Do I Have?
+## Affirmative Statement:
+
+CrowdFlower complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit https://www.export.gov/safehrbr/list.aspx
+
+## Dispute Resolution Mechanism
+
+CrowdFlower is committed to resolving our customers’ privacy concerns. Individuals should work directly with their assigned Account Managers and/or Service Delivery Managers to address concerns arising from CrowdFlower’s use of private information. If unable to address the issue via the assigned account team, individuals should contact CrowdFlower directly via e-mail at info@crowdflower.com stating the suspected misuse of information.
+
+For unresolved complaints involving its own human resources data, CrowdFlower has agreed to cooperate and comply with the EU Data Protection Authorities, as well as the Swiss Federal Data Protection and Information Commissioner. CrowdFlower has agreed to refer all other unresolved complaints to the American Arbitration Association.
+
+## What Choices and Access Do I Have?
 
 As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of the CrowdFlower site.
 
@@ -50,12 +58,15 @@ You can add or update certain information, such as your e-mail address or accoun
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use the CrowdFlower site if you do not use cookies.
 
-### Children
+## Children
 
 Use of the CrowdFlower site is limited to persons and entities that lawfully can enter into and form contracts under applicable law. It is not intended for use by minors.
 
-### Participation Agreement, Notices, and Revisions
+## Participation Agreement, Notices, and Revisions
 
 If you choose to visit CrowdFlower, your visit and any dispute over privacy is subject to this Privacy Notice and our Participation Agreement, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at CrowdFlower, please contact us with a thorough description, and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Participation Agreement will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of user information collected in the past without the consent of affected users.
+
+  
+
