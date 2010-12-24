@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214195344id_/http%3A//www.cooking.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224192129id_/http%3A//www.cooking.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -68,6 +68,9 @@ When you create a registry, customers can see your names, wedding date (month an
   
 
 * Upon completing your purchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent.
+  
+
+* We may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our web site. Further, we may share your personally identifiable information with third parties such as our co-marketing partners and others with whom we have marketing or other relationships. In some cases those participating sponsors and third parties may offer you products or services which may interest you. 
   
 
 * On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law to do so, or protect the rights, property, or safety of Cooking.com, our users, or others. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
