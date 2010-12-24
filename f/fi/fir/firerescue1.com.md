@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233608id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004144id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
