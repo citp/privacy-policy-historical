@@ -1,21 +1,12 @@
-> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616052036id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224124820id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.*
 
 # Shop in the US from India @ 20North - Millions of products, Thousands of brands
 
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described below. We view protection of users' privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process Your Information on computers located in the United States that are protected by physical as well as technological security devices.This Privacy Policy describes the manner in which your data is collected and used by 20North.com. You are advised to please read this Privacy Policy carefully. By accessing the services provided by 20North.com you agree to the collection and use of your data by 20North.com in the manner provided in this Privacy Policy. 
+
+**WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?  **
+
   
-20North Online Pvt Ltd and its subsidiaries and affiliates ("20North.com") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by 20North.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by 20North.com you agree to the collection and use of your data by 20North.com in the manner provided in this Privacy Policy. 
-
-**We want you to**
-
-  * feel comfortable using our web sites
-  * feel secure submitting information to us
-  * contact us with your questions or concerns about privacy on this site
-  * know that by using our sites you are consenting to the collection of certain data
-
-
-
-**WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**
-
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a
 
   * web server cookie stored on your hard drive
@@ -55,11 +46,7 @@ We will collect anonymous traffic information from you when you visit our site
 
 We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. 
 
-Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. 
-
 The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control. 
-
-We make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
 
 **HOW IS THE INFORMATION USED?**
 
