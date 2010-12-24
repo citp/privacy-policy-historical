@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsright.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232900id_/http%3A//www.hotelsright.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsright.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224075633id_/http%3A//www.hotelsright.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - www.hotelsright.com
 
