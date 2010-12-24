@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102021521id_/http%3A//oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224044743id_/http%3A//www.oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
 
 # oobgolf
 
@@ -81,8 +81,8 @@ oobgolf
 
 Attention:� Privacy Statement Personnel
 
-5084 Westbranch Hwy
+274 Commerce Park Drive
 
-Lewisburg, PA 17837
+Ridgeland, MS 39157
 
 oobgolf will use commercially reasonable efforts to promptly respond and resolve any problem or question.
