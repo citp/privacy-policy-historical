@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002018id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224201119id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
-# Achieve3000
+# Achieve3000 | Differentiated Instruction
 
 Achieve3000™ is committed to assuring the privacy of its subscribers and users. 
 
