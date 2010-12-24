@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianpeoplemeet.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327230130id_/http%3A//www.asianpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianpeoplemeet.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224193550id_/http%3A//www.asianpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # AsianPeopleMeet.com - Privacy Policy
 
