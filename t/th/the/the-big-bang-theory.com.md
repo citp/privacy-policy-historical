@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-big-bang-theory.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151109id_/http%3A//the-big-bang-theory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-big-bang-theory.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224081008id_/http%3A//the-big-bang-theory.com/privacy) for the most accurate reproduction.*
 
 # The Big Bang Theory Privacy Policy
 
@@ -6,25 +6,17 @@
 
 What we collect:
 
-The Big Bang Theory Site, like most sites, collects log files. These log files hold **non-personal information** such as:
+The Big Bang Theory Site, like most sites, collects log files of visitors' activity. These log files hold **non-personal information** such as: your IP address, which browser or operating system you're using, any plug-ins (such as Flash Player) your browser uses, and which pages or files you view on the site.
 
--IP Address.  
--Technical Information: Your browser, operating system, screen resolution, Javascript settings, Flash settings.   
--Geo-location data, such as the country & region from which you visit. This does not reveal your precise location and in many instances is not accurate below national level.  
--List of all requests made to server for pages, multimedia & other files. Other analytic data may also be collected, such as the length of your stay on the site and whether you have previously visited the site before.
+Geo-location data from your IP address is also collected. This is usually your country and city, although in most cases is only accurate to a state/county level. This information does not reveal your exact location to us.
 
-The Big Bang Theory Site, like many sites with forums, will collect the following **potentially personal information** if you provide it to us. If you do not register on our forums or use the comment or contact system then your data won't be collected.
-
--User name. This may be a pseudonym or your real name.   
--E-mail Address. The forums require an accurate e-mail address.   
--Age. An accurate age is required.  
--Optional information such as interests or location is taken for the purposes of forum profiles. This information is shown publicly, it can be modified or retracted at any time.
+The Big Bang Theory Site, like many sites with interactive areas, will collect **potentially personal information** if you provide it to us. This data is only collected by you filling out a form in our forums, contact system or other interactive areas. This data may include a username, your e-mail address or your password (encrypted and secured to industry standards). Interactive areas of the site, such as contests, may provide additional information in their own privacy policy.
 
 What we do with it:
 
-Log files are used to analyze traffic to this website, the logs helps us detect problems and learn more about how people use the site. The information in our log files, which is not personal information, is shared with a few select companies.
+Log files are used to analyze traffic to this website. The information in our log files, which is not personal information, is shared with a few select companies.
 
-Personal information, such as your e-mail address, is not shared with anybody outside of this site. You may, in the process of using this site, provide your information to third parties acting on our behalf. In all instances it will be made clear who is operating the service, their specific privacy policies should be consulted.
+Personal information, such as your e-mail address, is not shared with anybody outside of this site. You may, in the process of using this site, provide your information to third parties acting on our behalf. In all instances it will be made clear who is operating the service should you wish to consult their privacy policies.
 
 Who we share it with:
 
@@ -32,22 +24,22 @@ We share the anonymous data with ValueClick Media, Google Analytics, Google Adse
 
 You can [**opt-out of behavioral advertising at the Network Advertising Initiative website**](http://www.networkadvertising.org/managing/opt_out.asp). This will stop behavioral advertisement targeting by Google, ValueClick Media, Quantcast & other publishers. You may also [opt-out of Google's program on their website](http://www.google.com/ads/preferences/view).
 
-We do not share personal information with anybody outside of this website, except when required to by law.
+We do not share personal information with anybody outside of this website, except when required to by law or where it is expressly noted.
 
 Where the data is held:
 
-All data submitted to this site is held on our server in the United States of America. Backups and copies of this data may exist elsewhere in other competent jurisdictions, the utmost care is taken with the data at all times.
+All data submitted to this site is held on our server in the United States of America. Backups and copies of this data may exist elsewhere in other competent jurisdictions.
 
  **By using this site you consent for your data to be stored & processed in the United States of America, where the data protection laws may offer lesser protection than the laws of your country.**  
  ****
 
 How long it's held for:
 
-We aim to delete anonymous log files within 6 months, although log files may be kept for a longer period. Information you submit to our forums or comment system (such as posts & comments) is not routinely deleted unless you specifically request it be. Requests can usually be made through the forum system, in cases where you are unable to delete your personal data then you will be required to contact us for removal. Submissions you make to the site may be anonymized, under request, as opposed to being removed from the site.
+We aim to delete anonymous log files within 6 months. Information you submit to our forums or comment system (such as posts & comments) is not routinely deleted unless you specifically request it be. Requests can usually be made through the forum system. In cases where you are unable to delete your data then you will be required to contact us for removal. Submissions you make to the site may be anonymized, under request, as opposed to being removed from the site.
 
 The use of cookies:
 
-This site uses 'cookies' for a number of purposes. We have "anonymous" cookies which are used by the website script to hold non-personal information. Examples of non-personal cookies are: which country you are visiting from, so we can serve local content; whether you've visited before, whether you've voted on a poll or commented on a story. Our forums also have cookies, these are not anonymous cookies as they are used to keep your username logged in.
+This site uses 'cookies' for a number of purposes. We have "anonymous" cookies which are used by the website script to hold non-personal information. Examples of non-personal cookies are: which country you are visiting from, so we can serve local content; whether you've visited before; whether you've voted on a poll or commented on a story. Our forums also use cookies to keep your username logged in or remember which threads you have read.
 
 Companies who provide services for us may place cookies on your computer also. These cookies track viewing behaviour across this site and, potentially, other sites in their network for the purposes of advertising or statistic gathering. The information they collect through, or on behalf of, this website, is not personally identifiable. You should consult their relevant privacy policies for more information.  
 
