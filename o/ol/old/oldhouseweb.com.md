@@ -1,74 +1,104 @@
-> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427053841id_/http%3A//www.oldhouseweb.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225000437id_/http%3A//www.oldhouseweb.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy policy
 
 _We strive to protect your personal privacy. Here are the policies we follow._
 
-Thank you for visiting The Old House Web. Your privacy is important to us. Wewill endeavor to respect and protect it.
+**Silverlode Holdings**
 
-To better protect your privacy, we provide this notice explaining our onlineinformation practices and the choices you can make about the way yourinformation is collected and used at this site.
+**Company Practices Regarding Your Privacy**
 
-Please read this privacy policy carefully so that you understand our privacypractices regarding:
+We at Silverlode Holdings and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
-  * Children under 13;
-  * Information we collect;
-  * How we use the information;
-  * Opt-out options.
+Silverlode Holdings has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of Silverlode Holdings regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that Silverlode Holdings does not own or control, or to people that Silverlode Holdings does not employ.
+
+**Your California Privacy Rights**
+
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
+
+If you are a California resident you may request this information from Silverlode Holdings or any of its affiliates by writing to us via email at info@slholdings.com or you may send us correspondence at the following address: Silverlode Holdings, Attn: Privacy, 59 Damonte Ranch Pwky, Suite B232, Reno, NV 89521. Silverlode Holdings is not obligated to respond to more than one such request from a customer per calendar year.
+
+**Information Collected by** **Silverlode Holdings**
+
+**Non-Personally Identifiable Consumer Information**
+
+Silverlode Holdings collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the Silverlode Holdings site, the pages of the site you visited and the URL of the page you visited upon leaving the site.
+
+Silverlode Holdings may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information.
+
+**Personally Identifiable Consumer Information**
+
+In addition, at some of the Silverlode Holdings web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
+
+**How Collected Information is Used**
+
+The non-personally identifiable information that Silverlode Holdings collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
+
+If you elect to provide Silverlode Holdings with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from Silverlode Holdings and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other Silverlode Holdings sales and marketing efforts.
+
+**Sharing Information with Third Parties**
+
+All personally identifiable information you provide is maintained in confidence by Silverlode Holdings. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
+
+Your non-personally identifiable data may be shared with third-party partners of Silverlode Holdings on an anonymous basis.
+
+When you request information from Silverlode Holdings or one or more of our clients, we may transfer that information within Silverlode Holdings or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.
+
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that Silverlode Holdings is very careful in selecting companies with whom it does business.
+
+In addition to the above situations where your information may be shared with others, there is also the possibility that Silverlode Holdings, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
+
+Finally, Silverlode Holdings may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
+
+**Security**
+
+Wherever your personally identifiable information may be held within Silverlode Holdings or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while Silverlode Holdings will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
+
+**Choice**
+
+**Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out**
+
+Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting Silverlode Holdings web sites.
+
+**Personally Identifiable Consumer Information - Opting-Out**
+
+You may choose whether or not to provide personally identifiable information to Silverlode Holdings. If you choose to provide such information to Silverlode Holdings, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at info@slholdings.com and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+
+**Access/Accuracy**
+
+To the extent that you do provide us with personally identifiable information, Silverlode Holdings wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting Silverlode Holdings should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to info@slholdings.com and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
+
+**Children's Privacy**
+
+In compliance with the Children's Online Privacy Protection Act (COPPA), Silverlode Holdings.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
+
+**Refer a Friend**
+
+Some of Silverlode Holdings's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a Silverlode Holdings site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Silverlode Holdings stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at info@slholdings.com to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
+
+**Commitment**
+
+Protecting your privacy online is an evolving area, and Silverlode Holdings's web sites are constantly changing to meet these demands.
+
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at info@slholdings.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
+
+**Your Consent**
+
+By using this web site, you consent to the terms of our Online Privacy Policy and to Silverlode Holdings's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.
+
+**Contacting Us**
+
+For more information, or if you have questions or concerns regarding Silverlode Holdings's Privacy Policy, you may email us at info@slholdings.com or you can send correspondence to the following address:
+
+            Privacy 
+
+            Silverlode Holdings
+
+            59 Damonte Ranch Pkwy, Suite B232, Reno, NV 89521  
 
 
-
-**Children under 13**
-
-The Old House Web cares about the safety of children. Children should alwaysget permission from their parents before sending any information aboutthemselves (such as their names, email addresses, and phone numbers) over theInternet, to us or to anyone else. Kids under 13 are not allowed to registerwith our website or to participate in public posting areas on our sites. Wewon't knowingly allow anyone under 13 to provide us any personally identifyinginformation.
-
-**Information we collect**
-
-The information we gather on our site falls into two categories:
-
-  * Personally identifying information (such as your name, mailing address and email address) you supply when you initiate transactions, register to receive catalogs or newsletters, or use our bulletin boards; and
-  * Anonymous tracking information we collect as you navigate through our site.
-
-
-
-Additionally, third-party providers featured on or linked to by our website-- such as vendors of products and services offered through our site -- maygather the same kinds of information.
-
-**How we use the information we collect**
-
-We use the personally identifiable information you provide about yourself tofulfill your requests for our products, programs, and services; to respond toyour inquiries; to send you e-mail newsletters you have requested; and to offeryou other products or services that we believe may be of interest to you.
-
-In general, it is our policy not to share your e-mail address or any phonenumbers you may provide us with any third-party organizations. We do not shareour e-mail mailing list with third parties.
-
-Please note, however, that our site also includes links to other websites,and we provide access to products and services offered by third parties. Weshare with these third parties such information as is necessary to provide theproducts or services. We will not provide your email address to such thirdparties unless it's necessary to provide services you have requested, or toallow you to participate in a co-sponsored promotion. For example, we willprovide your name and e-mail address to a marketing partner from which you'repurchasing goods or services, or from which you are requesting a catalog.
-
-We also provide links to other websites, and provide access to products andservices offered by third parties, whose privacy policies we don't control. Theprivacy policies of these third party sites may differ from ours. If you can'tfind the privacy policy of any of our provider partners through a link eitherfrom the site's homepage or from the pages on which the products or services areoffered, you should contact the provider directly for more information.
-
-In addition, we may share your name and mailing address (but not your e-mailaddress or phone number) with other companies that offer marketing informationor products that we think will be of interest to you.
-
-If you do not wish toreceive such mailings, please tell us by sending an e-mail to this address: [optout@oldhouseweb.com](mailto:optout@oldhouseweb.com?Subject=).Please include your name and complete mailing address so we can remove you fromour databases. Additionally, you will find further opt-out instructions below inthis privacy policy.
-
-Like most Internet sites, we track the total number of visitors usingdifferent sections and pages on our Web site. Occasionally we also invite ourusers to anonymously share certain personal information about themselves -- suchas their age, income levels, hobbies and the like. In both cases, we aggregatethis information and use it to gain a better understanding of our users'interests, and to improve the quality of our sites. We also share this aggregateinformation with advertisers, to help them gain a better understanding of thedemographics of our audience.
-
-Users also should be aware when they voluntarily disclose personallyidentifiable information (e.g., user name, e-mail address) on The Old HouseWeb's bulletin boards, that this information can be collected and used by thirdparties. This may result in unsolicited messages from other posters or thirdparties. Such activities are beyond our control.
-
-**Opt-out information**
-
-If you no longer wish to receive our e-mail newsletters you can either followthe "unsubscribe" link at the bottom of each of our newsletters orsend us an e-mail to [optout@oldhouseweb.com](mailto:optout@oldhouseweb.com?Subject=).Please include the words "Unsubscribe from Newsletter" in the subjectline to help us handle your request as quickly as possible.
-
-If you have shared your name and postal mailing address with us -- but do notwish to receive future mailings from us or our marketing partners in the future -- pleasetell us. We will remove your name from our files.
-
-To do so:
-
-  * Send an e-mail to this address: [optout@oldhouseweb.com](mailto:optout@oldhouseweb.com?Subject=). Please include your name and complete mailing address so we can remove you from our databases;
-  * Or send us a letter to this address: The Old House Web, 59 Damonte Ranch Pkwy Suite B232, Reno, NV 89521. Please include your name and complete mailing address so we can remove you from our databases.
-
-
-
-You also can use the above addresses should you have any questions about ourprivacy policy.
-
-**Conclusion**
-
-The Internet is an evolving medium. If we need to change our Privacy Policyat some point in the future, we'll post the changes here. And while the abovestatements and policies do not create any contractual or other legal rights inor on behalf of any party, the staff at The Old House Web wishes to reiterateour opening statement:
-
-Your right to personal privacy is important to us. We will endeavor torespect it.
-
-**_ This File Updated: Feb. 2, 2007_**
+Date:  July 20, 2009
