@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610075542id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224132813id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Belkin : Privacy Statement
 
-**BELKIN INTERNATIONAL, INC.**
-
-**Belkin.com Security and Privacy Statement**
+### BELKIN INTERNATIONAL, INC.  
+Belkin.com Security and Privacy Statement
 
 At belkin.com we protect your credit card information and privacy by using SSL (Secure Socket Layer) technology (the industry standard security protocol), hosting our site on secure servers, and maintaining Secure Site status from VeriSign, the security industry leader.
 
@@ -23,5 +22,3 @@ You may receive periodic emails or postal mailings from us with information on n
 **Links To Other Sites**
 
 Belkin.com contains links to other sites. We are not responsible for the privacy practices or the content of such sites.
-
-©2010 Belkin International, Inc. 
