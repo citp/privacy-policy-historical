@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the portlandgeneral.com privacy policy that was archived on 2010-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100407023046id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the portlandgeneral.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224211417id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
 	Portland General Electric: Privacy Policy and Security | PGE
@@ -16,7 +16,29 @@
 		var pageTracker = _gat._getTracker("UA-2258651-2");
 		pageTracker._initData();
 		pageTracker._trackPageview();
+		
+		var TLSessionizationName ="SITESERVER";
+        var TLSessionizationValue=TLGetCookie(TLSessionizationName);
+       pageTracker._setVar("TLSessID/" + TLSessionizationValue);
 	}
+	
+	 <!--
+    // Begin example Tealeaf integration
+    // Function retrieves the specified cookie value used for identifying unique
+    // customer sessions.
+    function TLGetCookie(c_name) {
+        if (document.cookie.length > 0) {
+            c_start = document.cookie.indexOf(c_name + "=");
+            if (c_start != -1) {
+                c_start = c_start + c_name.length + 1;
+                c_end = document.cookie.indexOf(";", c_start);
+                if (c_end == -1) c_end = document.cookie.length;
+                return unescape(document.cookie.substring(c_start, c_end));
+            }
+        }
+        return "";
+    }
+   -->
 </script>
     
     <!-- META TAGS -->
@@ -27,7 +49,7 @@
 <body>
     <form name="aspnetForm" method="post" action="privacy_policy.aspx" id="aspnetForm">
 <input type="hidden" name="ispostback" id="ispostback" value="false">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjkzODcwNjcwD2QWAmYPZBYCZg9kFgICAw9kFgYCAQ9kFgZmD2QWBAIBDw9kFgIeCm9ua2V5cHJlc3MFJHJldHVybiBjaGVja0ZvckdvQnV0dG9uRW50ZXIoZXZlbnQpO2QCAw8PFgIeCEltYWdlVXJsBR0vR2xvYmFsL0ltYWdlcy9hcnJvd19ncmV5LmdpZmRkAgEPDxYCHwEFHS9HbG9iYWwvSW1hZ2VzL2Fycm93X2dyZXkuZ2lmZGQCAg8WAh4EVGV4dAVtPGEgaHJlZj0naHR0cDovL3d3dy5wb3J0bGFuZGdlbmVyYWwuY29tL2ludGVyc3RpdGlhbC5hc3B4JyBjbGFzcz0ndXRpbGl0eV9zaWduaW4nIHRpdGxlPSdTaWduIEluJz5TaWduIEluPC9hPmQCAw9kFgICAw8WAh4PU2l0ZU1hcFByb3ZpZGVyBQ1Ub3BOYXZpZ2F0aW9uZAILDw8WAh8CBSlDU1dlYiBWZXJzaW9uOiA1LjAuMCBTZXJ2ZXI6IFdQMldUQ0lOVFdFQmRkZJp9u3uQnSUw/9ygKNAYTBHHGXzz">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjkzODcwNjcwD2QWAmYPZBYCZg9kFgICAw9kFgYCAQ9kFgZmD2QWBAIBDw9kFgIeCm9ua2V5cHJlc3MFJHJldHVybiBjaGVja0ZvckdvQnV0dG9uRW50ZXIoZXZlbnQpO2QCAw8PFgIeCEltYWdlVXJsBR0vR2xvYmFsL0ltYWdlcy9hcnJvd19ncmV5LmdpZmRkAgEPDxYCHwEFHS9HbG9iYWwvSW1hZ2VzL2Fycm93X2dyZXkuZ2lmZGQCAg8WAh4EVGV4dAVtPGEgaHJlZj0naHR0cDovL3d3dy5wb3J0bGFuZGdlbmVyYWwuY29tL2ludGVyc3RpdGlhbC5hc3B4JyBjbGFzcz0ndXRpbGl0eV9zaWduaW4nIHRpdGxlPSdTaWduIEluJz5TaWduIEluPC9hPmQCAw9kFgICAw8WAh4PU2l0ZU1hcFByb3ZpZGVyBQ1Ub3BOYXZpZ2F0aW9uZAILDw8WAh8CBSNDU1dlYiBWZXJzaW9uOiA1LjAuMCBTZXJ2ZXI6IFdQMVdUQ2RkZA8BhW+ZlcLKoUDhNPqgSLdDt7BS">
 
 
 <script src="/Global/Scripts/jscss.js" type="text/javascript"></script>
@@ -46,6 +68,7 @@
             }//]]>
 </script>
 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKn2cqGDgLeuKKJAwK8zLK7C5IE0otTo668I21kijQM5lES1TTP">
         
         
         <a id="top" name="top"></a>
@@ -323,14 +346,12 @@
 
     <!-- Communications from the site -->
     <a id="communications"></a>
-	<p><span class="global_subhead">Communications from the site</span><br>
-	<span class="global_body_highlighted">Online account e-mails:</span> New customers who prefer to receive communications from PGE by e-mail receive a welcome e-mail.</p>
+	<p><span class="global_subhead">E-mail communications to customers</span><br>
+	<span class="global_body_highlighted">Online account e-mails:</span> We send registered customers e-mails related to their PGE electric service and their online account. These may include welcome messages, online transaction confirmations, customer service notices and messages required by the Oregon Public Utility Commission. Generally, customers may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.</p>
     
-    <p>We send registered customers e-mails related to their PGE electric service and their online account. These may include welcome messages, online transaction confirmations, changes in PGE prices or services and messages required by the Oregon Public Utility Commission. Generally, customers may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account.</p>
-
-	<p><span class="global_body_highlighted">Other e-mail communications:</span> By registering for a PGE online account, you agree to receive the following types of e-mail communications: a monthly newsletter, alerts, surveys and occasional promotions such as energy savings offers. You may opt-out of specific types of e-mail communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?”</p>
+	<p><span class="global_body_highlighted">Other e-mail communications:</span> By establishing service online or by registering for a PGE online account, you agree to receive the following types of e-mail communications: newsletters and occasional e-mails related to your PGE service, including information on energy efficiency, safety and outages, surveys and promotions such as energy-saving offers. You may opt out of specific types of e-mail communications at any time using the link provided in each e-mail: “Manage Your Subscriptions/Unsubscribe.”</p>
     
-    <p>Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?”</p>
+    <p>Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Manage Your Subscriptions/Unsubscribe.”</p>
 
 	<span class="global_float_right global_annotate"><a href="#top" title="Back to top">Back to top</a></span><br><br>
 
@@ -402,7 +423,7 @@
     <!-- Notification of changes -->
 	<a id="notification"></a>
 	<p><span class="global_subhead">Notification of changes</span><br>
-	The privacy policy was effective as of Jan. 10, 2003, and last updated Oct. 6, 2009. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.</p>
+	The privacy policy was effective as of Jan. 10, 2003, and last updated Dec. 20, 2010. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.</p>
 	
     <span class="global_float_right global_annotate"><a href="#top" title="Back to top">Back to top</a></span><br><br>
 	
@@ -419,6 +440,11 @@
 
 <ul class="gmaster_footer">
     <li class="spacer">&nbsp;</li>
+    
+    <li>
+        <a id="ctl00_ctl00_FN_MobileLinkButton" class="textLinkColor footerLink" href="javascript:__doPostBack('ctl00$ctl00$FN$MobileLinkButton','')">Mobile</a>
+        </li>
+    
     <li>
         <a id="ctl00_ctl00_FN_hlFooterContactUs" title="Contact Us" class="textLinkColor footerLink" href="http://www.portlandgeneral.com/contact_us/default.aspx">Contact Us</a>
     </li>
@@ -444,9 +470,8 @@
         <a id="ctl00_ctl00_FN_hlOffice" title="visit our offices" class="textLinkColor footerLink" href="http://www.portlandgeneral.com/contact_us/customer_service_locations.aspx">visit our offices</a>. </li>
 </ul>
 
-        <span id="ctl00_ctl00_currentVersionLabel"><font color="White" size="3">CSWeb Version: 5.0.0 Server: WP2WTCINTWEB</font></span>
-    
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKkgK7JCgLeuKKJAyZyyLNF68s5vyTszrgn+e9ol/8G"></form>
+        <span id="ctl00_ctl00_currentVersionLabel"><font color="White" size="3">CSWeb Version: 5.0.0 Server: WP1WTC</font></span>
+    </form>
 
 
 </body></html>
