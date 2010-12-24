@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504010743id_/http%3A//www.123inkcartridges.ca/123inkcartridges2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkcartridges.ca privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224033344id_/http%3A//www.123inkcartridges.ca/123inkcartridges2/privacy-policy) for the most accurate reproduction.*
 
-# Ink & Toner Cartridges Canada | 123InkCartridges.ca | 123CartoucheDEncre.ca
+# Printer Ink & Toner Cartridges, Office Supplies, Computers and Accessories | 123InkCartridges.ca Canada
 
 **1\. Objective & Scope of Privacy Policy**
 
@@ -15,10 +15,9 @@ This Policy does not cover aggregated data from which the identity of an individ
 In the event of questions about: (i) access to your Personal Information; (ii) 123InkCartridges.ca’s collection, use, management or disclosure of Personal Information; or (iii) this Policy; please contact us:
 
 123 Ink Cartridges Canada  
-1751 rue Richardson Suite 6507  
-Montreal, Quebec H3K 1G6, Canada  
-Toll Free: 1-866-979-7463  
-email: services@123inkcartridges.ca
+7365 Rue Chouinard  
+LaSalle, Quebec H8N 2L6, Canada  
+Toll Free: 1-866-979-7463
 
 **2\. The Collection, Use & Disclosure of Personal Information**
 
