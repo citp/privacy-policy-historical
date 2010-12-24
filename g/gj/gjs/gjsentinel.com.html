@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gjsentinel.com privacy policy that was archived on 2010-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624010420id_/http%3A//www.gjsentinel.com/help/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gjsentinel.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224081506id_/http%3A//www.gjsentinel.com/help/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,170 +22,151 @@
 	<meta name="DC.subject" content="Grand Junction Colorado breaking news photography business events sports high school real estate">
 	<meta name="DC.description" content="Breaking news, sports, entertainment, classifieds, real estate and more for Grand Junction, Colorado and the Western Slope.">
 	<meta name="DC.publisher" content="GJSentinel.com/The Grand Junction Daily Sentinel">
-	<meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2010-06-24T01:04:20-0600">
-	<meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2010-06-24T01:04:20-0600">
-	<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-06-30T03:04:20-0600">
+	<meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2010-12-24T08:15:06-0700">
+	<meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2010-12-24T08:15:06-0700">
+	<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-12-30T10:15:06-0700">
 	<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
 	<meta name="DC.rights" scheme="DCTERMS.URI" content="The Grand Junction Daily Sentinel">
 	<meta name="DC.format" content="text/html">
 	<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.gjsentinel.com/help/privacy_policy/">
 	
 		
-	<link rel="stylesheet" href="http://cdn.grandjunctionmedia.com/css/blueprint/screen-compressed.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="https://gjsentinel.s3.amazonaws.com/css/blueprint/screen-compressed.css" type="text/css" media="screen">
 	<!--[if lt IE 8]>
-	<link rel="stylesheet" href="http://cdn.grandjunctionmedia.com/css/blueprint/ie.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="https://gjsentinel.s3.amazonaws.com/css/blueprint/ie.css" type="text/css" media="screen" />
 	<![endif]-->
-	<link rel="stylesheet" href="http://www.gjsentinel.com/styles/site_css-20100507" type="text/css" media="screen">
+	
+	<link rel="stylesheet" href="https://www.gjsentinel.com/styles/site_css" type="text/css" media="screen">
+	
+	<script src="https://gjsentinel.s3.amazonaws.com/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+	<script src="https://gjsentinel.s3.amazonaws.com/js/jquery.dropline-1.1-20100621.js" type="text/javascript"></script>
 	
 	
-	<script src="http://cdn.grandjunctionmedia.com/js/jquery-1.4.2.min.js" type="text/javascript"></script>
-	<script src="http://cdn.grandjunctionmedia.com/js/jquery.dropline-1.1-20100621.js" type="text/javascript"></script>
-
+	<script type="text/javascript">
+	<!--
+	$(document).ready(function() {
+		
+		// DROP MENUS
+		$('.drop-menu').each(function() {
+			$(this).mouseover(function() {
+				$("ul", $(this)).show();
+			}).mouseout(function() {
+				$("ul", $(this)).hide();
+			});
+		});
+		
+		// SEARCH DROP DOWN
+		$("#search-where a").each(function() {
+			$(this).click(function(e) {
+				var currentVal = $('.simple-search form:visible:eq(0) input.search-keywords').val();
+				var $this = this;
+				var showSearch = $($this).attr('href');
+				
+				$("#search-where a").each(function() {
+					var hideSearch = $(this).attr('href');
+					$(hideSearch+' input.search-keywords').val(currentVal);
+					$(hideSearch).hide();
+					$(this).removeClass('selected');
+				});
+				
+				$(showSearch).show();
+				$($this).addClass('selected');
+				e.preventDefault();
+			});
+		});
+	});
+	//-->
+	</script>
 	
 </head>
 <body>
 <!-- CONTAINER -->
-<div class="container howgrid">
+<div class="container">
 
-<!-- HELP -->
-<div id="help-menu" class="span-24">
-	<div class="span-6 border">
-		<div class="help-nav">
-			<strong>Website</strong>
-			<hr style="margin-bottom: 0">
-			<ul>
-				<li><a href="http://www.gjsentinel.com/help/web_comments/">Comments, suggestions</a></li>
-				<li><a href="http://www.gjsentinel.com/help/broken_link/">Report a broken link</a></li>
-			</ul>
-			<br>
-			
-			<strong>Circulation</strong>
-			<hr style="margin: 0">
-			<ul style="padding: none; margin: none;">
-				<li><a href="http://www.gjsentinel.com/help/circulation/">Vacation stop, delivery issues</a></li>
-				<li><a href="http://www.gjsentinel.com/help/circulation/">Change of address</a></li>
-			</ul>
-		</div>
+<!-- UTILITES -->
+<div class="span-24 util">
+	<div class="span-12">
+		<ul>
+			<li><a class="first" href="http://www.gjsentinel.com/customer_care/">Customer Care</a></li>
+			<li class="drop-menu"><a href="">Contact Us</a>
+				<ul class="contact" style="display: none; margin-top: -1px;">
+					<li class="list-header">Circulation</li>
+					<li><a href="http://www.gjsentinel.com/customer_care/redeliver">Redeliver Paper</a></li>
+					<li><a href="http://www.gjsentinel.com/customer_care/vacation_hold" }"="">Vacation Hold</a></li>
+					<li class="list-header">Newsroom</li>
+					<li><a href="http://www.gjsentinel.com/news/correction">Corrections</a></li>
+					<li><a href="http://www.gjsentinel.com/news/news_tip">News Tip</a></li>
+					<li><a href="http://www.gjsentinel.com/opinion/submit_letter">Letters to the Editor</a></li>
+					<li><a href="http://www.gjsentinel.com/opinion/submit_you_said_it">You Said It</a></li>
+				</ul>
+			</li>
+			<li><a href="http://secure.adpay.com/adwizard_login.aspx?a=4A493479796665445438496332796C765371754C76686D423761445853396E4B505A314A6E464B68702F496B666B526B654B65423355595978526264477A6E55">Place an Ad</a></li>
+						<li><a href="https://www.gjsentinel.com/subscribe">Subscribe</a></li>
+			<li><a href="https://www.gjsentinel.com/subscribe/todays_edition"><img style="padding: 2px 0 0 0; margin: -4px 0 -2px 0; border: 0;" src="https://gjsentinel.s3.amazonaws.com/images/newspaper_14.png" align="top"> Get Today's Edition</a></li>
+					</ul>
 	</div>
-	
-	<div class="span-6 border">
-		<div class="help-nav">
-			<strong>Editorial</strong>
-			<hr style="margin-bottom: 0">
-			<ul>
-				<li><a href="http://www.gjsentinel.com/help/corrections">Report a correction</a></li>
-				<li><a href="http://www.gjsentinel.com/help/letters_to_the_editor">Submit a letter to the Editor</a></li>
-				<li><a href="http://www.gjsentinel.com/help/news_tip">Send us a news tips</a></li>
-			</ul>
-		</div>
+	<div class="span-6">
+				<ul>
+			<li><a style="border-left: 1px solid #E7DED6; background-color: #3f7826; color: #FFF;" href="https://www.gjsentinel.com/subscribe/current_subscribers">Subscriber Account Activation</a></li>
+		</ul>
+				
 	</div>
-	
-	<div class="span-6 border">
-		<div class="help-nav">
-			<strong>Advertisers</strong>
-			<hr style="margin-bottom: 0">
-			<ul>
-				<li><a href="http://ai.presteligence.com/AI4/SignIn.aspx">Your Account</a></li>
-				<li><a href="http://gjsentinel.com/media_kit">Advertising information</a></li>
-			</ul>
-			<br>
-			
-			<strong>Classifieds</strong>
-			<hr style="margin: 0">
-			<ul style="padding: none; margin: none;">
-				<li><a href="http://secure.adpay.com/PlaceAd.aspx?procid=6835ca53-e317-4ea2-a525-8ca841b47831">Place an ad</a></li>
-			</ul>
-		</div>
-	</div>
-	
-	<div class="span-6 last">
-		<div class="help-nav">
-			<strong>Contact</strong>
-			<hr style="margin-bottom: 0">
-			<ul>
-				<li style="list-style-type: none;">
-				<strong>The Daily Sentinel</strong><br>
-				734 S. 7th St.<br>
-				Grand Junction, CO 81501<br>
-				970-242-5050<br>
-				1-800-332-5832
-				</li>
-				<li><a href="http://www.gjsentinel.com/help/contact">Staff Directory</a></li>
-			</ul>
-		</div>
-	</div>
+	<div class="span-6 last account">
+		<ul>
+		
+					<li><a href="http://www.gjsentinel.com/members/login">Login</a></li>
+			<li><a class="last" href="http://www.gjsentinel.com/members/register">Register</a></li>
+				</ul>
+	</div>	
 </div>
-
-<div class="span-24">
-	<div class="span-8">
-		<span id="help" class="help-tab">Help/Contact</span>
-	</div>
-	<div class="span-8">
-		<div style="text-align: center;" class="utilites">
-			<small><strong><a href="http://www.mynewsonthego.com/gjsentinel/">E-edition</a></strong></small>
-		</div>
-	</div>
-	<div class="span-8 last">
-		<div class="members utilites">
-			<small><strong>
-									<a href="http://www.gjsentinel.com/member/login/">Login</a></strong> | <strong><a href="http://www.gjsentinel.com/member/register/">Register</a>
-						</strong></small>
-		</div>
-	</div>
-</div>
-
-<script type="text/javascript">
-<!--
-$('#help').click(function() {$('#help-menu').toggle(300);});
-//-->
-</script>
-<!-- HELP -->
+<!-- /UTILITES -->
 
 <!-- HEADER -->
-<div id="header" class="span-24">
-	<div class="span-8 site_logo">
+<div id="header" class="span-24" style="margin: 16px 0 0 0;">
+
+	<div class="span-8 site_logo" style="margin: 0 0 14px 0;">
 		<a class="logo" href="http://www.gjsentinel.com/"><br></a>
 	</div>
 	
 	<div class="span-8" style="text-align: center;">
-		<div class="weather-box">
+			<div class="weather-box">
 			 
-			 <img src="http://www.weather.gov/weather/images/fcicons/skc.jpg" class="weather-icon" alt="Weather icon">
+			 <img src="http://www.weather.gov/weather/images/fcicons/nskc.jpg" class="weather-icon" alt="Weather icon">
 			 <div class="weather-temp">
-			 	<h2>92°</h2>
+			 	<h2>34°</h2>
 			 	<span class="small weather">Fair</span>
 			 </div>
 			 <div class="small weather-summary">
-				 Winds West at 10.4 MPH<br>
-				 Pressure 30.09 inches<br>
-				 Dewpoint 27.0° F<br>
+				 Winds North at 0.0 MPH<br>
+				 Pressure 30.20 inches<br>
+				 Dewpoint 30.0° F<br>
 				 Visibility 10.00 miles<br>
 				 <a href="/weather/" style="font-weight: bold;">Area forecast &gt;</a>
 			 </div>
 			 
 		</div>
-	</div>
+		</div>
 	
 	<div class="span-8 last" style="text-align: right;">
-					&nbsp;
+						&nbsp;
 			</div>
-</div>
+	</div>
 
 <!-- NAVIGATION -->
 <div id="navigation" class="span-24 last">
 	<ul class="ed-nav">
 		<li class="first">&nbsp;</li>
-		<li class=""><a href="http://www.gjsentinel.com/" class="first" target="_top">Home</a>
+		<li class="current"><a href="http://www.gjsentinel.com/" class="first" target="_top">Home</a>
 			<ul>
 				<li><a href="http://www.gjsentinel.com/weather/" target="_top">Weather</a></li>
 				<li><a href="http://www.gjsentinel.com/breaking/" target="_top">Breaking News</a></li>
 				<li><a href="http://www.legacy.com/obituaries/gjsentinel/" target="_top">Obituaries</a></li>
 				<li><a href="http://www.gjsentinel.com/special_sections" target="_top">Special Sections</a></li>
 				<li><a href="http://directory.gjsentinel.com/coupons.aspx" target="_top">Coupons</a></li>
-				<li><a href="http://www.gjsentinel.com/feeds/rss2" target="_top"><img style="margin: 0 0 -4px 0; padding: 0; float: none;" src="http://cdn.grandjunctionmedia.com/images/social/rss_16.gif" alt="RSS 2.0" width="16" height="16"> RSS</a></li>
+				<li><a href="http://www.gjsentinel.com/feeds/rss2" target="_top"><img style="margin: 0 0 -4px 0; padding: 0; float: none;" src="https://gjsentinel.s3.amazonaws.com/images/social/rss_16.gif" alt="RSS 2.0" width="16" height="16"> RSS</a></li>
 			</ul>
 		</li>
-		<li class=""><a href="http://www.gjsentinel.com/news/" target="_top">News</a>
+		<li><a href="http://www.gjsentinel.com/news/" target="_top">News</a>
 			<ul>
 				<li class="sub-first"><a href="http://www.gjsentinel.com/news/categories/category/western_colorado/" target="_top">Western Colorado</a></li>
 				<li><a href="http://www.gjsentinel.com/news/categories/category/colorado/" target="_top">Colorado</a></li>
@@ -193,6 +174,7 @@ $('#help').click(function() {$('#help-menu').toggle(300);});
 				<li><a href="http://hosted2.ap.org/COGRA/APWorldNews" target="_top">World</a></li>
 				<li><a href="http://www.gjsentinel.com/news/categories/category/business/" target="_top">Business</a></li>
 				<li><a href="http://www.gjsentinel.com/news/categories/category/mojo/" target="_top">Mobile Junction</a></li>
+                               <li><a href="http://www.gjsentinel.com/news/categories/category/blotter/" target="_top">Blotter</a></li>
 			</ul>
 		</li>
 
@@ -243,7 +225,7 @@ $('#help').click(function() {$('#help-menu').toggle(300);});
 			<ul>
 				<li class="sub-first"><a href="http://www.gjsentinel.com/entertainment/categories/category/music/" target="_top">Music</a></li>
 				<li><a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=gjunctionf2x" target="_top">Movies</a></li>
-				<li><a href="http://hosted2.ap.org/COGRA/Televisioncontent" target="_top">Television</a></li>
+				<li><a href="http://affiliate.zap2it.com/tvlistings/ZCTVHome.do?aid=gjunctionf2x" target="_top">Television</a></li>
 				<li><a href="http://www.gjsentinel.com/entertainment/puzzles_games" target="_top">Puzzles &amp; Games</a></li>
 				<li><a href="http://www.gjsentinel.com/entertainment/sound_check" target="_top">Sound Check</a></li>
 			</ul>
@@ -256,8 +238,8 @@ $('#help').click(function() {$('#help-menu').toggle(300);});
 				<li><a href="http://www.gjsentinel.com/blogs/realpolitik" target="_top">RealPolitik</a></li>
 				<li><a href="http://www.gjsentinel.com/blogs/lets_get_dirty" target="_top">Let's Get Dirty</a></li>
 				<li><a href="http://www.gjsentinel.com/blogs/outdoor_junkie" target="_top">Outdoor Junkie</a></li>
-				<li><a href="http://www.gjsentinel.com/blogs/its_allgood" target="_top">It's Allgood</a></li>
-                                <li><a href="http://www.gjsentinel.com/blogs/backpacking_europe" target="_top">Backpacking Europe</a></li>
+                                <li><a href="http://www.gjsentinel.com/blogs/game_on" target="_top">Game On!</a></li>
+                               <li><a href="http://www.waronwrong.blogspot.com/" target="_top">War on Wrong</a></li>
 			</ul>
 		</li>
 
@@ -272,6 +254,8 @@ $('#help').click(function() {$('#help-menu').toggle(300);});
 		<li><a href="http://directory.gjsentinel.com/" target="_top">Directories</a>
 			<ul>
 				<li class="sub-first"><a href="http://directory.gjsentinel.com/grand-junction+co.z.html" target="_top">Business Directories</a></li>
+				<li><a href="http://www.gjsentinel.com/calendar/agritourism" target="_top">Agritourism</a></li>
+				<li><a href="http://www.downtowngj.org/" target="_blank">Downtown Grand Junction</a></li>
 			</ul>
 		</li>
 	</ul>
@@ -345,34 +329,12 @@ $('.ed-nav').dropLine();
 		<!--
 		$('.simple-search').mouseover(function() {$('#search-options').show();}).mouseout(function() {$('#search-options').hide();});
 		
-		$(document).ready(function() {
-			$("#search-where a").each(function() {
-				
-				$(this).click(function(e) {
-					var currentVal = $('.simple-search form:visible:eq(0) input.search-keywords').val();
-					
-					var $this = this;
-					var showSearch = $($this).attr('href');
-					
-					$("#search-where a").each(function() {
-						var hideSearch = $(this).attr('href');
-						$(hideSearch+' input.search-keywords').val(currentVal);
-						$(hideSearch).hide();
-						$(this).removeClass('selected');
-					});
-					
-					$(showSearch).show();
-					$($this).addClass('selected');
-					e.preventDefault();
-				});
-			});
-		});
 		//-->
 		</script>
 	</div>
 </div>
 
-<!-- HEADER -->
+<!-- /HEADER -->
 
 
 <div class="span-24">
@@ -398,7 +360,7 @@ Web Editor<br>
 GJSentinel.com<br>
 734 S. 7th Street<br>
 Grand Junction, CO 81501<br>
-Email: <span id="eeEncEmail_gYblYl1R6X"><a href="mailto:duffy.hayes@gjsentinel.com">duffy.hayes@gjsentinel.com</a></span><script type="text/javascript">
+Email: <span id="eeEncEmail_DcrXAL5mqj"><a href="mailto:duffy.hayes@gjsentinel.com">duffy.hayes@gjsentinel.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -407,7 +369,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_gYblYl1R6X').innerHTML = output;
+document.getElementById('eeEncEmail_DcrXAL5mqj').innerHTML = output;
 //]]>
 </script></p>
 
@@ -465,7 +427,7 @@ document.getElementById('eeEncEmail_gYblYl1R6X').innerHTML = output;
 
 <p><strong><a name="optout">OPTING OUT</a></strong></p>
 
-<p>If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email Duffy Hayes at <span id="eeEncEmail_M65WOC8Aad"><a href="mailto:duffy.hayes@gjsentinel.com">duffy.hayes@gjsentinel.com</a></span><script type="text/javascript">
+<p>If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email Duffy Hayes at <span id="eeEncEmail_BLR7zLNygv"><a href="mailto:duffy.hayes@gjsentinel.com">duffy.hayes@gjsentinel.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -474,7 +436,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_M65WOC8Aad').innerHTML = output;
+document.getElementById('eeEncEmail_BLR7zLNygv').innerHTML = output;
 //]]>
 </script>.</p>
 
@@ -519,10 +481,10 @@ document.getElementById('eeEncEmail_M65WOC8Aad').innerHTML = output;
 		<div class="span-4 small last">
 			<strong style="color: #4F4F4F">Contact</strong><br>
 			• <a href="http://www.gjsentinel.com/help/contact" target="_top">Staff directory</a><br>
-			• <a href="http://www.gjsentinel.com/help/news_tip" target="_top">Send a news tip</a><br>
-			• <a href="http://www.gjsentinel.com/help/corrections" target="_top">Corrections</a><br>
+			• <a href="http://www.gjsentinel.com/news/news_tip" target="_top">Send a news tip</a><br>
+			• <a href="http://www.gjsentinel.com/news/correction" target="_top">Corrections</a><br>
 			• <a href="http://www.gjsentinel.com/help/broken_link" target="_top">Report a broken link</a><br>
-			• <a href="http://www.gjsentinel.com/help/letters_to_the_editor" target="_top">Submit a letter to the Editor</a><br>
+			• <a href="http://www.gjsentinel.com/opinion/submit_letter" target="_top">Submit a letter to the Editor</a><br>
 		</div>
 	</div>
 	
@@ -534,7 +496,7 @@ document.getElementById('eeEncEmail_M65WOC8Aad').innerHTML = output;
 			• <a href="http://www.gjsentinel.com/homes/" target="_top">Grand Junction Real Estate</a><br>
 			• <a href="http://www.gjsentinel.com/homes/rentals" target="_top">Grand Junction Rentals</a><br>
 			• <a href="http://cars.gjsentinel.com/" target="_top">Grand Junction Cars</a><br>
-			• <a href="http://secure.adpay.com/PlaceAd.aspx?procid=6835ca53-e317-4ea2-a525-8ca841b47831" target="_top">Place an ad</a><br>
+			• <a href="http://secure.adpay.com/adwizard_login.aspx?a=4A493479796665445438496332796C765371754C76686D423761445853396E4B505A314A6E464B68702F496B666B526B654B65423355595978526264477A6E55" target="_top">Place an ad</a><br>
 			<br>
 			<br>
 			<br>
@@ -548,10 +510,10 @@ document.getElementById('eeEncEmail_M65WOC8Aad').innerHTML = output;
 			• <a href="http://www.gjsentinel.com/help/print_circulation/" target="_top">Subscribe to print edition</a><br>
 			• <a href="http://www.mynewsonthego.com/gjsentinel/">E-edition</a><br>
 			<strong style="color: #4F4F4F" target="_top">Help</strong><br>
-			• <a href="http://www.gjsentinel.com/help/circulation/" target="_top">Vacation hold/Delivery issues</a><br>
-			• <a href="http://www.gjsentinel.com/help/circulation/" target="_top">Change of address</a><br>
+			• <a href="http://www.gjsentinel.com/customer_care/redeliver" target="_top">Redeliver paper</a><br>
+			• <a href="http://www.gjsentinel.com/customer_care/vacation_hold" target="_top">Vacation hold</a><br>
 			<strong style="color: #4F4F4F" target="_top">Advertisers</strong><br>
-			• <a href="http://ai.presteligence.com/AI4/SignIn.aspx?AspxAutoDetectCookieSupport=1" target="_top">Sign in to your account</a><br>
+			• <a href="http://ai.presteligence.com/AI4/SignIn.aspx" target="_top">Sign in to your account</a><br>
 			• <a href="http://www.gjsentinel.com/media_kit" target="_top">Information</a><br>
 		</div>
 	</div>
