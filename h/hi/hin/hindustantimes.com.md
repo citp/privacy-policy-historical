@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001201338id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224130805id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
-|   
+| Privacy Policy  
 ---  
-Privacy Policy  
   
 The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the hindustantimes.com website.
 
@@ -24,28 +23,30 @@ If you choose to provide us with the abovementioned information, you consent to 
 
 The information provided by you shall be used by us to:
 
-* Improve our website and enable us to provide you the most user-friendly experience which is safe, smooth and customized;
-* Improve and customize our services, content and other commercial /non \- commercial features on the website;
-* Send you information on our products, services, special deals, promotions;
-* Send you marketing/promotional communications (If you do not wish to receive such marketing/promotional communications from us you may indicate your preferences at the time of registration or by following the instructions provided on the website or by providing instructions to this effect);
-* Send newsletter(s) to you (Provided you subscribe to the same); 
-* Send you service-related announcements on rare occasions when it is necessary to do so; 
-* Provide you the opportunity to participate in contests or surveys on our website (If you participate, we may request certain additional personally identifiable information from you. Moreover, participation in these surveys or contests is shall be completely voluntary and you therefore shall have a choice whether or not to disclose such additional information);
-* Provide customer support and the services you request;
-* Resolve disputes, if any and troubleshooting;
-* Avoid/check illegal and/or potentially prohibited activities and to enforce Agreements ; 
-* Provide service updates and promotional offers related to our services/products. 
-* Comply with any court judgment / decree / order / directive / legal & government authority /applicable law;
-* Investigate potential violations or applicable national & international laws;
-* Investigate deliberate damage to the website/services or its legitimate operation;
-* Detect, prevent, or otherwise address security and/or technical issues; 
-* Protect the rights, property or safety of HTML and/or its Directors, employees and the general public at large; and 
-* Respond to Claims of third parties; 
+  * Improve our website and enable us to provide you the most user-friendly experience which is safe, smooth and customized;
+  * Improve and customize our services, content and other commercial /non \- commercial features on the website;
+  * Send you information on our products, services, special deals, promotions;
+  * Send you marketing/promotional communications (If you do not wish to receive such marketing/promotional communications from us you may indicate your preferences at the time of registration or by following the instructions provided on the website or by providing instructions to this effect);
+  * Send newsletter(s) to you (Provided you subscribe to the same); 
+  * Send you service-related announcements on rare occasions when it is necessary to do so; 
+  * Provide you the opportunity to participate in contests or surveys on our website (If you participate, we may request certain additional personally identifiable information from you. Moreover, participation in these surveys or contests is shall be completely voluntary and you therefore shall have a choice whether or not to disclose such additional information);
+  * Provide customer support and the services you request;
+  * Resolve disputes, if any and troubleshooting;
+  * Avoid/check illegal and/or potentially prohibited activities and to enforce Agreements ; 
+  * Provide service updates and promotional offers related to our services/products. 
+  * Comply with any court judgment / decree / order / directive / legal & government authority /applicable law;
+  * Investigate potential violations or applicable national & international laws;
+  * Investigate deliberate damage to the website/services or its legitimate operation;
+  * Detect, prevent, or otherwise address security and/or technical issues; 
+  * Protect the rights, property or safety of HTML and/or its Directors, employees and the general public at large; and 
+  * Respond to Claims of third parties; 
 
 The personal information provided by you shall also be disclosed to:
 
-* The members of our corporate family, affiliates, service providers and third parties under a contract to provide joint services, contents and marketing communications; and 
-* Other third parties to whom you explicitly require us to send the information; 
+  * The members of our corporate family, affiliates, service providers and third parties under a contract to provide joint services, contents and marketing communications; and 
+  * Other third parties to whom you explicitly require us to send the information; 
+
+
 
 If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the website. However, your friend may contact us to request that he does not require such services/content/email or we remove the information related to him from our database.
 
