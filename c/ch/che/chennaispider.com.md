@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205182519id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaispider.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224063434id_/http%3A//www.chennaispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ChennaiSpider.com privacy policy
 
@@ -8,7 +8,7 @@
 
 At ChennaiSpider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting ChennaiSpider.com, you are accepting this privacy policy and our Terms & Conditions.
 
-If you have any questions about this Privacy Policy, please feel free to **[Contact Us](http://www.chennaispider.com/general/ContactUs.aspx)**.
+If you have any questions about this Privacy Policy, please feel free to **[Contact Us](https://web.archive.org/general/ContactUs.aspx)**.
 
  **How do we use the information we gather?**
 
@@ -24,14 +24,7 @@ For statistical purposes, we gather and store general visitor information like I
 
  **Cookies**
 
-Cookies are small pieces of information stored in your computer. When you login to ChennaiSpider.com, we store small cookies in your computer, to provide a better browsing experience for you.
-
-We use third-party advertising companies to serve ads when you visit  
-our website. These companies may use non personal about your visits to  
-this and other websites in order to provide advertisements about goods  
-and services of interest to you. If you would like more information  
-about this practice and to know your choices about not having this  
-information used by these companies, [click here](http://www.google.com/%3CBR%3Eprivacy_ads.html).
+Cookies are small pieces of information stored in your computer. When you login to ChennaiSpider.com, we store small cookies in your computer, to provide a better browsing experience for you. We use third-party advertising companies to serve ads when you visit our website. These companies may use non personal about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
  **Advertisements**
 
@@ -43,7 +36,7 @@ As we continue to develop and grow our web site, we may sell ChennaiSpider.com o
 
 **Contact Us**
 
-If you would like to contact us about any information or privacy policy you can If you need to contact the webmaster of ChennaiSpider.com, please **[Write to us.](mailto:Rajmi@Chennaispider.com)**
+If you like to contact the webmaster of this site, please **[Contact Us](https://web.archive.org/general/ContactUs.aspx)**. We will get back to you as soon as we can.
 
  **SpiderWorks Technologies Pvt Ltd** **  
 Kochi. India**
