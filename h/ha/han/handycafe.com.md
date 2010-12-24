@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handycafe.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607120252id_/http%3A//handycafe.com/en/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handycafe.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224090424id_/http%3A//handycafe.com/en/policy.php) for the most accurate reproduction.*
 
 # Free Internet Cafe Software - Cyber Cafe Software - Management Software - Free Firewall, handyCafe by AtesSoft
 
