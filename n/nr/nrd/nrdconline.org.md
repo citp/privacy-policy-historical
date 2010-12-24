@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrdconline.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626082838id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrdconline.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224064616id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.*
 
 # NRDC Privacy Policy
 
@@ -7,7 +7,7 @@ The Natural Resources Defense Council (NRDC) respects your right to privacy and 
 NRDC does not collect any information from you without your knowledge and permission, and we do not ask that you enter any personal information to access or use most areas of the NRDC website. In order to use some of the tools and functions, however, such as the online action center, you must enter some identifying information. NRDC does not disclose this information to anyone except 1) to identify you, as described in the following three paragraphs, to those you contact through our website and 2) to manage our website and database with the help of service providers, who are subject to a non-disclosure agreement. Information you provide NRDC is stored in a secure location and is accessible only by designated staff.
 
 **Online Activism**  
-To send a message from our online action center to government officials and other decision-makers you must identify yourself by name, address, email address and in some cases, phone number. NRDC includes this information when we send your message. This is necessary for your message to be effective, and in the case of many government officials it is required.
+To send a message from our online action center to government officials and other decision-makers you must identify yourself by name, address, email address and in some cases, phone number. NRDC includes this information when we send your message. This is necessary for your message to be effective, and in the case of many government officials it is required. Please note that comments sent to federal agencies may be made available publicly, often via the web, and will sometimes include the full name and address of the person(s) submitting the comments.
 
 **Postcards and "Tell Your Friends" Pages**  
 To forward an article, postcard or action alert you must enter your name, your email address and the email address(es) of anyone you are sending it to. NRDC includes your name and email address when we send your message.
