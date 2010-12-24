@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608080306id_/http%3A//www.tenmarks.com/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224054942id_/http%3A//www.tenmarks.com/privacy.action) for the most accurate reproduction.*
 
-# Tenmarks: Privacy Policy
+# TenMarks | Privacy Policy
 
 Privacy Policy 
 
 TenMarks is the smartest way for kids to practice and master math. It's an ideal supplemental education resource that can be used by parents or educators to support and enhance their students learning. TenMarks is very effective and super easy. 
 
-TenMarks Education, Inc. (TenMarks) feels strongly about protecting your privacy and the privacy of a children.
+TenMarks Education, Inc. (TenMarks) feels strongly about protecting your privacy and the privacy of a child.
 
 TenMarks WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of TenMarks. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns. 
 
