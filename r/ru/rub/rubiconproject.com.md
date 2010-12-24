@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410134509id_/http%3A//www.rubiconproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224213012id_/http%3A//www.rubiconproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rubicon Project
 
@@ -20,7 +20,7 @@ We use any PII data collected to contact you, and use any non-PII collected to e
 
 #### Data Sharing
 
-We do not rent, sell or disseminate PII to third parties for promotional purposes without your consent.  We only share data with trusted third parties who are under obligation use the data in a responsible manner. (More Info)
+We do not rent, sell or disseminate PII to third parties for promotional purposes without your consent.  We only share data with trusted third parties who are under obligation to use the data in a responsible manner. (More Info)
 
 #### You are in Control!
 
@@ -42,7 +42,7 @@ For a more detailed explanation of our privacy practices please read the full po
 
 #### Certifications
 
-Our Privacy Policy and practices have been certified by or are in compliance with TRUSTe, the Network Advertising Initiative and the cross-industry Self-Regulatory Principles for Online Behavioral Advertising.  See Policy for details.
+Our Privacy Policy and practices have been certified by or are in compliance with TRUSTe and the cross-industry Self-Regulatory Principles for Online Behavioral Advertising.  See Policy for details.
 
 ## PRIVACY POLICY
 
