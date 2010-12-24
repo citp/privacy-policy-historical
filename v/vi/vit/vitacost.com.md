@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821212148id_/http%3A//www.vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224100754id_/http%3A//www.vitacost.com/Privacy) for the most accurate reproduction.*
 
-# Vitacost.com Web Site Privacy Statment - www.Vitacost.com
+# Vitacost.com Web Site Privacy Statment - Vitacost
+
+[](https://web.archive.org/5-Star-Guarantee)
+
+[](http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_shortname=SC&v_search=http://www.vitacost.com/&x=6&y=5)
 
   
 Effective on: (03/12/2007)
@@ -84,11 +88,9 @@ This site gives you the following options for removing your information, includi
   1. You can send email to Customer Support.
   2. You can send mail to the following postal address: 
 
-Vitacost.com, Inc.
-
-130 Lexington Avenue
-
-Lexington, NC 27295
+Vitacost.com  
+130 Lexington Parkway  
+Lexington, NC 27295 
 
   3. You can call the following telephone number: 1-800-381-0759
 
