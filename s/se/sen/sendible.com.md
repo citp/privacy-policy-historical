@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendible.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405203046id_/http%3A//sendible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendible.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224071441id_/http%3A//sendible.com/privacy) for the most accurate reproduction.*
 
-# Sendible | Privacy Policy
+# Privacy Policy | Sendible}
 
 | 
 
@@ -9,6 +9,10 @@
 In order to benefit from the full functionality offered by this web site, it is occasionally necessary for us to place a small amount of information (a cookie) on your computer. Cookies are used to store your viewing options for displaying thumbnail images and text. When you change these options, your new selections are recorded in a cookie for use next time you visit the site. 
 
 Where it is possible to make a contribution to this site, these contributions are published, and except in very limited circumstances, will be a permanent part of this site. If you decide to contribute, you must keep this in mind. This privacy policy will be reviewed, and may be revised, from time to time. You may wish to revisit it regularly. 'We' as used in this policy refers to Sendible.com. 
+
+**Information Gathering and Usage**
+
+When you register for Sendible we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free trial account are not required to enter a credit card. The financial information provided by users who upgrade to our paid plans will be transmitted over an encrypted connection (SSL) to our payment gateway and will not be stored by Sendible Ltd. Sendible Ltd. uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, advertising and research. 
 
 **Public data and publishing**
 
@@ -42,6 +46,10 @@ We will not sell your information, such as your email address, to third parties.
 
 **Information security**
 
-We make no guarantee that the information that you provide to us will be secure.   
+We make no guarantee that the information that you provide to us will be secure. 
+
+**Questions**
+
+Any questions about this Privacy Policy should be addressed to support@sendible.com or by mail at: Sendible Ltd., 501, 100 Kingsway, London, England N12 0EQ   
   
 ---|---
