@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currenteventsarticles.org privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404014730id_/http%3A//currenteventsarticles.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currenteventsarticles.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224183417id_/http%3A//currenteventsarticles.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Current Events Articles
 
