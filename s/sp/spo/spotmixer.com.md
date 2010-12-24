@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the spotmixer.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227100816id_/http%3A//www.spotmixer.com/create_video/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotmixer.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224042153id_/http%3A//www.spotmixer.com/create_video/privacypolicy) for the most accurate reproduction.*
 
-# SpotMixer - Privacy Policy
+# Privacy Policy - SpotMixer - Create Video Ads for Online Video and TV Advertising
 
 | 
 
 [](http://www.truste.org/ivalidate.php?url=www.onetruemedia.com&sealid=101)
 
-_Last updated April 23, 2008_
+_Last updated March 29, 2010_
 
 ### Our commitment to privacy
 
 To protect your privacy we provide this statement to explain our information practices and to define your options for how your information is collected and used.
 
-This policy applies to the [SpotMixer.com](http://www.spotmixer.com/) website (the "Site"). The Site is owned and operated by One True Media, Inc., a company incorporated under the laws of the State of Delaware whose principal business address is One True Media, Inc., 955-A Charter St., Redwood City, CA 94063. 
+This policy applies to the [SpotMixer.com](http://www.spotmixer.com/) website (the "Site"). The Site is owned and operated by SpotMixer, Inc., a company incorporated under the laws of the State of Delaware whose principal business address is SpotMixer, Inc., 2694-A Middlefield Road, Redwood City, CA 94063. 
 
-One True Media, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe
+SpotMixer, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe
 
-If you have questions or concerns regarding this policy, you should first contact our Privacy Officer at customercare@onetruemedia.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact our Privacy Officer at Support@SpotMixer.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 By using this Site and the SpotMixer service (the "Service"), you agree to the collection and use of information in the manner described below. If we make material changes to this policy, we will notify you at this Site, by email, by means of a notice the next time you log in to the Site, or by means of a notice on our homepage. To make our privacy policy easy to find, we have placed it on our homepage and at the bottom of each web page. You are responsible for reviewing the Site periodically for any modification to this Privacy Policy. Any access or use of the Site by you after notice of revisions or additions to this Privacy Policy shall constitute and be deemed to be your agreement to such revisions or additions.
 
@@ -49,7 +49,7 @@ In addition to the personal information you supply, we automatically collect non
 
 ### How we use information
 
-Our primary goal in collecting your information is to provide you with a personalized, relevant, and positive experience with this Site. We use the personal information you provide about yourself, for example, when placing an order for the Service. One True Media will not sell, rent, or lease your personal information to others, except to the extent necessary to fulfill your order for the Service, to provide you with other services or as set forth in this policy.
+Our primary goal in collecting your information is to provide you with a personalized, relevant, and positive experience with this Site. We use the personal information you provide about yourself, for example, when placing an order for the Service. SpotMixer will not sell, rent, or lease your personal information to others, except to the extent necessary to fulfill your order for the Service, to provide you with other services or as set forth in this policy.
 
 We may combine personal data collected at this Site with other information you have provided us through other sources or with non-personal information that we automatically collected at this Site (as further described in this policy).
 
@@ -57,9 +57,9 @@ We use your email address to answer email we receive from you and to provide sta
 
 You can register on this Site to receive promotions and updates on new products and services, or to be contacted for market research purposes. The contact information you submit will not be used for these purposes unless you specifically "opt-in". You can control your privacy preferences regarding such marketing communications (see the section below entitled "Your privacy preferences and "opting-out"). 
 
-From time to time, you may be invited to participate in optional customer surveys or contests, and One True Media may request that you provide some or all of the above listed personal information in those surveys or contests. We use information collected through contests to contact winners and award prizes. We also use information collected from surveys to learn about our customers in order to improve our services and develop new products and services of interest to our customers.
+From time to time, you may be invited to participate in optional customer surveys or contests, and SpotMixer may request that you provide some or all of the above listed personal information in those surveys or contests. We use information collected through contests to contact winners and award prizes. We also use information collected from surveys to learn about our customers in order to improve our services and develop new products and services of interest to our customers.
 
-One True Media uses "IP addresses", "cookies", "clear gifs", browser detection, and "weblogs" to provide a better experience on this Site and to give us useful business information. Third party technologies such as cookies may also be used for the same purposes.
+SpotMixer uses "IP addresses", "cookies", "clear gifs", browser detection, and "weblogs" to provide a better experience on this Site and to give us useful business information. Third party technologies such as cookies may also be used for the same purposes.
 
 IP addresses define the Internet location of computers and help us better understand the geographic distribution of our members and manage the performance of this Site. Cookies are tiny files placed onto the hard drive of your computer when you visit this Site, so we can immediately recognize you when you return to the Site and deliver content specific to your interests. You may modify your browser preferences to accept all cookies, be notified when a cookie is set, or reject all cookies. Please consult your browser instructions for information on how to modify your choices about cookies. If you modify your browser to reject certain or all cookies, you may not be able to use certain features of this Site.
 
@@ -67,15 +67,15 @@ We also use a technology called "clear gifs". Clear gifs are tiny graphics with 
 
 We detect the type of web browser you are using to optimize the performance of this Site and to understand the mix of browsers used by our visitors, guests, and members. To learn about how people use our Site, we examine weblogs, which show the paths people take through our site and how long they spend in certain areas.
 
-One True Media may also contract with unaffiliated third parties to provide services for the Site, such as software for Site features, customer communications, sweepstakes and prize fulfillment, analyzing and evaluating the information we collect, and other services. When we do this, we may provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose.
+SpotMixer may also contract with unaffiliated third parties to provide services for the Site, such as software for Site features, customer communications, sweepstakes and prize fulfillment, analyzing and evaluating the information we collect, and other services. When we do this, we may provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose.
 
 ### Our commitment to data security
 
-Access to your data is limited to authorized One True Media staff and vendors and restricted by password protection mechanisms. We process all Service orders on a secure server that encrypts all financial information through Secure Sockets Layer (SSL). Although total security does not exist on the Internet, One True Media shall make commercially reasonable efforts to safeguard the information that you submit to One True Media. We will not store your credit card information in our database unless you provide us such information for use with the Service. Credit card numbers are used for processing payments only and for no other purposes.
+Access to your data is limited to authorized SpotMixer staff and vendors and restricted by password protection mechanisms. We process all Service orders on a secure server that encrypts all financial information through Secure Sockets Layer (SSL). Although total security does not exist on the Internet, SpotMixer shall make commercially reasonable efforts to safeguard the information that you submit to SpotMixer. We will not store your credit card information in our database unless you provide us such information for use with the Service. Credit card numbers are used for processing payments only and for no other purposes.
 
 ### Use of SpotMixer by Children
 
-The products and services offered by One True Media are not intended for use by children. One True Media will not knowingly collect any personally identifiable information submitted by visitors to the site who are under the age of 13.
+The products and services offered by SpotMixer are not intended for use by children. SpotMixer will not knowingly collect any personally identifiable information submitted by visitors to the site who are under the age of 13.
 
 ### Your privacy preferences and opting out
 
@@ -95,12 +95,12 @@ You can access and maintain your personally identifiable information on your "My
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on this Site.
 
-It is possible that we could decide to sell the business or assets associated with this Site or the Service. In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. It is also possible that One True Media would sell all or substantially all of its assets and business and in such case customer information, including your personally identifiable information, would almost certainly be among the assets that are transferred. If we sell our business or assets in one of these ways, you will be notified by a notice placed on this Site, by an email to your last known email address, as indicated in One True Media's records, or by mail to your last known mailing address, as indicated in One True Media's records.
+It is possible that we could decide to sell the business or assets associated with this Site or the Service. In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. It is also possible that SpotMixer would sell all or substantially all of its assets and business and in such case customer information, including your personally identifiable information, would almost certainly be among the assets that are transferred. If we sell our business or assets in one of these ways, you will be notified by a notice placed on this Site, by an email to your last known email address, as indicated in SpotMixer's records, or by mail to your last known mailing address, as indicated in SpotMixer's records.
 
-This Site contains links to other websites. One True Media is not responsible for the privacy practices of these other websites. We encourage you to be aware when you leave this Site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of this Site, but the website address in your browser window will indicate that you are visiting a different website. This statement of privacy practices applies only to information collected by One True Media at this Site.
+This Site contains links to other websites. SpotMixer is not responsible for the privacy practices of these other websites. We encourage you to be aware when you leave this Site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of this Site, but the website address in your browser window will indicate that you are visiting a different website. This statement of privacy practices applies only to information collected by SpotMixer at this Site.
 
 ### How to contact us
 
-Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [Help@SpotMixer.com](mailto:Help@SpotMixer.com), or mail One True Media, Inc., 955-A Charter St., Redwood City, CA 94063.
+Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [Support@SpotMixer.com](mailto:Support@SpotMixer.com), or mail SpotMixer, Inc., 2694-A Middlefield Road, Redwood City, CA 94063.
 
 | 
