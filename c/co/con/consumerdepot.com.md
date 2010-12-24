@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517082457id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224094815id_/http%3A//consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
 
-# Consumer Depot, Major Online Electronics, Computer Wholesaler Liquidator
+# Consumer Depot Online Electronics & Computer Liquidator
 
 ## SEARCH
 
@@ -9,7 +9,7 @@
 ## JOIN MAILING LIST
 
 **Security**   
-To guard against credit card fraud, we offer secure online ordering using the latest Secure Sockets Layer (SSL) encryption technology. The connection between your browser and our servers is encrypted with industry-standard SSL technology, which scrambles ordering information so that only your browser and our servers can decipher it. To use this option you must have a browser that supports SSL, such as later versions of Microsoft Internet Explorer or Netscape Communicator. 
+To guard against credit card fraud, we offer secure online ordering using the latest Secure Sockets Layer (SSL) encryption technology. The connection between your browser and our servers is encrypted with industry-standard SSL technology, which scrambles ordering information so that only your browser and our servers can decipher it. To use this option you must have a browser that supports SSL, such as later versions of Microsoft Internet Explorer or Mozilla Firefox. 
 
 **Privacy Policy**
 
@@ -39,11 +39,11 @@ By using our Web site, you consent to the collection and use of this information
 
 © Copyright 1997 - 2010 Consumer Depot, LLC. All rights reserved.
 
-[](https://web.archive.org/web/20100517082457id_/http%3A//www.consumerdepot.com/pg_categories.asp?id=MPP&manfid=AP)
+[](https://web.archive.org/web/20101224094815id_/http%3A//consumerdepot.com/pg_categories.asp?id=MPP&manfid=AP)
 
 ## FEATURED PRODUCTS
 
-[](https://web.archive.org/web/20100517082457id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
+[](https://web.archive.org/web/20101224094815id_/http%3A//consumerdepot.com/pg_protection_plan.asp)
 
 ## CERTIFICATIONS
 
