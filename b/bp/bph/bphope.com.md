@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bphope.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614105158id_/http%3A//www.bphope.com/Item.aspx%3Falias%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bphope.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224044501id_/http%3A//www.bphope.com/Item.aspx/privacy) for the most accurate reproduction.*
 
-# 
+# Bipolar Disorder Magazine - Privacy & Security | bphope
 
 **Privacy Policy**  
 This Privacy Policy applies to the bp Magazine website located at [www.bphope.com](http://www.bphope.com/) and represents our approach to the information practices of our website.
