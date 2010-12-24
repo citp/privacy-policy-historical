@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509052302id_/http%3A//www.choice.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224083851id_/http%3A//www.choice.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CHOICE Privacy Policy with Choice.com.au
 
@@ -244,7 +244,13 @@ Your name and address and login email and password are stored on our server so t
 
 When you first register on this site and if you use our 'Forgotten your password' facility, we will email your password to you. We provide this service largely as a result of customer demand, especially for out of hours use (our office is only staffed 9am - 5pm Mon - Fri). While email can be insecure we consider this action is low-risk: it's highly unlikely anyone will 'steal' your password provided your email address is secure, and the worst that could happen is that someone could access your ID and change your password. They can't access your credit card details online even with your ID and password, and they can't incur any costs for you. If someone did manage to change your password and so lock you out, you can ring us up and identify yourself with your 'clue question' and we will reset your password.
 
-We do not currently collect personal information about you from other sites. 
+We do not currently collect personal information about you from other sites.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. We are using the information collected by ClickTale service to improve our site usability. 
+
+For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx "Privacy Policy for Information Collected by the ClickTale Web Analytics Service")
+
+You can choose to [disable the Service](http://www.clicktale.net/disable.html "Disable the CLickTale web analytics service").
 
 ###  We may contact you
 
