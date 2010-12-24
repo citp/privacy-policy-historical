@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goats.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619114828id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goats.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224201543id_/http%3A//goats.com/privacy) for the most accurate reproduction.*
 
 # goats: the privacy policy
 
