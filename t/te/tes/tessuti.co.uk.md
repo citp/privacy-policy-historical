@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessuti.co.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225052724id_/http%3A//www.tessuti.co.uk/store/information.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessuti.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224215517id_/http%3A//www.tessuti.co.uk/store/information.php) for the most accurate reproduction.*
 
 # Tessuti.co.uk, Store Information
 
@@ -48,7 +48,7 @@ All goods are subject to availability.
 
 We reserve the right to alter the price or specification of goods supplied by us at any time without prior notice. All goods are sold subject to the prices prevailing at the time of purchase. In the event that either the chosen product is unavailable or the price has changed you will be informed before your order is processed. 
 
-**Returns & Guarantees:** We only stock items from the most reputable sources, and the authenticity of every brand and/or manufacturer is guaranteed. We inspect every item before it is shipped, and all goods are shipped fully insured in case of loss or damage. However, if an item that you have ordered is not as it was described on the site or wish to cancel the order*, this can be done within 7 working days which begins the day after receipt of the goods. Goods must be returned unopened and undamaged at customer's expense and a refund, less the original shipping costs will be issued within 30 days of goods return. When returning goods to us please contact us for full instructions, any item returned without consent from ourselves will not be accepted. We reserve the right to claim costs incurred to us on transaction processes incurred by bank authorisation charges. 
+**Returns & Guarantees:** We only stock items from the most reputable sources, and the authenticity of every brand and/or manufacturer is guaranteed. We inspect every item before it is shipped, and all goods are shipped fully insured in case of loss or damage. However, if an item that you have ordered is not as it was described on the site or wish to cancel the order*, this can be done within 7 working days which begins the day after receipt of the goods. Goods must be returned in original packaging including all original tags and undamaged at customer's expense and a refund, less the original shipping costs will be issued within 30 days of goods return. When returning goods to us please contact us for full instructions, any item returned without consent from ourselves will not be accepted. We reserve the right to claim costs incurred to us on transaction processes incurred by bank authorisation charges. 
 
 **** Please note that we do not accept returns on underwear due to hygiene reasons.**
 
