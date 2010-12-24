@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626093153id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224163902id_/http%3A//www.threadless.com/privacypolicy) for the most accurate reproduction.*
 
 # Threadless graphic t-shirt designs; cool & funny t-shirts weekly! Tees designed by the community.
 
@@ -98,7 +98,7 @@ If you have any questions about security on our Website, you can send us an emai
 
 ### 5\. Your Ability to Edit and Delete Your Account Information
 
-  * If your personally identifiable information changes, or if you no longer desire to maintain an account on Threadless.com, you may correct, update, amend, delete/remove or deactivate it by making the desired changes on account profile page (http://www.threadless.com/account) or by emailing our customer support at info@threadless.com
+  * If your personally identifiable information changes, or if you no longer desire to maintain an account on Threadless.com, you may correct, update, amend, delete/remove or deactivate it by making the desired changes on account profile page (http://www.threadless.com/account) or by emailing our customer support at [info@threadless.com](mailto:info@threadless.com). We will respond to your request to access within 30 days.
 
 
 
@@ -116,11 +116,15 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### 8\. TRUSTe Disclosure
 
-SkinnyCorp, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by prompting the use of fair information practices. This privacy statement covers the Website www.threadless.com. Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have any questions or concerns regarding this statement, you should first contact the Website Manager at privacypolicy@threadless.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns. 
+SkinnyCorp, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build userâ€™s trust and confidence in the Internet by prompting the use of fair information practices. This privacy statement covers the Website www.threadless.com. Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have any questions or concerns regarding this statement, you should first contact the Website Manager at [privacypolicy@threadless.com](mailto:privacypolicy@threadless.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url). 
+
+TRUSTe will then serve as a liaison with us to resolve your concerns. 
+
+SkinnyCorp, LLC complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union 
 
 ### 9\. Effective Date
 
-This Privacy Policy was last modified February 24, 2010.
+This Privacy Policy was last modified July 23, 2010.
 
 ### 10\. Contact Information
 
@@ -129,7 +133,7 @@ If you have any questions or comments about this Privacy Policy, you can contact
 Privacy Policy
 
 Threadless.com  
-4043 N. Ravenswood Ave. #106  
-Chicago, IL 60613  
+1260 W. Madison St.  
+Chicago, IL 60607  
 privacypolicy@threadless.com  
 
