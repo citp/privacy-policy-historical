@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004091645id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224053551id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
 **BBCanada.com**  
 **Privacy Policy Statement**
 
-Bed & Breakfast Online Canada Inc. ("BBC") is committed to protecting the privacy of personal information collected at this Web site at www.bbcanada.com (the "Web site").
+Bed & Breakfast Online Canada Inc. ("BBCanada.com") is committed to protecting the privacy of personal information collected at this Web site at www.bbcanada.com (the "Web site").
 
 **Collection of Information**
 
@@ -33,7 +33,7 @@ We respect the privacy of all of our online users, especially children. We do no
 
 If you have any questions or comments about this Policy, please contact:
 
-Bed & Breakfast Online Canada, Inc.  
+BBCanada.com Inc.  
 361 Jackson Street West, Suite 209  
 Hamilton, ON., L8P 1N2  
 Canada
