@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anewmorning.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620185832id_/http%3A//www.anewmorning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anewmorning.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224231854id_/http%3A//www.anewmorning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A New Morning
 
