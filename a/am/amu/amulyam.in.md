@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amulyam.in privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929093406id_/http%3A//www.amulyam.in/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amulyam.in privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224194030id_/http%3A//www.amulyam.in/privacy.do) for the most accurate reproduction.*
 
 # Amulyam-Privacy
 
