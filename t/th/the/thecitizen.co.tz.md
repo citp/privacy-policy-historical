@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the thecitizen.co.tz privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514013805id_/http%3A//thecitizen.co.tz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecitizen.co.tz privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224152729id_/http%3A//www.thecitizen.co.tz/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Monday, 01 February 2010 09:27   
+---  
+  
 **What does Mwananchi Communications Ltd do with the information it gathers/tracks?**
 
 Statistical Analysis and Banner Advertising: Mwananchi Communications Ltd's websites may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
@@ -31,4 +34,6 @@ The E-Mail This Article feature is an easy way for Mwananchi Communications Ltd'
 
 Except as permitted by this policy, Mwananchi Communications Ltd's websites does not send unsolicited e-mail.
 
- **Discussion Forums:** Any information you disclose when posting a message in our Discussion Forums becomes public. Please refer to our Terms of Use for more information on expected behaviour in the Forum.
+ **Discussion Forums:** Any information you disclose when posting a message in our Discussion Forums becomes public. Please refer to our Terms of Use for more information on expected behaviour in the Forum.  
+  
+Last Updated on Monday, 01 February 2010 10:01 
