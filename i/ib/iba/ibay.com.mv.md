@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501162118id_/http%3A//www.ibay.com.mv/page/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224144604id_/http%3A//www.ibay.com.mv/page/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
   
-
-
-[](http://www.maldivestoolbar.com/)  
-
-
-  
-**Recently Viewed**
-
-[](http://www.ibay.com.mv/external.php?type=new&limit=15) [](http://www.facebook.com/pages/ibaycommv-Maldives-Online-Market/65109554649?v=info&viewas=668980880) [ ](http://twitter.com/ibaymaldives)
-
-[ ](http://twitter.com/ibaymaldives) | 
+| 
 
 We respect your privacy. All the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned. Any information you give us will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please [ Contact Us](http://www.ibay.com.mv/contactus.html). This Privacy Statement is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
