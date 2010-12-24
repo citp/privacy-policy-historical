@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuonline.org privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226013436id_/http%3A//www.acuonline.org/home/privacy%3Fvhelp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuonline.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224203607id_/http%3A//www.acuonline.org/home/privacy%3Fvhelp) for the most accurate reproduction.*
 
 # Associated Credit Union - Privacy
 
@@ -65,11 +65,12 @@ If you have questions concerning this notice, please do not hesitate to call us 
 
 If you prefer that we do not disclose non-public personal information about you to such non-affiliated third parties, you may opt out of those disclosures. You may direct us not to make those disclosures (other than those permitted by law). If you wish to opt out of disclosures to non-affiliated third parties, you should do the following:
 
-  * Complete the Opt Out Notice and mail it to us.
-
-
+  * [Complete the Opt Out Notice and mail it to us. ](https://web.archive.org/home/fiFiles/static/documents/services_forms_privacyactoptout.pdf)
 
 You may opt out of these disclosures at any time. This option, by law, will not apply to disclosures that we make to companies that perform services on our behalf or to other financial institutions that have joint marketing agreements with us.
+
+
+
 
 Once we receive your request not to make further disclosures, we will act as quickly as possible to stop disclosures. If you wish later to revoke your opt out election, you may do so by writing our Marketing Department at our main office.
 
