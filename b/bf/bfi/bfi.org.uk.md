@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531024425id_/http%3A//www.bfi.org.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfi.org.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224200743id_/http%3A//www.bfi.org.uk/help/privacy.html) for the most accurate reproduction.*
 
 # BFI | Help | Your privacy
 
