@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpu-world.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211205143id_/http%3A//www.cpu-world.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpu-world.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224063813id_/http%3A//www.cpu-world.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
- Personal information collected on CPU-World site: 
+## Personal information collected on CPU-World.com
 
   * For all users registered in the forum we collect e-mail address and other information provided by users during registration.
   * We use cookies to store username and logged-in status of all users registered in the forum.
@@ -13,7 +13,7 @@
 
 
 
- How personal information is used 
+## How personal information is used
 
   * Personal information and cookies are used to allow registered users to access the forum. Some information about registered users, such as first and last name, is displayed in the forum members list.
   * We can use registered user's e-mail address to contact him/her in cases if there is a problem with user's account.
