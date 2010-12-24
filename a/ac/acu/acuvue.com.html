@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acuvue.com privacy policy that was archived on 2010-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614085632id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acuvue.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224104624id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,7 +14,7 @@
 <script type="text/javascript" src="/js/swfobject-2.2.js"></script>
 <script type="text/javascript" src="/js/quicklinks-functions.js"></script>
 <script type="text/javascript" src="/js/app-functions.js"></script>
-<script type="text/javascript" src="/js/dcs1.js"></script>
+<!--<script type="text/javascript" src="/js/dcs1.js"></script>-->
 <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/js/main-navigation.js"></script>
 <script type="text/javascript" src="/js/share-flyout.js"></script>
@@ -25,14 +25,14 @@
 		//This was done to accomodate SSI's such as touts so that they could still be globally used
 		//USEAGE: <a href="path/to/page.html" onClick="trackAssist('/your/custom/title/');">LINK</a>
 		//alert("Tracking: "+location.href+", "+title); //FOR TESTING
-		dcsMultiTrack('DCS.dcsuri',location.href,'WT.ti',title);
+		//dcsMultiTrack('DCS.dcsuri',location.href,'WT.ti',title);
 	}
-	
+
 	<!--// Function for DCS TRACKING -->
 	function trackIt(currPage, customTitle){
-		dcsMultiTrack('DCS.dcsuri',currPage,'WT.ti',customTitle);
+		//dcsMultiTrack('DCS.dcsuri',currPage,'WT.ti',customTitle);
 	}
-	
+
 	function searchFunction(searchterm){
 		//alert("you searched for "+searchterm);
 		var curEnvironment = window.location.href;
@@ -40,13 +40,28 @@
 	}
 //-->
 </script>
+<!-- START OF New Webtrends Tagging Support Code - 2010 -->
+<script language="javascript" type="text/javascript" src="/js/webtrends_acuvue.js"></script>
+<script language="javascript" type="text/javascript" src="/js/webtrends_functions.js"></script>
+<script language="javascript" type="text/javascript" src="/js/acuvue_plugin.js"></script>
+<script language="javascript" type="text/javascript" src="/js/searchEngines.js"></script>
+<!-- END: New Webtrends Tagging Support Code - 2010 -->
+
 <!--// BELOW IS NEW FUNCTIONALITY, ADDED BY TODD M. OF VISTAKON IT //-->
 <!--// TO DETERMINE SERVER PATH FOR APP-FUNCTIONS //-->
 <script type="text/javascript" src="/js/serverPath.js"></script>
 <!--// BELOW IS NEW FUNCTIONALITY FOR GOOGLE SEARCH, ADDED BY TODD M. OF VISTAKON IT //-->
 <script type="text/javascript" src="/js/jquery.tools.min.js"></script>
-<title>ACUVUE® - Privacy Policy</title>
-<meta name="description" content="ACUVUE® is the leading provider of prescription contact lenses, including contacts that change or enhance your eye color. Get a Free Trial Pair Certificate at Acuvue.com">
+
+<!-- BELOW FILE HAS JAVASCRIPT FUNCTION TO OPEN FTCP-POPUP -->
+<script type="text/javascript" src="/js/product-popup-functions.js"></script>
+
+
+<title>ACUVUE® Brand Privacy Policy | ACUVUE® Brand</title>
+<meta name="description" content="View the ACUVUE® Brand Privacy Policy at ACUVUE.com. The Privacy Policy is designed to tell you about Johnson &amp; Johnson Vision Care, Inc. practices regarding collection, use and disclosure of information that you may provide via ACUVUE.com.">
+<meta name="WT.nv" content="footer-div"> 
+<meta name="WT.cg_n" content="Home"> 
+<meta name="WT.cg_s" content="Privacy Policy">
 <script type="text/javascript">
 	/*
 	* 0 based index of which main item and sub item are selected in the left navigation
@@ -147,7 +162,7 @@ div#main-content h3#first-title-footer {
                                 <ul>
                                     <li id="navChildReady"><a href="/thinking-whocanwear-child.htm">Is my child ready?</a></li>
                                     <li id="navWhatToAskDoctor"><a href="/thinking-whocanwear-ask.htm">What to ask the eye doctor</a></li>
-                                </ul>	
+                                </ul>
                                 <div class="rounded-bg"></div>
                             </div>
                         </div>
@@ -207,22 +222,14 @@ div#main-content h3#first-title-footer {
             <a href="buying-getting-started.htm">Getting started</a></li>
           <li id="navLensAdvisor"><a href="javascript:buildLensAdvisorApp();">Lens Advisor</a></li>
           <li id="navFindDoctor"><a href="/buying-home.htm">Find an eye doctor</a></li>
-          <li class="has-sub" id="navCostInsurance">
-            <div class="third-level">
-              <div class="wrapper">
-                <ul>
-                  <li id="navAcuvueDirect"><a href="/acuvue-direct.htm">ACUVUE<span class="super">®</span> DIRECT<span class="super">™</span></a></li>
-                </ul>
-                <div class="rounded-bg"></div>
-              </div>
-            </div>
-            <a href="/buying-cost-insurance.htm">Cost &amp; Insurance</a></li>
+          <li id="navCostInsurance"><a href="/buying-cost-insurance.htm">Cost &amp; Insurance</a></li>
+
           <li id="navGetRebateOffer">
             <!--
 			<div class="third-level">
               <div class="wrapper">
                 <ul>
-                  <li id="navGetRebateOffer"><a href="/pdf/MoneyBackGuar.pdf" target="_blank">Money Back Guarantee (pdf)</a></li>
+                  <li id="navGetRebateOffer"><a href="" onclick="javascript:internalLinkPDF('/pdf/MoneyBackGuar.pdf','Money Back Guarantee'); return false;" target="_blank">Money Back Guarantee (pdf)</a></li>
                 </ul>
                 <div class="rounded-bg"></div>
               </div>
@@ -249,7 +256,7 @@ div#main-content h3#first-title-footer {
                                     <li id="navDryness"><a href="/wearing-eye-health-redness.htm">Help for red eyes and dryness</a></li>
                                 </ul>
                                 <div class="rounded-bg"></div>
-                            </div>	
+                            </div>
                         </div>
                         <a href="/wearing-eye-health-comfort.htm">Eye Health and Comfort</a>
                     </li>
@@ -301,38 +308,38 @@ div#main-content h3#first-title-footer {
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navHydraclearLensDetails"><a href="/products-acuvue-oasys.htm?ProdId=3&amp;tabId=2">Lens details</a></li>
-                          <li id="navHydraclearChartsGraphs"><a href="/products-acuvue-oasys.htm?ProdId=3&amp;tabId=3">Charts &amp; Graphs</a></li>
-                          <li id="navHydraclearAskAcuvue"><a href="/products-acuvue-oasys.htm?ProdId=3&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navHydraclearLensDetails"><a href="http://www.acuvue.com/products-acuvue-oasys.htm?ProdId=3&amp;tabId=2">Lens details</a></li>
+                          <li id="navHydraclearChartsGraphs"><a href="http://www.acuvue.com/products-acuvue-oasys.htm?ProdId=3&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navHydraclearAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-oasys.htm?ProdId=3&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-oasys.htm?ProdId=3">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> with HYDRACLEAR<span class="super">®</span> <em>Plus</em></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-oasys.htm?ProdId=3">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> with HYDRACLEAR<span class="super">®</span> <em>Plus</em></a></li>
                   <li class="has-sub" id="navOasysBrand">
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navForAstigmatismLensDetails"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=2">Lens details</a></li>
-                          <li id="navForAstigmatismChartsGraphs"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=3">Charts &amp; Graphs</a></li>
-                          <li id="navForAstigmatismAskAcuvue"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navForAstigmatismLensDetails"><a href="http://www.acuvue.com/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=2">Lens details</a></li>
+                          <li id="navForAstigmatismChartsGraphs"><a href="http://www.acuvue.com/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navForAstigmatismAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> <em>for ASTIGMATISM</em></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-oasys-for-astigmatism.htm?ProdId=4">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> <em>for ASTIGMATISM</em></a></li>
                   <li class="has-sub" id="navOasysBrand">
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navPresbyopiaLensDetails"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=2">Lens details</a></li>
-                          <li id="navPresbyopiaChartsGraphs"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=3">Charts &amp; Graphs</a></li>
-                          <li id="navPresbyopiaAskAcuvue"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navPresbyopiaLensDetails"><a href="http://www.acuvue.com/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=2">Lens details</a></li>
+                          <li id="navPresbyopiaChartsGraphs"><a href="http://www.acuvue.com/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navPresbyopiaAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> <em>for PRESBYOPIA</em></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-oasys-for-presbyopia.htm?ProdId=5">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> <em>for PRESBYOPIA</em></a></li>
                   <!--
                     <li class="has-sub" id="nav1DayBrand">
                         <div class="fourth-level">
@@ -348,29 +355,43 @@ div#main-content h3#first-title-footer {
                         Family</a>
                     </li>
                     -->
-                  <li class="has-sub" id="nav1DayBrand">
+                  <li class="has-sub" id="nav1DayTruEyeBrand">
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navMoistLensDetails"><a href="/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=2">Lens details</a></li>
-                          <li id="navMoistChartsGraphs"><a href="/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=3">Charts &amp; Graphs</a></li>
-                          <li id="navMoistAskAcuvue"><a href="/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navTrueyeLensDetails"><a href="http://www.acuvue.com/products-acuvue-1day-trueye.htm?ProdId=6&amp;tabId=2">Lens details</a></li>
+                          <li id="navTrueyeChartsGraphs"><a href="http://www.acuvue.com/products-acuvue-1day-trueye.htm?ProdId=6&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navTrueyeAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-1day-trueye.htm?ProdId=6&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-1day-moist.htm?ProdId=0"><em>1•DAY</em> ACUVUE<span class="super">®</span> <em>MOIST</em><span class="super">®</span></a></li>
-                  <li class="has-sub" id="nav1DayBrand">
-                    <div class="fourth-level">
+                    <a href="http://www.acuvue.com/products-acuvue-1day-trueye.htm?ProdId=6"><em>1•DAY</em> ACUVUE<span class="super">®</span> TruEye<span class="super">™</span></a></li>
+
+					<li class="has-sub" id="nav1DayMoistBrand">
+					<div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="nav1DayLensDetails"><a href="/products-1day-acuvue.htm?tabId=2">Lens details</a></li>
-                          <li id="nav1DayAskAcuvue"><a href="/products-1day-acuvue.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navMoistLensDetails"><a href="http://www.acuvue.com/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=2">Lens details</a></li>
+                          <li id="navMoistChartsGraphs"><a href="http://www.acuvue.com/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navMoistAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-1day-acuvue.htm"><em>1•DAY</em> ACUVUE<span class="super">®</span></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-1day-moist.htm?ProdId=0"><em>1•DAY</em> ACUVUE<span class="super">®</span> <em>MOIST</em><span class="super">®</span></a></li>
+
+				  <li class="has-sub" id="nav1DayBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="nav1DayLensDetails"><a href="http://www.acuvue.com/products-1day-acuvue.htm?tabId=2">Lens details</a></li>
+                          <li id="nav1DayAskAcuvue"><a href="http://www.acuvue.com/products-1day-acuvue.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="http://www.acuvue.com/products-1day-acuvue.htm"><em>1•DAY</em> ACUVUE<span class="super">®</span></a></li>
                   <!--
                     <li class="has-sub" id="navAdvanceBrand">
                         <div class="fourth-level">
@@ -389,26 +410,39 @@ div#main-content h3#first-title-footer {
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1&amp;tabId=2">Lens details</a></li>
-                          <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1&amp;tabId=3">Charts &amp; Graphs</a></li>
-                          <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navAdvancePlus"><a href="http://www.acuvue.com/products-acuvue-advance-plus.htm?ProdId=7&amp;tabId=2">Lens details</a></li>
+                          <li id="navAdvancePlus"><a href="http://www.acuvue.com/products-acuvue-advance-plus.htm?ProdId=7&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navAdvancePlus"><a href="http://www.acuvue.com/products-acuvue-advance-plus.htm?ProdId=7&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-advance.htm?ProdId=1">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> with HYDRACLEAR<span class="super">®</span></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-advance-plus.htm?ProdId=7">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> Plus</a></li>
+
+				  <li class="has-sub" id="navAdvanceBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navWithHydraclear"><a href="http://www.acuvue.com/products-acuvue-advance.htm?ProdId=1&amp;tabId=2">Lens details</a></li>
+                          <li id="navWithHydraclear"><a href="http://www.acuvue.com/products-acuvue-advance.htm?ProdId=1&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navWithHydraclear"><a href="http://www.acuvue.com/products-acuvue-advance.htm?ProdId=1&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="http://www.acuvue.com/products-acuvue-advance.htm?ProdId=1">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> with HYDRACLEAR<span class="super">®</span></a></li>
                   <li class="has-sub" id="navAdvanceBrand">
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=2">Lens details</a></li>
-                          <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=3">Charts &amp; Graphs</a></li>
-                          <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navForAstigmatism"><a href="http://www.acuvue.com/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=2">Lens details</a></li>
+                          <li id="navForAstigmatism"><a href="http://www.acuvue.com/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navForAstigmatism"><a href="http://www.acuvue.com/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-advance-astig.htm?ProdId=2">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> <em>for ASTIGMATISM</em></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-advance-astig.htm?ProdId=2">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> <em>for ASTIGMATISM</em></a></li>
                   <!--
                     <li class="has-sub" id="nav2Brand">
                         <div class="fourth-level">
@@ -427,35 +461,35 @@ div#main-content h3#first-title-footer {
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="nav2LensDetails"><a href="/products-acuvue-2.htm?tabId=2">Lens details</a></li>
-                          <li id="nav2AskAcuvue"><a href="/products-acuvue-2.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="nav2LensDetails"><a href="http://www.acuvue.com/products-acuvue-2.htm?tabId=2">Lens details</a></li>
+                          <li id="nav2AskAcuvue"><a href="http://www.acuvue.com/products-acuvue-2.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-2.htm">ACUVUE<span class="super">®</span> <em>2</em>™</a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-2.htm">ACUVUE<span class="super">®</span> <em>2</em>™</a></li>
                   <li class="has-sub" id="nav2Brand">
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="nav2ColoursLensDetails"><a href="/products-acuvue-2-colours.htm?tabId=2">Lens details</a></li>
-                          <li id="nav2ColoursAskAcuvue"><a href="/products-acuvue-2-colours.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="nav2ColoursLensDetails"><a href="http://www.acuvue.com/products-acuvue-2-colours.htm?tabId=2">Lens details</a></li>
+                          <li id="nav2ColoursAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-2-colours.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-2-colours.htm">ACUVUE<span class="super">®</span> <em>2 COLOURS</em>™</a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-2-colours.htm">ACUVUE<span class="super">®</span> <em>2 COLOURS</em>™</a></li>
                   <li class="has-sub" id="navAcuvueBrand">
                     <div class="fourth-level">
                       <div class="wrapper">
                         <ul>
-                          <li id="navBifocalLensDetails"><a href="/products-acuvue-bifocal.htm?tabId=2">Lens details</a></li>
-                          <li id="navBifocalAskAcuvue"><a href="/products-acuvue-bifocal.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                          <li id="navBifocalLensDetails"><a href="http://www.acuvue.com/products-acuvue-bifocal.htm?tabId=2">Lens details</a></li>
+                          <li id="navBifocalAskAcuvue"><a href="http://www.acuvue.com/products-acuvue-bifocal.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
                         </ul>
                         <div class="rounded-bg"></div>
                       </div>
                     </div>
-                    <a href="/products-acuvue-bifocal.htm">ACUVUE<span class="super">®</span> <em>BIFOCAL</em></a></li>
+                    <a href="http://www.acuvue.com/products-acuvue-bifocal.htm">ACUVUE<span class="super">®</span> <em>BIFOCAL</em></a></li>
                 </ul>
                 <div class="rounded-bg"></div>
               </div>
@@ -478,8 +512,8 @@ div#main-content h3#first-title-footer {
 		<ul class="second-level acc-content">
 		   <li id="navOverview"><a href="javascript:buildLensAdvisorApp();">Lens Advisor</a></li>
         </ul>
-      </li>
-      <li class="acc-wrapper main-nav-item" id="navResources"><a href="#" class="acc-trigger">RESOURCES</a>
+
+      </li><li class="acc-wrapper main-nav-item" id="navResources"><a href="#" class="acc-trigger">RESOURCES</a>
         <ul class="second-level acc-content">
           <li id="navVisionPerformance"><a href="/vision-performance.htm">Vision &amp; Performance</a></li>
           <li class="has-sub" id="navCommonProblems">
@@ -502,12 +536,12 @@ div#main-content h3#first-title-footer {
     </ul>
     <div class="bottom-content">
       <ul class="first-level">
-        <li class="main-nav-item" id="navRebates"><a href="/buying-rebates.htm">Rebates</a></li>
-        <li class="main-nav-item" id="navRebates"><a href="/events-promo.htm">Events &amp; Promotions</a></li>
-        <li class="main-nav-item" id="navSafeyInfo"><a href="/fair_balance.htm">Safety Information</a></li>
+        <li class="main-nav-item" id="navRebates"><a href="/buying-rebates.htm?WT.nv=left-nav-content">Rebates</a></li>
+        <li class="main-nav-item" id="navEventsPromo"><a href="/events-promo.htm">Events &amp; Promotions</a></li>
+        <li class="main-nav-item" id="navSafetyInfo"><a href="/fair_balance.htm">Safety Information</a></li>
       </ul>
-      <a class="nav-tout" href="javascript:buildAppWindow();" id="navProductTout_Acuvue_Oasys_Hydraclear"> <img class="tout-img" src="/images/leftnav/tout_img.gif" alt="ACUVUE® OASYS® with HYDRACLEAR™ Plus" title="Get your FREE* Trial Pair Certificate"></a> <a class="nav-tout" href="javascript:buildAppWindow();" id="navFreeTrialCertificate"> Get your <span class="bigger">FREE*</span><br>
-      Trial Pair Certificate <img src="/images/leftnav/cta_bg.gif" alt="Get your FREE* Trial Pair Certificate"></a></div>
+      <a class="nav-tout" href="javascript:onclick_ftpc();" id="navProductTout_Acuvue_Oasys_Hydraclear"> <img class="tout-img" src="/images/leftnav/tout_img_new.gif" alt="ACUVUE® OASYS® with HYDRACLEAR™ Plus" title="Get your FREE* Trial Lenses"></a> <a class="nav-tout" href="javascript:onclick_ftpc();" id="navFreeTrialCertificate"> Get your <span class="bigger">FREE*</span>
+      Trial Lenses <img src="/images/leftnav/cta_bg.gif" alt="Get your FREE* Trial Lenses" style="margin-bottom:-2px;"></a></div>
   </div>
   <div class="rounded-bg"></div>
 </div>
@@ -642,8 +676,8 @@ td#header div#toolbar{
 	<ul>
 		<li class="no-border"><a href="javascript:changeFontSize('down');" title="Decrease Font Size"><img src="/images/ico-text-size-sm.gif" alt="Decrease Font Size"></a></li>
 		<li class="no-border"><a href="javascript:changeFontSize('up');" title="Increase Font Size"><img src="/images/ico-text-size-lg.gif" alt="Increase Font Size"></a></li>
-		<li class="no-border print"><a href="javascript:print()" title="Print"><img src="/images/ico-print.gif" alt="Print"></a></li>
-		<li class="no-border"><a href="" onclick="showShareFlyout(this,-325,20,356,175); return false;" title="Share"><img src="/images/ico-email.gif" alt="Share"></a></li>
+		<li class="no-border print"><a href="javascript:printPage();" title="Print"><img src="/images/ico-print.gif" alt="Print"></a></li>
+		<li class="no-border"><a href="" onclick="javascript:showShareFlyout(this,-325,20,356,175); return false;" title="Share"><img src="/images/ico-email.gif" alt="Share"></a></li>
 		<!--<li class="no-border"><a href="#" title="Ask ACUVUE&#174;"><img src="/images/ico-share.gif" alt="Ask ACUVUE&#174;" /></a></li>-->
 	</ul>
 </div>
@@ -697,50 +731,61 @@ td#header div#toolbar{
         <h4 class="body-title">Other Terms</h4>
         <p class="body-text">Your use of this site is subject to our <a href="legal_notice.htm" title="Legal Notice">Legal Notice</a>.</p>
         <h4 class="body-title">How to Contact Us</h4>
-        <p class="body-text">If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please <a href="contact_us.htm" title="contact us">contact us</a>.</p>
+        <p class="body-text">If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please contact us:<br>
+		<br>
+		<strong>By telephone:</strong> (800) 843-2020<br>
+		<strong>By email:</strong> <a href="mailto:vpiweb@visus.jnj.com">vpiweb@visus.jnj.com</a><br>
+		<strong>By mail:</strong> Johnson &amp; Johnson Vision Care, Inc.<br>
+		7500 Centurion Parkway, Suite 100<br>
+		Mail Stop: D-CREL<br>
+		Jacksonville, Florida 32256</p>
         <h4 class="body-title">Changes to This Privacy Policy</h4>
-        <p class="body-text">If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.</p>
+        <p class="body-text">If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 23, 2010.</p>
       </div></td>
   </tr>
   <tr>
-    <td colspan="3" id="footer"><div id="icons-list">
-  <div id="ecp-icon"><a href="http://www.jnjvisioncare.com" target="_blank"><img src="/images/spacer.gif" width="124" height="42" border="0"></a></div>
-  <div id="facebook-icon"><a href="http://www.facebook.com/acuvue" onclick="return externalLink('http://www.facebook.com/acuvue', this);"><img src="/images/spacer.gif" width="42" height="42" border="0"></a></div>
-  <div id="youtube-icon"><a href="http://www.youtube.com/acuvue" onclick="return externalLink('http://www.youtube.com/acuvue', this);"><img src="/images/spacer.gif" width="42" height="42" border="0"></a></div>
-  <div id="advamed">
-    <div id="advamed-icon"> <a href="http://www.advamed.org/MemberPortal/About/code" onclick="return externalLink('http://www.advamed.org/MemberPortal/About/code', this);"><img src="/images/spacer.gif" width="40" height="42" border="0"></a> </div>
-    <div id="advamed-text">We support the AdvaMed Code of Ethics on Interactions with Health Care Professionals.</div>
-  </div>
-</div>
-<br clear="all">
-<div id="footer-div">
-  <ul>
-    <li><a href="/contact_us.htm" title="Contact Us">Contact Us</a></li>
-    <li><a href="/our_credo.htm" title="Credo">Our Credo</a></li>
-    <li><a href="/about_us.htm" title="About ACUVUE®">About Us</a></li>
-    <li><a href="/press.htm" title="Press Room">Press Room</a></li>
-    <li><a href="/careers.htm" title="Careers">Careers</a></li>
-    <li><a href="/site_map.htm" title="Site Map">Site Map</a></li>
-    <li><a href="/privacy_policy.htm" title="Privacy Policy">Privacy Policy</a></li>
-    <li><a href="/legal_notice.htm" title="Legal">Legal</a></li>
-    <li><a href="/safe_harbor.htm" title="Safe Harbor">Safe Harbor</a> </li>
-    <li><a href="/fair_balance.htm" title="Important Safety Information">Important Safety Information</a></li>
-    <li><a href="/country_list.htm" title="Select your country">Select Country</a></li>
-  </ul>
+    <td colspan="3" id="footer">
+	<div id="icons-list">
+		<div id="ecp-icon"><a href="" onclick="javascript:internalLinkNewWin('http://www.jnjvisioncare.com','ecp-icon'); return false;"><img src="/images/spacer.gif" width="124" height="42" border="0"></a></div>
+		<div id="facebook-icon"><a href="http://www.facebook.com/acuvue" onclick="externalLink('http://www.facebook.com/acuvue','facebook-icon',''); return false;"><img src="/images/spacer.gif" width="42" height="42" border="0"></a></div>
+		<div id="youtube-icon"><a href="http://www.youtube.com/acuvue" onclick="externalLink('http://www.youtube.com/acuvue','youtube-icon',''); return false;"><img src="/images/spacer.gif" width="42" height="42" border="0"></a></div>
+		<div id="advamed">
+			<div id="advamed-icon"><a href="http://www.advamed.org/MemberPortal/About/code" onclick="externalLink('http://www.advamed.org/MemberPortal/About/code','advamed-icon',''); return false;"><img src="/images/spacer.gif" width="40" height="42" border="0"></a> </div>
+			<div id="advamed-text">We support the AdvaMed Code of Ethics on Interactions with Health Care Professionals.</div>
+		</div>
+	</div>
+	<br clear="all">
+	<div id="footer-div">
+	<ul>
+		<li><a href="https://www.acuvue.com/contact_us.htm?WT.nv=footer-div" title="Contact Us">Contact Us</a></li>
+		<li><a href="https://www.acuvue.com/our_credo.htm" title="Credo">Our Credo</a></li>
+		<li><a href="https://www.acuvue.com/about_us.htm" title="About ACUVUE®">About Us</a></li>
+		<li><a href="https://www.acuvue.com/press.htm" title="Press Room">Press Room</a></li>
+		<li><a href="https://www.acuvue.com/careers.htm" title="Careers">Careers</a></li>
+		<li><a href="https://www.acuvue.com/site_map.htm" title="Site Map">Site Map</a></li>
+		<li><a href="https://www.acuvue.com/privacy_policy.htm" title="Privacy Policy">Privacy Policy</a></li>
+		<li><a href="https://www.acuvue.com/legal_notice.htm" title="Legal">Legal</a></li>
+		<li><a href="https://www.acuvue.com/safe_harbor.htm" title="Safe Harbor">Safe Harbor</a> </li>
+		<li><a href="https://www.acuvue.com/fair_balance.htm?WT.nv=footer-div" title="Important Safety Information">Important Safety Information</a></li>
+		<li><a href="https://www.acuvue.com/country_list.htm" title="Select your country">Select Country</a></li>
+	</ul>
 </div>
 <p style="font:10px Arial, Helvetica, sans-serif; text-align:center; color:#999999">*Professional exam and fitting fees are not included.<br>
-  © JJVCI 1996 - <script type="text/javascript">test= new Date();year = test.getFullYear();document.write(year);</script>2020
-  . 
-  All rights reserved. This site is published by JJVCI, which is solely responsible for its content. It is intended for use by residents of the United States. ACUVUE<sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> <em>MOIST</em><sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> TruEye<em>™</em>, ACUVUE<sup>®</sup> ADVANCE<sup>®</sup>, ACUVUE<sup>®</sup> OASYS<sup>®</sup>, HYDRACLEAR<sup>®</sup>, ACUVUE<sup>®</sup> <em>2</em>™, ACUVUE<sup>®</sup> <em>2 COLOURS</em>™, ACUMINDER™, and PUPIL INTELLIGENT DESIGN™<br>
-  are trademarks of Johnson &amp; Johnson Vision Care, Inc.</p>
-<script type="text/javascript" src="http://www.customerconversio.com/us/jjworld/acuvuesc09/sitecrm/sitecrm.aspx"></script>
-
+© JJVCI 1996 - <script type="text/javascript">test= new Date();year = test.getFullYear();document.write(year);</script>2020. 
+All rights reserved. This site is published by JJVCI, which is solely responsible for its content. It is intended for use by residents of the United States.<br>
+ACUVUE<sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> <em>MOIST</em><sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> TruEye<em>™</em>, ACUVUE<sup>®</sup> ADVANCE<sup>®</sup>, ACUVUE<sup>®</sup> ADVANCE<sup>®</sup> Plus, ACUVUE<sup>®</sup> OASYS<sup>®</sup>,<br>
+HYDRACLEAR<sup>®</sup>, ACUVUE<sup>®</sup> <em>2</em>™, ACUVUE<sup>®</sup> <em>2 COLOURS</em>™, ACUMINDER™, and PUPIL INTELLIGENT DESIGN™<br>
+are trademarks of Johnson &amp; Johnson Vision Care, Inc.</p>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "customerconversio.com/us/jjworld/acuvuesc09/sitecrm/sitecrm.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.customerconversio.com/us/jjworld/acuvuesc09/sitecrm/sitecrm.aspx" type="text/javascript"></script>
       <!-- Date modified, etc. -->
       <table width="100%" id="last-modified" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td width="100%" valign="top" class="footer">Date Modified:
             
-            03/12/10</td>
+            08/05/10</td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -750,14 +795,18 @@ td#header div#toolbar{
 <script type="text/javascript" src="/js/jquery.scrollpane.js"></script>
 <script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="/js/jquery.pngFix.js"></script>
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2006 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2006/03/01 12:51:54 $ -->
-<script src="/js/dcs2.js" type="text/javascript"></script>
-<noscript>
-<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://sdc.be.jnj.com/dcsf4xstd100004b397kpvfov_1k1j/njs.gif?dcscfg=4&dcsuri=/nojavascript&amp;WT.js=No" />
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
+<!-- START OF SmartSource Data Collector TAG - OLD CODE -->
+	<!-- Copyright (c) 1996-2006 WebTrends Inc.  All rights reserved. -->
+	<!-- $DateTime: 2006/03/01 12:51:54 $ -->
+	<!--
+	<script src="/js/dcs2.js" type="text/javascript"></script>
+	<noscript>
+	<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://sdc.be.jnj.com/dcsf4xstd100004b397kpvfov_1k1j/njs.gif?dcscfg=4&dcsuri=/nojavascript&amp;WT.js=No" />
+	</noscript>
+	-->
+<!-- END OF SmartSource Data Collector TAG - OLD CODE -->
+
+<!-- Google Analytics Code: This script is relevant to Google Analytics, not WebTrends -->
 <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -768,6 +817,20 @@ td#header div#toolbar{
 		pageTracker._trackPageview();
 	} catch(err) {}
 </script>
+<!-- END: Google Analytics Code -->
 
-
+<!-- START OF New Webtrends Tagging Support Code - 2010 -->
+<script type="text/javascript" language="javascript">
+	//alert("Webtrands create()");
+	var _acuvue = new Acuvue();
+	var _tag = new WebTrends();
+</script>
+<script type="text/javascript">
+	_tag.dcsGetId();
+</script><script type="text/javascript" src="https://sdc.be.jnj.com/dcsf4xstd100004b397kpvfov_1k1j/wtid.js"></script>
+<script type="text/javascript">
+	_tag.dcsCollect(_acuvue);
+	//_tag.dcsMultiTrack();
+</script>
+<!-- END: New Webtrends Tagging Support Code - 2010 -->
 </body></html>
