@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172127id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224155317id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
 
 # Catererglobal.com - Privacy Policy - International Hospitality Jobs - Hotel and catering jobs abroad
 
 At Catererglobal.com, we make every effort to comply with our obligations under the 1998 Data Protection Act.
 
-Additionally, we understand the importance of maintaining the confidentiality of your CV and Profile, and other information you may give us while using the site. You can amend or delete any of the information that catererglobal.com stores about you by logging in to ‘My Account’ or by contacting us at [**webadmin@catererglobal.com**](mailto:webadmin@catererglobal.com) with your request.
+Additionally, we understand the importance of maintaining the confidentiality of your CV and Profile, and other information you may give us while using the site. You can amend or delete any of the information that catererglobal.com stores about you by logging in to ‘My Account’ or by contacting us at [**customer.support@totaljobsgroup.com**](mailto:customer.support@totaljobsgroup.com) with your request.
 
 Catererglobal.com is part of the Total Jobs Group Ltd group of websites
 
