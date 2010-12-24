@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastbrookhomes.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617182935id_/http%3A//www.eastbrookhomes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastbrookhomes.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224223349id_/http%3A//www.eastbrookhomes.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Eastbrook Homes - the leading Energy Star builder in Michigan
 
@@ -8,7 +8,7 @@ Any personal information you provide to us including and similar to your name, a
 
 ### E-mail lists
 
-It is not the practice of Eastbrook Homes to send an inappropriate amount of e-mail nor do we wish to send information to those who do not desire to receive it. You always have the option to unsubscribe to any and all e-mail lists by clicking on a link in one of our e-mails, sending a message to the [webmaster](mailto:webmaster@eastbrookhomes.com), or contacting us using any of the [contact information](https://web.archive.org/web/20100617182935id_/http%3A//www.eastbrookhomes.com/contact.html) clearly indicated on our site.
+It is not the practice of Eastbrook Homes to send an inappropriate amount of e-mail nor do we wish to send information to those who do not desire to receive it. You always have the option to unsubscribe to any and all e-mail lists by clicking on a link in one of our e-mails, sending a message to the [webmaster](mailto:webmaster@eastbrookhomes.com), or contacting us using any of the [contact information](https://web.archive.org/web/20101224223349id_/http%3A//www.eastbrookhomes.com/contact.html) clearly indicated on our site.
 
 ### **Credit card details**
 
