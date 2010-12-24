@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ciscolive.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526090257id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscolive.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224195522id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Systems, Inc. Online Privacy Statement - Cisco Systems
 
-_REVISED AND POSTED AS OF: MARCH 31, 2010._ Please note this version does not substantively change the way we treat personal information compared to the previous version of the privacy statement available [here](https://web.archive.org/web/siteassets/legal/privacy_05may09.html).
+_REVISED AND POSTED AS OF: JUNE 2, 2010._ Please note this version does not substantively change the way we treat personal information compared to the previous version of the privacy statement available [here](https://web.archive.org/web/siteassets/legal/privacy31mar10.html).
 
 Cisco Systems, Inc. and its subsidiaries (including Cisco Consumer Products LLC, Cisco WebEx LLC, and Pure Digital Technologies LLC) (collectively “Cisco”) are committed to protecting your privacy and ensuring you have a positive experience on our websites and in using our products and services referenced at the right (“Solutions”).
 
 ### TRUSTe Certification
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.cisco.com) | 
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.cisco.com/seal_l "Validate TRUSTe privacy certification") | 
 
 Cisco Systems, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
@@ -105,12 +105,14 @@ You may have the ability to view or edit your Personal Information online. In or
 
   * **Cisco.com** – You can access and update your profile using the [Cisco Profile Management Tool](http://www.cisco.com/web/siteassets/account/index.html). You may also make these updates or request deactivation of your website profile by sending an email to [privacy@cisco.com](mailto:privacy@cisco.com). 
   * **Home.cisco.com (formerly Linksysbycisco.com)** – You can access and update your profile by signing into your Online Account at <http://home.cisco.com/>. You may also make these updates or request deactivation of your website profile by sending an email to [privacy@linksys.com](mailto:privacy@linksys.com). 
-  * **Webex.com** \- You can access and update your profile by signing into your user online account at <http://support.webex.com/mywebexresources>. You may also make these updates or request deactivation of your website profile by sending an email to [privacy@webex.com](mailto:privacy@webex.com). 
+  * **Webex.com** \- You can access and update your profile by signing into your user online account at <http://try.webex.com/mk/get/profile>. You may also make these updates or request deactivation of your website profile by sending an email to [privacy@webex.com](mailto:privacy@webex.com). 
   * **TheFlip.com** \- You can access and update your profile by signing into your user online account at <http://puredigital2.custhelp.com/cgi-bin/puredigital2.cfg/php/enduser/ask.php>. You may also make these updates or request deactivation of your website profile by sending an email to [remove@theflip.com](mailto:remove@theflip.com). 
 
 
 
 Some Cisco websites or Solutions may collect Personal Information that is not accessible via the links above. However, in such cases, you may be able to access that information through alternative means of access described by the Solution. For example, if you are a registered user of any of the WebEx services, you may make these updates online.
+
+For a list of entities that may be considered data controllers from time to time and where you can exercise your rights of access and request corrections or deactivations under applicable data protection laws, [click here](https://web.archive.org/web/siteassets/legal/privacy_locations.html).
 
 back to top
 
