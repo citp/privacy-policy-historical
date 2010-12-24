@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zivity.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501134650id_/http%3A//www.zivity.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zivity.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224181630id_/http%3A//www.zivity.com/legal/privacy) for the most accurate reproduction.*
 
 # Zivity » Privacy Policy
 
