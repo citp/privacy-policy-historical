@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aiminglow.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509020409id_/http%3A//aiminglow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiminglow.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225002902id_/http%3A//aiminglow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Aiming Low
 
 When accessing our Website, Aiming Low Media LLC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
