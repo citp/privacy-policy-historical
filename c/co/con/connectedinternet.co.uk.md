@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329134346id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224055348id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Connected Internet
 
@@ -17,3 +17,6 @@ We use third-party advertising companies to serve ads when you visit our website
 Connected Internet is suitable for all ages, but not knowingly collect personal information from children under 13 years old.
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website.
+
+**GD Star Rating**  
+ _loading..._
