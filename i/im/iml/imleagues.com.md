@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630014138id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224155113id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
 
 # :: imleagues ::
 
@@ -81,6 +81,8 @@ In conjunction with the use of the Imleagues Development Platform, third parties
 Advertisements that appear on imleagues are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Imleagues does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Imleagues unless you choose to share it with them. 
 
 This privacy policy covers the use of cookies by imleagues and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **Changing or Removing Information:**  
 imleagues users may modify or remove any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Imleagues account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of imleagues. 
