@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsbuzz.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508022821id_/http%3A//trendsbuzz.com/localized/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsbuzz.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224025311id_/http%3A//trendsbuzz.com/localized/en/privacy.php) for the most accurate reproduction.*
 
 # Trends Buzz - Privacy Policy
 
