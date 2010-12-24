@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609164022id_/http%3A//www.macspares.co.za/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macspares.co.za privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224081230id_/http%3A//www.macspares.co.za/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : MacSpares, Supplying Africa by E commerce
+# Privacy Notice : MacSpares | Wholesale spare parts, Supplying Africa by E commerce
 
 At Macspares.co.za, your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. Macspares.co.za does not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
 
