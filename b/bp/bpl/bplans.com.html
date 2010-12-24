@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bplans.com privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531073335id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bplans.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224071047id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!--www.bplans.com--> <title>Privacy Policy - Bplans.com</title>
+<!--win.bplans.com--> <title>Privacy Policy - Bplans.com</title>
 <meta name="Description" content="Privacy Policy - Bplans.com">
 <meta name="Keywords" content="Privacy Policy - Bplans.com">
 <meta name="verify-v1" content="raKR0axqL43BpgeLbDvdUbE5ud6VrTATFKPjvl+hXZM=">
@@ -60,7 +60,39 @@ function passEmail()
 <div style="width:900px; margin:0 auto;">
 
 		
+<!--
 
+<script>
+document.write('<div id="top-message-bar"></div><div id="top-message-bar-spacer">&nbsp;</div>');
+function animate_top_message_bar()
+{
+ var bar = document.getElementById('top-message-bar');
+ bar.velocity += 0.03;
+ bar.step += bar.velocity;
+ if ( bar.step >= 1.0 )
+ {
+ bar.step = 1.0;
+ if ( Math.abs(bar.velocity) < 0.05 )
+ clearInterval(bar_interval);
+ else
+ bar.velocity = bar.velocity*-0.7;
+ }
+ bar.style.top = parseInt(-25+25*bar.step)+"px";
+}
+var bar = document.getElementById('top-message-bar');
+bar.innerHTML = "<strong>Bplans.com exclusive offer!</strong> Save $40 on Business Plan Pro Premier today. <a href=\"/business_planning_software/bar.cfm\">Learn more</a>\r";
+
+bar.style.top = '0px';
+
+</script>
+
+-->
+<!-- Display our technology survey link on the home page for 25% of users (randomly) -->
+<!-- To display on every page, use this cfif logic: not findnocase('business_planning_software',cgi.PATH_INFO) and not findnocase('flp',cgi.PATH_INFO) -->
+<!--
+
+-->
+<!-- End of random technology survey link -->
 <style type="text/css">
 <!--
 #setup {
@@ -107,7 +139,7 @@ display:block;
 				
 				
 			</div>
-			<a href="http://www.paloalto.com/"><img style="float:right;margin-top:7px;" src="http://cache.paswebteam.com/bplans.com/graphical/images/pas-logo.jpg" alt="Palo Alto Software" border="0"></a>
+			<a href="http://www.paloalto.com/"><img style="float:right;margin-top:7px;" src="http://cache.paswebteam.com/bplans.com/graphical/images/pas-logo.jpg" alt="Business Plan Software from Palo Alto Software" border="0"></a>
 			<div class="menu">
 				<ul>
 					<li><a class="hide" href="http://www.bplans.com/sample_business_plans.cfm">Sample Plans</a>
@@ -156,25 +188,6 @@ display:block;
 							</a>
 						<![endif]-->
 					</li>					
-					<li><a class="hide" href="http://pitch.bplans.com/">Pitch Center</a>
-						<!--[if lte IE 6]>
-							<a href="http://pitch.bplans.com/">Pitch Center
-								<table>
-									<tr>
-										<td>
-						<![endif]-->
-						<ul>
-							<li><a href="http://pitch.bplans.com/">Browse Business Pitches</a></li>
-							<li><a href="http://pitch.bplans.com/submit.php">Share Your Business Pitch</a></li>
-							<li><a href="http://pitch.bplans.com/tips_and_advice.php">Pitching Tips &amp; Advice</a></li>
-						</ul>
-						<!--[if lte IE 6]>
-										</td>
-									</tr>
-								</table>
-							</a>
-						<![endif]-->
-					</li>
 					<li><a class="hide" href="http://www.bplans.com/resources/featured.cfm">Resources</a>
 						<!--[if lte IE 6]>
 							<a href="http://www.bplans.com/resources/featured.cfm">Resources
@@ -211,7 +224,7 @@ display:block;
 							<li><a href="http://www.bplans.com/business_planning_software/">Business Plan Software</a></li>
 							<li><a href="http://www.bplans.com/marketing_plan_software/">Marketing Plan Software</a></li>
 							<li><a href="http://www.emailcenterpro.com">Email Management</a></li>
-							<li><a href="http://www.paloalto.co.uk">UK Software</a></li>
+							<li><a href="http://www.paloalto.co.uk">UK Business Plan Software</a></li>
 							<li><a href="http://www.paloalto.com/all_products.cfm">More Business Software</a></li>
 						
 						</ul>
@@ -300,7 +313,7 @@ display:block;
 	<li><a href="/videos/">Planning videos</a></li>
 	<li><a href="/fundamentals/">Webinars</a></li>
 	<li><a href="/business_planning_software/">Business plan software</a></li>
-	<li><a href="/business_plan_template/">Business plan template</a></li>
+	<li><a href="http://www.bplans.com/business_plan_template/index.php">Business plan template</a></li>
 	</ul>
 	
 	<h6>HOW TOS</h6>
@@ -338,14 +351,16 @@ display:block;
 	</ul>
 	<h6>NEWSLETTER</h6>
 	<ul>
-	<li>Small business tips and advice. Sent weekly.</li>
+	<li>Small business tips and advice. Sent monthly.</li>
 	<li><form method="post" action="/common/lists/subscribe.cfm">
-						<input type="hidden" name="list" value="BIG Newsletter">
-						<input type="hidden" name="redirect" value="http://www.bplans.com/n/index.cfm?a=sb">
-						<div id="small_business_newsletter_field"><input type="text" name="email" value="Enter email" size="10" onfocus="if(this.value=='Enter email')this.value='';"></div>
-						<div id="small_business_newsletter_button"><input type="image" src="http://cache.paswebteam.com/bplans.com/graphical/images/bplans_home/subscribe.gif" alt="Subscribe"></div>
-					</form></li>
+		<input type="hidden" name="list" value="BIG Newsletter">
+		<input type="hidden" name="redirect" value="http://www.bplans.com/n/sb.cfm">
+		<div id="small_business_newsletter_field"><input type="text" name="email" value="Enter email" size="10" onfocus="if(this.value=='Enter email')this.value='';"></div>
+		<div id="small_business_newsletter_button"><input type="image" src="http://cache.paswebteam.com/bplans.com/graphical/images/bplans_home/subscribe.gif" alt="Subscribe"></div>
+	</form></li>
 	</ul>	
+	
+	<iframe src="http://www.facebook.com/plugins/like.php?href=facebook.com%2Fbplans&amp;layout=button_count&amp;show_faces=true&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
 	</div>
 	<div id="left_sidebar_bottom"> </div>
 </div>
@@ -376,7 +391,7 @@ padding-bottom:12px;
 <h1>Privacy Policy</h1>
 
 		<a href="https://www.truste.org/validate/3759"><img src="/common/gifs/clickseal.gif" align="right" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a><br>
-<p>This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for <a href="http://www.paloalto.com/?affiliate=pas" target="_new">paloalto.com</a>, <a href="http://www.bplans.com/" target="_new">bplans.com</a>, <a href="http://www.mplans.com/" target="_new">mplans.com</a>, <a href="http://www.secureplan.com/" target="_new">secureplan.com</a>, and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:</p>
+<p>This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for <a href="http://www.paloalto.com/?affiliate=1000ventur" target="_new">paloalto.com</a>, <a href="http://www.bplans.com/" target="_new">bplans.com</a>, <a href="http://www.mplans.com/" target="_new">mplans.com</a>, <a href="http://www.secureplan.com/" target="_new">secureplan.com</a>, and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:</p>
 <ol>
 <li>What personally identifiable information of yours or a third party is collected through the website.</li>
 <li>The organization collecting the information. </li>
@@ -718,14 +733,14 @@ margin-bottom:7px;
 	
 	<div id="social-bar-share">Share this page:</div>
 	<ul id="social-bar-icons">
-		<li id="social-bar-facebook"><a target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
-		<li id="social-bar-myspace"><a target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
-		<li id="social-bar-linkedin"><a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm&amp;title=&amp;summary=&amp;source=&amp;armin=armin"></a></li>
-		<li id="social-bar-twitter"><a target="_blank" href="http://twitter.com/home?status=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
-		<li id="social-bar-stumbleupon"><a target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
-		<li id="social-bar-digg"><a target="_blank" href="http://www.digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
-		<li id="social-bar-delicious"><a target="_blank" href="http://del.icio.us/post?url=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
-		<li id="social-bar-email"><a target="_blank" href="mailto:?subject=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm&amp;body=http%3A%2F%2Fwww%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-facebook"><a target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-myspace"><a target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-linkedin"><a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;url=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm&amp;title=&amp;summary=&amp;source=&amp;armin=armin"></a></li>
+		<li id="social-bar-twitter"><a target="_blank" href="http://twitter.com/home?status=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-stumbleupon"><a target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-digg"><a target="_blank" href="http://www.digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-delicious"><a target="_blank" href="http://del.icio.us/post?url=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
+		<li id="social-bar-email"><a target="_blank" href="mailto:?subject=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm&amp;body=http%3A%2F%2Fwin%2Ebplans%2Ecom%2Fc%2Fps%2Ecfm"></a></li>
 	</ul>
 	
 	<div id="social-bar-follow">Follow us:
@@ -734,7 +749,7 @@ margin-bottom:7px;
 		<li> | <a target="_blank" href="/n/">Newsletter</a></li>
 		<li> | <a target="_blank" href="http://www.twitter.com/bplans/">Bplans on Twitter</a></li>
 		<li> | <a target="_blank" href="http://www.twitter.com/timberry/">Tim Berry on Twitter</a></li>
-		<li> | <a target="_blank" href="http://www.facebook.com/pages/Eugene-OR/Palo-Alto-Software/13401255956">Facebook</a></li>
+		<li> | <a target="_blank" href="http://www.facebook.com/bplans">Facebook</a></li>
 		<li> | <a target="_blank" href="http://www.youtube.com/PaloAltoSoftware">YouTube</a></li>
 	</ul>
 	</div>
@@ -755,13 +770,15 @@ margin-bottom:7px;
 		<a href="http://articles.bplans.com/business-term-glossary/" rel="nofollow">Business Glossary</a> |
 		<a href="/business_planning_software/">Business Plan Software</a> | 
 		<a href="/c/about.cfm" rel="nofollow">About Us</a> | 
-		<a href="/contact_us/?affiliate=pas" rel="nofollow">Contact Us</a> |
+		<a href="/contact_us/?affiliate=1000ventur" rel="nofollow">Contact Us</a> |
 		<a href="http://www.bplans.co.uk">Bplans UK</a>
 		</p>
 		
 		<p>
 		Copyright ©1996-2010   Palo Alto Software.     All rights reserved. Read our <a href="/c/ps.cfm">privacy policy</a>.</p>
 	</div>
+
+
 
 
 
@@ -775,12 +792,11 @@ pageTracker._setAllowHash(false);
 pageTracker._setDomainName("bplans.com");
 pageTracker._setAllowLinker(true);
 pageTracker._initData();
+
 pageTracker._trackPageview();
+
 </script>
 <script type="text/javascript" src="http://cache.paswebteam.com/bplans.com/graphical/javascript/gaAddons-100513.js"></script>
-
-
-
 
 
 <script type="text/javascript"><!--
@@ -828,9 +844,24 @@ function _clear() {
 <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/4461.js"> </script>
 
 
-
-
-
+<!-- Google Code for Remarketing Test Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072740800;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "P1ChCMT02wEQwPPC_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072740800/?label=P1ChCMT02wEQwPPC_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
  </div></body></html>
