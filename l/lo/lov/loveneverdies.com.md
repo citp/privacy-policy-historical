@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the loveneverdies.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617191812id_/http%3A//www.loveneverdies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveneverdies.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225005407id_/http%3A//www.loveneverdies.com/privacy-policy) for the most accurate reproduction.*
 
 # Love Never Dies | Privacy Policy
+
+### Privacy Policy
 
 This privacy policy explains what we do with the information that you give us and sets out the basis on which any personal data we collect from you or that you provide to us via this website (the “Site”) will be processed by us. It was last updated in September 2009. For the purpose of the UK Data Protection Act 1998 (“DPA”), the data controller is – The Really Useful Group of Companies.
 
@@ -48,7 +50,7 @@ We collect a variety of information from you in order to help us provide a bette
 
 ### Use of your information
 
-The Really Useful Group of Companies, [click here for the full list](http://www.loveneverdies.com/companies/) will only use your information for the following purposes:
+The Really Useful Group of Companies ([click here](http://www.reallyuseful.com/terms/RUG%20Companies.htm) for a full list) will only use your information for the following purposes: 
 
 1\. to ensure that content from the Site is presented in the most effective manner for you and for your computer;
 
@@ -158,5 +160,3 @@ As mentioned above, we may use an analytics service provider for website traffic
 Our servers are situated in the UK, and when you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the Site.
 
 We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using the Site you consent to us transferring any such data in this way. However any company outside the EEA to whom we transfer data is contractually bound to protect your personal data.
-
-There are currently further items to display.
