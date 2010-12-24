@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinestills.info privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605004051id_/http%3A//www.cinestills.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinestills.info privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224135344id_/http%3A//www.cinestills.info/privacy-policy) for the most accurate reproduction.*
 
-# Latest Tamil Cinema Kollywood News | Events | Movie Stills | Actor Gallery | Actress Gallery | Spicy Gallery | Trailers | etc » Privacy Policy
+# Privacy Policy | Latest Tamil Cinema Kollywood News | Photo Gallery | Trailers | etc
 
 **www.cinestills.info Privacy Policy**  
 _Effective March, 2009_
@@ -62,3 +62,7 @@ We may display links to other sites within www.cinestills.info. We are not respo
 Downloads:**
 
 We do link to other web sites which might support downloads. We are not responsible for the downloadable materials that are present in these websites. We are also not responsible for the legalities and privacy policy binding the downloadable materials of these websites. We are also not responsible for the legalities and privacy policy binding these downloads in the websites that our visitors refer to in our forums and discussions. Downloads referred to in this privacy policy can be videos, images, software, games and any application files.
+
+Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+
+[](http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fis.gd%2Fi6cbA "Post to Twitter")
