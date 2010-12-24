@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_%23Shop%2520Safe%2520on%2520Lowes.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_%23Shop%2520Safe%2520on%2520Lowes.com) for the most accurate reproduction.*
 
-# Privacy and Security Statement brought to you by Lowes.com
+# Lowes.com : Privacy and Security Statement
 
-[](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Contact+Us_347544179_)
-
-### Privacy and Security Statement 
+[](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Contact+Us_347544179_)
 
 We respect the privacy of our customers. This privacy policy statement is designed to help you understand what information we gather online and what we do with that information. Because our Web site will continue to implement new technologies and improve the services and features we provide, this policy is subject to change without prior notice. For that reason, we encourage you to review the privacy policy periodically. Registered users will be notified by e-mail of any material changes in either the scope of the privacy seal, the language of the privacy notice, or our information practices and given the chance to opt-out of any new uses. By using our Web site, you agree to the terms of the privacy policy in effect at that time.
 
-### Information We Gather 
+### Information We Gather
 
 The type of information we gather online is summarized into six general categories. The following explains why we collect this information and how we use it. 
 
@@ -84,9 +82,9 @@ If you choose to purchase products from our site, you will need to provide the f
 
 We use this information for the purpose of fulfilling your order. Your order information will also be used to track and analyze shopping trends. This analysis allows Lowe's to provide the highest quality products and services possible.
 
- **We do NOT sell to any third party under any circumstances any of the personal information you provide to complete your order. We request a contact phone number in case one of our customer service representatives would need to reach you, such as in order to arrange a delivery time.**
+**We do NOT sell to any third party under any circumstances any of the personal information you provide to complete your order. We request a contact phone number in case one of our customer service representatives would need to reach you, such as in order to arrange a delivery time.**
 
-We request your e-mail address because we send a single e-mail message acknowledging receipt of your order. This message contains the list of items you purchased, a reference number, delivery method ([store pickup](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Buy+Online+Pick+up+in+Store_407541738_), [Lowe's Home Delivery](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Lowe's+Home+Delivery_598978505_), or [parcel delivery](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Shipping+Rates+and+Restrictions_341471181_)) and the total amount of items requested, but it does NOT contain your credit card number. 
+We request your e-mail address because we send a single e-mail message acknowledging receipt of your order. This message contains the list of items you purchased, a reference number, delivery method ([store pickup](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Buy+Online+Pick+up+in+Store_407541738_), [Lowe's Home Delivery](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Lowe's+Home+Delivery_598978505_), or [parcel delivery](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Shipping+Rates+and+Restrictions_341471181_)) and the total amount of items requested, but it does NOT contain your credit card number. 
 
   
 
@@ -98,7 +96,7 @@ Please review Monogram Credit Card Bank of Georgia's Credit [Privacy](http://www
 
   
 
-  6.  **Lowe's In-Store Job Application**
+  6. **Lowe's In-Store Job Application**
 
 If you choose to apply online for an opportunity at Lowe's, your computer will communicate with Kenexa's internet server versus the Lowes.com server.
 
@@ -107,9 +105,9 @@ Please review Kenexa's [Privacy and Security](http://kenexa.com/privacy-policy) 
 
 
 
-### Customer Confidentiality Policy 
+### Customer Confidentiality Policy
 
-**Our Customer Pledge**
+ **Our Customer Pledge**
 
 Let us assure you:
 
@@ -121,46 +119,50 @@ Let us assure you:
 
 **We value your business and respect your privacy.**
 
-### Use of Cookie Technology 
+### Use of Cookie Technology
 
 In order to register on or order products from our site, your browser must be set to accept cookies. A cookie is just an entry in a text file or folder on your hard drive. We use cookies when you visit our site, so the site can remember your specified area of interest and any other information you have saved. Cookie technology allows you to save products to your wish list or how-to's to your "My Projects " section.. We also use cookies to track the items you place in your shopping basket and the pages you visit. You must enable cookies on your Web browser for Lowes.com to function correctly. If you are concerned about information contained in your Lowes.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.
 
 The only personal information our cookie can contain is information you supply yourself. Our cookies cannot read data from your computer. If you would like more technical information about how cookies work, take a look at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-### BBB Online 
+### BBB Online
 
 We also participate in the Council of Better Business Bureau's BBBOnLine Privacy Program, and comply with all BBBOnLine Privacy standards. Further information about this program and its dispute resolution process is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
 
-### Children's Policy 
+### Children’s Policy
 
-We do not intend to collect any personally identifiable information from children through our Web site. Please do not allow children under the age of 13 to provide any personally identifiable information, ask questions or participate in chat rooms related to our Web site. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please send us an e-mail at [manager@lowes.com](mailto:manager@lowes.com) so we can delete this information.
+﻿ ﻿ 
 
-### Security Information 
+We do not intend to collect any personally identifiable information from children through our Web site. Please do not allow children under the age of 13 to provide any personally identifiable information, ask questions or participate in chat rooms related to our Web site. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please send us an e-mail at [customercare@lowes.com](mailto:customercare@lowes.com&subject=Lowe's%20General%20Question%20or%20Comment) so we can delete this information.
+
+### Security Information
 
 We understand that many consumers are concerned about security on the Internet. The Web server here at Lowes.com is designed for Internet commerce, and employs industry standard methods of protecting the security of information sent over the site. This statement describes the technologies we use and provides additional information about how we handle your credit card information. We want you to be able to shop at the Lowe's site with confidence. Of course, if you would rather order products by telephone, you can call us toll free at 1-800-44-LOWES (5-6937).
 
-### Is the Information I Send You Secure While It Is Being Sent? 
+### Is the Information I Send You Secure While It Is Being Sent?
 
 We strive to protect the security of the information you send to us while it is en route to our site. Every page of the Lowe's site on which information is exchanged between you and Lowe's employs Secure Sockets Layer technology. Secure Sockets Layer, or SSL, is a secure and encrypted method of communicating between your browser software and our Web server. SSL is the most common method of secure communication used on the Internet, and SSL technology is built into most major browsers. When you provide information or place an order with us, the information is sent to us via this secure, encrypted SSL connection. A quick method of identifying a secure Web page is to look at the address of the page. Secure pages will usually appear with an address that starts with "https://" rather than the standard "http://".
 
 Lowe's Companies provides links to Web sites outside of Lowes.com as an added convenience to the user. Any link included does not imply or convey endorsement of the other company or organization, its site or its products or services. Lowe's Companies is not responsible for the privacy, terms of use or other policies of any other Web site.
 
-### Is the Information I Am Sending Really Going to Lowe's? 
+### Is the Information I Am Sending Really Going to Lowe’s?
 
 We have also obtained a Verisign™ digital security certificate for Lowes.com. Verisign™ is an independent third party that authenticates the identity of others on the Internet. By registering with Verisign™, we provide you a method of independently authenticating that the information you are sending is going to Lowe's.
 
-### What Happens to My Information After You Receive It? 
+### What Happens to My Information After You Receive It?
 
 SSL protects information en route to us and the Verisign™ certificate confirms that we are the recipient of this information. How the information is handled after it arrives is every bit as important to maintaining security. Once you are finished shopping and you have typed in your shipping information, e-mail address and credit card information, and you have clicked "Submit Order," your encrypted information is sent to our server. All data collected is stored on site at and may be accessed by Lowe's Inc., its wholly owned subsidiaries and contracted third party service providers.
 
-### Security Questions or Comments 
+### Security Questions or Comments
 
-We are committed to providing a secure, friendly site where customers can shop without undue concern over security. When we receive your information, we use commercially reasonable efforts, including the measures described above, to protect the security of your information on our systems. However, no data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure. Therefore, we do not warrant or ensure the security of any information sent to us online. If you have any questions, comments or concerns, please contact us via e-mail at [manager@lowes.com](mailto:manager@lowes.com) or toll free at 1-800-44-LOWES (5-6937). 
+﻿ ﻿ 
+
+We are committed to providing a secure, friendly site where customers can shop without undue concern over security. When we receive your information, we use commercially reasonable efforts, including the measures described above, to protect the security of your information on our systems. However, no data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure. Therefore, we do not warrant or ensure the security of any information sent to us online. If you have any questions, comments or concerns, please contact us via e-mail at [customercare@lowes.com](mailto:customercare@lowes.com&subject=Lowe's%20General%20Question%20or%20Comment) or toll free at 1-800-44-LOWES (5-6937).
 
 EFFECTIVE 6/11/02
 
-### Security & Privacy 
+### Security & Privacy
 
-We respect the privacy of our customers. Please read our privacy policy statement which is designed to help you understand what information we gather online and what we do with that information. | [Terms & Conditions](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Terms+and+Conditions+of+Use_360300527_)
+We respect the privacy of our customers. Please read our privacy policy statement which is designed to help you understand what information we gather online and what we do with that information. | [Terms & Conditions](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Terms+and+Conditions+of+Use_360300527_)
 
-Tools, products, materials, techniques, building codes and local regulations change; therefore, Lowe's assumes no liability for omissions, errors or the outcome of any project. The reader must always exercise reasonable caution, follow current codes and regulations that may apply, and is urged to consult with a licensed professional if in doubt about any procedures. [Please read our terms of use.](https://web.archive.org/web/20100629120404id_/http%3A//www.lowes.com/cd_Terms+and+Conditions+of+Use_360300527_)
+Tools, products, materials, techniques, building codes and local regulations change; therefore, Lowe's assumes no liability for omissions, errors or the outcome of any project. The reader must always exercise reasonable caution, follow current codes and regulations that may apply, and is urged to consult with a licensed professional if in doubt about any procedures. [Please read our terms of use.](https://web.archive.org/web/20101224080648id_/http%3A//www.lowes.com/cd_Terms+and+Conditions+of+Use_360300527_)
