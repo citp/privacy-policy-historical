@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpetright.co.uk privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609141723id_/http%3A//www.carpetright.co.uk/about-cr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpetright.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224232502id_/http%3A//www.carpetright.co.uk/about-cr/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ On occasion, we may gather information about your computer for our services and 
 
 Such information will not identify you personally, it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
+Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies and contains information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
 
 All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
@@ -50,7 +50,7 @@ The information that we collect and store relating to you is primarily used to e
 
 Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected.
 
-We will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for. If you do not want us to use your data for our third parties you will have the opportunity to withhold your consent to this.
+We will only contact you or allow third parties to contact you only when you have provided consent and only by those means to which you provided consent. If you do not want us to use your data for our third parties you will have the opportunity to withhold your consent accordingly.
 
 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors.
 
@@ -76,7 +76,7 @@ We may also disclose your personal information to third parties:
 
 ## **Third Party Links**
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+You might find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 ## **Access To Information**
 
