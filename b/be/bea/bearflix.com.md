@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearflix.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828034354id_/http%3A//bearflix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearflix.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224033249id_/http%3A//www.bearflix.com/privacy.php) for the most accurate reproduction.*
 
 # BearFlix - Free video downloads | Optimized client for fast download of video files - Privacy policy
 
