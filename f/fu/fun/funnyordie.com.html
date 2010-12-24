@@ -1,43 +1,54 @@
-<!--The following is the downloaded HTML source of the funnyordie.com privacy policy that was archived on 2010-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603082640id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funnyordie.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224082814id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-  <link rel="search" type="application/opensearchdescription+xml" title="Funny or Die" href="http://public0.ordienetworks.com/funnyordie/open_search.xml">
+<!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+  <link rel="search" type="application/opensearchdescription+xml" title="Funny or Die" href="/open_search.xml">
   <title>Funny or Die Privacy Notice</title>
+  <meta name="description" content="funny or die privacy notice - Funny videos, funny pictures, funny jokes, top ten lists, funny blogs, caption contests, and funny articles featuring celebrities, comedians, and you.">
   <meta name="keywords" content="Will Ferrell, celebrity videos, funny videos, comedy videos, free videos, viral videos, The Landlord, Jon Lajoie, Picnicface, Human Giant, funny, Judd Apatow, Adam McKay, Chris Henchy, Ben Stiller, Eva Longoria, Heidi Montag, Jack Black, James Franco, John Mayer, John C. Reilly, Lindsay Lohan, Marion Cotillard, Natalie Portman, Nick Swardson, Olivia Munn, Paris Hilton, Ron Howard, Sarah Silver...">
-  <meta name="description" content="funny or die privacy notice - funny videos, funny captions and jokes featuring Will Ferrell, celebrities, comedians, and you">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="imagetoolbar" content="no">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link href="http://public0.ordienetworks.com/stylesheets/funnyordie_2383166d.css?2383166d" media="screen" rel="Stylesheet" type="text/css">
   
+  <link href="http://public0.ordienetworks.com/stylesheets/application_112d666e.css?112d666e" media="screen" rel="Stylesheet" type="text/css">
+  
+  
+  <!--[if lt IE 8]>
+    <link href="http://public0.ordienetworks.com/stylesheets/iehacks.css?112d666e" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
     
   
-  <script src="http://public0.ordienetworks.com/javascripts/base_2383166d.js?2383166d" type="text/javascript"></script>
+  <script src="http://public0.ordienetworks.com/javascripts/base_112d666e.js?112d666e" type="text/javascript"></script>
+  <script src="http://public0.ordienetworks.com/javascripts/base_jquery_112d666e.js?112d666e" type="text/javascript"></script>
   
   
 
 <script type="text/javascript">
 //<![CDATA[
 
+    var currentUser = null;
+    var user_key = 'global';
+
+    User.setUser();
     if (User.isLoggedIn()) {
-      var currentUser = new User(Cookie.get('current_user').evalJSON());
-      var user_key = currentUser.key;
       Subscriptions.check();
       display_not_confirmed_message();
-    } else {
-      var user_key = 'global';
-    }
-    Event.observe(window, 'load', function() { Funbar.init(); });
+		}
+    document.observe("dom:loaded", function() {
+			if(currentUser && currentUser.newsletter && $('connect2newsletter')) $('connect2newsletter').hide();
+      Funbar.init(); 
+      if ((!User.isLoggedIn()) && (Cookie.get('auth_token'))) new Ajax.Request('/sessions/check_cookie');
+    });
 
 //]]>
 </script>  
-  
 
   
 <script type="text/javascript">
 //<![CDATA[
+    jQuery(function($) {
+      
+    });
+  
     
 
 //]]>
@@ -71,16 +82,15 @@
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
   })();
 </script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
-<script type="text/javascript" charset="utf-8" src="http://ordie.adbureau.net/hserver/acc_random=64366421/AAMSZ=1400X1000/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477"></script><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script></head>
-<body>
 
+</head>
+<body>
 <script type="text/javascript" charset="utf-8">
   if(UserAgent.iphoneOS()) {
-    document.write('<style type="text/css" media="screen">#funbar{display:none;} #funbar_wrapper {width: 968px;} .embed_group,.favorite_group,.report_group { margin-left:0px;}</style>')
+    document.write('<style type="text/css" media="screen">#funbar, .vp:hover .quicklist_icon {display:none;} #funbar_wrapper {width: 968px;} .embed_group,.favorite_group,.report_group { margin-left:0px;}</style>')
     Tip = Class.create();
   }
 </script>
-
 <div id="funbar">
   <div id="funbar_wrapper">
     <div id="funbar_left_cap" class="funbar_cap"></div>
@@ -89,14 +99,14 @@
 
       <div id="funbar_left">
         <div id="funbar_share_tab" class="funbar_tab funbar_button share_icons">
-          <img alt="" class="sprite funbar_share" src="http://public0.ordienetworks.com/images/s.gif?2383166d">
-		  <a class="funbar_button" href="#" id="funbar_email_tab" onclick="Funbar.popup(this, 'email');; return false;" title="Email"><img alt="" class="sprite email_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_email" style="display:none"><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('email'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+          <img alt="" class="sprite funbar_share" src="http://public0.ordienetworks.com/images/s.gif?112d666e">
+		  <a class="funbar_button" href="#" id="funbar_email_tab" onclick="Funbar.popup(this, 'email');; return false;" title="Email"><img alt="" class="sprite email_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a><div class="funbar_popup_wrapper" id="funbar_email" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('email'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div>
   
   Email
 </div>
 <div class="funbar_content email_content" id="funbar_email_content"><div id="email_waiting" style="display:none;text-align:center;height:110px">
-	<h4 style="padding-top:50px">Sending... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></h4>
+	<h4 style="padding-top:50px">Sending... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?112d666e"></h4>
 </div>
 
 <div id="inner_email_form_container">
@@ -135,8 +145,8 @@
 		</tbody></table>
 </form></div>
 </div></div></div>
-		  <a class="funbar_button" href="#" id="funbar_embed_tab" onclick="Funbar.popup(this, 'embed');; return false;" title="Embed stuff"><img alt="" class="sprite embed_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_embed" style="display:none"><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('embed'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+		  <a class="funbar_button" href="#" id="funbar_embed_tab" onclick="Funbar.popup(this, 'embed');; return false;" title="Embed stuff"><img alt="" class="sprite embed_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a><div class="funbar_popup_wrapper" id="funbar_embed" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('embed'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div>
   
   Embed stuff
 </div>
@@ -145,33 +155,31 @@
 <div class="funbar_embed_widgets">
   <h4>Embed a widget of videos</h4>
     <div class="embed_widget_link">
-      <a href="#" onclick="show_dialog('embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;" title="Embed these videos on your webpage."><img alt="Embed_widget" height="19" src="http://public0.ordienetworks.com/images/icons/embed_widget.png?2383166d" width="43"></a>
+      <a href="#" onclick="show_dialog('embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;" title="Embed these videos on your webpage."><img alt="Embed_widget" height="19" src="http://public0.ordienetworks.com/images/icons/embed_widget.png?112d666e" width="43"></a>
       <a href="#" onclick="show_dialog('embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;">Funny or Die Featured Videos</a>
     </div>
 </div>
 </div></div></div>
-		  <a class="funbar_button" href="#" id="funbar_rss_tab" onclick="Funbar.popup(this, 'rss');; return false;" title="RSS Feeds"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_rss" style="display:none"><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('rss'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+		  <a class="funbar_button" href="#" id="funbar_rss_tab" onclick="Funbar.popup(this, 'rss');; return false;" title="RSS Feeds"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a><div class="funbar_popup_wrapper" id="funbar_rss" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('rss'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div>
   
   RSS Feeds
 </div>
 <div class="funbar_content rss_content" id="funbar_rss_content">
 <div style="padding:5px 0">
-	<a href="/videos.rss" onclick="GA.event('subscribing', 'rss', '/videos.rss');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"> Subscribe to 'Today's Featured Videos'</a>
+	<a href="/videos.rss" onclick="GA.event('subscribing', 'rss', '/videos.rss');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"> Subscribe to 'Today's Featured Videos'</a>
 </div>
 
 <div style="padding:5px 0">
-	<a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"> Subscribe to 'Funny or Die Newsfeed'</a>
+	<a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"> Subscribe to 'Funny or Die Newsfeed'</a>
 </div>
 </div></div></div>
           
 <span class="funbar_viral_links">
-<a href="http://twitter.com/home?status=Funny%20or%20Die%20Privacy%20Notice%20-%20http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy" id="twitter_share" rel="nofollow" target="_blank" title="Post this to Twitter"><img alt="Post this to Twitter" class="sprite twitter_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
-<a href="#" id="facebook_share" onclick="FB.Connect.streamPublish(&quot;&quot;, fb_attachment, fb_links); return false;" title="Share this on Facebook"><img alt="Share this on Facebook" class="sprite facebook_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
-<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice&amp;bodytext=funny%20or%20die%20privacy%20notice%20-%20funny%20videos%2C%20funny%20captions%20and%20jokes%20featuring%20Will%20Ferrell%2C%20celebrities%2C%20comedians%2C%20and%20you" id="digg_share" rel="nofollow" target="_blank" title="Digg it"><img alt="Digg it" class="sprite digg_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
-<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice" id="stumble_share" rel="nofollow" target="_blank" title="Stumble it"><img alt="Stumble Upon" class="sprite stumble_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
-      
-<a href="#" id="add_this_share" onclick="return addthis_open(this, '', '[URL]', '[TITLE]'); return false;" title="Bookmark and Share"><img alt="Bookmark and Share" class="sprite addthis_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+<a href="http://twitter.com/home?status=Funny%20or%20Die%20Privacy%20Notice%20-%20http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy" id="twitter_share" rel="nofollow" target="_blank" title="Post this to Twitter"><img alt="Post this to Twitter" class="sprite twitter_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a>
+<a href="#" id="facebook_share" onclick="FB.ui(fb_post); return false;" title="Share this on Facebook"><img alt="Share this on Facebook" class="sprite facebook_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a>
+<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice&amp;bodytext=funny%20or%20die%20privacy%20notice%20-%20Funny%20videos%2C%20funny%20pictures%2C%20funny%20jokes%2C%20top%20ten%20lists%2C%20funny%20blogs%2C%20caption%20contests%2C%20and%20funny%20articles%20featuring%20celebrities%2C%20comedians%2C%20and%20you." id="digg_share" rel="nofollow" target="_blank" title="Digg it"><img alt="Digg it" class="sprite digg_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a>
+<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice" id="stumble_share" rel="nofollow" target="_blank" title="Stumble it"><img alt="Stumble Upon" class="sprite stumble_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a>
 </span>
 
 
@@ -180,26 +188,26 @@
 
       <div id="funbar_right">
         <div id="quicklist_empty" style="display:none">
-			Click the <a href="#" onclick="return false;; return false;" title="Not this one - on the thumbnails!"><img alt="" class="sprite quicklist_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a> to queue up a list of funny videos to watch next.
+        Click the <a href="#" onclick="return false;; return false;" title="Not this one - on the thumbnails!"><img alt="" class="sprite quicklist_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a> to queue up a list of videos to watch next.
 		</div>
-		<div class="funbar_tab divided_tab" id="funbar_quicklist_container" style=""><a class="funbar_button" href="#" id="funbar_quicklist_tab" onclick="Funbar.popup(this, 'quicklist');; return false;" title="Quicklist"><img alt="" class="sprite funbar_quicklist_tab" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_quicklist" style="display:none"><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('quicklist'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+		<div class="funbar_tab divided_tab" id="funbar_quicklist_container" style=""><a class="funbar_button" href="#" id="funbar_quicklist_tab" onclick="Funbar.popup(this, 'quicklist');; return false;" title="Quicklist"><img alt="" class="sprite funbar_quicklist_tab" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a><div class="funbar_popup_wrapper" id="funbar_quicklist" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('quicklist'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div>
   
   Quicklist
 </div>
-<div class="funbar_content quicklist_content" id="funbar_quicklist_content"><div class="funbar_loader">Loading Quicklist... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></div></div></div></div></div>
-		<div class="funbar_tab divided_tab" id="funbar_watched_container" style=""><a class="funbar_button" href="#" id="funbar_watched_tab" onclick="Funbar.popup(this, 'watched');; return false;" title="History"><img alt="" class="sprite funbar_watched_tab" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_watched" style="display:none"><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('watched'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+<div class="funbar_content quicklist_content" id="funbar_quicklist_content"><div class="funbar_loader">Loading Quicklist... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?112d666e"></div></div></div></div></div>
+		<div class="funbar_tab divided_tab" id="funbar_watched_container" style=""><a class="funbar_button" href="#" id="funbar_watched_tab" onclick="Funbar.popup(this, 'watched');; return false;" title="History"><img alt="" class="sprite funbar_watched_tab" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a><div class="funbar_popup_wrapper" id="funbar_watched" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('watched'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div>
   
   History
 </div>
-<div class="funbar_content watched_content" id="funbar_watched_content"><div class="funbar_loader">Loading History... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></div></div></div></div></div>
-		<div class="funbar_tab divided_tab" id="funbar_newsfeed_container" style=""><a class="funbar_button" href="#" id="funbar_newsfeed_tab" onclick="Funbar.popup(this, 'newsfeed');; return false;" title="Newsfeed"><img alt="" class="sprite funbar_newsfeed_tab" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_newsfeed" style="display:none"><div class="funbar_popup"><div class="header">
-  <div style="float:right"><a href="#" onclick="Funbar.close('newsfeed'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
-  <a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+<div class="funbar_content watched_content" id="funbar_watched_content"><div class="funbar_loader">Loading History... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?112d666e"></div></div></div></div></div>
+		<div class="funbar_tab divided_tab" id="funbar_newsfeed_container" style=""><a class="funbar_button" href="#" id="funbar_newsfeed_tab" onclick="Funbar.popup(this, 'newsfeed');; return false;" title="Newsfeed"><img alt="" class="sprite funbar_newsfeed_tab" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a><div class="funbar_popup_wrapper" id="funbar_newsfeed" style="display:none"><span class="funbar_popup_arrow"></span><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('newsfeed'); return false;"><img alt="" class="sprite funbar_minimize" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div>
+  <a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a>
   Newsfeed
 </div>
-<div class="funbar_content newsfeed_content" id="funbar_newsfeed_content"><div class="funbar_loader">Loading Newsfeed... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></div></div></div></div></div>
+<div class="funbar_content newsfeed_content" id="funbar_newsfeed_content"><div class="funbar_loader">Loading Newsfeed... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?112d666e"></div></div></div></div></div>
 		
 		
       </div>
@@ -208,358 +216,393 @@
   </div>
 </div>
 
-
-<div id="page" class="about_page_page ">
-
-	
 <div id="page_header">
-  <div id="search">
-    <form action="/search/a" method="get">      <div><input class="search_box" id="q" name="q" size="20" type="text" value=""></div>
-      <div><input class="search_btn" name="commit" type="submit" value="Search"></div>
-    </form>  </div>
-
-  <div id="login_links">
-    <span id="fb_connect" style="display:none;"><a id="fb_connect_href" href="#" class="facebook_connect_text_18x18"><span class="facebook_connect_text_18x18">Connect</span></a></span>
-<span id="fb_spinner" style="display:none;"><img alt="Spinner_black" src="http://public0.ordienetworks.com/images/spinner_black.gif?2383166d">&nbsp;&nbsp;Loading...</span>
-
-
-
-  <span><a href="/signup?rel=header" class="header_login_link" rel="nofollow">Join</a></span>
-  <span><a class="header_login_link" href="/login" onclick="show_login_dialog(); return false;" rel="nofollow">Log in</a></span>
-  <span><a href="/videos/upload?rel=header&amp;rel_pos=login_links" class="icon_link upload_link" rel="nofollow">Upload</a></span>
-
-  </div>
+  <div id="header">
+  <ul id="login_links">
 
   
-  <div id="topnav">    
-    <div id="topnav_tabs">
+    <li><a class="header_login_link" href="/login" onclick="show_login_dialog(); return false;" rel="nofollow">Login</a></li>
+    <li><a href="/signup?rel=header" class="header_login_link" rel="nofollow">Sign Up</a></li>
+    <li id="fb_connect" style="display:none;"><a id="fb_connect_href" href="#" class="facebook_connect_text_18x18"><span class="facebook_connect_text_18x18">Connect</span></a></li>
+  <li id="fb_spinner" style="display:none;"><img alt="Spinner" src="http://public0.ordienetworks.com/images/spinner.gif?112d666e"> Loading...</li>
+  <li><a href="/upload?rel=header" rel="nofollow">UPLOAD</a></li>
+  
+</ul>
+<div class="clear"> </div>
+  <div id="logo">
+    <a href="/" title="Funny or Die - Funny Videos"><img alt="Funny or Die - Funny Videos" src="http://public0.ordienetworks.com/images/funny_or_die_logo.png?112d666e"></a>
+		<div id="tagline">
+			<a href="/videos/a00046ae3e/dom-jolys-blatant-camera-show-from-dom-joly">Don't forget to jump!</a>
+		</div>
+  </div>
+
+  <form action="/search/a" class="inline" id="search" method="get">    <input id="q" name="q" placeholder="Search Funny or Die" size="20" type="text" value="">
+    <input alt="Search" id="search_button" src="http://public0.ordienetworks.com/images/sprites/magnify.png?112d666e" type="image">
+  </form>  
+  <script type="text/javascript" charset="utf-8">
+    try {
+      if ((!$('q').value) && (document.referrer) && (document.referrer != '')) {
+        var query = document.referrer.match(/[\?\&](q|p)=([^&]+)/gi);
+        if (query[0])
+          $('q').value = unescape(query[0].replace(/[\?\&](q|p)=/i, '').replace(/\+/g, ' '));
+      }
+    } catch(e) {}
+  </script>
+
+  <ul id="header_nav">
+    <li id="home_nav">
       <a href="/" rel="nofollow">Home</a>
-      <a href="/browse/videos/all/all/most_favorited?rel=header&amp;rel_pos=main_nav">Browse</a>
-      <a href="/videos?rel=header&amp;rel_pos=main_nav"><img alt="FOD " class="sprite fod_icon png" src="http://public0.ordienetworks.com/images/s.gif?2383166d">Exclusives</a>
-      
-	      <a href="/promos/funnyordiepresents?rel=header&amp;rel_pos=main_nav" style="color:orange;">FOD Presents</a>
-      
-      
-      
-    </div>
-    <div id="subnav_wrapper">
-      <div id="subnav">
-	<div id="subnav_links">
-	<a href="/browse/videos/all/all/most_viewed/this_week?rel=header&amp;rel_pos=subnav">Most Viewed</a>
-|	<a href="/browse/videos/all/all/most_favorited/this_week?rel=header&amp;rel_pos=subnav">Most Favorited</a>
-|	<a href="/browse/videos/all/all/most_recent?rel=header&amp;rel_pos=subnav">Most Recent</a>
-|	<a href="/archives?rel=header&amp;rel_pos=subnav">Previously Featured</a>
-|	<a href="/forums?rel=header&amp;rel_pos=subnav">Forums</a>
-|	<a href="/blog?rel=header&amp;rel_pos=subnav">Blog</a>
-| <a href="/videos/upload?rel=header&amp;rel_pos=subnav" rel="nofollow">Upload</a>
-	</div>
+    </li>
+    <li id="videos_nav">
+      <a href="/browse/videos/all/all/most_viewed/this_month?rel=header">Videos</a>
+      <div class="clear"> </div>
+      <ul id="videos_subnav" class="subnav">
+        <li><a href="/browse/videos/all/all/most_recent?rel=header">Most Recent</a> </li>
+        <li><a href="/browse/videos/all/all/most_viewed?rel=header">Most Viewed</a> </li>
+        <li><a href="/browse/videos?rel=header">Most Popular</a> </li>
+        <li><hr></li>
+        <li><a href="/videos" class="exclusive">Exclusives</a></li>
+      </ul>
+    </li>
+    <li id="pictures_nav">
+      <a href="/browse/pictures_and_words/all/all/most_viewed/this_month?rel=header">Pictures<span style="font-size:0.65em"> &amp; </span>Words</a>
+      <div class="clear"> </div>
+      <ul id="pictures_subnav" class="subnav">
+        <li><a href="/captions">Caption Contest</a> </li>
+        <li><hr></li>
+        <li><a href="/browse/pictures_and_words/all/all/most_recent?rel=header">Most Recent</a> </li>
+        <li><a href="/browse/pictures_and_words/all/all/most_viewed?rel=header">Most Viewed</a> </li>
+        <li><a href="/browse/pictures_and_words?rel=header">Most Popular</a> </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#" onclick="javascript: void(0); return false;">More</a>
+      <div class="clear"> </div>
+      <ul id="more_subnav" class="subnav">
+        <li><a href="/promos/connect?rel=header">Newsletter</a></li>
+        <li><a href="http://www.facebook.com/funnyordie" onclick="window.open(this.href);return false;">Facebook</a></li>
+        <li><a href="http://www.twitter.com/funnyordie" onclick="window.open(this.href);return false;">Twitter</a></li>
+        <li><a href="http://funnyordie.tumblr.com/" onclick="window.open(this.href);return false;">Tumblr</a></li>
+        <li><hr></li>
+        <li><a href="/promos/funnyordiepresents?rel=header">Funny or Die Presents</a> </li>
+        <li><a href="/promos/widgethq?rel=header" rel="nofollow">Embed a Widget</a> </li>
+        <li><hr></li>
+        <li><a href="/forums?rel=header" rel="nofollow">Forums</a> </li>
+        <li><a href="/support" onclick="window.open(this.href);return false;" rel="nofollow">Help / Support</a> </li>
+      </ul>
+    </li>
+  </ul>
 </div>
-    </div>
-  </div>
-  <div id="logo_wrapper">
-    <div id="logo">
-      <a href="/" title="Funny or Die - Funny Videos"><img alt="Funny or Die - Funny Videos" class="png" height="46" src="http://public0.ordienetworks.com/images/fod_long_logo.png?2383166d" width="250"></a>
-    </div>
-      <div id="tagline"><a href="/videos/c4a43aff11/everyday-normal-guy-rap-song-from-jon-lajoie?rel=tagline">I get nervous in social situations.</a></div>
-  </div>
 </div>
-
-    <div id="leader_board_ad">
-  <div id="ad_leader_board">
+<div id="skin_wrapper">
+  <div id="wrapper">
+    <div id="user_messaging">
+      <div class="box flash_message flash_message" id="flash_message" style="display:none">...</div>
+    	
+    </div>
+      <div id="leader_board_ad">
+  <div id="lb_ad_content">
     
-
-
-<script charset="utf-8" type="text/javascript">
-//<![CDATA[
-      var random = Math.round(Math.random() * 100000000); 
-      if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
  
-      document.write('<IFRAME SRC="http://ordie.adbureau.net/hserver/acc_random='+random+'/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'"'); 
-      document.write(' NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 '+
-                     ' WIDTH=728 HEIGHT=90 allowTransparency="true" id="leader_board_iframe">'); 
-      document.write('<SCR'); 
-      document.write('IPT SRC="http://ordie.adbureau.net/jnserver/acc_random='+random+'/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'">'); 
-      document.write('</SCR'); 
-      document.write('IPT>'); 
-      document.write('</IFRAME>'); 
+<script charset="utf-8" id="_leader_board_ad" type="text/javascript">
+//<![CDATA[
+  if (!ord) var ord = Math.round(Math.random() * 10000000000000000);
+  if (!ad_tile) var ad_tile = 0;
+  if (typeof dcopt == "undefined") { var dcopt = ';dcopt=ist'; } else dcopt = '';
+  if (!ad_array) var ad_array = new Array();
+  ad_tile++;
+  ad_array.push(new Array('leader_board', 'http://ad.doubleclick.net/adi/fod/about_page'+ dcopt +';sz=728x90;tile='+ ad_tile +';ord=' + ord + '?', 728, 90));
 
-    
+
 //]]>
-</script><iframe src="http://ordie.adbureau.net/hserver/acc_random=71881675/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="728" height="90" allowtransparency="true" id="leader_board_iframe"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=71881675/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477"></SCRIPT></iframe>    <noscript> 
-      <a href="http://ordie.adbureau.net/adclick/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" rel="nofollow"><img src="http://ordie.adbureau.net/nserver/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" alt="Click me"/></a> 
-    </noscript>
-    
+</script><noscript>
+  <a href="http://ad.doubleclick.net/jump/fod/about_page;sz=728x90"><img src="http://ad.doubleclick.net/ad/fod/about_page;sz=728x90?" width="728" height="90" border="0"></a>
+</noscript>
 
   </div>
 </div>
 
-	<div id="content">
-	  <div class="clear"> </div>
-		<div class="box sbox  white_rbox flash_message_box" style="display:none" id="flash_message"><div class="c" id="flash_message_c"><div class="collapse">&nbsp;</div>...<div class="clear"> </div></div></div>
-		
 
-		
+    <div id="page" class="about_page  leaderboard ">
+      <div id="content">
+      	
 
-					<div class="page_title" id="page_title">
-				
-				<h1>Funny or Die Privacy Notice</h1>
-			</div>
-				
+      	      		<div class="page_title" id="page_title">
+      			
+      			<h1>Funny or Die Privacy Notice</h1>
+      		</div>
+      	      	
 
-<div style="width: 160px; float: right; padding-top: 8px;">
-  
+<p><b>Funny or Die, Inc.</b> ("Funny or Die") recognizes that its customers, visitors, users, and others who use <a href="/">www.funnyordie.com</a> or other web sites owned or operated by Funny or Die (the "Funny or Die Sites") (collectively or individually "Users") value their privacy.  This Privacy Notice details important information regarding the use and disclosure of User information collected on the Funny or Die Sites.  Funny or Die provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Funny or Die Sites.</p>
+
+<p>This Privacy Notice is incorporated into and is subject to the <a href="/about/terms">Funny or Die Terms of Use</a>.  Your use of the Funny or Die Sites and any personal information you provide on the Funny or Die Sites remains subject to the terms of this Privacy Notice and our <a href="/about/terms">Terms of Use</a>.</p>
 
 
-<script charset="utf-8" type="text/javascript">
-//<![CDATA[
-      var random = Math.round(Math.random() * 100000000); 
-      if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
- 
-      document.write('<IFRAME SRC="http://ordie.adbureau.net/hserver/acc_random='+random+'/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'"'); 
-      document.write(' NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 '+
-                     ' WIDTH=160 HEIGHT=600 allowTransparency="true" id="skyscraper_iframe">'); 
-      document.write('<SCR'); 
-      document.write('IPT SRC="http://ordie.adbureau.net/jnserver/acc_random='+random+'/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'">'); 
-      document.write('</SCR'); 
-      document.write('IPT>'); 
-      document.write('</IFRAME>'); 
+<p>Please note that any video, image, or other content posted at the direction of Users onto the Funny or Die Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.</p>
 
+<h2>The Information Funny or Die Collects</h2>
+
+<ul>
+	<li><b>User Provided Information:</b> You provide certain personally identifiable information (such as your name and email address) to Funny or Die when choosing to participate in various activities on the Funny or Die Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.</li>
+	<br>
+	<li><b>Cookies Information:</b> When you visit the Funny or Die Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser.  Funny or Die uses both session cookies and persistent cookies.  A persistent cookie remains after you close your browser.  Persistent cookies may be used by your browser on subsequent visits to the site.  Persistent cookies can be removed by following your web browser help file directions.  A session cookie is temporary and disappears after you close your browser.  You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.  However, some features of the Funny or Die Sites may not function properly if the ability to accept cookies is disabled.</li>
+
+	<br>
+	<li><b>Log File Information:</b> When you use the Funny or Die Sites, our servers automatically record certain information that your web browser sends whenever you visit any website.  These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</li>
+	<br>
+	<li><b>Clear GIFs Information:</b> When you use the Funny or Die Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner).  In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.</li>
+</ul>
+
+
+<h2>The Way Funny or Die Uses Information</h2>
+
+
+<ul>
+	<li>If you submit personally identifiable information to us through the Funny or Die Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Funny or Die Sites.</li>
+	<br>
+	<li>Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others.  Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Funny or Die Sites and other Users can contact you through messages and comments.  Any videos that you submit to the Funny or Die Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.</li>
+	<br>
+	<li>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Funny or Die Site changes or for customer service purposes).</li>
+
+	<br>
+
+	<li>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Funny or Die Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.</li>
+	<br>
+	<li>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Funny or Die Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</li>
+</ul>
+
+<h2>When Funny or Die Discloses Information</h2>
+
+<ul>
+
+	<li>We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf.  We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.</li>
+
+	<br>
+	<li>We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</li>
+	<br>
+	<li>We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Funny or Die Sites.</li>
+	<br>
+	<li>We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.</li>
+
+	<br>
+
+	<li>Funny or Die also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Funny or Die believes, in good faith, is appropriate or necessary to enforce our <a href="/about/terms">Terms of Use</a>, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Funny or Die, our Users or others.</li>
+</ul>
+
+<h2>Your Choices</h2>
+
+<p>You may, of course, decline to submit personally identifiable information through the Funny or Die Sites, in which case Funny or Die may not be able to provide certain services to you.  Please note that media files uploaded by Users to the Funny or Die Sites cannot be removed and remain subject to our <a href="/about/terms">Terms of Use</a>.</p>
+
+
+<p>To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections.  You are responsible for maintaining the secrecy of your unique password and account information at all times.</p>  
+
+<p>Please contact Funny or Die with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing <script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%22%3e%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:privacy@funnyordie.com">privacy@funnyordie.com</a>.</p>
+
+<h2>Third-party Advertisers, Links to Other Sites</h2>
+
+<p>Funny or Die allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Funny or Die Sites.  These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Funny or Die Sites.  They automatically receive your IP address when this happens.  They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.</p>
+
+<p>Funny or Die does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  However, please note that if an advertiser asks Funny or Die to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Funny or Die Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.</p>
+
+
+<p>You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices.  Funny or Die's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br>
+</p>
+
+
+<h2>Our Commitment To Data Security</h2>
+
+<p>Funny or Die uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to Funny or Die and you do so at your own risk.  Once we receive your transmission of information, Funny or Die makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+
+<p>If Funny or Die learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.  Funny or Die may post a notice on the Funny or Die Sites if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this <a href="/contact_us">contact form</a>.</p>
+
+
+<h2>Our Commitment To Childrens' Privacy</h2>
+
+<p>Protecting the privacy of young children is especially important.  For that reason, Funny or Die does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Funny or Die Sites from persons under 13 years of age, and no part of our website is directed to persons under 13.  If you are under 13 years of age, then please do not use or access the Funny or Die Sites at any time or in any manner.  If Funny or Die learns that personally identifiable information of persons under 13 years of age has been collected on the Funny or Die Sites without verified parental consent, then Funny or Die will take the appropriate steps to delete this information.</p>
+
+
+<h2>Special Note to International Users</h2>
+
+<p>The Funny or Die Sites are hosted in the United States and are intended for and directed to Users in the United States.  If you are a User accessing the Funny or Die Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Funny or Die Sites, which are governed by U.S. law, this Privacy Notice, and our <a href="/about/terms">Terms of Use</a>, you are transferring your personal information to the United States and you consent to that transfer.</p>
+
+<h2>In the Event of Merger, Sale, or Bankruptcy</h2>
+
+
+<p>In the event that Funny or Die is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control.  In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
+
+<h2>Changes and updates to this Privacy Notice</h2>
+
+
+<p>This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below.  Please revisit this page to stay aware of any changes.  In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided.  Your continued use of the Funny or Die Sites constitutes your agreement to this Privacy Notice and any future revisions.</p>
+
+<p>For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.</p>
+
+<p><b>Date Last Modified:</b><br>
+This Privacy Notice was last modified April 11, 2007.</p>
+
+
+<p><b>Contact Information:</b><br>
+Please contact Funny or Die with any questions or comments about this Privacy Notice at <script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%22%3e%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:privacy@funnyordie.com">privacy@funnyordie.com</a>.</p>
+      	
+      	<div style="font-size:0.1em;clear:both">&nbsp;</div>
+      </div>
+    </div>
+    <div class="clear"> </div>
     
-//]]>
-</script><iframe src="http://ordie.adbureau.net/hserver/acc_random=94546890/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="160" height="600" allowtransparency="true" id="skyscraper_iframe"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=94546890/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477"></SCRIPT></iframe>    <noscript> 
-      <a href="http://ordie.adbureau.net/adclick/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" rel="nofollow"><img src="http://ordie.adbureau.net/nserver/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" alt="Click me"/></a> 
-    </noscript>
-    
-
-</div>
-
-<div class="box sbox  default_box about_us_box"><div class="c"><div class="collapse">&nbsp;</div>
-
-  	<p><b>Funny or Die, Inc.</b> ("Funny or Die") recognizes that its customers, visitors, users, and others who use <a href="/">www.funnyordie.com</a> or other web sites owned or operated by Funny or Die (the "Funny or Die Sites") (collectively or individually "Users") value their privacy.  This Privacy Notice details important information regarding the use and disclosure of User information collected on the Funny or Die Sites.  Funny or Die provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Funny or Die Sites.</p>
-	
-  	<p>This Privacy Notice is incorporated into and is subject to the <a href="/about/terms">Funny or Die Terms of Use</a>.  Your use of the Funny or Die Sites and any personal information you provide on the Funny or Die Sites remains subject to the terms of this Privacy Notice and our <a href="/about/terms">Terms of Use</a>.</p>
-
-	
-  	<p>Please note that any video, image, or other content posted at the direction of Users onto the Funny or Die Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.</p>
-	
-  	<h2>The Information Funny or Die Collects</h2>
-	
-  	<ul>
-  		<li><b>User Provided Information:</b> You provide certain personally identifiable information (such as your name and email address) to Funny or Die when choosing to participate in various activities on the Funny or Die Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.</li>
-  		<br>
-  		<li><b>Cookies Information:</b> When you visit the Funny or Die Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser.  Funny or Die uses both session cookies and persistent cookies.  A persistent cookie remains after you close your browser.  Persistent cookies may be used by your browser on subsequent visits to the site.  Persistent cookies can be removed by following your web browser help file directions.  A session cookie is temporary and disappears after you close your browser.  You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.  However, some features of the Funny or Die Sites may not function properly if the ability to accept cookies is disabled.</li>
-
-  		<br>
-  		<li><b>Log File Information:</b> When you use the Funny or Die Sites, our servers automatically record certain information that your web browser sends whenever you visit any website.  These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</li>
-  		<br>
-  		<li><b>Clear GIFs Information:</b> When you use the Funny or Die Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner).  In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.</li>
-  	</ul>
-
-	
-  	<h2>The Way Funny or Die Uses Information</h2>
-
-	
-  	<ul>
-  		<li>If you submit personally identifiable information to us through the Funny or Die Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Funny or Die Sites.</li>
-  		<br>
-  		<li>Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others.  Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Funny or Die Sites and other Users can contact you through messages and comments.  Any videos that you submit to the Funny or Die Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.</li>
-  		<br>
-  		<li>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Funny or Die Site changes or for customer service purposes).</li>
-
-  		<br>
-
-  		<li>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Funny or Die Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.</li>
-  		<br>
-  		<li>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Funny or Die Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</li>
-  	</ul>
-	
-  	<h2>When Funny or Die Discloses Information</h2>
-	
-  	<ul>
-
-  		<li>We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf.  We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.</li>
-
-  		<br>
-  		<li>We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</li>
-  		<br>
-  		<li>We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Funny or Die Sites.</li>
-  		<br>
-  		<li>We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.</li>
-
-  		<br>
-
-  		<li>Funny or Die also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Funny or Die believes, in good faith, is appropriate or necessary to enforce our <a href="/about/terms">Terms of Use</a>, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Funny or Die, our Users or others.</li>
-  	</ul>
-	
-  	<h2>Your Choices</h2>
-	
-  	<p>You may, of course, decline to submit personally identifiable information through the Funny or Die Sites, in which case Funny or Die may not be able to provide certain services to you.  Please note that media files uploaded by Users to the Funny or Die Sites cannot be removed and remain subject to our <a href="/about/terms">Terms of Use</a>.</p>
-
-	
-  	<p>To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections.  You are responsible for maintaining the secrecy of your unique password and account information at all times.</p>  
-	
-  	<p>Please contact Funny or Die with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing <script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%22%3e%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:privacy@funnyordie.com">privacy@funnyordie.com</a>.</p>
-	
-  	<h2>Third-party Advertisers, Links to Other Sites</h2>
-	
-  	<p>Funny or Die allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Funny or Die Sites.  These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Funny or Die Sites.  They automatically receive your IP address when this happens.  They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.</p>
-	
-  	<p>Funny or Die does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  However, please note that if an advertiser asks Funny or Die to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Funny or Die Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.</p>
-
-	
-  	<p>You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices.  Funny or Die's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br>
-  	</p>
-
-	
-  	<h2>Our Commitment To Data Security</h2>
-	
-  	<p>Funny or Die uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to Funny or Die and you do so at your own risk.  Once we receive your transmission of information, Funny or Die makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
-	
-  	<p>If Funny or Die learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.  Funny or Die may post a notice on the Funny or Die Sites if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this <a href="/contact_us">contact form</a>.</p>
-
-	
-  	<h2>Our Commitment To Childrens' Privacy</h2>
-	
-  	<p>Protecting the privacy of young children is especially important.  For that reason, Funny or Die does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Funny or Die Sites from persons under 13 years of age, and no part of our website is directed to persons under 13.  If you are under 13 years of age, then please do not use or access the Funny or Die Sites at any time or in any manner.  If Funny or Die learns that personally identifiable information of persons under 13 years of age has been collected on the Funny or Die Sites without verified parental consent, then Funny or Die will take the appropriate steps to delete this information.</p>
-
-	
-  	<h2>Special Note to International Users</h2>
-	
-  	<p>The Funny or Die Sites are hosted in the United States and are intended for and directed to Users in the United States.  If you are a User accessing the Funny or Die Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Funny or Die Sites, which are governed by U.S. law, this Privacy Notice, and our <a href="/about/terms">Terms of Use</a>, you are transferring your personal information to the United States and you consent to that transfer.</p>
-	
-  	<h2>In the Event of Merger, Sale, or Bankruptcy</h2>
-
-	
-  	<p>In the event that Funny or Die is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control.  In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
-	
-  	<h2>Changes and updates to this Privacy Notice</h2>
-
-	
-  	<p>This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below.  Please revisit this page to stay aware of any changes.  In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided.  Your continued use of the Funny or Die Sites constitutes your agreement to this Privacy Notice and any future revisions.</p>
-	
-  	<p>For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.</p>
-	
-  	<p><b>Date Last Modified:</b><br>
-  	This Privacy Notice was last modified April 11, 2007.</p>
-
-	
-  	<p><b>Contact Information:</b><br>
-  	Please contact Funny or Die with any questions or comments about this Privacy Notice at <script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%22%3e%70%72%69%76%61%63%79%40%66%75%6e%6e%79%6f%72%64%69%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:privacy@funnyordie.com">privacy@funnyordie.com</a>.</p>
-
-
-<div class="clear"> </div></div></div>
-
-		
-		<div style="clear:both;"></div>
-	</div>
-
-	
-  <div class="box sbox  default_box footer_links_box"><div class="c"><div class="collapse">&nbsp;</div>
-  <div class="footer_section" style="margin-left: 30px;">
+<div id="footer">    
+  <div id="site_links" class="footer_section">
     <h3>This Site</h3>
     <ul>
       <li><a href="/">Funny Videos</a></li>
       <li><a href="/celebrity_videos">Celebrity Videos</a></li>
-      <li><a href="/funny_videos/index">All Videos</a></li>
-      <li><a href="/channels">Categories</a></li>
       <li><a href="/captions">Caption Contest</a></li>
-      <li><a href="/forums">Forums</a></li>
-      <li><a href="/users/browse">Members</a></li>
+      <li><a href="/forums" rel="nofollow">Forums</a></li>
       <li><a href="/blog">Funny or Die Blog</a></li>
       <li><a href="http://funnyordie.shop.musictoday.com/" rel="nofollow">Funny or Die Store</a></li>
     </ul>
   </div>
-  
-  <div class="footer_section">
-  <h3>Business &amp; Stuff</h3>
-  <ul>
-    <li><a href="/about" rel="nofollow">About Us</a></li>
-    <li><a href="/contact_us" rel="nofollow">Contact Us</a></li>
-    <li><a href="/contact_us" rel="nofollow">Help</a></li>
-    <li><a href="/about/faq" rel="nofollow">FAQ</a></li>
-    <li><a href="/about/terms" rel="nofollow">Terms of Use</a></li>
-    <li><a href="/about/privacy" rel="nofollow">Privacy Policy</a></li>
-    <li><a href="/about/advertising" rel="nofollow">Advertise</a></li>
-      <li><a href="http://www.funnyordie.co.uk/" onclick="window.open(this.href);return false;" rel="nofollow" title="Little Britain's FunnyOrDie.co.uk">UK Funny Videos</a></li>
-  </ul>
-</div>
-  
-  <div class="footer_section">
-    <h3>Our People</h3>
+  <div id="about_links" class="footer_section">
+    <h3>Business &amp; Stuff</h3>
     <ul>
-        <li><a href="/will_ferrell">Will Ferrell</a></li>
-        <li><a href="/judd_apatow">Judd Apatow</a></li>
-        <li><a href="/adam_mckay">Adam McKay</a></li>
-        <li><a href="/chris_henchy">Chris Henchy</a></li>
+      <li><a href="/about" rel="nofollow">About Us</a></li>
+      <li><a href="#" onclick="show_dialog('contact_us_dialog');load_support_widget(); return false;" reload="false">Contact Us</a></li>
+      <li><a href="/support/faqs" onclick="window.open(this.href);return false;" rel="nofollow">Help / FAQs</a></li>
+      <li><a href="/about/terms" rel="nofollow">Terms of Use</a></li>
+      <li><a href="/about/privacy" rel="nofollow">Privacy Policy</a></li>
+      <li><a href="/about/advertising" rel="nofollow">Advertise</a></li>
     </ul>
   </div>
-  
-  <div class="footer_section">
+  <div id="people_links" class="footer_section">
+    <h3>Our People</h3>
+    <ul>
+      <li><a href="/will_ferrell">Will Ferrell</a></li>
+      <li><a href="/judd_apatow">Judd Apatow</a></li>
+      <li><a href="/adam_mckay">Adam McKay</a></li>
+      <li><a href="/chris_henchy">Chris Henchy</a></li>
+    </ul>
+  </div>
+  <div id="celeb_links" class="footer_section">
     <h3>Featured Celebrities</h3>
-      <ul style="float:left; width: 150px; border-right: 0px;">
-          <li><a href="/benstiller">Ben Stiller</a></li>
-          <li><a href="/videos/5216488a3b/eva-longoria-sex-tape-from-perry-hilton">Eva Longoria</a></li>
-          <li><a href="/heidi_montag">Heidi Montag</a></li>
-          <li><a href="/jackblack">Jack Black</a></li>
-          <li><a href="/james_franco">James Franco</a></li>
-          <li><a href="/johnmayer">John Mayer</a></li>
-          <li><a href="/john_c_reilly">John C. Reilly</a></li>
-          <li><a href="/lindsay_lohan">Lindsay Lohan</a></li>
-          <li><a href="/marion_cotillard">Marion Cotillard</a></li>
+    <div class="celeb_sub_list">
+      <ul>
+        <li><a href="/benstiller">Ben Stiller</a></li>
+        <li><a href="/emma_stone">Emma Stone</a></li>
+        <li><a href="/videos/5216488a3b/eva-longoria-sex-tape-from-perry-hilton">Eva Longoria</a></li>
+        <li><a href="/eva_mendes">Eva Mendes</a></li>
+        <li><a href="/heidi_montag">Heidi Montag</a></li>
+        <li><a href="/jackblack">Jack Black</a></li>
+        <li><a href="/james_franco">James Franco</a></li>
+        <li><a href="/jane_lynch">Jane Lynch</a></li>
       </ul>
-      <ul style="float:left; width: 150px; border-right: 0px;">
-          <li><a href="/natalie_portman">Natalie Portman</a></li>
-          <li><a href="/nick_swardson">Nick Swardson</a></li>
-          <li><a href="/oliviamunn">Olivia Munn</a></li>
-          <li><a href="/paris_hilton">Paris Hilton</a></li>
-          <li><a href="/ron_howard">Ron Howard</a></li>
-          <li><a href="/sarah_silverman">Sarah Silverman</a></li>
-          <li><a href="/willarnett">Will Arnett</a></li>
-          <li><a href="/zac_efron">Zac Efron</a></li>
-          <li><a href="/zachgalifianakis">Zach Galifianakis</a></li>
+    </div>
+    <div class="celeb_sub_list">
+      <ul>
+        <li><a href="/johnmayer">John Mayer</a></li>
+        <li><a href="/john_c_reilly">John C. Reilly</a></li>
+        <li><a href="/justin_bieber">Justin Bieber</a></li>
+        <li><a href="/lindsay_lohan">Lindsay Lohan</a></li>
+        <li><a href="/marion_cotillard">Marion Cotillard</a></li>
+        <li><a href="/michael_cera">Michael Cera</a></li>
+        <li><a href="/natalie_portman">Natalie Portman</a></li>
+        <li><a href="/nick_swardson">Nick Swardson</a></li>
       </ul>
+    </div>
+    <div class="celeb_sub_list">
+      <ul>
+        <li><a href="/oliviamunn">Olivia Munn</a></li>
+        <li><a href="/paris_hilton">Paris Hilton</a></li>
+        <li><a href="/ron_howard">Ron Howard</a></li>
+        <li><a href="ryan_reynolds">Ryan Reynolds</a></li>
+        <li><a href="/sarah_silverman">Sarah Silverman</a></li>
+        <li><a href="/willarnett">Will Arnett</a></li>
+        <li><a href="/zac_efron">Zac Efron</a></li>
+        <li><a href="/zachgalifianakis">Zach Galifianakis</a></li>
+      </ul>
+    </div>
   </div>
-  
-<div class="clear"> </div></div></div>
-
-  <div class="copyright_line">
-    Copyright © 2010 May Funny or Die Inc. All rights reserved.
-    <p>
-      
-    </p>
-  </div>
-  
-
 </div>
 
-	<!--[if lt IE 7]>
-	<script type="text/javascript">
-		// this triggers the ie6-specific hacks in show_login_dialog().
-		IS_IE_6 = true;
-	</script>
-<![endif]-->
-<script type="text/javascript" charset="utf-8">
-  function toggle_login_signup(val) {
-    switch(val) {
-      case 'login': 
-        $('login').style.display = 'block';
-        $('signup').style.display = 'none';
-        $('login_tab').className = 'selected';
-        $('signup_tab').className = null;
-        break;
-      default:
-        $('signup').style.display = 'block';
-        $('login').style.display = 'none';
-        $('login_tab').className = null;
-        $('signup_tab').className = 'selected';
-        break;
-    }
+<div id="copyright_line">
+  Copyright © 2010 December Funny or Die Inc. All rights reserved.
+</div>  
+
+
+    <div id="header_holder" style="display: none;">
+  
+</div>
+
+<script charset="utf-8" type="text/javascript">
+//<![CDATA[
+  function load_ad_iframes() {
+    jQuery(function($) {
+      $(ad_array).each(function(index, elm) {
+        var ad_iframe = document.createElement('iframe');
+        $(ad_iframe).attr({
+          noresize: true,
+          scrolling: 'no',
+          hspace: 0,
+          vspace: 0,
+          frameborder: 0,
+          marginheight: 0,
+          marginwidth: 0,
+          allowTransparency: true,
+          id: '_' + elm[0] + '_ad',
+          src: elm[1],
+          width: elm[2],
+          height: elm[3]
+        });
+        var ad = $('#_' + elm[0] + '_ad');
+        var container_div = ad.parent('div');
+    
+        
+        if (index == ad_array.length - 1) {
+          container_div.html('');
+          container_div.append($(ad_iframe));
+          setTimeout(function() { $(ad_iframe).trigger(elm[0] + '.loaded');}, 100);
+          setTimeout(function() { $('#fb-root').trigger('lastAd.loaded');}, 100 + (100 * index));
+        } else {
+          $("body").bind(ad_array[index + 1][0] + '.loaded', function(event) {
+            container_div.html('');
+            container_div.append($(ad_iframe));
+            setTimeout(function() { $(ad_iframe).trigger(elm[0] + '.loaded');}, 100);
+          });
+        }
+      });
+    });
   }
-  // preload the login form
-//  toggle_login_signup('login');
+
+  function rotate_ads() {
+    
+    ord = Math.round(Math.random() * 100000000);
+    
+    jQuery(function($) {
+      $("body").unbind('lastAd.loaded');
+      $(ad_array).each(function(index, elm) {
+        $("body").unbind(elm[0] + '.loaded');
+      });
+      
+      $(ad_array).each(function(index, ad) {
+        var src = ad[1].replace(/ord=\d+/, 'ord=' + ord);
+        
+        if (src.indexOf(';is_refresh=true?') == -1) {
+          src = src.match(/[^\?]+/);
+          src += ';is_refresh=true?';
+        }
+        ad[1] = src;
+      });
+    });
+    clear_skin();
+    load_ad_iframes();
+  }
+
+  ad_array.reverse(); 
+  load_ad_iframes();
+
+    
+	  if (typeof(stop_refresh) == 'undefined') new PeriodicalExecuter(rotate_ads, 180);
+
+//]]>
 </script>
-
-
     			<!-- Start Quantcast tag -->
       <script type="text/javascript">
         _qoptions={
@@ -589,63 +632,16 @@
 </noscript>
 <!-- End comScore Tag -->
 
-      
-
-  
-<script charset="utf-8" type="text/javascript">
-//<![CDATA[
-        if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
-        function set_skin(refresh) {
-          var src = unescape('http%3A//ordie.adbureau.net/hserver/acc_random=' + Math.round(Math.random() * 100000000) + '/' + 'AAMSZ=1400X1000/SITE=FUNNYORDIE.COM/area=about.page/pageid=' + pageNum);
-          if (refresh == 'true') 
-            src += '/is_refresh=true';
-          skin = document.createElement("script");
-          skin.setAttribute("type", "text/javascript");
-          skin.setAttribute("charset", "utf-8");
-          skin.setAttribute("src", src);
-          document.getElementsByTagName("head").item(0).appendChild(skin);
-        }
-        set_skin();
-    
-//]]>
-</script>
-  
-
-  
-
-
-<script charset="utf-8" defer="defer" type="text/javascript">
-//<![CDATA[
-	var iframes = new Array('leader_board_iframe', 'medium_right_rectangle_iframe', 'skyscraper_iframe', 'short_right_rectangle_iframe');
-	function rotate_ads() {
-	  pageNum = Math.round(Math.random() * 100000000);
-	
-  	for (var i = 0; i < iframes.length; i++) {
-
-  	  if ($(iframes[i]) != undefined) {
-     	  var src = $(iframes[i]).src.replace(/acc_random=\d+\//, 'acc_random=' + Math.round(Math.random() * 100000000) + '/').replace(/pageid=\d+/, 'pageid=' + pageNum);
-
-        if (src.indexOf('/is_refresh=true') == -1) 
-    	    src += '/is_refresh=true';
-  	    $(iframes[i]).src = src; 
-  	  }
-  	}
-  	set_skin('true');
-    
-	}
-	if (typeof(stop_refresh) == 'undefined') new PeriodicalExecuter(rotate_ads, 180);
-
-//]]>
-</script>
     <script type="text/javascript">
 //<![CDATA[
-    document.observe('fb_connect:loaded', function(event) {        
-      FB.Bootstrap.requireFeatures(["Connect"], function() {
-        FB.Connect.get_status().waitUntilReady( function(status) {
-          if (status == FB.ConnectState.connected) {
-            if (User.isLoggedIn()) {
+      document.observe('fb_connect:loaded', function(event) {        
+        FB.getLoginStatus(function(response) {
+          if (response.session) {
+            if ((User.isLoggedIn()) && (currentUser.fb_login)) {
+              /* 
               var fb_logo = new Element('img', {src: '/images/s.gif', 'class': 'sprite facebook_connect_14x14', 'style': 'position: relative; top: -5px; right: -5px'});
               $('profile_photo_tiny').insert({'before': fb_logo});
+              */
               $('fod_logout_link').hide();
               $('fb_logout_link').show();
             } else {
@@ -656,60 +652,124 @@
           } else $('fb_connect').style.display = 'inline';
         });
       });
-    });
 
 //]]>
 </script>
+<div id="fb-root"></div>
 
 <script type="text/javascript">
 //<![CDATA[
-  function fbInit() {
-    var xtra_perms = null;
-    if (!User.isLoggedIn()) xtra_perms = {permsToRequestOnConnect: 'email'};
-    FB.init('8cfaaac2ff6772d8e0d6f1788726ee09', "/xd_receiver.htm", xtra_perms);
-  }
-
-  function showFbPhotos() {
-    FB_RequireFeatures(["XFBML"], function() {
-      $$('span.fb_user_photo').each(function(x) {
-          FB.XFBML.Host.addElement(new FB.XFBML.ProfilePic(x));
-      });
-    });    
-  }
-  
-  var fb_connect = document.createElement('script'), loaded = false;
-  fb_connect.setAttribute('type', 'text/javascript');
-  fb_connect.setAttribute('src', 'http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US');
-
-  fb_connect.onload = fb_connect.onreadystatechange = function() {
-    var rs = this.readyState;
-    if (rs && rs != 'complete' && rs != 'loaded') return;
-    if (loaded) return;
-    loaded = true;
-    fbInit();
-    FB.ensureInit(function() { $('FB_HiddenContainer').fire('fb_connect:loaded'); });
+  window.fbAsyncInit = function() {
+    FB.init({appId: '8cfaaac2ff6772d8e0d6f1788726ee09', status: true, cookie: true,
+             xfbml: true});
+    $('fb-root').fire('fb_connect:loaded');
   };
-
-  document.getElementsByTagName("head")[0].appendChild(fb_connect);
+  jQuery("body").bind('lastAd.loaded', function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  });
   
-  window.onload = function() {
-    Event.observe($('fb_connect_href'), 'click', function(event){
+  document.observe('fb_connect:loaded', function() {
+    $('fb_connect_href').observe('click', function(event) {
+      event.stop();
       $("fb_connect").hide();
       $("fb_spinner").show();
-      FB.Connect.requireSession(function(x) { new Ajax.Request("/users/fb_connect_login", {method: "post"}) }); 
-      GA.event("fb_connect", "login", "/about/privacy"); 
-      return false;
-    })
+      FB.login(handleFBSessionResponse, {perms:'email'});
+      GA.event("fb_connect", "login", "/about/privacy");
+    });
+  });
+  
+  function handleFBSessionResponse(response) {
+    if (response.session) {
+      new Ajax.Request("/users/fb_connect_login", {method: "post"});
+    }
   }
   
 
 //]]>
 </script>
 
-<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
+    
+<span id="twt_anywhere_span"></span>
 
-    <div id="footnotes_holder"></div>
-    <div id="embed_widget_featured_1_dialog" class="embed_widget_dialog dialog" style="display:none"><div id="embed_widget_featured_1_dialog_box_container" class="embed_widget_dialog_box_container dialog_box_container"><div id="embed_widget_featured_1_dialog_box" class="embed_widget_dialog_box dialog_box "><div id="embed_widget_featured_1_dialog_close" style="position:absolute;top:-30px;right:30px"><img alt="" class="sprite red_x_icon" onclick="hide_dialog('embed_widget_featured_1_dialog');" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></div>
+<script type="text/javascript">
+//<![CDATA[
+
+  jQuery("body").bind('lastAd.loaded', function() {  
+    
+    var twt_anywhere = document.createElement("script"), done = false;
+    twt_anywhere.type = 'text/javascript';
+    twt_anywhere.async = true;
+    twt_anywhere.src = 'http://platform.twitter.com/anywhere.js?id=EONRLjsUyz8LtqQtUGhMg&v=1';
+    
+    twt_anywhere.onload = twt_anywhere.onreadystatechange = function(){
+      if ( !done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") ) {
+        done = true;
+        $('twt_anywhere_span').fire('twitter:loaded');
+      }
+    };
+    document.getElementsByTagName("head")[0].appendChild(twt_anywhere);
+
+    if ($('tweet_medium_button')) {
+      Event.observe($('tweet_medium_button'), 'click', function(event){
+        twttr.anywhere('1', function(twitter) {
+          twitter('#twitter_box_placeholder').tweetBox({
+            defaultContent: 'http://FunnyOrDie.com', 
+            onTweet: function (tweet, renderedTweet) { 
+              $('twitter_action_area').innerHTML = 'Thanks for your tweet';
+            }
+          });
+        });
+        $('twitter_action_area').show();
+        GA.event('sharing','twitter_share','"/about/privacy"');
+      });
+    }
+  });
+  
+  function populateTwitterForm(user) {
+    $('twitter_name').value = user.data('screen_name');
+    $('twitter_id').value = user.data('id');
+    $('twitter_image').value = user.data('profile_image_url');
+  }
+  
+  var handleTwitterLogin;
+  document.observe("twitter:loaded", function() {
+    twttr.anywhere(function (T) {
+      if (T.isConnected()) {
+        handleTwitterLogin = function (val) {
+          new Ajax.Request("/users/twitter_connect_login", {method: "post", parameters: { 'twitter_id': T.currentUser.data('id'), 'post_auth':  val }});
+          populateTwitterForm(T.currentUser);
+        } 
+      } else { 
+        if ($('twitter_login')) {
+          $('twitter_login').innerHTML = "<span id='twitter_login'></span>";  
+          T("#twitter_login").connectButton({
+            authComplete: function(user) {
+              populateTwitterForm(user);
+              new Ajax.Request("/users/twitter_connect_login", {method: "post", parameters: { 'twitter_id': T.currentUser.data('id'), 'post_auth': '' }});
+            }
+          });
+        } 
+        if ($('twitter_login_comments')) {
+          $('twitter_login_comments').innerHTML = "<span id='twitter_login_comments'></span>";  
+          T("#twitter_login_comments").connectButton({
+            authComplete: function(user) {
+              populateTwitterForm(user);
+              new Ajax.Request("/users/twitter_connect_login", {method: "post", parameters: { 'twitter_id': T.currentUser.data('id'), 'post_auth': '' }});
+            }
+          });
+        }
+      }
+    });
+  });
+
+//]]>
+</script>
+
+    
+    <div id="embed_widget_featured_1_dialog" class="embed_widget_dialog dialog" style="display:none"><div id="embed_widget_featured_1_dialog_box_container" class="embed_widget_dialog_box_container dialog_box_container"><div id="embed_widget_featured_1_dialog_box" class="embed_widget_dialog_box dialog_box "><div id="embed_widget_featured_1_dialog_close" class="dialog_closer"><a href="#" onclick="hide_dialog('embed_widget_featured_1_dialog');; return false;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div><div id="embed_widget_featured_1_dialog_box_content" class="embed_widget_dialog_box_content dialog_box_content">
 <script type="text/javascript">
 //<![CDATA[
 
@@ -751,10 +811,9 @@
 
 //]]>
 </script>
-<div id="embed_widget_featured_1_dialog_close" style="position:absolute;top:-30px;right:30px"><img alt="" class="sprite red_x_icon" onclick="hide_dialog('embed_widget_featured_1_dialog');" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></div>
-<div id="selector_videos_featured_1" style="border:5px solid #FFFFFF;background-color:#464646;-moz-border-radius:5px;-webkit-border-radius:5px">
+<div id="selector_videos_featured_1">
 
-	<h3 style="font-family:Futura;font-size:150%;text-align:center">Embed Funny or Die Featured Videos<br>on your webpage or blog </h3>
+	<h3 style="font-family:Futura;font-size:150%;text-align:center;text-transform:uppercase;font-weight:bold">Embed Funny or Die Featured Videos<br>on your webpage or blog </h3>
 
   <table cellpadding="0" cellspacing="10" border="0">
     <tbody><tr>
@@ -846,18 +905,18 @@ new Form.Element.EventObserver('font_size_featured_1', function(element, value) 
 	</tr>
   
   <tr style="background-color:transparent">
-	  <td colspan="2" align="center"><button type="button">Preview</button></td>
+	  <td colspan="2" align="center" style="text-align:center"><button type="button">Preview</button></td>
 	</tr>
 </tbody></table>
 	      
 	      <h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;margin-top:15px">3. Copy and Paste this HTML       <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" title="Click to copy" width="10" height="10" id="clippy">
-      <param name="movie" value="http://public0.ordienetworks.com/flash/clippy.swf?2383166d">
+      <param name="movie" value="http://public0.ordienetworks.com/flash/clippy.swf?112d666e">
       <param name="allowScriptAccess" value="always">
       <param name="quality" value="high">
       <param name="scale" value="noscale">
       <param name="FlashVars" value="text_fnc=get_embed_code_featured_1">
       <param name="bgcolor" value="151515">
-      <embed src="http://public0.ordienetworks.com/flash/clippy.swf?2383166d" title="Click to copy" width="10" height="10" name="clippy" quality="high" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="text_fnc=get_embed_code_featured_1" bgcolor="151515">
+      <embed src="http://public0.ordienetworks.com/flash/clippy.swf?112d666e" title="Click to copy" width="10" height="10" name="clippy" quality="high" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="text_fnc=get_embed_code_featured_1" bgcolor="151515">
       </object>
 </h4>
       	<textarea id="embed_widget_featured_1" name="embed_widget_featured_1" onclick="javascript:this.focus();this.select();GA.event('sharing','embed_widget_featured_copy','1')" readonly="readonly" style="height:80px;width:198px;font-size:12px">wait for it...</textarea>
@@ -874,92 +933,28 @@ new Form.Element.EventObserver('font_size_featured_1', function(element, value) 
 
 </div>
 
-</div><div id="embed_widget_featured_1_dialog_hider" class="embed_widget_dialog_hider dialog_hider" onclick="hide_dialog('embed_widget_featured_1_dialog'); return false;">&nbsp;</div></div><div id="embed_widget_featured_1_dialog_bg" class="embed_widget_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+</div></div><div id="embed_widget_featured_1_dialog_hider" class="embed_widget_dialog_hider dialog_hider" onclick="hide_dialog('embed_widget_featured_1_dialog'); return false;">&nbsp;</div></div><div id="embed_widget_featured_1_dialog_bg" class="embed_widget_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
 //<![CDATA[
-    var addthis_pub = "FunnyOrDie";
-    var addthis_share = {
-      url: 'http://www.funnyordie.com/about/privacy',
-      title: 'Funny or Die Privacy Notice'
-    };
-    
+document.observe('dom:loaded', function() { Event.observe(document, 'keydown', function(event) { if (event.keyCode == Event.KEY_ESC) hide_dialog('embed_widget_featured_1_dialog'); }); });
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
   
-      if (!fb_attachment) var fb_attachment = {"name":"Funny or Die Privacy Notice","href":"http://www.funnyordie.com/about/privacy","description":"funny or die privacy notice - funny videos, funny captions and jokes featuring Will Ferrell, celebrities, comedians, and you"}
-      if (!fb_links) var fb_links = [{"href":"http://www.funnyordie.com/","text":"See more on Funny or Die"}]
-    
-    
-    var addthis_options = 'favorites, bitly, aim, buzz, delicious, fark, friendfeed, furl, google, linkedin, live, reddit, slashdot, spurl, technorati, more'; 
+      if (!fb_post) var fb_post = {"action_links":[{"href":"http://www.funnyordie.com/","text":"See more on Funny or Die"}],"attachment":{"name":"Funny or Die Privacy Notice","href":"http://www.funnyordie.com/about/privacy","description":"funny or die privacy notice - Funny videos, funny pictures, funny jokes, top ten lists, funny blogs, caption contests, and funny articles featuring celebrities, comedians, and you."},"method":"stream.publish"}
 
 //]]>
-</script>	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js" defer="defer"></script>
-	
+</script>
 <script type="text/javascript">
 //<![CDATA[
 Flash.init()
 //]]>
-</script><div id="login_dialog" class="login_dialog dialog" style="display:none"><div id="login_dialog_box_container" class="login_dialog_box_container dialog_box_container"><div class="box sbox  dialog_box login_dialog_box" id="login_dialog_box"><div class="c" id="login_dialog_box_c"><div class="collapse">&nbsp;</div>	<a href="#" onclick="hide_login_dialog(); return false;" style="float:right;height:16px;margin:0px;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
-	<div id="login_signup_tabs">
-		<a class="selected" href="#" id="login_tab" onclick="toggle_login_signup(&quot;login&quot;);; return false;" style="margin-left: 5px;">Log in</a>
-		<a href="#" id="signup_tab" onclick="toggle_login_signup(&quot;signup&quot;);; return false;">Join</a>
-	</div>
-	<div style="padding-right:12px;padding-top:35px">
-		<div class="box sbox  light_box login_signup_box"><div class="c"><div class="collapse">&nbsp;</div>			<div id="login" style="display: block;">
-			  <form action="https://secure.funnyordie.com/session" id="login_form" method="post"><div id="login_fields">
-	<p><label for="login_user_login" class="label">Username</label><br>
-	<input autocapitalize="off" autocorrect="off" class="text_input" id="login_user_login" name="login_user[login]" size="30" type="text"></p>
-	
-	<p><label for="login_user_password" class="label">Password</label><br>
-	<input class="text_input" id="login_user_password" name="login_user[password]" size="30" type="password"></p>
-	
-	<p><input checked="checked" class="checkbox" id="remember_me" name="remember_me" type="checkbox" value="1"><label for="remember_me" class="label">Remember me</label></p>
-	<p><input class="submit_btn" id="login_submit" name="commit" type="submit" value="Log In"></p>
-	<p class="centered" style="margin-top:16px;"><a href="/account/password_reminder" rel="nofollow">Forgot your password?</a></p>
-	
-	<input id="post_login_action" name="post_login_action" type="hidden">
-	<input id="post_login_action_id" name="post_login_action_id" type="hidden">
-	<input id="return_to" name="return_to" type="hidden" value="/about/privacy">
-</div>
-</form>
-			</div>
-			<div id="signup" style="display: none;">
-			  <form action="https://secure.funnyordie.com/account" id="signup_form" method="post">  <div id="signup_fields">
-    <p>
-      <label for="account_email" class="label">Your email address:</label>
-      <br>
-      <input class="text_input" id="account_email" maxlength="100" name="account[email]" size="20" type="text">
-    </p>
-    <p>
-      <label for="account_login" class="label">Choose a username:</label>
-      <br>
-      <input class="text_input" id="account_login" maxlength="40" name="account[login]" size="20" type="text">
-    </p>
-    <p>
-      <label for="account_password" class="label">Choose a password:</label>
-      <br>
-      <input class="text_input" id="account_password" maxlength="40" name="account[password]" size="20" type="password">
-    </p>
-    <p>
-      <label for="account_password_confirmation" class="label">Repeat your password:</label>
-      <br>
-      <input class="text_input" id="account_password_confirmation" maxlength="40" name="account[password_confirmation]" size="20" type="password">
-    </p>
-    <p>
-      <input name="account[accepted_tos]" type="hidden" value="0"><input id="account_accepted_tos" name="account[accepted_tos]" type="checkbox" value="1">&nbsp;&nbsp;
-      <label for="account_accepted_tos">I agree to the <a href="/about/terms">terms of use</a> and <a href="/about/privacy">privacy policy</a>.</label>
-    </p>
-    <p>
-      <input checked="checked" id="newsletter_opt_in" name="newsletter_opt_in" type="checkbox" value="1">&nbsp;&nbsp;
-      <label for="account_newsletter_opt_in">I would like to receive the Funny or Die newsletter.</label>
-    </p>
-    <p style="text-align: center;"><input class="submit_btn" name="commit" type="submit" value="&nbsp;Join Funny or Die&nbsp;"></p>
-	  <input id="post_login_action" name="post_login_action" type="hidden">
-	  <input id="post_login_action_id" name="post_login_action_id" type="hidden">
-	  <input id="account_signup_source" name="account[signup_source]" type="hidden" value="login_dialogue">
-  </div>
-</form>
-			</div>
-    <div class="clear"> </div></div></div>
-  </div>
-<div class="clear"> </div></div></div><div id="login_dialog_hider" class="login_dialog_hider dialog_hider" onclick="hide_login_dialog(); return false;">&nbsp;</div></div><div id="login_dialog_bg" class="login_dialog_bg dialog_bg">&nbsp;</div></div><div id="fb_login_dialog" class="fb_login_dialog dialog" style="display:none"><div id="fb_login_dialog_box_container" class="fb_login_dialog_box_container dialog_box_container"><div id="fb_login_dialog_box" class="fb_login_dialog_box dialog_box default_box">
+</script><div id="contact_us_dialog" class="contact_us_dialog dialog" style="display:none"><div id="contact_us_dialog_box_container" class="contact_us_dialog_box_container dialog_box_container"><div id="contact_us_dialog_box" class="contact_us_dialog_box dialog_box "><div id="contact_us_dialog_close" class="dialog_closer"><a href="#" onclick="hide_dialog('contact_us_dialog');; return false;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div><div id="contact_us_dialog_box_content" class="contact_us_dialog_box_content dialog_box_content">
+  <!-- loads /support/widget iframe -->
+</div></div><div id="contact_us_dialog_hider" class="contact_us_dialog_hider dialog_hider" onclick="hide_dialog('contact_us_dialog'); return false;">&nbsp;</div></div><div id="contact_us_dialog_bg" class="contact_us_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+//<![CDATA[
+document.observe('dom:loaded', function() { Event.observe(document, 'keydown', function(event) { if (event.keyCode == Event.KEY_ESC) hide_dialog('contact_us_dialog'); }); });
+//]]>
+</script><div id="fb_login_dialog" class="fb_login_dialog dialog" style="display:none"><div id="fb_login_dialog_box_container" class="fb_login_dialog_box_container dialog_box_container"><div id="fb_login_dialog_box" class="fb_login_dialog_box dialog_box default_box"><div id="fb_login_dialog_box_content" class="fb_login_dialog_box_content dialog_box_content">
   <div class="inline_message notice" style="margin-top: 0px;">
     Facebook Connect -- Last Step
   </div>
@@ -972,11 +967,138 @@ Flash.init()
 <form action="/users/fb_connect_login" method="post" onsubmit="$('fb_login_form').hide();$('fb_login_spinner').show();; new Ajax.Request('/users/fb_connect_login', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); return false;">        <input id="requested_login" name="requested_login" type="text"> &nbsp; <input name="commit" type="submit" value="Save">
 </form>    </div>
     <div id="fb_login_spinner" style="margin-top: 10px; display: none;">
-      <h4><img alt="Spinner_black" src="http://public0.ordienetworks.com/images/spinner_black.gif?2383166d">&nbsp;&nbsp;Processing...</h4>
+      <h4><img alt="Spinner" src="http://public0.ordienetworks.com/images/spinner.gif?112d666e"> Processing...</h4>
     </div>
   </div>
   
-</div></div><div id="fb_login_dialog_bg" class="fb_login_dialog_bg dialog_bg">&nbsp;</div></div>
-    <!-- PageGen: Tue Jun 01 00:40:29 -0500 2010 -->
+</div></div></div><div id="fb_login_dialog_bg" class="fb_login_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+//<![CDATA[
+document.observe('dom:loaded', function() { Event.observe(document, 'keydown', function(event) { if (event.keyCode == Event.KEY_ESC) hide_dialog('fb_login_dialog'); }); });
+//]]>
+</script><div id="twitter_login_dialog" class="twitter_login_dialog dialog" style="display:none"><div id="twitter_login_dialog_box_container" class="twitter_login_dialog_box_container dialog_box_container"><div id="twitter_login_dialog_box" class="twitter_login_dialog_box dialog_box default_box"><div id="twitter_login_dialog_box_content" class="twitter_login_dialog_box_content dialog_box_content">
+  <div class="inline_message notice" style="margin-top: 0px;">
+    Twitter Connect -- Last Step
+  </div>
+  <div id="twitter_login_error" class="inline_message error" style="display:none;"></div>
+  <div style="padding: 10px;">
+    <div id="twitter_login_form" style="margin-top: 10px;">
+<form action="/users/twitter_connect_login" method="post" onsubmit="$('twitter_login_form').hide();$('twitter_login_spinner').show();; new Ajax.Request('/users/twitter_connect_login', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); return false;">        <p>
+          <label for="twitter_email" class="label">Your email address:</label>
+          <br>
+          <input class="text_input" id="twitter_email" maxlength="100" name="twitter_email" size="20" type="text">
+        </p>
+        <p>
+          <label for="twitter_name" class="label">Choose a username:</label>
+          <br>
+          <input class="text_input" id="twitter_name" maxlength="40" name="twitter_name" size="20" type="text">
+        </p>
+        <p>
+          <input checked="checked" id="newsletter_opt_in" name="newsletter_opt_in" type="checkbox" value="1">&nbsp;&nbsp;
+          <label for="account_newsletter_opt_in">I would like to receive the Funny or Die newsletter.</label>
+        </p>
+        <input id="twitter_id" name="twitter_id" type="hidden">
+        <input id="twitter_image" name="twitter_image" type="hidden">
+        <input id="post_auth" name="post_auth" type="hidden">
+        <input name="commit" type="submit" value="Save">
+</form>    </div>
+    <div id="twitter_login_spinner" style="margin-top: 10px; display: none;">
+      <h4><img alt="Spinner" src="http://public0.ordienetworks.com/images/spinner.gif?112d666e"> Processing...</h4>
+    </div>
+  </div>
+  
+</div></div></div><div id="twitter_login_dialog_bg" class="twitter_login_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+//<![CDATA[
+document.observe('dom:loaded', function() { Event.observe(document, 'keydown', function(event) { if (event.keyCode == Event.KEY_ESC) hide_dialog('twitter_login_dialog'); }); });
+//]]>
+</script><div id="login_dialog" class="login_dialog dialog" style="display:none"><div id="login_dialog_box_container" class="login_dialog_box_container dialog_box_container"><div id="login_dialog_box" class="login_dialog_box dialog_box "><div id="login_dialog_close" class="dialog_closer"><a href="#" onclick="hide_dialog('login_dialog');; return false;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/images/s.gif?112d666e"></a></div><div id="login_dialog_box_content" class="login_dialog_box_content dialog_box_content">	<div id="login_signup_tabs">
+		<a class="selected" href="#" id="login_tab" onclick="toggle_login_signup(&quot;login&quot;);; return false;">Log in</a>
+		<a class="" href="#" id="signup_tab" onclick="toggle_login_signup(&quot;signup&quot;);; return false;">Join</a>
+		<a class="" href="#" id="connect_tab" onclick="toggle_login_signup(&quot;connect&quot;);; return false;">Connect via Facebook / Twitter</a>
+	</div>
+	<div style="padding-top:15px">
+		<div id="login" style="display:block">
+		  <form action="https://secure.funnyordie.com/session" id="login_form" method="post"><div id="login_fields">
+	<p><label for="login_user_login" class="label">Username</label><br>
+	<input autocapitalize="off" autocorrect="off" class="text_input" id="login_user_login" name="login_user[login]" size="30" type="text"></p>
 	
+	<p><label for="login_user_password" class="label">Password</label><br>
+	<input class="text_input" id="login_user_password" name="login_user[password]" size="30" type="password"></p>
+	
+	<p><input checked="checked" class="checkbox" id="remember_me" name="remember_me" type="checkbox" value="1"><label for="remember_me" class="label">Remember me</label></p>
+	<p><input class="submit_button button" name="commit" type="submit" value="Log In"> <a href="/account/password_reminder" class="forgot_password" rel="nofollow">Forgot your password?</a></p>
+	<input id="post_login_action" name="post_login_action" type="hidden">
+	<input id="post_login_action_id" name="post_login_action_id" type="hidden">
+	<input id="return_to" name="return_to" type="hidden" value="/about/privacy">
+	<input id="to" name="to" type="hidden" value="/about/privacy">
+</div>
+</form>
+		</div>
+		<div id="signup" style="display:none">
+		  <form action="https://secure.funnyordie.com/signup" id="signup_form" method="post">  <p>
+    <label for="account_email" class="label">Your email address:</label>
+    <br>
+    <input class="text_input" id="account_email" maxlength="100" name="account[email]" size="20" type="text">
+  </p>
+  <p>
+    <label for="account_login" class="label">Choose a username:</label>
+    <br>
+    <input class="text_input" id="account_login" maxlength="40" name="account[login]" size="20" type="text">
+  </p>
+  <p>
+    <label for="account_password" class="label">Choose a password:</label>
+    <br>
+    <input class="text_input" id="account_password" maxlength="40" name="account[password]" size="20" type="password">
+  </p>
+  <p>
+    <label for="account_password_confirmation" class="label">Repeat your password:</label>
+    <br>
+    <input class="text_input" id="account_password_confirmation" maxlength="40" name="account[password_confirmation]" size="20" type="password">
+  </p>
+  <p>
+    <input name="account[accepted_tos]" type="hidden" value="0"><input class="checkbox" id="account_accepted_tos" name="account[accepted_tos]" type="checkbox" value="1"><label for="account_accepted_tos">I agree to the <a href="/about/terms">terms of use</a> and <a href="/about/privacy">privacy policy</a>.</label>
+  </p>
+  <p>
+    <input checked="checked" class="checkbox" id="newsletter_opt_in" name="newsletter_opt_in" type="checkbox" value="1"><label for="newsletter_opt_in">I would like to receive the Funny or Die newsletter.</label>
+  </p>
+  <p style="text-align: center;"><input class="submit_button button" name="commit" type="submit" value="&nbsp;Join Funny or Die&nbsp;"></p>
+  <input id="post_signup_action" name="post_signup_action" type="hidden">
+  <input id="post_signup_action_id" name="post_signup_action_id" type="hidden">
+  <input id="account_signup_source" name="account[signup_source]" type="hidden" value="login_dialogue">
+</form>
+		</div>
+		<div id="connect" style="display:none">
+		  <div class="box connect_box">
+<a class="connect_link" href="#" onclick="FB.login(handleFBSessionResponse); return false;" title="Connect with Facebook"><img alt="Connect with Facebook" id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_medium_long.gif"></a>
+<h3><img alt="Facebook" src="http://public0.ordienetworks.com/images/facebook-logo.png?112d666e"> Users<span class="optional_text"> Can</span></h3>
+</div>
+
+<div class="box connect_box">
+<span id="twitter_login" class="connect_link"><a class="temporary" href="#" onclick="handleTwitterLogin(''); return false;" title="Connect with Twitter"><img alt="Twitter_connect" height="25" src="http://public0.ordienetworks.com/images/twitter_connect.png?112d666e" width="170"></a></span>
+<h3><img alt="Twitter" src="http://public0.ordienetworks.com/images/twitter-logo.png?112d666e"> Users<span class="optional_text"> Can</span></h3>
+</div>
+		</div>
+	</div>
+</div></div><div id="login_dialog_hider" class="login_dialog_hider dialog_hider" onclick="hide_login_dialog(); return false;">&nbsp;</div></div><div id="login_dialog_bg" class="login_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+//<![CDATA[
+document.observe('dom:loaded', function() { Event.observe(document, 'keydown', function(event) { if (event.keyCode == Event.KEY_ESC) hide_dialog('login_dialog'); }); });
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+      
+      if (($('lb_ad_content')) || ($('masthead_content'))) {
+        $('header_nav').observe('mouseenter', function(event) { hide_banner(); });
+        $('header_nav').observe('mouseleave', function(event) { show_banner(); });
+      }
+
+//]]>
+</script>
+    <div id="footnotes_holder"></div>
+    <!-- PageGen: Sat Dec 11 03:41:34 -0600 2010 -->
+  </div>
+</div>
+
+
 </body></html>
