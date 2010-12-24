@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csn.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527185219id_/http%3A//www.csn.edu/pages/731.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csn.edu privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224071836id_/http%3A//www.csn.edu/pages/731.asp) for the most accurate reproduction.*
 
 # CSN - Terms of Use & Privacy Policy
 
@@ -9,7 +9,7 @@
   
 **STATEMENT OF COPYRIGHT**
 
-Copyright 2005-2008 by College of Southern Nevada. All rights reserved.
+Copyright 2005-2010 by College of Southern Nevada. All rights reserved.
 
 Neither this website nor any element within, including, without limitation, text, logos, graphics, images, photographs, multimedia features, or other likenesses or materials, may be republished, reposted, retransmitted, or redistributed without the prior express written consent of College of Southern Nevada (CSN). Unauthorized usage constitutes trademark and/or copyright infringement. CSN may seek legal remedy, including financial compensation, in all cases of unauthorized usage including use by authorized representatives of CSN for unauthorized purposes.
 
