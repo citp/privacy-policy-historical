@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210218id_/http%3A//www.unscramble.net/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224140748id_/http%3A//unscramble.net/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Unscramble.net - Privacy
 
