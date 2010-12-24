@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022345id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224081841id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
 
-# Triathlon.org - The Official Triathlon Resource
-
-Thursday, 24 June 2010 
+# Triathlon.org - International Triathlon Union
 
 ## Privacy Policy
 
