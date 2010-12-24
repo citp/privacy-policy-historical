@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the det.wa.edu.au privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209065511id_/http%3A//www.det.wa.edu.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the det.wa.edu.au privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224124848id_/http%3A//www.det.wa.edu.au/privacy.asp) for the most accurate reproduction.*
 
 # The Department of Education - Privacy
 
