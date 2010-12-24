@@ -1,23 +1,12 @@
-> *The following text is extracted and transformed from the bloggersentral.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106123524id_/http%3A//bloggersentral.blogspot.com/2009/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggersentral.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224130255id_/http%3A//www.bloggersentral.com/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | Blogger Sentral blogspot tips
+# Privacy | Blogger Sentral
 
-If you are new to Blogger Sentral, read the [FAQs](http://bloggersentral.blogspot.com/2009/11/blogger-sentral-faqs.html) first.  
-For post-unspecific questions or comments please use the questions/comments gadget on the right sidebar.  
+**Privacy Policy for[http://www.bloggersentral.com](http://www.bloggersentral.com/ "http://bloggersentral.blogspot.com")**[ ****](http://bloggersentral.blogspot.com/ "http://bloggersentral.blogspot.com")
 
+The privacy of our visitors to [http://www.bloggersentral.com](http://www.bloggersentral.com/ "http://bloggersentral.blogspot.com") is important to us.
 
-  
-
-
-[ ](http://www.blogger.com/rearrange?blogID=4979338887936179759&widgetType=Text&widgetId=Text3&action=editWidget "Edit")
-
-###  Privacy policy 
-
-**Privacy Policy for**[ **http://bloggersentral.blogspot.com**](http://bloggersentral.blogspot.com/ "http://bloggersentral.blogspot.com")
-
-The privacy of our visitors to [http://bloggersentral.blogspot.com](http://bloggersentral.blogspot.com/ "http://bloggersentral.blogspot.com") is important to us.
-
-At [http://bloggersentral.blogspot.com](http://bloggersentral.blogspot.com/ "http://bloggersentral.blogspot.com"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [http://bloggersentral.blogspot.com](http://bloggersentral.blogspot.com/ "http://bloggersentral.blogspot.com"), and how we safeguard your information. We never sell your personal information to third parties.
+At [http://www.bloggersentral.com](http://www.bloggersentral.com/ "http://bloggersentral.blogspot.com"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [http://www.bloggersentral.com](http://www.bloggersentral.com/ "http://bloggersentral.blogspot.com"), and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
@@ -31,4 +20,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [Blogger Sentral](http://bloggersentral.blogspot.com/)
+AdSense Privacy Policy Provided by [Blogger Sentral](http://www.bloggersentral.com/)
