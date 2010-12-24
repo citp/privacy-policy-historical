@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diablomedia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219103118id_/http%3A//www.diablomedia.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablomedia.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225003942id_/http%3A//diablomedia.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Diablo Media
 
@@ -27,10 +27,10 @@ We encourage you to revisit our Privacy Statement on an ongoing basis to remain 
 Our consumer privacy advocates may be reached via e-mail or postal mail via the contact information below:
 
 **Diablo Media, LLC**  
-1550 Larimer St. Suite 606  
+1553 Platte Street, Suite 205  
 Denver, CO 80202 USA
 
-P: +1 (800) 368-0973  
+P: +1 (303) 305-4052  
 F: +1 (800) 665-1879
 
 ##### Diablo Media, LLC
@@ -38,5 +38,5 @@ F: +1 (800) 665-1879
 1553 Platte St. Suite 205  
 Denver, CO 80202 USA
 
-P: +1 (800) 368-0973  
+P: +1 (303) 305-4052  
 F: +1 (800) 665-1879
