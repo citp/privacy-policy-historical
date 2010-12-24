@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponshoebox.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527001542id_/http%3A//couponshoebox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponshoebox.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224141125id_/http%3A//couponshoebox.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy
 
 The privacy of our visitors to CouponShoebox.com is extremely important to us and is handled appropriately.
 
