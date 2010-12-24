@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506042153id_/http%3A//www.extension.org/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224202856id_/http%3A//www.extension.org/main/privacy) for the most accurate reproduction.*
 
 # eXtension - Privacy Policy
 
@@ -9,8 +9,6 @@ Your privacy is important to eXtension Foundation. This privacy statement provid
 When you register with eXtension, we collect personally identifiable information, including your name and address. We may also ask for information about your areas of interest to provide relevant resources to better serve your needs. You may choose not to share your geographical information or areas of interest, but we encourage you to do so to receive a more personalized experience with eXtension. 
 
 Unregistered users of eXtension must provide their e-mail address and name when providing a comment or asking a question. “Ask the Expert” questions will also require a zip code in order to provide appropriate answers. 
-
-This site does not use tracking cookies to collect information about users. 
 
 ###  How will my information be used?
 
