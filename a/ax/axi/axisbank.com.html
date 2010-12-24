@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the axisbank.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628151220id_/http%3A//www.axisbank.com/privacypolicy/Privacy-Policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the axisbank.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224085348id_/http%3A//www.axisbank.com/privacypolicy/Privacy-Policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head></head><body><b></b>
 <script language="JavaScript">
@@ -18,6 +18,7 @@
 	<title>Axis Bank - Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
+<meta name="robots" content="">
 
 	<!-- End of Meta Tags for the product page -->	
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -90,12 +91,12 @@ clear: left;
 <tbody><tr>
 	<td class="logo_diwali"><table cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr>
-				<td rowspan="2"><h1><a href="/personal/index.asp"><img src="/images/logo-axis.gif" alt="Axis Bank Logo"></a></h1></td>
+				<td rowspan="2"><h1><a href="/personal/index.asp"><img src="/images/logo-axis.gif" alt="Axis Bank"></a></h1></td>
 				<td valign="top"><h2>
 						<a href="/aboutus/aboutaxisbank/About-Axis-Bank.asp" target="_self" title="About Us">About Us</a>|
 		<a href="/contactus/Contact-Us.asp" target="_self" title="Contact Us">Contact Us</a>|
 		<a href="/careers/Careers.asp" target="_self" title="Careers">Careers</a>|
-		<a href="/shareholderscorner/Share-Holders-Corner.asp" target="_self" title="Investor Relations">Investor Relations</a>|
+		<a href="/shareholderscorner/Share-Holders-Corner.asp" target="_self" title="Shareholders Corner">Shareholders Corner</a>|
 		<a href="/sitemap/sitemap.asp" target="_self" title="Site Map">Site Map</a>
 					</h2>
 					
@@ -290,7 +291,7 @@ selected
 <td id="personal"><a href="/personal/index.asp">Personal</a></td>
 <td id="business"><a href="/corporate/index.asp">Corporate</a></td>
 <td id="nri"><a href="/nri/index.asp">NRI</a></td>
-<td id="priBanking"><a href="/prioritybanking/index.asp">Priority Banking</a></td>
+<td id="priBanking"><a href="/prioritybanking/index.asp">Axis Priority</a></td>
 </tr>
 </tbody></table>
 </td>
@@ -341,9 +342,19 @@ function netbanking_logon(from_lb)
 	{
 		if(formFrom.options[i].selected==true)
 		{
-			url=formFrom.options[i].title;
-			window.open(url)
-		
+			//alert(formFrom.options[i].value);
+			//if(formFrom.options[i].value=="Personal Banking")
+			//	{
+			//		url=formFrom.options[i].title;
+			//		window.open(url,'prelogin','width=790,height=570')
+			//	}
+			
+			//else if(formFrom.options[i].value!="Personal Banking")
+			//	{					
+					url=formFrom.options[i].title;
+					//window.open(url)
+					window.location.href=url;
+			//	}
 		}
 	}
 }
@@ -371,8 +382,9 @@ function netbanking_demo(from_lb)
 <td colspan="2">
 <table style="margin-left:15px;" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td><select name="banking" id="sel_selected" class="input_select"><option selected="" id="" title="https://www.axisbank.co.in">Personal Banking</option>
-<option id="/24x7banking/internetbanking/personal-demo.htm" title="https://www.iconnect.co.in/BankAwayRetail/sgonHttpHandler.aspx?Action.CorpUser.Init.001=Y&amp;AppsignonBankId=211&amp;AppType=Corporate">Corporate Banking</option></select></td>
+<td><select name="banking" id="sel_selected" class="input_select"><option selected="" id="" title="/otherapps/prelogin/pre_launch_login.html">Personal Banking</option>
+<option id="/24x7banking/internetbanking/personal-demo.htm" title="https://www.iconnect.co.in/BankAwayRetail/sgonHttpHandler.aspx?Action.CorpUser.Init.001=Y&amp;AppsignonBankId=211&amp;AppType=Corporate">Corporate Banking</option>
+<option id="/24x7banking/internetbanking/personal-demo.htm" title="https://www.axisbank.co.in/portfolio/login.asp">Portfolio Snapshot</option></select></td>
 </tr>
 <tr>
 <td><a href="#" class="login" onclick="netbanking_logon('sel_selected');"><img src="/images/logon.gif" alt=""></a></td>
