@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the 4wheelonline.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170048id_/http%3A//www.4wheelonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelonline.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224202957id_/http%3A//4wheelonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# 4 Wheel Online
+# Privacy Policy
 
+  
 4WheelOnline.com respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the 4WheelOnline.com family of companies with your consent, as required by law or to protect 4WheelOnline.com, its customers, or the public, or with companies that help 4WheelOnline.com fulfill its obligations with you, and then only with partners who share 4WheelOnline.com's commitment to protecting your privacy and data. At any time you may contact 4WheelOnline.com with any privacy questions or concerns you may have. You also may ask at any time to see the personal data you have given us and request correction or deletion. We strive to protect the security of your personal data by use of appropriate measures and processes. 
 
 **4WheelOnline.com only uses your personal information for specific purposes**
