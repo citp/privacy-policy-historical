@@ -1,144 +1,129 @@
-> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419034703id_/http%3A//www.taronga.org.au/tcsa/about/internet-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224135831id_/http%3A//www.taronga.org.au/about-us/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
-# Internet Privacy Policy - Taronga Conservation Society Australia
+# Privacy Policy | Taronga Conservation Society Australia
 
-  1. Introduction
-  2. What personal information is collected?
-  3. Statistical Information
-  4. How is personal information collected?
-  5. How is your personal information used?
-  6. Zoo Friends membership program
-  7. Disclosure
-  8. Access and alteration to personal information
-  9. Changes to the privacy statement
-  10. Complaints
-  11. Contact Us
+### 1\. Introduction
 
+Taronga Conservation Society Australia (collectively referred to as "we", "us" and TCSA) is subject to the NSW Privacy and Personal Information Protection Act (1988). 
 
+This Privacy Statement explains in general terms how the TCSA protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us: 
 
-#### **1\. Introduction**
-
-Taronga Conservation Society Australia (collectively referred to as "we", "us" and TCSA) is subject to the NSW Privacy and Personal Information Protection Act (1988). 
-
-This Privacy Statement explains in general terms how the TCSA protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us: 
-
-  * when purchasing a ticket or making a booking with us; 
-  * when making a donation;
-  * via taronga.org.au, tarongafoundation.com.au, roarandsnore.com.au, zoofari.com.au or other online sites operated by the TCSA and its contractors; and 
-  * under any other agreement or arrangement. 
+  * when purchasing a ticket or membership: 
+  * when making a booking with us; 
+  * when making a donation or sponsoring an animal; 
+  * when registering your details for a survey, competition, petition or any other purpose;
+  * when making a shop purchase; 
 
 
 
-This Privacy Statement will also apply to any information about you that is provided to us by a third party. 
+via taronga.org.au, tarongafoundation.com.au, roarandsnore.com.au, zoofari.com.au or other online sites operated by the TCSA and its contractors; and under any other agreement or arrangement. 
 
-This Privacy Statement does not apply to employee records. 
+This Privacy Statement will also apply to any information about you that is provided to us by a third party. 
 
-#### **2\. What personal information is collected?**
+This Privacy Statement does not apply to employee records. 
 
-The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. 
+### 2\. What personal information is collected?
 
-Personal information collected may include where appropriate your name, birth date, home address, other address, telephone numbers, fax numbers, email address, credit/debit card number and expiry date, membership details and dietary requirements (if any). 
+The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. 
 
-In addition, when you visit any of our websites, the following information is recorded by the service provider for statistical purposes: 
+Personal information collected may include where appropriate your name, birth date, home address, other address, telephone numbers, fax numbers, email address, credit/debit card number and expiry date, membership details and dietary requirements (if any). 
 
-  * a record of your IP address; 
-  * the date and time of your visit to the site; 
-  * the pages accessed and documents downloaded; 
-  * the version of your operating system and web browser; and 
-  * the referring site if you followed a link to get here. 
+In addition, when you visit any of our websites, the following information is recorded by the service provider for statistical purposes: 
 
-
-
-No attempts are made to identify anyone browsing our site. The data is captured so that the TCSA can accurately evaluate the quality of the content on the website and make continuous improvements. 
-
-The only time our site is able to identify you is if you have signed in as a registered user and agreed to provide your details. In this case, the TCSA website maintains a register of your user details in order to make your return visits to the site (and access to information relevant to your association with the TCSA) easier for you. 
-
-#### 3\. Statistical Information
-
-The TCSA uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using any of our websites, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For further information, please visit google.com/privacy.html. 
-
-#### **4\. How is personal information collected?**
-
-The TCSA may collect personal information from you when you deal with us over the telephone, send us correspondence (whether by letter, fax or email), visit our websites or when you have contact with us in person. As well as collecting personal information directly from you, there may be occasions when we collect information about you from a third party. For example, from a person or organisation who are making a donation, purchase or booking on your behalf. 
-
-#### **5\. How is your personal information used?**
-
-The TCSA may use your personal information for the following purposes: 
-
-  * To process your purchase, booking, donation and other transactions;
-  * To facilitate your participation in TCSA sponsorship and membership programs;
-  * To conduct marketing activities and to conduct market research;
-  * To raise funds for conservation programs undertaken and supported by the TCSA.
+  * a record of your IP address; 
+  * the date and time of your visit to the site;
+  * any purchases, donations, bookings or registrations completed during your visit; 
+  * the pages accessed and documents downloaded; 
+  * the version of your operating system and web browser; and 
+  * the referring site if you followed a link to get here. 
 
 
 
-Some of the personal information we collect is essential for us to be able to accurately identify who is using the products and services. Other types of personal information is collected to help us to profile who is using our products and services and what their interest are in order to improve customer service through research, marketing, product development and planning. 
+No attempts are made to identify anyone browsing our site. The data is captured so that the TCSA can accurately evaluate the quality of the content on the website and make continuous improvements. 
 
-#### **6\. Zoo Friends membership program**
+The only time our site is able to identify you is if you have signed in as a registered user and agreed to provide your details. In this case, the TCSA website maintains a register of your user details in order to make your return visits to the site (and access to information relevant to your association with the TCSA) easier for you. 
 
-Additional information is collected by us when you join the Zoo Friends membership program. This includes information such as your name and date of birth and the name and date of birth of any additional members, home address, other addresses, email address, telephone numbers, fax number, credit card details as well as any special interests and preferences. 
+### 3\. Statistical Information
 
-TCSA also keep a record of Zoo Friends use of membership services and benefits. This information includes date and time of visit, purchases, events attended and benefits redeemed. The collection of this information assists the TCSA to monitor the use of, and improve, the Zoo Friends membership program and benefits. 
+The TCSA uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using any of our websites, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For further information, please visit google.com/privacy.html. 
 
-Information on our Zoo Friends databases is used for additional purposes which members consent to as part of the terms and conditions of membership. This includes the TCSA marketing its products and services or the products and services of its partners. Other purposes include improving its customer service by means of research, product development and planning. 
+### 4\. How is personal information collected?
 
-Some of the information is deemed mandatory for participation in the ZooFriends membership program. Members are advised that if all or any of the non-mandatory information is not provided, the services provided by the TCSA may be affected. 
+The TCSA may collect personal information from you when you deal with us over the telephone, send us correspondence (whether by letter, fax or email), visit our websites or when you have contact with us in person. As well as collecting personal information directly from you, there may be occasions when we collect information about you from a third party. For example, from a person or organisation who are making a donation, purchase or booking on your behalf. 
 
-Zoo Friends members can update their profile information at any time by contacting the Zoo Friends membership office on 9968 2822. 
+### 5\. How is your personal information used?
 
-#### **7\. Disclosure**
+The TCSA may use your personal information for the following purposes: 
 
-The TCSA may at times disclose your personal information to a third party, to whom we contract out certain services. For example, we engaged third party suppliers to: 
-
-  * Provide email and mail handling services;
-  * Provide electronic funds transfer services, credit card account processing and related services;
-  * Conduct market research;
-  * Provide catering services;
-  * Provide information technology services such as data storage and processing, software, system development and maintenance.
+  * to process your purchase, booking, donation and other transactions; 
+  * to facilitate your participation in TCSA sponsorship and membership programs; 
+  * to conduct marketing activities and to conduct market research; 
+  * to raise funds for conservation programs undertaken and supported by the TCSA. 
 
 
 
-In these situations the TCSA prohibits the third party contractor from using your personal information except for the specific purpose for which we supply it. 
+Some of the personal information we collect is essential for us to be able to accurately identify who is using the products and services. Other types of personal information is collected to help us to profile who is using our products and services and what their interest are in order to improve customer service through research, marketing, product development and planning. 
 
-Under no circumstances will the TCSA sell or receive payment for licensing or disclosing your personal information. 
+### 6\. Zoo Friends membership program
 
-Notwithstanding the above, the TCSA will share information with third parties if: 
+Additional information is collected by us when you join the Zoo Friends membership program. This includes information such as your name and date of birth and the name and date of birth of any additional members, home address, other addresses, email address, telephone numbers, fax number, credit card details as well as any special interests and preferences. 
 
-  * We need to share personal information in order to provide the product or service requested; 
-  * We are legally obliged to do so; or, 
-  * We are otherwise required or committed by the Privacy Act 1988. 
+TCSA also keep a record of Zoo Friends use of membership services and benefits. This information includes date and time of visit, purchases, events attended and benefits redeemed. The collection of this information assists the TCSA to monitor the use of, and improve, the Zoo Friends membership program and benefits. 
+
+Information on our Zoo Friends databases is used for additional purposes which members consent to as part of the terms and conditions of membership. This includes the TCSA marketing its products and services or the products and services of its partners. Other purposes include improving its customer service by means of research, product development and planning. 
+
+Some of the information is deemed mandatory for participation in the ZooFriends membership program. Members are advised that if all or any of the non-mandatory information is not provided, the services provided by the TCSA may be affected. 
+
+Zoo Friends members can update their profile information at any time by contacting the Zoo Friends membership office on 9968 2822. 
+
+### 7\. Disclosure
+
+The TCSA may at times disclose your personal information to a third party, to whom we contract out certain services. For example, we engaged third party suppliers to: 
+
+  * provide email and mail handling services; 
+  * provide electronic funds transfer services, credit card account processing and related services; 
+  * conduct market research; 
+  * provide catering services; 
+  * provide information technology services such as data storage and processing, software, system development and maintenance. 
 
 
 
-#### **8\. Access and Alteration to Personal Information**
+In these situations the TCSA prohibits the third party contractor from using your personal information except for the specific purpose for which we supply it. 
 
-The TCSA facilitates individuals to access their personal information in the following manner: 
+Under no circumstances will the TCSA sell or receive payment for licensing or disclosing your personal information. 
 
-  * The request must be in writing; 
-  * The TCSA will endeavour to respond in writing to requests for access within twenty eight (28) days of the receipt of the request at the offices of the TCSA; and 
-  * The TCSA may impose a charge on providing access to the personal information depending on the nature of the request. 
+Notwithstanding the above, the TCSA will share information with third parties if: 
+
+  * we need to share personal information in order to provide the product or service requested; 
+  * we are legally obliged to do so; or, 
+  * we are otherwise required or committed by the Privacy Act 1988. 
 
 
 
-If a person wishes to alter personal information held by the TCSA, they should advise us in writing of the required changes. The TCSA will endeavour to make the changes requested within twenty eight (28) days of the receipt of the changes at the offices of the TCSA, provided that we are satisfied that the changes are accurate, complete and up to date. The TCSA will not confirm the changes are made unless specifically requested to do so. 
+### 8\. Access and Alteration to Personal Information
 
-#### **9\. Changes to this Privacy Statement**
+The TCSA facilitates individuals to access their personal information in the following manner:
 
-The TCSA Privacy Statement may change from time to time due to legal or business requirements. Any changes to this Privacy Statement will be updated on taronga.org.au. 
+  * the request must be in writing; 
+  * the TCSA will endeavour to respond in writing to requests for access within twenty eight (28) days of the receipt of the request at the offices of the TCSA; and 
+  * the TCSA may impose a charge on providing access to the personal information depending on the nature of the request. 
 
-This statement was lat updated in March 2009. 
 
-#### **10\. Complaints**
 
-In the event that a person considers that the TCSA has breached the policy on privacy, they should provide details of the circumstances in writing to the TCSA. The TCSA will endeavour to respond to such a complaint within twenty eight (28) days of its receipt at the offices of the TCSA. 
+If a person wishes to alter personal information held by the TCSA, they should advise us in writing of the required changes. The TCSA will endeavour to make the changes requested within twenty eight (28) days of the receipt of the changes at the offices of the TCSA, provided that we are satisfied that the changes are accurate, complete and up to date. The TCSA will not confirm the changes are made unless specifically requested to do so. 
 
-#### **11\. Contact Details**
+### 9\. Changes to this Privacy Statement
 
-If you require further information about the TCSA's Privacy Internet Policy or wish to comment on the policy, the contact details for the TCSA are as follows: 
+The TCSA Privacy Statement may change from time to time due to legal or business requirements. Any changes to this Privacy Statement will be updated on taronga.org.au. 
 
-Administrative Assistant, Corporate Services  
-Taronga Conservation Society Australia  
-c/- Taronga Zoo  
-PO Box 20  
-Mosman NSW 2088  
-Telephone: 61 2 9969 2777 
+This statement was last updated in July 2010. 
+
+### 10\. Complaints
+
+In the event that a person considers that the TCSA has breached the policy on privacy, they should provide details of the circumstances in writing to the TCSA. The TCSA will endeavour to respond to such a complaint within twenty eight (28) days of its receipt at the offices of the TCSA. 
+
+### 11\. Contact Details
+
+If you require further information about the TCSA's Privacy Internet Policy or wish to comment on the policy, the contact details for the TCSA are as follows:
+
+ 
