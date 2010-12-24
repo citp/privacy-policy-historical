@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchshopuk.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514083733id_/http%3A//www.watchshopuk.com/privacy-policy-a2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchshopuk.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224120353id_/http%3A//watchshop.com/privacy-policy-a2.html) for the most accurate reproduction.*
 
 # Watch Shop UK Privacy Policy
 
@@ -11,7 +11,7 @@ We do not use any of your data for any reason but to successfully ship your orde
 
 We only store your name, address and telephone number if you register for an account with us.  This is entirely optional, but enables you to place further orders without having to enter your details again.
 
-We use cookies to allow us to store only the information required to process a transaction.  E.g. items in your shopping basket.
+We use cookies to allow us to store tracking information to make your user experience better. Cookie storage includes: Items in your shopping basket, usage statistics, and your favourite products. This information is not shared, and is deleted after a reasonable period of time..
 
 We do NOT store your credit card information.  It is processed over a secure SSL/128 bit encryption system which goes through the payment provider Protx.  We do not even see it, therefore it cannot be ‘hacked’ from our server.
 
