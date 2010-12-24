@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometesterclub.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225103634id_/http%3A//www.hometesterclub.com/rsa/Legals.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometesterclub.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224024259id_/http%3A//hometesterclub.com/rsa/Legals.asp) for the most accurate reproduction.*
 
-# Home Tester Club » South Africa » Legals
+# Home Tester Club » South Africa » Privacy & Terms of Use
 
 **UPDATED AS OF:** 1 June, 2009  
 **COMPANY** : Buchanan Group Inc. (the "Company" or "we")  
