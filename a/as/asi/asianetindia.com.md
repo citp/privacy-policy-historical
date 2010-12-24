@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asianetindia.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413182659id_/http%3A//www.asianetindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetindia.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224200537id_/http%3A//www.asianetindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Asianet | Kerala Latest News | Kerala Breaking News | Kerala Latest Headlines
+# Kerala Latest News |Kerala Breaking News |Kerala Latest Headlines
 
 ### Privacy Policy
 
@@ -10,4 +10,4 @@ The exact contents of a privacy policy will depend upon the applicable law. For 
 
 Some websites also define their privacy policies using P3P or Internet Content Rating Association (ICRA), allowing browsers to automatically assess the level of privacy offered by the site.
 
-8 queries in 0.048 seconds. [ ](http://www.alexa.com/siteinfo/www.asianetindia.com)
+4 queries in 0.375 seconds. [ ](http://www.alexa.com/siteinfo/www.asianetindia.com)
