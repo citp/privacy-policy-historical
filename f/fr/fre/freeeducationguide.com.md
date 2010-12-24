@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411085455id_/http%3A//www.freeeducationguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225001034id_/http%3A//freeeducationguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.freeeducationguide.com
 
