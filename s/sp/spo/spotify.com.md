@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotify.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611052741id_/http%3A//www.spotify.com/int/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotify.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224135300id_/http%3A//www.spotify.com/int/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Spotify
 
