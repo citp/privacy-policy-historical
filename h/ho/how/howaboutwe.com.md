@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the howaboutwe.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623234046id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howaboutwe.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224013904id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
 
-# HowAboutWe
-
-You must subscribe to use that feature.
+# | HowAboutWe
 
 ## HowAboutWe.com / This Life, Inc. Privacy Policy
 
