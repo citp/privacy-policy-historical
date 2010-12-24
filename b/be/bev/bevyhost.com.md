@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bevyhost.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612000844id_/http%3A//www.bevyhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevyhost.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224141908id_/http%3A//www.bevyhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[ ](http://www.google.com/reader/link?url=http://www.bevyhost.com/privacy-policy/&title=Privacy%20Policy&srcTitle=BevyHost%20Webmaster%20News%20Blog&srcURL=http://www.bevyhost.com)
 
 BevyHost recognize that the privacy of your personal information is important.
 
