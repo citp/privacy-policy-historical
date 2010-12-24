@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623132526id_/http%3A//www.faucet.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224162813id_/http%3A//www.faucet.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy at Faucet.com
+
+  
+
 
 ### Information Collection & Use
 
@@ -22,6 +25,6 @@ Our Web sites often contain links to other sites to provide you with the best in
 
 ### Newsletters
 
-If you wish to subscribe to our newsletters, which may contain promotional and sale information, we ask for information such as name and e-mail address. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial e-mailers.
+If you wish to subscribe to our newsletters, which may contain promotional and sale information, we ask for information such as name and email address. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial emailers.
 
-If you have any questions about our privacy policies, please contact us by phone at 800-444-5783 or e-mail us at [info@faucet.com](mailto:info@faucet.com). Thank you for choosing Faucet.com.
+If you have any questions about our privacy policies, please contact us by phone at 800-444-5783 or email us at [info@faucet.com](mailto:info@faucet.com). Thank you for choosing Faucet.com.
