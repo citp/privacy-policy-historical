@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095411id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224144657id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
@@ -110,8 +110,6 @@ Return to Top
 ## QUESTIONS OR SUGGESTIONS
 
 If you have questions or suggestions complete a [feedback form](http://help.yahoo.com/fast/help/uk/privacy/cgi_feedback). 
-
-[Yahoo! is TRUSTe-certified.](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101) This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [ TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organisation 
 
 Return to Top
 
