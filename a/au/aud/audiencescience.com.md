@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the audiencescience.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326025856id_/http%3A//www.audiencescience.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiencescience.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224222047id_/http%3A//www.audiencescience.com/privacy) for the most accurate reproduction.*
 
-# Online Advertising Network, Audience Targeting Advertising, Advertising Online Services, Online Ad Revenue : AudienceScience
+# Privacy Policy | AudienceScience
 
 Consumer privacy is very important to AudienceScience. That's why our technology and the way we use it exceeds all the industry standards for protecting your privacy online. Through our services, we do not collect personally identifiable information, install software on users' computers, or track keystrokes. 
+
+The Privacy Policy and Opt-Out on this page apply to all AudienceScience products except for the AudienceScience Connect product in Europe. To access the privacy policy and opt-out for the AudienceScience Connect product in Europe, [click here](http://www.audiencescience.de/site/?page_id=1111&lang=en).
 
 AudienceScience belongs to and conforms to the standards of the [Network Advertising Initiative](http://www.networkadvertising.org/), which enables consumers to opt out of having their behavior tracked by our technology.
 
 In the United Kingdom, AudienceScience conforms to the standards of the [IAB UK Good Practice Principles](http://www.youronlinechoices.co.uk/), which enables consumers to opt out of having their behavior tracked by our technology.
-
-To Opt-out of AudienceScience Network™, please **[click here](http://www.networkadvertising.org/managing/opt_out.asp)** **.**
 
 Please feel free to view our Privacy Policy in detail below. If you have questions or concerns regarding our stance on privacy, please e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
 
@@ -60,7 +60,7 @@ The non-personal user information that we collect to create segments and profile
 
 ### Do I Have the Ability Not to Be Identified for AudienceScience's Network Advertising Services?
 
-Yes. If you do not want your browser to be identified and used for network advertising (OPM) purposes, you may visit [www.networkadvertising.org](http://www.networkadvertising.org/) in the US and [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) in the UK for information on how to obtain an "opt-out cookie" to prevent any data from being associated with your browser. Please note that if you elect to opt out, the cookie associated with your browser will be associated with a "blank" or "generic" cookie. Therefore, advertisements that may be served to you on Web sites using our services may repeat and may not be targeted to your interests. [Click here for instructions on how to opt out ](http://audiencescience.com/docs/nai.pdf)of AudienceScience's network advertising services. 
+Yes. If you do not want your browser to be identified and used for network advertising (OPM) purposes, you may visit [www.networkadvertising.org](http://www.networkadvertising.org/) in the US and [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) in the UK for information on how to obtain an "opt-out cookie" to prevent any data from being associated with your browser. Please note that if you elect to opt out, the cookie associated with your browser will be associated with a "blank" or "generic" cookie. Therefore, advertisements that may be served to you on Web sites using our services may repeat and may not be targeted to your interests. [Click here for instructions on how to opt out ](https://web.archive.org/sites/default/files/docs/nai.pdf)of AudienceScience's network advertising services. 
 
 ### Do We Have a "P3P" Policy?
 
@@ -108,7 +108,7 @@ Last Updated: August, 2009
 
 If you have questions or concerns, you should e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).  
 AudienceScience, Inc.  
-1110 112th Ave. NE, Suite 300  
+1120 112th Ave NE, Suite 400  
 Bellevue, WA 98004  
 425.201.3900
 
