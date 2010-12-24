@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffingtonpost.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630042213id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224072923id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,8 @@ We have also contracted with a number of advertising network partners to monitor
   * ValueClick Media’s privacy policy at <https://www.valueclickmedia.com/privacy.shtml>
   * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
   * Tacoda’s privacy policy at <http://www.tacoda.com/privacy_policy.htm>
-  * And Google’s privacy policy at <http://www.google.com/privacy.html>
+  * Google’s privacy policy at <http://www.google.com/privacy.html>
+  * Lotame’s privacy policy at <http://www.lotame.com/privacyCenter>
 
 
 
@@ -42,4 +43,4 @@ Third parties and web sites that have links on our site may also collect or use 
 
 Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online. 
 
-(revised 5.25.2006) 
+(revised 7.28.2006) 
