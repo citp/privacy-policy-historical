@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acehardwareoutlet.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507001426id_/http%3A//www.acehardwareoutlet.com/Constants.aspx%3FConstantName%3DPrivacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardwareoutlet.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225000038id_/http%3A//www.acehardwareoutlet.com/Constants.aspx%3FConstantName%3DPrivacy_Statement) for the most accurate reproduction.*
 
 # Ace HardWare Outlet
 
@@ -61,4 +61,4 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 acehardwareoutlet.com will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy.
 
-**How To Contact Us:** Should you have other questions or concerns about these privacy policies, please call us at 1-212-400-7488 or send us an email at [sales@acehardwareoutlet.com](mailto:sales@acehardwareoutlet.com). 
+**How To Contact Us:** Should you have other questions or concerns about these privacy policies, please call us at 1-347-272-1853 or send us an email at [sales@acehardwareoutlet.com](mailto:sales@acehardwareoutlet.com). 
