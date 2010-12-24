@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620002856id_/http%3A//www.backblaze.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224212956id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
 
 # Backblaze - Online backup privacy policy
 
