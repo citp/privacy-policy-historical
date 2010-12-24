@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreetrail.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610202207id_/http%3A//www.degreetrail.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreetrail.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224224248id_/http%3A//degreetrail.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DegreeTrail.com
 
