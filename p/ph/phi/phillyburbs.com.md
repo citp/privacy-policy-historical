@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618082734id_/http%3A//www.phillyburbs.com/tools/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224160336id_/http%3A//www.phillyburbs.com/tools/privacy_policy) for the most accurate reproduction.*
 
 # phillyBurbs.com: Privacy Policy
 
@@ -16,15 +16,19 @@ On your first visit to phillyBurbs, we ask for some basic demographic informatio
 
 Web servers for phillyBurbs automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name (e.g., msn.com) of visitors. This information is used for various purposed including internal review, to tailor information to individual visitors, and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users in an aggregated, anonymous basis to our advertisers and potential advertisers.
 
-PhillyBurbs places a "cookie" on the computer of our users to store and sometimes track information about you. A cookie can be used to tell when your computer has con tacted a Web site; we may also use this information for editorial purposes such as measuring traffic patterns (i.e. cookies can ensure that you don't see the same ad too many times in a session and that you do not have to re-enter your registration information during your visit). We may also use cookies to track your progress and number of entries in some of our promotions and contests. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of the cookies delivered by phillyBurbs by changing the setting on your browser. Be aware that this will disable all cookies delivered to your browser, not just the one delivered by phillyBurbs.
+phillyBurbs places a "cookie" on the computer of our users to store and sometimes track information about you. A cookie can be used to tell when your computer has con tacted a Web site; we may also use this information for editorial purposes such as measuring traffic patterns (i.e. cookies can ensure that you don't see the same ad too many times in a session and that you do not have to re-enter your registration information during your visit). We may also use cookies to track your progress and number of entries in some of our promotions and contests. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of the cookies delivered by phillyBurbs by changing the setting on your browser. Be aware that this will disable all cookies delivered to your browser, not just the one delivered by phillyBurbs. 
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity.Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
  **What about information I find on phillyBurbs?**  
 We don't mind if you share stories from our sites with friends and family, or if you copy them for your personal or educational use. However, all of the materials within phillyBurbs.com are copyrighted either to the originating newspaper (the Bucks County Courier Times, the Intelligencer Record or the Burlington County Times) or to Calkins Media, Inc., so we would appreciate it if you don't republish this information without our express written consent. Other publishing mediums include, but are not limited to, web sites, databases, newspapers, magazines, newsletters, radio or television. 
 
-**What about information The Associated Press?  
+**What about information from The Associated Press?  
 ** From the AP: "Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. The AP will not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing." 
 
-I still don't get it or I have more questions.Contact Executive Editor Karl Smith by phone (215.269.5061) or e-mail.
+I still don't get it or I have more questions. Contact Interactive Media Director Linda Thomas by phone (215) 949-401 or at [lthomas@phillyburbs.com](mailto:lthomas@phillyburbs.com "Opens window for sending email")
+
+## About our advertisements
 
 Yahoo! is an ad network partner that displays ads on Calkins Media sites. To improve your ad experience on Calkins Media sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. 
 
