@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winentrance.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421203006id_/http%3A//www.winentrance.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winentrance.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004456id_/http%3A//winentrance.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Winentrance.com - Privacy Policy
 
