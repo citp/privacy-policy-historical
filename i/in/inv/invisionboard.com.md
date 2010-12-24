@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207195348id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224094132id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Invision Power - Community Forum, Blog, Gallery, CMS, and more - Privacy Policy
+# IPS Privacy Policy
+
+Our privacy policy describes how we use and store the data that we gather from you in order to provide our products and services. 
 
 ## Our Commitment To Privacy
 
@@ -8,16 +10,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any of the Invision Power Services websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on any of the Invision Power Services websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-  * Name
-  * Address
-  * Email address
-  * Phone number
-  * Credit/Debit Card Information
-
-  
-
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card Information 
 
 ## The Way We Use Information
 
@@ -29,15 +28,15 @@ You can register with our website if you would like to receive user our services
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 ## Our Commitment to Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 ## Our Commitment to Children's Privacy
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 ## How You Can Access Or Correct Your Information
 
@@ -45,8 +44,8 @@ You can access all your personally identifiable information that we collect onli
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 434-316-7201 or send us an email at [business@invisionpower.com](mailto:business@invisionpower.com "Email Us"). All policies of Invision Power Services, Inc. are governed under the laws of the United States of America and the laws of the Commonwealth of Virginia. 
+Should you have other questions or concerns about these privacy policies, please call us at 434-316-7201 or send us an email at [business@invisionpower.com](mailto:business@invisionpower.com). All policies of Invision Power Services, Inc. are governed under the laws of the United States of America and the laws of the Commonwealth of Virginia. 
