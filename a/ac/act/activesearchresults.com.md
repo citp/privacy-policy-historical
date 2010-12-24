@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301085854id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225000509id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
 
 # Active Search Results - Privacy Policy
 
@@ -10,11 +10,11 @@
   
 
 
-##### Hosting Services Provided by [Hosting.com](http://www.activesearchresults.com/tr/redir.php?E/flmHhR3F3WOYRaoMq3G+TZMwYq1bwf)
+* * *
 
 * * *
 
-[Request Password](https://web.archive.org/help/requestpassword.php) | [Search Tips](https://web.archive.org/help/searchtips.php) | [FAQ](https://web.archive.org/help/faq.php) | [About ASR](https://web.archive.org/help/about.php) | [Link To Us](https://web.archive.org/help/linktous.php) | [Contact Us](https://web.archive.org/help/contactus.php)
+[Request Password](https://web.archive.org/help/requestpassword.php) | [Search Tips](https://web.archive.org/help/searchtips.php) | [FAQ](https://web.archive.org/help/faq.php) | [About ASR](https://web.archive.org/help/about.php) | [Link To Us](https://web.archive.org/help/linktous.php) | [News](https://web.archive.org/news/index.php) | [Contact Us](https://web.archive.org/help/contactus.php)
 
 ### Privacy Policy
 
@@ -96,7 +96,9 @@ If you have any questions or concerns about this privacy policy or the practices
 Policy updated and effective date: August 06, 2009 |   
 ---|---|---  
   
+
+
 * * *
 
-[Home](https://web.archive.org/) | [About ASR](https://web.archive.org/help/about.php) | [Privacy Policy](https://web.archive.org/help/privacypolicy.php) | [Contact Us](https://web.archive.org/help/contactus.php)  
-© 2010 Active Search Results, LLC
+[Home](https://web.archive.org/) | [About ASR](https://web.archive.org/help/about.php) | [Privacy Policy](https://web.archive.org/help/privacypolicy.php) | [Contact Us](https://web.archive.org/help/contactus.php) | [Link to Us](https://web.archive.org/help/linktous.php)  
+© 2010 Active Search Results
