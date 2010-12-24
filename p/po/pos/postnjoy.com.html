@@ -1,0 +1,796 @@
+<!--The following is the downloaded HTML source of the postnjoy.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224040614id_/http%3A//www.postnjoy.com/site/privacyPolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+			<title>Blog Marketing &amp; Blog Ads || PostNjoy</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+						<meta name="description" content="PostNjoy provides Blog marketing services &amp; solutions, specifically blog marketing and blog advertising. Also we connect advertisers and bloggers who want to make money by blogging and reviewing.">
+			<meta name="keywords" content="blog marketing, blog ads, bloggers, advertisers, blog, search engine, blog advertisement, monetize blog, postnjoy">
+			
+			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google.com/jsapi?key=ABQIAAAA3ERUf_PQeyjyZ3ifYrBr8RQURbXjCFCdJjKyKZgQMrG97nlzqhTXLxQWe5xyzbcVy1Afdk_VAdbVaw" type="text/javascript" charset="utf-8"></script>
+			<script type="text/javascript">google.load("jquery", "1.4.2");</script>
+			<script type="text/javascript" src="/prog/Classes/Javascripts/common.js"></script>
+
+			
+			<link href="/site/css/style.css" rel="stylesheet" type="text/css">
+			
+
+			<script language="javascript">
+			var js_web_path         = "";
+			var js_prog_web_path    = "/prog/Bbs";
+			var js_prog_img_web_path= "img";
+			var js_member_web_path  = "/prog/Member";
+			var js_url              = "http://www.postnjoy.com";
+			var js_is_member        = "";
+			var js_is_admin         = "";
+			var js_tb               = "";
+			var js_sca              = "";
+			var js_charset          = "utf-8";
+			var js_cookie_domain    = ".postnjoy.com";
+			var js_is_gecko         = navigator.userAgent.toLowerCase().indexOf("gecko") != -1;
+			var js_is_ie            = navigator.userAgent.toLowerCase().indexOf("msie") != -1;
+						</script>
+
+			<script>
+			jQuery(function(){
+				// jQuery 엘리먼트를 윈도우 중앙에 위치 시키기 함수 
+				$.fn.centerScreen = function() {
+					var obj = this;
+					
+					obj.css('top',  $(window).height()/2-this.height()/2+$(document).scrollTop());
+					obj.css('left', $(window).width()/2-this.width()/2);
+				}
+				
+				DivbgShadow = $('<div></div>').appendTo(document.body).hide();
+				DivbgShadow.css('position','absolute');
+				DivbgShadow.css('z-index','100000');
+				DivbgShadow.css('background','#000');
+				DivbgShadow.css('top','0px');
+				DivbgShadow.css('left','0px');
+				DivbgShadow.css('width','100%');
+				DivbgShadow.css('height',$(document).height());
+				DivbgShadow.css('opacity','.3');
+				DivbgShadow.css('filter','alpha(opacity=30)');
+
+				DivbgShadow2 = $('<div></div>').appendTo(document.body).hide();
+				DivbgShadow2.css('position','absolute');
+				DivbgShadow2.css('z-index','200000');
+				DivbgShadow2.css('background','#000');
+				DivbgShadow2.css('top','0px');
+				DivbgShadow2.css('left','0px');
+				DivbgShadow2.css('width','100%');
+				DivbgShadow2.css('height',$(document).height());
+				DivbgShadow2.css('opacity','.3');
+				DivbgShadow2.css('filter','alpha(opacity=30)');
+				
+
+				// 객체 팝업띠우기
+				$.fn.DivShow = function(type) {
+					var obj = this;
+					
+					if(type == 2) {
+						DivbgShadow2.show();
+						DivbgShadow2.click(function() {
+							obj.DivHide(2);
+						});
+						
+						obj.css('z-index','2000001');
+					} else {
+						DivbgShadow.show();
+						DivbgShadow.click(function() {
+							obj.DivHide();
+						});
+						
+						obj.css('z-index','1000001');
+					}
+					obj.css('top',  $(window).height()/2-this.height()/2+$(document).scrollTop());
+					obj.css('left', $(window).width()/2-this.width()/2);
+
+					obj.show();
+				}
+
+				// 객체 팝업감추기
+				$.fn.DivHide = function(type) {
+					if(type == 2) {
+						DivbgShadow2.hide();
+					} else {
+						DivbgShadow.hide();
+					}
+					
+					var obj = this;
+					obj.css('z-index','100000');
+					obj.hide();
+				}
+
+
+				//로딩바 적용 . centerScreen() 사용자 정의 함수 
+				loadingbar = $('<img src="/site/images/loader.gif" border="0" alt="loader" />').appendTo(document.body).hide();
+				loadingbar.css('position','absolute');
+				loadingbar.css('z-index','3000000');
+
+				// ajax 실행시 show
+				$(document).ajaxStart(function() {
+					loadingbar.centerScreen();
+					$(loadingbar).fadeIn("fast");
+				});
+
+				//ajax 중지시 hide
+				$(document).ajaxStop(function() {
+					$(loadingbar).fadeOut("fast");
+				});	
+
+
+				//이미지 뷰어 
+				imgView = $('<img src="/site/images/loader.gif" border="0" alt="close" />').appendTo(document.body).hide();
+				imgView.css('position','absolute');
+				imgView.css('z-index','10000');
+				imgView.css('cursor','pointer');
+				imgView.css('border','5px solid #CACACA');
+				imgView.centerScreen();
+
+				//$('.imgview').children('img').click(function() {
+				$('.imgview img').click(function() {
+					$(imgView).attr('src',this.src);
+					imgView.DivShow();
+				});
+
+				$(imgView).click(function() {
+					imgView.DivHide();
+				});
+			});	
+
+			</script>
+</head>
+
+<body id="my_dashboard">
+<script language="javascript" type="text/javascript">
+
+function search_clearbg(type) {
+	if (type == "input_search") {
+		//document.searchForm.input_search.style.background = 'url(../images/common/top_search_bg2.gif)';
+		//document.getElementById("search_box").setAttribute("class","search_box_on");
+		//document.getElementById("search_box").setAttribute("className","search_box_on");
+		$('#search_box').addClass('search_box_on');
+	} 
+}
+
+</script>
+<!-- Contents Begin -->
+<div id="page_wrap">
+
+<!-- Page Width Wrap -->
+<div id="con_width_wrap">
+	<div class="wrap_rel">
+	<!-- default Menu -->
+	<div id="dmenu">
+		<ul>
+					<li class="dm1"><a href="/site/what.html">What’s PostNjoy?</a></li>
+			<li class="dm2"><a href="javascript:;" class="login">Log In</a></li>
+			<li class="dm3"><a href="/prog/Member/regForm.html">Sign Up</a></li>
+				</ul>
+	</div>
+	</div>
+	<!-- //default Menu -->
+	
+	<!-- conbox_wrap -->
+	<div id="conbox_wrap">
+	<!-- conbox_wrap1 -->
+	<div id="conbox_wrap1">
+	<!-- conbox_wrap2 -->
+	<div id="conbox_wrap2">		
+	
+		
+	
+		<!-- Topmenu -->		
+		<div id="top_menu_wrap">
+		
+		<!-- Side Roundbox -->
+		 <div class="wrap_rel">
+		 	<div class="frame_t_l"></div>
+			<div class="frame_t_r"></div>
+		 </div>
+		 <!-- //Side Roundbox -->
+	
+		
+		 <p class="logo"><a href="/"><img src="/site/images/common/logo_postnjoy.gif" alt="POSTNJOY" border="0"></a></p>
+		 <h3 class="blind">PostNJoy Navigation</h3>		
+		 <ul id="tmenu">
+		 	<li><a href="/"><span class="t_left"></span><span class="t_name">Home</span><span class="t_right"></span></a></li>
+			<li><a href="/prog/Ad/oppLst.html"><span class="t_left"></span><span class="t_name">Opps List </span><span class="t_right"></span></a></li>
+			<li><a href="/site/Community/topPost.html"><span class="t_left"></span><span class="t_name">Community </span><span class="t_right"></span></a></li>
+			<li><a href="/site/Help/helpForBlogger.html"><span class="t_left"></span><span class="t_name">Help</span><span class="t_right"></span></a></li>
+		 </ul>	
+		 
+		<!-- Top Search -->
+		 <div id="top_search">
+		 <form action="/prog/Ad/oppLst.html" method="GET" name="searchForm">		
+				<input type="text" class="search_box" id="search_box" name="sr" value="" onfocus="search_clearbg('input_search')">
+				<input type="image" src="/site/images/common/top_search_btn.gif" alt="Serarch">
+		  </form>
+		 </div>
+		 <!-- //Top Search -->
+		 
+		 
+		 <div class="cl"></div>		
+		</div>
+		<!-- //Topmenu -->	
+		<div class="cl"></div>	
+		
+		
+		<!-- Contents Area -->
+	  <div id="con_sub_area">
+<!-- Title -->
+		<div id="sub_title_area">
+		<h2 class="sub_title">Privacy Policy</h2>
+		<div class="box3">
+			<div class="box_bottom"></div>
+		</div>
+		<div class="ma_b30"></div>
+		</div>
+		<!-- //Title -->
+
+		<div class="cl"></div>		
+		<!-- Sing_up tit -->
+		<div id="sign_up_tit">
+			<h3 class="blind">Privacy Policy</h3>
+			
+			
+		<div class="cl"></div>
+		</div>
+		<!--// Sing_up tit -->
+	
+		<!-- Privacy Policy Up -->
+		<div id="signup_list">		
+		<div class="box4">
+		  <div class="wrap_rel"><p class="t_left"></p><p class="t_right"></p></div>
+			<h3 class="box_title">Privacy Policy</h3>
+			<div class="wrap_rel"></div>
+			
+			<!-- Sign Up list-->
+			<div class="contype2">
+			
+			<div class="view_type1">
+<br>					
+<strong>Updated July 1, 2010</strong>
+<br><br>
+The following details our Privacy Policy (the “Policy’) at PostNjoy (“POSTNJOY”) and describes the types of information we gather from those persons visiting the Internet websites www.postnjoy.com (the “Site”) and how we use such information. We understand the importance of privacy and accordingly, treat all information received in a responsible manner. This Policy applies to all of the services offered by POSTNJOY (the “services”) on the Site. By accessing the Site, you agree to be bound by the Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Each time you use the Site, the current version of the Privacy Policy will apply.
+<br><br>
+<strong>Use of Information Collected by Us</strong>
+<br><br>
+POSTNJOY may collect two types of information from users of the Site: “personal information” (such as name, e-mail address, mailing address, phone number, etc.) and “aggregate information” (such as frequency of visits to any of the Site, search terms entered, Site pages most frequently accessed, etc.)
+We use this information in an effort to improve your experience on the Site and to communicate with you about information that you request. We may also use this information to help us target specific services or offers to you, to help us develop and improve the Site, and to tailor the Site to your interests.
+<br><br>
+<strong>Collecting and Using Your Personal Information</strong>
+<br><br>
+POSTNJOY only collects personal information that is voluntarily provided when users sign up for a POSTNJOY site. Specifically we ask you for personal information such as your name, address and email address We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
+<br><br>
+<strong>Collecting and Using Your Aggregate Information</strong>
+<br><br>
+POSTNJOY also collects aggregate information, which is non-personally identifiable information about you, such as frequency of visits to the Site, search terms entered, browser type, etc. Aggregate information is used in a collective manner, and no single person can be identified by that compiled information. POSTNJOY uses aggregate information to provide its services and remuneration, as well as to determine the use of the Site and to monitor, audit and analyze information pertaining to our business metrics.
+<br><br>
+<strong>Contests/Sweepstakes</strong>
+<br><br>
+Occasionally, we may request information from users of the Site in connection with a contest or a sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and supplementary information on your interests, opinions and preferences. We will use the contact information to notify winners. We may be required to share: (i) winners’ first name, last name and address with state agencies and (ii) winners’ first name and last name with persons requesting such information via the mail.
+<br><br>
+Sharing, Selling and Trading of Your Personal Information Collected Online with Third Parties POSTNJOY does not share, rent, sell or disclose personal information to third parties. POSTNJOY shares personal information with our parents and subsidiaries, and on occasion, we may share personal information with third party service providers, such as credit card processing companies. These third party service providers are not authorized to retain, share, store or use your personal information for any purposes other than to provide the services for which they have been hired to provide. In addition, in order to protect against potential fraud, we may verify with third parties the personal information you provide when you sign up for a PostNjoy account. In the course of such verification, we may receive personal information about you.
+<br><br>
+We do not sell, trade or otherwise share your personal information with unrelated third parties for their own marketing purposes.
+<br><br>
+In following circumstances, POSTNJOY may elect to share or transfer your personal information to unrelated third parties: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on POSTNJOY, (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of POSTNJOY; (iv) when we believe it is necessary to protect the rights, property, or safety of POSTNJOY or other persons, or (v) as otherwise required or permitted by law.
+<br><br>
+It should be noted that on some portions of the Site, users can choose to have their personal information displayed. If users choose to have their personal information displayed on the Site, they will be given forewarning that the action they are about to take will make their personal information publicly available on the Site.
+<br><br>
+<strong>Sharing, Selling and Trading Aggregate Information Collected Online with Third Parties</strong>
+<br><br>
+We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. As stated earlier, such information does not identify you individually.
+<br><br>
+We may share, sell or trade with third parties aggregated, non-personal information, such as the number of users 
+<br><br>
+<strong>Message Boards</strong>
+<br><br>
+On some of the Site, we provide message boards for visitors to post comments and messages for others to read. We may collect technical information about your post, such as the IP address from which you posted, and associate this information with your messages. Even if messages are deleted, we may retain copies and attendant information indefinitely.
+<br><br>
+When you post messages to the message boards, certain information, such as your email address, user name and/or full name, may be available to the public. Also note that any personal information you include in the body of your message will be available to the public so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas.
+<br><br>
+<strong>Cookies</strong>
+<br><br>
+Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. When you visit the Site, we may place one or more cookies on your computer to uniquely identify your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people blog. We store minimal personal information in cookies and protect this information. We do not store complete records or credit card numbers in cookies. You may chose to set your computer to not accept cookies, but some features and services on the Site may not function properly if your cookies are disabled.
+<br><br>
+<strong>Use of Pixel Tags/Clear GIFs/Web Beacons</strong>
+<br><br>
+A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
+<br><br>
+<strong>Security Pertaining to Your Information</strong>
+<br><br>
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+<br><br>
+We restrict access to personal information to POSTNJOY employees, service providers and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. <strong>We use secure socket layer (“SSL”) technology to encrypt and protect the security of your personal information, including but not limited to you credit card number, when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage</strong>, is 100% secure, however. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. IN NO EVENT WILL POSTNJOY OR SUBSIDIARIES, AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF POSTNJOY OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+<br><br>
+<strong>Integrity of Your Data</strong>
+<br><br>
+POSTNJOY processes personal information only for the purposes for which it was collected and in accordance with this Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+<br><br>
+<strong>Copyright Infringement/DMCA Notice</strong>
+<br><br>
+<strong>If you are a copyright owner or an agent thereof and believe that any submission on the Site’ message boards or any other content on the Site infringes upon your copyrights, you may submit a notification pursuant to Title 17, United States Code, Section 512(c)(3), the Digital Millennium Copyright Act (“DMCA”) by providing our designated copyright agent with the following information in writing:</strong>
+<br><br>
+(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+<br><br>
+(ii) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+<br><br>
+(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
+<br><br>
+(iv) Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+<br><br>
+(v) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+<br><br>
+(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+<br><br>
+<strong>Children and Privacy</strong>
+<br><br>
+Our Site is not directed to children and we will not request personally identifiable information from anyone who we know to be under the age of 18, unless we have obtained verifiable parental consent from a parent or legal guardian. If we become aware that a user under the age of 13 has registered with any of our Sits, provided personally identifiable information, and POSTNJOY has not obtained prior verifiable consent from a parent or legal guardian, we will immediately remove the user’s personally identifiable information from our files.
+<br><br>
+<strong>Links to Other Websites</strong>
+<br><br>
+The Site may contain links to websites operated by other people or companies. Those websites may have their own privacy policy or no privacy policy at all. POSTNJOY does not have any responsibility for those websites, and we provide the links solely for the convenience of our visitors.
+<br><br>
+<strong>Business Transfers</strong>
+<br><br>
+In the event that POSTNJOY sells substantially all of its assets, or one of POSTNJOY’s business units are acquired, personally identifiable information of visitors to the Site and aggregate information will likely be one of the transferred assets.
+<br><br>
+<strong>Changes to this Policy</strong>
+<br><br>
+Please note that we may change this Privacy Policy at any time and without prior notice, by posting the revised version of this Policy on our Site.
+<br><br>
+<strong>Corrections/Information Removal/Opt-Out</strong>
+<br><br>
+If your name, e-mail or postal address, telephone number or other personal information changes, you may update, correct or omit the relevant information by contacting us at POSTNJOY Customer Service, 1st fl., Shinho Villart, 452-3, Sungnae-dong, Kangdong-gu, Seoul, Korea. or by visiting our site and clicking Contact Support.. If you prefer not to receive newsletters or other marketing e-mails from POSTNJOY, please let us know by clicking on the unsubscribe link within any newsletter or marketing e-mail you receive. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to: POSTNJOY Global Marketing, Shinho Villart, 452-3, Sungnae-dong, Kangdong-gu, Seoul, Korea. Please be sure to include in any e-mail or postal mail, your full name, e-mail address, postal address, and any message. Please note that such requests may take up to ten (10) days to become effective.
+<br><br>
+<strong>Contact Us</strong>
+<br><br>
+If you have any questions or concerns about this Policy, please feel free to contact us any time through the Site or at Privacy Policy Concerns Coordinator, c/o POSTNJOY Inc., Shinho Villart, 452-3, Sungnae-dong, Kangdong-gu, Seoul, Korea.
+<br><br>
+
+
+			
+			</div>
+			
+			
+			<div class="cl"></div>
+			</div>
+			
+		<div class="cl"></div>	
+		<div class="box_bottom"><p class="b_left"></p><p class="b_right"></p></div>		
+		</div>
+		
+		
+		
+		<div class="cl ma_b20"></div>
+		
+		
+		
+		<div class="cl"></div>
+		</div>
+		<!--//Privacy Policy -->	
+<div class="cl"></div>
+		</div>
+	   <!-- Contents Area -->
+		
+	<div class="cl"></div>
+	</div><!-- //conbox_wrap2 -->
+	<div class="cl"></div>
+	</div><!-- //conbox_wrap1 -->
+	<div class="cl"></div>
+	</div><!-- //conbox_wrap -->
+	
+
+	<!-- bottom Round Box -->
+	<div class="bottom_roundbox">
+		<div class="frame_b_l"></div>
+		<div class="frame_b_r"></div>
+	</div>
+	<!-- //bottom Round Box -->
+	
+
+	<!-- Footer -->
+	<div id="footer">
+	  <div class="wrap_rel">
+		  <div class="tape1"><img src="/site/images/common/bottom_tape.gif" alt=""></div>
+		  <div class="tape2"><img src="/site/images/common/bottom_tape2.gif" alt=""></div>
+	  </div>
+	  
+	  <div class="foot_part1">
+	  	<a href="http://www.ecplaza.net" target="_blank"><img src="/site/images/common/logo_bottom.gif" alt="ECPlaza" border="0" class="b_logo"></a>
+		<ul>
+			<li><a href="/site/termsConditions.html">Terms &amp; Conditions</a></li>
+			<li>|</li>
+			<li><a href="/site/privacyPolicy.html">Privacy Policy</a></li>
+			<li>|</li>
+			<li><a href="/site/what.html">Getting Started With PostNjoy</a></li>
+			<li class="copyr">Copyright ⓒ 2010, EC Plaza Network, Inc </li>
+		</ul>
+		<div class="cl"></div>
+	  </div>
+	  
+	  <div class="foot_part2">
+	     <a href="javascript:;" onclick="showFeedBack()"><img src="/site/images/common/btn_feedback.gif" alt="Feedback"></a>
+			<a href="/prog/rss.html" target="_blank"><img src="/site/images/common/btn_rss.gif" alt="RSS"></a>
+			<a href="https://twitter.com/PostNjoy" target="_blank"><img src="/site/images/common/btn_twitter.gif" alt="Twitter"></a>
+	  </div>
+	<div class="cl"></div>
+	</div>	
+	<!-- //Footer -->
+	
+
+<div class="cl"></div>
+</div><!-- //Page Width Wrap -->
+<div class="cl"></div>
+</div>
+<!-- Contents End -->
+<!-- comment box -->
+                        <div class="pop_box_wrap w600" id="feedBackDiv" style="position:absolute; z-index:100000;display:none;">
+                          <div class="wrap_rel"></div>
+                          <!-- pop_box -->
+                          <div class="pop_box">
+                            <div class="top_paper"></div>
+                            <div class="wrap_rel"><img src="/site/images/common/btn_pop_close.gif" alt="close" class="pop_close" onclick="hideFeedBack()"></div>
+                            <div class="box_con">
+                              <p class="box_title">Feedback</p>
+															 <!-- tab -->
+															<div class="tab_type1 ma_t20 ma_b30">	
+															<div class="wrap_rel">								
+																	<ul>
+																	<li><a href="javascript:;" id="feedmenu1" onclick="setFeedForm(1)" class="on">Contact us</a></li>
+																	<li><a href="javascript:;" id="feedmenu2" onclick="setFeedForm(2)">My PostNjoy IDEA</a></li>
+																	<li><a href="javascript:;" id="feedmenu3" onclick="setFeedForm(3)">Bug Report</a></li>
+																	</ul>	
+																	<div class="cl"></div>	
+															</div>
+															<div class="cl"></div>	
+															</div>
+															 <div class="cl"></div>	
+															 <div class="box3">
+																<div class="box_con"> &nbsp;</div>
+															</div>
+															 <!-- //tab -->
+
+                              <div class="pop_table">
+							  
+															 <form name="feedForm" method="post" target="feedhiddenframe" enctype="multipart/form-data" style="margin:0px;">
+																<input type="hidden" name="w" value="">
+																<input type="hidden" name="bs_tb" value="contact_us">
+																<input type="hidden" name="feedback" value="1">
+																			
+
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tbody><tr>
+																		<th width="14%" class="radio">Name</th>
+																		<td width="31%" class="td_no"> </td>
+																		<th width="24%" class="radio">E-mail</th>
+																		<td width="31%" class="td_no"></td>
+																	</tr>
+																	<tr>
+																		<th>Subject</th>                                 
+																		<td colspan="3" class="td_no"><input type="text" name="wr_subject" value="" size="77"></td>
+																	</tr>
+																	<tr>
+																		<th class="th_no">&nbsp;</th>
+																		<td colspan="3" class="td_no" height="50px"><textarea name="wr_content" cols="75" rows="3" class="w500" style="overflow-y:scroll;"></textarea></td>
+																	</tr>
+																	<tr>
+																		<th class="radio">Private</th>
+																		<td colspan="3" class="td_no" style="font-size:0.9em; color:red;"><input type="checkbox" value="secret" name="secret" class="de"> If you check the checkbox, the report will be displayed to the operator only</td>
+																	</tr>
+																</tbody></table>
+
+																</form>
+
+
+															<div class="btn_box w100 fc">		
+																	<div class="btn_org2"><a href="javascript:;" onclick="feedFormSubmit()">Send</a>
+																<div class="wrap_rel"><p class="btn_left"></p></div></div>	
+																<div class="cl"></div>
+																</div>
+															</div>
+
+															
+															<iframe name="feedhiddenframe" id="feedhiddenframe" style="display:none;"></iframe>
+															
+
+                            </div>
+                            <!-- //pop_box -->
+                            <div class="cl"></div>
+                          </div>
+                          <div class="cl"></div>
+                        </div>
+                    <!-- //comment box -->
+
+
+<script>
+jQuery(function() {
+	var feedBackDiv = $('#feedBackDiv');
+	var feedmenu1 = $('#feedmenu1');
+	var feedmenu2 = $('#feedmenu2');
+	var feedmenu3 = $('#feedmenu3');	
+});
+
+
+
+
+function setFeedForm(num) {
+	var f = document.feedForm;
+	$(feedmenu1).removeClass('on');
+	$(feedmenu2).removeClass('on');
+	$(feedmenu3).removeClass('on');
+	$('#feedmenu'+num).addClass('on');
+	if(num == 2) {
+		f.bs_tb.value = "idea";
+	} else if(num == 3) {
+		f.bs_tb.value = "bug";
+	} else {
+		f.bs_tb.value = "contact_us";
+	}	
+}
+
+function feedFormSubmit() {
+	var f = document.feedForm;
+	
+	if(!f.wr_content.value) {
+		alert('Enter the Subject.');
+		return;
+	}
+
+	if(!f.wr_content.value) {
+		alert('Enter the contents.');
+		return;
+	}
+
+	f.action = "/prog/Bbs/write_update.html";
+	f.submit();
+
+}
+
+function showFeedBack() {
+		login_box();
+	}
+
+function hideFeedBack() {
+	$(feedBackDiv).DivHide();
+}
+
+
+</script>
+
+<!-- login box -->
+<div id="login_box" style="left:100px;top:100px;position:absolute; z-index:100000;display:none;">
+	
+	<!-- login cont -->
+	<div class="login_con">
+	<p>
+	<img src="/site/images/signup/title_login.gif" alt="Member login" class="fl">
+	<img src="/site/images/signup/logo_postnjoy2.gif" alt="Member login" class="fr ma_t3">
+	</p>
+	<div class="cl"></div>
+	
+	<!-- login box -->
+	<div class="login_in_box">	
+
+		<!-- input form -->
+		<form method="post" name="login_Form" onsubmit="return login_ck()">
+		<ul class="fl">
+			<li class="tt">Username</li>
+			<li class="tt_value"><input type="text" name="login_id" id="login_id" class="myinput" tabindex="3" onkeydown="loginIE()"></li>
+			<li class="tt">Password </li>
+			<li class="tt_value"><input type="password" name="login_password" id="login_password" value="" class="myinput" tabindex="6" onkeydown="loginIE()"></li>
+		</ul>		
+		<p class="btn_login fl"><input type="image" src="/site/images/signup/btn_login.gif" alt="login" class="de"></p>	
+		</form>
+		<!-- //input form -->
+		
+	   <div class="cl"></div>
+	   <hr class="dotline">	   
+	  
+	   <img src="/site/images/signup/login_icon.gif" alt="" class="fl">
+	   <div class="fl w250 ma_l10">
+	   <p class="icon_type3 ma_b5"><a href="/prog/Member/findingPassword.html">Forgot password?</a></p>
+	   <p class="icon_type3"><a href="/prog/Member/regForm.html">Don't have a PostNjoy Account?<br> 
+	     Create an account now.</a></p>
+	   <div class="cl"></div>
+	   </div>
+
+	<div class="cl"></div>		
+	</div>
+	<!-- //login box -->
+	
+	 <!-- colse Button -->
+	   <div class="wrap_rel">
+	   <p class="box_close_btn"><a href="javascript:;" onclick="login_box_close()"><img src="/site/images/signup/btn_login_close.gif" alt="close" border="0"></a></p>
+	   </div>
+	   <!-- //colse Button -->
+	
+	<div class="cl"></div>
+	</div>
+	<!-- //login cont -->
+<div class="cl"></div>
+</div>
+<!-- //login box -->
+
+
+<script type="text/javascript">
+jQuery(function($) {
+		
+	/* 로그인
+	$("#login_box").dialog({
+		bgiframe: true,
+		width: 380,
+		autoOpen: false,
+		draggable: false,
+		resizable: false,
+		modal: true
+	});
+	//*/
+	
+	$('.login').click(function() {
+		$('#login_box').DivShow();
+		$('#login_id').focus();
+	});
+
+	
+});
+
+function login_box() {
+	$('#login_box').DivShow();
+	$('#login_id').focus();
+}
+
+function login_box_close() {
+	$('#login_box').DivHide();
+	$('#login_id').val('');
+	$('#login_password').val('');
+}
+
+
+function login_ck() {
+	if($('#login_id').val() == '') {
+		alert("Please enter your username.");
+		$('#login_id').focus();
+		return false;
+	}
+
+	if($('#login_password').val() == '') {
+		alert("Please enter your password.");
+		$('#login_password').focus();
+		return false;
+	}
+
+	$.ajax({
+		url: '/prog/Member/ajax_login_check.php',
+		data: {'login_id': $('#login_id').val(),'login_password': $('#login_password').val()},
+		type: 'post',
+		dataType: 'json',
+		beforeSend: function() {
+		},
+		error: function() {
+			alert('전송중 오류가 발생하였습니다.');
+		},
+		success: function(response) {
+			/*
+			var a = "";
+			$.each(res, function(k,n){
+				a += "\n" + k + " : " + n;
+			});
+			alert(a);
+			return;
+			//*/
+			switch(response.result) {
+				case '110' : response.msg = 'Username or password must not be blank.';response.color = 'red'; break;
+				case '120' : response.msg = 'The username or password you entered appears to be invalid.';response.color = 'red'; break;
+				case '130' : response.msg = 'Your ID is not permitted to access. '+response.date;response.color = 'red'; break;
+				case '140' : response.msg = 'You cannot access. The ID is withdrawn. '+response.date;response.color = 'red'; break;
+				case '150' : response.msg = 'You need to receive verification email for login. \n\n Your email address is '+response.email+'.';response.color = 'red'; break;
+				case '000' : response.msg = '';response.color = 'blue'; break;
+				default : response.msg = '';response.color = '#000000'; break;
+			}
+
+
+			if(response.result == '000') {
+				location.replace('/site/privacyPolicy.html');
+			} else {
+				alert(response.msg);
+			}
+		}
+	});
+
+
+	return false;
+}
+
+function loginIE() {
+	if(event.keyCode == 13 && $.browser.msie == true) {
+		login_ck();
+	}
+
+	if(event.keyCode == 27 && $.browser.msie == true) {
+		login_box_close();
+	}
+}
+
+function left_login_ck() {
+	if($('#left_login_id').val() == '') {
+		alert("Please enter your username.");
+		$('#left_login_id').focus();
+		return false;
+	}
+
+	if($('#left_login_password').val() == '') {
+		alert("Please enter your password.");
+		$('#left_login_password').focus();
+		return false;
+	}
+
+	$.ajax({
+		url: '/prog/Member/ajax_login_check.php',
+		data: {'login_id': $('#left_login_id').val(),'login_password': $('#left_login_password').val()},
+		type: 'post',
+		dataType: 'json',
+		beforeSend: function() {
+		},
+		error: function() {
+			alert('전송중 오류가 발생하였습니다.');
+		},
+		success: function(response) {
+			/*
+			var a = "";
+			$.each(res, function(k,n){
+				a += "\n" + k + " : " + n;
+			});
+			alert(a);
+			return;
+			//*/
+			switch(response.result) {
+				case '110' : response.msg = 'Username or password must not be blank.';response.color = 'red'; break;
+				case '120' : response.msg = 'The username or password you entered appears to be invalid.';response.color = 'red'; break;
+				case '130' : response.msg = 'Your ID is not permitted to access. '+response.date;response.color = 'red'; break;
+				case '140' : response.msg = 'You cannot access. The ID is withdrawn. '+response.date;response.color = 'red'; break;
+				case '150' : response.msg = 'You need to receive verification email for login. \n\n Your email address is '+response.email+'.';response.color = 'red'; break;
+				case '000' : response.msg = '';response.color = 'blue'; break;
+				default : response.msg = '';response.color = '#000000'; break;
+			}
+
+
+			if(response.result == '000') {
+				location.replace('/site/privacyPolicy.html');
+			} else {
+				alert(response.msg);
+			}
+		}
+	});
+
+
+	return false;
+}
+		
+</script><script language="javascript" src="/prog/Classes/Javascripts/wrest.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-233728-19']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" charset="utf-8" src="http://log.inside.daum.net/dwi_log/js/dwi.js"></script>
+<script type="text/javascript">
+	_dwiPID="d-PSp-275";
+	if(typeof(_dwiCatch) == "function") { _dwiCatch();}
+</script>
+
+
+</body></html>
