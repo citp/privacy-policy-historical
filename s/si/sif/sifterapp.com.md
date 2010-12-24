@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102155643id_/http%3A//sifterapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sifterapp.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224155403id_/http%3A//sifterapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sifter
 
@@ -10,7 +10,7 @@
 
 4\. Cookies. A cookie is a small amount of data which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use our Services. We use non-permanent cookies that last for up to two weeks to record current session information. You are required to log in to our website after a certain period of time has elapsed to protect you against others accidentally accessing your account.
 
-5\. IP Addresses. Your IP address is a number that is used by computers and servers on the Internet to identify your computer. Our web servers automatically collect your IP address as "traffic data" and so that we can send information back to you when you request it (e.g., web pages from the Service). We will not use your IP address to attempt to identify your personal information.
+5\. IP Addresses. Your IP address is a number that is used by computers and servers on the Internet to identify your computer. Our web servers automatically collect your IP address as "traffic data" and so that we can send information back to you when you request it (e.g., web pages from the Service). We may store your IP address when during the registration or billing process in order to help identify or prevent fraudulent or illegal activities. We will only use your IP address in an attempt to identify fraudulent activity.
 
 6\. Referrers. A referrer is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our web server as “traffic data”. We use this information to identify broad demographic trends that we may use to improve our products and Services. We will not personally identify you from this information.
 
@@ -28,6 +28,6 @@
 
 14\. Modification of Privacy Policy. We reserve the right to change or update our Privacy Policy at any time by posting a notice on our website.
 
-15\. Contact Us. If you have any questions regarding this Privacy Policy please contact us at support@nextupdate.com.
+15\. Contact Us. If you have any questions regarding this Privacy Policy please contact us using our [support request form](https://web.archive.org/support).
 
 Version 1 - June 24th, 2008
