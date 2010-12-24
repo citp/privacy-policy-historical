@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2010-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100407205753id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2010-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224161530id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html lang="en-us" xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
@@ -62,25 +62,46 @@
         <div id="header">
             
 <!-- ### start main navigation html include ### -->
+
 <script type="text/javascript">var user_logged_in = false;var zip_known = false;</script>
-<div id="logo"><a href="/"><img src="/Content/images/logos/trugreen_big_gogreener.gif" width="175" height="55" border="0" alt="TruGreen - Go Greener"></a></div>
+
+<script type="text/javascript">
+    function pressedKey() {
+        if (event.keyCode == 13) {
+            document.getElementById("loginbuttoncontainer").focus();
+        }
+    }
+</script>
+
+<div id="logo">
+    <a href="/">
+        <img src="/Content/images/logos/trugreen_big_gogreener.gif" width="175" height="55" border="0" alt="TruGreen - Go Greener"></a></div>
 <div id="navtools">
     <div id="navtoolsholder">
-        <div id="estimatelink" class="navitem"><a class="navyellow" href="https://purchase.trugreen.com">Get an Estimate</a></div>
-        <div id="quotelink" class="navitem"><a class="navyellow" href="https://purchase.trugreen.com">Request a Quote</a></div>
-        <div id="contactuslink" class="navitembullet"><a class="navyellow" href="/about/contact">Contact Us</a></div>
-        <div id="registerlink" class="navitembullet" style="display: block;"><a class="navyellow" href="https://info.trugreen.com/app/utils/create_account">Register</a></div>
-        <div id="username" class="navitem" style="display: none;">Welcome,
-            &nbsp;! </div>
-        <div id="logoutlink" class="navitem" style="display: none;"><a class="navyellow" href="javascript:process_logout('https://info.trugreen.com/app/account/logout/redirects/', 'http://trugreen.com:80/About/Privacy', 'http://purchase.trugreen.com');">Logout</a></div>
-        <div id="loginlink" class="navitembullet"><a class="navyellow" href="javascript:open_login();">Login</a></div>
+        <div id="estimatelink" class="navitem">
+            <a class="navyellow" href="http://purchase.trugreen.com">Get an Estimate</a></div>
+        <div id="quotelink" class="navitem">
+            <a class="navyellow" href="http://purchase.trugreen.com">Request a Quote</a></div>
+        <div id="contactuslink" class="navitembullet">
+            <a class="navyellow" href="/about/contact">Contact Us</a></div>
+        <div id="registerlink" class="navitembullet" style="display: block;">
+            <a class="navyellow" href="https://info.trugreen.com/app/utils/create_account">Register</a></div>
+        <div id="username" class="navitem" style="display: none;">
+            Welcome,
+            &nbsp;!
+        </div>
+        <div id="logoutlink" class="navitem" style="display: none;">
+            <a class="navyellow" href="javascript:process_logout('https://info.trugreen.com/app/account/logout/redirects/', 'http://trugreen.com:80/About/Privacy', 'http://purchase.trugreen.com');">Logout</a></div>
+        <div id="loginlink" class="navitembullet">
+            <a class="navyellow" href="javascript:open_login();">Login</a></div>
         <div id="loginformcontainer" class="navitem" style="display: block;">
-            <form id="loginform" name="LoginForm_3" method="post" action="javascript: process_login('https://info.trugreen.com/app/utils/login_form/redirects/', 'http://trugreen.com:80/About/Privacy');">
+            <form id="loginform" name="LoginForm_3" method="post" action="javascript: process_login('https://info.trugreen.com/app/utils/login_form/redirects/', 'http://trugreen.com:80/About/Privacy');" onkeypress="pressedKey();">
             <input type="text" value="EMAIL" name="login" id="email" class="loginfield" onfocus="email_clear()" onblur="email_reset()">&nbsp;<input type="password" value="PASSWORD" name="password" id="password" class="loginfield" onfocus="password_clear()" onblur="password_reset()">&nbsp;<input type="image" id="loginbuttoncontainer" src="/Content/images/nav/topnav_button_login.gif" border="0" alt="Log In">
             </form>
         </div>
         <div id="searchformcontainer" class="navitem">
-            <form id="searchform" name="searchform" method="post" action="javascript: process_search();">
+            <form id="searchform" name="searchform" method="post" action="javascript: process_search('http://info.trugreen.com');">
+            <input type="hidden" id="searchzip" value="">
             <input type="text" value="SITE SEARCH" name="search" id="search" class="searchfield" onfocus="search_clear()" onblur="search_reset()">&nbsp;<input type="image" id="searchbuttoncontainer" src="/Content/images/nav/topnav_button_go.gif" border="0" alt="Go">
             </form>
         </div>
@@ -88,25 +109,44 @@
 </div>
 <div id="navmain">
     <div id="navmainholder" style="visibility: visible;">
-        <div id="homelink1" class="navitem" style="display: none;"><a class="navgrey" href="/">For Home</a></div>
-        <div id="homelink4" class="navitem" style="display: none;"><a class="navgrey" href="/branch">Branch Info</a></div>
-        <div id="homelink2" class="navitemseparator" style="display: none;"><a class="navgrey" href="/Commercial">For Business</a></div>
-        <div id="homelink3" class="navitemseparator" style="display: none;"><a class="navgrey" href="/About">About TruGreen</a></div>
-        <div id="sublink1home" class="navitem" style="padding-right: 1px; display: block;"><a class="navgrey" href="/home" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Home</a></div>
-        <div id="sublink1business" class="navitem" style="padding-right: 1px; display: none;"><a class="navgrey" href="/commercial" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Business</a></div>
-        <div id="sublink1branch" class="navitem" style="padding-right: 1px; display: none;"><a class="navgrey" href="/branch" onmouseover="open_dropdown()" onmouseout="close_dropdown()">Branch Info</a></div>
-        <div id="sublink1about" class="navitem" style="padding-right: 1px; display: none;"><a class="navgrey" href="/about" onmouseover="open_dropdown()" onmouseout="close_dropdown()">About Trugreen</a></div>
-        <div id="sublink2" class="navitem"><a href="javascript:open_dropdown();"><img src="/Content/images/nav/topnav_downarrow.gif" width="17" height="17" border="0" alt=""></a></div>
-        <div id="sublink3" class="navitemseparator"><a class="navgrey" href="/Services">Lawn &amp; Yard Services</a></div>
-        <div id="sublink4" class="navitemseparator"><a class="navgrey" href="/Tips">Tips &amp; Resources</a></div>
-        <div id="sublink5" class="navitemseparator"><a class="navgrey" href="/Gallery">Lawn Gallery</a></div>
-        <div id="sublink6" class="navitemseparator" style="display: none;"><a class="navgrey" href="https://myaccount.trugreen.com">My&nbsp;Account</a></div>
-        <div id="sublink7" class="navitemseparator"><a class="navgrey" href="/About/Contact">Contact&nbsp;Us</a></div>
+        <div id="homelink1" class="navitem" style="display: none;">
+            <a class="navgrey" href="/">For Home</a></div>
+        <div id="homelink4" class="navitem" style="display: none;">
+            <a class="navgrey" href="/branch">Branch Info</a></div>
+        <div id="homelink2" class="navitemseparator" style="display: none;">
+            <a class="navgrey" href="http://www.trugreencommercial.com" target="_blank">For Business</a></div>
+        <div id="homelink3" class="navitemseparator" style="display: none;">
+            <a class="navgrey" href="/About">About TruGreen</a></div>
+        <div id="sublink1home" class="navitem" style="padding-right: 1px; display: block;">
+            <a class="navgrey" href="/home" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Home</a></div>
+        <div id="sublink1business" class="navitem" style="padding-right: 1px; display: none;">
+            <a class="navgrey" href="http://www.trugreencommercial.com" target="_blank" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Business</a></div>
+        <div id="sublink1branch" class="navitem" style="padding-right: 1px; display: none;">
+            <a class="navgrey" href="/branch" onmouseover="open_dropdown()" onmouseout="close_dropdown()">Branch Info</a></div>
+        <div id="sublink1about" class="navitem" style="padding-right: 1px; display: none;">
+            <a class="navgrey" href="/about" onmouseover="open_dropdown()" onmouseout="close_dropdown()">About Trugreen</a></div>
+        <div id="sublink2" class="navitem">
+            <a href="javascript:open_dropdown();">
+                <img src="/Content/images/nav/topnav_downarrow.gif" width="17" height="17" border="0" alt=""></a></div>
+        <div id="sublink3" class="navitemseparator">
+            <a class="navgrey" href="/Services">Lawn &amp; Yard Services</a></div>
+        <div id="sublink4" class="navitemseparator">
+            <a class="navgrey" href="/Tips">Tips &amp; Resources</a></div>
+        <div id="sublink5" class="navitemseparator">
+            <a class="navgrey" href="/Gallery">Lawn Gallery</a></div>
+        <div id="sublink6" class="navitemseparator" style="display: none;">
+            <a class="navgrey" href="https://myaccount.trugreen.com">My&nbsp;Account</a></div>
+        <div id="sublink7" class="navitemseparator">
+            <a class="navgrey" href="/About/Contact">Contact&nbsp;Us</a></div>
     </div>
 </div>
-<div id="dropdownmask"></div>
-<div id="dropdownback"><img class="pngfix" src="/Content/images/nav/dropdown_back.png" width="137" height="113" border="0" alt=""></div>
-<div id="dropdownlinks"><a class="dropdownitem" href="/" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Home</a> <a class="dropdownitem" href="/Commercial" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Business</a> <a class="dropdownitem" href="/Branch" onmouseover="open_dropdown()" onmouseout="close_dropdown()">Branch Info</a> <a class="dropdownitem" href="/About" onmouseover="open_dropdown()" onmouseout="close_dropdown()">About TruGreen</a> </div>
+<div id="dropdownmask">
+</div>
+<div id="dropdownback">
+    <img class="pngfix" src="/Content/images/nav/dropdown_back.png" width="137" height="113" border="0" alt=""></div>
+<div id="dropdownlinks">
+    <a class="dropdownitem" href="/" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Home</a> <a class="dropdownitem" href="http://www.trugreencommercial.com" target="_blank" onmouseover="open_dropdown()" onmouseout="close_dropdown()">For Business</a> <a class="dropdownitem" href="/Branch" onmouseover="open_dropdown()" onmouseout="close_dropdown()">Branch Info</a> <a class="dropdownitem" href="/About" onmouseover="open_dropdown()" onmouseout="close_dropdown()">About TruGreen</a>
+</div>
 <!-- ### end main navigation html include ### -->
 
         </div>
@@ -196,7 +236,9 @@ var google_conversion_value = 0;
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1067292577/?label=9lNkCNvRsAEQoa_2_AM&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript>
+</noscript> <img class=" wkudgxkzfgehoikbdwfq" src="http://segment-pixel.invitemedia.com/pixel?pixelID=9398&amp;partnerID=87&amp;clientID=2266&amp;key=segment" alt="" width="1" height="1">
+    
+    <img src="http://segment-pixel.invitemedia.com/pixel?pixelID=9398&amp;partnerID=87&amp;clientID=2266&amp;key=segment" width="1" height="1">
 
 
 </body></html>
