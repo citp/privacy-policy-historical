@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialactions.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623112711id_/http%3A//www.socialactions.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialactions.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224203508id_/http%3A//socialactions.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Actions
 
 This is the web site of Social Actions.
 
-We can be reached via e-mail at: [actions@socialactions.com](mailto:actions@socialactions.com), or you can reach us by telephone at 718-766-5367.
+We can be reached via e-mail at: [team@socialactions.com](mailto:team@socialactions.com), or you can reach us by telephone at 415-425-7482.
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name and e-mail address (where possible).
 
