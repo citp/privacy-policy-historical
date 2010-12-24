@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505160938id_/http%3A//www.blackicepass.com/legal.php%3Flink_id%3D1%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224083959id_/http%3A//www.blackicepass.com/legal.php%3Flink_id%3D1%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # Full High Definition Ebony and Interracial Movies - HD Porn Movies from BlackIcePass.com
 
    
-[](https://web.archive.org/index.php?link_id=5405)  
+[](https://web.archive.org/index.php?link_id=5168&tracker_id=1730)  
 |    | 
 
 |   
@@ -19,7 +19,7 @@ We are the sole owner of the information collected on the Sites. We will not sel
 
 Registration and Order Forms
 
-In order to gain access to our Site, you may be requested to provide us with your date of birth. In addition, in order to purchase goods and services from our Sites, or to become a member of our Sites, a user must complete the on-line registration/order form. During registration, a user is required to provide us with certain contact information (which may include your name, mailing address, phone number, fax number, and e-mail address) and certain financial information (like your credit card number and the expiration date for your credit card). This information is used to set-up and maintain an account, verify credit card details, validate credit identity and to ship product. If we have trouble processing an order or otherwise need to contact a user, the contact information is used to get in touch with the user. From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs. 
+In order to gain access to our Site, you may be requested to provide us with your date of birth. In addition, in order to purchase goods and services from our Sites, or to become a member of our Sites, a user must complete the on-line registration/order form. During registration, a user is required to provide us with certain contact information (which may include your name, mailing address, phone number, fax number, and e-mail address). If we have trouble processing an order or otherwise need to contact a user, the contact information is used to get in touch with the user. From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs. 
 
 Cookies
 
@@ -57,7 +57,7 @@ Collect personally identifiable information from them. We encourage parents and 
 
 Correction/Updating Personal Information
 
-If a user’s personally identifiable information changes (such as phone number or a credit card number), or if a user no longer desires our service, you may contact us to correct or update this information. 
+If a user’s personally identifiable information changes (such as phone number), or if a user no longer desires our service, you may contact us to correct or update this information. 
 
 Choice/Opt-out
 
@@ -73,9 +73,9 @@ Contact Information
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker. 
 
-For www.blackicepass.com and its related sites, please [contact us](https://web.archive.org/contact.php?link_id=5405).   
+For www.blackicepass.com and its related sites, please [contact us](https://web.archive.org/contact.php?link_id=5168&tracker_id=1730).   
   
 Download and watch all of the BlackIcePass Exclusive DVDs for one low price!  
-[](https://web.archive.org/join.php?link_id=5405)  
+[](https://web.archive.org/join.php?link_id=5168&tracker_id=1730)  
   
  
